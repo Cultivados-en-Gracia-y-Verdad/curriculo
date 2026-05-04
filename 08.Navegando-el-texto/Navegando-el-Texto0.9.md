@@ -3491,7 +3491,7 @@ con gozo dando gracias al Padre.
 
   ------
 
-  # RESPUESTA 2 — Colosenses 1:9–12
+  # RESPUESTA 2 — Colosenses 1:9–14
 
   ## PASO 8 — TRONCO
 
@@ -3500,7 +3500,7 @@ con gozo dando gracias al Padre.
   no ==hemos cesado==
   
   [S: nosotros → ustedes]
-  ==sean llenos==
+  ==sean llenos== 
   
   ==anden==
   

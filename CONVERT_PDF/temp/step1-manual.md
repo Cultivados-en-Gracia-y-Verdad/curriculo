@@ -1,3682 +1,2179 @@
 ---
-title: "Navegando el Texto"
-subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
-author:  "CGV"
-version:  "0.9"
-date:  "2026-04-25"
-cover: "images/portada.png"
+title: "Filipenses"
+subtitle: "Viviendo lo que ya es verdadero"
+author: "CGV"
+cover: "images/portada2.png"
+version: "0.5"
+date: "2026-05-03"
 ---
+
+:::title
+FILIPENSES
+:::
+
+:::subtitle
+Viviendo lo que ya es verdadero
+:::
 
 # INTRODUCCIÓN
 
-Cuando un barco zarpa, no lo hace a la deriva. <u>Sale</u> con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
+## Importancia del libro
 
-De la misma manera, acercarse al <u>texto</u> bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
+##### La carta a los Filipenses presenta un <u>contenido</u> dirigido a creyentes. Desde el inicio, el texto se dirige a personas que ya están \scripture{en Cristo Jesús} (Filipenses 1:1), identificadas como \scripture{santos en Cristo Jesús}. Este grupo no cambia a lo largo de la carta; el destinatario permanece constante en todo momento.
 
-Antes de avanzar, es importante <u>aclarar</u> la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos RO₁O₂TS.
+##### A lo largo del desarrollo se repiten temas que mantienen la coherencia del mensaje: el evangelio (Filipenses 1:5, 1:12, 1:27), el <u>gozo</u> (Filipenses 1:4, 2:2, 4:4), la participación (Filipenses 1:7, 4:14–16) y la actitud junto con el andar (Filipenses 2:2–5, 3:17). Estos no aparecen de forma aislada, sino dentro de un flujo continuo.
 
-RO₁O₂TS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En <u>lugar</u> de correr hacia interpretaciones rápidas, RO₁O₂TS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+##### El texto avanza de manera progresiva: Pablo ora por ellos (Filipenses 1:3–11), describe su situación (Filipenses 1:12–26), <u>exhorta</u> a su conducta (Filipenses 1:27–2:18), presenta ejemplos concretos (Filipenses 2:19–30), introduce un contraste (Filipenses 3:1–19), afirma una dirección futura (Filipenses 3:20–21), da instrucciones prácticas (Filipenses 4:1–9) y reconoce su apoyo (Filipenses 4:10–20). Todo esto ocurre sin romper la línea del desarrollo.
 
-En este curso, RO₁O₂TS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a <u>decir</u> algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+##### El enfoque se mantiene en una sola dirección: estar firmes (Filipenses 1:27; 4:1), tener un mismo sentir (Filipenses 2:2; 3:15), no poner confianza en la <u>carne</u> (Filipenses 3:3), seguir adelante hacia la meta (Filipenses 3:12–14) y vivir conforme a lo alcanzado (Filipenses 3:16). No se introducen múltiples objetivos, sino una misma línea sostenida.
 
-Es importante también aclarar de dónde proviene esta <u>forma</u> de acercarse al texto. RO₁O₂TS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+##### Todo el contenido permanece centrado en <u>Cristo</u>. Expresiones como \scripture{en Cristo Jesús} (Filipenses 1:1; 4:23), \scripture{ganar a Cristo} (Filipenses 3:8), \scripture{ser hallado en Él} (Filipenses 3:9) y \scripture{conocerlo a Él} (Filipenses 3:10) se repiten a lo largo de la carta, mostrando que el centro no cambia en ningún momento.
 
-Los principios detrás de RO₁O₂TS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de <u>textos</u>: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+##### Dentro de este desarrollo surge una <u>pregunta</u> natural del mismo texto. Por un lado, la carta afirma realidades claras en los creyentes: \scripture{santos en Cristo Jesús} (Filipenses 1:1), \scripture{Dios… perfeccionará la buena obra} (Filipenses 1:6), \scripture{a ustedes se les ha concedido creer} (Filipenses 1:29). Por otro lado, presenta llamados directos a actuar: \scripture{compórtense dignamente} (Filipenses 1:27), \scripture{tengan esta actitud} (Filipenses 2:5), \scripture{ocúpense en su salvación} (Filipenses 2:12). Ambas líneas aparecen dentro de la misma carta.
 
-RO₁O₂TS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva <u>forma</u> de leer, sino recuperando una manera sólida y probada de hacerlo.
+##### El texto no elimina la <u>acción</u>, sino que la mantiene. Filipenses 2:12 introduce un mandato directo (\scripture{ocúpense}), dirigido a los mismos creyentes, sin cambiar el grupo. Inmediatamente, Filipenses 2:13 añade que \scripture{Dios es quien obra en ustedes tanto el querer como el hacer}. Ambos versículos permanecen unidos dentro del mismo flujo.
 
-Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: RO₁O₂TS. No es una fórmula rígida, sino una <u>guía</u> que nos ayuda a no desviarnos del texto.
+##### De esta manera, la carta mantiene ambas <u>líneas</u> sin separarlas: la acción del creyente y la acción de Dios. No se presentan como opuestas, ni como alternativas, sino dentro de una misma secuencia continua.
 
-# ¿QUÉ ES RO₁O₂TS?
+##### El desarrollo apunta a un <u>andar</u> constante. El lenguaje muestra movimiento: \scripture{luchando unánimes} (Filipenses 1:27), \scripture{sigo adelante} (Filipenses 3:12), \scripture{prosigo hacia la meta} (Filipenses 3:14), \scripture{continuemos viviendo} (Filipenses 3:16). A la vez, incluye un enfoque interno: \scripture{misma actitud} (Filipenses 2:2; 3:15), \scripture{mediten en esto} (Filipenses 4:8), \scripture{esto practiquen} (Filipenses 4:9). Todo permanece dentro de una misma línea sin romperse.
 
-## INTRODUCCIÓN
+##### Finalmente, el centro se mantiene en <u>Cristo</u>. Toda acción se ubica en Él, todo desarrollo regresa a Él, y no se introduce otro eje. La carta avanza en una sola dirección, sin cambiar su enfoque en ningún momento.
 
-### Qué es RO₁O₂TS
+## Ciudad de Filipos
 
-###### RO₁O₂TS es el proceso completo para trabajar un <u>texto</u>.
+##### La ciudad de Filipos tiene una particularidad que el autor del libro de los hechos hizo notar. 
 
-###### No es <u>solo</u> análisis.
+###### \scripture{...fuimos a Filipos, que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días.} Hechos 16:12
 
-###### No es solo <u>estructura</u>.
+###### \scripture{...es una ciudad principal de la provincia de Macedonia;} 
 
-###### 👉 Es ver, seguir y someterse al <u>texto</u>.
+##### La ciudad fue fundada originalmente en el 360 a. C. con el nombre de Krenides (que significa manantiales), por colonos procedentes de la isla de Tasos.  
 
-##### Cómo funciona
+##### Sin embargo, tan solo cuatro años después, fue conquistada por el rey Filipo II de Macedonia , padre de Alejandro Magno, quien la rebautizó en su honor.  
 
-###### RO₁O₂TS se desarrolla en <u>cinco</u> partes:
+###### \scripture{una colonia romana;}
 
-###### R — Revelación
-* 👉 Dios <u>habló</u>
-* 👉 Usó lenguaje
-* 👉 El texto comunica
+##### Las colonias eran ciudades fundadas según el modelo romano, con calles, mercados, foros, templos y teatros, y gozaban de un estatus legal especial que concedía ciertos privilegios a sus habitantes.  
 
-###### O₁ — <u>Observar</u> la estructura
-* 👉 Cómo está construido el texto
-* 👉 Cómo se <u>conecta</u>
-* 👉 Cómo se desarrolla
+##### Para llevar a cabo la asimilación romana en una colonia, el Estado premiaba a veteranos del ejército con tierras en las provincias conquistadas pero aún sin pacificar. 
 
-###### O₂ — Observar lo que el <u>texto</u> dice
-* 👉 Qué afirma
-* 👉 Qué <u>repite</u>
-* 👉 Qué contrasta
+##### De esta manera, la cultura romana se expandía por el territorio y, con el tiempo, sus habitantes solían adoptar el modo de vida de los colonos. 
 
-###### T — Trazar el texto
-* 👉 Cómo avanza de principio a fin
-* 👉 Cómo se conectan sus partes
-* 👉 Cómo <u>fluye</u> el desarrollo
+##### Filipenses 3:20 menciona, \scripture{...nuestra ciudadanía está en los cielos...,} los Filipenses no eran de esa ciudad sino del cielo, donde tenemos vida eterna y una morada eterna que no perece y nunca se destruye.
 
-###### S — Someterse al texto
-* 👉 No ajusto el texto a mí
-* 👉 Me coloco bajo lo que afirma
-* 👉 Dejo que el <u>texto</u> tenga la última palabra
+##### Filipos albergaba una famosa escuela romana de medicina, y la tradición sostiene que el evangelista Lucas estudió allí e inició su ministerio con la congregación de los filipenses. Esto probablemente significaba que la iglesia contaba con muchos miembros instruidos, con formación en ciencias, filosofía y religión, algo común en las ciudades romanas de la época. 
 
-##### Principio clave
+##### Después de la visita del apóstol San Pablo a Filipos en los años 49 a 50 de nuestra era común, la ciudad se convirtió en un centro de propagación del cristianismo. Los vestigios de sus iglesias constituyen un testimonio excepcional del asentamiento de los primeros cristianos. 
 
-###### RO₁O₂TS no termina en el análisis.
+##### La ciudad de Filipos fue casi completamente abandonada tras un catastrófico terremoto ocurrido alrededor del año 619 d. C.; y en algún momento después de la conquista otomana, el lugar quedó completamente desierto. 
 
-###### ❗ RO₁O₂TS incluye:
-* observar
-* <u>seguir</u>
-* someterse
+## Autor, localización y Fecha de escritura
 
-##### Regla central
-###### ❗ Si no completas todo el proceso,
+##### Autor
 
-###### no has terminado RO₁O₂TS
+###### El autor es conocido por la iglesia de los Filipenses y además es una de las cartas en las que Pablo no se presenta como un apóstol y tampoco defiende su apostolado, como lo hace en otras cartas.
 
-##### Frase <u>clave</u>
-> “No interpreto el texto.
-> Lo observo, lo sigo y me someto a él.”
+###### El autor se describe como Pablo siervo de Jesucristo, Filipenses 1:1 sin necesidad de aclarar su apostolado, ellos conocían a Pablo ya que fue castigado públicamente y encarcelado pero liberado de sus cadenas; siendo notorias las maravillas del poder de Dios en aquella Ciudad. Hechos 16:14-15; 16-18; 25-34
 
-##### Qué debes notar
-###### RO₁O₂TS no es un método para explicar el <u>texto</u>.
+###### En su segundo viaje misionero Pablo llego a la ciudad de Filipos a través de una revelación que tuvo mientras eran dirigidos a Macedonia por el Espíritu Santo, quien también impidió que se dirigiera a diferentes lugares. Hechos 16:6-12
 
-###### 👉 Es un proceso para dejar que el texto hable.
+##### Localización
 
-RO₁O₂TS no añade <u>nada</u> al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
+###### Después de su segundo viaje misionero Pablo retorno a Jerusalén, donde fue encarcelado y llevado hasta la ciudad de Roma. Romanos 15:25-26; Hechos 28:16; 
 
-# R – Revelación
+###### Al escribir la Epístola a los Filipenses, Se encuentra en prisión, en defensa y confirmación del evangelio, en Cadenas. Filipenses 1:7, 13, 16
 
-Antes de aprender a observar o <u>seguir</u> el texto, necesitamos establecer algo fundamental: \textbf{¿qué es lo que tenemos delante?}
+###### También es custodiado por la guardia pretoriana encontrándose en medio de conflictos, donde Pablo pensaba que probablemente llegaría a morir. Filipenses 1:13, 30, 2:17
 
-No estamos frente a un texto cualquiera.
+###### Se encuentra escribiendo la carta ubicado en Roma, junto con Timoteo y Epafrodito pasando por muchas aflicciones Filipenses 2:19, 25, 4:14
 
-Dios ha comunicado.
+###### También se encuentra rodeado de hermanos de la ciudad de Roma como también hermanos que son de la casa de Cesar. Filipenses 4:21-22
 
-No dejó ideas <u>sueltas</u>.
- No dejó mensajes ocultos.
- No habló en fragmentos aislados.
+##### Fecha de escritura
 
-Dios \textbf{reveló}.
+###### La carta no indica una <u>fecha</u> exacta. El texto solo muestra que Pablo está en prisión (Filipenses 1:7, 1:13), sin mencionar un año específico ni dar una referencia histórica directa. Por comparación con otros textos, como el capítulo 28 del Libro de los Hechos y otras cartas escritas en contexto de prisión, suele ubicarse aproximadamente entre los años 60–62 d.C.
 
-## ¿Qué significa revelación?
+## Destinatarios
 
-##### Revelación significa que el contenido \textbf{no se originó en el hombre}, <u>sino</u> que fue dado.
+##### La carta fue entregada a los filipenses por medio de Epafrodito, quien había visitado a Pablo en su prisión y le llevó noticias de ellos, junto con una ofrenda para sus necesidades (Filipenses 4:18). Esto muestra que existía una relación activa entre Pablo y los creyentes en Filipos, marcada por comunicación y cuidado mutuo.
 
-##### Esto cambia completamente nuestra postura.
+##### Los destinatarios conocían a Pablo de manera personal. El texto de Book of Acts muestra que su tiempo con ellos fue limitado, ya que en su primera visita tuvo que salir de la ciudad después de la presión de las autoridades (Hechos 16:39). Aun así, ese tiempo fue suficiente para establecer una relación directa que se mantiene visible en toda la carta.
 
-###### No nos acercamos al <u>texto</u> para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.
+##### El desarrollo de la iglesia continuó después de la salida de Pablo. Según el relato de Book of Acts, Lucas permaneció en Filipos mientras Pablo, Timoteo y Silas continuaron su recorrido (Hechos 16:40; 17:1). Más adelante, Lucas vuelve a aparecer acompañando a Pablo (Hechos 20:5–6), lo que muestra continuidad en el contacto con esa iglesia.
 
-###### Hay una diferencia clara:
-- En el descubrimiento, el hombre busca y llega a conclusiones
-- En la revelación, la verdad es <u>dada</u> al hombre
-- No estamos tratando de “llegar” a la verdad del texto. 
-- Estamos <u>siendo</u> confrontados con algo que ya ha sido dicho.
+##### El texto de la carta indica características del grupo. Pablo se dirige a “todos los santos en Cristo Jesús… incluyendo a los obispos y diáconos” (Filipenses 1:1), lo cual muestra una comunidad organizada. También menciona advertencias específicas (Filipenses 3:2), lo que indica que enfrentaban influencias externas que afectaban su entorno.
 
-## Dios comunicó por medio de lenguaje
+##### A lo largo de la carta, los destinatarios son descritos en términos de relación cercana con Pablo. Él habla de ellos como su gozo y corona (Filipenses 4:1), lo cual refleja cómo los identifica dentro del desarrollo de la carta, no solo como oyentes, sino como participantes activos en el evangelio (Filipenses 1:5; 4:14–16).
 
-Dios no <u>solo</u> reveló.
+## Propósito de la carta
 
-Lo hizo por medio de \textbf{lenguaje}.
+##### La carta a los Filipenses muestra un <u>propósito</u> que se desarrolla de manera continua a lo largo del texto. Pablo escribe a creyentes identificados desde el inicio como “santos en Cristo Jesús” (Filipenses 1:1), y a partir de ahí no cambia ese grupo. La carta no introduce otro tipo de audiencia, sino que mantiene el mismo enfoque en personas que ya participan del evangelio (Filipenses 1:5). Desde el principio, Pablo ora por ellos (Filipenses 1:3–11), describe su propia situación (Filipenses 1:12–26), y luego dirige su atención a cómo deben vivir (Filipenses 1:27). Todo esto ocurre dentro de una misma línea sin interrupción.
 
-Esto significa que lo que tenemos <u>delante</u> no es una colección de pensamientos dispersos, sino \textbf{comunicación intencional}.
+###### A lo largo de la carta, el <u>evangelio</u> permanece como el eje central. Pablo habla de su participación en el evangelio (Filipenses 1:5), de su defensa y confirmación (Filipenses 1:7), y de su progreso aun en medio de sus prisiones (Filipenses 1:12). Luego exhorta a los creyentes a mantenerse firmes en un mismo espíritu, luchando unánimes por la fe del evangelio (Filipenses 1:27). El texto no introduce otro centro; todo gira alrededor de esta misma realidad.
 
-Y toda comunicación tiene propósito.
+###### Al mismo tiempo, la carta muestra un llamado constante a la <u>conducta</u>. Pablo no se queda en declaraciones, sino que dirige a una manera de vivir: tener un mismo sentir (Filipenses 2:2), adoptar una actitud específica (Filipenses 2:5), hacer todas las cosas sin murmuraciones (Filipenses 2:14), seguir adelante (Filipenses 3:12), y practicar lo aprendido (Filipenses 4:9). Este llamado no aparece como algo aislado, sino que se mantiene de principio a fin como parte del mismo desarrollo.
 
-## Propósito de la revelación
+###### Dentro de ese desarrollo, también aparece un contraste claro. Pablo introduce una línea donde muestra lo que significa no poner confianza en la carne (Filipenses 3:3), usando su propio ejemplo (Filipenses 3:4–8), y luego describe a otros cuyo enfoque es completamente distinto (Filipenses 3:18–19). Este contraste no desvía el tema, sino que refuerza la misma dirección del texto.
 
-La revelación no es información al azar.
- No es acumulación de frases.
+###### La carta mantiene además un lenguaje de <u>movimiento</u> continuo. No presenta la vida como algo estático, sino como un avanzar: “sigo adelante” (Filipenses 3:12), “prosigo hacia la meta” (Filipenses 3:14), “continuemos viviendo” (Filipenses 3:16). Este movimiento no cambia de dirección, sino que se mantiene alineado con lo que Pablo ha venido desarrollando desde el inicio.
 
-Es comunicación con dirección.
+###### Todo este desarrollo permanece centrado en <u>Cristo</u>. Las expresiones se repiten: “en Cristo Jesús” (Filipenses 1:1; 4:23), “para mí el vivir es Cristo” (Filipenses 1:21), “ganar a Cristo” (Filipenses 3:8), “ser hallado en Él” (Filipenses 3:9), “conocerlo a Él” (Filipenses 3:10). El texto no cambia ese centro en ningún momento; todo regresa a Él.
 
-Cada <u>porción</u> del texto:
+###### Finalmente, la carta también refleja una relación constante entre Pablo y los filipenses. Ellos participan en el evangelio (Filipenses 1:5), comparten en sus aflicciones (Filipenses 4:14), y lo sostienen repetidamente (Filipenses 4:15–16). Pablo responde a esa relación (Filipenses 4:10–20), manteniendo siempre el mismo enfoque.
 
-- dice algo
-- lo desarrolla
-- lo conduce <u>hacia</u> un resultado
+- El desarrollo completo mantiene una sola dirección
+- No se fragmenta en temas separados
+- Todo permanece dentro del mismo flujo sin desviarse
 
-Nada está colocado sin propósito.
+# FILIPENSES 1:1–11 Pablo ora con gratitud y petición
 
-## No son versículos aislados
+## Filipenses 1:1–2 Saluda a los filipenses
 
-La Biblia no fue escrita en versículos.
+### Filipenses 1:1
+Pablo y Timoteo, siervos de Cristo Jesús: A todos los santos en Cristo Jesús que están en Filipos, incluyendo a los obispos y diáconos:
 
-Los versículos fueron añadidos después para ayudarnos a <u>ubicar</u> el contenido, pero \textbf{no forman parte de la comunicación original}.
+#### Pablo
+##### El texto inicia nombrando a Pablo como el <u>autor</u> de la carta. La presentación es directa y breve, ya que no se añade ningún título ni explicación en esta línea, sino únicamente su nombre. La forma en que aparece deja la identificación en un nivel simple, sin desarrollar su rol ni introducir autoridad en este punto inicial.
 
-El autor no pensó en:
-- versículo 1
-- versículo 2
-- versículo 3
+#### y Timoteo
+##### Timoteo aparece junto a Pablo como parte del mismo <u>grupo</u> que envía la carta. Ambos son presentados juntos, sin separación ni explicación adicional, lo cual mantiene una forma uniforme desde el inicio. No se establece una distinción entre ellos ni se introduce jerarquía, sino que se les incluye en la misma línea. El relato del libro de Hechos muestra que Timoteo acompañó a Pablo en distintos momentos (Hechos 16:1-40, 19:22), lo cual es coherente con su inclusión aquí junto a él.
 
-<u>Pensó</u> en \textbf{una unidad completa de pensamiento}.
+#### siervos de Cristo Jesús:
+##### Ambos son descritos como <u>siervos</u> de Cristo Jesús, lo cual introduce una misma identificación para los dos. Este término se aplica de manera conjunta, sin diferenciar entre Pablo y Timoteo, y señala una relación directa con Cristo Jesús. No se añade otra categoría ni descripción en este punto, sino que ambos quedan bajo la misma forma de presentación desde el inicio.
 
-Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
+#### A todos los santos en Cristo Jesús que están en Filipos
+##### El texto identifica a los <u>destinatarios</u> como \scripture{todos los santos en Cristo Jesús}. La expresión incluye al grupo completo sin excepción y los ubica dentro de una relación definida por \scripture{en Cristo Jesús}. A esto se añade la referencia local \scripture{que están en Filipos}, la cual no cambia su identidad, sino que simplemente indica su ubicación geográfica dentro del desarrollo de la carta.
 
-## El texto construye
+#### incluyendo a los obispos y diáconos:
+##### Finalmente, el texto añade a los <u>obispos</u> y diáconos dentro del mismo grupo, sin separarlos como una categoría distinta. La expresión \scripture{incluyendo} los mantiene dentro de \scripture{todos los santos}, y no se explica su función ni se desarrolla su rol en este punto. Su mención se mantiene dentro del saludo mismo, sin cambiar el enfoque ni introducir un nuevo tema.
 
-El autor no <u>solo</u> dice cosas.
+### Filipenses 1:2
+Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.
 
-\textbf{Construye}.
+#### Gracia a ustedes
+##### Se introduce el primer elemento del saludo: <u>gracia</u>. El texto lo dirige directamente a los destinatarios (\scripture{a ustedes}), manteniendo el mismo grupo mencionado en el versículo anterior. No se desarrolla su contenido aquí, sino que aparece como parte del saludo inicial dentro del flujo de la carta.
 
-El texto:
+#### y paz
+##### Se añade el segundo elemento: <u>paz</u>. El texto mantiene ambos elementos juntos mediante \scripture{y}, sin separarlos ni explicarlos. Así, “gracia y paz” funcionan como una unidad dentro del saludo, sin introducir una nueva línea.
 
-- <u>afirma</u>
-- explica
-- conecta
-- <u>contrasta</u>
-- desarrolla
+#### de parte de Dios nuestro Padre y del Señor Jesucristo.
+##### Se identifica la <u>fuente</u> del saludo. \scripture{De parte de} señala su procedencia, y el texto menciona a “Dios nuestro Padre” y “el Señor Jesucristo” juntos como origen. No se añade otro agente ni se desarrolla más detalle, sino que se cierra el saludo manteniendo una sola línea: \textbf{saludo → elementos → procedencia}.
 
-Forma un movimiento de pensamiento.
+## Filipenses 1:3–8 Da gracias a Dios por los filipenses
 
-Si leemos frases sueltas:
+### Filipenses 1:3
+Doy gracias a mi Dios siempre que me acuerdo de ustedes.
 
-- perdemos la construcción
-- perdemos el desarrollo
-- perdemos el <u>punto</u>
+#### Doy gracias a mi Dios
+##### Pablo inicia esta oración dando <u>gracias</u> a Dios.
 
-## Comunicación real, no código
+##### Aunque los filipenses han mostrado amor hacia Pablo, el primer movimiento del texto no pone el foco en ellos, sino en Dios.
 
-La Escritura no es un código secreto.
- No es un rompecabezas místico.
+##### Esto permite que el agradecimiento por los filipenses no se convierta en exaltación de ellos, sino en reconocimiento de lo que Pablo ve delante de Dios.
 
-Dios comunicó <u>usando</u> lenguaje real, y el lenguaje funciona de manera normal:
+#### siempre que me acuerdo de ustedes.
+##### La gratitud de Pablo está conectada con el <u>recuerdo</u> de los filipenses.
 
-- palabras en contexto
-- ideas conectadas
-- desarrollo progresivo
+##### El texto no presenta un recuerdo frío ni distante, sino un recuerdo que produce gratitud.
 
-El significado no está escondido detrás del <u>texto</u>.
- Está en \textbf{cómo el texto está construido}.
+##### Pablo no dice todavía todo lo que recuerda, pero la carta sí mostrará que los filipenses han estado ligados a él desde el principio en el evangelio.
 
-## Dios busca ser entendido
+##### Ese recuerdo no termina en nostalgia; termina en acción delante de Dios.
 
-Dios no habló para ocultar.
- Habló <u>para</u> comunicar.
+##### La acción de dar gracias está vinculada a un <u>recue</u> constante de ellos.
 
-No necesitamos:
+##### El recuerdo no es ocasional, sino repetido en el <u>tiempo</u>.
 
-- claves ocultas
-- conocimiento <u>secreto</u>
-- interpretaciones especiales
+##### Hay mucho por lo cual podría recordarlos; desde el primer momento:
 
-Necesitamos \textbf{observar correctamente} lo que está escrito.
+- Lidia y su familia siendo los primeros creyentes. Hechos 16:14-15
+- El motivo por el cual fueron encarcelados y que gozo tenían de estar en cadenas. Hechos 16:17-18, 25
+- La conversión del carcelero de Filipos y de toda su familia. Hechos 16:27-34
+- La predicación del evangelio después de su encarcelamiento. 1 Tesalonicenses 2:2
 
-## Fundamento de la revelación
+##### En el transcurso y culminación de su segundo viaje misionero:
 
-La <u>misma</u> Escritura afirma su origen:
+- El ruego de los hermanos por participar en el sustento de los siervos de Dios. 2 Corintios 8:1-5
+- El apoyo económico a Pablo después de dejar Macedonia. Filipenses 4:15
+- La ofrenda realizada a Corinto con toda Macedonia. 2 Corintios 8:1, 6
+- La ofrenda realizada para la iglesia en Jerusalén. Romanos 15:25-26
 
-«Toda Escritura es inspirada por Dios…» — 2 Timoteo 3:16
- «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
- «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
+##### hasta el momento en que se escribe esta carta:
 
-No estamos leyendo <u>ideas</u> humanas aisladas, sino \textbf{lo que Dios ha dado a conocer}.
+- El cuidado que ellos tienen por Pablo al enviar a Epafrodito. Filipenses 2:25, 30
 
-## El peso de la revelación
+##### Este agradecimiento del abúndate amor, no es atribuida directamente a ellos, sino que al traer a memoria a los hermanos filipenses, Pablo da gracias a Dios.
 
-Si Dios ha hablado, entonces esto no es opcional.
+##### Esto tiene un propósito en toda la carta, Pablo no niega la bondad de los hermanos, pero al dar gracias a Dios inspirado por el Espíritu Santo, quiere enseñarles algo.
 
-No estamos tratando con un texto más.
- No estamos evaluando <u>ideas</u>.
+### Filipenses 1:4
+Pido siempre con gozo en cada una de mis oraciones por todos ustedes,
 
-Estamos frente a algo que \textbf{nos precede, nos define y nos confronta}.
+#### Pido siempre con gozo
+##### Pablo no solo da gracias; también <u>pide</u>.
 
-Esto cambia completamente cómo leemos:
+##### Su oración tiene gozo, no porque no haya problemas, sino porque el texto ya muestra que su recuerdo de ellos produce gratitud.
 
-- no decidimos lo que el texto dice
-- no negociamos su contenido
-- no lo ajustamos a nuestras ideas
+##### Antes de conocer la petición específica de Filipenses 1:9, el lector ya ve el tono con que Pablo ora: no desde distancia, sino con gozo.
 
-Nos detenemos.
- Observamos.
- Seguimos.
+##### Su petición se dará a conocer en Filipenses 1:9 que es el tema central de la carta.
 
-Porque lo que <u>está</u> delante \textbf{no se originó en nosotros}.
+##### Antes de entrar a su petición especifica, nos mostrara que Pablo esta gozoso al hacer esta petición. Juan 16:24
 
-## El poder de la revelación
+##### Su gozo también puede deberse al hecho de que los hermanos llegaron a ser salvados por la obra de Cristo. Hechos 15:3
 
-La revelación no solo informa.
+#### en cada una de mis oraciones por todos ustedes,
+##### La oración de Pablo alcanza a <u>todos</u> los filipenses.
 
-\textbf{actúa}
+##### Esto mantiene unido el saludo anterior: santos, obispos y diáconos no son tratados como grupos separados en la oración.
 
-Nos <u>expone</u>.
- Nos corrige.
- Nos <u>establece</u>.
+##### Pablo no reduce su oración a algunos; el texto insiste en el alcance completo: “por todos ustedes”.
 
-No <u>leemos</u> para dominar el texto.
- Leemos para ser \textbf{afectados por él}.
+##### Su petición con gozo en oración, no solo estaba enfocada en los ancianos o solamente en los diáconos, no por alguien en especifico, sino que estaba orando gozoso por toda la iglesia en Filipos, ¿pero por que motivo?
 
-## Implicaciones
+### Filipenses 1:5
+por su participación en el evangelio desde el primer día hasta ahora.
 
-Si la Escritura es revelación, entonces:
+#### por su participación en el evangelio
+##### Aquí aparece la razón de la gratitud y del gozo: su <u>participación</u> en el evangelio.
 
-- su contenido no <u>depende</u> de nuestra opinión
-- su mensaje no cambia según el lector
-- su <u>autoridad</u> no es negociable
-- Esto nos da una base firme.
-- No estamos construyendo sobre interpretaciones cambiantes, sino sobre algo que ha sido establecido fuera de <u>nosotros</u>.
+##### Pablo no da gracias de manera general; da gracias por algo específico que reconoce en ellos.
 
-## Nuestra postura frente al texto
+##### La participación en el evangelio es el punto común que une a Pablo y a los filipenses.
 
-Si Dios ha hablado, entonces:
+##### Esta frase prepara lo que seguirá en la carta: Pablo no escribe solamente por afecto personal, sino porque hay una historia compartida alrededor del evangelio.
 
-- no leemos <u>para</u> especular, sino para \textbf{oír}
-- no construimos significado, lo \textbf{recibimos}
-- no estamos <u>sobre</u> el texto, estamos \textbf{bajo él}
-- No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
+##### La Versión RVR 60 y la versión BTX4 traducen... "por vuestra comunión en el evangelio, …" 
 
-## Principio clave
+##### Esto es impactante, todos los hermanos filipenses tenían en común un solo y único evangelio, esto era lo que traiga gozo a Pablo, y por lo cual daba gracias a Dios que tanto los que dirigen la iglesia como los que forman parte, su participación era en el único evangelio de Dios.
 
-Dios habló → el <u>texto</u> está construido → la estructura revela el propósito
+#### desde el primer día hasta ahora.
+##### La participación de los filipenses no aparece como algo reciente, sino como una continuidad desde el <u>primer</u> día.
 
-## Punto de partida
+##### El texto une el comienzo con el presente: “desde el primer día hasta ahora”.
 
-Por eso, no comenzamos preguntando:
+##### Por eso el gozo de Pablo no se basa en un momento aislado, sino en una trayectoria sostenida.
 
-“¿Qué significa?”
+##### Este punto permite recordar el inicio de la obra en Filipos sin convertir la sección en una reconstrucción larga. Hechos 16:14-15, 27-34; Filipenses 4:15
 
-Ni siquiera comenzamos con:
+##### Esto traía mucho gozo, porque la comunión y participación en el evangelio se había mantenido así desde el primer día hasta aquel momento en que Pablo les escribió esta carta.
 
-“¿Qué <u>dice</u>?”
+##### Es de notar que en la Ciudad de Filipos, existían diferentes estatus de sociedades y cada sociedad era diferenciada de otra, y aún había judaizantes que ponían su confianza en la carne y no el evangelio, y lo que ellos están viviendo es completamente contra corriente, dando evidencia de que la obra del evangelio en ellos era con el poder de Dios.
 
-Comenzamos con:
+### Filipenses 1:6
+Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 
-\textbf{¿Cómo está construido?}
+#### Estoy convencido precisamente de esto:
+##### Pablo pasa de gratitud y oración a una <u>certeza</u>.
 
-Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
+##### Esta certeza está conectada con lo que acaba de decir: la participación de ellos en el evangelio desde el primer día hasta ahora.
 
-# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
+##### No presenta una posibilidad débil, sino una convicción firme acerca de lo que Dios está haciendo en ellos.
 
-<u>Antes</u> de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
+##### ¿Este convencimiento es para todos los creyentes? O ¿Pablo basa este argumento en base a la manifestación de sus obras? O ¿en base a que creyeron en el evangelio?.
 
-## El problema común
+##### PEITHO es definido como descansar sobre una certeza que tiene evidencia o fue dicho por una autoridad confiable, este verbo se encuentra en tiempo perfecto y voz activa modo participio, esto indica que sin lugar a dudas Pablo se convenció completamente en el pasado y en el presente confía en esta verdad. 
 
-La mayoría de los lectores:
-- leen el <u>texto</u>
-- entienden una idea general
-- sacan una conclusión
+##### Lo cual es para todo creyente, una certeza que se basa en el evangelio sin lugar a dudas, esta carta se escribe a todos los creyentes, este convencimiento preciso, no solo es para los ancianos y diáconos ("lideres"), sino para todos los santos que llegaron a ser participantes, por la fe en el evangelio, así fue a un principio y así es hasta ahora y así será en un futuro. Romanos 8:38
 
-Pero no <u>pueden</u> explicar:
-- cuál es la idea principal
-- qué partes la explican
-- <u>cómo</u> se conectan
+#### que el que comenzó en ustedes la buena obra,
+##### La buena obra tuvo un <u>inicio</u>.
 
-##### El problema no es falta de interés.
-###### Es <u>falta</u> de \textbf{observación estructural}.
+##### Pablo no atribuye ese comienzo a su propia capacidad ni a la iniciativa de los filipenses.
 
-## Principio fundamental
+##### El texto dirige la atención al que comenzó la obra en ellos.
 
-En este curso cambiamos el orden:
-Observación → Estructura → Propósito
+##### Aquí sí ayuda recordar que la llegada del evangelio a Filipos no se presenta en Hechos como un plan meramente humano, sino como una dirección de Dios. Hechos 16:6-10
 
-No comenzamos interpretando.
-Comenzamos <u>observando</u>.
+##### Dios inicio la obra en los filipenses, no fue idea de nadie.
 
-## Por qué esto importa
+- No fue idea de Pablo iniciar una iglesia en Filipos,
 
-Un texto <u>bíblico</u> no es una lista de ideas.
+- No fue idea de Silas,
+- No fue la motivación de Timoteo que por tener un padre griego tratar de llegar a los griegos.
+- No fue Lucas por ser perteneciente de Macedonia que quería llegar con el evangelio a Filipos.
 
-Es un argumento construido.
+##### Aunque muchos autores afirman que la visión que tuvo Pablo de un varón macedonio era Lucas, esto es una deducción que la biblia no menciona. Hechos 16:6-10
 
-El autor:
-- <u>afirma</u>
-- explica
-- contrasta
-- <u>desarrolla</u>
+##### Pero si menciona que es:
 
-##### Si no vemos esa construcción:
-###### perdemos el punto del autor.
+- Obra del Espíritu Santo Hechos 16:6
+- Obra Espíritu de Cristo. Hechos 16:7
+- Obra de Dios el Padre, quien a través de una visión fue llamado de ir a anunciar el evangelio a Macedonia. Hechos 16:9-10
 
-## La realidad del texto
+##### La Biblia no menciona que el Varon macedonio pueda ser Lucas, aunque no lo menciona, tampoco puede ser atribuido a Lucas.
 
-Dentro de un párrafo <u>hay</u>:
-- acciones (verbos)
-- conexiones (conectores)
-- <u>unidades</u> de pensamiento (cláusulas)
-- detalles que amplían (extensiones)
+##### Lucas conoció a Pablo en Troas, esto lo vemos a través de la narración que dice: Hechos 16:8 \scripture{"...descendieron a Troas."} (plurar, segunda persona).
 
-Todo esto <u>forma</u> una estructura. 
+##### \scripture{"Así que, saliendo de Troas, navegamos} (Plural, primera persona) \scripture{con rumbo directo a Samotracia, y al día siguiente a Neápolis. De allí fuimos a Filipos,}(Plural, primera persona) \scripture{que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días."} Hechos 16:11-12  
 
-## Lo que aprenderás
+##### Pablo tuvo la visión en Troas Hechos 16:8-9
 
-Vas a aprender a ver:
-- <u>dónde</u> están las afirmaciones
-- cómo se conectan
-- cuáles son principales
-- cuáles dependen de <u>otras</u>
+##### Por lo que fue Dios el que comenzó la buena obra. Juan 6:44
 
-## El proceso de observación estructural
+- Lidia fue alguien que respondió a la revelación general de Dios, Dios mismo ya la había atraído a si mismo, y fue Dios que a través de su Espíritu Santo que guio a Pablo anunciar el evangelio en aquel lugar donde Lidia y su familia creyeron en el evangelio.
 
-![13-pasos](images/13-pasos.png)
+- Dios mismo atrajo al guardia romano y a toda su familia para escuchar el evangelio.
 
-Este proceso es <u>fijo</u>.
-No cambia.
-No se <u>salta</u> pasos.
+##### En ambos casos de estos primeros creyentes fue Dios iniciando la buena obra.
 
-## Qué NO haremos
+##### Habiendo comenzado es un verbo en vos media lo que significa una participación que involucra 2 acciones, Dios actúo y ellos se beneficiaron por la fe.
 
-No vamos a:
-- interpretar <u>primero</u>
-- imponer <u>ideas</u>
-- depender de intuición
+##### Por tanto el que inicio la buena obra es Dios.
 
-## Qué SÍ haremos
+#### la perfeccionará
+##### La obra iniciada no queda incompleta; será llevada a su <u>fin</u>.
 
-Vamos a:
-- observar el <u>texto</u> con precisión
-- <u>dejar</u> que la estructura se muestre
-- seguir un <u>proceso</u> claro
+##### El mismo que comenzó la buena obra es presentado como quien la perfeccionará.
 
-## Observación clave
+##### Pablo no separa el comienzo de la culminación; los une bajo la misma acción de Dios.
 
-El autor no <u>solo</u> comunica ideas.
-El <u>autor</u> construye.
+##### La palabra EPITELEO perfeccionará, se encuentra en, tiempo futuro, voz activa y modo indicativo, lo que significa, que en un futuro de hecho que Dios lo hará y completará su obra de manera perfecta sin ninguna duda.
 
-Y si vemos la construcción:
-veremos el <u>propósito</u>.
+##### El verbo también se encuentra en tercera persona singular, lo que significa, que no es Pablo el que va a completar la obra (1ra persona), no es cada creyente independientemente completando su salvación (2da persona), sino que es Dios y únicamente Dios el que la perfeccionará. (3era persona singular).
 
-## Transición
+#### hasta el día de Cristo Jesús.
+##### La obra tiene una dirección hacia un <u>día</u> específico.
 
-En la siguiente <u>lección</u> comenzaremos con el primer paso:
-preparar correctamente el texto.
+##### El texto no explica aquí todo el proceso, pero sí afirma el destino final de esa obra.
 
-Sin este <u>paso</u>, todo lo demás falla.
+##### Esto prepara al lector para entender que las exhortaciones de la carta no niegan la obra de Dios, sino que se desarrollan dentro de ella.
 
-# PASO 1 — COPIAR EL TEXTO
-## EJECUTA
+##### Este tiempo futuro es garantizado, porque el día de Cristo Jesús viene donde todos los creyentes sin excepción nos encontraremos con el Señor en los cielos con nuevos cuerpos perfectos.
 
-##### ¿Qué haces?
-###### <u>Copias</u> el texto en un solo párrafo y creas una copia de trabajo.
+##### Hay un inicio, (fe en el evangelio) y hay un tiempo fijado (el día de Cristo Jesús), el proceso no es mencionado en este pasaje, pero si en el contenido de toda la carta. Filipenses 3:12-15
 
-##### Regla
-###### No modificas el <u>texto</u>
-###### No separas en versículos
-###### Siempre trabajas sobre una copia
+##### Si es Dios el que inicio la obra, y es Dios el que la perfeccionará hasta el día de Cristo Jesús, entonces ¿como es el proceso?, la oración de Pablo esta dirigida a ese andar. Salmo 138:8
 
-##### Cómo hacerlo
+### Filipenses 1:7
+Es justo que yo sienta esto acerca de todos ustedes, porque los llevo en el corazón, pues tanto en mis prisiones como en la defensa y confirmación del evangelio, todos ustedes son participantes conmigo de la gracia.
 
-1. Copia el texto en un editor
+#### Es justo que yo sienta esto acerca de todos ustedes,
+##### Pablo afirma que su manera de sentir es <u>justo</u>.
 
-2. Elimina <u>títulos</u> y encabezados
+##### Este “sentir” está conectado con lo que viene diciendo: gratitud, gozo y certeza sobre ellos.
 
-3. Une los versículos en un solo párrafo
+- Es justo dar gracias a Dios por ellos
+- Es justo orar con gozo por ellos
+- Es justo tener convicción sobre la obra en ellos
 
-4. Mantén el texto intacto (sin cambiar palabras)
+##### El texto no dice que ellos lo merecen, sino que es justo que él piense así de <u>ellos</u>.
 
-5. Crea una <u>copia</u> de trabajo del texto bíblico:
-- texto original
-- <u>texto</u> de trabajo
+#### porque los llevo en el corazón,
+##### Pablo describe su relación con ellos como algo interno, usando el <u>corazón</u>.
 
-##### Resultado esperado
+##### Esto no aparece como una idea momentánea, sino como algo constante que explica por qué piensa así de ellos.
 
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+##### La frase conecta directamente con lo anterior: su sentir es justo porque ellos están en su corazón.
 
-## ENTIENDE
+##### Lo que Pablo ve en ellos (Filipenses 1:5) no queda externo; se vuelve parte de su <u>relación</u> con ellos.
 
-##### Qué estás haciendo realmente
-###### Estás preparando el texto para <u>poder</u> observarlo sin distorsión.
+#### pues tanto en mis prisiones
+##### Pablo menciona una situación concreta: sus <u>prisiones</u>.
 
-##### Principio clave
-###### El análisis solo es confiable si el <u>texto</u> se mantiene intacto.
+##### Esta situación no rompe la relación con ellos, sino que forma parte del contexto donde esa relación se mantiene.
 
-##### Idea clave
-###### No trabajas con versículos aislados.
-###### Trabajas con una unidad completa de pensamiento.
+##### Aun en medio de esta circunstancia, ellos siguen presentes en su pensamiento y en su oración.
 
-##### Pregunta guía
-###### 👉 ¿Estoy <u>viendo</u> el texto como una unidad o como fragmentos?
+##### Esto conecta con lo que la carta mostrará más adelante sobre su situación. Filipenses 1:12-14, 4:14
 
-##### Definición
-###### Párrafo = unidad donde el autor desarrolla una idea completa.
+##### No solo era muestra de amor en sustento económico, sino también apoyo y compañía en oración Filipenses 1:19
 
-##### Ejemplo <u>guiado</u>
+##### Ellos estaban en su corazón en los peores momentos, en medio de las prisiones de Pablo, ellos eran motivó de gozo porque al estar en prisión ellos estaban en su corazón trayéndole el gozo de que el evangelio estaba dando abundante fruto en ellos.
 
-###### Texto original:
->«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
+#### como en la defensa y confirmación del evangelio,
+##### Pablo añade dos acciones relacionadas con el <u>evangelio</u>: defensa y confirmación.
 
-##### Resultado:
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+##### Estas acciones describen su actividad mientras se encuentra en esas circunstancias.
 
-##### Regla importante
-###### Nunca trabajas directamente <u>sobre</u> el texto original.
+##### No separa su situación personal de su labor en el evangelio; ambas aparecen juntas en el mismo <u>flujo</u>.
 
-##### Errores comunes
-###### Modificar palabras sin <u>darse</u> cuenta 
-###### Trabajar sobre versículos separados
-###### No crear copia de trabajo
+##### La carta misma mostrará que su situación contribuye al avance del evangelio.  Filipenses 1:12-14
 
-##### Regla de control
-###### Si cambiaste el <u>texto</u> original, perdiste el control del análisis.
+##### Después de su salida de Filipos Pablo presento defensa del evangelio donde también los hermanos Filipenses estaban participando en dar para el sustento de Pablo Filipenses 4:15
 
-##### Frase clave
-###### “No modifico el texto — lo preparo para observarlo.”
+##### Cuando término su segundo viaje misionero se dirigió a Jerusalén, llevando una ofrenda y en su llegada hubo oposición. Romanos 15:26; Hechos 21:17-21, 27-35
 
-##### Qué debes notar
-###### Cuando el texto está bien preparado:
-- <u>puedes</u> ver el flujo completo
-- no rompes conexiones
-- el análisis posterior se vuelve confiable
+##### Después de su llega y arresto presento defensa por el evangelio. Hechos 22:3-21
 
-##### Transición
+##### Al tiempo que Pablo escribió esta carta continuaba presentando defensa por el evangelio. Hechos 23:11
 
-###### En el siguiente paso:
-- 👉 identificarás los <u>verbos</u> finitos
+##### Al escuchar la defensa muchos llegaban a creer en el mensaje de Dios, y muchos hermanos eran animados. Hechos 28:23-24; Filipenses 1:14
 
-- 👉 verás <u>dónde</u> están las afirmaciones del texto
+#### todos ustedes son participantes conmigo de la gracia.
+##### Pablo afirma que todos ellos comparten con él una misma <u>participación</u>.
 
-# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
+##### Esta participación no es individual ni aislada, sino “conmigo”, indicando una relación compartida.
 
-## EJECUTA
+##### La gracia aparece como el elemento en el cual participan juntos.
 
-##### ¿Qué haces?
-###### Identificas y <u>marcas</u> los \textbf{verbos finitos del texto}, confirmados por la morfología griega.
+##### Esto conecta directamente con Filipenses 1:5: su participación en el evangelio no es solo pasada, sino continua junto con Pablo.
 
-##### REGLA
-###### Solo se marcan los \textbf{verbos conjugados en el texto griego}.
+##### Efesios 3:8 dice, \scripture{A mí, que soy menos que el más pequeño de todos los santos, se me concedió esta gracia: anunciar a los gentiles las inescrutables riquezas de Cristo}
 
-##### CÓMO HACERLO
+##### Esta participación habla en el sentido práctico, mientras Pablo anunciaba inmerecidamente el evangelio ,ellos eran parte de este privilegio inmerecido al enviar y orar por sus necesidades.
 
-1. Lee el texto preparado (Paso 1)
+### Filipenses 1:8
+Porque Dios me es testigo de cuánto los añoro a todos con el entrañable amor de Cristo Jesús.
 
-2. Consulta el texto griego (o interlineal)
+#### Porque Dios me es testigo de cuánto los añoro a todos
+##### Pablo apela a Dios como <u>testigo</u> de lo que afirma, dando peso directo a su expresión. \scripture{Dios me es testigo} no introduce otro respaldo, sino una apelación directa que refuerza la veracidad de lo que está diciendo. El énfasis no está en argumentar, sino en afirmar con claridad la realidad de su anhelo.
 
-3. Localiza los <u>verbos</u> en el griego
+##### El alcance de ese anhelo es completo: \scripture{a todos}. El texto no limita ni selecciona, sino que incluye al grupo entero, manteniendo coherencia con lo que ya ha expresado anteriormente (Filipenses 1:7). Así, la relación no aparece fragmentada, sino consistente en todo el desarrollo.
 
-4. Pregunta:
-- 👉 ¿Este verbo en griego tiene persona y número?
+##### \scripture{Los añoro} describe ese vínculo como un deseo continuo hacia ellos. No introduce una idea nueva, sino que continúa lo ya mencionado: recuerdo, participación y cercanía. El texto no presenta esto como una reacción momentánea, sino como algo sostenido dentro de la relación, reforzado precisamente por el testimonio de Dios.
 
-## CÓMO SABER SI ES FINITO (EN EL GRIEGO)
+#### con el entrañable amor de Cristo Jesús.
+##### El anhelo se describe en términos de <u>amor</u>, pero el texto especifica su origen: \scripture{de Cristo Jesús}. No se presenta como algo generado en Pablo, sino relacionado directamente con Él, manteniendo el mismo centro del pasaje.
 
-###### No decides por intuición.
+##### De esta manera, lo que Pablo expresa no lo atribuye a sí mismo, sino que lo conecta con Cristo, sin introducir otra fuente. La expresión \scripture{entrañable} intensifica el contenido, añadiendo profundidad al modo en que ese amor se describe, sin desarrollar el concepto en detalle.
 
-###### Decides por la \textbf{morfología (RMAC)}.
+##### El versículo mantiene una sola línea continua: \textbf{testimonio → anhelo → origen en Cristo}, sin desviarse hacia otro enfoque.
 
-##### FORMATO DEL VERBO EN GRIEGO
-```
-V-XXXXX
-```
+## Filipenses 1:9–11 Pide por los filipenses
 
-###### Observa la \textbf{tercera posición del código}:
+### Filipenses 1:9
+Y esto pido en oración: que el amor de ustedes abunde aún más y más en conocimiento verdadero y en todo discernimiento,
 
-### ✔ VERBOS FINITOS (SE MARCAN)
-- V-?I- → Indicativo
-- V-?S- → Subjuntivo
-- V-?M- → Imperativo
+##### El texto ha venido presentando una línea continua: participación en el evangelio, obra iniciada por Dios, convicción de que Él la perfeccionará y un amor ya visible en los filipenses. A partir de ese desarrollo, Pablo da a conocer ahora su <u>petición</u> de oración, la cual no aparece aislada, sino como continuación de lo que ya ha observado en ellos. No separa su oración de la gratitud, el gozo y la convicción expresadas anteriormente, sino que la construye sobre esa misma base, manteniendo el enfoque en lo que Dios ha estado obrando en ellos.
 
-👉 Estos \textbf{tienen persona y número}
+#### Y esto pido en oración:
+##### Pablo introduce claramente su <u>petición</u>, después de haber establecido ese fundamento. La oración no surge sin contexto, sino después de afirmar lo que ya es visible en ellos. De esta manera, el texto dirige la atención hacia lo que sigue, no como corrección de algo ausente, sino como desarrollo de algo que ya está presente.
 
-👉 ✔ Se marcan:
-```
-==verbo==
-```
+#### que el amor de ustedes abunde aún más y más
+##### Pablo ora por el <u>amor</u> de ellos, y el texto deja claro que este amor ya existe, pero no se presenta como algo terminado. La petición no es reemplazar lo que hay, sino que lo que ya está continúe creciendo. “Más y más” señala un aumento continuo, sin establecer un límite. El desarrollo previo (Filipenses 1:5) muestra que este amor ya estaba en acción, pero aquí se presenta como algo que puede seguir avanzando. La oración, entonces, no apunta a iniciar algo nuevo, sino a que lo existente continúe en aumento dentro de la misma línea.
 
-### ❌ VERBOS NO FINITOS (NO SE MARCAN)
-- V-P?? → Participio
-- V-N?? → Infinitivo
+#### en conocimiento verdadero
+##### El crecimiento del amor no aparece separado del <u>conocimiento</u>, sino unido a él. El texto no presenta estos elementos como independientes, sino como parte de una misma línea. “Conocimiento verdadero” acompaña al amor, indicando que su desarrollo no ocurre de manera aislada. No se explica el contenido en detalle aquí, pero sí se establece que el amor y el conocimiento avanzan juntos, sin separarse dentro del flujo del pasaje.
 
-👉 Estos \textbf{no tienen persona}
-👉 ❌ No se marcan
+#### y en todo discernimiento,
+##### Finalmente, se añade el <u>discernimiento</u> como parte de ese mismo desarrollo. El texto reúne amor, conocimiento y discernimiento en una sola línea, sin presentarlos como etapas separadas, sino como elementos que avanzan juntos. “En todo” amplía el alcance, indicando que no se limita a situaciones específicas. De esta manera, la oración de Pablo abarca un crecimiento continuo que permanece dentro de una misma dirección, sin introducir un nuevo enfoque ni romper el desarrollo que ha venido mostrando.
 
-### 🔒 REGLA MECÁNICA
+### Filipenses 1:10
+a fin de que escojan lo mejor, para que sean puros e irreprensibles para el día de Cristo;
 
-###### Si ves:
-- I, S, M → ✔ finito
-- P, N → ❌ no finito
+#### a fin de que escojan lo mejor,
+##### El texto muestra el <u>propósito</u> de la oración. La expresión “a fin de que” conecta directamente con lo anterior (amor, conocimiento y discernimiento), indicando que todo ese desarrollo apunta hacia una capacidad: escoger. Esta elección no aparece como algo aislado ni al azar, sino como resultado de lo que ya se ha mencionado. El flujo del pasaje es claro: el amor que abunda, junto con el conocimiento y el discernimiento, conduce a poder elegir “lo mejor”. De esta manera, el texto no presenta la elección como independiente, sino como dependiente de ese desarrollo previo.
 
-- 👉 No interpretas.
-- 👉 Solo \textbf{lees el código}.
+#### para que sean puros e irreprensibles
+##### Se presenta un <u>resultado</u> que sigue el mismo flujo. “Para que” continúa la línea iniciada en la frase anterior, mostrando que el escoger lo mejor conduce a este estado: ser puros e irreprensibles. El texto no introduce esto como una idea separada, sino como consecuencia de lo anterior. La secuencia se mantiene: desarrollo (amor, conocimiento, discernimiento) → elección → resultado. No hay ruptura en el argumento, sino continuidad dentro de la misma línea.
 
+#### para el día de Cristo;
+##### Finalmente, se introduce una referencia a un <u>día</u>. Esta expresión conecta con lo ya mencionado en Filipenses 1:6, manteniendo continuidad dentro de la carta. El desarrollo completo —amor, conocimiento, discernimiento, elección y resultado— se orienta hacia ese momento. El texto no detalla aquí el contenido de ese día, pero sí lo presenta como el punto hacia el cual se dirige todo lo anterior, cerrando así la secuencia sin cambiar el enfoque.
 
-##### EJEMPLO RÁPIDO
-```
-παιδεύουσα (V-PAP-NSF) → ❌ no finito  
-ἀρνησάμενοι (V-AMP-NPM) → ❌ no finito  
-ζήσωμεν (V-AAS-1P) → ✔ finito
-```
+### Filipenses 1:11
+llenos del fruto de justicia que es por medio de Jesucristo, para la gloria y alabanza de Dios.
 
-###### Resultado:
-```
-==vivamos==
-```
+#### llenos del fruto de justicia
+##### Se describe una <u>condición</u> dentro del mismo flujo del pasaje. La expresión “llenos” indica un estado completo, y lo que llena es “el fruto de justicia”. Este elemento no aparece aislado, sino como continuación directa de 1:9–10: el amor que abunda, junto con conocimiento y discernimiento, conduce a escoger lo mejor; esto a su vez resulta en ser puros e irreprensibles, y ahora se expresa como estar llenos de fruto. El texto mantiene una sola línea: desarrollo → elección → resultado → plenitud.
 
+#### que es por medio de Jesucristo,
+##### Se identifica el <u>origen</u> del fruto. El texto especifica que este fruto de justicia es “por medio de Jesucristo”, manteniendo el mismo centro del pasaje. No se atribuye a otra fuente ni se presenta como algo que se origina en ellos; se afirma que ocurre a través de Él. Esta expresión continúa la coherencia del desarrollo anterior, donde lo que sucede no se presenta como independiente, sino vinculado a Cristo.
 
-###### Decide:
-- Sí → márcalo en el texto en español
-- No → déjalo sin marcar
+#### para la gloria y alabanza de Dios.
+##### Se muestra el <u>propósito</u> final. La secuencia que comenzó con la acción de Dios y la oración de Pablo (1:3–11) se cierra dirigiendo todo hacia Él. “Para la gloria y alabanza de Dios” establece el destino de todo el proceso descrito en estos versículos. El texto no introduce otro fin ni cambia el enfoque, sino que concluye llevando todo nuevamente hacia Dios, manteniendo una sola dirección desde el inicio hasta el cierre de la oración.
 
-###### Marca así:
-```
-==verbo==
-```
+# FILIPENSES 1:12–26 Pablo interpreta sus circunstancias en relación al evangelio
 
-##### REGLA DE EJECUCIÓN (CRÍTICA)
-###### El griego determina:
-- qué cuenta como verbo
-- cuántos verbos hay
+## Filipenses 1:12–18 Explica que sus circunstancias han resultado en el progreso del evangelio
 
-###### El español solo muestra:
-- la forma legible del verbo
+### Filipenses 1:12
+Quiero que sepan, hermanos, que las circunstancias en que me he visto, han redundado en un mayor progreso del evangelio,
 
+#### Quiero que sepan, hermanos,
+##### Pablo introduce algo que desea que ellos <u>sepan</u>. La expresión muestra intención directa: no está cambiando de tema, sino guiando cómo deben entender lo que va a decir. El texto no presenta información aislada, sino que continúa el flujo después de la oración (1:3–11), ahora aplicándolo a su propia situación. Pablo no busca llamar la atención sobre sí mismo, sino orientar la comprensión de los hermanos respecto a lo que está ocurriendo. De esta manera, lo que sigue no es solo narración, sino una forma de dirigir cómo deben interpretar esas circunstancias dentro del mismo desarrollo de la carta.
 
-##### CÓMO ALINEAR
-###### No buscas palabra por palabra.
+#### que las circunstancias en que me he visto,
+##### Pablo menciona sus <u>circunstancias</u> como punto de enfoque. El texto no entra en detalles todavía, sino que presenta el marco general. El énfasis no está en describir cada evento, sino en cómo deben ser entendidas. Estas circunstancias ya eran conocidas por los filipenses, pero Pablo busca aclarar su significado. Así, no se centra en las situaciones en sí, sino en la forma correcta de verlas dentro del mismo flujo del evangelio que ha venido desarrollando.
 
-###### Buscas la <u>expresión equivalente</u> en español.
+#### han redundado en un mayor progreso del evangelio
+##### Pablo afirma un <u>resultado</u> que redefine esas circunstancias. El texto no deja las circunstancias como el punto final, sino que dirige la atención a su efecto: “el progreso del evangelio”. Aquello que podría parecer limitante es presentado como contribuyendo al avance. De esta manera, la línea del pasaje se mantiene clara: circunstancia → resultado. No se introduce una explicación externa, sino que el mismo texto muestra cómo deben ser entendidas, manteniendo el enfoque en el evangelio como centro.
 
-###### Ejemplo:
+### Filipenses 1:13
+de tal manera que mis prisiones por la causa de Cristo se han hecho notorias en toda la guardia pretoriana y a todos los demás.
 
-####### Griego:
-```
-ἀντέστην
-```
+#### de tal manera que mis prisiones
+##### Se especifica una de esas <u>circunstancias</u>: sus prisiones. La expresión “de tal manera que” conecta directamente con el versículo anterior (1:12), mostrando cómo ese “progreso del evangelio” se manifiesta en una situación concreta. Las prisiones no aparecen aisladas, sino como parte del mismo desarrollo. El texto no se detiene en la dificultad en sí, sino que las mantiene dentro de la línea del avance del evangelio.
 
-###### Español:
-```
-me ==opuse==
-```
+#### por la causa de Cristo
+##### Se identifica la <u>causa</u> de esas prisiones. El texto no deja abierta otra explicación, sino que conecta directamente esta situación con Cristo. De esta manera, no se presenta como resultado de una acción personal independiente ni de otra motivación, sino vinculada a Él. Esto mantiene coherencia con el centro del pasaje: lo que ocurre en Pablo no se separa de Cristo ni del evangelio.
 
-###### Griego:
-```
-συνεσταύρωμαι
-```
+#### se han hecho notorias en toda la guardia pretoriana
+##### Se describe el <u>alcance</u> de esas prisiones. El texto afirma que se han hecho “notorias”, es decir, visibles y conocidas dentro del entorno inmediato. La “guardia pretoriana” representa a quienes estaban directamente relacionados con su custodia, lo cual muestra que lo que parecía limitado a una situación personal se vuelve evidente para otros. Así, la misma circunstancia que podría parecer restrictiva se presenta como un medio de visibilidad.
 
-###### Español:
-```
-he sido ==crucificado==
-```
+#### y a todos los demás.
+##### El texto amplía el <u>impacto</u> más allá de ese primer grupo. La expresión “a todos los demás” indica que no se limita únicamente a la guardia, sino que se extiende a otros fuera de ese entorno inmediato. De esta manera, el flujo se mantiene: circunstancia → causa → visibilidad → expansión. El resultado no queda contenido, sino que continúa extendiéndose dentro de la misma línea del progreso del evangelio.
 
-##### RESULTADO ESPERADO
+### Filipenses 1:14
+La mayoría de los hermanos, confiando en el Señor por causa de mis prisiones, tienen mucho más valor para hablar la palabra de Dios sin temor.
 
-```
-  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
-  Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
-  En verdad, ni aun ahora ==pueden==.
-```
+#### La mayoría de los hermanos, confiando en el Señor
+##### Se introduce otro <u>resultado</u> dentro del mismo desarrollo. El texto pasa de la visibilidad de las prisiones (1:13) a su efecto en otros: “la mayoría de los hermanos”. La confianza que se menciona no se dirige a Pablo, sino “en el Señor”, manteniendo el mismo centro del pasaje. Así, lo que ocurre no queda en lo externo, sino que produce una respuesta interna en ellos, alineada con lo que ya se viene mostrando: todo permanece vinculado al Señor.
 
-## ENTIENDE
-##### Qué estás haciendo realmente
-###### Estás identificando \textbf{los puntos de acción reales del texto original}.
+#### por causa de mis prisiones
+##### Se identifica nuevamente la <u>causa</u>. Las prisiones, que ya habían sido mencionadas, aparecen otra vez como el punto de origen del cambio. El texto no introduce una causa distinta, sino que mantiene la misma línea: esas circunstancias son las que generan este efecto. Lo que podría producir temor se presenta aquí como produciendo confianza, manteniendo la coherencia con el desarrollo anterior.
 
-##### PRINCIPIO CLAVE
-###### Cada verbo finito griego introduce una <u>unidad de acción explícita</u>.
+#### tienen mucho más valor para hablar la palabra de Dios sin temor
+##### Se describe el <u>resultado</u> visible. El texto afirma que “tienen mucho más valor”, lo cual indica un aumento respecto a lo anterior. Este valor se expresa en “hablar la palabra de Dios”, y se añade “sin temor”, mostrando el cambio en su manera de actuar. Así, la secuencia se mantiene clara: circunstancias → confianza en el Señor → valor → proclamación sin temor. No se introduce otro enfoque, sino que se intensifica la misma línea del avance del evangelio.
 
-##### IDEA CLAVE
-###### No todo lo que parece verbo en español corresponde a un verbo finito en griego.
+### Filipenses 1:15
+Algunos, a la verdad, predican a Cristo aun por envidia y rivalidad, pero también otros lo hacen de buena voluntad.
 
-##### PREGUNTA GUÍA
-###### 👉 ¿Este verbo es finito en el texto griego?
+##### El texto introduce una <u>tensión</u> dentro del mismo desarrollo. Después de mostrar cómo las circunstancias de Pablo han producido progreso del evangelio (1:12–14), ahora se observa cómo ese mismo avance genera respuestas distintas en quienes predican. No cambia el mensaje —todos predican a Cristo—, pero el enfoque se dirige a la intención con la que lo hacen. Así, la narración que Pablo quiere que sepan no solo informa, sino que permite discernir entre dos maneras de responder ante la misma realidad.
 
-##### DEFINICIÓN
-###### Verbo finito = verbo que tiene:
-- persona
-- número
-- tiempo/modo
+#### Algunos, a la verdad, predican a Cristo
+##### Se introduce la <u>predicación</u> de Cristo como elemento común. El contenido no cambia: el mensaje sigue siendo Cristo. Sin embargo, el texto comienza a observar algo distinto, no el mensaje en sí, sino la intención detrás de quienes lo anuncian. Esto conecta con lo anterior (1:9–11), donde el crecimiento en amor, conocimiento y discernimiento conduce a escoger lo mejor. Aquí se empieza a ver cómo ese discernimiento es necesario, ya que el mismo acto puede presentarse con motivaciones diferentes dentro de la misma línea del evangelio.
 
-###### y funciona como núcleo de una cláusula en el griego.
+#### aun por envidia y rivalidad,
+##### Se identifican motivaciones internas: <u>envidia</u> y rivalidad. El texto no niega que predican a Cristo, pero sí distingue claramente la intención. La diferencia no está en el contenido del mensaje, sino en lo que impulsa a quien lo anuncia. Así, se muestra una primera actitud que no se presenta como alineada con el desarrollo anterior (amor, conocimiento y discernimiento), sino como una expresión distinta dentro del mismo escenario. El pasaje permite ver que una misma acción externa puede tener una motivación diferente.
 
-##### ACLARACIÓN IMPORTANTE
-###### En español puede haber:
-- más verbos que en el griego
-- menos verbos que en el griego
-- estructuras diferentes
+#### pero también otros lo hacen de buena voluntad.
+##### Se presenta el <u>contraste</u>. El mismo acto —predicar a Cristo— aparece ahora con una motivación distinta: buena voluntad. El texto mantiene el paralelismo, pero señala la diferencia interna. No se introduce un nuevo mensaje, sino una diferencia en la intención con la que se realiza. De esta manera, el desarrollo continúa mostrando dos líneas dentro de una misma realidad, lo cual permite distinguir sin cambiar el contenido central del evangelio.
 
-##### 👉 Por eso:
-###### El griego es la referencia final.
+### Filipenses 1:16
+Estos lo hacen por amor, sabiendo que he sido designado para la defensa del evangelio.
 
-##### EJEMPLO GUIADO
-###### Texto:
+#### Estos lo hacen por amor,
+##### Se identifica la <u>motivación</u> de este grupo. El texto señala que “lo hacen por amor”, manteniendo la misma línea que Pablo ha venido desarrollando desde el inicio (1:9–11). No se introduce una motivación nueva, sino una que corresponde con el crecimiento en amor que ha sido pedido en oración. Así, la predicación no se distingue por su contenido —que sigue siendo Cristo—, sino por lo que impulsa a quienes la realizan. Dentro del contraste presentado (1:15), esta línea muestra una coherencia con el desarrollo previo del pasaje.
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
-Les ==di== a beber leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
-En verdad, ni aun ahora ==pueden==.
-```
+#### sabiendo que he sido designado para la defensa del evangelio.
+##### Se añade el elemento del <u>conocimiento</u>. El texto afirma que “sabiendo” indica comprensión de lo que está ocurriendo. Este conocimiento está directamente relacionado con la situación de Pablo: su designación para la defensa del evangelio. De esta manera, el amor no aparece aislado, sino unido a una comprensión clara del propósito de sus circunstancias. Esto mantiene la misma secuencia presentada antes: conocimiento y discernimiento conducen a una respuesta adecuada. Así, el pasaje conecta motivación (amor) con comprensión (saber), mostrando una línea consistente dentro del desarrollo del evangelio.
 
-##### Observación:
-- “hablar” → ❌ no es finito en griego
-- “recibir” → ❌ no es finito en griego
-- ==pude==, ==di==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+### Filipenses 1:17
+Aquellos proclaman a Cristo por ambición personal, no con sinceridad, pensando causarme angustia en mis prisiones.
 
-##### REGLA IMPORTANTE
-###### Las formas que no tienen persona en el griego:
-👉 no crean nuevas cláusulas
+#### Aquellos proclaman a Cristo por ambición personal,
+##### Se identifica la <u>motivación</u>. El texto mantiene el mismo acto —proclamar a Cristo—, pero señala que la intención es “ambición personal”.
 
-##### Errores comunes
-- Marcar verbos basados solo en el español
-- Seguir el interlineal sin verificar morfología
-- Contar participios como verbos principales
-- Separar un solo verbo griego en múltiples acciones
+##### Esto continúa el contraste iniciado en 1:15–16, donde se presentan distintas motivaciones dentro de la misma proclamación.
 
-##### REGLA DE CONTROL
-###### Si no es finito en griego, no se marca.
+#### no con sinceridad,
+##### Se añade una <u>calificación</u> a esa motivación. El texto indica que no es sincera.
 
-##### FRASE CLAVE
-> “El griego decide; el español muestra.”
+##### Esto mantiene la diferencia interna entre los grupos, sin cambiar el contenido del mensaje.
 
-##### QUÉ DEBES NOTAR
-###### Cuando marcas correctamente:
-- aparecen las acciones reales del texto
-- el número de unidades se vuelve objetivo
-- evitas distorsión por traducción
+#### pensando causarme angustia en mis prisiones
+##### Se describe la <u>intención</u> específica: causar angustia a Pablo.
 
-##### TRANSICIÓN
-###### En el siguiente paso:
-- 👉 separarás cada verbo en su propia línea
-- 👉 verás claramente las unidades de acción del texto
+##### Esto conecta nuevamente con sus prisiones (1:13–14), manteniendo el mismo contexto dentro del desarrollo.
 
-# PASO 3 — CONSTRUIR CLÁUSULAS
+##### El resultado es que la proclamación ocurre dentro de un entorno de oposición, pero sin cambiar el hecho de que Cristo es anunciado.
 
-## EJECUTA
+### Filipenses 1:18
+¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad, Cristo es proclamado; y en esto me regocijo, sí, y me regocijaré.
 
-##### ¿Qué haces?
-###### Construyes una \textbf{cláusula completa} a partir de cada verbo finito identificado en el Paso 2.
+#### ¿Entonces qué? Que de todas maneras, ya sea fingidamente o en verdad, Cristo es proclamado;
+##### Pablo presenta una <u>conclusión</u> que recoge todo el desarrollo anterior. Después de mostrar las distintas motivaciones (amor, envidia, ambición), el texto no niega esas diferencias, pero dirige la atención al resultado común: “Cristo es proclamado”. De esta manera, el énfasis se mueve del motivo al hecho mismo de la proclamación. Esto conecta directamente con lo dicho en 1:12–14, donde las circunstancias de Pablo han redundado en el progreso del evangelio. Así, tanto por quienes actúan con buena intención como por quienes lo hacen con motivaciones distintas, el resultado visible es el mismo: el mensaje de Cristo sigue avanzando.
 
----
+#### y en esto me regocijo,
+##### Pablo responde con <u>gozo</u> frente a ese resultado. El texto muestra que su regocijo no está condicionado por las motivaciones de otros, sino por el hecho de que Cristo está siendo anunciado. Esto mantiene coherencia con lo que ha venido expresando desde el inicio de la carta (1:3–4), donde el gozo aparece vinculado al avance del evangelio. A diferencia de quienes actúan por rivalidad o contienda, la respuesta de Pablo no se centra en la oposición, sino en el resultado que permanece dentro de la misma línea del pasaje.
 
-##### REGLA
-###### Cada verbo finito griego genera \textbf{una cláusula independiente}.
+#### sí,
+##### Se refuerza la <u>afirmación</u>. El texto no introduce una idea nueva, sino que intensifica lo que ya ha sido dicho. Este “sí” confirma la conclusión y el gozo expresado, manteniendo la misma dirección sin desviarse del enfoque principal.
 
-###### ❗ No separas por comas  
-###### ❗ No separas por sentido  
-###### 👉 Solo trabajas a partir del verbo finito griego  
+#### y me regocijaré.
+##### El gozo se extiende hacia el <u>futuro</u>. No se presenta solo como una reacción momentánea, sino como una continuidad en el tiempo. El texto muestra que la respuesta de Pablo permanece estable, independientemente de las circunstancias o de las motivaciones de otros. Así, la secuencia se mantiene clara: circunstancias → proclamación de Cristo → gozo presente → gozo continuo. Esta línea no cambia, sino que se sostiene dentro del desarrollo del pasaje, mostrando que el avance del evangelio permanece como el centro.
 
----
+## Filipenses 1:19–26 Expresa su expectativa respecto a su situación
 
-## REGLA CRÍTICA
+### Filipenses 1:19
+Porque sé que esto resultará en mi liberación mediante las oraciones de ustedes y la provisión del Espíritu de Jesucristo,
 
-###### ❗ Solo cuentan los verbos finitos confirmados en el griego
+#### Porque sé que esto resultará en mi liberación
+##### Pablo afirma una <u>certeza</u> sobre el resultado.
 
-👉 El español puede añadir verbos que no existen en el griego  
-👉 Esos verbos \textbf{no se usan}  
+##### Esta certeza se conecta con lo que acaba de decir: el progreso del evangelio y su propio gozo.
 
----
+##### El texto no desarrolla todos los detalles, pero sí afirma que “esto” tendrá un resultado.
 
-##### CONSECUENCIA
+##### El regocijo lo lleva a tener certeza sobre un resultado que será un hecho.
 
-###### ❗ Si no hay verbo finito griego:
+##### \scripture{Porque sé} OIGA esta en tiempo perfecto, activo, indicativo, que puede traducirse como \scripture{He sabido} que será un hecho
 
-- no hay cláusula  
-- no se construye línea  
+##### Y la palabra \scripture{resultará} APOBAINO esta en tiempo futuro, voz media, indicativa, lo cual se puede entender como un resultado de parte de 2 acciones involucradas, Dios haciendo participar a la iglesia.
 
----
+#### mediante las oraciones de ustedes y la provisión del Espíritu de Jesucristo,
+##### Pablo menciona dos elementos: las <u>oraciones</u> de ellos y la provisión del Espíritu.
 
-##### EJEMPLO CLAVE
+##### No los presenta como separados, sino como parte del mismo proceso.
 
-Texto NBLA:
-```
-si la justicia viene por medio de la ley
-```
+##### Los filipenses no <u>quedan</u> fuera de lo que ocurre; aparecen participando por medio de la oración.
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+##### El resultado está conectado tanto a la acción de Dios como a la participación de ellos.
 
-👉 No hay verbo finito en el griego  
+##### Para concluir lo que les ha estado narrando desde la perspectiva de la obra de Dios, los hace participar en la confianza de <u>tener</u> el resultado de tener libertad.
 
-Resultado:
-```
-❌ ==viene== por medio de la ley
-```
+##### Este suceso esta basado en la confianza Dios y la participación de la iglesia. Hechos 12:5-12
 
-👉 No se construye como cláusula  
+##### Estas circunstancias son dadas por Dios como oportunidad para que la iglesia pueda participar en <u>oración</u>, acompañando a los creyentes que están pasando tribulación. Filipenses 4:14
 
----
+### Filipenses 1:20
+conforme a mi anhelo y esperanza de que en nada seré avergonzado, sino que con toda confianza, aun ahora, como siempre, Cristo será exaltado en mi cuerpo, ya sea por vida o por muerte.
 
-## REGLA CLAVE
+#### conforme a mi anhelo y esperanza de que en nada seré avergonzado,
+##### Pablo describe su <u>esperanza</u>.
 
-###### ❗ No eliminas el resto del texto
+##### Esta esperanza no es general, sino específica: no ser avergonzado en nada.
 
-- conectores  
-- frases  
-- modificadores  
+##### El texto <u>conecta</u> su expectativa con lo que espera ver en el resultado.
 
-👉 No desaparecen  
-👉 Solo \textbf{no se trabajan todavía}
+##### Avergonzado AISJUNOMAI Se encuentra en un tiempo futuro, voz <u>pasiva</u>, modo indicativo, 1era persona singular, lo cual significa que su anhelo y espera descansa sobre la firme confianza de que Dios no permitiría que Pablo sea avergonzado.
 
----
+#### sino que con toda confianza, aun ahora, como siempre,
+##### Pablo contrasta “no ser avergonzado” con actuar con <u>confianza</u>.
 
-## CÓMO HACERLO
+##### Esta confianza no es <u>nueva</u>; el texto dice “como siempre”.
 
-1. Toma el texto con los verbos marcados (Paso 2)
+##### No presenta un <u>cambio</u> reciente, sino continuidad.
 
-2. Localiza cada:
-```
-==verbo==
-```
+##### Pablo sabia que Dios no le haría quedar mal, confiaba firmemente en eso porque siempre fue así y Dios no cambiaria <u>ahora</u>. 
 
-3. Para cada verbo:
+#### Cristo será exaltado en mi cuerpo, ya sea por vida o por muerte.
+##### El punto central es que Cristo será <u>exaltado</u>.
 
-- 👉 Identifica quién realiza la acción (sujeto, si es necesario)  
-- 👉 Añade lo que completa la acción del verbo  
-- 👉 Conserva todo lo que pertenece directamente al verbo  
+##### Pablo no centra el resultado en su liberación, sino en lo que ocurre con Cristo.
 
-4. Escribe cada cláusula en una línea separada
+##### El texto incluye ambas posibilidades: vida o <u>muerte</u>.
 
----
+##### La exaltación de Cristo no depende de cuál de las dos <u>ocurra</u>.
 
-## RESULTADO
+#####  Y que más bien Dios mostraría públicamente en Pablo la grandeza de Cristo, ya sea que viva o que muera.
 
-Cada línea debe contener:
+##### Es aquí <u>donde</u> termina su narración y su plena confianza de que Dios lo ha llevado a hacer visible la exaltación de Cristo.
 
-- un verbo finito griego  
-- su acción completa  
-- los elementos necesarios para entender esa acción  
+##### Muy diferente a una ambición personal, sino que el <u>fruto</u> de justicia abunda para la grandeza de Cristo y gloria de Dios.
 
-👉 No es una frase mínima  
-👉 Es una \textbf{acción completa}
+## Filipenses 1:21–26 Una labor fructífera
 
----
+##### Pablo continúa el mismo <u>desarrollo</u> sin introducir un tema nuevo. Lo que sigue explica lo que acaba de afirmar en 1:20: que Cristo será exaltado en su cuerpo, ya sea por vida o por muerte. Así, esta sección no cambia el enfoque, sino que lo desarrolla mostrando cómo Pablo entiende su vida dentro de ese mismo marco. El movimiento es claro: afirmación → explicación → implicación, manteniendo el centro en Cristo y en el avance del evangelio.
 
-## EJEMPLO
+### Filipenses 1:21
+Pues para mí, el vivir es Cristo y el morir es ganancia.
 
-```
-==pude== hablarles como a espirituales
+#### Pues para mí,
+##### Se introduce la <u>perspectiva</u> de Pablo. El texto habla en primera persona, mostrando cómo él entiende su situación. Esto conecta con lo anterior (1:12–20), donde ha explicado sus circunstancias y sus resultados, y ahora lo resume desde su propia perspectiva. No generaliza, sino que presenta su forma de ver vida y muerte dentro del mismo desarrollo.
 
-==di== a beber leche
+#### el vivir es Cristo
+##### Se define el <u>vivir</u>. El texto es directo: “el vivir es Cristo”. No añade otros elementos ni explicaciones adicionales, sino que establece una relación única. Esto conecta con 1:20, donde Cristo es el centro de su vida (“Cristo será exaltado en mi cuerpo”). Así, el vivir no se presenta como una experiencia independiente, sino completamente vinculada a Cristo dentro del mismo flujo.
 
-==podían== recibirlo
+#### y el morir es ganancia.
+##### Se presenta el <u>morir</u> como resultado. El texto lo define como “ganancia”, manteniendo la misma línea. No se desarrollan aquí los detalles, pero se establece la equivalencia: tanto la vida como la muerte son entendidas en relación con Cristo. De esta manera, el versículo mantiene una sola estructura: vivir → Cristo; morir → ganancia, sin cambiar el enfoque del pasaje.
 
-==pueden==
-```
+### Filipenses 1:22
+Pero si el vivir en la carne, esto significa para mí una labor fructífera, entonces, no sé cuál escoger.
 
----
+#### Pero si el vivir en la carne, esto significa para mí una labor fructífera,
+##### Se introduce una <u>condición</u>: “si el vivir en la carne”. El texto retoma el contraste de 1:21 (vivir / morir) y lo desarrolla, enfocándose ahora en el vivir. No se presenta como algo vacío, sino con resultado.
 
-## ACLARACIÓN SOBRE CONECTORES
+##### Se define ese vivir como una <u>labor fructífera</u>. La expresión conecta con 1:11 (“fruto de justicia”), manteniendo la misma línea dentro del pasaje. Así, el vivir no es solo existencia, sino actividad con resultado dentro del mismo desarrollo del evangelio.
 
-###### Los conectores no se trabajan en este paso
+#### entonces, no sé cuál escoger.
+##### Se expresa una <u>tensión</u>. El texto no da una respuesta inmediata, sino que presenta el conflicto: “no sé cuál escoger”. Esto continúa el contraste iniciado en 1:21 y lo lleva a una decisión pendiente.
 
-👉 Porque no pertenecen a una sola cláusula  
-👉 Sino a la relación entre cláusulas  
+##### La tensión se mantiene dentro del mismo <u>flujo</u>. El texto no introduce una idea nueva, sino que muestra cómo ambas opciones (vivir con fruto / morir como ganancia) permanecen abiertas, generando esta falta de resolución en el momento.
 
-👉 Se trabajarán en el Paso 4  
+### Filipenses 1:23
+Porque de ambos lados me siento apremiado, teniendo el deseo de partir y estar con Cristo, pues eso es mucho mejor.
 
----
+#### Porque de ambos lados me siento apremiado,
+##### Se describe la <u>tensión</u> interna. La expresión “de ambos lados” conecta con 1:21–22 (vivir / morir) y muestra que ambas opciones permanecen presentes al mismo tiempo. El texto no resuelve todavía la decisión, sino que la mantiene abierta.
 
-## ENTIENDE
+##### Se afirma una <u>presión</u> real. “Me siento apremiado” indica que las dos posibilidades ejercen fuerza simultáneamente, manteniendo el conflicto dentro del desarrollo.
 
-##### Qué estás haciendo realmente
-###### Estás construyendo las \textbf{unidades reales de acción del texto},  
-###### determinadas por el griego.
+#### teniendo el deseo de partir y estar con Cristo, pues eso es mucho mejor.
+##### Se identifica un <u>deseo</u>: “partir y estar con Cristo”. El texto nombra explícitamente una de las opciones dentro de la tensión.
 
----
+##### Se evalúa esa opción. “Eso es mucho mejor” establece su <u>valor</u>, sin eliminar la otra alternativa. Así, el pasaje mantiene ambas líneas (vivir con fruto / partir y estar con Cristo), preparando lo que sigue en el desarrollo.
 
-##### PRINCIPIO CLAVE
-###### La cláusula se define por el \textbf{verbo finito griego},  
-###### no por la puntuación ni por el español.
+### Filipenses 1:24
+Sin embargo, continuar en la carne es más necesario por causa de ustedes.
 
----
+#### Sin embargo, continuar en la carne
+##### Se introduce un <u>contraste</u>. La expresión “sin embargo” retoma la tensión de 1:23 (partir / permanecer) y dirige el enfoque nuevamente hacia la vida presente. El texto no elimina la opción anterior, sino que ahora enfatiza la otra línea dentro del mismo desarrollo.
 
-##### IDEA CLAVE
-###### No decides cómo suena mejor  
-###### 👉 El griego ya lo determina  
+##### Se vuelve a la opción de <u>continuar</u>. “Continuar en la carne” conecta con 1:22 (labor fructífera), manteniendo la misma idea: vivir implica seguir desarrollando esa labor dentro del flujo del evangelio.
 
----
+#### es más necesario por causa de ustedes.
+##### Se presenta la <u>razón</u>. El texto afirma que es “más necesario”, estableciendo una prioridad dentro de la tensión. No se niega que partir sea “mucho mejor” (1:23), pero ahora se indica lo que es necesario en este momento.
 
-##### ACLARACIÓN IMPORTANTE
+##### El enfoque se dirige hacia <u>ellos</u>. “Por causa de ustedes” conecta con los destinatarios, mostrando que esta evaluación no se centra en el deseo personal, sino en su relación con los filipenses. Esto mantiene coherencia con el desarrollo de la carta, donde Pablo continuamente los tiene en vista (1:3–8).
 
-###### Una cláusula puede incluir:
-- infinitivos  
-- participios  
-- frases largas  
+### Filipenses 1:25
+Y convencido de esto, sé que permaneceré y continuaré con todos ustedes para su progreso y gozo en la fe,
 
-👉 Pero solo tiene \textbf{un verbo finito griego}
+#### Y convencido de esto, sé que permaneceré y continuaré con todos ustedes
+##### Se expresa una <u>convicción</u>. “Convencido de esto” retoma la evaluación del versículo anterior (1:24) y muestra que la decisión ahora se orienta hacia permanecer.
 
----
+##### Se afirma la <u>dirección</u>. “Permaneceré y continuaré con todos ustedes” conecta con la necesidad mencionada (1:24), manteniendo la misma línea: continuar en la carne por causa de ellos.
 
-##### EJEMPLO CLAVE
-```
-==di== a beber leche
-```
+#### para su progreso y gozo en la fe,
+##### Se presenta el <u>propósito</u>. El texto indica dos resultados: “progreso” y “gozo”, ambos vinculados “en la fe”.
 
-- ==di== → verbo finito ✔  
-- “a beber” → infinitivo ❌  
+##### Se mantiene el enfoque en <u>ellos</u>. La continuidad de Pablo no se define por sí mismo, sino por el efecto en los destinatarios, coherente con el desarrollo del pasaje (1:3–11, 1:24).
 
-👉 Sigue siendo \textbf{una sola cláusula}
+### Filipenses 1:26
+para que su profunda satisfacción por mí abunde en Cristo Jesús a causa de mi visita otra vez a ustedes.
 
----
+#### para que su profunda satisfacción por mí abunde en Cristo Jesús
+##### Se presenta un <u>resultado</u>. La expresión “para que” conecta con 1:25 (progreso y gozo en la fe) y añade un efecto adicional: “su profunda satisfacción… abunde”. El texto mantiene la misma línea de crecimiento (1:9–11), ahora expresada como abundancia.
 
-##### ERROR COMÚN
+##### Se define el <u>enfoque</u>. Aunque menciona “por mí”, la satisfacción no se queda en Pablo, sino “en Cristo Jesús”. Así, el resultado vuelve a dirigirse hacia el mismo centro del pasaje, manteniendo coherencia con todo el desarrollo.
 
-- Usar verbos añadidos por el español  
-- Construir cláusulas sin base griega  
-- Cortar por comas o pausas  
+#### a causa de mi visita otra vez a ustedes.
+##### Se indica la <u>causa</u> del resultado. “A causa de mi visita otra vez a ustedes” conecta esa abundancia con la presencia de Pablo, manteniendo el enfoque en el efecto que esto produce en ellos.
 
-👉 ❌ Incorrecto
+##### El texto no desarrolla el detalle histórico, sino el <u>resultado esperado</u>. La mención de la visita sirve para cerrar la secuencia: permanecer (1:25) → beneficio en ellos → abundancia en Cristo, sin introducir un nuevo tema ni cambiar la dirección del pasaje.
 
-##### CORRECTO
+# FLUJO COMPLETO
 
-- Solo usar verbos confirmados en el griego  
-- Construir una cláusula por verbo  
-- Ignorar añadidos del español  
+##### El desarrollo del pasaje sigue una <u>secuencia continua</u> que no se interrumpe ni introduce ideas aisladas, sino que avanza paso a paso dentro de una misma línea.
 
-## REGLA DE CONTROL
+##### Parte de una <u>certeza de resultado</u>, que no se presenta de manera independiente, sino conectada con la participación: oración y la acción del Espíritu. A partir de ahí, se establece una <u>esperanza</u> clara: no ser avergonzado, lo cual mantiene coherencia con lo que ha venido afirmando.
 
-###### Si hay verbo finito griego → hay cláusula  
-###### Si no hay → no hay cláusula  
+##### Esta línea conduce a un punto central: <u>Cristo será exaltado</u>. Desde ahí, Pablo define su propia perspectiva: \scripture{la vida es Cristo y la muerte es ganancia}, sin separar ambas realidades, sino manteniéndolas dentro de la misma relación.
 
-## FRASE CLAVE
-> “Una cláusula = un verbo finito griego con su acción completa.”
+##### El texto no evita la <u>tensión real</u> entre ambas, sino que la presenta abiertamente. Sin embargo, esta tensión no queda sin dirección, sino que lleva a una <u>decisión</u> orientada hacia los demás, específicamente hacia los filipenses.
 
-## QUÉ DEBES NOTAR
+##### Esta decisión se define por un <u>propósito</u>: su progreso. Y finalmente, todo el desarrollo desemboca en un <u>resultado</u>: el gozo en la fe, cerrando así la secuencia sin romper la línea inicial.
 
-###### Cuando construyes correctamente:
+## En Síntesis (1:21-26)
 
-- desaparecen cláusulas falsas  
-- el texto se limpia  
-- la estructura se vuelve objetiva  
+>- El texto mantiene una sola línea: vivir o morir, ambos en relación con Cristo
+>- Vivir se presenta como labor con fruto dentro del mismo desarrollo
+>- Morir se afirma como ganancia sin eliminar la otra opción
+>- La tensión se resuelve hacia permanecer por causa de ellos
+>- El resultado apunta al progreso, gozo y abundancia en Cristo
 
-## TRANSICIÓN
+# FILIPENSES 1:27–2:18 Pablo exhorta a vivir de manera digna del evangelio
 
-###### En el siguiente paso:
+## Filipenses 1:27 Exhorta a comportarse de manera digna del evangelio
 
-- 👉 volverás al texto completo  
-- 👉 identificarás los conectores en el griego  
-- 👉 comenzarás a ver relaciones reales  
+##### A partir de aquí aparece un <u>imperativo</u> claro en la carta.
 
-###### Primero construyes (según el griego)  
-###### 👉 luego conectas
+##### Este imperativo no está separado de lo anterior, sino que se apoya en lo que Pablo ya ha dicho (evangelio, participación, resultado).
 
-# PASO 4 — IDENTIFICAR CONECTORES
+##### El enfoque pasa de lo que Pablo describe a cómo ellos deben vivir.
 
-## EJECUTA
+##### Desde esta sección iniciara una serie de imperativos.
 
-##### ¿Qué haces?
-###### Identificas todos los \textbf{conectores del texto}, volviendo al texto original completo.
+##### El libro de Filipenses tiene 22 Imperativos en toda la carta.
 
-##### REGLA CLAVE
-###### ❗ Regresas al texto original (Paso 1)
+- Capitulo 1 tiene un imperativo.
+- Capitulo 2 tiene seis imperativos.
+- Capitulo 3 tiene seis imperativos.
+- Capitulo 4 tiene nueve imperativos.
 
-👉 No trabajas con las cláusulas del Paso 3  
-👉 Trabajas con el texto completo otra vez  
+##### En esta sección, del capitulo 1:27 al capitulo 2:30 abarcaremos siete imperativos.
 
-## QUÉ ES UN CONECTOR
+##### Esto tiene mucho significado al corazón de esta sección, Dios es quien obra en medio de ustedes.
 
-##### Definición
-###### Un conector es una palabra que puede \textbf{relacionar una cláusula con otra}.
+##### Estos imperativos no deben ir independientes del obrar de Dios, y tampoco debe entenderse que estas instrucciones se completan por si solas.
 
-👉 No describe acción  
-👉 No añade contenido  
-👉 \textbf{Une estructuras}
+##### Existe una participación activa de los creyentes en el obrar de Dios.
 
-## CÓMO IDENTIFICARLOS
+## Filipenses 1:27-2:4 Un comportamiento digno del Evangelio de Cristo
 
-1. Toma el texto original (sin modificar)
+##### Pablo pasa de narrar a exhortar, manteniendo el mismo <u>flujo</u> del texto.
 
-2. Busca palabras como:
+##### La exhortación no aparece aislada, sino conectada con la oración (Filipenses 1:9) y con las circunstancias (Filipenses 1:12).
 
-- y  
-- pero / sino  
-- porque / que  
-- para que  
-- si  
-- cuando  
+##### El llamado es colectivo, dirigido a todos como un mismo <u>grupo</u>.
 
-3. Márcalas así:
+##### Después de haber narrado como las circunstancias por las que Pablo esta pasando y los resultados de la predicación del evangelio, pasa a dar el primer imperativo de la carta.
 
-```
-(porque)
-(y)
-(para que)
-```
+##### Esta sección es bastante práctica, por lo que es difícil poder discernir sobre la base de que es lo que dice, y que significa.
 
-## REGLA DE MARCADO
+##### Este primer imperativo tiene como base la narración que Pablo dio que no esta independiente de su pedido de oración, por lo que este imperativo es fundamental para los siguientes, ya que sin esta base, todo lo que continua se convertiría en un esfuerzo por querer alcanzarlo. Filipenses 2:12
 
-###### Usa:
-- ( ) → cuando el conector está explícito en español  
-- [] → cuando está implícito pero existe en el griego  
+##### Cada imperativo tiene sentido practico, si bien podría aplicarse de manera individual, pero esta dirigida en sentido práctico colectivo. Filipenses 1:1
 
-## CONFIRMACIÓN EN EL GRIEGO
+##### Que no esta separada de su oración. Filipenses 1:9
 
-###### ❗ Todo conector debe confirmarse en el griego
+##### Y que es unánime en todos. 
 
-👉 El griego determina si el conector existe  
-👉 El español puede:
-- omitirlo  
-- cambiarlo  
-- suavizarlo  
+### Filipenses 1:27
+Solamente compórtense de una manera digna del evangelio de Cristo, de modo que ya sea que vaya a verlos, o que permanezca ausente, pueda oír que ustedes están firmes en un mismo espíritu, luchando unánimes por la fe del evangelio. 
 
-##### EJEMPLO
+#### Solamente compórtense de una manera digna del evangelio de Cristo,
+##### Pablo introduce un mandato: <u>compórtense</u>.
 
-Griego:
-```
-ἀλλʼ
-```
+##### El énfasis está en una sola manera de vivir acorde al evangelio.
 
-Español NBLA:
-```
-ni aun ahora pueden
-```
+##### No presenta múltiples opciones, sino una forma coherente con el evangelio.
 
-Resultado:
-```
-[pero] ni aun ahora pueden
-```
+##### El texto conecta el comportamiento directamente con el evangelio de Cristo.
 
-👉 El conector no aparece en español  
-👉 [Pero] \textbf{sí existe en el griego}  
-👉 Por eso se marca
+##### Solamente, hace referencia a que, únicamente, no dos, no tres, no muchos, sino que hay un solo comportamiento digno del evangelio de Cristo.
 
-## EJEMPLO COMPLETO
+##### \scripture{compórtense} POLITEUOMAI es una palabra derivada de POLITES, que significa ciudadano o poblador, compuesto por comportamiento, que puede traducirse como: \scripture{compórtense o vivan como ciudadanos.}
 
-Texto:
+##### Esta palabra se un verbo en tiempo presente, imperativo, voz media pasiva, 
 
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, 
-sino como a carnales, como a niños en Cristo.
+##### Es de notar que se encuentra en voz media pasiva, que significa, una acción que alguien hizo, los beneficia a ellos para que puedan llevar a cabo el imperativo en tiempo presente.
 
-Les di a beber leche, no alimento sólido,
+##### Por lo que podemos llegar a entender que al momento de haber creído en el evangelio, Dios los hizo ciudadanos dignos del evangelio de Cristo.
 
-porque todavía no podían recibirlo.
+##### Entonces esto significa que el imperativo da la instrucción a que ellos vivan según lo que ya son.
 
-ni aun ahora pueden
-```
+##### Esto trae descanso, ya que el pasaje no esta enseñando, que ellos deben alcanzar ser dignos ciudadanos para poder vivir dignamente del evangelio de Cristo.
 
-Resultado:
+##### Por eso el énfasis de vivir con aquella sola y única ciudadanía digna que ya tenemos del evangelio de Cristo.
 
-```
-[sino] como a carnales
+#### de modo que ya sea que vaya a verlos, o que permanezca ausente, pueda oír 
 
-(porque) todavía no podían recibirlo
+##### Pablo expresa su deseo de poder <u>oír</u> acerca de ellos.
 
-[pero] ni aun ahora pueden
-```
+##### Esto no depende de su presencia; incluye tanto estar como no estar.
 
-## IMPORTANTE
+##### El comportamiento no se limita a cuando él está presente.
 
-###### ❗ En este paso NO decides si conectan o no
+##### Pablo tiene el deseo de poder escuchar el andar de los hermanos, estando con ellos o estando ausente.
 
-👉 Solo los identificas  
-👉 No evalúas relación todavía  
+##### Esto aclara que la firmeza o la unidad no esta sobre la base de un hermano. 
 
-## ENTIENDE
+##### Este presente o ausente el comportamiento digno del evangelio puede ser oído, no obligado.
 
-##### Qué estás haciendo realmente
-###### Estás identificando \textbf{todas las posibles relaciones del texto}.
+#### que ustedes están firmes en un mismo espíritu,
+##### Se describe el estado esperado: estar <u>firmes</u>.
 
-##### PRINCIPIO CLAVE
-###### Un conector no pertenece a una cláusula  
-###### 👉 Pertenece a la relación entre cláusulas  
+##### Esta firmeza no es individual, sino en un mismo espíritu.
 
-##### IDEA CLAVE
-###### Primero ves TODOS los conectores  
-###### 👉 Luego decides cuáles realmente conectan  
+##### El texto apunta a unidad, no a acción separada.
 
-##### ERROR COMÚN
-- Ignorar conectores que no aparecen en español  
-- No confirmar en el griego  
-- Decidir demasiado pronto si conectan  
+##### La manera en la que se ve el vivir digno del evangelio, es estar todos firmes en un mismo espíritu.
 
-👉 ❌ Incorrecto
+##### Las circunstancias rápidamente podrían dividir el espíritu de la iglesia, pero eso no va acorde a lo que ya somos, eso quitaría la firmeza.
 
-##### CORRECTO
-- Marcar todos los posibles conectores  
-- Confirmarlos en el griego  
-- No tomar decisiones aún  
+##### Si bien las circunstancias podrían quitar firmeza.
 
-## FRASE CLAVE
-> “Primero identifico todos los conectores.  
-> Después verifico cuáles realmente conectan.”
+##### Note que Dios nos puso en una ciudadanía digna del evangelio a pesar de las circunstancias eso es algo que nunca va a cambiar. la firmeza proviene de andar en lo digno del evangelio que ya Dios nos coloco.
 
-## QUÉ DEBES NOTAR
+##### Ahora conociendo el propósito de las circunstancias pasa a desear que los hermanos filipenses estén firmes en un mismo espíritu, no divididos.
 
-###### Cuando haces bien este paso:
-- aparecen relaciones que no se ven en español  
-- el texto se vuelve estructural  
-- preparas el análisis real de conexión  
+#### luchando unánimes por la fe del evangelio.
+##### Se añade acción: <u>luchando</u>.
 
-## TRANSICIÓN
+##### Esta lucha es unánime, no individual.
 
-###### En el siguiente paso:
-- 👉 evaluarás cuáles conectores realmente unen cláusulas  
-- 👉 eliminarás los que no generan relación  
-- 👉 comenzarás a construir la estructura  
+##### El objeto de la lucha es la fe del evangelio.
 
-###### Aquí no decides  
-###### 👉 solo identificas
+##### El énfasis no está en la actividad en sí, sino en aquello por lo cual se lucha.
 
-# PASO 5 — CONECTOR + B → BUSCAR A
+##### Esta lucha, no es una lucha por Pablo, no es una lucha por defender una actividad, no es una lucha por un grupo de personas, no es una lucha por la unanimidad.
 
-## EJECUTA
+##### Esta lucha, es una lucha donde todos están unánimes sobre la fe del evangelio.
 
-##### ¿Qué haces?
-###### Tomas las cláusulas del Paso 3, insertas en ellas los conectores del Paso 4 que introducen B, y verificas si cada conector realmente une esa cláusula con una A.
+##### Esto es algo que ellos debían prestar atención, ya que para un andar digno del evangelio de Cristo, esta se fundamentada sobre la fe en el evangelio.
 
-##### REGLA CLAVE
+##### Note que es una lucha unánime sobre el único mensaje Dios que es poderoso para salvación al cual se accede únicamente y solamente por la fe.
 
-###### ❗ Todo comienza con las cláusulas del Paso 3
+## Filipenses 1:28–30 Exhorta a no temer y a sufrir por Cristo
 
-👉 Solo trabajas con cláusulas reales (verbos finitos griegos)  
-👉 No creas cláusulas nuevas  
-👉 No usas verbos añadidos por el español  
+### Filipenses 1:28
+De ninguna manera estén atemorizados por sus adversarios, lo cual es señal de perdición para ellos, pero de salvación para ustedes, y esto, de Dios. 
 
-##### ESENCIA DEL PASO
+#### De ninguna manera estén atemorizados por sus adversarios,
+##### Se introduce una negación clara: no estar <u>atemorizados</u>.
 
-###### 1) Insertas el conector en su cláusula B  
-###### 2) Pruebas: conector + B → ¿hay A?
+##### El temor aparece como algo que debe ser evitado.
 
-## CÓMO HACERLO
+##### Los adversarios son mencionados como el origen de ese posible temor.
 
-1. Toma las cláusulas del Paso 3
+##### El temor por los adversarios rápidamente podría quitarlos de su firmeza, y al suceder esto, por causa del temor, la fe del evangelio es comprometido a ser cambiado, lo que llegaría a resultar un andar que no es digno de lo que ya somos dignos.
 
-2. Toma los conectores del Paso 4
+##### Pablo en su narración quería que esto se entienda claramente, que no importaba si vivía o moría
 
-3. Para cada conector:
-   a) Identifica la cláusula B (la que introduce)  
-   b) Insértalo al inicio de esa cláusula  
-   c) Prueba:
+##### Sus adversarios aunque tenían intenciones de añadir aflicciones a sus prisiones.
 
-   👉 \textbf{conector + B → ¿hay A?}
+##### Pablo se regocijaba con el deseo de continuar viviendo para un mayor progreso del evangelio y sea motivo de gozo para todos los hermanos. 
 
-4. Decide:
-- ✔ Sí hay A → el conector se conserva  
-- ❌ No hay A → el conector se elimina  
+##### La Biblia (RVR60) traduce, \scripture{y en nada intimidados por los que se oponen} los que se oponen tiene la habilidad de intimidar, pero tenemos un Dios y mensaje poderoso. Hechos 4:17-21
 
-## FORMATO
-```
-(conector) cláusula B
-```
+#### lo cual es señal de perdición para ellos,
+##### Se presenta una <u>señal</u>.
 
-Luego:
-```
-(conector) + B → ¿A?
-```
+##### Esta señal se refiere a la condición de ellos.
 
-## EJEMPLO
+##### El texto no desarrolla todo el significado, pero sí afirma el contraste.
 
-Cláusulas (Paso 3):
-```
-==di== a beber leche
+##### No tener temor por los adversarios es señal de perdición para ellos, y esto es bueno, ya que por causa de esta señal ellos podrían notar que están perdidos, porque Dios es fiel con su pueblo. Filipenses 1:20
 
-==podían== recibirlo
+#### pero de salvación para ustedes,
+##### Se introduce el contraste: <u>salvación</u> para ustedes.
 
-==pueden==
-```
+##### El mismo hecho produce dos resultados distintos.
 
-Conectores (Paso 4):
-```
-(porque)
-[pero]
-```
+##### El texto mantiene ambos lados en una misma línea.
 
-Paso 5:
-```
-==di== a beber leche
+##### Y también sirve de señal de que somos salvos (sustantivo Genitivo), pero no señal para nosotros, sino señal para los adversarios.
 
-(porque) ==podían== recibirlo
+##### Esta pasaje no esta enseñando que debes demostrar tu salvación (No es un verbo).
 
-[pero] ==pueden==
-```
+##### Sino que al no estar atemorizado por los adversarios Dios demuestra y hace una clara señal de que ellos serán destruidos y nosotros salvados, es una señal para los adversarios, viendo la revelación general de Dios, ya que Dios siendo fiel hace notorio la causa del evangelio de Cristo. Hechos 4:3-4, 26:26-31
 
-Prueba:
-```
-(porque) + ==podían== recibirlo → ¿hay A?
-✔ Sí → ==di== a beber leche
+#### y esto, de Dios. 
+##### Se afirma el origen: <u>Dios</u>.
 
-[pero] + ==pueden== → ¿hay A?
-✔ Sí → ==podían== recibirlo
-```
+##### El texto atribuye esta realidad a Él.
 
-Resultado:
-```
-==di== a beber leche
+##### Dios es quien lo usa para sus propósitos, de dar por señal la condición perdida del hombre y el medio por el cual Dios trae salvación.
 
-(porque) ==podían== recibirlo
+### Filipenses 1:29
+Porque a ustedes se les ha concedido por amor de Cristo, no solo creer en Él, sino también sufrir por Él,
 
-[pero] ==pueden==
-```
+##### Este pasaje no esta enseñando que Dios concede la gracia de creer en el evangelio.
 
-## EJEMPLO CLAVE (SIN B REAL)
+##### No esta hablando de una gracia soberana que lleva a las personas a creer en Él.
 
-Texto NBLA:
-```
-porque la justicia viene por medio de la ley
-```
+##### Para entender ese pasaje y no alejarnos de su significado debemos volver un poco a los orígenes de la iglesia.
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+##### Para entender \scripture{que a ellos les fue concedido por amor de Cristo el creer en Él,} debemos apoyarnos en la escritura.
 
-👉 No hay verbo finito griego  
-👉 No hay cláusula en Paso 3  
+##### A inicios del libro de hechos podemos ver que no existía gentiles formando la iglesia. Hechos 2:22, 36, 39
 
-Resultado:
-```
-❌ (porque) → no se inserta (no hay B)
-```
+##### Y es en Hechos 12:17-18 donde muestra claramente que Dios a concedido también a los gentiles alcanzar salvación. 
 
-👉 No hay B → no se busca A → no entra en la estructura  
+##### Filipos es un iglesia conformada por creyentes gentiles.
 
-## REGLA OPERATIVA
+#### Porque a ustedes se les ha concedido por amor de Cristo,
 
-###### ❗ El conector siempre entra por la cláusula B
+##### Se introduce una acción dada: se les ha <u>concedido</u>.
 
-👉 Nunca se coloca en A  
-👉 Nunca queda suelto  
-👉 Nunca se evalúa sin B  
+##### El texto presenta esto como algo recibido, no originado en ellos.
 
-## CASOS DIFÍCILES
+##### A través de la fe en el evangelio todo creyente se beneficio de la gracia de Dios. Romanos 3:24
 
-##### Cuando el conector no está cerca
+#### no solo creer en Él,
+##### Se menciona una primera parte: <u>creer</u>.
 
-👉 No importa la distancia  
-👉 No importa la puntuación  
+##### El creer aparece como parte de lo que ha sido concedido.
 
-###### Pregunta única:
-👉 ¿Qué cláusula del Paso 3 es B?
+##### Entonces la iglesia de Filipos esta incluido en esta gracia que ha sido dada para todo el mundo.
 
-Luego:
-👉 conector + B → ¿hay A?
+#### sino también sufrir por Él,
+##### Se añade una segunda parte: <u>sufrir</u>.
 
-##### Cuando no es claro
+##### El texto une ambas cosas dentro de la misma línea.
 
-👉 Igual haces la prueba  
+##### No las presenta como separadas, sino como parte de una misma realidad.
 
-❗ No decides por sentido  
-❗ No completas mentalmente  
+##### Esta gracia no solo se quedo en que ellos sean salvos y termine ahí.
 
-## IMPORTANTE
+##### Sino que Dios los incluyo en sus planes con un privilegio de sufrir por causa de Cristo. Mateo 5:10-12
 
-###### ❗ Este paso filtra los conectores reales
+##### Este privilegio de creer en Cristo no solo es para judios, 
 
-👉 Solo permanecen los que unen A–B  
-👉 Los demás se eliminan  
+##### Así también tener el privilegio de sufrir por Cristo no solo es para los judíos.
 
-## ENTIENDE
+### Filipenses 1:30
+teniendo el mismo conflicto que vieron en mí, y que ahora oyen que está en mí.
 
-##### Qué estás haciendo realmente
-###### Estás conectando cláusulas reales y eliminando relaciones falsas.
+#### teniendo el mismo conflicto que vieron en mí,
+##### Se menciona un <u>conflicto</u>.
 
-##### PRINCIPIO CLAVE
-###### Un conector solo entra en la estructura si une B con una A real.
+##### Este conflicto ya lo habían visto en Pablo.
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+##### El texto conecta su experiencia con la de ellos.
 
-###### Preguntas:
-👉 “¿Conector + B encuentra A?”
+##### Es por eso que Pablo siendo judío, les muestra que ellos mismo tienen el mismo conflicto que vieron en él cuando los azotaron por ser judíos. Hechos 16:20
 
-##### ERROR COMÚN
+#### y que ahora oyen que está en mí.
+##### El conflicto continúa en el <u>presente</u>.
 
-- No partir de las cláusulas del Paso 3  
-- Asignar conectores sin B  
-- No hacer la prueba A–B  
-- Conservar conectores por intuición  
+##### No es algo pasado solamente, sino actual.
 
-👉 ❌ Incorrecto
+##### Lo que antes vieron, ahora lo oyen.
 
-##### CORRECTO
+##### Al oír ellos porque causa estaba preso, Pablo quiere mostrar que no hay privilegio mayor por ser judío o por ser gentil, sino que a ellos también se les concedió el mismo privilegio de sufrir por amor a Cristo.
 
-- Partes de las cláusulas  
-- Insertas conectores en B  
-- Pruebas A–B  
-- Conservas o eliminas  
+# CLAVE DEL PASAJE
 
-## FRASE CLAVE
-> “Inserto el conector en B, y pregunto: ¿hay A?”
+##### El llamado no aparece como algo <u>aislado</u>, sino completamente conectado con el desarrollo de la carta. No introduce una instrucción desconectada, sino que se sostiene sobre lo que ya ha sido establecido desde el inicio.
 
-## QUÉ DEBES NOTAR
+##### Todo este llamado se encuentra ligado al <u>evangelio</u> (Filipenses 1:5), que ha sido la base de su participación desde el principio. También se conecta con la <u>obra de Dios</u> (Filipenses 1:6), que es presentada como activa y continua en ellos.
 
-###### Cuando haces bien este paso:
+##### A su vez, este desarrollo no ignora las <u>circunstancias</u> (Filipenses 1:12), sino que las incluye dentro del mismo flujo, mostrando cómo estas contribuyen al avance del evangelio. Finalmente, se mantiene coherente con la <u>perspectiva de Pablo</u> (Filipenses 1:21), que interpreta tanto la vida como la muerte dentro de esa misma línea.
 
-- solo quedan relaciones reales  
-- desaparecen conexiones falsas  
-- el texto queda listo para estructura  
+##### De esta manera, el llamado permanece integrado dentro de una sola secuencia continua, sin separarse del resto del mensaje de la carta.
 
-## TRANSICIÓN
+## Filipenses 2:1–4 Exhorta a la unidad y humildad
 
-###### En el siguiente paso:
+### Filipenses 2:1
+Por tanto, si hay algún estímulo en Cristo, si hay algún consuelo de amor, si hay alguna comunión del Espíritu, si algún afecto y compasión,
 
-- 👉 usarás las conexiones A–B confirmadas  
-- 👉 organizarás las cláusulas  
-- 👉 verás la estructura del texto  
+#### Por tanto, 
+##### Pablo conecta con lo anterior mediante una <u>conexión</u>.
 
-###### Aquí conectas  
-###### 👉 luego estructuras
+##### No introduce una idea nueva independiente, sino que continúa el mismo flujo (1:27–30).
 
-# PASO 6 — MOSTRAR LA ESTRUCTURA
+##### Lo que sigue se apoya en lo que ya han visto y entendido.
 
-## EJECUTA
+##### Ahora que saben lo que Pablo quería que sepan.
 
-##### ¿Qué haces?
-###### Organizas las cláusulas según las relaciones A–B confirmadas en el Paso 5.
+##### Y que ahora no ignoran porque causa se encuentra en cadenas.
 
-##### REGLA CLAVE
+##### Entonces al comprender que se tiene el mismo privilegio y honor de sufrir por Cristo.
 
-###### ❗ Solo trabajas con conexiones ya confirmadas
+##### Pablo mostrará lo que tienen ellos para dar (si, de primera condición).
 
-👉 No pruebas relaciones  
-👉 No vuelves a buscar A  
-👉 No eliminas conectores  
+##### En griego, cuando se utiliza EI \scripture{si} con un sustantivo o un adjetivo, se suele asumir que la condición es real o probable, a menos que haya algún indicio en contrario.
 
-👉 Todo eso ya ocurrió en el Paso 5  
+#### si hay algún estímulo en Cristo,
+##### Pablo introduce una condición con “si”, apelando a algo que está presente en <u>Cristo</u>.
 
-##### REGLA FUNDAMENTAL
+##### El texto no lo desarrolla aquí, pero lo presenta como base para lo que sigue.
 
-###### ❗ No explicas la relación
+##### Esto puede traducirse como: Claro que tienen algún estímulo en Cristo, sin lugar a dudas.
 
-👉 No nombras funciones  
-👉 No interpretas  
-👉 No reescribes el texto  
+##### Estimulo, consolación o animar, es lo que les ha sido dado, para compartirlo.
 
-👉 Solo haces visible la estructura  
+##### \scripture{Cristo les ha dado el poder de animar,} biblia Dios habla hoy (DHH-D).
 
-## CÓMO HACERLO
+#### si hay algún consuelo de amor,
+##### Se añade otro elemento: <u>consuelo</u>.
 
-1. Toma las cláusulas del Paso 5
+##### Este consuelo está ligado al amor.
 
-2. Usa las relaciones ya resueltas:
-👉 (conector + B) → A
+##### El texto acumula elementos, no los separa.
 
-3. Organiza así:
-- Coloca A en la línea principal  
-- Coloca B debajo de A  
-- Indenta B  
-- Mantén el conector en B  
+##### Consuelo, Descanso y alivio de la pena, molestia o fatiga que aflige y oprime el ánimo. 
 
-## FORMATO
+##### De igual manera podría traducirse: Claro que hay algún consuelo de amor para todo creyente y pueden ofrecerlo.
 
-```
-A
+#### si hay alguna comunión del Espíritu,
+##### Se menciona la <u>comunión</u> del Espíritu.
 
-(conector) B
-```
+##### Esto mantiene la línea de relación compartida.
 
-## EJEMPLO
+##### De igual manera es de primera condición: Claro que hay alguna comunión del Espíritu, para todo creyente.
 
-Paso 5:
+#### si algún afecto y compasión,
+##### Se añaden <u>afecto</u> y compasión.
 
-```
-==di== a beber leche
+##### El texto agrupa estos elementos como parte de una misma base.
 
-(porque) ==podían== recibirlo
+##### No los explica en detalle, sino que los presenta como realidad sobre la cual se construye lo siguiente.
 
-[pero] ==pueden==
+##### De igual manera es de primera condición: Claro que hay algún afecto y compasión para todo creyente.
 
+##### Afecto y Compasión, en el sentido de actuar, en el beneficio de otro.
 
-Paso 6:
+##### \scripture{si tienen un corazón compasivo} biblia Dios habla hoy (DHH-D).
 
+## Filipenses 2:2–4 Exhorta a una unidad visible en actitud y acción 
 
-==di== a beber leche
-(porque) ==podían== recibirlo
-[pero] ==pueden==
-```
+### Filipenses 2:2
+hagan completo mi gozo, siendo del mismo sentir, conservando el mismo amor, unidos en espíritu, dedicados a un mismo propósito.
 
-## REGLA OPERATIVA
+#### hagan completo mi gozo,
+##### Pablo introduce un <u>mandato</u>: “hagan completo”. El gozo ya ha sido mencionado anteriormente (Filipenses 1:4; 1:18), pero ahora pide que sea llevado a su plenitud. No se trata de un nuevo gozo, sino del mismo que ya existe, llevado a su expresión completa dentro del desarrollo del pasaje.
 
-###### ❗ La cláusula B siempre se coloca debajo de su A
-👉 Porque depende de ella  
-👉 Por eso se indenta  
+#### siendo del mismo sentir, conservando el mismo amor, unidos en espíritu, dedicados a un mismo propósito.
+##### Se describe la <u>forma</u> en que ese mandato se expresa. El texto no presenta acciones aisladas, sino una unidad interna que se manifiesta en varios elementos paralelos: “mismo sentir”, “mismo amor”, “unidos en espíritu” y “un mismo propósito”. Todos estos no son independientes, sino que forman una sola línea continua de unidad compartida, sin introducir múltiples direcciones.
 
-###### ❗ Cada cláusula aparece una sola vez
-👉 Si una cláusula es A de otra relación,
-👉 se usa en su misma posición (no se repite)
+### Filipenses 2:3
+No hagan nada por egoísmo o por vanagloria, sino que con actitud humilde cada uno de ustedes considere al otro como más importante que a sí mismo,
 
-## IMPORTANTE
+#### No hagan nada por egoísmo o por vanagloria,
+##### Se introduce una <u>negación</u> que apunta a la motivación. “Nada” amplía el alcance a toda acción, mientras que “egoísmo” y “vanagloria” definen aquello que debe excluirse. El texto no describe ejemplos aquí, pero sí establece claramente el criterio interno que debe evitarse.
 
-###### ❗ No reorganizas por intuición
+#### sino que con actitud humilde cada uno de ustedes considere al otro como más importante que a sí mismo,
+##### Se presenta el <u>contraste</u>. “Sino” conecta directamente con lo anterior, introduciendo la actitud correcta: humildad. Esta actitud no se define de forma abstracta, sino que se desarrolla en una acción concreta: considerar al otro como más importante que uno mismo. Así, el texto mantiene la misma línea: motivación → actitud → acción.
 
-👉 Solo reflejas las conexiones ya confirmadas  
+### Filipenses 2:4
+no buscando cada uno sus propios intereses, sino más bien los intereses de los demás.
 
-###### ❗ No agregas información
+#### no buscando cada uno sus propios intereses,
+##### Se introduce otra <u>negación</u> que continúa la línea anterior. El enfoque sigue en la intención: no centrarse en lo propio. El texto no limita el alcance, sino que mantiene la misma dirección interna iniciada en el versículo anterior.
 
-👉 No añades palabras  
-👉 No completas ideas  
-👉 No corriges el texto  
+#### sino más bien los intereses de los demás.
+##### Se presenta el <u>contraste</u>. El enfoque se desplaza completamente hacia los demás, completando la línea iniciada en 2:3. No se introduce una nueva idea, sino que se profundiza la misma: una actitud que se expresa en acciones orientadas hacia otros.
 
-## ENTIENDE
+# CLAVE DEL PASAJE
 
-##### Qué estás haciendo realmente
-###### Estás mostrando la \textbf{estructura real del texto}.
+##### El texto no funciona como una lista aislada, sino como un <u>desarrollo continuo</u>:
 
-##### PRINCIPIO CLAVE
-###### La estructura no se crea  
-###### 👉 se revela al ordenar A–B  
+- \textbf{unidad → actitud → acción}
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+##### Cada elemento se conecta directamente con el anterior, manteniendo coherencia con el flujo de la carta sin introducir un nuevo tema.
 
-###### Muestras:
-👉 “¿Qué depende de qué?”
+## Filipenses 2:5-11 Tengan la misma manera de pensar que tuvo Cristo Jesús
 
-##### ERROR COMÚN
+##### Este ejemplo no cambia el tema, sino que desarrolla lo que acaba de pedir (2:1–4).
 
-- Volver a probar conexiones  
-- Buscar nuevas relaciones  
-- Explicar la relación  
-- Reescribir el texto  
-- Cambiar el orden  
+##### El enfoque no es solo una acción externa, sino una manera de pensar que produce esa acción.
 
-👉 ❌ Incorrecto
+##### El propósito de estos pasajes es ilustrar los anteriores versículos enseñados, con un ejemplo real y que es perfecto.
 
-##### CORRECTO
+##### Filipenses 2:6-11 Es una poesía que puede ser cantada o recitada; probablemente Pablo y Silas cantaban este himno (una posibilidad que la biblia no enseña) cuando estaban en la cárcel de Filipos. Hechos 16:25
 
-- Tomas las conexiones del Paso 5  
-- Colocas B debajo de A  
-- Indentas  
-- Mantienes el conector  
+##### Es importante notar que al estudiar estos pasajes se concluye rápidamente con el imperativo, tengan humildad porque Cristo fue humilde.
 
-## FRASE CLAVE
-> “No construyo la estructura.  
-> La muestro.”
+##### Es verdad que en los siguientes pasajes vemos la humildad de Cristo, como un ejemplo ilustrativo para cada creyente, y es lo que Pablo esperaba oír de los creyentes, pero no debemos confundir el imperativo.
 
-## QUÉ DEBES NOTAR
+##### Por lo que en estos pasajes existe un imperativo que tiene el objetivo de llegar mas lejos de una humildad exterior; sino mas bien la actitud interna, dependencia del Padre con la misma mente de Cristo. 1 Corintios 2:16
 
-###### Cuando lo haces bien:
+## Filipenses 2:5–11 Presenta la actitud de Cristo
 
-- las dependencias se ven claramente  
-- el texto se organiza sin esfuerzo  
-- la jerarquía aparece  
+### Filipenses 2:5
+Haya, pues, en ustedes esta actitud que hubo también en Cristo Jesús,
 
-## TRANSICIÓN
+#### Haya, pues, en ustedes esta actitud
+##### Pablo da un mandato relacionado con la <u>actitud</u>.
 
-###### En el siguiente paso:
+##### Esta actitud está ligada a una manera de pensar.
 
-- 👉 trabajarás dentro de cada cláusula  
-- 👉 reducirás su contenido  
-- 👉 prepararás el texto para identificar el tronco  
+##### El texto no comienza con acciones externas, sino con lo interno.
 
-###### Aquí haces visible la estructura  
-###### 👉 luego trabajas dentro de ella
+##### Esta actitud FRONEO \scripture{pensar} es un verbo presente, imperativo, voz activa; que significa tener una manera de pensar. Romanos 8:5
 
-# PASO 7 — REDUCIR A LA CLÁUSULA BASE
+##### Este imperativo esta dirigido a una forma de pensar que resulta en una actitud.
 
-## EJECUTA
+##### No en el sentido contrario, actuar y luego pensar.
 
-##### ¿Qué haces?
-###### Reduces cada cláusula a su forma base,
-###### conservando la acción completa del verbo dentro de la estructura mostrada en el Paso 6.
+##### Todo creyente puede tener la misma manera de pensar que tuvo Cristo, por eso el imperativo esta dirigido como algo que si es posible, y no como algo que el creyente tiene que alcanzar.
 
-##### REGLA CLAVE
-###### Reduces el contenido de cada cláusula,
-###### pero no alteras la estructura.
+#### que hubo también en Cristo Jesús,
+##### La referencia es <u>Cristo</u>.
 
-👉 No eliminas cláusulas  
-👉 No eliminas conectores  
-👉 No cambias la relación visual del Paso 6  
+##### No introduce un modelo externo distante, sino uno que ya ha mencionado en la carta.
 
-##### REGLA
-###### Mantienes en cada cláusula:
+##### El enfoque es que la misma actitud vista en Él esté en ellos.
 
-- el verbo finito
-- el sujeto (si es necesario)
-- los elementos que completan la acción del verbo
+##### El Señor Jesucristo tenia una actitud basado en su modo de pensar.
 
-###### ❗ No reduces mecánicamente a sujeto–verbo–objeto
+##### Hebreos 12:2b \scripture{...quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios.}
 
-###### Conservas todo lo necesario para que la acción quede completa.
-###### Eliminas solo lo que no afecta directamente esa acción.
+- Quien no obro en ningún caso por egoísmo o por vanagloria.
+- Considero a los demás como más importantes que el.
+- No busco sus propios beneficios, sino el de los demás.
+- Y todo lo hizo en humildad. 
 
-##### ACLARACIÓN IMPORTANTE
-###### La reducción ocurre dentro de cada cláusula,
-###### no entre cláusulas.
+##### Alguno dirá:
 
-👉 No estás tocando la estructura  
-👉 Solo estás limpiando cada línea  
+- Para nosotros es imposible, es verdad, pero Dios lo hizo posible en cada creyente. Lucas 18:27; Filipenses 1:21; Gálatas 2:20
+- Pero Él es Dios, nosotros no, y es verdad. Pero...
 
-## CÓMO HACERLO
+### Filipenses 2:6
+el cual, aunque existía en forma de Dios, no consideró el ser igual a Dios como algo a qué aferrarse, 
 
-1. Toma el texto estructurado del Paso 6
+#### el cual, aunque existía en forma de Dios,
+##### Se describe la <u>condición</u> de Cristo. El texto afirma que “existía en forma de Dios”, presentando esta realidad como parte del desarrollo, no como una idea aislada. “Aunque” introduce una relación con lo que sigue, manteniendo continuidad en la línea del pasaje.
 
-2. Lee una cláusula
+##### Esta afirmación no se desarrolla en detalle aquí, pero establece el punto de partida: su condición. El énfasis no está en explicar cómo, sino en afirmar lo que es, como base para lo que viene.
 
-3. Identifica su verbo finito
+#### no consideró el ser igual a Dios como algo a qué aferrarse,
+##### Se presenta una <u>decisión</u>. El texto no niega la condición anterior, sino que muestra cómo actúa en relación con ella. “No consideró… aferrarse” indica que no usa esa condición para su propio beneficio.
 
-4. Conserva:
-- quién hace la acción, si es necesario
-- qué acción ocurre
-- qué completa esa acción
+##### La línea se mantiene clara: condición → decisión. No se introduce un cambio de tema, sino una relación directa entre lo que es y cómo actúa.
 
-5. Elimina dentro de la cláusula:
-- elementos secundarios
-- detalles que no cambian la acción
-- expansiones que no son necesarias para que la acción quede completa
+### Filipenses 2:7
+sino que se despojó a Sí mismo tomando forma de siervo, haciéndose semejante a los hombres. 
 
-6. Repite con cada cláusula
+#### sino que se despojó a Sí mismo
+##### Se introduce una <u>acción</u> en contraste con el versículo anterior. “Sino” marca la transición: en lugar de aferrarse, actúa. “Se despojó” no se explica en términos abstractos aquí, sino por lo que sigue en el mismo versículo.
 
-##### RESULTADO ESPERADO
+##### El texto mantiene la misma línea: decisión → acción. No cambia el enfoque, sino que lo desarrolla.
 
-###### Antes (Paso 6):
+#### tomando forma de siervo, haciéndose semejante a los hombres.
+##### Se describen dos <u>aspectos</u> que explican la acción anterior: “forma de siervo” y “semejante a los hombres”. Ambos no son ideas separadas, sino parte del mismo movimiento.
 
-```text
-no ==pude== hablarles como a espirituales
+##### El texto muestra un cambio visible en condición, sin desarrollar todos los detalles. La línea sigue siendo continua: acción → descripción de esa acción.
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+### Filipenses 2:8
+Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz. 
 
-[pero] ni aun ahora ==pueden==
-```
+#### Y hallándose en forma de hombre, se humilló Él mismo,
+##### Se introduce otra <u>acción</u> dentro de la condición ya descrita. “Hallándose en forma de hombre” conecta con el versículo anterior y mantiene continuidad. “Se humilló” muestra una acción propia, no impuesta.
 
-###### Después (Paso 7):
+##### El desarrollo continúa sin interrupción: condición → acción. No hay cambio de tema, sino progresión.
 
-```text
-no ==pude== hablarles
+#### haciéndose obediente hasta la muerte, y muerte de cruz.
+##### Se describe el <u>alcance</u> de esa acción. “Obediente hasta la muerte” muestra el límite, y “muerte de cruz” añade énfasis sin cambiar la línea.
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+##### La progresión es clara y continua: humillación → obediencia → muerte. Todo permanece dentro del mismo desarrollo sin introducir un nuevo enfoque.
 
-[pero] ==pueden==
-```
+# CLAVE DEL PASAJE
 
-## ENTIENDE
+##### El texto mantiene una sola <u>línea continua</u>:
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible el núcleo verbal de cada cláusula,
-###### sin tocar la estructura que ya fue mostrada.
+- \textbf{condición → decisión → acción → resultado}
 
-##### PRINCIPIO CLAVE
-###### Cada cláusula tiene una base.
-###### Esa base conserva la acción completa del verbo.
+##### Cada elemento no está aislado, sino conectado directamente con el anterior, desarrollando una secuencia coherente sin cambio de tema.
 
-##### IDEA CLAVE
-###### No reduces la estructura.
-###### Reduces el contenido de cada cláusula.
+### Filipenses 2:9
+Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre. 
 
-##### ACLARACIÓN
-###### Este paso no decide qué cláusulas permanecen y cuáles no.
+#### Por lo cual Dios
+##### Se introduce la <u>respuesta</u> de Dios. “Por lo cual” conecta directamente con lo anterior, mostrando continuidad en el desarrollo. El texto no presenta una acción aislada, sino una consecuencia dentro de la misma línea.
 
-👉 Todas permanecen  
-👉 Solo quedan más limpias  
+#### también lo exaltó hasta lo sumo,
+##### Se presenta la <u>acción</u>: exaltación. “También” mantiene la conexión, y “lo exaltó hasta lo sumo” describe una acción completa, sin detallar aquí el proceso. El énfasis está en que la acción proviene de Dios, manteniendo el mismo agente dentro del pasaje.
 
-##### EJEMPLO CLAVE
+#### y le confirió el nombre que es sobre todo nombre,
+##### Se añade otro <u>resultado</u>. “Le confirió” indica una acción otorgada, y “el nombre… sobre todo nombre” introduce una superioridad sin desarrollarla en detalle. El texto mantiene la misma línea: acción de Dios → resultado otorgado, sin cambiar el enfoque.
 
-```text
-==di== a beber leche
-```
+### Filipenses 2:10
+para que al nombre de Jesús se doble toda rodilla de los que están en el cielo, y en la tierra, y debajo de la tierra,
 
-- ==di== → verbo finito
-- “a beber leche” → completa la acción
+#### para que al nombre de Jesús se doble toda rodilla
+##### Se introduce el <u>propósito</u>. “Para que” conecta con la exaltación anterior, mostrando su finalidad. “Se doble toda rodilla” indica una respuesta universal, sin limitar el alcance.
 
-👉 No se reduce a:
-```text
-==di==
-```
+#### de los que están en el cielo,
+##### Se añade un <u>ámbito</u>. El texto incluye a los que están en el cielo, ampliando el alcance sin cambiar la línea.
 
-👉 Porque la acción quedaría incompleta
+#### y en la tierra,
+##### Se añade otro <u>ámbito</u>. La progresión continúa, mostrando que la respuesta no se limita a un solo grupo.
 
-##### ERROR COMÚN
+#### y debajo de la tierra,
+##### Se completa el <u>alcance</u>. El texto presenta una totalidad: cielo, tierra y debajo de la tierra. Así, la secuencia mantiene coherencia: acción → propósito → alcance total.
 
-- Reducir demasiado
-- quitar partes que completan la acción
-- eliminar conectores
-- alterar la indentación o la relación visual del Paso 6
+### Filipenses 2:11
+y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre.
 
-👉 ❌ Incorrecto
+#### y toda lengua confiese que Jesucristo es Señor,
+##### Se añade otra <u>respuesta</u>. “Toda lengua” amplía la universalidad, y “confiese” indica una declaración. El contenido es claro: “Jesucristo es Señor”, sin añadir otro elemento.
 
-##### CORRECTO
+#### para gloria de Dios Padre.
+##### Se presenta el <u>propósito final</u>. Todo lo anterior se dirige hacia “la gloria de Dios Padre”. El texto cierra la idea manteniendo el mismo enfoque: acción → propósito → resultado → finalidad.
 
-- conservar la acción completa
-- mantener todas las cláusulas
-- mantener los conectores
-- mantener la estructura
+# CLAVE DEL PASAJE
 
-## FRASE CLAVE
-> “Reduzco cada cláusula, pero no toco la estructura.”
+##### El desarrollo mantiene una sola <u>línea</u> continua:
 
-## QUÉ DEBES NOTAR
+- \textbf{actitud → acción → resultado → propósito}
 
-###### Cuando reduces bien:
+##### No se presenta como elementos separados, sino como una secuencia coherente que conecta directamente con lo anterior (Filipenses 2:1–4), sin introducir un nuevo tema.
 
-- cada línea se vuelve más clara
-- la acción queda visible
-- la estructura sigue intacta
+## Filipenses 2:12–18 Exhorta a ocuparse en la salvación con el obrar de Dios 
 
-##### REGLA DE CONTROL
-###### Si una acción queda incompleta, redujiste mal.
-###### Si desaparece una cláusula, redujiste mal.
-###### Si cambias la estructura, redujiste mal.
+##### Pablo continúa con un <u>imperativo</u> que no es independiente, sino que se basa directamente en lo anterior (Filipenses 2:5–11). El enfoque sigue conectado con el ejemplo de Cristo, manteniendo la misma línea del pasaje. No introduce una idea distinta, sino que aplica lo ya mostrado a la vida de los creyentes.
 
-## TRANSICIÓN
+### Filipenses 2:12
+Así que, amados míos, tal como siempre han obedecido, no solo en mi presencia, sino ahora mucho más en mi ausencia, ocúpense en su salvación con temor y temblor.
 
-###### En el siguiente paso:
+#### Así que, amados míos,
+##### Se introduce una <u>conexión</u> directa con lo anterior. “Así que” no cambia el tema, sino que aplica lo ya desarrollado, y “amados” mantiene un tono relacional. El texto no presenta una instrucción aislada, sino una conclusión dentro del mismo flujo.
 
-- 👉 trabajarás con esta versión reducida
-- 👉 identificarás la línea principal del desarrollo
-- 👉 comenzarás a ver el tronco del texto 
+#### tal como siempre han obedecido,
+##### Se reconoce una <u>obediencia</u> continua. El texto no introduce algo nuevo, sino que parte de lo que ya ha sido evidente en ellos. Esta obediencia funciona como base para lo que sigue, manteniendo coherencia dentro del desarrollo.
 
-# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
+#### no solo en mi presencia, sino ahora mucho más en mi ausencia,
+##### Se amplía el <u>contexto</u>. La obediencia no depende de la presencia de Pablo, sino que continúa aun en su ausencia. El énfasis está en la continuidad, no en la dependencia de una persona.
 
-## EJECUTA
+#### ocúpense en su salvación
+##### Se introduce el <u>mandato</u>. “Ocúpense” llama a una acción activa, y “en su salvación” delimita el ámbito. El texto no describe aquí todos los detalles, pero sí establece claramente que la acción recae en ellos dentro de esa misma línea.
 
-##### ¿Qué haces?
-###### Identificas el tronco del texto eliminando únicamente las cláusulas que dependen estructuralmente de otras.
+#### con temor y temblor.
+##### Se define la <u>manera</u>. El texto no describe miedo a circunstancias externas, sino una actitud que acompaña la acción. Así, la secuencia se mantiene clara: conexión → base → contexto → mandato → manera.
 
-###### Mantienes las cláusulas que no dependen de ninguna otra.
+### Filipenses 2:13
+Porque Dios es quien obra en ustedes tanto el querer como el hacer, para Su buena intención.
 
-# REGLA CLAVE
+#### Porque Dios es quien obra en ustedes
+##### Se introduce la <u>razón</u>. “Porque” conecta directamente con el mandato anterior, mostrando que no están separados. “Dios es quien obra” indica una acción activa, y “en ustedes” señala que ocurre internamente. No se presenta como algo externo únicamente, sino como parte del mismo desarrollo.
 
-###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
+#### tanto el querer como el hacer,
+##### Se describen dos <u>aspectos</u> de esa acción. “El querer” y “el hacer” aparecen juntos, sin separación. El texto no los presenta como procesos independientes, sino como parte de una misma operación dentro del creyente.
 
-👉 No decides por sentido
-👉 No decides por importancia
-👉 No decides por “parece secundario”
+#### para Su buena intención.
+##### Se define el <u>propósito</u>. La acción de Dios tiene una dirección: “Su buena intención”. El texto no introduce otra finalidad, sino que mantiene el mismo agente y enfoque, cerrando la idea dentro de una sola línea: mandato → razón → acción → propósito.
 
-👉 Decides solo por lo que el conector griego muestra
+## Filipenses 2:14–18 (resumido)
 
-# REGLA CRÍTICA
+##### A partir de esta base, el texto continúa desarrollando la misma línea: mandato (v14), resultado (v15), acción continua (v16) y respuesta de gozo (v17–18). No introduce un nuevo tema, sino que mantiene una secuencia coherente donde cada elemento se conecta con el anterior.
 
-###### ❗ Una cláusula se elimina solo si:
-- está introducida por un conector subordinante en el griego
-- está estructuralmente debajo de otra cláusula (Paso 6)
+- mandato → acción → resultado → gozo
+- acción del creyente → obrar de Dios → manifestación visible
 
-###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
+##### Todo permanece dentro del mismo desarrollo sin separarse en ideas independientes, manteniendo coherencia con lo que Pablo ha venido estableciendo desde el inicio.
 
-# DEFINICIÓN OPERATIVA
+## Pregunta sincera 
 
-###### Una cláusula dependiente es aquella que:
-- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
-- fue colocada debajo de otra cláusula en el Paso 6
+##### A partir de lo que la carta afirma, surge una <u>pregunta</u> natural. El texto presenta a creyentes como “santos en Cristo Jesús” (Filipenses 1:1), afirma que Dios perfecciona la obra en ellos (Filipenses 1:6), y declara que les ha sido concedido creer (Filipenses 1:29). Estas afirmaciones establecen una realidad clara dentro del desarrollo. Al mismo tiempo, la carta incluye llamados directos a actuar: \scripture{compórtense dignamente} (Filipenses 1:27), \scripture{tengan esta actitud} (Filipenses 2:5), \scripture{hagan todo sin murmuraciones} (Filipenses 2:14), \scripture{prosigo hacia la meta} (Filipenses 3:14), \scripture{practiquen esto} (Filipenses 4:9). Ambas líneas aparecen juntas, sin que una elimine a la otra.
 
-👉 Esa es la única base para eliminar
+##### En ese mismo flujo, Filipenses 2:12 introduce un <u>mandato</u> claro: \scripture{ocúpense en su salvación con temor y temblor}. El texto no cambia de audiencia ni introduce otro grupo; continúa dirigiéndose a los mismos creyentes. Inmediatamente después, añade: \scripture{porque Dios es quien obra en ustedes tanto el querer como el hacer} (Filipenses 2:13). Ambos versículos permanecen unidos, mostrando en una sola línea la acción del creyente y la acción de Dios, sin separarlas ni presentarlas como opuestas.
 
-# CÓMO HACERLO
+##### A lo largo de la carta, el lenguaje describe un <u>andar</u> continuo. Pablo habla de su propio avance: \scripture{sigo adelante} (Filipenses 3:12), \scripture{prosigo hacia la meta} (Filipenses 3:14), y luego incluye a los creyentes: \scripture{continuemos viviendo según la misma norma} (Filipenses 3:16). El desarrollo no se presenta como algo terminado, sino como un movimiento que continúa.
 
-1. Toma el texto reducido y estructurado (Paso 7)
+##### Todo este flujo permanece centrado en <u>Cristo</u>. Expresiones como \scripture{en Cristo Jesús} (Filipenses 1:1; 4:23), \scripture{para mí el vivir es Cristo} (Filipenses 1:21), \scripture{ganar a Cristo} (Filipenses 3:8) y \scripture{ser hallado en Él} (Filipenses 3:9) mantienen un mismo punto de referencia. El texto no introduce otro centro; todo lo que afirma y exhorta se desarrolla dentro de esa misma línea.
 
-2. Revisa cada cláusula
+### Filipenses 2:14
+Hagan todas las cosas sin murmuraciones ni discusiones,
 
-3. Identifica:
-👉 ¿Está esta cláusula debajo de otra?
- 👉 ¿Tiene un conector subordinante en el griego?
+#### Hagan todas las cosas
+##### Se introduce un <u>mandato</u> amplio. “Hagan” establece la acción, y “todas las cosas” define un alcance total, sin limitar el tipo de actividad. El texto no distingue entre acciones grandes o pequeñas, sino que mantiene un mismo criterio para todo.
 
-4. Decide:
-- ✔ Sí → elimínala
-- ❌ No → mantenla
+#### sin murmuraciones ni discusiones,
+##### Se añaden elementos a <u>evitar</u>. “Murmuraciones” y “discusiones” marcan el contraste con lo que se ha venido desarrollando (Filipenses 2:3). El texto no desarrolla ejemplos aquí, pero sí establece claramente el modo en que deben hacerse todas las cosas.
 
-5. Repite hasta revisar todo el texto
+### Filipenses 2:15
+para que sean irreprensibles y sencillos, hijos de Dios sin tacha en medio de una generación torcida y perversa, en medio de la cual ustedes resplandecen como luminares en el mundo,
 
-# RESULTADO
+#### para que sean irreprensibles y sencillos, hijos de Dios sin tacha
+##### Se presenta un <u>resultado</u>. El texto conecta la acción anterior con una condición: “irreprochables”, “sencillos” y “sin tacha”. Estas características se relacionan con la identidad: “hijos de Dios”, manteniendo la coherencia dentro del desarrollo.
 
-###### Antes (Paso 7):
+#### en medio de una generación torcida y perversa,
+##### Se introduce un <u>contraste</u>. El texto no detalla completamente a esta generación, pero sí marca una diferencia clara. La línea no cambia: se mantiene el contraste entre dos maneras de vivir dentro del mismo contexto.
 
-```
-no ==pude== hablarles
+#### en medio de la cual ustedes resplandecen como luminares en el mundo,
+##### Se describe una <u>función</u>. “Resplandecen” indica algo visible, y “luminares en el mundo” presenta una imagen clara. El texto conecta directamente la acción y la identidad con lo que se manifiesta externamente, sin introducir un nuevo tema.
 
-yo ==di==
-    (porque) no ==podían==
+### Filipenses 2:16
+sosteniendo firmemente la palabra de vida, a fin de que yo tenga motivo para gloriarme en el día de Cristo, ya que no habré corrido en vano ni habré trabajado en vano.
 
-ni aun ahora ==pueden==
-```
+#### sosteniendo firmemente la palabra de vida,
+##### Se describe una <u>acción</u> continua: “sosteniendo”. El objeto es “la palabra de vida”, lo cual mantiene conexión directa con el evangelio mencionado anteriormente. El texto muestra que la manera en que se manifiestan en el mundo no es independiente, sino ligada a esta acción. No introduce otro elemento, sino que permanece en la misma línea: la relación con la palabra de vida.
 
-###### Después (Paso 8):
+#### a fin de que yo tenga motivo para gloriarme en el día de Cristo,
+##### Se presenta un <u>propósito</u>. “A fin de que” conecta la acción anterior con un resultado en Pablo: tener motivo. Este motivo está ligado al “día de Cristo”, manteniendo continuidad con Filipenses 1:6 y 1:10. El texto no cambia de enfoque, sino que proyecta lo anterior hacia ese momento.
 
-```
-no ==pude== hablarles
+#### ya que no habré corrido en vano ni habré trabajado en vano.
+##### Se expresa el <u>resultado</u>. “Corrido” y “trabajado” describen la labor de Pablo, evaluada bajo la idea de “no en vano”. El texto no desarrolla todos los detalles, pero mantiene coherencia: acción → propósito → resultado, dentro de la misma línea sin introducir un nuevo tema.
 
-yo ==di==
+### Filipenses 2:17
+Pero aunque yo sea derramado como libación sobre el sacrificio y servicio de su fe, me regocijo y comparto mi gozo con todos ustedes.
 
-ni aun ahora ==pueden==
-```
+#### Pero aunque yo sea derramado como libación
+##### Se introduce una <u>posibilidad</u>. “Pero” conecta con lo anterior y añade un escenario distinto, y “sea derramado” utiliza lenguaje figurado sin desarrollarlo en detalle. El texto mantiene continuidad con la línea de vida y muerte ya presente en la carta (Filipenses 1:20–21), sin cambiar el enfoque.
 
-# OBSERVACIÓN INTEGRADA
+#### sobre el sacrificio y servicio de su fe,
+##### Se establece una <u>relación</u>. La acción de Pablo se presenta en conexión con “el sacrificio y servicio” de la fe de ellos. No es una acción aislada, sino que se ubica dentro de lo que ocurre en los filipenses, manteniendo la misma línea relacional.
 
-## 1. SUJETO
+#### me regocijo y comparto mi gozo con todos ustedes.
+##### Se afirma un <u>resultado</u>: el gozo. Este gozo es compartido, no individual, y se dirige “con todos ustedes”, manteniendo el énfasis en la relación. El texto no depende de la circunstancia descrita, sino que permanece en la misma línea del pasaje.
 
-###### Mientras identificas el tronco, marcas cambios de sujeto
-- Marca solo cuando el sujeto cambia
-- Debe ser visible en la cláusula
-- No explicas
-- No interpretas
+### Filipenses 2:18
+Y también ustedes, les ruego, regocíjense de la misma manera, y compartan su gozo conmigo.
 
-Formato:
+#### Y también ustedes, les ruego, regocíjense de la misma manera,
+##### Se introduce un <u>mandato</u>. “Y también ustedes” conecta con el versículo anterior, extendiendo la misma respuesta. “Regocíjense” establece la acción, y “de la misma manera” mantiene unidad en la respuesta, sin introducir una línea distinta.
 
-```
-[S: sujeto anterior → sujeto nuevo]
-```
+#### y compartan su gozo conmigo.
+##### Se añade una segunda <u>acción</u>. “Compartan” indica que el gozo no es individual, sino mutuo. El texto cierra la sección manteniendo la misma línea relacional: el gozo circula entre Pablo y ellos, sin cambiar el enfoque.
 
-## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
+# CLAVE DEL PASAJE
 
-##### DEFINICIÓN
-> \textbf{[M] marca un cambio de función estructural observable en la gramática griega.}
+##### El desarrollo se mantiene en una sola <u>línea</u> continua. No se separan los elementos, sino que aparecen juntos dentro del flujo del texto:
 
-# REGLA FUNDAMENTAL DE [M]
+- \textbf{mandato → acción → propósito → resultado → gozo}
 
-###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
+##### No introduce caminos paralelos ni ideas independientes, sino una secuencia coherente donde cada elemento se conecta directamente con el anterior.
 
-👉 No marcas por contenido
-👉 No marcas por sujeto
-👉 No marcas por contraste
-👉 No marcas por “suena diferente”
+## En Síntesis
 
-# CRITERIOS OBJETIVOS PARA [M]
+>- El enfoque pasa de explicación a <u>exhortación</u> directa
+>- Se establece una manera de vivir coherente con el evangelio
+>- La unidad y firmeza aparecen como expresión visible de esa vida
+>- Se presenta el modelo de Cristo dentro del mismo desarrollo
+>- El llamado culmina en una vida que se expresa en obediencia y servicio
 
-## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
+# FILIPENSES 2:19–30 Pablo presenta dos ejemplos de servicio alineado al evangelio
 
-Marca [M] si hay un cambio como:
-- Indicativo → Imperativo
-- Indicativo → Exhortación (prohibición, mandato)
+##### Pablo continúa mostrando ejemplos visibles de <u>servicio</u>. Estos ejemplos no introducen un nuevo tema, sino que desarrollan lo anterior (Filipenses 2:1–18), manteniendo el mismo enfoque: actitud, interés y acción alineados con el evangelio.
 
-Ejemplo:
+##### Este desarrollo se conecta con lo que Pablo ya había expresado en Filipenses 1:25–26, donde manifestó su deseo de estar con ellos. Sin embargo, lo que sigue no se separa de la exhortación central (Filipenses 1:27–2:18), sino que la hace visible mediante personas concretas.
 
-```
-==es== verdad
+##### En este punto se establece un contraste claro: un interés genuino por el bienestar de los hermanos, que corresponde a los intereses de Cristo Jesús (Filipenses 2:21), frente a un interés fingido que busca lo propio (Filipenses 1:17). Así, los ejemplos no solo ilustran, sino que permiten distinguir entre ambos enfoques.
 
-==hagan== esto [M]
-```
+##### La mención de Timoteo cumple ese propósito: mostrar un servicio fiel y probado, en contraste con aquellos que actúan por envidia o contienda (Filipenses 1:15). De esta manera, el texto mantiene coherencia y continuidad dentro de su desarrollo.
 
-## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
+## Filipenses 2:19–24 Presenta a Timoteo
 
-Ejemplo griego:
+### Filipenses 2:19
+Pero espero en el Señor Jesús enviarles pronto a Timoteo, a fin de que yo también sea alentado al saber de la condición de ustedes.
 
-```
-- ὥστε (así que)
-```
+#### Pero espero en el Señor Jesús enviarles pronto a Timoteo,
+##### Pablo expresa una <u>esperanza</u> que no es independiente, sino “en el Señor Jesús”. “Pero” conecta con lo anterior, y “espero” (ELPIZO, presente indicativo activo) indica una expectativa firme dentro del desarrollo, no una posibilidad incierta. La acción es concreta: enviar a Timoteo, manteniendo coherencia con la situación de Pablo y el flujo del pasaje.
 
-Marca [M] solo si:
-- introduce una conclusión independiente
-- cambia de explicación a acción o resolución
+#### a fin de que yo también sea alentado al saber de la condición de ustedes.
+##### Se presenta el <u>propósito</u>: ser alentado. Pablo desea conocer la condición de ellos, lo cual mantiene la línea relacional constante en la carta. No se trata de información neutral, sino de una conexión directa con su gozo, en continuidad con lo ya expresado anteriormente.
 
-## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
+### Filipenses 2:20
+Pues a nadie más tengo del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes.
 
-Marca [M] si puedes señalar:
-- explicación → mandato
-- desarrollo → conclusión
+#### Pues a nadie más tengo del mismo sentir
+##### Pablo destaca un mismo <u>sentir</u>, manteniendo continuidad con lo ya desarrollado (Filipenses 1:7; 2:2). No introduce una idea nueva, sino que reafirma esa línea: una disposición interna que corresponde con lo que ha venido describiendo en la carta.
 
-👉 Este cambio debe ser visible en:
-- el verbo (modo)
-- o el conector griego
+#### y que esté sinceramente interesado en el bienestar de ustedes.
+##### Se añade el <u>interés</u> por ellos. Este interés es presentado como sincero, en contraste con lo que se describirá en el versículo siguiente. El enfoque no está en sí mismo, sino en el bienestar de los filipenses, manteniendo coherencia con el desarrollo del pasaje.
 
-# LO QUE NO PRODUCE [M]
+### Filipenses 2:21
+Porque todos buscan sus propios intereses, no los de Cristo Jesús. 
 
-###### ❗ Nunca marques [M] por:
-- cambio de sujeto
-- contraste (pero / ἀλλά / δέ)
-- nueva ilustración
-- repetición
-- progreso del argumento
+#### Porque todos buscan sus propios intereses,
+##### Se introduce un <u>contraste</u> en el enfoque. “Porque” conecta con lo anterior, explicando la diferencia que Pablo está señalando. “Todos buscan sus propios intereses” describe una tendencia general, donde el énfasis está en lo propio, no en el contenido del mensaje sino en la intención detrás de la acción. Dentro del flujo de la carta, esto se relaciona con lo ya visto: algunos predican a Cristo, pero con motivaciones que no corresponden al mismo desarrollo (Filipenses 1:17).
 
-👉 Todo esto ocurre dentro del mismo movimiento
+#### no los de Cristo Jesús.
+##### Se completa el <u>contraste</u>. El texto no introduce un nuevo tema, sino que establece claramente la diferencia de enfoque: lo propio frente a lo de Cristo. Así, el énfasis permanece en la intención, no en el acto en sí. Dentro de esta misma línea, Timoteo aparece como contraste directo, ya que su interés se alinea con lo que Pablo ha venido desarrollando en la carta.
 
-# PRUEBA MECÁNICA (OBLIGATORIA)
+### Filipenses 2:22
+Pero ustedes conocen los probados méritos de Timoteo, que sirvió conmigo en la propagación del evangelio como un hijo sirve a su padre.
 
-Antes de marcar [M], debes poder responder:
+#### Pero ustedes conocen los probados méritos de Timoteo,
+##### Se introduce una <u>afirmación</u> basada en conocimiento previo. “Pero” marca contraste con el versículo anterior, y “ustedes conocen” indica que no se trata de algo nuevo, sino comprobado. El texto no busca exaltar a Timoteo como figura independiente, sino hacerlo visible dentro del mismo desarrollo del pasaje.
 
-```
-1. ¿El verbo cambia de modo? → sí = posible [M]
+#### que sirvió conmigo en la propagación del evangelio como un hijo sirve a su padre.
+##### Se describe su <u>acción</u> y relación. “Sirvió conmigo” conecta directamente con Pablo, y “en la propagación del evangelio” mantiene el mismo centro del pasaje. La comparación “como un hijo… a su padre” no introduce una categoría distinta, sino que describe la forma de esa relación dentro del mismo marco.
 
-2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
+### Filipenses 2:23
+Por tanto, a este espero enviárselo inmediatamente tan pronto vea cómo van las cosas conmigo;
 
-3. ¿Se puede demostrar cambio en función estructural?
-   → sí = [M]
+#### Por tanto, a este espero enviárselo inmediatamente
+##### Se reafirma una <u>intención</u>. “Por tanto” conecta con lo anterior, mostrando que la decisión se basa en lo ya expuesto. “Espero enviárselo” mantiene la acción dentro del mismo flujo, y “inmediatamente” añade el sentido de prontitud.
 
-Si no puedes señalar esto en el griego → NO marcas [M]
-```
+#### tan pronto vea cómo van las cosas conmigo;
+##### Se introduce una <u>condición</u>. El envío no es independiente, sino que depende de la situación de Pablo. El texto no desarrolla todos los detalles, pero mantiene coherencia con lo que ya ha venido mostrando sobre sus circunstancias.
 
-# EJEMPLO
+### Filipenses 2:24
+y confío en el Señor que también yo mismo iré pronto.
 
-```
-yo ==planté==
-Apolos ==regó==
-[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
+#### y confío en el Señor
+##### Se expresa una <u>confianza</u>. “Y” conecta con lo anterior, y “confío en el Señor” mantiene el mismo agente y centro del pasaje. No introduce una idea nueva, sino que continúa la misma línea.
 
-[Así que] nadie ==se jacte==      ← ✔ [M]
-```
+#### que también yo mismo iré pronto.
+##### Se añade una <u>expectativa</u>. El texto amplía la intención: no solo enviar, sino también ir. Así, la secuencia se mantiene clara: intención → condición → expectativa, todo dentro del mismo desarrollo sin cambiar el enfoque.
 
-# FORMATO FINAL
+## Filipenses 2:25–30 Presenta a Epafrodito
 
-```
-[S: yo → Apolos]
-Apolos ==regó==
+##### Pablo introduce otro <u>ejemplo</u> cercano: Epafrodito. El propósito no cambia, sino que continúa la misma línea del capítulo: mostrar actitudes visibles dentro del desarrollo del evangelio. No se introduce un tema nuevo, sino que se hace más concreto lo que ya ha venido exponiendo.
 
-[S: Apolos → Dios]
-[pero] Dios ==dio== crecimiento
+##### Los ejemplos en este capítulo siguen una progresión clara. <u>Primero</u> presenta a Jesús, a quien no han visto, pero conocen; luego a Timoteo, alguien cercano a Pablo y conocido por ellos; y ahora introduce a Epafrodito, alguien directamente relacionado con los filipenses. De esta manera, el desarrollo se acerca cada vez más a su realidad, manteniendo el mismo enfoque.
 
-[S: Dios → nadie]
-[Así que] nadie ==se jacte==   [M]
-```
+##### Epafrodito aparece como <u>alguien</u> conocido por ellos, lo cual hace que el ejemplo sea aún más concreto. El texto no cambia el centro hacia la persona en sí, sino que mantiene la misma línea: lo que se observa en él corresponde a lo que Pablo ha venido exhortando.
 
-# REGLA DE CONTROL
+##### El énfasis no está en exaltar a Epafrodito como <u>figura</u> aislada, sino en lo que su acción muestra dentro del mismo desarrollo. Su disposición a arriesgar su vida por la obra de Cristo se presenta como parte de esa misma línea que Pablo ha venido describiendo.
 
-###### ❗ Si no puedes señalar el cambio en la gramática griega:
-👉 NO puedes marcar [M]
+### Filipenses 2:25
+Pero creí necesario enviarles a Epafrodito, mi hermano, colaborador y compañero de lucha, quien también es su mensajero y servidor para mis necesidades.
 
-# ENTIENDE
+#### Pero creí necesario enviarles a Epafrodito,
+##### Pablo expresa una <u>necesidad</u> dentro del desarrollo. “Pero” conecta con lo anterior, y “creí necesario” muestra su evaluación. La acción es concreta: enviarlo. No es una decisión aislada, sino parte del flujo del pasaje, orientada a la situación de los filipenses.
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
+#### mi hermano, colaborador y compañero de lucha,
+##### Se presentan <u>designaciones</u> que describen a Epafrodito. “Mi hermano” señala relación sin establecer niveles, “colaborador” indica participación en la misma labor, y “compañero de lucha” describe involucramiento activo dentro de esa misma línea. Los términos no introducen categorías distintas, sino que amplían una misma descripción.
 
-# PRINCIPIO CLAVE
+#### quien también es su mensajero y servidor para mis necesidades.
+##### Se añade su <u>función</u> en relación con ambos. El texto conecta a Epafrodito con los filipenses (“su mensajero”) y con Pablo (“servidor para mis necesidades”), mostrando una línea continua: ellos envían, él sirve, Pablo recibe. No se introduce un nuevo tema, sino que se mantiene la coherencia relacional.
 
-###### El tronco contiene solo cláusulas independientes.
+### Filipenses 2:26
+Porque él los extrañaba a todos, y estaba angustiado porque ustedes habían oído que se había enfermado.
 
-###### 👉 [M] marca solo cambios estructurales verificables en el griego.
+#### Porque él los extrañaba a todos,
+##### Se introduce una <u>razón</u>. “Porque” conecta con el envío (v25), explicando por qué Pablo lo envía. “Los extrañaba a todos” mantiene el énfasis en el grupo completo, sin parcialidad, dentro de la misma relación.
 
-# IDEA CLAVE
+#### y estaba angustiado porque ustedes habían oído que se había enfermado.
+##### Se describe su <u>estado</u> y su causa. “Estaba angustiado” muestra una condición interna, y la razón se conecta con lo que ellos habían oído acerca de su enfermedad. El texto mantiene una línea relacional: lo que ellos saben afecta su estado, sin introducir otro tema.
 
-###### No decides qué es importante
+### Filipenses 2:27
+Pues en verdad estuvo enfermo, a punto de morir. Pero Dios tuvo misericordia de él, y no solo de él, sino también de mí, para que yo no tuviera tristeza sobre tristeza.
 
-###### 👉 solo eliminas dependencia
+#### Pues en verdad estuvo enfermo, a punto de morir.
+##### Se confirma la <u>situación</u>. El texto afirma la enfermedad y añade su gravedad: “a punto de morir”. No se detalla cómo ocurrió, pero se establece claramente el nivel de la situación dentro del mismo flujo.
 
-###### 👉 solo marcas cambios demostrables
+#### Pero Dios tuvo misericordia de él, y no solo de él, sino también de mí,
+##### Se introduce la <u>acción</u> de Dios. “Pero” marca contraste con la gravedad anterior, y “tuvo misericordia” señala la intervención. El texto amplía el alcance: no solo sobre él, sino también sobre Pablo, manteniendo la relación entre ambos.
 
-# ERROR COMÚN
-- Marcar [M] por impresión
-- Usar sujeto como criterio
-- Usar contraste como criterio
-- Marcar demasiados [M]
+#### para que yo no tuviera tristeza sobre tristeza.
+##### Se presenta el <u>resultado</u>. El texto muestra el efecto de esa misericordia en Pablo: evitar una acumulación de tristeza. Así, la secuencia se mantiene clara: situación → intervención → resultado, sin introducir un nuevo tema y manteniendo coherencia con todo el pasaje.
 
-👉 ❌ Incorrecto
+### Filipenses 2:28
+Así que lo he enviado con mayor solicitud, para que al verlo de nuevo, se regocijen y yo esté más tranquilo en cuanto a ustedes.
 
-# CORRECTO
+#### Así que lo he enviado con mayor solicitud,
+##### Se reafirma la <u>acción</u> de enviar. “Así que” conecta con lo anterior, mostrando continuidad, y “lo he enviado” confirma la decisión tomada por Pablo. “Con mayor solicitud” añade el sentido de urgencia, indicando que esta acción no es indiferente, sino intencional dentro del contexto que se ha venido desarrollando.
 
-- Eliminas solo por dependencia estructural
-- Mantienes cláusulas independientes
-- Marcas [M] solo con evidencia griega
+#### para que al verlo de nuevo, se regocijen
+##### Se presenta el <u>propósito</u> en ellos: el gozo. El envío está orientado a que, al ver nuevamente a Epafrodito, se produzca una respuesta concreta. El texto mantiene la misma línea del capítulo: lo que podría haber sido motivo de angustia se transforma en ocasión de regocijo al ver el resultado.
 
-# FRASE CLAVE
-> “Elimino lo dependiente.
->  Marco solo lo que el griego demuestra.”
+#### y yo esté más tranquilo en cuanto a ustedes.
+##### Se añade un segundo <u>resultado</u>, ahora en Pablo. “Esté más tranquilo” describe su estado en relación con ellos, mostrando una conexión mutua: el gozo de ellos y la tranquilidad de Pablo. El texto mantiene una línea relacional, donde lo que ocurre en unos afecta a los otros, sin cambiar el enfoque del pasaje.
 
-# QUÉ DEBES NOTAR
+### Filipenses 2:29
+Recíbanlo, pues, en el Señor con todo gozo, y tengan en alta estima a los que son como él.
 
-###### Cuando haces bien este paso:
-- el texto se reduce al desarrollo principal
-- desaparece lo subordinado
-- los cambios reales se vuelven visibles
-- [M] aparece raramente
+#### Recíbanlo, pues, en el Señor con todo gozo,
+##### Se introduce un <u>mandato</u>. “Recíbanlo” establece la acción, y “en el Señor” mantiene el mismo ámbito del pasaje. “Con todo gozo” define la manera, manteniendo coherencia con el tema del capítulo. El mandato no es aislado, sino que responde a lo que se ha venido mostrando en el ejemplo de Epafrodito.
 
-# TRANSICIÓN
+#### y tengan en alta estima a los que son como él.
+##### Se añade otro <u>mandato</u> que amplía el enfoque. “Tengan en alta estima” indica valoración, y “los que son como él” extiende el principio más allá de una sola persona. El texto no introduce una categoría distinta, sino que mantiene la misma línea: reconocer a quienes participan de esta misma acción dentro del evangelio.
 
-###### En el siguiente paso:
-- 👉 trabajarás con cada cláusula del tronco
-- 👉 identificarás su comportamiento
-- 👉 verás cómo avanza el texto
+### Filipenses 2:30
+Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida para completar lo que faltaba en el servicio de ustedes hacia mí.
 
-###### Aquí defines el tronco
+#### Porque estuvo al borde de la muerte por la obra de Cristo
+##### Se introduce la <u>razón</u>. “Porque” conecta con el mandato anterior, explicando por qué debe ser recibido y estimado. “Al borde de la muerte” describe la intensidad de la situación, y “por la obra de Cristo” define la causa, manteniendo el mismo centro del pasaje.
 
-###### 👉 luego observas su comportamiento
+#### arriesgando su vida
+##### Se describe la <u>acción</u>. El texto señala lo que hizo: “arriesgando su vida” indica exposición real, sin añadir motivaciones externas. Se mantiene el enfoque en la acción dentro de la misma línea.
 
-# PASO 9 — MARCAR EL COMPORTAMIENTO
+#### para completar lo que faltaba en el servicio de ustedes hacia mí.
+##### Se presenta el <u>propósito</u>. “Para completar” muestra la finalidad, y “lo que faltaba” conecta la acción de Epafrodito con la de los filipenses. El servicio no es independiente, sino que forma una sola línea: ellos envían, Epafrodito actúa, y Pablo recibe, manteniendo coherencia dentro del desarrollo del pasaje.
 
-## EJECUTA
+## En Síntesis
 
-##### ¿Qué haces?
-###### Nombras qué hace \textbf{cada cláusula}.
+>- Se presentan <u>ejemplos</u> concretos dentro del mismo desarrollo
+>- Timoteo y Epafrodito aparecen como modelos de servicio
+>- Ambos reflejan una conducta alineada con el evangelio
+>- Su labor se describe en relación con otros, no de forma aislada
+>- El enfoque se mantiene en el servicio dentro de la misma línea del pasaje
 
-###### Trabajas con:
-- el tronco (Paso 8)
-- las cláusulas ya estructuradas
+# FILIPENSES 3:1–21 Pablo contrasta la confianza en la carne con conocer a Cristo 
 
-##### REGLA CLAVE
-###### ❗ Toda cláusula recibe una etiqueta
-👉 No depende de [M]
+## Filipenses 3:1 Exhorta a regocijarse en el Señor
 
-##### REGLA FUNDAMENTAL
-###### ❗ No detectas el cambio
-👉 La estructura ya fue determinada en pasos anteriores  
-👉 Aquí no decides dónde cambia  
+##### El capítulo 3 presenta diferentes propuestas sobre su <u>estructura</u>, principalmente por el cambio que se percibe entre los versículos 1 y 2. La frase \scripture{No me es molesto escribirles lo mismo} ha llevado a algunos a pensar en una posible interrupción o combinación de materiales. Sin embargo, estas propuestas deben evaluarse a la luz del texto mismo, su gramática y su continuidad.
 
-👉 Solo nombras lo que cada cláusula hace  
+##### Una primera postura sostiene que Filipenses es una composición de varias <u>cartas</u> unidas posteriormente. Esta idea propone una división en tres secciones: un agradecimiento (4:10–20), una carta más extensa (1:1–3:1; 4:2–7; 4:21–23), y una sección polémica (3:2–4:1; 4:8–9). Esta postura se apoya en referencias externas, como la mención de múltiples cartas en Policarpo. Sin embargo, no se sostiene a nivel textual, ya que los manuscritos antiguos no muestran circulación separada de estas secciones.
 
-##### REGLA CRÍTICA
+##### Una segunda postura afirma que Filipenses es una sola <u>carta</u>, pero propone que 3:1 marca el cierre de una sección y 3:2 el inicio de otra, debido al cambio entre \scripture{regocíjense} y \scripture{cuídense}. Aunque esta lectura intenta apoyarse en el uso repetido de KJAIRO (\scripture{regocijarse}), no toma plenamente en cuenta las conexiones internas del texto, especialmente la expresión \scripture{por lo demás, hermanos míos}, que mantiene la continuidad.
 
-###### ❗ El orden es fijo:
+##### Al considerar el desarrollo completo, la gramática y las conexiones del texto, la carta muestra una <u>unidad</u> continua. No se trata de fragmentos independientes, sino de un solo mensaje que avanza en cadena, con una secuencia de argumento → ejemplo → argumento → ejemplo → desarrollo → conclusión. Por esta razón, lo que puede parecer un cambio brusco es en realidad un contraste intencional dentro del mismo flujo.
 
-```
-[S] (si existe)
-::ETIQUETA::
-cláusula [M] (si existe)
-```
+## Filipenses 3:1–7 Cuidado, alerta, peligro, confianza en la carne
 
-##### ❗ ACLARACIÓN
-- [S] va \textbf{arriba de la cláusula}  
-- ::ETIQUETA:: va \textbf{antes de la cláusula}  
-- [M] va \textbf{al final de la cláusula}  
+##### Esta sección no introduce un nuevo tema desconectado, sino que presenta un <u>contraste</u> directo con lo anterior. Después de mostrar ejemplos de servicio y unidad (capítulo 2), ahora se coloca frente a algo opuesto: la advertencia contra quienes desvían esa misma línea. El desarrollo se mantiene continuo, aunque el contraste sea marcado.
 
-## CÓMO HACERLO
+### Filipenses 3:1
+Por lo demás, hermanos míos, regocíjense en el Señor. A mí no me es molesto escribirles lo mismo, y para ustedes es motivo de seguridad.
 
-1. Toma una cláusula  
+#### Por lo demás, hermanos míos, regocíjense en el Señor.
+##### Se introduce una <u>conexión</u> que mantiene continuidad con lo anterior. “Por lo demás” no rompe el desarrollo, sino que lo dirige hacia lo que sigue. El mandato “regocíjense” ya ha sido mencionado anteriormente (1:4; 1:18; 2:2), y aquí se reafirma dentro de la misma línea. Esta conexión es clave, ya que indica que lo que sigue —incluyendo la advertencia— debe ser entendido dentro de este marco de regocijo en el Señor.
 
-2. Observa su relación con la anterior  
+#### A mí no me es molesto escribirles lo mismo,
+##### Se presenta una <u>afirmación</u> sobre la repetición. El énfasis no está en una referencia a una carta previa, sino en la acción presente de escribir. El verbo está en presente, indicando que Pablo está repitiendo contenido dentro del mismo acto de escribir, no necesariamente refiriéndose a algo anterior. La repetición no es evitada, sino intencional.
 
-3. Nombra qué hace  
+#### y para ustedes es motivo de seguridad.
+##### Se establece el <u>propósito</u>. Lo que Pablo escribe no es carga, sino protección. La repetición funciona como seguridad para los destinatarios. De esta manera, el versículo prepara lo que sigue: las advertencias del versículo 2 no son una interrupción, sino parte de esa misma seguridad, manteniendo coherencia dentro del desarrollo.
 
-## ETIQUETAS PERMITIDAS (FIJAS)
+### Filipenses 3:2
+Cuídense de esos perros, cuídense de los malos obreros, cuídense de la falsa circuncisión. 
 
-##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
+##### Se presentan tres <u>advertencias</u> en forma repetida. El mandato “cuídense” (BLEPO) aparece tres veces en imperativo presente activo, indicando vigilancia continua, un “estar atentos” constante. La repetición no añade nuevos mandatos, sino que intensifica la misma advertencia, mostrando que no es un peligro leve, sino insistente y continuo. Dentro del flujo de la carta, esta advertencia se mantiene en línea con lo anterior: Pablo ha venido orando, enseñando y exhortando a permanecer firmes y a crecer en amor, conocimiento y discernimiento; por lo tanto, esta advertencia señala aquello que se opone directamente a ese desarrollo.
 
-## DEFINICIÓN OPERATIVA
+#### Cuídense de esos perros,
+##### Se introduce una <u>designación</u> fuerte. El término “perros” se usa como advertencia, sin definición explícita en el texto, pero dentro del uso bíblico aparece asociado a oposición, impureza y rechazo de lo santo (Salmos 22:16; Isaías 56:11; Mateo 7:6; Apocalipsis 22:15). El texto no desarrolla aquí el significado completo, pero sí lo utiliza como una señal clara de peligro, manteniendo el énfasis en la necesidad de vigilancia.
 
-###### La etiqueta describe qué hace la cláusula respecto a la anterior
-👉 No explica contenido  
-👉 No añade ideas  
-👉 No interpreta  
+#### cuídense de los malos obreros,
+##### Se repite el <u>mandato</u> con otra descripción. “Malos obreros” amplía la caracterización sin cambiar el grupo, manteniendo la misma advertencia. El texto no define en detalle quiénes son, pero dentro del flujo de la carta ya ha mostrado contrastes entre distintos tipos de obreros (Filipenses 1:15; capítulo 2). Así, la advertencia no es ambigua, sino que se apoya en lo previamente desarrollado, manteniendo el mismo enfoque de discernimiento.
 
-## RESULTADO ESPERADO
+#### cuídense de la falsa circuncisión.
+##### Se repite el <u>mandato</u> por tercera vez, completando la advertencia. “Falsa circuncisión” añade otra designación que, junto con “perros” y “malos obreros”, apunta al mismo grupo. El texto no detalla aquí todos los aspectos, pero sí señala características que se oponen al evangelio: alteración externa, distorsión del mensaje y perturbación dentro de los creyentes (Gálatas 5:2, 10; Apocalipsis 3:9). La repetición marca intensidad, cerrando la advertencia como una unidad coherente sin introducir un nuevo tema.
 
-```
-::EXPONE::
-yo ==pude== hablarles
+### Filipenses 3:3
+Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu de Dios y nos gloriamos en Cristo Jesús, no poniendo la confianza en la carne,
 
-::EXPONE::
-yo ==di== a beber leche
+#### Porque nosotros
+##### Se introduce un <u>contraste</u>. El texto cambia de “ellos” (v2) a “nosotros”, estableciendo una distinción directa sin cambiar de tema. “Nosotros” incluye a Pablo y a los creyentes, manteniendo el mismo grupo dentro del desarrollo.
 
-[S: yo → ellos]
-::RAZÓN::
-no ==podían== recibirlo
+#### somos la verdadera circuncisión,
+##### Se afirma una <u>identidad</u>. El texto establece la diferencia con lo anterior mediante el término “verdadera”, sin desarrollar aquí todos los detalles, pero marcando claramente el contraste. La referencia apunta a una realidad que no depende de acción humana, sino de lo que ya ha sido hecho (Colosenses 2:11), manteniendo la línea del pasaje.
 
-::EXPONE::
-ni aun ahora ==pueden==
+#### que adoramos en el Espíritu de Dios
+##### Se describe una <u>acción</u> característica. “Adoramos” señala lo que hacen, y “en el Espíritu de Dios” define el ámbito. El texto no introduce requisitos externos, sino que mantiene el enfoque en la acción dentro de ese mismo marco.
 
-## EJEMPLO CON [M]
+#### y nos gloriamos en Cristo Jesús,
+##### Se añade otra <u>acción</u>. “Nos gloriamos” indica el objeto de confianza, definido como “Cristo Jesús”. Esto mantiene el contraste con el grupo anterior, sin cambiar el enfoque central del pasaje.
 
-::AFIRMACIÓN::
-no ==hago== nula la gracia [M]
-```
+#### no poniendo la confianza en la carne,
+##### Se presenta una <u>negación</u> que completa el contraste. El texto cierra la idea indicando dónde no se coloca la confianza. Así, la secuencia queda clara: contraste → identidad → acciones → negación, todo dentro de una misma línea sin introducir un nuevo tema.
 
-## IMPORTANTE
+### Filipenses 3:4
+aunque yo mismo podría confiar también en la carne. Si algún otro cree tener motivo para confiar en la carne, yo mucho más:
 
-###### ❗ El conector ya determinó la relación
-👉 Aquí no decides  
-👉 Solo nombras  
+#### aunque yo mismo podría confiar también en la carne.
+##### Pablo afirma una <u>posibilidad</u>. El texto dice que él \scripture{podría} confiar en la carne, no que lo hace. La base sigue siendo la misma: la carne. No la rechaza en este punto, sino que reconoce que existe como opción dentro del argumento.
 
-##### ❗ [M] ES RESTRINGIDO
-###### Solo aparece si es seguro
-👉 Si no puedes demostrarlo → no lo marcas  
+#### Si algún otro cree tener motivo para confiar en la carne,
+##### El texto se abre hacia <u>otros</u>. Incluye a cualquiera que piense que tiene motivo para confiar en la carne. “Cree” muestra lo que alguien considera como válido, y “motivo” señala la razón de esa confianza. La base no cambia, sigue siendo la misma: la carne.
 
-## ERRORES COMUNES
+#### yo mucho más:
+##### Pablo se coloca en un nivel <u>mayor</u> dentro del mismo grupo. No introduce una base diferente ni cambia el argumento, sino que intensifica el nivel dentro de esa misma línea. Se incluye dentro del grupo, no habla desde fuera, y se posiciona en el punto más alto antes de desarrollar la lista.
 
-##### ❌ Poner [S] en línea con la cláusula  
-##### ❌ Poner la etiqueta después  
-##### ❌ Poner [M] antes  
-##### ❌ Etiquetar solo donde hay [M]  
-##### ❌ Interpretar el texto  
+### Filipenses 3:5
+circuncidado a los ocho días de nacer, del linaje de Israel, de la tribu de Benjamín, hebreo de hebreos; en cuanto a la ley, fariseo;
 
-## FRASE CLAVE
-> “No explico el texto.  
-> 👉 Nombró lo que hace cada cláusula.”
+#### circuncidado a los ocho días de nacer,
+##### Se presenta un dato de <u>origen</u>. El texto señala un tiempo específico, “a los ocho días”, lo cual indica cumplimiento exacto desde el nacimiento. No es una decisión personal ni una acción posterior, sino algo que pertenece a la categoría de origen.
 
-## ENTIENDE
+#### del linaje de Israel,
+##### Se añade una identidad de <u>linaje</u>. El texto nombra el pueblo al cual pertenece, indicando una identidad que no es adquirida después, sino que continúa dentro de la misma categoría de origen.
 
-##### Qué estás haciendo realmente
-###### Estás haciendo visible el comportamiento de cada cláusula.
+#### de la tribu de Benjamín,
+##### Se especifica una <u>tribu</u>. El texto reduce de nación a una parte dentro de ella, añadiendo precisión sin cambiar la categoría. Se mantiene dentro del mismo marco de origen.
 
-##### PRINCIPIO CLAVE
-###### Toda cláusula actúa  
+#### hebreo de hebreos;
+##### Se refuerza la identidad como <u>hebreo</u>. La repetición intensifica el nivel dentro de la misma categoría, sin introducir algo nuevo. Se mantiene en la misma línea de identidad de origen.
 
-###### 👉 Tu trabajo es identificar cómo  
+#### en cuanto a la ley, fariseo;
+##### Se introduce una nueva categoría: la <u>práctica</u>. El texto cambia de origen a conducta, y “fariseo” define una posición dentro de la ley. Ya no se habla de nacimiento, sino de una forma de vida bajo la ley. Así, la lista agrupa dos áreas dentro del mismo marco: origen (primeros elementos) y práctica (último), manteniendo todo bajo la misma base mencionada anteriormente.
 
-## QUÉ DEBES NOTAR
+### Filipenses 3:6
+en cuanto al celo, perseguidor de la iglesia; en cuanto a la justicia de la ley, hallado irreprensible.
 
-###### Ahora el texto muestra:
-- qué hace cada cláusula  
-- dónde cambia el sujeto ([S])  
-- dónde hay cambio estructural ([M], si existe)  
+#### en cuanto al celo, perseguidor de la iglesia;
+##### Se añade el <u>celo</u> dentro de la categoría de práctica. El texto lo muestra en acción mediante “perseguidor de la iglesia”, lo cual indica que no queda en una idea, sino que se expresa en conducta. Esto continúa la misma línea iniciada en 3:5.
 
-👉 Tres capas distintas  
+#### en cuanto a la justicia de la ley, hallado irreprensible.
+##### Se añade la <u>justicia</u> dentro del mismo marco. El texto da una evaluación mediante “hallado irreprensible”, indicando un resultado sin reproche dentro de la ley. Se mantiene dentro de la misma categoría de práctica.
 
-## TRANSICIÓN
+##### La lista llega a su punto <u>final</u>. No se añaden más elementos, y se completa la serie iniciada en 3:5. El nivel queda en su punto máximo: se han cubierto tanto origen como práctica dentro de la misma base, preparando el cambio que vendrá en el versículo siguiente.
 
-###### En el siguiente paso:
-👉 ignorarás el contenido  
-👉 leerás solo las etiquetas  
-👉 observarás repetición  
+### Filipenses 3:7 
+Pero todo lo que para mí era ganancia, lo he estimado como pérdida por amor de Cristo.
 
-###### Aquí nombras  
-###### 👉 luego agrupas
+#### Pero todo lo que para mí era ganancia,
+##### Se introduce un <u>contraste</u> con lo anterior. El texto agrupa toda la lista previa (3:5–6) bajo una sola categoría: \scripture{ganancia}. No se añade contenido nuevo, sino que se reúne todo lo anterior dentro de una misma evaluación.
 
-# PASO 10 — DELIMITAR SECCIONES CONTINUAS
+#### lo he estimado como pérdida
+##### Se presenta una nueva <u>evaluación</u>. El verbo indica un cambio de valor: lo que antes era considerado \scripture{ganancia}, ahora es estimado como \scripture{pérdida}. El sujeto sigue siendo Pablo y el objeto continúa siendo todo lo anterior, pero el valor asignado ha cambiado completamente.
 
-## EJECUTA
+#### por amor de Cristo.
+##### Se introduce la <u>causa</u> de ese cambio. El texto no elimina la lista previa, sino que redefine su valor en relación con Cristo. Él se convierte en el punto de referencia, marcando una ruptura total en la evaluación: lo anterior pierde su valor frente a Él, estableciendo el contraste que se desarrollará en los versículos siguientes.
 
-##### ¿Qué haces?
-###### Delimitar dónde el texto continúa  
+## Filipenses 3:8–11 Expresa el valor de conocer a Cristo
 
-###### y dónde comienza una nueva sección.
+##### El texto continúa el mismo <u>desarrollo</u> sin introducir un tema nuevo. Lo que sigue amplía el contraste iniciado en 3:7, manteniendo el mismo argumento pero llevándolo más lejos sobre la base de esta nueva evaluación.
 
-###### Trabajas con:
-- el texto estructurado (Paso 8)  
-- las marcas [M]  
+### Filipenses 3:8
+Y aún más, yo estimo como pérdida todas las cosas en vista del incomparable valor de conocer a Cristo Jesús, mi Señor. Por Él lo he perdido todo, y lo considero como basura a fin de ganar a Cristo,
 
-##### REGLA FUNDAMENTAL
+#### Y aún más,
+##### Pablo amplía el <u>alcance</u> del argumento. No corrige lo anterior, sino que lo intensifica, preparando una extensión de la misma evaluación ya establecida.
 
-###### ❗ No buscas patrones
+#### yo estimo como pérdida todas las cosas
+##### La evaluación se extiende ahora a <u>todo</u>. Ya no se limita a la lista de 3:5–6, sino que incluye todas las cosas dentro del mismo marco. La acción sigue siendo una evaluación, con el mismo sujeto y el mismo valor asignado, pero con un alcance mayor.
 
-👉 No agrupas por ideas  
-👉 No divides por sentido  
-👉 No usas etiquetas  
-👉 No usas sujeto  
+#### en vista del incomparable valor de conocer a Cristo Jesús, mi Señor.
+##### Se introduce el nuevo <u>valor</u> que explica la evaluación. La expresión conecta directamente la causa con la decisión: conocer a Cristo se presenta como el punto de referencia que establece la comparación. Lo anterior queda como pérdida frente a este valor superior.
 
-👉 Solo observas continuidad y ruptura  
+#### Por Él lo he perdido todo,
+##### La pérdida se conecta directamente con <u>Cristo</u>. El texto afirma una acción ya realizada (\scripture{he perdido}), mostrando que no es solo una idea, sino una realidad experimentada. La relación no es abstracta, sino personal.
 
-##### REGLA CLAVE
-###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
+#### y lo considero como basura,
+##### Se intensifica la <u>evaluación</u>. El término eleva el grado de rechazo: no solo es pérdida, sino algo sin valor alguno. No se introduce una nueva categoría, sino que se refuerza la anterior eliminando cualquier posibilidad de valor residual.
 
-👉 Y la única ruptura válida es [M]  
+#### a fin de ganar a Cristo
+##### Se introduce el <u>propósito</u>. Toda la pérdida apunta hacia un objetivo: \scripture{ganar a Cristo}. El flujo del versículo se mantiene claro: evaluación → causa → intensificación → propósito, todo dentro de una misma línea sin interrupción.
 
-## CÓMO HACERLO
+### Filipenses 3:9
+y ser hallado en Él, no teniendo mi propia justicia derivada de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe,
 
-### 1. Lee el texto línea por línea
-👉 Trabajas sobre el tronco (Paso 8)
+#### y ser hallado en Él,
+##### Continúa el <u>propósito</u> del versículo anterior. “Ser hallado” indica la condición en la que Pablo desea ser encontrado, y “en Él” define esa posición como una relación con Cristo, manteniendo el mismo centro del desarrollo.
 
+#### no teniendo mi propia justicia derivada de la ley,
+##### Se niega una <u>base</u> anterior. El texto no elimina el concepto de justicia, sino que aclara cuál no está presente: una justicia propia, derivada de la ley, que corresponde a la misma base de 3:5–6.
 
-### 2. Identifica [M]
-👉 Cada vez que aparece [M]:
-- ahí ocurre una ruptura  
-- ahí comienza una nueva sección  
+#### sino la que es por la fe en Cristo,
+##### Se introduce una base <u>distinta</u>. El contraste es directo: no es una extensión de la anterior, sino una alternativa. Se mantiene el concepto de justicia, pero cambia el medio por el cual se recibe: ahora es por la fe en Cristo.
 
-### 3. Agrupa las líneas
-👉 Todas las líneas sin [M] pertenecen a la misma sección  
+#### la justicia que procede de Dios
+##### Se identifica el <u>origen</u>. Esta justicia no procede de Pablo ni de la ley, sino de Dios. El contraste queda completo: origen humano frente a origen en Dios.
 
-👉 La línea con [M]:
-- marca el cambio  
-- inicia una nueva sección  
+#### sobre la base de la fe,
+##### Se reafirma la <u>base</u>. El texto no añade nueva información, sino que refuerza el medio ya mencionado. La estructura queda cerrada: negación → contraste → origen → medio, todo dentro de una sola línea continua.
 
-### 4. Continúa hasta el siguiente [M]
-👉 Repite el mismo proceso  
+### Filipenses 3:10
+y conocerlo a Él, el poder de Su resurrección y la participación en Sus padecimientos, llegando a ser como Él en Su muerte,
 
-## RESULTADO ESPERADO
+#### y conocerlo a Él,
+##### Se presenta el <u>propósito</u>. Este “conocer” no introduce una idea nueva, sino que continúa lo dicho en 3:8, donde conocer a Cristo ya había sido establecido como el nuevo valor. Ahora el texto comienza a desarrollar su contenido. El objeto permanece claro: “a Él”, manteniendo el enfoque exclusivamente en Cristo, sin añadir otro centro.
 
-```
-[ SECCIÓN 1 ]
+#### el poder de Su resurrección
+##### Se añade contenido al <u>conocer</u>. El texto especifica un aspecto concreto: el poder vinculado a Su resurrección. Este elemento no aparece aislado ni como un tema independiente, sino como parte del mismo conocer, ampliando lo que implica esa relación con Cristo dentro de la misma línea del pasaje.
 
-::EXPONE::
-yo ==he sido crucificado==
+#### y la participación en Sus padecimientos,
+##### Se introduce un segundo <u>elemento</u> dentro del mismo desarrollo. La conjunción “y” mantiene el paralelismo con lo anterior, uniendo ambos aspectos sin separarlos. El texto añade la idea de participación, no como observación externa, sino como involucramiento directo en Sus padecimientos, manteniendo la relación con Cristo como centro.
 
-::CONTRASTE::
-[y] ya no ==vivo==
+#### llegando a ser como Él
+##### Se describe un <u>proceso</u>. El texto muestra desarrollo progresivo, no un estado inmediato. Esta transformación no aparece de manera independiente, sino como resultado de lo anterior: conocer, experimentar el poder y participar en los padecimientos. Todo se mantiene dentro de la misma línea.
 
-[S: yo → Cristo]
-::CONTRASTE::
-[sino] Cristo ==vive== en mí
+#### en Su muerte,
+##### Se define el <u>alcance</u> del proceso. La referencia a “Su muerte” especifica hasta dónde llega este desarrollo, sin introducir una nueva categoría. Así, el flujo del versículo se mantiene completo: conocer → poder → participación → proceso → muerte, sin cambiar de tema en ningún punto.
 
-[S: Cristo → yo]
-::EXPONE::
-==vivo== en la fe
+### Filipenses 3:11
+a fin de llegar a la resurrección de entre los muertos.
 
-[ SECCIÓN 2 ]
+#### a fin de llegar
+##### Se introduce la <u>finalidad</u>. La expresión señala propósito, conectando directamente con el proceso descrito en 3:10. No describe lo anterior, sino que indica hacia dónde apunta todo el desarrollo.
 
-::EXPONE::
-no ==hago== nula la gracia [M]
+#### a la resurrección de entre los muertos.
+##### Se define la <u>meta</u>. El texto especifica el destino final, conectando con la mención de la resurrección en 3:10. No introduce un concepto nuevo, sino que cierra la secuencia iniciada anteriormente. El movimiento queda completo: conocer → participación → proceso → muerte → resurrección, manteniendo una sola línea hasta su conclusión.
 
-[S: yo → Cristo]
-::RESULTADO::
-[entonces] Cristo ==murió== en vano
-```
+## CLAVE DEL PASAJE
 
-## DEFINICIÓN OPERATIVA
+##### El texto muestra una <u>evaluación</u>. Pablo redefine completamente el valor de lo anterior: lo que era “ganancia” (3:7) ahora es considerado “pérdida” (3:8). Este cambio no es parcial, sino total, y afecta todo lo previamente mencionado.
 
-###### Sección continua = conjunto de cláusulas sin ruptura estructural  
+##### El cambio tiene una <u>causa</u>. La expresión “en vista de” (3:8) introduce el nuevo valor: conocer a Cristo. Este valor se convierte en el punto de referencia que determina toda la nueva evaluación.
 
-###### Ruptura = presencia de [M]  
+##### El texto establece un nuevo <u>centro</u>. Todo el desarrollo se organiza en relación con Cristo: \scripture{ganar a Cristo} (3:8), \scripture{ser hallado en Él} (3:9), \scripture{conocerlo a Él} (3:10). La línea se mantiene coherente desde inicio a fin, sin desviarse.
 
-## REGLA DE CONTROL
+##### El desarrollo sigue una sola <u>estructura</u>. Evaluación → causa → propósito → proceso → meta. Cada elemento se conecta con el anterior, formando una secuencia continua que no introduce temas nuevos, sino que profundiza el mismo argumento hasta su conclusión.
 
-###### Debes poder señalar:
-- dónde empieza una sección  
-- dónde termina  
-- qué marca el cambio ([M])  
+### Filipenses 3:12
+No es que ya lo haya alcanzado o que ya haya llegado a ser perfecto, sino que sigo adelante, a fin de poder alcanzar aquello para lo cual también fui alcanzado por Cristo Jesús.
 
-👉 Si no hay [M], no hay nueva sección  
+#### No es que ya lo haya alcanzado
+##### Pablo introduce una <u>negación</u> respecto a haber alcanzado la meta. El texto corrige una posible idea de logro completo, indicando que eso aún no ha sucedido. La expresión “ya” marca un estado que no está cumplido, conectando directamente con la meta mencionada en 3:11. Así, se establece claramente el estado actual: el proceso continúa y no ha llegado a su fin.
 
-👉 Aunque el sujeto cambie  
-👉 Aunque haya contraste  
-👉 Aunque el contenido avance  
+#### o que ya haya llegado a ser perfecto,
+##### Se refuerza la misma <u>negación</u> mediante paralelismo. La repetición de “ya… ya…” intensifica la idea sin introducir una nueva categoría. El texto elimina cualquier noción de finalización, manteniendo el proceso abierto y sin cerrar.
 
-❗ Sin [M], no divides  
+#### sino que sigo adelante,
+##### Se introduce una <u>acción</u> en contraste con la negación. El “sino” marca el cambio de enfoque: no se queda en lo que no es, sino que pasa a lo que hace. “Sigo adelante” indica movimiento continuo, no puntual, manteniendo dirección dentro del mismo desarrollo.
 
-## ACLARACIONES IMPORTANTES
+#### a fin de poder alcanzar
+##### Se presenta el <u>propósito</u> de esa acción. El lenguaje retoma el verbo “alcanzar”, conectando con la meta anterior sin cambiar el objetivo. La acción tiene una dirección clara y no es movimiento sin sentido, sino proyectado hacia adelante.
 
-###### ❗ Las etiquetas no determinan la sección  
-👉 Solo describen cada cláusula  
+#### aquello para lo cual también fui alcanzado por Cristo Jesús.
+##### Se introduce la <u>base</u> del movimiento. El texto conecta dos acciones usando el mismo verbo: Pablo busca alcanzar, pero previamente fue alcanzado por Cristo. Esto mantiene la relación con Él como punto de referencia, mostrando que la acción de Pablo no es independiente, sino que responde a una acción previa de Cristo.
 
-###### ❗ [S] no determina la sección  
-👉 Solo muestra cambios dentro de la sección  
+### Filipenses 3:13
+Hermanos, yo mismo no considero haberlo ya alcanzado. Pero una cosa hago: olvidando lo que queda atrás y extendiéndome a lo que está delante,
 
-###### ❗ Solo [M] delimita  
-👉 Es el único criterio válido  
+#### Hermanos, yo mismo no considero haberlo ya alcanzado.
+##### Pablo reafirma la misma <u>evaluación</u> de 3:12. El texto repite la idea de no haber alcanzado la meta, manteniendo coherencia con lo anterior. “Yo mismo” enfatiza al sujeto, y “no considero” muestra su propia evaluación, confirmando que el proceso sigue abierto.
 
-## ERRORES COMUNES
+#### Pero una cosa hago:
+##### Se introduce un <u>enfoque</u> claro. El contraste (“pero”) cambia de evaluación a acción, y “una cosa” concentra el movimiento en una sola dirección. El texto no presenta múltiples acciones, sino que define una línea específica que será explicada a continuación.
 
-##### ❌ Crear secciones por “sentido”  
+#### olvidando lo que queda atrás
+##### Se describe una <u>acción</u> en relación con el pasado. “Olvidando” indica un proceso de dejar atrás, no como pérdida de memoria, sino como no volver a lo anterior. La expresión “lo que queda atrás” marca dirección sin enumerar elementos, estableciendo una ruptura dentro del movimiento.
 
-##### ❌ Usar etiquetas para dividir  
+#### y extendiéndome a lo que está delante,
+##### Se añade una <u>acción</u> paralela que completa la anterior. La conjunción “y” une ambas acciones dentro de la misma estructura. “Extendiéndome” define avance hacia adelante, manteniendo coherencia con el movimiento iniciado en 3:12 y la dirección establecida.
 
-##### ❌ Usar cambios de sujeto para dividir  
+### Filipenses 3:14
+prosigo hacia la meta para obtener el premio del supremo llamamiento de Dios en Cristo Jesús.
 
-##### ❌ Forzar divisiones donde no hay [M]  
+#### prosigo hacia la meta
+##### Pablo expresa un <u>movimiento</u> continuo. El verbo retoma lo desarrollado en 3:12–13, indicando un avance sostenido. “Hacia” marca dirección, y “la meta” define el punto al que se dirige, manteniendo la misma línea sin introducir una nueva acción.
 
-##### ❌ Suponer ruptura sin evidencia en el griego  
+#### para obtener el premio
+##### Se introduce el <u>objetivo</u> del movimiento. La expresión conecta acción y propósito, mostrando que el avance tiene una finalidad definida. “Obtener” indica alcanzar, y “premio” especifica el resultado esperado, manteniendo coherencia con el lenguaje de meta.
 
-## FRASE CLAVE
-> “No divido el texto.  
-> 👉 Sigo las rupturas que el griego muestra.”
+#### del supremo llamamiento de Dios en Cristo Jesús.
+##### Se identifica el <u>origen</u> del premio. El texto conecta el premio con el llamamiento, señalando su procedencia en Dios y manteniendo a Cristo como centro. La idea se cierra con una estructura completa: acción → meta → objetivo → origen, sin salir de la misma línea del pasaje.
 
-## QUÉ DEBES NOTAR
+### Filipenses 3:15
+Así que todos los que somos perfectos, tengamos esta misma actitud; y si en algo tienen una actitud distinta, eso también se lo revelará Dios.
 
-###### Cuando lo haces bien:
+#### Así que todos los que somos perfectos,
+##### Se introduce un <u>grupo</u>. La expresión “así que” conecta con lo anterior (3:12–14), pasando de la experiencia personal de Pablo (“yo”) a una aplicación más amplia (“nosotros”). “Todos” amplía el alcance, y “somos perfectos” identifica al grupo dentro de ese mismo marco, extendiendo lo dicho previamente sin cambiar la línea del pasaje.
 
-- el texto permanece continuo la mayor parte del tiempo  
-- las divisiones son pocas y claras  
-- no necesitas explicar nada  
-- la estructura se mantiene estable  
+#### tengamos esta misma actitud;
+##### Se establece una <u>respuesta</u> para ese grupo. “Esta misma actitud” retoma lo descrito en 3:12–14, sin introducir algo nuevo. El texto apunta a mantener la misma dirección: no considerarse completo y continuar avanzando hacia la meta. Así, la exhortación permanece dentro del mismo movimiento desarrollado anteriormente.
 
-## TRANSICIÓN
+#### y si en algo tienen una actitud distinta,
+##### Se reconoce una posible <u>diferencia</u>. El texto no niega que pueda existir, sino que la contempla dentro del mismo tema (actitud). La expresión es abierta (“si en algo”), sin especificar detalles, y no rompe el flujo, sino que mantiene el enfoque dentro del mismo marco.
 
-###### En el siguiente paso:
+#### eso también se lo revelará Dios.
+##### Se introduce la <u>acción</u> de Dios. “Revelará” señala una acción futura que no se atribuye al sujeto, sino a Dios. De esta manera, la secuencia se mantiene coherente: actitud compartida → posible diferencia → acción de Dios, sin introducir un nuevo proceso ni cambiar el enfoque.
 
-👉 verificarás si el texto continúa en los siguientes versículos  
-👉 sin reiniciar el proceso  
+### Filipenses 3:16
+Sin embargo, continuemos viviendo según la misma norma que hemos alcanzado.
 
-👉 Aquí delimitas  
-👉 luego extiendes
+#### Sin embargo,
+##### Se introduce un <u>ajuste</u> dentro del mismo desarrollo. La expresión conecta con lo anterior sin cambiar de tema, sino precisando cómo se debe continuar dentro de la misma línea.
 
-# PASO 11 — EXTENDER LA CONTINUIDAD
+#### continuemos viviendo
+##### Se establece una <u>acción</u> continua. El verbo indica que no se trata de iniciar algo nuevo, sino de seguir dentro de lo ya establecido. La dirección no cambia ni se detiene, sino que se mantiene en el mismo movimiento.
 
-## EJECUTA
+#### según la misma norma que hemos alcanzado.
+##### Se define la <u>base</u> de ese vivir. “La misma norma” indica continuidad, sin introducir otra referencia. La expresión “hemos alcanzado” reconoce progreso real, sin implicar finalización. Así, el texto mantiene un equilibrio dentro del pasaje: no haber alcanzado completamente (3:12–13), pero haber alcanzado algo (3:16), sin cambiar la base ni la dirección.
 
-##### ¿Qué haces?
-###### Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciendo.
+## Filipenses 3:17–21 Exhorta a seguir su ejemplo y esperar a Cristo
 
-##### REGLA CLAVE
-###### ❗ No inicias algo nuevo
-👉 Solo verificas si el desarrollo continúa  
+##### Este bloque mantiene una <u>estructura</u> clara dentro del desarrollo. Primero se presenta una exhortación a seguir un ejemplo (v17), luego se describe un grupo en contraste (v18–19), y finalmente se muestra una identidad y destino distintos (v20–21). El movimiento se mantiene en una sola línea: ejemplo → contraste → destino, sin introducir un tema nuevo, sino desarrollando el mismo argumento.
 
-##### REGLA FUNDAMENTAL
+### Filipenses 3:17
+Hermanos, sean imitadores míos, y observen a los que andan según el ejemplo que tienen en nosotros.
 
-###### ❗ El texto continúa mientras no cambie su desarrollo
-👉 No usas contenido  
-👉 No usas intuición  
-👉 Trabajas con lo ya observado (estructura + etiquetas)  
+#### Hermanos, sean imitadores míos,
+##### Pablo da un <u>mandato</u>. El verbo está en imperativo, indicando una acción que debe realizarse. “Sean imitadores” establece seguir un ejemplo, y ese modelo es “míos”, señalando una referencia concreta. Esto continúa la línea de 3:12–16, donde Pablo ha descrito su propio movimiento, ahora presentado como punto de referencia para otros.
 
-## CÓMO HACERLO
+#### y observen
+##### Se añade otra <u>acción</u>. La conjunción “y” no reemplaza lo anterior, sino que lo amplía, manteniendo el mismo propósito. “Observen” dirige la atención hacia otros, implicando una mirada cuidadosa que está conectada con el mismo ejemplo señalado.
 
-1. Comienza desde el bloque identificado (Paso 10)
+#### a los que andan según el ejemplo que tienen en nosotros.
+##### Se identifica un <u>grupo</u>. El texto amplía el modelo más allá de Pablo, incluyendo a “los que andan” conforme a ese mismo patrón. El criterio queda definido por el ejemplo compartido (“en nosotros”), sin introducir un nuevo estándar. Así, la línea se mantiene clara: imitar → observar → seguir un mismo ejemplo.
 
-2. Avanza línea por línea
+### Filipenses 3:18
+Porque muchos andan como les he dicho muchas veces, y ahora se lo digo aun llorando, que son enemigos de la cruz de Cristo,
 
-3. En cada línea verifica:
+#### Porque muchos andan como les he dicho muchas veces,
+##### Se introduce la <u>causa</u> que explica el mandato anterior. “Porque” conecta directamente con 3:17, mostrando por qué es necesario imitar y observar. “Muchos” indica una cantidad amplia, y “andan” describe su manera de vivir. El texto añade continuidad: “les he dicho muchas veces” muestra que no es una advertencia nueva, sino repetida.
 
-### 1. ¿La etiqueta sigue en el mismo tipo de desarrollo?
-- ✔ Sí → continúa  
-- ❌ No → posible cierre  
+#### y ahora se lo digo aun llorando,
+##### Se añade una <u>intensidad</u> a la misma acción de comunicar. El contenido no cambia, pero “ahora” señala el momento presente y “llorando” describe cómo se expresa, aumentando el peso de lo dicho sin introducir nueva información.
 
-### 2. ¿El texto sigue haciendo lo mismo?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+#### que son enemigos de la cruz de Cristo,
+##### Se identifica el <u>grupo</u> y su relación. “Enemigos” marca oposición clara, y “la cruz de Cristo” define el punto de esa oposición. El texto no desarrolla el concepto en detalle aquí, pero establece la base del contraste dentro del pasaje.
 
-### 3. ¿Se puede leer junto sin forzar?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+### Filipenses 3:19
+cuyo fin es perdición, cuyo dios es su apetito y cuya gloria está en su vergüenza, los cuales piensan solo en las cosas terrenales.
 
-## REGLA CRÍTICA
+#### cuyo fin es perdición,
+##### Se describe el <u>destino</u>. El texto señala el resultado final mediante “fin”, definiéndolo como “perdición”. No se explica el proceso, sino que se presenta directamente el resultado dentro de la descripción del grupo.
 
-###### ❗ La extensión termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas interpretar  
+#### cuyo dios es su apetito
+##### Se describe su <u>orientación</u>. El lenguaje muestra aquello que domina: “dios” señala el centro, y “apetito” define ese enfoque. El paralelismo se mantiene, añadiendo otra característica dentro de la misma estructura.
 
-## RESULTADO ESPERADO
+#### y cuya gloria está en su vergüenza,
+##### Se describe una <u>valoración</u>. El texto muestra una inversión: “gloria” y “vergüenza” aparecen juntos, indicando lo que exaltan. Se mantiene el paralelismo sin cambiar el tema, intensificando la descripción.
 
-```
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+#### los cuales piensan solo en las cosas terrenales.
+##### Se resume el <u>enfoque</u>. El texto señala la actividad interna (“piensan”), limita su alcance (“solo”) y define su contenido (“cosas terrenales”). Así, la descripción queda completa: destino → orientación → valoración → pensamiento, sin añadir nuevos elementos ni salir de la misma línea.
 
-::RAZÓN::
-no ==podían==
-```
+### Filipenses 3:20
+Porque nuestra ciudadanía está en los cielos, de donde también ansiosamente esperamos a un Salvador, el Señor Jesucristo,
 
-👉 La extensión se detiene cuando el desarrollo cambia  
+#### Porque nuestra ciudadanía está en los cielos,
+##### Se introduce un <u>contraste</u> directo. “Porque” responde a 3:18–19, oponiendo dos grupos dentro del mismo desarrollo: ellos, con la mente en lo terrenal, y nosotros, cuya ciudadanía está en los cielos. No se cambia de tema, sino de grupo. “Ciudadanía” define identidad, no conducta, señalando pertenencia, y “en los cielos” ubica esa identidad como una realidad presente que sirve de base para lo que sigue.
 
-## IMPORTANTE
+#### de donde también ansiosamente esperamos a un Salvador,
+##### Se introduce una <u>expectativa</u> que surge de esa ciudadanía. “De donde” conecta directamente con “los cielos”, mostrando que esta espera no es independiente, sino consecuencia de esa identidad. “Esperamos” indica una acción continua, no puntual, y “ansiosamente” añade intensidad. El objeto queda definido como “un Salvador”, sin desarrollar aquí su función, sino simplemente identificándolo como el esperado.
 
-###### ❗ No extiendes más allá de lo natural
-👉 No fuerzas continuidad  
-👉 No unes desarrollos distintos  
+#### el Señor Jesucristo,
+##### Se identifica la <u>persona</u>. El texto especifica quién es ese Salvador: “el Señor Jesucristo”. “Señor” indica autoridad, y el nombre mantiene el mismo centro del pasaje. No se introduce un nuevo referente, sino que se confirma la continuidad: Cristo, ya presentado como centro (3:7–10), ahora es también el esperado.
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+### Filipenses 3:21
+el cual transformará el cuerpo de nuestro estado de humillación en conformidad al cuerpo de Su gloria, por el ejercicio del poder que tiene aun para sujetar todas las cosas a Él mismo.
 
-## ENTIENDE
+#### el cual transformará el cuerpo de nuestro estado de humillación
+##### Se introduce una <u>acción</u> futura que continúa la expectativa de 3:20. “Transformará” señala algo que aún no ocurre, y el sujeto sigue siendo el Señor Jesucristo. El objeto se especifica como “el cuerpo de nuestro estado de humillación”, describiendo su condición actual sin desarrollar más detalles, manteniendo el enfoque dentro del mismo flujo.
 
-##### Qué estás haciendo realmente
-###### Estás verificando hasta dónde el texto sigue en el mismo desarrollo.
+#### en conformidad al cuerpo de Su gloria,
+##### Se describe el <u>resultado</u> de esa acción. “En conformidad” indica correspondencia, y “el cuerpo de Su gloria” establece el modelo hacia el cual se dirige la transformación. No es un cambio indefinido, sino orientado hacia ese referente, manteniendo la línea del pasaje sin introducir nuevos elementos.
 
-##### PRINCIPIO CLAVE
-###### La extensión dura mientras el texto continúa haciendo lo mismo.
+#### por el ejercicio del poder que tiene
+##### Se introduce el <u>medio</u> por el cual ocurre la transformación. La preposición “por” señala el instrumento, y el “poder” pertenece al mismo sujeto, sin añadir otro agente. Así, la acción depende de Él, manteniendo el enfoque centrado en su capacidad.
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio de desarrollo  
+#### aun para sujetar todas las cosas a Él mismo.
+##### Se amplía el <u>alcance</u> de ese poder. “Sujetar” indica dominio, “todas las cosas” muestra totalidad, y “a Él mismo” define la dirección. De esta manera, la idea se cierra de forma completa: acción (transformar) → resultado → medio → alcance, todo bajo el mismo agente, sin cambiar el enfoque del pasaje.
 
-## ERROR COMÚN
+## En Síntesis
 
-- Extender por parecido superficial  
-- Cortar por intuición  
-- Forzar continuidad  
-- Ignorar cambios reales  
+>- Se introduce un <u>contraste</u> entre dos bases: la carne y Cristo
+>- La confianza en la carne es presentada y luego redefinida como pérdida
+>- Conocer a Cristo aparece como el nuevo centro del desarrollo
+>- Se muestra un proceso continuo hacia la meta sin considerarlo alcanzado
+>- El pasaje concluye con dos direcciones: lo terrenal frente a lo que está en Cristo
 
-👉 ❌ Incorrecto  
+# FILIPENSES 4:1–23 Pablo da exhortaciones finales y expresa gratitud
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo  
+##### Este bloque mantiene una <u>progresión</u> clara dentro del desarrollo. Primero se presenta una exhortación general a permanecer firmes (v1), luego se aborda un caso específico con dos personas (v2), y finalmente se introduce la intervención de un tercero para ayudar (v3). La secuencia se mantiene en una sola línea: exhortación general → caso específico → intervención, sin cambiar de tema.
 
-## FRASE CLAVE
-> “La extensión dura mientras el desarrollo no cambia.”
+## Filipenses 4:1–3 Exhorta a permanecer firmes y en armonía
 
-## QUÉ DEBES NOTAR
+### Filipenses 4:1
+Así que, hermanos míos, amados y añorados, gozo y corona mía, estén así firmes en el Señor, amados.
 
-###### Ahora puedes ver:
-- hasta dónde el texto continúa  
-- dónde el desarrollo cambia  
-- el punto donde debes detenerte  
+#### Así que, hermanos míos,
+##### Se introduce una <u>conexión</u> con lo anterior. “Así que” recoge el desarrollo de 3:17–21 y lo aplica, sin iniciar un tema nuevo, sino dirigiendo hacia una respuesta. “Hermanos míos” mantiene la relación con los destinatarios, sin cambiar el grupo.
 
-## TRANSICIÓN
+#### amados y añorados,
+##### Se expresa una <u>relación</u> intensificada. Ambos términos describen cómo Pablo los ve: “amados” muestra afecto, y “añorados” añade un sentido de anhelo. No introducen una acción, sino que profundizan la relación dentro del mismo contexto.
 
-###### En el siguiente paso:
-👉 reconocerás dónde la extensión se detiene  
-👉 delimitarás la unidad  
+#### gozo y corona mía,
+##### Se añade una <u>valoración</u>. Estas expresiones identifican cómo Pablo los considera, sin explicar en detalle su significado aquí. Se mantienen dentro de la misma línea relacional, reforzando el vínculo con ellos.
 
-###### Aquí verificas continuidad  
-###### 👉 luego identificas el cierre
+#### estén así firmes en el Señor, amados.
+##### Se establece el <u>mandato</u>. “Estén firmes” indica permanecer, aplicando lo desarrollado anteriormente sin introducir una acción distinta. “En el Señor” define el ámbito, manteniendo el centro en Él. La repetición de “amados” une la exhortación con la relación, cerrando el versículo de manera coherente.
 
+### Filipenses 4:2
+Ruego a Evodia y a Síntique, que vivan en armonía en el Señor.
 
-# PASO 12 — DELIMITAR LA UNIDAD
+#### Ruego a Evodia y a Síntique,
+##### Se introduce una <u>petición</u> específica. El verbo cambia de un mandato general (4:1) a un ruego dirigido, mencionando a dos personas concretas. El enfoque pasa de lo general a lo particular, sin explicar la situación, solo identificando a las personas.
 
-## EJECUTA
+#### que vivan en armonía en el Señor.
+##### Se define la <u>acción</u> esperada. “Vivan en armonía” indica el objetivo sin detallar las causas. La expresión “en el Señor” conecta con 4:1, manteniendo el mismo marco sin introducir una nueva base.
 
-##### ¿Qué haces?
-###### Delimitar la unidad identificando hasta dónde el texto desarrolla lo mismo.
+### Filipenses 4:3
+En verdad, fiel compañero, también te ruego que ayudes a estas mujeres que han compartido mis luchas en la causa del evangelio, junto con Clemente y los demás colaboradores míos, cuyos nombres están en el libro de la vida.
 
-##### REGLA CLAVE
+#### En verdad, fiel compañero, también te ruego que ayudes a estas mujeres
+##### Se introduce una <u>petición</u> dirigida a un tercero. El ruego continúa lo iniciado en 4:2, pero ahora incluye intervención externa. “También” conecta con lo anterior, ampliando el escenario, y la acción solicitada es “ayudar”, manteniendo el mismo contexto relacional.
 
-###### ❗ Trabajas únicamente con:
-- la extensión verificada (Paso 11)  
-- el tronco (Paso 8)  
-- las etiquetas (Paso 9)  
+#### que han compartido mis luchas en la causa del evangelio,
+##### Se presenta la <u>razón</u> del ruego. “Han compartido” indica participación pasada, “mis luchas” conecta con la experiencia de Pablo, y “en la causa del evangelio” mantiene el mismo centro. El texto muestra que no son ajenas, sino parte activa dentro de la misma línea del pasaje.
 
-👉 No usas contenido  
-👉 No usas interpretación temprana  
+#### junto con Clemente y los demás colaboradores míos,
+##### Se amplía el <u>grupo</u>. La expresión añade más personas dentro de la misma categoría: “colaboradores” indica participación sin introducir un grupo distinto. Todo se mantiene dentro del mismo enfoque en el evangelio.
 
-##### REGLA FUNDAMENTAL
+#### cuyos nombres están en el libro de la vida.
+##### Se añade una <u>identificación</u> del grupo. El texto señala pertenencia mediante “cuyos nombres”, y menciona el “libro de la vida” sin desarrollarlo aquí. Así, la idea se cierra en una secuencia coherente: personas → participación → grupo → identificación, sin introducir un nuevo tema.
 
-###### ❗ La unidad se define donde la extensión deja de ser natural
+## Filipenses 4:4–7 Exhorta a regocijarse y confiar en Dios
 
-👉 Comienza donde inicia el desarrollo  
-👉 Termina donde ese desarrollo cambia  
+##### Este bloque mantiene una <u>progresión</u> clara dentro del desarrollo. Se inicia con una exhortación al regocijo (v4), continúa con una manifestación visible acompañada por una afirmación (v5), pasa a una negación seguida de una acción específica (v6), y concluye con un resultado (v7). La secuencia se mantiene en una sola línea: regocijo → disposición visible → acción → resultado, sin cambiar de tema.
 
-## CÓMO HACERLO
+### Filipenses 4:4
+Regocíjense en el Señor siempre. Otra vez lo diré: ¡Regocíjense!
 
-1. Toma el texto extendido (Paso 11)
+#### Regocíjense en el Señor siempre.
+##### Se introduce un <u>mandato</u>. El verbo en imperativo llama a una acción continua: “regocíjense” indica lo que deben hacer, y “siempre” extiende esa acción a todo momento sin limitarla a una situación específica. “En el Señor” define el ámbito, manteniendo el centro del pasaje y ubicando el gozo dentro de esa relación.
 
-2. Identifica su inicio
-👉 Ahí comienza la unidad  
+#### Otra vez lo diré: ¡Regocíjense!
+##### Se repite la <u>acción</u> para reforzarla. “Otra vez” señala una repetición intencional que no añade contenido nuevo, sino que reafirma el mismo mandato. La repetición intensifica el énfasis, manteniendo la misma dirección dentro del flujo del pasaje.
 
-3. Sigue línea por línea
+### Filipenses 4:5
+La bondad de ustedes sea conocida de todos los hombres. El Señor está cerca.
 
-4. Detente cuando ocurra:
-👉 cambio en lo que el texto está haciendo  
+#### La bondad de ustedes sea conocida de todos los hombres.
+##### Se introduce una <u>manifestación</u> visible. El mandato apunta a algo que se hace público: “sea conocida” indica que otros la perciben, llevando la acción hacia afuera. “De todos los hombres” amplía el alcance sin limitar el grupo, manteniendo coherencia con el entorno del pasaje.
 
-5. Marca ese punto
-👉 Ahí termina la unidad  
+#### El Señor está cerca.
+##### Se presenta una <u>afirmación</u>. El texto no da un mandato, sino una declaración que indica proximidad. No se desarrolla el sentido en detalle, pero se mantiene conectada con lo anterior, acompañando la exhortación sin cambiar el enfoque.
 
-## REGLA CRÍTICA
+### Filipenses 4:6
+Por nada estén afanosos; antes bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios.
 
-###### ❗ La unidad termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas evaluar contenido en profundidad  
+#### Por nada estén afanosos;
+##### Se introduce una <u>negación</u> directa. El mandato prohíbe un estado específico: “por nada” abarca todo, y “afanosos” describe lo que debe evitarse. Se mantiene el tono exhortativo dentro de la misma línea iniciada en 4:4–5.
 
-## RESULTADO ESPERADO
+#### antes bien, en todo,
+##### Se presenta una <u>alternativa</u>. “Antes bien” marca contraste, cambiando de la negación a la acción, y “en todo” corresponde a “por nada”, manteniendo el paralelismo sin dejar nada fuera.
 
-```
-[INICIO]
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+#### mediante oración y súplica con acción de gracias,
+##### Se introducen los <u>medios</u> y la forma de la acción. “Oración” y “súplica” aparecen unidas dentro del mismo proceso, y “con acción de gracias” añade la manera en que se realizan. No son elementos separados, sino partes de una misma línea.
 
-::RAZÓN::
-no ==podían==
-[FIN]
-```
+#### sean dadas a conocer sus peticiones delante de Dios.
+##### Se define la <u>acción</u> completa. “Sean dadas a conocer” indica la presentación, “sus peticiones” define el contenido, y “delante de Dios” marca la dirección. Así, la secuencia se cierra de forma coherente: negación → alternativa → medios → acción, manteniendo una sola línea sin cambiar el enfoque.
 
-👉 La unidad se mantiene mientras el desarrollo continúa  
+### Filipenses 4:7
+Y la paz de Dios, que sobrepasa todo entendimiento, guardará sus corazones y sus mentes en Cristo Jesús.
 
-## IMPORTANTE
+#### Y la paz de Dios,
+##### Se introduce un <u>resultado</u> conectado directamente con 4:6. La conjunción “y” no inicia una idea aislada, sino que responde a la acción anterior (presentar peticiones a Dios). “De Dios” define la fuente, indicando que esta paz no proviene del sujeto, sino que mantiene su origen en Él, dentro de la misma línea del pasaje.
 
-###### ❗ No fuerzas extensión
-👉 Si no continúa naturalmente, te detienes  
+#### que sobrepasa todo entendimiento,
+##### Se describe la <u>paz</u> mediante una característica. “Sobrepasa” indica que excede, y “todo entendimiento” marca el límite humano. El texto no explica cómo ocurre, sino que afirma su cualidad, manteniendo el énfasis sin introducir un tema nuevo.
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+#### guardará sus corazones y sus mentes en Cristo Jesús.
+##### Se presenta la <u>acción</u> y su alcance. “Guardará” indica una acción futura de protección que recae sobre el sujeto. “Corazones y mentes” amplían el efecto, abarcando el interior completo, y “en Cristo Jesús” define el ámbito donde ocurre, manteniendo el mismo centro del pasaje. Así, la secuencia se mantiene clara: resultado → descripción → acción → alcance → ubicación.
 
-## ENTIENDE
+## Filipenses 4:8–9 Exhorta a pensar y practicar lo correcto
 
-##### Qué estás haciendo realmente
-###### Estás reconociendo dónde el texto completa un desarrollo.
+##### Este bloque mantiene una <u>progresión</u> definida. Primero se establece el enfoque en lo que debe considerarse (v8), luego se pasa a lo que debe practicarse (v9), y finalmente se presenta el resultado. La línea se mantiene como: pensar → practicar → resultado, sin introducir un nuevo tema.
 
-##### PRINCIPIO CLAVE
+### Filipenses 4:8
+Por lo demás, hermanos, todo lo que es verdadero, todo lo digno, todo lo justo, todo lo puro, todo lo amable, todo lo honorable, si hay alguna virtud o algo que merece elogio, en esto mediten.
 
-###### La unidad no se define por contenido  
-###### 👉 se define por continuidad de desarrollo  
+#### Por lo demás, hermanos,
+##### Se introduce una <u>transición</u> dentro del mismo flujo. “Por lo demás” no corta el tema, sino que dirige hacia lo siguiente, manteniendo el mismo grupo (“hermanos”) y la continuidad con 4:4–7.
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio en el desarrollo  
+#### todo lo que es verdadero, todo lo digno, todo lo justo, todo lo puro, todo lo amable, todo lo honorable,
+##### Se presenta una <u>lista</u> mediante repetición. El patrón “todo lo…” se mantiene constante, acumulando criterios sin explicarlos individualmente. Cada elemento se añade dentro de la misma estructura, ampliando el contenido sin cambiar la forma ni introducir variación, manteniendo una secuencia continua.
 
-## ERROR COMÚN
+#### si hay alguna virtud o algo que merece elogio,
+##### Se introduce una <u>ampliación</u> del alcance. La expresión “si hay” abre posibilidad, permitiendo incluir más allá de la lista anterior. “Virtud” y “algo que merece elogio” extienden la misma línea sin reemplazar lo previo, cerrando la expansión dentro del mismo marco.
 
-- Cortar por sentido superficial  
-- Extender por intuición  
-- Ignorar cambio real de desarrollo  
-- Usar contenido como criterio principal  
+#### en esto mediten.
+##### Se establece la <u>acción</u>. El mandato recoge todo lo anterior: “en esto” apunta a la lista completa, y “mediten” indica una actividad mental continua. No se añade contenido nuevo, sino que se dirige la atención hacia lo ya presentado, cerrando la sección con una instrucción clara.
 
-👉 ❌ Incorrecto  
+### Filipenses 4:9
+Lo que también han aprendido y recibido y oído y visto en mí, esto practiquen, y el Dios de paz estará con ustedes.
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo completo  
+#### Lo que también han aprendido y recibido y oído y visto en mí,
+##### Se introduce una <u>referencia</u> a lo previo. El texto agrupa varios aspectos en una sola línea: “han aprendido”, “recibido”, “oído” y “visto en mí”. Estos elementos no presentan contenido nuevo, sino que retoman lo ya dado anteriormente, manteniendo continuidad dentro del mismo desarrollo. La secuencia incluye tanto enseñanza como ejemplo, y “en mí” identifica a Pablo como punto de referencia, conectando con 3:17.
 
-## FRASE CLAVE
-> “La unidad dura mientras el desarrollo no cambia.”
+#### esto practiquen,
+##### Se establece la <u>acción</u>. “Esto” recoge todo lo anterior, y “practiquen” indica ejecución. El texto pasa de recibir (aprender, oír, ver) a hacer, sin romper la línea, sino respondiendo a lo ya recibido dentro del mismo flujo.
 
-## QUÉ DEBES NOTAR
+#### y el Dios de paz estará con ustedes.
+##### Se presenta el <u>resultado</u>. La conjunción “y” conecta con la acción, y “estará con ustedes” indica presencia futura. “Dios de paz” mantiene el mismo agente y el mismo centro del pasaje, cerrando la sección 4:4–9 con una secuencia completa: pensar → practicar → resultado.
 
-###### Ahora puedes ver:
-- dónde comienza el desarrollo  
-- dónde termina naturalmente  
-- cómo el texto se organiza en unidades completas  
+## Filipenses 4:10–14 Expresa contentamiento en toda circunstancia
 
-## TRANSICIÓN
+##### Este bloque mantiene una <u>progresión</u> definida. Se inicia con una expresión de gozo (v10), continúa con una aclaración (v11), describe experiencia en distintas situaciones (v12), presenta una afirmación central (v13), y concluye con un reconocimiento (v14). La línea se mantiene como: gozo → aclaración → experiencia → afirmación → reconocimiento, sin introducir un nuevo tema.
 
-###### En el siguiente paso:
-👉 expresarás la acción del tronco  
-👉 usando la unidad delimitada  
+### Filipenses 4:10
+Me alegré grandemente en el Señor de que ya al fin han reavivado su cuidado para conmigo. En verdad, antes se preocupaban, pero les faltaba la oportunidad.
 
-###### Aquí reconoces el cierre  
-###### 👉 luego expresas
+#### Me alegré grandemente en el Señor
+##### Pablo expresa <u>gozo</u>. El verbo indica una respuesta personal, intensificada por “grandemente”, y ubicada “en el Señor”, manteniendo el mismo ámbito de 4:4. No es un gozo aislado, sino que continúa dentro del mismo marco del pasaje.
 
-# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
+#### de que ya al fin han reavivado su cuidado para conmigo.
+##### Se identifica el <u>motivo</u> del gozo. “Ya al fin” indica que ocurre después de un tiempo, “han reavivado” señala una acción reciente, y “su cuidado para conmigo” define el contenido. El enfoque se mantiene en la relación con ellos, siendo una acción concreta de los filipenses hacia Pablo.
 
-## EJECUTA
+#### En verdad, antes se preocupaban, pero les faltaba la oportunidad.
+##### Se aclara la <u>situación</u> previa. El texto muestra que el cuidado no era inexistente: “antes se preocupaban” indica intención pasada, pero “les faltaba la oportunidad” introduce la limitación. Así, la idea queda completa: había intención, pero no ocasión, y ahora esa acción se ha manifestado dentro del mismo desarrollo.
 
-##### ¿Qué haces?
-###### Escribes una sola oración que expresa la acción del tronco dentro de la unidad delimitada.
+### Filipenses 4:11
+No que hable porque tenga escasez, pues he aprendido a contentarme cualquiera que sea mi situación.
 
-##### REGLA CLAVE
+#### No que hable porque tenga escasez,
+##### Se introduce una <u>aclaración</u>. El texto corrige una posible interpretación del versículo anterior, negando que su expresión esté motivada por necesidad. “No que hable” ajusta cómo debe entenderse lo dicho, y “porque tenga escasez” define el motivo que se niega, manteniendo el mismo enfoque sin cambiar de tema.
 
-###### ❗ Trabajas únicamente con:
-- el tronco (Paso 8)  
-- la unidad delimitada (Paso 12)  
+#### pues he aprendido a contentarme cualquiera que sea mi situación.
+##### Se presenta la <u>razón</u> de la aclaración. “He aprendido” indica un proceso previo, no algo inmediato, y “contentarme” describe un estado interno que no depende de circunstancias externas. La expresión “cualquiera que sea mi situación” amplía el alcance, incluyendo todo tipo de contextos, cerrando la idea en una secuencia coherente: aclaración → aprendizaje → estado → alcance.
 
-👉 No usas contenido externo  
-👉 No usas interpretación  
+### Filipenses 4:12
+Sé vivir en pobreza, y sé vivir en prosperidad. En todo y por todo he aprendido el secreto tanto de estar saciado como de tener hambre, de tener abundancia como de sufrir necesidad.
 
-##### REGLA FUNDAMENTAL
+#### Sé vivir en pobreza, y sé vivir en prosperidad.
+##### Se presentan <u>experiencias</u> en contraste. El verbo “sé vivir” indica conocimiento práctico adquirido, repetido para ambas condiciones, manteniendo la misma estructura. “Pobreza” y “prosperidad” marcan extremos dentro de un mismo rango, estableciendo el contraste sin cambiar la línea.
 
-###### ❗ La oración debe salir directamente del tronco
-👉 Cada elemento debe poder señalarse en las cláusulas  
-👉 No añades contenido  
-👉 No completas ideas  
+#### En todo y por todo he aprendido el secreto
+##### Se resume la <u>experiencia</u> como totalidad. “En todo y por todo” no deja nada fuera, y “he aprendido” refuerza el proceso continuo. “El secreto” define lo aprendido, manteniendo el énfasis en una experiencia adquirida, no automática.
 
-##### ESTRUCTURA DE LA ORACIÓN
-```
-[Autor] + [verbo permitido] + [contenido del tronco]
-```
+#### tanto de estar saciado como de tener hambre, de tener abundancia como de sufrir necesidad.
+##### Se desarrollan <u>ejemplos</u> en paralelismo. El texto presenta pares opuestos: saciado ↔ hambre, abundancia ↔ necesidad, manteniendo la misma estructura en cada caso. Estos ejemplos no introducen nuevas categorías, sino que amplían el rango ya mencionado, cerrando la idea en coherencia con “en todo y por todo”.
 
-##### VERBOS PERMITIDOS
-```
-expone   afirma   declara   muestra   contrasta
-```
+### Filipenses 4:13
+Todo lo puedo en Cristo que me fortalece.
 
-## CÓMO HACERLO
+#### Todo lo puedo en Cristo
+##### Se presenta una <u>afirmación</u> que resume lo anterior (4:11–12). “Todo” recoge todas las situaciones mencionadas, y “lo puedo” indica capacidad. “En Cristo” define el ámbito, mostrando que esta capacidad no es independiente, sino ubicada en Él, manteniendo el mismo centro del pasaje.
 
-1. Toma el tronco dentro de la unidad (Paso 12)
+#### que me fortalece.
+##### Se define el <u>medio</u> de esa capacidad. “Que” conecta directamente con Cristo, y “me fortalece” indica una acción continua. Así, la capacidad expresada depende de Él, cerrando la idea sin introducir otro agente ni cambiar el enfoque.
 
-2. Léelo de principio a fin
+### Filipenses 4:14
+Sin embargo, han hecho bien en compartir conmigo en mi aflicción.
 
-3. Recorre todas las cláusulas del tronco
-👉 No seleccionas  
-👉 Incluyes todas las acciones presentes
+#### Sin embargo,
+##### Se introduce un <u>contraste</u> que equilibra lo dicho en 4:11–13. El texto no corrige lo anterior, sino que añade otra perspectiva dentro de la misma línea. Pablo no depende de la ayuda, pero al mismo tiempo reconoce lo que ellos han hecho, manteniendo ambas ideas juntas sin cambiar el enfoque.
 
-4. Construye una sola oración:
-- usando un verbo permitido  
-- manteniendo el contenido del tronco  
-- respetando la secuencia del texto  
+#### han hecho bien en compartir conmigo
+##### Se reconoce una <u>acción</u>. “Han hecho bien” evalúa positivamente lo ocurrido, y “compartir conmigo” describe la acción, manteniendo una relación directa con Pablo. No se presenta como algo aislado, sino dentro del mismo vínculo que ha sido desarrollado en la carta.
 
-## RESULTADO ESPERADO
+#### en mi aflicción.
+##### Se define el <u>contexto</u> de esa acción. “Aflicción” describe la situación en la que se encuentra Pablo, sin desarrollarla en detalle, pero funcionando como el marco donde ocurre lo anterior. Así, la idea queda completa: contraste → acción → evaluación → contexto, sin introducir un nuevo tema.
 
-###### Tronco:
+## Filipenses 4:15–20 Agradece el apoyo recibido
 
-```
-no ==pude== hablarles
+##### Este bloque mantiene una <u>progresión</u> clara dentro del desarrollo. Se inicia con un recuerdo del comienzo (v15), continúa con la repetición del apoyo (v16), añade una aclaración sobre la intención (v17), describe el estado actual (v18), presenta una proyección (v19), y concluye con un cierre dirigido a Dios (v20). La línea se mantiene como: historia → acción → aclaración → estado → proyección → cierre, sin cambiar de tema.
 
-les ==di==
+### Filipenses 4:15
+Ustedes mismos también saben, filipenses, que al comienzo de la predicación del evangelio, después que partí de Macedonia, ninguna iglesia compartió conmigo en cuestión de dar y recibir, sino solamente ustedes.
 
-no ==podían==
-```
+#### Ustedes mismos también saben, filipenses,
+##### Se introduce un <u>conocimiento</u> compartido. El texto apela a algo que ellos ya conocen: “ustedes mismos” enfatiza a los destinatarios, “también saben” indica que no es información nueva, y “filipenses” identifica claramente al grupo. Esto establece una base común para lo que sigue.
 
-###### Resultado:
+#### que al comienzo de la predicación del evangelio, después que partí de Macedonia,
+##### Se ubica el <u>tiempo</u> y el contexto. “Al comienzo” señala el punto inicial, y “predicación del evangelio” define el marco. “Después que partí de Macedonia” delimita el momento dentro de la secuencia, manteniendo continuidad sin desarrollar detalles adicionales.
 
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
+#### ninguna iglesia compartió conmigo en cuestión de dar y recibir,
+##### Se introduce un <u>contraste</u> general. “Ninguna iglesia” excluye a todos, y “compartió conmigo” define la acción, especificada como “dar y recibir”. El texto establece que no hubo participación general, preparando el énfasis en la excepción.
 
-## REGLA CRÍTICA
+#### sino solamente ustedes.
+##### Se establece la <u>exclusividad</u>. “Sino” introduce la excepción directa, y “solamente ustedes” identifica a los filipenses como los únicos que participaron. Así, la idea se cierra en una secuencia clara: general (ninguna) → excepción (ustedes), reforzando la relación con ellos dentro del mismo desarrollo.
 
-###### ❗ No introduces información nueva
-👉 Si no está en el tronco, no entra  
+### Filipenses 4:16
+Porque aun a Tesalónica enviaron dádivas más de una vez para mis necesidades.
 
-###### ❗ No cambias la acción
-👉 Mantienes los verbos  
-👉 Mantienes el orden  
+#### Porque aun a Tesalónica
+##### Se introduce una <u>explicación</u> que refuerza lo dicho en 4:15. “Porque” conecta directamente con la afirmación anterior, sin añadir un tema nuevo, sino apoyando la misma idea. “Aun” intensifica el ejemplo, y “Tesalónica” ubica el evento, ampliando el alcance de su acción dentro del mismo desarrollo.
 
-## IMPORTANTE
+#### enviaron dádivas más de una vez para mis necesidades.
+##### Se describe la <u>acción</u> con su frecuencia y propósito. “Enviaron” muestra iniciativa, y “dádivas” define el contenido. “Más de una vez” indica repetición en el tiempo, no una acción aislada, y “para mis necesidades” señala el propósito, conectando directamente con Pablo. Así, la idea se completa como una acción continua de apoyo dentro de la misma línea.
 
-###### ❗ Es una sola oración
+### Filipenses 4:17
+No es que busque la dádiva en sí, sino que busco fruto que aumente en su cuenta.
 
-👉 No divides  
-👉 No agregas explicaciones  
+#### No es que busque la dádiva en sí,
+##### Se introduce una <u>aclaración</u> sobre la motivación. El texto niega que la dádiva sea el objetivo en sí mismo. “No es que busque” corrige cómo entender lo anterior, y “en sí” limita esa idea, manteniendo el enfoque sin rechazar la dádiva, sino ajustando su interpretación.
 
-###### ❗ No usas lenguaje interpretativo
+#### sino que busco fruto que aumente en su cuenta.
+##### Se presenta el <u>contraste</u> y el objetivo real. “Sino” marca el cambio de enfoque, y “busco fruto” define lo que sí se persigue. “Que aumente” indica crecimiento, y “en su cuenta” dirige el resultado hacia ellos. El texto no se centra en Pablo, sino en el beneficio de los filipenses, cerrando la aclaración dentro de la misma línea.
 
-❌ “esto enseña…”  
-❌ “esto significa…”  
-❌ “parece que…”  
+### Filipenses 4:18
+Pero lo he recibido todo y tengo abundancia. Estoy bien abastecido, habiendo recibido de Epafrodito lo que han enviado: fragante aroma, sacrificio aceptable, agradable a Dios.
 
-## ENTIENDE
+#### Pero lo he recibido todo y tengo abundancia. Estoy bien abastecido,
+##### Se describe el <u>estado</u> actual de Pablo. El texto afirma suficiencia completa mediante tres expresiones que refuerzan la misma idea: “lo he recibido todo”, “tengo abundancia” y “estoy bien abastecido”. Pablo habla en primera persona, manteniendo la continuidad con 4:11–12 sin introducir una nueva perspectiva.
 
-##### Qué estás haciendo realmente
-###### Estás expresando la acción completa del texto en una sola línea.
+#### habiendo recibido de Epafrodito lo que han enviado:
+##### Se identifica el <u>medio</u> por el cual llega esa suficiencia. “Habiendo recibido” explica cómo se alcanza ese estado, “de Epafrodito” señala al portador, y “lo que han enviado” conecta con los filipenses. La relación se mantiene clara: ellos envían, Epafrodito entrega, Pablo recibe.
 
-##### PRINCIPIO CLAVE
-###### El tronco ya contiene la acción  
-###### 👉 aquí solo la haces explícita  
+#### fragante aroma, sacrificio aceptable, agradable a Dios.
+##### Se presenta una <u>valoración</u> del envío. El texto no describe cantidad, sino calidad, usando lenguaje figurado en forma paralela: “fragante aroma”, “sacrificio aceptable” y “agradable a Dios”. La valoración no queda en Pablo, sino que se dirige a Dios, cerrando la secuencia: recepción → medio → valoración → aceptación, dentro de la misma línea.
 
-##### IDEA CLAVE
-###### No creas la acción  
-###### 👉 la reproduces de forma controlada  
+### Filipenses 4:19
+Y mi Dios proveerá a todas sus necesidades, conforme a sus riquezas en gloria en Cristo Jesús. 
 
-## ERROR COMÚN
-- Agregar ideas externas  
-- Cambiar los verbos  
-- Alterar el orden  
-- Explicar en lugar de declarar  
+#### Y mi Dios proveerá a todas sus necesidades,
+##### Se introduce una <u>promesa</u>. El texto afirma una acción futura de Dios: “mi Dios” identifica al agente, “proveerá” señala una acción hacia adelante, y “todas sus necesidades” define el alcance sin limitación. La provisión no es general, sino dirigida a los filipenses, en continuidad con lo que ellos han hecho anteriormente (4:15–18).
 
-👉 ❌ Incorrecto  
+#### conforme a sus riquezas en gloria en Cristo Jesús.
+##### Se define la <u>medida</u> y el <u>ámbito</u>. “Conforme a” indica el estándar de la provisión, “sus riquezas” señala abundancia que no depende de recursos humanos, y “en gloria” amplía el marco sin desarrollarlo en detalle. “En Cristo Jesús” cierra la afirmación manteniendo el mismo centro del libro. Así, la secuencia queda completa: agente → acción → alcance → medida → ámbito, sin cambiar el enfoque.
 
-##### CORRECTO
-- Usas solo el tronco  
-- mantienes las acciones  
-- produces una sola oración  
+### Filipenses 4:20
+A nuestro Dios y Padre sea la gloria por los siglos de los siglos. Amén.
 
-## FRASE CLAVE
-> “No agrego nada.  
-> Solo expreso lo que el tronco ya hace.”
+#### A nuestro Dios y Padre
+##### Se identifica al <u>destinatario</u>. “Nuestro” indica relación compartida, y “Dios y Padre” une ambas designaciones, manteniendo el enfoque en Él en continuidad con 4:19.
 
-## REGLA DE CONTROL
+#### sea la gloria
+##### Se expresa una <u>atribución</u>. El texto no describe una acción humana, sino que reconoce lo que corresponde a Dios. “Sea” introduce una declaración de reconocimiento, y “la gloria” define lo atribuido.
 
-###### Cada parte de la oración debe poder señalarse en el tronco
-👉 Si no puedes señalarla → está incorrecta  
+#### por los siglos de los siglos. Amén.
+##### Se extiende la <u>duración</u> y se cierra la sección. “Por los siglos de los siglos” indica continuidad sin límite, y “Amén” funciona como conclusión, sin añadir contenido nuevo, cerrando el bloque en una afirmación.
 
-## QUÉ DEBES NOTAR
+## Filipenses 4:21–23 Concluye con saludos finales
 
-###### Ahora puedes ver:
-- la acción completa del texto  
-- el desarrollo como una unidad  
-- la dirección final del pasaje  
+### Filipenses 4:21
+Saluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo los saludan.
 
-## TRANSICIÓN
+#### Saluden a todos los santos en Cristo Jesús.
+##### Se introduce una <u>instrucción</u> de saludo. “Saluden” establece la acción, “a todos” amplía el alcance sin exclusión, y “los santos” identifica al grupo. “En Cristo Jesús” define el marco, manteniendo el mismo centro del libro.
 
-###### Aquí termina el proceso ROOTS
+#### Los hermanos que están conmigo los saludan.
+##### Se amplía el <u>saludo</u>. El texto añade otro origen: “los hermanos” identifica al grupo con Pablo, “que están conmigo” define su ubicación, y “los saludan” repite la misma acción, manteniendo continuidad.
 
-👉 Ya tienes:
+### Filipenses 4:22
+Todos los santos los saludan, especialmente los de la casa de César.
 
-- estructura  
-- comportamiento  
-- patrones  
-- unidad  
-- acción  
+#### Todos los santos los saludan,
+##### Se amplía el <u>grupo</u> que participa. “Todos los santos” extiende el alcance sin introducir una nueva categoría, y “los saludan” mantiene la misma acción iniciada en 4:21.
 
-👉 El texto quedó completamente observado
+#### especialmente los de la casa de César.
+##### Se especifica un <u>subgrupo</u>. “Especialmente” introduce énfasis dentro del grupo general, y “los de la casa de César” identifica ese grupo sin desarrollarlo más, cerrando la idea dentro del mismo marco.
 
-# CONCLUSIONES DE LOS PASOS 1–13
+### Filipenses 4:23
+La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 
-## CONTEXTO DEL TEXTO
+#### La gracia del Señor Jesucristo
+##### Se introduce una <u>bendición</u>. “La gracia” define el contenido, y “del Señor Jesucristo” identifica la fuente, manteniendo el mismo centro del libro.
 
-### ¿Qué haces?
-###### Estableces el marco completo del texto que vas a observar.
+#### sea con el espíritu de ustedes.
+##### Se define el <u>alcance</u> y se cierra la carta. “Sea con” indica dirección, y “el espíritu de ustedes” identifica a los destinatarios. Así, el texto concluye manteniendo la misma línea cristocéntrica, cerrando el libro sin introducir un nuevo tema.
 
-### Definición
-###### Contexto = la unidad + su desarrollo + su acción.
+## En Síntesis
 
-### Cómo hacerlo
+>- Se retoma la exhortación para permanecer firmes en el Señor
+>- Se aplican instrucciones concretas a situaciones específicas
+>- Se mantiene el llamado a una vida visible en conducta y pensamiento
+>- Pablo expresa su experiencia en medio de distintas circunstancias
+>- El cierre incluye gratitud, provisión y una bendición final
 
-1. Toma la unidad delimitada (Paso 12)
+# BIBLIOGRAFIA
 
-2. Toma la acción del texto (Paso 13)
+<https://www.greeknewsagenda.gr/philippi/>
 
-3. Toma los movimientos internos del texto
+<https://historia.nationalgeographic.com.es/a/que-entendian-antiguedad-por-colonia_24146/>
 
-### Resultado
-###### Sabes:
-- qué texto estás observando
-- cómo se desarrolla
-- qué está haciendo
+<https://www.leadbiblically.com/lessons-from-the-philippian-church/>
 
-### Principio clave
-###### El contexto no se añade.
+<https://whc.unesco.org/es/list/1517/>
 
-###### El contexto se establece a partir del texto mismo.
+<https://www.greeknewsagenda.gr/philippi/>
 
-### Frase clave
-> “Observo cada parte dentro de la unidad que el texto define.”
+Conciencia saludable
 
-## H1 — UNIDAD PRINCIPAL
+Diccionario Enciclopédico Ibalpe A-L
 
-### ¿Qué haces?
-###### Nombras la unidad completa del texto.
+Diccionario Expositivo de Palabras del N.T. - W.E. Vine
 
-### Cómo hacerlo
+El blog de The Master´s Seminary
 
-1. Toma la referencia (Paso 12)
+Texto de Louis Werner
 
-2. Toma la oración del Paso 13
+<https://proyectoevanggelio.org/flp12/>
 
-3. Reduce la oración sin añadir ideas
+<https://apps.lib.umich.edu/reading/Paul/contents.html/>
 
-### Resultado esperado
-
-```
-Referencia
-Título
-```
-
-### Ejemplo
-
-```
-Gálatas 2:1–21  
-Pablo expone su interacción con otros y declara la justificación por la fe y su condición en Cristo.
-```
-
-### Regla
-###### El título debe salir del texto.
-
-###### No añade ideas.
-
-###### No interpreta.
-
-### Regla de reducción
-##### El título (H1) es una versión reducida del Paso 13.
-##### Conserva la acción principal
-##### Elimina los desarrollos internos
-
-### Principio clave
-###### El título resume la acción del texto.
-
-### Errores comunes
-- añadir explicación
-- introducir teología
-- usar lenguaje no presente
-
-### Frase clave
-> “Nombró la unidad según lo que el texto hace.”
-
-## H2 — MOVIMIENTOS INTERNOS
-
-### ¿Qué haces?
-###### Identificas y nombras los grupos dentro de la unidad.
-
-### Cómo hacerlo
-
-1. Toma el tronco (Paso 8)
-
-2. Observa los cortes naturales:
-- cambios de sujeto (O1)
-- cambios de desarrollo
-
-3. Agrupa las cláusulas que se mantienen juntas
-
-4. Asigna referencia a cada grupo
-
-5. Nombra cada grupo desde el texto
-
-### Resultado esperado
-
-```
-Referencia   Título
-```
-
-##### Ejemplo
-
-```
-2:1–2   Subida y exposición  
-2:3–10  Interacción  
-2:11–13 Confrontación  
-2:14    Declaración  
-2:15–16 Justificación  
-2:17–21 Condición en Cristo
-```
-
-### Regla
-###### Los grupos no se inventan.
-
-###### Se observan en el desarrollo.
-
-### Principio clave
-###### H2 muestra cómo se mueve el texto dentro de la unidad.
-
-### Errores comunes
-- agrupar por tema
-- dividir demasiado
-- usar títulos interpretativos
-
-### Frase clave
-> “Agrupo lo que el texto mantiene unido.”
-
-## RESULTADO FINAL
-
-### Ahora tienes:
-- la unidad completa del texto
-- su desarrollo interno
-- su acción
-- su contexto establecido
-
-### Estás listo para:
-- observar frase por frase
-- sin perder el desarrollo
-- sin interpretar
-
-# O₂ — OBSERVAR EL TEXTO
-
-## INTRODUCCIÓN
-
-##### Qué haces ahora
-###### Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.
-
-##### Nivel de trabajo
-###### O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.
-
-###### No observas ideas generales.
-
-###### No observas secciones completas.
-
-###### Observas una frase a la vez.
-
-##### Contexto
-###### Cada frase se observa dentro de:
-- la unidad (H1)
-- su movimiento (H2)
-- la acción del texto (Paso 13)
-
-###### ❗ Nunca observas una frase aislada.
-
-##### Propósito
-###### Ver exactamente lo que el texto dice, sin añadir significado.
-
-##### Regla central
-###### No interpretas.
-###### No explicas.
-###### No completas.
-
-###### 👉 Solo observas lo que está presente.
-
-## Naturaleza de esta fase
-
-##### Esta fase es diferente a los pasos anteriores.
-###### En los Pasos 1–13:
-- 👉 debías completar cada paso correctamente
-- 👉 no avanzabas sin haber terminado el anterior
-
-###### En O₂:
-- 👉 no necesitas observar todo perfectamente
-- 👉 puedes avanzar mientras aprendes
-
-##### Principio clave
-###### La observación se desarrolla con la práctica.
-
-###### No se exige perfección desde el inicio.
-
-##### Cómo trabajar
-###### Estas categorías no son una lista obligatoria.
-
-###### Son herramientas para ayudarte a ver mejor el texto.
-- 👉 algunas serán claras de inmediato
-- 👉 otras se desarrollarán con el tiempo
-
-##### Regla
-###### No te detienes por no ver todo.
-
-###### Avanzas observando lo que puedes ver con claridad.
-
-##### Frase clave
->“Observo con precisión lo que puedo ver, y mejoro con la práctica.”
-
-## TRABAJAR CADA FRASE (H4)
-
-##### Qué haces
-###### Tomas una frase ancla (H4) y observas únicamente lo que está en el texto.
-
-##### Regla
-###### No agregas significado
-###### No explicas
-###### No interpretas
-
-###### 👉 Solo afirmas lo que el texto muestra
-
-##### PROCESO FIJO
-###### Para cada frase, puedes observar lo siguiente:
-
-##### 1. AFIRMACIÓN
-- 👉 ¿Qué afirma el texto?
-- 👉 Escríbelo sin cambiar palabras
-
-##### 2. SUJETO
-- 👉 ¿Quién realiza la acción?
-- 👉 ¿Está explícito o implícito?
-
-##### 3. VERBO
-- 👉 ¿Qué acción ocurre?
-- 👉 ¿Cómo está expresada?
-
-##### 4. COMPLEMENTO
-- 👉 ¿Sobre qué recae la acción?
-- 👉 ¿Qué se menciona directamente?
-
-##### 5. RELACIÓN
-- 👉 ¿Cómo se conecta con la frase anterior?
-- 👉 Usa solo lo ya observado (Paso 8–9)
-
-##### 6. REPETICIÓN
-- 👉 ¿Qué palabras o ideas aparecen otra vez?
-
-##### 7. CONTRASTE
-- 👉 ¿Hay oposición directa con otra frase?
-
-##### 8. ÉNFASIS
-- 👉 ¿Qué está resaltado por:
-  - repetición
-  - contraste
-  - posición
-  - formulación?
-
-##### IMPORTANTE
-###### No todas las categorías aplican siempre.
-###### 👉 Solo observas lo que el texto permite ver.
-
-##### RESULTADO
-###### Produces observaciones:
-- claras
-- breves
-- verificables en el texto
-
-##### EJEMPLO (FORMATO)
-
-```
-Frase:
-yo ==di== leche
-
-Observación:
-- sujeto: yo
-- verbo: di
-- complemento: leche
-- relación: continúa la acción anterior
-```
-
-##### REGLA DE CONTROL
-###### Si explicas → te saliste
-###### Si agregas → te saliste
-###### Si interpretas → te saliste
-
-###### Toda observación debe poder señalarse directamente en el texto.
-
-###### ❗ Si no puedes subrayarlo, no es observación.
-###### ❗ Si requiere explicación, es interpretación.
-
-##### ERRORES COMUNES
-- explicar el texto
-- resumir
-- añadir ideas
-- usar lenguaje no presente
-- observar fuera del contexto
-
-##### QUÉ DEBES NOTAR
-
-###### Ahora:
-- ves lo que el texto afirma
-- ves quién actúa
-- ves cómo avanza
-- ves qué repite
-- ves qué contrasta
-
-###### 👉 Estás viendo el contenido real del texto
-
-##### TRANSICIÓN
-###### Después de observar todas las frases:
-- 👉 tendrás el contenido completo
-- 👉 sin haber interpretado
-- 👉 listo para la siguiente fase
-
-# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
-
-## PUNTO DE PARTIDA DEL EJEMPLO
-
-##### Este ejemplo asume que ya se han completado:
-- Pasos 1–13
-- Conclusiones (Contexto, H1, H2)
-
-###### ❗ La observación de lo que dice el texto no comienza desde cero.
-###### ❗ Comienza desde una estructura ya definido.
-
-## CONCLUSIONES DE LOS PASOS 1–13
-
-## H1 — UNIDAD
-
-```
-1 Corintios 3:1–4:21 Pablo expone la condición de los creyentes y su desarrollo.
-```
-
-## H2 — MOVIMIENTOS INTERNOS
-
-```
-3:1–4   Condición de los creyentes  
-3:5–9   Explicación del origen  
-3:10–15 Evaluación de la obra  
-3:16–23 Identidad del creyente  
-4:1–5   Responsabilidad  
-4:6–13  Contraste  
-4:14–21 Exhortación
-```
-
-## CONTEXTO
-
-###### La frase se observa dentro de:
-
-- la unidad completa (3:1–4:21)
-- el movimiento inicial (3:1–4)
-- la acción del texto (Pablo expone la condición)
-
-## O₂ — OBSERVAR EL TEXTO
-
-##### TEXTO — 1 CORINTIOS 3:1
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-
-##### OBSERVACIÓN FRASE POR FRASE (H4)
-
-##### FRASE 1
-
-```
-Así que
-```
-- afirma: introduce consecuencia
-- relación: conecta con lo anterior
-- énfasis: inicio del desarrollo
-
-##### FRASE 2
-
-```
-yo
-```
-- afirma: sujeto explícito
-- sujeto: yo
-- relación: agente de la acción
-
-##### FRASE 3
-
-```
-hermanos
-```
-- afirma: destinatarios
-- relación: dirigido a ellos
-- tipo: vocativo
-
-##### FRASE 4
-
-```
-no pude hablarles
-```
-- afirma: yo no pude hablarles
-- sujeto: yo
-- verbo: pude
-
-- complemento: hablarles
-- relación: acción principal
-
-- morfología (apoyo):
-  - tiempo: pasado
-  - modo: indicativo
-  - voz: activa
-  - negación: no
-- énfasis: negación
-
-##### FRASE 5
-
-```
-como a espirituales
-```
-- afirma: hablar como a espirituales
-- relación: depende de “hablarles”
-- contraste: prepara oposición
-
-- repetición:
-  - “como a …”
-
-##### FRASE 6
-
-```
-sino como a carnales
-```
-- afirma: hablar como a carnales
-- relación: contrasta con “espirituales”
-- contraste:
-  - espirituales ↔ carnales
-
-- repetición:
-  - “como a …”
-
-##### FRASE 7
-
-```
-como a niños en Cristo
-```
-- afirma: hablar como a niños en Cristo
-- relación: añade a “carnales”
-- repetición:
-  - “como a …”
-
-##### RESULTADO CONSOLIDADO
-
-- \scripture{Así que} → consecuencia
-- \scripture{yo} → sujeto
-- \scripture{hermanos} → destinatarios
-- \scripture{no pude hablarles} → acción principal (negada)
-- \scripture{como a espirituales} → forma
-- \scripture{sino como a carnales} → contraste
-- \scripture{como a niños en Cristo} → continuación
-
-
-##### LO QUE ESTE EJEMPLO DEMUESTRA
-
-###### La observación:
-
-- depende de la unidad (H1)
-- depende del movimiento (H2)
-- no ignora ninguna frase
-- no interpreta el texto
-
-##### Principio clave
-###### La precisión no viene de explicar más.
-
-###### 👉 Viene de observar mejor.
-
-##### FRASE CLAVE FINAL
-> “Observo cada frase dentro del texto ya definido.”
-
-# T — TRAZAR EL TEXTO
-
-## INTRODUCCIÓN
-
-##### El problema de ver sin poder decir
-###### Has observado el texto con precisión.
-
-###### Has identificado lo que cada frase dice.
-
-###### Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.
-
-###### ❗ Muchos ven el texto,
-
-###### pero no pueden decirlo sin cambiarlo.
-
-##### El error de buscar lo oculto
-###### Muchos estudiantes de la Biblia buscan:
-- ideas nuevas
-- puntos profundos
-- cosas que nadie ha visto
-
-###### ❗ Pero el texto no está escondiendo su mensaje.
-
-##### Qué hace un buen estudiante
-###### Un buen estudiante no busca lo que no está.
-
-###### 👉 Observa lo que ya está en el texto.
-###### 👉 Y puede expresarlo con claridad y fidelidad.
-
-##### Principio clave
-###### La precisión no está en descubrir algo nuevo.
-
-###### 👉 Está en decir correctamente lo que ya está.
-
-##### Qué haces ahora
-###### Tomas cada frase (H4) y la expresas de forma clara y fiel.
-
-##### Nivel de trabajo
-###### T trabaja en el nivel de la \textbf{frase (H4)}.
-
-###### No trabajas secciones completas.
-
-###### No resumes el texto.
-
-###### 👉 Trabajas una frase a la vez.
-
-##### Propósito
-###### Entrenar tu capacidad de expresar el texto sin añadir, sin omitir y sin cambiar.
-
-##### Naturaleza de esta fase
-###### Este paso no añade contenido nuevo.
-
-###### Este paso toma lo observado (O₂)
-
-###### y lo convierte en expresión clara.
-
-###### 👉 Es una prueba de fidelidad y claridad.
-
-##### Frase clave
->“Digo la frase tal como el texto la presenta.”
-
-## EJECUTA
-
-##### ¿Qué haces?
-###### Expresas cada frase del texto de forma clara,
-
-###### manteniendo exactamente lo que dice.
-
-##### Regla
-###### No explicas
-###### No interpretas
-###### No agregas
-###### No reduces
-
-###### 👉 Solo expresas lo que el texto dice
-
-##### Cómo hacerlo
-
-1. Toma una frase (H4)
-
-2. Usa lo observado en O₂
-
-3. Exprésala en una oración clara
-
-4. Mantén:
-- el sujeto
-- la acción (si la hay)
-- el contenido
-
-##### Nota importante
-###### Algunas frases no son completas por sí solas.
-
-###### En esos casos:
-- 👉 usas el contexto inmediato
-- 👉 completas la expresión sin añadir ideas
-
-###### ❗ No explicas
-###### ❗ No cambias palabras
-
-##### Resultado esperado
-
-###### Una expresión clara de la frase,
-
-###### completamente trazable al texto.
-
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
-
-###### ❗ Solo puedes reorganizar para claridad
-
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
-
-###### ❗ Solo puedes reorganizar para claridad
-
-## EJEMPLO
-
-##### Frase:
-```
-sino como a carnales
-```
-
-##### Observación (O₂):
-- afirma: forma de hablar como a carnales
-- relación: contrasta con “espirituales”
-
-##### Trazado:
-```
-Pablo les habló como a carnales.
-```
-
-## COMPARACIÓN
-
-##### Incorrecto (explicación):
-```
-Pablo dice que ellos eran carnales.
-```
-
-##### Incorrecto (incompleto):
-```
-como a carnales
-```
-
-##### Correcto:
-```
-Pablo les habló como a carnales.
-```
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Estás convirtiendo observación en expresión fiel.
-
-##### Principio clave
-###### Ver el texto no es suficiente.
-
-###### 👉 Debes poder decirlo correctamente.
-
-##### Idea clave
-###### No mejoras el texto.
-###### No lo explicas.
-
-###### 👉 Lo expresas tal como está.
-
-##### Regla de control
-###### Si cambias el contenido → fallaste
-###### Si agregas ideas → fallaste
-###### Si omites partes → fallaste
-
-##### Errores comunes
-- explicar en lugar de decir
-- añadir palabras no presentes
-- omitir elementos
-- cambiar el sentido
-
-##### Qué debes notar
-
-###### Cuando lo haces correctamente:
-- la frase se mantiene fiel
-- el contenido es claro
-- puedes expresarla sin distorsión
-
-##### Formación
-
-###### Este paso te entrena a:
-- hablar el texto con precisión
-- mantener su contenido
-- comunicar sin distorsionar
-
-###### 👉 Te prepara para enseñar fielmente
-
-##### Frase clave final
-> “No busco lo oculto; expreso lo evidente.”
-
-##### Transición
-###### Ahora no solo ves el texto, puedes expresarlo correctamente.
-
-###### 👉 Estás listo para someterte a lo que el texto dice.
-
-# S — SINTETIZAR
-
-## EJECUTA
-
-##### ¿Qué haces?
-###### Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.
-
-##### Regla
-
-###### Trabajas únicamente con:
-- la unidad delimitada (Paso 12)
-- los patrones extendidos (Paso 11)
-- el tronco (Paso 8)
-
-###### ❌ No agregas ideas
-###### ❌ No explicas
-###### ❌ No corriges el texto
-
-- 👉 Solo verificas y expresas
-
-##### Cómo hacerlo
-
-1. Recorre toda la unidad desde el inicio hasta el final
-
-2. Confirma en cada línea:
-- 👉 pertenece a un patrón identificado
-- 👉 mantiene el comportamiento esperado
-- 👉 encaja en el flujo general
-
-3. Haz esta pregunta clave:
-- 👉 ¿se sostiene toda la unidad sin romperse?
-
-##### Regla de control
-###### Si algo no encaja:
-- 👉 no sintetizas
-- 👉 vuelves a Paso 10–11
-
-1. Si todo se sostiene:
-- 👉 escribe una sola oración usando este formato:
-
-- \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
-
-##### Resultado esperado
-- 👉 Una sola oración que:
-
-- representa toda la unidad
-- refleja el flujo completo
-- no añade ni omite contenido
-
-## ENTIENDE
-
-##### Qué estás haciendo realmente
-###### Estás cerrando el proceso completo del análisis.
-
-##### Principio clave
-###### No puedes sintetizar lo que no se sostiene.
-
-##### Idea clave
-###### La síntesis no descubre.
-
-###### 👉 Confirma y expresa lo que ya es claro.
-
-##### Advertencia
-###### Si necesitas explicar, te saliste del paso.
-
-###### Si agregas ideas, te saliste del paso.
-
-###### Si dudas, el flujo no está claro.
-
-##### Resultado mental esperado
-
-###### Ahora tienes:
-- una unidad verificada
-- un flujo coherente
-- una expresión fiel del texto
-
-##### Frase clave final
-> “Solo expreso lo que el texto ya sostiene.”
-
-# CIERRE
-
-### Has llegado al final del proceso
-###### No comenzaste con ideas.
-
-###### No comenzaste con interpretación.
-
-###### Comenzaste con el texto.
-
-### Lo que hiciste
-###### Observaste cómo está construido
-
-###### Observaste lo que dice
-
-###### Seguiste su desarrollo
-
-### Y ahora
-###### No estás sobre el <u>texto</u>.
-- 👉 Estás bajo él
-
-### Principio final
-###### El texto no necesita ser completado
-
-###### El texto no necesita ser ajustado
-- 👉 El texto ya comunica
-
-### Lo que queda
-###### No es explicar el texto
-
-###### No es defenderlo
-###### No es adaptarlo
-- 👉 Es dejar que el texto tenga la <u>última</u> palabra
-
-### Frase final
-```
-“Dios habló.
-Yo observo.
-Sigo el desarrollo del texto.
-Me someto al texto.”
-```
-
-##### Última línea
-###### RO₁O₂TS no es un método para enseñar el texto.
-###### 👉 Es un proceso para dejar que el texto hable.
-
-# EJERCICIOS — PRÁCTICA REAL
-
-## PROPÓSITO
-
-##### Qué vas a hacer
-
-###### Vas a ejecutar RO₁O₂TS en textos completos.
-
-###### 👉 No fragmentos
-
-###### 👉 No niveles
-
-###### 👉 No partes aisladas
-
-👉 Texto completo → proceso completo
-
-------
-
-##### Regla clave
-
-###### ❗ Solo necesitas ver una cosa:
-
-👉 \textbf{Qué pasa en Paso 10}
-
-- ¿hay patrón?
-- ¿se repite?
-- ¿se rompe?
-
-------
-
-##### Límite
-
-###### Máximo 2 ejercicios.
-
-###### 👉 Bien hechos
-
-###### 👉 No muchos
-
-------
-
-# EJERCICIO 1 — REPETICIÓN CLARA
-
-##### TEXTO — 1 Corintios 3:6–8
-
-```
-Yo planté, Apolos regó, pero Dios daba el crecimiento.
-
-Así que ni el que planta ni el que riega son algo,
-sino Dios que da el crecimiento.
-
-El que planta y el que riega son una misma cosa,
-pero cada uno recibirá su propia recompensa conforme a su labor.
-```
-
-------
-
-## EJECUTA
-
-1. Pasos 1–7 normalmente
-2. Identifica el tronco (Paso 8)
-3. Marca:
-   - [S]
-   - [M]
-   - etiquetas (Paso 9)
-4. Llega a Paso 10
-
-------
-
-## ENFOQUE
-
-##### Qué debes ver
-
-- repetición de ideas
-- contraste con Dios
-- continuidad del tema
-
-👉 Este texto \textbf{sí tiene patrón claro}
-
-------
-
-# EJERCICIO 2 — PROGRESIÓN CLARA
-
-##### TEXTO — Colosenses 1:9–12
-
-```
-Por esta razón también nosotros, desde el día que lo supimos,
-no hemos cesado de orar por ustedes
-
-y de pedir que sean llenos del conocimiento de su voluntad
-
-en toda sabiduría y comprensión espiritual,
-
-para que anden como es digno del Señor,
-
-agradándole en todo,
-
-dando fruto en toda buena obra
-
-y creciendo en el conocimiento de Dios;
-
-fortalecidos con todo poder
-
-según la potencia de su gloria,
-
-para obtener toda perseverancia y paciencia,
-
-con gozo dando gracias al Padre.
-```
-
-------
-
-## EJECUTA
-
-1. Pasos 1–7
-2. Paso 8 → tronco
-3. Paso 9 → etiquetas
-4. Paso 10 → patrón
-
-------
-
-## ENFOQUE
-
-##### Qué debes ver
-
-- desarrollo progresivo
-- encadenamiento
-- avance continuo
-
-👉 Este texto \textbf{no repite → avanza}
-
-------
-
-# ⚠️ REGLA FINAL
-
-##### Si no ves Paso 10
-
-###### 👉 no hiciste bien Paso 8–9
-
-------
-
-- # RESPUESTAS — CORREGIDO
-
-  ------
-
-  # RESPUESTA 1 — 1 Corintios 3:6–8
-
-  ## PASO 8 — TRONCO
-
-  ```
-  [S: yo → Apolos]
-  Apolos ==regó==
-  
-  [S: Apolos → Dios]
-  (pero) Dios ==daba==
-  
-  [S: Dios → ellos]
-  no ==son== algo
-  
-  [S: ellos → Dios]
-  (sino) Dios ==da==
-  
-  [S: Dios → ellos]
-  ==son== una misma cosa
-  
-  [S: ellos → cada uno]
-  (pero) cada uno ==recibirá==
-  ```
-
-  👉 No [M] (no cambio estructural verificable en griego)
-
-  ------
-
-  ## PASO 9 — COMPORTAMIENTO
-
-  ```
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
-
-  ------
-
-  ## PASO 10 — SECCIONES
-
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
-
-  👉 ❗ No hay [M]
-   👉 ❗ Todo es UNA sola sección
-
-  ------
-
-  ## RESULTADO CLAVE
-
-  👉 El estudiante debe ver:
-
-  - continuidad (no ruptura)
-  - contraste repetido
-  - pero SIN división estructural
-
-  ------
-
-  # RESPUESTA 2 — Colosenses 1:9–12
-
-  ## PASO 8 — TRONCO
-
-  ```
-  [S: nosotros]
-  no ==hemos cesado==
-  
-  [S: nosotros → ustedes]
-  ==sean llenos==
-  
-  ==anden==
-  
-  ==agraden==
-  
-  ==den fruto==
-  
-  ==crezcan==
-  
-  ==sean fortalecidos==
-  
-  ==obtengan==
-  
-  ==den gracias==
-  ```
-
-  👉 No [M]
-   👉 Todo depende de estructura continua
-
-  ------
-
-  ## PASO 9 — COMPORTAMIENTO
-
-  ```
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
-
-  ------
-
-  ## PASO 10 — SECCIONES
-
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
-
-  👉 ❗ No hay [M]
-   👉 ❗ Una sola sección continua
-
-# GLOSARIO BÁSICO
-
-### VERBO
-##### Palabra que expresa una acción o estado.
-
-### SUJETO
-##### Quien realiza la acción del verbo.
-
-### COMPLEMENTO
-###### Lo que recibe o completa la acción del verbo.
-
-### CLÁUSULA
-###### Unidad con verbo que expresa una idea.
-
-### CONECTOR
-###### Palabra que une cláusulas y muestra su relación.
-
-### TRONCO
-###### Conjunto de cláusulas principales que sostienen el desarrollo del texto.
-
-### COMPORTAMIENTO
-###### Función que una cláusula cumple dentro del desarrollo del texto.
-
-### PATRÓN
-###### Secuencia de comportamiento que se repite.
-
-### UNIDAD
-###### Tramo completo donde el mismo desarrollo se mantiene.
-
-### MORFOLOGÍA
-###### Forma de una palabra y lo que esa forma indica.
-
-### VERBO FINITO
-###### Verbo que está conjugado y expresa persona y número.
-
-### TIEMPO (VERBO)
-###### Indica cuándo ocurre la acción (pasado, presente, futuro).
-
-### MODO (VERBO)
-###### Indica cómo se presenta la acción.
-- indicativo → como real
-- subjuntivo → como posibilidad o condición
-- imperativo → como mandato
-
-### VOZ
-###### Relación entre el sujeto y la acción.
-- activa → el sujeto hace la acción
-- pasiva → el sujeto recibe la acción
-
-### PERSONA
-###### Quién realiza la acción.
-- primera → yo / nosotros
-- segunda → tú / ustedes
-- tercera → él / ellos
-
-### NÚMERO
-###### Cantidad del sujeto.
-- singular → uno
-- plural → más de uno
-
-### NOMINATIVO
-###### Caso que normalmente indica el sujeto.
-
-### ACUSATIVO
-###### Caso que normalmente indica el objeto directo.
-
-### GENITIVO
-###### Caso que indica relación o posesión.
-
-### DATIVO
-###### Caso que indica destinatario o beneficio.
-
-### VOCATIVO
-###### Caso que indica llamado directo.
-
-### INDICATIVO
-###### Modo verbal que presenta la acción como real.
-
-### SUBJUNTIVO
-###### Modo verbal que presenta la acción como posible o condicionada.
-
-### IMPERATIVO
-###### Modo verbal que expresa mandato.
-
-### CONTRASTE
-###### Relación donde una idea se opone a otra.
-
-### REPETICIÓN
-###### Elemento que aparece más de una vez en el texto.
-
-### ÉNFASIS
-###### Elemento que el texto resalta por repetición, posición o contraste.
