@@ -324,7 +324,7 @@ Siempre ==doy gracias== a mi Dios
 
 ​				(así como) el testimonio acerca de Cristo ==fue confirmado== en ustedes; de manera que nada 				les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo. 
 
-Él también los ==confirmará== hasta el fin, 
+​				Él también los ==confirmará== hasta el fin, 
 
  Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
 
@@ -421,9 +421,6 @@ Pues ==consideren==, hermanos, su llamamiento.
 S: [1S - yo]
 Siempre ==doy gracias== a mi Dios 
 
-S: [1S-3S - yo - Él]
-Él también los ==confirmará== hasta el fin, 
-
 S: [3S-2P]
 Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
 
@@ -484,9 +481,6 @@ S: [3S-3S - Dios - el que se gloría]
 
 S: [1S - yo]
 ::EXPONE:: Siempre ==doy gracias== a mi Dios 
-
-S: [1S-3S - yo - Él]
-::EXPONE:: Él también los ==confirmará== hasta el fin, 
 
 S: [3S-2P]
 ::EXPONE:: Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
@@ -550,9 +544,6 @@ S: [3S-3S - Dios - el que se gloría]
 
 S: [1S - yo]
 ::EXPONE:: Siempre ==doy gracias== a mi Dios 
-
-S: [1S-3S - yo - Él]
-::EXPONE:: Él también los ==confirmará== hasta el fin, 
 
 S: [3S-2P]
 ::EXPONE:: Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
@@ -620,8 +611,6 @@ S: [3S-3S - Dios - el que se gloría]
 ::EXPONE:: 
 
 Siempre ==doy gracias== a mi Dios 
-
-Él también los ==confirmará== hasta el fin, 
 
 Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
 
@@ -695,8 +684,6 @@ Pues ==consideren==, hermanos, su llamamiento.
 ::EXPONE:: 
 
 Siempre ==doy gracias== a mi Dios 
-
-Él también los ==confirmará== hasta el fin, 
 
 Fiel es Dios, por medio de quien ==fueron llamados== a la comunión con Su Hijo
 
