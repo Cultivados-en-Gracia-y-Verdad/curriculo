@@ -124,13 +124,17 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 
 #### esperando ansiosamente la revelación de nuestro Señor Jesucristo
 
+##### Los Corintos son descritos como esperando que Jesucristo sea manifestado. 
+
+##### La revelación de Cristo entonces, es algo futuro a lo que Pablo se refiere, y los corintos estan viviendo ahora esperándolo.
+
 ### 1 Corintios 1:8
 
 Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 
 #### Él también los confirmará hasta el fin
 
-##### 
+##### En vista a la manifestación de Cristo, no hay razón de temerla, sino mas bien una seguridad de unn poder para confirmarlos hasta el fin. 
 
 #### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 
