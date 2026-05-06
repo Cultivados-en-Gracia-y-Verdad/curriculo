@@ -1,6 +1,6 @@
 # 1 CORINTIOS 
 
-## Saludo 1 Corintios 1:1-9
+## 1 Corintios 1:1-10 - Saludo y razón de la carta 
 
 ### 1 Corintios 1:1 
 
@@ -8,9 +8,23 @@ Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstene
 
 #### Pablo
 
-#### llamado *a ser* apóstol de Jesucristo por la voluntad de Dios
+##### Pablo se introduce como el escritor de la carta a los corintos.
+
+#### llamado *a ser* apóstol de Jesucristo 
+
+##### Pablo fue llamado no busco ser apóstol. 
+
+##### Pablo era exclusivamente un apóstol de Jesucristo.
+
+#### por la voluntad de Dios
+
+##### Fue Dios quien quiso que Pablo sea un apóstol de Jesucristo. El apostolado de Pablo no era por que algún hombre quiso enviarlo, sino porque Dios mismo quiso así. 
 
 #### y Sóstenes, nuestro hermano
+
+##### Junto con Pablo se encuentra Sóstenes, un hermano tanto de Pablo como de los Corintos.
+
+##### Ambos son presentados aquí como los que están siendo parte de este saludo introductorio a la carta.
 
 ### 1 Corintios 1:2
 
@@ -18,39 +32,113 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 
 #### a la iglesia de Dios que está en Corinto
 
+##### Pablo y Sóstenes dirigen la carta a sus hermanos, los miembros del cuerpo de Cristo, que vivían en la regíon de Corinto. 
+
+##### Son descritos como la iglesia de Dios.
+
+##### Los creyentes n o son descritos por Pablo individualmente, sino como un todo: "la iglesia". Cada uno de los hermanos en Corinto era parte de una sola iglesia.
+
+##### Pablo hace énfasis, es la iglesia "de" Dios.
+
 #### a los que han sido santificados en Cristo Jesús
+
+##### La iglesia de Dios que esta en Corinto, tambien es descrita como aquellos que "han sido santificados en Cristo Jesús".
+
+##### Esta es una realidad de la iglesia en Corinto, ellos han sido santificados y eso ha sucedido en la persona de Jesucristo.
+
+##### Pablo no habla de algo que deba pasar en ellos, sino de algo que ya paso, y que fue hecho a ellos, no por ellos.
 
 #### llamados *a ser* santos
 
+##### Debido a la obra de Dios de santificarlos, los Corintos son ahora llamados santos. 
+
 #### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro:
+
+##### Esta no es solamente una realidad de los corintos sino de todos los que invocan en nombre de Jesucristo. Todos los creyentes, o miembros de la iglesia de Dios son santos debido a que han sido santificados.
 
 ### 1 Corintios 1:3
 
 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
 
+#### Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
+
+##### Pablo y Sóstenes les desean tanto gracia como paz.
+
+##### Ambas provienen de parte de Dios y de Jesucristo. 
+
+##### Este es el saludo que Pablo hace en todos sus escritos.
+
 ### 1 Corintios 1:4
 
 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
+
+#### Siempre doy gracias a mi Dios por ustedes
+
+##### Pablo estaba agradecido a Dios por los Corintos. Esto gratitud, era expresada a Dios de continuo por Pablo.
+
+#### por la gracia de Dios que les fue dada en Cristo Jesús.
+
+##### Los Corintos eran especiales debido a la gracia de Dios que habían recibido en la persona de Cristo. 
+
+##### Pablo expresa esta gracia como algo dado a ellos y no alcanzado por ellos. No estaban en una posición que habían alcanzado, sino una que habían recibido. 
+
+##### Esta gracia era de Dios para ellos. La gracia tiene la dirección de Dios hacia el hombre. 
 
 ### 1 Corintios 1:5
 
 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento
 
+#### Porque en todo ustedes fueron enriquecidos en Él
+
+##### Los Corintos son descritos como enriquecidos. Es un realidad que los describe no algo que deban alcanzar.
+
+##### Este enriquecimiento es en todo, mostrando una realidad de ellos en la que nada les falta debido a lo que han recibido en Cristo. 
+
+##### No fueron enriquecidos aparte de la persona de Cristo, sino que en la persona de Cristo fueron enriquecidos en todo.  
+
+#### en toda palabra y en todo conocimiento
+
+##### No es un riqueza material, sino en palabra y conocimiento. Colosenses 2:3
+
+###### Cristo ha sido dado para que pueda ser conocido, y en su conocimiento comprendemos la verdadera riqueza que ya poseemos en él. 
+
 ### 1 Corintios 1:6
 
 así como el testimonio acerca de Cristo fue confirmado en ustedes
+
+#### así como el testimonio acerca de Cristo fue confirmado en ustedes
+
+##### Esta es algo que ya ha sucedido "en" los corintos.
+
+##### El conector "así como", hace que esta clausula explique lo que dijo con anterioridad. Es decir, que fueron enriquecidos equivale a que el testimonio de Cristo fue confirmado en ellos.  
 
 ### 1 Corintios 1:7
 
 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo
 
+#### de manera que nada les falta en ningún don
+
+##### Como resultado de lo que Dios hizo en ellos, o la gracia que recibieron de parte de Dios, los corintos estan completos, y no hay nada que les falte.
+
+##### No hay don de parte de Dios, que no les haya sido dado. Ellos tienen todo don a su disposición.
+
+#### esperando ansiosamente la revelación de nuestro Señor Jesucristo
+
 ### 1 Corintios 1:8
 
 Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 
+#### Él también los confirmará hasta el fin
+
+##### 
+
+#### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
+
 ### 1 Corintios 1:9
 
 Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
+
+#### Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
 
 ### 1 Corintios 1:10
 
@@ -61,6 +149,8 @@ Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se po
 #### y que no haya divisiones entre ustedes, 
 
 #### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer. 
+
+## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste con la realidad de Cristo
 
 ### 1 Corintios 1:11
 
