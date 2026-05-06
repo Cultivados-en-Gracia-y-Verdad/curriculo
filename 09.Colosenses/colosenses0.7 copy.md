@@ -2,7 +2,7 @@
 title: "Colosenses"
 subtitle: "La plenitud de la Deidad reside en Cristo"
 author: CGV
-version: 0.7
+version: 0.8
 date: 2026-04-25
 cover: "images/Caratula.png"
 ---
