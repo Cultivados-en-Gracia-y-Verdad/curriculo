@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Titulo del libro.md",
+                "file": "12.Filemón/FILEMÓN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titulo del libro"
+              "title": "FILEMÓN"
             }
           }
         ]
@@ -185,18 +185,41 @@
   },
   "active": "6254834aa1b8e36b",
   "lastOpenFiles": [
-    "Spanish-Print-Pkg-Dec.-2013.pdf",
-    "Spanish-Display-Pkg-Dec.-2013.pdf",
+    "content/roots/scripts/split-morphgnt.awk",
+    "content/roots/scripts/README.md",
+    "content/roots/scripts/mna-pass4.awk",
+    "content/roots/scripts/mna-pass3.awk",
+    "content/roots/scripts/mna-pass2.awk",
+    "content/roots/scripts/mna-pass1.awk",
+    "content/roots/scripts/debug.log",
+    "content/roots/scripts/build-mna.awk",
+    "content/roots/scripts/build-index.js",
+    "content/roots/scripts/build-dataset.awk",
+    "content/roots/scripts/add_nbla.awk",
+    "content/roots/scripts",
+    "11.1Corintios/13 PASOS/Cap6.md",
+    "11.1Corintios/13 PASOS/Cap5.md",
+    "11.1Corintios/13 PASOS/Cap4.md",
+    "11.1Corintios/13 PASOS/Cap3.md",
+    "11.1Corintios/13 PASOS/Cap2.md",
+    "11.1Corintios/13 PASOS/Cap1.md",
+    "11.1Corintios/1 CORINTIOS solo texto.md",
+    "11.1Corintios/1 CORINTIOS 0.01.md",
+    "10.Filipenses/roots.md",
+    "10.Filipenses/images/portada2.png",
+    "10.Filipenses/images/portada.png",
+    "10.Filipenses/Filipenses-ROOTS.md",
+    "10.Filipenses/Filipenses(v.0.6).md",
+    "10.Filipenses/Filipenses(v.0.5).md",
+    "08.Navegando-el-texto/images/conectores-griego.png",
     "Sin título.md",
     "readme.md",
     "index.md",
     "Lista-de-Materias.md",
-    "El Evangelio-al creyente.pdf",
     "Ejercicio ROOTS de Judas.md",
     "Ejercicio Corintios 3.md",
     "alfa.png",
     "📘 Estándar de redacción para manuales y presentaciones (Markdown).md",
-    "Sin nombre",
-    "Titulo del libro.md"
+    "12.Filemón/FILEMÓN.md"
   ]
 }
