@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "ef98d4afd16e30ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e94e957f536d942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6254834aa1b8e36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Titulo del libro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Titulo del libro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b83dc0d6af9cfa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3d7b6a8ab1c5c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141c014ea361c3a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3fa31b97c2fc001e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "aca5c5109b4c1bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fe102b71863a37f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2554014e29e882e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2937bb244cddbe2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ejercicio Corintios 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Ejercicio Corintios 3"
+            }
+          },
+          {
+            "id": "08e7f1497baa1664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ejercicio Corintios 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Ejercicio Corintios 3"
+            }
+          },
+          {
+            "id": "91331bbdfc971609",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c91383d0f49e23d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2945c8d8b2f42981",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ejercicio Corintios 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Ejercicio Corintios 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "6254834aa1b8e36b",
+  "lastOpenFiles": [
+    "Spanish-Print-Pkg-Dec.-2013.pdf",
+    "Spanish-Display-Pkg-Dec.-2013.pdf",
+    "Sin título.md",
+    "readme.md",
+    "index.md",
+    "Lista-de-Materias.md",
+    "El Evangelio-al creyente.pdf",
+    "Ejercicio ROOTS de Judas.md",
+    "Ejercicio Corintios 3.md",
+    "alfa.png",
+    "📘 Estándar de redacción para manuales y presentaciones (Markdown).md",
+    "Sin nombre",
+    "Titulo del libro.md"
+  ]
+}
