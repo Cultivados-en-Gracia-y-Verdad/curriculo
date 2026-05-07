@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Filipenses"
-FILE_LOCATION="../10.Filipenses"
-FILENAME="/Filipenses(v.0.6).md"
+MANUAL_NAME="Romanos 1-8"
+FILE_LOCATION="../06.Romanos1-8"
+FILENAME="/Romanos1-8(v.1.0).md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
