@@ -1,0 +1,47 @@
+/* Vertical Passage Styles */
+section#work div#foot
+{
+    height: 54px;
+}
+section#display
+{
+    padding: 0 1em;
+    background-color: rgba(255, 254, 251, 0.7);
+    border: 3px double #217438;
+    max-width: 30em;
+    direction: rtl;
+    overflow: auto;
+}
+/* Structure Styles */
+section#display div
+{
+    border: 1px solid transparent;
+    border-left-width: 0.4em;
+    padding: 0.1em 0.3em;
+    margin: 1px;
+}
+section#display div.level0
+{
+    border-color: #80c;
+    background-color: rgba(255, 254, 251, 0.7);
+}
+section#display div.level1
+{
+    border-color: #2d1;
+}
+section#display div.level2
+{
+    border-color: #d32;
+}
+section#display div.level3
+{
+    border-color: #48c;
+}
+section#display div.level4
+{
+    border-color: #ee3;
+}
+section#display div.level5
+{
+    border-color: #e4a;
+}

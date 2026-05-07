@@ -1,0 +1,619 @@
+<link rel="stylesheet" href="/css/roots.css">
+<link rel="stylesheet" href="/css/custom.css">
+<h1></h1>
+
+
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
+
+<div class="roots-page-content">
+  <h1></h1>
+
+  <hr>
+
+  <div class="roots-content">
+    <h1 id="roots--generation-spec-awk-pipeline">ROOTS — GENERATION SPEC (AWK PIPELINE)</h1>
+<hr>
+<h2 id="1-purpose">1. PURPOSE</h2>
+<p>This document defines the <strong>programmatic rules</strong> for generating the ROOTS dataset from:</p>
+<ul>
+<li>SBLGNT (via MorphGNT)</li>
+<li>NBLA (controlled local file)</li>
+</ul>
+<p>The system must:</p>
+<ul>
+<li>extract data deterministically</li>
+<li>preserve full morphology</li>
+<li>include all verbs and connectors</li>
+<li>fail on any inconsistency</li>
+</ul>
+<hr>
+<h2 id="2-core-principle">2. CORE PRINCIPLE</h2>
+<blockquote>
+<p>❗ The script does not interpret
+❗ The script does not decide structure
+❗ The script extracts and enforces</p>
+</blockquote>
+<hr>
+<h2 id="3-input-requirements">3. INPUT REQUIREMENTS</h2>
+<h3 id="greek-source">Greek Source</h3>
+<pre tabindex="0"><code>content/roots/SBLGTN/MorphGNT/{book}-morphgnt.txt
+</code></pre><p>Must contain:</p>
+<ul>
+<li>verse references</li>
+<li>Greek words</li>
+<li>morphology codes</li>
+</ul>
+<hr>
+<h3 id="nbla-source">NBLA Source</h3>
+<pre tabindex="0"><code>content/roots/NBLA/{book}.nbla.md
+</code></pre><p>Must contain:</p>
+<ul>
+<li>exact verse text</li>
+<li>consistent verse references</li>
+</ul>
+<hr>
+<h2 id="4-output-format-locked">4. OUTPUT FORMAT (LOCKED)</h2>
+<p>Each verse must be:</p>
+<pre tabindex="0"><code>### Book Chapter:Verse {#id}
+
+Greek text (exact)
+
+[NBLA text (exact, unchanged)]
+
+- GreekVerb (Morphology) Spanish [F/NF]
+
+- GreekConnector → (Spanish)
+</code></pre><hr>
+<h2 id="5-verse-structure-rules">5. VERSE STRUCTURE RULES</h2>
+<p>Each verse MUST contain:</p>
+<ul>
+<li>header line</li>
+<li>Greek line</li>
+<li>NBLA line</li>
+<li>one blank line after block</li>
+</ul>
+<hr>
+<h3 id="failure-conditions">FAILURE CONDITIONS</h3>
+<p>If any are missing:</p>
+<pre tabindex="0"><code>ERROR: Missing structure → {reference}
+exit 1
+</code></pre><hr>
+<h2 id="6-verb-rule-mandatory">6. VERB RULE (MANDATORY)</h2>
+<h3 id="all-verbs-must-be-listed">ALL verbs must be listed</h3>
+<p>No filtering. No exceptions.</p>
+<hr>
+<h3 id="each-verb-must-include">Each verb must include:</h3>
+<ul>
+<li>Greek form</li>
+<li>full morphology (unchanged)</li>
+<li>Spanish mapping</li>
+<li><code>[F]</code> or <code>[NF]</code></li>
+</ul>
+<hr>
+<h3 id="finite-classification-rmac-based">Finite classification (RMAC-based)</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Pattern</th>
+          <th>Type</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>V-??I-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-??S-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-??M-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-P…</td>
+          <td>non-finite</td>
+      </tr>
+      <tr>
+          <td>V-N…</td>
+          <td>non-finite</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="format">Format</h3>
+<pre tabindex="0"><code>- ἠδυνήθην (V-ADI-1S) ==pude== [F]
+- λαλῆσαι (V-AAN) hablar [NF]
+</code></pre><hr>
+<h3 id="enforcement">Enforcement</h3>
+<pre tabindex="0"><code>if (morph ~ /^V-/) {
+    if (morph ~ /^V-..[ISM]-/) {
+        tag = &#34;[F]&#34;
+    } else {
+        tag = &#34;[NF]&#34;
+    }
+}
+</code></pre><hr>
+<h2 id="7-connector-rule-mandatory">7. CONNECTOR RULE (MANDATORY)</h2>
+<h3 id="all-connectors-must-be-listed">ALL connectors must be listed</h3>
+<ul>
+<li>whether they function in the verse or not</li>
+<li>no filtering</li>
+<li>no structural decision</li>
+</ul>
+<hr>
+<h3 id="connector-list-is-greek-driven-only">Connector list is Greek-driven only</h3>
+<hr>
+<h3 id="format-1">Format</h3>
+<pre tabindex="0"><code>- καί → (y)
+- ἀλλʼ → [pero]
+- γάρ → (porque)
+</code></pre><hr>
+<h3 id="enforcement-1">Enforcement</h3>
+<pre tabindex="0"><code>if (word in connector_list) {
+    print &#34;- &#34; word &#34; → &#34; mapping
+}
+</code></pre><hr>
+<h2 id="8-connector-mapping-rule">8. CONNECTOR MAPPING RULE</h2>
+<h3 id="notation">Notation</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Case</th>
+          <th>Format</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>explicit in NBLA</td>
+          <td><code>( )</code></td>
+      </tr>
+      <tr>
+          <td>not explicit</td>
+          <td><code>[ ]</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="example">Example</h3>
+<pre tabindex="0"><code>- γάρ → (porque)
+- ἀλλʼ → [pero]
+</code></pre><hr>
+<h3 id="enforcement-2">Enforcement</h3>
+<pre tabindex="0"><code>if (spanish_present) {
+    mapping = &#34;(&#34; spanish &#34;)&#34;
+} else {
+    mapping = &#34;[&#34; spanish &#34;]&#34;
+}
+</code></pre><hr>
+<h2 id="9-nbla-rule-critical">9. NBLA RULE (CRITICAL)</h2>
+<blockquote>
+<p>❗ NBLA must be used exactly as provided
+❗ No reconstruction
+❗ No approximation</p>
+</blockquote>
+<hr>
+<h3 id="enforcement-3">Enforcement</h3>
+<ul>
+<li>dataset NBLA line must match NBLA file exactly</li>
+<li>if mismatch → fail</li>
+</ul>
+<pre tabindex="0"><code>if (nbla_line != source_line) {
+    print &#34;ERROR: NBLA mismatch → &#34; ref
+    exit 1
+}
+</code></pre><hr>
+<h2 id="10-greek-traceability-rule">10. GREEK TRACEABILITY RULE</h2>
+<p>Every element must exist in Greek:</p>
+<ul>
+<li>verbs</li>
+<li>connectors</li>
+</ul>
+<hr>
+<h3 id="enforcement-4">Enforcement</h3>
+<pre tabindex="0"><code>if (!(word in greek_verse)) {
+    print &#34;ERROR: Greek not found → &#34; word
+    exit 1
+}
+</code></pre><hr>
+<h2 id="11-verse-match-rule">11. VERSE MATCH RULE</h2>
+<p>Greek and NBLA must align:</p>
+<pre tabindex="0"><code>if (greek_ref != nbla_ref) {
+    print &#34;ERROR: Verse mismatch → &#34; ref
+    exit 1
+}
+</code></pre><hr>
+<h2 id="12-no-interpretation-rule">12. NO INTERPRETATION RULE</h2>
+<p>The script must NOT:</p>
+<ul>
+<li>classify connectors</li>
+<li>determine clause relationships</li>
+<li>infer meaning</li>
+<li>restructure text</li>
+</ul>
+<hr>
+<h2 id="13-hard-failure-conditions">13. HARD FAILURE CONDITIONS</h2>
+<p>The script must exit if:</p>
+<ul>
+<li>missing verse structure</li>
+<li>missing NBLA line</li>
+<li>Greek word not found</li>
+<li>morphology missing</li>
+<li>NBLA mismatch</li>
+<li>verse mismatch</li>
+</ul>
+<hr>
+<h2 id="14-pipeline-model">14. PIPELINE MODEL</h2>
+<pre tabindex="0"><code>READ → VALIDATE → EXTRACT → CLASSIFY → OUTPUT
+</code></pre><p>NOT:</p>
+<pre tabindex="0"><code>READ → GUESS → FIX → VERIFY
+</code></pre><hr>
+<h2 id="15-final-principle">15. FINAL PRINCIPLE</h2>
+<blockquote>
+<p>❗ The script guarantees data integrity
+❗ ROOTS determines structure later</p>
+</blockquote>
+
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  <h1 id="roots--generation-spec-awk-pipeline">ROOTS — GENERATION SPEC (AWK PIPELINE)</h1>
+<hr>
+<h2 id="1-purpose">1. PURPOSE</h2>
+<p>This document defines the <strong>programmatic rules</strong> for generating the ROOTS dataset from:</p>
+<ul>
+<li>SBLGNT (via MorphGNT)</li>
+<li>NBLA (controlled local file)</li>
+</ul>
+<p>The system must:</p>
+<ul>
+<li>extract data deterministically</li>
+<li>preserve full morphology</li>
+<li>include all verbs and connectors</li>
+<li>fail on any inconsistency</li>
+</ul>
+<hr>
+<h2 id="2-core-principle">2. CORE PRINCIPLE</h2>
+<blockquote>
+<p>❗ The script does not interpret
+❗ The script does not decide structure
+❗ The script extracts and enforces</p>
+</blockquote>
+<hr>
+<h2 id="3-input-requirements">3. INPUT REQUIREMENTS</h2>
+<h3 id="greek-source">Greek Source</h3>
+<pre tabindex="0"><code>content/roots/SBLGTN/MorphGNT/{book}-morphgnt.txt
+</code></pre><p>Must contain:</p>
+<ul>
+<li>verse references</li>
+<li>Greek words</li>
+<li>morphology codes</li>
+</ul>
+<hr>
+<h3 id="nbla-source">NBLA Source</h3>
+<pre tabindex="0"><code>content/roots/NBLA/{book}.nbla.md
+</code></pre><p>Must contain:</p>
+<ul>
+<li>exact verse text</li>
+<li>consistent verse references</li>
+</ul>
+<hr>
+<h2 id="4-output-format-locked">4. OUTPUT FORMAT (LOCKED)</h2>
+<p>Each verse must be:</p>
+<pre tabindex="0"><code>### Book Chapter:Verse {#id}
+
+Greek text (exact)
+
+[NBLA text (exact, unchanged)]
+
+- GreekVerb (Morphology) Spanish [F/NF]
+
+- GreekConnector → (Spanish)
+</code></pre><hr>
+<h2 id="5-verse-structure-rules">5. VERSE STRUCTURE RULES</h2>
+<p>Each verse MUST contain:</p>
+<ul>
+<li>header line</li>
+<li>Greek line</li>
+<li>NBLA line</li>
+<li>one blank line after block</li>
+</ul>
+<hr>
+<h3 id="failure-conditions">FAILURE CONDITIONS</h3>
+<p>If any are missing:</p>
+<pre tabindex="0"><code>ERROR: Missing structure → {reference}
+exit 1
+</code></pre><hr>
+<h2 id="6-verb-rule-mandatory">6. VERB RULE (MANDATORY)</h2>
+<h3 id="all-verbs-must-be-listed">ALL verbs must be listed</h3>
+<p>No filtering. No exceptions.</p>
+<hr>
+<h3 id="each-verb-must-include">Each verb must include:</h3>
+<ul>
+<li>Greek form</li>
+<li>full morphology (unchanged)</li>
+<li>Spanish mapping</li>
+<li><code>[F]</code> or <code>[NF]</code></li>
+</ul>
+<hr>
+<h3 id="finite-classification-rmac-based">Finite classification (RMAC-based)</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Pattern</th>
+          <th>Type</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>V-??I-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-??S-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-??M-</td>
+          <td>finite</td>
+      </tr>
+      <tr>
+          <td>V-P…</td>
+          <td>non-finite</td>
+      </tr>
+      <tr>
+          <td>V-N…</td>
+          <td>non-finite</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="format">Format</h3>
+<pre tabindex="0"><code>- ἠδυνήθην (V-ADI-1S) ==pude== [F]
+- λαλῆσαι (V-AAN) hablar [NF]
+</code></pre><hr>
+<h3 id="enforcement">Enforcement</h3>
+<pre tabindex="0"><code>if (morph ~ /^V-/) {
+    if (morph ~ /^V-..[ISM]-/) {
+        tag = &#34;[F]&#34;
+    } else {
+        tag = &#34;[NF]&#34;
+    }
+}
+</code></pre><hr>
+<h2 id="7-connector-rule-mandatory">7. CONNECTOR RULE (MANDATORY)</h2>
+<h3 id="all-connectors-must-be-listed">ALL connectors must be listed</h3>
+<ul>
+<li>whether they function in the verse or not</li>
+<li>no filtering</li>
+<li>no structural decision</li>
+</ul>
+<hr>
+<h3 id="connector-list-is-greek-driven-only">Connector list is Greek-driven only</h3>
+<hr>
+<h3 id="format-1">Format</h3>
+<pre tabindex="0"><code>- καί → (y)
+- ἀλλʼ → [pero]
+- γάρ → (porque)
+</code></pre><hr>
+<h3 id="enforcement-1">Enforcement</h3>
+<pre tabindex="0"><code>if (word in connector_list) {
+    print &#34;- &#34; word &#34; → &#34; mapping
+}
+</code></pre><hr>
+<h2 id="8-connector-mapping-rule">8. CONNECTOR MAPPING RULE</h2>
+<h3 id="notation">Notation</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Case</th>
+          <th>Format</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>explicit in NBLA</td>
+          <td><code>( )</code></td>
+      </tr>
+      <tr>
+          <td>not explicit</td>
+          <td><code>[ ]</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="example">Example</h3>
+<pre tabindex="0"><code>- γάρ → (porque)
+- ἀλλʼ → [pero]
+</code></pre><hr>
+<h3 id="enforcement-2">Enforcement</h3>
+<pre tabindex="0"><code>if (spanish_present) {
+    mapping = &#34;(&#34; spanish &#34;)&#34;
+} else {
+    mapping = &#34;[&#34; spanish &#34;]&#34;
+}
+</code></pre><hr>
+<h2 id="9-nbla-rule-critical">9. NBLA RULE (CRITICAL)</h2>
+<blockquote>
+<p>❗ NBLA must be used exactly as provided
+❗ No reconstruction
+❗ No approximation</p>
+</blockquote>
+<hr>
+<h3 id="enforcement-3">Enforcement</h3>
+<ul>
+<li>dataset NBLA line must match NBLA file exactly</li>
+<li>if mismatch → fail</li>
+</ul>
+<pre tabindex="0"><code>if (nbla_line != source_line) {
+    print &#34;ERROR: NBLA mismatch → &#34; ref
+    exit 1
+}
+</code></pre><hr>
+<h2 id="10-greek-traceability-rule">10. GREEK TRACEABILITY RULE</h2>
+<p>Every element must exist in Greek:</p>
+<ul>
+<li>verbs</li>
+<li>connectors</li>
+</ul>
+<hr>
+<h3 id="enforcement-4">Enforcement</h3>
+<pre tabindex="0"><code>if (!(word in greek_verse)) {
+    print &#34;ERROR: Greek not found → &#34; word
+    exit 1
+}
+</code></pre><hr>
+<h2 id="11-verse-match-rule">11. VERSE MATCH RULE</h2>
+<p>Greek and NBLA must align:</p>
+<pre tabindex="0"><code>if (greek_ref != nbla_ref) {
+    print &#34;ERROR: Verse mismatch → &#34; ref
+    exit 1
+}
+</code></pre><hr>
+<h2 id="12-no-interpretation-rule">12. NO INTERPRETATION RULE</h2>
+<p>The script must NOT:</p>
+<ul>
+<li>classify connectors</li>
+<li>determine clause relationships</li>
+<li>infer meaning</li>
+<li>restructure text</li>
+</ul>
+<hr>
+<h2 id="13-hard-failure-conditions">13. HARD FAILURE CONDITIONS</h2>
+<p>The script must exit if:</p>
+<ul>
+<li>missing verse structure</li>
+<li>missing NBLA line</li>
+<li>Greek word not found</li>
+<li>morphology missing</li>
+<li>NBLA mismatch</li>
+<li>verse mismatch</li>
+</ul>
+<hr>
+<h2 id="14-pipeline-model">14. PIPELINE MODEL</h2>
+<pre tabindex="0"><code>READ → VALIDATE → EXTRACT → CLASSIFY → OUTPUT
+</code></pre><p>NOT:</p>
+<pre tabindex="0"><code>READ → GUESS → FIX → VERIFY
+</code></pre><hr>
+<h2 id="15-final-principle">15. FINAL PRINCIPLE</h2>
+<blockquote>
+<p>❗ The script guarantees data integrity
+❗ ROOTS determines structure later</p>
+</blockquote>
+
+</div>
+
+
+<script>
+let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
+
+const input = document.getElementById('searchBox');
+const results = document.getElementById('results');
+
+function clean(str) {
+  return str.toLowerCase().trim();
+}
+
+input.addEventListener('input', () => {
+  const query = clean(input.value);
+  results.innerHTML = '';
+
+  if (!query) return;
+
+  let matches = [];
+
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
+
+matches.slice(0, 20).forEach(item => {
+  const ref = item.ref || item.title || '';
+  const preview = item.content
+    ? item.content.replace(/\s+/g, ' ').slice(0, 80)
+    : '';
+
+  if (!ref) return;
+
+  const li = document.createElement('li');
+
+  
+  const a = document.createElement('a');
+  a.href = item.url || '#';
+  a.textContent = ref;
+  li.appendChild(a);
+
+  
+  if (preview) {
+    const excerpt = document.createElement('div');
+    excerpt.className = 'search-excerpt';
+    excerpt.textContent = preview + '...';
+    li.appendChild(excerpt);
+  }
+
+  results.appendChild(li);
+});
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
+</script>

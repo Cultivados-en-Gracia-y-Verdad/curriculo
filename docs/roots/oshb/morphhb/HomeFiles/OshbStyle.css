@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Henny+Penny');
+body
+{
+    margin: 0;
+    background-image: url(ZigZag.png);
+    font-family: "Palatino Linotype", Palatino, serif;
+    line-height: 1.5em;
+}
+header
+{
+    background-color: rgba(255, 238, 187, 0.75);
+    padding: 0.5em 1em;
+    border-bottom: 3px double #77250f;
+}
+header img
+{
+    float: left;
+}
+header span.twit
+{
+	position: absolute;
+	top: 2em;
+	right: 10%;
+}
+h1
+{
+    font: 2em/0.75em "Palatino Linotype", Palatino, serif;
+    color: #77250f;
+    margin: 0;
+    padding: 0.25em 0 0.7em 4.5em;
+}
+h1 span
+{
+    font-size: 60%;
+}
+/* Passage Styles. */
+section.passage
+{
+    border-bottom: 3px double #77250f;
+	text-align: center;
+}
+section.passage img
+{
+	vertical-align: bottom;
+}
+/* Navigation styles. */
+nav
+{
+    background-color: rgba(187, 138, 101, 0.75);
+    border-bottom: 3px double #77250f;
+    padding: 0 0.5em;
+}
+nav ul
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+nav ul li
+{
+	display: inline-block;
+	background-color: #77250f;
+}
+nav ul li.here
+{
+	padding: 0.25em 1em;
+	background-color: rgba(255, 238, 187, 0.75);
+    color: #77250f;
+}
+nav ul li a
+{
+	padding: 0.25em 1em;
+    color: #feb;
+	text-decoration: none;
+	display: block;
+}
+nav ul li a:hover
+{
+	background-color: #97452f;
+    color: #fffefb;
+}
+/* Content Styles. */
+section.content
+{
+    padding: 1em 2em;
+    background-color: rgba(255, 254, 187, 0.6);
+    border-bottom: 3px double #77250f;
+}
+section.content h2
+{
+	font-family: "Henny Penny", fantasy;
+	display: inline;
+	margin-right: 1em;
+	color: crimson;
+}
+section.content span.lead
+{
+	font-size: 1.25em;
+}
+section.content div.tie
+{
+	max-width: 28em;
+	margin: 0.25em auto;
+	background-color: #ffc;
+	border: 3px solid #77250f;
+	border-radius: 50%;
+	text-align: center;
+    box-shadow: 4px 4px 2px #aaa;
+}
+section.content div.tie a
+{
+	color: #77250f;
+	text-decoration: none;
+	padding: 1em;
+	display: block;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+section.content span.follow
+{
+	margin-left: 70%;
+}
+/* Old Styles. */
+article
+{
+    margin: 1em 0 0.5em 1em;
+    padding: 1em 2em;
+    background-color: rgba(255, 254, 251, 0.6);
+    border-radius: 1em;
+    border: 3px double #77250f;
+    width: 40%;
+    box-shadow: 4px 4px 2px #aaa;
+	float: left;
+	text-align: justify;
+}
+article.double
+{
+    margin: 1em 0 0.5em 1em;
+    padding: 1em 2em;
+    background-color: rgba(255, 254, 251, 0.6);
+    border-radius: 1em;
+    border: 3px double #77250f;
+    width: 90%;
+    box-shadow: 4px 4px 2px #aaa;
+	float: none;
+	text-align: left;
+	column-count: 3;
+	column-gap: 3em;
+}
+section.resource
+{
+    margin: 1em 0 0 1em;
+    padding: 1em 2em;
+    background-color: rgba(255, 254, 251, 0.6);
+    border-radius: 1em;
+    border: 3px double #77250f;
+    width: 40%;
+    box-shadow: 4px 4px 2px #aaa;
+	float: left;
+}
+div.license
+{
+	margin: 0 0 1em 1em;
+	clear: left;
+}
+section.resource h2
+{
+    font-weight: normal;
+    font-size: 1.2em;
+    color: #77250f;
+    margin: 0;
+    text-align: center;
+}
+p.links
+{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+p.links a + a
+{
+	display: inline-block;
+	margin-top: 0.5em;
+}

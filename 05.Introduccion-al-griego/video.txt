@@ -1,0 +1,990 @@
+# tactiq.io free youtube transcript
+# Clase #3, sustantivos 2da declinación (griego koiné 1)
+# https://www.youtube.com/watch/24a4v2Qd-cg
+
+00:00:00.599 Felicitaciones.
+00:00:02.600 Mira hasta dónde ya han llegado. Ya
+00:00:05.359 tienen su alfabeto, ya tienen unos
+00:00:08.760 verbos sencillos. Felicitaciones.
+00:00:11.480 Quiero animarles
+00:00:13.799 y felicitarles por todo lo que han
+00:00:16.199 aprendido hasta ahora. Vamos a seguir
+00:00:19.400 adelante. Ahora,
+00:00:23.400 ¿cómo sería tratar de hablar usando solo
+00:00:27.880 verbos?
+00:00:29.480 Sería muy difícil pasar toda su vida
+00:00:32.238 apuntando a alguien y solo decir,
+00:00:34.440 escriba, camine,
+00:00:37.360 mire y no usa sustantivos. Es imposible
+00:00:42.800 hablar lógicamente sin usar un
+00:00:45.120 sustantivo en su oración y también al
+00:00:48.440 leer. Entonces, en esta lección, en este
+00:00:53.000 capítulo, que lo que queremos hacer es
+00:00:56.079 presentarle también con el uso del
+00:00:58.800 sustantivo griego. Cuando usted termine
+00:01:02.079 esta lección, no va a creer lo que
+00:01:04.400 pueden hacer. van a poder hacer
+00:01:07.320 oraciones completas con sujeto,
+00:01:12.119 complemento directo, complemento
+00:01:14.240 indirecto, un montón de cosas que va a
+00:01:17.159 poder hacer al terminar esta lección y
+00:01:21.040 va a impresionar a sus amigos con las
+00:01:24.200 oraciones largas que va a poder leer.
+00:01:28.880 Primero recordemos cómo funcionan
+00:01:31.520 nuestros sustantivos en español. En
+00:01:34.560 español tenemos tanto sustantivos en
+00:01:37.479 género masculino como el árbol o en
+00:01:41.640 género femenino como la casa.
+00:01:46.119 Es importante tener presente que un
+00:01:49.079 sustantivo no cambia de género. El árbol
+00:01:52.600 nunca será la árbol o la casa nunca será
+00:01:56.479 el casa.
+00:01:58.520 Por otro lado, en español también
+00:02:01.000 tenemos una variación de número. Los
+00:02:04.200 sustantivos, aunque no cambian de
+00:02:06.200 género, sí pueden cambiar de número.
+00:02:09.160 Podemos tener el árbol o los árboles.
+00:02:12.879 Así también podemos tener la casa o las
+00:02:16.040 casas, porque tenemos número singular y
+00:02:19.680 número plural. Ahora veamos cómo son
+00:02:23.280 nuestros sustantivos griegos.
+00:02:26.840 En griego tenemos, aparte de nuestro
+00:02:30.560 género masculino y el femenino, el
+00:02:33.840 género neutro.
+00:02:36.120 Aunque esto suene un poco extraño para
+00:02:38.360 nosotros, ya veremos con el tiempo que
+00:02:40.560 solamente es de memorizar un sustantivo
+00:02:45.000 con una declinación un poco diferente.
+00:02:48.159 Además de esto es una cuestión del
+00:02:51.040 propio idioma. En español, por ejemplo,
+00:02:54.200 tenemos dos géneros. Pero hay otros
+00:02:56.720 idiomas como el inglés donde el
+00:02:59.120 sustantivo ni siquiera tiene género. Así
+00:03:02.720 que es una cuestión de idiomas. En
+00:03:05.920 cuanto al número, sí maneja el griego
+00:03:08.560 tanto el singular como el plural.
+00:03:12.599 Y en griego existe una tercera categoría
+00:03:15.319 que no existe en español y es el caso.
+00:03:20.480 Tenemos el caso nominativo, el genitivo,
+00:03:24.319 el acusativo, el dativo y el vocativo.
+00:03:30.879 El caso nominativo lo reconocemos o lo
+00:03:34.360 diferenciamos con la letra N. El
+00:03:38.000 genitivo lo señalamos con la G. el
+00:03:41.360 dativo con la D, el acusativo con la A y
+00:03:45.159 el vocativo con la V. Así que cada vez
+00:03:48.720 que estemos declinando nuestros
+00:03:50.560 sustantivos, verá estas letras
+00:03:54.519 iniciales.
+00:03:56.640 ¿Qué es lo que hace el caso? El caso
+00:04:00.439 señala la función que desempeña el
+00:04:03.200 sustantivo en la oración.
+00:04:06.159 Veamos a continuación cómo los distintos
+00:04:09.200 casos señalan diferentes funciones del
+00:04:12.120 sustantivo.
+00:04:14.840 El caso nominativo, su función principal
+00:04:17.880 es señalar qué sustantivo es el sujeto
+00:04:21.560 del verbo o el sustantivo que realiza la
+00:04:24.440 acción.
+00:04:26.280 El caso genitivo señala qué sustantivo
+00:04:30.520 está funcionando como un modificador
+00:04:33.720 indirecto de otro sustantivo y por lo
+00:04:36.960 mismo usa la preposición de que hace que
+00:04:40.639 califique al sustantivo indirectamente.
+00:04:43.560 Ya vamos a ver unos ejemplos en español
+00:04:45.600 de esto.
+00:04:47.440 El caso dativo señala qué sustantivo
+00:04:51.400 está siendo el complemento indirecto del
+00:04:54.320 verbo
+00:04:56.280 y por lo mismo usamos la preposición a
+00:05:00.880 para indicarlo. Nuevamente vamos a ver
+00:05:03.560 un ejemplo a continuación que nos lo
+00:05:05.960 ejemplificará.
+00:05:07.880 El caso acusativo señala al sustantivo
+00:05:10.880 que tiene la función de complemento
+00:05:13.080 directo del verbo y el caso vocativo
+00:05:16.680 señala el sustantivo que está siendo
+00:05:19.600 llamado o invocado. El caso vocativo no
+00:05:23.400 lo vamos a usar tanto, así que lo vamos
+00:05:26.479 a dejar fuera de los ejemplos. Pero
+00:05:29.199 cuando, por ejemplo, nosotros decimos,
+00:05:31.440 &quot;Hola, mamá,&quot;
+00:05:33.880 mamá está en vocativo porque le estamos
+00:05:38.400 llamando de alguna forma invocando o
+00:05:40.919 cuando decimos, &quot;Oh, señora, señor&quot;,
+00:05:44.360 estaría en caso vocativo. Veamos ahora
+00:05:47.600 unos ejemplos de los casos anteriores.
+00:05:53.240 Para eso necesitamos primero ver esta
+00:05:56.479 oración y reconocer los sustantivos.
+00:05:59.960 Primero reconoceremos cuáles son los
+00:06:02.160 sustantivos para luego ver qué función
+00:06:05.840 están teniendo dentro de la oración.
+00:06:09.720 ¿Cuántos sustantivos encuentra en esta
+00:06:12.400 oración?
+00:06:14.039 El hijo de la señora lleva las flores a
+00:06:18.759 los abuelos.
+00:06:23.000 Muy bien. Hay cuatro sustantivos.
+00:06:28.960 Hijo, señora,
+00:06:31.840 flores,
+00:06:33.479 abuelos.
+00:06:35.880 Los sustantivos muchas veces van
+00:06:38.319 acompañados de un artículo. Cuando es
+00:06:41.800 así, forman un sintagma nominal, ¿no?
+00:06:45.720 Aquí tenemos cuatro sintagmas nominales.
+00:06:49.680 El hijo, la señora, las flores, los
+00:06:54.560 abuelos.
+00:06:56.240 ¿Qué función está cumpliendo cada
+00:06:58.680 sustantivo en esta oración?
+00:07:04.800 Primero veamos que tenemos un verbo que
+00:07:09.199 no es sustantivo y dos preposiciones que
+00:07:12.360 simplemente están marcando algo. Aparte
+00:07:15.759 de eso, podemos ver que el hijo es parte
+00:07:19.199 del sujeto. Hijo, precisamente es el
+00:07:23.400 núcleo del sujeto.
+00:07:27.199 La señora es un sintagma nominal que
+00:07:30.319 está calificando a el hijo
+00:07:33.440 y la preposición D nos muestra que lo
+00:07:36.879 está calificando
+00:07:38.639 indirectamente.
+00:07:41.840 Por lo tanto,
+00:07:43.840 señora, está haciendo parte del
+00:07:46.759 modificador indirecto.
+00:07:49.680 Un modificador directo, por ejemplo,
+00:07:52.039 sería el hijo
+00:07:54.919 gordito. Allí gordito califica
+00:07:58.080 directamente porque no hay palabra o
+00:08:00.599 preposición que separe hijo de gordito.
+00:08:03.680 Pero si decimos el hijo de la señora,
+00:08:07.879 esta preposición de separa al sustantivo
+00:08:11.440 hijo de señora y por tanto está
+00:08:13.840 calificándole indirectamente.
+00:08:17.840 Nuestro sintagma nominal las flores,
+00:08:20.919 ¿qué función está cumpliendo en esta
+00:08:22.759 oración?
+00:08:25.159 Muy bien. Es el objeto directo del
+00:08:28.680 verbo. Si preguntamos qué lleva el hijo
+00:08:32.599 de la señora, la respuesta es las
+00:08:35.360 flores. Las flores es el objeto directo
+00:08:39.240 del verbo. Siempre que tengamos duda
+00:08:42.159 acerca de cuál es nuestro objeto
+00:08:44.279 directo, podemos hacerle la pregunta qué
+00:08:47.680 al verbo. ¿Qué lleva?
+00:08:50.800 La respuesta es las flores.
+00:08:54.440 Y ahora evaluemos nuestro sintagma
+00:08:57.480 nominal a los abuelos.
+00:09:01.720 ¿Qué función está cumpliendo dentro de
+00:09:03.800 esta oración?
+00:09:06.320 Correcto. Objeto indirecto.
+00:09:10.680 Si antes preguntamos qué lleva, ahora
+00:09:13.760 podemos preguntar a quién lleva o para
+00:09:17.640 quién lleva. ¿Para quién lleva las
+00:09:20.200 flores? ¿A quién lleva las flores? La
+00:09:22.519 respuesta es a los abuelos. Veamos como
+00:09:27.480 para marcar el modificador indirecto
+00:09:30.600 necesitamos agregar la preposición a. ¿A
+00:09:34.680 quién? A los abuelos. O en otros casos
+00:09:38.279 necesitaremos colocar la preposición
+00:09:40.959 para para quién las lleva. Para los
+00:09:44.279 abuelos.
+00:09:47.079 Repasemos una vez más qué señalan
+00:09:50.360 nuestros casos griegos
+00:09:53.480 acerca de la función que cumple el
+00:09:56.000 sustantivo dentro de la oración. El
+00:09:59.200 nominativo señala qué sustantivo es el
+00:10:03.760 sujeto
+00:10:05.320 de la oración.
+00:10:07.160 El genitivo muestra qué
+00:10:10.399 sustantivo está modificando
+00:10:12.480 indirectamente a otro sustantivo y por
+00:10:15.480 lo mismo necesitamos nuestra preposición
+00:10:18.200 de. El dativo señala al sustantivo que
+00:10:22.760 es el complemento indirecto del verbo.
+00:10:26.120 Por lo mismo, usamos la preposición a o
+00:10:29.079 la preposición para.
+00:10:31.959 El caso acusativo muestra cuál
+00:10:35.480 sustantivo es el complemento directo del
+00:10:38.959 verbo y como hemos dicho, el vocativo es
+00:10:42.079 el sustantivo que es llamado o invocado.
+00:10:47.440 Volvamos ahora a nuestro ejemplo.
+00:10:52.160 El hijo de la señora lleva las flores a
+00:10:55.120 los abuelos.
+00:10:57.079 Notemos que cada sintagma nominal no
+00:11:01.200 tiene, aparte de las preposiciones,
+00:11:04.440 ninguna otra marca individual que
+00:11:07.519 muestre qué función está teniendo en la
+00:11:11.519 oración.
+00:11:13.000 Porque en español esa función se marca
+00:11:16.079 bien por el orden en que están los
+00:11:19.440 sustantivos o por las preposiciones. Por
+00:11:23.000 ejemplo, el sujeto generalmente está
+00:11:26.399 antes del verbo.
+00:11:28.639 Un modificador indirecto usa la
+00:11:30.680 preposición de y está inmediatamente
+00:11:34.000 pegado al sustantivo que está
+00:11:36.279 calificando.
+00:11:38.600 El objeto indirecto está marcado por una
+00:11:41.360 preposición a y el objeto directo
+00:11:46.639 generalmente está después del verbo. Y
+00:11:50.519 de esta forma nosotros identificamos en
+00:11:52.839 español qué función está teniendo cada
+00:11:55.880 sustantivo en la oración.
+00:11:59.360 Pero si quitáramos las preposiciones
+00:12:01.880 sería difícil comprender qué es lo que
+00:12:04.320 dice nuestra oración. El hijo, la señora
+00:12:07.079 lleva las flores, los abuelos. O incluso
+00:12:09.959 lo podríamos revolver y decir, &quot;La
+00:12:12.040 señora, el hijo lleva los abuelos las
+00:12:13.959 flores.&quot; Y esto costaría mucho que
+00:12:17.079 tuviera sentido. ¿Qué pasa si quitamos
+00:12:20.560 cada uno de nuestros sustantivos y
+00:12:22.760 dejamos toda la estructura?
+00:12:27.240 Aún conservamos nuestro verbo y nuestras
+00:12:29.839 preposiciones.
+00:12:31.399 Sucede que casi podemos colocar
+00:12:34.000 cualquier sustantivo en cualquier lugar
+00:12:37.120 y nuestra oración cambia completamente
+00:12:40.240 de significado.
+00:12:42.880 Nuestro ejemplo anterior decía,
+00:12:45.880 &quot;El hijo de la señora lleva las flores a
+00:12:49.199 los abuelos y prácticamente nos
+00:12:51.760 imaginamos a un niñito llevando flores a
+00:12:54.519 sus abuelos.
+00:12:56.120 ¿Qué pasa si cambiamos de orden estos
+00:12:58.240 sustantivos?
+00:13:00.680 Podemos formar esta oración. Los abuelos
+00:13:03.440 de las flores llevan el hijo a la
+00:13:05.320 señora. Y ahora nos imaginamos a unos
+00:13:07.880 abuelitos quizás con flores o
+00:13:10.399 relacionados con algunas flores que
+00:13:12.600 están llevando a un niño a una señora.
+00:13:15.320 El significado ha cambiado y hemos
+00:13:17.839 mantenido nuestras preposiciones y
+00:13:20.120 verbos porque en español los sustantivos
+00:13:23.240 están marcados por el orden y las
+00:13:25.399 preposiciones.
+00:13:27.959 Ahora analicemos nuestro modificador
+00:13:32.040 indirecto.
+00:13:34.720 Lo hemos estado usando en nuestro
+00:13:37.440 sujeto. Ha estado modificando el núcleo
+00:13:40.519 del sujeto. Sin embargo, el modificador
+00:13:43.519 indirecto puede calificar a cualquier
+00:13:46.000 otro sustantivo,
+00:13:47.800 al sustantivo que esté cumpliendo
+00:13:50.279 cualquier otra función como la de objeto
+00:13:53.199 directo o la de objeto indirecto. Veamos
+00:13:56.320 algunos ejemplos.
+00:13:59.040 Ahora, nuestra oración dice, &quot;El hijo
+00:14:01.839 lleva las flores de la señora a los
+00:14:05.399 abuelos. Si bien antes nuestro
+00:14:08.240 modificador indirecto calificaba al
+00:14:10.440 hijo, ¿qué hijo? el hijo de la señora.
+00:14:14.440 Ahora, nuestro modificador indirecto
+00:14:17.199 está calificando a las flores. ¿Qué
+00:14:19.199 flores? Las flores de la señora. El hijo
+00:14:23.040 lleva las flores de la señora a los
+00:14:26.639 abuelos. Por tanto, en esta ocasión,
+00:14:30.079 nuestro modificador indirecto está
+00:14:32.320 calificando al objeto directo, las
+00:14:36.160 flores. Veamos un ejemplo más.
+00:14:40.920 Los abuelos llevan el hijo a la señora
+00:14:44.519 de las flores. Notemos que ahora nuestro
+00:14:47.880 modificador indirecto nos explica un
+00:14:50.240 poco más acerca de la señora. Los
+00:14:53.120 abuelos llevan al hijo a la señora. ¿Qué
+00:14:56.040 señora? La señora de las flores, nuestro
+00:14:59.199 modificador indirecto está calificando
+00:15:01.360 al sustantivo que está cumpliendo la
+00:15:03.720 función de objeto indirecto, por lo que
+00:15:08.000 hemos mostrado cómo nuestro modificador
+00:15:11.199 indirecto puede calificar a cualquier
+00:15:14.040 sustantivo en la oración. Repasemos una
+00:15:18.120 última vez que nos señalan cada caso
+00:15:21.600 acerca de la función del sustantivo en
+00:15:23.720 la oración. Es bueno que tengamos claros
+00:15:26.920 estos conceptos antes de sumergirnos
+00:15:29.480 completamente en los sustantivos
+00:15:32.440 griegos. El nominativo muestra qué
+00:15:36.240 sustantivo está funcionando como sujeto
+00:15:40.120 de la oración.
+00:15:42.079 El genitivo muestra qué sustantivos
+00:15:45.399 están modificando indirectamente a otro
+00:15:48.519 sustantivo y por lo mismo que es
+00:15:50.560 indirecto, introducimos la preposición
+00:15:53.880 de. En español, por supuesto, el dativo
+00:15:57.680 muestra qué sustantivo es el complemento
+00:16:00.639 indirecto del verbo y por lo mismo
+00:16:03.000 usamos la preposición a o para
+00:16:06.279 señalarlo.
+00:16:08.040 El caso acusativo nos muestra qué
+00:16:11.519 sustantivo está siendo el complemento
+00:16:14.600 directo del verbo. Y el caso vocativo
+00:16:18.440 nos recuerda qué sustantivos están
+00:16:21.079 siendo llamados o invocados.
+00:16:24.600 Aprendamos nuestros primeros sustantivos
+00:16:27.560 griegos. Es importante que usted
+00:16:30.360 memorice esto. Joáelos,
+00:16:34.720 el ángel.
+00:16:37.079 Recuerde que cuando hay dos gamas, la
+00:16:40.959 primera gama suena como una n. Jo
+00:16:45.279 ángelos.
+00:16:47.079 Estoy leyendo y no o porque nuestra
+00:16:50.560 omicron tiene un espíritu áspero,
+00:16:54.240 mientras que nuestra alfa tiene un
+00:16:56.519 espíritu suave. Por eso solo
+00:16:59.120 pronunciamos un sonido fuerte antes de
+00:17:01.720 la ómicron. Jo. Ángelos,
+00:17:06.119 el ángel.
+00:17:08.880 Jo Adelfos,
+00:17:11.400 el hermano. Jo antropos,
+00:17:16.000 el hombre. De allí viene nuestra palabra
+00:17:21.119 antropología.
+00:17:23.400 Jo, apóstolos, eso está muy fácil, ¿no?
+00:17:27.160 El apóstol. Jo, hartos, el pan o puede
+00:17:32.440 ser también la comida.
+00:17:35.200 Jodulos.
+00:17:37.440 El esclavo. Probablemente ustedes ya
+00:17:40.320 hayan escuchado esta palabra o la hayan
+00:17:43.000 usado en alguna prédica. Jodulos,
+00:17:47.080 recuerde, no doublos porque nuestro
+00:17:50.640 diptongo omicron upsil se lee u.
+00:17:54.600 Jodulos, el esclavo. Joos literalmente
+00:17:59.840 es el dios. Sucede que en griego los
+00:18:03.799 sustantivos que muestran un nombre
+00:18:06.640 propio, por ejemplo, llevan artículo.
+00:18:09.799 Así que aunque nosotros en español
+00:18:11.559 digamos simplemente Dios, en griego
+00:18:14.400 muchas veces se dice jo deos el Dios.
+00:18:19.280 Notemos que nuestras palabras de este
+00:18:23.200 vocabulario todas tienen Jo.
+00:18:27.280 ¿Qué es jo?
+00:18:29.280 Correcto. Ho es nuestro artículo y más
+00:18:33.400 precisamente es nuestro artículo
+00:18:36.640 masculino.
+00:18:39.679 Prácticamente todas estas palabras son
+00:18:42.000 masculinas tanto en griego como en
+00:18:44.400 español.
+00:18:46.039 El ángel, el hermano, el hombre, el
+00:18:48.720 apóstol, el pan, el esclavo y Dios. Pero
+00:18:53.480 no siempre es así. Veamos unas palabras
+00:18:57.440 más.
+00:19:00.679 Jo, cosmos, el mundo. De allí viene, por
+00:19:05.280 ejemplo, nuestra palabra cosmología.
+00:19:08.960 J curios.
+00:19:11.120 Muy probablemente usted está relacionado
+00:19:15.039 o conoce esta palabra, el señor
+00:19:19.080 Jogos.
+00:19:20.640 Vean la palabra. Jólogos en griego es un
+00:19:25.000 sustantivo masculino, pero en español es
+00:19:28.520 un sustantivo femenino.
+00:19:31.320 Honomos,
+00:19:33.000 la ley también
+00:19:36.280 es el mismo caso. Jo oicos,
+00:19:41.440 la casa. Jo jui el hijo. Y aquí tenemos
+00:19:47.640 nuestros artículos. Jo, que es el
+00:19:50.960 artículo masculino, el
+00:19:54.000 G, que es nuestro artículo femenino, la
+00:19:58.360 Y, que es nuestro artículo neutro. En
+00:20:01.320 español no existe, pero es algo así como
+00:20:04.559 lo
+00:20:06.840 es importante que se aprenda esto de
+00:20:09.520 memoria. Jo cosmos, jo curios,
+00:20:14.360 lobos, jo nomos, jo oicos, joj juos,
+00:20:20.039 jojeto.
+00:20:22.799 Léalo conmigo. Jo cosmos, jo curios, jo
+00:20:28.120 logos, jo nomos, jo oicos, jo juos, jo
+00:20:35.000 je to.
+00:20:37.480 En esta ocasión hemos ordenado primero
+00:20:40.000 el artículo y luego el sustantivo para
+00:20:42.840 que fuera fácil la lectura. Pero cuando
+00:20:45.559 usted encuentre en un léxico o
+00:20:47.919 diccionario, encontrará primero el
+00:20:51.120 sustantivo, una coma y el artículo. De
+00:20:55.200 esta forma le señalan que género es el
+00:20:58.280 sustantivo que está estudiando.
+00:21:02.559 Esta es la forma en la que aparecen
+00:21:04.640 nuestros sustantivos en el libro de
+00:21:06.720 texto y como aparecen generalmente en
+00:21:09.880 los léxicos o diccionarios. Como puede
+00:21:12.799 ver, primero está el sustantivo y luego
+00:21:15.600 está el artículo.
+00:21:17.600 En este vocabulario todos los artículos
+00:21:20.400 son masculinos, pero generalmente habrán
+00:21:23.320 sustantivos con artículo
+00:21:26.279 femenino y neutro también que indicarán
+00:21:29.240 qué género tiene el sustantivo.
+00:21:32.000 De esta forma será más fácil encontrar
+00:21:35.039 los términos porque los podremos buscar
+00:21:37.279 alfabéticamente
+00:21:38.840 e inmediatamente
+00:21:40.640 ver qué género es el sustantivo que
+00:21:43.279 analizamos.
+00:21:45.080 Ahora sí estamos listos para ver cómo se
+00:21:48.480 declinan nuestros sustantivos en griego.
+00:21:54.279 Queremos hacer algo eh seguir en nuestro
+00:21:58.279 estudio del griego, pero cada semana
+00:22:00.600 hacerlo un poco práctico y vamos a estar
+00:22:04.279 añadiendo aplicaciones bíblicas para
+00:22:07.200 meditar basada en lo que estamos viendo
+00:22:09.559 en la lección. Ahora, en nuestros
+00:22:12.480 vocabularios de esta semana queremos
+00:22:15.320 mencionar dos palabras. Primero quiero
+00:22:18.039 mencionar la palabra logos de Juan 11.
+00:22:22.440 Vamos a ver qué significa en verdad esta
+00:22:25.080 palabra logos. Y para ver la importancia
+00:22:29.360 de esta palabra, vamos a contrastarlo
+00:22:31.640 con un sinónimo que es rema.
+00:22:35.480 Bien,
+00:22:37.200 en Juan 11
+00:22:40.760 la el texto nos dice, &quot;En el principio
+00:22:44.360 era el verbo, pero la palabra es logos.&quot;
+00:22:47.760 En el principio era el logos. Y el
+00:22:51.159 logos,
+00:22:53.480 la palabra
+00:22:55.360 estaba con Dios y era Dios. La
+00:22:59.600 traducción verbo, como veremos, no capta
+00:23:02.799 la belleza de la idea de este versículo.
+00:23:06.000 Tanto la palabra logos como la palabra
+00:23:08.640 rema significan palabra, pero la palabra
+00:23:12.440 rema simplemente significa una palabra
+00:23:15.320 hablada, mientras que la palabra logo
+00:23:18.559 significa la expresión del pensamiento
+00:23:21.320 de alguien, la expresión de quién es uno
+00:23:24.960 realmente. Hebreos 1 1 al 12 dicen,
+00:23:29.240 Dios, habiendo hablado muchas veces de
+00:23:32.039 muchas maneras, en otro tiempo a los
+00:23:35.039 padres por los profetas, en estos
+00:23:37.480 postreros días nos ha hablado por el
+00:23:41.919 hijo. Colosenses 1:15 dice que él es la
+00:23:46.600 imagen del Dios invisible.
+00:23:49.600 Él, Jesús, es el Dios hablando a
+00:23:53.000 nosotros en forma humana. Él es la
+00:23:56.559 palabra de Dios en forma humana. No es
+00:23:59.960 simplemente un verbo, es la palabra, la
+00:24:03.600 expresión de Dios. Y Juan 1:14 dice,
+00:24:07.039 &quot;Este verbo fue hecho carne humano y
+00:24:10.559 habitó entre nosotros.&quot; Qué belleza,
+00:24:13.360 ¿verdad?
+00:24:16.320 Segunda declinación.
+00:24:18.440 En griego tenemos tres declinaciones a
+00:24:22.039 las que llamamos primera declinación,
+00:24:24.799 segunda declinación y tercera
+00:24:26.919 declinación. En griego uno usted
+00:24:30.159 aprenderá la segunda y la primera
+00:24:32.720 declinación. Empecemos con la segunda.
+00:24:36.080 En la segunda está la mayoría de
+00:24:39.279 sustantivos masculinos.
+00:24:43.520 Hol,
+00:24:45.120 la palabra. En español solamente tenemos
+00:24:49.480 dos declinaciones, que es el singular y
+00:24:53.080 el plural. Podemos decir la palabra o
+00:24:56.320 podemos decir las palabras. Y eso es
+00:24:58.840 todo. Sin embargo, en griego, tanto en
+00:25:02.000 singular como en plural, nuestros
+00:25:04.760 sustantivos y sus artículos se declinan
+00:25:08.159 de acuerdo al caso.
+00:25:11.399 Observemos.
+00:25:14.360 H lobos. La palabra es caso nominativo.
+00:25:18.960 Ahora usted sabe que los sustantivos que
+00:25:21.960 hemos aprendido todos estaban en caso
+00:25:24.840 nominativo porque así aparecen los
+00:25:27.679 léxicos o diccionarios. Y por lo mismo a
+00:25:32.399 la forma nominativa le llamamos la forma
+00:25:35.880 léxica.
+00:25:37.919 J. Logos la palabra.
+00:25:40.640 Tu logo de la palabra, to lobo a la
+00:25:45.600 palabra, ton logon la palabra y logue o
+00:25:51.440 palabra.
+00:25:53.399 Como podemos ver, cuando en español
+00:25:56.600 solamente agregamos una preposición o
+00:25:59.240 simplemente no agregamos nada, en griego
+00:26:03.279 se declina completamente la palabra
+00:26:06.919 misma, el sustantivo mismo y su artículo
+00:26:11.320 cambia de forma.
+00:26:14.399 Veamos
+00:26:16.080 y observemos
+00:26:18.080 su declinación.
+00:26:20.480 Puede observar que el sustantivo tiene
+00:26:22.640 una raíz,
+00:26:24.440 así como sucedía con el verbo. ¿Cuál es?
+00:26:29.159 Muy bien, es log. Veamos cómo se declina
+00:26:34.799 nuestra palabra en plural.
+00:26:40.120 Hoy logoy
+00:26:42.440 las palabras
+00:26:44.360 ton logon de las palabras tois logois a
+00:26:51.080 las palabras tus logus las palabras
+00:26:56.880 loboy o palabras
+00:27:00.279 nuevamente
+00:27:01.880 cada sustantivo se se declina de acuerdo
+00:27:06.480 al caso.
+00:27:08.120 tanto su artículo como el sustantivo
+00:27:11.240 mismo. Observemos todas las
+00:27:14.760 declinaciones y sus artículos juntos.
+00:27:22.200 Obsérvelos bien y note si encuentra
+00:27:25.120 alguna diferencia
+00:27:27.320 o alguna similitud.
+00:27:35.159 Quizás ha notado
+00:27:37.679 que los artículos nominativos
+00:27:41.360 ambos empiezan con vocal jo y ho joy
+00:27:46.240 y todos los demás artículos empiezan con
+00:27:49.760 tau. Tu, to, ton o tont to.
+00:27:56.640 ¿Ha notado algo más?
+00:28:00.840 Quizás ha notado también que nuestras
+00:28:04.200 declinaciones son muy similares a sus
+00:28:08.000 artículos.
+00:28:09.559 Observe, por ejemplo, el genitivo
+00:28:12.159 singular es tu y la declinación es u. es
+00:28:16.600 exactamente la misma a excepción de la
+00:28:19.720 taula. Lo mismo sucede con las de abajo.
+00:28:22.760 To, o es igual, excepto por la tau. Ton,
+00:28:26.919 on, lo mismo. Y vemos que en el plural
+00:28:31.320 sucede algo muy similar. De hecho,
+00:28:34.600 nuestro
+00:28:36.519 artículo plural nominativo es igual a la
+00:28:40.240 declinación.
+00:28:41.760 De allí todos los demás son
+00:28:43.799 prácticamente iguales a excepción de la
+00:28:46.200 tabu y
+00:28:49.159 nuestra voz vocativa plural es igual a
+00:28:52.519 la nominativa,
+00:28:55.840 por lo que nuestra recomendación es que
+00:28:59.080 usted intente memorizarse los artículos
+00:29:03.120 porque desde los artículos les será
+00:29:05.679 fácil recordar cuáles son las
+00:29:08.080 declinaciones.
+00:29:10.399 uno, puede ponerle pausa al video y
+00:29:13.600 copiarlo o tomarle una foto y tenerlo
+00:29:16.360 siempre presente para que cuando tenga
+00:29:19.159 una duda acerca de un sustantivo pueda
+00:29:21.440 recurrir a esta tabla y así verificar
+00:29:24.880 qué caso tiene el sustantivo que está
+00:29:28.679 analizando.
+00:29:31.240 Entonces, repasemos los artículos
+00:29:34.279 masculinos.
+00:29:36.960 Estos artículos siempre serán
+00:29:40.480 masculinos.
+00:29:42.519 Repita conmigo.
+00:29:44.519 Jo,
+00:29:46.799 tu,
+00:29:49.120 to,
+00:29:51.279 ton,
+00:29:53.200 joy,
+00:29:55.240 ton,
+00:29:57.200 tois,
+00:29:58.960 tus.
+00:30:00.399 Muy bien, ahora veamos las
+00:30:03.440 declinaciones.
+00:30:06.840 Os u, o, on, e, hoy, on, ois, os, hoy.
+00:30:19.559 Este guion lo que muestra es que estas
+00:30:24.120 se agregan al final de la raíz. Si
+00:30:27.760 nuestra raíz es log, nuestro sustantivo
+00:30:31.480 queda logos si es nominativo o queda
+00:30:35.559 logu si es genitivo, logo, si es dativo,
+00:30:40.159 logón si es acusativo y así
+00:30:42.960 sucesivamente.
+00:30:44.799 con un poco de práctica o con su tablita
+00:30:47.320 a la mano, les será fácil reconocer cada
+00:30:50.960 caso y, por lo mismo qué función está
+00:30:54.360 cumpliendo ese sustantivo en la oración.
+00:30:58.279 ¿Está listo para ver una oración
+00:31:00.559 compleja en griego?
+00:31:02.799 Veámosla.
+00:31:06.679 Joános
+00:31:10.159 keitón no mon.
+00:31:15.039 la entendió.
+00:31:17.639 En muy poco tiempo se sorprenderá de lo
+00:31:20.440 fácil que le es comprender estas
+00:31:23.000 oraciones.
+00:31:24.960 Observe cada palabra en griego.
+00:31:28.440 Observe sus declinaciones,
+00:31:32.000 sus terminaciones y en los casos en los
+00:31:35.200 que haya los artículos. Si tiene su
+00:31:39.440 tablita a la mano o la ha escrito,
+00:31:41.919 compare.
+00:31:43.600 Encuentra algún caso nominativo,
+00:31:46.039 genitivo, dativo o acusativo.
+00:31:51.039 Ahora se los hemos señalado por
+00:31:53.000 practicidad. J antropos es nominativo y
+00:31:58.559 por tanto sabemos que este sustantivo
+00:32:01.720 está cumpliendo la función del sujeto,
+00:32:05.360 el hombre.
+00:32:07.240 Cu
+00:32:08.799 es caso genitivo y por lo mismo sabemos
+00:32:13.039 que es un modificador indirecto.
+00:32:16.440 Seú en esta oración no tiene artículo,
+00:32:20.120 así que no traducimos el artículo, pero
+00:32:23.200 sí traducimos la preposición porque la
+00:32:26.399 preposición está implícita al ser el
+00:32:29.080 modificador indirecto, el hombre de
+00:32:32.480 Dios. Didaskey. Esta palabra ya debería
+00:32:36.240 de saberla muy bien. Está en tercera
+00:32:39.480 persona singular y por tanto es el
+00:32:42.279 hombre de Dios enseña.
+00:32:45.639 Tom Numon
+00:32:48.760 está en caso acusativo y por lo mismo
+00:32:52.480 sabemos que es el objeto directo que
+00:32:55.440 enseña la ley. El hombre de Dios enseña
+00:33:00.000 la ley.
+00:33:02.760 Adel voice
+00:33:04.919 está en caso dativo y por lo mismo
+00:33:08.000 sabemos que es el objeto indirecto de la
+00:33:10.760 oración. ¿A quién enseña la ley? A los
+00:33:14.519 hermanos.
+00:33:16.039 El hombre de Dios enseña la ley a los
+00:33:19.200 hermanos.
+00:33:20.720 Así que ahora que usted identifica los
+00:33:23.600 casos, podría ver una oración,
+00:33:26.480 analizarla y poder identificar qué
+00:33:29.320 sustantivo es el sujeto, cuál es. el
+00:33:32.120 objeto directo, el objeto indirecto y si
+00:33:34.279 hay algún modificador
+00:33:36.360 indirecto de alguno de los sustantivos
+00:33:39.240 en la oración. Veamos un ejemplo más.
+00:33:44.600 Hoy apóstollo grafusi
+00:33:48.519 tus logus to dulo tu curiu.
+00:33:54.399 Entiende algunas palabras, tiene idea de
+00:33:57.200 lo que significa esta oración.
+00:34:00.720 Luego de que haya memorizado su
+00:34:03.600 vocabulario de esta semana y que se
+00:34:06.399 familiarice con las declinaciones o los
+00:34:09.359 artículos, verá que es más fácil
+00:34:12.199 traducir esta oración.
+00:34:15.440 Analicemos los casos. Hoy apóstolo está
+00:34:20.119 en caso nominativo y veremos que esto es
+00:34:24.440 el sujeto. Rafusi es nuestro verbo. ¿Qué
+00:34:28.839 verbo es? grafo. ¿Y qué significa
+00:34:32.800 escribir?
+00:34:34.560 ¿Cuál es el código de este verbo?
+00:34:38.320 Es presente, estemos activa. Modo
+00:34:42.079 indicativo,
+00:34:43.719 tercera persona plural, USI.
+00:34:49.359 Por lo tanto, es escriben
+00:34:53.960 tus logos.
+00:34:56.280 está en caso acusativo y sabemos que es
+00:34:59.520 el modificador directo del verbo.
+00:35:03.599 To dulo está en caso dativo y por tanto
+00:35:07.520 sabemos que será el modificador
+00:35:10.119 indirecto del verbo. Por último tenemos
+00:35:13.560 tu curiu que está en caso genitivo y
+00:35:17.520 sabemos que está modificando
+00:35:19.160 indirectamente a otro sustantivo. ¿A
+00:35:22.000 cuál? a tu dulo, porque es el que está
+00:35:25.760 inmediatamente atrás. Muy bien, estamos
+00:35:30.079 listos para ver la traducción.
+00:35:34.040 Los apóstoles escriben las palabras al
+00:35:38.000 siervo del Señor. Los apóstoles es el
+00:35:42.640 sujeto. Apóstoles el núcleo del sujeto.
+00:35:46.920 Nuestro verbo escriben y sabemos que el
+00:35:49.400 objeto directo es las palabras. ¿Qué
+00:35:52.839 escriben las palabras? ¿A quién escriben
+00:35:56.280 objeto indirecto? Al siervo.
+00:36:00.400 ¿A qué siervo? Al siervo del Señor. El
+00:36:04.359 modificador indirecto nos dice algo más
+00:36:07.560 acerca del sustantivo que califica.
+00:36:12.040 Ahora, recuerde, es muy importante que
+00:36:16.200 antes de empezar a traducir analice los
+00:36:19.599 casos de los sustantivos. A veces nos
+00:36:22.240 emocionamos porque vemos que
+00:36:25.040 comprendemos algo y queremos empezar a
+00:36:27.000 traducir rápido, pero es importante que
+00:36:29.839 primero veamos los casos porque hasta
+00:36:32.760 ahora les hemos puesto las oraciones en
+00:36:35.280 el mismo orden que en español, pero en
+00:36:37.880 griego no es así porque no es necesario
+00:36:42.040 que estén en el mismo orden porque hasta
+00:36:44.119 cierto punto el orden no importa. De
+00:36:47.119 hecho, en griego las palabras
+00:36:49.079 generalmente se escriben en el orden en
+00:36:52.319 el que quieren dar énfasis. Van
+00:36:54.720 colocando primero las palabras a las que
+00:36:56.760 les quieren dar más énfasis y de ahí las
+00:36:59.200 demás. Pero cada palabra de por sí ya
+00:37:03.440 nos dice qué función está teniendo en la
+00:37:06.480 oración. nos está diciendo, &quot;Yo soy el
+00:37:08.599 sujeto, yo soy el objeto indirecto, yo
+00:37:11.040 soy el objeto directo y yo soy un
+00:37:13.800 modificador.&quot; Así que preste mucha
+00:37:16.480 atención primero a analizar el caso de
+00:37:19.800 los sustantivos. Note también que el
+00:37:23.040 caso y su artículo, el sustantivo y su
+00:37:26.280 artículo comparten caso, género y
+00:37:30.319 número.
+00:37:33.520 Tus anguelus tu blepusin
+00:37:39.880 apóstolo tuo.
+00:37:43.839 ¿Qué significa?
+00:37:46.599 Antes de traducir, recuerde que debe
+00:37:49.680 primero identificar el caso de cada
+00:37:53.000 sustantivo y sus artículos.
+00:37:56.400 Por cierto, a estas alturas habrá notado
+00:37:59.599 que el artículo del sustantivo siempre
+00:38:02.400 coincide en caso y número.
+00:38:06.920 Tus anguelus, tu ceú blepusin hoy
+00:38:11.880 apóstolo y tu curi.
+00:38:14.640 Analicémoslos.
+00:38:16.359 Tú, Angelus, ¿qué caso es?
+00:38:19.760 ¿Qué caso es tu seú?
+00:38:22.720 Joy apóstolo
+00:38:24.839 tu curiu
+00:38:28.280 ha notado que hay dos genitivos, tu ceú
+00:38:31.920 y tu curiu
+00:38:34.000 y tenemos un acusativo y un nominativo.
+00:38:38.359 Vean que el nominativo está después del
+00:38:41.640 verbo y el acusativo está antes. Esto
+00:38:45.119 sucede porque en griego el orden de los
+00:38:47.560 sustantivos realmente no importa porque
+00:38:51.280 está marcada su función por su
+00:38:53.560 declinación.
+00:38:55.119 Solamente el modificador indirecto, es
+00:38:58.000 decir, los genitivos, están
+00:39:01.000 inmediatamente después generalmente del
+00:39:03.560 sustantivo el que modifica. ¿Cómo
+00:39:06.240 deberíamos traducirlo? Entonces,
+00:39:10.480 el nominativo lo deberíamos de correr al
+00:39:13.280 inicio de la oración porque es el sujeto
+00:39:15.359 del verbo juntamente con su modificador
+00:39:18.440 indirecto. Y el acusativo con su
+00:39:22.000 modificador indirecto genitivo lo
+00:39:24.440 debemos correr después del verbo porque
+00:39:27.599 en español el objeto directo va después
+00:39:31.520 del verbo. Y por lo tanto nuestra
+00:39:34.200 traducción queda,
+00:39:36.359 los apóstoles del Señor ven los ángeles
+00:39:40.480 de Dios. Sería incorrecto traducir, los
+00:39:44.000 ángeles de Dios ven los apóstoles del
+00:39:47.079 Señor, porque en griego está claramente
+00:39:50.920 marcado cuál es el sujeto y cuál es el
+00:39:54.079 objeto directo.
+00:39:57.359 Aprendamos unos sustantivos más.
+00:40:00.400 Toonion,
+00:40:02.560 el demonio. To ergon, la obra. To
+00:40:08.839 evangelion,
+00:40:10.520 el evangelio.
+00:40:12.920 To Geron,
+00:40:15.319 el templo. Tohtion,
+00:40:19.599 la ropa. To ploon, la barca. To sabatun,
+00:40:28.040 el sábado. To semeun, la señal. y to
+00:40:35.440 tecnum, el niño.
+00:40:38.920 Varias de estas palabras son similares
+00:40:41.240 tanto en griego como en español, tales
+00:40:44.319 como daimonium, demonio o evangelium,
+00:40:50.000 evangelio
+00:40:52.359 o sabatum. Sábado.
+00:40:56.280 Notemos que ahora nuestro artículo es
+00:40:59.160 do.
+00:41:00.440 Este es nuestro artículo neutro. Por lo
+00:41:04.400 tanto, todos estos nueve sustantivos son
+00:41:07.760 neutros. Vea que en español ninguno es
+00:41:10.880 neutro porque no puede serlo dado que no
+00:41:14.000 existe ese género. Algunos serán
+00:41:16.760 masculinos y otros serán femeninos.
+00:41:20.359 debe memorizar también este vocabulario.
+00:41:24.520 Un consejo para que pueda recordar los
+00:41:27.839 sustantivos es que los asocie con algo.
+00:41:32.079 Por ejemplo,
+00:41:33.880 hay algunos que usted le será fácil
+00:41:36.520 recordar porque se parecen mucho a la
+00:41:38.480 palabra en español, pero hay otros que
+00:41:40.960 usted con un poco de imaginación les
+00:41:43.960 puede encontrar alguna relación. Por
+00:41:47.079 ejemplo, gimon y ropa puede pensar que
+00:41:51.119 suena como a imagen y la ropa muestra de
+00:41:54.440 alguna forma la imagen pública de la
+00:41:57.319 persona. Así que le animo, use su
+00:42:00.200 imaginación y memorice este vocabulario.
+00:42:05.440 Nuestra lección de hoy tenía dos listas
+00:42:08.920 de vocabulario. La primera lista de
+00:42:11.839 palabras masculinas en griego, la
+00:42:15.000 segunda lista de palabras neutras. Ahora
+00:42:18.040 quiero escoger una palabra de la segunda
+00:42:20.960 lista de las palabras neutras, que es la
+00:42:23.960 palabra Gerón.
+00:42:26.720 Gerón, que significa templo. Y la vamos
+00:42:30.359 a contrastar brevemente con su sinónimo
+00:42:34.319 que es naos.
+00:42:37.119 Vamos a ver la diferencia entre estas
+00:42:39.319 dos palabras, igual como vimos
+00:42:41.319 anteriormente.
+00:42:43.319 La palabra Gión se refiere al recinto
+00:42:46.400 del templo, todo el edificio como sus
+00:42:50.440 patios y todo lo que tenía que ver con
+00:42:54.000 el lugar del templo. Pero la palabra naz
+00:42:58.400 tiene otro sentido.
+00:43:00.920 Vamos a ver aquí la en Juan 219 al 22
+00:43:06.960 que aparecen estas dos palabras.
+00:43:12.440 Aquí se menciona que Jesús estaba en el
+00:43:15.480 templo Gión en Jerusalén para la Pascua.
+00:43:19.520 En ese lugar, en los recintos del
+00:43:21.680 templo, habían armado un mercado de
+00:43:24.839 animales. Tal vez se acuerdan de la
+00:43:27.240 historia.
+00:43:28.760 Después de echar a todos los mercaderes
+00:43:31.480 con un látigo, los líderes le
+00:43:33.960 preguntaron qué les diera como señal o
+00:43:36.800 milagro para comprobar su autoridad por
+00:43:41.400 haberlo hecho. Jesús respondió que su
+00:43:44.960 autoridad sería que destruyeran el
+00:43:47.559 templo, pero él usó las la palabra naos.
+00:43:52.200 Ahora, la palabra nao se refiere al
+00:43:54.800 lugar santísimo del templo, no solamente
+00:43:58.000 al recinto del templo, pero al lugar
+00:44:01.680 santísimo.
+00:44:03.640 Cuando él habló esto, él explicaba que
+00:44:06.880 su cuerpo no era el recinto del templo,
+00:44:10.680 pero que Dios moraba en él en forma
+00:44:14.200 humana. Él era la presencia de Dios
+00:44:17.800 entre su pueblo. Ahora queremos ver
+00:44:21.480 dónde aparece esta palabra naos en otra
+00:44:24.280 cita muy conocida.
+00:44:27.079 Naos
+00:44:28.640 en Primera Corintios 3:16.
+00:44:33.760 Esta cita dice,
+00:44:36.200 &quot;¿No sabéis que sois templo de Dios y
+00:44:40.280 que el Espíritu de Dios mora en
+00:44:42.599 vosotros?
+00:44:44.319 Aquí la palabra es naos.
+00:44:47.640 ¿Sabe lo que esto significa?
+00:44:50.160 Antes la presencia de Dios moraba en el
+00:44:52.960 lugar santísimo del templo o del
+00:44:56.119 tabernáculo, pero ahora su presencia
+00:44:58.960 mora en un nuevo naos que es nuestros
+00:45:03.119 corazones y nuestras vidas. Ahora
+00:45:06.119 nosotros portamos diariamente el lugar
+00:45:10.119 santísimo de Dios en nuestras vidas por
+00:45:13.319 medio de su Espíritu Santo. Otro estudio
+00:45:18.079 bello de la palabra de Dios.
+00:45:22.280 Veamos ahora cómo se declinan nuestros
+00:45:25.280 sustantivos neutros.
+00:45:29.400 Nuestros sustantivos neutros también
+00:45:31.720 forman parte de la gran categoría
+00:45:34.960 segunda declinación.
+00:45:37.040 No todos los sustantivos neutros son de
+00:45:39.319 la segunda declinación, así como tampoco
+00:45:42.200 todos los sustantivos masculinos lo son,
+00:45:44.839 pero sí muchos de ellos. Observemos cómo
+00:45:48.920 se declinan nuestros sustantivos neutros
+00:45:51.559 en singular.
+00:45:56.400 To ergo, tu ergu, to ergo, to ergon,
+00:46:04.400 ergon.
+00:46:06.640 Quizás le suenen un poco familiares los
+00:46:10.920 artículos y las declinaciones.
+00:46:13.800 Ya verán por qué. Observemos ahora cómo
+00:46:17.359 es la declinación de los sustantivos
+00:46:20.119 neutros en plural.
+00:46:24.800 Ta erga,
+00:46:26.960 ton ergon, tois erboys, ta erga,
+00:46:33.200 erga.
+00:46:36.359 Veámoslos ahora todos juntos.
+00:46:42.440 El artículo to nominativo va con su
+00:46:45.240 declinación on. ON, el artículo tu con
+00:46:49.400 la declinación u.
+00:46:52.400 El artículo to con la declinación o.
+00:46:56.920 El artículo to con la declinación on. El
+00:47:01.400 vocativo es on y el vocativo no tiene
+00:47:05.400 artículo en ningún género.
+00:47:10.720 El plural nominativo ta va con su
+00:47:14.480 declinación a el artículo tom con su
+00:47:18.520 declinación onga.
+00:47:20.559 El artículo toys con su declinación ois,
+00:47:23.839 el artículo ta con su declinación a y el
+00:47:28.359 caso vogativo tiene declinación A.
+00:47:31.960 Nuevamente, como sucedía con los
+00:47:34.680 artículos y las declinaciones
+00:47:36.480 masculinas, podemos ver que el artículo
+00:47:39.920 se parece mucho a su declinación.
+00:47:43.880 Por lo mismo, seguimos recomendando que
+00:47:46.559 memorice en la medida de lo posible
+00:47:50.720 los artículos, tanto los masculinos como
+00:47:53.960 los neutros. Pero mientras lo logra
+00:47:58.040 puede apuntar esto o tomarle una foto y
+00:48:01.119 tenerlo siempre a la mano para poder
+00:48:03.480 analizar sus palabras.
+00:48:08.119 Repasemos nuestros artículos neutros.
+00:48:11.800 Repita después de mí. To,
+00:48:16.960 tu,
+00:48:19.359 to,
+00:48:21.160 to.
+00:48:23.079 Como habrá notado, tanto el dativo como
+00:48:25.599 el acusativo se escuchan do, pero su
+00:48:28.640 escritura es diferente.
+00:48:32.160 Veamos los plurales.
+00:48:34.440 Ta
+00:48:36.160 ton
+00:48:37.720 toys, ta.
+00:48:40.440 Ahora veamos las declinaciones.
+00:48:47.000 On, u, o, on, on,
+00:48:54.000 a, on, ois, a, a.
+00:49:00.240 En este momento puede hacer que usted se
+00:49:02.400 sienta un poco abromado con tanta
+00:49:05.319 información y pequeñas partículas por
+00:49:07.760 todos lados, pero no se preocupe,
+00:49:10.960 aprender un idioma requiere repetición y
+00:49:14.440 un poco de dedicación, así que puede
+00:49:17.839 terminar de ver el video y si no quedó
+00:49:20.400 todo claro, es normal, no se asombre,
+00:49:24.040 tome un poco de descanso y cuando se
+00:49:26.440 encuentre animado vuelva a ver el video,
+00:49:29.480 ponga pausa, apunte. Si tiene dudas,
+00:49:32.640 escríbalas. Puede comunicárnoslas o en
+00:49:35.559 nuestras clases de repaso preguntarlas.
+00:49:39.200 Animo.
+00:49:43.240 Ahora podemos comparar los artículos
+00:49:46.520 tanto masculinos
+00:49:48.760 como neutros, que ambos son artículos de
+00:49:52.520 la segunda declinación.
+00:49:55.400 Obsérvelos, aquí hay una buena noticia.
+00:49:58.799 Porque esto es lo que le hemos
+00:50:00.680 recomendado que aprenda en su momento. Y
+00:50:04.119 si observan, los masculinos y los
+00:50:06.839 neutros son similares.
+00:50:09.240 Observe el genitivo y el dativo. En
+00:50:11.880 singular son iguales, tu, tú. Y en
+00:50:14.880 plural también, tong, tong. Y el dativo
+00:50:19.319 también.
+00:50:20.720 En singular to y en plural toys toys.
+00:50:25.319 Así que si se sabe los artículos
+00:50:27.280 genitivo y dativo masculinos, ya se sabe
+00:50:29.960 los neutros.
+00:50:32.319 Además, observe que en el caso de los
+00:50:36.319 artículos neutros, el nominativo y el
+00:50:38.720 acusativo es igual. En el caso singular
+00:50:42.960 es to y to y en el plural es ta y ta.
+00:50:48.760 Así que ya se ha reducido bastante los
+00:50:51.839 artículos que tiene que memorizar.
+00:50:54.559 Ánimo. En la medida en la que memorice
+00:50:57.440 esto, se evitará tener que estar
+00:50:59.880 dependiendo de tablas para analizarlo,
+00:51:02.920 pero por el momento está bien si las
+00:51:05.559 utiliza.
+00:51:07.760 Por último, démosle un vistazo a las
+00:51:11.119 declinaciones
+00:51:12.760 de esta segunda declinación que hemos
+00:51:15.640 aprendido, es decir, las pequeñas
+00:51:19.640 partículas que agregamos a las raíces de
+00:51:22.799 nuestros sustantivos.
+00:51:24.920 Obsérvelas.
+00:51:28.119 Como puede ver, son muy similares a
+00:51:31.720 nuestros artículos.
+00:51:34.160 De modo que nuevamente si usted logra
+00:51:37.720 aprenderse los artículos sabrá casi por
+00:51:41.359 completo las declinaciones.
+00:51:44.599 Y esto es todo por esta lección. Tenga
+00:51:48.559 mano. Por último, prepárese para nuestra
+00:51:52.359 siguiente clase o repaso.
+00:51:57.599 Bueno, ¿cómo les fue?
+00:52:00.960 ¿Se sienten mareados?
+00:52:03.440 Se sienten que quieren tirar la toalla,
+00:52:06.760 lo que deben hacer es agarrar su manita,
+00:52:10.240 ponerla en su espalda y darse un
+00:52:13.079 aplauso. Miren lo que han visto hasta
+00:52:16.839 ahora. Les prometí al inicio que iban a
+00:52:19.760 poder leer oraciones completas en el
+00:52:22.839 griego y ahora tienen la herramienta
+00:52:26.280 para hacerlo. Hermanos, hermanas,
+00:52:29.559 anímense.
+00:52:31.400 Lo que necesiten hacer ahora es revisar,
+00:52:36.520 leer esto varias veces y les prometo que
+00:52:39.680 no va a ser tan difícil. Es posible que
+00:52:42.920 esto haya sido la lección más complicada
+00:52:45.880 que van a ver en todo el curso. Si ganen
+00:52:49.040 esto, home free decimos en inglés, están
+00:52:53.200 libres para seguir adelante con las
+00:52:55.559 herramientas básicas del idioma.
+00:52:59.480 Adelante.

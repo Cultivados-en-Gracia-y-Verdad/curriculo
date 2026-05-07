@@ -1,0 +1,15 @@
+<div id="heading-breadcrumbs">
+   <!-- <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h6>{{ .Title }}</h6>
+            </div>
+        </div>
+    </div>-->
+        <ul class="container" id="breadcrumbs">
+            {{- range .Ancestors.Reverse }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{- end }}
+            <li><a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a></li>
+        </ul>
+</div>

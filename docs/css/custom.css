@@ -1,0 +1,59 @@
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+#content p {
+   font-size:medium;
+   font-weight:400;
+   color:rgba(47, 79, 79, 0.862);
+}
+#content li {
+  font-size:medium;
+}
+#content a {
+  font-size:medium;
+}
+#breadcrumbs a {
+  font-size:small;
+}
+/* Style the list */
+ul#breadcrumbs {
+  padding: 10px 16px;
+  list-style: none;
+  
+}
+
+/* Display list items side by side */
+ul#breadcrumbs li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul#breadcrumbs li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul#breadcrumbs li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul#breadcrumbs li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}

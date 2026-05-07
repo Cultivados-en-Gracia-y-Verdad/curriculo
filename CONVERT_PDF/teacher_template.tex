@@ -1,0 +1,26 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\newcommand{\ManualTitle}{$title$}
+\newcommand{\ManualVersion}{$version$}
+\newcommand{\ManualSubtitle}{$subtitle$}
+%\newcommand{\ManualCover}{$cover$}
+% ============================
+% Load the full manual template
+% ============================
+\input{manual_template.tex}
+
+% ============================
+% TEACHER VERSION SETTINGS
+% ============================
+% Fill-ins remain bold underlined
+\renewcommand{\ULthickness}{0.8pt}
+\renewcommand{\fillin}[1]{%
+  \uline{\textbf{#1}}%
+}
+\begin{document}
+% Full bleed cover
+% Reset margins if needed for content
+\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
+$body$  % Real content begins here
+\end{document}

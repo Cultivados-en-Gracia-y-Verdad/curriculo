@@ -1,0 +1,32 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\newcommand{\ManualTitle}{$title$}
+\newcommand{\ManualVersion}{$version$}
+\newcommand{\ManualSubtitle}{$subtitle$}
+% ============================
+% Load the full manual template
+% ============================
+\input{manual_template.tex}
+
+% ============================
+% STUDENT VERSION SETTINGS
+% ============================
+\usepackage[normalem]{ulem}
+
+\newlength{\fillinwidth}
+
+\renewcommand{\ULthickness}{0.8pt}
+
+\renewcommand{\fillin}[1]{%
+  \settowidth{\fillinwidth}{\textbf{#1}}%
+  \addtolength{\fillinwidth}{2em}%
+  \uline{\makebox[\fillinwidth][l]{\hspace*{\fillinwidth}}}%
+}
+
+\begin{document}
+% Full bleed cover
+% Reset margins if needed for content
+\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
+$body$  % Real content begins here
+\end{document}
