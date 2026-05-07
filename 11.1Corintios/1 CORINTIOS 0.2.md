@@ -134,9 +134,19 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 
 #### Él también los confirmará hasta el fin
 
-##### En vista a la manifestación de Cristo, no hay razón de temerla, sino mas bien una seguridad de unn poder para confirmarlos hasta el fin. 
+##### En vista a la manifestación de Cristo, no hay razón de temerla, sino mas bien una seguridad de que serán confirmados completamente. 
+
+##### Será Cristo el encargado de confirmarlos. Una obra garantizada, basada en la persona de Cristo.
 
 #### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
+
+##### Serán confirmados irreprensibles, es decir sin que tengan algo de que ser acusados en el día de nuestro Señor.
+
+##### El día del señor Jesucristo es equivalente a la revelación del Señor Jesucristo que hizo referencia con anterioridad.
+
+##### Este día es una garantía y algo que los corintos pueden aguardar con esperanza y seguridad, sin temor, sino con certeza de una obra que Cristo mismo completará en ellos. 
+
+##### El testimonio de Cristo que ha sido confirmado en ellos, afecta por completo a los corintos, ya que ellos mismos serán confirmados completamente basados en este don. 
 
 ### 1 Corintios 1:9
 
@@ -144,15 +154,51 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 #### Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
 
+##### Dios es descrito como Fiel, digno de confianza. 
+
+##### Los corintos fueron llamados por Dios mismo a "participar" de su Hijo Jesucristo.
+
+##### Pablo describe la obra de Dios hacia los corintos como un llamada a la comunión de Cristo, y no con Cristo. 
+
+##### Dios quiere que los corintos puedan participar de toda la gracia que han recibido en su Hijo. Es Dios que invita a esta participación porque ha dado todo para que sea posible.
+
+##### Ese llamado junto con la realidad de que Dios es fiel muestra que Dios no ha cambiado y sigue deseando esto de los corintos. 
+
 ### 1 Corintios 1:10
 
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
 
-#### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, 
+#### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, 
 
-#### y que no haya divisiones entre ustedes, 
+##### No es una petición común sino una súplica de hermano a hermanos. 
 
-#### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer. 
+##### La súplica tiene como base el Nombre de Jesucristo. 
+
+##### Esto es en base a todo lo que acaba de mostrar con anterioridad. Habiéndoles mostrado todo lo que Cristo significaba para ellos, es en base a esa realidad que Pablo suplica esto a los corintos. 
+
+##### No ruega esto sin antes primero establecer una realidad que no depende del hombre sino de Dios: la gracia que recibieron en la persona de Jesucristo. 
+
+#### que todos se pongan de acuerdo
+
+##### Esto es algo que involucra a todos, el ruego de Pablo va dirigido a todos.
+
+##### Pablo quiere que todos hablen la misma cosa. Esto no es simplemente ponerse de acuerdo por quien van a apoyar, y luego amoldarse todos a algo aunque esto no sea lo correcto.
+
+##### Pablo no esta pidiendo un conformismo en lo que piensan, sino una unanimidad de discurso que surge de la verdad. 
+
+##### No dice que uno es la regla y que todos se ajusten a ese uno, sino que dice que el discurso es la regla y que todos se ajusten al discurso. 
+
+#### y que no haya divisiones entre ustedes
+
+##### divisiones - SQUISMA
+
+:Proviene del verbo *schizo*, que significa romper, rasgar o dividir (como romper una tela).
+
+##### Esto implica poner en partes, algo que es de una sola parte. 
+
+##### Pablo les ruega que no haya divisiones en ellos, ya que ellos son uno solo. 
+
+#### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
 
 ## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste con la realidad de Cristo
 
