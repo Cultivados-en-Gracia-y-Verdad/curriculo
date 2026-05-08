@@ -3,8 +3,9 @@ title: "Filipenses"
 subtitle: "Viviendo lo que ya es verdadero"
 author: "CGV"
 cover: "images/portada2.png"
-version: "0.5"
+version: "0.6"
 date: "2026-05-03"
+quizzes: "../quizzes/quizzes.yaml"
 ---
 
 :::title
@@ -38,6 +39,92 @@ Viviendo lo que ya es verdadero
 ##### El desarrollo apunta a un <u>andar</u> constante. El lenguaje muestra movimiento: *luchando unánimes* (Filipenses 1:27), *sigo adelante* (Filipenses 3:12), *prosigo hacia la meta* (Filipenses 3:14), *continuemos viviendo* (Filipenses 3:16). También incluye un enfoque interno: *misma actitud* (Filipenses 2:2; 3:15), *mediten en esto* (Filipenses 4:8), *esto practiquen* (Filipenses 4:9).
 
 ##### Finalmente, el centro se mantiene en <u>Cristo</u>. Toda acción se ubica en Él y el desarrollo no introduce otro eje.
+
+## Ciudad de Filipos
+
+##### La ciudad de Filipos tiene una particularidad que el autor del libro de los hechos hizo notar. 
+
+###### *...fuimos a Filipos, que es una ciudad principal de la provincia de Macedonia, una colonia romana; en esta ciudad nos quedamos por varios días.* Hechos 16:12
+
+###### *...es una ciudad principal de la provincia de Macedonia;* 
+
+##### La ciudad fue fundada originalmente en el 360 a. C. con el nombre de Krenides (que significa manantiales), por colonos procedentes de la isla de Tasos.  
+
+##### Sin embargo, tan solo cuatro años después, fue conquistada por el rey Filipo II de Macedonia , padre de Alejandro Magno, quien la rebautizó en su honor.  
+
+###### *una colonia romana;*
+
+##### Las colonias eran ciudades fundadas según el modelo romano, con calles, mercados, foros, templos y teatros, y gozaban de un estatus legal especial que concedía ciertos privilegios a sus habitantes.  
+
+##### Para llevar a cabo la asimilación romana en una colonia, el Estado premiaba a veteranos del ejército con tierras en las provincias conquistadas pero aún sin pacificar. 
+
+##### De esta manera, la cultura romana se expandía por el territorio y, con el tiempo, sus habitantes solían adoptar el modo de vida de los colonos. 
+
+##### Filipenses 3:20 menciona, *...nuestra ciudadanía está en los cielos...,* los Filipenses no eran de esa ciudad sino del cielo, donde tenemos vida eterna y una morada eterna que no perece y nunca se destruye.
+
+##### Filipos albergaba una famosa escuela romana de medicina, y la tradición sostiene que el evangelista Lucas estudió allí e inició su ministerio con la congregación de los filipenses. Esto probablemente significaba que la iglesia contaba con muchos miembros instruidos, con formación en ciencias, filosofía y religión, algo común en las ciudades romanas de la época. 
+
+##### Después de la visita del apóstol Pablo a Filipos en los años 49 a 50 de nuestra era común, la ciudad se convirtió en un centro de propagación del cristianismo. Los vestigios de sus iglesias constituyen un testimonio excepcional del asentamiento de los primeros cristianos. 
+
+##### La ciudad de Filipos fue casi completamente abandonada tras un catastrófico terremoto ocurrido alrededor del año 619 d. C.; y en algún momento después de la conquista otomana, el lugar quedó completamente desierto. 
+
+## Autor, localización y Fecha de escritura
+
+##### Autor
+
+###### El autor es conocido por la iglesia de los Filipenses y además es una de las cartas en las que Pablo no se presenta como un apóstol y tampoco defiende su apostolado, como lo hace en otras cartas.
+
+###### El autor se describe como Pablo siervo de Jesucristo, Filipenses 1:1 sin necesidad de aclarar su apostolado, ellos conocían a Pablo ya que fue castigado públicamente y encarcelado pero liberado de sus cadenas; siendo notorias las maravillas del poder de Dios en aquella Ciudad. Hechos 16:14-15; 16-18; 25-34
+
+###### En su segundo viaje misionero Pablo llego a la ciudad de Filipos a través de una revelación que tuvo mientras eran dirigidos a Macedonia por el Espíritu Santo, quien también impidió que se dirigiera a diferentes lugares. Hechos 16:6-12
+
+##### Localización
+
+###### Después de su segundo viaje misionero Pablo retorno a Jerusalén, donde fue encarcelado y llevado hasta la ciudad de Roma. Romanos 15:25-26; Hechos 28:16; 
+
+###### Al escribir la Epístola a los Filipenses, Se encuentra en prisión, en defensa y confirmación del evangelio, en Cadenas. Filipenses 1:7, 13, 16
+
+###### También es custodiado por la guardia pretoriana encontrándose en medio de conflictos, donde Pablo pensaba que probablemente llegaría a morir. Filipenses 1:13, 30, 2:17
+
+###### Se encuentra escribiendo la carta ubicado en Roma, junto con Timoteo y Epafrodito pasando por muchas aflicciones Filipenses 2:19, 25, 4:14
+
+###### También se encuentra rodeado de hermanos de la ciudad de Roma como también hermanos que son de la casa de Cesar. Filipenses 4:21-22
+
+##### Fecha de escritura
+
+###### La carta no indica una <u>fecha</u> exacta. El texto solo muestra que Pablo está en prisión (Filipenses 1:7, 1:13), sin mencionar un año específico ni dar una referencia histórica directa. Por comparación con otros textos, como el capítulo 28 del libro de los Hechos y otras cartas escritas en contexto de prisión, suele ubicarse aproximadamente entre los años 60–62 d.C.
+
+## Destinatarios
+
+##### La carta fue entregada a los filipenses por medio de Epafrodito, quien había visitado a Pablo en su prisión y le llevó noticias de ellos, junto con una ofrenda para sus necesidades (Filipenses 4:18). Esto muestra que existía una relación activa entre Pablo y los creyentes en Filipos, marcada por comunicación y cuidado mutuo.
+
+##### Los destinatarios conocían a Pablo de manera personal. El texto de Hechos muestra que su tiempo con ellos fue limitado, ya que en su primera visita tuvo que salir de la ciudad después de la presión de las autoridades (Hechos 16:39). Aun así, ese tiempo fue suficiente para establecer una relación directa que se mantiene visible en toda la carta.
+
+##### El desarrollo de la iglesia continuó después de la salida de Pablo. Según el relato de Hechos, Lucas permaneció en Filipos mientras Pablo, Timoteo y Silas continuaron su recorrido (Hechos 16:40; 17:1). Más adelante, Lucas vuelve a aparecer acompañando a Pablo (Hechos 20:5–6), lo que muestra continuidad en el contacto con esa iglesia.
+
+##### El texto de la carta indica características del grupo. Pablo se dirige a “todos los santos en Cristo Jesús… incluyendo a los obispos y diáconos” (Filipenses 1:1), lo cual muestra una comunidad organizada. También menciona advertencias específicas (Filipenses 3:2), lo que indica que enfrentaban influencias externas que afectaban su entorno.
+
+##### A lo largo de la carta, los destinatarios son descritos en términos de relación cercana con Pablo. Él habla de ellos como su gozo y corona (Filipenses 4:1), lo cual refleja cómo los identifica dentro del desarrollo de la carta, no solo como oyentes, sino como participantes activos en el evangelio (Filipenses 1:5; 4:14–16).
+
+## Propósito de la carta
+
+##### La carta a los Filipenses muestra un <u>propósito</u> que se desarrolla de manera continua a lo largo del texto. Pablo escribe a creyentes identificados desde el inicio como “santos en Cristo Jesús” (Filipenses 1:1), y a partir de ahí no cambia ese grupo. La carta no introduce otro tipo de audiencia, sino que mantiene el mismo enfoque en personas que ya participan del evangelio (Filipenses 1:5). Desde el principio, Pablo ora por ellos (Filipenses 1:3–11), describe su propia situación (Filipenses 1:12–26), y luego dirige su atención a cómo deben vivir (Filipenses 1:27). Todo esto ocurre dentro de una misma línea sin interrupción.
+
+###### A lo largo de la carta, el <u>evangelio</u> permanece como el eje central. Pablo habla de su participación en el evangelio (Filipenses 1:5), de su defensa y confirmación (Filipenses 1:7), y de su progreso aun en medio de sus prisiones (Filipenses 1:12). Luego exhorta a los creyentes a mantenerse firmes en un mismo espíritu, luchando unánimes por la fe del evangelio (Filipenses 1:27). El texto no introduce otro centro; todo gira alrededor de esta misma realidad.
+
+###### Al mismo tiempo, la carta muestra un llamado constante a la <u>conducta</u>. Pablo no se queda en declaraciones, sino que dirige a una manera de vivir: tener un mismo sentir (Filipenses 2:2), adoptar una actitud específica (Filipenses 2:5), hacer todas las cosas sin murmuraciones (Filipenses 2:14), seguir adelante (Filipenses 3:12), y practicar lo aprendido (Filipenses 4:9). Este llamado no aparece como algo aislado, sino que se mantiene de principio a fin como parte del mismo desarrollo.
+
+###### Dentro de ese desarrollo, también aparece un contraste claro. Pablo introduce una línea donde muestra lo que significa no poner confianza en la carne (Filipenses 3:3), usando su propio ejemplo (Filipenses 3:4–8), y luego describe a otros cuyo enfoque es completamente distinto (Filipenses 3:18–19). Este contraste no desvía el tema, sino que refuerza la misma dirección del texto.
+
+###### La carta mantiene además un lenguaje de <u>movimiento</u> continuo. No presenta la vida como algo estático, sino como un avanzar: “sigo adelante” (Filipenses 3:12), “prosigo hacia la meta” (Filipenses 3:14), “continuemos viviendo” (Filipenses 3:16). Este movimiento no cambia de dirección, sino que se mantiene alineado con lo que Pablo ha venido desarrollando desde el inicio.
+
+###### Todo este desarrollo permanece centrado en <u>Cristo</u>. Las expresiones se repiten: “en Cristo Jesús” (Filipenses 1:1; 4:23), “para mí el vivir es Cristo” (Filipenses 1:21), “ganar a Cristo” (Filipenses 3:8), “ser hallado en Él” (Filipenses 3:9), “conocerlo a Él” (Filipenses 3:10). El texto no cambia ese centro en ningún momento; todo regresa a Él.
+
+###### Finalmente, la carta también refleja una relación constante entre Pablo y los filipenses. Ellos participan en el evangelio (Filipenses 1:5), comparten en sus aflicciones (Filipenses 4:14), y lo sostienen repetidamente (Filipenses 4:15–16). Pablo responde a esa relación (Filipenses 4:10–20), manteniendo siempre el mismo enfoque.
+
+- El desarrollo completo mantiene una sola dirección
+- No se fragmenta en temas separados
+- Todo permanece dentro del mismo flujo sin desviarse
 
 # FILIPENSES 1:1–11 Pablo ora con gratitud y petición
 
@@ -1002,27 +1089,27 @@ no buscando cada uno sus propios intereses, sino más bien los intereses de los 
 
 ## CLAVE DEL PASAJE
 
-##### El texto no funciona como una lista aislada, sino como un <u>desarrollo continuo</u>:
+##### El texto no funciona como una lista aislada, sino como un desarrollo <u>continuo</u>:
 
 - **unidad → actitud → acción**
 
-##### Cada elemento se conecta directamente con el anterior, manteniendo coherencia con el flujo de la carta sin introducir un nuevo tema.
+##### Cada elemento se conecta directamente con el anterior, manteniendo coherencia con el <u>flujo</u> de la carta sin introducir un nuevo tema.
 
 ## Filipenses 2:5-11 Tengan la misma manera de pensar que tuvo Cristo Jesús
 
-##### Este ejemplo no cambia el tema, sino que desarrolla lo que acaba de pedir (2:1–4).
+##### Este ejemplo no cambia el <u>tema</u>, sino que desarrolla lo que acaba de pedir (2:1–4).
 
 ##### El enfoque no es solo una acción externa, sino una manera de pensar que produce esa acción.
 
 ##### El propósito de estos pasajes es ilustrar los anteriores versículos enseñados, con un ejemplo real y que es perfecto.
 
-##### Filipenses 2:6-11 Es una poesía que puede ser cantada o recitada; probablemente Pablo y Silas cantaban este himno (una posibilidad que la biblia no enseña) cuando estaban en la cárcel de Filipos. Hechos 16:25
+##### Filipenses 2:6-11 Es una <u>poesía</u> que puede ser cantada o recitada; probablemente Pablo y Silas cantaban este himno (una posibilidad que la biblia no enseña) cuando estaban en la cárcel de Filipos. Hechos 16:25
 
-##### Es importante notar que al estudiar estos pasajes se concluye rápidamente con el imperativo, tengan humildad porque Cristo fue humilde.
+##### Es importante notar que al estudiar estos pasajes se <u>concluye</u> rápidamente con el imperativo, tengan humildad porque Cristo fue humilde.
 
-##### Es verdad que en los siguientes pasajes vemos la humildad de Cristo, como un ejemplo ilustrativo para cada creyente, y es lo que Pablo esperaba oír de los creyentes, pero no debemos confundir el imperativo.
+##### Es verdad que en los siguientes pasajes <u>vemos</u> la humildad de Cristo, como un ejemplo ilustrativo para cada creyente, y es lo que Pablo esperaba oír de los creyentes, pero no debemos confundir el imperativo.
 
-##### Por lo que en estos pasajes existe un imperativo que tiene el objetivo de llegar mas lejos de una humildad exterior; sino mas bien la actitud interna, dependencia del Padre con la misma mente de Cristo. 1 Corintios 2:16
+##### Por lo que en estos pasajes <u>existe</u> un imperativo que tiene el objetivo de llegar mas lejos de una humildad exterior; sino mas bien la actitud interna, dependencia del Padre con la misma mente de Cristo. 1 Corintios 2:16
 
 ## Filipenses 2:5–11 Presenta la actitud de Cristo
 
@@ -1034,35 +1121,35 @@ Haya, pues, en ustedes esta actitud que hubo también en Cristo Jesús,
 
 ##### Esta actitud está ligada a una manera de pensar.
 
-##### El texto no comienza con acciones externas, sino con lo interno.
+##### El texto no comienza con acciones <u>externas</u>, sino con lo interno.
 
 ##### Esta actitud FRONEO *pensar* es un verbo presente, imperativo, voz activa; que significa tener una manera de pensar. Romanos 8:5
 
-##### Este imperativo esta dirigido a una forma de pensar que resulta en una actitud.
+##### Este imperativo esta dirigido a una <u>forma</u> de pensar que resulta en una actitud.
 
 ##### No en el sentido contrario, actuar y luego pensar.
 
-##### Todo creyente puede tener la misma manera de pensar que tuvo Cristo, por eso el imperativo esta dirigido como algo que si es posible, y no como algo que el creyente tiene que alcanzar.
+##### Todo creyente puede tener la misma manera de <u>pensar</u> que tuvo Cristo, por eso el imperativo esta dirigido como algo que si es posible, y no como algo que el creyente tiene que alcanzar.
 
 #### que hubo también en Cristo Jesús,
 ##### La referencia es <u>Cristo</u>.
 
 ##### No introduce un modelo externo distante, sino uno que ya ha mencionado en la carta.
 
-##### El enfoque es que la misma actitud vista en Él esté en ellos.
+##### El enfoque es que la misma actitud <u>vista</u> en Él esté en ellos.
 
-##### El Señor Jesucristo tenia una actitud basado en su modo de pensar.
+##### El Señor Jesucristo tenia una actitud basado en su modo de <u>pensar</u>.
 
 ##### Hebreos 12:2b *...quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios.*
 
-- Quien no obro en ningún caso por egoísmo o por vanagloria.
-- Considero a los demás como más importantes que el.
-- No busco sus propios beneficios, sino el de los demás.
-- Y todo lo hizo en humildad. 
+- Quien no obro en ningún <u>caso</u> por egoísmo o por vanagloria.
+- Considero a los <u>demás</u> como más importantes que el.
+- No <u>busco</u> sus propios beneficios, sino el de los demás.
+- Y todo lo <u>hizo</u> en humildad. 
 
 ##### Alguno dirá:
 
-- Para nosotros es imposible, es verdad, pero Dios lo hizo posible en cada creyente. Lucas 18:27; Filipenses 1:21; Gálatas 2:20
+- Para nosotros es imposible, es verdad, pero Dios lo hizo posible en <u>cada</u> creyente. Lucas 18:27; Filipenses 1:21; Gálatas 2:20
 - Pero Él es Dios, nosotros no, y es verdad. Pero...
 
 ### Filipenses 2:6
@@ -1071,12 +1158,12 @@ el cual, aunque existía en forma de Dios, no consideró el ser igual a Dios com
 #### el cual, aunque existía en forma de Dios,
 ##### Se describe la <u>condición</u> de Cristo. El texto afirma que “existía en forma de Dios”, presentando esta realidad como parte del desarrollo, no como una idea aislada. “Aunque” introduce una relación con lo que sigue, manteniendo continuidad en la línea del pasaje.
 
-##### Esta afirmación no se desarrolla en detalle aquí, pero establece el punto de partida: su condición. El énfasis no está en explicar cómo, sino en afirmar lo que es, como base para lo que viene.
+##### Esta afirmación no se desarrolla en <u>detalle</u> aquí, pero establece el punto de partida: su condición. El énfasis no está en explicar cómo, sino en afirmar lo que es, como base para lo que viene.
 
 #### no consideró el ser igual a Dios como algo a qué aferrarse,
 ##### Se presenta una <u>decisión</u>. El texto no niega la condición anterior, sino que muestra cómo actúa en relación con ella. “No consideró… aferrarse” indica que no usa esa condición para su propio beneficio.
 
-##### La línea se mantiene clara: condición → decisión. No se introduce un cambio de tema, sino una relación directa entre lo que es y cómo actúa.
+##### La línea se mantiene clara: condición → decisión. No se introduce un <u>cambio</u> de tema, sino una relación directa entre lo que es y cómo actúa.
 
 ### Filipenses 2:7
 sino que se despojó a Sí mismo tomando forma de siervo, haciéndose semejante a los hombres. 
@@ -1084,12 +1171,12 @@ sino que se despojó a Sí mismo tomando forma de siervo, haciéndose semejante 
 #### sino que se despojó a Sí mismo
 ##### Se introduce una <u>acción</u> en contraste con el versículo anterior. “Sino” marca la transición: en lugar de aferrarse, actúa. “Se despojó” no se explica en términos abstractos aquí, sino por lo que sigue en el mismo versículo.
 
-##### El texto mantiene la misma línea: decisión → acción. No cambia el enfoque, sino que lo desarrolla.
+##### El texto mantiene la misma línea: decisión → <u>acción</u>. No cambia el enfoque, sino que lo desarrolla.
 
 #### tomando forma de siervo, haciéndose semejante a los hombres.
 ##### Se describen dos <u>aspectos</u> que explican la acción anterior: “forma de siervo” y “semejante a los hombres”. Ambos no son ideas separadas, sino parte del mismo movimiento.
 
-##### El texto muestra un cambio visible en condición, sin desarrollar todos los detalles. La línea sigue siendo continua: acción → descripción de esa acción.
+##### El texto muestra un cambio visible en condición, sin desarrollar todos los detalles. La línea sigue <u>siendo</u> continua: acción → descripción de esa acción.
 
 ### Filipenses 2:8
 Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente hasta la muerte, y muerte de cruz. 
@@ -1097,12 +1184,12 @@ Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente h
 #### Y hallándose en forma de hombre, se humilló Él mismo,
 ##### Se introduce otra <u>acción</u> dentro de la condición ya descrita. “Hallándose en forma de hombre” conecta con el versículo anterior y mantiene continuidad. “Se humilló” muestra una acción propia, no impuesta.
 
-##### El desarrollo continúa sin interrupción: condición → acción. No hay cambio de tema, sino progresión.
+##### El desarrollo continúa sin interrupción: condición → acción. No hay cambio de <u>tema</u>, sino progresión.
 
 #### haciéndose obediente hasta la muerte, y muerte de cruz.
 ##### Se describe el <u>alcance</u> de esa acción. “Obediente hasta la muerte” muestra el límite, y “muerte de cruz” añade énfasis sin cambiar la línea.
 
-##### La progresión es clara y continua: humillación → obediencia → muerte. Todo permanece dentro del mismo desarrollo sin introducir un nuevo enfoque.
+##### La progresión es clara y continua: humillación → obediencia → muerte. Todo permanece dentro del mismo desarrollo sin introducir un <u>nuevo</u> enfoque.
 
 ## CLAVE DEL PASAJE
 
@@ -1110,7 +1197,7 @@ Y hallándose en forma de hombre, se humilló Él mismo, haciéndose obediente h
 
 - **condición → decisión → acción → resultado**
 
-##### Cada elemento no está aislado, sino conectado directamente con el anterior, desarrollando una secuencia coherente sin cambio de tema.
+##### Cada elemento no está <u>aislado</u>, sino conectado directamente con el anterior, desarrollando una secuencia coherente sin cambio de tema.
 
 ### Filipenses 2:9
 Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre. 
@@ -1154,7 +1241,7 @@ y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre.
 
 - **actitud → acción → resultado → propósito**
 
-##### No se presenta como elementos separados, sino como una secuencia coherente que conecta directamente con lo anterior (Filipenses 2:1–4), sin introducir un nuevo tema.
+##### No se presenta como elementos separados, sino como una secuencia coherente que <u>conecta</u> directamente con lo anterior (Filipenses 2:1–4), sin introducir un nuevo tema.
 
 ## Filipenses 2:12–18 Exhorta a ocuparse en la salvación con el obrar de Dios 
 
@@ -1197,7 +1284,7 @@ Porque Dios es quien obra en ustedes tanto el querer como el hacer, para Su buen
 - mandato → acción → resultado → gozo
 - acción del creyente → obrar de Dios → manifestación visible
 
-##### Todo permanece dentro del mismo desarrollo sin separarse en ideas independientes, manteniendo coherencia con lo que Pablo ha venido estableciendo desde el inicio.
+##### Todo permanece dentro del mismo desarrollo sin separarse en <u>ideas</u> independientes, manteniendo coherencia con lo que Pablo ha venido estableciendo desde el inicio.
 
 ## Pregunta sincera 
 
