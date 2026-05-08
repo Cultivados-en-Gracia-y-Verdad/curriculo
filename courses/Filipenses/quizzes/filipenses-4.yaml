@@ -1,0 +1,115 @@
+id: filipenses-4
+
+title: Filipenses 4
+
+questions:
+
+  - question: ¿Qué pidió Pablo a Evodia y a Síntique?
+    answers:
+      - text: Que vivieran en armonía en el Señor
+        correct: true
+      - text: Que viajaran a Roma
+        correct: false
+      - text: Que dejaran la iglesia
+        correct: false
+      - text: Que enseñaran públicamente
+        correct: false
+
+  - question: ¿Qué mandó Pablo respecto al gozo?
+    answers:
+      - text: Regocijarse siempre en el Señor
+        correct: true
+      - text: Regocijarse solo en tiempos buenos
+        correct: false
+      - text: Evitar toda emoción
+        correct: false
+      - text: Buscar alegría en las riquezas
+        correct: false
+
+  - question: ¿Qué debía ser conocido por todos los hombres?
+    answers:
+      - text: La bondad de los creyentes
+        correct: true
+      - text: Su riqueza
+        correct: false
+      - text: Su poder político
+        correct: false
+      - text: Su conocimiento filosófico
+        correct: false
+
+  - question: ¿Qué debían hacer en lugar de afanarse?
+    answers:
+      - text: Presentar sus peticiones a Dios
+        correct: true
+      - text: Buscar ayuda militar
+        correct: false
+      - text: Guardar silencio absoluto
+        correct: false
+      - text: Consultar filósofos
+        correct: false
+
+  - question: ¿Qué guardará los corazones y las mentes?
+    answers:
+      - text: La paz de Dios
+        correct: true
+      - text: El gobierno romano
+        correct: false
+      - text: La riqueza
+        correct: false
+      - text: La tradición judía
+        correct: false
+
+  - question: ¿En qué debían pensar los filipenses?
+    answers:
+      - text: En todo lo verdadero y digno
+        correct: true
+      - text: En la rivalidad
+        correct: false
+      - text: En las preocupaciones diarias
+        correct: false
+      - text: En las riquezas de Roma
+        correct: false
+
+  - question: ¿Qué había aprendido Pablo en cualquier situación?
+    answers:
+      - text: A contentarse
+        correct: true
+      - text: A evitar el sufrimiento
+        correct: false
+      - text: A depender de Roma
+        correct: false
+      - text: A retirarse del ministerio
+        correct: false
+
+  - question: ¿Qué podía hacer Pablo en Cristo?
+    answers:
+      - text: Todas las cosas
+        correct: true
+      - text: Solamente predicar
+        correct: false
+      - text: Solamente viajar
+        correct: false
+      - text: Solamente escribir cartas
+        correct: false
+
+  - question: ¿Qué hicieron los filipenses por Pablo?
+    answers:
+      - text: Participaron en su ayuda económica
+        correct: true
+      - text: Lo abandonaron
+        correct: false
+      - text: Lo denunciaron
+        correct: false
+      - text: Cerraron las iglesias
+        correct: false
+
+  - question: ¿Qué suplirá Dios según Pablo?
+    answers:
+      - text: Todo lo que les falta
+        correct: true
+      - text: Solamente riquezas materiales
+        correct: false
+      - text: Solamente alimento
+        correct: false
+      - text: Solamente protección política
+        correct: false

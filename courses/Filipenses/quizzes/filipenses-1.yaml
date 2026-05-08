@@ -1,0 +1,115 @@
+id: filipenses-1
+
+title: Filipenses 1
+
+questions:
+
+  - question: ¿Quiénes aparecen junto con Pablo en el saludo inicial?
+    answers:
+      - text: Timoteo
+        correct: true
+      - text: Tito
+        correct: false
+      - text: Silas
+        correct: false
+      - text: Lucas
+        correct: false
+
+  - question: ¿Por quiénes da gracias Pablo?
+    answers:
+      - text: Por los filipenses
+        correct: true
+      - text: Por los romanos
+        correct: false
+      - text: Por los corintios
+        correct: false
+      - text: Por los efesios
+        correct: false
+
+  - question: ¿Qué pide Pablo que abunde más y más?
+    answers:
+      - text: El amor
+        correct: true
+      - text: La riqueza
+        correct: false
+      - text: El conocimiento griego
+        correct: false
+      - text: La autoridad política
+        correct: false
+
+  - question: ¿Qué produjo el encarcelamiento de Pablo?
+    answers:
+      - text: El progreso del evangelio
+        correct: true
+      - text: El cierre de las iglesias
+        correct: false
+      - text: El abandono de la fe
+        correct: false
+      - text: El regreso de Pablo a Filipos
+        correct: false
+
+  - question: ¿Qué hacían algunos predicadores por rivalidad?
+    answers:
+      - text: Predicaban a Cristo
+        correct: true
+      - text: Negaban el evangelio
+        correct: false
+      - text: Abandonaban las iglesias
+        correct: false
+      - text: Seguían a César
+        correct: false
+
+  - question: ¿Qué dice Pablo acerca de vivir?
+    answers:
+      - text: Vivir es Cristo
+        correct: true
+      - text: Vivir es sufrir
+        correct: false
+      - text: Vivir es viajar
+        correct: false
+      - text: Vivir es gobernar
+        correct: false
+
+  - question: ¿Qué consideraba Pablo mucho mejor?
+    answers:
+      - text: Partir y estar con Cristo
+        correct: true
+      - text: Regresar a Jerusalén
+        correct: false
+      - text: Permanecer solo
+        correct: false
+      - text: Viajar a Roma libremente
+        correct: false
+
+  - question: ¿Cómo debían conducirse los filipenses?
+    answers:
+      - text: De una manera digna del evangelio
+        correct: true
+      - text: Conforme a las costumbres romanas
+        correct: false
+      - text: Como ciudadanos de Jerusalén
+        correct: false
+      - text: Siguiendo a los filósofos
+        correct: false
+
+  - question: ¿Qué debían hacer los filipenses juntos?
+    answers:
+      - text: Combatir unánimes por la fe del evangelio
+        correct: true
+      - text: Evitar toda oposición
+        correct: false
+      - text: Regresar a sus casas
+        correct: false
+      - text: Separarse de los demás creyentes
+        correct: false
+
+  - question: ¿Qué les fue concedido a los filipenses respecto a Cristo?
+    answers:
+      - text: Creer y sufrir por Él
+        correct: true
+      - text: Gobernar sobre Roma
+        correct: false
+      - text: Evitar toda dificultad
+        correct: false
+      - text: Juzgar a otras iglesias
+        correct: false

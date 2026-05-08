@@ -5,7 +5,6 @@ author: "CGV"
 cover: "images/portada2.png"
 version: "0.6"
 date: "2026-05-03"
-quizzes: "../quizzes/quizzes.yaml"
 ---
 
 :::title

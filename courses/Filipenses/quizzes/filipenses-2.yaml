@@ -1,0 +1,115 @@
+id: filipenses-2
+
+title: Filipenses 2
+
+questions:
+
+  - question: ¿Qué pidió Pablo que completara su gozo?
+    answers:
+      - text: Que tuvieran un mismo sentir
+        correct: true
+      - text: Que viajaran a Roma
+        correct: false
+      - text: Que dejaran de reunirse
+        correct: false
+      - text: Que aumentaran sus riquezas
+        correct: false
+
+  - question: ¿Cómo debían considerar a los demás?
+    answers:
+      - text: Como más importantes que ellos mismos
+        correct: true
+      - text: Como enemigos
+        correct: false
+      - text: Como inferiores
+        correct: false
+      - text: Como desconocidos
+        correct: false
+
+  - question: ¿Qué actitud hubo también en Cristo Jesús?
+    answers:
+      - text: Humildad
+        correct: true
+      - text: Rivalidad
+        correct: false
+      - text: Orgullo
+        correct: false
+      - text: Independencia
+        correct: false
+
+  - question: ¿Qué hizo Cristo al tomar forma de siervo?
+    answers:
+      - text: Se humilló a sí mismo
+        correct: true
+      - text: Se exaltó a sí mismo
+        correct: false
+      - text: Rechazó obedecer
+        correct: false
+      - text: Buscó reconocimiento humano
+        correct: false
+
+  - question: ¿Hasta qué punto fue obediente Cristo?
+    answers:
+      - text: Hasta la muerte de cruz
+        correct: true
+      - text: Hasta la prisión
+        correct: false
+      - text: Hasta Jerusalén solamente
+        correct: false
+      - text: Hasta ser rey en Israel
+        correct: false
+
+  - question: ¿Qué hizo Dios con Cristo después de su humillación?
+    answers:
+      - text: Lo exaltó hasta lo sumo
+        correct: true
+      - text: Lo dejó en la tumba
+        correct: false
+      - text: Lo envió a Roma
+        correct: false
+      - text: Lo ocultó del mundo
+        correct: false
+
+  - question: ¿Qué confesará toda lengua?
+    answers:
+      - text: Que Jesucristo es Señor
+        correct: true
+      - text: Que César es señor
+        correct: false
+      - text: Que Pablo es apóstol
+        correct: false
+      - text: Que Filipos es eterna
+        correct: false
+
+  - question: ¿Cómo debían ocuparse los filipenses en su salvación?
+    answers:
+      - text: Con temor y temblor
+        correct: true
+      - text: Con orgullo y confianza propia
+        correct: false
+      - text: Sin obediencia
+        correct: false
+      - text: Sin perseverancia
+        correct: false
+
+  - question: ¿Quién produce el querer y el hacer?
+    answers:
+      - text: Dios
+        correct: true
+      - text: El gobierno romano
+        correct: false
+      - text: Los filósofos griegos
+        correct: false
+      - text: Timoteo
+        correct: false
+
+  - question: ¿Qué hacía Epafrodito por causa de la obra de Cristo?
+    answers:
+      - text: Arriesgó su vida
+        correct: true
+      - text: Abandonó a Pablo
+        correct: false
+      - text: Negó el evangelio
+        correct: false
+      - text: Regresó a Jerusalén
+        correct: false

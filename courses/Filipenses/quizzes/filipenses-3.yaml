@@ -1,0 +1,115 @@
+id: filipenses-3
+
+title: Filipenses 3
+
+questions:
+
+  - question: ¿Contra quiénes advirtió Pablo a los filipenses?
+    answers:
+      - text: Los perros y los malos obreros
+        correct: true
+      - text: Los soldados romanos
+        correct: false
+      - text: Los samaritanos
+        correct: false
+      - text: Los publicanos
+        correct: false
+
+  - question: ¿Quiénes son la verdadera circuncisión?
+    answers:
+      - text: Los que adoran por el Espíritu de Dios
+        correct: true
+      - text: Los nacidos en Roma
+        correct: false
+      - text: Los descendientes de César
+        correct: false
+      - text: Los filósofos griegos
+        correct: false
+
+  - question: ¿Qué consideró Pablo como pérdida?
+    answers:
+      - text: Todo por causa de Cristo
+        correct: true
+      - text: Solamente sus viajes
+        correct: false
+      - text: Únicamente sus riquezas
+        correct: false
+      - text: Solamente su ciudadanía romana
+        correct: false
+
+  - question: ¿Qué deseaba Pablo ganar?
+    answers:
+      - text: A Cristo
+        correct: true
+      - text: Poder político
+        correct: false
+      - text: Reconocimiento humano
+        correct: false
+      - text: Autoridad militar
+        correct: false
+
+  - question: ¿Cómo quería Pablo ser hallado?
+    answers:
+      - text: En Cristo
+        correct: true
+      - text: En Jerusalén
+        correct: false
+      - text: Entre los fariseos
+        correct: false
+      - text: Entre los gobernantes romanos
+        correct: false
+
+  - question: ¿Qué hacía Pablo respecto a lo que quedaba atrás?
+    answers:
+      - text: Lo olvidaba
+        correct: true
+      - text: Lo celebraba continuamente
+        correct: false
+      - text: Lo escribía en cartas
+        correct: false
+      - text: Lo enseñaba en las sinagogas
+        correct: false
+
+  - question: ¿Hacia qué se extendía Pablo?
+    answers:
+      - text: Hacia lo que estaba delante
+        correct: true
+      - text: Hacia el pasado
+        correct: false
+      - text: Hacia Roma
+        correct: false
+      - text: Hacia el templo
+        correct: false
+
+  - question: ¿Qué perseguía Pablo?
+    answers:
+      - text: La meta del supremo llamamiento de Dios
+        correct: true
+      - text: El reconocimiento de los fariseos
+        correct: false
+      - text: El poder político
+        correct: false
+      - text: La riqueza material
+        correct: false
+
+  - question: ¿Dónde está la ciudadanía de los creyentes?
+    answers:
+      - text: En los cielos
+        correct: true
+      - text: En Roma
+        correct: false
+      - text: En Jerusalén
+        correct: false
+      - text: En Macedonia
+        correct: false
+
+  - question: ¿Qué transformará Cristo?
+    answers:
+      - text: El cuerpo de nuestro estado de humillación
+        correct: true
+      - text: El templo de Jerusalén
+        correct: false
+      - text: El gobierno romano
+        correct: false
+      - text: Las leyes de Moisés
+        correct: false
