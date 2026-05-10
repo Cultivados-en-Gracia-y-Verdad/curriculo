@@ -5,8 +5,8 @@ set -euo pipefail
 # configure these:
 # ================================
 MANUAL_NAME="Filemón"
-FILE_LOCATION="../12.Filemón"
-FILENAME="/filemon(v.05).md"
+FILE_LOCATION="../12.Filemon"
+FILENAME="/filemon(v.06).md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
