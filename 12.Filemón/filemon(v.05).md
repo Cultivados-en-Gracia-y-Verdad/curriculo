@@ -1,14 +1,23 @@
 ---
 title: "Filemón"
-
+subtitle: "Recíbelo como a mi"
+author: CGV
+version: 0.5
+date: 2026-05-10
+cover: "images/portada.png"
 ---
-# FILEMÓN
+
+:::title
+FILEMÓN
+:::
+:::subtitle
+"Recíbelo como a mi"
+:::
 
 ## Introducción
-
 **Contexto Histórico**
 
-###### La esclavitud formaba parte normal de la sociedad romana, y los esclavos se encontraban legalmente en una posición vulnerable frente a sus amos. Existen evidencias de esclavos que escapaban o abandonaban a sus <u>dueños</u>, y algunos podían enfrentar castigos severos al ser encontrados y devueltos. Las fuentes antiguas mencionan posibilidades como castigo físico, humillación pública, encarcelamiento, trabajos forzados e incluso ejecución en ciertos casos extremos.[^1]
+###### La esclavitud formaba parte normal de la sociedad romana, y los esclavos se encontraban legalmente en una posición vulnerable frente a sus amos. Existen evidencias de esclavos que escapaban o abandonaban a sus <u>dueños</u>, y algunos podían enfrentar castigos severos al ser encontrados y devueltos. Las fuentes antiguas mencionan posibilidades como castigo físico, humillación pública, encarcelamiento, trabajos forzados e incluso ejecución en ciertos casos extremos.
 
 ###### Sin embargo, es importante distinguir cuidadosamente entre lo que conocemos del contexto romano general y lo que la carta a Filemón <u>afirma</u> explícitamente. La carta nunca declara directamente que Onésimo estuviera condenado a muerte, que hubiera robado o que una ejecución fuera inminente. Tampoco detalla las circunstancias exactas de la separación entre Filemón y Onésimo.
 
@@ -783,42 +792,42 @@ Y te lo he vuelto a enviar en persona, es decir, como si fuera mi propio corazó
 ##### Pablo añade inmediatamente una aclaración acerca de <u>cómo</u> está enviando a Onésimo:
 - *como si fuera mi propio corazón*.
 
-###### Esto intensifica considerablemente el carácter relacional del ruego. Onésimo ya no es presentado simplemente como:
-- alguien útil,
+###### Esto intensifica considerablemente el carácter relacional del <u>ruego</u>. Onésimo ya no es presentado simplemente como:
+- alguien <u>útil</u>,
 - o como *mi hijo*,
-sino ahora como alguien profundamente unido al afecto personal de Pablo.
+sino <u>ahora</u> como alguien profundamente unido al afecto personal de Pablo.
 
-###### La palabra utilizada aquí (σπλάγχνα) puede comunicar afecto profundo, entrañas o sentimientos internos. Más adelante, Pablo volverá a utilizar este mismo lenguaje en relación con:
-- los santos (Filemón 7),
+###### La palabra utilizada aquí (σπλάγχνα) puede comunicar <u>afecto</u> profundo, entrañas o sentimientos internos. Más adelante, Pablo volverá a utilizar este mismo lenguaje en relación con:
+- los <u>santos</u> (Filemón 7),
 - y consigo mismo (Filemón 20).
 
-###### Esto crea una continuidad importante dentro de la carta:
+###### Esto crea una continuidad importante <u>dentro</u> de la carta:
 - los corazones de los santos han sido confortados por Filemón,
-- Onésimo es presentado como el propio corazón de Pablo,
-- y posteriormente Pablo pedirá nuevamente consuelo para sí mismo.
+- Onésimo es presentado como el <u>propio</u> corazón de Pablo,
+- y posteriormente Pablo <u>pedirá</u> nuevamente consuelo para sí mismo.
 
-###### La carta comienza así a entrelazar:
+###### La <u>carta</u> comienza así a entrelazar:
 - recepción,
-- afecto,
+- <u>afecto</u>,
 - descanso,
 - participación compartida,
-- y relaciones profundamente personales.
+- y <u>relaciones</u> profundamente personales.
 
 #### ...mi propio corazón.
-##### Pablo no minimiza el valor presente de Onésimo para él. Al contrario, el lenguaje utilizado intensifica progresivamente la manera en que Onésimo está siendo presentado dentro de la carta:
+##### Pablo no minimiza el valor presente de Onésimo para él. Al contrario, el lenguaje utilizado intensifica progresivamente la <u>manera</u> en que Onésimo está siendo presentado dentro de la carta:
 - mi hijo,
 - útil,
-- mi propio corazón,
+- mi <u>propio</u> corazón,
 - hermano amado.
 
-##### Esto aumenta la tensión del ruego porque el mismo Onésimo anteriormente relacionado con inutilidad y posible perjuicio ahora es presentado mediante relaciones profundamente valiosas y cercanas.
+##### Esto aumenta la tensión del ruego porque el mismo Onésimo anteriormente relacionado con inutilidad y posible perjuicio <u>ahora</u> es presentado mediante relaciones profundamente valiosas y cercanas.
 
-###### La carta parece mover constantemente a Onésimo hacia:
+###### La carta parece <u>mover</u> constantemente a Onésimo hacia:
 - una nueva consideración relacional,
-- una nueva recepción,
-- y una nueva ubicación dentro de la comunidad creyente.
+- una <u>nueva</u> recepción,
+- y una nueva ubicación <u>dentro</u> de la comunidad creyente.
 
-###### El desarrollo del ruego continúa así construyendo presión hacia la petición central: *recíbelo como a mí*.
+###### El desarrollo del ruego continúa así construyendo presión <u>hacia</u> la petición central: *recíbelo como a mí*.
 
 ## Filemón 1:13 Pablo hubiera querido retener a Onésimo para servir en las prisiones
 
@@ -827,61 +836,61 @@ Hubiera querido retenerlo conmigo, para que me sirviera en lugar tuyo en mis pri
 
 #### ...Hubiera querido retenerlo conmigo...
 ##### Pablo expresa aquí claramente su deseo personal respecto a Onésimo:
-- hubiera querido retenerlo consigo.
+- <u>hubiera</u> querido retenerlo consigo.
 
-##### Esto continúa intensificando el valor presente que Onésimo ha llegado a tener para Pablo dentro del desarrollo de la carta.
+##### Esto continúa intensificando el valor presente que Onésimo ha llegado a <u>tener</u> para Pablo dentro del desarrollo de la carta.
 
-###### Hasta este punto, Onésimo ya ha sido presentado como:
+###### Hasta este <u>punto</u>, Onésimo ya ha sido presentado como:
 - mi hijo,
 - útil,
-- mi propio corazón,
-- y ahora alguien que Pablo hubiera querido conservar consigo.
+- mi <u>propio</u> corazón,
+- y ahora alguien que Pablo <u>hubiera</u> querido conservar consigo.
 
-##### La carta continúa así desarrollando progresivamente la nueva consideración relacional de Onésimo.
+##### La carta continúa así desarrollando progresivamente la <u>nueva</u> consideración relacional de Onésimo.
 
-##### Sin embargo, aun cuando Pablo expresa este deseo personal, no actúa independientemente de Filemón. El versículo siguiente mostrará que Pablo no quiso hacer nada sin su consentimiento (Filemón 14).
+##### Sin embargo, aun cuando Pablo expresa este <u>deseo</u> personal, no actúa independientemente de Filemón. El versículo siguiente mostrará que Pablo no quiso hacer nada sin su consentimiento (Filemón 14).
 
 #### ...para que me sirviera en lugar tuyo en mis prisiones...
-##### Pablo explica ahora la razón por la cual hubiera querido retener a Onésimo:
+##### Pablo explica ahora la razón por la <u>cual</u> hubiera querido retener a Onésimo:
 - *para que me sirviera*.
 
-###### La carta no desarrolla específicamente de qué manera Filemón servía previamente a Pablo ni cómo Onésimo estaría ocupando ese lugar de servicio. Sin embargo, el versículo sí establece claramente una conexión compartida entre:
+###### La carta no desarrolla específicamente de qué manera Filemón servía previamente a Pablo ni cómo Onésimo estaría ocupando ese lugar de servicio. Sin embargo, el versículo sí establece claramente una conexión compartida <u>entre</u>:
 - Filemón,
 - Onésimo,
 - y servicio hacia Pablo en sus prisiones.
 
-###### Resulta importante observar que Onésimo es presentado ahora como alguien útil también dentro del servicio relacionado con el evangelio.
+###### Resulta importante observar que Onésimo es presentado ahora como alguien útil también dentro del servicio relacionado con el <u>evangelio</u>.
 
-###### Esto continúa desarrollando el contraste iniciado anteriormente:
-- antes inútil,
+###### Esto <u>continúa</u> desarrollando el contraste iniciado anteriormente:
+- antes <u>inútil</u>,
 - ahora útil.
 
-###### Además, la expresión: *en lugar tuyo* comienza a aumentar la tensión relacional de la carta. Pablo presenta a Onésimo participando ahora de una función o servicio anteriormente asociado con Filemón.
+###### Además, la expresión: *en lugar tuyo* comienza a aumentar la tensión relacional de la carta. Pablo presenta a Onésimo participando ahora de una función o servicio anteriormente <u>asociado</u> con Filemón.
 
-###### La carta parece mover constantemente a ambos:
+###### La carta parece mover constantemente a <u>ambos</u>:
 - Filemón,
 - y Onésimo,
-hacia una realidad compartida dentro de la participación entre creyentes.
+hacia una realidad compartida dentro de la participación <u>entre</u> creyentes.
 
 #### ...en mis prisiones por el evangelio.
-##### Pablo vuelve nuevamente a conectar:
+##### Pablo <u>vuelve</u> nuevamente a conectar:
 - sus prisiones,
 - el evangelio,
-- y las relaciones desarrolladas dentro de la carta.
+- y las relaciones desarrolladas <u>dentro</u> de la carta.
 
 ##### Desde el comienzo, Pablo se ha presentado como: *prisionero de Cristo Jesús*. Filemón 1:1
 
-###### Ahora las prisiones vuelven a aparecer como el contexto donde:
+###### Ahora las prisiones vuelven a aparecer <u>como</u> el contexto donde:
 - conoció a Onésimo,
-- lo engendró,
+- lo <u>engendró</u>,
 - y recibió servicio de él.
 
-###### Esto ayuda a percibir cómo el evangelio atraviesa constantemente las relaciones desarrolladas dentro de la carta:
+###### Esto ayuda a percibir cómo el evangelio atraviesa constantemente las relaciones desarrolladas <u>dentro</u> de la carta:
 - Pablo y Filemón,
 - Pablo y Onésimo,
 - y posteriormente Filemón y Onésimo.
 
-##### La carta continúa así construyendo presión hacia una nueva recepción de Onésimo dentro de estas realidades compartidas.
+##### La carta continúa así construyendo presión hacia una <u>nueva</u> recepción de Onésimo dentro de estas realidades compartidas.
 
 ## Filemón 1:14 Pablo no quiso actuar sin el consentimiento de Filemón
 
@@ -889,51 +898,51 @@ hacia una realidad compartida dentro de la participación entre creyentes.
 Pero no quise hacer nada sin tu consentimiento, para que tu bondad no fuera como por obligación, sino por tu propia voluntad.
 
 #### ...Pero no quise hacer nada sin tu consentimiento...
-##### Después de expresar que hubiera querido retener a Onésimo consigo (Filemón 1:13), Pablo aclara inmediatamente que no quiso actuar sin el consentimiento de Filemón.
+##### Después de expresar que hubiera querido retener a Onésimo consigo (Filemón 1:13), Pablo aclara inmediatamente que no <u>quiso</u> actuar sin el consentimiento de Filemón.
 
 ##### Esto resulta importante dentro del desarrollo de la carta porque continúa mostrando que Pablo no desea imponer el resultado del ruego mediante autoridad o presión externa.
 
-###### A lo largo de esta sección, la carta ha desarrollado constantemente el contraste entre:
+###### A lo largo de esta sección, la <u>carta</u> ha desarrollado constantemente el contraste entre:
 - mandar,
-- y rogar.
+- y <u>rogar</u>.
 
-###### Ahora Pablo añade otra dimensión importante:
+###### Ahora Pablo <u>añade</u> otra dimensión importante:
 - actuar con consentimiento,
-- y no independientemente de Filemón.
+- y no independientemente de <u>Filemón</u>.
 
-##### Esto ayuda a percibir que el ruego relacionado con Onésimo busca una respuesta compartida y voluntaria dentro de las relaciones previamente desarrolladas en la carta.
+##### Esto ayuda a percibir que el ruego relacionado con Onésimo busca una respuesta compartida y voluntaria dentro de las relaciones previamente desarrolladas en la <u>carta</u>.
 
 ##### La palabra *consentimiento* comunica aquí la idea de acuerdo, parecer o aprobación compartida.
 
-##### La carta comienza así a mostrar que Pablo no solamente desea enviar a Onésimo de regreso, sino también que Filemón llegue a participar conscientemente de la misma realidad relacional presentada por Pablo.
+##### La carta comienza así a mostrar que <u>Pablo</u> no solamente desea enviar a Onésimo de regreso, sino también que Filemón llegue a participar conscientemente de la misma realidad relacional presentada por Pablo.
 
 #### ...para que tu bondad no fuera como por obligación...
-##### Pablo explica ahora la razón de no actuar sin el consentimiento de Filemón:
+##### Pablo explica ahora la razón de no <u>actuar</u> sin el consentimiento de Filemón:
 - no desea una bondad producida *por obligación*.
 
 ###### Esto conecta directamente con el desarrollo previo de la carta:
 - participación compartida,
-- amor,
+- <u>amor</u>,
 - fe,
 - consuelo,
 - y recepción.
 
-###### La carta parece construir cuidadosamente una respuesta que no resulte simplemente de presión apostólica o imposición externa.
+###### La carta parece construir cuidadosamente una respuesta que no resulte simplemente de presión apostólica o imposición <u>externa</u>.
 
-###### Resulta importante observar que Pablo no elimina la presión relacional de la carta. Al contrario, la carta está profundamente cargada de:
+###### Resulta importante observar que Pablo no elimina la presión relacional de la carta. Al contrario, la carta está profundamente <u>cargada</u> de:
 - afecto,
 - relaciones compartidas,
-- comunidad,
+- <u>comunidad</u>,
 - y apelación personal.
 
 ###### Sin embargo, Pablo distingue aquí entre:
-- obligación,
+- <u>obligación</u>,
 - y voluntad propia.
 
 #### ...sino por tu propia voluntad.
-##### Pablo desea que la respuesta de Filemón surja voluntariamente dentro de las realidades compartidas desarrolladas a lo largo de la carta.
+##### Pablo desea que la respuesta de Filemón surja voluntariamente <u>dentro</u> de las realidades compartidas desarrolladas a lo largo de la carta.
 
-###### Esto ayuda a explicar por qué Pablo ha construido cuidadosamente el ruego mediante:
+###### Esto <u>ayuda</u> a explicar por qué Pablo ha construido cuidadosamente el ruego mediante:
 - amor,
 - participación compartida,
 - relaciones familiares,
@@ -952,9 +961,9 @@ Pero no quise hacer nada sin tu consentimiento, para que tu bondad no fuera como
 ###### Este versículo resulta especialmente importante para comprender el tono completo de la carta:
 - Pablo posee autoridad,
 - pero prefiere rogar;
-- posee libertad para mandar,
+- posee libertad para <u>mandar</u>,
 - pero busca consentimiento;
-- y desea una bondad que resulte voluntariamente dentro de las relaciones compartidas entre creyentes.
+- y desea una bondad que <u>resulte</u> voluntariamente dentro de las relaciones compartidas entre creyentes.
 
 ## Filemón 1:15 Onésimo fue separado por un tiempo para ser recibido de nuevo
 
@@ -964,61 +973,61 @@ Porque quizá por esto se apartó de ti por algún tiempo, para que lo volvieras
 #### ...Porque quizá por esto se apartó de ti por algún tiempo...
 ##### Pablo introduce aquí una reflexión cuidadosa acerca de la separación ocurrida entre Filemón y Onésimo.
 
-##### Resulta importante observar el lenguaje utilizado: *quizá*.
+##### Resulta importante <u>observar</u> el lenguaje utilizado: *quizá*.
 
 ##### Pablo no presenta esta afirmación de manera absoluta o dogmática. La carta introduce aquí una posibilidad considerada cuidadosamente por Pablo respecto a lo ocurrido entre ambos.
 
-###### La separación entre Filemón y Onésimo es tratada como una realidad conocida dentro de la carta:
+###### La separación entre Filemón y Onésimo es <u>tratada</u> como una realidad conocida dentro de la carta:
 - hubo un apartamiento,
 - hubo una ausencia,
 - y ahora existe un regreso.
 
-###### Sin embargo, la carta no desarrolla exhaustivamente todos los detalles históricos relacionados con esa separación.
+###### Sin embargo, la <u>carta</u> no desarrolla exhaustivamente todos los detalles históricos relacionados con esa separación.
 
-###### El verbo *se apartó* aparece en voz pasiva, lo que permite observar que Pablo describe el apartamiento sin enfocarse directamente en explicar exhaustivamente quién produjo la separación o cómo ocurrió cada circunstancia.
+###### El verbo *se apartó* aparece en voz pasiva, lo que permite observar que Pablo describe el apartamiento sin enfocarse directamente en explicar exhaustivamente quién produjo la separación o cómo <u>ocurrió</u> cada circunstancia.
 
-###### Más importante para el flujo de la carta es el movimiento que Pablo desarrolla:
-- separación,
+###### Más importante para el <u>flujo</u> de la carta es el movimiento que Pablo desarrolla:
+- <u>separación</u>,
 - regreso,
-- y nueva recepción.
+- y nueva <u>recepción</u>.
 
 ###### Hasta este punto, la carta ha presentado progresivamente a Onésimo como:
 - hijo,
 - útil,
-- el propio corazón de Pablo,
-- y alguien relacionado ahora con participación compartida entre creyentes.
+- el propio <u>corazón</u> de Pablo,
+- y alguien relacionado <u>ahora</u> con participación compartida entre creyentes.
 
 #### ...para que lo volvieras a recibir para siempre,
-##### Pablo conecta ahora la separación temporal con una nueva recepción futura: *para que lo volvieras a recibir*.
+##### Pablo conecta ahora la separación temporal con una <u>nueva</u> recepción futura: *para que lo volvieras a recibir*.
 
 ##### La carta comienza así a mover claramente el centro del ruego hacia la recepción de Onésimo.
 
-###### Resulta importante observar que el verbo principal ya no es:
-- escapar,
+###### Resulta importante observar que el <u>verbo</u> principal ya no es:
+- <u>escapar</u>,
 - separarse,
 - o perjudicar,
 
 ###### sino:
 - recibir nuevamente.
 
-##### Esto intensifica una de las continuidades principales de la carta:
+##### Esto intensifica una de las continuidades <u>principales</u> de la carta:
 > participación compartida  
 > ↓  
-> produce presión hacia  
+> produce <u>presión</u> hacia  
 > ↓  
 > una nueva recepción coherente con esas realidades.
 
-###### La expresión: *para siempre* aumenta además el peso relacional del versículo. Pablo parece contrastar:
+###### La expresión: *para siempre* <u>aumenta</u> además el peso relacional del versículo. Pablo parece contrastar:
 - una separación temporal,
 - con una recepción de carácter permanente.
 
-###### Más adelante, el desarrollo de la carta explicará esta nueva recepción mediante expresiones como:
+###### Más adelante, el desarrollo de la carta explicará esta <u>nueva</u> recepción mediante expresiones como:
 - *ya no como esclavo*,
 - *más que esclavo*,
 - *hermano amado*,
 - y *recíbelo como a mí*.
 
-##### La carta comienza así a mostrar que el regreso de Onésimo no es presentado simplemente como una restauración de la situación anterior, sino dentro de una nueva realidad relacional compartida entre creyentes.
+##### La carta comienza así a mostrar que el regreso de Onésimo no es presentado simplemente como una restauración de la situación anterior, sino dentro de una <u>nueva</u> realidad relacional compartida entre creyentes.
 
 ## Filemón 1:16 Onésimo ya no es recibido solamente como esclavo, sino como hermano amado
 
@@ -1026,106 +1035,106 @@ Porque quizá por esto se apartó de ti por algún tiempo, para que lo volvieras
 ya no como esclavo, sino como más que un esclavo, como un hermano amado, especialmente para mí, pero cuánto más para ti, tanto en la carne como en el Señor.
 
 #### ...ya no como esclavo,
-##### Pablo comienza aquí a describir explícitamente la nueva manera en que Onésimo debe ser recibido.
+##### Pablo comienza aquí a describir explícitamente la nueva <u>manera</u> en que Onésimo debe ser recibido.
 
-###### Resulta importante observar que Pablo no niega completamente la realidad anterior de Onésimo. El contraste funciona precisamente porque existía una relación previa conocida entre:
+###### Resulta importante observar que Pablo no niega completamente la realidad anterior de Onésimo. El contraste funciona precisamente porque <u>existía</u> una relación previa conocida entre:
 - Filemón,
 - y Onésimo.
 
 ###### Sin embargo, la carta muestra claramente que Pablo ya no desea que Onésimo sea considerado únicamente desde esa relación anterior.
 
-###### Hasta este punto, Onésimo ya ha sido presentado como:
+###### Hasta este punto, Onésimo ya ha sido presentado <u>como</u>:
 - hijo,
-- útil,
+- <u>útil</u>,
 - el propio corazón de Pablo,
 - y alguien relacionado con participación compartida entre creyentes.
 
-###### Ahora la carta introduce explícitamente una nueva manera de recibirlo.
+###### Ahora la carta introduce explícitamente una nueva <u>manera</u> de recibirlo.
 
 #### ...sino como más que un esclavo,
 ##### Pablo intensifica inmediatamente el contraste: *más que un esclavo*.
 
-##### La carta no desarrolla aquí una discusión abstracta sobre la institución de la esclavitud. El énfasis del versículo se encuentra más bien en la nueva consideración relacional de Onésimo dentro de las realidades compartidas *en el Señor*.
+##### La carta no desarrolla aquí una discusión abstracta sobre la institución de la esclavitud. El <u>énfasis</u> del versículo se encuentra más bien en la nueva consideración relacional de Onésimo dentro de las realidades compartidas *en el Señor*.
 
-###### El movimiento de la carta continúa siendo profundamente relacional:
+###### El movimiento de la carta continúa <u>siendo</u> profundamente relacional:
 - antes inútil,
 - ahora útil;
-- antes separado,
+- antes <u>separado</u>,
 - ahora recibido;
-- ya no solamente esclavo,
+- ya no solamente <u>esclavo</u>,
 - sino más que esclavo.
 
-###### La tensión de la carta aumenta considerablemente en este punto porque Pablo está pidiendo una recepción que vaya más allá de categorías anteriores conocidas por Filemón.
+###### La tensión de la carta aumenta considerablemente en este punto porque Pablo está pidiendo una recepción que vaya más allá de categorías anteriores conocidas por <u>Filemón</u>.
 
 #### ...como un hermano amado,
 ##### Pablo explica ahora explícitamente qué significa: *más que un esclavo*.
 
-##### Onésimo debe ser recibido: *como un hermano amado*.
+##### Onésimo <u>debe</u> ser recibido: *como un hermano amado*.
 
 ###### Esta expresión reúne varias de las continuidades desarrolladas a lo largo de toda la carta:
 - hermano,
-- amado,
+- <u>amado</u>,
 - participación compartida,
 - comunión,
-- y recepción dentro de la comunidad creyente.
+- y recepción dentro de la comunidad <u>creyente</u>.
 
 ###### Desde el inicio, la carta ha desarrollado constantemente lenguaje familiar y relacional:
 - hermano,
-- hijo,
+- <u>hijo</u>,
 - compañero,
 - amado,
-- santos,
+- <u>santos</u>,
 - y comunión compartida.
 
 ###### Ahora todas esas realidades convergen directamente sobre Onésimo.
 
-###### Esto intensifica enormemente el peso del ruego desarrollado por Pablo.
+###### Esto intensifica enormemente el peso del <u>ruego</u> desarrollado por Pablo.
 
 #### ...especialmente para mí,
-##### Pablo vuelve nuevamente a incluir su propia relación con Onésimo dentro del ruego.
+##### Pablo vuelve nuevamente a incluir su <u>propia</u> relación con Onésimo dentro del ruego.
 
 ###### El mismo Onésimo anteriormente separado de Filemón ha llegado a ser:
 - útil,
 - hijo,
-- el propio corazón de Pablo,
+- el propio <u>corazón</u> de Pablo,
 - y ahora *hermano amado*.
 
-###### La carta continúa así mostrando la profunda transformación relacional producida alrededor de Onésimo dentro de las relaciones compartidas entre creyentes.
+###### La carta continúa así mostrando la profunda transformación relacional producida alrededor de Onésimo <u>dentro</u> de las relaciones compartidas entre creyentes.
 
 #### ...pero cuánto más para ti,
 ##### Pablo aumenta todavía más la presión relacional del ruego.
 
-##### Si Onésimo ha llegado a ser profundamente valioso para Pablo, cuánto más debería serlo para Filemón.
+##### Si Onésimo ha llegado a ser profundamente <u>valioso</u> para Pablo, cuánto más debería serlo para Filemón.
 
-###### La carta comienza así a mover a Filemón hacia una nueva recepción coherente con las realidades previamente desarrolladas:
-- amor,
+###### La carta comienza así a <u>mover</u> a Filemón hacia una nueva recepción coherente con las realidades previamente desarrolladas:
+- <u>amor</u>,
 - participación compartida,
 - comunión,
-- descanso para los santos,
-- y relaciones familiares dentro del Señor.
+- descanso para los <u>santos</u>,
+- y relaciones familiares <u>dentro</u> del Señor.
 
 #### ...tanto en la carne como en el Señor.
-##### Pablo conecta finalmente esta nueva relación con dos dimensiones mencionadas juntas:
+##### Pablo conecta finalmente esta <u>nueva</u> relación con dos dimensiones mencionadas juntas:
 - *en la carne*,
 - y *en el Señor*.
 
-###### La carta no desarrolla exhaustivamente todos los detalles de esta expresión; sin embargo, sí parece mostrar que la nueva relación entre Filemón y Onésimo afecta ahora:
+###### La carta no desarrolla exhaustivamente todos los detalles de esta expresión; sin embargo, sí parece <u>mostrar</u> que la nueva relación entre Filemón y Onésimo afecta ahora:
 - su relación presente y concreta,
-- y también su realidad compartida *en el Señor*.
+- y también su <u>realidad</u> compartida *en el Señor*.
 
 ###### Desde el comienzo de la carta, Pablo ha desarrollado constantemente relaciones compartidas:
-- en Cristo,
+- en <u>Cristo</u>,
 - en el Señor,
-- entre hermanos,
+- <u>entre</u> hermanos,
 - y dentro de la comunidad creyente.
 
-##### Este versículo representa uno de los puntos culminantes de esa continuidad relacional:
+##### Este versículo representa uno de los puntos culminantes de esa continuidad <u>relacional</u>:
 
 > ya no solamente esclavo  
 > ↓  
-> sino hermano amado.
+> sino hermano <u>amado</u>.
 
-###### La carta ha movido progresivamente a Onésimo:
+###### La <u>carta</u> ha movido progresivamente a Onésimo:
 - desde separación,
 - inutilidad,
 - y tensión pasada,
@@ -1133,7 +1142,7 @@ ya no como esclavo, sino como más que un esclavo, como un hermano amado, especi
 ###### hacia:
 - participación compartida,
 - nueva recepción,
-- y relación familiar dentro del Señor.
+- y relación familiar <u>dentro</u> del Señor.
 
 ## En Síntesis
 >- Pablo presenta progresivamente a Onésimo según quien es ahora.
@@ -1150,71 +1159,70 @@ ya no como esclavo, sino como más que un esclavo, como un hermano amado, especi
 Si me tienes, pues, por compañero, acéptalo como me aceptarías a mí.
 
 #### ...Si me tienes, pues, por compañero...
-##### Pablo conecta aquí el ruego central de la carta con la relación compartida existente entre él y Filemón.
+##### Pablo <u>conecta</u> aquí el ruego central de la carta con la relación compartida existente entre él y Filemón.
 
-##### La condición presentada no parece introducir duda acerca de si Filemón considera o no a Pablo como compañero. Más bien, Pablo desarrolla el ruego partiendo de una realidad relacional ya asumida entre ambos.
+##### La condición presentada no parece introducir duda acerca de si Filemón considera o no a Pablo como compañero. Más bien, Pablo desarrolla el ruego partiendo de una realidad relacional ya asumida entre <u>ambos</u>.
 
-###### La palabra *compañero* (κοινωνός) está relacionada con el lenguaje de participación y comunión desarrollado anteriormente en la carta:
+###### La <u>palabra</u> *compañero* (κοινωνός) está relacionada con el lenguaje de participación y comunión desarrollado anteriormente en la carta:
 - *la comunión de tu fe* (Filemón 6),
 - relaciones compartidas,
 - participación compartida,
-- y comunidad entre creyentes.
+- y comunidad entre <u>creyentes</u>.
 
-###### Esto resulta importante porque el ruego principal de la carta no aparece aislado, sino construido sobre relaciones previamente reconocidas:
+###### Esto resulta importante porque el ruego principal de la carta no aparece aislado, sino construido <u>sobre</u> relaciones previamente reconocidas:
 - hermano amado,
 - participación,
-- comunión,
+- <u>comunión</u>,
 - consuelo,
 - y recepción dentro de la comunidad creyente.
 
-###### La carta parece llegar aquí a uno de sus puntos culminantes:
+###### La carta parece <u>llegar</u> aquí a uno de sus puntos culminantes:
 - si compartimos esta participación,
 - entonces recibe a Onésimo de esta manera.
 
 #### ...acéptalo como me aceptarías a mí.
 ##### Este es el ruego central y más directo de toda la carta: *acéptalo*.
 
-###### Resulta importante observar que este imperativo aparece solamente después de todo el desarrollo previo de la carta:
-- amor,
+###### Resulta importante observar que este imperativo aparece solamente después de todo el desarrollo <u>previo</u> de la carta:
+- <u>amor</u>,
 - fe,
 - participación compartida,
-- consuelo,
+- <u>consuelo</u>,
 - hermano amado,
-- utilidad,
+- <u>utilidad</u>,
 - y recepción.
 
-###### Pablo no comienza la carta mandando directamente qué hacer con Onésimo. La petición es construida progresivamente mediante relaciones y realidades compartidas entre creyentes.
+###### Pablo no comienza la carta mandando directamente qué <u>hacer</u> con Onésimo. La petición es construida progresivamente mediante relaciones y realidades compartidas entre creyentes.
 
-###### Ahora, finalmente, la carta llega al centro explícito del ruego: *acéptalo como me aceptarías a mí*.
+###### Ahora, finalmente, la carta <u>llega</u> al centro explícito del ruego: *acéptalo como me aceptarías a mí*.
 
-###### Esta expresión concentra gran parte de la tensión relacional desarrollada a lo largo de toda la carta.
+###### Esta expresión concentra <u>gran</u> parte de la tensión relacional desarrollada a lo largo de toda la carta.
 
-###### Hasta este punto, Onésimo ha sido presentado como:
+###### Hasta este punto, Onésimo ha sido presentado <u>como</u>:
 - hijo,
 - útil,
-- el propio corazón de Pablo,
+- el propio <u>corazón</u> de Pablo,
 - hermano amado,
-- y participante de las mismas realidades compartidas.
+- y participante de las <u>mismas</u> realidades compartidas.
 
-###### Ahora Pablo da un paso todavía más fuerte:
-- la recepción de Onésimo
-queda directamente relacionada con la recepción de Pablo mismo.
+###### Ahora Pablo da un paso todavía más <u>fuerte</u>:
+- la recepción de Onésimo <u>queda</u> directamente relacionada con la recepción de Pablo mismo.
 
 ###### Esto intensifica enormemente la presión relacional de la carta.
 
-###### La expresión: *como a mí* parece reunir muchas de las continuidades desarrolladas previamente:
+###### La expresión: *como a mí* parece <u>reunir</u> muchas de las continuidades desarrolladas previamente:
 - participación compartida,
-- comunión,
-- hermano amado,
-- relación en el Señor,
-- y recepción dentro de la comunidad creyente.
+- <u>comunión</u>,
+- hermano <u>amado</u>,
+- <u>relación</u> en el Señor,
+- y recepción <u>dentro</u> de la comunidad creyente.
 
 ###### La carta parece mostrar así que:
-- la nueva consideración de Onésimo
-- debe corresponder a las realidades compartidas
-- desarrolladas a lo largo de toda la carta.
+- la <u>nueva</u> consideración de Onésimo
+- debe corresponder a las realidades <u>compartidas</u>
+- desarrolladas a lo <u>largo</u> de toda la carta.
 
-##### Este versículo representa uno de los puntos más altos del desarrollo relacional de Filemón:
+##### Este versículo representa uno de los <u>puntos</u> más altos del desarrollo relacional de Filemón:
 
 > participación compartida  
 > ↓  
@@ -1228,62 +1236,62 @@ queda directamente relacionada con la recepción de Pablo mismo.
 Y si te ha perjudicado en alguna forma, o te debe algo, cárgalo a mi cuenta.
 
 #### ...Y si te ha perjudicado en alguna forma,
-##### Pablo reconoce aquí la posibilidad de perjuicio o daño relacionado con Onésimo.
+##### Pablo reconoce aquí la posibilidad de perjuicio o <u>daño</u> relacionado con Onésimo.
 
-###### La carta no desarrolla exhaustivamente los detalles específicos de ese perjuicio; sin embargo, Pablo demuestra claramente estar consciente de que existía una situación previa problemática entre:
+###### La <u>carta</u> no desarrolla exhaustivamente los detalles específicos de ese perjuicio; sin embargo, Pablo demuestra claramente estar consciente de que existía una situación previa problemática entre:
 - Filemón,
 - y Onésimo.
 
-###### Resulta importante observar que Pablo no ignora ni minimiza esa realidad pasada. A lo largo de la carta, Pablo ha reconocido constantemente:
+###### Resulta importante observar que Pablo no ignora ni minimiza esa realidad <u>pasada</u>. A lo largo de la carta, Pablo ha reconocido constantemente:
 - la separación,
-- la inutilidad pasada,
-- y ahora también la posibilidad de perjuicio o deuda.
+- la inutilidad <u>pasada</u>,
+- y <u>ahora</u> también la posibilidad de perjuicio o deuda.
 
-##### Esto aumenta todavía más la tensión del ruego, porque la nueva recepción de Onésimo no ocurre ignorando completamente el pasado, sino precisamente dentro de él.
+##### Esto aumenta todavía más la tensión del ruego, porque la nueva recepción de Onésimo no <u>ocurre</u> ignorando completamente el pasado, sino precisamente dentro de él.
 
 #### ...o te debe algo,
 ##### Pablo añade además la posibilidad de una deuda pendiente entre Onésimo y Filemón.
 
-##### Nuevamente, la carta no explica todos los detalles de esa deuda; sin embargo, el versículo muestra claramente que Pablo está dispuesto a enfrentar directamente cualquier asunto pendiente relacionado con Onésimo.
+##### Nuevamente, la carta no explica todos los detalles de esa deuda; sin embargo, el versículo <u>muestra</u> claramente que Pablo está dispuesto a enfrentar directamente cualquier asunto pendiente relacionado con Onésimo.
 
-###### Resulta importante observar el movimiento de la carta. Pablo ha presentado progresivamente a Onésimo como:
+###### Resulta importante observar el movimiento de la carta. Pablo ha <u>presentado</u> progresivamente a Onésimo como:
 - hijo,
 - útil,
-- su propio corazón,
-- hermano amado,
-- y alguien que debe ser recibido como al mismo Pablo.
+- su propio <u>corazón</u>,
+- <u>hermano</u> amado,
+- y alguien que debe ser recibido <u>como</u> al mismo Pablo.
 
 ###### Ahora, Pablo también se involucra personalmente respecto a cualquier perjuicio o deuda existente.
 
-##### Esto intensifica todavía más el carácter relacional del ruego.
+##### Esto intensifica todavía más el carácter relacional del <u>ruego</u>.
 
 #### ...cárgalo a mi cuenta.
-##### Pablo introduce aquí uno de los momentos más fuertes del desarrollo de la carta: *cárgalo a mi cuenta*.
+##### Pablo introduce aquí <u>uno</u> de los momentos más fuertes del desarrollo de la carta: *cárgalo a mi cuenta*.
 
-###### El lenguaje se vuelve profundamente personal. Pablo no solamente ruega por Onésimo; ahora también se coloca voluntariamente entre:
+###### El lenguaje se vuelve profundamente personal. Pablo no solamente ruega por Onésimo; ahora también se <u>coloca</u> voluntariamente entre:
 - Filemón,
-- y cualquier deuda o perjuicio relacionado con Onésimo.
+- y cualquier deuda o <u>perjuicio</u> relacionado con Onésimo.
 
-###### Este es el segundo imperativo explícito de la carta:
+###### Este es el segundo imperativo explícito de la <u>carta</u>:
 - *acéptalo* (Filemón 17),
 - *cárgalo* (Filemón 18).
 
-###### Ambos imperativos aparecen directamente relacionados con:
-- la nueva consideración de Onésimo,
+###### <u>Ambos</u> imperativos aparecen directamente relacionados con:
+- la <u>nueva</u> consideración de Onésimo,
 - y la manera en que Pablo desea que Filemón responda a esa nueva realidad.
 
-###### La carta continúa así desarrollando una presión relacional profundamente concreta:
+###### La carta continúa así desarrollando una <u>presión</u> relacional profundamente concreta:
 - recibir,
 - asumir,
-- reconciliar,
-- y responder coherentemente a las relaciones compartidas entre creyentes.
+- <u>reconciliar</u>,
+- y responder coherentemente a las relaciones compartidas entre <u>creyentes</u>.
 
-###### Pablo parece corresponder personalmente a la nueva relación existente con Onésimo. El mismo Onésimo anteriormente separado y posiblemente perjudicial ahora es tratado por Pablo como:
-- hijo,
+###### Pablo parece corresponder personalmente a la nueva relación existente con Onésimo. El mismo Onésimo anteriormente <u>separado</u> y posiblemente perjudicial ahora es tratado por Pablo como:
+- <u>hijo</u>,
 - hermano amado,
-- y alguien por quien Pablo está dispuesto a asumir personalmente el costo.
+- y alguien por quien Pablo está dispuesto a <u>asumir</u> personalmente el costo.
 
-##### La tensión relacional de la carta alcanza aquí uno de sus puntos más profundos.
+##### La tensión relacional de la <u>carta</u> alcanza aquí uno de sus puntos más profundos.
 
 ## Filemón 1:19 Pablo promete pagar personalmente lo adeudado
 
@@ -1291,11 +1299,11 @@ Y si te ha perjudicado en alguna forma, o te debe algo, cárgalo a mi cuenta.
 Yo, Pablo, escribo esto con mi propia mano. Yo lo pagaré (por no decirte que aun tú mismo te me debes a mí).
 
 #### ...Yo, Pablo, escribo esto con mi propia mano.
-##### Pablo vuelve a identificarse explícitamente dentro de la carta: *Yo, Pablo*.
+##### Pablo vuelve a identificarse explícitamente dentro de la <u>carta</u>: *Yo, Pablo*.
 
-##### La expresión: *escribo esto con mi propia mano* intensifica el carácter personal del compromiso que Pablo acaba de expresar en el versículo anterior.
+##### La expresión: *escribo esto con mi propia mano* intensifica el carácter personal del compromiso que Pablo <u>acaba</u> de expresar en el versículo anterior.
 
-###### La carta ha desarrollado constantemente un tono profundamente relacional y personal:
+###### La carta ha desarrollado constantemente un tono profundamente <u>relacional</u> y personal:
 - *mi hijo*,
 - *mi propio corazón*,
 - *recíbelo como a mí*,
@@ -1303,51 +1311,51 @@ Yo, Pablo, escribo esto con mi propia mano. Yo lo pagaré (por no decirte que au
 ###### y ahora: 
 - *yo lo pagaré*.
 
-##### Pablo no presenta el ruego de manera distante o impersonal. Al contrario, se involucra personalmente dentro de la situación entre Filemón y Onésimo.
+##### Pablo no <u>presenta</u> el ruego de manera distante o impersonal. Al contrario, se involucra personalmente dentro de la situación entre Filemón y Onésimo.
 
 ##### Esto aumenta todavía más el peso del ruego desarrollado a lo largo de toda la carta.
 
 #### ...Yo lo pagaré...
-##### Pablo expresa aquí directamente su disposición a asumir personalmente cualquier deuda relacionada con Onésimo.
+##### Pablo expresa aquí directamente su disposición a <u>asumir</u> personalmente cualquier deuda relacionada con Onésimo.
 
-##### El compromiso es presentado de manera enfática: *Yo lo pagaré*.
+##### El compromiso es presentado de <u>manera</u> enfática: *Yo lo pagaré*.
 
-###### La carta continúa así mostrando cómo Pablo se coloca voluntariamente entre:
+###### La carta <u>continúa</u> así mostrando cómo Pablo se coloca voluntariamente entre:
 - Filemón,
 - y Onésimo.
 
-###### Resulta importante observar que el desarrollo del ruego ya no se mueve solamente en términos de:
+###### Resulta importante <u>observar</u> que el desarrollo del ruego ya no se mueve solamente en términos de:
 - afecto,
 - recepción,
-- o participación compartida,
+- o <u>participación</u> compartida,
 
 ###### sino también:
-- en términos concretos de responsabilidad y costo.
+- en términos concretos de responsabilidad y <u>costo</u>.
 
-###### Esto intensifica todavía más la fuerza relacional de la carta:
+###### Esto intensifica todavía más la <u>fuerza</u> relacional de la carta:
 - Pablo recibe a Onésimo,
-- ruega por él,
-- pide que sea recibido,
-- y ahora también asume personalmente cualquier deuda pendiente.
+- <u>ruega</u> por él,
+- pide que sea <u>recibido</u>,
+- y ahora también <u>asume</u> personalmente cualquier deuda pendiente.
 
 #### ...(por no decirte que aun tú mismo te me debes a mí).
 ##### Pablo añade aquí una observación cuidadosamente introducida entre paréntesis.
 
-##### La carta no desarrolla exhaustivamente en qué sentido Filemón se debía a Pablo; sin embargo, la expresión muestra nuevamente la profunda relación existente entre ambos.
+##### La carta no desarrolla exhaustivamente en qué <u>sentido</u> Filemón se debía a Pablo; sin embargo, la expresión muestra nuevamente la profunda relación existente entre ambos.
 
-##### Resulta importante observar que Pablo menciona esta realidad sin convertirla en el fundamento principal del ruego.
+##### <u>Resulta</u> importante observar que Pablo menciona esta realidad sin convertirla en el fundamento principal del ruego.
 
 ###### La carta ha mostrado constantemente que Pablo:
-- posee autoridad,
+- posee <u>autoridad</u>,
 - tiene libertad para mandar,
-- y mantiene una relación profundamente significativa con Filemón.
+- y mantiene una <u>relación</u> profundamente significativa con Filemón.
 
-###### Sin embargo, Pablo continúa desarrollando el ruego principalmente mediante:
+###### Sin embargo, Pablo continúa desarrollando el ruego principalmente <u>mediante</u>:
 - apelación relacional,
 - participación compartida,
-- y recepción voluntaria.
+- y <u>recepción</u> voluntaria.
 
-###### Esta observación final aumenta todavía más la presión relacional de la carta, pero sin desplazar el tono principal del ruego cuidadosamente construido desde el comienzo.
+###### Esta observación final aumenta todavía más la presión relacional de la carta, pero sin desplazar el tono principal del ruego cuidadosamente construido <u>desde</u> el comienzo.
 
 ## Filemón 1:20 Pablo desea recibir beneficio y descanso por medio de Filemón
 
@@ -1355,84 +1363,82 @@ Yo, Pablo, escribo esto con mi propia mano. Yo lo pagaré (por no decirte que au
 Sí, hermano, permíteme disfrutar este beneficio de ti en el Señor. Recrea mi corazón en Cristo.
 
 #### ...Sí, hermano,
-##### Pablo vuelve nuevamente a llamar *hermano* a Filemón. 
+##### Pablo vuelve nuevamente a <u>llamar</u> *hermano* a Filemón. 
 
-###### A lo largo de la carta, este lenguaje familiar y relacional ha aparecido repetidamente:
+###### A lo largo de la carta, este lenguaje familiar y relacional ha <u>aparecido</u> repetidamente:
 - hermano,
 - amado,
 - hijo,
 - compañero,
 - y hermano amado.
 
-##### Esto continúa reforzando el marco relacional dentro del cual Pablo ha desarrollado todo el ruego relacionado con Onésimo.
+##### Esto continúa reforzando el <u>marco</u> relacional dentro del cual Pablo ha desarrollado todo el ruego relacionado con Onésimo.
 
-##### Resulta importante observar que incluso al acercarse al final del ruego, Pablo sigue apelando a Filemón dentro de relaciones compartidas entre creyentes y no principalmente mediante autoridad apostólica.
+##### Resulta importante observar que incluso al acercarse al final del ruego, Pablo sigue apelando a Filemón *dentro* de relaciones compartidas entre creyentes y no principalmente mediante autoridad apostólica.
 
 #### ...permíteme disfrutar este beneficio de ti en el Señor.
 ##### Pablo expresa ahora el deseo de recibir personalmente beneficio por medio de Filemón.
 
-###### El lenguaje utilizado conecta nuevamente esta sección con temas ya desarrollados anteriormente en la carta:
+###### El lenguaje utilizado conecta nuevamente esta <u>sección</u> con temas ya desarrollados anteriormente en la carta:
 - utilidad,
 - beneficio,
 - participación compartida,
-- y descanso para otros creyentes.
+- y <u>descanso</u> para otros creyentes.
 
-###### Resulta importante observar que Pablo espera este beneficio:
+###### Resulta importante observar que Pablo <u>espera</u> este beneficio:
 - *en el Señor*.
 
-###### A lo largo de la carta, las relaciones entre:
+###### A lo <u>largo</u> de la carta, las relaciones entre:
 - Pablo,
 - Filemón,
 - Onésimo,
 - y la comunidad creyente
 
-###### han sido desarrolladas constantemente dentro de esta realidad compartida:
+###### han sido desarrolladas constantemente <u>dentro</u> de esta realidad compartida:
 - en Cristo,
 - en el Señor,
-- y dentro de la participación entre creyentes.
+- y <u>dentro</u> de la participación entre creyentes.
 
-###### La carta parece mostrar así que la respuesta de Filemón hacia Onésimo no afectará solamente a Onésimo mismo, sino también:
+###### La carta parece mostrar así que la respuesta de Filemón <u>hacia</u> Onésimo no afectará solamente a Onésimo mismo, sino también:
 - a Pablo,
 - a la comunidad,
-- y a las relaciones compartidas desarrolladas a lo largo de la carta.
+- y a las <u>relaciones</u> compartidas desarrolladas a lo largo de la carta.
 
-###### Pablo parece ya anticipar el fruto relacional que espera ver producido por la respuesta de Filemón.
+###### Pablo parece ya anticipar el <u>fruto</u> relacional que espera ver producido por la respuesta de Filemón.
 
 #### ...Recrea mi corazón en Cristo.
-##### Pablo vuelve nuevamente al lenguaje relacionado con:
+##### Pablo <u>vuelve</u> nuevamente al lenguaje relacionado con:
 - descanso,
-- alivio,
+- *alivio*,
 - y consuelo.
 
-###### El verbo *recrea* (ἀναπαύω) ya había aparecido anteriormente en la carta cuando Pablo dijo:
+###### El verbo *recrea* (ἀναπαύω) ya había aparecido anteriormente en la carta <u>cuando</u> Pablo dijo:
 - *los corazones de los santos han sido confortados por ti* (Filemón 7).
 
 ###### Esto crea una continuidad importante dentro del desarrollo de la carta:
-- anteriormente Filemón había confortado a los santos,
-- ahora Pablo mismo pide ser confortado.
+- anteriormente Filemón <u>había</u> confortado a los santos,
+- ahora Pablo <u>mismo</u> pide ser confortado.
 
-###### La carta parece cerrar así el ciclo relacional iniciado anteriormente:
-- el amor de Filemón produjo descanso para otros creyentes,
-- y ahora Pablo espera experimentar también ese descanso mediante la respuesta de Filemón.
+###### La carta parece <u>cerrar</u> así el ciclo relacional iniciado anteriormente:
+- el amor de Filemón produjo descanso para <u>otros</u> creyentes,
+- y ahora Pablo espera experimentar <u>también</u> ese descanso mediante la respuesta de Filemón.
 
-###### Resulta importante observar además que Pablo vuelve a conectar esta petición:
+###### Resulta importante observar <u>además</u> que Pablo vuelve a conectar esta petición:
 - *en Cristo*.
 
-###### Desde el comienzo de la carta, Pablo ha desarrollado constantemente:
+###### Desde el comienzo de la <u>carta</u>, Pablo ha desarrollado constantemente:
 - participación compartida,
 - relaciones familiares,
-- utilidad,
+- <u>utilidad</u>,
 - recepción,
-- y descanso,
-como realidades relacionadas *en Cristo*.
+- y descanso, como realidades <u>relacionadas</u> *en Cristo*.
 
-##### El ruego desarrollado por Pablo parece llegar aquí a uno de sus puntos finales:
+##### El ruego desarrollado por Pablo <u>parece</u> llegar aquí a uno de sus puntos finales:
 > una respuesta voluntaria de Filemón  
 > ↓  
-> coherente con las realidades compartidas  
+> <u>coherente</u> con las realidades compartidas  
 > ↓  
-> producirá descanso, beneficio y consuelo dentro de la comunidad creyente.
-> 
+> producirá descanso, beneficio y consuelo <u>dentro</u> de la comunidad creyente.
 
 ## En Síntesis
 >- La carta alcanza aquí el centro explícito del ruego relacionado con Onésimo.
@@ -1449,54 +1455,54 @@ como realidades relacionadas *en Cristo*.
 Te escribo confiado en tu obediencia, sabiendo que harás aún más de lo que digo.
 
 #### ...Te escribo confiado en tu obediencia,
-##### Después de desarrollar cuidadosamente todo el ruego relacionado con Onésimo, Pablo expresa ahora confianza respecto a la respuesta de Filemón.
+##### Después de desarrollar cuidadosamente todo el ruego relacionado con Onésimo, Pablo expresa <u>ahora</u> confianza respecto a la respuesta de Filemón.
 
-###### Resulta importante observar que esta confianza no aparece aislada dentro de la carta. Desde el comienzo, Pablo ya había mencionado:
-- la fe y el amor de Filemón,
-- la participación compartida de su fe,
-- el descanso producido en los santos,
-- y la bondad esperada de manera voluntaria.
+###### Resulta importante observar que esta confianza no aparece <u>aislada</u> dentro de la carta. Desde el comienzo, Pablo ya había mencionado:
+- la fe y el <u>amor</u> de Filemón,
+- la participación <u>compartida</u> de su fe,
+- el <u>descanso</u> producido en los santos,
+- y la bondad esperada de manera <u>voluntaria</u>.
 
-###### La carta ha construido progresivamente una continuidad entre:
-- lo que Pablo oye acerca de Filemón,
-- las relaciones compartidas entre creyentes,
-- y la manera en que espera que Filemón responda ahora.
+###### La <u>carta</u> ha construido progresivamente una continuidad entre:
+- lo que Pablo oye <u>acerca</u> de Filemón,
+- las <u>relaciones</u> compartidas entre creyentes,
+- y la manera en que espera que Filemón <u>responda</u> ahora.
 
-###### La palabra *obediencia* aparece aquí directamente relacionada con el ruego desarrollado anteriormente.
+###### La palabra *obediencia* <u>aparece</u> aquí directamente relacionada con el ruego desarrollado anteriormente.
 
-###### Resulta importante observar que Pablo no ha desarrollado esta obediencia principalmente mediante:
+###### Resulta importante <u>observar</u> que Pablo no ha desarrollado esta obediencia principalmente mediante:
 - imposición,
-- autoridad dominante,
-- o presión externa.
+- autoridad <u>dominante</u>,
+- o presión <u>externa</u>.
 
-###### Más bien, la carta ha construido cuidadosamente el ruego mediante:
-- participación compartida,
-- amor,
+###### Más bien, la <u>carta</u> ha construido cuidadosamente el ruego mediante:
+- participación <u>compartida</u>,
+- <u>amor</u>,
 - comunión,
 - recepción,
-- y relaciones familiares dentro del Señor.
+- y relaciones <u>familiares</u> dentro del Señor.
 
-###### Esto ayuda a percibir que la obediencia esperada por Pablo se encuentra estrechamente conectada con las realidades compartidas desarrolladas a lo largo de la carta.
+###### Esto ayuda a percibir que la obediencia esperada por Pablo se encuentra estrechamente conectada con las realidades compartidas desarrolladas a lo <u>largo</u> de la carta.
 
 #### ...sabiendo que harás aún más de lo que digo.
-##### Pablo expresa ahora una expectativa todavía mayor respecto a la respuesta de Filemón: *harás aún más de lo que digo*.
+##### Pablo <u>expresa</u> ahora una expectativa todavía mayor respecto a la respuesta de Filemón: *harás aún más de lo que digo*.
 
-##### La carta no especifica explícitamente qué significa exactamente *más de lo que digo*; sin embargo, la expresión muestra claramente la profunda confianza relacional que Pablo tiene respecto a Filemón.
+##### La carta no especifica explícitamente qué <u>significa</u> exactamente *más de lo que digo*; sin embargo, la expresión muestra claramente la profunda confianza relacional que Pablo tiene respecto a Filemón.
 
-###### Esta confianza parece surgir de todo lo previamente desarrollado en la carta:
-- el amor de Filemón,
-- el descanso producido en los santos,
-- la participación compartida,
-- y la bondad voluntaria esperada *en el Señor*.
+###### Esta confianza <u>parece</u> surgir de todo lo previamente desarrollado en la carta:
+- el amor de <u>Filemón</u>,
+- el <u>descanso</u> producido en los santos,
+- la participación <u>compartida</u>,
+- y la <u>bondad</u> voluntaria esperada *en el Señor*.
 
-###### Resulta importante observar que la carta no termina únicamente con una petición mínima hacia Onésimo. Pablo parece esperar una respuesta plenamente coherente con las realidades compartidas desarrolladas a lo largo de toda la carta.
+###### Resulta importante observar que la carta no termina únicamente con una petición mínima hacia Onésimo. Pablo parece <u>esperar</u> una respuesta plenamente coherente con las realidades compartidas desarrolladas a lo largo de toda la carta.
 
-###### El desarrollo completo del ruego parece haber movido progresivamente a Filemón hacia:
-- una nueva recepción,
+###### El desarrollo completo del ruego parece haber <u>movido</u> progresivamente a Filemón hacia:
+- una <u>nueva</u> recepción,
 - una nueva consideración de Onésimo,
-- y una respuesta voluntaria dentro de las relaciones compartidas entre creyentes.
+- y una <u>respuesta</u> voluntaria dentro de las relaciones compartidas entre creyentes.
 
-##### La confianza expresada por Pablo marca así uno de los puntos finales del movimiento de la carta:
+##### La confianza expresada por Pablo <u>marca</u> así uno de los puntos finales del movimiento de la carta:
 
 > participación compartida  
 > ↓  
@@ -1512,48 +1518,48 @@ Te escribo confiado en tu obediencia, sabiendo que harás aún más de lo que di
 Y al mismo tiempo, prepárame también alojamiento, pues espero que por las oraciones de ustedes les seré concedido.
 
 #### ...Y al mismo tiempo, prepárame también alojamiento,
-##### Pablo añade ahora una expectativa personal al final del ruego desarrollado en la carta:  *prepárame también alojamiento*.
+##### Pablo añade ahora una expectativa personal al <u>final</u> del ruego desarrollado en la carta:  *prepárame también alojamiento*.
 
-##### Esto muestra que Pablo espera volver a encontrarse personalmente con Filemón y con los creyentes relacionados con él.
+##### Esto muestra que Pablo <u>espera</u> volver a encontrarse personalmente con Filemón y con los creyentes relacionados con él.
 
-###### Resulta importante observar cómo la carta continúa moviéndose dentro de relaciones concretas y compartidas:
+###### Resulta importante observar cómo la carta continúa moviéndose <u>dentro</u> de relaciones concretas y compartidas:
 - alojamiento,
 - hospitalidad,
 - recepción,
-- y comunión entre creyentes.
+- y comunión <u>entre</u> creyentes.
 
 ###### La petición también intensifica indirectamente el peso del ruego relacionado con Onésimo. Pablo no solamente envía una carta; también expresa expectativa de volver personalmente.
 
-###### Desde el comienzo de la carta, el tema de la recepción ha ido creciendo progresivamente:
-- recibir a Pablo,
-- recibir a otros creyentes,
+###### Desde el <u>comienzo</u> de la carta, el tema de la recepción ha ido creciendo progresivamente:
+- recibir a <u>Pablo</u>,
+- recibir a <u>otros</u> creyentes,
 
 ###### y finalmente:  
 - *recíbelo como a mí*.
 
-###### La carta continúa así desarrollando una fuerte continuidad relacional hasta sus últimos versículos.
+###### La carta continúa así desarrollando una <u>fuerte</u> continuidad relacional hasta sus últimos versículos.
 
 #### ...pues espero que por las oraciones de ustedes les seré concedido.
-##### Pablo expresa ahora esperanza de ser concedido nuevamente a ellos mediante las oraciones de los creyentes.
+##### Pablo expresa <u>ahora</u> esperanza de ser concedido nuevamente a ellos mediante las oraciones de los creyentes.
 
-##### Resulta importante observar que el lenguaje cambia aquí nuevamente al plural:
+##### Resulta importante observar que el lenguaje cambia aquí nuevamente al <u>plural</u>:
 - *las oraciones de ustedes*.
 
-##### Esto recuerda otra vez que, aunque gran parte del ruego fue dirigido personalmente a Filemón, la comunidad creyente nunca desapareció completamente del horizonte de la carta.
+##### Esto recuerda otra vez que, <u>aunque</u> gran parte del ruego fue dirigido personalmente a Filemón, la comunidad creyente nunca desapareció completamente del horizonte de la carta.
 
-##### La expresión: *les seré concedido* muestra además que Pablo espera volver a compartir presencialmente con ellos.
+##### La expresión: *les seré concedido* muestra además que Pablo <u>espera</u> volver a compartir presencialmente con ellos.
 
-###### La carta termina así manteniendo el mismo marco relacional desarrollado desde el inicio:
+###### La carta termina así manteniendo el <u>mismo</u> marco relacional desarrollado desde el inicio:
 - comunidad,
 - participación compartida,
-- recepción,
-- y relaciones entre creyentes *en el Señor*.
+- <u>recepción</u>,
+- y relaciones <u>entre</u> creyentes *en el Señor*.
 
-###### Incluso en el cierre, la carta continúa mostrando una red profundamente interconectada de relaciones compartidas entre:
+###### Incluso en el cierre, la carta continúa mostrando una red profundamente interconectada de relaciones compartidas <u>entre</u>:
 - Pablo,
 - Filemón,
 - Onésimo,
-- y la comunidad creyente.
+- y la comunidad <u>creyente</u>.
 
 ## En Síntesis
 >- Pablo expresa plena confianza en la respuesta de Filemón.
@@ -1570,61 +1576,61 @@ Y al mismo tiempo, prepárame también alojamiento, pues espero que por las orac
 Te saluda Epafras, mi compañero de prisión en Cristo Jesús;
 
 #### ...Te saluda Epafras, mi compañero de prisión en Cristo Jesús;
-##### Pablo incluye ahora saludos de creyentes relacionados con él, mostrando nuevamente que la carta nunca se desarrolla completamente en aislamiento privado.
+##### Pablo incluye ahora saludos de creyentes relacionados con él, mostrando nuevamente que la carta nunca se desarrolla completamente en aislamiento <u>privado</u>.
 
 ###### Epafras es descrito como:
 - *mi compañero de prisión*,
 - *en Cristo Jesús*.
 
-###### La expresión continúa desarrollando el mismo marco relacional presente a lo largo de toda la carta:
+###### La expresión <u>continúa</u> desarrollando el mismo marco relacional presente a lo largo de toda la carta:
 - en Cristo,
 - participación compartida,
 - compañeros,
-- hermanos,
+- <u>hermanos</u>,
 - y colaboradores.
 
-###### En Colosenses, Epafras también aparece relacionado con la iglesia en Colosas y con el ministerio entre los creyentes allí. Colosenses 1:7; 4:12
+###### En Colosenses, Epafras también aparece relacionado con la <u>iglesia</u> en Colosas y con el ministerio entre los creyentes allí. Colosenses 1:7; 4:12
 
-###### Esto ayuda además a conectar naturalmente la carta a Filemón con el entorno comunitario de los creyentes en Colosas.
+###### Esto ayuda además a conectar naturalmente la carta a Filemón con el entorno comunitario de los creyentes en <u>Colosas</u>.
 
 ### Filemón 1:24
 también Marcos, Aristarco, Demas y Lucas, mis colaboradores.
 
 #### ...también Marcos, Aristarco, Demas y Lucas...
-##### Pablo añade ahora una lista adicional de colaboradores cercanos relacionados con su ministerio.
+##### Pablo añade ahora una <u>lista</u> adicional de colaboradores cercanos relacionados con su ministerio.
 
 ###### Resulta importante observar nuevamente el carácter comunitario del cierre de la carta. Pablo y:
 - Epafras,
-- Marcos,
+- <u>Marcos</u>,
 - Aristarco,
 - Demas,
-- Lucas,
+- <u>Lucas</u>,
 - Filemón,
 - Onésimo,
 
 - y la iglesia en casa
 
-###### aparecen todos conectados dentro de una misma red relacional.
+###### aparecen todos conectados <u>dentro</u> de una misma red relacional.
 
 ###### La carta termina así exactamente como comenzó:
-- dentro de relaciones compartidas entre creyentes.
+- <u>dentro</u> de relaciones compartidas entre creyentes.
 
-###### Algunos de estos colaboradores también aparecen mencionados en otras cartas relacionadas con el mismo entorno ministerial. Colosenses 4:10–14
+###### Algunos de estos colaboradores también aparecen mencionados en otras cartas relacionadas con el <u>mismo</u> entorno ministerial. Colosenses 4:10–14
 
 #### ...mis colaboradores.
 ##### Pablo describe a estos hombres como: *mis colaboradores*.
 
-###### La carta ha desarrollado constantemente lenguaje relacionado con:
-- participación,
+###### La carta ha desarrollado constantemente <u>lenguaje</u> relacionado con:
+- <u>participación</u>,
 - colaboración,
 - compañerismo,
-- comunión,
+- <u>comunión</u>,
 - y servicio compartido.
 
-##### Esto refuerza nuevamente uno de los movimientos principales observables en la carta:
-> relaciones compartidas en Cristo  
+##### Esto <u>refuerza</u> nuevamente uno de los movimientos principales observables en la carta:
+> relaciones <u>compartidas</u> en Cristo  
 > ↓  
-> producen acciones y recepción coherentes con esas realidades.
+> producen <u>acciones</u> y recepción coherentes con esas realidades.
 
 ## Filemón 1:25 Pablo desea que la gracia del Señor Jesucristo sea con ellos
 
@@ -1632,56 +1638,56 @@ también Marcos, Aristarco, Demas y Lucas, mis colaboradores.
 La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 
 #### ...La gracia del Señor Jesucristo sea con el espíritu de ustedes.
-##### Pablo cierra la carta de manera similar a como la comenzó:
-- con referencia a la gracia,
-- y al Señor Jesucristo.
+##### Pablo cierra la <u>carta</u> de manera similar a como la comenzó:
+- con referencia a la <u>gracia</u>,
+- y al <u>Señor</u> Jesucristo.
 
-###### El cierre retoma así varias de las continuidades desarrolladas a lo largo de toda la carta:
-- relaciones en Cristo,
+###### El cierre retoma así varias de las continuidades desarrolladas a lo <u>largo</u> de toda la carta:
+- relaciones en <u>Cristo</u>,
 - participación compartida,
-- comunión,
+- <u>comunión</u>,
 - recepción,
 - y comunidad creyente.
 
-###### Resulta importante observar nuevamente el uso del plural: *de ustedes*.
+###### Resulta importante <u>observar</u> nuevamente el uso del plural: *de ustedes*.
 
-###### Aunque gran parte del ruego fue dirigido personalmente a Filemón, el cierre confirma otra vez que la comunidad creyente permaneció presente a lo largo de toda la carta.
+###### Aunque gran parte del ruego fue dirigido personalmente a Filemón, el cierre confirma otra vez que la comunidad creyente permaneció presente a lo <u>largo</u> de toda la carta.
 
-##### La carta termina así dentro del mismo marco comunitario y relacional con el que comenzó.
+##### La carta termina así dentro del <u>mismo</u> marco comunitario y relacional con el que comenzó.
 
 ## Observación final de la carta
 
-###### A lo largo de Filemón, la carta desarrolla progresivamente una presión relacional construida sobre:
+###### A lo largo de Filemón, la carta desarrolla progresivamente una <u>presión</u> relacional construida sobre:
 - participación compartida,
-- comunión en Cristo,
+- comunión en <u>Cristo</u>,
 - relaciones familiares entre creyentes,
-- y una nueva consideración de Onésimo.
+- y una <u>nueva</u> consideración de Onésimo.
 
 ###### El movimiento observable de la carta no parece centrarse principalmente en:
-- una discusión abstracta sobre esclavitud,
-- ni simplemente en una recomendación personal aislada.
+- una discusión abstracta <u>sobre</u> esclavitud,
+- ni simplemente en una recomendación <u>personal</u> aislada.
 
 ##### Más bien, la carta parece desarrollar continuamente esta dirección:
 > participación compartida en Cristo  
 > ↓  
-> produce presión relacional  
+> produce <u>presión</u> relacional  
 > ↓  
-> orientada hacia una nueva recepción coherente con esas realidades.
+> orientada hacia una <u>nueva</u> recepción coherente con esas realidades.
 
-###### La expresión: *recíbelo como a mí* parece funcionar como el punto culminante de toda la carta, reuniendo:
+###### La expresión: *recíbelo como a mí* parece funcionar como el punto culminante de toda la <u>carta</u>, reuniendo:
 - participación,
 - recepción,
-- afecto,
+- <u>afecto</u>,
 - comunión,
 - y relación compartida en Cristo.
 
-###### La carta termina dejando al lector frente a una tensión profundamente relacional:
+###### La carta termina dejando al <u>lector</u> frente a una tensión profundamente relacional:
 - el mismo Onésimo anteriormente separado,
-- inútil,
+- <u>inútil</u>,
 - y posiblemente perjudicial,
 
 ###### ahora debe ser recibido:
-- como hermano amado,
+- como <u>hermano</u> amado,
 - como compañero en el Señor,
 
 ###### y finalmente:
