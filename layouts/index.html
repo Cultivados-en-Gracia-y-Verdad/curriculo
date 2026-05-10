@@ -1,38 +1,170 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
+</head>
 
-  <head>
-    {{ partial "headers.html" . }}
-    {{ partial "custom_headers.html" . }}
-  <script src="/js/highlight.js"></script>
-  </head>
+<body>
+<div id="all">
 
-  <body>
+  {{ partial "top.html" . }}
+  {{ partial "nav.html" . }}
 
-    <div id="all">
+  <main class="cgv-home">
 
-        {{ partial "top.html" . }}
+    <section class="cgv-home-hero">
+      <div class="container">
+        <p class="cgv-eyebrow">Cultivados en Gracia y Verdad</p>
 
-        {{ partial "nav.html" . }}
+        <h1>Currículo bíblico para crear hacedores de discípulos.</h1>
 
-        {{ partial "carousel.html" . }}
+        <p class="cgv-home-lead">
+          CGV provee materiales bíblicos para que iglesias locales puedan desarrollar
+          Centros de Capacitación dirigidos por la iglesia, en la iglesia y para la iglesia.
+        </p>
 
-        {{ partial "features.html" . }}
+        <div class="cgv-home-actions">
+          <a class="btn btn-template-main btn-lg" href="/courses/">Ver currículo</a>
+          <a class="btn btn-template-main cgv-btn-outline btn-lg" href="/contacto/">Contactar a CGV</a>
+        </div>
+      </div>
+    </section>
 
-        {{ partial "testimonials.html" . }}
+    <section class="cgv-home-section">
+      <div class="container">
+        <div class="cgv-home-grid three">
+          <article class="cgv-home-card">
+            <h2>Propósito</h2>
+            <p>
+              El currículo no es el fin. Es un medio para formar hombres y mujeres
+              fieles que puedan enseñar también a otros.
+            </p>
+          </article>
 
-        {{ partial "see_more.html" . }}
+          <article class="cgv-home-card">
+            <h2>Currículo</h2>
+            <p>
+              Un programa bíblico intensivo de un año diseñado para capacitar
+              discípulos dentro del contexto de la iglesia local.
+            </p>
+          </article>
 
-        {{ partial "recent_posts.html" . }}
+          <article class="cgv-home-card">
+            <h2>Materiales</h2>
+            <p>
+              Manuales del alumno, manuales del maestro y recursos preparados
+              para ser usados en Centros de Capacitación.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
 
-        {{ partial "clients.html" . }}
+    <section class="cgv-home-section cgv-materials-preview">
+      <div class="container">
 
-        {{ partial "footer.html" . }}
+        <div class="cgv-section-heading">
+          <p class="cgv-eyebrow">Currículo CGV</p>
+          <h2>Materiales disponibles</h2>
+          <p>
+            Manuales y materiales bíblicos preparados para Centros de Capacitación.
+          </p>
+        </div>
 
-    </div>
-    <!-- /#all -->
+        <div class="cgv-course-grid">
 
-    {{ partial "scripts.html" . }}
+          {{ range first 3 (where site.Pages "Section" "courses") }}
 
-  </body>
+            {{ if ne .Kind "section" }}
+
+              {{ $cover := .Resources.GetMatch "*portada*" }}
+              {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.jpg" }}{{ end }}
+
+              {{ $alumno := .Resources.GetMatch "*alumno*.pdf" }}
+              {{ if not $alumno }}{{ $alumno = .Resources.GetMatch "*Alumno*.pdf" }}{{ end }}
+
+              {{ $maestro := .Resources.GetMatch "*maestro*.pdf" }}
+              {{ if not $maestro }}{{ $maestro = .Resources.GetMatch "*Maestro*.pdf" }}{{ end }}
+
+              <article class="cgv-course-card">
+
+                <a href="{{ .RelPermalink }}" class="cgv-course-cover">
+                  {{ if $cover }}
+                    <img src="{{ $cover.RelPermalink }}" alt="{{ .Title }}">
+                  {{ else }}
+                    <div class="cgv-cover-placeholder">CGV</div>
+                  {{ end }}
+                </a>
+
+                <div class="cgv-course-card-body">
+                  <p class="cgv-course-meta">
+                    {{ .Params.nivel | default "Currículo CGV" }}
+                  </p>
+
+                  <h2>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  </h2>
+
+                  <p>{{ .Params.description }}</p>
+
+                  <div class="cgv-download-row">
+                    {{ if $alumno }}
+                      <a class="btn btn-template-main" href="{{ $alumno.RelPermalink }}">Alumno</a>
+                    {{ end }}
+
+                    {{ if $maestro }}
+                      <a class="btn btn-template-main cgv-btn-outline" href="{{ $maestro.RelPermalink }}">Maestro</a>
+                    {{ end }}
+                  </div>
+                </div>
+
+              </article>
+
+            {{ end }}
+
+          {{ end }}
+
+        </div>
+
+        <div class="cgv-view-all">
+          <a class="btn btn-template-main btn-lg" href="/courses/">
+            Ver todo el currículo
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="cgv-home-section cgv-home-highlight">
+      <div class="container">
+        <div class="cgv-home-split">
+          <div>
+            <p class="cgv-eyebrow">Centros de Capacitación</p>
+            <h2>Por la iglesia. En la iglesia. Para la iglesia.</h2>
+          </div>
+
+          <div>
+            <p>
+              CGV no reemplaza a la iglesia local. Provee currículo y materiales
+              para que la iglesia pueda capacitar hacedores de discípulos en su
+              propio contexto.
+            </p>
+
+            <a class="btn btn-template-main" href="/courses/">
+              Explorar materiales
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+</body>
 </html>

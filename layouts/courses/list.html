@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
+</head>
+
+<body>
+<div id="all">
+
+  {{ partial "top.html" . }}
+  {{ partial "nav.html" . }}
+  {{ partial "breadcrumbs.html" . }}
+
+  <main id="content" class="cgv-courses-page">
+    <div class="container">
+
+      <header class="cgv-library-hero">
+        <p class="cgv-eyebrow">Biblioteca curricular</p>
+        <h1>{{ .Title }}</h1>
+        <p class="cgv-hero-text">
+          Descargue materiales bíblicos diseñados para crear hacedores de discípulos
+          mediante Centros de Capacitación dirigidos por la iglesia, en la iglesia
+          y para la iglesia.
+        </p>
+      </header>
+
+      <section class="cgv-download-note">
+        <h2>Materiales para iglesias</h2>
+        <p>
+          Cada curso puede incluir manual del alumno, manual del maestro y otros
+          recursos preparados para la capacitación bíblica intensiva.
+        </p>
+      </section>
+
+      <div class="cgv-course-grid">
+
+        {{ range .Pages.ByWeight }}
+
+          {{ $cover := .Resources.GetMatch "*portada*" }}
+          {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.jpg" }}{{ end }}
+          {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.png" }}{{ end }}
+
+          {{ $alumno := .Resources.GetMatch "*alumno*.pdf" }}
+          {{ if not $alumno }}{{ $alumno = .Resources.GetMatch "*Alumno*.pdf" }}{{ end }}
+
+          {{ $maestro := .Resources.GetMatch "*maestro*.pdf" }}
+          {{ if not $maestro }}{{ $maestro = .Resources.GetMatch "*Maestro*.pdf" }}{{ end }}
+
+          <article class="cgv-course-card">
+
+            <a href="{{ .RelPermalink }}" class="cgv-course-cover">
+              {{ if $cover }}
+                <img src="{{ $cover.RelPermalink }}" alt="Portada de {{ .Title }}">
+              {{ else }}
+                <div class="cgv-cover-placeholder">CGV</div>
+              {{ end }}
+            </a>
+
+            <div class="cgv-course-card-body">
+              <p class="cgv-course-meta">
+                {{ .Params.nivel | default "Currículo CGV" }}
+              </p>
+
+              <h2>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h2>
+
+              <p>{{ .Params.description }}</p>
+
+              <div class="cgv-download-row">
+                {{ if $alumno }}
+                  <a class="btn btn-template-main" href="{{ $alumno.RelPermalink }}">
+                    Manual del Alumno
+                  </a>
+                {{ end }}
+
+                {{ if $maestro }}
+                  <a class="btn btn-template-main cgv-btn-outline" href="{{ $maestro.RelPermalink }}">
+                    Manual del Maestro
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+
+          </article>
+
+        {{ end }}
+
+      </div>
+
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+</body>
+</html>

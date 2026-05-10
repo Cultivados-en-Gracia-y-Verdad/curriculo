@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/courses/el-dios-de-la-historia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/filipenses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/galatas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/habacuc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/introduccion-al-griego/</loc>
+  </url><url>
+    <loc>http://localhost:1313/courses/navegado-el-texto/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/roots/</loc>
-    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/roots/readme/</loc>
-    <lastmod>2026-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/roots/readme_old/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
@@ -37,111 +46,7 @@
   </url><url>
     <loc>http://localhost:1313/roots/file-creation-process/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/mna/current-state/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/data/1corintios/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/data/1corintios.p2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/passes/1corintios.p1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/passes/1corintios.p2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/passes/1corintios.p3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/passes/1corintios.p4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/mna/readme/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/1pedro.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/1tesalonicenses.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/1timoteo.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/2corintios.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/2juan.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/2pedro.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/2tesalonicenses.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/2timoteo.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/3juan.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/apocalipsis.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/filipenses.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/galatas.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/hebreos.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/hechos.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/juan.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/judas.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/lucas.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/marcos.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/mateo.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/romanos.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/santiago.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/tito.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/oshb/morphhb/</loc>
-  </url><url>
     <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/2corintios/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/2juan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/2pedro/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/2tesalonicenses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/2timoteo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/3juan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/apocalipsis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/colosenses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/efesios/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/filemon/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/filipenses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/galatas/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/hebreos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/hechos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/juan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/judas/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/lucas/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/marcos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/mateo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/morphgnt/readme/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/santiago/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/1corintios.out/</loc>
   </url><url>
@@ -197,47 +102,25 @@
   </url><url>
     <loc>http://localhost:1313/roots/step1-output/tito.out/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/1corintios/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/1corintios.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/1juan.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/colosenses.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/efesios.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/nbla/filemon.nbla/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/1juan/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/1pedro/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/1tesalonicenses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/1timoteo/</loc>
-  </url><url>
     <loc>http://localhost:1313/admisiones/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/centros/</loc>
+  </url><url>
     <loc>http://localhost:1313/roots/roots-dataset/colosenses-data/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/lexico/</loc>
+    <loc>http://localhost:1313/courses/</loc>
   </url><url>
     <loc>http://localhost:1313/nosotros/</loc>
   </url><url>
     <loc>http://localhost:1313/radio/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/romanos/</loc>
-  </url><url>
     <loc>http://localhost:1313/roots/step1-output/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/sblgnt/tito/</loc>
   </url><url>
     <loc>http://localhost:1313/roots/roots-dataset/tito-data/</loc>
   </url>

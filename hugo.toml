@@ -35,159 +35,60 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "Início"
-    identifier = "menu.home"
-    url        = "/"
-    weight     = 1
-
+    name = "Inicio"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
-    name       = "Academico"
-    identifier = "menu.features"
-    url        = "/img/group4.jpeg"
-    weight     = 3
+    name = "CGV"
+    identifier = "cgv"
+    url = "/nosotros/"
+    weight = 2
 
 [[menu.main]]
-    name       = "Plan de Estudios"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
+    name = "¿Qué es CGV?"
+    url = "/nosotros/somos-diferentes/"
+    parent = "cgv"
+    weight = 1
 
 [[menu.main]]
-    name       = "Horario"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
+    name = "Nuestra Visión"
+    url = "/nosotros/"
+    parent = "cgv"
+    weight = 2
 
 [[menu.main]]
-    name       = "Horario"
-    url        = "/horario"
-    weight     = 1
-    parent     = "section.headervariations"
+    name = "Currículo"
+    url = "/courses/"
+    weight = 3
 
 [[menu.main]]
-    name       = "ROOTS"
-    url        = "/ROOTS/"
-    weight     = 1
-    parent     = "section.headervariations"
+    name = "Centros de Capacitación"
+    url = "/centros/"
+    weight = 4
 
 [[menu.main]]
-    name       = "Módulos"
-    url        = "/plan-de-estudios/"
-    weight     = 1
-    parent     = "section.shortcodes"
+    name = "ROOTS"
+    url = "/ROOTS/"
+    weight = 5
 
 [[menu.main]]
-    name       = "Calendario"
-    url        = "/calendar"
-    weight     = 1
-    parent     = "section.headervariations"
-
-
-[[menu.main]]
-    name       = "Admisiones"
-    identifier = "menu.portfolio"
-    url        = "/img/group-table.jpg"
-    weight     = 3
+    name = "Participa"
+    identifier = "participa"
+    url = "/contacto/"
+    weight = 6
 
 [[menu.main]]
-    name       = "¡Empieza aquí!"
-   url        = "/admisiones/"
-    weight     = 1
-    identifier = "section.portfolio"
-    parent     = "menu.portfolio"
-    post       = 1
+    name = "Implementar un Centro"
+    url = "/contacto/"
+    parent = "participa"
+    weight = 1
 
 [[menu.main]]
-    name       = "1. Primeros Pasos"
-    url        = "/admisiones/empieza"
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "2. Inscripción"
-    url        = "/admisiones/admision"
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Información"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-
-#[[menu.main]]
-#    name       = "Calendario"
-#    url        = "/calendar"
-#    weight     = 1
-#    parent     = "section.about"
-
-# [[menu.main]]
-#    name       = "Costos"
-#    url        = "/posts/costos"
-#    weight     = 2
-#    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Nosotros"
-    identifier = "menu.allpages"
-    url        = "/nosotros/"
-    weight     = 4
-
-[[menu.main]]
-    name       = "¿Que es el CGV?"
-    url        = "/nosotros/somos-diferentes"
-    weight     = 1
-    parent     = "menu.allpages"
-
-[[menu.main]]
-    name       = "Doctrina"
-    url        = "/nosotros/"
-    weight     = 2
-    parent     = "menu.allpages"
-    
-[[menu.main]]
-    name       = "Curriculum"
-    url        = "/nosotros/curriculum"
-    weight     = 3
-    parent     = "menu.allpages"
-
-[[menu.main]]
-    name       = "Fotos"
-    url        = "http://fotos.cc3d.org/"
-    weight     = 4
-    parent     = "menu.allpages"
-
-[[menu.main]]
-    name       = "Video"
-    url        = "/nosotros/2023"
-    weight     = 5
-    parent     = "menu.allpages"
-
-[[menu.main]]
-    identifier = "Libros"
-    name       = "libros"
-    url        = "http://libros.cc3d.org"
-    weight     = 8
-
-[[menu.main]]
-    identifier = "Radio"
-    name       = "Radio"
-    url        = "/radio"
-    weight     = 9
-
-[[menu.main]]
-    identifier = "contact"
-    name       = "Contacto"
-    url        = "/contacto"
-    weight     = 10
+    name = "Contacto"
+    url = "/contacto/"
+    parent = "participa"
+    weight = 2
 
 
 # Top bar social links menu
@@ -279,8 +180,13 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>CGV es un centro de entrenamiento de un año, intensivo para crear hacedores de discipulos.</p>"
-    copyright = "Copyright (c) 2025, CGV; Derechos Reservados."
+about_us = """
+<p>
+<strong>Cultivados en Gracia y Verdad</strong> existe para proveer currículo bíblico
+y materiales diseñados para crear hacedores de discípulos mediante Centros de
+Capacitación dirigidos por la iglesia, en la iglesia y para la iglesia.
+</p>
+"""
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
