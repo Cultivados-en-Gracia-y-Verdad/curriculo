@@ -1,6 +1,6 @@
-baseURL = 'http://www.discipuladocgv.org/'
+baseURL = 'https://discipuladocgv.org/'
 languageCode = 'es'
-title = 'CGV'
+title = 'Discipulado CGV'
 theme = "hugo-universal-theme"
 PublishDir = "docs"
 defaultContentLanguage = "es"
@@ -14,9 +14,18 @@ summaryLength = 70
  
 pluralizelisttitles = false
 enableInlineShortcodes = true
+enableRobotsTXT = true
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"
 
 [menu]
 
@@ -104,9 +113,9 @@ enableInlineShortcodes = true
 [params]
     viewMorePostLink = "/blog/"
     author = "CGV"
-    defaultKeywords = ["CGV", "Cultivados en Gracia y Verdad", "discipulado", "currículo bíblico", "iglesia local"]
+    defaultKeywords = ["CGV", "Cultivados en Gracia y Verdad", "Discipulado CGV", "discipulado bíblico", "currículo bíblico", "formación bíblica", "iglesia local", "Centros de Capacitación"]
     mainSections = ["blog"]
-    defaultDescription = "Formación bíblica seria dentro de la iglesia local mediante discipulado intencional, currículo y acompañamiento."
+    defaultDescription = "Discipulado CGV ayuda a iglesias locales mediante formación bíblica seria, discipulado intencional, currículo y acompañamiento dentro del contexto de la iglesia local."
     custom_css = ["css/custom_style.css"]
     twitter_site = ""
     default_sharing_image = "img/sharing-default.png"
