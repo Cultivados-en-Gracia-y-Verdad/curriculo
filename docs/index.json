@@ -1,10 +1,5 @@
 [
   {
-    "title": "Contacto",
-    "content": "",
-    "url": "/contacto/"
-  },
-  {
     "title": "Fotos",
     "content": "Fotos del 2025 ",
     "url": "/fotos/"
@@ -38,6 +33,11 @@
     "title": "Centros de Capacitación",
     "content": "Centros dirigidos por la iglesia local CGV existe para servir a iglesias locales mediante currículo bíblico diseñado para desarrollar hacedores de discípulos.\nLos Centros de Capacitación no buscan reemplazar la vida de la iglesia. Buscan ayudar a la iglesia a desarrollar espacios intencionales de formación bíblica dentro de su propio contexto.\nPor la iglesia. En la iglesia. Para la iglesia. El propósito del currículo es ayudar a iglesias locales a desarrollar creyentes:\narraigados en el evangelio, capaces de leer el texto bíblico, preparados para servir, y equipados para enseñar también a otros. Currículo y materiales CGV provee:\nmanuales del alumno, manuales del maestro, materiales de apoyo, y una secuencia sugerida de formación. El objetivo no es simplemente transmitir información, sino desarrollar hacedores de discípulos dentro de la iglesia local.\n",
     "url": "/centros/"
+  },
+  {
+    "title": "Contacto",
+    "content": "Hablemos Si su iglesia desea conocer más sobre CGV, descargar materiales, o explorar la posibilidad de implementar un Centro de Capacitación, puede comunicarse con nosotros.\nCGV existe para servir a iglesias locales mediante formación bíblica seria, discipulado intencional y acompañamiento dentro del contexto de la iglesia local.\n¿En qué podemos ayudar? Puede escribirnos si desea:\nconocer más sobre el currículo CGV, descargar o usar materiales en su iglesia, implementar un Centro de Capacitación, conversar sobre el camino sugerido de formación, o hacer una pregunta general sobre CGV. Información de contacto Correo: info@discipuladocgv.org\nWhatsApp: +591 6 4908144\nImplementar un Centro de Capacitación Si su iglesia está considerando implementar un Centro de Capacitación, nos gustaría conversar con usted.\nEl objetivo no es simplemente entregar materiales, sino ayudar a iglesias a desarrollar una formación bíblica seria dentro de su propio contexto.\nVer el Camino Sugerido de Formación Explorar los Materiales del currículo Leer sobre la Implementación ",
+    "url": "/contacto/"
   },
   {
     "title": "El Camino Sugerido de Formación",
