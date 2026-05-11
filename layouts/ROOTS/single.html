@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
+</head>
+
+<body>
+<div id="all">
+
+  {{ partial "top.html" . }}
+  {{ partial "nav.html" . }}
+  {{ partial "breadcrumbs.html" . }}
+
+  <main id="content">
+    <div class="container cgv-page">
+
+      <header class="cgv-page-header">
+        <p class="cgv-eyebrow">Método de observación bíblica</p>
+        <h1>{{ .Title }}</h1>
+      </header>
+
+      <section class="cgv-page-content">
+        {{ .Content }}
+      </section>
+
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+</body>
+</html>
