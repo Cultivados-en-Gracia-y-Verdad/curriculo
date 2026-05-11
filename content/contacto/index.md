@@ -18,11 +18,28 @@ Puede escribirnos si desea:
 - conversar sobre el camino sugerido de formación,
 - o hacer una pregunta general sobre CGV.
 
+## Formulario de contacto
+
+<form action="https://formspree.io/f/xrgwkrlq" method="POST" class="cgv-contact-form">
+
+<label>Nombre</label>
+<input type="text" name="nombre" required>
+
+<label>Correo electrónico</label>
+<input type="email" name="email" required>
+
+<label>Mensaje</label>
+<textarea name="mensaje" rows="6" required></textarea>
+
+<button type="submit">Enviar mensaje</button>
+
+</form>
+
 ## Información de contacto
 
-**Correo:** [info@discipuladocgv.org](mailto:info@discipuladocgv.org)
+**Correo:** info@discipuladocgv.org
 
-**WhatsApp:** [+591 6 4908144](tel:+59164908144)
+**WhatsApp:** +591 6 4908144
 
 ## Implementar un Centro de Capacitación
 
