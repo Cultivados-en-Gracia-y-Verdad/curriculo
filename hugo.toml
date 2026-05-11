@@ -16,24 +16,17 @@ googleAnalytics = ""
 # number of words of summarized post content (default 70)
 summaryLength = 70
 
-# Define the number of pots per page
-#paginate = 10
-
 [markup.goldmark.renderer]
  unsafe = true
  
-# not pluralize title pages by default
 pluralizelisttitles = false
-
- enableInlineShortcodes = true
+enableInlineShortcodes = true
 
 [outputs]
   home = ["HTML", "JSON"]
   
 [menu]
 
-
-# Main menu
 [[menu.main]]
     name = "Inicio"
     url = "/"
@@ -59,8 +52,21 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name = "Currículo"
-    url = "/courses/"
+    identifier = "curriculo"
+    url = "/curriculo/"
     weight = 3
+
+[[menu.main]]
+    name = "Camino de Formación"
+    url = "/curriculo/"
+    parent = "curriculo"
+    weight = 1
+
+[[menu.main]]
+    name = "Materiales"
+    url = "/courses/"
+    parent = "curriculo"
+    weight = 2
 
 [[menu.main]]
     name = "Centros de Capacitación"
@@ -90,9 +96,6 @@ pluralizelisttitles = false
     parent = "participa"
     weight = 2
 
-
-# Top bar social links menu
-
 [[menu.topbar]]
     weight = 1
     name = "Phone"
@@ -103,19 +106,7 @@ pluralizelisttitles = false
      weight = 2
     name = "Radio"
     url = "https://link.radioking.com/cgv"
-    pre = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d='M494.8 47c12.7-3.7 20-17.1 16.3-29.8S494-2.8 481.2 1L51.7 126.9c-9.4 2.7-17.9 7.3-25.1 13.2C10.5 151.7 0 170.6 0 192l0 4L0 304 0 448c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-256c0-35.3-28.7-64-64-64l-229.5 0L494.8 47zM368 240a80 80 0 1 1 0 160 80 80 0 1 1 0-160zM80 256c0-8.8 7.2-16 16-16l96 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-96 0c-8.8 0-16-7.2-16-16zM64 320c0-8.8 7.2-16 16-16l128 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L80 336c-8.8 0-16-7.2-16-16zm16 64c0-8.8 7.2-16 16-16l96 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-96 0c-8.8 0-16-7.2-16-16z'/></svg>"
-
-#[[menu.topbar]]
-    #weight = 3
-   # name = "Facebook"
-   # url = "http://facebook.com"
-   # pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-#[[menu.topbar]]
-#    weight = 4
-#    name = "Twitter"
-#    url = "http://twitter.com"
-#    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    pre = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><path d='M494.8 47c12.7-3.7 20-17.1 16.3-29.8S494-2.8 481.2 1L51.7 126.9c-9.4 2.7-17.9 7.3-25.1 13.2C10.5 151.7 0 170.6 0 192l0 4L0 304 0 448c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-256c0-35.3-28.7-64-64-64l-229.5 0L494.8 47z'/></svg>"
 
 [[menu.topbar]]
     weight = 2
@@ -124,61 +115,7 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
-    author = "CGV"
-    defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
-    defaultDescription = "Derechos Resevados ®CGV"
     custom_css = ["css/custom_style.css"]
-
-    # Social media
-    # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
-
-    # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = false
-    googleMapsApiKey = ""
-
-    latitude = "-12.043333"
-    longitude = "-77.028333"
-
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 50 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - register your account to https://formspree.io/register
-    # - login and create new form
-    # - set your form's endpoint url under 'formspree_action' below
-    # - upload the generated site to your server
-    # - test a dummy email yourself
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/f/xrgwkrlq"
-    contact_form_ajax = false
-
-    # Formspree form supports Google reCAPTCHA Key (type v2).
-    # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
-    #
-    # By default, Formspree use a redirect page for recaptcha widget.
-    # If you use a recaptcha widget in your contact page, you should do next steps.
-    # (if you don't want, skip these steps)
-    #
-    #   1. register your site on Google recaptcha admin page: https://www.google.com/recaptcha/admin
-    #   2. select reCAPTCHA v2 and checkbox widget type.
-    #   3. remember site key and secret key.
-    #   4. enter secret key into "Custom reCAPTCHA Key" field in your Formspree form setting page.
-    #   5. change `enableRecaptchaInContactForm` is to true
-    #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
-    #
-    enableRecaptchaInContactForm = false
-    googleRecaptchaKey = "site_key_for_google_recaptcha"
 
 about_us = """
 <p>
@@ -188,113 +125,12 @@ Capacitación dirigidos por la iglesia, en la iglesia y para la iglesia.
 </p>
 """
 
-    # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
-
-    dropdown_mouse_over = false
-
     disabled_logo = false
     logo_text = "CGV"
 
     logo = "img/cgv-logo.jpg"
     logo_small = "img/cgv-logo-small.jpg"
     contact_url = "/contacto"
-    address = """<p class="text-uppercase"><strong>Centros en Bolivia</strong>
-        <br>Iglesia Yo Soy
-        <br>Cochabamba
-        <br>
-      </p> </p>
-      Iglesia Bíblica Misionera
-      <br>Tupiza
-      <br>
 
-      """
 UglifyURLs = true
 CanonifyURLs = true
-[permalinks]
-    post = "/post/:filename"
-    page = "/:filename"
-    # plan-de-estudios = "/plan-de-estudios/:filename"
-    # blog = "/blog/:year/:month/:day/:filename/"
-
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contactarnos via WhatsApp +591 (6) 4908144 or info@discipuladocgv.org</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+591 (6) 4908144" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:info@discipuladocgv.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
-
-[params.carouselCustomers]
-    items = 6
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.carouselTestimonials]
-    items = 3
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.carouselHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = true
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
-
-[params.features]
-    enable = true
-    cols = 3 # Default: 3, Available values 2,3,4,6
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more information take a look at the README.
-
-[params.testimonials]
-    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more information take a look at the README.
-    title = "Testimonios"
-    subtitle = "Lo que dicen los alumnos de CGV"
-
-[params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    title = "Cultivados en Gracia y Verdad"
-    subtitle = "Estudio bíblico intensivo de un año"
-    link_url = "/nosotros/somos-diferentes/"
-    link_text = "Más Información"
-
-[params.clients]
-    enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more information take a look at the README.
-    title = "CGV en Bolivia"
-    subtitle = ""
-
-[params.recent_posts]
-    enable = true
-    title = "Bienvenido"
-    subtitle = "La idea de participar en el desarrollo de su futuro es un privilegio que no nos tomamos a la ligera. Dado que el CGV se trata de hacer hacedores de discípulos y no simplemente discípulos, adoptamos un enfoque diferente hacia la educación. Nuestro programa está diseñado para ser intencional en todo momento. <br /> <h3> Escucha Radio CGV</h3><iframe  src='https://player.radioking.io/cgv/?c=%230DB050&c2=%23FFFFFF&f=h&i=0&p=1&s=1&li=1&popup=1&plc=0&h=undefined&l=100&v=2&fullsize' style='border-radius: 5px; width: 100%; height: 145px; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);' frameBorder='0' ></iframe><script type='text/javascript' src='https://player.radioking.io/scripts/iframe.bundle.js'></script>"
-
-    hide_summary = false
-
-[params.footer.recent_posts]
-    enable = false
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "authors"
