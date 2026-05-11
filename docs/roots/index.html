@@ -1,83 +1,134 @@
 <link rel="stylesheet" href="/css/roots.css">
 <link rel="stylesheet" href="/css/custom.css">
-<h1>Roots</h1>
+<h1>ROOTS</h1>
 
 
-<div class="search-bar"></div>
-<input 
-  type="text" 
-  id="searchBox" 
-  placeholder="Buscar: col 1:1, romanos, fe..."
-  style="width: 100%; padding: 8px; margin: 10px 0;"
-/>
+<div class="search-bar-fixed">
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Buscar: col 1:1, romanos, fe..."
+  />
+  <ul id="results"></ul>
+</div>
 
-<ul id="results"></ul>
+<div class="roots-page-content">
+  <h1>ROOTS</h1>
 
-<ul class="roots-list">
-  
-    
-      <li>
-        <a href="/roots/readme_old/">ROOTS Verb &#43; Connector Alignment Specification</a>
-      </li>
-    
-  
-    
-  
-    
-  
-    
-      <li>
-        <a href="/roots/roots-dataset/colosenses-data/">Colosenses Data</a>
-      </li>
-    
-  
-    
-      <li>
-        <a href="/roots/step1-output/">ROOTS Step1</a>
-      </li>
-    
-  
-    
-      <li>
-        <a href="/roots/roots-dataset/tito-data/">Tito roots-data</a>
-      </li>
-    
-  
+  <hr>
+
+  <div class="roots-content">
+    <h2 id="permitir-que-la-escritura-hable">Permitir que la Escritura hable</h2>
+<p>ROOTS existe para ayudar a creyentes a disminuir la velocidad, observar cuidadosamente el texto bíblico y permitir que la Escritura comunique su propio mensaje.</p>
+<p>No busca imponer estructuras teológicas sobre el texto ni promover un sistema de interpretación particular. El propósito es aprender a prestar atención a lo que el texto realmente dice.</p>
+<h2 id="leer-cuidadosamente">Leer cuidadosamente</h2>
+<p>ROOTS busca ayudar al lector a:</p>
+<ul>
+<li>observar el flujo del texto,</li>
+<li>seguir el desarrollo del autor,</li>
+<li>identificar conexiones dentro del pasaje,</li>
+<li>y permitir que el mensaje de la Escritura emerja del propio texto.</li>
 </ul>
+<h2 id="la-escritura-como-centro">La Escritura como centro</h2>
+<p>El énfasis no está en descubrir significados ocultos, sino en aprender a escuchar cuidadosamente lo que Dios ha comunicado por medio de Su Palabra.</p>
+<p>ROOTS funciona como una ayuda para la observación bíblica dentro del contexto de la iglesia local y del discipulado.</p>
+<h2 id="relación-con-el-currículo-cgv">Relación con el currículo CGV</h2>
+<p>ROOTS no existe separado del propósito general de CGV.</p>
+<p>Busca apoyar el desarrollo de creyentes capaces de leer cuidadosamente la Escritura dentro del contexto de la iglesia local y del discipulado.</p>
+<ul>
+<li>Ver el <a href="/curriculo/">Camino Sugerido de Formación</a></li>
+<li>Explorar los <a href="/courses/">Materiales del currículo</a></li>
+<li>Conocer los <a href="/centros/">Centros de Capacitación</a></li>
+<li>Leer sobre la <a href="/implementacion/">Implementación</a></li>
+</ul>
+
+  </div>
+</div>
+
+<hr>
+
+
+<div class="roots-content">
+  <h2 id="permitir-que-la-escritura-hable">Permitir que la Escritura hable</h2>
+<p>ROOTS existe para ayudar a creyentes a disminuir la velocidad, observar cuidadosamente el texto bíblico y permitir que la Escritura comunique su propio mensaje.</p>
+<p>No busca imponer estructuras teológicas sobre el texto ni promover un sistema de interpretación particular. El propósito es aprender a prestar atención a lo que el texto realmente dice.</p>
+<h2 id="leer-cuidadosamente">Leer cuidadosamente</h2>
+<p>ROOTS busca ayudar al lector a:</p>
+<ul>
+<li>observar el flujo del texto,</li>
+<li>seguir el desarrollo del autor,</li>
+<li>identificar conexiones dentro del pasaje,</li>
+<li>y permitir que el mensaje de la Escritura emerja del propio texto.</li>
+</ul>
+<h2 id="la-escritura-como-centro">La Escritura como centro</h2>
+<p>El énfasis no está en descubrir significados ocultos, sino en aprender a escuchar cuidadosamente lo que Dios ha comunicado por medio de Su Palabra.</p>
+<p>ROOTS funciona como una ayuda para la observación bíblica dentro del contexto de la iglesia local y del discipulado.</p>
+<h2 id="relación-con-el-currículo-cgv">Relación con el currículo CGV</h2>
+<p>ROOTS no existe separado del propósito general de CGV.</p>
+<p>Busca apoyar el desarrollo de creyentes capaces de leer cuidadosamente la Escritura dentro del contexto de la iglesia local y del discipulado.</p>
+<ul>
+<li>Ver el <a href="/curriculo/">Camino Sugerido de Formación</a></li>
+<li>Explorar los <a href="/courses/">Materiales del currículo</a></li>
+<li>Conocer los <a href="/centros/">Centros de Capacitación</a></li>
+<li>Leer sobre la <a href="/implementacion/">Implementación</a></li>
+</ul>
+
+</div>
+
 
 <script>
 let DATA = [];
+
+fetch('/roots/ROOTS-dataset/index.json')
+  .then(res => res.json())
+  .then(json => {
+    DATA = json;
+  });
 
 const input = document.getElementById('searchBox');
 const results = document.getElementById('results');
 
 function clean(str) {
-  return (str || '').toLowerCase().trim();
+  return str.toLowerCase().trim();
 }
 
-
-fetch('/roots/roots-dataset/index.json')
-  .then(res => res.json())
-  .then(json => {
-    DATA = json;
-    console.log('DATA loaded:', DATA.length);
-
-    
-    input.addEventListener('input', handleSearch);
-  })
-  .catch(err => console.error('Fetch error:', err));
-
-function handleSearch() {
+input.addEventListener('input', () => {
   const query = clean(input.value);
   results.innerHTML = '';
 
   if (!query) return;
 
-  const matches = DATA.filter(item =>
-    JSON.stringify(item).toLowerCase().includes(query)
-  );
+  let matches = [];
 
-  results.innerHTML = '';
+  if (query.includes(':')) {
+    const parts = query.split(' ');
+    let verse = null;
+    let book = null;
+
+    parts.forEach(p => {
+      if (p.includes(':')) verse = p;
+      else book = p;
+    });
+
+    matches = DATA.filter(item => {
+      const title = clean(item.title);
+
+      if (book) {
+        return title.includes(book) && title.includes(verse);
+      }
+
+      return title.includes(verse);
+    });
+  }
+
+  if (matches.length === 0) {
+    matches = DATA.filter(item =>
+      clean(item.title).includes(query) ||
+      clean(item.content).includes(query)
+    );
+  }
+
+ results.innerHTML = '';
 
 matches.slice(0, 20).forEach(item => {
   const ref = item.ref || item.title || '';
@@ -105,7 +156,24 @@ matches.slice(0, 20).forEach(item => {
 
   results.appendChild(li);
 });
-}
-const regex = new RegExp(`(${query})`, 'gi');
-excerpt.innerHTML = preview.replace(regex, '<mark>$1</mark>') + '...';
+});
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const hash = window.location.hash;
+
+  if (!hash) return;
+
+  const el = document.querySelector(hash);
+  if (!el) return;
+
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+  el.classList.add("highlight-verse");
+
+  setTimeout(() => {
+    el.classList.remove("highlight-verse");
+  }, 4000);
+});
 </script>

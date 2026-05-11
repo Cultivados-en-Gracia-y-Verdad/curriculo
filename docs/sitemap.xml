@@ -2,126 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/courses/el-dios-de-la-historia/</loc>
+    <loc>http://www.discipuladocgv.org/courses/el-dios-de-la-historia/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/filipenses/</loc>
+    <loc>http://www.discipuladocgv.org/courses/filipenses/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/galatas/</loc>
+    <loc>http://www.discipuladocgv.org/courses/galatas/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/habacuc/</loc>
+    <loc>http://www.discipuladocgv.org/courses/habacuc/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/introduccion-al-griego/</loc>
+    <loc>http://www.discipuladocgv.org/courses/introduccion-al-griego/</loc>
   </url><url>
-    <loc>http://localhost:1313/courses/navegado-el-texto/</loc>
+    <loc>http://www.discipuladocgv.org/courses/navegado-el-texto/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/roots/</loc>
-    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/roots/readme_old/</loc>
-    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contacto/</loc>
+    <loc>http://www.discipuladocgv.org/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fotos/</loc>
+    <loc>http://www.discipuladocgv.org/contacto/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/horario/</loc>
+    <loc>http://www.discipuladocgv.org/fotos/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/plan-de-estudios/</loc>
+    <loc>http://www.discipuladocgv.org/horario/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.discipuladocgv.org/plan-de-estudios/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/calendar/</loc>
+    <loc>http://www.discipuladocgv.org/calendar/</loc>
     <lastmod>2023-08-31T15:11:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/costos/</loc>
+    <loc>http://www.discipuladocgv.org/posts/costos/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://www.discipuladocgv.org/posts/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/roots/file-creation-process/</loc>
+    <loc>http://www.discipuladocgv.org/admisiones/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/1corintios-data/</loc>
+    <loc>http://www.discipuladocgv.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/1corintios.out/</loc>
+    <loc>http://www.discipuladocgv.org/centros/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/1juan.out/</loc>
+    <loc>http://www.discipuladocgv.org/courses/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/1pedro.out/</loc>
+    <loc>http://www.discipuladocgv.org/curriculo/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/1tesalonicenses.out/</loc>
+    <loc>http://www.discipuladocgv.org/implementacion/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/1timoteo.out/</loc>
+    <loc>http://www.discipuladocgv.org/nosotros/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/2corintios.out/</loc>
+    <loc>http://www.discipuladocgv.org/radio/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/2juan.out/</loc>
+    <loc>http://www.discipuladocgv.org/roots/</loc>
   </url><url>
-    <loc>http://localhost:1313/roots/step1-output/2pedro.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/2tesalonicenses.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/2timoteo.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/3juan.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/apocalipsis.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/colosenses.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/efesios.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/filemon.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/filipenses.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/galatas.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/hebreos.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/hechos.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/juan.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/judas.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/lucas.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/marcos.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/mateo.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/romanos.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/santiago.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/tito.out/</loc>
-  </url><url>
-    <loc>http://localhost:1313/admisiones/</loc>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/centros/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/colosenses-data/</loc>
-  </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-  </url><url>
-    <loc>http://localhost:1313/nosotros/</loc>
-  </url><url>
-    <loc>http://localhost:1313/radio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/step1-output/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/roots/roots-dataset/tito-data/</loc>
+    <loc>http://www.discipuladocgv.org/tags/</loc>
   </url>
 </urlset>
