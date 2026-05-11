@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
+</head>
+
+<body>
+<div id="all">
+
+  {{ partial "top.html" . }}
+  {{ partial "nav.html" . }}
+  {{ partial "breadcrumbs.html" . }}
+
+  <main id="content">
+    <div class="container">
+
+      <header class="cgv-library-hero">
+        <p class="cgv-eyebrow">Programa de formación</p>
+        <h1>{{ .Title }}</h1>
+
+        <div class="cgv-hero-text">
+          {{ .Content }}
+        </div>
+      </header>
+
+      <section class="cgv-roadmap">
+
+        {{ range site.Data.courses }}
+
+          <article class="cgv-roadmap-item">
+
+            <div class="cgv-roadmap-order">
+              {{ .order }}
+            </div>
+
+            <div class="cgv-roadmap-content">
+
+              <h2>{{ .title }}</h2>
+
+              <div class="cgv-roadmap-meta">
+                <span><strong>Responsable:</strong> {{ .responsible }}</span>
+                <span><strong>Examen:</strong> {{ .exam }}</span>
+              </div>
+
+            </div>
+
+          </article>
+
+        {{ end }}
+
+      </section>
+
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+</body>
+</html>
