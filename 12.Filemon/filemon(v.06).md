@@ -28,9 +28,7 @@ FILEMÓN
 
 ###### La carta adquiere mayor fuerza cuando observamos que Pablo decide enviar de regreso a Onésimo mientras simultáneamente desarrolla un ruego relacional dirigido a Filemón. Esto <u>ayuda</u> a explicar por qué Pablo procede cuidadosamente, prefiere rogar en lugar de mandar, enfatiza una respuesta voluntaria y asume posibles deudas relacionadas con Onésimo.
 
-###### Por esta razón, las realidades sociales y legales de la esclavitud romana probablemente hicieron que el regreso de Onésimo fuera altamente <u>tenso</u> y potencialmente peligroso. Esta observación ayuda a percibir con mayor fuerza expresiones como:
-
-**Observación histórica y relacional de las expresiones centrales de la carta**
+###### Por esta razón, las realidades sociales y legales de la esclavitud romana probablemente hicieron que el regreso de Onésimo fuera altamente <u>tenso</u> y potencialmente peligroso. 
 
 ##### Estas expresiones adquieren <u>mucho</u> más peso cuando son observadas dentro del contexto social y legal del mundo romano.
 
