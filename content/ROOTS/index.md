@@ -21,13 +21,26 @@ ROOTS busca ayudar al lector a:
 
 El énfasis no está en descubrir significados ocultos, sino en aprender a escuchar cuidadosamente lo que Dios ha comunicado por medio de Su Palabra.
 
-ROOTS funciona como una ayuda para la observación bíblica dentro del contexto de la iglesia local y del discipulado.
+ROOTS funciona como una ayuda para la observación bíblica dentro del contexto del discipulado y de la iglesia local.
+
+No reemplaza la lectura de la Escritura. Tampoco busca convertir el estudio bíblico en un proceso técnico.
+
+Su propósito es ayudar al estudiante a desarrollar hábitos de lectura cuidadosa, atención al texto y sensibilidad al desarrollo del mensaje bíblico.
+
+## Herramientas de apoyo
+
+Algunos estudiantes y participantes del currículo CGV también tendrán acceso a herramientas de apoyo relacionadas con ROOTS, interlineales y otros recursos de estudio bíblico.
+
+Estas herramientas existirán separadas del sitio principal de CGV para mantener el enfoque del currículo y de la formación bíblica dentro de la iglesia local.
 
 ## Relación con el currículo CGV
 
-ROOTS no existe separado del propósito general de CGV.
+ROOTS sirve al mismo propósito general de CGV:
 
-Busca apoyar el desarrollo de creyentes capaces de leer cuidadosamente la Escritura dentro del contexto de la iglesia local y del discipulado.
+- formación bíblica seria,
+- discipulado intencional,
+- atención cuidadosa a la Escritura,
+- y desarrollo espiritual dentro de la vida de la iglesia local.
 
 - Ver el [Camino Sugerido de Formación](/curriculo/)
 - Explorar los [Materiales del currículo](/courses/)
