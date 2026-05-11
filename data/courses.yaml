@@ -1,0 +1,120 @@
+- order: 1
+  title: "Forastero"
+  responsible: "-"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 2
+  title: "El Dios de la Historia"
+  responsible: "Brandon"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 3
+  title: "Habacuc"
+  responsible: "John"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 4
+  title: "Destacando el Evangelio"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 5
+  title: "Introducción al griego"
+  responsible: "Alan"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 6
+  title: "Romanos 1-8"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 7
+  title: "Gálatas"
+  responsible: "Brandon"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 8
+  title: "Navegando el Texto Bíblico"
+  responsible: "John"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 9
+  title: "Colosenses"
+  responsible: "Alan"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 10
+  title: "Filipenses"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 11
+  title: "Filemón"
+  responsible: "Diego"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 12
+  title: "1 Corintios"
+  responsible: "Brandon"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 13
+  title: "Santiago"
+  responsible: "John"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 14
+  title: "Romanos 9-16"
+  responsible: "Alan"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 15
+  title: "Discipulado Bíblico"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 16
+  title: "Efesios"
+  responsible: "Brandon"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 17
+  title: "1 Timoteo"
+  responsible: "John"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 18
+  title: "Tito"
+  responsible: "Alan"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 19
+  title: "Judas"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 20
+  title: "1 Juan"
+  responsible: "Brandon"
+  status: "Sin corregir"
+  exam: "No disponible"
+- order: 21
+  title: "Daniel"
+  responsible: "John"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 22
+  title: "Zacarías"
+  responsible: "Alan"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 23
+  title: "Apocalipsis"
+  responsible: "Danny"
+  status: "Sin corregir"
+  exam: "Disponible"
+- order: 24
+  title: "1 Pedro"
+  responsible: "Diego"
+  status: "Sin corregir"
+  exam: "Disponible"
