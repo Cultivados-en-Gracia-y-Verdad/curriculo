@@ -8,6 +8,20 @@ ROOTS existe para ayudar a creyentes a disminuir la velocidad, observar cuidados
 
 No busca imponer estructuras teológicas sobre el texto ni promover un sistema de interpretación particular. El propósito es aprender a prestar atención a lo que el texto realmente dice.
 
+## ROOTS y el currículo CGV
+
+ROOTS es el método principal utilizado para desarrollar el currículo CGV.
+
+El enfoque busca trabajar cuidadosamente el texto bíblico antes de desarrollar:
+
+- lecciones,
+- estructura curricular,
+- observaciones,
+- manuales,
+- y materiales de formación.
+
+La intención es permitir que la Escritura dirija el desarrollo del currículo en lugar de simplemente usar el texto para apoyar ideas previamente establecidas.
+
 ## Leer cuidadosamente
 
 ROOTS busca ayudar al lector a:
@@ -33,7 +47,7 @@ Algunos estudiantes y participantes del currículo CGV también tendrán acceso 
 
 Estas herramientas existirán separadas del sitio principal de CGV para mantener el enfoque del currículo y de la formación bíblica dentro de la iglesia local.
 
-## Relación con el currículo CGV
+## Relación con CGV
 
 ROOTS sirve al mismo propósito general de CGV:
 
