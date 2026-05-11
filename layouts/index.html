@@ -25,8 +25,8 @@
         </p>
 
         <div class="cgv-home-actions">
-          <a class="btn btn-template-main btn-lg" href="/courses/">Ver currículo</a>
-          <a class="btn btn-template-main cgv-btn-outline btn-lg" href="/contacto/">Contactar a CGV</a>
+          <a class="btn btn-template-main btn-lg" href="/curriculo/">Ver currículo</a>
+          <a class="btn btn-template-main cgv-btn-outline btn-lg" href="/courses/">Descargar materiales</a>
         </div>
       </div>
     </section>
@@ -45,8 +45,8 @@
           <article class="cgv-home-card">
             <h2>Currículo</h2>
             <p>
-              Un programa bíblico intensivo de un año diseñado para capacitar
-              discípulos dentro del contexto de la iglesia local.
+              Una secuencia bíblica intensiva diseñada para capacitar discípulos
+              dentro del contexto de la iglesia local.
             </p>
           </article>
 
@@ -65,7 +65,7 @@
       <div class="container">
 
         <div class="cgv-section-heading">
-          <p class="cgv-eyebrow">Currículo CGV</p>
+          <p class="cgv-eyebrow">Materiales CGV</p>
           <h2>Materiales disponibles</h2>
           <p>
             Manuales y materiales bíblicos preparados para Centros de Capacitación.
@@ -99,7 +99,7 @@
 
                 <div class="cgv-course-card-body">
                   <p class="cgv-course-meta">
-                    {{ .Params.nivel | default "Currículo CGV" }}
+                    {{ with .Params.orden }}Curso {{ . }}{{ else }}Material CGV{{ end }}
                   </p>
 
                   <h2>
@@ -129,7 +129,7 @@
 
         <div class="cgv-view-all">
           <a class="btn btn-template-main btn-lg" href="/courses/">
-            Ver todo el currículo
+            Ver todos los materiales
           </a>
         </div>
 
