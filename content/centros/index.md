@@ -32,8 +32,13 @@ El objetivo no es simplemente transmitir información, sino ayudar a iglesias a 
 
 Actualmente existen Centros de Capacitación funcionando en:
 
-- Iglesia Yo Soy — Cochabamba
-- Iglesia Bíblica Misionera — Tupiza
+### Iglesia Yo Soy — Cochabamba
+
+WhatsApp: +591 (7) 172-8180
+
+### Iglesia Bíblica Misionera — Tupiza
+
+WhatsApp: +591 (7) 183-5910
 
 ## Relación con el currículo CGV
 
