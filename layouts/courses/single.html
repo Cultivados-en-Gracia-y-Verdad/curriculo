@@ -41,9 +41,9 @@
 
           <p class="cgv-course-meta">
             {{ with .Params.orden }}
-            Curso {{ . }}
+              Curso {{ . }}
             {{ else }}
-            Currículo CGV
+              Currículo CGV
             {{ end }}
           </p>
 
@@ -54,10 +54,6 @@
           {{ end }}
 
           <section class="cgv-course-facts">
-            {{ with .Params.nivel }}
-              <div><strong>Nivel:</strong> {{ . }}</div>
-            {{ end }}
-
             {{ with .Params.tipo }}
               <div><strong>Tipo:</strong> {{ . }}</div>
             {{ end }}
