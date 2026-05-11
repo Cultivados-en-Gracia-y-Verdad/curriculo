@@ -59,7 +59,7 @@
 
             <div class="cgv-course-card-body">
               <p class="cgv-course-meta">
-                {{ .Params.nivel | default "Currículo CGV" }}
+                {{ with .Params.orden }}Curso {{ . }}{{ else }}Currículo CGV{{ end }}
               </p>
 
               <h2>
