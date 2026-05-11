@@ -15,8 +15,15 @@
   <main id="content">
     <div class="container">
 
-      {{ $cover := .Resources.GetMatch "*portada*" }}
+      {{ $cover := .Resources.GetMatch "images/*portada*" }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "images/*cover*" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "images/*.jpg" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "images/*.jpeg" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "images/*.png" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "*portada*" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "*cover*" }}{{ end }}
       {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.jpg" }}{{ end }}
+      {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.jpeg" }}{{ end }}
       {{ if not $cover }}{{ $cover = .Resources.GetMatch "*.png" }}{{ end }}
 
       {{ $alumno := .Resources.GetMatch "*alumno*.pdf" }}
