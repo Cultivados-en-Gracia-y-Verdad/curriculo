@@ -4,7 +4,7 @@ title: "Centros de Capacitación"
 
 ## Centros dirigidos por la iglesia local
 
-CGV existe para servir a iglesias locales mediante currículo bíblico diseñado para desarrollar hacedores de discípulos.
+CGV existe para servir a iglesias locales mediante formación bíblica seria, discipulado intencional y acompañamiento dentro del contexto de la iglesia local.
 
 Los Centros de Capacitación no buscan reemplazar la vida de la iglesia. Buscan ayudar a la iglesia a desarrollar espacios intencionales de formación bíblica dentro de su propio contexto.
 
@@ -13,9 +13,9 @@ Los Centros de Capacitación no buscan reemplazar la vida de la iglesia. Buscan 
 El propósito del currículo es ayudar a iglesias locales a desarrollar creyentes:
 
 - arraigados en el evangelio,
-- capaces de leer el texto bíblico,
-- preparados para servir,
-- y equipados para enseñar también a otros.
+- capaces de leer cuidadosamente la Escritura,
+- profundamente conectados a la vida de la iglesia local,
+- y preparados para servir y discipular a otros.
 
 ## Currículo y materiales
 
@@ -26,4 +26,20 @@ CGV provee:
 - materiales de apoyo,
 - y una secuencia sugerida de formación.
 
-El objetivo no es simplemente transmitir información, sino desarrollar hacedores de discípulos dentro de la iglesia local.
+El objetivo no es simplemente transmitir información, sino ayudar a iglesias a desarrollar una formación bíblica seria dentro de su propio contexto.
+
+## Centros en Bolivia
+
+Actualmente existen Centros de Capacitación funcionando en:
+
+- Iglesia Yo Soy — Cochabamba
+- Iglesia Bíblica Misionera — Tupiza
+
+## Relación con el currículo CGV
+
+Los Centros de Capacitación funcionan como espacios donde iglesias locales pueden implementar el currículo y desarrollar procesos intencionales de discipulado.
+
+- Ver el [Camino Sugerido de Formación](/curriculo/)
+- Explorar los [Materiales del currículo](/courses/)
+- Leer sobre la [Implementación](/implementacion/)
+- Conocer cómo [ROOTS](/ROOTS/) ayuda a observar cuidadosamente la Escritura
