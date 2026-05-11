@@ -2,7 +2,6 @@ baseURL = 'http://www.discipuladocgv.org/'
 languageCode = 'es'
 title = 'CGV'
 theme = "hugo-universal-theme"
-#themesDir = "/"
 PublishDir = "docs"
 defaultContentLanguage = "es"
 ShowBreadCrumbs = "true"
@@ -18,7 +17,7 @@ enableInlineShortcodes = true
 
 [outputs]
   home = ["HTML", "JSON"]
-  
+
 [menu]
 
 [[menu.main]]
@@ -34,15 +33,9 @@ enableInlineShortcodes = true
 
 [[menu.main]]
     name = "¿Qué es CGV?"
-    url = "/nosotros/somos-diferentes/"
-    parent = "cgv"
-    weight = 1
-
-[[menu.main]]
-    name = "Nuestra Visión"
     url = "/nosotros/"
     parent = "cgv"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Currículo"
@@ -80,7 +73,7 @@ enableInlineShortcodes = true
 
 [[menu.main]]
     name = "Implementar un Centro"
-    url = "/contacto/"
+    url = "/implementacion/"
     parent = "participa"
     weight = 1
 
@@ -97,7 +90,7 @@ enableInlineShortcodes = true
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
-     weight = 2
+    weight = 2
     name = "Radio"
     url = "https://link.radioking.com/cgv"
     pre = "<i class='fas fa-2x fa-broadcast-tower'></i>"
@@ -113,7 +106,7 @@ enableInlineShortcodes = true
     author = "CGV"
     defaultKeywords = ["CGV", "Cultivados en Gracia y Verdad", "discipulado", "currículo bíblico", "iglesia local"]
     mainSections = ["blog"]
-    defaultDescription = "Cultivados en Gracia y Verdad existe para ayudar a iglesias locales mediante formación bíblica seria, discipulado intencional y materiales curriculares."
+    defaultDescription = "Formación bíblica seria dentro de la iglesia local mediante discipulado intencional, currículo y acompañamiento."
     custom_css = ["css/custom_style.css"]
     twitter_site = ""
     default_sharing_image = "img/sharing-default.png"
@@ -144,7 +137,7 @@ enableInlineShortcodes = true
 
 about_us = """
 <p>
-<strong>Cultivados en Gracia y Verdad</strong> existe para ayudar a iglesias locales mediante formación bíblica seria, discipulado intencional y materiales curriculares al servicio de la iglesia local.
+<strong>Cultivados en Gracia y Verdad</strong> existe para ayudar a iglesias locales mediante formación bíblica seria, discipulado intencional y acompañamiento dentro del contexto de la iglesia local.
 </p>
 """
 
@@ -187,27 +180,15 @@ CanonifyURLs = true
 
 [params.testimonials]
     enable = false
-    title = "Testimonios"
-    subtitle = "Lo que dicen los alumnos de CGV"
 
 [params.see_more]
     enable = false
-    icon = "far fa-file-alt"
-    title = "Cultivados en Gracia y Verdad"
-    subtitle = "Formación bíblica seria dentro de la iglesia local"
-    link_url = "/nosotros/"
-    link_text = "Más Información"
 
 [params.clients]
     enable = false
-    title = "CGV en Bolivia"
-    subtitle = ""
 
 [params.recent_posts]
     enable = false
-    title = "Bienvenido"
-    subtitle = ""
-    hide_summary = false
 
 [params.footer.recent_posts]
     enable = false
