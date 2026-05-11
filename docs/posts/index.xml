@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CGV</title>
+    <title>Posts on Discipulado CGV</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on CGV</description>
+    <description>Recent content in Posts on Discipulado CGV</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 27 Aug 2023 21:53:01 -0400</lastBuildDate>
