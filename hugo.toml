@@ -4,16 +4,10 @@ title = 'CGV'
 theme = "hugo-universal-theme"
 #themesDir = "/"
 PublishDir = "docs"
-# Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
 ShowBreadCrumbs = "true"
-# Enable comments by entering your Disqus shortname
 disqusShortname = "cgv"
-#disqusShortname = "x"
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
-# number of words of summarized post content (default 70)
 summaryLength = 70
 
 [markup.goldmark.renderer]
@@ -106,31 +100,119 @@ enableInlineShortcodes = true
      weight = 2
     name = "Radio"
     url = "https://link.radioking.com/cgv"
-    pre = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><path d='M494.8 47c12.7-3.7 20-17.1 16.3-29.8S494-2.8 481.2 1L51.7 126.9c-9.4 2.7-17.9 7.3-25.1 13.2C10.5 151.7 0 170.6 0 192l0 4L0 304 0 448c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-256c0-35.3-28.7-64-64-64l-229.5 0L494.8 47z'/></svg>"
+    pre = "<i class='fas fa-2x fa-broadcast-tower'></i>"
 
 [[menu.topbar]]
-    weight = 2
+    weight = 3
     name = "Email"
     url = "mailto:info@discipuladocgv.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
+    viewMorePostLink = "/blog/"
+    author = "CGV"
+    defaultKeywords = ["CGV", "Cultivados en Gracia y Verdad", "discipulado", "currículo bíblico", "iglesia local"]
+    mainSections = ["blog"]
+    defaultDescription = "Cultivados en Gracia y Verdad existe para ayudar a iglesias locales mediante formación bíblica seria, discipulado intencional y materiales curriculares."
     custom_css = ["css/custom_style.css"]
-
-about_us = """
-<p>
-<strong>Cultivados en Gracia y Verdad</strong> existe para proveer currículo bíblico
-y materiales diseñados para crear hacedores de discípulos mediante Centros de
-Capacitación dirigidos por la iglesia, en la iglesia y para la iglesia.
-</p>
-"""
-
+    twitter_site = ""
+    default_sharing_image = "img/sharing-default.png"
+    enableGoogleMaps = false
+    googleMapsApiKey = ""
+    latitude = "-12.043333"
+    longitude = "-77.028333"
+    style = "default"
+    formspree_action = "https://formspree.io/f/xrgwkrlq"
+    contact_form_ajax = false
+    enableRecaptchaInContactForm = false
+    googleRecaptchaKey = "site_key_for_google_recaptcha"
+    date_format = "January 2, 2006"
+    dropdown_mouse_over = false
     disabled_logo = false
     logo_text = "CGV"
-
     logo = "img/cgv-logo.jpg"
     logo_small = "img/cgv-logo-small.jpg"
     contact_url = "/contacto"
+    copyright = "© CGV — Cultivados en Gracia y Verdad"
+    address = """<p class="text-uppercase"><strong>Centros en Bolivia</strong>
+        <br>Iglesia Yo Soy
+        <br>Cochabamba
+        <br><br>
+        Iglesia Bíblica Misionera
+        <br>Tupiza
+      </p>"""
+
+about_us = """
+<p>
+<strong>Cultivados en Gracia y Verdad</strong> existe para ayudar a iglesias locales mediante formación bíblica seria, discipulado intencional y materiales curriculares al servicio de la iglesia local.
+</p>
+"""
 
 UglifyURLs = true
 CanonifyURLs = true
+
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contactarnos vía WhatsApp +591 (6) 4908144 o info@discipuladocgv.org</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+591 (6) 4908144" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:info@discipuladocgv.org" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>"""
+
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carouselCustomers]
+    items = 6
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.carouselTestimonials]
+    items = 3
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.carouselHomepage]
+    enable = false
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.features]
+    enable = false
+    cols = 3
+
+[params.testimonials]
+    enable = false
+    title = "Testimonios"
+    subtitle = "Lo que dicen los alumnos de CGV"
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Cultivados en Gracia y Verdad"
+    subtitle = "Formación bíblica seria dentro de la iglesia local"
+    link_url = "/nosotros/"
+    link_text = "Más Información"
+
+[params.clients]
+    enable = false
+    title = "CGV en Bolivia"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = false
+    title = "Bienvenido"
+    subtitle = ""
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
