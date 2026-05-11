@@ -1,6 +1,6 @@
 ---
-title: "Navegando el Texto"
-description: "Como leer, observar y seguir el flujo del texto bíblico"
+title: "Filemón"
+description: "Recíbelo como a mi"
 
 weight: 1
 orden: 1
