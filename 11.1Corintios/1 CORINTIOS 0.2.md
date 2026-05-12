@@ -1749,19 +1749,63 @@ Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *ti
 
 Por tanto, los exhorto: sean imitadores míos.
 
+#### Por tanto, los exhorto: sean imitadores míos.
+
+##### Este es otro mandato para los corintos, es un mandato acompañado de una súplica. 
+
+##### Tiene peso después de todo lo que Pablo acaba de mencionar que describía su vida. Una vida que consideró el bienestar del otro como mas importante que el suyo. 
+
+##### La vida de Pablo era el resultado de pensar adecuadamente sobre lo que Dios le había dado a él. 
+
+##### Pablo quiere que imiten a Pablo en base a todo lo que acaba de contar. 
+
 ### 1 Corintios 4:17
 
 Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los *caminos* en Cristo, tal como yo enseño en todas partes, en cada iglesia.
 
 #### Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor.
 
+##### Pablo envió a Timoteo porque quería que los corintos sean sus imitadores. 
+
+##### Por como Pablo describe a Timoteo podemos notar que era especial en la vida de Pablo. 
+
+##### Timoteo era alguien que cumplía con fidelidad la oportunidad que Dios le había dado como administrador o servidor.
+
+##### Pablo considera apropiado enviar a un hijo suyo, a sus otros hijos. Esto es interesante. Al ver a Timoteo podrían ver de lo que se estaban perdiendo por vivir como hombres del mundo. 
+
 #### Él les recordará mis caminos, los *caminos* en Cristo
 
+##### Llegar a ser sus imitadores iba a requerir de un recordatorio de los caminos en Cristo.
+
+##### Timoteo no iría a enseñar algo nuevo sino a recordar algo que ya había sido enseñado: los caminos de Pablo. 
+
+##### Sabemos que Pablo no enseñaba algo que no sea a Cristo y este crucificado. Por lo tanto "los caminos de Pablo" se refiere a lo que el mismo pasaje dije: los caminos en Cristo. 
+
+###### La vida debe ser vivida por las riquezas que tenemos en Cristo. 
+
 #### tal como yo enseño en todas partes, en cada iglesia.
+
+##### La enseñanza no era exclusiva, era la misma para todas las diferentes iglesias.
+
+##### Aquí vemos el uso de la palabra iglesia para referirse a diferentes iglesias en diferentes lugares. 
+
+##### Pablo nunca cambió el mensaje. Es el mismo que le enseño a Timoteo, es el miso que Timoteo les recordaría, es el mismo que Pablo enseña en cada iglesia. 
 
 ### 1 Corintios 4:18
 
 Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
+
+#### Algunos de ustedes se han vuelto arrogantes
+
+##### Pablo no habla de todos los corintos acá.
+
+##### "se han vuelto arrogantes", es un verbo pasivo, la palabra transmita la idea de envanecerse o inflarse.
+
+##### Pablo esta diciendo que algunos corintos han sido inflados por algo.  
+
+#### como si yo no hubiera de ir a verlos.
+
+##### Estaban arrogantes hacia Pablo, probablemente insinuando que Pablo ya no iría a verlos más.
 
 ### 1 Corintios 4:19
 
@@ -1769,21 +1813,49 @@ Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de 
 
 #### Pero iré a verlos pronto, si el Señor quiere
 
+##### Pablo les dice que irá a verlos, pero esto si el Señor quiere que vaya.
+
+##### Contrario a la arrogancia de algunos, Pablo no podía hacer un plan que fuera independiente de la voluntad de Dios. 
+
 #### y conoceré, no las palabras de los arrogantes sino el poder que tienen.
+
+##### Pablo sabía que algunos estaban hablando con arrogancia contra él, sin embargo esas eran solo declaraciones. 
+
+##### En persona Pablo iba a ver si esas declaraciones tenían fundamento o eran vacías. 
 
 ### 1 Corintios 4:20
 
 Porque el reino de Dios no *consiste* en palabras, sino en poder.
 
+#### Porque el reino de Dios no *consiste* en palabras, sino en poder.
+
+##### Dios no es poderoso solamente porque alguien lo dice, sino porque su poder lo ha demostrado. 
+
 ### 1 Corintios 4:21
 
 ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
+
+#### ¿Qué quieren? ¿Iré a ustedes con vara
+
+##### Pablo les da a escoger a los corintos. Dependía de si querían perseverar en su arrogancia.
+
+##### Si este era el caso, s enfrentarían a un Pablo que vendría con vara. 
+
+##### Todo este pasaje esta en el contexto de un padre hablándole a los corintos como a hijos. 
+
+#### o con amor y espíritu de mansedumbre?
+
+##### Recibirían a un diferente Pablo si escucharían a su exhortación. 
 
 ## 1 Corintios 5:1-7a - Debían haber actuado diferente, porque Pablo había actuado diferente.
 
 ### 1 Corintios 5:1
 
 En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
+
+#### En efecto, se oye que entre ustedes hay inmoralidad
+
+#### y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
 
 ### 1 Corintios 5:2
 
@@ -1801,13 +1873,23 @@ En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como 
 
 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.*
 
+#### Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu
+
+#### como si estuviera presente, ya he juzgado al que cometió tal *acción.*
+
 ### 1 Corintios 5:4
 
 En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
 
+#### En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
+
 ### 1 Corintios 5:5
 
 entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
+
+#### entreguen a ese tal a Satanás para la destrucción de su carne 
+
+#### a fin de que su espíritu sea salvo en el día del Señor Jesús.
 
 ### 1 Corintios 5:6
 
