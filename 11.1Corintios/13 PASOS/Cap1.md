@@ -266,9 +266,9 @@ por lo demás, no ==sé== si ==bauticé== a algún otro.
 
 ​		(para que) no ==se haga vana== la cruz de Cristo. 
 
-​		(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
 
-​		(pero) para nosotros los salvos ==es== poder de Dios. 
+(pero) para nosotros los salvos ==es== poder de Dios. 
 
 Porque ==está escrito==: 
 
@@ -366,9 +366,9 @@ por lo demás, no ==sé== si ==bauticé== a algún otro.
 
 ​		(para que) no ==se haga vana== la cruz de Cristo. 
 
-​		(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
 
-​		(pero) para nosotros los salvos ==es== poder de Dios. 
+(pero) para nosotros los salvos ==es== poder de Dios. 
 
 Porque ==está escrito==: 
 
@@ -450,7 +450,12 @@ por lo demás, no ==sé== si ==bauticé== a algún otro.
 S: [1S-3S - Pablo - Cristo]
 (Pues) Cristo no me ==envió== a bautizar 
 
-S: [3S-3S - Cristo - Escritura]
+S: [3S-3S - Cristo - la palabra de la cruz]
+(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+
+(pero) para nosotros los salvos ==es== poder de Dios. 
+
+S: [3S-3S - la palabra de la cruz - Escritura]
 Porque ==está escrito==: 
 
 S: [3S-1S - Escritura - Dios]
@@ -510,6 +515,11 @@ S: [2P-1S - ustedes - Pablo]
 
 S: [1S-3S - Pablo - Cristo]
 ::RAZÓN:: (Pues) Cristo no me ==envió== a bautizar 
+
+S: [3S-3S - Cristo - la palabra de la cruz]
+::RAZÓN:: (Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+
+::CONTRASTE:: (pero) para nosotros los salvos ==es== poder de Dios. 
 
 S: [3S-3S - Cristo - Escritura]
 ::RAZÓN:: Porque ==está escrito==: 
@@ -573,6 +583,10 @@ S: [2P-1S - ustedes - Pablo]
 
 S: [1S-3S - Pablo - Cristo]
 ::RAZÓN:: (Pues) Cristo no me ==envió== a bautizar 
+
+::RAZÓN:: (Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+
+::CONTRASTE:: (pero) para nosotros los salvos ==es== poder de Dios. 
 
 S: [3S-3S - Cristo - Escritura]
 ::RAZÓN:: Porque ==está escrito==: 
@@ -639,6 +653,14 @@ por lo demás, no ==sé== si ==bauticé== a algún otro.
 ::RAZÓN:: 
 
 (Pues) Cristo no me ==envió== a bautizar 
+
+(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+
+::CONTRASTE:: 
+
+(pero) para nosotros los salvos ==es== poder de Dios. 
+
+::RAZÓN::
 
 Porque ==está escrito==: 
 
@@ -725,6 +747,14 @@ por lo demás, no ==sé== si ==bauticé== a algún otro.
 
 (Pues) Cristo no me ==envió== a bautizar 
 
+(Porque) la palabra de la cruz ==es== necedad para los que se pierden, 
+
+::CONTRASTE:: 
+
+(pero) para nosotros los salvos ==es== poder de Dios. 
+
+::RAZÓN::
+
 Porque ==está escrito==: 
 
 [porque] «==DESTRUIRÉ== LA SABIDURÍA DE LOS SABIOS, 
@@ -738,12 +768,6 @@ Porque ==está escrito==:
 ==agradó== a Dios mediante la necedad de la predicación salvar a los que creen. 
 
 Pues ==consideren==, hermanos, su llamamiento. 
-
-[FIN]
-
-
-
-[INICIO]
 
 
 ::CONTRASTE:: 

@@ -938,6 +938,8 @@ S:[3S-3S - escritura - Dios]
 
 **PASO 12**
 
+[INICIO]
+
 ::EXPONE:: 
 
 S:[1P-1S - nosotros - Pablo]

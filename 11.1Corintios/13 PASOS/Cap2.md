@@ -581,10 +581,6 @@ S: [3S-3S - escritura - cosas]
 S: [3S-3S - cosas - Dios]
 Son LAS COSAS QUE DIOS ==HA PREPARADO== PARA LOS QUE LO AMAN». 
 
-[FIN]
-
-[INICIO]
-
 ​	::CONTRASTE:: 
 
 (Pero) Dios nos las ==reveló== por medio del Espíritu, 
