@@ -1429,13 +1429,41 @@ Dios es el dueño absoluto de todas las cosas.
 
 Que *todo* hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.
 
+#### Que *todo* hombre nos considere de esta manera
+
+##### Ahora Pablo tiene un mandato para como consideran a otros. 
+
+##### Específicamente como deberían ver a Pablo, Apolos, y otros que servían como ellos. 
+
+#### como servidores de Cristo y administradores de los misterios de Dios.
+
+##### Pablo ya había expresado que ellos eran servidores. Ahora añade también administradores.
+
+##### Estos son personas que cuidan y administran algo que se les ha dado.
+
+##### Aunque Pablo haya establecido lo que son, ahora Pablo les manda a los corintos a pensar de ellos de acuerdo a esa verdad.
+
+##### Los corintos decían que eran de Pablo o Apolos, pero no estaban viendo con claridad a ninguno de ellos dos.
+
 ### 1 Corintios 4:2
 
 Ahora bien, lo que se requiere además de los administradores es que *cada* uno sea hallado fiel.
 
 #### Ahora bien, lo que se requiere además de los administradores
 
+##### "se requiere" esta en tiempo presente. Esto es algo que se esta requiriendo ahora mismo de los administradores de Dios. 
+
 #### es que *cada* uno sea hallado fiel.
+
+##### Lo que se esta buscando no es eficacia, no es productividad, sino fidelidad. 
+
+##### Ellos administran cosas que se les han sido dadas y no les pertenecen a ellos.
+
+###### Pablo mostró que el había recibido el mensaje que predicaba.
+
+###### Pablo también mostró que el trabajaba en un edificio que le pertenecía a Dios.
+
+###### Su labor era simplemente proclamar y enseñar el evangelio a todos aquellos que Dios le dio la oportunidad de hacerlo.
 
 ### 1 Corintios 4:3
 
@@ -1443,7 +1471,17 @@ En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cu
 
 #### En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano.
 
+##### Pablo no considera a los corintos como sus jueces. La opinión de ellos para Pablo tiene muy poca importancia.
+
+##### No solamente de ellos sino de cualquier otra persona también. 
+
+##### Pablo no servía para la opinión del hombre. 
+
+##### Pablo no deja a un lado el escudriño que otros tenían sobre su vida, sino que dice que es de muy poca importancia.
+
 #### De hecho, ni aun yo me juzgo a mí mismo.
+
+##### Ni siquiera el mismo estaba viviendo escudriñándose o juzgándose a sí mismo. 
 
 ### 1 Corintios 4:4
 
@@ -1451,9 +1489,17 @@ Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin cul
 
 #### Porque no estoy consciente de nada en contra mía.
 
+##### Pablo muestra que el mismo no esta consiente de algo en contra de sí mismo. 2 Timote 1:3
+
 #### Pero no por eso estoy sin culpa
 
+##### Aunque Pablo no estaba consiente de nada en contra suya, eso no era una garantía de que era fiel. 
+
+##### Pablo reconoce la posibilidad de que puede estar engañado en cuanto a sí mismo. 
+
 #### pues el que me juzga es el Señor.
+
+##### Ni la opinión de los hombres ni la suya propia eran de mucha importancia, porque el que juzga a Pablo es el Señor. 
 
 ### 1 Corintios 4:5
 
@@ -1461,13 +1507,31 @@ Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga,
 
 #### Por tanto, no juzguen antes de tiempo
 
+##### Pablo tiene ahora otro mandato para los corintos. Les dice que no es el tiempo aun para juzgar. 
+
+##### No es tiempo ahora de que estemos como jueces sobre nuestros hermanos. 
+
 #### *sino esperen* hasta que el Señor venga
+
+##### Cuando el señor venga será tiempo de que seamos juzgados apropiadamente.
+
+##### Esto también es un recordatorio de la futura venida del Señor. 
 
 #### el cual sacará a la luz las cosas ocultas en las tinieblas
 
+##### El Señor mismo podrá hacer un juicio completamente objetivo. Todo quedará al descubierto delante de él. 
+
+##### Pueden haber cosas ocultas aquí, pero cuando el Señor venga no habrán. 
+
 #### y también pondrá de manifiesto los designios de los corazones.
 
+##### También revelará las intenciones de los corazones de cada uno de nosotros.
+
+##### Esto es interesante. Dios esta interesado en las motivaciones de aquellos que lo sirven. 
+
 #### Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
+
+##### Solo entonces, después de ser juzgados por Dios, después de quedar completamente expuestos, la alabanza será apropiada. 
 
 ## 1 Corintios 4:6-15 - Pablo contrasta la perspectiva que tenían los corintos de sí mismos con la realidad que vivían los apóstoles.
 
@@ -1477,9 +1541,25 @@ Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por am
 
 #### Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes
 
+##### Pablo y Apolos vistos como servidores y administradores de Dios fue aplicado así por Pablo. 
+
+##### También el hecho de ser juzgados principalmente por Dios. 
+
 #### para que en nosotros aprendan a no sobrepasar lo que está escrito
 
+##### El propósito de Pablo es que los corintos aprendan. Pablo se uso a sí mismo y a Apolos como una lección. 
+
+##### Los corintos estaban engañados en cuanto a ellos mismos y los servidores de Dios.
+
+##### Su opinión no debe ir más allá de lo verdadero, lo que está escrito. Pablo no dice que se menosprecien, sino que piensen según la escritura. 
+
 #### para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
+
+##### El ir en contra de la verdad haría que se vuelvan arrogantes y empiecen a competir entre ellos. 
+
+##### Los corintos necesitaban aprender que no eran superiores entre ellos. Ningún corinto puede ponerse por encima de otro de sus hermanos. 
+
+##### Engaños que habían estado creyendo los habían inflado contra sus hermanos, haciéndoles sentir superiores a ellos, esto estaba causando divisiones entre ellos. 
 
 ### 1 Corintios 4:7
 
@@ -1487,9 +1567,31 @@ Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste,
 
 #### Porque ¿quién te distingue?
 
+##### Los corintos estaban haciendo distinción los unos con los otros. 
+
+##### Pablo pregunta quien porque si no era Dios el que hacía una distinción, esa distinción era una equivocación.
+
+###### Ningún creyente es distinguido de otro por Dios. En Cristo todos fueron igualmente enriquecidos. 
+
 #### ¿Qué tienes que no recibiste?
 
+##### Pablo les dijo antes que todas las cosas eran suyas. Ahora establece el hecho de que son suyas porque las recibieron.
+
+##### Todo lo que tenían era porque Dios se los había dado gratuitamente. 1 Corintios 2:12
+
+##### Si los corintos pensaban según verdad podrían entender que todo lo que tenían era recibido, no ganado.
+
+###### Solamente la gracia explica la vida de la perspectiva correcta. Por eso Pablo empezó recordándoles lo que eran en Cristo. Ellos estaban pensando fuera de esa realidad y por lo tanto se habían vuelto arrogantes.
+
 #### Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
+
+##### Esta es una condición de 1ra clase. Ya que lo recibiste, ¿por qué entonces te estarías jactando de ello?
+
+##### La razón era porque estaban viviendo su vida a parte de la gracia, entonces en esa perspectiva, tenían motivos para jactarse. 
+
+##### Cuando entendemos la vida que tenemos como recibida y no ganada, queda eliminado todo motivo por el cuál podríamos jactarnos. 
+
+###### Si miramos fuera de las riquezas que tenemos en Cristo, y empezamos a basar nuestra identidad en las cosas que hacemos, empezaremos a hincharnos los unos contra los otros. 
 
 ### 1 Corintios 4:8
 
@@ -1497,9 +1599,23 @@ Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesi
 
 #### Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros.
 
+##### Esto describe una posición sin necesidad de otros en su vida. 
+
+##### El pronombre de nosotros por el contexto hace referencia a los apóstoles. 
+
+##### Los corintos según su propia opinión estaban en una posición independiente de los apóstoles.
+
+##### Estas declaraciones muestra lo inflados, arrogantes, que estaban los corintos.
+
 #### Ojalá hubieran llegado a reinar
 
+##### Esta declaración muestra que la opinión de los corintos era equivocada. Pablo dice: Ojalá esto fuera verdad.
+
+##### Pablo si desea esto para los corinos aunque no sea verdad aún. 
+
 #### para que nosotros reináramos también con ustedes.
+
+##### Si fuera verdad que los corintos estuvieran reinando, también los apóstoles estarían reinando.
 
 ### 1 Corintios 4:9
 
@@ -1507,27 +1623,107 @@ Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último luga
 
 #### Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte.
 
+##### Pablo expresa su parecer. Lo que Dios tenía para los apóstoles parecía ser una sentencia de muerte. 
+
+##### Pablo considera que Dios los está usando a ellos para exhibirlos como personas con la muerte asegurada. 
+
 #### Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
+
+##### Pablo explica porque piensa así. Los apóstoles han llegado a ser un espectáculo en este mundo. 
+
+##### Un espectáculo que tanto los hombres como los ángeles estaban contemplando.
+
+##### Llegamos a ser expresa una acción que ellos no buscaron. Fue algo que Dios tenía para ellos. 
 
 ### 1 Corintios 4:10
 
 Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.
 
+#### Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo.
+
+##### Pablo dice que ellos son necios por Cristo, sin embargo los corintos en cristo eran prudentes.
+
+##### Pablo usa dos diferentes preposiciones, primero "por", y luego "en".
+
+##### Esto indica que aunque esta no era su realidad en Cristo, se hicieron como tales para el bien de otros. 
+
+##### La descripción de los corintos es en Cristo. 
+
+#### Nosotros somos débiles, pero ustedes, fuertes.
+
+##### Los apóstoles no eran personas poderosas. 
+
+#### Ustedes son distinguidos, pero nosotros, sin honra.
+
+##### Los apóstoles no recibían honra por la labor que hacían. Sin embargo los corintos habían recibido un trato distinguido de parte de ellos.
+
 ### 1 Corintios 4:11
 
 Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.
+
+#### Hasta el momento presente pasamos hambre y sed
+
+##### Pablo cuenta que ha pasado hambre y sed, y esa situación no estaba por cambiar. 
+
+#### andamos mal vestidos
+
+##### Los apóstoles no era un espectáculo de moda, sino todo lo contrario.
+
+#### somos maltratados
+
+##### Los apóstoles no eran un espectáculo de ser reconocidos por este mundo, sino de recibir un mal trato de este mundo
+
+#### y no tenemos dónde vivir.
+
+##### Los apóstoles no eran un ejemplo de tener posesiones en este mundo, ni siquiera tenían un lugar propio donde vivir. 
 
 ### 1 Corintios 4:12
 
 Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.
 
+#### Nos agotamos trabajando con nuestras propias manos.
+
+##### Pablo muestra que se encargaban de su propio sustento, a parte de la labor que ya hacían en el edificio de Dios. Este trabajo los agotaba físicamente.
+
+#### Cuando nos ultrajan, bendecimos.
+
+##### Pablo dice cuando, indicando que ellos eran ultrajados; es decir que eran insultados con el propósito de denigrar. 
+
+##### Frente a este trato ellos bendecían a los tales. 
+
+#### Cuando somos perseguidos, lo soportamos.
+
+##### Nuevamente Pablo indica una realidad, los apóstoles eran perseguidos. Sin embargo ellos no escapaban de aquello que les llevaba a ser perseguidos sino que se mantenían en ello.
+
 ### 1 Corintios 4:13
 
 Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
 
+#### Cuando hablan mal de nosotros, tratamos de reconciliar.
+
+##### Muchos hablaban para difamar a los apóstoles, sin embargo ellos buscaban animar a otros.
+
+#### Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
+
+##### El trato que habían recibido los apóstoles lo hizo ver como basura del mundo. Eran completamente desechados por el mundo. 
+
 ### 1 Corintios 4:14
 
 No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
+
+#### No les escribo esto para avergonzarlos
+
+##### Pablo no quiere avergonzar a los corintos al decir esto.
+
+##### Pablo no quiere que se comparen con ellos y se sientan avergonzados.
+
+#### sino para amonestarlos como a hijos míos amados.
+
+##### Al hablar de ellos como apóstoles y de sus experiencias Pablo esta tratando de corregir a los corintos como a hijos amados. 
+
+##### Pablo no les esta hablando solamente como hermano en Cristo, sino como un padre habla a su hijo.
+
+##### Pablo quiere que entiendan que el quiero el bien para los corintos, y aunque esto los desinfle y humille, eso es bueno para ellos. 
 
 ### 1 Corintios 4:15
 
@@ -1535,7 +1731,15 @@ Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *ti
 
 #### Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres
 
+##### Pablo quiere hacer una distinción entre él y los otros maestros que los corintos tienen, aunque estos sean muchos.
+
+##### Pablo para ellos es un padre, y de esos solo hay uno. 
+
+##### Pablo no esta reemplazando a Dios en la vida de ellos, solamente esta mostrando la relación que tiene para con ellos en cuanto a la obra que hizo entre ellos de plantar. 
+
 #### pues en Cristo Jesús yo los engendré por medio del evangelio.
+
+##### Pablo se considera padre porque el fue el primero que llegó a ellos con el evangelio, es decir fue el primer servidor que presento a Cristo, y les esta hablando a sus hijos que por medio de su predicación, creyeron el evangelio. 
 
 # 1 Corintios 4:16-5:13 -Pablo exhorta a los corintos a ser sus imitadores
 
