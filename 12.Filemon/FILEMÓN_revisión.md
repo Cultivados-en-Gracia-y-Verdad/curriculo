@@ -84,11 +84,11 @@ _Doy gracias a mi Dios siempre, haciendo mención de ti en mis oraciones_
 
 #### a.     _Doy gracias a mi Dios siempre..._
 
-##### 1)       **Esta es una declaración en singular que Pablo repite en 5 de sus cartas incluyendo la de Filemón y cada vez el contexto indica que la gratitud es un resultado expresado por Pablo al oír o conocer acerca de lo que resulta del poder del evangelio en la vida de los creyentes, en otras palabras, las gracias vienen de una fuente segura: lo que Dios esta haciendo posible mediante la palabra de la Cruz. (Filemón 1:5, Romanos 1:8, 1 Corintios 1:4, Filipenses 1:3-5, 2 Timoteo 1:3) (véase también 1 Tesalonicenses 1:2 y 2 Tesalonicenses 1:3 la misma declaración mencionada en plural)**
+##### 1)       **Esta es una declaración en singular que Pablo repite en 5 de sus cartas incluyendo la de Filemón y cada vez el contexto indica que la gratitud es un resultado expresado por Pablo al oír o conocer acerca de lo que resulta del poder del evangelio en la vida de los creyentes, en otras palabras, las gracias vienen de una fuente segura: lo que Dios esta haciendo posible mediante la palabra de la Cruz. (Filemón 1:5, Romanos 1:8, 1 Corintios 1:4, Filipenses 1:3-5, 2 Timoteo 1:3) ==(véase también 1 Tesalonicenses 1:2 y 2 Tesalonicenses 1:3 la misma declaración mencionada en plural)==**
 
-##### 2)       **La palabra traducida para: siempre aquí (pantote) podría ser mejor entendida como cada vez y es diferente a la que veremos mas adelante en el versículo 15.**
+##### ==2)       **La palabra traducida para: siempre aquí (pantote) podría ser mejor entendida como cada vez y es diferente a la que veremos mas adelante en el versículo 15.**==
 
-##### 3)       **Aquí se pueden observar algunos usos de la palabra (pantote) (Lucas 15:31, Mateo 26:11, Juan 11:42, 1 Corintios 15:58) su uso nos lleva a asociar su significado con oportunidades o veces en el plano terrenal. Llegando al versículo 15 de la carta entenderemos mejor el porque de esta aclaración u observación.**
+##### ==3)       **Aquí se pueden observar algunos usos de la palabra (pantote) (Lucas 15:31, Mateo 26:11, Juan 11:42, 1 Corintios 15:58) su uso nos lleva a asociar su significado con oportunidades o veces en el plano terrenal. Llegando al versículo 15 de la carta entenderemos mejor el porque de esta aclaración u observación.**==
 
 #### b.     _...haciendo mención de ti en mis oraciones..._
 
@@ -106,17 +106,17 @@ _porque oigo de tu amor y de la fe que tienes hacia el Señor Jesús y hacia to
 
 ##### 1)       **el amor y la fe que que Filemón tiene presentan una dirección y a la vez una fuente clara: El Señor Jesús. Aquello por lo cual fue tan fácil para Pablo distinguir o identificar el amor y la fe de Filemón en el presente, es hacia quien se dirigían. Su amor y su fe señalan a Cristo como objeto. Es decir que Pablo oyó que la confianza de Filemón en el presente estaba dirigida hacia Jesús, el amor que oyó de Filemón también estaba orientado directamente hacia Jesús.**
 
-##### 2)       **La predicación de la palabra de la cruz por mas loco que suene esta diseñado sabiamente para destacar y mostrar el poder de Dios a través de la cruz, esto es para encaminar u orientar la fe de quienes lo escuchan al poder de la cruz como único recurso de poder.** **1 Juan 3:16, 4:16,19 1 Corintios 1:1-2,5.**
+##### ==2)       **La predicación de la palabra de la cruz por mas loco que suene esta diseñado sabiamente para destacar y mostrar el poder de Dios a través de la cruz, esto es para encaminar u orientar la fe de quienes lo escuchan al poder de la cruz como único recurso de poder.** **1 Juan 3:16, 4:16,19 1 Corintios 1:1-2,5.**==
 
 #### c.      _... y hacia todos los santos._
 
-##### 1)       **el orden de los factores no altera el producto, así dicen las matemáticas, sin embargo en este versículo aparece un orden que no puede invertirse y esperarse que sea eficaz. El orden de orientación aparece de manera clara en el versículo: 1) Hacia el Señor Jesús 2) Hacia todos los santos. Esta misma fe, y este mismo amor que Filemón tiene se ven claramente dirigidos o extendidos también hacia todos los santos, haciendo referencia a cada uno de los hijos de Dios.**
+##### 1)       **==el orden de los factores no altera el producto, así dicen las matemáticas, sin embargo== en este versículo aparece un orden que no puede invertirse y esperarse que sea eficaz. El orden de orientación aparece de manera clara en el versículo: 1) Hacia el Señor Jesús 2) Hacia todos los santos. Esta misma fe, y este mismo amor que Filemón tiene se ven claramente dirigidos o extendidos también hacia todos los santos, haciendo referencia a cada uno de los hijos de Dios.**
 
 ##### 2)       **al fijar al Señor Jesús primero en el orden de orientación, esta nueva dirección que ahora vemos se establece segunda tanto en orden, como en resultado.**
 
 ##### 3)       **Una no complementa a la otra, una resulta de la otra. La segunda dirección evidencia eficacia, no legitimidad o autenticidad de la primera dirección.**
 
-##### 4)       **Si lo que se escuchaba de Filemón era su fe y su amor hacia los santos en el presente, es porque también en el presente estos estaban orientados y descansando en una persona como fuente de poder detrás del telón, El Señor Jesús.** **(Filemón vs 6)**
+##### ==4)       **Si lo que se escuchaba de Filemón era su fe y su amor hacia los santos en el presente, es porque también en el presente estos estaban orientados y descansando en una persona como fuente de poder detrás del telón, El Señor Jesús.** **(Filemón vs 6)==**
 
 ### 8.     **Filemón 6**
 
@@ -128,15 +128,15 @@ _Ruego que la comunión de tu fe llegue a ser eficaz por el conocimiento de todo
 
 ##### 2)       **No estamos hablando de verdadero o falso, el mismo versículo va a establecer el concepto de la palabra eficaz cuando menciona que procede de... (una fuente) en el contexto inmediato como veremos: de todo lo bueno en ustedes por medio de Cristo.**
 
-##### 3)       **El llegue a ser (ginomai) aparece como un verbo en modo subjuntivo, lo que lo sujeta, condiciona o asocia al cumplimiento de un verbo mencionado anteriormente en el versículo 5 tienes, es decir que la posibilidad de que su fe llegue a ser eficaz, esta sujeta al hecho de que la posee. El ruego es coherente con la realidad de lo que posee.**
+##### ==DEBE REVISARSE ESTO 3)       **El llegue a ser (ginomai) aparece como un verbo en modo subjuntivo, lo que lo sujeta, condiciona o asocia al cumplimiento de un verbo mencionado anteriormente en el versículo 5 tienes, es decir que la posibilidad de que su fe llegue a ser eficaz, esta sujeta al hecho de que la posee. El ruego es coherente con la realidad de lo que posee.**==
 
-##### 4)       **La palabra/ adjetivo: eficaz (energe) conlleva la idea de una fuente de poder real detrás. Algo realmente llega a ser eficaz, dependiendo de la fuente de poder detrás. Algunos usos que podemos apreciar en las escrituras: una puerta que Dios abre (1 Corintios 16:9) también la palabra misma de Dios Hebreos 4:12. Ambos usos señalan el poder detrás de la eficacia: la persona de Dios. Aunque solo la fe en Cristo es eficaz para salvación, Pablo ruega porque Filemón llegue a apropiarse y disfrute del poder detrás de su confianza/ fe y amor en la persona de Jesús hacia los demás.**
+##### ==4)       **La palabra/ adjetivo: eficaz (energe) conlleva la idea de una fuente de poder real detrás. Algo realmente llega a ser eficaz, dependiendo de la fuente de poder detrás. Algunos usos que podemos apreciar en las escrituras: una puerta que Dios abre (1 Corintios 16:9) también la palabra misma de Dios Hebreos 4:12. Ambos usos señalan el poder detrás de la eficacia: la persona de Dios. Aunque solo la fe en Cristo es eficaz para salvación, Pablo ruega porque Filemón llegue a apropiarse y disfrute del poder detrás de su confianza/ fe y amor en la persona de Jesús hacia los demás.**==
 
 #### b.     _...por el conocimiento de todo lo bueno que hay en ustedes..._
 
 ##### 1)       **Al identificar el poder que opera detrás de la eficacia, Pablo se encarga de que no queden dudas al respecto de cual o quien sea.** **(Efesios 6:10 Colosenses 1:29)**
 
-##### 2)       **La palabra conocimiento (epignosis) indica mas que un conocimiento intelectual, un conocimiento por experiencia. El creyente, en este caso Filemón, no solo conoce todo lo bueno sino que lo conoce por experiencia. No se trata de una falsa seguridad en algo que se ha dicho, se trata del conocimiento de hechos reales que Dios hizo posibles para sus hijos en y a través de Cristo. Filemón no solo sabe que es hijo (vs 3), ha experimentado esa adopción por la fe, no solo sabe que ha sido perdonado, ha experimentado ese perdón a través de la fe.** **(Gálatas 3:26, 4:6-7, Colosenses 2:13-14)**
+##### 2)       **La palabra conocimiento (epignosis) indica mas que un conocimiento intelectual, un conocimiento por experiencia. El creyente, en este caso Filemón, no solo conoce todo lo bueno sino que lo conoce por experiencia. No se trata de una falsa seguridad en algo que se ha dicho, se trata del conocimiento de hechos reales que Dios hizo posibles para sus hijos en y a través de Cristo. **==Filemón no solo sabe que es hijo (vs 3), ha experimentado esa adopción por la fe, no solo sabe que ha sido perdonado, ha experimentado ese perdón a través de la fe.** **(Gálatas 3:26, 4:6-7, Colosenses 2:13-14)==
 
 #### c.      _...mediante Cristo._
 
@@ -168,11 +168,13 @@ _Pues he llegado a tener mucho gozo y consuelo en tu amor, porque los corazones
 
 #### c.      _...porque los corazones de los hermanos han sido confortados por ti..._
 
-##### 1)       **El uso de una palabra en otra porción de la escritura por lo general enriquece la comprensión y el concepto de la misma.**
+##### ==PREDICACIÓN:==
 
-##### 2)       **En Mateo 11:28 Jesús promete hacer descansar a los que vienen a Él cargados y trabajados, y la palabra es confortar (anapauo - verbo) en el vs 29 aparece como sustantivo (anapausis-descanso). Jesús promete confortar a todos los que vienen a Él, y promete descanso a todos caminan enyugados a Él.**
+##### ==1)       **El uso de una palabra en otra porción de la escritura por lo general enriquece la comprensión y el concepto de la misma.**==
 
-##### 3)       **Aquel que ha sido colocado en el cuerpo de Cristo es confortado y puede hallar o aprovecharse de descanso en el cuerpo de Cristo.** **(Juan 6:37)**
+##### ==2)       **En Mateo 11:28 Jesús promete hacer descansar a los que vienen a Él cargados y trabajados, y la palabra es confortar (anapauo - verbo) en el vs 29 aparece como sustantivo (anapausis-descanso). Jesús promete confortar a todos los que vienen a Él, y promete descanso a todos caminan enyugados a Él.**==
+
+##### ==3)       **Aquel que ha sido colocado en el cuerpo de Cristo es confortado y puede hallar o aprovecharse de descanso en el cuerpo de Cristo.** **(Juan 6:37)**==
 
 ##### 4)       **Filemón aquí es presentado como un miembro o instrumento a través del cual los santos hallan descanso o son confortados en el amor que les brinda. Dios ha diseñado el cuerpo de Cristo de tal manera que cada miembro del cuerpo puedan participar activamente de brindar reposo al otro, no por quien, sino por donde ha sido colocado.**
 
@@ -286,9 +288,9 @@ _quien en otro tiempo te era inútil, pero ahora nos es útil a ti y a mí._
 
 ##### 2)       **Su utilidad es traída a disposición tanto de Pablo como de Filemón, por lo que Dios había hecho de él.** **(vs 10)**
 
-##### 3)       **El nombre de Onésimo quiere decir productivo, provechoso o beneficioso. Irónicamente Onésimo llego a ser alguien inútil antes de Cristo.**
+##### ==3)       **El nombre de Onésimo quiere decir productivo, provechoso o beneficioso. Irónicamente Onésimo llego a ser alguien inútil antes de Cristo.**==
 
-##### 4)       **Según el nombre que le dieron sus padres Onésimo contradeciría su identidad, Cristo redefiniría esa identidad al llamarlo hijo amado de nuestro Padre.**
+##### ==4)       **Según el nombre que le dieron sus padres Onésimo contradeciría su identidad, Cristo redefiniría esa identidad al llamarlo hijo amado de nuestro Padre.**==
 
 ### 15.  **Filemón 12**
 
@@ -306,7 +308,7 @@ _Y te lo he vuelto a enviar en persona, es decir, como si fuera mi propio coraz
 
 ##### 2)       **Pablo estaba enviando a Onésimo con la intención de que sea recibido como quien había llegado a ser para Pablo, tan preciado como su propio corazón.**
 
-##### 3)       **… mi propio corazón. Algo tan propio, querido, necesario y útil como su propio intestino o sus propias entrañas Hechos 1:18 Lucas 1:78.**
+##### 3)       **… mi propio corazón. Algo tan propio, querido, necesario y útil como su propio ==intestino o sus propias entrañas== Hechos 1:18 Lucas 1:78.**
 
 ##### 4)       **Pablo deseaba que cada miembro del cuerpo o de la persona de Filemón sea recibido como lo que había llegado a ser para él en prisiones.**
 
@@ -380,11 +382,11 @@ _Porque quizá por esto se apartó de ti por algún tiempo, para que lo volvier
 
 ##### 1)       **El propósito detrás del apartamiento es descrito como un propósito eterno.**
 
-##### 2)       **Cuando en las escrituras se usan términos como en este caso para siempre (aionos) o nunca, jamás (Juan 10:28) se usan en un sentido literal, y no como exageración o hipérbole. La eternidad es un asunto real en las escrituras, por eso es que los propósitos también son eternos.** **(Mateo 18:8, 19:16).**
+##### ==2)       **Cuando en las escrituras se usan términos como en este caso para siempre (aionos) o nunca, jamás (Juan 10:28) se usan en un sentido literal, y no como exageración o hipérbole. La eternidad es un asunto real en las escrituras, por eso es que los propósitos también son eternos.** **(Mateo 18:8, 19:16).**==
 
-##### 3)       **Recuerden entonces que no es la misma palabra que se usa en el versículo 4. No es una que lleva al lector a entender su alcance solamente en un plano de oportunidades en la tierra (cada vez que), siempre aquí (aionos) literalmente quiere decir siempre.**
+##### ==3)       **Recuerden entonces que no es la misma palabra que se usa en el versículo 4. No es una que lleva al lector a entender su alcance solamente en un plano de oportunidades en la tierra (cada vez que), siempre aquí (aionos) literalmente quiere decir siempre.**==
 
-##### 4)       **La vida de la que el creyente participa y ha la que ha sido introducido en la persona de cristo es eterna, es decir que no tiene fin, es decir que es en abundancia.** **(Juan 10:10, 17:3).**
+##### ==4)       **La vida de la que el creyente participa y ha la que ha sido introducido en la persona de cristo es eterna, es decir que no tiene fin, es decir que es en abundancia.** **(Juan 10:10, 17:3).**==
 
 ##### 5)       **No serian unos cuantos años mas de relación que le esperaban a Filemón con Onésimo, ahora que estaba estaba siendo enviado de vuelta por Pablo, esta seria una relación eterna.**
 
@@ -398,7 +400,7 @@ _ya no como esclavo, sino como más que un esclavo, como un hermano amado, esp
 
 #### b.     _... sino como más que un esclavo,_
 
-##### 1)       **si el esclavo era considerado por lo general lo peor de la sociedad, cualquier otra identidad era mejor. En las familias del primer siglo estaban los esclavos y estaban los hijos. Se levantaban como un contraste claro entre lo más bajo y lo más alto. ¿Cómo habrá sido la mirada de un esclavo al hijo de quien servía, que lo tenía todo? Ser hijo, era una aspiración grande, pero inadecuada e imposible para un esclavo en la familia.** **(Gálatas 4:4-7).**
+##### 1)       **si el esclavo era considerado por lo general lo peor de la sociedad, cualquier otra identidad era mejor. En las familias del primer siglo estaban los esclavos y estaban los hijos. Se levantaban como un contraste claro entre lo más bajo y lo más alto. ==¿Cómo habrá sido la mirada de un esclavo al hijo de quien servía, que lo tenía todo? Ser hijo, era una aspiración grande, pero inadecuada e imposible para un esclavo en la familia.(Gálatas 4:4-7).==
 
 #### c.      _...  como un hermano amado,_
 
@@ -438,7 +440,7 @@ _Si me tienes, pues, por compañero, acéptalo como me aceptarías a mí._
 
 ##### 4)       **Es claro en la carta, y no solo en esta como los imperativos toman naturalmente su lugar en las cartas siempre después de establecer hechos.**
 
-##### 5)       **¿de que manera llegó a aceptar Filemón a Pablo? ¿Por lo que se había oído de el en su vida pasada? De ningún modo. ¿Por qué era uno de los 12 apóstoles?**  **No creo.**
+##### ==5)       **¿de que manera llegó a aceptar Filemón a Pablo? ¿Por lo que se había oído de el en su vida pasada? De ningún modo. ¿Por qué era uno de los 12 apóstoles?**  **No creo.**==
 
 ##### 6)       **Fue porque gozaban del mismo vinculo de hijos/hermanos por la fe en Cristo que ambos se apreciaban como hermanos amados.**
 
@@ -470,7 +472,7 @@ _Y si te ha perjudicado en alguna forma, o te debe algo, cárgalo a mi cuenta._
 
 ##### 3)       **Cárgalo es el segundo imperativo de la carta, en consideración de lo que es real ahora de Onésimo. Pablo también esta correspondiendo a su nueva relación en El Señor para con Onésimo, al mandarle a Filemón que cargue sus deudas a su cuenta.**
 
-##### 4)       **La nueva identidad de Onésimo hace responsable no solo a un miembro de la iglesia de recibirlo como quien es ahora delante del Señor, sino a cada miembro del cuerpo de Cristo.**
+##### ==4)       **La nueva identidad de Onésimo hace responsable no solo a un miembro de la iglesia de recibirlo como quien es ahora delante del Señor, sino a cada miembro del cuerpo de Cristo.**==
 
 ### 22.  **Filemón 19**
 
@@ -506,9 +508,9 @@ _Sí, hermano, permíteme disfrutar este beneficio de ti en el Señor. Recrea mi
 
 ##### 3)       **El hecho de ver en otros lo que Dios es capaz de hacer a través del creyente mediante Cristo con seguridad es algo que trae disfrute/ deleite a cada creyente, a Pablo en este caso.**
 
-##### 4)       **La carta no había llegado aun, pero Pablo ya estaba expectante de oír que Filemón había hecho aun mas de lo que se le pidió. Deseaba que así como el corazon de los santos había sido confortado por Filemón y así como el de Filemón seria confortado también con la llegada de Onésimo, el suyo también halle un reposo seguro en la confianza de que aquel que esta en El Señor, es capaz de resultar en beneficio para el cuerpo entero.**
+##### ==4)       **La carta no había llegado aun, pero Pablo ya estaba expectante de oír que Filemón había hecho aun mas de lo que se le pidió. Deseaba que así como el corazon de los santos había sido confortado por Filemón y así como el de Filemón seria confortado también con la llegada de Onésimo, el suyo también halle un reposo seguro en la confianza de que aquel que esta en El Señor, es capaz de resultar en beneficio para el cuerpo entero.**==
 
-##### 5)       **La confianza puesta en El Señor tarde o temprano resulta en buenas noticias, debido a que Pablo confiaba en el Señor podía disfrutar del beneficio de Filemón en Él Señor. Su esperanza era tan segura, porque su confianza estaba en el Señor.** **(Salmo 40:4, Romanos 10:11).**
+##### ==5)       **La confianza puesta en El Señor tarde o temprano resulta en buenas noticias, debido a que Pablo confiaba en el Señor podía disfrutar del beneficio de Filemón en Él Señor. Su esperanza era tan segura, porque su confianza estaba en el Señor.** **(Salmo 40:4, Romanos 10:11).**==
 
 #### c.      _Recrea mi corazón en Cristo._
 
@@ -524,11 +526,11 @@ _Te escribo confiado en tu obediencia, sabiendo que harás aún más de lo que d
 
 #### a.     _Te escribo confiado en tu obediencia,_
 
-##### 1)       **No hay razón por la que Pablo dude de la obediencia de Filemón, pero ¿Por qué? hemos estudiado en romanos que el propósito fijado del Apostolado fue el de promover la obediencia a la fe entre los gentiles.(Romanos 1:5).**
+##### ==1)       **No hay razón por la que Pablo dude de la obediencia de Filemón, pero ¿Por qué? hemos estudiado en romanos que el propósito fijado del Apostolado fue el de promover la obediencia a la fe entre los gentiles.(Romanos 1:5).**==
 
-##### 2)       **Pablo aquí estaba siendo fiel a su propósito como apóstol al destacar el contenido de la fe, para luego promover la obediencia a la fe.**
+##### ==2)       **Pablo aquí estaba siendo fiel a su propósito como apóstol al destacar el contenido de la fe, para luego promover la obediencia a la fe.**==
 
-##### 3)       **Si, Pablo confiaba en la obediencia de Filemón, era justamente lo que buscaba promover, pero su confianza no venia de la capacidad de Filemón, sino de la capacidad de Cristo (el contenido de la fe) de promover obediencia.**
+##### ==3)       **Si, Pablo confiaba en la obediencia de Filemón, era justamente lo que buscaba promover, pero su confianza no venia de la capacidad de Filemón, sino de la capacidad de Cristo (el contenido de la fe) de promover obediencia.**==
 
 #### b.     _... sabiendo que harás aún más de lo que digo._
 
@@ -540,9 +542,9 @@ _Te escribo confiado en tu obediencia, sabiendo que harás aún más de lo que d
 
 ##### 4)       **Aquello que Pablo oyó de Filemón definitivamente no había sido logro de Filemón, fue distinguido como obra segura o maravilla del Espíritu entre los creyentes. Por eso es que Pablo podía esperar más de lo que estaba pidiendo.**
 
-##### 5)       **Dios nos permite apreciar en vivo y en directo tanto a la iglesia, como al mundo, la vida de Cristo en otros creyentes.** **(Gálatas 2:20).**
+##### ==5)       **Dios nos permite apreciar en vivo y en directo tanto a la iglesia, como al mundo, la vida de Cristo en otros creyentes.** **(Gálatas 2:20).**==
 
-##### 6)       **Tristemente también nos permite apreciar a un creyente esclavizado al pecado y sus tristes resultados.** **Vs 24 (Demas) (2 Timoteo 4:10)**
+##### ==6)       **Tristemente también nos permite apreciar a un creyente esclavizado al pecado y sus tristes resultados.** **Vs 24 (Demas) (2 Timoteo 4:10)**==
 
 ### 25.  **Filemón 22**
 
