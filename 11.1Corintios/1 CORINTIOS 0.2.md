@@ -1855,7 +1855,13 @@ En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como 
 
 #### En efecto, se oye que entre ustedes hay inmoralidad
 
+##### No era los celos y las contiendas lo único que se oía entre los corintos. 
+
+##### Pablo aquí no cambia de tema, sino continua tratando la arrogancia de los corintos.
+
 #### y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
+
+##### La inmoralidad que había entre los corintos creyentes, no tenía comparación ni entre los incrédulos. 
 
 ### 1 Corintios 5:2
 
@@ -1915,21 +1921,39 @@ Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en reali
 
 Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
 
+#### Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad
+
+#### sino con panes sin levadura de sinceridad y de verdad.
+
 ### 1 Corintios 5:9
 
 En mi carta les escribí que no anduvieran en compañía de personas inmorales.
+
+#### En mi carta les escribí que no anduvieran en compañía de personas inmorales.
 
 ### 1 Corintios 5:10
 
 No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.
 
+#### No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras
+
+#### porque entonces tendrían ustedes que salirse del mundo.
+
 ### 1 Corintios 5:11
 
 Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
 
+#### Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. 
+
+#### Con esa persona, ni siquiera coman.
+
 ### 1 Corintios 5:12
 
 Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*?
+
+#### Pues ¿por qué he de juzgar yo a los de afuera?
+
+#### ¿No juzgan ustedes a los que están dentro *de la iglesia*?
 
 ### 1 Corintios 5:13
 
