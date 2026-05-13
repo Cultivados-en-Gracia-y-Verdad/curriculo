@@ -1,0 +1,115 @@
+id: filemon-1-16
+
+title: Filemón 1:1–16
+
+questions:
+
+  - question: ¿Cómo se describe Pablo al inicio de la carta?
+    answers:
+      - text: Como prisionero de Cristo Jesús
+        correct: true
+      - text: Como anciano de Jerusalén
+        correct: false
+      - text: Como pastor de Colosas
+        correct: false
+      - text: Como gobernador romano
+        correct: false
+
+  - question: ¿Quién aparece junto con Pablo en el saludo inicial?
+    answers:
+      - text: Timoteo
+        correct: true
+      - text: Tito
+        correct: false
+      - text: Silas
+        correct: false
+      - text: Lucas
+        correct: false
+
+  - question: ¿Cómo llama Pablo a Filemón?
+    answers:
+      - text: Mi hermano y colaborador
+        correct: true
+      - text: Mi discípulo amado
+        correct: false
+      - text: Mi compañero de prisión
+        correct: false
+      - text: Mi siervo fiel
+        correct: false
+
+  - question: ¿Qué dice Pablo que escucha acerca de Filemón?
+    answers:
+      - text: Su amor y su fe
+        correct: true
+      - text: Su riqueza y autoridad
+        correct: false
+      - text: Su sabiduría griega
+        correct: false
+      - text: Su influencia política
+        correct: false
+
+  - question: ¿Qué habían recibido los santos por medio de Filemón?
+    answers:
+      - text: Consuelo en sus corazones
+        correct: true
+      - text: Nuevas riquezas
+        correct: false
+      - text: Libertad política
+        correct: false
+      - text: Autoridad apostólica
+        correct: false
+
+  - question: ¿Qué decide hacer Pablo en vez de ordenar?
+    answers:
+      - text: Rogar por amor
+        correct: true
+      - text: Guardar silencio
+        correct: false
+      - text: Exigir obediencia
+        correct: false
+      - text: Consultar con Roma
+        correct: false
+
+  - question: ¿Por quién ruega Pablo?
+    answers:
+      - text: Onésimo
+        correct: true
+      - text: Epafras
+        correct: false
+      - text: Arquipo
+        correct: false
+      - text: Demas
+        correct: false
+
+  - question: ¿Cómo describe Pablo a Onésimo?
+    answers:
+      - text: Como mi hijo
+        correct: true
+      - text: Como mi maestro
+        correct: false
+      - text: Como mi hermano de sangre
+        correct: false
+      - text: Como mi guardia
+        correct: false
+
+  - question: ¿Qué contraste presenta Pablo acerca de Onésimo?
+    answers:
+      - text: Antes inútil, ahora útil
+        correct: true
+      - text: Antes enfermo, ahora sano
+        correct: false
+      - text: Antes pobre, ahora rico
+        correct: false
+      - text: Antes débil, ahora fuerte
+        correct: false
+
+  - question: ¿Qué quería evitar Pablo respecto al favor de Filemón?
+    answers:
+      - text: Que pareciera hecho por obligación
+        correct: true
+      - text: Que fuera conocido en Roma
+        correct: false
+      - text: Que causara división en Jerusalén
+        correct: false
+      - text: Que Onésimo regresara nuevamente
+        correct: false
