@@ -1,1 +1,7 @@
-
+{
+  "id": "filemon",
+  "title": "Filemón",
+  "subtitle": "Viviendo lo que ya es verdadero",
+  "version": "1.0",
+  "entry": "slides/markdown.md"
+}
