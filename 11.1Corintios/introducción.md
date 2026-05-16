@@ -1,0 +1,7 @@
+Corinto esta bien vestida, dependiendo de con que ojos la veas. Cuando los hermanos de Cloé la vieron, y Pablo recibió el informe de ellos, opinó que estaban vestidos como niños, carnales u hombres de este mundo. Sin embargo, cuando ellos se miraban a sí mismos tenían muchas cosas por las cuales jactarse. Pablo les dice que se habían envanecido y estaban pensando más allá de lo que deberían pensar de sí mismos. Claramente los corintos no se estaban viendo apropiadamente a sí mismos. 
+
+Hay una tercer mirada, y es la que permea toda la carta y es la mirada de Dios hacia ellos como su iglesia, y no es una mirada de condenación, sino aquella que tiene un padre sobre su Hijo. Pablo les recuerda que Dios nunca dejó de verlos como a Su Hijo Jesucristo, trayéndoles a la memoria la sabiduría de Dios. 
+
+La sabiduría de Dios no infla a los creyentes, al contrario, los desinfla, y es justamente lo que los corintos habían dejado a un lado por no mirar lo que eran en Cristo, y buscar una identidad fuera de él. Pablo llama a esto carnalidad, y andar como simples hombres. 
+
+Dios desea que todos los creyentes aprendamos a ver la vida a través de Cristo, y una iglesia que aparta sus ojos de Cristo, termina envaneciéndose sin razón legítimas para hacerlo. Es por eso que Pablo les da un recordatorio de la gracia de Dios que han recibido en Cristo, y los anima a depender del Espíritu para que esta gracia sea la que permee sus vidas, tanto en comprensión de la vida, como en la vida misma que vivían los unos con los otros. 
