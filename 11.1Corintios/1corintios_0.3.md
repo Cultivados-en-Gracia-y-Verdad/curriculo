@@ -266,15 +266,34 @@ Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstene
 
 ##### Pablo se presenta como apóstol de Jesucristo.
 
+###### Desde el comienzo de la carta:
+- Pablo dirige la atención hacia Dios,
+- hacia Cristo,
+- y hacia aquello que ocurre por iniciativa divina
+más que por exaltación o mérito humano.
+
 #### por la voluntad de Dios
 ##### Pablo describe su apostolado como algo que ocurrió por la voluntad de Dios.
 
 ##### El apostolado de Pablo no es presentado como resultado de iniciativa humana, sino de la voluntad de Dios.
 
+###### Esto también desplaza la atención:
+- de la autosuficiencia humana,
+- del prestigio personal,
+- y de la iniciativa propia,
+hacia aquello que Dios mismo determina y realiza.
+
 #### y Sóstenes, nuestro hermano
 ##### Sóstenes aparece junto con Pablo en este saludo introductorio.
 
 ##### Es descrito como hermano, tanto de Pablo como de los corintios.
+
+###### Desde el inicio la carta también posee un lenguaje:
+- relacional,
+- participacional,
+- y comunitario.
+
+###### Pablo no se presenta aislado de otros creyentes, sino acompañado por un hermano.
 
 ### 1 Corintios 1:2
 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
@@ -286,20 +305,58 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 
 ##### Pablo enfatiza que es la iglesia "de" Dios.
 
+###### Desde el inicio, Pablo no describe a los corintios principalmente:
+- según grupos,
+- preferencias,
+- líderes,
+- o distinciones humanas.
+
+###### Son presentados colectivamente como:
+- la iglesia de Dios,
+- perteneciente a Dios,
+- y definida por Él.
+
 #### a los que han sido santificados en Cristo Jesús
 ##### La iglesia en Corinto también es descrita como aquellos que han sido santificados en Cristo Jesús.
 
 ##### Pablo describe la santificación como algo que ya había sucedido en ellos y que fue realizado en Cristo Jesús.
 
-##### Esta es una realidad presente de la iglesia en Corinto.
+##### Esto describe algo que ya era verdadero acerca de la iglesia en Corinto.
+
+###### Pablo no comienza la carta cuestionando si los corintios habían recibido algo verdadero de parte de Dios.
+
+###### Desde el inicio:
+- reconoce gracia,
+- santificación,
+- pertenencia,
+- y participación en Cristo.
+
+###### Esto es importante porque los problemas posteriores aparecen dentro de una iglesia que verdaderamente había recibido muchas cosas de Dios.
 
 #### llamados *a ser* santos
 ##### Los corintios son descritos como santos debido a su relación con Cristo Jesús.
 
-#### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
-##### Esta realidad no es presentada solamente para los corintios, sino para todos los que invocan el nombre del Señor Jesucristo.
+###### Pablo no comienza definiéndolos:
+- por sus problemas,
+- divisiones,
+- o conflictos.
 
-##### Todos los creyentes son incluidos dentro de esta misma realidad.
+###### Desde el inicio los identifica:
+- desde Cristo,
+- desde el llamado de Dios,
+- y desde aquello que Dios ya había hecho entre ellos.
+
+#### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
+##### Esto no es presentado solamente para los corintios, sino para todos los que invocan el nombre del Señor Jesucristo.
+
+##### Todos los creyentes son incluidos dentro de esta misma comunión con Cristo.
+
+###### La iglesia en Corinto no es presentada como un grupo aislado o separado del resto del pueblo de Dios.
+
+###### Pablo los ubica dentro de una realidad mucho más amplia:
+- todos los que invocan al Señor,
+- en cualquier lugar,
+- pertenecen al mismo Señor Jesucristo.
 
 ### 1 Corintios 1:3
 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
@@ -309,11 +366,37 @@ Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
 
 ##### Ambas son descritas como procedentes de Dios Padre y del Señor Jesucristo.
 
+###### La carta comienza en un ambiente:
+- de gracia,
+- paz,
+- comunión,
+- y participación compartida en Cristo.
+
+###### Antes de confrontar:
+- divisiones,
+- orgullo,
+- sabiduría humana,
+- o conflictos,
+Pablo establece primero aquello que Dios había dado y producido entre ellos.
+
 ### 1 Corintios 1:4
 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
 
 #### Siempre doy gracias a mi Dios por ustedes
 ##### Pablo expresa continuamente gratitud a Dios por los corintios.
+
+##### La carta no comienza con rechazo hacia ellos, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
+
+###### Pablo reconoce sinceramente la obra de Dios entre los corintios.
+
+###### Desde el inicio:
+- habla de gracia,
+- enriquecimiento,
+- dones,
+- confirmación,
+- y comunión con Cristo.
+
+###### Esto permite percibir que los problemas posteriores aparecen dentro de una iglesia donde verdaderamente existía participación en muchas cosas relacionadas con Cristo.
 
 #### por la gracia de Dios que les fue dada en Cristo Jesús.
 ##### Pablo describe esta gracia como algo dado a ellos en Cristo Jesús.
@@ -321,6 +404,18 @@ Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dad
 ##### La posición de los corintios no es presentada como algo alcanzado por ellos, sino como algo recibido.
 
 ##### La gracia es descrita como algo dado por Dios a ellos en Cristo Jesús.
+
+###### Pablo continúa dirigiendo la atención:
+- hacia lo que Dios había dado,
+- hacia lo que Dios había producido,
+- y hacia aquello que existía en Cristo Jesús.
+
+###### Desde el comienzo:
+- la gracia,
+- el llamado,
+- la santificación,
+- y el enriquecimiento
+son descritos como resultado de la iniciativa de Dios y no del mérito humano.
 
 ### 1 Corintios 1:5
 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento
@@ -332,8 +427,27 @@ Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo con
 
 ##### No fueron enriquecidos aparte de Cristo, sino en Él.
 
+###### Pablo no presenta a la iglesia en Corinto como vacía de participación espiritual.
+
+###### Por el contrario:
+- habían sido enriquecidos,
+- participaban en palabra,
+- y participaban en conocimiento.
+
+###### Esto ayuda a percibir por qué muchas de las cosas presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
+
 #### en toda palabra y en todo conocimiento
 ##### El enriquecimiento mencionado no es descrito en términos materiales, sino en palabra y conocimiento. Colosenses 2:3
+
+###### La palabra y el conocimiento no son presentados aquí como algo negativo en sí mismo.
+
+###### Desde el inicio Pablo reconoce que estas cosas verdaderamente existían entre los corintios.
+
+###### Más adelante en la carta, Pablo comenzará a mostrar cómo:
+- el conocimiento,
+- la sabiduría,
+- y la manera de hablar
+podían ser interpretados incorrectamente cuando quedaban separados de la cruz y del amor.
 
 ###### Cristo es presentado como aquel en quien se encuentra la verdadera riqueza.
 
@@ -347,6 +461,15 @@ así como el testimonio acerca de Cristo fue confirmado en ustedes
 
 ##### El enriquecimiento de los corintios es presentado junto con la confirmación del testimonio acerca de Cristo en ellos.
 
+###### Pablo no habla de un evangelio superficial o solamente externo.
+
+###### El testimonio acerca de Cristo había sido confirmado en ellos.
+
+###### Esto continúa estableciendo:
+- la autenticidad de la obra de Dios entre ellos,
+- la participación que tenían en Cristo,
+- y la riqueza espiritual presente en la iglesia en Corinto.
+
 ### 1 Corintios 1:7
 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo
 
@@ -355,10 +478,30 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 
 ##### Esta afirmación es presentada como resultado de la gracia y del enriquecimiento descritos anteriormente.
 
+###### La iglesia en Corinto no es presentada como una iglesia carente de actividad espiritual visible.
+
+###### Por el contrario:
+- había dones,
+- participación,
+- expectativa,
+- y manifestaciones relacionadas con la vida de la iglesia.
+
+###### Precisamente por eso las correcciones posteriores producen una tensión tan profunda a lo largo de la carta.
+
 #### esperando ansiosamente la revelación de nuestro Señor Jesucristo
 ##### Los corintios son descritos como esperando la revelación futura de Jesucristo.
 
 ##### La revelación de Jesucristo es presentada como algo futuro que aguardaban.
+
+###### Pablo describe a los corintios como personas que vivían:
+- esperando,
+- participando,
+- y orientadas hacia la venida futura del Señor Jesucristo.
+
+###### La carta comienza mostrando una iglesia:
+- activa,
+- expectante,
+- y profundamente relacionada con realidades espirituales.
 
 ### 1 Corintios 1:8
 Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
@@ -368,12 +511,25 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 
 ##### La futura revelación de Cristo no es presentada como motivo de temor, sino dentro de un marco de confirmación.
 
+###### Pablo continúa enfatizando:
+- la fidelidad de Dios,
+- la obra de Cristo,
+- y la seguridad asociada a aquello que Dios mismo había comenzado entre ellos.
+
 #### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 ##### Los corintios son descritos como confirmados irreprensibles para el día del Señor Jesucristo.
 
 ##### El día del Señor Jesucristo corresponde al evento futuro mencionado anteriormente como su revelación.
 
-##### Pablo presenta esta realidad como algo asociado a la obra que Cristo mismo realizará.
+##### Pablo presenta esto como algo asociado a la obra que Cristo mismo realizará.
+
+###### Desde el inicio de la carta:
+- el llamado,
+- la santificación,
+- la gracia,
+- el enriquecimiento,
+- y la confirmación
+son continuamente relacionados con la obra de Dios y de Cristo.
 
 ### 1 Corintios 1:9
 Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
@@ -387,6 +543,16 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 ##### La fidelidad de Dios es presentada junto con este llamado.
 
+###### La carta comienza estableciendo que la relación principal que define a los creyentes es su comunión con Jesucristo.
+
+###### Más adelante Pablo comenzará a confrontar:
+- divisiones,
+- identificaciones humanas,
+- jactancia,
+- y maneras de pensar centradas en hombres.
+
+###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los definía era su participación compartida en Cristo.
+
 ## 1:10-17 Las identificaciones y divisiones que existían entre los corintios
 
 ### 1 Corintios 1:10
@@ -397,18 +563,35 @@ Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se po
 
 ##### La súplica tiene como base el nombre de nuestro Señor Jesucristo.
 
-##### Pablo ruega esto después de haberles mostrado la realidad que tienen en Cristo y la gracia que recibieron de parte de Dios.
+##### Pablo ruega esto después de haberles recordado lo que ya eran en Cristo y la gracia que habían recibido de parte de Dios.
 
 ##### El ruego de Pablo surge sobre la base de lo que Dios ya hizo a favor de ellos en Cristo.
+
+###### Pablo no comienza confrontándolos desde una relación distante o fría.
+
+###### Incluso al comenzar a corregir:
+- continúa llamándolos hermanos,
+- continúa hablando desde la comunión compartida en Cristo,
+- y continúa estableciendo el fundamento sobre aquello que Dios ya había hecho entre ellos.
 
 #### que todos se pongan de acuerdo
 ##### Esto involucra a todos los corintios; el ruego de Pablo va dirigido a toda la iglesia.
 
-##### Pablo quiere que todos hablen de acuerdo a una misma realidad.
+##### Pablo quiere que todos hablen de acuerdo a aquello que comparten en Cristo.
 
 ##### No está pidiendo simplemente conformidad externa ni que todos sigan a un mismo hombre.
 
 ##### La unidad que Pablo describe surge de la verdad y no de preferencias personales.
+
+###### Lo que estaba ocurriendo en Corinto probablemente no se percibía necesariamente como algo negativo entre ellos.
+
+###### Identificarse:
+- con ciertos hombres,
+- con ciertas maneras de hablar,
+- o con determinados grupos
+podía parecer natural e incluso correcto dentro de una cultura donde la sabiduría, la reputación y la identificación con figuras reconocidas tenían enorme valor.
+
+###### Precisamente por eso Pablo dirige nuevamente la atención hacia Cristo y hacia aquello que todos compartían en Él.
 
 #### y que no haya divisiones entre ustedes
 
@@ -419,14 +602,42 @@ divisiones - SQUISMA
 
 ##### Pablo ruega que no haya divisiones entre ellos porque en Cristo son uno.
 
+###### Pablo comienza a mostrar una tensión que aparecerá repetidamente en toda la carta:
+- aquello que podía parecer fuerte o válido según criterios humanos,
+- podía al mismo tiempo estar produciendo división dentro del cuerpo.
+
+###### La preocupación de Pablo no es solamente externa o organizacional.
+
+###### Lo que está en juego es:
+- la manera en que se comprendían a sí mismos,
+- la manera en que se relacionaban unos con otros,
+- y aquello que verdaderamente los definía en Cristo.
+
 #### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
-##### La expresión "enteramente unidos" describe algo que ya ha ocurrido y cuya realidad permanece.
+##### La expresión "enteramente unidos" describe algo que debía reflejarse continuamente entre ellos.
 
 ##### Pablo no les pide que produzcan unidad, sino que vivan de acuerdo a ella.
 
-##### Ya no solamente se trata de hablar de manera unánime, sino también de pensar de acuerdo a una misma realidad.
+##### Ya no solamente se trata de hablar de manera unánime, sino también de comprenderse a sí mismos desde una misma perspectiva.
 
 ##### Pablo desea que exista unidad tanto en lo que dicen como en la manera en que entienden las cosas.
+
+###### Pablo comienza a confrontar algo más profundo que simples desacuerdos visibles.
+
+###### La manera de:
+- pensar,
+- hablar,
+- identificarse,
+- y evaluarse unos a otros
+estaba relacionada con la manera en que estaban interpretando la vida en Cristo.
+
+###### Más adelante Pablo desarrollará esta tensión mediante:
+- la cruz,
+- la sabiduría,
+- la jactancia,
+- el conocimiento,
+- los dones,
+- y el amor.
 
 ## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
 
@@ -443,9 +654,9 @@ Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, 
 #### que hay discusiones entre ustedes.
 ##### El informe describe lo que estaba ocurriendo entre ellos.
 
-##### Pablo no presenta esto como un peligro futuro, sino como una realidad presente entre los corintios.
+##### Pablo no presenta esto como un peligro futuro, sino como algo que ya estaba ocurriendo entre los corintios.
 
-##### Sin embargo, Pablo comenzará a contrastar esto con la realidad que tienen en Cristo.
+##### Sin embargo, Pablo comenzará a contrastar esto con lo que eran en Cristo.
 
 ### 1 Corintios 1:12
 Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
@@ -464,9 +675,9 @@ Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Ap
 
 ##### Algunos incluso afirmaban estar del lado de Cristo.
 
-##### Sin embargo, cada uno hablaba desde una identificación separada y no desde una realidad compartida.
+##### Sin embargo, cada uno hablaba desde una identidad separada y no desde aquello que compartían en Cristo.
 
-##### Pablo comienza a mostrar que sus divisiones no correspondían a la realidad que tenían en Cristo.
+##### Pablo comienza a exponer que sus divisiones no correspondían a lo que eran en Cristo.
 
 ### 1 Corintios 1:13
 ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
@@ -476,7 +687,7 @@ Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Ap
 
 ##### Primero pregunta acerca de lo que ellos son como parte de Cristo. Cristo es uno solo y no está dividido.
 
-##### Pablo expone que el problema de los corintios venía de no considerar correctamente su realidad en Cristo.
+##### Pablo expone que el problema de los corintios venía de no considerarse correctamente a sí mismos en relación con Cristo.
 
 ##### Pablo no los compara con otra congregación sino con Cristo mismo.
 
@@ -544,7 +755,7 @@ Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabr
 
 ###### La cruz de Cristo no necesita ser complementada por la sabiduría humana.
 
-##### Pablo muestra que agregar la elocuencia humana como fundamento vaciaría el valor de la cruz.
+##### Pablo deja claro que agregar la elocuencia humana como fundamento vaciaría el valor de la cruz.
 
 ###### Parece ser que esta forma sencilla de predicar también era parte de la comisión que Pablo había recibido.
 
@@ -612,7 +823,7 @@ Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *
 #### Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría
 ##### El hombre no llega a conocer a Dios mediante su propia sabiduría.
 
-##### Dios conoce esta realidad y actúa a favor del hombre conforme a ella.
+##### Dios conoce esta condición del hombre y actúa a favor de él conforme a ello.
 
 #### agradó a Dios mediante la necedad de la predicación salvar a los que creen.
 ##### Dios decidió salvar mediante aquello que el hombre considera absurdo: la predicación.
@@ -700,7 +911,7 @@ Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la c
 
 ##### Pablo los sigue llamando hermanos.
 
-##### Pablo les pide considerar quiénes eran ellos aparte de Cristo.
+##### Pablo les pide considerar cómo eran vistos según los criterios humanos aparte de Cristo.
 
 ##### Los corintios sabían perfectamente cuál había sido su condición.
 
@@ -715,7 +926,7 @@ Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la c
 Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
 
 #### Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios;
-##### Pablo ahora muestra cómo actúa la sabiduría de Dios.
+##### Pablo ahora expone cómo actúa la sabiduría de Dios.
 
 ##### Dios escogió aquello que el mundo considera necio para avergonzar a los sabios.
 
@@ -745,13 +956,13 @@ para que nadie se jacte delante de Dios.
 
 ##### Los corintios podían estar jactándose entre ellos, pero delante de Dios no tenían nada de qué gloriarse.
 
-##### Pablo muestra que lo que ellos eran dependía completamente de la obra de Dios.
+##### Pablo enfatiza que lo que ellos eran dependía completamente de la obra de Dios.
 
 ### 1 Corintios 1:30
 Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención
 
 #### Pero por obra Suya
-##### La realidad de los corintios había cambiado por obra de Dios.
+##### Lo que los corintios eran delante de Dios había cambiado por obra Suya.
 
 ##### Cristo es presentado como poder y sabiduría de Dios porque la salvación es obra Suya y no del hombre.
 
@@ -785,7 +996,7 @@ para que, tal como está escrito: «El que se gloría, que se gloríe en el Señ
 ##### El propósito de Dios siempre fue dirigir toda gloria hacia Él mismo.
 
 #### «El que se gloría, que se gloríe en el Señor»
-##### Dios hizo que toda la realidad de los creyentes dependiera completamente de Su obra en Cristo.
+##### Dios hizo que todo lo que los creyentes eran dependiera completamente de Su obra en Cristo.
 
 ##### La única razón válida para gloriarse es el Señor.
 
@@ -804,11 +1015,11 @@ Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, 
 
 ##### Proclamar el testimonio de Dios no requería de un discurso impresionante.
 
-##### Pablo muestra que el valor de su proclamación no dependía de sobresalir humanamente.
+##### Pablo deja claro que el valor de su proclamación no dependía de sobresalir humanamente.
 
 ##### El foco de Pablo no estaba en impresionar con la manera de comunicar el mensaje.
 
-##### El evangelio no era presentado atractivo por la elocuencia del mensajero.
+##### Pablo no dependía de hacer el evangelio atractivo mediante la elocuencia humana.
 
 ### 1 Corintios 2:2
 Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
@@ -818,13 +1029,13 @@ Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucific
 
 ##### Su determinación era conocer solamente a Jesucristo y Este crucificado.
 
-##### Para Pablo el mensaje no necesitaba ser embellecido, sino comunicado fielmente.
+##### Para Pablo el mensaje no necesitaba ser adornado con elementos humanos, sino comunicado fielmente.
 
-##### El objetivo de Pablo entre los corintios no era llamar la atención hacia sí mismo.
+##### Pablo no buscaba destacarse entre los corintios como alguien impresionante según criterios humanos.
 
 ##### Pablo no sobresalió entre ellos como un hombre elocuente o lleno de conocimientos humanos.
 
-##### Entre los corintios, Pablo quiso ser identificado solamente con el evangelio.
+##### Entre los corintios, Pablo quiso ser conocido solamente por Jesucristo y Este crucificado.
 
 ### 1 Corintios 2:3
 Estuve entre ustedes con debilidad y con temor y mucho temblor
@@ -832,7 +1043,7 @@ Estuve entre ustedes con debilidad y con temor y mucho temblor
 #### Estuve entre ustedes con debilidad y con temor y mucho temblor
 ##### Pablo recuerda su estadía entre los corintios como una marcada por debilidad, temor y mucho temblor.
 
-##### Estas cualidades son completamente contrarias a la imagen humana de alguien que pretende impresionar con sabiduría.
+##### Estas cualidades contrastan completamente con la imagen de alguien que busca impresionar mediante sabiduría o superioridad humana.
 
 ##### Pablo no se presenta como alguien autosuficiente ni dominante.
 
@@ -840,35 +1051,35 @@ Estuve entre ustedes con debilidad y con temor y mucho temblor
 y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder
 
 #### y mi mensaje y mi predicación
-##### El contenido del mensaje de Pablo no estaba mezclado con elementos humanos para hacerlo más atractivo.
+##### Pablo no mezcló el evangelio con elementos humanos para hacerlo más impresionante ante los corintios.
 
-##### La manera en que Pablo comunicaba el evangelio no dependía de capacidades humanas.
+##### La proclamación de Pablo no descansaba en capacidades humanas ni en recursos destinados a impresionar.
 
 #### no fueron con palabras persuasivas de sabiduría
 ##### El mensaje de Pablo no descansaba sobre palabras persuasivas.
 
-##### Pablo no trató de hacer el evangelio más atractivo mediante discursos elaborados.
+##### Pablo no intentó volver el evangelio más atractivo mediante discursos elaborados o impresionantes.
 
 ##### Ni el contenido ni la forma de su predicación fueron mezclados con sabiduría humana.
 
-##### Pablo no confiaba en técnicas humanas de persuasión.
+##### Pablo no dependía de recursos humanos de persuasión para producir fe en los corintios.
 
 #### sino con demostración del Espíritu y de poder
 ##### Pablo quería que fuera Dios quien obrara mediante el mensaje del evangelio.
 
-##### La demostración hacía evidente que el poder provenía de Dios y no de Pablo.
+##### La demostración dejaba en evidencia que el poder provenía de Dios y no del mensajero.
 
 ### 1 Corintios 2:5
 para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
 
 #### para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
-##### Pablo dependió completamente del evangelio para presentar a los corintios solamente el poder de Dios.
+##### Pablo quiso que los corintios descansaran solamente en el poder de Dios y no en impresiones humanas.
 
-##### Si Pablo hubiera mezclado el mensaje con sabiduría humana, corría el riesgo de dirigir la fe de los corintios hacia hombres y no hacia Dios.
+##### Si Pablo hubiera mezclado el evangelio con sabiduría humana, corría el riesgo de producir una fe apoyada en hombres y no en Dios.
 
 ##### Como Pablo mostró anteriormente, agradó a Dios salvar mediante la predicación del evangelio.
 
-##### Debido a esto Pablo debía ser cuidadoso y preciso con el mensaje que comunicaba.
+##### Debido a esto Pablo debía comunicar el evangelio con fidelidad y cuidado.
 
 ##### Una fe basada en sabiduría humana ya no está descansando en el poder de Dios.
 
