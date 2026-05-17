@@ -1,3 +1,12 @@
+---
+title:  "1 Corintios"
+subtitle:  "La Iglesia Espiritual - según Sí Misma"
+author:  "CGV"
+version:  "0.3"
+date:  "2026-05-17"
+cover: "images/portada.png"
+---
+
 :::title
 1 Corintios
 :::
@@ -10,7 +19,7 @@ La Iglesia Espiritual… según sí misma
 
 ##### La ciudad de Corinto
 
-###### Corinth era una de las ciudades más importantes del mundo romano durante el tiempo de Pablo.
+###### Corinto era una de las ciudades más importantes del mundo romano durante el tiempo de Pablo.
 
 ###### No era:
 - una ciudad pequeña,
@@ -30,22 +39,15 @@ La Iglesia Espiritual… según sí misma
 ###### Porque los corintios no vivían:
 - alejados del movimiento cultural,
 - ni protegidos del pensamiento del mundo romano y griego.
-
 ###### Vivían exactamente en medio de él.
 
 ##### La ubicación geográfica de Corinto
-###### El istmo de Corinto
-
-###### Isthmus of Corinth era una estrecha franja de tierra que conectaba:
-
+###### El istmo de Corinto era una estrecha franja de tierra que conectaba:
 - el norte de Grecia,
 - con el Peloponeso al sur.
 
 ###### Ese detalle geográfico es enorme.
-###### ¿Por qué?
 ###### Porque Corinto controlaba una de las rutas comerciales más importantes del mundo antiguo.
-
-##### Dos puertos
 
 ###### Corinto poseía acceso a dos puertos principales:
 - al oeste:
@@ -62,53 +64,16 @@ La Iglesia Espiritual… según sí misma
 - económico,
 - y marítimo.
 
-##### El cruce de barcos por el istmo
-
 ###### Uno de los aspectos más fascinantes de Corinto era el sistema de cruce terrestre de barcos.
-
-##### El Diolkos
 
 ###### Diolkos era un camino pavimentado antiguo usado para transportar barcos a través del istmo.
 
 ###### En lugar de rodear el peligroso extremo sur de Grecia:
-
 ###### muchos barcos descargaban mercancías, o incluso eran arrastrados sobre plataformas, atravesando el istmo por tierra.
 
-###### Eso:
-- ahorraba tiempo,
-- reducía peligro marítimo,
-- y generaba enorme riqueza para Corinto.
+###### Eso ahorraba tiempo, reducía peligro marítimo, y generaba enorme riqueza para Corinto.
 
-###### La ciudad literalmente vivía del movimiento constante de:
-- comercio,
-- personas,
-- ideas,
-- culturas,
-- religiones,
-- riqueza,
-- y filosofías.
-- Una ciudad reconstruida por Roma
-
-###### La antigua Corinto griega había sido destruida en el año 146 a.C.
-
-###### Más tarde:
-###### Julius Caesar la reconstruyó como colonia romana alrededor del 44 a.C.
-
-###### Por eso, en tiempos de Pablo:
-- Corinto era profundamente romana en administración, pero también muy griega culturalmente.
-
-###### Era una mezcla explosiva de:
-- cultura griega,
-- poder romano,
-- comercio internacional,
-- religiones paganas,
-- filosofía,
-- riqueza,
-- movilidad social,
-- y búsqueda de prestigio.
-- Una ciudad obsesionada con estatus y éxito
-
-###### Esto probablemente ilumina muchísimo la carta.
+###### La ciudad literalmente vivía del movimiento constante de comercio, personas, ideas, culturas, religiones, riqueza, y filosofías.
 
 ###### Corinto era un lugar donde:
 - la reputación importaba,
@@ -116,25 +81,7 @@ La Iglesia Espiritual… según sí misma
 - la riqueza elevaba,
 - y la exhibición pública tenía peso.
 
-###### La ciudad recompensaba:
-- éxito visible,
-- poder,
-- prestigio,
-- habilidad verbal,
-- y ascenso social.
-
-###### Eso conecta fuertemente con muchos problemas de la carta:
-- divisiones,
-- orgullo,
-- sabiduría humana,
-- exaltación de líderes,
-- jactancia,
-- competencia,
-- y espiritualidad visible.
-- Religión y espiritualidad en Corinto
-
 ##### Corinto era extremadamente religiosa.
-
 ###### Había:
 - templos,
 - cultos,
@@ -142,92 +89,159 @@ La Iglesia Espiritual… según sí misma
 - idolatría,
 - y múltiples dioses.
 
-La ciudad estaba llena de:
+##### Corinto probablemente admiraba fuerza, éxito, conocimiento, expresión, libertad, estatus, espiritualidad visible.
 
-expresiones espirituales,
-rituales,
-experiencias religiosas,
-y prácticas paganas.
+##### Pero Pablo continuamente redefine la realidad desde la cruz, el cuerpo, el amor, la debilidad, la edificación, y finalmente: la resurrección.
 
-Eso ayuda a entender:
-
-capítulos 8–10,
-comida sacrificada a ídolos,
-conciencia,
-participación,
-y lenguaje espiritual.
-El templo de Afrodita
-
-Antiguamente, Corinto era famosa por el culto relacionado con:
-Aphrodite.
-
-Aunque algunos detalles históricos antiguos probablemente fueron exagerados por escritores posteriores, Corinto sí poseía reputación de inmoralidad sexual dentro del mundo antiguo.
-
-De hecho:
-“corintianizar”
-llegó a funcionar como expresión relacionada con inmoralidad y decadencia.
-
-Eso hace mucho más impactantes:
-
-1 Corintios 5–7,
-sexualidad,
-cuerpo,
-prostitución,
-matrimonio,
-y santidad.
-Una iglesia ubicada exactamente en medio de ese mundo
-
-La iglesia en Corinto no existía:
-
-aislada,
-protegida,
-ni retirada culturalmente.
-
-Existía dentro de:
-
-comercio,
-riqueza,
-pluralismo,
-movilidad,
-filosofías,
-espiritualidades,
-idolatría,
-prestigio,
-competencia,
-y deseo de reconocimiento.
-
-Eso hace que la carta se sienta sorprendentemente moderna.
-
-El gran choque de la carta
-
-Corinto probablemente admiraba:
-
-fuerza,
-éxito,
-conocimiento,
-expresión,
-libertad,
-estatus,
-espiritualidad visible.
-
-Pero Pablo continuamente redefine la realidad desde:
-
-la cruz,
-el cuerpo,
-el amor,
-la debilidad,
-la edificación,
-y finalmente:
-la resurrección.
-
-Por eso el contexto histórico no es un simple dato académico.
-
-Ayuda a percibir:
-
-por qué los corintios pensaban como pensaban,
-y por qué Pablo corrige exactamente lo que corrige.
+###### Por eso el contexto histórico no es un simple dato académico. Ayuda a percibir por qué los corintios pensaban como pensaban, y por qué Pablo corrige exactamente lo que corrige.
 
 ##### La Iglesia 
+
+La cruz como realidad correctiva
+
+La cruz subvierte repetidamente la gloria visible, la autoexaltación, la autonomía, el triunfalismo, el estatus, la libertad egocéntrica, la espiritualidad para uno mismo, el conocimiento sin amor, y el poder sin sacrificio.
+
+Esto significa que la carta puede, de hecho, avanzar a través de manifestaciones repetidas de un pensamiento sin cruz.
+
+Y Pablo, repetidamente lo centra todo en la realidad cruciforme.
+
+Esto resulta MUCHO más contundente que "Corinto tenía problemas".
+
+En cambio:
+
+Corinto interpretaba repetidamente la realidad según sí mismo, según el hombre, según la sabiduría visible, según el estatus, según la autonomía. Y Pablo, repetidamente choca esos marcos conceptuales con la cruz. 
+
+Observe cómo se desarrolla el contraste continuo
+**1 - Sabiduría**
+forma de pensar corintia
+sabiduría
+elocuencia
+estado
+impresionante
+correctivo cruzado
+cristo crucificado
+debilidad
+locura
+lo despreciado
+
+La cruz destruye la jactancia humana.
+
+**2 - Espiritualidad**
+pensamiento corintio
+somos espirituales
+tenemos hecho
+tenemos conocimientos
+correctivo cruzado
+hijo carnales
+el amor edifica
+un solo cuerpo
+
+Los valores de vida en forma de cruz:
+
+amar,
+edificación,
+mutualidad,
+no autoexhibición.
+**3 - Liderazgo**
+pensamiento corintio
+yo soy de pablo
+yo de apolos
+correctivo cruzado
+servidores
+administradores
+Dios del crecimiento
+
+La cruz destruye la gloria en los hombres.
+
+**4 - Triunfo**
+pensamiento corintio
+ya reinan
+ya son ricos
+ya estan saciados
+correctivo cruzado
+hambre
+debilidad
+vergüenza
+persecución
+
+Los apóstoles encarnan la realidad cruciforme.
+
+**5 — Autonomía sexual**
+pensamiento corintio
+todo me es lícito
+correctivo cruzado
+fueron comprados
+no son suyos
+glorifiquen a Dios en su cuerpo
+
+La cruz significa:
+el cuerpo pertenece a Cristo.
+
+**6 - Libertad**
+pensamiento corintio
+tenemos conocimientos
+podemos comer
+correctivo cruzado
+el hermano
+el amor
+renunciar a derechos
+
+El propio Pablo se convierte en la encarnación cruciforme de la libertad.
+
+**7 — Manifestaciones espirituales**
+pensamiento corintio
+lenguas
+visibilidad
+expresión
+correctivo cruzado
+edificacion
+orden
+amor
+inteligibilidad
+
+La espiritualidad en forma de cruz construye a los demás.
+
+**8 — Resurrección**
+Pensamiento corintio
+
+Posiblemente:
+
+espiritualidad sin resurrección corporal
+Corrección de la cruz
+Cristo resucitó
+el cuerpo importa
+la muerte será vencida
+
+La resurrección vindica la cruz.
+
+Esto podría convertirse en el principal motor de desarrollo.
+
+No solo:
+
+problema
+→ corrección
+
+Sino:
+
+Marco corintio
+→ colisión de la cruz
+→ realidad definida por Cristo
+
+Esto es MUCHO más profundo. Y, lo que es importante es que la cruz no se limita a los capítulos 1 y 2. Irradia a lo largo de toda la carta. A veces explícitamente. A veces estructuralmente.
+
+La cruz reaparece constantemente como entrega, humildad, amor, renuncia a los derechos, debilidad, mutualidad, edificación, pertenencia, esperanza de resurrección.
+
+Esa es la lógica cruciforme que se extiende por toda la epístola.
+
+Esto nos lleva al subtitulo completo:
+
+No solamente "La Iglesia Espiritual… según sí misma"
+
+Sino:
+
+"La Iglesia Espiritual… según sí misma, confrontada por la realidad de Cristo crucificado y resucitado."
+
+Porque ESO es lo que parecen estar haciendo las repetidas trayectorias correctivas.
 
 ###### Corinto esta bien vestida, dependiendo de con que ojos la veas. Cuando los hermanos de Cloé la vieron, y Pablo recibió el informe de ellos, opinó que estaban vestidos como niños, carnales u hombres de este mundo. Sin embargo, cuando ellos se miraban a sí mismos tenían muchas cosas por las cuales jactarse. Pablo les dice que se habían envanecido y estaban pensando más allá de lo que deberían pensar de sí mismos. Claramente los corintos no se estaban viendo apropiadamente a sí mismos. 
 
@@ -237,9 +251,9 @@ y por qué Pablo corrige exactamente lo que corrige.
 
 ###### Dios desea que todos los creyentes aprendamos a ver la vida a través de Cristo, y una iglesia que aparta sus ojos de Cristo, termina envaneciéndose sin razón legítimas para hacerlo. Es por eso que Pablo les da un recordatorio de la gracia de Dios que han recibido en Cristo, y los anima a depender del espíritu para que esta gracia sea la que permee sus vidas, tanto en comprensión de la vida, como en la vida misma que vivían los unos con los otros.
 
-# 1:1 – 4:21 — Pablo redefine la sabiduría y espiritualidad desde la cruz
+# 1:1-4:21 — Pablo redefine la sabiduría y espiritualidad desde la cruz
 
-## 1:1–9 Pablo establece las verdaderas riquezas que los corintios poseen en Cristo
+## 1:1-9 Pablo establece las verdaderas riquezas que los corintios poseen en Cristo
 
 ### 1 Corintios 1:1
 Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstenes, nuestro hermano
@@ -373,7 +387,7 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 ##### La fidelidad de Dios es presentada junto con este llamado.
 
-## 1:10–17 Las divisiones revelaban una manera humana de pensar acerca de Cristo y de los hombres 
+## 1:10-17 Las identificaciones y divisiones que existían entre los corintios
 
 ### 1 Corintios 1:10
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
@@ -399,7 +413,7 @@ Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se po
 #### y que no haya divisiones entre ustedes
 
 divisiones - SQUISMA
-:Proviene del verbo *schizo*, que significa romper, rasgar o dividir.
+: Proviene del verbo *schizo*, que significa romper, rasgar o dividir.
 
 ##### La idea es la de algo que está siendo dividido o rasgado.
 
@@ -414,7 +428,7 @@ divisiones - SQUISMA
 
 ##### Pablo desea que exista unidad tanto en lo que dicen como en la manera en que entienden las cosas.
 
-## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste con la realidad de Cristo
+## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
 
 ### 1 Corintios 1:11
 Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, que hay discusiones entre ustedes.
@@ -538,7 +552,7 @@ Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabr
 
 ###### El evangelio permanece como un mensaje que proviene de Dios y no del hombre.
 
-## 1:18–2:5 La cruz destruye la gloria y sabiduría humanas 
+## 1:18-2:5 La cruz destruye la gloria y sabiduría humanas 
 
 ### 1 Corintios 1:18
 Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los salvos es poder de Dios
@@ -549,7 +563,7 @@ Porque la palabra de la cruz es necedad para los que se pierden, pero para nosot
 ##### Para ellos la palabra de la cruz no solamente parece absurda, sino completamente insensata.
 
 necedad - MORÍA
-:Bobería, absurdo.
+: Bobería, absurdo.
 
 #### pero para nosotros los salvos es poder de Dios.
 ##### Pablo contrasta a ese grupo con "nosotros", incluyéndose a sí mismo y a los corintios.
@@ -716,7 +730,7 @@ También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anu
 #### También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es
 
 vil - AGENES
-:Carente de fama o reputación.
+: Carente de fama o reputación.
 
 ##### Estas expresiones describen a personas consideradas sin valor desde la perspectiva humana.
 
@@ -858,7 +872,7 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 
 ##### Una fe basada en sabiduría humana ya no está descansando en el poder de Dios.
 
-## 2:6–16 La verdadera sabiduría espiritual proviene del Espíritu de Dios
+## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
 ### 1 Corintios 2:6
 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo
@@ -1084,7 +1098,7 @@ Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero noso
 
 ##### Debido a esto, el conocimiento de la verdad no es imposible para los creyentes.
 
-## 3:1–4 Los corintios todavía vivían como hombres carnales y no como espirituales
+## 3:1-4 La espiritualidad y la carnalidad entre los corintios
 
 ### 1 Corintios 3:1
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
@@ -1170,7 +1184,7 @@ Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no 
 
 ##### Sin embargo, esa no era la realidad que tenían en Cristo.
 
-## 3:5–4:5 Pablo corrige la manera en que debían pensar acerca de los servidores de Dios
+## 3:5-4:5 Los servidores y la gloria entre los corintios
 
 ### 1 Corintios 3:5
 ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio oportunidad a cada uno.
@@ -1303,7 +1317,7 @@ Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el
 
 ##### La iglesia es presentada nuevamente como el lugar donde Dios obra mediante Sus colaboradores.
 
-## 1 Corintios 3:10b-15 - Cada creyente debe tener cuidado como sobreedifica.
+## 1 Corintios 3:10b-15 - La obra de cada uno sería probada sobre el fundamento que es Cristo
 
 #### Pero cada uno tenga cuidado cómo edifica encima.
 ##### Pablo ahora da un mandato a cada uno de los corintios.
@@ -1387,7 +1401,7 @@ Si la obra de alguien es consumida *por el fuego,* sufrirá pérdida; sin embarg
 
 ##### El creyente puede quedar sin obra, pero aun así ser salvo.
 
-## 1 Corintios 3:16-17 - El templo de Dios es santo, y Dios destruye al que lo destruye.
+## 1 Corintios 3:16-17 - El templo de Dios es santo, y Dios destruye al que lo destruye
 
 ### 1 Corintios 3:16
 ¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
@@ -1429,7 +1443,7 @@ Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo
 
 ##### Las divisiones mostraban que no estaban tratando correctamente aquello que Dios decía que eran.
 
-## 1 Corintios 3:18-22 - Pablo expone el error de los corintios, estaban inflados vanamente.
+## 1 Corintios 3:18-22 - La sabiduría y la gloria que existían entre los corintios
 
 ### 1 Corintios 3:18
 Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
@@ -1600,7 +1614,7 @@ Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga,
 #### Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
 ##### La alabanza apropiada vendrá después del juicio y manifestación realizados por Dios.
 
-## 4:6–13 Pablo confronta la percepción inflada que los corintios tenían de sí mismos 
+## 4:6-13 La percepción que los corintios tenían de sí mismos y de los apóstoles
 
 ### 1 Corintios 4:6
 Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
@@ -1757,7 +1771,7 @@ Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, has
 
 ##### Pablo describe cómo eran vistos y tratados públicamente.
 
-## 4:14–21 Pablo exhorta a los corintios a imitar una espiritualidad formada por humildad y realidad 
+## 4:14-21 Los caminos que Pablo quería recordarles a los corintios 
 
 ### 1 Corintios 4:14
 No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
@@ -1898,9 +1912,9 @@ Porque el reino de Dios no *consiste* en palabras, sino en poder.
 
 ##### Pablo prefería ir a ellos con amor y mansedumbre.
 
-# 5:1–7:40 — Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo
+# 5:1-7:40 — Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo
 
-## 5:1–13 La arrogancia de los corintios les impedía responder correctamente al pecado dentro de la iglesia
+## 5:1-13 La manera en que los corintios respondían al pecado dentro de la iglesia
 
 ### 1 Corintios 5:1
 En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
@@ -2078,7 +2092,7 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 ##### El hombre debía ser removido de entre la iglesia.
 
-## 6:1–11 Los corintios estaban destruyendo a sus propios hermanos mientras buscaban sus propios derechos
+## 6:1-11 Los conflictos y los derechos entre los corintios
 
 ### 1 Corintios 6:1
 ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo, a ir a juicio ante los incrédulos y no ante los santos?
@@ -2258,7 +2272,7 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 
 ##### Pablo dirige toda la atención hacia la obra de Dios a favor de ellos.
 
-## 6:12–20 El cuerpo del creyente ya no puede ser tratado como perteneciente al yo
+## 6:12-20 La libertad, el cuerpo y la pertenencia entre los corintios
 
 ### 1 Corintios 6:12
 Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
@@ -2396,7 +2410,7 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 
 ##### Tanto el cuerpo como el espíritu pertenecen a Dios.
 
-## 7:1–7 Pablo corrige la manera de pensar acerca del matrimonio, la abstinencia y las responsabilidades mutuas
+## 7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios
 
 ### 1 Corintios 7:1
 En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mujer.
@@ -2506,7 +2520,7 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 
 ##### El enfoque sigue alejándose del egoísmo individual y moviéndose hacia responsabilidad mutua.
 
-###### El flujo de los versículos 2–4 desarrolla progresivamente:
+###### El flujo de los versículos 2-4 desarrolla progresivamente:
 - matrimonio,
 - deber mutuo,
 - consideración mutua,
@@ -2584,7 +2598,7 @@ Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cad
 
 ##### Pablo reconoce diversidad dentro de la vida de los creyentes.
 
-## 7:8–24 Pablo corrige la manera de vivir las relaciones matrimoniales desde la realidad del llamado de Dios
+## 7:8-24 La manera en que los corintios debían vivir sus relaciones y condición actual
 
 ### 1 Corintios 7:8
 A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
@@ -2854,7 +2868,7 @@ Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
 
 ##### Pablo continúa insistiendo en aprender a vivir correctamente delante de Dios dentro de la condición presente.
 
-## 7:25–40 Pablo relativiza las condiciones temporales desde la realidad presente del Señor
+## 7:25-40 Las condiciones presentes, el matrimonio y las preocupaciones entre los corintios
 
 ### 1 Corintios 7:25
 En cuanto a las vírgenes no tengo mandamiento del Señor, pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.
@@ -3100,9 +3114,9 @@ Pero en mi opinión, será más feliz si se queda como está. Y creo que yo tamb
 
 ##### Sus palabras son dadas con la conciencia de actuar bajo la dirección del Espíritu de Dios.
 
-# 8:1–14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
+# 8:1-14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
 
-## 8:1–13 El conocimiento sin amor puede destruir al hermano
+## 8:1-13 El conocimiento, la libertad y el hermano débil entre los corintios
 
 ### 1 Corintios 8:1
 En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica.
@@ -3349,7 +3363,7 @@ Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne ja
 
 ##### El amor al hermano gobierna el uso correcto del conocimiento y de la libertad.
 
-## 9:1–27 Pablo presenta su propia vida como ejemplo de libertad limitada por amor y por el evangelio
+## 9:1-27 La libertad, los derechos y la manera en que Pablo vivía el evangelio
 
 ### 1 Corintios 9:1
 ¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes mi obra en el Señor?
@@ -3432,7 +3446,7 @@ Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo
 ### 1 Corintios 9:27
 sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.
 
-## 10:1–22 Israel sirve como advertencia contra una falsa seguridad espiritual
+## 10:1-22 Israel sirve como advertencia contra una falsa seguridad espiritual
 
 ### 1 Corintios 10:1
 Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.
@@ -3500,7 +3514,7 @@ Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden 
 ### 1 Corintios 10:22
 ¿O provocaremos a celos al Señor? ¿Somos, acaso, más fuertes que Él?
 
-## 10:23–11:1 La libertad cristiana debe someterse al bien del otro y a la gloria de Dios
+## 10:23-11:1 La libertad, el bien del otro y la gloria de Dios entre los corintios
 
 ### 1 Corintios 10:23
 Todo es lícito, pero no todo es de provecho. Todo es lícito, pero no todo edifica
@@ -3538,7 +3552,7 @@ así como también yo *procuro* agradar a todos en todo, no buscando mi propio b
 ### 1 Corintios 11:1
 Sean imitadores de mí, como también yo *lo soy* de Cristo.
 
-## 11:2–34 Las reuniones de la iglesia estaban reflejando divisiones y exaltación personal
+## 11:2-34 La manera en que los corintios se comportaban cuando se reunían como iglesia
 
 ### 1 Corintios 11:2
 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué
@@ -3639,7 +3653,7 @@ Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
 ### 1 Corintios 11:34
 Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Los demás asuntos los arreglaré cuando vaya
 
-## 12:1–31 Los dones espirituales debían entenderse desde la realidad de un solo cuerpo
+## 12:1-31 Los dones espirituales y la realidad de un solo cuerpo entre los corintios
 
 ### 1 Corintios 12:1
 En cuanto a los *dones* espirituales, no quiero, hermanos, que sean ignorantes
@@ -3734,7 +3748,7 @@ Y en la iglesia, Dios ha designado primeramente, apóstoles; en segundo *lugar,*
 ### 1 Corintios 12:31
 Pero deseen ardientemente los mejores dones. Y aun yo les muestro un camino más excelente.
 
-## 13:1–13 El amor es superior a toda espiritualidad centrada en la exaltación personal
+## 13:1-13 La relación entre el amor y las manifestaciones espirituales
 
 ### 1 Corintios 13:1
 Si yo hablara lenguas humanas y angélicas, pero no tengo amor, he llegado a ser *como* metal que resuena o címbalo que retiñe
@@ -3775,7 +3789,7 @@ Porque ahora vemos por un espejo, veladamente, pero entonces *veremos* cara a ca
 ### 1 Corintios 13:13
 Y ahora permanecen la fe, la esperanza, el amor: estos tres; pero el mayor de ellos es el amor
 
-## 14:1–40 La espiritualidad verdadera busca edificar al cuerpo y no exaltarse a sí misma
+## 14:1-40 Las manifestaciones espirituales y la edificación entre los corintios
 
 ### 1 Corintios 14:1
 Procuren alcanzar el amor; pero también deseen ardientemente *los dones* espirituales, sobre todo que profeticen
@@ -3897,9 +3911,9 @@ Por tanto, hermanos míos, anhelen el profetizar, y no prohíban hablar en lengu
 ### 1 Corintios 14:40
 Pero que todo se haga decentemente y con orden
 
-# 15:1–58 - Pablo redefine toda la existencia cristiana desde la resurrección
+# 15:1-58 La resurrección y la manera en que los corintios pensaban acerca de ella
 
-## 15:1–11 Pablo reafirma el evangelio que los corintios recibieron y en el cual permanecen
+## 15:1-11 Pablo reafirma el evangelio que los corintios recibieron y en el cual permanecen
 
 ### 1 Corintios 15:1
 Ahora les hago saber, hermanos, el evangelio que les prediqué, el cual también ustedes recibieron, en el cual también están firmes
@@ -3934,7 +3948,7 @@ Pero por la gracia de Dios soy lo que soy, y Su gracia para conmigo no resultó 
 ### 1 Corintios 15:11
 Sin embargo, *haya sido* yo o ellos, así predicamos y así creyeron ustedes.
 
-## 15:12–19 Negar la resurrección destruye completamente la realidad cristiana
+## 15:12-19 Negar la resurrección destruye completamente la realidad cristiana
 
 ### 1 Corintios 15:12
 Ahora bien, si se predica que Cristo ha resucitado de entre los muertos, ¿cómo dicen algunos entre ustedes que no hay resurrección de muertos?
@@ -3960,7 +3974,7 @@ Entonces también los que han dormido en Cristo están perdidos
 ### 1 Corintios 15:19
 Si hemos esperado en Cristo para esta vida solamente, somos, de todos los hombres, los más dignos de lástima
 
-## 15:20–28 La resurrección de Cristo garantiza la derrota final de la muerte
+## 15:20-28 La resurrección de Cristo garantiza la derrota final de la muerte
 
 ### 1 Corintios 15:20
 Pero ahora Cristo ha resucitado de entre los muertos, primicias de los que durmieron
@@ -3989,7 +4003,7 @@ Porque Dios ha puesto todo en sujeción bajo Sus pies. Pero cuando dice que toda
 ### 1 Corintios 15:28
 Y cuando todo haya sido sometido a Él, entonces también el Hijo mismo se sujetará a Aquel que sujetó a Él todas las cosas, para que Dios sea todo en todos
 
-## 15:29–34 La vida cristiana presente pierde sentido si no existe resurrección
+## 15:29-34 La vida cristiana presente pierde sentido si no existe resurrección
 
 ### 1 Corintios 15:29
 De no ser así, ¿qué harán los que se bautizan por los muertos? Si de ninguna manera los muertos resucitan, ¿por qué, entonces, se bautizan por ellos?
@@ -4009,7 +4023,7 @@ No se dejen engañar: «Las malas compañías corrompen las buenas costumbres»
 ### 1 Corintios 15:34
 Sean sobrios, como conviene, y dejen de pecar; porque algunos no tienen conocimiento de Dios. Para vergüenza de ustedes *lo* digo
 
-## 15:35–49 Pablo redefine el cuerpo desde la realidad de la resurrección
+## 15:35-49 Pablo redefine el cuerpo desde la realidad de la resurrección
 
 ### 1 Corintios 15:35
 Pero alguien dirá: «¿Cómo resucitan los muertos? ¿Y con qué clase de cuerpo vienen?»
@@ -4056,7 +4070,7 @@ Como es el terrenal, así son también los que son terrenales; y como es el cele
 ### 1 Corintios 15:49
 Y tal como hemos traído la imagen del terrenal, traeremos también la imagen del celestial
 
-## 15:50–58 La resurrección futura transforma completamente la perspectiva presente del creyente
+## 15:50-58 La resurrección futura transforma completamente la perspectiva presente del creyente
 
 ### 1 Corintios 15:50
 Esto digo, hermanos: que la carne y la sangre no pueden heredar el reino de Dios; ni lo que se corrompe hereda lo incorruptible
@@ -4085,9 +4099,9 @@ pero a Dios gracias, que nos da la victoria por medio de nuestro Señor Jesucris
 ### 1 Corintios 15:58
 Por tanto, mis amados hermanos, estén firmes, constantes, abundando siempre en la obra del Señor, sabiendo que su trabajo en el Señor no es *en* vano.
 
-# 16:1–24 — Pablo concluye llamándolos a permanecer firmes en el Señor
+# 16:1-24 — Pablo concluye llamándolos a permanecer firmes en el Señor
 
-## 16:1–4 Pablo organiza la ofrenda como expresión práctica de cuidado entre las iglesias
+## 16:1-4 Pablo organiza la ofrenda como expresión práctica de cuidado entre las iglesias
 
 ### 1 Corintios 16:1
 Ahora bien, en cuanto a la ofrenda para los santos, hagan ustedes también como instruí a las iglesias de Galacia
@@ -4101,7 +4115,7 @@ Cuando yo llegue, enviaré con cartas a quienes ustedes hayan designado, para qu
 ### 1 Corintios 16:4
 Y si es conveniente que yo también vaya, ellos irán conmigo
 
-## 16:5–9 Pablo muestra flexibilidad personal mientras permanece sometido a la voluntad del Señor
+## 16:5-9 Pablo muestra flexibilidad personal mientras permanece sometido a la voluntad del Señor
 
 ### 1 Corintios 16:5
 Iré a ustedes cuando haya pasado por Macedonia, pues voy a pasar por Macedonia
@@ -4118,7 +4132,7 @@ Pero me quedaré en Éfeso hasta Pentecostés
 ### 1 Corintios 16:9
 porque se me ha abierto una puerta grande para *el servicio* eficaz, *aunque* también hay muchos adversarios
 
-## 16:10–18 Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor
+## 16:10-18 Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor
 
 ### 1 Corintios 16:10
 Si llega Timoteo, vean que esté entre ustedes sin temor, pues él hace la obra del Señor lo mismo que yo.
@@ -4130,7 +4144,7 @@ Por tanto, nadie lo menosprecie. Más bien, envíenlo en paz para que venga a m�
 ### 1 Corintios 16:12
 En cuanto a nuestro hermano Apolos, mucho lo animé a que fuera a ustedes con los hermanos, pero de ninguna manera tuvo ahora el deseo de ir. Sin embargo, irá cuando tenga oportunidad.
 
-## 16:13–14 Pablo llama a los corintios a vivir con firmeza, madurez y amor
+## 16:13-14 Pablo llama a los corintios a vivir con firmeza, madurez y amor
 
 ### 1 Corintios 16:13
 Estén alerta, permanezcan firmes en la fe, pórtense varonilmente, sean fuertes
@@ -4150,7 +4164,7 @@ Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos 
 ### 1 Corintios 16:18
 Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido lo que faltaba de parte de ustedes
 
-## 16:19–24 Pablo concluye reafirmando sus relaciones, advertencias y amor hacia los corintios
+## 16:19-24 Pablo concluye reafirmando sus relaciones, advertencias y amor hacia los corintios
 
 ### 1 Corintios 16:19
 Las iglesias de Asia los saludan. Aquila y Priscila, con la iglesia que está en su casa, los saludan muy afectuosamente en el Señor
