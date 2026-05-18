@@ -95,161 +95,192 @@ La Iglesia Espiritual… según sí misma
 
 ###### Por eso el contexto histórico no es un simple dato académico. Ayuda a percibir por qué los corintios pensaban como pensaban, y por qué Pablo corrige exactamente lo que corrige.
 
-##### La Iglesia 
+##### La Iglesia Espiritual… según sí misma
 
-La cruz como realidad correctiva
+###### A lo largo de la carta, Pablo no solamente corrige conductas.
 
-La cruz subvierte repetidamente la gloria visible, la autoexaltación, la autonomía, el triunfalismo, el estatus, la libertad egocéntrica, la espiritualidad para uno mismo, el conocimiento sin amor, y el poder sin sacrificio.
+###### Repetidamente confronta una manera de pensar.
 
-Esto significa que la carta puede, de hecho, avanzar a través de manifestaciones repetidas de un pensamiento sin cruz.
+###### Corinto puede parecer muy distinta dependiendo desde dónde se la observe.
 
-Y Pablo, repetidamente lo centra todo en la realidad cruciforme.
+###### Los corintios parecen verse a sí mismos:
+- sabios,
+- espirituales,
+- maduros,
+- fuertes,
+- libres,
+- enriquecidos,
+- y capaces.
 
-Esto resulta MUCHO más contundente que "Corinto tenía problemas".
+###### Y muchas de esas cosas no eran completamente falsas.
 
-En cambio:
+###### Pablo mismo les recuerda:
+- que fueron enriquecidos en todo,
+- que no les falta ningún don,
+- y que recibieron conocimiento.
 
-Corinto interpretaba repetidamente la realidad según sí mismo, según el hombre, según la sabiduría visible, según el estatus, según la autonomía. Y Pablo, repetidamente choca esos marcos conceptuales con la cruz. 
+###### Sin embargo, cuando Pablo recibe el informe de los de Cloé, comienza a describir otra realidad.
 
-Observe cómo se desarrolla el contraste continuo
-**1 - Sabiduría**
-forma de pensar corintia
-sabiduría
-elocuencia
-estado
-impresionante
-correctivo cruzado
-cristo crucificado
-debilidad
-locura
-lo despreciado
+###### Pablo habla de:
+- divisiones,
+- celos,
+- arrogancia,
+- carnalidad,
+- niños en Cristo,
+- y hombres que andan como simples hombres.
 
-La cruz destruye la jactancia humana.
+###### Precisamente allí comienza a desarrollarse una de las tensiones más profundas de toda la epístola.
 
-**2 - Espiritualidad**
-pensamiento corintio
-somos espirituales
-tenemos hecho
-tenemos conocimientos
-correctivo cruzado
-hijo carnales
-el amor edifica
-un solo cuerpo
+###### Los corintios poseen muchas realidades verdaderas en Cristo, pero continuamente parecen interpretarlas:
+- según el hombre,
+- según la sabiduría visible,
+- según la capacidad humana,
+- según el estatus,
+- según el conocimiento,
+- según la libertad entendida desde sí mismos.
 
-Los valores de vida en forma de cruz:
+###### Repetidamente, Pablo expone que los corintios no se estaban viendo correctamente a sí mismos.
 
-amar,
-edificación,
-mutualidad,
-no autoexhibición.
-**3 - Liderazgo**
-pensamiento corintio
-yo soy de pablo
-yo de apolos
-correctivo cruzado
-servidores
-administradores
-Dios del crecimiento
+###### La carta no desarrolla solamente:
+- problemas de conducta,
+sino también:
+- una manera equivocada de percibir la realidad.
 
-La cruz destruye la gloria en los hombres.
+###### Y Pablo, repetidamente, vuelve a centrar todo en Cristo crucificado y resucitado.
 
-**4 - Triunfo**
-pensamiento corintio
-ya reinan
-ya son ricos
-ya estan saciados
-correctivo cruzado
-hambre
-debilidad
-vergüenza
-persecución
+###### La cruz aparece constantemente destruyendo:
+- la jactancia humana,
+- la gloria en los hombres,
+- la autosuficiencia,
+- la espiritualidad inflada,
+- el conocimiento sin amor,
+- la libertad sin edificación,
+- y el poder sin sacrificio.
 
-Los apóstoles encarnan la realidad cruciforme.
+###### Por eso, esta carta resulta mucho más profunda que simplemente:
+- “Corinto tenía problemas”.
 
-**5 — Autonomía sexual**
-pensamiento corintio
-todo me es lícito
-correctivo cruzado
-fueron comprados
-no son suyos
-glorifiquen a Dios en su cuerpo
+###### Más bien, la carta desarrolla repetidamente una tensión entre:
+- la manera en que los corintios se perciben,
+y:
+- la realidad definida por Cristo.
 
-La cruz significa:
-el cuerpo pertenece a Cristo.
+###### Observe cómo este contraste reaparece continuamente a lo largo de la epístola.
 
-**6 - Libertad**
-pensamiento corintio
-tenemos conocimientos
-podemos comer
-correctivo cruzado
-el hermano
-el amor
-renunciar a derechos
+###### En los primeros capítulos:
+- los corintios valoran:
+  - sabiduría,
+  - elocuencia,
+  - capacidad,
+  - impresionar,
+mientras:
+- Pablo centra todo en:
+  - Cristo crucificado,
+  - debilidad,
+  - locura,
+  - y lo despreciado.
 
-El propio Pablo se convierte en la encarnación cruciforme de la libertad.
+###### Más adelante:
+- los corintios parecen pensar:
+  - “somos espirituales”,
+  - “tenemos conocimiento”,
+  - “tenemos libertad”,
+mientras:
+- Pablo insiste en:
+  - amor,
+  - edificación,
+  - mutualidad,
+  - y un solo cuerpo.
 
-**7 — Manifestaciones espirituales**
-pensamiento corintio
-lenguas
-visibilidad
-expresión
-correctivo cruzado
-edificacion
-orden
-amor
-inteligibilidad
+###### Cuando surgen divisiones:
+- los corintios dicen:
+  - “yo soy de Pablo”,
+  - “yo de Apolos”,
+mientras:
+- Pablo redefine a todos simplemente como:
+  - servidores,
+  - administradores,
+  - y colaboradores de Dios.
 
-La espiritualidad en forma de cruz construye a los demás.
+###### Cuando hablan de libertad:
+- Pablo vuelve continuamente:
+  - al hermano,
+  - a la conciencia,
+  - al amor,
+  - y a renunciar incluso a derechos legítimos por edificación.
 
-**8 — Resurrección**
-Pensamiento corintio
+###### Cuando hablan de espiritualidad:
+- Pablo dirige todo hacia:
+  - inteligibilidad,
+  - orden,
+  - amor,
+  - y edificación de los demás.
 
-Posiblemente:
+###### Incluso:
+- el cuerpo,
+- la sexualidad,
+- las relaciones,
+- el matrimonio,
+- y la vida presente
+son continuamente reinterpretados desde:
+- pertenencia a Cristo,
+y no:
+- desde autonomía humana.
 
-espiritualidad sin resurrección corporal
-Corrección de la cruz
-Cristo resucitó
-el cuerpo importa
-la muerte será vencida
+###### La cruz no permanece encerrada solamente en los capítulos 1 y 2.
 
-La resurrección vindica la cruz.
+###### Reaparece constantemente a lo largo de toda la carta:
+- en humildad,
+- en renuncia,
+- en servicio,
+- en debilidad,
+- en amor,
+- en mutualidad,
+- en edificación,
+- en pertenencia,
+- y finalmente:
+- en la esperanza de la resurrección.
 
-Esto podría convertirse en el principal motor de desarrollo.
+###### Pablo parece llevar repetidamente a los corintios hacia una misma realidad:
 
-No solo:
+- Cristo define la verdadera sabiduría.
+- Cristo define la verdadera espiritualidad.
+- Cristo define la verdadera libertad.
+- Cristo define el verdadero poder.
+- Cristo define la verdadera gloria.
 
-problema
-→ corrección
+###### Por eso, Pablo continuamente les recuerda:
+- lo que recibieron en Cristo,
+- lo que Dios hizo a favor de ellos,
+- y quiénes son verdaderamente delante de Él.
 
-Sino:
+###### La sabiduría de Dios no produce:
+- jactancia,
+- autosuficiencia,
+- ni gloria humana.
 
-Marco corintio
-→ colisión de la cruz
-→ realidad definida por Cristo
+###### Más bien, desplaza continuamente:
+- la confianza en el hombre,
+- el orgullo espiritual,
+- y la exaltación propia.
 
-Esto es MUCHO más profundo. Y, lo que es importante es que la cruz no se limita a los capítulos 1 y 2. Irradia a lo largo de toda la carta. A veces explícitamente. A veces estructuralmente.
+###### A lo largo de toda la carta, Pablo parece llevar a los corintios hacia una misma realidad:
 
-La cruz reaparece constantemente como entrega, humildad, amor, renuncia a los derechos, debilidad, mutualidad, edificación, pertenencia, esperanza de resurrección.
+###### Aprender a interpretar:
+- la iglesia,
+- la espiritualidad,
+- la libertad,
+- el cuerpo,
+- el conocimiento,
+- y la vida misma
+desde Cristo,
+y no desde sí mismos.
 
-Esa es la lógica cruciforme que se extiende por toda la epístola.
+###### Y precisamente allí parece desarrollarse la tensión central de toda la epístola:
 
-Esto nos lleva al subtitulo completo:
+###### Una iglesia que se percibe espiritualmente fuerte y madura…
 
-No solamente "La Iglesia Espiritual… según sí misma"
-
-Sino:
-
-"La Iglesia Espiritual… según sí misma, confrontada por la realidad de Cristo crucificado y resucitado."
-
-Porque ESO es lo que parecen estar haciendo las repetidas trayectorias correctivas.
-
-###### Corinto esta bien vestida, dependiendo de con que ojos la veas. Cuando los hermanos de Cloé la vieron, y Pablo recibió el informe de ellos, opinó que estaban vestidos como niños, carnales u hombres de este mundo. Sin embargo, cuando ellos se miraban a sí mismos tenían muchas cosas por las cuales jactarse. Pablo les dice que se habían envanecido y estaban pensando más allá de lo que deberían pensar de sí mismos. Claramente los corintos no se estaban viendo apropiadamente a sí mismos. 
-
-###### Hay una tercer mirada, y es la que permea toda la carta y es la mirada de Dios hacia ellos como su iglesia, y no es una mirada de condenación, sino aquella que tiene un padre sobre su Hijo. Pablo les recuerda que Dios nunca dejó de verlos como a Su Hijo Jesucristo, trayéndoles a la memoria la sabiduría de Dios. 
-
-###### La sabiduría de Dios no infla a los creyentes, al contrario, los desinfla, y es justamente lo que los corintos habían dejado a un lado por no mirar lo que eran en Cristo, y buscar una identidad fuera de él. Pablo llama a esto carnalidad, y andar como simples hombres. 
-
-###### Dios desea que todos los creyentes aprendamos a ver la vida a través de Cristo, y una iglesia que aparta sus ojos de Cristo, termina envaneciéndose sin razón legítimas para hacerlo. Es por eso que Pablo les da un recordatorio de la gracia de Dios que han recibido en Cristo, y los anima a depender del espíritu para que esta gracia sea la que permee sus vidas, tanto en comprensión de la vida, como en la vida misma que vivían los unos con los otros.
+###### confrontada repetidamente por la realidad de Cristo crucificado y resucitado.
 
 # 1:1-4:21 — Pablo redefine la sabiduría y espiritualidad desde la cruz
 
@@ -3858,12 +3889,27 @@ En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como 
 
 ##### La situación había llegado a ser conocida públicamente.
 
+###### La tensión continúa creciendo:
+- una iglesia enriquecida,
+- llena de dones,
+- y segura de sí misma,
+estaba tolerando algo extremadamente grave en medio de ella.
+
 #### y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
 ##### La inmoralidad presente entre los corintios era tan grave que ni siquiera era común entre los gentiles.
 
 ##### Pablo describe un caso extremo dentro de la iglesia.
 
 ##### El problema no era solamente el acto en sí, sino también la manera en que la iglesia estaba reaccionando frente a ello.
+
+###### Pablo no presenta esto:
+- como un rumor pequeño,
+- ni como un asunto privado sin importancia.
+
+###### La gravedad del caso dejaba expuesta una desconexión profunda entre:
+- la percepción espiritual que los corintios tenían de sí mismos,
+y:
+- la realidad de lo que estaba ocurriendo entre ellos.
 
 ### 1 Corintios 5:2
 ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
@@ -3873,18 +3919,41 @@ En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como 
 
 ##### La arrogancia seguía siendo el trasfondo de su comportamiento.
 
+###### Pablo no describe una iglesia:
+- quebrantada,
+- avergonzada,
+- ni alarmada.
+
+###### Continúan inflados incluso mientras este pecado permanece entre ellos.
+
+###### Esto conecta directamente con todo lo que Pablo venía exponiendo desde capítulos anteriores:
+- una percepción equivocada de sí mismos,
+- una falsa evaluación espiritual,
+- y una manera humana de pensar.
+
 #### en lugar de haberse entristecido
 ##### La reacción correcta habría sido tristeza y quebranto.
 
 ##### Los corintios estaban reaccionando de forma opuesta a lo apropiado.
 
+###### En lugar de dolor y humildad:
+- permanecían inflados,
+- seguros,
+- y aparentemente tranquilos.
+
+###### Pablo muestra que la manera en que estaban respondiendo revelaba una percepción profundamente equivocada de la situación.
+
 #### para que el que de entre ustedes ha cometido esta acción
 ##### Pablo identifica claramente que la acción fue cometida por alguien dentro de ellos.
+
+###### El problema no estaba fuera de la iglesia, sino dentro de ella.
 
 #### fuera expulsado de en medio de ustedes!
 ##### Pablo muestra cuál debía haber sido la respuesta de la iglesia.
 
 ##### El hombre debía ser removido de entre ellos.
+
+###### La iglesia debía actuar conforme a la realidad santa que compartía en Cristo.
 
 ### 1 Corintios 5:3
 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.*
@@ -3892,10 +3961,18 @@ Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como
 #### Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu
 ##### Aunque Pablo estaba físicamente ausente, seguía involucrado con la situación de los corintios.
 
+###### La distancia física no significaba indiferencia hacia lo que estaba ocurriendo en la iglesia.
+
 #### como si estuviera presente, ya he juzgado al que cometió tal *acción.*
 ##### Pablo ya había tomado una decisión respecto al hombre que cometió esa acción.
 
 ##### Pablo contrasta aquí con la pasividad de los corintios.
+
+###### Mientras los corintios permanecían:
+- inflados,
+- tolerantes,
+- y sin reaccionar correctamente,
+Pablo ya había discernido la gravedad de la situación.
 
 ### 1 Corintios 5:4
 En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
@@ -3907,6 +3984,16 @@ En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes 
 
 ##### Esto no debía hacerse como una decisión meramente humana.
 
+###### La situación debía tratarse:
+- delante del Señor,
+- bajo Su autoridad,
+- y conforme a Su poder.
+
+###### Pablo continúa alejando la situación:
+- de preferencias humanas,
+- opiniones personales,
+- o tolerancia orgullosa.
+
 ### 1 Corintios 5:5
 entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
 
@@ -3917,12 +4004,22 @@ entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su
 
 ##### Pablo describe esta acción como una entrega a Satanás.
 
+###### La gravedad del lenguaje muestra que Pablo no veía esta situación:
+- como algo pequeño,
+- tolerable,
+- ni compatible con la realidad de la iglesia.
+
 #### a fin de que su espíritu sea salvo en el día del Señor Jesús.
 ##### El propósito final no era destrucción definitiva, sino salvación.
 
 ##### Pablo sigue considerando importante el bienestar final de este hombre.
 
 ##### El día del Señor Jesús vuelve a aparecer como el momento del juicio definitivo.
+
+###### Aun esta disciplina severa:
+- no surge del odio,
+- ni de deseo de destrucción,
+sino de una preocupación final por su salvación.
 
 ### 1 Corintios 5:6
 La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda *la masa*?
@@ -3932,10 +4029,21 @@ La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta
 
 ##### La manera en que estaban reaccionando frente al pecado era incorrecta.
 
+###### Nuevamente aparece el mismo problema:
+- jactancia,
+- arrogancia,
+- y una percepción inflada de sí mismos.
+
+###### Incluso frente a una situación tan seria, los corintios seguían pensando incorrectamente.
+
 #### ¿No saben que un poco de levadura fermenta toda *la masa*?
 ##### Pablo usa la imagen de la levadura para mostrar el efecto expansivo del pecado.
 
 ##### Algo pequeño puede terminar afectando toda la masa.
+
+###### Lo que estaba ocurriendo:
+- no permanecía aislado,
+- ni sin consecuencias para toda la iglesia.
 
 ### 1 Corintios 5:7
 Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en realidad* sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
@@ -3945,15 +4053,33 @@ Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en reali
 
 ##### La iglesia debía actuar de acuerdo a la nueva realidad que tenía en Cristo.
 
+###### El mandato surge nuevamente de aquello que ya eran delante de Dios.
+
 #### así como *lo* son *en realidad* sin levadura.
 ##### Pablo afirma que ellos ya eran sin levadura en realidad.
 
 ##### El mandato surge a partir de lo que ya eran.
 
+###### Pablo no está diciendo que lleguen a ser algo completamente distinto.
+
+###### Les está llamando a actuar conforme a:
+- la realidad,
+- la santidad,
+- y la identidad
+que ya poseían en Cristo.
+
 #### Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
 ##### Cristo es presentado como la Pascua de los creyentes.
 
 ##### Pablo conecta toda esta exhortación con la obra de Cristo.
+
+###### Toda esta corrección:
+- la santidad,
+- la limpieza,
+- y la separación de la levadura,
+quedan finalmente conectadas con:
+- Cristo,
+- y Su sacrificio.
 
 ### 1 Corintios 5:8
 Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
@@ -3963,10 +4089,22 @@ Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de 
 
 ##### La malicia y la maldad son asociadas con esa levadura vieja.
 
+###### Pablo continúa llamando a los corintios a vivir conforme a la realidad nueva que ya poseen en Cristo.
+
+###### La vieja levadura no correspondía:
+- a la sinceridad,
+- ni a la verdad,
+- ni a la realidad santa que compartían como pueblo de Dios.
+
 #### sino con panes sin levadura de sinceridad y de verdad.
 ##### Pablo contrasta la vieja levadura con sinceridad y verdad.
 
 ##### La vida de los creyentes debía corresponder a esa nueva realidad.
+
+###### La sinceridad y la verdad aparecen aquí en contraste con:
+- la tolerancia orgullosa,
+- la arrogancia,
+- y la manera equivocada en que estaban respondiendo al pecado.
 
 ### 1 Corintios 5:9
 En mi carta les escribí que no anduvieran en compañía de personas inmorales.
@@ -3976,14 +4114,30 @@ En mi carta les escribí que no anduvieran en compañía de personas inmorales.
 
 ##### Los corintios ya habían sido advertidos anteriormente acerca de esto.
 
+###### La situación actual mostraba que:
+- no habían entendido correctamente,
+o:
+- no habían actuado conforme a aquella instrucción.
+
 ### 1 Corintios 5:10
 No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras, porque entonces tendrían ustedes que salirse del mundo.
 
 #### No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafadores, o a los idólatras
 ##### Pablo aclara que no estaba hablando de los incrédulos del mundo.
 
+###### Pablo no está pidiendo:
+- aislamiento absoluto,
+- ni separación física completa del mundo.
+
 #### porque entonces tendrían ustedes que salirse del mundo.
 ##### Si la instrucción fuera evitar completamente a los incrédulos, tendrían que salir literalmente del mundo.
+
+###### Pablo reconoce que los creyentes continúan viviendo dentro del mundo.
+
+###### El problema principal no era:
+- la presencia del pecado en el mundo,
+sino:
+- la manera en que la iglesia estaba respondiendo al pecado dentro de ella misma.
 
 ### 1 Corintios 5:11
 Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
@@ -3995,10 +4149,19 @@ Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, 
 
 ##### Pablo menciona distintos ejemplos de conductas incompatibles con esa profesión.
 
+###### La tensión se vuelve especialmente seria porque:
+- la persona continúa identificándose como hermano,
+mientras:
+- permanece en prácticas contrarias a la realidad que afirma compartir en Cristo.
+
 #### Con esa persona, ni siquiera coman.
 ##### Pablo manda limitar incluso la comunión más básica con esa persona.
 
 ##### La iglesia debía tomar seriamente esta situación.
+
+###### Los corintios no debían continuar actuando:
+- como si nada estuviera ocurriendo,
+- ni como si esta situación fuera compatible con la vida de la iglesia.
 
 ### 1 Corintios 5:12
 Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*?
@@ -4008,10 +4171,18 @@ Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que e
 
 ##### El juicio de Pablo no estaba dirigido hacia los incrédulos del mundo.
 
+###### Pablo continúa aclarando dónde recae realmente la responsabilidad de la iglesia.
+
 #### ¿No juzgan ustedes a los que están dentro *de la iglesia*?
 ##### La responsabilidad de la iglesia sí incluye juzgar lo que ocurre dentro de ella.
 
 ##### Pablo muestra que los corintios debían haber actuado en esta situación.
+
+###### La iglesia debía discernir correctamente aquello que estaba ocurriendo en medio de ella.
+
+###### Precisamente aquí se vuelve evidente la contradicción:
+- se consideraban espirituales,
+- pero no estaban evaluando correctamente una situación extremadamente grave dentro de la iglesia.
 
 ### 1 Corintios 5:13
 Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
@@ -4019,10 +4190,19 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 #### Pero Dios juzga a los que están fuera.
 ##### Dios mismo se encargará de juzgar a los de afuera.
 
+###### Pablo vuelve a separar claramente:
+- la responsabilidad de Dios,
+y:
+- la responsabilidad de la iglesia.
+
 #### Expulsen al malvado de entre ustedes.
 ##### Pablo termina con un mandato claro y directo.
 
 ##### El hombre debía ser removido de entre la iglesia.
+
+###### La iglesia debía actuar:
+- conforme a la santidad que compartía en Cristo,
+- y conforme a la realidad espiritual que Pablo había venido recordándoles desde el comienzo de la carta.
 
 ## 6:1-11 Los conflictos y los derechos entre los corintios
 
@@ -4034,12 +4214,23 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 ##### Había conflictos entre hermanos dentro de la iglesia.
 
+###### La iglesia que:
+- hablaba de sabiduría,
+- conocimiento,
+- y espiritualidad,
+ni siquiera estaba resolviendo correctamente sus propios conflictos internos.
+
 #### a ir a juicio ante los incrédulos y no ante los santos?
 ##### Pablo considera incorrecto que los creyentes lleven sus conflictos delante de incrédulos.
 
 ##### Los santos debían ser capaces de tratar estos asuntos entre ellos mismos.
 
 ##### Pablo vuelve a mostrar una contradicción entre lo que los corintios eran y la manera en que estaban actuando.
+
+###### Los corintios parecían confiar más:
+- en tribunales humanos,
+que:
+- en la sabiduría que debía existir dentro del pueblo de Dios.
 
 ### 1 Corintios 6:2
 ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
@@ -4051,12 +4242,21 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 ##### Pablo contrasta esa realidad futura con su comportamiento presente.
 
+###### Pablo continúa mostrando una desconexión entre:
+- la realidad gloriosa que compartían en Cristo,
+y:
+- la manera limitada y humana en que estaban actuando.
+
 #### Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
 ##### Pablo razona desde lo mayor hacia lo menor.
 
 ##### Si los creyentes participarán en algo tan grande como juzgar al mundo, entonces deberían ser capaces de resolver asuntos pequeños entre ellos.
 
 ##### Pablo muestra lo incoherente de acudir a incrédulos para resolver estos conflictos.
+
+###### Los asuntos que estaban llevando delante de tribunales humanos:
+- no correspondían
+a la realidad futura en la cual participarían junto con Cristo.
 
 ### 1 Corintios 6:3
 ¿No saben que hemos de juzgar a los ángeles? ¡Cuánto más asuntos de esta vida!
@@ -4066,10 +4266,17 @@ Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 ##### Los creyentes no solamente juzgarán al mundo, sino también a los ángeles.
 
+###### Pablo sigue elevando enormemente la realidad que pertenece a los creyentes en Cristo.
+
 #### ¡Cuánto más asuntos de esta vida!
 ##### Si eso es verdadero, entonces los asuntos de esta vida deberían ser comparativamente pequeños.
 
 ##### Pablo continúa mostrando lo absurdo de la situación entre ellos.
+
+###### Los corintios estaban actuando:
+- como personas incapaces de resolver asuntos pequeños,
+mientras:
+- compartían una realidad muchísimo mayor en Cristo.
 
 ### 1 Corintios 6:4
 Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* ponen por jueces a los que nada son en la iglesia?
@@ -4079,10 +4286,20 @@ Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* p
 
 ##### Los corintios estaban llevando asuntos cotidianos delante de tribunales humanos.
 
+###### El problema ya no era solamente:
+- el conflicto,
+sino:
+- la manera en que estaban pensando y respondiendo frente a esos conflictos.
+
 #### ¿*por qué* ponen por jueces a los que nada son en la iglesia?
 ##### Pablo confronta el hecho de que estaban colocando a incrédulos como jueces sobre asuntos entre hermanos.
 
 ##### Aquellos que no tenían lugar dentro de la iglesia estaban siendo puestos para decidir sobre problemas de la iglesia.
+
+###### Esto volvía a revelar una percepción profundamente equivocada acerca de:
+- la iglesia,
+- la sabiduría,
+- y la realidad espiritual que compartían en Cristo.
 
 ### 1 Corintios 6:5
 Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
@@ -4092,12 +4309,22 @@ Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sab
 
 ##### Su comportamiento no correspondía a la realidad que tenían en Cristo.
 
+###### La vergüenza surge precisamente de la contradicción entre:
+- aquello que afirmaban ser,
+y:
+- la manera en que estaban actuando.
+
 #### ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
 ##### Pablo cuestiona si realmente no existía entre ellos alguien capaz de resolver estos asuntos.
 
 ##### Esto es especialmente fuerte después de toda la discusión acerca de verdadera sabiduría espiritual.
 
 ##### Los corintios se consideraban sabios, pero estaban mostrando incapacidad para resolver conflictos simples entre hermanos.
+
+###### La pregunta de Pablo expone nuevamente la tensión central de toda la carta:
+- una iglesia convencida de su sabiduría y espiritualidad,
+pero:
+- actuando de maneras profundamente inconsistentes con esa realidad.
 
 ### 1 Corintios 6:6
 sino que hermano contra hermano litiga, y esto ante incrédulos?
@@ -4107,10 +4334,20 @@ sino que hermano contra hermano litiga, y esto ante incrédulos?
 
 ##### Hermanos estaban enfrentándose públicamente unos contra otros.
 
+###### Pablo sigue exponiendo una profunda contradicción:
+- aquellos que compartían comunión en Cristo,
+- estaban destruyéndose mutuamente en conflictos públicos.
+
 #### y esto ante incrédulos?
 ##### Todo esto estaba ocurriendo delante de incrédulos.
 
 ##### Los conflictos internos de la iglesia estaban siendo expuestos delante del mundo.
+
+###### La iglesia que debía reflejar:
+- sabiduría,
+- unidad,
+- y discernimiento espiritual,
+estaba exponiendo públicamente sus divisiones delante de quienes estaban fuera.
 
 ### 1 Corintios 6:7
 Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí. ¿Por qué no sufren mejor la injusticia? ¿Por qué no ser mejor defraudados?
@@ -4120,10 +4357,22 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 
 ##### El problema no era solamente perder el caso, sino haber llegado a ese punto entre hermanos.
 
+###### La existencia misma de estos conflictos públicos ya dejaba expuesta una condición equivocada entre ellos.
+
 #### ¿Por qué no sufren mejor la injusticia?
 ##### Pablo presenta otra manera de pensar completamente distinta.
 
 ##### Antes que destruir la comunión entre hermanos, sería mejor sufrir injusticia.
+
+###### Pablo comienza a confrontar profundamente:
+- los derechos personales,
+- la autoprotección,
+- y la insistencia en defender lo propio.
+
+###### La perspectiva de Pablo no gira alrededor de:
+- ganar,
+- imponerse,
+- ni salir favorecido.
 
 #### ¿Por qué no ser mejor defraudados?
 ##### Pablo continúa empujando a los corintios hacia una perspectiva más madura.
@@ -4131,6 +4380,17 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 ##### Los corintios estaban luchando por proteger lo suyo, aun a costa de otros hermanos.
 
 ##### Pablo muestra que estaban pensando como hombres del mundo y no conforme a Cristo.
+
+###### La cruz ya había destruido:
+- la autosuficiencia,
+- la jactancia,
+- y la gloria humana.
+
+###### Sin embargo, los corintios todavía seguían defendiendo:
+- sus derechos,
+- sus intereses,
+- y su posición
+como hombres del mundo.
 
 ### 1 Corintios 6:8
 Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
@@ -4140,10 +4400,20 @@ Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *
 
 ##### Los corintios no eran solamente víctimas; también estaban defraudando a otros.
 
+###### Pablo expone que el problema no estaba solamente:
+- en el conflicto,
+sino:
+- en la manera egoísta y dañina en que estaban actuando.
+
 #### y esto aun a *sus propios* hermanos.
 ##### Lo más grave era que esto ocurría entre hermanos.
 
 ##### Estaban dañando precisamente a aquellos con quienes compartían comunión en Cristo.
+
+###### La gravedad de la situación aumenta porque:
+- no estaban actuando así contra extraños,
+sino:
+- contra miembros del mismo cuerpo.
 
 ### 1 Corintios 6:9
 ¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales
@@ -4157,13 +4427,29 @@ Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *
 
 ##### Los creyentes no pueden tratar la injusticia como algo compatible con la vida del reino de Dios.
 
+###### Pablo vuelve a confrontar la posibilidad de vivir:
+- seguros,
+- tranquilos,
+- y autoengañados,
+mientras se permanece en prácticas incompatibles con el reino de Dios.
+
 #### No se dejen engañar:
 ##### Pablo advierte a los corintios que no vivan bajo engaño.
 
 ##### El engaño produce una perspectiva equivocada acerca de la realidad.
 
+###### Nuevamente aparece el mismo peligro que atraviesa toda la carta:
+- pensar incorrectamente,
+- evaluarse incorrectamente,
+- y percibirse incorrectamente delante de Dios.
+
 #### ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados
 ##### Pablo continúa describiendo las prácticas que no corresponden al reino de Dios.
+
+###### Pablo no está describiendo:
+- debilidades pequeñas,
+- ni asuntos indiferentes,
+sino prácticas incompatibles con la realidad del reino de Dios.
 
 ### 1 Corintios 6:10
 ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.
@@ -4171,6 +4457,9 @@ ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los est
 ##### Pablo completa la lista de prácticas incompatibles con el reino de Dios.
 
 ##### Estas cosas describen la realidad de los injustos.
+
+###### Pablo continúa destruyendo cualquier percepción espiritual falsa que permitiera pensar:
+- que estas prácticas podían convivir normalmente con la vida del reino de Dios.
 
 ### 1 Corintios 6:11
 Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, pero fueron justificados en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
@@ -4182,6 +4471,12 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 
 ##### La lista no era algo distante de la experiencia de los corintios.
 
+###### Pablo no habla:
+- como alguien distante de ellos,
+- ni como si jamás hubieran estado en esa condición.
+
+###### Algunos de ellos habían vivido exactamente en esas mismas prácticas.
+
 #### pero fueron lavados,
 ##### Pablo comienza a contrastar lo que eran con lo que ahora son.
 
@@ -4189,20 +4484,34 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 
 ##### Esto describe una realidad ya ocurrida.
 
+###### Pablo vuelve nuevamente a dirigir toda la atención:
+- hacia aquello que Dios ya había hecho a favor de ellos.
+
 #### pero fueron santificados,
 ##### También habían sido santificados.
 
 ##### Dios ya los había apartado para Sí mismo.
+
+###### La vida presente de los corintios debía corresponder a esa realidad santa que ahora compartían en Cristo.
 
 #### pero fueron justificados
 ##### Los corintios también habían sido justificados.
 
 ##### Ya no permanecían bajo la misma condición anterior.
 
+###### Pablo continúa recordándoles que:
+- ya no pertenecían a la misma realidad anterior.
+
 #### en el nombre del Señor Jesucristo y en el Espíritu de nuestro Dios.
 ##### Todo esto ocurrió por medio del Señor Jesucristo y del Espíritu de Dios.
 
 ##### Pablo dirige toda la atención hacia la obra de Dios a favor de ellos.
+
+###### Una vez más, la identidad y realidad de los creyentes:
+- no descansan en sí mismos,
+- ni en mérito humano,
+sino:
+- en la obra realizada por Dios mediante Cristo y Su Espíritu.
 
 ## 6:12-20 La libertad, el cuerpo y la pertenencia entre los corintios
 
@@ -4216,12 +4525,31 @@ Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas 
 
 ##### La vida cristiana no se define solamente por lo permitido.
 
+###### Los corintios parecen estar razonando desde:
+- libertad,
+- conocimiento,
+- y derechos personales.
+
+###### Sin embargo, Pablo comienza a mover la discusión hacia:
+- provecho,
+- dominio,
+- y verdadera libertad.
+
 #### Todas las cosas me son lícitas, pero yo no me dejaré dominar por ninguna.
 ##### Pablo no permitiría que ninguna cosa lo dominara.
 
 ##### La libertad no debía convertirse en esclavitud.
 
 ##### Pablo continúa empujando a los corintios hacia una manera madura de pensar.
+
+###### Lo que aparentemente parecía:
+- libertad,
+- autonomía,
+- o control,
+podía terminar produciendo:
+- esclavitud,
+- dominio,
+- y sometimiento.
 
 ### 1 Corintios 6:13
 Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
@@ -4230,6 +4558,8 @@ Los alimentos son para el estómago y el estómago para los alimentos, pero Dios
 ##### Pablo presenta aquí una afirmación relacionada con cosas temporales.
 
 ##### Tanto los alimentos como el estómago pertenecen a una realidad pasajera.
+
+###### Pablo parece responder a una manera de pensar que reducía el cuerpo a algo meramente natural o pasajero.
 
 #### Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
 ##### Pablo contrasta inmediatamente el cuerpo con aquello anterior.
@@ -4240,6 +4570,15 @@ Los alimentos son para el estómago y el estómago para los alimentos, pero Dios
 
 ##### El Señor también es presentado en relación con el cuerpo del creyente.
 
+###### Pablo no permite separar:
+- espiritualidad,
+y:
+- cuerpo.
+
+###### El cuerpo del creyente ya no puede ser entendido:
+- independientemente de Cristo,
+- ni como algo sin significado espiritual.
+
 ### 1 Corintios 6:14
 Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
 
@@ -4248,6 +4587,13 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 ##### Dios resucitó al Señor y también resucitará a los creyentes.
 
 ##### Pablo conecta el cuerpo con una realidad futura y gloriosa.
+
+###### El cuerpo no es tratado:
+- como algo irrelevante,
+- temporalmente descartable,
+- ni separado de la obra de Dios.
+
+###### Dios mismo actuará sobre el cuerpo en la resurrección.
 
 ### 1 Corintios 6:15
 ¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera? ¡De ningún modo!
@@ -4259,13 +4605,31 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 
 ##### Pablo no está separando la vida espiritual del cuerpo.
 
+###### La unión con Cristo no es presentada:
+- como algo meramente interno,
+- abstracto,
+- o separado de la vida corporal.
+
+###### Los cuerpos mismos pertenecen a Cristo.
+
 #### ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera?
 ##### Pablo muestra lo incompatible de unir aquello que pertenece a Cristo con inmoralidad sexual.
 
 ##### La pregunta deja expuesta la gravedad de la situación.
 
+###### Pablo obliga a mirar la situación desde una perspectiva completamente distinta:
+- no solamente como un acto físico,
+sino:
+- como algo relacionado directamente con Cristo mismo.
+
 #### ¡De ningún modo!
 ##### Pablo rechaza completamente esa idea.
+
+###### La incompatibilidad entre:
+- Cristo,
+y:
+- la fornicación
+es absoluta.
 
 ### 1 Corintios 6:16
 ¿O no saben que el que se une a una ramera es un cuerpo *con ella?* Porque Él dice: «Los dos vendrán a ser una sola carne».
@@ -4275,10 +4639,14 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 
 ##### Pablo vuelve a usar otra pregunta apelando al conocimiento que ellos debían tener.
 
+###### Pablo continúa destruyendo cualquier manera superficial de pensar acerca del cuerpo y la sexualidad.
+
 #### Porque Él dice: «Los dos vendrán a ser una sola carne».
 ##### Pablo apoya esta afirmación con las Escrituras.
 
 ##### La unión sexual no es presentada como algo superficial.
+
+###### La realidad corporal tiene un significado profundo delante de Dios.
 
 ### 1 Corintios 6:17
 Pero el que se une al Señor, es un espíritu *con Él*.
@@ -4289,6 +4657,13 @@ Pero el que se une al Señor, es un espíritu *con Él*.
 
 ##### Pablo continúa mostrando que la fornicación contradice la realidad espiritual del creyente.
 
+###### Nuevamente aparece el gran contraste de esta sección:
+- aquello que los corintios podían estar separando,
+Pablo lo vuelve a unir completamente:
+- cuerpo,
+- pertenencia,
+- y unión con Cristo.
+
 ### 1 Corintios 6:18
 Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
 
@@ -4297,13 +4672,27 @@ Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están
 
 ##### La respuesta correcta frente a la fornicación no es acercarse, sino huir.
 
+###### Pablo no trata este pecado:
+- como algo pequeño,
+- controlable,
+- ni compatible con la vida en Cristo.
+
 #### Todos *los demás* pecados que un hombre comete están fuera del cuerpo,
 ##### Pablo establece aquí una distinción particular respecto a este pecado.
+
+###### Pablo continúa enfatizando la relación especial entre:
+- el cuerpo,
+- la sexualidad,
+- y la pertenencia espiritual del creyente.
 
 #### pero el fornicario peca contra su propio cuerpo.
 ##### La fornicación involucra el propio cuerpo de una manera especial.
 
 ##### Pablo continúa conectando este pecado con la realidad del cuerpo del creyente.
+
+###### El problema no es solamente moral.
+
+###### El creyente está actuando contra aquello que ahora pertenece al Señor.
 
 ### 1 Corintios 6:19
 ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
@@ -4315,15 +4704,34 @@ Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están
 
 ##### El Espíritu Santo habita en los creyentes.
 
+###### Pablo vuelve a redefinir completamente el cuerpo desde:
+- la presencia de Dios,
+- y la pertenencia al Espíritu.
+
+###### El cuerpo ya no puede verse:
+- como autónomo,
+- privado,
+- o separado de la realidad espiritual.
+
 #### el cual tienen de Dios
 ##### El Espíritu Santo fue dado por Dios mismo.
 
 ##### Esto vuelve a dirigir toda la atención hacia lo que Dios ha hecho.
 
+###### Nuevamente la realidad del creyente descansa:
+- en la obra de Dios,
+y no:
+- en sí mismo.
+
 #### y que ustedes no se pertenecen a sí mismos?
 ##### Los creyentes ya no se pertenecen a sí mismos.
 
 ##### Pablo muestra que la vida cristiana no puede ser vivida independientemente de Dios.
+
+###### Esta afirmación confronta profundamente:
+- la autonomía humana,
+- el derecho absoluto sobre uno mismo,
+- y la idea de libertad centrada en el hombre.
 
 ### 1 Corintios 6:20
 Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
@@ -4335,12 +4743,27 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 
 ##### Su vida ahora pertenece a Dios.
 
+###### La pertenencia a Cristo no es:
+- simbólica,
+- ni superficial.
+
+###### Fueron comprados realmente.
+
 #### Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
 ##### Pablo concluye con un mandato práctico.
 
 ##### Los creyentes pueden glorificar a Dios con sus cuerpos y con sus espíritus.
 
 ##### Tanto el cuerpo como el espíritu pertenecen a Dios.
+
+###### Pablo termina destruyendo cualquier separación falsa entre:
+- espiritualidad,
+- y vida corporal.
+
+###### La realidad de pertenecer a Cristo debía expresarse:
+- en el cuerpo,
+- en la vida,
+- y en toda la manera de vivir.
 
 ## 7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios
 
@@ -4358,12 +4781,19 @@ En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mu
 - y problemas que había oído acerca de ellos.
 
 ###### Ahora el flujo cambia.
+
 ###### Pablo comienza a responder preguntas que aparentemente los mismos corintios le enviaron.
+
+###### Esto permite percibir que los corintios:
+- estaban pensando activamente sobre estos temas,
+- dialogando sobre espiritualidad,
+- y tratando de entender cómo vivir correctamente.
 
 #### bueno es para el hombre no tocar mujer.
 ##### Pablo introduce ahora una afirmación acerca de no tocar mujer.
 
 ###### La expresión “tocar mujer” funciona aquí como una manera de referirse a relación sexual.
+
 ###### El contexto inmediato lo aclara porque los siguientes versículos hablan de:
 - inmoralidades,
 - matrimonio,
@@ -4374,7 +4804,10 @@ En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mu
 ##### Pablo sí reconoce algo positivo en abstenerse.
 
 ###### Sin embargo, Pablo no deja esta afirmación aislada.
+
 ###### El siguiente versículo inmediatamente comienza a limitar y contextualizar esta idea.
+
+###### Parece existir nuevamente una tendencia entre los corintios hacia posiciones extremas o desequilibradas.
 
 ### 1 Corintios 7:2
 No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido.
@@ -4387,12 +4820,14 @@ No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer
 ##### La realidad de las inmoralidades cambia la situación práctica.
 
 ###### Pablo no está hablando de sexualidad de manera abstracta.
+
 ###### Está considerando la realidad concreta de tentaciones e inmoralidades presentes.
 
 #### que cada uno tenga su propia mujer
 ##### Pablo manda que cada hombre tenga su propia mujer.
 
 ###### La respuesta de Pablo frente a las inmoralidades no es despreciar el matrimonio.
+
 ###### El matrimonio aparece como un contexto legítimo y correcto.
 
 ###### La expresión “su propia mujer” también mantiene el énfasis dentro de una relación definida y exclusiva.
@@ -4403,6 +4838,11 @@ No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer
 ###### Pablo no presenta la responsabilidad sexual como algo dirigido solamente al hombre.
 
 ##### El énfasis comienza a moverse hacia una responsabilidad mutua dentro del matrimonio.
+
+###### Pablo continúa alejándose:
+- del egoísmo,
+- de la autonomía individual,
+- y de una espiritualidad desconectada de la realidad relacional.
 
 ### 1 Corintios 7:3
 Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpla* con el marido.
@@ -4424,7 +4864,14 @@ Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpl
 ##### La responsabilidad matrimonial es presentada como recíproca.
 
 ###### Ninguno de los dos aparece como centro exclusivo de la relación.
+
 ###### Ambos deben considerar al otro.
+
+###### Pablo continúa redefiniendo las relaciones:
+- no desde autosuficiencia,
+- ni desde exigencias personales,
+sino:
+- desde responsabilidad mutua.
 
 ### 1 Corintios 7:4
 La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.
@@ -4458,6 +4905,10 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 - consideración mutua,
 - y autoridad mutua.
 
+###### Nuevamente aparece una confrontación importante contra:
+- la autonomía individual,
+- y la idea de pertenecer completamente a uno mismo.
+
 ### 1 Corintios 7:5
 No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, para dedicarse a la oración. Vuelvan después a juntarse, a fin de que Satanás no los tiente por causa de falta de dominio propio.
 
@@ -4468,6 +4919,11 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 
 ##### Privarse el uno al otro contradice la responsabilidad mutua que acaba de describir.
 
+###### Pablo continúa rechazando una espiritualidad que ignore:
+- el cuerpo,
+- la relación matrimonial,
+- o las responsabilidades mutuas.
+
 #### excepto de común acuerdo *y* por cierto tiempo
 ##### Pablo permite una excepción, pero la limita cuidadosamente.
 
@@ -4477,15 +4933,28 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 
 ##### No es una separación indefinida ni una decisión tomada por uno solo.
 
+###### Incluso la abstinencia espiritual debe mantenerse:
+- ordenada,
+- limitada,
+- y dentro de consideración mutua.
+
 #### para dedicarse a la oración.
 ##### El propósito de esa abstinencia temporal es la oración.
 
 ##### La abstinencia permitida aquí tiene una finalidad espiritual específica.
 
+###### Pablo no rechaza el deseo de dedicarse a asuntos espirituales.
+
+###### Sin embargo, tampoco permite separar eso:
+- de la realidad matrimonial,
+- ni de la responsabilidad mutua.
+
 #### Vuelvan después a juntarse
 ##### Pablo manda que después vuelvan a la relación normal del matrimonio.
 
 ##### La abstinencia temporal no debe convertirse en una forma permanente de vivir dentro del matrimonio.
+
+###### Pablo continúa llevando a los corintios hacia una visión equilibrada y sobria.
 
 #### a fin de que Satanás no los tiente por causa de falta de dominio propio.
 ##### Pablo da la razón práctica del mandato.
@@ -4493,6 +4962,11 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 ##### La falta de dominio propio puede convertirse en ocasión de tentación.
 
 ##### Pablo no trata el matrimonio como algo inferior, sino como un contexto legítimo donde se debe vivir con responsabilidad, cuidado mutuo y sobriedad espiritual.
+
+###### La espiritualidad verdadera no ignora:
+- la debilidad humana,
+- la tentación,
+- ni la necesidad de dominio propio.
 
 ### 1 Corintios 7:6
 Pero esto lo digo por vía de concesión, no como una orden.
@@ -4502,10 +4976,14 @@ Pero esto lo digo por vía de concesión, no como una orden.
 
 ##### Está permitiendo cierta práctica, no imponiéndola universalmente.
 
+###### Pablo continúa evitando extremos y absolutismos.
+
 #### no como una orden.
 ##### Pablo distingue entre una concesión y un mandato.
 
 ##### No todo en este contexto posee el mismo nivel de obligación.
+
+###### Pablo habla con cuidado y precisión pastoral mientras responde a las preguntas de los corintios.
 
 ### 1 Corintios 7:7
 Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cada cual ha recibido de Dios su propio don, unos de una manera y otros de otra.
@@ -4517,18 +4995,31 @@ Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cad
 
 ##### Sin embargo, Pablo no transforma su situación personal en una regla para todos.
 
-#### No obstante, cada cual ha recibido de Dios su propio don
+###### Pablo continúa evitando imponer su experiencia personal como medida universal para toda la iglesia.
 
+#### No obstante, cada cual ha recibido de Dios su propio don
 ##### Pablo reconoce que las situaciones no son iguales para todos.
 
 ##### Cada persona ha recibido algo distinto de parte de Dios.
 
 ##### Pablo presenta estas diferencias como dones dados por Dios.
 
+###### Nuevamente la atención es dirigida:
+- hacia lo que Dios da,
+y no:
+- hacia comparaciones humanas,
+- autosuficiencia,
+- o imposición de una sola condición para todos.
+
 #### unos de una manera y otros de otra.
 ##### Dios no da exactamente lo mismo a todos.
 
 ##### Pablo reconoce diversidad dentro de la vida de los creyentes.
+
+###### La vida cristiana no es presentada:
+- como uniformidad absoluta,
+sino:
+- como una realidad donde Dios obra de maneras distintas en diferentes personas.
 
 ## 7:8-24 La manera en que los corintios debían vivir sus relaciones y condición actual
 
@@ -4538,12 +5029,18 @@ A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
 #### A los solteros y a las viudas digo
 ##### Pablo dirige ahora su atención específicamente a los solteros y a las viudas.
 
+###### Pablo continúa respondiendo situaciones concretas dentro de la vida relacional de los creyentes.
+
 #### que es bueno para ellos si se quedan como yo.
 ##### Pablo vuelve a considerar buena su propia condición.
 
 ##### Permanecer sin casarse es presentado como algo bueno.
 
 ##### Sin embargo, Pablo sigue hablando dentro del marco de concesión y no de obligación universal.
+
+###### Pablo no convierte su situación personal:
+- en medida absoluta,
+- ni en una forma superior obligatoria para todos.
 
 ### 1 Corintios 7:9
 Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
@@ -4553,15 +5050,29 @@ Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
 
 ##### No todos poseen el mismo dominio propio.
 
+###### Pablo continúa tratando estos asuntos:
+- con realismo,
+- sobriedad,
+- y consideración práctica de la condición humana.
+
 #### cásense.
 ##### Pablo manda casarse en ese caso.
 
 ##### El matrimonio no es presentado aquí como algo inferior o incorrecto.
 
+###### Pablo continúa alejándose de extremos:
+- ni desprecia el matrimonio,
+- ni obliga a todos a permanecer solteros.
+
 #### Que mejor es casarse que quemarse.
 ##### Pablo considera preferible el matrimonio antes que vivir consumido por deseo descontrolado.
 
 ##### Pablo continúa tratando el tema de manera sobria y práctica.
+
+###### La espiritualidad no es presentada:
+- como negación artificial de la realidad humana,
+sino:
+- como una vida ordenada correctamente delante de Dios.
 
 ### 1 Corintios 7:10
 A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al marido.
@@ -4571,10 +5082,17 @@ A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al mar
 
 ##### Aquí apela directamente a una enseñanza del Señor.
 
+###### Pablo continúa respondiendo cuidadosamente cada situación:
+- distinguiendo,
+- aclarando,
+- y precisando sus instrucciones.
+
 #### que la mujer no debe dejar al marido.
 ##### La mujer no debe separarse de su marido.
 
 ##### Pablo presenta esto como una instrucción clara.
+
+###### Pablo continúa afirmando el valor y permanencia de la relación matrimonial.
 
 ### 1 Corintios 7:11
 Pero si lo deja, quédese sin casar, o *de lo contrario* que se reconcilie con su marido, y que el marido no abandone a su mujer.
@@ -4584,18 +5102,29 @@ Pero si lo deja, quédese sin casar, o *de lo contrario* que se reconcilie con s
 
 ##### Pablo no está describiendo aquí una situación ideal.
 
+###### Pablo trata situaciones reales y concretas que efectivamente podían ocurrir entre los creyentes.
+
 #### quédese sin casar
 ##### Una posibilidad es permanecer sin casarse.
+
+###### Pablo no introduce inmediatamente una nueva relación como solución automática.
 
 #### o *de lo contrario* que se reconcilie con su marido
 ##### La otra posibilidad es reconciliarse con su marido.
 
 ##### Pablo sigue considerando importante la reconciliación matrimonial.
 
+###### El énfasis continúa orientado:
+- hacia restauración,
+- permanencia,
+- y paz dentro de la relación.
+
 #### y que el marido no abandone a su mujer.
 ##### Pablo aplica también responsabilidad al marido.
 
 ##### El hombre tampoco debe abandonar a su mujer.
+
+###### Nuevamente Pablo mantiene responsabilidad mutua entre ambos.
 
 ### 1 Corintios 7:12
 Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que no es creyente, y ella consiente en vivir con él, no la abandone.
@@ -4605,13 +5134,19 @@ Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que n
 
 ##### No significa que lo dicho tenga menos valor, sino que no está citando directamente una enseñanza previa del Señor sobre este caso específico.
 
+###### Pablo continúa respondiendo cuidadosamente situaciones particulares que estaban surgiendo entre los corintios.
+
 #### que si un hermano tiene una mujer que no es creyente, y ella consiente en vivir con él
 ##### Pablo ahora trata el caso de matrimonios mixtos entre creyente e incrédulo.
 
 ##### El problema no es solamente el matrimonio, sino la convivencia dentro de esa diferencia espiritual.
 
+###### Parece que algunos podían pensar que la diferencia espiritual exigía romper inmediatamente la relación.
+
 #### no la abandone.
 ##### El creyente no debe abandonar a la mujer incrédula si ella desea permanecer en el matrimonio.
+
+###### La presencia de un incrédulo no convierte automáticamente el matrimonio en algo ilegítimo.
 
 ### 1 Corintios 7:13
 Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no abandone a su marido.
@@ -4619,29 +5154,45 @@ Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no aba
 #### Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella
 ##### Pablo aplica exactamente el mismo principio a la mujer creyente.
 
+###### Nuevamente Pablo mantiene equilibrio entre hombre y mujer dentro de sus instrucciones.
+
 #### no abandone a su marido.
 ##### La mujer creyente tampoco debe abandonar al marido incrédulo si él desea continuar en la relación.
+
+###### Pablo continúa promoviendo:
+- estabilidad,
+- paz,
+- y permanencia
+dentro de la relación matrimonial.
 
 ### 1 Corintios 7:14
 Porque el marido que no es creyente es santificado por medio de su mujer; y la mujer que no es creyente es santificada por medio de su marido creyente. De otra manera sus hijos serían inmundos, pero ahora son santos.
 
 #### Porque el marido que no es creyente es santificado por medio de su mujer
-
 ##### Pablo da la razón por la cual no debe abandonarse ese matrimonio.
 
 ##### El incrédulo es descrito como santificado en relación con el creyente.
 
-#### y la mujer que no es creyente es santificada por medio de su marido creyente.
+###### Pablo no presenta la presencia del incrédulo:
+- como contaminación automática,
+sino:
+- dentro de una realidad distinta producida por la presencia del creyente.
 
+#### y la mujer que no es creyente es santificada por medio de su marido creyente.
 ##### Pablo aplica el mismo principio en dirección contraria.
 
 ##### La presencia del creyente produce una realidad distinta dentro del hogar.
 
-#### De otra manera sus hijos serían inmundos, pero ahora son santos.
+###### Pablo continúa mostrando que la relación matrimonial no queda anulada automáticamente por la diferencia espiritual.
 
+#### De otra manera sus hijos serían inmundos, pero ahora son santos.
 ##### Pablo también incluye a los hijos dentro de esta realidad.
 
 ##### Los hijos son descritos como santos y no inmundos.
+
+###### Pablo continúa describiendo el hogar del creyente:
+- desde una perspectiva distinta,
+- marcada por la presencia del pueblo de Dios.
 
 ### 1 Corintios 7:15
 Sin embargo, si el que no es creyente se separa, que se separe. En tales *casos* el hermano o la hermana no están obligados, sino que Dios nos ha llamado *para vivir* en paz.
@@ -4651,14 +5202,24 @@ Sin embargo, si el que no es creyente se separa, que se separe. En tales *casos*
 
 ##### Si el incrédulo decide irse, el creyente no debe impedirlo a toda costa.
 
-#### En tales *casos* el hermano o la hermana no están obligados
+###### Pablo continúa tratando estas situaciones:
+- con sobriedad,
+- realismo,
+- y paz.
 
+#### En tales *casos* el hermano o la hermana no están obligados
 ##### Pablo afirma que el creyente no queda esclavizado en esa situación.
+
+###### La vida cristiana no es presentada:
+- como esclavitud desesperada,
+- ni como lucha incontrolable por mantener toda situación a cualquier costo.
 
 #### sino que Dios nos ha llamado *para vivir* en paz.
 ##### Dios llamó a los creyentes a vivir en paz.
 
 ##### Pablo continúa enfocándose en una vida ordenada delante del Señor.
+
+###### La paz aparece nuevamente como parte importante de la vida del creyente.
 
 ### 1 Corintios 7:16
 Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, marido, si salvarás a tu mujer?
@@ -4668,10 +5229,17 @@ Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, ma
 
 ##### La creyente no puede garantizar la salvación de su marido.
 
+###### Pablo continúa alejando:
+- el control,
+- la autosuficiencia,
+- y la ilusión de manejar completamente los resultados espirituales.
+
 #### ¿O cómo sabes tú, marido, si salvarás a tu mujer?
 ##### Pablo aplica exactamente el mismo principio al hombre.
 
 ##### El creyente no controla finalmente el resultado espiritual del cónyuge.
+
+###### La salvación permanece finalmente bajo la obra y soberanía de Dios.
 
 ### 1 Corintios 7:17
 Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cada cual, así ande. Esto ordeno en todas las iglesias.
@@ -4681,20 +5249,33 @@ Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cad
 
 ##### Cada creyente debe considerar aquello que el Señor le ha asignado.
 
+###### Pablo comienza a mover la discusión:
+- desde casos particulares,
+hacia:
+- un principio general para la vida cristiana.
+
 #### según Dios llamó a cada cual
 ##### Pablo vuelve nuevamente al tema del llamado.
 
 ##### Dios llamó a cada creyente dentro de una situación concreta.
+
+###### El llamado de Dios no comienza necesariamente:
+- después de cambiar todas las circunstancias externas.
 
 #### así ande.
 ##### Pablo manda vivir correctamente dentro de esa condición.
 
 ##### El énfasis no está en cambiar inmediatamente de situación, sino en caminar correctamente delante del Señor.
 
+###### Pablo continúa corrigiendo una posible tendencia:
+- a pensar que espiritualidad significa necesariamente abandonar inmediatamente toda condición presente.
+
 #### Esto ordeno en todas las iglesias.
 ##### Pablo aclara que esta enseñanza no era exclusiva para Corinto.
 
 ##### Este era el mismo principio que enseñaba en todas las iglesias.
+
+###### Pablo presenta esto como una instrucción amplia y consistente para el pueblo de Dios.
 
 ### 1 Corintios 7:18
 ¿Fue llamado alguno *ya* circuncidado? Quédese circuncidado. ¿Fue llamado alguien estando incircuncidado? No se circuncide.
@@ -4706,10 +5287,19 @@ Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cad
 
 ##### Pablo sigue insistiendo en permanecer correctamente dentro de la condición en que fueron llamados.
 
+###### Pablo continúa desplazando la atención:
+- de transformaciones externas inmediatas,
+hacia:
+- una vida correctamente ordenada delante de Dios.
+
 #### ¿Fue llamado alguien estando incircuncidado? No se circuncide.
 ##### Pablo aplica el mismo principio al incircunciso.
 
 ##### La circuncisión no debía ser vista como algo necesario para completar la realidad del creyente.
+
+###### La condición espiritual del creyente no dependía:
+- de modificar externamente su situación,
+- ni de adoptar marcas externas para obtener mayor aceptación delante de Dios.
 
 ### 1 Corintios 7:19
 La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mandamientos de Dios.
@@ -4721,10 +5311,22 @@ La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mand
 
 ##### Los corintios necesitaban dejar de pensar en términos externos como si eso definiera su valor o condición delante de Dios.
 
+###### Pablo continúa destruyendo:
+- categorías humanas de valoración,
+- superioridad externa,
+- y confianza en condiciones visibles.
+
 #### sino el guardar los mandamientos de Dios.
 ##### Pablo dirige ahora la atención hacia la obediencia a Dios.
 
 ##### La realidad importante no era la condición externa sino caminar correctamente delante de Dios.
+
+###### Nuevamente Pablo desplaza el énfasis:
+- desde apariencia,
+- condición,
+- o estatus,
+hacia:
+- una vida ordenada delante de Dios.
 
 ### 1 Corintios 7:20
 Cada uno permanezca en la condición en que fue llamado
@@ -4736,6 +5338,9 @@ Cada uno permanezca en la condición en que fue llamado
 
 ##### El énfasis sigue siendo aprender a vivir correctamente para el Señor dentro de la situación presente.
 
+###### Pablo continúa confrontando una posible idea equivocada:
+- que la espiritualidad consiste principalmente en cambiar externamente de condición.
+
 ### 1 Corintios 7:21
 ¿Fuiste llamado siendo esclavo? No te preocupes. Aunque si puedes obtener tu libertad, prefiérelo.
 
@@ -4746,12 +5351,22 @@ Cada uno permanezca en la condición en que fue llamado
 
 ##### Pablo no permite que la condición social defina la realidad del creyente.
 
+###### Incluso una condición social tan fuerte como la esclavitud:
+- no anulaba,
+- ni disminuía,
+la realidad del llamado de Dios.
+
 #### Aunque si puedes obtener tu libertad, prefiérelo.
 ##### Pablo no está exaltando la esclavitud como algo superior.
 
 ##### Si existe oportunidad legítima de libertad, Pablo dice que se aproveche.
 
 ##### Sin embargo, la identidad del creyente sigue sin depender finalmente de esa condición externa.
+
+###### Pablo continúa manteniendo equilibrio:
+- no absolutiza la condición presente,
+pero tampoco:
+- hace depender toda la vida espiritual del cambio externo.
 
 ### 1 Corintios 7:22
 Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señor. De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
@@ -4763,12 +5378,25 @@ Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señ
 
 ##### El llamado del Señor introduce una realidad superior a la condición social.
 
+###### Pablo continúa reinterpretando completamente la identidad humana desde la pertenencia a Cristo.
+
 #### De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
 ##### Pablo invierte ahora la situación del hombre libre.
 
 ##### Aunque socialmente sea libre, pertenece completamente a Cristo.
 
 ##### Tanto el esclavo como el libre son reinterpretados desde su relación con el Señor.
+
+###### Pablo destruye cualquier base para:
+- orgullo,
+- superioridad,
+- o autosuficiencia
+basadas en condición social.
+
+###### Ambos:
+- esclavo,
+- y libre,
+quedan finalmente definidos desde Cristo.
 
 ### 1 Corintios 7:23
 Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
@@ -4780,10 +5408,20 @@ Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
 
 ##### Su identidad principal ya no proviene de los hombres.
 
+###### La pertenencia a Cristo redefine:
+- identidad,
+- valor,
+- y relación con toda otra autoridad humana.
+
 #### No se hagan esclavos de los hombres.
 ##### Pablo exhorta a no colocarse bajo esclavitud humana.
 
 ##### La realidad de pertenecer a Cristo redefine toda otra relación.
+
+###### Pablo continúa alejando a los corintios:
+- de dependencia humana,
+- de definirse según hombres,
+- y de someter completamente su identidad a categorías humanas.
 
 ### 1 Corintios 7:24
 Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
@@ -4795,256 +5433,636 @@ Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
 
 ##### La presencia de Dios redefine completamente la situación presente.
 
+###### La condición externa ya no es presentada:
+- como vacía,
+- ni como separada de Dios,
+porque ahora el creyente permanece:
+- con Dios,
+- dentro de esa misma condición.
+
 #### en la condición en que fue llamado.
 ##### El llamado de Dios sigue siendo el centro del argumento.
 
 ##### Pablo continúa insistiendo en aprender a vivir correctamente delante de Dios dentro de la condición presente.
 
-## 7:25-40 Las condiciones presentes, el matrimonio y las preocupaciones entre los corintios
-
-### 1 Corintios 7:25
-En cuanto a las vírgenes no tengo mandamiento del Señor, pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.
-
-#### En cuanto a las vírgenes no tengo mandamiento del Señor
-##### Pablo vuelve a distinguir entre un mandamiento directo del Señor y su propia instrucción apostólica.
-
-##### Está entrando ahora en otro caso específico relacionado con personas no casadas.
-
-#### pero doy mi opinión como el que habiendo recibido la misericordia del Señor es digno de confianza.
-##### Pablo no presenta su opinión como algo vacío o casual.
-
-##### Habla como alguien que recibió misericordia del Señor.
-
-##### También se presenta como alguien digno de confianza.
-
-##### Pablo sigue guiando pastoralmente a los corintios en asuntos prácticos de la vida.
-
-### 1 Corintios 7:26
-Creo, pues, que esto es bueno en vista de la presente aflicción; *es decir,* que es bueno que el hombre se quede como está.
-
-#### Creo, pues, que esto es bueno en vista de la presente aflicción
-##### Pablo conecta ahora su consejo con una situación presente de aflicción.
-
-##### La circunstancia actual influye en la manera en que evalúa estas decisiones.
-
-#### *es decir,* que es bueno que el hombre se quede como está.
-##### Pablo vuelve nuevamente al mismo principio repetido a lo largo del capítulo.
-
-##### Permanecer como uno está es presentado como algo bueno dentro de este contexto.
-
-##### Pablo continúa relativizando las condiciones externas y enfocando la atención en vivir correctamente delante del Señor.
-
-### 1 Corintios 7:27
-¿Estás unido a mujer? No procures separarte. ¿Estás libre de mujer? No busques mujer.
-
-#### ¿Estás unido a mujer? No procures separarte.
-##### Pablo vuelve nuevamente al principio de permanecer en la condición presente.
-
-##### El casado no debe buscar separarse.
-
-##### Pablo sigue tratando de estabilizar a los corintios y evitar decisiones impulsivas.
-
-#### ¿Estás libre de mujer? No busques mujer.
-##### Pablo también considera buena la condición del soltero.
-
-##### No está imponiendo prohibición de casarse, sino mostrando que no es necesario cambiar de condición.
-
-### 1 Corintios 7:28
-Y si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, ellos tendrán problemas en esta vida, y yo quiero evitárse*los*.
-
-#### Y si te casas, no has pecado; y si una virgen se casa, no ha pecado.
-##### Pablo aclara nuevamente que el matrimonio no es pecado.
-
-##### Ni el hombre ni la mujer pecan al casarse.
-
-##### Pablo evita que sus palabras sean entendidas como prohibición absoluta del matrimonio.
-
-#### Sin embargo, ellos tendrán problemas en esta vida
-##### Pablo reconoce que el matrimonio trae consigo preocupaciones y dificultades propias de esta vida presente.
-
-##### El problema no es el matrimonio en sí, sino las cargas adicionales relacionadas con esta vida temporal.
-
-#### y yo quiero evitárse*los*.
-##### Pablo desea evitarles sufrimientos innecesarios.
-
-##### Su consejo surge desde una preocupación pastoral y práctica.
-
-### 1 Corintios 7:29
-Pero esto digo, hermanos: el tiempo ha sido acortado; de modo que de ahora en adelante los que tienen mujer sean como si no la tuvieran
-
-#### Pero esto digo, hermanos: el tiempo ha sido acortado
-##### Pablo ahora introduce una perspectiva mucho más amplia.
-
-##### La realidad del tiempo presente debe ser entendida a la luz de que el tiempo ha sido acortado.
-
-##### Esto comienza a reinterpretar todas las relaciones y circunstancias temporales.
-
-#### de modo que de ahora en adelante los que tienen mujer sean como si no la tuvieran
-##### Pablo no está negando el matrimonio.
-
-##### Está mostrando que incluso las relaciones más importantes de esta vida no deben ser vividas como realidades definitivas.
-
-##### La relación con el Señor redefine la manera de vivir todas las demás relaciones.
-
-### 1 Corintios 7:30
-los que lloran, como si no lloraran; los que se regocijan, como si no se regocijaran; los que compran, como si no tuvieran nada
-
-#### los que lloran, como si no lloraran
-##### El sufrimiento presente no define finalmente la realidad del creyente.
-
-#### los que se regocijan, como si no se regocijaran
-##### Tampoco el gozo temporal debe convertirse en algo absoluto.
-
-#### los que compran, como si no tuvieran nada
-##### Las posesiones materiales tampoco son la realidad definitiva del creyente.
-
-##### Pablo continúa relativizando todas las cosas temporales.
+###### El énfasis de Pablo sigue siendo:
+- pertenencia al Señor,
+- caminar correctamente delante de Él,
+- y vivir desde la realidad del llamado de Dios,
+más que:
+- perseguir continuamente cambios externos como fundamento de espiritualidad.
 
 ### 1 Corintios 7:31
-los que aprovechan el mundo, como si no *lo* aprovecharan plenamente; porque la apariencia de este mundo es pasajera.
+y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.
 
-#### los que aprovechan el mundo, como si no *lo* aprovecharan plenamente
-##### Los creyentes pueden usar las cosas de este mundo.
+#### y los que usan el mundo, como si no lo usaran plenamente
+##### Pablo continúa desarrollando la misma perspectiva de los versículos anteriores.
+
+##### Los creyentes viven dentro del mundo y usan cosas de esta vida presente.
 
 ##### Sin embargo, no deben vivir absorbidos completamente por ellas.
 
-#### porque la apariencia de este mundo es pasajera.
-##### Pablo da la razón para esta manera de vivir.
+###### Pablo continúa relativizando:
+- posesiones,
+- experiencias,
+- relaciones,
+- y circunstancias temporales.
 
-##### La forma presente de este mundo está pasando.
+###### Nada de esto debe convertirse en:
+- la realidad definitiva,
+- ni en aquello que controla completamente la vida del creyente.
 
-##### Toda la vida presente debe interpretarse desde esa realidad.
+#### porque la apariencia de este mundo pasa.
+##### Pablo da la razón de esta perspectiva.
+
+##### La apariencia presente de este mundo está pasando.
+
+##### Todo lo visible y temporal pertenece a una realidad transitoria.
+
+###### Pablo continúa empujando a los corintios:
+- fuera de una mentalidad centrada en lo inmediato,
+y:
+- hacia una perspectiva gobernada por la realidad del Señor y Su venida.
 
 ### 1 Corintios 7:32
-Sin embargo, quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor.
+Pero yo quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
 
-#### Sin embargo, quiero que estén libres de preocupación.
-##### Pablo vuelve a explicar la intención detrás de sus consejos.
+#### Pero yo quiero que estén libres de preocupación.
+##### Pablo ahora explica más claramente la intención práctica de su consejo.
 
-##### No está intentando imponer cargas, sino evitar preocupaciones innecesarias.
+##### Su deseo no es producir cargas adicionales.
 
-#### El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor.
-##### El soltero posee una libertad particular para enfocarse en las cosas del Señor.
+##### Pablo quiere que los creyentes estén libres de preocupaciones innecesarias.
 
-##### Pablo presenta esto como una ventaja práctica de la soltería.
+###### El consejo de Pablo continúa moviéndose:
+- desde una preocupación pastoral,
+- práctica,
+- y espiritual.
+
+#### El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
+##### Pablo describe una ventaja práctica de la soltería.
+
+##### El soltero posee mayor libertad para concentrarse en las cosas del Señor.
+
+##### El enfoque principal del soltero puede dirigirse hacia agradar al Señor.
+
+###### Pablo no está exaltando:
+- egoísmo,
+- independencia,
+- ni aislamiento.
+
+###### Está hablando de:
+- enfoque,
+- disponibilidad,
+- y menor división de preocupaciones.
 
 ### 1 Corintios 7:33
-Pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer
+pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
 
-#### Pero el casado se preocupa por las cosas del mundo
-##### El matrimonio introduce responsabilidades legítimas relacionadas con esta vida.
+#### pero el casado se preocupa por las cosas del mundo
+##### Pablo ahora contrasta la situación del casado.
 
-##### Pablo no condena esas preocupaciones.
+##### El casado necesariamente debe atender asuntos relacionados con esta vida presente.
 
-#### de cómo agradar a su mujer
+##### El matrimonio trae responsabilidades reales.
+
+###### Pablo no presenta esto:
+- como pecado,
+- ni como inferioridad espiritual.
+
+###### Simplemente describe una realidad práctica diferente.
+
+#### de cómo agradar a su mujer,
 ##### El hombre casado debe considerar a su esposa.
 
-##### El matrimonio trae consigo responsabilidades reales hacia el otro.
+##### El matrimonio introduce responsabilidades legítimas hacia otra persona.
+
+###### Pablo continúa afirmando:
+- responsabilidad,
+- cuidado mutuo,
+- y atención relacional
+dentro del matrimonio.
 
 ### 1 Corintios 7:34
-y *sus intereses* están divididos. La mujer que no está casada y la virgen se preocupan por las cosas del Señor, para ser santas tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
+y sus intereses están divididos. La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor, para ser santa tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
 
-#### y *sus intereses* están divididos.
-##### El casado debe repartir su atención entre distintas responsabilidades.
+#### y sus intereses están divididos.
+##### El casado debe dividir necesariamente su atención entre distintas responsabilidades.
 
-##### Pablo sigue hablando en términos prácticos y no condenatorios.
+##### Pablo continúa hablando en términos prácticos y no condenatorios.
 
-#### La mujer que no está casada y la virgen se preocupan por las cosas del Señor
-##### La mujer soltera posee mayor libertad para concentrarse en el Señor.
+###### El matrimonio introduce:
+- preocupaciones legítimas,
+- responsabilidades legítimas,
+- y atención compartida.
 
-#### para ser santas tanto en cuerpo como en espíritu
-##### Pablo conecta esta dedicación con una vida apartada para el Señor.
+#### La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor
+##### Pablo aplica ahora el mismo principio a la mujer soltera.
+
+##### La mujer no casada posee mayor libertad para enfocarse en las cosas del Señor.
+
+###### Pablo mantiene nuevamente equilibrio:
+- entre hombre y mujer,
+- entre casado y soltero.
+
+#### para ser santa tanto en cuerpo como en espíritu
+##### Pablo describe un enfoque integral hacia el Señor.
+
+##### Tanto el cuerpo como el espíritu aparecen dirigidos hacia Él.
+
+###### Nuevamente Pablo no separa:
+- cuerpo,
+- espiritualidad,
+- y vida práctica.
 
 #### pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
 ##### La mujer casada también posee responsabilidades legítimas hacia su marido.
 
-##### Pablo continúa mostrando las diferencias prácticas entre ambas condiciones.
+##### El matrimonio introduce atención y cuidado hacia el cónyuge.
+
+###### Pablo continúa describiendo:
+- diferencias prácticas de enfoque,
+y no:
+- categorías superiores o inferiores de espiritualidad.
 
 ### 1 Corintios 7:35
-Esto digo para su propio beneficio; no para ponerles restricción, sino para *promover* lo que es honesto y para *asegurar su* constante devoción al Señor.
+Esto lo digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es decente y asegurar su constante devoción al Señor.
 
-#### Esto digo para su propio beneficio
-##### Pablo insiste nuevamente en que busca el bien de los creyentes.
+#### Esto lo digo para su propio beneficio
+##### Pablo aclara nuevamente la intención de toda esta enseñanza.
+
+##### Su propósito es el beneficio espiritual y práctico de los creyentes.
+
+###### Pablo continúa guiando:
+- pastoralmente,
+- cuidadosamente,
+- y con consideración hacia la situación real de los corintios.
 
 #### no para ponerles restricción
-##### Pablo no intenta atraparlos bajo reglas rígidas.
+##### Pablo no busca imponer una carga innecesaria.
 
-##### Sus palabras no buscan producir esclavitud.
+##### No está intentando controlar rígidamente las decisiones personales de los creyentes.
 
-#### sino para *promover* lo que es honesto
+###### Pablo evita transformar su consejo:
+- en legalismo,
+- presión,
+- o imposición absoluta.
+
+#### sino para promover lo que es decente
 ##### Pablo desea promover una vida ordenada y apropiada delante del Señor.
 
-#### y para *asegurar su* constante devoción al Señor.
-##### El objetivo principal es una vida dedicada constantemente al Señor.
+##### El enfoque sigue siendo vivir correctamente dentro de la condición presente.
 
-##### La preocupación central de Pablo sigue siendo la relación del creyente con Cristo.
+###### La preocupación de Pablo continúa siendo:
+- estabilidad,
+- orden,
+- y una vida correctamente orientada hacia el Señor.
+
+#### y asegurar su constante devoción al Señor.
+##### Pablo desea que los creyentes puedan dedicarse constantemente al Señor.
+
+##### La meta principal sigue siendo una vida enfocada correctamente en Él.
+
+###### Toda la discusión sobre:
+- matrimonio,
+- soltería,
+- relaciones,
+- y condición presente,
+finalmente apunta:
+- hacia una vida correctamente entregada al Señor.
 
 ### 1 Corintios 7:36
-Y si alguien cree que no está obrando correctamente con respecto a su *hija* virgen, si ella es de edad madura, y si es necesario que así se haga, que haga lo que quiera, no peca; que se case
+Pero si alguno piensa que está obrando impropiamente para con su hija virgen, si ella está ya pasada de edad, y así debe hacerse, haga lo que quiera, no peca; que se case.
 
-#### Y si alguien cree que no está obrando correctamente con respecto a su *hija* virgen
-##### Pablo contempla ahora otra situación práctica relacionada con una hija virgen.
+#### Pero si alguno piensa que está obrando impropiamente para con su hija virgen
+##### Pablo ahora considera otra situación práctica relacionada con una virgen no casada.
 
-#### si ella es de edad madura, y si es necesario que así se haga
-##### Pablo reconoce circunstancias donde el matrimonio puede ser apropiado y necesario.
+##### Pablo continúa tratando estos asuntos con flexibilidad y cuidado pastoral.
 
-#### que haga lo que quiera, no peca; que se case
-##### Nuevamente Pablo aclara que casarse no constituye pecado.
+#### si ella está ya pasada de edad, y así debe hacerse
+##### Pablo reconoce circunstancias concretas donde el matrimonio puede resultar apropiado.
+
+##### No todas las situaciones deben resolverse exactamente de la misma manera.
+
+###### Pablo continúa evitando:
+- reglas rígidas,
+- y soluciones absolutas para todos.
+
+#### haga lo que quiera, no peca; que se case.
+##### Pablo vuelve a aclarar que el matrimonio no constituye pecado.
+
+##### Casarse permanece como una opción legítima.
+
+###### Nuevamente Pablo mantiene equilibrio:
+- ni obliga a casarse,
+- ni prohíbe hacerlo.
 
 ### 1 Corintios 7:37
-Pero el que está firme en su corazón, y sin presión alguna, y tiene control sobre su propia voluntad, y ha decidido en su corazón conservar virgen a su *hija,* bien hará.
+Pero el que está firme en su corazón, y no está bajo obligación, sino que tiene dominio sobre su propia voluntad, y ha decidido esto en su corazón, el conservar a su propia hija virgen, bien hará.
 
 #### Pero el que está firme en su corazón
-##### Pablo describe aquí una decisión tomada con firmeza y convicción.
+##### Pablo describe aquí otra posibilidad distinta.
 
-#### y sin presión alguna
-##### La decisión no debe surgir por obligación externa.
+##### Algunas personas pueden decidir permanecer en esa condición con firmeza y convicción.
 
-#### y tiene control sobre su propia voluntad
-##### Pablo vuelve nuevamente al tema del dominio propio.
+#### y no está bajo obligación
+##### La decisión no debe surgir de presión externa.
 
-#### y ha decidido en su corazón conservar virgen a su *hija,* bien hará.
-##### Permanecer sin casar también es presentado como algo bueno.
+##### Pablo continúa considerando importante la libertad y convicción personal delante del Señor.
+
+#### sino que tiene dominio sobre su propia voluntad
+##### El dominio propio vuelve a aparecer como algo importante.
+
+##### Pablo continúa valorando una vida ordenada y controlada correctamente.
+
+#### y ha decidido esto en su corazón
+##### La decisión debe surgir de convicción personal consciente.
+
+##### Pablo sigue hablando en términos de sabiduría práctica y no de imposición universal.
+
+#### el conservar a su propia hija virgen, bien hará.
+##### Pablo considera buena también esta decisión.
+
+##### Ambas posibilidades siguen siendo tratadas como legítimas.
 
 ### 1 Corintios 7:38
-Así los dos, el que da en matrimonio a su *hija* virgen, hace bien; y el que no la da en matrimonio, hace mejor.
+Así que, el que da a su hija virgen en matrimonio hace bien, y el que no la da en matrimonio hará mejor.
 
-#### Así los dos, el que da en matrimonio a su *hija* virgen, hace bien
-##### Pablo afirma nuevamente que el matrimonio es bueno.
+#### Así que, el que da a su hija virgen en matrimonio hace bien
+##### Pablo vuelve a afirmar claramente que el matrimonio es algo bueno.
 
-#### y el que no la da en matrimonio, hace mejor.
-##### Sin embargo, dentro de este contexto específico, Pablo considera preferible permanecer sin casar.
+##### Casar a la hija no constituye error ni pecado.
 
-##### Esto sigue conectado con la aflicción presente y la devoción al Señor.
+#### y el que no la da en matrimonio hará mejor.
+##### Pablo continúa considerando preferible permanecer sin casarse dentro de la situación presente que viene describiendo.
+
+##### Sin embargo, sigue hablando en términos de conveniencia y no de mandamiento absoluto.
+
+###### Pablo continúa moviéndose:
+- dentro de consejo pastoral,
+- prudencia,
+- y consideración práctica del tiempo presente.
 
 ### 1 Corintios 7:39
-La mujer está ligada mientras el marido vive; pero si el marido muere, está en libertad de casarse con quien desee, solo que *sea* en el Señor.
+La mujer está ligada mientras su marido vive; pero si su marido muere, está en libertad de casarse con quien quiera, solo que en el Señor.
 
-#### La mujer está ligada mientras el marido vive
-##### Pablo describe el matrimonio como un vínculo real y continuo.
+#### La mujer está ligada mientras su marido vive
+##### Pablo vuelve nuevamente al carácter vinculante del matrimonio.
 
-#### pero si el marido muere, está en libertad de casarse con quien desee
-##### La muerte rompe ese vínculo matrimonial.
+##### La relación matrimonial permanece mientras el marido vive.
 
-##### La viuda posee libertad para volver a casarse.
+#### pero si su marido muere, está en libertad de casarse con quien quiera
+##### La muerte rompe esa obligación matrimonial.
 
-#### solo que *sea* en el Señor.
-##### Sin embargo, Pablo establece un límite importante.
+##### La mujer queda libre para volver a casarse.
 
-##### El nuevo matrimonio debe ser dentro del Señor.
+###### Pablo continúa mostrando equilibrio:
+- afirmando el valor del matrimonio,
+pero también:
+- reconociendo situaciones legítimas para nuevas decisiones.
+
+#### solo que en el Señor.
+##### La nueva relación debe darse dentro del Señor.
+
+##### La pertenencia a Cristo sigue siendo el marco que redefine todas las relaciones.
 
 ### 1 Corintios 7:40
-Pero en mi opinión, será más feliz si se queda como está. Y creo que yo también tengo el Espíritu de Dios.
+Pero a mi juicio, más feliz será si se queda como está; y pienso que también yo tengo el Espíritu de Dios.
 
-#### Pero en mi opinión, será más feliz si se queda como está.
-##### Pablo vuelve a expresar su perspectiva personal acerca de permanecer en la condición presente.
+#### Pero a mi juicio, más feliz será si se queda como está
+##### Pablo vuelve nuevamente a expresar su opinión personal pastoral.
 
-##### Continúa considerando esto más conveniente dentro del contexto actual.
+##### Continúa considerando preferible permanecer en la condición presente dentro de las circunstancias actuales.
 
-#### Y creo que yo también tengo el Espíritu de Dios.
-##### Pablo no habla como alguien desconectado de Dios.
+##### Sin embargo, sigue sin imponerlo universalmente.
 
-##### Sus palabras son dadas con la conciencia de actuar bajo la dirección del Espíritu de Dios.
+###### Pablo continúa aconsejando:
+- desde prudencia,
+- cuidado pastoral,
+- y consideración práctica del tiempo presente.
+
+#### y pienso que también yo tengo el Espíritu de Dios.
+##### Pablo concluye afirmando confianza en la dirección espiritual con la que está hablando.
+
+##### No presenta estas palabras como mera opinión humana independiente de Dios.
+
+###### A lo largo de todo el capítulo Pablo ha guiado a los corintios:
+- lejos de extremos,
+- lejos de espiritualidades desordenadas,
+- y lejos de pensar que las condiciones externas definen finalmente la realidad delante de Dios.
+
+###### Constantemente los ha dirigido:
+- hacia pertenencia al Señor,
+- estabilidad,
+- dominio propio,
+- responsabilidad mutua,
+- y una vida correctamente ordenada delante de Dios.
+
+### 1 Corintios 7:31
+y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.
+
+#### y los que usan el mundo, como si no lo usaran plenamente
+##### Pablo continúa desarrollando la misma perspectiva de los versículos anteriores.
+
+##### Los creyentes viven dentro del mundo y usan cosas de esta vida presente.
+
+##### Sin embargo, no deben vivir absorbidos completamente por ellas.
+
+###### Pablo continúa relativizando:
+- posesiones,
+- experiencias,
+- relaciones,
+- y circunstancias temporales.
+
+###### Nada de esto debe convertirse en:
+- la realidad definitiva,
+- ni en aquello que controla completamente la vida del creyente.
+
+#### porque la apariencia de este mundo pasa.
+##### Pablo da la razón de esta perspectiva.
+
+##### La apariencia presente de este mundo está pasando.
+
+##### Todo lo visible y temporal pertenece a una realidad transitoria.
+
+###### Pablo continúa empujando a los corintios:
+- fuera de una mentalidad centrada en lo inmediato,
+y:
+- hacia una perspectiva gobernada por la realidad del Señor y Su venida.
+
+### 1 Corintios 7:32
+Pero yo quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
+
+#### Pero yo quiero que estén libres de preocupación.
+##### Pablo ahora explica más claramente la intención práctica de su consejo.
+
+##### Su deseo no es producir cargas adicionales.
+
+##### Pablo quiere que los creyentes estén libres de preocupaciones innecesarias.
+
+###### El consejo de Pablo continúa moviéndose:
+- desde una preocupación pastoral,
+- práctica,
+- y espiritual.
+
+#### El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
+##### Pablo describe una ventaja práctica de la soltería.
+
+##### El soltero posee mayor libertad para concentrarse en las cosas del Señor.
+
+##### El enfoque principal del soltero puede dirigirse hacia agradar al Señor.
+
+###### Pablo no está exaltando:
+- egoísmo,
+- independencia,
+- ni aislamiento.
+
+###### Está hablando de:
+- enfoque,
+- disponibilidad,
+- y menor división de preocupaciones.
+
+### 1 Corintios 7:33
+pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
+
+#### pero el casado se preocupa por las cosas del mundo
+##### Pablo ahora contrasta la situación del casado.
+
+##### El casado necesariamente debe atender asuntos relacionados con esta vida presente.
+
+##### El matrimonio trae responsabilidades reales.
+
+###### Pablo no presenta esto:
+- como pecado,
+- ni como inferioridad espiritual.
+
+###### Simplemente describe una realidad práctica diferente.
+
+#### de cómo agradar a su mujer,
+##### El hombre casado debe considerar a su esposa.
+
+##### El matrimonio introduce responsabilidades legítimas hacia otra persona.
+
+###### Pablo continúa afirmando:
+- responsabilidad,
+- cuidado mutuo,
+- y atención relacional
+dentro del matrimonio.
+
+### 1 Corintios 7:34
+y sus intereses están divididos. La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor, para ser santa tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
+
+#### y sus intereses están divididos.
+##### El casado debe dividir necesariamente su atención entre distintas responsabilidades.
+
+##### Pablo continúa hablando en términos prácticos y no condenatorios.
+
+###### El matrimonio introduce:
+- preocupaciones legítimas,
+- responsabilidades legítimas,
+- y atención compartida.
+
+#### La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor
+##### Pablo aplica ahora el mismo principio a la mujer soltera.
+
+##### La mujer no casada posee mayor libertad para enfocarse en las cosas del Señor.
+
+###### Pablo mantiene nuevamente equilibrio:
+- entre hombre y mujer,
+- entre casado y soltero.
+
+#### para ser santa tanto en cuerpo como en espíritu
+##### Pablo describe un enfoque integral hacia el Señor.
+
+##### Tanto el cuerpo como el espíritu aparecen dirigidos hacia Él.
+
+###### Nuevamente Pablo no separa:
+- cuerpo,
+- espiritualidad,
+- y vida práctica.
+
+#### pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
+##### La mujer casada también posee responsabilidades legítimas hacia su marido.
+
+##### El matrimonio introduce atención y cuidado hacia el cónyuge.
+
+###### Pablo continúa describiendo:
+- diferencias prácticas de enfoque,
+y no:
+- categorías superiores o inferiores de espiritualidad.
+
+### 1 Corintios 7:35
+Esto lo digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es decente y asegurar su constante devoción al Señor.
+
+#### Esto lo digo para su propio beneficio
+##### Pablo aclara nuevamente la intención de toda esta enseñanza.
+
+##### Su propósito es el beneficio espiritual y práctico de los creyentes.
+
+###### Pablo continúa guiando:
+- pastoralmente,
+- cuidadosamente,
+- y con consideración hacia la situación real de los corintios.
+
+#### no para ponerles restricción
+##### Pablo no busca imponer una carga innecesaria.
+
+##### No está intentando controlar rígidamente las decisiones personales de los creyentes.
+
+###### Pablo evita transformar su consejo:
+- en legalismo,
+- presión,
+- o imposición absoluta.
+
+#### sino para promover lo que es decente
+##### Pablo desea promover una vida ordenada y apropiada delante del Señor.
+
+##### El enfoque sigue siendo vivir correctamente dentro de la condición presente.
+
+###### La preocupación de Pablo continúa siendo:
+- estabilidad,
+- orden,
+- y una vida correctamente orientada hacia el Señor.
+
+#### y asegurar su constante devoción al Señor.
+##### Pablo desea que los creyentes puedan dedicarse constantemente al Señor.
+
+##### La meta principal sigue siendo una vida enfocada correctamente en Él.
+
+###### Toda la discusión sobre:
+- matrimonio,
+- soltería,
+- relaciones,
+- y condición presente,
+finalmente apunta:
+- hacia una vida correctamente entregada al Señor.
+
+### 1 Corintios 7:36
+Pero si alguno piensa que está obrando impropiamente para con su hija virgen, si ella está ya pasada de edad, y así debe hacerse, haga lo que quiera, no peca; que se case.
+
+#### Pero si alguno piensa que está obrando impropiamente para con su hija virgen
+##### Pablo ahora considera otra situación práctica relacionada con una virgen no casada.
+
+##### Pablo continúa tratando estos asuntos con flexibilidad y cuidado pastoral.
+
+#### si ella está ya pasada de edad, y así debe hacerse
+##### Pablo reconoce circunstancias concretas donde el matrimonio puede resultar apropiado.
+
+##### No todas las situaciones deben resolverse exactamente de la misma manera.
+
+###### Pablo continúa evitando:
+- reglas rígidas,
+- y soluciones absolutas para todos.
+
+#### haga lo que quiera, no peca; que se case.
+##### Pablo vuelve a aclarar que el matrimonio no constituye pecado.
+
+##### Casarse permanece como una opción legítima.
+
+###### Nuevamente Pablo mantiene equilibrio:
+- ni obliga a casarse,
+- ni prohíbe hacerlo.
+
+### 1 Corintios 7:37
+Pero el que está firme en su corazón, y no está bajo obligación, sino que tiene dominio sobre su propia voluntad, y ha decidido esto en su corazón, el conservar a su propia hija virgen, bien hará.
+
+#### Pero el que está firme en su corazón
+##### Pablo describe aquí otra posibilidad distinta.
+
+##### Algunas personas pueden decidir permanecer en esa condición con firmeza y convicción.
+
+#### y no está bajo obligación
+##### La decisión no debe surgir de presión externa.
+
+##### Pablo continúa considerando importante la libertad y convicción personal delante del Señor.
+
+#### sino que tiene dominio sobre su propia voluntad
+##### El dominio propio vuelve a aparecer como algo importante.
+
+##### Pablo continúa valorando una vida ordenada y controlada correctamente.
+
+#### y ha decidido esto en su corazón
+##### La decisión debe surgir de convicción personal consciente.
+
+##### Pablo sigue hablando en términos de sabiduría práctica y no de imposición universal.
+
+#### el conservar a su propia hija virgen, bien hará.
+##### Pablo considera buena también esta decisión.
+
+##### Ambas posibilidades siguen siendo tratadas como legítimas.
+
+### 1 Corintios 7:38
+Así que, el que da a su hija virgen en matrimonio hace bien, y el que no la da en matrimonio hará mejor.
+
+#### Así que, el que da a su hija virgen en matrimonio hace bien
+##### Pablo vuelve a afirmar claramente que el matrimonio es algo bueno.
+
+##### Casar a la hija no constituye error ni pecado.
+
+#### y el que no la da en matrimonio hará mejor.
+##### Pablo continúa considerando preferible permanecer sin casarse dentro de la situación presente que viene describiendo.
+
+##### Sin embargo, sigue hablando en términos de conveniencia y no de mandamiento absoluto.
+
+###### Pablo continúa moviéndose:
+- dentro de consejo pastoral,
+- prudencia,
+- y consideración práctica del tiempo presente.
+
+### 1 Corintios 7:39
+La mujer está ligada mientras su marido vive; pero si su marido muere, está en libertad de casarse con quien quiera, solo que en el Señor.
+
+#### La mujer está ligada mientras su marido vive
+##### Pablo vuelve nuevamente al carácter vinculante del matrimonio.
+
+##### La relación matrimonial permanece mientras el marido vive.
+
+#### pero si su marido muere, está en libertad de casarse con quien quiera
+##### La muerte rompe esa obligación matrimonial.
+
+##### La mujer queda libre para volver a casarse.
+
+###### Pablo continúa mostrando equilibrio:
+- afirmando el valor del matrimonio,
+pero también:
+- reconociendo situaciones legítimas para nuevas decisiones.
+
+#### solo que en el Señor.
+##### La nueva relación debe darse dentro del Señor.
+
+##### La pertenencia a Cristo sigue siendo el marco que redefine todas las relaciones.
+
+### 1 Corintios 7:40
+Pero a mi juicio, más feliz será si se queda como está; y pienso que también yo tengo el Espíritu de Dios.
+
+#### Pero a mi juicio, más feliz será si se queda como está
+##### Pablo vuelve nuevamente a expresar su opinión personal pastoral.
+
+##### Continúa considerando preferible permanecer en la condición presente dentro de las circunstancias actuales.
+
+##### Sin embargo, sigue sin imponerlo universalmente.
+
+###### Pablo continúa aconsejando:
+- desde prudencia,
+- cuidado pastoral,
+- y consideración práctica del tiempo presente.
+
+#### y pienso que también yo tengo el Espíritu de Dios.
+##### Pablo concluye afirmando confianza en la dirección espiritual con la que está hablando.
+
+##### No presenta estas palabras como mera opinión humana independiente de Dios.
+
+###### A lo largo de todo el capítulo Pablo ha guiado a los corintios:
+- lejos de extremos,
+- lejos de espiritualidades desordenadas,
+- y lejos de pensar que las condiciones externas definen finalmente la realidad delante de Dios.
+
+###### Constantemente los ha dirigido:
+- hacia pertenencia al Señor,
+- estabilidad,
+- dominio propio,
+- responsabilidad mutua,
+- y una vida correctamente ordenada delante de Dios.
 
 # 8:1-14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
 
