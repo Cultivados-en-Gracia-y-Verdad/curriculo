@@ -1565,6 +1565,8 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 - en Cristo crucificado,
 - y no en la grandeza visible del hombre.
 
+@quiz 1corintios-1-2-quiz
+
 ## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
 ### 1 Corintios 2:6
