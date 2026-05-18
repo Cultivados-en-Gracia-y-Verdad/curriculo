@@ -2,9 +2,10 @@
 title:  "1 Corintios"
 subtitle:  "La Iglesia Espiritual - según Sí Misma"
 author:  "CGV"
-version:  "0.3"
+version:  "0.4"
 date:  "2026-05-17"
 cover: "images/portada.png"
+
 ---
 
 :::title
@@ -583,7 +584,14 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 ###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los **definía** era su participación compartida en Cristo.
 
-## 1:10-17 Las identificaciones y divisiones que existían entre los corintios
+> En Síntesis
+>- Pablo establece desde el inicio que la iglesia en Corinto pertenece a Dios y existe por iniciativa divina, no por mérito, prestigio o autosuficiencia humana. 
+>- Los corintios son descritos como personas que verdaderamente habían recibido gracia, santificación, comunión y participación en Cristo Jesús. 
+>- Pablo reconoce que en Corinto existían riquezas espirituales reales: palabra, conocimiento, dones y confirmación del testimonio acerca de Cristo. 
+>- La carta comienza dentro de un ambiente de gracia, paz, gratitud y fidelidad divina antes de confrontar los problemas y divisiones posteriores. 
+>- La realidad principal que Pablo establece como definitoria para los creyentes es su comunión compartida con Jesucristo, por encima de identidades humanas o exaltación personal.
+
+## 1:10 Las identificaciones y divisiones que existían entre los corintios
 
 ### 1 Corintios 1:10
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
@@ -669,7 +677,7 @@ estaba relacionada con la manera en que estaban interpretando la vida en Cristo.
 - los **dones**,
 - y el **amor**.
 
-## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
+## 1 Corintios 1:11-17 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
 
 ### 1 Corintios 1:11
 Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, que hay discusiones entre ustedes.
@@ -920,6 +928,13 @@ mediante recursos humanos.
 - proviene de Dios,
 - descansa en la obra de Cristo,
 - y no depende de la capacidad humana para producir su poder.
+
+> En Síntesis
+>- Pablo confronta las divisiones en Corinto recordándoles que su identidad verdadera no proviene de hombres, grupos o preferencias, sino de su comunión compartida en Cristo.
+>- Las discusiones y separaciones revelaban una manera de pensar y evaluarse según criterios humanos como reputación, sabiduría, elocuencia y asociaciones personales.
+>- Pablo expone que Cristo no está dividido y que solamente Cristo fue crucificado por ellos, desplazando completamente la atención lejos de la exaltación humana.
+>- El ministerio de Pablo no buscaba formar seguidores personales ni producir identidades centradas en hombres, sino anunciar el evangelio de Cristo.
+>- Pablo comienza a introducir el gran contraste de la carta: aquello que impresiona según la sabiduría y capacidad humana no necesariamente corresponde a aquello que manifiesta verdaderamente el poder de Dios en la cruz de Cristo.
 
 ## 1:18-2:5 La cruz destruye la gloria y sabiduría humanas 
 
@@ -1550,6 +1565,8 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 - en Cristo crucificado,
 - y no en la grandeza visible del hombre.
 
+<!-- @quiz 1corintios-1-2 -->
+
 ## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
 ### 1 Corintios 2:6
@@ -2038,6 +2055,13 @@ están relacionadas con:
 ###### Esto prepara naturalmente el contraste que Pablo comenzará a desarrollar en el siguiente capítulo entre:
 - lo espiritual,
 - y la manera carnal en que los corintios todavía estaban pensando y actuando.
+
+> En Síntesis
+>- Pablo aclara que la verdadera sabiduría sí existe, pero no proviene de este siglo ni de la capacidad humana, sino de Dios mismo. 
+>- La sabiduría revelada en Cristo permaneció oculta para los gobernantes y criterios humanos, quedando expuesta su ceguera en la crucifixión del Señor de gloria. 
+>- El hombre no puede descubrir ni comprender las cosas de Dios mediante inteligencia, percepción o razonamiento humano; solamente el Espíritu puede revelarlas. 
+>- El verdadero conocimiento espiritual depende completamente del Espíritu de Dios, quien permite comprender las riquezas que Dios ya ha dado gratuitamente en Cristo. 
+>- Pablo concluye mostrando que el creyente posee discernimiento espiritual porque tiene la mente de Cristo, preparando así el contraste con la manera carnal en que los corintios todavía estaban pensando y actuando. 
 
 ## 3:1-4 La espiritualidad y la carnalidad entre los corintios
 
@@ -2541,6 +2565,13 @@ corresponde necesariamente al fundamento que Dios estableció.
 parecían tener tanto peso,
 la manera de edificar se volvía algo extremadamente importante.
 
+>En Síntesis
+>- Pablo expone una profunda tensión en Corinto: aunque los creyentes poseían riquezas espirituales reales en Cristo, todavía estaban pensando y actuando de manera carnal.
+>- La carnalidad se manifestaba mediante celos, discusiones, rivalidades e identificaciones humanas que seguían organizando la vida de la iglesia según criterios del mundo.
+>- Pablo destruye la exaltación de hombres mostrando que tanto él como Apolos son solamente servidores dentro de una obra que pertenece completamente a Dios.
+>- Aunque existían diferentes funciones y labores dentro de la iglesia, el crecimiento verdadero provenía únicamente de Dios y no de capacidad, carisma o prestigio humano.
+>- La iglesia es presentada como el campo y el edificio de Dios, donde cada colaborador debe tener cuidado de cómo edifica sobre el fundamento que Dios estableció en Cristo.
+
 ## 1 Corintios 3:10b-15 - La obra de cada uno sería probada sobre el fundamento que es Cristo
 
 #### Pero cada uno tenga cuidado cómo edifica encima.
@@ -2841,6 +2872,13 @@ sino de la relación que tiene con Dios y con Su presencia.
 - mientras actuaban según rivalidades humanas,
 - seguían siendo el templo santo de Dios,
 donde el Espíritu mismo habitaba.
+
+> En Síntesis
+>- Pablo dirige ahora la atención hacia la responsabilidad personal de cada creyente respecto a cómo edifica y vive sobre el único fundamento que es Jesucristo.
+>- Aunque todos edifican sobre el mismo fundamento, no toda obra posee la misma calidad ni resistirá de la misma manera cuando sea probada por Dios.
+>- El valor verdadero de la obra no será determinado por apariencia, reconocimiento humano o impacto visible, sino por aquello que permanezca después de la prueba del fuego.
+>- Pablo distingue entre la salvación del creyente y la calidad de la obra construida, mostrando que una obra puede perderse completamente mientras la salvación permanece en Cristo.
+>- La iglesia en Corinto es presentada colectivamente como el templo santo de Dios donde habita Su Espíritu, haciendo extremadamente serias las divisiones, rivalidades y destrucción dentro de ella.
 
 ## 1 Corintios 3:18-22 - La sabiduría y la gloria que existían entre los corintios
 
@@ -3270,6 +3308,13 @@ será completamente manifestado por el Señor.
 - la gloria correcta,
 - y la alabanza correcta
 pertenecen finalmente al Señor y no al hombre.
+
+> En Síntesis
+>- Pablo confronta el autoengaño producido por la sabiduría humana, mostrando que la verdadera sabiduría solamente puede encontrarse abandonando los criterios de valoración de este mundo.
+>- La sabiduría, la gloria y las comparaciones humanas quedan completamente vacías delante de Dios, quien conoce y expone la inutilidad de los razonamientos humanos.
+>- Los creyentes no deben jactarse en hombres porque todo les pertenece en Cristo, mientras ellos mismos continúan perteneciendo a Cristo y Cristo a Dios.
+>- Pablo redefine correctamente a los siervos de Dios como simples servidores y administradores cuya responsabilidad principal es ser hallados fieles delante del Señor.
+>- La evaluación, el juicio y la verdadera alabanza no pertenecen finalmente al hombre, sino al Señor, quien revelará plenamente las obras, motivaciones e intenciones cuando venga.
 
 ## 4:6-13 La percepción que los corintios tenían de sí mismos y de los apóstoles
 
@@ -3874,6 +3919,15 @@ sino de responsabilidad paternal y amorosa hacia ellos.
 - y el amor
 siguen siendo el deseo principal de Pablo hacia los corintios.
 
+> En Síntesis
+>- Pablo expone que la arrogancia y las divisiones entre los corintios nacían de una percepción inflada de sí mismos y de una comprensión equivocada de la gracia recibida de Dios.
+>- Mientras los corintios se percibían ricos, fuertes y reinando espiritualmente, la realidad apostólica estaba marcada por debilidad, sufrimiento, rechazo y humillación por causa de Cristo.
+>- Pablo presenta el camino apostólico como una vida formada por la cruz, caracterizada por servicio, perseverancia, mansedumbre y dependencia de Dios, no por prestigio o exaltación humana.
+>- La relación de Pablo con los corintios no surge de control ni superioridad, sino del evangelio mediante el cual él los engendró en Cristo Jesús como hijos amados.
+>- Pablo concluye confrontando las palabras arrogantes de algunos corintios, recordando que el reino de Dios no consiste en discursos inflados, sino en el verdadero poder de Dios manifestado en una vida conforme a Cristo.
+
+<!-- @quiz 1corintios-3-4 -->
+
 # 5:1-7:40 — Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo
 
 ## 5:1-13 La manera en que los corintios respondían al pecado dentro de la iglesia
@@ -4202,6 +4256,15 @@ y:
 ###### La iglesia debía actuar:
 - conforme a la santidad que compartía en Cristo,
 - y conforme a la realidad espiritual que Pablo había venido recordándoles desde el comienzo de la carta.
+
+>En Síntesis
+>- Pablo expone que la arrogancia y percepción inflada de los corintios había llegado al punto de tolerar públicamente un pecado extremadamente grave dentro de la iglesia.
+>- La reacción correcta frente al pecado debía haber sido quebranto, discernimiento y acción conforme a la santidad de la iglesia, no tolerancia orgullosa ni pasividad.
+>- La disciplina ordenada por Pablo no surge de odio ni destrucción, sino de una preocupación seria por la salvación final y la pureza del pueblo de Dios.
+>- Pablo conecta toda esta exhortación con la realidad que los creyentes ya poseen en Cristo, llamándolos a vivir conforme a la nueva identidad y santidad que tienen por medio de Cristo, nuestra Pascua.
+>- La responsabilidad principal de la iglesia no consiste en juzgar al mundo incrédulo, sino en discernir y tratar correctamente aquello que ocurre dentro del pueblo que afirma pertenecer a Cristo.
+
+<!-- @quiz 1corintios-5 -->
 
 ## 6:1-11 Los conflictos y los derechos entre los corintios
 
@@ -4763,6 +4826,15 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 - en el cuerpo,
 - en la vida,
 - y en toda la manera de vivir.
+
+> En Síntesis
+>- Pablo concluye que los creyentes no se pertenecen a sí mismos, porque fueron realmente comprados por Dios mediante la obra de Cristo.
+>- La pertenencia a Cristo redefine completamente la manera en que los creyentes deben comprender su cuerpo, su vida y toda su existencia.
+>- El cuerpo no es presentado como algo separado de la realidad espiritual, sino como parte de aquello que ahora pertenece a Dios.
+>- La espiritualidad verdadera no consiste solamente en pensamientos o experiencias internas, sino en una vida que glorifica a Dios también en el cuerpo.
+>- Pablo termina destruyendo toda falsa separación entre vida espiritual y vida práctica, mostrando que toda la vida del creyente debe corresponder a su pertenencia a Cristo.
+
+<!-- @quiz 1corintios-6 -->
 
 ## 7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios
 
@@ -6063,6 +6135,13 @@ Pero a mi juicio, más feliz será si se queda como está; y pienso que también
 - responsabilidad mutua,
 - y una vida correctamente ordenada delante de Dios.
 
+> En Síntesis
+>- Pablo responde las preguntas de los corintios alejándolos de extremos y mostrando una visión equilibrada del matrimonio, la soltería, la sexualidad y las relaciones humanas delante de Dios.
+>- Tanto el matrimonio como la soltería son presentados como situaciones legítimas dentro de la vida cristiana, y ninguno debe convertirse en una medida absoluta de espiritualidad para todos.
+>- Pablo redefine las relaciones desde responsabilidad mutua, dominio propio, paz y pertenencia al Señor, rechazando tanto el egoísmo como una espiritualidad desconectada de la realidad práctica.
+>- La condición externa del creyente —casado, soltero, circuncidado, incircunciso, esclavo o libre— no determina finalmente su valor ni su realidad espiritual delante de Dios, porque todos son redefinidos desde su llamado y pertenencia a Cristo.
+>- A lo largo de todo el capítulo, Pablo dirige a los corintios hacia una vida estable, ordenada y enfocada en el Señor, viviendo correctamente dentro de la condición presente mientras esperan la realidad futura del Señor.
+
 # 8:1-14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
 
 ## 8:1-13 El conocimiento, la libertad y el hermano débil entre los corintios
@@ -6311,6 +6390,15 @@ Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne ja
 ##### Pablo no quiere convertirse en causa de caída para otro creyente.
 
 ##### El amor al hermano gobierna el uso correcto del conocimiento y de la libertad.
+
+> En Síntesis
+>- Pablo confronta una espiritualidad centrada solamente en conocimiento y libertad, mostrando que el conocimiento por sí solo puede producir arrogancia y destruir al hermano.
+>- La verdadera realidad del creyente está definida por un solo Dios y un solo Señor, Jesucristo, y no por superioridad intelectual ni autosuficiencia espiritual.
+>- Aunque ciertos creyentes poseían conocimiento correcto acerca de los ídolos, no todos tenían la misma comprensión ni la misma fortaleza de conciencia.
+>- Pablo redefine el uso de la libertad cristiana desde la responsabilidad hacia el hermano débil, mostrando que la libertad puede convertirse en tropiezo cuando no está gobernada por amor.
+>- El amor y la edificación del hermano poseen mayor valor que el ejercicio personal de derechos, porque herir al hermano por quien Cristo murió equivale también a pecar contra Cristo mismo.
+
+<!-- @quiz 1corintios-7-8 -->
 
 ## 9:1-27 La libertad, los derechos y la manera en que Pablo vivía el evangelio
 
