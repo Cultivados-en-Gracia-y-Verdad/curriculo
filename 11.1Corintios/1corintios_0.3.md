@@ -98,7 +98,6 @@ La Iglesia Espiritual… según sí misma
 ##### La Iglesia Espiritual… según sí misma
 
 ###### A lo largo de la carta, Pablo no solamente corrige conductas.
-
 ###### Repetidamente confronta una manera de pensar.
 
 ###### Corinto puede parecer muy distinta dependiendo desde dónde se la observe.
@@ -143,7 +142,8 @@ La Iglesia Espiritual… según sí misma
 
 ###### La carta no desarrolla solamente:
 - problemas de conducta,
-sino también:
+
+###### sino también:
 - una manera equivocada de percibir la realidad.
 
 ###### Y Pablo, repetidamente, vuelve a centrar todo en Cristo crucificado y resucitado.
@@ -162,7 +162,7 @@ sino también:
 
 ###### Más bien, la carta desarrolla repetidamente una tensión entre:
 - la manera en que los corintios se perciben,
-y:
+###### y:
 - la realidad definida por Cristo.
 
 ###### Observe cómo este contraste reaparece continuamente a lo largo de la epístola.
