@@ -5,6 +5,7 @@ author:  "CGV"
 version:  "0.4"
 date:  "2026-05-17"
 cover: "images/portada.png"
+
 ---
 
 :::title
@@ -1563,6 +1564,8 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 - descansa en Su poder,
 - en Cristo crucificado,
 - y no en la grandeza visible del hombre.
+
+<!-- @quiz 1corintios-1-2 -->
 
 ## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
@@ -3923,6 +3926,8 @@ siguen siendo el deseo principal de Pablo hacia los corintios.
 >- La relación de Pablo con los corintios no surge de control ni superioridad, sino del evangelio mediante el cual él los engendró en Cristo Jesús como hijos amados.
 >- Pablo concluye confrontando las palabras arrogantes de algunos corintios, recordando que el reino de Dios no consiste en discursos inflados, sino en el verdadero poder de Dios manifestado en una vida conforme a Cristo.
 
+<!-- @quiz 1corintios-3-4 -->
+
 # 5:1-7:40 — Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo
 
 ## 5:1-13 La manera en que los corintios respondían al pecado dentro de la iglesia
@@ -4258,6 +4263,8 @@ y:
 >- La disciplina ordenada por Pablo no surge de odio ni destrucción, sino de una preocupación seria por la salvación final y la pureza del pueblo de Dios.
 >- Pablo conecta toda esta exhortación con la realidad que los creyentes ya poseen en Cristo, llamándolos a vivir conforme a la nueva identidad y santidad que tienen por medio de Cristo, nuestra Pascua.
 >- La responsabilidad principal de la iglesia no consiste en juzgar al mundo incrédulo, sino en discernir y tratar correctamente aquello que ocurre dentro del pueblo que afirma pertenecer a Cristo.
+
+<!-- @quiz 1corintios-5 -->
 
 ## 6:1-11 Los conflictos y los derechos entre los corintios
 
@@ -4826,6 +4833,8 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 >- El cuerpo no es presentado como algo separado de la realidad espiritual, sino como parte de aquello que ahora pertenece a Dios.
 >- La espiritualidad verdadera no consiste solamente en pensamientos o experiencias internas, sino en una vida que glorifica a Dios también en el cuerpo.
 >- Pablo termina destruyendo toda falsa separación entre vida espiritual y vida práctica, mostrando que toda la vida del creyente debe corresponder a su pertenencia a Cristo.
+
+<!-- @quiz 1corintios-6 -->
 
 ## 7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios
 
@@ -6388,6 +6397,8 @@ Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne ja
 >- Aunque ciertos creyentes poseían conocimiento correcto acerca de los ídolos, no todos tenían la misma comprensión ni la misma fortaleza de conciencia.
 >- Pablo redefine el uso de la libertad cristiana desde la responsabilidad hacia el hermano débil, mostrando que la libertad puede convertirse en tropiezo cuando no está gobernada por amor.
 >- El amor y la edificación del hermano poseen mayor valor que el ejercicio personal de derechos, porque herir al hermano por quien Cristo murió equivale también a pecar contra Cristo mismo.
+
+<!-- @quiz 1corintios-7-8 -->
 
 ## 9:1-27 La libertad, los derechos y la manera en que Pablo vivía el evangelio
 
