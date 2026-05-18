@@ -309,7 +309,7 @@ Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstene
 ##### El apostolado de Pablo no es presentado como resultado de iniciativa humana, sino de la <u>voluntad</u> de Dios.
 
 ###### Esto también desplaza la atención:
-- de la autosuficiencia <u>humana**,
+- de la autosuficiencia <u>humana</u>,
 - del prestigio personal,
 - y de la iniciativa propia,
 hacia aquello que Dios <u>mismo</u> determina y realiza.
@@ -342,9 +342,9 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 - **líderes**,
 - o distinciones humanas.
 
-###### Son presentados colectivamente <u>como**:
+###### Son presentados colectivamente <u>como</u>:
 - la <u>iglesia</u> de Dios,
-- **perteneciente</u> a Dios,
+- <u>perteneciente</u> a Dios,
 - y <u>definida</u> por Él.
 
 #### a los que han sido santificados en Cristo Jesús
@@ -357,7 +357,7 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 ###### Pablo no comienza la carta cuestionando si los corintios habían recibido algo verdadero de parte de Dios.
 
 ###### Desde el inicio:
-- reconoce <u>gracia**,
+- reconoce <u>gracia</u>,
 - santificación,
 - pertenencia,
 - y <u>participación</u> en Cristo.
@@ -370,7 +370,7 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 ###### Pablo no comienza definiéndolos:
 - por sus problemas,
 - divisiones,
-- o <u>conflictos**.
+- o <u>conflictos</u>.
 
 ###### Desde el inicio los identifica:
 - desde Cristo,
@@ -403,10 +403,10 @@ Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
 - comunión,
 - y participación compartida en Cristo.
 
-###### **Antes</u> de confrontar:
+###### <u>Antes</u> de confrontar:
 - divisiones,
 - orgullo,
-- sabiduría <u>humana**,
+- sabiduría <u>humana</u>,
 - o conflictos,
 Pablo establece primero aquello que Dios había <u>dado</u> y producido entre ellos.
 
@@ -416,23 +416,23 @@ Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dad
 #### Siempre doy gracias a mi Dios por ustedes
 ##### Pablo <u>expresa</u> continuamente gratitud a Dios por los corintios.
 
-##### La carta no comienza con rechazo hacia <u>ellos**, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
+##### La carta no comienza con rechazo hacia <u>ellos</u>, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
 
 ###### Pablo reconoce sinceramente la obra de Dios <u>entre</u> los corintios.
 
 ###### Desde el inicio:
-- **habla</u> de gracia,
+- <u>habla</u> de gracia,
 - enriquecimiento,
 - **dones**,
 - confirmación,
-- y comunión con <u>Cristo**.
+- y comunión con <u>Cristo</u>.
 
 ###### Esto permite percibir que los problemas posteriores aparecen dentro de una iglesia donde verdaderamente existía participación en <u>muchas</u> cosas relacionadas con Cristo.
 
 #### por la gracia de Dios que les fue dada en Cristo Jesús.
 ##### Pablo describe esta gracia como algo dado a ellos en Cristo Jesús.
 
-##### La posición de los corintios no es presentada como algo alcanzado por <u>ellos**, sino como algo recibido.
+##### La posición de los corintios no es presentada como algo alcanzado por <u>ellos</u>, sino como algo recibido.
 
 ##### La gracia es descrita como algo dado por Dios a <u>ellos</u> en Cristo Jesús.
 
@@ -442,9 +442,9 @@ Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dad
 - y <u>hacia</u> aquello que existía en Cristo Jesús.
 
 ###### Desde el comienzo:
-- la <u>gracia**,
+- la <u>gracia</u>,
 - el llamado,
-- la <u>santificación**,
+- la <u>santificación</u>,
 - y el enriquecimiento
 son descritos como resultado de la <u>iniciativa</u> de Dios y no del mérito humano.
 
@@ -462,8 +462,8 @@ Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo con
 
 ###### Por el contrario:
 - habían <u>sido</u> enriquecidos,
-- **participaban</u> en palabra,
-- y participaban en <u>conocimiento**.
+- <u>participaban</u> en palabra,
+- y participaban en <u>conocimiento</u>.
 
 ###### Esto ayuda a percibir por qué muchas de las <u>cosas</u> presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
 
@@ -512,9 +512,9 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 ###### La iglesia en Corinto no es <u>presentada</u> como una iglesia carente de actividad espiritual visible.
 
 ###### Por el contrario:
-- había <u>dones**,
+- había <u>dones</u>,
 - **participación**,
-- **expectativa**,
+- <u>expectativa</u>,
 - y manifestaciones relacionadas con la <u>vida</u> de la iglesia.
 
 ###### Precisamente por <u>eso</u> las correcciones posteriores producen una tensión tan profunda a lo largo de la carta.
@@ -524,7 +524,7 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 
 ##### La revelación de Jesucristo es presentada como algo futuro que aguardaban.
 
-###### Pablo describe a los corintios como personas que <u>vivían**:
+###### Pablo describe a los corintios como personas que <u>vivían</u>:
 - **esperando**,
 - participando,
 - y orientadas hacia la venida <u>futura</u> del Señor Jesucristo.
@@ -555,9 +555,9 @@ de manera que nada les falta en ningún don, esperando ansiosamente la revelaci�
 ##### Pablo presenta esto como algo asociado a la <u>obra</u> que Cristo mismo realizará.
 
 ###### Desde el <u>inicio</u> de la carta:
-- el <u>llamado**,
+- el <u>llamado</u>,
 - la santificación,
-- la <u>gracia**,
+- la <u>gracia</u>,
 - el enriquecimiento,
 - y la confirmación
 son continuamente relacionados con la <u>obra</u> de Dios y de Cristo.
@@ -578,7 +578,7 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 
 ###### Más adelante Pablo comenzará a confrontar:
 - divisiones,
-- identificaciones <u>humanas**,
+- identificaciones <u>humanas</u>,
 - jactancia,
 - y maneras de <u>pensar</u> centradas en hombres.
 
@@ -607,7 +607,7 @@ Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se po
 
 ###### Pablo no comienza confrontándolos desde una relación distante o fría.
 
-###### Incluso al comenzar a <u>corregir**:
+###### Incluso al comenzar a <u>corregir</u>:
 - continúa llamándolos hermanos,
 - continúa hablando <u>desde</u> la comunión compartida en Cristo,
 - y continúa estableciendo el fundamento sobre <u>aquello</u> que Dios ya había hecho entre ellos.
@@ -625,8 +625,8 @@ Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se po
 
 ###### Identificarse:
 - con <u>ciertos</u> hombres,
-- con ciertas maneras de <u>hablar**,
-- o con determinados <u>grupos**
+- con ciertas maneras de <u>hablar</u>,
+- o con determinados <u>grupos</u>
 podía parecer natural e incluso correcto dentro de una cultura donde la sabiduría, la reputación y la identificación con figuras reconocidas tenían enorme valor.
 
 ###### Precisamente por eso Pablo <u>dirige</u> nuevamente la atención hacia Cristo y hacia aquello que todos compartían en Él.
@@ -5562,9 +5562,187 @@ porque ahora el creyente permanece:
 más que:
 - perseguir continuamente cambios externos como fundamento de espiritualidad.
 
+## 1 CORINTIOS 7:25–30 La realidad presente y las condiciones temporales
 
+### 1 Corintios 7:25
+Ahora bien, en cuanto a las vírgenes, no tengo mandamiento del Señor, pero doy mi opinión como quien por la misericordia del Señor es digno de confianza.
+
+#### ...en cuanto a las vírgenes...
+##### Pablo introduce una nueva sección relacionada con personas no casadas.
+
+##### El tema continúa desarrollándose dentro del marco de:
+- matrimonio,
+- estado actual,
+- y decisiones relacionadas con la vida presente.
+
+#### ...no tengo mandamiento del Señor...
+##### Pablo aclara que no posee una instrucción previa específica del Señor sobre este asunto concreto.
+
+##### El texto distingue entre:
+- un mandato explícito,
+- y una evaluación apostólica confiable.
+
+#### ...pero doy mi opinión...
+##### Pablo ofrece un juicio pastoral frente a la situación tratada.
+
+##### La sección presenta:
+- discernimiento,
+- evaluación,
+- y aplicación práctica.
+
+#### ...como quien por la misericordia del Señor es digno de confianza.
+##### Pablo relaciona su confiabilidad con:
+- la misericordia del Señor,
+- y no con autoridad autónoma.
+
+##### La capacidad de aconsejar aparece conectada con:
+- la obra del Señor,
+- la misericordia recibida,
+- y fidelidad en el servicio.
+
+### 1 Corintios 7:26
+Pienso, pues, que esto es bueno en vista de la presente dificultad: que es bueno para el hombre quedarse como está.
+
+#### ...esto es bueno en vista de la presente dificultad...
+##### Pablo fundamenta su consejo en una circunstancia presente.
+
+##### La expresión:
+- “la presente dificultad”
+- introduce un contexto de presión o tensión.
+
+##### El consejo está ligado a:
+- circunstancias actuales,
+- y no simplemente a principios abstractos.
+
+#### ...que es bueno para el hombre quedarse como está.
+##### Pablo vuelve a enfatizar la permanencia en la condición presente.
+
+##### El texto continúa desarrollando:
+- estabilidad,
+- prudencia,
+- y evitar cambios innecesarios.
+
+### 1 Corintios 7:27
+¿Estás unido a mujer? No procures soltarte. ¿Estás libre de mujer? No busques mujer.
+
+#### ...¿Estás unido a mujer?...
+##### Pablo comienza desde la condición actual de la persona.
+
+##### La realidad presente funciona como punto de partida del consejo.
+
+#### ...No procures soltarte.
+##### Pablo no impulsa separación deliberada del vínculo existente.
+
+##### El énfasis permanece en:
+- continuidad,
+- estabilidad,
+- y permanencia.
+
+#### ...¿Estás libre de mujer?...
+##### Pablo ahora aborda la condición contraria.
+
+##### Ambas situaciones son tratadas paralelamente:
+
+- casado,
+- y no casado.
+
+#### ...No busques mujer.
+##### Pablo no establece el matrimonio como obligación universal.
+
+##### El énfasis continúa siendo:
+- prudencia,
+- estabilidad,
+- y consideración de la situación presente.
+
+### 1 Corintios 7:28
+Pero si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, tales personas tendrán aflicción en esta vida, y yo quisiera evitársela.
+
+#### ...si te casas, no has pecado...
+##### Pablo aclara explícitamente que casarse no constituye pecado.
+
+##### El consejo previo no debe entenderse como prohibición del matrimonio.
+
+#### ...si una virgen se casa, no ha pecado.
+##### Pablo repite la aclaración para reforzarla.
+
+##### El matrimonio continúa siendo presentado como legítimo.
+
+#### ...tales personas tendrán aflicción en esta vida...
+##### Pablo introduce una realidad práctica relacionada con:
+- dificultades,
+- presiones,
+- y cargas de la vida presente.
+##### El enfoque continúa siendo circunstancial y temporal.
+
+#### ...y yo quisiera evitársela.
+##### Pablo expresa una preocupación pastoral.
+
+##### El consejo está orientado hacia:
+- cuidado,
+- consideración,
+- y evitar sufrimiento innecesario.
+
+### 1 Corintios 7:29
+Pero esto digo, hermanos: el tiempo se ha acortado. De ahora en adelante, los que tienen mujer sean como si no la tuvieran;
+
+#### ...el tiempo se ha acortado.
+##### Pablo introduce una perspectiva de brevedad y transitoriedad.
+
+##### La afirmación afecta la manera de mirar:
+- relaciones,
+- posesiones,
+- y circunstancias temporales.
+
+#### ...los que tienen mujer sean como si no la tuvieran...
+##### Pablo no elimina la realidad matrimonial.
+
+##### El lenguaje relativiza las condiciones temporales frente a otra realidad mayor.
+
+##### El texto apunta a no quedar:
+- absorbidos,
+- definidos,
+- ni controlados completamente por realidades terrenales.
+
+### 1 Corintios 7:30
+y los que lloran, como si no lloraran; y los que se regocijan, como si no se regocijaran; y los que compran, como si no poseyeran;
+
+#### ...los que lloran, como si no lloraran...
+##### Pablo relativiza incluso experiencias intensas de dolor.
+
+##### El sufrimiento no es presentado como realidad definitiva.
+
+#### ...los que se regocijan, como si no se regocijaran...
+##### El gozo temporal tampoco aparece como absoluto.
+
+##### Tanto:
+- tristeza,
+- como alegría,
+- son presentadas como realidades pasajeras.
+
+#### ...los que compran, como si no poseyeran...
+##### Pablo relativiza también:
+- adquisiciones,
+- bienes,
+- y posesiones materiales.
+
+##### Las realidades materiales son tratadas como:
+- temporales,
+- transitorias,
+- y no definitivas.
+
+> En Síntesis
+>- Pablo ofrece un juicio pastoral confiable respecto a las personas no casadas.
+>- La “presente dificultad” influye en las recomendaciones dadas.
+>- Pablo enfatiza permanecer en la condición actual cuando sea posible.
+>- El matrimonio no es presentado como pecado.
+>- Las presiones de la vida presente son tomadas seriamente.
+>- Pablo presenta el tiempo como algo breve y transitorio.
+>- Relaciones, emociones y posesiones son relativizadas frente a una realidad mayor.
+
+### Las realidades temporales no son tratadas como definitivas.
 
 ### 1 Corintios 7:31
+
 y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.
 
 #### y los que usan el mundo, como si no lo usaran plenamente

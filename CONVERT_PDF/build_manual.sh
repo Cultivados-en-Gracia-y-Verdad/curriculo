@@ -6,7 +6,7 @@ set -euo pipefail
 # ================================
 MANUAL_NAME="1 Corintios"
 FILE_LOCATION="../11.1Corintios"
-FILENAME="/1corintios_0.3.md"
+FILENAME="/1corintios_0.4.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
