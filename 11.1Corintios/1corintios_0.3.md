@@ -173,7 +173,7 @@ y:
   - elocuencia,
   - capacidad,
   - impresionar,
-mientras:
+  mientras:
 - Pablo centra todo en:
   - Cristo crucificado,
   - debilidad,
@@ -185,7 +185,7 @@ mientras:
   - “somos espirituales”,
   - “tenemos conocimiento”,
   - “tenemos libertad”,
-mientras:
+  mientras:
 - Pablo insiste en:
   - amor,
   - edificación,
@@ -196,7 +196,7 @@ mientras:
 - los corintios dicen:
   - “yo soy de Pablo”,
   - “yo de Apolos”,
-mientras:
+  mientras:
 - Pablo redefine a todos simplemente como:
   - servidores,
   - administradores,
@@ -290,101 +290,100 @@ y no desde sí mismos.
 Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstenes, nuestro hermano
 
 #### Pablo
-##### Pablo se introduce como el escritor de la carta a los corintios.
+##### Pablo se introduce como el **escritor** de la carta a los corintios.
 
 #### llamado *a ser* apóstol de Jesucristo 
-##### Pablo describe su apostolado como resultado de un llamado y no como algo buscado por iniciativa propia.
+##### Pablo describe su apostolado **como** resultado de un llamado y no como algo buscado por iniciativa propia.
 
 ##### Pablo se presenta como apóstol de Jesucristo.
 
-###### Desde el comienzo de la carta:
-- Pablo dirige la atención hacia Dios,
+###### Desde el comienzo de la **carta**:
+- Pablo **dirige** la atención hacia Dios,
 - hacia Cristo,
-- y hacia aquello que ocurre por iniciativa divina
-más que por exaltación o mérito humano.
+- y hacia aquello que ocurre por iniciativa **divina** más que por exaltación o mérito humano.
 
 #### por la voluntad de Dios
-##### Pablo describe su apostolado como algo que ocurrió por la voluntad de Dios.
+##### Pablo describe su apostolado **como** algo que ocurrió por la voluntad de Dios.
 
-##### El apostolado de Pablo no es presentado como resultado de iniciativa humana, sino de la voluntad de Dios.
+##### El apostolado de Pablo no es presentado como resultado de iniciativa humana, sino de la **voluntad** de Dios.
 
 ###### Esto también desplaza la atención:
-- de la autosuficiencia humana,
+- de la autosuficiencia **humana**,
 - del prestigio personal,
 - y de la iniciativa propia,
-hacia aquello que Dios mismo determina y realiza.
+hacia aquello que Dios **mismo** determina y realiza.
 
 #### y Sóstenes, nuestro hermano
-##### Sóstenes aparece junto con Pablo en este saludo introductorio.
+##### Sóstenes aparece junto con Pablo en este **saludo** introductorio.
 
 ##### Es descrito como hermano, tanto de Pablo como de los corintios.
 
-###### Desde el inicio la carta también posee un lenguaje:
+###### Desde el **inicio** la carta también posee un lenguaje:
 - relacional,
 - participacional,
 - y comunitario.
 
-###### Pablo no se presenta aislado de otros creyentes, sino acompañado por un hermano.
+###### Pablo no se presenta aislado de **otros** creyentes, sino acompañado por un hermano.
 
 ### 1 Corintios 1:2
 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
 
 #### a la iglesia de Dios que está en Corinto
-##### Pablo y Sóstenes dirigen la carta a la iglesia de Dios que estaba en Corinto.
+##### Pablo y Sóstenes dirigen la **carta** a la iglesia de Dios que estaba en Corinto.
 
 ##### Los creyentes son descritos colectivamente como una sola iglesia.
 
 ##### Pablo enfatiza que es la iglesia "de" Dios.
 
-###### Desde el inicio, Pablo no describe a los corintios principalmente:
+###### Desde el inicio, Pablo no **describe** a los corintios principalmente:
 - según grupos,
 - preferencias,
-- líderes,
+- **líderes**,
 - o distinciones humanas.
 
-###### Son presentados colectivamente como:
-- la iglesia de Dios,
-- perteneciente a Dios,
-- y definida por Él.
+###### Son presentados colectivamente **como**:
+- la **iglesia** de Dios,
+- **perteneciente** a Dios,
+- y **definida** por Él.
 
 #### a los que han sido santificados en Cristo Jesús
-##### La iglesia en Corinto también es descrita como aquellos que han sido santificados en Cristo Jesús.
+##### La iglesia en Corinto también es descrita como **aquellos** que han sido santificados en Cristo Jesús.
 
-##### Pablo describe la santificación como algo que ya había sucedido en ellos y que fue realizado en Cristo Jesús.
+##### Pablo describe la santificación como algo que ya había sucedido en ellos y que fue realizado en **Cristo** Jesús.
 
-##### Esto describe algo que ya era verdadero acerca de la iglesia en Corinto.
+##### Esto describe algo que ya era verdadero **acerca** de la iglesia en Corinto.
 
 ###### Pablo no comienza la carta cuestionando si los corintios habían recibido algo verdadero de parte de Dios.
 
 ###### Desde el inicio:
-- reconoce gracia,
+- reconoce **gracia**,
 - santificación,
 - pertenencia,
-- y participación en Cristo.
+- y **participación** en Cristo.
 
-###### Esto es importante porque los problemas posteriores aparecen dentro de una iglesia que verdaderamente había recibido muchas cosas de Dios.
+###### Esto es importante porque los problemas posteriores aparecen dentro de una iglesia que verdaderamente había **recibido** muchas cosas de Dios.
 
 #### llamados *a ser* santos
-##### Los corintios son descritos como santos debido a su relación con Cristo Jesús.
+##### Los corintios son **descritos** como santos debido a su relación con Cristo Jesús.
 
 ###### Pablo no comienza definiéndolos:
 - por sus problemas,
 - divisiones,
-- o conflictos.
+- o **conflictos**.
 
 ###### Desde el inicio los identifica:
 - desde Cristo,
 - desde el llamado de Dios,
-- y desde aquello que Dios ya había hecho entre ellos.
+- y desde aquello que Dios ya **había** hecho entre ellos.
 
 #### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
-##### Esto no es presentado solamente para los corintios, sino para todos los que invocan el nombre del Señor Jesucristo.
+##### Esto no es presentado solamente para los corintios, sino para **todos** los que invocan el nombre del Señor Jesucristo.
 
 ##### Todos los creyentes son incluidos dentro de esta misma comunión con Cristo.
 
 ###### La iglesia en Corinto no es presentada como un grupo aislado o separado del resto del pueblo de Dios.
 
-###### Pablo los ubica dentro de una realidad mucho más amplia:
+###### Pablo los ubica **dentro** de una realidad mucho más amplia:
 - todos los que invocan al Señor,
 - en cualquier lugar,
 - pertenecen al mismo Señor Jesucristo.
@@ -393,112 +392,112 @@ a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cr
 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
 
 #### Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
-##### Pablo expresa un saludo de gracia y paz hacia los corintios.
+##### Pablo expresa un saludo de gracia y paz **hacia** los corintios.
 
 ##### Ambas son descritas como procedentes de Dios Padre y del Señor Jesucristo.
 
-###### La carta comienza en un ambiente:
+###### La **carta** comienza en un ambiente:
 - de gracia,
 - paz,
 - comunión,
 - y participación compartida en Cristo.
 
-###### Antes de confrontar:
+###### **Antes** de confrontar:
 - divisiones,
 - orgullo,
-- sabiduría humana,
+- sabiduría **humana**,
 - o conflictos,
-Pablo establece primero aquello que Dios había dado y producido entre ellos.
+Pablo establece primero aquello que Dios había **dado** y producido entre ellos.
 
 ### 1 Corintios 1:4
 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
 
 #### Siempre doy gracias a mi Dios por ustedes
-##### Pablo expresa continuamente gratitud a Dios por los corintios.
+##### Pablo **expresa** continuamente gratitud a Dios por los corintios.
 
-##### La carta no comienza con rechazo hacia ellos, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
+##### La carta no comienza con rechazo hacia **ellos**, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
 
-###### Pablo reconoce sinceramente la obra de Dios entre los corintios.
+###### Pablo reconoce sinceramente la obra de Dios **entre** los corintios.
 
 ###### Desde el inicio:
-- habla de gracia,
+- **habla** de gracia,
 - enriquecimiento,
-- dones,
+- **dones**,
 - confirmación,
-- y comunión con Cristo.
+- y comunión con **Cristo**.
 
-###### Esto permite percibir que los problemas posteriores aparecen dentro de una iglesia donde verdaderamente existía participación en muchas cosas relacionadas con Cristo.
+###### Esto permite percibir que los problemas posteriores aparecen dentro de una iglesia donde verdaderamente existía participación en **muchas** cosas relacionadas con Cristo.
 
 #### por la gracia de Dios que les fue dada en Cristo Jesús.
 ##### Pablo describe esta gracia como algo dado a ellos en Cristo Jesús.
 
-##### La posición de los corintios no es presentada como algo alcanzado por ellos, sino como algo recibido.
+##### La posición de los corintios no es presentada como algo alcanzado por **ellos**, sino como algo recibido.
 
-##### La gracia es descrita como algo dado por Dios a ellos en Cristo Jesús.
+##### La gracia es descrita como algo dado por Dios a **ellos** en Cristo Jesús.
 
 ###### Pablo continúa dirigiendo la atención:
-- hacia lo que Dios había dado,
-- hacia lo que Dios había producido,
-- y hacia aquello que existía en Cristo Jesús.
+- hacia lo que **Dios** había dado,
+- hacia lo que Dios **había** producido,
+- y **hacia** aquello que existía en Cristo Jesús.
 
 ###### Desde el comienzo:
-- la gracia,
+- la **gracia**,
 - el llamado,
-- la santificación,
+- la **santificación**,
 - y el enriquecimiento
-son descritos como resultado de la iniciativa de Dios y no del mérito humano.
+son descritos como resultado de la **iniciativa** de Dios y no del mérito humano.
 
 ### 1 Corintios 1:5
 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento
 
 #### Porque en todo ustedes fueron enriquecidos en Él
-##### Pablo describe a los corintios como enriquecidos en Cristo y no como personas que aún necesitaban alcanzar esa condición.
+##### Pablo describe a los corintios como **enriquecidos** en Cristo y no como personas que aún necesitaban alcanzar esa condición.
 
-##### Este enriquecimiento es descrito como algo completo: "en todo".
+##### Este enriquecimiento es **descrito** como algo completo: "en todo".
 
 ##### No fueron enriquecidos aparte de Cristo, sino en Él.
 
-###### Pablo no presenta a la iglesia en Corinto como vacía de participación espiritual.
+###### Pablo no presenta a la **iglesia** en Corinto como vacía de participación espiritual.
 
 ###### Por el contrario:
-- habían sido enriquecidos,
-- participaban en palabra,
-- y participaban en conocimiento.
+- habían **sido** enriquecidos,
+- **participaban** en palabra,
+- y participaban en **conocimiento**.
 
-###### Esto ayuda a percibir por qué muchas de las cosas presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
+###### Esto ayuda a percibir por qué muchas de las **cosas** presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
 
 #### en toda palabra y en todo conocimiento
-##### El enriquecimiento mencionado no es descrito en términos materiales, sino en palabra y conocimiento. Colosenses 2:3
+##### El enriquecimiento mencionado no es descrito en términos materiales, sino en **palabra** y conocimiento. Colosenses 2:3
 
 ###### La palabra y el conocimiento no son presentados aquí como algo negativo en sí mismo.
 
-###### Desde el inicio Pablo reconoce que estas cosas verdaderamente existían entre los corintios.
+###### Desde el inicio Pablo reconoce que **estas** cosas verdaderamente existían entre los corintios.
 
 ###### Más adelante en la carta, Pablo comenzará a mostrar cómo:
 - el conocimiento,
 - la sabiduría,
-- y la manera de hablar
+- y la **manera** de hablar
 podían ser interpretados incorrectamente cuando quedaban separados de la cruz y del amor.
 
-###### Cristo es presentado como aquel en quien se encuentra la verdadera riqueza.
+###### Cristo es presentado como aquel en **quien** se encuentra la verdadera riqueza.
 
 ### 1 Corintios 1:6
 así como el testimonio acerca de Cristo fue confirmado en ustedes
 
 #### así como el testimonio acerca de Cristo fue confirmado en ustedes
-##### Pablo describe esto como algo que ya había sucedido en los corintios.
+##### Pablo describe esto como algo que ya **había** sucedido en los corintios.
 
-##### El conector "así como" conecta esta afirmación con el enriquecimiento mencionado anteriormente.
+##### El conector "así como" conecta **esta** afirmación con el enriquecimiento mencionado anteriormente.
 
-##### El enriquecimiento de los corintios es presentado junto con la confirmación del testimonio acerca de Cristo en ellos.
+##### El enriquecimiento de los corintios es presentado **junto** con la confirmación del testimonio acerca de Cristo en ellos.
 
-###### Pablo no habla de un evangelio superficial o solamente externo.
+###### Pablo no **habla** de un evangelio superficial o solamente externo.
 
 ###### El testimonio acerca de Cristo había sido confirmado en ellos.
 
 ###### Esto continúa estableciendo:
-- la autenticidad de la obra de Dios entre ellos,
-- la participación que tenían en Cristo,
+- la autenticidad de la **obra** de Dios entre ellos,
+- la participación que **tenían** en Cristo,
 - y la riqueza espiritual presente en la iglesia en Corinto.
 
 ### 1 Corintios 1:7
@@ -3699,7 +3698,7 @@ Por tanto, los exhorto: sean imitadores míos.
   - fuertes,
   - ricos,
   - distinguidos,
-y:
+  y:
 - los apóstoles:
   - débiles,
   - despreciados,
