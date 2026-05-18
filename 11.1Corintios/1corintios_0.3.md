@@ -97,9 +97,14 @@ La Iglesia Espiritual… según sí misma
 
 ##### La Iglesia Espiritual… según sí misma
 
+<<<<<<< HEAD
 ###### A lo largo de la carta, Pablo no solamente <u>corrige</u> conductas.
 
 ###### Repetidamente confronta una manera de <u>pensar</u>.
+=======
+###### A lo largo de la carta, Pablo no solamente corrige conductas.
+###### Repetidamente confronta una manera de pensar.
+>>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
 
 ###### Corinto puede parecer muy distinta dependiendo desde <u>dónde</u> se la observe.
 
@@ -141,10 +146,18 @@ La Iglesia Espiritual… según sí misma
 
 ###### Repetidamente, Pablo <u>expone</u> que los corintios no se estaban viendo correctamente a sí mismos.
 
+<<<<<<< HEAD
 ###### La <u>carta</u> no desarrolla solamente:
 - problemas de <u>conducta</u>,
 sino también:
 - una manera equivocada de <u>percibir</u> la realidad.
+=======
+###### La carta no desarrolla solamente:
+- problemas de conducta,
+
+###### sino también:
+- una manera equivocada de percibir la realidad.
+>>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
 
 ###### Y Pablo, repetidamente, <u>vuelve</u> a centrar todo en Cristo crucificado y resucitado.
 
@@ -160,10 +173,17 @@ sino también:
 ###### Por eso, esta carta <u>resulta</u> mucho más profunda que simplemente:
 - “Corinto <u>tenía</u> problemas”.
 
+<<<<<<< HEAD
 ###### Más bien, la carta desarrolla repetidamente una <u>tensión</u> entre:
 - la <u>manera</u> en que los corintios se perciben,
 y:
 - la realidad definida por <u>Cristo</u>.
+=======
+###### Más bien, la carta desarrolla repetidamente una tensión entre:
+- la manera en que los corintios se perciben,
+###### y:
+- la realidad definida por Cristo.
+>>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
 
 ###### Observe cómo este contraste reaparece continuamente a lo <u>largo</u> de la epístola.
 
