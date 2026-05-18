@@ -498,90 +498,90 @@ así como el testimonio acerca de Cristo fue confirmado en ustedes
 ###### Esto continúa estableciendo:
 - la autenticidad de la **obra** de Dios entre ellos,
 - la participación que **tenían** en Cristo,
-- y la riqueza espiritual presente en la iglesia en Corinto.
+- y la riqueza espiritual presente en la iglesia en **Corinto**.
 
 ### 1 Corintios 1:7
 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo
 
 #### de manera que nada les falta en ningún don
-##### Pablo describe a los corintios como personas a quienes no les faltaba ningún don.
+##### Pablo **describe** a los corintios como personas a quienes no les faltaba ningún don.
 
-##### Esta afirmación es presentada como resultado de la gracia y del enriquecimiento descritos anteriormente.
+##### Esta afirmación es presentada como resultado de la **gracia** y del enriquecimiento descritos anteriormente.
 
-###### La iglesia en Corinto no es presentada como una iglesia carente de actividad espiritual visible.
+###### La iglesia en Corinto no es **presentada** como una iglesia carente de actividad espiritual visible.
 
 ###### Por el contrario:
-- había dones,
-- participación,
-- expectativa,
-- y manifestaciones relacionadas con la vida de la iglesia.
+- había **dones**,
+- **participación**,
+- **expectativa**,
+- y manifestaciones relacionadas con la **vida** de la iglesia.
 
-###### Precisamente por eso las correcciones posteriores producen una tensión tan profunda a lo largo de la carta.
+###### Precisamente por **eso** las correcciones posteriores producen una tensión tan profunda a lo largo de la carta.
 
 #### esperando ansiosamente la revelación de nuestro Señor Jesucristo
-##### Los corintios son descritos como esperando la revelación futura de Jesucristo.
+##### Los corintios son descritos **como** esperando la revelación futura de Jesucristo.
 
 ##### La revelación de Jesucristo es presentada como algo futuro que aguardaban.
 
-###### Pablo describe a los corintios como personas que vivían:
-- esperando,
+###### Pablo describe a los corintios como personas que **vivían**:
+- **esperando**,
 - participando,
-- y orientadas hacia la venida futura del Señor Jesucristo.
+- y orientadas hacia la venida **futura** del Señor Jesucristo.
 
-###### La carta comienza mostrando una iglesia:
-- activa,
+###### La carta **comienza** mostrando una iglesia:
+- **activa**,
 - expectante,
-- y profundamente relacionada con realidades espirituales.
+- y profundamente **relacionada** con realidades espirituales.
 
 ### 1 Corintios 1:8
 Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 
 #### Él también los confirmará hasta el fin
-##### Pablo presenta a Cristo como quien los confirmará hasta el fin.
+##### Pablo presenta a Cristo como **quien** los confirmará hasta el fin.
 
-##### La futura revelación de Cristo no es presentada como motivo de temor, sino dentro de un marco de confirmación.
+##### La futura revelación de **Cristo** no es presentada como motivo de temor, sino dentro de un marco de confirmación.
 
 ###### Pablo continúa enfatizando:
-- la fidelidad de Dios,
-- la obra de Cristo,
-- y la seguridad asociada a aquello que Dios mismo había comenzado entre ellos.
+- la **fidelidad** de Dios,
+- la **obra** de Cristo,
+- y la seguridad asociada a **aquello** que Dios mismo había comenzado entre ellos.
 
 #### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
-##### Los corintios son descritos como confirmados irreprensibles para el día del Señor Jesucristo.
+##### Los corintios son descritos como confirmados irreprensibles para el **día** del Señor Jesucristo.
 
-##### El día del Señor Jesucristo corresponde al evento futuro mencionado anteriormente como su revelación.
+##### El día del **Señor** Jesucristo corresponde al evento futuro mencionado anteriormente como su revelación.
 
-##### Pablo presenta esto como algo asociado a la obra que Cristo mismo realizará.
+##### Pablo presenta esto como algo asociado a la **obra** que Cristo mismo realizará.
 
-###### Desde el inicio de la carta:
-- el llamado,
+###### Desde el **inicio** de la carta:
+- el **llamado**,
 - la santificación,
-- la gracia,
+- la **gracia**,
 - el enriquecimiento,
 - y la confirmación
-son continuamente relacionados con la obra de Dios y de Cristo.
+son continuamente relacionados con la **obra** de Dios y de Cristo.
 
 ### 1 Corintios 1:9
 Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
 
 #### Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
-##### Dios es descrito como fiel.
+##### Dios es descrito como **fiel**.
 
 ##### Los corintios fueron llamados por medio de Dios a la comunión con Su Hijo Jesucristo.
 
 ##### Pablo describe el llamado de Dios como un llamado a la comunión con Su Hijo Jesucristo.
 
-##### La fidelidad de Dios es presentada junto con este llamado.
+##### La fidelidad de Dios es presentada **junto** con este llamado.
 
-###### La carta comienza estableciendo que la relación principal que define a los creyentes es su comunión con Jesucristo.
+###### La carta **comienza** estableciendo que la relación principal que define a los creyentes es su comunión con Jesucristo.
 
 ###### Más adelante Pablo comenzará a confrontar:
 - divisiones,
-- identificaciones humanas,
+- identificaciones **humanas**,
 - jactancia,
-- y maneras de pensar centradas en hombres.
+- y maneras de **pensar** centradas en hombres.
 
-###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los definía era su participación compartida en Cristo.
+###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los **definía** era su participación compartida en Cristo.
 
 ## 1:10-17 Las identificaciones y divisiones que existían entre los corintios
 
@@ -589,85 +589,85 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
 
 #### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo,
-##### No es una petición común, sino una súplica de hermano a hermanos.
+##### No es una petición común, sino una **súplica** de hermano a hermanos.
 
-##### La súplica tiene como base el nombre de nuestro Señor Jesucristo.
+##### La súplica **tiene** como base el nombre de nuestro Señor Jesucristo.
 
-##### Pablo ruega esto después de haberles recordado lo que ya eran en Cristo y la gracia que habían recibido de parte de Dios.
+##### Pablo ruega esto después de haberles recordado lo que ya **eran** en Cristo y la gracia que habían recibido de parte de Dios.
 
-##### El ruego de Pablo surge sobre la base de lo que Dios ya hizo a favor de ellos en Cristo.
+##### El ruego de Pablo **surge** sobre la base de lo que Dios ya hizo a favor de ellos en Cristo.
 
 ###### Pablo no comienza confrontándolos desde una relación distante o fría.
 
-###### Incluso al comenzar a corregir:
+###### Incluso al comenzar a **corregir**:
 - continúa llamándolos hermanos,
-- continúa hablando desde la comunión compartida en Cristo,
-- y continúa estableciendo el fundamento sobre aquello que Dios ya había hecho entre ellos.
+- continúa hablando **desde** la comunión compartida en Cristo,
+- y continúa estableciendo el fundamento sobre **aquello** que Dios ya había hecho entre ellos.
 
 #### que todos se pongan de acuerdo
-##### Esto involucra a todos los corintios; el ruego de Pablo va dirigido a toda la iglesia.
+##### Esto involucra a **todos** los corintios; el ruego de Pablo va dirigido a toda la iglesia.
 
-##### Pablo quiere que todos hablen de acuerdo a aquello que comparten en Cristo.
+##### Pablo quiere que todos **hablen** de acuerdo a aquello que comparten en Cristo.
 
-##### No está pidiendo simplemente conformidad externa ni que todos sigan a un mismo hombre.
+##### No está **pidiendo** simplemente conformidad externa ni que todos sigan a un mismo hombre.
 
 ##### La unidad que Pablo describe surge de la verdad y no de preferencias personales.
 
-###### Lo que estaba ocurriendo en Corinto probablemente no se percibía necesariamente como algo negativo entre ellos.
+###### Lo que estaba ocurriendo en Corinto probablemente no se **percibía** necesariamente como algo negativo entre ellos.
 
 ###### Identificarse:
-- con ciertos hombres,
-- con ciertas maneras de hablar,
-- o con determinados grupos
+- con **ciertos** hombres,
+- con ciertas maneras de **hablar**,
+- o con determinados **grupos**
 podía parecer natural e incluso correcto dentro de una cultura donde la sabiduría, la reputación y la identificación con figuras reconocidas tenían enorme valor.
 
-###### Precisamente por eso Pablo dirige nuevamente la atención hacia Cristo y hacia aquello que todos compartían en Él.
+###### Precisamente por eso Pablo **dirige** nuevamente la atención hacia Cristo y hacia aquello que todos compartían en Él.
 
 #### y que no haya divisiones entre ustedes
 
 divisiones - SQUISMA
 : Proviene del verbo *schizo*, que significa romper, rasgar o dividir.
 
-##### La idea es la de algo que está siendo dividido o rasgado.
+##### La idea es la de algo que está siendo **dividido** o rasgado.
 
-##### Pablo ruega que no haya divisiones entre ellos porque en Cristo son uno.
+##### Pablo ruega que no **haya** divisiones entre ellos porque en Cristo son uno.
 
 ###### Pablo comienza a mostrar una tensión que aparecerá repetidamente en toda la carta:
-- aquello que podía parecer fuerte o válido según criterios humanos,
-- podía al mismo tiempo estar produciendo división dentro del cuerpo.
+- aquello que **podía** parecer fuerte o válido según criterios humanos,
+- podía al mismo tiempo estar produciendo **división** dentro del cuerpo.
 
 ###### La preocupación de Pablo no es solamente externa o organizacional.
 
-###### Lo que está en juego es:
-- la manera en que se comprendían a sí mismos,
-- la manera en que se relacionaban unos con otros,
-- y aquello que verdaderamente los definía en Cristo.
+###### Lo que **está** en juego es:
+- la manera en que se comprendían a sí **mismos**,
+- la **manera** en que se relacionaban unos con otros,
+- y aquello que verdaderamente los **definía** en Cristo.
 
 #### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
-##### La expresión "enteramente unidos" describe algo que debía reflejarse continuamente entre ellos.
+##### La expresión "enteramente unidos" describe algo que debía reflejarse continuamente entre **ellos**.
 
-##### Pablo no les pide que produzcan unidad, sino que vivan de acuerdo a ella.
+##### Pablo no les pide que produzcan **unidad**, sino que vivan de acuerdo a ella.
 
-##### Ya no solamente se trata de hablar de manera unánime, sino también de comprenderse a sí mismos desde una misma perspectiva.
+##### Ya no solamente se trata de hablar de manera unánime, sino también de comprenderse a sí mismos desde una **misma** perspectiva.
 
 ##### Pablo desea que exista unidad tanto en lo que dicen como en la manera en que entienden las cosas.
 
-###### Pablo comienza a confrontar algo más profundo que simples desacuerdos visibles.
+###### Pablo comienza a confrontar **algo** más profundo que simples desacuerdos visibles.
 
 ###### La manera de:
-- pensar,
-- hablar,
-- identificarse,
+- **pensar**,
+- **hablar**,
+- **identificarse**,
 - y evaluarse unos a otros
 estaba relacionada con la manera en que estaban interpretando la vida en Cristo.
 
-###### Más adelante Pablo desarrollará esta tensión mediante:
-- la cruz,
+###### Más adelante **Pablo** desarrollará esta tensión mediante:
+- la **cruz**,
 - la sabiduría,
-- la jactancia,
+- la **jactancia**,
 - el conocimiento,
-- los dones,
-- y el amor.
+- los **dones**,
+- y el **amor**.
 
 ## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
 
@@ -679,26 +679,26 @@ Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, 
 
 ##### Los de Cloé informaron a Pablo acerca de lo que estaba ocurriendo entre ellos.
 
-##### Esto muestra preocupación por el estado de la iglesia en Corinto.
+##### Esto muestra preocupación por el **estado** de la iglesia en Corinto.
 
 ###### Aun al comenzar a confrontar el problema, Pablo continúa llamándolos:
-- hermanos míos.
+- hermanos **míos**.
 
 ###### La corrección ocurre dentro de un contexto:
 - relacional,
 - comunitario,
-- y de participación compartida en Cristo.
+- y de participación **compartida** en Cristo.
 
 #### que hay discusiones entre ustedes.
 ##### El informe describe lo que estaba ocurriendo entre ellos.
 
-##### Pablo no presenta esto como un peligro futuro, sino como algo que ya estaba ocurriendo entre los corintios.
+##### Pablo no presenta **esto** como un peligro futuro, sino como algo que ya estaba ocurriendo entre los corintios.
 
-##### Sin embargo, Pablo comenzará a contrastar esto con lo que eran en Cristo.
+##### Sin embargo, Pablo comenzará a contrastar esto con lo que **eran** en Cristo.
 
 ###### Las discusiones no son presentadas solamente como desacuerdos aislados.
 
-###### Pablo comenzará a mostrar que la manera en que:
+###### Pablo comenzará a **mostrar** que la manera en que:
 - se identificaban,
 - hablaban,
 - y se agrupaban
