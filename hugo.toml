@@ -18,6 +18,7 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
@@ -91,6 +92,12 @@ enableRobotsTXT = true
     url = "/contacto/"
     parent = "participa"
     weight = 2
+
+[[menu.main]]
+    name = "Descargas"
+    url = "/descargas/"
+    parent = "participa"
+    weight = 3
 
 [[menu.topbar]]
     weight = 1
