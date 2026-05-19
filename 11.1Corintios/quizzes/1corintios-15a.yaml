@@ -1,0 +1,115 @@
+id: 1corintios-15a
+
+title: 1 Corintios 15:1–34
+
+questions:
+
+  - question: ¿Qué recuerda Pablo a los corintios al comenzar el capítulo 15?
+    answers:
+      - text: El evangelio que les había predicado
+        correct: true
+      - text: Las leyes ceremoniales
+        correct: false
+      - text: Las tradiciones griegas
+        correct: false
+      - text: Los milagros de Elías
+        correct: false
+
+  - question: ¿Qué dice Pablo que hizo Cristo conforme a las Escrituras?
+    answers:
+      - text: Murió y resucitó al tercer día
+        correct: true
+      - text: Reinó en Jerusalén
+        correct: false
+      - text: Escribió nuevas leyes
+        correct: false
+      - text: Construyó el templo
+        correct: false
+
+  - question: ¿A quiénes se apareció Cristo resucitado según Pablo?
+    answers:
+      - text: A Cefas, a los doce y a muchos hermanos
+        correct: true
+      - text: Solo a Pablo
+        correct: false
+      - text: Únicamente a María
+        correct: false
+      - text: Solamente a los profetas
+        correct: false
+
+  - question: ¿Cómo se describe Pablo a sí mismo entre los apóstoles?
+    answers:
+      - text: Como el más insignificante
+        correct: true
+      - text: Como el más sabio
+        correct: false
+      - text: Como el principal gobernante
+        correct: false
+      - text: Como el más poderoso
+        correct: false
+
+  - question: ¿Qué consecuencia habría si Cristo no hubiera resucitado?
+    answers:
+      - text: La fe sería vana
+        correct: true
+      - text: La ley desaparecería
+        correct: false
+      - text: Jerusalén sería destruida
+        correct: false
+      - text: Los apóstoles gobernarían el mundo
+        correct: false
+
+  - question: ¿Cómo llama Pablo a Cristo en relación con los que durmieron?
+    answers:
+      - text: Primicias
+        correct: true
+      - text: Profeta
+        correct: false
+      - text: Rey terrenal
+        correct: false
+      - text: Sacerdote levítico
+        correct: false
+
+  - question: ¿Cuál es el último enemigo que será eliminado?
+    answers:
+      - text: La muerte
+        correct: true
+      - text: Roma
+        correct: false
+      - text: El pecado solamente
+        correct: false
+      - text: El templo
+        correct: false
+
+  - question: ¿Qué dice Pablo que perdería sentido si no hubiera resurrección?
+    answers:
+      - text: El sufrimiento y peligro que enfrentan los creyentes
+        correct: true
+      - text: La agricultura
+        correct: false
+      - text: La circuncisión
+        correct: false
+      - text: Las fiestas judías
+        correct: false
+
+  - question: ¿Qué frase cita Pablo para mostrar la lógica de una vida sin resurrección?
+    answers:
+      - text: “Comamos y bebamos, que mañana moriremos”
+        correct: true
+      - text: “Todo es lícito”
+        correct: false
+      - text: “La carne es débil”
+        correct: false
+      - text: “Nada hay nuevo bajo el sol”
+        correct: false
+
+  - question: ¿Qué exhortación final hace Pablo en esta sección?
+    answers:
+      - text: Sean sobrios y dejen de pecar
+        correct: true
+      - text: Construyan más iglesias
+        correct: false
+      - text: Ayunen cuarenta días
+        correct: false
+      - text: Permanezcan en Jerusalén
+        correct: false
