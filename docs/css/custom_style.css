@@ -255,6 +255,34 @@
   line-height: 1.65;
 }
 
+.cgv-radio-home {
+  padding-top: 20px;
+}
+
+.cgv-home-radio-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  padding: 34px;
+  border: 1px solid #d7eadf;
+  border-radius: 18px;
+  background: #f2fbf6;
+}
+
+.cgv-home-radio-card h2 {
+  margin: 0 0 10px;
+  color: #1f3d2b;
+  font-size: 32px;
+}
+
+.cgv-home-radio-card p:last-child {
+  margin-bottom: 0;
+  color: #405047;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
 @media (max-width: 767px) {
   .cgv-home-hero {
     padding: 50px 0;
@@ -266,6 +294,12 @@
 
   .cgv-home-lead {
     font-size: 19px;
+  }
+
+  .cgv-home-radio-card {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 26px;
   }
 
   .cgv-home-grid.three,
