@@ -585,11 +585,11 @@ Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jes
 ###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los <u>definía</u> era su participación compartida en Cristo.
 
 > En Síntesis
-> - Pablo establece desde el inicio que la iglesia en Corinto pertenece a Dios y existe por iniciativa divina, no por mérito, prestigio o autosuficiencia humana. 
-> - Los corintios son descritos como personas que verdaderamente habían recibido gracia, santificación, comunión y participación en Cristo Jesús. 
-> - Pablo reconoce que en Corinto existían riquezas espirituales reales: palabra, conocimiento, dones y confirmación del testimonio acerca de Cristo. 
-> - La carta comienza dentro de un ambiente de gracia, paz, gratitud y fidelidad divina antes de confrontar los problemas y divisiones posteriores. 
-> - La realidad principal que Pablo establece como definitoria para los creyentes es su comunión compartida con Jesucristo, por encima de identidades humanas o exaltación personal.
+>- Pablo establece desde el inicio que la iglesia en Corinto pertenece a Dios y existe por iniciativa divina, no por mérito, prestigio o autosuficiencia humana. 
+>- Los corintios son descritos como personas que verdaderamente habían recibido gracia, santificación, comunión y participación en Cristo Jesús. 
+>- Pablo reconoce que en Corinto existían riquezas espirituales reales: palabra, conocimiento, dones y confirmación del testimonio acerca de Cristo. 
+>- La carta comienza dentro de un ambiente de gracia, paz, gratitud y fidelidad divina antes de confrontar los problemas y divisiones posteriores. 
+>- La realidad principal que Pablo establece como definitoria para los creyentes es su comunión compartida con Jesucristo, por encima de identidades humanas o exaltación personal.
 
 ## 1:10 Las identificaciones y divisiones que existían entre los corintios
 
@@ -969,11 +969,11 @@ Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabr
 - y no depende de la capacidad humana para producir su poder.
 
 > En Síntesis
-> - Pablo confronta las divisiones en Corinto recordándoles que su identidad verdadera no proviene de hombres, grupos o preferencias, sino de su comunión compartida en Cristo.
-> - Las discusiones y separaciones revelaban una manera de pensar y evaluarse según criterios humanos como reputación, sabiduría, elocuencia y asociaciones personales.
-> - Pablo expone que Cristo no está dividido y que solamente Cristo fue crucificado por ellos, desplazando completamente la atención lejos de la exaltación humana.
-> - El ministerio de Pablo no buscaba formar seguidores personales ni producir identidades centradas en hombres, sino anunciar el evangelio de Cristo.
-> - Pablo comienza a introducir el gran contraste de la carta: aquello que impresiona según la sabiduría y capacidad humana no necesariamente corresponde a aquello que manifiesta verdaderamente el poder de Dios en la cruz de Cristo.
+>- Pablo confronta las divisiones en Corinto recordándoles que su identidad verdadera no proviene de hombres, grupos o preferencias, sino de su comunión compartida en Cristo.
+>- Las discusiones y separaciones revelaban una manera de pensar y evaluarse según criterios humanos como reputación, sabiduría, elocuencia y asociaciones personales.
+>- Pablo expone que Cristo no está dividido y que solamente Cristo fue crucificado por ellos, desplazando completamente la atención lejos de la exaltación humana.
+>- El ministerio de Pablo no buscaba formar seguidores personales ni producir identidades centradas en hombres, sino anunciar el evangelio de Cristo.
+>- Pablo comienza a introducir el gran contraste de la carta: aquello que impresiona según la sabiduría y capacidad humana no necesariamente corresponde a aquello que manifiesta verdaderamente el poder de Dios en la cruz de Cristo.
 
 ## 1:18-2:5 La cruz destruye la gloria y sabiduría humanas 
 
@@ -2094,11 +2094,11 @@ están relacionadas con:
 - y la manera carnal en que los corintios todavía estaban pensando y actuando.
 
 > En Síntesis
-> - Pablo aclara que la verdadera sabiduría sí existe, pero no proviene de este siglo ni de la capacidad humana, sino de Dios mismo. 
-> - La sabiduría revelada en Cristo permaneció oculta para los gobernantes y criterios humanos, quedando expuesta su ceguera en la crucifixión del Señor de gloria. 
-> - El hombre no puede descubrir ni comprender las cosas de Dios mediante inteligencia, percepción o razonamiento humano; solamente el Espíritu puede revelarlas. 
-> - El verdadero conocimiento espiritual depende completamente del Espíritu de Dios, quien permite comprender las riquezas que Dios ya ha dado gratuitamente en Cristo. 
-> - Pablo concluye mostrando que el creyente posee discernimiento espiritual porque tiene la mente de Cristo, preparando así el contraste con la manera carnal en que los corintios todavía estaban pensando y actuando. 
+>- Pablo aclara que la verdadera sabiduría sí existe, pero no proviene de este siglo ni de la capacidad humana, sino de Dios mismo. 
+>- La sabiduría revelada en Cristo permaneció oculta para los gobernantes y criterios humanos, quedando expuesta su ceguera en la crucifixión del Señor de gloria. 
+>- El hombre no puede descubrir ni comprender las cosas de Dios mediante inteligencia, percepción o razonamiento humano; solamente el Espíritu puede revelarlas. 
+>- El verdadero conocimiento espiritual depende completamente del Espíritu de Dios, quien permite comprender las riquezas que Dios ya ha dado gratuitamente en Cristo. 
+>- Pablo concluye mostrando que el creyente posee discernimiento espiritual porque tiene la mente de Cristo, preparando así el contraste con la manera carnal en que los corintios todavía estaban pensando y actuando. 
 
 <!-- @quiz 1corintios-1-2 -->
 
@@ -2605,11 +2605,11 @@ parecían tener <u>tanto</u> peso,
 la manera de edificar se volvía algo extremadamente importante.
 
 > En Síntesis
-> - Pablo expone una profunda tensión en Corinto: aunque los creyentes poseían riquezas espirituales reales en Cristo, todavía estaban pensando y actuando de manera carnal.
-> - La carnalidad se manifestaba mediante celos, discusiones, rivalidades e identificaciones humanas que seguían organizando la vida de la iglesia según criterios del mundo.
-> - Pablo destruye la exaltación de hombres mostrando que tanto él como Apolos son solamente servidores dentro de una obra que pertenece completamente a Dios.
-> - Aunque existían diferentes funciones y labores dentro de la iglesia, el crecimiento verdadero provenía únicamente de Dios y no de capacidad, carisma o prestigio humano.
-> - La iglesia es presentada como el campo y el edificio de Dios, donde cada colaborador debe tener cuidado de cómo edifica sobre el fundamento que Dios estableció en Cristo.
+>- Pablo expone una profunda tensión en Corinto: aunque los creyentes poseían riquezas espirituales reales en Cristo, todavía estaban pensando y actuando de manera carnal.
+>- La carnalidad se manifestaba mediante celos, discusiones, rivalidades e identificaciones humanas que seguían organizando la vida de la iglesia según criterios del mundo.
+>- Pablo destruye la exaltación de hombres mostrando que tanto él como Apolos son solamente servidores dentro de una obra que pertenece completamente a Dios.
+>- Aunque existían diferentes funciones y labores dentro de la iglesia, el crecimiento verdadero provenía únicamente de Dios y no de capacidad, carisma o prestigio humano.
+>- La iglesia es presentada como el campo y el edificio de Dios, donde cada colaborador debe tener cuidado de cómo edifica sobre el fundamento que Dios estableció en Cristo.
 
 ## 1 Corintios 3:10b-15 - La obra de cada uno sería probada sobre el fundamento que es Cristo
 
@@ -2913,11 +2913,11 @@ sino de la relación que tiene con Dios y con Su presencia.
 donde el Espíritu mismo habitaba.
 
 > En Síntesis
-> - Pablo dirige ahora la atención hacia la responsabilidad personal de cada creyente respecto a cómo edifica y vive sobre el único fundamento que es Jesucristo.
-> - Aunque todos edifican sobre el mismo fundamento, no toda obra posee la misma calidad ni resistirá de la misma manera cuando sea probada por Dios.
-> - El valor verdadero de la obra no será determinado por apariencia, reconocimiento humano o impacto visible, sino por aquello que permanezca después de la prueba del fuego.
-> - Pablo distingue entre la salvación del creyente y la calidad de la obra construida, mostrando que una obra puede perderse completamente mientras la salvación permanece en Cristo.
-> - La iglesia en Corinto es presentada colectivamente como el templo santo de Dios donde habita Su Espíritu, haciendo extremadamente serias las divisiones, rivalidades y destrucción dentro de ella.
+>- Pablo dirige ahora la atención hacia la responsabilidad personal de cada creyente respecto a cómo edifica y vive sobre el único fundamento que es Jesucristo.
+>- Aunque todos edifican sobre el mismo fundamento, no toda obra posee la misma calidad ni resistirá de la misma manera cuando sea probada por Dios.
+>- El valor verdadero de la obra no será determinado por apariencia, reconocimiento humano o impacto visible, sino por aquello que permanezca después de la prueba del fuego.
+>- Pablo distingue entre la salvación del creyente y la calidad de la obra construida, mostrando que una obra puede perderse completamente mientras la salvación permanece en Cristo.
+>- La iglesia en Corinto es presentada colectivamente como el templo santo de Dios donde habita Su Espíritu, haciendo extremadamente serias las divisiones, rivalidades y destrucción dentro de ella.
 
 ## 1 Corintios 3:18-22 - La sabiduría y la gloria que existían entre los corintios
 
@@ -3349,11 +3349,11 @@ será completamente manifestado por el Señor.
 pertenecen finalmente al Señor y no al hombre.
 
 > En Síntesis
-> - Pablo confronta el autoengaño producido por la sabiduría humana, mostrando que la verdadera sabiduría solamente puede encontrarse abandonando los criterios de valoración de este mundo.
-> - La sabiduría, la gloria y las comparaciones humanas quedan completamente vacías delante de Dios, quien conoce y expone la inutilidad de los razonamientos humanos.
-> - Los creyentes no deben jactarse en hombres porque todo les pertenece en Cristo, mientras ellos mismos continúan perteneciendo a Cristo y Cristo a Dios.
-> - Pablo redefine correctamente a los siervos de Dios como simples servidores y administradores cuya responsabilidad principal es ser hallados fieles delante del Señor.
-> - La evaluación, el juicio y la verdadera alabanza no pertenecen finalmente al hombre, sino al Señor, quien revelará plenamente las obras, motivaciones e intenciones cuando venga.
+>- Pablo confronta el autoengaño producido por la sabiduría humana, mostrando que la verdadera sabiduría solamente puede encontrarse abandonando los criterios de valoración de este mundo.
+>- La sabiduría, la gloria y las comparaciones humanas quedan completamente vacías delante de Dios, quien conoce y expone la inutilidad de los razonamientos humanos.
+>- Los creyentes no deben jactarse en hombres porque todo les pertenece en Cristo, mientras ellos mismos continúan perteneciendo a Cristo y Cristo a Dios.
+>- Pablo redefine correctamente a los siervos de Dios como simples servidores y administradores cuya responsabilidad principal es ser hallados fieles delante del Señor.
+>- La evaluación, el juicio y la verdadera alabanza no pertenecen finalmente al hombre, sino al Señor, quien revelará plenamente las obras, motivaciones e intenciones cuando venga.
 
 ## 4:6-13 La percepción que los corintios tenían de sí mismos y de los apóstoles
 
@@ -3959,11 +3959,11 @@ sino de responsabilidad paternal y amorosa hacia ellos.
 siguen siendo el deseo principal de Pablo hacia los corintios.
 
 > En Síntesis
-> - Pablo expone que la arrogancia y las divisiones entre los corintios nacían de una percepción inflada de sí mismos y de una comprensión equivocada de la gracia recibida de Dios.
-> - Mientras los corintios se percibían ricos, fuertes y reinando espiritualmente, la realidad apostólica estaba marcada por debilidad, sufrimiento, rechazo y humillación por causa de Cristo.
-> - Pablo presenta el camino apostólico como una vida formada por la cruz, caracterizada por servicio, perseverancia, mansedumbre y dependencia de Dios, no por prestigio o exaltación humana.
-> - La relación de Pablo con los corintios no surge de control ni superioridad, sino del evangelio mediante el cual él los engendró en Cristo Jesús como hijos amados.
-> - Pablo concluye confrontando las palabras arrogantes de algunos corintios, recordando que el reino de Dios no consiste en discursos inflados, sino en el verdadero poder de Dios manifestado en una vida conforme a Cristo.
+>- Pablo expone que la arrogancia y las divisiones entre los corintios nacían de una percepción inflada de sí mismos y de una comprensión equivocada de la gracia recibida de Dios.
+>- Mientras los corintios se percibían ricos, fuertes y reinando espiritualmente, la realidad apostólica estaba marcada por debilidad, sufrimiento, rechazo y humillación por causa de Cristo.
+>- Pablo presenta el camino apostólico como una vida formada por la cruz, caracterizada por servicio, perseverancia, mansedumbre y dependencia de Dios, no por prestigio o exaltación humana.
+>- La relación de Pablo con los corintios no surge de control ni superioridad, sino del evangelio mediante el cual él los engendró en Cristo Jesús como hijos amados.
+>- Pablo concluye confrontando las palabras arrogantes de algunos corintios, recordando que el reino de Dios no consiste en discursos inflados, sino en el verdadero poder de Dios manifestado en una vida conforme a Cristo.
 
 <!-- @quiz 1corintios-3-4 -->
 
@@ -4297,11 +4297,11 @@ y:
 - y conforme a la <u>realidad</u> espiritual que Pablo había venido recordándoles desde el comienzo de la carta.
 
 > En Síntesis
-> - Pablo expone que la arrogancia y percepción inflada de los corintios había llegado al punto de tolerar públicamente un pecado extremadamente grave dentro de la iglesia.
-> - La reacción correcta frente al pecado debía haber sido quebranto, discernimiento y acción conforme a la santidad de la iglesia, no tolerancia orgullosa ni pasividad.
-> - La disciplina ordenada por Pablo no surge de odio ni destrucción, sino de una preocupación seria por la salvación final y la pureza del pueblo de Dios.
-> - Pablo conecta toda esta exhortación con la realidad que los creyentes ya poseen en Cristo, llamándolos a vivir conforme a la nueva identidad y santidad que tienen por medio de Cristo, nuestra Pascua.
-> - La responsabilidad principal de la iglesia no consiste en juzgar al mundo incrédulo, sino en discernir y tratar correctamente aquello que ocurre dentro del pueblo que afirma pertenecer a Cristo.
+>- Pablo expone que la arrogancia y percepción inflada de los corintios había llegado al punto de tolerar públicamente un pecado extremadamente grave dentro de la iglesia.
+>- La reacción correcta frente al pecado debía haber sido quebranto, discernimiento y acción conforme a la santidad de la iglesia, no tolerancia orgullosa ni pasividad.
+>- La disciplina ordenada por Pablo no surge de odio ni destrucción, sino de una preocupación seria por la salvación final y la pureza del pueblo de Dios.
+>- Pablo conecta toda esta exhortación con la realidad que los creyentes ya poseen en Cristo, llamándolos a vivir conforme a la nueva identidad y santidad que tienen por medio de Cristo, nuestra Pascua.
+>- La responsabilidad principal de la iglesia no consiste en juzgar al mundo incrédulo, sino en discernir y tratar correctamente aquello que ocurre dentro del pueblo que afirma pertenecer a Cristo.
 
 <!-- @quiz 1corintios-5 -->
 
@@ -4867,11 +4867,11 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 - y en toda la manera de vivir.
 
 > En Síntesis
-> - Pablo concluye que los creyentes no se pertenecen a sí mismos, porque fueron realmente comprados por Dios mediante la obra de Cristo.
-> - La pertenencia a Cristo redefine completamente la manera en que los creyentes deben comprender su cuerpo, su vida y toda su existencia.
-> - El cuerpo no es presentado como algo separado de la realidad espiritual, sino como parte de aquello que ahora pertenece a Dios.
-> - La espiritualidad verdadera no consiste solamente en pensamientos o experiencias internas, sino en una vida que glorifica a Dios también en el cuerpo.
-> - Pablo termina destruyendo toda falsa separación entre vida espiritual y vida práctica, mostrando que toda la vida del creyente debe corresponder a su pertenencia a Cristo.
+>- Pablo concluye que los creyentes no se pertenecen a sí mismos, porque fueron realmente comprados por Dios mediante la obra de Cristo.
+>- La pertenencia a Cristo redefine completamente la manera en que los creyentes deben comprender su cuerpo, su vida y toda su existencia.
+>- El cuerpo no es presentado como algo separado de la realidad espiritual, sino como parte de aquello que ahora pertenece a Dios.
+>- La espiritualidad verdadera no consiste solamente en pensamientos o experiencias internas, sino en una vida que glorifica a Dios también en el cuerpo.
+>- Pablo termina destruyendo toda falsa separación entre vida espiritual y vida práctica, mostrando que toda la vida del creyente debe corresponder a su pertenencia a Cristo.
 
 <!-- @quiz 1corintios-6 -->
 
@@ -5731,13 +5731,13 @@ y los que lloran, como si no lloraran; y los que se regocijan, como si no se reg
 - y no definitivas.
 
 > En Síntesis
-> - Pablo ofrece un juicio pastoral confiable respecto a las personas no casadas.
-> - La “presente dificultad” influye en las recomendaciones dadas.
-> - Pablo enfatiza permanecer en la condición actual cuando sea posible.
-> - El matrimonio no es presentado como pecado.
-> - Las presiones de la vida presente son tomadas seriamente.
-> - Pablo presenta el tiempo como algo breve y transitorio.
-> - Relaciones, emociones y posesiones son relativizadas frente a una realidad mayor.
+>- Pablo ofrece un juicio pastoral confiable respecto a las personas no casadas.
+>- La “presente dificultad” influye en las recomendaciones dadas.
+>- Pablo enfatiza permanecer en la condición actual cuando sea posible.
+>- El matrimonio no es presentado como pecado.
+>- Las presiones de la vida presente son tomadas seriamente.
+>- Pablo presenta el tiempo como algo breve y transitorio.
+>- Relaciones, emociones y posesiones son relativizadas frente a una realidad mayor.
 
 ### Las realidades temporales no son tratadas como definitivas.
 
@@ -6048,11 +6048,11 @@ Pero a mi juicio, más feliz será si se queda como está; y pienso que también
 - y una vida correctamente ordenada delante de Dios.
 
 > En Síntesis
-> - Pablo responde las preguntas de los corintios alejándolos de extremos y mostrando una visión equilibrada del matrimonio, la soltería, la sexualidad y las relaciones humanas delante de Dios.
-> - Tanto el matrimonio como la soltería son presentados como situaciones legítimas dentro de la vida cristiana, y ninguno debe convertirse en una medida absoluta de espiritualidad para todos.
-> - Pablo redefine las relaciones desde responsabilidad mutua, dominio propio, paz y pertenencia al Señor, rechazando tanto el egoísmo como una espiritualidad desconectada de la realidad práctica.
-> - La condición externa del creyente —casado, soltero, circuncidado, incircunciso, esclavo o libre— no determina finalmente su valor ni su realidad espiritual delante de Dios, porque todos son redefinidos desde su llamado y pertenencia a Cristo.
-> - A lo largo de todo el capítulo, Pablo dirige a los corintios hacia una vida estable, ordenada y enfocada en el Señor, viviendo correctamente dentro de la condición presente mientras esperan la realidad futura del Señor.
+>- Pablo responde las preguntas de los corintios alejándolos de extremos y mostrando una visión equilibrada del matrimonio, la soltería, la sexualidad y las relaciones humanas delante de Dios.
+>- Tanto el matrimonio como la soltería son presentados como situaciones legítimas dentro de la vida cristiana, y ninguno debe convertirse en una medida absoluta de espiritualidad para todos.
+>- Pablo redefine las relaciones desde responsabilidad mutua, dominio propio, paz y pertenencia al Señor, rechazando tanto el egoísmo como una espiritualidad desconectada de la realidad práctica.
+>- La condición externa del creyente —casado, soltero, circuncidado, incircunciso, esclavo o libre— no determina finalmente su valor ni su realidad espiritual delante de Dios, porque todos son redefinidos desde su llamado y pertenencia a Cristo.
+>- A lo largo de todo el capítulo, Pablo dirige a los corintios hacia una vida estable, ordenada y enfocada en el Señor, viviendo correctamente dentro de la condición presente mientras esperan la realidad futura del Señor.
 
 # 8:1-14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
 
@@ -6304,11 +6304,11 @@ Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne ja
 ##### El amor al hermano gobierna el uso correcto del conocimiento y de la libertad.
 
 > En Síntesis
-> - Pablo confronta una espiritualidad centrada solamente en conocimiento y libertad, mostrando que el conocimiento por sí solo puede producir arrogancia y destruir al hermano.
-> - La verdadera realidad del creyente está definida por un solo Dios y un solo Señor, Jesucristo, y no por superioridad intelectual ni autosuficiencia espiritual.
-> - Aunque ciertos creyentes poseían conocimiento correcto acerca de los ídolos, no todos tenían la misma comprensión ni la misma fortaleza de conciencia.
-> - Pablo redefine el uso de la libertad cristiana desde la responsabilidad hacia el hermano débil, mostrando que la libertad puede convertirse en tropiezo cuando no está gobernada por amor.
-> - El amor y la edificación del hermano poseen mayor valor que el ejercicio personal de derechos, porque herir al hermano por quien Cristo murió equivale también a pecar contra Cristo mismo.
+>- Pablo confronta una espiritualidad centrada solamente en conocimiento y libertad, mostrando que el conocimiento por sí solo puede producir arrogancia y destruir al hermano.
+>- La verdadera realidad del creyente está definida por un solo Dios y un solo Señor, Jesucristo, y no por superioridad intelectual ni autosuficiencia espiritual.
+>- Aunque ciertos creyentes poseían conocimiento correcto acerca de los ídolos, no todos tenían la misma comprensión ni la misma fortaleza de conciencia.
+>- Pablo redefine el uso de la libertad cristiana desde la responsabilidad hacia el hermano débil, mostrando que la libertad puede convertirse en tropiezo cuando no está gobernada por amor.
+>- El amor y la edificación del hermano poseen mayor valor que el ejercicio personal de derechos, porque herir al hermano por quien Cristo murió equivale también a pecar contra Cristo mismo.
 
 <!-- @quiz 1corintios-7-8 -->
 
@@ -6952,14 +6952,14 @@ sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a 
 ###### debían permanecer subordinados a una <u>meta</u> mayor.
 
 > En Síntesis
-> -  Pablo muestra que la verdadera libertad no consiste en insistir en los propios derechos.
-> - Pablo reconoce que ciertos derechos eran legítimos  sustento, apoyo, libertad, y participación en beneficios materiales.
-> - Sin embargo, Pablo escoge voluntariamente limitar esos derechos por causa del evangelio.
-> - Su vida no estaba orientada a sí mismo, ni a autoafirmación, ni a comodidad personal.
-> - Pablo adapta su conducta para acercarse a distintos grupos y ganar a algunos.
-> - Todo lo hace por amor del evangelio, y para participar de él.
-> - Finalmente, Pablo usa imágenes atléticas para mostrar disciplina, dominio propio, perseverancia, y orientación hacia una meta definida.
-> - La libertad cristiana aparece subordinada al evangelio, al servicio, a otros, y a una participación fiel en Cristo.
+>-  Pablo muestra que la verdadera libertad no consiste en insistir en los propios derechos.
+>- Pablo reconoce que ciertos derechos eran legítimos  sustento, apoyo, libertad, y participación en beneficios materiales.
+>- Sin embargo, Pablo escoge voluntariamente limitar esos derechos por causa del evangelio.
+>- Su vida no estaba orientada a sí mismo, ni a autoafirmación, ni a comodidad personal.
+>- Pablo adapta su conducta para acercarse a distintos grupos y ganar a algunos.
+>- Todo lo hace por amor del evangelio, y para participar de él.
+>- Finalmente, Pablo usa imágenes atléticas para mostrar disciplina, dominio propio, perseverancia, y orientación hacia una meta definida.
+>- La libertad cristiana aparece subordinada al evangelio, al servicio, a otros, y a una participación fiel en Cristo.
 
 ## 10:1-22 Israel sirve como advertencia contra una falsa seguridad espiritual
 
@@ -7332,13 +7332,13 @@ Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden 
 ###### La autosuficiencia y falsa confianza <u>quedan</u> completamente expuestas.
 
 > En Síntesis
-> - Pablo usa el ejemplo de Israel para advertir a los corintios contra una falsa seguridad espiritual.
-> - Aunque Israel participó de experiencias espirituales, provisión, y liberación, muchos igualmente cayeron bajo juicio.
-> - Pablo insiste en que privilegio espiritual, participación externa, y experiencias compartidas no garantizan automáticamente aprobación delante de Dios.
-> - Israel funciona como advertencia contra idolatría, inmoralidad, provocación, murmuración, y falsa confianza.
-> - Pablo llama a los creyentes a resistir la tentación, a huir de la idolatría, y a reconocer la seriedad de la participación espiritual.
-> - La participación en la copa del Señor, el cuerpo de Cristo, y la mesa del Señor es incompatible con participación en idolatría.
-> - Todo el pasaje confronta directamente la idea de una espiritualidad segura de sí misma, confiada en privilegios externos, pero indiferente a la realidad de fidelidad y participación verdadera en Cristo.
+>- Pablo usa el ejemplo de Israel para advertir a los corintios contra una falsa seguridad espiritual.
+>- Aunque Israel participó de experiencias espirituales, provisión, y liberación, muchos igualmente cayeron bajo juicio.
+>- Pablo insiste en que privilegio espiritual, participación externa, y experiencias compartidas no garantizan automáticamente aprobación delante de Dios.
+>- Israel funciona como advertencia contra idolatría, inmoralidad, provocación, murmuración, y falsa confianza.
+>- Pablo llama a los creyentes a resistir la tentación, a huir de la idolatría, y a reconocer la seriedad de la participación espiritual.
+>- La participación en la copa del Señor, el cuerpo de Cristo, y la mesa del Señor es incompatible con participación en idolatría.
+>- Todo el pasaje confronta directamente la idea de una espiritualidad segura de sí misma, confiada en privilegios externos, pero indiferente a la realidad de fidelidad y participación verdadera en Cristo.
 
 <!-- @quiz 1corintios-9-10 -->
 
@@ -7601,14 +7601,14 @@ Sean imitadores de mí, como también yo lo soy de Cristo.
 - y una vida orientada a la gloria de Dios y al <u>bien</u> de muchos.
 
 > En Síntesis
-> - Pablo concluye esta sección aplicando la libertad cristiana al bienestar espiritual de otros.
-> - El creyente no debía usar su libertad causando tropiezo, destruyendo conciencia, ni buscando solamente beneficio propio.
-> - Pablo insiste en considerar a judíos, a griegos, y a la iglesia de Dios.
-> - Su propia vida funciona como ejemplo de adaptación, renuncia voluntaria, servicio, y búsqueda del bien de muchos.
-> - La meta final continúa siendo la salvación, la edificación, y la gloria de Dios.
-> - Finalmente, Pablo conecta todo este modelo directamente con Cristo mismo.
-> - La verdadera espiritualidad no aparece centrada en derechos, conocimiento, ni seguridad propia.
-> - Aparece como una vida subordinada a Cristo, orientada al bien de otros, y usada para la gloria de Dios.
+>- Pablo concluye esta sección aplicando la libertad cristiana al bienestar espiritual de otros.
+>- El creyente no debía usar su libertad causando tropiezo, destruyendo conciencia, ni buscando solamente beneficio propio.
+>- Pablo insiste en considerar a judíos, a griegos, y a la iglesia de Dios.
+>- Su propia vida funciona como ejemplo de adaptación, renuncia voluntaria, servicio, y búsqueda del bien de muchos.
+>- La meta final continúa siendo la salvación, la edificación, y la gloria de Dios.
+>- Finalmente, Pablo conecta todo este modelo directamente con Cristo mismo.
+>- La verdadera espiritualidad no aparece centrada en derechos, conocimiento, ni seguridad propia.
+>- Aparece como una vida subordinada a Cristo, orientada al bien de otros, y usada para la gloria de Dios.
 
 ## 11:2-16 La manera en que los corintios estaban expresando honra, autoridad y espiritualidad cuando se reunían
 
@@ -8545,14 +8545,14 @@ Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Lo
 ###### Algunas correcciones serían tratadas personalmente cuando estuviera presente.
 
 > En Síntesis
-> - Pablo muestra que el problema de los corintios no era simplemente doctrinal o ritual, sino la manera en que se comportaban cuando se reunían como iglesia.
-> - Sus reuniones estaban marcadas por divisiones, egoísmo, desigualdad, humillación de otros, y falta de discernimiento.
-> - Aunque participaban de la Cena del Señor, su conducta contradecía aquello que proclamaban acerca de Cristo.
-> - Pablo vuelve al origen de la Cena el cuerpo del Señor, Su sangre, Su entrega, y la proclamación de Su muerte hasta que Él venga.
-> - Participar indignamente traía juicio, disciplina, debilidad, enfermedad, y aun muerte entre algunos.
-> - Pablo insiste en examinarse, discernir correctamente, y considerar a otros dentro de la reunión congregacional.
-> - La iglesia debía reunirse no para juicio, ni para autoexaltación, sino de una manera coherente con Cristo y con la realidad del cuerpo compartido.
-> - Todo el pasaje continúa exponiendo el problema central de Corinto una iglesia que se consideraba espiritual, pero cuya conducta colectiva contradicía la realidad que proclamaba.
+>- Pablo muestra que el problema de los corintios no era simplemente doctrinal o ritual, sino la manera en que se comportaban cuando se reunían como iglesia.
+>- Sus reuniones estaban marcadas por divisiones, egoísmo, desigualdad, humillación de otros, y falta de discernimiento.
+>- Aunque participaban de la Cena del Señor, su conducta contradecía aquello que proclamaban acerca de Cristo.
+>- Pablo vuelve al origen de la Cena el cuerpo del Señor, Su sangre, Su entrega, y la proclamación de Su muerte hasta que Él venga.
+>- Participar indignamente traía juicio, disciplina, debilidad, enfermedad, y aun muerte entre algunos.
+>- Pablo insiste en examinarse, discernir correctamente, y considerar a otros dentro de la reunión congregacional.
+>- La iglesia debía reunirse no para juicio, ni para autoexaltación, sino de una manera coherente con Cristo y con la realidad del cuerpo compartido.
+>- Todo el pasaje continúa exponiendo el problema central de Corinto una iglesia que se consideraba espiritual, pero cuya conducta colectiva contradicía la realidad que proclamaba.
 
 ## 12:1-31 Los dones espirituales y la realidad de un solo cuerpo entre los corintios
 
@@ -9425,13 +9425,13 @@ Y ahora permanecen la fe, la esperanza, el amor: estos tres; pero el mayor de el
 - y necesario para la verdadera vida del cuerpo de Cristo.
 
 > En Síntesis
-> - Pablo muestra que las manifestaciones espirituales, por impresionantes que parezcan, pierden valor verdadero cuando están separadas del amor.
-> - Sin amor las lenguas, la profecía, el conocimiento, la fe extraordinaria, y aun el sacrificio extremo quedan vacíos y sin verdadero provecho.
-> - El amor aparece caracterizado por paciencia, bondad, humildad, ausencia de envidia, ausencia de arrogancia, consideración hacia otros, perseverancia, y relación con la verdad.
-> - Pablo también muestra que las lenguas, la profecía, y el conocimiento parcial son temporales e incompletos.
-> - En contraste el amor permanece.
-> - Todo el capítulo confronta directamente una espiritualidad basada en exhibición, competencia, superioridad, y manifestaciones visibles.
-> - Pablo redefine la verdadera madurez espiritual alrededor del amor dentro del cuerpo de Cristo.
+>- Pablo muestra que las manifestaciones espirituales, por impresionantes que parezcan, pierden valor verdadero cuando están separadas del amor.
+>- Sin amor las lenguas, la profecía, el conocimiento, la fe extraordinaria, y aun el sacrificio extremo quedan vacíos y sin verdadero provecho.
+>- El amor aparece caracterizado por paciencia, bondad, humildad, ausencia de envidia, ausencia de arrogancia, consideración hacia otros, perseverancia, y relación con la verdad.
+>- Pablo también muestra que las lenguas, la profecía, y el conocimiento parcial son temporales e incompletos.
+>- En contraste el amor permanece.
+>- Todo el capítulo confronta directamente una espiritualidad basada en exhibición, competencia, superioridad, y manifestaciones visibles.
+>- Pablo redefine la verdadera madurez espiritual alrededor del amor dentro del cuerpo de Cristo.
 
 ## 14:1-40 Las manifestaciones espirituales y la edificación entre los corintios
 
@@ -10191,15 +10191,15 @@ Pero que todo se haga decentemente y con orden
 - y orden dentro de la iglesia.
 
 > En Síntesis
-> - Pablo continúa corrigiendo la manera en que los corintios entendían la espiritualidad y las manifestaciones espirituales.
-> - El criterio principal ya no es espectacularidad, intensidad, ni experiencia individual.
-> - El criterio central pasa a ser comprensión, edificación, madurez, orden, y beneficio colectivo para la iglesia.
-> - Pablo insiste repetidamente en interpretación, inteligibilidad, exhortación, enseñanza, y participación comprensible.
-> - Las lenguas no son prohibidas, pero deben funcionar dentro de orden, interpretación, y edificación congregacional.
-> - La profecía es priorizada porque comunica, exhorta, consuela, convence, y edifica a otros.
-> - Pablo también confronta directamente la autosuficiencia espiritual de los corintios.
-> - Nadie debía actuar como autoridad independiente, como origen de la palabra de Dios, ni como espiritualidad autónoma separada del cuerpo y del orden del Señor.
-> - El capítulo termina mostrando que la verdadera espiritualidad entre los creyentes debía reflejar paz, orden, madurez, comprensión, y edificación del cuerpo de Cristo.
+>- Pablo continúa corrigiendo la manera en que los corintios entendían la espiritualidad y las manifestaciones espirituales.
+>- El criterio principal ya no es espectacularidad, intensidad, ni experiencia individual.
+>- El criterio central pasa a ser comprensión, edificación, madurez, orden, y beneficio colectivo para la iglesia.
+>- Pablo insiste repetidamente en interpretación, inteligibilidad, exhortación, enseñanza, y participación comprensible.
+>- Las lenguas no son prohibidas, pero deben funcionar dentro de orden, interpretación, y edificación congregacional.
+>- La profecía es priorizada porque comunica, exhorta, consuela, convence, y edifica a otros.
+>- Pablo también confronta directamente la autosuficiencia espiritual de los corintios.
+>- Nadie debía actuar como autoridad independiente, como origen de la palabra de Dios, ni como espiritualidad autónoma separada del cuerpo y del orden del Señor.
+>- El capítulo termina mostrando que la verdadera espiritualidad entre los creyentes debía reflejar paz, orden, madurez, comprensión, y edificación del cuerpo de Cristo.
 
 # 15:1-58 La resurrección y la manera en que los corintios pensaban acerca de ella
 
@@ -10555,11 +10555,11 @@ Si hemos esperado en Cristo para esta vida solamente, somos, de todos los hombre
 - y la realidad cristiana misma.
 
 > En Síntesis
-> - Pablo confronta directamente a algunos corintios que negaban la resurrección de los muertos.
-> - Para Pablo, negar la resurrección destruye completamente la resurrección de Cristo, la predicación apostólica, la fe, el testimonio de los apóstoles, la esperanza, y la salvación misma.
-> - La resurrección de Cristo y la resurrección de los muertos aparecen inseparablemente conectadas.
-> - Sin resurrección la fe sería vana, los creyentes seguirían en sus pecados, los muertos en Cristo estarían perdidos, y la esperanza cristiana quedaría limitada solamente a esta vida.
-> - Pablo muestra así que la resurrección no es un tema periférico. Es una realidad central que sostiene toda la proclamación cristiana.
+>- Pablo confronta directamente a algunos corintios que negaban la resurrección de los muertos.
+>- Para Pablo, negar la resurrección destruye completamente la resurrección de Cristo, la predicación apostólica, la fe, el testimonio de los apóstoles, la esperanza, y la salvación misma.
+>- La resurrección de Cristo y la resurrección de los muertos aparecen inseparablemente conectadas.
+>- Sin resurrección la fe sería vana, los creyentes seguirían en sus pecados, los muertos en Cristo estarían perdidos, y la esperanza cristiana quedaría limitada solamente a esta vida.
+>- Pablo muestra así que la resurrección no es un tema periférico. Es una realidad central que sostiene toda la proclamación cristiana.
 
 ## 15:20-28 La resurrección de Cristo garantiza la derrota final de la muerte
 
@@ -10683,15 +10683,15 @@ Y el último enemigo que será eliminado es la muerte
 - y consumación final del propósito de Dios.
 
 > En Síntesis
-> - Pablo responde a la negación de la resurrección afirmando que Cristo verdaderamente ha resucitado.
-> - La resurrección de Cristo aparece como primicias, inicio, y garantía de la resurrección futura de los que pertenecen a Él.
-> - Pablo conecta Adán con muerte, y Cristo con vida.
-> - Así como la muerte vino por un hombre, la resurrección también viene por un hombre.
-> - Pablo presenta además un orden futuro Cristo resucitado primero, luego los que son de Cristo en Su venida, y finalmente la consumación del reino.
-> - Cristo reina hasta derrotar todo dominio, toda autoridad, todo poder, y finalmente la muerte misma.
-> - La muerte aparece como el último enemigo que será destruido.
-> - Pablo muestra así que la resurrección no es simplemente esperanza individual.
-> - Está conectada con el reinado de Cristo, la derrota final de la muerte, y la consumación del propósito de Dios.
+>- Pablo responde a la negación de la resurrección afirmando que Cristo verdaderamente ha resucitado.
+>- La resurrección de Cristo aparece como primicias, inicio, y garantía de la resurrección futura de los que pertenecen a Él.
+>- Pablo conecta Adán con muerte, y Cristo con vida.
+>- Así como la muerte vino por un hombre, la resurrección también viene por un hombre.
+>- Pablo presenta además un orden futuro Cristo resucitado primero, luego los que son de Cristo en Su venida, y finalmente la consumación del reino.
+>- Cristo reina hasta derrotar todo dominio, toda autoridad, todo poder, y finalmente la muerte misma.
+>- La muerte aparece como el último enemigo que será destruido.
+>- Pablo muestra así que la resurrección no es simplemente esperanza individual.
+>- Está conectada con el reinado de Cristo, la derrota final de la muerte, y la consumación del propósito de Dios.
 
 ### 1 Corintios 15:27
 Porque Dios ha puesto todo en sujeción bajo Sus pies. Pero cuando dice que todas las cosas están sujetas a Él, es evidente que se exceptúa a Aquel que ha sometido a Él todas las cosas
@@ -10741,11 +10741,11 @@ Y cuando todo haya sido sometido a Él, entonces también el Hijo mismo se sujet
 - y la consumación definitiva del propósito de Dios.
 
 > En Síntesis
-> - Pablo continúa describiendo la consumación final relacionada con la resurrección y el reinado de Cristo.
-> - Todas las cosas serán puestas en sujeción, bajo Sus pies, y bajo Su autoridad.
-> - Sin embargo, Pablo aclara que  Dios mismo, quien somete todas las cosas al Hijo, no está incluido dentro de aquello sometido.
-> - Finalmente el Hijo mismo se sujetará al Padre, después de la derrota de todos los enemigos, incluida la muerte.
-> - El desarrollo completo apunta hacia la consumación final, la derrota total de la muerte, el sometimiento universal, y la plena realidad de que Dios sea todo en todos.
+>- Pablo continúa describiendo la consumación final relacionada con la resurrección y el reinado de Cristo.
+>- Todas las cosas serán puestas en sujeción, bajo Sus pies, y bajo Su autoridad.
+>- Sin embargo, Pablo aclara que  Dios mismo, quien somete todas las cosas al Hijo, no está incluido dentro de aquello sometido.
+>- Finalmente el Hijo mismo se sujetará al Padre, después de la derrota de todos los enemigos, incluida la muerte.
+>- El desarrollo completo apunta hacia la consumación final, la derrota total de la muerte, el sometimiento universal, y la plena realidad de que Dios sea todo en todos.
 
 ## 15:29-34 La vida cristiana presente pierde sentido si no existe resurrección
 
@@ -10850,12 +10850,12 @@ Sean sobrios, como conviene, y dejen de pecar; porque algunos no tienen conocimi
 - y la manera de vivir en el presente.
 
 > En Síntesis
-> - Pablo continúa mostrando que negar la resurrección destruye el sentido de la vida cristiana presente.
-> - Si no existe resurrección ciertas prácticas pierden sentido, el sufrimiento apostólico se vuelve inútil, y la esperanza cristiana queda reducida solamente a esta vida.
-> - Pablo conecta directamente peligro, sufrimiento, perseverancia, y sacrificio con la realidad futura de la resurrección.
-> - Sin resurrección, la conclusión lógica sería vivir solamente para el placer presente, porque mañana moriremos.
-> - Pablo también advierte que las ideas equivocadas corrompen la conducta, y la negación de la resurrección produce consecuencias morales y espirituales.
-> - Finalmente llama a los corintios a despertar, a dejar el pecado, y a reconocer correctamente a Dios.
+>- Pablo continúa mostrando que negar la resurrección destruye el sentido de la vida cristiana presente.
+>- Si no existe resurrección ciertas prácticas pierden sentido, el sufrimiento apostólico se vuelve inútil, y la esperanza cristiana queda reducida solamente a esta vida.
+>- Pablo conecta directamente peligro, sufrimiento, perseverancia, y sacrificio con la realidad futura de la resurrección.
+>- Sin resurrección, la conclusión lógica sería vivir solamente para el placer presente, porque mañana moriremos.
+>- Pablo también advierte que las ideas equivocadas corrompen la conducta, y la negación de la resurrección produce consecuencias morales y espirituales.
+>- Finalmente llama a los corintios a despertar, a dejar el pecado, y a reconocer correctamente a Dios.
 
 ## 15:35-49 Pablo redefine el cuerpo desde la realidad de la resurrección
 
@@ -10977,12 +10977,12 @@ ya existen dentro de la creación de Dios.
 ###### Por lo tanto, la idea de un cuerpo resucitado no debe considerarse imposible ni absurda.
 
 > En Síntesis
-> - Pablo comienza a responder preguntas sobre cómo resucitan los muertos, y con qué clase de cuerpo vendrán.
-> - Para responder, usa imágenes de semillas, cuerpos, animales, cuerpos celestiales, y diferencias de gloria dentro de la creación.
-> - Pablo muestra que muerte y nueva vida no son incompatibles, lo sembrado no es idéntico a lo que surge, y Dios soberanamente da a cada uno un cuerpo como quiere.
-> -  La creación misma ya contiene diversidad de cuerpos, diferencias de gloria, y transformaciones visibles.
-> - Todo esto prepara la explicación de la realidad del cuerpo resucitado.
-> - Pablo comienza así a redefinir la manera en que los corintios pensaban acerca del cuerpo y la resurrección.
+>- Pablo comienza a responder preguntas sobre cómo resucitan los muertos, y con qué clase de cuerpo vendrán.
+>- Para responder, usa imágenes de semillas, cuerpos, animales, cuerpos celestiales, y diferencias de gloria dentro de la creación.
+>- Pablo muestra que muerte y nueva vida no son incompatibles, lo sembrado no es idéntico a lo que surge, y Dios soberanamente da a cada uno un cuerpo como quiere.
+>-  La creación misma ya contiene diversidad de cuerpos, diferencias de gloria, y transformaciones visibles.
+>- Todo esto prepara la explicación de la realidad del cuerpo resucitado.
+>- Pablo comienza así a redefinir la manera en que los corintios pensaban acerca del cuerpo y la resurrección.
 
 ### 1 Corintios 15:42
 Así es también la resurrección de los muertos. Se siembra un cuerpo corruptible, se resucita un cuerpo incorruptible
@@ -11112,12 +11112,12 @@ El primer hombre es de la tierra, terrenal; el segundo hombre es del cielo.
 - y celestial.
 
 > En Síntesis
-> - Pablo aplica directamente las ilustraciones anteriores a la resurrección de los muertos.
-> - El cuerpo presente es descrito como corruptible, deshonroso, débil, natural, y terrenal.
-> - El cuerpo resucitado es descrito como incorruptible, glorioso, poderoso, espiritual, y celestial.
-> - Pablo continúa mostrando continuidad, transformación, y diferencia entre el cuerpo presente y el cuerpo resucitado.
-> - Adán y Cristo aparecen nuevamente en contraste Adán relacionado con lo terrenal y la muerte, Cristo relacionado con vida y realidad celestial.
-> - Pablo redefine así completamente la idea del cuerpo desde la realidad de la resurrección.
+>- Pablo aplica directamente las ilustraciones anteriores a la resurrección de los muertos.
+>- El cuerpo presente es descrito como corruptible, deshonroso, débil, natural, y terrenal.
+>- El cuerpo resucitado es descrito como incorruptible, glorioso, poderoso, espiritual, y celestial.
+>- Pablo continúa mostrando continuidad, transformación, y diferencia entre el cuerpo presente y el cuerpo resucitado.
+>- Adán y Cristo aparecen nuevamente en contraste Adán relacionado con lo terrenal y la muerte, Cristo relacionado con vida y realidad celestial.
+>- Pablo redefine así completamente la idea del cuerpo desde la realidad de la resurrección.
 
 ### 1 Corintios 15:48
 Como es el terrenal, así son también los que son terrenales; y como es el celestial, así son también los que son celestiales
@@ -11170,10 +11170,10 @@ Y tal como hemos traído la imagen del terrenal, traeremos también la imagen de
 ###### sino desde la realidad futura del celestial.
 
 > En Síntesis
-> - Pablo concluye este desarrollo mostrando dos realidades contrastantes - lo terrenal, y lo celestial.
-> - Así como los seres humanos actualmente llevan la imagen del terrenal, también llevarán la imagen del celestial.
-> -  La resurrección aparece así como transformación, participación en una nueva condición, y conformidad con la realidad celestial relacionada con Cristo.
-> - Pablo continúa redefiniendo completamente la manera en que los corintios debían pensar acerca del cuerpo, de la vida, y de la resurrección futura.
+>- Pablo concluye este desarrollo mostrando dos realidades contrastantes - lo terrenal, y lo celestial.
+>- Así como los seres humanos actualmente llevan la imagen del terrenal, también llevarán la imagen del celestial.
+>-  La resurrección aparece así como transformación, participación en una nueva condición, y conformidad con la realidad celestial relacionada con Cristo.
+>- Pablo continúa redefiniendo completamente la manera en que los corintios debían pensar acerca del cuerpo, de la vida, y de la resurrección futura.
 
 ## 15:50-58 La resurrección futura transforma completamente la perspectiva presente del creyente
 
@@ -11330,13 +11330,13 @@ Por tanto, mis amados hermanos, estén firmes, constantes, abundando siempre en 
 - y la manera de vivir en el presente.
 
 > En Síntesis
-> - Pablo concluye mostrando que lo corruptible, lo mortal, y la condición presente humana deben ser transformados para heredar la realidad incorruptible del reino de Dios.
-> - La resurrección futura incluye transformación, incorruptibilidad, inmortalidad, y victoria definitiva sobre la muerte.
-> - Tanto los muertos resucitarán, como los vivos serán transformados.
-> - Pablo presenta la muerte como enemigo derrotado, cuyo aguijón está relacionado con el pecado.
-> - La victoria viene por medio de Jesucristo, y es dada por Dios.
-> - Finalmente, la resurrección transforma completamente la perspectiva presente del creyente.
-> - Por causa de esta realidad futura los creyentes deben permanecer firmes, constantes, abundando en la obra del Señor, sabiendo que su trabajo en el Señor no es vano.
+>- Pablo concluye mostrando que lo corruptible, lo mortal, y la condición presente humana deben ser transformados para heredar la realidad incorruptible del reino de Dios.
+>- La resurrección futura incluye transformación, incorruptibilidad, inmortalidad, y victoria definitiva sobre la muerte.
+>- Tanto los muertos resucitarán, como los vivos serán transformados.
+>- Pablo presenta la muerte como enemigo derrotado, cuyo aguijón está relacionado con el pecado.
+>- La victoria viene por medio de Jesucristo, y es dada por Dios.
+>- Finalmente, la resurrección transforma completamente la perspectiva presente del creyente.
+>- Por causa de esta realidad futura los creyentes deben permanecer firmes, constantes, abundando en la obra del Señor, sabiendo que su trabajo en el Señor no es vano.
 
 <!-- @quiz 1corintios-15a -->
 
@@ -11416,10 +11416,10 @@ Y si es conveniente que yo también vaya, ellos irán conmigo
 ###### Pablo termina la carta moviéndose desde grandes temas doctrinales y correcciones hacia acciones concretas de servicio y cuidado mutuo.
 
 > En Síntesis
-> - Pablo organiza una ofrenda para los santos como expresión práctica de cuidado entre las iglesias. Los corintios debían participar regularmente, personalmente, y ordenadamente.
-> - La práctica no era exclusiva de Corinto, sino compartida también entre las iglesias de Galacia.
-> - Pablo enfatiza preparación, transparencia, participación comunitaria, y cooperación entre creyentes.
-> - La sección muestra que la vida de la iglesia incluía no solamente doctrina, dones, y reuniones, sino también cuidado práctico y compartido entre los creyentes.
+>- Pablo organiza una ofrenda para los santos como expresión práctica de cuidado entre las iglesias. Los corintios debían participar regularmente, personalmente, y ordenadamente.
+>- La práctica no era exclusiva de Corinto, sino compartida también entre las iglesias de Galacia.
+>- Pablo enfatiza preparación, transparencia, participación comunitaria, y cooperación entre creyentes.
+>- La sección muestra que la vida de la iglesia incluía no solamente doctrina, dones, y reuniones, sino también cuidado práctico y compartido entre los creyentes.
 
 ## 16:5-9 Pablo muestra flexibilidad personal mientras permanece sometido a la voluntad del Señor
 
@@ -11503,10 +11503,10 @@ porque se me ha abierto una puerta grande para el servicio eficaz, aunque tambi�
 - ni decisiones prácticas.
 
 > En Síntesis
-> -  Pablo comparte sus planes de viaje y ministerio con los corintios. Aunque hace planes concretos permanece flexible, y reconoce dependencia de la voluntad del Señor.
-> - Pablo espera permanecer tiempo con ellos, recibir ayuda para continuar su viaje, y seguir sirviendo donde Dios abra oportunidad.
-> - La permanencia en Éfeso es explicada por una puerta abierta para servicio eficaz, aun cuando existen muchos adversarios.
-> - La sección muestra a Pablo organizando, planificando, cooperando con las iglesias, y permaneciendo sometido al Señor mientras continúa la obra.
+>-  Pablo comparte sus planes de viaje y ministerio con los corintios. Aunque hace planes concretos permanece flexible, y reconoce dependencia de la voluntad del Señor.
+>- Pablo espera permanecer tiempo con ellos, recibir ayuda para continuar su viaje, y seguir sirviendo donde Dios abra oportunidad.
+>- La permanencia en Éfeso es explicada por una puerta abierta para servicio eficaz, aun cuando existen muchos adversarios.
+>- La sección muestra a Pablo organizando, planificando, cooperando con las iglesias, y permaneciendo sometido al Señor mientras continúa la obra.
 
 ## 16:10-18 Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor
 
@@ -11584,12 +11584,12 @@ En cuanto a nuestro hermano Apolos, mucho lo animé a que fuera a ustedes con lo
 - y sirviendo bajo la dirección del Señor.
 
 > En Síntesis
-> -  Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor. Timoteo debía ser recibido sin temor, sin menosprecio, y en paz.
-> -  Pablo afirma que Timoteo hace la obra del Señor, igual que él.
-> - También menciona a Apolos, mostrando cooperación y respeto mutuo entre los distintos obreros.
-> - Pablo no presenta rivalidad entre Pablo, Timoteo, y Apolos.
-> - Todos aparecen colaborando, sirviendo juntos, y participando en la misma obra del Señor.
-> - La sección continúa confrontando indirectamente con divisiones, favoritismos, y exaltación humana dentro de la iglesia de Corinto.
+>-  Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor. Timoteo debía ser recibido sin temor, sin menosprecio, y en paz.
+>-  Pablo afirma que Timoteo hace la obra del Señor, igual que él.
+>- También menciona a Apolos, mostrando cooperación y respeto mutuo entre los distintos obreros.
+>- Pablo no presenta rivalidad entre Pablo, Timoteo, y Apolos.
+>- Todos aparecen colaborando, sirviendo juntos, y participando en la misma obra del Señor.
+>- La sección continúa confrontando indirectamente con divisiones, favoritismos, y exaltación humana dentro de la iglesia de Corinto.
 
 ## 16:13-14 Pablo llama a los corintios a vivir con firmeza, madurez y amor
 
@@ -11721,11 +11721,11 @@ Porque ellos han recreado mi espíritu y el de ustedes. Por tanto, reconozcan a 
 - y reconocimiento correcto de quienes sirven al Señor entre Su pueblo.
 
 > En Síntesis
-> - Pablo concluye exhortando a los corintios a vivir alertas, firmes, maduros, fuertes, y gobernados por el amor.
-> - Todo debía hacerse con amor.
-> - Pablo también destaca el ejemplo de la casa de Estéfanas, Fortunato, y Acaico, quienes se habían dedicado al servicio de los santos, y al trabajo en la obra del Señor.
-> - Los corintios debían reconocer, sujetarse, y valorar correctamente a quienes servían fielmente.
-> - La conclusión de la carta vuelve a reunir muchos de los grandes temas tratados madurez, firmeza, amor, servicio, y vida correcta dentro del cuerpo de Cristo.
+>- Pablo concluye exhortando a los corintios a vivir alertas, firmes, maduros, fuertes, y gobernados por el amor.
+>- Todo debía hacerse con amor.
+>- Pablo también destaca el ejemplo de la casa de Estéfanas, Fortunato, y Acaico, quienes se habían dedicado al servicio de los santos, y al trabajo en la obra del Señor.
+>- Los corintios debían reconocer, sujetarse, y valorar correctamente a quienes servían fielmente.
+>- La conclusión de la carta vuelve a reunir muchos de los grandes temas tratados madurez, firmeza, amor, servicio, y vida correcta dentro del cuerpo de Cristo.
 
 ## 16:19-24 Pablo concluye reafirmando sus relaciones, advertencias y amor hacia los corintios
 
@@ -11836,11 +11836,11 @@ Mi amor sea con todos ustedes en Cristo Jesús. Amén.
 - y el llamado a permanecer firmes en el Señor.
 
 > En Síntesis
-> -  Pablo concluye reafirmando la relación compartida entre iglesias, creyentes, y obreros del Señor.
-> - Los saludos muestran comunión, afecto, y vida compartida en Cristo.
-> - Pablo termina también con autoridad personal, advertencia seria, gracia, y amor.
-> - La advertencia: «Si alguien no ama al Señor, que sea anatema» muestra nuevamente la seriedad de la relación con Cristo.
-> - Sin embargo, el cierre final permanece lleno de gracia, amor, y comunión en Cristo Jesús.
-> - Toda la carta termina llamando implícitamente a los corintios a permanecer firmes, vivir en amor, reconocer correctamente al Señor, y vivir como verdadero cuerpo de Cristo.
+>-  Pablo concluye reafirmando la relación compartida entre iglesias, creyentes, y obreros del Señor.
+>- Los saludos muestran comunión, afecto, y vida compartida en Cristo.
+>- Pablo termina también con autoridad personal, advertencia seria, gracia, y amor.
+>- La advertencia: «Si alguien no ama al Señor, que sea anatema» muestra nuevamente la seriedad de la relación con Cristo.
+>- Sin embargo, el cierre final permanece lleno de gracia, amor, y comunión en Cristo Jesús.
+>- Toda la carta termina llamando implícitamente a los corintios a permanecer firmes, vivir en amor, reconocer correctamente al Señor, y vivir como verdadero cuerpo de Cristo.
 
 <!-- @quiz 1corintios-16 -->
