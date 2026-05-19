@@ -30,12 +30,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://discipuladocgv.org/descargas/</loc>
-    <lastmod>2026-05-18T00:00:00-04:00</lastmod>
+    <loc>https://discipuladocgv.org/</loc>
+    <lastmod>2026-05-19T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>https://discipuladocgv.org/</loc>
+    <loc>https://discipuladocgv.org/cgv-presenter/</loc>
+    <lastmod>2026-05-19T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>https://discipuladocgv.org/descargas/</loc>
     <lastmod>2026-05-18T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

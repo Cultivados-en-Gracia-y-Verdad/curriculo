@@ -99,6 +99,12 @@ enableRobotsTXT = true
     parent = "participa"
     weight = 3
 
+[[menu.main]]
+    name = "Manual CGV Presenter"
+    url = "/cgv-presenter/"
+    parent = "participa"
+    weight = 4
+
 [[menu.topbar]]
     weight = 1
     name = "Phone"
