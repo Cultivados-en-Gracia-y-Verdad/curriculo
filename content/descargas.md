@@ -14,7 +14,7 @@ image: "img/cgv-logo.jpg"
     <article class="download-card">
       <h2>macOS</h2>
       <p>Para computadoras Mac con Apple Silicon.</p>
-      <a class="download-button" href="/downloads/CGV-Presenter-macOS-arm64-1.0.1.zip">
+      <a class="download-button" href="https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV-Presenter-macOS-arm64-1.0.1.zip">
         Descargar para macOS
       </a>
       <small>Versión 1.0.1 · ZIP</small>
@@ -22,7 +22,7 @@ image: "img/cgv-logo.jpg"
     <article class="download-card">
       <h2>Windows</h2>
       <p>Para computadoras Windows.</p>
-      <a class="download-button" href="/downloads/CGV-Presenter-Setup-1.0.1.exe">
+      <a class="download-button" href="https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV.Presenter-1.0.1.Setup.exe">
         Descargar para Windows
       </a>
       <small>Versión 1.0.1 · EXE</small>

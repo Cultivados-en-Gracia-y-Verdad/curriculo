@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Discipulado CGV</title>
-    <link>https://discipuladocgv.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Discipulado CGV</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 27 Aug 2023 21:53:01 -0400</lastBuildDate>
-    <atom:link href="https://discipuladocgv.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Costos</title>
-      <link>https://discipuladocgv.org/posts/costos/</link>
+      <link>http://localhost:1313/posts/costos/</link>
       <pubDate>Sun, 27 Aug 2023 21:53:01 -0400</pubDate>
-      <guid>https://discipuladocgv.org/posts/costos/</guid>
+      <guid>http://localhost:1313/posts/costos/</guid>
       <description>&lt;h1 id=&#34;internos&#34;&gt;Internos&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;incluye costos de alimentación, estadía y estudios&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;externos&#34;&gt;Externos&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;incluye costos de almuerzo y estudios&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
