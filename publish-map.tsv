@@ -1,3 +1,6 @@
 course	source_markdown	target_markdown	source_images	target_images	source_quizzes	target_quizzes	source_manifest	target_manifest
 1corintios	11.1Corintios/slides/markdown.md	courses/1corintios/slides/markdown.md	11.1Corintios/images	courses/1corintios/images	11.1Corintios/quizzes	courses/1corintios/quizzes	11.1Corintios/manifest.json	courses/1corintios/manifest.json
 habacuc	03.Habacuc/slides/markdown.md	courses/habacuc/slides/markdown.md	03.Habacuc/images	courses/habacuc/images	03.Habacuc/quizzes	courses/habacuc/quizzes	03.Habacuc/manifest.json	courses/habacuc/manifest.json
+romanos1-8	06.Romanos1-8/slides/markdown.md	courses/romanos1-8/slides/markdown.md	06.Romanos1-8/images	courses/romanos1-8/images	06.Romanos1-8/quizzes	courses/romanos1-8/quizzes	06.Romanos1-8/manifest.json	courses/romanos1-8/manifest.json
+galatas	07.Galatas/slides/markdown.md	courses/galatas/slides/markdown.md	07.Galatas/images	courses/galatas/images	07.Galatas/quizzes	courses/galatas/quizzes	07.Galatas/manifest.json	courses/galatas/manifest.json
+navegando-el-texto	08.Navegando-el-texto/slides/markdown.md	courses/navegando-el-texto/slides/markdown.md	08.Navegando-el-texto/images	courses/navegando-el-texto/images	08.Navegando-el-texto/quizzes	courses/navegando-el-texto/quizzes	08.Navegando-el-texto/manifest.json	courses/navegando-el-texto/manifest.json
