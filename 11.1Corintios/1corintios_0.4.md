@@ -2,9 +2,10 @@
 title:  "1 Corintios"
 subtitle:  "La Iglesia Espiritual - según Sí Misma"
 author:  "CGV"
-version:  "0.3"
+version:  "0.4"
 date:  "2026-05-17"
 cover: "images/portada.png"
+
 ---
 
 :::title
@@ -17,68 +18,68 @@ La Iglesia Espiritual… según sí misma
 
 ## História y Geografia
 
-##### La ciudad de Corinto
+##### La ciudad de <u>Corinto</u>
 
-###### Corinto era una de las ciudades más importantes del <u>mundo</u> romano durante el tiempo de Pablo.
+###### Corinto era una de las ciudades más importantes del mundo romano <u>durante</u> el tiempo de Pablo.
 
 ###### No era:
-- una ciudad <u>pequeña</u>,
-- aislada,
+- una ciudad pequeña,
+- <u>aislada</u>,
 - ni marginal.
 
 ###### Era:
-- rica,
+- <u>rica</u>,
 - estratégica,
 - comercial,
 - cosmopolita,
 - influyente,
-- y profundamente <u>conectada</u> al mundo mediterráneo.
+- y profundamente conectada al <u>mundo</u> mediterráneo.
 
-###### Eso ayuda muchísimo a <u>entender</u> la carta.
+###### Eso ayuda muchísimo a entender la carta.
 
-###### Porque los <u>corintios</u> no vivían:
-- alejados del movimiento <u>cultural</u>,
-- ni protegidos del pensamiento del mundo <u>romano</u> y griego.
+###### Porque los corintios no vivían:
+- <u>alejados</u> del movimiento cultural,
+- ni protegidos del pensamiento del mundo romano y griego.
 ###### Vivían exactamente en <u>medio</u> de él.
 
 ##### La ubicación geográfica de Corinto
-###### El istmo de Corinto era una estrecha <u>franja</u> de tierra que conectaba:
-- el norte de <u>Grecia</u>,
-- con el Peloponeso al sur.
+###### El istmo de Corinto era una estrecha franja de tierra que conectaba:
+- el norte de Grecia,
+- con el Peloponeso al <u>sur</u>.
 
-###### Ese detalle geográfico es <u>enorme</u>.
-###### Porque Corinto controlaba una de las rutas comerciales más importantes del mundo <u>antiguo</u>.
+###### Ese detalle geográfico es enorme.
+###### Porque Corinto controlaba una de las rutas comerciales más importantes del mundo antiguo.
 
 ###### Corinto poseía <u>acceso</u> a dos puertos principales:
-- al <u>oeste</u>:
+- al oeste:
 - Lechaeum
-- conectado al mar <u>Adriático</u> y hacia Roma.
+- conectado al mar Adriático y hacia Roma.
 
 ###### al este:
 - Cenchreae
-- conectado al mar Egeo y <u>hacia</u> Asia.
+- conectado al mar <u>Egeo</u> y hacia Asia.
 
-###### Eso convertía a <u>Corinto</u> en:
-- un <u>puente</u> comercial,
+###### Eso convertía a Corinto en:
+- un puente comercial,
 - cultural,
 - económico,
 - y marítimo.
 
-###### Uno de los aspectos más fascinantes de Corinto era el <u>sistema</u> de cruce terrestre de barcos.
+###### Uno de los aspectos más fascinantes de Corinto era el sistema de cruce terrestre de <u>barcos</u>.
 
-###### Diolkos era un <u>camino</u> pavimentado antiguo usado para transportar barcos a través del istmo.
+###### Diolkos era un camino pavimentado antiguo usado para transportar barcos a través del istmo.
 
-###### En lugar de rodear el peligroso <u>extremo</u> sur de Grecia:
-###### muchos barcos descargaban mercancías, o incluso eran arrastrados <u>sobre</u> plataformas, atravesando el istmo por tierra.
+###### En lugar de <u>rodear</u> el peligroso extremo sur de Grecia:
+###### muchos barcos descargaban mercancías, o incluso eran arrastrados sobre plataformas, atravesando el istmo por tierra.
 
-###### Eso ahorraba tiempo, reducía peligro marítimo, y generaba enorme <u>riqueza</u> para Corinto.
+###### Eso ahorraba tiempo, reducía peligro marítimo, y generaba enorme riqueza para Corinto.
 
-###### La ciudad literalmente vivía del movimiento constante de comercio, personas, <u>ideas</u>, culturas, religiones, riqueza, y filosofías.
+###### La ciudad literalmente vivía del movimiento constante de comercio, personas, ideas, <u>culturas</u>, religiones, riqueza, y filosofías.
 
-###### Corinto era un <u>lugar</u> donde:
-- la reputación <u>importaba</u>,
-- la <u>retórica</u> impresionaba,
-- la riqueza <u>elevaba</u>,
+###### Corinto era un lugar donde:
+- la reputación importaba,
+- la retórica impresionaba,
+- la riqueza elevaba,
 - y la exhibición <u>pública</u> tenía peso.
 
 ##### Corinto era extremadamente religiosa.
@@ -86,30 +87,24 @@ La Iglesia Espiritual… según sí misma
 - templos,
 - cultos,
 - sacrificios,
-- idolatría,
+- <u>idolatría</u>,
 - y múltiples dioses.
 
-##### Corinto probablemente admiraba <u>fuerza</u>, éxito, conocimiento, expresión, libertad, estatus, espiritualidad visible.
+##### Corinto probablemente admiraba fuerza, éxito, conocimiento, expresión, libertad, estatus, espiritualidad visible.
 
-##### Pero Pablo continuamente redefine la realidad <u>desde</u> la cruz, el cuerpo, el amor, la debilidad, la edificación, y finalmente: la resurrección.
+##### Pero Pablo continuamente redefine la realidad desde la cruz, el cuerpo, el amor, la <u>debilidad</u>, la edificación, y finalmente: la resurrección.
 
-###### Por eso el contexto histórico no es un <u>simple</u> dato académico. Ayuda a percibir por qué los corintios pensaban como pensaban, y por qué Pablo corrige exactamente lo que corrige.
+###### Por eso el contexto histórico no es un simple dato académico. Ayuda a percibir por qué los corintios pensaban como pensaban, y por qué Pablo corrige exactamente lo que corrige.
 
-##### La Iglesia Espiritual… según sí misma
+##### La Iglesia Espiritual… según sí <u>misma</u>
 
-<<<<<<< HEAD
-###### A lo largo de la carta, Pablo no solamente <u>corrige</u> conductas.
-
-###### Repetidamente confronta una manera de <u>pensar</u>.
-=======
 ###### A lo largo de la carta, Pablo no solamente corrige conductas.
-###### Repetidamente confronta una manera de pensar.
->>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
+###### Repetidamente confronta una <u>manera</u> de pensar.
 
-###### Corinto puede parecer muy distinta dependiendo desde <u>dónde</u> se la observe.
+###### Corinto puede parecer muy distinta dependiendo desde dónde se la observe.
 
-###### Los corintios parecen <u>verse</u> a sí mismos:
-- sabios,
+###### Los corintios parecen verse a sí mismos:
+- <u>sabios</u>,
 - espirituales,
 - maduros,
 - fuertes,
@@ -117,172 +112,158 @@ La Iglesia Espiritual… según sí misma
 - enriquecidos,
 - y capaces.
 
-###### Y muchas de esas cosas no eran completamente <u>falsas</u>.
+###### Y muchas de esas <u>cosas</u> no eran completamente falsas.
 
-###### Pablo <u>mismo</u> les recuerda:
-- que <u>fueron</u> enriquecidos en todo,
+###### Pablo mismo les recuerda:
+- que fueron enriquecidos en todo,
 - que no les falta <u>ningún</u> don,
-- y que <u>recibieron</u> conocimiento.
+- y que recibieron conocimiento.
 
-###### Sin embargo, cuando Pablo <u>recibe</u> el informe de los de Cloé, comienza a describir otra realidad.
+###### Sin embargo, <u>cuando</u> Pablo recibe el informe de los de Cloé, comienza a describir otra realidad.
 
 ###### Pablo habla de:
 - divisiones,
-- celos,
+- <u>celos</u>,
 - arrogancia,
 - carnalidad,
 - niños en Cristo,
-- y hombres que andan como <u>simples</u> hombres.
+- y hombres que andan como simples hombres.
 
-###### Precisamente allí comienza a desarrollarse una de las tensiones más profundas de toda la <u>epístola</u>.
+###### Precisamente allí comienza a desarrollarse una de las tensiones más profundas de <u>toda</u> la epístola.
 
-###### Los corintios <u>poseen</u> muchas realidades verdaderas en Cristo, pero continuamente parecen interpretarlas:
+###### Los corintios poseen muchas realidades verdaderas en Cristo, pero continuamente parecen interpretarlas:
 - según el <u>hombre</u>,
-- según la sabiduría <u>visible</u>,
-- según la capacidad <u>humana</u>,
+- según la sabiduría visible,
+- según la capacidad humana,
 - según el <u>estatus</u>,
-- <u>según</u> el conocimiento,
-- según la libertad entendida <u>desde</u> sí mismos.
+- según el conocimiento,
+- según la libertad entendida desde sí mismos.
 
-###### Repetidamente, Pablo <u>expone</u> que los corintios no se estaban viendo correctamente a sí mismos.
+###### Repetidamente, Pablo expone que los corintios no se estaban viendo correctamente a sí mismos.
 
-<<<<<<< HEAD
-###### La <u>carta</u> no desarrolla solamente:
-- problemas de <u>conducta</u>,
-sino también:
-- una manera equivocada de <u>percibir</u> la realidad.
-=======
-###### La carta no desarrolla solamente:
+###### La carta no desarrolla <u>solamente</u>:
 - problemas de conducta,
 
-###### sino también:
+###### sino <u>también</u>:
 - una manera equivocada de percibir la realidad.
->>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
 
-###### Y Pablo, repetidamente, <u>vuelve</u> a centrar todo en Cristo crucificado y resucitado.
+###### Y Pablo, repetidamente, vuelve a centrar todo en Cristo crucificado y <u>resucitado</u>.
 
-###### La cruz <u>aparece</u> constantemente destruyendo:
-- la jactancia <u>humana</u>,
-- la <u>gloria</u> en los hombres,
+###### La cruz aparece constantemente destruyendo:
+- la jactancia humana,
+- la gloria en los hombres,
 - la autosuficiencia,
 - la espiritualidad <u>inflada</u>,
-- el conocimiento sin <u>amor</u>,
-- la <u>libertad</u> sin edificación,
-- y el <u>poder</u> sin sacrificio.
+- el conocimiento sin amor,
+- la libertad sin edificación,
+- y el poder sin sacrificio.
 
-###### Por eso, esta carta <u>resulta</u> mucho más profunda que simplemente:
+###### Por eso, esta carta resulta mucho más profunda que simplemente:
 - “Corinto <u>tenía</u> problemas”.
 
-<<<<<<< HEAD
-###### Más bien, la carta desarrolla repetidamente una <u>tensión</u> entre:
-- la <u>manera</u> en que los corintios se perciben,
-y:
-- la realidad definida por <u>Cristo</u>.
-=======
 ###### Más bien, la carta desarrolla repetidamente una tensión entre:
 - la manera en que los corintios se perciben,
 ###### y:
-- la realidad definida por Cristo.
->>>>>>> ed5d5904ab67db26eeb0362aa7536e19f1ad695a
+- la realidad <u>definida</u> por Cristo.
 
-###### Observe cómo este contraste reaparece continuamente a lo <u>largo</u> de la epístola.
+###### Observe cómo este contraste reaparece continuamente a lo largo de la epístola.
 
 ###### En los primeros capítulos:
-- los corintios <u>valoran</u>:
+- los corintios valoran:
   - sabiduría,
-  - elocuencia,
+  - <u>elocuencia</u>,
   - capacidad,
   - impresionar,
   mientras:
-- Pablo <u>centra</u> todo en:
-  - Cristo crucificado,
+- Pablo centra todo en:
+  - <u>Cristo</u> crucificado,
   - debilidad,
-  - locura,
+  - <u>locura</u>,
   - y lo despreciado.
 
 ###### Más adelante:
-- los corintios <u>parecen</u> pensar:
-  - “somos espirituales”,
+- los corintios parecen pensar:
+  - “<u>somos</u> espirituales”,
   - “tenemos conocimiento”,
   - “tenemos libertad”,
-  mientras:
-- Pablo <u>insiste</u> en:
+  <u>mientras</u>:
+- Pablo insiste en:
   - amor,
   - edificación,
   - mutualidad,
   - y un solo cuerpo.
 
-###### Cuando <u>surgen</u> divisiones:
+###### Cuando surgen divisiones:
 - los corintios <u>dicen</u>:
   - “yo soy de Pablo”,
-  - “yo de Apolos”,
+  - “yo de <u>Apolos</u>”,
   mientras:
-- Pablo <u>redefine</u> a todos simplemente como:
+- Pablo redefine a todos simplemente como:
   - servidores,
   - administradores,
   - y colaboradores de Dios.
 
 ###### Cuando <u>hablan</u> de libertad:
-- Pablo <u>vuelve</u> continuamente:
+- Pablo vuelve continuamente:
   - al hermano,
   - a la conciencia,
-  - al amor,
-  - y a renunciar <u>incluso</u> a derechos legítimos por edificación.
+  - al <u>amor</u>,
+  - y a renunciar incluso a derechos legítimos por edificación.
 
-###### Cuando <u>hablan</u> de espiritualidad:
-- Pablo <u>dirige</u> todo hacia:
+###### Cuando hablan de espiritualidad:
+- Pablo dirige <u>todo</u> hacia:
   - inteligibilidad,
   - orden,
   - amor,
-  - y edificación de los <u>demás</u>.
+  - y edificación de los demás.
 
 ###### Incluso:
-- el cuerpo,
+- el <u>cuerpo</u>,
 - la sexualidad,
 - las relaciones,
 - el matrimonio,
-- y la vida <u>presente</u>
+- y la vida presente
 son continuamente reinterpretados desde:
 - pertenencia a <u>Cristo</u>,
 y no:
-- desde autonomía <u>humana</u>.
+- desde autonomía humana.
 
-###### La cruz no permanece encerrada solamente en los <u>capítulos</u> 1 y 2.
+###### La cruz no permanece encerrada solamente en los capítulos 1 y 2.
 
 ###### Reaparece constantemente a lo <u>largo</u> de toda la carta:
 - en humildad,
 - en renuncia,
 - en servicio,
 - en debilidad,
-- en amor,
+- en <u>amor</u>,
 - en mutualidad,
 - en edificación,
 - en pertenencia,
 - y finalmente:
 - en la esperanza de la resurrección.
 
-###### Pablo parece llevar repetidamente a los corintios hacia una <u>misma</u> realidad:
+###### Pablo parece llevar repetidamente a los corintios <u>hacia</u> una misma realidad:
 
-- Cristo define la verdadera <u>sabiduría</u>.
-- Cristo <u>define</u> la verdadera espiritualidad.
-- Cristo define la verdadera <u>libertad</u>.
+- Cristo <u>define</u> la verdadera sabiduría.
+- Cristo define la verdadera espiritualidad.
+- Cristo define la verdadera libertad.
 - Cristo define el verdadero <u>poder</u>.
-- Cristo define la verdadera <u>gloria</u>.
+- Cristo <u>define</u> la verdadera gloria.
 
-###### Por eso, <u>Pablo</u> continuamente les recuerda:
-- lo que recibieron en <u>Cristo</u>,
-- lo que Dios hizo a <u>favor</u> de ellos,
-- y quiénes son verdaderamente <u>delante</u> de Él.
+###### Por eso, Pablo continuamente les recuerda:
+- lo que recibieron en Cristo,
+- lo que Dios <u>hizo</u> a favor de ellos,
+- y quiénes son verdaderamente delante de Él.
 
-###### La sabiduría de Dios no <u>produce</u>:
-- jactancia,
+###### La sabiduría de Dios no produce:
+- <u>jactancia</u>,
 - autosuficiencia,
-- ni <u>gloria</u> humana.
+- ni gloria humana.
 
-###### Más bien, <u>desplaza</u> continuamente:
+###### Más bien, desplaza continuamente:
 - la confianza en el <u>hombre</u>,
-- el <u>orgullo</u> espiritual,
-- y la exaltación <u>propia</u>.
+- el orgullo espiritual,
+- y la exaltación propia.
 
 ###### A lo largo de <u>toda</u> la carta, Pablo parece llevar a los corintios hacia una misma realidad:
 
@@ -290,17 +271,17 @@ y no:
 - la iglesia,
 - la espiritualidad,
 - la libertad,
-- el cuerpo,
+- el <u>cuerpo</u>,
 - el conocimiento,
 - y la vida misma
 desde Cristo,
 y no desde sí mismos.
 
-###### Y precisamente allí <u>parece</u> desarrollarse la tensión central de toda la epístola:
+###### Y precisamente allí parece desarrollarse la <u>tensión</u> central de toda la epístola:
 
-###### Una iglesia que se percibe espiritualmente <u>fuerte</u> y madura…
+###### Una iglesia que se percibe espiritualmente fuerte y madura…
 
-###### confrontada repetidamente por la realidad de <u>Cristo</u> crucificado y resucitado.
+###### confrontada repetidamente por la realidad de Cristo crucificado y resucitado.
 
 # 1:1-4:21 — Pablo redefine la sabiduría y espiritualidad desde la cruz
 
@@ -310,636 +291,689 @@ y no desde sí mismos.
 Pablo, llamado a ser apóstol de Jesucristo, por la voluntad de Dios, y Sóstenes, nuestro hermano
 
 #### Pablo
-##### Pablo se introduce <u>como</u> el **escritor** de la carta a los corintios.
+##### Pablo se introduce como el <u>escritor</u> de la carta a los corintios.
 
 #### llamado *a ser* apóstol de Jesucristo 
-##### Pablo describe su apostolado **como** resultado de un llamado y no como algo buscado por iniciativa <u>propia</u>.
+##### Pablo describe su apostolado <u>como</u> resultado de un llamado y no como algo buscado por iniciativa propia.
 
-##### Pablo se presenta como <u>apóstol</u> de Jesucristo.
+##### Pablo se presenta como apóstol de Jesucristo.
 
 ###### Desde el comienzo de la **carta**:
-- Pablo **dirige** la atención <u>hacia</u> Dios,
-- hacia <u>Cristo</u>,
-- y hacia aquello que <u>ocurre</u> por iniciativa **divina** más que por exaltación o mérito humano.
+- Pablo <u>dirige</u> la atención hacia Dios,
+- hacia Cristo,
+- y hacia aquello que ocurre por iniciativa <u>divina</u> más que por exaltación o mérito humano.
 
 #### por la voluntad de Dios
-##### Pablo describe su apostolado **como** <u>algo</u> que ocurrió por la voluntad de Dios.
+##### Pablo describe su apostolado <u>como</u> algo que ocurrió por la voluntad de Dios.
 
-##### El apostolado de Pablo no es presentado <u>como</u> resultado de iniciativa humana, sino de la **voluntad** de Dios.
+##### El apostolado de Pablo no es presentado como resultado de iniciativa humana, sino de la <u>voluntad</u> de Dios.
 
-###### <u>Esto</u> también desplaza la atención:
-- de la autosuficiencia **humana**,
-- del <u>prestigio</u> personal,
-- y de la iniciativa <u>propia</u>,
-hacia aquello que Dios **mismo** determina y realiza.
+###### Esto también desplaza la atención:
+- de la autosuficiencia <u>humana</u>,
+- del prestigio personal,
+- y de la iniciativa propia,
+hacia aquello que Dios <u>mismo</u> determina y realiza.
 
 #### y Sóstenes, nuestro hermano
-##### Sóstenes aparece <u>junto</u> con Pablo en este **saludo** introductorio.
+##### Sóstenes aparece junto con Pablo en este <u>saludo</u> introductorio.
 
-##### Es descrito como hermano, <u>tanto</u> de Pablo como de los corintios.
+##### Es descrito como hermano, tanto de Pablo como de los corintios.
 
-###### Desde el **inicio** la carta también <u>posee</u> un lenguaje:
+###### Desde el <u>inicio</u> la carta también posee un lenguaje:
 - relacional,
 - participacional,
 - y comunitario.
 
-###### Pablo no se presenta <u>aislado</u> de **otros** creyentes, sino acompañado por un hermano.
+###### Pablo no se presenta aislado de <u>otros</u> creyentes, sino acompañado por un hermano.
 
 ### 1 Corintios 1:2
 a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús, llamados *a ser* santos, con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
 
 #### a la iglesia de Dios que está en Corinto
-##### Pablo y Sóstenes <u>dirigen</u> la **carta** a la iglesia de Dios que estaba en Corinto.
+##### Pablo y Sóstenes dirigen la <u>carta</u> a la iglesia de Dios que estaba en Corinto.
 
-##### Los creyentes son descritos colectivamente como una sola <u>iglesia</u>.
+##### Los creyentes son descritos colectivamente como una sola iglesia.
 
-##### Pablo <u>enfatiza</u> que es la iglesia "de" Dios.
+##### Pablo enfatiza que es la iglesia "de" Dios.
 
-###### Desde el <u>inicio</u>, Pablo no **describe** a los corintios principalmente:
+###### Desde el inicio, Pablo no <u>describe</u> a los corintios principalmente:
 - según grupos,
 - preferencias,
 - **líderes**,
 - o distinciones humanas.
 
-###### Son <u>presentados</u> colectivamente **como**:
-- la **iglesia** de Dios,
-- **perteneciente** a Dios,
-- y **definida** por Él.
+###### Son presentados colectivamente <u>como</u>:
+- la <u>iglesia</u> de Dios,
+- <u>perteneciente</u> a Dios,
+- y <u>definida</u> por Él.
 
 #### a los que han sido santificados en Cristo Jesús
-##### La <u>iglesia</u> en Corinto también es descrita como **aquellos** que han sido santificados en Cristo Jesús.
+##### La iglesia en Corinto también es descrita como <u>aquellos</u> que han sido santificados en Cristo Jesús.
 
-##### Pablo describe la santificación como algo que ya <u>había</u> sucedido en ellos y que fue realizado en **Cristo** Jesús.
+##### Pablo describe la santificación como algo que ya había sucedido en ellos y que fue realizado en <u>Cristo</u> Jesús.
 
-##### Esto <u>describe</u> algo que ya era verdadero **acerca** de la iglesia en Corinto.
+##### Esto describe algo que ya era verdadero <u>acerca</u> de la iglesia en Corinto.
 
-###### Pablo no comienza la carta cuestionando si los corintios habían <u>recibido</u> algo verdadero de parte de Dios.
+###### Pablo no comienza la carta cuestionando si los corintios habían recibido algo verdadero de parte de Dios.
 
-###### Desde el <u>inicio</u>:
-- reconoce **gracia**,
+###### Desde el inicio:
+- reconoce <u>gracia</u>,
 - santificación,
 - pertenencia,
-- y **participación** en Cristo.
+- y <u>participación</u> en Cristo.
 
-###### Esto es importante porque los problemas posteriores aparecen <u>dentro</u> de una iglesia que verdaderamente había **recibido** muchas cosas de Dios.
+###### Esto es importante porque los problemas posteriores aparecen dentro de una iglesia que verdaderamente había <u>recibido</u> muchas cosas de Dios.
 
 #### llamados *a ser* santos
-##### Los corintios son **descritos** como santos debido a su relación con <u>Cristo</u> Jesús.
+##### Los corintios son <u>descritos</u> como santos debido a su relación con Cristo Jesús.
 
-###### <u>Pablo</u> no comienza definiéndolos:
+###### Pablo no comienza definiéndolos:
 - por sus problemas,
 - divisiones,
-- o **conflictos**.
+- o <u>conflictos</u>.
 
-###### Desde el <u>inicio</u> los identifica:
+###### Desde el inicio los identifica:
 - desde Cristo,
-- <u>desde</u> el llamado de Dios,
-- y desde aquello que <u>Dios</u> ya **había** hecho entre ellos.
+- desde el llamado de Dios,
+- y desde aquello que Dios ya <u>había</u> hecho entre ellos.
 
 #### con todos los que en cualquier parte invocan el nombre de nuestro Señor Jesucristo, *Señor* de ellos y nuestro
-##### Esto no es presentado solamente para los corintios, sino para **todos** los que <u>invocan</u> el nombre del Señor Jesucristo.
+##### Esto no es presentado solamente para los corintios, sino para <u>todos</u> los que invocan el nombre del Señor Jesucristo.
 
-##### Todos los creyentes son incluidos dentro de esta <u>misma</u> comunión con Cristo.
+##### Todos los creyentes son incluidos dentro de esta misma comunión con Cristo.
 
-###### La iglesia en Corinto no es presentada como un <u>grupo</u> aislado o separado del resto del pueblo de Dios.
+###### La iglesia en Corinto no es presentada como un grupo aislado o separado del resto del pueblo de Dios.
 
-###### Pablo los ubica **dentro** de una realidad <u>mucho</u> más amplia:
-- todos los que <u>invocan</u> al Señor,
-- en cualquier <u>lugar</u>,
-- pertenecen al <u>mismo</u> Señor Jesucristo.
+###### Pablo los ubica <u>dentro</u> de una realidad mucho más amplia:
+- todos los que invocan al Señor,
+- en cualquier lugar,
+- pertenecen al mismo Señor Jesucristo.
 
 ### 1 Corintios 1:3
 Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
 
 #### Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo
-##### Pablo expresa un saludo de <u>gracia</u> y paz **hacia** los corintios.
+##### Pablo expresa un saludo de gracia y paz <u>hacia</u> los corintios.
 
-##### Ambas son descritas como procedentes de Dios <u>Padre</u> y del Señor Jesucristo.
+##### Ambas son descritas como procedentes de Dios Padre y del Señor Jesucristo.
 
-###### La **<u>carta</u>** comienza en un ambiente:
+###### La <u>carta</u> comienza en un ambiente:
 - de gracia,
 - paz,
 - comunión,
-- y participación compartida en <u>Cristo</u>.
+- y participación compartida en Cristo.
 
-###### **Antes** de <u>confrontar</u>:
+###### <u>Antes</u> de confrontar:
 - divisiones,
 - orgullo,
-- sabiduría **humana**,
+- sabiduría <u>humana</u>,
 - o conflictos,
-Pablo establece primero <u>aquello</u> que Dios había **dado** y producido entre ellos.
+Pablo establece primero aquello que Dios había <u>dado</u> y producido entre ellos.
 
 ### 1 Corintios 1:4
 Siempre doy gracias a mi Dios por ustedes, por la gracia de Dios que les fue dada en Cristo Jesús.
 
 #### Siempre doy gracias a mi Dios por ustedes
-##### Pablo **expresa** continuamente <u>gratitud</u> a Dios por los corintios.
+##### Pablo <u>expresa</u> continuamente gratitud a Dios por los corintios.
 
-##### La carta no comienza con rechazo <u>hacia</u> **ellos**, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
+##### La carta no comienza con rechazo hacia <u>ellos</u>, sino con acciones de gracias a Dios por lo que había ocurrido entre ellos.
 
-###### Pablo <u>reconoce</u> sinceramente la obra de Dios **entre** los corintios.
+###### Pablo reconoce sinceramente la obra de Dios <u>entre</u> los corintios.
 
-###### <u>Desde</u> el inicio:
-- **habla** de gracia,
+###### Desde el inicio:
+- <u>habla</u> de gracia,
 - enriquecimiento,
 - **dones**,
 - confirmación,
-- y comunión con **Cristo**.
+- y comunión con <u>Cristo</u>.
 
-###### Esto permite percibir que los problemas posteriores aparecen dentro de una <u>iglesia</u> donde verdaderamente existía participación en **muchas** cosas relacionadas con Cristo.
+###### Esto permite percibir que los problemas posteriores aparecen dentro de una iglesia donde verdaderamente existía participación en <u>muchas</u> cosas relacionadas con Cristo.
 
 #### por la gracia de Dios que les fue dada en Cristo Jesús.
-##### Pablo describe esta <u>gracia</u> como algo dado a ellos en Cristo Jesús.
+##### Pablo describe esta gracia como algo dado a ellos en Cristo Jesús.
 
-##### La posición de los <u>corintios</u> no es presentada como algo alcanzado por **ellos**, sino como algo recibido.
+##### La posición de los corintios no es presentada como algo alcanzado por <u>ellos</u>, sino como algo recibido.
 
-##### La gracia es <u>descrita</u> como algo dado por Dios a **ellos** en Cristo Jesús.
+##### La gracia es descrita como algo dado por Dios a <u>ellos</u> en Cristo Jesús.
 
-###### <u>Pablo</u> continúa dirigiendo la atención:
-- hacia lo que **Dios** había <u>dado</u>,
-- <u>hacia</u> lo que Dios **había** producido,
-- y **hacia** aquello que <u>existía</u> en Cristo Jesús.
+###### Pablo continúa dirigiendo la atención:
+- hacia lo que <u>Dios</u> había dado,
+- hacia lo que Dios <u>había</u> producido,
+- y <u>hacia</u> aquello que existía en Cristo Jesús.
 
-###### <u>Desde</u> el comienzo:
-- la **gracia**,
+###### Desde el comienzo:
+- la <u>gracia</u>,
 - el llamado,
-- la **santificación**,
+- la <u>santificación</u>,
 - y el enriquecimiento
-son descritos como resultado de la **iniciativa** de Dios y no del <u>mérito</u> humano.
+son descritos como resultado de la <u>iniciativa</u> de Dios y no del mérito humano.
 
 ### 1 Corintios 1:5
 Porque en todo ustedes fueron enriquecidos en Él, en toda palabra y en todo conocimiento
 
 #### Porque en todo ustedes fueron enriquecidos en Él
-##### Pablo describe a los corintios como **enriquecidos** en Cristo y no como <u>personas</u> que aún necesitaban alcanzar esa condición.
+##### Pablo describe a los corintios como <u>enriquecidos</u> en Cristo y no como personas que aún necesitaban alcanzar esa condición.
 
-##### Este enriquecimiento es **descrito** <u>como</u> algo completo: "en todo".
+##### Este enriquecimiento es <u>descrito</u> como algo completo: "en todo".
 
-##### No fueron enriquecidos <u>aparte</u> de Cristo, sino en Él.
+##### No fueron enriquecidos aparte de Cristo, sino en Él.
 
-###### Pablo no presenta a la **iglesia** en Corinto como <u>vacía</u> de participación espiritual.
+###### Pablo no presenta a la <u>iglesia</u> en Corinto como vacía de participación espiritual.
 
 ###### Por el contrario:
-- habían **sido** enriquecidos,
-- **participaban** en palabra,
-- y participaban en **conocimiento**.
+- habían <u>sido</u> enriquecidos,
+- <u>participaban</u> en palabra,
+- y participaban en <u>conocimiento</u>.
 
-###### Esto ayuda a percibir por qué <u>muchas</u> de las **cosas** presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
+###### Esto ayuda a percibir por qué muchas de las <u>cosas</u> presentes en Corinto podían parecer señales de madurez y fortaleza espiritual.
 
 #### en toda palabra y en todo conocimiento
-##### El enriquecimiento mencionado no es <u>descrito</u> en términos materiales, sino en **palabra** y conocimiento. Colosenses 2:3
+##### El enriquecimiento mencionado no es descrito en términos materiales, sino en <u>palabra</u> y conocimiento. Colosenses 2:3
 
-###### La palabra y el conocimiento no son presentados aquí como algo negativo en sí <u>mismo</u>.
+###### La palabra y el conocimiento no son presentados aquí como algo negativo en sí mismo.
 
-###### Desde el inicio Pablo <u>reconoce</u> que **estas** cosas verdaderamente existían entre los corintios.
+###### Desde el inicio Pablo reconoce que <u>estas</u> cosas verdaderamente existían entre los corintios.
 
-###### Más adelante en la carta, Pablo comenzará a <u>mostrar</u> cómo:
+###### Más adelante en la carta, Pablo comenzará a mostrar cómo:
 - el conocimiento,
 - la sabiduría,
-- y la **manera** de hablar
-podían ser interpretados incorrectamente <u>cuando</u> quedaban separados de la cruz y del amor.
+- y la <u>manera</u> de hablar
+podían ser interpretados incorrectamente cuando quedaban separados de la cruz y del amor.
 
-###### Cristo es presentado como <u>aquel</u> en **quien** se encuentra la verdadera riqueza.
+###### Cristo es presentado como aquel en <u>quien</u> se encuentra la verdadera riqueza.
 
 ### 1 Corintios 1:6
 así como el testimonio acerca de Cristo fue confirmado en ustedes
 
 #### así como el testimonio acerca de Cristo fue confirmado en ustedes
-##### Pablo describe esto <u>como</u> algo que ya **había** sucedido en los corintios.
+##### Pablo describe esto como algo que ya <u>había</u> sucedido en los corintios.
 
-##### El conector "así como" <u>conecta</u> **esta** afirmación con el enriquecimiento mencionado anteriormente.
+##### El conector "así como" conecta <u>esta</u> afirmación con el enriquecimiento mencionado anteriormente.
 
-##### El enriquecimiento de los corintios es presentado **junto** con la confirmación del testimonio acerca de <u>Cristo</u> en ellos.
+##### El enriquecimiento de los corintios es presentado <u>junto</u> con la confirmación del testimonio acerca de Cristo en ellos.
 
-###### Pablo no **habla** de un evangelio superficial o solamente <u>externo</u>.
+###### Pablo no <u>habla</u> de un evangelio superficial o solamente externo.
 
-###### El testimonio acerca de Cristo <u>había</u> sido confirmado en ellos.
+###### El testimonio acerca de Cristo había sido confirmado en ellos.
 
-###### <u>Esto</u> continúa estableciendo:
-- la autenticidad de la **obra** de Dios <u>entre</u> ellos,
-- la participación que **tenían** en <u>Cristo</u>,
-- y la riqueza espiritual presente en la <u>iglesia</u> en **Corinto**.
+###### Esto continúa estableciendo:
+- la autenticidad de la <u>obra</u> de Dios entre ellos,
+- la participación que <u>tenían</u> en Cristo,
+- y la riqueza espiritual presente en la iglesia en <u>Corinto**.
 
 ### 1 Corintios 1:7
 de manera que nada les falta en ningún don, esperando ansiosamente la revelación de nuestro Señor Jesucristo
 
 #### de manera que nada les falta en ningún don
-##### Pablo **describe** a los corintios como personas a quienes no les <u>faltaba</u> ningún don.
+##### Pablo <u>describe</u> a los corintios como personas a quienes no les faltaba ningún don.
 
-##### Esta afirmación es presentada como resultado de la **gracia** y del enriquecimiento <u>descritos</u> anteriormente.
+##### Esta afirmación es presentada como resultado de la <u>gracia</u> y del enriquecimiento descritos anteriormente.
 
-###### La iglesia en Corinto no es **presentada** como una iglesia <u>carente</u> de actividad espiritual visible.
+###### La iglesia en Corinto no es <u>presentada</u> como una iglesia carente de actividad espiritual visible.
 
 ###### Por el contrario:
-- había **dones**,
+- había <u>dones</u>,
 - **participación**,
-- **expectativa**,
-- y manifestaciones relacionadas con la **vida** de la <u>iglesia</u>.
+- <u>expectativa</u>,
+- y manifestaciones relacionadas con la <u>vida</u> de la iglesia.
 
-###### Precisamente por **eso** las correcciones posteriores producen una <u>tensión</u> tan profunda a lo largo de la carta.
+###### Precisamente por <u>eso</u> las correcciones posteriores producen una tensión tan profunda a lo largo de la carta.
 
 #### esperando ansiosamente la revelación de nuestro Señor Jesucristo
-##### Los corintios son descritos **como** esperando la revelación <u>futura</u> de Jesucristo.
+##### Los corintios son descritos <u>como</u> esperando la revelación futura de Jesucristo.
 
-##### La revelación de Jesucristo es presentada como algo <u>futuro</u> que aguardaban.
+##### La revelación de Jesucristo es presentada como algo futuro que aguardaban.
 
-###### Pablo <u>describe</u> a los corintios como personas que **vivían**:
+###### Pablo describe a los corintios como personas que <u>vivían</u>:
 - **esperando**,
 - participando,
-- y orientadas hacia la <u>venida</u> **futura** del Señor Jesucristo.
+- y orientadas hacia la venida <u>futura</u> del Señor Jesucristo.
 
-###### La <u>carta</u> **comienza** mostrando una iglesia:
+###### La carta <u>comienza</u> mostrando una iglesia:
 - **activa**,
 - expectante,
-- y profundamente **relacionada** con realidades espirituales.
+- y profundamente <u>relacionada</u> con realidades espirituales.
 
 ### 1 Corintios 1:8
 Él también los confirmará hasta el fin, *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
 
 #### Él también los confirmará hasta el fin
-##### Pablo presenta a <u>Cristo</u> como **quien** los confirmará hasta el fin.
+##### Pablo presenta a Cristo como <u>quien</u> los confirmará hasta el fin.
 
-##### La futura revelación de **Cristo** no es presentada como <u>motivo</u> de temor, sino dentro de un marco de confirmación.
+##### La futura revelación de <u>Cristo</u> no es presentada como motivo de temor, sino dentro de un marco de confirmación.
 
-###### <u>Pablo</u> continúa enfatizando:
-- la **fidelidad** de Dios,
-- la **obra** de Cristo,
-- y la seguridad asociada a **aquello** que Dios <u>mismo</u> había comenzado entre ellos.
+###### Pablo continúa enfatizando:
+- la <u>fidelidad</u> de Dios,
+- la <u>obra</u> de Cristo,
+- y la seguridad asociada a <u>aquello</u> que Dios mismo había comenzado entre ellos.
 
 #### *para que sean* irreprensibles en el día de nuestro Señor Jesucristo
-##### Los corintios son descritos como confirmados irreprensibles para el **día** del <u>Señor</u> Jesucristo.
+##### Los corintios son descritos como confirmados irreprensibles para el <u>día</u> del Señor Jesucristo.
 
-##### El día del **Señor** Jesucristo corresponde al <u>evento</u> futuro mencionado anteriormente como su revelación.
+##### El día del <u>Señor</u> Jesucristo corresponde al evento futuro mencionado anteriormente como su revelación.
 
-##### Pablo presenta esto como algo asociado a la **obra** que Cristo <u>mismo</u> realizará.
+##### Pablo presenta esto como algo asociado a la <u>obra</u> que Cristo mismo realizará.
 
-###### Desde el **inicio** de la <u>carta</u>:
-- el **llamado**,
+###### Desde el <u>inicio</u> de la carta:
+- el <u>llamado</u>,
 - la santificación,
-- la **gracia**,
+- la <u>gracia</u>,
 - el enriquecimiento,
 - y la confirmación
-son continuamente relacionados con la **obra** de Dios y de <u>Cristo</u>.
+son continuamente relacionados con la <u>obra</u> de Dios y de Cristo.
 
 ### 1 Corintios 1:9
 Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
 
 #### Fiel es Dios , por medio de quien fueron llamados a la comunión con Su Hijo Jesucristo, nuestro Señor.
-##### Dios es <u>descrito</u> como **fiel**.
+##### Dios es descrito como <u>fiel**.
 
-##### Los corintios fueron llamados por <u>medio</u> de Dios a la comunión con Su Hijo Jesucristo.
+##### Los corintios fueron llamados por medio de Dios a la comunión con Su Hijo Jesucristo.
 
-##### Pablo describe el llamado de Dios como un <u>llamado</u> a la comunión con Su Hijo Jesucristo.
+##### Pablo describe el llamado de Dios como un llamado a la comunión con Su Hijo Jesucristo.
 
-##### La fidelidad de <u>Dios</u> es presentada **junto** con este llamado.
+##### La fidelidad de Dios es presentada <u>junto</u> con este llamado.
 
-###### La carta **comienza** estableciendo que la relación principal que <u>define</u> a los creyentes es su comunión con Jesucristo.
+###### La carta <u>comienza</u> estableciendo que la relación principal que define a los creyentes es su comunión con Jesucristo.
 
-###### Más adelante <u>Pablo</u> comenzará a confrontar:
+###### Más adelante Pablo comenzará a confrontar:
 - divisiones,
-- identificaciones **humanas**,
+- identificaciones <u>humanas</u>,
 - jactancia,
-- y <u>maneras</u> de **pensar** centradas en hombres.
+- y maneras de <u>pensar</u> centradas en hombres.
 
-###### Sin embargo, desde el inicio Pablo establece que <u>aquello</u> que verdaderamente los **definía** era su participación compartida en Cristo.
+###### Sin embargo, desde el inicio Pablo establece que aquello que verdaderamente los <u>definía</u> era su participación compartida en Cristo.
 
-## 1:10-17 Las identificaciones y divisiones que existían entre los corintios
+> En Síntesis
+>- Pablo establece desde el inicio que la iglesia en Corinto pertenece a Dios y existe por iniciativa divina, no por mérito, prestigio o autosuficiencia humana. 
+>- Los corintios son descritos como personas que verdaderamente habían recibido gracia, santificación, comunión y participación en Cristo Jesús. 
+>- Pablo reconoce que en Corinto existían riquezas espirituales reales: palabra, conocimiento, dones y confirmación del testimonio acerca de Cristo. 
+>- La carta comienza dentro de un ambiente de gracia, paz, gratitud y fidelidad divina antes de confrontar los problemas y divisiones posteriores. 
+>- La realidad principal que Pablo establece como definitoria para los creyentes es su comunión compartida con Jesucristo, por encima de identidades humanas o exaltación personal.
+
+## 1:10 Las identificaciones y divisiones que existían entre los corintios
 
 ### 1 Corintios 1:10
 Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
 
 #### Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo,
-##### No es una petición <u>común</u>, sino una **súplica** de hermano a hermanos.
+##### No es una petición común, sino una <u>súplica</u> de hermano a hermanos.
 
-##### La súplica **tiene** como base el nombre de nuestro <u>Señor</u> Jesucristo.
+##### La súplica <u>tiene</u> como base el nombre de nuestro Señor Jesucristo.
 
-##### Pablo <u>ruega</u> esto después de haberles recordado lo que ya **eran** en Cristo y la gracia que habían recibido de parte de Dios.
+##### Pablo ruega esto después de haberles recordado lo que ya <u>eran</u> en Cristo y la gracia que habían recibido de parte de Dios.
 
-##### El ruego de Pablo **surge** sobre la <u>base</u> de lo que Dios ya hizo a favor de ellos en Cristo.
+##### El ruego de Pablo <u>surge</u> sobre la base de lo que Dios ya hizo a favor de ellos en Cristo.
 
-###### Pablo no comienza confrontándolos desde una relación distante o <u>fría</u>.
+###### Pablo no comienza confrontándolos desde una relación distante o fría.
 
-###### <u>Incluso</u> al comenzar a **corregir**:
-- continúa llamándolos <u>hermanos</u>,
-- continúa hablando **desde** la comunión compartida en <u>Cristo</u>,
-- y continúa estableciendo el fundamento sobre **aquello** que Dios ya <u>había</u> hecho entre ellos.
+###### Incluso al comenzar a <u>corregir</u>:
+- continúa llamándolos hermanos,
+- continúa hablando <u>desde</u> la comunión compartida en Cristo,
+- y continúa estableciendo el fundamento sobre <u>aquello</u> que Dios ya había hecho entre ellos.
 
 #### que todos se pongan de acuerdo
-##### Esto involucra a **todos** los corintios; el ruego de Pablo va <u>dirigido</u> a toda la iglesia.
+##### Esto involucra a <u>todos</u> los corintios; el ruego de Pablo va dirigido a toda la iglesia.
 
-##### Pablo <u>quiere</u> que todos **hablen** de acuerdo a aquello que comparten en Cristo.
+##### Pablo quiere que todos <u>hablen</u> de acuerdo a aquello que comparten en Cristo.
 
-##### No está **pidiendo** simplemente conformidad <u>externa</u> ni que todos sigan a un mismo hombre.
+##### No está <u>pidiendo</u> simplemente conformidad externa ni que todos sigan a un mismo hombre.
 
-##### La unidad que Pablo describe <u>surge</u> de la verdad y no de preferencias personales.
+##### La unidad que Pablo describe surge de la verdad y no de preferencias personales.
 
-###### Lo que <u>estaba</u> ocurriendo en Corinto probablemente no se **percibía** necesariamente como algo negativo entre ellos.
+###### Lo que estaba ocurriendo en Corinto probablemente no se <u>percibía</u> necesariamente como algo negativo entre ellos.
 
 ###### Identificarse:
-- con **ciertos** <u>hombres</u>,
-- con <u>ciertas</u> maneras de **hablar**,
-- o con determinados **grupos**
-podía parecer natural e incluso correcto <u>dentro</u> de una cultura donde la sabiduría, la reputación y la identificación con figuras reconocidas tenían enorme valor.
+- con <u>ciertos</u> hombres,
+- con ciertas maneras de <u>hablar</u>,
+- o con determinados <u>grupos</u>
+podía parecer natural e incluso correcto dentro de una cultura donde la sabiduría, la reputación y la identificación con figuras reconocidas tenían enorme valor.
 
-###### Precisamente por eso Pablo **dirige** nuevamente la atención hacia <u>Cristo</u> y hacia aquello que todos compartían en Él.
+###### Precisamente por eso Pablo <u>dirige</u> nuevamente la atención hacia Cristo y hacia aquello que todos compartían en Él.
 
 #### y que no haya divisiones entre ustedes
 
 divisiones - SQUISMA
-: Proviene del verbo *schizo*, que significa <u>romper</u>, rasgar o dividir.
+: Proviene del verbo *schizo*, que significa romper, rasgar o dividir.
 
-##### La <u>idea</u> es la de algo que está siendo **dividido** o rasgado.
+##### La idea es la de algo que está siendo <u>dividido</u> o rasgado.
 
-##### Pablo <u>ruega</u> que no **haya** divisiones entre ellos porque en Cristo son uno.
+##### Pablo ruega que no <u>haya</u> divisiones entre ellos porque en Cristo son uno.
 
-###### Pablo comienza a <u>mostrar</u> una tensión que aparecerá repetidamente en toda la carta:
-- aquello que **podía** <u>parecer</u> fuerte o válido según criterios humanos,
-- podía al <u>mismo</u> tiempo estar produciendo **división** dentro del cuerpo.
+###### Pablo comienza a mostrar una tensión que aparecerá repetidamente en toda la carta:
+- aquello que <u>podía</u> parecer fuerte o válido según criterios humanos,
+- podía al mismo tiempo estar produciendo <u>división</u> dentro del cuerpo.
 
-###### La preocupación de <u>Pablo</u> no es solamente externa o organizacional.
+###### La preocupación de Pablo no es solamente externa o organizacional.
 
-###### Lo que **está** en <u>juego</u> es:
-- la <u>manera</u> en que se comprendían a sí **mismos**,
-- la **manera** en que se relacionaban unos con <u>otros</u>,
-- y <u>aquello</u> que verdaderamente los **definía** en Cristo.
+###### Lo que <u>está</u> en juego es:
+- la manera en que se comprendían a sí <u>mismos**,
+- la <u>manera</u> en que se relacionaban unos con otros,
+- y aquello que verdaderamente los <u>definía</u> en Cristo.
 
 #### sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
-##### La expresión "enteramente unidos" describe algo que <u>debía</u> reflejarse continuamente entre **ellos**.
+##### La expresión "enteramente unidos" describe algo que debía reflejarse continuamente entre <u>ellos**.
 
-##### Pablo no les pide que produzcan **<u>unidad</u>**, sino que vivan de acuerdo a ella.
+##### Pablo no les pide que produzcan <u>unidad**, sino que vivan de acuerdo a ella.
 
-##### Ya no solamente se <u>trata</u> de hablar de manera unánime, sino también de comprenderse a sí mismos desde una **misma** perspectiva.
+##### Ya no solamente se trata de hablar de manera unánime, sino también de comprenderse a sí mismos desde una <u>misma</u> perspectiva.
 
-##### Pablo desea que <u>exista</u> unidad tanto en lo que dicen como en la manera en que entienden las cosas.
+##### Pablo desea que exista unidad tanto en lo que dicen como en la manera en que entienden las cosas.
 
-###### Pablo comienza a confrontar **algo** más profundo que <u>simples</u> desacuerdos visibles.
+###### Pablo comienza a confrontar <u>algo</u> más profundo que simples desacuerdos visibles.
 
 ###### La manera de:
 - **pensar**,
 - **hablar**,
 - **identificarse**,
 - y evaluarse unos a otros
-estaba relacionada con la *manera* en que <u>estaban</u> interpretando la vida en Cristo.
+estaba relacionada con la manera en que estaban interpretando la vida en Cristo.
 
-###### Más adelante **Pablo** desarrollará esta <u>tensión</u> mediante:
-- la **cruz**,
+###### Más adelante <u>Pablo</u> desarrollará esta tensión mediante:
+- la <u>cruz</u>,
 - la sabiduría,
-- la **jactancia**,
+- la <u>jactancia</u>,
 - el conocimiento,
-- los **dones**,
-- y el **amor**.
+- los <u>dones</u>,
+- y el <u>amor</u>.
 
-## 1 Corintios 1:11-16 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
+## 1 Corintios 1:11-17 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo
 
 ### 1 Corintios 1:11
+
 Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé, que hay discusiones entre ustedes.
 
 #### Porque he sido informado acerca de ustedes, hermanos míos, por *los* de Cloé
-##### La situación de los corintios había <u>llegado</u> a ser conocida hasta por los de Cloé.
 
-##### Los de Cloé informaron a <u>Pablo</u> acerca de lo que estaba ocurriendo entre ellos.
+##### La situación de los corintios había llegado a ser conocida hasta por los de Cloé.
 
-##### Esto <u>muestra</u> preocupación por el **estado** de la iglesia en Corinto.
+##### Los de Cloé informaron a Pablo acerca de lo que estaba ocurriendo entre ellos.
 
-###### Aun al <u>comenzar</u> a confrontar el problema, Pablo continúa llamándolos:
+##### Esto muestra preocupación por el **estado** de la iglesia en Corinto.
+
+###### Aun al comenzar a confrontar el problema, Pablo continúa llamándolos:
+
 - hermanos **míos**.
 
-###### La corrección <u>ocurre</u> dentro de un contexto:
+###### La corrección ocurre dentro de un contexto:
+
 - relacional,
 - comunitario,
-- y de participación **compartida** en <u>Cristo</u>.
+- y de participación **compartida** en Cristo.
 
 #### que hay discusiones entre ustedes.
-##### El informe describe lo que <u>estaba</u> ocurriendo entre ellos.
 
-##### Pablo no presenta **esto** como un <u>peligro</u> futuro, sino como algo que ya estaba ocurriendo entre los corintios.
+##### El informe describe lo que estaba ocurriendo entre ellos.
 
-##### Sin embargo, <u>Pablo</u> comenzará a contrastar esto con lo que **eran** en Cristo.
+##### Pablo no presenta **esto** como un peligro futuro, sino como algo que ya estaba ocurriendo entre los corintios.
 
-###### Las discusiones no son presentadas solamente como desacuerdos <u>aislados</u>.
+##### Sin embargo, Pablo comenzará a contrastar esto con lo que **eran** en Cristo.
 
-###### Pablo comenzará a **mostrar** que la <u>manera</u> en que:
+###### Las discusiones no son presentadas solamente como desacuerdos aislados.
+
+###### Pablo comenzará a **mostrar** que la manera en que:
+
 - se identificaban,
 - hablaban,
 - y se agrupaban
-estaba relacionada con la manera en que <u>estaban</u> comprendiendo la vida en Cristo.
+  estaba relacionada con la manera en que estaban comprendiendo la vida en Cristo.
 
 ### 1 Corintios 1:12
+
 Me refiero a que cada uno de ustedes dice: «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
 
 #### Me refiero a que cada uno de ustedes dice:
-##### Pablo ahora <u>explica</u> específicamente a qué discusiones se refiere.
 
-##### Cada uno <u>estaba</u> tomando partido de manera individual.
+##### Pablo ahora explica específicamente a qué discusiones se refiere.
 
-##### Un problema individual <u>había</u> producido divisiones en toda la iglesia.
+##### Cada uno estaba tomando partido de manera individual.
 
-###### La manera de <u>hablar</u> de los corintios mostraba que estaban comenzando a definirse:
+##### Un problema individual había producido divisiones en toda la iglesia.
+
+###### La manera de hablar de los corintios mostraba que estaban comenzando a definirse:
+
 - según hombres,
 - según grupos,
 - y según identificaciones particulares.
 
-###### En una <u>ciudad</u> donde:
+###### En una ciudad donde:
+
 - la reputación,
 - la sabiduría,
 - la elocuencia,
 - y la asociación con figuras reconocidas
-tenían enorme valor,
-este tipo de identificaciones podía <u>parecer</u> completamente razonable e incluso admirable.
+  tenían enorme valor,
+  este tipo de identificaciones podía parecer completamente razonable e incluso admirable.
 
 #### «Yo soy de Pablo», otro: «yo de Apolos», otro: «yo de Cefas», y otro: «yo de Cristo».
-##### Pablo <u>había</u> plantado entre ellos y Apolos había regado. 1 Corintios 3:6
 
-##### No se sabe con <u>certeza</u> si Cefas estuvo personalmente entre ellos.
+##### Pablo había plantado entre ellos y Apolos había regado. 1 Corintios 3:6
 
-##### Algunos <u>incluso</u> afirmaban estar del lado de Cristo.
+##### No se sabe con certeza si Cefas estuvo personalmente entre ellos.
 
-##### Sin embargo, cada uno hablaba <u>desde</u> una identidad separada y no desde aquello que compartían en Cristo.
+##### Algunos incluso afirmaban estar del lado de Cristo.
 
-##### Pablo <u>comienza</u> a exponer que sus divisiones no correspondían a lo que eran en Cristo.
+##### Sin embargo, cada uno hablaba desde una identidad separada y no desde aquello que compartían en Cristo.
 
-###### El problema no <u>parece</u> ser simplemente que mencionaran nombres de hombres.
+##### Pablo comienza a exponer que sus divisiones no correspondían a lo que eran en Cristo.
 
-###### La <u>tensión</u> aparece cuando:
+###### El problema no parece ser simplemente que mencionaran nombres de hombres.
+
+###### La tensión aparece cuando:
+
 - la identidad,
 - la pertenencia,
 - y la manera de comprenderse a sí mismos
-comienzan a organizarse alrededor de hombres y no alrededor de <u>Cristo</u>.
+  comienzan a organizarse alrededor de hombres y no alrededor de Cristo.
 
-###### <u>Incluso</u> la expresión:
+###### Incluso la expresión:
+
 - «yo de Cristo»
-puede reflejar el <u>mismo</u> ambiente de identificación separada que estaba produciendo división entre ellos.
+  puede reflejar el mismo ambiente de identificación separada que estaba produciendo división entre ellos.
 
 ### 1 Corintios 1:13
+
 ¿Está dividido Cristo? ¿Acaso fue Pablo crucificado por ustedes? ¿O fueron bautizados en el nombre de Pablo?
 
 #### ¿Está dividido Cristo?
-##### Pablo <u>ahora</u> hace preguntas exponiendo que no hay fundamentos justificables para las divisiones que hay entre ellos.
 
-##### Primero pregunta <u>acerca</u> de lo que ellos son como parte de Cristo. Cristo es uno solo y no está dividido.
+##### Pablo ahora hace preguntas exponiendo que no hay fundamentos justificables para las divisiones que hay entre ellos.
 
-##### Pablo expone que el problema de los corintios <u>venía</u> de no considerarse correctamente a sí mismos en relación con Cristo.
+##### Primero pregunta acerca de lo que ellos son como parte de Cristo. Cristo es uno solo y no está dividido.
 
-##### Pablo no los <u>compara</u> con otra congregación sino con Cristo mismo.
+##### Pablo expone que el problema de los corintios venía de no considerarse correctamente a sí mismos en relación con Cristo.
 
-###### Pablo comienza a confrontar directamente la <u>manera</u> en que estaban interpretando:
+##### Pablo no los compara con otra congregación sino con Cristo mismo.
+
+###### Pablo comienza a confrontar directamente la manera en que estaban interpretando:
+
 - pertenencia,
 - identidad,
 - y unidad.
 
-###### Si <u>Cristo</u> no está dividido, entonces:
+###### Si Cristo no está dividido, entonces:
+
 - las divisiones,
 - identificaciones,
 - y separaciones
-no correspondían a <u>aquello</u> que compartían en Él.
+  no correspondían a aquello que compartían en Él.
 
 #### ¿Acaso fue Pablo crucificado por ustedes?
-##### Esta pregunta <u>dirige</u> la atención a la obra de Cristo a favor de ellos.
 
-##### Pablo les pregunta si fue él quien <u>murió</u> por sus pecados.
+##### Esta pregunta dirige la atención a la obra de Cristo a favor de ellos.
 
-##### La pregunta deja en evidencia lo inapropiado de jactarse en hombres <u>cuando</u> fue Cristo quien fue crucificado por ellos.
+##### Pablo les pregunta si fue él quien murió por sus pecados.
 
-###### Pablo comienza a desplazar completamente la <u>atención</u>:
+##### La pregunta deja en evidencia lo inapropiado de jactarse en hombres cuando fue Cristo quien fue crucificado por ellos.
+
+###### Pablo comienza a desplazar completamente la atención:
+
 - de los hombres,
 - de la reputación,
 - y de las identificaciones humanas,
-hacia la cruz de Cristo.
+  hacia la cruz de Cristo.
 
-###### Más adelante la cruz se convertirá en el <u>centro</u> del contraste entre:
+###### Más adelante la cruz se convertirá en el centro del contraste entre:
+
 - sabiduría humana,
 - gloria humana,
-- y aquello que verdaderamente <u>procede</u> de Dios.
+- y aquello que verdaderamente procede de Dios.
 
 #### ¿O fueron bautizados en el nombre de Pablo?
-##### Pablo también <u>dirige</u> la atención al bautismo de los corintios.
 
-##### Ellos no <u>habían</u> sido bautizados en el nombre de Pablo.
+##### Pablo también dirige la atención al bautismo de los corintios.
 
-##### Ambas preguntas exponen que las cosas fundamentales que <u>habían</u> recibido no provenían de Pablo.
+##### Ellos no habían sido bautizados en el nombre de Pablo.
 
-##### <u>Pablo</u> deja al descubierto que las divisiones entre ellos provenían de no considerar correctamente a Cristo y su obra a favor de ellos.
+##### Ambas preguntas exponen que las cosas fundamentales que habían recibido no provenían de Pablo.
 
-###### La <u>obra</u> fundamental que los definía:
+##### Pablo deja al descubierto que las divisiones entre ellos provenían de no considerar correctamente a Cristo y su obra a favor de ellos.
+
+###### La obra fundamental que los definía:
+
 - no provenía de Pablo,
 - ni de Apolos,
 - ni de Cefas.
 
-###### Provenía de <u>Cristo</u>:
+###### Provenía de Cristo:
+
 - crucificado,
 - recibido por fe,
-- y relacionado con <u>aquello</u> que todos compartían en Él.
+- y relacionado con aquello que todos compartían en Él.
 
 ### 1 Corintios 1:14
+
 Doy gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo
 
-##### Pablo recuerda que <u>bautizó</u> solamente a Crispo y a Gayo entre ellos.
+##### Pablo recuerda que bautizó solamente a Crispo y a Gayo entre ellos.
 
-##### Pablo <u>expresa</u> gratitud a Dios por haber bautizado a muy pocos corintios.
+##### Pablo expresa gratitud a Dios por haber bautizado a muy pocos corintios.
 
-###### Pablo no buscaba <u>construir</u>:
-- una plataforma <u>personal</u>,
-- un grupo <u>propio</u>,
+###### Pablo no buscaba construir:
+
+- una plataforma personal,
+- un grupo propio,
 - ni seguidores identificados principalmente con él.
 
-###### La manera en que los corintios estaban organizando sus identificaciones no correspondía al propósito del evangelio que Pablo <u>había</u> anunciado entre ellos.
+###### La manera en que los corintios estaban organizando sus identificaciones no correspondía al propósito del evangelio que Pablo había anunciado entre ellos.
 
 ### 1 Corintios 1:15
+
 para que nadie diga que fueron bautizados en mi nombre.
 
-##### Pablo está agradecido de que <u>nadie</u> pueda afirmar legítimamente que fue bautizado en el nombre de Pablo.
+##### Pablo está agradecido de que nadie pueda afirmar legítimamente que fue bautizado en el nombre de Pablo.
 
-##### Las divisiones entre ellos no eran <u>resultado</u> de que Pablo hubiese buscado formar seguidores para sí mismo.
+##### Las divisiones entre ellos no eran resultado de que Pablo hubiese buscado formar seguidores para sí mismo.
 
-###### Pablo <u>continúa</u> rechazando cualquier intento de:
+###### Pablo continúa rechazando cualquier intento de:
+
 - exaltación personal,
 - apropiación de creyentes,
 - o formación de identidad centrada en hombres.
 
-###### Desde el comienzo de la <u>carta</u>:
+###### Desde el comienzo de la carta:
+
 - el centro,
 - la pertenencia,
 - y la identidad
-son continuamente dirigidos <u>hacia</u> Cristo y no hacia hombres.
+  son continuamente dirigidos hacia Cristo y no hacia hombres.
 
 ### 1 Corintios 1:16
+
 También bauticé a los de la casa de Estéfanas; por lo demás, no sé si bauticé a algún otro.
 
-##### Pablo también recuerda <u>haber</u> bautizado a la casa de Estéfanas.
+##### Pablo también recuerda haber bautizado a la casa de Estéfanas.
 
-##### Sin embargo, aun en esos casos, ellos no habían sido bautizados en el <u>nombre</u> de Pablo.
+##### Sin embargo, aun en esos casos, ellos no habían sido bautizados en el nombre de Pablo.
 
-##### El énfasis de Pablo sigue siendo <u>mostrar</u> que no se dedicó principalmente a bautizar entre ellos.
+##### El énfasis de Pablo sigue siendo mostrar que no se dedicó principalmente a bautizar entre ellos.
 
-##### Pablo procura <u>hablar</u> con sinceridad y precisión al recordar lo ocurrido entre los corintios.
+##### Pablo procura hablar con sinceridad y precisión al recordar lo ocurrido entre los corintios.
 
-###### Aun en <u>medio</u> de la corrección, Pablo no exagera ni manipula los hechos para fortalecer su argumento.
+###### Aun en medio de la corrección, Pablo no exagera ni manipula los hechos para fortalecer su argumento.
 
-###### La atención sigue <u>siendo</u> dirigida:
+###### La atención sigue siendo dirigida:
+
 - lejos de Pablo,
 - lejos de identificaciones humanas,
 - y lejos de cualquier fundamento centrado en hombres.
 
 ### 1 Corintios 1:17
+
 Pues Cristo no me envió a bautizar, sino a predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
 
 #### Pues Cristo no me envió a bautizar, sino a predicar el evangelio
-##### Pablo explica por qué no se <u>dedicó</u> principalmente a bautizar entre los corintios.
 
-##### Cristo lo había <u>enviado</u> a predicar el evangelio.
+##### Pablo explica por qué no se dedicó principalmente a bautizar entre los corintios.
 
-##### La comisión de Pablo estaba centrada en anunciar lo que Dios había <u>hecho</u> por medio de Cristo.
+##### Cristo lo había enviado a predicar el evangelio.
 
-##### Pablo no predicaba por iniciativa <u>propia</u>, sino porque había sido enviado a hacerlo.
+##### La comisión de Pablo estaba centrada en anunciar lo que Dios había hecho por medio de Cristo.
 
-##### Pablo está agradecido de no haberse dedicado principalmente a bautizar, porque esa no era la comisión que había <u>recibido</u>.
+##### Pablo no predicaba por iniciativa propia, sino porque había sido enviado a hacerlo.
 
-###### <u>Pablo</u> continúa desplazando la atención:
+##### Pablo está agradecido de no haberse dedicado principalmente a bautizar, porque esa no era la comisión que había recibido.
+
+###### Pablo continúa desplazando la atención:
+
 - del hombre,
 - del mensajero,
 - y de las identificaciones humanas,
-hacia el evangelio y hacia Cristo <u>mismo</u>.
+  hacia el evangelio y hacia Cristo mismo.
 
-###### El <u>centro</u> del ministerio de Pablo no era producir seguidores para sí mismo, sino anunciar aquello que Dios había hecho por medio de Cristo.
+###### El centro del ministerio de Pablo no era producir seguidores para sí mismo, sino anunciar aquello que Dios había hecho por medio de Cristo.
 
 #### ...predicar el evangelio, no con palabras elocuentes, para que no se haga vana la cruz de Cristo.
-##### Pablo no predicaba el evangelio con <u>palabras</u> elocuentes.
 
-##### No buscaba impresionar a los corintios con habilidad <u>humana</u> ni con discursos atractivos.
+##### Pablo no predicaba el evangelio con palabras elocuentes.
 
-##### Pablo presenta esto como algo que <u>pondría</u> en peligro el mensaje mismo de la cruz.
+##### No buscaba impresionar a los corintios con habilidad humana ni con discursos atractivos.
 
-###### En una <u>ciudad</u> donde:
+##### Pablo presenta esto como algo que pondría en peligro el mensaje mismo de la cruz.
+
+###### En una ciudad donde:
+
 - la elocuencia,
 - la sabiduría,
 - la capacidad retórica,
 - y la superioridad visible
-tenían enorme valor,
-un mensaje acompañado de gran habilidad humana <u>podía</u> parecer más impresionante y más digno de admiración.
+  tenían enorme valor,
+  un mensaje acompañado de gran habilidad humana podía parecer más impresionante y más digno de admiración.
 
-###### Precisamente por eso Pablo comienza a introducir una <u>tensión</u> que dominará gran parte de la carta:
-- <u>aquello</u> que produce admiración humana,
-- no necesariamente corresponde a aquello que manifiesta verdaderamente el <u>poder</u> de Dios.
+###### Precisamente por eso Pablo comienza a introducir una tensión que dominará gran parte de la carta:
 
-###### La <u>cruz</u> de Cristo no necesita ser complementada por la sabiduría humana.
+- aquello que produce admiración humana,
+- no necesariamente corresponde a aquello que manifiesta verdaderamente el poder de Dios.
 
-##### Pablo deja claro que agregar la elocuencia humana como fundamento vaciaría el <u>valor</u> de la cruz.
+###### La cruz de Cristo no necesita ser complementada por la sabiduría humana.
 
-###### Pablo no buscaba <u>volver</u> el evangelio:
+##### Pablo deja claro que agregar la elocuencia humana como fundamento vaciaría el valor de la cruz.
+
+###### Pablo no buscaba volver el evangelio:
+
 - más atractivo,
 - más impresionante,
 - o más aceptable
-mediante recursos humanos.
+  mediante recursos humanos.
 
-###### Más adelante <u>Pablo</u> desarrollará ampliamente el contraste entre:
+###### Más adelante Pablo desarrollará ampliamente el contraste entre:
+
 - sabiduría humana,
 - gloria humana,
-- y la aparente debilidad de la <u>cruz</u>.
+- y la aparente debilidad de la cruz.
 
-###### El evangelio permanece como un <u>mensaje</u> que:
+###### El evangelio permanece como un mensaje que:
+
 - proviene de Dios,
 - descansa en la obra de Cristo,
-- y no depende de la capacidad humana para producir su <u>poder</u>.
+- y no depende de la capacidad humana para producir su poder.
+
+> En Síntesis
+>- Pablo confronta las divisiones en Corinto recordándoles que su identidad verdadera no proviene de hombres, grupos o preferencias, sino de su comunión compartida en Cristo.
+>- Las discusiones y separaciones revelaban una manera de pensar y evaluarse según criterios humanos como reputación, sabiduría, elocuencia y asociaciones personales.
+>- Pablo expone que Cristo no está dividido y que solamente Cristo fue crucificado por ellos, desplazando completamente la atención lejos de la exaltación humana.
+>- El ministerio de Pablo no buscaba formar seguidores personales ni producir identidades centradas en hombres, sino anunciar el evangelio de Cristo.
+>- Pablo comienza a introducir el gran contraste de la carta: aquello que impresiona según la sabiduría y capacidad humana no necesariamente corresponde a aquello que manifiesta verdaderamente el poder de Dios en la cruz de Cristo.
 
 ## 1:18-2:5 La cruz destruye la gloria y sabiduría humanas 
 
@@ -954,39 +988,39 @@ Porque la palabra de la cruz es necedad para los que se pierden, pero para nosot
 necedad - MORÍA
 : Bobería, absurdo.
 
-###### Un <u>hombre</u> crucificado:
+###### Un hombre crucificado:
 - débil,
-- humillado,
+- <u>humillado</u>,
 - y ejecutado
 no correspondía a aquello que normalmente parecía:
 - poderoso,
 - admirable,
 - o sabio.
 
-###### Precisamente por eso la <u>palabra</u> de la cruz podía parecer absurda para muchos.
+###### Precisamente por eso la palabra de la <u>cruz</u> podía parecer absurda para muchos.
 
 #### pero para nosotros los salvos es poder de Dios.
-##### Pablo contrasta a ese <u>grupo</u> con "nosotros", incluyéndose a sí mismo y a los corintios.
+##### Pablo contrasta a ese grupo con "nosotros", incluyéndose a sí mismo y a los corintios.
 
 ##### Son descritos <u>como</u> "los salvos".
 
-##### El participio presente en voz <u>pasiva</u> muestra que no se salvan a sí mismos, sino que están siendo salvados.
+##### El participio presente en voz pasiva muestra que no se salvan a sí mismos, sino que están siendo salvados.
 
 ##### Para los salvos, la palabra de la cruz es <u>poder</u> de Dios.
 
-##### Es el mismo <u>mensaje</u>, pero resulta completamente distinto para cada grupo.
+##### Es el mismo mensaje, pero resulta completamente distinto para cada grupo.
 
-###### Pablo comienza a introducir una tensión que dominará toda esta <u>sección</u>:
-- aquello que parece <u>débil</u>,
+###### Pablo comienza a introducir una tensión que dominará toda esta sección:
+- aquello que parece débil,
 - absurdo,
 - o insignificante según el hombre,
-puede ser precisamente aquello donde <u>Dios</u> manifiesta Su poder.
+puede ser precisamente aquello donde Dios manifiesta Su poder.
 
-###### Precisamente por eso Pablo no <u>quería</u>:
+###### Precisamente por eso <u>Pablo</u> no quería:
 - adornar,
 - suavizar,
 - ni volver más impresionante
-el mensaje de la cruz mediante sabiduría <u>humana</u>.
+el mensaje de la cruz mediante sabiduría humana.
 
 ### 1 Corintios 1:19
 Porque está escrito: «Destruiré la sabiduría de los sabios, Y el entendimiento de los inteligentes desecharé».
@@ -994,28 +1028,28 @@ Porque está escrito: «Destruiré la sabiduría de los sabios, Y el entendimien
 #### Porque está escrito:
 ##### La Escritura confirma la reacción de los hombres <u>hacia</u> la palabra de la cruz.
 
-###### Pablo no presenta esta <u>tensión</u> como algo inesperado.
+###### Pablo no presenta esta tensión como algo inesperado.
 
-###### La reacción humana frente a la <u>cruz</u> ya había sido contemplada dentro del plan y la sabiduría de Dios.
+###### La reacción humana frente a la cruz ya había sido contemplada dentro del plan y la sabiduría de Dios.
 
 #### «Destruiré la sabiduría de los sabios, Y el entendimiento de los inteligentes desecharé».
-##### Dios no permitiría que la sabiduría humana prevaleciera <u>delante</u> de Él.
+##### Dios no permitiría que la sabiduría humana prevaleciera delante de Él.
 
-##### La cruz muestra una sabiduría que no proviene del <u>hombre</u>, sino de Dios.
+##### La cruz muestra una sabiduría que no proviene del hombre, sino de Dios.
 
-##### El hombre no tiene nada que <u>aportar</u> a la palabra de la cruz.
+##### El hombre no tiene nada que aportar a la palabra de la cruz.
 
 ##### La salvación por <u>medio</u> de Cristo corresponde al plan de Dios y no a una idea producida por el hombre.
 
-###### Pablo comienza a confrontar directamente <u>aquello</u> que normalmente produce:
+###### Pablo comienza a confrontar directamente aquello que normalmente produce:
 - admiración,
 - reconocimiento,
 - prestigio,
 - y superioridad
 entre los hombres.
 
-###### La <u>cruz</u> desplaza completamente la posibilidad de que el hombre:
-- se gloríe,
+###### La cruz desplaza completamente la posibilidad de que el hombre:
+- se <u>gloríe</u>,
 - se exalte,
 - o considere que alcanza a Dios mediante su <u>propia</u> capacidad.
 
@@ -1023,64 +1057,64 @@ entre los hombres.
 ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo? ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?
 
 #### ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el que sabe discutir en este siglo?
-##### Pablo pregunta si <u>queda</u> alguien cuya sabiduría pueda compararse con la de Dios.
+##### Pablo pregunta si queda alguien cuya sabiduría pueda compararse con la de Dios.
 
-###### Pablo menciona precisamente <u>figuras</u> asociadas con:
+###### Pablo menciona precisamente figuras asociadas con:
 - conocimiento,
 - discusión,
 - sabiduría,
 - y capacidad intelectual.
 
-###### En una <u>cultura</u> donde:
+###### En una cultura donde:
 - la habilidad retórica,
 - la discusión pública,
 - y la reputación intelectual
 tenían enorme valor,
-estas personas <u>podían</u> parecer especialmente importantes o admirables.
+estas personas podían parecer especialmente importantes o admirables.
 
 #### ¿No ha hecho Dios que la sabiduría de este mundo sea necedad?
-##### Pablo deja claro que fue Dios quien <u>redujo</u> a necedad la sabiduría de este mundo.
+##### Pablo deja claro que fue Dios quien redujo a necedad la sabiduría de este mundo.
 
-##### Aunque para los que se pierden la cruz parece <u>absurda</u>, desde la perspectiva de Dios la verdadera necedad es la sabiduría de este mundo.
+##### Aunque para los que se pierden la cruz parece absurda, desde la perspectiva de Dios la verdadera necedad es la sabiduría de este mundo.
 
-##### La sabiduría de Dios no es definida por la <u>opinión</u> de los hombres.
+##### La sabiduría de Dios no es <u>definida</u> por la opinión de los hombres.
 
-###### Pablo comienza a <u>invertir</u> completamente los criterios normales de valoración humana.
+###### Pablo comienza a invertir completamente los criterios normales de valoración humana.
 
-###### <u>Aquello</u> que normalmente:
+###### Aquello que normalmente:
 - parece sabio,
 - fuerte,
 - impresionante,
-- o elevado
-no necesariamente corresponde a aquello que verdaderamente <u>procede</u> de Dios.
+- o <u>elevado</u>
+###### no necesariamente corresponde a aquello que verdaderamente procede de Dios.
 
 ### 1 Corintios 1:21
 Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría, agradó a Dios mediante la necedad de la predicación salvar a los que creen.
 
 #### Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *su propia* sabiduría
-##### El <u>hombre</u> no llega a conocer a Dios mediante su propia sabiduría.
+##### El hombre no llega a conocer a Dios mediante su propia sabiduría.
 
-##### Dios conoce esta condición del hombre y <u>actúa</u> conforme a ella.
+##### Dios conoce esta condición del hombre y actúa conforme a ella.
 
-###### Pablo continúa confrontando la <u>idea</u> de que:
-- el hombre,
-- mediante su <u>propia</u> capacidad,
+###### Pablo continúa confrontando la idea de que:
+- el <u>hombre</u>,
+- mediante su propia capacidad,
 - razonamiento,
 - o sabiduría,
-<u>pueda</u> alcanzar verdaderamente a Dios.
+pueda alcanzar verdaderamente a Dios.
 
-###### La sabiduría humana no <u>logra</u> producir:
-- verdadero conocimiento de <u>Dios</u>,
+###### La sabiduría humana no logra producir:
+- verdadero conocimiento de Dios,
 - ni verdadera comprensión de Su <u>obra</u>.
 
 #### agradó a Dios mediante la necedad de la predicación salvar a los que creen.
-##### Dios decidió <u>salvar</u> mediante aquello que el hombre considera absurdo: la predicación.
+##### Dios decidió salvar mediante aquello que el hombre considera absurdo: la predicación.
 
-##### La salvación está ligada a la respuesta del hombre <u>frente</u> a la predicación del evangelio.
+##### La salvación está <u>ligada</u> a la respuesta del hombre frente a la predicación del evangelio.
 
-##### Pablo vuelve a presentar la predicación como algo considerado necio <u>desde</u> la perspectiva humana.
+##### Pablo vuelve a presentar la predicación como algo considerado necio desde la perspectiva humana.
 
-###### Dios no decidió <u>actuar</u> mediante:
+###### Dios no decidió actuar mediante:
 - sofisticación,
 - prestigio,
 - ni grandeza humana visible.
@@ -1091,112 +1125,112 @@ Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios por medio de *
 - o poco impresionante
 fue el medio que <u>agradó</u> a Dios usar para salvar.
 
-###### Esto continuaba confrontando profundamente la <u>manera</u> humana de:
+###### Esto continuaba confrontando profundamente la manera humana de:
 - medir valor,
 - poder,
-- y sabiduría.
+- y <u>sabiduría</u>.
 
 ### 1 Corintios 1:22
 Porque en verdad los judíos piden señales y los griegos buscan sabiduría
 
 #### Porque en verdad los judíos piden señales
-##### Pablo <u>afirma</u> que los judíos pedían señales.
+##### Pablo afirma que los judíos pedían señales.
 
 ###### Esto puede <u>verse</u> repetidamente en los evangelios.
 
-##### No se conformaban solamente con la predicación, sino que demandaban <u>señales</u>.
+##### No se conformaban solamente con la predicación, sino que demandaban señales.
 
-###### Las señales podían parecer evidencia <u>visible</u> de poder y validación divina.
+###### Las señales podían parecer evidencia visible de <u>poder</u> y validación divina.
 
-###### <u>Existía</u> una expectativa de algo:
+###### Existía una expectativa de algo:
 - extraordinario,
-- visible,
+- <u>visible</u>,
 - y convincente
 según criterios humanos.
 
 #### y los griegos buscan sabiduría
-##### Los <u>griegos</u> buscaban sabiduría y discursos elocuentes.
+##### Los griegos buscaban sabiduría y discursos elocuentes.
 
-###### La sabiduría y la elocuencia podían <u>parecer</u> expresiones:
+###### La sabiduría y la elocuencia podían parecer expresiones:
 - elevadas,
-- refinadas,
+- <u>refinadas</u>,
 - admirables,
 - e intelectualmente superiores.
 
-###### Pablo comienza a <u>mostrar</u> que tanto:
+###### Pablo comienza a mostrar que <u>tanto</u>:
 - la búsqueda de señales,
 - como la búsqueda de sabiduría
-terminaban evaluando las cosas <u>según</u> criterios humanos.
+terminaban evaluando las <u>cosas</u> según criterios humanos.
 
 ### 1 Corintios 1:23
 pero nosotros predicamos a Cristo crucificado, piedra de tropiezo para los judíos, y necedad para los gentiles.
 
 #### pero nosotros predicamos a Cristo crucificado
-##### En contraste, Pablo y los <u>demás</u> predicaban a Cristo crucificado.
+##### En contraste, <u>Pablo</u> y los demás predicaban a Cristo crucificado.
 
-##### Pablo no solamente anunciaba la persona de Cristo, sino la obra que Él <u>realizó</u> en la cruz.
+##### Pablo no solamente anunciaba la persona de Cristo, sino la obra que Él realizó en la <u>cruz</u>.
 
-##### <u>Cristo</u> crucificado es presentado como el centro de la predicación apostólica.
+##### Cristo crucificado es presentado como el centro de la predicación apostólica.
 
-##### Cristo es contrastado tanto con las <u>señales</u> que buscaban los judíos como con la sabiduría que buscaban los griegos.
+##### Cristo es contrastado <u>tanto</u> con las señales que buscaban los judíos como con la sabiduría que buscaban los griegos.
 
 ##### La predicación de <u>Pablo</u> no se ajustaba a las demandas de la audiencia.
 
-##### Pablo anunciaba el mensaje que <u>había</u> recibido y no uno adaptado a las preferencias de los hombres.
+##### Pablo anunciaba el mensaje que había recibido y no uno adaptado a las preferencias de los hombres.
 
-###### La <u>cruz</u> no correspondía:
-- a las expectativas normales de <u>poder</u>,
+###### La cruz no correspondía:
+- a las expectativas normales de poder,
 - ni a la idea <u>humana</u> de grandeza,
-- ni a aquello que normalmente parecía admirable o <u>sabio</u>.
+- ni a aquello que normalmente parecía admirable o sabio.
 
-###### Precisamente por eso <u>producía</u> una confrontación tan profunda.
+###### Precisamente por eso producía una confrontación tan profunda.
 
 #### piedra de tropiezo para los judíos
-##### Pablo no <u>ajustó</u> el mensaje para satisfacer lo que los judíos demandaban.
+##### Pablo no ajustó el mensaje para satisfacer lo que los judíos demandaban.
 
-##### Cristo crucificado llegaba a ser <u>piedra</u> de tropiezo para los judíos que rechazaban a Jesús y su obra.
+##### Cristo crucificado llegaba a ser piedra de tropiezo para los judíos que rechazaban a <u>Jesús</u> y su obra.
 
-###### La idea de un <u>Mesías</u> crucificado resultaba ofensiva para quienes esperaban otra clase de manifestación de:
+###### La idea de un Mesías crucificado resultaba ofensiva para quienes esperaban otra clase de manifestación de:
 - poder,
 - gloria,
-- y victoria.
+- y <u>victoria</u>.
 
 #### y necedad para los gentiles.
-##### Pablo tampoco <u>ajustó</u> el mensaje para satisfacer lo que los gentiles buscaban.
+##### Pablo tampoco ajustó el mensaje para satisfacer lo que los gentiles buscaban.
 
-##### Cristo crucificado parecía <u>absurdo</u> para quienes buscaban sabiduría según criterios humanos.
+##### Cristo crucificado parecía absurdo <u>para</u> quienes buscaban sabiduría según criterios humanos.
 
-###### <u>Desde</u> una perspectiva centrada en:
+###### Desde una perspectiva centrada en:
 - prestigio,
 - capacidad humana,
 - y grandeza visible,
-la cruz podía <u>parecer</u> completamente irracional.
+la cruz podía parecer completamente irracional.
 
 ### 1 Corintios 1:24
 Sin embargo, para los llamados, tanto judíos como griegos, Cristo *es* poder de Dios y sabiduría de Dios.
 
 #### Sin embargo, para los llamados, tanto judíos como griegos
-##### Pablo <u>ahora</u> presenta un grupo para quienes Cristo significa algo completamente distinto.
+##### Pablo ahora presenta un <u>grupo</u> para quienes Cristo significa algo completamente distinto.
 
-##### Los corintios ya <u>habían</u> sido descritos anteriormente como "llamados".
+##### Los corintios ya habían sido descritos anteriormente como "llamados".
 
-##### Este grupo incluye <u>tanto</u> a judíos como a griegos.
+##### Este grupo incluye tanto a judíos como a griegos.
 
 ##### No es un <u>grupo</u> definido por etnicidad, sino por su respuesta al evangelio.
 
-###### El <u>mismo</u> Cristo:
-- rechazado por <u>unos</u>,
-- y considerado <u>absurdo</u> por otros,
-es recibido de <u>manera</u> completamente distinta por los llamados.
+###### El mismo Cristo:
+- rechazado por unos,
+- y considerado absurdo por otros,
+es recibido de manera completamente distinta por los llamados.
 
 #### Cristo *es* poder de Dios y sabiduría de Dios.
-##### Lo que <u>define</u> a este grupo es lo que Cristo significa para ellos.
+##### Lo que define a este grupo es lo que <u>Cristo</u> significa para ellos.
 
-##### Cristo es <u>poder</u> de Dios para los llamados.
+##### Cristo es poder de Dios para los llamados.
 
-##### Cristo es sabiduría de <u>Dios</u> para los llamados.
+##### Cristo es sabiduría de Dios para los llamados.
 
-##### Pablo presenta a <u>Cristo</u> mismo como el contenido y significado de la predicación.
+##### Pablo presenta a Cristo mismo como el contenido y significado de la predicación.
 
 ###### El verdadero:
 - poder,
@@ -1207,94 +1241,94 @@ no son encontrados <u>fuera</u> de Cristo, sino en Él mismo.
 ### 1 Corintios 1:25
 Porque la necedad de Dios es más sabia que los hombres, y la debilidad de Dios es más fuerte que los hombres.
 
-##### Dios no es necio ni <u>débil</u>.
+##### Dios no es necio ni débil.
 
-##### Pablo habla de aquello que el hombre considera débil o absurdo en la <u>obra</u> de Dios.
+##### Pablo habla de aquello que el hombre considera débil o absurdo en la obra de Dios.
 
-##### Lo que los hombres consideran necedad en la cruz <u>resulta</u> ser la verdadera sabiduría de Dios.
+##### Lo que los hombres consideran necedad en la cruz resulta ser la verdadera sabiduría de Dios.
 
-##### Lo que <u>parece</u> debilidad resulta ser el verdadero poder de Dios.
+##### Lo que parece debilidad resulta ser el verdadero poder de Dios.
 
-###### Pablo continúa invirtiendo completamente la <u>manera</u> humana de evaluar:
+###### Pablo continúa invirtiendo completamente la manera humana de <u>evaluar</u>:
 - poder,
 - sabiduría,
 - y grandeza.
 
 ###### Aquello que:
-- parece débil,
+- parece <u>débil</u>,
 - pequeño,
 - absurdo,
 - o poco impresionante,
-puede ser precisamente aquello <u>donde</u> Dios manifiesta verdaderamente Su obra.
+puede ser precisamente aquello donde Dios manifiesta verdaderamente Su obra.
 
 ### 1 Corintios 1:26
 Pues consideren, hermanos, su llamamiento. No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.
 
 #### Pues consideren, hermanos, su llamamiento
-##### Pablo ahora <u>dirige</u> la atención de los corintios hacia ellos mismos.
+##### Pablo ahora dirige la atención de los corintios hacia ellos mismos.
 
-##### Pablo los <u>sigue</u> llamando hermanos.
+##### Pablo los sigue llamando hermanos.
 
-##### Pablo les pide considerar cómo eran <u>vistos</u> según los criterios humanos aparte de Cristo.
+##### Pablo les pide considerar cómo eran vistos según los criterios humanos aparte de <u>Cristo</u>.
 
-##### Los corintios sabían perfectamente cuál <u>había</u> sido su condición.
+##### Los corintios sabían perfectamente cuál había sido su condición.
 
-###### Pablo no <u>dirige</u> la atención hacia:
-- <u>hombres</u> admirados,
+###### Pablo no dirige la atención hacia:
+- hombres admirados,
 - <u>figuras</u> importantes,
-- ni personas reconocidas por grandeza <u>visible</u>.
+- ni personas reconocidas por grandeza visible.
 
-###### <u>Ahora</u> les pide observarse a sí mismos desde los criterios normales de valoración humana.
+###### Ahora les pide observarse a sí mismos desde los criterios normales de valoración <u>humana</u>.
 
 #### No hubo muchos sabios conforme a la carne, ni muchos poderosos, ni muchos nobles.
-##### Si los corintios se observaban a sí mismos, no podían definirse como un <u>grupo</u> especialmente sabio, poderoso o noble según los criterios humanos.
+##### Si los corintios se observaban a sí mismos, no podían definirse como un grupo especialmente sabio, poderoso o noble según los criterios humanos.
 
-##### Pablo les recuerda que eran personas <u>comunes</u>.
+##### Pablo les recuerda que eran personas comunes.
 
-##### Esto <u>dejaba</u> muy pocas razones para jactarse en sí mismos.
+##### Esto dejaba muy pocas <u>razones</u> para jactarse en sí mismos.
 
-###### Esto resulta especialmente importante <u>dentro</u> de una cultura donde:
+###### Esto resulta especialmente importante dentro de una cultura donde:
 - la reputación,
-- el poder,
+- el <u>poder</u>,
 - la sabiduría,
 - y el prestigio social
-tenían <u>enorme</u> valor.
+tenían enorme valor.
 
-###### La <u>iglesia</u> en Corinto no estaba compuesta principalmente por personas consideradas extraordinarias según los criterios normales del mundo.
+###### La iglesia en Corinto no <u>estaba</u> compuesta principalmente por personas consideradas extraordinarias según los criterios normales del mundo.
 
 ### 1 Corintios 1:27
 Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios; y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
 
 #### Sino que Dios ha escogido lo necio del mundo para avergonzar a los sabios;
-##### Pablo ahora <u>expone</u> cómo actúa la sabiduría de Dios.
+##### Pablo ahora expone cómo actúa la sabiduría de Dios.
 
-##### Dios <u>escogió</u> aquello que el mundo considera necio para avergonzar a los sabios.
+##### Dios escogió aquello que el mundo considera necio para avergonzar a los sabios.
 
-##### Dios no estaba dependiendo de la sabiduría <u>humana</u>.
+##### Dios no <u>estaba</u> dependiendo de la sabiduría humana.
 
 ###### Dios no construyó Su obra alrededor de aquello que normalmente <u>produce</u>:
 - admiración,
-- prestigio,
+- <u>prestigio</u>,
 - o reconocimiento humano.
 
-###### Precisamente <u>aquello</u> que parecía:
-- pequeño,
+###### Precisamente aquello que parecía:
+- <u>pequeño</u>,
 - poco impresionante,
 - o insignificante
-fue escogido por Dios.
+###### fue <u>escogido</u> por Dios.
 
 #### y Dios ha escogido lo débil del mundo para avergonzar a lo que es fuerte.
-##### Dios escogió usar aquello que el mundo considera <u>débil</u> para avergonzar lo que parece fuerte.
+##### Dios escogió usar aquello que el mundo considera débil para avergonzar lo que parece fuerte.
 
-###### Pablo continúa desarrollando el <u>mismo</u> contraste:
-- debilidad aparente,
+###### Pablo continúa desarrollando el mismo contraste:
+- <u>debilidad</u> aparente,
 frente a:
 - fuerza aparente.
 
 ###### La obra de Dios no depende de <u>aquello</u> que normalmente parece:
 - fuerte,
 - importante,
-- o digno de gloria.
+- o digno de <u>gloria</u>.
 
 ### 1 Corintios 1:28
 También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es
@@ -1302,81 +1336,81 @@ También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anu
 #### También Dios ha escogido lo vil y despreciado del mundo: lo que no es, para anular lo que es
 
 vil - AGENES
-: Carente de <u>fama</u> o reputación.
+: Carente de fama o reputación.
 
-##### Estas expresiones describen a personas consideradas sin <u>valor</u> desde la perspectiva humana.
+##### Estas expresiones describen a personas consideradas sin valor desde la perspectiva humana.
 
-##### Pablo sabe cómo eran considerados los corintios por este <u>mundo</u>.
+##### Pablo sabe cómo eran considerados los corintios por este mundo.
 
-##### Dios escogió precisamente a aquellos que parecían no <u>tener</u> valor para anular aquello que parecía importante.
+##### Dios escogió precisamente a aquellos que parecían no tener valor para anular aquello que parecía importante.
 
-###### Aquello que:
+###### <u>Aquello</u> que:
 - parecía insignificante,
 - despreciable,
 - o sin importancia,
-fue precisamente lo que Dios *escogió* usar.
+fue precisamente lo que Dios <u>escogió</u> usar.
 
 ### 1 Corintios 1:29
 para que nadie se jacte delante de Dios.
 
-##### Dios hizo todo esto para que <u>nadie</u> tenga razón para jactarse delante de Él.
+##### Dios hizo todo esto para que nadie tenga razón para jactarse delante de Él.
 
-##### Los corintios <u>podían</u> estar jactándose entre ellos, pero delante de Dios no tenían nada de qué gloriarse.
+##### Los corintios podían estar jactándose entre ellos, pero delante de Dios no tenían nada de qué gloriarse.
 
-##### Pablo <u>enfatiza</u> que lo que ellos eran dependía completamente de la obra de Dios.
+##### Pablo enfatiza que lo que <u>ellos</u> eran dependía completamente de la obra de Dios.
 
-###### <u>Toda</u> posibilidad de:
+###### Toda posibilidad de:
 - autosuficiencia,
 - superioridad,
 - o gloria humana
-<u>queda</u> completamente desplazada delante de Dios.
+queda completamente desplazada delante de Dios.
 
 ### 1 Corintios 1:30
 Pero por obra Suya están ustedes en Cristo Jesús, el cual se hizo para nosotros sabiduría de Dios, y justificación, santificación y redención
 
 #### Pero por obra Suya
-##### Lo que los corintios eran delante de Dios <u>había</u> cambiado por obra Suya.
+##### Lo que los corintios <u>eran</u> delante de Dios había cambiado por obra Suya.
 
-##### Cristo es presentado como <u>poder</u> y sabiduría de Dios porque la salvación es obra Suya y no del hombre.
+##### Cristo es presentado como poder y sabiduría de Dios porque la salvación es obra Suya y no del hombre.
 
-###### Pablo vuelve a <u>dirigir</u> toda la atención:
-- hacia la <u>obra</u> de Dios,
-- y hacia <u>aquello</u> que Dios produjo en Cristo.
+###### Pablo vuelve a dirigir toda la atención:
+- hacia la obra de Dios,
+- y hacia aquello que Dios <u>produjo</u> en Cristo.
 
 #### están ustedes en Cristo Jesús
-##### Fue Dios <u>quien</u> colocó a los corintios en Cristo Jesús.
+##### Fue Dios quien colocó a los corintios en Cristo Jesús.
 
-##### Ningún creyente está en <u>Cristo</u> por mérito propio.
+##### Ningún creyente está en Cristo por mérito propio.
 
-##### Estar en Cristo no era una <u>razón</u> de jactancia para los corintios.
+##### Estar en Cristo no era una razón de jactancia para los corintios.
 
-###### La <u>posición</u> que los corintios tenían:
-- no provenía de <u>mérito</u> humano,
+###### La posición que los corintios <u>tenían</u>:
+- no provenía de mérito humano,
 - ni de capacidad humana,
-sino de la <u>obra</u> de Dios.
+sino de la obra de Dios.
 
 #### el cual se hizo para nosotros
-##### Cristo <u>llegó</u> a ser para los creyentes aquello que ellos necesitaban delante de Dios.
+##### Cristo llegó a ser para los creyentes aquello que ellos necesitaban delante de Dios.
 
-##### Pablo se incluye junto con los corintios en este <u>grupo</u>: "nosotros".
+##### <u>Pablo</u> se incluye junto con los corintios en este grupo: "nosotros".
 
-###### <u>Pablo</u> continúa mostrando que:
+###### Pablo continúa mostrando que:
 - Cristo mismo,
 y no:
 - el hombre,
-es el centro de todo aquello que los creyentes <u>poseen</u> delante de Dios.
+es el centro de todo aquello que los creyentes poseen delante de Dios.
 
 #### sabiduría de Dios, y justificación, santificación y redención
-##### Cristo es presentado como la verdadera sabiduría de <u>Dios</u>.
+##### Cristo es presentado como la verdadera sabiduría de Dios.
 
-##### <u>Cristo</u> significa para los creyentes justificación. Romanos 5:1
+##### Cristo significa para los creyentes justificación. Romanos 5:1
 
-##### <u>Cristo</u> significa para los creyentes santificación.
+##### Cristo significa para los <u>creyentes</u> santificación.
 
-##### <u>Cristo</u> significa para los creyentes redención. Colosenses 1:14; Efesios 1:7
+##### Cristo significa para los creyentes redención. Colosenses 1:14; Efesios 1:7
 
 ###### Todo aquello que verdaderamente necesitaban delante de Dios:
-- se encuentra en Cristo,
+- se <u>encuentra</u> en Cristo,
 y no:
 - en sabiduría humana,
 - capacidad humana,
@@ -1386,21 +1420,21 @@ y no:
 para que, tal como está escrito: «El que se gloría, que se gloríe en el Señor».
 
 #### para que, tal como está escrito
-##### Dios <u>actuó</u> en conformidad con las Escrituras.
+##### Dios actuó en conformidad con las Escrituras.
 
-##### El propósito de Dios siempre fue <u>dirigir</u> toda gloria hacia Él mismo.
+##### El propósito de Dios siempre fue dirigir toda gloria hacia Él mismo.
 
-###### Pablo concluye esta sección mostrando hacia dónde debe dirigirse verdaderamente toda <u>gloria</u>.
+###### Pablo concluye esta sección <u>mostrando</u> hacia dónde debe dirigirse verdaderamente toda gloria.
 
 #### «El que se gloría, que se gloríe en el Señor»
-##### Dios hizo que todo lo que los creyentes eran dependiera completamente de Su <u>obra</u> en Cristo.
+##### Dios hizo que todo lo que los creyentes eran dependiera completamente de Su obra en Cristo.
 
-##### La <u>única</u> razón válida para gloriarse es el Señor.
+##### La única razón válida para gloriarse es el Señor.
 
-##### Lo que los corintios eran <u>existía</u> solamente por causa de lo que Cristo significaba para ellos.
+##### Lo que los corintios eran existía solamente por causa de lo que Cristo significaba para ellos.
 
-###### La <u>cruz</u> desplaza completamente:
-- la gloria humana,
+###### La cruz desplaza completamente:
+- la <u>gloria</u> humana,
 - la autosuficiencia,
 - y la jactancia centrada en el hombre.
 
@@ -1408,17 +1442,17 @@ para que, tal como está escrito: «El que se gloría, que se gloríe en el Señ
 - gloria,
 - valor,
 - y seguridad
-son dirigidos finalmente <u>hacia</u> el Señor. 
+son dirigidos finalmente hacia el Señor. 
 
 ### 1 Corintios 2:1
 Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios, no fui con superioridad de palabra o de sabiduría.
 
 #### Por eso, cuando fui a ustedes, hermanos, proclamándoles el testimonio de Dios
-##### Pablo recuerda <u>cuando</u> estuvo entre los corintios por primera vez. Hechos 18:1-11
+##### Pablo recuerda cuando <u>estuvo</u> entre los corintios por primera vez. Hechos 18:1-11
 
-##### El propósito de <u>Pablo</u> al ir a ellos era proclamarles el testimonio de Dios.
+##### El propósito de Pablo al ir a ellos era proclamarles el testimonio de Dios.
 
-###### Pablo continúa describiendo su ministerio <u>entre</u> ellos desde:
+###### Pablo continúa describiendo su ministerio entre ellos desde:
 - el evangelio,
 - la proclamación,
 - y el testimonio de Dios,
@@ -1428,25 +1462,25 @@ y no desde:
 - o superioridad visible.
 
 #### no fui con superioridad de palabra o de sabiduría
-##### Pablo no <u>llegó</u> con excelencia de discurso ni con sabiduría humana.
+##### Pablo no llegó con excelencia de discurso ni con sabiduría humana.
 
 ##### Proclamar el testimonio de Dios no requería de un <u>discurso</u> impresionante.
 
-##### Pablo deja claro que el <u>valor</u> de su proclamación no dependía de sobresalir humanamente.
+##### Pablo deja claro que el valor de su proclamación no dependía de sobresalir humanamente.
 
-##### El <u>foco</u> de Pablo no estaba en impresionar con la manera de comunicar el mensaje.
+##### El foco de Pablo no estaba en impresionar con la manera de comunicar el mensaje.
 
-##### Pablo no dependía de <u>hacer</u> el evangelio atractivo mediante la elocuencia humana.
+##### Pablo no dependía de hacer el evangelio atractivo mediante la elocuencia humana.
 
-###### En una <u>ciudad</u> donde:
+###### En una ciudad donde:
 - la habilidad retórica,
 - la elocuencia,
 - la sabiduría,
 - y la capacidad de impresionar
 tenían enorme valor,
-la manera en que Pablo <u>llegó</u> podía parecer poco impresionante según criterios humanos.
+la manera en que Pablo llegó podía parecer poco impresionante según criterios <u>humanos</u>.
 
-###### Precisamente por eso esta <u>sección</u> continúa desarrollando el contraste entre:
+###### Precisamente por eso esta sección continúa desarrollando el contraste entre:
 - la gloria humana,
 - y la cruz de Cristo.
 
@@ -1454,48 +1488,48 @@ la manera en que Pablo <u>llegó</u> podía parecer poco impresionante según cr
 Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
 
 #### Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
-##### Pablo ya había tomado esta decisión antes de <u>llegar</u> a Corinto.
+##### Pablo ya había tomado esta decisión antes de llegar a Corinto.
 
 ##### Su determinación era <u>conocer</u> solamente a Jesucristo y Este crucificado.
 
-##### Para <u>Pablo</u> el mensaje no necesitaba ser adornado con elementos humanos, sino comunicado fielmente.
+##### Para Pablo el mensaje no necesitaba ser adornado con elementos humanos, sino comunicado fielmente.
 
-##### Pablo no buscaba destacarse <u>entre</u> los corintios como alguien impresionante según criterios humanos.
+##### Pablo no buscaba destacarse entre los corintios como alguien impresionante según criterios humanos.
 
-##### Pablo no sobresalió entre ellos como un <u>hombre</u> elocuente o lleno de conocimientos humanos.
+##### Pablo no <u>sobresalió</u> entre ellos como un hombre elocuente o lleno de conocimientos humanos.
 
-##### Entre los corintios, Pablo <u>quiso</u> ser conocido solamente por Jesucristo y Este crucificado.
+##### Entre los corintios, Pablo quiso ser conocido solamente por Jesucristo y Este crucificado.
 
-###### <u>Pablo</u> no organizó su ministerio alrededor de:
+###### Pablo no organizó su ministerio alrededor de:
 - superioridad intelectual,
 - prestigio,
 - elocuencia,
 - ni admiración humana.
 
-###### La cruz permanecía en el <u>centro</u> incluso aunque:
+###### La cruz permanecía en el centro incluso aunque:
 - pareciera débil,
 - absurda,
 - o poco impresionante
-según los criterios normales de grandeza <u>humana</u>.
+según los criterios normales de <u>grandeza</u> humana.
 
 ### 1 Corintios 2:3
 Estuve entre ustedes con debilidad y con temor y mucho temblor
 
 #### Estuve entre ustedes con debilidad y con temor y mucho temblor
-##### Pablo recuerda su <u>estadía</u> entre los corintios como una marcada por debilidad, temor y mucho temblor.
+##### Pablo recuerda su estadía entre los corintios como una marcada por debilidad, temor y mucho temblor.
 
-##### Estas cualidades contrastan completamente con la <u>imagen</u> de alguien que busca impresionar mediante sabiduría o superioridad humana.
+##### Estas cualidades contrastan completamente con la imagen de alguien que busca impresionar mediante sabiduría o superioridad humana.
 
-##### Pablo no se presenta como <u>alguien</u> autosuficiente ni dominante.
+##### Pablo no se presenta como alguien autosuficiente ni dominante.
 
-###### La presencia de Pablo <u>entre</u> ellos no correspondía a la imagen normal de:
+###### La presencia de Pablo entre ellos no correspondía a la imagen normal de:
 - fuerza,
 - seguridad,
 - dominio,
-- o grandeza visible
-que muchas <u>veces</u> produce admiración entre los hombres.
+- o <u>grandeza</u> visible
+que muchas veces produce admiración entre los hombres.
 
-###### Sin embargo, precisamente en <u>medio</u> de esa debilidad:
+###### Sin embargo, precisamente en medio de esa debilidad:
 - el evangelio fue anunciado,
 - Cristo fue proclamado,
 - y Dios obró entre ellos.
@@ -1504,40 +1538,40 @@ que muchas <u>veces</u> produce admiración entre los hombres.
 y mi mensaje y mi predicación no fueron con palabras persuasivas de sabiduría, sino con demostración del Espíritu y de poder
 
 #### y mi mensaje y mi predicación
-##### Pablo no <u>mezcló</u> el evangelio con elementos humanos para hacerlo más impresionante ante los corintios.
+##### Pablo no mezcló el evangelio con elementos humanos para hacerlo más impresionante ante los corintios.
 
-##### La proclamación de <u>Pablo</u> no descansaba en capacidades humanas ni en recursos destinados a impresionar.
+##### La proclamación de Pablo no descansaba en capacidades humanas ni en recursos destinados a impresionar.
 
-###### <u>Pablo</u> continúa mostrando que el evangelio:
+###### Pablo continúa <u>mostrando</u> que el evangelio:
 - no necesitaba ser embellecido,
 - fortalecido,
 - ni validado
 mediante recursos humanos.
 
 #### no fueron con palabras persuasivas de sabiduría
-##### El <u>mensaje</u> de Pablo no descansaba sobre palabras persuasivas.
+##### El mensaje de Pablo no descansaba sobre palabras persuasivas.
 
-##### Pablo no <u>intentó</u> volver el evangelio más atractivo mediante discursos elaborados o impresionantes.
+##### Pablo no intentó volver el <u>evangelio</u> más atractivo mediante discursos elaborados o impresionantes.
 
-##### Ni el contenido ni la <u>forma</u> de su predicación fueron mezclados con sabiduría humana.
+##### Ni el contenido ni la forma de su predicación fueron mezclados con sabiduría humana.
 
-##### Pablo no dependía de recursos <u>humanos</u> de persuasión para producir fe en los corintios.
+##### Pablo no dependía de recursos humanos de persuasión para producir fe en los corintios.
 
-###### La sabiduría persuasiva <u>podía</u> parecer:
-- refinada,
+###### La sabiduría persuasiva podía parecer:
+- <u>refinada</u>,
 - poderosa,
 - admirable,
 - y espiritualmente impresionante
 según criterios humanos.
 
-###### Sin embargo, Pablo <u>rehúsa</u> construir el evangelio alrededor de aquello que produce admiración hacia el hombre mismo.
+###### Sin embargo, Pablo rehúsa construir el <u>evangelio</u> alrededor de aquello que produce admiración hacia el hombre mismo.
 
 #### sino con demostración del Espíritu y de poder
-##### Pablo <u>quería</u> que fuera Dios quien obrara mediante el mensaje del evangelio.
+##### Pablo quería que fuera Dios quien obrara mediante el mensaje del evangelio.
 
 ##### La demostración <u>dejaba</u> en evidencia que el poder provenía de Dios y no del mensajero.
 
-###### El <u>objetivo</u> no era producir:
+###### El objetivo no era producir:
 - admiración por Pablo,
 - dependencia del mensajero,
 - ni exaltación humana.
@@ -1550,25 +1584,27 @@ según criterios humanos.
 para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
 
 #### para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en el poder de Dios.
-##### Pablo quiso que los corintios descansaran solamente en el <u>poder</u> de Dios y no en impresiones humanas.
+##### Pablo quiso que los <u>corintios</u> descansaran solamente en el poder de Dios y no en impresiones humanas.
 
-##### Si Pablo <u>hubiera</u> mezclado el evangelio con sabiduría humana, corría el riesgo de producir una fe apoyada en hombres y no en Dios.
+##### Si Pablo hubiera mezclado el evangelio con sabiduría humana, corría el riesgo de producir una fe apoyada en hombres y no en Dios.
 
-##### Como Pablo mostró anteriormente, <u>agradó</u> a Dios salvar mediante la predicación del evangelio.
+##### Como Pablo mostró anteriormente, agradó a Dios salvar mediante la predicación del evangelio.
 
-##### Debido a esto Pablo <u>debía</u> comunicar el evangelio con fidelidad y cuidado.
+##### Debido a esto Pablo debía comunicar el evangelio con fidelidad y cuidado.
 
-##### Una fe basada en sabiduría humana ya no está descansando en el <u>poder</u> de Dios.
+##### Una fe basada en sabiduría humana ya no está descansando en el poder de <u>Dios</u>.
 
-###### Pablo continúa confrontando una tendencia profundamente <u>humana</u>:
-- confiar en aquello que <u>parece</u> impresionante,
-- confiar en <u>aquello</u> que produce admiración,
-- o <u>confiar</u> en aquello que parece fuerte según criterios humanos.
+###### Pablo continúa confrontando una tendencia profundamente humana:
+- confiar en aquello que parece impresionante,
+- confiar en aquello que produce admiración,
+- o confiar en aquello que parece fuerte según criterios humanos.
 
-###### Sin embargo, la fe que <u>procede</u> verdaderamente de Dios:
-- descansa en Su <u>poder</u>,
+###### Sin embargo, la fe que procede verdaderamente de Dios:
+- descansa en Su poder,
 - en <u>Cristo</u> crucificado,
-- y no en la grandeza <u>visible</u> del hombre.
+- y no en la grandeza visible del hombre.
+
+<!-- @quiz 1corintios-1-2 -->
 
 ## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
@@ -1576,170 +1612,170 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo
 
 #### Sin embargo, hablamos sabiduría
-##### ¿Significa esto que Pablo y los <u>demás</u> hablaban algo necio? De ninguna manera.
+##### ¿Significa esto que Pablo y los demás hablaban algo necio? De ninguna manera.
 
-##### Pablo <u>aclara</u> que sí hablaban sabiduría.
+##### Pablo aclara que sí hablaban sabiduría.
 
-##### El <u>hecho</u> de predicar solamente a Cristo crucificado no significaba ausencia de verdadera sabiduría.
+##### El hecho de predicar <u>solamente</u> a Cristo crucificado no significaba ausencia de verdadera sabiduría.
 
-###### <u>Pablo</u> no está rechazando la existencia de verdadera sabiduría.
+###### Pablo no está rechazando la existencia de verdadera sabiduría.
 
-###### La <u>tensión</u> no es entre:
-- sabiduría y ausencia de sabiduría,
+###### La tensión no es entre:
+- <u>sabiduría</u> y ausencia de sabiduría,
 sino entre:
 - sabiduría humana,
 - y sabiduría que proviene de Dios.
 
 ###### Precisamente por eso:
 - la cruz,
-- aparentemente débil y <u>absurda</u>,
+- aparentemente <u>débil</u> y absurda,
 resulta ser el lugar donde la verdadera sabiduría de Dios se manifiesta.
 
 #### entre los que han alcanzado madurez
-##### Esta sabiduría es reconocida entre los que han alcanzado <u>madurez</u>.
+##### Esta sabiduría es reconocida <u>entre</u> los que han alcanzado madurez.
 
-##### Pablo no cambiaba el <u>mensaje</u> dependiendo de la audiencia.
+##### Pablo no cambiaba el mensaje dependiendo de la audiencia.
 
-##### Sin embargo, no todos percibían ese mensaje de la misma <u>manera</u>.
+##### Sin embargo, no todos percibían ese mensaje de la misma manera.
 
-##### Pablo introduce aquí un nuevo <u>grupo</u>: los que han alcanzado madurez.
+##### Pablo introduce aquí un nuevo grupo: los que han alcanzado madurez.
 
-###### En Corinto <u>parecía</u> existir un gran interés por:
+###### En Corinto parecía existir un gran interés por:
 - conocimiento,
-- sabiduría,
+- <u>sabiduría</u>,
 - madurez,
 - y comprensión espiritual.
 
-###### Pablo no <u>niega</u> inmediatamente la importancia de estas cosas.
+###### Pablo no niega inmediatamente la <u>importancia</u> de estas cosas.
 
-###### Sin <u>embargo</u>, comienza a redefinir:
-- qué es verdadera <u>madurez</u>,
-- y qué clase de sabiduría <u>procede</u> realmente de Dios.
+###### Sin embargo, comienza a redefinir:
+- qué es verdadera madurez,
+- y qué <u>clase</u> de sabiduría procede realmente de Dios.
 
 #### pero una sabiduría no de este siglo, ni de los gobernantes de este siglo, que van desapareciendo
-##### Esta sabiduría no proviene de este <u>siglo</u> ni de sus gobernantes.
+##### Esta sabiduría no proviene de este siglo ni de sus gobernantes.
 
-##### Pablo <u>afirma</u> que los gobernantes de este siglo van desapareciendo.
+##### Pablo afirma que los gobernantes de este siglo van desapareciendo.
 
-##### La sabiduría que Pablo comunicaba no tenía <u>rival</u> dentro de la sabiduría humana de este siglo.
+##### La sabiduría que Pablo comunicaba no tenía rival dentro de la sabiduría humana de este siglo.
 
-###### La sabiduría <u>humana</u>:
-- puede parecer elevada,
+###### La sabiduría humana:
+- puede parecer <u>elevada</u>,
 - influyente,
-- poderosa,
+- <u>poderosa</u>,
 - o impresionante,
-pero permanece limitada a este <u>siglo</u> y a aquello que finalmente desaparece.
+pero permanece limitada a este siglo y a <u>aquello</u> que finalmente desaparece.
 
-###### <u>Pablo</u> continúa separando:
+###### Pablo continúa separando:
 - la gloria temporal del hombre,
 de:
-- aquello que verdaderamente procede de Dios.
+- <u>aquello</u> que verdaderamente procede de Dios.
 
 ### 1 Corintios 2:7
 sino que hablamos sabiduría de Dios en misterio, la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria.
 
 #### sino que hablamos sabiduría de Dios en misterio
-##### Pablo y los <u>demás</u> comunicaban la sabiduría de Dios.
+##### Pablo y los demás comunicaban la sabiduría de Dios.
 
-##### Esta sabiduría no dependía de capacidades <u>humanas</u> para ser comprendida.
+##### Esta sabiduría no dependía de capacidades humanas para ser comprendida.
 
-##### Ellos simplemente comunicaban lo que <u>habían</u> recibido de Dios.
+##### Ellos simplemente comunicaban lo que habían recibido de Dios.
 
-###### La sabiduría que <u>Pablo</u> anuncia:
-- no <u>nace</u> del hombre,
-- no es producida por razonamiento <u>humano</u>,
-- ni <u>depende</u> de habilidad intelectual humana.
+###### La sabiduría que Pablo anuncia:
+- no nace del <u>hombre</u>,
+- no es producida por razonamiento humano,
+- ni depende de habilidad intelectual humana.
 
-###### Procede de <u>Dios</u> mismo.
+###### Procede de Dios mismo.
 
 #### la *sabiduría* oculta que, desde antes de los siglos, Dios predestinó para nuestra gloria
-##### Pablo <u>afirma</u> que Dios había destinado esta sabiduría desde antes de los siglos.
+##### Pablo afirma que Dios había <u>destinado</u> esta sabiduría desde antes de los siglos.
 
-##### Pablo se incluye <u>junto</u> con los corintios al decir "nuestra gloria".
+##### Pablo se incluye junto con los corintios al decir "nuestra gloria".
 
-##### Dios había determinado que Su pueblo participara de esta <u>gloria</u> mediante Su sabiduría.
+##### Dios había determinado que Su pueblo participara de esta gloria mediante Su sabiduría.
 
-##### La revelación de esta sabiduría depende de <u>Dios</u> mismo.
+##### La revelación de esta sabiduría <u>depende</u> de Dios mismo.
 
-###### La gloria de la <u>iglesia</u> no es presentada como:
+###### La gloria de la iglesia no es presentada como:
 - exaltación humana,
 - prestigio visible,
-- ni superioridad producida por el <u>hombre</u>.
+- ni superioridad producida por el hombre.
 
-###### <u>Está</u> relacionada con:
+###### Está relacionada con:
 - la obra de Dios,
-- la sabiduría de Dios,
-- y aquello que Dios determinó desde antes de los <u>siglos</u>.
+- la sabiduría de <u>Dios</u>,
+- y aquello que Dios determinó desde antes de los siglos.
 
-###### La gloria de la <u>iglesia</u> está ligada al conocimiento de la sabiduría de Dios revelada en Cristo.
+###### La gloria de la iglesia está ligada al conocimiento de la sabiduría de Dios <u>revelada</u> en Cristo.
 
 ### 1 Corintios 2:8
 *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido, porque si la hubieran entendido no habrían crucificado al Señor de gloria
 
 #### *Esta sabiduría* que ninguno de los gobernantes de este siglo ha entendido
-##### Los gobernantes de este <u>siglo</u> no comprendieron la sabiduría revelada en el evangelio.
+##### Los gobernantes de este siglo no comprendieron la sabiduría revelada en el evangelio.
 
-###### <u>Aquellos</u> que parecían:
+###### Aquellos que parecían:
 - sabios,
 - poderosos,
 - e influyentes
-no lograron comprender aquello que verdaderamente <u>provenía</u> de Dios.
+no lograron comprender <u>aquello</u> que verdaderamente provenía de Dios.
 
 #### porque si la hubieran entendido no habrían crucificado al Señor de gloria
-##### Su falta de comprensión quedó evidenciada en la crucifixión de <u>Cristo</u>.
+##### Su falta de comprensión quedó evidenciada en la crucifixión de Cristo.
 
-##### Los gobernantes de este <u>siglo</u> no entendieron quién era realmente Cristo ni lo que significaba Su obra. Hechos 3:14-18
+##### Los gobernantes de este siglo no entendieron quién era realmente Cristo ni lo que significaba Su obra. Hechos 3:14-18
 
-##### Lo que hicieron con Cristo <u>dejó</u> al descubierto que no comprendieron la sabiduría de Dios.
+##### Lo que hicieron con <u>Cristo</u> dejó al descubierto que no comprendieron la sabiduría de Dios.
 
-###### Precisamente aquello que <u>parecía</u>:
+###### Precisamente aquello que parecía:
 - debilidad,
 - derrota,
 - y humillación,
 era en realidad:
-- la manifestación de la sabiduría de <u>Dios</u>,
-- y la obra central de Dios en <u>Cristo</u>.
+- la manifestación de la sabiduría de Dios,
+- y la obra central de <u>Dios</u> en Cristo.
 
-###### La <u>cruz</u> continúa invirtiendo completamente los criterios normales de valoración humana.
+###### La cruz continúa invirtiendo completamente los criterios normales de valoración humana.
 
 ### 1 Corintios 2:9
 sino como está escrito: «Cosas que ojo no vio, ni oído oyó, Ni han entrado al corazón del hombre, Son las cosas que Dios ha preparado para los que lo aman».
 
 #### sino como está escrito
-##### El hecho de que hablen un misterio no significa que esto estuviera <u>fuera</u> del plan de Dios revelado en las Escrituras.
+##### El hecho de que <u>hablen</u> un misterio no significa que esto estuviera fuera del plan de Dios revelado en las Escrituras.
 
-##### Pablo <u>apoya</u> esta afirmación con las Escrituras.
+##### Pablo apoya esta afirmación con las Escrituras.
 
-###### La sabiduría de <u>Dios</u>:
-- no <u>aparece</u> como improvisación,
+###### La sabiduría de Dios:
+- no aparece como improvisación,
 - ni como reacción tardía,
-sino como algo ya contemplado <u>dentro</u> del propósito de Dios.
+sino como algo ya contemplado dentro del propósito de Dios.
 
 #### «Cosas que ojo no vio, ni oído oyó, Ni han entrado al corazón del hombre, *Son* las cosas que Dios ha preparado para los que lo aman».
-##### Pablo <u>cita</u> Isaías 64:4.
+##### Pablo cita Isaías 64:4.
 
-##### Estas cosas no son descubiertas por capacidades <u>humanas</u>.
+##### Estas cosas no son <u>descubiertas</u> por capacidades humanas.
 
-##### El ojo no las vio, el oído no las oyó y tampoco surgieron del <u>corazón</u> del hombre.
+##### El ojo no las vio, el oído no las oyó y tampoco surgieron del corazón del hombre.
 
-##### Estas cosas <u>fueron</u> preparadas por Dios mismo.
+##### Estas cosas fueron preparadas por Dios mismo.
 
-##### <u>Dios</u> actúa independientemente de la capacidad humana.
+##### Dios actúa independientemente de la capacidad humana.
 
-##### <u>Pablo</u> describe a los creyentes como "los que lo aman".
+##### Pablo describe a los creyentes como "los que lo aman".
 
-##### El hombre es <u>incapaz</u> de alcanzar esta sabiduría por sí mismo.
+##### El hombre es incapaz de alcanzar esta <u>sabiduría</u> por sí mismo.
 
-###### <u>Pablo</u> continúa mostrando que:
+###### Pablo continúa mostrando que:
 - la verdadera sabiduría,
 - el verdadero conocimiento,
 - y la verdadera comprensión
 no son producidos por:
 - capacidad humana,
 - inteligencia humana,
-- ni percepción humana.
+- ni percepción <u>humana</u>.
 
-###### Proceden de aquello que <u>Dios</u> mismo:
+###### Proceden de aquello que Dios mismo:
 - preparó,
 - reveló,
 - y dio a conocer.
@@ -1748,182 +1784,182 @@ no son producidos por:
 Pero Dios nos *las* reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
 
 #### Pero Dios nos *las* reveló por medio del Espíritu
-##### Debido a la incapacidad humana, Dios mismo <u>reveló</u> estas cosas por medio del Espíritu.
+##### Debido a la incapacidad <u>humana</u>, Dios mismo reveló estas cosas por medio del Espíritu.
 
-##### El pronombre "nos" <u>limita</u> esta revelación a los creyentes.
+##### El pronombre "nos" limita esta revelación a los creyentes.
 
-##### <u>Dios</u> no dejó Su sabiduría a la apreciación humana, sino que dio Su Espíritu para revelarla.
+##### Dios no dejó Su sabiduría a la apreciación humana, sino que dio Su Espíritu para revelarla.
 
-###### Pablo continúa desplazando completamente el <u>origen</u> del verdadero conocimiento:
-- lejos del hombre,
-- lejos de la capacidad humana,
-- y lejos de la sabiduría humana.
+###### Pablo continúa desplazando <u>completamente</u> el origen del verdadero conocimiento:
+- lejos del <u>hombre</u>,
+- <u>lejos</u> de la capacidad humana,
+- y lejos de la <u>sabiduría</u> humana.
 
-###### La comprensión de las cosas de Dios <u>depende</u>:
-- de la revelación de Dios,
+###### La comprensión de las cosas de Dios depende:
+- de la <u>revelación</u> de Dios,
 - y de la obra del Espíritu.
 
 #### porque el Espíritu todo lo escudriña, aun las profundidades de Dios.
-##### El <u>Espíritu</u> escudriña todas las cosas.
+##### El Espíritu escudriña todas las cosas.
 
-##### Pablo <u>afirma</u> que incluso las profundidades de Dios son conocidas por el Espíritu.
+##### Pablo afirma que incluso las profundidades de Dios son conocidas por el Espíritu.
 
-###### El Espíritu no <u>posee</u> un conocimiento superficial o limitado.
+###### El Espíritu no posee un conocimiento superficial o limitado.
 
-###### Pablo presenta al Espíritu como <u>aquel</u> que:
+###### Pablo presenta al Espíritu como aquel que:
 - conoce plenamente a Dios,
 - comprende las profundidades de Dios,
-- y puede revelar aquello que el hombre jamás <u>podría</u> descubrir por sí mismo.
+- y puede revelar aquello que el hombre jamás podría descubrir por sí mismo.
 
 ### 1 Corintios 2:11
 Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él? Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios.
 
 #### Porque entre los hombres, ¿quién conoce los *pensamientos* de un hombre, sino el espíritu del hombre que está en él?
 
-##### Pablo usa un contraste <u>tomado</u> de la experiencia humana.
+##### Pablo usa un contraste tomado de la experiencia humana.
 
-##### Los pensamientos de una persona son conocidos verdaderamente solo por su propio <u>espíritu</u>.
+##### Los pensamientos de una persona son conocidos verdaderamente solo por su propio espíritu.
 
 ###### Pablo utiliza algo conocido por todos:
-- el hombre no puede <u>penetrar</u> completamente el interior de otro hombre.
+- el hombre no puede penetrar completamente el interior de otro hombre.
 
-###### De la <u>misma</u> manera:
+###### De la misma manera:
 - las cosas de Dios
-no <u>pueden</u> ser alcanzadas simplemente mediante observación o razonamiento humano.
+no pueden ser alcanzadas simplemente mediante observación o razonamiento humano.
 
 #### Asimismo, nadie conoce los *pensamientos* de Dios, sino el Espíritu de Dios
-##### De la misma manera, solamente el Espíritu de Dios <u>conoce</u> verdaderamente los pensamientos de Dios.
+##### De la misma manera, solamente el Espíritu de Dios conoce verdaderamente los pensamientos de Dios.
 
-##### Pablo muestra que el conocimiento <u>profundo</u> de Dios pertenece al Espíritu de Dios.
+##### Pablo muestra que el <u>conocimiento</u> profundo de Dios pertenece al Espíritu de Dios.
 
-###### <u>Pablo</u> continúa destruyendo la idea de que:
+###### Pablo continúa destruyendo la idea de que:
 - el hombre,
 - mediante su propia sabiduría,
 - inteligencia,
 - o capacidad,
-pueda alcanzar por sí <u>mismo</u> el verdadero conocimiento de Dios.
+pueda alcanzar por sí mismo el verdadero conocimiento de Dios.
 
-###### El acceso a las <u>cosas</u> de Dios depende completamente del Espíritu de Dios.
+###### El acceso a las cosas de <u>Dios</u> depende completamente del Espíritu de Dios.
 
 ### 1 Corintios 2:12
 Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios , para que conozcamos lo que Dios nos ha dado gratuitamente
 
 #### Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que viene de Dios
-##### Pablo <u>basa</u> su argumento en algo que los creyentes ya recibieron.
+##### Pablo basa su argumento en algo que los creyentes ya recibieron.
 
-##### Los creyentes no reciben el espíritu del <u>mundo</u>, sino el Espíritu que viene de Dios.
+##### Los creyentes no reciben el espíritu del mundo, sino el Espíritu que viene de Dios.
 
-##### El Espíritu es <u>dado</u> por Dios mismo.
+##### El Espíritu es dado por Dios <u>mismo</u>.
 
-###### <u>Pablo</u> continúa contrastando:
-- aquello que procede del <u>mundo</u>,
+###### Pablo continúa contrastando:
+- aquello que procede del mundo,
 con:
-- aquello que <u>procede</u> de Dios.
+- aquello que procede de Dios.
 
-###### El verdadero conocimiento espiritual no <u>surge</u>:
-- del ambiente <u>humano</u>,
-- de los criterios <u>humanos</u>,
-- ni de la sabiduría del <u>mundo</u>.
+###### El verdadero conocimiento espiritual no surge:
+- del ambiente humano,
+- de los <u>criterios</u> humanos,
+- ni de la sabiduría del mundo.
 
-###### Procede del <u>Espíritu</u> que Dios mismo da.
+###### Procede del Espíritu que Dios mismo da.
 
 #### para que conozcamos
-##### El propósito de dar Su Espíritu es que podamos <u>conocer</u> aquello que humanamente sería imposible comprender.
+##### El propósito de dar Su Espíritu es que podamos conocer aquello que humanamente sería imposible comprender.
 
-##### Dios <u>quiere</u> que Sus hijos comprendan aquello que proviene de Él.
+##### Dios quiere que Sus hijos comprendan aquello que proviene de Él.
 
-##### Es Dios quien da de Su Espíritu para <u>hacer</u> posible este conocimiento.
+##### Es Dios quien da de Su Espíritu para hacer posible este conocimiento.
 
-##### Este entendimiento es presentado como una <u>obra</u> espiritual y no humana.
+##### Este entendimiento es presentado como una obra espiritual y no humana.
 
-###### <u>Pablo</u> no presenta el conocimiento espiritual como:
+###### Pablo no presenta el conocimiento <u>espiritual</u> como:
 - autosuficiencia intelectual,
 - superioridad humana,
 - ni capacidad natural del hombre.
 
-###### El verdadero conocimiento <u>depende</u>:
-- de aquello que Dios <u>revela</u>,
-- y de aquello que el Espíritu <u>permite</u> comprender.
+###### El verdadero conocimiento depende:
+- de aquello que Dios revela,
+- y de aquello que el Espíritu permite comprender.
 
 #### lo que Dios nos ha dado gratuitamente
-##### Las cosas que Dios quiere que conozcamos son precisamente aquellas que Él <u>mismo</u> nos ha dado gratuitamente.
+##### Las cosas que Dios quiere que conozcamos son precisamente aquellas que Él mismo nos ha dado gratuitamente.
 
-##### Comprender la <u>gracia</u> de Dios en Cristo es una obra espiritual.
+##### Comprender la gracia de Dios en Cristo es una obra espiritual.
 
-##### <u>Dios</u> no ha dado estas cosas de manera condicional.
+##### Dios no ha dado estas cosas de manera condicional.
 
-##### Estas realidades ya <u>fueron</u> dadas a los creyentes, aunque solamente pueden comprenderse por medio del Espíritu.
+##### Estas realidades ya fueron dadas a los creyentes, aunque solamente pueden comprenderse por medio del Espíritu.
 
-##### Pablo ya había dicho anteriormente que los corintios fueron enriquecidos en todo en <u>Cristo</u>.
+##### Pablo ya había dicho anteriormente que los corintios fueron enriquecidos en todo en Cristo.
 
-##### Sin embargo, que esto sea verdadero no significa automáticamente que todos comprendan la <u>riqueza</u> que tienen en Cristo.
+##### Sin embargo, que esto sea verdadero no significa automáticamente que todos comprendan la riqueza que tienen en Cristo.
 
-##### Dios dio Su Espíritu para que estas cosas <u>puedan</u> ser conocidas.
+##### Dios dio Su Espíritu para que estas cosas puedan ser conocidas.
 
-###### Esto <u>resulta</u> especialmente importante dentro de una iglesia donde:
+###### Esto resulta especialmente importante dentro de una iglesia donde:
 - el conocimiento,
 - la sabiduría,
 - y la espiritualidad
-parecen tener gran valor.
+parecen tener gran <u>valor</u>.
 
-###### Pablo comienza a <u>mostrar</u> que:
+###### Pablo comienza a mostrar que:
 - conocer verdaderamente las cosas de Dios
-no <u>depende</u> simplemente de:
-- capacidad <u>humana</u>,
+no depende simplemente de:
+- capacidad humana,
 - ni de percepción humana,
-sino de la <u>obra</u> del Espíritu.
+sino de la obra del Espíritu.
 
 ### 1 Corintios 2:13
 de lo cual también hablamos, no con palabras enseñadas por sabiduría humana, sino con las enseñadas por el Espíritu, combinando *pensamientos* espirituales con *palabras* espirituales.
 
 #### de lo cual también hablamos
-##### Pablo hablaba precisamente de las cosas que <u>Dios</u> ha dado gratuitamente.
+##### Pablo hablaba precisamente de las cosas que Dios ha dado gratuitamente.
 
-##### La responsabilidad de Pablo era comunicar estas <u>verdades</u>.
+##### La responsabilidad de Pablo era comunicar <u>estas</u> verdades.
 
-##### Pablo no se encargaba de <u>producir</u> comprensión espiritual, sino de anunciar fielmente el mensaje.
+##### Pablo no se encargaba de producir comprensión espiritual, sino de anunciar fielmente el mensaje.
 
-##### Aunque la comprensión depende del Espíritu, Pablo no <u>dejaba</u> de predicar estas verdades.
+##### Aunque la comprensión depende del Espíritu, Pablo no dejaba de predicar estas verdades.
 
-###### La predicación apostólica permanecía <u>centrada</u> en:
+###### La predicación apostólica permanecía centrada en:
 - comunicar,
-- anunciar,
+- <u>anunciar</u>,
 - y proclamar
-aquello que Dios había dado y <u>revelado</u>.
+aquello que Dios había dado y revelado.
 
 #### no con palabras enseñadas por sabiduría humana
-##### Pablo no comunicaba estas verdades <u>usando</u> sabiduría humana.
+##### Pablo no comunicaba estas verdades usando sabiduría humana.
 
-##### El <u>mensaje</u> que anunciaba no le había sido enseñado por hombres.
+##### El mensaje que anunciaba no le había sido enseñado por hombres.
 
-##### La sabiduría humana puede considerar <u>ilógico</u> este mensaje, porque no proviene del razonamiento humano.
+##### La sabiduría humana puede considerar ilógico este mensaje, porque no proviene del razonamiento <u>humano</u>.
 
-###### <u>Pablo</u> continúa rechazando:
-- la dependencia de sabiduría <u>humana</u>,
-- la exaltación de la capacidad <u>humana</u>,
-- y la idea de que el evangelio necesita ser sostenido por <u>recursos</u> humanos.
+###### Pablo continúa rechazando:
+- la dependencia de sabiduría humana,
+- la exaltación de la capacidad humana,
+- y la idea de que el evangelio necesita ser sostenido por recursos humanos.
 
 #### sino con las enseñadas por el Espíritu
-##### Pablo comunicaba estas <u>verdades</u> conforme el Espíritu las enseñaba.
+##### Pablo comunicaba estas verdades conforme el Espíritu las enseñaba.
 
-##### No adaptaban el <u>mensaje</u> a la sabiduría humana.
+##### No adaptaban el mensaje a la sabiduría humana.
 
-##### Simplemente hablaban aquello que el Espíritu <u>había</u> comunicado.
+##### Simplemente <u>hablaban</u> aquello que el Espíritu había comunicado.
 
 ###### La fuente:
 - del contenido,
 - de la comprensión,
 - y de la proclamación
-permanece <u>siendo</u> el Espíritu de Dios y no el hombre.
+permanece siendo el Espíritu de Dios y no el hombre.
 
 #### combinando *pensamientos* espirituales con *palabras* espirituales.
-##### Esta era la <u>manera</u> espiritual de comunicar estas verdades.
+##### Esta era la manera espiritual de comunicar estas verdades.
 
-###### Pablo continúa desarrollando una forma de <u>pensar</u> completamente distinta:
-- no producida por la sabiduría <u>humana</u>,
-- ni organizada alrededor de criterios <u>humanos</u>,
+###### Pablo continúa desarrollando una <u>forma</u> de pensar completamente distinta:
+- no producida por la sabiduría humana,
+- ni organizada alrededor de criterios humanos,
 sino:
-- enseñada,
+- <u>enseñada</u>,
 - revelada,
 - y comunicada
 por el Espíritu de Dios.
@@ -1932,23 +1968,23 @@ por el Espíritu de Dios.
 Pero el hombre natural no acepta las cosas del Espíritu de Dios, porque para él son necedad; y no las puede entender, porque *son cosas que* se disciernen espiritualmente
 
 #### Pero el hombre natural no acepta las cosas del Espíritu de Dios
-##### El hombre <u>natural</u> no recibe las cosas del Espíritu como verdadera sabiduría.
+##### El hombre natural no recibe las <u>cosas</u> del Espíritu como verdadera sabiduría.
 
-##### Pablo ya había dicho anteriormente que la <u>palabra</u> de la cruz es necedad para los que se pierden.
+##### Pablo ya había dicho anteriormente que la palabra de la cruz es necedad para los que se pierden.
 
-###### Pablo continúa mostrando que existe una incapacidad real en el hombre <u>natural</u> para comprender correctamente las cosas de Dios.
+###### Pablo continúa mostrando que existe una incapacidad real en el hombre natural para comprender correctamente las cosas de Dios.
 
-###### El <u>problema</u> no es solamente:
-- falta de información,
+###### El problema no es solamente:
+- falta de <u>información</u>,
 - ni falta de inteligencia humana,
-sino incapacidad para <u>percibir</u> correctamente aquello que proviene del Espíritu.
+sino incapacidad para percibir correctamente aquello que proviene del Espíritu.
 
 #### porque para él son necedad
-##### Precisamente por eso estas cosas le <u>parecen</u> absurdas.
+##### Precisamente por eso estas cosas le parecen absurdas.
 
 ###### Aquello que:
 - el Espíritu revela,
-- el evangelio anuncia,
+- el evangelio <u>anuncia</u>,
 - y la cruz manifiesta
 puede parecer:
 - irracional,
@@ -1956,95 +1992,95 @@ puede parecer:
 - o absurdo
 según criterios humanos.
 
-###### La cruz continúa confrontando directamente la manera <u>humana</u> de evaluar:
+###### La cruz continúa confrontando directamente la manera humana de evaluar:
 - sabiduría,
 - poder,
-- y realidad.
+- y <u>realidad</u>.
 
 #### y no las puede entender
-##### Aunque <u>escucha</u> las palabras, no puede comprenderlas verdaderamente.
+##### Aunque escucha las palabras, no puede comprenderlas verdaderamente.
 
-##### Pablo presenta esta incapacidad como algo <u>real</u>.
+##### Pablo presenta esta incapacidad como algo real.
 
-###### Pablo no describe solamente <u>rechazo</u> voluntario.
+###### Pablo no describe solamente rechazo voluntario.
 
-###### También <u>muestra</u> una incapacidad:
+###### También muestra una incapacidad:
 - para percibir,
 - comprender,
 - y valorar correctamente
 las cosas de Dios.
 
 #### porque *son cosas que* se disciernen espiritualmente
-##### Estas cosas solamente <u>pueden</u> discernirse espiritualmente.
+##### Estas cosas solamente pueden discernirse espiritualmente.
 
-##### Pablo vuelve a mostrar que la riqueza de <u>Cristo</u> solo puede comprenderse mediante la obra del Espíritu.
+##### Pablo vuelve a mostrar que la riqueza de Cristo solo puede comprenderse mediante la obra del <u>Espíritu</u>.
 
-###### La <u>verdadera</u> comprensión:
-- no <u>depende</u> simplemente de capacidad humana,
-- razonamiento <u>humano</u>,
-- ni percepción <u>natural</u>.
+###### La verdadera comprensión:
+- no depende simplemente de capacidad humana,
+- razonamiento humano,
+- ni percepción natural.
 
-###### Depende del discernimiento producido por el <u>Espíritu</u> de Dios.
+###### Depende del discernimiento producido por el Espíritu de Dios.
 
 ### 1 Corintios 2:15
 En cambio, el que es espiritual juzga todas las cosas; pero él no es juzgado por nadie.
 
 #### En cambio, el que es espiritual juzga todas las cosas
-##### En contraste con el hombre <u>natural</u>, el espiritual puede discernir correctamente todas las cosas.
+##### En contraste con el hombre natural, el espiritual puede discernir correctamente todas las <u>cosas</u>.
 
-##### Pablo describe una capacidad de discernimiento espiritual <u>amplia</u> y completa.
+##### Pablo describe una capacidad de discernimiento espiritual amplia y completa.
 
-###### <u>Pablo</u> no presenta al espiritual simplemente como alguien:
+###### Pablo no presenta al espiritual simplemente como alguien:
 - emocional,
 - impresionante,
 - o externamente llamativo.
 
-###### El contraste <u>gira</u> alrededor de:
+###### El contraste gira alrededor de:
 - discernimiento,
 - comprensión,
 - y percepción correcta
-de las <u>cosas</u> que provienen de Dios.
+de las cosas que provienen de Dios.
 
-###### Esto <u>resulta</u> especialmente importante dentro de una iglesia donde:
+###### Esto resulta especialmente importante dentro de una iglesia donde:
 - la espiritualidad,
 - el conocimiento,
 - y la sabiduría
-parecen <u>tener</u> gran valor.
+parecen tener gran valor.
 
 #### pero él no es juzgado por nadie
-##### Al mismo tiempo, el hombre espiritual no queda <u>sujeto</u> al juicio del hombre natural.
+##### Al mismo tiempo, el hombre espiritual no queda sujeto al juicio del hombre natural.
 
-###### El discernimiento espiritual no puede ser <u>evaluado</u> correctamente desde criterios puramente humanos.
+###### El discernimiento espiritual no <u>puede</u> ser evaluado correctamente desde criterios puramente humanos.
 
-###### Aquello que verdaderamente <u>procede</u> del Espíritu:
-- muchas <u>veces</u> no corresponde,
+###### Aquello que verdaderamente procede del Espíritu:
+- muchas veces no corresponde,
 - ni se ajusta
-a los criterios <u>normales</u> de valoración humana.
+a los criterios normales de valoración humana.
 
-###### El hombre espiritual vive desde la perspectiva <u>correcta</u> de la realidad.
+###### El hombre espiritual vive desde la perspectiva correcta de la realidad.
 
 ### 1 Corintios 2:16
 Porque ¿quién ha conocido la mente del Señor, para que lo instruya? Pero nosotros tenemos la mente de Cristo.
 
 #### Porque ¿quién ha conocido la mente del Señor para que lo instruya?
-##### Nadie <u>puede</u> instruir al Señor.
+##### Nadie puede instruir al Señor.
 
 ##### La mente de Dios no <u>puede</u> ser corregida por el hombre.
 
-##### Si alguien no está <u>alineado</u> con la mente de Dios, entonces permanece equivocado.
+##### Si alguien no está alineado con la mente de Dios, entonces permanece equivocado.
 
-###### <u>Pablo</u> continúa destruyendo toda idea de:
+###### Pablo continúa destruyendo toda idea de:
 - superioridad humana,
 - autosuficiencia intelectual,
 - o capacidad humana
-para colocarse por <u>encima</u> de Dios o corregir Su sabiduría.
+para colocarse por encima de Dios o corregir Su sabiduría.
 
 #### Pero nosotros tenemos la mente de Cristo
-##### Pablo <u>afirma</u> que los creyentes tienen la mente de Cristo.
+##### Pablo afirma que los creyentes tienen la mente de Cristo.
 
-##### Debido a esto, el conocimiento de la <u>verdad</u> no es imposible para los creyentes.
+##### Debido a esto, el conocimiento de la verdad no es imposible para los creyentes.
 
-###### Pablo <u>concluye</u> esta sección dirigiendo nuevamente toda la atención hacia Cristo.
+###### Pablo concluye esta sección dirigiendo nuevamente toda la atención hacia Cristo.
 
 ###### La verdadera:
 - sabiduría,
@@ -2052,12 +2088,19 @@ para colocarse por <u>encima</u> de Dios o corregir Su sabiduría.
 - discernimiento,
 - y percepción espiritual
 están relacionadas con:
-- la mente de Cristo,
-- y no con la sabiduría producida por el <u>hombre</u>.
+- la <u>mente</u> de Cristo,
+- y no con la sabiduría producida por el hombre.
 
-###### Esto <u>prepara</u> naturalmente el contraste que Pablo comenzará a desarrollar en el siguiente capítulo entre:
+###### Esto prepara naturalmente el contraste que Pablo comenzará a desarrollar en el siguiente capítulo entre:
 - lo espiritual,
-- y la manera carnal en que los corintios <u>todavía</u> estaban pensando y actuando.
+- y la manera carnal en que los corintios todavía estaban pensando y actuando.
+
+> En Síntesis
+>- Pablo aclara que la verdadera sabiduría sí existe, pero no proviene de este siglo ni de la capacidad humana, sino de Dios mismo. 
+>- La sabiduría revelada en Cristo permaneció oculta para los gobernantes y criterios humanos, quedando expuesta su ceguera en la crucifixión del Señor de gloria. 
+>- El hombre no puede descubrir ni comprender las cosas de Dios mediante inteligencia, percepción o razonamiento humano; solamente el Espíritu puede revelarlas. 
+>- El verdadero conocimiento espiritual depende completamente del Espíritu de Dios, quien permite comprender las riquezas que Dios ya ha dado gratuitamente en Cristo. 
+>- Pablo concluye mostrando que el creyente posee discernimiento espiritual porque tiene la mente de Cristo, preparando así el contraste con la manera carnal en que los corintios todavía estaban pensando y actuando. 
 
 ## 3:1-4 La espiritualidad y la carnalidad entre los corintios
 
@@ -2065,196 +2108,196 @@ están relacionadas con:
 Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
 #### Así que yo, hermanos, no pude hablarles como a espirituales
-##### Cuando Pablo <u>estuvo</u> entre ellos no pudo hablarles como a espirituales.
+##### Cuando Pablo estuvo <u>entre</u> ellos no pudo hablarles como a espirituales.
 
-##### Los corintios <u>todavía</u> no estaban discerniendo las cosas espiritualmente.
+##### Los corintios todavía no estaban discerniendo las cosas espiritualmente.
 
-###### Esto produce una tensión importante con todo lo que <u>Pablo</u> ya había dicho anteriormente acerca de:
+###### Esto produce una tensión importante con todo lo que Pablo ya había dicho anteriormente acerca de:
 - sabiduría espiritual,
 - discernimiento espiritual,
 - y la mente de Cristo.
 
-###### Los corintios <u>podían</u> considerarse:
+###### Los corintios podían considerarse:
 - enriquecidos,
 - conocedores,
 - espirituales,
 - o maduros,
-pero Pablo ahora expone que <u>todavía</u> no podía tratarles como espirituales.
+pero Pablo ahora expone que todavía no podía tratarles como espirituales.
 
-###### Aun así, <u>Pablo</u> continúa llamándolos:
+###### Aun así, Pablo continúa llamándolos:
 - hermanos.
 
 #### sino como a carnales, como a niños en Cristo.
-##### Pablo les <u>habló</u> como a niños que aún estaban creciendo.
+##### Pablo les habló como a niños que aún estaban creciendo.
 
-##### Pablo <u>relaciona</u> aquí la carnalidad con la inmadurez espiritual.
+##### Pablo relaciona aquí la carnalidad con la inmadurez espiritual.
 
-##### Los corintios eran creyentes, pero todavía no <u>podían</u> ser tratados como espirituales.
+##### Los corintios eran creyentes, pero todavía no podían ser tratados como espirituales.
 
 ###### Pablo no está <u>negando</u> que estuvieran:
 - en Cristo,
-- ni negando que hubieran <u>recibido</u> cosas verdaderas de Dios.
+- ni negando que hubieran recibido cosas verdaderas de Dios.
 
-###### Precisamente la <u>tensión</u> es más profunda porque:
+###### Precisamente la tensión es más profunda porque:
 - eran creyentes,
-- participaban en <u>muchas</u> cosas espirituales,
-- y aun así continuaban <u>pensando</u> y actuando de manera carnal.
+- participaban en muchas cosas espirituales,
+- y aun así continuaban pensando y actuando de manera carnal.
 
-###### La carnalidad aquí no aparece como ausencia total de actividad espiritual, sino como una manera de pensar y actuar que todavía <u>seguía</u> funcionando según criterios humanos.
+###### La carnalidad aquí no aparece como ausencia total de actividad espiritual, sino como una manera de pensar y actuar que todavía seguía funcionando según criterios humanos.
 
 ### 1 Corintios 3:2
 Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden
 
 #### Les di a beber leche, no alimento sólido
-##### <u>Pablo</u> no dice "les daba", sino "les di".
+##### Pablo no dice "les daba", <u>sino</u> "les di".
 
-##### Pablo <u>sabía</u> cuál era la condición de los corintios cuando estuvo entre ellos.
+##### Pablo sabía cuál era la condición de los corintios cuando estuvo entre ellos.
 
-##### Debido a eso les dio <u>leche</u> y no alimento sólido.
+##### Debido a eso les dio leche y no alimento sólido.
 
-###### Pablo no presenta esto como desprecio <u>hacia</u> ellos.
+###### Pablo no presenta esto como desprecio hacia ellos.
 
-###### Él <u>adaptó</u> su manera de hablar:
+###### Él adaptó su manera de hablar:
 - según su condición,
 - según su capacidad,
-- y según lo que podían <u>recibir</u> en ese momento.
+- y según lo que podían recibir en ese momento.
 
 #### porque todavía no podían *recibirlo*
-##### Pablo no les dio alimento <u>sólido</u> porque ellos todavía no podían recibirlo.
+##### Pablo no les dio alimento sólido porque ellos todavía no podían recibirlo.
 
-##### Pablo no los condena por la condición que <u>tenían</u> entonces.
+##### Pablo no los condena por la condición que tenían entonces.
 
-##### Fue Pablo quien <u>decidió</u> hablarles de acuerdo a su condición.
+##### Fue Pablo quien decidió hablarles de acuerdo a su condición.
 
-###### La incapacidad no era presentada como <u>falta</u> de inteligencia humana.
+###### La incapacidad no era presentada como falta de inteligencia humana.
 
-###### El <u>problema</u> continuaba siendo:
+###### El problema continuaba siendo:
 - discernimiento espiritual,
 - madurez,
-- y la manera en que estaban comprendiendo las <u>cosas</u> de Dios.
+- y la manera en que estaban comprendiendo las cosas de Dios.
 
 #### En verdad, ni aun ahora pueden
-##### Sin embargo, Pablo <u>muestra</u> que esa incapacidad todavía continuaba.
+##### Sin embargo, Pablo muestra que esa incapacidad todavía continuaba.
 
-##### La condición que <u>tenían</u> al principio seguía siendo su realidad presente.
+##### La condición que tenían al principio seguía siendo su realidad presente.
 
-###### Aquí aparece la verdadera <u>tensión</u> del pasaje.
+###### Aquí aparece la verdadera tensión del pasaje.
 
-###### Lo que al principio <u>podía</u> ser entendido como:
+###### Lo que al principio podía ser entendido como:
 - crecimiento inicial,
 - inmadurez temporal,
 - o una etapa normal,
-ahora permanecía como una <u>condición</u> continua.
+ahora permanecía como una condición continua.
 
-###### Los corintios probablemente se <u>percibían</u>:
-- avanzados,
+###### Los corintios probablemente se percibían:
+- <u>avanzados</u>,
 - sabios,
-- espirituales,
+- <u>espirituales</u>,
 - y maduros.
 
-###### Sin embargo, Pablo <u>expone</u> que todavía no podían recibir aquello correspondiente a verdadera madurez espiritual.
+###### Sin embargo, Pablo expone que todavía no podían recibir aquello correspondiente a verdadera <u>madurez</u> espiritual.
 
 ### 1 Corintios 3:3
 porque todavía son carnales. Pues habiendo celos y discusiones entre ustedes, ¿no son carnales y andan como hombres *del mundo?*
 
 #### porque todavía son carnales
-##### Pablo ahora <u>expone</u> directamente la razón.
+##### Pablo ahora expone directamente la razón.
 
-##### Los corintios todavía eran <u>carnales</u>.
+##### Los corintios todavía eran carnales.
 
-##### El "todavía" muestra que esta condición no <u>debía</u> permanecer así.
+##### El "todavía" muestra que esta condición no debía permanecer así.
 
-###### <u>Pablo</u> no está describiendo simplemente:
+###### Pablo no está <u>describiendo</u> simplemente:
 - problemas aislados,
 - ni errores externos solamente.
 
-###### Está exponiendo una <u>manera</u> de:
+###### Está exponiendo una manera de:
 - pensar,
 - evaluar,
-- relacionarse,
+- <u>relacionarse</u>,
 - y vivir
-que todavía seguía funcionando <u>según</u> criterios humanos.
+que todavía seguía funcionando según criterios humanos.
 
 #### Pues habiendo celos y discusiones entre ustedes
-##### Pablo y los de Cloé podían discernir una <u>realidad</u> que los corintios no estaban viendo correctamente.
+##### Pablo y los de Cloé podían discernir una realidad que los corintios no estaban viendo correctamente.
 
-###### Ellos <u>pueden</u> discernir todas las cosas. 1 Corintios 2:15
+###### Ellos pueden discernir todas las cosas. 1 Corintios 2:15
 
-##### Pablo menciona dos evidencias concretas: <u>celos</u> y discusiones.
+##### Pablo menciona dos evidencias <u>concretas</u>: celos y discusiones.
 
-###### Estas cosas probablemente no <u>eran</u> percibidas por los corintios simplemente como:
+###### Estas cosas probablemente no eran percibidas por los corintios simplemente como:
 - carnalidad,
 - inmadurez,
 - o mundanalidad.
 
-###### En un ambiente <u>marcado</u> por:
+###### En un ambiente marcado por:
 - identificación con hombres,
 - conocimiento,
 - reputación,
 - y comparación,
-los celos y las discusiones podían incluso <u>parecer</u> parte normal de una comunidad dinámica y fuerte.
+los <u>celos</u> y las discusiones podían incluso parecer parte normal de una comunidad dinámica y fuerte.
 
-###### Sin embargo, Pablo las <u>expone</u> como evidencia de una realidad mucho más profunda.
+###### Sin embargo, Pablo las expone como evidencia de una realidad mucho más profunda.
 
 #### ¿no son carnales y andan como hombres *del mundo?*
-##### Pablo <u>concluye</u> que esas actitudes evidenciaban carnalidad.
+##### Pablo concluye que esas actitudes evidenciaban carnalidad.
 
 ##### Los corintios estaban andando como hombres del mundo.
 
-##### Pablo contrasta aquí al creyente espiritual con el creyente <u>carnal</u>.
+##### Pablo contrasta aquí al creyente espiritual con el creyente carnal.
 
-##### Su <u>manera</u> de vivir no correspondía a la realidad que tenían en Cristo.
+##### Su manera de vivir no correspondía a la realidad que tenían en Cristo.
 
-###### La tensión de esta sección no <u>consiste</u> en que los corintios:
-- se vieran completamente <u>alejados</u> de Dios,
-- ni <u>vacíos</u> de espiritualidad.
+###### La tensión de esta sección no consiste en que los corintios:
+- se vieran completamente alejados de <u>Dios</u>,
+- ni vacíos de espiritualidad.
 
-###### Precisamente el <u>problema</u> es que:
+###### Precisamente el problema es que:
 - mientras se percibían espirituales,
 - maduros,
 - y sabios,
-seguían andando según maneras humanas de <u>pensar</u> y relacionarse.
+seguían andando según maneras humanas de pensar y relacionarse.
 
 ### 1 Corintios 3:4
 Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos», ¿no son *como* hombres *del mundo?*
 
 #### Porque cuando uno dice: «Yo soy de Pablo», y otro: «Yo soy de Apolos»
-##### Pablo <u>vuelve</u> a las declaraciones que existían entre ellos.
+##### Pablo vuelve a las declaraciones que existían entre ellos.
 
-##### Pablo no está juzgando intenciones <u>ocultas</u>, sino exponiendo lo que ellos mismos estaban diciendo.
+##### Pablo no está juzgando intenciones ocultas, sino exponiendo lo que ellos mismos estaban diciendo.
 
-##### Una declaración era levantada <u>contra</u> la otra.
+##### Una declaración era levantada contra la otra.
 
-##### Esto <u>producía</u> competencia y divisiones entre ellos.
+##### Esto producía competencia y divisiones entre ellos.
 
-###### Las declaraciones probablemente no <u>parecían</u> problemáticas desde una perspectiva humana.
+###### Las declaraciones probablemente no parecían problemáticas desde una perspectiva humana.
 
 ###### Identificarse:
-- con determinados <u>líderes</u>,
-- con <u>ciertas</u> corrientes,
-- o con <u>figuras</u> admiradas
-podía parecer completamente razonable e <u>incluso</u> espiritualmente significativo.
+- con determinados líderes,
+- con ciertas <u>corrientes</u>,
+- o con figuras admiradas
+podía parecer completamente razonable e incluso espiritualmente significativo.
 
-###### Sin embargo, Pablo continúa mostrando que estas identificaciones <u>estaban</u> produciendo:
+###### Sin embargo, Pablo continúa mostrando que estas identificaciones estaban produciendo:
 - divisiones,
 - competencia,
 - y maneras carnales de relacionarse.
 
 #### ¿no son *como* hombres *del mundo?*
-##### Pablo <u>muestra</u> que el verdadero problema no era solamente lo que decían, sino la manera en que estaban andando.
+##### Pablo muestra que el verdadero problema no era solamente lo que decían, sino la manera en que estaban andando.
 
-##### Los <u>celos</u> y discusiones revelaban una condición más profunda.
+##### Los celos y discusiones revelaban una condición más profunda.
 
-##### Los corintios estaban andando como hombres del <u>mundo</u> y no como espirituales.
+##### Los corintios estaban andando como hombres del mundo y no como espirituales.
 
-##### Sin embargo, esa no era la realidad que <u>tenían</u> en Cristo.
+##### Sin embargo, esa no era la realidad que tenían en Cristo.
 
-###### <u>Pablo</u> continúa contrastando:
-- aquello que verdaderamente eran en <u>Cristo</u>,
+###### Pablo continúa contrastando:
+- aquello que verdaderamente eran en Cristo,
 con:
-- la <u>manera</u> en que todavía estaban viviendo y pensando.
+- la manera en que todavía estaban viviendo y pensando.
 
-###### La vida espiritual no podía <u>seguir</u> siendo definida:
+###### La vida espiritual no podía seguir siendo definida:
 - por rivalidad,
 - superioridad,
 - identificación humana,
@@ -2266,65 +2309,65 @@ con:
 ¿Qué es, pues, Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes han creído, según el Señor dio oportunidad a cada uno.
 
 #### ¿Qué es, pues, Apolos? ¿Y qué es Pablo?
-##### Pablo hace dos preguntas <u>acerca</u> de él y de Apolos.
+##### Pablo hace dos preguntas acerca de él y de Apolos.
 
-##### Pregunta qué son y no qué <u>hacen</u>.
+##### Pregunta qué son y no qué hacen.
 
-###### Los <u>corintios</u> estaban haciendo distinciones basadas en la labor de cada uno.
+###### Los corintios <u>estaban</u> haciendo distinciones basadas en la labor de cada uno.
 
-###### En una <u>cultura</u> donde:
+###### En una cultura donde:
 - la reputación,
 - la capacidad,
 - la influencia,
-- y el reconocimiento <u>público</u>
+- y el reconocimiento público
 tenían enorme valor,
-resultaba natural comenzar a <u>definir</u> importancia espiritual según determinados hombres.
+resultaba natural comenzar a definir importancia espiritual según determinados hombres.
 
-###### Pablo comienza a desmontar esa manera de <u>pensar</u>.
+###### Pablo comienza a desmontar esa manera de pensar.
 
 #### Servidores
 
 servidores - DIAKONOS
 : ayudante, servidor.
 
-##### Tanto Pablo como <u>Apolos</u> son descritos solamente como servidores.
+##### Tanto Pablo como Apolos son descritos solamente como servidores.
 
-##### Pablo vuelve a eliminar cualquier <u>motivo</u> de distinción entre ellos.
+##### Pablo vuelve a eliminar cualquier motivo de distinción entre ellos.
 
-###### Pablo no <u>niega</u> que:
-- Pablo <u>haya</u> servido,
-- ni que Apolos <u>haya</u> servido.
+###### Pablo no niega que:
+- Pablo haya servido,
+- ni que Apolos haya servido.
 
-###### El problema <u>aparece</u> cuando:
-- los hombres,
+###### El problema aparece cuando:
+- los <u>hombres</u>,
 - sus capacidades,
 - o sus funciones
-comienzan a ocupar el lugar <u>central</u> dentro de la percepción espiritual de los corintios.
+comienzan a ocupar el lugar central dentro de la percepción espiritual de los corintios.
 
 #### mediante los cuales ustedes han creído
-##### <u>Pablo</u> y Apolos fueron instrumentos mediante los cuales los corintios llegaron a creer.
+##### Pablo y Apolos fueron instrumentos mediante los cuales los corintios llegaron a creer.
 
-##### Los corintios creyeron al <u>mensaje</u> anunciado tanto por Pablo como por Apolos.
+##### Los corintios creyeron al mensaje anunciado tanto por Pablo como por Apolos.
 
-###### La fe de los corintios no <u>debía</u> terminar descansando:
+###### La fe de los corintios no debía terminar descansando:
 - en Pablo,
 - ni en Apolos,
 sino:
-- en aquello que Dios había hecho <u>mediante</u> el evangelio.
+- en aquello que Dios había hecho mediante el evangelio.
 
 #### según el Señor dio oportunidad a cada uno.
-##### La palabra "oportunidad" no aparece explícitamente en el <u>texto</u> original.
+##### La palabra "oportunidad" no aparece explícitamente en el texto original.
 
-##### Pablo enfatiza que fue el <u>Señor</u> quien dio a cada uno su labor.
+##### Pablo enfatiza que fue el Señor quien dio a cada uno su labor.
 
-##### El énfasis del contexto apunta al trabajo específico que cada uno <u>recibió</u> dentro de la obra de Dios.
+##### El énfasis del contexto apunta al trabajo específico que cada uno recibió dentro de la obra de Dios.
 
 ###### La obra:
-- pertenecía al Señor,
+- pertenecía al <u>Señor</u>,
 - procedía del Señor,
 - y era distribuida por el Señor.
 
-###### Esto <u>dejaba</u> muy poco espacio para:
+###### Esto dejaba muy poco espacio para:
 - exaltación personal,
 - competencia,
 - o superioridad entre hombres.
@@ -2333,142 +2376,142 @@ sino:
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 
 #### Yo planté
-##### Pablo describe su trabajo como el de <u>plantar</u>.
+##### Pablo describe su trabajo como el de plantar.
 
-###### Pablo <u>predicó</u> el evangelio entre los corintios.
+###### Pablo predicó el <u>evangelio</u> entre los corintios.
 
-###### Pablo reconoce claramente que existían funciones diferentes <u>dentro</u> de la obra de Dios.
+###### Pablo reconoce claramente que existían funciones diferentes dentro de la obra de Dios.
 
 #### Apolos regó
-##### <u>Apolos</u> continuó una obra que ya había comenzado.
+##### Apolos continuó una obra que ya había comenzado.
 
-###### Apolos enseñó después de la llegada <u>inicial</u> de Pablo.
+###### Apolos enseñó después de la llegada inicial de Pablo.
 
-###### <u>Pablo</u> no presenta las distintas funciones como competencia entre servidores.
+###### Pablo no presenta las distintas funciones como competencia entre servidores.
 
-###### Cada uno participaba <u>dentro</u> de una misma obra.
+###### Cada uno participaba dentro de una misma obra.
 
 #### pero Dios ha dado el crecimiento
-##### El "pero" introduce el verdadero <u>contraste</u>.
+##### El "pero" introduce el verdadero contraste.
 
-##### Aunque Pablo plantó y Apolos <u>regó</u>, fue Dios quien dio el crecimiento.
+##### Aunque Pablo plantó y <u>Apolos</u> regó, fue Dios quien dio el crecimiento.
 
-##### Pablo no desacredita el trabajo de ninguno, pero deja claro quién <u>produjo</u> verdaderamente el crecimiento.
+##### Pablo no desacredita el trabajo de ninguno, pero deja claro quién produjo verdaderamente el crecimiento.
 
-##### El crecimiento de los corintios no fue <u>obra</u> de Pablo ni de Apolos, sino de Dios.
+##### El crecimiento de los corintios no fue obra de Pablo ni de Apolos, sino de Dios.
 
-###### Aquí aparece nuevamente la tensión <u>central</u> de la sección.
+###### Aquí aparece nuevamente la tensión central de la sección.
 
-###### Los corintios <u>parecían</u> estar enfocándose:
+###### Los corintios parecían estar enfocándose:
 - en los hombres,
 - en las funciones,
-- y en las diferencias <u>visibles</u>.
+- y en las diferencias visibles.
 
-###### Pero Pablo <u>dirige</u> toda la atención hacia:
+###### Pero Pablo dirige toda la atención hacia:
 - Dios,
 - Su obra,
-- y el crecimiento que solamente Él <u>podía</u> producir.
+- y el crecimiento que solamente Él podía producir.
 
 ### 1 Corintios 3:7
 Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
 
 #### Así que ni el que planta ni el que riega es algo
-##### Aunque Pablo plantó y Apolos regó, eso no los convierte en el <u>centro</u> de la obra.
+##### Aunque Pablo plantó y Apolos <u>regó</u>, eso no los convierte en el centro de la obra.
 
-##### Pablo vuelve a quitar toda <u>razón</u> para jactarse en hombres.
+##### Pablo vuelve a quitar toda razón para jactarse en hombres.
 
-###### Pablo no está <u>negando</u>:
-- la existencia del <u>ministerio</u>,
-- ni el <u>valor</u> del servicio.
+###### Pablo no está negando:
+- la existencia del ministerio,
+- ni el valor del servicio.
 
-###### Está destruyendo la tendencia <u>humana</u> de:
+###### Está destruyendo la tendencia humana de:
 - exaltar hombres,
-- construir identidades alrededor de <u>hombres</u>,
-- y <u>medir</u> la espiritualidad según hombres.
+- construir identidades alrededor de hombres,
+- y medir la espiritualidad según hombres.
 
 #### sino Dios, que da el crecimiento
-##### El contraste <u>apunta</u> nuevamente a Dios.
+##### El contraste apunta nuevamente a Dios.
 
-##### Solo <u>Dios</u> pudo dar crecimiento a los corintios.
+##### Solo Dios pudo dar crecimiento a los corintios.
 
-##### Pablo dirige toda la atención <u>hacia</u> la obra de Dios y no hacia Sus servidores.
+##### Pablo dirige toda la atención hacia la obra de Dios y no hacia Sus servidores.
 
 ###### El crecimiento:
-- no podía producirse mediante <u>carisma</u> humano,
+- no podía producirse mediante carisma humano,
 - elocuencia humana,
 - ni capacidad humana.
 
-###### Provenía de <u>Dios</u> mismo.
+###### Provenía de Dios <u>mismo</u>.
 
 ### 1 Corintios 3:8
 Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propio trabajo.
 
 #### Ahora bien, el que planta y el que riega son una misma cosa
-##### Al decir que no eran nada, Pablo no estaba negando su identidad ni su <u>función</u>.
+##### Al decir que no eran nada, Pablo no estaba negando su identidad ni su función.
 
-##### Pablo <u>vuelve</u> a enfatizar la igualdad entre él y Apolos.
+##### Pablo vuelve a enfatizar la igualdad entre él y Apolos.
 
-##### Aunque sus labores fueran distintas, <u>ambos</u> eran una misma cosa dentro de la obra de Dios.
+##### Aunque sus labores fueran distintas, ambos eran una misma cosa dentro de la obra de Dios.
 
-##### Lo que hacían no <u>definía</u> superioridad entre ellos.
+##### Lo que hacían no definía superioridad entre ellos.
 
-###### Los corintios <u>parecían</u> estar organizando:
+###### Los corintios parecían estar organizando:
 - prestigio,
 - identificación,
 - y valoración
-según diferencias <u>visibles</u> entre hombres.
+según diferencias visibles entre hombres.
 
-###### Pablo <u>insiste</u> en que:
+###### Pablo insiste en que:
 - la unidad,
 - la colaboración,
 - y la obra compartida
-eran mucho más importantes que las distinciones <u>humanas</u>.
+eran mucho más importantes que las distinciones humanas.
 
 #### pero cada uno
-##### Aunque <u>ambos</u> son uno en la obra, cada uno sigue siendo considerado individualmente.
+##### Aunque ambos son uno en la obra, cada uno sigue siendo considerado individualmente.
 
 #### pero cada uno recibirá su propia recompensa
-##### Cada <u>servidor</u> recibirá una recompensa propia.
+##### Cada servidor recibirá una recompensa propia.
 
-##### Tanto Pablo como <u>Apolos</u> recibirán recompensa.
+##### Tanto Pablo como Apolos recibirán recompensa.
 
-###### <u>Pablo</u> no elimina:
+###### Pablo no elimina:
 - responsabilidad,
 - labor,
-- ni fidelidad personal.
+- ni fidelidad <u>personal</u>.
 
-###### Sin embargo, la recompensa proviene de <u>Dios</u> y no de:
+###### Sin embargo, la recompensa proviene de Dios y no de:
 - popularidad,
 - reconocimiento humano,
 - ni admiración de los hombres.
 
 #### conforme a su propio trabajo
-##### La recompensa será conforme al <u>trabajo</u> de cada uno.
+##### La recompensa será conforme al trabajo de cada uno.
 
-##### Pablo <u>conecta</u> esta labor con aquello que Dios había dado a cada uno.
+##### Pablo conecta esta labor con aquello que Dios había dado a cada uno.
 
-##### Dios no les encargó <u>producir</u> crecimiento, sino ser fieles en el trabajo recibido.
+##### Dios no les encargó producir crecimiento, sino ser fieles en el trabajo recibido.
 
-###### La <u>obra</u> no dependía:
+###### La obra no dependía:
 - del ego del servidor,
 - de la comparación entre hombres,
 - ni de producir seguidores personales.
 
-###### Dependía de fidelidad <u>dentro</u> de aquello que Dios había asignado.
+###### Dependía de fidelidad dentro de aquello que Dios había asignado.
 
 ### 1 Corintios 3:9
 Porque nosotros somos colaboradores en la labor de Dios, y ustedes son el campo de cultivo de Dios, el edificio de Dios.
 
 #### Porque nosotros somos colaboradores en la labor de Dios
-##### Pablo y Apolos trabajaban <u>juntos</u> en una obra que pertenecía a Dios.
+##### Pablo y Apolos trabajaban juntos en una obra que pertenecía a Dios.
 
-##### <u>Ambos</u> son presentados como colaboradores de Dios.
+##### Ambos son presentados como colaboradores de Dios.
 
-##### La <u>labor</u> también pertenece a Dios.
+##### La labor también <u>pertenece</u> a Dios.
 
-##### Dios obraba por medio de ellos mientras trabajaban <u>juntos</u> en Su obra.
+##### Dios obraba por medio de ellos mientras trabajaban juntos en Su obra.
 
-###### <u>Pablo</u> continúa destruyendo toda idea de:
+###### Pablo continúa destruyendo toda idea de:
 - rivalidad ministerial,
 - competencia espiritual,
 - o exaltación de hombres.
@@ -2477,24 +2520,24 @@ Porque nosotros somos colaboradores en la labor de Dios, y ustedes son el campo 
 - trabajan juntos,
 - sirven juntos,
 - y participan juntos
-dentro de una obra que <u>sigue</u> perteneciendo completamente a Dios.
+dentro de una obra que sigue perteneciendo completamente a Dios.
 
 #### y ustedes son el campo de cultivo de Dios, el edificio de Dios.
-##### Los corintios son descritos como el <u>campo</u> de cultivo de Dios.
+##### Los corintios son descritos como el campo de cultivo de Dios.
 
-##### También son descritos como el <u>edificio</u> de Dios.
+##### También son descritos como el edificio de Dios.
 
-##### <u>Dios</u> estaba trabajando en ellos mediante Sus colaboradores.
+##### Dios estaba trabajando en ellos mediante Sus colaboradores.
 
-###### Los corintios <u>tampoco</u> pertenecían:
+###### Los corintios tampoco pertenecían:
 - a Pablo,
 - ni a Apolos.
 
 ###### Eran:
-- el campo de Dios,
+- el campo de <u>Dios</u>,
 - y el edificio de Dios.
 
-###### <u>Pablo</u> continúa dirigiendo toda:
+###### Pablo continúa dirigiendo toda:
 - pertenencia,
 - identidad,
 - y gloria
@@ -2504,211 +2547,218 @@ hacia Dios y no hacia hombres.
 Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento, y otro edifica sobre él. Pero cada uno tenga cuidado cómo edifica encima.
 
 #### Conforme a la gracia de Dios que me fue dada, yo, como sabio arquitecto, puse el fundamento
-##### Pablo describe su trabajo como una <u>gracia</u> dada por Dios.
+##### Pablo describe su trabajo como una gracia dada por Dios.
 
-##### Antes describió esa <u>labor</u> como plantar; ahora la describe como poner el fundamento.
+##### Antes describió esa labor como plantar; ahora la describe como poner el fundamento.
 
-##### Pablo no <u>buscó</u> esa posición por iniciativa propia.
+##### Pablo no buscó esa posición por iniciativa propia.
 
-##### La labor de <u>poner</u> el fundamento le fue dada por Dios.
+##### La labor de poner el fundamento le fue dada por Dios.
 
-###### <u>Incluso</u> al describirse como:
+###### Incluso al describirse como:
 - sabio arquitecto,
 Pablo continúa atribuyendo completamente su labor:
 - a la gracia de Dios,
-- y a aquello que Dios le dio.
+- y a aquello que <u>Dios</u> le dio.
 
-###### Pablo no <u>utiliza</u> esta descripción para:
+###### Pablo no utiliza esta descripción para:
 - exaltarse,
 - producir admiración,
-- ni colocarse por encima de otros.
+- ni colocarse por <u>encima</u> de otros.
 
-###### La verdadera sabiduría continúa <u>siendo</u> presentada como algo:
+###### La verdadera sabiduría continúa siendo presentada como algo:
 - recibido,
 - dado por Dios,
 - y relacionado con la obra de Dios.
 
 #### y otro edifica sobre él.
-##### Otros continuaban edificando sobre el fundamento que Pablo había <u>puesto</u>.
+##### Otros continuaban edificando sobre el fundamento que Pablo había puesto.
 
-##### La iglesia es presentada nuevamente como el <u>lugar</u> donde Dios obra mediante Sus colaboradores.
+##### La iglesia es presentada nuevamente como el lugar donde Dios obra mediante Sus colaboradores.
 
-###### Pablo no presenta la <u>obra</u>:
+###### Pablo no presenta la obra:
 - como algo individual,
 - ni como una plataforma personal.
 
-###### Diferentes personas continuaban participando <u>dentro</u> de una misma obra que pertenecía a Dios.
+###### Diferentes personas continuaban participando dentro de una misma obra que pertenecía a Dios.
 
 #### Pero cada uno tenga cuidado cómo edifica encima.
-##### Pablo ahora <u>dirige</u> la atención hacia la manera en que cada uno continúa edificando sobre el fundamento.
+##### Pablo ahora dirige la atención hacia la manera en que cada uno continúa edificando sobre el fundamento.
 
-##### El énfasis no está solamente en <u>edificar</u>, sino en cómo se edifica.
+##### El énfasis no está solamente en edificar, sino en cómo se edifica.
 
-###### Esto introduce una nueva <u>tensión</u> dentro de la sección.
+###### Esto introduce una nueva tensión dentro de la sección.
 
-###### No <u>toda</u> manera de:
+###### No toda manera de:
 - servir,
 - enseñar,
 - construir,
 - o participar en la obra
-corresponde necesariamente al fundamento que <u>Dios</u> estableció.
+corresponde necesariamente al fundamento que Dios estableció.
 
-###### En una <u>iglesia</u> donde:
+###### En una iglesia donde:
 - la sabiduría,
 - la apariencia,
 - la reputación,
 - y la exaltación de hombres
-parecían tener tanto peso,
-la manera de edificar se <u>volvía</u> algo extremadamente importante.
+parecían tener <u>tanto</u> peso,
+la manera de edificar se volvía algo extremadamente importante.
+
+>En Síntesis
+>- Pablo expone una profunda tensión en Corinto: aunque los creyentes poseían riquezas espirituales reales en Cristo, todavía estaban pensando y actuando de manera carnal.
+>- La carnalidad se manifestaba mediante celos, discusiones, rivalidades e identificaciones humanas que seguían organizando la vida de la iglesia según criterios del mundo.
+>- Pablo destruye la exaltación de hombres mostrando que tanto él como Apolos son solamente servidores dentro de una obra que pertenece completamente a Dios.
+>- Aunque existían diferentes funciones y labores dentro de la iglesia, el crecimiento verdadero provenía únicamente de Dios y no de capacidad, carisma o prestigio humano.
+>- La iglesia es presentada como el campo y el edificio de Dios, donde cada colaborador debe tener cuidado de cómo edifica sobre el fundamento que Dios estableció en Cristo.
 
 ## 1 Corintios 3:10b-15 - La obra de cada uno sería probada sobre el fundamento que es Cristo
 
 #### Pero cada uno tenga cuidado cómo edifica encima.
-##### Pablo <u>ahora</u> da un mandato a cada uno de los corintios.
+##### Pablo ahora da un mandato a cada uno de los corintios.
 
-##### Este mandato no está separado de toda la explicación anterior, sino que <u>surge</u> de ella.
+##### Este mandato no <u>está</u> separado de toda la explicación anterior, sino que surge de ella.
 
-##### Cada <u>creyente</u> es responsable de cómo sobreedifica sobre el fundamento que ya fue puesto.
+##### Cada creyente es responsable de cómo sobreedifica sobre el fundamento que ya fue puesto.
 
-##### Cada uno es responsable de cómo <u>vive</u> sobre el fundamento de Cristo.
+##### Cada uno es responsable de cómo vive sobre el fundamento de Cristo.
 
-###### La atención ya no se <u>dirige</u> solamente:
+###### La atención ya no se dirige solamente:
 - a Pablo,
 - a Apolos,
 - o a otros servidores.
 
-###### Ahora cada creyente <u>debe</u> considerar cuidadosamente:
+###### Ahora cada creyente debe considerar cuidadosamente:
 - cómo vive,
 - cómo participa,
 - y cómo edifica
-sobre aquello que Dios ya estableció en <u>Cristo</u>.
+sobre aquello que Dios ya estableció en Cristo.
 
 ### 1 Corintios 3:11
 Pues nadie puede poner otro fundamento que el que ya está puesto, el cual es Jesucristo.
 
 #### Pues nadie puede poner otro fundamento que el que ya está puesto
-##### El fundamento sobre el cual la iglesia está <u>siendo</u> edificada ya fue puesto.
+##### El fundamento sobre el cual la iglesia está siendo edificada ya fue puesto.
 
-##### No existe <u>lugar</u> para otro fundamento.
+##### No existe lugar para otro fundamento.
 
-##### <u>Nadie</u> puede añadir estabilidad al edificio de Dios, porque esa estabilidad ya fue dada en Cristo.
+##### Nadie puede añadir estabilidad al edificio de Dios, porque esa estabilidad ya fue dada en Cristo.
 
-###### <u>Pablo</u> continúa dirigiendo toda:
+###### Pablo continúa dirigiendo toda:
 - seguridad,
 - estabilidad,
 - y fundamento
-hacia Cristo y no <u>hacia</u> hombres.
+hacia Cristo y no hacia hombres.
 
-###### En una <u>iglesia</u> donde:
+###### En una iglesia donde:
 - hombres,
 - sabiduría,
 - reputación,
-- y diferencias visibles
+- y <u>diferencias</u> visibles
 estaban ocupando tanto espacio,
-Pablo vuelve a establecer que solamente <u>existe</u> un fundamento verdadero.
+Pablo vuelve a establecer que solamente existe un fundamento verdadero.
 
 #### el cual es Jesucristo.
-##### <u>Cristo</u> es el fundamento sobre el cual la iglesia está siendo edificada.
+##### Cristo es el fundamento sobre el cual la iglesia está siendo edificada.
 
-###### <u>Todo</u> aquello que:
+###### Todo aquello que:
 - se construye,
 - se enseña,
 - o se vive
-debe permanecer relacionado con <u>Cristo</u> como fundamento.
+debe permanecer relacionado con Cristo como fundamento.
 
 ### 1 Corintios 3:12
 Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja
 
 #### Ahora bien, si sobre *este* fundamento alguien edifica con oro, plata, piedras preciosas, madera, heno, paja
-##### Pablo describe distintos materiales con los cuales <u>alguien</u> puede sobreedificar.
+##### Pablo describe distintos materiales con los <u>cuales</u> alguien puede sobreedificar.
 
-##### No todos los materiales poseen la <u>misma</u> calidad ni reaccionan igual ante el fuego.
+##### No todos los materiales poseen la misma calidad ni reaccionan igual ante el fuego.
 
-###### Pablo no presenta toda <u>obra</u> como equivalente.
+###### Pablo no presenta toda obra como equivalente.
 
-###### <u>Aunque</u> todos edifican sobre el mismo fundamento:
-- no toda construcción <u>posee</u> la misma calidad,
-- ni todo aquello que <u>parece</u> valioso resistirá de la misma manera.
+###### Aunque todos <u>edifican</u> sobre el mismo fundamento:
+- no toda construcción posee la misma calidad,
+- ni todo aquello que parece valioso resistirá de la misma manera.
 
-###### Esto introduce una tensión importante dentro de una <u>iglesia</u> donde:
+###### Esto introduce una tensión importante <u>dentro</u> de una iglesia donde:
 - apariencia,
 - sabiduría,
 - reconocimiento,
 - y admiración humana
-podían parecer señales de <u>valor</u> espiritual.
+podían parecer señales de valor espiritual.
 
 ### 1 Corintios 3:13
 la obra de cada uno se hará evidente; porque el día la dará a conocer, pues con fuego *será* revelada. El fuego mismo probará la calidad de la obra de cada uno.
 
 #### la obra de cada uno se hará evidente
-##### La <u>obra</u> de cada uno quedará completamente expuesta.
+##### La obra de cada uno quedará completamente expuesta.
 
-##### Los materiales mencionados representan la <u>calidad</u> de esa obra.
+##### Los materiales mencionados representan la calidad de esa obra.
 
-###### Pablo <u>dirige</u> la atención hacia un momento donde:
-- <u>aquello</u> que fue construido,
-- aquello que parecía <u>sólido</u>,
-- y aquello que parecía <u>valioso</u>
+###### Pablo dirige la atención hacia un momento donde:
+- aquello que fue construido,
+- aquello que parecía sólido,
+- y aquello que <u>parecía</u> valioso
 quedará completamente expuesto.
 
 #### porque el día la dará a conocer, pues con fuego *será* revelada.
-##### Pablo presenta esto como una revelación <u>futura</u>.
+##### Pablo presenta esto como una revelación futura.
 
-##### La obra será manifestada y probada por <u>medio</u> del fuego.
+##### La obra será manifestada y probada por medio del fuego.
 
-###### La evaluación <u>final</u> no dependerá:
+###### La evaluación final no dependerá:
 - de reconocimiento humano,
 - popularidad,
 - admiración,
 - ni apariencia externa.
 
-###### Será <u>Dios</u> quien revelará verdaderamente la calidad de la obra.
+###### Será Dios quien revelará verdaderamente la calidad de la obra.
 
 #### El fuego mismo probará la calidad de la obra de cada uno.
-##### Lo que será probado es la <u>calidad</u> de la obra.
+##### Lo que será probado es la calidad de la obra.
 
-##### Cada material reaccionará de manera distinta al <u>fuego</u>.
+##### Cada material reaccionará de manera distinta al fuego.
 
-###### Pablo no <u>dirige</u> la atención principalmente hacia:
+###### Pablo no dirige la atención principalmente hacia:
 - cantidad,
 - visibilidad,
 - ni impacto aparente.
 
-###### El énfasis <u>recae</u> sobre:
+###### El énfasis recae sobre:
 - la calidad,
 - la naturaleza,
 - y la permanencia
-de aquello que fue construido.
+de <u>aquello</u> que fue construido.
 
 ### 1 Corintios 3:14
 Si permanece la obra de alguien que ha edificado sobre *el fundamento,* recibirá recompensa.
 
 #### Si permanece la obra
-##### Una posibilidad es que la <u>obra</u> permanezca después de ser probada.
+##### Una posibilidad es que la obra permanezca después de ser probada.
 
-##### La permanencia de la obra muestra que <u>resistió</u> el fuego.
+##### La permanencia de la obra muestra que resistió el fuego.
 
-###### La verdadera <u>calidad</u> de la obra no queda determinada:
-- antes de la <u>prueba</u>,
+###### La verdadera calidad de la obra no queda determinada:
+- antes de la prueba,
 - ni por apariencia externa,
-sino por <u>aquello</u> que realmente permanece.
+sino por aquello que realmente permanece.
 
 #### de alguien que ha edificado sobre *el fundamento*
-##### La obra permanece porque fue edificada sobre el fundamento <u>correcto</u>.
+##### La obra permanece porque fue edificada sobre el fundamento correcto.
 
-###### <u>Pablo</u> continúa mostrando que:
+###### Pablo continúa mostrando que:
 - Cristo,
 - y no el hombre,
-permanece <u>siendo</u> el fundamento indispensable de toda verdadera edificación.
+permanece siendo el fundamento indispensable de toda verdadera edificación.
 
 #### recibirá recompensa.
-##### Si la obra permanece, el creyente <u>recibirá</u> recompensa.
+##### Si la obra permanece, el creyente recibirá recompensa.
 
-###### <u>Pablo</u> no niega:
+###### Pablo no niega:
 - el valor de la fidelidad,
 - ni la realidad de la recompensa.
 
-###### Sin embargo, la <u>recompensa</u> continúa dependiendo:
+###### Sin embargo, la recompensa continúa dependiendo:
 - de Dios,
 - de Su evaluación,
 - y de la calidad real de la obra.
@@ -2717,41 +2767,41 @@ permanece <u>siendo</u> el fundamento indispensable de toda verdadera edificaci�
 Si la obra de alguien es consumida *por el fuego,* sufrirá pérdida; sin embargo, él será salvo, aunque así como a través del fuego.
 
 #### Si la obra de alguien es consumida *por el fuego*
-##### Otra posibilidad es que la <u>obra</u> sea consumida por el fuego.
+##### Otra posibilidad es que la obra sea consumida por el fuego.
 
-##### Esto revela una obra que no <u>resistió</u> la prueba.
+##### Esto revela una obra que no resistió la prueba.
 
 ###### Aquello que:
 - parecía sólido,
 - impresionante,
-- o valioso
-puede finalmente no permanecer cuando sea <u>probado</u>.
+- o <u>valioso</u>
+puede finalmente no permanecer cuando sea probado.
 
 #### sufrirá pérdida
-##### El creyente <u>perderá</u> aquello que edificó.
+##### El creyente perderá aquello que edificó.
 
-##### Su <u>obra</u> será consumida completamente.
+##### Su obra será consumida completamente.
 
-###### Pablo muestra que <u>existe</u> una diferencia entre:
+###### Pablo muestra que existe una diferencia entre:
 - la persona,
 - y la calidad de aquello que construyó.
 
 #### sin embargo, él será salvo, aunque así como a través del fuego.
-##### Aunque la obra sea consumida, el creyente mismo será <u>salvo</u>.
+##### Aunque la obra sea consumida, el creyente mismo será salvo.
 
-##### El fuego prueba la calidad de la <u>obra</u> y no la realidad de la salvación.
+##### El fuego prueba la calidad de la obra y no la realidad de la salvación.
 
-##### El creyente puede <u>quedar</u> sin obra, pero aun así ser salvo.
+##### El creyente puede quedar sin obra, pero aun así ser salvo.
 
-###### La <u>salvación</u> continúa descansando:
+###### La salvación continúa descansando:
 - en Cristo,
-- y en el fundamento que <u>Dios</u> estableció.
+- y en el fundamento que Dios estableció.
 
-###### Sin embargo, <u>Pablo</u> deja claro que:
+###### Sin embargo, Pablo deja claro que:
 - la manera de edificar,
 - la calidad de la obra,
 - y la fidelidad sobre el fundamento
-siguen <u>siendo</u> profundamente importantes.
+siguen siendo profundamente importantes.
 
 ## 1 Corintios 3:16-17 - El templo de Dios es santo, y Dios destruye al que lo destruye
 
@@ -2759,108 +2809,115 @@ siguen <u>siendo</u> profundamente importantes.
 ¿No saben que ustedes son templo de Dios y que el Espíritu de Dios habita en ustedes?
 
 #### ¿No saben que ustedes son templo de Dios
-##### Esta es la primera de <u>varias</u> ocasiones donde Pablo apelará al conocimiento que los corintios ya poseen.
+##### Esta es la primera de varias ocasiones donde Pablo apelará al conocimiento que los corintios ya poseen.
 
-##### Pablo describe a los corintios como el <u>templo</u> de Dios.
+##### Pablo describe a los <u>corintios</u> como el templo de Dios.
 
-##### No está describiendo una experiencia, sino una realidad <u>acerca</u> de ellos.
+##### No está describiendo una experiencia, sino una realidad acerca de ellos.
 
-##### Pablo está hablando de la <u>iglesia</u> en Corinto colectivamente como el templo de Dios.
+##### Pablo está hablando de la iglesia en Corinto colectivamente como el templo de Dios.
 
-###### Pablo continúa recordándoles <u>aquello</u> que verdaderamente eran delante de Dios.
+###### Pablo continúa recordándoles aquello que verdaderamente eran delante de Dios.
 
-###### La iglesia en <u>Corinto</u> no era:
-- simplemente un <u>grupo</u> humano,
-- una asociación <u>religiosa</u>,
-- ni un conjunto de personas organizadas alrededor de determinados <u>líderes</u>.
+###### La iglesia en Corinto no era:
+- simplemente un grupo humano,
+- una asociación religiosa,
+- ni un conjunto de personas organizadas alrededor de determinados líderes.
 
 ###### Eran:
-- el <u>templo</u> de Dios,
-- el lugar donde <u>Dios</u> habitaba,
-- y una realidad perteneciente a Dios <u>mismo</u>.
+- el templo de Dios,
+- el lugar donde Dios habitaba,
+- y una realidad perteneciente a Dios mismo.
 
 #### y que el Espíritu de Dios habita en ustedes?
-##### No solamente son el <u>templo</u> de Dios, sino que el Espíritu de Dios habita en ellos.
+##### No solamente son el templo de Dios, sino que el Espíritu de Dios habita en ellos.
 
-###### La presencia del <u>Espíritu</u> no es presentada como algo:
+###### La presencia del Espíritu no es presentada como algo:
 - superficial,
 - ocasional,
 - ni externo.
 
-###### Dios mismo habitaba en <u>medio</u> de ellos por Su Espíritu.
+###### Dios mismo habitaba en medio de ellos por Su Espíritu.
 
-###### Esto hace todavía más profunda la <u>tensión</u> de todo lo que Pablo viene confrontando:
+###### Esto hace todavía más profunda la tensión de todo lo que Pablo viene confrontando:
 - divisiones,
 - rivalidades,
 - jactancia,
 - y maneras carnales de relacionarse
-estaban ocurriendo dentro del <u>templo</u> de Dios mismo.
+estaban ocurriendo dentro del templo de Dios mismo.
 
 ### 1 Corintios 3:17
 Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que ustedes son.
 
 #### Si alguno destruye el templo de Dios
-##### Pablo <u>habla</u> aquí de una realidad que estaba ocurriendo entre ellos.
+##### Pablo habla aquí de una realidad que estaba ocurriendo entre ellos.
 
-##### Las <u>divisiones</u> entre los corintios no eran un problema superficial.
+##### Las divisiones entre los corintios no eran un problema superficial.
 
-##### Pablo está concluyendo el argumento que ha <u>venido</u> desarrollando desde antes.
+##### Pablo está concluyendo el argumento que ha venido desarrollando desde antes.
 
-##### Las divisiones contra la <u>iglesia</u> eran finalmente contra el templo de Dios mismo.
+##### Las divisiones contra la iglesia eran finalmente contra el templo de Dios mismo.
 
-###### Aquello que probablemente <u>podía</u> parecer:
+###### Aquello que probablemente podía parecer:
 - competencia normal,
 - identificación con hombres,
 - rivalidad,
 - o discusiones dentro de una iglesia activa,
-Pablo ahora lo coloca bajo una luz completamente <u>distinta</u>.
+Pablo ahora lo coloca bajo una luz completamente distinta.
 
-###### La iglesia no era algo <u>común</u>.
+###### La iglesia no era algo común.
 
-###### Era el <u>templo</u> de Dios.
+###### Era el templo de Dios.
 
 #### Dios lo destruirá a él
-##### Dios mismo actuará <u>contra</u> quien destruye Su templo.
+##### Dios mismo actuará contra quien destruye Su templo.
 
-##### Pablo muestra que Dios no considera esto como algo <u>ligero</u>.
+##### Pablo muestra que Dios no considera esto como algo ligero.
 
-###### Pablo introduce aquí una advertencia extremadamente <u>seria</u>.
+###### Pablo introduce aquí una advertencia extremadamente seria.
 
-###### <u>Dios</u> no permanece indiferente cuando:
-- Su pueblo,
+###### Dios no permanece indiferente cuando:
+- Su <u>pueblo</u>,
 - Su templo,
 - y aquello que le pertenece
 es destruido.
 
 #### porque el templo de Dios es santo
-##### Dios <u>actúa</u> así porque Su templo es santo.
+##### Dios actúa así porque Su templo es santo.
 
-###### La santidad del <u>templo</u> no proviene:
+###### La santidad del templo no proviene:
 - del hombre,
 - ni de mérito humano,
-sino de la relación que tiene con <u>Dios</u> y con Su presencia.
+sino de la relación que tiene con Dios y con Su presencia.
 
-###### Esto vuelve a <u>dirigir</u> la atención:
-- hacia lo que Dios <u>había</u> hecho,
-- hacia <u>aquello</u> que pertenece a Dios,
-- y hacia la realidad espiritual que <u>existía</u> entre ellos.
+###### Esto vuelve a dirigir la atención:
+- hacia lo que Dios había hecho,
+- hacia aquello que pertenece a Dios,
+- y hacia la realidad espiritual que existía entre ellos.
 
 #### y eso es lo que ustedes son
-##### Pablo <u>vuelve</u> a recordarles quiénes son verdaderamente.
+##### Pablo vuelve a recordarles quiénes son verdaderamente.
 
-##### Las divisiones mostraban que no estaban tratando correctamente aquello que Dios <u>decía</u> que eran.
+##### Las divisiones mostraban que no estaban tratando correctamente aquello que Dios decía que eran.
 
-###### <u>Pablo</u> no termina simplemente condenando las divisiones.
+###### Pablo no termina simplemente condenando las divisiones.
 
-###### <u>Termina</u> recordándoles nuevamente:
+###### Termina recordándoles nuevamente:
 - quiénes eran,
 - qué compartían,
 - y aquello que Dios decía acerca de ellos.
 
-###### La tensión continúa <u>siendo</u> profunda porque:
-- mientras actuaban <u>según</u> rivalidades humanas,
-- seguían siendo el templo <u>santo</u> de Dios,
+###### La tensión continúa siendo profunda porque:
+- mientras actuaban según rivalidades humanas,
+- seguían siendo el templo santo de Dios,
 donde el Espíritu mismo habitaba.
+
+> En Síntesis
+>- Pablo dirige ahora la atención hacia la responsabilidad personal de cada creyente respecto a cómo edifica y vive sobre el único fundamento que es Jesucristo.
+>- Aunque todos edifican sobre el mismo fundamento, no toda obra posee la misma calidad ni resistirá de la misma manera cuando sea probada por Dios.
+>- El valor verdadero de la obra no será determinado por apariencia, reconocimiento humano o impacto visible, sino por aquello que permanezca después de la prueba del fuego.
+>- Pablo distingue entre la salvación del creyente y la calidad de la obra construida, mostrando que una obra puede perderse completamente mientras la salvación permanece en Cristo.
+>- La iglesia en Corinto es presentada colectivamente como el templo santo de Dios donde habita Su Espíritu, haciendo extremadamente serias las divisiones, rivalidades y destrucción dentro de ella.
 
 ## 1 Corintios 3:18-22 - La sabiduría y la gloria que existían entre los corintios
 
@@ -2868,180 +2925,180 @@ donde el Espíritu mismo habitaba.
 Nadie se engañe a sí mismo. Si alguien de ustedes se cree sabio según este mundo, hágase necio a fin de llegar a ser sabio.
 
 #### Nadie se engañe a sí mismo.
-##### Pablo da <u>otro</u> mandato a los corintios.
+##### Pablo da otro mandato a los corintios.
 
-##### Pablo no quiere que los creyentes vivan bajo una opinión engañosa <u>acerca</u> de sí mismos.
+##### Pablo no quiere que los creyentes vivan bajo una opinión engañosa acerca de sí <u>mismos</u>.
 
-###### La advertencia <u>ahora</u> se vuelve profundamente personal.
+###### La advertencia ahora se vuelve profundamente personal.
 
-###### El <u>problema</u> no era solamente:
+###### El problema no era solamente:
 - divisiones visibles,
 - discusiones,
 - o rivalidades.
 
-###### También <u>existía</u> una manera equivocada de:
+###### También existía una manera equivocada de:
 - percibirse,
 - evaluarse,
 - y comprenderse a sí mismos.
 
 #### Si alguien de ustedes se cree sabio según este mundo
-##### La sabiduría según este <u>mundo</u> producía una perspectiva equivocada de las cosas.
+##### La sabiduría según este mundo producía una perspectiva equivocada de las cosas.
 
-##### La opinión de uno mismo se <u>vuelve</u> engañosa cuando se basa en criterios humanos.
+##### La opinión de uno mismo se vuelve engañosa cuando se basa en criterios humanos.
 
-###### La sabiduría de este <u>mundo</u> podía parecer:
+###### La sabiduría de este mundo podía parecer:
 - elevada,
 - refinada,
 - admirable,
 - madura,
 - e incluso espiritualmente impresionante.
 
-###### Precisamente por eso el <u>engaño</u> era tan peligroso.
+###### Precisamente por eso el engaño era tan peligroso.
 
-###### Los <u>corintios</u> probablemente no se percibían:
+###### Los corintios probablemente no se percibían:
 - carnales,
 - inmaduros,
 - ni alejados de la realidad espiritual.
 
-###### Pablo <u>expone</u> que una persona puede:
+###### Pablo expone que una persona puede:
 - considerarse sabia,
 - espiritual,
 - o avanzada,
-y aun así seguir evaluando las cosas <u>según</u> criterios humanos.
+y aun así seguir evaluando las cosas según criterios humanos.
 
 #### hágase necio a fin de llegar a ser sabio.
-##### Pablo ordena abandonar la supuesta sabiduría de este <u>siglo</u>.
+##### Pablo ordena abandonar la supuesta sabiduría de este siglo.
 
-##### Solo dejando atrás esa sabiduría <u>humana</u> puede llegarse a la verdadera sabiduría.
+##### Solo dejando atrás esa sabiduría humana puede llegarse a la verdadera sabiduría.
 
-###### La verdadera sabiduría <u>exige</u> abandonar:
-- la autosuficiencia <u>humana</u>,
-- la <u>gloria</u> humana,
+###### La verdadera sabiduría exige abandonar:
+- la autosuficiencia humana,
+- la gloria humana,
 - y la manera humana de medir valor y grandeza.
 
-###### La <u>cruz</u> continúa destruyendo la sabiduría sobre la cual el hombre normalmente construye:
+###### La cruz continúa destruyendo la sabiduría sobre la cual el hombre normalmente construye:
 - identidad,
 - seguridad,
 - prestigio,
-- y superioridad.
+- y <u>superioridad</u>.
 
 ### 1 Corintios 3:19
 Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia».
 
 #### Porque la sabiduría de este mundo es necedad ante Dios.
-##### Lo que este <u>mundo</u> considera sabio es necedad delante de Dios.
+##### Lo que este mundo considera sabio es necedad delante de Dios.
 
-##### Los corintios estaban evaluando a las personas <u>según</u> criterios humanos.
+##### Los corintios estaban evaluando a las personas según criterios humanos.
 
-##### Eso siempre <u>produce</u> una perspectiva equivocada de la realidad.
+##### Eso siempre produce una perspectiva equivocada de la realidad.
 
-##### La competencia y superioridad entre unos y otros no pertenecían a la <u>realidad</u> del cuerpo de Cristo.
+##### La competencia y superioridad entre unos y otros no pertenecían a la realidad del cuerpo de Cristo.
 
-###### <u>Pablo</u> continúa invirtiendo completamente:
-- los criterios humanos,
+###### Pablo continúa invirtiendo completamente:
+- los criterios <u>humanos</u>,
 - las valoraciones humanas,
 - y la manera humana de medir importancia.
 
-###### Aquello que normalmente <u>produce</u>:
+###### Aquello que normalmente produce:
 - admiración,
 - reconocimiento,
 - prestigio,
 - y sensación de superioridad
-permanece siendo necedad <u>delante</u> de Dios.
+permanece siendo necedad delante de Dios.
 
 #### Pues escrito está: *«Él es* el que prende a los sabios en su *propia* astucia».
-##### Dios <u>deja</u> en evidencia la supuesta sabiduría humana atrapándola en su propia astucia.
+##### Dios deja en evidencia la supuesta sabiduría humana atrapándola en su propia astucia.
 
-###### La sabiduría <u>humana</u>:
+###### La sabiduría humana:
 - no supera a Dios,
 - no corrige a Dios,
-- ni puede colocarse por <u>encima</u> de la sabiduría de Dios.
+- ni puede colocarse por encima de la sabiduría de Dios.
 
-###### Finalmente queda atrapada <u>dentro</u> de sus propios límites.
+###### Finalmente queda atrapada dentro de sus propios límites.
 
 ### 1 Corintios 3:20
 Y también: «El Señor conoce los razonamientos de los sabios, los cuales son inútiles».
 
 #### Y también: «El Señor conoce los razonamientos de los sabios, los cuales son inútiles».
-##### Dios <u>conoce</u> los razonamientos humanos.
+##### Dios conoce los razonamientos humanos.
 
-##### Pablo describe esos razonamientos como <u>inútiles</u> y vacíos delante de Dios.
+##### Pablo describe esos razonamientos como inútiles y vacíos delante de Dios.
 
-###### <u>Pablo</u> continúa desmontando:
-- la confianza en la capacidad <u>humana</u>,
-- la <u>gloria</u> intelectual,
-- y la seguridad producida por <u>sabiduría</u> humana.
+###### Pablo continúa desmontando:
+- la confianza en la capacidad humana,
+- la gloria intelectual,
+- y la seguridad producida por sabiduría humana.
 
 ###### Los razonamientos que:
 - parecen profundos,
 - impresionantes,
-- o superiores
-no permanecen firmes <u>delante</u> de Dios.
+- o <u>superiores</u>
+no permanecen firmes delante de Dios.
 
 ### 1 Corintios 3:21
 Así que nadie se jacte en los hombres, porque todo es de ustedes
 
 #### Así que nadie se jacte en los hombres
-##### Pablo ahora presenta una conclusión <u>práctica</u>.
+##### Pablo ahora presenta una conclusión práctica.
 
-##### Ningún hombre es una *razón* <u>legítima</u> para gloriarse.
+##### Ningún hombre es una razón legítima para gloriarse.
 
-##### Los <u>corintios</u> estaban jactándose en hombres que finalmente eran solamente servidores.
+##### Los corintios estaban jactándose en hombres que finalmente eran solamente servidores.
 
-##### La jactancia en hombres era una expresión <u>vacía</u>.
+##### La jactancia en hombres era <u>una</u> expresión vacía.
 
-###### Pablo concluye toda la sección regresando nuevamente al <u>mismo</u> problema:
+###### Pablo concluye toda la sección regresando nuevamente al mismo problema:
 - la exaltación de hombres,
 - las identificaciones humanas,
 - y la gloria centrada en hombres.
 
-###### La <u>iglesia</u> no podía seguir organizando:
-- valor,
+###### La iglesia no podía seguir organizando:
+- <u>valor</u>,
 - identidad,
 - ni espiritualidad
-alrededor de hombres.
+<u>alrededor</u> de hombres.
 
 #### porque todo es de ustedes:
-##### Pablo da una <u>razón</u> sorprendente: todo pertenece a los creyentes.
+##### Pablo da una razón sorprendente: todo pertenece a los creyentes.
 
-###### La <u>lógica</u> de Pablo destruye completamente:
+###### La lógica de Pablo destruye completamente:
 - rivalidad,
 - competencia,
 - y sentido de posesión exclusiva.
 
-###### Los corintios <u>estaban</u> actuando:
-- como si unos poseyeran más que <u>otros</u>,
-- o como si ciertos hombres pertenecieran solamente a determinados <u>grupos</u>.
+###### Los corintios estaban actuando:
+- como si unos poseyeran más que otros,
+- o como si ciertos hombres pertenecieran solamente a determinados grupos.
 
-###### Pablo responde mostrando la amplitud de aquello que ya <u>poseen</u> en Cristo.
+###### Pablo responde mostrando la amplitud de aquello que ya poseen en Cristo.
 
 ### 1 Corintios 3:22
-ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, todo es suyo
+ya sea Pablo, o Apolos, o Cefas, o el mundo, o la vida, o la muerte, o lo presente, o lo por venir, <u>todo</u> es suyo
 
-##### Pablo, Apolos y <u>Cefas</u> pertenecían a los corintios.
+##### Pablo, Apolos y Cefas pertenecían a los corintios.
 
-##### Pablo <u>amplía</u> la lista hasta hacerla absoluta.
+##### Pablo amplía la lista hasta hacerla absoluta.
 
-##### Si todo les pertenecía, no tenía <u>sentido</u> competir unos contra otros.
+##### Si todo les pertenecía, no tenía sentido competir unos contra otros.
 
-###### Los <u>hombres</u> en quienes se estaban jactando:
+###### Los hombres en quienes se estaban jactando:
 - no eran dueños de ellos,
 - ni motivo de división.
 
-###### Eran servidores <u>dados</u> para beneficio del pueblo de Dios.
+###### Eran servidores dados para beneficio del pueblo de Dios.
 
-###### Pablo <u>expande</u> la realidad todavía más:
+###### Pablo expande la realidad todavía más:
 - el mundo,
 - la vida,
 - la muerte,
 - lo presente,
 - y lo por venir.
 
-###### La <u>amplitud</u> de esta declaración hace que:
+###### La amplitud de esta declaración hace que:
 - las rivalidades humanas,
 - las competencias,
 - y las divisiones
-parezcan pequeñas y <u>absurdas</u> frente a la realidad que los creyentes ya poseen en Cristo.
+parezcan pequeñas y absurdas frente a la realidad que los creyentes ya poseen en Cristo.
 
 ## 3:23-4:5 Pablo redefine la manera correcta de considerar a los siervos, el juicio y la gloria
 
@@ -3049,44 +3106,44 @@ parezcan pequeñas y <u>absurdas</u> frente a la realidad que los creyentes ya p
 y ustedes de Cristo, y Cristo de Dios.
 
 #### y ustedes de Cristo
-##### Aunque todo es de los creyentes, ellos <u>mismos</u> pertenecen a Cristo.
+##### Aunque todo es de los creyentes, ellos mismos pertenecen a Cristo.
 
 ###### Pablo <u>evita</u> que los corintios interpreten incorrectamente la afirmación anterior:
 - “todo es suyo”.
 
-###### Los <u>creyentes</u>:
+###### Los creyentes:
 - no son autónomos,
 - ni independientes,
 - ni el centro final de la realidad.
 
-###### Continúan perteneciendo a <u>Cristo</u>.
+###### Continúan perteneciendo a Cristo.
 
 #### y Cristo de Dios.
-##### Pablo termina mostrando el orden <u>final</u>: Cristo pertenece a Dios.
+##### Pablo termina mostrando el orden final: Cristo pertenece a Dios.
 
-###### Toda la <u>sección</u> continúa desplazando:
+###### Toda la sección continúa desplazando:
 - la gloria,
 - la pertenencia,
 - y la centralidad
 lejos del hombre y hacia Dios.
 
-###### Pablo <u>concluye</u> el argumento mostrando nuevamente que:
+###### Pablo concluye el argumento mostrando nuevamente que:
 - el hombre no ocupa el centro,
 - ni los siervos,
-- ni los grupos,
+- ni los <u>grupos</u>,
 - ni las identificaciones humanas.
 
 ### 1 Corintios 4:1
 Que *todo* hombre nos considere de esta manera: como servidores de Cristo y administradores de los misterios de Dios.
 
 #### Que *todo* hombre nos considere de esta manera
-##### Pablo ahora da instrucciones sobre cómo <u>deben</u> considerar a otros.
+##### Pablo ahora da instrucciones sobre cómo deben considerar a otros.
 
-##### Específicamente, cómo <u>debían</u> ver a Pablo, Apolos y a quienes servían como ellos.
+##### Específicamente, cómo debían ver a Pablo, Apolos y a quienes servían como ellos.
 
-###### Pablo comienza a corregir directamente la manera en que los corintios estaban evaluando a los siervos de <u>Dios</u>.
+###### Pablo comienza a corregir directamente la manera en que los corintios estaban evaluando a los siervos de Dios.
 
-###### La <u>percepción</u> equivocada de:
+###### La percepción equivocada de:
 - Pablo,
 - Apolos,
 - y otros servidores
@@ -3096,94 +3153,94 @@ había producido:
 - y exaltación humana.
 
 #### como servidores de Cristo y administradores de los misterios de Dios.
-##### Pablo ya había <u>dicho</u> que eran servidores. Ahora añade que también son administradores.
+##### Pablo ya había dicho que eran servidores. Ahora añade que también son administradores.
 
-##### Son personas encargadas de <u>cuidar</u> y administrar algo que les fue dado.
+##### Son personas encargadas de cuidar y administrar algo que les fue dado.
 
-##### Pablo no solamente <u>define</u> lo que son, sino también cómo los corintios debían pensar acerca de ellos.
+##### Pablo no solamente define lo que son, sino también cómo los corintios debían pensar acerca de ellos.
 
-##### Los corintios decían ser de <u>Pablo</u> o de Apolos, pero realmente no estaban viendo correctamente a ninguno de los dos.
+##### Los corintios decían ser de Pablo o de Apolos, pero realmente no estaban viendo correctamente a ninguno de los dos.
 
-###### Los <u>siervos</u>:
-- no pertenecían a determinados <u>grupos</u>,
-- no eran <u>figuras</u> para exaltación personal,
-- ni fundamentos de identidad <u>espiritual</u>.
+###### Los siervos:
+- no pertenecían a determinados grupos,
+- no eran figuras para exaltación personal,
+- ni fundamentos de identidad espiritual.
 
 ###### Eran:
-- servidores de <u>Cristo</u>,
-- y administradores de aquello que pertenecía a <u>Dios</u>.
+- servidores de Cristo,
+- y administradores de aquello que pertenecía a Dios.
 
 ### 1 Corintios 4:2
 Ahora bien, lo que se requiere además de los administradores es que *cada* uno sea hallado fiel.
 
 #### Ahora bien, lo que se requiere además de los administradores
-##### "se requiere" está en <u>tiempo</u> presente.
+##### "se requiere" está en tiempo presente.
 
-##### Esto es algo que Dios está requiriendo ahora <u>mismo</u> de Sus administradores.
+##### Esto es algo que Dios está requiriendo ahora mismo de Sus administradores.
 
-###### Pablo continúa desplazando los <u>criterios</u> de evaluación.
+###### Pablo continúa desplazando los criterios de evaluación.
 
-###### Lo <u>importante</u> no era:
-- fama,
+###### Lo importante no era:
+- <u>fama</u>,
 - reconocimiento,
 - superioridad,
 - ni popularidad.
 
-###### La verdadera evaluación provenía de aquello que <u>Dios</u> requería.
+###### La verdadera evaluación provenía de <u>aquello</u> que Dios requería.
 
 #### es que *cada* uno sea hallado fiel.
-##### Lo que Dios <u>busca</u> no es productividad ni grandeza humana, sino fidelidad.
+##### Lo que Dios busca no es productividad ni grandeza humana, sino fidelidad.
 
-##### Los administradores <u>cuidan</u> algo que no les pertenece.
+##### Los administradores cuidan algo que no les pertenece.
 
-###### Pablo ya mostró que <u>recibió</u> el mensaje que predicaba.
+###### Pablo ya mostró que recibió el mensaje que predicaba.
 
-###### También mostró que trabajaba en un <u>edificio</u> que pertenecía a Dios.
+###### También mostró que trabajaba en un edificio que pertenecía a Dios.
 
-###### Su <u>labor</u> era proclamar y enseñar el evangelio a quienes Dios le daba oportunidad de hacerlo.
+###### Su labor era proclamar y enseñar el evangelio a quienes Dios le daba oportunidad de hacerlo.
 
-###### Esto confronta profundamente una mentalidad <u>centrada</u> en:
+###### Esto confronta profundamente una mentalidad centrada en:
 - prestigio,
 - comparación,
 - éxito visible,
 - o exaltación humana.
 
-###### La fidelidad delante de <u>Dios</u> se vuelve mucho más importante que:
-- la impresión producida delante de los <u>hombres</u>.
+###### La fidelidad delante de Dios se vuelve mucho más importante que:
+- la <u>impresión</u> producida delante de los hombres.
 
 ### 1 Corintios 4:3
 En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano. De hecho, ni aun yo me juzgo a mí mismo.
 
 #### En cuanto a mí, es de poca importancia que yo sea juzgado por ustedes o por *cualquier* tribunal humano.
-##### Pablo no considera determinante el <u>juicio</u> humano.
+##### Pablo no considera determinante el juicio humano.
 
-##### La opinión de los corintios y la de cualquier otra <u>persona</u> tenía muy poca importancia para él.
+##### La opinión de los corintios y la de cualquier otra persona tenía muy poca importancia para él.
 
-##### Pablo no estaba sirviendo para <u>obtener</u> aprobación humana.
+##### Pablo no estaba sirviendo para obtener aprobación humana.
 
-##### Pablo no rechaza completamente el examen que otros hacen de su <u>vida</u>, pero sí afirma que no es lo más importante.
+##### Pablo no rechaza completamente el examen que otros hacen de su vida, pero sí afirma que no es lo más importante.
 
-###### En una <u>iglesia</u> donde:
+###### En una iglesia donde:
 - las comparaciones,
 - las preferencias,
 - y las evaluaciones humanas
 parecían tener tanto peso,
-Pablo comienza a destruir la importancia absoluta del <u>juicio</u> humano.
+Pablo comienza a destruir la importancia absoluta del juicio humano.
 
-###### La <u>verdadera</u> evaluación no pertenecía:
+###### La verdadera evaluación no pertenecía:
 - a los grupos,
 - a las opiniones humanas,
 - ni a los criterios humanos de valoración.
 
 #### De hecho, ni aun yo me juzgo a mí mismo.
-##### Ni siquiera Pablo se consideraba a sí mismo como el <u>juez</u> definitivo de su propia vida.
+##### Ni siquiera Pablo se consideraba a sí mismo como el juez definitivo de su propia vida.
 
 ###### Pablo no reemplaza:
-- el juicio de otros
+- el juicio de <u>otros</u>
 por:
 - una confianza absoluta en sí mismo.
 
-###### Ni la percepción <u>humana</u> de otros,
+###### Ni la percepción humana de otros,
 ni la autoevaluación personal,
 constituyen el juicio definitivo.
 
@@ -3191,37 +3248,37 @@ constituyen el juicio definitivo.
 Porque no estoy consciente de nada en contra mía. Pero no por eso estoy sin culpa, pues el que me juzga es el Señor.
 
 #### Porque no estoy consciente de nada en contra mía.
-##### Pablo <u>afirma</u> que no está consciente de algo en contra suyo. 2 Timoteo 1:3
+##### Pablo afirma que no está consciente de algo en contra suyo. 2 Timoteo 1:3
 
-###### <u>Pablo</u> no está defendiendo:
-- perfección absoluta,
+###### Pablo no está defendiendo:
+- perfección <u>absoluta</u>,
 - ni impecabilidad personal.
 
-###### Simplemente <u>afirma</u> que no conoce algo específico contra sí mismo.
+###### Simplemente afirma que no conoce algo específico contra sí mismo.
 
 #### Pero no por eso estoy sin culpa
-##### Aunque Pablo no estuviera consciente de algo <u>malo</u>, eso no significaba automáticamente que fuera irreprensible.
+##### Aunque Pablo no estuviera consciente de algo malo, eso no significaba automáticamente que fuera irreprensible.
 
-##### Pablo reconoce que <u>podría</u> no verse correctamente a sí mismo.
+##### Pablo reconoce que podría no verse correctamente a sí mismo.
 
-###### Esto vuelve a <u>destruir</u> la autosuficiencia humana incluso en la evaluación personal.
+###### Esto vuelve a destruir la autosuficiencia humana incluso en la evaluación personal.
 
-###### El <u>hombre</u>:
+###### El hombre:
 - puede engañarse,
 - puede percibirse incorrectamente,
 - y puede no comprenderse completamente a sí mismo.
 
 #### pues el que me juzga es el Señor.
-##### Ni la <u>opinión</u> de otros ni la suya propia eran el juicio definitivo.
+##### Ni la opinión de otros ni la suya propia eran el juicio definitivo.
 
-##### El Señor es <u>quien</u> verdaderamente juzga a Pablo.
+##### El Señor es quien verdaderamente juzga a Pablo.
 
-###### Toda la <u>sección</u> continúa desplazando:
+###### Toda la sección continúa desplazando:
 - juicio,
-- evaluación,
+- <u>evaluación</u>,
 - gloria,
 - y validación
-hacia el Señor y no <u>hacia</u> el hombre.
+hacia el Señor y no hacia el hombre.
 
 ### 1 Corintios 4:5
 Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga, el cual sacará a la luz las cosas ocultas en las tinieblas y también pondrá de manifiesto los designios de los corazones. Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
@@ -3229,67 +3286,74 @@ Por tanto, no juzguen antes de tiempo, *sino esperen* hasta que el Señor venga,
 #### Por tanto, no juzguen antes de tiempo
 ##### Pablo da ahora otro mandato a los corintios.
 
-##### Todavía no es tiempo de <u>actuar</u> como jueces definitivos sobre los demás.
+##### Todavía no es tiempo de actuar como jueces definitivos sobre los demás.
 
-###### Los <u>corintios</u> parecían estar:
+###### Los corintios parecían estar:
 - evaluando,
 - comparando,
 - exaltando,
 - y clasificando
-a los hombres según <u>criterios</u> humanos.
+a los hombres según criterios humanos.
 
-###### Pablo <u>limita</u> profundamente esa clase de juicio humano.
+###### Pablo limita profundamente esa clase de juicio humano.
 
 #### *sino esperen* hasta que el Señor venga
-##### Cuando el <u>Señor</u> venga será el momento del juicio apropiado.
+##### Cuando el Señor venga será el momento del juicio apropiado.
 
-##### Pablo <u>vuelve</u> a recordar la futura venida del Señor.
+##### Pablo vuelve a recordar la futura venida del Señor.
 
-###### El <u>juicio</u> definitivo permanece ligado:
-- al Señor,
+###### El juicio definitivo permanece ligado:
+- al <u>Señor</u>,
 - a Su venida,
 - y a Su revelación futura.
 
 #### el cual sacará a la luz las cosas ocultas en las tinieblas
 ##### El Señor podrá realizar un juicio completamente objetivo.
 
-##### Todo quedará expuesto <u>delante</u> de Él.
+##### Todo quedará expuesto delante de Él.
 
-##### Puede haber cosas ocultas ahora, pero no permanecerán <u>ocultas</u> cuando el Señor venga.
+##### Puede haber cosas ocultas ahora, pero no permanecerán ocultas cuando el Señor venga.
 
-###### <u>Aquello</u> que:
-- el <u>hombre</u> no puede ver,
-- no <u>puede</u> comprender,
+###### Aquello que:
+- el hombre no puede ver,
+- no puede comprender,
 - o no puede evaluar correctamente,
-será completamente manifestado por el <u>Señor</u>.
+será completamente manifestado por el Señor.
 
 #### y también pondrá de manifiesto los designios de los corazones.
 ##### El Señor también <u>revelará</u> las intenciones de los corazones.
 
-##### <u>Dios</u> está interesado en las motivaciones de quienes le sirven.
+##### Dios está interesado en las motivaciones de quienes le sirven.
 
-###### La evaluación <u>final</u> no descansará solamente:
+###### La evaluación final no descansará solamente:
 - en apariencia externa,
 - actividad visible,
 - ni impresión humana.
 
-###### El Señor revelará <u>incluso</u> aquello que permanece oculto en el corazón.
+###### El Señor revelará incluso aquello que permanece oculto en el corazón.
 
 #### Entonces cada uno recibirá de parte de Dios la alabanza que le corresponda.
-##### La alabanza apropiada vendrá después del <u>juicio</u> y manifestación realizados por Dios.
+##### La alabanza apropiada vendrá después del juicio y manifestación realizados por Dios.
 
-###### La <u>gloria</u> verdadera:
+###### La gloria verdadera:
 - no proviene finalmente de hombres,
 - ni de grupos,
-- ni de reconocimiento humano.
+- ni de <u>reconocimiento</u> humano.
 
 ###### Proviene de Dios mismo.
 
-###### Esto concluye toda la <u>sección</u> mostrando que:
+###### Esto concluye toda la sección mostrando que:
 - la evaluación correcta,
 - la gloria correcta,
 - y la alabanza correcta
 pertenecen finalmente al Señor y no al hombre.
+
+> En Síntesis
+>- Pablo confronta el autoengaño producido por la sabiduría humana, mostrando que la verdadera sabiduría solamente puede encontrarse abandonando los criterios de valoración de este mundo.
+>- La sabiduría, la gloria y las comparaciones humanas quedan completamente vacías delante de Dios, quien conoce y expone la inutilidad de los razonamientos humanos.
+>- Los creyentes no deben jactarse en hombres porque todo les pertenece en Cristo, mientras ellos mismos continúan perteneciendo a Cristo y Cristo a Dios.
+>- Pablo redefine correctamente a los siervos de Dios como simples servidores y administradores cuya responsabilidad principal es ser hallados fieles delante del Señor.
+>- La evaluación, el juicio y la verdadera alabanza no pertenecen finalmente al hombre, sino al Señor, quien revelará plenamente las obras, motivaciones e intenciones cuando venga.
 
 ## 4:6-13 La percepción que los corintios tenían de sí mismos y de los apóstoles
 
@@ -3297,51 +3361,51 @@ pertenecen finalmente al Señor y no al hombre.
 Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes, para que en nosotros aprendan a no sobrepasar lo que está escrito, para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
 
 #### Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por amor a ustedes
-##### Pablo <u>aplica</u> estas cosas a sí mismo y a Apolos por amor a los corintios.
+##### Pablo aplica estas cosas a sí <u>mismo</u> y a Apolos por amor a los corintios.
 
-##### Tanto su condición de servidores como el <u>hecho</u> de ser juzgados por Dios fueron usados como ejemplo para ellos.
+##### Tanto su condición de servidores como el hecho de ser juzgados por Dios fueron usados como ejemplo para ellos.
 
-###### Pablo no estaba <u>usando</u> a Pablo y a Apolos:
+###### Pablo no estaba usando a Pablo y a Apolos:
 - para exaltarlos,
 - ni para crear nuevos grupos,
 - sino para enseñar a los corintios a pensar correctamente.
 
-###### Incluso la corrección <u>surge</u>:
+###### Incluso la corrección surge:
 - por amor,
 - y para beneficio de ellos.
 
 #### para que en nosotros aprendan a no sobrepasar lo que está escrito
-##### El propósito de Pablo es que los <u>corintios</u> aprendan.
+##### El propósito de Pablo es que los corintios aprendan.
 
-##### Pablo se usó a sí mismo y a Apolos como <u>ejemplo</u> para ellos.
+##### Pablo se usó a sí mismo y a Apolos como ejemplo para ellos.
 
-##### Los corintios estaban confundidos en <u>cuanto</u> a ellos mismos y en cuanto a los servidores de Dios.
+##### Los corintios estaban confundidos en cuanto a ellos mismos y en cuanto a los servidores de Dios.
 
-##### Su manera de <u>pensar</u> no debía sobrepasar lo que estaba escrito.
+##### Su manera de pensar no debía sobrepasar lo que estaba escrito.
 
-###### <u>Pablo</u> continúa confrontando:
+###### Pablo continúa confrontando:
 - la autosuficiencia,
-- la percepción inflada,
-- y la tendencia humana de construir criterios <u>propios</u>.
+- la <u>percepción</u> inflada,
+- y la tendencia humana de construir criterios propios.
 
-###### La espiritualidad verdadera no <u>podía</u> definirse:
+###### La espiritualidad verdadera no podía definirse:
 - por impresiones humanas,
 - por preferencias personales,
-- ni por razonamientos que excedieran aquello que Dios *había* <u>revelado</u>.
+- ni por razonamientos que excedieran aquello que Dios había revelado.
 
 #### para que ninguno de ustedes se vuelva arrogante a favor del uno contra el otro.
-##### Sobrepasar lo que estaba <u>escrito</u> produciría arrogancia y rivalidad entre ellos.
+##### Sobrepasar lo que estaba escrito produciría arrogancia y rivalidad entre ellos.
 
-##### Los corintios necesitaban <u>dejar</u> de verse como superiores unos sobre otros.
+##### Los corintios necesitaban dejar de verse como superiores unos sobre otros.
 
-##### Los engaños que habían <u>creído</u> los habían inflado contra sus hermanos y esto estaba produciendo divisiones.
+##### Los engaños que habían creído los habían inflado contra sus hermanos y esto estaba produciendo divisiones.
 
-###### La <u>arrogancia</u> no estaba produciendo:
+###### La arrogancia no estaba produciendo:
 - unidad,
 - amor,
-- ni verdadera madurez espiritual.
+- ni verdadera <u>madurez</u> espiritual.
 
-###### <u>Estaba</u> produciendo:
+###### Estaba produciendo:
 - competencia,
 - comparación,
 - superioridad,
@@ -3351,112 +3415,112 @@ Esto, hermanos, lo he aplicado en sentido figurado a mí mismo y a Apolos por am
 Porque ¿quién te distingue? ¿Qué tienes que no recibiste? Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
 
 #### Porque ¿quién te distingue?
-##### Los corintios estaban haciendo distinciones entre ellos <u>mismos</u>.
+##### Los corintios estaban haciendo distinciones entre ellos mismos.
 
-##### Pablo <u>pregunta</u> quién hace tal distinción entre ellos.
+##### Pablo pregunta quién <u>hace</u> tal distinción entre ellos.
 
-###### Pablo cuestiona la <u>base</u> sobre la cual estaban haciendo diferencias entre unos y otros.
+###### Pablo cuestiona la base sobre la cual estaban haciendo diferencias entre unos y otros.
 
 ###### Los <u>corintios</u> parecían estar:
 - clasificándose,
 - midiéndose,
 - y evaluándose
-según <u>criterios</u> humanos de superioridad.
+según criterios humanos de superioridad.
 
 #### ¿Qué tienes que no recibiste?
-##### Pablo ya había dicho <u>antes</u> que todas las cosas eran de ellos.
+##### Pablo ya había dicho antes que todas las cosas eran de ellos.
 
-##### Ahora recuerda que todo lo que <u>tenían</u> lo habían recibido.
+##### Ahora recuerda que todo lo que tenían lo habían recibido.
 
-##### Todo lo que <u>poseían</u> había sido dado gratuitamente por Dios. 1 Corintios 2:12
+##### Todo lo que poseían había sido dado gratuitamente por Dios. 1 Corintios 2:12
 
-##### Si los corintios pensaban conforme a la <u>verdad</u>, entenderían que nada de lo que tenían había sido ganado por mérito propio.
+##### Si los corintios pensaban conforme a la verdad, entenderían que nada de lo que tenían había sido ganado por mérito propio.
 
 ###### La gracia es la <u>única</u> perspectiva correcta para comprender la vida en Cristo.
 
-###### Esto <u>destruye</u> completamente:
+###### Esto destruye completamente:
 - la autosuficiencia,
 - la superioridad personal,
-- y toda razón válida para exaltarse <u>sobre</u> otros.
+- y toda razón válida para exaltarse sobre otros.
 
 #### Y si lo recibiste, ¿por qué te jactas como si no lo hubieras recibido?
-##### Pablo <u>parte</u> del hecho de que efectivamente lo recibieron.
+##### Pablo parte del <u>hecho</u> de que efectivamente lo recibieron.
 
-##### La jactancia <u>surge</u> cuando alguien deja de ver las cosas como recibidas por gracia.
+##### La jactancia surge cuando alguien deja de ver las cosas como recibidas por gracia.
 
-##### Cuando la vida es entendida como un regalo y no como un <u>mérito</u>, desaparece todo motivo de jactancia.
+##### Cuando la vida es entendida como un regalo y no como un mérito, desaparece todo motivo de jactancia.
 
-###### Cuando <u>alguien</u> comienza a definir:
+###### Cuando alguien comienza a definir:
 - su identidad,
-- su valor,
+- su <u>valor</u>,
 - o su importancia
 por aquello que hace,
 y no por aquello que recibió en Cristo,
-inevitablemente comienza a <u>inflarse</u> contra otros.
+inevitablemente comienza a inflarse contra otros.
 
 ### 1 Corintios 4:8
 Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros. Ojalá hubieran llegado a reinar, para que nosotros reináramos también con ustedes.
 
 #### Ya están saciados, ya se han hecho ricos, *ya* han llegado a reinar sin *necesidad de* nosotros.
-##### Pablo describe aquí la <u>opinión</u> que los corintios tenían de sí mismos.
+##### Pablo describe aquí la opinión que los corintios <u>tenían</u> de sí mismos.
 
-##### El "nosotros" <u>hace</u> referencia a los apóstoles.
+##### El "nosotros" hace referencia a los apóstoles.
 
-##### Los corintios <u>actuaban</u> como si ya no necesitaran a los apóstoles.
+##### Los corintios actuaban como si ya no necesitaran a los apóstoles.
 
-##### Estas expresiones <u>revelan</u> lo inflados y autosuficientes que se habían vuelto.
+##### Estas expresiones revelan lo inflados y autosuficientes que se habían vuelto.
 
-###### Esta es una de las ventanas más claras <u>hacia</u> la manera en que los corintios se estaban percibiendo a sí mismos.
+###### Esta es una de las ventanas más claras hacia la manera en que los corintios se estaban percibiendo a sí mismos.
 
-###### No parecen <u>verse</u>:
-- débiles,
+###### No parecen verse:
+- <u>débiles</u>,
 - necesitados,
 - ni inmaduros.
 
-###### Se <u>perciben</u>:
+###### Se perciben:
 - ricos,
 - satisfechos,
 - reinando,
-- y espiritualmente <u>elevados</u>.
+- y espiritualmente elevados.
 
-###### Precisamente por eso la <u>tensión</u> de la carta es tan profunda.
+###### Precisamente por eso la tensión de la carta es tan profunda.
 
-###### Los <u>corintios</u> no parecen sentirse:
+###### Los corintios no parecen sentirse:
 - fríos,
-- alejados,
+- <u>alejados</u>,
 - ni carentes de espiritualidad.
 
-###### Se perciben avanzados y <u>fuertes</u>.
+###### Se perciben avanzados y fuertes.
 
 #### Ojalá hubieran llegado a reinar
 ##### Esta expresión deja claro que la percepción de los corintios no correspondía a la realidad.
 
-##### Pablo sí <u>desea</u> esto para ellos, aunque todavía no fuera verdad.
+##### Pablo sí desea esto para ellos, aunque todavía no fuera verdad.
 
 ###### Pablo no desprecia la realidad <u>futura</u> de gloria y reinado con Cristo.
 
-###### Lo que <u>confronta</u> es:
+###### Lo que confronta es:
 - la percepción adelantada,
 - autosuficiente,
 - y triunfalista
-que los corintios ya estaban adoptando <u>acerca</u> de sí mismos.
+que los corintios ya estaban adoptando acerca de sí mismos.
 
 #### para que nosotros reináramos también con ustedes.
-##### Si los corintios ya estuvieran <u>reinando</u>, entonces los apóstoles también estarían reinando con ellos.
+##### Si los corintios ya estuvieran reinando, entonces los apóstoles también estarían reinando con ellos.
 
-###### El contraste con la realidad apostólica comienza a <u>dejar</u> expuesta la desconexión de la percepción corintia.
+###### El contraste con la realidad apostólica comienza a dejar expuesta la desconexión de la percepción corintia.
 
 ### 1 Corintios 4:9
 Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte. Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
 
 #### Porque pienso que Dios nos ha exhibido a nosotros los apóstoles en último lugar, como a sentenciados a muerte.
-##### Pablo <u>expresa</u> cómo considera la situación de los apóstoles.
+##### Pablo expresa cómo considera la situación de los apóstoles.
 
-##### Dios los <u>había</u> expuesto como personas destinadas a muerte.
+##### Dios los había expuesto <u>como</u> personas destinadas a muerte.
 
-###### El contraste con la percepción triunfal de los corintios ahora se <u>vuelve</u> extremo.
+###### El contraste con la percepción triunfal de los corintios ahora se vuelve extremo.
 
-###### <u>Mientras</u> los corintios se perciben:
+###### Mientras los corintios se perciben:
 - reinando,
 - fuertes,
 - y distinguidos,
@@ -3465,133 +3529,133 @@ los apóstoles aparecen:
 - humillados,
 - y sentenciados a muerte.
 
-###### Pablo incluso afirma que esto <u>ocurrió</u>:
-- por disposición de Dios.
+###### Pablo incluso afirma que esto ocurrió:
+- por disposición de <u>Dios</u>.
 
 #### Porque hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los hombres.
-##### Pablo explica por qué <u>piensa</u> de esa manera.
+##### Pablo explica por qué piensa de esa manera.
 
-##### Los apóstoles <u>habían</u> llegado a ser un espectáculo público.
+##### Los apóstoles habían llegado a ser un espectáculo público.
 
-##### Tanto hombres como <u>ángeles</u> contemplaban lo que sucedía con ellos.
+##### Tanto hombres como ángeles contemplaban lo que sucedía con ellos.
 
-##### Llegaron a ser esto no porque lo buscaran, sino porque así fue dispuesto por <u>Dios</u>.
+##### Llegaron a ser esto no porque lo buscaran, sino porque así fue dispuesto por Dios.
 
-###### La verdadera <u>vida</u> apostólica no correspondía:
+###### La verdadera vida apostólica no correspondía:
 - a prestigio,
-- comodidad,
+- <u>comodidad</u>,
 - exaltación,
 - ni gloria humana visible.
 
-###### Esto confrontaba profundamente la manera <u>triunfal</u> en que los corintios estaban interpretando la espiritualidad.
+###### Esto confrontaba profundamente la manera triunfal en que los corintios estaban interpretando la espiritualidad.
 
 ### 1 Corintios 4:10
 Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo. Nosotros somos débiles, pero ustedes, fuertes. Ustedes son distinguidos, pero nosotros, sin honra.
 
 #### Nosotros somos necios por amor de Cristo, pero ustedes, prudentes en Cristo.
-##### Pablo dice que los apóstoles son considerados <u>necios</u> por causa de Cristo.
+##### Pablo dice que los <u>apóstoles</u> son considerados necios por causa de Cristo.
 
-##### En contraste, los corintios se <u>veían</u> a sí mismos como prudentes en Cristo.
+##### En contraste, los corintios se veían a sí mismos como prudentes en Cristo.
 
-##### Pablo <u>utiliza</u> distintas expresiones para mostrar el contraste.
+##### Pablo utiliza distintas expresiones para mostrar el contraste.
 
-##### Los apóstoles aceptaban ser <u>vistos</u> de cierta manera por causa de Cristo.
+##### Los apóstoles aceptaban ser vistos de cierta manera por causa de Cristo.
 
-###### Pablo expone aquí, con fuerte <u>ironía</u>, la diferencia entre:
-- la percepción de los corintios,
+###### Pablo expone aquí, con fuerte ironía, la diferencia entre:
+- la percepción de los <u>corintios</u>,
 y:
 - la realidad apostólica.
 
-###### Los corintios se <u>percibían</u>:
+###### Los corintios se percibían:
 - prudentes,
 - fuertes,
 - y honorables.
 
-###### Los apóstoles, en <u>cambio</u>, aparecían:
+###### Los apóstoles, en cambio, aparecían:
 - necios,
 - débiles,
 - y deshonrados.
 
 #### Nosotros somos débiles, pero ustedes, fuertes.
-##### Los apóstoles no eran <u>vistos</u> como personas poderosas.
+##### Los apóstoles no eran vistos como personas poderosas.
 
-###### La <u>fuerza</u> que los corintios parecían atribuirse:
-- no correspondía al <u>patrón</u> apostólico que Pablo estaba describiendo.
+###### La fuerza que los corintios parecían atribuirse:
+- no correspondía al patrón apostólico que Pablo estaba describiendo.
 
 #### Ustedes son distinguidos, pero nosotros, sin honra.
-##### Los apóstoles no recibían <u>*honra*</u> de este mundo.
+##### Los apóstoles no recibían honra de este mundo.
 
-##### Los corintios, en <u>cambio</u>, estaban actuando como personas distinguidas.
+##### Los corintios, en cambio, estaban actuando como personas distinguidas.
 
 ###### La <u>búsqueda</u> o percepción de:
-- honor,
+- <u>honor</u>,
 - reconocimiento,
 - distinción,
 - y grandeza visible
-continuaba alejándose profundamente del <u>camino</u> apostólico que Pablo estaba mostrando.
+continuaba alejándose profundamente del camino apostólico que Pablo estaba <u>mostrando</u>.
 
 ### 1 Corintios 4:11
 Hasta el momento presente pasamos hambre y sed, andamos mal vestidos, somos maltratados y no tenemos dónde vivir.
 
 #### Hasta el momento presente pasamos hambre y sed
-##### Pablo muestra que estas dificultades continuaban <u>hasta</u> ese mismo momento.
+##### Pablo muestra que estas dificultades continuaban hasta ese mismo momento.
 
-###### Esto no pertenecía solamente al <u>pasado</u>.
+###### Esto no pertenecía solamente al pasado.
 
-###### La realidad apostólica <u>seguía</u> marcada por:
+###### La realidad apostólica seguía marcada por:
 - necesidad,
 - debilidad,
 - y sufrimiento.
 
 #### andamos mal vestidos
-##### Los apóstoles no *vivían* rodeados de <u>prestigio</u> ni comodidad.
+##### Los apóstoles no vivían rodeados de prestigio ni comodidad.
 
-###### La <u>vida</u> apostólica no estaba caracterizada por:
-- lujo,
+###### La vida apostólica no estaba caracterizada por:
+- <u>lujo</u>,
 - apariencia impresionante,
 - ni reconocimiento externo.
 
 #### somos maltratados
-##### El trato que recibían del <u>mundo</u> era hostil.
+##### El trato que recibían del mundo era hostil.
 
-###### La oposición y el sufrimiento formaban <u>parte</u> continua de su experiencia.
+###### La oposición y el sufrimiento formaban parte continua de su experiencia.
 
 #### y no tenemos dónde vivir.
-##### Los apóstoles ni siquiera tenían un <u>lugar</u> estable donde vivir.
+##### Los apóstoles ni siquiera tenían un lugar estable donde vivir.
 
-###### Pablo continúa acumulando contrastes contra la percepción <u>inflada</u> y triunfal de los corintios.
+###### Pablo continúa acumulando contrastes contra la percepción inflada y triunfal de los <u>corintios</u>.
 
 ### 1 Corintios 4:12
 Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendecimos. Cuando somos perseguidos, lo soportamos.
 
 #### Nos agotamos trabajando con nuestras propias manos.
-##### Pablo muestra que trabajaban para sostenerse a sí <u>mismos</u>.
+##### Pablo muestra que trabajaban para sostenerse a sí mismos.
 
-##### Ese trabajo producía agotamiento <u>físico</u>.
+##### Ese trabajo producía agotamiento físico.
 
-###### La <u>vida</u> apostólica no era presentada:
+###### La vida apostólica no era presentada:
 - como exaltación,
 - comodidad,
 - ni superioridad visible.
 
-###### Estaba marcada por <u>servicio</u> y desgaste.
+###### Estaba marcada por servicio y desgaste.
 
 #### Cuando nos ultrajan, bendecimos.
-##### Los apóstoles eran <u>insultados</u> con el propósito de humillarlos.
+##### Los apóstoles eran insultados con el propósito de humillarlos.
 
-##### <u>Frente</u> a eso respondían bendiciendo.
+##### Frente a eso respondían bendiciendo.
 
-###### Pablo continúa mostrando una <u>manera</u> de responder completamente distinta a:
+###### Pablo continúa mostrando una manera de responder completamente <u>distinta</u> a:
 - rivalidad,
 - orgullo,
 - y exaltación personal.
 
 #### Cuando somos perseguidos, lo soportamos.
-##### Los apóstoles <u>sufrían</u> persecución constantemente.
+##### Los apóstoles sufrían persecución constantemente.
 
-##### Sin embargo, permanecían <u>firmes</u> en aquello que Dios les había dado hacer.
+##### Sin embargo, permanecían firmes en aquello que Dios les había dado hacer.
 
-###### La perseverancia apostólica no <u>dependía</u>:
+###### La perseverancia apostólica no dependía:
 - de reconocimiento humano,
 - ni de una vida cómoda o triunfal.
 
@@ -3599,36 +3663,36 @@ Nos agotamos trabajando con nuestras propias manos. Cuando nos ultrajan, bendeci
 Cuando hablan mal de nosotros, tratamos de reconciliar. Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
 
 #### Cuando hablan mal de nosotros, tratamos de reconciliar.
-##### Aunque muchos hablaban mal de los apóstoles, ellos respondían <u>buscando</u> reconciliación.
+##### Aunque muchos hablaban mal de los apóstoles, ellos respondían buscando reconciliación.
 
-###### La <u>respuesta</u> apostólica no era:
-- orgullo,
+###### La respuesta apostólica no era:
+- <u>orgullo</u>,
 - rivalidad,
 - ni venganza.
 
-###### Respondían buscando paz <u>incluso</u> en medio del desprecio.
+###### Respondían buscando paz incluso en medio del desprecio.
 
 #### Hemos llegado a ser, hasta ahora, la basura del mundo, el desecho de todo.
-##### El <u>mundo</u> consideraba a los apóstoles como algo completamente despreciable.
+##### El mundo consideraba a los apóstoles como algo completamente despreciable.
 
-##### Pablo describe cómo eran <u>vistos</u> y tratados públicamente.
+##### Pablo describe cómo eran vistos y tratados públicamente.
 
-###### El contraste <u>final</u> es extremadamente fuerte.
+###### El contraste final es extremadamente fuerte.
 
-###### Mientras los corintios parecían <u>verse</u>:
-- ricos,
+###### Mientras los corintios parecían verse:
+- <u>ricos</u>,
 - fuertes,
 - sabios,
 - y distinguidos,
 los apóstoles eran vistos:
 - como basura,
 - desecho,
-- y algo despreciable delante del <u>mundo</u>.
+- y algo despreciable <u>delante</u> del mundo.
 
-###### Pablo está exponiendo una diferencia <u>radical</u> entre:
-- la percepción triunfal que los corintios <u>tenían</u> de sí mismos,
+###### Pablo está exponiendo una diferencia radical entre:
+- la percepción triunfal que los corintios tenían de sí mismos,
 y:
-- la realidad del camino apostólico centrado en <u>Cristo</u> crucificado.
+- la realidad del camino apostólico centrado en Cristo crucificado.
 
 ## 4:14-21 Los caminos que Pablo quería recordarles a los corintios 
 
@@ -3636,87 +3700,87 @@ y:
 No les escribo esto para avergonzarlos, sino para amonestarlos como a hijos míos amados.
 
 #### No les escribo esto para avergonzarlos
-##### Pablo no <u>busca</u> avergonzar a los corintios.
+##### Pablo no busca <u>avergonzar</u> a los corintios.
 
-##### Tampoco <u>quiere</u> simplemente humillarlos mediante comparaciones.
+##### Tampoco quiere simplemente humillarlos mediante comparaciones.
 
-###### <u>Después</u> de confrontar:
+###### Después de confrontar:
 - su arrogancia,
 - su percepción inflada,
 - y su manera equivocada de pensar,
-Pablo <u>aclara</u> cuidadosamente la intención de sus palabras.
+Pablo aclara cuidadosamente la intención de sus palabras.
 
-###### La corrección no <u>nace</u>:
+###### La corrección no nace:
 - del desprecio,
 - ni de hostilidad,
-sino de preocupación <u>genuina</u> por ellos.
+sino de preocupación genuina por ellos.
 
 #### sino para amonestarlos como a hijos míos amados.
-##### Pablo les habla como un <u>padre</u> corrige a hijos amados.
+##### Pablo les habla como un padre corrige a hijos amados.
 
-##### Pablo <u>quiere</u> el bien de los corintios.
+##### Pablo quiere el bien de los corintios.
 
-##### Aunque estas palabras los humillen y desinflen, eso <u>mismo</u> es parte de la corrección que necesitan.
+##### Aunque estas palabras los humillen y desinflen, eso mismo es parte de la corrección que necesitan.
 
-###### <u>Pablo</u> no se relaciona con ellos:
-- como rival,
+###### Pablo no se relaciona con ellos:
+- como <u>rival</u>,
 - ni como enemigo,
 - ni como alguien que busca vencerlos.
 
-###### Los <u>corrige</u>:
-- como hijos amados,
-- y desde una <u>relación</u> profundamente personal.
+###### Los corrige:
+- como <u>hijos</u> amados,
+- y desde una relación profundamente personal.
 
 ### 1 Corintios 4:15
 Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
 
 #### Porque aunque ustedes tengan innumerables maestros en Cristo, sin embargo no *tienen* muchos padres
-##### Pablo distingue entre él y los muchos <u>maestros</u> que los corintios podían tener.
+##### Pablo distingue entre él y los muchos maestros que los corintios podían <u>tener</u>.
 
-##### Pablo se presenta como un <u>padre</u> espiritual para ellos.
+##### Pablo se presenta como un padre espiritual para ellos.
 
-##### Pablo no está reemplazando a <u>Dios</u>, sino describiendo la relación surgida por la obra que realizó entre ellos.
+##### Pablo no está reemplazando a Dios, sino describiendo la relación surgida por la obra que realizó entre ellos.
 
 ###### Los corintios <u>podían</u> tener:
 - muchos instructores,
 - muchas voces,
 - y muchas influencias.
 
-###### Sin embargo, Pablo les recuerda la relación <u>única</u> que surgió mediante el evangelio anunciado entre ellos.
+###### Sin embargo, Pablo les recuerda la relación única que surgió mediante el evangelio anunciado entre ellos.
 
 #### pues en Cristo Jesús yo los engendré por medio del evangelio.
-##### Pablo se considera padre porque fue el <u>primero</u> en llegar a ellos con el evangelio.
+##### Pablo se considera padre porque fue el primero en llegar a ellos con el evangelio.
 
-##### Él fue quien inicialmente les <u>anunció</u> a Cristo.
+##### Él fue quien inicialmente les anunció a Cristo.
 
-##### Los *corintios* creyeron el evangelio <u>mediante</u> esa predicación.
+##### Los corintios creyeron el evangelio mediante esa predicación.
 
-###### Pablo <u>vuelve</u> a colocar el evangelio en el centro de toda la relación.
+###### Pablo vuelve a colocar el evangelio en el centro de toda la relación.
 
-###### Su <u>relación</u> con ellos no estaba basada:
+###### Su relación con ellos no estaba basada:
 - en control,
-- prestigio,
+- <u>prestigio</u>,
 - ni superioridad humana,
-sino en la obra que <u>Dios</u> realizó mediante el evangelio.
+sino en la obra que Dios realizó mediante el evangelio.
 
 ### 1 Corintios 4:16
 Por tanto, los exhorto: sean imitadores míos.
 
 #### Por tanto, los exhorto: sean imitadores míos.
-##### Pablo da aquí otro mandato acompañado de una exhortación <u>personal</u>.
+##### Pablo da aquí otro mandato acompañado de una exhortación personal.
 
-##### Estas palabras tienen <u>peso</u> después de todo lo que acaba de describir acerca de su propia vida.
+##### Estas palabras tienen peso después de todo lo que acaba de describir acerca de su propia vida.
 
-##### Pablo había mostrado una <u>vida</u> que consideraba el bienestar de otros por encima de su propia comodidad.
+##### Pablo había mostrado una vida que consideraba el bienestar de otros por encima de su propia comodidad.
 
-##### La manera en que <u>Pablo</u> vivía era el resultado de pensar correctamente acerca de lo que había recibido de Dios.
+##### La manera en que Pablo vivía era el resultado de pensar correctamente acerca de lo que había recibido de Dios.
 
-##### Pablo quiere que los corintios lo <u>imiten</u> a la luz de todo lo que acaba de mostrarles.
+##### Pablo quiere que los corintios lo imiten a la luz de todo lo que acaba de mostrarles.
 
-###### Esto <u>resulta</u> especialmente fuerte después del contraste entre:
+###### Esto resulta especialmente fuerte después del contraste entre:
 - los corintios:
   - fuertes,
-  - ricos,
+  - <u>ricos</u>,
   - distinguidos,
   y:
 - los apóstoles:
@@ -3724,90 +3788,90 @@ Por tanto, los exhorto: sean imitadores míos.
   - despreciados,
   - y sufrientes.
 
-###### <u>Pablo</u> no les pide imitar:
+###### Pablo no les pide <u>imitar</u>:
 - grandeza humana,
 - prestigio,
 - ni autosuficiencia.
 
-###### Les pide <u>imitar</u> una vida formada:
-- por la cruz,
+###### Les <u>pide</u> imitar una vida formada:
+- por la <u>cruz</u>,
 - por el evangelio,
-- y por una comprensión correcta de la gracia de Dios.
+- y por una comprensión <u>correcta</u> de la gracia de Dios.
 
 ### 1 Corintios 4:17
 Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor. Él les recordará mis caminos, los *caminos* en Cristo, tal como yo enseño en todas partes, en cada iglesia.
 
 #### Por esta razón les he enviado a Timoteo, que es mi hijo amado y fiel en el Señor.
-##### Pablo <u>envió</u> a Timoteo precisamente porque quería que los corintios fueran sus imitadores.
+##### Pablo envió a Timoteo precisamente porque quería que los corintios fueran sus imitadores.
 
-##### La manera en que <u>Pablo</u> describe a Timoteo muestra lo importante que era para él.
+##### La manera en que Pablo describe a Timoteo muestra lo importante que era para él.
 
-##### Timoteo era alguien que <u>servía</u> fielmente dentro de aquello que Dios le había dado.
+##### Timoteo era alguien que servía fielmente dentro de aquello que Dios le había dado.
 
-##### Pablo considera apropiado <u>enviar</u> a un hijo suyo a otros hijos suyos.
+##### Pablo considera apropiado enviar a un hijo suyo a otros hijos suyos.
 
-##### Al observar a Timoteo, los corintios podían ver lo que estaban perdiéndose por <u>vivir</u> como hombres del mundo.
+##### Al observar a Timoteo, los corintios podían ver lo que estaban perdiéndose por vivir como hombres del mundo.
 
-###### Timoteo representaba una continuidad <u>visible</u> de:
-- los caminos de <u>Pablo</u>,
-- la <u>enseñanza</u> apostólica,
-- y la manera correcta de <u>vivir</u> en Cristo.
+###### Timoteo representaba una continuidad visible de:
+- los <u>caminos</u> de Pablo,
+- la enseñanza apostólica,
+- y la manera correcta de vivir en Cristo.
 
 #### Él les recordará mis caminos, los *caminos* en Cristo
 ##### Llegar a ser imitadores de Pablo <u>requería</u> recordar los caminos en Cristo.
 
-##### Timoteo no iba a enseñar algo <u>nuevo</u>.
+##### Timoteo no iba a enseñar algo nuevo.
 
-##### Él iba a recordarles algo que ya <u>había</u> sido enseñado anteriormente.
+##### Él iba a recordarles algo que ya había sido enseñado anteriormente.
 
-##### Pablo no enseñaba otra cosa <u>aparte</u> de Cristo y Este crucificado.
+##### Pablo no enseñaba otra cosa aparte de Cristo y Este crucificado.
 
-##### Por eso, los caminos de Pablo son descritos aquí como <u>caminos</u> en Cristo.
+##### Por eso, los caminos de Pablo son descritos aquí como caminos en Cristo.
 
-###### La <u>vida</u> cristiana debe ser vivida a partir de las riquezas que existen en Cristo.
+###### La vida cristiana debe ser vivida a partir de las riquezas que existen en <u>Cristo</u>.
 
-###### <u>Pablo</u> continúa mostrando que:
+###### Pablo continúa mostrando que:
 - la espiritualidad verdadera,
 - la madurez,
 - y la vida cristiana
-no se definen:
+no se <u>definen</u>:
 - por orgullo,
 - superioridad,
 - ni exaltación humana,
-sino por caminos formados en <u>Cristo</u>.
+sino por caminos formados en Cristo.
 
 #### tal como yo enseño en todas partes, en cada iglesia.
-##### La enseñanza de Pablo no cambiaba de <u>lugar</u> en lugar.
+##### La enseñanza de Pablo no cambiaba de lugar en lugar.
 
-##### Era la <u>misma</u> enseñanza en todas las iglesias.
+##### Era la misma enseñanza en <u>todas</u> las iglesias.
 
-##### Pablo usa aquí la palabra <u>iglesia</u> para referirse a congregaciones en distintos lugares.
+##### Pablo usa aquí la palabra iglesia para referirse a congregaciones en distintos lugares.
 
 ##### El mensaje que <u>enseñó</u> a Timoteo era el mismo que Timoteo iba a recordarles, y el mismo que Pablo enseñaba en todas partes.
 
-###### La <u>corrección</u> de *Pablo* *hacia* los *corintios* no *provenía*:
-- de preferencias <u>personales</u>,
-- ni de una reacción emocional <u>aislada</u>.
+###### La corrección de Pablo hacia los corintios no provenía:
+- de preferencias personales,
+- ni de una reacción emocional aislada.
 
-###### Formaba <u>parte</u> de la *misma* enseñanza apostólica que comunicaba en todas partes.
+###### Formaba parte de la misma enseñanza apostólica que comunicaba en <u>todas</u> partes.
 
 ### 1 Corintios 4:18
 Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlos.
 
 #### Algunos de ustedes se han vuelto arrogantes
-##### Pablo <u>aclara</u> que no está hablando de todos los corintios.
+##### Pablo aclara que no está hablando de todos los corintios.
 
-##### La expresión transmite la <u>idea</u> de alguien inflado o envanecido.
+##### La expresión transmite la idea de alguien inflado o envanecido.
 
-##### Algunos corintios <u>habían</u> sido inflados por una perspectiva equivocada.
+##### Algunos corintios habían sido <u>inflados</u> por una perspectiva equivocada.
 
-###### La arrogancia <u>seguía</u> siendo una manifestación visible de:
-- una percepción equivocada de sí <u>mismos</u>,
-- una <u>percepción</u> equivocada de la espiritualidad,
-- y una percepción equivocada de la <u>realidad</u> en Cristo.
+###### La arrogancia seguía siendo una manifestación visible de:
+- una percepción equivocada de sí mismos,
+- una percepción equivocada de la espiritualidad,
+- y una percepción equivocada de la realidad en Cristo.
 
 #### como si yo no hubiera de ir a verlos.
-##### La arrogancia de algunos parecía apoyarse en la <u>idea</u> de que Pablo no volvería a visitarlos.
+##### La arrogancia de algunos parecía apoyarse en la idea de que Pablo no volvería a visitarlos.
 
 ###### Algunos <u>parecían</u> sentirse:
 - seguros,
@@ -3818,30 +3882,30 @@ Algunos de ustedes se han vuelto arrogantes, como si yo no hubiera de ir a verlo
 Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de los arrogantes sino el poder que tienen.
 
 #### Pero iré a verlos pronto, si el Señor quiere
-##### Pablo les <u>asegura</u> que sí irá a visitarlos.
+##### Pablo les asegura que sí <u>irá</u> a visitarlos.
 
-##### Sin embargo, reconoce que esto <u>depende</u> finalmente de la voluntad del Señor.
+##### Sin embargo, reconoce que esto depende finalmente de la voluntad del Señor.
 
-##### A diferencia de algunos corintios, <u>Pablo</u> no actuaba independientemente de Dios.
+##### A diferencia de algunos corintios, Pablo no actuaba independientemente de Dios.
 
-###### Incluso al <u>hablar</u> de sus propios planes, Pablo permanece sometido:
-- al Señor,
+###### Incluso al hablar de sus propios planes, Pablo permanece sometido:
+- al <u>Señor</u>,
 - y a Su voluntad.
 
 #### y conoceré, no las palabras de los arrogantes sino el poder que tienen.
-##### Pablo <u>sabía</u> que algunos estaban hablando arrogantemente.
+##### Pablo sabía que algunos estaban hablando arrogantemente.
 
-##### Pero las palabras por sí <u>solas</u> no demostraban nada.
+##### Pero las palabras por sí solas no demostraban nada.
 
-##### Cuando estuviera presente, Pablo vería si <u>existía</u> realmente poder detrás de aquellas palabras.
+##### Cuando estuviera presente, Pablo vería si existía realmente poder detrás de aquellas palabras.
 
-###### Esto <u>conecta</u> nuevamente con todo el argumento anterior acerca de:
-- palabras,
+###### Esto conecta nuevamente con todo el argumento anterior acerca de:
+- <u>palabras</u>,
 - sabiduría humana,
 - y verdadera espiritualidad.
 
-###### El reino de <u>Dios</u> no se demuestra simplemente mediante:
-- discursos,
+###### El reino de Dios no se demuestra simplemente mediante:
+- <u>discursos</u>,
 - impresiones,
 - ni afirmaciones infladas.
 
@@ -3849,50 +3913,59 @@ Pero iré a verlos pronto, si el Señor quiere, y conoceré, no las palabras de 
 Porque el reino de Dios no *consiste* en palabras, sino en poder.
 
 #### Porque el reino de Dios no *consiste* en palabras, sino en poder.
-##### El reino de <u>Dios</u> no es simplemente cuestión de declaraciones o discursos.
+##### El reino de Dios no es simplemente <u>cuestión</u> de declaraciones o discursos.
 
 ##### El poder de Dios no <u>depende</u> solamente de afirmaciones humanas.
 
-##### El reino de <u>Dios</u> se manifiesta verdaderamente en poder.
+##### El reino de Dios se manifiesta verdaderamente en poder.
 
-###### Esto confronta profundamente una espiritualidad <u>centrada</u> en:
+###### Esto confronta profundamente una espiritualidad centrada en:
 - apariencia,
-- discurso,
+- <u>discurso</u>,
 - superioridad visible,
 - o impresiones humanas.
 
-###### Pablo <u>continúa</u> distinguiendo entre:
+###### Pablo continúa distinguiendo entre:
 - palabras infladas,
 y:
-- la realidad del poder de Dios.
+- la realidad del <u>poder</u> de Dios.
 
 ### 1 Corintios 4:21
 ¿Qué quieren? ¿Iré a ustedes con vara, o con amor y espíritu de mansedumbre?
 
 #### ¿Qué quieren? ¿Iré a ustedes con vara
-##### Pablo <u>coloca</u> delante de los corintios una decisión.
+##### Pablo coloca delante de los corintios una decisión.
 
-##### Todo <u>dependía</u> de si continuarían perseverando en su arrogancia.
+##### Todo dependía de si continuarían perseverando en su arrogancia.
 
-##### Si permanecían así, <u>Pablo</u> iría a ellos con vara.
+##### Si permanecían así, Pablo iría a ellos con vara.
 
-##### Todo este contexto <u>sigue</u> siendo el de un padre hablando a sus hijos.
+##### Todo este contexto sigue siendo el de un padre hablando a sus hijos.
 
-###### La severidad potencial de <u>Pablo</u> no surge:
-- de orgullo,
+###### La severidad <u>potencial</u> de Pablo no surge:
+- de <u>orgullo</u>,
 - ni de deseo de dominio,
-sino de responsabilidad <u>paternal</u> y amorosa hacia ellos.
+sino de responsabilidad paternal y amorosa hacia ellos.
 
 #### o con amor y espíritu de mansedumbre?
-##### Si <u>respondían</u> correctamente a la exhortación, encontrarían a un Pablo diferente.
+##### Si respondían correctamente a la exhortación, encontrarían a un Pablo diferente.
 
-##### Pablo prefería ir a ellos con <u>amor</u> y mansedumbre.
+##### Pablo prefería ir a ellos con amor y mansedumbre.
 
-###### Aun al <u>final</u> de esta larga confrontación:
+###### Aun al final de esta larga confrontación:
 - la restauración,
 - la mansedumbre,
 - y el amor
-siguen siendo el deseo principal de Pablo <u>hacia</u> los corintios.
+siguen siendo el deseo principal de Pablo hacia los corintios.
+
+> En Síntesis
+>- Pablo expone que la arrogancia y las divisiones entre los corintios nacían de una percepción inflada de sí mismos y de una comprensión equivocada de la gracia recibida de Dios.
+>- Mientras los corintios se percibían ricos, fuertes y reinando espiritualmente, la realidad apostólica estaba marcada por debilidad, sufrimiento, rechazo y humillación por causa de Cristo.
+>- Pablo presenta el camino apostólico como una vida formada por la cruz, caracterizada por servicio, perseverancia, mansedumbre y dependencia de Dios, no por prestigio o exaltación humana.
+>- La relación de Pablo con los corintios no surge de control ni superioridad, sino del evangelio mediante el cual él los engendró en Cristo Jesús como hijos amados.
+>- Pablo concluye confrontando las palabras arrogantes de algunos corintios, recordando que el reino de Dios no consiste en discursos inflados, sino en el verdadero poder de Dios manifestado en una vida conforme a Cristo.
+
+<!-- @quiz 1corintios-3-4 -->
 
 # 5:1-7:40 — Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo
 
@@ -3902,143 +3975,143 @@ siguen siendo el deseo principal de Pablo <u>hacia</u> los corintios.
 En efecto, se oye que entre ustedes hay inmoralidad, y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
 
 #### En efecto, se oye que entre ustedes hay inmoralidad
-##### Los problemas entre los corintios no se limitaban solamente a celos y divisiones.
+##### Los problemas <u>entre</u> los corintios no se limitaban solamente a celos y divisiones.
 
-##### Pablo continúa tratando el mismo problema de arrogancia que ya venía exponiendo.
+##### Pablo continúa tratando el <u>mismo</u> problema de arrogancia que ya venía exponiendo.
 
-##### La situación había llegado a ser conocida públicamente.
+##### La situación había <u>llegado</u> a ser conocida públicamente.
 
 ###### La tensión continúa creciendo:
-- una iglesia enriquecida,
-- llena de dones,
-- y segura de sí misma,
+- una <u>iglesia</u> enriquecida,
+- llena de <u>dones</u>,
+- y <u>segura</u> de sí misma,
 estaba tolerando algo extremadamente grave en medio de ella.
 
 #### y una inmoralidad tal como no existe ni siquiera entre los gentiles, al extremo de que alguien tiene la mujer de su padre.
-##### La inmoralidad presente entre los corintios era tan grave que ni siquiera era común entre los gentiles.
+##### La inmoralidad presente <u>entre</u> los corintios era tan grave que ni siquiera era común entre los gentiles.
 
-##### Pablo describe un caso extremo dentro de la iglesia.
+##### Pablo describe un caso extremo <u>dentro</u> de la iglesia.
 
-##### El problema no era solamente el acto en sí, sino también la manera en que la iglesia estaba reaccionando frente a ello.
+##### El problema no era <u>solamente</u> el acto en sí, sino también la manera en que la iglesia estaba reaccionando frente a ello.
 
 ###### Pablo no presenta esto:
-- como un rumor pequeño,
+- como un <u>rumor</u> pequeño,
 - ni como un asunto privado sin importancia.
 
-###### La gravedad del caso dejaba expuesta una desconexión profunda entre:
+###### La gravedad del caso dejaba expuesta una desconexión <u>profunda</u> entre:
 - la percepción espiritual que los corintios tenían de sí mismos,
 y:
-- la realidad de lo que estaba ocurriendo entre ellos.
+- la realidad de lo que <u>estaba</u> ocurriendo entre ellos.
 
 ### 1 Corintios 5:2
 ¡Y ustedes se han vuelto arrogantes en lugar de haberse entristecido, para que el que de entre ustedes ha cometido esta acción fuera expulsado de en medio de ustedes!
 
 #### ¡Y ustedes se han vuelto arrogantes
-##### Pablo vuelve a señalar el mismo problema: los corintios se habían inflado.
+##### Pablo vuelve a señalar el mismo <u>problema</u>: los corintios se habían inflado.
 
 ##### La arrogancia seguía siendo el trasfondo de su comportamiento.
 
-###### Pablo no describe una iglesia:
+###### Pablo no <u>describe</u> una iglesia:
 - quebrantada,
-- avergonzada,
+- <u>avergonzada</u>,
 - ni alarmada.
 
 ###### Continúan inflados incluso mientras este pecado permanece entre ellos.
 
-###### Esto conecta directamente con todo lo que Pablo venía exponiendo desde capítulos anteriores:
-- una percepción equivocada de sí mismos,
-- una falsa evaluación espiritual,
-- y una manera humana de pensar.
+###### Esto conecta directamente con todo lo que Pablo venía <u>exponiendo</u> desde capítulos anteriores:
+- una percepción <u>equivocada</u> de sí mismos,
+- una falsa <u>evaluación</u> espiritual,
+- y una manera humana de <u>pensar</u>.
 
 #### en lugar de haberse entristecido
-##### La reacción correcta habría sido tristeza y quebranto.
+##### La reacción correcta habría sido <u>tristeza</u> y quebranto.
 
 ##### Los corintios estaban reaccionando de forma opuesta a lo apropiado.
 
-###### En lugar de dolor y humildad:
+###### En lugar de <u>dolor</u> y humildad:
 - permanecían inflados,
 - seguros,
 - y aparentemente tranquilos.
 
-###### Pablo muestra que la manera en que estaban respondiendo revelaba una percepción profundamente equivocada de la situación.
+###### Pablo muestra que la manera en que estaban respondiendo <u>revelaba</u> una percepción profundamente equivocada de la situación.
 
 #### para que el que de entre ustedes ha cometido esta acción
-##### Pablo identifica claramente que la acción fue cometida por alguien dentro de ellos.
+##### Pablo identifica claramente que la <u>acción</u> fue cometida por alguien dentro de ellos.
 
-###### El problema no estaba fuera de la iglesia, sino dentro de ella.
+###### El problema no estaba <u>fuera</u> de la iglesia, sino dentro de ella.
 
 #### fuera expulsado de en medio de ustedes!
-##### Pablo muestra cuál debía haber sido la respuesta de la iglesia.
+##### Pablo muestra cuál debía haber sido la respuesta de la <u>iglesia</u>.
 
-##### El hombre debía ser removido de entre ellos.
+##### El hombre <u>debía</u> ser removido de entre ellos.
 
-###### La iglesia debía actuar conforme a la realidad santa que compartía en Cristo.
+###### La iglesia debía actuar conforme a la realidad <u>santa</u> que compartía en Cristo.
 
 ### 1 Corintios 5:3
 Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu, como si estuviera presente, ya he juzgado al que cometió tal *acción.*
 
 #### Pues yo, por mi parte, aunque ausente en cuerpo pero presente en espíritu
-##### Aunque Pablo estaba físicamente ausente, seguía involucrado con la situación de los corintios.
+##### Aunque Pablo <u>estaba</u> físicamente ausente, seguía involucrado con la situación de los corintios.
 
-###### La distancia física no significaba indiferencia hacia lo que estaba ocurriendo en la iglesia.
+###### La distancia física no significaba indiferencia <u>hacia</u> lo que estaba ocurriendo en la iglesia.
 
 #### como si estuviera presente, ya he juzgado al que cometió tal *acción.*
-##### Pablo ya había tomado una decisión respecto al hombre que cometió esa acción.
+##### Pablo ya había tomado una decisión <u>respecto</u> al hombre que cometió esa acción.
 
-##### Pablo contrasta aquí con la pasividad de los corintios.
+##### Pablo <u>contrasta</u> aquí con la pasividad de los corintios.
 
 ###### Mientras los corintios permanecían:
-- inflados,
+- <u>inflados</u>,
 - tolerantes,
-- y sin reaccionar correctamente,
+- y sin <u>reaccionar</u> correctamente,
 Pablo ya había discernido la gravedad de la situación.
 
 ### 1 Corintios 5:4
 En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
 
 #### En el nombre de nuestro Señor Jesús, cuando estén reunidos, y yo con ustedes en espíritu, con el poder de nuestro Señor Jesús
-##### La acción debía realizarse reunidos como iglesia.
+##### La acción debía realizarse <u>reunidos</u> como iglesia.
 
-##### Pablo conecta esta acción con la autoridad y poder del Señor Jesús.
+##### Pablo conecta esta acción con la autoridad y <u>poder</u> del Señor Jesús.
 
 ##### Esto no debía hacerse como una decisión meramente humana.
 
-###### La situación debía tratarse:
-- delante del Señor,
-- bajo Su autoridad,
-- y conforme a Su poder.
+###### La situación <u>debía</u> tratarse:
+- delante del <u>Señor</u>,
+- <u>bajo</u> Su autoridad,
+- y conforme a Su <u>poder</u>.
 
 ###### Pablo continúa alejando la situación:
-- de preferencias humanas,
+- de preferencias <u>humanas</u>,
 - opiniones personales,
-- o tolerancia orgullosa.
+- o tolerancia <u>orgullosa</u>.
 
 ### 1 Corintios 5:5
 entreguen a ese tal a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor Jesús.
 
 #### entreguen a ese tal a Satanás para la destrucción de su carne
-##### Pablo ordena remover a este hombre de la comunión de la iglesia.
+##### Pablo ordena remover a <u>este</u> hombre de la comunión de la iglesia.
 
-##### La disciplina debía ser seria y real.
+##### La disciplina debía ser <u>seria</u> y real.
 
-##### Pablo describe esta acción como una entrega a Satanás.
+##### Pablo describe esta acción como una <u>entrega</u> a Satanás.
 
 ###### La gravedad del lenguaje muestra que Pablo no veía esta situación:
 - como algo pequeño,
 - tolerable,
-- ni compatible con la realidad de la iglesia.
+- ni compatible con la <u>realidad</u> de la iglesia.
 
 #### a fin de que su espíritu sea salvo en el día del Señor Jesús.
 ##### El propósito final no era destrucción definitiva, sino salvación.
 
 ##### Pablo sigue considerando importante el bienestar final de este hombre.
 
-##### El día del Señor Jesús vuelve a aparecer como el momento del juicio definitivo.
+##### El día del Señor Jesús vuelve a <u>aparecer</u> como el momento del juicio definitivo.
 
 ###### Aun esta disciplina severa:
 - no surge del odio,
 - ni de deseo de destrucción,
-sino de una preocupación final por su salvación.
+sino de una preocupación <u>final</u> por su salvación.
 
 ### 1 Corintios 5:6
 La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta toda *la masa*?
@@ -4048,7 +4121,7 @@ La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta
 
 ##### La manera en que estaban reaccionando frente al pecado era incorrecta.
 
-###### Nuevamente aparece el mismo problema:
+###### Nuevamente aparece el <u>mismo</u> problema:
 - jactancia,
 - arrogancia,
 - y una percepción inflada de sí mismos.
@@ -4056,13 +4129,13 @@ La jactancia de ustedes no es buena. ¿No saben que un poco de levadura fermenta
 ###### Incluso frente a una situación tan seria, los corintios seguían pensando incorrectamente.
 
 #### ¿No saben que un poco de levadura fermenta toda *la masa*?
-##### Pablo usa la imagen de la levadura para mostrar el efecto expansivo del pecado.
+##### Pablo usa la <u>imagen</u> de la levadura para mostrar el efecto expansivo del pecado.
 
 ##### Algo pequeño puede terminar afectando toda la masa.
 
 ###### Lo que estaba ocurriendo:
 - no permanecía aislado,
-- ni sin consecuencias para toda la iglesia.
+- ni sin consecuencias para toda la <u>iglesia</u>.
 
 ### 1 Corintios 5:7
 Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en realidad* sin levadura. Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
@@ -4070,18 +4143,18 @@ Limpien la levadura vieja para que sean masa nueva, así como *lo* son *en reali
 #### Limpien la levadura vieja para que sean masa nueva
 ##### Pablo manda remover aquello que corresponde a la vieja levadura.
 
-##### La iglesia debía actuar de acuerdo a la nueva realidad que tenía en Cristo.
+##### La iglesia debía <u>actuar</u> de acuerdo a la nueva realidad que tenía en Cristo.
 
 ###### El mandato surge nuevamente de aquello que ya eran delante de Dios.
 
 #### así como *lo* son *en realidad* sin levadura.
-##### Pablo afirma que ellos ya eran sin levadura en realidad.
+##### Pablo afirma que ellos ya eran sin levadura en <u>realidad</u>.
 
 ##### El mandato surge a partir de lo que ya eran.
 
 ###### Pablo no está diciendo que lleguen a ser algo completamente distinto.
 
-###### Les está llamando a actuar conforme a:
+###### Les está llamando a <u>actuar</u> conforme a:
 - la realidad,
 - la santidad,
 - y la identidad
@@ -4090,50 +4163,50 @@ que ya poseían en Cristo.
 #### Porque aun Cristo, nuestra Pascua, ha sido sacrificado.
 ##### Cristo es presentado como la Pascua de los creyentes.
 
-##### Pablo conecta toda esta exhortación con la obra de Cristo.
+##### Pablo conecta <u>toda</u> esta exhortación con la obra de Cristo.
 
 ###### Toda esta corrección:
 - la santidad,
 - la limpieza,
 - y la separación de la levadura,
 quedan finalmente conectadas con:
-- Cristo,
+- <u>Cristo</u>,
 - y Su sacrificio.
 
 ### 1 Corintios 5:8
 Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad, sino con panes sin levadura de sinceridad y de verdad.
 
 #### Por tanto, celebremos la fiesta no con la levadura vieja, ni con la levadura de malicia y maldad
-##### Pablo exhorta a vivir dejando atrás aquello que pertenece a la vieja levadura.
+##### Pablo exhorta a vivir dejando atrás aquello que pertenece a la <u>vieja</u> levadura.
 
 ##### La malicia y la maldad son asociadas con esa levadura vieja.
 
-###### Pablo continúa llamando a los corintios a vivir conforme a la realidad nueva que ya poseen en Cristo.
+###### Pablo continúa llamando a los corintios a vivir conforme a la realidad nueva que ya poseen en <u>Cristo</u>.
 
 ###### La vieja levadura no correspondía:
 - a la sinceridad,
 - ni a la verdad,
-- ni a la realidad santa que compartían como pueblo de Dios.
+- ni a la realidad santa que compartían como <u>pueblo</u> de Dios.
 
 #### sino con panes sin levadura de sinceridad y de verdad.
 ##### Pablo contrasta la vieja levadura con sinceridad y verdad.
 
 ##### La vida de los creyentes debía corresponder a esa nueva realidad.
 
-###### La sinceridad y la verdad aparecen aquí en contraste con:
+###### La sinceridad y la <u>verdad</u> aparecen aquí en contraste con:
 - la tolerancia orgullosa,
 - la arrogancia,
-- y la manera equivocada en que estaban respondiendo al pecado.
+- y la manera equivocada en que estaban respondiendo al <u>pecado</u>.
 
 ### 1 Corintios 5:9
 En mi carta les escribí que no anduvieran en compañía de personas inmorales.
 
 #### En mi carta les escribí que no anduvieran en compañía de personas inmorales.
-##### Pablo recuerda una instrucción previa que ya les había dado.
+##### Pablo recuerda una instrucción <u>previa</u> que ya les había dado.
 
 ##### Los corintios ya habían sido advertidos anteriormente acerca de esto.
 
-###### La situación actual mostraba que:
+###### La situación <u>actual</u> mostraba que:
 - no habían entendido correctamente,
 o:
 - no habían actuado conforme a aquella instrucción.
@@ -4146,17 +4219,17 @@ No *me refería a* la gente inmoral de este mundo, o a los codiciosos y estafado
 
 ###### Pablo no está pidiendo:
 - aislamiento absoluto,
-- ni separación física completa del mundo.
+- ni separación <u>física</u> completa del mundo.
 
 #### porque entonces tendrían ustedes que salirse del mundo.
 ##### Si la instrucción fuera evitar completamente a los incrédulos, tendrían que salir literalmente del mundo.
 
-###### Pablo reconoce que los creyentes continúan viviendo dentro del mundo.
+###### Pablo reconoce que los creyentes continúan viviendo <u>dentro</u> del mundo.
 
 ###### El problema principal no era:
 - la presencia del pecado en el mundo,
 sino:
-- la manera en que la iglesia estaba respondiendo al pecado dentro de ella misma.
+- la <u>manera</u> en que la iglesia estaba respondiendo al pecado dentro de ella misma.
 
 ### 1 Corintios 5:11
 Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador. Con esa persona, ni siquiera coman.
@@ -4164,14 +4237,14 @@ Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, 
 #### Sino que en efecto les escribí que no anduvieran en compañía de ninguno que, llamándose hermano, es una persona inmoral, o avaro, o idólatra, o difamador, o borracho, o estafador.
 ##### Pablo ahora aclara exactamente a quién se refería.
 
-##### El problema es alguien que se llama hermano mientras permanece en esas prácticas.
+##### El problema es alguien que se <u>llama</u> hermano mientras permanece en esas prácticas.
 
 ##### Pablo menciona distintos ejemplos de conductas incompatibles con esa profesión.
 
-###### La tensión se vuelve especialmente seria porque:
+###### La tensión se vuelve especialmente <u>seria</u> porque:
 - la persona continúa identificándose como hermano,
 mientras:
-- permanece en prácticas contrarias a la realidad que afirma compartir en Cristo.
+- permanece en prácticas contrarias a la realidad que <u>afirma</u> compartir en Cristo.
 
 #### Con esa persona, ni siquiera coman.
 ##### Pablo manda limitar incluso la comunión más básica con esa persona.
@@ -4179,25 +4252,25 @@ mientras:
 ##### La iglesia debía tomar seriamente esta situación.
 
 ###### Los corintios no debían continuar actuando:
-- como si nada estuviera ocurriendo,
+- como si <u>nada</u> estuviera ocurriendo,
 - ni como si esta situación fuera compatible con la vida de la iglesia.
 
 ### 1 Corintios 5:12
 Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que están dentro *de la iglesia*?
 
 #### Pues ¿por qué he de juzgar yo a los de afuera?
-##### Pablo distingue claramente entre los de afuera y los de adentro.
+##### Pablo distingue claramente entre los de <u>afuera</u> y los de adentro.
 
 ##### El juicio de Pablo no estaba dirigido hacia los incrédulos del mundo.
 
-###### Pablo continúa aclarando dónde recae realmente la responsabilidad de la iglesia.
+###### Pablo continúa aclarando <u>dónde</u> recae realmente la responsabilidad de la iglesia.
 
 #### ¿No juzgan ustedes a los que están dentro *de la iglesia*?
 ##### La responsabilidad de la iglesia sí incluye juzgar lo que ocurre dentro de ella.
 
 ##### Pablo muestra que los corintios debían haber actuado en esta situación.
 
-###### La iglesia debía discernir correctamente aquello que estaba ocurriendo en medio de ella.
+###### La iglesia debía discernir correctamente <u>aquello</u> que estaba ocurriendo en medio de ella.
 
 ###### Precisamente aquí se vuelve evidente la contradicción:
 - se consideraban espirituales,
@@ -4207,7 +4280,7 @@ Pues ¿por qué he de juzgar yo a los de afuera? ¿No juzgan ustedes a los que e
 Pero Dios juzga a los que están fuera. Expulsen al malvado de entre ustedes.
 
 #### Pero Dios juzga a los que están fuera.
-##### Dios mismo se encargará de juzgar a los de afuera.
+##### Dios mismo se encargará de <u>juzgar</u> a los de afuera.
 
 ###### Pablo vuelve a separar claramente:
 - la responsabilidad de Dios,
@@ -4215,13 +4288,22 @@ y:
 - la responsabilidad de la iglesia.
 
 #### Expulsen al malvado de entre ustedes.
-##### Pablo termina con un mandato claro y directo.
+##### Pablo termina con un <u>mandato</u> claro y directo.
 
 ##### El hombre debía ser removido de entre la iglesia.
 
 ###### La iglesia debía actuar:
 - conforme a la santidad que compartía en Cristo,
-- y conforme a la realidad espiritual que Pablo había venido recordándoles desde el comienzo de la carta.
+- y conforme a la <u>realidad</u> espiritual que Pablo había venido recordándoles desde el comienzo de la carta.
+
+>En Síntesis
+>- Pablo expone que la arrogancia y percepción inflada de los corintios había llegado al punto de tolerar públicamente un pecado extremadamente grave dentro de la iglesia.
+>- La reacción correcta frente al pecado debía haber sido quebranto, discernimiento y acción conforme a la santidad de la iglesia, no tolerancia orgullosa ni pasividad.
+>- La disciplina ordenada por Pablo no surge de odio ni destrucción, sino de una preocupación seria por la salvación final y la pureza del pueblo de Dios.
+>- Pablo conecta toda esta exhortación con la realidad que los creyentes ya poseen en Cristo, llamándolos a vivir conforme a la nueva identidad y santidad que tienen por medio de Cristo, nuestra Pascua.
+>- La responsabilidad principal de la iglesia no consiste en juzgar al mundo incrédulo, sino en discernir y tratar correctamente aquello que ocurre dentro del pueblo que afirma pertenecer a Cristo.
+
+<!-- @quiz 1corintios-5 -->
 
 ## 6:1-11 Los conflictos y los derechos entre los corintios
 
@@ -4231,13 +4313,13 @@ y:
 #### ¿Se atreve alguno de ustedes, cuando tiene algo contra su prójimo
 ##### Pablo comienza confrontando algo que estaba ocurriendo entre los corintios.
 
-##### Había conflictos entre hermanos dentro de la iglesia.
+##### Había conflictos <u>entre</u> hermanos dentro de la iglesia.
 
 ###### La iglesia que:
 - hablaba de sabiduría,
 - conocimiento,
 - y espiritualidad,
-ni siquiera estaba resolviendo correctamente sus propios conflictos internos.
+ni siquiera estaba resolviendo correctamente sus <u>propios</u> conflictos internos.
 
 #### a ir a juicio ante los incrédulos y no ante los santos?
 ##### Pablo considera incorrecto que los creyentes lleven sus conflictos delante de incrédulos.
@@ -4247,7 +4329,7 @@ ni siquiera estaba resolviendo correctamente sus propios conflictos internos.
 ##### Pablo vuelve a mostrar una contradicción entre lo que los corintios eran y la manera en que estaban actuando.
 
 ###### Los corintios parecían confiar más:
-- en tribunales humanos,
+- en tribunales <u>humanos</u>,
 que:
 - en la sabiduría que debía existir dentro del pueblo de Dios.
 
@@ -4255,16 +4337,16 @@ que:
 ¿O no saben que los santos han de juzgar al mundo? Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
 
 #### ¿O no saben que los santos han de juzgar al mundo?
-##### Pablo vuelve a apelar a algo que ellos debían saber.
+##### Pablo vuelve a apelar a algo que ellos <u>debían</u> saber.
 
 ##### Los creyentes participarán en el juicio del mundo.
 
 ##### Pablo contrasta esa realidad futura con su comportamiento presente.
 
 ###### Pablo continúa mostrando una desconexión entre:
-- la realidad gloriosa que compartían en Cristo,
+- la realidad <u>gloriosa</u> que compartían en Cristo,
 y:
-- la manera limitada y humana en que estaban actuando.
+- la manera limitada y humana en que estaban <u>actuando</u>.
 
 #### Y si el mundo es juzgado por ustedes, ¿no son competentes para *juzgar* los casos más sencillos?
 ##### Pablo razona desde lo mayor hacia lo menor.
@@ -4273,7 +4355,7 @@ y:
 
 ##### Pablo muestra lo incoherente de acudir a incrédulos para resolver estos conflictos.
 
-###### Los asuntos que estaban llevando delante de tribunales humanos:
+###### Los asuntos que estaban <u>llevando</u> delante de tribunales humanos:
 - no correspondían
 a la realidad futura en la cual participarían junto con Cristo.
 
@@ -4283,7 +4365,7 @@ a la realidad futura en la cual participarían junto con Cristo.
 #### ¿No saben que hemos de juzgar a los ángeles?
 ##### Pablo amplía todavía más el alcance de aquello en lo que participarán los creyentes.
 
-##### Los creyentes no solamente juzgarán al mundo, sino también a los ángeles.
+##### Los creyentes no solamente juzgarán al <u>mundo</u>, sino también a los ángeles.
 
 ###### Pablo sigue elevando enormemente la realidad que pertenece a los creyentes en Cristo.
 
@@ -4295,7 +4377,7 @@ a la realidad futura en la cual participarían junto con Cristo.
 ###### Los corintios estaban actuando:
 - como personas incapaces de resolver asuntos pequeños,
 mientras:
-- compartían una realidad muchísimo mayor en Cristo.
+- compartían una <u>realidad</u> muchísimo mayor en Cristo.
 
 ### 1 Corintios 6:4
 Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* ponen por jueces a los que nada son en la iglesia?
@@ -4303,7 +4385,7 @@ Entonces, si tienen tribunales que juzgan los casos de esta vida, ¿*por qué* p
 #### Entonces, si tienen tribunales que juzgan los casos de esta vida
 ##### Pablo vuelve al problema práctico que existía entre ellos.
 
-##### Los corintios estaban llevando asuntos cotidianos delante de tribunales humanos.
+##### Los corintios estaban llevando asuntos cotidianos <u>delante</u> de tribunales humanos.
 
 ###### El problema ya no era solamente:
 - el conflicto,
@@ -4313,12 +4395,12 @@ sino:
 #### ¿*por qué* ponen por jueces a los que nada son en la iglesia?
 ##### Pablo confronta el hecho de que estaban colocando a incrédulos como jueces sobre asuntos entre hermanos.
 
-##### Aquellos que no tenían lugar dentro de la iglesia estaban siendo puestos para decidir sobre problemas de la iglesia.
+##### Aquellos que no tenían lugar <u>dentro</u> de la iglesia estaban siendo puestos para decidir sobre problemas de la iglesia.
 
 ###### Esto volvía a revelar una percepción profundamente equivocada acerca de:
 - la iglesia,
 - la sabiduría,
-- y la realidad espiritual que compartían en Cristo.
+- y la realidad espiritual que <u>compartían</u> en Cristo.
 
 ### 1 Corintios 6:5
 Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sabio que pueda juzgar entre sus hermanos
@@ -4329,7 +4411,7 @@ Para vergüenza suya *lo* digo. ¿*Acaso* no hay entre ustedes algún hombre sab
 ##### Su comportamiento no correspondía a la realidad que tenían en Cristo.
 
 ###### La vergüenza surge precisamente de la contradicción entre:
-- aquello que afirmaban ser,
+- aquello que <u>afirmaban</u> ser,
 y:
 - la manera en que estaban actuando.
 
@@ -4338,10 +4420,10 @@ y:
 
 ##### Esto es especialmente fuerte después de toda la discusión acerca de verdadera sabiduría espiritual.
 
-##### Los corintios se consideraban sabios, pero estaban mostrando incapacidad para resolver conflictos simples entre hermanos.
+##### Los corintios se consideraban sabios, pero <u>estaban</u> mostrando incapacidad para resolver conflictos simples entre hermanos.
 
 ###### La pregunta de Pablo expone nuevamente la tensión central de toda la carta:
-- una iglesia convencida de su sabiduría y espiritualidad,
+- una iglesia <u>convencida</u> de su sabiduría y espiritualidad,
 pero:
 - actuando de maneras profundamente inconsistentes con esa realidad.
 
@@ -4349,12 +4431,12 @@ pero:
 sino que hermano contra hermano litiga, y esto ante incrédulos?
 
 #### sino que hermano contra hermano litiga
-##### La realidad era completamente opuesta a lo que debía ocurrir.
+##### La realidad era completamente opuesta a lo que <u>debía</u> ocurrir.
 
 ##### Hermanos estaban enfrentándose públicamente unos contra otros.
 
 ###### Pablo sigue exponiendo una profunda contradicción:
-- aquellos que compartían comunión en Cristo,
+- <u>aquellos</u> que compartían comunión en Cristo,
 - estaban destruyéndose mutuamente en conflictos públicos.
 
 #### y esto ante incrédulos?
@@ -4364,7 +4446,7 @@ sino que hermano contra hermano litiga, y esto ante incrédulos?
 
 ###### La iglesia que debía reflejar:
 - sabiduría,
-- unidad,
+- <u>unidad</u>,
 - y discernimiento espiritual,
 estaba exponiendo públicamente sus divisiones delante de quienes estaban fuera.
 
@@ -4374,9 +4456,9 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 #### Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigios entre sí.
 ##### El simple hecho de tener estos litigios ya mostraba una derrota entre ellos.
 
-##### El problema no era solamente perder el caso, sino haber llegado a ese punto entre hermanos.
+##### El problema no era solamente perder el caso, sino <u>haber</u> llegado a ese punto entre hermanos.
 
-###### La existencia misma de estos conflictos públicos ya dejaba expuesta una condición equivocada entre ellos.
+###### La existencia misma de estos conflictos públicos ya dejaba expuesta una condición equivocada <u>entre</u> ellos.
 
 #### ¿Por qué no sufren mejor la injusticia?
 ##### Pablo presenta otra manera de pensar completamente distinta.
@@ -4386,7 +4468,7 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 ###### Pablo comienza a confrontar profundamente:
 - los derechos personales,
 - la autoprotección,
-- y la insistencia en defender lo propio.
+- y la insistencia en defender lo <u>propio</u>.
 
 ###### La perspectiva de Pablo no gira alrededor de:
 - ganar,
@@ -4396,7 +4478,7 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 #### ¿Por qué no ser mejor defraudados?
 ##### Pablo continúa empujando a los corintios hacia una perspectiva más madura.
 
-##### Los corintios estaban luchando por proteger lo suyo, aun a costa de otros hermanos.
+##### Los corintios estaban luchando por <u>proteger</u> lo suyo, aun a costa de otros hermanos.
 
 ##### Pablo muestra que estaban pensando como hombres del mundo y no conforme a Cristo.
 
@@ -4405,7 +4487,7 @@ Así que, en efecto, es ya un fallo entre ustedes el hecho de que tengan litigio
 - la jactancia,
 - y la gloria humana.
 
-###### Sin embargo, los corintios todavía seguían defendiendo:
+###### Sin embargo, los <u>corintios</u> todavía seguían defendiendo:
 - sus derechos,
 - sus intereses,
 - y su posición
@@ -4415,14 +4497,14 @@ como hombres del mundo.
 Por el contrario, ustedes mismos cometen injusticias y defraudan, y esto aun a *sus propios* hermanos.
 
 #### Por el contrario, ustedes mismos cometen injusticias y defraudan
-##### En lugar de sufrir injusticia, ellos mismos estaban actuando injustamente.
+##### En lugar de sufrir injusticia, ellos mismos <u>estaban</u> actuando injustamente.
 
 ##### Los corintios no eran solamente víctimas; también estaban defraudando a otros.
 
 ###### Pablo expone que el problema no estaba solamente:
 - en el conflicto,
 sino:
-- en la manera egoísta y dañina en que estaban actuando.
+- en la manera egoísta y <u>dañina</u> en que estaban actuando.
 
 #### y esto aun a *sus propios* hermanos.
 ##### Lo más grave era que esto ocurría entre hermanos.
@@ -4432,7 +4514,7 @@ sino:
 ###### La gravedad de la situación aumenta porque:
 - no estaban actuando así contra extraños,
 sino:
-- contra miembros del mismo cuerpo.
+- contra miembros del <u>mismo</u> cuerpo.
 
 ### 1 Corintios 6:9
 ¿O no saben que los injustos no heredarán el reino de Dios? No se dejen engañar: ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados, ni los homosexuales
@@ -4442,7 +4524,7 @@ sino:
 
 ##### La injusticia no corresponde al reino de Dios.
 
-##### Pablo comienza a conectar el comportamiento de los corintios con una advertencia seria.
+##### Pablo comienza a conectar el comportamiento de los corintios con una advertencia <u>seria</u>.
 
 ##### Los creyentes no pueden tratar la injusticia como algo compatible con la vida del reino de Dios.
 
@@ -4450,32 +4532,32 @@ sino:
 - seguros,
 - tranquilos,
 - y autoengañados,
-mientras se permanece en prácticas incompatibles con el reino de Dios.
+mientras se permanece en prácticas incompatibles con el <u>reino</u> de Dios.
 
 #### No se dejen engañar:
 ##### Pablo advierte a los corintios que no vivan bajo engaño.
 
 ##### El engaño produce una perspectiva equivocada acerca de la realidad.
 
-###### Nuevamente aparece el mismo peligro que atraviesa toda la carta:
+###### Nuevamente <u>aparece</u> el mismo peligro que atraviesa toda la carta:
 - pensar incorrectamente,
 - evaluarse incorrectamente,
 - y percibirse incorrectamente delante de Dios.
 
 #### ni los inmorales, ni los idólatras, ni los adúlteros, ni los afeminados
-##### Pablo continúa describiendo las prácticas que no corresponden al reino de Dios.
+##### Pablo continúa describiendo las <u>prácticas</u> que no corresponden al reino de Dios.
 
 ###### Pablo no está describiendo:
 - debilidades pequeñas,
 - ni asuntos indiferentes,
-sino prácticas incompatibles con la realidad del reino de Dios.
+sino prácticas incompatibles con la realidad del reino de <u>Dios</u>.
 
 ### 1 Corintios 6:10
 ni los ladrones, ni los avaros, ni los borrachos, ni los difamadores, ni los estafadores heredarán el reino de Dios.
 
 ##### Pablo completa la lista de prácticas incompatibles con el reino de Dios.
 
-##### Estas cosas describen la realidad de los injustos.
+##### Estas cosas describen la <u>realidad</u> de los injustos.
 
 ###### Pablo continúa destruyendo cualquier percepción espiritual falsa que permitiera pensar:
 - que estas prácticas podían convivir normalmente con la vida del reino de Dios.
@@ -4491,7 +4573,7 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 ##### La lista no era algo distante de la experiencia de los corintios.
 
 ###### Pablo no habla:
-- como alguien distante de ellos,
+- como alguien <u>distante</u> de ellos,
 - ni como si jamás hubieran estado en esa condición.
 
 ###### Algunos de ellos habían vivido exactamente en esas mismas prácticas.
@@ -4503,7 +4585,7 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 
 ##### Esto describe una realidad ya ocurrida.
 
-###### Pablo vuelve nuevamente a dirigir toda la atención:
+###### Pablo vuelve nuevamente a <u>dirigir</u> toda la atención:
 - hacia aquello que Dios ya había hecho a favor de ellos.
 
 #### pero fueron santificados,
@@ -4516,7 +4598,7 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 #### pero fueron justificados
 ##### Los corintios también habían sido justificados.
 
-##### Ya no permanecían bajo la misma condición anterior.
+##### Ya no permanecían bajo la <u>misma</u> condición anterior.
 
 ###### Pablo continúa recordándoles que:
 - ya no pertenecían a la misma realidad anterior.
@@ -4528,7 +4610,7 @@ Y esto eran algunos de ustedes; pero fueron lavados, pero fueron santificados, p
 
 ###### Una vez más, la identidad y realidad de los creyentes:
 - no descansan en sí mismos,
-- ni en mérito humano,
+- ni en <u>mérito</u> humano,
 sino:
 - en la obra realizada por Dios mediante Cristo y Su Espíritu.
 
@@ -4540,16 +4622,16 @@ Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas 
 #### Todas las cosas me son lícitas, pero no todas son de provecho.
 ##### Pablo introduce ahora otro contraste importante.
 
-##### Algo puede ser lícito y aun así no resultar provechoso.
+##### Algo puede ser lícito y aun así no resultar <u>provechoso</u>.
 
 ##### La vida cristiana no se define solamente por lo permitido.
 
 ###### Los corintios parecen estar razonando desde:
-- libertad,
+- <u>libertad</u>,
 - conocimiento,
 - y derechos personales.
 
-###### Sin embargo, Pablo comienza a mover la discusión hacia:
+###### Sin embargo, Pablo comienza a <u>mover</u> la discusión hacia:
 - provecho,
 - dominio,
 - y verdadera libertad.
@@ -4561,10 +4643,10 @@ Todas las cosas me son lícitas, pero no todas son de provecho. Todas las cosas 
 
 ##### Pablo continúa empujando a los corintios hacia una manera madura de pensar.
 
-###### Lo que aparentemente parecía:
+###### Lo que aparentemente <u>parecía</u>:
 - libertad,
 - autonomía,
-- o control,
+- o <u>control</u>,
 podía terminar produciendo:
 - esclavitud,
 - dominio,
@@ -4574,43 +4656,43 @@ podía terminar produciendo:
 Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos. Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
 
 #### Los alimentos son para el estómago y el estómago para los alimentos, pero Dios destruirá a los dos.
-##### Pablo presenta aquí una afirmación relacionada con cosas temporales.
+##### Pablo <u>presenta</u> aquí una afirmación relacionada con cosas temporales.
 
 ##### Tanto los alimentos como el estómago pertenecen a una realidad pasajera.
 
-###### Pablo parece responder a una manera de pensar que reducía el cuerpo a algo meramente natural o pasajero.
+###### Pablo parece responder a una manera de <u>pensar</u> que reducía el cuerpo a algo meramente natural o pasajero.
 
 #### Sin embargo, el cuerpo no es para la fornicación, sino para el Señor, y el Señor es para el cuerpo.
 ##### Pablo contrasta inmediatamente el cuerpo con aquello anterior.
 
-##### El cuerpo no fue hecho para la fornicación.
+##### El cuerpo no fue hecho <u>para</u> la fornicación.
 
 ##### El cuerpo pertenece al Señor.
 
-##### El Señor también es presentado en relación con el cuerpo del creyente.
+##### El Señor también es presentado en relación con el <u>cuerpo</u> del creyente.
 
 ###### Pablo no permite separar:
 - espiritualidad,
 y:
-- cuerpo.
+- <u>cuerpo</u>.
 
 ###### El cuerpo del creyente ya no puede ser entendido:
-- independientemente de Cristo,
+- independientemente de <u>Cristo</u>,
 - ni como algo sin significado espiritual.
 
 ### 1 Corintios 6:14
 Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su poder.
 
-##### El cuerpo del creyente no pertenece a una realidad desechable.
+##### El cuerpo del <u>creyente</u> no pertenece a una realidad desechable.
 
 ##### Dios resucitó al Señor y también resucitará a los creyentes.
 
 ##### Pablo conecta el cuerpo con una realidad futura y gloriosa.
 
-###### El cuerpo no es tratado:
+###### El cuerpo no es <u>tratado</u>:
 - como algo irrelevante,
 - temporalmente descartable,
-- ni separado de la obra de Dios.
+- ni separado de la <u>obra</u> de Dios.
 
 ###### Dios mismo actuará sobre el cuerpo en la resurrección.
 
@@ -4620,7 +4702,7 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 #### ¿No saben que sus cuerpos son miembros de Cristo?
 ##### Pablo vuelve otra vez a algo que los corintios debían saber.
 
-##### Los cuerpos de los creyentes son miembros de Cristo.
+##### Los cuerpos de los creyentes son <u>miembros</u> de Cristo.
 
 ##### Pablo no está separando la vida espiritual del cuerpo.
 
@@ -4629,12 +4711,12 @@ Y Dios, que resucitó al Señor, también nos resucitará a nosotros mediante Su
 - abstracto,
 - o separado de la vida corporal.
 
-###### Los cuerpos mismos pertenecen a Cristo.
+###### Los cuerpos mismos <u>pertenecen</u> a Cristo.
 
 #### ¿Tomaré, acaso, los miembros de Cristo y los haré miembros de una ramera?
 ##### Pablo muestra lo incompatible de unir aquello que pertenece a Cristo con inmoralidad sexual.
 
-##### La pregunta deja expuesta la gravedad de la situación.
+##### La pregunta deja expuesta la gravedad de la <u>situación</u>.
 
 ###### Pablo obliga a mirar la situación desde una perspectiva completamente distinta:
 - no solamente como un acto físico,
@@ -4642,7 +4724,7 @@ sino:
 - como algo relacionado directamente con Cristo mismo.
 
 #### ¡De ningún modo!
-##### Pablo rechaza completamente esa idea.
+##### Pablo rechaza completamente esa <u>idea</u>.
 
 ###### La incompatibilidad entre:
 - Cristo,
@@ -4654,18 +4736,18 @@ es absoluta.
 ¿O no saben que el que se une a una ramera es un cuerpo *con ella?* Porque Él dice: «Los dos vendrán a ser una sola carne».
 
 #### ¿O no saben que el que se une a una ramera es un cuerpo *con ella?*
-##### La unión sexual produce una unión real entre dos personas.
+##### La unión sexual produce una <u>unión</u> real entre dos personas.
 
 ##### Pablo vuelve a usar otra pregunta apelando al conocimiento que ellos debían tener.
 
 ###### Pablo continúa destruyendo cualquier manera superficial de pensar acerca del cuerpo y la sexualidad.
 
 #### Porque Él dice: «Los dos vendrán a ser una sola carne».
-##### Pablo apoya esta afirmación con las Escrituras.
+##### Pablo apoya esta afirmación con las <u>Escrituras</u>.
 
 ##### La unión sexual no es presentada como algo superficial.
 
-###### La realidad corporal tiene un significado profundo delante de Dios.
+###### La realidad <u>corporal</u> tiene un significado profundo delante de Dios.
 
 ### 1 Corintios 6:17
 Pero el que se une al Señor, es un espíritu *con Él*.
@@ -4674,11 +4756,11 @@ Pero el que se une al Señor, es un espíritu *con Él*.
 
 ##### El creyente unido al Señor es un espíritu con Él.
 
-##### Pablo continúa mostrando que la fornicación contradice la realidad espiritual del creyente.
+##### Pablo continúa mostrando que la fornicación <u>contradice</u> la realidad espiritual del creyente.
 
 ###### Nuevamente aparece el gran contraste de esta sección:
 - aquello que los corintios podían estar separando,
-Pablo lo vuelve a unir completamente:
+Pablo lo vuelve a <u>unir</u> completamente:
 - cuerpo,
 - pertenencia,
 - y unión con Cristo.
@@ -4687,19 +4769,19 @@ Pablo lo vuelve a unir completamente:
 Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están fuera del cuerpo, pero el fornicario peca contra su propio cuerpo.
 
 #### Huyan de la fornicación.
-##### Pablo ahora da un mandato directo.
+##### Pablo ahora da un mandato <u>directo</u>.
 
 ##### La respuesta correcta frente a la fornicación no es acercarse, sino huir.
 
 ###### Pablo no trata este pecado:
 - como algo pequeño,
 - controlable,
-- ni compatible con la vida en Cristo.
+- ni compatible con la <u>vida</u> en Cristo.
 
 #### Todos *los demás* pecados que un hombre comete están fuera del cuerpo,
 ##### Pablo establece aquí una distinción particular respecto a este pecado.
 
-###### Pablo continúa enfatizando la relación especial entre:
+###### Pablo continúa enfatizando la <u>relación</u> especial entre:
 - el cuerpo,
 - la sexualidad,
 - y la pertenencia espiritual del creyente.
@@ -4707,11 +4789,11 @@ Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están
 #### pero el fornicario peca contra su propio cuerpo.
 ##### La fornicación involucra el propio cuerpo de una manera especial.
 
-##### Pablo continúa conectando este pecado con la realidad del cuerpo del creyente.
+##### Pablo continúa conectando <u>este</u> pecado con la realidad del cuerpo del creyente.
 
 ###### El problema no es solamente moral.
 
-###### El creyente está actuando contra aquello que ahora pertenece al Señor.
+###### El creyente está actuando <u>contra</u> aquello que ahora pertenece al Señor.
 
 ### 1 Corintios 6:19
 ¿O no saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual tienen de Dios, y que ustedes no se pertenecen a sí mismos?
@@ -4721,11 +4803,11 @@ Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están
 
 ##### El cuerpo del creyente es templo del Espíritu Santo.
 
-##### El Espíritu Santo habita en los creyentes.
+##### El Espíritu Santo habita en los <u>creyentes</u>.
 
 ###### Pablo vuelve a redefinir completamente el cuerpo desde:
 - la presencia de Dios,
-- y la pertenencia al Espíritu.
+- y la pertenencia al <u>Espíritu</u>.
 
 ###### El cuerpo ya no puede verse:
 - como autónomo,
@@ -4733,14 +4815,14 @@ Huyan de la fornicación. Todos *los demás* pecados que un hombre comete están
 - o separado de la realidad espiritual.
 
 #### el cual tienen de Dios
-##### El Espíritu Santo fue dado por Dios mismo.
+##### El Espíritu <u>Santo</u> fue dado por Dios mismo.
 
 ##### Esto vuelve a dirigir toda la atención hacia lo que Dios ha hecho.
 
 ###### Nuevamente la realidad del creyente descansa:
 - en la obra de Dios,
 y no:
-- en sí mismo.
+- en sí <u>mismo</u>.
 
 #### y que ustedes no se pertenecen a sí mismos?
 ##### Los creyentes ya no se pertenecen a sí mismos.
@@ -4749,7 +4831,7 @@ y no:
 
 ###### Esta afirmación confronta profundamente:
 - la autonomía humana,
-- el derecho absoluto sobre uno mismo,
+- el derecho absoluto sobre uno <u>mismo</u>,
 - y la idea de libertad centrada en el hombre.
 
 ### 1 Corintios 6:20
@@ -4762,7 +4844,7 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 
 ##### Su vida ahora pertenece a Dios.
 
-###### La pertenencia a Cristo no es:
+###### La pertenencia a <u>Cristo</u> no es:
 - simbólica,
 - ni superficial.
 
@@ -4771,7 +4853,7 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 #### Por tanto, glorifiquen a Dios en su cuerpo y en su espíritu, los cuales son de Dios.
 ##### Pablo concluye con un mandato práctico.
 
-##### Los creyentes pueden glorificar a Dios con sus cuerpos y con sus espíritus.
+##### Los creyentes <u>pueden</u> glorificar a Dios con sus cuerpos y con sus espíritus.
 
 ##### Tanto el cuerpo como el espíritu pertenecen a Dios.
 
@@ -4781,8 +4863,17 @@ Porque han sido comprados por un precio. Por tanto, glorifiquen a Dios en su cue
 
 ###### La realidad de pertenecer a Cristo debía expresarse:
 - en el cuerpo,
-- en la vida,
+- en la <u>vida</u>,
 - y en toda la manera de vivir.
+
+> En Síntesis
+>- Pablo concluye que los creyentes no se pertenecen a sí mismos, porque fueron realmente comprados por Dios mediante la obra de Cristo.
+>- La pertenencia a Cristo redefine completamente la manera en que los creyentes deben comprender su cuerpo, su vida y toda su existencia.
+>- El cuerpo no es presentado como algo separado de la realidad espiritual, sino como parte de aquello que ahora pertenece a Dios.
+>- La espiritualidad verdadera no consiste solamente en pensamientos o experiencias internas, sino en una vida que glorifica a Dios también en el cuerpo.
+>- Pablo termina destruyendo toda falsa separación entre vida espiritual y vida práctica, mostrando que toda la vida del creyente debe corresponder a su pertenencia a Cristo.
+
+<!-- @quiz 1corintios-6 -->
 
 ## 7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios
 
@@ -4792,21 +4883,21 @@ En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mu
 #### En cuanto a las cosas de que me escribieron
 ##### Pablo ahora comienza a responder asuntos específicos que los corintios le habían escrito.
 
-###### Hasta este punto de la carta, Pablo principalmente había venido corrigiendo:
+###### Hasta este punto de la carta, Pablo principalmente había <u>venido</u> corrigiendo:
 - divisiones,
 - arrogancia,
 - inmoralidad,
 - litigios,
 - y problemas que había oído acerca de ellos.
 
-###### Ahora el flujo cambia.
+###### Ahora el flujo <u>cambia</u>.
 
 ###### Pablo comienza a responder preguntas que aparentemente los mismos corintios le enviaron.
 
 ###### Esto permite percibir que los corintios:
 - estaban pensando activamente sobre estos temas,
 - dialogando sobre espiritualidad,
-- y tratando de entender cómo vivir correctamente.
+- y tratando de entender cómo <u>vivir</u> correctamente.
 
 #### bueno es para el hombre no tocar mujer.
 ##### Pablo introduce ahora una afirmación acerca de no tocar mujer.
@@ -4820,13 +4911,13 @@ En cuanto a las cosas de que me escribieron, bueno es para el hombre no tocar mu
 - mujer,
 - y deberes matrimoniales.
 
-##### Pablo sí reconoce algo positivo en abstenerse.
+##### Pablo sí reconoce algo <u>positivo</u> en abstenerse.
 
 ###### Sin embargo, Pablo no deja esta afirmación aislada.
 
 ###### El siguiente versículo inmediatamente comienza a limitar y contextualizar esta idea.
 
-###### Parece existir nuevamente una tendencia entre los corintios hacia posiciones extremas o desequilibradas.
+###### Parece existir nuevamente una tendencia entre los <u>corintios</u> hacia posiciones extremas o desequilibradas.
 
 ### 1 Corintios 7:2
 No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer, y cada una tenga su propio marido.
@@ -4834,7 +4925,7 @@ No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer
 #### No obstante, por razón de las inmoralidades
 ##### Pablo ahora introduce un contraste con la afirmación anterior.
 
-###### La expresión “No obstante” muestra que Pablo no quiere que la afirmación del versículo 1 sea entendida de manera absoluta o aislada.
+###### La expresión “No obstante” <u>muestra</u> que Pablo no quiere que la afirmación del versículo 1 sea entendida de manera absoluta o aislada.
 
 ##### La realidad de las inmoralidades cambia la situación práctica.
 
@@ -4843,7 +4934,7 @@ No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer
 ###### Está considerando la realidad concreta de tentaciones e inmoralidades presentes.
 
 #### que cada uno tenga su propia mujer
-##### Pablo manda que cada hombre tenga su propia mujer.
+##### Pablo manda que cada hombre <u>tenga</u> su propia mujer.
 
 ###### La respuesta de Pablo frente a las inmoralidades no es despreciar el matrimonio.
 
@@ -4854,12 +4945,12 @@ No obstante, por razón de las inmoralidades, que cada uno tenga su propia mujer
 #### y cada una tenga su propio marido.
 ##### Pablo inmediatamente aplica el mismo principio a la mujer.
 
-###### Pablo no presenta la responsabilidad sexual como algo dirigido solamente al hombre.
+###### Pablo no presenta la responsabilidad <u>sexual</u> como algo dirigido solamente al hombre.
 
 ##### El énfasis comienza a moverse hacia una responsabilidad mutua dentro del matrimonio.
 
 ###### Pablo continúa alejándose:
-- del egoísmo,
+- del <u>egoísmo</u>,
 - de la autonomía individual,
 - y de una espiritualidad desconectada de la realidad relacional.
 
@@ -4869,7 +4960,7 @@ Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpl
 #### Que el marido cumpla su deber para con su mujer
 ##### Pablo ahora habla en términos de responsabilidad matrimonial.
 
-###### El marido tiene un deber real hacia su mujer.
+###### El marido tiene un deber real <u>hacia</u> su mujer.
 
 ##### El enfoque no está sobre derechos individuales sino sobre responsabilidad hacia el otro.
 
@@ -4882,7 +4973,7 @@ Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpl
 
 ##### La responsabilidad matrimonial es presentada como recíproca.
 
-###### Ninguno de los dos aparece como centro exclusivo de la relación.
+###### Ninguno de los dos <u>aparece</u> como centro exclusivo de la relación.
 
 ###### Ambos deben considerar al otro.
 
@@ -4890,7 +4981,7 @@ Que el marido cumpla su deber para con su mujer, e igualmente la mujer *lo cumpl
 - no desde autosuficiencia,
 - ni desde exigencias personales,
 sino:
-- desde responsabilidad mutua.
+- desde responsabilidad <u>mutua</u>.
 
 ### 1 Corintios 7:4
 La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo el marido no tiene autoridad sobre su propio cuerpo, sino la mujer.
@@ -4902,7 +4993,7 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 
 ##### Pablo habla en términos de autoridad compartida dentro del matrimonio.
 
-###### Esto continúa desarrollando la lógica de:
+###### Esto continúa desarrollando la <u>lógica</u> de:
 - deber mutuo,
 - responsabilidad mutua,
 - y consideración mutua.
@@ -4912,7 +5003,7 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 
 ###### Esto es importante porque Pablo no deja la afirmación solamente sobre la mujer.
 
-##### La mutualidad se mantiene en ambas direcciones.
+##### La mutualidad se mantiene en <u>ambas</u> direcciones.
 
 ###### El marido tampoco es presentado como dueño independiente de sí mismo dentro del matrimonio.
 
@@ -4920,11 +5011,11 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 
 ###### El flujo de los versículos 2-4 desarrolla progresivamente:
 - matrimonio,
-- deber mutuo,
+- deber <u>mutuo</u>,
 - consideración mutua,
 - y autoridad mutua.
 
-###### Nuevamente aparece una confrontación importante contra:
+###### Nuevamente aparece una confrontación importante <u>contra</u>:
 - la autonomía individual,
 - y la idea de pertenecer completamente a uno mismo.
 
@@ -4932,13 +5023,13 @@ La mujer no tiene autoridad sobre su propio cuerpo, sino el marido. Y asimismo e
 No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, para dedicarse a la oración. Vuelvan después a juntarse, a fin de que Satanás no los tiente por causa de falta de dominio propio.
 
 #### No se priven el uno del otro
-##### Pablo da un mandato directo a los casados.
+##### Pablo da un mandato <u>directo</u> a los casados.
 
 ##### La abstinencia dentro del matrimonio no debe ser impuesta unilateralmente.
 
 ##### Privarse el uno al otro contradice la responsabilidad mutua que acaba de describir.
 
-###### Pablo continúa rechazando una espiritualidad que ignore:
+###### Pablo continúa rechazando una espiritualidad que <u>ignore</u>:
 - el cuerpo,
 - la relación matrimonial,
 - o las responsabilidades mutuas.
@@ -4952,7 +5043,7 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 
 ##### No es una separación indefinida ni una decisión tomada por uno solo.
 
-###### Incluso la abstinencia espiritual debe mantenerse:
+###### Incluso la abstinencia espiritual <u>debe</u> mantenerse:
 - ordenada,
 - limitada,
 - y dentro de consideración mutua.
@@ -4966,7 +5057,7 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 
 ###### Sin embargo, tampoco permite separar eso:
 - de la realidad matrimonial,
-- ni de la responsabilidad mutua.
+- ni de la responsabilidad <u>mutua</u>.
 
 #### Vuelvan después a juntarse
 ##### Pablo manda que después vuelvan a la relación normal del matrimonio.
@@ -4978,7 +5069,7 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 #### a fin de que Satanás no los tiente por causa de falta de dominio propio.
 ##### Pablo da la razón práctica del mandato.
 
-##### La falta de dominio propio puede convertirse en ocasión de tentación.
+##### La falta de dominio <u>propio</u> puede convertirse en ocasión de tentación.
 
 ##### Pablo no trata el matrimonio como algo inferior, sino como un contexto legítimo donde se debe vivir con responsabilidad, cuidado mutuo y sobriedad espiritual.
 
@@ -4991,7 +5082,7 @@ No se priven el uno del otro, excepto de común acuerdo *y* por cierto tiempo, p
 Pero esto lo digo por vía de concesión, no como una orden.
 
 #### Pero esto lo digo por vía de concesión
-##### Pablo aclara que lo anterior no estaba siendo dado como una obligación absoluta para todos.
+##### Pablo aclara que lo <u>anterior</u> no estaba siendo dado como una obligación absoluta para todos.
 
 ##### Está permitiendo cierta práctica, no imponiéndola universalmente.
 
@@ -5008,7 +5099,7 @@ Pero esto lo digo por vía de concesión, no como una orden.
 Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cada cual ha recibido de Dios su propio don, unos de una manera y otros de otra.
 
 #### Sin embargo, yo desearía que todos los hombres fueran como yo.
-##### Pablo expresa aquí un deseo personal.
+##### Pablo expresa aquí un deseo <u>personal</u>.
 
 ##### Pablo considera buena su propia condición.
 
@@ -5023,20 +5114,20 @@ Sin embargo, yo desearía que todos los hombres fueran como yo. No obstante, cad
 
 ##### Pablo presenta estas diferencias como dones dados por Dios.
 
-###### Nuevamente la atención es dirigida:
-- hacia lo que Dios da,
+###### Nuevamente la <u>atención</u> es dirigida:
+- hacia lo que <u>Dios</u> da,
 y no:
 - hacia comparaciones humanas,
 - autosuficiencia,
 - o imposición de una sola condición para todos.
 
 #### unos de una manera y otros de otra.
-##### Dios no da exactamente lo mismo a todos.
+##### Dios no da exactamente lo <u>mismo</u> a todos.
 
 ##### Pablo reconoce diversidad dentro de la vida de los creyentes.
 
 ###### La vida cristiana no es presentada:
-- como uniformidad absoluta,
+- como uniformidad <u>absoluta</u>,
 sino:
 - como una realidad donde Dios obra de maneras distintas en diferentes personas.
 
@@ -5046,7 +5137,7 @@ sino:
 A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
 
 #### A los solteros y a las viudas digo
-##### Pablo dirige ahora su atención específicamente a los solteros y a las viudas.
+##### Pablo dirige ahora su <u>atención</u> específicamente a los solteros y a las viudas.
 
 ###### Pablo continúa respondiendo situaciones concretas dentro de la vida relacional de los creyentes.
 
@@ -5055,7 +5146,7 @@ A los solteros y a las viudas digo que es bueno para ellos si se quedan como yo.
 
 ##### Permanecer sin casarse es presentado como algo bueno.
 
-##### Sin embargo, Pablo sigue hablando dentro del marco de concesión y no de obligación universal.
+##### Sin embargo, Pablo sigue hablando dentro del <u>marco</u> de concesión y no de obligación universal.
 
 ###### Pablo no convierte su situación personal:
 - en medida absoluta,
@@ -5072,7 +5163,7 @@ Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
 ###### Pablo continúa tratando estos asuntos:
 - con realismo,
 - sobriedad,
-- y consideración práctica de la condición humana.
+- y consideración <u>práctica</u> de la condición humana.
 
 #### cásense.
 ##### Pablo manda casarse en ese caso.
@@ -5089,7 +5180,7 @@ Pero si carecen de dominio propio, cásense. Que mejor es casarse que quemarse.
 ##### Pablo continúa tratando el tema de manera sobria y práctica.
 
 ###### La espiritualidad no es presentada:
-- como negación artificial de la realidad humana,
+- como negación artificial de la <u>realidad</u> humana,
 sino:
 - como una vida ordenada correctamente delante de Dios.
 
@@ -5097,7 +5188,7 @@ sino:
 A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al marido.
 
 #### A los casados instruyo, no yo, sino el Señor
-##### Pablo ahora distingue esta instrucción de las anteriores.
+##### Pablo ahora <u>distingue</u> esta instrucción de las anteriores.
 
 ##### Aquí apela directamente a una enseñanza del Señor.
 
@@ -5107,7 +5198,7 @@ A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al mar
 - y precisando sus instrucciones.
 
 #### que la mujer no debe dejar al marido.
-##### La mujer no debe separarse de su marido.
+##### La mujer no debe separarse de su <u>marido</u>.
 
 ##### Pablo presenta esto como una instrucción clara.
 
@@ -5117,14 +5208,14 @@ A los casados instruyo, no yo, sino el Señor: que la mujer no debe dejar al mar
 Pero si lo deja, quédese sin casar, o *de lo contrario* que se reconcilie con su marido, y que el marido no abandone a su mujer.
 
 #### Pero si lo deja
-##### Pablo reconoce la posibilidad de una separación.
+##### Pablo <u>reconoce</u> la posibilidad de una separación.
 
-##### Pablo no está describiendo aquí una situación ideal.
+##### Pablo no está describiendo aquí una situación <u>ideal</u>.
 
 ###### Pablo trata situaciones reales y concretas que efectivamente podían ocurrir entre los creyentes.
 
 #### quédese sin casar
-##### Una posibilidad es permanecer sin casarse.
+##### Una posibilidad es permanecer sin <u>casarse</u>.
 
 ###### Pablo no introduce inmediatamente una nueva relación como solución automática.
 
@@ -5133,7 +5224,7 @@ Pero si lo deja, quédese sin casar, o *de lo contrario* que se reconcilie con s
 
 ##### Pablo sigue considerando importante la reconciliación matrimonial.
 
-###### El énfasis continúa orientado:
+###### El énfasis continúa <u>orientado</u>:
 - hacia restauración,
 - permanencia,
 - y paz dentro de la relación.
@@ -5151,7 +5242,7 @@ Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que n
 #### Pero a los demás digo yo, no el Señor
 ##### Pablo vuelve a distinguir esta instrucción de la anterior.
 
-##### No significa que lo dicho tenga menos valor, sino que no está citando directamente una enseñanza previa del Señor sobre este caso específico.
+##### No significa que lo dicho tenga menos valor, sino que no está citando directamente una enseñanza previa del Señor sobre <u>este</u> caso específico.
 
 ###### Pablo continúa respondiendo cuidadosamente situaciones particulares que estaban surgiendo entre los corintios.
 
@@ -5160,7 +5251,7 @@ Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que n
 
 ##### El problema no es solamente el matrimonio, sino la convivencia dentro de esa diferencia espiritual.
 
-###### Parece que algunos podían pensar que la diferencia espiritual exigía romper inmediatamente la relación.
+###### Parece que algunos podían pensar que la diferencia espiritual exigía romper inmediatamente la <u>relación</u>.
 
 #### no la abandone.
 ##### El creyente no debe abandonar a la mujer incrédula si ella desea permanecer en el matrimonio.
@@ -5171,7 +5262,7 @@ Pero a los demás digo yo, no el Señor, que si un hermano tiene una mujer que n
 Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no abandone a su marido.
 
 #### Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella
-##### Pablo aplica exactamente el mismo principio a la mujer creyente.
+##### Pablo aplica exactamente el mismo principio a la <u>mujer</u> creyente.
 
 ###### Nuevamente Pablo mantiene equilibrio entre hombre y mujer dentro de sus instrucciones.
 
@@ -5180,7 +5271,7 @@ Y la mujer cuyo marido no es creyente, y él consiente en vivir con ella, no aba
 
 ###### Pablo continúa promoviendo:
 - estabilidad,
-- paz,
+- <u>paz</u>,
 - y permanencia
 dentro de la relación matrimonial.
 
@@ -5190,7 +5281,7 @@ Porque el marido que no es creyente es santificado por medio de su mujer; y la m
 #### Porque el marido que no es creyente es santificado por medio de su mujer
 ##### Pablo da la razón por la cual no debe abandonarse ese matrimonio.
 
-##### El incrédulo es descrito como santificado en relación con el creyente.
+##### El incrédulo es descrito <u>como</u> santificado en relación con el creyente.
 
 ###### Pablo no presenta la presencia del incrédulo:
 - como contaminación automática,
@@ -5198,7 +5289,7 @@ sino:
 - dentro de una realidad distinta producida por la presencia del creyente.
 
 #### y la mujer que no es creyente es santificada por medio de su marido creyente.
-##### Pablo aplica el mismo principio en dirección contraria.
+##### Pablo aplica el mismo principio en <u>dirección</u> contraria.
 
 ##### La presencia del creyente produce una realidad distinta dentro del hogar.
 
@@ -5210,7 +5301,7 @@ sino:
 ##### Los hijos son descritos como santos y no inmundos.
 
 ###### Pablo continúa describiendo el hogar del creyente:
-- desde una perspectiva distinta,
+- desde una perspectiva <u>distinta</u>,
 - marcada por la presencia del pueblo de Dios.
 
 ### 1 Corintios 7:15
@@ -5219,7 +5310,7 @@ Sin embargo, si el que no es creyente se separa, que se separe. En tales *casos*
 #### Sin embargo, si el que no es creyente se separa, que se separe.
 ##### Pablo ahora contempla otra situación posible.
 
-##### Si el incrédulo decide irse, el creyente no debe impedirlo a toda costa.
+##### Si el incrédulo decide <u>irse</u>, el creyente no debe impedirlo a toda costa.
 
 ###### Pablo continúa tratando estas situaciones:
 - con sobriedad,
@@ -5230,15 +5321,15 @@ Sin embargo, si el que no es creyente se separa, que se separe. En tales *casos*
 ##### Pablo afirma que el creyente no queda esclavizado en esa situación.
 
 ###### La vida cristiana no es presentada:
-- como esclavitud desesperada,
-- ni como lucha incontrolable por mantener toda situación a cualquier costo.
+- <u>como</u> esclavitud desesperada,
+- ni como lucha incontrolable por mantener toda situación a cualquier <u>costo</u>.
 
 #### sino que Dios nos ha llamado *para vivir* en paz.
 ##### Dios llamó a los creyentes a vivir en paz.
 
 ##### Pablo continúa enfocándose en una vida ordenada delante del Señor.
 
-###### La paz aparece nuevamente como parte importante de la vida del creyente.
+###### La paz <u>aparece</u> nuevamente como parte importante de la vida del creyente.
 
 ### 1 Corintios 7:16
 Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, marido, si salvarás a tu mujer?
@@ -5251,7 +5342,7 @@ Pues ¿cómo sabes tú, mujer, si salvarás a tu marido? ¿O cómo sabes tú, ma
 ###### Pablo continúa alejando:
 - el control,
 - la autosuficiencia,
-- y la ilusión de manejar completamente los resultados espirituales.
+- y la ilusión de <u>manejar</u> completamente los resultados espirituales.
 
 #### ¿O cómo sabes tú, marido, si salvarás a tu mujer?
 ##### Pablo aplica exactamente el mismo principio al hombre.
@@ -5266,7 +5357,7 @@ Fuera de esto, según el Señor ha asignado a cada uno, según Dios llamó a cad
 #### Fuera de esto, según el Señor ha asignado a cada uno
 ##### Pablo comienza ahora a establecer un principio más amplio.
 
-##### Cada creyente debe considerar aquello que el Señor le ha asignado.
+##### Cada creyente debe considerar <u>aquello</u> que el Señor le ha asignado.
 
 ###### Pablo comienza a mover la discusión:
 - desde casos particulares,
@@ -5276,13 +5367,13 @@ hacia:
 #### según Dios llamó a cada cual
 ##### Pablo vuelve nuevamente al tema del llamado.
 
-##### Dios llamó a cada creyente dentro de una situación concreta.
+##### Dios <u>llamó</u> a cada creyente dentro de una situación concreta.
 
 ###### El llamado de Dios no comienza necesariamente:
 - después de cambiar todas las circunstancias externas.
 
 #### así ande.
-##### Pablo manda vivir correctamente dentro de esa condición.
+##### Pablo manda vivir correctamente <u>dentro</u> de esa condición.
 
 ##### El énfasis no está en cambiar inmediatamente de situación, sino en caminar correctamente delante del Señor.
 
@@ -5290,11 +5381,11 @@ hacia:
 - a pensar que espiritualidad significa necesariamente abandonar inmediatamente toda condición presente.
 
 #### Esto ordeno en todas las iglesias.
-##### Pablo aclara que esta enseñanza no era exclusiva para Corinto.
+##### Pablo aclara que esta enseñanza no era <u>exclusiva</u> para Corinto.
 
 ##### Este era el mismo principio que enseñaba en todas las iglesias.
 
-###### Pablo presenta esto como una instrucción amplia y consistente para el pueblo de Dios.
+###### Pablo presenta <u>esto</u> como una instrucción amplia y consistente para el pueblo de Dios.
 
 ### 1 Corintios 7:18
 ¿Fue llamado alguno *ya* circuncidado? Quédese circuncidado. ¿Fue llamado alguien estando incircuncidado? No se circuncide.
@@ -5302,23 +5393,23 @@ hacia:
 #### ¿Fue llamado alguno *ya* circuncidado? Quédese circuncidado.
 ##### Pablo comienza a aplicar el principio del llamado a situaciones concretas.
 
-##### El creyente circuncidado no debía tratar de cambiar esa condición.
+##### El creyente circuncidado no debía tratar de <u>cambiar</u> esa condición.
 
 ##### Pablo sigue insistiendo en permanecer correctamente dentro de la condición en que fueron llamados.
 
-###### Pablo continúa desplazando la atención:
+###### Pablo continúa desplazando la <u>atención</u>:
 - de transformaciones externas inmediatas,
 hacia:
 - una vida correctamente ordenada delante de Dios.
 
 #### ¿Fue llamado alguien estando incircuncidado? No se circuncide.
-##### Pablo aplica el mismo principio al incircunciso.
+##### Pablo aplica el <u>mismo</u> principio al incircunciso.
 
 ##### La circuncisión no debía ser vista como algo necesario para completar la realidad del creyente.
 
 ###### La condición espiritual del creyente no dependía:
 - de modificar externamente su situación,
-- ni de adoptar marcas externas para obtener mayor aceptación delante de Dios.
+- ni de adoptar marcas externas para obtener mayor aceptación <u>delante</u> de Dios.
 
 ### 1 Corintios 7:19
 La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mandamientos de Dios.
@@ -5328,11 +5419,11 @@ La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mand
 
 ##### Ni la circuncisión ni la incircuncisión definen la realidad espiritual delante de Dios.
 
-##### Los corintios necesitaban dejar de pensar en términos externos como si eso definiera su valor o condición delante de Dios.
+##### Los corintios necesitaban <u>dejar</u> de pensar en términos externos como si eso definiera su valor o condición delante de Dios.
 
 ###### Pablo continúa destruyendo:
 - categorías humanas de valoración,
-- superioridad externa,
+- superioridad <u>externa</u>,
 - y confianza en condiciones visibles.
 
 #### sino el guardar los mandamientos de Dios.
@@ -5343,7 +5434,7 @@ La circuncisión nada es, y nada es la incircuncisión, sino el guardar los mand
 ###### Nuevamente Pablo desplaza el énfasis:
 - desde apariencia,
 - condición,
-- o estatus,
+- o <u>estatus</u>,
 hacia:
 - una vida ordenada delante de Dios.
 
@@ -5351,7 +5442,7 @@ hacia:
 Cada uno permanezca en la condición en que fue llamado
 
 #### Cada uno permanezca en la condición en que fue llamado
-##### Pablo vuelve nuevamente al mismo principio central.
+##### Pablo vuelve nuevamente al mismo <u>principio</u> central.
 
 ##### El llamado de Dios no depende de cambiar inmediatamente la condición externa de la persona.
 
@@ -5364,7 +5455,7 @@ Cada uno permanezca en la condición en que fue llamado
 ¿Fuiste llamado siendo esclavo? No te preocupes. Aunque si puedes obtener tu libertad, prefiérelo.
 
 #### ¿Fuiste llamado siendo esclavo? No te preocupes.
-##### Pablo aplica nuevamente el principio al caso de la esclavitud.
+##### Pablo <u>aplica</u> nuevamente el principio al caso de la esclavitud.
 
 ##### La condición de esclavo no impedía pertenecer plenamente al Señor.
 
@@ -5373,10 +5464,10 @@ Cada uno permanezca en la condición en que fue llamado
 ###### Incluso una condición social tan fuerte como la esclavitud:
 - no anulaba,
 - ni disminuía,
-la realidad del llamado de Dios.
+la realidad del <u>llamado</u> de Dios.
 
 #### Aunque si puedes obtener tu libertad, prefiérelo.
-##### Pablo no está exaltando la esclavitud como algo superior.
+##### Pablo no está exaltando la esclavitud como algo <u>superior</u>.
 
 ##### Si existe oportunidad legítima de libertad, Pablo dice que se aproveche.
 
@@ -5385,7 +5476,7 @@ la realidad del llamado de Dios.
 ###### Pablo continúa manteniendo equilibrio:
 - no absolutiza la condición presente,
 pero tampoco:
-- hace depender toda la vida espiritual del cambio externo.
+- hace depender toda la <u>vida</u> espiritual del cambio externo.
 
 ### 1 Corintios 7:22
 Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señor. De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
@@ -5400,7 +5491,7 @@ Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señ
 ###### Pablo continúa reinterpretando completamente la identidad humana desde la pertenencia a Cristo.
 
 #### De la misma manera, el que fue llamado siendo libre, esclavo es de Cristo.
-##### Pablo invierte ahora la situación del hombre libre.
+##### Pablo invierte ahora la situación del <u>hombre</u> libre.
 
 ##### Aunque socialmente sea libre, pertenece completamente a Cristo.
 
@@ -5410,7 +5501,7 @@ Porque el que fue llamado por el Señor siendo esclavo, hombre libre es del Señ
 - orgullo,
 - superioridad,
 - o autosuficiencia
-basadas en condición social.
+<u>basadas</u> en condición social.
 
 ###### Ambos:
 - esclavo,
@@ -5425,10 +5516,10 @@ Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
 
 ##### Ellos pertenecen a Cristo porque fueron comprados.
 
-##### Su identidad principal ya no proviene de los hombres.
+##### Su identidad principal ya no <u>proviene</u> de los hombres.
 
 ###### La pertenencia a Cristo redefine:
-- identidad,
+- <u>identidad</u>,
 - valor,
 - y relación con toda otra autoridad humana.
 
@@ -5439,7 +5530,7 @@ Ustedes fueron comprados por precio. No se hagan esclavos de los hombres.
 
 ###### Pablo continúa alejando a los corintios:
 - de dependencia humana,
-- de definirse según hombres,
+- de definirse según <u>hombres</u>,
 - y de someter completamente su identidad a categorías humanas.
 
 ### 1 Corintios 7:24
@@ -5452,7 +5543,7 @@ Hermanos, cada uno permanezca con Dios en la condición en que fue llamado.
 
 ##### La presencia de Dios redefine completamente la situación presente.
 
-###### La condición externa ya no es presentada:
+###### La condición <u>externa</u> ya no es presentada:
 - como vacía,
 - ni como separada de Dios,
 porque ahora el creyente permanece:
@@ -5462,24 +5553,204 @@ porque ahora el creyente permanece:
 #### en la condición en que fue llamado.
 ##### El llamado de Dios sigue siendo el centro del argumento.
 
-##### Pablo continúa insistiendo en aprender a vivir correctamente delante de Dios dentro de la condición presente.
+##### Pablo continúa insistiendo en <u>aprender</u> a vivir correctamente delante de Dios dentro de la condición presente.
 
 ###### El énfasis de Pablo sigue siendo:
 - pertenencia al Señor,
 - caminar correctamente delante de Él,
-- y vivir desde la realidad del llamado de Dios,
+- y vivir <u>desde</u> la realidad del llamado de Dios,
 más que:
 - perseguir continuamente cambios externos como fundamento de espiritualidad.
 
+## 1 CORINTIOS 7:25–30 La realidad presente y las condiciones temporales
+
+### 1 Corintios 7:25
+Ahora bien, en cuanto a las vírgenes, no tengo mandamiento del Señor, pero doy mi opinión como quien por la misericordia del Señor es digno de confianza.
+
+#### ...en cuanto a las vírgenes...
+##### Pablo introduce una nueva sección relacionada con personas no casadas.
+
+##### El tema continúa desarrollándose dentro del marco de:
+- matrimonio,
+- estado actual,
+- y decisiones relacionadas con la vida presente.
+
+#### ...no tengo mandamiento del Señor...
+##### Pablo aclara que no posee una instrucción previa específica del Señor sobre este asunto concreto.
+
+##### El texto distingue entre:
+- un mandato explícito,
+- y una evaluación apostólica confiable.
+
+#### ...pero doy mi opinión...
+##### Pablo ofrece un juicio pastoral frente a la situación tratada.
+
+##### La sección presenta:
+- discernimiento,
+- evaluación,
+- y aplicación práctica.
+
+#### ...como quien por la misericordia del Señor es digno de confianza.
+##### Pablo relaciona su confiabilidad con:
+- la misericordia del Señor,
+- y no con autoridad autónoma.
+
+##### La capacidad de aconsejar aparece conectada con:
+- la obra del Señor,
+- la misericordia recibida,
+- y fidelidad en el servicio.
+
+### 1 Corintios 7:26
+Pienso, pues, que esto es bueno en vista de la presente dificultad: que es bueno para el hombre quedarse como está.
+
+#### ...esto es bueno en vista de la presente dificultad...
+##### Pablo fundamenta su consejo en una circunstancia presente.
+
+##### La expresión:
+- “la presente dificultad”
+- introduce un contexto de presión o tensión.
+
+##### El consejo está ligado a:
+- circunstancias actuales,
+- y no simplemente a principios abstractos.
+
+#### ...que es bueno para el hombre quedarse como está.
+##### Pablo vuelve a enfatizar la permanencia en la condición presente.
+
+##### El texto continúa desarrollando:
+- estabilidad,
+- prudencia,
+- y evitar cambios innecesarios.
+
+### 1 Corintios 7:27
+¿Estás unido a mujer? No procures soltarte. ¿Estás libre de mujer? No busques mujer.
+
+#### ...¿Estás unido a mujer?...
+##### Pablo comienza desde la condición actual de la persona.
+
+##### La realidad presente funciona como punto de partida del consejo.
+
+#### ...No procures soltarte.
+##### Pablo no impulsa separación deliberada del vínculo existente.
+
+##### El énfasis permanece en:
+- continuidad,
+- estabilidad,
+- y permanencia.
+
+#### ...¿Estás libre de mujer?...
+##### Pablo ahora aborda la condición contraria.
+
+##### Ambas situaciones son tratadas paralelamente:
+
+- casado,
+- y no casado.
+
+#### ...No busques mujer.
+##### Pablo no establece el matrimonio como obligación universal.
+
+##### El énfasis continúa siendo:
+- prudencia,
+- estabilidad,
+- y consideración de la situación presente.
+
+### 1 Corintios 7:28
+Pero si te casas, no has pecado; y si una virgen se casa, no ha pecado. Sin embargo, tales personas tendrán aflicción en esta vida, y yo quisiera evitársela.
+
+#### ...si te casas, no has pecado...
+##### Pablo aclara explícitamente que casarse no constituye pecado.
+
+##### El consejo previo no debe entenderse como prohibición del matrimonio.
+
+#### ...si una virgen se casa, no ha pecado.
+##### Pablo repite la aclaración para reforzarla.
+
+##### El matrimonio continúa siendo presentado como legítimo.
+
+#### ...tales personas tendrán aflicción en esta vida...
+##### Pablo introduce una realidad práctica relacionada con:
+- dificultades,
+- presiones,
+- y cargas de la vida presente.
+##### El enfoque continúa siendo circunstancial y temporal.
+
+#### ...y yo quisiera evitársela.
+##### Pablo expresa una preocupación pastoral.
+
+##### El consejo está orientado hacia:
+- cuidado,
+- consideración,
+- y evitar sufrimiento innecesario.
+
+### 1 Corintios 7:29
+Pero esto digo, hermanos: el tiempo se ha acortado. De ahora en adelante, los que tienen mujer sean como si no la tuvieran;
+
+#### ...el tiempo se ha acortado.
+##### Pablo introduce una perspectiva de brevedad y transitoriedad.
+
+##### La afirmación afecta la manera de mirar:
+- relaciones,
+- posesiones,
+- y circunstancias temporales.
+
+#### ...los que tienen mujer sean como si no la tuvieran...
+##### Pablo no elimina la realidad matrimonial.
+
+##### El lenguaje relativiza las condiciones temporales frente a otra realidad mayor.
+
+##### El texto apunta a no quedar:
+- absorbidos,
+- definidos,
+- ni controlados completamente por realidades terrenales.
+
+### 1 Corintios 7:30
+y los que lloran, como si no lloraran; y los que se regocijan, como si no se regocijaran; y los que compran, como si no poseyeran;
+
+#### ...los que lloran, como si no lloraran...
+##### Pablo relativiza incluso experiencias intensas de dolor.
+
+##### El sufrimiento no es presentado como realidad definitiva.
+
+#### ...los que se regocijan, como si no se regocijaran...
+##### El gozo temporal tampoco aparece como absoluto.
+
+##### Tanto:
+- tristeza,
+- como alegría,
+- son presentadas como realidades pasajeras.
+
+#### ...los que compran, como si no poseyeran...
+##### Pablo relativiza también:
+- adquisiciones,
+- bienes,
+- y posesiones materiales.
+
+##### Las realidades materiales son tratadas como:
+- temporales,
+- transitorias,
+- y no definitivas.
+
+> En Síntesis
+>- Pablo ofrece un juicio pastoral confiable respecto a las personas no casadas.
+>- La “presente dificultad” influye en las recomendaciones dadas.
+>- Pablo enfatiza permanecer en la condición actual cuando sea posible.
+>- El matrimonio no es presentado como pecado.
+>- Las presiones de la vida presente son tomadas seriamente.
+>- Pablo presenta el tiempo como algo breve y transitorio.
+>- Relaciones, emociones y posesiones son relativizadas frente a una realidad mayor.
+
+### Las realidades temporales no son tratadas como definitivas.
+
 ### 1 Corintios 7:31
+
 y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.
 
 #### y los que usan el mundo, como si no lo usaran plenamente
-##### Pablo continúa desarrollando la misma perspectiva de los versículos anteriores.
+##### Pablo continúa desarrollando la misma <u>perspectiva</u> de los versículos anteriores.
 
 ##### Los creyentes viven dentro del mundo y usan cosas de esta vida presente.
 
-##### Sin embargo, no deben vivir absorbidos completamente por ellas.
+##### Sin embargo, no <u>deben</u> vivir absorbidos completamente por ellas.
 
 ###### Pablo continúa relativizando:
 - posesiones,
@@ -5489,7 +5760,7 @@ y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia d
 
 ###### Nada de esto debe convertirse en:
 - la realidad definitiva,
-- ni en aquello que controla completamente la vida del creyente.
+- ni en aquello que <u>controla</u> completamente la vida del creyente.
 
 #### porque la apariencia de este mundo pasa.
 ##### Pablo da la razón de esta perspectiva.
@@ -5501,7 +5772,7 @@ y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia d
 ###### Pablo continúa empujando a los corintios:
 - fuera de una mentalidad centrada en lo inmediato,
 y:
-- hacia una perspectiva gobernada por la realidad del Señor y Su venida.
+- hacia una perspectiva gobernada por la <u>realidad</u> del Señor y Su venida.
 
 ### 1 Corintios 7:32
 Pero yo quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
@@ -5509,7 +5780,7 @@ Pero yo quiero que estén libres de preocupación. El soltero se preocupa por la
 #### Pero yo quiero que estén libres de preocupación.
 ##### Pablo ahora explica más claramente la intención práctica de su consejo.
 
-##### Su deseo no es producir cargas adicionales.
+##### Su deseo no es producir <u>cargas</u> adicionales.
 
 ##### Pablo quiere que los creyentes estén libres de preocupaciones innecesarias.
 
@@ -5523,7 +5794,7 @@ Pero yo quiero que estén libres de preocupación. El soltero se preocupa por la
 
 ##### El soltero posee mayor libertad para concentrarse en las cosas del Señor.
 
-##### El enfoque principal del soltero puede dirigirse hacia agradar al Señor.
+##### El enfoque principal del soltero <u>puede</u> dirigirse hacia agradar al Señor.
 
 ###### Pablo no está exaltando:
 - egoísmo,
@@ -5539,7 +5810,7 @@ Pero yo quiero que estén libres de preocupación. El soltero se preocupa por la
 pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
 
 #### pero el casado se preocupa por las cosas del mundo
-##### Pablo ahora contrasta la situación del casado.
+##### Pablo ahora <u>contrasta</u> la situación del casado.
 
 ##### El casado necesariamente debe atender asuntos relacionados con esta vida presente.
 
@@ -5552,35 +5823,34 @@ pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
 ###### Simplemente describe una realidad práctica diferente.
 
 #### de cómo agradar a su mujer,
-##### El hombre casado debe considerar a su esposa.
+##### El hombre casado debe considerar a su <u>esposa</u>.
 
 ##### El matrimonio introduce responsabilidades legítimas hacia otra persona.
 
 ###### Pablo continúa afirmando:
 - responsabilidad,
 - cuidado mutuo,
-- y atención relacional
-dentro del matrimonio.
+- y atención <u>relacional</u> dentro del matrimonio.
 
 ### 1 Corintios 7:34
 y sus intereses están divididos. La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor, para ser santa tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
 
 #### y sus intereses están divididos.
-##### El casado debe dividir necesariamente su atención entre distintas responsabilidades.
+##### El casado debe dividir necesariamente su <u>atención</u> entre distintas responsabilidades.
 
-##### Pablo continúa hablando en términos prácticos y no condenatorios.
+##### Pablo continúa <u>hablando</u> en términos prácticos y no condenatorios.
 
 ###### El matrimonio introduce:
 - preocupaciones legítimas,
 - responsabilidades legítimas,
-- y atención compartida.
+- y atención <u>compartida</u>.
 
 #### La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor
 ##### Pablo aplica ahora el mismo principio a la mujer soltera.
 
-##### La mujer no casada posee mayor libertad para enfocarse en las cosas del Señor.
+##### La mujer no <u>casada</u> posee mayor libertad para enfocarse en las cosas del Señor.
 
-###### Pablo mantiene nuevamente equilibrio:
+###### Pablo mantiene <u>nuevamente</u> equilibrio:
 - entre hombre y mujer,
 - entre casado y soltero.
 
@@ -5589,10 +5859,10 @@ y sus intereses están divididos. La mujer que no está casada, y la virgen, se 
 
 ##### Tanto el cuerpo como el espíritu aparecen dirigidos hacia Él.
 
-###### Nuevamente Pablo no separa:
+###### Nuevamente Pablo no <u>separa</u>:
 - cuerpo,
 - espiritualidad,
-- y vida práctica.
+- y <u>vida</u> práctica.
 
 #### pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
 ##### La mujer casada también posee responsabilidades legítimas hacia su marido.
@@ -5600,7 +5870,7 @@ y sus intereses están divididos. La mujer que no está casada, y la virgen, se 
 ##### El matrimonio introduce atención y cuidado hacia el cónyuge.
 
 ###### Pablo continúa describiendo:
-- diferencias prácticas de enfoque,
+- diferencias prácticas de <u>enfoque</u>,
 y no:
 - categorías superiores o inferiores de espiritualidad.
 
@@ -5612,19 +5882,19 @@ Esto lo digo para su propio beneficio; no para ponerles restricción, sino para 
 
 ##### Su propósito es el beneficio espiritual y práctico de los creyentes.
 
-###### Pablo continúa guiando:
+###### Pablo <u>continúa</u> guiando:
 - pastoralmente,
 - cuidadosamente,
-- y con consideración hacia la situación real de los corintios.
+- y con consideración hacia la situación real de los <u>corintios</u>.
 
 #### no para ponerles restricción
 ##### Pablo no busca imponer una carga innecesaria.
 
 ##### No está intentando controlar rígidamente las decisiones personales de los creyentes.
 
-###### Pablo evita transformar su consejo:
+###### Pablo evita transformar su <u>consejo</u>:
 - en legalismo,
-- presión,
+- <u>presión</u>,
 - o imposición absoluta.
 
 #### sino para promover lo que es decente
@@ -5632,7 +5902,7 @@ Esto lo digo para su propio beneficio; no para ponerles restricción, sino para 
 
 ##### El enfoque sigue siendo vivir correctamente dentro de la condición presente.
 
-###### La preocupación de Pablo continúa siendo:
+###### La preocupación de Pablo <u>continúa</u> siendo:
 - estabilidad,
 - orden,
 - y una vida correctamente orientada hacia el Señor.
@@ -5640,12 +5910,12 @@ Esto lo digo para su propio beneficio; no para ponerles restricción, sino para 
 #### y asegurar su constante devoción al Señor.
 ##### Pablo desea que los creyentes puedan dedicarse constantemente al Señor.
 
-##### La meta principal sigue siendo una vida enfocada correctamente en Él.
+##### La meta principal sigue <u>siendo</u> una vida enfocada correctamente en Él.
 
 ###### Toda la discusión sobre:
 - matrimonio,
 - soltería,
-- relaciones,
+- <u>relaciones</u>,
 - y condición presente,
 finalmente apunta:
 - hacia una vida correctamente entregada al Señor.
@@ -5654,14 +5924,14 @@ finalmente apunta:
 Pero si alguno piensa que está obrando impropiamente para con su hija virgen, si ella está ya pasada de edad, y así debe hacerse, haga lo que quiera, no peca; que se case.
 
 #### Pero si alguno piensa que está obrando impropiamente para con su hija virgen
-##### Pablo ahora considera otra situación práctica relacionada con una virgen no casada.
+##### Pablo ahora considera <u>otra</u> situación práctica relacionada con una virgen no casada.
 
 ##### Pablo continúa tratando estos asuntos con flexibilidad y cuidado pastoral.
 
 #### si ella está ya pasada de edad, y así debe hacerse
 ##### Pablo reconoce circunstancias concretas donde el matrimonio puede resultar apropiado.
 
-##### No todas las situaciones deben resolverse exactamente de la misma manera.
+##### No todas las situaciones deben resolverse <u>exactamente</u> de la misma manera.
 
 ###### Pablo continúa evitando:
 - reglas rígidas,
@@ -5672,7 +5942,7 @@ Pero si alguno piensa que está obrando impropiamente para con su hija virgen, s
 
 ##### Casarse permanece como una opción legítima.
 
-###### Nuevamente Pablo mantiene equilibrio:
+###### Nuevamente Pablo <u>mantiene</u> equilibrio:
 - ni obliga a casarse,
 - ni prohíbe hacerlo.
 
@@ -5680,27 +5950,27 @@ Pero si alguno piensa que está obrando impropiamente para con su hija virgen, s
 Pero el que está firme en su corazón, y no está bajo obligación, sino que tiene dominio sobre su propia voluntad, y ha decidido esto en su corazón, el conservar a su propia hija virgen, bien hará.
 
 #### Pero el que está firme en su corazón
-##### Pablo describe aquí otra posibilidad distinta.
+##### Pablo describe <u>aquí</u> otra posibilidad distinta.
 
 ##### Algunas personas pueden decidir permanecer en esa condición con firmeza y convicción.
 
 #### y no está bajo obligación
 ##### La decisión no debe surgir de presión externa.
 
-##### Pablo continúa considerando importante la libertad y convicción personal delante del Señor.
+##### Pablo continúa considerando importante la libertad y convicción <u>personal</u> delante del Señor.
 
 #### sino que tiene dominio sobre su propia voluntad
 ##### El dominio propio vuelve a aparecer como algo importante.
 
-##### Pablo continúa valorando una vida ordenada y controlada correctamente.
+##### Pablo continúa valorando una <u>vida</u> ordenada y controlada correctamente.
 
 #### y ha decidido esto en su corazón
-##### La decisión debe surgir de convicción personal consciente.
+##### La decisión <u>debe</u> surgir de convicción personal consciente.
 
 ##### Pablo sigue hablando en términos de sabiduría práctica y no de imposición universal.
 
 #### el conservar a su propia hija virgen, bien hará.
-##### Pablo considera buena también esta decisión.
+##### Pablo considera buena también esta <u>decisión</u>.
 
 ##### Ambas posibilidades siguen siendo tratadas como legítimas.
 
@@ -5708,19 +5978,19 @@ Pero el que está firme en su corazón, y no está bajo obligación, sino que ti
 Así que, el que da a su hija virgen en matrimonio hace bien, y el que no la da en matrimonio hará mejor.
 
 #### Así que, el que da a su hija virgen en matrimonio hace bien
-##### Pablo vuelve a afirmar claramente que el matrimonio es algo bueno.
+##### Pablo vuelve a <u>afirmar</u> claramente que el matrimonio es algo bueno.
 
 ##### Casar a la hija no constituye error ni pecado.
 
 #### y el que no la da en matrimonio hará mejor.
-##### Pablo continúa considerando preferible permanecer sin casarse dentro de la situación presente que viene describiendo.
+##### Pablo continúa considerando <u>preferible</u> permanecer sin casarse dentro de la situación presente que viene describiendo.
 
 ##### Sin embargo, sigue hablando en términos de conveniencia y no de mandamiento absoluto.
 
 ###### Pablo continúa moviéndose:
 - dentro de consejo pastoral,
 - prudencia,
-- y consideración práctica del tiempo presente.
+- y consideración <u>práctica</u> del tiempo presente.
 
 ### 1 Corintios 7:39
 La mujer está ligada mientras su marido vive; pero si su marido muere, está en libertad de casarse con quien quiera, solo que en el Señor.
@@ -5733,7 +6003,7 @@ La mujer está ligada mientras su marido vive; pero si su marido muere, está en
 #### pero si su marido muere, está en libertad de casarse con quien quiera
 ##### La muerte rompe esa obligación matrimonial.
 
-##### La mujer queda libre para volver a casarse.
+##### La mujer queda libre <u>para</u> volver a casarse.
 
 ###### Pablo continúa mostrando equilibrio:
 - afirmando el valor del matrimonio,
@@ -5743,7 +6013,7 @@ pero también:
 #### solo que en el Señor.
 ##### La nueva relación debe darse dentro del Señor.
 
-##### La pertenencia a Cristo sigue siendo el marco que redefine todas las relaciones.
+##### La pertenencia a <u>Cristo</u> sigue siendo el marco que redefine todas las relaciones.
 
 ### 1 Corintios 7:40
 Pero a mi juicio, más feliz será si se queda como está; y pienso que también yo tengo el Espíritu de Dios.
@@ -5757,331 +6027,32 @@ Pero a mi juicio, más feliz será si se queda como está; y pienso que también
 
 ###### Pablo continúa aconsejando:
 - desde prudencia,
-- cuidado pastoral,
+- cuidado <u>pastoral</u>,
 - y consideración práctica del tiempo presente.
 
 #### y pienso que también yo tengo el Espíritu de Dios.
 ##### Pablo concluye afirmando confianza en la dirección espiritual con la que está hablando.
 
-##### No presenta estas palabras como mera opinión humana independiente de Dios.
+##### No presenta estas palabras como mera <u>opinión</u> humana independiente de Dios.
 
 ###### A lo largo de todo el capítulo Pablo ha guiado a los corintios:
-- lejos de extremos,
+- lejos de <u>extremos</u>,
 - lejos de espiritualidades desordenadas,
 - y lejos de pensar que las condiciones externas definen finalmente la realidad delante de Dios.
 
 ###### Constantemente los ha dirigido:
-- hacia pertenencia al Señor,
+- hacia pertenencia al <u>Señor</u>,
 - estabilidad,
 - dominio propio,
 - responsabilidad mutua,
 - y una vida correctamente ordenada delante de Dios.
 
-### 1 Corintios 7:31
-y los que usan el mundo, como si no lo usaran plenamente; porque la apariencia de este mundo pasa.
-
-#### y los que usan el mundo, como si no lo usaran plenamente
-##### Pablo continúa desarrollando la misma perspectiva de los versículos anteriores.
-
-##### Los creyentes viven dentro del mundo y usan cosas de esta vida presente.
-
-##### Sin embargo, no deben vivir absorbidos completamente por ellas.
-
-###### Pablo continúa relativizando:
-- posesiones,
-- experiencias,
-- relaciones,
-- y circunstancias temporales.
-
-###### Nada de esto debe convertirse en:
-- la realidad definitiva,
-- ni en aquello que controla completamente la vida del creyente.
-
-#### porque la apariencia de este mundo pasa.
-##### Pablo da la razón de esta perspectiva.
-
-##### La apariencia presente de este mundo está pasando.
-
-##### Todo lo visible y temporal pertenece a una realidad transitoria.
-
-###### Pablo continúa empujando a los corintios:
-- fuera de una mentalidad centrada en lo inmediato,
-y:
-- hacia una perspectiva gobernada por la realidad del Señor y Su venida.
-
-### 1 Corintios 7:32
-Pero yo quiero que estén libres de preocupación. El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
-
-#### Pero yo quiero que estén libres de preocupación.
-##### Pablo ahora explica más claramente la intención práctica de su consejo.
-
-##### Su deseo no es producir cargas adicionales.
-
-##### Pablo quiere que los creyentes estén libres de preocupaciones innecesarias.
-
-###### El consejo de Pablo continúa moviéndose:
-- desde una preocupación pastoral,
-- práctica,
-- y espiritual.
-
-#### El soltero se preocupa por las cosas del Señor, cómo puede agradar al Señor;
-##### Pablo describe una ventaja práctica de la soltería.
-
-##### El soltero posee mayor libertad para concentrarse en las cosas del Señor.
-
-##### El enfoque principal del soltero puede dirigirse hacia agradar al Señor.
-
-###### Pablo no está exaltando:
-- egoísmo,
-- independencia,
-- ni aislamiento.
-
-###### Está hablando de:
-- enfoque,
-- disponibilidad,
-- y menor división de preocupaciones.
-
-### 1 Corintios 7:33
-pero el casado se preocupa por las cosas del mundo, de cómo agradar a su mujer,
-
-#### pero el casado se preocupa por las cosas del mundo
-##### Pablo ahora contrasta la situación del casado.
-
-##### El casado necesariamente debe atender asuntos relacionados con esta vida presente.
-
-##### El matrimonio trae responsabilidades reales.
-
-###### Pablo no presenta esto:
-- como pecado,
-- ni como inferioridad espiritual.
-
-###### Simplemente describe una realidad práctica diferente.
-
-#### de cómo agradar a su mujer,
-##### El hombre casado debe considerar a su esposa.
-
-##### El matrimonio introduce responsabilidades legítimas hacia otra persona.
-
-###### Pablo continúa afirmando:
-- responsabilidad,
-- cuidado mutuo,
-- y atención relacional
-dentro del matrimonio.
-
-### 1 Corintios 7:34
-y sus intereses están divididos. La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor, para ser santa tanto en cuerpo como en espíritu; pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
-
-#### y sus intereses están divididos.
-##### El casado debe dividir necesariamente su atención entre distintas responsabilidades.
-
-##### Pablo continúa hablando en términos prácticos y no condenatorios.
-
-###### El matrimonio introduce:
-- preocupaciones legítimas,
-- responsabilidades legítimas,
-- y atención compartida.
-
-#### La mujer que no está casada, y la virgen, se preocupa por las cosas del Señor
-##### Pablo aplica ahora el mismo principio a la mujer soltera.
-
-##### La mujer no casada posee mayor libertad para enfocarse en las cosas del Señor.
-
-###### Pablo mantiene nuevamente equilibrio:
-- entre hombre y mujer,
-- entre casado y soltero.
-
-#### para ser santa tanto en cuerpo como en espíritu
-##### Pablo describe un enfoque integral hacia el Señor.
-
-##### Tanto el cuerpo como el espíritu aparecen dirigidos hacia Él.
-
-###### Nuevamente Pablo no separa:
-- cuerpo,
-- espiritualidad,
-- y vida práctica.
-
-#### pero la casada se preocupa por las cosas del mundo, de cómo agradar a su marido.
-##### La mujer casada también posee responsabilidades legítimas hacia su marido.
-
-##### El matrimonio introduce atención y cuidado hacia el cónyuge.
-
-###### Pablo continúa describiendo:
-- diferencias prácticas de enfoque,
-y no:
-- categorías superiores o inferiores de espiritualidad.
-
-### 1 Corintios 7:35
-Esto lo digo para su propio beneficio; no para ponerles restricción, sino para promover lo que es decente y asegurar su constante devoción al Señor.
-
-#### Esto lo digo para su propio beneficio
-##### Pablo aclara nuevamente la intención de toda esta enseñanza.
-
-##### Su propósito es el beneficio espiritual y práctico de los creyentes.
-
-###### Pablo continúa guiando:
-- pastoralmente,
-- cuidadosamente,
-- y con consideración hacia la situación real de los corintios.
-
-#### no para ponerles restricción
-##### Pablo no busca imponer una carga innecesaria.
-
-##### No está intentando controlar rígidamente las decisiones personales de los creyentes.
-
-###### Pablo evita transformar su consejo:
-- en legalismo,
-- presión,
-- o imposición absoluta.
-
-#### sino para promover lo que es decente
-##### Pablo desea promover una vida ordenada y apropiada delante del Señor.
-
-##### El enfoque sigue siendo vivir correctamente dentro de la condición presente.
-
-###### La preocupación de Pablo continúa siendo:
-- estabilidad,
-- orden,
-- y una vida correctamente orientada hacia el Señor.
-
-#### y asegurar su constante devoción al Señor.
-##### Pablo desea que los creyentes puedan dedicarse constantemente al Señor.
-
-##### La meta principal sigue siendo una vida enfocada correctamente en Él.
-
-###### Toda la discusión sobre:
-- matrimonio,
-- soltería,
-- relaciones,
-- y condición presente,
-finalmente apunta:
-- hacia una vida correctamente entregada al Señor.
-
-### 1 Corintios 7:36
-Pero si alguno piensa que está obrando impropiamente para con su hija virgen, si ella está ya pasada de edad, y así debe hacerse, haga lo que quiera, no peca; que se case.
-
-#### Pero si alguno piensa que está obrando impropiamente para con su hija virgen
-##### Pablo ahora considera otra situación práctica relacionada con una virgen no casada.
-
-##### Pablo continúa tratando estos asuntos con flexibilidad y cuidado pastoral.
-
-#### si ella está ya pasada de edad, y así debe hacerse
-##### Pablo reconoce circunstancias concretas donde el matrimonio puede resultar apropiado.
-
-##### No todas las situaciones deben resolverse exactamente de la misma manera.
-
-###### Pablo continúa evitando:
-- reglas rígidas,
-- y soluciones absolutas para todos.
-
-#### haga lo que quiera, no peca; que se case.
-##### Pablo vuelve a aclarar que el matrimonio no constituye pecado.
-
-##### Casarse permanece como una opción legítima.
-
-###### Nuevamente Pablo mantiene equilibrio:
-- ni obliga a casarse,
-- ni prohíbe hacerlo.
-
-### 1 Corintios 7:37
-Pero el que está firme en su corazón, y no está bajo obligación, sino que tiene dominio sobre su propia voluntad, y ha decidido esto en su corazón, el conservar a su propia hija virgen, bien hará.
-
-#### Pero el que está firme en su corazón
-##### Pablo describe aquí otra posibilidad distinta.
-
-##### Algunas personas pueden decidir permanecer en esa condición con firmeza y convicción.
-
-#### y no está bajo obligación
-##### La decisión no debe surgir de presión externa.
-
-##### Pablo continúa considerando importante la libertad y convicción personal delante del Señor.
-
-#### sino que tiene dominio sobre su propia voluntad
-##### El dominio propio vuelve a aparecer como algo importante.
-
-##### Pablo continúa valorando una vida ordenada y controlada correctamente.
-
-#### y ha decidido esto en su corazón
-##### La decisión debe surgir de convicción personal consciente.
-
-##### Pablo sigue hablando en términos de sabiduría práctica y no de imposición universal.
-
-#### el conservar a su propia hija virgen, bien hará.
-##### Pablo considera buena también esta decisión.
-
-##### Ambas posibilidades siguen siendo tratadas como legítimas.
-
-### 1 Corintios 7:38
-Así que, el que da a su hija virgen en matrimonio hace bien, y el que no la da en matrimonio hará mejor.
-
-#### Así que, el que da a su hija virgen en matrimonio hace bien
-##### Pablo vuelve a afirmar claramente que el matrimonio es algo bueno.
-
-##### Casar a la hija no constituye error ni pecado.
-
-#### y el que no la da en matrimonio hará mejor.
-##### Pablo continúa considerando preferible permanecer sin casarse dentro de la situación presente que viene describiendo.
-
-##### Sin embargo, sigue hablando en términos de conveniencia y no de mandamiento absoluto.
-
-###### Pablo continúa moviéndose:
-- dentro de consejo pastoral,
-- prudencia,
-- y consideración práctica del tiempo presente.
-
-### 1 Corintios 7:39
-La mujer está ligada mientras su marido vive; pero si su marido muere, está en libertad de casarse con quien quiera, solo que en el Señor.
-
-#### La mujer está ligada mientras su marido vive
-##### Pablo vuelve nuevamente al carácter vinculante del matrimonio.
-
-##### La relación matrimonial permanece mientras el marido vive.
-
-#### pero si su marido muere, está en libertad de casarse con quien quiera
-##### La muerte rompe esa obligación matrimonial.
-
-##### La mujer queda libre para volver a casarse.
-
-###### Pablo continúa mostrando equilibrio:
-- afirmando el valor del matrimonio,
-pero también:
-- reconociendo situaciones legítimas para nuevas decisiones.
-
-#### solo que en el Señor.
-##### La nueva relación debe darse dentro del Señor.
-
-##### La pertenencia a Cristo sigue siendo el marco que redefine todas las relaciones.
-
-### 1 Corintios 7:40
-Pero a mi juicio, más feliz será si se queda como está; y pienso que también yo tengo el Espíritu de Dios.
-
-#### Pero a mi juicio, más feliz será si se queda como está
-##### Pablo vuelve nuevamente a expresar su opinión personal pastoral.
-
-##### Continúa considerando preferible permanecer en la condición presente dentro de las circunstancias actuales.
-
-##### Sin embargo, sigue sin imponerlo universalmente.
-
-###### Pablo continúa aconsejando:
-- desde prudencia,
-- cuidado pastoral,
-- y consideración práctica del tiempo presente.
-
-#### y pienso que también yo tengo el Espíritu de Dios.
-##### Pablo concluye afirmando confianza en la dirección espiritual con la que está hablando.
-
-##### No presenta estas palabras como mera opinión humana independiente de Dios.
-
-###### A lo largo de todo el capítulo Pablo ha guiado a los corintios:
-- lejos de extremos,
-- lejos de espiritualidades desordenadas,
-- y lejos de pensar que las condiciones externas definen finalmente la realidad delante de Dios.
-
-###### Constantemente los ha dirigido:
-- hacia pertenencia al Señor,
-- estabilidad,
-- dominio propio,
-- responsabilidad mutua,
-- y una vida correctamente ordenada delante de Dios.
+> En Síntesis
+>- Pablo responde las preguntas de los corintios alejándolos de extremos y mostrando una visión equilibrada del matrimonio, la soltería, la sexualidad y las relaciones humanas delante de Dios.
+>- Tanto el matrimonio como la soltería son presentados como situaciones legítimas dentro de la vida cristiana, y ninguno debe convertirse en una medida absoluta de espiritualidad para todos.
+>- Pablo redefine las relaciones desde responsabilidad mutua, dominio propio, paz y pertenencia al Señor, rechazando tanto el egoísmo como una espiritualidad desconectada de la realidad práctica.
+>- La condición externa del creyente —casado, soltero, circuncidado, incircunciso, esclavo o libre— no determina finalmente su valor ni su realidad espiritual delante de Dios, porque todos son redefinidos desde su llamado y pertenencia a Cristo.
+>- A lo largo de todo el capítulo, Pablo dirige a los corintios hacia una vida estable, ordenada y enfocada en el Señor, viviendo correctamente dentro de la condición presente mientras esperan la realidad futura del Señor.
 
 # 8:1-14:40  — Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación
 
@@ -6093,12 +6064,12 @@ En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento
 #### En cuanto a lo sacrificado a los ídolos
 ##### Pablo comienza ahora a responder otra cuestión específica que preocupaba a los corintios.
 
-##### El tema gira alrededor de alimentos relacionados con idolatría.
+##### El tema gira alrededor de <u>alimentos</u> relacionados con idolatría.
 
 #### sabemos que todos tenemos conocimiento.
 ##### Los corintios parecían apoyarse fuertemente en el conocimiento.
 
-##### Pablo incluye la frase dentro de un "sabemos", mostrando que había algo verdadero en aquello que afirmaban.
+##### Pablo incluye la <u>frase</u> dentro de un "sabemos", mostrando que había algo verdadero en aquello que afirmaban.
 
 ##### El problema no era simplemente tener conocimiento.
 
@@ -6107,12 +6078,12 @@ En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento
 
 ##### El conocimiento puede producir arrogancia e inflación personal.
 
-##### Esto conecta nuevamente con uno de los problemas dominantes de toda la carta: el orgullo.
+##### Esto conecta nuevamente <u>con</u> uno de los problemas dominantes de toda la carta: el orgullo.
 
 #### pero el amor edifica.
 ##### Pablo contrasta el conocimiento con el amor.
 
-##### Mientras el conocimiento puede inflar, el amor edifica.
+##### Mientras el conocimiento puede <u>inflar</u>, el amor edifica.
 
 ##### Pablo comienza a mover la discusión desde derechos y conocimiento hacia el bienestar del otro.
 
@@ -6120,14 +6091,14 @@ En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento
 Si alguien cree que sabe algo, no ha aprendido todavía como debe saber
 
 #### Si alguien cree que sabe algo
-##### Pablo confronta una actitud de autosuficiencia intelectual.
+##### Pablo confronta una <u>actitud</u> de autosuficiencia intelectual.
 
 ##### El problema no es saber algo, sino pensar que ya se sabe correctamente.
 
 #### no ha aprendido todavía como debe saber
 ##### Existe una manera correcta de conocer.
 
-##### Pablo muestra que el conocimiento verdadero incluye humildad.
+##### Pablo muestra que el conocimiento verdadero <u>incluye</u> humildad.
 
 ##### El simple hecho de sentirse superior por conocimiento revela que todavía no se ha entendido correctamente.
 
@@ -6135,12 +6106,12 @@ Si alguien cree que sabe algo, no ha aprendido todavía como debe saber
 pero si alguien ama a Dios, ese es conocido por Él.
 
 #### pero si alguien ama a Dios
-##### Pablo vuelve nuevamente al amor como el eje correcto.
+##### Pablo vuelve nuevamente al <u>amor</u> como el eje correcto.
 
 ##### El amor a Dios redefine la manera de vivir y pensar.
 
 #### ese es conocido por Él.
-##### Pablo dirige la atención hacia la relación con Dios y no hacia la superioridad intelectual.
+##### Pablo dirige la atención hacia la <u>relación</u> con Dios y no hacia la superioridad intelectual.
 
 ##### Lo importante no es solamente conocer, sino ser conocido por Dios.
 
@@ -6148,7 +6119,7 @@ pero si alguien ama a Dios, ese es conocido por Él.
 Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un ídolo no es nada en el mundo, y que no hay sino un solo Dios.
 
 #### Por tanto, en cuanto a comer de lo sacrificado a los ídolos
-##### Pablo vuelve ahora directamente al asunto práctico.
+##### Pablo vuelve ahora directamente al <u>asunto</u> práctico.
 
 #### sabemos que un ídolo no es nada en el mundo
 ##### Pablo reconoce la verdad afirmada por los corintios.
@@ -6156,7 +6127,7 @@ Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un íd
 ##### Los ídolos no poseen realidad divina verdadera.
 
 #### y que no hay sino un solo Dios.
-##### Pablo reafirma la realidad fundamental del único Dios verdadero.
+##### Pablo reafirma la realidad fundamental del <u>único</u> Dios verdadero.
 
 ##### El problema no estaba simplemente en la información correcta que poseían.
 
@@ -6164,14 +6135,14 @@ Por tanto, en cuanto a comer de lo sacrificado a los ídolos, sabemos que un íd
 Porque aunque haya *algunos* llamados dioses, ya sea en el cielo o en la tierra, como por cierto hay muchos dioses y muchos señores
 
 #### Porque aunque haya *algunos* llamados dioses, ya sea en el cielo o en la tierra
-##### Pablo reconoce la existencia de muchos llamados dioses dentro de la experiencia humana.
+##### Pablo reconoce la existencia de <u>muchos</u> llamados dioses dentro de la experiencia humana.
 
 ##### Las personas reconocían distintas autoridades y deidades.
 
 #### como por cierto hay muchos dioses y muchos señores
 ##### Pablo describe la multiplicidad de dioses y señores presentes en el mundo.
 
-##### Sin embargo, esto prepara el contraste con la realidad de los creyentes.
+##### Sin embargo, esto <u>prepara</u> el contraste con la realidad de los creyentes.
 
 ### 1 Corintios 8:6
 pero para nosotros *hay* un solo Dios, el Padre, de quien proceden todas las cosas y nosotros somos para Él; y un solo Señor, Jesucristo, por quien son todas las cosas y por medio de Él *existimos* nosotros.
@@ -6179,14 +6150,14 @@ pero para nosotros *hay* un solo Dios, el Padre, de quien proceden todas las cos
 #### pero para nosotros *hay* un solo Dios, el Padre
 ##### Pablo ahora contrasta la realidad del mundo con la realidad de los creyentes.
 
-##### Para los creyentes existe un solo Dios: el Padre.
+##### Para los creyentes existe un solo <u>Dios</u>: el Padre.
 
 #### de quien proceden todas las cosas y nosotros somos para Él
 ##### Todo procede de Dios.
 
 ##### Los creyentes también existen para Él.
 
-##### La vida del creyente encuentra su dirección y propósito en Dios.
+##### La vida del creyente <u>encuentra</u> su dirección y propósito en Dios.
 
 #### y un solo Señor, Jesucristo
 ##### Pablo une estrechamente al Señor Jesucristo dentro de esta realidad fundamental.
@@ -6196,7 +6167,7 @@ pero para nosotros *hay* un solo Dios, el Padre, de quien proceden todas las cos
 #### por quien son todas las cosas y por medio de Él *existimos* nosotros.
 ##### Todas las cosas existen por medio de Cristo.
 
-##### Los creyentes mismos existen por medio de Él.
+##### Los creyentes mismos existen por <u>medio</u> de Él.
 
 ##### Pablo vuelve a centrar toda la realidad del creyente en Dios y en Cristo, y no en el conocimiento inflado del hombre.
 
@@ -6204,28 +6175,28 @@ pero para nosotros *hay* un solo Dios, el Padre, de quien proceden todas las cos
 Sin embargo, no todos tienen este conocimiento. Porque algunos, estando acostumbrados al ídolo hasta ahora, comen *alimento* como si este fuera sacrificado a un ídolo, y su conciencia, siendo débil, se mancha.
 
 #### Sin embargo, no todos tienen este conocimiento.
-##### Pablo ahora introduce una limitación importante.
+##### Pablo <u>ahora</u> introduce una limitación importante.
 
 ##### Aunque ciertas cosas fueran verdaderas, no todos las comprendían de la misma manera.
 
 ##### El problema no era solamente lo correcto del conocimiento, sino cómo afectaba a otros.
 
 #### Porque algunos, estando acostumbrados al ídolo hasta ahora
-##### Algunos creyentes todavía estaban profundamente marcados por su pasado relacionado con idolatría.
+##### Algunos creyentes todavía estaban profundamente marcados por su <u>pasado</u> relacionado con idolatría.
 
 ##### Su manera de pensar todavía estaba influenciada por esa realidad anterior.
 
 #### comen *alimento* como si este fuera sacrificado a un ídolo
 ##### Para ellos, la comida seguía teniendo una relación real con el ídolo.
 
-##### No estaban actuando desde la misma comprensión que otros tenían.
+##### No estaban actuando <u>desde</u> la misma comprensión que otros tenían.
 
 #### y su conciencia, siendo débil, se mancha.
 ##### Pablo describe la conciencia de estas personas como débil.
 
 ##### La acción terminaba dañando su conciencia.
 
-##### El problema ya no es solamente conocimiento correcto, sino el daño producido al hermano.
+##### El problema ya no es solamente conocimiento correcto, sino el <u>daño</u> producido al hermano.
 
 ### 1 Corintios 8:8
 Pero la comida no nos recomendará a Dios, *pues* ni somos menos si no comemos, ni *somos* más si comemos.
@@ -6236,7 +6207,7 @@ Pero la comida no nos recomendará a Dios, *pues* ni somos menos si no comemos, 
 ##### La comida no determina el valor espiritual delante de Dios.
 
 #### *pues* ni somos menos si no comemos
-##### Abstenerse no hace inferior al creyente.
+##### Abstenerse no hace <u>inferior</u> al creyente.
 
 #### ni *somos* más si comemos.
 ##### Tampoco comer produce superioridad espiritual.
@@ -6247,14 +6218,14 @@ Pero la comida no nos recomendará a Dios, *pues* ni somos menos si no comemos, 
 Pero tengan cuidado, no sea que esta libertad de ustedes de alguna manera se convierta en piedra de tropiezo para el débil.
 
 #### Pero tengan cuidado
-##### Pablo ahora da un mandato directo.
+##### Pablo ahora da un mandato <u>directo</u>.
 
 ##### La libertad cristiana requiere vigilancia y responsabilidad.
 
 #### no sea que esta libertad de ustedes
 ##### Pablo reconoce que verdaderamente poseen libertad.
 
-##### El problema no es la existencia de la libertad.
+##### El <u>problema</u> no es la existencia de la libertad.
 
 #### de alguna manera se convierta en piedra de tropiezo para el débil.
 ##### La libertad puede terminar dañando al hermano débil.
@@ -6269,17 +6240,17 @@ Porque si alguien te ve a ti, que tienes conocimiento, sentado *a la mesa* en un
 #### Porque si alguien te ve a ti, que tienes conocimiento
 ##### Pablo describe ahora una situación concreta.
 
-##### El creyente con conocimiento podía influenciar al hermano más débil.
+##### El creyente con conocimiento podía influenciar al <u>hermano</u> más débil.
 
 #### sentado *a la mesa* en un templo de ídolos
-##### La situación no era simplemente teórica.
+##### La <u>situación</u> no era simplemente teórica.
 
-##### Había creyentes participando en contextos relacionados con idolatría.
+##### Había creyentes participando en contextos relacionados con <u>idolatría</u>.
 
 #### ¿no será estimulada su conciencia, si él es débil, a comer lo sacrificado a los ídolos?
 ##### El hermano débil puede sentirse impulsado a actuar contra su conciencia.
 
-##### El conocimiento del fuerte puede terminar empujando al débil hacia daño espiritual.
+##### El conocimiento del fuerte <u>puede</u> terminar empujando al débil hacia daño espiritual.
 
 ### 1 Corintios 8:11
 Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo murió.
@@ -6290,7 +6261,7 @@ Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo mu
 ##### El conocimiento mal usado puede destruir al hermano débil.
 
 #### el hermano por quien Cristo murió.
-##### Pablo vuelve a redefinir al hermano desde Cristo.
+##### Pablo vuelve a <u>redefinir</u> al hermano desde Cristo.
 
 ##### Ese hermano posee un valor inmenso porque Cristo murió por él.
 
@@ -6300,17 +6271,17 @@ Por tu conocimiento se perderá el que es débil, el hermano por quien Cristo mu
 Y así, al pecar contra los hermanos y herir su conciencia cuando *esta* es débil, pecan contra Cristo.
 
 #### Y así, al pecar contra los hermanos
-##### El daño producido al hermano es descrito como pecado.
+##### El daño producido al hermano es <u>descrito</u> como pecado.
 
 ##### El problema no es simplemente social o relacional.
 
 #### y herir su conciencia cuando *esta* es débil
-##### La conciencia del hermano puede ser herida por la conducta irresponsable de otro creyente.
+##### La <u>conciencia</u> del hermano puede ser herida por la conducta irresponsable de otro creyente.
 
 ##### Pablo continúa mostrando sensibilidad hacia la debilidad del hermano.
 
 #### pecan contra Cristo.
-##### Pecar contra el hermano equivale también a pecar contra Cristo.
+##### Pecar contra el hermano equivale <u>también</u> a pecar contra Cristo.
 
 ##### Cristo está profundamente identificado con Su pueblo.
 
@@ -6318,19 +6289,28 @@ Y así, al pecar contra los hermanos y herir su conciencia cuando *esta* es déb
 Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne jamás, para no hacer pecar a mi hermano.
 
 #### Por tanto, si la comida hace que mi hermano caiga en pecado
-##### Pablo lleva el argumento hasta una conclusión personal y práctica.
+##### Pablo lleva el argumento <u>hasta</u> una conclusión personal y práctica.
 
 ##### El bienestar espiritual del hermano se vuelve más importante que el ejercicio de la libertad personal.
 
 #### no comeré carne jamás
 ##### Pablo está dispuesto a limitar radicalmente su propia libertad.
 
-##### La libertad no era el valor supremo para Pablo.
+##### La libertad no era el valor supremo para <u>Pablo</u>.
 
 #### para no hacer pecar a mi hermano.
-##### Pablo no quiere convertirse en causa de caída para otro creyente.
+##### Pablo no <u>quiere</u> convertirse en causa de caída para otro creyente.
 
 ##### El amor al hermano gobierna el uso correcto del conocimiento y de la libertad.
+
+> En Síntesis
+>- Pablo confronta una espiritualidad centrada solamente en conocimiento y libertad, mostrando que el conocimiento por sí solo puede producir arrogancia y destruir al hermano.
+>- La verdadera realidad del creyente está definida por un solo Dios y un solo Señor, Jesucristo, y no por superioridad intelectual ni autosuficiencia espiritual.
+>- Aunque ciertos creyentes poseían conocimiento correcto acerca de los ídolos, no todos tenían la misma comprensión ni la misma fortaleza de conciencia.
+>- Pablo redefine el uso de la libertad cristiana desde la responsabilidad hacia el hermano débil, mostrando que la libertad puede convertirse en tropiezo cuando no está gobernada por amor.
+>- El amor y la edificación del hermano poseen mayor valor que el ejercicio personal de derechos, porque herir al hermano por quien Cristo murió equivale también a pecar contra Cristo mismo.
+
+<!-- @quiz 1corintios-7-8 -->
 
 ## 9:1-27 La libertad, los derechos y la manera en que Pablo vivía el evangelio
 

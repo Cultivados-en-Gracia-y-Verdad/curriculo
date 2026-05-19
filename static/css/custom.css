@@ -57,3 +57,69 @@ ul#breadcrumbs li a:hover {
   color: #01447e;
   text-decoration: underline;
 }
+
+.download-page {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.download-page .lead {
+  margin-bottom: 28px;
+  color: #334155 !important;
+  font-size: 1.25rem !important;
+  line-height: 1.55;
+}
+
+.download-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+  margin: 28px 0;
+}
+
+.download-card {
+  border: 1px solid #dbe3ea;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 14px 35px rgba(15, 23, 42, 0.08);
+  padding: 26px;
+}
+
+.download-card h2 {
+  margin-top: 0;
+  color: #0f172a;
+}
+
+.download-card p {
+  color: #475569 !important;
+}
+
+.download-button {
+  display: inline-block;
+  margin: 14px 0 10px;
+  border-radius: 8px;
+  background: #0f766e;
+  color: #ffffff !important;
+  font-weight: 700;
+  padding: 12px 18px;
+  text-decoration: none;
+}
+
+.download-button:hover {
+  background: #115e59;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+.download-card small {
+  display: block;
+  color: #64748b;
+}
+
+.download-note {
+  margin-top: 24px;
+  border-left: 4px solid #0f766e;
+  background: #f0fdfa;
+  color: #134e4a !important;
+  padding: 14px 18px;
+}
