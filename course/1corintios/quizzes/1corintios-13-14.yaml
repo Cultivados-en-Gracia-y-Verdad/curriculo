@@ -1,0 +1,115 @@
+id: 1corintios-13-14
+
+title: 1 Corintios 13–14
+
+questions:
+
+  - question: ¿Qué dice Pablo que llega a ser alguien que habla lenguas pero no tiene amor?
+    answers:
+      - text: Como metal que resuena o címbalo que retiñe
+        correct: true
+      - text: Como un profeta poderoso
+        correct: false
+      - text: Como un maestro sabio
+        correct: false
+      - text: Como un ángel del cielo
+        correct: false
+
+  - question: ¿Qué afirma Pablo acerca del amor y la profecía?
+    answers:
+      - text: El amor permanece, pero la profecía se acabará
+        correct: true
+      - text: La profecía es mayor que el amor
+        correct: false
+      - text: El amor depende de las lenguas
+        correct: false
+      - text: Ambos desaparecerán juntos
+        correct: false
+
+  - question: ¿Cómo describe Pablo al amor?
+    answers:
+      - text: Paciente y bondadoso
+        correct: true
+      - text: Impulsivo y dominante
+        correct: false
+      - text: Misterioso y oculto
+        correct: false
+      - text: Estricto y temeroso
+        correct: false
+
+  - question: ¿Qué es lo mayor entre la fe, la esperanza y el amor?
+    answers:
+      - text: El amor
+        correct: true
+      - text: La fe
+        correct: false
+      - text: La esperanza
+        correct: false
+      - text: La profecía
+        correct: false
+
+  - question: ¿Qué don dice Pablo que debe desearse especialmente?
+    answers:
+      - text: La profecía
+        correct: true
+      - text: La administración
+        correct: false
+      - text: La sanidad
+        correct: false
+      - text: La interpretación solamente
+        correct: false
+
+  - question: ¿Qué produce el que profetiza según Pablo?
+    answers:
+      - text: Edificación, exhortación y consolación
+        correct: true
+      - text: Temor y silencio
+        correct: false
+      - text: División entre hermanos
+        correct: false
+      - text: Poder político
+        correct: false
+
+  - question: ¿Qué problema menciona Pablo acerca de hablar en lenguas sin interpretación?
+    answers:
+      - text: Nadie entiende lo que se dice
+        correct: true
+      - text: Produce demasiada música
+        correct: false
+      - text: Hace imposible cantar
+        correct: false
+      - text: El Espíritu deja de actuar
+        correct: false
+
+  - question: ¿Qué prefería Pablo en la iglesia?
+    answers:
+      - text: Hablar cinco palabras con entendimiento
+        correct: true
+      - text: Hablar solamente en silencio
+        correct: false
+      - text: Hablar miles de palabras en lenguas
+        correct: false
+      - text: No enseñar públicamente
+        correct: false
+
+  - question: ¿Qué dice Pablo acerca de Dios y las reuniones de la iglesia?
+    answers:
+      - text: Dios no es Dios de confusión, sino de paz
+        correct: true
+      - text: Dios produce desorden para enseñar
+        correct: false
+      - text: Dios habla únicamente por señales
+        correct: false
+      - text: Dios actúa solo mediante lenguas
+        correct: false
+
+  - question: ¿Cómo debían hacerse todas las cosas en la iglesia?
+    answers:
+      - text: Decentemente y con orden
+        correct: true
+      - text: Con rapidez y emoción
+        correct: false
+      - text: En secreto y silencio
+        correct: false
+      - text: Solo por los líderes
+        correct: false
