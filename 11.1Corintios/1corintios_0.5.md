@@ -1604,8 +1604,6 @@ para que la fe de ustedes no descanse en la sabiduría de los hombres, sino en e
 - en <u>Cristo</u> crucificado,
 - y no en la grandeza visible del hombre.
 
-<!-- @quiz 1corintios-1-2 -->
-
 ## 2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu
 
 ### 1 Corintios 2:6
@@ -2101,6 +2099,8 @@ están relacionadas con:
 >- El hombre no puede descubrir ni comprender las cosas de Dios mediante inteligencia, percepción o razonamiento humano; solamente el Espíritu puede revelarlas. 
 >- El verdadero conocimiento espiritual depende completamente del Espíritu de Dios, quien permite comprender las riquezas que Dios ya ha dado gratuitamente en Cristo. 
 >- Pablo concluye mostrando que el creyente posee discernimiento espiritual porque tiene la mente de Cristo, preparando así el contraste con la manera carnal en que los corintios todavía estaban pensando y actuando. 
+
+<!-- @quiz 1corintios-1-2 -->
 
 ## 3:1-4 La espiritualidad y la carnalidad entre los corintios
 
@@ -7612,222 +7612,393 @@ Sean imitadores de mí, como también yo lo soy de Cristo.
 
 ## 11:2-16 La manera en que los corintios estaban expresando honra, autoridad y espiritualidad cuando se reunían
 
-##### Es bueno que miremos el contexto general de la sección.  Pablo no introduce este tema aisladamente. Toda esta <u>sección</u> continúa desarrollando problemas que ya venían apareciendo repetidamente en la carta.
+##### Pablo no introduce este tema aisladamente.
 
-###### Los corintios constantemente <u>estaban</u>:
-- redefiniendo la espiritualidad según sí mismos,
-- actuando desde autosuficiencia,
-- usando libertad sin consideración adecuada,
-- exaltando conocimiento,
-- exaltando manifestaciones,
-- y comportándose de manera contradictoria dentro de la iglesia.
+##### Toda esta <u>sección</u> continúa desarrollando problemas que ya venían apareciendo repetidamente en la carta.
+
+###### Los corintios constantemente:
+- actuaban desde autosuficiencia,
+- exaltaban conocimiento y manifestaciones,
+- usaban libertad sin consideración adecuada,
+- y se comportaban contradictoriamente dentro de la iglesia.
 
 ##### Ahora el problema aparece en la manera en que hombres y mujeres estaban actuando públicamente cuando la iglesia se reunía.
+
 ###### El tema no es presentado simplemente como:
 - <u>ropa</u>,
-- apariencia <u>externa</u>,
+- apariencia externa,
 - ni reglas aisladas de vestimenta.
 
-###### Pablo responde a una manera de actuar que <u>estaba</u> comunicando algo acerca de:
+###### Pablo responde a conductas que estaban comunicando algo acerca de:
 - <u>honra</u>,
-- autoridad,
 - relación,
+- autoridad,
 - representación,
 - y orden dentro de la congregación.
 
-##### Toda esta sección debe leerse <u>junto</u> al problema mayor de Corinto.
-###### Los corintios parecían inclinados hacia:
-- autoexpresión,
-- independencia,
-- comportamiento centrado en sí mismos,
-- y una espiritualidad desconectada del <u>cuerpo</u> y de otros.
+##### Toda esta sección debe leerse junto al problema mayor de Corinto.
 
-###### Por eso Pablo continuamente enfatiza:
+###### Los corintios continuamente actuaban:
+- desde independencia,
+- autoexpresión,
+- y una espiritualidad desconectada de otros dentro del cuerpo.
+
+###### Por eso Pablo enfatiza repetidamente:
 - relaciones,
 - procedencia,
 - interdependencia,
-- <u>orden</u>,
-- y conducta apropiada cuando se reúnen.
+- orden,
+- y conducta apropiada cuando la iglesia se reúne.
 
-###### El tema central del pasaje no <u>parece</u> ser simplemente:
+###### El enfoque del pasaje no gira solamente alrededor de:
 - <u>tela</u>,
 - peinados,
 - ni símbolos externos aislados.
 
-###### El problema parece <u>incluir</u>:
+###### El problema incluye:
 - lo que ciertas conductas comunicaban,
 - lo que representaban públicamente,
-- y <u>cómo</u> afectaban la realidad congregacional.
+- y cómo afectaban la vida congregacional.
 
 ### 1 Corintios 11:2
 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué
 
 #### Los alabo...
-##### Pablo comienza reconociendo algo positivo <u>antes</u> de introducir corrección.
+##### Pablo comienza reconociendo algo positivo antes de introducir corrección.
 
-###### Esto contrasta con otras partes de la <u>carta</u> donde comienza directamente con reprensión.
+###### Esto contrasta con otras partes de la carta donde comienza directamente con reprensión.
 
 #### ...porque en todo se acuerdan de mí...
-##### Los corintios aún mantenían relación con las instrucciones apostólicas recibidas anteriormente.
+##### Los corintios aún mantenían relación con instrucciones apostólicas previamente recibidas.
 
 #### ...y guardan las tradiciones con firmeza...
-##### Pablo habla de prácticas e instrucciones transmitidas previamente.
+##### Pablo habla de prácticas e instrucciones transmitidas anteriormente.
 
-###### Nuevamente aparece el <u>patrón</u> repetido en la carta:
-- <u>recibir</u>,
+###### Nuevamente aparece un patrón repetido en la carta:
+- recibir,
 - conservar,
 - transmitir.
 
 #### ...tal como yo se las entregué
-##### Pablo conecta la práctica congregacional con lo que él había entregado previamente.
+##### Pablo conecta la práctica congregacional con lo que previamente les había entregado.
 
-###### El <u>énfasis</u> no está en:
+###### El énfasis no cae sobre:
 - invención individual,
 - espiritualidad autónoma,
-- ni redefinición personal de la práctica <u>cristiana</u>.
+- ni redefinición personal de la práctica cristiana.
 
 ###### El énfasis cae sobre:
 - continuidad,
 - recepción,
-- y fidelidad a lo <u>recibido</u>.
+- y fidelidad a lo recibido.
 
 ### 1 Corintios 11:3
 Pero quiero que sepan que la cabeza de todo hombre es Cristo, y la cabeza de la mujer es el hombre, y la cabeza de Cristo es Dios
 
 #### Pero quiero que sepan...
-##### Pablo introduce ahora la <u>base</u> conceptual de lo que sigue.
+##### Pablo introduce ahora la base de lo que sigue.
 
-###### No comienza directamente con <u>reglas</u> externas.
+###### No comienza directamente con reglas externas.
 
-###### <u>Primero</u> establece relaciones.
+###### Primero establece relaciones.
 
 #### ...que la cabeza de todo hombre es Cristo...
-##### Cristo aparece como referencia principal respecto al hombre.
+##### Cristo aparece como referencia respecto al hombre.
 
-###### El hombre no <u>aparece</u> como autoridad autónoma o independiente.
+###### El hombre no aparece como autónomo o independiente.
 
 #### ...y la cabeza de la mujer es el hombre...
-##### Pablo continúa describiendo relaciones en <u>términos</u> de:
+##### Pablo continúa describiendo relaciones en términos de:
 > *cabeza.*
 
 ###### El lenguaje desarrolla:
 - relación,
-- <u>orden</u>,
+- orden,
 - conexión,
 - y representación.
 
 #### ...y la cabeza de Cristo es Dios
 ##### Pablo completa la secuencia conectando:
-- <u>Cristo</u>,
+- Cristo,
 - y Dios.
 
-###### Toda la estructura del versículo <u>gira</u> alrededor de relaciones conectadas.
+###### Toda la estructura del versículo gira alrededor de relaciones conectadas.
 
-###### El problema corintio probablemente no era simplemente externo.
+###### Pablo responde a conductas que estaban comunicando algo dentro de la reunión congregacional.
 
-###### Pablo <u>parece</u> responder a conductas que estaban:
-- comunicando independencia,
-- borrando distinciones,
-- o actuando desconectadamente <u>dentro</u> de la reunión congregacional.
+###### El énfasis continúa siendo:
+- relación,
+- representación,
+- honra,
+- y conducta apropiada cuando la iglesia se reúne.
 
 ### 1 Corintios 11:4
 Todo hombre que cubre su cabeza mientras ora o profetiza, deshonra su cabeza.
 
 #### Todo hombre que cubre su cabeza...
-##### Pablo comienza ahora a <u>aplicar</u> públicamente las relaciones recién establecidas.
+##### Pablo comienza ahora a aplicar públicamente las relaciones recién establecidas.
 
 #### ...mientras ora o profetiza...
-##### El contexto continúa <u>siendo</u> claramente congregacional y visible.
+##### El contexto continúa siendo congregacional y visible.
 
 ###### Estas no son actividades privadas.
 
-###### <u>Son</u> actividades realizadas:
-- delante de <u>otros</u>,
-- <u>dentro</u> de la reunión,
-- y relacionadas con espiritualidad <u>visible</u>.
+###### Son actividades realizadas:
+- delante de otros,
+- dentro de la reunión,
+- y relacionadas con espiritualidad visible.
 
 #### ...deshonra su cabeza.
-##### Pablo conecta conducta visible con <u>honra</u> y deshonra.
+##### Pablo conecta conducta visible con honra y deshonra.
 
-###### La conducta <u>externa</u> estaba comunicando algo respecto a:
+###### La conducta externa comunicaba algo respecto a:
 - relación,
-- autoridad,
 - representación,
-- y <u>orden</u>.
+- autoridad,
+- y orden.
 
-###### El problema no parece reducirse simplemente al objeto externo en sí <u>mismo</u>.
+###### El énfasis del pasaje no cae solamente sobre el objeto externo.
 
-###### Pablo está preocupado por:
-- lo que se comunica,
-- lo que se representa,
-- y lo que <u>ocurre</u> dentro de la vida congregacional.
+###### Pablo también se enfoca en:
+- lo que la conducta representaba,
+- lo que comunicaba públicamente,
+- y cómo afectaba la vida congregacional.
 
 ### 1 Corintios 11:5
 Pero toda mujer que tiene la cabeza descubierta mientras ora o profetiza, deshonra su cabeza, porque se hace una con la que está rapada.
 
 #### Pero toda mujer que tiene la cabeza descubierta...
-##### Pablo ahora aplica el mismo principio a la <u>mujer</u>.
+##### Pablo ahora aplica el mismo principio a la mujer.
 
 #### ...mientras ora o profetiza...
 ##### Nuevamente aparece participación activa dentro del contexto congregacional.
 
-###### Esto muestra que el enfoque del pasaje no es excluir totalmente a la mujer de actividades espirituales <u>visibles</u>.
+###### Esto muestra que el pasaje no describe ausencia total de participación visible por parte de la mujer.
 
-###### El <u>enfoque</u> está en:
-- <u>cómo</u> se participa,
-- <u>cómo</u> se representa,
-- y <u>qué</u> comunica la conducta pública.
+###### El enfoque continúa siendo:
+- cómo se participa,
+- cómo se representa,
+- y qué comunica la conducta pública.
 
 #### ...deshonra su cabeza...
 ##### Pablo mantiene el lenguaje de:
-- <u>honra</u>,
+- honra,
 - y deshonra.
 
-###### El comportamiento <u>visible</u> estaba comunicando algo relacionalmente significativo.
+###### El comportamiento visible comunicaba algo relacionalmente significativo dentro de la congregación.
 
 #### ...porque se hace una con la que está rapada.
-##### Pablo conecta la conducta con una condición considerada vergonzosa o deshonrosa dentro de ese contexto <u>social</u> y congregacional.
+##### Pablo conecta esta conducta con una condición considerada vergonzosa o deshonrosa dentro de ese contexto.
 
 ###### El énfasis continúa siendo:
-- representación <u>pública</u>,
+- representación pública,
 - significado visible,
-- y comportamiento apropiado <u>dentro</u> de la reunión de la iglesia.
+- y conducta apropiada dentro de la reunión de la iglesia.
 
 ### 1 Corintios 11:6
 Porque si la mujer no se cubre la cabeza, que también se corte el cabello; pero si es deshonroso para la mujer cortarse el cabello, o raparse, que se cubra.
 
 #### Porque si la mujer no se cubre la cabeza...
-##### Pablo continúa desarrollando la <u>lógica</u> interna de su argumento.
+##### Pablo continúa desarrollando la lógica de su argumento.
 
 #### ...que también se corte el cabello...
-##### Pablo lleva el razonamiento <u>hacia</u> una consecuencia paralela.
+##### Pablo lleva el razonamiento hacia una consecuencia correspondiente.
 
-###### La idea parece ser:
-- si una acción elimina cierta representación visible,
-- entonces la <u>otra</u> consecuencia coherente también debería aceptarse.
+###### El argumento conecta ambas acciones dentro del mismo marco de representación visible.
 
 #### ...pero si es deshonroso para la mujer cortarse el cabello, o raparse...
-##### Pablo apela nuevamente a aquello considerado vergonzoso o deshonroso <u>dentro</u> de su contexto.
+##### Pablo apela nuevamente a aquello considerado deshonroso dentro de ese contexto.
 
 ###### El lenguaje continúa girando alrededor de:
-- <u>honra</u>,
+- honra,
 - vergüenza,
 - representación pública,
-- y conducta <u>visible</u>.
+- y conducta visible.
 
 #### ...que se cubra.
-##### Pablo reafirma nuevamente la <u>práctica</u> defendida.
+##### Pablo reafirma nuevamente la práctica que viene defendiendo.
 
-###### Todo este desarrollo continúa mostrando que Pablo no está tratando un tema aislado o superficial.
+###### Todo este desarrollo continúa mostrando que el tema no es tratado como algo superficial o aislado.
 
-###### Está corrigiendo una manera de actuar <u>dentro</u> de la reunión congregacional que estaba comunicando algo incorrecto respecto a:
-- relaciones,
-- <u>honra</u>,
+###### Pablo corrige conductas dentro de la reunión congregacional relacionadas con:
+- honra,
+- representación,
 - autoridad,
-- y vida compartida dentro del <u>pueblo</u> de Dios.
+- y relaciones dentro del pueblo de Dios.
+
+### 1 Corintios 11:7
+Pues el hombre no debe cubrirse la cabeza, ya que él es la imagen y gloria de Dios, pero la mujer es la gloria del hombre.
+
+#### Pues el hombre no debe cubrirse la cabeza...
+##### Pablo continúa aplicando el argumento desarrollado anteriormente.
+
+#### ...ya que él es la imagen y gloria de Dios...
+##### Pablo conecta ahora su argumento con:
+- imagen,
+- y gloria.
+
+###### El lenguaje continúa desarrollando:
+- representación,
+- procedencia,
+- relación,
+- y honra.
+
+#### ...pero la mujer es la gloria del hombre.
+##### Pablo continúa describiendo la relación entre hombre y mujer en términos de gloria y representación.
+
+###### El énfasis sigue conectado con la manera en que hombres y mujeres estaban expresándose públicamente dentro de la reunión congregacional.
+
+### 1 Corintios 11:8
+Porque el hombre no procede de la mujer, sino la mujer del hombre.
+
+#### Porque el hombre no procede de la mujer...
+##### Pablo apela ahora al origen presentado en Génesis.
+
+#### ...sino la mujer del hombre.
+##### El argumento continúa desarrollándose alrededor de:
+- procedencia,
+- relación,
+- y orden.
+
+###### Pablo sigue conectando conducta congregacional visible con relaciones que él considera significativas.
+
+### 1 Corintios 11:9
+En verdad el hombre no fue creado a causa de la mujer, sino la mujer a causa del hombre.
+
+#### ...el hombre no fue creado a causa de la mujer...
+##### Pablo continúa apelando al relato de la creación.
+
+#### ...sino la mujer a causa del hombre.
+##### El argumento continúa desarrollándose desde la relación presentada entre ambos.
+
+###### Pablo sigue construyendo el mismo marco relacional presentado desde el inicio de la sección.
+
+### 1 Corintios 11:10
+Por tanto, la mujer debe tener un símbolo de autoridad sobre la cabeza, por causa de los ángeles.
+
+#### Por tanto...
+##### Pablo presenta ahora una conclusión basada en el desarrollo anterior.
+
+#### ...la mujer debe tener un símbolo de autoridad sobre la cabeza...
+##### Pablo vuelve nuevamente a la práctica visible discutida en toda la sección.
+
+###### El énfasis continúa siendo:
+- representación visible,
+- honra,
+- autoridad,
+- y conducta apropiada dentro de la reunión congregacional.
+
+#### ...por causa de los ángeles.
+##### Pablo introduce aquí una referencia que no desarrolla ampliamente.
+
+###### El texto no explica detalladamente la relación de los ángeles con la práctica mencionada.
+
+###### Sin embargo, la referencia mantiene el tono serio y significativo de la conducta congregacional discutida en toda la sección.
+
+### 1 Corintios 11:11
+Sin embargo, en el Señor, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
+
+#### Sin embargo, en el Señor...
+##### Pablo introduce ahora una aclaración importante dentro del argumento.
+
+#### ...ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
+##### Pablo no presenta hombres y mujeres como realidades aisladas o autónomas.
+
+###### El lenguaje enfatiza:
+- relación,
+- interdependencia,
+- y conexión mutua.
+
+###### Esto evita leer el argumento anterior como independencia absoluta o autosuficiencia de una parte sobre la otra.
+
+### 1 Corintios 11:12
+Porque así como la mujer procede del hombre, también el hombre nace de la mujer; y todas las cosas proceden de Dios.
+
+#### Porque así como la mujer procede del hombre...
+
+##### Pablo retoma nuevamente el tema de procedencia.
+
+#### ...también el hombre nace de la mujer...
+##### Pablo equilibra ahora el argumento mostrando dependencia mutua.
+
+#### ...y todas las cosas proceden de Dios.
+##### Pablo termina llevando finalmente toda la secuencia hacia Dios como fuente última.
+
+###### El énfasis final no termina en autonomía humana, sino en procedencia y dependencia delante de Dios.
+
+### 1 Corintios 11:13
+Juzguen ustedes mismos: ¿es propio que la mujer ore a Dios con la cabeza descubierta?
+
+#### Juzguen ustedes mismos...
+##### Pablo llama ahora a los corintios a considerar el asunto por sí mismos.
+
+#### ...¿es propio que la mujer ore a Dios con la cabeza descubierta?
+
+##### Pablo vuelve nuevamente a:
+- oración,
+- conducta visible,
+- y representación pública dentro de la congregación.
+
+###### El enfoque continúa siendo la manera en que la conducta comunicaba honra y representación cuando la iglesia se reunía.
+
+### 1 Corintios 11:14
+¿No les enseña la misma naturaleza que si el hombre tiene el cabello largo le es deshonra,
+
+#### ¿No les enseña la misma naturaleza...
+##### Pablo continúa apelando a aquello que los corintios podían reconocer como apropiado o inapropiado.
+
+#### ...que si el hombre tiene el cabello largo le es deshonra,
+##### Pablo nuevamente conecta apariencia visible con honra y deshonra.
+
+###### El argumento continúa girando alrededor de:
+- representación visible,
+- conducta apropiada,
+- y lo que ciertas prácticas comunicaban públicamente.
+
+### 1 Corintios 11:15
+pero que si la mujer tiene el cabello largo le es una gloria? Pues a ella el cabello le es dado por velo.
+
+#### ...pero que si la mujer tiene el cabello largo le es una gloria?
+##### Pablo mantiene el mismo contraste entre honra y deshonra desarrollado en toda la sección.
+
+###### El lenguaje continúa conectado con:
+- gloria,
+- representación,
+- y diferencia visible dentro de la congregación.
+
+#### ...Pues a ella el cabello le es dado por velo.
+##### Pablo conecta ahora el cabello con la idea de cobertura dentro de su argumento.
+
+###### Toda la sección ha mantenido el enfoque en:
+- conducta visible,
+- representación pública,
+- honra,
+- y comportamiento apropiado cuando la iglesia se reúne.
+
+### 1 Corintios 11:16
+Si alguno quiere ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios.
+
+#### Si alguno quiere ser contencioso...
+##### Pablo cierra la discusión respondiendo a una posible actitud contenciosa.
+
+#### ...nosotros no tenemos tal costumbre, ni las iglesias de Dios.
+##### Pablo conecta la práctica discutida con una realidad compartida entre las iglesias.
+
+###### Nuevamente aparece el énfasis visto anteriormente en la carta:
+- continuidad,
+- práctica compartida,
+- recepción,
+- y conducta congregacional común.
+
+###### El cierre de la sección mantiene el enfoque en:
+- la vida congregacional,
+- la conducta visible cuando se reúnen,
+- y prácticas compartidas entre las iglesias de Dios.
+
+## 1 Corintios 11:17–22 Corrige la manera destructiva en que se estaban reuniendo
 
 ### 1 Corintios 11:17
-Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo
+Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo.
 
 #### Pero al darles estas instrucciones, no los alabo...
 ##### Pablo ahora <u>cambia</u> abruptamente el tono.
@@ -7940,6 +8111,8 @@ Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro 
 #### En esto no los alabaré
 ##### Pablo <u>concluye</u> rechazando completamente su conducta en este asunto.
 
+## 1 Corintios 11:23–26 Pablo recuerda lo que recibió del Señor acerca de la cena
+
 ### 1 Corintios 11:23
 Porque yo recibí del Señor lo mismo que les he enseñado: que el Señor Jesús, la noche en que fue entregado, tomó pan
 
@@ -8017,6 +8190,8 @@ Porque todas las veces que coman este pan y beban esta copa, proclaman la muerte
 ###### La cena queda ubicada entre:
 - la <u>muerte</u> del Señor,
 - y Su venida futura.
+
+## 1 Corintios 11:27–32 Advierte sobre participar indignamente y sin discernir el cuerpo
 
 ### 1 Corintios 11:27
 De manera que el que coma el pan o beba la copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor
@@ -8329,6 +8504,8 @@ Pero cuando somos juzgados, el Señor nos disciplina para que no seamos condenad
 - y condenación final con el <u>mundo</u>.
 
 ###### El propósito de la disciplina <u>aparece</u> orientado a corrección y preservación.
+
+## 1 Corintios 11:33–34 Concluye llamándolos a esperar y considerar a los demás al reunirse
 
 ### 1 Corintios 11:33
 Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
