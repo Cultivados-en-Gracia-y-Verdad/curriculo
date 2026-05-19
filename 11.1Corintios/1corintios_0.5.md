@@ -6315,555 +6315,449 @@ Por tanto, si la comida hace que mi hermano caiga en pecado, no comeré carne ja
 ## 1 Corintios 9:1–20 Pablo usa su propia vida para redefinir libertad, derechos y servicio
 
 ### 1 Corintios 9:1
-
 ¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes mi obra en el Señor?
 
 #### ¿No soy libre?
+##### Pablo <u>comienza</u> con preguntas retóricas.
 
-##### Pablo comienza con preguntas retóricas.
+##### La primera realidad que <u>afirma</u> es su libertad.
 
-##### La primera realidad que afirma es su libertad.
-
-###### El tema de la libertad conecta directamente con el contexto anterior:
-
+###### El tema de la libertad <u>conecta</u> directamente con el contexto anterior:
 - libertad,
 - derechos,
 - participación,
-- y consideración hacia otros.
+- y consideración <u>hacia</u> otros.
 
 #### ¿No soy apóstol?
-
 ##### Pablo también afirma su apostolado.
 
-###### No separa:
-
+###### No <u>separa</u>:
 - su libertad,
-- de su llamado,
+- de su <u>llamado</u>,
 - ni de su responsabilidad.
 
 #### ¿No he visto a Jesús nuestro Señor?
+##### Pablo conecta su apostolado con <u>haber</u> visto al Señor Jesús.
 
-##### Pablo conecta su apostolado con haber visto al Señor Jesús.
-
-###### La pregunta funciona como parte de la defensa de su autoridad apostólica.
+###### La pregunta funciona <u>como</u> parte de la defensa de su autoridad apostólica.
 
 #### ¿No son ustedes mi obra en el Señor?
+##### Pablo señala a los propios corintios como evidencia <u>visible</u> de su ministerio.
 
-##### Pablo señala a los propios corintios como evidencia visible de su ministerio.
-
-###### Los creyentes en Corinto funcionaban como:
-
+###### Los creyentes en <u>Corinto</u> funcionaban como:
 - resultado,
-- evidencia,
-- y manifestación
-   del trabajo apostólico de Pablo.
+- <u>evidencia</u>,
+- y manifestación del trabajo apostólico de <u>Pablo</u>.
 
 ###### La expresión:
-
 > *en el Señor*
 
-###### continúa manteniendo el marco de:
-
+###### continúa manteniendo el <u>marco</u> de:
 - pertenencia,
 - participación,
-- y realidad definida por Cristo.
+- y realidad <u>definida</u> por Cristo.
 
 ### 1 Corintios 9:2
-
 Si para otros no soy apóstol, por lo menos para ustedes sí lo soy; pues ustedes son el sello de mi apostolado en el Señor.
 
 #### Si para otros no soy apóstol...
-
 ##### Pablo reconoce que algunos cuestionaban su apostolado.
 
-###### No intenta aquí desarrollar toda la controversia.
+###### No intenta <u>aquí</u> desarrollar toda la controversia.
 
-###### Más bien, dirige la atención específicamente a los corintios.
+###### Más bien, dirige la atención específicamente a los <u>corintios</u>.
 
 #### ...por lo menos para ustedes sí lo soy
-
 ##### Pablo afirma que los corintios especialmente no podían ignorar su apostolado.
 
-###### Ellos habían recibido directamente su ministerio.
+###### Ellos habían <u>recibido</u> directamente su ministerio.
 
 #### Pues ustedes son el sello de mi apostolado en el Señor.
-
-##### Pablo usa la imagen de un sello.
+##### Pablo usa la imagen de un <u>sello</u>.
 
 ###### Los creyentes mismos funcionaban como evidencia autentificadora de su ministerio.
 
-###### El énfasis no está en:
-
+###### El <u>énfasis</u> no está en:
 - prestigio personal,
-- posición social,
+- posición <u>social</u>,
 - ni reconocimiento humano.
 
 ###### El énfasis está en lo que ocurrió:
-
 - en el Señor,
 - mediante el evangelio,
-- y entre ellos.
+- y entre <u>ellos</u>.
 
 ### 1 Corintios 9:3
-
 Mi defensa contra los que me examinan es esta:
 
 #### Mi defensa...
-
 ##### Pablo introduce formalmente su respuesta.
 
-###### La palabra:
-
+###### La <u>palabra</u>:
 > *defensa*
 
-###### muestra que Pablo estaba respondiendo a evaluación y cuestionamiento.
+###### muestra que Pablo <u>estaba</u> respondiendo a evaluación y cuestionamiento.
 
 #### ...contra los que me examinan...
+##### Algunos <u>estaban</u> evaluando críticamente a Pablo.
 
-##### Algunos estaban evaluando críticamente a Pablo.
-
-###### El lenguaje refleja:
-
+###### El lenguaje <u>refleja</u>:
 - investigación,
 - evaluación,
 - interrogación,
-- o juicio sobre su ministerio.
+- o <u>juicio</u> sobre su ministerio.
 
 #### ...es esta:
+##### Lo que sigue funciona como la explicación <u>formal</u> de Pablo.
 
-##### Lo que sigue funciona como la explicación formal de Pablo.
-
-###### Desde aquí comienza una larga argumentación sobre:
-
-- derechos,
+###### Desde <u>aquí</u> comienza una larga argumentación sobre:
+- <u>derechos</u>,
 - libertad,
-- sustento,
+- <u>sustento</u>,
 - renuncia voluntaria,
-- y la manera en que Pablo vivía el evangelio.
+- y la manera en que Pablo <u>vivía</u> el evangelio.
 
 ### 1 Corintios 9:4
-
 ¿Acaso no tenemos derecho a comer y beber?
 
 #### ¿Acaso no tenemos derecho...?
+##### Pablo comienza a enumerar derechos <u>legítimos</u>.
 
-##### Pablo comienza a enumerar derechos legítimos.
+###### El énfasis no es que <u>tales</u> derechos fueran falsos.
 
-###### El énfasis no es que tales derechos fueran falsos.
-
-###### Pablo reconoce que verdaderamente existían.
+###### Pablo reconoce que verdaderamente <u>existían</u>.
 
 #### ...a comer y beber?
+##### El contexto <u>apunta</u> al derecho de recibir sustento material.
 
-##### El contexto apunta al derecho de recibir sustento material.
-
-###### Pablo comienza defendiendo el derecho de quienes sirven en el evangelio a ser sostenidos.
+###### Pablo comienza defendiendo el derecho de quienes <u>sirven</u> en el evangelio a ser sostenidos.
 
 ### 1 Corintios 9:5
-
 ¿No tenemos derecho a llevar con nosotros una esposa creyente, así como los demás apóstoles y los hermanos del Señor y Cefas?
 
 #### ¿No tenemos derecho a llevar con nosotros una esposa creyente...?
+##### <u>Pablo</u> continúa hablando de derechos legítimos.
 
-##### Pablo continúa hablando de derechos legítimos.
-
-###### El énfasis sigue siendo:
-
+###### El énfasis <u>sigue</u> siendo:
 - sustento,
-- provisión,
+- <u>provisión</u>,
 - y legitimidad.
 
 #### ...así como los demás apóstoles...
+##### Pablo se compara con <u>otros</u> apóstoles.
 
-##### Pablo se compara con otros apóstoles.
-
-###### Esto muestra que la práctica mencionada era conocida entre otros siervos del evangelio.
+###### Esto muestra que la práctica mencionada era conocida entre <u>otros</u> siervos del evangelio.
 
 #### ...y los hermanos del Señor y Cefas?
+##### Pablo <u>incluye</u> ejemplos reconocidos por los corintios.
 
-##### Pablo incluye ejemplos reconocidos por los corintios.
+###### Cefas aparece nuevamente como <u>figura</u> conocida y respetada.
 
-###### Cefas aparece nuevamente como figura conocida y respetada.
-
-###### Pablo muestra que su posición no era inferior a la de ellos.
+###### Pablo <u>muestra</u> que su posición no era inferior a la de ellos.
 
 ### 1 Corintios 9:6
-
 ¿O acaso solo Bernabé y yo no tenemos el derecho a no trabajar?
 
 #### ¿O acaso solo Bernabé y yo...?
+##### Pablo ahora se coloca <u>junto</u> a Bernabé.
 
-##### Pablo ahora se coloca junto a Bernabé.
-
-###### Ambos aparecen como ejemplos concretos.
+###### <u>Ambos</u> aparecen como ejemplos concretos.
 
 #### ...no tenemos el derecho a no trabajar?
-
-##### Pablo habla del derecho de no depender de trabajo secular para sostenerse.
+##### Pablo habla del derecho de no depender de trabajo secular <u>para</u> sostenerse.
 
 ###### El argumento no es:
-
-- que el trabajo fuera incorrecto,
-- ni que trabajar fuera indigno.
+- que el trabajo <u>fuera</u> incorrecto,
+- ni que <u>trabajar</u> fuera indigno.
 
 ###### El punto es que quienes proclaman el evangelio tenían legítimamente derecho a recibir sustento.
 
 ### 1 Corintios 9:7
-
 ¿Quién ha servido alguna vez como soldado a sus propias expensas? ¿Quién planta una viña y no come de su fruto? ¿O quién cuida un rebaño y no bebe de la leche del rebaño?
 
 #### ¿Quién ha servido alguna vez como soldado a sus propias expensas?
+##### Pablo <u>usa</u> ejemplos cotidianos.
 
-##### Pablo usa ejemplos cotidianos.
-
-###### El soldado normalmente recibe provisión mientras sirve.
+###### El soldado normalmente <u>recibe</u> provisión mientras sirve.
 
 #### ¿Quién planta una viña y no come de su fruto?
+##### Pablo usa <u>ahora</u> una imagen agrícola.
 
-##### Pablo usa ahora una imagen agrícola.
-
-###### El trabajador participa del fruto de su labor.
+###### El trabajador participa del <u>fruto</u> de su labor.
 
 #### ¿O quién cuida un rebaño y no bebe de la leche del rebaño?
-
 ##### Pablo añade un ejemplo pastoral.
 
-###### En los tres ejemplos aparece la misma idea:
-
-- trabajo,
+###### En los tres ejemplos aparece la <u>misma</u> idea:
+- <u>trabajo</u>,
 - servicio,
-- y participación legítima en el fruto producido.
+- y participación legítima en el <u>fruto</u> producido.
 
 ### 1 Corintios 9:8
-
 ¿Acaso digo esto según el juicio humano? ¿No dice también la ley esto mismo?
 
 #### ¿Acaso digo esto según el juicio humano?
-
-##### Pablo pregunta si su argumento es solamente humano.
+##### Pablo pregunta si su <u>argumento</u> es solamente humano.
 
 ###### No quiere que sus palabras sean vistas simplemente como opinión personal.
 
 #### ¿No dice también la ley esto mismo?
-
-##### Pablo apela ahora a la ley.
+##### Pablo apela <u>ahora</u> a la ley.
 
 ###### El argumento sobre sustento no era solamente práctico o cultural.
 
-###### Pablo afirma que también encontraba apoyo en la Escritura.
+###### Pablo afirma que también encontraba <u>apoyo</u> en la Escritura.
 
 ### 1 Corintios 9:9
-
 Pues en la ley de Moisés está escrito: «No pondrás bozal al buey cuando trilla». ¿Acaso le preocupan a Dios los bueyes?
 
 #### Pues en la ley de Moisés está escrito...
-
-##### Pablo cita directamente la ley de Moisés.
+##### Pablo <u>cita</u> directamente la ley de Moisés.
 
 #### «No pondrás bozal al buey cuando trilla».
+##### El buey que trillaba debía <u>poder</u> participar del alimento mientras trabajaba.
 
-##### El buey que trillaba debía poder participar del alimento mientras trabajaba.
-
-###### La imagen mantiene la misma línea:
-
+###### La imagen mantiene la misma <u>línea</u>:
 - trabajo,
 - servicio,
-- y participación en el fruto.
+- y participación en el <u>fruto</u>.
 
 #### ¿Acaso le preocupan a Dios los bueyes?
+##### Pablo hace <u>una</u> pregunta interpretativa sobre el propósito del texto.
 
-##### Pablo hace una pregunta interpretativa sobre el propósito del texto.
-
-###### La pregunta prepara la aplicación hacia los trabajadores del evangelio.
+###### La pregunta prepara la aplicación <u>hacia</u> los trabajadores del evangelio.
 
 ### 1 Corintios 9:10
-
 ¿O lo dice especialmente por nosotros? Sí, se escribió por nosotros, porque el que ara debe arar con esperanza, y el que trilla debe trillar con la esperanza de recibir de la cosecha.
 
 #### ¿O lo dice especialmente por nosotros?
-
-##### Pablo aplica el principio hacia los siervos del evangelio.
+##### Pablo aplica el principio hacia los <u>siervos</u> del evangelio.
 
 #### Sí, se escribió por nosotros...
-
-##### Pablo afirma que el principio tiene aplicación hacia ellos.
+##### Pablo <u>afirma</u> que el principio tiene aplicación hacia ellos.
 
 #### ...porque el que ara debe arar con esperanza...
-
-##### El trabajador actúa esperando participación futura.
+##### El trabajador <u>actúa</u> esperando participación futura.
 
 #### ...y el que trilla debe trillar con la esperanza de recibir de la cosecha.
+##### La esperanza incluye participación real en el <u>fruto</u> producido.
 
-##### La esperanza incluye participación real en el fruto producido.
-
-###### Nuevamente aparece la relación entre:
-
-- labor,
+###### Nuevamente aparece la relación <u>entre</u>:
+- <u>labor</u>,
 - servicio,
 - y participación.
 
 ### 1 Corintios 9:11
-
 Si en ustedes sembramos lo espiritual, ¿será demasiado que de ustedes cosechemos lo material?
 
 #### Si en ustedes sembramos lo espiritual...
-
-##### Pablo describe su ministerio usando lenguaje agrícola.
+##### Pablo describe su ministerio <u>usando</u> lenguaje agrícola.
 
 ###### El evangelio es presentado como siembra.
 
 #### ¿Será demasiado que de ustedes cosechemos lo material?
-
-##### Pablo compara:
-
+##### Pablo <u>compara</u>:
 - lo espiritual,
 - y lo material.
 
-###### El argumento implica que recibir sustento material no sería excesivo frente a la labor espiritual realizada.
+###### El argumento implica que <u>recibir</u> sustento material no sería excesivo frente a la labor espiritual realizada.
 
 ### 1 Corintios 9:12
-
 Si otros tienen este derecho sobre ustedes, ¿no lo tenemos aún más nosotros? Sin embargo, no hemos usado este derecho, sino que sufrimos todo para no causar estorbo al evangelio de Cristo.
 
 #### Si otros tienen este derecho sobre ustedes...
-
-##### Pablo reconoce que otros ejercían ese derecho.
+##### Pablo reconoce que otros <u>ejercían</u> ese derecho.
 
 #### ¿No lo tenemos aún más nosotros?
-
-##### Pablo afirma que él y sus colaboradores tenían aún mayor legitimidad.
+##### Pablo <u>afirma</u> que él y sus colaboradores tenían aún mayor legitimidad.
 
 #### Sin embargo, no hemos usado este derecho...
-
 ##### Aquí aparece el giro central del argumento.
 
-###### Pablo no niega el derecho.
+###### Pablo no <u>niega</u> el derecho.
 
 ###### Pablo renuncia voluntariamente a usarlo.
 
 #### ...sino que sufrimos todo para no causar estorbo al evangelio de Cristo.
-
 ##### Pablo conecta su renuncia con el evangelio.
 
 ###### El objetivo no era:
-
-- apariencia religiosa,
+- <u>apariencia</u> religiosa,
 - ascetismo,
-- ni desprecio por el sustento.
+- ni desprecio por el <u>sustento</u>.
 
 ###### El objetivo era:
-
 - no poner obstáculo,
-- no producir estorbo,
-- y no interferir con el evangelio de Cristo.
+- no producir <u>estorbo</u>,
+- y no interferir con el evangelio de <u>Cristo</u>.
 
 ### 1 Corintios 9:13
-
 ¿No saben que los que desempeñan los servicios sagrados comen la comida del templo, y los que regularmente sirven al altar, del altar reciben su parte?
 
 #### ¿No saben...?
-
-##### Pablo apela nuevamente a algo conocido.
+##### Pablo <u>apela</u> nuevamente a algo conocido.
 
 #### ...que los que desempeñan los servicios sagrados comen la comida del templo...?
-
-##### Pablo usa el ejemplo del servicio sagrado.
+##### Pablo usa el ejemplo del servicio <u>sagrado</u>.
 
 ###### Quienes servían participaban del sustento relacionado con ese servicio.
 
 #### ...y los que regularmente sirven al altar, del altar reciben su parte?
-
-##### Pablo continúa reforzando el mismo principio.
+##### Pablo continúa reforzando el <u>mismo</u> principio.
 
 ###### El servicio y la participación en el sustento aparecen unidos nuevamente.
 
 ### 1 Corintios 9:14
-
 Así también ordenó el Señor que los que proclaman el evangelio, vivan del evangelio.
 
 #### Así también ordenó el Señor...
-
-##### Pablo ahora conecta el principio directamente con mandato del Señor.
+##### Pablo ahora <u>conecta</u> el principio directamente con mandato del Señor.
 
 #### ...que los que proclaman el evangelio, vivan del evangelio.
-
-##### Pablo afirma claramente el derecho legítimo de recibir sustento mediante el ministerio del evangelio.
+##### Pablo afirma claramente el derecho legítimo de <u>recibir</u> sustento mediante el ministerio del evangelio.
 
 ###### El argumento queda completamente establecido:
-
 - práctica común,
-- ley,
+- <u>ley</u>,
 - servicio del templo,
-- y mandato del Señor
-   apuntaban en la misma dirección.
+- y mandato del Señor apuntaban en la <u>misma</u> dirección.
 
 ### 1 Corintios 9:15
-
 Pero yo de nada de esto me he aprovechado. Y no escribo esto para que así se haga conmigo. Porque mejor me fuera morir, que permitir que alguien me prive de esta gloria.
 
 #### Pero yo de nada de esto me he aprovechado.
+##### Pablo <u>vuelve</u> nuevamente a su práctica personal.
 
-##### Pablo vuelve nuevamente a su práctica personal.
-
-###### Aunque el derecho existía, él no lo estaba utilizando.
+###### Aunque el derecho existía, él no lo <u>estaba</u> utilizando.
 
 #### Y no escribo esto para que así se haga conmigo.
-
-##### Pablo aclara que no está intentando obtener beneficio económico mediante esta carta.
+##### Pablo <u>aclara</u> que no está intentando obtener beneficio económico mediante esta carta.
 
 #### Porque mejor me fuera morir...
-
-##### Pablo expresa intensamente la importancia de su decisión.
+##### Pablo expresa intensamente la importancia de su <u>decisión</u>.
 
 #### ...que permitir que alguien me prive de esta gloria.
-
 ##### La “gloria” aquí está relacionada con predicar gratuitamente.
 
-###### Pablo veía valor en:
-
+###### Pablo veía <u>valor</u> en:
 - no usar plenamente sus derechos,
-- y servir sin poner carga sobre otros.
+- y servir sin poner <u>carga</u> sobre otros.
 
 ### 1 Corintios 9:16
-
 Porque si predico el evangelio, no tengo nada de qué gloriarme, pues estoy bajo el deber de hacerlo. Pues ¡ay de mí si no predico el evangelio!
 
 #### Porque si predico el evangelio, no tengo nada de qué gloriarme...
-
-##### Pablo no considera la simple predicación como motivo de gloria personal.
+##### Pablo no considera la <u>simple</u> predicación como motivo de gloria personal.
 
 #### ...pues estoy bajo el deber de hacerlo.
-
-##### Pablo describe la predicación como obligación.
+##### Pablo describe la predicación <u>como</u> obligación.
 
 ###### El lenguaje refleja necesidad y encargo.
 
 #### Pues ¡ay de mí si no predico el evangelio!
-
 ##### Pablo expresa fuerte urgencia y responsabilidad.
 
-###### El evangelio no aparece como:
-
-- hobby,
+###### El evangelio no <u>aparece</u> como:
+- <u>hobby</u>,
 - proyecto opcional,
-- ni plataforma personal.
+- ni plataforma <u>personal</u>.
 
-###### Aparece como una responsabilidad inevitable.
+###### Aparece <u>como</u> una responsabilidad inevitable.
 
 ### 1 Corintios 9:17
-
 Porque si hago esto voluntariamente, tengo recompensa; pero si lo hago en contra de mi voluntad, un encargo se me ha confiado.
 
 #### Porque si hago esto voluntariamente, tengo recompensa...
-
-##### Pablo distingue entre:
-
+##### Pablo distingue <u>entre</u>:
 - servicio voluntario,
 - y encargo obligatorio.
 
 #### ...pero si lo hago en contra de mi voluntad, un encargo se me ha confiado.
-
-##### Aun si no fuera impulsado voluntariamente, seguía existiendo un encargo confiado a él.
+##### Aun si no <u>fuera</u> impulsado voluntariamente, seguía existiendo un encargo confiado a él.
 
 ###### El énfasis continúa siendo:
-
 - responsabilidad,
 - administración,
 - y fidelidad al encargo recibido.
 
 ### 1 Corintios 9:18
-
 ¿Cuál es, entonces, mi recompensa? Que al predicar el evangelio, pueda ofrecerlo gratuitamente sin hacer pleno uso de mi derecho como predicador del evangelio.
 
 #### ¿Cuál es, entonces, mi recompensa?
-
 ##### Pablo plantea cuál considera verdaderamente su recompensa.
 
 #### ...que al predicar el evangelio, pueda ofrecerlo gratuitamente...
-
 ##### La recompensa que Pablo destaca no es material.
 
-###### Está relacionada con ofrecer gratuitamente el evangelio.
+###### Está relacionada con <u>ofrecer</u> gratuitamente el evangelio.
 
 #### ...sin hacer pleno uso de mi derecho como predicador del evangelio.
-
-##### Pablo vuelve nuevamente al tema central del capítulo.
+##### Pablo <u>vuelve</u> nuevamente al tema central del capítulo.
 
 ###### El derecho existe.
 
 ###### Pero Pablo escoge no usarlo plenamente.
 
 ### 1 Corintios 9:19
-
 Porque aunque soy libre de todos, de todos me he hecho esclavo para ganar al mayor número posible.
 
 #### Porque aunque soy libre de todos...
-
-##### Pablo vuelve al tema de la libertad.
+##### Pablo vuelve al <u>tema</u> de la libertad.
 
 ###### La libertad es real.
 
 #### ...de todos me he hecho esclavo...
-
 ##### Pablo describe una entrega voluntaria.
 
-###### La esclavitud aquí no es presentada como imposición externa.
+###### La esclavitud <u>aquí</u> no es presentada como imposición externa.
 
-###### Pablo voluntariamente se adapta y sirve a otros.
+###### Pablo voluntariamente se adapta y sirve a <u>otros</u>.
 
 #### ...para ganar al mayor número posible.
-
 ##### El objetivo es ganar personas.
 
-###### Su libertad no está orientada:
-
-- al beneficio propio,
+###### Su <u>libertad</u> no está orientada:
+- al beneficio <u>propio</u>,
 - ni a autoafirmación.
 
-###### Está orientada al avance del evangelio entre otros.
+###### Está <u>orientada</u> al avance del evangelio entre otros.
 
 ### 1 Corintios 9:20
-
 A los judíos me hice como judío, para poder ganar a los judíos. A los que están bajo la ley, como bajo la ley, aunque yo no estoy bajo la ley, para poder ganar a los que están bajo la ley.
 
 #### A los judíos me hice como judío...
-
 ##### Pablo describe adaptación contextual.
 
-###### El énfasis está en acercarse a otros para ganarles.
+###### El énfasis está en acercarse a otros para <u>ganarles</u>.
 
 #### A los que están bajo la ley, como bajo la ley...
-
-##### Pablo continúa mostrando flexibilidad relacional y práctica.
+##### Pablo <u>continúa</u> mostrando flexibilidad relacional y práctica.
 
 #### ...aunque yo no estoy bajo la ley...
-
 ##### Pablo aclara su propia situación respecto a la ley.
 
-###### La aclaración evita confusión sobre identidad o obligación personal.
+###### La aclaración evita confusión <u>sobre</u> identidad o obligación personal.
 
 #### ...para poder ganar a los que están bajo la ley.
-
 ##### El propósito nuevamente es evangelístico.
 
 ###### Todo el movimiento del capítulo gira alrededor de:
-
-- libertad,
+- <u>libertad</u>,
 - derechos,
 - renuncia voluntaria,
-- servicio,
+- <u>servicio</u>,
 - y prioridad del evangelio.
 
 ### 1 Corintios 9:21
 A los que están sin ley, como sin ley, aunque no estoy sin la ley de Dios, sino bajo la ley de Cristo, para poder ganar a los que están sin ley.
 
 #### A los que están sin ley, como sin ley...
-##### Pablo continúa describiendo su adaptación hacia distintos grupos.
+##### Pablo continúa describiendo su adaptación hacia distintos <u>grupos</u>.
 
 ###### La expresión:
 > *sin ley*
 
-###### apunta a quienes no vivían dentro del marco de la ley judía.
+###### <u>apunta</u> a quienes no vivían dentro del marco de la ley judía.
 
 #### ...aunque no estoy sin la ley de Dios...
 ##### Pablo inmediatamente introduce una aclaración.
@@ -6871,58 +6765,58 @@ A los que están sin ley, como sin ley, aunque no estoy sin la ley de Dios, sino
 ###### La adaptación de Pablo no significa ausencia absoluta de relación con Dios.
 
 ###### Pablo evita presentar su conducta como:
-- anarquía,
+- <u>anarquía</u>,
 - independencia absoluta,
 - o ausencia de dirección.
 
 #### ...sino bajo la ley de Cristo...
-##### Pablo introduce la expresión:
+##### Pablo <u>introduce</u> la expresión:
 > *la ley de Cristo*
 
-###### El énfasis permanece en su relación y obligación respecto a Cristo.
+###### El énfasis permanece en su relación y obligación <u>respecto</u> a Cristo.
 
 #### ...para poder ganar a los que están sin ley.
 ##### El propósito vuelve a ser evangelístico.
 
-###### Toda la adaptación descrita en este contexto está subordinada al objetivo de:
+###### Toda la adaptación <u>descrita</u> en este contexto está subordinada al objetivo de:
 - ganar,
 - alcanzar,
-- y servir a otros mediante el evangelio.
+- y servir a <u>otros</u> mediante el evangelio.
 
 ### 1 Corintios 9:22
 A los débiles me hice débil, para ganar a los débiles. A todos me he hecho todo, para que por todos los medios salve a algunos.
 
 #### A los débiles me hice débil...
-##### Pablo incluye ahora a los débiles.
+##### Pablo incluye ahora a los <u>débiles</u>.
 
-###### Esto conecta con las discusiones anteriores sobre:
+###### Esto <u>conecta</u> con las discusiones anteriores sobre:
 - conciencia,
-- tropiezo,
+- <u>tropiezo</u>,
 - libertad,
-- y consideración hacia otros.
+- y consideración <u>hacia</u> otros.
 
 #### ...para ganar a los débiles.
-##### Nuevamente aparece el propósito de ganar.
+##### Nuevamente aparece el propósito de <u>ganar</u>.
 
 ###### Pablo adapta su conducta considerando la situación de otros.
 
 #### A todos me he hecho todo...
-##### Pablo resume ampliamente su actitud.
+##### Pablo resume ampliamente su <u>actitud</u>.
 
 ###### La expresión muestra flexibilidad relacional y práctica.
 
-###### No presenta rigidez centrada en:
+###### No presenta <u>rigidez</u> centrada en:
 - autoafirmación,
 - derechos personales,
-- ni insistencia en sí mismo.
+- ni insistencia en sí <u>mismo</u>.
 
 #### ...para que por todos los medios salve a algunos.
-##### El objetivo continúa siendo profundamente evangelístico.
+##### El objetivo continúa <u>siendo</u> profundamente evangelístico.
 
 ###### Pablo reconoce además que el resultado no es universal:
 > *salve a algunos.*
 
-###### El énfasis sigue estando en el esfuerzo orientado hacia otros.
+###### El énfasis sigue estando en el esfuerzo orientado <u>hacia</u> otros.
 
 ### 1 Corintios 9:23
 Y todo lo hago por amor del evangelio, para ser partícipe de él.
@@ -6930,88 +6824,88 @@ Y todo lo hago por amor del evangelio, para ser partícipe de él.
 #### Y todo lo hago por amor del evangelio...
 ##### Pablo resume la motivación de toda su conducta.
 
-###### Todo lo anterior:
+###### Todo lo <u>anterior</u>:
 - renuncia,
 - adaptación,
-- servicio,
+- <u>servicio</u>,
 - libertad,
-- y sacrificio
-aparece subordinado al evangelio.
+- y sacrificio <u>aparece</u> subordinado al evangelio.
 
 #### ...para ser partícipe de él.
-##### Pablo habla de participación en el evangelio.
+##### Pablo habla de participación en el <u>evangelio</u>.
 
 ###### La idea de participación continúa apareciendo repetidamente en la carta.
 
-###### Pablo no presenta el evangelio como:
+###### Pablo no presenta el evangelio <u>como</u>:
 - simple información,
-- teoría,
-- ni posición doctrinal abstracta.
+- <u>teoría</u>,
+- ni posición <u>doctrinal</u> abstracta.
 
-###### El evangelio aparece como una realidad en la cual se participa.
+###### El evangelio aparece como una <u>realidad</u> en la cual se participa.
 
 ### 1 Corintios 9:24
 ¿No saben que los que corren en el estadio, todos en verdad corren, pero solo uno obtiene el premio? Corran de tal modo que ganen.
 
 #### ¿No saben que los que corren en el estadio...?
-##### Pablo introduce ahora imágenes atléticas.
+##### Pablo introduce <u>ahora</u> imágenes atléticas.
 
-###### El lenguaje cambia hacia competencia y disciplina.
+###### El lenguaje <u>cambia</u> hacia competencia y disciplina.
 
 #### ...todos en verdad corren, pero solo uno obtiene el premio?
 ##### Pablo destaca la realidad de la competencia.
 
-###### No todos reciben el premio final.
+###### No todos reciben el <u>premio</u> final.
 
 #### Corran de tal modo que ganen.
 ##### Pablo exhorta a correr con propósito y orientación definida.
 
-###### El énfasis cambia desde:
+###### El <u>énfasis</u> cambia desde:
 - derechos,
 - y adaptación,
-hacia:
+
+###### hacia:
 - perseverancia,
 - disciplina,
-- y orientación hacia la meta.
+- y orientación hacia la <u>meta</u>.
 
 ### 1 Corintios 9:25
 Y todo el que compite en los juegos se abstiene de todo. Ellos lo hacen para recibir una corona corruptible, pero nosotros, una incorruptible.
 
 #### Y todo el que compite en los juegos se abstiene de todo.
-##### Pablo enfatiza disciplina y dominio propio.
+##### Pablo enfatiza disciplina y <u>dominio</u> propio.
 
 ###### El competidor restringe voluntariamente ciertas cosas.
 
-###### Esto conecta nuevamente con el tema de:
+###### Esto <u>conecta</u> nuevamente con el tema de:
 - renuncia voluntaria,
 - control,
-- y subordinación de derechos.
+- y subordinación de <u>derechos</u>.
 
 #### Ellos lo hacen para recibir una corona corruptible...
-##### Pablo compara las metas terrenales con las eternas.
+##### Pablo <u>compara</u> las metas terrenales con las eternas.
 
 ###### La corona atlética era temporal y perecedera.
 
 #### ...pero nosotros, una incorruptible.
 ##### Pablo contrasta la recompensa del creyente con la recompensa temporal de los juegos.
 
-###### El énfasis cae sobre lo:
+###### El énfasis cae <u>sobre</u> lo:
 - permanente,
 - incorruptible,
-- y duradero.
+- y <u>duradero</u>.
 
 ### 1 Corintios 9:26
 Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo, no como dando golpes al aire
 
 #### Por tanto, yo de esta manera corro...
-##### Pablo aplica personalmente las imágenes atléticas.
+##### Pablo <u>aplica</u> personalmente las imágenes atléticas.
 
-###### No habla solamente en teoría.
+###### No habla solamente en <u>teoría</u>.
 
 #### ...no como sin tener meta...
-##### Pablo describe dirección definida y propósito claro.
+##### Pablo describe dirección definida y propósito <u>claro</u>.
 
-###### Su vida y ministerio no aparecen como:
+###### Su <u>vida</u> y ministerio no aparecen como:
 - desordenados,
 - improvisados,
 - ni sin orientación.
@@ -7019,42 +6913,43 @@ Por tanto, yo de esta manera corro, no como sin tener meta; de esta manera peleo
 #### ...de esta manera peleo, no como dando golpes al aire
 ##### Pablo introduce además lenguaje de combate.
 
-###### La imagen enfatiza acción real y dirigida.
+###### La imagen enfatiza <u>acción</u> real y dirigida.
 
-###### Pablo no describe esfuerzos vacíos o sin objetivo.
+###### Pablo no describe esfuerzos <u>vacíos</u> o sin objetivo.
 
 ### 1 Corintios 9:27
 sino que golpeo mi cuerpo y lo hago mi esclavo, no sea que habiendo predicado a otros, yo mismo sea descalificado.
 
 #### ...sino que golpeo mi cuerpo...
-##### Pablo continúa usando lenguaje fuerte de disciplina personal.
+##### Pablo continúa usando lenguaje <u>fuerte</u> de disciplina personal.
 
-###### El énfasis está en control y sometimiento.
+###### El <u>énfasis</u> está en control y sometimiento.
 
 #### ...y lo hago mi esclavo...
-##### Pablo presenta su cuerpo bajo dominio y subordinación.
+##### Pablo presenta su cuerpo bajo <u>dominio</u> y subordinación.
 
-###### Esto contrasta fuertemente con una libertad entendida como:
+###### Esto <u>contrasta</u> fuertemente con una libertad entendida como:
 - autoindulgencia,
-- autonomía absoluta,
-- o satisfacción propia.
+- autonomía <u>absoluta</u>,
+- o satisfacción <u>propia</u>.
 
 #### ...no sea que habiendo predicado a otros...
-##### Pablo reconoce la posibilidad de predicar a otros mientras él mismo enfrentaba peligro de descalificación.
+##### Pablo reconoce la posibilidad de predicar a <u>otros</u> mientras él mismo enfrentaba peligro de descalificación.
 
 ###### La advertencia es presentada personalmente.
 
 #### ...yo mismo sea descalificado.
-##### Pablo termina el capítulo con lenguaje serio de evaluación y rechazo.
+##### Pablo termina el <u>capítulo</u> con lenguaje serio de evaluación y rechazo.
 
 ###### El capítulo completo termina mostrando que para Pablo:
 - libertad,
 - derechos,
-- servicio,
+- <u>servicio</u>,
 - disciplina,
 - sacrificio,
-- y participación en el evangelio
-debían permanecer subordinados a una meta mayor.
+- y participación <u>en</u> el evangelio 
+
+###### debían permanecer subordinados a una <u>meta</u> mayor.
 
 > En Síntesis
 >-  Pablo muestra que la verdadera libertad no consiste en insistir en los propios derechos.
@@ -7072,20 +6967,20 @@ debían permanecer subordinados a una meta mayor.
 Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.
 
 #### Porque no quiero que ignoren, hermanos...
-##### Pablo introduce una advertencia importante.
+##### Pablo introduce <u>una</u> advertencia importante.
 
-###### El lenguaje muestra intención de corregir ignorancia o falsa percepción.
+###### El lenguaje muestra intención de corregir ignorancia o <u>falsa</u> percepción.
 
 #### ...que todos nuestros padres estuvieron bajo la nube y todos pasaron por el mar.
 ##### Pablo recuerda los acontecimientos del éxodo.
 
-###### Repetidamente aparece la palabra:
+###### Repetidamente <u>aparece</u> la palabra:
 > *todos*
 
-###### El énfasis inicial cae sobre la experiencia compartida del pueblo.
+###### El énfasis <u>inicial</u> cae sobre la experiencia compartida del pueblo.
 
 ###### Todos participaron de:
-- la nube,
+- la <u>nube</u>,
 - el paso por el mar,
 - y la liberación histórica.
 
@@ -7093,15 +6988,15 @@ Porque no quiero que ignoren, hermanos, que todos nuestros padres estuvieron baj
 En Moisés todos fueron bautizados en la nube y en el mar.
 
 #### En Moisés todos fueron bautizados...
-##### Pablo continúa enfatizando participación colectiva.
+##### Pablo continúa enfatizando participación <u>colectiva</u>.
 
 ###### La expresión:
 > *en Moisés*
 
-###### conecta al pueblo con la figura de Moisés como líder y mediador de esa experiencia.
+###### conecta al pueblo con la <u>figura</u> de Moisés como líder y mediador de esa experiencia.
 
 #### ...en la nube y en el mar.
-##### Pablo continúa usando las imágenes del éxodo.
+##### Pablo continúa usando las imágenes del <u>éxodo</u>.
 
 ###### Nuevamente el énfasis está en una experiencia compartida por todos.
 
@@ -7111,37 +7006,37 @@ Todos comieron el mismo alimento espiritual
 #### Todos comieron el mismo alimento espiritual
 ##### Pablo continúa desarrollando la participación común de Israel.
 
-###### Nuevamente aparece:
+###### Nuevamente <u>aparece</u>:
 > *todos*
 
-###### El pueblo compartió provisión espiritual común.
+###### El <u>pueblo</u> compartió provisión espiritual común.
 
 ### 1 Corintios 10:4
 y todos bebieron la misma bebida espiritual, porque bebían de una roca espiritual que los seguía. La roca era Cristo.
 
 #### ...y todos bebieron la misma bebida espiritual...
-##### Pablo continúa enfatizando experiencia compartida.
+##### <u>Pablo</u> continúa enfatizando experiencia compartida.
 
 #### ...porque bebían de una roca espiritual que los seguía.
-##### Pablo introduce ahora la imagen de la roca.
+##### Pablo introduce ahora la imagen de la <u>roca</u>.
 
 ###### La provisión aparece nuevamente asociada a una fuente espiritual.
 
 #### La roca era Cristo.
-##### Pablo identifica la roca con Cristo.
+##### Pablo identifica la roca con <u>Cristo</u>.
 
-###### Cristo aparece relacionado con la provisión y acompañamiento del pueblo.
+###### Cristo aparece relacionado con la provisión y acompañamiento del <u>pueblo</u>.
 
 ### 1 Corintios 10:5
 Sin embargo, Dios no se agradó de la mayor parte de ellos, y por eso quedaron tendidos en el desierto.
 
 #### Sin embargo...
-##### Aquí aparece el giro central del argumento.
+##### Aquí aparece el <u>giro</u> central del argumento.
 
-###### Aunque todos participaron de experiencias comunes, el resultado no fue positivo para todos.
+###### Aunque todos participaron de experiencias comunes, el resultado no fue positivo para <u>todos</u>.
 
 #### ...Dios no se agradó de la mayor parte de ellos...
-##### Pablo introduce evaluación negativa divina.
+##### Pablo introduce evaluación negativa <u>divina</u>.
 
 ###### La experiencia espiritual compartida no garantizó aprobación.
 
@@ -7150,10 +7045,9 @@ Sin embargo, Dios no se agradó de la mayor parte de ellos, y por eso quedaron t
 
 ###### La generación del éxodo murió en el desierto.
 
-###### El contraste es fuerte:
+###### El contraste es <u>fuerte</u>:
 - participación espiritual,
-- no equivalió automáticamente
-a aprobación final.
+- no equivalió automáticamente a aprobación <u>final</u>.
 
 ### 1 Corintios 10:6
 Estas cosas sucedieron como ejemplo para nosotros, a fin de que no codiciemos lo malo, como ellos lo codiciaron.
@@ -7161,17 +7055,17 @@ Estas cosas sucedieron como ejemplo para nosotros, a fin de que no codiciemos lo
 #### Estas cosas sucedieron como ejemplo para nosotros...
 ##### Pablo explica el propósito de los acontecimientos.
 
-###### Israel funciona como advertencia.
+###### <u>Israel</u> funciona como advertencia.
 
 #### ...a fin de que no codiciemos lo malo...
-##### Pablo conecta directamente la advertencia con los corintios.
+##### Pablo conecta directamente la advertencia <u>con</u> los corintios.
 
-###### El problema no es meramente histórico.
+###### El problema no es <u>meramente</u> histórico.
 
 #### ...como ellos lo codiciaron.
-##### Pablo establece continuidad entre:
+##### Pablo establece continuidad <u>entre</u>:
 - Israel,
-- y los peligros presentes entre los creyentes.
+- y los peligros presentes <u>entre</u> los creyentes.
 
 ### 1 Corintios 10:7
 No sean, pues, idólatras, como fueron algunos de ellos, según está escrito: «El pueblo se sentó a comer y a beber, y se levantó a jugar».
@@ -7179,35 +7073,35 @@ No sean, pues, idólatras, como fueron algunos de ellos, según está escrito: �
 #### No sean, pues, idólatras...
 ##### Pablo aplica directamente la advertencia.
 
-###### La idolatría aparece ahora explícitamente.
+###### La idolatría <u>aparece</u> ahora explícitamente.
 
 #### ...como fueron algunos de ellos...
-##### Pablo conecta nuevamente con Israel.
+##### Pablo conecta nuevamente <u>con</u> Israel.
 
 #### ...«El pueblo se sentó a comer y a beber, y se levantó a jugar».
 ##### Pablo cita las Escrituras para describir la conducta del pueblo.
 
-###### La escena combina:
+###### La <u>escena</u> combina:
 - comida,
-- bebida,
+- <u>bebida</u>,
 - y actividad asociada a idolatría.
 
-###### Esto conecta directamente con los temas anteriores de:
+###### Esto conecta directamente con los <u>temas</u> anteriores de:
 - comida sacrificada,
 - participación,
-- y falsa seguridad.
+- y <u>falsa</u> seguridad.
 
 ### 1 Corintios 10:8
 Ni forniquemos, como algunos de ellos fornicaron, y en un día cayeron veintitrés mil.
 
 #### Ni forniquemos...
-##### Pablo añade ahora inmoralidad sexual.
+##### Pablo <u>añade</u> ahora inmoralidad sexual.
 
 #### ...como algunos de ellos fornicaron...
-##### Nuevamente Israel funciona como ejemplo negativo.
+##### Nuevamente Israel funciona como ejemplo <u>negativo</u>.
 
 #### ...y en un día cayeron veintitrés mil.
-##### Pablo enfatiza la severidad del juicio.
+##### Pablo enfatiza la severidad del <u>juicio</u>.
 
 ###### La advertencia continúa intensificándose.
 
@@ -7215,106 +7109,106 @@ Ni forniquemos, como algunos de ellos fornicaron, y en un día cayeron veintitr�
 Ni provoquemos al Señor, como algunos de ellos lo provocaron, y fueron destruidos por las serpientes
 
 #### Ni provoquemos al Señor...
-##### Pablo continúa enumerando advertencias.
+##### Pablo <u>continúa</u> enumerando advertencias.
 
 #### ...como algunos de ellos lo provocaron...
-##### Israel nuevamente sirve como precedente.
+##### Israel nuevamente <u>sirve</u> como precedente.
 
 #### ...y fueron destruidos por las serpientes
 ##### El resultado vuelve a ser juicio y destrucción.
 
-###### Pablo mantiene el énfasis sobre las consecuencias reales de rebelión y desobediencia.
+###### Pablo mantiene el <u>énfasis</u> sobre las consecuencias reales de rebelión y desobediencia.
 
 ### 1 Corintios 10:10
 Ni murmuren, como algunos de ellos murmuraron, y fueron destruidos por el destructor
 
 #### Ni murmuren...
-##### Pablo añade la murmuración.
+##### Pablo <u>añade</u> la murmuración.
 
 ###### El problema no se limita a actos externos visibles.
 
 #### ...como algunos de ellos murmuraron...
-##### La comparación con Israel continúa.
+##### La comparación <u>con</u> Israel continúa.
 
 #### ...y fueron destruidos por el destructor
 ##### Pablo nuevamente enfatiza juicio severo.
 
-###### El patrón repetido es claro:
+###### El patrón repetido es <u>claro</u>:
 - privilegio,
 - participación,
-- pecado,
+- <u>pecado</u>,
 - y juicio.
 
 ### 1 Corintios 10:11
 Estas cosas les sucedieron como ejemplo, y fueron escritas como enseñanza para nosotros, para quienes ha llegado el fin de los siglos.
 
 #### Estas cosas les sucedieron como ejemplo...
-##### Pablo vuelve a explicar el propósito de los acontecimientos.
+##### Pablo <u>vuelve</u> a explicar el propósito de los acontecimientos.
 
 ###### Israel funciona como advertencia continua.
 
 #### ...y fueron escritas como enseñanza para nosotros...
-##### Pablo afirma que las Escrituras tienen propósito instructivo para los creyentes.
+##### Pablo afirma que las Escrituras <u>tienen</u> propósito instructivo para los creyentes.
 
 #### ...para quienes ha llegado el fin de los siglos.
-##### Pablo ubica a los creyentes dentro de una realidad histórica significativa.
+##### Pablo ubica a los creyentes <u>dentro</u> de una realidad histórica significativa.
 
-###### El lenguaje intensifica el peso de la advertencia.
+###### El lenguaje intensifica el <u>peso</u> de la advertencia.
 
 ### 1 Corintios 10:12
 Por tanto, el que cree que está firme, tenga cuidado, no sea que caiga.
 
 #### Por tanto...
-##### Pablo extrae ahora la conclusión práctica.
+##### Pablo extrae <u>ahora</u> la conclusión práctica.
 
 #### ...el que cree que está firme...
 ##### El peligro señalado incluye falsa seguridad.
 
-###### El énfasis recae sobre percepción personal de firmeza.
+###### El énfasis <u>recae</u> sobre percepción personal de firmeza.
 
 #### ...tenga cuidado, no sea que caiga.
 ##### Pablo advierte sobre la posibilidad real de caída.
 
-###### Esto conecta fuertemente con el problema corintio de:
+###### Esto conecta fuertemente con el problema <u>corintio</u> de:
 - autosuficiencia,
-- confianza en sí mismos,
+- confianza en sí <u>mismos</u>,
 - y percepción exagerada de espiritualidad.
 
 ### 1 Corintios 10:13
 No les ha sobrevenido ninguna tentación que no sea común a los hombres. Fiel es Dios, que no permitirá que ustedes sean tentados más allá de lo que pueden soportar, sino que con la tentación proveerá también la vía de escape, a fin de que puedan resistirla.
 
 #### No les ha sobrevenido ninguna tentación que no sea común a los hombres.
-##### Pablo afirma que sus tentaciones no son únicas.
+##### Pablo afirma que sus tentaciones no son <u>únicas</u>.
 
 ###### La experiencia humana de tentación es común.
 
 #### Fiel es Dios...
-##### El énfasis cambia hacia la fidelidad de Dios.
+##### El énfasis cambia <u>hacia</u> la fidelidad de Dios.
 
 #### ...que no permitirá que ustedes sean tentados más allá de lo que pueden soportar...
-##### Pablo afirma límites dentro de la tentación.
+##### Pablo afirma límites <u>dentro</u> de la tentación.
 
 #### ...sino que con la tentación proveerá también la vía de escape...
 ##### Dios también provee salida o escape.
 
 #### ...a fin de que puedan resistirla.
-##### El objetivo no es simplemente evitar dificultad, sino resistir.
+##### El objetivo no es simplemente <u>evitar</u> dificultad, sino resistir.
 
 ### 1 Corintios 10:14
 Por tanto, amados míos, huyan de la idolatría
 
 #### Por tanto...
-##### Pablo aplica nuevamente la conclusión práctica.
+##### Pablo <u>aplica</u> nuevamente la conclusión práctica.
 
 #### ...amados míos...
-##### Pablo habla pastoralmente a los creyentes.
+##### Pablo <u>habla</u> pastoralmente a los creyentes.
 
 #### ...huyan de la idolatría.
-##### La respuesta correcta no es acercarse peligrosamente a ella.
+##### La respuesta correcta no es acercarse peligrosamente a <u>ella</u>.
 
 ###### Pablo no dice:
 - tolerarla,
-- jugar con ella,
+- <u>jugar</u> con ella,
 - ni acercarse confiadamente.
 
 ###### Dice:
@@ -7324,57 +7218,57 @@ Por tanto, amados míos, huyan de la idolatría
 Les hablo como a sabios; juzguen ustedes lo que digo.
 
 #### Les hablo como a sabios...
-##### Pablo reconoce que los corintios se consideraban sabios.
+##### Pablo reconoce que los corintios se consideraban <u>sabios</u>.
 
-###### Esto probablemente conecta con la manera en que se percibían espiritualmente.
+###### Esto probablemente <u>conecta</u> con la manera en que se percibían espiritualmente.
 
 #### ...juzguen ustedes lo que digo.
-##### Pablo los llama a evaluar cuidadosamente sus palabras.
+##### Pablo los llama a <u>evaluar</u> cuidadosamente sus palabras.
 
 ### 1 Corintios 10:16
 La copa de bendición que bendecimos, ¿no es la participación en la sangre de Cristo? El pan que partimos, ¿no es la participación en el cuerpo de Cristo?
 
 #### La copa de bendición que bendecimos...
-##### Pablo introduce ahora la cena del Señor.
+##### Pablo introduce <u>ahora</u> la cena del Señor.
 
 #### ...¿no es la participación en la sangre de Cristo?
 ##### La palabra:
 > *participación*
 
-###### vuelve a ocupar lugar central.
+###### vuelve a ocupar lugar <u>central</u>.
 
-###### Participar de la copa implica participación relacionada con Cristo.
+###### Participar de la <u>copa</u> implica participación relacionada con Cristo.
 
 #### El pan que partimos, ¿no es la participación en el cuerpo de Cristo?
-##### El mismo énfasis aparece respecto al pan.
+##### El mismo énfasis aparece respecto al <u>pan</u>.
 
-###### Pablo continúa desarrollando la idea de participación compartida.
+###### Pablo <u>continúa</u> desarrollando la idea de participación compartida.
 
 ### 1 Corintios 10:17
 Puesto que el pan es uno, nosotros, que somos muchos, somos un cuerpo; porque todos participamos de aquel mismo pan.
 
 #### Puesto que el pan es uno...
-##### Pablo conecta el pan con unidad.
+##### Pablo conecta el pan con <u>unidad</u>.
 
 #### ...nosotros, que somos muchos, somos un cuerpo...
-##### La participación compartida expresa unidad colectiva.
+##### La participación compartida expresa <u>unidad</u> colectiva.
 
 #### ...porque todos participamos de aquel mismo pan.
-##### La participación común vuelve a ser central.
+##### La participación <u>común</u> vuelve a ser central.
 
-###### Participación y unión aparecen estrechamente conectadas.
+###### Participación y <u>unión</u> aparecen estrechamente conectadas.
 
 ### 1 Corintios 10:18
 Consideren al pueblo de Israel: los que comen los sacrificios, ¿no participan del altar?
 
 #### Consideren al pueblo de Israel...
-##### Pablo vuelve nuevamente al ejemplo de Israel.
+##### Pablo <u>vuelve</u> nuevamente al ejemplo de Israel.
 
 #### ...los que comen los sacrificios, ¿no participan del altar?
-##### Participar de ciertos alimentos implica participación relacionada con aquello a lo cual pertenecen.
+##### Participar de ciertos alimentos <u>implica</u> participación relacionada con aquello a lo cual pertenecen.
 
-###### Pablo está construyendo una conexión entre:
-- comida,
+###### Pablo está construyendo una conexión <u>entre</u>:
+- <u>comida</u>,
 - participación,
 - y asociación espiritual.
 
@@ -7382,18 +7276,18 @@ Consideren al pueblo de Israel: los que comen los sacrificios, ¿no participan d
 ¿Qué quiero decir, entonces? ¿Que lo sacrificado a los ídolos es algo, o que un ídolo es algo?
 
 #### ¿Qué quiero decir, entonces?
-##### Pablo aclara cuidadosamente su argumento.
+##### Pablo <u>aclara</u> cuidadosamente su argumento.
 
 #### ¿Que lo sacrificado a los ídolos es algo, o que un ídolo es algo?
-##### Pablo no está afirmando realidad divina de los ídolos.
+##### Pablo no está afirmando realidad <u>divina</u> de los ídolos.
 
-###### El punto principal está en otra dirección.
+###### El punto principal <u>está</u> en otra dirección.
 
 ### 1 Corintios 10:20
 No, sino que digo que lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios; no quiero que ustedes sean partícipes con los demonios.
 
 #### No...
-##### Pablo rechaza la idea anterior.
+##### Pablo rechaza la <u>idea</u> anterior.
 
 #### ...lo que los gentiles sacrifican, lo sacrifican a los demonios y no a Dios...
 ##### Pablo introduce ahora una dimensión espiritual seria detrás de la idolatría.
@@ -7402,41 +7296,40 @@ No, sino que digo que lo que los gentiles sacrifican, lo sacrifican a los demoni
 ##### Nuevamente aparece la idea de participación.
 
 ###### El problema no es solamente:
-- comida,
+- <u>comida</u>,
 - ni actividad externa.
 
-###### El problema incluye participación espiritual incompatible con Cristo.
+###### El problema incluye participación espiritual incompatible <u>con</u> Cristo.
 
 ### 1 Corintios 10:21
 Ustedes no pueden beber la copa del Señor y la copa de los demonios; no pueden participar de la mesa del Señor y de la mesa de los demonios.
 
 #### Ustedes no pueden beber la copa del Señor y la copa de los demonios...
-##### Pablo presenta incompatibilidad absoluta.
+##### Pablo presenta incompatibilidad <u>absoluta</u>.
 
-###### La participación en Cristo no puede mezclarse con participación idolátrica.
+###### La participación <u>en</u> Cristo no puede mezclarse con participación idolátrica.
 
 #### ...no pueden participar de la mesa del Señor y de la mesa de los demonios.
 ##### Pablo continúa usando lenguaje de participación compartida.
 
 ###### El énfasis es relacional y participacional.
 
-###### Pablo destruye la falsa idea de que alguien puede:
+###### Pablo destruye la falsa <u>idea</u> de que alguien puede:
 - participar de Cristo,
-- y simultáneamente participar de idolatría
-sin conflicto.
+- y simultáneamente participar de idolatría <u>sin</u> conflicto.
 
 ### 1 Corintios 10:22
 ¿O provocaremos a celos al Señor? ¿Somos, acaso, más fuertes que Él?
 
 #### ¿O provocaremos a celos al Señor?
-##### Pablo termina con advertencia fuerte.
+##### Pablo termina con advertencia <u>fuerte</u>.
 
-###### El lenguaje refleja la gravedad de la idolatría y la infidelidad.
+###### El lenguaje <u>refleja</u> la gravedad de la idolatría y la infidelidad.
 
 #### ¿Somos, acaso, más fuertes que Él?
 ##### Pablo concluye con una pregunta confrontadora.
 
-###### La autosuficiencia y falsa confianza quedan completamente expuestas.
+###### La autosuficiencia y falsa confianza <u>quedan</u> completamente expuestas.
 
 > En Síntesis
 >- Pablo usa el ejemplo de Israel para advertir a los corintios contra una falsa seguridad espiritual.
@@ -7455,16 +7348,17 @@ sin conflicto.
 Todo es lícito, pero no todo es de provecho. Todo es lícito, pero no todo edifica
 
 #### Todo es lícito...
-##### Pablo vuelve a una expresión ya conocida entre los corintios.
+##### Pablo vuelve a <u>una</u> expresión ya conocida entre los corintios.
 
-###### La frase enfatiza libertad.
+###### La frase <u>enfatiza</u> libertad.
 
 #### ...pero no todo es de provecho.
 ##### Pablo introduce inmediatamente un límite práctico y relacional.
 
 ###### La pregunta ya no es solamente:
-- si algo es permitido,
-sino:
+- si <u>algo</u> es permitido,
+
+###### sino:
 - si produce beneficio.
 
 #### ...pero no todo edifica.
@@ -7473,9 +7367,9 @@ sino:
 ###### La libertad debía evaluarse considerando:
 - construcción,
 - fortalecimiento,
-- y beneficio para otros.
+- y beneficio <u>para</u> otros.
 
-###### El énfasis continúa alejándose de:
+###### El <u>énfasis</u> continúa alejándose de:
 - autoafirmación,
 - y derechos individuales absolutos.
 
@@ -7483,80 +7377,80 @@ sino:
 Nadie busque su propio bien, sino el de su prójimo
 
 #### Nadie busque su propio bien...
-##### Pablo confronta directamente el enfoque centrado en uno mismo.
+##### Pablo confronta directamente el enfoque <u>centrado</u> en uno mismo.
 
-###### La libertad no debía orientarse primariamente al beneficio personal.
+###### La libertad no <u>debía</u> orientarse primariamente al beneficio personal.
 
 #### ...sino el de su prójimo
-##### Pablo dirige la atención hacia el otro.
+##### Pablo dirige la atención <u>hacia</u> el otro.
 
-###### El bienestar del prójimo aparece como criterio importante para el uso de la libertad.
+###### El bienestar del prójimo aparece <u>como</u> criterio importante para el uso de la libertad.
 
 ### 1 Corintios 10:25
 Coman de todo lo que se vende en la carnicería sin preguntar nada por motivos de conciencia
 
 #### Coman de todo lo que se vende en la carnicería...
-##### Pablo ahora aplica el principio a situaciones prácticas.
+##### Pablo ahora <u>aplica</u> el principio a situaciones prácticas.
 
-###### Comer carne del mercado no era automáticamente problemático.
+###### Comer carne del mercado no <u>era</u> automáticamente problemático.
 
 #### ...sin preguntar nada por motivos de conciencia
 ##### Pablo evita una preocupación obsesiva o investigativa respecto al origen de la comida.
 
-###### El problema no estaba simplemente en el alimento mismo.
+###### El problema no <u>estaba</u> simplemente en el alimento mismo.
 
 ### 1 Corintios 10:26
 porque del Señor es la tierra y todo lo que en ella hay
 
 #### ...porque del Señor es la tierra y todo lo que en ella hay
-##### Pablo fundamenta su argumento en la pertenencia de toda la creación al Señor.
+##### Pablo fundamenta su argumento en la pertenencia de <u>toda</u> la creación al Señor.
 
-###### El énfasis está en la soberanía y pertenencia divina sobre toda la tierra.
+###### El énfasis <u>está</u> en la soberanía y pertenencia divina sobre toda la tierra.
 
 ### 1 Corintios 10:27
 Si algún incrédulo los invita y quieren ir, coman de todo lo que se les ponga delante sin preguntar nada por motivos de conciencia.
 
 #### Si algún incrédulo los invita...
-##### Pablo contempla interacción normal con incrédulos.
+##### Pablo contempla interacción <u>normal</u> con incrédulos.
 
-###### El creyente no aparece completamente aislado del mundo.
+###### El creyente no <u>aparece</u> completamente aislado del mundo.
 
 #### ...y quieren ir...
-##### Pablo reconoce libertad de decisión respecto a asistir.
+##### Pablo reconoce libertad de decisión respecto a <u>asistir</u>.
 
 #### ...coman de todo lo que se les ponga delante...
-##### Nuevamente Pablo permite comer sin investigaciones innecesarias.
+##### Nuevamente Pablo permite <u>comer</u> sin investigaciones innecesarias.
 
 #### ...sin preguntar nada por motivos de conciencia.
-##### El énfasis continúa siendo evitar conflictos innecesarios de conciencia en situaciones ordinarias.
+##### El énfasis continúa siendo <u>evitar</u> conflictos innecesarios de conciencia en situaciones ordinarias.
 
 ### 1 Corintios 10:28
 Pero si alguien les dice: «Esto ha sido sacrificado a los ídolos», no lo coman, por causa del que se lo dijo, y por motivos de conciencia, porque del Señor es la tierra y todo lo que en ella hay
 
 #### Pero si alguien les dice...
-##### Aquí aparece un cambio importante de situación.
+##### Aquí aparece un <u>cambio</u> importante de situación.
 
-###### Ahora la cuestión idolátrica es traída explícitamente a la atención.
+###### Ahora la cuestión idolátrica es traída explícitamente a la <u>atención</u>.
 
 #### «Esto ha sido sacrificado a los ídolos»...
-##### La comida queda públicamente asociada a idolatría.
+##### La comida <u>queda</u> públicamente asociada a idolatría.
 
 #### ...no lo coman...
 ##### Pablo ahora instruye abstenerse.
 
-###### El cambio no ocurre porque la comida haya cambiado materialmente.
+###### El cambio no ocurre porque la <u>comida</u> haya cambiado materialmente.
 
-###### El cambio ocurre por la dimensión relacional y de conciencia involucrada.
+###### El cambio <u>ocurre</u> por la dimensión relacional y de conciencia involucrada.
 
 #### ...por causa del que se lo dijo, y por motivos de conciencia...
-##### Pablo centra la atención en la otra persona.
+##### Pablo centra la atención en la <u>otra</u> persona.
 
 ###### La conciencia considerada aquí no es solamente personal.
 
-###### El comportamiento debía considerar cómo la acción afectaba a otros.
+###### El comportamiento <u>debía</u> considerar cómo la acción afectaba a otros.
 
 #### ...porque del Señor es la tierra y todo lo que en ella hay
-##### Pablo nuevamente recuerda la soberanía del Señor sobre toda la creación.
+##### Pablo nuevamente recuerda la soberanía del Señor <u>sobre</u> toda la creación.
 
 ### 1 Corintios 10:29
 Quiero decir, no la conciencia de ustedes, sino la del otro. Pues ¿por qué ha de ser juzgada mi libertad por la conciencia ajena?
@@ -7564,63 +7458,62 @@ Quiero decir, no la conciencia de ustedes, sino la del otro. Pues ¿por qué ha 
 #### Quiero decir, no la conciencia de ustedes, sino la del otro.
 ##### Pablo aclara específicamente qué conciencia tiene en vista.
 
-###### El enfoque vuelve nuevamente al prójimo.
+###### El enfoque <u>vuelve</u> nuevamente al prójimo.
 
 #### Pues ¿por qué ha de ser juzgada mi libertad por la conciencia ajena?
-##### Pablo reconoce la tensión real entre:
+##### Pablo reconoce la tensión <u>real</u> entre:
 - libertad personal,
-- y conciencia ajena.
+- y conciencia <u>ajena</u>.
 
-###### La pregunta muestra que Pablo entiende el conflicto involucrado.
+###### La pregunta muestra que <u>Pablo</u> entiende el conflicto involucrado.
 
 ### 1 Corintios 10:30
 Si participo con agradecimiento, ¿por qué he de ser censurado a causa de aquello por lo cual doy gracias?
 
 #### Si participo con agradecimiento...
-##### Pablo habla de participar dando gracias a Dios.
+##### Pablo habla de <u>participar</u> dando gracias a Dios.
 
 ###### La acción en sí misma no aparece necesariamente como pecaminosa.
 
 #### ...¿por qué he de ser censurado...?
-##### Pablo continúa exponiendo la tensión respecto a libertad y juicio ajeno.
+##### Pablo continúa exponiendo la tensión respecto a libertad y <u>juicio</u> ajeno.
 
 #### ...a causa de aquello por lo cual doy gracias?
-##### Pablo reconoce que algo realizado con gratitud igualmente podía generar conflicto o tropiezo en otros.
+##### Pablo reconoce que algo realizado con <u>gratitud</u> igualmente podía generar conflicto o tropiezo en otros.
 
 ### 1 Corintios 10:31
 Entonces, ya sea que coman, que beban, o que hagan cualquier otra cosa, háganlo todo para la gloria de Dios
 
 #### Entonces...
-##### Pablo llega ahora a una conclusión amplia y general.
+##### Pablo llega <u>ahora</u> a una conclusión amplia y general.
 
 #### ...ya sea que coman, que beban, o que hagan cualquier otra cosa...
 ##### Pablo expande el principio más allá de casos específicos.
 
-###### El asunto ya no se limita solamente a:
+###### El asunto ya no se <u>limita</u> solamente a:
 - carne,
 - ídolos,
-- o comidas.
+- o <u>comidas</u>.
 
 #### ...háganlo todo para la gloria de Dios
 ##### La gloria de Dios aparece como criterio supremo para toda conducta.
 
 ###### La pregunta principal ya no es solamente:
 - qué me está permitido,
-- ni qué derecho tengo,
-- ni qué deseo hacer.
+- ni qué derecho <u>tengo</u>,
+- ni qué <u>deseo</u> hacer.
 
 ###### La pregunta pasa a ser:
-- qué glorifica a Dios.
+- qué <u>glorifica</u> a Dios.
 
 ###### Todo el desarrollo desde los capítulos anteriores converge aquí:
 - libertad,
 - conciencia,
 - participación,
-- idolatría,
+- <u>idolatría</u>,
 - derechos,
-- consideración hacia otros,
-- y conducta práctica
-debían finalmente someterse a la gloria de Dios.
+- consideración hacia <u>otros</u>,
+- y conducta práctica debían finalmente someterse a la <u>gloria</u> de Dios.
 
 ### 1 Corintios 10:32
 No sean motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios
@@ -7628,57 +7521,56 @@ No sean motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios
 #### No sean motivo de tropiezo...
 ##### Pablo continúa aplicando el principio de considerar a otros.
 
-###### El creyente debía evitar convertirse en causa de caída u obstáculo para otros.
+###### El creyente debía <u>evitar</u> convertirse en causa de caída u obstáculo para otros.
 
 #### ...ni a judíos, ni a griegos...
-##### Pablo menciona distintos grupos humanos.
+##### Pablo menciona distintos <u>grupos</u> humanos.
 
 ###### El alcance de la consideración incluye:
 - judíos,
 - griegos,
-- y no solamente el círculo inmediato del creyente.
+- y no solamente el <u>círculo</u> inmediato del creyente.
 
 #### ...ni a la iglesia de Dios
-##### Pablo añade específicamente a la iglesia.
+##### Pablo añade específicamente a la <u>iglesia</u>.
 
 ###### La conducta del creyente afectaba:
 - relaciones,
 - conciencia,
-- y edificación
-dentro del pueblo de Dios.
+- y edificación dentro del <u>pueblo</u> de Dios.
 
 ###### La expresión:
 > *la iglesia de Dios*
 
-###### enfatiza pertenencia y relación con Dios mismo.
+###### enfatiza pertenencia y relación con Dios <u>mismo</u>.
 
 ### 1 Corintios 10:33
 así como también yo procuro agradar a todos en todo, no buscando mi propio beneficio, sino el de muchos, para que sean salvos
 
 #### ...así como también yo procuro agradar a todos en todo...
-##### Pablo vuelve a presentarse como ejemplo práctico.
+##### Pablo vuelve a presentarse como <u>ejemplo</u> práctico.
 
-###### El énfasis no está en:
+###### El <u>énfasis</u> no está en:
 - agradar pecaminosamente,
 - ni en búsqueda de aceptación superficial.
 
-###### El contexto muestra adaptación y consideración hacia otros por causa del evangelio.
+###### El contexto muestra adaptación y consideración <u>hacia</u> otros por causa del evangelio.
 
 #### ...no buscando mi propio beneficio...
 ##### Pablo vuelve nuevamente al tema central de la renuncia personal.
 
-###### Su conducta no estaba dirigida por:
+###### Su conducta no <u>estaba</u> dirigida por:
 - conveniencia personal,
 - derechos personales,
 - ni autoafirmación.
 
 #### ...sino el de muchos...
-##### Pablo orienta su conducta hacia el beneficio de otros.
+##### Pablo orienta su conducta <u>hacia</u> el beneficio de otros.
 
-###### El bien colectivo vuelve a ocupar el centro.
+###### El <u>bien</u> colectivo vuelve a ocupar el centro.
 
 #### ...para que sean salvos
-##### El propósito continúa siendo evangelístico.
+##### El propósito continúa <u>siendo</u> evangelístico.
 
 ###### La salvación de otros dirige la manera en que Pablo utiliza su libertad.
 
@@ -7686,9 +7578,9 @@ así como también yo procuro agradar a todos en todo, no buscando mi propio ben
 Sean imitadores de mí, como también yo lo soy de Cristo.
 
 #### Sean imitadores de mí...
-##### Pablo llama ahora a los creyentes a imitar su ejemplo.
+##### Pablo llama ahora a los creyentes a <u>imitar</u> su ejemplo.
 
-###### Esto conecta directamente con todo el desarrollo anterior:
+###### Esto conecta directamente con <u>todo</u> el desarrollo anterior:
 - renuncia,
 - servicio,
 - consideración,
@@ -7696,17 +7588,17 @@ Sean imitadores de mí, como también yo lo soy de Cristo.
 - y prioridad del evangelio.
 
 #### ...como también yo lo soy de Cristo.
-##### Pablo finalmente conecta su ejemplo con Cristo mismo.
+##### Pablo finalmente conecta su <u>ejemplo</u> con Cristo mismo.
 
-###### Pablo no se presenta como modelo independiente.
+###### Pablo no se presenta como <u>modelo</u> independiente.
 
-###### Su vida debía entenderse en relación con Cristo.
+###### Su vida <u>debía</u> entenderse en relación con Cristo.
 
 ###### Todo el desarrollo anterior queda así subordinado al modelo de Cristo:
-- libertad usada para servir,
+- libertad usada para <u>servir</u>,
 - renuncia voluntaria,
-- consideración hacia otros,
-- y una vida orientada a la gloria de Dios y al bien de muchos.
+- consideración <u>hacia</u> otros,
+- y una vida orientada a la gloria de Dios y al <u>bien</u> de muchos.
 
 > En Síntesis
 >- Pablo concluye esta sección aplicando la libertad cristiana al bienestar espiritual de otros.
@@ -7718,295 +7610,304 @@ Sean imitadores de mí, como también yo lo soy de Cristo.
 >- La verdadera espiritualidad no aparece centrada en derechos, conocimiento, ni seguridad propia.
 >- Aparece como una vida subordinada a Cristo, orientada al bien de otros, y usada para la gloria de Dios.
 
-## 11:2-34 La manera en que los corintios se comportaban cuando se reunían como iglesia
+## 11:2-16 La manera en que los corintios estaban expresando honra, autoridad y espiritualidad cuando se reunían
+
+##### Es bueno que miremos el contexto general de la sección.  Pablo no introduce este tema aisladamente. Toda esta <u>sección</u> continúa desarrollando problemas que ya venían apareciendo repetidamente en la carta.
+
+###### Los corintios constantemente <u>estaban</u>:
+- redefiniendo la espiritualidad según sí mismos,
+- actuando desde autosuficiencia,
+- usando libertad sin consideración adecuada,
+- exaltando conocimiento,
+- exaltando manifestaciones,
+- y comportándose de manera contradictoria dentro de la iglesia.
+
+##### Ahora el problema aparece en la manera en que hombres y mujeres estaban actuando públicamente cuando la iglesia se reunía.
+###### El tema no es presentado simplemente como:
+- <u>ropa</u>,
+- apariencia <u>externa</u>,
+- ni reglas aisladas de vestimenta.
+
+###### Pablo responde a una manera de actuar que <u>estaba</u> comunicando algo acerca de:
+- <u>honra</u>,
+- autoridad,
+- relación,
+- representación,
+- y orden dentro de la congregación.
+
+##### Toda esta sección debe leerse <u>junto</u> al problema mayor de Corinto.
+###### Los corintios parecían inclinados hacia:
+- autoexpresión,
+- independencia,
+- comportamiento centrado en sí mismos,
+- y una espiritualidad desconectada del <u>cuerpo</u> y de otros.
+
+###### Por eso Pablo continuamente enfatiza:
+- relaciones,
+- procedencia,
+- interdependencia,
+- <u>orden</u>,
+- y conducta apropiada cuando se reúnen.
+
+###### El tema central del pasaje no <u>parece</u> ser simplemente:
+- <u>tela</u>,
+- peinados,
+- ni símbolos externos aislados.
+
+###### El problema parece <u>incluir</u>:
+- lo que ciertas conductas comunicaban,
+- lo que representaban públicamente,
+- y <u>cómo</u> afectaban la realidad congregacional.
 
 ### 1 Corintios 11:2
 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué
 
 #### Los alabo...
-##### Pablo comienza esta sección reconociendo algo positivo entre los corintios.
+##### Pablo comienza reconociendo algo positivo <u>antes</u> de introducir corrección.
+
+###### Esto contrasta con otras partes de la <u>carta</u> donde comienza directamente con reprensión.
 
 #### ...porque en todo se acuerdan de mí...
-##### Los corintios mantenían memoria de las instrucciones recibidas de Pablo.
+##### Los corintios aún mantenían relación con las instrucciones apostólicas recibidas anteriormente.
 
 #### ...y guardan las tradiciones con firmeza...
-##### Pablo habla de tradiciones entregadas previamente.
+##### Pablo habla de prácticas e instrucciones transmitidas previamente.
 
-###### El énfasis cae sobre conservar y mantener lo recibido.
+###### Nuevamente aparece el <u>patrón</u> repetido en la carta:
+- <u>recibir</u>,
+- conservar,
+- transmitir.
 
 #### ...tal como yo se las entregué
-##### Pablo conecta estas prácticas con lo que él mismo transmitió.
+##### Pablo conecta la práctica congregacional con lo que él había entregado previamente.
 
-###### Nuevamente aparece el énfasis en:
+###### El <u>énfasis</u> no está en:
+- invención individual,
+- espiritualidad autónoma,
+- ni redefinición personal de la práctica <u>cristiana</u>.
+
+###### El énfasis cae sobre:
+- continuidad,
 - recepción,
-- transmisión,
-- y continuidad.
+- y fidelidad a lo <u>recibido</u>.
 
 ### 1 Corintios 11:3
 Pero quiero que sepan que la cabeza de todo hombre es Cristo, y la cabeza de la mujer es el hombre, y la cabeza de Cristo es Dios
 
 #### Pero quiero que sepan...
-##### Pablo introduce ahora una explicación importante.
+##### Pablo introduce ahora la <u>base</u> conceptual de lo que sigue.
+
+###### No comienza directamente con <u>reglas</u> externas.
+
+###### <u>Primero</u> establece relaciones.
 
 #### ...que la cabeza de todo hombre es Cristo...
-##### Cristo aparece como cabeza del hombre.
+##### Cristo aparece como referencia principal respecto al hombre.
+
+###### El hombre no <u>aparece</u> como autoridad autónoma o independiente.
 
 #### ...y la cabeza de la mujer es el hombre...
-##### Pablo continúa describiendo relaciones presentadas en términos de cabeza.
+##### Pablo continúa describiendo relaciones en <u>términos</u> de:
+> *cabeza.*
+
+###### El lenguaje desarrolla:
+- relación,
+- <u>orden</u>,
+- conexión,
+- y representación.
 
 #### ...y la cabeza de Cristo es Dios
-##### Pablo completa la secuencia mencionando a Cristo y Dios.
+##### Pablo completa la secuencia conectando:
+- <u>Cristo</u>,
+- y Dios.
 
-###### Todo el versículo desarrolla relaciones y orden dentro del marco presentado por Pablo.
+###### Toda la estructura del versículo <u>gira</u> alrededor de relaciones conectadas.
+
+###### El problema corintio probablemente no era simplemente externo.
+
+###### Pablo <u>parece</u> responder a conductas que estaban:
+- comunicando independencia,
+- borrando distinciones,
+- o actuando desconectadamente <u>dentro</u> de la reunión congregacional.
 
 ### 1 Corintios 11:4
 Todo hombre que cubre su cabeza mientras ora o profetiza, deshonra su cabeza.
 
 #### Todo hombre que cubre su cabeza...
-##### Pablo comienza a aplicar el principio anterior a conductas visibles en reuniones y actividades espirituales.
+##### Pablo comienza ahora a <u>aplicar</u> públicamente las relaciones recién establecidas.
 
 #### ...mientras ora o profetiza...
-##### El contexto incluye actividades realizadas en la reunión de creyentes.
+##### El contexto continúa <u>siendo</u> claramente congregacional y visible.
+
+###### Estas no son actividades privadas.
+
+###### <u>Son</u> actividades realizadas:
+- delante de <u>otros</u>,
+- <u>dentro</u> de la reunión,
+- y relacionadas con espiritualidad <u>visible</u>.
 
 #### ...deshonra su cabeza.
-##### Pablo conecta ciertas conductas visibles con honra o deshonra.
+##### Pablo conecta conducta visible con <u>honra</u> y deshonra.
+
+###### La conducta <u>externa</u> estaba comunicando algo respecto a:
+- relación,
+- autoridad,
+- representación,
+- y <u>orden</u>.
+
+###### El problema no parece reducirse simplemente al objeto externo en sí <u>mismo</u>.
+
+###### Pablo está preocupado por:
+- lo que se comunica,
+- lo que se representa,
+- y lo que <u>ocurre</u> dentro de la vida congregacional.
 
 ### 1 Corintios 11:5
 Pero toda mujer que tiene la cabeza descubierta mientras ora o profetiza, deshonra su cabeza, porque se hace una con la que está rapada.
 
 #### Pero toda mujer que tiene la cabeza descubierta...
-##### Pablo ahora aplica el principio a la mujer.
+##### Pablo ahora aplica el mismo principio a la <u>mujer</u>.
 
 #### ...mientras ora o profetiza...
-##### Nuevamente aparecen actividades espirituales dentro del contexto congregacional.
+##### Nuevamente aparece participación activa dentro del contexto congregacional.
+
+###### Esto muestra que el enfoque del pasaje no es excluir totalmente a la mujer de actividades espirituales <u>visibles</u>.
+
+###### El <u>enfoque</u> está en:
+- <u>cómo</u> se participa,
+- <u>cómo</u> se representa,
+- y <u>qué</u> comunica la conducta pública.
 
 #### ...deshonra su cabeza...
-##### Pablo mantiene el lenguaje de honra y deshonra.
+##### Pablo mantiene el lenguaje de:
+- <u>honra</u>,
+- y deshonra.
+
+###### El comportamiento <u>visible</u> estaba comunicando algo relacionalmente significativo.
 
 #### ...porque se hace una con la que está rapada.
-##### Pablo conecta la situación con una condición considerada deshonrosa en ese contexto.
+##### Pablo conecta la conducta con una condición considerada vergonzosa o deshonrosa dentro de ese contexto <u>social</u> y congregacional.
+
+###### El énfasis continúa siendo:
+- representación <u>pública</u>,
+- significado visible,
+- y comportamiento apropiado <u>dentro</u> de la reunión de la iglesia.
 
 ### 1 Corintios 11:6
 Porque si la mujer no se cubre la cabeza, que también se corte el cabello; pero si es deshonroso para la mujer cortarse el cabello, o raparse, que se cubra.
 
 #### Porque si la mujer no se cubre la cabeza...
-##### Pablo continúa desarrollando la lógica de su argumento.
+##### Pablo continúa desarrollando la <u>lógica</u> interna de su argumento.
 
 #### ...que también se corte el cabello...
-##### Pablo lleva el razonamiento hacia una consecuencia paralela.
+##### Pablo lleva el razonamiento <u>hacia</u> una consecuencia paralela.
+
+###### La idea parece ser:
+- si una acción elimina cierta representación visible,
+- entonces la <u>otra</u> consecuencia coherente también debería aceptarse.
 
 #### ...pero si es deshonroso para la mujer cortarse el cabello, o raparse...
-##### Pablo apela a aquello considerado deshonroso dentro del contexto cultural y relacional mencionado.
+##### Pablo apela nuevamente a aquello considerado vergonzoso o deshonroso <u>dentro</u> de su contexto.
+
+###### El lenguaje continúa girando alrededor de:
+- <u>honra</u>,
+- vergüenza,
+- representación pública,
+- y conducta <u>visible</u>.
 
 #### ...que se cubra.
-##### Pablo concluye reafirmando la práctica que está defendiendo.
+##### Pablo reafirma nuevamente la <u>práctica</u> defendida.
 
-### 1 Corintios 11:7
-Pues el hombre no debe cubrirse la cabeza, ya que él es la imagen y gloria de Dios, pero la mujer es la gloria del hombre.
+###### Todo este desarrollo continúa mostrando que Pablo no está tratando un tema aislado o superficial.
 
-#### Pues el hombre no debe cubrirse la cabeza...
-##### Pablo continúa justificando la práctica mencionada.
-
-#### ...ya que él es la imagen y gloria de Dios...
-##### Pablo conecta al hombre con:
-- imagen,
-- y gloria de Dios.
-
-#### ...pero la mujer es la gloria del hombre.
-##### Pablo continúa el paralelismo respecto a la mujer.
-
-###### El lenguaje sigue desarrollando relaciones de honra y representación.
-
-### 1 Corintios 11:8
-Porque el hombre no procede de la mujer, sino la mujer del hombre
-
-#### Porque el hombre no procede de la mujer...
-##### Pablo apela ahora al origen presentado en la creación.
-
-#### ...sino la mujer del hombre
-##### El argumento continúa desarrollándose desde la relación de procedencia mencionada.
-
-### 1 Corintios 11:9
-En verdad el hombre no fue creado a causa de la mujer, sino la mujer a causa del hombre
-
-#### En verdad el hombre no fue creado a causa de la mujer...
-##### Pablo continúa apelando al relato de creación.
-
-#### ...sino la mujer a causa del hombre
-##### El argumento sigue desarrollándose desde el orden y propósito mencionados por Pablo.
-
-### 1 Corintios 11:10
-Por tanto, la mujer debe tener un símbolo de autoridad sobre la cabeza, por causa de los ángeles.
-
-#### Por tanto...
-##### Pablo extrae una conclusión práctica de lo anterior.
-
-#### ...la mujer debe tener un símbolo de autoridad sobre la cabeza...
-##### Pablo relaciona nuevamente la conducta visible con autoridad y orden.
-
-#### ...por causa de los ángeles.
-##### Pablo introduce ahora la referencia a los ángeles.
-
-###### La expresión intensifica la seriedad del asunto tratado.
-
-### 1 Corintios 11:11
-Sin embargo, en el Señor, ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
-
-#### Sin embargo...
-##### Pablo introduce ahora un equilibrio importante.
-
-#### ...en el Señor...
-##### La relación es ubicada dentro del marco del Señor.
-
-#### ...ni la mujer es independiente del hombre, ni el hombre independiente de la mujer.
-##### Pablo enfatiza interdependencia mutua.
-
-###### El énfasis cambia desde distinción y orden hacia dependencia recíproca.
-
-### 1 Corintios 11:12
-Porque así como la mujer procede del hombre, también el hombre nace de la mujer; y todas las cosas proceden de Dios
-
-#### Porque así como la mujer procede del hombre...
-##### Pablo retoma la relación de procedencia mencionada antes.
-
-#### ...también el hombre nace de la mujer...
-##### Pablo ahora muestra reciprocidad.
-
-#### ...y todas las cosas proceden de Dios
-##### Finalmente Pablo dirige todo hacia Dios como fuente última.
-
-###### Dios aparece como origen supremo de todas las cosas.
-
-### 1 Corintios 11:13
-Juzguen ustedes mismos: ¿es propio que la mujer ore a Dios con la cabeza descubierta?
-
-#### Juzguen ustedes mismos...
-##### Pablo llama a los corintios a evaluar el asunto.
-
-#### ...¿es propio que la mujer ore a Dios con la cabeza descubierta?
-##### Pablo vuelve al tema visible de conducta durante oración.
-
-###### El énfasis continúa sobre lo considerado apropiado dentro del contexto tratado.
-
-### 1 Corintios 11:14
-¿No les enseña la misma naturaleza que si el hombre tiene el cabello largo le es deshonra
-
-#### ¿No les enseña la misma naturaleza...?
-##### Pablo apela ahora a lo que considera observable o evidente.
-
-#### ...que si el hombre tiene el cabello largo le es deshonra
-##### Nuevamente aparece el tema de honra y deshonra.
-
-### 1 Corintios 11:15
-pero que si la mujer tiene el cabello largo le es una gloria? Pues a ella el cabello le es dado por velo.
-
-#### ...pero que si la mujer tiene el cabello largo le es una gloria?
-##### Pablo establece contraste respecto a la mujer.
-
-###### El cabello largo aparece asociado a gloria.
-
-#### Pues a ella el cabello le es dado por velo.
-##### Pablo relaciona el cabello con cobertura o velo.
-
-### 1 Corintios 11:16
-Pero si alguien parece ser contencioso, nosotros no tenemos tal costumbre, ni la tienen las iglesias de Dios
-
-#### Pero si alguien parece ser contencioso...
-##### Pablo concluye la discusión anticipando oposición o discusión.
-
-#### ...nosotros no tenemos tal costumbre...
-##### Pablo apela a la práctica sostenida por ellos.
-
-#### ...ni la tienen las iglesias de Dios
-##### Pablo conecta además esta práctica con las demás iglesias.
-
-###### El énfasis vuelve a caer sobre:
-- continuidad,
-- práctica compartida,
-- y vida congregacional.
+###### Está corrigiendo una manera de actuar <u>dentro</u> de la reunión congregacional que estaba comunicando algo incorrecto respecto a:
+- relaciones,
+- <u>honra</u>,
+- autoridad,
+- y vida compartida dentro del <u>pueblo</u> de Dios.
 
 ### 1 Corintios 11:17
 Pero al darles estas instrucciones, no los alabo, porque no se congregan para lo bueno, sino para lo malo
 
 #### Pero al darles estas instrucciones, no los alabo...
-##### Pablo ahora cambia abruptamente el tono.
+##### Pablo ahora <u>cambia</u> abruptamente el tono.
 
 ###### La sección anterior comenzó con reconocimiento positivo.
 
-###### Ahora Pablo introduce reprensión.
+###### <u>Ahora</u> Pablo introduce reprensión.
 
 #### ...porque no se congregan para lo bueno, sino para lo malo
-##### Pablo evalúa negativamente sus reuniones congregacionales.
+##### Pablo <u>evalúa</u> negativamente sus reuniones congregacionales.
 
 ###### El problema no era solamente individual.
 
-###### La manera en que se reunían producía resultado negativo.
+###### La manera en que se <u>reunían</u> producía resultado negativo.
 
 ### 1 Corintios 11:18
 Pues, en primer lugar, oigo que cuando se reúnen como iglesia hay divisiones entre ustedes, y en parte lo creo.
 
 #### Pues, en primer lugar...
-##### Pablo comienza a enumerar problemas específicos.
+##### Pablo comienza a <u>enumerar</u> problemas específicos.
 
 #### ...oigo que cuando se reúnen como iglesia...
-##### El énfasis ahora cae explícitamente sobre las reuniones congregacionales.
+##### El énfasis ahora cae explícitamente <u>sobre</u> las reuniones congregacionales.
 
-###### La conducta colectiva de la iglesia ocupa el centro de la discusión.
+###### La conducta colectiva de la iglesia <u>ocupa</u> el centro de la discusión.
 
 #### ...hay divisiones entre ustedes...
-##### Pablo vuelve al problema recurrente de divisiones.
+##### Pablo vuelve al <u>problema</u> recurrente de divisiones.
 
-###### Las divisiones no habían desaparecido.
+###### Las divisiones no <u>habían</u> desaparecido.
 
-###### Ahora aparecen manifestándose precisamente cuando se reunían como iglesia.
+###### Ahora aparecen manifestándose precisamente <u>cuando</u> se reunían como iglesia.
 
 #### ...y en parte lo creo.
-##### Pablo considera creíble el informe recibido sobre ellos.
+##### Pablo considera <u>creíble</u> el informe recibido sobre ellos.
 
-###### Esto muestra que los problemas descritos concordaban con el comportamiento que Pablo ya percibía entre los corintios.
+###### Esto muestra que los problemas descritos concordaban con el comportamiento que Pablo ya percibía <u>entre</u> los corintios.
 
 ### 1 Corintios 11:19
 Porque es necesario que entre ustedes haya bandos, a fin de que se manifiesten entre ustedes los que son aprobados
 
 #### Porque es necesario que entre ustedes haya bandos...
-##### Pablo continúa hablando de divisiones dentro de la congregación.
+##### Pablo continúa hablando de divisiones <u>dentro</u> de la congregación.
 
-###### La existencia de bandos revela algo acerca de la condición de la iglesia.
+###### La existencia de bandos <u>revela</u> algo acerca de la condición de la iglesia.
 
 #### ...a fin de que se manifiesten entre ustedes los que son aprobados
-##### Pablo afirma que las divisiones terminan evidenciando quiénes son aprobados.
+##### Pablo afirma que las divisiones terminan evidenciando <u>quiénes</u> son aprobados.
 
-###### Los conflictos y divisiones terminaban exponiendo realidades visibles dentro de la congregación.
+###### Los <u>conflictos</u> y divisiones terminaban exponiendo realidades visibles dentro de la congregación.
 
 ### 1 Corintios 11:20
 Por tanto, cuando se reúnen, esto ya no es comer la Cena del Señor.
 
 #### Por tanto, cuando se reúnen...
-##### Pablo vuelve nuevamente al tema de las reuniones congregacionales.
+##### Pablo vuelve nuevamente al <u>tema</u> de las reuniones congregacionales.
 
 #### ...esto ya no es comer la Cena del Señor.
-##### Pablo declara que su práctica había dejado de corresponder verdaderamente a la Cena del Señor.
+##### Pablo declara que su práctica había <u>dejado</u> de corresponder verdaderamente a la Cena del Señor.
 
-###### Aunque externamente realizaban la comida, Pablo afirma que la realidad de lo que hacían estaba contradiciendo aquello que representaban.
+###### Aunque externamente realizaban la <u>comida</u>, Pablo afirma que la realidad de lo que hacían estaba contradiciendo aquello que representaban.
 
 ### 1 Corintios 11:21
 Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro se embriaga
 
 #### Porque al comer...
-##### Pablo explica por qué su reunión estaba siendo evaluada negativamente.
+##### Pablo explica por qué su <u>reunión</u> estaba siendo evaluada negativamente.
 
 #### ...cada uno toma primero su propia cena...
-##### El comportamiento estaba centrado individualmente.
+##### El comportamiento <u>estaba</u> centrado individualmente.
 
-###### La conducta mostraba separación y falta de consideración mutua.
+###### La conducta mostraba separación y <u>falta</u> de consideración mutua.
 
 #### ...y uno pasa hambre y otro se embriaga
-##### Pablo describe fuertes desigualdades dentro de la reunión.
+##### Pablo describe fuertes desigualdades <u>dentro</u> de la reunión.
 
-###### Mientras algunos carecían, otros actuaban con exceso.
+###### Mientras algunos carecían, <u>otros</u> actuaban con exceso.
 
 ###### La reunión reflejaba:
-- división,
+- <u>división</u>,
 - desigualdad,
 - y autoorientación.
 
@@ -8014,73 +7915,73 @@ Porque al comer, cada uno toma primero su propia cena, y uno pasa hambre y otro 
 ¿Qué? ¿No tienen casas para comer y beber? ¿O desprecian la iglesia de Dios y avergüenzan a los que nada tienen? ¿Qué les diré? ¿Los alabaré? En esto no los alabaré
 
 #### ¿Qué? ¿No tienen casas para comer y beber?
-##### Pablo responde fuertemente a su comportamiento.
+##### Pablo <u>responde</u> fuertemente a su comportamiento.
 
-###### El problema no era simplemente comer.
+###### El problema no era simplemente <u>comer</u>.
 
-###### El problema era la manera en que trataban la reunión de la iglesia.
+###### El problema era la manera en que trataban la reunión de la <u>iglesia</u>.
 
 #### ¿O desprecian la iglesia de Dios...?
-##### Pablo interpreta su conducta como desprecio hacia la iglesia.
+##### Pablo interpreta su conducta como desprecio <u>hacia</u> la iglesia.
 
 ###### La expresión:
 > *la iglesia de Dios*
 
-###### intensifica nuevamente la gravedad del asunto.
+###### intensifica nuevamente la gravedad del <u>asunto</u>.
 
 #### ...y avergüenzan a los que nada tienen?
-##### Pablo señala específicamente el daño causado a los creyentes pobres.
+##### Pablo señala específicamente el <u>daño</u> causado a los creyentes pobres.
 
-###### El comportamiento de algunos producía humillación pública para otros.
+###### El comportamiento de <u>algunos</u> producía humillación pública para otros.
 
 #### ¿Qué les diré? ¿Los alabaré?
-##### Pablo formula preguntas retóricas fuertes.
+##### Pablo formula preguntas retóricas <u>fuertes</u>.
 
 #### En esto no los alabaré
-##### Pablo concluye rechazando completamente su conducta en este asunto.
+##### Pablo <u>concluye</u> rechazando completamente su conducta en este asunto.
 
 ### 1 Corintios 11:23
 Porque yo recibí del Señor lo mismo que les he enseñado: que el Señor Jesús, la noche en que fue entregado, tomó pan
 
 #### Porque yo recibí del Señor...
-##### Pablo ahora regresa al origen de la Cena del Señor.
+##### Pablo ahora regresa al origen de la <u>Cena</u> del Señor.
 
 ###### Nuevamente aparece el lenguaje de:
 - recibir,
 - y transmitir.
 
 #### ...lo mismo que les he enseñado
-##### Pablo enfatiza continuidad fiel con lo recibido.
+##### Pablo enfatiza continuidad <u>fiel</u> con lo recibido.
 
 #### ...que el Señor Jesús, la noche en que fue entregado...
 ##### Pablo sitúa la cena en el contexto de la entrega de Jesús.
 
-###### El ambiente descrito es solemne y significativo.
+###### El ambiente descrito es <u>solemne</u> y significativo.
 
 #### ...tomó pan
-##### Pablo comienza a narrar las acciones del Señor Jesús.
+##### Pablo comienza a <u>narrar</u> las acciones del Señor Jesús.
 
 ### 1 Corintios 11:24
 y después de dar gracias, lo partió y dijo: «Esto es Mi cuerpo que es para ustedes; hagan esto en memoria de Mí».
 
 #### ...y después de dar gracias...
-##### Jesús realiza la acción dando gracias.
+##### Jesús realiza la acción <u>dando</u> gracias.
 
 #### ...lo partió...
-##### El pan es partido delante de ellos.
+##### El pan es partido <u>delante</u> de ellos.
 
 #### «Esto es Mi cuerpo que es para ustedes...»
-##### Jesús relaciona el pan con Su cuerpo.
+##### Jesús relaciona el <u>pan</u> con Su cuerpo.
 
 ###### La expresión:
 > *para ustedes*
 
-###### enfatiza entrega en favor de otros.
+###### enfatiza entrega en <u>favor</u> de otros.
 
 #### ...hagan esto en memoria de Mí.
 ##### Jesús establece una acción repetida vinculada a memoria de Él.
 
-###### El centro de la cena debía permanecer orientado hacia Cristo.
+###### El centro de la <u>cena</u> debía permanecer orientado hacia Cristo.
 
 ### 1 Corintios 11:25
 De la misma manera tomó también la copa después de haber cenado, diciendo: «Esta copa es el nuevo pacto en Mi sangre; hagan esto cuantas veces la beban en memoria de Mí»
@@ -8089,177 +7990,380 @@ De la misma manera tomó también la copa después de haber cenado, diciendo: «
 ##### Pablo continúa describiendo la cena.
 
 #### ...«Esta copa es el nuevo pacto en Mi sangre...»
-##### Jesús relaciona la copa con el nuevo pacto y Su sangre.
+##### Jesús relaciona la copa con el nuevo <u>pacto</u> y Su sangre.
 
 #### ...hagan esto cuantas veces la beban en memoria de Mí»
-##### Nuevamente aparece el énfasis en memoria de Cristo.
+##### Nuevamente aparece el <u>énfasis</u> en memoria de Cristo.
 
 ###### La reunión debía permanecer centrada en:
 - Cristo,
-- Su entrega,
+- Su <u>entrega</u>,
 - y Su obra.
 
 ### 1 Corintios 11:26
 Porque todas las veces que coman este pan y beban esta copa, proclaman la muerte del Señor hasta que Él venga
 
 #### Porque todas las veces que coman este pan y beban esta copa...
-##### Pablo describe la práctica continua de la cena.
+##### Pablo describe la práctica continua de la <u>cena</u>.
 
 #### ...proclaman la muerte del Señor...
 ##### Participar de la cena comunica y anuncia la muerte del Señor.
 
-###### La cena posee dimensión proclamativa y visible.
+###### La cena <u>posee</u> dimensión proclamativa y visible.
 
 #### ...hasta que Él venga
-##### Pablo conecta la práctica presente con la futura venida del Señor.
+##### Pablo conecta la práctica presente con la <u>futura</u> venida del Señor.
 
 ###### La cena queda ubicada entre:
-- la muerte del Señor,
+- la <u>muerte</u> del Señor,
 - y Su venida futura.
 
 ### 1 Corintios 11:27
 De manera que el que coma el pan o beba la copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor
 
 #### De manera que...
-##### Pablo ahora extrae consecuencias prácticas y serias.
+##### Pablo ahora extrae consecuencias prácticas y <u>serias</u>.
 
 #### ...el que coma el pan o beba la copa del Señor indignamente...
-##### Pablo advierte sobre participar de manera indigna.
+##### Pablo advierte <u>sobre</u> participar de manera indigna.
 
 ###### El problema no es solamente participar externamente.
 
-###### El problema incluye la manera en que se participa.
+###### El problema <u>incluye</u> la manera en que se participa.
 
 #### ...será culpable del cuerpo y de la sangre del Señor
-##### Pablo describe la gravedad de esa participación indigna.
+##### Pablo describe la gravedad de esa participación <u>indigna</u>.
 
-###### La cena no debía tratarse livianamente ni de manera contradictoria con aquello que representaba.
+###### La cena no debía tratarse livianamente ni de manera contradictoria con <u>aquello</u> que representaba.
 
 ### 1 Corintios 11:28
 Por tanto, examínese cada uno a sí mismo, y entonces coma del pan y beba de la copa.
 
 #### Por tanto...
-##### Pablo presenta ahora la respuesta adecuada.
+##### Pablo presenta <u>ahora</u> la respuesta adecuada al problema que venía describiendo.
+
+###### El contexto inmediato no había mostrado un problema de:
+- ausencia de participación,
+- temor a participar,
+- ni personas sintiéndose <u>demasiado</u> indignas para acercarse.
+
+###### El problema corintio era prácticamente el contrario.
+
+###### Los corintios <u>estaban</u> participando:
+- egoístamente,
+- divisivamente,
+- sin consideración del <u>cuerpo</u>,
+- y contradiciendo con su conducta aquello que proclamaban en la cena del Señor.
 
 #### ...examínese cada uno a sí mismo...
-##### El creyente debía evaluarse personalmente.
+##### Pablo llama entonces a una evaluación personal <u>seria</u>.
 
-###### La participación requería discernimiento y consideración seria.
+###### El examen no aparece orientado hacia:
+- descubrir si <u>alguien</u> es suficientemente perfecto,
+- alcanzar un nivel de mérito espiritual,
+- ni determinar si alguien posee dignidad <u>propia</u> para participar.
+
+###### Nada en el contexto <u>sugiere</u> que alguien pudiera volverse:
+- suficientemente justo,
+- suficientemente espiritual,
+- o suficientemente digno por sí <u>mismo</u>.
+
+#### El problema no era la falta de valor personal para participar.
+##### El problema era participar contradiciendo la realidad proclamada en la cena.
+
+###### <u>Mientras</u> proclamaban:
+- unidad,
+- participación en <u>Cristo</u>,
+- y un <u>solo</u> cuerpo,
+
+###### simultáneamente <u>estaban</u>:
+- humillando a <u>otros</u>,
+- actuando egoístamente,
+- <u>creando</u> divisiones,
+- y menospreciando a creyentes <u>dentro</u> de la reunión.
+
+#### El llamado a examinarse tiene sentido precisamente dentro del problema corintio.
+##### Una iglesia centrada en:
+- autoexaltación,
+- manifestaciones espirituales,
+- conocimiento,
+- derechos,
+- y autosuficiencia,
+
+###### necesitaba detenerse y considerar seriamente:
+- cómo <u>estaba</u> actuando,
+- qué estaba comunicando,
+- y si su conducta concordaba con la realidad que proclamaban en <u>Cristo</u>.
 
 #### ...y entonces coma del pan y beba de la copa.
-##### Pablo no concluye prohibiendo participar.
+##### Pablo no termina diciendo:
+> “y entonces absténgase.”
 
-###### El énfasis está en participar correctamente y con discernimiento.
+###### Pablo continúa esperando participación.
 
-###### Toda esta sección muestra que el problema corintio no era simplemente ritual.
+###### El movimiento del <u>texto</u> no es:
+- examínese y no participe,
+- sino:
+- examínese y participe correctamente.
 
-###### El problema estaba en la contradicción entre:
-- lo que proclamaban,
-- y la manera en que se comportaban cuando se reunían como iglesia.
+#### La autoevaluación no es presentada como una barrera para la cena.
+##### Es presentada como el <u>camino</u> hacia una participación apropiada.
+
+###### El énfasis continúa <u>siendo</u>:
+- discernimiento,
+- consideración <u>seria</u>,
+- reconocimiento del <u>cuerpo</u>,
+- y coherencia <u>entre</u> proclamación y conducta.
+
+#### Toda esta sección muestra que el problema corintio no era simplemente ritual.
+##### El problema estaba en la contradicción entre:
+- lo que proclamaban <u>acerca</u> de Cristo,
+- y la manera en que trataban al <u>cuerpo</u> de Cristo cuando se reunían.
+
+###### La cena del Señor estaba proclamando:
+- participación compartida,
+- <u>unidad</u>,
+- y comunión en Cristo.
+
+###### Pero la conducta de los corintios estaba proclamando:
+- división,
+- autosuficiencia,
+- exaltación personal,
+- y desprecio hacia <u>otros</u> creyentes.
 
 ### 1 Corintios 11:29
 Porque el que come y bebe sin discernir correctamente el cuerpo del Señor, come y bebe juicio para sí.
 
 #### Porque el que come y bebe...
-##### Pablo continúa explicando la gravedad de participar indignamente.
+##### Pablo continúa explicando por qué la situación corintia era tan <u>seria</u>.
+
+###### La cena del Señor no era presentada como:
+- un acto <u>vacío</u>,
+- una costumbre <u>social</u>,
+- ni una ceremonia <u>sin</u> implicaciones reales.
+
+###### Los corintios <u>estaban</u> proclamando algo real mientras se reunían.
 
 #### ...sin discernir correctamente el cuerpo del Señor...
-##### El problema incluye falta de discernimiento respecto al cuerpo del Señor.
+##### Pablo introduce <u>ahora</u> el problema central del discernimiento.
 
-###### La participación requería reconocimiento y consideración adecuada de aquello relacionado con el Señor.
+###### La palabra:
+> *discernir*
+
+###### implica:
+- reconocer,
+- distinguir,
+- considerar correctamente,
+- y percibir adecuadamente aquello que está <u>delante</u> de ellos.
+
+#### El contexto inmediato ayuda a entender qué problema estaba ocurriendo.
+##### Pablo ya <u>había</u> descrito:
+- divisiones,
+- humillación de creyentes,
+- <u>egoísmo</u>,
+- comidas separadas,
+- falta de <u>espera</u> mutua,
+- y desprecio <u>hacia</u> miembros de la iglesia.
+
+###### Por eso el problema no parece ser simplemente:
+- <u>falta</u> de emoción,
+- insuficiente introspección,
+- ni ausencia de <u>sensación</u> espiritual interna.
+
+#### El problema estaba relacionado con no discernir correctamente el cuerpo.
+##### A lo largo de la carta:
+- el pan <u>había</u> sido relacionado con participación compartida,
+- los creyentes habían sido <u>descritos</u> como un solo cuerpo,
+- y la reunión congregacional había sido <u>tratada</u> como una realidad colectiva.
+
+###### Mientras proclamaban:
+- <u>unidad</u>,
+- <u>comunión</u>,
+- y participación en Cristo,
+
+###### simultáneamente <u>estaban</u> actuando:
+- divisivamente,
+- egoístamente,
+- y despreciando a <u>otros</u> creyentes.
+
+#### Una iglesia centrada en sí misma podía participar externamente mientras ignoraba la realidad que la cena proclamaba.
+##### Precisamente allí aparece el problema corintio.
+
+###### Podían:
+- <u>comer</u> el pan,
+- beber la <u>copa</u>,
+- <u>hablar</u> de espiritualidad,
+- participar en <u>reuniones</u>,
+- y aun así no <u>discernir</u> correctamente la realidad del cuerpo.
+
+#### El lenguaje de Pablo confronta directamente una espiritualidad superficial o autoexaltada.
+##### Los corintios parecían <u>pensar</u> en términos de:
+- experiencias,
+- manifestaciones,
+- conocimiento,
+- <u>posición</u>,
+- y autoimportancia espiritual.
+
+###### Pero Pablo dirige nuevamente la atención <u>hacia</u>:
+- el <u>cuerpo</u>,
+- la relación con otros,
+- la conducta congregacional,
+- y la coherencia entre proclamación y <u>práctica</u>.
 
 #### ...come y bebe juicio para sí.
-##### Pablo afirma consecuencias serias para quien participa incorrectamente.
+##### Pablo afirma que esta contradicción tenía consecuencias serias.
 
-###### La cena no era presentada como:
-- acto vacío,
-- simple costumbre,
-- ni ritual sin implicaciones reales.
+###### Participar externamente mientras se despreciaba aquello que la cena proclamaba no era algo <u>liviano</u>.
+
+###### La reunión de la iglesia no era:
+- teatro espiritual,
+- exhibición <u>religiosa</u>,
+- ni <u>espacio</u> para exaltación personal.
+
+###### La conducta contradictoria traía juicio sobre <u>quienes</u> actuaban de esta manera.
 
 ### 1 Corintios 11:30
 Por esta razón hay muchos débiles y enfermos entre ustedes, y muchos duermen
 
 #### Por esta razón...
-##### Pablo conecta directamente las consecuencias con la conducta descrita anteriormente.
+##### Pablo conecta directamente las consecuencias con la conducta que <u>acaba</u> de describir.
+
+###### El problema no era <u>tratado</u> como algo menor o meramente simbólico.
 
 #### ...hay muchos débiles y enfermos entre ustedes...
-##### Pablo menciona debilidad y enfermedad dentro de la congregación.
+##### Pablo menciona debilidad y enfermedad <u>dentro</u> de la congregación.
+
+###### Él presenta estas situaciones como relacionadas con la manera en que la iglesia estaba actuando cuando se <u>reunía</u>.
 
 #### ...y muchos duermen
 ##### La expresión:
 > *duermen*
 
-###### es usada aquí respecto a muerte de algunos creyentes.
+###### es usada aquí para referirse a <u>muerte</u> de algunos creyentes.
 
-###### Pablo presenta estas realidades como relacionadas con la situación descrita en la iglesia.
+###### Pablo presenta todo esto dentro del marco de disciplina y juicio relacionado con la conducta congregacional descrita anteriormente.
+
+#### La severidad de la advertencia muestra cuán profundamente contradictoria era la situación corintia.
+##### Mientras proclamaban:
+- la muerte del Señor,
+- <u>unidad</u> en Cristo,
+- y participación compartida,
+
+###### simultáneamente <u>estaban</u>:
+- <u>despreciando</u> al cuerpo,
+- humillando a otros creyentes,
+- y actuando <u>desde</u> egoísmo y autosuficiencia.
+
+#### La espiritualidad corintia no era solamente un problema doctrinal.
+##### Era una espiritualidad que <u>podía</u>:
+- participar externamente,
+- hablar espiritualmente,
+- y reunirse <u>como</u> iglesia,
+
+###### mientras ignoraba la realidad relacional y <u>corporal</u> que proclamaba.
 
 ### 1 Corintios 11:31
 Pero si nos juzgáramos a nosotros mismos, no seríamos juzgados
 
 #### Pero si nos juzgáramos a nosotros mismos...
-##### Pablo vuelve al tema de autoevaluación.
+##### Pablo vuelve nuevamente al <u>tema</u> de autoevaluación.
 
-###### El examen personal aparece como respuesta adecuada.
+###### El <u>examen</u> personal aparece como la respuesta adecuada frente a la situación descrita.
+
+#### El llamado no es hacia aislamiento introspectivo permanente.
+##### Pablo no está promoviendo:
+- <u>temor</u> paralizante,
+- abstención constante,
+- ni obsesión espiritual consigo <u>mismo</u>.
+
+###### El llamado es hacia discernimiento verdadero respecto a:
+- la conducta,
+- el <u>cuerpo</u>,
+- la reunión congregacional,
+- y la contradicción existente entre proclamación y práctica.
+
+#### Una iglesia acostumbrada a:
+- autoexaltación,
+- divisiones,
+- competencia espiritual,
+- y comportamiento <u>egoísta</u>,
+
+###### necesitaba detenerse y juzgar seriamente la manera en que estaba actuando.
 
 #### ...no seríamos juzgados
 ##### Pablo establece relación entre:
-- juicio propio,
+- evaluación <u>propia</u>,
 - y juicio recibido.
 
-###### El discernimiento y evaluación personal eran necesarios dentro de la vida congregacional.
+###### El juicio descrito anteriormente no era presentado como arbitrario.
+
+###### La disciplina aparecía relacionada con una conducta persistente que contradice la realidad proclamada en la <u>cena</u> del Señor.
+
+#### Toda esta sección continúa mostrando que el problema corintio no era simplemente ritual.
+##### El problema era una espiritualidad centrada en sí mismos que podía:
+- participar externamente,
+- <u>hablar</u> de Cristo,
+- reunirse como <u>iglesia</u>,
+- y aun así <u>actuar</u> contradictoriamente hacia el cuerpo de Cristo.
+
+###### Pablo continuamente <u>dirige</u> la atención nuevamente hacia:
+- discernimiento,
+- coherencia,
+- consideración <u>hacia</u> otros,
+- y vida congregacional verdadera.
 
 ### 1 Corintios 11:32
 Pero cuando somos juzgados, el Señor nos disciplina para que no seamos condenados con el mundo
 
 #### Pero cuando somos juzgados...
-##### Pablo continúa hablando del juicio experimentado por creyentes.
+##### Pablo continúa hablando del <u>juicio</u> experimentado por creyentes.
 
 #### ...el Señor nos disciplina...
-##### El juicio es descrito aquí como disciplina del Señor.
+##### El <u>juicio</u> es descrito aquí como disciplina del Señor.
 
-###### Pablo presenta al Señor actuando correctivamente sobre Su pueblo.
+###### Pablo presenta al <u>Señor</u> actuando correctivamente sobre Su pueblo.
 
 #### ...para que no seamos condenados con el mundo
-##### Pablo distingue entre:
+##### Pablo distingue <u>entre</u>:
 - disciplina presente,
-- y condenación final con el mundo.
+- y condenación final con el <u>mundo</u>.
 
-###### El propósito de la disciplina aparece orientado a corrección y preservación.
+###### El propósito de la disciplina <u>aparece</u> orientado a corrección y preservación.
 
 ### 1 Corintios 11:33
 Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
 
 #### Así que, hermanos míos...
-##### Pablo llega nuevamente a una aplicación práctica concreta.
+##### Pablo llega nuevamente a una aplicación prác<u>t</u>ica concreta.
 
 #### ...cuando se reúnan para comer...
-##### El contexto sigue siendo la reunión congregacional y la cena compartida.
+##### El contexto sigue <u>siendo</u> la reunión congregacional y la cena compartida.
 
 #### ...espérense unos a otros.
 ##### Pablo confronta directamente el comportamiento egoísta descrito antes.
 
-###### La reunión debía reflejar:
-- consideración mutua,
+###### La reunión <u>debía</u> reflejar:
+- consideración <u>mutua</u>,
 - unidad,
-- y participación compartida.
+- y participación <u>compartida</u>.
 
 ### 1 Corintios 11:34
 Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Los demás asuntos los arreglaré cuando vaya
 
 #### Si alguien tiene hambre, coma en su casa...
-##### Pablo distingue entre:
+##### Pablo distingue <u>entre</u>:
 - satisfacer hambre personal,
-- y reunirse como iglesia.
+- y reunirse como <u>iglesia</u>.
 
 ###### La reunión congregacional no debía reducirse a satisfacción individual desordenada.
 
 #### ...para que no se reúnan para juicio.
-##### Pablo nuevamente advierte sobre las consecuencias de reunirse incorrectamente.
+##### Pablo nuevamente <u>advierte</u> sobre las consecuencias de reunirse incorrectamente.
 
 ###### La manera de reunirse tenía implicaciones espirituales serias.
 
 #### Los demás asuntos los arreglaré cuando vaya
-##### Pablo concluye indicando que aún existían otros asuntos pendientes.
+##### Pablo concluye indicando que aún <u>existían</u> otros asuntos pendientes.
 
 ###### Algunas correcciones serían tratadas personalmente cuando estuviera presente.
 
@@ -8279,7 +8383,7 @@ Si alguien tiene hambre, coma en su casa, para que no se reúnan para juicio. Lo
 En cuanto a los dones espirituales, no quiero, hermanos, que sean ignorantes
 
 #### En cuanto a los dones espirituales...
-##### Pablo introduce ahora el tema de los dones espirituales.
+##### Pablo introduce ahora el tema de los <u>dones</u> espirituales.
 
 ###### Esto conecta directamente con la manera en que los corintios entendían:
 - espiritualidad,
@@ -8287,18 +8391,18 @@ En cuanto a los dones espirituales, no quiero, hermanos, que sean ignorantes
 - y experiencias espirituales.
 
 #### ...no quiero, hermanos, que sean ignorantes
-##### Pablo considera necesario corregir falta de entendimiento en este asunto.
+##### Pablo considera necesario corregir <u>falta</u> de entendimiento en este asunto.
 
-###### El lenguaje indica que los corintios necesitaban claridad respecto a los dones espirituales.
+###### El lenguaje <u>indica</u> que los corintios necesitaban claridad respecto a los dones espirituales.
 
 ### 1 Corintios 12:2
 Ustedes saben que cuando eran paganos, de una manera u otra eran arrastrados hacia los ídolos mudos
 
 #### Ustedes saben que cuando eran paganos...
-##### Pablo recuerda su pasado antes de Cristo.
+##### Pablo recuerda su <u>pasado</u> antes de Cristo.
 
 #### ...de una manera u otra eran arrastrados...
-##### Pablo describe una condición de conducción o arrastre.
+##### Pablo describe una condición de conducción o <u>arrastre</u>.
 
 ###### El lenguaje refleja falta de dirección correcta y sometimiento a influencias externas.
 
@@ -11394,32 +11498,50 @@ Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos 
 ###### Pablo reconoce concretamente su servicio y ayuda.
 
 ### 1 Corintios 16:18
-Y me regocijo por la venida de Estéfanas, de Fortunato y de Acaico, pues ellos han suplido lo que faltaba de parte de ustedes
+Porque ellos han recreado mi espíritu y el de ustedes. Por tanto, reconozcan a tales personas.
 
-#### Y me regocijo...
-##### Pablo continúa expresando aprecio y reconocimiento hacia estos creyentes.
+#### Porque ellos han recreado mi espíritu...
+##### Pablo explica la razón de su aprecio hacia estos hermanos.
 
-#### ...pues ellos han suplido lo que faltaba...
-##### Su presencia y servicio habían traído ayuda concreta.
+###### La expresión:
+> *han recreado mi espíritu*
 
-###### El énfasis continúa cayendo sobre:
+###### comunica:
+- alivio,
+- consuelo,
+- fortalecimiento,
+- y renovación interior.
+
+#### ...y el de ustedes.
+##### La acción de estos creyentes no había beneficiado solamente a Pablo.
+
+###### También habían producido beneficio y fortalecimiento entre los corintios.
+
+###### El énfasis continúa mostrando:
+- cuidado mutuo,
 - servicio,
-- apoyo,
-- y colaboración dentro de la obra del Señor.
+- y edificación dentro del cuerpo de Cristo.
 
-###### Toda esta sección reúne múltiples llamados finales:
-- vigilancia,
+#### Por tanto, reconozcan a tales personas.
+##### Pablo llama a los corintios a valorar correctamente a creyentes como estos.
+
+###### El reconocimiento no está basado en:
+- prestigio,
+- exaltación personal,
+- ni autoimportancia.
+
+###### Está basado en:
+- servicio fiel,
+- trabajo en la obra,
+- cuidado hacia otros,
+- y fortalecimiento del cuerpo.
+
+###### El cierre de esta sección continúa reuniendo múltiples llamados finales relacionados con:
+- amor,
+- servicio,
 - firmeza,
 - madurez,
-- fortaleza,
-- amor,
-- servicio,
-- y reconocimiento correcto de quienes trabajan en la obra.
-
-###### Pablo concluye la carta dirigiendo nuevamente la atención hacia una vida comunitaria marcada por:
-- amor,
-- firmeza,
-- y servicio mutuo dentro del cuerpo de Cristo.
+- y reconocimiento correcto de quienes sirven al Señor entre Su pueblo.
 
 > En Síntesis
 >- Pablo concluye exhortando a los corintios a vivir alertas, firmes, maduros, fuertes, y gobernados por el amor.
