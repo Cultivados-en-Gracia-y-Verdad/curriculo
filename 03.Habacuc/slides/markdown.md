@@ -2,10 +2,9 @@
 title: "Habacuc"
 subtitle: "Haré una Obra"
 author: "CGV"
+cover: "images/portada.png"
 version: "0.9"
 date: "2026-02-26"
-cover: "images/portada.png"
-
 ---
 
 :::title
@@ -1197,6 +1196,8 @@ Además, el vino traiciona al hombre arrogante, De modo que no se queda en casa.
 >- La vida justa se define por perseverancia en la fe.
 >
 >- El enfoque se desplaza del resultado al modo de vivir.
+
+<!-- @quiz habacuc-1 -->
 
 # HABACUC 2:6–20 LOS AYES CONTRA EL ORGULLO QUE SE EXPANDE
 

@@ -1,0 +1,89 @@
+id: habacuc-1
+
+title: Habacuc 1
+
+questions:
+
+  - question: ¿En qué tiempo de la historia sucede el libro de Habacuc?
+    answers:
+      - text: Durante los 400 años de silencio
+        correct: false
+      - text: Durante el exilio de Babilonia
+        correct: false
+      - text: Antes del exilio de Israel
+        correct: false
+      - text: Antes del exilio de Judá
+        correct: true
+
+  - question: Falso/Verdadero: Sólo Habacuc veía la injusticia
+    answers:
+      - text: Falso
+        correct: true
+      - text: Verdadero
+        correct: false
+
+  - question: ¿Cómo se consideraba Habacuc?
+    answers:
+      - text: Más justo que los caldeos
+        correct: true
+      - text: Perfecto en todos sus caminos
+        correct: false
+      - text: Injusto pero con potencial de ser justo por sus obras
+        correct: false
+      - text: Contento porque su confianza estaba en Dios
+        correct: false
+
+  - question: La mentalidad de Habacuc es...
+    answers:
+      - text: Según la justicia divina
+        correct: false
+      - text: Según una justicia humana
+        correct: false
+      - text: Una mentalidad pagana
+        correct: false
+      - text: Una mentalidad religiosa
+        correct: false
+      - text: B y C
+        correct: false
+      - text: B y D
+        correct: true
+
+  - question: Falso/Verdadero: Dios condena Habacuc por traerle una queja
+    answers:
+      - text: Falso
+        correct: true
+      - text: Verdadero
+        correct: false
+
+  - question: ¿Qué vio Habacuc?
+    answers:
+      - text: Un sueño que mostraba violencia
+        correct: false
+      - text: La injusticia de Dios
+        correct: false
+      - text: Violencia
+        correct: true
+      - text: El nacimiento de la FIFA
+        correct: false
+
+  - question: ¿A quién culpó Habacuc por lo que vio?
+    answers:
+      - text: A los caldeos
+        correct: false
+      - text: A Judá
+        correct: false
+      - text: A sí mismo
+        correct: false
+      - text: A Dios
+        correct: true
+
+  - question: Según Habacuc, ¿por qué no había más justicia?
+    answers:
+      - text: Porque Dios es tan santo que no interviene
+        correct: false
+      - text: Porque la ley no funciona
+        correct: false
+      - text: Porque los injustos no lo permiten
+        correct: false
+      - text: Porque Dios no ayuda a los más justos
+        correct: true

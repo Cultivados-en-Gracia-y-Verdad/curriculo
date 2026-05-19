@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="1 Corintios"
-FILE_LOCATION="../11.1Corintios"
-FILENAME="/1corintios_0.4.md"
+MANUAL_NAME="Habacuc"
+FILE_LOCATION="../03.Habacuc"
+FILENAME="/Habacuc-0.9.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
