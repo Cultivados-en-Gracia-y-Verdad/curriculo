@@ -8407,26 +8407,26 @@ Ustedes saben que cuando eran paganos, de una manera u otra eran arrastrados hac
 ###### El lenguaje refleja falta de dirección correcta y sometimiento a influencias externas.
 
 #### ...hacia los ídolos mudos
-##### Pablo identifica el destino de esa conducción.
+##### Pablo identifica el <u>destino</u> de esa conducción.
 
 ###### Los ídolos son descritos como:
 > *mudos.*
 
 ###### Esto crea contraste con:
 - el Espíritu de Dios,
-- y la verdadera confesión acerca de Cristo.
+- y la verdadera confesión <u>acerca</u> de Cristo.
 
 ### 1 Corintios 12:3
 Por tanto, les hago saber que nadie hablando por el Espíritu de Dios, dice: «Jesús es anatema»; y nadie puede decir: «Jesús es el Señor», excepto por el Espíritu Santo
 
 #### Por tanto...
-##### Pablo ahora establece un criterio fundamental.
+##### Pablo ahora establece un <u>criterio</u> fundamental.
 
 #### ...nadie hablando por el Espíritu de Dios, dice: «Jesús es anatema»
-##### Pablo afirma incompatibilidad entre el Espíritu de Dios y maldecir a Jesús.
+##### Pablo afirma incompatibilidad <u>entre</u> el Espíritu de Dios y maldecir a Jesús.
 
 #### ...y nadie puede decir: «Jesús es el Señor», excepto por el Espíritu Santo
-##### Pablo conecta la verdadera confesión de Jesús como Señor con el Espíritu Santo.
+##### Pablo conecta la verdadera confesión de Jesús <u>como</u> Señor con el Espíritu Santo.
 
 ###### El centro del discernimiento espiritual queda relacionado con Cristo mismo.
 

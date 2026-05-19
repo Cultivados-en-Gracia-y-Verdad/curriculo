@@ -168,6 +168,12 @@ pluralizelisttitles = false
     weight     = 9
 
 [[menu.main]]
+    identifier = "downloads"
+    name       = "Descargas"
+    url        = "/descargas"
+    weight     = 9
+
+[[menu.main]]
     identifier = "contact"
     name       = "Contacto"
     url        = "/contacto"
