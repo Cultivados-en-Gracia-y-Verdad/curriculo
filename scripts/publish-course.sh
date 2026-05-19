@@ -50,9 +50,20 @@ rm -rf "$TARGET_IMAGES"
 mv "$SOURCE_IMAGES" "$TARGET_IMAGES"
 
 echo "Publishing quizzes..."
-git checkout origin/en-borrador -- "$SOURCE_QUIZZES"
+
+TEMP_QUIZZES=".publish-temp-quizzes"
+
+rm -rf "$TEMP_QUIZZES"
+mkdir -p "$TEMP_QUIZZES"
+
+git archive origin/en-borrador "$SOURCE_QUIZZES" | tar -x -C "$TEMP_QUIZZES"
+
 rm -rf "$TARGET_QUIZZES"
-mv "$SOURCE_QUIZZES" "$TARGET_QUIZZES"
+mkdir -p "$(dirname "$TARGET_QUIZZES")"
+
+mv "$TEMP_QUIZZES/$SOURCE_QUIZZES" "$TARGET_QUIZZES"
+
+rm -rf "$TEMP_QUIZZES"
 
 echo "Publishing manifest..."
 git show "origin/en-borrador:$SOURCE_MANIFEST" > "$TARGET_MANIFEST"
