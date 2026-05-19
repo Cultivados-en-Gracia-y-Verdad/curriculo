@@ -1,0 +1,115 @@
+id: 1corintios-7-8
+
+title: 1 Corintios 7–8
+
+questions:
+
+  - question: ¿Qué tema comienza a tratar Pablo en 1 Corintios 7?
+    answers:
+      - text: El matrimonio
+        correct: true
+      - text: La guerra
+        correct: false
+      - text: El gobierno romano
+        correct: false
+      - text: El sacerdocio levítico
+        correct: false
+
+  - question: ¿Qué debía dar el esposo a su esposa?
+    answers:
+      - text: El deber conyugal
+        correct: true
+      - text: Herencia política
+        correct: false
+      - text: Autoridad religiosa
+        correct: false
+      - text: Libertad romana
+        correct: false
+
+  - question: ¿Qué recomienda Pablo respecto al estado en que cada uno fue llamado?
+    answers:
+      - text: Permanecer en él
+        correct: true
+      - text: Cambiarlo inmediatamente
+        correct: false
+      - text: Abandonar toda relación
+        correct: false
+      - text: Buscar reconocimiento social
+        correct: false
+
+  - question: ¿Cómo describe Pablo el tiempo presente?
+    answers:
+      - text: Corto
+        correct: true
+      - text: Infinito
+        correct: false
+      - text: Glorioso políticamente
+        correct: false
+      - text: Lleno de prosperidad
+        correct: false
+
+  - question: ¿Qué buscaba Pablo para los creyentes respecto a las preocupaciones?
+    answers:
+      - text: Que estuvieran libres de preocupación
+        correct: true
+      - text: Que aumentaran sus riquezas
+        correct: false
+      - text: Que buscaran cargos públicos
+        correct: false
+      - text: Que dominaran otras iglesias
+        correct: false
+
+  - question: ¿Qué tema trata Pablo en 1 Corintios 8?
+    answers:
+      - text: Lo sacrificado a los ídolos
+        correct: true
+      - text: El ayuno semanal
+        correct: false
+      - text: La reconstrucción del templo
+        correct: false
+      - text: Las fiestas romanas
+        correct: false
+
+  - question: ¿Qué dice Pablo que hace el conocimiento?
+    answers:
+      - text: Envanece
+        correct: true
+      - text: Salva automáticamente
+        correct: false
+      - text: Destruye la fe
+        correct: false
+      - text: Produce riquezas
+        correct: false
+
+  - question: ¿Qué edifica según Pablo?
+    answers:
+      - text: El amor
+        correct: true
+      - text: La filosofía
+        correct: false
+      - text: El prestigio
+        correct: false
+      - text: La tradición
+        correct: false
+
+  - question: ¿Qué podía ocurrir al usar mal la libertad?
+    answers:
+      - text: Hacer tropezar al hermano débil
+        correct: true
+      - text: Obtener más autoridad
+        correct: false
+      - text: Ganar reconocimiento romano
+        correct: false
+      - text: Alcanzar mayor sabiduría
+        correct: false
+
+  - question: ¿Qué decidió Pablo si la comida hacía tropezar a su hermano?
+    answers:
+      - text: No comer carne jamás
+        correct: true
+      - text: Comer solo en privado
+        correct: false
+      - text: Ayunar cuarenta días
+        correct: false
+      - text: Irse de Corinto
+        correct: false
