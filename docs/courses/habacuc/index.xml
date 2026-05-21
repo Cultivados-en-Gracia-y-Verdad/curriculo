@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Habacuc on Discipulado CGV</title>
-    <link>https://discipuladocgv.org/courses/habacuc/</link>
+    <link>http://localhost:1313/courses/habacuc/</link>
     <description>Recent content in Habacuc on Discipulado CGV</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://discipuladocgv.org/courses/habacuc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/courses/habacuc/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
