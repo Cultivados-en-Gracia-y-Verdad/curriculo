@@ -7601,64 +7601,115 @@ Sean imitadores de mí, como también yo lo soy de Cristo.
 - y una vida orientada a la gloria de Dios y al <u>bien</u> de muchos.
 
 > En Síntesis
->- Pablo concluye esta sección aplicando la libertad cristiana al bienestar espiritual de otros.
->- El creyente no debía usar su libertad causando tropiezo, destruyendo conciencia, ni buscando solamente beneficio propio.
->- Pablo insiste en considerar a judíos, a griegos, y a la iglesia de Dios.
->- Su propia vida funciona como ejemplo de adaptación, renuncia voluntaria, servicio, y búsqueda del bien de muchos.
->- La meta final continúa siendo la salvación, la edificación, y la gloria de Dios.
+>- Pablo concluye esta sección mostrando que la libertad cristiana no debía ejercerse desde autosuficiencia ni buscando solamente beneficio propio.
+>- El creyente debía considerar: a otros, sus conciencias, y el bienestar espiritual de la congregación.
+>- Pablo presenta su propia vida como ejemplo de: adaptación, renuncia 
+>- La meta continúa siendo: la edificación, la salvación, y la gloria de Dios.
 >- Finalmente, Pablo conecta todo este modelo directamente con Cristo mismo.
->- La verdadera espiritualidad no aparece centrada en derechos, conocimiento, ni seguridad propia.
->- Aparece como una vida subordinada a Cristo, orientada al bien de otros, y usada para la gloria de Dios.
+>- La verdadera espiritualidad no aparece centrada en: derechos, conocimiento, ni seguridad propia, sino en una vida subordinada a Cristo y orientada al bien de otros.
 
 ## 11:2-16 La manera en que los corintios estaban expresando honra, autoridad y espiritualidad cuando se reunían
+
+##### **Síntesis del flujo de 1 Corintios hasta el capítulo 11**
 
 ##### Pablo no introduce este tema aisladamente.
 
 ##### Toda esta <u>sección</u> continúa desarrollando problemas que ya venían apareciendo repetidamente en la carta.
 
+###### A lo largo de 1 Corintios, Pablo viene corrigiendo una espiritualidad profundamente influenciada por:
+
+- autosuficiencia,
+- sabiduría humana,
+- exaltación personal,
+- apariencia de espiritualidad,
+- y una percepción espiritual centrada en uno mismo.
+
 ###### Los corintios constantemente:
-- actuaban desde autosuficiencia,
+
 - exaltaban conocimiento y manifestaciones,
 - usaban libertad sin consideración adecuada,
+- actuaban desde independencia,
 - y se comportaban contradictoriamente dentro de la iglesia.
+
+###### Repetidamente, Pablo responde llevando la atención hacia:
+
+- Cristo,
+- la cruz,
+- el cuerpo,
+- la participación mutua,
+- la dependencia,
+- y la consideración de otros dentro de la congregación.
+
+##### Dentro de ese flujo, el capítulo 11 no aparece como un tema superficial ni desconectado del resto de la carta.
 
 ##### Ahora el problema aparece en la manera en que hombres y mujeres estaban actuando públicamente cuando la iglesia se reunía.
 
 ###### El tema no es presentado simplemente como:
+
 - <u>ropa</u>,
 - apariencia externa,
 - ni reglas aisladas de vestimenta.
 
 ###### Pablo responde a conductas que estaban comunicando algo acerca de:
+
 - <u>honra</u>,
 - relación,
 - autoridad,
 - representación,
 - y orden dentro de la congregación.
 
-##### Toda esta sección debe leerse junto al problema mayor de Corinto.
-
-###### Los corintios continuamente actuaban:
-- desde independencia,
-- autoexpresión,
-- y una espiritualidad desconectada de otros dentro del cuerpo.
-
-###### Por eso Pablo enfatiza repetidamente:
-- relaciones,
-- procedencia,
-- interdependencia,
-- orden,
-- y conducta apropiada cuando la iglesia se reúne.
-
 ###### El enfoque del pasaje no gira solamente alrededor de:
+
 - <u>tela</u>,
 - peinados,
 - ni símbolos externos aislados.
 
 ###### El problema incluye:
+
 - lo que ciertas conductas comunicaban,
 - lo que representaban públicamente,
 - y cómo afectaban la vida congregacional.
+
+##### El pasaje muestra que:
+
+- la conducta congregacional visible importa,
+- la representación importa,
+- la honra y la deshonra importan,
+- hombres y mujeres son ambos incluidos en la discusión,
+- existen prácticas compartidas entre las iglesias,
+- y el asunto es tratado seriamente por Pablo.
+
+##### Sin embargo, Pablo no explica cada detalle que lectores modernos quisieran resolver.
+
+###### El texto deja preguntas abiertas respecto a:
+
+- detalles específicos de la práctica,
+- formas exactas de cobertura,
+- y ciertos aspectos que Pablo simplemente no desarrolla ampliamente.
+
+##### Precisamente por eso, el pasaje requiere:
+
+- cuidado,
+- seriedad,
+- sobriedad textual,
+- y humildad textual.
+
+##### Irónicamente, una confianza excesiva alrededor de pasajes difíciles puede reflejar exactamente el mismo problema que Pablo viene corrigiendo en Corinto.
+
+###### A lo largo de la carta, Pablo confronta repetidamente:
+
+- conocimiento inflado,
+- superioridad espiritual,
+- apariencia de espiritualidad,
+- y confianza desconectada del amor, la mutualidad y el cuerpo.
+
+##### Por eso, acercarse a 1 Corintios 11 con:
+
+- cuidado,
+- seriedad,
+- y fidelidad al texto,
+
+##### encaja profundamente con el tono general de toda la carta.
 
 ### 1 Corintios 11:2
 Los alabo porque en todo se acuerdan de mí y guardan las tradiciones con firmeza, tal como yo se las entregué

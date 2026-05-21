@@ -4,14 +4,15 @@ subtitle: "Un estudio cronológico de la revelación de Dios en la historia bíb
 author: "CGV"
 cover: "images/portada.png"
 version: "0.9"
-date: "2026-02-24"
+date: "2026-05-20"
 ---
 
-
-
-# El Dios de la Historia
-
-# SOBRE ESTE ESTUDIO
+:::title
+El Dios de la Historia
+:::
+:::subtitle
+Un estudio cronológico de la revelación de Dios en la historia bíblica
+:::
 
 ## Nuestro Punto de partida
 
@@ -2747,275 +2748,276 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ## Moisés y Aaron se presentan al Faraón
 
-##### -¡Dios es supremo! Nada bajo el cielo o la tierra puede disminuir Su autoridad. Su palabra es confiable y Sus planes son imparables. Hemos aprendido que Satanás desafió arrogantemente a su Hacedor, pero fue en vano. A lo largo de la historia, ha tratado tenazmente de <u>oponerse</u> a Dios. Satanás confabuló y convenció al hombre para que hiciera lo mismo, pero Dios nunca será derrotado. Estos actos de desafío y rebelión solo sirven para proporcionar a Dios un telón de fondo para mostrar su gran poder. ¡Satanás mismo se ha convertido en nada más que una herramienta en la mano de Dios que Él usa donde Él quiere para llevar a cabo Su voluntad para Su gloria! Faraón se negó a obedecer el mandato de Dios, y sucederá lo mismo con él.
+##### ¡Dios es supremo! Nada bajo el cielo o la tierra puede disminuir Su autoridad. Su palabra es confiable y Sus planes son imparables. Hemos aprendido que Satanás desafió arrogantemente a su Hacedor, pero fue en vano. A lo largo de la historia, ha tratado tenazmente de <u>oponerse</u> a Dios. Satanás confabuló y convenció al hombre para que hiciera lo mismo, pero Dios nunca será derrotado. 
+
+##### Estos actos de desafío y rebelión solo sirven para proporcionar a Dios un telón de fondo para mostrar su gran poder. ¡Satanás mismo se ha convertido en nada más que una herramienta en la mano de Dios que Él usa donde Él quiere para llevar a cabo Su voluntad para Su gloria! Faraón se negó a obedecer el mandato de Dios, y sucederá lo mismo con él.
 
 ##### -Éxodo 5:1-2 *Después Moisés y Aarón fueron y dijeron a Faraón: Así dice el SEÑOR, Dios de Israel: Deja ir a Mi pueblo para que me celebre una fiesta en el desierto. Pero Faraón dijo: ¿Quién es el SEÑOR para que yo <u>escuche</u> Su voz y deje ir a Israel? No conozco al SEÑOR, y además, no dejaré ir a Israel.*
 
-- -La respuesta del faraón a Moisés y Aarón fue absolutamente cierta. No conocía a Dios y, por lo tanto, no veía la necesidad de obedecer lo que Dios había dicho. Hemos visto este mismo principio en la vida de Abraham y Moisés. Antes de que Abraham realmente conociera a Dios, vimos <u>muchas</u> veces que dudó y caminó en incredulidad. Moisés también. Inicialmente, temía los problemas que enfrentaba más de lo que confiaba en Dios.
+##### La respuesta del faraón a Moisés y Aarón fue absolutamente cierta. No conocía a Dios y, por lo tanto, no veía la necesidad de obedecer lo que Dios había dicho. Hemos visto este mismo principio en la vida de Abraham y Moisés. Antes de que Abraham realmente conociera a Dios, vimos <u>muchas</u> veces que dudó y caminó en incredulidad. Moisés también. Inicialmente, temía los problemas que enfrentaba más de lo que confiaba en Dios.
 
-- -No es de extrañar que el faraón no viera la necesidad de <u>obedecer</u> a Dios. Sabemos por la historia secular que había muchas personas inteligentes y altamente calificadas entre los egipcios. Entre ellos había escritores, matemáticos, químicos, líderes militares y civiles, arquitectos, artistas y artesanos capaces.
+##### No es de extrañar que el faraón no viera la necesidad de <u>obedecer</u> a Dios. Sabemos por la historia secular que había muchas personas inteligentes y altamente calificadas entre los egipcios. Entre ellos había escritores, matemáticos, químicos, líderes militares y civiles, arquitectos, artistas y artesanos capaces.
 
-- -Ellos fueron instruidos en muchos campos, pero no en cuanto a la verdad espiritual, eran totalmente ciegos y necios. Cabe señalar que los egipcios se negaron a liberar a los Israelitas de la esclavitud, pero ellos mismos también eran esclavizados sin remedio. Los egipcios estaban <u>cautivos</u> y completamente subordinados a Satanás, sus mentiras y sus caminos. Dios planeó usar la rebelión de Faraón para mostrar Su gran poder.
+##### Ellos fueron instruidos en muchos campos, pero no en cuanto a la verdad espiritual, eran totalmente ciegos y necios. Cabe señalar que los egipcios se negaron a liberar a los Israelitas de la esclavitud, pero ellos mismos también eran esclavizados sin remedio. Los egipcios estaban <u>cautivos</u> y completamente subordinados a Satanás, sus mentiras y sus caminos. Dios planeó usar la rebelión de Faraón para mostrar Su gran poder.
 
-##### -Leer Éxodo 5:3-23.
+##### Leer Éxodo 5:3-23.
 
-- -Observe la lucha en el corazón de Moisés. Dios lo había convencido de que iba a liberar a Israel, le había dado a Moisés estos milagros para que los realizara, él y Aarón habían venido a los ancianos de Israel y ellos les creyeron, y todos alabaron a Dios y lo adoraron. Moisés se olvidó de lo que Dios le había <u>advertido</u> en Éxodo 3:19: *Pero Yo sé que el rey de Egipto no los dejará ir, si no es por la fuerza.*
+##### Observe la lucha en el corazón de Moisés. Dios lo había convencido de que iba a liberar a Israel, le había dado a Moisés estos milagros para que los realizara, él y Aarón habían venido a los ancianos de Israel y ellos les creyeron, y todos alabaron a Dios y lo adoraron. Moisés se olvidó de lo que Dios le había <u>advertido</u> en Éxodo 3:19: *Pero Yo sé que el rey de Egipto no los dejará ir, si no es por la fuerza.*
 
-- -En Moisés vemos la misma lucha que a menudo tiene lugar en nuestros propios corazones. Cuando las cosas van bien, vemos y amamos y nos animan mucho las grandes cosas que Dios nos ha prometido; pero cuando enfrentamos pruebas y dificultades, tendemos a <u>olvidar</u> quién es Dios y lo que ha prometido y nos enfocamos en las circunstancias y comenzamos a desanimarnos. Entonces Dios interviene fiel y misericordiosamente y nos libera a través de las dificultades. Cada vez que pasamos por este ciclo, Dios se nos revela más y más, y cuanto más lo conozcamos, más comenzaremos a confiar y depender de Él, incluso cuando las circunstancias sean extremadamente adversas.
+##### En Moisés vemos la misma lucha que a menudo tiene lugar en nuestros propios corazones. Cuando las cosas van bien, vemos y amamos y nos animan mucho las grandes cosas que Dios nos ha prometido; pero cuando enfrentamos pruebas y dificultades, tendemos a <u>olvidar</u> quién es Dios y lo que ha prometido y nos enfocamos en las circunstancias y comenzamos a desanimarnos. Entonces Dios interviene fiel y misericordiosamente y nos libera a través de las dificultades. 
 
-##### -Leer Éxodo 6:1-9.
+##### Cada vez que pasamos por este ciclo, Dios se nos revela más y más, y cuanto más lo conozcamos, más comenzaremos a confiar y depender de Él, incluso cuando las circunstancias sean extremadamente adversas.
 
-- -Esta generación de israelitas que vivían en Egipto cuando Moisés regresó allí había oído hablar del Señor y de lo que había hecho por Abraham, Isaac, Jacob y José, pero nunca habían experimentado personalmente la grandeza y el poder del Señor. Obviamente, Moisés <u>estaba</u> desanimado porque su demanda de libertad irónicamente había aumentado la carga de su pueblo, no la había aliviado. 
+##### Leer Éxodo 6:1-9
 
-- -Así que el Señor lo consoló y lo tranquilizó, haciendo dos puntos principales. Primero, Dios nuevamente le dijo a Moisés lo que le haría a Faraón. Dios realmente compartió con Moisés su propósito de <u>permitir</u> que Faraón resistiera su mandato. En segundo lugar, Dios le aseguró a Moisés que realmente liberaría a su pueblo. Estaba arreglando las circunstancias para que el faraón los dejara ir e incluso los obligara a hacerlo.
+##### Esta generación de israelitas que vivían en Egipto cuando Moisés regresó allí había oído hablar del Señor y de lo que había hecho por Abraham, Isaac, Jacob y José, pero nunca habían experimentado personalmente la grandeza y el poder del Señor. Obviamente, Moisés <u>estaba</u> desanimado porque su demanda de libertad irónicamente había aumentado la carga de su pueblo, no la había aliviado. 
 
-- -Todo esto se debe a la poderosa mano y al brazo extendido de Dios. Luego, en los versículos 2-5, Dios le recordó a Moisés su carácter revelado en su nombre *JEHOVÁ (RV60)*. Las palabras *Yo soy el SEÑOR* aparecen cuatro veces en los versículos 2-8. Esto es muy significativo, porque Dios está <u>diciendo</u> que es por quién es Él que se debe confiar en Él. Como el SEÑOR, JEHOVÁ, Él está con los suyos y siempre es fiel y fiel a ellos.
+##### Así que el Señor lo consoló y lo tranquilizó, haciendo dos puntos principales. Primero, Dios nuevamente le dijo a Moisés lo que le haría a Faraón. Dios realmente compartió con Moisés su propósito de <u>permitir</u> que Faraón resistiera su mandato. En segundo lugar, Dios le aseguró a Moisés que realmente liberaría a su pueblo. Estaba arreglando las circunstancias para que el faraón los dejara ir e incluso los obligara a hacerlo.
 
-- -¿Por qué dijo Dios que por su nombre el SEÑOR (JEHOVÁ), no se había dado a conocer a los patriarcas? ¿No conocían a Dios con el nombre de JEHOVÁ los patriarcas Abraham, Isaac y Jacob? Sí, lo habían conocido (por ejemplo, Génesis 13:4). Pero Él se les <u>apareció</u> principalmente como Dios Todopoderoso (El Shaddai), Aquel que provee o sostiene. No se había manifestado a los patriarcas principalmente con el nombre de Jehová.
+##### Todo esto se debe a la poderosa mano y al brazo extendido de Dios. Luego, en los versículos 2-5, Dios le recordó a Moisés su carácter revelado en su nombre *JEHOVÁ (RV60)*. Las palabras *Yo soy el SEÑOR* aparecen cuatro veces en los versículos 2-8. Esto es muy significativo, porque Dios está <u>diciendo</u> que es por quién es Él que se puede confiar en Él. Como el SEÑOR, JEHOVÁ, Él está con los suyos y siempre es fiel y fiel a ellos.
 
-- -Entonces, juntando esto con la forma en que Dios se reveló a Moisés en Éxodo 3:14, Dios está proporcionando una revelación más completa de sí mismo a Moisés, que Él no solo es el Dios sustentador y proveedor de Abraham, Isaac y Jacob, sino que Él es el Cumplidor de Promesas autoexistente, el Todopoderoso que está personalmente <u>relacionado</u> con Su pueblo y lo redimirá. 
+##### ¿Por qué dijo Dios que por su nombre el SEÑOR (JEHOVÁ), no se había dado a conocer a los patriarcas? ¿No conocían a Dios con el nombre de JEHOVÁ los patriarcas Abraham, Isaac y Jacob? Sí, lo habían conocido (por ejemplo, Génesis 13:4). Pero Él se les <u>apareció</u> principalmente como Dios Todopoderoso (El Shaddai), Aquel que provee o sostiene. No se había manifestado a los patriarcas principalmente con el nombre de Jehová.
 
-- -Dios luego le diría a Moisés en los versículos 6-8, que dejara a un lado su espíritu <u>quebrantado</u> y sus sentimientos de insuficiencia y regresara al pueblo.
+##### Entonces, juntando esto con la forma en que Dios se reveló a Moisés en Éxodo 3:14, Dios está proporcionando una revelación más completa de sí mismo a Moisés, que Él no solo es el Dios sustentador y proveedor de Abraham, Isaac y Jacob, sino que Él es el Cumplidor de Promesas autoexistente, el Todopoderoso que está personalmente <u>relacionado</u> con Su pueblo y lo redimirá. 
 
-- -Con un vigor renovado, Moisés regresó a su pueblo con las palabras de Dios, pero la carga de su opresión hizo que no escucharan. Y nuevamente el proceso tiene lugar, esta vez en la vida de los israelitas como grupo. Ese proceso en el que Dios coloca a las <u>personas</u> en posiciones en las que Él es su única esperanza y luego Él trabaja de manera que se les revele.
+##### Dios luego le diría a Moisés en los versículos 6-8, que dejara a un lado su espíritu <u>quebrantado</u> y sus sentimientos de insuficiencia y regresara al pueblo.
 
-- -Esta generación de israelitas había oído hablar del Dios de Abraham, Isaac y Jacob, pero ahora, a través de la dureza del faraón, iban a llegar a verlo y crecer en conocerlo por sí mismos, y por lo tanto se aferrarían a la realidad de que Él también es su Dios. A través del <u>desafío</u> del faraón, el Dios de Israel se revelaría como el Gobernante Todopoderoso sobre la tierra.
+##### Con un vigor renovado, Moisés regresó a su pueblo con las palabras de Dios, pero la carga de su opresión hizo que no escucharan. Y nuevamente el proceso tiene lugar, esta vez en la vida de los israelitas como grupo. Ese proceso en el que Dios coloca a las <u>personas</u> en posiciones en las que Él es su única esperanza y luego Él trabaja de manera que se les revele.
 
-## Éxodo 7:1-5; 10:29 El Señor envió nueve plagas sobre los egipcios
+##### Esta generación de israelitas había oído hablar del Dios de Abraham, Isaac y Jacob, pero ahora, a través de la dureza del faraón, iban a llegar a verlo y crecer en conocerlo por sí mismos, y por lo tanto se aferrarían a la realidad de que Él también es su Dios. A través del <u>desafío</u> del faraón, el Dios de Israel se revelaría como el Gobernante Todopoderoso sobre la tierra.
 
-##### -Debido a que Faraón se negó a liberar a los israelitas, el Señor comenzó a mostrar Su gran poder al enviar una serie de plagas sobre los egipcios. Debido a la cantidad de tiempo que tomaría, no nos tomaremos el tiempo para leer todos los detalles de lo que sucedió, pero si quieres <u>leer</u> la historia, se encuentra en Éxodo capítulos 7-10. Aquí hay un resumen de las plagas:
+## Éxodo 7:1-5, 10:29 El Señor envió nueve plagas sobre los egipcios
 
-- -El Señor <u>convirtió</u> el agua del río Nilo en sangre.
+##### Debido a que Faraón se negó a liberar a los israelitas, el Señor comenzó a mostrar Su gran poder al enviar una serie de plagas sobre los egipcios. Debido a la cantidad de tiempo que tomaría, no nos tomaremos el tiempo para leer todos los detalles de lo que sucedió, pero si quieres <u>leer</u> la historia, se encuentra en Éxodo capítulos 7-10. Aquí hay un resumen de las plagas:
 
-- -El Señor <u>mandó</u> plagas de ranas.
+- El Señor <u>convirtió</u> el agua del río Nilo en sangre.
+- El Señor <u>mandó</u> plagas de ranas.
+- El Señor mandó <u>piojos</u>.
+- El Señor mandó <u>moscas</u>.
 
-- -El Señor mandó <u>piojos</u>.
+- Dios <u>hizo</u> que los caballos, el ganado, las ovejas, los camellos y los burros de los egipcios se enfermaran.
+- Dios hizo que los egipcios <u>tuvieran</u> terribles úlceras.
+- El Señor mandó tormenta de <u>granizo</u>.
+- El Señor mandó <u>plaga</u> de langostas.
+- El Señor hizo <u>tres</u> días de oscuridad total.
 
-- -El Señor mandó <u>moscas</u>.
+###### Estas plagas fueron seleccionadas por Dios como señales milagrosas porque tenía la intención de probar así al rey y a sus siervos, que Él, Jehová, era el Señor en la tierra, y gobernaba sobre los <u>poderes</u> de la naturaleza con libertad y omnipotencia irrestrictas.
 
-- -Dios <u>hizo</u> que los caballos, el ganado, las ovejas, los camellos y los burros de los egipcios se enfermaran.
+###### Por esta razón, Dios no solo hizo que irrumpieran repentinamente en la tierra de acuerdo con su palabra y luego desaparecieran repentinamente de acuerdo con su voluntad omnipotente, sino que hizo que fueran producidos por Moisés y Aarón y desaparecieran nuevamente por su <u>palabra</u> y oración. 
 
-- -Dios hizo que los egipcios <u>tuvieran</u> terribles úlceras.
+##### Faraón podría aprender que estos hombres fueron nombrados por Él como Sus mensajeros y fueron dotados por Él con poder divino para el cumplimiento de Su voluntad.
 
-- -El Señor mandó tormenta de <u>granizo</u>.
+##### También es muy interesante notar que Dios escogió intencionalmente las plagas que envió, <u>muchas</u> de las cuales fueron un ataque a los falsos dioses egipcios.
 
-- -El Señor mandó <u>plaga</u> de langostas.
+##### Primero fue la conversión del agua del Nilo en sangre. Mira dónde y cuándo Dios le dijo a Moisés que fuera y realizara esto, en Éxodo 7:15: *por la mañana cuando vaya al agua, y ponte a orillas del Nilo.* El faraón salía por la mañana al Nilo, no sólo para dar un pequeño paseo matutino o bañarse en el río, sino para presentar su culto diario al Nilo, que era honrado por los egipcios como su deidad suprema. 
 
-- -El Señor hizo <u>tres</u> días de oscuridad total.
+##### En este mismo momento se le <u>reveló</u> la voluntad de Dios con respecto a Israel. 
 
-##### -Estas plagas fueron seleccionadas por Dios como señales milagrosas porque tenía la intención de probar así al rey y a sus siervos, que Él, Jehová, era el Señor en la tierra, y gobernaba sobre los <u>poderes</u> de la naturaleza con libertad y omnipotencia irrestrictas.
+##### Él rechazó el mensaje e inmediatamente el agua del río Nilo se convirtió en sangre, revelándole que el Dios de los hebreos era el Dios verdadero y que poseía el poder de convertir en sangre este objeto que era el más alto de su adoración.
 
-##### -Por esta razón, Dios no solo hizo que irrumpieran repentinamente en la tierra de acuerdo con su palabra y luego desaparecieran repentinamente de acuerdo con su voluntad omnipotente, sino que hizo que fueran producidos por Moisés y Aarón y desaparecieran nuevamente por su <u>palabra</u> y oración. Faraón podría aprender que estos hombres fueron nombrados por Él como Sus mensajeros y fueron dotados por Él con poder divino para el cumplimiento de Su voluntad.
+##### Luego fue la plaga de las ranas. El significado de esta plaga está en el hecho de que estos también se originaron y subieron desde el río Nilo, que nuevamente era la deidad más alta de los egipcios. Este dios al que adoraban y <u>oraban</u> para bendecirlo se había convertido ahora en la fuente de dos plagas. Éxodo 8:9-10.
 
-##### -También es muy interesante notar que Dios escogió intencionalmente las plagas que envió, <u>muchas</u> de las cuales fueron un ataque a los falsos dioses egipcios.
+##### La tercera plaga fueron los piojos. Por orden de Aarón, todo el polvo de Egipto se convirtió en piojos. Tal como el agua fertilizante de Egipto había llegado a ser una plaga dos veces, así por el poder de Jehová, la <u>tierra</u> tan ricamente bendecida llegó a ser una plaga para el rey y su pueblo. En Éxodo 8:18, dice que los magos también trataron de producir a los piojos, pero no pudieron, y luego declararon que *era el dedo de Dios*. 
 
-- -Primero fue la conversión del agua del Nilo en sangre. Mira dónde y cuándo Dios le dijo a Moisés que fuera y realizara esto, en Éxodo 7:15: *por la mañana cuando vaya al agua, y ponte a orillas del Nilo.* El faraón salía por la mañana al Nilo, no sólo para dar un pequeño paseo matutino o bañarse en el río, sino para presentar su culto diario al Nilo, que era honrado por los egipcios como su deidad suprema. En este mismo momento se le <u>reveló</u> la voluntad de Dios con respecto a Israel. Él rechazó el mensaje e inmediatamente el agua del río Nilo se convirtió en sangre, revelándole que el Dios de los hebreos era el Dios verdadero y que poseía el poder de convertir en sangre este objeto que era el más alto de su adoración.
+##### Hasta este punto, el faraón y los magos miraban que los milagros eran provocados por los poderosos encantamientos de Moisés y Aarón. Pero cuando no pudieron duplicar los piojos, dijeron que este era el *dedo de Dios*. No en el sentido de dar gloria a Dios, sino en el sentido de que, mira, nosotros no pudimos hacerlo, pero tampoco Moisés y Aarón pudieron hacerlo, esto es de Dios.
 
-- -Luego fue la plaga de las ranas. El significado de esta plaga está en el hecho de que estos también se originaron y subieron desde el río Nilo, que nuevamente era la deidad más alta de los egipcios. Este dios al que adoraban y <u>oraban</u> para bendecirlo se había convertido ahora en la fuente de dos plagas. Éxodo 8:9-10.
+##### Luego notarás que, con la cuarta y quinta plaga, Dios deja a un lado la participación de Moisés y Aarón y simplemente les hace declarar que se llevaran a cabo. La cuarta plaga fueron las moscas. Un comentario dice lo siguiente: *Probablemente eran 'moscas de perro'. Literalmente una mezcla de todo tipo de moscas. Estas moscas eran mucho más numerosas y molestas que los mosquitos, y <u>cuando</u> se enfurecían, se adherían al cuerpo humano, especialmente a los bordes de los párpados, y se convierten en una terrible plaga.*
 
-- -La tercera plaga fueron los piojos. Por orden de Aarón, todo el polvo de Egipto se convirtió en piojos. Tal como el agua fertilizante de Egipto había llegado a ser una plaga dos veces, así por el poder de Jehová, la <u>tierra</u> tan ricamente bendecida llegó a ser una plaga para el rey y su pueblo. En Éxodo 8:18, dice que los magos también trataron de producir a los piojos, pero no pudieron, y luego declararon que *era el dedo de Dios*. Hasta este punto, el faraón y los magos miraban que los milagros eran provocados por los poderosos encantamientos de Moisés y Aarón. Pero cuando no pudieron duplicar los piojos, dijeron que este era el *dedo de Dios*. No en el sentido de dar gloria a Dios, sino en el sentido de que, mira, nosotros no pudimos hacerlo, pero tampoco Moisés y Aarón pudieron hacerlo, esto es de Dios.
+##### La declaración de Dios en el versículo 23 también es extremadamente significativa. Poniendo una diferencia entre Israel y Egipto significaba literalmente una liberación o una redención. Esto fue en beneficio tanto para Israel como para Egipto. 
 
-- -Luego notarás que, con la cuarta y quinta plaga, Dios deja a un lado la participación de Moisés y Aarón y simplemente les hace declarar que se llevaran a cabo. La cuarta plaga fueron las moscas. Un comentario dice lo siguiente: *Probablemente eran 'moscas de perro'. Literalmente una mezcla de todo tipo de moscas. Estas moscas eran mucho más numerosas y molestas que los mosquitos, y <u>cuando</u> se enfurecían, se adherían al cuerpo humano, especialmente a los bordes de los párpados, y se convierten en una terrible plaga.*
+##### Para Egipto, se estaba demostrando que el Dios de Israel era el Dios absoluto, que gobernaba tanto en Egipto como sobre él con una omnipotencia <u>libre</u> e ilimitada. Para Israel, Él estaba demostrando su amor por ellos, así como dándoles una imagen física de la redención y liberación que estaba por venir. 
 
-- -La declaración de Dios en el versículo 23 también es extremadamente significativa. Poniendo una diferencia entre Israel y Egipto significaba literalmente una liberación o una redención. Esto fue en beneficio tanto para Israel como para Egipto. Para Egipto, se estaba demostrando que el Dios de Israel era el Dios absoluto, que gobernaba tanto en Egipto como sobre él con una omnipotencia <u>libre</u> e ilimitada. Para Israel, Él estaba demostrando su amor por ellos, así como dándoles una imagen física de la redención y liberación que estaba por venir. 
+##### La quinta plaga fue la muerte de gran parte del ganado de Egipto. Esta fue dada como una clara escalada de las plagas que empeoraban porque Faraón continuó desafiando la voluntad de Dios (Éxodo 9:1-3). En el versículo 7, Faraón <u>incluso</u> envió específicamente a alguien para ver si alguno de los ganados de los israelitas había muerto y ninguno lo había hecho, pero aun así permaneció endurecido.
 
-- -La quinta plaga fue la muerte de gran parte del ganado de Egipto. Esta fue dada como una clara escalada de las plagas que empeoraban porque Faraón continuó desafiando la voluntad de Dios (Éxodo 9:1-3). En el versículo 7, Faraón <u>incluso</u> envió específicamente a alguien para ver si alguno de los ganados de los israelitas había muerto y ninguno lo había hecho, pero aun así permaneció endurecido.
+##### La sexta plaga fue de las úlceras. Posiblemente la ceniza que Moisés y Aarón habían arrojado al aire fue ceniza del horno de fundición o el horno de cal que se usaba para hacer los ladrillos de todos sus edificios. Sin duda esto tenía que ver con el <u>hecho</u> de que era la fabricación de estos ladrillos con lo que los israelitas eran torturados, y ahora Dios los estaba usando para convertirse en una maldición sobre los egipcios. 
 
-- -La sexta plaga fue de las úlceras. Posiblemente la ceniza que Moisés y Aarón habían arrojado al aire fue ceniza del horno de fundición o el horno de cal que se usaba para hacer los ladrillos de todos sus edificios. Sin duda esto tenía que ver con el <u>hecho</u> de que era la fabricación de estos ladrillos con lo que los israelitas eran torturados, y ahora Dios los estaba usando para convertirse en una maldición sobre los egipcios. 
-
-- -Los magos estaban tan lejos de poder proteger al rey de esta <u>plaga</u> con sus artes secretas, que ellos mismos fueron atacados por las úlceras, no pudieron presentarse ante Moisés y se vieron obligados a renunciar a toda resistencia adicional.
+##### Los magos estaban tan lejos de poder proteger al rey de esta <u>plaga</u> con sus artes secretas, que ellos mismos fueron atacados por las úlceras, no pudieron presentarse ante Moisés y se vieron obligados a renunciar a toda resistencia adicional.
 
 ## Éxodo 9:13-20 La séptima plaga fue el granizo
 
-##### -Dios les dio a los egipcios la oportunidad de responder a lo que Dios estaba revelando sobre sí mismo y adorarlo como el único Dios verdadero. Observe que aquellos que creyeron en las palabras de Dios dadas a través de Moisés y que temieron a Dios, pudieron <u>escapar</u> de este juicio poniendo todo su ganado bajo refugio, una señal de la gracia y misericordia de Dios.
+##### Dios les dio a los egipcios la oportunidad de responder a lo que Dios estaba revelando sobre sí mismo y adorarlo como el único Dios verdadero. Observe que aquellos que creyeron en las palabras de Dios dadas a través de Moisés y que temieron a Dios, pudieron <u>escapar</u> de este juicio poniendo todo su ganado bajo refugio, una señal de la gracia y misericordia de Dios.
 
 ## Éxodo 10:1-2 La octava plaga fue la langosta
 
-##### -Dios nuevamente anima a Moisés diciéndole claramente que Él endureció el corazón de Faraón a propósito. Uno de los propósitos de este endurecimiento fue para que esta demostración del poder soberano de Dios causara una impresión <u>eterna</u> en el pueblo de Israel, hasta el punto de que continuarían transmitiendo estas narraciones de generación en generación.
+##### Dios nuevamente anima a Moisés diciéndole claramente que Él endureció el corazón de Faraón a propósito. Uno de los propósitos de este endurecimiento fue para que esta demostración del poder soberano de Dios causara una impresión <u>eterna</u> en el pueblo de Israel, hasta el punto de que continuarían transmitiendo estas narraciones de generación en generación.
 
-##### -Lea los Salmos 78 y 105. Estos eventos <u>fueron</u> registrados y transmitidos de generación en generación.
+##### Lea los Salmos 78 y 105. Estos eventos <u>fueron</u> registrados y transmitidos de generación en generación.
 
 ## Éxodo 10:21-29 La novena plaga fue tinieblas sobre la tierra. 
 
-##### -Después de esta plaga, el faraón finalmente llamó a Moisés y Aarón para que puedan irse, pero sin su ganado. Moisés se niega, argumentando que debían irse con todo. El faraón se enoja tanto que amenaza con <u>matar</u> a Moisés si alguna vez lo vuelve a ver. 
+##### Después de esta plaga, el faraón finalmente llamó a Moisés y Aarón para que puedan irse, pero sin su ganado. Moisés se niega, argumentando que debían irse con todo. El faraón se enoja tanto que amenaza con <u>matar</u> a Moisés si alguna vez lo vuelve a ver. 
 
-##### -Observe la respuesta de Moisés en el versículo 29. Por un lado, Dios le había dicho a Moisés que el último golpe sería seguido por la liberación inmediata del pueblo, y que no habría más necesidad de comparecer ante Faraón. Note el cambio en la fe de Moisés en Dios. La última vez que alguien trató de matarlo, estaba corriendo por su vida en lo <u>profundo</u> del desierto. Ahora vemos una audacia que fue provocada por la fe en Dios.
+##### Observe la respuesta de Moisés en el versículo 29. Por un lado, Dios le había dicho a Moisés que el último golpe sería seguido por la liberación inmediata del pueblo, y que no habría más necesidad de comparecer ante Faraón. Note el cambio en la fe de Moisés en Dios. La última vez que alguien trató de matarlo, estaba corriendo por su vida en lo <u>profundo</u> del desierto. Ahora vemos una audacia que fue provocada por la fe en Dios.
 
-##### -Dios se había revelado tan claramente a Moisés, que su confianza en Dios ahora era mucho mayor que su <u>temor</u> a cualquier hombre o circunstancia. Esta es la progresión que Dios está tratando de hacer en todas nuestras vidas, y se lleva a cabo progresivamente a medida que Él trabaja para revelarse a nosotros cada vez más.
+##### Dios se había revelado tan claramente a Moisés, que su confianza en Dios ahora era mucho mayor que su <u>temor</u> a cualquier hombre o circunstancia. Esta es la progresión que Dios está tratando de hacer en todas nuestras vidas, y se lleva a cabo progresivamente a medida que Él trabaja para revelarse a nosotros cada vez más.
 
 ## Éxodo 11:1-7 Dios le dijo a Moisés cómo debían prepararse los israelitas para la plaga final
 
-##### -Dios estaba edificando un testimonio. Se estaba revelando a los israelitas de una manera poderosa. Primero, endureció el corazón de Faraón para que no dejara ir a los israelitas con el fin de que Dios revelara su poder a los egipcios y a los israelitas. Ahora, en el versículo 3 dice que Dios había dado a los israelitas favor a los ojos de los egipcios para que les <u>dieran</u> todo lo que pedían para deshacerse de ellos.
+##### Dios estaba edificando un testimonio. Se estaba revelando a los israelitas de una manera poderosa. Primero, endureció el corazón de Faraón para que no dejara ir a los israelitas con el fin de que Dios revelara su poder a los egipcios y a los israelitas. Ahora, en el versículo 3 dice que Dios había dado a los israelitas favor a los ojos de los egipcios para que les <u>dieran</u> todo lo que pedían para deshacerse de ellos.
 
-##### -Dios es verdaderamente el Señor Dios Todopoderoso, el Gran YO SOY. Él predeterminó Su plan eterno de redención antes de que comenzara el tiempo, y lo ha estado cumpliendo y llevando a cabo desde entonces. Él tiene el poder, la autoridad y el derecho de usar a las <u>personas</u> en Su plan como Él quiera, cuando Él quiera, y para Su gloria. Él es soberano.
+##### Dios es verdaderamente el Señor Dios Todopoderoso, el Gran YO SOY. Él predeterminó Su plan eterno de redención antes de que comenzara el tiempo, y lo ha estado cumpliendo y llevando a cabo desde entonces. Él tiene el poder, la autoridad y el derecho de usar a las <u>personas</u> en Su plan como Él quiera, cuando Él quiera, y para Su gloria. Él es soberano.
 
-##### -Leer Éxodo 12:1-28.
+##### Leer Éxodo 12:1-28
 
-- -El Antiguo Testamento está lleno de imágenes físicas o presagios de Cristo y su <u>obra</u> terminada. Será difícil encontrar uno más claro y referenciado que la Pascua. Todo este evento apunta a Cristo.
+##### El Antiguo Testamento está lleno de imágenes físicas o presagios de Cristo y su <u>obra</u> terminada. Será difícil encontrar uno más claro y referenciado que la Pascua. Todo este evento apunta a Cristo.
 
-- -Los israelitas eran esclavos en Egipto. Toda la humanidad nace <u>esclava</u> del pecado. Los israelitas no pudieron librarse de la esclavitud. Toda la humanidad no tiene esperanza de liberarse de su pecaminosidad.
+##### Los israelitas eran esclavos en Egipto. Toda la humanidad nace <u>esclava</u> del pecado. Los israelitas no pudieron librarse de la esclavitud. Toda la humanidad no tiene esperanza de liberarse de su pecaminosidad.
 
-- -Si Dios no hubiera iniciado e intervenido divinamente por los israelitas, se habrían extinguido. Si Dios no hubiera intervenido divinamente en todas <u>nuestras</u> vidas, todos estaríamos destinados a una eternidad en el infierno.
+##### Si Dios no hubiera iniciado e intervenido divinamente por los israelitas, se habrían extinguido. Si Dios no hubiera intervenido divinamente en todas <u>nuestras</u> vidas, todos estaríamos destinados a una eternidad en el infierno.
 
-- -Dios proveyó una liberación para los israelitas de la esclavitud. Dios proveyó un Libertador y un <u>camino</u> de liberación para nosotros de nuestra pecaminosidad.
+##### Dios proveyó una liberación para los israelitas de la esclavitud. Dios proveyó un Libertador y un <u>camino</u> de liberación para nosotros de nuestra pecaminosidad.
 
-- -Se sacrificó un cordero por hogar. Un Cordero (el Cordero de Dios) fue sacrificado por <u>todo</u> el mundo.
+##### Se sacrificó un cordero por hogar. Un Cordero (el Cordero de Dios) fue sacrificado por <u>todo</u> el mundo.
 
-- -Ninguno de los huesos de sus corderos debía ser quebrantado. Cuando Jesús <u>murió</u> por nuestros pecados, la tradición era romper los huesos de las piernas para acelerar el proceso de muerte, pero los huesos de Jesús no fueron rotos.
+##### Ninguno de los huesos de sus corderos debía ser quebrantado. Cuando Jesús <u>murió</u> por nuestros pecados, la tradición era romper los huesos de las piernas para acelerar el proceso de muerte, pero los huesos de Jesús no fueron rotos.
 
-- -Los corderos de los israelitas tenían que ser sacrificados de tal manera que su sangre se derramara y se pintara sobre sus puertas. Cuando Jesús fue crucificado, fue golpeado y sangrado, una corona de <u>espinas</u> fue golpeada en Su cabeza y Él sangró, clavos fueron clavados en Sus manos y pies y Él sangró, y una lanza atravesó Su costado y Él sangró.
+##### Los corderos de los israelitas tenían que ser sacrificados de tal manera que su sangre se derramara y se pintara sobre sus puertas. Cuando Jesús fue crucificado, fue golpeado y sangrado, una corona de <u>espinas</u> fue golpeada en Su cabeza y Él sangró, clavos fueron clavados en Sus manos y pies y Él sangró, y una lanza atravesó Su costado y Él sangró.
 
-- -Los israelitas en cada hogar debían tener fe en la sangre del cordero para que su primogénito fuera perdonado. Nosotros también debemos poner nuestra fe en la sangre de Cristo como aquello que nos <u>limpia</u> del pecado y nos permite recibir la vida eterna.
+##### Los israelitas en cada hogar debían tener fe en la sangre del cordero para que su primogénito fuera perdonado. Nosotros también debemos poner nuestra fe en la sangre de Cristo como aquello que nos <u>limpia</u> del pecado y nos permite recibir la vida eterna.
 
-- -Cuando el ángel de la <u>muerte</u> vio la sangre en la puerta, todos los primogénitos de esa casa fueron perdonados o salvados. Así también, es la sangre de Cristo la que nos ha limpiado de todo nuestro pecado, permitiéndonos así recibir la salvación eterna y la plena aceptación de Dios.
+##### Cuando el ángel de la <u>muerte</u> vio la sangre en la puerta, todos los primogénitos de esa casa fueron perdonados o salvados. Así también, es la sangre de Cristo la que nos ha limpiado de todo nuestro pecado, permitiéndonos así recibir la salvación eterna y la plena aceptación de Dios.
 
 ## Éxodo 12:29-51 Todos los primogénitos de los egipcios murieron
 
-##### -Dios hizo exactamente lo que prometió que haría. Esa noche, <u>todos</u> los primogénitos de Egipto murieron entre sus hijos y su ganado, y todos se salvaron entre los israelitas.
+##### Dios hizo exactamente lo que prometió que haría. Esa noche, <u>todos</u> los primogénitos de Egipto murieron entre sus hijos y su ganado, y todos se salvaron entre los israelitas.
 
-##### -Los israelitas creyeron en Dios, eligieron sacrificios aceptables, los sacrificaron y colocaron la <u>sangre</u> alrededor de sus puertas como Dios les había ordenado. El ángel pasó por alto sus hogares tal como lo prometió.
+##### Los israelitas creyeron en Dios, eligieron sacrificios aceptables, los sacrificaron y colocaron la <u>sangre</u> alrededor de sus puertas como Dios les había ordenado. El ángel pasó por alto sus hogares tal como lo prometió.
 
-##### -Este fue el golpe final, el faraón ya no desafió a Dios. Él y el resto de su pueblo fueron llevados al punto de <u>rogar</u> a los israelitas que se fueran, incluso los cargaron con oro y plata y lo que pidieron, solo para que se fueran. Dios no se limita a amenazar y luego no cumplir.
+##### Este fue el golpe final, el faraón ya no desafió a Dios. Él y el resto de su pueblo fueron llevados al punto de <u>rogar</u> a los israelitas que se fueran, incluso los cargaron con oro y plata y lo que pidieron, solo para que se fueran. Dios no se limita a amenazar y luego no cumplir.
 
-##### -Cuando Dios decide castigar a los pecadores, no hay forma de escapar. Dios es <u>paciente</u> y misericordioso. Pero siempre llega un momento en que viene el juicio. Vimos esto con Adán y Eva, Caín, el diluvio, Babel, Sodoma y Gomorra, y ahora los egipcios.
+##### Cuando Dios decide castigar a los pecadores, no hay forma de escapar. Dios es <u>paciente</u> y misericordioso. Pero siempre llega un momento en que viene el juicio. Vimos esto con Adán y Eva, Caín, el diluvio, Babel, Sodoma y Gomorra, y ahora los egipcios.
 
-##### -Junto con la fidelidad de Dios para juzgar y castigar el pecado, también vemos su fidelidad para <u>ofrecer</u> en su gracia un camino de liberación y luego liberar fielmente a aquellos que creen en él y aceptan su camino de salvación a través de la fe. Vimos esto con Adán y Eva (aunque habían pecado, todavía se les dio la promesa de un Libertador), Abel, Noé y su familia, Abraham, Lot y su familia, Isaac (y el carnero que murió en su lugar) y ahora la Pascua.
+##### Junto con la fidelidad de Dios para juzgar y castigar el pecado, también vemos su fidelidad para <u>ofrecer</u> en su gracia un camino de liberación y luego liberar fielmente a aquellos que creen en él y aceptan su camino de salvación a través de la fe. Vimos esto con Adán y Eva (aunque habían pecado, todavía se les dio la promesa de un Libertador), Abel, Noé y su familia, Abraham, Lot y su familia, Isaac (y el carnero que murió en su lugar) y ahora la Pascua.
 
 ## Preguntas de revisión
 
-##### -¿Por qué Faraón pensó que no necesitaba obedecer a Dios?
+##### ¿Por qué Faraón pensó que no necesitaba obedecer a Dios?
 
 ##### -¿Alguna vez hemos visto a alguien rebelarse contra Dios y tener éxito?
 
 ##### -Describe el ciclo que Dios usa para revelarse en nuestras vidas.
 
-##### -Cuando Moisés luchó con las circunstancias, ¿cómo lo animó Dios?
+##### Cuando Moisés luchó con las circunstancias, ¿cómo lo animó Dios?
 
-##### -¿Por qué Dios eligió intencionalmente algunas de las plagas que utilizó?
+##### ¿Por qué Dios eligió intencionalmente algunas de las plagas que utilizó?
 
-##### -¿Como fue la confianza de Moisés en Dios en la zarza ardiente con lo que fue después de las nueve plagas?
+##### ¿Como fue la confianza de Moisés en Dios en la zarza ardiente con lo que fue después de las nueve plagas?
 
-##### -Nombra algunas de las formas en que la Pascua señala a Cristo.
+##### Nombra algunas de las formas en que la Pascua señala a Cristo.
 
 # DIOS LIBERÓ A LOS ISRAELITAS EN EL MAR ROJO; DIOS PROVEYÓ COMIDA Y AGUA EN EL DESIERTO
 
 ## Introducción. 
 
-##### -Dios es misericordioso. Había liberado milagrosamente a los israelitas de la <u>esclavitud</u> en Egipto, a pesar de que no lo merecían y no podían haberse liberado por su propia cuenta.
+##### Dios es misericordioso. Había liberado milagrosamente a los israelitas de la <u>esclavitud</u> en Egipto, a pesar de que no lo merecían y no podían haberse liberado por su propia cuenta.
 
-##### -Solo podemos imaginar el gran alivio que debieron haber sentido estas personas al alejarse de lo que había sido una existencia tan miserable. Sin embargo, no pasó mucho tiempo antes de que enfrentaran otras dificultades aterradoras. En este estudio, continuaremos destacando la asombrosa gracia y misericordia de Dios mientras los rescata compasivamente una y otra vez, a pesar de que a menudo le respondían con incredulidad. Dios tenía razones específicas para <u>liberar</u> a los israelitas de la esclavitud en Egipto, estas son algunas:
+##### Solo podemos imaginar el gran alivio que debieron haber sentido estas personas al alejarse de lo que había sido una existencia tan miserable. Sin embargo, no pasó mucho tiempo antes de que enfrentaran otras dificultades aterradoras. En este estudio, continuaremos destacando la asombrosa gracia y misericordia de Dios mientras los rescata compasivamente una y otra vez, a pesar de que a menudo le respondían con incredulidad. Dios tenía razones específicas para <u>liberar</u> a los israelitas de la esclavitud en Egipto, estas son algunas:
 
-- -Su poder
+- Su poder
+- Su soberanía
+- Su fidelidad
+- Su amor
+- Su gracia
+- Su misericordia
+- Que solo Él puede liberar
 
-- -Su soberanía
+##### Dios también estaba proporcionando una imagen física y clara de la obra del futuro Libertador <u>venidero</u>.
 
-- -Su fidelidad
+##### Al liberar a los israelitas de Egipto, Dios estaba cumpliendo su promesa a Abraham, Isaac y Jacob, de que sus descendientes heredarían la tierra. Dios ahora estaba guiando a los israelitas de regreso a la tierra que les había prometido, la tierra donde habían vivido sus antepasados antes de que ellos <u>bajaran</u> a Egipto. Dios estaba protegiendo y preservando a los israelitas porque eran su pueblo elegido.
 
-- -Su amor
+##### Fueron elegidos por Dios para dos propósitos principales. 
 
-- -Su gracia
+###### Primero, Dios los eligió para ser el linaje humano a través del cual el Libertador sería <u>traído</u> al mundo. 
 
-- -Su misericordia
-
-- -Que solo Él puede liberar
-
-##### -Dios también estaba proporcionando una imagen física y clara de la obra del futuro Libertador <u>venidero</u>.
-
-##### -Al liberar a los israelitas de Egipto, Dios estaba cumpliendo su promesa a Abraham, Isaac y Jacob, de que sus descendientes heredarían la tierra. Dios ahora estaba guiando a los israelitas de regreso a la tierra que les había prometido, la tierra donde habían vivido sus antepasados antes de que ellos <u>bajaran</u> a Egipto. Dios estaba protegiendo y preservando a los israelitas porque eran su pueblo elegido.
-
-##### -Fueron elegidos por Dios para dos propósitos principales. 
-
-- -Primero, Dios los eligió para ser el linaje humano a través del cual el Libertador sería <u>traído</u> al mundo. 
-
-- -En segundo lugar, Dios eligió a la nación de Israel para que fuera un medio a través del cual se revelara a sí mismo y a su palabra al resto del mundo, a través de su interacción con Israel y su intervención divina en sus vidas. Dios también usaría a Israel para registrar Su palabra <u>inspirada</u> y preservarla para la iglesia futura. Isaías 43:9-12; Romanos 3:1-2.
+###### En segundo lugar, Dios eligió a la nación de Israel para que fuera un medio a través del cual se revelara a sí mismo y a su palabra al resto del mundo, a través de su interacción con Israel y su intervención divina en sus vidas. Dios también usaría a Israel para registrar Su palabra <u>inspirada</u> y preservarla para la iglesia futura. Isaías 43:9-12; Romanos 3:1-2.
 
 ## Éxodo 13:17-22 Dios guio a los israelitas mediante una nube
 
-##### -Inmediatamente después de liberar a Israel de la esclavitud, vemos a Dios guiándolos soberanamente y cuidándolos de acuerdo con lo que era mejor para ellos. Humanamente hablando, habría tenido más sentido que Dios los guiara por la ruta más directa que era la más transitada en ese <u>período</u> de tiempo.
+##### Inmediatamente después de liberar a Israel de la esclavitud, vemos a Dios guiándolos soberanamente y cuidándolos de acuerdo con lo que era mejor para ellos. Humanamente hablando, habría tenido más sentido que Dios los guiara por la ruta más directa que era la más transitada en ese <u>período</u> de tiempo.
 
-##### -En cambio, Dios los guio directamente por el desierto para que no <u>viera</u> la aflicción de la guerra y muerte proveniente de ella. El Señor sabía que si eso pasaba el pueblo de desanimaría muy pronto y querían volverse a Egipto. Él también los cuido de aquello.
+##### En cambio, Dios los guio directamente por el desierto para que no <u>viera</u> la aflicción de la guerra y muerte proveniente de ella. El Señor sabía que si eso pasaba el pueblo de desanimaría muy pronto y querían volverse a Egipto. Él también los cuido de aquello.
 
-##### -En el desierto, Jehová continuaría revelándose a Su pueblo de una manera progresiva, también experimentarían muchas preocupaciones y necesidades. ¡Porque lo MEJOR para Israel era primero conocerlo! Llegar al punto en que <u>confiaran</u> solamente en Dios y sus atributos (entre ellos, Fiel y Proveedor). Esto solo se podía lograr colocándolos en situaciones imposibles como éstas. 
+##### En el desierto, Jehová continuaría revelándose a Su pueblo de una manera progresiva, también experimentarían muchas preocupaciones y necesidades. ¡Porque lo MEJOR para Israel era primero conocerlo! Llegar al punto en que <u>confiaran</u> solamente en Dios y sus atributos (entre ellos, Fiel y Proveedor). Esto solo se podía lograr colocándolos en situaciones imposibles como éstas. 
 
-##### -Cuando los israelitas entraron a Egipto, 430 años antes, había alrededor de 70 personas. Ahora había unos 600.000 hombres que salieron de Egipto. Si estimamos que cada hombre tenía una esposa y dos hijos, los israelitas habrían <u>sumado</u> aproximadamente 2,5 millones de personas. A pesar de todo el maltrato, la tortura y el sufrimiento, Dios realmente había bendecido y prosperado a los israelitas.
+##### Cuando los israelitas entraron a Egipto, 430 años antes, había alrededor de 70 personas. Ahora había unos 600.000 hombres que salieron de Egipto. Si estimamos que cada hombre tenía una esposa y dos hijos, los israelitas habrían <u>sumado</u> aproximadamente 2,5 millones de personas. A pesar de todo el maltrato, la tortura y el sufrimiento, Dios realmente había bendecido y prosperado a los israelitas.
 
-##### -El hecho de que Dios usara la nube y la columna de fuego para <u>guiar</u> a los israelitas noche y día fue otra manifestación de Su amor, gracia, ternura y poder.
+##### El hecho de que Dios usara la nube y la columna de fuego para <u>guiar</u> a los israelitas noche y día fue otra manifestación de Su amor, gracia, ternura y poder.
 
-##### - Dios estaba revelándose para que los israelitas pudieran conocerlo y así tuvieran fe en que Él <u>realmente</u> los estaba guiando al darles una prueba tan innegable de su poder. 
+##### Dios estaba revelándose para que los israelitas pudieran conocerlo y así tuvieran fe en que Él <u>realmente</u> los estaba guiando al darles una prueba tan innegable de su poder. 
 
-##### -Este ha sido un patrón que hemos visto con Dios una y otra vez a través de sus interacciones de gracia y amor con la humanidad. Él sabe lo débiles, ciegos y perdidos que somos, y aunque tiene todo el derecho de exigir obediencia incondicional, prefiere <u>tratarnos</u> con misericordia, amor y paciencia.
+##### Este ha sido un patrón que hemos visto con Dios una y otra vez a través de sus interacciones de gracia y amor con la humanidad. Él sabe lo débiles, ciegos y perdidos que somos, y aunque tiene todo el derecho de exigir obediencia incondicional, prefiere <u>tratarnos</u> con misericordia, amor y paciencia.
 
 ## Dios llevó a los israelitas al Mar Rojo
 
-##### -Leer Éxodo 14:1-4
+##### Leer Éxodo 14:1-4
 
-- -Aunque no sabemos exactamente a dónde los llevó Dios, estamos seguros de que los detalles bíblicos del evento son ciertos. Dios trajo a los israelitas a este lugar para demostrarles nuevamente a ellos y a los <u>egipcios</u> que Él es el Dios todopoderoso y soberano. 
+##### Aunque no sabemos exactamente a dónde los llevó Dios, estamos seguros de que los detalles bíblicos del evento son ciertos. Dios trajo a los israelitas a este lugar para demostrarles nuevamente a ellos y a los <u>egipcios</u> que Él es el Dios todopoderoso y soberano. 
 
-- -Para que Israel experimentara una comunión <u>íntima</u> con Dios, tenían que conocerlo. Para conocerlo, Dios tenía que revelarse a ellos. Fueron circunstancias como estas las que realmente revelaron la grandeza de Dios en sus vidas.
+##### Para que Israel experimentara una comunión <u>íntima</u> con Dios, tenían que conocerlo. Para conocerlo, Dios tenía que revelarse a ellos. Fueron circunstancias como estas las que realmente revelaron la grandeza de Dios en sus vidas.
 
-##### -Leer Éxodo 14:5-12
+##### Leer Éxodo 14:5-12
 
-- -El versículo ocho dice que los israelitas habían salido de Egipto con valentía, o literalmente, salieron con mano fuerte. Al darse la vuelta y ver todos los carros de Egipto cayendo sobre ellos ¿cómo crees que se sintieron? Dios deja absolutamente claro que la <u>razón</u> por la que el Faraón siguió persiguiéndolos hasta el punto de la destrucción fue porque siguió endureciendo el corazón del Faraón para revelar Su gloria y grandeza aún más.
+##### El versículo ocho dice que los israelitas habían salido de Egipto con valentía, o literalmente, salieron con mano fuerte. Al darse la vuelta y ver todos los carros de Egipto cayendo sobre ellos ¿cómo crees que se sintieron? Dios deja absolutamente claro que la <u>razón</u> por la que el Faraón siguió persiguiéndolos hasta el punto de la destrucción fue porque siguió endureciendo el corazón del Faraón para revelar Su gloria y grandeza aún más.
 
-- -Los israelitas acababan de presenciar grandes y poderosos milagros en Egipto. Manifestaciones muy claras de la grandeza de Dios, su poder y especialmente su amor y cuidado por Israel. Ahora aquí están en medio de su próximo dilema y han <u>perdido</u> de vista la grandeza de Dios. Como hemos visto en las vidas de Abraham y Moisés, crecer en el conocimiento de Dios es verdaderamente un proceso que lleva tiempo.
+##### Los israelitas acababan de presenciar grandes y poderosos milagros en Egipto. Manifestaciones muy claras de la grandeza de Dios, su poder y especialmente su amor y cuidado por Israel. Ahora aquí están en medio de su próximo dilema y han <u>perdido</u> de vista la grandeza de Dios. Como hemos visto en las vidas de Abraham y Moisés, crecer en el conocimiento de Dios es verdaderamente un proceso que lleva tiempo.
 
-##### -Leer Éxodo 14:13-14.
+##### Leer Éxodo 14:13-14
 
-- -Es asombrosa la respuesta de Moisés a la duda e incredulidad de Israel. ¡Sin reproches, sin condenas, sin menospreciar, solo una garantía del amor, la gracia, el poder y la soberanía de Dios! No había absolutamente ninguna forma de que pudieran <u>salvarse</u> a sí mismos. Tenían el Mar Rojo delante de ellos y sus enemigos detrás de ellos. Solo Dios podía salvarlos.
+##### Es asombrosa la respuesta de Moisés a la duda e incredulidad de Israel. ¡Sin reproches, sin condenas, sin menospreciar, solo una garantía del amor, la gracia, el poder y la soberanía de Dios! No había absolutamente ninguna forma de que pudieran <u>salvarse</u> a sí mismos. Tenían el Mar Rojo delante de ellos y sus enemigos detrás de ellos. Solo Dios podía salvarlos.
 
-- -Así como Moisés les dijo a los israelitas: Dios peleará por ustedes y ustedes callarán, esa es exactamente la misma <u>manera</u> en que recibimos la vida eterna. Dios hizo todo el trabajo; Nos quedamos quietos y cosechamos los beneficios.
+##### Así como Moisés les dijo a los israelitas: Dios peleará por ustedes y ustedes callarán, esa es exactamente la misma <u>manera</u> en que recibimos la vida eterna. Dios hizo todo el trabajo; Nos quedamos quietos y cosechamos los beneficios.
 
-- -Sin embargo, la humanidad es naturalmente orgullosa e independiente. Por defecto buscamos <u>depender</u> de nosotros mismos y de nuestras propias ideas y habilidades para estar bien con Dios. La humanidad no ha cambiado.
+##### Sin embargo, la humanidad es naturalmente orgullosa e independiente. Por defecto buscamos <u>depender</u> de nosotros mismos y de nuestras propias ideas y habilidades para estar bien con Dios. La humanidad no ha cambiado.
 
 ## Dios liberó a los israelitas en el Mar Rojo
 
-##### -Leer Éxodo 14:15-18
+##### Leer Éxodo 14:15-18
 
-- -Otra forma en la que Dios se ha revelado a sí mismo, Su poder y Su soberanía, es <u>mostrando</u> el control completo que tiene sobre su creación.
+##### Otra forma en la que Dios se ha revelado a sí mismo, Su poder y Su soberanía, es <u>mostrando</u> el control completo que tiene sobre su creación.
 
-- -Tal como Dios lo había hecho en el pasado, ahora dividió el Mar Rojo cómo quiso que se <u>dividiera</u> para que los israelitas pudieran pasar.
+##### Tal como Dios lo había hecho en el pasado, ahora dividió el Mar Rojo cómo quiso que se <u>dividiera</u> para que los israelitas pudieran pasar.
 
-- -Después de ver todas estas manifestaciones claras y poderosas de la mano de Dios, sería difícil <u>imaginar</u> que Israel pueda volver a dudar de Él. 
+##### Después de ver todas estas manifestaciones claras y poderosas de la mano de Dios, sería difícil <u>imaginar</u> que Israel pueda volver a dudar de Él. 
 
-- -Al parecer en los versículos 13-14, Moisés estaba proclamando a Israel lo que Dios estaba a punto de hacer, pero en el versículo 15, Dios dice: ¿Por qué clamas a mí? Casi parece que Moisés también había comenzado a dudar o al menos estaba <u>clamando</u> nuevamente a Dios por ayuda. La respuesta de Dios fue:
+##### Al parecer en los versículos 13-14, Moisés estaba proclamando a Israel lo que Dios estaba a punto de hacer, pero en el versículo 15, Dios dice: ¿Por qué clamas a mí? Casi parece que Moisés también había comenzado a dudar o al menos estaba <u>clamando</u> nuevamente a Dios por ayuda. La respuesta de Dios fue:
 
-- ¿Por qué sigues pidiendo ayuda? Ya les di Mi <u>promesa</u> de lo que iba a hacer. Dejen de pedir ayuda y diles a los israelitas que se muevan.
+##### ¿Por qué sigues pidiendo ayuda? Ya les di Mi <u>promesa</u> de lo que iba a hacer. Dejen de pedir ayuda y diles a los israelitas que se muevan.
 
-- -Esta es una imagen física de lo que hacemos con respecto a nuestras vidas cristianas hoy. Al igual que los israelitas, vemos nuestra gran necesidad. Vemos el pecado en el que seguimos caminando. Como Moisés, seguimos clamando a Dios por ayuda. Seguimos pidiéndole que nos <u>cambie</u>, que nos empodere, que nos transforme, que nos ponga un cerco, que nos dé fuerza, etc.
+##### Esta es una imagen física de lo que hacemos con respecto a nuestras vidas cristianas hoy. Al igual que los israelitas, vemos nuestra gran necesidad. Vemos el pecado en el que seguimos caminando. Como Moisés, seguimos clamando a Dios por ayuda. Seguimos pidiéndole que nos <u>cambie</u>, que nos empodere, que nos transforme, que nos ponga un cerco, que nos dé fuerza, etc.
 
-- -Pero como lo hizo con Moisés, Dios nos dice: ¿Por qué sigues clamando a mí por ayuda? *Ya les he dado todas las cosas que pertenecen a la vida y a la piedad*. (2 Pedro 1:3) Ya he provisto tu salvación de la pena del pecado, así como del poder del pecado. ¡Solo créelo y <u>camina</u> en esa verdad!
+##### Pero como lo hizo con Moisés, Dios nos dice: ¿Por qué sigues clamando a mí por ayuda? *Ya les he dado todas las cosas que pertenecen a la vida y a la piedad*. (2 Pedro 1:3) Ya he provisto tu salvación de la pena del pecado, así como del poder del pecado. ¡Solo créelo y <u>camina</u> en esa verdad!
 
-##### -Leer Éxodo 14:19-22.
+##### Leer Éxodo 14:19-22
 
-- -En cada detalle de la liberación de Israel, Dios lo hacía de una manera que se revelaba a sí mismo a Israel y a todas las generaciones futuras. Observe lo que decía sobre la nube; *La colocó entre los israelitas y los egipcios*. Por parte de los egipcios, creó niebla, nube y oscuridad, pero por <u>parte</u> de los israelitas, ¡proporcionó luz y la capacidad de ver durante la noche! 
+##### En cada detalle de la liberación de Israel, Dios lo hacía de una manera que se revelaba a sí mismo a Israel y a todas las generaciones futuras. Observe lo que decía sobre la nube; *La colocó entre los israelitas y los egipcios*. Por parte de los egipcios, creó niebla, nube y oscuridad, pero por <u>parte</u> de los israelitas, ¡proporcionó luz y la capacidad de ver durante la noche! 
 
-- -Este es otro patrón que vemos a lo largo de las Escrituras, un acto de Dios que se muestra como <u>gracia</u>, misericordia y salvación para unos, pero al mismo tiempo juicio para otros.
+##### Este es otro patrón que vemos a lo largo de las Escrituras, un acto de Dios que se muestra como <u>gracia</u>, misericordia y salvación para unos, pero al mismo tiempo juicio para otros.
 
-- -Cuando Dios cerró la puerta del arca, significó gracia y salvación para Noé, su familia y los animales, pero al <u>mismo</u> tiempo pronunció juicio para todos los que estaban afuera.
+##### Cuando Dios cerró la puerta del arca, significó gracia y salvación para Noé, su familia y los animales, pero al <u>mismo</u> tiempo pronunció juicio para todos los que estaban afuera.
 
-- -La llegada de los ángeles a Sodoma y Gomorra significaba salvación para Lot y su familia, pero juicio para el <u>resto</u> de los habitantes.
+##### La llegada de los ángeles a Sodoma y Gomorra significaba salvación para Lot y su familia, pero juicio para el <u>resto</u> de los habitantes.
 
-- -Todas las plagas en Egipto, Dios en Su <u>gracia</u>, las usó para traer salvación para Israel y juicio para Egipto.
+##### Todas las plagas en Egipto, Dios en Su <u>gracia</u>, las usó para traer salvación para Israel y juicio para Egipto.
 
-- -Esta nube hizo lo mismo. ¡Estas son <u>imágenes</u> asombrosas de la soberanía de Dios!
+##### Esta nube hizo lo mismo. ¡Estas son <u>imágenes</u> asombrosas de la soberanía de Dios!
 
-##### -Leer Éxodo 14:23-29.
+##### Leer Éxodo 14:23-29
 
-- -Puede que haya dificultades con el hecho de que fue Dios quien *endureció* el corazón de Faraón para desafiarlo, lo que ahora ha <u>llevado</u> a su destrucción y a la de todo su ejército. *Pensé que Dios era misericordioso*. La elección de Dios de *endurecer* el corazón de Faraón fue con respecto a dejar ir a Israel. Esto no tenía nada que ver con Dios eligiendo a Faraón para salvación.
+##### Puede que haya dificultades con el hecho de que fue Dios quien *endureció* el corazón de Faraón para desafiarlo, lo que ahora ha <u>llevado</u> a su destrucción y a la de todo su ejército. *Pensé que Dios era misericordioso*. La elección de Dios de *endurecer* el corazón de Faraón fue con respecto a dejar ir a Israel. Esto no tenía nada que ver con Dios eligiendo a Faraón para salvación.
 
-- - En segundo lugar, antes de que Dios endureciera el corazón del faraón, el faraón ya había rechazado a Dios. Las Escrituras son claras en cuanto a que Dios se ha revelado a través de su creación. Faraón y muchos de los egipcios habían rechazado ese testimonio y habían estado adorando a la creación en <u>lugar</u> del Creador. Entonces, en términos de volverse a Dios, buscarlo para salvación y adorarlo, ya lo habían rechazado.
+##### En segundo lugar, antes de que Dios endureciera el corazón del faraón, el faraón ya había rechazado a Dios. Las Escrituras son claras en cuanto a que Dios se ha revelado a través de su creación. Faraón y muchos de los egipcios habían rechazado ese testimonio y habían estado adorando a la creación en <u>lugar</u> del Creador. Entonces, en términos de volverse a Dios, buscarlo para salvación y adorarlo, ya lo habían rechazado.
 
-- -Dios ahora simplemente había endurecido su corazón con el propósito de demostrar su poder sobre la nación mas poderosa en el <u>mundo</u> en ese momento del tiempo y liberar a su pueblo escogido.
+##### Dios ahora simplemente había endurecido su corazón con el propósito de demostrar su poder sobre la nación mas poderosa en el <u>mundo</u> en ese momento del tiempo y liberar a su pueblo escogido.
 
-- -Nadie puede oponerse a Dios Todopoderoso y triunfar. ¡Es absolutamente imposible! Dios es supremo y NO HAY NADIE COMO ÉL. Cualquiera que intente resistirse a Él, en realidad termina convirtiéndose en una herramienta en Su mano que Él usa para lograr la misma <u>voluntad</u> a la que buscaban oponerse. Tanto Satanás como Faraón son excelentes ejemplos de eso. Hebreos 10:31.
+##### Nadie puede oponerse a Dios Todopoderoso y triunfar. ¡Es absolutamente imposible! Dios es supremo y NO HAY NADIE COMO ÉL. Cualquiera que intente resistirse a Él, en realidad termina convirtiéndose en una herramienta en Su mano que Él usa para lograr la misma <u>voluntad</u> a la que buscaban oponerse. Tanto Satanás como Faraón son excelentes ejemplos de eso. Hebreos 10:31.
 
-- -A menudo se oye a la gente especular sobre los israelitas que cruzaron el Mar Rojo. Algunos dicen que en realidad no cruzaron el mar, sino que cruzaron una tierra pantanosa. Luego también escuchas muchas otras ideas que la gente tiene <u>sobre</u> cómo pudo haber sucedido y, por lo tanto, explicas la omnipotencia del Señor Dios Todopoderoso. 
+##### A menudo se oye a la gente especular sobre los israelitas que cruzaron el Mar Rojo. Algunos dicen que en realidad no cruzaron el mar, sino que cruzaron una tierra pantanosa. Luego también escuchas muchas otras ideas que la gente tiene <u>sobre</u> cómo pudo haber sucedido y, por lo tanto, explicas la omnipotencia del Señor Dios Todopoderoso. 
 
-- Mira esta estadística de un artículo: *Tenían que cruzar el Mar Rojo en una noche. Ahora, si fueran por un camino estrecho, en doble fila, la línea tendría 800 millas de largo y requeriría 35 días y noches para pasar. (Además de toda la <u>gente</u>, había grandes manadas de ganado). Por lo tanto, tuvo que haber un espacio en el Mar Rojo de tres millas (4,82 km) de ancho para que pudieran caminar 5000 en fila para pasar en una noche.*
+##### Mira esta estadística de un artículo: *Tenían que cruzar el Mar Rojo en una noche. Ahora, si fueran por un camino estrecho, en doble fila, la línea tendría 800 millas de largo y requeriría 35 días y noches para pasar. (Además de toda la <u>gente</u>, había grandes manadas de ganado). Por lo tanto, tuvo que haber un espacio en el Mar Rojo de tres millas (4,82 km) de ancho para que pudieran caminar 5000 en fila para pasar en una noche.*
 
 - La división del Mar Rojo fue otro milagro de Dios que Él hizo para <u>revelar</u> claramente Su supremacía y soberanía.
 
-##### -Leer Éxodo 14:30-31.
+##### Leer Éxodo 14:30-31
 
 - En este punto la identidad de Dios y cómo es Él, empezó a ser muy evidente para los israelitas porque se maravillaron de su poder y lo adoraron. La salvación de Israel por parte de Dios de la esclavitud en Egipto es una imagen física clara de <u>nuestra</u> salvación espiritual.
 
@@ -3077,7 +3079,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### Leer Éxodo 17:1-7
 
-- Lógicamente, los israelitas debían tener agua para vivir. Así que, de nuevo, Israel se encontraba en una situación imposible de la que no podía liberarse. Su única esperanza era que Dios interviniera divinamente, lo que habían visto muchas veces. Dios era digno de confianza. Una de las razones por las que Dios eligió a un pueblo tan obstinado y de dura cerviz como Israel es que realmente <u>ayudaron</u> a magnificar la gracia, la paciencia y la fidelidad de Dios. A pesar de que casi siempre dudaban e incluso se alejaban de Él, Dios nunca se cansó de ellos, sino que siempre los proveyó fielmente.
+- Lógicamente, los israelitas debían tener agua para vivir. Así que, de nuevo, Israel se encontraba en una situación imposible de la que no podía liberarse. Su única esperanza era que Dios interviniera divinamente, lo que habían visto muchas veces. Dios era digno de confianza. 
+
+- Una de las razones por las que Dios eligió a un pueblo tan obstinado y de dura cerviz como Israel es que realmente <u>ayudaron</u> a magnificar la gracia, la paciencia y la fidelidad de Dios. A pesar de que casi siempre dudaban e incluso se alejaban de Él, Dios nunca se cansó de ellos, sino que siempre los proveyó fielmente.
 
 - Preste atención a algunos de los detalles que se habrían necesitado para <u>sustentar</u> a Israel y a todos sus animales cada día en el desierto:
 
@@ -3117,45 +3121,45 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### Leer Éxodo 19:1-15.
 
-- En primer lugar, notamos en los versículos 1 y 2 que Dios llevó a los israelitas al monte Sinaí, algunos dicen al monte Horeb. En realidad, el Monte Sinaí es un monte específico en la Cordillera Horeb. ¿Recuerdas lo que estaba sucediendo la última vez que Moisés estuvo en este monte? Fue cuando Dios le <u>habló</u> desde la zarza ardiente. ¿Recuerdas lo que Dios le prometió a Moisés en Éxodo 3:12?
+##### En primer lugar, notamos en los versículos 1 y 2 que Dios llevó a los israelitas al monte Sinaí, algunos dicen al monte Horeb. En realidad, el Monte Sinaí es un monte específico en la Cordillera Horeb. ¿Recuerdas lo que estaba sucediendo la última vez que Moisés estuvo en este monte? Fue cuando Dios le <u>habló</u> desde la zarza ardiente. ¿Recuerdas lo que Dios le prometió a Moisés en Éxodo 3:12?
 
-- Como prueba de que Dios estaría con Moisés, Dios le prometió que sacaría a Israel de Egipto a este monte para servirle aquí. Servir aquí significa adoración. Dios le estaba diciendo a Moisés que él e Israel <u>serían</u> llevados de regreso a este monte algún día para adorarlo. 
+##### Como prueba de que Dios estaría con Moisés, Dios le prometió que sacaría a Israel de Egipto a este monte para servirle aquí. Servir aquí significa adoración. Dios le estaba diciendo a Moisés que él e Israel <u>serían</u> llevados de regreso a este monte algún día para adorarlo. 
 
-- Eso sería una prueba de que Él cumple Su promesa de estar con ellos. Desde el momento en que Moisés dejó el monte Sinaí para regresar a Egipto, ¿qué pasos tomó Dios para cumplir su <u>promesa</u> de traer a Moisés y a los israelitas de regreso a esta montaña?
+##### Eso sería una prueba de que Él cumple Su promesa de estar con ellos. Desde el momento en que Moisés dejó el monte Sinaí para regresar a Egipto, ¿qué pasos tomó Dios para cumplir su <u>promesa</u> de traer a Moisés y a los israelitas de regreso a esta montaña?
 
-- Protegió a Moisés del faraón que, en su ira, podía haber <u>matado</u> a Moisés.
+###### Protegió a Moisés del faraón que, en su ira, podía haber <u>matado</u> a Moisés.
 
-- Liberó a los israelitas de la esclavitud en Egipto incluso en contra de los <u>deseos</u> del faraón.
+###### Liberó a los israelitas de la esclavitud en Egipto incluso en contra de los <u>deseos</u> del faraón.
 
-- Abrió el mar Rojo para que los israelitas pudieran <u>escapar</u> cuando el faraón y su ejército los persiguieron.
+###### Abrió el mar Rojo para que los israelitas pudieran <u>escapar</u> cuando el faraón y su ejército los persiguieron.
 
-- Proporcionó a los israelitas <u>comida</u> y agua para que no murieran en el desierto.
+###### Proporcionó a los israelitas <u>comida</u> y agua para que no murieran en el desierto.
 
-- Los guio por la <u>nube</u> para que no se perdieran en el desierto.
+###### Los guio por la <u>nube</u> para que no se perdieran en el desierto.
 
-- Dios hizo todo lo <u>posible</u> para demostrar su confiabilidad.
+###### Dios hizo todo lo <u>posible</u> para demostrar su confiabilidad.
 
-- Dios les recuerda su intervención <u>divina</u> y de gracia.
+###### Dios les recuerda su intervención <u>divina</u> y de gracia.
 
-- Observe cómo Dios mismo describe su liberación de Israel de la esclavitud: *Ustedes han visto lo que he hecho a los egipcios, y cómo los he tomado sobre alas de águilas y los he traído a Mí.* Él no dice: Te llevé en alas de <u>águila</u> y te liberé, o te saqué de la esclavitud o te llevé a la libertad, sino ¡los he traído a Mí!
+##### Observe cómo Dios mismo describe su liberación de Israel de la esclavitud: *Ustedes han visto lo que he hecho a los egipcios, y cómo los he tomado sobre alas de águilas y los he traído a Mí.* Él no dice: Te llevé en alas de <u>águila</u> y te liberé, o te saqué de la esclavitud o te llevé a la libertad, sino ¡los he traído a Mí!
 
-- No habría mejor manera para que Dios le mostrara a Israel cuán importantes y significativos eran para Él que decir: los he traído a Mí. ¡Te quería para mí! Quiero una relación contigo. ¿Sabes que <u>Dios</u> dice exactamente lo mismo hoy sobre nosotros como creyentes?
+##### No habría mejor manera para que Dios le mostrara a Israel cuán importantes y significativos eran para Él que decir: los he traído a Mí. ¡Te quería para mí! Quiero una relación contigo. ¿Sabes que <u>Dios</u> dice exactamente lo mismo hoy sobre nosotros como creyentes?
 
-- En 2 Corintios 5:18-19, Pablo dijo que *Dios nos reconcilió con Él mismo por medio de Cristo.* Al igual que Israel, Él nos trajo a Él, nos reconcilió consigo mismo por la fe en Cristo. No lo elegimos a Él, no lo buscamos, ¡sino que Él nos trajo a Él! ¡Nada podría hacerte más significativo que el hecho de que el <u>glorioso</u> y todopoderoso Dios del universo te trajo a Él!
+###### En 2 Corintios 5:18-19, Pablo dijo que *Dios nos reconcilió con Él mismo por medio de Cristo.* Al igual que Israel, Él nos trajo a Él, nos reconcilió consigo mismo por la fe en Cristo. No lo elegimos a Él, no lo buscamos, ¡sino que Él nos trajo a Él! ¡Nada podría hacerte más significativo que el hecho de que el <u>glorioso</u> y todopoderoso Dios del universo te trajo a Él!
 
-- Ahora Dios dice: Si escuchas mi voz y guardas mi pacto, entonces serás mi especial <u>tesoro</u> entre **todos** los pueblos, porque Yo soy el dueño de toda la creación. Hasta este punto, ¿cómo había sonado la voz de Dios? ¿En qué se había basado Su relación? En Su GRACIA e intervención Divina. No se basaba en reglas ni regulaciones. 
+##### Ahora Dios dice: Si escuchas mi voz y guardas mi pacto, entonces serás mi especial <u>tesoro</u> entre **todos** los pueblos, porque Yo soy el dueño de toda la creación. Hasta este punto, ¿cómo había sonado la voz de Dios? ¿En qué se había basado Su relación? En Su GRACIA e intervención Divina. No se basaba en reglas ni regulaciones. 
 
-- En Su gracia los había liberado de la esclavitud, los había <u>protegido</u> libremente de la espada de sus enemigos, los había conducido libremente a través del Mar Rojo, había hecho llover pan del cielo y había sacado agua de una roca como un regalo.
+##### En Su gracia los había liberado de la esclavitud, los había <u>protegido</u> libremente de la espada de sus enemigos, los había conducido libremente a través del Mar Rojo, había hecho llover pan del cielo y había sacado agua de una roca como un regalo.
 
-- Así es como había sonado la voz de Dios hasta este punto. Todo era en base a Su gracia, fidelidad y provisión. No tenía nada que ver con que Israel hiciera algo o lo mereciera. Antes de llevar a cabo cualquiera de estas cosas, su relación con Dios no se trataba de condiciones ni demandas, sino de quien era Él. No se les puso <u>ninguna</u> carga ni yugo alrededor de sus cuellos.
+##### Así es como había sonado la voz de Dios hasta este punto. Todo era en base a Su gracia, fidelidad y provisión. No tenía nada que ver con que Israel hiciera algo o lo mereciera. Antes de llevar a cabo cualquiera de estas cosas, su relación con Dios no se trataba de condiciones ni demandas, sino de quien era Él. No se les puso <u>ninguna</u> carga ni yugo alrededor de sus cuellos.
 
-- Desde el momento en que Dios <u>prometió</u> a Adán y Eva un Libertador en Génesis 3:15 y hasta Abraham, Isaac y Jacob; el pacto y las promesas de Dios no se basaban en la capacidad o merito del hombre. Siempre todo se trató y dependía de la gracia del Señor.
+##### Desde el momento en que Dios <u>prometió</u> a Adán y Eva un Libertador en Génesis 3:15 y hasta Abraham, Isaac y Jacob; el pacto y las promesas de Dios no se basaban en la capacidad o merito del hombre. Siempre todo se trató y dependía de la gracia del Señor.
 
-- Es muy significativo que Dios le haya dado a Israel este recordatorio de Su amor, poder y gracia (Éxodo 19:4) antes de anunciarles este pacto de la ley. El significado realmente se destaca cuando lo consideras a la luz de la declaración <u>anterior</u> de Dios en Éxodo 16:4: *Entonces el SEÑOR dijo a Moisés: Yo haré llover pan del cielo para ustedes. El pueblo saldrá y recogerá diariamente la porción de cada día, para ponerlos a prueba si andan o no en Mi ley.*
+##### Es muy significativo que Dios le haya dado a Israel este recordatorio de Su amor, poder y gracia (Éxodo 19:4) antes de anunciarles este pacto de la ley. El significado realmente se destaca cuando lo consideras a la luz de la declaración <u>anterior</u> de Dios en Éxodo 16:4: *Entonces el SEÑOR dijo a Moisés: Yo haré llover pan del cielo para ustedes. El pueblo saldrá y recogerá diariamente la porción de cada día, para ponerlos a prueba si andan o no en Mi ley.*
 
-- Ya sabemos el resultado. Antes de anunciar a Israel el pacto de la ley en el capítulo 19, Dios primero los probó diciéndoles que NO hicieran una pequeña cosa. Cuando recolectes maná todos los días, solo <u>recolecta</u> el valor de ese día. No recolectes más y trata de guardarlo para el día siguiente.
+##### Ya sabemos el resultado. Antes de anunciar a Israel el pacto de la ley en el capítulo 19, Dios primero los probó diciéndoles que NO hicieran una pequeña cosa. Cuando recolectes maná todos los días, solo <u>recolecta</u> el valor de ese día. No recolectes más y trata de guardarlo para el día siguiente.
 
-- Dios estaba requiriendo esto para enseñarles que podían confiar en Dios para la provisión de cada día. La prueba no era para que Dios descubriera nada; Él es omnisciente. Era para beneficio de Israel, para mostrarles que eran incapaces de <u>seguir</u> incluso las órdenes más fáciles de llevar a cabo y vieran que no se trataba de su capacidad de obrar o cumplir para que entrarán a la tierra prometida, sino de la promesa Dios, y de quién era Él.
+##### Dios estaba requiriendo esto para enseñarles que podían confiar en Dios para la provisión de cada día. La prueba no era para que Dios descubriera nada; Él es omnisciente. Era para beneficio de Israel, para mostrarles que eran incapaces de <u>seguir</u> incluso las órdenes más fáciles de llevar a cabo y vieran que no se trataba de su capacidad de obrar o cumplir para que entrarán a la tierra prometida, sino de la promesa Dios, y de quién era Él.
 
 - Entonces, aquí en el capítulo 19, cuando Dios <u>anunció</u> este pacto de la ley, ellos debían haber recordado que:
 
