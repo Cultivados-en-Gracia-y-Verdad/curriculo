@@ -14,7 +14,8 @@ googleAnalytics = ""
 summaryLength = 70
 
 # Define the number of posts per page
-paginate = 10
+[pagination]
+    pagerSize = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
@@ -467,7 +468,7 @@ pluralizelisttitles = false
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
