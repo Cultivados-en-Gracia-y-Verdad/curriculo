@@ -2,124 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/courses/el-dios-de-la-historia/</loc>
+    <loc>http://localhost:56910/courses/1coritios/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/filemon/</loc>
+    <loc>http://localhost:56910/courses/el-dios-de-la-historia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/filipenses/</loc>
+    <loc>http://localhost:56910/courses/filemon/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/galatas/</loc>
+    <loc>http://localhost:56910/courses/filipenses/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/habacuc/</loc>
+    <loc>http://localhost:56910/courses/galatas/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/introduccion-al-griego/</loc>
+    <loc>http://localhost:56910/courses/habacuc/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/navegado-el-texto/</loc>
+    <loc>http://localhost:56910/courses/introduccion-al-griego/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:56910/courses/navegado-el-texto/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url><url>
+    <loc>http://localhost:56910/</loc>
     <lastmod>2026-05-19T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/cgv-presenter/</loc>
+    <loc>http://localhost:56910/cgv-presenter/</loc>
     <lastmod>2026-05-19T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/descargas/</loc>
+    <loc>http://localhost:56910/descargas/</loc>
     <lastmod>2026-05-18T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/fotos/</loc>
+    <loc>http://localhost:56910/fotos/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/horario/</loc>
+    <loc>http://localhost:56910/horario/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/plan-de-estudios/</loc>
+    <loc>http://localhost:56910/plan-de-estudios/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/calendar/</loc>
+    <loc>http://localhost:56910/calendar/</loc>
     <lastmod>2023-08-31T15:11:42-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/costos/</loc>
+    <loc>http://localhost:56910/posts/costos/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:56910/posts/</loc>
     <lastmod>2023-08-27T21:53:01-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/admisiones/</loc>
+    <loc>http://localhost:56910/admisiones/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:56910/authors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:56910/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/centros/</loc>
+    <loc>http://localhost:56910/centros/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/contacto/</loc>
+    <loc>http://localhost:56910/contacto/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:56910/courses/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/curriculo/</loc>
+    <loc>http://localhost:56910/curriculo/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/implementacion/</loc>
+    <loc>http://localhost:56910/implementacion/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/nosotros/</loc>
+    <loc>http://localhost:56910/nosotros/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/radio/</loc>
+    <loc>http://localhost:56910/radio/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/roots/</loc>
+    <loc>http://localhost:56910/roots/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:56910/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
