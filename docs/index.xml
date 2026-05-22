@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discipulado CGV</title>
-    <link>http://localhost:56910/</link>
+    <link>https://discipuladocgv.org/</link>
     <description>Recent content on Discipulado CGV</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 19 May 2026 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:56910/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://discipuladocgv.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manual de CGV Presenter</title>
-      <link>http://localhost:56910/cgv-presenter/</link>
+      <link>https://discipuladocgv.org/cgv-presenter/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 -0400</pubDate>
-      <guid>http://localhost:56910/cgv-presenter/</guid>
+      <guid>https://discipuladocgv.org/cgv-presenter/</guid>
       <description>&lt;p&gt;CGV Presenter es una aplicación diseñada para la enseñanza bíblica y el uso congregacional en iglesias locales. Su propósito principal es permitir que una iglesia o centro de capacitación pueda enseñar, presentar, cantar y realizar cuestionarios desde una computadora local, sin depender del internet durante la clase o reunión.&lt;/p&gt;&#xA;&lt;p&gt;La aplicación trabaja de forma &lt;strong&gt;offline-first&lt;/strong&gt;. Esto significa que los cursos, canciones, Biblias y materiales deben estar disponibles localmente. El internet puede servir para descargar cursos, actualizaciones o permitir que los alumnos respondan cuestionarios desde sus teléfonos, pero la enseñanza no debe depender de una conexión estable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Descargas</title>
-      <link>http://localhost:56910/descargas/</link>
+      <link>https://discipuladocgv.org/descargas/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 -0400</pubDate>
-      <guid>http://localhost:56910/descargas/</guid>
-      <description>&lt;section class=&#34;download-page&#34;&gt;&#xA;  &lt;p class=&#34;lead&#34;&gt;&#xA;    Descargue CGV Presenter para usar cursos, presentaciones, canciones y cuestionarios desde una computadora local.&#xA;  &lt;/p&gt;&#xA;  &lt;div class=&#34;download-grid&#34;&gt;&#xA;    &lt;article class=&#34;download-card&#34;&gt;&#xA;      &lt;h2&gt;macOS&lt;/h2&gt;&#xA;      &lt;p&gt;Para computadoras Mac con Apple Silicon.&lt;/p&gt;&#xA;      &lt;a class=&#34;download-button&#34; href=&#34;https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV-Presenter-macOS-arm64-1.0.1.zip&#34;&gt;&#xA;        Descargar para macOS&#xA;      &lt;/a&gt;&#xA;      &lt;small&gt;Versión 1.0.1 · ZIP&lt;/small&gt;&#xA;    &lt;/article&gt;&#xA;    &lt;article class=&#34;download-card&#34;&gt;&#xA;      &lt;h2&gt;Windows&lt;/h2&gt;&#xA;      &lt;p&gt;Para computadoras Windows.&lt;/p&gt;&#xA;      &lt;a class=&#34;download-button&#34; href=&#34;https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV.Presenter-1.0.1.Setup.exe&#34;&gt;&#xA;        Descargar para Windows&#xA;      &lt;/a&gt;&#xA;      &lt;small&gt;Versión 1.0.1 · EXE&lt;/small&gt;&#xA;    &lt;/article&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;download-note&#34;&gt;&#xA;    CGV Presenter funciona offline. Después de instalarlo, los cursos pueden descargarse y usarse localmente sin depender del internet durante la enseñanza.&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;a class=&#34;download-button&#34; href=&#34;http://localhost:56910/cgv-presenter/&#34;&gt;&#xA;      Ver manual de uso&#xA;    &lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/section&gt;</description>
+      <guid>https://discipuladocgv.org/descargas/</guid>
+      <description>&lt;section class=&#34;download-page&#34;&gt;&#xA;  &lt;p class=&#34;lead&#34;&gt;&#xA;    Descargue CGV Presenter para usar cursos, presentaciones, canciones y cuestionarios desde una computadora local.&#xA;  &lt;/p&gt;&#xA;  &lt;div class=&#34;download-grid&#34;&gt;&#xA;    &lt;article class=&#34;download-card&#34;&gt;&#xA;      &lt;h2&gt;macOS&lt;/h2&gt;&#xA;      &lt;p&gt;Para computadoras Mac con Apple Silicon.&lt;/p&gt;&#xA;      &lt;a class=&#34;download-button&#34; href=&#34;https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV-Presenter-macOS-arm64-1.0.1.zip&#34;&gt;&#xA;        Descargar para macOS&#xA;      &lt;/a&gt;&#xA;      &lt;small&gt;Versión 1.0.1 · ZIP&lt;/small&gt;&#xA;    &lt;/article&gt;&#xA;    &lt;article class=&#34;download-card&#34;&gt;&#xA;      &lt;h2&gt;Windows&lt;/h2&gt;&#xA;      &lt;p&gt;Para computadoras Windows.&lt;/p&gt;&#xA;      &lt;a class=&#34;download-button&#34; href=&#34;https://github.com/Cultivados-en-Gracia-y-Verdad/herramientas/releases/download/CGV-Presenter-v1.0.1/CGV.Presenter-1.0.1.Setup.exe&#34;&gt;&#xA;        Descargar para Windows&#xA;      &lt;/a&gt;&#xA;      &lt;small&gt;Versión 1.0.1 · EXE&lt;/small&gt;&#xA;    &lt;/article&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;p class=&#34;download-note&#34;&gt;&#xA;    CGV Presenter funciona offline. Después de instalarlo, los cursos pueden descargarse y usarse localmente sin depender del internet durante la enseñanza.&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;a class=&#34;download-button&#34; href=&#34;https://discipuladocgv.org/cgv-presenter/&#34;&gt;&#xA;      Ver manual de uso&#xA;    &lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Fotos</title>
-      <link>http://localhost:56910/fotos/</link>
+      <link>https://discipuladocgv.org/fotos/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/fotos/</guid>
+      <guid>https://discipuladocgv.org/fotos/</guid>
       <description>&lt;h1 id=&#34;fotos-del-2025&#34;&gt;Fotos del 2025&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Horario</title>
-      <link>http://localhost:56910/horario/</link>
+      <link>https://discipuladocgv.org/horario/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/horario/</guid>
+      <guid>https://discipuladocgv.org/horario/</guid>
       <description>&lt;h4 id=&#34;inicio-de-clases-2-de-marzo&#34;&gt;Inicio de clases: 2 de marzo&lt;/h4&gt;&#xA;&lt;h4 id=&#34;graduación-14-de-noviembre&#34;&gt;Graduación: 14 de Noviembre&lt;/h4&gt;&#xA;&lt;h1 id=&#34;horario-de-clases&#34;&gt;HORARIO DE CLASES&lt;/h1&gt;&#xA;&lt;h2 id=&#34;800am---1200pm&#34;&gt;8:00AM - 12:00PM&lt;/h2&gt;&#xA;&lt;h2 id=&#34;100pm---500pm&#34;&gt;1:00PM - 5:00PM&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;NOTA: CGV no celebra o da libre días feriados. Si se dará cierto tiempo durante las vacaciones invernales.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plan de Estudios</title>
-      <link>http://localhost:56910/plan-de-estudios/</link>
+      <link>https://discipuladocgv.org/plan-de-estudios/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/plan-de-estudios/</guid>
+      <guid>https://discipuladocgv.org/plan-de-estudios/</guid>
       <description>&lt;h1 id=&#34;plan-de-estudios-cgv-2026&#34;&gt;Plan de Estudios CGV 2026&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-en-camino-a-emaús&#34;&gt;1. En Camino a Emaús&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2-dios-en-su-revelación&#34;&gt;2. Dios en Su Revelación&lt;/h2&gt;&#xA;&lt;h2 id=&#34;3-habacúc&#34;&gt;3. Habacúc&lt;/h2&gt;&#xA;&lt;h2 id=&#34;4-claridad-del-evangelio&#34;&gt;4. Claridad del Evangelio&lt;/h2&gt;&#xA;&lt;h2 id=&#34;5-romanos-1-8&#34;&gt;5. Romanos 1-8&lt;/h2&gt;&#xA;&lt;h2 id=&#34;6-gálatas&#34;&gt;6. Gálatas&lt;/h2&gt;&#xA;&lt;h2 id=&#34;7-introducción-al-griego&#34;&gt;7. Introducción al Griego&lt;/h2&gt;&#xA;&lt;h2 id=&#34;8-manejo-correcto-del-mensaje&#34;&gt;8. Manejo Correcto del Mensaje&lt;/h2&gt;&#xA;&lt;h2 id=&#34;9-romanos-9-16&#34;&gt;9. Romanos 9-16&lt;/h2&gt;&#xA;&lt;h2 id=&#34;10-efésios&#34;&gt;10. Efésios&lt;/h2&gt;&#xA;&lt;h2 id=&#34;11-judas&#34;&gt;11. Judas&lt;/h2&gt;&#xA;&lt;h2 id=&#34;12-colosenses&#34;&gt;12. Colosenses&lt;/h2&gt;&#xA;&lt;h2 id=&#34;13-filipenses&#34;&gt;13. Filipenses&lt;/h2&gt;&#xA;&lt;h2 id=&#34;14-santiago&#34;&gt;14. Santiago&lt;/h2&gt;&#xA;&lt;h2 id=&#34;15-hebreos&#34;&gt;15. Hebreos&lt;/h2&gt;&#xA;&lt;h2 id=&#34;16-1-timoteo&#34;&gt;16. 1 Timoteo&lt;/h2&gt;&#xA;&lt;h2 id=&#34;17-tito&#34;&gt;17. Tito&lt;/h2&gt;&#xA;&lt;h2 id=&#34;18-daniel&#34;&gt;18. Daniel&lt;/h2&gt;&#xA;&lt;h2 id=&#34;19-zacarías&#34;&gt;19. Zacarías&lt;/h2&gt;&#xA;&lt;h2 id=&#34;20-apocalipsis&#34;&gt;20. Apocalipsis&lt;/h2&gt;&#xA;&lt;h2 id=&#34;ministerio-práctico&#34;&gt;Ministerio Práctico&lt;/h2&gt;&#xA;&lt;h2 id=&#34;21-1--2-pedro&#34;&gt;21. 1 &amp;amp; 2 Pedro&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Calendar</title>
-      <link>http://localhost:56910/calendar/</link>
+      <link>https://discipuladocgv.org/calendar/</link>
       <pubDate>Thu, 31 Aug 2023 15:11:42 -0400</pubDate>
-      <guid>http://localhost:56910/calendar/</guid>
+      <guid>https://discipuladocgv.org/calendar/</guid>
       <description>&lt;h1 id=&#34;calendario-cgv-2026&#34;&gt;Calendario CGV 2026&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://cloud.cc3d.org/index.php/apps/calendar/embed/pm2HAx8ZQg2j7HBN/dayGridMonth/2026-03-01&#34; style=&#34;border:0px solid rgb(8, 0, 255);width:100%;height:600px;&#34;&gt;&lt;/iframe&gt;&#xA;                          &lt;a href=&#34;https://cloud.cc3d.org/index.php/apps/calendar/embed/pm2HAx8ZQg2j7HBN/dayGridMonth/2025-02-01&#34; target=&#34;_blank&#34;&gt;Abrir&lt;/a&gt;</description>
     </item>
     <item>
       <title>Costos</title>
-      <link>http://localhost:56910/posts/costos/</link>
+      <link>https://discipuladocgv.org/posts/costos/</link>
       <pubDate>Sun, 27 Aug 2023 21:53:01 -0400</pubDate>
-      <guid>http://localhost:56910/posts/costos/</guid>
+      <guid>https://discipuladocgv.org/posts/costos/</guid>
       <description>&lt;h1 id=&#34;internos&#34;&gt;Internos&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;incluye costos de alimentación, estadía y estudios&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;externos&#34;&gt;Externos&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;incluye costos de almuerzo y estudios&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Admision</title>
-      <link>http://localhost:56910/admisiones/</link>
+      <link>https://discipuladocgv.org/admisiones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/admisiones/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:56910/img/concentration.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gracias-por-tu-interés-de-estudiar-en-el-cc3d&#34;&gt;Gracias por tu interés de estudiar en el CC3D&lt;/h1&gt;&#xA;&lt;p&gt;Empieza el proceso completando los siguientes pasos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paso-1&#34;&gt;&lt;a href=&#34;http://localhost:56910/admisiones/empieza/&#34;&gt;Paso 1&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;paso-2&#34;&gt;&lt;a href=&#34;http://localhost:56910/admisiones/admision/&#34;&gt;Paso 2&lt;/a&gt;&lt;/h2&gt;</description>
+      <guid>https://discipuladocgv.org/admisiones/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://discipuladocgv.org/img/concentration.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;gracias-por-tu-interés-de-estudiar-en-el-cc3d&#34;&gt;Gracias por tu interés de estudiar en el CC3D&lt;/h1&gt;&#xA;&lt;p&gt;Empieza el proceso completando los siguientes pasos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paso-1&#34;&gt;&lt;a href=&#34;https://discipuladocgv.org/admisiones/empieza/&#34;&gt;Paso 1&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;paso-2&#34;&gt;&lt;a href=&#34;https://discipuladocgv.org/admisiones/admision/&#34;&gt;Paso 2&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Centros de Capacitación</title>
-      <link>http://localhost:56910/centros/</link>
+      <link>https://discipuladocgv.org/centros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/centros/</guid>
+      <guid>https://discipuladocgv.org/centros/</guid>
       <description>&lt;h2 id=&#34;centros-dirigidos-por-la-iglesia-local&#34;&gt;Centros dirigidos por la iglesia local&lt;/h2&gt;&#xA;&lt;p&gt;CGV existe para servir a iglesias locales mediante formación bíblica seria, discipulado intencional y acompañamiento dentro del contexto de la iglesia local.&lt;/p&gt;&#xA;&lt;p&gt;Los Centros de Capacitación no buscan reemplazar la vida de la iglesia. Buscan ayudar a la iglesia a desarrollar espacios intencionales de formación bíblica dentro de su propio contexto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;por-la-iglesia-en-la-iglesia-para-la-iglesia&#34;&gt;Por la iglesia. En la iglesia. Para la iglesia.&lt;/h2&gt;&#xA;&lt;p&gt;El propósito del currículo es ayudar a iglesias locales a desarrollar creyentes:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>http://localhost:56910/contacto/</link>
+      <link>https://discipuladocgv.org/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/contacto/</guid>
+      <guid>https://discipuladocgv.org/contacto/</guid>
       <description>&lt;h2 id=&#34;hablemos&#34;&gt;Hablemos&lt;/h2&gt;&#xA;&lt;p&gt;Si su iglesia desea conocer más sobre CGV, descargar materiales, o explorar la posibilidad de implementar un Centro de Capacitación, puede comunicarse con nosotros.&lt;/p&gt;&#xA;&lt;p&gt;CGV existe para servir a iglesias locales mediante formación bíblica seria, discipulado intencional y acompañamiento dentro del contexto de la iglesia local.&lt;/p&gt;&#xA;&lt;h2 id=&#34;en-qué-podemos-ayudar&#34;&gt;¿En qué podemos ayudar?&lt;/h2&gt;&#xA;&lt;p&gt;Puede escribirnos si desea:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;conocer más sobre el currículo CGV,&lt;/li&gt;&#xA;&lt;li&gt;descargar o usar materiales en su iglesia,&lt;/li&gt;&#xA;&lt;li&gt;implementar un Centro de Capacitación,&lt;/li&gt;&#xA;&lt;li&gt;conversar sobre el camino sugerido de formación,&lt;/li&gt;&#xA;&lt;li&gt;o hacer una pregunta general sobre CGV.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;formulario-de-contacto&#34;&gt;Formulario de contacto&lt;/h2&gt;&#xA;&lt;form action=&#34;https://formspree.io/f/xrgwkrlq&#34; method=&#34;POST&#34; class=&#34;cgv-contact-form&#34;&gt;&#xA;&lt;p&gt;&lt;label&gt;Nombre&lt;/label&gt;&#xA;&lt;input type=&#34;text&#34; name=&#34;nombre&#34; required&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>El Camino Sugerido de Formación</title>
-      <link>http://localhost:56910/curriculo/</link>
+      <link>https://discipuladocgv.org/curriculo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/curriculo/</guid>
+      <guid>https://discipuladocgv.org/curriculo/</guid>
       <description>&lt;p&gt;El currículo CGV ha sido diseñado para desarrollar hacedores de discípulos mediante una secuencia intencional de formación bíblica dentro del contexto de la iglesia local.&lt;/p&gt;&#xA;&lt;p&gt;El orden sugerido busca ayudar a desarrollar:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Una cosmovisión bíblica sólida&lt;/li&gt;&#xA;&lt;li&gt;Claridad del evangelio&lt;/li&gt;&#xA;&lt;li&gt;Habilidades para leer y navegar el texto bíblico&lt;/li&gt;&#xA;&lt;li&gt;La centralidad del evangelio&lt;/li&gt;&#xA;&lt;li&gt;La suficiencia de Cristo&lt;/li&gt;&#xA;&lt;li&gt;Una visión bíblica de la iglesia&lt;/li&gt;&#xA;&lt;li&gt;Una comprensión bíblica de la profecía&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cómo-se-usa-este-camino&#34;&gt;Cómo se usa este camino&lt;/h2&gt;&#xA;&lt;p&gt;El camino presentado aquí no pretende imponer un calendario rígido. Su propósito es mostrar un orden sugerido para que las iglesias puedan usar el currículo de manera intencional dentro de su propio contexto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Implementación</title>
-      <link>http://localhost:56910/implementacion/</link>
+      <link>https://discipuladocgv.org/implementacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/implementacion/</guid>
+      <guid>https://discipuladocgv.org/implementacion/</guid>
       <description>&lt;h2 id=&#34;implementación-dentro-de-la-iglesia-local&#34;&gt;Implementación dentro de la iglesia local&lt;/h2&gt;&#xA;&lt;p&gt;CGV ha sido diseñado para servir a iglesias locales que desean desarrollar espacios intencionales de formación bíblica y discipulado.&lt;/p&gt;&#xA;&lt;p&gt;El currículo no busca reemplazar la vida normal de la iglesia, sino funcionar como una herramienta que ayude a la iglesia a desarrollar hacedores de discípulos dentro de su propio contexto.&lt;/p&gt;&#xA;&lt;h2 id=&#34;un-currículo-al-servicio-de-la-iglesia&#34;&gt;Un currículo al servicio de la iglesia&lt;/h2&gt;&#xA;&lt;p&gt;Los materiales y la secuencia sugerida de formación buscan ayudar a iglesias a:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nosotros</title>
-      <link>http://localhost:56910/nosotros/</link>
+      <link>https://discipuladocgv.org/nosotros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/nosotros/</guid>
+      <guid>https://discipuladocgv.org/nosotros/</guid>
       <description>&lt;h1 id=&#34;declaración-de-fe&#34;&gt;Declaración de Fe&lt;/h1&gt;&#xA;&lt;h2 id=&#34;las-santas-escrituras&#34;&gt;LAS SANTAS ESCRITURAS&lt;/h2&gt;&#xA;&lt;p&gt;Creemos que «toda la Escritura es inspirada por Dios”, por lo cual entendemos que toda la Biblia es inspirada en el sentido de que «los santos hombres de Dios fueron movidos por el Espíritu Santo» para escribir las palabras exactas de la Escritura. Creemos que esta inspiración divina se extiende igual y completamente a todas las partes de los escritos – históricos, poéticos, doctrinales y proféticos – a como aparecen en los manuscritos originales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Radio CGV</title>
-      <link>http://localhost:56910/radio/</link>
+      <link>https://discipuladocgv.org/radio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/radio/</guid>
+      <guid>https://discipuladocgv.org/radio/</guid>
       <description>&lt;h2 id=&#34;enseñanza-bíblica-diaria&#34;&gt;Enseñanza bíblica diaria&lt;/h2&gt;&#xA;&lt;p&gt;Radio CGV transmite enseñanza bíblica diaria como una extensión sencilla del deseo de servir a la iglesia local.&lt;/p&gt;&#xA;&lt;p&gt;No pretende ocupar el centro del sitio, sino ofrecer un medio adicional para escuchar enseñanza bíblica y acompañar la formación continua de creyentes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;escuchar-radio-cgv&#34;&gt;Escuchar Radio CGV&lt;/h2&gt;&#xA;&lt;div class=&#34;radio-player&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.radioking.io/cgv/?c=%23FFFFFF&amp;c2=%232ED573&amp;f=h&amp;i=0&amp;p=0&amp;s=0&amp;alb=0&amp;li=0&amp;popup=0&amp;plc=0&amp;h=undefined&amp;l=430&amp;v=2&#34; style=&#34;border-radius: 5px; width: 430px; max-width: 100%; height: 145px;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;https://player.radioking.io/scripts/iframe.bundle.js&#34;&gt;&lt;/script&gt;&#xA;&lt;p&gt;También puede escuchar Radio CGV aquí: &lt;a href=&#34;https://welove.radio/radio/cgv/&#34;&gt;welove.radio/radio/cgv&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;relación-con-cgv&#34;&gt;Relación con CGV&lt;/h2&gt;&#xA;&lt;p&gt;La radio acompaña el mismo propósito general de CGV: fomentar formación bíblica seria, discipulado intencional y atención cuidadosa a la Palabra de Dios dentro de la vida de la iglesia local.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ROOTS</title>
-      <link>http://localhost:56910/roots/</link>
+      <link>https://discipuladocgv.org/roots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56910/roots/</guid>
+      <guid>https://discipuladocgv.org/roots/</guid>
       <description>&lt;h2 id=&#34;permitir-que-la-escritura-hable&#34;&gt;Permitir que la Escritura hable&lt;/h2&gt;&#xA;&lt;p&gt;ROOTS existe para ayudar a creyentes a disminuir la velocidad, observar cuidadosamente el texto bíblico y permitir que la Escritura comunique su propio mensaje.&lt;/p&gt;&#xA;&lt;p&gt;No busca imponer estructuras teológicas sobre el texto ni promover un sistema de interpretación particular. El propósito es aprender a prestar atención a lo que el texto realmente dice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;roots-y-el-currículo-cgv&#34;&gt;ROOTS y el currículo CGV&lt;/h2&gt;&#xA;&lt;p&gt;ROOTS es el método principal utilizado para desarrollar el currículo CGV.&lt;/p&gt;</description>
     </item>
   </channel>
