@@ -1,0 +1,4120 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  23 MAY 2026 10:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**temp/student_manual.tex
+(./temp/student_manual.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(./manual_template.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen153
+\pgfutil@tempdimb=\dimen154
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\pgf@xd=\dimen165
+\pgf@yd=\dimen166
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count287
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count288
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count289
+\pgfsyssoftpath@bigbuffer@items=\count290
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen167
+\pgfmath@count=\count291
+\pgfmath@box=\box54
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count292
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen168
+\pgf@picmaxx=\dimen169
+\pgf@picminy=\dimen170
+\pgf@picmaxy=\dimen171
+\pgf@pathminx=\dimen172
+\pgf@pathmaxx=\dimen173
+\pgf@pathminy=\dimen174
+\pgf@pathmaxy=\dimen175
+\pgf@xx=\dimen176
+\pgf@xy=\dimen177
+\pgf@yx=\dimen178
+\pgf@yy=\dimen179
+\pgf@zx=\dimen180
+\pgf@zy=\dimen181
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen182
+\pgf@path@lasty=\dimen183
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen184
+\pgf@shorten@start@additional=\dimen185
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count293
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen186
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen187
+\pgf@pt@y=\dimen188
+\pgf@pt@temp=\dimen189
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen190
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen191
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box58
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box59
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count296
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikz@lastmovetox=\dimen257
+\tikz@lastmovetoy=\dimen258
+\tikzleveldistance=\dimen259
+\tikzsiblingdistance=\dimen260
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count297
+\tikznumberofchildren=\count298
+\tikznumberofcurrentchild=\count299
+\tikz@fig@count=\count300
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count301
+\pgfmatrixcurrentcolumn=\count302
+\pgf@matrix@numberofcolumns=\count303
+)
+\tikz@expandcount=\count304
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks31
+\verbatim@line=\toks32
+\verbatim@in@stream=\read3
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks33
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count305
+)
+\tcb@titlebox=\box64
+\tcb@upperbox=\box65
+\tcb@lowerbox=\box66
+\tcb@phantombox=\box67
+\c@tcbbreakpart=\count306
+\c@tcblayer=\count307
+\c@tcolorbox@number=\count308
+\l__tcobox_tmpa_box=\box68
+\l__tcobox_tmpa_dim=\dimen261
+\tcb@temp=\box69
+\tcb@temp=\box70
+\tcb@temp=\box71
+\tcb@temp=\box72
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.4.1'
+\c@tcbrastercolumn=\count309
+\c@tcbrasterrow=\count310
+\c@tcbrasternum=\count311
+\c@tcbraster=\count312
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.co
+de.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box73
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.4.1'
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
+)
+Package pdfcol Info: pdfTeX's color stacks are not available.
+\tcb@testbox=\box74
+\tcb@totalupperbox=\box75
+\tcb@totallowerbox=\box76
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.4.1'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen262
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen263
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count313
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count314
+\leftroot@=\count315
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count316
+\DOTSCASE@=\count317
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box77
+\strutbox@=\box78
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen264
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count318
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count319
+\dotsspace@=\muskip17
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks35
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks36
+\eqnshift@=\dimen265
+\alignsep@=\dimen266
+\tagshift@=\dimen267
+\tagwidth@=\dimen268
+\totwidth@=\dimen269
+\lineht@=\dimen270
+\@envbody=\toks37
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.4.1'
+\tcbfitdim=\dimen271
+\tcb@lowerfitdim=\dimen272
+\tcb@upperfitdim=\dimen273
+\tcb@cur@hbadness=\count325
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.te
+x
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count326
+\lst@gtempboxa=\box79
+\lst@token=\toks39
+\lst@length=\count327
+\lst@currlwidth=\dimen274
+\lst@column=\count328
+\lst@pos=\count329
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count330
+\lst@lineno=\count331
+\lst@maxwidth=\dimen277
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count332
+\lst@skipnumbers=\count333
+\lst@framebox=\box80
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.te
+x
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.4.1'
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.4.1'
+)
+\c@tcblisting=\count334
+))
+Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
+Library `listings` is loaded instead. on input line 29.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.4.1'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.4.1'
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.4.1'
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.4.1'
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count335
+\cp@tempcnt=\count336
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box81
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen278
+\ttl@minus=\dimen279
+\ttl@toksa=\toks40
+\titlewidth=\dimen280
+\titlewidthlast=\dimen281
+\titlewidthfirst=\dimen282
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box82
+\UL@hyphenbox=\box83
+\UL@skip=\skip56
+\UL@hook=\toks41
+\UL@height=\dimen283
+\UL@pe=\count337
+\UL@pixel=\dimen284
+\ULC@box=\box84
+Package: ulem 2019/11/18
+\ULdepth=\dimen285
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count338
+\LTcapwidth=\dimen286
+\LT@head=\box85
+\LT@firsthead=\box86
+\LT@foot=\box87
+\LT@lastfoot=\box88
+\LT@gbox=\box89
+\LT@cols=\count339
+\LT@rows=\count340
+\c@LT@tables=\count341
+\c@LT@chunks=\count342
+\LT@p@ftn=\toks42
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
+lper.sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
+e5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
+nput line 69.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd
+)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
+ input line 70.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.
+fd))) (/usr/local/texlive/2025/texmf-dist/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/xelatex/ucharclasses/ucharclasses.sty
+Package: ucharclasses 2022/10/20 v2.6.0 Unicode block character classes for XeL
+aTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\AegeanNumbersClass=\XeTeXcharclass1
+\AlphabeticPresentationFormsClass=\XeTeXcharclass2
+\AncientGreekMusicalNotationClass=\XeTeXcharclass3
+\AncientGreekNumbersClass=\XeTeXcharclass4
+\AncientSymbolsClass=\XeTeXcharclass5
+\ArabicClass=\XeTeXcharclass6
+\ArabicPresentationFormsAClass=\XeTeXcharclass7
+\ArabicPresentationFormsBClass=\XeTeXcharclass8
+\ArabicSupplementClass=\XeTeXcharclass9
+\ArmenianClass=\XeTeXcharclass10
+\ArrowsClass=\XeTeXcharclass11
+\BalineseClass=\XeTeXcharclass12
+\BasicLatinClass=\XeTeXcharclass13
+\BengaliClass=\XeTeXcharclass14
+\BlockElementsClass=\XeTeXcharclass15
+\BopomofoClass=\XeTeXcharclass16
+\BopomofoExtendedClass=\XeTeXcharclass17
+\BoxDrawingClass=\XeTeXcharclass18
+\BraillePatternsClass=\XeTeXcharclass19
+\BugineseClass=\XeTeXcharclass20
+\BuhidClass=\XeTeXcharclass21
+\ByzantineMusicalSymbolsClass=\XeTeXcharclass22
+\ChamClass=\XeTeXcharclass23
+\CherokeeClass=\XeTeXcharclass24
+\CJKCompatibilityClass=\XeTeXcharclass25
+\CJKCompatibilityFormsClass=\XeTeXcharclass26
+\CJKCompatibilityIdeographsClass=\XeTeXcharclass27
+\CJKCompatibilityIdeographsSupplementClass=\XeTeXcharclass28
+\CJKRadicalsSupplementClass=\XeTeXcharclass29
+\CJKStrokesClass=\XeTeXcharclass30
+\CJKSymbolsAndPunctuationClass=\XeTeXcharclass31
+\CJKUnifiedIdeographsClass=\XeTeXcharclass32
+\CJKUnifiedIdeographsExtensionAClass=\XeTeXcharclass33
+\CJKUnifiedIdeographsExtensionBClass=\XeTeXcharclass34
+\CombiningDiacriticalMarksClass=\XeTeXcharclass35
+\CombiningDiacriticalMarksForSymbolsClass=\XeTeXcharclass36
+\CombiningDiacriticalMarksSupplementClass=\XeTeXcharclass37
+\CombiningHalfMarksClass=\XeTeXcharclass38
+\ControlPicturesClass=\XeTeXcharclass39
+\CopticClass=\XeTeXcharclass40
+\CountingRodNumeralsClass=\XeTeXcharclass41
+\CuneiformClass=\XeTeXcharclass42
+\CuneiformNumbersAndPunctuationClass=\XeTeXcharclass43
+\CurrencySymbolsClass=\XeTeXcharclass44
+\CypriotSyllabaryClass=\XeTeXcharclass45
+\CyrillicClass=\XeTeXcharclass46
+\CyrillicExtendedAClass=\XeTeXcharclass47
+\CyrillicExtendedBClass=\XeTeXcharclass48
+\CyrillicSupplementClass=\XeTeXcharclass49
+\DeseretClass=\XeTeXcharclass50
+\DevanagariDanDaClass=\XeTeXcharclass51
+\DevanagariMarksClass=\XeTeXcharclass52
+\DevanagariPostDanDaClass=\XeTeXcharclass53
+\DevanagariPostMarksClass=\XeTeXcharclass54
+\DevanagariPreMarksClass=\XeTeXcharclass55
+\DingbatsClass=\XeTeXcharclass56
+\DominoTilesClass=\XeTeXcharclass57
+\EnclosedAlphanumericsClass=\XeTeXcharclass58
+\EnclosedCJKLettersAndMonthsClass=\XeTeXcharclass59
+\EthiopicClass=\XeTeXcharclass60
+\EthiopicExtendedClass=\XeTeXcharclass61
+\EthiopicSupplementClass=\XeTeXcharclass62
+\GeneralPunctuationClass=\XeTeXcharclass63
+\GeometricShapesClass=\XeTeXcharclass64
+\GeorgianClass=\XeTeXcharclass65
+\GeorgianSupplementClass=\XeTeXcharclass66
+\GlagoliticClass=\XeTeXcharclass67
+\GreekAndCopticClass=\XeTeXcharclass68
+\GreekExtendedClass=\XeTeXcharclass69
+\GujaratiClass=\XeTeXcharclass70
+\GurmukhiClass=\XeTeXcharclass71
+\HalfwidthAndFullwidthFormsClass=\XeTeXcharclass72
+\HangulCompatibilityJamoClass=\XeTeXcharclass73
+\HangulJamoClass=\XeTeXcharclass74
+\HangulSyllablesClass=\XeTeXcharclass75
+\HanunooClass=\XeTeXcharclass76
+\HebrewClass=\XeTeXcharclass77
+\HiraganaClass=\XeTeXcharclass78
+\IdeographicDescriptionCharactersClass=\XeTeXcharclass79
+\IPAExtensionsClass=\XeTeXcharclass80
+\KanbunClass=\XeTeXcharclass81
+\KangxiRadicalsClass=\XeTeXcharclass82
+\KannadaClass=\XeTeXcharclass83
+\KatakanaClass=\XeTeXcharclass84
+\KatakanaPhoneticExtensionsClass=\XeTeXcharclass85
+\KayahLiClass=\XeTeXcharclass86
+\KhmerClass=\XeTeXcharclass87
+\KhmerSymbolsClass=\XeTeXcharclass88
+\LaoClass=\XeTeXcharclass89
+\LatinExtendedAdditionalClass=\XeTeXcharclass90
+\LatinExtendedAClass=\XeTeXcharclass91
+\LatinExtendedBClass=\XeTeXcharclass92
+\LatinExtendedCClass=\XeTeXcharclass93
+\LatinExtendedDClass=\XeTeXcharclass94
+\LatinSupplementClass=\XeTeXcharclass95
+\LepchaClass=\XeTeXcharclass96
+\LetterlikeSymbolsClass=\XeTeXcharclass97
+\LimbuClass=\XeTeXcharclass98
+\LinearBIdeogramsClass=\XeTeXcharclass99
+\LinearBSyllabaryClass=\XeTeXcharclass100
+\MahjongTilesClass=\XeTeXcharclass101
+\MalayalamClass=\XeTeXcharclass102
+\MathematicalAlphanumericSymbolsClass=\XeTeXcharclass103
+\MathematicalOperatorsClass=\XeTeXcharclass104
+\MiscellaneousMathematicalSymbolsAClass=\XeTeXcharclass105
+\MiscellaneousMathematicalSymbolsBClass=\XeTeXcharclass106
+\MiscellaneousSymbolsClass=\XeTeXcharclass107
+\MiscellaneousSymbolsAndArrowsClass=\XeTeXcharclass108
+\MiscellaneousTechnicalClass=\XeTeXcharclass109
+\ModifierToneLettersClass=\XeTeXcharclass110
+\MongolianClass=\XeTeXcharclass111
+\MusicalSymbolsClass=\XeTeXcharclass112
+\MyanmarClass=\XeTeXcharclass113
+\NewTaiLueClass=\XeTeXcharclass114
+\NKoClass=\XeTeXcharclass115
+\NumberFormsClass=\XeTeXcharclass116
+\OghamClass=\XeTeXcharclass117
+\OlChikiClass=\XeTeXcharclass118
+\OldPersianClass=\XeTeXcharclass119
+\OpticalCharacterRecognitionClass=\XeTeXcharclass120
+\OriyaClass=\XeTeXcharclass121
+\OsmanyaClass=\XeTeXcharclass122
+\PhagsPaClass=\XeTeXcharclass123
+\PhoenicianClass=\XeTeXcharclass124
+\PhoneticExtensionsClass=\XeTeXcharclass125
+\PhoneticExtensionsSupplementClass=\XeTeXcharclass126
+\PrivateUseAreaClass=\XeTeXcharclass127
+\RejangClass=\XeTeXcharclass128
+\RunicClass=\XeTeXcharclass129
+\SaurashtraClass=\XeTeXcharclass130
+\ShavianClass=\XeTeXcharclass131
+\SinhalaClass=\XeTeXcharclass132
+\SmallFormVariantsClass=\XeTeXcharclass133
+\SpacingModifierLettersClass=\XeTeXcharclass134
+\SundaneseClass=\XeTeXcharclass135
+\SuperscriptsAndSubscriptsClass=\XeTeXcharclass136
+\SupplementalArrowsAClass=\XeTeXcharclass137
+\SupplementalArrowsBClass=\XeTeXcharclass138
+\SupplementalMathematicalOperatorsClass=\XeTeXcharclass139
+\SupplementalPunctuationClass=\XeTeXcharclass140
+\SylotiNagriClass=\XeTeXcharclass141
+\SyriacClass=\XeTeXcharclass142
+\TagalogClass=\XeTeXcharclass143
+\TagbanwaClass=\XeTeXcharclass144
+\TagsClass=\XeTeXcharclass145
+\TaiLeClass=\XeTeXcharclass146
+\TaiXuanJingSymbolsClass=\XeTeXcharclass147
+\TamilClass=\XeTeXcharclass148
+\TeluguClass=\XeTeXcharclass149
+\ThaanaClass=\XeTeXcharclass150
+\ThaiClass=\XeTeXcharclass151
+\TibetanClass=\XeTeXcharclass152
+\TifinaghClass=\XeTeXcharclass153
+\UgariticClass=\XeTeXcharclass154
+\UnifiedCanadianAboriginalSyllabicsClass=\XeTeXcharclass155
+\VaiClass=\XeTeXcharclass156
+\VerticalFormsClass=\XeTeXcharclass157
+\YiRadicalsClass=\XeTeXcharclass158
+\YiSyllablesClass=\XeTeXcharclass159
+\YijingHexagramSymbolsClass=\XeTeXcharclass160
+\AvestanClass=\XeTeXcharclass161
+\BamumClass=\XeTeXcharclass162
+\CJKUnifiedIdeographsExtensionCClass=\XeTeXcharclass163
+\CommonIndicNumberFormsClass=\XeTeXcharclass164
+\DevanagariExtendedClass=\XeTeXcharclass165
+\EgyptianHieroglyphsClass=\XeTeXcharclass166
+\EnclosedAlphanumericSupplementClass=\XeTeXcharclass167
+\EnclosedIdeographicSupplementClass=\XeTeXcharclass168
+\HangulJamoExtendedAClass=\XeTeXcharclass169
+\HangulJamoExtendedBClass=\XeTeXcharclass170
+\ImperialAramaicClass=\XeTeXcharclass171
+\InscriptionalPahlaviClass=\XeTeXcharclass172
+\InscriptionalParthianClass=\XeTeXcharclass173
+\JavaneseClass=\XeTeXcharclass174
+\KaithiClass=\XeTeXcharclass175
+\LisuClass=\XeTeXcharclass176
+\MeeteiMayekClass=\XeTeXcharclass177
+\MyanmarExtendedAClass=\XeTeXcharclass178
+\RumiNumeralSymbolsClass=\XeTeXcharclass179
+\SamaritanClass=\XeTeXcharclass180
+\TaiThamClass=\XeTeXcharclass181
+\TaiVietClass=\XeTeXcharclass182
+\UnifiedCanadianAboriginalSyllabicsExtendedClass=\XeTeXcharclass183
+\VedicExtensionsClass=\XeTeXcharclass184
+\AlchemicalSymbolsClass=\XeTeXcharclass185
+\BamumSupplementClass=\XeTeXcharclass186
+\BatakClass=\XeTeXcharclass187
+\BrahmiClass=\XeTeXcharclass188
+\CJKUnifiedIdeographsExtensionDClass=\XeTeXcharclass189
+\EmoticonsClass=\XeTeXcharclass190
+\EthiopicExtendedAClass=\XeTeXcharclass191
+\KanaSupplementClass=\XeTeXcharclass192
+\MandaicClass=\XeTeXcharclass193
+\MiscellaneousSymbolsAndPictographsClass=\XeTeXcharclass194
+\PlayingCardsClass=\XeTeXcharclass195
+\TransportAndMapSymbolsClass=\XeTeXcharclass196
+\ArabicExtendedAClass=\XeTeXcharclass197
+\ArabicMathematicalAlphabeticSymbolsClass=\XeTeXcharclass198
+\ChakmaClass=\XeTeXcharclass199
+\MeeteiMayekExtensionsClass=\XeTeXcharclass200
+\MeroiticCursiveClass=\XeTeXcharclass201
+\MeroiticHieroglyphsClass=\XeTeXcharclass202
+\MiaoClass=\XeTeXcharclass203
+\SharadaClass=\XeTeXcharclass204
+\SoraSompengClass=\XeTeXcharclass205
+\SundaneseSupplementClass=\XeTeXcharclass206
+\TakriClass=\XeTeXcharclass207
+\BassaVahClass=\XeTeXcharclass208
+\CaucasianAlbanianClass=\XeTeXcharclass209
+\CombiningDiacriticalMarksExtendedClass=\XeTeXcharclass210
+\CopticEpactNumbersClass=\XeTeXcharclass211
+\ElbasanClass=\XeTeXcharclass212
+\GeometricShapesExtendedClass=\XeTeXcharclass213
+\GranthaClass=\XeTeXcharclass214
+\KhojkiClass=\XeTeXcharclass215
+\KhudawadiClass=\XeTeXcharclass216
+\LatinExtendedEClass=\XeTeXcharclass217
+\LinearAClass=\XeTeXcharclass218
+\MahajaniClass=\XeTeXcharclass219
+\MendeKikakuiClass=\XeTeXcharclass220
+\ModiClass=\XeTeXcharclass221
+\MroClass=\XeTeXcharclass222
+\MyanmarExtendedBClass=\XeTeXcharclass223
+\OrnamentalDingbatsClass=\XeTeXcharclass224
+\PahawhHmongClass=\XeTeXcharclass225
+\PauCinHauClass=\XeTeXcharclass226
+\SiddhamClass=\XeTeXcharclass227
+\SinhalaArchaicNumbersClass=\XeTeXcharclass228
+\SupplementalArrowsCClass=\XeTeXcharclass229
+\TirhutaClass=\XeTeXcharclass230
+\WarangCitiClass=\XeTeXcharclass231
+\CherokeeSupplementClass=\XeTeXcharclass232
+\CJKUnifiedIdeographsExtensionEClass=\XeTeXcharclass233
+\SupplementalSymbolsAndPictographsClass=\XeTeXcharclass234
+\CyrillicExtendedCClass=\XeTeXcharclass235
+\GlagoliticSupplementClass=\XeTeXcharclass236
+\IdeographicSymbolsAndPunctuationClass=\XeTeXcharclass237
+\MongolianSupplementClass=\XeTeXcharclass238
+\CJKUnifiedIdeographsExtensionFClass=\XeTeXcharclass239
+\KanaExtendedAClass=\XeTeXcharclass240
+\SyriacSupplementClass=\XeTeXcharclass241
+\GeorgianExtendedClass=\XeTeXcharclass242
+\SmallKanaExtensionClass=\XeTeXcharclass243
+\SymbolsAndPictographsExtendedAClass=\XeTeXcharclass244
+\CJKUnifiedIdeographsExtensionGClass=\XeTeXcharclass245
+\ArabicExtendedBClass=\XeTeXcharclass246
+\EthiopicExtendedBClass=\XeTeXcharclass247
+\KanaExtendedBClass=\XeTeXcharclass248
+\LatinExtendedFClass=\XeTeXcharclass249
+\LatinExtendedGClass=\XeTeXcharclass250
+\UnifiedCanadianAboriginalSyllabicsExtendedAClass=\XeTeXcharclass251
+\ArabicExtendedCClass=\XeTeXcharclass252
+\CJKUnifiedIdeographsExtensionHClass=\XeTeXcharclass253
+\CyrillicExtendedDClass=\XeTeXcharclass254
+\DevanagariExtendedAClass=\XeTeXcharclass255
+\CarianClass=\XeTeXcharclass256
+\GothicClass=\XeTeXcharclass257
+\KharoshthiClass=\XeTeXcharclass258
+\LycianClass=\XeTeXcharclass259
+\LydianClass=\XeTeXcharclass260
+\OldItalicClass=\XeTeXcharclass261
+\PhaistosDiscClass=\XeTeXcharclass262
+\SupplementaryPrivateUseAreaAClass=\XeTeXcharclass263
+\SupplementaryPrivateUseAreaBClass=\XeTeXcharclass264
+\OldSouthArabianClass=\XeTeXcharclass265
+\OldTurkicClass=\XeTeXcharclass266
+\DuployanClass=\XeTeXcharclass267
+\ManichaeanClass=\XeTeXcharclass268
+\NabataeanClass=\XeTeXcharclass269
+\OldNorthArabianClass=\XeTeXcharclass270
+\OldPermicClass=\XeTeXcharclass271
+\PalmyreneClass=\XeTeXcharclass272
+\PsalterPahlaviClass=\XeTeXcharclass273
+\ShorthandFormatControlsClass=\XeTeXcharclass274
+\AhomClass=\XeTeXcharclass275
+\AnatolianHieroglyphsClass=\XeTeXcharclass276
+\EarlyDynasticCuneiformClass=\XeTeXcharclass277
+\HatranClass=\XeTeXcharclass278
+\MultaniClass=\XeTeXcharclass279
+\OldHungarianClass=\XeTeXcharclass280
+\SuttonSignWritingClass=\XeTeXcharclass281
+\AdlamClass=\XeTeXcharclass282
+\BhaiksukiClass=\XeTeXcharclass283
+\MarchenClass=\XeTeXcharclass284
+\NewaClass=\XeTeXcharclass285
+\OsageClass=\XeTeXcharclass286
+\TangutClass=\XeTeXcharclass287
+\TangutComponentsClass=\XeTeXcharclass288
+\MasaramGondiClass=\XeTeXcharclass289
+\NushuClass=\XeTeXcharclass290
+\SoyomboClass=\XeTeXcharclass291
+\ZanabazarSquareClass=\XeTeXcharclass292
+\ChessSymbolsClass=\XeTeXcharclass293
+\DograClass=\XeTeXcharclass294
+\GunjalaGondiClass=\XeTeXcharclass295
+\HanifiRohingyaClass=\XeTeXcharclass296
+\IndicSiyaqNumbersClass=\XeTeXcharclass297
+\MakasarClass=\XeTeXcharclass298
+\MayanNumeralsClass=\XeTeXcharclass299
+\MedefaidrinClass=\XeTeXcharclass300
+\OldSogdianClass=\XeTeXcharclass301
+\SogdianClass=\XeTeXcharclass302
+\EgyptianHieroglyphFormatControlsClass=\XeTeXcharclass303
+\ElymaicClass=\XeTeXcharclass304
+\NandinagariClass=\XeTeXcharclass305
+\NyiakengPuachueHmongClass=\XeTeXcharclass306
+\OttomanSiyaqNumbersClass=\XeTeXcharclass307
+\TamilSupplementClass=\XeTeXcharclass308
+\WanchoClass=\XeTeXcharclass309
+\ChorasmianClass=\XeTeXcharclass310
+\DivesAkuruClass=\XeTeXcharclass311
+\KhitanSmallScriptClass=\XeTeXcharclass312
+\LisuSupplementClass=\XeTeXcharclass313
+\SymbolsForLegacyComputingClass=\XeTeXcharclass314
+\TangutSupplementClass=\XeTeXcharclass315
+\YezidiClass=\XeTeXcharclass316
+\CyproMinoanClass=\XeTeXcharclass317
+\OldUighurClass=\XeTeXcharclass318
+\TangsaClass=\XeTeXcharclass319
+\TotoClass=\XeTeXcharclass320
+\VithkuqiClass=\XeTeXcharclass321
+\ZnamennyMusicalNotationClass=\XeTeXcharclass322
+\KaktovikNumeralsClass=\XeTeXcharclass323
+\KawiClass=\XeTeXcharclass324
+\NagMundariClass=\XeTeXcharclass325
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'GentiumPlus(0)' created for font 'Gentium
+(fontspec)             Plus' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Gentium
+(fontspec)             Plus/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Gentium
+(fontspec)             Plus/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Gentium
+(fontspec)             Plus/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Gentium Plus/B/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Gentium
+(fontspec)             Plus/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Gentium Plus/I/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Gentium
+(fontspec)             Plus/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Gentium
+(fontspec)             Plus/BI/OT:script=latn;language=dflt;+smcp;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'IBMPlexSerif(0)' created for font 'IBM
+(fontspec)             Plex Serif' with options [Ligatures=TeX,Path =
+(fontspec)             /Users/johnwry/Library/Fonts/,Ligatures=TeX,UprightFont
+(fontspec)             = IBMPlexSerif-Regular.ttf,ItalicFont =
+(fontspec)             IBMPlexSerif-Italic.ttf,BoldFont =
+(fontspec)             IBMPlexSerif-SemiBold.ttf,BoldItalicFont =
+(fontspec)             IBMPlexSerif-BoldItalic.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-Regular.t
+tf]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-SemiBold.
+ttf]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-Italic.tt
+f]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-BoldItali
+c.ttf]/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'IBMPlexSerif(1)' created for font
+(fontspec)             'IBMPlexSerif' with options [Path =
+(fontspec)             /Users/johnwry/Library/Fonts/,UprightFont =
+(fontspec)             *-Light.ttf,ItalicFont = *-LightItalic.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-Light.ttf
+]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-LightItal
+ic.ttf]/OT:script=latn;language=dflt;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'IBMPlexSerif(2)' created for font
+(fontspec)             'IBMPlexSerif' with options [Path =
+(fontspec)             /Users/johnwry/Library/Fonts/,UprightFont =
+(fontspec)             *-Regular.ttf,ItalicFont = *-MediumItalic.ttf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-Regular.t
+tf]/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[/Users/johnwry/Library/Fonts/IBMPlexSerif-MediumIta
+lic.ttf]/OT:script=latn;language=dflt;"
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip61
+\fb@frw=\dimen287
+\fb@frh=\dimen288
+\FrameRule=\dimen289
+\FrameSep=\dimen290
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count343
+\FV@InFile=\read4
+\FV@TabBox=\box90
+\c@FancyVerbLine=\count344
+\FV@StepNumber=\count345
+\FV@OutFile=\write4
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip62
+\enit@outerparindent=\dimen291
+\enit@toks=\toks43
+\enit@inbox=\box91
+\enit@count@id=\count346
+\enitdp@description=\count347
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip63
+\cftbeforetoctitleskip=\skip64
+\cftaftertoctitleskip=\skip65
+\cftbeforepartskip=\skip66
+\cftpartnumwidth=\skip67
+\cftpartindent=\skip68
+\cftbeforesecskip=\skip69
+\cftsecindent=\skip70
+\cftsecnumwidth=\skip71
+\cftbeforesubsecskip=\skip72
+\cftsubsecindent=\skip73
+\cftsubsecnumwidth=\skip74
+\cftbeforesubsubsecskip=\skip75
+\cftsubsubsecindent=\skip76
+\cftsubsubsecnumwidth=\skip77
+\cftbeforeparaskip=\skip78
+\cftparaindent=\skip79
+\cftparanumwidth=\skip80
+\cftbeforesubparaskip=\skip81
+\cftsubparaindent=\skip82
+\cftsubparanumwidth=\skip83
+\cftbeforeloftitleskip=\skip84
+\cftafterloftitleskip=\skip85
+\cftbeforefigskip=\skip86
+\cftfigindent=\skip87
+\cftfignumwidth=\skip88
+\c@lofdepth=\count348
+\c@lotdepth=\count349
+\cftbeforelottitleskip=\skip89
+\cftafterlottitleskip=\skip90
+\cftbeforetabskip=\skip91
+\cfttabindent=\skip92
+\cfttabnumwidth=\skip93
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2025/03/04 v1.12.0 fvextra - extensions and patches for fancyv
+rb
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2025/01/29 line numbers on paragraphs v5.4
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count350
+\output=\toks44
+\linenoprevgraf=\count351
+\linenumbersep=\dimen292
+\linenumberwidth=\dimen293
+\c@linenumber=\count352
+\c@pagewiselinenumber=\count353
+\c@LN@truepage=\count354
+\c@internallinenumber=\count355
+\c@internallinenumbers=\count356
+\quotelinenumbersep=\dimen294
+\bframerule=\dimen295
+\bframesep=\dimen296
+\bframebox=\box92
+\@LN@amsmath@ams@eqpen=\count357
+LaTeX Info: Redefining \\ on input line 3187.
+)
+\c@FancyVerbWriteLine=\count358
+\c@FancyVerbBufferLine=\count359
+\c@FV@TrueTabGroupLevel=\count360
+\c@FV@TrueTabCounter=\count361
+\FV@TabBox@Group=\box93
+\FV@bgcolorstructbox=\box94
+\FV@TmpLength=\skip94
+\c@FV@HighlightLinesStart=\count362
+\c@FV@HighlightLinesStop=\count363
+\FV@LoopCount=\count364
+\FV@NCharsBox=\box95
+\FV@BreakIndent=\dimen297
+\FV@BreakIndentNChars=\count365
+\FV@BreakSymbolSepLeft=\dimen298
+\FV@BreakSymbolSepLeftNChars=\count366
+\FV@BreakSymbolSepRight=\dimen299
+\FV@BreakSymbolSepRightNChars=\count367
+\FV@BreakSymbolIndentLeft=\dimen300
+\FV@BreakSymbolIndentLeftNChars=\count368
+\FV@BreakSymbolIndentRight=\dimen301
+\FV@BreakSymbolIndentRightNChars=\count369
+\c@FancyVerbLineBreakLast=\count370
+\FV@LineBox=\box96
+\FV@LineIndentBox=\box97
+\c@FV@BreakBufferDepth=\count371
+\FV@LineWidth=\dimen302
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count372
+\float@exts=\toks45
+\float@box=\box98
+\@float@everytoks=\toks46
+\@floatcapt=\box99
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen303
+\captionmargin=\dimen304
+\caption@leftmargin=\dimen305
+\caption@rightmargin=\dimen306
+\caption@width=\dimen307
+\caption@indent=\dimen308
+\caption@parindent=\dimen309
+\caption@hangindent=\dimen310
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count373
+\c@continuedfloat=\count374
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen311
+\caption@adjustwidth@linewidth=\dimen312
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TeXGyreTermes(0)' created for font 'TeX
+(fontspec)             Gyre Termes' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"TeX
+(fontspec)             Gyre Termes/B/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/I/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"TeX Gyre
+(fontspec)             Termes/BI/OT:script=latn;language=dflt;+smcp;"
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen313
+\ESO@tempdimb=\dimen314
+)
+\c@none=\count375
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen315
+\lightrulewidth=\dimen316
+\cmidrulewidth=\dimen317
+\belowrulesep=\dimen318
+\belowbottomsep=\dimen319
+\aboverulesep=\dimen320
+\abovetopsep=\dimen321
+\cmidrulesep=\dimen322
+\cmidrulekern=\dimen323
+\defaultaddspace=\dimen324
+\@cmidla=\count376
+\@cmidlb=\count377
+\@aboverulesep=\dimen325
+\@belowrulesep=\dimen326
+\@thisruleclass=\count378
+\@lastruleclass=\count379
+\@thisrulewidth=\dimen327
+)
+(./outline.tex
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count380
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen328
+\Hy@linkcounter=\count381
+\Hy@pagecounter=\count382
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count383
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count384
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen329
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count385
+\Field@Width=\dimen330
+\Fld@charsize=\dimen331
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count386
+\c@Item=\count387
+\c@Hfootnote=\count388
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box100
+\c@Hy@AnnotLevel=\count389
+\HyField@AnnotCount=\count390
+\Fld@listcount=\count391
+\c@bookmark@seq@number=\count392
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip95
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language90
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip96
+\f@nch@offset@elh=\skip97
+\f@nch@offset@erh=\skip98
+\f@nch@offset@olh=\skip99
+\f@nch@offset@orh=\skip100
+\f@nch@offset@elf=\skip101
+\f@nch@offset@erf=\skip102
+\f@nch@offset@olf=\skip103
+\f@nch@offset@orf=\skip104
+\f@nch@height=\skip105
+\f@nch@footalignment=\skip106
+\f@nch@widthL=\skip107
+\f@nch@widthC=\skip108
+\f@nch@widthR=\skip109
+\@temptokenb=\toks47
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 168.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 168.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less.
+(fancyhdr)                Please consider using the `twoside' option on input l
+ine 173.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
+\FN@temptoken=\toks48
+\footnotemargin=\dimen332
+\@outputbox@depth=\dimen333
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
+.
+)))
+\fillinwidth=\skip110
+
+(temp/student_manual.aux)
+\openout1 = `student_manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(39.74872pt, 491.43623pt, 83.11005pt)
+* v-part:(T,H,B)=(61.42993pt, 672.11012pt, 61.42993pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=491.43623pt
+* \textheight=672.11012pt
+* \oddsidemargin=-32.52127pt
+* \evensidemargin=-32.52127pt
+* \topmargin=-47.84006pt
+* \headheight=14.0pt
+* \headsep=18.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 27
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/m/n on input line 2
+7.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/m/n on in
+put line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/IBMPlexSerif(0)/m/it on input line 
+27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/b/n on input line 2
+7.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/b/n on in
+put line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/IBMPlexSerif(0)/b/it on input line
+ 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
+\c@lstlisting=\count393
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 27.
+(temp/student_manual.out) (temp/student_manual.out)
+\@outlinefile=\write5
+\openout5 = `student_manual.out'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.1381pt
+* \headheight=14.0pt
+* \headsep=18.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: images/cgv.png Graphic file (type bmp)
+<images/cgv.png>
+
+
+[1
+
+
+
+]
+Overfull \hbox (1.60722pt too wide) in paragraph at lines 66--67
+[]\TU/TeXGyreTermes(0)/m/n/10 Este manual ha sido desarrollado para enseñar la 
+Escritura de manera textual, progresiva y consciente del lenguaje.
+ []
+
+
+
+[2
+
+] (temp/student_manual.toc)
+\tf@toc=\write6
+\openout6 = `student_manual.toc'.
+
+
+
+[3
+
+]
+
+[4
+
+]
+Overfull \hbox (26.64265pt too wide) in paragraph at lines 216--216
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Uno de los aspectos más fascinantes de Corinto 
+era el sistema de cruce terrestre de |   [].[] 
+ []
+
+
+Overfull \hbox (14.55101pt too wide) in paragraph at lines 260--260
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Pero Pablo continuamente redefine la realidad d
+esde la cruz, el cuerpo, el amor, la |   [],
+ []
+
+
+
+[5]
+Overfull \hbox (10.97319pt too wide) in paragraph at lines 325--325
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Precisamente allí comienza a desarrollarse una 
+de las tensiones más profundas de |   []
+ []
+
+
+Overfull \hbox (11.2703pt too wide) in paragraph at lines 327--327
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios poseen muchas realidades verdader
+as en Cristo, pero continuamente parecen
+ []
+
+
+
+[6]
+
+[7]
+
+[8]
+Overfull \hbox (5.07181pt too wide) in paragraph at lines 645--645
+[]\TU/IBMPlexSerif(0)/m/n/10.95 A lo largo de |   [] la carta, Pablo parece lle
+var a los corintios hacia una misma realidad:[] 
+ []
+
+
+
+[9]
+Overfull \hbox (14.67064pt too wide) in paragraph at lines 695--695
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo describe su apostolado |   [] resultado 
+de un llamado y no como algo buscado
+ []
+
+
+
+[10]
+Overfull \hbox (3.23154pt too wide) in paragraph at lines 801--801
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La iglesia en Corinto también es descrita como
+ |   [] que han sido santificados
+ []
+
+
+
+[11]
+Overfull \hbox (11.28128pt too wide) in paragraph at lines 859--859
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto no es presentado solamente para los corin
+tios, sino para |   [] los que invocan
+ []
+
+
+
+[12]
+Overfull \hbox (32.94252pt too wide) in paragraph at lines 953--953
+ \TU/IBMPlexSerif(0)/m/n/10.95 iglesia donde verdaderamente existía participaci
+ón en |   [] cosas relacionadas
+ []
+
+
+Overfull \hbox (14.3641pt too wide) in paragraph at lines 988--991
+\TU/IBMPlexSerif(0)/m/n/10.95 son descritos como resultado de la |   [] de Dios
+ y no del mérito humano.
+ []
+
+
+
+[13]
+Overfull \hbox (13.864pt too wide) in paragraph at lines 1009--1009
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no presenta a la |   [] en Corinto como 
+vacía de participación espiritual.[] 
+ []
+
+
+Overfull \hbox (32.65201pt too wide) in paragraph at lines 1029--1029
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El enriquecimiento mencionado no es descrito e
+n términos materiales, sino en |   []
+ []
+
+
+Overfull \hbox (6.56764pt too wide) in paragraph at lines 1033--1033
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Desde el inicio Pablo reconoce que |   [] cosa
+s verdaderamente existían entre
+ []
+
+
+Overfull \hbox (2.2278pt too wide) in paragraph at lines 1049--1049
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Cristo es presentado como aquel en |   [] se e
+ncuentra la verdadera riqueza.[] 
+ []
+
+
+Overfull \hbox (14.7911pt too wide) in paragraph at lines 1063--1063
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El conector ”así como” conecta |   [] afirmaci
+ón con el enriquecimiento mencionado
+ []
+
+
+
+[14]
+Overfull \hbox (0.11446pt too wide) in paragraph at lines 1095--1095
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta afirmación es presentada como resultado d
+e la |   [] y del enriquecimiento
+ []
+
+
+
+[15]
+Overfull \hbox (1.24236pt too wide) in paragraph at lines 1170--1172
+[]\TU/IBMPlexSerif(0)/m/n/10.95 y la seguridad asociada a |   [] que Dios mismo
+ había comenzado entre
+ []
+
+
+Overfull \hbox (4.08932pt too wide) in paragraph at lines 1178--1178
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios son descritos como confirmados i
+rreprensibles para el |   [] del Señor
+ []
+
+
+Overfull \hbox (17.0687pt too wide) in paragraph at lines 1180--1180
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El día del |   [] Jesucristo corresponde al ev
+ento futuro mencionado anteriormente
+ []
+
+
+Overfull \hbox (2.70961pt too wide) in paragraph at lines 1214--1214
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios fueron llamados por medio de Dio
+s a la comunión con Su Hijo Jesucristo. 
+ []
+
+
+Overfull \hbox (16.18541pt too wide) in paragraph at lines 1216--1216
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo describe el llamado de Dios como un llam
+ado a la comunión con Su Hijo Jesucristo. 
+ []
+
+
+
+[16]
+Overfull \hbox (46.25966pt too wide) in paragraph at lines 1239--1254
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo reconoce que en Corinto existían riquezas es
+pirituales reales: palabra, conocimiento,
+ []
+
+
+
+[17]
+Overfull \hbox (37.23856pt too wide) in paragraph at lines 1306--1306
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que estaba ocurriendo en Corinto probableme
+nte no se |   [] necesariamente
+ []
+
+
+Overfull \hbox (16.5249pt too wide) in paragraph at lines 1317--1321
+\TU/IBMPlexSerif(0)/m/n/10.95 podía parecer natural e incluso correcto dentro d
+e una cultura donde la sabiduría,
+ []
+
+
+Overfull \hbox (2.97968pt too wide) in paragraph at lines 1369--1369
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión ”enteramente unidos” describe alg
+o que debía reflejarse continuamente
+ []
+
+
+Overfull \hbox (9.29932pt too wide) in paragraph at lines 1373--1373
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ya no solamente se trata de hablar de manera u
+nánime, sino también de comprenderse
+ []
+
+
+Overfull \hbox (15.54663pt too wide) in paragraph at lines 1375--1375
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo desea que exista unidad tanto en lo que 
+dicen como en la manera en que entienden
+ []
+
+
+
+[18]
+Overfull \hbox (11.5842pt too wide) in paragraph at lines 1459--1459
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no presenta \TU/IBMPlexSerif(0)/b/n/10.9
+5 esto \TU/IBMPlexSerif(0)/m/n/10.95 como un peligro futuro, sino como algo que
+ ya estaba ocurriendo
+ []
+
+
+
+[19]
+Overfull \hbox (15.9445pt too wide) in paragraph at lines 1495--1495
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La manera de hablar de los corintios mostraba 
+que estaban comenzando a definirse:[] 
+ []
+
+
+Overfull \hbox (1.41388pt too wide) in paragraph at lines 1518--1522
+\TU/IBMPlexSerif(0)/m/n/10.95 este tipo de identificaciones podía parecer compl
+etamente razonable e incluso
+ []
+
+
+
+[20]
+Overfull \hbox (36.19838pt too wide) in paragraph at lines 1558--1561
+\TU/IBMPlexSerif(0)/m/n/10.95 puede reflejar el mismo ambiente de identificació
+n separada que estaba produciendo
+ []
+
+
+Overfull \hbox (6.27565pt too wide) in paragraph at lines 1577--1577
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo expone que el problema de los corintios 
+venía de no considerarse correctamente
+ []
+
+
+Overfull \hbox (16.91539pt too wide) in paragraph at lines 1581--1581
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza a confrontar directamente la ma
+nera en que estaban interpretando:[] 
+ []
+
+
+
+[21]
+Overfull \hbox (26.77768pt too wide) in paragraph at lines 1649--1649
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ambas preguntas exponen que las cosas fundamen
+tales que habían recibido no provenían
+ []
+
+
+Overfull \hbox (0.70576pt too wide) in paragraph at lines 1700--1700
+[]\TU/IBMPlexSerif(0)/m/n/10.95 La manera en que los corintios estaban organiza
+ndo sus identificaciones no correspondía
+ []
+
+
+
+[22]
+
+[23]
+Overfull \hbox (22.96346pt too wide) in paragraph at lines 1802--1802
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No buscaba impresionar a los corintios con hab
+ilidad humana ni con discursos atractivos. 
+ []
+
+
+Overfull \hbox (41.73907pt too wide) in paragraph at lines 1817--1821
+\TU/IBMPlexSerif(0)/m/n/10.95 un mensaje acompañado de gran habilidad humana po
+día parecer más impresionante
+ []
+
+
+
+[24]
+Overfull \hbox (7.1825pt too wide) in paragraph at lines 1876--1892
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo confronta las divisiones en Corinto recordán
+doles que su identidad verdadera
+ []
+
+
+Overfull \hbox (2.67981pt too wide) in paragraph at lines 1876--1892
+\TU/IBMPlexSerif(0)/m/n/11 - Las discusiones y separaciones revelaban una maner
+a de pensar y evaluarse según
+ []
+
+
+Overfull \hbox (11.79074pt too wide) in paragraph at lines 1876--1892
+\TU/IBMPlexSerif(0)/m/n/11 criterios humanos como reputación, sabiduría, elocue
+ncia y asociaciones personales. 
+ []
+
+
+Overfull \hbox (30.36684pt too wide) in paragraph at lines 1876--1892
+\TU/IBMPlexSerif(0)/m/n/11 - El ministerio de Pablo no buscaba formar seguidore
+s personales ni producir identidades
+ []
+
+
+Overfull \hbox (5.51428pt too wide) in paragraph at lines 1910--1910
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Para ellos la palabra de la |   [] no solament
+e parece absurda, sino completamente
+ []
+
+
+Overfull \hbox (14.7619pt too wide) in paragraph at lines 1937--1937
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Precisamente por eso la palabra de la |   [] p
+odía parecer absurda para muchos.[] 
+ []
+
+
+
+[25]
+
+[26]
+
+[27]
+Overfull \hbox (9.6957pt too wide) in paragraph at lines 2144--2144
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios decidió salvar mediante aquello que el ho
+mbre considera absurdo: la predicación. 
+ []
+
+
+Overfull \hbox (22.5145pt too wide) in paragraph at lines 2148--2148
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo vuelve a presentar la predicación como a
+lgo considerado necio desde la perspectiva
+ []
+
+
+
+[28]
+
+[29]
+Overfull \hbox (16.71097pt too wide) in paragraph at lines 2311--2311
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Cristo crucificado parecía absurdo |   [] quie
+nes buscaban sabiduría según criterios
+ []
+
+
+Overfull \hbox (1.07076pt too wide) in paragraph at lines 2336--2336
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ahora presenta un |   [] para quienes Cr
+isto significa algo completamente
+ []
+
+
+
+[30]
+
+[31]
+Overfull \hbox (39.93378pt too wide) in paragraph at lines 2457--2457
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Si los corintios se observaban a sí mismos, no
+ podían definirse como un grupo especialmente
+ []
+
+
+Overfull \hbox (48.40758pt too wide) in paragraph at lines 2478--2478
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La iglesia en Corinto no |   [] compuesta prin
+cipalmente por personas consideradas
+ []
+
+
+
+[32]
+Overfull \hbox (2.8994pt too wide) in paragraph at lines 2525--2525
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios escogió usar aquello que el mundo conside
+ra débil para avergonzar lo que parece
+ []
+
+
+Overfull \hbox (0.26413pt too wide) in paragraph at lines 2570--2570
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios escogió precisamente a aquellos que parec
+ían no tener valor para anular aquello
+ []
+
+
+
+[33]
+
+[34]
+Overfull \hbox (38.04156pt too wide) in paragraph at lines 2715--2715
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye esta sección |   [] hacia dónde
+ debe dirigirse verdaderamente
+ []
+
+
+Overfull \hbox (8.73091pt too wide) in paragraph at lines 2762--2762
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo recuerda cuando |   [] entre los corinti
+os por primera vez. Hechos 18:1-11 
+ []
+
+
+
+[35]
+Overfull \hbox (24.9965pt too wide) in paragraph at lines 2793--2793
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo deja claro que el valor de su proclamaci
+ón no dependía de sobresalir humanamente. 
+ []
+
+
+Overfull \hbox (3.08191pt too wide) in paragraph at lines 2810--2814
+\TU/IBMPlexSerif(0)/m/n/10.95 la manera en que Pablo llegó podía parecer poco i
+mpresionante según criterios
+ []
+
+
+Overfull \hbox (15.85687pt too wide) in paragraph at lines 2844--2844
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no |   [] entre ellos como un hombre elo
+cuente o lleno de conocimientos
+ []
+
+
+Overfull \hbox (16.32193pt too wide) in paragraph at lines 2846--2846
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Entre los corintios, Pablo quiso ser conocido 
+solamente por Jesucristo y Este crucificado. 
+ []
+
+
+
+[36]
+Overfull \hbox (40.89221pt too wide) in paragraph at lines 2887--2887
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Estas cualidades contrastan completamente con 
+la imagen de alguien que busca impresionar
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 2922--2924
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « y mi mensaje y mi predicación no fueron con 
+palabras persuasivas de sabiduría, sino con
+ []
+
+
+Overfull \hbox (8.19553pt too wide) in paragraph at lines 2928--2928
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no mezcló el evangelio con elementos hum
+anos para hacerlo más impresionante
+ []
+
+
+
+[37]
+Overfull \hbox (4.01631pt too wide) in paragraph at lines 2951--2951
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no intentó volver el |   [] más atractiv
+o mediante discursos elaborados
+ []
+
+
+Overfull \hbox (6.41438pt too wide) in paragraph at lines 2953--2953
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ni el contenido ni la forma de su predicación 
+fueron mezclados con sabiduría humana. 
+ []
+
+
+Overfull \hbox (14.5283pt too wide) in paragraph at lines 2955--2955
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no dependía de recursos humanos de persu
+asión para producir fe en los corintios. 
+ []
+
+
+
+[38]
+
+[39]
+Overfull \hbox (10.33084pt too wide) in paragraph at lines 3153--3156
+\TU/IBMPlexSerif(0)/m/n/10.95 pero permanece limitada a este siglo y a |   [] q
+ue finalmente desaparece.
+ []
+
+
+
+[40]
+Overfull \hbox (13.37123pt too wide) in paragraph at lines 3207--3207
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios había determinado que Su pueblo participa
+ra de esta gloria mediante Su sabiduría. 
+ []
+
+
+Overfull \hbox (20.76616pt too wide) in paragraph at lines 3235--3235
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La gloria de la iglesia está ligada al conocim
+iento de la sabiduría de Dios |   []
+ []
+
+
+Overfull \hbox (2.23512pt too wide) in paragraph at lines 3247--3247
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los gobernantes de este siglo no comprendieron
+ la sabiduría revelada en el evangelio. 
+ []
+
+
+Overfull \hbox (3.10017pt too wide) in paragraph at lines 3271--3271
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que hicieron con |   [] dejó al descubierto
+ que no comprendieron la sabiduría
+ []
+
+
+
+[41]
+Overfull \hbox (2.72783pt too wide) in paragraph at lines 3290--3290
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La cruz continúa invirtiendo completamente los
+ criterios normales de valoración
+ []
+
+
+
+[42]
+Overfull \hbox (36.64362pt too wide) in paragraph at lines 3382--3382
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa desplazando |   [] el origen de
+l verdadero conocimiento:[] 
+ []
+
+
+
+[43]
+Overfull \hbox (3.70609pt too wide) in paragraph at lines 3454--3457
+\TU/IBMPlexSerif(0)/m/n/10.95 no pueden ser alcanzadas simplemente mediante obs
+ervación o razonamiento
+ []
+
+
+Overfull \hbox (43.3246pt too wide) in paragraph at lines 3463--3463
+ []\TU/IBMPlexSerif(0)/m/n/10.95 De la misma manera, solamente el Espíritu de D
+ios conoce verdaderamente los pensamientos
+ []
+
+
+
+[44]
+Overfull \hbox (29.18085pt too wide) in paragraph at lines 3569--3569
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Estas realidades ya fueron dadas a los creyent
+es, aunque solamente pueden comprenderse
+ []
+
+
+Overfull \hbox (27.86685pt too wide) in paragraph at lines 3573--3573
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, que esto sea verdadero no signifi
+ca automáticamente que todos comprendan
+ []
+
+
+
+[45]
+Overfull \hbox (6.4815pt too wide) in paragraph at lines 3618--3618
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no se encargaba de producir comprensión 
+espiritual, sino de anunciar fielmente
+ []
+
+
+Overfull \hbox (24.10736pt too wide) in paragraph at lines 3620--3620
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque la comprensión depende del Espíritu, Pa
+blo no dejaba de predicar estas verdades. 
+ []
+
+
+
+[46]
+Overfull \hbox (10.19579pt too wide) in paragraph at lines 3728--3731
+\TU/IBMPlexSerif(0)/m/n/10.95 sino incapacidad para percibir correctamente aque
+llo que proviene del Espíritu.
+ []
+
+
+
+[47]
+Overfull \hbox (3.93018pt too wide) in paragraph at lines 3826--3826
+ []\TU/IBMPlexSerif(0)/m/n/10.95 En contraste con el hombre natural, el espirit
+ual puede discernir correctamente todas
+ []
+
+
+
+[48]
+Overfull \hbox (1.04884pt too wide) in paragraph at lines 3926--3926
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye esta sección dirigiendo nuevame
+nte toda la atención hacia Cristo.[] 
+ []
+
+
+
+[49]
+Overfull \hbox (17.28415pt too wide) in paragraph at lines 3959--3974
+\TU/IBMPlexSerif(0)/m/n/11 - El hombre no puede descubrir ni comprender las cos
+as de Dios mediante inteligencia,
+ []
+
+
+Overfull \hbox (4.71115pt too wide) in paragraph at lines 3959--3974
+\TU/IBMPlexSerif(0)/m/n/11 - El verdadero conocimiento espiritual depende compl
+etamente del Espíritu de Dios,
+ []
+
+
+Overfull \hbox (4.73683pt too wide) in paragraph at lines 3959--3974
+\TU/IBMPlexSerif(0)/m/n/11 quien permite comprender las riquezas que Dios ya ha
+ dado gratuitamente en Cristo. 
+ []
+
+
+Overfull \hbox (40.68784pt too wide) in paragraph at lines 3994--3994
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto produce una tensión importante con todo l
+o que Pablo ya había dicho anteriormente
+ []
+
+
+
+[50]
+
+[51]
+Overfull \hbox (6.84653pt too wide) in paragraph at lines 4155--4155
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo expone que todavía no podía
+n recibir aquello correspondiente
+ []
+
+
+
+[52]
+Overfull \hbox (22.04877pt too wide) in paragraph at lines 4236--4236
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo las expone como evidencia d
+e una realidad mucho más profunda.[] 
+ []
+
+
+
+[53]
+Overfull \hbox (18.94843pt too wide) in paragraph at lines 4291--4291
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Las declaraciones probablemente no parecían pr
+oblemáticas desde una perspectiva
+ []
+
+
+Overfull \hbox (10.08263pt too wide) in paragraph at lines 4302--4305
+\TU/IBMPlexSerif(0)/m/n/10.95 podía parecer completamente razonable e incluso e
+spiritualmente significativo.
+ []
+
+
+Overfull \hbox (42.7333pt too wide) in paragraph at lines 4307--4307
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo continúa mostrando que esta
+s identificaciones estaban produciendo:[] 
+ []
+
+
+
+[54]
+Overfull \hbox (13.96623pt too wide) in paragraph at lines 4386--4390
+\TU/IBMPlexSerif(0)/m/n/10.95 resultaba natural comenzar a definir importancia 
+espiritual según determinados
+ []
+
+
+Overfull \hbox (1.09631pt too wide) in paragraph at lines 4436--4436
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo y Apolos fueron instrumentos mediante lo
+s cuales los corintios llegaron a creer. 
+ []
+
+
+
+[55]
+
+[56]
+Overfull \hbox (26.01268pt too wide) in paragraph at lines 4523--4523
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no desacredita el trabajo de ninguno, pe
+ro deja claro quién produjo verdaderamente
+ []
+
+
+
+[57]
+Overfull \hbox (12.27042pt too wide) in paragraph at lines 4661--4661
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque ambos son uno en la obra, cada uno sigu
+e siendo considerado individualmente. 
+ []
+
+
+
+[58]
+
+[59]
+Overfull \hbox (0.86392pt too wide) in paragraph at lines 4817--4817
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Antes describió esa labor como plantar; ahora 
+la describe como poner el fundamento. 
+ []
+
+
+
+[60]
+Overfull \hbox (16.31761pt too wide) in paragraph at lines 4922--4937
+\TU/IBMPlexSerif(0)/m/n/11 riquezas espirituales reales en Cristo, todavía esta
+ban pensando y actuando de manera
+ []
+
+
+Overfull \hbox (31.40744pt too wide) in paragraph at lines 4922--4937
+\TU/IBMPlexSerif(0)/m/n/11 - La carnalidad se manifestaba mediante celos, discu
+siones, rivalidades e identificaciones
+ []
+
+
+Overfull \hbox (6.77698pt too wide) in paragraph at lines 4922--4937
+\TU/IBMPlexSerif(0)/m/n/11 - La iglesia es presentada como el campo y el edific
+io de Dios, donde cada colaborador
+ []
+
+
+
+[61]
+
+[62]
+
+[63]
+Overfull \hbox (4.83394pt too wide) in paragraph at lines 5209--5212
+\TU/IBMPlexSerif(0)/m/n/10.95 permanece siendo el fundamento indispensable de t
+oda verdadera edificación.
+ []
+
+
+
+[64]
+
+[65]
+Overfull \hbox (0.2641pt too wide) in paragraph at lines 5342--5342
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa recordándoles aquello que verda
+deramente eran delante de Dios.[] 
+ []
+
+
+Overfull \hbox (11.76889pt too wide) in paragraph at lines 5389--5389
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto hace todavía más profunda la tensión de t
+odo lo que Pablo viene confrontando:[] 
+ []
+
+
+
+[66]
+
+[67]
+Overfull \hbox (37.05115pt too wide) in paragraph at lines 5527--5542
+\TU/IBMPlexSerif(0)/m/n/11 mostrando que una obra puede perderse completamente 
+mientras la salvación permanece
+ []
+
+
+Overfull \hbox (11.5781pt too wide) in paragraph at lines 5527--5542
+\TU/IBMPlexSerif(0)/m/n/11 donde habita Su Espíritu, haciendo extremadamente se
+rias las divisiones, rivalidades
+ []
+
+
+Overfull \hbox (35.68007pt too wide) in paragraph at lines 5561--5561
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no quiere que los creyentes vivan bajo u
+na opinión engañosa acerca de sí |   []. 
+ []
+
+
+
+[68]
+
+[69]
+Overfull \hbox (8.25758pt too wide) in paragraph at lines 5723--5723
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios deja en evidencia la supuesta sabiduría h
+umana atrapándola en su propia astucia. 
+ []
+
+
+
+[70]
+Overfull \hbox (18.07608pt too wide) in paragraph at lines 5792--5792
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban jactándose en hombres qu
+e finalmente eran solamente servidores. 
+ []
+
+
+LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
+(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 5857.
+
+
+
+[71]
+Overfull \hbox (21.37569pt too wide) in paragraph at lines 5921--5921
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo |   [] que los corintios interpreten inc
+orrectamente la afirmación anterior:[] 
+ []
+
+
+
+[72]
+Overfull \hbox (23.49876pt too wide) in paragraph at lines 6015--6015
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ya había dicho que eran servidores. Ahor
+a añade que también son administradores. 
+ []
+
+
+
+[73]
+Overfull \hbox (0.96126pt too wide) in paragraph at lines 6089--6089
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Su labor era proclamar y enseñar el evangelio 
+a quienes Dios le daba oportunidad
+ []
+
+
+
+[74]
+Overfull \hbox (2.30957pt too wide) in paragraph at lines 6129--6129
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no rechaza completamente el examen que o
+tros hacen de su vida, pero sí afirma
+ []
+
+
+Overfull \hbox (16.23796pt too wide) in paragraph at lines 6207--6207
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque Pablo no estuviera consciente de algo m
+alo, eso no significaba automáticamente
+ []
+
+
+
+[75]
+Overfull \hbox (10.94398pt too wide) in paragraph at lines 6211--6211
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto vuelve a destruir la autosuficiencia huma
+na incluso en la evaluación personal.[] 
+ []
+
+
+
+[76]
+Overfull \hbox (1.14377pt too wide) in paragraph at lines 6348--6348
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La alabanza apropiada vendrá después del juici
+o y manifestación realizados por Dios. 
+ []
+
+
+Overfull \hbox (1.85481pt too wide) in paragraph at lines 6378--6393
+\TU/IBMPlexSerif(0)/m/n/11 que la verdadera sabiduría solamente puede encontrar
+se abandonando los criterios
+ []
+
+
+Overfull \hbox (5.6036pt too wide) in paragraph at lines 6378--6393
+\TU/IBMPlexSerif(0)/m/n/11 - La sabiduría, la gloria y las comparaciones humana
+s quedan completamente vacías
+ []
+
+
+Overfull \hbox (1.78296pt too wide) in paragraph at lines 6378--6393
+\TU/IBMPlexSerif(0)/m/n/11 delante de Dios, quien conoce y expone la inutilidad
+ de los razonamientos humanos. 
+ []
+
+
+Overfull \hbox (9.6883pt too wide) in paragraph at lines 6378--6393
+\TU/IBMPlexSerif(0)/m/n/11 - La evaluación, el juicio y la verdadera alabanza n
+o pertenecen finalmente al hombre,
+ []
+
+
+
+[77]
+Overfull \hbox (13.3311pt too wide) in paragraph at lines 6444--6444
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban confundidos en cuanto a 
+ellos mismos y en cuanto a los servidores
+ []
+
+
+
+[78]
+
+[79]
+
+[80]
+Overfull \hbox (19.76387pt too wide) in paragraph at lines 6677--6677
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Si los corintios ya estuvieran reinando, enton
+ces los apóstoles también estarían reinando
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 6685--6687
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Porque pienso que Dios nos ha exhibido a nos
+otros los apóstoles en último lugar, como a
+ []
+
+
+Overfull \hbox (24.32642pt too wide) in paragraph at lines 6689--6689
+[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Porque pienso que Dios nos ha exhibido a no
+sotros los apóstoles en último lugar, como a sentenciados
+ []
+
+
+
+[81]
+
+[82]
+Overfull \hbox (2.37016pt too wide) in paragraph at lines 6838--6841
+\TU/IBMPlexSerif(0)/m/n/10.95 continuaba alejándose profundamente del camino ap
+ostólico que Pablo estaba
+ []
+
+
+
+[83]
+Overfull \hbox (7.43999pt too wide) in paragraph at lines 6939--6939
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando una manera de respond
+er completamente |   []
+ []
+
+
+
+[84]
+Overfull \hbox (26.67694pt too wide) in paragraph at lines 6979--6979
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque muchos hablaban mal de los apóstoles, e
+llos respondían buscando reconciliación. 
+ []
+
+
+
+[85]
+Overfull \hbox (9.77023pt too wide) in paragraph at lines 7118--7118
+[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Porque aunque ustedes tengan innumerables m
+aestros en Cristo, sin embargo no muchos padres» 
+ []
+
+
+Overfull \hbox (8.76642pt too wide) in paragraph at lines 7138--7138
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo les recuerda la relación ún
+ica que surgió mediante el evangelio
+ []
+
+
+
+[86]
+
+[87]
+Overfull \hbox (29.66484pt too wide) in paragraph at lines 7250--7250
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo envió a Timoteo precisamente porque quer
+ía que los corintios fueran sus imitadores. 
+ []
+
+
+Overfull \hbox (2.89577pt too wide) in paragraph at lines 7286--7286
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La vida cristiana debe ser vivida a partir de 
+las riquezas que existen en |   [].[] 
+ []
+
+
+
+[88]
+
+[89]
+
+[90]
+Overfull \hbox (11.23708pt too wide) in paragraph at lines 7530--7546
+\TU/IBMPlexSerif(0)/m/n/11 realidad apostólica estaba marcada por debilidad, su
+frimiento, rechazo y humillación
+ []
+
+
+Overfull \hbox (17.48732pt too wide) in paragraph at lines 7530--7546
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo presenta el camino apostólico como una vida 
+formada por la cruz, caracterizada
+ []
+
+
+Overfull \hbox (21.8983pt too wide) in paragraph at lines 7530--7546
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo concluye confrontando las palabras arrogante
+s de algunos corintios, recordando
+ []
+
+
+
+[91]
+Overfull \hbox (17.37161pt too wide) in paragraph at lines 7569--7569
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa tratando el |   [] problema de 
+arrogancia que ya venía exponiendo. 
+ []
+
+
+
+[92]
+
+[93]
+Overfull \hbox (0.59988pt too wide) in paragraph at lines 7709--7709
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La distancia física no significaba indiferenci
+a |   [] lo que estaba ocurriendo
+ []
+
+
+
+[94]
+Overfull \hbox (41.21492pt too wide) in paragraph at lines 7847--7847
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Incluso frente a una situación tan seria, los 
+corintios seguían pensando incorrectamente.[] 
+ []
+
+
+
+[95]
+Overfull \hbox (0.18683pt too wide) in paragraph at lines 7939--7939
+[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Por tanto, celebremos la fiesta no con la l
+evadura vieja, ni con la levadura de malicia y maldad» 
+ []
+
+
+
+[96]
+Overfull \hbox (37.68535pt too wide) in paragraph at lines 8030--8030
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Si la instrucción fuera evitar completamente a
+ los incrédulos, tendrían que salir literalmente
+ []
+
+
+
+[97]
+Overfull \hbox (21.60564pt too wide) in paragraph at lines 8058--8058
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El problema es alguien que se |   [] hermano m
+ientras permanece en esas prácticas. 
+ []
+
+
+
+[98]
+Overfull \hbox (3.29216pt too wide) in paragraph at lines 8172--8187
+\TU/IBMPlexSerif(0)/m/n/11 - La responsabilidad principal de la iglesia no cons
+iste en juzgar al mundo incrédulo,
+ []
+
+
+
+[99]
+Overfull \hbox (18.2148pt too wide) in paragraph at lines 8216--8219
+\TU/IBMPlexSerif(0)/m/n/10.95 ni siquiera estaba resolviendo correctamente sus 
+|   [] conflictos internos.
+ []
+
+
+Overfull \hbox (14.80933pt too wide) in paragraph at lines 8225--8225
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo considera incorrecto que los creyentes l
+leven sus conflictos delante de incrédulos. 
+ []
+
+
+
+[100]
+Overfull \hbox (3.48853pt too wide) in paragraph at lines 8308--8308
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Si eso es verdadero, entonces los asuntos de e
+sta vida deberían ser comparativamente
+ []
+
+
+Overfull \hbox (7.89626pt too wide) in paragraph at lines 8335--8335
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban llevando asuntos cotidia
+nos |   [] de tribunales humanos. 
+ []
+
+
+
+[101]
+Overfull \hbox (16.75479pt too wide) in paragraph at lines 8400--8400
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es especialmente fuerte después de toda l
+a discusión acerca de verdadera sabiduría
+ []
+
+
+
+[102]
+Overfull \hbox (9.11534pt too wide) in paragraph at lines 8475--8475
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La existencia misma de estos conflictos públic
+os ya dejaba expuesta una condición
+ []
+
+
+Overfull \hbox (15.06998pt too wide) in paragraph at lines 8515--8515
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban luchando por |   [] lo s
+uyo, aun a costa de otros hermanos. 
+ []
+
+
+
+[103]
+
+[104]
+Underfull \hbox (badness 1028) in paragraph at lines 8680--8682
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Y esto eran algunos de ustedes; pero fueron 
+lavados, pero fueron santificados, pero fueron
+ []
+
+
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+Overfull \hbox (3.99803pt too wide) in paragraph at lines 8949--8949
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra lo incompatible de unir aquello 
+que pertenece a Cristo con inmoralidad
+ []
+
+
+
+[109]
+Overfull \hbox (8.38171pt too wide) in paragraph at lines 9019--9019
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando que la fornicación |  
+ [] la realidad espiritual del creyente. 
+ []
+
+
+
+[110]
+
+[111]
+Overfull \hbox (5.55815pt too wide) in paragraph at lines 9228--9240
+\TU/IBMPlexSerif(0)/m/n/11 - La espiritualidad verdadera no consiste solamente 
+en pensamientos o experiencias
+ []
+
+
+Overfull \hbox (14.82382pt too wide) in paragraph at lines 9228--9240
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo termina destruyendo toda falsa separación en
+tre vida espiritual y vida práctica,
+ []
+
+
+Overfull \hbox (1.41528pt too wide) in paragraph at lines 9259--9259
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Hasta este punto de la carta, Pablo principalm
+ente había |   [] corrigiendo:[] 
+ []
+
+
+
+[112]
+Overfull \hbox (8.2795pt too wide) in paragraph at lines 9297--9297
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión “tocar mujer” funciona aquí como 
+una manera de referirse a relación
+ []
+
+
+Overfull \hbox (6.77936pt too wide) in paragraph at lines 9321--9321
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Parece existir nuevamente una tendencia entre 
+los |   [] hacia posiciones
+ []
+
+
+Overfull \hbox (5.78288pt too wide) in paragraph at lines 9341--9341
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Está considerando la realidad concreta de tent
+aciones e inmoralidades presentes.[] 
+ []
+
+
+
+[113]
+Overfull \hbox (12.69235pt too wide) in paragraph at lines 9353--9353
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión “su propia mujer” también mantien
+e el énfasis dentro de una relación
+ []
+
+
+Overfull \hbox (16.90082pt too wide) in paragraph at lines 9363--9363
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis comienza a moverse hacia una respon
+sabilidad mutua dentro del matrimonio. 
+ []
+
+
+
+[114]
+Overfull \hbox (2.53441pt too wide) in paragraph at lines 9460--9460
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El marido tampoco es presentado como dueño ind
+ependiente de sí mismo dentro
+ []
+
+
+Overfull \hbox (15.34956pt too wide) in paragraph at lines 9462--9462
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El enfoque sigue alejándose del egoísmo indivi
+dual y moviéndose hacia responsabilidad
+ []
+
+
+
+[115]
+Overfull \hbox (6.2209pt too wide) in paragraph at lines 9566--9566
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La abstinencia temporal no debe convertirse en
+ una forma permanente de vivir dentro
+ []
+
+
+
+[116]
+Overfull \hbox (6.74646pt too wide) in paragraph at lines 9634--9634
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa evitando imponer su experiencia
+ personal como medida universal
+ []
+
+
+
+[117]
+Overfull \hbox (16.6928pt too wide) in paragraph at lines 9677--9679
+[]\TU/IBMPlexSerif(0)/m/n/10.95 como una realidad donde Dios obra de maneras di
+stintas en diferentes personas.
+ []
+
+
+Overfull \hbox (19.48285pt too wide) in paragraph at lines 9707--9707
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo sigue hablando dentro del |
+   [] de concesión y no de obligación
+ []
+
+
+
+[118]
+Overfull \hbox (43.84871pt too wide) in paragraph at lines 9767--9767
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo considera preferible el matrimonio antes
+ que vivir consumido por deseo descontrolado. 
+ []
+
+
+
+[119]
+Overfull \hbox (2.5709pt too wide) in paragraph at lines 9832--9832
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo trata situaciones reales y concretas que
+ efectivamente podían ocurrir entre
+ []
+
+
+Overfull \hbox (13.06462pt too wide) in paragraph at lines 9840--9840
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no introduce inmediatamente una nueva re
+lación como solución automática.[] 
+ []
+
+
+
+[120]
+Overfull \hbox (18.86447pt too wide) in paragraph at lines 9886--9886
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa respondiendo cuidadosamente sit
+uaciones particulares que estaban
+ []
+
+
+Overfull \hbox (15.14665pt too wide) in paragraph at lines 9894--9894
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El problema no es solamente el matrimonio, sin
+o la convivencia dentro de esa diferencia
+ []
+
+
+Overfull \hbox (49.55371pt too wide) in paragraph at lines 9918--9918
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Nuevamente Pablo mantiene equilibrio entre hom
+bre y mujer dentro de sus instrucciones.[] 
+ []
+
+
+Overfull \hbox (1.8409pt too wide) in paragraph at lines 9924--9924
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La mujer creyente tampoco debe abandonar al ma
+rido incrédulo si él desea continuar
+ []
+
+
+
+[121]
+Overfull \hbox (54.61624pt too wide) in paragraph at lines 9973--9973
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando que la relación matri
+monial no queda anulada automáticamente
+ []
+
+
+Overfull \hbox (10.36734pt too wide) in paragraph at lines 10032--10034
+[]\TU/IBMPlexSerif(0)/m/n/10.95 ni como lucha incontrolable por mantener toda s
+ituación a cualquier |   [].
+ []
+
+
+
+[122]
+
+[123]
+Overfull \hbox (32.10086pt too wide) in paragraph at lines 10130--10130
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis no está en cambiar inmediatamente d
+e situación, sino en caminar correctamente
+ []
+
+
+Overfull \hbox (24.00008pt too wide) in paragraph at lines 10137--10139
+[]\TU/IBMPlexSerif(0)/m/n/10.95 a pensar que espiritualidad significa necesaria
+mente abandonar inmediatamente
+ []
+
+
+Overfull \hbox (6.4764pt too wide) in paragraph at lines 10149--10149
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo presenta |   [] como una instrucción amp
+lia y consistente para el pueblo
+ []
+
+
+
+[124]
+Overfull \hbox (13.44061pt too wide) in paragraph at lines 10231--10231
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La realidad importante no era la condición ext
+erna sino caminar correctamente delante
+ []
+
+
+
+[125]
+Overfull \hbox (6.74069pt too wide) in paragraph at lines 10308--10308
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, la identidad del creyente sigue s
+in depender finalmente de esa condición
+ []
+
+
+
+[126]
+Overfull \hbox (26.35579pt too wide) in paragraph at lines 10431--10431
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo repite nuevamente el mismo principio, pe
+ro ahora añade una expresión importante. 
+ []
+
+
+
+[127]
+Overfull \hbox (19.00688pt too wide) in paragraph at lines 10472--10474
+[]\TU/IBMPlexSerif(0)/m/n/10.95 perseguir continuamente cambios externos como f
+undamento de espiritualidad.
+ []
+
+
+
+[128]
+
+[129]
+Underfull \hbox (badness 10000) in paragraph at lines 10714--10715
+
+ []
+
+
+
+[130]
+
+[131]
+
+[132]
+
+[133]
+Overfull \hbox (25.18628pt too wide) in paragraph at lines 11039--11039
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El casado debe dividir necesariamente su |   [
+] entre distintas responsabilidades. 
+ []
+
+
+
+[134]
+
+[135]
+Overfull \hbox (20.20403pt too wide) in paragraph at lines 11221--11221
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo reconoce circunstancias concretas donde 
+el matrimonio puede resultar apropiado. 
+ []
+
+
+Overfull \hbox (22.18964pt too wide) in paragraph at lines 11265--11265
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Algunas personas pueden decidir permanecer en 
+esa condición con firmeza y convicción. 
+ []
+
+
+
+[136]
+Overfull \hbox (9.21024pt too wide) in paragraph at lines 11273--11273
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa considerando importante la libe
+rtad y convicción |   [] delante
+ []
+
+
+Overfull \hbox (0.62544pt too wide) in paragraph at lines 11289--11289
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo sigue hablando en términos de sabiduría 
+práctica y no de imposición universal. 
+ []
+
+
+
+[137]
+Overfull \hbox (10.2505pt too wide) in paragraph at lines 11406--11406
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye afirmando confianza en la direc
+ción espiritual con la que está hablando. 
+ []
+
+
+
+[138]
+Overfull \hbox (3.37282pt too wide) in paragraph at lines 11440--11457
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo responde las preguntas de los corintios alej
+ándolos de extremos y mostrando
+ []
+
+
+Overfull \hbox (31.09428pt too wide) in paragraph at lines 11440--11457
+\TU/IBMPlexSerif(0)/m/n/11 pertenencia al Señor, rechazando tanto el egoísmo co
+mo una espiritualidad desconectada
+ []
+
+
+Overfull \hbox (13.01503pt too wide) in paragraph at lines 11488--11488
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo incluye la |   [] dentro de un ”sabemos”
+, mostrando que había algo verdadero
+ []
+
+
+
+[139]
+Overfull \hbox (48.70325pt too wide) in paragraph at lines 11496--11496
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo inmediatamente expone el peligro del con
+ocimiento cuando es tratado incorrectamente. 
+ []
+
+
+Overfull \hbox (8.82701pt too wide) in paragraph at lines 11510--11510
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza a mover la discusión desde dere
+chos y conocimiento hacia el bienestar
+ []
+
+
+
+[140]
+Overfull \hbox (1.42844pt too wide) in paragraph at lines 11596--11596
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo reconoce la existencia de |   [] llamado
+s dioses dentro de la experiencia
+ []
+
+
+
+[141]
+Overfull \hbox (17.00082pt too wide) in paragraph at lines 11662--11662
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque ciertas cosas fueran verdaderas, no tod
+os las comprendían de la misma manera. 
+ []
+
+
+Overfull \hbox (40.05638pt too wide) in paragraph at lines 11670--11670
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Algunos creyentes todavía estaban profundament
+e marcados por su |   [] relacionado
+ []
+
+
+
+[142]
+
+[143]
+Overfull \hbox (19.93394pt too wide) in paragraph at lines 11780--11780
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El conocimiento del fuerte |   [] terminar emp
+ujando al débil hacia daño espiritual. 
+ []
+
+
+
+[144]
+Overfull \hbox (4.31514pt too wide) in paragraph at lines 11867--11882
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo confronta una espiritualidad centrada solame
+nte en conocimiento y libertad,
+ []
+
+
+
+[145]
+
+[146]
+Overfull \hbox (21.50706pt too wide) in paragraph at lines 12009--12009
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los creyentes mismos funcionaban como evidenci
+a autentificadora de su ministerio.[] 
+ []
+
+
+
+[147]
+
+[148]
+
+[149]
+
+[150]
+
+[151]
+
+[152]
+
+[153]
+Overfull \hbox (12.62811pt too wide) in paragraph at lines 12593--12593
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aun si no |   [] impulsado voluntariamente, se
+guía existiendo un encargo confiado
+ []
+
+
+
+[154]
+
+[155]
+
+[156]
+
+[157]
+
+[158]
+Overfull \hbox (5.34488pt too wide) in paragraph at lines 13005--13005
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo contrasta la recompensa del creyente con
+ la recompensa temporal de los juegos. 
+ []
+
+
+
+[159]
+
+[160]
+Overfull \hbox (1.35542pt too wide) in paragraph at lines 13128--13143
+\TU/IBMPlexSerif(0)/m/n/11 - Finalmente, Pablo usa imágenes atléticas para most
+rar disciplina, dominio propio,
+ []
+
+
+
+[161]
+
+[162]
+Overfull \hbox (1.47006pt too wide) in paragraph at lines 13278--13278
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque todos participaron de experiencias comu
+nes, el resultado no fue positivo
+ []
+
+
+
+[163]
+
+[164]
+Overfull \hbox (48.89668pt too wide) in paragraph at lines 13442--13442
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo mantiene el |   [] sobre las consecuenci
+as reales de rebelión y desobediencia.[] 
+ []
+
+
+
+[165]
+
+[166]
+Overfull \hbox (21.35014pt too wide) in paragraph at lines 13642--13642
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto probablemente |   [] con la manera en que
+ se percibían espiritualmente.[] 
+ []
+
+
+
+[167]
+
+[168]
+
+[169]
+Overfull \hbox (8.69685pt too wide) in paragraph at lines 13851--13867
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo usa el ejemplo de Israel para advertir a los
+ corintios contra una falsa seguridad
+ []
+
+
+Overfull \hbox (14.15358pt too wide) in paragraph at lines 13851--13867
+\TU/IBMPlexSerif(0)/m/n/11 - Aunque Israel participó de experiencias espiritual
+es, provisión, y liberación, muchos
+ []
+
+
+Overfull \hbox (52.55823pt too wide) in paragraph at lines 13851--13867
+\TU/IBMPlexSerif(0)/m/n/11 - Israel funciona como advertencia contra idolatría,
+ inmoralidad, provocación, murmuración,
+ []
+
+
+Overfull \hbox (5.00375pt too wide) in paragraph at lines 13851--13867
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo llama a los creyentes a resistir la tentació
+n, a huir de la idolatría, y a reconocer
+ []
+
+
+
+[170]
+
+[171]
+Overfull \hbox (2.41032pt too wide) in paragraph at lines 13978--13978
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo evita una preocupación obsesiva o invest
+igativa respecto al origen de la comida. 
+ []
+
+
+Overfull \hbox (25.04028pt too wide) in paragraph at lines 14026--14026
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis continúa siendo |   [] conflictos i
+nnecesarios de conciencia en situaciones
+ []
+
+
+
+[172]
+
+[173]
+Overfull \hbox (9.33798pt too wide) in paragraph at lines 14128--14128
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo reconoce que algo realizado con |   [] i
+gualmente podía generar conflicto
+ []
+
+
+Overfull \hbox (0.93204pt too wide) in paragraph at lines 14219--14219
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El creyente debía |   [] convertirse en causa 
+de caída u obstáculo para otros.[] 
+ []
+
+
+
+[174]
+
+[175]
+
+[176]
+Overfull \hbox (33.198pt too wide) in paragraph at lines 14402--14402
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta |   [] continúa desarrollando problem
+as que ya venían apareciendo repetidamente
+ []
+
+
+Overfull \hbox (36.87424pt too wide) in paragraph at lines 14404--14404
+[]\TU/IBMPlexSerif(0)/m/n/10.95 A lo largo de 1 Corintios, Pablo viene corrigie
+ndo una espiritualidad profundamente influenciada
+ []
+
+
+Overfull \hbox (31.49718pt too wide) in paragraph at lines 14454--14454
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Ahora el problema aparece en la manera en que h
+ombres y mujeres estaban actuando públicamente
+ []
+
+
+
+[177]
+Overfull \hbox (9.77017pt too wide) in paragraph at lines 14554--14554
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Irónicamente, una confianza excesiva alrededor 
+de pasajes difíciles puede reflejar exactamente
+ []
+
+
+
+[178]
+Overfull \hbox (0.31157pt too wide) in paragraph at lines 14624--14624
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta la práctica congregacional con l
+o que previamente les había entregado. 
+ []
+
+
+
+[179]
+
+[180]
+Overfull \hbox (3.00888pt too wide) in paragraph at lines 14842--14842
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El comportamiento visible comunicaba algo rela
+cionalmente significativo dentro
+ []
+
+
+
+[181]
+Overfull \hbox (3.89584pt too wide) in paragraph at lines 14848--14848
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta esta conducta con una condición 
+considerada vergonzosa o deshonrosa
+ []
+
+
+Overfull \hbox (7.3451pt too wide) in paragraph at lines 14880--14880
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El argumento conecta ambas acciones dentro del
+ mismo marco de representación
+ []
+
+
+
+[182]
+
+[183]
+Overfull \hbox (37.79707pt too wide) in paragraph at lines 15060--15060
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no explica detalladamente la relación
+ de los ángeles con la práctica mencionada.[] 
+ []
+
+
+
+[184]
+Overfull \hbox (20.36465pt too wide) in paragraph at lines 15094--15094
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto evita leer el argumento anterior como ind
+ependencia absoluta o autosuficiencia
+ []
+
+
+Overfull \hbox (25.04906pt too wide) in paragraph at lines 15120--15120
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis final no termina en autonomía human
+a, sino en procedencia y dependencia
+ []
+
+
+Overfull \hbox (5.43614pt too wide) in paragraph at lines 15162--15162
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa apelando a aquello que los cori
+ntios podían reconocer como apropiado
+ []
+
+
+
+[185]
+
+[186]
+Overfull \hbox (17.65631pt too wide) in paragraph at lines 15328--15328
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Ahora aparecen manifestándose precisamente |  
+ [] se reunían como iglesia.[] 
+ []
+
+
+
+[187]
+Overfull \hbox (6.79393pt too wide) in paragraph at lines 15358--15358
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los |   [] y divisiones terminaban exponiendo 
+realidades visibles dentro
+ []
+
+
+
+[188]
+
+[189]
+
+[190]
+
+[191]
+Overfull \hbox (15.77296pt too wide) in paragraph at lines 15660--15660
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La cena no debía tratarse livianamente ni de m
+anera contradictoria con |   []
+ []
+
+
+Overfull \hbox (1.31165pt too wide) in paragraph at lines 15672--15672
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo presenta |   [] la respuesta adecuada al
+ problema que venía describiendo. 
+ []
+
+
+
+[192]
+
+[193]
+
+[194]
+Overfull \hbox (12.29456pt too wide) in paragraph at lines 15983--15985
+[]\TU/IBMPlexSerif(0)/m/n/10.95 y la reunión congregacional había sido |   [] c
+omo una realidad colectiva.
+ []
+
+
+Overfull \hbox (4.0638pt too wide) in paragraph at lines 16013--16013
+[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Una iglesia centrada en sí misma podía part
+icipar externamente mientras ignoraba la realidad
+ []
+
+
+
+[195]
+Overfull \hbox (6.47275pt too wide) in paragraph at lines 16073--16073
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Participar externamente mientras se despreciab
+a aquello que la cena proclamaba
+ []
+
+
+Overfull \hbox (14.35306pt too wide) in paragraph at lines 16087--16087
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La conducta contradictoria traía juicio sobre 
+|   [] actuaban de esta manera.[] 
+ []
+
+
+
+[196]
+Overfull \hbox (4.77916pt too wide) in paragraph at lines 16183--16183
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El |   [] personal aparece como la respuesta a
+decuada frente a la situación
+ []
+
+
+
+[197]
+
+[198]
+Overfull \hbox (22.29549pt too wide) in paragraph at lines 16380--16380
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La reunión congregacional no debía reducirse a
+ satisfacción individual desordenada.[] 
+ []
+
+
+
+[199]
+Overfull \hbox (8.91821pt too wide) in paragraph at lines 16386--16386
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo nuevamente |   [] sobre las consecuencia
+s de reunirse incorrectamente. 
+ []
+
+
+Overfull \hbox (0.93936pt too wide) in paragraph at lines 16396--16396
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Algunas correcciones serían tratadas personalm
+ente cuando estuviera presente.[] 
+ []
+
+
+Overfull \hbox (8.55823pt too wide) in paragraph at lines 16399--16418
+\TU/IBMPlexSerif(0)/m/n/11 - Sus reuniones estaban marcadas por divisiones, ego
+ísmo, desigualdad, humillación
+ []
+
+
+Overfull \hbox (15.75368pt too wide) in paragraph at lines 16399--16418
+\TU/IBMPlexSerif(0)/m/n/11 - Participar indignamente traía juicio, disciplina, 
+debilidad, enfermedad, y aun muerte
+ []
+
+
+Overfull \hbox (1.69278pt too wide) in paragraph at lines 16399--16418
+\TU/IBMPlexSerif(0)/m/n/11 - La iglesia debía reunirse no para juicio, ni para 
+autoexaltación, sino de una manera
+ []
+
+
+
+[200]
+Overfull \hbox (2.68771pt too wide) in paragraph at lines 16455--16455
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El lenguaje |   [] que los corintios necesitab
+an claridad respecto a los dones
+ []
+
+
+Overfull \hbox (14.9955pt too wide) in paragraph at lines 16475--16475
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El lenguaje refleja falta de dirección correct
+a y sometimiento a influencias externas.[] 
+ []
+
+
+
+[201]
+
+[202]
+
+[203]
+
+[204]
+
+[205]
+
+[206]
+
+[207]
+
+[208]
+
+[209]
+
+[210]
+Overfull \hbox (14.75821pt too wide) in paragraph at lines 17252--17252
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Dios mismo distribuye honra considerando aquel
+lo que parecía carecer de importancia. 
+ []
+
+
+
+[211]
+
+[212]
+
+[213]
+Overfull \hbox (30.9058pt too wide) in paragraph at lines 17566--17566
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza usando ejemplos extremos relaci
+onados con manifestaciones espirituales. 
+ []
+
+
+
+[214]
+
+[215]
+Overfull \hbox (23.13133pt too wide) in paragraph at lines 17680--17680
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa destruyendo cualquier definició
+n de espiritualidad basada solamente
+ []
+
+
+
+[216]
+
+[217]
+Overfull \hbox (1.2058pt too wide) in paragraph at lines 17844--17844
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta descripción del amor confronta direc
+tamente la espiritualidad corintia
+ []
+
+
+
+[218]
+Overfull \hbox (14.45528pt too wide) in paragraph at lines 17958--17958
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando que ciertas manifesta
+ciones pertenecen a una condición
+ []
+
+
+
+[219]
+
+[220]
+Overfull \hbox (1.30801pt too wide) in paragraph at lines 18075--18075
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Todo el desarrollo del capítulo ha corregido u
+na visión de espiritualidad centrada
+ []
+
+
+Overfull \hbox (23.53731pt too wide) in paragraph at lines 18116--18131
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo muestra que las manifestaciones espirituales
+, por impresionantes que parezcan,
+ []
+
+
+Overfull \hbox (17.29591pt too wide) in paragraph at lines 18116--18131
+\TU/IBMPlexSerif(0)/m/n/11 - El amor aparece caracterizado por paciencia, bonda
+d, humildad, ausencia de envidia,
+ []
+
+
+
+[221]
+
+[222]
+
+[223]
+
+[224]
+
+[225]
+
+[226]
+
+[227]
+
+[228]
+Overfull \hbox (19.06888pt too wide) in paragraph at lines 18728--18728
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La verdadera espiritualidad no aparece como ex
+periencia incomprensible orientada
+ []
+
+
+Overfull \hbox (9.11897pt too wide) in paragraph at lines 18742--18742
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa desarrollando las consecuencias
+ prácticas de la falta de entendimiento. 
+ []
+
+
+
+[229]
+
+[230]
+Overfull \hbox (13.23254pt too wide) in paragraph at lines 18864--18864
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pocas palabras comprensibles poseen mayor valo
+r congregacional que abundancia
+ []
+
+
+
+[231]
+
+[232]
+Overfull \hbox (42.2683pt too wide) in paragraph at lines 19055--19055
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo continúa mostrando que la
+ verdadera espiritualidad congregacional
+ []
+
+
+
+[233]
+
+[234]
+Overfull \hbox (1.71313pt too wide) in paragraph at lines 19229--19229
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La manifestación no debía imponerse desordenad
+amente sobre la congregación.[] 
+ []
+
+
+
+[235]
+Overfull \hbox (12.01709pt too wide) in paragraph at lines 19257--19257
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto muestra que la participación congregacion
+al incluía discernimiento colectivo.[] 
+ []
+
+
+
+[236]
+Overfull \hbox (1.75331pt too wide) in paragraph at lines 19369--19369
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo establece restricción respecto al hablar
+ en la iglesia dentro del contexto tratado. 
+ []
+
+
+
+[237]
+Overfull \hbox (20.57632pt too wide) in paragraph at lines 19419--19419
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta sección continúa mostrando que Pablo
+ estaba profundamente preocupado
+ []
+
+
+
+[238]
+
+[239]
+Overfull \hbox (14.52684pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa corrigiendo la manera en que los co
+rintios entendían la espiritualidad
+ []
+
+
+Overfull \hbox (11.13077pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - El criterio principal ya no es espectacularidad, i
+ntensidad, ni experiencia individual. 
+ []
+
+
+Overfull \hbox (3.07437pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - El criterio central pasa a ser comprensión, edific
+ación, madurez, orden, y beneficio
+ []
+
+
+Overfull \hbox (26.2829pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo insiste repetidamente en interpretación, int
+eligibilidad, exhortación, enseñanza,
+ []
+
+
+Overfull \hbox (17.1991pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - Las lenguas no son prohibidas, pero deben funciona
+r dentro de orden, interpretación,
+ []
+
+
+Overfull \hbox (5.39314pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo también confronta directamente la autosufici
+encia espiritual de los corintios. 
+ []
+
+
+Overfull \hbox (0.51503pt too wide) in paragraph at lines 19645--19665
+\TU/IBMPlexSerif(0)/m/n/11 debía reflejar paz, orden, madurez, comprensión, y e
+dificación del cuerpo de Cristo. 
+ []
+
+
+
+[240]
+
+[241]
+
+[242]
+Overfull \hbox (11.03162pt too wide) in paragraph at lines 19818--19818
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Tanto la muerte como la resurrección son prese
+ntadas dentro del marco escritural.[] 
+ []
+
+
+
+[243]
+Overfull \hbox (27.92891pt too wide) in paragraph at lines 19920--19920
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Es presentada como acontecimiento proclamado, 
+recibido y atestiguado por múltiples
+ []
+
+
+Overfull \hbox (29.4641pt too wide) in paragraph at lines 19948--19948
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La aparición a Pablo es colocada dentro de la 
+misma cadena testimonial de apariciones
+ []
+
+
+
+[244]
+
+[245]
+
+[246]
+
+[247]
+Overfull \hbox (1.31897pt too wide) in paragraph at lines 20263--20263
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta directamente la resurrección con
+ la situación de los creyentes respecto
+ []
+
+
+
+[248]
+Overfull \hbox (9.25563pt too wide) in paragraph at lines 20346--20358
+\TU/IBMPlexSerif(0)/m/n/11 - Para Pablo, negar la resurrección destruye complet
+amente la resurrección de Cristo,
+ []
+
+
+Overfull \hbox (19.5868pt too wide) in paragraph at lines 20346--20358
+\TU/IBMPlexSerif(0)/m/n/11 - La resurrección de Cristo y la resurrección de los
+ muertos aparecen inseparablemente
+ []
+
+
+Overfull \hbox (9.78877pt too wide) in paragraph at lines 20346--20358
+\TU/IBMPlexSerif(0)/m/n/11 - Sin resurrección la fe sería vana, los creyentes s
+eguirían en sus pecados, los muertos
+ []
+
+
+
+[249]
+Overfull \hbox (12.03171pt too wide) in paragraph at lines 20389--20389
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección de Cristo aparece como inicio 
+y garantía de algo mayor que seguirá.[] 
+ []
+
+
+
+[250]
+
+[251]
+Overfull \hbox (20.51083pt too wide) in paragraph at lines 20591--20608
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo responde a la negación de la resurrección af
+irmando que Cristo verdaderamente
+ []
+
+
+Overfull \hbox (17.62444pt too wide) in paragraph at lines 20591--20608
+\TU/IBMPlexSerif(0)/m/n/11 - La resurrección de Cristo aparece como primicias, 
+inicio, y garantía de la resurrección
+ []
+
+
+Overfull \hbox (16.97545pt too wide) in paragraph at lines 20591--20608
+\TU/IBMPlexSerif(0)/m/n/11 - Está conectada con el reinado de Cristo, la derrot
+a final de la muerte, y la consumación
+ []
+
+
+
+[252]
+Overfull \hbox (0.55246pt too wide) in paragraph at lines 20629--20629
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ahora introduce una aclaración important
+e respecto al alcance de esa sujeción. 
+ []
+
+
+
+[253]
+Overfull \hbox (19.78793pt too wide) in paragraph at lines 20699--20699
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo continúa mostrando que la
+ resurrección está inseparablemente
+ []
+
+
+
+[254]
+Overfull \hbox (2.9505pt too wide) in paragraph at lines 20750--20750
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis principal del argumento no está en 
+explicar detalladamente la práctica,[] 
+ []
+
+
+Overfull \hbox (3.73889pt too wide) in paragraph at lines 20769--20769
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo usa la práctica mencionada para mostrar 
+contradicción lógica si la resurrección
+ []
+
+
+
+[255]
+Overfull \hbox (3.90099pt too wide) in paragraph at lines 20847--20847
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Sin resurrección, la orientación queda reducid
+a al presente inmediato y pasajero.[] 
+ []
+
+
+
+[256]
+Overfull \hbox (8.72762pt too wide) in paragraph at lines 20922--20936
+\TU/IBMPlexSerif(0)/m/n/11 - Si no existe resurrección ciertas prácticas pierde
+n sentido, el sufrimiento apostólico
+ []
+
+
+Overfull \hbox (2.11298pt too wide) in paragraph at lines 20922--20936
+\TU/IBMPlexSerif(0)/m/n/11 - Sin resurrección, la conclusión lógica sería vivir
+ solamente para el placer presente,
+ []
+
+
+Overfull \hbox (21.2516pt too wide) in paragraph at lines 20966--20966
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza ahora a responder objeciones re
+lacionadas con el cuerpo resucitado.[] 
+ []
+
+
+
+[257]
+
+[258]
+
+[259]
+
+[260]
+
+[261]
+
+[262]
+
+[263]
+Overfull \hbox (2.13057pt too wide) in paragraph at lines 21454--21467
+\TU/IBMPlexSerif(0)/m/n/11 - El cuerpo resucitado es descrito como incorruptibl
+e, glorioso, poderoso, espiritual,
+ []
+
+
+Overfull \hbox (11.5964pt too wide) in paragraph at lines 21454--21467
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa mostrando continuidad, transformaci
+ón, y diferencia entre el cuerpo
+ []
+
+
+Overfull \hbox (31.54752pt too wide) in paragraph at lines 21454--21467
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo redefine así completamente la idea del cuerp
+o desde la realidad de la resurrección. 
+ []
+
+
+
+[264]
+Overfull \hbox (19.00687pt too wide) in paragraph at lines 21550--21550
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección aparece conectada con transfor
+mación hacia la imagen del celestial.[] 
+ []
+
+
+Overfull \hbox (7.66649pt too wide) in paragraph at lines 21578--21588
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo concluye este desarrollo mostrando dos reali
+dades contrastantes - lo terrenal,
+ []
+
+
+Overfull \hbox (1.3635pt too wide) in paragraph at lines 21578--21588
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa redefiniendo completamente la maner
+a en que los corintios debían
+ []
+
+
+Overfull \hbox (7.86708pt too wide) in paragraph at lines 21605--21605
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce ahora una conclusión important
+e respecto al cuerpo y la resurrección. 
+ []
+
+
+
+[265]
+
+[266]
+
+[267]
+Overfull \hbox (8.7686pt too wide) in paragraph at lines 21769--21769
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección transforma completamente la re
+lación del creyente con la muerte.[] 
+ []
+
+
+
+[268]
+Overfull \hbox (1.33356pt too wide) in paragraph at lines 21865--21865
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo culmina mostrando que la 
+resurrección no afecta solamente
+ []
+
+
+Overfull \hbox (14.35596pt too wide) in paragraph at lines 21884--21898
+\TU/IBMPlexSerif(0)/m/n/11 - Por causa de esta realidad futura los creyentes de
+ben permanecer firmes, constantes,
+ []
+
+
+
+[269]
+
+[270]
+Overfull \hbox (25.9236pt too wide) in paragraph at lines 21993--21993
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Los mismos corintios participarían en la desig
+nación de quienes llevarían la contribución. 
+ []
+
+
+Overfull \hbox (12.91864pt too wide) in paragraph at lines 22037--22037
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo termina la carta moviéndose desde grande
+s temas doctrinales y correcciones
+ []
+
+
+Overfull \hbox (14.7549pt too wide) in paragraph at lines 22040--22050
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo enfatiza preparación, transparencia, partici
+pación comunitaria, y cooperación
+ []
+
+
+
+[271]
+Overfull \hbox (6.3158pt too wide) in paragraph at lines 22075--22075
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La sección muestra detalles prácticos y person
+ales relacionados con su ministerio
+ []
+
+
+
+[272]
+Overfull \hbox (25.23157pt too wide) in paragraph at lines 22127--22127
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque hace planes concretos, reconoce depende
+ncia del Señor respecto al resultado
+ []
+
+
+
+[273]
+Overfull \hbox (2.34174pt too wide) in paragraph at lines 22214--22224
+\TU/IBMPlexSerif(0)/m/n/11 - La sección muestra a Pablo organizando, planifican
+do, cooperando con las iglesias,
+ []
+
+
+
+[274]
+Overfull \hbox (0.82982pt too wide) in paragraph at lines 22349--22349
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa corrigiendo indirectamente acti
+tudes corintias relacionadas con:[] 
+ []
+
+
+
+[275]
+Overfull \hbox (11.70229pt too wide) in paragraph at lines 22374--22385
+\TU/IBMPlexSerif(0)/m/n/11 - Pablo exhorta a los corintios a recibir correctame
+nte a los obreros del Señor. Timoteo
+ []
+
+
+
+[276]
+Underfull \hbox (badness 1122) in paragraph at lines 22464--22466
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Los exhorto, hermanos (ya conocen a los de l
+a casa de Estéfanas, que fueron los primeros
+ []
+
+
+
+[277]
+
+[278]
+Overfull \hbox (20.38654pt too wide) in paragraph at lines 22628--22628
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El cierre de esta sección continúa reuniendo m
+últiples llamados finales relacionados
+ []
+
+
+Overfull \hbox (9.59076pt too wide) in paragraph at lines 22645--22656
+\TU/IBMPlexSerif(0)/m/n/11 - Los corintios debían reconocer, sujetarse, y valor
+ar correctamente a quienes servían
+ []
+
+
+
+[279]
+Overfull \hbox (19.19302pt too wide) in paragraph at lines 22699--22699
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Las relaciones entre creyentes son continuamen
+te presentadas dentro de la realidad
+ []
+
+
+Overfull \hbox (1.55621pt too wide) in paragraph at lines 22723--22723
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El saludo aparece como expresión visible de co
+munión y afecto santo entre creyentes. 
+ []
+
+
+
+[280]
+
+[281]
+Overfull \hbox (8.88531pt too wide) in paragraph at lines 22872--22884
+\TU/IBMPlexSerif(0)/m/n/11 - La advertencia: «Si alguien no ama al Señor, que s
+ea anatema» muestra nuevamente
+ []
+
+
+Overfull \hbox (6.44182pt too wide) in paragraph at lines 22872--22884
+\TU/IBMPlexSerif(0)/m/n/11 - Toda la carta termina llamando implícitamente a lo
+s corintios a permanecer firmes,
+ []
+
+
+
+[282] (temp/student_manual.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `student_manual.out' has not changed.
+(rerunfilecheck)             Checksum: 722CE0AD62902E25BAD0136B36BAECC3;3502.
+ ) 
+Here is how much of TeX's memory you used:
+ 36771 strings out of 473832
+ 773249 string characters out of 5729482
+ 1324625 words of memory out of 5000000
+ 59227 multiletter control sequences out of 15000+600000
+ 563188 words of font info for 109 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 121i,17n,124p,676b,1419s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on temp/student_manual.pdf (282 pages).

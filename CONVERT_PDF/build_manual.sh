@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Habacuc"
-FILE_LOCATION="../03.Habacuc"
-FILENAME="/Habacuc-0.9.md"
+MANUAL_NAME="1 Corintios"
+FILE_LOCATION="../11.1Corintios"
+FILENAME="/1corintios.0.5.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
@@ -122,4 +122,4 @@ echo "▶ ${FILE_LOCATION}/${MANUAL_NAME}_manual_maestro(V.${VERSION}).pdf"
 pdfunite temp/cover_student.pdf temp/student_manual.pdf "${FILE_LOCATION}/${MANUAL_NAME}_manual_estudiante(V.${VERSION}).pdf"
 echo "▶ ${FILE_LOCATION}/${MANUAL_NAME}_manual_estudiante(V.${VERSION}).pdf"
 
-rm -f temp/*
+#rm -f temp/*
