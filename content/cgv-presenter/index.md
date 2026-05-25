@@ -354,6 +354,20 @@ CGV Presenter puede usar un repositorio de GitHub como fuente de canciones. Desd
 - rama,
 - carpeta donde están las canciones.
 
+Fuente sugerida para empezar:
+
+```text
+Song repository URL: https://github.com/johnwry/canciones
+Branch: main
+Song folder path: songs
+```
+
+Después de escribir esos datos:
+
+1. Haga clic en **Save Song Source**.
+2. Haga clic en **Refresh Songs** para ver las canciones disponibles.
+3. Haga clic en **Sync New Songs** para descargar las canciones que todavía no están en la biblioteca local.
+
 Al descargar canciones desde el repositorio, los archivos se copian a la biblioteca local. Esto permite corregirlas, usarlas sin internet y mantener una colección local organizada.
 
 ### Acordes
