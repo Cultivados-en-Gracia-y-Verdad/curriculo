@@ -2238,11 +2238,15 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### Leer Génesis 19:10-23.
 
-- Dios salvó a Lot y a su familia debido a Su misericordia. No los salvó porque fueran buenos. Aunque Lot no vivió una vida malvada como otros en Sodoma, él también nació pecador. A pesar de que Lot aparentemente creía que era un pecador y estaba mirando al Libertador venidero, es interesante notar que no solo se levantó y creyó a los ángeles. Para que Lot escapara del juicio, los ángeles tuvieron que agarrarlo de la <u>mano</u> y obligarlo a él y a su familia a irse. ¡Esto habla de una imagen de la gracia de Dios! Este es el patrón que hemos visto en Dios y su interacción con el hombre incluso desde el principio. ¿Por qué? Porque el hombre está tan lejos, tan desaparecido: *todo pensamiento e intención del corazón es solo malo desde la infancia,* que es absolutamente incapaz de escapar ni remotamente del juicio de Dios por el pecado.
+- Dios salvó a Lot y a su familia debido a Su misericordia. No los salvó porque fueran buenos. Aunque Lot no vivió una vida malvada como otros en Sodoma, él también nació pecador. A pesar de que Lot aparentemente creía que era un pecador y estaba mirando al Libertador venidero, es interesante notar que no solo se levantó y creyó a los ángeles. 
+
+- Para que Lot escapara del juicio, los ángeles tuvieron que agarrarlo de la <u>mano</u> y obligarlo a él y a su familia a irse. ¡Esto habla de una imagen de la gracia de Dios! Este es el patrón que hemos visto en Dios y su interacción con el hombre incluso desde el principio. ¿Por qué? Porque el hombre está tan lejos, tan desaparecido: *todo pensamiento e intención del corazón es solo malo desde la infancia,* que es absolutamente incapaz de escapar ni remotamente del juicio de Dios por el pecado.
 
 - -De la misma manera, los ángeles agarraron a Lot de la mano y lo libraron del juicio, así que eso es exactamente lo que Dios ha hecho con nosotros a través de Cristo y Su obra terminada. La salvación de la pena del pecado, del poder del pecado y de la presencia del pecado <u>es</u> todo por la obra terminada de Cristo.
 
-- -Una declaración que realmente revela el corazón de Dios y representa claramente Su gracia y misericordia cuando Él interviene divinamente en nuestras vidas es la declaración que el ángel le hizo a Lot en el versículo 22: *¡Date prisa, escapa allí, porque nada puedo hacer hasta que llegues allí!* No se me permite juzgar y destruir a estas personas tremendamente malvadas hasta que seas retirado a salvo. Este es un patrón que vemos a lo largo de <u>toda</u> la Palabra de Dios y es exactamente lo que veremos con respecto a la gran tribulación que viene en el libro de Apocalipsis. Antes de que se libere el juicio, como Lot, Dios sacará a todos los creyentes de manera segura a través del rapto. Juan 14:1-3; 1 Tesalonicenses 4:16-17
+- -Una declaración que realmente revela el corazón de Dios y representa claramente Su gracia y misericordia cuando Él interviene divinamente en nuestras vidas es la declaración que el ángel le hizo a Lot en el versículo 22: *¡Date prisa, escapa allí, porque nada puedo hacer hasta que llegues allí!* No se me permite juzgar y destruir a estas personas tremendamente malvadas hasta que seas retirado a salvo. 
+
+- Este es un patrón que vemos a lo largo de <u>toda</u> la Palabra de Dios y es exactamente lo que veremos con respecto a la gran tribulación que viene en el libro de Apocalipsis. Antes de que se libere el juicio, como Lot, Dios sacará a todos los creyentes de manera segura a través del rapto. Juan 14:1-3; 1 Tesalonicenses 4:16-17
 
 ##### - Génesis 19:24-25 *Entonces el SEÑOR hizo llover azufre y fuego sobre Sodoma y Gomorra, de parte del SEÑOR <u>desde</u> los cielos. Él destruyó aquellas ciudades y todo el valle y todos los habitantes de las ciudades y todo lo que crecía en la tierra.*
 
@@ -2256,25 +2260,27 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 - Dios dispersó al <u>pueblo</u> en Babel.
 
-- -Dios no ha cambiado. La Biblia deja en claro que Dios todavía odia el pecado y exige la muerte como castigo por el pecado. ¡El pecado debe ser juzgado! Al mismo tiempo, Él sabe que cada pensamiento e intención del <u>corazón</u> del hombre es solo malo desde la infancia. Por lo tanto, ¡Él ha provisto TODO y no nos ha dejado NADA a nosotros!
+- Dios no ha cambiado. La Biblia deja en claro que Dios todavía odia el pecado y exige la muerte como castigo por el pecado. ¡El pecado debe ser juzgado! Al mismo tiempo, Él sabe que cada pensamiento e intención del <u>corazón</u> del hombre es solo malo desde la infancia. Por lo tanto, ¡Él ha provisto TODO y no nos ha dejado NADA a nosotros!
 
 ##### -Génesis 19:26 *Pero la mujer de Lot, que iba tras él, miró hacia atrás y se <u>convirtió</u> en una columna de sal.*
 
-- -Esto puede parecer extremadamente duro para algunas personas, ¡pero este es nuestro Dios! Mientras que por un lado tienes una abundancia absoluta de gracia, como vemos desplegada en la vida de Lot, al mismo tiempo vemos una estricta fidelidad para juzgar el pecado y la desobediencia. Es la misma imagen que vemos en Dios enviando a Jesús a pagar por nuestro pecado. Esta fue una abundancia radical de gracia hasta el <u>punto</u> de dar a su propio Hijo para que muriera por sus enemigos, pero, al mismo tiempo, un juicio estricto, exigente y fiel del pecado hasta el punto de castigar a su propio Hijo en nuestro nombre.
+- -Esto puede parecer extremadamente duro para algunas personas, ¡pero este es nuestro Dios! Mientras que por un lado tienes una abundancia absoluta de gracia, como vemos desplegada en la vida de Lot, al mismo tiempo vemos una estricta fidelidad para juzgar el pecado y la desobediencia. Es la misma imagen que vemos en Dios enviando a Jesús a pagar por nuestro pecado. 
+
+- Esta fue una abundancia radical de gracia hasta el <u>punto</u> de dar a su propio Hijo para que muriera por sus enemigos, pero, al mismo tiempo, un juicio estricto, exigente y fiel del pecado hasta el punto de castigar a su propio Hijo en nuestro nombre.
 
 ## Preguntas de revisión
 
-##### -Si alguien te preguntara ¿Qué tan soberano es Dios?, ¿cómo responderías?
+##### Si alguien te preguntara ¿Qué tan soberano es Dios?, ¿cómo responderías?
 
-##### -¿Por qué Dios comunicó su plan al hombre?
+##### ¿Por qué Dios comunicó su plan al hombre?
 
-##### -¿Qué hace que Dios nos otorgue amor, gracia y bondad?
+##### ¿Qué hace que Dios nos otorgue amor, gracia y bondad?
 
-##### -Una y otra vez a lo largo del Antiguo Testamento, Dios hace lo imposible. ¿Qué importancia tienen estos ejemplos para nosotros hoy?
+##### Una y otra vez a lo largo del Antiguo Testamento, Dios hace lo imposible. ¿Qué importancia tienen estos ejemplos para nosotros hoy?
 
-##### -Nombra algunas razones por las que Dios eligió a una pareja estéril y luego esperó hasta que fueran mayores para darles un hijo.
+##### Nombra algunas razones por las que Dios eligió a una pareja estéril y luego esperó hasta que fueran mayores para darles un hijo.
 
-##### -Nombra la descripción principal sobre la humanidad que ha sido probada una y otra vez a lo largo de Génesis.
+##### Nombra la descripción principal sobre la humanidad que ha sido probada una y otra vez a lo largo de Génesis.
 
 # NACIO ISAAC Y DIOS LO LIBERÓ DE LA MUERTE
 
@@ -2282,7 +2288,9 @@ Linaje de Caín vs. Linaje de Set en Génesis
 
 ##### -Leer Génesis 20
 
-- -Dios quiere que lo conozcamos y confiemos en Él, pero naturalmente no ponemos nuestra confianza en extraños, ¿verdad? Hasta que llegamos a conocer el carácter de una persona, siempre existe ese elemento de duda. Dios lo sabe, por lo que nos ha dado la Biblia para mostrarnos quién es Él y cómo es. Cuanto más entendamos y aceptemos lo que Él ha revelado sobre sí mismo a través de estas historias del Antiguo Testamento, más podremos <u>creer</u> en las promesas que Él nos ha prometido a lo largo del Nuevo Testamento. Esta es exactamente la obra que seguimos viendo a Dios hacer en la vida de Abraham. Mientras Dios lo usaba para crear la Nación de Israel y, en última instancia, la línea de Cristo, Dios se revelaba cada vez más a Abraham y le mostraba quién es realmente. Dios cumplió su promesa de darles un hijo a Abraham y Sara.
+- Dios quiere que lo conozcamos y confiemos en Él, pero naturalmente no ponemos nuestra confianza en extraños, ¿verdad? Hasta que llegamos a conocer el carácter de una persona, siempre existe ese elemento de duda. Dios lo sabe, por lo que nos ha dado la Biblia para mostrarnos quién es Él y cómo es. Cuanto más entendamos y aceptemos lo que Él ha revelado sobre sí mismo a través de estas historias del Antiguo Testamento, más podremos <u>creer</u> en las promesas que Él nos ha prometido a lo largo del Nuevo Testamento. Esta es exactamente la obra que seguimos viendo a Dios hacer en la vida de Abraham. 
+
+- Mientras Dios lo usaba para crear la Nación de Israel y, en última instancia, la línea de Cristo, Dios se revelaba cada vez más a Abraham y le mostraba quién es realmente. Dios cumplió su promesa de darles un hijo a Abraham y Sara.
 
 - -Tendemos a ver a Abraham como este gran hombre de fe. Dios le ordenó que dejara su tierra natal y fuera a donde Dios le mostrara, e inmediatamente se fue y creyó en Dios. Bueno, como vimos hace unas lecciones, no fue así. Lo mismo es cierto con respecto a la promesa de Dios de dar un hijo a Abraham y Sara. También podemos centrarnos en Abraham y pensar en él como este gran hombre de fe que siempre confió y creyó en Dios. Sin embargo, la <u>verdad</u> es que crecer en el conocimiento de Dios y nuestra capacidad de confiar en Él es un verdadero proceso de tiempo. Aunque tenemos momentos de creer y confiar genuinamente en Dios, también tenemos muchos momentos de duda e incredulidad. Abraham no fue diferente.
 
