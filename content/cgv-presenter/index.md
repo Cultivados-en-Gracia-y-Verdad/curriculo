@@ -9,7 +9,11 @@ CGV Presenter es una aplicación diseñada para la enseñanza bíblica y el uso 
 
 La aplicación trabaja de forma **offline-first**. Esto significa que los cursos, canciones, Biblias y materiales deben estar disponibles localmente. El internet puede servir para descargar cursos, actualizaciones o permitir que los alumnos respondan cuestionarios desde sus teléfonos, pero la enseñanza no debe depender de una conexión estable.
 
+La versión actual publicada en la página de descargas es **CGV Presenter 1.1.12** para macOS. La versión para Windows se actualizará cuando el instalador se genere desde una computadora Windows.
+
 ## 1. Instalación
+
+La página de descargas obtiene automáticamente la versión más reciente publicada en GitHub Releases cuando está disponible. Si no hay internet, la página mantiene enlaces de respaldo visibles.
 
 ### macOS
 
@@ -22,7 +26,7 @@ Si macOS muestra una advertencia de seguridad, abra la aplicación desde el Find
 
 ### Windows
 
-1. Descargue el instalador para Windows desde la página de descargas.
+1. Descargue el instalador para Windows desde la página de descargas. Si la versión nueva todavía no aparece para Windows, use la versión disponible hasta que se publique el instalador actualizado.
 2. Ejecute el archivo `.exe`.
 3. Siga las instrucciones del instalador.
 4. Abra **CGV Presenter** desde el menú de inicio o acceso directo.
@@ -42,6 +46,8 @@ http://192.168.1.25:3000
 ```
 
 La dirección exacta depende de la red local.
+
+Desde el menú **Ver > Códigos QR de conexión**, CGV Presenter puede mostrar los códigos QR para las vistas de audiencia, tablet, controlador, director y escenario. Esto permite conectar teléfonos o tablets sin escribir manualmente la dirección local.
 
 ## 3. Modos de presentación
 
@@ -105,7 +111,8 @@ Incluye:
 - próxima diapositiva,
 - notas,
 - acceso a cuestionarios,
-- referencias bíblicas.
+- referencias bíblicas,
+- selector para saltar directamente a una sección del curso.
 
 Esta vista es para enseñanza. No debe mostrarse a la audiencia.
 
@@ -142,7 +149,23 @@ Permite:
 - usar gestos de deslizamiento en dispositivos táctiles,
 - abrir referencias bíblicas,
 - buscar canciones en modo canción,
+- escoger secciones del curso para saltar directamente a ellas,
 - volver a enseñanza cuando sea necesario.
+
+### Vista de tablet
+
+La vista de tablet (`tablet.html`) permite dibujar sobre la presentación desde una tablet o pantalla táctil. Esta vista debe abrirse después de que la vista principal ya esté visible, para que ambas vistas usen la misma proporción visual.
+
+Se usa para:
+
+- marcar o subrayar texto mientras se enseña,
+- enviar los dibujos a la vista principal,
+- usar una pantalla en blanco para escribir notas aparte,
+- borrar dibujos cuando ya no se necesitan.
+
+Los dibujos hechos sobre la presentación quedan asociados a la vista normal. Cuando se activa la pantalla en blanco, esos dibujos se ocultan; al quitar la pantalla en blanco vuelven a aparecer. Los dibujos hechos en la pantalla en blanco se mantienen aparte para referencia y no se mezclan con los dibujos hechos sobre el texto.
+
+Mientras la pantalla en blanco está activa, el avance de diapositivas desde la tablet queda deshabilitado para evitar cambios accidentales.
 
 ### Vista de controlador
 
@@ -151,6 +174,7 @@ La vista de controlador es para los encargados de medios.
 Permite:
 
 - seleccionar canciones,
+- escoger una biblioteca o carpeta de canciones,
 - enviar canciones en vivo,
 - cambiar fondos,
 - mostrar pantalla en blanco,
@@ -178,6 +202,8 @@ CGV Presenter/
 ```
 
 El archivo `manifest.json` describe el curso. La carpeta `slides` contiene el archivo Markdown principal. La carpeta `quizzes` contiene los cuestionarios.
+
+Los cursos pueden descargarse a la biblioteca local desde las opciones de biblioteca/descarga de la aplicación. Después de descargarlos, pueden usarse sin internet.
 
 ## 6. Markdown de enseñanza
 
@@ -299,6 +325,37 @@ Puede usar etiquetas como:
 
 Estas etiquetas ayudan a identificar las secciones en las miniaturas y en la vista de control.
 
+### Bibliotecas de canciones
+
+Las canciones se guardan dentro de la carpeta local `songs`. Dentro de esa carpeta pueden organizarse por bibliotecas o subcarpetas.
+
+Ejemplo:
+
+```text
+CGV Presenter/
+└── songs/
+    ├── chordpro/
+    │   ├── coros/
+    │   ├── himnos/
+    │   └── niños/
+    └── cho/
+        └── himnos/
+```
+
+El controlador y el director muestran las carpetas de canciones arriba de la lista. Al seleccionar una biblioteca, solamente se muestran las canciones de esa carpeta. Las carpetas anidadas también pueden seleccionarse como bibliotecas.
+
+Cuando se edita una canción descargada desde una carpeta, CGV Presenter guarda los cambios en el mismo archivo, no en la raíz de `songs`.
+
+### Descargar canciones desde un repositorio
+
+CGV Presenter puede usar un repositorio de GitHub como fuente de canciones. Desde la ventana de descargas se puede indicar:
+
+- URL del repositorio,
+- rama,
+- carpeta donde están las canciones.
+
+Al descargar canciones desde el repositorio, los archivos se copian a la biblioteca local. Esto permite corregirlas, usarlas sin internet y mantener una colección local organizada.
+
 ### Acordes
 
 Los acordes se escriben dentro de corchetes, como en ChordPro:
@@ -310,6 +367,10 @@ Los acordes se escriben dentro de corchetes, como en ChordPro:
 La vista principal muestra la letra para la congregación. La vista de escenario puede mostrar los acordes sobre la letra para los músicos.
 
 En la vista de escenario, `+` sube la tonalidad medio tono y `-` la baja medio tono.
+
+### Atajos de fondos
+
+Las primeras nueve imágenes de fondo pueden seleccionarse con las teclas `1` a `9`. Esto funciona desde el controlador, presentador, proyector y director, siempre que no se esté escribiendo dentro de un campo de texto.
 
 ## 10. Fondos y pantalla en blanco
 
@@ -325,17 +386,23 @@ Recomendaciones:
 
 La pantalla en blanco permite limpiar la proyección sin cerrar la aplicación ni detener la sesión.
 
+Cuando la pantalla en blanco usa una imagen de fondo, no se aplica el filtro oscuro usado para canciones con imagen. El filtro oscuro se mantiene solamente en fondos de canciones para ayudar a leer la letra.
+
+La pantalla en blanco también puede servir como espacio separado para dibujar desde la tablet. Los dibujos de la pantalla en blanco no reemplazan los dibujos hechos sobre la presentación.
+
 ## 11. Uso recomendado en una iglesia
 
 Un flujo común puede ser:
 
 1. El encargado de medios abre CGV Presenter.
-2. El controlador selecciona canciones, fondos o pantalla en blanco.
-3. El director usa `director.html` desde un teléfono o tablet para avanzar.
-4. Los músicos usan `stage.html` para ver letra, acordes y próxima sección.
-5. La audiencia ve la pantalla principal.
-6. Cuando empieza la enseñanza, se vuelve al modo enseñanza.
-7. El maestro usa la vista del presentador para avanzar, abrir referencias y lanzar cuestionarios.
+2. El encargado abre la ventana de códigos QR si otras personas necesitan conectar tablets o teléfonos.
+3. El controlador selecciona canciones, bibliotecas, fondos o pantalla en blanco.
+4. El director usa `director.html` desde un teléfono o tablet para avanzar o saltar a secciones.
+5. Si se necesita dibujar sobre la presentación, se abre `tablet.html` después de que la vista principal esté visible.
+6. Los músicos usan `stage.html` para ver letra, acordes y próxima sección.
+7. La audiencia ve la pantalla principal.
+8. Cuando empieza la enseñanza, se vuelve al modo enseñanza.
+9. El maestro usa la vista del presentador para avanzar, abrir referencias, saltar a secciones y lanzar cuestionarios.
 
 Esto permite que canciones y enseñanza convivan en el mismo sistema sin mezclar controles privados con la vista pública.
 
@@ -349,6 +416,9 @@ Esto permite que canciones y enseñanza convivan en el mismo sistema sin mezclar
 - Prepare los cuestionarios antes de iniciar.
 - Revise que los alumnos puedan entrar a la dirección local antes de lanzar un cuestionario.
 - En canciones, mantenga estrofas cortas de cuatro líneas cuando sea posible.
+- Abra la vista de tablet después de abrir la vista principal si necesita dibujar con alineación correcta.
+- Mantenga las canciones organizadas por carpetas para que la lista sea más fácil de navegar.
+- Use las teclas `1` a `9` para cambiar rápidamente entre los primeros fondos de imagen.
 
 ## 13. Solución de problemas
 
@@ -371,6 +441,14 @@ Divida la canción en secciones más pequeñas. Procure estrofas de cuatro líne
 ### El fondo dificulta leer la letra
 
 Use una imagen más sencilla o cambie a un fondo oscuro con mejor contraste.
+
+### La tablet no coincide con la vista principal
+
+Abra primero la vista principal y luego `tablet.html`. La tablet debe usar la misma proporción visual que la pantalla principal para que los dibujos coincidan con el texto proyectado.
+
+### No aparecen todas las canciones
+
+Revise qué biblioteca o carpeta de canciones está seleccionada en el controlador o director. CGV Presenter muestra una biblioteca de canciones a la vez.
 
 ## 14. Prioridad del sistema
 
