@@ -207,6 +207,11 @@ li {
   color: #64748b;
 }
 
+.download-card .download-muted {
+  margin-top: 6px;
+  color: #94a3b8;
+}
+
 .download-note {
   margin-top: 24px;
   border-left: 4px solid #0f766e;
