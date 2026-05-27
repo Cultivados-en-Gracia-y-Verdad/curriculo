@@ -748,11 +748,11 @@ de qué clase de persona ==es==.
 
 este ==será== bienaventurado en lo que hace.
 
-Si alguien ==se cree== religioso, pero no refrena su lengua, sino que engaña a su *propio* corazón, la religión del tal es vana. 
+Si alguien ==se cree== religioso, 
 
 La religión pura y sin mancha delante de *nuestro* Dios y Padre ==es== esta: 
 
-Hermanos míos, no ==tengan== su fe en nuestro glorioso Señor Jesucristo con *una actitud* de favoritismo. 
+Hermanos míos, no ==tengan== su fe en nuestro glorioso Señor Jesucristo 
 
 «==Siéntese== aquí, en un buen lugar»; 
 
@@ -902,7 +902,7 @@ no ==sean arrogantes==
 
 Esta sabiduría no ==es== la que viene de lo alto, sino que es terrenal, natural, diabólica. 
 
-[Pero]() la sabiduría de lo alto+DE HECHO+ ==es== primeramente pura, después pacífica, amable, condescendiente, llena de misericordia y de buenos frutos, sin vacilación, sin hipocresía. 
+[Pero]() la sabiduría de lo alto+DE HECHO+ ==es== primeramente pura, 
 
 [Y](de) la semilla cuyo fruto es la justicia ==se siembra== en paz por aquellos que hacen la paz.
 

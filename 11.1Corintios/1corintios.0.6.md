@@ -2,8 +2,8 @@
 title:  "1 Corintios"
 subtitle:  "La Iglesia Espiritual - según Sí Misma"
 author:  "CGV"
-version:  "0.5"
-date:  "2026-05-17"
+version:  "0.6"
+date:  "2026-05-27"
 cover: "images/portada.png"
 
 ---
