@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="1 Corintios"
-FILE_LOCATION="../11.1Corintios"
-FILENAME="/1corintios.0.5.md"
+MANUAL_NAME="Santiago"
+FILE_LOCATION="../13.Santiago"
+FILENAME="/Santiago.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

@@ -4,490 +4,138 @@
 \contentsline {subsection}{Metodología de estudio}{2}{subsection*.4}%
 \contentsline {subsection}{Alcance y uso del manual}{2}{subsection*.5}%
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
-\contentsline {section}{INTRODUCCIÓN}{4}{section*.7}%
-\contentsline {subsection}{História y Geografia}{4}{subsection*.8}%
-\contentsline {section}{1:1-4:21 --- Pablo redefine la sabiduría y espiritualidad desde la cruz}{10}{section*.9}%
-\contentsline {subsection}{1:1-9 Pablo establece las verdaderas riquezas que los corintios poseen en Cristo}{10}{subsection*.10}%
-\contentsline {subsubsection}{1 Corintios 1:1}{10}{subsubsection*.11}%
-\contentsline {subsubsection}{1 Corintios 1:2}{11}{subsubsection*.12}%
-\contentsline {subsubsection}{1 Corintios 1:3}{12}{subsubsection*.13}%
-\contentsline {subsubsection}{1 Corintios 1:4}{13}{subsubsection*.14}%
-\contentsline {subsubsection}{1 Corintios 1:5}{13}{subsubsection*.15}%
-\contentsline {subsubsection}{1 Corintios 1:6}{14}{subsubsection*.16}%
-\contentsline {subsubsection}{1 Corintios 1:7}{15}{subsubsection*.17}%
-\contentsline {subsubsection}{1 Corintios 1:8}{15}{subsubsection*.18}%
-\contentsline {subsubsection}{1 Corintios 1:9}{16}{subsubsection*.19}%
-\contentsline {subsection}{1:10 Las identificaciones y divisiones que existían entre los corintios}{17}{subsection*.20}%
-\contentsline {subsubsection}{1 Corintios 1:10}{17}{subsubsection*.21}%
-\contentsline {subsection}{1 Corintios 1:11-17 - El informe que Pablo recibió y el contraste entre identificarse según hombres y según Cristo}{19}{subsection*.22}%
-\contentsline {subsubsection}{1 Corintios 1:11}{19}{subsubsection*.23}%
-\contentsline {subsubsection}{1 Corintios 1:12}{20}{subsubsection*.24}%
-\contentsline {subsubsection}{1 Corintios 1:13}{21}{subsubsection*.25}%
-\contentsline {subsubsection}{1 Corintios 1:14}{22}{subsubsection*.26}%
-\contentsline {subsubsection}{1 Corintios 1:15}{22}{subsubsection*.27}%
-\contentsline {subsubsection}{1 Corintios 1:16}{23}{subsubsection*.28}%
-\contentsline {subsubsection}{1 Corintios 1:17}{23}{subsubsection*.29}%
-\contentsline {subsection}{1:18-2:5 La cruz destruye la gloria y sabiduría humanas}{25}{subsection*.30}%
-\contentsline {subsubsection}{1 Corintios 1:18}{25}{subsubsection*.31}%
-\contentsline {subsubsection}{1 Corintios 1:19}{26}{subsubsection*.32}%
-\contentsline {subsubsection}{1 Corintios 1:20}{27}{subsubsection*.33}%
-\contentsline {subsubsection}{1 Corintios 1:21}{27}{subsubsection*.34}%
-\contentsline {subsubsection}{1 Corintios 1:22}{28}{subsubsection*.35}%
-\contentsline {subsubsection}{1 Corintios 1:23}{29}{subsubsection*.36}%
-\contentsline {subsubsection}{1 Corintios 1:24}{30}{subsubsection*.37}%
-\contentsline {subsubsection}{1 Corintios 1:25}{31}{subsubsection*.38}%
-\contentsline {subsubsection}{1 Corintios 1:26}{31}{subsubsection*.39}%
-\contentsline {subsubsection}{1 Corintios 1:27}{32}{subsubsection*.40}%
-\contentsline {subsubsection}{1 Corintios 1:28}{33}{subsubsection*.41}%
-\contentsline {subsubsection}{1 Corintios 1:29}{33}{subsubsection*.42}%
-\contentsline {subsubsection}{1 Corintios 1:30}{34}{subsubsection*.43}%
-\contentsline {subsubsection}{1 Corintios 1:31}{35}{subsubsection*.44}%
-\contentsline {subsubsection}{1 Corintios 2:1}{35}{subsubsection*.45}%
-\contentsline {subsubsection}{1 Corintios 2:2}{36}{subsubsection*.46}%
-\contentsline {subsubsection}{1 Corintios 2:3}{37}{subsubsection*.47}%
-\contentsline {subsubsection}{1 Corintios 2:4}{37}{subsubsection*.48}%
-\contentsline {subsubsection}{1 Corintios 2:5}{38}{subsubsection*.49}%
-\contentsline {subsection}{2:6-16 La sabiduría de Dios no proviene del hombre, sino del Espíritu}{39}{subsection*.50}%
-\contentsline {subsubsection}{1 Corintios 2:6}{39}{subsubsection*.51}%
-\contentsline {subsubsection}{1 Corintios 2:7}{40}{subsubsection*.52}%
-\contentsline {subsubsection}{1 Corintios 2:8}{41}{subsubsection*.53}%
-\contentsline {subsubsection}{1 Corintios 2:9}{42}{subsubsection*.54}%
-\contentsline {subsubsection}{1 Corintios 2:10}{43}{subsubsection*.55}%
-\contentsline {subsubsection}{1 Corintios 2:11}{43}{subsubsection*.56}%
-\contentsline {subsubsection}{1 Corintios 2:12}{44}{subsubsection*.57}%
-\contentsline {subsubsection}{1 Corintios 2:13}{46}{subsubsection*.58}%
-\contentsline {subsubsection}{1 Corintios 2:14}{47}{subsubsection*.59}%
-\contentsline {subsubsection}{1 Corintios 2:15}{48}{subsubsection*.60}%
-\contentsline {subsubsection}{1 Corintios 2:16}{49}{subsubsection*.61}%
-\contentsline {subsection}{3:1-4 La espiritualidad y la carnalidad entre los corintios}{50}{subsection*.62}%
-\contentsline {subsubsection}{1 Corintios 3:1}{50}{subsubsection*.63}%
-\contentsline {subsubsection}{1 Corintios 3:2}{51}{subsubsection*.64}%
-\contentsline {subsubsection}{1 Corintios 3:3}{52}{subsubsection*.65}%
-\contentsline {subsubsection}{1 Corintios 3:4}{54}{subsubsection*.66}%
-\contentsline {subsection}{3:5-4:5 Los servidores y la gloria entre los corintios}{55}{subsection*.67}%
-\contentsline {subsubsection}{1 Corintios 3:5}{55}{subsubsection*.68}%
-\contentsline {subsubsection}{1 Corintios 3:6}{56}{subsubsection*.69}%
-\contentsline {subsubsection}{1 Corintios 3:7}{57}{subsubsection*.70}%
-\contentsline {subsubsection}{1 Corintios 3:8}{58}{subsubsection*.71}%
-\contentsline {subsubsection}{1 Corintios 3:9}{59}{subsubsection*.72}%
-\contentsline {subsubsection}{1 Corintios 3:10}{60}{subsubsection*.73}%
-\contentsline {subsection}{1 Corintios 3:10b-15 - La obra de cada uno sería probada sobre el fundamento que es Cristo}{61}{subsection*.74}%
-\contentsline {subsubsection}{1 Corintios 3:11}{62}{subsubsection*.75}%
-\contentsline {subsubsection}{1 Corintios 3:12}{63}{subsubsection*.76}%
-\contentsline {subsubsection}{1 Corintios 3:13}{63}{subsubsection*.77}%
-\contentsline {subsubsection}{1 Corintios 3:14}{64}{subsubsection*.78}%
-\contentsline {subsubsection}{1 Corintios 3:15}{65}{subsubsection*.79}%
-\contentsline {subsection}{1 Corintios 3:16-17 - El templo de Dios es santo, y Dios destruye al que lo destruye}{66}{subsection*.80}%
-\contentsline {subsubsection}{1 Corintios 3:16}{66}{subsubsection*.81}%
-\contentsline {subsubsection}{1 Corintios 3:17}{66}{subsubsection*.82}%
-\contentsline {subsection}{1 Corintios 3:18-22 - La sabiduría y la gloria que existían entre los corintios}{68}{subsection*.83}%
-\contentsline {subsubsection}{1 Corintios 3:18}{68}{subsubsection*.84}%
-\contentsline {subsubsection}{1 Corintios 3:19}{70}{subsubsection*.85}%
-\contentsline {subsubsection}{1 Corintios 3:20}{70}{subsubsection*.86}%
-\contentsline {subsubsection}{1 Corintios 3:21}{71}{subsubsection*.87}%
-\contentsline {subsubsection}{1 Corintios 3:22}{71}{subsubsection*.88}%
-\contentsline {subsection}{3:23-4:5 Pablo redefine la manera correcta de considerar a los siervos, el juicio y la gloria}{72}{subsection*.89}%
-\contentsline {subsubsection}{1 Corintios 3:23}{72}{subsubsection*.90}%
-\contentsline {subsubsection}{1 Corintios 4:1}{73}{subsubsection*.91}%
-\contentsline {subsubsection}{1 Corintios 4:2}{74}{subsubsection*.92}%
-\contentsline {subsubsection}{1 Corintios 4:3}{74}{subsubsection*.93}%
-\contentsline {subsubsection}{1 Corintios 4:4}{75}{subsubsection*.94}%
-\contentsline {subsubsection}{1 Corintios 4:5}{76}{subsubsection*.95}%
-\contentsline {subsection}{4:6-13 La percepción que los corintios tenían de sí mismos y de los apóstoles}{78}{subsection*.96}%
-\contentsline {subsubsection}{1 Corintios 4:6}{78}{subsubsection*.97}%
-\contentsline {subsubsection}{1 Corintios 4:7}{79}{subsubsection*.98}%
-\contentsline {subsubsection}{1 Corintios 4:8}{80}{subsubsection*.99}%
-\contentsline {subsubsection}{1 Corintios 4:9}{81}{subsubsection*.100}%
-\contentsline {subsubsection}{1 Corintios 4:10}{82}{subsubsection*.101}%
-\contentsline {subsubsection}{1 Corintios 4:11}{83}{subsubsection*.102}%
-\contentsline {subsubsection}{1 Corintios 4:12}{84}{subsubsection*.103}%
-\contentsline {subsubsection}{1 Corintios 4:13}{85}{subsubsection*.104}%
-\contentsline {subsection}{4:14-21 Los caminos que Pablo quería recordarles a los corintios}{85}{subsection*.105}%
-\contentsline {subsubsection}{1 Corintios 4:14}{85}{subsubsection*.106}%
-\contentsline {subsubsection}{1 Corintios 4:15}{86}{subsubsection*.107}%
-\contentsline {subsubsection}{1 Corintios 4:16}{87}{subsubsection*.108}%
-\contentsline {subsubsection}{1 Corintios 4:17}{88}{subsubsection*.109}%
-\contentsline {subsubsection}{1 Corintios 4:18}{89}{subsubsection*.110}%
-\contentsline {subsubsection}{1 Corintios 4:19}{89}{subsubsection*.111}%
-\contentsline {subsubsection}{1 Corintios 4:20}{90}{subsubsection*.112}%
-\contentsline {subsubsection}{1 Corintios 4:21}{90}{subsubsection*.113}%
-\contentsline {section}{5:1-7:40 --- Pablo redefine el cuerpo y las relaciones desde la pertenencia a Cristo}{92}{section*.114}%
-\contentsline {subsection}{5:1-13 La manera en que los corintios respondían al pecado dentro de la iglesia}{92}{subsection*.115}%
-\contentsline {subsubsection}{1 Corintios 5:1}{92}{subsubsection*.116}%
-\contentsline {subsubsection}{1 Corintios 5:2}{92}{subsubsection*.117}%
-\contentsline {subsubsection}{1 Corintios 5:3}{93}{subsubsection*.118}%
-\contentsline {subsubsection}{1 Corintios 5:4}{94}{subsubsection*.119}%
-\contentsline {subsubsection}{1 Corintios 5:5}{94}{subsubsection*.120}%
-\contentsline {subsubsection}{1 Corintios 5:6}{95}{subsubsection*.121}%
-\contentsline {subsubsection}{1 Corintios 5:7}{95}{subsubsection*.122}%
-\contentsline {subsubsection}{1 Corintios 5:8}{96}{subsubsection*.123}%
-\contentsline {subsubsection}{1 Corintios 5:9}{97}{subsubsection*.124}%
-\contentsline {subsubsection}{1 Corintios 5:10}{97}{subsubsection*.125}%
-\contentsline {subsubsection}{1 Corintios 5:11}{98}{subsubsection*.126}%
-\contentsline {subsubsection}{1 Corintios 5:12}{98}{subsubsection*.127}%
-\contentsline {subsubsection}{1 Corintios 5:13}{99}{subsubsection*.128}%
-\contentsline {subsection}{6:1-11 Los conflictos y los derechos entre los corintios}{99}{subsection*.129}%
-\contentsline {subsubsection}{1 Corintios 6:1}{99}{subsubsection*.130}%
-\contentsline {subsubsection}{1 Corintios 6:2}{100}{subsubsection*.131}%
-\contentsline {subsubsection}{1 Corintios 6:3}{101}{subsubsection*.132}%
-\contentsline {subsubsection}{1 Corintios 6:4}{101}{subsubsection*.133}%
-\contentsline {subsubsection}{1 Corintios 6:5}{102}{subsubsection*.134}%
-\contentsline {subsubsection}{1 Corintios 6:6}{102}{subsubsection*.135}%
-\contentsline {subsubsection}{1 Corintios 6:7}{103}{subsubsection*.136}%
-\contentsline {subsubsection}{1 Corintios 6:8}{104}{subsubsection*.137}%
-\contentsline {subsubsection}{1 Corintios 6:9}{104}{subsubsection*.138}%
-\contentsline {subsubsection}{1 Corintios 6:10}{105}{subsubsection*.139}%
-\contentsline {subsubsection}{1 Corintios 6:11}{105}{subsubsection*.140}%
-\contentsline {subsection}{6:12-20 La libertad, el cuerpo y la pertenencia entre los corintios}{107}{subsection*.141}%
-\contentsline {subsubsection}{1 Corintios 6:12}{107}{subsubsection*.142}%
-\contentsline {subsubsection}{1 Corintios 6:13}{107}{subsubsection*.143}%
-\contentsline {subsubsection}{1 Corintios 6:14}{108}{subsubsection*.144}%
-\contentsline {subsubsection}{1 Corintios 6:15}{108}{subsubsection*.145}%
-\contentsline {subsubsection}{1 Corintios 6:16}{109}{subsubsection*.146}%
-\contentsline {subsubsection}{1 Corintios 6:17}{109}{subsubsection*.147}%
-\contentsline {subsubsection}{1 Corintios 6:18}{110}{subsubsection*.148}%
-\contentsline {subsubsection}{1 Corintios 6:19}{110}{subsubsection*.149}%
-\contentsline {subsubsection}{1 Corintios 6:20}{111}{subsubsection*.150}%
-\contentsline {subsection}{7:1-7 El matrimonio, la abstinencia y las responsabilidades mutuas entre los corintios}{112}{subsection*.151}%
-\contentsline {subsubsection}{1 Corintios 7:1}{112}{subsubsection*.152}%
-\contentsline {subsubsection}{1 Corintios 7:2}{113}{subsubsection*.153}%
-\contentsline {subsubsection}{1 Corintios 7:3}{114}{subsubsection*.154}%
-\contentsline {subsubsection}{1 Corintios 7:4}{115}{subsubsection*.155}%
-\contentsline {subsubsection}{1 Corintios 7:5}{116}{subsubsection*.156}%
-\contentsline {subsubsection}{1 Corintios 7:6}{117}{subsubsection*.157}%
-\contentsline {subsubsection}{1 Corintios 7:7}{117}{subsubsection*.158}%
-\contentsline {subsection}{7:8-24 La manera en que los corintios debían vivir sus relaciones y condición actual}{118}{subsection*.159}%
-\contentsline {subsubsection}{1 Corintios 7:8}{118}{subsubsection*.160}%
-\contentsline {subsubsection}{1 Corintios 7:9}{119}{subsubsection*.161}%
-\contentsline {subsubsection}{1 Corintios 7:10}{119}{subsubsection*.162}%
-\contentsline {subsubsection}{1 Corintios 7:11}{120}{subsubsection*.163}%
-\contentsline {subsubsection}{1 Corintios 7:12}{120}{subsubsection*.164}%
-\contentsline {subsubsection}{1 Corintios 7:13}{121}{subsubsection*.165}%
-\contentsline {subsubsection}{1 Corintios 7:14}{121}{subsubsection*.166}%
-\contentsline {subsubsection}{1 Corintios 7:15}{122}{subsubsection*.167}%
-\contentsline {subsubsection}{1 Corintios 7:16}{123}{subsubsection*.168}%
-\contentsline {subsubsection}{1 Corintios 7:17}{123}{subsubsection*.169}%
-\contentsline {subsubsection}{1 Corintios 7:18}{124}{subsubsection*.170}%
-\contentsline {subsubsection}{1 Corintios 7:19}{125}{subsubsection*.171}%
-\contentsline {subsubsection}{1 Corintios 7:20}{125}{subsubsection*.172}%
-\contentsline {subsubsection}{1 Corintios 7:21}{125}{subsubsection*.173}%
-\contentsline {subsubsection}{1 Corintios 7:22}{126}{subsubsection*.174}%
-\contentsline {subsubsection}{1 Corintios 7:23}{127}{subsubsection*.175}%
-\contentsline {subsubsection}{1 Corintios 7:24}{127}{subsubsection*.176}%
-\contentsline {subsection}{1 CORINTIOS 7:25--30 La realidad presente y las condiciones temporales}{128}{subsection*.177}%
-\contentsline {subsubsection}{1 Corintios 7:25}{128}{subsubsection*.178}%
-\contentsline {subsubsection}{1 Corintios 7:26}{129}{subsubsection*.179}%
-\contentsline {subsubsection}{1 Corintios 7:27}{129}{subsubsection*.180}%
-\contentsline {subsubsection}{1 Corintios 7:28}{130}{subsubsection*.181}%
-\contentsline {subsubsection}{1 Corintios 7:29}{131}{subsubsection*.182}%
-\contentsline {subsubsection}{1 Corintios 7:30}{131}{subsubsection*.183}%
-\contentsline {subsubsection}{Las realidades temporales no son tratadas como definitivas.}{132}{subsubsection*.184}%
-\contentsline {subsubsection}{1 Corintios 7:31}{132}{subsubsection*.185}%
-\contentsline {subsubsection}{1 Corintios 7:32}{133}{subsubsection*.186}%
-\contentsline {subsubsection}{1 Corintios 7:33}{133}{subsubsection*.187}%
-\contentsline {subsubsection}{1 Corintios 7:34}{134}{subsubsection*.188}%
-\contentsline {subsubsection}{1 Corintios 7:35}{135}{subsubsection*.189}%
-\contentsline {subsubsection}{1 Corintios 7:36}{136}{subsubsection*.190}%
-\contentsline {subsubsection}{1 Corintios 7:37}{136}{subsubsection*.191}%
-\contentsline {subsubsection}{1 Corintios 7:38}{137}{subsubsection*.192}%
-\contentsline {subsubsection}{1 Corintios 7:39}{137}{subsubsection*.193}%
-\contentsline {subsubsection}{1 Corintios 7:40}{138}{subsubsection*.194}%
-\contentsline {section}{8:1-14:40 --- Pablo redefine el conocimiento, la libertad y la espiritualidad desde el amor y la edificación}{139}{section*.195}%
-\contentsline {subsection}{8:1-13 El conocimiento, la libertad y el hermano débil entre los corintios}{139}{subsection*.196}%
-\contentsline {subsubsection}{1 Corintios 8:1}{139}{subsubsection*.197}%
-\contentsline {subsubsection}{1 Corintios 8:2}{140}{subsubsection*.198}%
-\contentsline {subsubsection}{1 Corintios 8:3}{140}{subsubsection*.199}%
-\contentsline {subsubsection}{1 Corintios 8:4}{141}{subsubsection*.200}%
-\contentsline {subsubsection}{1 Corintios 8:5}{141}{subsubsection*.201}%
-\contentsline {subsubsection}{1 Corintios 8:6}{141}{subsubsection*.202}%
-\contentsline {subsubsection}{1 Corintios 8:7}{142}{subsubsection*.203}%
-\contentsline {subsubsection}{1 Corintios 8:8}{143}{subsubsection*.204}%
-\contentsline {subsubsection}{1 Corintios 8:9}{143}{subsubsection*.205}%
-\contentsline {subsubsection}{1 Corintios 8:10}{144}{subsubsection*.206}%
-\contentsline {subsubsection}{1 Corintios 8:11}{144}{subsubsection*.207}%
-\contentsline {subsubsection}{1 Corintios 8:12}{144}{subsubsection*.208}%
-\contentsline {subsubsection}{1 Corintios 8:13}{145}{subsubsection*.209}%
-\contentsline {subsection}{1 Corintios 9:1--20 Pablo usa su propia vida para redefinir libertad, derechos y servicio}{146}{subsection*.210}%
-\contentsline {subsubsection}{1 Corintios 9:1}{146}{subsubsection*.211}%
-\contentsline {subsubsection}{1 Corintios 9:2}{147}{subsubsection*.212}%
-\contentsline {subsubsection}{1 Corintios 9:3}{147}{subsubsection*.213}%
-\contentsline {subsubsection}{1 Corintios 9:4}{148}{subsubsection*.214}%
-\contentsline {subsubsection}{1 Corintios 9:5}{148}{subsubsection*.215}%
-\contentsline {subsubsection}{1 Corintios 9:6}{149}{subsubsection*.216}%
-\contentsline {subsubsection}{1 Corintios 9:7}{149}{subsubsection*.217}%
-\contentsline {subsubsection}{1 Corintios 9:8}{150}{subsubsection*.218}%
-\contentsline {subsubsection}{1 Corintios 9:9}{150}{subsubsection*.219}%
-\contentsline {subsubsection}{1 Corintios 9:10}{151}{subsubsection*.220}%
-\contentsline {subsubsection}{1 Corintios 9:11}{151}{subsubsection*.221}%
-\contentsline {subsubsection}{1 Corintios 9:12}{151}{subsubsection*.222}%
-\contentsline {subsubsection}{1 Corintios 9:13}{152}{subsubsection*.223}%
-\contentsline {subsubsection}{1 Corintios 9:14}{152}{subsubsection*.224}%
-\contentsline {subsubsection}{1 Corintios 9:15}{153}{subsubsection*.225}%
-\contentsline {subsubsection}{1 Corintios 9:16}{153}{subsubsection*.226}%
-\contentsline {subsubsection}{1 Corintios 9:17}{154}{subsubsection*.227}%
-\contentsline {subsubsection}{1 Corintios 9:18}{154}{subsubsection*.228}%
-\contentsline {subsubsection}{1 Corintios 9:19}{155}{subsubsection*.229}%
-\contentsline {subsubsection}{1 Corintios 9:20}{155}{subsubsection*.230}%
-\contentsline {subsubsection}{1 Corintios 9:21}{156}{subsubsection*.231}%
-\contentsline {subsubsection}{1 Corintios 9:22}{157}{subsubsection*.232}%
-\contentsline {subsubsection}{1 Corintios 9:23}{158}{subsubsection*.233}%
-\contentsline {subsubsection}{1 Corintios 9:24}{158}{subsubsection*.234}%
-\contentsline {subsubsection}{1 Corintios 9:25}{159}{subsubsection*.235}%
-\contentsline {subsubsection}{1 Corintios 9:26}{159}{subsubsection*.236}%
-\contentsline {subsubsection}{1 Corintios 9:27}{160}{subsubsection*.237}%
-\contentsline {subsection}{10:1-22 Israel sirve como advertencia contra una falsa seguridad espiritual}{161}{subsection*.238}%
-\contentsline {subsubsection}{1 Corintios 10:1}{161}{subsubsection*.239}%
-\contentsline {subsubsection}{1 Corintios 10:2}{162}{subsubsection*.240}%
-\contentsline {subsubsection}{1 Corintios 10:3}{162}{subsubsection*.241}%
-\contentsline {subsubsection}{1 Corintios 10:4}{162}{subsubsection*.242}%
-\contentsline {subsubsection}{1 Corintios 10:5}{163}{subsubsection*.243}%
-\contentsline {subsubsection}{1 Corintios 10:6}{163}{subsubsection*.244}%
-\contentsline {subsubsection}{1 Corintios 10:7}{164}{subsubsection*.245}%
-\contentsline {subsubsection}{1 Corintios 10:8}{164}{subsubsection*.246}%
-\contentsline {subsubsection}{1 Corintios 10:9}{165}{subsubsection*.247}%
-\contentsline {subsubsection}{1 Corintios 10:10}{165}{subsubsection*.248}%
-\contentsline {subsubsection}{1 Corintios 10:11}{165}{subsubsection*.249}%
-\contentsline {subsubsection}{1 Corintios 10:12}{166}{subsubsection*.250}%
-\contentsline {subsubsection}{1 Corintios 10:13}{166}{subsubsection*.251}%
-\contentsline {subsubsection}{1 Corintios 10:14}{167}{subsubsection*.252}%
-\contentsline {subsubsection}{1 Corintios 10:15}{167}{subsubsection*.253}%
-\contentsline {subsubsection}{1 Corintios 10:16}{167}{subsubsection*.254}%
-\contentsline {subsubsection}{1 Corintios 10:17}{168}{subsubsection*.255}%
-\contentsline {subsubsection}{1 Corintios 10:18}{168}{subsubsection*.256}%
-\contentsline {subsubsection}{1 Corintios 10:19}{169}{subsubsection*.257}%
-\contentsline {subsubsection}{1 Corintios 10:20}{169}{subsubsection*.258}%
-\contentsline {subsubsection}{1 Corintios 10:21}{169}{subsubsection*.259}%
-\contentsline {subsubsection}{1 Corintios 10:22}{170}{subsubsection*.260}%
-\contentsline {subsection}{10:23-11:1 La libertad, el bien del otro y la gloria de Dios entre los corintios}{170}{subsection*.261}%
-\contentsline {subsubsection}{1 Corintios 10:23}{170}{subsubsection*.262}%
-\contentsline {subsubsection}{1 Corintios 10:24}{171}{subsubsection*.263}%
-\contentsline {subsubsection}{1 Corintios 10:25}{171}{subsubsection*.264}%
-\contentsline {subsubsection}{1 Corintios 10:26}{172}{subsubsection*.265}%
-\contentsline {subsubsection}{1 Corintios 10:27}{172}{subsubsection*.266}%
-\contentsline {subsubsection}{1 Corintios 10:28}{172}{subsubsection*.267}%
-\contentsline {subsubsection}{1 Corintios 10:29}{173}{subsubsection*.268}%
-\contentsline {subsubsection}{1 Corintios 10:30}{173}{subsubsection*.269}%
-\contentsline {subsubsection}{1 Corintios 10:31}{174}{subsubsection*.270}%
-\contentsline {subsubsection}{1 Corintios 10:32}{174}{subsubsection*.271}%
-\contentsline {subsubsection}{1 Corintios 10:33}{175}{subsubsection*.272}%
-\contentsline {subsubsection}{1 Corintios 11:1}{176}{subsubsection*.273}%
-\contentsline {subsection}{11:2-16 La manera en que los corintios estaban expresando honra, autoridad y espiritualidad cuando se reunían}{177}{subsection*.274}%
-\contentsline {subsubsection}{1 Corintios 11:2}{179}{subsubsection*.275}%
-\contentsline {subsubsection}{1 Corintios 11:3}{179}{subsubsection*.276}%
-\contentsline {subsubsection}{1 Corintios 11:4}{180}{subsubsection*.277}%
-\contentsline {subsubsection}{1 Corintios 11:5}{181}{subsubsection*.278}%
-\contentsline {subsubsection}{1 Corintios 11:6}{182}{subsubsection*.279}%
-\contentsline {subsubsection}{1 Corintios 11:7}{183}{subsubsection*.280}%
-\contentsline {subsubsection}{1 Corintios 11:8}{183}{subsubsection*.281}%
-\contentsline {subsubsection}{1 Corintios 11:9}{183}{subsubsection*.282}%
-\contentsline {subsubsection}{1 Corintios 11:10}{184}{subsubsection*.283}%
-\contentsline {subsubsection}{1 Corintios 11:11}{184}{subsubsection*.284}%
-\contentsline {subsubsection}{1 Corintios 11:12}{185}{subsubsection*.285}%
-\contentsline {subsubsection}{1 Corintios 11:13}{185}{subsubsection*.286}%
-\contentsline {subsubsection}{1 Corintios 11:14}{185}{subsubsection*.287}%
-\contentsline {subsubsection}{1 Corintios 11:15}{186}{subsubsection*.288}%
-\contentsline {subsubsection}{1 Corintios 11:16}{186}{subsubsection*.289}%
-\contentsline {subsection}{1 Corintios 11:17--22 Corrige la manera destructiva en que se estaban reuniendo}{187}{subsection*.290}%
-\contentsline {subsubsection}{1 Corintios 11:17}{187}{subsubsection*.291}%
-\contentsline {subsubsection}{1 Corintios 11:18}{187}{subsubsection*.292}%
-\contentsline {subsubsection}{1 Corintios 11:19}{188}{subsubsection*.293}%
-\contentsline {subsubsection}{1 Corintios 11:20}{188}{subsubsection*.294}%
-\contentsline {subsubsection}{1 Corintios 11:21}{188}{subsubsection*.295}%
-\contentsline {subsubsection}{1 Corintios 11:22}{189}{subsubsection*.296}%
-\contentsline {subsection}{1 Corintios 11:23--26 Pablo recuerda lo que recibió del Señor acerca de la cena}{190}{subsection*.297}%
-\contentsline {subsubsection}{1 Corintios 11:23}{190}{subsubsection*.298}%
-\contentsline {subsubsection}{1 Corintios 11:24}{190}{subsubsection*.299}%
-\contentsline {subsubsection}{1 Corintios 11:25}{191}{subsubsection*.300}%
-\contentsline {subsubsection}{1 Corintios 11:26}{191}{subsubsection*.301}%
-\contentsline {subsection}{1 Corintios 11:27--32 Advierte sobre participar indignamente y sin discernir el cuerpo}{192}{subsection*.302}%
-\contentsline {subsubsection}{1 Corintios 11:27}{192}{subsubsection*.303}%
-\contentsline {subsubsection}{1 Corintios 11:28}{192}{subsubsection*.304}%
-\contentsline {subsubsection}{1 Corintios 11:29}{194}{subsubsection*.305}%
-\contentsline {subsubsection}{1 Corintios 11:30}{196}{subsubsection*.306}%
-\contentsline {subsubsection}{1 Corintios 11:31}{197}{subsubsection*.307}%
-\contentsline {subsubsection}{1 Corintios 11:32}{198}{subsubsection*.308}%
-\contentsline {subsection}{1 Corintios 11:33--34 Concluye llamándolos a esperar y considerar a los demás al reunirse}{199}{subsection*.309}%
-\contentsline {subsubsection}{1 Corintios 11:33}{199}{subsubsection*.310}%
-\contentsline {subsubsection}{1 Corintios 11:34}{199}{subsubsection*.311}%
-\contentsline {subsection}{12:1-31 Los dones espirituales y la realidad de un solo cuerpo entre los corintios}{200}{subsection*.312}%
-\contentsline {subsubsection}{1 Corintios 12:1}{200}{subsubsection*.313}%
-\contentsline {subsubsection}{1 Corintios 12:2}{201}{subsubsection*.314}%
-\contentsline {subsubsection}{1 Corintios 12:3}{201}{subsubsection*.315}%
-\contentsline {subsubsection}{1 Corintios 12:4}{202}{subsubsection*.316}%
-\contentsline {subsubsection}{1 Corintios 12:5}{202}{subsubsection*.317}%
-\contentsline {subsubsection}{1 Corintios 12:6}{202}{subsubsection*.318}%
-\contentsline {subsubsection}{1 Corintios 12:7}{203}{subsubsection*.319}%
-\contentsline {subsubsection}{1 Corintios 12:8}{203}{subsubsection*.320}%
-\contentsline {subsubsection}{1 Corintios 12:9}{204}{subsubsection*.321}%
-\contentsline {subsubsection}{1 Corintios 12:10}{204}{subsubsection*.322}%
-\contentsline {subsubsection}{1 Corintios 12:11}{205}{subsubsection*.323}%
-\contentsline {subsubsection}{1 Corintios 12:12}{205}{subsubsection*.324}%
-\contentsline {subsubsection}{1 Corintios 12:13}{206}{subsubsection*.325}%
-\contentsline {subsubsection}{1 Corintios 12:14}{206}{subsubsection*.326}%
-\contentsline {subsubsection}{1 Corintios 12:15}{207}{subsubsection*.327}%
-\contentsline {subsubsection}{1 Corintios 12:16}{207}{subsubsection*.328}%
-\contentsline {subsubsection}{1 Corintios 12:17}{207}{subsubsection*.329}%
-\contentsline {subsubsection}{1 Corintios 12:18}{208}{subsubsection*.330}%
-\contentsline {subsubsection}{1 Corintios 12:19}{208}{subsubsection*.331}%
-\contentsline {subsubsection}{1 Corintios 12:20}{208}{subsubsection*.332}%
-\contentsline {subsubsection}{1 Corintios 12:21}{209}{subsubsection*.333}%
-\contentsline {subsubsection}{1 Corintios 12:22}{209}{subsubsection*.334}%
-\contentsline {subsubsection}{1 Corintios 12:23}{210}{subsubsection*.335}%
-\contentsline {subsubsection}{1 Corintios 12:24}{210}{subsubsection*.336}%
-\contentsline {subsubsection}{1 Corintios 12:25}{211}{subsubsection*.337}%
-\contentsline {subsubsection}{1 Corintios 12:26}{211}{subsubsection*.338}%
-\contentsline {subsubsection}{1 Corintios 12:27}{212}{subsubsection*.339}%
-\contentsline {subsubsection}{1 Corintios 12:28}{212}{subsubsection*.340}%
-\contentsline {subsubsection}{1 Corintios 12:29}{213}{subsubsection*.341}%
-\contentsline {subsubsection}{1 Corintios 12:30}{213}{subsubsection*.342}%
-\contentsline {subsubsection}{1 Corintios 12:31}{214}{subsubsection*.343}%
-\contentsline {subsection}{13:1-13 La relación entre el amor y las manifestaciones espirituales}{214}{subsection*.344}%
-\contentsline {subsubsection}{1 Corintios 13:1}{214}{subsubsection*.345}%
-\contentsline {subsubsection}{1 Corintios 13:2}{215}{subsubsection*.346}%
-\contentsline {subsubsection}{1 Corintios 13:3}{216}{subsubsection*.347}%
-\contentsline {subsubsection}{1 Corintios 13:4}{216}{subsubsection*.348}%
-\contentsline {subsubsection}{1 Corintios 13:5}{217}{subsubsection*.349}%
-\contentsline {subsubsection}{1 Corintios 13:6}{218}{subsubsection*.350}%
-\contentsline {subsubsection}{1 Corintios 13:7}{218}{subsubsection*.351}%
-\contentsline {subsubsection}{1 Corintios 13:8}{218}{subsubsection*.352}%
-\contentsline {subsubsection}{1 Corintios 13:9}{219}{subsubsection*.353}%
-\contentsline {subsubsection}{1 Corintios 13:10}{219}{subsubsection*.354}%
-\contentsline {subsubsection}{1 Corintios 13:11}{220}{subsubsection*.355}%
-\contentsline {subsubsection}{1 Corintios 13:12}{220}{subsubsection*.356}%
-\contentsline {subsubsection}{1 Corintios 13:13}{221}{subsubsection*.357}%
-\contentsline {subsection}{14:1-40 Las manifestaciones espirituales y la edificación entre los corintios}{222}{subsection*.358}%
-\contentsline {subsubsection}{1 Corintios 14:1}{222}{subsubsection*.359}%
-\contentsline {subsubsection}{1 Corintios 14:2}{222}{subsubsection*.360}%
-\contentsline {subsubsection}{1 Corintios 14:3}{223}{subsubsection*.361}%
-\contentsline {subsubsection}{1 Corintios 14:4}{223}{subsubsection*.362}%
-\contentsline {subsubsection}{1 Corintios 14:5}{224}{subsubsection*.363}%
-\contentsline {subsubsection}{1 Corintios 14:6}{224}{subsubsection*.364}%
-\contentsline {subsubsection}{1 Corintios 14:7}{225}{subsubsection*.365}%
-\contentsline {subsubsection}{1 Corintios 14:8}{226}{subsubsection*.366}%
-\contentsline {subsubsection}{1 Corintios 14:9}{226}{subsubsection*.367}%
-\contentsline {subsubsection}{1 Corintios 14:10}{226}{subsubsection*.368}%
-\contentsline {subsubsection}{1 Corintios 14:11}{227}{subsubsection*.369}%
-\contentsline {subsubsection}{1 Corintios 14:12}{227}{subsubsection*.370}%
-\contentsline {subsubsection}{1 Corintios 14:13}{227}{subsubsection*.371}%
-\contentsline {subsubsection}{1 Corintios 14:14}{228}{subsubsection*.372}%
-\contentsline {subsubsection}{1 Corintios 14:15}{228}{subsubsection*.373}%
-\contentsline {subsubsection}{1 Corintios 14:16}{229}{subsubsection*.374}%
-\contentsline {subsubsection}{1 Corintios 14:17}{230}{subsubsection*.375}%
-\contentsline {subsubsection}{1 Corintios 14:18}{230}{subsubsection*.376}%
-\contentsline {subsubsection}{1 Corintios 14:19}{230}{subsubsection*.377}%
-\contentsline {subsubsection}{1 Corintios 14:20}{231}{subsubsection*.378}%
-\contentsline {subsubsection}{1 Corintios 14:21}{231}{subsubsection*.379}%
-\contentsline {subsubsection}{1 Corintios 14:22}{232}{subsubsection*.380}%
-\contentsline {subsubsection}{1 Corintios 14:23}{232}{subsubsection*.381}%
-\contentsline {subsubsection}{1 Corintios 14:24}{233}{subsubsection*.382}%
-\contentsline {subsubsection}{1 Corintios 14:25}{233}{subsubsection*.383}%
-\contentsline {subsubsection}{1 Corintios 14:26}{234}{subsubsection*.384}%
-\contentsline {subsubsection}{1 Corintios 14:27}{235}{subsubsection*.385}%
-\contentsline {subsubsection}{1 Corintios 14:28}{235}{subsubsection*.386}%
-\contentsline {subsubsection}{1 Corintios 14:29}{235}{subsubsection*.387}%
-\contentsline {subsubsection}{1 Corintios 14:30}{236}{subsubsection*.388}%
-\contentsline {subsubsection}{1 Corintios 14:31}{236}{subsubsection*.389}%
-\contentsline {subsubsection}{1 Corintios 14:32}{236}{subsubsection*.390}%
-\contentsline {subsubsection}{1 Corintios 14:33}{237}{subsubsection*.391}%
-\contentsline {subsubsection}{1 Corintios 14:34}{237}{subsubsection*.392}%
-\contentsline {subsubsection}{1 Corintios 14:35}{237}{subsubsection*.393}%
-\contentsline {subsubsection}{1 Corintios 14:36}{238}{subsubsection*.394}%
-\contentsline {subsubsection}{1 Corintios 14:37}{239}{subsubsection*.395}%
-\contentsline {subsubsection}{1 Corintios 14:38}{239}{subsubsection*.396}%
-\contentsline {subsubsection}{1 Corintios 14:39}{239}{subsubsection*.397}%
-\contentsline {subsubsection}{1 Corintios 14:40}{240}{subsubsection*.398}%
-\contentsline {section}{15:1-58 La resurrección y la manera en que los corintios pensaban acerca de ella}{241}{section*.399}%
-\contentsline {subsection}{15:1-11 Pablo reafirma el evangelio que los corintios recibieron y en el cual permanecen}{241}{subsection*.400}%
-\contentsline {subsubsection}{1 Corintios 15:1}{241}{subsubsection*.401}%
-\contentsline {subsubsection}{1 Corintios 15:2}{241}{subsubsection*.402}%
-\contentsline {subsubsection}{1 Corintios 15:3}{242}{subsubsection*.403}%
-\contentsline {subsubsection}{1 Corintios 15:4}{242}{subsubsection*.404}%
-\contentsline {subsubsection}{1 Corintios 15:5}{243}{subsubsection*.405}%
-\contentsline {subsubsection}{1 Corintios 15:6}{243}{subsubsection*.406}%
-\contentsline {subsubsection}{1 Corintios 15:7}{243}{subsubsection*.407}%
-\contentsline {subsubsection}{1 Corintios 15:8}{244}{subsubsection*.408}%
-\contentsline {subsubsection}{1 Corintios 15:9}{244}{subsubsection*.409}%
-\contentsline {subsubsection}{1 Corintios 15:10}{245}{subsubsection*.410}%
-\contentsline {subsubsection}{1 Corintios 15:11}{245}{subsubsection*.411}%
-\contentsline {subsection}{15:12-19 Negar la resurrección destruye completamente la realidad cristiana}{246}{subsection*.412}%
-\contentsline {subsubsection}{1 Corintios 15:12}{246}{subsubsection*.413}%
-\contentsline {subsubsection}{1 Corintios 15:13}{247}{subsubsection*.414}%
-\contentsline {subsubsection}{1 Corintios 15:14}{247}{subsubsection*.415}%
-\contentsline {subsubsection}{1 Corintios 15:15}{247}{subsubsection*.416}%
-\contentsline {subsubsection}{1 Corintios 15:16}{248}{subsubsection*.417}%
-\contentsline {subsubsection}{1 Corintios 15:17}{248}{subsubsection*.418}%
-\contentsline {subsubsection}{1 Corintios 15:18}{248}{subsubsection*.419}%
-\contentsline {subsubsection}{1 Corintios 15:19}{249}{subsubsection*.420}%
-\contentsline {subsection}{15:20-28 La resurrección de Cristo garantiza la derrota final de la muerte}{250}{subsection*.421}%
-\contentsline {subsubsection}{1 Corintios 15:20}{250}{subsubsection*.422}%
-\contentsline {subsubsection}{1 Corintios 15:21}{250}{subsubsection*.423}%
-\contentsline {subsubsection}{1 Corintios 15:22}{251}{subsubsection*.424}%
-\contentsline {subsubsection}{1 Corintios 15:23}{251}{subsubsection*.425}%
-\contentsline {subsubsection}{1 Corintios 15:24}{251}{subsubsection*.426}%
-\contentsline {subsubsection}{1 Corintios 15:25}{252}{subsubsection*.427}%
-\contentsline {subsubsection}{1 Corintios 15:26}{252}{subsubsection*.428}%
-\contentsline {subsubsection}{1 Corintios 15:27}{253}{subsubsection*.429}%
-\contentsline {subsubsection}{1 Corintios 15:28}{253}{subsubsection*.430}%
-\contentsline {subsection}{15:29-34 La vida cristiana presente pierde sentido si no existe resurrección}{254}{subsection*.431}%
-\contentsline {subsubsection}{1 Corintios 15:29}{254}{subsubsection*.432}%
-\contentsline {subsubsection}{1 Corintios 15:30}{255}{subsubsection*.433}%
-\contentsline {subsubsection}{1 Corintios 15:31}{255}{subsubsection*.434}%
-\contentsline {subsubsection}{1 Corintios 15:32}{255}{subsubsection*.435}%
-\contentsline {subsubsection}{1 Corintios 15:33}{256}{subsubsection*.436}%
-\contentsline {subsubsection}{1 Corintios 15:34}{256}{subsubsection*.437}%
-\contentsline {subsection}{15:35-49 Pablo redefine el cuerpo desde la realidad de la resurrección}{257}{subsection*.438}%
-\contentsline {subsubsection}{1 Corintios 15:35}{257}{subsubsection*.439}%
-\contentsline {subsubsection}{1 Corintios 15:36}{257}{subsubsection*.440}%
-\contentsline {subsubsection}{1 Corintios 15:37}{258}{subsubsection*.441}%
-\contentsline {subsubsection}{1 Corintios 15:38}{258}{subsubsection*.442}%
-\contentsline {subsubsection}{1 Corintios 15:39}{259}{subsubsection*.443}%
-\contentsline {subsubsection}{1 Corintios 15:40}{259}{subsubsection*.444}%
-\contentsline {subsubsection}{1 Corintios 15:41}{260}{subsubsection*.445}%
-\contentsline {subsubsection}{1 Corintios 15:42}{260}{subsubsection*.446}%
-\contentsline {subsubsection}{1 Corintios 15:43}{261}{subsubsection*.447}%
-\contentsline {subsubsection}{1 Corintios 15:44}{261}{subsubsection*.448}%
-\contentsline {subsubsection}{1 Corintios 15:45}{262}{subsubsection*.449}%
-\contentsline {subsubsection}{1 Corintios 15:46}{262}{subsubsection*.450}%
-\contentsline {subsubsection}{1 Corintios 15:47}{263}{subsubsection*.451}%
-\contentsline {subsubsection}{1 Corintios 15:48}{264}{subsubsection*.452}%
-\contentsline {subsubsection}{1 Corintios 15:49}{265}{subsubsection*.453}%
-\contentsline {subsection}{15:50-58 La resurrección futura transforma completamente la perspectiva presente del creyente}{265}{subsection*.454}%
-\contentsline {subsubsection}{1 Corintios 15:50}{265}{subsubsection*.455}%
-\contentsline {subsubsection}{1 Corintios 15:51}{266}{subsubsection*.456}%
-\contentsline {subsubsection}{1 Corintios 15:52}{266}{subsubsection*.457}%
-\contentsline {subsubsection}{1 Corintios 15:53}{267}{subsubsection*.458}%
-\contentsline {subsubsection}{1 Corintios 15:54}{267}{subsubsection*.459}%
-\contentsline {subsubsection}{1 Corintios 15:55}{268}{subsubsection*.460}%
-\contentsline {subsubsection}{1 Corintios 15:56}{268}{subsubsection*.461}%
-\contentsline {subsubsection}{1 Corintios 15:57}{268}{subsubsection*.462}%
-\contentsline {subsubsection}{1 Corintios 15:58}{268}{subsubsection*.463}%
-\contentsline {section}{16:1-24 --- Pablo concluye llamándolos a permanecer firmes en el Señor}{270}{section*.464}%
-\contentsline {subsection}{16:1-4 Pablo organiza la ofrenda como expresión práctica de cuidado entre las iglesias}{270}{subsection*.465}%
-\contentsline {subsubsection}{1 Corintios 16:1}{270}{subsubsection*.466}%
-\contentsline {subsubsection}{1 Corintios 16:2}{270}{subsubsection*.467}%
-\contentsline {subsubsection}{1 Corintios 16:3}{271}{subsubsection*.468}%
-\contentsline {subsubsection}{1 Corintios 16:4}{271}{subsubsection*.469}%
-\contentsline {subsection}{16:5-9 Pablo muestra flexibilidad personal mientras permanece sometido a la voluntad del Señor}{272}{subsection*.470}%
-\contentsline {subsubsection}{1 Corintios 16:5}{272}{subsubsection*.471}%
-\contentsline {subsubsection}{1 Corintios 16:6}{272}{subsubsection*.472}%
-\contentsline {subsubsection}{1 Corintios 16:7}{272}{subsubsection*.473}%
-\contentsline {subsubsection}{1 Corintios 16:8}{273}{subsubsection*.474}%
-\contentsline {subsubsection}{1 Corintios 16:9}{273}{subsubsection*.475}%
-\contentsline {subsection}{16:10-18 Pablo exhorta a los corintios a recibir correctamente a los obreros del Señor}{274}{subsection*.476}%
-\contentsline {subsubsection}{1 Corintios 16:10}{274}{subsubsection*.477}%
-\contentsline {subsubsection}{1 Corintios 16:11}{274}{subsubsection*.478}%
-\contentsline {subsubsection}{1 Corintios 16:12}{275}{subsubsection*.479}%
-\contentsline {subsection}{16:13-14 Pablo llama a los corintios a vivir con firmeza, madurez y amor}{276}{subsection*.480}%
-\contentsline {subsubsection}{1 Corintios 16:13}{276}{subsubsection*.481}%
-\contentsline {subsubsection}{1 Corintios 16:14}{277}{subsubsection*.482}%
-\contentsline {subsubsection}{1 Corintios 16:15}{277}{subsubsection*.483}%
-\contentsline {subsubsection}{1 Corintios 16:16}{277}{subsubsection*.484}%
-\contentsline {subsubsection}{1 Corintios 16:17}{278}{subsubsection*.485}%
-\contentsline {subsubsection}{1 Corintios 16:18}{278}{subsubsection*.486}%
-\contentsline {subsection}{16:19-24 Pablo concluye reafirmando sus relaciones, advertencias y amor hacia los corintios}{279}{subsection*.487}%
-\contentsline {subsubsection}{1 Corintios 16:19}{279}{subsubsection*.488}%
-\contentsline {subsubsection}{1 Corintios 16:20}{280}{subsubsection*.489}%
-\contentsline {subsubsection}{1 Corintios 16:21}{280}{subsubsection*.490}%
-\contentsline {subsubsection}{1 Corintios 16:22}{281}{subsubsection*.491}%
-\contentsline {subsubsection}{1 Corintios 16:23}{281}{subsubsection*.492}%
-\contentsline {subsubsection}{1 Corintios 16:24}{281}{subsubsection*.493}%
+\contentsline {section}{INTRODUCCIÓN A SANTIAGO}{4}{section*.7}%
+\contentsline {subsection}{Contexto histórico y cultural}{4}{subsection*.8}%
+\contentsline {subsection}{Contenido del libro}{6}{subsection*.9}%
+\contentsline {section}{SANTIAGO 1:1 - LA CARTA SE DIRIGE A UN PUEBLO EN DISPERSIÓN}{7}{section*.10}%
+\contentsline {subsection}{Santiago 1:1 - La dispersión instala el contexto de presión y fragmentación}{7}{subsection*.11}%
+\contentsline {subsubsection}{Santiago 1:1}{7}{subsubsection*.12}%
+\contentsline {section}{SANTIAGO 1:2--27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO}{8}{section*.13}%
+\contentsline {subsection}{Santiago 1:2--4 - La prueba empuja hacia constancia y hacia un {\selectfont \ScriptureFont \itshape «resultado»} completo}{8}{subsection*.14}%
+\contentsline {subsubsection}{Santiago 1:2}{8}{subsubsection*.15}%
+\contentsline {subsubsection}{Santiago 1:3}{8}{subsubsection*.16}%
+\contentsline {subsubsection}{Santiago 1:4}{9}{subsubsection*.17}%
+\contentsline {subsection}{Santiago 1:5--8 - La duda deja ver inestabilidad (doble ánimo)}{10}{subsection*.18}%
+\contentsline {subsubsection}{Santiago 1:5}{10}{subsubsection*.19}%
+\contentsline {subsubsection}{Santiago 1:6}{11}{subsubsection*.20}%
+\contentsline {subsubsection}{Santiago 1:7}{12}{subsubsection*.21}%
+\contentsline {subsubsection}{Santiago 1:8}{12}{subsubsection*.22}%
+\contentsline {subsection}{Santiago 1:9--12 - La presión deja ver lo pasajero de la condición humana (humilde/rico)}{13}{subsection*.23}%
+\contentsline {subsubsection}{Santiago 1:9}{13}{subsubsection*.24}%
+\contentsline {subsubsection}{Santiago 1:10}{13}{subsubsection*.25}%
+\contentsline {subsubsection}{Santiago 1:11}{14}{subsubsection*.26}%
+\contentsline {subsubsection}{Santiago 1:12}{15}{subsubsection*.27}%
+\contentsline {subsection}{Santiago 1:13--15 - La pasión interna avanza hasta producir muerte}{15}{subsection*.28}%
+\contentsline {subsubsection}{Santiago 1:13}{15}{subsubsection*.29}%
+\contentsline {subsubsection}{Santiago 1:14}{17}{subsubsection*.30}%
+\contentsline {subsubsection}{Santiago 1:15}{17}{subsubsection*.31}%
+\contentsline {subsection}{Santiago 1:16--18 - El engaño es corregido por lo que viene de lo alto}{19}{subsection*.32}%
+\contentsline {subsubsection}{Santiago 1:16}{19}{subsubsection*.33}%
+\contentsline {subsubsection}{Santiago 1:17}{19}{subsubsection*.34}%
+\contentsline {subsubsection}{Santiago 1:18}{20}{subsubsection*.35}%
+\contentsline {subsection}{Santiago 1:19--27 - La fractura se ve en el habla y en oír sin hacer}{21}{subsection*.36}%
+\contentsline {subsubsection}{Santiago 1:19}{21}{subsubsection*.37}%
+\contentsline {subsubsection}{Santiago 1:20}{23}{subsubsection*.38}%
+\contentsline {subsubsection}{Santiago 1:21}{23}{subsubsection*.39}%
+\contentsline {subsubsection}{Santiago 1:22}{24}{subsubsection*.40}%
+\contentsline {subsubsection}{Santiago 1:23}{25}{subsubsection*.41}%
+\contentsline {subsubsection}{Santiago 1:24}{25}{subsubsection*.42}%
+\contentsline {subsubsection}{Santiago 1:25}{26}{subsubsection*.43}%
+\contentsline {subsubsection}{Santiago 1:26}{27}{subsubsection*.44}%
+\contentsline {subsubsection}{Santiago 1:27}{28}{subsubsection*.45}%
+\contentsline {section}{SANTIAGO 2:1--26 - LO INTERIOR SE HACE VISIBLE EN LA VIDA EN COMUNIDAD}{30}{section*.46}%
+\contentsline {subsection}{Santiago 2:1--13 - El favoritismo deja ver una valoración torcida}{30}{subsection*.47}%
+\contentsline {subsubsection}{Santiago 2:1}{30}{subsubsection*.48}%
+\contentsline {subsubsection}{Santiago 2:2}{31}{subsubsection*.49}%
+\contentsline {subsubsection}{Santiago 2:3}{32}{subsubsection*.50}%
+\contentsline {subsubsection}{Santiago 2:4}{33}{subsubsection*.51}%
+\contentsline {subsubsection}{Santiago 2:5}{33}{subsubsection*.52}%
+\contentsline {subsubsection}{Santiago 2:6}{34}{subsubsection*.53}%
+\contentsline {subsubsection}{Santiago 2:7}{35}{subsubsection*.54}%
+\contentsline {subsubsection}{Santiago 2:8}{35}{subsubsection*.55}%
+\contentsline {subsubsection}{Santiago 2:9}{36}{subsubsection*.56}%
+\contentsline {subsubsection}{Santiago 2:10}{37}{subsubsection*.57}%
+\contentsline {subsubsection}{Santiago 2:11}{37}{subsubsection*.58}%
+\contentsline {subsubsection}{Santiago 2:12}{38}{subsubsection*.59}%
+\contentsline {subsubsection}{Santiago 2:13}{38}{subsubsection*.60}%
+\contentsline {subsection}{Santiago 2:14--26 - La fe dicha, sin expresión visible, queda expuesta}{39}{subsection*.61}%
+\contentsline {subsubsection}{Santiago 2:14}{39}{subsubsection*.62}%
+\contentsline {subsubsection}{Santiago 2:15}{40}{subsubsection*.63}%
+\contentsline {subsubsection}{Santiago 2:16}{41}{subsubsection*.64}%
+\contentsline {subsubsection}{Santiago 2:17}{42}{subsubsection*.65}%
+\contentsline {subsubsection}{Santiago 2:18}{42}{subsubsection*.66}%
+\contentsline {subsubsection}{Santiago 2:19}{44}{subsubsection*.67}%
+\contentsline {subsubsection}{Santiago 2:20}{45}{subsubsection*.68}%
+\contentsline {subsubsection}{Santiago 2:21}{45}{subsubsection*.69}%
+\contentsline {subsubsection}{Santiago 2:22}{46}{subsubsection*.70}%
+\contentsline {subsubsection}{Santiago 2:23}{47}{subsubsection*.71}%
+\contentsline {subsubsection}{Santiago 2:24}{48}{subsubsection*.72}%
+\contentsline {subsubsection}{Santiago 2:25}{49}{subsubsection*.73}%
+\contentsline {subsubsection}{Santiago 2:26}{49}{subsubsection*.74}%
+\contentsline {section}{SANTIAGO 3:1--18 - DOS ORIENTACIONES PRODUCEN RESULTADOS OPUESTOS}{50}{section*.75}%
+\contentsline {subsection}{Santiago 3:1--12 - La lengua concentra y amplifica la fractura}{50}{subsection*.76}%
+\contentsline {subsubsection}{Santiago 3:1}{50}{subsubsection*.77}%
+\contentsline {subsubsection}{Santiago 3:2}{51}{subsubsection*.78}%
+\contentsline {subsubsection}{Santiago 3:3}{52}{subsubsection*.79}%
+\contentsline {subsubsection}{Santiago 3:4}{53}{subsubsection*.80}%
+\contentsline {subsubsection}{Santiago 3:5}{53}{subsubsection*.81}%
+\contentsline {subsubsection}{Santiago 3:6}{54}{subsubsection*.82}%
+\contentsline {subsubsection}{Santiago 3:7}{55}{subsubsection*.83}%
+\contentsline {subsubsection}{Santiago 3:8}{55}{subsubsection*.84}%
+\contentsline {subsubsection}{Santiago 3:9}{56}{subsubsection*.85}%
+\contentsline {subsubsection}{Santiago 3:10}{56}{subsubsection*.86}%
+\contentsline {subsubsection}{Santiago 3:11}{57}{subsubsection*.87}%
+\contentsline {subsubsection}{Santiago 3:12}{57}{subsubsection*.88}%
+\contentsline {subsection}{Santiago 3:13--18 - Dos orientaciones, dos resultados opuestos}{58}{subsection*.89}%
+\contentsline {subsubsection}{Santiago 3:13}{58}{subsubsection*.90}%
+\contentsline {subsubsection}{Santiago 3:14}{59}{subsubsection*.91}%
+\contentsline {subsubsection}{Santiago 3:15}{60}{subsubsection*.92}%
+\contentsline {subsubsection}{Santiago 3:16}{61}{subsubsection*.93}%
+\contentsline {subsubsection}{Santiago 3:17}{62}{subsubsection*.94}%
+\contentsline {subsubsection}{Santiago 3:18}{63}{subsubsection*.95}%
+\contentsline {section}{SANTIAGO 4:1--17 - LA FRACTURA SE VUELVE CONFLICTO Y PRESUNCIÓN}{63}{section*.96}%
+\contentsline {subsection}{Santiago 4:1--10 - Los conflictos dejan ver pasiones internas; la carta llama a reorientación}{63}{subsection*.97}%
+\contentsline {subsubsection}{Santiago 4:1}{63}{subsubsection*.98}%
+\contentsline {subsubsection}{Santiago 4:2}{64}{subsubsection*.99}%
+\contentsline {subsubsection}{Santiago 4:3}{65}{subsubsection*.100}%
+\contentsline {subsubsection}{Santiago 4:4}{66}{subsubsection*.101}%
+\contentsline {subsubsection}{Santiago 4:5}{67}{subsubsection*.102}%
+\contentsline {subsubsection}{Santiago 4:6}{67}{subsubsection*.103}%
+\contentsline {subsubsection}{Santiago 4:7}{68}{subsubsection*.104}%
+\contentsline {subsubsection}{Santiago 4:8}{69}{subsubsection*.105}%
+\contentsline {subsubsection}{Santiago 4:9}{70}{subsubsection*.106}%
+\contentsline {subsubsection}{Santiago 4:10}{71}{subsubsection*.107}%
+\contentsline {subsection}{Santiago 4:11--12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez)}{71}{subsection*.108}%
+\contentsline {subsubsection}{Santiago 4:11}{71}{subsubsection*.109}%
+\contentsline {subsubsection}{Santiago 4:12}{73}{subsubsection*.110}%
+\contentsline {subsection}{Santiago 4:13--17 - La presunción deja ver una {\selectfont \ScriptureFont \itshape «estabilidad»} falsa}{74}{subsection*.111}%
+\contentsline {subsubsection}{Santiago 4:13}{74}{subsubsection*.112}%
+\contentsline {subsubsection}{Santiago 4:14}{75}{subsubsection*.113}%
+\contentsline {subsubsection}{Santiago 4:15}{76}{subsubsection*.114}%
+\contentsline {subsubsection}{Santiago 4:16}{77}{subsubsection*.115}%
+\contentsline {subsubsection}{Santiago 4:17}{78}{subsubsection*.116}%
+\contentsline {section}{SANTIAGO 5:1--20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN}{78}{section*.117}%
+\contentsline {subsection}{Santiago 5:1--6 - Riqueza usada para oprimir: denuncia y juicio}{78}{subsection*.118}%
+\contentsline {subsubsection}{Santiago 5:1}{78}{subsubsection*.119}%
+\contentsline {subsubsection}{Santiago 5:2}{79}{subsubsection*.120}%
+\contentsline {subsubsection}{Santiago 5:3}{79}{subsubsection*.121}%
+\contentsline {subsubsection}{Santiago 5:4}{80}{subsubsection*.122}%
+\contentsline {subsubsection}{Santiago 5:5}{81}{subsubsection*.123}%
+\contentsline {subsubsection}{Santiago 5:6}{82}{subsubsection*.124}%
+\contentsline {subsection}{Santiago 5:7--12 - Bajo presión: paciencia, firmeza y límites en el habla}{83}{subsection*.125}%
+\contentsline {subsubsection}{Santiago 5:7}{83}{subsubsection*.126}%
+\contentsline {subsubsection}{Santiago 5:8}{84}{subsubsection*.127}%
+\contentsline {subsubsection}{Santiago 5:9}{84}{subsubsection*.128}%
+\contentsline {subsubsection}{Santiago 5:10}{85}{subsubsection*.129}%
+\contentsline {subsubsection}{Santiago 5:11}{86}{subsubsection*.130}%
+\contentsline {subsubsection}{Santiago 5:12}{87}{subsubsection*.131}%
+\contentsline {subsection}{Santiago 5:13--18 - Oración: respuesta ordenada y eficacia demostrada}{88}{subsection*.132}%
+\contentsline {subsubsection}{Santiago 5:13}{88}{subsubsection*.133}%
+\contentsline {subsubsection}{Santiago 5:14}{89}{subsubsection*.134}%
+\contentsline {subsubsection}{Santiago 5:15}{89}{subsubsection*.135}%
+\contentsline {subsubsection}{Santiago 5:16}{90}{subsubsection*.136}%
+\contentsline {subsubsection}{Santiago 5:17}{91}{subsubsection*.137}%
+\contentsline {subsubsection}{Santiago 5:18}{92}{subsubsection*.138}%
+\contentsline {subsection}{Santiago 5:19--20 - Restaurar al que se desvía: volver, salvar y cubrir}{93}{subsection*.139}%
+\contentsline {subsubsection}{Santiago 5:19}{93}{subsubsection*.140}%
+\contentsline {subsubsection}{Santiago 5:20}{94}{subsubsection*.141}%

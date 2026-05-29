@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  23 MAY 2026 10:34
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  29 MAY 2026 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,26 +1520,26 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 (temp/teacher_manual.aux)
 \openout1 = `teacher_manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1582,68 +1582,68 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 21.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 21.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 21.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 21.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 21.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 21.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 21.
-LaTeX Font Info:    Redeclaring math accent \check on input line 21.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 21.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 21.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 21.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 21.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
+LaTeX Font Info:    Redeclaring math accent \check on input line 22.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 21.
+(Font)              `operators' in the math version `normal' on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 21
+(Font)                  OT1/cmr/m/n --> TU/IBMPlexSerif(0)/m/n on input line 22
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 21.
+(Font)              `operators' in the math version `bold' on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/m/n on input line 2
-1.
+2.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/m/n on in
-put line 21.
+put line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/IBMPlexSerif(0)/m/it on input line 
-21.
+22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/IBMPlexSerif(0)/b/n on input line 2
-1.
+2.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 21.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/IBMPlexSerif(0)/m/n --> TU/IBMPlexSerif(0)/b/n on in
-put line 21.
+put line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/IBMPlexSerif(0)/b/it on input line
- 21.
+ 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 21.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 22.
 \c@lstlisting=\count393
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 22.
 (temp/teacher_manual.out) (temp/teacher_manual.out)
 \@outlinefile=\write5
 \openout5 = `teacher_manual.out'.
@@ -1689,7 +1689,7 @@ File: images/cgv.png Graphic file (type bmp)
 
 
 ]
-Overfull \hbox (1.60722pt too wide) in paragraph at lines 60--61
+Overfull \hbox (1.60722pt too wide) in paragraph at lines 61--62
 []\TU/TeXGyreTermes(0)/m/n/10 Este manual ha sido desarrollado para enseñar la 
 Escritura de manera textual, progresiva y consciente del lenguaje.
  []
@@ -1707,35 +1707,171 @@ Escritura de manera textual, progresiva y consciente del lenguaje.
 [3
 
 ]
+Overfull \hbox (5.59921pt too wide) in paragraph at lines 129--129
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Santiago 5:4 describe un caso concreto: salario
+ retenido. El texto dice que el jornal \TU/IBMPlexSerif(2)/m/it/10.95 «clama»
+ []
+
+
 
 [4
 
 ]
-Overfull \hbox (4.74266pt too wide) in paragraph at lines 210--210
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Uno de los aspectos más fascinantes de Corinto 
-era el sistema de cruce terrestre de |   [].[] 
+Overfull \hbox (0.95763pt too wide) in paragraph at lines 169--169
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Santiago 4:13–17 presenta un ejemplo de planifi
+cación: \TU/IBMPlexSerif(2)/m/it/10.95 «hoy o mañana… ciudad… un año…
+ []
+
+
+Overfull \hbox (5.75862pt too wide) in paragraph at lines 169--169
+\TU/IBMPlexSerif(2)/m/it/10.95 negocio… ganancia»\TU/IBMPlexSerif(0)/m/n/10.95 
+. El texto lo usa porque suena familiar en ese mundo. Luego lo contrasta
+ []
+
+
+Overfull \hbox (4.2998pt too wide) in paragraph at lines 188--188
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Santiago no asume solo \TU/IBMPlexSerif(2)/m/it
+/10.95 «diferencias»\TU/IBMPlexSerif(0)/m/n/10.95 . El texto muestra extremos c
+laros dentro de la misma
+ []
+
+
+Overfull \hbox (0.3651pt too wide) in paragraph at lines 188--188
+\TU/IBMPlexSerif(0)/m/n/10.95 comunidad. En Santiago 2:2–3 entran dos personas 
+con señales visibles opuestas: \TU/IBMPlexSerif(2)/m/it/10.95 «anillo
+ []
+
+
+Overfull \hbox (1.86897pt too wide) in paragraph at lines 188--188
+\TU/IBMPlexSerif(2)/m/it/10.95 de oro» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMP
+lexSerif(2)/m/it/10.95 «ropa lujosa» \TU/IBMPlexSerif(0)/m/n/10.95 frente a \TU
+/IBMPlexSerif(2)/m/it/10.95 «pobre» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMPlex
+Serif(2)/m/it/10.95 «ropa sucia»\TU/IBMPlexSerif(0)/m/n/10.95 . Luego el texto 
+muestra una respuesta
+ []
+
+
+Overfull \hbox (7.64075pt too wide) in paragraph at lines 190--190
+[]\TU/IBMPlexSerif(0)/m/n/10.95 El escrito además describe a \TU/IBMPlexSerif(2
+)/m/it/10.95 «los ricos» \TU/IBMPlexSerif(0)/m/n/10.95 como un grupo con capaci
+dad de oprimir y arrastrar
+ []
+
+
+Overfull \hbox (28.66988pt too wide) in paragraph at lines 190--190
+\TU/IBMPlexSerif(0)/m/n/10.95 a tribunales (Santiago 2:6), y más adelante los c
+onfronta con evidencia concreta de explotación:
  []
 
 
 
 [5]
-Overfull \hbox (11.2703pt too wide) in paragraph at lines 321--321
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios poseen muchas realidades verdader
-as en Cristo, pero continuamente parecen
+Overfull \hbox (8.29071pt too wide) in paragraph at lines 200--200
+[]\TU/IBMPlexSerif(0)/m/n/10.95 Además, muchas presiones no son solo \TU/IBMPle
+xSerif(2)/m/it/10.95 «internas»\TU/IBMPlexSerif(0)/m/n/10.95 . Santiago habla e
+n un mundo con diferencias
  []
 
 
 
 [6]
+Overfull \hbox (0.67436pt too wide) in paragraph at lines 262--262
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La carta no se construye como \TU/IBMPlexSerif
+(2)/m/it/10.95 «opinión personal»\TU/IBMPlexSerif(0)/m/n/10.95 , sino como exho
+rtación dirigida
+ []
+
+
+Overfull \hbox (15.03812pt too wide) in paragraph at lines 270--270
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No dice solo \TU/IBMPlexSerif(2)/m/it/10.95 «a
+ la iglesia» \TU/IBMPlexSerif(0)/m/n/10.95 en general. Nombra un pueblo y lo ub
+ica: \TU/IBMPlexSerif(2)/m/it/10.95 «en la dispersión»\TU/IBMPlexSerif(0)/m/n/1
+0.95 .[] 
+ []
+
+
+Overfull \hbox (35.22626pt too wide) in paragraph at lines 272--272
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «dispersión» \TU/IBMPlexSerif(0)/m/n/10.95 es
+ un dato de ubicación/condición. Pone un marco de vida con movimiento,
+ []
+
+
 
 [7]
 
+LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/n' undefined
+(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 286.
+
+
+LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
+(Font)              using `TU/IBMPlexSerif(2)/b/n' instead on input line 286.
+
+
+Overfull \hbox (71.34787pt too wide) in paragraph at lines 304--304
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta frase abre una cadena: pruebas (Santiago 
+1:2) -> produce (Santiago 1:3) -> resultado/propósito
+ []
+
+
+Overfull \hbox (45.67738pt too wide) in paragraph at lines 316--316
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta forma de trato reaparece más adelante par
+a introducir exhortaciones y correcciones;
+ []
+
+
+
 [8]
+Overfull \hbox (6.91077pt too wide) in paragraph at lines 356--356
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Eso acota qué es lo que está bajo presión dent
+ro del escenario de \TU/IBMPlexSerif(2)/m/it/10.95 «diversas pruebas»
+ []
+
+
+Overfull \hbox (14.53197pt too wide) in paragraph at lines 358--358
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta frase conecta directamente el escenario d
+el v.2 con la cadena que se va a desarrollar
+ []
+
+
+Overfull \hbox (15.02959pt too wide) in paragraph at lines 368--368
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No es solo información; es el primer eslabón d
+e la cadena que el texto va a completar
+ []
+
+
+Overfull \hbox (4.40106pt too wide) in paragraph at lines 386--386
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.4 comienza con \TU/IBMPlexSerif(2)/m/it/1
+0.95 «y que»\TU/IBMPlexSerif(0)/m/n/10.95 , y toma esa misma palabra \TU/IBMPle
+xSerif(2)/m/it/10.95 «paciencia» \TU/IBMPlexSerif(0)/m/n/10.95 para empujarla
+ []
+
+
+Overfull \hbox (7.28552pt too wide) in paragraph at lines 388--388
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no se conforma con decir \TU/IBMPlexS
+erif(2)/m/it/10.95 «paciencia»\TU/IBMPlexSerif(0)/m/n/10.95 . Indica qué debe p
+asar con esa paciencia:
+ []
+
+
 
 [9]
-Overfull \hbox (12.13902pt too wide) in paragraph at lines 747--747
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no se presenta aislado de |   [] creyent
-es, sino acompañado por un hermano.[] 
+Overfull \hbox (0.76782pt too wide) in paragraph at lines 400--400
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Este \TU/IBMPlexSerif(2)/m/it/10.95 «para que»
+ \TU/IBMPlexSerif(0)/m/n/10.95 es parte del mismo flujo: prueba (v.2–3) -> paci
+encia (v.3) -> resultado
+ []
+
+
+Overfull \hbox (12.2933pt too wide) in paragraph at lines 433--433
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No está cambiando de tema. Está avanzando del 
+propósito general (v.4) a una necesidad
+ []
+
+
+Overfull \hbox (9.5412pt too wide) in paragraph at lines 447--447
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «se la» \TU/IBMPlexSerif(0)/m/n/10.95 retoma 
+directamente \TU/IBMPlexSerif(2)/m/it/10.95 «sabiduría»\TU/IBMPlexSerif(0)/m/n/
+10.95 . El texto mantiene cohesión sin introducir
  []
 
 
@@ -1745,226 +1881,149 @@ es, sino acompañado por un hermano.[]
 [11]
 
 [12]
-Overfull \hbox (11.04253pt too wide) in paragraph at lines 947--947
- \TU/IBMPlexSerif(0)/m/n/10.95 iglesia donde verdaderamente existía participaci
-ón en |   [] cosas relacionadas
- []
-
-
 
 [13]
-Overfull \hbox (10.75201pt too wide) in paragraph at lines 1023--1023
- []\TU/IBMPlexSerif(0)/m/n/10.95 El enriquecimiento mencionado no es descrito e
-n términos materiales, sino en |   []
- []
-
-
-Overfull \hbox (27.84715pt too wide) in paragraph at lines 1059--1059
- []\TU/IBMPlexSerif(0)/m/n/10.95 El enriquecimiento de los corintios es present
-ado |   [] con la confirmación del testimonio
- []
-
-
 
 [14]
+Overfull \hbox (0.47098pt too wide) in paragraph at lines 704--704
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «bajo la prueba» \TU/IBMPlexSerif(0)/m/n/10.9
+5 conecta con el inicio del bloque (Santiago 1:2–4). La palabra \TU/IBMPlexSeri
+f(2)/m/it/10.95 «prueba»
+ []
+
+
+Overfull \hbox (6.49977pt too wide) in paragraph at lines 728--728
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «ha prometido» \TU/IBMPlexSerif(0)/m/n/10.95 
+presenta el resultado como promesa del Señor, no como deducción
+ []
+
+
 
 [15]
-Overfull \hbox (2.70961pt too wide) in paragraph at lines 1208--1208
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios fueron llamados por medio de Dio
-s a la comunión con Su Hijo Jesucristo. 
- []
-
-
-Overfull \hbox (16.18541pt too wide) in paragraph at lines 1210--1210
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo describe el llamado de Dios como un llam
-ado a la comunión con Su Hijo Jesucristo. 
- []
-
-
-Overfull \hbox (15.63791pt too wide) in paragraph at lines 1214--1214
- []\TU/IBMPlexSerif(0)/m/n/10.95 La carta |   [] estableciendo que la relación 
-principal que define a los creyentes
+Overfull \hbox (35.73262pt too wide) in paragraph at lines 779--779
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «no puede ser tentado por el mal» \TU/IBMPlex
+Serif(0)/m/n/10.95 niega una posibilidad en Dios, conectando directamente
  []
 
 
 
 [16]
-Overfull \hbox (46.25966pt too wide) in paragraph at lines 1233--1248
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo reconoce que en Corinto existían riquezas es
-pirituales reales: palabra, conocimiento,
- []
-
-
-Overfull \hbox (6.19174pt too wide) in paragraph at lines 1284--1286
-[]\TU/IBMPlexSerif(0)/m/n/10.95 y continúa estableciendo el fundamento sobre | 
-  [] que Dios ya había hecho
- []
-
-
 
 [17]
-Overfull \hbox (15.33856pt too wide) in paragraph at lines 1300--1300
- []\TU/IBMPlexSerif(0)/m/n/10.95 Lo que estaba ocurriendo en Corinto probableme
-nte no se |   [] necesariamente
+Overfull \hbox (9.19568pt too wide) in paragraph at lines 865--865
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «cuando la pasión ha concebido» \TU/IBMPlexSe
+rif(0)/m/n/10.95 presenta una etapa dentro del proceso con lenguaje
  []
 
 
-Overfull \hbox (16.5249pt too wide) in paragraph at lines 1311--1315
-\TU/IBMPlexSerif(0)/m/n/10.95 podía parecer natural e incluso correcto dentro d
-e una cultura donde la sabiduría,
- []
-
-
-Overfull \hbox (2.97968pt too wide) in paragraph at lines 1363--1363
- []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión ”enteramente unidos” describe alg
-o que debía reflejarse continuamente
- []
-
-
-Overfull \hbox (9.29932pt too wide) in paragraph at lines 1367--1367
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ya no solamente se trata de hablar de manera u
-nánime, sino también de comprenderse
- []
-
-
-Overfull \hbox (15.54663pt too wide) in paragraph at lines 1369--1369
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo desea que exista unidad tanto en lo que 
-dicen como en la manera en que entienden
+Overfull \hbox (4.41196pt too wide) in paragraph at lines 911--911
+ \TU/IBMPlexSerif(0)/m/n/10.95 advertencia breve \TU/IBMPlexSerif(2)/m/it/10.95
+ «no se engañen»\TU/IBMPlexSerif(0)/m/n/10.95 , funcionando como corrección inm
+ediata antes
  []
 
 
 
 [18]
-Overfull \hbox (8.76859pt too wide) in paragraph at lines 1371--1371
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza a confrontar |   [] más profund
-o que simples desacuerdos visibles.[] 
- []
-
-
-Overfull \hbox (11.5842pt too wide) in paragraph at lines 1453--1453
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no presenta \TU/IBMPlexSerif(0)/b/n/10.9
-5 esto \TU/IBMPlexSerif(0)/m/n/10.95 como un peligro futuro, sino como algo que
- ya estaba ocurriendo
+Overfull \hbox (15.56128pt too wide) in paragraph at lines 935--935
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La carta no solo informa; exhorta. Este trato 
+reaparece para introducir correcciones
  []
 
 
 
 [19]
-Overfull \hbox (15.9445pt too wide) in paragraph at lines 1489--1489
- []\TU/IBMPlexSerif(0)/m/n/10.95 La manera de hablar de los corintios mostraba 
-que estaban comenzando a definirse:[] 
- []
-
-
-Overfull \hbox (1.41388pt too wide) in paragraph at lines 1512--1516
-\TU/IBMPlexSerif(0)/m/n/10.95 este tipo de identificaciones podía parecer compl
-etamente razonable e incluso
+Overfull \hbox (15.69994pt too wide) in paragraph at lines 993--993
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «cambio» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/
+IBMPlexSerif(2)/m/it/10.95 «sombra de variación» \TU/IBMPlexSerif(0)/m/n/10.95 
+se acumulan para describir ausencia de alteración.[] 
  []
 
 
 
 [20]
-Overfull \hbox (36.19838pt too wide) in paragraph at lines 1552--1555
-\TU/IBMPlexSerif(0)/m/n/10.95 puede reflejar el mismo ambiente de identificació
-n separada que estaba produciendo
+Overfull \hbox (0.96979pt too wide) in paragraph at lines 1047--1047
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto muestra que no solo hay origen y acto
+; también hay dirección (propósito).[] 
  []
 
 
-Overfull \hbox (6.27565pt too wide) in paragraph at lines 1571--1571
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo expone que el problema de los corintios 
-venía de no considerarse correctamente
- []
-
-
-Overfull \hbox (16.91539pt too wide) in paragraph at lines 1575--1575
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza a confrontar directamente la ma
-nera en que estaban interpretando:[] 
+Overfull \hbox (3.01135pt too wide) in paragraph at lines 1083--1083
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Viene después de 1:16–18 (corrección + origen 
++ palabra). Ahora pasa a instrucciones
  []
 
 
 
 [21]
-Overfull \hbox (26.77768pt too wide) in paragraph at lines 1643--1643
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ambas preguntas exponen que las cosas fundamen
-tales que habían recibido no provenían
- []
-
-
-Overfull \hbox (0.70576pt too wide) in paragraph at lines 1694--1694
-[]\TU/IBMPlexSerif(0)/m/n/10.95 La manera en que los corintios estaban organiza
-ndo sus identificaciones no correspondía
+Overfull \hbox (1.3372pt too wide) in paragraph at lines 1109--1109
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «pronto para oír» \TU/IBMPlexSerif(0)/m/n/10.
+95 pone el primer énfasis en escuchar antes de hablar o reaccionar.[] 
  []
 
 
 
 [22]
-
-[23]
-Overfull \hbox (22.96346pt too wide) in paragraph at lines 1796--1796
- []\TU/IBMPlexSerif(0)/m/n/10.95 No buscaba impresionar a los corintios con hab
-ilidad humana ni con discursos atractivos. 
+Overfull \hbox (10.34323pt too wide) in paragraph at lines 1167--1167
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.21 empieza con \TU/IBMPlexSerif(2)/m/it/1
+0.95 «Por lo cual…»\TU/IBMPlexSerif(0)/m/n/10.95 , tomando esta base y derivand
+o una instrucción.[] 
  []
 
 
-Overfull \hbox (41.73907pt too wide) in paragraph at lines 1811--1815
-\TU/IBMPlexSerif(0)/m/n/10.95 un mensaje acompañado de gran habilidad humana po
-día parecer más impresionante
+Overfull \hbox (5.91553pt too wide) in paragraph at lines 1187--1187
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «toda» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IB
+MPlexSerif(2)/m/it/10.95 «todo resto» \TU/IBMPlexSerif(0)/m/n/10.95 no dejan el
+ punto como mínimo; lo presentan como completo.[] 
+ []
+
+
+
+[23]
+Overfull \hbox (8.25761pt too wide) in paragraph at lines 1213--1213
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto cierra el v.21 con resultado y pone peso 
+sobre cómo se responde a esa palabra.[] 
+ []
+
+
+Overfull \hbox (36.18011pt too wide) in paragraph at lines 1237--1237
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «de la palabra» \TU/IBMPlexSerif(0)/m/n/10.95
+ conecta directamente con 1:21 y mantiene una sola línea de continuidad.[] 
+ []
+
+
+Overfull \hbox (26.30101pt too wide) in paragraph at lines 1251--1251
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.23 comenzará con \TU/IBMPlexSerif(2)/m/it
+/10.95 «Porque…»\TU/IBMPlexSerif(0)/m/n/10.95 , abriendo una analogía para sost
+ener este contraste.[] 
  []
 
 
 
 [24]
-Overfull \hbox (7.1825pt too wide) in paragraph at lines 1870--1886
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo confronta las divisiones en Corinto recordán
-doles que su identidad verdadera
+Overfull \hbox (7.1349pt too wide) in paragraph at lines 1280--1280
+ []\TU/IBMPlexSerif(0)/m/n/10.95 1:23 comienza con \TU/IBMPlexSerif(2)/m/it/10.
+95 «Porque»\TU/IBMPlexSerif(0)/m/n/10.95 , o sea: ahora el texto explica por qu
+é el \TU/IBMPlexSerif(2)/m/it/10.95 «oír solamente»
  []
 
 
-Overfull \hbox (2.67981pt too wide) in paragraph at lines 1870--1886
-\TU/IBMPlexSerif(0)/m/n/11 - Las discusiones y separaciones revelaban una maner
-a de pensar y evaluarse según
- []
-
-
-Overfull \hbox (11.79074pt too wide) in paragraph at lines 1870--1886
-\TU/IBMPlexSerif(0)/m/n/11 criterios humanos como reputación, sabiduría, elocue
-ncia y asociaciones personales. 
- []
-
-
-Overfull \hbox (30.36684pt too wide) in paragraph at lines 1870--1886
-\TU/IBMPlexSerif(0)/m/n/11 - El ministerio de Pablo no buscaba formar seguidore
-s personales ni producir identidades
+Overfull \hbox (14.03436pt too wide) in paragraph at lines 1304--1304
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Eso mantiene la ilustración abierta. La secuen
+cia se completa en 1:24 y se contrasta
  []
 
 
 
 [25]
-Overfull \hbox (6.75383pt too wide) in paragraph at lines 1999--1999
- []\TU/IBMPlexSerif(0)/m/n/10.95 La salvación por |   [] de Cristo corresponde 
-al plan de Dios y no a una idea producida
- []
-
-
 
 [26]
 
 [27]
-Overfull \hbox (9.6957pt too wide) in paragraph at lines 2138--2138
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios decidió salvar mediante aquello que el ho
-mbre considera absurdo: la predicación. 
- []
-
-
-Overfull \hbox (7.7357pt too wide) in paragraph at lines 2140--2140
- []\TU/IBMPlexSerif(0)/m/n/10.95 La salvación está |   [] a la respuesta del ho
-mbre frente a la predicación del evangelio. 
- []
-
-
-Overfull \hbox (22.5145pt too wide) in paragraph at lines 2142--2142
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo vuelve a presentar la predicación como a
-lgo considerado necio desde la perspectiva
+Overfull \hbox (2.82886pt too wide) in paragraph at lines 1448--1448
+ []\TU/IBMPlexSerif(0)/m/n/10.95 En 1:22 el texto habló de \TU/IBMPlexSerif(2)/
+m/it/10.95 «autoengaño»\TU/IBMPlexSerif(0)/m/n/10.95 . Aquí vuelve a un caso do
+nde la percepción
  []
 
 
@@ -1972,117 +2031,79 @@ lgo considerado necio desde la perspectiva
 [28]
 
 [29]
+Underfull \hbox (badness 1859) in paragraph at lines 1554--1556
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Hermanos míos, no tengan su fe en nuestro gl
+orioso Señor Jesucristo con una actitud de
+ []
+
+
+Overfull \hbox (15.34106pt too wide) in paragraph at lines 1562--1562
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No es una frase general para \TU/IBMPlexSerif(
+2)/m/it/10.95 «cualquiera»\TU/IBMPlexSerif(0)/m/n/10.95 . Es una instrucción di
+rigida a \TU/IBMPlexSerif(2)/m/it/10.95 «hermanos»\TU/IBMPlexSerif(0)/m/n/10.95
+ .[] 
+ []
+
+
+Overfull \hbox (9.18834pt too wide) in paragraph at lines 1574--1574
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto abre un bloque que va a ser probado con u
+n ejemplo concreto en los versículos
+ []
+
+
 
 [30]
 
 [31]
-Overfull \hbox (39.93378pt too wide) in paragraph at lines 2451--2451
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si los corintios se observaban a sí mismos, no
- podían definirse como un grupo especialmente
- []
-
-
-Overfull \hbox (26.50758pt too wide) in paragraph at lines 2472--2472
- []\TU/IBMPlexSerif(0)/m/n/10.95 La iglesia en Corinto no |   [] compuesta prin
-cipalmente por personas consideradas
- []
-
-
-Overfull \hbox (2.8994pt too wide) in paragraph at lines 2519--2519
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios escogió usar aquello que el mundo conside
-ra débil para avergonzar lo que parece
- []
-
-
 
 [32]
-Overfull \hbox (0.26413pt too wide) in paragraph at lines 2564--2564
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios escogió precisamente a aquellos que parec
-ían no tener valor para anular aquello
+Overfull \hbox (10.39432pt too wide) in paragraph at lines 1780--1780
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La corrección que sigue no depende de impresio
+nes, sino de un punto que Santiago
  []
 
 
 
 [33]
+Overfull \hbox (4.02727pt too wide) in paragraph at lines 1820--1820
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «a los que lo aman» \TU/IBMPlexSerif(0)/m/n/1
+0.95 delimita el grupo objetivo de la promesa (no se deja indefinido).[] 
+ []
+
+
 
 [34]
-Overfull \hbox (16.14157pt too wide) in paragraph at lines 2709--2709
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye esta sección |   [] hacia dónde
- debe dirigirse verdaderamente
+Overfull \hbox (8.85402pt too wide) in paragraph at lines 1910--1910
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «ley real» \TU/IBMPlexSerif(0)/m/n/10.95 y \T
+U/IBMPlexSerif(2)/m/it/10.95 «Escritura» \TU/IBMPlexSerif(0)/m/n/10.95 nombran 
+un estándar externo, no una preferencia personal.[] 
  []
 
 
 
 [35]
-Overfull \hbox (24.9965pt too wide) in paragraph at lines 2787--2787
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo deja claro que el valor de su proclamaci
-ón no dependía de sobresalir humanamente. 
- []
-
-
-Overfull \hbox (3.08191pt too wide) in paragraph at lines 2804--2808
-\TU/IBMPlexSerif(0)/m/n/10.95 la manera en que Pablo llegó podía parecer poco i
-mpresionante según criterios
- []
-
-
-Overfull \hbox (16.32193pt too wide) in paragraph at lines 2840--2840
- []\TU/IBMPlexSerif(0)/m/n/10.95 Entre los corintios, Pablo quiso ser conocido 
-solamente por Jesucristo y Este crucificado. 
+Underfull \hbox (badness 3068) in paragraph at lines 1936--1938
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Pero si muestran favoritismo, cometen pecado
+ y son hallados culpables por la ley como
  []
 
 
 
 [36]
-Overfull \hbox (40.89221pt too wide) in paragraph at lines 2881--2881
- []\TU/IBMPlexSerif(0)/m/n/10.95 Estas cualidades contrastan completamente con 
-la imagen de alguien que busca impresionar
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 2916--2918
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « y mi mensaje y mi predicación no fueron con 
-palabras persuasivas de sabiduría, sino con
- []
-
-
-Overfull \hbox (8.19553pt too wide) in paragraph at lines 2922--2922
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no mezcló el evangelio con elementos hum
-anos para hacerlo más impresionante
- []
-
-
 
 [37]
-Overfull \hbox (6.41438pt too wide) in paragraph at lines 2947--2947
- []\TU/IBMPlexSerif(0)/m/n/10.95 Ni el contenido ni la forma de su predicación 
-fueron mezclados con sabiduría humana. 
- []
-
-
-Overfull \hbox (14.5283pt too wide) in paragraph at lines 2949--2949
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no dependía de recursos humanos de persu
-asión para producir fe en los corintios. 
- []
-
-
-Overfull \hbox (12.69019pt too wide) in paragraph at lines 2966--2966
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo rehúsa construir el |   [] 
-alrededor de aquello que produce
- []
-
-
-Overfull \hbox (9.43289pt too wide) in paragraph at lines 2974--2974
- []\TU/IBMPlexSerif(0)/m/n/10.95 La demostración |   [] en evidencia que el pod
-er provenía de Dios y no del mensajero. 
+Overfull \hbox (43.2027pt too wide) in paragraph at lines 2066--2066
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «te has convertido» \TU/IBMPlexSerif(0)/m/n/1
+0.95 marca resultado: el caso termina con una identidad legal \TU/IBMPlexSerif(
+2)/m/it/10.95 «transgresor»\TU/IBMPlexSerif(0)/m/n/10.95 .[] 
  []
 
 
 
 [38]
-Overfull \hbox (20.59825pt too wide) in paragraph at lines 3059--3059
- []\TU/IBMPlexSerif(0)/m/n/10.95 El hecho de predicar |   [] a Cristo crucifica
-do no significaba ausencia de verdadera
+Overfull \hbox (9.675pt too wide) in paragraph at lines 2158--2158
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Santiago no empieza discutiendo lo interior; e
+mpieza con una declaración audible.[] 
  []
 
 
@@ -2090,291 +2111,132 @@ do no significaba ausencia de verdadera
 [39]
 
 [40]
-Overfull \hbox (13.37123pt too wide) in paragraph at lines 3201--3201
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios había determinado que Su pueblo participa
-ra de esta gloria mediante Su sabiduría. 
- []
-
-
-Overfull \hbox (2.23512pt too wide) in paragraph at lines 3241--3241
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los gobernantes de este siglo no comprendieron
- la sabiduría revelada en el evangelio. 
- []
-
-
 
 [41]
-Overfull \hbox (2.72783pt too wide) in paragraph at lines 3284--3284
- []\TU/IBMPlexSerif(0)/m/n/10.95 La cruz continúa invirtiendo completamente los
- criterios normales de valoración
+Overfull \hbox (0.53784pt too wide) in paragraph at lines 2348--2348
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Es el cierre del primer movimiento del bloque 
+(pregunta -> ejemplo -> veredicto).[] 
+ []
+
+
+Overfull \hbox (3.3382pt too wide) in paragraph at lines 2352--2352
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.18 introduce \TU/IBMPlexSerif(2)/m/it/10.
+95 «Pero alguien dirá…»\TU/IBMPlexSerif(0)/m/n/10.95 , o sea, una objeción/diál
+ogo, y el argumento
  []
 
 
 
 [42]
-Overfull \hbox (11.74118pt too wide) in paragraph at lines 3370--3370
- []\TU/IBMPlexSerif(0)/m/n/10.95 Debido a la incapacidad |   [], Dios mismo rev
-eló estas cosas por medio del Espíritu. 
- []
-
-
-Overfull \hbox (14.74362pt too wide) in paragraph at lines 3376--3376
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa desplazando |   [] el origen de
-l verdadero conocimiento:[] 
- []
-
-
 
 [43]
-Overfull \hbox (3.70609pt too wide) in paragraph at lines 3448--3451
-\TU/IBMPlexSerif(0)/m/n/10.95 no pueden ser alcanzadas simplemente mediante obs
-ervación o razonamiento
- []
-
-
-Overfull \hbox (43.3246pt too wide) in paragraph at lines 3457--3457
- []\TU/IBMPlexSerif(0)/m/n/10.95 De la misma manera, solamente el Espíritu de D
-ios conoce verdaderamente los pensamientos
- []
-
-
 
 [44]
-Overfull \hbox (29.18085pt too wide) in paragraph at lines 3563--3563
- []\TU/IBMPlexSerif(0)/m/n/10.95 Estas realidades ya fueron dadas a los creyent
-es, aunque solamente pueden comprenderse
- []
-
-
-Overfull \hbox (27.86685pt too wide) in paragraph at lines 3567--3567
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, que esto sea verdadero no signifi
-ca automáticamente que todos comprendan
- []
-
-
 
 [45]
-Overfull \hbox (6.4815pt too wide) in paragraph at lines 3612--3612
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no se encargaba de producir comprensión 
-espiritual, sino de anunciar fielmente
- []
-
-
-Overfull \hbox (24.10736pt too wide) in paragraph at lines 3614--3614
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque la comprensión depende del Espíritu, Pa
-blo no dejaba de predicar estas verdades. 
- []
-
-
 
 [46]
-Overfull \hbox (10.19579pt too wide) in paragraph at lines 3722--3725
-\TU/IBMPlexSerif(0)/m/n/10.95 sino incapacidad para percibir correctamente aque
-llo que proviene del Espíritu.
- []
-
-
 
 [47]
-Overfull \hbox (3.93018pt too wide) in paragraph at lines 3820--3820
- []\TU/IBMPlexSerif(0)/m/n/10.95 En contraste con el hombre natural, el espirit
-ual puede discernir correctamente todas
+Overfull \hbox (6.05301pt too wide) in paragraph at lines 2756--2756
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto prepara un segundo ejemplo (Rahab) para r
+eforzar que no fue un caso aislado
  []
 
 
 
 [48]
-Overfull \hbox (6.05663pt too wide) in paragraph at lines 3868--3868
- []\TU/IBMPlexSerif(0)/m/n/10.95 El discernimiento espiritual no |   [] ser eva
-luado correctamente desde criterios
- []
-
-
-Overfull \hbox (1.04884pt too wide) in paragraph at lines 3920--3920
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye esta sección dirigiendo nuevame
-nte toda la atención hacia Cristo.[] 
- []
-
-
 
 [49]
-Overfull \hbox (17.28415pt too wide) in paragraph at lines 3953--3968
-\TU/IBMPlexSerif(0)/m/n/11 - El hombre no puede descubrir ni comprender las cos
-as de Dios mediante inteligencia,
- []
-
-
-Overfull \hbox (4.71115pt too wide) in paragraph at lines 3953--3968
-\TU/IBMPlexSerif(0)/m/n/11 - El verdadero conocimiento espiritual depende compl
-etamente del Espíritu de Dios,
- []
-
-
-Overfull \hbox (4.73683pt too wide) in paragraph at lines 3953--3968
-\TU/IBMPlexSerif(0)/m/n/11 quien permite comprender las riquezas que Dios ya ha
- dado gratuitamente en Cristo. 
- []
-
-
-Overfull \hbox (40.68784pt too wide) in paragraph at lines 3988--3988
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto produce una tensión importante con todo l
-o que Pablo ya había dicho anteriormente
- []
-
-
 
 [50]
 
 [51]
-Overfull \hbox (6.84653pt too wide) in paragraph at lines 4149--4149
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo expone que todavía no podía
-n recibir aquello correspondiente
- []
-
-
 
 [52]
-Overfull \hbox (19.26242pt too wide) in paragraph at lines 4225--4228
-\TU/IBMPlexSerif(0)/m/n/10.95 los |   [] y las discusiones podían incluso parec
-er parte normal de una comunidad
- []
-
-
-Overfull \hbox (22.04877pt too wide) in paragraph at lines 4230--4230
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo las expone como evidencia d
-e una realidad mucho más profunda.[] 
- []
-
-
-Overfull \hbox (18.94843pt too wide) in paragraph at lines 4285--4285
- []\TU/IBMPlexSerif(0)/m/n/10.95 Las declaraciones probablemente no parecían pr
-oblemáticas desde una perspectiva
+Overfull \hbox (10.69582pt too wide) in paragraph at lines 3066--3066
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto prepara el punto: la lengua es pequeña pe
+ro dirige y produce efectos (Santiago
  []
 
 
 
 [53]
-Overfull \hbox (10.08263pt too wide) in paragraph at lines 4296--4299
-\TU/IBMPlexSerif(0)/m/n/10.95 podía parecer completamente razonable e incluso e
-spiritualmente significativo.
- []
-
-
-Overfull \hbox (42.7333pt too wide) in paragraph at lines 4301--4301
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo continúa mostrando que esta
-s identificaciones estaban produciendo:[] 
- []
-
-
 
 [54]
-Overfull \hbox (13.96623pt too wide) in paragraph at lines 4380--4384
-\TU/IBMPlexSerif(0)/m/n/10.95 resultaba natural comenzar a definir importancia 
-espiritual según determinados
- []
-
-
-Overfull \hbox (1.09631pt too wide) in paragraph at lines 4430--4430
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo y Apolos fueron instrumentos mediante lo
-s cuales los corintios llegaron a creer. 
- []
-
-
 
 [55]
-Overfull \hbox (26.01268pt too wide) in paragraph at lines 4517--4517
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no desacredita el trabajo de ninguno, pe
-ro deja claro quién produjo verdaderamente
- []
-
-
 
 [56]
-
-[57]
-Overfull \hbox (12.27042pt too wide) in paragraph at lines 4655--4655
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque ambos son uno en la obra, cada uno sigu
-e siendo considerado individualmente. 
+Overfull \hbox (7.51443pt too wide) in paragraph at lines 3350--3350
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Vuelve \TU/IBMPlexSerif(2)/m/it/10.95 «hermano
+s» \TU/IBMPlexSerif(0)/m/n/10.95 en medio de la analogía, manteniendo la exhort
+ación personal.[] 
  []
 
 
 
+[57]
+
 [58]
+Overfull \hbox (4.26816pt too wide) in paragraph at lines 3429--3429
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta con el patrón del libro: lo que s
+e dice se prueba en lo visible (Santiago
+ []
+
+
 
 [59]
-Overfull \hbox (0.86392pt too wide) in paragraph at lines 4811--4811
- []\TU/IBMPlexSerif(0)/m/n/10.95 Antes describió esa labor como plantar; ahora 
-la describe como poner el fundamento. 
+Overfull \hbox (16.13795pt too wide) in paragraph at lines 3489--3489
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta con otras partes del libro donde 
+lo interno produce lo externo (Santiago
  []
 
 
 
 [60]
-Overfull \hbox (16.31761pt too wide) in paragraph at lines 4916--4931
-\TU/IBMPlexSerif(0)/m/n/11 riquezas espirituales reales en Cristo, todavía esta
-ban pensando y actuando de manera
- []
-
-
-Overfull \hbox (31.40744pt too wide) in paragraph at lines 4916--4931
-\TU/IBMPlexSerif(0)/m/n/11 - La carnalidad se manifestaba mediante celos, discu
-siones, rivalidades e identificaciones
- []
-
-
-Overfull \hbox (6.77698pt too wide) in paragraph at lines 4916--4931
-\TU/IBMPlexSerif(0)/m/n/11 - La iglesia es presentada como el campo y el edific
-io de Dios, donde cada colaborador
+Overfull \hbox (0.51718pt too wide) in paragraph at lines 3591--3591
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No lo presenta como posibilidad; lo presenta c
+omo consecuencia ligada al \TU/IBMPlexSerif(2)/m/it/10.95 «donde
  []
 
 
 
 [61]
-
-[62]
-
-[63]
-Overfull \hbox (4.83394pt too wide) in paragraph at lines 5203--5206
-\TU/IBMPlexSerif(0)/m/n/10.95 permanece siendo el fundamento indispensable de t
-oda verdadera edificación.
+Overfull \hbox (3.14392pt too wide) in paragraph at lines 3665--3665
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esta forma de cierre conversa con el lenguaje 
+de \TU/IBMPlexSerif(2)/m/it/10.95 «doble ánimo/inestable» \TU/IBMPlexSerif(0)/m
+/n/10.95 (Santiago
  []
 
 
+
+[62]
+Overfull \hbox (4.00317pt too wide) in paragraph at lines 3704--3704
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El siguiente versículo abrirá con otra pregunt
+a, ahora sobre conflictos: \TU/IBMPlexSerif(2)/m/it/10.95 «¿De dónde
+ []
+
+
+Overfull \hbox (6.60199pt too wide) in paragraph at lines 3725--3725
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto abre con una pregunta que busca mostr
+ar causa, no solo describir el problema. 
+ []
+
+
+
+[63]
 
 [64]
 
 [65]
-Overfull \hbox (0.2641pt too wide) in paragraph at lines 5336--5336
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa recordándoles aquello que verda
-deramente eran delante de Dios.[] 
- []
-
-
-Overfull \hbox (11.76889pt too wide) in paragraph at lines 5383--5383
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto hace todavía más profunda la tensión de t
-odo lo que Pablo viene confrontando:[] 
- []
-
-
 
 [66]
 
 [67]
-Overfull \hbox (37.05115pt too wide) in paragraph at lines 5521--5536
-\TU/IBMPlexSerif(0)/m/n/11 mostrando que una obra puede perderse completamente 
-mientras la salvación permanece
- []
-
-
-Overfull \hbox (11.5781pt too wide) in paragraph at lines 5521--5536
-\TU/IBMPlexSerif(0)/m/n/11 donde habita Su Espíritu, haciendo extremadamente se
-rias las divisiones, rivalidades
- []
-
-
-Overfull \hbox (13.78008pt too wide) in paragraph at lines 5555--5555
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no quiere que los creyentes vivan bajo u
-na opinión engañosa acerca de sí |   []. 
+Overfull \hbox (22.92575pt too wide) in paragraph at lines 4041--4041
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Allí hubo amistad/enemistad hacia Dios. Aquí h
+ay una dirección concreta: someterse
  []
 
 
@@ -2382,101 +2244,70 @@ na opinión engañosa acerca de sí |   [].
 [68]
 
 [69]
-Overfull \hbox (8.25758pt too wide) in paragraph at lines 5717--5717
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios deja en evidencia la supuesta sabiduría h
-umana atrapándola en su propia astucia. 
+Overfull \hbox (3.2206pt too wide) in paragraph at lines 4111--4111
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «pecadores» \TU/IBMPlexSerif(0)/m/n/10.95 es 
+un llamado directo que califica a los destinatarios en ese momento.[] 
  []
 
 
 
 [70]
-Overfull \hbox (18.07608pt too wide) in paragraph at lines 5786--5786
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban jactándose en hombres qu
-e finalmente eran solamente servidores. 
+Overfull \hbox (9.83952pt too wide) in paragraph at lines 4221--4221
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Después de esta cadena de reorientación, el te
+xto pasará a una corrección concreta
  []
-
-
-LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
-(Font)              using `TU/IBMPlexSerif(2)/m/n' instead on input line 5851.
 
 
 
 [71]
+Overfull \hbox (9.90161pt too wide) in paragraph at lines 4241--4241
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto sigue la línea de 4:1–10: conflictos dent
+ro de \TU/IBMPlexSerif(2)/m/it/10.95 «ustedes»\TU/IBMPlexSerif(0)/m/n/10.95 , y
+ ahora una corrección
+ []
+
+
+Overfull \hbox (4.61128pt too wide) in paragraph at lines 4261--4261
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «de un hermano» \TU/IBMPlexSerif(0)/m/n/10.95
+ mantiene el marco comunitario: se trata de cómo se habla dentro
+ []
+
+
+Overfull \hbox (14.54657pt too wide) in paragraph at lines 4281--4281
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La frase muestra una consecuencia de lo que se
+ hace con la boca: termina afectando
+ []
+
+
 
 [72]
-Overfull \hbox (23.49876pt too wide) in paragraph at lines 6009--6009
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ya había dicho que eran servidores. Ahor
-a añade que también son administradores. 
+Overfull \hbox (0.68755pt too wide) in paragraph at lines 4325--4325
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.12 dirá por qué ese rol está fuera de lug
+ar: hay \TU/IBMPlexSerif(2)/m/it/10.95 «un Legislador y Juez» \TU/IBMPlexSerif(
+0)/m/n/10.95 (Santiago
+ []
+
+
+Overfull \hbox (27.55148pt too wide) in paragraph at lines 4355--4355
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «salvar» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/
+IBMPlexSerif(2)/m/it/10.95 «destruir» \TU/IBMPlexSerif(0)/m/n/10.95 ponen el ju
+icio en términos de resultado extremo (dos direcciones
  []
 
 
 
 [73]
-Overfull \hbox (0.96126pt too wide) in paragraph at lines 6083--6083
- []\TU/IBMPlexSerif(0)/m/n/10.95 Su labor era proclamar y enseñar el evangelio 
-a quienes Dios le daba oportunidad
- []
-
-
-Overfull \hbox (2.30957pt too wide) in paragraph at lines 6123--6123
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no rechaza completamente el examen que o
-tros hacen de su vida, pero sí afirma
- []
-
-
 
 [74]
-Overfull \hbox (16.23796pt too wide) in paragraph at lines 6201--6201
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque Pablo no estuviera consciente de algo m
-alo, eso no significaba automáticamente
- []
-
-
-Overfull \hbox (10.94398pt too wide) in paragraph at lines 6205--6205
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto vuelve a destruir la autosuficiencia huma
-na incluso en la evaluación personal.[] 
- []
-
-
 
 [75]
 
 [76]
-Overfull \hbox (1.14377pt too wide) in paragraph at lines 6342--6342
- []\TU/IBMPlexSerif(0)/m/n/10.95 La alabanza apropiada vendrá después del juici
-o y manifestación realizados por Dios. 
- []
-
-
-Overfull \hbox (1.85481pt too wide) in paragraph at lines 6372--6387
-\TU/IBMPlexSerif(0)/m/n/11 que la verdadera sabiduría solamente puede encontrar
-se abandonando los criterios
- []
-
-
-Overfull \hbox (5.6036pt too wide) in paragraph at lines 6372--6387
-\TU/IBMPlexSerif(0)/m/n/11 - La sabiduría, la gloria y las comparaciones humana
-s quedan completamente vacías
- []
-
-
-Overfull \hbox (1.78296pt too wide) in paragraph at lines 6372--6387
-\TU/IBMPlexSerif(0)/m/n/11 delante de Dios, quien conoce y expone la inutilidad
- de los razonamientos humanos. 
- []
-
-
-Overfull \hbox (9.6883pt too wide) in paragraph at lines 6372--6387
-\TU/IBMPlexSerif(0)/m/n/11 - La evaluación, el juicio y la verdadera alabanza n
-o pertenecen finalmente al hombre,
- []
-
-
 
 [77]
-Overfull \hbox (13.3311pt too wide) in paragraph at lines 6438--6438
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios estaban confundidos en cuanto a 
-ellos mismos y en cuanto a los servidores
+Overfull \hbox (2.80452pt too wide) in paragraph at lines 4689--4689
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «ricos» \TU/IBMPlexSerif(0)/m/n/10.95 nombra 
+el grupo al que va dirigido este tramo. No es general; es específico.[] 
  []
 
 
@@ -2486,1447 +2317,97 @@ ellos mismos y en cuanto a los servidores
 [79]
 
 [80]
-Overfull \hbox (19.76387pt too wide) in paragraph at lines 6671--6671
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si los corintios ya estuvieran reinando, enton
-ces los apóstoles también estarían reinando
- []
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 6679--6681
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Porque pienso que Dios nos ha exhibido a nos
-otros los apóstoles en último lugar, como a
- []
-
-
-Overfull \hbox (24.32642pt too wide) in paragraph at lines 6683--6683
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Porque pienso que Dios nos ha exhibido a no
-sotros los apóstoles en último lugar, como a sentenciados
- []
-
-
 
 [81]
 
 [82]
-Overfull \hbox (2.37016pt too wide) in paragraph at lines 6832--6835
-\TU/IBMPlexSerif(0)/m/n/10.95 continuaba alejándose profundamente del camino ap
-ostólico que Pablo estaba
+Overfull \hbox (33.23604pt too wide) in paragraph at lines 4967--4967
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «Por tanto» \TU/IBMPlexSerif(0)/m/n/10.95 con
+ecta como conclusión: después de lo dicho, ahora viene una instrucción.[] 
+ []
+
+
+Overfull \hbox (18.01044pt too wide) in paragraph at lines 5013--5013
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.8 repite \TU/IBMPlexSerif(2)/m/it/10.95 «
+sean pacientes» \TU/IBMPlexSerif(0)/m/n/10.95 y añade otra instrucción: fortale
+cer el corazón (Santiago
  []
 
 
 
 [83]
-Overfull \hbox (26.67694pt too wide) in paragraph at lines 6973--6973
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque muchos hablaban mal de los apóstoles, e
-llos respondían buscando reconciliación. 
- []
-
-
 
 [84]
 
 [85]
-Overfull \hbox (9.77023pt too wide) in paragraph at lines 7112--7112
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Porque aunque ustedes tengan innumerables m
-aestros en Cristo, sin embargo no muchos padres» 
- []
-
-
-Overfull \hbox (8.76642pt too wide) in paragraph at lines 7132--7132
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, Pablo les recuerda la relación ún
-ica que surgió mediante el evangelio
+Overfull \hbox (6.59323pt too wide) in paragraph at lines 5201--5201
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «compasivo y misericordioso» \TU/IBMPlexSerif
+(0)/m/n/10.95 cierra el argumento de paciencia con una descripción
  []
 
 
 
 [86]
-
-[87]
-Overfull \hbox (29.66484pt too wide) in paragraph at lines 7244--7244
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo envió a Timoteo precisamente porque quer
-ía que los corintios fueran sus imitadores. 
+Overfull \hbox (15.10866pt too wide) in paragraph at lines 5205--5205
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El v.12 hará un cierre puntual con una prohibi
+ción sobre juramentos y un propósito:
  []
 
 
 
+[87]
+
 [88]
-Overfull \hbox (11.81998pt too wide) in paragraph at lines 7324--7324
- []\TU/IBMPlexSerif(0)/m/n/10.95 Formaba parte de la misma enseñanza apostólica
- que comunicaba en |   [] partes.[] 
+Overfull \hbox (6.9378pt too wide) in paragraph at lines 5378--5378
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Se nota una estructura: el caso trae una respu
+esta comunitaria, no solo individual.[] 
  []
 
 
 
 [89]
+Overfull \hbox (8.06198pt too wide) in paragraph at lines 5444--5444
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «Si» \TU/IBMPlexSerif(0)/m/n/10.95 introduce 
+condición: esto puede ser parte del caso, pero no se asume siempre.[] 
+ []
+
+
 
 [90]
-Overfull \hbox (11.23708pt too wide) in paragraph at lines 7524--7540
-\TU/IBMPlexSerif(0)/m/n/11 realidad apostólica estaba marcada por debilidad, su
-frimiento, rechazo y humillación
- []
-
-
-Overfull \hbox (17.48732pt too wide) in paragraph at lines 7524--7540
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo presenta el camino apostólico como una vida 
-formada por la cruz, caracterizada
- []
-
-
-Overfull \hbox (21.8983pt too wide) in paragraph at lines 7524--7540
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo concluye confrontando las palabras arrogante
-s de algunos corintios, recordando
+Overfull \hbox (12.45146pt too wide) in paragraph at lines 5528--5528
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «semejantes a las nuestras» \TU/IBMPlexSerif(
+0)/m/n/10.95 reduce distancia: lo pone en la misma categoría humana.[] 
  []
 
 
 
 [91]
-Overfull \hbox (11.26154pt too wide) in paragraph at lines 7639--7639
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta directamente con todo lo que Pabl
-o venía |   [] desde capítulos
- []
-
-
 
 [92]
-Overfull \hbox (20.53618pt too wide) in paragraph at lines 7671--7671
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra que la manera en que estaban res
-pondiendo |   [] una percepción
+Overfull \hbox (1.25694pt too wide) in paragraph at lines 5648--5648
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El versículo termina con coma. El pensamiento 
+no se completa aquí; pasa directo
  []
 
 
 
 [93]
+Overfull \hbox (16.30733pt too wide) in paragraph at lines 5722--5722
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «pecados» \TU/IBMPlexSerif(0)/m/n/10.95 cierr
+a con el vocabulario moral del libro, pero ahora en forma de resultado
+ []
+
+
+Overfull \hbox (7.0081pt too wide) in paragraph at lines 5726--5726
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No hay otro bloque después. El libro termina c
+on una acción comunitaria concreta
+ []
+
+
 
 [94]
-Overfull \hbox (41.21492pt too wide) in paragraph at lines 7841--7841
- []\TU/IBMPlexSerif(0)/m/n/10.95 Incluso frente a una situación tan seria, los 
-corintios seguían pensando incorrectamente.[] 
- []
 
-
-
-[95]
-Overfull \hbox (0.18683pt too wide) in paragraph at lines 7933--7933
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Por tanto, celebremos la fiesta no con la l
-evadura vieja, ni con la levadura de malicia y maldad» 
- []
-
-
-
-[96]
-Overfull \hbox (37.68535pt too wide) in paragraph at lines 8024--8024
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si la instrucción fuera evitar completamente a
- los incrédulos, tendrían que salir literalmente
- []
-
-
-
-[97]
-Overfull \hbox (1.62918pt too wide) in paragraph at lines 8100--8100
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa aclarando |   [] recae realment
-e la responsabilidad de la iglesia.[] 
- []
-
-
-Overfull \hbox (2.81175pt too wide) in paragraph at lines 8110--8110
- []\TU/IBMPlexSerif(0)/m/n/10.95 La iglesia debía discernir correctamente |   [
-] que estaba ocurriendo en medio
- []
-
-
-
-[98]
-Overfull \hbox (3.29216pt too wide) in paragraph at lines 8166--8181
-\TU/IBMPlexSerif(0)/m/n/11 - La responsabilidad principal de la iglesia no cons
-iste en juzgar al mundo incrédulo,
- []
-
-
-Overfull \hbox (14.80933pt too wide) in paragraph at lines 8219--8219
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo considera incorrecto que los creyentes l
-leven sus conflictos delante de incrédulos. 
- []
-
-
-
-[99]
-Overfull \hbox (3.48853pt too wide) in paragraph at lines 8302--8302
- []\TU/IBMPlexSerif(0)/m/n/10.95 Si eso es verdadero, entonces los asuntos de e
-sta vida deberían ser comparativamente
- []
-
-
-
-[100]
-
-[101]
-Overfull \hbox (16.75479pt too wide) in paragraph at lines 8394--8394
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto es especialmente fuerte después de toda l
-a discusión acerca de verdadera sabiduría
- []
-
-
-Overfull \hbox (20.53403pt too wide) in paragraph at lines 8396--8396
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios se consideraban sabios, pero |  
- [] mostrando incapacidad para resolver
- []
-
-
-
-[102]
-Overfull \hbox (9.11534pt too wide) in paragraph at lines 8469--8469
- []\TU/IBMPlexSerif(0)/m/n/10.95 La existencia misma de estos conflictos públic
-os ya dejaba expuesta una condición
- []
-
-
-
-[103]
-
-[104]
-Underfull \hbox (badness 1028) in paragraph at lines 8674--8676
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Y esto eran algunos de ustedes; pero fueron 
-lavados, pero fueron santificados, pero fueron
- []
-
-
-
-[105]
-
-[106]
-
-[107]
-Overfull \hbox (3.99803pt too wide) in paragraph at lines 8943--8943
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo muestra lo incompatible de unir aquello 
-que pertenece a Cristo con inmoralidad
- []
-
-
-
-[108]
-
-[109]
-
-[110]
-Overfull \hbox (5.55815pt too wide) in paragraph at lines 9222--9234
-\TU/IBMPlexSerif(0)/m/n/11 - La espiritualidad verdadera no consiste solamente 
-en pensamientos o experiencias
- []
-
-
-Overfull \hbox (14.82382pt too wide) in paragraph at lines 9222--9234
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo termina destruyendo toda falsa separación en
-tre vida espiritual y vida práctica,
- []
-
-
-
-[111]
-Overfull \hbox (8.2795pt too wide) in paragraph at lines 9291--9291
- []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión “tocar mujer” funciona aquí como 
-una manera de referirse a relación
- []
-
-
-
-[112]
-Overfull \hbox (5.78288pt too wide) in paragraph at lines 9335--9335
- []\TU/IBMPlexSerif(0)/m/n/10.95 Está considerando la realidad concreta de tent
-aciones e inmoralidades presentes.[] 
- []
-
-
-Overfull \hbox (12.69235pt too wide) in paragraph at lines 9347--9347
- []\TU/IBMPlexSerif(0)/m/n/10.95 La expresión “su propia mujer” también mantien
-e el énfasis dentro de una relación
- []
-
-
-Overfull \hbox (16.90082pt too wide) in paragraph at lines 9357--9357
- []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis comienza a moverse hacia una respon
-sabilidad mutua dentro del matrimonio. 
- []
-
-
-
-[113]
-
-[114]
-Overfull \hbox (2.53441pt too wide) in paragraph at lines 9454--9454
- []\TU/IBMPlexSerif(0)/m/n/10.95 El marido tampoco es presentado como dueño ind
-ependiente de sí mismo dentro
- []
-
-
-Overfull \hbox (15.34956pt too wide) in paragraph at lines 9456--9456
- []\TU/IBMPlexSerif(0)/m/n/10.95 El enfoque sigue alejándose del egoísmo indivi
-dual y moviéndose hacia responsabilidad
- []
-
-
-
-[115]
-Overfull \hbox (6.2209pt too wide) in paragraph at lines 9560--9560
- []\TU/IBMPlexSerif(0)/m/n/10.95 La abstinencia temporal no debe convertirse en
- una forma permanente de vivir dentro
- []
-
-
-
-[116]
-Overfull \hbox (6.74646pt too wide) in paragraph at lines 9628--9628
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa evitando imponer su experiencia
- personal como medida universal
- []
-
-
-Overfull \hbox (16.6928pt too wide) in paragraph at lines 9671--9673
-[]\TU/IBMPlexSerif(0)/m/n/10.95 como una realidad donde Dios obra de maneras di
-stintas en diferentes personas.
- []
-
-
-
-[117]
-Overfull \hbox (43.84871pt too wide) in paragraph at lines 9761--9761
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo considera preferible el matrimonio antes
- que vivir consumido por deseo descontrolado. 
- []
-
-
-
-[118]
-Overfull \hbox (2.5709pt too wide) in paragraph at lines 9826--9826
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo trata situaciones reales y concretas que
- efectivamente podían ocurrir entre
- []
-
-
-Overfull \hbox (13.06462pt too wide) in paragraph at lines 9834--9834
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo no introduce inmediatamente una nueva re
-lación como solución automática.[] 
- []
-
-
-
-[119]
-Overfull \hbox (18.86447pt too wide) in paragraph at lines 9880--9880
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa respondiendo cuidadosamente sit
-uaciones particulares que estaban
- []
-
-
-Overfull \hbox (15.14665pt too wide) in paragraph at lines 9888--9888
- []\TU/IBMPlexSerif(0)/m/n/10.95 El problema no es solamente el matrimonio, sin
-o la convivencia dentro de esa diferencia
- []
-
-
-
-[120]
-Overfull \hbox (49.55371pt too wide) in paragraph at lines 9912--9912
- []\TU/IBMPlexSerif(0)/m/n/10.95 Nuevamente Pablo mantiene equilibrio entre hom
-bre y mujer dentro de sus instrucciones.[] 
- []
-
-
-Overfull \hbox (1.8409pt too wide) in paragraph at lines 9918--9918
- []\TU/IBMPlexSerif(0)/m/n/10.95 La mujer creyente tampoco debe abandonar al ma
-rido incrédulo si él desea continuar
- []
-
-
-Overfull \hbox (54.61624pt too wide) in paragraph at lines 9967--9967
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando que la relación matri
-monial no queda anulada automáticamente
- []
-
-
-
-[121]
-
-[122]
-Overfull \hbox (32.10086pt too wide) in paragraph at lines 10124--10124
- []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis no está en cambiar inmediatamente d
-e situación, sino en caminar correctamente
- []
-
-
-Overfull \hbox (24.00008pt too wide) in paragraph at lines 10131--10133
-[]\TU/IBMPlexSerif(0)/m/n/10.95 a pensar que espiritualidad significa necesaria
-mente abandonar inmediatamente
- []
-
-
-
-[123]
-Overfull \hbox (0.50499pt too wide) in paragraph at lines 10205--10205
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los corintios necesitaban |   [] de pensar en 
-términos externos como si eso definiera
- []
-
-
-Overfull \hbox (13.44061pt too wide) in paragraph at lines 10225--10225
- []\TU/IBMPlexSerif(0)/m/n/10.95 La realidad importante no era la condición ext
-erna sino caminar correctamente delante
- []
-
-
-
-[124]
-Overfull \hbox (6.74069pt too wide) in paragraph at lines 10302--10302
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin embargo, la identidad del creyente sigue s
-in depender finalmente de esa condición
- []
-
-
-
-[125]
-
-[126]
-Overfull \hbox (26.35579pt too wide) in paragraph at lines 10425--10425
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo repite nuevamente el mismo principio, pe
-ro ahora añade una expresión importante. 
- []
-
-
-Overfull \hbox (19.00688pt too wide) in paragraph at lines 10466--10468
-[]\TU/IBMPlexSerif(0)/m/n/10.95 perseguir continuamente cambios externos como f
-undamento de espiritualidad.
- []
-
-
-
-[127]
-
-[128]
-
-[129]
-Underfull \hbox (badness 10000) in paragraph at lines 10708--10709
-
- []
-
-
-
-[130]
-
-[131]
-
-[132]
-Overfull \hbox (3.28629pt too wide) in paragraph at lines 11033--11033
- []\TU/IBMPlexSerif(0)/m/n/10.95 El casado debe dividir necesariamente su |   [
-] entre distintas responsabilidades. 
- []
-
-
-
-[133]
-
-[134]
-Overfull \hbox (20.20403pt too wide) in paragraph at lines 11215--11215
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo reconoce circunstancias concretas donde 
-el matrimonio puede resultar apropiado. 
- []
-
-
-
-[135]
-Overfull \hbox (22.18964pt too wide) in paragraph at lines 11259--11259
- []\TU/IBMPlexSerif(0)/m/n/10.95 Algunas personas pueden decidir permanecer en 
-esa condición con firmeza y convicción. 
- []
-
-
-Overfull \hbox (0.62544pt too wide) in paragraph at lines 11283--11283
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo sigue hablando en términos de sabiduría 
-práctica y no de imposición universal. 
- []
-
-
-
-[136]
-Overfull \hbox (8.73573pt too wide) in paragraph at lines 11311--11311
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa considerando |   [] permanecer 
-sin casarse dentro de la situación
- []
-
-
-
-[137]
-Overfull \hbox (10.2505pt too wide) in paragraph at lines 11400--11400
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo concluye afirmando confianza en la direc
-ción espiritual con la que está hablando. 
- []
-
-
-Overfull \hbox (3.37282pt too wide) in paragraph at lines 11434--11451
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo responde las preguntas de los corintios alej
-ándolos de extremos y mostrando
- []
-
-
-Overfull \hbox (31.09428pt too wide) in paragraph at lines 11434--11451
-\TU/IBMPlexSerif(0)/m/n/11 pertenencia al Señor, rechazando tanto el egoísmo co
-mo una espiritualidad desconectada
- []
-
-
-
-[138]
-Overfull \hbox (48.70325pt too wide) in paragraph at lines 11490--11490
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo inmediatamente expone el peligro del con
-ocimiento cuando es tratado incorrectamente. 
- []
-
-
-Overfull \hbox (8.82701pt too wide) in paragraph at lines 11504--11504
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza a mover la discusión desde dere
-chos y conocimiento hacia el bienestar
- []
-
-
-
-[139]
-Overfull \hbox (11.68863pt too wide) in paragraph at lines 11548--11548
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo dirige la atención hacia la |   [] con D
-ios y no hacia la superioridad intelectual. 
- []
-
-
-
-[140]
-
-[141]
-Overfull \hbox (17.00082pt too wide) in paragraph at lines 11656--11656
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque ciertas cosas fueran verdaderas, no tod
-os las comprendían de la misma manera. 
- []
-
-
-Overfull \hbox (18.15639pt too wide) in paragraph at lines 11664--11664
- []\TU/IBMPlexSerif(0)/m/n/10.95 Algunos creyentes todavía estaban profundament
-e marcados por su |   [] relacionado
- []
-
-
-
-[142]
-
-[143]
-
-[144]
-Overfull \hbox (4.31514pt too wide) in paragraph at lines 11861--11876
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo confronta una espiritualidad centrada solame
-nte en conocimiento y libertad,
- []
-
-
-
-[145]
-Overfull \hbox (21.50706pt too wide) in paragraph at lines 12003--12003
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los creyentes mismos funcionaban como evidenci
-a autentificadora de su ministerio.[] 
- []
-
-
-
-[146]
-
-[147]
-
-[148]
-
-[149]
-
-[150]
-
-[151]
-Overfull \hbox (10.57169pt too wide) in paragraph at lines 12465--12465
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo afirma claramente el derecho legítimo de
- |   [] sustento mediante el ministerio
- []
-
-
-Overfull \hbox (5.73177pt too wide) in paragraph at lines 12499--12499
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo |   [] que no está intentando obtener be
-neficio económico mediante esta carta. 
- []
-
-
-
-[152]
-
-[153]
-
-[154]
-
-[155]
-
-[156]
-
-[157]
-Overfull \hbox (5.34488pt too wide) in paragraph at lines 12999--12999
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo contrasta la recompensa del creyente con
- la recompensa temporal de los juegos. 
- []
-
-
-
-[158]
-
-[159]
-Overfull \hbox (9.71393pt too wide) in paragraph at lines 13091--13091
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo reconoce la posibilidad de predicar a | 
-  [] mientras él mismo enfrentaba peligro
- []
-
-
-Overfull \hbox (1.35542pt too wide) in paragraph at lines 13122--13137
-\TU/IBMPlexSerif(0)/m/n/11 - Finalmente, Pablo usa imágenes atléticas para most
-rar disciplina, dominio propio,
- []
-
-
-
-[160]
-Overfull \hbox (12.039pt too wide) in paragraph at lines 13202--13202
- []\TU/IBMPlexSerif(0)/m/n/10.95 conecta al pueblo con la |   [] de Moisés como
- líder y mediador de esa experiencia.[] 
- []
-
-
-
-[161]
-Overfull \hbox (1.47006pt too wide) in paragraph at lines 13272--13272
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque todos participaron de experiencias comu
-nes, el resultado no fue positivo
- []
-
-
-
-[162]
-
-[163]
-Overfull \hbox (26.99669pt too wide) in paragraph at lines 13436--13436
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo mantiene el |   [] sobre las consecuenci
-as reales de rebelión y desobediencia.[] 
- []
-
-
-
-[164]
-
-[165]
-
-[166]
-
-[167]
-
-[168]
-Overfull \hbox (8.69685pt too wide) in paragraph at lines 13845--13861
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo usa el ejemplo de Israel para advertir a los
- corintios contra una falsa seguridad
- []
-
-
-Overfull \hbox (14.15358pt too wide) in paragraph at lines 13845--13861
-\TU/IBMPlexSerif(0)/m/n/11 - Aunque Israel participó de experiencias espiritual
-es, provisión, y liberación, muchos
- []
-
-
-Overfull \hbox (52.55823pt too wide) in paragraph at lines 13845--13861
-\TU/IBMPlexSerif(0)/m/n/11 - Israel funciona como advertencia contra idolatría,
- inmoralidad, provocación, murmuración,
- []
-
-
-Overfull \hbox (5.00375pt too wide) in paragraph at lines 13845--13861
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo llama a los creyentes a resistir la tentació
-n, a huir de la idolatría, y a reconocer
- []
-
-
-
-[169]
-
-[170]
-Overfull \hbox (14.63782pt too wide) in paragraph at lines 13952--13952
- []\TU/IBMPlexSerif(0)/m/n/10.95 El bienestar del prójimo aparece |   [] criter
-io importante para el uso de la libertad.[] 
- []
-
-
-Overfull \hbox (2.41032pt too wide) in paragraph at lines 13972--13972
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo evita una preocupación obsesiva o invest
-igativa respecto al origen de la comida. 
- []
-
-
-
-[171]
-Overfull \hbox (3.14029pt too wide) in paragraph at lines 14020--14020
- []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis continúa siendo |   [] conflictos i
-nnecesarios de conciencia en situaciones
- []
-
-
-
-[172]
-
-[173]
-
-[174]
-Overfull \hbox (16.82416pt too wide) in paragraph at lines 14281--14281
- []\TU/IBMPlexSerif(0)/m/n/10.95 El contexto muestra adaptación y consideración
- |   [] otros por causa del evangelio.[] 
- []
-
-
-
-[175]
-Overfull \hbox (11.298pt too wide) in paragraph at lines 14396--14396
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta |   [] continúa desarrollando problem
-as que ya venían apareciendo repetidamente
- []
-
-
-Overfull \hbox (36.87424pt too wide) in paragraph at lines 14398--14398
-[]\TU/IBMPlexSerif(0)/m/n/10.95 A lo largo de 1 Corintios, Pablo viene corrigie
-ndo una espiritualidad profundamente influenciada
- []
-
-
-
-[176]
-Overfull \hbox (31.49718pt too wide) in paragraph at lines 14448--14448
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Ahora el problema aparece en la manera en que h
-ombres y mujeres estaban actuando públicamente
- []
-
-
-
-[177]
-Overfull \hbox (9.77017pt too wide) in paragraph at lines 14548--14548
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Irónicamente, una confianza excesiva alrededor 
-de pasajes difíciles puede reflejar exactamente
- []
-
-
-Overfull \hbox (0.31157pt too wide) in paragraph at lines 14618--14618
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta la práctica congregacional con l
-o que previamente les había entregado. 
- []
-
-
-
-[178]
-
-[179]
-
-[180]
-Overfull \hbox (3.00888pt too wide) in paragraph at lines 14836--14836
- []\TU/IBMPlexSerif(0)/m/n/10.95 El comportamiento visible comunicaba algo rela
-cionalmente significativo dentro
- []
-
-
-Overfull \hbox (3.89584pt too wide) in paragraph at lines 14842--14842
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta esta conducta con una condición 
-considerada vergonzosa o deshonrosa
- []
-
-
-Overfull \hbox (7.3451pt too wide) in paragraph at lines 14874--14874
- []\TU/IBMPlexSerif(0)/m/n/10.95 El argumento conecta ambas acciones dentro del
- mismo marco de representación
- []
-
-
-
-[181]
-
-[182]
-
-[183]
-Overfull \hbox (37.79707pt too wide) in paragraph at lines 15054--15054
- []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no explica detalladamente la relación
- de los ángeles con la práctica mencionada.[] 
- []
-
-
-Overfull \hbox (20.36465pt too wide) in paragraph at lines 15088--15088
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto evita leer el argumento anterior como ind
-ependencia absoluta o autosuficiencia
- []
-
-
-Overfull \hbox (25.04906pt too wide) in paragraph at lines 15114--15114
- []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis final no termina en autonomía human
-a, sino en procedencia y dependencia
- []
-
-
-
-[184]
-Overfull \hbox (5.43614pt too wide) in paragraph at lines 15156--15156
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa apelando a aquello que los cori
-ntios podían reconocer como apropiado
- []
-
-
-
-[185]
-
-[186]
-
-[187]
-
-[188]
-
-[189]
-
-[190]
-
-[191]
-
-[192]
-
-[193]
-
-[194]
-Overfull \hbox (4.0638pt too wide) in paragraph at lines 16007--16007
-[]| \TU/IBMPlexSerif(2)/m/it/10.95 «Una iglesia centrada en sí misma podía part
-icipar externamente mientras ignoraba la realidad
- []
-
-
-Overfull \hbox (6.47275pt too wide) in paragraph at lines 16067--16067
- []\TU/IBMPlexSerif(0)/m/n/10.95 Participar externamente mientras se despreciab
-a aquello que la cena proclamaba
- []
-
-
-
-[195]
-Overfull \hbox (5.45804pt too wide) in paragraph at lines 16093--16093
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta directamente las consecuencias c
-on la conducta que |   [] de describir. 
- []
-
-
-
-[196]
-
-[197]
-
-[198]
-Overfull \hbox (22.29549pt too wide) in paragraph at lines 16374--16374
- []\TU/IBMPlexSerif(0)/m/n/10.95 La reunión congregacional no debía reducirse a
- satisfacción individual desordenada.[] 
- []
-
-
-Overfull \hbox (0.93936pt too wide) in paragraph at lines 16390--16390
- []\TU/IBMPlexSerif(0)/m/n/10.95 Algunas correcciones serían tratadas personalm
-ente cuando estuviera presente.[] 
- []
-
-
-Overfull \hbox (8.55823pt too wide) in paragraph at lines 16393--16412
-\TU/IBMPlexSerif(0)/m/n/11 - Sus reuniones estaban marcadas por divisiones, ego
-ísmo, desigualdad, humillación
- []
-
-
-Overfull \hbox (15.75368pt too wide) in paragraph at lines 16393--16412
-\TU/IBMPlexSerif(0)/m/n/11 - Participar indignamente traía juicio, disciplina, 
-debilidad, enfermedad, y aun muerte
- []
-
-
-Overfull \hbox (1.69278pt too wide) in paragraph at lines 16393--16412
-\TU/IBMPlexSerif(0)/m/n/11 - La iglesia debía reunirse no para juicio, ni para 
-autoexaltación, sino de una manera
- []
-
-
-
-[199]
-Overfull \hbox (14.9955pt too wide) in paragraph at lines 16469--16469
- []\TU/IBMPlexSerif(0)/m/n/10.95 El lenguaje refleja falta de dirección correct
-a y sometimiento a influencias externas.[] 
- []
-
-
-
-[200]
-
-[201]
-
-[202]
-
-[203]
-
-[204]
-
-[205]
-
-[206]
-
-[207]
-
-[208]
-
-[209]
-Overfull \hbox (14.75821pt too wide) in paragraph at lines 17246--17246
- []\TU/IBMPlexSerif(0)/m/n/10.95 Dios mismo distribuye honra considerando aquel
-lo que parecía carecer de importancia. 
- []
-
-
-
-[210]
-
-[211]
-
-[212]
-
-[213]
-Overfull \hbox (30.9058pt too wide) in paragraph at lines 17560--17560
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza usando ejemplos extremos relaci
-onados con manifestaciones espirituales. 
- []
-
-
-
-[214]
-Overfull \hbox (23.13133pt too wide) in paragraph at lines 17674--17674
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa destruyendo cualquier definició
-n de espiritualidad basada solamente
- []
-
-
-
-[215]
-
-[216]
-Overfull \hbox (1.2058pt too wide) in paragraph at lines 17838--17838
- []\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta descripción del amor confronta direc
-tamente la espiritualidad corintia
- []
-
-
-
-[217]
-
-[218]
-Overfull \hbox (14.45528pt too wide) in paragraph at lines 17952--17952
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa mostrando que ciertas manifesta
-ciones pertenecen a una condición
- []
-
-
-
-[219]
-Overfull \hbox (1.30801pt too wide) in paragraph at lines 18069--18069
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo el desarrollo del capítulo ha corregido u
-na visión de espiritualidad centrada
- []
-
-
-
-[220]
-Overfull \hbox (23.53731pt too wide) in paragraph at lines 18110--18125
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo muestra que las manifestaciones espirituales
-, por impresionantes que parezcan,
- []
-
-
-Overfull \hbox (17.29591pt too wide) in paragraph at lines 18110--18125
-\TU/IBMPlexSerif(0)/m/n/11 - El amor aparece caracterizado por paciencia, bonda
-d, humildad, ausencia de envidia,
- []
-
-
-
-[221]
-
-[222]
-
-[223]
-
-[224]
-
-[225]
-
-[226]
-
-[227]
-Overfull \hbox (19.06888pt too wide) in paragraph at lines 18722--18722
- []\TU/IBMPlexSerif(0)/m/n/10.95 La verdadera espiritualidad no aparece como ex
-periencia incomprensible orientada
- []
-
-
-Overfull \hbox (9.11897pt too wide) in paragraph at lines 18736--18736
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa desarrollando las consecuencias
- prácticas de la falta de entendimiento. 
- []
-
-
-
-[228]
-
-[229]
-Overfull \hbox (13.23254pt too wide) in paragraph at lines 18858--18858
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pocas palabras comprensibles poseen mayor valo
-r congregacional que abundancia
- []
-
-
-
-[230]
-
-[231]
-Overfull \hbox (42.2683pt too wide) in paragraph at lines 19049--19049
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo continúa mostrando que la
- verdadera espiritualidad congregacional
- []
-
-
-
-[232]
-
-[233]
-Overfull \hbox (1.71313pt too wide) in paragraph at lines 19223--19223
- []\TU/IBMPlexSerif(0)/m/n/10.95 La manifestación no debía imponerse desordenad
-amente sobre la congregación.[] 
- []
-
-
-
-[234]
-Overfull \hbox (12.01709pt too wide) in paragraph at lines 19251--19251
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto muestra que la participación congregacion
-al incluía discernimiento colectivo.[] 
- []
-
-
-
-[235]
-Overfull \hbox (1.75331pt too wide) in paragraph at lines 19363--19363
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo establece restricción respecto al hablar
- en la iglesia dentro del contexto tratado. 
- []
-
-
-
-[236]
-Overfull \hbox (20.57632pt too wide) in paragraph at lines 19413--19413
- []\TU/IBMPlexSerif(0)/m/n/10.95 Toda esta sección continúa mostrando que Pablo
- estaba profundamente preocupado
- []
-
-
-
-[237]
-
-[238]
-Overfull \hbox (14.52684pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa corrigiendo la manera en que los co
-rintios entendían la espiritualidad
- []
-
-
-Overfull \hbox (11.13077pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - El criterio principal ya no es espectacularidad, i
-ntensidad, ni experiencia individual. 
- []
-
-
-Overfull \hbox (3.07437pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - El criterio central pasa a ser comprensión, edific
-ación, madurez, orden, y beneficio
- []
-
-
-Overfull \hbox (26.2829pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo insiste repetidamente en interpretación, int
-eligibilidad, exhortación, enseñanza,
- []
-
-
-Overfull \hbox (17.1991pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - Las lenguas no son prohibidas, pero deben funciona
-r dentro de orden, interpretación,
- []
-
-
-Overfull \hbox (5.39314pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo también confronta directamente la autosufici
-encia espiritual de los corintios. 
- []
-
-
-Overfull \hbox (0.51503pt too wide) in paragraph at lines 19639--19659
-\TU/IBMPlexSerif(0)/m/n/11 debía reflejar paz, orden, madurez, comprensión, y e
-dificación del cuerpo de Cristo. 
- []
-
-
-
-[239]
-
-[240]
-
-[241]
-Overfull \hbox (11.03162pt too wide) in paragraph at lines 19812--19812
- []\TU/IBMPlexSerif(0)/m/n/10.95 Tanto la muerte como la resurrección son prese
-ntadas dentro del marco escritural.[] 
- []
-
-
-
-[242]
-Overfull \hbox (27.92891pt too wide) in paragraph at lines 19914--19914
- []\TU/IBMPlexSerif(0)/m/n/10.95 Es presentada como acontecimiento proclamado, 
-recibido y atestiguado por múltiples
- []
-
-
-
-[243]
-Overfull \hbox (29.4641pt too wide) in paragraph at lines 19942--19942
- []\TU/IBMPlexSerif(0)/m/n/10.95 La aparición a Pablo es colocada dentro de la 
-misma cadena testimonial de apariciones
- []
-
-
-
-[244]
-
-[245]
-
-[246]
-
-[247]
-Overfull \hbox (1.31897pt too wide) in paragraph at lines 20257--20257
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo conecta directamente la resurrección con
- la situación de los creyentes respecto
- []
-
-
-
-[248]
-Overfull \hbox (9.25563pt too wide) in paragraph at lines 20340--20352
-\TU/IBMPlexSerif(0)/m/n/11 - Para Pablo, negar la resurrección destruye complet
-amente la resurrección de Cristo,
- []
-
-
-Overfull \hbox (19.5868pt too wide) in paragraph at lines 20340--20352
-\TU/IBMPlexSerif(0)/m/n/11 - La resurrección de Cristo y la resurrección de los
- muertos aparecen inseparablemente
- []
-
-
-Overfull \hbox (9.78877pt too wide) in paragraph at lines 20340--20352
-\TU/IBMPlexSerif(0)/m/n/11 - Sin resurrección la fe sería vana, los creyentes s
-eguirían en sus pecados, los muertos
- []
-
-
-Overfull \hbox (12.03171pt too wide) in paragraph at lines 20383--20383
- []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección de Cristo aparece como inicio 
-y garantía de algo mayor que seguirá.[] 
- []
-
-
-
-[249]
-
-[250]
-
-[251]
-Overfull \hbox (20.51083pt too wide) in paragraph at lines 20585--20602
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo responde a la negación de la resurrección af
-irmando que Cristo verdaderamente
- []
-
-
-Overfull \hbox (17.62444pt too wide) in paragraph at lines 20585--20602
-\TU/IBMPlexSerif(0)/m/n/11 - La resurrección de Cristo aparece como primicias, 
-inicio, y garantía de la resurrección
- []
-
-
-Overfull \hbox (16.97545pt too wide) in paragraph at lines 20585--20602
-\TU/IBMPlexSerif(0)/m/n/11 - Está conectada con el reinado de Cristo, la derrot
-a final de la muerte, y la consumación
- []
-
-
-Overfull \hbox (0.55246pt too wide) in paragraph at lines 20623--20623
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo ahora introduce una aclaración important
-e respecto al alcance de esa sujeción. 
- []
-
-
-
-[252]
-Overfull \hbox (19.78793pt too wide) in paragraph at lines 20693--20693
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo continúa mostrando que la
- resurrección está inseparablemente
- []
-
-
-
-[253]
-Overfull \hbox (2.9505pt too wide) in paragraph at lines 20744--20744
- []\TU/IBMPlexSerif(0)/m/n/10.95 El énfasis principal del argumento no está en 
-explicar detalladamente la práctica,[] 
- []
-
-
-Overfull \hbox (3.73889pt too wide) in paragraph at lines 20763--20763
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo usa la práctica mencionada para mostrar 
-contradicción lógica si la resurrección
- []
-
-
-
-[254]
-Overfull \hbox (3.90099pt too wide) in paragraph at lines 20841--20841
- []\TU/IBMPlexSerif(0)/m/n/10.95 Sin resurrección, la orientación queda reducid
-a al presente inmediato y pasajero.[] 
- []
-
-
-
-[255]
-Overfull \hbox (8.72762pt too wide) in paragraph at lines 20916--20930
-\TU/IBMPlexSerif(0)/m/n/11 - Si no existe resurrección ciertas prácticas pierde
-n sentido, el sufrimiento apostólico
- []
-
-
-Overfull \hbox (2.11298pt too wide) in paragraph at lines 20916--20930
-\TU/IBMPlexSerif(0)/m/n/11 - Sin resurrección, la conclusión lógica sería vivir
- solamente para el placer presente,
- []
-
-
-
-[256]
-Overfull \hbox (21.2516pt too wide) in paragraph at lines 20960--20960
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo comienza ahora a responder objeciones re
-lacionadas con el cuerpo resucitado.[] 
- []
-
-
-
-[257]
-
-[258]
-
-[259]
-
-[260]
-
-[261]
-
-[262]
-Overfull \hbox (2.13057pt too wide) in paragraph at lines 21448--21461
-\TU/IBMPlexSerif(0)/m/n/11 - El cuerpo resucitado es descrito como incorruptibl
-e, glorioso, poderoso, espiritual,
- []
-
-
-Overfull \hbox (11.5964pt too wide) in paragraph at lines 21448--21461
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa mostrando continuidad, transformaci
-ón, y diferencia entre el cuerpo
- []
-
-
-Overfull \hbox (31.54752pt too wide) in paragraph at lines 21448--21461
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo redefine así completamente la idea del cuerp
-o desde la realidad de la resurrección. 
- []
-
-
-
-[263]
-Overfull \hbox (19.00687pt too wide) in paragraph at lines 21544--21544
- []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección aparece conectada con transfor
-mación hacia la imagen del celestial.[] 
- []
-
-
-Overfull \hbox (7.66649pt too wide) in paragraph at lines 21572--21582
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo concluye este desarrollo mostrando dos reali
-dades contrastantes - lo terrenal,
- []
-
-
-Overfull \hbox (1.3635pt too wide) in paragraph at lines 21572--21582
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo continúa redefiniendo completamente la maner
-a en que los corintios debían
- []
-
-
-
-[264]
-Overfull \hbox (7.86708pt too wide) in paragraph at lines 21599--21599
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo introduce ahora una conclusión important
-e respecto al cuerpo y la resurrección. 
- []
-
-
-
-[265]
-
-[266]
-Overfull \hbox (8.7686pt too wide) in paragraph at lines 21763--21763
- []\TU/IBMPlexSerif(0)/m/n/10.95 La resurrección transforma completamente la re
-lación del creyente con la muerte.[] 
- []
-
-
-
-[267]
-Overfull \hbox (1.33356pt too wide) in paragraph at lines 21859--21859
- []\TU/IBMPlexSerif(0)/m/n/10.95 Todo este desarrollo culmina mostrando que la 
-resurrección no afecta solamente
- []
-
-
-
-[268]
-Overfull \hbox (14.35596pt too wide) in paragraph at lines 21878--21892
-\TU/IBMPlexSerif(0)/m/n/11 - Por causa de esta realidad futura los creyentes de
-ben permanecer firmes, constantes,
- []
-
-
-
-[269]
-Overfull \hbox (25.9236pt too wide) in paragraph at lines 21987--21987
- []\TU/IBMPlexSerif(0)/m/n/10.95 Los mismos corintios participarían en la desig
-nación de quienes llevarían la contribución. 
- []
-
-
-
-[270]
-Overfull \hbox (12.91864pt too wide) in paragraph at lines 22031--22031
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo termina la carta moviéndose desde grande
-s temas doctrinales y correcciones
- []
-
-
-Overfull \hbox (14.7549pt too wide) in paragraph at lines 22034--22044
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo enfatiza preparación, transparencia, partici
-pación comunitaria, y cooperación
- []
-
-
-Overfull \hbox (6.3158pt too wide) in paragraph at lines 22069--22069
- []\TU/IBMPlexSerif(0)/m/n/10.95 La sección muestra detalles prácticos y person
-ales relacionados con su ministerio
- []
-
-
-
-[271]
-Overfull \hbox (25.23157pt too wide) in paragraph at lines 22121--22121
- []\TU/IBMPlexSerif(0)/m/n/10.95 Aunque hace planes concretos, reconoce depende
-ncia del Señor respecto al resultado
- []
-
-
-
-[272]
-Overfull \hbox (2.34174pt too wide) in paragraph at lines 22208--22218
-\TU/IBMPlexSerif(0)/m/n/11 - La sección muestra a Pablo organizando, planifican
-do, cooperando con las iglesias,
- []
-
-
-
-[273]
-
-[274]
-Overfull \hbox (0.82982pt too wide) in paragraph at lines 22343--22343
- []\TU/IBMPlexSerif(0)/m/n/10.95 Pablo continúa corrigiendo indirectamente acti
-tudes corintias relacionadas con:[] 
- []
-
-
-Overfull \hbox (11.70229pt too wide) in paragraph at lines 22368--22379
-\TU/IBMPlexSerif(0)/m/n/11 - Pablo exhorta a los corintios a recibir correctame
-nte a los obreros del Señor. Timoteo
- []
-
-
-
-[275]
-Underfull \hbox (badness 1122) in paragraph at lines 22458--22460
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Los exhorto, hermanos (ya conocen a los de l
-a casa de Estéfanas, que fueron los primeros
- []
-
-
-
-[276]
-
-[277]
-Overfull \hbox (20.38654pt too wide) in paragraph at lines 22622--22622
- []\TU/IBMPlexSerif(0)/m/n/10.95 El cierre de esta sección continúa reuniendo m
-últiples llamados finales relacionados
- []
-
-
-
-[278]
-Overfull \hbox (9.59076pt too wide) in paragraph at lines 22639--22650
-\TU/IBMPlexSerif(0)/m/n/11 - Los corintios debían reconocer, sujetarse, y valor
-ar correctamente a quienes servían
- []
-
-
-Overfull \hbox (19.19302pt too wide) in paragraph at lines 22693--22693
- []\TU/IBMPlexSerif(0)/m/n/10.95 Las relaciones entre creyentes son continuamen
-te presentadas dentro de la realidad
- []
-
-
-
-[279]
-Overfull \hbox (1.55621pt too wide) in paragraph at lines 22717--22717
- []\TU/IBMPlexSerif(0)/m/n/10.95 El saludo aparece como expresión visible de co
-munión y afecto santo entre creyentes. 
- []
-
-
-
-[280]
-
-[281]
-Overfull \hbox (8.88531pt too wide) in paragraph at lines 22866--22878
-\TU/IBMPlexSerif(0)/m/n/11 - La advertencia: «Si alguien no ama al Señor, que s
-ea anatema» muestra nuevamente
- []
-
-
-Overfull \hbox (6.44182pt too wide) in paragraph at lines 22866--22878
-\TU/IBMPlexSerif(0)/m/n/11 - Toda la carta termina llamando implícitamente a lo
-s corintios a permanecer firmes,
- []
-
-
-
-[282] (temp/teacher_manual.aux)
+[95] (temp/teacher_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3936,15 +2417,15 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `teacher_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 722CE0AD62902E25BAD0136B36BAECC3;3502.
+(rerunfilecheck)             Checksum: 06C98A90FC0F904B6508E26B51E7CCCD;3498.
  ) 
 Here is how much of TeX's memory you used:
- 36770 strings out of 473832
- 773238 string characters out of 5729482
- 1323596 words of memory out of 5000000
- 59226 multiletter control sequences out of 15000+600000
- 563188 words of font info for 109 fonts, out of 8000000 for 9000
+ 36325 strings out of 473832
+ 764111 string characters out of 5729482
+ 1303450 words of memory out of 5000000
+ 58780 multiletter control sequences out of 15000+600000
+ 563196 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,676b,1419s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,586b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on temp/teacher_manual.pdf (282 pages).
+Output written on temp/teacher_manual.pdf (95 pages).

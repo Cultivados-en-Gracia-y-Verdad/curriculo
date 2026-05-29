@@ -85,6 +85,7 @@ y que la paciencia tenga su perfecto resultado, para que sean perfectos y comple
 ##### El texto no se conforma con decir “paciencia”. Indica qué debe pasar con esa paciencia: que llegue a un resultado.
 
 #### para que sean perfectos y completos  
+
 ##### El texto declara el propósito del proceso.
 
 ###### *para que* introduce finalidad.  
@@ -179,6 +180,7 @@ No piense, pues, ese hombre, que recibirá cosa alguna del Señor,
 ###### Detiene una suposición antes de declarar el resultado.
 
 #### que recibirá cosa alguna del Señor,  
+
 ##### El texto declara un resultado negado: no recibir.
 
 ###### En 1:5 se dijo *le será dada* (resultado afirmado).  
@@ -635,6 +637,7 @@ Por lo cual, desechando toda inmundicia y todo resto de malicia, reciban ustedes
 ###### Si la palabra se recibe, el siguiente paso será: qué tipo de respuesta corresponde a esa palabra.
 
 #### que es poderosa para salvar sus almas.  
+
 ##### El texto declara la capacidad/resultante de la palabra.
 
 ###### No solo nombra “palabra”. La describe: “poderosa para salvar”.  
@@ -781,6 +784,7 @@ Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permane
 ###### El texto cerrará con una declaración de resultado (“será bienaventurado…”).
 
 #### este será bienaventurado en lo que hace.  
+
 ##### El texto declara el resultado para el caso que permanece y hace.
 
 ###### “este será” conecta el resultado con el caso descrito (no con otro).  
@@ -1015,8 +1019,11 @@ Hermanos míos amados, escuchen: ¿No escogió Dios a los pobres de este mundo p
 Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y personalmente los arrastran a los tribunales?
 
 #### Pero ustedes han despreciado al pobre.  
+
 ##### El texto declara el choque entre lo que hicieron y lo que acaban de oír.
+
 ###### “Pero ustedes” pone responsabilidad directa.
+
 ###### “despreciado” nombra su acción hacia el pobre; conecta con la escena del 2:3.
 
 #### ¿No son los ricos los que los oprimen  
@@ -1102,8 +1109,11 @@ Porque cualquiera que guarda toda la ley, pero falla en un punto, se ha hecho cu
 ###### “en un punto” reduce el fallo a lo mínimo para mostrar el principio.
 
 #### se ha hecho culpable de todos.  
+
 ##### El texto declara el resultado total.
+
 ###### No dice “culpable de ese punto”. Dice “culpable de todos”.
+
 ###### Esta frase funciona como cierre fuerte del principio.
 
 ##### Esto empuja al v.11.
@@ -1157,13 +1167,18 @@ Así hablen ustedes y así procedan, como los que han de ser juzgados por la ley
 Porque el juicio será sin misericordia para el que no ha mostrado misericordia. La misericordia triunfa sobre el juicio.
 
 #### Porque el juicio será sin misericordia para el que no ha mostrado misericordia.  
+
 ##### El texto declara una regla de juicio en forma directa.
+
 ###### “Porque” conecta con 2:12: explica el juicio mencionado.
+
 ###### El texto hace una correspondencia clara: no mostrar misericordia → juicio sin misericordia.
 
 #### La misericordia triunfa sobre el juicio.  
 ##### El texto cierra el tramo con una frase final fuerte.
+
 ###### Es una declaración corta y completa.
+
 ###### Funciona como cierre del argumento 2:8–13 y como bisagra antes del siguiente bloque (2:14–26), donde el texto abrirá otra exposición por preguntas.
 
 ## Santiago 2:14–26 — La fe dicha, sin expresión visible, queda expuesta
@@ -1844,17 +1859,19 @@ De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe 
 
 #### en sabia mansedumbre.  
 ##### El texto añade el modo en que esas obras deben verse.
-###### No solo pide “obras”. Califica el modo: “mansedumbre”.
-###### La frase cierra el v.13 y deja listo el contraste: 3:14 empezará con “Pero si…”.
 
----
+###### No solo pide “obras”. Califica el modo: “mansedumbre”.
+
+###### La frase cierra el v.13 y deja listo el contraste: 3:14 empezará con “Pero si…”.
 
 ### Santiago 3:14  
 Pero si tienen celos amargos y ambición personal en su corazón, no sean arrogantes y mientan así contra la verdad.
 
 #### Pero si tienen  
 ##### El texto entra en un caso alternativo con “pero” y “si”.
+
 ###### “Pero” marca contraste con el v.13.
+
 ###### “si” abre un escenario posible dentro del grupo.
 
 ##### El texto va a tratar el interior antes de describir el resultado.
@@ -1862,34 +1879,41 @@ Pero si tienen celos amargos y ambición personal en su corazón, no sean arroga
 
 #### celos amargos  
 ##### El texto nombra un motor interno con una calificación.
+
 ###### “celos” se presenta como algo interno que dirige.
 ###### “amargos” lo califica y lo intensifica.
 
 #### y ambición personal  
 ##### El texto añade un segundo motor interno.
+
 ###### No deja el problema en un solo término.
 ###### Junta “celos” con “ambición personal” como pareja.
 
 #### en su corazón,  
 ##### El texto localiza el problema en el interior.
+
 ###### No lo describe como simple comportamiento externo.
+
 ###### Esto conecta con otras partes del libro donde lo interno produce lo externo (Santiago 1:14; Santiago 4:1–2).
 
 #### no sean arrogantes  
 ##### El texto da una prohibición directa.
+
 ###### Después de nombrar el interior, el texto ordena una forma de no actuar.
+
 ###### La prohibición funciona como corrección inmediata.
 
 #### y mientan así contra la verdad.  
 ##### El texto agrega una segunda prohibición ligada a la verdad.
+
 ###### “y” une las dos prohibiciones como parte de una misma corrección.
+
 ###### “así” conecta la mentira con el cuadro anterior (celos/ambición en el corazón).
+
 ###### “contra la verdad” pone el choque en términos claros: verdad vs mentira.
 
 ##### Esto empuja al v.15.
 ###### El v.15 tomará este cuadro y lo clasificará: “esta sabiduría…”.
-
----
 
 ### Santiago 3:15  
 Esta sabiduría no es la que viene de lo alto, sino que es terrenal, natural, diabólica.
