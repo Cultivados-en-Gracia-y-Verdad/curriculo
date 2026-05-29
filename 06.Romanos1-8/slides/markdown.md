@@ -11,49 +11,49 @@ date: "2026-04-09"
 
 ## Preámbulo
 
-La Carta a los Romanos es el escrito más extenso y uno de los más desarrollados, tanto en contenido <u>como</u> en argumentación, del apóstol Pablo. Probablemente fue compuesta en Corinto alrededor del año 56–57 d.C. y dirigida a la iglesia cristiana en Roma. Pablo tenía la expectativa de visitarlos en su camino hacia España.[^3]
+##### La Carta a los Romanos es el escrito más extenso y uno de los más desarrollados, tanto en contenido <u>como</u> en argumentación, del apóstol Pablo. Probablemente fue compuesta en Corinto alrededor del año 56–57 d.C. y dirigida a la iglesia cristiana en Roma. Pablo tenía la expectativa de visitarlos en su camino hacia España.[^3]
 
-Desde el inicio, Romanos se presenta <u>como</u> una carta cuidadosamente estructurada, cuyo propósito principal es exponer el evangelio de manera ordenada, profunda y progresiva.
+##### Desde el inicio, Romanos se presenta <u>como</u> una carta cuidadosamente estructurada, cuyo propósito principal es exponer el evangelio de manera ordenada, profunda y progresiva.
 
 ## Sobre el autor
 
-Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero durante las décadas del 40 y 50 del siglo 1 d.C. La mayoría de las reconstrucciones históricas sugieren que nació aproximadamente en la misma época que Jesús, o poco después. Su conversión a la fe en Jesucristo <u>ocurrió</u> alrededor del año 33 d.C., y su muerte tuvo lugar, probablemente en Roma, entre los años 62 y 64 d.C.[^4]
+##### Aunque se desconoce la fecha exacta de su nacimiento, Pablo estuvo activo como misionero durante las décadas del 40 y 50 del siglo 1 d.C. La mayoría de las reconstrucciones históricas sugieren que nació aproximadamente en la misma época que Jesús, o poco después. Su conversión a la fe en Jesucristo <u>ocurrió</u> alrededor del año 33 d.C., y su muerte tuvo lugar, probablemente en Roma, entre los años 62 y 64 d.C.[^4]
 
-Pablo era un judío de habla griega, originario de Asia Menor. Su ciudad natal, Tarso, era una ciudad importante en el oriente de Cilicia, región que pasó a formar parte de la provincia <u>romana</u> de Siria.  
+##### Pablo era un judío de habla griega, originario de Asia Menor. Su ciudad natal, Tarso, era una ciudad importante en el oriente de Cilicia, región que pasó a formar parte de la provincia <u>romana</u> de Siria.  
 
 ## ROMA
 
-Roma era la ciudad más célebre del mundo en tiempos de Cristo, tradicionalmente fundada en el año 753 a.C. Para la época en que se escribió el Nuevo Testamento, la ciudad estaba enriquecida y adornada con los despojos del mundo conquistado. Su población se estimaba en aproximadamente 1.200.000 habitantes, de los cuales cerca de la mitad eran esclavos. Era una <u>ciudad</u> altamente diversa, compuesta por personas provenientes de múltiples regiones del imperio, y se distinguía por su riqueza, lujo y derroche. El imperio del cual era capital se encontraba entonces en su mayor esplendor.
+##### Roma era la ciudad más célebre del mundo en tiempos de Cristo, tradicionalmente fundada en el año 753 a.C. Para la época en que se escribió el Nuevo Testamento, la ciudad estaba enriquecida y adornada con los despojos del mundo conquistado. Su población se estimaba en aproximadamente 1.200.000 habitantes, de los cuales cerca de la mitad eran esclavos. Era una <u>ciudad</u> altamente diversa, compuesta por personas provenientes de múltiples regiones del imperio, y se distinguía por su riqueza, lujo y derroche. El imperio del cual era capital se encontraba entonces en su mayor esplendor.
 
-El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin <u>duda</u> llevaron consigo noticias de aquel acontecimiento y desempeñaron un papel importante en el surgimiento de la iglesia en esa ciudad. Más adelante, Pablo fue llevado a Roma como prisionero, donde permaneció dos años viviendo «en una casa alquilada» (Hechos 28:30–31).
+##### El día de Pentecostés había en Jerusalén «extranjeros procedentes de Roma», quienes sin <u>duda</u> llevaron consigo noticias de aquel acontecimiento y desempeñaron un papel importante en el surgimiento de la iglesia en esa ciudad. Más adelante, Pablo fue llevado a Roma como prisionero, donde permaneció dos años viviendo «en una casa alquilada» (Hechos 28:30–31).
 
-Durante ese período, Pablo escribió varias de sus epístolas: a los Filipenses, a los Efesios, a los Colosenses y a Filemón. En esos años tuvo <u>como</u> compañeros a Lucas y Aristarco (Hechos 27:2), a Timoteo (Filipenses 1:1; Colosenses 1:1), a Tíquico (Efesios 6:21), a Epafrodito (Filipenses 4:18) y a Juan Marcos (Colosenses 4:10).
+##### Durante ese período, Pablo escribió varias de sus epístolas: a los Filipenses, a los Efesios, a los Colosenses y a Filemón. En esos años tuvo <u>como</u> compañeros a Lucas y Aristarco (Hechos 27:2), a Timoteo (Filipenses 1:1; Colosenses 1:1), a Tíquico (Efesios 6:21), a Epafrodito (Filipenses 4:18) y a Juan Marcos (Colosenses 4:10).
 
-Debajo de la ciudad de Roma se encuentran extensas galerías subterráneas conocidas como <u>catacumbas</u>. Estas comenzaron a utilizarse aproximadamente desde la época de los apóstoles —una de las inscripciones halladas lleva la fecha del año 71— y durante unos trescientos años sirvieron como lugares de entierro, refugio en tiempos de persecución y, en algunos casos, como espacios de reunión y culto.
+##### Debajo de la ciudad de Roma se encuentran extensas galerías subterráneas conocidas como <u>catacumbas</u>. Estas comenzaron a utilizarse aproximadamente desde la época de los apóstoles —una de las inscripciones halladas lleva la fecha del año 71— y durante unos trescientos años sirvieron como lugares de entierro, refugio en tiempos de persecución y, en algunos casos, como espacios de reunión y culto.
 
-Se han descubierto alrededor de cuatro mil inscripciones en estas catacumbas, las cuales ofrecen una perspectiva <u>valiosa</u> sobre la historia temprana de la iglesia en Roma hasta la época de Constantino.[^5]
+##### Se han descubierto alrededor de cuatro mil inscripciones en estas catacumbas, las cuales ofrecen una perspectiva <u>valiosa</u> sobre la historia temprana de la iglesia en Roma hasta la época de Constantino.[^5]
 
 ## Gramática de la carta
 
-En la carta a los Romanos, Pablo <u>presenta</u> el evangelio y el problema universal del pecado con un claro predominio de declaraciones, más que de exhortaciones directas.
+##### En la carta a los Romanos, Pablo <u>presenta</u> el evangelio y el problema universal del pecado con un claro predominio de declaraciones, más que de exhortaciones directas.
 
-Aunque existen algunas excepciones, en Romanos capítulos 1–11 Pablo utiliza mayormente verbos en modo <u>indicativo</u>, es decir, declara lo que es, más que indicar lo que debe hacerse. Esto describe una tendencia dominante en la carta, no una ausencia total de imperativos.
+##### Aunque existen algunas excepciones, en Romanos capítulos 1–11 Pablo utiliza mayormente verbos en modo <u>indicativo</u>, es decir, declara lo que es, más que indicar lo que debe hacerse. Esto describe una tendencia dominante en la carta, no una ausencia total de imperativos.
 
-**Indicativos (Romanos 1–11) -> Imperativos (Romanos 12–15)**
+##### **Indicativos (Romanos 1–11) -> Imperativos (Romanos 12–15)**
 
-Capítulos 1–11: predominan los indicativos, las estructuras condicionales, los contrastes razonados y los <u>marcadores</u> explicativos.
+###### Capítulos 1–11: predominan los indicativos, las estructuras condicionales, los contrastes razonados y los <u>marcadores</u> explicativos.
 
-Un <u>cambio</u> gramatical significativo ocurre en Romanos 12:1.
+###### Un <u>cambio</u> gramatical significativo ocurre en Romanos 12:1.
 
-Capítulos 12–15: predominan los imperativos y los llamados a la acción.
+###### Capítulos 12–15: predominan los imperativos y los llamados a la acción.
 
-**Interpretación gramatical**
+##### **Interpretación gramatical**
 
-Este cambio indica que la carta pasa de declarar realidades establecidas a apelar a una respuesta práctica basada en <u>esas</u> realidades.
+###### Este cambio indica que la carta pasa de declarar realidades establecidas a apelar a una respuesta práctica basada en <u>esas</u> realidades.
 
-**Uniendo toda la gramática**
+##### **Uniendo toda la gramática**
 
-Si tomamos en cuenta **todo el patrón gramatical que se repite a lo largo de la carta** —
+###### Si tomamos en cuenta **todo el patrón gramatical que se repite a lo largo de la carta** —
 
 - las <u>frases</u> que presentan situaciones como si fueran reales, 
 - el uso constante de conectores que enlazan ideas (“porque”, “pero”, “por lo tanto”), 
@@ -62,9 +62,9 @@ Si tomamos en cuenta **todo el patrón gramatical que se repite a lo largo de la
 
 — podemos ver que no se trata de detalles aislados.
 
-Al observar todo en <u>conjunto</u>, emerge un **tema estructural grande**, una línea de pensamiento que avanza de manera coherente a lo largo de la carta.
+##### Al observar todo en <u>conjunto</u>, emerge un **tema estructural grande**, una línea de pensamiento que avanza de manera coherente a lo largo de la carta.
 
-Romanos se presenta como un argumento progresivo, construido sobre premisas asumidas como verdaderas, desarrollado <u>mediante</u> contrastes claros, explicado con lógica conectiva y culminando en una respuesta práctica.
+##### Romanos se presenta como un argumento progresivo, construido sobre premisas asumidas como verdaderas, desarrollado <u>mediante</u> contrastes claros, explicado con lógica conectiva y culminando en una respuesta práctica.
 
 ## Conceptos importantes presentados en Romanos
 
@@ -5034,13 +5034,13 @@ vida - ZOE
 >- El creyente vive ahora bajo un nuevo señorío.
 
 ## Romanos 6:11–14 Considerarse muertos al pecado y vivos para Dios
-(La gracia redefine el marco en el que se vive la obediencia)
+##### (La gracia redefine el marco en el que se vive la obediencia)
 
-El problema <u>práctico</u> que Pablo aborda. Hasta aquí, Pablo ha establecido hechos objetivos: El creyente murió con Cristo (Romanos 6:2–4).  El viejo hombre fue crucificado (Romanos 6:6).  El pecado fue despojado de su poder como amo (Romanos 6:6–7).  El creyente resucitó con Cristo para una nueva vida (Romanos 6:4–5, 6:8). 
+##### El problema <u>práctico</u> que Pablo aborda. Hasta aquí, Pablo ha establecido hechos objetivos: El creyente murió con Cristo (Romanos 6:2–4).  El viejo hombre fue crucificado (Romanos 6:6).  El pecado fue despojado de su poder como amo (Romanos 6:6–7).  El creyente resucitó con Cristo para una nueva vida (Romanos 6:4–5, 6:8). 
 
-Sin embargo, surge una pregunta inevitable: Si todo esto es verdad, ¿por qué el creyente todavía peca? Pablo no responde diciendo que la obra de Cristo fue incompleta. Tampoco dice que el creyente perdió su nueva identidad.
+##### Sin embargo, surge una pregunta inevitable: Si todo esto es verdad, ¿por qué el creyente todavía peca? Pablo no responde diciendo que la obra de Cristo fue incompleta. Tampoco dice que el creyente perdió su nueva identidad.
 
-La respuesta de Pablo es otra:   el <u>problema</u> no es falta de poder, sino **falta de contar correctamente con la realidad**. En la práctica, el creyente puede vivir como si aún perteneciera al antiguo dominio, aunque ya no sea así.
+##### La respuesta de Pablo es otra:   el <u>problema</u> no es falta de poder, sino **falta de contar correctamente con la realidad**. En la práctica, el creyente puede vivir como si aún perteneciera al antiguo dominio, aunque ya no sea así.
 
 ### Romanos 6:11
 Así también ustedes, considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
