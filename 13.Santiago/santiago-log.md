@@ -574,7 +574,7 @@ relacionado con:
 ###### Observación
 - contraste textual entre:
   - completitud
-y:
+  y:
   - carencia.
 
 ---
@@ -745,7 +745,7 @@ y:
 
 - nuevo contraste comienza a emerger:
   - condición humilde
-vs
+  vs
   - alta posición.
 
 ---
@@ -892,7 +892,7 @@ desarrollado ahora mediante:
 ###### Razón
 - continuidad explícita de contraste:
   - humilde
-vs
+  vs
   - rico.
 
 - continuidad de imágenes:
@@ -1070,7 +1070,7 @@ desarrollado ahora mediante:
 ###### Razón
 - continuidad explícita de contraste:
   - humilde
-vs
+  vs
   - rico.
 
 - continuidad de imágenes:
@@ -1195,7 +1195,7 @@ contrastado ahora con:
 ###### Observación
 - contraste emergente:
   - inestabilidad humana
-vs
+  vs
   - estabilidad divina.
 
 ---
@@ -1229,7 +1229,7 @@ vs
 ###### Observación
 - el discurso continúa desplazando atención:
   - desde inestabilidad humana
-hacia:
+  hacia:
   - estabilidad y acción divina.
 
 ---
@@ -1450,7 +1450,7 @@ No se concluyó todavía:
 ###### Función observada
 - contraste entre:
   - hacer
-y:
+  y:
   - solamente oír.
 
 ---
@@ -1548,7 +1548,7 @@ y negativamente:
 ###### Observación
 - el discurso continúa desplazándose:
   - desde recepción
-hacia:
+  hacia:
   - respuesta práctica.
 
 ---
@@ -1632,7 +1632,7 @@ No se concluyó todavía:
 ###### Función observada de ἀλλά
 - establece contraste:
   - oidor olvidadizo
-vs
+  vs
   - hacedor eficaz.
 
 ---
@@ -1693,7 +1693,7 @@ contrastado con:
 ###### Observación
 - continuidad explícita:
   - permanencia
-vs
+  vs
   - olvido.
 
 ---
@@ -1761,7 +1761,7 @@ vs
 ###### Observación
 - el discurso continúa desplazándose:
   - desde recepción/oír
-hacia:
+  hacia:
   - acción concreta y continua.
 
 ---
@@ -1895,7 +1895,7 @@ continúa línea previa observada en:
 ###### Observación
 - recurrencia explícita de contraste social:
   - rico
-vs
+  vs
   - pobre/humilde.
 
 ---
@@ -2033,7 +2033,7 @@ No se concluyó todavía:
 ###### Función observada
 - introduce contraste fuerte:
   - elección divina
-vs
+  vs
   - acción de los destinatarios.
 
 ---
@@ -2104,7 +2104,7 @@ vs
 ###### Observación
 - Santiago continúa desarrollando:
   - inversión entre valoración humana
-y:
+  y:
   - valoración divina.
 
 ---
@@ -2215,7 +2215,7 @@ No se concluyó todavía:
 ###### Función observada
 - introduce contraste fuerte:
   - ley cumplida
-vs
+  vs
   - favoritismo.
 
 ---
@@ -2343,7 +2343,7 @@ vs
 La ley:
 - ya no aparece solamente:
   - como referencia moral,
-sino:
+  sino:
 - como estructura evaluativa integral.
 
 ###### Observación
@@ -2574,7 +2574,7 @@ No se concluyó todavía:
   - misericordia,
   - ley,
   - y juicio
-dentro de toda la carta.
+  dentro de toda la carta.
 
 ###### Razón
 - el desarrollo todavía continúa acumulándose.
@@ -2613,7 +2613,7 @@ dentro de toda la carta.
 ###### Función observada de δέ
 - introduce contraste:
   - fe afirmada
-vs
+  vs
   - ausencia de obras.
 
 ---
@@ -2644,7 +2644,7 @@ vs
 ###### Función observada de δέ
 - introduce contraste:
   - palabras
-vs
+  vs
   - acción concreta.
 
 ---
@@ -2668,7 +2668,7 @@ introducido explícitamente en:
 ###### Observación
 - recurrencia de:
   - habla/declaración verbal
-contrastada con:
+  contrastada con:
   - práctica concreta.
 
 ---
@@ -3133,7 +3133,7 @@ vs
 ###### Observación
 - el discurso continúa:
   - utilizando acción concreta observable
-como evidencia evaluativa.
+  como evidencia evaluativa.
 
 ---
 
@@ -3175,7 +3175,7 @@ como evidencia evaluativa.
 La fe:
 - ya no está siendo presentada:
   - como mera afirmación,
-sino:
+  sino:
 - como realidad observable mediante acción.
 
 ###### Observación
@@ -3194,7 +3194,7 @@ No se concluyó todavía:
   - justificación,
   - perfección,
   - y obras
-dentro de Santiago.
+  dentro de Santiago.
 
 ###### Razón
 - el desarrollo argumentativo todavía continúa.
@@ -3241,7 +3241,7 @@ dentro de Santiago.
 ###### Función observada
 - contraste explícito:
   - obras
-vs
+  vs
   - fe sola.
 
 ---
@@ -3371,9 +3371,9 @@ vs
 ###### Observación
 - la separación entre:
   - fe
-y:
+  y:
   - obras
-continúa siendo rechazada explícitamente.
+  continúa siendo rechazada explícitamente.
 
 ---
 
@@ -3829,7 +3829,7 @@ desarrollada ahora extensamente en:
 ###### Observación
 - el discurso continúa:
   - relacionando control pequeño
-con:
+  con:
   - consecuencias amplias.
 
 ---
@@ -3889,7 +3889,7 @@ La lengua:
 ###### Observación
 - el discurso se desplaza:
   - desde control verbal general
-hacia:
+  hacia:
   - ilustraciones acumulativas de poder/influencia.
 
 ---
@@ -3958,7 +3958,7 @@ No se concluyó todavía:
 ###### Función observada
 - introduce contraste fuerte:
   - animales domados
-vs
+  vs
   - lengua indomable.
 
 ---
@@ -4112,7 +4112,7 @@ vs
 La lengua:
 - ya no es presentada solamente:
   - como difícil de controlar,
-sino:
+  sino:
 - como fuente expansiva de contaminación y destrucción.
 
 ###### Observación
@@ -4156,7 +4156,7 @@ No se concluyó todavía:
 ###### Observación estructural
 - fuerte paralelismo contrastivo:
   - bendecir
-vs
+  vs
   - maldecir.
 
 ---
@@ -4201,7 +4201,7 @@ introducido explícitamente en:
 ###### Observación
 - desarrollo continúa desplazándose:
   - desde lengua
-hacia:
+  hacia:
   - fuente/origen del hablar.
 
 ---
@@ -4307,7 +4307,7 @@ vs
 
 - continuidad ilustrativa acumulativa:
   - fuente dulce/amarga
-como desarrollo del hablar inconsistente.
+  como desarrollo del hablar inconsistente.
 
 ---
 
@@ -4318,7 +4318,7 @@ como desarrollo del hablar inconsistente.
 El discurso:
 - comienza a centrarse:
   - no solamente en actos verbales,
-sino:
+  sino:
 - en coherencia de origen y resultado.
 
 ###### Observación
@@ -4334,7 +4334,7 @@ No se concluyó todavía:
   - fuente,
   - pureza,
   - e inconsistencia
-dentro de la estructura global de Santiago.
+  dentro de la estructura global de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -4394,7 +4394,7 @@ dentro de la estructura global de Santiago.
 ###### Función observada de δέ
 - introduce contraste:
   - sabia mansedumbre
-vs
+  vs
   - celos/ambición.
 
 ###### Función observada de εἰ
@@ -4433,7 +4433,7 @@ reaparece desde:
 ###### Observación
 - continuidad léxica:
   - amargura
-relacionada ahora:
+  relacionada ahora:
   - con celos internos.
 
 ---
@@ -4491,7 +4491,7 @@ vs
 - el discurso continúa:
   - moviéndose desde:
     - resultados externos
-hacia:
+    hacia:
     - fuente interior/origen.
 
 ---
@@ -4538,7 +4538,7 @@ hacia:
 
 - continuidad contrastiva:
   - producción coherente
-vs
+  vs
   - corrupción interna.
 
 ---
@@ -4550,7 +4550,7 @@ vs
 El discurso:
 - comienza a conectar claramente:
   - origen interior
-con:
+  con:
   - conducta,
   - habla,
   - y obras visibles.
@@ -4571,7 +4571,7 @@ No se concluyó todavía:
   - sabiduría,
   - corazón,
   - y verdad
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa expandiéndose.
@@ -4629,7 +4629,7 @@ dentro del desarrollo completo de Santiago.
 ###### Función observada
 - introduce contraste principal:
   - sabiduría terrenal
-vs
+  vs
   - sabiduría de lo alto.
 
 ---
@@ -4658,7 +4658,7 @@ continúa desde:
 ###### Observación
 - continuidad léxica entre:
   - fuente amarga
-y:
+  y:
   - disposición interior amarga.
 
 ---
@@ -4724,7 +4724,7 @@ vs
 ###### Observación
 - el discurso continúa:
   - conectando origen interno/divino
-con:
+  con:
   - resultados producidos.
 
 ---
@@ -4741,7 +4741,7 @@ vs
 ###### Observación
 - fuerte contraste acumulativo entre:
   - división/inestabilidad
-y:
+  y:
   - integridad/coherencia.
 
 ---
@@ -4784,7 +4784,7 @@ vs
 La estructura del discurso:
 - comienza a organizarse claramente mediante:
   - dos fuentes/orígenes opuestos,
-y:
+  y:
   - resultados correspondientes.
 
 ###### Observación
@@ -4965,7 +4965,7 @@ y:
 ###### Observación
 - el discurso continúa:
   - conectando origen interno
-con:
+  con:
   - resultados externos observables.
 
 ---
@@ -5031,7 +5031,7 @@ con:
 El discurso:
 - continúa moviéndose:
   - desde origen interior
-hacia:
+  hacia:
   - resultados visibles producidos.
 
 ###### Observación
@@ -5152,7 +5152,7 @@ continúa desde:
 ###### Observación
 - continuidad explícita:
   - deseos internos
-como fuente de conflicto.
+  como fuente de conflicto.
 
 ---
 
@@ -5180,7 +5180,7 @@ reaparece desde:
 ###### Observación
 - continuidad léxica:
   - celos humanos corruptos
-vs
+  vs
   - celo divino.
 
 ---
@@ -5304,7 +5304,7 @@ No se concluyó todavía:
   - amistad,
   - Espíritu,
   - y lealtad
-dentro de Santiago.
+  dentro de Santiago.
 
 ###### Razón
 - el desarrollo todavía continúa expandiéndose.
@@ -5339,7 +5339,7 @@ dentro de Santiago.
 ###### Función observada de δέ
 - introduce contraste:
   - conflicto humano
-vs
+  vs
   - gracia divina.
 
 ###### Función observada de διό
@@ -5397,7 +5397,7 @@ reaparece desde:
 ###### Observación
 - continuidad explícita:
   - humildad
-vs
+  vs
   - exaltación/soberbia.
 
 ---
@@ -5558,7 +5558,7 @@ No se concluyó todavía:
   - humildad,
   - purificación,
   - y cercanía a Dios
-dentro de Santiago.
+  dentro de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -5625,7 +5625,7 @@ dentro de Santiago.
 ###### Función observada de ἀλλά
 - intensifica oposición:
   - cumplidor
-vs
+  vs
   - juez.
 
 ---
@@ -5680,7 +5680,7 @@ continúa desde:
 ###### Observación
 - continuidad explícita:
   - hacer/cumplir
-vs
+  vs
   - solamente juzgar.
 
 ---
@@ -5768,7 +5768,7 @@ vs
 - Santiago continúa:
   - contrastando:
     - obediencia práctica
-vs
+    vs
     - posición de juicio.
 
 ---
@@ -5806,7 +5806,7 @@ vs
 El discurso:
 - continúa relacionando:
   - humildad correcta
-vs
+  vs
   - asumir posición indebida de juicio.
 
 ###### Observación
@@ -5825,7 +5825,7 @@ No se concluyó todavía:
   - juicio,
   - ley,
   - y habla
-dentro de Santiago.
+  dentro de Santiago.
 
 ###### Razón
 - el desarrollo todavía continúa expandiéndose.
@@ -5861,7 +5861,7 @@ dentro de Santiago.
 ###### Función observada
 - introduce contraste:
   - autoridad divina
-vs
+  vs
   - juicio humano.
 
 ---
@@ -6057,7 +6057,7 @@ vs
 El discurso:
 - continúa confrontando:
   - autosuficiencia humana
-frente a:
+  frente a:
   - autoridad y realidad divina.
 
 ###### Observación
@@ -6121,7 +6121,7 @@ No se concluyó todavía:
 ###### Función observada
 - introduce contraste:
   - dependencia correcta
-vs
+  vs
   - jactancia arrogante.
 
 ---
@@ -6303,7 +6303,7 @@ El discurso:
 - continúa moviéndose:
   - desde:
     - autosuficiencia y arrogancia
-hacia:
+    hacia:
     - dependencia correcta y práctica obediente.
 
 ###### Observación
@@ -6323,7 +6323,7 @@ No se concluyó todavía:
   - arrogancia,
   - omisión,
   - y pecado
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la carta todavía continúa desarrollándose.
@@ -6562,7 +6562,7 @@ No se concluyó todavía:
   - juicio,
   - acumulación,
   - y destrucción
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa expandiéndose.
@@ -6748,7 +6748,7 @@ vs
 ###### Observación
 - el discurso continúa:
   - conectando indulgencia exterior
-con:
+  con:
   - condición interior.
 
 ---
@@ -6776,7 +6776,7 @@ con:
 La riqueza:
 - ya no aparece solamente:
   - como transitoria,
-sino:
+  sino:
 - como asociada con opresión activa e injusticia.
 
 ###### Observación
@@ -6793,7 +6793,7 @@ No se concluyó todavía:
   - opresión,
   - justicia,
   - y juicio final
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -7016,7 +7016,7 @@ reaparece desde:
 El discurso:
 - continúa moviéndose:
   - desde juicio contra opresores
-hacia:
+  hacia:
   - exhortación perseverante para los hermanos.
 
 ###### Observación
@@ -7036,7 +7036,7 @@ No se concluyó todavía:
   - venida del Señor,
   - juicio,
   - y perseverancia
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -7284,7 +7284,7 @@ El discurso:
   - paciencia,
   - perseverancia,
   - y sufrimiento
-con:
+  con:
   - expectativa del Señor y juicio cercano.
 
 ###### Observación
@@ -7302,7 +7302,7 @@ No se concluyó todavía:
   - sufrimiento,
   - hablar íntegro,
   - y juicio
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la carta todavía continúa desarrollándose.
@@ -7547,7 +7547,7 @@ No se concluyó todavía:
   - enfermedad,
   - restauración,
   - y perdón
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -7792,7 +7792,7 @@ No se concluyó todavía:
   - enfermedad,
   - restauración,
   - y perdón
-dentro del desarrollo completo de Santiago.
+  dentro del desarrollo completo de Santiago.
 
 ###### Razón
 - la sección todavía continúa desarrollándose.
@@ -8017,7 +8017,7 @@ El discurso final:
 ###### Observación
 - la carta concluye:
   - no solamente denunciando error,
-sino:
+  sino:
 - enfatizando retorno, salvación y restauración comunitaria.
 
 ---
@@ -9467,3 +9467,717 @@ Santiago 4:11–17 La arrogancia humana se revela al juzgar y presumir
 Santiago 5:1–6 La riqueza injusta acumula testimonio para juicio
 Santiago 5:7–12 La paciencia persevera hasta la venida del Señor
 Santiago 5:13–20 La comunidad restaura al enfermo, al pecador y al extraviado
+
+
+
+Here’s a whole-book “subject + movement” view based on the *actual verse text* in your merged file (NBLA-controlled), using (a) the macro trunk you already established and (b) the main movement signals that appear explicitly in the text (questions, “pero/porque/pues/por tanto”, calls like “oigan”, etc.).
+
+### 1) Macro “subjects” (what each major unit is *doing*)
+
+Using your agreed trunk:
+
+1:1 — Opening identification + addressees.
+
+1:2–18 — Trials → endurance/result; asking/wisdom; warning about inner desire/temptation; then correction “no se engañen” + gifts “de lo alto” + new birth by word.
+
+1:19–27 — Practical direction: hear/speak/anger → receive implanted word → be doers (mirror illustration) → “religión” tested/defined.
+
+2:1–13 — Favoritism exposed by scenario (rich/poor) → evaluation by law/Scripture → ends in misericordia vs juicio.
+
+2:14–26 — Fe/works pressure opened by questions → case illustration → argument escalates by examples (Abraham, Rahab) → closes with analogy (body/spirit).
+
+3:1–12 — Teachers warning → tongue control escalates via images (bit/rudder/fire) → inconsistency (bless/curse) → closes with “impossibility” analogies (spring/tree).
+
+3:13–18 — Wisdom contrast: “de lo alto” vs other source; ends with peace/fruit.
+
+4:1–10 — Origin questions: conflicts ↔ passions; world-friendship vs God; then a chain of imperatives (submit/resist/draw near/cleanse/humble).
+
+4:11–12 — Brief focused interruption: speaking/judging → only one Lawgiver/Judge.
+
+4:13–17 — “Oigan ahora” planning/boasting → vapor/transience → correction “si el Señor quiere” → closes as principle about knowing good and not doing.
+
+5:1–6 — “Oigan ahora, ricos”: judgment oracle with escalation (corruption → witness → cries → killing the righteous).
+
+5:7–11 — Pastoral re-entry to “hermanos”: patience until coming; farmer + prophets + Job; stresses “resultado”.
+
+5:12 — Single-point restriction: oaths → yes/no → judgment.
+
+5:13–18 — Prayer-centered final instructions: suffering/cheer/illness/confession → Elijah example → rain/fruit.
+
+5:19–20 — Closing: wander/return → save from death → cover sins.
+
+### 2) Movement signals (how the book moves)
+
+From your merged text, the most visible movement drivers are:
+
+#### A) “Pero” (contrast / pivot)
+
+Occurs ~20 verses across the book. It’s one of the main engines for turning the argument or setting a contrast.
+
+#### B) “Porque / pues” (grounding / reasons)
+
+“Porque” shows up ~15 verses: it frequently introduces justification or a basis for a claim/command.
+
+“pues” shows up ~8 verses: similar grounding/continuation effect.
+
+#### C) “Por tanto” (explicit consequence / step forward)
+
+Shows up ~4 verses (examples include 4:7, 5:7, 5:16). This is a clear “movement forward” marker (derived action).
+
+#### D) Questions (¿…?) (pressure openings / argument launching)
+
+There are ~11 verses that begin with “¿…”, often signaling a new pressure or a staged argument (e.g., 2:14; 4:1; multiple in 2:21ff; 3:11–13).
+
+#### E) Calls to attention (“Oigan ahora”, “Miren”, “Vamos/Oigan ahora…”)
+
+These are “stage directions” that explicitly move the discourse to a new segment:
+
+“Oigan ahora” appears at least at 4:13 and 5:1.
+
+“Miren” appears several times (e.g., 3:4; 5:4; 5:7; 5:11), often introducing an illustration or evidence.
+
+### 3) One-line “movement map” of the whole book
+
+If we compress it into a single flow line (without interpretation):
+
+Opening → pressure (trials/asking) → inner-source correction (temptation/desire) → practical hearing/doing test → favoritism scenario → law/mercy verdict → faith/works proof sequence → tongue escalation + impossibility close → wisdom-source contrast → conflicts from passions + reorientation imperatives → anti-judging interruption → anti-presumption correction → rich judgment oracle → patience re-entry → oath restriction → prayer escalation (cases → Elijah) → final return/saving close.
+
+If you want, tell me whether you want this rendered as:
+
+a table (Unit / Subject / Movement markers / Notes), or
+
+a diagram-like outline (more visual, but still plain markdown).
+
+# ok. does this help in any way what we already have?
+
+11:07 PM
+
+
+
+Yes — it helps what you already have, but only if we use it as a control layer, not as new content to “re-theme” the manual.
+
+Here’s how it concretely helps:
+
+### 1) It gives you a fast “sanity check” on continuity
+
+You already have verse-by-verse observations. The movement scan (questions / pero / porque / pues / por tanto / “oigan” / “miren”) lets you quickly confirm whether your observations are respecting the actual forward motion of the text, especially at suspected boundaries:
+
+4:13 and 5:1 (“Oigan ahora…”) are clear new-stage openings.
+
+5:7 (“Por tanto, hermanos…”) is a clear re-entry pivot from judgment-oracle to pastoral exhortation.
+
+So it helps you *verify* the trunk and big cuts you already have (H1 units), and avoid accidental micro-cuts that fight the text.
+
+### 2) It tells you where to expect “pressure arcs”
+
+Where you have question clusters (e.g., 2:14ff; 3:11–13; 4:1), you should expect:
+
+a tension opening that won’t resolve immediately,
+
+followed by supporting steps,
+
+then a closure marker (often a strong statement, analogy, or “por tanto”).
+
+That directly supports the “developmental continuity wins by default” rule you wrote in the intro.
+
+### 3) It gives you an objective “movement index” you can attach to your existing work
+
+You can add (later) a small standardized line per verse (or per unit) like:
+
+Movement: Pero (contrast) / Porque (base) / Por tanto (result) / Pregunta (pressure opening)
+
+That doesn’t add interpretation; it strengthens the *mechanical exposure layer* you wanted.
+
+### 4) It highlights where your current observation text may be underpowered
+
+Example: if a verse begins with Por tanto or Porque and the observation doesn’t explicitly note consequence/basis, that’s a clear target for revision—without changing the structure.
+
+### Important limit
+
+This movement/subject view does not replace:
+
+the finite-verb chain,
+
+connector tracking in Greek,
+
+movement (mode/person-number) from MorphGNT.
+
+It’s a triage map: it helps you decide *where to spend time first* when revising what you already have.
+
+If you want one very practical next step: we can add a short “Movement tag” line to each H1 unit header (not every verse) so the compiled manual becomes easier to navigate without changing any verse content.
+
+
+
+so, when we go to include this information, when would it be best to include?
+
+11:12 PM
+
+
+
+
+
+Best time to include the subject + movement layer is after the NBLA text is locked (which it now is), and before you do heavy rewriting of the observations—so it can act as a guardrail and save rework.
+
+Practically, that usually means two insertion points, one “macro” and one “micro”:
+
+### 1) Macro (recommended first): right after the trunk / before verse-by-verse
+
+Add a short section near the top (after your “Tronco (macro)” and method rules), like:
+
+“Mapa de movimiento (solo señales visibles)”
+
+a table or bullet list per H1 unit: *unit range → movement markers present → what kind of segment it is doing (scenario, exhortation chain, oracle, etc.)*
+
+Why here: it frames how to read the whole manual and helps you keep big-unit continuity while rewriting.
+
+### 2) Micro (optional, later): inside each major unit header (H1), not every verse
+
+When you begin rewriting each unit, add a 1–2 line “movement tag” at the start of the unit, e.g.:
+
+Movement signals (dominant): preguntas → porque/pues → por tanto
+
+Devices: scenario → evaluation → principle
+
+Why here: it supports navigation and keeps the unit coherent without cluttering every verse.
+
+### What I would *not* do (at least not yet)
+
+Don’t add movement tags under every verse right now. It becomes noisy, and you’ll end up rewriting them anyway as the observations mature.
+
+### Timing summary
+
+1) Now: add macro movement map (one page/section)  
+2) During rewriting: add unit-level movement tags as you touch each H1 section  
+3) Late-stage polish: only then consider verse-level tags if you still want them
+
+If you tell me whether you prefer the macro map as a table or a bullet outline, I can draft the exact section text to paste into the manual.
+
+
+
+this may be true, but i think it will lead to even more choppiness, which is how i’m seeing it right now.  There needs to be a clearer understanding of what the book is really about, how it flows from beginning to end. This moves beyond what the text “explicitly” says.  We need better objective tools to help us with this observation.  Suggested possible Working Direction (for a lack of more tools) The next layer of observation should likely focus on identifying observable developmental markers such as: • recurring unresolved contrasts, • repeated testing mechanisms, • recurring exposure formulas, • carried-forward assertions, • unresolved burdens, • delayed closure, • ongoing exhortational pressure, • recurring relational tension, • continuing argumentative force. These must remain: • observable from the text, • not speculative, • not theological abstractions.
+
+11:34 PM
+
+
+
+2 steps
+
+
+
+
+
+You’re pointing in the right direction.
+
+What you’re asking for is a developmental continuity layer that is:
+
+more global than connector-counting, so it can explain “what the book is doing end-to-end,”
+
+but still objective (observable, repeatable), not theological free-association,
+
+and less choppy than over-segmentation.
+
+That’s exactly where we should go next.
+
+### Why this won’t necessarily create more choppiness
+
+Choppiness happens when we *use markers to cut*.  
+
+What you’re proposing is using markers primarily to trace pressures across long spans (carry-forward), and only secondarily to justify a cut. That’s the key shift.
+
+So the deliverable isn’t “more headings.” It’s a pressure-trace map across the entire book.
+
+### Objective tools we can use (now) for your developmental markers
+
+Below is a concrete “toolkit” that matches your list and stays observable.
+
+#### 1) Recurring unresolved contrasts (track as pairs)
+
+Create a running ledger of contrast pairs and where they reappear or resolve.
+
+Examples we can track without theology:
+
+hear vs do (opens 1:19–22; pressed via mirror 1:23–25; evaluated via “religión” 1:26–27)
+
+faith vs works (opens as questions 2:14; case 2:15–16; escalates to examples 2:21–25; resolves 2:26)
+
+bless vs curse (3:9–10; resolved via “impossibility” analogies 3:11–12)
+
+wisdom “de lo alto” vs not (3:15 vs 3:17; closes 3:18)
+
+#### 2) Repeated testing mechanisms (track as “if/case → evaluation”)
+
+Look for repeated structures:
+
+“Si…” scenarios (2:2; 2:15; 4:15)
+
+question challenges that force evaluation (2:14; 4:1; 3:11–12; 5:13–14)
+
+imperative + stated consequence (4:7–10; 5:8–9; 5:16)
+
+#### 3) Recurring exposure formulas (direct “exposure” language)
+
+These are the most “objective” because the text literally does the exposing:
+
+“Miren …” (evidence/illustration)
+
+“Oigan ahora …” (new segment exposure)
+
+“¿No saben…?” / “¿No…?” (forced recognition)
+
+“Por tanto / Por lo cual” (forced consequence)
+
+#### 4) Carried-forward assertions (carry + re-entry)
+
+Instead of repeating themes, we trace *exact re-entries* (same wording or same question repeated).
+
+A clean example from the text:
+
+“¿De qué sirve?” appears at 2:14 and re-enters at 2:16 (same evaluative pressure, now grounded in a case).  
+
+From my scan of your merged file, that repetition is observable (2 hits: 2:14, 2:16).
+
+#### 5) Unresolved burdens + delayed closure (pressure that opens, persists, then closes)
+
+You already identified the best candidate: 2:14–26.
+
+We can formalize it as:
+
+Opening tension (2:14)
+
+Pressure intensification (2:15–20)
+
+Evidence sequence (2:21–25)
+
+Closure/analogy (2:26)
+
+#### 6) Ongoing exhortational pressure (imperative chains)
+
+This is objectively trackable by counting/sequencing imperatives and their consequences.
+
+Best example: 4:7–10 (submit/resist/draw near/cleanse/purify/afflict/humble + “Él los exaltará”).
+
+#### 7) Recurring relational tension (address shifts + social dyads)
+
+Track:
+
+“hermanos” address re-entries
+
+rich/poor dyad (2:1–7 and then “ricos” oracle 5:1–6)
+
+intra-community speech/judgment (4:11–12; also 3:9–10)
+
+#### 8) Continuing argumentative force (reason chains)
+
+Track “because-therefore” ladders:
+
+Porque/Pues → Por tanto sequences
+
+question → answer → inference
+
+### A better macro output (less vague, less choppy): “pressure traces”
+
+Instead of a single vague flow paragraph, we produce 5–8 book-length traces, each as a thin line across references.
+
+Example format (illustrative):
+
+Trace A — Evaluation by “result/benefit”: 1:2–4 → 1:12 → 2:14–26 → 3:18 → 5:18–20  
+
+Trace B — Speech control pressure: 1:19–20 → 1:26 → 3:1–12 → 4:11–12 → 5:12  
+
+Trace C — Judgment horizon: 2:12–13 → 3:1 → 4:12 → 5:9 → 5:12  
+
+These traces *increase* sense of whole-book continuity and reduce choppiness, because they unify across blocks.
+
+### One concrete next step (so we don’t stay abstract)
+
+Pick one trace to build first (the most important for “what the book is really about” in your sense). Options that are strongly observable:
+
+1) Pressure of “hearing/doing/speech” (1:19–27 → 3:1–12 → 4:11–12 → 5:12)  
+2) Pressure of “evaluation/judgment/result” (1:2–4 → 1:12 → 2:12–13 → 5:9–12 → 5:19–20)  
+3) Pressure of “desire/passion/conflict” (1:13–15 → 4:1–4)  
+
+Tell me which one you want first, and I’ll draft that trace as a tight, reference-anchored, non-theological continuity map you can paste into the macro section.
+
+
+
+
+
+
+
+
+
+
+
+there’s other pressures as well. I would like to try to follow them all through.  Let’s start with 1, then 2, then 3 and whatever else follows.
+
+11:44 PM
+
+
+
+3 steps
+
+
+
+
+
+Good — we can follow multiple pressures end-to-end without increasing choppiness, as long as we treat each pressure as a continuous trace line (a through-line), not as a reason to add more cuts.
+
+Below I’m starting with (1) hearing/doing/speech, then (2) evaluation/judgment/result, then (3) desire/passion/conflict. Each is written as a *trace* across Santiago with reference anchors and what is observably happening (not theology).
+
+### Pressure 1 — Hearing / Doing / Speech (the “response integrity” pressure)
+
+#### A) Entry: triad that sets the pressure (hear → speak → anger)
+
+1:19–20 — “pronto para oír, tardo para hablar, tardo para la ira… pues…” (the triad is stated; grounding follows)
+
+#### B) Core demand: hearing must become doing (not self-deception)
+
+1:21 — “reciban… la palabra… poderosa para salvar…”
+
+1:22 — “Sean hacedores… no solamente oidores… se engañan…” (explicit hear/do contrast + deception)
+
+1:23–25 — mirror illustration: hearing without doing → forgetting; doing → “bienaventurado”
+
+1:26–27 — speech control becomes an observable test of “religión”:
+
+1:26 — “no refrena su lengua… engaña… religión… vana”
+
+1:27 — “religión pura…” (definition moves into observable practice)
+
+#### C) Escalation: speech becomes a major pressure line
+
+3:1–2 — warning + “recibiremos un juicio más severo”; failure “en lo que dice” = control of whole body
+
+3:3–6 — small-control images → tongue/fire escalation
+
+3:7–8 — “ningún hombre puede domar la lengua…”
+
+3:9–10 — one mouth produces blessing/curse; “esto no debe ser así”
+
+3:11–12 — impossibility analogies close the inconsistency point
+
+#### D) Re-entry as community speech/judgment
+
+4:11–12 — “no hablen mal… / juzga… / Legislador y Juez… ¿quién eres…?”
+
+#### E) Final tightening: speech integrity and judgment proximity
+
+5:9 — “no se quejen… para que no sean juzgados… el Juez…”
+
+5:12 — “no juren… sí sea sí… no, no… para que no caigan bajo juicio.”
+
+What this trace gives you: a single continuity line where “response to the word” is *proved* in the text by speech control and corresponding action, with multiple re-entries and an end-of-letter tightening.
+
+### Pressure 2 — Evaluation / Judgment / Result (the “outcome + accountability” pressure)
+
+This one is broad, so we track it by its explicit evaluation language: “bienaventurado”, “juicio/juzgar”, “culpable/transgresor/pecado”, “salvar”, and analogy-closures.
+
+#### A) Early evaluation pattern: endurance → approved → receive
+
+1:12 — “Bienaventurado… persevera… aprobado… recibirá…”
+
+(sets a pattern of: pressure → endurance → evaluation → result)
+
+#### B) Judgment frame appears explicitly in the law/mercy block
+
+2:12 — “han de ser juzgados por la ley…”
+
+2:13 — “juicio… sin misericordia… misericordia triunfa…”
+
+#### C) “Salvation/result” question opens a delayed-closure unit
+
+2:14 — “¿puede esa fe salvarlo?” (result question; tension remains open)
+
+2:16 — “¿de qué sirve?” re-enters
+
+2:26 — closure analogy: body/spirit → dead; faith/works → dead
+
+#### D) Teachers → stricter judgment (re-entry)
+
+3:1 — “juicio más severo”
+
+#### E) Lawgiver/Judge exclusivity (re-entry)
+
+4:12 — “Legislador y Juez… poderoso para salvar y para destruir…”
+
+#### F) Nearness of Judge + final judgment avoidance
+
+5:9 — “para que no sean juzgados… el Juez…”
+
+5:12 — “para que no caigan bajo juicio.”
+
+#### G) Final outcome closure: save from death / cover sins
+
+5:20 — “salvará su alma de muerte… cubrirá multitud de pecados.”
+
+What this trace gives you: a whole-book pressure that repeatedly forces the reader to face evaluation + outcome, with the ending explicitly returning to “save from death / cover sins” as the final stated result chain.
+
+### Pressure 3 — Desire / Passion / Conflict (the “internal drive producing external strife” pressure)
+
+#### A) First exposure of internal drive producing outcome (seed form)
+
+1:13–15 — temptation is not from God; passion → sin → death (explicit production chain)
+
+#### B) Major re-entry with expanded social manifestation
+
+4:1–3 — wars/conflicts explained as passions; desire/failure → fighting; asking wrong motives → pleasures
+
+4:4 — intensification to relational alignment: “amistad del mundo” vs God
+
+4:7–10 — corrective imperative chain (submit/resist/draw near/cleanse/purify/humble)
+
+What this trace gives you: an objectively observable bridge from 1:13–15 to 4:1–10: internal desire is treated as a causal engine that later explains community conflict and triggers a corrective chain.
+
+### “Whatever else follows”: next pressures to trace (after 1–3)
+
+Once these three are laid down, the next traces that naturally follow (and stay objective) are:
+
+Rich/poor + oppression pressure: 1:9–11 → 2:1–7 → 5:1–6  
+
+Prayer / request / receive pressure: 1:5–8 → 4:2–3 → 5:13–18  
+
+Wisdom-from-above vs not pressure: 1:5 → 3:13–18 (and its contrast vocabulary)
+
+When you’re ready, I’ll write the next trace (rich/poor/oppression) in the same anchored format.
+
+Great — we’ll work through it in a way that *forces unity to become visible* without inventing themes.
+
+From here on, for each pressure we’ll use the same 5-part trace frame:
+
+1) Entry (where the pressure is installed)
+2) Re-entry (where it resurfaces or is repeated)
+3) Escalation (where it intensifies or broadens)
+4) Resolution (where the text locks it down: closure statement / analogy lock / consequence)
+5) Handoff (where the text pivots to the next pressure)
+
+I’ll start with Pressure 1 (Hearing / Doing / Speech) using only anchors in the text.
+
+### Pressure 1 — Hearing / Doing / Speech (response integrity)
+
+#### 1) Entry (pressure installed)
+
+1:19 — “pronto para oír, tardo para hablar, tardo para la ira;”
+
+This installs the triad and places hearing + speech under immediate control pressure.
+
+#### 2) Re-entry (pressure restated as the core demand)
+
+1:21–22
+
+1:21: “reciban… la palabra implantada…”
+
+1:22: “Sean hacedores de la palabra y no solamente oidores…”
+
+This is the explicit hear → do demand. It also names the failure mode: self-deception.
+
+#### 3) Escalation (pressure proven by tests + examples)
+
+1:23–25 — mirror sequence:
+
+hear-only → forget
+
+remain + do → “bienaventurado”
+
+1:26 — the pressure becomes testable by speech:
+
+“no refrena su lengua…”
+
+This is important: the text itself makes tongue-control a verification mechanism.
+
+Then the book expands the speech pressure massively:
+
+3:1–2 (teachers + “en lo que dice”)
+
+3:5–10 (tongue as small/huge effect; blessing/curse inconsistency)
+
+4:11–12 (speaking against/judging brother; Lawgiver/Judge)
+
+5:9 (complaining; Judge at the doors)
+
+5:12 (oaths; yes/no; judgment)
+
+#### 4) Resolution (where does this pressure “close”?)
+
+This pressure has two resolution locks, one mid-letter and one end-letter:
+
+Resolution lock A (impossibility closure):
+
+3:11–12 — spring/tree analogies (“¿Acaso…?”).  
+
+These function as a hard “lock”: the inconsistency problem is closed by an *impossibility frame*.
+
+Resolution lock B (final boundary condition):
+
+5:12 — “no juren… sí sea sí… no, no… para que no caigan bajo juicio.”  
+
+This is a final tightening that ends with an explicit consequence.
+
+So: the pressure is installed at 1:19–22, proven/escalated through 1:23–27 and 3:1–12, re-applied to community speech/judgment (4:11–12; 5:9), and closed/tightened at 5:12.
+
+#### 5) Handoff (what does it hand off into?)
+
+Immediately after the final speech boundary (5:12), the text pivots to a new operational center:
+
+5:13–18 — prayer cases (suffer/cheer/sick/confess) with outcomes.
+
+So the handoff is: speech integrity under judgment → then prayer practice under outcomes.
+
+If this looks like the right level of concreteness, next we do Pressure 2 (evaluation/judgment/result) in the same five-part frame, and then Pressure 3 (desire/passion/conflict).
+
+
+
+
+
+
+
+
+
+
+
+are you catching all re-entries?
+
+3:46 AM
+
+
+
+2 steps
+
+
+
+
+
+Not yet — not “all” in the strict sense.
+
+What I *am* catching reliably right now are explicit lexical re-entries (same word-family reappearing) for the pressure we’re tracing. I just ran a scan on your merged NBLA text for Pressure 1 and here are the re-entry anchors it detects:
+
+#### Pressure 1 lexical re-entries (objective anchors)
+
+engaño / engañ- (3)  
+
+1:16, 1:22, 1:26
+
+oír / oidores / escuchen (3)  
+
+1:19, 1:22, 2:5 *(“escuchen”)*
+
+hablar / hablen (3)  
+
+1:19, 2:12, 4:11
+
+lengua (4)  
+
+1:26, 3:5, 3:6, 3:8
+
+juzgar / juicio / Juez (7)  
+
+2:12, 2:13, 3:1, 4:11, 4:12, 5:9, 5:12
+
+hermanos address re-entry (15)  
+
+1:2, 1:16, 1:19, 2:1, 2:5, 2:14, 3:1, 3:10, 3:12, 4:11, 5:7, 5:9, 5:10, 5:12, 5:19
+
+#### What’s still missing if we want “all re-entries”
+
+To truly catch *all* re-entries we also have to track:
+
+1) Conceptual re-entries without shared vocabulary  
+
+Example: “speech integrity” can re-enter as *oaths* (5:12) even when “hablar” isn’t used.
+
+2) Structural re-entries (same *pattern* repeated)  
+
+Example patterns:  
+
+question → evaluation,  
+
+imperative → consequence,  
+
+scenario → verdict.
+
+3) Greek-controlled connector re-entries (hard mode)  
+
+Sometimes the re-entry is carried by the Greek connective logic rather than repeated Spanish words.
+
+#### How we’ll do it so we don’t miss them
+
+For each pressure trace, we’ll build a 2-layer ledger:
+
+Layer A (lexical): word-family hits like above (fast, objective).
+
+Layer B (structural): repeated forms (questions, imperatives+result, analogies as closure), with verse anchors.
+
+If you want, I’ll revise Pressure 1’s trace to explicitly list every re-entry anchor from Layer A + Layer B (so it’s complete and auditable), then we’ll do the same for Pressure 2 and 3.
+
+
+
+
+
+
+
+
+
+
+
+we need to include these as possible options
+
+4:32 AM
+
+
+
+ok what you suggest is a good solution…let’s go with that for now
+
+4:37 AM
+
+
+
+Thought
+
+
+
+
+
+Good — we’ll go with the two-layer ledger approach and we’ll explicitly include the “missing types” of re-entry as options (so we’re not pretending we can only see what repeats lexically).
+
+### What we’ll include as “possible re-entry options” (and track)
+
+For each pressure trace (starting with Pressure 1), we’ll track re-entries in two layers:
+
+#### Layer A — Lexical re-entries (highest objectivity)
+
+Same word-family reappears (e.g., *engañ-*, *lengua*, *juicio/juzgar*, *oír/oidores*, *hablar/hablen*, *hermanos*).
+
+#### Layer B — Structural / conceptual re-entries (still observable, but needs criteria)
+
+We’ll mark these as “re-entry by form” and include them as options:
+
+Question → evaluation re-entry (pressure reopened by questions)
+
+Imperative chain → consequence re-entry (pressure continues by commands)
+
+Analogy locks (spring/tree; body/spirit) as “resolution mechanisms”
+
+Speech-domain re-entry without the word ‘hablar’ (e.g., oaths, complaining)
+
+And we’ll label Layer B entries explicitly as structural so they don’t get mistaken for “lexical proof.”
+
+### Immediate next step (so it becomes usable in the manual)
+
+When we write Pressure 1 (and later 2, 3…), we’ll present it like:
+
+Entry
+
+Re-entries
+
+A. Lexical anchors: list of verse refs
+
+B. Structural anchors: list of verse refs + the pattern name
+
+Escalation
+
+Resolution
+
+Handoff
+
+This will give you a trace that’s auditable and won’t get vague.
+
+Tell me when you want to proceed to the next trace: Pressure 2 (evaluation/judgment/result).
