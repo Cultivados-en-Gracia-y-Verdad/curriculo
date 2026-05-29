@@ -234,6 +234,14 @@ y que la paciencia tenga su perfecto resultado, para que sean perfectos y comple
 
 ##### Esto abre la puerta al siguiente movimiento: el v.5 re-entra con el mismo campo de *falta*, pero ya como caso concreto: *si a alguno… le falta sabiduría…* (Santiago 1:5).
 
+> En Síntesis
+> Hoy vimos la sección: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un *resultado* completo.
+> Esto se conectó con lo anterior: SANTIAGO 1:2–27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO.
+> Anclas trabajadas: Santiago 1:1, Santiago 1:2, Santiago 1:3, Santiago 1:4.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo)
 
 ### Santiago 1:5  
@@ -355,6 +363,14 @@ siendo hombre de doble ánimo, inestable en todos sus caminos.
 
 ###### El texto pasará a contrastes de condición (humilde/rico) y a evaluaciones bajo presión, manteniendo el hilo de *estabilidad vs variación*.
 
+> En Síntesis
+> Hoy vimos la sección: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
+> Esto se conectó con lo anterior: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un *resultado* completo.
+> Anclas trabajadas: Santiago 1:5, Santiago 1:6, Santiago 1:7, Santiago 1:8.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico)
 
 ### Santiago 1:9  
@@ -466,6 +482,14 @@ Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sid
 ##### Esto prepara el v.13.
 
 ###### El v.13 comenzará a regular lo que alguien *dice* cuando es tentado. El texto pasará de *prueba* (1:12) a *tentación* (1:13), manteniendo el tema de presión pero ajustando el enfoque.
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+> Esto se conectó con lo anterior: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
+> Anclas trabajadas: Santiago 1:9, Santiago 1:10, Santiago 1:11, Santiago 1:12.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:13–15 - La pasión interna avanza hasta producir muerte
 
@@ -602,6 +626,14 @@ Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado
 
 ###### Después de cerrar la cadena (pasión -> pecado -> muerte), 1:16 introduce una advertencia breve *no se engañen*, funcionando como corrección inmediata antes del bloque de origen *de lo alto* (Santiago 1:17–18).
 
+> En Síntesis
+> Hoy vimos la sección: Santiago 1:13–15 - La pasión interna avanza hasta producir muerte.
+> Esto se conectó con lo anterior: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+> Anclas trabajadas: Santiago 1:12, Santiago 1:13, Santiago 1:14, Santiago 1:15.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto
 
 ### Santiago 1:16  
@@ -716,6 +748,13 @@ En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, par
 ##### Esto empuja a 1:19.
 
 ###### El v.19 volverá a la exhortación directa (oír/hablar/ira), llevando el flujo desde origen/palabra hacia respuesta práctica.
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto.
+> Anclas trabajadas: Santiago 1:15, Santiago 1:16, Santiago 1:17, Santiago 1:18.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:19–27 - La fractura se ve en el habla y en oír sin hacer
 
@@ -1091,6 +1130,12 @@ La religión pura y sin mancha delante de nuestro Dios y Padre es esta: visitar 
 ###### 1:26–27 cierra con evaluación y definición en términos observables (lengua; acciones).  
 
 ###### 2:1 abrirá un escenario comunitario *no tengan… favoritismo*, donde lo visible en la vida comunitaria será puesto bajo presión (Santiago 2:1).
+
+> En Síntesis
+> Anclas trabajadas: Santiago 1:24, Santiago 1:25, Santiago 1:26, Santiago 1:27.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 # SANTIAGO 2:1–26 - LO INTERIOR SE HACE VISIBLE EN LA VIDA EN COMUNIDAD
 
@@ -1496,6 +1541,12 @@ Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
 ###### Es una declaración corta y completa.
 
 ###### Funciona como cierre del argumento 2:8–13 y como bisagra antes del siguiente bloque (2:14–26), donde el texto abrirá otra exposición por preguntas.
+
+> En Síntesis
+> Anclas trabajadas: Santiago 2:10, Santiago 2:11, Santiago 2:12, Santiago 2:13.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 2:14–26 - La fe dicha, sin expresión visible, queda expuesta
 
@@ -2017,6 +2068,12 @@ Porque así como el cuerpo sin el espíritu está muerto, así también la fe si
 
 ###### Después de este candado, el libro pasa a 3:1 con una nueva corrección: *no se hagan maestros muchos…* (Santiago 3:1).
 
+> En Síntesis
+> Anclas trabajadas: Santiago 2:23, Santiago 2:24, Santiago 2:25, Santiago 2:26.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 # SANTIAGO 3:1–18 - DOS ORIENTACIONES PRODUCEN RESULTADOS OPUESTOS
 
 ## Santiago 3:1–12 - La lengua concentra y amplifica la fractura
@@ -2352,6 +2409,11 @@ De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe 
 
 ###### Después de cerrar la inconsistencia de la lengua por analogías, 3:13 abrirá otra pregunta: quién es sabio, y cómo se ve (Santiago 3:13).
 
+> En Síntesis
+> Anclas trabajadas: Santiago 3:9, Santiago 3:10, Santiago 3:11, Santiago 3:12.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos
 
@@ -2593,6 +2655,12 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 
 ###### El paso de *paz* (3:18) a *guerras/conflictos* (4:1) forma un contraste inmediato en el flujo.
 
+> En Síntesis
+> Hoy vimos la sección: Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos.
+> Anclas trabajadas: Santiago 3:15, Santiago 3:16, Santiago 3:17, Santiago 3:18.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 # SANTIAGO 4:1–17 - LA FRACTURA SE VUELVE CONFLICTO Y PRESUNCIÓN
 
@@ -2984,6 +3052,12 @@ Humíllense en la presencia del Señor y Él los exaltará.
 
 ###### Después de esta cadena de reorientación, el texto pasará a una corrección concreta sobre hablar/juzgar al hermano (Santiago 4:11–12).
 
+> En Síntesis
+> Anclas trabajadas: Santiago 4:7, Santiago 4:8, Santiago 4:9, Santiago 4:10.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez)
 
 ### Santiago 4:11  
@@ -3099,6 +3173,13 @@ Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero
 ##### Esto empuja al siguiente bloque (4:13–17).
 
 ###### Después de corregir habla/juzgar (4:11–12), el texto pasará a otra corrección de palabra y postura: planes, jactancia, y el *mañana* (Santiago 4:13–17).
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez).
+> Anclas trabajadas: Santiago 4:9, Santiago 4:10, Santiago 4:11, Santiago 4:12.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 4:13–17 - La presunción deja ver una *estabilidad* falsa
 
@@ -3296,6 +3377,13 @@ A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 
 ###### Esto prepara el cambio de dirección del capítulo 5: el texto pasará a otro *Oigan ahora…* (Santiago 5:1).
 
+> En Síntesis
+> Hoy vimos la sección: Santiago 4:13–17 - La presunción deja ver una *estabilidad* falsa.
+> Anclas trabajadas: Santiago 4:14, Santiago 4:15, Santiago 4:16, Santiago 4:17.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 # SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN
 
 ## Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio
@@ -3492,6 +3580,21 @@ Han condenado y dado muerte al justo. Él no les hace resistencia.
 ##### Esto empuja al siguiente tramo (5:7).
 
 ###### Después de hablar *a ricos* (5:1–6), el texto se volverá a *hermanos* con *Por tanto* y abrirá un llamado a paciencia (Santiago 5:7).
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio.
+> Esto se conectó con lo anterior: SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN.
+> Anclas trabajadas: Santiago 5:3, Santiago 5:4, Santiago 5:5, Santiago 5:6.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla.
+> Anclas trabajadas: Santiago 5:9, Santiago 5:10, Santiago 5:11, Santiago 5:12.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla
 
@@ -3734,6 +3837,13 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 ###### *para que* conecta el habla simple con un resultado.
 
 ###### *no caigan bajo juicio* conecta con el hilo de juicio cercano (5:9) y con la figura del Juez (5:9; 5:12).
+
+> En Síntesis
+> Hoy vimos la sección: Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada.
+> Anclas trabajadas: Santiago 5:15, Santiago 5:16, Santiago 5:17, Santiago 5:18.
+> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada
 
@@ -4044,3 +4154,4 @@ sepa que el que hace volver a un pecador del error de su camino salvará su alma
 ##### Esto cierra la carta.
 
 ###### No hay otro bloque después. El libro termina con una acción comunitaria concreta y con dos resultados declarados.
+
