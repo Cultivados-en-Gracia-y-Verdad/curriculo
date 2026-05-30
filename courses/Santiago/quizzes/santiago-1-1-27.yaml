@@ -1,0 +1,112 @@
+id: santiago-1-1-1-27
+title: Santiago 1:1–27
+questions:
+  - question: ¿A quién se dirige Santiago al inicio?
+    answers:
+      - text: A las doce tribus que están en la dispersión.
+        correct: true
+      - text: A la iglesia de Jerusalén exclusivamente.
+        correct: false
+      - text: A los gentiles de Roma.
+        correct: false
+      - text: A los gobernantes de Asia.
+        correct: false
+
+  - question: ¿Qué instrucción da Santiago cuando se hallen en diversas pruebas?
+    answers:
+      - text: Tener por sumo gozo.
+        correct: true
+      - text: Evitar toda prueba saliendo del lugar.
+        correct: false
+      - text: Guardar silencio y no pedir nada.
+        correct: false
+      - text: Jurar para confirmar su fe.
+        correct: false
+
+  - question: Según Santiago 1:3, ¿qué produce la prueba de la fe?
+    answers:
+      - text: Paciencia.
+        correct: true
+      - text: Riqueza.
+        correct: false
+      - text: Fama.
+        correct: false
+      - text: Ausencia total de tentación.
+        correct: false
+
+  - question: ¿Qué debe hacer quien tiene falta de sabiduría?
+    answers:
+      - text: Pedírsela a Dios.
+        correct: true
+      - text: Esperar a que aparezca sin pedirla.
+        correct: false
+      - text: Comprar sabiduría con dinero.
+        correct: false
+      - text: Preguntar solo a personas ricas.
+        correct: false
+
+  - question: ¿Cómo debe pedir según Santiago 1:6?
+    answers:
+      - text: Con fe, sin dudar.
+        correct: true
+      - text: Con juramentos.
+        correct: false
+      - text: Con enojo.
+        correct: false
+      - text: Con ambición personal.
+        correct: false
+
+  - question: ¿Cómo describe Santiago al que duda?
+    answers:
+      - text: Como una ola del mar impulsada por el viento.
+        correct: true
+      - text: Como una roca firme.
+        correct: false
+      - text: Como un árbol plantado junto a aguas.
+        correct: false
+      - text: Como un labrador paciente.
+        correct: false
+
+  - question: ¿Qué etiqueta usa Santiago para esa persona en 1:8?
+    answers:
+      - text: Hombre de doble ánimo, inestable en todos sus caminos.
+        correct: true
+      - text: Hombre sabio y entendido.
+        correct: false
+      - text: Hombre perfecto y completo.
+        correct: false
+      - text: Hombre compasivo y misericordioso.
+        correct: false
+
+  - question: ¿Qué cadena presenta Santiago 1:15?
+    answers:
+      - text: Pasión → pecado → muerte.
+        correct: true
+      - text: Sabiduría → riqueza → honor.
+        correct: false
+      - text: Oración → sueño → paz.
+        correct: false
+      - text: Ley → juramento → ganancia.
+        correct: false
+
+  - question: En Santiago 1:22, ¿qué mandato contrasta con “oidores”?
+    answers:
+      - text: Ser hacedores de la palabra.
+        correct: true
+      - text: Ser maestros muchos.
+        correct: false
+      - text: Ser amigos del mundo.
+        correct: false
+      - text: Ser jueces de la ley.
+        correct: false
+
+  - question: ¿Qué define Santiago como “religión pura y sin mancha” en 1:27?
+    answers:
+      - text: Visitar huérfanos y viudas en aflicción y guardarse sin mancha del mundo.
+        correct: true
+      - text: Ofrecer juramentos frecuentes.
+        correct: false
+      - text: Buscar lugares de honor en la reunión.
+        correct: false
+      - text: Planear ganancias para el mañana.
+        correct: false

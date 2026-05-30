@@ -1,0 +1,112 @@
+id: santiago-2-1-2-26
+title: Santiago 2:1–26
+questions:
+  - question: ¿Qué prohíbe Santiago 2:1 respecto a la fe?
+    answers:
+      - text: Tenerla con una actitud de favoritismo.
+        correct: true
+      - text: Tenerla con paciencia.
+        correct: false
+      - text: Tenerla con humildad.
+        correct: false
+      - text: Tenerla con oración.
+        correct: false
+
+  - question: En el escenario de 2:2–3, ¿qué señales describen al primero que entra?
+    answers:
+      - text: Anillo de oro y ropa lujosa.
+        correct: true
+      - text: Ropa sucia y falta de sustento.
+        correct: false
+      - text: Enfermedad y aceite.
+        correct: false
+      - text: Una carta y un juramento.
+        correct: false
+
+  - question: ¿Qué trato recibe el pobre en el escenario de 2:3?
+    answers:
+      - text: “Estate allí de pie” o “siéntate junto a mi estrado”.
+        correct: true
+      - text: “Siéntese aquí, en un buen lugar”.
+        correct: false
+      - text: “Reciba la corona de la vida”.
+        correct: false
+      - text: “Haga negocio y tenga ganancia”.
+        correct: false
+
+  - question: ¿Qué pregunta/evaluación presenta Santiago 2:4 sobre ese trato?
+    answers:
+      - text: Que han hecho distinciones y han venido a ser jueces con malos pensamientos.
+        correct: true
+      - text: Que han mostrado misericordia a todos.
+        correct: false
+      - text: Que han resistido al diablo.
+        correct: false
+      - text: Que han purificado sus corazones.
+        correct: false
+
+  - question: ¿Qué dice Santiago 2:5 acerca de los pobres?
+    answers:
+      - text: Que Dios los escogió para ser ricos en fe y herederos del reino.
+        correct: true
+      - text: Que deben ser expulsados de la congregación.
+        correct: false
+      - text: Que siempre blasfeman el buen nombre.
+        correct: false
+      - text: Que son la causa de toda contienda.
+        correct: false
+
+  - question: ¿Cómo presenta Santiago 2:9 el favoritismo?
+    answers:
+      - text: Como pecado y culpabilidad por la ley.
+        correct: true
+      - text: Como señal de sabiduría de lo alto.
+        correct: false
+      - text: Como paciencia bajo prueba.
+        correct: false
+      - text: Como oración eficaz.
+        correct: false
+
+  - question: Según 2:10, ¿qué pasa si alguien falla en un punto guardando toda la ley?
+    answers:
+      - text: Se ha hecho culpable de todos.
+        correct: true
+      - text: Queda libre de juicio.
+        correct: false
+      - text: Se convierte en maestro perfecto.
+        correct: false
+      - text: Recibe automáticamente corona.
+        correct: false
+
+  - question: ¿Qué mandato da 2:12 respecto a hablar y proceder?
+    answers:
+      - text: Hablar y proceder como quienes han de ser juzgados por la ley de la libertad.
+        correct: true
+      - text: Hablar mal unos de otros para corregirlos.
+        correct: false
+      - text: Jurar por el cielo para evitar juicio.
+        correct: false
+      - text: Callar siempre y no hacer nada.
+        correct: false
+
+  - question: ¿Cómo cierra 2:13 el argumento sobre juicio y misericordia?
+    answers:
+      - text: La misericordia triunfa sobre el juicio.
+        correct: true
+      - text: La jactancia triunfa sobre la humildad.
+        correct: false
+      - text: La ambición personal produce paz.
+        correct: false
+      - text: El rico siempre es bendecido.
+        correct: false
+
+  - question: ¿Qué analogía final usa 2:26?
+    answers:
+      - text: Cuerpo sin espíritu ↔ fe sin obras.
+        correct: true
+      - text: Ola del mar ↔ hombre que duda.
+        correct: false
+      - text: Fuente dulce/amarga ↔ misma abertura.
+        correct: false
+      - text: Vapor ↔ vida del mañana.
+        correct: false
