@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  29 MAY 2026 14:08
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  30 MAY 2026 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1709,6 +1709,14 @@ Escritura de manera textual, progresiva y consciente del lenguaje.
 [3
 
 ]
+Overfull \hbox (10.99147pt too wide) in paragraph at lines 131--131
+\TU/IBMPlexSerif(2)/m/it/10.95 ricos» \TU/IBMPlexSerif(0)/m/n/10.95 como gente 
+con poder real para presionar a otros: \TU/IBMPlexSerif(2)/m/it/10.95 «oprimen»
+ \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMPlexSerif(2)/m/it/10.95 «arrastran a tr
+ibunales»
+ []
+
+
 Overfull \hbox (5.59921pt too wide) in paragraph at lines 135--135
 []\TU/IBMPlexSerif(0)/m/n/10.95 Santiago 5:4 describe un caso concreto: salario
  retenido. El texto dice que el jornal \TU/IBMPlexSerif(2)/m/it/10.95 «clama»
@@ -1731,47 +1739,25 @@ Overfull \hbox (5.75862pt too wide) in paragraph at lines 175--175
  []
 
 
-Overfull \hbox (4.2998pt too wide) in paragraph at lines 194--194
-[]\TU/IBMPlexSerif(0)/m/n/10.95 Santiago no asume solo \TU/IBMPlexSerif(2)/m/it
-/10.95 «diferencias»\TU/IBMPlexSerif(0)/m/n/10.95 . El texto muestra extremos c
-laros dentro de la misma
- []
-
-
-Overfull \hbox (0.3651pt too wide) in paragraph at lines 194--194
-\TU/IBMPlexSerif(0)/m/n/10.95 comunidad. En Santiago 2:2–3 entran dos personas 
-con señales visibles opuestas: \TU/IBMPlexSerif(2)/m/it/10.95 «anillo
- []
-
-
-Overfull \hbox (1.86897pt too wide) in paragraph at lines 194--194
-\TU/IBMPlexSerif(2)/m/it/10.95 de oro» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMP
-lexSerif(2)/m/it/10.95 «ropa lujosa» \TU/IBMPlexSerif(0)/m/n/10.95 frente a \TU
-/IBMPlexSerif(2)/m/it/10.95 «pobre» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IBMPlex
-Serif(2)/m/it/10.95 «ropa sucia»\TU/IBMPlexSerif(0)/m/n/10.95 . Luego el texto 
-muestra una respuesta
- []
-
-
-Overfull \hbox (7.64075pt too wide) in paragraph at lines 196--196
-[]\TU/IBMPlexSerif(0)/m/n/10.95 El escrito además describe a \TU/IBMPlexSerif(2
-)/m/it/10.95 «los ricos» \TU/IBMPlexSerif(0)/m/n/10.95 como un grupo con capaci
-dad de oprimir y arrastrar
- []
-
-
-Overfull \hbox (28.66988pt too wide) in paragraph at lines 196--196
-\TU/IBMPlexSerif(0)/m/n/10.95 a tribunales (Santiago 2:6), y más adelante los c
-onfronta con evidencia concreta de explotación:
- []
-
-
 
 [5]
+Overfull \hbox (26.78065pt too wide) in paragraph at lines 196--196
+\TU/IBMPlexSerif(0)/m/n/10.95 corrigiendo, ordenando y guiando a una comunidad 
+creyente concreta, a la que llama directamente
+ []
+
+
 Overfull \hbox (8.29071pt too wide) in paragraph at lines 206--206
 []\TU/IBMPlexSerif(0)/m/n/10.95 Además, muchas presiones no son solo \TU/IBMPle
 xSerif(2)/m/it/10.95 «internas»\TU/IBMPlexSerif(0)/m/n/10.95 . Santiago habla e
 n un mundo con diferencias
+ []
+
+
+Overfull \hbox (10.82516pt too wide) in paragraph at lines 234--234
+\TU/IBMPlexSerif(0)/b/n/10.95 nada les falte \TU/IBMPlexSerif(0)/m/n/10.95 (San
+tiago 1:4). Y también nombra el problema contrario: \TU/IBMPlexSerif(0)/b/n/10.
+95 doble ánimo… inestable
  []
 
 
@@ -1807,12 +1793,6 @@ LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/n' undefined
 
 LaTeX Font Warning: Font shape `TU/IBMPlexSerif(2)/b/it' undefined
 (Font)              using `TU/IBMPlexSerif(2)/b/n' instead on input line 292.
-
-
-Overfull \hbox (71.34787pt too wide) in paragraph at lines 310--310
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esta frase abre una cadena: pruebas (Santiago 
-1:2) -> produce (Santiago 1:3) -> resultado/propósito
- []
 
 
 Overfull \hbox (45.67738pt too wide) in paragraph at lines 322--322
@@ -1857,68 +1837,120 @@ asar con esa paciencia:
 
 
 [9]
-Overfull \hbox (0.76782pt too wide) in paragraph at lines 406--406
- []\TU/IBMPlexSerif(0)/m/n/10.95 Este \TU/IBMPlexSerif(2)/m/it/10.95 «para que»
- \TU/IBMPlexSerif(0)/m/n/10.95 es parte del mismo flujo: prueba (v.2–3) -> paci
-encia (v.3) -> resultado
- []
 
-
-Overfull \hbox (12.2933pt too wide) in paragraph at lines 439--439
+[10]
+Overfull \hbox (12.2933pt too wide) in paragraph at lines 457--457
  []\TU/IBMPlexSerif(0)/m/n/10.95 No está cambiando de tema. Está avanzando del 
 propósito general (v.4) a una necesidad
  []
 
 
-Overfull \hbox (9.5412pt too wide) in paragraph at lines 453--453
+Overfull \hbox (9.5412pt too wide) in paragraph at lines 471--471
  []\TU/IBMPlexSerif(2)/m/it/10.95 «se la» \TU/IBMPlexSerif(0)/m/n/10.95 retoma 
 directamente \TU/IBMPlexSerif(2)/m/it/10.95 «sabiduría»\TU/IBMPlexSerif(0)/m/n/
 10.95 . El texto mantiene cohesión sin introducir
  []
 
 
+Overfull \hbox (3.7134pt too wide) in paragraph at lines 482--482
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Luego añade dos palabras que pintan el modo: \
+TU/IBMPlexSerif(2)/m/it/10.95 «abundantemente» \TU/IBMPlexSerif(0)/m/n/10.95 y 
+\TU/IBMPlexSerif(2)/m/it/10.95 «sin reproche»\TU/IBMPlexSerif(0)/m/n/10.95 .
+ []
 
-[10]
+
 
 [11]
 
 [12]
 
 [13]
+Overfull \hbox (6.4015pt too wide) in paragraph at lines 629--641
+\TU/IBMPlexSerif(0)/m/n/11 - Esto se conectó con lo anterior: Santiago 1:2–4 - 
+La prueba empuja hacia constancia
+ []
+
+
 
 [14]
-Overfull \hbox (0.47098pt too wide) in paragraph at lines 710--710
+
+[15]
+Overfull \hbox (6.49472pt too wide) in paragraph at lines 762--762
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Primero: \TU/IBMPlexSerif(2)/m/it/10.95 «que e
+l hermano de condición humilde se gloríe en su alta posición» \TU/IBMPlexSerif(
+0)/m/n/10.95 (Santiago
+ []
+
+
+
+[16]
+Overfull \hbox (6.5932pt too wide) in paragraph at lines 768--768
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Este contraste rico/pobre aparece de nuevo en 
+el escenario de la reunión (Santiago
+ []
+
+
+Overfull \hbox (0.47098pt too wide) in paragraph at lines 788--788
  []\TU/IBMPlexSerif(2)/m/it/10.95 «bajo la prueba» \TU/IBMPlexSerif(0)/m/n/10.9
 5 conecta con el inicio del bloque (Santiago 1:2–4). La palabra \TU/IBMPlexSeri
 f(2)/m/it/10.95 «prueba»
  []
 
 
-Overfull \hbox (6.49977pt too wide) in paragraph at lines 734--734
+
+[17]
+Overfull \hbox (6.49977pt too wide) in paragraph at lines 814--814
  []\TU/IBMPlexSerif(2)/m/it/10.95 «ha prometido» \TU/IBMPlexSerif(0)/m/n/10.95 
 presenta el resultado como promesa del Señor, no como deducción
  []
 
 
 
-[15]
-Overfull \hbox (35.73262pt too wide) in paragraph at lines 785--785
+[18]
+Overfull \hbox (35.73262pt too wide) in paragraph at lines 881--881
  []\TU/IBMPlexSerif(2)/m/it/10.95 «no puede ser tentado por el mal» \TU/IBMPlex
 Serif(0)/m/n/10.95 niega una posibilidad en Dios, conectando directamente
  []
 
 
 
-[16]
-
-[17]
-Overfull \hbox (9.19568pt too wide) in paragraph at lines 871--871
+[19]
+Overfull \hbox (9.19568pt too wide) in paragraph at lines 977--977
  []\TU/IBMPlexSerif(2)/m/it/10.95 «cuando la pasión ha concebido» \TU/IBMPlexSe
 rif(0)/m/n/10.95 presenta una etapa dentro del proceso con lenguaje
  []
 
 
-Overfull \hbox (4.41196pt too wide) in paragraph at lines 917--917
+
+[20]
+Overfull \hbox (7.36945pt too wide) in paragraph at lines 1022--1022
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «la muerte» \TU/IBMPlexSerif(0)/m/n/10.95 apa
+rece como resultado final del proceso descrito en 1:14–15. Génesis
+ []
+
+
+Overfull \hbox (0.87737pt too wide) in paragraph at lines 1037--1037
+ \TU/IBMPlexSerif(2)/m/it/10.95 el pecado en su cuerpo mortal para que ustedes 
+no obedezcan a sus lujurias» \TU/IBMPlexSerif(0)/m/n/10.95 (Romanos
+ []
+
+
+
+[21]
+Overfull \hbox (2.13661pt too wide) in paragraph at lines 1057--1059
+[]\TU/IBMPlexSerif(0)/m/n/10.95 no presenten sus miembros \TU/IBMPlexSerif(2)/m
+/it/10.95 «como instrumentos de iniquidad» \TU/IBMPlexSerif(0)/m/n/10.95 (Roman
+os 6:13).
+ []
+
+
+Overfull \hbox (9.22264pt too wide) in paragraph at lines 1073--1073
+ \TU/IBMPlexSerif(0)/m/n/10.95 lenguaje de llevado/seducido/concebir/dar a luz/
+engendrar, pero ambos describen
+ []
+
+
+Overfull \hbox (4.41196pt too wide) in paragraph at lines 1077--1077
  \TU/IBMPlexSerif(0)/m/n/10.95 advertencia breve \TU/IBMPlexSerif(2)/m/it/10.95
  «no se engañen»\TU/IBMPlexSerif(0)/m/n/10.95 , funcionando como corrección inm
 ediata antes
@@ -1926,16 +1958,23 @@ ediata antes
 
 
 
-[18]
-Overfull \hbox (15.56128pt too wide) in paragraph at lines 941--941
+[22]
+Overfull \hbox (15.56128pt too wide) in paragraph at lines 1117--1117
  []\TU/IBMPlexSerif(0)/m/n/10.95 La carta no solo informa; exhorta. Este trato 
 reaparece para introducir correcciones
  []
 
 
+Overfull \hbox (1.81172pt too wide) in paragraph at lines 1127--1127
+ []\TU/IBMPlexSerif(2)/m/it/10.95 «no se engañen» \TU/IBMPlexSerif(0)/m/n/10.95
+ funciona como bisagra: después de la cadena \TU/IBMPlexSerif(2)/m/it/10.95 «pa
+sión» \TU/IBMPlexSerif(0)/m/n/10.95 → \TU/IBMPlexSerif(2)/m/it/10.95 «pecado»
+ []
 
-[19]
-Overfull \hbox (15.69994pt too wide) in paragraph at lines 999--999
+
+
+[23]
+Overfull \hbox (15.69994pt too wide) in paragraph at lines 1175--1175
  []\TU/IBMPlexSerif(2)/m/it/10.95 «cambio» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/
 IBMPlexSerif(2)/m/it/10.95 «sombra de variación» \TU/IBMPlexSerif(0)/m/n/10.95 
 se acumulan para describir ausencia de alteración.[] 
@@ -1943,113 +1982,83 @@ se acumulan para describir ausencia de alteración.[]
 
 
 
-[20]
-Overfull \hbox (0.96979pt too wide) in paragraph at lines 1053--1053
+[24]
+Overfull \hbox (0.96979pt too wide) in paragraph at lines 1228--1228
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto muestra que no solo hay origen y acto
 ; también hay dirección (propósito).[] 
  []
 
 
-Overfull \hbox (3.01135pt too wide) in paragraph at lines 1089--1089
+Overfull \hbox (3.01135pt too wide) in paragraph at lines 1278--1278
  []\TU/IBMPlexSerif(0)/m/n/10.95 Viene después de 1:16–18 (corrección + origen 
 + palabra). Ahora pasa a instrucciones
  []
 
 
 
-[21]
-Overfull \hbox (1.3372pt too wide) in paragraph at lines 1115--1115
+[25]
+Overfull \hbox (1.3372pt too wide) in paragraph at lines 1304--1304
  []\TU/IBMPlexSerif(2)/m/it/10.95 «pronto para oír» \TU/IBMPlexSerif(0)/m/n/10.
 95 pone el primer énfasis en escuchar antes de hablar o reaccionar.[] 
  []
 
 
 
-[22]
-Overfull \hbox (10.34323pt too wide) in paragraph at lines 1173--1173
- []\TU/IBMPlexSerif(0)/m/n/10.95 El v.21 empieza con \TU/IBMPlexSerif(2)/m/it/1
-0.95 «Por lo cual…»\TU/IBMPlexSerif(0)/m/n/10.95 , tomando esta base y derivand
-o una instrucción.[] 
+[26]
+Overfull \hbox (15.52843pt too wide) in paragraph at lines 1365--1365
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto dice que esta respuesta (\TU/IBMPlexS
+erif(2)/m/it/10.95 «ira del hombre»\TU/IBMPlexSerif(0)/m/n/10.95 ) no produce e
+l resultado nombrado
  []
 
 
-Overfull \hbox (5.91553pt too wide) in paragraph at lines 1193--1193
+
+[27]
+Overfull \hbox (5.91553pt too wide) in paragraph at lines 1404--1404
  []\TU/IBMPlexSerif(2)/m/it/10.95 «toda» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/IB
 MPlexSerif(2)/m/it/10.95 «todo resto» \TU/IBMPlexSerif(0)/m/n/10.95 no dejan el
  punto como mínimo; lo presentan como completo.[] 
  []
 
 
-
-[23]
-Overfull \hbox (8.25761pt too wide) in paragraph at lines 1219--1219
+Overfull \hbox (8.25761pt too wide) in paragraph at lines 1430--1430
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto cierra el v.21 con resultado y pone peso 
 sobre cómo se responde a esa palabra.[] 
  []
 
 
-Overfull \hbox (36.18011pt too wide) in paragraph at lines 1243--1243
+
+[28]
+Overfull \hbox (36.18011pt too wide) in paragraph at lines 1454--1454
  []\TU/IBMPlexSerif(2)/m/it/10.95 «de la palabra» \TU/IBMPlexSerif(0)/m/n/10.95
  conecta directamente con 1:21 y mantiene una sola línea de continuidad.[] 
  []
 
 
-Overfull \hbox (26.30101pt too wide) in paragraph at lines 1257--1257
+Overfull \hbox (26.30101pt too wide) in paragraph at lines 1468--1468
  []\TU/IBMPlexSerif(0)/m/n/10.95 El v.23 comenzará con \TU/IBMPlexSerif(2)/m/it
 /10.95 «Porque…»\TU/IBMPlexSerif(0)/m/n/10.95 , abriendo una analogía para sost
 ener este contraste.[] 
  []
 
 
-
-[24]
-Overfull \hbox (7.1349pt too wide) in paragraph at lines 1286--1286
+Overfull \hbox (7.1349pt too wide) in paragraph at lines 1497--1497
  []\TU/IBMPlexSerif(0)/m/n/10.95 1:23 comienza con \TU/IBMPlexSerif(2)/m/it/10.
 95 «Porque»\TU/IBMPlexSerif(0)/m/n/10.95 , o sea: ahora el texto explica por qu
 é el \TU/IBMPlexSerif(2)/m/it/10.95 «oír solamente»
  []
 
 
-Overfull \hbox (14.03436pt too wide) in paragraph at lines 1310--1310
+
+[29]
+Overfull \hbox (14.03436pt too wide) in paragraph at lines 1519--1519
  []\TU/IBMPlexSerif(0)/m/n/10.95 Eso mantiene la ilustración abierta. La secuen
 cia se completa en 1:24 y se contrasta
  []
 
 
-
-[25]
-
-[26]
-
-[27]
-Overfull \hbox (2.82886pt too wide) in paragraph at lines 1454--1454
- []\TU/IBMPlexSerif(0)/m/n/10.95 En 1:22 el texto habló de \TU/IBMPlexSerif(2)/
-m/it/10.95 «autoengaño»\TU/IBMPlexSerif(0)/m/n/10.95 . Aquí vuelve a un caso do
-nde la percepción
- []
-
-
-
-[28]
-
-[29]
-Underfull \hbox (badness 1859) in paragraph at lines 1560--1562
-[]\TU/IBMPlexSerif(2)/m/it/10.95 « Hermanos míos, no tengan su fe en nuestro gl
-orioso Señor Jesucristo con una actitud de
- []
-
-
-Overfull \hbox (15.34106pt too wide) in paragraph at lines 1568--1568
- []\TU/IBMPlexSerif(0)/m/n/10.95 No es una frase general para \TU/IBMPlexSerif(
-2)/m/it/10.95 «cualquiera»\TU/IBMPlexSerif(0)/m/n/10.95 . Es una instrucción di
-rigida a \TU/IBMPlexSerif(2)/m/it/10.95 «hermanos»\TU/IBMPlexSerif(0)/m/n/10.95
- .[] 
- []
-
-
-Overfull \hbox (9.18834pt too wide) in paragraph at lines 1580--1580
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto abre un bloque que va a ser probado con u
-n ejemplo concreto en los versículos
+Overfull \hbox (21.9pt too wide) in paragraph at lines 1559--1562
+$[]$
  []
 
 
@@ -2057,25 +2066,83 @@ n ejemplo concreto en los versículos
 [30]
 
 [31]
+Overfull \hbox (2.82886pt too wide) in paragraph at lines 1664--1664
+ []\TU/IBMPlexSerif(0)/m/n/10.95 En 1:22 el texto habló de \TU/IBMPlexSerif(2)/
+m/it/10.95 «autoengaño»\TU/IBMPlexSerif(0)/m/n/10.95 . Aquí vuelve a un caso do
+nde la percepción
+ []
+
+
 
 [32]
-Overfull \hbox (10.39432pt too wide) in paragraph at lines 1786--1786
+Overfull \hbox (21.9pt too wide) in paragraph at lines 1704--1707
+$[]$
+ []
+
+
+
+[33]
+
+[34]
+Underfull \hbox (badness 1859) in paragraph at lines 1783--1785
+[]\TU/IBMPlexSerif(2)/m/it/10.95 « Hermanos míos, no tengan su fe en nuestro gl
+orioso Señor Jesucristo con una actitud de
+ []
+
+
+Overfull \hbox (15.34106pt too wide) in paragraph at lines 1791--1791
+ []\TU/IBMPlexSerif(0)/m/n/10.95 No es una frase general para \TU/IBMPlexSerif(
+2)/m/it/10.95 «cualquiera»\TU/IBMPlexSerif(0)/m/n/10.95 . Es una instrucción di
+rigida a \TU/IBMPlexSerif(2)/m/it/10.95 «hermanos»\TU/IBMPlexSerif(0)/m/n/10.95
+ .[] 
+ []
+
+
+Overfull \hbox (9.18834pt too wide) in paragraph at lines 1803--1803
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto abre un bloque que va a ser probado con u
+n ejemplo concreto en los versículos
+ []
+
+
+
+[35]
+
+[36]
+Overfull \hbox (5.81091pt too wide) in paragraph at lines 1899--1899
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto todavía no ha mostrado la reacción. E
+so viene en los versículos siguientes.[] 
+ []
+
+
+
+[37]
+Overfull \hbox (21.9pt too wide) in paragraph at lines 1961--1964
+$[]$
+ []
+
+
+Overfull \hbox (10.39432pt too wide) in paragraph at lines 2010--2010
  []\TU/IBMPlexSerif(0)/m/n/10.95 La corrección que sigue no depende de impresio
 nes, sino de un punto que Santiago
  []
 
 
 
-[33]
-Overfull \hbox (4.02727pt too wide) in paragraph at lines 1826--1826
+[38]
+Overfull \hbox (4.02727pt too wide) in paragraph at lines 2050--2050
  []\TU/IBMPlexSerif(2)/m/it/10.95 «a los que lo aman» \TU/IBMPlexSerif(0)/m/n/1
 0.95 delimita el grupo objetivo de la promesa (no se deja indefinido).[] 
  []
 
 
 
-[34]
-Overfull \hbox (8.85402pt too wide) in paragraph at lines 1916--1916
+[39]
+Overfull \hbox (21.9pt too wide) in paragraph at lines 2100--2103
+$[]$
+ []
+
+
+Overfull \hbox (8.85402pt too wide) in paragraph at lines 2140--2140
  []\TU/IBMPlexSerif(2)/m/it/10.95 «ley real» \TU/IBMPlexSerif(0)/m/n/10.95 y \T
 U/IBMPlexSerif(2)/m/it/10.95 «Escritura» \TU/IBMPlexSerif(0)/m/n/10.95 nombran 
 un estándar externo, no una preferencia personal.[] 
@@ -2083,18 +2150,18 @@ un estándar externo, no una preferencia personal.[]
 
 
 
-[35]
-Underfull \hbox (badness 3068) in paragraph at lines 1942--1944
+[40]
+Underfull \hbox (badness 3068) in paragraph at lines 2166--2168
 []\TU/IBMPlexSerif(2)/m/it/10.95 « Pero si muestran favoritismo, cometen pecado
  y son hallados culpables por la ley como
  []
 
 
 
-[36]
+[41]
 
-[37]
-Overfull \hbox (43.2027pt too wide) in paragraph at lines 2072--2072
+[42]
+Overfull \hbox (43.2027pt too wide) in paragraph at lines 2295--2295
  []\TU/IBMPlexSerif(2)/m/it/10.95 «te has convertido» \TU/IBMPlexSerif(0)/m/n/1
 0.95 marca resultado: el caso termina con una identidad legal \TU/IBMPlexSerif(
 2)/m/it/10.95 «transgresor»\TU/IBMPlexSerif(0)/m/n/10.95 .[] 
@@ -2102,47 +2169,27 @@ Overfull \hbox (43.2027pt too wide) in paragraph at lines 2072--2072
 
 
 
-[38]
-Overfull \hbox (9.675pt too wide) in paragraph at lines 2164--2164
- []\TU/IBMPlexSerif(0)/m/n/10.95 Santiago no empieza discutiendo lo interior; e
-mpieza con una declaración audible.[] 
- []
-
-
-
-[39]
-
-[40]
-
-[41]
-Overfull \hbox (0.53784pt too wide) in paragraph at lines 2354--2354
- []\TU/IBMPlexSerif(0)/m/n/10.95 Es el cierre del primer movimiento del bloque 
-(pregunta -> ejemplo -> veredicto).[] 
- []
-
-
-Overfull \hbox (3.3382pt too wide) in paragraph at lines 2358--2358
- []\TU/IBMPlexSerif(0)/m/n/10.95 El v.18 introduce \TU/IBMPlexSerif(2)/m/it/10.
-95 «Pero alguien dirá…»\TU/IBMPlexSerif(0)/m/n/10.95 , o sea, una objeción/diál
-ogo, y el argumento
- []
-
-
-
-[42]
-
 [43]
+Overfull \hbox (1.1547pt too wide) in paragraph at lines 2383--2383
+ []\TU/IBMPlexSerif(0)/m/n/10.95 “hermanos míos” mantiene el tono directo de co
+rrección dentro de la comunidad
+ []
+
+
 
 [44]
 
 [45]
+Missing character: There is no ‑ (U+2011) in font [/Users/johnwry/Library/Fonts
+/IBMPlexSerif-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
 
 [46]
 
 [47]
-Overfull \hbox (6.05301pt too wide) in paragraph at lines 2762--2762
- []\TU/IBMPlexSerif(0)/m/n/10.95 Esto prepara un segundo ejemplo (Rahab) para r
-eforzar que no fue un caso aislado
+Overfull \hbox (2.08063pt too wide) in paragraph at lines 2614--2614
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El tema no es simplemente la existencia de obr
+as. El tema es la posibilidad de mostrar
  []
 
 
@@ -2150,27 +2197,75 @@ eforzar que no fue un caso aislado
 [48]
 
 [49]
+Overfull \hbox (9.72617pt too wide) in paragraph at lines 2699--2699
+ []\TU/IBMPlexSerif(0)/m/n/10.95 El texto no se queda en el veredicto anterior;
+ ahora presiona al lector a reconocerlo.
+ []
+
+
 
 [50]
+Overfull \hbox (6.15521pt too wide) in paragraph at lines 2766--2766
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Aquí Santiago vuelve a una pregunta: “¿No fue…
+?”. No empieza explicando; vuelve
+ []
+
+
 
 [51]
+Overfull \hbox (12.10982pt too wide) in paragraph at lines 2822--2822
+ []\TU/IBMPlexSerif(0)/m/n/10.95 La atención ya no está en una afirmación verba
+l, sino en algo que puede observarse.[] 
+ []
+
+
+Overfull \hbox (3.52869pt too wide) in paragraph at lines 2840--2840
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conversa con Santiago 1:4, donde el libro
+ apunta hacia lo perfecto y completo
+ []
+
+
 
 [52]
-Overfull \hbox (10.69582pt too wide) in paragraph at lines 3072--3072
+
+[53]
+
+[54]
+Overfull \hbox (1.46643pt too wide) in paragraph at lines 2993--2993
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Igual que en 2:14 y 2:17, la atención recae so
+bre una fe presentada en separación.[] 
+ []
+
+
+Overfull \hbox (9.33pt too wide) in paragraph at lines 3002--3002
+ []\TU/IBMPlexSerif(0)/m/n/10.95 Luego avanzó mediante preguntas, ejemplos, “mo
+strar” y “ver” (Santiago 2:15–16;
+ []
+
+
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+Overfull \hbox (10.69582pt too wide) in paragraph at lines 3223--3223
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto prepara el punto: la lengua es pequeña pe
 ro dirige y produce efectos (Santiago
  []
 
 
 
-[53]
+[59]
 
-[54]
+[60]
 
-[55]
+[61]
 
-[56]
-Overfull \hbox (7.51443pt too wide) in paragraph at lines 3356--3356
+[62]
+Overfull \hbox (7.51443pt too wide) in paragraph at lines 3506--3506
  []\TU/IBMPlexSerif(0)/m/n/10.95 Vuelve \TU/IBMPlexSerif(2)/m/it/10.95 «hermano
 s» \TU/IBMPlexSerif(0)/m/n/10.95 en medio de la analogía, manteniendo la exhort
 ación personal.[] 
@@ -2178,119 +2273,141 @@ ación personal.[]
 
 
 
-[57]
-
-[58]
-Overfull \hbox (4.26816pt too wide) in paragraph at lines 3435--3435
+[63]
+Overfull \hbox (4.26816pt too wide) in paragraph at lines 3597--3597
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta con el patrón del libro: lo que s
 e dice se prueba en lo visible (Santiago
  []
 
 
 
-[59]
-Overfull \hbox (16.13795pt too wide) in paragraph at lines 3495--3495
+[64]
+Overfull \hbox (16.13795pt too wide) in paragraph at lines 3657--3657
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto conecta con otras partes del libro donde 
 lo interno produce lo externo (Santiago
  []
 
 
 
-[60]
-Overfull \hbox (0.51718pt too wide) in paragraph at lines 3597--3597
+[65]
+
+[66]
+Overfull \hbox (0.51718pt too wide) in paragraph at lines 3758--3758
  []\TU/IBMPlexSerif(0)/m/n/10.95 No lo presenta como posibilidad; lo presenta c
 omo consecuencia ligada al \TU/IBMPlexSerif(2)/m/it/10.95 «donde
  []
 
 
 
-[61]
-Overfull \hbox (3.14392pt too wide) in paragraph at lines 3671--3671
+[67]
+Overfull \hbox (3.14392pt too wide) in paragraph at lines 3831--3831
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esta forma de cierre conversa con el lenguaje 
 de \TU/IBMPlexSerif(2)/m/it/10.95 «doble ánimo/inestable» \TU/IBMPlexSerif(0)/m
 /n/10.95 (Santiago
  []
 
 
+Overfull \hbox (21.9pt too wide) in paragraph at lines 3837--3840
+$[]$
+ []
 
-[62]
-Overfull \hbox (4.00317pt too wide) in paragraph at lines 3710--3710
+
+
+[68]
+Overfull \hbox (4.00317pt too wide) in paragraph at lines 3871--3871
  []\TU/IBMPlexSerif(0)/m/n/10.95 El siguiente versículo abrirá con otra pregunt
 a, ahora sobre conflictos: \TU/IBMPlexSerif(2)/m/it/10.95 «¿De dónde
  []
 
 
-Overfull \hbox (6.60199pt too wide) in paragraph at lines 3731--3731
+Overfull \hbox (6.60199pt too wide) in paragraph at lines 3906--3906
  []\TU/IBMPlexSerif(0)/m/n/10.95 El texto abre con una pregunta que busca mostr
 ar causa, no solo describir el problema. 
  []
 
 
 
-[63]
+[69]
 
-[64]
+[70]
+Overfull \hbox (21.9pt too wide) in paragraph at lines 4012--4015
+$[]$
+ []
 
-[65]
 
-[66]
 
-[67]
-Overfull \hbox (22.92575pt too wide) in paragraph at lines 4047--4047
+[71]
+Overfull \hbox (21.9pt too wide) in paragraph at lines 4061--4064
+$[]$
+ []
+
+
+
+[72]
+
+[73]
+Overfull \hbox (22.92575pt too wide) in paragraph at lines 4223--4223
  []\TU/IBMPlexSerif(0)/m/n/10.95 Allí hubo amistad/enemistad hacia Dios. Aquí h
 ay una dirección concreta: someterse
  []
 
 
 
-[68]
-
-[69]
-Overfull \hbox (3.2206pt too wide) in paragraph at lines 4117--4117
+[74]
+Overfull \hbox (3.2206pt too wide) in paragraph at lines 4292--4292
  []\TU/IBMPlexSerif(2)/m/it/10.95 «pecadores» \TU/IBMPlexSerif(0)/m/n/10.95 es 
 un llamado directo que califica a los destinatarios en ese momento.[] 
  []
 
 
 
-[70]
-Overfull \hbox (9.83952pt too wide) in paragraph at lines 4227--4227
+[75]
+
+[76]
+Overfull \hbox (21.9pt too wide) in paragraph at lines 4373--4376
+$[]$
+ []
+
+
+Overfull \hbox (9.83952pt too wide) in paragraph at lines 4402--4402
  []\TU/IBMPlexSerif(0)/m/n/10.95 Después de esta cadena de reorientación, el te
 xto pasará a una corrección concreta
  []
 
 
 
-[71]
-Overfull \hbox (9.90161pt too wide) in paragraph at lines 4247--4247
+[77]
+Overfull \hbox (9.90161pt too wide) in paragraph at lines 4434--4434
  []\TU/IBMPlexSerif(0)/m/n/10.95 Esto sigue la línea de 4:1–10: conflictos dent
 ro de \TU/IBMPlexSerif(2)/m/it/10.95 «ustedes»\TU/IBMPlexSerif(0)/m/n/10.95 , y
  ahora una corrección
  []
 
 
-Overfull \hbox (4.61128pt too wide) in paragraph at lines 4267--4267
+Overfull \hbox (4.61128pt too wide) in paragraph at lines 4454--4454
  []\TU/IBMPlexSerif(2)/m/it/10.95 «de un hermano» \TU/IBMPlexSerif(0)/m/n/10.95
  mantiene el marco comunitario: se trata de cómo se habla dentro
  []
 
 
-Overfull \hbox (14.54657pt too wide) in paragraph at lines 4287--4287
+Overfull \hbox (14.54657pt too wide) in paragraph at lines 4474--4474
  []\TU/IBMPlexSerif(0)/m/n/10.95 La frase muestra una consecuencia de lo que se
  hace con la boca: termina afectando
  []
 
 
 
-[72]
-Overfull \hbox (0.68755pt too wide) in paragraph at lines 4331--4331
+[78]
+Overfull \hbox (0.68755pt too wide) in paragraph at lines 4517--4517
  []\TU/IBMPlexSerif(0)/m/n/10.95 El v.12 dirá por qué ese rol está fuera de lug
 ar: hay \TU/IBMPlexSerif(2)/m/it/10.95 «un Legislador y Juez» \TU/IBMPlexSerif(
 0)/m/n/10.95 (Santiago
  []
 
 
-Overfull \hbox (27.55148pt too wide) in paragraph at lines 4361--4361
+
+[79]
+Overfull \hbox (27.55148pt too wide) in paragraph at lines 4548--4548
  []\TU/IBMPlexSerif(2)/m/it/10.95 «salvar» \TU/IBMPlexSerif(0)/m/n/10.95 y \TU/
 IBMPlexSerif(2)/m/it/10.95 «destruir» \TU/IBMPlexSerif(0)/m/n/10.95 ponen el ju
 icio en términos de resultado extremo (dos direcciones
@@ -2298,38 +2415,50 @@ icio en términos de resultado extremo (dos direcciones
 
 
 
-[73]
+[80]
 
-[74]
+[81]
 
-[75]
+[82]
 
-[76]
+[83]
 
-[77]
-Overfull \hbox (2.80452pt too wide) in paragraph at lines 4695--4695
+[84]
+Overfull \hbox (2.80452pt too wide) in paragraph at lines 4909--4909
  []\TU/IBMPlexSerif(2)/m/it/10.95 «ricos» \TU/IBMPlexSerif(0)/m/n/10.95 nombra 
 el grupo al que va dirigido este tramo. No es general; es específico.[] 
  []
 
 
 
-[78]
+[85]
 
-[79]
+[86]
 
-[80]
+[87]
 
-[81]
+[88]
+Overfull \hbox (7.6482pt too wide) in paragraph at lines 5167--5179
+\TU/IBMPlexSerif(0)/m/n/11 - Acabamos de ver la sección: Santiago 5:1–6 - Rique
+za usada para oprimir: denuncia
+ []
 
-[82]
-Overfull \hbox (33.23604pt too wide) in paragraph at lines 4973--4973
+
+Overfull \hbox (5.95702pt too wide) in paragraph at lines 5167--5179
+\TU/IBMPlexSerif(0)/m/n/11 - Esto se conectó con lo anterior: SANTIAGO 5:1–20 -
+ CIERRE: ORÁCULO, LLAMADOS
+ []
+
+
+
+[89]
+Overfull \hbox (33.23604pt too wide) in paragraph at lines 5200--5200
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Por tanto» \TU/IBMPlexSerif(0)/m/n/10.95 con
 ecta como conclusión: después de lo dicho, ahora viene una instrucción.[] 
  []
 
 
-Overfull \hbox (18.01044pt too wide) in paragraph at lines 5019--5019
+Overfull \hbox (18.01044pt too wide) in paragraph at lines 5246--5246
  []\TU/IBMPlexSerif(0)/m/n/10.95 El v.8 repite \TU/IBMPlexSerif(2)/m/it/10.95 «
 sean pacientes» \TU/IBMPlexSerif(0)/m/n/10.95 y añade otra instrucción: fortale
 cer el corazón (Santiago
@@ -2337,79 +2466,91 @@ cer el corazón (Santiago
 
 
 
-[83]
+[90]
 
-[84]
+[91]
 
-[85]
-Overfull \hbox (6.59323pt too wide) in paragraph at lines 5207--5207
+[92]
+Overfull \hbox (6.59323pt too wide) in paragraph at lines 5434--5434
  []\TU/IBMPlexSerif(2)/m/it/10.95 «compasivo y misericordioso» \TU/IBMPlexSerif
 (0)/m/n/10.95 cierra el argumento de paciencia con una descripción
  []
 
 
 
-[86]
-Overfull \hbox (15.10866pt too wide) in paragraph at lines 5211--5211
+[93]
+Overfull \hbox (15.10866pt too wide) in paragraph at lines 5438--5438
  []\TU/IBMPlexSerif(0)/m/n/10.95 El v.12 hará un cierre puntual con una prohibi
 ción sobre juramentos y un propósito:
  []
 
 
 
-[87]
+[94]
 
-[88]
-Overfull \hbox (6.9378pt too wide) in paragraph at lines 5384--5384
+[95]
+Overfull \hbox (6.9378pt too wide) in paragraph at lines 5626--5626
  []\TU/IBMPlexSerif(0)/m/n/10.95 Se nota una estructura: el caso trae una respu
 esta comunitaria, no solo individual.[] 
  []
 
 
 
-[89]
-Overfull \hbox (8.06198pt too wide) in paragraph at lines 5450--5450
+[96]
+Overfull \hbox (8.06198pt too wide) in paragraph at lines 5692--5692
  []\TU/IBMPlexSerif(2)/m/it/10.95 «Si» \TU/IBMPlexSerif(0)/m/n/10.95 introduce 
 condición: esto puede ser parte del caso, pero no se asume siempre.[] 
  []
 
 
 
-[90]
-Overfull \hbox (12.45146pt too wide) in paragraph at lines 5534--5534
+[97]
+
+[98]
+Overfull \hbox (12.45146pt too wide) in paragraph at lines 5776--5776
  []\TU/IBMPlexSerif(2)/m/it/10.95 «semejantes a las nuestras» \TU/IBMPlexSerif(
 0)/m/n/10.95 reduce distancia: lo pone en la misma categoría humana.[] 
  []
 
 
 
-[91]
-
-[92]
-Overfull \hbox (1.25694pt too wide) in paragraph at lines 5654--5654
- []\TU/IBMPlexSerif(0)/m/n/10.95 El versículo termina con coma. El pensamiento 
-no se completa aquí; pasa directo
+[99]
+Overfull \hbox (35.63582pt too wide) in paragraph at lines 5864--5874
+\TU/IBMPlexSerif(0)/m/n/11 - Vimos la sección: Santiago 5:13–18 - Oración: resp
+uesta ordenada y eficacia demostrada. 
  []
 
 
 
-[93]
-Overfull \hbox (16.30733pt too wide) in paragraph at lines 5728--5728
+[100]
+
+[101]
+Overfull \hbox (16.30733pt too wide) in paragraph at lines 5985--5985
  []\TU/IBMPlexSerif(2)/m/it/10.95 «pecados» \TU/IBMPlexSerif(0)/m/n/10.95 cierr
 a con el vocabulario moral del libro, pero ahora en forma de resultado
  []
 
 
-Overfull \hbox (7.0081pt too wide) in paragraph at lines 5732--5732
+Overfull \hbox (7.0081pt too wide) in paragraph at lines 5989--5989
  []\TU/IBMPlexSerif(0)/m/n/10.95 No hay otro bloque después. El libro termina c
 on una acción comunitaria concreta
  []
 
 
+Overfull \hbox (87.07845pt too wide) in paragraph at lines 5992--6009
+\TU/IBMPlexSerif(0)/m/n/11 - El texto insiste en contrastes observables: oír/ha
+cer, pedir/dudar, lengua controlada/descontrolada,
+ []
 
-[94]
 
-[95] (temp/student_manual.aux)
+Overfull \hbox (4.31447pt too wide) in paragraph at lines 5992--6009
+\TU/IBMPlexSerif(0)/m/n/11 - El manual, por tanto, sigue el movimiento del libr
+o: presión → orientación expuesta
+ []
+
+
+
+[102] (temp/student_manual.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2419,15 +2560,15 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `student_manual.out' has not changed.
-(rerunfilecheck)             Checksum: 06C98A90FC0F904B6508E26B51E7CCCD;3498.
+(rerunfilecheck)             Checksum: B4BF99A5A6A7C7ABF92857E558C5CC80;3498.
  ) 
 Here is how much of TeX's memory you used:
- 36326 strings out of 473832
- 764122 string characters out of 5729482
- 1303479 words of memory out of 5000000
- 58781 multiletter control sequences out of 15000+600000
- 563196 words of font info for 110 fonts, out of 8000000 for 9000
+ 36428 strings out of 473832
+ 766700 string characters out of 5729482
+ 1304672 words of memory out of 5000000
+ 58879 multiletter control sequences out of 15000+600000
+ 563228 words of font info for 114 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,17n,124p,586b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,17n,124p,907b,1431s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on temp/student_manual.pdf (95 pages).
+Output written on temp/student_manual.pdf (102 pages).

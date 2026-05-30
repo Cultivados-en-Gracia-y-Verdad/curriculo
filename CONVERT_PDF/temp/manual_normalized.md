@@ -3,7 +3,7 @@ title: "Santiago - Presión, orientación y plenitud"
 subtitle: "La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios."
 author: "CGV"
 cover: "images/portada.png"
-version: "0.2"
+version: "0.3"
 date: "2026-05-29"
 
 ---
@@ -11,7 +11,6 @@ date: "2026-05-29"
 :::title
 Santiago - Presión, orientación y plenitud
 :::
-
 :::subtitle
 La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios.
 :::
@@ -22,15 +21,15 @@ La presión revela fractura o consistencia, y la carta llama a reorientación ha
 
 \headingfive{Esta carta no se siente como un documento escrito \scripture{desde un escritorio} para un mundo ideal. Santiago escribe a personas reales, en situaciones reales, y el texto mismo deja ver varias presiones del entorno. No necesitamos adivinar una ciudad exacta ni reconstruir una historia completa para notar esto. Basta con seguir lo que el mismo Santiago menciona y asume.}
 
-\headingfive{Dispersión (vida fuera de centro, bajo presión)}
+\headingfive{Dispersión (vivir esparcidos, bajo presión cotidiana)}
 
 \headingsix{Santiago nombra a sus destinatarios como \scripture{las doce tribus… en la dispersión} (Santiago 1:1). Eso instala un marco de vida con movimiento y tensión alrededor. Luego, sin pausa, la carta entra directo a \scripture{diversas pruebas} (Santiago 1:2). El texto no presenta la presión como algo raro; la da por sentada.}
 
 \headingfive{Diferencias de condición (rico/pobre) y favoritismo visible}
 
-\headingsix{El texto asume que en la reunión de la comunidad entran personas de condición muy distinta, y que eso produce respuestas diferentes. En el escenario de Santiago 2:2–3 aparecen señales externas claras: \scripture{anillo de oro} y \scripture{ropa lujosa} frente a \scripture{pobre} y \scripture{ropa sucia}. Luego el texto muestra cómo se trata a cada uno: \scripture{un buen lugar} para uno y \scripture{de pie / junto al estrado} para el otro. Eso muestra un mundo donde el estatus se reconoce y se asigna en público.}
+\headingsix{El texto da por sentado que, cuando la comunidad se reúne, entran personas en extremos muy distintos. En Santiago 2:2–3 eso se ve en detalles fáciles de notar: \scripture{anillo de oro} y \scripture{ropa lujosa} por un lado, y \scripture{pobre} con \scripture{ropa sucia} por el otro. Y también se ve en el trato: a uno le dicen \scripture{aquí, en un buen lugar}; al otro, \scripture{quédate de pie} o \scripture{siéntate junto al estrado}. Es un mundo donde el estatus se reconoce al instante y se asigna en público.}
 
-\headingsix{Más adelante, Santiago no solo habla del contraste, sino que confronta a los ricos con un llamado fuerte (Santiago 5:1–6). Esto confirma que la desigualdad no es un tema abstracto; es una presión real dentro del mundo del texto.}
+\headingsix{Esa diferencia no queda como un simple ejemplo. Más adelante, Santiago habla de \scripture{los ricos} como gente con poder real para presionar a otros: \scripture{oprimen} y \scripture{arrastran a tribunales} (Santiago 2:6). Y en Santiago 5:1–6 la desigualdad aparece en su forma más concreta: lujo por un lado, y por el otro \scripture{jornal retenido} y \scripture{clamor} (Santiago 5:4). Así, el texto muestra una asimetría real dentro del mismo mundo: unos tienen posición y fuerza social; otros viven necesidad y vulnerabilidad.}
 
 \headingfive{Presión económica y explotación laboral}
 
@@ -61,21 +60,21 @@ La presión revela fractura o consistencia, y la carta llama a reorientación ha
 
 \headingsix{Santiago 4:13–17 presenta un ejemplo de planificación: \scripture{hoy o mañana… ciudad… un año… negocio… ganancia}. El texto lo usa porque suena familiar en ese mundo. Luego lo contrasta con la fragilidad del \scripture{mañana} y la vida como \scripture{vapor} (Santiago 4:14). Esto encaja con un contexto donde la vida diaria incluye riesgo económico, movilidad y expectativa de control.}
 
-\headingfive{Resumen: por qué este contexto importa para leer el flujo}
+\headingfive{ Cómo este contexto nos ayuda a seguir el hilo}
 
-\headingsix{Estas presiones del entorno (dispersión, diferencia de condición, tribunales, salarios, conflicto, palabra pública, planes) no son datos de color. El texto las usa para mostrar algo: bajo presión, se hace visible la orientación interior, y esa orientación se expresa hacia afuera en trato, palabra, decisiones y resultados.}
+\headingsix{Estas presiones del entorno (dispersión, diferencia de condición, tribunales, salarios, conflicto, palabra pública, planes) no son datos de color. El texto las usa para mostrar algo: bajo presión, se hace visible la orientación interior de uno, y esa orientación se expresa hacia afuera en trato, palabra, decisiones y resultados.}
 
 \headingsix{Por eso, al leer Santiago en este manual, notaremos dos cosas a la vez:}
 - el mundo del texto es social y concreto (no ideal),
 - y el objetivo del texto no es solo describir ese mundo, sino mostrar lo que la presión revela y hacia dónde empuja la carta.
 
-\headingfive{Extremos sociales dentro del mismo grupo (rico/pobre)}
+## Los destinatarios
 
-\headingsix{Santiago no asume solo \scripture{diferencias}. El texto muestra extremos claros dentro de la misma comunidad. En Santiago 2:2–3 entran dos personas con señales visibles opuestas: \scripture{anillo de oro} y \scripture{ropa lujosa} frente a \scripture{pobre} y \scripture{ropa sucia}. Luego el texto muestra una respuesta igualmente extrema: \scripture{un buen lugar} frente a \scripture{de pie / junto al estrado}.}
+\headingfive{La carta de Santiago está escrita a creyentes, y el texto lo deja claro de forma repetida, no solo por el saludo inicial. Desde el comienzo, Santiago se dirige a un pueblo identificado \scripture{las doce tribus… en la dispersión} (Santiago 1:1) y a lo largo de la carta vuelve a hablarles como familia de fe: \scripture{hermanos míos} (por ejemplo, Santiago 1:2; 2:1; 3:1; 4:11; 5:7), \scripture{mis amados hermanos} (Santiago 1:19) y \scripture{hermanos míos amados} (Santiago 2:5). También habla como a una comunidad que se reúne y vive junta \scripture{en su congregación}, (Santiago 2:2), y repite expresiones que sitúan el mensaje \scripture{dentro} del grupo: \scripture{entre ustedes} (Santiago 3:13, 4:1, 5:13, 5:14), \scripture{de entre ustedes} (Santiago 5:19) y \scripture{unos a otros} (Santiago 5:16). }
 
-\headingsix{El escrito además describe a \scripture{los ricos} como un grupo con capacidad de oprimir y arrastrar a tribunales (Santiago 2:6), y más adelante los confronta con evidencia concreta de explotación: jornal retenido y clamor (Santiago 5:4). Esto deja ver un entorno de asimetría real: unos tienen estatus y poder; otros viven necesidad y vulnerabilidad.}
+\headingfive{En otras palabras, Santiago no está dando consejos generales a un público anónimo; está corrigiendo, ordenando y guiando a una comunidad creyente concreta, a la que llama directamente a escuchar, responder y vivir de manera coherente bajo presión.}
 
-## Contenido del libro
+## El telos
 
 \headingfive{La carta de Santiago fue escrita para personas que no viven en \scripture{laboratorio}, sino en la vida real: dispersión, presión, tensión social y decisiones diarias.}
 
@@ -85,7 +84,7 @@ La presión revela fractura o consistencia, y la carta llama a reorientación ha
 
 \headingfive{Además, muchas presiones no son solo \scripture{internas}. Santiago habla en un mundo con diferencias fuertes entre ricos y pobres, con honor y vergüenza, con favoritismo y tribunales, con trabajo explotado y salarios retenidos, con rivalidades y competencia por posición. }
 
-\headingsix{Es un ambiente donde el trato a las personas se ve en público, y donde la lengua puede construir o destruir rápido. Por eso la carta no se puede leer como una lista suelta de consejos. Está escrita para una comunidad real, bajo presiones reales, en un contexto donde lo que uno valora y lo que uno dice sale a la luz en la práctica.}
+\headingsix{Es un ambiente donde el trato a las personas se ve en público, y donde la lengua puede construir o destruir rápidamente. Por eso la carta no debe ser leida como una lista suelta de consejos. Está escrita para una comunidad real, bajo presiones reales, en un contexto donde lo que uno valora y lo que uno dice sale a la luz en la práctica.}
 
 \headingfive{Pero Santiago no se queda principalmente describiendo la presión. La carta insiste en una pregunta más profunda: ¿qué muestra la presión cuando llega?}
 
@@ -98,9 +97,9 @@ La presión revela fractura o consistencia, y la carta llama a reorientación ha
 - \scripture{amistad con el mundo} y relación con Dios (Santiago 4:4).
 - planes seguros y el \scripture{mañana} que no se controla (Santiago 4:13–14).
 
-\headingfive{Santiago no presenta estas partes como asuntos independientes. El escrito avanza como un solo movimiento: la presión revela fractura o consistencia. Y lo que se revela termina produciendo resultados.}
+\headingfive{Santiago no presenta estas partes como asuntos independientes. El escrito avanza como un solo movimiento: la presión revela o bien fractura o revela consistencia. Y lo que se revela termina produciendo resultados.}
 
-\headingfive{Desde el inicio, la carta declara un propósito: \textbf{perfectos y completos, sin que nada les falte} (Santiago 1:4). Y también nombra el problema contrario: \textbf{doble ánimo… inestable} (Santiago 1:8). El resto del libro muestra cómo esa diferencia se manifiesta bajo presión, y cómo la carta llama continuamente a una reorientación hacia Dios.}
+\headingfive{Desde el inicio, la carta declara un propósito: para que sean  \textbf{perfectos y completos, sin que nada les falte} (Santiago 1:4). Y también nombra el problema contrario: \textbf{doble ánimo… inestable} (Santiago 1:8). El resto del libro muestra cómo esa diferencia se manifiesta bajo presión, y cómo la carta llama continuamente a una reorientación hacia Dios.}
 
 \headingfive{Con ese marco, este manual se presenta así:}
 > Santiago - Presión, orientación y plenitud
@@ -127,7 +126,7 @@ Santiago, siervo de Dios y del Señor Jesucristo: A las doce tribus que están e
 \headingsix{La carta no se construye como \scripture{opinión personal}, sino como exhortación dirigida a una comunidad real.}
 
 #### A las doce tribus que están en la dispersión: Saludos.
-\headingfive{El texto nombra a los destinatarios y su situación.}
+\headingfive{El texto nombra a los destinatarios y su situación. 1 Pedro 1:1; Hechos 8:1}
 
 \headingsix{No dice solo \scripture{a la iglesia} en general. Nombra un pueblo y lo ubica: \scripture{en la dispersión}.}
 
@@ -135,8 +134,8 @@ Santiago, siervo de Dios y del Señor Jesucristo: A las doce tribus que están e
 
 \headingsix{\scripture{Saludos} cierra la apertura y deja listo el paso inmediato a la exhortación del v.2.}
 
-\headingfive{Esto lleva a Santiago 1:2.}
-\headingsix{Después del saludo, el texto entra directo en instrucción bajo presión: \scripture{tengan por sumo gozo… cuando se hallen en diversas pruebas} (Santiago 1:2).}
+\headingfive{Esto introduce Santiago 1:2.}
+\headingsix{Después del saludo, el texto entra directo en instrucción bajo presión: \scripture{…cuando se hallen en diversas pruebas...} (Santiago 1:2).}
 
 # SANTIAGO 1:2–27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO
 
@@ -149,13 +148,13 @@ Tengan por sumo gozo, hermanos míos, cuando se hallen en diversas pruebas,
 #### Tengan por sumo gozo
 \headingfive{Santiago no empieza explicando; empieza dirigiendo la respuesta.}
 
-\headingsix{La primera frase es una instrucción: el texto dirige cómo debe contarse lo que viene (las \scripture{pruebas}.  }
+\headingsix{La primera frase es una instrucción: el texto dirige cómo debe contarse lo que viene las \scripture{pruebas}.  }
 
 \headingsix{No describe primero el problema; primero fija la postura con la que el lector entra al escenario.}
 
 \headingfive{El v.3 empieza con \scripture{sabiendo que…}, como base para esta instrucción.}
 
-\headingfive{Esta frase abre una cadena: pruebas (Santiago 1:2) -> produce (Santiago 1:3) -> resultado/propósito (Santiago 1:4).}
+\headingfive{Esta frase abre una cadena: pruebas (Santiago 1:2) → producen (Santiago 1:3) → resultado/propósito (Santiago 1:4).}
 
 #### hermanos míos
 \headingfive{El texto habla a personas concretas \scripture{hermanos míos}. }
@@ -166,14 +165,14 @@ Tengan por sumo gozo, hermanos míos, cuando se hallen en diversas pruebas,
 
 \headingsix{Esta forma de trato reaparece más adelante para introducir exhortaciones y correcciones; aquí instala ese marco desde el inicio.}
 
-#### cuando se hallen en diversas pruebas,
+#### ...cuando se hallen en diversas pruebas,
 \headingfive{La instrucción se activa en un escenario real y repetible.}
 
 \headingsix{\scripture{cuando} abre una condición: el texto asume que este escenario ocurre y puede repetirse.  }
 
 \headingsix{\scripture{diversas} amplía el alcance: no limita la instrucción a una sola clase de presión.}
 
-\headingsix{La línea queda abierta (coma). El v.3 continúa explicando qué está ocurriendo en ese escenario: \scripture{la prueba… produce…} (Santiago 1:3).}
+\headingsix{El v.3 continúa explicando qué está ocurriendo en ese escenario: \scripture{la prueba… produce…} (Santiago 1:3).}
 
 ### Santiago 1:3  
 \begin{verseblock}
@@ -182,11 +181,11 @@ sabiendo que la prueba de su fe produce paciencia,
 #### sabiendo que la prueba
 \headingfive{El texto da la base para lo que acaba de mandar en el v.2.}
 
-\headingsix{El v.2 mandó una respuesta: \scripture{tengan por sumo gozo… cuando… pruebas} (Santiago 1:2).  }
+\headingsix{El v.2 mandó a una respuesta: \scripture{tengan por sumo gozo… cuando… diversas pruebas} (Santiago 1:2).  }
 
 \headingsix{Ahora el v.3 empieza con \scripture{sabiendo que…}. Eso muestra que lo que sigue funciona como fundamento inmediato de esa instrucción.}
 
-\headingfive{El texto no avanza por temas sueltos. Avanza por una secuencia: escenario \scripture{pruebas} -> base \scripture{sabiendo que…} -> resultado \scripture{produce…} -> propósito \scripture{para que…} (Santiago 1:2–4).}
+\headingfive{El texto no avanza por temas sueltos. Avanza por una secuencia: escenario \scripture{pruebas} → base \scripture{sabiendo que…} → resultado \scripture{produce…} → propósito \scripture{para que…} (Santiago 1:2–4).}
 
 #### de su fe
 \headingfive{La prueba no queda general; el texto la enfoca.}
@@ -195,16 +194,16 @@ sabiendo que la prueba de su fe produce paciencia,
 
 \headingsix{Eso acota qué es lo que está bajo presión dentro del escenario de \scripture{diversas pruebas} (Santiago 1:2).}
 
-\headingfive{Esta frase conecta directamente el escenario del v.2 con la cadena que se va a desarrollar en v.3–4.}
+\headingfive{Esta frase conecta directamente el escenario del v.2 con la cadena que se va a desarrollar en los versículos 3–4.}
 
 #### produce paciencia,
-\headingfive{El texto presenta un primer resultado.}
+\headingfive{El texto presenta un primer resultado. }
 
-\headingsix{Aquí aparece una relación de salida: \scripture{la prueba… produce paciencia}.  }
+\headingsix{Aquí el texto muestra el fruto de lo anterior:  \scripture{la prueba… produce paciencia}.  }
 
 \headingsix{No es solo información; es el primer eslabón de la cadena que el texto va a completar en el v.4.}
 
-\headingfive{La coma deja la idea abierta. El v.4 sigue con el mismo hilo y mueve la palabra \scripture{paciencia} hacia un \scripture{resultado} y un \scripture{para que} (Santiago 1:4).}
+\headingfive{El v.4 sigue con el mismo hilo y mueve la palabra \scripture{paciencia} hacia un \scripture{resultado} y un \scripture{para que} (Santiago 1:4).}
 
 ### Santiago 1:4  
 \begin{verseblock}
@@ -215,28 +214,37 @@ y que la paciencia tenga su perfecto resultado, para que sean perfectos y comple
 
 \headingsix{El v.3 terminó con \scripture{produce paciencia}.  }
 
-\headingsix{El v.4 comienza con \scripture{y que}, y toma esa misma palabra \scripture{paciencia} para empujarla hacia un paso más: \scripture{tenga su perfecto resultado}.}
+\headingsix{El v.4 comienza con \scripture{y que}, y toma esa misma palabra \scripture{paciencia} para empujarla hacia un paso más: que la paciencia... \scripture{tenga su perfecto resultado}.}
 
-\headingfive{El texto no se conforma con decir \scripture{paciencia}. Indica qué debe pasar con esa paciencia: que llegue a un resultado.}
+\headingfive{El texto no se conforma con decir \scripture{paciencia}. Indica qué debe pasar con esa paciencia: que llegue a un resultado deseado. }
+
+\headingfive{¿Pero cuál es ese resultado?}
 
 #### para que sean perfectos y completos
-
 \headingfive{El texto declara el propósito del proceso.}
 
 \headingsix{\scripture{para que} introduce finalidad.  }
 
 \headingsix{La cadena no se queda en \scripture{prueba} ni en \scripture{paciencia}; apunta a un estado descrito con dos palabras: \scripture{perfectos y completos}.}
 
-\headingfive{Este \scripture{para que} es parte del mismo flujo: prueba (v.2–3) -> paciencia (v.3) -> resultado (v.4) -> propósito (v.4) (Santiago 1:2–4).}
+\headingfive{Este \scripture{para que} es parte del mismo flujo: prueba (v.2–3) → paciencia (v.3) → resultado (v.4) → propósito (v.4) (Santiago 1:2–4).}
 
 #### sin que nada les falte.
-\headingfive{El propósito se cierra con una definición negativa de carencia.}
+\headingfive{El propósito se cierra con una definición negativa de carencia. (2 Corintios 12:9-10)}
 
 \headingsix{El texto explica \scripture{perfectos y completos} con una frase final: \scripture{sin que nada les falte}. }
 
 \headingsix{Es una forma de cerrar el propósito con un límite claro: la idea termina en \scripture{no falta}.}
 
 \headingfive{Esto abre la puerta al siguiente movimiento: el v.5 re-entra con el mismo campo de \scripture{falta}, pero ya como caso concreto: \scripture{si a alguno… le falta sabiduría…} (Santiago 1:5).}
+
+> En Síntesis
+>- Vimos la sección: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un \scripture{resultado} completo.
+>- Esto se conectó con lo anterior: SANTIAGO 1:2–27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO.
+>- Anclas trabajadas: Santiago 1:1, Santiago 1:2, Santiago 1:3, Santiago 1:4.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo)
 
@@ -255,7 +263,7 @@ Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a 
 
 \headingsix{\scripture{si} abre un caso: contempla que esto puede ser real para alguno dentro del grupo.  }
 
-\headingsix{\scripture{a alguno de ustedes} mantiene el tono directo y pastoral de la carta (Santiago 1:2; Santiago 1:16).}
+\headingsix{\scripture{a alguno de ustedes} mantiene el tono directo y pastoral de la carta (Santiago 1:2, 16, 2:5, 3:10, 4:13, 5:1, 7).}
 
 #### que se la pida a Dios
 \headingfive{El texto asigna una respuesta clara al caso de \scripture{falta}.}
@@ -267,15 +275,15 @@ Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a 
 \headingfive{Esto prepara el siguiente paso: el v.6 no cambia de tema; regula cómo debe pedir.}
 
 #### quien da a todos abundantemente y sin reproche, y le será dada
-\headingfive{El texto caracteriza al dador y declara un resultado.}
+\headingfive{Aquí el texto no solo manda pedir. También describe la amplitud de cómo es Dios al dar.}
 
-\headingsix{\scripture{da a todos} amplía el alcance: la generosidad no se presenta como restringida a unos pocos.  }
+\headingsix{Primero dice \scripture{quien da a todos}. Eso abre el alcance. No suena a “solo a algunos” o “solo a los especiales”. Suena a un dador que no se guarda la mano.  Él \scripture{da a todos}.}
+\headingsix{Luego añade dos palabras que pintan el modo: \scripture{abundantemente} y \scripture{sin reproche}. El texto no solo dice \scripture{da}. Dice que da con amplitud, y que no acompaña el dar con regaño o humillación.}
 
-\headingsix{\scripture{abundantemente} y \scripture{sin reproche} describen el modo de dar.}
+\headingfive{Después de describir al dador, el texto cierra con una frase de resultado: \scripture{y le será dada}.}
 
-\headingfive{El texto termina el versículo con una declaración de resultado: \scripture{le será dada}.}
-
-\headingsix{Eso cierra el v.5 con expectativa de recepción, y deja listo el contraste del v.6: no toda forma de pedir es igual.}
+\headingsix{Esa línea deja una expectativa clara: pedir sabiduría no queda en el aire. El texto afirma una recepción.  }
+\headingsix{Esto prepara el contraste inmediato del v.6: si el v.5 dice \scripture{le será dada}, el v.6 empezará a regular cómo se pide, y mostrará que no toda forma de pedir se comporta igual en el flujo del pasaje. (Proverbios 2:3–6)}
 
 ### Santiago 1:6  
 \begin{verseblock}
@@ -284,33 +292,63 @@ Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del ma
 #### Pero que pida con fe, sin dudar
 \headingfive{El texto pone una condición inmediata sobre el pedir.}
 
-\headingsix{El v.5 mandó: \scripture{pídala a Dios} (Santiago 1:5).  }
+\headingsix{El v.5 mandó: \scripture{pídala a Dios} (Santiago 1:5).}
 
-\headingsix{El v.6 añade: \scripture{pero… con fe, sin dudar}. Es el mismo \scripture{pedir}, ahora regulado.}
+\headingsix{Santiago añade: \scripture{pero… con fe, sin dudar}. Es el mismo \scripture{pedir}, ahora regulado.}
 
 \headingfive{El contraste está dentro de la frase.}
 
 \headingsix{\scripture{con fe} y \scripture{sin dudar} van juntas: el texto pone lado a lado el modo requerido y el modo negado.}
 
+\headingfive{Este \scripture{con fe} no aparece de la nada: ya venía en la primera escena de presión.}
+
+\headingsix{En Santiago 1:2–3, la fe ya estaba presente dentro del lenguaje de pruebas: \scripture{la prueba de su fe produce paciencia} (Santiago 1:3).  }
+\headingsix{O sea, la presión del v.2 no solo trae \scripture{pruebas}; el texto ya las conectó con fe desde el principio.}
+
+\headingfive{Ahora, en Santiago 1:5–6, la fe reaparece, pero aplicada a otro momento de presión: pedir cuando hay falta.}
+
+\headingsix{Primero el texto dijo: \scripture{si le falta sabiduría… pídala a Dios} (Santiago 1:5).  }
+\headingsix{Inmediatamente después regula el pedir: \scripture{con fe, sin dudar} (Santiago 1:6). La misma fe que estaba en el marco de \scripture{prueba} (Santiago 1:3) ahora está requerida en el marco de \scripture{pedir} (Santiago 1:6).}
+
+\headingfive{En otras palabras, la carta amarra dos escenas con la misma palabra.}
+
+\headingsix{Fe bajo pruebas (Santiago 1:2–3).  }
+\headingsix{Fe al pedir sabiduría en medio de la falta (Santiago 1:5–6).  }
+
+\headingsix{Primero, la presión viene desde afuera y pone la fe \scripture{bajo peso}.}
+\headingsix{En Santiago 1:2–3, el escenario es externo: \scripture{diversas pruebas} (Santiago 1:2).}
+\headingsix{En ese escenario, el texto no habla de fe como idea suelta, sino como algo que entra en prueba: \scripture{la prueba de su fe} (Santiago 1:3).}
+
+\headingsix{Y el texto conecta esa prueba con un efecto.}
+\headingsix{No deja la prueba como puro sufrimiento. Dice que \scripture{produce paciencia} (Santiago 1:3), y en el v.4 esa paciencia es empujada hacia un \scripture{resultado} y un propósito (Santiago 1:4).}
+
+\headingsix{Segundo, cuando hay falta de sabiduría, la presión se siente por dentro y el texto vuelve a pedir fe.}
+\headingsix{En Santiago 1:5 el caso es interno y personal: \scripture{si a alguno… le falta sabiduría} (Santiago 1:5).}
+\headingsix{Y en Santiago 1:6 el texto regula el pedir con la misma palabra: \scripture{pida con fe, sin dudar} (Santiago 1:6).}
+
+\headingsix{En otras palabras, “fe” amarra dos escenas distintas.}
+\headingsix{En una, la fe queda bajo el peso de circunstancias externas (\scripture{pruebas}).}
+\headingsix{En la otra, la fe queda bajo el peso de una necesidad interna (\scripture{falta} al pedir).}
+
 #### Porque el que duda es semejante a la ola del mar,
 \headingfive{El texto explica la condición usando una comparación.}
 
-\headingsix{\scripture{Porque} muestra que el texto no solo ordena; también da una base.  }
+\headingsix{\scripture{Porque} muestra que el texto no solo ordena; también da una base. }
 
 \headingsix{\scripture{el que duda} retoma lo que acaba de negar \scripture{sin dudar} y lo convierte en sujeto del ejemplo.}
 
-\headingfive{\scripture{es semejante} instala una imagen que necesita ser completada.}
+\headingfive{\scripture{es semejante} instala una imagen de comparación que necesita ser completada.}
 
 \headingsix{La comparación no se entiende sola; el texto la desarrolla en la siguiente frase.}
 
 #### impulsada por el viento y echada de una parte a otra.
-\headingfive{La imagen describe movimiento sin estabilidad.}
+\headingfive{La imagen pinta algo que no se sostiene en una dirección. No se mueve por decisión propia, sino por empuje desde afuera: el viento la empuja y la va tirando de un lado al otro.}
 
 \headingsix{Dos descripciones se acumulan: \scripture{impulsada} y \scripture{echada}.  }
 
 \headingsix{La dirección cambia: \scripture{de una parte a otra}. El punto es variación, no firmeza.}
 
-\headingfive{Esto prepara el v.7: el texto pasará de imagen a consecuencia sobre \scripture{recibir}.}
+\headingfive{Esto prepara el v.7: el texto pasará de imagen a consecuencia en cuanto a  \scripture{recibir}.}
 
 ### Santiago 1:7  
 \begin{verseblock}
@@ -322,9 +360,7 @@ No piense, pues, ese hombre, que recibirá cosa alguna del Señor,
 \headingsix{\scripture{ese hombre} retoma al sujeto inmediato: \scripture{el que duda} (Santiago 1:6).  }
 \headingsix{El texto regula lo que esa persona debe esperar: \scripture{no piense…}.}
 
-\headingfive{La prohibición funciona como freno.}
-
-\headingsix{Detiene una suposición antes de declarar el resultado.}
+\headingsix{La prohibición aquí corta el paso. Primero detiene lo que esa persona podría asumir, y después el texto dice claramente cuál es el resultado.}
 
 #### que recibirá cosa alguna del Señor,
 \headingfive{El texto declara un resultado negado: no recibir.}
@@ -332,8 +368,6 @@ No piense, pues, ese hombre, que recibirá cosa alguna del Señor,
 \headingsix{En 1:5 se dijo \scripture{le será dada} (resultado afirmado).  }
 
 \headingsix{Aquí se declara el contraste para el que duda: no recibirá.}
-
-\headingfive{El versículo queda abierto (coma).}
 
 \headingsix{El v.8 completará con una descripción del tipo de persona que el texto tiene en vista.}
 
@@ -355,13 +389,21 @@ siendo hombre de doble ánimo, inestable en todos sus caminos.
 #### inestable en todos sus caminos.
 \headingfive{El texto amplía el alcance de la inestabilidad.}
 
-\headingsix{\scripture{inestable} toma la imagen de 1:6 (de una parte a otra) y la convierte en una descripción directa.  }
+\headingsix{\scripture{inestable} toma la imagen de 1:6 (de una parte a otra) y la convierte en una descripción directa.  Es como una ola del mar, que es soplado de aquí para allá por el viento. }
 
-\headingsix{\scripture{en todos sus caminos} amplía: no limita el problema a un momento de oración; lo describe como patrón.}
+\headingsix{\scripture{en todos sus caminos} amplía: no limita el problema a un momento de oración; lo describe como patrón. }
 
 \headingfive{Esto prepara el siguiente movimiento (1:9–12).}
 
-\headingsix{El texto pasará a contrastes de condición (humilde/rico) y a evaluaciones bajo presión, manteniendo el hilo de \scripture{estabilidad vs variación}.}
+\headingsix{El texto pasará a contrastes de condición (humilde/rico) y a evaluaciones bajo presión, manteniendo el hilo de estabilidad vs variación.}
+
+> En Síntesis
+>- Vimos la sección: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
+>- Esto se conectó con lo anterior: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un \scripture{resultado} completo.
+>- Anclas trabajadas: Santiago 1:5, Santiago 1:6, Santiago 1:7, Santiago 1:8.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico)
 
@@ -405,7 +447,7 @@ y el rico en su humillación, pues él pasará como la flor de la hierba.
 \headingfive{El texto obliga a mirar la condición \scripture{rico} desde otro ángulo dentro de esta unidad.}
 
 #### pues él pasará como la flor de la hierba.
-\headingfive{El texto da una razón y la empuja hacia lo temporal.}
+\headingfive{El texto da una razón y la empuja hacia lo temporal. }
 
 \headingsix{\scripture{pues} introduce base/explicación para lo que acaba de decir sobre el \scripture{rico}.  }
 
@@ -418,18 +460,18 @@ y el rico en su humillación, pues él pasará como la flor de la hierba.
 Porque el sol sale con calor abrasador y seca la hierba, y su flor se cae y la hermosura de su apariencia perece. Así también se marchitará el rico en medio de sus empresas.
 \end{verseblock}
 #### Porque el sol sale con calor abrasador y seca la hierba
-\headingfive{El texto sostiene la afirmación anterior con una imagen de proceso.}
+\headingfive{El texto sostiene la afirmación anterior con una imagen de proceso. Isaías 40:6-8}
 
 \headingsix{\scripture{Porque} indica que el v.11 explica el \scripture{pasará} del v.10.  }
 
 \headingsix{El texto describe un proceso con verbos de acción: el sol \scripture{sale} y \scripture{seca}.}
 
-\headingfive{La imagen no es instantánea. Es secuencial y prepara una caída.}
+\headingfive{La imagen no es instantánea. Es secuencial y prepara una caída. 1 Pedro 1:24–25; Salmo 103:15–16.}
 
 #### y su flor se cae y la hermosura de su apariencia perece.
-\headingfive{El texto completa la secuencia con caída y pérdida.}
+\headingfive{El texto completa la secuencia con caída y pérdida. No niega que la flor no tenía apariencia hermosa en un momento dado, pero va fue breve. }
 
-\headingsix{La cadena se intensifica: \scripture{se cae} y luego \scripture{perece}.  }
+\headingsix{Después de un día de \scripture{calor abrasador}, el resultado claro es: \scripture{se cae} y luego \scripture{perece}.  }
 
 \headingsix{Se acumulan efectos. El punto es deterioro y pérdida de lo visible.}
 
@@ -438,9 +480,24 @@ Porque el sol sale con calor abrasador y seca la hierba, y su flor se cae y la h
 #### Así también se marchitará el rico en medio de sus empresas.
 \headingfive{El texto aplica la imagen al \scripture{rico} de manera explícita.}
 
-\headingsix{\scripture{Así también} hace la correspondencia directa: imagen -> referente.  }
+\headingsix{\scripture{Así también} hace la correspondencia directa: imagen → referente.  }
 
 \headingsix{\scripture{se marchitará} retoma la línea de deterioro y la asigna al \scripture{rico}.}
+
+\headingfive{En Santiago 1:9–11, el contraste “humilde/rico” aparece dentro del mismo tramo que empezó con \scripture{diversas pruebas} (Santiago 1:2). El texto continúa su flujo y añade estos casos.}
+
+\headingsix{En estos versículos, el texto presenta dos casos lado a lado (Santiago 1:9–10). En ambos usa el mismo verbo: \scripture{se gloríe}. }
+
+gloríese - καυχάσθω (kauchásthō)
+: ponerse valor o contarse a sí mismo “en” algo; gloriarse en ello.
+
+\headingsix{Primero: \scripture{que el hermano de condición humilde se gloríe en su alta posición} (Santiago 1:9). Luego: \scripture{y el rico en su humillación} (Santiago 1:10). El contraste no está solo en “humilde/rico”, sino en cómo el texto empareja cada uno con una valoración opuesta (alta posición / humillación).}
+
+\headingsix{Después, Santiago 1:10 añade una razón: \scripture{pues él pasará como la flor de la hierba}. Santiago 1:11 sostiene esa razón con un “Porque…” y desarrolla la imagen con una secuencia de acciones: el sol sale con calor abrasador, seca la hierba, la flor se cae, la hermosura perece. Luego el texto conecta la imagen con el “rico” por medio de \scripture{Así también}: \scripture{Así también se marchitará el rico en medio de sus empresas} (Santiago 1:11).}
+
+\headingsix{En otras palabras, el pasaje hace tres cosas seguidas: (1) pone dos casos en contraste (humilde/rico), (2) usa el mismo verbo para ambos (\scripture{gloriarse}) pero con dos direcciones opuestas, y (3) apoya lo dicho sobre el “rico” con una razón (\scripture{pues…}) que es desarrollada por una imagen (\scripture{Porque…}) y aplicada con \scripture{Así también…}.}
+
+\headingsix{Este contraste rico/pobre aparece de nuevo en el escenario de la reunión (Santiago 2:2–3), y el “rico” vuelve a aparecer con fuerza en Santiago 5:1–6.}
 
 \headingfive{Con esto, 1:9–11 cierra su contraste humilde/rico con una base desarrollada (no solo una afirmación breve).}
 
@@ -449,13 +506,15 @@ Porque el sol sale con calor abrasador y seca la hierba, y su flor se cae y la h
 Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sido aprobado, recibirá la corona de la vida que el Señor ha prometido a los que lo aman.
 \end{verseblock}
 #### Bienaventurado el hombre que persevera bajo la prueba
-\headingfive{El texto vuelve a la \scripture{prueba} y declara una evaluación.}
+\headingfive{El texto vuelve a la palabra \scripture{prueba} y declara una evaluación.}
 
 \headingsix{\scripture{Bienaventurado} declara un juicio de estado.  }
 
-\headingsix{\scripture{persevera} marca continuidad en el tiempo: permanecer bajo presión.}
+\headingsix{\scripture{persevera} marca continuidad en el tiempo: el que persevera, permanece bajo presión.}
 
-\headingfive{\scripture{bajo la prueba} conecta con el inicio del bloque (Santiago 1:2–4). La palabra \scripture{prueba} vuelve y amarra esta sección con el comienzo.}
+\headingfive{\scripture{bajo la prueba} conecta con el inicio del bloque (Santiago 1:2–4). La palabra \scripture{prueba} vuelve y amarra esta sección con el comienzo. }
+
+\headingsix{Claramente no ha dejado de hablar de prueba desde que inicío la carta. }
 
 #### porque una vez que ha sido aprobado,
 \headingfive{El texto explica la evaluación y marca un punto de llegada.}
@@ -464,7 +523,7 @@ Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sid
 
 \headingsix{\scripture{una vez que ha sido aprobado} marca un resultado de la prueba: llega a un punto llamado \scripture{aprobado}.}
 
-\headingfive{Esta frase abre el resultado final del versículo: \scripture{recibirá…}.}
+\headingfive{¿En que sentido es aprovado?¿Qué significa ser aprobado?}
 
 #### recibirá la corona de la vida que el Señor ha prometido a los que lo aman.
 \headingfive{El texto declara un resultado y lo amarra a una promesa.}
@@ -475,9 +534,17 @@ Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sid
 
 \headingsix{\scripture{ha prometido} presenta el resultado como promesa del Señor, no como deducción del lector.}
 
-\headingfive{Esto prepara el v.13.}
+\headingfive{Esto prepara el camino para v.13.}
 
 \headingsix{El v.13 comenzará a regular lo que alguien \scripture{dice} cuando es tentado. El texto pasará de \scripture{prueba} (1:12) a \scripture{tentación} (1:13), manteniendo el tema de presión pero ajustando el enfoque.}
+
+> En Síntesis
+>- Vimos la sección: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+>- Esto se conectó con lo anterior: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
+>- Anclas trabajadas: Santiago 1:9, Santiago 1:10, Santiago 1:11, Santiago 1:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:13–15 - La pasión interna avanza hasta producir muerte
 
@@ -486,7 +553,7 @@ Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sid
 Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie.
 \end{verseblock}
 #### Que nadie diga cuando es tentado:
-\headingfive{El texto controla lo que se atribuye en el momento de tentación.}
+\headingfive{El texto controla lo que se atribuye como fuente en el momento de tentación.}
 
 \headingsix{\scripture{Que nadie diga} es una prohibición amplia. No va dirigida a un caso raro; cubre a cualquiera.  }
 
@@ -496,7 +563,7 @@ Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede
 
 \headingsix{En 1:12 se habló de \scripture{prueba} y de un resultado declarado. Ahora 1:13 toma otro lado de la presión \scripture{tentación} y regula la atribución.}
 
-#### «Soy tentado por Dios».
+#### Soy tentado por Dios.
 \headingfive{El texto cita la frase que prohíbe.}
 
 \headingsix{No corrige en general; pone en boca una afirmación específica para negarla.  }
@@ -529,7 +596,7 @@ Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede
 
 \headingfive{Esto abre la alternativa del v.14.}
 
-\headingsix{El v.14 empieza con \scripture{Sino que…}, dando el contraste directo: no Dios, sino otro origen/proceso.}
+\headingsix{El v.14 empieza con \scripture{Sino que…}, dando el contraste directo: no Dios, sino otro origen o proceso.}
 
 ### Santiago 1:14  
 \begin{verseblock}
@@ -549,9 +616,9 @@ Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.
 #### cuando es llevado y seducido
 \headingfive{El texto describe el proceso con dos acciones.}
 
-\headingsix{\scripture{cuando} marca el momento/condición del proceso.  }
+\headingsix{\scripture{cuando} marca el momento o condición del proceso.  }
 
-\headingsix{Dos verbos describen el movimiento: \scripture{llevado} y \scripture{seducido}. La tentación se presenta como arrastre/atracción, no como evento instantáneo.}
+\headingsix{Dos verbos describen el movimiento: \scripture{llevado} y \scripture{seducido}. La tentación se presenta como arrastre o atracción, no como evento instantáneo.}
 
 \headingfive{Esto prepara el motor del proceso.}
 
@@ -560,29 +627,31 @@ Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.
 #### por su propia pasión.
 \headingfive{El texto asigna el motor al interior del sujeto.}
 
-\headingsix{\scripture{por} introduce causa/medio: el proceso ocurre \scripture{por} algo.  }
+\headingsix{\scripture{por} introduce causa o medio: el proceso ocurre \scripture{por} algo.  }
 
-\headingsix{\scripture{su propia} marca pertenencia: el impulso no se atribuye a un agente externo en este versículo; se atribuye al interior del sujeto.  }
+\headingsix{\scripture{su propia} marca pertenencia: el impulso no se atribuye a un agente externo en este versículo; }
+- no proviene de Dios
+- no es algo externo
+- se atribuye al interior del sujeto.
 
 \headingsix{\scripture{pasión} nombra ese motor interno.}
 
 \headingfive{Esto empuja al v.15.}
 
-\headingsix{El v.15 continúa la misma línea y muestra una secuencia: pasión -> pecado -> muerte.}
+\headingsix{El v.15 continúa la misma línea y desarrolla una secuencia: pasión → pecado → muerte.}
 
 ### Santiago 1:15  
 \begin{verseblock}
 Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.
 \end{verseblock}
 #### Después cuando la pasión ha concebido,
-\headingfive{El texto marca progresión y etapa.}
+\headingfive{El texto marca progresión y etapa. }
 
-\headingsix{\scripture{Después} muestra que el texto está describiendo una secuencia, no un momento aislado.  }
+\headingsix{\scripture{Después} muestra que el texto está describiendo una secuencia, no un momento aislado. }
 
 \headingsix{\scripture{cuando la pasión ha concebido} presenta una etapa dentro del proceso con lenguaje de comienzo (concepción).}
 
 \headingfive{La frase queda abierta hacia el resultado inmediato.}
-
 \headingsix{Lo que sigue responde: ¿qué produce esa concepción?}
 
 #### da a luz el pecado;
@@ -590,33 +659,71 @@ Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado
 
 \headingsix{\scripture{da a luz} mantiene el mismo campo de imagen iniciado con \scripture{ha concebido}.  }
 
-\headingsix{El resultado nombrado es \scripture{el pecado}. No es una sugerencia; está declarado como producto de la etapa anterior.}
+\headingsix{Por inferencia, "la concepción" es usado para ilustrar un evento interno que resulta en algo evidente, el "nacimiento".  }
 
-\headingfive{El punto y coma mantiene la continuidad.}
+\headingsix{El resultado nombrado es \scripture{el pecado}. No es una sugerencia; está declarado como producto de la etapa anterior. La "concepción" resulta en "dar a luz". }
 
 \headingsix{El texto todavía no termina la cadena; añade una segunda etapa.}
 
 #### y cuando el pecado es consumado,
 \headingfive{El texto añade una segunda condición dentro de la misma secuencia.}
 
-\headingsix{\scripture{y cuando} añade otra etapa sin cortar el hilo.  }
+\headingsix{\scripture{y cuando}  añade otra etapa sin cortar el hilo.  }
 
-\headingsix{\scripture{es consumado} marca culminación del \scripture{pecado} ya nombrado. El texto describe un proceso que llega a completarse.}
+\headingsix{El lenguaje de \scripture{después} v.14 / \scripture{luego}v.15* hace claro que hay una sucesión de eventos. Santiago 1:15 hace explícita la dirección de la cadena: el deseo va primero y lleva al pecado. }
+
+\headingsix{\scripture{es consumado} marca culminación del \scripture{pecado} ya nombrado. El texto describe un proceso que llega a completarse. }
+
+\headingsix{Santiago 1:14-15 presenta una secuencia donde el deseo resulta en pecado. }
 
 \headingfive{Esta frase prepara el resultado final.}
 
 \headingsix{El texto cierra la cadena con un verbo de producción.}
 
 #### engendra la muerte.
-\headingfive{El texto cierra la cadena con un resultado final.}
+\headingfive{El texto cierra la cadena con un resultado final. }
 
 \headingsix{\scripture{engendra} continúa el lenguaje de producción (concepción/nacimiento).  }
 
-\headingsix{\scripture{la muerte} aparece como resultado final del proceso descrito en 1:14–15.}
+\headingsix{\scripture{la muerte} aparece como resultado final del proceso descrito en 1:14–15.  Génesis 3:6; Romanos 7:7–11; Proverbios 7:21–27.}
 
-\headingfive{Esto prepara 1:16.}
+\headingfive{Santiago 1:13–15 es una triada donde el texto ata el tramo con una cadena interna explícita: \scripture{Sino que…} (Santiago 1:14) y \scripture{Después…} (Santiago 1:15).}
+\headingsix{Una fuente negada queda clara (Santiago 1:13): no se atribuye a Dios; y la fuente afirmada también queda clara (Santiago 1:14): \scripture{su propia pasión}.}
 
-\headingsix{Después de cerrar la cadena (pasión -> pecado -> muerte), 1:16 introduce una advertencia breve \scripture{no se engañen}, funcionando como corrección inmediata antes del bloque de origen \scripture{de lo alto} (1:17–18).}
+\headingsix{Luego el texto marca la dirección con \scripture{después} y \scripture{luego}: }
+- \scripture{la pasión… da a luz el pecado…}
+- \scripture{engendra la muerte}
+
+\headingfive{Armonía con Romanos 6}
+\headingsix{Romanos describe el problema con lenguaje de dominio y obediencia: \scripture{no reine el pecado en su cuerpo mortal para que ustedes no obedezcan a sus lujurias} (Romanos 6:12).}
+
+\headingsix{Santiago 1:14–15 muestra esa misma lógica desde adentro y en secuencia: }
+- la persona es “llevada y seducida” por \scripture{su propia pasión};
+- luego, \scripture{Después…}, esa pasión \scripture{da a luz} el pecado,
+- y el pecado “engendra” la muerte (Santiago 1:14–15).
+
+\headingsix{Romanos también habla de \scripture{instrumentos}: }
+- no presenten sus miembros \scripture{como instrumentos de iniquidad} (Romanos 6:13).
+
+\headingsix{Santiago nombra el momento en que esa \scripture{iniquidad} sale a la luz como resultado del proceso: \scripture{da a luz el pecado} (Santiago 1:15).}
+
+\headingsix{En ambos textos, el final nombrado coincide: }
+- muerte (Santiago 1:15).
+- muerte (Romanos 6:23).
+
+\headingsix{Así, Romanos usa el lenguaje de reinar/obedecer/instrumentos, y Santiago usa el lenguaje de llevado/seducido/concebir/dar a luz/engendrar, pero ambos describen el mismo movimiento hacia el mismo resultado (Santiago 1:14–15; Romanos 6:12–13; Romanos 6:23).}
+
+\headingfive{Esto prepara para el ingreso de 1:16.}
+
+\headingsix{Después de cerrar la cadena (pasión → pecado → muerte), 1:16 introduce una advertencia breve \scripture{no se engañen}, funcionando como corrección inmediata antes del bloque de origen \scripture{de lo alto} (Santiago 1:17–18).}
+
+> En Síntesis
+>- Vimos la sección: Santiago 1:13–15 - La pasión interna avanza hasta producir muerte.
+>- Esto se conectó con lo anterior: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+>- Anclas trabajadas: Santiago 1:12, Santiago 1:13, Santiago 1:14, Santiago 1:15.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto
 
@@ -640,11 +747,11 @@ Amados hermanos míos, no se engañen.
 
 \headingsix{Es una advertencia breve y directa. No explica aquí; primero frena.  }
 
-\headingsix{\scripture{no se engañen} funciona como bisagra: después de la cadena \scripture{pasión -> pecado -> muerte} (Santiago 1:15), el texto bloquea una lectura errada antes de avanzar.}
+\headingsix{\scripture{no se engañen} funciona como bisagra: después de la cadena \scripture{pasión} → \scripture{pecado} → \scripture{muerte} (Santiago 1:15), el texto bloquea una lectura errada antes de avanzar.}
 
-\headingfive{Esto empuja al siguiente versículo.}
+\headingfive{Esto prepara para siguiente versículo.}
 
-\headingsix{El v.17 sigue como corrección de marco: lo que es \scripture{bueno} no se atribuye a la cadena anterior; el texto lo ubica \scripture{de lo alto} (Santiago 1:17).}
+\headingsix{El v.17 sigue como corrección de marco: lo que es \scripture{bueno} no se atribuye a la cadena anterior; el texto lo ubica \scripture{de lo alto} (Santiago 1:17, 13). }
 
 ### Santiago 1:17  
 \begin{verseblock}
@@ -662,7 +769,6 @@ Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de 
 \headingsix{En 1:13–15 se describió un proceso interno que termina en \scripture{muerte}. Aquí el texto instala otro marco: lo \scripture{bueno} tiene otro origen (Santiago 1:17).}
 
 #### desciende del Padre de las luces,
-
 \headingfive{El texto repite la dirección y nombra al dador.}
 
 \headingsix{No solo dice \scripture{de lo alto}; añade \scripture{desciende}. El origen queda subrayado dos veces (viene / desciende).  }
@@ -685,7 +791,6 @@ Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de 
 \headingsix{En 1:6 la duda fue comparada con movimiento \scripture{de una parte a otra}, y en 1:8 se nombró \scripture{inestable}. Aquí se presenta un contraste de estabilidad en el dador, sin sacar conclusiones todavía (Santiago 1:6–8; Santiago 1:17).}
 
 \headingfive{Esto empuja al v.18.}
-
 \headingsix{El v.18 pasará de lo general \scripture{toda dádiva…} a una acción específica \scripture{Él nos hizo nacer…}.}
 
 ### Santiago 1:18  
@@ -693,7 +798,7 @@ Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de 
 En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, para que fuéramos las primicias de sus criaturas.
 \end{verseblock}
 #### En el ejercicio de Su voluntad
-\headingfive{El texto marca intención.}
+\headingfive{El texto marca intención. Malaquías 3:6; Números 23:19; 1 Pedro 1:23; Juan 17:17.}
 
 \headingsix{Lo que sigue se enmarca en \scripture{Su voluntad}. No se presenta como accidente.  }
 
@@ -717,7 +822,6 @@ En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, par
 \headingsix{En 1:19–27 el texto hablará de oír, hablar, recibir y hacer, y allí \scripture{la palabra} vuelve a ser central (Santiago 1:19–22).}
 
 #### para que fuéramos las primicias de sus criaturas.
-
 \headingfive{El texto declara propósito con \scripture{para que}.}
 
 \headingsix{\scripture{para que} introduce finalidad, igual que en 1:4 \scripture{para que sean…}.  }
@@ -736,6 +840,13 @@ En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, par
 
 \headingsix{El v.19 volverá a la exhortación directa (oír/hablar/ira), llevando el flujo desde origen/palabra hacia respuesta práctica.}
 
+> En Síntesis
+>- Vimos la sección: Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto.
+>- Anclas trabajadas: Santiago 1:15, Santiago 1:16, Santiago 1:17, Santiago 1:18.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 1:19–27 - La fractura se ve en el habla y en oír sin hacer
 
 ### Santiago 1:19  
@@ -747,7 +858,7 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 
 \headingsix{Antes de mandar, el texto afirma: \scripture{esto lo saben}.  }
 
-\headingsix{Eso prepara una exhortación directa, no una discusión larga. El movimiento es: ya lo saben -> ahora actúen en esa dirección.}
+\headingsix{Eso prepara una exhortación directa, no una discusión larga. El movimiento es: ya lo saben → ahora actúen en esa dirección.}
 
 \headingfive{Esto también conecta con lo que acaba de decir.}
 
@@ -778,7 +889,6 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 \headingsix{La misma estructura continúa: tardo para hablar, tardo para la ira.}
 
 #### tardo para hablar,
-
 \headingfive{El texto frena el habla.}
 
 \headingsix{En la misma línea, el texto pone límite al hablar: \scripture{tardo}.  }
@@ -792,7 +902,7 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 #### tardo para la ira;
 \headingfive{El texto frena la reacción.}
 
-\headingsix{La tercera parte completa la triada: oír -> hablar -> ira.  }
+\headingsix{La tercera parte completa la triada: oír → hablar → ira.  }
 
 \headingsix{El \scripture{;} deja la frase abierta para la razón inmediata del v.20.}
 
@@ -805,21 +915,35 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 pues la ira del hombre no obra la justicia de Dios.
 \end{verseblock}
 #### pues la ira del hombre no
-\headingfive{El texto da la razón inmediata de la triada.}
+\headingfive{El v.20 está pegado al v.19 y explica una parte específica de esa triada.}
 
-\headingsix{\scripture{pues} muestra continuidad: el v.20 existe como base del v.19.  }
+\headingsix{En Santiago 1:19 hay tres disposiciones en orden: \scripture{pronto para oír}, \scripture{tardo para hablar}, \scripture{tardo para la ira}.}
+\headingsix{El v.20 empieza con \scripture{pues}, y por eso se lee como la razón inmediata de lo que acaba de decirse, especialmente de \scripture{tardo para la ira} (Santiago 1:19–20).}
 
-\headingsix{No es un tema nuevo; es el fundamento del llamado a ser \scripture{tardo para la ira}.}
+\headingfive{Aquí el texto no está describiendo \scripture{toda emoción humana}. Está nombrando una respuesta concreta: \scripture{ira}.}
 
-\headingfive{El texto marca un resultado negado.}
+\headingsix{El sujeto de la frase es \scripture{la ira del hombre}.}
+\headingsix{La frase no discute casos ni excepciones. Solo declara una relación directa con un resultado.}
 
-\headingsix{\scripture{la ira del hombre} queda conectada con \scripture{no obra} y con \scripture{la justicia de Dios}.  }
+#### obra la justicia de Dios.
+\headingfive{El punto del v.20 está en el verbo: \scripture{no obra}.}
 
-\headingsix{La frase es una línea de resultado: algo no produce/obra lo que se nombra.}
+\headingsix{\scripture{obra} aquí es lenguaje de salida/efecto: qué produce una cosa.}
+\headingsix{El texto dice que esta respuesta (\scripture{ira del hombre}) no produce el resultado nombrado (\scripture{la justicia de Dios}).}
 
-\headingfive{Esto empuja al siguiente paso lógico.}
+- En una sola línea, el texto hace una cadena mínima: ira → no obra → justicia de Dios.
 
-\headingsix{El v.21 empieza con \scripture{Por lo cual…}, tomando esta base y derivando una instrucción.}
+\headingfive{Esto encaja con el patrón de “produce / resultado” que ya viene corriendo desde 1:2.}
+
+\headingsix{Santiago 1:3: \scripture{produce} paciencia.}
+\headingsix{Santiago 1:4: paciencia → \scripture{tenga su perfecto resultado}.}
+\headingsix{Santiago 1:20: ira → \scripture{no obra} la justicia de Dios.}
+
+\headingsix{Santiago nombra varias fuerzas internas en el capítulo 1. En 1:14–15 habla de \scripture{su propia pasión} y muestra una cadena (pasión → pecado → muerte). En 1:20 nombra \scripture{la ira del hombre} y declara otro resultado: esa ira \scripture{no obra} la justicia de Dios. El texto no las iguala con una definición, pero las coloca dentro del mismo tipo de lógica de “lo interno” que termina produciendo un efecto.}
+
+\headingfive{Esto empuja al siguiente paso (Santiago 1:21).}
+
+\headingsix{El v.21 empieza con \scripture{Por lo cual…}, o sea, toma esta base y deriva una instrucción que sigue en la misma línea de respuesta bajo presión (Santiago 1:21).}
 
 ### Santiago 1:21  
 \begin{verseblock}
@@ -869,7 +993,7 @@ Sean hacedores de la palabra y no solamente oidores que se engañan a sí mismos
 
 \headingsix{Después de \scripture{reciban… la palabra} (1:21), el texto pasa a \scripture{sean hacedores}.  }
 
-\headingsix{El movimiento es claro: recibir -> hacer.}
+\headingsix{El movimiento es claro: recibir → hacer.}
 
 \headingfive{Esto mantiene el foco en \scripture{palabra}.}
 
@@ -924,8 +1048,6 @@ Porque si alguien es oidor de la palabra, y no hacedor, es semejante a un hombre
 
 \headingsix{La imagen es simple: mirar el propio rostro en un espejo. No habla de otros; habla de uno mismo.}
 
-\headingfive{El versículo termina en punto y coma.}
-
 \headingsix{Eso mantiene la ilustración abierta. La secuencia se completa en 1:24 y se contrasta en 1:25 (Santiago 1:24–25).}
 
 ### Santiago 1:24  
@@ -958,10 +1080,12 @@ pues después de mirarse a sí mismo e irse, inmediatamente se olvida de qué cl
 \begin{verseblock}
 Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permanece en ella, no habiéndose vuelto un oidor olvidadizo sino un hacedor eficaz, este será bienaventurado en lo que hace.
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Mateo 7:24–27; Lucas 11:28; Ezequiel 33:31–32)}
+
 #### Pero el que mira atentamente a la ley perfecta,
 \headingfive{El texto gira al caso contrario.}
 
-\headingsix{\scripture{Pero} marca contraste directo con el caso del espejo (mirar -> irse -> olvidar).  }
+\headingsix{\scripture{Pero} marca contraste directo con el caso del espejo (mirar → irse → olvidar).  }
 
 \headingsix{\scripture{el que} introduce otro caso general, paralelo al \scripture{si alguien} de 1:23.}
 
@@ -1018,7 +1142,7 @@ Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permane
 
 \headingsix{\scripture{este será} conecta el resultado con el caso descrito (no con otro).  }
 
-\headingsix{\scripture{bienaventurado} ya apareció en 1:12. Aquí vuelve como evaluación declarada dentro del bloque de \scripture{palabra -> respuesta} (Santiago 1:12; Santiago 1:25).}
+\headingsix{\scripture{bienaventurado} ya apareció en 1:12. Aquí vuelve como evaluación declarada dentro del bloque de \scripture{palabra → respuesta} (Santiago 1:12; Santiago 1:25).}
 
 \headingfive{Esto cierra la ilustración y prepara 1:26–27.}
 
@@ -1071,6 +1195,8 @@ Si alguien se cree religioso, pero no refrena su lengua, sino que engaña a su p
 \begin{verseblock}
 La religión pura y sin mancha delante de nuestro Dios y Padre es esta: visitar a los huérfanos y a las viudas en sus aflicciones, y guardarse sin mancha del mundo.
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Proverbios 10:19; Proverbios 18:21)}
+
 #### La religión pura y sin mancha delante de nuestro Dios y Padre
 \headingfive{El texto presenta la contraparte positiva del v.26.}
 
@@ -1115,6 +1241,14 @@ La religión pura y sin mancha delante de nuestro Dios y Padre es esta: visitar 
 \headingsix{1:26–27 cierra con evaluación y definición en términos observables (lengua; acciones).  }
 
 \headingsix{2:1 abrirá un escenario comunitario \scripture{no tengan… favoritismo}, donde lo visible en la vida comunitaria será puesto bajo presión (Santiago 2:1).}
+
+> En Síntesis
+>- Anclas trabajadas: Santiago 1:24, Santiago 1:25, Santiago 1:26, Santiago 1:27.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
+<!-- @quiz santiago-1-1-27 -->
 
 # SANTIAGO 2:1–26 - LO INTERIOR SE HACE VISIBLE EN LA VIDA EN COMUNIDAD
 
@@ -1203,7 +1337,7 @@ Porque si en su congregación entra un hombre con anillo de oro y vestido de rop
 
 \headingsix{Así como el primero fue descrito por \scripture{anillo} y \scripture{ropa lujosa}, este es descrito por \scripture{ropa sucia}.}
 
-\headingsix{La línea queda abierta (coma). El texto todavía no ha mostrado la reacción. Eso viene en los versículos siguientes.}
+\headingsix{El texto todavía no ha mostrado la reacción. Eso viene en los versículos siguientes.}
 
 ### Santiago 2:3  
 \begin{verseblock}
@@ -1248,6 +1382,8 @@ y dan atención especial al que lleva la ropa lujosa, y dicen: «Siéntese aquí
 \begin{verseblock}
 ¿acaso no han hecho distinciones entre ustedes mismos, y han venido a ser jueces con malos pensamientos?
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Romanos 2:11. Nota de referencia: Romanos 3:28)}
+
 #### ¿acaso no han hecho distinciones entre ustedes mismos,
 \headingfive{El texto pasa del ejemplo a una pregunta que acusa.}
 
@@ -1339,7 +1475,7 @@ Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y 
 
 \headingsix{\scripture{tribunales} trae el conflicto al terreno público/legal (no solo social).}
 
-\headingfive{Esto empuja al v.7.}
+\headingfive{Esto lleva al v.7.}
 
 \headingsix{El v.7 añadirá una razón más sobre los \scripture{ricos} en forma de pregunta.}
 
@@ -1347,6 +1483,8 @@ Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y 
 \begin{verseblock}
 ¿No blasfeman ellos el buen nombre por el cual ustedes han sido llamados?
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Lucas 6:20–26; Salmo 10:2–9)}
+
 #### ¿No blasfeman ellos el buen nombre
 \headingfive{Otra pregunta que agrega peso al argumento.}
 
@@ -1361,8 +1499,7 @@ Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y 
 
 \headingsix{Esto agrava la contradicción: favorecer a quienes hablan mal del nombre ligado a ustedes.}
 
-\headingfive{Esto empuja al v.8.}
-
+\headingfive{Esto introduce al v.8.}
 \headingsix{El v.8 moverá el argumento hacia \scripture{ley} y \scripture{Escritura}.}
 
 ### Santiago 2:8  
@@ -1447,7 +1584,6 @@ Porque cualquiera que guarda toda la ley, pero falla en un punto, se ha hecho cu
 \headingsix{Esta frase funciona como cierre fuerte del principio.}
 
 \headingfive{Esto empuja al v.11.}
-
 \headingsix{El v.11 dará un ejemplo con mandamientos concretos.}
 
 ### Santiago 2:11  
@@ -1508,7 +1644,6 @@ Así hablen ustedes y así procedan, como los que han de ser juzgados por la ley
 \headingsix{\scripture{ley de la libertad} retoma el tema de ley, ahora con un nombre específico.}
 
 \headingfive{Esto empuja al v.13.}
-
 \headingsix{El v.13 explicará cómo opera el juicio en relación con misericordia.}
 
 ### Santiago 2:13  
@@ -1520,7 +1655,7 @@ Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
 
 \headingsix{\scripture{Porque} conecta con 2:12: explica el juicio mencionado.}
 
-\headingsix{El texto hace una correspondencia clara: no mostrar misericordia -> juicio sin misericordia.}
+\headingsix{El texto hace una correspondencia clara: no mostrar misericordia → juicio sin misericordia.}
 
 #### La misericordia triunfa sobre el juicio.
 \headingfive{El texto cierra el tramo con una frase final fuerte.}
@@ -1529,55 +1664,40 @@ Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
 
 \headingsix{Funciona como cierre del argumento 2:8–13 y como bisagra antes del siguiente bloque (2:14–26), donde el texto abrirá otra exposición por preguntas.}
 
-## Santiago 2:14–26 - La fe dicha, sin expresión visible, queda expuesta
+> En Síntesis
+>- Anclas trabajadas: Santiago 2:10, Santiago 2:11, Santiago 2:12, Santiago 2:13.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
+## Santiago 2:14–20 - La fe dicha, sin expresión visible, queda expuesta
 
 ### Santiago 2:14  
 \begin{verseblock}
 ¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?
 \end{verseblock}
 #### ¿De qué sirve, hermanos míos,
-\headingfive{Santiago abre este bloque con una pregunta de \scripture{valor} o \scripture{resultado}.}
-
-\headingsix{No empieza con una definición. Empieza con una pregunta: \scripture{¿de qué sirve?}.}
-
-\headingsix{La pregunta empuja al lector a medir algo por su resultado, no por cómo suena.}
-
-\headingfive{Vuelve el trato directo.}
-
-\headingsix{\scripture{hermanos míos} mantiene el tono de corrección dentro de relación, como antes (Santiago 2:1; Santiago 2:5).}
+\headingfive{Santiago abre este bloque con una pregunta de valor.}
+\headingsix{No empieza con una definición. Empieza con \scripture{¿de qué sirve?}.}
+\headingsix{La pregunta empuja a evaluar el caso por su provecho o resultado, no solamente por la afirmación que se hace.}
+\headingsix{“hermanos míos” mantiene el tono directo de corrección dentro de la comunidad (Santiago 2:1; Santiago 2:5).}
 
 #### si alguien dice que tiene fe,
-\headingfive{El texto fija el caso en lo que alguien \scripture{dice}.}
-
+\headingfive{El texto fija el caso en lo que se dice.}
 \headingsix{El punto de partida es una afirmación verbal: \scripture{dice que tiene…}.}
-
-\headingsix{Santiago no empieza discutiendo lo interior; empieza con una declaración audible.}
-
-\headingfive{Esto prepara la prueba que viene.}
-
-\headingsix{Lo que sigue (2:15–16) mostrará un caso visible para poner esa \scripture{declaración} bajo presión.}
+\headingsix{La frase queda lista para ser puesta bajo una escena visible (Santiago 2:15–16).}
 
 #### pero no tiene obras?
-\headingfive{El texto introduce el contraste dentro del mismo caso.}
-
-\headingsix{\scripture{pero} marca choque: dice una cosa, pero falta otra.}
-
-\headingsix{\scripture{no tiene obras} pone lo que falta en términos visibles/medibles.}
-
-\headingfive{La pregunta queda abierta.}
-
-\headingsix{El texto todavía no responde; continúa con un escenario (Santiago 2:15–16).}
+\headingfive{El texto instala el contraste dentro del mismo caso.}
+\headingsix{\scripture{pero} marca choque: se afirma una cosa y falta otra.}
+\headingsix{\scripture{no tiene obras} nombra la ausencia en términos que se pueden ver.}
 
 #### ¿Acaso puede esa fe salvarlo?
-\headingfive{Santiago sube la presión con una segunda pregunta.}
-
-\headingsix{Cambia de \scripture{¿sirve?} a \scripture{¿puede salvar?}.}
-
-\headingsix{La pregunta obliga a tratar el caso como algo con consecuencias reales, no solo como discurso.}
-
-\headingfive{Esto empuja a un ejemplo concreto.}
-
-\headingsix{El v.15 empezará con \scripture{Si…} y pondrá el tema en una escena cotidiana.}
+\headingfive{Santiago avanza con una segunda pregunta.}
+\headingsix{Cambia de \scripture{¿de qué sirve?} a \scripture{¿puede salvar?}.}
+\headingsix{El texto estrecha el foco con \scripture{esa fe}: no pregunta por “fe” en abstracto, sino por la fe del caso descrito (Santiago 2:14).}
+\headingsix{“esa fe” señala una clase específica dentro del argumento: la fe que aparece en palabras (“dice que tiene fe”) pero que, en el mismo caso, está marcada por ausencia (“no tiene obras”) (Santiago 2:14).}
+\headingsix{Esto empuja a un ejemplo concreto y cotidiano. El v.15 empezará con \scripture{Si…} (Santiago 2:15).}
 
 ### Santiago 2:15  
 \begin{verseblock}
@@ -1585,122 +1705,72 @@ Si un hermano o una hermana no tienen ropa y carecen del sustento diario,
 \end{verseblock}
 #### Si un hermano o una hermana
 \headingfive{Santiago entra en un caso comunitario y real.}
-
-\headingsix{No habla de \scripture{personas} en abstracto; habla de \scripture{hermano} y \scripture{hermana}.}
-
-\headingsix{Esto conecta con el contexto de comunidad del capítulo 2.}
-
-\headingfive{El caso es deliberadamente simple.}
-
-\headingsix{Prepara una evaluación que cualquiera puede entender cuando llegue el v.16.}
+\headingsix{No habla de personas en abstracto; habla de \scripture{hermano} y \scripture{hermana}.}
+\headingsix{El caso se presenta para que cualquiera lo entienda cuando el v.16 complete la escena.}
 
 #### no tienen ropa
 \headingfive{Se describe una necesidad visible.}
-
 \headingsix{La falta es concreta: ropa.}
-
-\headingsix{No es un problema invisible; cualquiera lo puede ver.}
+\headingsix{No es un problema invisible; cualquiera lo puede notar.}
 
 #### y carecen del sustento diario,
-\headingfive{Se añade una segunda necesidad básica.}
-
+\headingfive{Se añade otra necesidad básica.}
 \headingsix{\scripture{y} acumula la condición: no es solo ropa, también sustento.}
-
-\headingsix{\scripture{diario} marca repetición/continuidad: no es una necesidad de un solo día.}
-
-\headingfive{La frase queda abierta.}
-
-\headingsix{El v.16 completará la escena con la respuesta de \scripture{uno de ustedes}.}
+\headingsix{\scripture{diario} marca continuidad: no es una necesidad de un solo día.}
+\headingsix{La frase queda abierta y espera el v.16.}
 
 ### Santiago 2:16  
 \begin{verseblock}
 y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?
 \end{verseblock}
 #### y uno de ustedes les dice:
-\headingfive{El caso se vuelve personal dentro de la comunidad.}
-
-\headingsix{\scripture{uno de ustedes} acerca el caso: no son \scripture{otros}; es alguien dentro del grupo.}
-
-\headingsix{Se mantiene el enfoque en el habla: \scripture{les dice…}.}
-
-\headingfive{Esto conecta con 2:14.}
-
-\headingsix{En 2:14 el problema empezó con \scripture{dice que tiene fe}. Aquí vuelve \scripture{dice}, pero ahora en un caso práctico.}
+\headingfive{El caso se vuelve personal dentro del grupo.}
+\headingsix{“uno de ustedes” acerca el caso: sucede dentro de la comunidad.}
+\headingsix{El texto mantiene el foco en el habla: \scripture{les dice…}.}
+\headingsix{Esto conversa con 2:14, donde el caso también empezó con “dice” (Santiago 2:14; Santiago 2:16).}
 
 #### «Vayan en paz, caliéntense y sáciense»,
-\headingfive{El texto cita palabras que suenan bien, pero se quedan en palabras.}
-
-\headingsix{La frase es verbal y completa: \scripture{vayan… caliéntense… sáciense}.}
-
-\headingsix{El texto deja que el lector oiga el tono de \scripture{buen deseo} sin acción.}
-
-\headingfive{La cita prepara el contraste inmediato.}
-
-\headingsix{El \scripture{pero} que viene mostrará lo que falta.}
+\headingfive{El texto pone palabras completas, pero solo palabras.}
+\headingsix{La frase suena como deseo bueno.}
+\headingsix{El texto deja que el lector oiga la frase tal como es, antes de mostrar lo que falta.}
 
 #### pero no les dan lo necesario para su cuerpo,
 \headingfive{Aquí está el contraste: palabras sin provisión.}
-
 \headingsix{\scripture{pero} corta la escena: el problema no es lo que se dijo, sino lo que no se dio.}
+\headingsix{“lo necesario” mantiene el caso en lo básico.}
+\headingsix{“para su cuerpo” mantiene el caso en lo visible.}
 
-\headingsix{\scripture{no les dan lo necesario} nombra una falta concreta de respuesta.}
-
-\headingsix{\scripture{para su cuerpo} mantiene el caso en lo visible y básico.}
-
-\headingfive{El texto pone el caso en términos medibles.}
-
-\headingsix{Se puede verificar: ¿hubo provisión o no hubo?}
+\headingsix{Se puede verificar el punto del ejemplo.}
+- ¿Hubo provisión o no hubo provisión?
 
 #### ¿de qué sirve?
 \headingfive{Santiago repite la misma pregunta del v.14.}
-
-\headingsix{Esto es importante: \scripture{¿de qué sirve?} reaparece como re-entrada inmediata.}
-
-\headingsix{El ejemplo no es un tema nuevo; es una demostración de la pregunta original.}
-
-\headingfive{Esto empuja al veredicto del v.17.}
-
-\headingsix{El v.17 comenzará con \scripture{Así también…}, conectando el ejemplo con el caso \scripture{fe… obras}.}
+\headingsix{La re‑entrada es directa: \scripture{¿de qué sirve?} (Santiago 2:14; Santiago 2:16).}
+\headingsix{El ejemplo no es un tema nuevo; es la misma pregunta puesta en escena.}
+\headingsix{Esto empuja al veredicto del v.17.}
 
 ### Santiago 2:17  
 \begin{verseblock}
 Así también la fe por sí misma, si no tiene obras, está muerta.
 \end{verseblock}
 #### Así también
-\headingfive{Santiago conecta directamente el ejemplo con el caso principal.}
-
-\headingsix{\scripture{Así también} es un puente: lo que acaba de mostrar en el ejemplo, ahora lo aplica al caso de \scripture{fe/obras}.}
-
-\headingsix{No es un salto. Es una conexión explícita.}
+\headingfive{Santiago conecta el ejemplo con el caso principal.}
+\headingsix{“Así también” es puente: lo visible del ejemplo ahora se aplica al caso de fe/obras.}
 
 #### la fe por sí misma,
 \headingfive{Santiago nombra el tema y lo aísla.}
-
-\headingsix{\scripture{por sí misma} pone la fe sola, separada.}
-
-\headingsix{Eso prepara la evaluación: ¿qué pasa cuando está sola?}
+\headingsix{“por sí misma” pone la fe sola, separada, sin lo que el caso dijo que faltaba.}
 
 #### si no tiene obras,
 \headingfive{Se repite la condición del v.14 con las mismas piezas.}
-
-\headingsix{\scripture{si} vuelve a ponerlo como caso.}
-
-\headingsix{\scripture{no tiene obras} repite el contraste que instaló el v.14.}
-
-\headingfive{El texto mantiene el mismo hilo sin cambiar vocabulario.}
-
-\headingsix{Eso ayuda a ver continuidad: v.14 abre, v.17 cierra la primera parte con un veredicto.}
+\headingsix{“si” mantiene el formato de caso.}
+\headingsix{“no tiene obras” retoma la ausencia nombrada en 2:14.}
 
 #### está muerta.
-\headingfive{Santiago da un veredicto corto y fuerte.}
-
+\headingfive{Santiago cierra con un veredicto corto y final.}
 \headingsix{No lo deja en pregunta. Aquí afirma: \scripture{está muerta}.}
-
-\headingsix{Es el cierre del primer movimiento del bloque (pregunta -> ejemplo -> veredicto).}
-
-\headingfive{Esto empuja al siguiente paso (2:18).}
-
-\headingsix{El v.18 introduce \scripture{Pero alguien dirá…}, o sea, una objeción/diálogo, y el argumento seguirá avanzando.}
+\headingsix{El verbo está en presente (\scripture{está}): el texto lo presenta como estado del caso descrito.}
+\headingsix{Esto cierra el primer movimiento (pregunta → escena → veredicto) y empuja al v.18, donde aparece el lenguaje de “mostrar” (Santiago 2:18).}
 
 ### Santiago 2:18  
 \begin{verseblock}
@@ -1720,7 +1790,7 @@ Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las o
 
 \headingsix{Esto prepara frases cortas que contrastan \scripture{fe} y \scripture{obras} en forma directa.}
 
-#### «Tú tienes fe
+#### Tú tienes fe
 \headingfive{Primer lado del contraste en el diálogo.}
 
 \headingsix{El texto pone una afirmación simple en boca de alguien.}
@@ -1755,15 +1825,16 @@ Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las o
 
 \headingsix{El diálogo se vuelve espejo: \scripture{muéstrame} / \scripture{yo te mostraré}.}
 
-#### por mis obras».
+#### por mis obras.
 \headingfive{El texto cierra el contraste con la frase final.}
 
 \headingsix{Aquí se declara el método: \scripture{por mis obras}.}
 
 \headingsix{El punto del diálogo queda puesto: una demostración va ligada a obras.}
 
-\headingfive{Esto empuja al v.19.}
+\headingfive{El tema no es simplemente la existencia de obras. El tema es la posibilidad de mostrar la fe, \scripture{te mostraré mi fe por mis obras}. }
 
+\headingfive{Esto introduce el v.19.}
 \headingsix{El v.19 traerá un ejemplo de \scripture{creer} que no resuelve el problema por sí solo (Santiago 2:19).}
 
 ### Santiago 2:19  
@@ -1817,249 +1888,226 @@ Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es esté
 \headingsix{No deja que el lector se quede cómodo con lo anterior.}
 
 #### ¿estás dispuesto a admitir,
-\headingfive{El texto pone una pregunta que busca respuesta clara.}
+\headingfive{El texto pone una pregunta que busca una respuesta definida.  }
 
-\headingsix{No es una pregunta de información; es una pregunta de disposición.}
-
-\headingsix{Pide que el lector conceda un punto.}
+\headingsix{No es una pregunta de información.  }
+\headingsix{Es una pregunta de disposición: ¿está el interlocutor dispuesto a conceder el punto que sigue?  }
+\headingsix{El texto no se queda en el veredicto anterior; ahora presiona al lector a reconocerlo.  }
 
 #### oh hombre vano,
-\headingfive{El texto interpela con una etiqueta fuerte.}
+\headingfive{El texto interpela directamente al interlocutor.  }
 
-\headingsix{No es un comentario neutral.}
+\headingsix{No es un comentario neutral. Es una forma de hablarle de frente, sin suavizar el golpe de la pregunta.  }
+\headingsix{La etiqueta “vano” no añade un dato nuevo al argumento; sube la presión del momento.  }
 
-\headingsix{La frase intensifica la confrontación antes de la afirmación que sigue.}
+vano - κενός (kenós)
+: vacío; sin contenido; sin sustancia (lo que está “hueco” por dentro, aunque suene lleno por fuera).
+
+\headingsix{El texto está diciendo, en efecto: “no lo trates como un detalle pequeño; no te escapes con una respuesta fácil”.  }
+
+\headingsix{La pregunta no apunta primero a “hacer más”, sino a reconocer un punto: ¿vas a admitirlo?}
+
+\headingsix{Y al decir “oh hombre vano (κενός)”, el texto acusa al interlocutor de tratar el caso con una evaluación “vacía”, sin sustancia.}
+
+\headingsix{Así la frase intensifica el tono justo antes de repetir la línea central del bloque: \scripture{fe} y \scripture{obras}.   }
+
+\headingfive{Santiago desafía la conclusión a la que el interlocutor ha llegado...}
 
 #### que la fe sin obras
-\headingfive{El texto vuelve a la fórmula central.}
+\headingfive{El texto vuelve a la fórmula central del bloque.  }
 
-\headingsix{Repite \scripture{fe} y \scripture{obras} en la misma línea.}
-
-\headingsix{Esta frase funciona como ancla del bloque 2:14–26.}
+\headingsix{Reaparecen los mismos dos elementos que dominan la discusión desde Santiago 2:14: \scripture{fe} y \scripture{obras}.  }
+\headingsix{La frase retoma el caso que comenzó con: \scripture{si alguien dice que tiene fe, pero no tiene obras} (Santiago 2:14).  }
+\headingsix{El argumento sigue examinando esa misma fe.  }
 
 #### es estéril?
-\headingfive{El texto nombra el resultado con una palabra breve.}
+\headingfive{El texto presenta una evaluación del caso en forma de pregunta.  }
 
-\headingsix{\scripture{estéril} es evaluación: sin fruto, sin resultado.}
+\headingsix{\scripture{estéril} nombra falta de fruto o falta de salida.  }
+\headingsix{La palabra resume la evaluación que Santiago viene empujando desde \scripture{¿de qué sirve?} (Santiago 2:14; Santiago 2:16).  }
+\headingsix{Después de esta pregunta, el texto pasa a ejemplos concretos (Abraham y Rahab) para seguir el argumento en escenas (Santiago 2:21–25). }
 
-\headingsix{Esto empuja a ejemplos mayores (Abraham, Rahab) para sostener el punto.}
+## Santiago 2:21–26 — El mismo caso, ahora puesto en escenas “grandes” (ver / mostrar)
 
-### Santiago 2:21  
+## Santiago 2:21–26 — Abraham y Rahab: el argumento se ve en escenas
+
+### Santiago 2:21
 \begin{verseblock}
 ¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?
 \end{verseblock}
 #### ¿No fue justificado
-\headingfive{El texto entra en ejemplo con una pregunta que espera acuerdo.}
+\headingfive{El texto continúa con preguntas que buscan una respuesta definida.}
 
-\headingsix{\scripture{¿No…?} suena como: \scripture{esto es reconocible}.}
-
-\headingsix{La pregunta abre un caso histórico como evidencia.}
+\headingsix{En 2:14–20 el argumento avanzó mediante preguntas, ejemplos y lenguaje de “mostrar” y “ver” (Santiago 2:18; Santiago 2:20).  }
+\headingsix{Aquí Santiago vuelve a una pregunta: “¿No fue…?”. No empieza explicando; vuelve a interpelar al lector.}
 
 #### por las obras
-\headingfive{El texto pone el criterio al frente.}
+\headingfive{El texto introduce la expresión que dominará la escena.}
 
-\headingsix{No lo deja implícito.}
-
-\headingsix{La frase mantiene el mismo campo: obras como eje visible del argumento.}
+\headingsix{En 2:14 el caso fue: “dice que tiene fe, pero no tiene obras” (Santiago 2:14).  }
+\headingsix{En 2:18 el tema pasó a “mostrar” (Santiago 2:18).  }
+\headingsix{Ahora el texto pone el argumento en una escena concreta.}
 
 #### Abraham nuestro padre
-\headingfive{El texto nombra un ejemplo grande y conocido.}
+\headingfive{El texto trae un ejemplo reconocido.}
 
-\headingsix{\scripture{nuestro padre} crea cercanía de referencia.}
+\headingsix{Ya no usa una situación cotidiana como en 2:15–16.  }
+\headingsix{Introduce una figura conocida dentro del argumento.  }
+\headingsix{“nuestro padre” acerca el ejemplo al lector.}
 
-\headingsix{Esto da peso al ejemplo sin necesidad de explicación larga aquí.}
+#### cuando ofreció a su hijo Isaac sobre el altar?
+\headingfive{El texto fija el argumento en una acción concreta.}
 
-#### cuando ofreció a su hijo Isaac
-\headingfive{El texto fija el ejemplo en un hecho concreto.}
+\headingsix{“cuando” ubica un momento específico.  }
+\headingsix{“ofreció… sobre el altar” describe una escena visible.  }
+\headingsix{El argumento continúa avanzando mediante situaciones observables.}
 
-\headingsix{\scripture{cuando} instala la escena.}
-
-\headingsix{\scripture{ofreció} describe una acción específica, no una idea.}
-
-#### sobre el altar?
-\headingfive{El texto termina de ubicar la acción en un lugar concreto.}
-
-\headingsix{\scripture{altar} hace la escena visible.}
-
-\headingsix{La pregunta queda lista para ser desarrollada en el v.22.}
-
-### Santiago 2:22  
+### Santiago 2:22
 \begin{verseblock}
 Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;
 \end{verseblock}
 #### Ya ves que
-\headingfive{El texto guía al lector: \scripture{mira esto}.}
+\headingfive{El texto vuelve al lenguaje de observación.}
 
-\headingsix{No deja el ejemplo como historia suelta.}
-
-\headingsix{\scripture{ya ves} presenta el punto como observable dentro del argumento.}
+\headingsix{Esto conecta con “mostrar” (Santiago 2:18) y con la pregunta anterior (Santiago 2:21).  }
+\headingsix{El argumento se presenta como algo que puede verse en la escena.  }
+\headingsix{El texto coloca al lector en lenguaje de observación: “Ya ves”.}
 
 #### la fe actuaba juntamente con sus obras,
-\headingfive{El texto describe relación de trabajo conjunto.}
+\headingfive{El texto presenta fe y obras actuando juntas.}
 
-\headingsix{No dice \scripture{fe aparte} y \scripture{obras aparte}.}
-
-\headingsix{Dice \scripture{juntamente}: lado a lado, en la misma escena.}
+\headingsix{No aparecen como elementos separados.  }
+\headingsix{El texto las muestra funcionando en la misma escena.  }
+\headingsix{La atención ya no está en una afirmación verbal, sino en algo que puede observarse.}
 
 #### y como resultado de las obras,
-\headingfive{El texto introduce una línea de resultado.}
+\headingfive{El texto introduce una relación de resultado.}
 
-\headingsix{\scripture{como resultado} vuelve al lenguaje de producción/resultado del libro (Santiago 1:3–4).}
-
-\headingsix{Aquí lo aplica a la relación fe/obras dentro del ejemplo.}
+\headingsix{La frase conecta lo que ocurre en la escena con un efecto.  }
+\headingsix{Santiago sigue trabajando con lenguaje de proceso y resultado.}
 
 #### la fe fue perfeccionada;
-\headingfive{El texto declara un cierre de proceso.}
+\headingfive{El texto describe una fe llevada a completitud.}
 
-\headingsix{\scripture{fue perfeccionada} es lenguaje de completitud.}
+\headingsix{“perfeccionada” es lenguaje de completar o llevar algo a su meta.  }
+\headingsix{Esto conversa con Santiago 1:4, donde el libro apunta hacia lo perfecto y completo (Santiago 1:4).}
 
-\headingsix{Esto conecta con la meta de \scripture{perfectos y completos} (Santiago 1:4), sin cambiar de tema.}
-
-\headingfive{Esto empuja al v.23.}
-
-\headingsix{El v.23 añadirá \scripture{se cumplió la Escritura…}, o sea, un segundo soporte.}
-
-### Santiago 2:23  
+### Santiago 2:23
 \begin{verseblock}
 y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.
 \end{verseblock}
-#### y se cumplió
-\headingfive{El texto añade un segundo paso: cumplimiento.}
+#### y se cumplió la Escritura que dice:
+\headingfive{El texto añade una referencia a la Escritura.}
 
-\headingsix{\scripture{y} muestra continuidad con el v.22.}
+\headingsix{“y” mantiene la continuidad del argumento.  }
+\headingsix{“se cumplió” conecta la escena con una palabra previa citada.}
 
-\headingsix{\scripture{se cumplió} presenta un resultado: algo dicho antes llega a su punto.}
+#### «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA»,
+\headingfive{El texto introduce una cita dentro de la discusión.}
 
-#### la Escritura que dice:
-\headingfive{El texto apela a una referencia escrita.}
-
-\headingsix{No lo presenta como opinión.}
-
-\headingsix{Lo presenta como \scripture{Escritura} y la cita.}
-
-#### «Y ABRAHAM CREYÓ A DIOS
-\headingfive{La cita introduce el elemento \scripture{creyó}.}
-
-\headingsix{Después de hablar de obras, la cita trae \scripture{creer}.}
-
-\headingsix{Eso mantiene unidos los dos términos que el bloque está trabajando.}
-
-#### Y LE FUE CONTADO POR JUSTICIA»,
-\headingfive{La cita cierra con una frase de evaluación.}
-
-\headingsix{\scripture{le fue contado} suena a resultado declarado.}
-
-\headingsix{Esto refuerza que el ejemplo tiene peso dentro del argumento.}
+\headingsix{La cita incorpora el lenguaje de creer y de justicia.  }
+\headingsix{Santiago integra esta cita dentro del argumento que viene desarrollando con Abraham.}
 
 #### y fue llamado amigo de Dios.
-\headingfive{El texto añade un resultado de identidad/relación.}
+\headingfive{El texto añade una designación final sobre Abraham.}
 
-\headingsix{\scripture{fue llamado} muestra nombramiento.}
+\headingsix{“fue llamado” introduce una identificación o reconocimiento.  }
+\headingsix{El argumento sigue acumulando lenguaje de evaluación y resultado.}
 
-\headingsix{\scripture{amigo de Dios} cierra el ejemplo con una etiqueta final.}
+\headingsix{Observación de secuencia bíblica.}
+- La frase citada pertenece a Génesis 15:6.
+- La escena del ofrecimiento de Isaac pertenece a Génesis 22:1–12.
 
-\headingfive{Esto empuja al v.24.}
+### Santiago 2:24
 
-\headingsix{El v.24 dirá \scripture{Ustedes ven…}, o sea, sacará conclusión explícita.}
-
-### Santiago 2:24  
 \begin{verseblock}
 Ustedes ven que el hombre es justificado por las obras y no solo por la fe.
 \end{verseblock}
 #### Ustedes ven que
-\headingfive{El texto presenta la conclusión como algo visible.}
+\headingfive{El texto pasa de escena a conclusión explícita.}
 
-\headingsix{No dice \scripture{imaginen}. Dice \scripture{ven}.}
-
-\headingsix{Esto enlaza con \scripture{mostrar} (2:18) y con \scripture{ya ves} (2:22): el argumento está armado para ser visto.}
+\headingsix{El lenguaje de “ver” reaparece.  }
+\headingsix{El texto formula una conclusión para el lector desde el ejemplo presentado.}
 
 #### el hombre es justificado por las obras
-\headingfive{El texto declara la línea principal de la conclusión.}
+\headingfive{El texto formula la conclusión de manera general.}
 
-\headingsix{Repite \scripture{justificado} del ejemplo (2:21).}
-
-\headingsix{Repite \scripture{por las obras} como criterio visible.}
+\headingsix{Pasa de Abraham (“nuestro padre”) a “el hombre”.  }
+\headingsix{La conclusión se construye a partir de la escena que acaba de presentarse.}
 
 #### y no solo por la fe.
-\headingfive{El texto cierra con un contraste breve.}
+\headingfive{El texto añade el contraste.}
 
-\headingsix{\scripture{no solo} marca que fe sola no es el cuadro completo en el argumento de Santiago aquí.}
+\headingsix{“no solo” limita una lectura que dejaría la fe aislada.  }
+\headingsix{La discusión sigue girando alrededor de una fe separada frente a una fe descrita junto con obras dentro de la escena.}
 
-\headingsix{Esto prepara un segundo ejemplo (Rahab) para reforzar que no fue un caso aislado (Santiago 2:25).}
-
-### Santiago 2:25  
+### Santiago 2:25
 \begin{verseblock}
 Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?
 \end{verseblock}
 #### Y de la misma manera,
-\headingfive{El texto anuncia un ejemplo paralelo.}
+\headingfive{El texto introduce un segundo ejemplo.}
 
-\headingsix{\scripture{de la misma manera} marca que el punto será el mismo con otra persona.}
-
-\headingsix{\scripture{Y} mantiene continuidad; no es un apéndice.}
+\headingsix{No se trata de una escena aislada.  }
+\headingsix{“de la misma manera” crea un paralelo con Abraham.  }
+\headingsix{El argumento queda sostenido por más de un caso.}
 
 #### ¿no fue la ramera Rahab también justificada por las obras
-\headingfive{El texto usa la misma forma de pregunta que con Abraham.}
+\headingfive{El texto repite la misma pregunta y la misma fórmula.}
 
-\headingsix{\scripture{¿no fue…?} mantiene el estilo de pregunta que espera acuerdo.}
-
-\headingsix{\scripture{también} refuerza: no es solo Abraham.}
-
-\headingsix{Repite el criterio: \scripture{por las obras}.}
+\headingsix{Reaparece la estructura utilizada con Abraham.  }
+\headingsix{“también” añade un segundo testigo al argumento.}
 
 #### cuando recibió a los mensajeros
 \headingfive{El texto ubica el ejemplo en una acción concreta.}
 
-\headingsix{\scripture{cuando} instala la escena, como en 2:21.}
-
-\headingsix{\scripture{recibió} describe acción visible.}
+\headingsix{“cuando” señala una escena específica.  }
+\headingsix{“recibió” describe una acción visible.}
 
 #### y los envió por otro camino?
-\headingfive{El texto añade una segunda acción dentro del ejemplo.}
+\headingfive{El texto añade una segunda acción dentro de la misma escena.}
 
-\headingsix{\scripture{y} acumula obra sobre obra.}
+\headingsix{Igual que Abraham, Rahab es presentada mediante acciones observables.  }
+\headingsix{El argumento continúa avanzando por escenas que pueden verse.}
 
-\headingsix{\scripture{por otro camino} concreta la acción con un detalle de dirección.}
-
-\headingfive{Esto empuja al v.26.}
-
-\headingsix{El v.26 cerrará el bloque con una analogía corta que funciona como candado final.}
-
-### Santiago 2:26  
+### Santiago 2:26
 \begin{verseblock}
 Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.
 \end{verseblock}
 #### Porque
-\headingfive{El texto cierra con una base final.}
+\headingfive{El texto introduce la razón final del bloque.}
 
-\headingsix{\scripture{Porque} indica que esta analogía sostiene el punto como cierre.}
-
-\headingsix{Es el candado del bloque 2:14–26.}
+\headingsix{“Porque” aparece como cierre argumental.  }
+\headingsix{Santiago concluye con una analogía.}
 
 #### así como el cuerpo sin el espíritu está muerto,
-\headingfive{Primera mitad de la analogía.}
+\headingfive{El texto presenta la primera mitad de la comparación.}
 
-\headingsix{El texto usa una comparación simple y total: cuerpo sin espíritu.}
-
-\headingsix{\scripture{está muerto} declara el estado sin matices.}
+\headingsix{La analogía une dos elementos que pertenecen juntos.  }
+\headingsix{Cuando uno falta, el resultado es muerte.  }
+\headingsix{La imagen es sencilla y directa.}
 
 #### así también la fe sin las obras
-\headingfive{El texto conecta la analogía con el tema principal.}
+\headingfive{El texto vuelve al caso que abrió toda la discusión.}
 
-\headingsix{\scripture{así también} hace el puente explícito.}
-
-\headingsix{\scripture{fe sin obras} repite la fórmula central una vez más para que no se pierda.}
+\headingsix{Reaparecen “fe” y “obras” en la misma línea.  }
+\headingsix{Igual que en 2:14 y 2:17, la atención recae sobre una fe presentada en separación.}
 
 #### está muerta.
-\headingfive{El texto cierra con el mismo veredicto del v.17.}
+\headingfive{Santiago repite el mismo veredicto de 2:17.}
 
-\headingsix{\scripture{está muerta} ya apareció en 2:17.}
+\headingsix{El bloque comenzó con una afirmación: “dice que tiene fe” (Santiago 2:14).  }
+\headingsix{Luego avanzó mediante preguntas, ejemplos, “mostrar” y “ver” (Santiago 2:15–16; Santiago 2:18–24).  }
+\headingsix{Finalmente vuelve al mismo veredicto: “está muerta” (Santiago 2:17; Santiago 2:26).}
 
-\headingsix{La repetición funciona como cierre fuerte: abre (2:17), argumenta (2:18–25), y cierra (2:26).}
+> En Síntesis
+>- El argumento comenzó con una afirmación verbal: “dice que tiene fe” (Santiago 2:14).
+>- Luego pasó a una escena visible y evaluable (Santiago 2:15–16).
+>- Después avanzó hacia “mostrar” y “ver” (Santiago 2:18–24).
+>- Abraham y Rahab aparecen como escenas concretas dentro de esa misma línea (Santiago 2:21–25).
+>- El bloque termina con el mismo veredicto repetido: “está muerta” (Santiago 2:17; Santiago 2:26).
 
-\headingfive{Esto prepara el siguiente bloque.}
-
-\headingsix{Después de este candado, el libro pasa a 3:1 con una nueva corrección: \scripture{no se hagan maestros muchos…} (Santiago 3:1).}
+<!-- @quiz santiago-2-1-26 -->
 
 # SANTIAGO 3:1–18 - DOS ORIENTACIONES PRODUCEN RESULTADOS OPUESTOS
 
@@ -2206,7 +2254,7 @@ Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grand
 #### Así también
 \headingfive{El texto conecta las dos ilustraciones con la lengua.}
 
-\headingsix{\scripture{Así también} es el puente explícito: ejemplos -> aplicación.}
+\headingsix{\scripture{Así también} es el puente explícito: ejemplos → aplicación.}
 
 #### la lengua es un miembro pequeño,
 \headingfive{El texto nombra el \scripture{timón/freno} humano.}
@@ -2221,7 +2269,7 @@ Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grand
 #### ¡Pues qué gran bosque se incendia con tan pequeño fuego!
 \headingfive{El texto introduce una tercera imagen: fuego pequeño, daño grande.}
 
-\headingsix{Repite el patrón: pequeño -> grande.}
+\headingsix{Repite el patrón: pequeño → grande.}
 
 \headingsix{Esto abre la intensificación fuerte del v.6.}
 
@@ -2284,8 +2332,6 @@ Porque toda clase de fieras y de aves, de reptiles y de animales marinos, se pue
 \headingfive{El texto añade evidencia: no solo se puede; se ha hecho.}
 
 \headingsix{Mantiene la idea de control/domino.}
-
-\headingfive{La frase queda abierta (coma).}
 
 \headingsix{El v.8 traerá el \scripture{pero} con el contraste.}
 
@@ -2381,6 +2427,8 @@ De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe 
 \begin{verseblock}
 ¿Acaso, hermanos míos, puede una higuera producir aceitunas, o una vid higos? Tampoco la fuente de agua salada puede producir agua dulce.
 \end{verseblock}
+\headingfive{(Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3)}
+
 #### ¿Acaso, hermanos míos,
 \headingfive{El texto mantiene el tono de pregunta + trato directo.}
 
@@ -2407,6 +2455,11 @@ De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe 
 
 \headingsix{Después de cerrar la inconsistencia de la lengua por analogías, 3:13 abrirá otra pregunta: quién es sabio, y cómo se ve (Santiago 3:13).}
 
+> En Síntesis
+>- Anclas trabajadas: Santiago 3:9, Santiago 3:10, Santiago 3:11, Santiago 3:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos
 
@@ -2505,7 +2558,6 @@ Pero si tienen celos amargos y ambición personal en su corazón, no sean arroga
 \headingsix{\scripture{contra la verdad} pone el choque en términos claros: verdad vs mentira.}
 
 \headingfive{Esto empuja al v.15.}
-
 \headingsix{El v.15 tomará este cuadro y lo clasificará: \scripture{esta sabiduría…}.}
 
 ### Santiago 3:15  
@@ -2557,7 +2609,7 @@ Porque donde hay celos y ambición personal, allí hay confusión y toda cosa ma
 
 \headingfive{El texto lo trata como regla de lugar.}
 
-\headingsix{\scripture{donde hay… allí hay…} es un patrón claro: presencia -> resultado.}
+\headingsix{\scripture{donde hay… allí hay…} es un patrón claro: presencia → resultado.}
 
 #### allí hay confusión
 \headingfive{El texto nombra el primer resultado visible.}
@@ -2600,7 +2652,6 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 \headingsix{La lista no discute; enumera cómo se ve esta sabiduría.}
 
 \headingfive{Esto prepara el cierre del v.18.}
-
 \headingsix{El v.18 hablará de \scripture{fruto} y de \scripture{paz} como resultado visible.}
 
 #### llena de misericordia y de buenos frutos,
@@ -2627,6 +2678,8 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 \begin{verseblock}
 Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen la paz.
 \end{verseblock}
+\headingsix{Referencias cruzadas: Proverbios 14:30; Proverbios 15:1; Gálatas 5:19–23.}
+
 #### Y la semilla cuyo fruto es la justicia
 \headingfive{El texto pasa de lista de rasgos a una imagen de siembra y fruto.}
 
@@ -2653,6 +2706,12 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 
 \headingsix{El paso de \scripture{paz} (3:18) a \scripture{guerras/conflictos} (4:1) forma un contraste inmediato en el flujo.}
 
+> En Síntesis
+>- Vimos la sección: Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos.
+>- Anclas trabajadas: Santiago 3:15, Santiago 3:16, Santiago 3:17, Santiago 3:18.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 # SANTIAGO 4:1–17 - LA FRACTURA SE VUELVE CONFLICTO Y PRESUNCIÓN
 
@@ -2691,7 +2750,7 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pueden obtener, por eso combaten y hacen guerra. No tienen, porque no piden.
 \end{verseblock}
 #### Ustedes codician y no tienen,
-\headingfive{El texto empieza con una secuencia simple: deseo -> falta.}
+\headingfive{El texto empieza con una secuencia simple: deseo → falta.}
 
 \headingsix{\scripture{codician} nombra deseo.}
 
@@ -2735,7 +2794,7 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 \headingsix{Lo que \scripture{viene} (4:1) ahora se ve en acciones (4:2).}
 
 #### No tienen, porque no piden.
-\headingfive{El texto introduce un giro: falta -> pedir.}
+\headingfive{El texto introduce un giro: falta → pedir.}
 
 \headingsix{Repite \scripture{no tienen}, pero ahora con otra razón.}
 
@@ -2749,8 +2808,10 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 \begin{verseblock}
 Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus placeres.
 \end{verseblock}
+\headingsix{(Referencias cruzadas: 1 Juan 2:15–17; Proverbios 13:10)}
+
 #### Piden y no reciben,
-\headingfive{El texto pone un segundo patrón: pedir -> no recibir.}
+\headingfive{El texto pone un segundo patrón: pedir → no recibir.}
 
 \headingsix{Ya no es solo \scripture{no tienen}; ahora es \scripture{piden}.}
 
@@ -2786,6 +2847,8 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 \begin{verseblock}
 ¡Oh almas adúlteras! ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios? Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Juan 15:18–19; Romanos 8:7)}
+
 #### ¡Oh almas adúlteras!
 \headingfive{El texto cambia el tono y llama la atención con una acusación directa.}
 
@@ -2869,7 +2932,7 @@ Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA 
 
 \headingsix{\scripture{Por eso} presenta la cita como apoyo, no como adorno.}
 
-\headingsix{El texto sigue moviéndose por: afirmación -> soporte.}
+\headingsix{El texto sigue moviéndose por: afirmación → soporte.}
 
 #### «DIOS RESISTE A LOS SOBERBIOS,
 \headingfive{La cita presenta un primer lado del contraste.}
@@ -2892,7 +2955,6 @@ Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA 
 \headingsix{\scripture{humildes} nombra el otro tipo de postura.}
 
 \headingfive{Esto empuja al v.7.}
-
 \headingsix{El v.7 empezará con \scripture{Por tanto} y convertirá esto en instrucciones.}
 
 ### Santiago 4:7  
@@ -2931,7 +2993,6 @@ Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
 \headingsix{\scripture{de ustedes} mantiene el enfoque comunitario.}
 
 \headingfive{Esto empuja al v.8.}
-
 \headingsix{4:8 continuará con más instrucciones en cadena.}
 
 ### Santiago 4:8  
@@ -2950,7 +3011,7 @@ Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; 
 
 \headingsix{\scripture{y} une mandato con resultado.}
 
-\headingsix{El texto presenta correspondencia: ustedes -> Él.}
+\headingsix{El texto presenta correspondencia: ustedes → Él.}
 
 \headingfive{Esto prepara una limpieza más específica.}
 
@@ -2989,7 +3050,6 @@ Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; 
 \headingsix{\scripture{corazones} nombra interioridad, en paralelo con \scripture{pasiones} (4:1) y \scripture{propósitos} (4:3).}
 
 \headingfive{Esto empuja al v.9.}
-
 \headingsix{4:9 seguirá con una cadena de respuestas (aflíjanse, laméntense, lloren).}
 
 ### Santiago 4:9  
@@ -3029,6 +3089,8 @@ Aflíjanse, laméntense y lloren. Que su risa se convierta en lamento y su gozo 
 \begin{verseblock}
 Humíllense en la presencia del Señor y Él los exaltará.
 \end{verseblock}
+\headingsix{(Referencias cruzadas: Proverbios 3:34; 1 Pedro 5:5; Efesios 6:10–13)}
+
 #### Humíllense en la presencia del Señor
 \headingfive{El texto resume la dirección con un verbo clave.}
 
@@ -3050,6 +3112,12 @@ Humíllense en la presencia del Señor y Él los exaltará.
 \headingfive{Esto prepara 4:11–12.}
 
 \headingsix{Después de esta cadena de reorientación, el texto pasará a una corrección concreta sobre hablar/juzgar al hermano (Santiago 4:11–12).}
+
+> En Síntesis
+>- Anclas trabajadas: Santiago 4:7, Santiago 4:8, Santiago 4:9, Santiago 4:10.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez)
 
@@ -3097,7 +3165,7 @@ Hermanos, no hablen mal los unos de los otros. El que habla mal de un hermano o 
 
 \headingsix{Primero fue \scripture{juzga a su hermano}; ahora \scripture{juzga a la ley}.}
 
-\headingsix{Esto hace el movimiento visible: juicio hacia una persona -> juicio hacia la ley.}
+\headingsix{Esto hace el movimiento visible: juicio hacia una persona → juicio hacia la ley.}
 
 #### Pero si tú juzgas a la ley,
 \headingfive{El texto aprieta el punto y lo aplica en segunda persona.}
@@ -3121,13 +3189,14 @@ Hermanos, no hablen mal los unos de los otros. El que habla mal de un hermano o 
 \headingsix{El punto queda cerrado: juzgar la ley = ocupar el rol de juez de la ley.}
 
 \headingfive{Esto empuja al v.12.}
-
 \headingsix{El v.12 dirá por qué ese rol está fuera de lugar: hay \scripture{un Legislador y Juez} (Santiago 4:12).}
 
 ### Santiago 4:12  
 \begin{verseblock}
 Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero tú, ¿quién eres que juzgas a tu prójimo?
 \end{verseblock}
+\headingfive{(Referencias cruzadas: Romanos 14:4)}
+
 #### Solo hay un Legislador y Juez,
 \headingfive{El texto pone un límite con una frase absoluta.}
 
@@ -3168,7 +3237,14 @@ Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero
 
 \headingsix{Después de corregir habla/juzgar (4:11–12), el texto pasará a otra corrección de palabra y postura: planes, jactancia, y el \scripture{mañana} (Santiago 4:13–17).}
 
-## Santiago 4:13–17 - La presunción deja ver una \scripture{estabilidad} falsa
+> En Síntesis
+>- Vimos la sección: Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez).
+>- Anclas trabajadas: Santiago 4:9, Santiago 4:10, Santiago 4:11, Santiago 4:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
+## Santiago 4:13–17 - La presunción deja ver una estabilidad falsa
 
 ### Santiago 4:13  
 \begin{verseblock}
@@ -3215,7 +3291,6 @@ Oigan ahora, ustedes que dicen: «Hoy o mañana iremos a tal o cual ciudad y pas
 \headingsix{El texto deja el ejemplo completo para que se oiga su tono de seguridad.}
 
 \headingfive{Esto empuja al v.14.}
-
 \headingsix{El v.14 responderá a esa seguridad con un \scripture{Sin embargo} y con una negación: \scripture{no saben}.}
 
 ### Santiago 4:14  
@@ -3260,7 +3335,7 @@ Sin embargo, ustedes no saben cómo será su vida mañana. Solo son un vapor que
 #### y luego se desvanece.
 \headingfive{El texto cierra la imagen con desaparición.}
 
-\headingsix{La secuencia es simple: aparece -> poco tiempo -> se desvanece.}
+\headingsix{La secuencia es simple: aparece → poco tiempo → se desvanece.}
 
 \headingsix{Esto prepara el v.15: si no controlas mañana, cómo debes hablar.}
 
@@ -3340,6 +3415,8 @@ Pero ahora se jactan en su arrogancia. Toda jactancia semejante es mala.
 \begin{verseblock}
 A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 \end{verseblock}
+\headingfive{(Referencias cruzadas: Proverbios 27:1; Lucas 12:16–21)}
+
 #### A aquel, pues,
 \headingfive{El texto marca conclusión con \scripture{pues}.}
 
@@ -3367,6 +3444,15 @@ A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 \headingsix{Es una frase corta que termina el bloque.}
 
 \headingsix{Esto prepara el cambio de dirección del capítulo 5: el texto pasará a otro \scripture{Oigan ahora…} (Santiago 5:1).}
+
+> En Síntesis
+>- Vimos la sección: Santiago 4:13–17 - La presunción deja ver una \scripture{estabilidad} falsa.
+>- Anclas trabajadas: Santiago 4:14, Santiago 4:15, Santiago 4:16, Santiago 4:17.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
+<!-- @quiz santiago-3-1-4-17 -->
 
 # SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN
 
@@ -3458,7 +3544,6 @@ Su oro y su plata se han oxidado, su herrumbre será un testigo contra ustedes y
 \headingsix{\scripture{han acumulado} describe una práctica sostenida, no un evento aislado.}
 
 \headingfive{Esto empuja al v.4.}
-
 \headingsix{El v.4 traerá una evidencia específica: un jornal retenido que \scripture{clama}.}
 
 ### Santiago 5:4  
@@ -3504,8 +3589,7 @@ Miren, el jornal de los obreros que han segado sus campos y que ha sido retenido
 
 \headingsix{\scripture{Señor de los ejércitos} nombra al oyente con un título fuerte.}
 
-\headingfive{Esto empuja al v.5.}
-
+\headingfive{Esto conduce al v.5.}
 \headingsix{El v.5 pasará de evidencia laboral a descripción de estilo de vida: lujo y placer.}
 
 ### Santiago 5:5  
@@ -3568,8 +3652,15 @@ Han condenado y dado muerte al justo. Él no les hace resistencia.
 \headingsix{La frase funciona como cierre del oráculo: deja el acto expuesto y sin excusa.}
 
 \headingfive{Esto empuja al siguiente tramo (5:7).}
-
 \headingsix{Después de hablar \scripture{a ricos} (5:1–6), el texto se volverá a \scripture{hermanos} con \scripture{Por tanto} y abrirá un llamado a paciencia (Santiago 5:7).}
+
+> En Síntesis
+>- Acabamos de ver la sección: Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio.
+>- Esto se conectó con lo anterior: SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN.
+>- Anclas trabajadas: Santiago 5:3, Santiago 5:4, Santiago 5:5, Santiago 5:6.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla
 
@@ -3623,7 +3714,6 @@ Por tanto, hermanos, sean pacientes hasta la venida del Señor. Miren cómo el l
 Sean también ustedes pacientes. Fortalezcan sus corazones, porque la venida del Señor está cerca.
 \end{verseblock}
 #### Sean también ustedes pacientes.
-
 \headingfive{El texto repite el mandato y lo aplica directamente al grupo.}
 
 \headingsix{\scripture{también ustedes} hace la aplicación explícita: no solo el labrador, ustedes.}
@@ -3631,7 +3721,6 @@ Sean también ustedes pacientes. Fortalezcan sus corazones, porque la venida del
 \headingsix{La repetición muestra que esta es la línea principal del tramo (5:7–11).}
 
 #### Fortalezcan sus corazones,
-
 \headingfive{El texto añade una segunda instrucción que sostiene la paciencia.}
 
 \headingsix{\scripture{Fortalezcan} es otro mandato.}
@@ -3717,14 +3806,15 @@ Hermanos, tomen como ejemplo de paciencia y aflicción a los profetas que hablar
 
 \headingsix{\scripture{en el nombre del Señor} marca el marco de autoridad con el que hablaron.}
 
-\headingfive{Esto empuja al v.11.}
-
+\headingfive{Esto introduce el v.11.}
 \headingsix{El v.11 añadirá otro ejemplo (Job) y cerrará con \scripture{resultado} (Santiago 5:11).}
 
 ### Santiago 5:11  
 \begin{verseblock}
 Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la paciencia de Job, y han visto el resultado del proceder del Señor, que el Señor es muy compasivo y misericordioso.
 \end{verseblock}
+\headingfive{(Referencias cruzadas: Hebreos 10:36–37)}
+
 #### Miren que tenemos por bienaventurados a los que sufrieron.
 
 \headingfive{El texto vuelve a decir \scripture{miren} y hace una afirmación colectiva.}
@@ -3743,7 +3833,7 @@ Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la pacie
 \headingsix{\scripture{paciencia de Job} se pone como modelo dentro del mismo tema.}
 
 #### y han visto el resultado del proceder del Señor,
-\headingfive{El texto agrega un segundo verbo: oír -> ver.}
+\headingfive{El texto agrega un segundo verbo: oír → ver.}
 
 \headingsix{\scripture{han visto} intensifica: no solo se escuchó la historia; se observó un \scripture{resultado}.}
 
@@ -3764,6 +3854,8 @@ Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la pacie
 \begin{verseblock}
 Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni con ningún otro juramento. Antes bien, sea el sí de ustedes, sí, y su no, no, para que no caigan bajo juicio.
 \end{verseblock}
+\headingfive{Referencias cruzadas: Mateo 5:33–37.}
+
 #### Y sobre todo, hermanos míos,
 \headingfive{El texto marca prioridad antes de dar la instrucción.}
 
@@ -3817,6 +3909,13 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 
 \headingsix{\scripture{no caigan bajo juicio} conecta con el hilo de juicio cercano (5:9) y con la figura del Juez (5:9; 5:12).}
 
+> En Síntesis
+>- Vimos la sección: Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla.
+>- Anclas trabajadas: Santiago 5:9, Santiago 5:10, Santiago 5:11, Santiago 5:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+
 ## Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada
 
 ### Santiago 5:13  
@@ -3835,7 +3934,7 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 
 \headingsix{No dice \scripture{espere} ni \scripture{explique}. Dice: ore.}
 
-\headingsix{La respuesta es corta y clara: sufrimiento -> oración.}
+\headingsix{La respuesta es corta y clara: sufrimiento → oración.}
 
 #### ¿Está alguien alegre?
 \headingfive{El texto abre un segundo caso, distinto al primero.}
@@ -3847,9 +3946,9 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 #### Que cante alabanzas.
 \headingfive{El texto asigna una respuesta correspondiente al segundo caso.}
 
-\headingsix{Alegría -> canto.}
+\headingsix{Alegría → canto.}
 
-\headingsix{El versículo ya muestra un patrón: caso -> respuesta, caso -> respuesta.}
+\headingsix{El versículo ya muestra un patrón: caso → respuesta, caso → respuesta.}
 
 \headingfive{Esto empuja al v.14.}
 
@@ -3919,7 +4018,7 @@ La oración de fe restaurará al enfermo, y el Señor lo levantará. Si ha comet
 
 \headingsix{\scripture{el Señor} es nombrado como quien levanta.}
 
-\headingsix{La frase mantiene el patrón: acción -> resultado.}
+\headingsix{La frase mantiene el patrón: acción → resultado.}
 
 #### Si ha cometido pecados
 \headingfive{El texto abre un caso adicional dentro del mismo escenario.}
@@ -4021,6 +4120,8 @@ Elías era un hombre de pasiones semejantes a las nuestras, y oró fervientement
 \begin{verseblock}
 Oró de nuevo, y el cielo dio lluvia y la tierra produjo su fruto.
 \end{verseblock}
+\headingfive{Referencias cruzadas: 1 Reyes 17:1; 1 Reyes 18:41–45.}
+
 #### Oró de nuevo,
 \headingfive{El texto repite el acto, marcando segunda vez.}
 
@@ -4038,13 +4139,20 @@ Oró de nuevo, y el cielo dio lluvia y la tierra produjo su fruto.
 #### y la tierra produjo su fruto.
 \headingfive{El texto cierra el ejemplo con un resultado final en la tierra.}
 
-\headingsix{Lluvia -> fruto.}
+\headingsix{Lluvia → fruto.}
 
-\headingsix{La frase funciona como cierre del ejemplo: oración -> cambio -> fruto.}
+\headingsix{La frase funciona como cierre del ejemplo: oración → cambio → fruto.}
 
 \headingfive{Esto prepara 5:19–20.}
 
-\headingsix{Después de cerrar el tramo de oración con un ejemplo completo, el texto pasa al cierre final: extravío -> volver -> salvar/cubrir (Santiago 5:19–20).}
+\headingsix{Después de cerrar el tramo de oración con un ejemplo completo, el texto pasa al cierre final: extravío → volver → salvar/cubrir (Santiago 5:19–20).}
+
+> En Síntesis
+>- Vimos la sección: Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada.
+>- Anclas trabajadas: Santiago 5:15, Santiago 5:16, Santiago 5:17, Santiago 5:18.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:19–20 - Restaurar al que se desvía: volver, salvar y cubrir
 
@@ -4070,7 +4178,7 @@ Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien 
 
 \headingfive{La frase queda abierta.}
 
-\headingsix{El versículo termina con coma. El pensamiento no se completa aquí; pasa directo al v.20.}
+\headingsix{El pensamiento no se completa aquí; pasa directo al v.20.}
 
 #### y alguien le hace volver,
 \headingfive{El texto añade un segundo \scripture{alguien}: la respuesta comunitaria.}
@@ -4080,13 +4188,14 @@ Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien 
 \headingsix{El foco es práctico: alguien se desvía, y alguien interviene.}
 
 \headingfive{Esto empuja al v.20.}
-
 \headingsix{El v.20 dirá por qué importa ese \scripture{hacer volver}, con resultados declarados.}
 
 ### Santiago 5:20  
 \begin{verseblock}
 sepa que el que hace volver a un pecador del error de su camino salvará su alma de muerte, y cubrirá multitud de pecados.
 \end{verseblock}
+\headingfive{(Referencias cruzadas: Proverbios 10:12; 1 Pedro 4:8)}
+
 #### sepa que
 \headingfive{El texto manda reconocer algo y lo presenta como conclusión.}
 
@@ -4101,7 +4210,7 @@ sepa que el que hace volver a un pecador del error de su camino salvará su alma
 
 \headingsix{Nombra a la persona como \scripture{pecador} y describe su situación como \scripture{error} y \scripture{camino}.}
 
-\headingsix{La frase retoma 5:19 y lo repite con más detalle: extravío -> hacer volver.}
+\headingsix{La frase retoma 5:19 y lo repite con más detalle: extravío → hacer volver.}
 
 \headingfive{Esta repetición amarra 5:19–20 como una sola unidad.}
 
@@ -4132,3 +4241,14 @@ sepa que el que hace volver a un pecador del error de su camino salvará su alma
 \headingfive{Esto cierra la carta.}
 
 \headingsix{No hay otro bloque después. El libro termina con una acción comunitaria concreta y con dos resultados declarados.}
+
+>En Síntesis
+>- Santiago cierra igual que comenzó: la carta habla a una comunidad bajo presión y muestra qué revela esa presión.
+>- A lo largo del libro, la presión no es el tema final; es el escenario donde se hace visible la orientación interior.
+>- El texto insiste en contrastes observables: oír/hacer, pedir/dudar, lengua controlada/descontrolada, planes seguros/mañana incierto, amistad con el mundo/reorientación hacia Dios.
+>- Santiago repite el patrón: lo que se dice se prueba en lo que se hace, y esa dirección produce resultados.
+>- El cierre (Santiago 5:19–20) termina con una acción comunitaria concreta: hacer volver al que se extravía, con resultados declarados.
+>- La meta declarada al inicio permanece como horizonte: “perfectos y completos… sin que nada les falte” (Santiago 1:4), frente a “doble ánimo… inestable” (Santiago 1:8).
+>- El manual, por tanto, sigue el movimiento del libro: presión → orientación expuesta → expresión visible → resultado → llamado a reorientación hacia Dios.
+
+<!-- @quiz santiago-5-1-20 -->

@@ -6,7 +6,7 @@ set -euo pipefail
 # ================================
 MANUAL_NAME="Santiago"
 FILE_LOCATION="../13.Santiago"
-FILENAME="/Santiago.md"
+FILENAME="/Santiago.0.3.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

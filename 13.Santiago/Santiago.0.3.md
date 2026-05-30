@@ -11,7 +11,6 @@ date: "2026-05-29"
 :::title
 Santiago - Presión, orientación y plenitud
 :::
-
 :::subtitle
 La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios.
 :::
@@ -153,7 +152,7 @@ Tengan por sumo gozo, hermanos míos, cuando se hallen en diversas pruebas,
 
 ##### El v.3 empieza con *sabiendo que…*, como base para esta instrucción.
 
-##### Esta frase abre una cadena: pruebas (Santiago 1:2) -> producen (Santiago 1:3) -> resultado/propósito (Santiago 1:4).
+##### Esta frase abre una cadena: pruebas (Santiago 1:2) → producen (Santiago 1:3) → resultado/propósito (Santiago 1:4).
 
 #### hermanos míos
 ##### El texto habla a personas concretas *hermanos míos*. 
@@ -171,7 +170,7 @@ Tengan por sumo gozo, hermanos míos, cuando se hallen en diversas pruebas,
 
 ###### *diversas* amplía el alcance: no limita la instrucción a una sola clase de presión.
 
-###### La línea queda abierta (coma). El v.3 continúa explicando qué está ocurriendo en ese escenario: *la prueba… produce…* (Santiago 1:3).
+###### El v.3 continúa explicando qué está ocurriendo en ese escenario: *la prueba… produce…* (Santiago 1:3).
 
 ### Santiago 1:3  
 sabiendo que la prueba de su fe produce paciencia,
@@ -183,7 +182,7 @@ sabiendo que la prueba de su fe produce paciencia,
 
 ###### Ahora el v.3 empieza con *sabiendo que…*. Eso muestra que lo que sigue funciona como fundamento inmediato de esa instrucción.
 
-##### El texto no avanza por temas sueltos. Avanza por una secuencia: escenario *pruebas* -> base *sabiendo que…* -> resultado *produce…* -> propósito *para que…* (Santiago 1:2–4).
+##### El texto no avanza por temas sueltos. Avanza por una secuencia: escenario *pruebas* → base *sabiendo que…* → resultado *produce…* → propósito *para que…* (Santiago 1:2–4).
 
 #### de su fe  
 ##### La prueba no queda general; el texto la enfoca.
@@ -201,7 +200,7 @@ sabiendo que la prueba de su fe produce paciencia,
 
 ###### No es solo información; es el primer eslabón de la cadena que el texto va a completar en el v.4.
 
-##### La coma deja la idea abierta. El v.4 sigue con el mismo hilo y mueve la palabra *paciencia* hacia un *resultado* y un *para que* (Santiago 1:4).
+##### El v.4 sigue con el mismo hilo y mueve la palabra *paciencia* hacia un *resultado* y un *para que* (Santiago 1:4).
 
 ### Santiago 1:4  
 y que la paciencia tenga su perfecto resultado, para que sean perfectos y completos, sin que nada les falte.
@@ -215,17 +214,16 @@ y que la paciencia tenga su perfecto resultado, para que sean perfectos y comple
 
 ##### El texto no se conforma con decir *paciencia*. Indica qué debe pasar con esa paciencia: que llegue a un resultado deseado. 
 
-¿Pero cuál es ese resultado?
+##### ¿Pero cuál es ese resultado?
 
 #### para que sean perfectos y completos
-
 ##### El texto declara el propósito del proceso.
 
 ###### *para que* introduce finalidad.  
 
 ###### La cadena no se queda en *prueba* ni en *paciencia*; apunta a un estado descrito con dos palabras: *perfectos y completos*.
 
-##### Este *para que* es parte del mismo flujo: prueba (v.2–3) -> paciencia (v.3) -> resultado (v.4) -> propósito (v.4) (Santiago 1:2–4).
+##### Este *para que* es parte del mismo flujo: prueba (v.2–3) → paciencia (v.3) → resultado (v.4) → propósito (v.4) (Santiago 1:2–4).
 
 #### sin que nada les falte.
 ##### El propósito se cierra con una definición negativa de carencia. (2 Corintios 12:9-10)
@@ -329,7 +327,7 @@ Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del ma
 #### Porque el que duda es semejante a la ola del mar,
 ##### El texto explica la condición usando una comparación.
 
-###### *Porque* muestra que el texto no solo ordena; también da una base.  
+###### *Porque* muestra que el texto no solo ordena; también da una base. 
 
 ###### *el que duda* retoma lo que acaba de negar *sin dudar* y lo convierte en sujeto del ejemplo.
 
@@ -337,8 +335,8 @@ Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del ma
 
 ###### La comparación no se entiende sola; el texto la desarrolla en la siguiente frase.
 
-*impulsada por el viento y echada de una parte a otra.*  
-La imagen pinta algo que no se sostiene en una dirección. No se mueve por decisión propia, sino por empuje desde afuera: el viento la empuja y la va tirando de un lado al otro.
+#### impulsada por el viento y echada de una parte a otra.
+##### La imagen pinta algo que no se sostiene en una dirección. No se mueve por decisión propia, sino por empuje desde afuera: el viento la empuja y la va tirando de un lado al otro.
 
 ###### Dos descripciones se acumulan: *impulsada* y *echada*.  
 
@@ -363,8 +361,6 @@ No piense, pues, ese hombre, que recibirá cosa alguna del Señor,
 ###### En 1:5 se dijo *le será dada* (resultado afirmado).  
 
 ###### Aquí se declara el contraste para el que duda: no recibirá.
-
-##### El versículo queda abierto (coma).
 
 ###### El v.8 completará con una descripción del tipo de persona que el texto tiene en vista.
 
@@ -394,7 +390,7 @@ siendo hombre de doble ánimo, inestable en todos sus caminos.
 ###### El texto pasará a contrastes de condición (humilde/rico) y a evaluaciones bajo presión, manteniendo el hilo de estabilidad vs variación.
 
 > En Síntesis
->- Hoy vimos la sección: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
+>- Vimos la sección: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
 >- Esto se conectó con lo anterior: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un *resultado* completo.
 >- Anclas trabajadas: Santiago 1:5, Santiago 1:6, Santiago 1:7, Santiago 1:8.
 >- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
@@ -473,27 +469,26 @@ Porque el sol sale con calor abrasador y seca la hierba, y su flor se cae y la h
 #### Así también se marchitará el rico en medio de sus empresas.
 ##### El texto aplica la imagen al *rico* de manera explícita.
 
-###### *Así también* hace la correspondencia directa: imagen -> referente.  
+###### *Así también* hace la correspondencia directa: imagen → referente.  
 
 ###### *se marchitará* retoma la línea de deterioro y la asigna al *rico*.
 
-En Santiago 1:9–11, el contraste “humilde/rico” aparece dentro del mismo tramo que empezó con *diversas pruebas* (Santiago 1:2). El texto continúa su flujo y añade estos casos.
+##### En Santiago 1:9–11, el contraste “humilde/rico” aparece dentro del mismo tramo que empezó con *diversas pruebas* (Santiago 1:2). El texto continúa su flujo y añade estos casos.
 
-En estos versículos, el texto presenta dos casos lado a lado (Santiago 1:9–10). En ambos usa el mismo verbo: *se gloríe*. 
+###### En estos versículos, el texto presenta dos casos lado a lado (Santiago 1:9–10). En ambos usa el mismo verbo: *se gloríe*. 
 
 gloríese - καυχάσθω (kauchásthō)  
-
 : ponerse valor o contarse a sí mismo “en” algo; gloriarse en ello.
 
-Primero: *que el hermano de condición humilde se gloríe en su alta posición* (Santiago 1:9). Luego: *y el rico en su humillación* (Santiago 1:10). El contraste no está solo en “humilde/rico”, sino en cómo el texto empareja cada uno con una valoración opuesta (alta posición / humillación).
+###### Primero: *que el hermano de condición humilde se gloríe en su alta posición* (Santiago 1:9). Luego: *y el rico en su humillación* (Santiago 1:10). El contraste no está solo en “humilde/rico”, sino en cómo el texto empareja cada uno con una valoración opuesta (alta posición / humillación).
 
-Después, Santiago 1:10 añade una razón: *pues él pasará como la flor de la hierba*. Santiago 1:11 sostiene esa razón con un “Porque…” y desarrolla la imagen con una secuencia de acciones: el sol sale con calor abrasador, seca la hierba, la flor se cae, la hermosura perece. Luego el texto conecta la imagen con el “rico” por medio de *Así también*: *Así también se marchitará el rico en medio de sus empresas* (Santiago 1:11).
+###### Después, Santiago 1:10 añade una razón: *pues él pasará como la flor de la hierba*. Santiago 1:11 sostiene esa razón con un “Porque…” y desarrolla la imagen con una secuencia de acciones: el sol sale con calor abrasador, seca la hierba, la flor se cae, la hermosura perece. Luego el texto conecta la imagen con el “rico” por medio de *Así también*: *Así también se marchitará el rico en medio de sus empresas* (Santiago 1:11).
 
-En otras palabras, el pasaje hace tres cosas seguidas: (1) pone dos casos en contraste (humilde/rico), (2) usa el mismo verbo para ambos (*gloriarse*) pero con dos direcciones opuestas, y (3) apoya lo dicho sobre el “rico” con una razón (*pues…*) que es desarrollada por una imagen (*Porque…*) y aplicada con *Así también…*.
+###### En otras palabras, el pasaje hace tres cosas seguidas: (1) pone dos casos en contraste (humilde/rico), (2) usa el mismo verbo para ambos (*gloriarse*) pero con dos direcciones opuestas, y (3) apoya lo dicho sobre el “rico” con una razón (*pues…*) que es desarrollada por una imagen (*Porque…*) y aplicada con *Así también…*.
 
-Este contraste rico/pobre aparece de nuevo en el escenario de la reunión (Santiago 2:2–3), y el “rico” vuelve a aparecer con fuerza en Santiago 5:1–6.
+###### Este contraste rico/pobre aparece de nuevo en el escenario de la reunión (Santiago 2:2–3), y el “rico” vuelve a aparecer con fuerza en Santiago 5:1–6.
 
-Con esto, 1:9–11 cierra su contraste humilde/rico con una base desarrollada (no solo una afirmación breve).
+##### Con esto, 1:9–11 cierra su contraste humilde/rico con una base desarrollada (no solo una afirmación breve).
 
 ### Santiago 1:12  
 Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sido aprobado, recibirá la corona de la vida que el Señor ha prometido a los que lo aman.
@@ -532,7 +527,7 @@ Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sid
 ###### El v.13 comenzará a regular lo que alguien *dice* cuando es tentado. El texto pasará de *prueba* (1:12) a *tentación* (1:13), manteniendo el tema de presión pero ajustando el enfoque.
 
 > En Síntesis
->- Hoy vimos la sección: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+>- Vimos la sección: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
 >- Esto se conectó con lo anterior: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
 >- Anclas trabajadas: Santiago 1:9, Santiago 1:10, Santiago 1:11, Santiago 1:12.
 >- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
@@ -555,7 +550,7 @@ Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede
 
 ###### En 1:12 se habló de *prueba* y de un resultado declarado. Ahora 1:13 toma otro lado de la presión *tentación* y regula la atribución.
 
-#### «Soy tentado por Dios».
+#### Soy tentado por Dios.
 ##### El texto cita la frase que prohíbe.
 
 ###### No corrige en general; pone en boca una afirmación específica para negarla.  
@@ -621,17 +616,15 @@ Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.
 ###### *por* introduce causa o medio: el proceso ocurre *por* algo.  
 
 ###### *su propia* marca pertenencia: el impulso no se atribuye a un agente externo en este versículo; 
-
 - no proviene de Dios
 - no es algo externo
-
 - se atribuye al interior del sujeto.  
 
 ###### *pasión* nombra ese motor interno.
 
 ##### Esto empuja al v.15.
 
-###### El v.15 continúa la misma línea y desarrolla una secuencia: pasión -> pecado -> muerte.
+###### El v.15 continúa la misma línea y desarrolla una secuencia: pasión → pecado → muerte.
 
 ### Santiago 1:15  
 Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.
@@ -654,8 +647,6 @@ Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado
 ###### Por inferencia, "la concepción" es usado para ilustrar un evento interno que resulta en algo evidente, el "nacimiento".  
 
 ###### El resultado nombrado es *el pecado*. No es una sugerencia; está declarado como producto de la etapa anterior. La "concepción" resulta en "dar a luz". 
-
-##### El punto y coma mantiene la continuidad.
 
 ###### El texto todavía no termina la cadena; añade una segunda etapa.
 
@@ -683,27 +674,25 @@ Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado
 
 ##### Santiago 1:13–15 es una triada donde el texto ata el tramo con una cadena interna explícita: *Sino que…* (Santiago 1:14) y *Después…* (Santiago 1:15).
 ###### Una fuente negada queda clara (Santiago 1:13): no se atribuye a Dios; y la fuente afirmada también queda clara (Santiago 1:14): *su propia pasión*.
-###### Luego el texto marca la dirección con *después* y *luego*: 
 
+###### Luego el texto marca la dirección con *después* y *luego*: 
 - *la pasión… da a luz el pecado…*
 - *engendra la muerte* 
 
-##### Armonía con Romanos
+##### Armonía con Romanos 6
 ###### Romanos describe el problema con lenguaje de dominio y obediencia: *no reine el pecado en su cuerpo mortal para que ustedes no obedezcan a sus lujurias* (Romanos 6:12).
-###### Santiago 1:14–15 muestra esa misma lógica desde adentro y en secuencia: 
 
+###### Santiago 1:14–15 muestra esa misma lógica desde adentro y en secuencia: 
 - la persona es “llevada y seducida” por *su propia pasión*; 
 - luego, *Después…*, esa pasión *da a luz* el pecado, 
 - y el pecado “engendra” la muerte (Santiago 1:14–15).
 
 ###### Romanos también habla de *instrumentos*: 
-
 - no presenten sus miembros *como instrumentos de iniquidad* (Romanos 6:13).
 
 ###### Santiago nombra el momento en que esa *iniquidad* sale a la luz como resultado del proceso: *da a luz el pecado* (Santiago 1:15).
 
 ###### En ambos textos, el final nombrado coincide: 
-
 - muerte (Santiago 1:15).
 - muerte (Romanos 6:23).
 
@@ -711,15 +700,15 @@ Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado
 
 ##### Esto prepara para el ingreso de 1:16.
 
-###### Después de cerrar la cadena (pasión -> pecado -> muerte), 1:16 introduce una advertencia breve *no se engañen*, funcionando como corrección inmediata antes del bloque de origen *de lo alto* (Santiago 1:17–18).
+###### Después de cerrar la cadena (pasión → pecado → muerte), 1:16 introduce una advertencia breve *no se engañen*, funcionando como corrección inmediata antes del bloque de origen *de lo alto* (Santiago 1:17–18).
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 1:13–15 - La pasión interna avanza hasta producir muerte.
-> Esto se conectó con lo anterior: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
-> Anclas trabajadas: Santiago 1:12, Santiago 1:13, Santiago 1:14, Santiago 1:15.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Vimos la sección: Santiago 1:13–15 - La pasión interna avanza hasta producir muerte.
+>- Esto se conectó con lo anterior: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
+>- Anclas trabajadas: Santiago 1:12, Santiago 1:13, Santiago 1:14, Santiago 1:15.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto
 
@@ -742,7 +731,7 @@ Amados hermanos míos, no se engañen.
 
 ###### Es una advertencia breve y directa. No explica aquí; primero frena.  
 
-###### *no se engañen* funciona como bisagra: después de la cadena *pasión* -> *pecado* -> *muerte* (Santiago 1:15), el texto bloquea una lectura errada antes de avanzar.
+###### *no se engañen* funciona como bisagra: después de la cadena *pasión* → *pecado* → *muerte* (Santiago 1:15), el texto bloquea una lectura errada antes de avanzar.
 
 ##### Esto prepara para siguiente versículo.
 
@@ -763,7 +752,6 @@ Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de 
 ###### En 1:13–15 se describió un proceso interno que termina en *muerte*. Aquí el texto instala otro marco: lo *bueno* tiene otro origen (Santiago 1:17).
 
 #### desciende del Padre de las luces,
-
 ##### El texto repite la dirección y nombra al dador.
 
 ###### No solo dice *de lo alto*; añade *desciende*. El origen queda subrayado dos veces (viene / desciende).  
@@ -786,7 +774,6 @@ Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de 
 ###### En 1:6 la duda fue comparada con movimiento *de una parte a otra*, y en 1:8 se nombró *inestable*. Aquí se presenta un contraste de estabilidad en el dador, sin sacar conclusiones todavía (Santiago 1:6–8; Santiago 1:17).
 
 ##### Esto empuja al v.18.
-
 ###### El v.18 pasará de lo general *toda dádiva…* a una acción específica *Él nos hizo nacer…*.
 
 ### Santiago 1:18  
@@ -817,7 +804,6 @@ En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, par
 ###### En 1:19–27 el texto hablará de oír, hablar, recibir y hacer, y allí *la palabra* vuelve a ser central (Santiago 1:19–22).
 
 #### para que fuéramos las primicias de sus criaturas.
-
 ##### El texto declara propósito con *para que*.
 
 ###### *para que* introduce finalidad, igual que en 1:4 *para que sean…*.  
@@ -853,7 +839,7 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 
 ###### Antes de mandar, el texto afirma: *esto lo saben*.  
 
-###### Eso prepara una exhortación directa, no una discusión larga. El movimiento es: ya lo saben -> ahora actúen en esa dirección.
+###### Eso prepara una exhortación directa, no una discusión larga. El movimiento es: ya lo saben → ahora actúen en esa dirección.
 
 ##### Esto también conecta con lo que acaba de decir.
 
@@ -884,7 +870,6 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 ###### La misma estructura continúa: tardo para hablar, tardo para la ira.
 
 #### tardo para hablar,
-
 ##### El texto frena el habla.
 
 ###### En la misma línea, el texto pone límite al hablar: *tardo*.  
@@ -898,7 +883,7 @@ Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tard
 #### tardo para la ira;
 ##### El texto frena la reacción.
 
-###### La tercera parte completa la triada: oír -> hablar -> ira.  
+###### La tercera parte completa la triada: oír → hablar → ira.  
 
 ###### El *;* deja la frase abierta para la razón inmediata del v.20.
 
@@ -986,7 +971,7 @@ Sean hacedores de la palabra y no solamente oidores que se engañan a sí mismos
 
 ###### Después de *reciban… la palabra* (1:21), el texto pasa a *sean hacedores*.  
 
-###### El movimiento es claro: recibir -> hacer.
+###### El movimiento es claro: recibir → hacer.
 
 ##### Esto mantiene el foco en *palabra*.
 
@@ -1040,8 +1025,6 @@ Porque si alguien es oidor de la palabra, y no hacedor, es semejante a un hombre
 
 ###### La imagen es simple: mirar el propio rostro en un espejo. No habla de otros; habla de uno mismo.
 
-##### El versículo termina en punto y coma.
-
 ###### Eso mantiene la ilustración abierta. La secuencia se completa en 1:24 y se contrasta en 1:25 (Santiago 1:24–25).
 
 ### Santiago 1:24  
@@ -1072,12 +1055,12 @@ pues después de mirarse a sí mismo e irse, inmediatamente se olvida de qué cl
 ### Santiago 1:25  
 Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permanece en ella, no habiéndose vuelto un oidor olvidadizo sino un hacedor eficaz, este será bienaventurado en lo que hace.
 
-###### Referencias cruzadas: Mateo 7:24–27; Lucas 11:28; Ezequiel 33:31–32.
+###### (Referencias cruzadas: Mateo 7:24–27; Lucas 11:28; Ezequiel 33:31–32)
 
 #### Pero el que mira atentamente a la ley perfecta,
 ##### El texto gira al caso contrario.
 
-###### *Pero* marca contraste directo con el caso del espejo (mirar -> irse -> olvidar).  
+###### *Pero* marca contraste directo con el caso del espejo (mirar → irse → olvidar).  
 
 ###### *el que* introduce otro caso general, paralelo al *si alguien* de 1:23.
 
@@ -1134,7 +1117,7 @@ Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permane
 
 ###### *este será* conecta el resultado con el caso descrito (no con otro).  
 
-###### *bienaventurado* ya apareció en 1:12. Aquí vuelve como evaluación declarada dentro del bloque de *palabra -> respuesta* (Santiago 1:12; Santiago 1:25).
+###### *bienaventurado* ya apareció en 1:12. Aquí vuelve como evaluación declarada dentro del bloque de *palabra → respuesta* (Santiago 1:12; Santiago 1:25).
 
 ##### Esto cierra la ilustración y prepara 1:26–27.
 
@@ -1185,7 +1168,7 @@ Si alguien se cree religioso, pero no refrena su lengua, sino que engaña a su p
 ### Santiago 1:27  
 La religión pura y sin mancha delante de nuestro Dios y Padre es esta: visitar a los huérfanos y a las viudas en sus aflicciones, y guardarse sin mancha del mundo.
 
-###### Referencias cruzadas: Proverbios 10:19; Proverbios 18:21.
+###### (Referencias cruzadas: Proverbios 10:19; Proverbios 18:21)
 
 #### La religión pura y sin mancha delante de nuestro Dios y Padre
 ##### El texto presenta la contraparte positiva del v.26.
@@ -1325,7 +1308,7 @@ Porque si en su congregación entra un hombre con anillo de oro y vestido de rop
 
 ###### Así como el primero fue descrito por *anillo* y *ropa lujosa*, este es descrito por *ropa sucia*.
 
-###### La línea queda abierta (coma). El texto todavía no ha mostrado la reacción. Eso viene en los versículos siguientes.
+###### El texto todavía no ha mostrado la reacción. Eso viene en los versículos siguientes.
 
 ### Santiago 2:3  
 y dan atención especial al que lleva la ropa lujosa, y dicen: «Siéntese aquí, en un buen lugar»; y al pobre dicen: «Tú estate allí de pie, o siéntate junto a mi estrado»;
@@ -1368,7 +1351,7 @@ y dan atención especial al que lleva la ropa lujosa, y dicen: «Siéntese aquí
 ### Santiago 2:4  
 ¿acaso no han hecho distinciones entre ustedes mismos, y han venido a ser jueces con malos pensamientos?
 
-###### Referencias cruzadas: Romanos 2:11. Nota de referencia: Romanos 3:28.
+###### (Referencias cruzadas: Romanos 2:11. Nota de referencia: Romanos 3:28)
 
 #### ¿acaso no han hecho distinciones entre ustedes mismos,
 ##### El texto pasa del ejemplo a una pregunta que acusa.
@@ -1459,14 +1442,14 @@ Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y 
 
 ###### *tribunales* trae el conflicto al terreno público/legal (no solo social).
 
-##### Esto empuja al v.7.
+##### Esto lleva al v.7.
 
 ###### El v.7 añadirá una razón más sobre los *ricos* en forma de pregunta.
 
 ### Santiago 2:7  
 ¿No blasfeman ellos el buen nombre por el cual ustedes han sido llamados?
 
-###### Referencias cruzadas: Lucas 6:20–26; Salmo 10:2–9.
+###### (Referencias cruzadas: Lucas 6:20–26; Salmo 10:2–9)
 
 #### ¿No blasfeman ellos el buen nombre
 ##### Otra pregunta que agrega peso al argumento.
@@ -1482,8 +1465,7 @@ Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y 
 
 ###### Esto agrava la contradicción: favorecer a quienes hablan mal del nombre ligado a ustedes.
 
-##### Esto empuja al v.8.
-
+##### Esto introduce al v.8.
 ###### El v.8 moverá el argumento hacia *ley* y *Escritura*.
 
 ### Santiago 2:8  
@@ -1565,7 +1547,6 @@ Porque cualquiera que guarda toda la ley, pero falla en un punto, se ha hecho cu
 ###### Esta frase funciona como cierre fuerte del principio.
 
 ##### Esto empuja al v.11.
-
 ###### El v.11 dará un ejemplo con mandamientos concretos.
 
 ### Santiago 2:11  
@@ -1624,7 +1605,6 @@ Así hablen ustedes y así procedan, como los que han de ser juzgados por la ley
 ###### *ley de la libertad* retoma el tema de ley, ahora con un nombre específico.
 
 ##### Esto empuja al v.13.
-
 ###### El v.13 explicará cómo opera el juicio en relación con misericordia.
 
 ### Santiago 2:13  
@@ -1635,7 +1615,7 @@ Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
 
 ###### *Porque* conecta con 2:12: explica el juicio mencionado.
 
-###### El texto hace una correspondencia clara: no mostrar misericordia -> juicio sin misericordia.
+###### El texto hace una correspondencia clara: no mostrar misericordia → juicio sin misericordia.
 
 #### La misericordia triunfa sobre el juicio.
 ##### El texto cierra el tramo con una frase final fuerte.
@@ -1650,174 +1630,103 @@ Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
 >- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
 >- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
-## Santiago 2:14–26 - La fe dicha, sin expresión visible, queda expuesta
+## Santiago 2:14–20 - La fe dicha, sin expresión visible, queda expuesta
 
 ### Santiago 2:14  
 ¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?
 
 #### ¿De qué sirve, hermanos míos,
-##### Santiago abre este bloque con una pregunta de *valor* o *resultado*.
-
-###### No empieza con una definición. Empieza con una pregunta: *¿de qué sirve?*.
-
-###### La pregunta empuja al lector a medir algo por su resultado, no por cómo suena.
-
-##### Vuelve el trato directo.
-
-###### *hermanos míos* mantiene el tono de corrección dentro de relación, como antes (Santiago 2:1; Santiago 2:5).
+##### Santiago abre este bloque con una pregunta de valor.
+###### No empieza con una definición. Empieza con *¿de qué sirve?*.
+###### La pregunta empuja a evaluar el caso por su provecho o resultado, no solamente por la afirmación que se hace.
+###### “hermanos míos” mantiene el tono directo de corrección dentro de la comunidad (Santiago 2:1; Santiago 2:5).
 
 #### si alguien dice que tiene fe,
-##### El texto fija el caso en lo que alguien *dice*.
-
+##### El texto fija el caso en lo que se dice.
 ###### El punto de partida es una afirmación verbal: *dice que tiene…*.
-
-###### Santiago no empieza discutiendo lo interior; empieza con una declaración audible.
-
-##### Esto prepara la prueba que viene.
-
-###### Lo que sigue (2:15–16) mostrará un caso visible para poner esa *declaración* bajo presión.
+###### La frase queda lista para ser puesta bajo una escena visible (Santiago 2:15–16).
 
 #### pero no tiene obras?
-##### El texto introduce el contraste dentro del mismo caso.
-
-###### *pero* marca choque: dice una cosa, pero falta otra.
-
-###### *no tiene obras* pone lo que falta en términos visibles/medibles.
-
-##### La pregunta queda abierta.
-
-###### El texto todavía no responde; continúa con un escenario (Santiago 2:15–16).
+##### El texto instala el contraste dentro del mismo caso.
+###### *pero* marca choque: se afirma una cosa y falta otra.
+###### *no tiene obras* nombra la ausencia en términos que se pueden ver.
 
 #### ¿Acaso puede esa fe salvarlo?
-##### Santiago sube la presión con una segunda pregunta.
-
-###### Cambia de *¿sirve?* a *¿puede salvar?*.
-
-###### La pregunta obliga a tratar el caso como algo con consecuencias reales, no solo como discurso.
-
-##### Esto empuja a un ejemplo concreto.
-
-###### El v.15 empezará con *Si…* y pondrá el tema en una escena cotidiana.
+##### Santiago avanza con una segunda pregunta.
+###### Cambia de *¿de qué sirve?* a *¿puede salvar?*.
+###### El texto estrecha el foco con *esa fe*: no pregunta por “fe” en abstracto, sino por la fe del caso descrito (Santiago 2:14).
+###### “esa fe” señala una clase específica dentro del argumento: la fe que aparece en palabras (“dice que tiene fe”) pero que, en el mismo caso, está marcada por ausencia (“no tiene obras”) (Santiago 2:14).
+###### Esto empuja a un ejemplo concreto y cotidiano. El v.15 empezará con *Si…* (Santiago 2:15).
 
 ### Santiago 2:15  
 Si un hermano o una hermana no tienen ropa y carecen del sustento diario,
 
 #### Si un hermano o una hermana
 ##### Santiago entra en un caso comunitario y real.
-
-###### No habla de *personas* en abstracto; habla de *hermano* y *hermana*.
-
-###### Esto conecta con el contexto de comunidad del capítulo 2.
-
-##### El caso es deliberadamente simple.
-
-###### Prepara una evaluación que cualquiera puede entender cuando llegue el v.16.
+###### No habla de personas en abstracto; habla de *hermano* y *hermana*.
+###### El caso se presenta para que cualquiera lo entienda cuando el v.16 complete la escena.
 
 #### no tienen ropa
 ##### Se describe una necesidad visible.
-
 ###### La falta es concreta: ropa.
-
-###### No es un problema invisible; cualquiera lo puede ver.
+###### No es un problema invisible; cualquiera lo puede notar.
 
 #### y carecen del sustento diario,
-##### Se añade una segunda necesidad básica.
-
+##### Se añade otra necesidad básica.
 ###### *y* acumula la condición: no es solo ropa, también sustento.
-
-###### *diario* marca repetición/continuidad: no es una necesidad de un solo día.
-
-##### La frase queda abierta.
-
-###### El v.16 completará la escena con la respuesta de *uno de ustedes*.
+###### *diario* marca continuidad: no es una necesidad de un solo día.
+###### La frase queda abierta y espera el v.16.
 
 ### Santiago 2:16  
 y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?
 
 #### y uno de ustedes les dice:
-##### El caso se vuelve personal dentro de la comunidad.
-
-###### *uno de ustedes* acerca el caso: no son *otros*; es alguien dentro del grupo.
-
-###### Se mantiene el enfoque en el habla: *les dice…*.
-
-##### Esto conecta con 2:14.
-
-###### En 2:14 el problema empezó con *dice que tiene fe*. Aquí vuelve *dice*, pero ahora en un caso práctico.
+##### El caso se vuelve personal dentro del grupo.
+###### “uno de ustedes” acerca el caso: sucede dentro de la comunidad.
+###### El texto mantiene el foco en el habla: *les dice…*.
+###### Esto conversa con 2:14, donde el caso también empezó con “dice” (Santiago 2:14; Santiago 2:16).
 
 #### «Vayan en paz, caliéntense y sáciense»,
-##### El texto cita palabras que suenan bien, pero se quedan en palabras.
-
-###### La frase es verbal y completa: *vayan… caliéntense… sáciense*.
-
-###### El texto deja que el lector oiga el tono de *buen deseo* sin acción.
-
-##### La cita prepara el contraste inmediato.
-
-###### El *pero* que viene mostrará lo que falta.
+##### El texto pone palabras completas, pero solo palabras.
+###### La frase suena como deseo bueno.
+###### El texto deja que el lector oiga la frase tal como es, antes de mostrar lo que falta.
 
 #### pero no les dan lo necesario para su cuerpo,
 ##### Aquí está el contraste: palabras sin provisión.
-
 ###### *pero* corta la escena: el problema no es lo que se dijo, sino lo que no se dio.
+###### “lo necesario” mantiene el caso en lo básico.
+###### “para su cuerpo” mantiene el caso en lo visible.
 
-###### *no les dan lo necesario* nombra una falta concreta de respuesta.
-
-###### *para su cuerpo* mantiene el caso en lo visible y básico.
-
-##### El texto pone el caso en términos medibles.
-
-###### Se puede verificar: ¿hubo provisión o no hubo?
+###### Se puede verificar el punto del ejemplo.
+- ¿Hubo provisión o no hubo provisión?
 
 #### ¿de qué sirve?
 ##### Santiago repite la misma pregunta del v.14.
-
-###### Esto es importante: *¿de qué sirve?* reaparece como re-entrada inmediata.
-
-###### El ejemplo no es un tema nuevo; es una demostración de la pregunta original.
-
-##### Esto empuja al veredicto del v.17.
-
-###### El v.17 comenzará con *Así también…*, conectando el ejemplo con el caso *fe… obras*.
+###### La re‑entrada es directa: *¿de qué sirve?* (Santiago 2:14; Santiago 2:16).
+###### El ejemplo no es un tema nuevo; es la misma pregunta puesta en escena.
+###### Esto empuja al veredicto del v.17.
 
 ### Santiago 2:17  
 Así también la fe por sí misma, si no tiene obras, está muerta.
 
 #### Así también
-##### Santiago conecta directamente el ejemplo con el caso principal.
-
-###### *Así también* es un puente: lo que acaba de mostrar en el ejemplo, ahora lo aplica al caso de *fe/obras*.
-
-###### No es un salto. Es una conexión explícita.
+##### Santiago conecta el ejemplo con el caso principal.
+###### “Así también” es puente: lo visible del ejemplo ahora se aplica al caso de fe/obras.
 
 #### la fe por sí misma,
 ##### Santiago nombra el tema y lo aísla.
-
-###### *por sí misma* pone la fe sola, separada.
-
-###### Eso prepara la evaluación: ¿qué pasa cuando está sola?
+###### “por sí misma” pone la fe sola, separada, sin lo que el caso dijo que faltaba.
 
 #### si no tiene obras,
 ##### Se repite la condición del v.14 con las mismas piezas.
-
-###### *si* vuelve a ponerlo como caso.
-
-###### *no tiene obras* repite el contraste que instaló el v.14.
-
-##### El texto mantiene el mismo hilo sin cambiar vocabulario.
-
-###### Eso ayuda a ver continuidad: v.14 abre, v.17 cierra la primera parte con un veredicto.
+###### “si” mantiene el formato de caso.
+###### “no tiene obras” retoma la ausencia nombrada en 2:14.
 
 #### está muerta.
-##### Santiago da un veredicto corto y fuerte.
-
+##### Santiago cierra con un veredicto corto y final.
 ###### No lo deja en pregunta. Aquí afirma: *está muerta*.
-
-###### Es el cierre del primer movimiento del bloque (pregunta -> ejemplo -> veredicto).
-
-##### Esto empuja al siguiente paso (2:18).
-
-###### El v.18 introduce *Pero alguien dirá…*, o sea, una objeción/diálogo, y el argumento seguirá avanzando.
+###### El verbo está en presente (*está*): el texto lo presenta como estado del caso descrito.
+###### Esto cierra el primer movimiento (pregunta → escena → veredicto) y empuja al v.18, donde aparece el lenguaje de “mostrar” (Santiago 2:18).
 
 ### Santiago 2:18  
 Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».
@@ -1836,7 +1745,7 @@ Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las o
 
 ###### Esto prepara frases cortas que contrastan *fe* y *obras* en forma directa.
 
-#### «Tú tienes fe
+#### Tú tienes fe
 ##### Primer lado del contraste en el diálogo.
 
 ###### El texto pone una afirmación simple en boca de alguien.
@@ -1871,15 +1780,16 @@ Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las o
 
 ###### El diálogo se vuelve espejo: *muéstrame* / *yo te mostraré*.
 
-#### por mis obras».
+#### por mis obras.
 ##### El texto cierra el contraste con la frase final.
 
 ###### Aquí se declara el método: *por mis obras*.
 
 ###### El punto del diálogo queda puesto: una demostración va ligada a obras.
 
-##### Esto empuja al v.19.
+##### El tema no es simplemente la existencia de obras. El tema es la posibilidad de mostrar la fe, *te mostraré mi fe por mis obras*. 
 
+##### Esto introduce el v.19.
 ###### El v.19 traerá un ejemplo de *creer* que no resuelve el problema por sí solo (Santiago 2:19).
 
 ### Santiago 2:19  
@@ -1930,251 +1840,219 @@ Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es esté
 
 ###### No deja que el lector se quede cómodo con lo anterior.
 
-#### ¿estás dispuesto a admitir,
-##### El texto pone una pregunta que busca respuesta clara.
+#### ¿estás dispuesto a admitir,  
+##### El texto pone una pregunta que busca una respuesta definida.  
 
-###### No es una pregunta de información; es una pregunta de disposición.
+###### No es una pregunta de información.  
+###### Es una pregunta de disposición: ¿está el interlocutor dispuesto a conceder el punto que sigue?  
+###### El texto no se queda en el veredicto anterior; ahora presiona al lector a reconocerlo.  
 
-###### Pide que el lector conceda un punto.
+#### oh hombre vano,  
+##### El texto interpela directamente al interlocutor.  
 
-#### oh hombre vano,
-##### El texto interpela con una etiqueta fuerte.
+###### No es un comentario neutral. Es una forma de hablarle de frente, sin suavizar el golpe de la pregunta.  
+###### La etiqueta “vano” no añade un dato nuevo al argumento; sube la presión del momento.  
 
-###### No es un comentario neutral.
+vano - κενός (kenós)  
+: vacío; sin contenido; sin sustancia (lo que está “hueco” por dentro, aunque suene lleno por fuera).
 
-###### La frase intensifica la confrontación antes de la afirmación que sigue.
+###### El texto está diciendo, en efecto: “no lo trates como un detalle pequeño; no te escapes con una respuesta fácil”.  
 
-#### que la fe sin obras
-##### El texto vuelve a la fórmula central.
+###### La pregunta no apunta primero a “hacer más”, sino a reconocer un punto: ¿vas a admitirlo?
 
-###### Repite *fe* y *obras* en la misma línea.
+###### Y al decir “oh hombre vano (κενός)”, el texto acusa al interlocutor de tratar el caso con una evaluación “vacía”, sin sustancia.
 
-###### Esta frase funciona como ancla del bloque 2:14–26.
+###### Así la frase intensifica el tono justo antes de repetir la línea central del bloque: *fe* y *obras*.   
 
-#### es estéril?
-##### El texto nombra el resultado con una palabra breve.
+##### Santiago desafía la conclusión a la que el interlocutor ha llegado...
 
-###### *estéril* es evaluación: sin fruto, sin resultado.
+#### que la fe sin obras  
+##### El texto vuelve a la fórmula central del bloque.  
 
-###### Esto empuja a ejemplos mayores (Abraham, Rahab) para sostener el punto.
+###### Reaparecen los mismos dos elementos que dominan la discusión desde Santiago 2:14: *fe* y *obras*.  
+###### La frase retoma el caso que comenzó con: *si alguien dice que tiene fe, pero no tiene obras* (Santiago 2:14).  
+###### El argumento sigue examinando esa misma fe.  
 
-### Santiago 2:21  
+#### es estéril?  
+##### El texto presenta una evaluación del caso en forma de pregunta.  
+
+###### *estéril* nombra falta de fruto o falta de salida.  
+###### La palabra resume la evaluación que Santiago viene empujando desde *¿de qué sirve?* (Santiago 2:14; Santiago 2:16).  
+###### Después de esta pregunta, el texto pasa a ejemplos concretos (Abraham y Rahab) para seguir el argumento en escenas (Santiago 2:21–25). 
+
+## Santiago 2:21–26 — El mismo caso, ahora puesto en escenas “grandes” (ver / mostrar)
+
+## Santiago 2:21–26 — Abraham y Rahab: el argumento se ve en escenas
+
+### Santiago 2:21
 ¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?
 
-#### ¿No fue justificado
-##### El texto entra en ejemplo con una pregunta que espera acuerdo.
+#### ¿No fue justificado  
+##### El texto continúa con preguntas que buscan una respuesta definida.
 
-###### *¿No…?* suena como: *esto es reconocible*.
+###### En 2:14–20 el argumento avanzó mediante preguntas, ejemplos y lenguaje de “mostrar” y “ver” (Santiago 2:18; Santiago 2:20).  
+###### Aquí Santiago vuelve a una pregunta: “¿No fue…?”. No empieza explicando; vuelve a interpelar al lector.
 
-###### La pregunta abre un caso histórico como evidencia.
+#### por las obras  
+##### El texto introduce la expresión que dominará la escena.
 
-#### por las obras
-##### El texto pone el criterio al frente.
+###### En 2:14 el caso fue: “dice que tiene fe, pero no tiene obras” (Santiago 2:14).  
+###### En 2:18 el tema pasó a “mostrar” (Santiago 2:18).  
+###### Ahora el texto pone el argumento en una escena concreta.
 
-###### No lo deja implícito.
+#### Abraham nuestro padre  
+##### El texto trae un ejemplo reconocido.
 
-###### La frase mantiene el mismo campo: obras como eje visible del argumento.
+###### Ya no usa una situación cotidiana como en 2:15–16.  
+###### Introduce una figura conocida dentro del argumento.  
+###### “nuestro padre” acerca el ejemplo al lector.
 
-#### Abraham nuestro padre
-##### El texto nombra un ejemplo grande y conocido.
+#### cuando ofreció a su hijo Isaac sobre el altar?  
+##### El texto fija el argumento en una acción concreta.
 
-###### *nuestro padre* crea cercanía de referencia.
+###### “cuando” ubica un momento específico.  
+###### “ofreció… sobre el altar” describe una escena visible.  
+###### El argumento continúa avanzando mediante situaciones observables.
 
-###### Esto da peso al ejemplo sin necesidad de explicación larga aquí.
-
-#### cuando ofreció a su hijo Isaac
-##### El texto fija el ejemplo en un hecho concreto.
-
-###### *cuando* instala la escena.
-
-###### *ofreció* describe una acción específica, no una idea.
-
-#### sobre el altar?
-##### El texto termina de ubicar la acción en un lugar concreto.
-
-###### *altar* hace la escena visible.
-
-###### La pregunta queda lista para ser desarrollada en el v.22.
-
-### Santiago 2:22  
+### Santiago 2:22
 Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;
 
-#### Ya ves que
-##### El texto guía al lector: *mira esto*.
+#### Ya ves que  
+##### El texto vuelve al lenguaje de observación.
 
-###### No deja el ejemplo como historia suelta.
+###### Esto conecta con “mostrar” (Santiago 2:18) y con la pregunta anterior (Santiago 2:21).  
+###### El argumento se presenta como algo que puede verse en la escena.  
+###### El texto coloca al lector en lenguaje de observación: “Ya ves”.
 
-###### *ya ves* presenta el punto como observable dentro del argumento.
+#### la fe actuaba juntamente con sus obras,  
+##### El texto presenta fe y obras actuando juntas.
 
-#### la fe actuaba juntamente con sus obras,
-##### El texto describe relación de trabajo conjunto.
+###### No aparecen como elementos separados.  
+###### El texto las muestra funcionando en la misma escena.  
+###### La atención ya no está en una afirmación verbal, sino en algo que puede observarse.
 
-###### No dice *fe aparte* y *obras aparte*.
+#### y como resultado de las obras,  
+##### El texto introduce una relación de resultado.
 
-###### Dice *juntamente*: lado a lado, en la misma escena.
+###### La frase conecta lo que ocurre en la escena con un efecto.  
+###### Santiago sigue trabajando con lenguaje de proceso y resultado.
 
-#### y como resultado de las obras,
-##### El texto introduce una línea de resultado.
+#### la fe fue perfeccionada;  
+##### El texto describe una fe llevada a completitud.
 
-###### *como resultado* vuelve al lenguaje de producción/resultado del libro (Santiago 1:3–4).
+###### “perfeccionada” es lenguaje de completar o llevar algo a su meta.  
+###### Esto conversa con Santiago 1:4, donde el libro apunta hacia lo perfecto y completo (Santiago 1:4).
 
-###### Aquí lo aplica a la relación fe/obras dentro del ejemplo.
-
-#### la fe fue perfeccionada;
-##### El texto declara un cierre de proceso.
-
-###### *fue perfeccionada* es lenguaje de completitud.
-
-###### Esto conecta con la meta de *perfectos y completos* (Santiago 1:4), sin cambiar de tema.
-
-##### Esto empuja al v.23.
-
-###### El v.23 añadirá *se cumplió la Escritura…*, o sea, un segundo soporte.
-
-### Santiago 2:23  
+### Santiago 2:23
 y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.
 
-#### y se cumplió
-##### El texto añade un segundo paso: cumplimiento.
+#### y se cumplió la Escritura que dice:  
+##### El texto añade una referencia a la Escritura.
 
-###### *y* muestra continuidad con el v.22.
+###### “y” mantiene la continuidad del argumento.  
+###### “se cumplió” conecta la escena con una palabra previa citada.
 
-###### *se cumplió* presenta un resultado: algo dicho antes llega a su punto.
+#### «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA»,  
+##### El texto introduce una cita dentro de la discusión.
 
-#### la Escritura que dice:
-##### El texto apela a una referencia escrita.
+###### La cita incorpora el lenguaje de creer y de justicia.  
+###### Santiago integra esta cita dentro del argumento que viene desarrollando con Abraham.
 
-###### No lo presenta como opinión.
+#### y fue llamado amigo de Dios.  
+##### El texto añade una designación final sobre Abraham.
 
-###### Lo presenta como *Escritura* y la cita.
+###### “fue llamado” introduce una identificación o reconocimiento.  
+###### El argumento sigue acumulando lenguaje de evaluación y resultado.
 
-#### «Y ABRAHAM CREYÓ A DIOS
-##### La cita introduce el elemento *creyó*.
+###### Observación de secuencia bíblica.
+- La frase citada pertenece a Génesis 15:6.  
+- La escena del ofrecimiento de Isaac pertenece a Génesis 22:1–12.  
 
-###### Después de hablar de obras, la cita trae *creer*.
+### Santiago 2:24
 
-###### Eso mantiene unidos los dos términos que el bloque está trabajando.
-
-#### Y LE FUE CONTADO POR JUSTICIA»,
-##### La cita cierra con una frase de evaluación.
-
-###### *le fue contado* suena a resultado declarado.
-
-###### Esto refuerza que el ejemplo tiene peso dentro del argumento.
-
-#### y fue llamado amigo de Dios.
-##### El texto añade un resultado de identidad/relación.
-
-###### *fue llamado* muestra nombramiento.
-
-###### *amigo de Dios* cierra el ejemplo con una etiqueta final.
-
-##### Esto empuja al v.24.
-
-###### El v.24 dirá *Ustedes ven…*, o sea, sacará conclusión explícita.
-
-### Santiago 2:24  
 Ustedes ven que el hombre es justificado por las obras y no solo por la fe.
 
-#### Ustedes ven que
-##### El texto presenta la conclusión como algo visible.
+#### Ustedes ven que  
+##### El texto pasa de escena a conclusión explícita.
 
-###### No dice *imaginen*. Dice *ven*.
+###### El lenguaje de “ver” reaparece.  
+###### El texto formula una conclusión para el lector desde el ejemplo presentado.
 
-###### Esto enlaza con *mostrar* (2:18) y con *ya ves* (2:22): el argumento está armado para ser visto.
+#### el hombre es justificado por las obras  
+##### El texto formula la conclusión de manera general.
 
-#### el hombre es justificado por las obras
-##### El texto declara la línea principal de la conclusión.
+###### Pasa de Abraham (“nuestro padre”) a “el hombre”.  
+###### La conclusión se construye a partir de la escena que acaba de presentarse.
 
-###### Repite *justificado* del ejemplo (2:21).
+#### y no solo por la fe.  
+##### El texto añade el contraste.
 
-###### Repite *por las obras* como criterio visible.
+###### “no solo” limita una lectura que dejaría la fe aislada.  
+###### La discusión sigue girando alrededor de una fe separada frente a una fe descrita junto con obras dentro de la escena.
 
-#### y no solo por la fe.
-##### El texto cierra con un contraste breve.
-
-###### *no solo* marca que fe sola no es el cuadro completo en el argumento de Santiago aquí.
-
-###### Esto prepara un segundo ejemplo (Rahab) para reforzar que no fue un caso aislado (Santiago 2:25).
-
-### Santiago 2:25  
+### Santiago 2:25
 Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?
 
-#### Y de la misma manera,
-##### El texto anuncia un ejemplo paralelo.
+#### Y de la misma manera,  
+##### El texto introduce un segundo ejemplo.
 
-###### *de la misma manera* marca que el punto será el mismo con otra persona.
+###### No se trata de una escena aislada.  
+###### “de la misma manera” crea un paralelo con Abraham.  
+###### El argumento queda sostenido por más de un caso.
 
-###### *Y* mantiene continuidad; no es un apéndice.
+#### ¿no fue la ramera Rahab también justificada por las obras  
+##### El texto repite la misma pregunta y la misma fórmula.
 
-#### ¿no fue la ramera Rahab también justificada por las obras
-##### El texto usa la misma forma de pregunta que con Abraham.
+###### Reaparece la estructura utilizada con Abraham.  
+###### “también” añade un segundo testigo al argumento.
 
-###### *¿no fue…?* mantiene el estilo de pregunta que espera acuerdo.
-
-###### *también* refuerza: no es solo Abraham.
-
-###### Repite el criterio: *por las obras*.
-
-#### cuando recibió a los mensajeros
+#### cuando recibió a los mensajeros  
 ##### El texto ubica el ejemplo en una acción concreta.
 
-###### *cuando* instala la escena, como en 2:21.
+###### “cuando” señala una escena específica.  
+###### “recibió” describe una acción visible.
 
-###### *recibió* describe acción visible.
+#### y los envió por otro camino?  
+##### El texto añade una segunda acción dentro de la misma escena.
 
-#### y los envió por otro camino?
-##### El texto añade una segunda acción dentro del ejemplo.
+###### Igual que Abraham, Rahab es presentada mediante acciones observables.  
+###### El argumento continúa avanzando por escenas que pueden verse.
 
-###### *y* acumula obra sobre obra.
-
-###### *por otro camino* concreta la acción con un detalle de dirección.
-
-##### Esto empuja al v.26.
-
-###### El v.26 cerrará el bloque con una analogía corta que funciona como candado final.
-
-### Santiago 2:26  
-###### Referencias cruzadas: 1 Juan 3:17–18.
+### Santiago 2:26
 Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.
 
-#### Porque
-##### El texto cierra con una base final.
+#### Porque  
+##### El texto introduce la razón final del bloque.
 
-###### *Porque* indica que esta analogía sostiene el punto como cierre.
+###### “Porque” aparece como cierre argumental.  
+###### Santiago concluye con una analogía.
 
-###### Es el candado del bloque 2:14–26.
+#### así como el cuerpo sin el espíritu está muerto,  
+##### El texto presenta la primera mitad de la comparación.
 
-#### así como el cuerpo sin el espíritu está muerto,
-##### Primera mitad de la analogía.
+###### La analogía une dos elementos que pertenecen juntos.  
+###### Cuando uno falta, el resultado es muerte.  
+###### La imagen es sencilla y directa.
 
-###### El texto usa una comparación simple y total: cuerpo sin espíritu.
+#### así también la fe sin las obras  
+##### El texto vuelve al caso que abrió toda la discusión.
 
-###### *está muerto* declara el estado sin matices.
+###### Reaparecen “fe” y “obras” en la misma línea.  
+###### Igual que en 2:14 y 2:17, la atención recae sobre una fe presentada en separación.
 
-#### así también la fe sin las obras
-##### El texto conecta la analogía con el tema principal.
+#### está muerta.  
+##### Santiago repite el mismo veredicto de 2:17.
 
-###### *así también* hace el puente explícito.
-
-###### *fe sin obras* repite la fórmula central una vez más para que no se pierda.
-
-#### está muerta.
-##### El texto cierra con el mismo veredicto del v.17.
-
-###### *está muerta* ya apareció en 2:17.
-
-###### La repetición funciona como cierre fuerte: abre (2:17), argumenta (2:18–25), y cierra (2:26).
-
-##### Esto prepara el siguiente bloque.
-
-###### Después de este candado, el libro pasa a 3:1 con una nueva corrección: *no se hagan maestros muchos…* (Santiago 3:1).
+###### El bloque comenzó con una afirmación: “dice que tiene fe” (Santiago 2:14).  
+###### Luego avanzó mediante preguntas, ejemplos, “mostrar” y “ver” (Santiago 2:15–16; Santiago 2:18–24).  
+###### Finalmente vuelve al mismo veredicto: “está muerta” (Santiago 2:17; Santiago 2:26).
 
 > En Síntesis
->- Anclas trabajadas: Santiago 2:23, Santiago 2:24, Santiago 2:25, Santiago 2:26.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- El argumento comenzó con una afirmación verbal: “dice que tiene fe” (Santiago 2:14).  
+>- Luego pasó a una escena visible y evaluable (Santiago 2:15–16).  
+>- Después avanzó hacia “mostrar” y “ver” (Santiago 2:18–24).  
+>- Abraham y Rahab aparecen como escenas concretas dentro de esa misma línea (Santiago 2:21–25).  
+>- El bloque termina con el mismo veredicto repetido: “está muerta” (Santiago 2:17; Santiago 2:26).  
 
 <!-- @quiz santiago-2-1-26 -->
 
@@ -2318,7 +2196,7 @@ Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grand
 #### Así también
 ##### El texto conecta las dos ilustraciones con la lengua.
 
-###### *Así también* es el puente explícito: ejemplos -> aplicación.
+###### *Así también* es el puente explícito: ejemplos → aplicación.
 
 #### la lengua es un miembro pequeño,
 ##### El texto nombra el *timón/freno* humano.
@@ -2333,7 +2211,7 @@ Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grand
 #### ¡Pues qué gran bosque se incendia con tan pequeño fuego!
 ##### El texto introduce una tercera imagen: fuego pequeño, daño grande.
 
-###### Repite el patrón: pequeño -> grande.
+###### Repite el patrón: pequeño → grande.
 
 ###### Esto abre la intensificación fuerte del v.6.
 
@@ -2394,8 +2272,6 @@ Porque toda clase de fieras y de aves, de reptiles y de animales marinos, se pue
 ##### El texto añade evidencia: no solo se puede; se ha hecho.
 
 ###### Mantiene la idea de control/domino.
-
-##### La frase queda abierta (coma).
 
 ###### El v.8 traerá el *pero* con el contraste.
 
@@ -2486,7 +2362,7 @@ De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe 
 ### Santiago 3:12  
 ¿Acaso, hermanos míos, puede una higuera producir aceitunas, o una vid higos? Tampoco la fuente de agua salada puede producir agua dulce.
 
-Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3.
+##### (Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3)
 
 #### ¿Acaso, hermanos míos,
 ##### El texto mantiene el tono de pregunta + trato directo.
@@ -2549,14 +2425,14 @@ Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3.
 
 ###### El v.14 presentará otro tipo de *corazón* y otro tipo de resultado.
 
-#### sus obras  
+#### sus obras
 ##### El texto une *conducta* y *obras* como un mismo campo visible.
 
 ###### *obras* no aparece aquí como tema aparte; aparece como parte de lo que se muestra.
 
 ###### Esto conecta con el patrón del libro: lo que se dice se prueba en lo visible (Santiago 1:22; Santiago 2:14–17).
 
-#### en sabia mansedumbre.  
+#### en sabia mansedumbre.
 ##### El texto añade el modo en que esas obras deben verse.
 
 ###### No solo pide *obras*. Califica el modo: *mansedumbre*.
@@ -2566,7 +2442,7 @@ Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3.
 ### Santiago 3:14  
 Pero si tienen celos amargos y ambición personal en su corazón, no sean arrogantes y mientan así contra la verdad.
 
-#### Pero si tienen  
+#### Pero si tienen
 ##### El texto entra en un caso alternativo con *pero* y *si*.
 
 ###### *Pero* marca contraste con el v.13.
@@ -2577,35 +2453,35 @@ Pero si tienen celos amargos y ambición personal en su corazón, no sean arroga
 
 ###### Lo que sigue nombra cosas *en su corazón*.
 
-#### celos amargos  
+#### celos amargos
 ##### El texto nombra un motor interno con una calificación.
 
 ###### *celos* se presenta como algo interno que dirige.
 
 ###### *amargos* lo califica y lo intensifica.
 
-#### y ambición personal  
+#### y ambición personal
 ##### El texto añade un segundo motor interno.
 
 ###### No deja el problema en un solo término.
 
 ###### Junta *celos* con *ambición personal* como pareja.
 
-#### en su corazón,  
+#### en su corazón,
 ##### El texto localiza el problema en el interior.
 
 ###### No lo describe como simple comportamiento externo.
 
 ###### Esto conecta con otras partes del libro donde lo interno produce lo externo (Santiago 1:14; Santiago 4:1–2).
 
-#### no sean arrogantes  
+#### no sean arrogantes
 ##### El texto da una prohibición directa.
 
 ###### Después de nombrar el interior, el texto ordena una forma de no actuar.
 
 ###### La prohibición funciona como corrección inmediata.
 
-#### y mientan así contra la verdad.  
+#### y mientan así contra la verdad.
 ##### El texto agrega una segunda prohibición ligada a la verdad.
 
 ###### *y* une las dos prohibiciones como parte de una misma corrección.
@@ -2615,20 +2491,19 @@ Pero si tienen celos amargos y ambición personal en su corazón, no sean arroga
 ###### *contra la verdad* pone el choque en términos claros: verdad vs mentira.
 
 ##### Esto empuja al v.15.
-
 ###### El v.15 tomará este cuadro y lo clasificará: *esta sabiduría…*.
 
 ### Santiago 3:15  
 Esta sabiduría no es la que viene de lo alto, sino que es terrenal, natural, diabólica.
 
-#### Esta sabiduría  
+#### Esta sabiduría
 ##### El texto nombra el paquete completo de 3:14 con una etiqueta.
 
 ###### No empieza una sabiduría nueva aquí; está señalando lo que acaba de describir.
 
 ###### *esta* apunta hacia atrás: celos/ambición/arrogancia/mentira (Santiago 3:14).
 
-#### no es la que viene de lo alto,  
+#### no es la que viene de lo alto,
 ##### El texto define primero por negación de origen.
 
 ###### *no es* marca un límite.
@@ -2639,7 +2514,7 @@ Esta sabiduría no es la que viene de lo alto, sino que es terrenal, natural, di
 
 ###### El texto no solo niega; va a decir qué es.
 
-#### sino que es terrenal, natural, diabólica.  
+#### sino que es terrenal, natural, diabólica.
 
 ##### El texto reemplaza el origen negado con una lista de clasificaciones.
 
@@ -2656,7 +2531,7 @@ Esta sabiduría no es la que viene de lo alto, sino que es terrenal, natural, di
 ### Santiago 3:16  
 Porque donde hay celos y ambición personal, allí hay confusión y toda cosa mala.
 
-#### Porque donde hay celos y ambición personal,  
+#### Porque donde hay celos y ambición personal,
 ##### El texto vuelve a la base: dónde aparecen estos motores, qué pasa allí.
 
 ###### *Porque* muestra que esto explica lo anterior (3:15).
@@ -2665,16 +2540,16 @@ Porque donde hay celos y ambición personal, allí hay confusión y toda cosa ma
 
 ##### El texto lo trata como regla de lugar.
 
-###### *donde hay… allí hay…* es un patrón claro: presencia -> resultado.
+###### *donde hay… allí hay…* es un patrón claro: presencia → resultado.
 
-#### allí hay confusión  
+#### allí hay confusión
 ##### El texto nombra el primer resultado visible.
 
 ###### *confusión* aparece como efecto.
 
 ###### No lo presenta como posibilidad; lo presenta como consecuencia ligada al *donde hay…*.
 
-#### y toda cosa mala.  
+#### y toda cosa mala.
 ##### El texto amplía el resultado al máximo.
 
 ###### *y* añade una segunda salida.
@@ -2688,7 +2563,7 @@ Porque donde hay celos y ambición personal, allí hay confusión y toda cosa ma
 ### Santiago 3:17  
 Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, condescendiente, llena de misericordia y de buenos frutos, sin vacilación, sin hipocresía.
 
-#### Pero la sabiduría de lo alto  
+#### Pero la sabiduría de lo alto
 ##### El texto presenta el contraste directo.
 
 ###### *Pero* marca oposición con el cuadro 3:14–16.
@@ -2699,7 +2574,7 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 
 ###### En vez de *celos/ambición*, aquí viene una lista de características.
 
-#### es primeramente pura, después pacífica, amable, condescendiente,  
+#### es primeramente pura, después pacífica, amable, condescendiente,
 ##### El texto ordena rasgos uno tras otro.
 
 ###### *primeramente… después…* muestra orden en la descripción.
@@ -2707,10 +2582,9 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 ###### La lista no discute; enumera cómo se ve esta sabiduría.
 
 ##### Esto prepara el cierre del v.18.
-
 ###### El v.18 hablará de *fruto* y de *paz* como resultado visible.
 
-#### llena de misericordia y de buenos frutos,  
+#### llena de misericordia y de buenos frutos,
 ##### El texto incluye contenido y resultado visible en la misma frase.
 
 ###### *llena de* indica abundancia, no poco.
@@ -2723,7 +2597,7 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 
 ###### Aquí aparece como rasgo de una orientación *de lo alto*.
 
-#### sin vacilación, sin hipocresía.  
+#### sin vacilación, sin hipocresía.
 ##### El texto cierra la lista con dos negaciones.
 
 ###### *sin… sin…* marca ausencia de mezcla o doblez.
@@ -2731,24 +2605,25 @@ Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, 
 ###### Esta forma de cierre conversa con el lenguaje de *doble ánimo/inestable* (Santiago 1:8), sin forzar una conclusión nueva.
 
 ### Santiago 3:18  
-###### Referencias cruzadas: Proverbios 14:30; Proverbios 15:1; Gálatas 5:19–23.
 Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen la paz.
 
-#### Y la semilla cuyo fruto es la justicia  
+###### Referencias cruzadas: Proverbios 14:30; Proverbios 15:1; Gálatas 5:19–23.
+
+#### Y la semilla cuyo fruto es la justicia
 ##### El texto pasa de lista de rasgos a una imagen de siembra y fruto.
 
 ###### *Y* mantiene continuidad: no es un nuevo tema.
 
 ###### *semilla* y *fruto* conectan con *buenos frutos* del v.17 (Santiago 3:17–18).
 
-#### se siembra en paz  
+#### se siembra en paz
 ##### El texto nombra el ambiente y el modo: paz.
 
 ###### *en paz* recoge lo que ya nombró: *pacífica* (Santiago 3:17).
 
 ###### La paz no es solo un rasgo en lista; ahora aparece como el medio donde ocurre la siembra.
 
-#### por aquellos que hacen la paz.  
+#### por aquellos que hacen la paz.
 ##### El texto cierra con un sujeto concreto: *los que hacen*.
 
 ###### No queda en concepto; nombra un grupo por su acción: *hacen la paz*.
@@ -2761,11 +2636,11 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 ###### El paso de *paz* (3:18) a *guerras/conflictos* (4:1) forma un contraste inmediato en el flujo.
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos.
-> Anclas trabajadas: Santiago 3:15, Santiago 3:16, Santiago 3:17, Santiago 3:18.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Vimos la sección: Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos.
+>- Anclas trabajadas: Santiago 3:15, Santiago 3:16, Santiago 3:17, Santiago 3:18.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 # SANTIAGO 4:1–17 - LA FRACTURA SE VUELVE CONFLICTO Y PRESUNCIÓN
 
@@ -2774,7 +2649,7 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 ### Santiago 4:1  
 ¿De dónde vienen las guerras y los conflictos entre ustedes? ¿No vienen de las pasiones que combaten en sus miembros?
 
-#### ¿De dónde vienen las guerras y los conflictos entre ustedes?  
+#### ¿De dónde vienen las guerras y los conflictos entre ustedes?
 ##### El texto abre con una pregunta que busca mostrar causa, no solo describir el problema.
 
 ###### No pregunta *qué están haciendo*, sino *de dónde vienen*.
@@ -2785,7 +2660,7 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 
 ###### La pregunta pide una explicación. La siguiente pregunta empieza a darla.
 
-#### ¿No vienen de las pasiones que combaten en sus miembros?  
+#### ¿No vienen de las pasiones que combaten en sus miembros?
 ##### El texto responde con otra pregunta que apunta hacia adentro.
 
 ###### *¿No vienen…?* suena como: *ustedes ya deberían ver esto*.
@@ -2801,8 +2676,8 @@ Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen 
 ### Santiago 4:2  
 Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pueden obtener, por eso combaten y hacen guerra. No tienen, porque no piden.
 
-#### Ustedes codician y no tienen,  
-##### El texto empieza con una secuencia simple: deseo -> falta.
+#### Ustedes codician y no tienen,
+##### El texto empieza con una secuencia simple: deseo → falta.
 
 ###### *codician* nombra deseo.
 
@@ -2812,7 +2687,7 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 
 ###### Lo que sigue muestra qué sale de esa combinación.
 
-#### por eso cometen homicidio.  
+#### por eso cometen homicidio.
 ##### El texto conecta deseo frustrado con un resultado extremo.
 
 ###### *por eso* es conexión de causa a consecuencia.
@@ -2823,7 +2698,7 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 
 ###### El texto repetirá el mismo patrón con otras palabras.
 
-#### Son envidiosos y no pueden obtener,  
+#### Son envidiosos y no pueden obtener,
 ##### El patrón se repite con sinónimos y refuerzo.
 
 ###### *envidiosos* mantiene la misma zona del corazón.
@@ -2834,7 +2709,7 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 
 ###### Es una cadena que vuelve a empezar.
 
-#### por eso combaten y hacen guerra.  
+#### por eso combaten y hacen guerra.
 ##### Segunda consecuencia, ahora en términos comunitarios.
 
 ###### *por eso* vuelve a conectar causa y resultado.
@@ -2845,8 +2720,8 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 
 ###### Lo que *viene* (4:1) ahora se ve en acciones (4:2).
 
-#### No tienen, porque no piden.  
-##### El texto introduce un giro: falta -> pedir.
+#### No tienen, porque no piden.
+##### El texto introduce un giro: falta → pedir.
 
 ###### Repite *no tienen*, pero ahora con otra razón.
 
@@ -2857,11 +2732,12 @@ Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pue
 ###### El v.3 tratará el problema del pedir: pedir mal y no recibir.
 
 ### Santiago 4:3  
-###### Referencias cruzadas: 1 Juan 2:15–17; Proverbios 13:10.
 Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus placeres.
 
-#### Piden y no reciben,  
-##### El texto pone un segundo patrón: pedir -> no recibir.
+###### (Referencias cruzadas: 1 Juan 2:15–17; Proverbios 13:10)
+
+#### Piden y no reciben,
+##### El texto pone un segundo patrón: pedir → no recibir.
 
 ###### Ya no es solo *no tienen*; ahora es *piden*.
 
@@ -2871,7 +2747,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 
 ###### Allí también hubo pedir/recibir, con una condición (Santiago 1:5–8).
 
-#### porque piden con malos propósitos,  
+#### porque piden con malos propósitos,
 ##### El texto da la razón del no recibir.
 
 ###### *porque* explica el *no reciben*.
@@ -2882,7 +2758,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 
 ###### Igual que 4:1–2, vuelve a lo que mueve por dentro.
 
-#### para gastarlo en sus placeres.  
+#### para gastarlo en sus placeres.
 ##### El texto muestra hacia dónde apunta el pedir.
 
 ###### *para* marca finalidad.
@@ -2894,10 +2770,11 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 ###### El v.4 subirá el tono y nombrará una lealtad: amistad del mundo vs Dios.
 
 ### Santiago 4:4  
-###### Referencias cruzadas: Juan 15:18–19; Romanos 8:7.
 ¡Oh almas adúlteras! ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios? Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.
 
-#### ¡Oh almas adúlteras!  
+###### (Referencias cruzadas: Juan 15:18–19; Romanos 8:7)
+
+#### ¡Oh almas adúlteras!
 ##### El texto cambia el tono y llama la atención con una acusación directa.
 
 ###### Es una interrupción fuerte: no es explicación, es confrontación.
@@ -2908,7 +2785,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 
 ###### El texto va a hablar de amistad/enemistad.
 
-#### ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios?  
+#### ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios?
 ##### El texto formula la idea como algo que deberían reconocer.
 
 ###### *¿No saben…?* empuja al lector a admitir lo evidente según el texto.
@@ -2921,7 +2798,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 
 ###### Lo que se pidió *para placeres* ahora se ubica bajo una categoría más amplia (amistad del mundo).
 
-#### Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.  
+#### Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.
 ##### El texto convierte la afirmación en conclusión.
 
 ###### *Por tanto* marca consecuencia.
@@ -2937,7 +2814,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 ### Santiago 4:5  
 ¿O piensan que la Escritura dice en vano: «Dios celosamente anhela el Espíritu que ha hecho morar en nosotros?».
 
-#### ¿O piensan que la Escritura dice en vano:  
+#### ¿O piensan que la Escritura dice en vano:
 ##### El texto apela a la Escritura y lo plantea como pregunta.
 
 ###### *¿O piensan…?* empuja al lector a revisar su suposición.
@@ -2962,7 +2839,7 @@ Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus pla
 ### Santiago 4:6  
 Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES».
 
-#### Pero Él da mayor gracia.  
+#### Pero Él da mayor gracia.
 ##### El texto introduce un giro con *pero*.
 
 ###### Después de confrontación (4:4–5), *pero* abre una salida: gracia.
@@ -2973,14 +2850,14 @@ Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA 
 
 ###### El texto dice *por eso dice…*.
 
-#### Por eso dice:  
+#### Por eso dice:
 ##### El texto conecta la afirmación con una palabra citada.
 
 ###### *Por eso* presenta la cita como apoyo, no como adorno.
 
-###### El texto sigue moviéndose por: afirmación -> soporte.
+###### El texto sigue moviéndose por: afirmación → soporte.
 
-#### «DIOS RESISTE A LOS SOBERBIOS,  
+#### «DIOS RESISTE A LOS SOBERBIOS,
 ##### La cita presenta un primer lado del contraste.
 
 ###### *resiste* describe acción de oposición.
@@ -2991,7 +2868,7 @@ Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA 
 
 ###### El texto pondrá el contraste con *pero*.
 
-#### PERO DA GRACIA A LOS HUMILDES».  
+#### PERO DA GRACIA A LOS HUMILDES».
 ##### La cita cierra con el contraste opuesto.
 
 ###### *pero* marca oposición dentro de la cita.
@@ -3001,13 +2878,12 @@ Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA 
 ###### *humildes* nombra el otro tipo de postura.
 
 ##### Esto empuja al v.7.
-
 ###### El v.7 empezará con *Por tanto* y convertirá esto en instrucciones.
 
 ### Santiago 4:7  
 Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
 
-#### Por tanto, sométanse a Dios.  
+#### Por tanto, sométanse a Dios.
 ##### El texto pasa de diagnóstico/cita a mandato.
 
 ###### *Por tanto* marca consecuencia.
@@ -3020,7 +2896,7 @@ Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
 
 ###### Allí hubo amistad/enemistad hacia Dios. Aquí hay una dirección concreta: someterse a Dios.
 
-#### Resistan, pues, al diablo  
+#### Resistan, pues, al diablo
 ##### El texto añade una segunda instrucción con *pues*.
 
 ###### *Resistan* es otro mandato.
@@ -3031,7 +2907,7 @@ Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
 
 ###### La frase siguiente declara lo que ocurre.
 
-#### y huirá de ustedes.  
+#### y huirá de ustedes.
 ##### El texto declara un resultado simple.
 
 ###### *huirá* es consecuencia directa, no una posibilidad abierta.
@@ -3039,31 +2915,30 @@ Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
 ###### *de ustedes* mantiene el enfoque comunitario.
 
 ##### Esto empuja al v.8.
-
 ###### 4:8 continuará con más instrucciones en cadena.
 
 ### Santiago 4:8  
 Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; y ustedes de doble ánimo, purifiquen sus corazones.
 
-#### Acérquense a Dios,  
+#### Acérquense a Dios,
 ##### El texto continúa con un mandato hacia Dios.
 
 ###### Es otro verbo de dirección: acercarse.
 
 ###### Mantiene el mismo eje que 4:7: relación con Dios.
 
-#### y Él se acercará a ustedes.  
+#### y Él se acercará a ustedes.
 ##### El texto declara una respuesta correspondiente.
 
 ###### *y* une mandato con resultado.
 
-###### El texto presenta correspondencia: ustedes -> Él.
+###### El texto presenta correspondencia: ustedes → Él.
 
 ##### Esto prepara una limpieza más específica.
 
 ###### La siguiente oración trae dos mandatos más.
 
-#### Limpien sus manos, pecadores;  
+#### Limpien sus manos, pecadores;
 
 ##### El texto usa imagen concreta: manos.
 
@@ -3077,7 +2952,7 @@ Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; 
 
 ###### No cierra; sigue con otra línea dirigida a otro rasgo.
 
-#### y ustedes de doble ánimo,  
+#### y ustedes de doble ánimo,
 ##### El texto retoma una etiqueta del capítulo 1.
 
 ###### *doble ánimo* conecta con Santiago 1:8.
@@ -3088,7 +2963,7 @@ Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; 
 
 ###### El texto dirá qué hacer con esa condición.
 
-#### purifiquen sus corazones.  
+#### purifiquen sus corazones.
 ##### El texto pasa de manos a corazón.
 
 ###### *purifiquen* es mandato.
@@ -3096,13 +2971,12 @@ Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; 
 ###### *corazones* nombra interioridad, en paralelo con *pasiones* (4:1) y *propósitos* (4:3).
 
 ##### Esto empuja al v.9.
-
 ###### 4:9 seguirá con una cadena de respuestas (aflíjanse, laméntense, lloren).
 
 ### Santiago 4:9  
 Aflíjanse, laméntense y lloren. Que su risa se convierta en lamento y su gozo en tristeza.
 
-#### Aflíjanse, laméntense y lloren.  
+#### Aflíjanse, laméntense y lloren.
 ##### El texto acumula mandatos en serie.
 
 ###### Tres verbos seguidos aumentan intensidad.
@@ -3113,14 +2987,14 @@ Aflíjanse, laméntense y lloren. Que su risa se convierta en lamento y su gozo 
 
 ###### La siguiente frase dice *Que… se convierta…*.
 
-#### Que su risa se convierta en lamento  
+#### Que su risa se convierta en lamento
 ##### El texto pide un cambio de expresión.
 
 ###### *risa* y *lamento* están puestos en contraste.
 
 ###### *se convierta* nombra transformación de un estado a otro, según el texto.
 
-#### y su gozo en tristeza.  
+#### y su gozo en tristeza.
 ##### El contraste se repite con otra pareja.
 
 ###### *gozo* ↔ *tristeza*.
@@ -3132,10 +3006,11 @@ Aflíjanse, laméntense y lloren. Que su risa se convierta en lamento y su gozo 
 ###### 4:10 cerrará esta cadena con un mandato y un resultado.
 
 ### Santiago 4:10  
-###### Referencias cruzadas: Proverbios 3:34; 1 Pedro 5:5; Efesios 6:10–13.
 Humíllense en la presencia del Señor y Él los exaltará.
 
-#### Humíllense en la presencia del Señor  
+###### (Referencias cruzadas: Proverbios 3:34; 1 Pedro 5:5; Efesios 6:10–13)
+
+#### Humíllense en la presencia del Señor
 ##### El texto resume la dirección con un verbo clave.
 
 ###### *Humíllense* junta el hilo de 4:6 (humildes) con la cadena de 4:7–9.
@@ -3146,7 +3021,7 @@ Humíllense en la presencia del Señor y Él los exaltará.
 
 ###### Después de varios mandatos, aquí hay un mandato que recoge el sentido.
 
-#### y Él los exaltará.  
+#### y Él los exaltará.
 ##### El texto cierra con un resultado declarado.
 
 ###### *y* conecta mandato con resultado.
@@ -3158,73 +3033,73 @@ Humíllense en la presencia del Señor y Él los exaltará.
 ###### Después de esta cadena de reorientación, el texto pasará a una corrección concreta sobre hablar/juzgar al hermano (Santiago 4:11–12).
 
 > En Síntesis
-> Anclas trabajadas: Santiago 4:7, Santiago 4:8, Santiago 4:9, Santiago 4:10.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Anclas trabajadas: Santiago 4:7, Santiago 4:8, Santiago 4:9, Santiago 4:10.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez)
 
 ### Santiago 4:11  
 Hermanos, no hablen mal los unos de los otros. El que habla mal de un hermano o juzga a su hermano, habla mal de la ley y juzga a la ley. Pero si tú juzgas a la ley, no eres cumplidor de la ley, sino juez de ella.
 
-#### Hermanos,  
+#### Hermanos,
 ##### El texto vuelve a hablar directo a la comunidad.
 
 ###### No está hablando de *gente afuera*. Está corrigiendo algo dentro del grupo.
 
 ###### Esto sigue la línea de 4:1–10: conflictos dentro de *ustedes*, y ahora una corrección concreta dentro de la misma comunidad (Santiago 4:1; Santiago 4:11).
 
-#### no hablen mal los unos de los otros.  
+#### no hablen mal los unos de los otros.
 ##### El texto empieza con una prohibición simple.
 
 ###### No da un ejemplo primero; prohíbe una práctica de habla.
 
 ###### *los unos de los otros* muestra que es horizontal, entre miembros.
 
-#### El que habla mal de un hermano  
+#### El que habla mal de un hermano
 ##### El texto define el caso con una acción repetible.
 
 ###### No dice *si pasó una vez*. Nombra un patrón: *el que…*.
 
 ###### *de un hermano* mantiene el marco comunitario: se trata de cómo se habla dentro de la familia del grupo.
 
-#### o juzga a su hermano,  
+#### o juzga a su hermano,
 ##### El texto une hablar mal con juzgar.
 
 ###### No los separa como dos cosas distintas sin relación. Los coloca juntos en el mismo caso.
 
 ###### *su hermano* lo hace todavía más cercano: no es un extraño.
 
-#### habla mal de la ley  
+#### habla mal de la ley
 ##### El texto mueve el foco del *hermano* a la *ley*.
 
 ###### Aquí el texto conecta el trato al hermano con un segundo objeto: la ley.
 
 ###### La frase muestra una consecuencia de lo que se hace con la boca: termina afectando cómo se trata la ley.
 
-#### y juzga a la ley.  
+#### y juzga a la ley.
 ##### El texto repite el mismo verbo *juzgar*, pero ahora aplicado a la ley.
 
 ###### Primero fue *juzga a su hermano*; ahora *juzga a la ley*.
 
-###### Esto hace el movimiento visible: juicio hacia una persona -> juicio hacia la ley.
+###### Esto hace el movimiento visible: juicio hacia una persona → juicio hacia la ley.
 
-#### Pero si tú juzgas a la ley,  
+#### Pero si tú juzgas a la ley,
 ##### El texto aprieta el punto y lo aplica en segunda persona.
 
 ###### *Pero* marca un giro: ahora el texto especifica la implicación.
 
 ###### *tú* hace la corrección personal. No deja el punto como teoría general.
 
-#### no eres cumplidor de la ley,  
+#### no eres cumplidor de la ley,
 ##### El texto pone un contraste de rol.
 
 ###### Presenta dos categorías: *cumplidor* vs *juez*.
 
 ###### Aquí afirma que juzgar la ley te saca del rol de cumplirla.
 
-#### sino juez de ella.  
+#### sino juez de ella.
 ##### El texto cierra la frase con la clasificación contraria.
 
 ###### *sino* marca el otro lado del contraste.
@@ -3232,14 +3107,14 @@ Hermanos, no hablen mal los unos de los otros. El que habla mal de un hermano o 
 ###### El punto queda cerrado: juzgar la ley = ocupar el rol de juez de la ley.
 
 ##### Esto empuja al v.12.
-
 ###### El v.12 dirá por qué ese rol está fuera de lugar: hay *un Legislador y Juez* (Santiago 4:12).
 
 ### Santiago 4:12  
-###### Referencias cruzadas: Romanos 14:4.
 Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero tú, ¿quién eres que juzgas a tu prójimo?
 
-#### Solo hay un Legislador y Juez,  
+##### (Referencias cruzadas: Romanos 14:4)
+
+#### Solo hay un Legislador y Juez,
 ##### El texto pone un límite con una frase absoluta.
 
 ###### *Solo hay un* elimina la competencia: no deja espacio para varios jueces.
@@ -3250,7 +3125,7 @@ Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero
 
 ###### Si alguien se pone como *juez de la ley*, el v.12 responde: el juez no se multiplica.
 
-#### que es poderoso para salvar y para destruir.  
+#### que es poderoso para salvar y para destruir.
 ##### El texto añade una razón: poder real sobre resultados.
 
 ###### *poderoso* describe capacidad, no solo título.
@@ -3261,14 +3136,14 @@ Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero
 
 ###### El libro ya ha hablado de *salvar* (Santiago 1:21; Santiago 2:14; Santiago 4:12), y aquí aparece de nuevo con su opuesto en la misma línea.
 
-#### Pero tú,  
+#### Pero tú,
 ##### El texto vuelve a contraste directo y personal.
 
 ###### *Pero* introduce oposición entre el único Juez y el *tú*.
 
 ###### El texto no deja que el lector se esconda detrás de generalidades.
 
-#### ¿quién eres que juzgas a tu prójimo?  
+#### ¿quién eres que juzgas a tu prójimo?
 ##### El texto cierra con una pregunta que confronta el rol.
 
 ###### La pregunta no busca información; empuja a reconocer desajuste: *tú* no eres el Legislador y Juez.
@@ -3280,51 +3155,51 @@ Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero
 ###### Después de corregir habla/juzgar (4:11–12), el texto pasará a otra corrección de palabra y postura: planes, jactancia, y el *mañana* (Santiago 4:13–17).
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez).
-> Anclas trabajadas: Santiago 4:9, Santiago 4:10, Santiago 4:11, Santiago 4:12.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Vimos la sección: Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez).
+>- Anclas trabajadas: Santiago 4:9, Santiago 4:10, Santiago 4:11, Santiago 4:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
-## Santiago 4:13–17 - La presunción deja ver una *estabilidad* falsa
+## Santiago 4:13–17 - La presunción deja ver una estabilidad falsa
 
 ### Santiago 4:13  
 Oigan ahora, ustedes que dicen: «Hoy o mañana iremos a tal o cual ciudad y pasaremos allá un año, haremos negocio y tendremos ganancia».
 
-#### Oigan ahora,  
+#### Oigan ahora,
 ##### El texto llama la atención y abre un caso nuevo.
 
 ###### No empieza suave. Empieza con un *oigan*.
 
 ###### Esto marca: *pongan atención, porque lo que sigue es importante*.
 
-#### ustedes que dicen:  
+#### ustedes que dicen:
 ##### El texto enfoca el problema en palabras concretas.
 
 ###### No empieza con *lo que piensan*. Empieza con *lo que dicen*.
 
 ###### Presenta un ejemplo de habla que se puede escuchar y reconocer.
 
-#### «Hoy o mañana iremos a tal o cual ciudad  
+#### «Hoy o mañana iremos a tal o cual ciudad
 ##### La frase pone tiempo y lugar como si fueran seguros.
 
 ###### *hoy o mañana* habla del tiempo como si estuviera en la mano.
 
 ###### *tal o cual ciudad* habla del lugar como si ya estuviera decidido.
 
-#### y pasaremos allá un año,  
+#### y pasaremos allá un año,
 ##### El texto sube la certeza: ahora no es solo ir, es planear duración.
 
 ###### No es *iremos y veremos*. Es *pasaremos un año*.
 
 ###### La frase acumula control sobre el futuro.
 
-#### haremos negocio  
+#### haremos negocio
 ##### El plan incluye acción y control de actividad.
 
 ###### Ya no es solo movimiento (ir). Es actividad definida (negocio).
 
-#### y tendremos ganancia».  
+#### y tendremos ganancia».
 ##### El plan termina en resultado asegurado.
 
 ###### No dice *tal vez ganemos*. Dice *tendremos ganancia*.
@@ -3332,86 +3207,85 @@ Oigan ahora, ustedes que dicen: «Hoy o mañana iremos a tal o cual ciudad y pas
 ###### El texto deja el ejemplo completo para que se oiga su tono de seguridad.
 
 ##### Esto empuja al v.14.
-
 ###### El v.14 responderá a esa seguridad con un *Sin embargo* y con una negación: *no saben*.
 
 ### Santiago 4:14  
 Sin embargo, ustedes no saben cómo será su vida mañana. Solo son un vapor que aparece por un poco de tiempo y luego se desvanece.
 
-#### Sin embargo,  
+#### Sin embargo,
 ##### El texto corta el ejemplo del v.13 con un contraste directo.
 
 ###### Es como decir: *pero aquí está el problema*.
 
 ###### Cambia de *lo que ustedes dicen* a *lo que ustedes no saben*.
 
-#### ustedes no saben  
+#### ustedes no saben
 ##### El texto niega conocimiento del futuro.
 
 ###### Esto choca con la seguridad del v.13.
 
 ###### El texto no discute detalles; va al punto: *no saben*.
 
-#### cómo será su vida mañana.  
+#### cómo será su vida mañana.
 ##### El texto especifica el límite: mañana y la vida.
 
 ###### No es solo *no saben el clima*. Es *no saben su vida mañana*.
 
 ###### Esto reduce el *hoy o mañana* del v.13 a algo incierto.
 
-#### Solo son un vapor  
+#### Solo son un vapor
 ##### El texto usa una imagen corta para describir fragilidad.
 
 ###### *vapor* comunica algo que está, pero no se puede agarrar.
 
 ###### La palabra es breve, como la idea: poca duración.
 
-#### que aparece por un poco de tiempo  
+#### que aparece por un poco de tiempo
 ##### El texto describe duración limitada.
 
 ###### *aparece* sugiere presencia momentánea.
 
 ###### *por un poco de tiempo* pone límite claro.
 
-#### y luego se desvanece.  
+#### y luego se desvanece.
 ##### El texto cierra la imagen con desaparición.
 
-###### La secuencia es simple: aparece -> poco tiempo -> se desvanece.
+###### La secuencia es simple: aparece → poco tiempo → se desvanece.
 
 ###### Esto prepara el v.15: si no controlas mañana, cómo debes hablar.
 
 ### Santiago 4:15  
 Más bien, debieran decir: Si el Señor quiere, viviremos y haremos esto o aquello.
 
-#### Más bien,  
+#### Más bien,
 ##### El texto presenta la alternativa.
 
 ###### Después del *Sin embargo* (v.14), ahora ofrece un *Más bien*.
 
 ###### No solo critica; reemplaza la forma de hablar.
 
-#### debieran decir:  
+#### debieran decir:
 ##### El texto manda una corrección de lenguaje.
 
 ###### Otra vez el foco es *decir*.
 
 ###### El texto corrige cómo se habla sobre planes.
 
-#### Si el Señor quiere,  
+#### Si el Señor quiere,
 ##### El texto introduce una condición que pone el control fuera de uno mismo.
 
 ###### No borra los planes; los condiciona.
 
 ###### La frase cambia el tono del v.13: ya no es *iremos*, sino *si…*.
 
-#### viviremos  
+#### viviremos
 ##### El texto empieza por lo más básico: seguir con vida.
 
 ###### Antes de *haremos negocio*, primero está *viviremos*.
 
 ###### Eso responde al punto del v.14: no sabes tu vida mañana.
 
-#### y haremos esto o aquello.  
+#### y haremos esto o aquello.
 ##### El texto deja las acciones abiertas y subordinadas.
 
 ###### *esto o aquello* no suena como un plan cerrado.
@@ -3425,21 +3299,21 @@ Más bien, debieran decir: Si el Señor quiere, viviremos y haremos esto o aquel
 ### Santiago 4:16  
 Pero ahora se jactan en su arrogancia. Toda jactancia semejante es mala.
 
-#### Pero ahora  
+#### Pero ahora
 ##### El texto vuelve al contraste y al presente.
 
 ###### *Pero* vuelve a oponerse a lo que debería ser (v.15).
 
 ###### *ahora* trae el problema al presente: así están hablando/actuando.
 
-#### se jactan en su arrogancia.  
+#### se jactan en su arrogancia.
 ##### El texto nombra el tono del ejemplo del v.13.
 
 ###### *jactan* describe el hablar como presumido.
 
 ###### *arrogancia* nombra la actitud detrás de esa jactancia.
 
-#### Toda jactancia semejante es mala.  
+#### Toda jactancia semejante es mala.
 ##### El texto cierra con una evaluación general.
 
 ###### *toda* amplía: no es solo ese ejemplo, es ese tipo de jactancia.
@@ -3451,31 +3325,32 @@ Pero ahora se jactan en su arrogancia. Toda jactancia semejante es mala.
 ###### El v.17 termina el bloque con un principio breve: saber lo bueno y no hacerlo.
 
 ### Santiago 4:17  
-###### Referencias cruzadas: Proverbios 27:1; Lucas 12:16–21.
 A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 
-#### A aquel, pues,  
+##### (Referencias cruzadas: Proverbios 27:1; Lucas 12:16–21)
+
+#### A aquel, pues,
 ##### El texto marca conclusión con *pues*.
 
 ###### *pues* conecta con lo anterior como cierre lógico.
 
 ###### Cambia de ejemplo de planes a un principio general.
 
-#### que sabe hacer lo bueno  
+#### que sabe hacer lo bueno
 ##### El texto define el caso por conocimiento.
 
 ###### No habla de ignorancia.
 
 ###### Habla de saber qué es lo bueno.
 
-#### y no lo hace,  
+#### y no lo hace,
 ##### El texto define el problema como falta de acción.
 
 ###### Saber y no hacer quedan juntos como contraste.
 
 ###### El texto reduce la excusa: no es falta de información.
 
-#### le es pecado.  
+#### le es pecado.
 ##### El texto cierra con un veredicto.
 
 ###### Es una frase corta que termina el bloque.
@@ -3483,11 +3358,11 @@ A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 ###### Esto prepara el cambio de dirección del capítulo 5: el texto pasará a otro *Oigan ahora…* (Santiago 5:1).
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 4:13–17 - La presunción deja ver una *estabilidad* falsa.
-> Anclas trabajadas: Santiago 4:14, Santiago 4:15, Santiago 4:16, Santiago 4:17.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Vimos la sección: Santiago 4:13–17 - La presunción deja ver una *estabilidad* falsa.
+>- Anclas trabajadas: Santiago 4:14, Santiago 4:15, Santiago 4:16, Santiago 4:17.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 <!-- @quiz santiago-3-1-4-17 -->
 
@@ -3498,21 +3373,21 @@ A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 ### Santiago 5:1  
 ¡Oigan ahora, ricos! Lloren y aúllen por las miserias que vienen sobre ustedes.
 
-#### ¡Oigan ahora, ricos!  
+#### ¡Oigan ahora, ricos!
 ##### El texto abre con un llamado fuerte y directo.
 
 ###### *Oigan ahora* marca un inicio nuevo y llama atención, como un golpe de mesa.
 
 ###### *ricos* nombra el grupo al que va dirigido este tramo. No es general; es específico.
 
-#### Lloren y aúllen  
+#### Lloren y aúllen
 ##### El texto manda una respuesta visible.
 
 ###### Son dos verbos seguidos. El tono es urgente y pesado.
 
 ###### No está invitando a considerar; está ordenando una reacción.
 
-#### por las miserias que vienen sobre ustedes.  
+#### por las miserias que vienen sobre ustedes.
 ##### El texto da la razón inmediata del mandato.
 
 ###### *por* conecta el mandato con lo que viene.
@@ -3526,14 +3401,14 @@ A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
 ### Santiago 5:2  
 Sus riquezas se han podrido y sus ropas están comidas de polilla.
 
-#### Sus riquezas se han podrido  
+#### Sus riquezas se han podrido
 ##### El texto presenta deterioro como hecho.
 
 ###### No dice *se podrían podrir*. Dice *se han podrido*.
 
 ###### El lenguaje suena a estado ya visible, no solo amenaza futura.
 
-#### y sus ropas están comidas de polilla.  
+#### y sus ropas están comidas de polilla.
 ##### El texto añade una segunda evidencia de deterioro.
 
 ###### *y* acumula pruebas: no es un solo dato.
@@ -3549,28 +3424,28 @@ Sus riquezas se han podrido y sus ropas están comidas de polilla.
 ### Santiago 5:3  
 Su oro y su plata se han oxidado, su herrumbre será un testigo contra ustedes y consumirá su carne como fuego. Es en los últimos días que han acumulado tesoros.
 
-#### Su oro y su plata se han oxidado,  
+#### Su oro y su plata se han oxidado,
 ##### El texto extiende el deterioro a lo que parece más sólido.
 
 ###### Oro y plata suelen asociarse con permanencia, pero el texto los presenta como oxidados.
 
 ###### Continúa el mismo patrón de 5:2: estado de deterioro ya declarado.
 
-#### su herrumbre será un testigo contra ustedes  
+#### su herrumbre será un testigo contra ustedes
 ##### El texto convierte el deterioro en evidencia.
 
 ###### La *herrumbre* no queda como detalle físico; ahora *testifica*.
 
 ###### *contra ustedes* indica dirección: la evidencia no es neutral.
 
-#### y consumirá su carne como fuego.  
+#### y consumirá su carne como fuego.
 ##### El texto intensifica el resultado.
 
 ###### *consumirá* mantiene el lenguaje de destrucción progresiva.
 
 ###### *como fuego* conecta con una imagen de consumo rápido e irreversible.
 
-#### Es en los últimos días que han acumulado tesoros.  
+#### Es en los últimos días que han acumulado tesoros.
 ##### El texto ubica el acto en un marco de tiempo y acusa acumulación.
 
 ###### *en los últimos días* pone el acto en un período cargado en el flujo del libro.
@@ -3578,20 +3453,19 @@ Su oro y su plata se han oxidado, su herrumbre será un testigo contra ustedes y
 ###### *han acumulado* describe una práctica sostenida, no un evento aislado.
 
 ##### Esto empuja al v.4.
-
 ###### El v.4 traerá una evidencia específica: un jornal retenido que *clama*.
 
 ### Santiago 5:4  
 Miren, el jornal de los obreros que han segado sus campos y que ha sido retenido por ustedes, clama contra ustedes. El clamor de los segadores ha llegado a los oídos del Señor de los ejércitos.
 
-#### Miren,  
+#### Miren,
 ##### El texto ordena mirar la evidencia.
 
 ###### *Miren* funciona como: *aquí está la prueba*.
 
 ###### Cambia de descripción general (5:2–3) a un caso concreto (5:4).
 
-#### el jornal de los obreros que han segado sus campos  
+#### el jornal de los obreros que han segado sus campos
 ##### El texto nombra el punto específico.
 
 ###### *jornal* es algo concreto y medible.
@@ -3600,21 +3474,21 @@ Miren, el jornal de los obreros que han segado sus campos y que ha sido retenido
 
 ###### *sus campos* conecta el caso con la propiedad/actividad de los ricos.
 
-#### y que ha sido retenido por ustedes,  
+#### y que ha sido retenido por ustedes,
 ##### El texto señala la acción injusta como hecho.
 
 ###### *retenido* describe una retención indebida.
 
 ###### *por ustedes* fija responsabilidad directa. No lo deja en un sistema anónimo.
 
-#### clama contra ustedes.  
+#### clama contra ustedes.
 ##### El texto presenta la injusticia como algo que *habla*.
 
 ###### El jornal *clama*. La evidencia se vuelve voz.
 
 ###### *contra ustedes* repite la dirección del v.3: todo esto se mueve hacia acusación.
 
-#### El clamor de los segadores ha llegado a los oídos del Señor de los ejércitos.  
+#### El clamor de los segadores ha llegado a los oídos del Señor de los ejércitos.
 ##### El texto eleva el caso a un nivel de audiencia mayor.
 
 ###### Repite *clamor*, pero ahora de las personas *segadores*, no solo del jornal.
@@ -3623,14 +3497,13 @@ Miren, el jornal de los obreros que han segado sus campos y que ha sido retenido
 
 ###### *Señor de los ejércitos* nombra al oyente con un título fuerte.
 
-##### Esto empuja al v.5.
-
+##### Esto conduce al v.5.
 ###### El v.5 pasará de evidencia laboral a descripción de estilo de vida: lujo y placer.
 
 ### Santiago 5:5  
 Han vivido lujosamente sobre la tierra, y han llevado una vida de placer desenfrenado. Han engordado sus corazones en el día de la matanza.
 
-#### Han vivido lujosamente sobre la tierra,  
+#### Han vivido lujosamente sobre la tierra,
 ##### El texto describe un patrón de vida, no un accidente.
 
 ###### *Han vivido* marca continuidad.
@@ -3639,21 +3512,21 @@ Han vivido lujosamente sobre la tierra, y han llevado una vida de placer desenfr
 
 ###### *sobre la tierra* ubica el marco: vida aquí, en este mundo.
 
-#### y han llevado una vida de placer desenfrenado.  
+#### y han llevado una vida de placer desenfrenado.
 ##### El texto repite y refuerza con otra frase paralela.
 
 ###### *y han llevado* mantiene el patrón.
 
 ###### *placer desenfrenado* intensifica: no es placer moderado; es sin freno.
 
-#### Han engordado sus corazones  
+#### Han engordado sus corazones
 ##### El texto usa una imagen de preparación para algo.
 
 ###### *engordado* sugiere acumulación y exceso.
 
 ###### *sus corazones* lleva el foco al interior, no solo a lo externo.
 
-#### en el día de la matanza.  
+#### en el día de la matanza.
 ##### El texto ubica esa preparación en un marco de juicio.
 
 ###### *día de la matanza* es una frase dura que suena a llegada de consecuencia.
@@ -3663,21 +3536,21 @@ Han vivido lujosamente sobre la tierra, y han llevado una vida de placer desenfr
 ### Santiago 5:6  
 Han condenado y dado muerte al justo. Él no les hace resistencia.
 
-#### Han condenado  
+#### Han condenado
 ##### El texto nombra el acto como veredicto contra otro.
 
 ###### *Han condenado* es lenguaje de juicio.
 
 ###### Continúa el hilo de *contra ustedes* (5:3–4), pero ahora se muestra en una acción hacia otro.
 
-#### y dado muerte al justo.  
+#### y dado muerte al justo.
 ##### El texto intensifica al máximo.
 
 ###### *y* une condena con muerte: no se queda en palabra; llega a acción terminal.
 
 ###### *al justo* nombra a la víctima por carácter, no por nombre. La categoría importa.
 
-#### Él no les hace resistencia.  
+#### Él no les hace resistencia.
 ##### El texto cierra con una frase breve que deja la escena desnuda.
 
 ###### No hay pelea narrada; hay asimetría.
@@ -3685,30 +3558,22 @@ Han condenado y dado muerte al justo. Él no les hace resistencia.
 ###### La frase funciona como cierre del oráculo: deja el acto expuesto y sin excusa.
 
 ##### Esto empuja al siguiente tramo (5:7).
-
 ###### Después de hablar *a ricos* (5:1–6), el texto se volverá a *hermanos* con *Por tanto* y abrirá un llamado a paciencia (Santiago 5:7).
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio.
-> Esto se conectó con lo anterior: SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN.
-> Anclas trabajadas: Santiago 5:3, Santiago 5:4, Santiago 5:5, Santiago 5:6.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-> En Síntesis
-> Hoy vimos la sección: Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla.
-> Anclas trabajadas: Santiago 5:9, Santiago 5:10, Santiago 5:11, Santiago 5:12.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Acabamos de ver la sección: Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio.
+>- Esto se conectó con lo anterior: SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN.
+>- Anclas trabajadas: Santiago 5:3, Santiago 5:4, Santiago 5:5, Santiago 5:6.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla
 
 ### Santiago 5:7  
 Por tanto, hermanos, sean pacientes hasta la venida del Señor. Miren cómo el labrador espera el fruto precioso de la tierra, siendo paciente en ello hasta que recibe la lluvia temprana y la tardía.
 
-#### Por tanto, hermanos,  
+#### Por tanto, hermanos,
 ##### El texto cambia de audiencia y marca un giro.
 
 ###### Viene después del oráculo contra *ricos* (Santiago 5:1–6).
@@ -3717,28 +3582,28 @@ Por tanto, hermanos, sean pacientes hasta la venida del Señor. Miren cómo el l
 
 ###### *hermanos* cambia el trato: ya no *ricos*, sino la comunidad directa.
 
-#### sean pacientes hasta la venida del Señor.  
+#### sean pacientes hasta la venida del Señor.
 ##### El texto da la instrucción principal y le pone un límite de tiempo.
 
 ###### *sean pacientes* es mandato directo.
 
 ###### *hasta la venida del Señor* marca el horizonte: paciencia con una meta temporal, no indefinida.
 
-#### Miren cómo el labrador espera el fruto precioso de la tierra,  
+#### Miren cómo el labrador espera el fruto precioso de la tierra,
 ##### El texto manda mirar un ejemplo.
 
 ###### *Miren* llama la atención a algo visible y fácil de entender.
 
 ###### La escena es simple: un labrador esperando fruto.
 
-#### siendo paciente en ello  
+#### siendo paciente en ello
 ##### El texto repite la misma idea en otra forma.
 
 ###### Ya dijo *sean pacientes*. Ahora lo vuelve a decir aplicado al ejemplo: *siendo paciente*.
 
 ###### Esto refuerza el punto sin cambiar de tema.
 
-#### hasta que recibe la lluvia temprana y la tardía.  
+#### hasta que recibe la lluvia temprana y la tardía.
 ##### El texto concreta cómo se ve esa paciencia.
 
 ###### *hasta que* muestra espera prolongada.
@@ -3752,23 +3617,21 @@ Por tanto, hermanos, sean pacientes hasta la venida del Señor. Miren cómo el l
 ### Santiago 5:8  
 Sean también ustedes pacientes. Fortalezcan sus corazones, porque la venida del Señor está cerca.
 
-#### Sean también ustedes pacientes.  
-
+#### Sean también ustedes pacientes.
 ##### El texto repite el mandato y lo aplica directamente al grupo.
 
 ###### *también ustedes* hace la aplicación explícita: no solo el labrador, ustedes.
 
 ###### La repetición muestra que esta es la línea principal del tramo (5:7–11).
 
-#### Fortalezcan sus corazones,  
-
+#### Fortalezcan sus corazones,
 ##### El texto añade una segunda instrucción que sostiene la paciencia.
 
 ###### *Fortalezcan* es otro mandato.
 
 ###### *sus corazones* nombra el centro interno que necesita firmeza para sostener la espera.
 
-#### porque la venida del Señor está cerca.  
+#### porque la venida del Señor está cerca.
 ##### El texto da la razón inmediata para fortalecer el corazón.
 
 ###### *porque* explica el mandato anterior.
@@ -3782,28 +3645,28 @@ Sean también ustedes pacientes. Fortalezcan sus corazones, porque la venida del
 ### Santiago 5:9  
 Hermanos, no se quejen unos contra otros, para que no sean juzgados. Ya el Juez está a las puertas.
 
-#### Hermanos,  
+#### Hermanos,
 ##### El texto vuelve a hablar directo y mantiene el marco comunitario.
 
 ###### Sigue usando *hermanos* como trato directo, igual que en 5:7.
 
 ###### Mantiene el mismo tramo exhortativo.
 
-#### no se quejen unos contra otros,  
+#### no se quejen unos contra otros,
 ##### El texto regula una práctica de habla en medio de la presión.
 
 ###### *no se quejen* es una prohibición concreta.
 
 ###### *unos contra otros* muestra que el daño es dentro del grupo, horizontal.
 
-#### para que no sean juzgados.  
+#### para que no sean juzgados.
 ##### El texto da propósito/resultado: evitar juicio.
 
 ###### *para que* conecta la prohibición con un resultado.
 
 ###### El texto pone *queja* y *juicio* en el mismo marco de consecuencias.
 
-#### Ya el Juez está a las puertas.  
+#### Ya el Juez está a las puertas.
 ##### El texto refuerza la urgencia con una imagen de cercanía.
 
 ###### *Ya* intensifica: no es futuro lejano.
@@ -3819,41 +3682,41 @@ Hermanos, no se quejen unos contra otros, para que no sean juzgados. Ya el Juez 
 ### Santiago 5:10  
 Hermanos, tomen como ejemplo de paciencia y aflicción a los profetas que hablaron en el nombre del Señor.
 
-#### Hermanos,  
+#### Hermanos,
 ##### El texto mantiene el mismo trato y el mismo tema.
 
 ###### No hay reinicio. Es continuidad de la exhortación.
 
-#### tomen como ejemplo de paciencia y aflicción  
+#### tomen como ejemplo de paciencia y aflicción
 ##### El texto manda mirar modelos, no solo ideas.
 
 ###### *tomen como ejemplo* es una instrucción de aprendizaje por modelos.
 
 ###### Une dos palabras: paciencia y aflicción. El ejemplo no es paciencia *cómoda*.
 
-#### a los profetas  
+#### a los profetas
 ##### El texto nombra un grupo concreto como referencia.
 
 ###### No dice *alguien*. Dice *los profetas*.
 
 ###### Prepara un marco histórico dentro del argumento, sin salir del tema.
 
-#### que hablaron en el nombre del Señor.  
+#### que hablaron en el nombre del Señor.
 ##### El texto define a esos profetas por su hablar.
 
 ###### Los identifica por su acción: *hablaron*.
 
 ###### *en el nombre del Señor* marca el marco de autoridad con el que hablaron.
 
-##### Esto empuja al v.11.
-
+##### Esto introduce el v.11.
 ###### El v.11 añadirá otro ejemplo (Job) y cerrará con *resultado* (Santiago 5:11).
 
 ### Santiago 5:11  
-###### Referencias cruzadas: Hebreos 10:36–37.
 Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la paciencia de Job, y han visto el resultado del proceder del Señor, que el Señor es muy compasivo y misericordioso.
 
-#### Miren que tenemos por bienaventurados a los que sufrieron.  
+##### (Referencias cruzadas: Hebreos 10:36–37)
+
+#### Miren que tenemos por bienaventurados a los que sufrieron.
 
 ##### El texto vuelve a decir *miren* y hace una afirmación colectiva.
 
@@ -3863,21 +3726,21 @@ Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la pacie
 
 ###### *a los que sufrieron* conecta con *aflicción* (v.10): el foco sigue siendo presión real.
 
-#### Han oído de la paciencia de Job,  
+#### Han oído de la paciencia de Job,
 ##### El texto añade otro ejemplo con el verbo *oír*.
 
 ###### *Han oído* introduce una referencia conocida por los destinatarios.
 
 ###### *paciencia de Job* se pone como modelo dentro del mismo tema.
 
-#### y han visto el resultado del proceder del Señor,  
-##### El texto agrega un segundo verbo: oír -> ver.
+#### y han visto el resultado del proceder del Señor,
+##### El texto agrega un segundo verbo: oír → ver.
 
 ###### *han visto* intensifica: no solo se escuchó la historia; se observó un *resultado*.
 
 ###### *resultado* conecta con el lenguaje de resultado del libro (Santiago 1:4; Santiago 2:22).
 
-#### que el Señor es muy compasivo y misericordioso.  
+#### que el Señor es muy compasivo y misericordioso.
 ##### El texto cierra el tramo con una afirmación sobre el Señor.
 
 ###### Después de ejemplos, termina en una conclusión corta.
@@ -3889,55 +3752,56 @@ Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la pacie
 ###### El v.12 hará un cierre puntual con una prohibición sobre juramentos y un propósito: no caer bajo juicio (Santiago 5:12).
 
 ### Santiago 5:12  
-###### Referencias cruzadas: Mateo 5:33–37.
 Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni con ningún otro juramento. Antes bien, sea el sí de ustedes, sí, y su no, no, para que no caigan bajo juicio.
 
-#### Y sobre todo, hermanos míos,  
+##### Referencias cruzadas: Mateo 5:33–37.
+
+#### Y sobre todo, hermanos míos,
 ##### El texto marca prioridad antes de dar la instrucción.
 
 ###### *sobre todo* señala que lo que sigue se coloca arriba en importancia.
 
 ###### *hermanos míos* vuelve al trato directo y cercano.
 
-#### no juren,  
+#### no juren,
 ##### Prohibición breve y clara.
 
 ###### El texto no discute excepciones primero; prohíbe el acto.
 
-#### ni por el cielo,  
+#### ni por el cielo,
 ##### El texto empieza a enumerar formas comunes de jurar.
 
 ###### La lista concreta el mandato: no es una idea vaga.
 
-#### ni por la tierra,  
+#### ni por la tierra,
 ##### La enumeración sigue y amplía el alcance.
 
 ###### El *ni… ni…* refuerza que no hay una forma *aceptable* dentro de esa línea.
 
-#### ni con ningún otro juramento.  
+#### ni con ningún otro juramento.
 ##### El texto cierra la lista con una frase totalizante.
 
 ###### *ningún otro* elimina escapes: no es solo cielo y tierra.
 
-#### Antes bien,  
+#### Antes bien,
 ##### El texto reemplaza el hábito prohibido con una alternativa.
 
 ###### No solo dice *no*; también dice *en vez de eso*.
 
-#### sea el sí de ustedes, sí,  
+#### sea el sí de ustedes, sí,
 
 ##### El texto manda una forma simple de hablar.
 
 ###### *sí… sí* muestra claridad y firmeza en una sola palabra repetida.
 
-#### y su no, no,  
+#### y su no, no,
 ##### El texto da la segunda parte de la misma simplicidad.
 
 ###### *no… no* completa el par.
 
 ###### El patrón sí/sí y no/no marca habla sin doblez.
 
-#### para que no caigan bajo juicio.  
+#### para que no caigan bajo juicio.
 
 ##### El texto cierra con propósito/resultado.
 
@@ -3946,44 +3810,44 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 ###### *no caigan bajo juicio* conecta con el hilo de juicio cercano (5:9) y con la figura del Juez (5:9; 5:12).
 
 > En Síntesis
-> Hoy vimos la sección: Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada.
-> Anclas trabajadas: Santiago 5:15, Santiago 5:16, Santiago 5:17, Santiago 5:18.
-> Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
-> La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
-> El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+>- Vimos la sección: Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla.
+>- Anclas trabajadas: Santiago 5:9, Santiago 5:10, Santiago 5:11, Santiago 5:12.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada
 
 ### Santiago 5:13  
 ¿Sufre alguien entre ustedes? Que haga oración. ¿Está alguien alegre? Que cante alabanzas.
 
-#### ¿Sufre alguien entre ustedes?  
+#### ¿Sufre alguien entre ustedes?
 ##### El texto abre con una pregunta simple y práctica.
 
 ###### No empieza con teoría. Empieza con un caso real: *¿sufre alguien?*.
 
 ###### *entre ustedes* mantiene el enfoque comunitario, dentro del grupo.
 
-#### Que haga oración.  
+#### Que haga oración.
 ##### El texto responde el caso con una acción directa.
 
 ###### No dice *espere* ni *explique*. Dice: ore.
 
-###### La respuesta es corta y clara: sufrimiento -> oración.
+###### La respuesta es corta y clara: sufrimiento → oración.
 
-#### ¿Está alguien alegre?  
+#### ¿Está alguien alegre?
 ##### El texto abre un segundo caso, distinto al primero.
 
 ###### Ahora no es sufrimiento, sino alegría.
 
 ###### El texto cubre extremos de experiencia sin cambiar de tema.
 
-#### Que cante alabanzas.  
+#### Que cante alabanzas.
 ##### El texto asigna una respuesta correspondiente al segundo caso.
 
-###### Alegría -> canto.
+###### Alegría → canto.
 
-###### El versículo ya muestra un patrón: caso -> respuesta, caso -> respuesta.
+###### El versículo ya muestra un patrón: caso → respuesta, caso → respuesta.
 
 ##### Esto empuja al v.14.
 
@@ -3992,35 +3856,35 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 ### Santiago 5:14  
 ¿Está alguien entre ustedes enfermo? Que llame a los ancianos de la iglesia y que ellos oren por él, ungiéndolo con aceite en el nombre del Señor.
 
-#### ¿Está alguien entre ustedes enfermo?  
+#### ¿Está alguien entre ustedes enfermo?
 ##### El texto abre el caso de enfermedad con la misma forma de pregunta.
 
 ###### Mantiene el patrón de 5:13: *¿está alguien…?*.
 
 ###### *entre ustedes* sigue marcando que se trata de vida dentro de la comunidad.
 
-#### Que llame a los ancianos de la iglesia  
+#### Que llame a los ancianos de la iglesia
 ##### El texto no deja este caso en privado; introduce a otros.
 
 ###### La respuesta aquí incluye acción del enfermo: *que llame*.
 
 ###### *ancianos de la iglesia* identifica un grupo concreto dentro de la comunidad.
 
-#### y que ellos oren por él,  
+#### y que ellos oren por él,
 ##### El texto pasa la acción a *ellos*.
 
 ###### No es solo *ore*. Ahora son *ellos* quienes oran por *él*.
 
 ###### Se nota una estructura: el caso trae una respuesta comunitaria, no solo individual.
 
-#### ungiéndolo con aceite  
+#### ungiéndolo con aceite
 ##### El texto añade una acción junto con la oración.
 
 ###### No explica el aceite aquí; solo lo incluye como parte del procedimiento.
 
 ###### La frase sigue en la misma línea: se describe lo que hacen, paso por paso.
 
-#### en el nombre del Señor.  
+#### en el nombre del Señor.
 ##### El texto marca el marco de referencia para la acción.
 
 ###### *en el nombre del Señor* coloca la oración y la acción bajo un marco explícito.
@@ -4030,37 +3894,37 @@ Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni co
 ### Santiago 5:15  
 La oración de fe restaurará al enfermo, y el Señor lo levantará. Si ha cometido pecados le serán perdonados.
 
-#### La oración de fe  
+#### La oración de fe
 ##### El texto toma la oración del v.14 y la especifica.
 
 ###### No dice solo *oración*. Dice *oración de fe*.
 
 ###### Esto conecta hacia atrás con *oren por él* (Santiago 5:14).
 
-#### restaurará al enfermo,  
+#### restaurará al enfermo,
 ##### El texto declara un resultado para el enfermo.
 
 ###### No es solo deseo; se presenta como resultado.
 
 ###### El verbo *restaurará* pone el foco en la condición del enfermo.
 
-#### y el Señor lo levantará.  
+#### y el Señor lo levantará.
 ##### El texto añade un segundo resultado y nombra al agente.
 
 ###### *y* suma otro resultado.
 
 ###### *el Señor* es nombrado como quien levanta.
 
-###### La frase mantiene el patrón: acción -> resultado.
+###### La frase mantiene el patrón: acción → resultado.
 
-#### Si ha cometido pecados  
+#### Si ha cometido pecados
 ##### El texto abre un caso adicional dentro del mismo escenario.
 
 ###### *Si* introduce condición: esto puede ser parte del caso, pero no se asume siempre.
 
 ###### El texto conecta enfermedad con un asunto moral sin explicar la relación aquí; solo pone el caso condicional.
 
-#### le serán perdonados.  
+#### le serán perdonados.
 ##### El texto declara el resultado del caso condicional.
 
 ###### Si el caso existe *si ha cometido*, el resultado declarado es perdón.
@@ -4070,35 +3934,35 @@ La oración de fe restaurará al enfermo, y el Señor lo levantará. Si ha comet
 ### Santiago 5:16  
 Por tanto, confiésense sus pecados unos a otros, y oren unos por otros para que sean sanados. La oración eficaz del justo puede lograr mucho.
 
-#### Por tanto,  
+#### Por tanto,
 ##### El texto conecta lo anterior con una consecuencia práctica.
 
 ###### Viene después de resultados declarados (5:15).
 
 ###### *Por tanto* marca: ahora se deriva una instrucción.
 
-#### confiésense sus pecados unos a otros,  
+#### confiésense sus pecados unos a otros,
 ##### El texto manda una práctica comunitaria explícita.
 
 ###### *confiésense* es mandato en plural, recíproco: unos a otros.
 
 ###### *sus pecados* retoma el lenguaje de 5:15 (pecados / perdón).
 
-#### y oren unos por otros  
+#### y oren unos por otros
 ##### El texto une confesión con oración mutua.
 
 ###### *y* conecta dos prácticas: confesar y orar.
 
 ###### *unos por otros* vuelve a lo recíproco: no es solo *por mí*, es por el otro.
 
-#### para que sean sanados.  
+#### para que sean sanados.
 ##### El texto declara el propósito.
 
 ###### *para que* marca finalidad.
 
 ###### *sanados* conecta con el tema del enfermo (5:14–15), ahora ampliado al grupo.
 
-#### La oración eficaz del justo puede lograr mucho.  
+#### La oración eficaz del justo puede lograr mucho.
 ##### El texto cierra con una afirmación general sobre la oración.
 
 ###### No se queda solo en mandatos; hace una declaración de capacidad.
@@ -4108,35 +3972,35 @@ Por tanto, confiésense sus pecados unos a otros, y oren unos por otros para que
 ### Santiago 5:17  
 Elías era un hombre de pasiones semejantes a las nuestras, y oró fervientemente para que no lloviera, y no llovió sobre la tierra por tres años y seis meses.
 
-#### Elías era un hombre de pasiones semejantes a las nuestras,  
+#### Elías era un hombre de pasiones semejantes a las nuestras,
 ##### El texto presenta al ejemplo como alguien *como nosotros*.
 
 ###### No lo presenta como una excepción inaccesible.
 
 ###### *semejantes a las nuestras* reduce distancia: lo pone en la misma categoría humana.
 
-#### y oró fervientemente  
+#### y oró fervientemente
 ##### El texto destaca el acto de orar y su intensidad.
 
 ###### *oró* retoma el tema central del tramo (5:13–16).
 
 ###### *fervientemente* añade cómo oró, sin explicar técnica; solo califica la intensidad.
 
-#### para que no lloviera,  
+#### para que no lloviera,
 ##### El texto marca la petición concreta.
 
 ###### *para que* muestra el objetivo de la oración.
 
 ###### El contenido es específico: no lluvia.
 
-#### y no llovió sobre la tierra  
+#### y no llovió sobre la tierra
 ##### El texto declara correspondencia entre oración y resultado.
 
 ###### La frase muestra el resultado en el mundo físico: no llovió.
 
 ###### Esto funciona como evidencia para *puede lograr mucho* (Santiago 5:16).
 
-#### por tres años y seis meses.  
+#### por tres años y seis meses.
 ##### El texto añade duración para reforzar el punto.
 
 ###### No fue un momento breve.
@@ -4148,47 +4012,55 @@ Elías era un hombre de pasiones semejantes a las nuestras, y oró fervientement
 ###### El v.18 completará el ejemplo con una segunda oración y el resultado opuesto (Santiago 5:18).
 
 ### Santiago 5:18  
-###### Referencias cruzadas: 1 Reyes 17:1; 1 Reyes 18:41–45.
 Oró de nuevo, y el cielo dio lluvia y la tierra produjo su fruto.
 
-#### Oró de nuevo,  
+##### Referencias cruzadas: 1 Reyes 17:1; 1 Reyes 18:41–45.
+
+#### Oró de nuevo,
 ##### El texto repite el acto, marcando segunda vez.
 
 ###### No es solo *oró una vez*.
 
 ###### *de nuevo* prepara el cambio de resultado.
 
-#### y el cielo dio lluvia  
+#### y el cielo dio lluvia
 ##### El texto muestra el resultado opuesto al v.17.
 
 ###### Antes: no llovió. Ahora: dio lluvia.
 
 ###### El resultado vuelve a ser declarado de forma concreta.
 
-#### y la tierra produjo su fruto.  
+#### y la tierra produjo su fruto.
 ##### El texto cierra el ejemplo con un resultado final en la tierra.
 
-###### Lluvia -> fruto.
+###### Lluvia → fruto.
 
-###### La frase funciona como cierre del ejemplo: oración -> cambio -> fruto.
+###### La frase funciona como cierre del ejemplo: oración → cambio → fruto.
 
 ##### Esto prepara 5:19–20.
 
-###### Después de cerrar el tramo de oración con un ejemplo completo, el texto pasa al cierre final: extravío -> volver -> salvar/cubrir (Santiago 5:19–20).
+###### Después de cerrar el tramo de oración con un ejemplo completo, el texto pasa al cierre final: extravío → volver → salvar/cubrir (Santiago 5:19–20).
+
+> En Síntesis
+>- Vimos la sección: Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada.
+>- Anclas trabajadas: Santiago 5:15, Santiago 5:16, Santiago 5:17, Santiago 5:18.
+>- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
+>- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
+>- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
 
 ## Santiago 5:19–20 - Restaurar al que se desvía: volver, salvar y cubrir
 
 ### Santiago 5:19  
 Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien le hace volver,
 
-#### Hermanos míos,  
+#### Hermanos míos,
 ##### El texto cierra la carta volviendo al trato directo.
 
 ###### Después de muchas correcciones y ejemplos, termina hablando como a familia: *hermanos míos*.
 
 ###### Esto marca que el cierre no es una teoría; es una instrucción final dentro de la comunidad.
 
-#### si alguien de entre ustedes se extravía de la verdad  
+#### si alguien de entre ustedes se extravía de la verdad
 ##### El texto abre un caso real: alguien puede desviarse.
 
 ###### *si alguien* abre un caso, como antes en la carta.
@@ -4199,9 +4071,9 @@ Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien 
 
 ##### La frase queda abierta.
 
-###### El versículo termina con coma. El pensamiento no se completa aquí; pasa directo al v.20.
+###### El pensamiento no se completa aquí; pasa directo al v.20.
 
-#### y alguien le hace volver,  
+#### y alguien le hace volver,
 ##### El texto añade un segundo *alguien*: la respuesta comunitaria.
 
 ###### No solo describe al que se extravía; también incluye a quien actúa para hacerlo volver.
@@ -4209,34 +4081,34 @@ Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien 
 ###### El foco es práctico: alguien se desvía, y alguien interviene.
 
 ##### Esto empuja al v.20.
-
 ###### El v.20 dirá por qué importa ese *hacer volver*, con resultados declarados.
 
 ### Santiago 5:20  
-###### Referencias cruzadas: Proverbios 10:12; 1 Pedro 4:8.
 sepa que el que hace volver a un pecador del error de su camino salvará su alma de muerte, y cubrirá multitud de pecados.
 
-#### sepa que  
+##### (Referencias cruzadas: Proverbios 10:12; 1 Pedro 4:8)
+
+#### sepa que
 ##### El texto manda reconocer algo y lo presenta como conclusión.
 
 ###### *sepa que* es instrucción: el texto quiere que el lector tenga claro lo que sigue.
 
 ###### Funciona como cierre: ya no es ejemplo; es resultado final declarado.
 
-#### el que hace volver a un pecador del error de su camino  
+#### el que hace volver a un pecador del error de su camino
 ##### El texto define la acción con precisión.
 
 ###### No dice *ayudar*. Dice *hacer volver*.
 
 ###### Nombra a la persona como *pecador* y describe su situación como *error* y *camino*.
 
-###### La frase retoma 5:19 y lo repite con más detalle: extravío -> hacer volver.
+###### La frase retoma 5:19 y lo repite con más detalle: extravío → hacer volver.
 
 ##### Esta repetición amarra 5:19–20 como una sola unidad.
 
 ###### 5:19 abrió el caso; 5:20 lo completa y lo explica.
 
-#### salvará su alma de muerte,  
+#### salvará su alma de muerte,
 ##### El texto declara un resultado fuerte.
 
 ###### *salvará* es resultado, no consejo.
@@ -4249,7 +4121,7 @@ sepa que el que hace volver a un pecador del error de su camino salvará su alma
 
 ###### Aquí el cierre usa *salvar* y *muerte* como resultado final del acto de *hacer volver*.
 
-#### y cubrirá multitud de pecados.  
+#### y cubrirá multitud de pecados.
 ##### El texto añade un segundo resultado, también declarado.
 
 ###### *y* suma otra consecuencia al mismo acto.
