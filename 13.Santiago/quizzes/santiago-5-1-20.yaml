@@ -1,0 +1,112 @@
+id: santiago-5-1-5-20
+title: Santiago 5:1–20
+questions:
+  - question: ¿A quién se dirige 5:1 y qué les manda?
+    answers:
+      - text: A los ricos; llorar y aullar por las miserias que vienen.
+        correct: true
+      - text: A los enfermos; cantar alabanzas.
+        correct: false
+      - text: A los maestros; guardar silencio.
+        correct: false
+      - text: A los pobres; tomar un buen lugar.
+        correct: false
+
+  - question: ¿Qué evidencia concreta menciona 5:4?
+    answers:
+      - text: El jornal retenido de los obreros clama, y el clamor llega a los oídos del Señor.
+        correct: true
+      - text: La lluvia temprana y tardía.
+        correct: false
+      - text: Un espejo que muestra el rostro.
+        correct: false
+      - text: Una fuente que da agua dulce y amarga.
+        correct: false
+
+  - question: ¿Qué llamado hace 5:7 a los “hermanos”?
+    answers:
+      - text: Ser pacientes hasta la venida del Señor.
+        correct: true
+      - text: Hacer distinciones en la congregación.
+        correct: false
+      - text: Guardar toda la ley sin fallar.
+        correct: false
+      - text: Jactarse del mañana.
+        correct: false
+
+  - question: Según 5:9, ¿qué se prohíbe y qué se afirma sobre el Juez?
+    answers:
+      - text: No quejarse unos contra otros; el Juez está a las puertas.
+        correct: true
+      - text: No orar; el Juez está lejos.
+        correct: false
+      - text: No trabajar; el Juez no juzga.
+        correct: false
+      - text: No recibir la palabra; el Juez no oye.
+        correct: false
+
+  - question: ¿Qué ejemplo menciona 5:11?
+    answers:
+      - text: La paciencia de Job y el resultado del proceder del Señor.
+        correct: true
+      - text: La fe de Abraham ofreciendo a Isaac.
+        correct: false
+      - text: La envidia y ambición personal.
+        correct: false
+      - text: El mercader que planea un año.
+        correct: false
+
+  - question: ¿Qué instrucción central da 5:12 sobre juramentos?
+    answers:
+      - text: No juren; que el sí sea sí y el no sea no.
+        correct: true
+      - text: Juren por el cielo para ser firmes.
+        correct: false
+      - text: Juren por la tierra para no caer.
+        correct: false
+      - text: Juren solo en caso de enfermedad.
+        correct: false
+
+  - question: En 5:13, ¿qué se manda al que sufre y al que está alegre?
+    answers:
+      - text: El que sufre ore; el que está alegre cante alabanzas.
+        correct: true
+      - text: El que sufre jure; el alegre se queje.
+        correct: false
+      - text: El que sufre haga negocio; el alegre acumule oro.
+        correct: false
+      - text: El que sufre juzgue; el alegre condene.
+        correct: false
+
+  - question: ¿Qué manda 5:14 en caso de enfermedad?
+    answers:
+      - text: Llamar a los ancianos de la iglesia para que oren y lo unjan con aceite.
+        correct: true
+      - text: Ir a tribunales para ser vindicado.
+        correct: false
+      - text: Sentarse junto al estrado.
+        correct: false
+      - text: Hacer distinciones en la reunión.
+        correct: false
+
+  - question: ¿Qué afirma 5:16 sobre oración y confesión?
+    answers:
+      - text: Confesarse y orar unos por otros para ser sanados; la oración eficaz puede lograr mucho.
+        correct: true
+      - text: No hablar con nadie para evitar juicio.
+        correct: false
+      - text: Solo los ricos deben orar por los pobres.
+        correct: false
+      - text: La oración nunca tiene efecto.
+        correct: false
+
+  - question: ¿Cómo cierra 5:19–20 el libro?
+    answers:
+      - text: Hacer volver al que se extravía; salvará su alma de muerte y cubrirá multitud de pecados.
+        correct: true
+      - text: Ordenar construir un templo nuevo.
+        correct: false
+      - text: Mandar planear el mañana con ganancia segura.
+        correct: false
+      - text: Mandar jurar por toda la tierra.
+        correct: false

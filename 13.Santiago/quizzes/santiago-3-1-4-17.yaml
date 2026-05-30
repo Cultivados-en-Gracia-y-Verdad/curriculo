@@ -1,0 +1,112 @@
+id: santiago-3-1-4-17
+title: Santiago 3:1–4:17
+questions:
+  - question: ¿Qué advierte Santiago 3:1 sobre ser maestros?
+    answers:
+      - text: Que no se hagan maestros muchos, porque recibirán juicio más severo.
+        correct: true
+      - text: Que todos deben ser maestros para crecer.
+        correct: false
+      - text: Que el juicio ya no existe.
+        correct: false
+      - text: Que el maestro siempre recibe un buen lugar.
+        correct: false
+
+  - question: ¿Qué contrasta Santiago 3:9–10 acerca de la lengua?
+    answers:
+      - text: Bendecir y maldecir con la misma boca.
+        correct: true
+      - text: Sembrar y cosechar con la misma tierra.
+        correct: false
+      - text: Pedir y recibir con la misma mano.
+        correct: false
+      - text: Ir y volver con el mismo camino.
+        correct: false
+
+  - question: ¿Qué pregunta abre Santiago 3:13?
+    answers:
+      - text: ¿Quién es sabio y entendido entre ustedes?
+        correct: true
+      - text: ¿De dónde vienen las guerras?
+        correct: false
+      - text: ¿Está alguno enfermo?
+        correct: false
+      - text: ¿Quién eres que juzgas?
+        correct: false
+
+  - question: Según 3:16, ¿qué hay donde hay celos y ambición personal?
+    answers:
+      - text: Confusión y toda cosa mala.
+        correct: true
+      - text: Paz y fruto de justicia.
+        correct: false
+      - text: Bienaventuranza y corona de vida.
+        correct: false
+      - text: Misericordia que triunfa sobre juicio.
+        correct: false
+
+  - question: ¿Cómo describe 3:17 la sabiduría de lo alto en contraste?
+    answers:
+      - text: Pura, pacífica, llena de misericordia y buenos frutos, sin hipocresía.
+        correct: true
+      - text: Terrenal, natural, diabólica.
+        correct: false
+      - text: Inestable en todos sus caminos.
+        correct: false
+      - text: Lujosa y con anillo de oro.
+        correct: false
+
+  - question: ¿De dónde dice 4:1 que vienen guerras y conflictos?
+    answers:
+      - text: De las pasiones que combaten en sus miembros.
+        correct: true
+      - text: De la falta de sabiduría de Dios.
+        correct: false
+      - text: De la lluvia temprana y tardía.
+        correct: false
+      - text: De hablar en parábolas.
+        correct: false
+
+  - question: En 4:3, ¿por qué no reciben aunque piden?
+    answers:
+      - text: Porque piden con malos propósitos para gastarlo en placeres.
+        correct: true
+      - text: Porque nunca deben pedir nada.
+        correct: false
+      - text: Porque Dios cambia y varía.
+        correct: false
+      - text: Porque no existe el pedir con fe.
+        correct: false
+
+  - question: ¿Qué afirma 4:4 sobre amistad del mundo?
+    answers:
+      - text: Que es enemistad hacia Dios.
+        correct: true
+      - text: Que es la ley real.
+        correct: false
+      - text: Que es la corona de vida.
+        correct: false
+      - text: Que es la religión pura.
+        correct: false
+
+  - question: ¿Qué acción manda 4:7 primero?
+    answers:
+      - text: Sométanse a Dios.
+        correct: true
+      - text: Juren por el cielo.
+        correct: false
+      - text: Condenen al justo.
+        correct: false
+      - text: Hagan negocio y ganen.
+        correct: false
+
+  - question: ¿Qué principio final declara 4:17?
+    answers:
+      - text: Al que sabe hacer lo bueno y no lo hace, le es pecado.
+        correct: true
+      - text: La misericordia cubre multitud de pecados.
+        correct: false
+      - text: La oración de fe restaurará al enfermo.
+        correct: false
+      - text: El rico se gloríe en su humillación.
+        correct: false
