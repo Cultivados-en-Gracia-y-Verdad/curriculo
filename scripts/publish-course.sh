@@ -190,7 +190,9 @@ sync_pdfs() {
     esac
   done < <(git ls-tree --name-only "$SOURCE_BRANCH:$source_dir")
 
-  [[ "$copied" == "0" ]] && echo "  skip pdfs (none found): $source_dir/"
+  if [[ "$copied" == "0" ]]; then
+    echo "  skip pdfs (none found): $source_dir/"
+  fi
 }
 
 publish_draft_dir() {
