@@ -3,16 +3,20 @@ set -euo pipefail
 
 SOURCE_BRANCH="${SOURCE_BRANCH:-origin/en-borrador}"
 TARGET_BRANCH="${TARGET_BRANCH:-main}"
+WEB_BRANCH="${WEB_BRANCH:-web}"
 COURSES_ROOT="${COURSES_ROOT:-courses}"
+WEB_CONTENT_ROOT="${WEB_CONTENT_ROOT:-content/courses}"
+WEB_DOCS_ROOT="${WEB_DOCS_ROOT:-docs/courses}"
 PUSH="${PUSH:-1}"
 DRY_RUN="${DRY_RUN:-0}"
+PUBLISH_WEB="${PUBLISH_WEB:-1}"
 
 usage() {
   cat <<'EOF'
 Usage:
   ./scripts/publish-course.sh                 Publish all draft courses
   ./scripts/publish-course.sh <name>          Publish one course
-  ./scripts/publish-course.sh --list          Show draft -> main mappings
+  ./scripts/publish-course.sh --list          Show draft -> main/web mappings
 
 Examples:
   ./scripts/publish-course.sh santiago
@@ -22,11 +26,19 @@ Examples:
 Environment:
   SOURCE_BRANCH=origin/en-borrador
   TARGET_BRANCH=main
-  PUSH=0        Commit locally, do not push
-  DRY_RUN=1     Show actions only
+  WEB_BRANCH=web
+  PUBLISH_WEB=1   Also copy PDFs to web branch as alumno.pdf / maestro.pdf
+  PUSH=0          Commit locally, do not push
+  DRY_RUN=1       Show actions only
 
 Draft folders on en-borrador (e.g. 13.Santiago) are matched automatically to
 courses/<name> on main by folder name and manifest id. No publish-map.tsv needed.
+
+When PUBLISH_WEB=1, student/teacher PDFs are also copied to the web branch as:
+  content/courses/<slug>/alumno.pdf
+  content/courses/<slug>/maestro.pdf
+  docs/courses/<slug>/alumno.pdf
+  docs/courses/<slug>/maestro.pdf
 EOF
   exit 1
 }
@@ -37,6 +49,12 @@ require_repo() {
 
 normalize_key() {
   printf '%s' "$1" | tr '[:upper:]' '[:lower:]' | tr -cd 'a-z0-9'
+}
+
+slugify_name() {
+  printf '%s' "$1" \
+    | tr '[:upper:]' '[:lower:]' \
+    | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g'
 }
 
 strip_draft_prefix() {
@@ -55,6 +73,14 @@ manifest_id_for() {
   git show "$SOURCE_BRANCH:$draft_dir/manifest.json" 2>/dev/null \
     | sed -n 's/.*"id"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/p' \
     | head -n 1
+}
+
+web_slug_alias_for_key() {
+  case "$1" in
+    1corintios) printf '%s' '1coritios' ;;
+    navegandoeltexto) printf '%s' 'navegado-el-texto' ;;
+    *) return 1 ;;
+  esac
 }
 
 is_excluded_draft_dir() {
@@ -100,13 +126,56 @@ resolve_target_dir() {
   printf '%s/%s' "$COURSES_ROOT" "$derived"
 }
 
+resolve_web_slug() {
+  local draft_dir="$1"
+  local target_dir="$2"
+  local derived manifest_id course_name target_key slug slug_key alias_key
+
+  derived="$(strip_draft_prefix "$draft_dir")"
+  course_name="$(basename "$target_dir")"
+  manifest_id="$(manifest_id_for "$draft_dir" 2>/dev/null || true)"
+  target_key="$(normalize_key "${manifest_id:-$course_name}")"
+
+  while IFS= read -r slug; do
+    [[ -z "$slug" ]] && continue
+    slug_key="$(normalize_key "$slug")"
+    if [[ "$slug_key" == "$target_key" || "$slug_key" == "$(normalize_key "$course_name")" || "$slug_key" == "$(normalize_key "$derived")" ]]; then
+      printf '%s' "$slug"
+      return 0
+    fi
+    if alias_key="$(web_slug_alias_for_key "$target_key")"; then
+      [[ "$(normalize_key "$alias_key")" == "$slug_key" ]] && printf '%s' "$slug" && return 0
+    fi
+    if alias_key="$(web_slug_alias_for_key "$(normalize_key "$course_name")")"; then
+      [[ "$(normalize_key "$alias_key")" == "$slug_key" ]] && printf '%s' "$slug" && return 0
+    fi
+  done < <(git ls-tree -d --name-only "$WEB_BRANCH:$WEB_CONTENT_ROOT" 2>/dev/null || true)
+
+  if [[ -n "$manifest_id" ]]; then
+    printf '%s' "$(slugify_name "$manifest_id")"
+    return 0
+  fi
+
+  printf '%s' "$(slugify_name "$course_name")"
+}
+
 list_mappings() {
   git fetch origin >/dev/null 2>&1 || true
-  printf "%-28s -> %s\n" "DRAFT (en-borrador)" "MAIN"
+  printf "%-28s -> %-22s" "DRAFT (en-borrador)" "MAIN"
+  if [[ "$PUBLISH_WEB" == "1" ]]; then
+    printf " -> %s\n" "WEB"
+  else
+    printf "\n"
+  fi
   while IFS= read -r draft_dir; do
     [[ -z "$draft_dir" ]] && continue
     is_publishable_draft_dir "$draft_dir" || continue
-    printf "%-28s -> %s\n" "$draft_dir" "$(resolve_target_dir "$draft_dir")"
+    printf "%-28s -> %-22s" "$draft_dir" "$(resolve_target_dir "$draft_dir")"
+    if [[ "$PUBLISH_WEB" == "1" ]]; then
+      printf " -> %s/%s\n" "$WEB_CONTENT_ROOT" "$(resolve_web_slug "$draft_dir" "$(resolve_target_dir "$draft_dir")")"
+    else
+      printf "\n"
+    fi
   done < <(git ls-tree -d --name-only "$SOURCE_BRANCH")
 }
 
@@ -195,6 +264,50 @@ sync_pdfs() {
   fi
 }
 
+find_source_pdf() {
+  local source_dir="$1"
+  local kind="$2"
+  local file_name
+
+  if ! git ls-tree "$SOURCE_BRANCH:$source_dir" >/dev/null 2>&1; then
+    return 1
+  fi
+
+  while IFS= read -r file_name; do
+    [[ -z "$file_name" ]] && continue
+    case "$kind:$file_name" in
+      estudiante:*manual_estudiante*) printf '%s' "$file_name"; return 0 ;;
+      maestro:*manual_maestro*) printf '%s' "$file_name"; return 0 ;;
+    esac
+  done < <(git ls-tree --name-only "$SOURCE_BRANCH:$source_dir")
+
+  return 1
+}
+
+sync_web_pdf() {
+  local source_dir="$1"
+  local web_slug="$2"
+  local kind="$3"
+  local target_name source_file
+
+  source_file="$(find_source_pdf "$source_dir" "$kind" || true)"
+  if [[ -z "$source_file" ]]; then
+    echo "  skip web pdf (no ${kind} pdf): $source_dir/"
+    return 0
+  fi
+
+  sync_file "$source_dir/$source_file" "$WEB_CONTENT_ROOT/$web_slug/$target_name"
+  sync_file "$source_dir/$source_file" "$WEB_DOCS_ROOT/$web_slug/$target_name"
+}
+
+sync_web_images() {
+  local source_dir="$1"
+  local web_slug="$2"
+
+  sync_tree "$source_dir/images" "$WEB_CONTENT_ROOT/$web_slug/images"
+  sync_tree "$source_dir/images" "$WEB_DOCS_ROOT/$web_slug/images"
+}
+
 publish_draft_dir() {
   local draft_dir="$1"
   local target_dir
@@ -212,6 +325,60 @@ publish_draft_dir() {
   sync_pdfs "$draft_dir" "$target_dir"
 }
 
+publish_web_draft_dir() {
+  local draft_dir="$1"
+  local target_dir web_slug
+
+  target_dir="$(resolve_target_dir "$draft_dir")"
+  web_slug="$(resolve_web_slug "$draft_dir" "$target_dir")"
+
+  echo "Publishing web $draft_dir"
+  echo "  from: $SOURCE_BRANCH:$draft_dir"
+  echo "  to:   $WEB_CONTENT_ROOT/$web_slug/ (+ docs mirror)"
+
+  sync_web_images "$draft_dir" "$web_slug"
+  sync_web_pdf "$draft_dir" "$web_slug" "estudiante" "alumno.pdf"
+  sync_web_pdf "$draft_dir" "$web_slug" "maestro" "maestro.pdf"
+}
+
+commit_branch() {
+  local branch="$1"
+  local message="$2"
+
+  if git diff --cached --quiet; then
+    echo "No changes to publish on $branch."
+    return 0
+  fi
+
+  git commit -m "$message"
+  if [[ "$PUSH" == "1" ]]; then
+    git push origin "$branch"
+  else
+    echo "Committed locally on $branch. PUSH=0, so not pushing."
+  fi
+}
+
+collect_draft_dirs() {
+  local selector="${1:-}"
+  local draft_dir published=0
+
+  while IFS= read -r draft_dir; do
+    [[ -z "$draft_dir" ]] && continue
+    is_publishable_draft_dir "$draft_dir" || continue
+    if [[ -n "$selector" ]]; then
+      matches_selector "$selector" "$draft_dir" || continue
+      published=1
+    fi
+    printf '%s\n' "$draft_dir"
+  done < <(git ls-tree -d --name-only "$SOURCE_BRANCH")
+
+  if [[ -n "$selector" && "$published" == "0" ]]; then
+    echo "No draft course matched: $selector"
+    echo "Try: ./scripts/publish-course.sh --list"
+    exit 1
+  fi
+}
+
 main() {
   require_repo
 
@@ -226,56 +393,48 @@ main() {
 
   git fetch origin
 
-  local current_branch
+  local current_branch draft_dirs
   current_branch="$(git branch --show-current)"
-
-  if [[ "$DRY_RUN" != "1" ]]; then
-    git checkout "$TARGET_BRANCH"
-    git pull origin "$TARGET_BRANCH"
-  fi
-
-  local draft_dir published=0
-  if [[ $# -ge 1 ]]; then
-    while IFS= read -r draft_dir; do
-      [[ -z "$draft_dir" ]] && continue
-      is_publishable_draft_dir "$draft_dir" || continue
-      matches_selector "$1" "$draft_dir" || continue
-      publish_draft_dir "$draft_dir"
-      published=1
-      echo
-    done < <(git ls-tree -d --name-only "$SOURCE_BRANCH")
-
-    if [[ "$published" == "0" ]]; then
-      echo "No draft course matched: $1"
-      echo "Try: ./scripts/publish-course.sh --list"
-      exit 1
-    fi
-  else
-    while IFS= read -r draft_dir; do
-      [[ -z "$draft_dir" ]] && continue
-      is_publishable_draft_dir "$draft_dir" || continue
-      publish_draft_dir "$draft_dir"
-      echo
-    done < <(git ls-tree -d --name-only "$SOURCE_BRANCH")
-  fi
+  draft_dirs="$(collect_draft_dirs "${1:-}")"
 
   if [[ "$DRY_RUN" == "1" ]]; then
+    while IFS= read -r draft_dir; do
+      [[ -z "$draft_dir" ]] && continue
+      publish_draft_dir "$draft_dir"
+      if [[ "$PUBLISH_WEB" == "1" ]]; then
+        publish_web_draft_dir "$draft_dir"
+      fi
+      echo
+    done <<< "$draft_dirs"
     echo "Dry run complete."
     exit 0
   fi
 
-  if git diff --cached --quiet; then
-    echo "No changes to publish."
-  else
-    git commit -m "Publish course content from en-borrador"
-    if [[ "$PUSH" == "1" ]]; then
-      git push origin "$TARGET_BRANCH"
-    else
-      echo "Committed locally. PUSH=0, so not pushing."
-    fi
+  git checkout "$TARGET_BRANCH"
+  git pull origin "$TARGET_BRANCH"
+
+  while IFS= read -r draft_dir; do
+    [[ -z "$draft_dir" ]] && continue
+    publish_draft_dir "$draft_dir"
+    echo
+  done <<< "$draft_dirs"
+
+  commit_branch "$TARGET_BRANCH" "Publish course content from en-borrador"
+
+  if [[ "$PUBLISH_WEB" == "1" ]]; then
+    git checkout "$WEB_BRANCH"
+    git pull origin "$WEB_BRANCH"
+
+    while IFS= read -r draft_dir; do
+      [[ -z "$draft_dir" ]] && continue
+      publish_web_draft_dir "$draft_dir"
+      echo
+    done <<< "$draft_dirs"
+
+    commit_branch "$WEB_BRANCH" "Publish course PDFs for web from en-borrador"
   fi
 
-  if [[ -n "$current_branch" && "$current_branch" != "$TARGET_BRANCH" ]]; then
+  if [[ -n "$current_branch" && "$current_branch" != "$(git branch --show-current)" ]]; then
     git checkout "$current_branch"
   fi
 
