@@ -6,10 +6,10 @@ TARGET_BRANCH="${TARGET_BRANCH:-main}"
 WEB_BRANCH="${WEB_BRANCH:-web}"
 COURSES_ROOT="${COURSES_ROOT:-courses}"
 WEB_CONTENT_ROOT="${WEB_CONTENT_ROOT:-content/courses}"
-WEB_DOCS_ROOT="${WEB_DOCS_ROOT:-docs/courses}"
 PUSH="${PUSH:-1}"
 DRY_RUN="${DRY_RUN:-0}"
 PUBLISH_WEB="${PUBLISH_WEB:-1}"
+BUILD_WEB="${BUILD_WEB:-1}"
 
 usage() {
   cat <<'EOF'
@@ -17,6 +17,7 @@ Usage:
   ./scripts/publish-course.sh                 Publish all draft courses
   ./scripts/publish-course.sh <name>          Publish one course
   ./scripts/publish-course.sh --list          Show draft -> main/web mappings
+  ./scripts/publish-course.sh --web-only <name> Update web branch only
 
 Examples:
   ./scripts/publish-course.sh santiago
@@ -27,18 +28,16 @@ Environment:
   SOURCE_BRANCH=origin/en-borrador
   TARGET_BRANCH=main
   WEB_BRANCH=web
-  PUBLISH_WEB=1   Also copy PDFs to web branch as alumno.pdf / maestro.pdf
+  PUBLISH_WEB=1   Also publish PDFs and course page to the web branch
+  BUILD_WEB=1     Run hugo after web content changes (updates docs/)
   PUSH=0          Commit locally, do not push
   DRY_RUN=1       Show actions only
 
 Draft folders on en-borrador (e.g. 13.Santiago) are matched automatically to
 courses/<name> on main by folder name and manifest id. No publish-map.tsv needed.
 
-When PUBLISH_WEB=1, student/teacher PDFs are also copied to the web branch as:
-  content/courses/<slug>/alumno.pdf
-  content/courses/<slug>/maestro.pdf
-  docs/courses/<slug>/alumno.pdf
-  docs/courses/<slug>/maestro.pdf
+When PUBLISH_WEB=1, PDFs are copied to content/courses/<slug>/ as alumno.pdf and
+maestro.pdf, _index.md is created when missing, and hugo rebuilds docs/.
 EOF
   exit 1
 }
@@ -68,11 +67,35 @@ strip_draft_prefix() {
   fi
 }
 
+manifest_field_for() {
+  local draft_dir="$1"
+  local field="$2"
+  git show "$SOURCE_BRANCH:$draft_dir/manifest.json" 2>/dev/null \
+    | sed -n "s/.*\"${field}\"[[:space:]]*:[[:space:]]*\"\\([^\"]*\\)\".*/\\1/p" \
+    | head -n 1
+}
+
 manifest_id_for() {
   local draft_dir="$1"
-  git show "$SOURCE_BRANCH:$draft_dir/manifest.json" 2>/dev/null \
-    | sed -n 's/.*"id"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/p' \
-    | head -n 1
+  manifest_field_for "$draft_dir" "id"
+}
+
+is_student_pdf() {
+  case "$1" in
+    *manual_estudiante*|alumno*.pdf|Alumno*.pdf|*estudiante*.pdf) return 0 ;;
+  esac
+  return 1
+}
+
+is_teacher_pdf() {
+  case "$1" in
+    *manual_maestro*|maestro*.pdf|Maestro*.pdf) return 0 ;;
+  esac
+  return 1
+}
+
+is_course_pdf() {
+  is_student_pdf "$1" || is_teacher_pdf "$1"
 }
 
 web_slug_alias_for_key() {
@@ -251,12 +274,10 @@ sync_pdfs() {
 
   while IFS= read -r file_name; do
     [[ -z "$file_name" ]] && continue
-    case "$file_name" in
-      *manual_estudiante*|*manual_maestro*)
-        sync_file "$source_dir/$file_name" "$target_dir/$file_name"
-        copied=1
-        ;;
-    esac
+    if is_course_pdf "$file_name"; then
+      sync_file "$source_dir/$file_name" "$target_dir/$file_name"
+      copied=1
+    fi
   done < <(git ls-tree --name-only "$SOURCE_BRANCH:$source_dir")
 
   if [[ "$copied" == "0" ]]; then
@@ -267,7 +288,7 @@ sync_pdfs() {
 find_source_pdf() {
   local source_dir="$1"
   local kind="$2"
-  local file_name
+  local file_name fallback=""
 
   if ! git ls-tree "$SOURCE_BRANCH:$source_dir" >/dev/null 2>&1; then
     return 1
@@ -279,7 +300,17 @@ find_source_pdf() {
       estudiante:*manual_estudiante*) printf '%s' "$file_name"; return 0 ;;
       maestro:*manual_maestro*) printf '%s' "$file_name"; return 0 ;;
     esac
+    if [[ "$kind" == "estudiante" ]] && is_student_pdf "$file_name"; then
+      fallback="$file_name"
+    elif [[ "$kind" == "maestro" ]] && is_teacher_pdf "$file_name"; then
+      fallback="$file_name"
+    fi
   done < <(git ls-tree --name-only "$SOURCE_BRANCH:$source_dir")
+
+  if [[ -n "$fallback" ]]; then
+    printf '%s' "$fallback"
+    return 0
+  fi
 
   return 1
 }
@@ -288,7 +319,8 @@ sync_web_pdf() {
   local source_dir="$1"
   local web_slug="$2"
   local kind="$3"
-  local target_name source_file
+  local target_name="$4"
+  local source_file
 
   source_file="$(find_source_pdf "$source_dir" "$kind" || true)"
   if [[ -z "$source_file" ]]; then
@@ -297,7 +329,6 @@ sync_web_pdf() {
   fi
 
   sync_file "$source_dir/$source_file" "$WEB_CONTENT_ROOT/$web_slug/$target_name"
-  sync_file "$source_dir/$source_file" "$WEB_DOCS_ROOT/$web_slug/$target_name"
 }
 
 sync_web_images() {
@@ -305,7 +336,67 @@ sync_web_images() {
   local web_slug="$2"
 
   sync_tree "$source_dir/images" "$WEB_CONTENT_ROOT/$web_slug/images"
-  sync_tree "$source_dir/images" "$WEB_DOCS_ROOT/$web_slug/images"
+}
+
+sync_web_index() {
+  local draft_dir="$1"
+  local web_slug="$2"
+  local index_path="$WEB_CONTENT_ROOT/$web_slug/_index.md"
+  local title subtitle
+
+  if [[ -f "$index_path" ]]; then
+    echo "  keep existing: $index_path"
+    return 0
+  fi
+
+  title="$(manifest_field_for "$draft_dir" "title")"
+  subtitle="$(manifest_field_for "$draft_dir" "subtitle")"
+  [[ -z "$title" ]] && title="$(strip_draft_prefix "$draft_dir")"
+  [[ -z "$subtitle" ]] && subtitle="Curso bíblico CGV"
+
+  echo "  create: $index_path"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  mkdir -p "$(dirname "$index_path")"
+  cat > "$index_path" <<EOF
+---
+title: "$title"
+description: "$subtitle"
+
+weight: 1
+orden: 1
+
+tipo: "Manual bíblico"
+duracion: "Curso intensivo"
+
+audiencia: "Iglesias locales y Centros de Capacitación"
+
+proposito: "Capacitar hacedores de discípulos mediante el estudio bíblico."
+
+materiales:
+  - "Manual del Alumno"
+  - "Manual del Maestro"
+---
+EOF
+  git add "$index_path"
+}
+
+build_web_site() {
+  [[ "$BUILD_WEB" != "1" ]] && return 0
+
+  if [[ "$DRY_RUN" == "1" ]]; then
+    echo "  would run: hugo --minify"
+    return 0
+  fi
+
+  if ! command -v hugo >/dev/null 2>&1; then
+    echo "Warning: hugo not found; skipping site rebuild."
+    return 0
+  fi
+
+  echo "Running hugo to rebuild docs/"
+  hugo --minify
+  git add docs/
 }
 
 publish_draft_dir() {
@@ -334,8 +425,9 @@ publish_web_draft_dir() {
 
   echo "Publishing web $draft_dir"
   echo "  from: $SOURCE_BRANCH:$draft_dir"
-  echo "  to:   $WEB_CONTENT_ROOT/$web_slug/ (+ docs mirror)"
+  echo "  to:   $WEB_CONTENT_ROOT/$web_slug/"
 
+  sync_web_index "$draft_dir" "$web_slug"
   sync_web_images "$draft_dir" "$web_slug"
   sync_web_pdf "$draft_dir" "$web_slug" "estudiante" "alumno.pdf"
   sync_web_pdf "$draft_dir" "$web_slug" "maestro" "maestro.pdf"
@@ -393,8 +485,14 @@ main() {
 
   git fetch origin
 
-  local current_branch draft_dirs
+  local current_branch draft_dirs web_only=0
   current_branch="$(git branch --show-current)"
+
+  if [[ "${1:-}" == "--web-only" ]]; then
+    web_only=1
+    shift
+  fi
+
   draft_dirs="$(collect_draft_dirs "${1:-}")"
 
   if [[ "$DRY_RUN" == "1" ]]; then
@@ -407,6 +505,27 @@ main() {
       echo
     done <<< "$draft_dirs"
     echo "Dry run complete."
+    exit 0
+  fi
+
+  if [[ "$web_only" == "1" ]]; then
+    git checkout "$WEB_BRANCH"
+    git pull origin "$WEB_BRANCH"
+
+    while IFS= read -r draft_dir; do
+      [[ -z "$draft_dir" ]] && continue
+      publish_web_draft_dir "$draft_dir"
+      echo
+    done <<< "$draft_dirs"
+
+    build_web_site
+    commit_branch "$WEB_BRANCH" "Publish course materials for web from en-borrador"
+
+    if [[ -n "$current_branch" && "$current_branch" != "$(git branch --show-current)" ]]; then
+      git checkout "$current_branch"
+    fi
+
+    echo "Done."
     exit 0
   fi
 
@@ -431,7 +550,8 @@ main() {
       echo
     done <<< "$draft_dirs"
 
-    commit_branch "$WEB_BRANCH" "Publish course PDFs for web from en-borrador"
+    build_web_site
+    commit_branch "$WEB_BRANCH" "Publish course materials for web from en-borrador"
   fi
 
   if [[ -n "$current_branch" && "$current_branch" != "$(git branch --show-current)" ]]; then
