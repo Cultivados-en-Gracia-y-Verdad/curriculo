@@ -3,13 +3,16 @@ set -euo pipefail
 
 SOURCE_BRANCH="${SOURCE_BRANCH:-origin/en-borrador}"
 TARGET_BRANCH="${TARGET_BRANCH:-main}"
-WEB_BRANCH="${WEB_BRANCH:-web}"
-COURSES_ROOT="${COURSES_ROOT:-courses}"
+WEB_BRANCH="${WEB_BRANCH:-main}"
 WEB_CONTENT_ROOT="${WEB_CONTENT_ROOT:-content/courses}"
+COURSES_ROOT="${COURSES_ROOT:-courses}"
 PUSH="${PUSH:-1}"
 DRY_RUN="${DRY_RUN:-0}"
 PUBLISH_WEB="${PUBLISH_WEB:-1}"
 BUILD_WEB="${BUILD_WEB:-1}"
+
+CURRICULO_ROOT=""
+WEB_REPO=""
 
 usage() {
   cat <<'EOF'
@@ -17,7 +20,7 @@ Usage:
   ./scripts/publish-course.sh                 Publish all draft courses
   ./scripts/publish-course.sh <name>          Publish one course
   ./scripts/publish-course.sh --list          Show draft -> main/web mappings
-  ./scripts/publish-course.sh --web-only <name> Update web branch only
+  ./scripts/publish-course.sh --web-only <name>  Update cgv-web only
 
 Examples:
   ./scripts/publish-course.sh santiago
@@ -27,23 +30,43 @@ Examples:
 Environment:
   SOURCE_BRANCH=origin/en-borrador
   TARGET_BRANCH=main
-  WEB_BRANCH=web
-  PUBLISH_WEB=1   Also publish PDFs and course page to the web branch
-  BUILD_WEB=1     Run hugo after web content changes (updates docs/)
-  PUSH=0          Commit locally, do not push
-  DRY_RUN=1       Show actions only
+  WEB_REPO=../cgv-web          Path to Cultivados-en-Gracia-y-Verdad/cgv-web checkout
+  WEB_BRANCH=main
+  PUBLISH_WEB=1                Also publish PDFs and course page to cgv-web
+  BUILD_WEB=1                  Run hugo in cgv-web after content changes
+  PUSH=0                       Commit locally, do not push
+  DRY_RUN=1                    Show actions only
 
 Draft folders on en-borrador (e.g. 13.Santiago) are matched automatically to
 courses/<name> on main by folder name and manifest id. No publish-map.tsv needed.
 
-When PUBLISH_WEB=1, PDFs are copied to content/courses/<slug>/ as alumno.pdf and
-maestro.pdf, _index.md is created when missing, and hugo rebuilds docs/.
+When PUBLISH_WEB=1, PDFs are copied to cgv-web content/courses/<slug>/ as
+alumno.pdf and maestro.pdf, _index.md is created when missing, and hugo
+rebuilds docs/ in that repo.
 EOF
   exit 1
 }
 
 require_repo() {
   git rev-parse --is-inside-work-tree >/dev/null
+  CURRICULO_ROOT="$(git rev-parse --show-toplevel)"
+  WEB_REPO="${WEB_REPO:-$CURRICULO_ROOT/../cgv-web}"
+}
+
+web_git() {
+  git -C "$WEB_REPO" "$@"
+}
+
+web_repo_abs_path() {
+  (cd "$WEB_REPO" && pwd)
+}
+
+require_web_repo() {
+  if [[ ! -d "$WEB_REPO/.git" ]]; then
+    echo "Web repo not found: $WEB_REPO" >&2
+    echo "Clone https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-web.git or set WEB_REPO." >&2
+    exit 1
+  fi
 }
 
 normalize_key() {
@@ -172,7 +195,7 @@ resolve_web_slug() {
     if alias_key="$(web_slug_alias_for_key "$(normalize_key "$course_name")")"; then
       [[ "$(normalize_key "$alias_key")" == "$slug_key" ]] && printf '%s' "$slug" && return 0
     fi
-  done < <(git ls-tree -d --name-only "$WEB_BRANCH:$WEB_CONTENT_ROOT" 2>/dev/null || true)
+  done < <(web_git ls-tree -d --name-only "$WEB_BRANCH:$WEB_CONTENT_ROOT" 2>/dev/null || true)
 
   if [[ -n "$manifest_id" ]]; then
     printf '%s' "$(slugify_name "$manifest_id")"
@@ -184,12 +207,18 @@ resolve_web_slug() {
 
 list_mappings() {
   git fetch origin >/dev/null 2>&1 || true
+  if [[ "$PUBLISH_WEB" == "1" ]]; then
+    require_web_repo
+    web_git fetch origin >/dev/null 2>&1 || true
+  fi
+
   printf "%-28s -> %-22s" "DRAFT (en-borrador)" "MAIN"
   if [[ "$PUBLISH_WEB" == "1" ]]; then
-    printf " -> %s\n" "WEB"
+    printf " -> cgv-web/%s\n" "$WEB_CONTENT_ROOT"
   else
     printf "\n"
   fi
+
   while IFS= read -r draft_dir; do
     [[ -z "$draft_dir" ]] && continue
     is_publishable_draft_dir "$draft_dir" || continue
@@ -240,6 +269,26 @@ sync_file() {
   git add "$target_path"
 }
 
+sync_file_web() {
+  local source_path="$1"
+  local target_rel="$2"
+  local web_root abs_target
+
+  if ! git cat-file -e "$SOURCE_BRANCH:$source_path" 2>/dev/null; then
+    echo "  skip file (missing): $source_path"
+    return 0
+  fi
+
+  echo "  file: $source_path -> $WEB_REPO/$target_rel"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  web_root="$(web_repo_abs_path)"
+  abs_target="$web_root/$target_rel"
+  mkdir -p "$(dirname "$abs_target")"
+  git show "$SOURCE_BRANCH:$source_path" > "$abs_target"
+  web_git add "$target_rel"
+}
+
 sync_tree() {
   local source_dir="$1"
   local target_dir="$2"
@@ -260,6 +309,31 @@ sync_tree() {
   mv "$tmp/$source_dir" "$target_dir"
   rm -rf "$tmp"
   git add "$target_dir"
+}
+
+sync_tree_web() {
+  local source_dir="$1"
+  local target_rel="$2"
+  local web_root abs_target
+
+  if ! git ls-tree -d "$SOURCE_BRANCH:$source_dir" >/dev/null 2>&1; then
+    echo "  skip dir (missing): $source_dir/"
+    return 0
+  fi
+
+  echo "  dir:  $source_dir/ -> $WEB_REPO/$target_rel/"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  web_root="$(web_repo_abs_path)"
+  abs_target="$web_root/$target_rel"
+  local tmp
+  tmp="$(mktemp -d)"
+  git archive "$SOURCE_BRANCH" "$source_dir" | tar -x -C "$tmp"
+  mkdir -p "$(dirname "$abs_target")"
+  rm -rf "$abs_target"
+  mv "$tmp/$source_dir" "$abs_target"
+  rm -rf "$tmp"
+  web_git add "$target_rel"
 }
 
 sync_pdfs() {
@@ -328,24 +402,25 @@ sync_web_pdf() {
     return 0
   fi
 
-  sync_file "$source_dir/$source_file" "$WEB_CONTENT_ROOT/$web_slug/$target_name"
+  sync_file_web "$source_dir/$source_file" "$WEB_CONTENT_ROOT/$web_slug/$target_name"
 }
 
 sync_web_images() {
   local source_dir="$1"
   local web_slug="$2"
 
-  sync_tree "$source_dir/images" "$WEB_CONTENT_ROOT/$web_slug/images"
+  sync_tree_web "$source_dir/images" "$WEB_CONTENT_ROOT/$web_slug/images"
 }
 
 sync_web_index() {
   local draft_dir="$1"
   local web_slug="$2"
-  local index_path="$WEB_CONTENT_ROOT/$web_slug/_index.md"
-  local title subtitle
+  local index_rel="$WEB_CONTENT_ROOT/$web_slug/_index.md"
+  local index_path title subtitle
 
+  index_path="$(web_repo_abs_path)/$index_rel"
   if [[ -f "$index_path" ]]; then
-    echo "  keep existing: $index_path"
+    echo "  keep existing: $index_rel"
     return 0
   fi
 
@@ -354,7 +429,7 @@ sync_web_index() {
   [[ -z "$title" ]] && title="$(strip_draft_prefix "$draft_dir")"
   [[ -z "$subtitle" ]] && subtitle="Curso bíblico CGV"
 
-  echo "  create: $index_path"
+  echo "  create: $index_rel"
   [[ "$DRY_RUN" == "1" ]] && return 0
 
   mkdir -p "$(dirname "$index_path")"
@@ -378,14 +453,14 @@ materiales:
   - "Manual del Maestro"
 ---
 EOF
-  git add "$index_path"
+  web_git add "$index_rel"
 }
 
 build_web_site() {
   [[ "$BUILD_WEB" != "1" ]] && return 0
 
   if [[ "$DRY_RUN" == "1" ]]; then
-    echo "  would run: hugo --minify"
+    echo "  would run: hugo --minify (in $WEB_REPO)"
     return 0
   fi
 
@@ -394,9 +469,16 @@ build_web_site() {
     return 0
   fi
 
-  echo "Running hugo to rebuild docs/"
-  hugo --minify
-  git add docs/
+  echo "Running hugo to rebuild docs/ in $WEB_REPO"
+  (cd "$WEB_REPO" && hugo --minify)
+  web_git add docs/
+}
+
+prepare_web_repo() {
+  require_web_repo
+  web_git fetch origin
+  web_git checkout "$WEB_BRANCH"
+  web_git pull origin "$WEB_BRANCH"
 }
 
 publish_draft_dir() {
@@ -425,7 +507,7 @@ publish_web_draft_dir() {
 
   echo "Publishing web $draft_dir"
   echo "  from: $SOURCE_BRANCH:$draft_dir"
-  echo "  to:   $WEB_CONTENT_ROOT/$web_slug/"
+  echo "  to:   $WEB_REPO/$WEB_CONTENT_ROOT/$web_slug/"
 
   sync_web_index "$draft_dir" "$web_slug"
   sync_web_images "$draft_dir" "$web_slug"
@@ -448,6 +530,37 @@ commit_branch() {
   else
     echo "Committed locally on $branch. PUSH=0, so not pushing."
   fi
+}
+
+commit_web_repo() {
+  local message="$1"
+
+  if web_git diff --cached --quiet; then
+    echo "No changes to publish on cgv-web ($WEB_BRANCH)."
+    return 0
+  fi
+
+  web_git commit -m "$message"
+  if [[ "$PUSH" == "1" ]]; then
+    web_git push origin "$WEB_BRANCH"
+  else
+    echo "Committed locally on cgv-web. PUSH=0, so not pushing."
+  fi
+}
+
+publish_web_changes() {
+  local draft_dir
+
+  prepare_web_repo
+
+  while IFS= read -r draft_dir; do
+    [[ -z "$draft_dir" ]] && continue
+    publish_web_draft_dir "$draft_dir"
+    echo
+  done <<< "$1"
+
+  build_web_site
+  commit_web_repo "Publish course materials for web from en-borrador"
 }
 
 collect_draft_dirs() {
@@ -496,6 +609,9 @@ main() {
   draft_dirs="$(collect_draft_dirs "${1:-}")"
 
   if [[ "$DRY_RUN" == "1" ]]; then
+    if [[ "$PUBLISH_WEB" == "1" ]]; then
+      require_web_repo
+    fi
     while IFS= read -r draft_dir; do
       [[ -z "$draft_dir" ]] && continue
       publish_draft_dir "$draft_dir"
@@ -504,27 +620,15 @@ main() {
       fi
       echo
     done <<< "$draft_dirs"
+    if [[ "$PUBLISH_WEB" == "1" ]]; then
+      build_web_site
+    fi
     echo "Dry run complete."
     exit 0
   fi
 
   if [[ "$web_only" == "1" ]]; then
-    git checkout "$WEB_BRANCH"
-    git pull origin "$WEB_BRANCH"
-
-    while IFS= read -r draft_dir; do
-      [[ -z "$draft_dir" ]] && continue
-      publish_web_draft_dir "$draft_dir"
-      echo
-    done <<< "$draft_dirs"
-
-    build_web_site
-    commit_branch "$WEB_BRANCH" "Publish course materials for web from en-borrador"
-
-    if [[ -n "$current_branch" && "$current_branch" != "$(git branch --show-current)" ]]; then
-      git checkout "$current_branch"
-    fi
-
+    publish_web_changes "$draft_dirs"
     echo "Done."
     exit 0
   fi
@@ -541,17 +645,7 @@ main() {
   commit_branch "$TARGET_BRANCH" "Publish course content from en-borrador"
 
   if [[ "$PUBLISH_WEB" == "1" ]]; then
-    git checkout "$WEB_BRANCH"
-    git pull origin "$WEB_BRANCH"
-
-    while IFS= read -r draft_dir; do
-      [[ -z "$draft_dir" ]] && continue
-      publish_web_draft_dir "$draft_dir"
-      echo
-    done <<< "$draft_dirs"
-
-    build_web_site
-    commit_branch "$WEB_BRANCH" "Publish course materials for web from en-borrador"
+    publish_web_changes "$draft_dirs"
   fi
 
   if [[ -n "$current_branch" && "$current_branch" != "$(git branch --show-current)" ]]; then
