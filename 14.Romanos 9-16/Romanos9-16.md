@@ -50,16 +50,17 @@ Romanos 16
 
 
 Desarrollo de la presión (Romanos 9-16)
-1) Romanos 9:1-5 — Se introduce la presión emocional/de identidad
+
+## Romanos 9:1-5 — Se introduce la presión emocional/de identidad
 Gran tristeza/angustia constante relacionada con “mis hermanos/parientes según la carne”, con la tensión añadida de una posible separación “de Cristo” para ellos.
-2) Romanos 9:6-13 — Presión de confiabilidad (explícita)
+## Romanos 9:6-13 — Presión de confiabilidad (explícita)
 La presión se vuelve explícita: la posibilidad de que “la palabra de Dios haya fallado” (ἐκπέπτωκεν), además del problema de identidad (“no todos los de Israel son Israel”).
-3) Romanos 9:14-24 — Presión de objeción (moral + responsabilidad)
+## Romanos 9:14-24 — Presión de objeción (moral + responsabilidad)
 Ahora la presión se intensifica en objeciones directas:
 “¿Hay injusticia en Dios?”
 
 ## flujo de desarrollo de tensión”
-4) Romanos 10:1-13 — Presión por el acceso a la salvación
+Romanos 10:1-13 — Presión por el acceso a la salvación
 La presión se centra en “ellos”, quienes necesitan la salvación, con “celo sin conocimiento” y sin someterse al modelo de justicia (el problema de cómo se accede a la salvación/justicia).
 5) Romanos 11:25-27 — Presión por la ignorancia/autoconfianza + tensión por una historia sin resolver
 La presión se presenta como un peligro: no sean ignorantes, no se crean sabios, mientras que una realidad de endurecimiento parcial se cierne sobre Israel; es decir, “¿cómo se resuelve esto sin que la palabra de Dios se vuelva frágil?”
@@ -81,83 +82,517 @@ La presión es la necesidad de acogida/unidad mutua, fundamentada en la realidad
 ↓
 15–16 Obediencia de la fe entre todas las naciones
 
-# Romanos 9:1–11:36 La condición de Israel no significa que la palabra de Dios haya fallado
 
-# Romanos 12:1–13:14 Preséntense y vivan conforme a la nueva realidad
 
-# Romanos 14:1–15:13 Recíbanse unos a otros bajo el señorío de Cristo
 
-# Romanos 15:14–16:27 El ministerio de Pablo lleva el evangelio a las naciones
 
-### Romanos 9:1 
+
+
+
+
+# ROMANOS 9:1–11:36 La condición de Israel no significa que la palabra de Dios haya fallado
+
+## Romanos 9:1–29 - La palabra de Dios no ha fallado
+
+### Romanos 9:1
 Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
 
 #### Digo la verdad en Cristo, no miento,
+- Presión (credibilidad): el texto abre asegurando veracidad antes de introducir el contenido de presión (9:2–3).
+	- Señal mecánica: afirmación + negación (“verdad” / “no miento”) = refuerzo de confiabilidad del hablante.
+	- Esto prepara al lector para recibir un contenido que podría sonar excesivo o increíble (tristeza grande, dolor continuo, deseo de ser anatema).
+- Interlinear (GR, mecánico):
+	- λέγω = “digo” (verbo finito principal).
+	- οὐ ψεύδομαι = “no miento” (verbo finito con negación).
+- Definiciones (si el lector no conoce términos):
+ἀλήθεια
+: verdad (lo verdadero; afirmación de correspondencia con la realidad)
+
+ψεύδομαι
+: mentir (decir falsedad; falsear lo dicho)
 
 #### dándome testimonio mi conciencia en el Espíritu Santo,
+- Revelación (mecanismo de verificación): el texto agrega un “testigo” interno además del enunciado verbal.
+	- Participio (GR): συμμαρτυρούσης… τῆς συνειδήσεώς μου = “dando testimonio juntamente mi conciencia”.
+	- Función: soporte/validación de lo que se afirma (“esto no es solo dicho; está testificado internamente”).
+- Presión (auditoría): se instala un criterio de auditoría del discurso: conciencia + marco “en el Espíritu Santo”.
+	- No se asume que el lector entiende “conciencia” o “Espíritu Santo”; el texto solo los usa como base de validación.
+- Definiciones:
+συνείδησις
+: conciencia (facultad interna de evaluación/testimonio; aquí funciona como “testigo”)
 
-### Romanos 9:2 
+πνεῦμα ἅγιον
+: Espíritu Santo (término compuesto; en interlinear aparece como “Espíritu / Santo”)
+
+### Romanos 9:2
 de que tengo gran tristeza y continuo dolor en mi corazón.
 
 #### de que tengo gran tristeza y continuo dolor en mi corazón.
+- Conector (mecánico): la cláusula depende de 9:1 (“digo verdad… que…”).
+	- En GR: ὅτι introduce el contenido de lo que se afirma con tanta verificación.
+- Presión explícita (afecto declarado, no inferido):
+	- “gran tristeza” (λύπη… μεγάλη) = intensidad.
+	- “continuo/incesante dolor” (ἀδιάλειπτος ὀδύνη) = continuidad (no es momentáneo).
+- Localización: “en mi corazón” (τῇ καρδίᾳ μου) ubica la presión como interna/personal.
+- Definiciones:
+λύπη
+: tristeza / pena (aflicción declarada)
 
-### Romanos 9:3 
+ὀδύνη
+: dolor / angustia (dolor interno; suma a “tristeza”)
+
+ἀδιάλειπτος
+: incesante / continuo / sin interrupción
+
+καρδία
+: corazón (centro interno; aquí como “lugar” del dolor)
+
+### Romanos 9:3
 Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
 
 #### Porque desearía yo mismo ser anatema,
+- Conector (mecánico): “Porque” corresponde a γὰρ = explicación/soporte de 9:2.
+	- 9:2 declara la presión; 9:3 explica por qué existe.
+- Verbo (mecánico): ηὐχόμην (de εὔχομαι) expresa deseo (no describe un hecho consumado).
+- Presión (extremo): “ser anatema” es un deseo extremo; el texto lo presenta como el punto máximo del dolor.
+- Definiciones necesarias:
+εὔχομαι
+: desear / pedir / expresar deseo (puede tener matiz de “orar”; aquí marca deseo hipotético)
+
+ἀνάθεμα
+: anatema (término técnico; estado de maldición/exclusión; marca separación grave)
 
 #### separado de Cristo por amor a mis hermanos,
+- Presión (máxima): “separado de Cristo” intensifica el extremo del deseo.
+	- En GR: ἀπὸ τοῦ Χριστοῦ (separación “de Cristo”).
+- Marco de motivo/beneficio: “por” corresponde a ὑπὲρ (por / en favor de).
+	- Mecánicamente: la razón del deseo está dirigida hacia “mis hermanos”.
+- Definiciones:
+ἀπό
+: de / desde / separado de (marca separación/origen; aquí “de Cristo”)
+
+ὑπέρ
+: por / en favor de / a causa de (preposición de beneficio/representación; depende del contexto)
 
 #### mis parientes según la carne.
+- Delimitación del referente (no presumir qué significa “hermanos”):
+	- “parientes” (συγγενῶν) + “según la carne” (κατὰ σάρκα) = criterio de relación.
+- Presión desarrollacional: prepara la identificación formal del grupo en 9:4 (“son israelitas…”).
+- Definiciones:
+συγγενής
+: pariente / familiar (relación por parentesco)
 
-### Romanos 9:4 
+κατά
+: según / conforme a (marca criterio)
+
+σάρξ
+: carne (criterio de relación humana/linaje en el nivel mínimo del texto)
+
+### Romanos 9:4
 Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
 
-#### Porque son israelitas, 
+#### Porque son israelitas,
+- Función en el flujo: el texto nombra explícitamente el grupo definido en 9:3 (“parientes según la carne”).
+- Interlinear (mecánico): “los cuales son Israelitas” (οἵτινές εἰσιν Ἰσραηλῖται).
+	- Verbo finito: εἰσιν = “son”.
+	- “los cuales” conecta con el referente anterior.
+- Definición:
+Ἰσραηλίτης
+: israelita (miembro identificado con Israel; categoría étnico-histórica en el texto)
 
 #### a quienes pertenece la adopción como hijos,
+- Interlinear (mecánico): lista introducida por “de quienes” (ὧν), marcando posesión/atributos del grupo.
+- Revelación (inventario): “adopción” se enumera como pertenencia del grupo (sin explicación todavía).
+- Definición:
+υἱοθεσία
+: adopción / adopción como hijos (estatus de “hijo” concedido; término técnico)
 
 #### y la gloria,
+- Interlinear: “y la gloria” (καὶ ἡ δόξα) como ítem coordinado.
+- Definición:
+δόξα
+: gloria (honor/esplendor/peso; aquí como atributo listado)
 
 #### los pactos,
+- Interlinear: “y los pactos” (καὶ αἱ διαθῆκαι) en plural.
+	- Observación mecánica: pluralidad (más de un pacto).
+- Definición:
+διαθήκη
+: pacto / alianza (acuerdo formal; plural: “pactos”)
 
-#### la promulgación de la ley, 
+#### la promulgación de la ley,
+- Interlinear: “y la legislación” (καὶ ἡ νομοθεσία).
+	- Observación: no solo “ley”, sino “acto/sistema de dar ley”.
+- Definición:
+νομοθεσία
+: legislación / promulgación de ley (dar ley)
 
 #### el culto y las promesas,
+- Interlinear: “y el servicio/culto y las promesas” (καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι).
+- Definiciones:
+λατρεία
+: servicio / culto (servicio rendido; práctica cultual)
 
-### Romanos 9:5 
+ἐπαγγελία
+: promesa (declaración comprometida; plural: “promesas”)
+
+### Romanos 9:5
 de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
 
-#### de quienes son los patriarcas, 
+#### de quienes son los patriarcas,
+- Interlinear (mecánico): “de quienes (son) los padres” (ὧν οἱ πατέρες).
+	- Función: ítem adicional del inventario (origen/antepasados fundacionales).
+- Definición:
+πατήρ (pl. πατέρες)
+: padre(s); aquí “patriarcas” = antepasados fundacionales
 
-#### y de quienes, según la carne, 
+#### y de quienes, según la carne,
+- Interlinear: “y de quienes… lo según carne” (καὶ ἐξ ὧν… τὸ κατὰ σάρκα).
+- Observación: “según la carne” reaparece como marcador categorial, conectando con 9:3.
+- Definiciones:
+κατά
+: según / conforme a
 
-#### procede el Cristo, 
+σάρξ
+: carne (criterio de categoría; relación/linaje en el nivel mínimo)
 
-#### el cual está sobre todas las cosas, 
+#### procede el Cristo,
+- Interlinear: “de quienes el Cristo” (ἐξ ὧν ὁ χριστός).
+- Función: culminación del inventario: el texto conecta al grupo con el Cristo “según carne”.
+- Definición:
+Χριστός
+: Cristo / Mesías (título: “el ungido”)
+
+#### el cual está sobre todas las cosas,
+- Interlinear: “el siendo sobre todos” (ὁ ὢν ἐπὶ πάντων).
+	- ὢν = participio de “ser/estar” (εἰμί).
+	- ἐπὶ πάντων = “sobre todos”.
+- Definiciones:
+ἐπί
+: sobre (preposición; aquí: sobre todos)
+
+πᾶς
+: todo(s)
 
 #### Dios bendito por los siglos. Amén.
+- Interlinear: “Dios bendito por los siglos; amén” (θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν).
+- Observación: doxología/cierre con marcador temporal (“por los siglos”) + “amén”.
+- Definiciones:
+εὐλογητός
+: bendito (digno de bendición)
 
-### Romanos 9:6 
+αἰών
+: siglo/era; plural “siglos” = duración indefinida/continua
+
+ἀμήν
+: amén (cierre afirmativo)
+
+### Romanos 9:4
+Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
+
+#### Porque son israelitas,
+- Identificación explícita del referente.
+	- En 9:3 el referente quedó delimitado como “mis parientes según la carne”; aquí se lo nombra: “israelitas”.
+	- Función discursiva: el texto mueve del dolor personal (9:2) y deseo extremo (9:3) a una **definición objetiva** del grupo.
+- Interlinear / gramática (mecánico):
+	- GR: οἵτινές εἰσιν Ἰσραηλῖται (“los cuales son israelitas”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+		- Verbo finito: εἰσιν = “son”.
+		- οἵτινές (relativo) conecta con el referente anterior.
+- Presión desarrollacional:
+	- Esta identificación hace que el lector pregunte: “¿por qué el dolor es tan grande?” → la respuesta viene por el inventario de pertenencias (9:4–5) y luego por la tesis (9:6).
+- Definición (si hace falta):
+Ἰσραηλίτης
+: israelita (miembro identificado con Israel; categoría étnico-histórica dentro del texto)
+
+#### a quienes pertenece la adopción como hijos,
+- Inventario de pertenencias (no interpretación): el texto enumera “lo que les pertenece”.
+	- En GR la lista se introduce con ὧν (“de quienes”), marcador genitivo de pertenencia/origen que abre el inventario.[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+- Presión (peso del caso):
+	- El texto está mostrando que el dolor (9:2–3) tiene un “peso histórico-identitario”; no es solo emoción.
+- Interlinear:
+	- υἱοθεσία = “adopción”.[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+- Definición:
+υἱοθεσία
+: adopción / adopción como hijos (estatus concedido de “hijo”; término técnico)
+
+- Referencias cruzadas útiles (misma palabra en Romanos):
+	- Ro 8:15; Ro 8:23 (uso de “adopción” dentro del mismo libro).
+
+#### y la gloria,
+- Inventario: segundo elemento coordinado.
+	- GR: καὶ ἡ δόξα (“y la gloria”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+- Función: añade “gloria” como atributo/posesión ligada al grupo (el texto no explica aquí, solo lista).
+- Definición:
+δόξα
+: gloria (honor/esplendor/peso/reconocimiento; aquí como ítem listado)
+
+- Referencias cruzadas útiles (patrón bíblico de “gloria”):
+	- Éx 40:34–35; 1 R 8:10–11 (gloria asociada a presencia/culto; útil para rastreo del término, no para imponer lectura).
+
+#### los pactos,
+- Inventario: pluralidad explícita.
+	- GR: καὶ αἱ διαθῆκαι (“y los pactos”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+		- Plural: el texto sugiere múltiples “pactos”, aunque no los enumera aquí.
+- Presión desarrollacional:
+	- La pluralidad eleva el “peso” del caso: no es una sola relación, sino varias formalizadas.
+- Definición:
+διαθήκη
+: pacto / alianza (acuerdo formal; aquí en plural: “pactos”)
+
+- Referencia cruzada interna:
+	- Ro 11:27 (menciona “pacto” en una cita; continuidad de vocabulario dentro del libro).
+
+#### la promulgación de la ley,
+- Inventario: acto/sistema de dar ley.
+	- GR: καὶ ἡ νομοθεσία (“y la legislación/promulgación de ley”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+- Observación mecánica:
+	- No dice solo “ley” (νόμος), sino “legislación” (νομοθεσία): énfasis en la **entrega/dación** de ley.
+- Definición:
+νομοθεσία
+: legislación / promulgación de ley (acto o sistema de dar ley)
+
+- Referencias cruzadas útiles:
+	- Éx 19–20 (evento de entrega de la ley; rastreo del concepto “dar ley”).
+
+#### el culto y las promesas,
+- Inventario: dos ítems finales coordinados.
+	- GR: καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι (“y el servicio/culto y las promesas”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
+- Observación mecánica:
+	- “culto/servicio” (λατρεία) se empareja con “promesas” (ἐπαγγελίαι), plural.
+	- Esto junta práctica (culto) + contenido declarativo (promesas).
+- Definiciones:
+λατρεία
+: servicio / culto (servicio rendido; práctica cultual)
+
+ἐπαγγελία
+: promesa (declaración comprometida; plural: “promesas”)
+
+- Presión desarrollacional hacia 9:6:
+	- El inventario crea una presión implícita: “con todo esto, ¿cómo puede estar el grupo en el estado que provoca ese dolor?” → 9:6 responde: “no es que la palabra de Dios haya fallado”.
+
+---
+
+### Romanos 9:5
+de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
+
+#### de quienes son los patriarcas,
+- Continuación del inventario: ahora agrega “los padres/patriarcas”.
+	- GR: ὧν οἱ πατέρες (“de quienes los padres”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
+- Observación mecánica:
+	- “de quienes” repite el genitivo de relación/origen: sigue anclando la lista en el mismo referente (“israelitas”).
+- Definición:
+πατήρ (pl. πατέρες)
+: padre(s); aquí “patriarcas” = antepasados fundacionales
+
+- Referencias cruzadas útiles:
+	- Fórmula “Dios de Abraham, Isaac y Jacob” (Éxodo) como marco típico de “padres” en sentido fundacional.
+
+#### y de quienes, según la carne,
+- Inventario con marcador categorial:
+	- GR: καὶ ἐξ ὧν… τὸ κατὰ σάρκα (“y de quienes… lo según carne”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
+- Observación mecánica clave:
+	- “según la carne” ya apareció en 9:3 (“parientes según la carne”).
+	- Aquí conecta el inventario con el mismo criterio categorial: “Cristo… según la carne”.
+- Definiciones:
+ἐκ / ἐξ
+: de (origen; “de quienes” como fuente/origen)
+
+κατά
+: según / conforme a
+
+σάρξ
+: carne (criterio categorial; relación/linaje en el nivel mínimo)
+
+#### procede el Cristo,
+- Culminación del inventario:
+	- GR: ἐξ ὧν ὁ χριστός (“de quienes el Cristo”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
+- Observación mecánica:
+	- Esto afirma un vínculo de origen (“de quienes”) entre el grupo y “el Cristo” en la esfera “según la carne”.
+- Definición:
+Χριστός
+: Cristo / Mesías (título: el ungido)
+
+- Referencia cruzada interna (misma estructura “según la carne”):
+	- Ro 1:3 (linaje… “según la carne”).
+
+#### el cual está sobre todas las cosas,
+- Cláusula descriptiva:
+	- GR: ὁ ὢν ἐπὶ πάντων (“el siendo sobre todos”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
+		- ὢν = participio de “ser/estar” (εἰμί).
+		- ἐπὶ πάντων = sobre todos.
+- Observación mecánica:
+	- El texto eleva el estatus del Cristo con lenguaje de supremacía (“sobre todos”).
+- Definiciones:
+ὢν (de εἰμί)
+: siendo / el que es (forma participial de “ser/estar”)
+
+ἐπί
+: sobre
+
+πᾶς
+: todo(s)
+
+#### Dios bendito por los siglos. Amén.
+- Cierre doxológico:
+	- GR: θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν (“Dios bendito por los siglos; amén”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
+- Observación mecánica:
+	- “εἰς τοὺς αἰῶνας” = marcador temporal/durativo (“por los siglos”).
+	- “amén” = cierre afirmativo.
+- Definiciones:
+θεός
+: Dios
+
+εὐλογητός
+: bendito (digno de bendición)
+
+αἰών
+: siglo/era; plural “siglos” = duración indefinida/continua
+
+ἀμήν
+: amén (cierre afirmativo)
+
+- Presión desarrollacional hacia 9:6:
+	- El inventario termina con un punto de máxima densidad (“Cristo… sobre todos… Dios bendito…”).
+	- Eso intensifica la pregunta implícita: si este grupo tiene estas realidades, ¿qué significa la tensión que sigue (9:6: “no es que la palabra de Dios haya fallado”)?
+
+### Romanos 9:6
 Pero no es que la palabra de Dios haya fallado. Porque no todos los descendientes de Israel son Israel;
 
-#### Pero no es que la palabra de Dios haya fallado. 
+#### Pero no es que la palabra de Dios haya fallado.
+- Presión (la objeción implícita que el texto bloquea):
+	- Después del inventario de 9:4–5 (israelitas + privilegios + “de quienes procede el Cristo”), el lector puede concluir: “entonces la palabra/promesa de Dios fracasó”.
+	- El texto niega esa conclusión antes de avanzar.
+- Interlinear / mecánico:
+	- GR: Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ (“No [es] tal como que ha caído la palabra de Dios”).[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
+		- Verbo clave: ἐκπέπτωκεν = “ha caído / ha fallado”.
+		- Sujeto: ὁ λόγος τοῦ θεοῦ = “la palabra de Dios”.
+	- Conector: δὲ (“pero”) marca transición/contraste con lo anterior.
+- Presión desarrollacional:
+	- Aquí el texto “cierra la puerta” a una lectura posible: “dolor de Pablo = fallo de Dios”.
+- Definiciones (si el lector no conoce el vocabulario):
+λόγος
+: palabra / dicho / mensaje (aquí: “palabra de Dios” como entidad que podría “fallar”)
+
+ἐκπίπτω (ἐκπέπτωκεν)
+: caer / fallar / quedar fuera (marca colapso/fracaso de algo)
 
 #### Porque no todos los descendientes de Israel son Israel;
+- Revelación (criterio de distinción):
+	- El texto introduce la razón (γὰρ / “porque”) de por qué la “palabra de Dios” no ha fallado.
+	- La razón no es “sentimiento”; es una distinción interna de categoría: “no todos los de Israel, éstos [son] Israel”.
+- Interlinear / mecánico:
+	- GR: οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
+		- Negación: οὐ.
+		- Universal negada: πάντες (“todos”).
+		- Grupo A: οἱ ἐξ Ἰσραήλ (“los de / procedentes de Israel”).
+		- Grupo B: οὗτοι Ἰσραήλ (“estos [son] Israel”).
+- Presión (lectura requerida):
+	- El texto obliga al lector a aceptar que “Israel” puede usarse en dos niveles:
+		- “de Israel” (procedencia/identidad externa)
+		- “Israel” (categoría afirmada por el texto como “estos son Israel”)
+	- El lector no puede asumir que ambos significan lo mismo; el texto lo niega explícitamente.
+- Definiciones:
+πᾶς (πάντες)
+: todo(s) (universal; aquí se niega: “no todos”)
 
-### Romanos 9:7 
+ἐκ / ἐξ
+: de / desde (origen/procedencia; “los de Israel”)
+
+οὗτος (οὗτοι)
+: este(s) (demostrativo que marca subgrupo: “estos”)
+
+- Referencias cruzadas útiles (patrón “remanente / no todos”):
+	- Ro 11:5 (remanente) como continuidad dentro del argumento (sin imponerlo aquí, solo como conexión de patrón).
+
+---
+
+### Romanos 9:7
 ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
 
-#### ni son todos hijos por ser descendientes de Abraham, 
+#### ni son todos hijos por ser descendientes de Abraham,
+- Revelación (segundo filtro / segunda negación):
+	- El texto agrega otra negación para reforzar la distinción: no todo “linaje” = “hijos” (en el sentido que el argumento necesita).
+- Interlinear / mecánico:
+	- GR: οὐδʼ ὅτι εἰσὶν σπέρμα Ἀβραάμ, πάντες τέκνα (“ni porque son simiente de Abraham, [son] todos hijos”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
+		- Conector: οὐδʼ (“ni”) suma una negación adicional a la anterior.
+		- Verbo: εἰσὶν (“son”).
+		- Categoría 1: σπέρμα Ἀβραάμ (“simiente/descendencia de Abraham”).
+		- Categoría 2: τέκνα (“hijos”).
+- Presión (lo que se impide):
+	- Se impide la ecuación automática: “descendencia física de Abraham” = “hijos” (categoría relevante para el argumento).
+- Definiciones:
+σπέρμα
+: simiente / descendencia (categoría de origen/linaje)
+
+τέκνον (pl. τέκνα)
+: hijo(s) / descendiente(s) (término relacional; aquí en contraste con “simiente”)
 
 #### sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
+- Revelación (criterio positivo por cita):
+	- Después de negar (“no todos”), el texto da el criterio positivo: “en Isaac será llamada tu descendencia”.
+- Interlinear / mecánico:
+	- GR: ἀλλʼ· Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα (“sino: en Isaac será llamada a ti simiente”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
+		- ἀλλʼ (“sino”) = contraste fuerte: reemplaza criterio.
+		- Ἐν Ἰσαὰκ (“en Isaac”) = marco/criterio.
+		- κληθήσεταί (“será llamada”) = pasivo futuro; introduce “nombramiento/definición”.
+		- σπέρμα (“descendencia/simiente”) = objeto del “ser llamada”.
+- Presión desarrollacional:
+	- El texto mueve de “origen físico” a “definición/nombramiento” (“será llamada”) como mecanismo de distinción.
+- Definiciones:
+καλέω (κληθήσεται)
+: llamar / nombrar (pasivo: “será llamada”; define quién cuenta como “descendencia”)
 
-### Romanos 9:8 
+- Referencia cruzada (origen de la cita):
+	- Génesis 21:12 (cita “en Isaac…”), útil para rastrear el texto citado.
+
+---
+
+### Romanos 9:8
 Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes.
 
-#### Esto es, no son los hijos de la carne los que son hijos de Dios, 
+#### Esto es, no son los hijos de la carne los que son hijos de Dios,
+- Función (aclaración explícita):
+	- “Esto es” señala que el texto ahora **explica** lo anterior (9:7) en forma de equivalencias/contrastes.
+- Interlinear / mecánico:
+	- GR: τοῦτʼ ἔστιν (“esto es”) + οὐ… ἀλλὰ… (contraste).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+	- GR: οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ (“no los hijos de la carne, éstos [son] hijos de Dios”).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+		- Categoría negada: “hijos de la carne”.
+		- Categoría afirmada como relevante: “hijos de Dios”.
+- Presión (lo que el lector no debe asumir):
+	- No se puede asumir que “carne / linaje físico” define “hijos de Dios” en el argumento.
+- Definiciones:
+σάρξ
+: carne (criterio de relación humana/linaje en el nivel mínimo del texto)
+
+τέκνα τοῦ θεοῦ
+: hijos de Dios (categoría afirmada por el texto; aquí en contraste con “hijos de la carne”)
 
 #### sino que los hijos de la promesa son considerados como descendientes.
+- Revelación (criterio positivo):
+	- El criterio afirmado no es “carne”, sino “promesa”.
+- Interlinear / mecánico:
+	- GR: ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα·[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+		- Categoría afirmada: “hijos de la promesa”.
+		- Verbo clave: λογίζεται (λογίζομαι) = “es contado / es considerado”.
+		- Dirección/resultado: εἰς σπέρμα (“como/para descendencia”).
+- Presión desarrollacional:
+	- El texto define un mecanismo formal: “ser considerado/contado como descendencia”.
+	- Esto evita la lectura de “descendencia = genética”; redefine “descendencia” por promesa + conteo.
+- Definiciones (incluyendo tu lista de transliteración):
+λογίζομαι (logizomai)
+: contar / considerar / calcular / tener por (aquí: “son considerados como”)
+
+ἐπαγγελία
+: promesa (declaración comprometida; aquí define la categoría “hijos de la promesa”)
+
+εἰς
+: hacia / para / como resultado (marca dirección; aquí: “hacia/como ‘descendencia’”)
+
+σπέρμα
+: simiente / descendencia
+
+- Referencias cruzadas útiles (por el verbo “considerar/contar”):
+	- Ro 4:3 (“le fue contado”) como patrón de λογίζομαι en Romanos (conecta método: “contado/considerado”).
 
 ### Romanos 9:9 
 Porque la palabra de promesa es esta: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO».
@@ -367,6 +802,8 @@ Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO D
 #### HUBIÉRAMOS LLEGADO A SER COMO SODOMA, 
 
 #### Y HECHOS SEMEJANTES A GOMORRA».
+
+## Romanos 9:30–10:21 - Israel no alcanzó
 
 ### Romanos 9:30 
 ¿Qué diremos entonces? Que los gentiles, que no iban tras la justicia, alcanzaron justicia, es decir, la justicia que es por fe;
@@ -629,6 +1066,7 @@ Pero en cuanto a Israel, dice: «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO
 
 #### A UN PUEBLO DESOBEDIENTE Y REBELDE».
 
+## Romanos 11:1–36 - Dios no ha rechazado a su pueblo
 
 ### Romanos 11:1 
 Digo entonces: ¿Acaso ha desechado Dios a Su pueblo? ¡De ningún modo! Porque yo también soy israelita, descendiente de Abraham, de la tribu de Benjamín.
@@ -1051,216 +1489,226 @@ Porque de Él, por Él y para Él son todas las cosas. A Él sea la gloria para 
 
 #### A Él sea la gloria para siempre. Amén.
 
+# Romanos 12:1–13:14 Preséntense y vivan conforme a la nueva realidad
+
+## Romanos 12:1–8 - Presenten sus cuerpos
+
 ### Romanos 12:1 
 Por tanto, hermanos, les ruego por las misericordias de Dios que presenten sus cuerpos como sacrificio vivo y santo, aceptable a Dios, que es el culto racional de ustedes.
 
-Por tanto, hermanos, 
+#### Por tanto, hermanos, 
 
-les ruego por las misericordias de Dios 
+#### les ruego por las misericordias de Dios 
 
-que presenten sus cuerpos 
+#### que presenten sus cuerpos 
 
-como sacrificio vivo y santo, 
+#### como sacrificio vivo y santo, 
 
-aceptable a Dios, 
+#### aceptable a Dios, 
 
-que es el culto racional de ustedes.
+#### que es el culto racional de ustedes.
 
 ### Romanos 12:2 
 Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios: lo que es bueno y aceptable y perfecto.
 
-Y no se adapten a este mundo, 
+#### Y no se adapten a este mundo, 
 
-sino transfórmense 
+#### sino transfórmense 
 
-mediante la renovación de su mente, 
+#### mediante la renovación de su mente, 
 
-para que verifiquen 
+#### para que verifiquen 
 
-cuál es la voluntad de Dios: 
+#### cuál es la voluntad de Dios: 
 
-lo que es bueno y aceptable y perfecto.
+#### lo que es bueno y aceptable y perfecto.
 
 ### Romanos 12:3 
 Porque en virtud de la gracia que me ha sido dada, digo a cada uno de ustedes que no piense de sí mismo más de lo que debe pensar, sino que piense con buen juicio, según la medida de fe que Dios ha distribuido a cada uno.
 
-Porque en virtud de la gracia que me ha sido dada, 
+#### Porque en virtud de la gracia que me ha sido dada, 
 
-digo a cada uno de ustedes 
+#### digo a cada uno de ustedes 
 
-que no piense de sí mismo 
+#### que no piense de sí mismo 
 
-más de lo que debe pensar, 
+#### más de lo que debe pensar, 
 
-sino que piense con buen juicio, 
+#### sino que piense con buen juicio, 
 
-según la medida de fe 
+#### según la medida de fe 
 
-que Dios ha distribuido a cada uno.
+#### que Dios ha distribuido a cada uno.
 
 ### Romanos 12:4 
 Pues así como en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función,
 
-Pues así como en un cuerpo tenemos muchos miembros, 
+#### Pues así como en un cuerpo tenemos muchos miembros, 
 
-pero no todos los miembros tienen la misma función,
-
+#### pero no todos los miembros tienen la misma función,
 
 ### Romanos 12:5 
 así nosotros, que somos muchos, somos un cuerpo en Cristo e individualmente miembros los unos de los otros.
 
-así nosotros, que somos muchos, 
+#### así nosotros, que somos muchos, 
 
-somos un cuerpo en Cristo 
+#### somos un cuerpo en Cristo 
 
-e individualmente miembros 
+#### e individualmente miembros 
 
-los unos de los otros.
+#### los unos de los otros.
 
 
 ### Romanos 12:6 
 Pero teniendo diferentes dones, según la gracia que nos ha sido dada, usémoslos: si el de profecía, úsese en proporción a la fe;
 
-Pero teniendo diferentes dones, 
+#### Pero teniendo diferentes dones, 
 
-según la gracia que nos ha sido dada, 
+#### según la gracia que nos ha sido dada, 
 
-usémoslos: 
+#### usémoslos: 
 
-si el de profecía, úsese en proporción a la fe;
+#### si el de profecía, úsese en proporción a la fe;
 
 
 ### Romanos 12:7 
 si el de servicio, en servir; o el que enseña, en la enseñanza;
 
-si el de servicio, en servir; 
+#### si el de servicio, en servir; 
 
-o el que enseña, en la enseñanza;
+#### o el que enseña, en la enseñanza;
 
 
 ### Romanos 12:8 
 el que exhorta, en la exhortación; el que da, con liberalidad; el que dirige, con diligencia; el que muestra misericordia, con alegría.
 
-el que exhorta, en la exhortación; 
+#### el que exhorta, en la exhortación; 
 
-el que da, con liberalidad; 
+#### el que da, con liberalidad; 
 
-el que dirige, con diligencia; 
+#### el que dirige, con diligencia; 
 
-el que muestra misericordia, con alegría.
+#### el que muestra misericordia, con alegría.
+
+## Romanos 12:9–21 - El amor sin hipocresía
+
 
 ### Romanos 12:9 
 El amor sea sin hipocresía; aborreciendo lo malo, aplicándose a lo bueno.
 
-El amor sea sin hipocresía; 
+#### El amor sea sin hipocresía; 
 
-aborreciendo lo malo, 
+#### aborreciendo lo malo, 
 
-aplicándose a lo bueno.
+#### aplicándose a lo bueno.
 
 ### Romanos 12:10 
 Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
 
-Sean afectuosos unos con otros 
+#### Sean afectuosos unos con otros 
 
-con amor fraternal; 
+#### con amor fraternal; 
 
-con honra, dándose preferencia unos a otros.
+#### con honra, dándose preferencia unos a otros.
 
 ### Romanos 12:11 
 No sean perezosos en lo que requiere diligencia. Sean fervientes en espíritu, sirviendo al Señor,
 
-No sean perezosos en lo que requiere diligencia.
+#### No sean perezosos en lo que requiere diligencia.
 
-Sean fervientes en espíritu, 
+#### Sean fervientes en espíritu, 
 
-sirviendo al Señor,
+#### sirviendo al Señor,
 
 ### Romanos 12:12 
 gozándose en la esperanza, perseverando en el sufrimiento, dedicados a la oración,
 
-gozándose en la esperanza, 
+#### gozándose en la esperanza, 
 
-perseverando en el sufrimiento, 
+#### perseverando en el sufrimiento, 
 
-dedicados a la oración,
+#### dedicados a la oración,
 
 ### Romanos 12:13 
 contribuyendo para las necesidades de los santos, practicando la hospitalidad.
 
-contribuyendo para las necesidades de los santos, 
+#### contribuyendo para las necesidades de los santos, 
 
-practicando la hospitalidad.
+#### practicando la hospitalidad.
 
 ### Romanos 12:14 
 Bendigan a los que los persiguen. Bendigan, y no maldigan.
 
-Bendigan a los que los persiguen. Bendigan, y no maldigan.
+#### Bendigan a los que los persiguen. 
+
+#### Bendigan, y no maldigan.
 
 ### Romanos 12:15 
 Gócense con los que se gozan y lloren con los que lloran.
 
-Gócense con los que se gozan 
+#### Gócense con los que se gozan 
 
-y lloren con los que lloran.
+#### y lloren con los que lloran.
 
 ### Romanos 12:16 
 Tengan el mismo sentir unos con otros. No sean altivos en su pensar, sino condescendiendo con los humildes. No sean sabios en su propia opinión.
 
-Tengan el mismo sentir unos con otros. 
+#### Tengan el mismo sentir unos con otros. 
 
-No sean altivos en su pensar, 
+#### No sean altivos en su pensar, 
 
-sino condescendiendo con los humildes. 
+#### sino condescendiendo con los humildes. 
 
-No sean sabios en su propia opinión.
+#### No sean sabios en su propia opinión.
 
 ### Romanos 12:17 
 Nunca paguen a nadie mal por mal. Respeten lo bueno delante de todos los hombres.
 
-Nunca paguen a nadie mal por mal. 
+#### Nunca paguen a nadie mal por mal. 
 
-Respeten lo bueno delante de todos los hombres.
+#### Respeten lo bueno delante de todos los hombres.
 
 ### Romanos 12:18 
 Si es posible, en cuanto de ustedes dependa, estén en paz con todos los hombres.
 
-Si es posible, 
+#### Si es posible, 
 
-en cuanto de ustedes dependa, 
+#### en cuanto de ustedes dependa, 
 
-estén en paz con todos los hombres.
+#### estén en paz con todos los hombres.
 
 ### Romanos 12:19 
 Amados, nunca tomen venganza ustedes mismos, sino den lugar a la ira de Dios, porque escrito está: «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
 
-Amados, nunca tomen venganza ustedes mismos, 
+#### Amados, nunca tomen venganza ustedes mismos, 
 
-sino den lugar a la ira de Dios, 
+#### sino den lugar a la ira de Dios, 
 
-porque escrito está: 
+#### porque escrito está: 
 
-«MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+#### «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
 
 ### Romanos 12:20 
 «PERO SI TU ENEMIGO TIENE HAMBRE, DALE DE COMER; Y SI TIENE SED, DALE DE BEBER, PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
 
-«PERO SI TU ENEMIGO TIENE HAMBRE, 
+#### «PERO SI TU ENEMIGO TIENE HAMBRE, 
 
-DALE DE COMER; 
+#### DALE DE COMER; 
 
-Y SI TIENE SED, DALE DE BEBER, 
+#### Y SI TIENE SED, DALE DE BEBER, 
 
-PORQUE HACIENDO ESTO, 
+#### PORQUE HACIENDO ESTO, 
 
-CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+#### CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
 
 ### Romanos 12:21 
 No seas vencido por el mal, sino vence el mal con el bien.
 
-No seas vencido por el mal, 
+#### No seas vencido por el mal, 
 
-sino vence el mal con el bien.
+#### sino vence el mal con el bien.
+
+## Romanos 13:1–14 - Vístanse del Señor Jesucristo
 
 ### Romanos 13:1 
 Sométase toda persona a las autoridades que gobiernan. Porque no hay autoridad sino de Dios, y las que existen, por Dios son constituidas.
@@ -1426,6 +1874,10 @@ Antes bien, vístanse del Señor Jesucristo, y no piensen en proveer para las lu
 
 #### para las lujurias de la carne.
 
+# Romanos 14:1–15:13 Recíbanse unos a otros bajo el señorío de Cristo
+
+## Romanos 14:1–12 - Reciban al débil
+
 ### Romanos 14:1 
 Acepten al que es débil en la fe, pero no para juzgar sus opiniones.
 
@@ -1545,6 +1997,8 @@ De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
 #### de nosotros 
 
 #### dará a Dios cuenta de sí mismo.
+
+## Romanos 14:13–23 - No destruyan la obra de Dios
 
 ### Romanos 14:13 
 Por tanto, ya no nos juzguemos los unos a los otros, sino más bien decidan esto: no poner obstáculo o piedra de tropiezo al hermano.
@@ -1669,6 +2123,8 @@ Pero el que duda, si come se condena, porque no lo hace por fe. Todo lo que no p
 #### porque no lo hace por fe. 
 
 #### Todo lo que no procede de fe, es pecado.
+
+## Romanos 15:1–13 - Recíbanse unos a otros
 
 ### Romanos 15:1 
 Así que, nosotros los que somos fuertes, debemos sobrellevar las flaquezas de los débiles y no agradarnos a nosotros mismos.
@@ -1812,6 +2268,10 @@ Y el Dios de la esperanza los llene de todo gozo y paz en el creer, para que abu
 #### para que abunden en esperanza 
 
 #### por el poder del Espíritu Santo.
+
+# Romanos 15:14–16:27 El ministerio de Pablo lleva el evangelio a las naciones
+
+## Romanos 15:14–33 - El ministerio a las naciones
 
 ### Romanos 15:14 
 En cuanto a ustedes, hermanos míos, yo mismo estoy también convencido de que ustedes están llenos de bondad, llenos de todo conocimiento y capaces también de amonestarse los unos a los otros.
@@ -2027,6 +2487,8 @@ El Dios de paz sea con todos ustedes. Amén.
 
 #### sea con todos ustedes. Amén.
 
+## Romanos 16:1–16 - Participantes en la obra
+
 ### Romanos 16:1 
 Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea,
 
@@ -2177,6 +2639,8 @@ Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo 
 
 #### Todas las iglesias de Cristo los saludan.
 
+## Romanos 16:17–20 - Apártense de los que causan divisiones
+
 ### Romanos 16:17 
 Les ruego, hermanos, que vigilen a los que causan disensiones y tropiezos contra las enseñanzas que ustedes aprendieron, y que se aparten de ellos.
 
@@ -2224,6 +2688,8 @@ Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La 
 #### aplastará pronto a Satanás debajo de los pies de ustedes. 
 
 #### La gracia de nuestro Señor Jesucristo sea con ustedes.
+
+## Romanos 16:21–27 - La obediencia de la fe
 
 ### Romanos 16:21 
 Timoteo, mi colaborador, los saluda, y también Lucio, Jasón y Sosípater, mis parientes.
