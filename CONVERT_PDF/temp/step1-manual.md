@@ -1,4146 +1,3685 @@
 ---
-title: "Santiago - Presión, orientación y plenitud"
-subtitle: "La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios."
-author: "CGV"
+title: "Navegando el Texto"
+subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
+author:  "CGV"
+version:  "0.9"
+date:  "2026-04-25"
 cover: "images/portada.png"
-version: "0.3"
-date: "2026-05-29"
+---
+
+# INTRODUCCIÓN
+
+Cuando un barco zarpa, no lo hace a la deriva. <u>Sale</u> con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
+
+De la misma manera, acercarse al <u>texto</u> bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
+
+Antes de avanzar, es importante <u>aclarar</u> la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos RO₁O₂TS.
+
+RO₁O₂TS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En <u>lugar</u> de correr hacia interpretaciones rápidas, RO₁O₂TS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+
+En este curso, RO₁O₂TS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a <u>decir</u> algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+
+Es importante también aclarar de dónde proviene esta <u>forma</u> de acercarse al texto. RO₁O₂TS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+
+Los principios detrás de RO₁O₂TS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de <u>textos</u>: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+
+RO₁O₂TS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva <u>forma</u> de leer, sino recuperando una manera sólida y probada de hacerlo.
+
+Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: RO₁O₂TS. No es una fórmula rígida, sino una <u>guía</u> que nos ayuda a no desviarnos del texto.
+
+# ¿QUÉ ES RO₁O₂TS?
+
+## INTRODUCCIÓN
+
+### Qué es RO₁O₂TS
+
+###### RO₁O₂TS es el proceso completo para trabajar un <u>texto</u>.
+
+###### No es <u>solo</u> análisis.
+
+###### No es solo <u>estructura</u>.
+
+###### 👉 Es ver, seguir y someterse al <u>texto</u>.
+
+##### Cómo funciona
+
+###### RO₁O₂TS se desarrolla en <u>cinco</u> partes:
+
+###### R — Revelación
+* 👉 Dios <u>habló</u>
+* 👉 Usó lenguaje
+* 👉 El texto comunica
+
+###### O₁ — <u>Observar</u> la estructura
+* 👉 Cómo está construido el texto
+* 👉 Cómo se <u>conecta</u>
+* 👉 Cómo se desarrolla
+
+###### O₂ — Observar lo que el <u>texto</u> dice
+* 👉 Qué afirma
+* 👉 Qué <u>repite</u>
+* 👉 Qué contrasta
+
+###### T — Trazar el texto
+* 👉 Cómo avanza de principio a fin
+* 👉 Cómo se conectan sus partes
+* 👉 Cómo <u>fluye</u> el desarrollo
+
+###### S — Someterse al texto
+* 👉 No ajusto el texto a mí
+* 👉 Me coloco bajo lo que afirma
+* 👉 Dejo que el <u>texto</u> tenga la última palabra
+
+##### Principio clave
+
+###### RO₁O₂TS no termina en el análisis.
+
+###### ❗ RO₁O₂TS incluye:
+* observar
+* <u>seguir</u>
+* someterse
+
+##### Regla central
+###### ❗ Si no completas todo el proceso,
+
+###### no has terminado RO₁O₂TS
+
+##### Frase <u>clave</u>
+> “No interpreto el texto.
+> Lo observo, lo sigo y me someto a él.”
+
+##### Qué debes notar
+###### RO₁O₂TS no es un método para explicar el <u>texto</u>.
+
+###### 👉 Es un proceso para dejar que el texto hable.
+
+RO₁O₂TS no añade <u>nada</u> al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
+
+# R – Revelación
+
+Antes de aprender a observar o <u>seguir</u> el texto, necesitamos establecer algo fundamental: \textbf{¿qué es lo que tenemos delante?}
+
+No estamos frente a un texto cualquiera.
+
+Dios ha comunicado.
+
+No dejó ideas <u>sueltas</u>.
+ No dejó mensajes ocultos.
+ No habló en fragmentos aislados.
+
+Dios \textbf{reveló}.
+
+## ¿Qué significa revelación?
+
+##### Revelación significa que el contenido \textbf{no se originó en el hombre}, <u>sino</u> que fue dado.
+
+##### Esto cambia completamente nuestra postura.
+
+###### No nos acercamos al <u>texto</u> para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.
+
+###### Hay una diferencia clara:
+- En el descubrimiento, el hombre busca y llega a conclusiones
+- En la revelación, la verdad es <u>dada</u> al hombre
+- No estamos tratando de “llegar” a la verdad del texto. 
+- Estamos <u>siendo</u> confrontados con algo que ya ha sido dicho.
+
+## Dios comunicó por medio de lenguaje
+
+Dios no <u>solo</u> reveló.
+
+Lo hizo por medio de \textbf{lenguaje}.
+
+Esto significa que lo que tenemos <u>delante</u> no es una colección de pensamientos dispersos, sino \textbf{comunicación intencional}.
+
+Y toda comunicación tiene propósito.
+
+## Propósito de la revelación
+
+La revelación no es información al azar.
+ No es acumulación de frases.
+
+Es comunicación con dirección.
+
+Cada <u>porción</u> del texto:
+
+- dice algo
+- lo desarrolla
+- lo conduce <u>hacia</u> un resultado
+
+Nada está colocado sin propósito.
+
+## No son versículos aislados
+
+La Biblia no fue escrita en versículos.
+
+Los versículos fueron añadidos después para ayudarnos a <u>ubicar</u> el contenido, pero \textbf{no forman parte de la comunicación original}.
+
+El autor no pensó en:
+- versículo 1
+- versículo 2
+- versículo 3
+
+<u>Pensó</u> en \textbf{una unidad completa de pensamiento}.
+
+Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
+
+## El texto construye
+
+El autor no <u>solo</u> dice cosas.
+
+\textbf{Construye}.
+
+El texto:
+
+- <u>afirma</u>
+- explica
+- conecta
+- <u>contrasta</u>
+- desarrolla
+
+Forma un movimiento de pensamiento.
+
+Si leemos frases sueltas:
+
+- perdemos la construcción
+- perdemos el desarrollo
+- perdemos el <u>punto</u>
+
+## Comunicación real, no código
+
+La Escritura no es un código secreto.
+ No es un rompecabezas místico.
+
+Dios comunicó <u>usando</u> lenguaje real, y el lenguaje funciona de manera normal:
+
+- palabras en contexto
+- ideas conectadas
+- desarrollo progresivo
+
+El significado no está escondido detrás del <u>texto</u>.
+ Está en \textbf{cómo el texto está construido}.
+
+## Dios busca ser entendido
+
+Dios no habló para ocultar.
+ Habló <u>para</u> comunicar.
+
+No necesitamos:
+
+- claves ocultas
+- conocimiento <u>secreto</u>
+- interpretaciones especiales
+
+Necesitamos \textbf{observar correctamente} lo que está escrito.
+
+## Fundamento de la revelación
+
+La <u>misma</u> Escritura afirma su origen:
+
+«Toda Escritura es inspirada por Dios…» — 2 Timoteo 3:16
+ «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
+ «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
+
+No estamos leyendo <u>ideas</u> humanas aisladas, sino \textbf{lo que Dios ha dado a conocer}.
+
+## El peso de la revelación
+
+Si Dios ha hablado, entonces esto no es opcional.
+
+No estamos tratando con un texto más.
+ No estamos evaluando <u>ideas</u>.
+
+Estamos frente a algo que \textbf{nos precede, nos define y nos confronta}.
+
+Esto cambia completamente cómo leemos:
+
+- no decidimos lo que el texto dice
+- no negociamos su contenido
+- no lo ajustamos a nuestras ideas
+
+Nos detenemos.
+ Observamos.
+ Seguimos.
+
+Porque lo que <u>está</u> delante \textbf{no se originó en nosotros}.
+
+## El poder de la revelación
+
+La revelación no solo informa.
+
+\textbf{actúa}
+
+Nos <u>expone</u>.
+ Nos corrige.
+ Nos <u>establece</u>.
+
+No <u>leemos</u> para dominar el texto.
+ Leemos para ser \textbf{afectados por él}.
+
+## Implicaciones
+
+Si la Escritura es revelación, entonces:
+
+- su contenido no <u>depende</u> de nuestra opinión
+- su mensaje no cambia según el lector
+- su <u>autoridad</u> no es negociable
+- Esto nos da una base firme.
+- No estamos construyendo sobre interpretaciones cambiantes, sino sobre algo que ha sido establecido fuera de <u>nosotros</u>.
+
+## Nuestra postura frente al texto
+
+Si Dios ha hablado, entonces:
+
+- no leemos <u>para</u> especular, sino para \textbf{oír}
+- no construimos significado, lo \textbf{recibimos}
+- no estamos <u>sobre</u> el texto, estamos \textbf{bajo él}
+- No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
+
+## Principio clave
+
+Dios habló → el <u>texto</u> está construido → la estructura revela el propósito
+
+## Punto de partida
+
+Por eso, no comenzamos preguntando:
+
+“¿Qué significa?”
+
+Ni siquiera comenzamos con:
+
+“¿Qué <u>dice</u>?”
+
+Comenzamos con:
+
+\textbf{¿Cómo está construido?}
+
+Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
+
+# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
+
+<u>Antes</u> de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
+
+## El problema común
+
+La mayoría de los lectores:
+- leen el <u>texto</u>
+- entienden una idea general
+- sacan una conclusión
+
+Pero no <u>pueden</u> explicar:
+- cuál es la idea principal
+- qué partes la explican
+- <u>cómo</u> se conectan
+
+##### El problema no es falta de interés.
+###### Es <u>falta</u> de \textbf{observación estructural}.
+
+## Principio fundamental
+
+En este curso cambiamos el orden:
+Observación → Estructura → Propósito
+
+No comenzamos interpretando.
+Comenzamos <u>observando</u>.
+
+## Por qué esto importa
+
+Un texto <u>bíblico</u> no es una lista de ideas.
+
+Es un argumento construido.
+
+El autor:
+- <u>afirma</u>
+- explica
+- contrasta
+- <u>desarrolla</u>
+
+##### Si no vemos esa construcción:
+###### perdemos el punto del autor.
+
+## La realidad del texto
+
+Dentro de un párrafo <u>hay</u>:
+- acciones (verbos)
+- conexiones (conectores)
+- <u>unidades</u> de pensamiento (cláusulas)
+- detalles que amplían (extensiones)
+
+Todo esto <u>forma</u> una estructura. 
+
+## Lo que aprenderás
+
+Vas a aprender a ver:
+- <u>dónde</u> están las afirmaciones
+- cómo se conectan
+- cuáles son principales
+- cuáles dependen de <u>otras</u>
+
+## El proceso de observación estructural
+
+![13-pasos](images/13-pasos.png)
+
+Este proceso es <u>fijo</u>.
+No cambia.
+No se <u>salta</u> pasos.
+
+## Qué NO haremos
+
+No vamos a:
+- interpretar <u>primero</u>
+- imponer <u>ideas</u>
+- depender de intuición
+
+## Qué SÍ haremos
+
+Vamos a:
+- observar el <u>texto</u> con precisión
+- <u>dejar</u> que la estructura se muestre
+- seguir un <u>proceso</u> claro
+
+## Observación clave
+
+El autor no <u>solo</u> comunica ideas.
+El <u>autor</u> construye.
+
+Y si vemos la construcción:
+veremos el <u>propósito</u>.
+
+## Transición
+
+En la siguiente <u>lección</u> comenzaremos con el primer paso:
+preparar correctamente el texto.
+
+Sin este <u>paso</u>, todo lo demás falla.
+
+# PASO 1 — COPIAR EL TEXTO
+## EJECUTA
+
+##### ¿Qué haces?
+###### <u>Copias</u> el texto en un solo párrafo y creas una copia de trabajo.
+
+##### Regla
+###### No modificas el <u>texto</u>
+###### No separas en versículos
+###### Siempre trabajas sobre una copia
+
+##### Cómo hacerlo
+
+1. Copia el texto en un editor
+
+2. Elimina <u>títulos</u> y encabezados
+
+3. Une los versículos en un solo párrafo
+
+4. Mantén el texto intacto (sin cambiar palabras)
+
+5. Crea una <u>copia</u> de trabajo del texto bíblico:
+- texto original
+- <u>texto</u> de trabajo
+
+##### Resultado esperado
+
+```
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
+```
+
+## ENTIENDE
+
+##### Qué estás haciendo realmente
+###### Estás preparando el texto para <u>poder</u> observarlo sin distorsión.
+
+##### Principio clave
+###### El análisis solo es confiable si el <u>texto</u> se mantiene intacto.
+
+##### Idea clave
+###### No trabajas con versículos aislados.
+###### Trabajas con una unidad completa de pensamiento.
+
+##### Pregunta guía
+###### 👉 ¿Estoy <u>viendo</u> el texto como una unidad o como fragmentos?
+
+##### Definición
+###### Párrafo = unidad donde el autor desarrolla una idea completa.
+
+##### Ejemplo <u>guiado</u>
+
+###### Texto original:
+>«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
+
+##### Resultado:
+```
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
+Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
+```
+
+##### Regla importante
+###### Nunca trabajas directamente <u>sobre</u> el texto original.
+
+##### Errores comunes
+###### Modificar palabras sin <u>darse</u> cuenta 
+###### Trabajar sobre versículos separados
+###### No crear copia de trabajo
+
+##### Regla de control
+###### Si cambiaste el <u>texto</u> original, perdiste el control del análisis.
+
+##### Frase clave
+###### “No modifico el texto — lo preparo para observarlo.”
+
+##### Qué debes notar
+###### Cuando el texto está bien preparado:
+- <u>puedes</u> ver el flujo completo
+- no rompes conexiones
+- el análisis posterior se vuelve confiable
+
+##### Transición
+
+###### En el siguiente paso:
+- 👉 identificarás los <u>verbos</u> finitos
+
+- 👉 verás <u>dónde</u> están las afirmaciones del texto
+
+# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Identificas y <u>marcas</u> los \textbf{verbos finitos del texto}, confirmados por la morfología griega.
+
+##### REGLA
+###### Solo se marcan los \textbf{verbos conjugados en el texto griego}.
+
+##### CÓMO HACERLO
+
+1. Lee el texto preparado (Paso 1)
+
+2. Consulta el texto griego (o interlineal)
+
+3. Localiza los <u>verbos</u> en el griego
+
+4. Pregunta:
+- 👉 ¿Este verbo en griego tiene persona y número?
+
+## CÓMO SABER SI ES FINITO (EN EL GRIEGO)
+
+###### No decides por intuición.
+
+###### Decides por la \textbf{morfología (RMAC)}.
+
+##### FORMATO DEL VERBO EN GRIEGO
+```
+V-XXXXX
+```
+
+###### Observa la \textbf{tercera posición del código}:
+
+### ✔ VERBOS FINITOS (SE MARCAN)
+- V-?I- → Indicativo
+- V-?S- → Subjuntivo
+- V-?M- → Imperativo
+
+👉 Estos \textbf{tienen persona y número}
+
+👉 ✔ Se marcan:
+```
+==verbo==
+```
+
+### ❌ VERBOS NO FINITOS (NO SE MARCAN)
+- V-P?? → Participio
+- V-N?? → Infinitivo
+
+👉 Estos \textbf{no tienen persona}
+👉 ❌ No se marcan
+
+### 🔒 REGLA MECÁNICA
+
+###### Si ves:
+- I, S, M → ✔ finito
+- P, N → ❌ no finito
+
+- 👉 No interpretas.
+- 👉 Solo \textbf{lees el código}.
+
+
+##### EJEMPLO RÁPIDO
+```
+παιδεύουσα (V-PAP-NSF) → ❌ no finito  
+ἀρνησάμενοι (V-AMP-NPM) → ❌ no finito  
+ζήσωμεν (V-AAS-1P) → ✔ finito
+```
+
+###### Resultado:
+```
+==vivamos==
+```
+
+
+###### Decide:
+- Sí → márcalo en el texto en español
+- No → déjalo sin marcar
+
+###### Marca así:
+```
+==verbo==
+```
+
+##### REGLA DE EJECUCIÓN (CRÍTICA)
+###### El griego determina:
+- qué cuenta como verbo
+- cuántos verbos hay
+
+###### El español solo muestra:
+- la forma legible del verbo
+
+
+##### CÓMO ALINEAR
+###### No buscas palabra por palabra.
+
+###### Buscas la <u>expresión equivalente</u> en español.
+
+###### Ejemplo:
+
+####### Griego:
+
+```
+ἀντέστην
+```
+
+###### Español:
+```
+==me opuse==
+```
+
+###### Griego:
+```
+συνεσταύρωμαι
+```
+
+###### Español:
+```
+==he sido crucificado==
+```
+
+##### RESULTADO ESPERADO
+
+```
+  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
+```
+
+## ENTIENDE
+##### Qué estás haciendo realmente
+###### Estás identificando \textbf{los puntos de acción reales del texto original}.
+
+##### PRINCIPIO CLAVE
+###### Cada verbo finito griego introduce una <u>unidad de acción explícita</u>.
+
+##### IDEA CLAVE
+###### No todo lo que parece verbo en español corresponde a un verbo finito en griego.
+
+##### PREGUNTA GUÍA
+###### 👉 ¿Este verbo es finito en el texto griego?
+
+##### DEFINICIÓN
+###### Verbo finito = verbo que tiene:
+- persona
+- número
+- tiempo/modo
+
+###### y funciona como núcleo de una cláusula en el griego.
+
+##### ACLARACIÓN IMPORTANTE
+###### En español puede haber:
+- más verbos que en el griego
+- menos verbos que en el griego
+- estructuras diferentes
+
+##### 👉 Por eso:
+###### El griego es la referencia final.
+
+##### EJEMPLO GUIADO
+###### Texto:
+
+```
+Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
+Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
+En verdad, ni aun ahora ==pueden==.
+```
+
+##### Observación:
+- “hablar” → ❌ no es finito en griego
+- “recibir” → ❌ no es finito en griego
+- ==pude==, ==di a beber==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+
+##### REGLA IMPORTANTE
+###### Las formas que no tienen persona en el griego:
+👉 no crean nuevas cláusulas
+
+##### Errores comunes
+- Marcar verbos basados solo en el español
+- Seguir el interlineal sin verificar morfología
+- Contar participios como verbos principales
+- Separar un solo verbo griego en múltiples acciones
+
+##### REGLA DE CONTROL
+###### Si no es finito en griego, no se marca.
+
+##### FRASE CLAVE
+> “El griego decide; el español muestra.”
+
+##### QUÉ DEBES NOTAR
+###### Cuando marcas correctamente:
+- aparecen las acciones reales del texto
+- el número de unidades se vuelve objetivo
+- evitas distorsión por traducción
+
+##### TRANSICIÓN
+###### En el siguiente paso:
+- 👉 separarás cada verbo en su propia línea
+- 👉 verás claramente las unidades de acción del texto
+
+# PASO 3 — CONSTRUIR CLÁUSULAS
+
+## EJECUTA
+
+##### ¿Qué haces?
+###### Construyes una \textbf{cláusula completa} a partir de cada verbo finito identificado en el Paso 2.
 
 ---
 
-:::title
-Santiago - Presión, orientación y plenitud
-:::
-:::subtitle
-La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios.
-:::
+##### REGLA
+###### Cada verbo finito griego genera \textbf{una cláusula independiente}.
 
-# INTRODUCCIÓN A SANTIAGO
+###### ❗ No separas por comas  
+###### ❗ No separas por sentido  
+###### 👉 Solo trabajas a partir del verbo finito griego  
 
-## Contexto histórico y cultural 
+---
 
-##### Esta carta no se siente como un documento escrito \scripture{desde un escritorio} para un mundo ideal. Santiago escribe a personas reales, en situaciones reales, y el texto mismo deja ver varias presiones del entorno. No necesitamos adivinar una ciudad exacta ni reconstruir una historia completa para notar esto. Basta con seguir lo que el mismo Santiago menciona y asume.
+## REGLA CRÍTICA
 
-##### Dispersión (vivir esparcidos, bajo presión cotidiana)
+###### ❗ Solo cuentan los verbos finitos confirmados en el griego
 
-###### Santiago nombra a sus destinatarios como \scripture{las doce tribus… en la dispersión} (Santiago 1:1). Eso instala un marco de vida con movimiento y tensión alrededor. Luego, sin pausa, la carta entra directo a \scripture{diversas pruebas} (Santiago 1:2). El texto no presenta la presión como algo raro; la da por sentada.
+👉 El español puede añadir verbos que no existen en el griego  
+👉 Esos verbos \textbf{no se usan}  
 
-##### Diferencias de condición (rico/pobre) y favoritismo visible
+---
 
-###### El texto da por sentado que, cuando la comunidad se reúne, entran personas en extremos muy distintos. En Santiago 2:2–3 eso se ve en detalles fáciles de notar: \scripture{anillo de oro} y \scripture{ropa lujosa} por un lado, y \scripture{pobre} con \scripture{ropa sucia} por el otro. Y también se ve en el trato: a uno le dicen \scripture{aquí, en un buen lugar}; al otro, \scripture{quédate de pie} o \scripture{siéntate junto al estrado}. Es un mundo donde el estatus se reconoce al instante y se asigna en público.
+##### CONSECUENCIA
 
-###### Esa diferencia no queda como un simple ejemplo. Más adelante, Santiago habla de \scripture{los ricos} como gente con poder real para presionar a otros: \scripture{oprimen} y \scripture{arrastran a tribunales} (Santiago 2:6). Y en Santiago 5:1–6 la desigualdad aparece en su forma más concreta: lujo por un lado, y por el otro \scripture{jornal retenido} y \scripture{clamor} (Santiago 5:4). Así, el texto muestra una asimetría real dentro del mismo mundo: unos tienen posición y fuerza social; otros viven necesidad y vulnerabilidad.
+###### ❗ Si no hay verbo finito griego:
 
-##### Presión económica y explotación laboral
+- no hay cláusula  
+- no se construye línea  
 
-###### Santiago 5:4 describe un caso concreto: salario retenido. El texto dice que el jornal \scripture{clama} y que el clamor \scripture{ha llegado a los oídos del Señor}. Eso supone una realidad económica donde:
-- hay obreros que dependen del pago,
-- hay dueños/capaces de retenerlo,
-- y esa práctica genera presión y conflicto.
+---
 
-##### Tribunales y vulnerabilidad social
+##### EJEMPLO CLAVE
 
-###### Santiago 2:6 menciona que los ricos \scripture{oprimen} y \scripture{arrastran a los tribunales}. No es una descripción genérica de \scripture{injusticia}; el texto nombra un mecanismo social real: acciones legales, presión pública, y desventaja para el vulnerable.
+Texto NBLA:
+```
+si la justicia viene por medio de la ley
+```
 
-##### Competencia, ambición y choque relacional dentro de la comunidad
+Griego:
+```
+εἰ γὰρ διὰ νόμου δικαιοσύνη
+```
 
-###### El libro no trata el conflicto como sorpresa. Santiago 4:1 abre con \scripture{guerras y conflictos entre ustedes}. Luego no lo explica primero por \scripture{malas circunstancias}, sino por \scripture{pasiones} que combaten (Santiago 4:1–3). Esto encaja con un ambiente donde la tensión relacional puede escalar rápido, especialmente cuando hay deseos, carencias, y comparación.
+👉 No hay verbo finito en el griego  
 
-##### Cultura de palabra: hablar, juzgar, jurar, quejarse
+Resultado:
+```
+❌ ==viene== por medio de la ley
+```
 
-###### Santiago dedica atención repetida al habla:
-- control de lengua / contradicción (Santiago 1:26; 3:1–12),
-- hablar mal y juzgar al hermano (Santiago 4:11–12),
-- quejas dentro del grupo bajo presión (Santiago 5:9),
-- juramentos como forma común de reforzar palabras (Santiago 5:12).
+👉 No se construye como cláusula  
 
-###### Esto sugiere un entorno comunitario donde las palabras tienen peso social real: pueden unir o partir rápidamente.
+---
 
-##### Mentalidad de planes y ganancia (comercio, riesgo, futuro incierto)
+## REGLA CLAVE
 
-###### Santiago 4:13–17 presenta un ejemplo de planificación: \scripture{hoy o mañana… ciudad… un año… negocio… ganancia}. El texto lo usa porque suena familiar en ese mundo. Luego lo contrasta con la fragilidad del \scripture{mañana} y la vida como \scripture{vapor} (Santiago 4:14). Esto encaja con un contexto donde la vida diaria incluye riesgo económico, movilidad y expectativa de control.
+###### ❗ No eliminas el resto del texto
 
-#####  Cómo este contexto nos ayuda a seguir el hilo
+- conectores  
+- frases  
+- modificadores  
 
-###### Estas presiones del entorno (dispersión, diferencia de condición, tribunales, salarios, conflicto, palabra pública, planes) no son datos de color. El texto las usa para mostrar algo: bajo presión, se hace visible la orientación interior de uno, y esa orientación se expresa hacia afuera en trato, palabra, decisiones y resultados.
+👉 No desaparecen  
+👉 Solo \textbf{no se trabajan todavía}
 
-###### Por eso, al leer Santiago en este manual, notaremos dos cosas a la vez:
-- el mundo del texto es social y concreto (no ideal),
-- y el objetivo del texto no es solo describir ese mundo, sino mostrar lo que la presión revela y hacia dónde empuja la carta.
+---
 
-## Los destinatarios
+## CÓMO HACERLO
 
-##### La carta de Santiago está escrita a creyentes, y el texto lo deja claro de forma repetida, no solo por el saludo inicial. Desde el comienzo, Santiago se dirige a un pueblo identificado \scripture{las doce tribus… en la dispersión} (Santiago 1:1) y a lo largo de la carta vuelve a hablarles como familia de fe: \scripture{hermanos míos} (por ejemplo, Santiago 1:2; 2:1; 3:1; 4:11; 5:7), \scripture{mis amados hermanos} (Santiago 1:19) y \scripture{hermanos míos amados} (Santiago 2:5). También habla como a una comunidad que se reúne y vive junta \scripture{en su congregación}, (Santiago 2:2), y repite expresiones que sitúan el mensaje \scripture{dentro} del grupo: \scripture{entre ustedes} (Santiago 3:13, 4:1, 5:13, 5:14), \scripture{de entre ustedes} (Santiago 5:19) y \scripture{unos a otros} (Santiago 5:16). 
+1. Toma el texto con los verbos marcados (Paso 2)
 
-##### En otras palabras, Santiago no está dando consejos generales a un público anónimo; está corrigiendo, ordenando y guiando a una comunidad creyente concreta, a la que llama directamente a escuchar, responder y vivir de manera coherente bajo presión.
+2. Localiza cada:
+```
+==verbo==
+```
 
-## El telos
+3. Para cada verbo:
 
-##### La carta de Santiago fue escrita para personas que no viven en \scripture{laboratorio}, sino en la vida real: dispersión, presión, tensión social y decisiones diarias.
+- 👉 Identifica quién realiza la acción (sujeto, si es necesario)  
+- 👉 Añade lo que completa la acción del verbo  
+- 👉 Conserva todo lo que pertenece directamente al verbo  
 
-##### Desde la primera línea, Santiago se dirige a creyentes \scripture{en la dispersión} (Santiago 1:1). Eso no es un detalle decorativo. Dispersión significa vida con inestabilidad alrededor: cambios, pérdida de control, necesidad, diferencias de condición, y fricción en la convivencia. 
+4. Escribe cada cláusula en una línea separada
 
-###### A lo largo de la carta aparecen pruebas, carencias, tentaciones, conflictos, favoritismo, palabras que hieren, planes confiados, riqueza usada para oprimir, sufrimiento, espera y enfermedad. La presión está presente en casi cada sección del escrito.
+---
 
-##### Además, muchas presiones no son solo \scripture{internas}. Santiago habla en un mundo con diferencias fuertes entre ricos y pobres, con honor y vergüenza, con favoritismo y tribunales, con trabajo explotado y salarios retenidos, con rivalidades y competencia por posición. 
+## RESULTADO
 
-###### Es un ambiente donde el trato a las personas se ve en público, y donde la lengua puede construir o destruir rápidamente. Por eso la carta no debe ser leida como una lista suelta de consejos. Está escrita para una comunidad real, bajo presiones reales, en un contexto donde lo que uno valora y lo que uno dice sale a la luz en la práctica.
+Cada línea debe contener:
 
-##### Pero Santiago no se queda principalmente describiendo la presión. La carta insiste en una pregunta más profunda: ¿qué muestra la presión cuando llega?
+- un verbo finito griego  
+- su acción completa  
+- los elementos necesarios para entender esa acción  
 
-###### Cuando la presión aprieta, lo que está dentro sale a la superficie. Por eso el escrito vuelve una y otra vez a contrastes visibles, contrastes que se pueden notar en el habla, en la conducta y en la vida en comunidad:
+👉 No es una frase mínima  
+👉 Es una \textbf{acción completa}
 
-- \scripture{oír} y \scripture{hacer} (Santiago 1:22).
-- \scripture{pedir} y \scripture{dudar} (Santiago 1:5–8).
-- \scripture{estabilidad} y \scripture{doble ánimo} (Santiago 1:8).
-- \scripture{lengua} que bendice y \scripture{lengua} que maldice (Santiago 3:9–10).
-- \scripture{amistad con el mundo} y relación con Dios (Santiago 4:4).
-- planes seguros y el \scripture{mañana} que no se controla (Santiago 4:13–14).
+---
 
-##### Santiago no presenta estas partes como asuntos independientes. El escrito avanza como un solo movimiento: la presión revela o bien fractura o revela consistencia. Y lo que se revela termina produciendo resultados.
+## EJEMPLO
 
-##### Desde el inicio, la carta declara un propósito: para que sean  \textbf{perfectos y completos, sin que nada les falte} (Santiago 1:4). Y también nombra el problema contrario: \textbf{doble ánimo… inestable} (Santiago 1:8). El resto del libro muestra cómo esa diferencia se manifiesta bajo presión, y cómo la carta llama continuamente a una reorientación hacia Dios.
+```
+==pude== hablarles como a espirituales sino como a carnales, como a niños en Cristo
 
-##### Con ese marco, este manual se presenta así:
-> Santiago - Presión, orientación y plenitud  
-> La presión revela fractura o consistencia, y la carta llama a reorientación hacia Dios.
+==di a beber== leche
 
-# SANTIAGO 1:1 - LA CARTA SE DIRIGE A UN PUEBLO EN DISPERSIÓN
+==podían== recibirlo
 
-## Santiago 1:1 - La dispersión instala el contexto de presión y fragmentación
+==pueden==
+```
 
-### Santiago 1:1  
-Santiago, siervo de Dios y del Señor Jesucristo: A las doce tribus que están en la dispersión: Saludos.
+---
 
-#### Santiago, siervo de Dios y del Señor Jesucristo: 
-##### El texto abre identificando al remitente y cómo se presenta.
+## ACLARACIÓN SOBRE CONECTORES
 
-###### No comienza con historia ni explicación. Comienza con una presentación breve: \scripture{Santiago…}.
+###### Los conectores no se trabajan en este paso
 
-###### La frase \scripture{siervo de Dios y del Señor Jesucristo} coloca al remitente bajo autoridad y servicio, no en autoimportancia.
+👉 Porque no pertenecen a una sola cláusula  
+👉 Sino a la relación entre cláusulas  
 
-###### Desde la primera línea, el tono es directo y funcional: quién escribe y desde dónde habla.
+👉 Se trabajarán en el Paso 4  
 
-##### Esto prepara el resto de la carta.
-###### La carta no se construye como \scripture{opinión personal}, sino como exhortación dirigida a una comunidad real.
+---
 
-#### A las doce tribus que están en la dispersión: Saludos.
-##### El texto nombra a los destinatarios y su situación. 1 Pedro 1:1; Hechos 8:1
+## ENTIENDE
 
-###### No dice solo \scripture{a la iglesia} en general. Nombra un pueblo y lo ubica: \scripture{en la dispersión}.
+##### Qué estás haciendo realmente
+###### Estás construyendo las \textbf{unidades reales de acción del texto},  
+###### determinadas por el griego.
 
-###### \scripture{dispersión} es un dato de ubicación/condición. Pone un marco de vida con movimiento, distancia y presión alrededor.
+---
 
-###### \scripture{Saludos} cierra la apertura y deja listo el paso inmediato a la exhortación del v.2.
+##### PRINCIPIO CLAVE
+###### La cláusula se define por el \textbf{verbo finito griego},  
+###### no por la puntuación ni por el español.
 
-##### Esto introduce Santiago 1:2.
-###### Después del saludo, el texto entra directo en instrucción bajo presión: \scripture{…cuando se hallen en diversas pruebas...} (Santiago 1:2).
+---
 
-# SANTIAGO 1:2–27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO
+##### IDEA CLAVE
+###### No decides cómo suena mejor  
+###### 👉 El griego ya lo determina  
 
-## Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un \scripture{resultado} completo
+---
 
-### Santiago 1:2  
-Tengan por sumo gozo, hermanos míos, cuando se hallen en diversas pruebas,
+##### ACLARACIÓN IMPORTANTE
 
-#### Tengan por sumo gozo  
-##### Santiago no empieza explicando; empieza dirigiendo la respuesta.
+###### Una cláusula puede incluir:
+- infinitivos  
+- participios  
+- frases largas  
 
-###### La primera frase es una instrucción: el texto dirige cómo debe contarse lo que viene las \scripture{pruebas}.  
+👉 Pero solo tiene \textbf{un verbo finito griego}
 
-###### No describe primero el problema; primero fija la postura con la que el lector entra al escenario.
+---
 
-##### El v.3 empieza con \scripture{sabiendo que…}, como base para esta instrucción.
+##### EJEMPLO CLAVE
+```
+==di a beber== leche
+```
 
-##### Esta frase abre una cadena: pruebas (Santiago 1:2) → producen (Santiago 1:3) → resultado/propósito (Santiago 1:4).
+- ==di a beber== → verbo finito ✔  
+- “a beber” → infinitivo ❌  
 
-#### hermanos míos
-##### El texto habla a personas concretas \scripture{hermanos míos}. 
+👉 Sigue siendo \textbf{una sola cláusula}
 
-###### La presión se trata dentro de una relación directa; no es un dicho impersonal.  
+---
 
-###### Mantiene el tono de carta dirigida (Santiago 1:1), ahora en forma directa.
+##### ERROR COMÚN
 
-###### Esta forma de trato reaparece más adelante para introducir exhortaciones y correcciones; aquí instala ese marco desde el inicio.
+- Usar verbos añadidos por el español  
+- Construir cláusulas sin base griega  
+- Cortar por comas o pausas  
 
-#### ...cuando se hallen en diversas pruebas,
-##### La instrucción se activa en un escenario real y repetible.
+👉 ❌ Incorrecto
 
-###### \scripture{cuando} abre una condición: el texto asume que este escenario ocurre y puede repetirse.  
+##### CORRECTO
 
-###### \scripture{diversas} amplía el alcance: no limita la instrucción a una sola clase de presión.
+- Solo usar verbos confirmados en el griego  
+- Construir una cláusula por verbo  
+- Ignorar añadidos del español  
 
-###### El v.3 continúa explicando qué está ocurriendo en ese escenario: \scripture{la prueba… produce…} (Santiago 1:3).
+## REGLA DE CONTROL
 
-### Santiago 1:3  
-sabiendo que la prueba de su fe produce paciencia,
+###### Si hay verbo finito griego → hay cláusula  
+###### Si no hay → no hay cláusula  
 
-#### sabiendo que la prueba
-##### El texto da la base para lo que acaba de mandar en el v.2.
+## FRASE CLAVE
+> “Una cláusula = un verbo finito griego con su acción completa.”
 
-###### El v.2 mandó a una respuesta: \scripture{tengan por sumo gozo… cuando… diversas pruebas} (Santiago 1:2).  
+## QUÉ DEBES NOTAR
 
-###### Ahora el v.3 empieza con \scripture{sabiendo que…}. Eso muestra que lo que sigue funciona como fundamento inmediato de esa instrucción.
+###### Cuando construyes correctamente:
 
-##### El texto no avanza por temas sueltos. Avanza por una secuencia: escenario \scripture{pruebas} → base \scripture{sabiendo que…} → resultado \scripture{produce…} → propósito \scripture{para que…} (Santiago 1:2–4).
+- desaparecen cláusulas falsas  
+- el texto se limpia  
+- la estructura se vuelve objetiva  
 
-#### de su fe  
-##### La prueba no queda general; el texto la enfoca.
+## TRANSICIÓN
 
-###### No dice solo \scripture{la prueba} en abstracto. Dice \scripture{la prueba de su fe}.  
+###### En el siguiente paso:
 
-###### Eso acota qué es lo que está bajo presión dentro del escenario de \scripture{diversas pruebas} (Santiago 1:2).
+- 👉 volverás al texto completo  
+- 👉 identificarás los conectores en el griego  
+- 👉 comenzarás a ver relaciones reales  
 
-##### Esta frase conecta directamente el escenario del v.2 con la cadena que se va a desarrollar en los versículos 3–4.
+###### Primero construyes (según el griego)  
+###### 👉 luego conectas
 
-#### produce paciencia,
-##### El texto presenta un primer resultado. 
+# PASO 4 — IDENTIFICAR CONECTORES
 
-###### Aquí el texto muestra el fruto de lo anterior:  \scripture{la prueba… produce paciencia}.  
+## EJECUTA
 
-###### No es solo información; es el primer eslabón de la cadena que el texto va a completar en el v.4.
+##### ¿Qué haces?
+###### Identificas todos los \textbf{conectores del texto}, volviendo al texto original completo.
 
-##### El v.4 sigue con el mismo hilo y mueve la palabra \scripture{paciencia} hacia un \scripture{resultado} y un \scripture{para que} (Santiago 1:4).
+##### REGLA CLAVE
+###### ❗ Regresas al texto original (Paso 1)
 
-### Santiago 1:4  
-y que la paciencia tenga su perfecto resultado, para que sean perfectos y completos, sin que nada les falte.
+👉 No trabajas con las cláusulas del Paso 3  
+👉 Trabajas con el texto completo otra vez  
 
-#### y que la paciencia tenga su perfecto resultado
-##### El texto no cambia de tema; continúa la cadena del v.3.
+## QUÉ ES UN CONECTOR
 
-###### El v.3 terminó con \scripture{produce paciencia}.  
+##### Definición
+###### Un conector es una palabra que puede \textbf{relacionar una cláusula con otra}.
 
-###### El v.4 comienza con \scripture{y que}, y toma esa misma palabra \scripture{paciencia} para empujarla hacia un paso más: que la paciencia... \scripture{tenga su perfecto resultado}.
+👉 No describe acción  
+👉 No añade contenido  
+👉 \textbf{Une estructuras}
 
-##### El texto no se conforma con decir \scripture{paciencia}. Indica qué debe pasar con esa paciencia: que llegue a un resultado deseado. 
+## CÓMO IDENTIFICARLOS
 
-##### ¿Pero cuál es ese resultado?
+1. Toma el texto original (sin modificar)
 
-#### para que sean perfectos y completos
-##### El texto declara el propósito del proceso.
+2. Busca palabras como:
 
-###### \scripture{para que} introduce finalidad.  
+- y  
+- pero / sino  
+- porque / que  
+- para que  
+- si  
+- cuando  
 
-###### La cadena no se queda en \scripture{prueba} ni en \scripture{paciencia}; apunta a un estado descrito con dos palabras: \scripture{perfectos y completos}.
+3. Márcalas así:
 
-##### Este \scripture{para que} es parte del mismo flujo: prueba (v.2–3) → paciencia (v.3) → resultado (v.4) → propósito (v.4) (Santiago 1:2–4).
+```
+(porque)
+(y)
+(para que)
+```
 
-#### sin que nada les falte.
-##### El propósito se cierra con una definición negativa de carencia. (2 Corintios 12:9-10)
+## REGLA DE MARCADO
 
-###### El texto explica \scripture{perfectos y completos} con una frase final: \scripture{sin que nada les falte}. 
+###### Usa:
+- ( ) → cuando el conector está explícito en español  
+- [] → cuando está implícito pero existe en el griego  
 
-###### Es una forma de cerrar el propósito con un límite claro: la idea termina en \scripture{no falta}.
+## CONFIRMACIÓN EN EL GRIEGO
 
-##### Esto abre la puerta al siguiente movimiento: el v.5 re-entra con el mismo campo de \scripture{falta}, pero ya como caso concreto: \scripture{si a alguno… le falta sabiduría…} (Santiago 1:5).
+###### ❗ Todo conector debe confirmarse en el griego
 
-> En Síntesis
->- Vimos la sección: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un \scripture{resultado} completo.
->- Esto se conectó con lo anterior: SANTIAGO 1:2–27 - LA PRESIÓN EMPIEZA A MOSTRAR LO QUE HAY ADENTRO.
->- Anclas trabajadas: Santiago 1:1, Santiago 1:2, Santiago 1:3, Santiago 1:4.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+👉 El griego determina si el conector existe  
+👉 El español puede:
+- omitirlo  
+- cambiarlo  
+- suavizarlo  
 
-## Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo)
+##### EJEMPLO
 
-### Santiago 1:5  
-Y si a alguno de ustedes le falta sabiduría, que se la pida a Dios, quien da a todos abundantemente y sin reproche, y le será dada.
+Griego:
+```
+ἀλλʼ
+```
 
-#### Y si a alguno de ustedes le falta sabiduría  
-##### El texto toma la frase \scripture{sin que nada les falte} (v.4) y la vuelve un caso concreto.
+Español NBLA:
+```
+ni aun ahora pueden
+```
 
-###### El v.4 cerró con \scripture{sin que nada les falte} (Santiago 1:4).  
+Resultado:
+```
+[pero] ni aun ahora pueden
+```
 
-###### El v.5 usa el mismo campo de \scripture{falta}, pero ahora lo enfoca: \scripture{le falta sabiduría}.
+👉 El conector no aparece en español  
+👉 [Pero] \textbf{sí existe en el griego}  
+👉 Por eso se marca
 
-##### No está cambiando de tema. Está avanzando del propósito general (v.4) a una necesidad específica que el texto quiere tratar.
+## EJEMPLO COMPLETO
 
-###### \scripture{si} abre un caso: contempla que esto puede ser real para alguno dentro del grupo.  
+Texto:
 
-###### \scripture{a alguno de ustedes} mantiene el tono directo y pastoral de la carta (Santiago 1:2, 16, 2:5, 3:10, 4:13, 5:1, 7).
+```
+Así que yo, hermanos, no pude hablarles como a espirituales, 
+sino como a carnales, como a niños en Cristo.
 
-#### que se la pida a Dios
-##### El texto asigna una respuesta clara al caso de \scripture{falta}.
+Les di a beber leche, no alimento sólido,
 
-###### La frase no describe un sentimiento; da una acción: \scripture{pida}.  
+porque todavía no podían recibirlo.
 
-###### \scripture{se la} retoma directamente \scripture{sabiduría}. El texto mantiene cohesión sin introducir un objeto nuevo.
+ni aun ahora pueden
+```
 
-##### Esto prepara el siguiente paso: el v.6 no cambia de tema; regula cómo debe pedir.
+Resultado:
 
-#### quien da a todos abundantemente y sin reproche, y le será dada  
-##### Aquí el texto no solo manda pedir. También describe la amplitud de cómo es Dios al dar.
+```
+==pude=
 
-###### Primero dice \scripture{quien da a todos}. Eso abre el alcance. No suena a “solo a algunos” o “solo a los especiales”. Suena a un dador que no se guarda la mano.  Él \scripture{da a todos}.
-###### Luego añade dos palabras que pintan el modo: \scripture{abundantemente} y \scripture{sin reproche}. El texto no solo dice \scripture{da}. Dice que da con amplitud, y que no acompaña el dar con regaño o humillación.
+[sino] como a carnales
 
-##### Después de describir al dador, el texto cierra con una frase de resultado: \scripture{y le será dada}.
+(porque) todavía no podían recibirlo
 
-###### Esa línea deja una expectativa clara: pedir sabiduría no queda en el aire. El texto afirma una recepción.  
-###### Esto prepara el contraste inmediato del v.6: si el v.5 dice \scripture{le será dada}, el v.6 empezará a regular cómo se pide, y mostrará que no toda forma de pedir se comporta igual en el flujo del pasaje. (Proverbios 2:3–6)
+[pero] ni aun ahora pueden
+```
 
-### Santiago 1:6  
-Pero que pida con fe, sin dudar. Porque el que duda es semejante a la ola del mar, impulsada por el viento y echada de una parte a otra.
+## IMPORTANTE
 
-#### Pero que pida con fe, sin dudar  
-##### El texto pone una condición inmediata sobre el pedir.
+###### ❗ En este paso NO decides si conectan o no
 
-###### El v.5 mandó: \scripture{pídala a Dios} (Santiago 1:5).
+👉 Solo los identificas  
+👉 No evalúas relación todavía  
 
-###### Santiago añade: \scripture{pero… con fe, sin dudar}. Es el mismo \scripture{pedir}, ahora regulado.
+## ENTIENDE
 
-##### El contraste está dentro de la frase.
+##### Qué estás haciendo realmente
+###### Estás identificando \textbf{todas las posibles relaciones del texto}.
 
-###### \scripture{con fe} y \scripture{sin dudar} van juntas: el texto pone lado a lado el modo requerido y el modo negado.
+##### PRINCIPIO CLAVE
+###### Un conector no pertenece a una cláusula  
+###### 👉 Pertenece a la relación entre cláusulas  
 
-##### Este \scripture{con fe} no aparece de la nada: ya venía en la primera escena de presión.
+##### IDEA CLAVE
+###### Primero ves TODOS los conectores  
+###### 👉 Luego decides cuáles realmente conectan  
 
-###### En Santiago 1:2–3, la fe ya estaba presente dentro del lenguaje de pruebas: \scripture{la prueba de su fe produce paciencia} (Santiago 1:3).  
-###### O sea, la presión del v.2 no solo trae \scripture{pruebas}; el texto ya las conectó con fe desde el principio.
+##### ERROR COMÚN
+- Ignorar conectores que no aparecen en español  
+- No confirmar en el griego  
+- Decidir demasiado pronto si conectan  
 
-##### Ahora, en Santiago 1:5–6, la fe reaparece, pero aplicada a otro momento de presión: pedir cuando hay falta.
+👉 ❌ Incorrecto
 
-###### Primero el texto dijo: \scripture{si le falta sabiduría… pídala a Dios} (Santiago 1:5).  
-###### Inmediatamente después regula el pedir: \scripture{con fe, sin dudar} (Santiago 1:6). La misma fe que estaba en el marco de \scripture{prueba} (Santiago 1:3) ahora está requerida en el marco de \scripture{pedir} (Santiago 1:6).
+##### CORRECTO
+- Marcar todos los posibles conectores  
+- Confirmarlos en el griego  
+- No tomar decisiones aún  
 
-##### En otras palabras, la carta amarra dos escenas con la misma palabra.
+## FRASE CLAVE
+> “Primero identifico todos los conectores.  
+> Después verifico cuáles realmente conectan.”
 
-###### Fe bajo pruebas (Santiago 1:2–3).  
-###### Fe al pedir sabiduría en medio de la falta (Santiago 1:5–6).  
+## QUÉ DEBES NOTAR
 
-###### Primero, la presión viene desde afuera y pone la fe \scripture{bajo peso}.
-###### En Santiago 1:2–3, el escenario es externo: \scripture{diversas pruebas} (Santiago 1:2).
-###### En ese escenario, el texto no habla de fe como idea suelta, sino como algo que entra en prueba: \scripture{la prueba de su fe} (Santiago 1:3).
+###### Cuando haces bien este paso:
+- aparecen relaciones que no se ven en español  
+- el texto se vuelve estructural  
+- preparas el análisis real de conexión  
 
-###### Y el texto conecta esa prueba con un efecto.
-###### No deja la prueba como puro sufrimiento. Dice que \scripture{produce paciencia} (Santiago 1:3), y en el v.4 esa paciencia es empujada hacia un \scripture{resultado} y un propósito (Santiago 1:4).
+## TRANSICIÓN
 
-###### Segundo, cuando hay falta de sabiduría, la presión se siente por dentro y el texto vuelve a pedir fe.
-###### En Santiago 1:5 el caso es interno y personal: \scripture{si a alguno… le falta sabiduría} (Santiago 1:5).
-###### Y en Santiago 1:6 el texto regula el pedir con la misma palabra: \scripture{pida con fe, sin dudar} (Santiago 1:6).
+###### En el siguiente paso:
+- 👉 evaluarás cuáles conectores realmente unen cláusulas  
+- 👉 eliminarás los que no generan relación  
+- 👉 comenzarás a construir la estructura  
 
-###### En otras palabras, “fe” amarra dos escenas distintas.
-###### En una, la fe queda bajo el peso de circunstancias externas (\scripture{pruebas}).
-###### En la otra, la fe queda bajo el peso de una necesidad interna (\scripture{falta} al pedir).
+###### Aquí no decides  
+###### 👉 solo identificas
 
-#### Porque el que duda es semejante a la ola del mar,
-##### El texto explica la condición usando una comparación.
+# PASO 5 — CONECTOR + B → BUSCAR A
 
-###### \scripture{Porque} muestra que el texto no solo ordena; también da una base. 
+## EJECUTA
 
-###### \scripture{el que duda} retoma lo que acaba de negar \scripture{sin dudar} y lo convierte en sujeto del ejemplo.
+##### ¿Qué haces?
+###### Tomas las cláusulas del Paso 3, insertas en ellas los conectores del Paso 4 que introducen B, y verificas si cada conector realmente une esa cláusula con una A.
 
-##### \scripture{es semejante} instala una imagen de comparación que necesita ser completada.
+##### REGLA CLAVE
 
-###### La comparación no se entiende sola; el texto la desarrolla en la siguiente frase.
+###### ❗ Todo comienza con las cláusulas del Paso 3
 
-#### impulsada por el viento y echada de una parte a otra.
-##### La imagen pinta algo que no se sostiene en una dirección. No se mueve por decisión propia, sino por empuje desde afuera: el viento la empuja y la va tirando de un lado al otro.
+👉 Solo trabajas con cláusulas reales (verbos finitos griegos)  
+👉 No creas cláusulas nuevas  
+👉 No usas verbos añadidos por el español  
 
-###### Dos descripciones se acumulan: \scripture{impulsada} y \scripture{echada}.  
+##### ESENCIA DEL PASO
 
-###### La dirección cambia: \scripture{de una parte a otra}. El punto es variación, no firmeza.
+###### 1) Insertas el conector en su cláusula B  
+###### 2) Pruebas: conector + B → ¿hay A?
 
-##### Esto prepara el v.7: el texto pasará de imagen a consecuencia en cuanto a  \scripture{recibir}.
+## CÓMO HACERLO
 
-### Santiago 1:7  
-No piense, pues, ese hombre, que recibirá cosa alguna del Señor,
+1. Toma las cláusulas del Paso 3
 
-#### No piense ese hombre
-##### Después de la imagen, el texto da una prohibición directa.
+2. Toma los conectores del Paso 4
 
-###### \scripture{ese hombre} retoma al sujeto inmediato: \scripture{el que duda} (Santiago 1:6).  
-###### El texto regula lo que esa persona debe esperar: \scripture{no piense…}.
+3. Para cada conector:
+   a) Identifica la cláusula B (la que introduce el conector)  
+   b) Insértalo al inicio de esa cláusula  
+   c) Prueba:
 
-###### La prohibición aquí corta el paso. Primero detiene lo que esa persona podría asumir, y después el texto dice claramente cuál es el resultado.
+   👉 \textbf{conector + B → ¿hay A?}
 
-#### que recibirá cosa alguna del Señor,  
-##### El texto declara un resultado negado: no recibir.
+4. Decide:
+- ✔ Sí hay A → el conector se conserva  
+- ❌ No hay A → el conector se elimina  
 
-###### En 1:5 se dijo \scripture{le será dada} (resultado afirmado).  
+## FORMATO
+```
+(conector) cláusula B
+```
 
-###### Aquí se declara el contraste para el que duda: no recibirá.
+Luego:
+```
+(conector) + B → ¿A?
+```
 
-###### El v.8 completará con una descripción del tipo de persona que el texto tiene en vista.
+## EJEMPLO
 
-### Santiago 1:8  
-siendo hombre de doble ánimo, inestable en todos sus caminos.
+Cláusulas (Paso 3):
+```
+==pude==
 
-#### siendo hombre de doble ánimo
-##### El texto nombra el estado interno con una etiqueta corta.
+==di a beber== leche
 
-###### \scripture{siendo} conecta esta descripción con \scripture{ese hombre} (Santiago 1:7).  
+==podían== recibirlo
 
-###### \scripture{doble ánimo} resume la condición que corresponde a \scripture{dudar} (Santiago 1:6).
+==pueden==
+```
 
-##### Esta etiqueta queda instalada para el flujo del libro.
+Conectores (Paso 4):
+```
+(porque)
+[pero]
+```
 
-###### No es solo un detalle de este párrafo; es una palabra de diagnóstico que ayuda a leer presiones posteriores.
+Paso 5:
+```
+==di a beber== leche
 
-#### inestable en todos sus caminos.  
-##### El texto amplía el alcance de la inestabilidad.
+(porque) ==podían== recibirlo
 
-###### \scripture{inestable} toma la imagen de 1:6 (de una parte a otra) y la convierte en una descripción directa.  Es como una ola del mar, que es soplado de aquí para allá por el viento. 
+[pero] ==pueden==
+```
 
-###### \scripture{en todos sus caminos} amplía: no limita el problema a un momento de oración; lo describe como patrón. 
+Prueba:
+```
+A <- (conector) -> B 
+(porque) + ==podían== recibirlo → ¿hay A?
+✔ Sí → ==di a beber== leche
 
-##### Esto prepara el siguiente movimiento (1:9–12).
+[pero] + ==pueden== → ¿hay A?
+✔ Sí → ==podían== recibirlo
+```
 
-###### El texto pasará a contrastes de condición (humilde/rico) y a evaluaciones bajo presión, manteniendo el hilo de estabilidad vs variación.
+Resultado:
+```
+==di a beber== leche
 
-> En Síntesis
->- Vimos la sección: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
->- Esto se conectó con lo anterior: Santiago 1:2–4 - La prueba empuja hacia constancia y hacia un \scripture{resultado} completo.
->- Anclas trabajadas: Santiago 1:5, Santiago 1:6, Santiago 1:7, Santiago 1:8.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+(porque) ==podían== recibirlo
 
-## Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico)
+[pero] ==pueden==
+```
 
-### Santiago 1:9  
-Pero que el hermano de condición humilde se gloríe en su alta posición,
+## EJEMPLO CLAVE (SIN B REAL)
 
-#### Pero que el hermano de condición humilde
-##### El texto pasa del \scripture{doble ánimo} (1:8) a un contraste de condición (humilde/rico).
+Texto NBLA:
+```
+porque la justicia viene por medio de la ley
+```
 
-###### \scripture{Pero} marca un giro. El texto no sigue desarrollando la duda; ahora introduce otro tramo dentro del mismo bloque.  
+Griego:
+```
+εἰ γὰρ διὰ νόμου δικαιοσύνη
+```
 
-###### \scripture{el hermano} mantiene el trato familiar y comunitario. La carta sigue hablando a personas concretas, no a ideas.
+👉 No hay verbo finito griego  
+👉 No hay cláusula en Paso 3  
 
-##### \scripture{de condición humilde} define el primer polo del contraste.
+Resultado:
+```
+❌ (porque) → no se inserta (no hay B)
+```
 
-###### El texto nombra la condición directamente. No la deja implícita.  
+👉 No hay B → no se busca A → no entra en la estructura  
 
-###### Esto prepara el segundo polo en el v.10: \scripture{y el rico…}.
+## REGLA OPERATIVA
 
-#### se gloríe en su alta posición,
-##### El texto dirige cómo debe contarse esa condición.
+###### ❗ El conector siempre entra por la cláusula B
 
-###### \scripture{se gloríe} es una instrucción de valoración, como en 1:2.  
+👉 Nunca se coloca en A  
+👉 Nunca queda suelto  
+👉 Nunca se evalúa sin B  
 
-###### La frase une dos términos en tensión: \scripture{condición humilde} y \scripture{alta posición}. El texto pone juntos los dos lados.
+## CASOS DIFÍCILES
 
-##### La línea queda abierta para completar el contraste con el \scripture{rico} (Santiago 1:10).
+##### Cuando el conector no está cerca
 
-### Santiago 1:10  
-y el rico en su humillación, pues él pasará como la flor de la hierba.
+👉 No importa la distancia  
+👉 No importa la puntuación  
 
-#### y el rico en su humillación
-##### El texto completa el contraste: ahora habla del \scripture{rico}.
+###### Pregunta única:
+👉 ¿Qué cláusula del Paso 3 es B?
 
-###### \scripture{y} muestra continuidad con 1:9. Es el mismo movimiento, no un tema aparte.  
+Luego:
+👉 conector + B → ¿hay A?
 
-###### La inversión se repite: al \scripture{rico} se le asocia \scripture{humillación}, así como al \scripture{humilde} se le asoció \scripture{alta posición}.
+##### Cuando no es claro
 
-##### El texto obliga a mirar la condición \scripture{rico} desde otro ángulo dentro de esta unidad.
+👉 Igual haces la prueba  
 
-#### pues él pasará como la flor de la hierba.
-##### El texto da una razón y la empuja hacia lo temporal. 
+❗ No decides por sentido  
+❗ No completas mentalmente  
 
-###### \scripture{pues} introduce base/explicación para lo que acaba de decir sobre el \scripture{rico}.  
+## IMPORTANTE
 
-###### \scripture{pasará} introduce transitoriedad. No se presenta como estable o permanente.
+###### ❗ Este paso filtra los conectores reales
 
-##### La comparación \scripture{como la flor…} prepara la imagen extendida del v.11.
+👉 Solo permanecen los que unen A–B  
+👉 Los demás se eliminan  
 
-### Santiago 1:11  
-Porque el sol sale con calor abrasador y seca la hierba, y su flor se cae y la hermosura de su apariencia perece. Así también se marchitará el rico en medio de sus empresas.
+## ENTIENDE
 
-#### Porque el sol sale con calor abrasador y seca la hierba  
-##### El texto sostiene la afirmación anterior con una imagen de proceso. Isaías 40:6-8
+##### Qué estás haciendo realmente
+###### Estás conectando cláusulas reales y eliminando relaciones falsas.
 
-###### \scripture{Porque} indica que el v.11 explica el \scripture{pasará} del v.10.  
+##### PRINCIPIO CLAVE
+###### Un conector solo entra en la estructura si une B con una A real.
 
-###### El texto describe un proceso con verbos de acción: el sol \scripture{sale} y \scripture{seca}.
+##### IDEA CLAVE
+###### No preguntas:
+👉 “¿Qué significa?”
 
-##### La imagen no es instantánea. Es secuencial y prepara una caída. 1 Pedro 1:24–25; Salmo 103:15–16.
+###### Preguntas:
+👉 “¿Conector + B encuentra A?”
 
-#### y su flor se cae y la hermosura de su apariencia perece.
-##### El texto completa la secuencia con caída y pérdida. No niega que la flor no tenía apariencia hermosa en un momento dado, pero va fue breve. 
+##### ERROR COMÚN
 
-###### Después de un día de \scripture{calor abrasador}, el resultado claro es: \scripture{se cae} y luego \scripture{perece}.  
+- No partir de las cláusulas del Paso 3  
+- Asignar conectores sin B  
+- No hacer la prueba A–B  
+- Conservar conectores por intuición  
 
-###### Se acumulan efectos. El punto es deterioro y pérdida de lo visible.
+👉 ❌ Incorrecto
 
-##### Esto refuerza la razón de 1:10 sin añadir un tema nuevo.
+##### CORRECTO
 
-#### Así también se marchitará el rico en medio de sus empresas.
-##### El texto aplica la imagen al \scripture{rico} de manera explícita.
+- Partes de las cláusulas  
+- Insertas conectores en B  
+- Pruebas B - A
+- Conservas o eliminas  
 
-###### \scripture{Así también} hace la correspondencia directa: imagen → referente.  
+## FRASE CLAVE
+> “Inserto el conector en B, y pregunto: ¿hay A?”
 
-###### \scripture{se marchitará} retoma la línea de deterioro y la asigna al \scripture{rico}.
+## QUÉ DEBES NOTAR
 
-##### En Santiago 1:9–11, el contraste “humilde/rico” aparece dentro del mismo tramo que empezó con \scripture{diversas pruebas} (Santiago 1:2). El texto continúa su flujo y añade estos casos.
+###### Cuando haces bien este paso:
 
-###### En estos versículos, el texto presenta dos casos lado a lado (Santiago 1:9–10). En ambos usa el mismo verbo: \scripture{se gloríe}. 
+- solo quedan relaciones reales  
+- desaparecen conexiones falsas  
+- el texto queda listo para estructura  
 
-gloríese - καυχάσθω (kauchásthō)  
-: ponerse valor o contarse a sí mismo “en” algo; gloriarse en ello.
+## TRANSICIÓN
 
-###### Primero: \scripture{que el hermano de condición humilde se gloríe en su alta posición} (Santiago 1:9). Luego: \scripture{y el rico en su humillación} (Santiago 1:10). El contraste no está solo en “humilde/rico”, sino en cómo el texto empareja cada uno con una valoración opuesta (alta posición / humillación).
+###### En el siguiente paso:
 
-###### Después, Santiago 1:10 añade una razón: \scripture{pues él pasará como la flor de la hierba}. Santiago 1:11 sostiene esa razón con un “Porque…” y desarrolla la imagen con una secuencia de acciones: el sol sale con calor abrasador, seca la hierba, la flor se cae, la hermosura perece. Luego el texto conecta la imagen con el “rico” por medio de \scripture{Así también}: \scripture{Así también se marchitará el rico en medio de sus empresas} (Santiago 1:11).
+- 👉 usarás las conexiones A–B confirmadas  
+- 👉 organizarás las cláusulas  
+- 👉 verás la estructura del texto  
 
-###### En otras palabras, el pasaje hace tres cosas seguidas: (1) pone dos casos en contraste (humilde/rico), (2) usa el mismo verbo para ambos (\scripture{gloriarse}) pero con dos direcciones opuestas, y (3) apoya lo dicho sobre el “rico” con una razón (\scripture{pues…}) que es desarrollada por una imagen (\scripture{Porque…}) y aplicada con \scripture{Así también…}.
+###### Aquí conectas  
+###### 👉 luego estructuras
 
-###### Este contraste rico/pobre aparece de nuevo en el escenario de la reunión (Santiago 2:2–3), y el “rico” vuelve a aparecer con fuerza en Santiago 5:1–6.
+# PASO 6 — MOSTRAR LA ESTRUCTURA
 
-##### Con esto, 1:9–11 cierra su contraste humilde/rico con una base desarrollada (no solo una afirmación breve).
+## EJECUTA
 
-### Santiago 1:12  
-Bienaventurado el hombre que persevera bajo la prueba, porque una vez que ha sido aprobado, recibirá la corona de la vida que el Señor ha prometido a los que lo aman.
+##### ¿Qué haces?
+###### Organizas las cláusulas según las relaciones A–B confirmadas en el Paso 5.
 
-#### Bienaventurado el hombre que persevera bajo la prueba  
-##### El texto vuelve a la palabra \scripture{prueba} y declara una evaluación.
+##### REGLA CLAVE
 
-###### \scripture{Bienaventurado} declara un juicio de estado.  
+###### ❗ Solo trabajas con conexiones ya confirmadas
 
-###### \scripture{persevera} marca continuidad en el tiempo: el que persevera, permanece bajo presión.
+👉 No pruebas relaciones  
+👉 No vuelves a buscar A  
+👉 No eliminas conectores  
 
-##### \scripture{bajo la prueba} conecta con el inicio del bloque (Santiago 1:2–4). La palabra \scripture{prueba} vuelve y amarra esta sección con el comienzo. 
+👉 Todo eso ya ocurrió en el Paso 5  
 
-###### Claramente no ha dejado de hablar de prueba desde que inicío la carta. 
+##### REGLA FUNDAMENTAL
 
-#### porque una vez que ha sido aprobado,
-##### El texto explica la evaluación y marca un punto de llegada.
+###### ❗ No explicas la relación
 
-###### \scripture{porque} introduce base para \scripture{bienaventurado}.  
+👉 No nombras funciones  
+👉 No interpretas  
+👉 No reescribes el texto  
 
-###### \scripture{una vez que ha sido aprobado} marca un resultado de la prueba: llega a un punto llamado \scripture{aprobado}.
+👉 Solo haces visible la estructura  
 
-##### ¿En que sentido es aprovado?¿Qué significa ser aprobado?
+## CÓMO HACERLO
 
-#### recibirá la corona de la vida que el Señor ha prometido a los que lo aman. 
-##### El texto declara un resultado y lo amarra a una promesa.
+1. Toma las cláusulas del Paso 5
 
-###### \scripture{recibirá} declara resultado futuro.  
+2. Usa las relaciones ya resueltas:
+👉 (conector + B) → A
 
-###### \scripture{corona de la vida} nombra el objeto del recibir.  
+3. Organiza así:
+- Coloca A en la línea principal  
+- Coloca B debajo de A  
+- Indenta B  
+- Mantén el conector en B  
 
-###### \scripture{ha prometido} presenta el resultado como promesa del Señor, no como deducción del lector.
+## FORMATO
 
-##### Esto prepara el camino para v.13.
+```
+A
 
-###### El v.13 comenzará a regular lo que alguien \scripture{dice} cuando es tentado. El texto pasará de \scripture{prueba} (1:12) a \scripture{tentación} (1:13), manteniendo el tema de presión pero ajustando el enfoque.
+(conector) B
+```
 
-> En Síntesis
->- Vimos la sección: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
->- Esto se conectó con lo anterior: Santiago 1:5–8 - La duda deja ver inestabilidad (doble ánimo).
->- Anclas trabajadas: Santiago 1:9, Santiago 1:10, Santiago 1:11, Santiago 1:12.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+## EJEMPLO
 
-## Santiago 1:13–15 - La pasión interna avanza hasta producir muerte
+Paso 5:
 
-### Santiago 1:13  
-Que nadie diga cuando es tentado: «Soy tentado por Dios». Porque Dios no puede ser tentado por el mal y Él mismo no tienta a nadie.
+```
+==di a beber== leche
 
-#### Que nadie diga cuando es tentado: 
-##### El texto controla lo que se atribuye como fuente en el momento de tentación.
+(porque) ==podían== recibirlo
 
-###### \scripture{Que nadie diga} es una prohibición amplia. No va dirigida a un caso raro; cubre a cualquiera.  
+[pero] ==pueden==
 
-###### \scripture{cuando es tentado} instala el escenario: el texto asume que este momento ocurre y quiere regular qué se dice allí.
 
-##### Esto conecta con el flujo anterior.
+Paso 6:
 
-###### En 1:12 se habló de \scripture{prueba} y de un resultado declarado. Ahora 1:13 toma otro lado de la presión \scripture{tentación} y regula la atribución.
 
-#### Soy tentado por Dios.
-##### El texto cita la frase que prohíbe.
+==di== a beber leche
+		(porque) ==podían== recibirlo
+		[pero] ==pueden==
+```
 
-###### No corrige en general; pone en boca una afirmación específica para negarla.  
+## REGLA OPERATIVA
 
-###### La cita muestra que el problema aquí es una atribución verbal concreta (lo que alguien \scripture{dice}.
+###### ❗ La cláusula B siempre se coloca debajo de su A
+👉 Porque depende de ella  
+👉 Por eso se indenta  
 
-##### La siguiente parte explica por qué esa frase es inválida.
+###### ❗ Cada cláusula aparece una sola vez
+👉 Si una cláusula es A de otra relación,
+👉 se usa en su misma posición (no se repite)
 
-###### El versículo pasa de prohibición a fundamento con \scripture{Porque…}.
+## IMPORTANTE
 
-#### Porque Dios no puede ser tentado por el mal
-##### El texto presenta una imposibilidad como base.
+###### ❗ No reorganizas por intuición
 
-###### \scripture{Porque} da razón inmediata. No es una idea aparte; sostiene la prohibición.  
+👉 Solo reflejas las conexiones ya confirmadas  
 
-###### \scripture{no puede ser tentado por el mal} niega una posibilidad en Dios, conectando directamente con el tema \scripture{tentación}.
+###### ❗ No agregas información
 
-##### Esto prepara el paralelo siguiente.
+👉 No añades palabras  
+👉 No completas ideas  
+👉 No corriges el texto  
 
-###### El texto no solo niega que Dios sea tentado; también negará que Dios tiente.
+## ENTIENDE
 
-#### y Él mismo no tienta a nadie.
-##### El texto añade una segunda negación sobre Dios.
+##### Qué estás haciendo realmente
+###### Estás mostrando la \textbf{estructura real del texto}.
 
-###### \scripture{y} mantiene el mismo argumento en continuidad.  
+##### PRINCIPIO CLAVE
+###### La estructura no se crea  
+###### 👉 se revela al ordenar A–B  
 
-###### \scripture{Él mismo} refuerza el sujeto: el texto subraya quién no actúa así.  
+##### IDEA CLAVE
+###### No preguntas:
+👉 “¿Qué significa?”
 
-###### \scripture{no tienta a nadie} niega agencia: no solo Dios no recibe tentación; tampoco la produce hacia otros.
+###### Muestras:
+👉 “¿Qué depende de qué?”
 
-##### Esto abre la alternativa del v.14.
+##### ERROR COMÚN
 
-###### El v.14 empieza con \scripture{Sino que…}, dando el contraste directo: no Dios, sino otro origen o proceso.
+- Volver a probar conexiones  
+- Buscar nuevas relaciones  
+- Explicar la relación  
+- Reescribir el texto  
+- Cambiar el orden  
 
-### Santiago 1:14  
-Sino que cada uno es tentado cuando es llevado y seducido por su propia pasión.
+👉 ❌ Incorrecto
 
-#### Sino que cada uno es tentado
-##### El texto presenta la alternativa y la hace personal.
+##### CORRECTO
 
-###### \scripture{Sino que} marca contraste directo con 1:13. El texto reemplaza una atribución por otra explicación.  
+- Tomas las conexiones del Paso 5  
+- Colocas B debajo de A  
+- Indentas  
+- Mantienes el conector  
 
-###### \scripture{cada uno} individualiza el caso. La tentación se presenta como algo que ocurre a personas concretas.
+## FRASE CLAVE
+> “No construyo la estructura.  
+> La muestro.”
 
-##### La frase queda abierta para describir el mecanismo.
+## QUÉ DEBES NOTAR
 
-###### El texto no se detiene en \scripture{cada uno es tentado}. Pasa a \scripture{cuando…}.
+###### Cuando lo haces bien:
 
-#### cuando es llevado y seducido
-##### El texto describe el proceso con dos acciones.
+- las dependencias se ven claramente  
+- el texto se organiza sin esfuerzo  
+- la jerarquía aparece  
 
-###### \scripture{cuando} marca el momento o condición del proceso.  
+## TRANSICIÓN
 
-###### Dos verbos describen el movimiento: \scripture{llevado} y \scripture{seducido}. La tentación se presenta como arrastre o atracción, no como evento instantáneo.
+###### En el siguiente paso:
 
-##### Esto prepara el motor del proceso.
+- 👉 trabajarás dentro de cada cláusula  
+- 👉 reducirás su contenido  
+- 👉 prepararás el texto para identificar el tronco  
 
-###### La frase siguiente nombra la fuente de ese arrastre.
+###### Aquí haces visible la estructura  
+###### 👉 luego trabajas dentro de ella
 
-#### por su propia pasión.
-##### El texto asigna el motor al interior del sujeto.
+# PASO 7 — REDUCIR A LA CLÁUSULA BASE
 
-###### \scripture{por} introduce causa o medio: el proceso ocurre \scripture{por} algo.  
+## EJECUTA
 
-###### \scripture{su propia} marca pertenencia: el impulso no se atribuye a un agente externo en este versículo; 
-- no proviene de Dios
-- no es algo externo
-- se atribuye al interior del sujeto.  
+##### ¿Qué haces?
+###### Reduces cada cláusula a su forma base,
+###### conservando la acción completa del verbo dentro de la estructura mostrada en el Paso 6.
 
-###### \scripture{pasión} nombra ese motor interno.
+##### REGLA CLAVE
+###### Reduces el contenido de cada cláusula,
+###### pero no alteras la estructura.
 
-##### Esto empuja al v.15.
+👉 No eliminas cláusulas  
+👉 No eliminas conectores  
+👉 No cambias la relación visual del Paso 6  
 
-###### El v.15 continúa la misma línea y desarrolla una secuencia: pasión → pecado → muerte.
+##### REGLA
+###### Mantienes en cada cláusula:
 
-### Santiago 1:15  
-Después, cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, engendra la muerte.
+- el verbo finito
+- el sujeto (si es necesario)
+- los elementos que completan la acción del verbo
 
-#### Después cuando la pasión ha concebido,
-##### El texto marca progresión y etapa. 
+###### ❗ No reduces mecánicamente a sujeto–verbo–objeto
 
-###### \scripture{Después} muestra que el texto está describiendo una secuencia, no un momento aislado. 
+###### Conservas todo lo necesario para que la acción quede completa.
+###### Eliminas solo lo que no afecta directamente esa acción.
 
-###### \scripture{cuando la pasión ha concebido} presenta una etapa dentro del proceso con lenguaje de comienzo (concepción).
+##### ACLARACIÓN IMPORTANTE
+###### La reducción ocurre dentro de cada cláusula,
+###### no entre cláusulas.
 
-##### La frase queda abierta hacia el resultado inmediato.
-###### Lo que sigue responde: ¿qué produce esa concepción?
+👉 No estás tocando la estructura  
+👉 Solo estás limpiando cada línea  
 
-#### da a luz el pecado; 
-##### El texto nombra el primer resultado.
+## CÓMO HACERLO
 
-###### \scripture{da a luz} mantiene el mismo campo de imagen iniciado con \scripture{ha concebido}.  
+1. Toma el texto estructurado del Paso 6
 
-###### Por inferencia, "la concepción" es usado para ilustrar un evento interno que resulta en algo evidente, el "nacimiento".  
+2. Lee una cláusula
 
-###### El resultado nombrado es \scripture{el pecado}. No es una sugerencia; está declarado como producto de la etapa anterior. La "concepción" resulta en "dar a luz". 
+3. Identifica su verbo finito
 
-###### El texto todavía no termina la cadena; añade una segunda etapa.
+4. Conserva:
+- quién hace la acción, si es necesario
+- qué acción ocurre
+- qué completa esa acción
 
-#### y cuando el pecado es consumado,
-##### El texto añade una segunda condición dentro de la misma secuencia.
+5. Elimina dentro de la cláusula:
+- elementos secundarios
+- detalles que no cambian la acción
+- expansiones que no son necesarias para que la acción quede completa
 
-###### \scripture{y cuando}  añade otra etapa sin cortar el hilo.  
+6. Repite con cada cláusula
 
-###### El lenguaje de \scripture{después} v.14 / \scripture{luego}v.15* hace claro que hay una sucesión de eventos. Santiago 1:15 hace explícita la dirección de la cadena: el deseo va primero y lleva al pecado. 
+##### RESULTADO ESPERADO
 
-###### \scripture{es consumado} marca culminación del \scripture{pecado} ya nombrado. El texto describe un proceso que llega a completarse. 
+###### Antes (Paso 6):
 
-###### Santiago 1:14-15 presenta una secuencia donde el deseo resulta en pecado. 
+```text
+no ==pude== hablarles como a espirituales
 
-##### Esta frase prepara el resultado final.
+==di== a beber leche
+    (porque) no ==podían== recibirlo
 
-###### El texto cierra la cadena con un verbo de producción.
+		[pero] ni aun ahora ==pueden==
+```
 
-#### engendra la muerte.
-##### El texto cierra la cadena con un resultado final. 
+###### Después (Paso 7):
 
-###### \scripture{engendra} continúa el lenguaje de producción (concepción/nacimiento).  
+```text
+no ==pude== hablarles como a espirituales
 
-###### \scripture{la muerte} aparece como resultado final del proceso descrito en 1:14–15.  Génesis 3:6; Romanos 7:7–11; Proverbios 7:21–27.
+==di== a beber leche
+    (porque) no ==podían== recibirlo
 
-##### Santiago 1:13–15 es una triada donde el texto ata el tramo con una cadena interna explícita: \scripture{Sino que…} (Santiago 1:14) y \scripture{Después…} (Santiago 1:15).
-###### Una fuente negada queda clara (Santiago 1:13): no se atribuye a Dios; y la fuente afirmada también queda clara (Santiago 1:14): \scripture{su propia pasión}.
+		[pero] ==pueden==
+```
 
-###### Luego el texto marca la dirección con \scripture{después} y \scripture{luego}: 
-- \scripture{la pasión… da a luz el pecado…}
-- \scripture{engendra la muerte} 
+## ENTIENDE
 
-##### Armonía con Romanos 6
-###### Romanos describe el problema con lenguaje de dominio y obediencia: \scripture{no reine el pecado en su cuerpo mortal para que ustedes no obedezcan a sus lujurias} (Romanos 6:12).
+##### Qué estás haciendo realmente
+###### Estás dejando visible el núcleo verbal de cada cláusula,
+###### sin tocar la estructura que ya fue mostrada.
 
-###### Santiago 1:14–15 muestra esa misma lógica desde adentro y en secuencia: 
-- la persona es “llevada y seducida” por \scripture{su propia pasión}; 
-- luego, \scripture{Después…}, esa pasión \scripture{da a luz} el pecado, 
-- y el pecado “engendra” la muerte (Santiago 1:14–15).
+##### PRINCIPIO CLAVE
+###### Cada cláusula tiene una base.
+###### Esa base conserva la acción completa del verbo.
 
-###### Romanos también habla de \scripture{instrumentos}: 
-- no presenten sus miembros \scripture{como instrumentos de iniquidad} (Romanos 6:13).
+##### IDEA CLAVE
+###### No reduces la estructura.
+###### Reduces el contenido de cada cláusula.
 
-###### Santiago nombra el momento en que esa \scripture{iniquidad} sale a la luz como resultado del proceso: \scripture{da a luz el pecado} (Santiago 1:15).
+##### ACLARACIÓN
+###### Este paso no decide qué cláusulas permanecen y cuáles no.
 
-###### En ambos textos, el final nombrado coincide: 
-- muerte (Santiago 1:15).
-- muerte (Romanos 6:23).
+👉 Todas permanecen  
+👉 Solo quedan más limpias  
 
-###### Así, Romanos usa el lenguaje de reinar/obedecer/instrumentos, y Santiago usa el lenguaje de llevado/seducido/concebir/dar a luz/engendrar, pero ambos describen el mismo movimiento hacia el mismo resultado (Santiago 1:14–15; Romanos 6:12–13; Romanos 6:23).
+##### EJEMPLO CLAVE
 
-##### Esto prepara para el ingreso de 1:16.
+```text
+==di a beber== leche
+```
 
-###### Después de cerrar la cadena (pasión → pecado → muerte), 1:16 introduce una advertencia breve \scripture{no se engañen}, funcionando como corrección inmediata antes del bloque de origen \scripture{de lo alto} (Santiago 1:17–18).
+- ==di a beber== → verbo finito
+- “a beber leche” → completa la acción
 
-> En Síntesis
->- Vimos la sección: Santiago 1:13–15 - La pasión interna avanza hasta producir muerte.
->- Esto se conectó con lo anterior: Santiago 1:9–12 - La presión deja ver lo pasajero de la condición humana (humilde/rico).
->- Anclas trabajadas: Santiago 1:12, Santiago 1:13, Santiago 1:14, Santiago 1:15.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+👉 No se reduce a:
+```text
+==di==
+```
 
-## Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto
+👉 Porque la acción quedaría incompleta
 
-### Santiago 1:16  
-Amados hermanos míos, no se engañen.
+##### ERROR COMÚN
 
-#### Amados hermanos míos  
-##### El texto se detiene y habla de frente.
+- Reducir demasiado
+- quitar partes que completan la acción
+- eliminar conectores
+- alterar la indentación o la relación visual del Paso 6
 
-###### Vuelve el trato directo. No es una frase impersonal. Es una intervención pastoral dentro del flujo.  
+👉 ❌ Incorrecto
 
-###### Después de describir una cadena interna que termina en \scripture{muerte} (Santiago 1:14–15), el texto vuelve a llamar a los destinatarios con cercanía.
+##### CORRECTO
 
-##### Esto también mantiene el tono de carta.
+- conservar la acción completa
+- mantener todas las cláusulas
+- mantener los conectores
+- mantener la estructura
 
-###### La carta no solo informa; exhorta. Este trato reaparece para introducir correcciones y direcciones.
+## FRASE CLAVE
+> “Reduzco cada cláusula, pero no toco la estructura.”
 
-#### no se engañen.
-##### El texto corta el paso a una conclusión equivocada.
+## QUÉ DEBES NOTAR
 
-###### Es una advertencia breve y directa. No explica aquí; primero frena.  
+###### Cuando reduces bien:
 
-###### \scripture{no se engañen} funciona como bisagra: después de la cadena \scripture{pasión} → \scripture{pecado} → \scripture{muerte} (Santiago 1:15), el texto bloquea una lectura errada antes de avanzar.
+- cada línea se vuelve más clara
+- la acción queda visible
+- la estructura sigue intacta
 
-##### Esto prepara para siguiente versículo.
+##### REGLA DE CONTROL
+###### Si una acción queda incompleta, redujiste mal.
+###### Si desaparece una cláusula, redujiste mal.
+###### Si cambias la estructura, redujiste mal.
 
-###### El v.17 sigue como corrección de marco: lo que es \scripture{bueno} no se atribuye a la cadena anterior; el texto lo ubica \scripture{de lo alto} (Santiago 1:17, 13). 
+## TRANSICIÓN
 
-### Santiago 1:17  
-Toda buena dádiva y todo don perfecto viene de lo alto, desciende del Padre de las luces, con el cual no hay cambio ni sombra de variación.
+###### En el siguiente paso:
 
-#### Toda buena dádiva y todo don perfecto viene de lo alto
-##### El texto responde a \scripture{no se engañen} con una afirmación general sobre origen.
+- 👉 trabajarás con esta versión reducida
+- 👉 identificarás la línea principal del desarrollo
+- 👉 comenzarás a ver el tronco del texto 
 
-###### \scripture{Toda… y todo…} amplía el alcance. No habla de un caso pequeño; formula una regla general.  
+# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
 
-###### El texto nombra lo \scripture{bueno} y lo \scripture{perfecto}, y luego marca su procedencia: \scripture{viene de lo alto}.
+## EJECUTA
 
-##### Esta línea corrige atribución.
+##### ¿Qué haces?
+###### Identificas el tronco del texto eliminando únicamente las cláusulas que dependen estructuralmente de otras.
 
-###### En 1:13–15 se describió un proceso interno que termina en \scripture{muerte}. Aquí el texto instala otro marco: lo \scripture{bueno} tiene otro origen (Santiago 1:17).
+###### Mantienes las cláusulas que no dependen de ninguna otra.
 
-#### desciende del Padre de las luces,
-##### El texto repite la dirección y nombra al dador.
+# REGLA CLAVE
 
-###### No solo dice \scripture{de lo alto}; añade \scripture{desciende}. El origen queda subrayado dos veces (viene / desciende).  
+###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
 
-###### Luego identifica la fuente: \scripture{del Padre…}. El origen no queda abstracto.
+👉 No decides por sentido
+👉 No decides por importancia
+👉 No decides por “parece secundario”
 
-##### Esto prepara la frase final sobre estabilidad.
+👉 Decides solo por lo que el conector griego muestra
 
-###### El texto no solo marca origen; también describe cómo es este dador.
+# REGLA CRÍTICA
 
-#### con el cual no hay cambio ni sombra de variación.
-##### El texto afirma estabilidad con una negación doble.
+###### ❗ Una cláusula se elimina solo si:
+- está introducida por un conector subordinante en el griego
+- está estructuralmente debajo de otra cláusula (Paso 6)
 
-###### \scripture{no hay} introduce una negación clara.  
+###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
 
-###### \scripture{cambio} y \scripture{sombra de variación} se acumulan para describir ausencia de alteración.
+# DEFINICIÓN OPERATIVA
 
-##### Esto conversa con el flujo inmediato.
+###### Una cláusula dependiente es aquella que:
+- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
+- fue colocada debajo de otra cláusula en el Paso 6
 
-###### En 1:6 la duda fue comparada con movimiento \scripture{de una parte a otra}, y en 1:8 se nombró \scripture{inestable}. Aquí se presenta un contraste de estabilidad en el dador, sin sacar conclusiones todavía (Santiago 1:6–8; Santiago 1:17).
+👉 Esa es la única base para eliminar
 
-##### Esto empuja al v.18.
-###### El v.18 pasará de lo general \scripture{toda dádiva…} a una acción específica \scripture{Él nos hizo nacer…}.
+# CÓMO HACERLO
 
-### Santiago 1:18  
-En el ejercicio de Su voluntad, Él nos hizo nacer por la palabra de verdad, para que fuéramos las primicias de sus criaturas.
+1. Toma el texto reducido y estructurado (Paso 7)
 
-#### En el ejercicio de Su voluntad
-##### El texto marca intención. Malaquías 3:6; Números 23:19; 1 Pedro 1:23; Juan 17:17.
+2. Revisa cada cláusula
 
-###### Lo que sigue se enmarca en \scripture{Su voluntad}. No se presenta como accidente.  
+3. Identifica:
+👉 ¿Está esta cláusula debajo de otra?
+ 👉 ¿Tiene un conector subordinante en el griego?
 
-###### Después de afirmar origen y estabilidad (Santiago 1:17), el texto ahora añade un marco de decisión: esto ocurre en ejercicio de voluntad.
+4. Decide:
+- ✔ Sí → elimínala
+- ❌ No → mantenla
 
-##### Esto prepara una acción concreta.
+5. Repite hasta revisar todo el texto
 
-###### El versículo pasará de marco (voluntad) a acto (hizo nacer).
+# RESULTADO
 
-#### Él nos hizo nacer por la palabra de verdad,
-##### El texto nombra una acción y su medio.
+###### Antes (Paso 7):
 
-###### \scripture{Él nos hizo nacer} es una acción declarada. El texto pasa de descripción \scripture{viene de lo alto} a acto \scripture{hizo nacer}.  
+```
+no ==pude== hablarles
 
-###### \scripture{nos} incluye al escritor con los destinatarios; el punto se presenta como algo compartido.  
+yo ==di a beber==
+    (porque) no ==podían==
 
-###### \scripture{por la palabra de verdad} nombra el medio: el texto no lo deja implícito.
+ni aun ahora ==pueden==
+```
 
-##### Esto conecta hacia el bloque que sigue.
+###### Después (Paso 8):
 
-###### En 1:19–27 el texto hablará de oír, hablar, recibir y hacer, y allí \scripture{la palabra} vuelve a ser central (Santiago 1:19–22).
+```
+no ==pude== hablarles
 
-#### para que fuéramos las primicias de sus criaturas.
-##### El texto declara propósito con \scripture{para que}.
+yo ==di a beber==
 
-###### \scripture{para que} introduce finalidad, igual que en 1:4 \scripture{para que sean…}.  
+```
 
-###### El texto muestra que no solo hay origen y acto; también hay dirección (propósito).
+# OBSERVACIÓN INTEGRADA
 
-##### Esto cierra 1:16–18 como un tramo de corrección y origen.
+## 1. SUJETO
 
-###### 1:16: advertencia \scripture{no se engañen}.  
+###### Mientras identificas el tronco, marcas cambios de sujeto
+- Marca solo cuando el sujeto cambia
+- Debe ser visible en la cláusula
+- No explicas
+- No interpretas
 
-###### 1:17: origen y estabilidad \scripture{de lo alto}; \scripture{no hay cambio}.  
+Formato:
 
-###### 1:18: acto + medio + propósito \scripture{hizo nacer… por… para que…}.
+```
+[S: sujeto anterior → sujeto nuevo]
+```
 
-##### Esto empuja a 1:19.
+## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
 
-###### El v.19 volverá a la exhortación directa (oír/hablar/ira), llevando el flujo desde origen/palabra hacia respuesta práctica.
+##### DEFINICIÓN
+> \textbf{[M] marca un cambio de función estructural observable en la gramática griega.}
 
-> En Síntesis
->- Vimos la sección: Santiago 1:16–18 - El engaño es corregido por lo que viene de lo alto.
->- Anclas trabajadas: Santiago 1:15, Santiago 1:16, Santiago 1:17, Santiago 1:18.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+# REGLA FUNDAMENTAL DE [M]
 
-## Santiago 1:19–27 - La fractura se ve en el habla y en oír sin hacer
+###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
 
-### Santiago 1:19  
-Esto lo saben, mis amados hermanos. Pero que cada uno sea pronto para oír, tardo para hablar, tardo para la ira;
+👉 No marcas por contenido
+👉 No marcas por sujeto
+👉 No marcas por contraste
+👉 No marcas por “suena diferente”
 
-#### Esto lo saben
-##### El texto abre este tramo como algo ya conocido.
+# CRITERIOS OBJETIVOS PARA [M]
 
-###### Antes de mandar, el texto afirma: \scripture{esto lo saben}.  
+## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
 
-###### Eso prepara una exhortación directa, no una discusión larga. El movimiento es: ya lo saben → ahora actúen en esa dirección.
+Marca [M] si hay un cambio como:
+- Indicativo → Imperativo
+- Indicativo → Exhortación (prohibición, mandato)
 
-##### Esto también conecta con lo que acaba de decir.
+Ejemplo:
 
-##### Viene después de 1:16–18 (corrección + origen + palabra). Ahora pasa a instrucciones prácticas, sin perder el tono de carta dirigida.
+```
+==es== verdad
 
-##### Esto empuja a la triada que sigue.
+==hagan== esto [M]
+```
 
-###### La frase siguiente comienza con \scripture{Pero que cada uno sea…}, y abre una cadena en tres partes.
+## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
 
-#### mis amados hermanos
-##### El texto vuelve a hablar de frente.
+Ejemplo griego:
 
-###### Reaparece el trato directo. No está hablando en abstracto; está hablando a los destinatarios.  
+```
+- ὥστε (así que)
+```
 
-###### Este trato se repite cuando el texto entra en exhortaciones y correcciones, y aquí marca el inicio de un bloque exhortativo (Santiago 1:19–27).
+Marca [M] solo si:
+- introduce una conclusión independiente
+- cambia de explicación a acción o resolución
 
-#### Pero que cada uno sea pronto para oír,
-##### El texto inicia una triada de disposiciones.
+## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
 
-###### \scripture{Pero} marca giro: el texto entra en dirección práctica.  
+Marca [M] si puedes señalar:
+- explicación → mandato
+- desarrollo → conclusión
 
-###### \scripture{cada uno} individualiza: no lo deja solo como regla general para \scripture{otros}.  
+👉 Este cambio debe ser visible en:
+- el verbo (modo)
+- o el conector griego
 
-###### \scripture{pronto para oír} pone el primer énfasis en escuchar antes de hablar o reaccionar.
+# LO QUE NO PRODUCE [M]
 
-##### Esto prepara el resto de la triada.
+###### ❗ Nunca marques [M] por:
+- cambio de sujeto
+- contraste (pero / ἀλλά / δέ)
+- nueva ilustración
+- repetición
+- progreso del argumento
 
-###### La misma estructura continúa: tardo para hablar, tardo para la ira.
+👉 Todo esto ocurre dentro del mismo movimiento
 
-#### tardo para hablar,
-##### El texto frena el habla.
+# PRUEBA MECÁNICA (OBLIGATORIA)
 
-###### En la misma línea, el texto pone límite al hablar: \scripture{tardo}.  
+Antes de marcar [M], debes poder responder:
 
-###### Esto no es una explicación todavía; es una disposición ordenada dentro de la triada.
+```
+1. ¿El verbo cambia de modo? → sí = posible [M]
 
-##### Esto conecta con lo que viene después sobre \scripture{palabra}.
+2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
 
-###### En 1:21–22 el texto hablará de recibir la palabra y ser hacedores. Aquí prepara el terreno regulando oír/hablar.
+3. ¿Se puede demostrar cambio en función estructural?
+   → sí = [M]
 
-#### tardo para la ira;
-##### El texto frena la reacción.
+Si no puedes señalar esto en el griego → NO marcas [M]
+```
 
-###### La tercera parte completa la triada: oír → hablar → ira.  
+# EJEMPLO
 
-###### El \scripture{;} deja la frase abierta para la razón inmediata del v.20.
+```
+yo ==planté==
+Apolos ==regó==
+[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
 
-##### Esto empuja al v.20.
+[Así que] nadie ==se jacte==      ← ✔ [M]
+```
 
-###### El v.20 comienza con \scripture{pues…}, dando base directa para esta última disposición.
+# FORMATO FINAL
 
-### Santiago 1:20  
-pues la ira del hombre no obra la justicia de Dios.
+```
+[S: yo → Apolos]
+Apolos ==regó==
 
-#### pues la ira del hombre no  
-##### El v.20 está pegado al v.19 y explica una parte específica de esa triada.
+[S: Apolos → Dios]
+[pero] Dios ==dio== crecimiento
 
-###### En Santiago 1:19 hay tres disposiciones en orden: \scripture{pronto para oír}, \scripture{tardo para hablar}, \scripture{tardo para la ira}.
-###### El v.20 empieza con \scripture{pues}, y por eso se lee como la razón inmediata de lo que acaba de decirse, especialmente de \scripture{tardo para la ira} (Santiago 1:19–20).
+[S: Dios → nadie]
+[Así que] nadie ==se jacte==   [M]
+```
 
-##### Aquí el texto no está describiendo \scripture{toda emoción humana}. Está nombrando una respuesta concreta: \scripture{ira}.
+# REGLA DE CONTROL
 
-###### El sujeto de la frase es \scripture{la ira del hombre}.
-###### La frase no discute casos ni excepciones. Solo declara una relación directa con un resultado.
+###### ❗ Si no puedes señalar el cambio en la gramática griega:
+👉 NO puedes marcar [M]
 
-#### obra la justicia de Dios.  
-##### El punto del v.20 está en el verbo: \scripture{no obra}.
+# ENTIENDE
 
-###### \scripture{obra} aquí es lenguaje de salida/efecto: qué produce una cosa.
-###### El texto dice que esta respuesta (\scripture{ira del hombre}) no produce el resultado nombrado (\scripture{la justicia de Dios}).
+##### Qué estás haciendo realmente
+###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
 
-- En una sola línea, el texto hace una cadena mínima: ira → no obra → justicia de Dios.
+# PRINCIPIO CLAVE
 
-##### Esto encaja con el patrón de “produce / resultado” que ya viene corriendo desde 1:2.
+###### El tronco contiene solo cláusulas independientes.
 
-###### Santiago 1:3: \scripture{produce} paciencia.
-###### Santiago 1:4: paciencia → \scripture{tenga su perfecto resultado}.
-###### Santiago 1:20: ira → \scripture{no obra} la justicia de Dios.
+###### 👉 [M] marca solo cambios estructurales verificables en el griego.
 
-###### Santiago nombra varias fuerzas internas en el capítulo 1. En 1:14–15 habla de \scripture{su propia pasión} y muestra una cadena (pasión → pecado → muerte). En 1:20 nombra \scripture{la ira del hombre} y declara otro resultado: esa ira \scripture{no obra} la justicia de Dios. El texto no las iguala con una definición, pero las coloca dentro del mismo tipo de lógica de “lo interno” que termina produciendo un efecto.
+# IDEA CLAVE
 
-##### Esto empuja al siguiente paso (Santiago 1:21).
+###### No decides qué es importante
 
-###### El v.21 empieza con \scripture{Por lo cual…}, o sea, toma esta base y deriva una instrucción que sigue en la misma línea de respuesta bajo presión (Santiago 1:21).
+###### 👉 solo eliminas dependencia
 
-### Santiago 1:21  
-Por lo cual, desechando toda inmundicia y todo resto de malicia, reciban ustedes con humildad la palabra implantada, que es poderosa para salvar sus almas.
+###### 👉 solo marcas cambios demostrables
 
-#### Por lo cual, desechando toda inmundicia y todo resto de malicia
-##### El texto pasa de base a consecuencia.
+# ERROR COMÚN
+- Marcar [M] por impresión
+- Usar sujeto como criterio
+- Usar contraste como criterio
+- Marcar demasiados [M]
 
-###### \scripture{Por lo cual} declara que lo que viene se presenta como derivación de 1:19–20.  
+👉 ❌ Incorrecto
 
-###### Antes de decir \scripture{reciban…}, el texto pone una acción previa: \scripture{desechando…}.
+# CORRECTO
 
-##### El texto amplía el alcance del \scripture{desechar}.
+- Eliminas solo por dependencia estructural
+- Mantienes cláusulas independientes
+- Marcas [M] solo con evidencia griega
 
-###### \scripture{toda} y \scripture{todo resto} no dejan el punto como mínimo; lo presentan como completo.
+# FRASE CLAVE
+> “Elimino lo dependiente.
+>  Marco solo lo que el griego demuestra.”
 
-#### reciban ustedes con humildad la palabra implantada,
-##### El texto nombra la acción central: recibir la palabra.
+# QUÉ DEBES NOTAR
 
-###### \scripture{reciban} es un mandato directo.  
+###### Cuando haces bien este paso:
+- el texto se reduce al desarrollo principal
+- desaparece lo subordinado
+- los cambios reales se vuelven visibles
+- [M] aparece raramente
 
-###### \scripture{con humildad} califica el modo: cómo se recibe.  
+# TRANSICIÓN
 
-###### \scripture{la palabra implantada} introduce el objeto central que dominará lo que sigue (1:21–22) y la ilustración posterior (1:23–25).
+###### En el siguiente paso:
+- 👉 trabajarás con cada cláusula del tronco
+- 👉 identificarás su comportamiento
+- 👉 verás cómo avanza el texto
 
-##### Esto prepara el v.22.
+###### Aquí defines el tronco
 
-###### Si la palabra se recibe, el siguiente paso será: qué tipo de respuesta corresponde a esa palabra.
+###### 👉 luego observas su comportamiento
 
-#### que es poderosa para salvar sus almas.
-##### El texto declara la capacidad/resultante de la palabra.
+# PASO 9 — MARCAR EL COMPORTAMIENTO
 
-###### No solo nombra \scripture{palabra}. La describe: \scripture{poderosa para salvar}.  
+## EJECUTA
 
-###### Esto cierra el v.21 con resultado y pone peso sobre cómo se responde a esa palabra.
+##### ¿Qué haces?
+###### Nombras qué hace \textbf{cada cláusula}.
 
-##### Esto empuja al v.22.
+###### Trabajas con:
+- el tronco (Paso 8)
+- las cláusulas ya estructuradas
 
-###### El v.22 intensifica: no basta oír/recibir; el texto mandará hacer.
+##### REGLA CLAVE
+###### ❗ Toda cláusula recibe una etiqueta
+👉 No depende de [M]
 
-### Santiago 1:22  
-Sean hacedores de la palabra y no solamente oidores que se engañan a sí mismos.
+##### REGLA FUNDAMENTAL
+###### ❗ No detectas el cambio
+👉 La estructura ya fue determinada en pasos anteriores  
+👉 Aquí no decides dónde cambia  
 
-#### Sean hacedores de la palabra
-##### El texto exige respuesta activa.
+👉 Solo nombras lo que cada cláusula hace  
 
-###### Después de \scripture{reciban… la palabra} (1:21), el texto pasa a \scripture{sean hacedores}.  
+##### REGLA CRÍTICA
 
-###### El movimiento es claro: recibir → hacer.
+###### ❗ El orden es fijo:
 
-##### Esto mantiene el foco en \scripture{palabra}.
+```
+[S] (si existe)
+::ETIQUETA::
+cláusula [M] (si existe)
+```
 
-###### \scripture{de la palabra} conecta directamente con 1:21 y mantiene una sola línea de continuidad.
+##### ❗ ACLARACIÓN
+- [S] va \textbf{arriba de la cláusula}  
+- ::ETIQUETA:: va \textbf{antes de la cláusula}  
+- [M] va \textbf{al final de la cláusula}  
 
-#### y no solamente oidores
-##### El texto instala un contraste dentro de la misma frase.
+## CÓMO HACERLO
 
-###### No contrasta oír vs no oír. Contrasta oír vs oír solamente.  
+1. Toma una cláusula  
 
-###### Esto retoma el eje del v.19 (oír/hablar) y lo dirige hacia el tema de respuesta real.
+2. Observa su relación con la anterior  
 
-##### Esto prepara la explicación de 1:23.
+3. Nombra qué hace  
 
-###### El v.23 comenzará con \scripture{Porque…}, abriendo una analogía para sostener este contraste.
+## ETIQUETAS PERMITIDAS (FIJAS)
 
-#### que se engañan a sí mismos.
-##### El texto nombra el efecto del \scripture{oír solamente}.
+##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
 
-###### El texto conecta \scripture{oír solamente} con \scripture{engaño}, pero ahora lo hace reflexivo: \scripture{a sí mismos}.  
+## DEFINICIÓN OPERATIVA
 
-###### Esto reentra con 1:16 \scripture{no se engañen} y continúa el mismo campo de advertencia dentro del capítulo (Santiago 1:16; Santiago 1:22).
+###### La etiqueta describe qué hace la cláusula respecto a la anterior
+👉 No explica contenido  
+👉 No añade ideas  
+👉 No interpreta  
 
-##### Esto empuja a la analogía del espejo.
+## RESULTADO ESPERADO
 
-###### El v.23 desarrollará cómo luce ese \scripture{oír sin hacer} mediante una comparación (Santiago 1:23–24).
+```
+::EXPONE::
+yo ==pude== hablarles
 
-### Santiago 1:23  
-Porque si alguien es oidor de la palabra, y no hacedor, es semejante a un hombre que mira su rostro natural en un espejo;
+::EXPONE::
+yo ==di== a beber leche
 
-#### Porque si alguien es oidor de la palabra y no hacedor
-##### El texto da la razón de 1:22 y lo pone como un caso.
+[S: yo → ellos]
+::RAZÓN::
+no ==podían== recibirlo
 
-###### 1:22 mandó: \scripture{sean hacedores… no solamente oidores} (Santiago 1:22).  
-###### 1:23 comienza con \scripture{Porque}, o sea: ahora el texto explica por qué el \scripture{oír solamente} es un problema.
+::EXPONE::
+ni aun ahora ==pueden==
 
-##### El texto lo formula como condición general.
+## EJEMPLO CON [M]
 
-###### \scripture{si alguien} abre un caso que puede repetirse. No apunta a una persona concreta; describe un patrón.  
+::AFIRMACIÓN::
+no ==hago== nula la gracia [M]
+```
 
-###### Repite las dos partes del contraste: \scripture{oidor… y no hacedor}. Eso mantiene una sola línea con 1:22.
+## IMPORTANTE
 
-##### Esto empuja a una imagen.
+###### ❗ El conector ya determinó la relación
+👉 Aquí no decides  
+👉 Solo nombras  
 
-###### El texto no deja el caso en abstracto; lo vuelve visible con una comparación.
+##### ❗ [M] ES RESTRINGIDO
+###### Solo aparece si es seguro
+👉 Si no puedes demostrarlo → no lo marcas  
 
-#### es semejante a un hombre que mira su rostro natural en un espejo;
-##### El texto instala una comparación para mostrar el resultado de \scripture{oír sin hacer}.
+## ERRORES COMUNES
 
-###### \scripture{es semejante} abre una ilustración. El punto es: así se ve este caso en la práctica.  
+##### ❌ Poner [S] en línea con la cláusula  
+##### ❌ Poner la etiqueta después  
+##### ❌ Poner [M] antes  
+##### ❌ Etiquetar solo donde hay [M]  
+##### ❌ Interpretar el texto  
 
-###### La imagen es simple: mirar el propio rostro en un espejo. No habla de otros; habla de uno mismo.
+## FRASE CLAVE
+> “No explico el texto.  
+> 👉 Nombró lo que hace cada cláusula.”
 
-###### Eso mantiene la ilustración abierta. La secuencia se completa en 1:24 y se contrasta en 1:25 (Santiago 1:24–25).
+## ENTIENDE
 
-### Santiago 1:24  
-pues después de mirarse a sí mismo e irse, inmediatamente se olvida de qué clase de persona es.
+##### Qué estás haciendo realmente
+###### Estás haciendo visible el comportamiento de cada cláusula.
 
-#### pues después de mirarse a sí mismo e irse,
-##### El texto continúa la misma ilustración y marca una secuencia.
+##### PRINCIPIO CLAVE
+###### Toda cláusula actúa  
 
-###### \scripture{pues} conecta 1:24 con 1:23. Es la misma comparación, no una idea aparte.  
+###### 👉 Tu trabajo es identificar cómo  
 
-###### \scripture{después} marca orden: primero mira, luego se va.
+## QUÉ DEBES NOTAR
 
-##### El texto muestra una salida rápida.
+###### Ahora el texto muestra:
+- qué hace cada cláusula  
+- dónde cambia el sujeto ([S])  
+- dónde hay cambio estructural ([M], si existe)  
 
-###### \scripture{irse} contrasta con \scripture{permanecer} que aparecerá en 1:25. Aquí la acción es salir, no quedarse.
+👉 Tres capas distintas  
 
-#### inmediatamente se olvida de qué clase de persona es.
-##### El resultado del proceso es olvido, y el texto lo enfatiza.
+## TRANSICIÓN
 
-###### \scripture{inmediatamente} intensifica: no hay continuidad.  
+###### En el siguiente paso:
+👉 ignorarás el contenido  
+👉 leerás solo las etiquetas  
+👉 observarás repetición  
 
-###### El olvido no es de un dato pequeño; es \scripture{qué clase de persona es}. El texto apunta a identidad/condición.
+###### Aquí nombras  
+###### 👉 luego agrupas
 
-##### Esto prepara el contraste del 1:25.
+# PASO 10 — DELIMITAR SECCIONES CONTINUAS
 
-###### 1:25 empezará con \scripture{Pero}, y mostrará el caso opuesto: mirar atentamente y permanecer (Santiago 1:25).
+## EJECUTA
 
-### Santiago 1:25  
-Pero el que mira atentamente a la ley perfecta, la ley de la libertad, y permanece en ella, no habiéndose vuelto un oidor olvidadizo sino un hacedor eficaz, este será bienaventurado en lo que hace.
+##### ¿Qué haces?
+###### Delimitar dónde el texto continúa  
 
-###### (Referencias cruzadas: Mateo 7:24–27; Lucas 11:28; Ezequiel 33:31–32)
+###### y dónde comienza una nueva sección.
 
-#### Pero el que mira atentamente a la ley perfecta,
-##### El texto gira al caso contrario.
+###### Trabajas con:
+- el texto estructurado (Paso 8)  
+- las marcas [M]  
 
-###### \scripture{Pero} marca contraste directo con el caso del espejo (mirar → irse → olvidar).  
+##### REGLA FUNDAMENTAL
 
-###### \scripture{el que} introduce otro caso general, paralelo al \scripture{si alguien} de 1:23.
+###### ❗ No buscas patrones
 
-##### El texto vuelve a usar lenguaje de \scripture{mirar}, pero lo califica.
+👉 No agrupas por ideas  
+👉 No divides por sentido  
+👉 No usas etiquetas  
+👉 No usas sujeto  
 
-###### No es solo \scripture{mira}; es \scripture{mira atentamente}. El énfasis está en cómo mira.
+👉 Solo observas continuidad y ruptura  
 
-#### la ley de la libertad,
-##### El texto renombra el mismo objeto con otra expresión.
+##### REGLA CLAVE
+###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
 
-###### Primero dijo \scripture{ley perfecta}, y enseguida añade \scripture{ley de la libertad}.  
+👉 Y la única ruptura válida es [M]  
 
-###### La repetición \scripture{ley… ley…} mantiene el foco del mirar: el objeto se subraya, no se deja pasar rápido.
+## CÓMO HACERLO
 
-##### Esto empuja al siguiente paso: no solo mirar, sino permanecer.
+### 1. Lee el texto línea por línea
+👉 Trabajas sobre el tronco (Paso 8)
 
-#### y permanece en ella,
-##### El texto describe continuidad (no salida).
 
-###### En 1:24 el hombre \scripture{se va}. Aquí el hombre \scripture{permanece}.  
+### 2. Identifica [M]
+👉 Cada vez que aparece [M]:
+- ahí ocurre una ruptura  
+- ahí comienza una nueva sección  
 
-###### \scripture{en ella} mantiene el vínculo con el objeto \scripture{ley}: no es permanecer en general, sino permanecer en lo que está mirando.
+### 3. Agrupa las líneas
+👉 Todas las líneas sin [M] pertenecen a la misma sección  
 
-##### Esto prepara el contraste final con \scripture{oidor olvidadizo}.
+👉 La línea con [M]:
+- marca el cambio  
+- inicia una nueva sección  
 
-###### El texto está llevando el caso hacia una definición clara (qué tipo de oidor / qué tipo de hacedor).
+### 4. Continúa hasta el siguiente [M]
+👉 Repite el mismo proceso  
 
-#### no habiéndose vuelto un oidor olvidadizo
-##### El texto niega el resultado del caso anterior (olvido).
+## RESULTADO ESPERADO
 
-###### 1:24 terminó con \scripture{se olvida}. Aquí aparece \scripture{olvidadizo}.  
+```
+[ SECCIÓN 1 ]
 
-###### El texto toma el efecto del caso anterior y lo niega explícitamente: no termina así.
+::EXPONE::
+yo ==he sido crucificado==
 
-##### Esto abre el \scripture{sino}.
+::CONTRASTE::
+[y] ya no ==vivo==
 
-###### El texto no solo niega; contrasta con un resultado positivo.
+[S: yo → Cristo]
+::CONTRASTE::
+[sino] Cristo ==vive== en mí
 
-#### sino un hacedor eficaz,
-##### El texto da el contraste: no oidor-que-olvida, sino hacedor.
+[S: Cristo → yo]
+::EXPONE::
+==vivo== en la fe
 
-###### \scripture{sino} pone el otro lado del contraste.  
+[ SECCIÓN 2 ]
 
-###### \scripture{hacedor} retoma el mandato de 1:22.  
+::EXPONE::
+no ==hago== nula la gracia [M]
 
-###### \scripture{eficaz} califica el hacer: no solo \scripture{hace algo}, sino que el hacer corresponde al objetivo del pasaje.
+[S: yo → Cristo]
+::RESULTADO::
+[entonces] Cristo ==murió== en vano
+```
 
-##### Esto empuja al resultado final del versículo.
+## DEFINICIÓN OPERATIVA
 
-###### El texto cerrará con una declaración de resultado \scripture{será bienaventurado…}.
+###### Sección continua = conjunto de cláusulas sin ruptura estructural  
 
-#### este será bienaventurado en lo que hace.
-##### El texto declara el resultado para el caso que permanece y hace.
+###### Ruptura = presencia de [M]  
 
-###### \scripture{este será} conecta el resultado con el caso descrito (no con otro).  
+## REGLA DE CONTROL
 
-###### \scripture{bienaventurado} ya apareció en 1:12. Aquí vuelve como evaluación declarada dentro del bloque de \scripture{palabra → respuesta} (Santiago 1:12; Santiago 1:25).
+###### Debes poder señalar:
+- dónde empieza una sección  
+- dónde termina  
+- qué marca el cambio ([M])  
 
-##### Esto cierra la ilustración y prepara 1:26–27.
+👉 Si no hay [M], no hay nueva sección  
 
-###### 1:26–27 pasará a un nuevo caso \scripture{Si alguien se cree religioso…}, pero mantendrá la misma presión: respuesta visible vs autoengaño (Santiago 1:26–27).
+👉 Aunque el sujeto cambie  
+👉 Aunque haya contraste  
+👉 Aunque el contenido avance  
 
-### Santiago 1:26  
-Si alguien se cree religioso, pero no refrena su lengua, sino que engaña a su propio corazón, la religión del tal es vana.
+❗ Sin [M], no divides  
 
-#### Si alguien se cree religioso
-##### El texto abre un caso y lo pone en el plano de \scripture{cómo se considera uno}.
+## ACLARACIONES IMPORTANTES
 
-###### \scripture{Si alguien…} abre un caso general, como en 1:23. No nombra a una persona específica; describe un patrón posible.  
+###### ❗ Las etiquetas no determinan la sección  
+👉 Solo describen cada cláusula  
 
-###### \scripture{se cree religioso} pone el punto en la autoevaluación: lo que alguien piensa de sí mismo.
+###### ❗ [S] no determina la sección  
+👉 Solo muestra cambios dentro de la sección  
 
-##### Esto continúa el hilo de 1:22–25.
+###### ❗ Solo [M] delimita  
+👉 Es el único criterio válido  
 
-###### En 1:22 el texto habló de \scripture{autoengaño}. Aquí vuelve a un caso donde la percepción propia es central (Santiago 1:22; Santiago 1:26).
+## ERRORES COMUNES
 
-#### pero no refrena su lengua, sino que engaña a su propio corazón,
-##### El texto muestra cómo se ve ese caso en algo observable y luego nombra el problema interno.
+##### ❌ Crear secciones por “sentido”  
 
-###### \scripture{pero} marca contraste dentro del mismo caso.  
+##### ❌ Usar etiquetas para dividir  
 
-###### \scripture{no refrena su lengua} pone un criterio visible: control del habla. No es abstracto; se puede observar.
+##### ❌ Usar cambios de sujeto para dividir  
 
-##### El texto añade una alternativa con \scripture{sino}.
+##### ❌ Forzar divisiones donde no hay [M]  
 
-###### \scripture{sino que engaña…} no solo dice \scripture{falla}; describe el fallo como \scripture{engaño} y lo ubica \scripture{a su propio corazón}.  
+##### ❌ Suponer ruptura sin evidencia en el griego  
 
-###### Esto reentra con el hilo de advertencia del capítulo: \scripture{no se engañen} (Santiago 1:16) y \scripture{se engañan a sí mismos} (Santiago 1:22).
+## FRASE CLAVE
+> “No divido el texto.  
+> 👉 Sigo las rupturas que el griego muestra.”
 
-##### Esto también prepara un tema que el libro ampliará después.
+## QUÉ DEBES NOTAR
 
-###### La \scripture{lengua} aquí aparece como prueba; más adelante habrá un bloque entero sobre la lengua (Santiago 3:1–12).
+###### Cuando lo haces bien:
 
-#### la religión del tal es vana.
-##### El texto cierra el caso con una evaluación directa.
+- el texto permanece continuo la mayor parte del tiempo  
+- las divisiones son pocas y claras  
+- no necesitas explicar nada  
+- la estructura se mantiene estable  
 
-###### El caso \scripture{si… pero… sino…} termina en veredicto: \scripture{es vana}.  
+## TRANSICIÓN
 
-###### El texto no deja el caso abierto; lo cierra con una palabra de evaluación.
+###### En el siguiente paso:
 
-##### Esto empuja al versículo siguiente.
+👉 verificarás si el texto continúa en los siguientes versículos  
+👉 sin reiniciar el proceso  
 
-###### Santiago 1:27 responderá con el contraste: no \scripture{vana}, sino \scripture{pura y sin mancha}, y lo definirá con acciones.
+👉 Aquí delimitas  
+👉 luego extiendes
 
-### Santiago 1:27  
-La religión pura y sin mancha delante de nuestro Dios y Padre es esta: visitar a los huérfanos y a las viudas en sus aflicciones, y guardarse sin mancha del mundo.
+# PASO 11 — EXTENDER LA CONTINUIDAD
 
-###### (Referencias cruzadas: Proverbios 10:19; Proverbios 18:21)
+## EJECUTA
 
-#### La religión pura y sin mancha delante de nuestro Dios y Padre
-##### El texto presenta la contraparte positiva del v.26.
+##### ¿Qué haces?
+###### Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciendo.
 
-###### 1:26 terminó con \scripture{es vana}. 1:27 comienza con \scripture{pura y sin mancha}. El contraste es directo (Santiago 1:26–27).  
+##### REGLA CLAVE
+###### ❗ No inicias algo nuevo
+👉 Solo verificas si el desarrollo continúa  
 
-###### \scripture{delante de nuestro Dios y Padre} coloca la definición en un marco de referencia explícito \scripture{delante de…}.
+##### REGLA FUNDAMENTAL
 
-##### El texto no se queda en adjetivos solamente.
+###### ❗ El texto continúa mientras no cambie su desarrollo
+👉 No usas contenido  
+👉 No usas intuición  
+👉 Trabajas con lo ya observado (estructura + etiquetas)  
 
-###### Enseguida dirá \scripture{es esta}, o sea: dará contenido concreto.
+## CÓMO HACERLO
 
-#### es esta: visitar a los huérfanos y a las viudas en sus aflicciones,
-##### El texto define la \scripture{religión} con una acción hacia otros en presión.
+1. Comienza desde el bloque identificado (Paso 10)
 
-###### \scripture{es esta} introduce definición: lo que sigue es la forma concreta que el texto pone como referencia.  
+2. Avanza línea por línea
 
-###### \scripture{visitar} es acción observable.  
+3. En cada línea verifica:
 
-###### \scripture{huérfanos} y \scripture{viudas} son grupos nombrados.  
+### 1. ¿La etiqueta sigue en el mismo tipo de desarrollo?
+- ✔ Sí → continúa  
+- ❌ No → posible cierre  
 
-###### \scripture{en sus aflicciones} ubica la acción en un contexto de presión, no en un escenario ideal.
+### 2. ¿El texto sigue haciendo lo mismo?
+- ✔ Sí → continúa  
+- ❌ No → detente  
 
-##### Esto mantiene el hilo del capítulo.
+### 3. ¿Se puede leer junto sin forzar?
+- ✔ Sí → continúa  
+- ❌ No → detente  
 
-###### El capítulo comenzó hablando de presiones/pruebas; aquí la definición incluye actuar en el contexto de aflicción (Santiago 1:2; Santiago 1:27).
+## REGLA CRÍTICA
 
-#### y guardarse sin mancha del mundo.
-##### El texto añade un segundo componente: guardarse.
+###### ❗ La extensión termina cuando el desarrollo cambia
+👉 No necesitas otra razón  
+👉 No necesitas interpretar  
 
-###### \scripture{y} añade otro elemento a la definición; no es un apéndice menor.  
+## RESULTADO ESPERADO
 
-###### \scripture{guardarse} vuelve el foco hacia la propia persona (no solo hacia otros).  
+```
+::EXPONE::
+yo ==pude== hablar
+yo ==di== leche
 
-###### \scripture{sin mancha} repite el lenguaje del inicio del versículo y cierra la definición con la misma idea.
+::RAZÓN::
+no ==podían==
+```
 
-##### Esto cierra el bloque 1:19–27 y prepara 2:1.
+👉 La extensión se detiene cuando el desarrollo cambia  
 
-###### 1:19–22 habló de oír/hacer y de autoengaño.  
+## IMPORTANTE
 
-###### 1:23–25 lo ilustró con espejo/permanecer.  
+###### ❗ No extiendes más allá de lo natural
+👉 No fuerzas continuidad  
+👉 No unes desarrollos distintos  
 
-###### 1:26–27 cierra con evaluación y definición en términos observables (lengua; acciones).  
+###### ❗ No cortas antes de tiempo
+👉 Continúas mientras el desarrollo se mantenga  
 
-###### 2:1 abrirá un escenario comunitario \scripture{no tengan… favoritismo}, donde lo visible en la vida comunitaria será puesto bajo presión (Santiago 2:1).
+## ENTIENDE
 
-> En Síntesis
->- Anclas trabajadas: Santiago 1:24, Santiago 1:25, Santiago 1:26, Santiago 1:27.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+##### Qué estás haciendo realmente
+###### Estás verificando hasta dónde el texto sigue en el mismo desarrollo.
 
-<!-- @quiz santiago-1-1-27 -->
+##### PRINCIPIO CLAVE
+###### La extensión dura mientras el texto continúa haciendo lo mismo.
 
-# SANTIAGO 2:1–26 - LO INTERIOR SE HACE VISIBLE EN LA VIDA EN COMUNIDAD
+##### IDEA CLAVE
+###### No decides el límite  
+###### 👉 lo muestra el cambio de desarrollo  
 
-## Santiago 2:1–13 - El favoritismo deja ver una valoración torcida
+## ERROR COMÚN
 
-### Santiago 2:1  
-Hermanos míos, no tengan su fe en nuestro glorioso Señor Jesucristo con una actitud de favoritismo.
+- Extender por parecido superficial  
+- Cortar por intuición  
+- Forzar continuidad  
+- Ignorar cambios reales  
 
-#### Hermanos míos,
-##### El texto vuelve a hablar de frente a los destinatarios.
+👉 ❌ Incorrecto  
 
-###### No es una frase general para \scripture{cualquiera}. Es una instrucción dirigida a \scripture{hermanos}.
+##### CORRECTO
+- Verificas continuidad  
+- Te detienes cuando cambia  
+- Respetas el desarrollo  
 
-###### Esto mantiene el tono de carta: Santiago no solo informa, exhorta.
+## FRASE CLAVE
+> “La extensión dura mientras el desarrollo no cambia.”
 
-#### no tengan su fe
-##### Aquí el texto pone un \scripture{no} claro desde el principio.
+## QUÉ DEBES NOTAR
 
-###### No está describiendo lo que ellos hacen; está prohibiendo una forma de llevar la fe.
+###### Ahora puedes ver:
+- hasta dónde el texto continúa  
+- dónde el desarrollo cambia  
+- el punto donde debes detenerte  
 
-###### Esto abre un bloque que va a ser probado con un ejemplo concreto en los versículos que siguen.
+## TRANSICIÓN
 
-#### en nuestro glorioso Señor Jesucristo
-##### El texto nombra el centro de esa fe.
+###### En el siguiente paso:
+👉 reconocerás dónde la extensión se detiene  
+👉 delimitarás la unidad  
 
-###### No dice simplemente \scripture{fe} en general. La fe está nombrada en relación con una persona específica.
+###### Aquí verificas continuidad  
+###### 👉 luego identificas el cierre
 
-###### Esto prepara el contraste: lo que se hace \scripture{en esa fe} no puede ir mezclado con favoritismo.
 
-#### con una actitud de favoritismo.
-##### El texto nombra el problema con una palabra específica.
+# PASO 12 — DELIMITAR LA UNIDAD
 
-###### No lo deja implícito. Lo llama \scripture{favoritismo}.
+## EJECUTA
 
-###### La frase completa queda lista para ser demostrada por un escenario en el v.2: \scripture{Porque si… entra…}.
+##### ¿Qué haces?
+###### Delimitar la unidad identificando hasta dónde el texto desarrolla lo mismo.
 
-### Santiago 2:2  
-Porque si en su congregación entra un hombre con anillo de oro y vestido de ropa lujosa, y también entra un pobre con ropa sucia,
+##### REGLA CLAVE
 
-#### Porque
-##### El texto da la razón y entra en demostración.
+###### ❗ Trabajas únicamente con:
+- la extensión verificada (Paso 11)  
+- el tronco (Paso 8)  
+- las etiquetas (Paso 9)  
 
-###### \scripture{Porque} indica que lo que sigue explica y sostiene el mandato del v.1.
+👉 No usas contenido  
+👉 No usas interpretación temprana  
 
-###### El texto no se queda en una regla; ahora la pone a prueba con un caso.
+##### REGLA FUNDAMENTAL
 
-#### si en su congregación
-##### El escenario se ubica en un lugar real de reunión.
+###### ❗ La unidad se define donde la extensión deja de ser natural
 
-###### No es un ejemplo abstracto. Es \scripture{en su congregación}.
+👉 Comienza donde inicia el desarrollo  
+👉 Termina donde ese desarrollo cambia  
 
-###### Esto hace que el problema sea visible: se puede ver cómo se trata a la gente cuando llega.
+## CÓMO HACERLO
 
-#### entra un hombre
-##### El caso empieza con una entrada concreta.
+1. Toma el texto extendido (Paso 11)
 
-###### El texto introduce una persona que llega.
+2. Identifica su inicio
+👉 Ahí comienza la unidad  
 
-###### Todavía no hay evaluación; primero se instala el hecho observable: \scripture{entra}.
+3. Sigue línea por línea
 
-#### con anillo de oro
-##### Se describe al primero por señales visibles.
+4. Detente cuando ocurra:
+👉 cambio en lo que el texto está haciendo  
 
-###### El texto no dice \scripture{rico} todavía; muestra señales externas que cualquiera puede notar.
+5. Marca ese punto
+👉 Ahí termina la unidad  
 
-###### Esto prepara el punto: la reacción que viene después se basa en lo visible.
+## REGLA CRÍTICA
 
-#### y vestido de ropa lujosa,
-##### Se acumulan señales externas para el mismo hombre.
+###### ❗ La unidad termina cuando el desarrollo cambia
+👉 No necesitas otra razón  
+👉 No necesitas evaluar contenido en profundidad  
 
-###### \scripture{y} añade otra marca visible.
+## RESULTADO ESPERADO
 
-###### El texto construye un contraste por apariencia antes de hablar de la respuesta de la congregación.
+```
+[INICIO]
+::EXPONE::
+yo ==pude== hablar
+yo ==di== leche
 
-#### y también entra un pobre
-##### El texto introduce el segundo polo del contraste.
+::RAZÓN::
+no ==podían==
+[FIN]
+```
 
-###### \scripture{y también} hace paralelo con el primer \scripture{entra}.
+👉 La unidad se mantiene mientras el desarrollo continúa  
 
-###### El texto nombra la condición del segundo como \scripture{pobre}, no solo por apariencia.
+## IMPORTANTE
 
-#### con ropa sucia,
-##### Se describe al segundo por señales visibles también.
+###### ❗ No fuerzas extensión
+👉 Si no continúa naturalmente, te detienes  
 
-###### Así como el primero fue descrito por \scripture{anillo} y \scripture{ropa lujosa}, este es descrito por \scripture{ropa sucia}.
+###### ❗ No cortas antes de tiempo
+👉 Continúas mientras el desarrollo se mantenga  
 
-###### El texto todavía no ha mostrado la reacción. Eso viene en los versículos siguientes.
+## ENTIENDE
 
-### Santiago 2:3  
-y dan atención especial al que lleva la ropa lujosa, y dicen: «Siéntese aquí, en un buen lugar»; y al pobre dicen: «Tú estate allí de pie, o siéntate junto a mi estrado»;
+##### Qué estás haciendo realmente
+###### Estás reconociendo dónde el texto completa un desarrollo.
 
-#### y dan atención especial al que lleva la ropa lujosa,
-##### El texto ahora muestra la respuesta de la congregación al primer hombre.
+##### PRINCIPIO CLAVE
 
-###### En 2:2 solo se describió quién entra. Aquí se describe lo que hacen cuando lo ven.
+###### La unidad no se define por contenido  
+###### 👉 se define por continuidad de desarrollo  
 
-###### La \scripture{atención especial} es la primera señal visible de favoritismo. No es teoría; es conducta.
+##### IDEA CLAVE
+###### No decides el límite  
+###### 👉 lo muestra el cambio en el desarrollo  
 
-#### y dicen: «Siéntese aquí, en un buen lugar»;
-##### El favoritismo se vuelve explícito con palabras.
+## ERROR COMÚN
 
-###### No solo hay trato distinto; hay una orden verbal que le asigna un lugar.
+- Cortar por sentido superficial  
+- Extender por intuición  
+- Ignorar cambio real de desarrollo  
+- Usar contenido como criterio principal  
 
-###### El texto pone la frase en boca de ellos para que el lector la oiga tal como suena.
+👉 ❌ Incorrecto  
 
-#### y al pobre dicen:
-##### El texto hace el contraste directo con el segundo hombre.
+##### CORRECTO
+- Verificas continuidad  
+- Te detienes cuando cambia  
+- Respetas el desarrollo completo  
 
-###### \scripture{y al pobre} retoma el segundo polo introducido en 2:2.
+## FRASE CLAVE
+> “La unidad dura mientras el desarrollo no cambia.”
 
-###### La misma acción se repite \scripture{dicen}, pero el contenido cambia.
+## QUÉ DEBES NOTAR
 
-#### «Tú estate allí de pie,
-##### Al segundo se le asigna una posición inferior.
+###### Ahora puedes ver:
+- dónde comienza el desarrollo  
+- dónde termina naturalmente  
+- cómo el texto se organiza en unidades completas  
 
-###### La frase contrasta con \scripture{un buen lugar}. Aquí no hay \scripture{buen lugar}; hay \scripture{de pie}.
+## TRANSICIÓN
 
-###### El texto hace que el contraste sea visible en una sola escena.
+###### En el siguiente paso:
+👉 expresarás la acción del tronco  
+👉 usando la unidad delimitada  
 
-#### o siéntate junto a mi estrado»;
-##### Incluso la alternativa sigue siendo baja.
+###### Aquí reconoces el cierre  
+###### 👉 luego expresas
 
-###### Aunque hay una opción de \scripture{sentarse}, no es un lugar de honor. Es \scripture{junto a mi estrado}.
+# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
 
-###### El versículo termina con \scripture{;} y deja la escena lista para la evaluación del v.4.
+## EJECUTA
 
-### Santiago 2:4  
-¿acaso no han hecho distinciones entre ustedes mismos, y han venido a ser jueces con malos pensamientos?
+##### ¿Qué haces?
+###### Escribes una sola oración que expresa la acción del tronco dentro de la unidad delimitada.
 
-###### (Referencias cruzadas: Romanos 2:11. Nota de referencia: Romanos 3:28)
+##### REGLA CLAVE
 
-#### ¿acaso no han hecho distinciones entre ustedes mismos,
-##### El texto pasa del ejemplo a una pregunta que acusa.
+###### ❗ Trabajas únicamente con:
+- el tronco (Paso 8)  
+- la unidad delimitada (Paso 12)  
 
-###### No pregunta para aprender; pregunta para exponer lo que acaba de mostrar.
+👉 No usas contenido externo  
+👉 No usas interpretación  
 
-###### \scripture{distinciones} nombra lo que la escena significa: separar, clasificar, preferir.
+##### REGLA FUNDAMENTAL
 
-#### y han venido a ser jueces con malos pensamientos?
-##### El texto describe el resultado interno de esa conducta.
+###### ❗ La oración debe salir directamente del tronco
+👉 Cada elemento debe poder señalarse en las cláusulas  
+👉 No añades contenido  
+👉 No completas ideas  
 
-###### \scripture{han venido a ser jueces} dice que ese trato distinto los coloca en un rol.
+##### ESTRUCTURA DE LA ORACIÓN
+```
+[Autor] + [verbo permitido] + [contenido del tronco]
+```
 
-###### \scripture{con malos pensamientos} no es apariencia; es diagnóstico de lo que está detrás del juicio dentro de la escena.
+##### VERBOS PERMITIDOS
+```
+expone   afirma   declara   muestra   contrasta
+```
 
-##### Esto empuja al v.5.
+## CÓMO HACERLO
 
-###### El v.5 empieza con \scripture{Hermanos… escuchen} y abrirá razones que sostienen esta acusación.
+1. Toma el tronco dentro de la unidad (Paso 12)
 
-### Santiago 2:5  
-Hermanos míos amados, escuchen: ¿No escogió Dios a los pobres de este mundo para ser ricos en fe y herederos del reino que Él prometió a los que lo aman?
+2. Léelo de principio a fin
 
-#### Hermanos míos amados,
-##### Santiago vuelve a hablar con cercanía antes de corregir.
+3. Recorre todas las cláusulas del tronco
+👉 No seleccionas  
+👉 Incluyes todas las acciones presentes
 
-###### No es un discurso frío. Es una corrección dentro de relación.
+4. Construye una sola oración:
+- usando un verbo permitido  
+- manteniendo el contenido del tronco  
+- respetando la secuencia del texto  
 
-###### Marca que lo que sigue es para ellos, no para \scripture{otros}.
+## RESULTADO ESPERADO
 
-#### escuchen:
-##### El texto exige atención porque va a dar una razón fuerte.
+###### Tronco:
 
-###### La corrección que sigue no depende de impresiones, sino de un punto que Santiago quiere que vean.
+```
+no ==pude== hablarles
 
-#### ¿No escogió Dios a los pobres de este mundo
-##### Pregunta que pone a Dios como referencia.
+les ==di==
 
-###### \scripture{¿No…?} empuja al lector a reconocer algo (no a debatir un detalle pequeño).
+no ==podían==
+```
 
-###### \scripture{escogió} instala una acción de Dios como razón para reevaluar al \scripture{pobre} del ejemplo.
+###### Resultado:
 
-#### para ser ricos en fe
-##### El texto redefine \scripture{rico/pobre} en otro plano.
+```
+Pablo expone que no pudo hablarles, que les dio, y que no podían.
+```
 
-###### El pobre del escenario (2:2–3) es llamado \scripture{rico} aquí, pero en un sentido distinto.
+## REGLA CRÍTICA
 
-###### Esto confronta la lectura por apariencia: lo que ellos ven no es el único criterio en el texto.
+###### ❗ No introduces información nueva
+👉 Si no está en el tronco, no entra  
 
-#### y herederos del reino
-##### Se añade una segunda identidad/resultado para el mismo grupo.
+###### ❗ No cambias la acción
+👉 Mantienes los verbos  
+👉 Mantienes el orden  
 
-###### El texto acumula dos descriptores: \scripture{ricos en fe} y \scripture{herederos}.
+## IMPORTANTE
 
-###### Mantiene la misma línea: reevaluación del pobre.
+###### ❗ Es una sola oración
 
-#### que Él prometió a los que lo aman?
-##### El argumento se amarra a promesa y a destinatarios definidos.
+👉 No divides  
+👉 No agregas explicaciones  
 
-###### \scripture{prometió} introduce el lenguaje de promesa.
+###### ❗ No usas lenguaje interpretativo
 
-###### \scripture{a los que lo aman} delimita el grupo objetivo de la promesa (no se deja indefinido).
+❌ “esto enseña…”  
+❌ “esto significa…”  
+❌ “parece que…”  
 
-##### Esto empuja al v.6.
+## ENTIENDE
 
-###### El v.6 empezará con \scripture{Pero ustedes…} y mostrará la contradicción práctica.
+##### Qué estás haciendo realmente
+###### Estás expresando la acción completa del texto en una sola línea.
 
-### Santiago 2:6  
-Pero ustedes han despreciado al pobre. ¿No son los ricos los que los oprimen y personalmente los arrastran a los tribunales?
+##### PRINCIPIO CLAVE
+###### El tronco ya contiene la acción  
+###### 👉 aquí solo la haces explícita  
 
-#### Pero ustedes han despreciado al pobre.
-##### El texto declara el choque entre lo que hicieron y lo que acaban de oír.
+##### IDEA CLAVE
+###### No creas la acción  
+###### 👉 la reproduces de forma controlada  
 
-###### \scripture{Pero ustedes} pone responsabilidad directa.
+## ERROR COMÚN
+- Agregar ideas externas  
+- Cambiar los verbos  
+- Alterar el orden  
+- Explicar en lugar de declarar  
 
-###### \scripture{despreciado} nombra su acción hacia el pobre; conecta con la escena del 2:3.
+👉 ❌ Incorrecto  
 
-#### ¿No son los ricos los que los oprimen
-##### Pregunta que añade evidencia práctica.
+##### CORRECTO
+- Usas solo el tronco  
+- mantienes las acciones  
+- produces una sola oración  
 
-###### El texto cambia de \scripture{cómo los trataron} a \scripture{qué hacen ellos}.
+## FRASE CLAVE
+> “No agrego nada.  
+> Solo expreso lo que el tronco ya hace.”
 
-###### \scripture{oprimen} describe acción concreta: no es un adjetivo; es conducta.
+## REGLA DE CONTROL
 
-#### y personalmente los arrastran a los tribunales?
-##### La evidencia se intensifica con un ejemplo específico.
+###### Cada parte de la oración debe poder señalarse en el tronco
+👉 Si no puedes señalarla → está incorrecta  
 
-###### \scripture{personalmente} hace el daño más directo.
+## QUÉ DEBES NOTAR
 
-###### \scripture{tribunales} trae el conflicto al terreno público/legal (no solo social).
+###### Ahora puedes ver:
+- la acción completa del texto  
+- el desarrollo como una unidad  
+- la dirección final del pasaje  
 
-##### Esto lleva al v.7.
+## TRANSICIÓN
 
-###### El v.7 añadirá una razón más sobre los \scripture{ricos} en forma de pregunta.
+###### Aquí termina el proceso ROOTS
 
-### Santiago 2:7  
-¿No blasfeman ellos el buen nombre por el cual ustedes han sido llamados?
+👉 Ya tienes:
 
-###### (Referencias cruzadas: Lucas 6:20–26; Salmo 10:2–9)
+- estructura  
+- comportamiento  
+- patrones  
+- unidad  
+- acción  
 
-#### ¿No blasfeman ellos el buen nombre
-##### Otra pregunta que agrega peso al argumento.
+👉 El texto quedó completamente observado
 
-###### Continúa el patrón: preguntas que exponen lo obvio según Santiago.
+# CONCLUSIONES DE LOS PASOS 1–13
 
-###### \scripture{blasfeman} describe una acción de palabra contra \scripture{el buen nombre}.
+## CONTEXTO DEL TEXTO
 
-#### por el cual ustedes han sido llamados?
-##### El texto conecta ese \scripture{nombre} con la identidad de los destinatarios.
+### ¿Qué haces?
+###### Estableces el marco completo del texto que vas a observar.
 
-###### \scripture{ustedes han sido llamados} ubica a los lectores en relación con ese nombre.
+### Definición
+###### Contexto = la unidad + su desarrollo + su acción.
 
-###### Esto agrava la contradicción: favorecer a quienes hablan mal del nombre ligado a ustedes.
+### Cómo hacerlo
 
-##### Esto introduce al v.8.
-###### El v.8 moverá el argumento hacia \scripture{ley} y \scripture{Escritura}.
+1. Toma la unidad delimitada (Paso 12)
 
-### Santiago 2:8  
-Si en verdad ustedes cumplen la ley real conforme a la Escritura: «AMARÁS A TU PRÓJIMO COMO A TI MISMO», bien hacen.
+2. Toma la acción del texto (Paso 13)
 
-#### Si en verdad ustedes cumplen la ley real conforme a la Escritura:
-##### El texto introduce una condición que apela a una norma escrita.
+3. Toma los movimientos internos del texto
 
-###### \scripture{Si en verdad} pone a prueba la afirmación de que ellos están actuando bien.
+### Resultado
+###### Sabes:
+- qué texto estás observando
+- cómo se desarrolla
+- qué está haciendo
 
-###### \scripture{ley real} y \scripture{Escritura} nombran un estándar externo, no una preferencia personal.
+### Principio clave
+###### El contexto no se añade.
 
-#### «AMARÁS A TU PRÓJIMO COMO A TI MISMO»,
-##### La norma se cita de forma directa.
+###### El contexto se establece a partir del texto mismo.
 
-###### El texto no la resume; la coloca tal cual como referencia.
+### Frase clave
+> “Observo cada parte dentro de la unidad que el texto define.”
 
-###### El contenido citado es relacional: cómo tratar al prójimo.
+## H1 — UNIDAD PRINCIPAL
 
-#### bien hacen.
-##### El texto concede el punto bajo esa condición.
+### ¿Qué haces?
+###### Nombras la unidad completa del texto.
 
-###### Si cumplen eso, \scripture{bien hacen}.
+### Cómo hacerlo
 
-###### Esto prepara el contraste inmediato: el v.9 dirá qué pasa si hacen lo contrario (favoritismo).
+1. Toma la referencia (Paso 12)
 
-### Santiago 2:9  
-Pero si muestran favoritismo, cometen pecado y son hallados culpables por la ley como transgresores.
+2. Toma la oración del Paso 13
 
-#### Pero si muestran favoritismo,
-##### El texto pone el caso opuesto y lo nombra con la misma palabra del 2:1.
+3. Reduce la oración sin añadir ideas
 
-###### \scripture{Pero si} marca contraste con el \scripture{si en verdad…} del v.8.
+### Resultado esperado
 
-###### \scripture{favoritismo} conecta con el mandato inicial: \scripture{no… con favoritismo} (Santiago 2:1).
+```
+Referencia
+Título
+```
 
-#### cometen pecado
-##### El texto no lo deja como \scripture{error social}; lo llama \scripture{pecado}.
+### Ejemplo
 
-###### Es un veredicto directo, sin ilustración nueva aquí.
+```
+Gálatas 2:1–21  
+Pablo expone su interacción con otros y declara la justificación por la fe y su condición en Cristo.
+```
 
-###### La palabra \scripture{pecado} funciona como evaluación.
+### Regla
+###### El título debe salir del texto.
 
-#### y son hallados culpables por la ley como transgresores.
-##### El texto lleva el veredicto al terreno de \scripture{ley}.
+###### No añade ideas.
 
-###### \scripture{culpables} es lenguaje de juicio.
+###### No interpreta.
 
-###### \scripture{por la ley} conecta con el estándar introducido en 2:8.
+### Regla de reducción
+##### El título (H1) es una versión reducida del Paso 13.
+##### Conserva la acción principal
+##### Elimina los desarrollos internos
 
-###### \scripture{como transgresores} nombra el resultado final: quedan clasificados como los que rompen.
+### Principio clave
+###### El título resume la acción del texto.
 
-##### Esto empuja al v.10.
+### Errores comunes
+- añadir explicación
+- introducir teología
+- usar lenguaje no presente
 
-###### El v.10 empezará con \scripture{Porque} y explicará la lógica de culpabilidad.
+### Frase clave
+> “Nombró la unidad según lo que el texto hace.”
 
-### Santiago 2:10  
-Porque cualquiera que guarda toda la ley, pero falla en un punto, se ha hecho culpable de todos.
+## H2 — MOVIMIENTOS INTERNOS
 
-#### Porque cualquiera que guarda toda la ley,
-##### El texto explica el veredicto anterior con una regla general.
+### ¿Qué haces?
+###### Identificas y nombras los grupos dentro de la unidad.
 
-###### \scripture{Porque} indica razón para 2:9.
+### Cómo hacerlo
 
-###### \scripture{cualquiera} amplía: es una regla general, no solo para un caso.
+1. Toma el tronco (Paso 8)
 
-#### pero falla en un punto,
-##### La regla se define por una excepción mínima.
+2. Observa los cortes naturales:
+- cambios de sujeto (O1)
+- cambios de desarrollo
 
-###### \scripture{pero} introduce el punto de tensión: guardar todo, fallar en uno.
+3. Agrupa las cláusulas que se mantienen juntas
 
-###### \scripture{en un punto} reduce el fallo a lo mínimo para mostrar el principio.
+4. Asigna referencia a cada grupo
 
-#### se ha hecho culpable de todos.
-##### El texto declara el resultado total.
+5. Nombra cada grupo desde el texto
 
-###### No dice \scripture{culpable de ese punto}. Dice \scripture{culpable de todos}.
+### Resultado esperado
 
-###### Esta frase funciona como cierre fuerte del principio.
+```
+Referencia   Título
+```
 
-##### Esto empuja al v.11.
-###### El v.11 dará un ejemplo con mandamientos concretos.
+##### Ejemplo
 
-### Santiago 2:11  
-Pues el que dijo: «NO COMETAS ADULTERIO», también dijo: «NO MATES». Ahora bien, si tú no cometes adulterio, pero matas, te has convertido en transgresor de la ley.
+```
+2:1–2   Subida y exposición  
+2:3–10  Interacción  
+2:11–13 Confrontación  
+2:14    Declaración  
+2:15–16 Justificación  
+2:17–21 Condición en Cristo
+```
 
-#### Pues el que dijo: «NO COMETAS ADULTERIO»,
-##### El texto apoya el principio con una fuente única.
+### Regla
+###### Los grupos no se inventan.
 
-###### \scripture{Pues} mantiene el argumento como explicación.
+###### Se observan en el desarrollo.
 
-###### \scripture{el que dijo} apunta a un mismo dador de mandamientos, y luego cita uno.
+### Principio clave
+###### H2 muestra cómo se mueve el texto dentro de la unidad.
 
-#### también dijo: «NO MATES».
-##### Se añade un segundo mandamiento del mismo dador.
+### Errores comunes
+- agrupar por tema
+- dividir demasiado
+- usar títulos interpretativos
 
-###### \scripture{también} refuerza que es el mismo que dijo ambos.
+### Frase clave
+> “Agrupo lo que el texto mantiene unido.”
 
-###### El texto acumula dos ejemplos claros.
+## RESULTADO FINAL
 
-#### Ahora bien, si tú no cometes adulterio,
-##### El texto crea un caso hipotético para aplicar el principio.
+### Ahora tienes:
+- la unidad completa del texto
+- su desarrollo interno
+- su acción
+- su contexto establecido
 
-###### \scripture{Ahora bien} cambia a aplicación lógica dentro del argumento.
+### Estás listo para:
+- observar frase por frase
+- sin perder el desarrollo
+- sin interpretar
 
-###### \scripture{si tú…} individualiza el caso para que sea fácil de ver.
+# O₂ — OBSERVAR EL TEXTO
 
-#### pero matas,
-##### El caso se reduce a una sola falla.
+## INTRODUCCIÓN
 
-###### \scripture{pero} marca el contraste: cumple uno, falla en otro.
+##### Qué haces ahora
+###### Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.
 
-###### Es una forma de mostrar \scripture{falla en un punto} (2:10).
+##### Nivel de trabajo
+###### O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.
 
-#### te has convertido en transgresor de la ley.
-##### El texto repite el veredicto con lenguaje de clasificación.
+###### No observas ideas generales.
 
-###### \scripture{te has convertido} marca resultado: el caso termina con una identidad legal \scripture{transgresor}.
+###### No observas secciones completas.
 
-###### Esto sostiene el uso de \scripture{culpable} del v.10 y prepara el llamado del v.12.
+###### Observas una frase a la vez.
 
-### Santiago 2:12  
-Así hablen ustedes y así procedan, como los que han de ser juzgados por la ley de la libertad.
+##### Contexto
+###### Cada frase se observa dentro de:
+- la unidad (H1)
+- su movimiento (H2)
+- la acción del texto (Paso 13)
 
-#### Así hablen ustedes y así procedan,
-##### El texto convierte la lógica en instrucción de conducta.
+###### ❗ Nunca observas una frase aislada.
 
-###### \scripture{Así…} toma lo dicho (2:8–11) y lo vuelve dirección práctica.
+##### Propósito
+###### Ver exactamente lo que el texto dice, sin añadir significado.
 
-###### Une dos áreas: hablar y proceder. No es solo pensamiento; es habla y acción.
+##### Regla central
+###### No interpretas.
+###### No explicas.
+###### No completas.
 
-#### como los que han de ser juzgados por la ley de la libertad.
-##### El texto introduce horizonte de juicio.
+###### 👉 Solo observas lo que está presente.
 
-###### \scripture{han de ser juzgados} pone la vida bajo evaluación futura.
+## Naturaleza de esta fase
 
-###### \scripture{ley de la libertad} retoma el tema de ley, ahora con un nombre específico.
+##### Esta fase es diferente a los pasos anteriores.
+###### En los Pasos 1–13:
+- 👉 debías completar cada paso correctamente
+- 👉 no avanzabas sin haber terminado el anterior
 
-##### Esto empuja al v.13.
-###### El v.13 explicará cómo opera el juicio en relación con misericordia.
+###### En O₂:
+- 👉 no necesitas observar todo perfectamente
+- 👉 puedes avanzar mientras aprendes
 
-### Santiago 2:13  
-Porque el juicio será sin misericordia para el que no ha mostrado misericordia. La misericordia triunfa sobre el juicio.
+##### Principio clave
+###### La observación se desarrolla con la práctica.
 
-#### Porque el juicio será sin misericordia para el que no ha mostrado misericordia.
-##### El texto declara una regla de juicio en forma directa.
+###### No se exige perfección desde el inicio.
 
-###### \scripture{Porque} conecta con 2:12: explica el juicio mencionado.
+##### Cómo trabajar
+###### Estas categorías no son una lista obligatoria.
 
-###### El texto hace una correspondencia clara: no mostrar misericordia → juicio sin misericordia.
+###### Son herramientas para ayudarte a ver mejor el texto.
+- 👉 algunas serán claras de inmediato
+- 👉 otras se desarrollarán con el tiempo
 
-#### La misericordia triunfa sobre el juicio.
-##### El texto cierra el tramo con una frase final fuerte.
+##### Regla
+###### No te detienes por no ver todo.
 
-###### Es una declaración corta y completa.
+###### Avanzas observando lo que puedes ver con claridad.
 
-###### Funciona como cierre del argumento 2:8–13 y como bisagra antes del siguiente bloque (2:14–26), donde el texto abrirá otra exposición por preguntas.
+##### Frase clave
+>“Observo con precisión lo que puedo ver, y mejoro con la práctica.”
 
-> En Síntesis
->- Anclas trabajadas: Santiago 2:10, Santiago 2:11, Santiago 2:12, Santiago 2:13.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+## TRABAJAR CADA FRASE (H4)
 
-## Santiago 2:14–20 - La fe dicha, sin expresión visible, queda expuesta
+##### Qué haces
+###### Tomas una frase ancla (H4) y observas únicamente lo que está en el texto.
 
-### Santiago 2:14  
-¿De qué sirve, hermanos míos, si alguien dice que tiene fe, pero no tiene obras? ¿Acaso puede esa fe salvarlo?
+##### Regla
+###### No agregas significado
+###### No explicas
+###### No interpretas
 
-#### ¿De qué sirve, hermanos míos,
-##### Santiago abre este bloque con una pregunta de valor.
-###### No empieza con una definición. Empieza con \scripture{¿de qué sirve?}.
-###### La pregunta empuja a evaluar el caso por su provecho o resultado, no solamente por la afirmación que se hace.
-###### “hermanos míos” mantiene el tono directo de corrección dentro de la comunidad (Santiago 2:1; Santiago 2:5).
+###### 👉 Solo afirmas lo que el texto muestra
 
-#### si alguien dice que tiene fe,
-##### El texto fija el caso en lo que se dice.
-###### El punto de partida es una afirmación verbal: \scripture{dice que tiene…}.
-###### La frase queda lista para ser puesta bajo una escena visible (Santiago 2:15–16).
+##### PROCESO FIJO
+###### Para cada frase, puedes observar lo siguiente:
 
-#### pero no tiene obras?
-##### El texto instala el contraste dentro del mismo caso.
-###### \scripture{pero} marca choque: se afirma una cosa y falta otra.
-###### \scripture{no tiene obras} nombra la ausencia en términos que se pueden ver.
+##### 1. AFIRMACIÓN
+- 👉 ¿Qué afirma el texto?
+- 👉 Escríbelo sin cambiar palabras
 
-#### ¿Acaso puede esa fe salvarlo?
-##### Santiago avanza con una segunda pregunta.
-###### Cambia de \scripture{¿de qué sirve?} a \scripture{¿puede salvar?}.
-###### El texto estrecha el foco con \scripture{esa fe}: no pregunta por “fe” en abstracto, sino por la fe del caso descrito (Santiago 2:14).
-###### “esa fe” señala una clase específica dentro del argumento: la fe que aparece en palabras (“dice que tiene fe”) pero que, en el mismo caso, está marcada por ausencia (“no tiene obras”) (Santiago 2:14).
-###### Esto empuja a un ejemplo concreto y cotidiano. El v.15 empezará con \scripture{Si…} (Santiago 2:15).
+##### 2. SUJETO
+- 👉 ¿Quién realiza la acción?
+- 👉 ¿Está explícito o implícito?
 
-### Santiago 2:15  
-Si un hermano o una hermana no tienen ropa y carecen del sustento diario,
+##### 3. VERBO
+- 👉 ¿Qué acción ocurre?
+- 👉 ¿Cómo está expresada?
 
-#### Si un hermano o una hermana
-##### Santiago entra en un caso comunitario y real.
-###### No habla de personas en abstracto; habla de \scripture{hermano} y \scripture{hermana}.
-###### El caso se presenta para que cualquiera lo entienda cuando el v.16 complete la escena.
+##### 4. COMPLEMENTO
+- 👉 ¿Sobre qué recae la acción?
+- 👉 ¿Qué se menciona directamente?
 
-#### no tienen ropa
-##### Se describe una necesidad visible.
-###### La falta es concreta: ropa.
-###### No es un problema invisible; cualquiera lo puede notar.
+##### 5. RELACIÓN
+- 👉 ¿Cómo se conecta con la frase anterior?
+- 👉 Usa solo lo ya observado (Paso 8–9)
 
-#### y carecen del sustento diario,
-##### Se añade otra necesidad básica.
-###### \scripture{y} acumula la condición: no es solo ropa, también sustento.
-###### \scripture{diario} marca continuidad: no es una necesidad de un solo día.
-###### La frase queda abierta y espera el v.16.
+##### 6. REPETICIÓN
+- 👉 ¿Qué palabras o ideas aparecen otra vez?
 
-### Santiago 2:16  
-y uno de ustedes les dice: «Vayan en paz, caliéntense y sáciense», pero no les dan lo necesario para su cuerpo, ¿de qué sirve?
+##### 7. CONTRASTE
+- 👉 ¿Hay oposición directa con otra frase?
 
-#### y uno de ustedes les dice:
-##### El caso se vuelve personal dentro del grupo.
-###### “uno de ustedes” acerca el caso: sucede dentro de la comunidad.
-###### El texto mantiene el foco en el habla: \scripture{les dice…}.
-###### Esto conversa con 2:14, donde el caso también empezó con “dice” (Santiago 2:14; Santiago 2:16).
+##### 8. ÉNFASIS
+- 👉 ¿Qué está resaltado por:
+  - repetición
+  - contraste
+  - posición
+  - formulación?
 
-#### «Vayan en paz, caliéntense y sáciense»,
-##### El texto pone palabras completas, pero solo palabras.
-###### La frase suena como deseo bueno.
-###### El texto deja que el lector oiga la frase tal como es, antes de mostrar lo que falta.
+##### IMPORTANTE
+###### No todas las categorías aplican siempre.
+###### 👉 Solo observas lo que el texto permite ver.
 
-#### pero no les dan lo necesario para su cuerpo,
-##### Aquí está el contraste: palabras sin provisión.
-###### \scripture{pero} corta la escena: el problema no es lo que se dijo, sino lo que no se dio.
-###### “lo necesario” mantiene el caso en lo básico.
-###### “para su cuerpo” mantiene el caso en lo visible.
+##### RESULTADO
+###### Produces observaciones:
+- claras
+- breves
+- verificables en el texto
 
-###### Se puede verificar el punto del ejemplo.
-- ¿Hubo provisión o no hubo provisión?
+##### EJEMPLO (FORMATO)
 
-#### ¿de qué sirve?
-##### Santiago repite la misma pregunta del v.14.
-###### La re‑entrada es directa: \scripture{¿de qué sirve?} (Santiago 2:14; Santiago 2:16).
-###### El ejemplo no es un tema nuevo; es la misma pregunta puesta en escena.
-###### Esto empuja al veredicto del v.17.
+```
+Frase:
+yo ==di== leche
 
-### Santiago 2:17  
-Así también la fe por sí misma, si no tiene obras, está muerta.
+Observación:
+- sujeto: yo
+- verbo: di
+- complemento: leche
+- relación: continúa la acción anterior
+```
 
-#### Así también
-##### Santiago conecta el ejemplo con el caso principal.
-###### “Así también” es puente: lo visible del ejemplo ahora se aplica al caso de fe/obras.
+##### REGLA DE CONTROL
+###### Si explicas → te saliste
+###### Si agregas → te saliste
+###### Si interpretas → te saliste
 
-#### la fe por sí misma,
-##### Santiago nombra el tema y lo aísla.
-###### “por sí misma” pone la fe sola, separada, sin lo que el caso dijo que faltaba.
+###### Toda observación debe poder señalarse directamente en el texto.
 
-#### si no tiene obras,
-##### Se repite la condición del v.14 con las mismas piezas.
-###### “si” mantiene el formato de caso.
-###### “no tiene obras” retoma la ausencia nombrada en 2:14.
+###### ❗ Si no puedes subrayarlo, no es observación.
+###### ❗ Si requiere explicación, es interpretación.
 
-#### está muerta.
-##### Santiago cierra con un veredicto corto y final.
-###### No lo deja en pregunta. Aquí afirma: \scripture{está muerta}.
-###### El verbo está en presente (\scripture{está}): el texto lo presenta como estado del caso descrito.
-###### Esto cierra el primer movimiento (pregunta → escena → veredicto) y empuja al v.18, donde aparece el lenguaje de “mostrar” (Santiago 2:18).
+##### ERRORES COMUNES
+- explicar el texto
+- resumir
+- añadir ideas
+- usar lenguaje no presente
+- observar fuera del contexto
 
-### Santiago 2:18  
-Pero alguien dirá: «Tú tienes fe y yo tengo obras. Muéstrame tu fe sin las obras, y yo te mostraré mi fe por mis obras».
+##### QUÉ DEBES NOTAR
 
-#### Pero
-##### El texto gira el argumento con un \scripture{pero}.
+###### Ahora:
+- ves lo que el texto afirma
+- ves quién actúa
+- ves cómo avanza
+- ves qué repite
+- ves qué contrasta
 
-###### No se queda solo en el veredicto del v.17 \scripture{está muerta}.
+###### 👉 Estás viendo el contenido real del texto
 
-###### Ahora introduce otra voz para empujar la discusión hacia adelante.
+##### TRANSICIÓN
+###### Después de observar todas las frases:
+- 👉 tendrás el contenido completo
+- 👉 sin haber interpretado
+- 👉 listo para la siguiente fase
 
-#### alguien dirá:
-##### El texto mete un diálogo para hacer la tensión más clara.
+# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
 
-###### No presenta esto como teoría. Lo pone como conversación.
+## PUNTO DE PARTIDA DEL EJEMPLO
 
-###### Esto prepara frases cortas que contrastan \scripture{fe} y \scripture{obras} en forma directa.
+##### Este ejemplo asume que ya se han completado:
+- Pasos 1–13
+- Conclusiones (Contexto, H1, H2)
 
-#### Tú tienes fe
-##### Primer lado del contraste en el diálogo.
+###### ❗ La observación de lo que dice el texto no comienza desde cero.
+###### ❗ Comienza desde una estructura ya definido.
 
-###### El texto pone una afirmación simple en boca de alguien.
+## CONCLUSIONES DE LOS PASOS 1–13
 
-###### La frase suena completa por sí sola, pero no se deja así; se contrasta enseguida.
+## H1 — UNIDAD
 
-#### y yo tengo obras.
-##### Segundo lado del contraste, puesto frente al primero.
+```
+1 Corintios 3:1–4:21 Pablo expone la condición de los creyentes y su desarrollo.
+```
 
-###### \scripture{y} une las dos partes para que el contraste quede lado a lado.
+## H2 — MOVIMIENTOS INTERNOS
 
-###### El texto deja ver dos \scripture{posesiones} en paralelo: \scripture{tú tienes…} / \scripture{yo tengo…}.
+```
+3:1–4   Condición de los creyentes  
+3:5–9   Explicación del origen  
+3:10–15 Evaluación de la obra  
+3:16–23 Identidad del creyente  
+4:1–5   Responsabilidad  
+4:6–13  Contraste  
+4:14–21 Exhortación
+```
 
-#### Muéstrame tu fe
-##### El texto convierte la discusión en una prueba visible.
+## CONTEXTO
 
-###### Ya no es solo \scripture{decir} o \scripture{tener}.
+###### La frase se observa dentro de:
 
-###### \scripture{Muéstrame} pide evidencia que se pueda ver.
+- la unidad completa (3:1–4:21)
+- el movimiento inicial (3:1–4)
+- la acción del texto (Pablo expone la condición)
 
-#### sin las obras,
-##### El texto aprieta el punto: pide demostrar \scripture{fe} sin el elemento faltante.
+## O₂ — OBSERVAR EL TEXTO
 
-###### Esto retoma la tensión del v.14: \scripture{dice… pero no tiene obras} (Santiago 2:14).
+##### TEXTO — 1 CORINTIOS 3:1
+Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
 
-###### La frase fuerza la pregunta: ¿cómo se muestra \scripture{fe} sin obras?
+##### OBSERVACIÓN FRASE POR FRASE (H4)
 
-#### y yo te mostraré mi fe
-##### El texto responde con otra demostración.
+##### FRASE 1
 
-###### Se repite el verbo \scripture{mostrar}, pero ahora en primera persona.
+```
+Así que
+```
+- afirma: introduce consecuencia
+- relación: conecta con lo anterior
+- énfasis: inicio del desarrollo
 
-###### El diálogo se vuelve espejo: \scripture{muéstrame} / \scripture{yo te mostraré}.
+##### FRASE 2
 
-#### por mis obras.
-##### El texto cierra el contraste con la frase final.
+```
+yo
+```
+- afirma: sujeto explícito
+- sujeto: yo
+- relación: agente de la acción
 
-###### Aquí se declara el método: \scripture{por mis obras}.
+##### FRASE 3
 
-###### El punto del diálogo queda puesto: una demostración va ligada a obras.
+```
+hermanos
+```
+- afirma: destinatarios
+- relación: dirigido a ellos
+- tipo: vocativo
 
-##### El tema no es simplemente la existencia de obras. El tema es la posibilidad de mostrar la fe, \scripture{te mostraré mi fe por mis obras}. 
+##### FRASE 4
 
-##### Esto introduce el v.19.
-###### El v.19 traerá un ejemplo de \scripture{creer} que no resuelve el problema por sí solo (Santiago 2:19).
+```
+no pude hablarles
+```
+- afirma: yo no pude hablarles
+- sujeto: yo
+- verbo: pude
 
-### Santiago 2:19  
-Tú crees que Dios es uno. Haces bien; también los demonios creen, y tiemblan.
+- complemento: hablarles
+- relación: acción principal
 
-#### Tú crees
-##### El texto vuelve al interior en una frase corta.
+- morfología (apoyo):
+  - tiempo: pasado
+  - modo: indicativo
+  - voz: activa
+  - negación: no
+- énfasis: negación
 
-###### \scripture{Tú} vuelve a personalizar, como en el diálogo del v.18.
+##### FRASE 5
 
-###### \scripture{crees} conecta con \scripture{fe}, pero ahora en forma de \scripture{creer}.
+```
+como a espirituales
+```
+- afirma: hablar como a espirituales
+- relación: depende de “hablarles”
+- contraste: prepara oposición
 
-#### que Dios es uno.
-##### El contenido de la creencia se reduce a una afirmación clara.
+- repetición:
+  - “como a …”
 
-###### No es una lista larga. Es una frase breve.
+##### FRASE 6
 
-###### Esto prepara el contraste del resto del versículo: creer algo verdadero no es el cierre del argumento aquí.
+```
+sino como a carnales
+```
+- afirma: hablar como a carnales
+- relación: contrasta con “espirituales”
+- contraste:
+  - espirituales ↔ carnales
 
-#### Haces bien;
-##### El texto concede algo antes de contrastar.
+- repetición:
+  - “como a …”
 
-###### No dice: \scripture{eso está mal}.
+##### FRASE 7
 
-###### Dice: \scripture{bien}, pero no termina ahí.
+```
+como a niños en Cristo
+```
+- afirma: hablar como a niños en Cristo
+- relación: añade a “carnales”
+- repetición:
+  - “como a …”
 
-#### también los demonios creen,
-##### El texto introduce un ejemplo que rompe la confianza en \scripture{creer} solamente.
+##### RESULTADO CONSOLIDADO
 
-###### \scripture{también} marca comparación: no eres el único que \scripture{cree}.
+- \scripture{Así que} → consecuencia
+- \scripture{yo} → sujeto
+- \scripture{hermanos} → destinatarios
+- \scripture{no pude hablarles} → acción principal (negada)
+- \scripture{como a espirituales} → forma
+- \scripture{sino como a carnales} → contraste
+- \scripture{como a niños en Cristo} → continuación
 
-###### El ejemplo es fuerte porque mantiene el mismo verbo: \scripture{creen}.
 
-#### y tiemblan.
-##### El texto añade una reacción visible.
+##### LO QUE ESTE EJEMPLO DEMUESTRA
 
-###### No solo creen; hay un efecto \scripture{tiemblan}.
+###### La observación:
 
-###### Esto prepara el v.20: el texto volverá a presionar con una pregunta directa sobre \scripture{fe sin obras}.
+- depende de la unidad (H1)
+- depende del movimiento (H2)
+- no ignora ninguna frase
+- no interpreta el texto
 
-### Santiago 2:20  
-Pero, ¿estás dispuesto a admitir, oh hombre vano, que la fe sin obras es estéril?
+##### Principio clave
+###### La precisión no viene de explicar más.
 
-#### Pero,
-##### El texto vuelve a girar y subir la presión.
+###### 👉 Viene de observar mejor.
 
-###### Después del ejemplo (demonios), \scripture{pero} introduce un empuje directo.
+##### FRASE CLAVE FINAL
+> “Observo cada frase dentro del texto ya definido.”
 
-###### No deja que el lector se quede cómodo con lo anterior.
+# T — TRAZAR EL TEXTO
 
-#### ¿estás dispuesto a admitir,  
-##### El texto pone una pregunta que busca una respuesta definida.  
+## INTRODUCCIÓN
 
-###### No es una pregunta de información.  
-###### Es una pregunta de disposición: ¿está el interlocutor dispuesto a conceder el punto que sigue?  
-###### El texto no se queda en el veredicto anterior; ahora presiona al lector a reconocerlo.  
+##### El problema de ver sin poder decir
+###### Has observado el texto con precisión.
 
-#### oh hombre vano,  
-##### El texto interpela directamente al interlocutor.  
+###### Has identificado lo que cada frase dice.
 
-###### No es un comentario neutral. Es una forma de hablarle de frente, sin suavizar el golpe de la pregunta.  
-###### La etiqueta “vano” no añade un dato nuevo al argumento; sube la presión del momento.  
+###### Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.
 
-vano - κενός (kenós)  
-: vacío; sin contenido; sin sustancia (lo que está “hueco” por dentro, aunque suene lleno por fuera).
+###### ❗ Muchos ven el texto,
 
-###### El texto está diciendo, en efecto: “no lo trates como un detalle pequeño; no te escapes con una respuesta fácil”.  
+###### pero no pueden decirlo sin cambiarlo.
 
-###### La pregunta no apunta primero a “hacer más”, sino a reconocer un punto: ¿vas a admitirlo?
+##### El error de buscar lo oculto
+###### Muchos estudiantes de la Biblia buscan:
+- ideas nuevas
+- puntos profundos
+- cosas que nadie ha visto
 
-###### Y al decir “oh hombre vano (κενός)”, el texto acusa al interlocutor de tratar el caso con una evaluación “vacía”, sin sustancia.
+###### ❗ Pero el texto no está escondiendo su mensaje.
 
-###### Así la frase intensifica el tono justo antes de repetir la línea central del bloque: \scripture{fe} y \scripture{obras}.   
+##### Qué hace un buen estudiante
+###### Un buen estudiante no busca lo que no está.
 
-##### Santiago desafía la conclusión a la que el interlocutor ha llegado...
+###### 👉 Observa lo que ya está en el texto.
+###### 👉 Y puede expresarlo con claridad y fidelidad.
 
-#### que la fe sin obras  
-##### El texto vuelve a la fórmula central del bloque.  
+##### Principio clave
+###### La precisión no está en descubrir algo nuevo.
 
-###### Reaparecen los mismos dos elementos que dominan la discusión desde Santiago 2:14: \scripture{fe} y \scripture{obras}.  
-###### La frase retoma el caso que comenzó con: \scripture{si alguien dice que tiene fe, pero no tiene obras} (Santiago 2:14).  
-###### El argumento sigue examinando esa misma fe.  
+###### 👉 Está en decir correctamente lo que ya está.
 
-#### es estéril?  
-##### El texto presenta una evaluación del caso en forma de pregunta.  
+##### Qué haces ahora
+###### Tomas cada frase (H4) y la expresas de forma clara y fiel.
 
-###### \scripture{estéril} nombra falta de fruto o falta de salida.  
-###### La palabra resume la evaluación que Santiago viene empujando desde \scripture{¿de qué sirve?} (Santiago 2:14; Santiago 2:16).  
-###### Después de esta pregunta, el texto pasa a ejemplos concretos (Abraham y Rahab) para seguir el argumento en escenas (Santiago 2:21–25). 
+##### Nivel de trabajo
+###### T trabaja en el nivel de la \textbf{frase (H4)}.
 
-## Santiago 2:21–26 — El mismo caso, ahora puesto en escenas “grandes” (ver / mostrar)
+###### No trabajas secciones completas.
 
-## Santiago 2:21–26 — Abraham y Rahab: el argumento se ve en escenas
+###### No resumes el texto.
 
-### Santiago 2:21
-¿No fue justificado por las obras Abraham nuestro padre cuando ofreció a su hijo Isaac sobre el altar?
+###### 👉 Trabajas una frase a la vez.
 
-#### ¿No fue justificado  
-##### El texto continúa con preguntas que buscan una respuesta definida.
+##### Propósito
+###### Entrenar tu capacidad de expresar el texto sin añadir, sin omitir y sin cambiar.
 
-###### En 2:14–20 el argumento avanzó mediante preguntas, ejemplos y lenguaje de “mostrar” y “ver” (Santiago 2:18; Santiago 2:20).  
-###### Aquí Santiago vuelve a una pregunta: “¿No fue…?”. No empieza explicando; vuelve a interpelar al lector.
+##### Naturaleza de esta fase
+###### Este paso no añade contenido nuevo.
 
-#### por las obras  
-##### El texto introduce la expresión que dominará la escena.
+###### Este paso toma lo observado (O₂)
 
-###### En 2:14 el caso fue: “dice que tiene fe, pero no tiene obras” (Santiago 2:14).  
-###### En 2:18 el tema pasó a “mostrar” (Santiago 2:18).  
-###### Ahora el texto pone el argumento en una escena concreta.
+###### y lo convierte en expresión clara.
 
-#### Abraham nuestro padre  
-##### El texto trae un ejemplo reconocido.
+###### 👉 Es una prueba de fidelidad y claridad.
 
-###### Ya no usa una situación cotidiana como en 2:15–16.  
-###### Introduce una figura conocida dentro del argumento.  
-###### “nuestro padre” acerca el ejemplo al lector.
+##### Frase clave
+>“Digo la frase tal como el texto la presenta.”
 
-#### cuando ofreció a su hijo Isaac sobre el altar?  
-##### El texto fija el argumento en una acción concreta.
+## EJECUTA
 
-###### “cuando” ubica un momento específico.  
-###### “ofreció… sobre el altar” describe una escena visible.  
-###### El argumento continúa avanzando mediante situaciones observables.
+##### ¿Qué haces?
+###### Expresas cada frase del texto de forma clara,
 
-### Santiago 2:22
-Ya ves que la fe actuaba juntamente con sus obras, y como resultado de las obras, la fe fue perfeccionada;
+###### manteniendo exactamente lo que dice.
 
-#### Ya ves que  
-##### El texto vuelve al lenguaje de observación.
+##### Regla
+###### No explicas
+###### No interpretas
+###### No agregas
+###### No reduces
 
-###### Esto conecta con “mostrar” (Santiago 2:18) y con la pregunta anterior (Santiago 2:21).  
-###### El argumento se presenta como algo que puede verse en la escena.  
-###### El texto coloca al lector en lenguaje de observación: “Ya ves”.
+###### 👉 Solo expresas lo que el texto dice
 
-#### la fe actuaba juntamente con sus obras,  
-##### El texto presenta fe y obras actuando juntas.
+##### Cómo hacerlo
 
-###### No aparecen como elementos separados.  
-###### El texto las muestra funcionando en la misma escena.  
-###### La atención ya no está en una afirmación verbal, sino en algo que puede observarse.
+1. Toma una frase (H4)
 
-#### y como resultado de las obras,  
-##### El texto introduce una relación de resultado.
+2. Usa lo observado en O₂
 
-###### La frase conecta lo que ocurre en la escena con un efecto.  
-###### Santiago sigue trabajando con lenguaje de proceso y resultado.
+3. Exprésala en una oración clara
 
-#### la fe fue perfeccionada;  
-##### El texto describe una fe llevada a completitud.
+4. Mantén:
+- el sujeto
+- la acción (si la hay)
+- el contenido
 
-###### “perfeccionada” es lenguaje de completar o llevar algo a su meta.  
-###### Esto conversa con Santiago 1:4, donde el libro apunta hacia lo perfecto y completo (Santiago 1:4).
+##### Nota importante
+###### Algunas frases no son completas por sí solas.
 
-### Santiago 2:23
-y se cumplió la Escritura que dice: «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA», y fue llamado amigo de Dios.
+###### En esos casos:
+- 👉 usas el contexto inmediato
+- 👉 completas la expresión sin añadir ideas
 
-#### y se cumplió la Escritura que dice:  
-##### El texto añade una referencia a la Escritura.
+###### ❗ No explicas
+###### ❗ No cambias palabras
 
-###### “y” mantiene la continuidad del argumento.  
-###### “se cumplió” conecta la escena con una palabra previa citada.
+##### Resultado esperado
 
-#### «Y ABRAHAM CREYÓ A DIOS Y LE FUE CONTADO POR JUSTICIA»,  
-##### El texto introduce una cita dentro de la discusión.
+###### Una expresión clara de la frase,
 
-###### La cita incorpora el lenguaje de creer y de justicia.  
-###### Santiago integra esta cita dentro del argumento que viene desarrollando con Abraham.
+###### completamente trazable al texto.
 
-#### y fue llamado amigo de Dios.  
-##### El texto añade una designación final sobre Abraham.
+##### Regla de ejecución
+- no cambias el sujeto
+- no cambias el verbo
+- no agregas información
+- no eliminas contenido esencial
 
-###### “fue llamado” introduce una identificación o reconocimiento.  
-###### El argumento sigue acumulando lenguaje de evaluación y resultado.
+###### ❗ Solo puedes reorganizar para claridad
 
-###### Observación de secuencia bíblica.
-- La frase citada pertenece a Génesis 15:6.  
-- La escena del ofrecimiento de Isaac pertenece a Génesis 22:1–12.  
+##### Regla de ejecución
+- no cambias el sujeto
+- no cambias el verbo
+- no agregas información
+- no eliminas contenido esencial
 
-### Santiago 2:24
+###### ❗ Solo puedes reorganizar para claridad
 
-Ustedes ven que el hombre es justificado por las obras y no solo por la fe.
+## EJEMPLO
 
-#### Ustedes ven que  
-##### El texto pasa de escena a conclusión explícita.
+##### Frase:
+```
+sino como a carnales
+```
 
-###### El lenguaje de “ver” reaparece.  
-###### El texto formula una conclusión para el lector desde el ejemplo presentado.
+##### Observación (O₂):
+- afirma: forma de hablar como a carnales
+- relación: contrasta con “espirituales”
 
-#### el hombre es justificado por las obras  
-##### El texto formula la conclusión de manera general.
+##### Trazado:
+```
+Pablo les habló como a carnales.
+```
 
-###### Pasa de Abraham (“nuestro padre”) a “el hombre”.  
-###### La conclusión se construye a partir de la escena que acaba de presentarse.
+## COMPARACIÓN
 
-#### y no solo por la fe.  
-##### El texto añade el contraste.
+##### Incorrecto (explicación):
+```
+Pablo dice que ellos eran carnales.
+```
 
-###### “no solo” limita una lectura que dejaría la fe aislada.  
-###### La discusión sigue girando alrededor de una fe separada frente a una fe descrita junto con obras dentro de la escena.
+##### Incorrecto (incompleto):
+```
+como a carnales
+```
 
-### Santiago 2:25
-Y de la misma manera, ¿no fue la ramera Rahab también justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?
+##### Correcto:
+```
+Pablo les habló como a carnales.
+```
 
-#### Y de la misma manera,  
-##### El texto introduce un segundo ejemplo.
+## ENTIENDE
 
-###### No se trata de una escena aislada.  
-###### “de la misma manera” crea un paralelo con Abraham.  
-###### El argumento queda sostenido por más de un caso.
+##### Qué estás haciendo realmente
+###### Estás convirtiendo observación en expresión fiel.
 
-#### ¿no fue la ramera Rahab también justificada por las obras  
-##### El texto repite la misma pregunta y la misma fórmula.
+##### Principio clave
+###### Ver el texto no es suficiente.
 
-###### Reaparece la estructura utilizada con Abraham.  
-###### “también” añade un segundo testigo al argumento.
+###### 👉 Debes poder decirlo correctamente.
 
-#### cuando recibió a los mensajeros  
-##### El texto ubica el ejemplo en una acción concreta.
+##### Idea clave
+###### No mejoras el texto.
+###### No lo explicas.
 
-###### “cuando” señala una escena específica.  
-###### “recibió” describe una acción visible.
+###### 👉 Lo expresas tal como está.
 
-#### y los envió por otro camino?  
-##### El texto añade una segunda acción dentro de la misma escena.
+##### Regla de control
+###### Si cambias el contenido → fallaste
+###### Si agregas ideas → fallaste
+###### Si omites partes → fallaste
 
-###### Igual que Abraham, Rahab es presentada mediante acciones observables.  
-###### El argumento continúa avanzando por escenas que pueden verse.
+##### Errores comunes
+- explicar en lugar de decir
+- añadir palabras no presentes
+- omitir elementos
+- cambiar el sentido
 
-### Santiago 2:26
-Porque así como el cuerpo sin el espíritu está muerto, así también la fe sin las obras está muerta.
+##### Qué debes notar
 
-#### Porque  
-##### El texto introduce la razón final del bloque.
+###### Cuando lo haces correctamente:
+- la frase se mantiene fiel
+- el contenido es claro
+- puedes expresarla sin distorsión
 
-###### “Porque” aparece como cierre argumental.  
-###### Santiago concluye con una analogía.
+##### Formación
 
-#### así como el cuerpo sin el espíritu está muerto,  
-##### El texto presenta la primera mitad de la comparación.
+###### Este paso te entrena a:
+- hablar el texto con precisión
+- mantener su contenido
+- comunicar sin distorsionar
 
-###### La analogía une dos elementos que pertenecen juntos.  
-###### Cuando uno falta, el resultado es muerte.  
-###### La imagen es sencilla y directa.
+###### 👉 Te prepara para enseñar fielmente
 
-#### así también la fe sin las obras  
-##### El texto vuelve al caso que abrió toda la discusión.
+##### Frase clave final
+> “No busco lo oculto; expreso lo evidente.”
 
-###### Reaparecen “fe” y “obras” en la misma línea.  
-###### Igual que en 2:14 y 2:17, la atención recae sobre una fe presentada en separación.
+##### Transición
+###### Ahora no solo ves el texto, puedes expresarlo correctamente.
 
-#### está muerta.  
-##### Santiago repite el mismo veredicto de 2:17.
+###### 👉 Estás listo para someterte a lo que el texto dice.
 
-###### El bloque comenzó con una afirmación: “dice que tiene fe” (Santiago 2:14).  
-###### Luego avanzó mediante preguntas, ejemplos, “mostrar” y “ver” (Santiago 2:15–16; Santiago 2:18–24).  
-###### Finalmente vuelve al mismo veredicto: “está muerta” (Santiago 2:17; Santiago 2:26).
+# S — SINTETIZAR
 
-> En Síntesis
->- El argumento comenzó con una afirmación verbal: “dice que tiene fe” (Santiago 2:14).  
->- Luego pasó a una escena visible y evaluable (Santiago 2:15–16).  
->- Después avanzó hacia “mostrar” y “ver” (Santiago 2:18–24).  
->- Abraham y Rahab aparecen como escenas concretas dentro de esa misma línea (Santiago 2:21–25).  
->- El bloque termina con el mismo veredicto repetido: “está muerta” (Santiago 2:17; Santiago 2:26).  
+## EJECUTA
 
-<!-- @quiz santiago-2-1-26 -->
+##### ¿Qué haces?
+###### Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.
 
-# SANTIAGO 3:1–18 - DOS ORIENTACIONES PRODUCEN RESULTADOS OPUESTOS
+##### Regla
 
-## Santiago 3:1–12 - La lengua concentra y amplifica la fractura
+###### Trabajas únicamente con:
+- la unidad delimitada (Paso 12)
+- los patrones extendidos (Paso 11)
+- el tronco (Paso 8)
 
-### Santiago 3:1  
-Hermanos míos, que no se hagan maestros muchos de ustedes, sabiendo que recibiremos un juicio más severo.
+###### ❌ No agregas ideas
+###### ❌ No explicas
+###### ❌ No corriges el texto
 
-#### Hermanos míos,
-##### El texto vuelve a hablar de frente, como en otras correcciones.
+- 👉 Solo verificas y expresas
 
-###### No es un comentario general; es una exhortación dirigida a la comunidad.
+##### Cómo hacerlo
 
-#### que no se hagan maestros
-##### El texto pone una restricción clara: no quiere \scripture{muchos maestros}.
+1. Recorre toda la unidad desde el inicio hasta el final
 
-###### No empieza describiendo un problema; empieza frenando una dirección posible dentro del grupo.
+2. Confirma en cada línea:
+- 👉 pertenece a un patrón identificado
+- 👉 mantiene el comportamiento esperado
+- 👉 encaja en el flujo general
 
-#### muchos de ustedes,
-##### El texto señala cantidad, no solo el rol.
+3. Haz esta pregunta clave:
+- 👉 ¿se sostiene toda la unidad sin romperse?
 
-###### El punto no es \scripture{maestros sí o no} solamente; el punto es \scripture{muchos}.
+##### Regla de control
+###### Si algo no encaja:
+- 👉 no sintetizas
+- 👉 vuelves a Paso 10–11
 
-#### sabiendo que
-##### El texto presenta la razón como algo que se debe tener presente.
+1. Si todo se sostiene:
+- 👉 escribe una sola oración usando este formato:
 
-###### El mandato va acompañado de una base inmediata.
+- \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
 
-#### recibiremos un juicio más severo.
-##### El texto declara una consecuencia directa para \scripture{maestros}.
+##### Resultado esperado
+- 👉 Una sola oración que:
 
-###### \scripture{recibiremos} incluye al hablante en la misma realidad, no habla como alguien fuera del tema.
+- representa toda la unidad
+- refleja el flujo completo
+- no añade ni omite contenido
 
-###### \scripture{juicio más severo} instala el horizonte de evaluación antes de entrar al tema de la lengua.
+## ENTIENDE
 
-### Santiago 3:2  
-Porque todos fallamos de muchas maneras. Si alguien no falla en lo que dice, es un hombre perfecto, capaz también de refrenar todo el cuerpo.
+##### Qué estás haciendo realmente
+###### Estás cerrando el proceso completo del análisis.
 
-#### Porque
-##### El texto conecta lo que sigue como base de 3:1.
+##### Principio clave
+###### No puedes sintetizar lo que no se sostiene.
 
-###### No abre un tema aparte; sostiene la restricción sobre \scripture{maestros}.
+##### Idea clave
+###### La síntesis no descubre.
 
-#### todos fallamos de muchas maneras.
-##### El texto empieza con una realidad general compartida.
+###### 👉 Confirma y expresa lo que ya es claro.
 
-###### \scripture{todos} amplía el alcance.
+##### Advertencia
+###### Si necesitas explicar, te saliste del paso.
 
-###### \scripture{de muchas maneras} no limita el fallo a un área específica todavía.
+###### Si agregas ideas, te saliste del paso.
 
-#### Si alguien no falla en lo que dice,
-##### El texto enfoca el caso en el hablar.
+###### Si dudas, el flujo no está claro.
 
-###### Ahora sí aterriza en un campo específico: \scripture{lo que dice}.
+##### Resultado mental esperado
 
-###### Abre un caso: \scripture{si alguien…}.
+###### Ahora tienes:
+- una unidad verificada
+- un flujo coherente
+- una expresión fiel del texto
 
-#### es un hombre perfecto,
-##### El texto usa \scripture{perfecto} como forma de describir control/consistencia.
+##### Frase clave final
+> “Solo expreso lo que el texto ya sostiene.”
 
-###### No lo deja en \scripture{bueno} o \scripture{mejor}; lo nombra con una palabra fuerte.
+# CIERRE
 
-#### capaz también de refrenar todo el cuerpo.
-##### El texto conecta el hablar con el control del cuerpo entero.
+### Has llegado al final del proceso
+###### No comenzaste con ideas.
 
-###### El punto es: el hablar es pequeño, pero su control se relaciona con algo más grande.
+###### No comenzaste con interpretación.
 
-###### Esto prepara las imágenes que vienen (caballo/naves) (Santiago 3:3–4).
+###### Comenzaste con el texto.
 
-### Santiago 3:3  
-Ahora bien, si ponemos el freno en la boca de los caballos para que nos obedezcan, dirigimos también todo su cuerpo.
+### Lo que hiciste
+###### Observaste cómo está construido
 
-#### Ahora bien,
-##### El texto cambia a ilustración.
+###### Observaste lo que dice
 
-###### Señala que va a mostrar el punto con un ejemplo visible.
+###### Seguiste su desarrollo
 
-#### si ponemos el freno en la boca de los caballos
-##### El texto presenta una pieza pequeña que controla algo grande.
+### Y ahora
+###### No estás sobre el <u>texto</u>.
+- 👉 Estás bajo él
 
-###### \scripture{freno} es pequeño; \scripture{caballos} son grandes.
+### Principio final
+###### El texto no necesita ser completado
 
-###### El caso se describe como condicional \scripture{si…}, para mostrar una lógica.
+###### El texto no necesita ser ajustado
+- 👉 El texto ya comunica
 
-#### para que nos obedezcan,
-##### El texto declara la finalidad del freno.
+### Lo que queda
+###### No es explicar el texto
 
-###### No es adorno; es control para obediencia.
+###### No es defenderlo
+###### No es adaptarlo
+- 👉 Es dejar que el texto tenga la <u>última</u> palabra
 
-#### dirigimos también todo su cuerpo.
-##### El texto saca la conclusión del ejemplo.
+### Frase final
+```
+“Dios habló.
+Yo observo.
+Sigo el desarrollo del texto.
+Me someto al texto.”
+```
 
-###### \scripture{dirigimos} conecta con control y dirección.
+##### Última línea
+###### RO₁O₂TS no es un método para enseñar el texto.
+###### 👉 Es un proceso para dejar que el texto hable.
 
-###### \scripture{todo su cuerpo} recalca totalidad: una parte pequeña controla el conjunto.
+# EJERCICIOS — PRÁCTICA REAL
 
-### Santiago 3:4  
-Miren también las naves; aunque son tan grandes e impulsadas por fuertes vientos, son, sin embargo, dirigidas mediante un timón muy pequeño por donde la voluntad del piloto quiere.
+## PROPÓSITO
 
-#### Miren también las naves;
-##### El texto llama a mirar un segundo ejemplo.
+##### Qué vas a hacer
 
-###### \scripture{Miren} pide atención a algo observable.
+###### Vas a ejecutar RO₁O₂TS en textos completos.
 
-###### \scripture{también} indica que es otra ilustración para el mismo punto.
+###### 👉 No fragmentos
 
-#### aunque son tan grandes
-##### El texto recalca el tamaño del objeto.
+###### 👉 No niveles
 
-###### Otra vez: lo grande será controlado por algo pequeño.
+###### 👉 No partes aisladas
 
-#### e impulsadas por fuertes vientos,
-##### El texto añade presión externa.
+👉 Texto completo → proceso completo
 
-###### Ahora no solo es tamaño; también hay fuerzas que empujan \scripture{vientos}.
+------
 
-#### son, sin embargo, dirigidas
-##### El texto marca contraste: aun así, hay dirección.
+##### Regla clave
 
-###### \scripture{sin embargo} señala que lo esperado (descontrol) no gana.
+###### ❗ Solo necesitas ver una cosa:
 
-###### \scripture{dirigidas} mantiene el hilo de \scripture{dirigir} del v.3.
+👉 \textbf{Qué pasa en Paso 10}
 
-#### mediante un timón muy pequeño
-##### La pieza pequeña vuelve a ser el foco.
+- ¿hay patrón?
+- ¿se repite?
+- ¿se rompe?
 
-###### Como el freno, el timón es pequeño, pero gobierna el movimiento.
+------
 
-#### por donde la voluntad del piloto quiere.
-##### El texto asigna dirección a una voluntad.
+##### Límite
 
-###### No es solo mecánica; hay intención \scripture{voluntad} que decide el rumbo.
+###### Máximo 2 ejercicios.
 
-###### Esto prepara el punto: la lengua es pequeña pero dirige y produce efectos (Santiago 3:5).
+###### 👉 Bien hechos
 
-### Santiago 3:5  
-Así también la lengua es un miembro pequeño, y sin embargo, se jacta de grandes cosas. ¡Pues qué gran bosque se incendia con tan pequeño fuego!
+###### 👉 No muchos
 
-#### Así también
-##### El texto conecta las dos ilustraciones con la lengua.
+------
 
-###### \scripture{Así también} es el puente explícito: ejemplos → aplicación.
+# EJERCICIO 1 — REPETICIÓN CLARA
 
-#### la lengua es un miembro pequeño,
-##### El texto nombra el \scripture{timón/freno} humano.
+##### TEXTO — 1 Corintios 3:6–8
 
-###### \scripture{pequeño} retoma el patrón de 3:3–4.
+```
+Yo planté, Apolos regó, pero Dios daba el crecimiento.
 
-#### y sin embargo, se jacta de grandes cosas.
-##### El texto muestra contraste: pequeño, pero con \scripture{grandes} efectos/pretensiones.
+Así que ni el que planta ni el que riega son algo,
+sino Dios que da el crecimiento.
 
-###### \scripture{sin embargo} marca choque entre tamaño y resultado.
+El que planta y el que riega son una misma cosa,
+pero cada uno recibirá su propia recompensa conforme a su labor.
+```
 
-#### ¡Pues qué gran bosque se incendia con tan pequeño fuego!
-##### El texto introduce una tercera imagen: fuego pequeño, daño grande.
+------
 
-###### Repite el patrón: pequeño → grande.
+## EJECUTA
 
-###### Esto abre la intensificación fuerte del v.6.
+1. Pasos 1–7 normalmente
+2. Identifica el tronco (Paso 8)
+3. Marca:
+   - [S]
+   - [M]
+   - etiquetas (Paso 9)
+4. Llega a Paso 10
 
-### Santiago 3:6  
-También la lengua es un fuego, un mundo de iniquidad. La lengua está puesta entre nuestros miembros, la cual contamina todo el cuerpo, es encendida por el infierno e inflama el curso de nuestra vida.
+------
 
-#### También la lengua es un fuego,
-##### El texto iguala la lengua con una fuerza que se propaga.
+## ENFOQUE
 
-###### \scripture{fuego} conecta con incendiar del v.5.
+##### Qué debes ver
 
-#### un mundo de iniquidad.
-##### El texto intensifica con una frase corta y pesada.
+- repetición de ideas
+- contraste con Dios
+- continuidad del tema
 
-###### No es solo \scripture{peligrosa}; la describe con un marco total \scripture{mundo…}.
+👉 Este texto \textbf{sí tiene patrón claro}
 
-#### La lengua está puesta entre nuestros miembros,
-##### El texto ubica la lengua dentro del cuerpo.
+------
 
-###### \scripture{nuestros} incluye al hablante con los lectores (como 3:1–2).
+# EJERCICIO 2 — PROGRESIÓN CLARA
 
-#### la cual contamina todo el cuerpo,
-##### El texto vuelve a \scripture{todo el cuerpo} (como 3:3; 3:2).
+##### TEXTO — Colosenses 1:9–12
 
-###### Pequeño miembro, contaminación total.
+```
+Por esta razón también nosotros, desde el día que lo supimos,
+no hemos cesado de orar por ustedes
 
-#### es encendida por el infierno
-##### El texto asigna una fuente de encendido.
+y de pedir que sean llenos del conocimiento de su voluntad
 
-###### La lengua aparece como algo que puede ser \scripture{encendido}.
+en toda sabiduría y comprensión espiritual,
 
-###### Esto sigue empujando la imagen de fuego.
+para que anden como es digno del Señor,
 
-#### e inflama el curso de nuestra vida.
-##### El texto cierra con un alcance amplio: la vida entera.
+agradándole en todo,
 
-###### El efecto no se limita a una conversación; lo describe como \scripture{curso}.
+dando fruto en toda buena obra
 
-### Santiago 3:7  
-Porque toda clase de fieras y de aves, de reptiles y de animales marinos, se puede domar y ha sido domado por el ser humano,
+y creciendo en el conocimiento de Dios;
 
-#### Porque
-##### El texto introduce otra base para lo que viene.
+fortalecidos con todo poder
 
-###### Se prepara un contraste con 3:8.
+según la potencia de su gloria,
 
-#### toda clase de fieras y de aves, de reptiles y de animales marinos,
-##### El texto acumula categorías para decir \scripture{todo tipo}.
+para obtener toda perseverancia y paciencia,
 
-###### El punto es amplitud total.
+con gozo dando gracias al Padre.
+```
 
-#### se puede domar
-##### Capacidad general declarada.
+------
 
-###### En general, el ser humano puede domar.
+## EJECUTA
 
-#### y ha sido domado por el ser humano,
-##### El texto añade evidencia: no solo se puede; se ha hecho.
+1. Pasos 1–7
+2. Paso 8 → tronco
+3. Paso 9 → etiquetas
+4. Paso 10 → patrón
 
-###### Mantiene la idea de control/domino.
+------
 
-###### El v.8 traerá el \scripture{pero} con el contraste.
+## ENFOQUE
 
-### Santiago 3:8  
-pero ningún hombre puede domar la lengua. Es un mal turbulento y lleno de veneno mortal.
+##### Qué debes ver
 
-#### pero
-##### El texto gira a un contraste fuerte.
+- desarrollo progresivo
+- encadenamiento
+- avance continuo
 
-###### Todo lo anterior prepara este \scripture{pero}.
+👉 Este texto \textbf{no repite → avanza}
 
-#### ningún hombre puede domar la lengua.
-##### El texto declara una incapacidad total.
+------
 
-###### \scripture{ningún hombre} es absoluto.
+# ⚠️ REGLA FINAL
 
-###### Contrasta con \scripture{se puede domar… ha sido domado} (3:7).
+##### Si no ves Paso 10
 
-#### Es un mal turbulento
-##### El texto describe la lengua con una etiqueta directa.
+###### 👉 no hiciste bien Paso 8–9
 
-###### No la presenta neutral; la nombra como \scripture{mal}.
+------
 
-#### y lleno de veneno mortal.
-##### El texto añade una segunda descripción con imagen de daño.
+- # RESPUESTAS — CORREGIDO
 
-###### \scripture{veneno} sigue la línea de peligro/propagación.
+  ------
 
-###### \scripture{mortal} intensifica el resultado.
+  # RESPUESTA 1 — 1 Corintios 3:6–8
 
-### Santiago 3:9  
-Con ella bendecimos a nuestro Señor y Padre, y con ella maldecimos a los hombres, que han sido hechos a la imagen de Dios.
+  ## PASO 8 — TRONCO
 
-#### Con ella bendecimos a nuestro Señor y Padre,
-##### El texto muestra un uso \scripture{alto} de la lengua.
+  ```
+  [S: yo → Apolos]
+  Apolos ==regó==
+  
+  [S: Apolos → Dios]
+  (pero) Dios ==daba==
+  
+  [S: Dios → ellos]
+  no ==son== algo
+  
+  [S: ellos → Dios]
+  (sino) Dios ==da==
+  
+  [S: Dios → ellos]
+  ==son== una misma cosa
+  
+  [S: ellos → cada uno]
+  (pero) cada uno ==recibirá==
+  ```
 
-###### \scripture{bendecimos} es un acto de habla dirigido a Dios.
+  👉 No [M] (no cambio estructural verificable en griego)
 
-#### y con ella maldecimos a los hombres,
-##### El texto contrasta con un uso opuesto con la misma lengua.
+  ------
 
-###### Repite \scripture{con ella} para enfatizar: mismo instrumento, dos direcciones.
+  ## PASO 9 — COMPORTAMIENTO
 
-#### que han sido hechos a la imagen de Dios.
-##### El texto agrega una razón que hace el contraste más pesado.
+  ```
+  ::EXPONE::
+  Apolos ==regó==
+  
+  ::CONTRASTE::
+  Dios ==daba==
+  
+  ::RAZÓN::
+  no ==son== algo
+  
+  ::CONTRASTE::
+  Dios ==da==
+  
+  ::EXPONE::
+  ==son== una misma cosa
+  
+  ::CONTRASTE::
+  cada uno ==recibirá==
+  ```
 
-###### No dice solo \scripture{personas}; dice \scripture{hechos a la imagen de Dios}.
+  ------
 
-###### Esto prepara el veredicto del v.10: \scripture{no debe ser así}.
+  ## PASO 10 — SECCIONES
 
-### Santiago 3:10  
-De la misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.
+  ```
+  [ SECCIÓN 1 ]
+  
+  ::EXPONE::
+  Apolos ==regó==
+  
+  ::CONTRASTE::
+  Dios ==daba==
+  
+  ::RAZÓN::
+  no ==son== algo
+  
+  ::CONTRASTE::
+  Dios ==da==
+  
+  ::EXPONE::
+  ==son== una misma cosa
+  
+  ::CONTRASTE::
+  cada uno ==recibirá==
+  ```
 
-#### De la misma boca proceden bendición y maldición.
-##### El texto resume el problema como mezcla en una sola fuente.
+  👉 ❗ No hay [M]
+   👉 ❗ Todo es UNA sola sección
 
-###### \scripture{misma boca} insiste en unidad de origen.
+  ------
 
-###### \scripture{proceden} describe salida: lo que sale de allí.
+  ## RESULTADO CLAVE
 
-#### Hermanos míos,
-##### El texto vuelve a tratar directo antes de cerrar el punto.
+  👉 El estudiante debe ver:
 
-###### Mantiene corrección dentro de relación.
+  - continuidad (no ruptura)
+  - contraste repetido
+  - pero SIN división estructural
 
-#### esto no debe ser así.
-##### El texto da un veredicto breve y final.
+  ------
 
-###### No es pregunta; es cierre: \scripture{no debe}.
+  # RESPUESTA 2 — Colosenses 1:9–14
 
-###### Esto empuja a las preguntas de 3:11–12 como refuerzo por analogías.
+  ## PASO 8 — TRONCO
 
-### Santiago 3:11  
-¿Acaso una fuente echa agua dulce y amarga por la misma abertura?
+  ```
+  [S: nosotros]
+  no ==hemos cesado==
+  
+  [S: nosotros → ustedes]
+  ==sean llenos== 
+  
+  ==anden==
+  
+  ==agraden==
+  
+  ==den fruto==
+  
+  ==crezcan==
+  
+  ==sean fortalecidos==
+  
+  ==obtengan==
+  
+  ==den gracias==
+  ```
 
-#### ¿Acaso una fuente echa agua dulce y amarga
-##### El texto usa una pregunta para hacer ver lo imposible.
+  👉 No [M]
+   👉 Todo depende de estructura continua
 
-###### No busca información; expone inconsistencia por comparación.
+  ------
 
-###### \scripture{fuente} introduce una nueva imagen de origen/salida, como \scripture{misma boca}.
+  ## PASO 9 — COMPORTAMIENTO
 
-#### por la misma abertura?
-##### El texto aprieta el punto en \scripture{lo mismo}.
+  ```
+  ::EXPONE::
+  no ==hemos cesado==
+  
+  ::RAZÓN::
+  ==sean llenos==
+  
+  ::RESULTADO::
+  ==anden==
+  
+  ::RESULTADO::
+  ==agraden==
+  
+  ::RESULTADO::
+  ==den fruto==
+  
+  ::RESULTADO::
+  ==crezcan==
+  
+  ::RESULTADO::
+  ==sean fortalecidos==
+  
+  ::RESULTADO::
+  ==obtengan==
+  
+  ::RESULTADO::
+  ==den gracias==
+  ```
 
-###### \scripture{misma} vuelve a ser la palabra clave: misma abertura, dos salidas opuestas.
+  ------
 
-### Santiago 3:12  
-¿Acaso, hermanos míos, puede una higuera producir aceitunas, o una vid higos? Tampoco la fuente de agua salada puede producir agua dulce.
+  ## PASO 10 — SECCIONES
 
-##### (Referencias cruzadas: Mateo 12:36–37; Proverbios 13:3)
+  ```
+  [ SECCIÓN 1 ]
+  
+  ::EXPONE::
+  no ==hemos cesado==
+  
+  ::RAZÓN::
+  ==sean llenos==
+  
+  ::RESULTADO::
+  ==anden==
+  
+  ::RESULTADO::
+  ==agraden==
+  
+  ::RESULTADO::
+  ==den fruto==
+  
+  ::RESULTADO::
+  ==crezcan==
+  
+  ::RESULTADO::
+  ==sean fortalecidos==
+  
+  ::RESULTADO::
+  ==obtengan==
+  
+  ::RESULTADO::
+  ==den gracias==
+  ```
 
-#### ¿Acaso, hermanos míos,
-##### El texto mantiene el tono de pregunta + trato directo.
+  👉 ❗ No hay [M]
+   👉 ❗ Una sola sección continua
 
-###### Vuelve \scripture{hermanos} en medio de la analogía, manteniendo la exhortación personal.
+# GLOSARIO BÁSICO
 
-#### puede una higuera producir aceitunas,
-##### El texto plantea una incompatibilidad de producto.
+### VERBO
+##### Palabra que expresa una acción o estado.
 
-###### La pregunta hace que el lector vea: cada árbol tiene su fruto.
+### SUJETO
+##### Quien realiza la acción del verbo.
 
-#### o una vid higos?
-##### El texto repite el punto con otro ejemplo.
+### COMPLEMENTO
+###### Lo que recibe o completa la acción del verbo.
 
-###### Dos ejemplos distintos dicen lo mismo: no se mezclan productos.
+### CLÁUSULA
+###### Unidad con verbo que expresa una idea.
 
-#### Tampoco la fuente de agua salada puede producir agua dulce.
-##### El texto cierra con una negación directa.
+### CONECTOR
+###### Palabra que une cláusulas y muestra su relación.
 
-###### \scripture{Tampoco} funciona como cierre: vuelve a la fuente de 3:11.
+### TRONCO
+###### Conjunto de cláusulas principales que sostienen el desarrollo del texto.
 
-###### El punto queda cerrado: una fuente no produce dos tipos opuestos.
+### COMPORTAMIENTO
+###### Función que una cláusula cumple dentro del desarrollo del texto.
 
-##### Esto prepara 3:13.
+### PATRÓN
+###### Secuencia de comportamiento que se repite.
 
-###### Después de cerrar la inconsistencia de la lengua por analogías, 3:13 abrirá otra pregunta: quién es sabio, y cómo se ve (Santiago 3:13).
+### UNIDAD
+###### Tramo completo donde el mismo desarrollo se mantiene.
 
-> En Síntesis
->- Anclas trabajadas: Santiago 3:9, Santiago 3:10, Santiago 3:11, Santiago 3:12.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
+### MORFOLOGÍA
+###### Forma de una palabra y lo que esa forma indica.
 
-## Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos
+### VERBO FINITO
+###### Verbo que está conjugado y expresa persona y número.
 
-### Santiago 3:13  
-¿Quién es sabio y entendido entre ustedes? Que muestre por su buena conducta sus obras en sabia mansedumbre.
+### TIEMPO (VERBO)
+###### Indica cuándo ocurre la acción (pasado, presente, futuro).
 
-#### ¿Quién es sabio y entendido entre ustedes?
-##### El texto abre con una pregunta para poner el tema en la mesa.
+### MODO (VERBO)
+###### Indica cómo se presenta la acción.
+- indicativo → como real
+- subjuntivo → como posibilidad o condición
+- imperativo → como mandato
 
-###### No está describiendo a \scripture{los sabios}. Está preguntando quién lo es dentro del grupo.
+### VOZ
+###### Relación entre el sujeto y la acción.
+- activa → el sujeto hace la acción
+- pasiva → el sujeto recibe la acción
 
-###### La pregunta obliga a que la \scripture{sabiduría} se vea en algo real, no solo en palabras.
+### PERSONA
+###### Quién realiza la acción.
+- primera → yo / nosotros
+- segunda → tú / ustedes
+- tercera → él / ellos
 
-##### Esto sigue el hilo que viene de 3:1–12.
+### NÚMERO
+###### Cantidad del sujeto.
+- singular → uno
+- plural → más de uno
 
-###### Acaba de cerrar el tema de la lengua con \scripture{esto no debe ser así} y con analogías de imposibilidad (Santiago 3:10–12).
+### NOMINATIVO
+###### Caso que normalmente indica el sujeto.
 
-###### Ahora el texto pasa a otra pregunta que también busca evidencia visible.
+### ACUSATIVO
+###### Caso que normalmente indica el objeto directo.
 
-#### Que muestre por su buena conducta
-##### El texto responde la pregunta con una forma de evidencia.
+### GENITIVO
+###### Caso que indica relación o posesión.
 
-###### No dice: \scripture{que lo afirme}. Dice: \scripture{que lo muestre}.
+### DATIVO
+###### Caso que indica destinatario o beneficio.
 
-###### La evidencia está ligada a la \scripture{conducta}, o sea, a lo observable.
+### VOCATIVO
+###### Caso que indica llamado directo.
 
-##### Esto prepara el contraste del v.14.
+### INDICATIVO
+###### Modo verbal que presenta la acción como real.
 
-###### El v.14 presentará otro tipo de \scripture{corazón} y otro tipo de resultado.
+### SUBJUNTIVO
+###### Modo verbal que presenta la acción como posible o condicionada.
 
-#### sus obras
-##### El texto une \scripture{conducta} y \scripture{obras} como un mismo campo visible.
+### IMPERATIVO
+###### Modo verbal que expresa mandato.
 
-###### \scripture{obras} no aparece aquí como tema aparte; aparece como parte de lo que se muestra.
+### CONTRASTE
+###### Relación donde una idea se opone a otra.
 
-###### Esto conecta con el patrón del libro: lo que se dice se prueba en lo visible (Santiago 1:22; Santiago 2:14–17).
+### REPETICIÓN
+###### Elemento que aparece más de una vez en el texto.
 
-#### en sabia mansedumbre.
-##### El texto añade el modo en que esas obras deben verse.
-
-###### No solo pide \scripture{obras}. Califica el modo: \scripture{mansedumbre}.
-
-###### La frase cierra el v.13 y deja listo el contraste: 3:14 empezará con \scripture{Pero si…}.
-
-### Santiago 3:14  
-Pero si tienen celos amargos y ambición personal en su corazón, no sean arrogantes y mientan así contra la verdad.
-
-#### Pero si tienen
-##### El texto entra en un caso alternativo con \scripture{pero} y \scripture{si}.
-
-###### \scripture{Pero} marca contraste con el v.13.
-
-###### \scripture{si} abre un escenario posible dentro del grupo.
-
-##### El texto va a tratar el interior antes de describir el resultado.
-
-###### Lo que sigue nombra cosas \scripture{en su corazón}.
-
-#### celos amargos
-##### El texto nombra un motor interno con una calificación.
-
-###### \scripture{celos} se presenta como algo interno que dirige.
-
-###### \scripture{amargos} lo califica y lo intensifica.
-
-#### y ambición personal
-##### El texto añade un segundo motor interno.
-
-###### No deja el problema en un solo término.
-
-###### Junta \scripture{celos} con \scripture{ambición personal} como pareja.
-
-#### en su corazón,
-##### El texto localiza el problema en el interior.
-
-###### No lo describe como simple comportamiento externo.
-
-###### Esto conecta con otras partes del libro donde lo interno produce lo externo (Santiago 1:14; Santiago 4:1–2).
-
-#### no sean arrogantes
-##### El texto da una prohibición directa.
-
-###### Después de nombrar el interior, el texto ordena una forma de no actuar.
-
-###### La prohibición funciona como corrección inmediata.
-
-#### y mientan así contra la verdad.
-##### El texto agrega una segunda prohibición ligada a la verdad.
-
-###### \scripture{y} une las dos prohibiciones como parte de una misma corrección.
-
-###### \scripture{así} conecta la mentira con el cuadro anterior (celos/ambición en el corazón).
-
-###### \scripture{contra la verdad} pone el choque en términos claros: verdad vs mentira.
-
-##### Esto empuja al v.15.
-###### El v.15 tomará este cuadro y lo clasificará: \scripture{esta sabiduría…}.
-
-### Santiago 3:15  
-Esta sabiduría no es la que viene de lo alto, sino que es terrenal, natural, diabólica.
-
-#### Esta sabiduría
-##### El texto nombra el paquete completo de 3:14 con una etiqueta.
-
-###### No empieza una sabiduría nueva aquí; está señalando lo que acaba de describir.
-
-###### \scripture{esta} apunta hacia atrás: celos/ambición/arrogancia/mentira (Santiago 3:14).
-
-#### no es la que viene de lo alto,
-##### El texto define primero por negación de origen.
-
-###### \scripture{no es} marca un límite.
-
-###### \scripture{viene de lo alto} introduce un lenguaje de origen que ya apareció antes (Santiago 1:17).
-
-##### Esto prepara el \scripture{sino}.
-
-###### El texto no solo niega; va a decir qué es.
-
-#### sino que es terrenal, natural, diabólica.
-
-##### El texto reemplaza el origen negado con una lista de clasificaciones.
-
-###### \scripture{sino} marca contraste directo.
-
-###### La lista acumula tres etiquetas, una tras otra, sin explicación larga aquí.
-
-###### La función es clasificar esta \scripture{sabiduría} por su tipo/origen, antes de mostrar su fruto (v.16).
-
-##### Esto empuja al v.16.
-
-###### El v.16 comenzará con \scripture{Porque…}, o sea, dará el resultado visible.
-
-### Santiago 3:16  
-Porque donde hay celos y ambición personal, allí hay confusión y toda cosa mala.
-
-#### Porque donde hay celos y ambición personal,
-##### El texto vuelve a la base: dónde aparecen estos motores, qué pasa allí.
-
-###### \scripture{Porque} muestra que esto explica lo anterior (3:15).
-
-###### Repite \scripture{celos} y \scripture{ambición personal} para que no se pierda el hilo (Santiago 3:14; Santiago 3:16).
-
-##### El texto lo trata como regla de lugar.
-
-###### \scripture{donde hay… allí hay…} es un patrón claro: presencia → resultado.
-
-#### allí hay confusión
-##### El texto nombra el primer resultado visible.
-
-###### \scripture{confusión} aparece como efecto.
-
-###### No lo presenta como posibilidad; lo presenta como consecuencia ligada al \scripture{donde hay…}.
-
-#### y toda cosa mala.
-##### El texto amplía el resultado al máximo.
-
-###### \scripture{y} añade una segunda salida.
-
-###### \scripture{toda} amplía el alcance: no limita el daño a un área pequeña.
-
-##### Esto prepara el contraste del v.17.
-
-###### Después de mostrar el \scripture{allí hay…}, el v.17 empezará con \scripture{Pero… la sabiduría de lo alto…}.
-
-### Santiago 3:17  
-Pero la sabiduría de lo alto es primeramente pura, después pacífica, amable, condescendiente, llena de misericordia y de buenos frutos, sin vacilación, sin hipocresía.
-
-#### Pero la sabiduría de lo alto
-##### El texto presenta el contraste directo.
-
-###### \scripture{Pero} marca oposición con el cuadro 3:14–16.
-
-###### \scripture{de lo alto} retoma el lenguaje de origen (Santiago 1:17; Santiago 3:15; Santiago 3:17).
-
-##### Ahora el texto describe por rasgos.
-
-###### En vez de \scripture{celos/ambición}, aquí viene una lista de características.
-
-#### es primeramente pura, después pacífica, amable, condescendiente,
-##### El texto ordena rasgos uno tras otro.
-
-###### \scripture{primeramente… después…} muestra orden en la descripción.
-
-###### La lista no discute; enumera cómo se ve esta sabiduría.
-
-##### Esto prepara el cierre del v.18.
-###### El v.18 hablará de \scripture{fruto} y de \scripture{paz} como resultado visible.
-
-#### llena de misericordia y de buenos frutos,
-##### El texto incluye contenido y resultado visible en la misma frase.
-
-###### \scripture{llena de} indica abundancia, no poco.
-
-###### \scripture{misericordia} y \scripture{buenos frutos} conectan con lo que se ve hacia afuera.
-
-##### Esto conversa con el flujo del libro.
-
-###### El libro ya usó \scripture{misericordia} como punto de cierre fuerte (Santiago 2:13).
-
-###### Aquí aparece como rasgo de una orientación \scripture{de lo alto}.
-
-#### sin vacilación, sin hipocresía.
-##### El texto cierra la lista con dos negaciones.
-
-###### \scripture{sin… sin…} marca ausencia de mezcla o doblez.
-
-###### Esta forma de cierre conversa con el lenguaje de \scripture{doble ánimo/inestable} (Santiago 1:8), sin forzar una conclusión nueva.
-
-### Santiago 3:18  
-Y la semilla cuyo fruto es la justicia se siembra en paz por aquellos que hacen la paz.
-
-###### Referencias cruzadas: Proverbios 14:30; Proverbios 15:1; Gálatas 5:19–23.
-
-#### Y la semilla cuyo fruto es la justicia
-##### El texto pasa de lista de rasgos a una imagen de siembra y fruto.
-
-###### \scripture{Y} mantiene continuidad: no es un nuevo tema.
-
-###### \scripture{semilla} y \scripture{fruto} conectan con \scripture{buenos frutos} del v.17 (Santiago 3:17–18).
-
-#### se siembra en paz
-##### El texto nombra el ambiente y el modo: paz.
-
-###### \scripture{en paz} recoge lo que ya nombró: \scripture{pacífica} (Santiago 3:17).
-
-###### La paz no es solo un rasgo en lista; ahora aparece como el medio donde ocurre la siembra.
-
-#### por aquellos que hacen la paz.
-##### El texto cierra con un sujeto concreto: \scripture{los que hacen}.
-
-###### No queda en concepto; nombra un grupo por su acción: \scripture{hacen la paz}.
-
-###### El cierre amarra todo el tramo 3:13–18: se pregunta por evidencia (3:13), se contrasta origen y resultados (3:14–16), y se cierra con resultado/producción en paz (3:17–18).
-
-##### Esto empuja a 4:1.
-###### El siguiente versículo abrirá con otra pregunta, ahora sobre conflictos: \scripture{¿De dónde vienen las guerras…?} (Santiago 4:1).
-
-###### El paso de \scripture{paz} (3:18) a \scripture{guerras/conflictos} (4:1) forma un contraste inmediato en el flujo.
-
-> En Síntesis
->- Vimos la sección: Santiago 3:13–18 - Dos orientaciones, dos resultados opuestos.
->- Anclas trabajadas: Santiago 3:15, Santiago 3:16, Santiago 3:17, Santiago 3:18.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-# SANTIAGO 4:1–17 - LA FRACTURA SE VUELVE CONFLICTO Y PRESUNCIÓN
-
-## Santiago 4:1–10 - Los conflictos dejan ver pasiones internas; la carta llama a reorientación
-
-### Santiago 4:1  
-¿De dónde vienen las guerras y los conflictos entre ustedes? ¿No vienen de las pasiones que combaten en sus miembros?
-
-#### ¿De dónde vienen las guerras y los conflictos entre ustedes?
-##### El texto abre con una pregunta que busca mostrar causa, no solo describir el problema.
-
-###### No pregunta \scripture{qué están haciendo}, sino \scripture{de dónde vienen}.
-
-###### \scripture{entre ustedes} mantiene el enfoque dentro de la comunidad. No es un problema lejano.
-
-##### Esto crea una expectativa inmediata.
-
-###### La pregunta pide una explicación. La siguiente pregunta empieza a darla.
-
-#### ¿No vienen de las pasiones que combaten en sus miembros?
-##### El texto responde con otra pregunta que apunta hacia adentro.
-
-###### \scripture{¿No vienen…?} suena como: \scripture{ustedes ya deberían ver esto}.
-
-###### \scripture{pasiones} nombra un motor interno.
-
-###### \scripture{combaten en sus miembros} describe conflicto interno como fuente de conflicto externo.
-
-##### Esto abre la cadena que seguirá en 4:2–3.
-
-###### Los versículos siguientes describirán cómo esas pasiones se ven en acciones y resultados.
-
-### Santiago 4:2  
-Ustedes codician y no tienen, por eso cometen homicidio. Son envidiosos y no pueden obtener, por eso combaten y hacen guerra. No tienen, porque no piden.
-
-#### Ustedes codician y no tienen,
-##### El texto empieza con una secuencia simple: deseo → falta.
-
-###### \scripture{codician} nombra deseo.
-
-###### \scripture{no tienen} nombra resultado inmediato: carencia.
-
-##### Esta línea pone la base del resto del versículo.
-
-###### Lo que sigue muestra qué sale de esa combinación.
-
-#### por eso cometen homicidio.
-##### El texto conecta deseo frustrado con un resultado extremo.
-
-###### \scripture{por eso} es conexión de causa a consecuencia.
-
-###### El texto no suaviza el resultado; lo nombra.
-
-##### Esto también prepara la repetición que viene.
-
-###### El texto repetirá el mismo patrón con otras palabras.
-
-#### Son envidiosos y no pueden obtener,
-##### El patrón se repite con sinónimos y refuerzo.
-
-###### \scripture{envidiosos} mantiene la misma zona del corazón.
-
-###### \scripture{no pueden obtener} repite la carencia con otro verbo.
-
-##### La repetición ayuda a ver que no es un caso aislado.
-
-###### Es una cadena que vuelve a empezar.
-
-#### por eso combaten y hacen guerra.
-##### Segunda consecuencia, ahora en términos comunitarios.
-
-###### \scripture{por eso} vuelve a conectar causa y resultado.
-
-###### \scripture{combaten} y \scripture{hacen guerra} retoman la pregunta del v.1 (guerras/conflictos).
-
-##### El texto amarra el hilo del v.1.
-
-###### Lo que \scripture{viene} (4:1) ahora se ve en acciones (4:2).
-
-#### No tienen, porque no piden.
-##### El texto introduce un giro: falta → pedir.
-
-###### Repite \scripture{no tienen}, pero ahora con otra razón.
-
-###### \scripture{porque} introduce base: no pedir explica no tener.
-
-##### Esto empuja al v.3.
-
-###### El v.3 tratará el problema del pedir: pedir mal y no recibir.
-
-### Santiago 4:3  
-Piden y no reciben, porque piden con malos propósitos, para gastarlo en sus placeres.
-
-###### (Referencias cruzadas: 1 Juan 2:15–17; Proverbios 13:10)
-
-#### Piden y no reciben,
-##### El texto pone un segundo patrón: pedir → no recibir.
-
-###### Ya no es solo \scripture{no tienen}; ahora es \scripture{piden}.
-
-###### \scripture{no reciben} introduce el resultado negativo del pedir.
-
-##### Esto conecta directamente con 1:5–8.
-
-###### Allí también hubo pedir/recibir, con una condición (Santiago 1:5–8).
-
-#### porque piden con malos propósitos,
-##### El texto da la razón del no recibir.
-
-###### \scripture{porque} explica el \scripture{no reciben}.
-
-###### \scripture{malos propósitos} nombra el problema del pedir, no como falta de técnica, sino como motivo.
-
-##### El texto se mantiene en causa interna.
-
-###### Igual que 4:1–2, vuelve a lo que mueve por dentro.
-
-#### para gastarlo en sus placeres.
-##### El texto muestra hacia dónde apunta el pedir.
-
-###### \scripture{para} marca finalidad.
-
-###### \scripture{placeres} vuelve al campo de \scripture{pasiones} (4:1) y lo concreta.
-
-##### Esto empuja al v.4.
-
-###### El v.4 subirá el tono y nombrará una lealtad: amistad del mundo vs Dios.
-
-### Santiago 4:4  
-¡Oh almas adúlteras! ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios? Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.
-
-###### (Referencias cruzadas: Juan 15:18–19; Romanos 8:7)
-
-#### ¡Oh almas adúlteras!
-##### El texto cambia el tono y llama la atención con una acusación directa.
-
-###### Es una interrupción fuerte: no es explicación, es confrontación.
-
-###### Prepara el peso de lo que sigue.
-
-##### Esto señala que el tema no es pequeño.
-
-###### El texto va a hablar de amistad/enemistad.
-
-#### ¿No saben ustedes que la amistad del mundo es enemistad hacia Dios?
-##### El texto formula la idea como algo que deberían reconocer.
-
-###### \scripture{¿No saben…?} empuja al lector a admitir lo evidente según el texto.
-
-###### \scripture{amistad… enemistad} pone una oposición clara.
-
-###### \scripture{hacia Dios} define el eje del contraste: no es solo social, es dirección de relación.
-
-##### Esto también conecta con el bloque de \scripture{pedir para placeres}.
-
-###### Lo que se pidió \scripture{para placeres} ahora se ubica bajo una categoría más amplia (amistad del mundo).
-
-#### Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios.
-##### El texto convierte la afirmación en conclusión.
-
-###### \scripture{Por tanto} marca consecuencia.
-
-###### \scripture{el que quiere ser} muestra intención/elección.
-
-###### El resultado está declarado: \scripture{se constituye enemigo}.
-
-##### Esto empuja al v.5.
-
-###### El v.5 apelará a la Escritura para sostener el punto.
-
-### Santiago 4:5  
-¿O piensan que la Escritura dice en vano: «Dios celosamente anhela el Espíritu que ha hecho morar en nosotros?».
-
-#### ¿O piensan que la Escritura dice en vano:
-##### El texto apela a la Escritura y lo plantea como pregunta.
-
-###### \scripture{¿O piensan…?} empuja al lector a revisar su suposición.
-
-###### \scripture{dice en vano} niega que sea palabra vacía. El texto insiste: la Escritura tiene peso aquí.
-
-##### Esto prepara la cita.
-
-###### La cita funciona como soporte del argumento de amistad/enemistad.
-
-#### «Dios celosamente anhela el Espíritu que ha hecho morar en nosotros?». 
-##### La cita sostiene el punto con lenguaje de deseo y pertenencia.
-
-###### Aparece \scripture{celosamente} como intensificación.
-
-###### \scripture{ha hecho morar en nosotros} conecta con interioridad: algo puesto \scripture{en nosotros}.
-
-##### Esto empuja al v.6.
-
-###### El v.6 empezará con \scripture{Pero}, introduciendo un contrapeso: \scripture{da mayor gracia}.
-
-### Santiago 4:6  
-Pero Él da mayor gracia. Por eso dice: «DIOS RESISTE A LOS SOBERBIOS, PERO DA GRACIA A LOS HUMILDES».
-
-#### Pero Él da mayor gracia.
-##### El texto introduce un giro con \scripture{pero}.
-
-###### Después de confrontación (4:4–5), \scripture{pero} abre una salida: gracia.
-
-###### \scripture{mayor} intensifica: no es poca.
-
-##### Esto empuja a una cita.
-
-###### El texto dice \scripture{por eso dice…}.
-
-#### Por eso dice:
-##### El texto conecta la afirmación con una palabra citada.
-
-###### \scripture{Por eso} presenta la cita como apoyo, no como adorno.
-
-###### El texto sigue moviéndose por: afirmación → soporte.
-
-#### «DIOS RESISTE A LOS SOBERBIOS,
-##### La cita presenta un primer lado del contraste.
-
-###### \scripture{resiste} describe acción de oposición.
-
-###### \scripture{soberbios} nombra un tipo de postura interna.
-
-##### Esto prepara el segundo lado.
-
-###### El texto pondrá el contraste con \scripture{pero}.
-
-#### PERO DA GRACIA A LOS HUMILDES».
-##### La cita cierra con el contraste opuesto.
-
-###### \scripture{pero} marca oposición dentro de la cita.
-
-###### \scripture{da gracia} retoma la línea de 4:6 \scripture{da mayor gracia}.
-
-###### \scripture{humildes} nombra el otro tipo de postura.
-
-##### Esto empuja al v.7.
-###### El v.7 empezará con \scripture{Por tanto} y convertirá esto en instrucciones.
-
-### Santiago 4:7  
-Por tanto, sométanse a Dios. Resistan, pues, al diablo y huirá de ustedes.
-
-#### Por tanto, sométanse a Dios.
-##### El texto pasa de diagnóstico/cita a mandato.
-
-###### \scripture{Por tanto} marca consecuencia.
-
-###### \scripture{sométanse} es instrucción directa.
-
-###### El objeto es claro: \scripture{a Dios}.
-
-##### Esto responde al eje de 4:4.
-
-###### Allí hubo amistad/enemistad hacia Dios. Aquí hay una dirección concreta: someterse a Dios.
-
-#### Resistan, pues, al diablo
-##### El texto añade una segunda instrucción con \scripture{pues}.
-
-###### \scripture{Resistan} es otro mandato.
-
-###### \scripture{pues} conecta como razón/continuidad dentro del mismo movimiento.
-
-##### Esto prepara un resultado inmediato.
-
-###### La frase siguiente declara lo que ocurre.
-
-#### y huirá de ustedes.
-##### El texto declara un resultado simple.
-
-###### \scripture{huirá} es consecuencia directa, no una posibilidad abierta.
-
-###### \scripture{de ustedes} mantiene el enfoque comunitario.
-
-##### Esto empuja al v.8.
-###### 4:8 continuará con más instrucciones en cadena.
-
-### Santiago 4:8  
-Acérquense a Dios, y Él se acercará a ustedes. Limpien sus manos, pecadores; y ustedes de doble ánimo, purifiquen sus corazones.
-
-#### Acérquense a Dios,
-##### El texto continúa con un mandato hacia Dios.
-
-###### Es otro verbo de dirección: acercarse.
-
-###### Mantiene el mismo eje que 4:7: relación con Dios.
-
-#### y Él se acercará a ustedes.
-##### El texto declara una respuesta correspondiente.
-
-###### \scripture{y} une mandato con resultado.
-
-###### El texto presenta correspondencia: ustedes → Él.
-
-##### Esto prepara una limpieza más específica.
-
-###### La siguiente oración trae dos mandatos más.
-
-#### Limpien sus manos, pecadores;
-
-##### El texto usa imagen concreta: manos.
-
-###### \scripture{Limpien} es mandato.
-
-###### \scripture{manos} es imagen visible de acción.
-
-###### \scripture{pecadores} es un llamado directo que califica a los destinatarios en ese momento.
-
-##### El \scripture{;} mantiene la cadena.
-
-###### No cierra; sigue con otra línea dirigida a otro rasgo.
-
-#### y ustedes de doble ánimo,
-##### El texto retoma una etiqueta del capítulo 1.
-
-###### \scripture{doble ánimo} conecta con Santiago 1:8.
-
-###### El texto vuelve a nombrar la inestabilidad interna en este bloque de conflicto.
-
-##### Esto prepara el mandato siguiente.
-
-###### El texto dirá qué hacer con esa condición.
-
-#### purifiquen sus corazones.
-##### El texto pasa de manos a corazón.
-
-###### \scripture{purifiquen} es mandato.
-
-###### \scripture{corazones} nombra interioridad, en paralelo con \scripture{pasiones} (4:1) y \scripture{propósitos} (4:3).
-
-##### Esto empuja al v.9.
-###### 4:9 seguirá con una cadena de respuestas (aflíjanse, laméntense, lloren).
-
-### Santiago 4:9  
-Aflíjanse, laméntense y lloren. Que su risa se convierta en lamento y su gozo en tristeza.
-
-#### Aflíjanse, laméntense y lloren.
-##### El texto acumula mandatos en serie.
-
-###### Tres verbos seguidos aumentan intensidad.
-
-###### Es una cadena, no un consejo suave.
-
-##### Esto prepara el cambio que el texto pide.
-
-###### La siguiente frase dice \scripture{Que… se convierta…}.
-
-#### Que su risa se convierta en lamento
-##### El texto pide un cambio de expresión.
-
-###### \scripture{risa} y \scripture{lamento} están puestos en contraste.
-
-###### \scripture{se convierta} nombra transformación de un estado a otro, según el texto.
-
-#### y su gozo en tristeza.
-##### El contraste se repite con otra pareja.
-
-###### \scripture{gozo} ↔ \scripture{tristeza}.
-
-###### La repetición refuerza el punto: el texto pide un giro visible.
-
-##### Esto empuja al v.10.
-
-###### 4:10 cerrará esta cadena con un mandato y un resultado.
-
-### Santiago 4:10  
-Humíllense en la presencia del Señor y Él los exaltará.
-
-###### (Referencias cruzadas: Proverbios 3:34; 1 Pedro 5:5; Efesios 6:10–13)
-
-#### Humíllense en la presencia del Señor
-##### El texto resume la dirección con un verbo clave.
-
-###### \scripture{Humíllense} junta el hilo de 4:6 (humildes) con la cadena de 4:7–9.
-
-###### \scripture{en la presencia del Señor} ubica el acto delante del Señor, no solo como actitud interna sin referencia.
-
-##### Esto funciona como cierre del tramo 4:7–10.
-
-###### Después de varios mandatos, aquí hay un mandato que recoge el sentido.
-
-#### y Él los exaltará.
-##### El texto cierra con un resultado declarado.
-
-###### \scripture{y} conecta mandato con resultado.
-
-###### \scripture{Él los exaltará} declara una consecuencia en forma directa.
-
-##### Esto prepara 4:11–12.
-
-###### Después de esta cadena de reorientación, el texto pasará a una corrección concreta sobre hablar/juzgar al hermano (Santiago 4:11–12).
-
-> En Síntesis
->- Anclas trabajadas: Santiago 4:7, Santiago 4:8, Santiago 4:9, Santiago 4:10.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-## Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez)
-
-### Santiago 4:11  
-Hermanos, no hablen mal los unos de los otros. El que habla mal de un hermano o juzga a su hermano, habla mal de la ley y juzga a la ley. Pero si tú juzgas a la ley, no eres cumplidor de la ley, sino juez de ella.
-
-#### Hermanos,
-##### El texto vuelve a hablar directo a la comunidad.
-
-###### No está hablando de \scripture{gente afuera}. Está corrigiendo algo dentro del grupo.
-
-###### Esto sigue la línea de 4:1–10: conflictos dentro de \scripture{ustedes}, y ahora una corrección concreta dentro de la misma comunidad (Santiago 4:1; Santiago 4:11).
-
-#### no hablen mal los unos de los otros.
-##### El texto empieza con una prohibición simple.
-
-###### No da un ejemplo primero; prohíbe una práctica de habla.
-
-###### \scripture{los unos de los otros} muestra que es horizontal, entre miembros.
-
-#### El que habla mal de un hermano
-##### El texto define el caso con una acción repetible.
-
-###### No dice \scripture{si pasó una vez}. Nombra un patrón: \scripture{el que…}.
-
-###### \scripture{de un hermano} mantiene el marco comunitario: se trata de cómo se habla dentro de la familia del grupo.
-
-#### o juzga a su hermano,
-##### El texto une hablar mal con juzgar.
-
-###### No los separa como dos cosas distintas sin relación. Los coloca juntos en el mismo caso.
-
-###### \scripture{su hermano} lo hace todavía más cercano: no es un extraño.
-
-#### habla mal de la ley
-##### El texto mueve el foco del \scripture{hermano} a la \scripture{ley}.
-
-###### Aquí el texto conecta el trato al hermano con un segundo objeto: la ley.
-
-###### La frase muestra una consecuencia de lo que se hace con la boca: termina afectando cómo se trata la ley.
-
-#### y juzga a la ley.
-##### El texto repite el mismo verbo \scripture{juzgar}, pero ahora aplicado a la ley.
-
-###### Primero fue \scripture{juzga a su hermano}; ahora \scripture{juzga a la ley}.
-
-###### Esto hace el movimiento visible: juicio hacia una persona → juicio hacia la ley.
-
-#### Pero si tú juzgas a la ley,
-##### El texto aprieta el punto y lo aplica en segunda persona.
-
-###### \scripture{Pero} marca un giro: ahora el texto especifica la implicación.
-
-###### \scripture{tú} hace la corrección personal. No deja el punto como teoría general.
-
-#### no eres cumplidor de la ley,
-##### El texto pone un contraste de rol.
-
-###### Presenta dos categorías: \scripture{cumplidor} vs \scripture{juez}.
-
-###### Aquí afirma que juzgar la ley te saca del rol de cumplirla.
-
-#### sino juez de ella.
-##### El texto cierra la frase con la clasificación contraria.
-
-###### \scripture{sino} marca el otro lado del contraste.
-
-###### El punto queda cerrado: juzgar la ley = ocupar el rol de juez de la ley.
-
-##### Esto empuja al v.12.
-###### El v.12 dirá por qué ese rol está fuera de lugar: hay \scripture{un Legislador y Juez} (Santiago 4:12).
-
-### Santiago 4:12  
-Solo hay un Legislador y Juez, que es poderoso para salvar y para destruir. Pero tú, ¿quién eres que juzgas a tu prójimo?
-
-##### (Referencias cruzadas: Romanos 14:4)
-
-#### Solo hay un Legislador y Juez,
-##### El texto pone un límite con una frase absoluta.
-
-###### \scripture{Solo hay un} elimina la competencia: no deja espacio para varios jueces.
-
-###### \scripture{Legislador y Juez} une dos funciones: el que da la ley y el que juzga.
-
-##### Esto responde directamente al final del v.11.
-
-###### Si alguien se pone como \scripture{juez de la ley}, el v.12 responde: el juez no se multiplica.
-
-#### que es poderoso para salvar y para destruir.
-##### El texto añade una razón: poder real sobre resultados.
-
-###### \scripture{poderoso} describe capacidad, no solo título.
-
-###### \scripture{salvar} y \scripture{destruir} ponen el juicio en términos de resultado extremo (dos direcciones opuestas).
-
-##### Esto conecta con el hilo del libro sobre resultados.
-
-###### El libro ya ha hablado de \scripture{salvar} (Santiago 1:21; Santiago 2:14; Santiago 4:12), y aquí aparece de nuevo con su opuesto en la misma línea.
-
-#### Pero tú,
-##### El texto vuelve a contraste directo y personal.
-
-###### \scripture{Pero} introduce oposición entre el único Juez y el \scripture{tú}.
-
-###### El texto no deja que el lector se esconda detrás de generalidades.
-
-#### ¿quién eres que juzgas a tu prójimo?
-##### El texto cierra con una pregunta que confronta el rol.
-
-###### La pregunta no busca información; empuja a reconocer desajuste: \scripture{tú} no eres el Legislador y Juez.
-
-###### \scripture{tu prójimo} amplía el alcance: no es solo \scripture{hermano} (v.11), es el otro cercano en general.
-
-##### Esto empuja al siguiente bloque (4:13–17).
-
-###### Después de corregir habla/juzgar (4:11–12), el texto pasará a otra corrección de palabra y postura: planes, jactancia, y el \scripture{mañana} (Santiago 4:13–17).
-
-> En Síntesis
->- Vimos la sección: Santiago 4:11–12 - Juzgar al otro muestra un cambio de rol (cumplidor vs juez).
->- Anclas trabajadas: Santiago 4:9, Santiago 4:10, Santiago 4:11, Santiago 4:12.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-## Santiago 4:13–17 - La presunción deja ver una estabilidad falsa
-
-### Santiago 4:13  
-Oigan ahora, ustedes que dicen: «Hoy o mañana iremos a tal o cual ciudad y pasaremos allá un año, haremos negocio y tendremos ganancia».
-
-#### Oigan ahora,
-##### El texto llama la atención y abre un caso nuevo.
-
-###### No empieza suave. Empieza con un \scripture{oigan}.
-
-###### Esto marca: \scripture{pongan atención, porque lo que sigue es importante}.
-
-#### ustedes que dicen:
-##### El texto enfoca el problema en palabras concretas.
-
-###### No empieza con \scripture{lo que piensan}. Empieza con \scripture{lo que dicen}.
-
-###### Presenta un ejemplo de habla que se puede escuchar y reconocer.
-
-#### «Hoy o mañana iremos a tal o cual ciudad
-##### La frase pone tiempo y lugar como si fueran seguros.
-
-###### \scripture{hoy o mañana} habla del tiempo como si estuviera en la mano.
-
-###### \scripture{tal o cual ciudad} habla del lugar como si ya estuviera decidido.
-
-#### y pasaremos allá un año,
-##### El texto sube la certeza: ahora no es solo ir, es planear duración.
-
-###### No es \scripture{iremos y veremos}. Es \scripture{pasaremos un año}.
-
-###### La frase acumula control sobre el futuro.
-
-#### haremos negocio
-##### El plan incluye acción y control de actividad.
-
-###### Ya no es solo movimiento (ir). Es actividad definida (negocio).
-
-#### y tendremos ganancia».
-##### El plan termina en resultado asegurado.
-
-###### No dice \scripture{tal vez ganemos}. Dice \scripture{tendremos ganancia}.
-
-###### El texto deja el ejemplo completo para que se oiga su tono de seguridad.
-
-##### Esto empuja al v.14.
-###### El v.14 responderá a esa seguridad con un \scripture{Sin embargo} y con una negación: \scripture{no saben}.
-
-### Santiago 4:14  
-Sin embargo, ustedes no saben cómo será su vida mañana. Solo son un vapor que aparece por un poco de tiempo y luego se desvanece.
-
-#### Sin embargo,
-##### El texto corta el ejemplo del v.13 con un contraste directo.
-
-###### Es como decir: \scripture{pero aquí está el problema}.
-
-###### Cambia de \scripture{lo que ustedes dicen} a \scripture{lo que ustedes no saben}.
-
-#### ustedes no saben
-##### El texto niega conocimiento del futuro.
-
-###### Esto choca con la seguridad del v.13.
-
-###### El texto no discute detalles; va al punto: \scripture{no saben}.
-
-#### cómo será su vida mañana.
-##### El texto especifica el límite: mañana y la vida.
-
-###### No es solo \scripture{no saben el clima}. Es \scripture{no saben su vida mañana}.
-
-###### Esto reduce el \scripture{hoy o mañana} del v.13 a algo incierto.
-
-#### Solo son un vapor
-##### El texto usa una imagen corta para describir fragilidad.
-
-###### \scripture{vapor} comunica algo que está, pero no se puede agarrar.
-
-###### La palabra es breve, como la idea: poca duración.
-
-#### que aparece por un poco de tiempo
-##### El texto describe duración limitada.
-
-###### \scripture{aparece} sugiere presencia momentánea.
-
-###### \scripture{por un poco de tiempo} pone límite claro.
-
-#### y luego se desvanece.
-##### El texto cierra la imagen con desaparición.
-
-###### La secuencia es simple: aparece → poco tiempo → se desvanece.
-
-###### Esto prepara el v.15: si no controlas mañana, cómo debes hablar.
-
-### Santiago 4:15  
-Más bien, debieran decir: Si el Señor quiere, viviremos y haremos esto o aquello.
-
-#### Más bien,
-##### El texto presenta la alternativa.
-
-###### Después del \scripture{Sin embargo} (v.14), ahora ofrece un \scripture{Más bien}.
-
-###### No solo critica; reemplaza la forma de hablar.
-
-#### debieran decir:
-##### El texto manda una corrección de lenguaje.
-
-###### Otra vez el foco es \scripture{decir}.
-
-###### El texto corrige cómo se habla sobre planes.
-
-#### Si el Señor quiere,
-##### El texto introduce una condición que pone el control fuera de uno mismo.
-
-###### No borra los planes; los condiciona.
-
-###### La frase cambia el tono del v.13: ya no es \scripture{iremos}, sino \scripture{si…}.
-
-#### viviremos
-##### El texto empieza por lo más básico: seguir con vida.
-
-###### Antes de \scripture{haremos negocio}, primero está \scripture{viviremos}.
-
-###### Eso responde al punto del v.14: no sabes tu vida mañana.
-
-#### y haremos esto o aquello.
-##### El texto deja las acciones abiertas y subordinadas.
-
-###### \scripture{esto o aquello} no suena como un plan cerrado.
-
-###### La idea es: se puede actuar, pero no con seguridad absoluta.
-
-##### Esto empuja al v.16.
-
-###### El v.16 evaluará el modo anterior de hablar como \scripture{jactancia}.
-
-### Santiago 4:16  
-Pero ahora se jactan en su arrogancia. Toda jactancia semejante es mala.
-
-#### Pero ahora
-##### El texto vuelve al contraste y al presente.
-
-###### \scripture{Pero} vuelve a oponerse a lo que debería ser (v.15).
-
-###### \scripture{ahora} trae el problema al presente: así están hablando/actuando.
-
-#### se jactan en su arrogancia.
-##### El texto nombra el tono del ejemplo del v.13.
-
-###### \scripture{jactan} describe el hablar como presumido.
-
-###### \scripture{arrogancia} nombra la actitud detrás de esa jactancia.
-
-#### Toda jactancia semejante es mala.
-##### El texto cierra con una evaluación general.
-
-###### \scripture{toda} amplía: no es solo ese ejemplo, es ese tipo de jactancia.
-
-###### \scripture{es mala} es veredicto directo, sin matices.
-
-##### Esto empuja al v.17.
-
-###### El v.17 termina el bloque con un principio breve: saber lo bueno y no hacerlo.
-
-### Santiago 4:17  
-A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado.
-
-##### (Referencias cruzadas: Proverbios 27:1; Lucas 12:16–21)
-
-#### A aquel, pues,
-##### El texto marca conclusión con \scripture{pues}.
-
-###### \scripture{pues} conecta con lo anterior como cierre lógico.
-
-###### Cambia de ejemplo de planes a un principio general.
-
-#### que sabe hacer lo bueno
-##### El texto define el caso por conocimiento.
-
-###### No habla de ignorancia.
-
-###### Habla de saber qué es lo bueno.
-
-#### y no lo hace,
-##### El texto define el problema como falta de acción.
-
-###### Saber y no hacer quedan juntos como contraste.
-
-###### El texto reduce la excusa: no es falta de información.
-
-#### le es pecado.
-##### El texto cierra con un veredicto.
-
-###### Es una frase corta que termina el bloque.
-
-###### Esto prepara el cambio de dirección del capítulo 5: el texto pasará a otro \scripture{Oigan ahora…} (Santiago 5:1).
-
-> En Síntesis
->- Vimos la sección: Santiago 4:13–17 - La presunción deja ver una \scripture{estabilidad} falsa.
->- Anclas trabajadas: Santiago 4:14, Santiago 4:15, Santiago 4:16, Santiago 4:17.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-<!-- @quiz santiago-3-1-4-17 -->
-
-# SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN
-
-## Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio
-
-### Santiago 5:1  
-¡Oigan ahora, ricos! Lloren y aúllen por las miserias que vienen sobre ustedes.
-
-#### ¡Oigan ahora, ricos!
-##### El texto abre con un llamado fuerte y directo.
-
-###### \scripture{Oigan ahora} marca un inicio nuevo y llama atención, como un golpe de mesa.
-
-###### \scripture{ricos} nombra el grupo al que va dirigido este tramo. No es general; es específico.
-
-#### Lloren y aúllen
-##### El texto manda una respuesta visible.
-
-###### Son dos verbos seguidos. El tono es urgente y pesado.
-
-###### No está invitando a considerar; está ordenando una reacción.
-
-#### por las miserias que vienen sobre ustedes.
-##### El texto da la razón inmediata del mandato.
-
-###### \scripture{por} conecta el mandato con lo que viene.
-
-###### \scripture{que vienen sobre ustedes} pone la situación como algo que se acerca y cae encima.
-
-##### Esto empuja al v.2.
-
-###### El v.2 empieza a mostrar por qué: describe deterioro en \scripture{riquezas} y \scripture{ropas}.
-
-### Santiago 5:2  
-Sus riquezas se han podrido y sus ropas están comidas de polilla.
-
-#### Sus riquezas se han podrido
-##### El texto presenta deterioro como hecho.
-
-###### No dice \scripture{se podrían podrir}. Dice \scripture{se han podrido}.
-
-###### El lenguaje suena a estado ya visible, no solo amenaza futura.
-
-#### y sus ropas están comidas de polilla.
-##### El texto añade una segunda evidencia de deterioro.
-
-###### \scripture{y} acumula pruebas: no es un solo dato.
-
-###### \scripture{ropas} baja a lo concreto y cotidiano. La imagen es fácil de ver.
-
-###### \scripture{comidas de polilla} describe daño que consume en silencio, con el tiempo.
-
-##### Esto empuja al v.3.
-
-###### El v.3 seguirá con oro/plata, y convertirá ese deterioro en \scripture{testigo} y en juicio.
-
-### Santiago 5:3  
-Su oro y su plata se han oxidado, su herrumbre será un testigo contra ustedes y consumirá su carne como fuego. Es en los últimos días que han acumulado tesoros.
-
-#### Su oro y su plata se han oxidado,
-##### El texto extiende el deterioro a lo que parece más sólido.
-
-###### Oro y plata suelen asociarse con permanencia, pero el texto los presenta como oxidados.
-
-###### Continúa el mismo patrón de 5:2: estado de deterioro ya declarado.
-
-#### su herrumbre será un testigo contra ustedes
-##### El texto convierte el deterioro en evidencia.
-
-###### La \scripture{herrumbre} no queda como detalle físico; ahora \scripture{testifica}.
-
-###### \scripture{contra ustedes} indica dirección: la evidencia no es neutral.
-
-#### y consumirá su carne como fuego.
-##### El texto intensifica el resultado.
-
-###### \scripture{consumirá} mantiene el lenguaje de destrucción progresiva.
-
-###### \scripture{como fuego} conecta con una imagen de consumo rápido e irreversible.
-
-#### Es en los últimos días que han acumulado tesoros.
-##### El texto ubica el acto en un marco de tiempo y acusa acumulación.
-
-###### \scripture{en los últimos días} pone el acto en un período cargado en el flujo del libro.
-
-###### \scripture{han acumulado} describe una práctica sostenida, no un evento aislado.
-
-##### Esto empuja al v.4.
-###### El v.4 traerá una evidencia específica: un jornal retenido que \scripture{clama}.
-
-### Santiago 5:4  
-Miren, el jornal de los obreros que han segado sus campos y que ha sido retenido por ustedes, clama contra ustedes. El clamor de los segadores ha llegado a los oídos del Señor de los ejércitos.
-
-#### Miren,
-##### El texto ordena mirar la evidencia.
-
-###### \scripture{Miren} funciona como: \scripture{aquí está la prueba}.
-
-###### Cambia de descripción general (5:2–3) a un caso concreto (5:4).
-
-#### el jornal de los obreros que han segado sus campos
-##### El texto nombra el punto específico.
-
-###### \scripture{jornal} es algo concreto y medible.
-
-###### \scripture{obreros} identifica a las personas afectadas.
-
-###### \scripture{sus campos} conecta el caso con la propiedad/actividad de los ricos.
-
-#### y que ha sido retenido por ustedes,
-##### El texto señala la acción injusta como hecho.
-
-###### \scripture{retenido} describe una retención indebida.
-
-###### \scripture{por ustedes} fija responsabilidad directa. No lo deja en un sistema anónimo.
-
-#### clama contra ustedes.
-##### El texto presenta la injusticia como algo que \scripture{habla}.
-
-###### El jornal \scripture{clama}. La evidencia se vuelve voz.
-
-###### \scripture{contra ustedes} repite la dirección del v.3: todo esto se mueve hacia acusación.
-
-#### El clamor de los segadores ha llegado a los oídos del Señor de los ejércitos.
-##### El texto eleva el caso a un nivel de audiencia mayor.
-
-###### Repite \scripture{clamor}, pero ahora de las personas \scripture{segadores}, no solo del jornal.
-
-###### \scripture{ha llegado a los oídos} declara recepción: no queda en el aire.
-
-###### \scripture{Señor de los ejércitos} nombra al oyente con un título fuerte.
-
-##### Esto conduce al v.5.
-###### El v.5 pasará de evidencia laboral a descripción de estilo de vida: lujo y placer.
-
-### Santiago 5:5  
-Han vivido lujosamente sobre la tierra, y han llevado una vida de placer desenfrenado. Han engordado sus corazones en el día de la matanza.
-
-#### Han vivido lujosamente sobre la tierra,
-##### El texto describe un patrón de vida, no un accidente.
-
-###### \scripture{Han vivido} marca continuidad.
-
-###### \scripture{lujosamente} nombra el estilo.
-
-###### \scripture{sobre la tierra} ubica el marco: vida aquí, en este mundo.
-
-#### y han llevado una vida de placer desenfrenado.
-##### El texto repite y refuerza con otra frase paralela.
-
-###### \scripture{y han llevado} mantiene el patrón.
-
-###### \scripture{placer desenfrenado} intensifica: no es placer moderado; es sin freno.
-
-#### Han engordado sus corazones
-##### El texto usa una imagen de preparación para algo.
-
-###### \scripture{engordado} sugiere acumulación y exceso.
-
-###### \scripture{sus corazones} lleva el foco al interior, no solo a lo externo.
-
-#### en el día de la matanza.
-##### El texto ubica esa preparación en un marco de juicio.
-
-###### \scripture{día de la matanza} es una frase dura que suena a llegada de consecuencia.
-
-###### Funciona como antesala del v.6, donde el texto nombra un acto final: condenar y matar.
-
-### Santiago 5:6  
-Han condenado y dado muerte al justo. Él no les hace resistencia.
-
-#### Han condenado
-##### El texto nombra el acto como veredicto contra otro.
-
-###### \scripture{Han condenado} es lenguaje de juicio.
-
-###### Continúa el hilo de \scripture{contra ustedes} (5:3–4), pero ahora se muestra en una acción hacia otro.
-
-#### y dado muerte al justo.
-##### El texto intensifica al máximo.
-
-###### \scripture{y} une condena con muerte: no se queda en palabra; llega a acción terminal.
-
-###### \scripture{al justo} nombra a la víctima por carácter, no por nombre. La categoría importa.
-
-#### Él no les hace resistencia.
-##### El texto cierra con una frase breve que deja la escena desnuda.
-
-###### No hay pelea narrada; hay asimetría.
-
-###### La frase funciona como cierre del oráculo: deja el acto expuesto y sin excusa.
-
-##### Esto empuja al siguiente tramo (5:7).
-###### Después de hablar \scripture{a ricos} (5:1–6), el texto se volverá a \scripture{hermanos} con \scripture{Por tanto} y abrirá un llamado a paciencia (Santiago 5:7).
-
-> En Síntesis
->- Acabamos de ver la sección: Santiago 5:1–6 - Riqueza usada para oprimir: denuncia y juicio.
->- Esto se conectó con lo anterior: SANTIAGO 5:1–20 - CIERRE: ORÁCULO, LLAMADOS FINALES Y RESTAURACIÓN.
->- Anclas trabajadas: Santiago 5:3, Santiago 5:4, Santiago 5:5, Santiago 5:6.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-## Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla
-
-### Santiago 5:7  
-Por tanto, hermanos, sean pacientes hasta la venida del Señor. Miren cómo el labrador espera el fruto precioso de la tierra, siendo paciente en ello hasta que recibe la lluvia temprana y la tardía.
-
-#### Por tanto, hermanos,
-##### El texto cambia de audiencia y marca un giro.
-
-###### Viene después del oráculo contra \scripture{ricos} (Santiago 5:1–6).
-
-###### \scripture{Por tanto} conecta como conclusión: después de lo dicho, ahora viene una instrucción.
-
-###### \scripture{hermanos} cambia el trato: ya no \scripture{ricos}, sino la comunidad directa.
-
-#### sean pacientes hasta la venida del Señor.
-##### El texto da la instrucción principal y le pone un límite de tiempo.
-
-###### \scripture{sean pacientes} es mandato directo.
-
-###### \scripture{hasta la venida del Señor} marca el horizonte: paciencia con una meta temporal, no indefinida.
-
-#### Miren cómo el labrador espera el fruto precioso de la tierra,
-##### El texto manda mirar un ejemplo.
-
-###### \scripture{Miren} llama la atención a algo visible y fácil de entender.
-
-###### La escena es simple: un labrador esperando fruto.
-
-#### siendo paciente en ello
-##### El texto repite la misma idea en otra forma.
-
-###### Ya dijo \scripture{sean pacientes}. Ahora lo vuelve a decir aplicado al ejemplo: \scripture{siendo paciente}.
-
-###### Esto refuerza el punto sin cambiar de tema.
-
-#### hasta que recibe la lluvia temprana y la tardía.
-##### El texto concreta cómo se ve esa paciencia.
-
-###### \scripture{hasta que} muestra espera prolongada.
-
-###### \scripture{recibe la lluvia temprana y la tardía} pone el ejemplo en etapas: no es una espera de un solo momento.
-
-##### Esto empuja al v.8.
-
-###### El v.8 repite \scripture{sean pacientes} y añade otra instrucción: fortalecer el corazón (Santiago 5:8).
-
-### Santiago 5:8  
-Sean también ustedes pacientes. Fortalezcan sus corazones, porque la venida del Señor está cerca.
-
-#### Sean también ustedes pacientes.
-##### El texto repite el mandato y lo aplica directamente al grupo.
-
-###### \scripture{también ustedes} hace la aplicación explícita: no solo el labrador, ustedes.
-
-###### La repetición muestra que esta es la línea principal del tramo (5:7–11).
-
-#### Fortalezcan sus corazones,
-##### El texto añade una segunda instrucción que sostiene la paciencia.
-
-###### \scripture{Fortalezcan} es otro mandato.
-
-###### \scripture{sus corazones} nombra el centro interno que necesita firmeza para sostener la espera.
-
-#### porque la venida del Señor está cerca.
-##### El texto da la razón inmediata para fortalecer el corazón.
-
-###### \scripture{porque} explica el mandato anterior.
-
-###### \scripture{está cerca} pone la venida como algo próximo, no lejano.
-
-##### Esto empuja al v.9.
-
-###### El v.9 dará una instrucción concreta para la vida comunitaria mientras esperan: no quejarse (Santiago 5:9).
-
-### Santiago 5:9  
-Hermanos, no se quejen unos contra otros, para que no sean juzgados. Ya el Juez está a las puertas.
-
-#### Hermanos,
-##### El texto vuelve a hablar directo y mantiene el marco comunitario.
-
-###### Sigue usando \scripture{hermanos} como trato directo, igual que en 5:7.
-
-###### Mantiene el mismo tramo exhortativo.
-
-#### no se quejen unos contra otros,
-##### El texto regula una práctica de habla en medio de la presión.
-
-###### \scripture{no se quejen} es una prohibición concreta.
-
-###### \scripture{unos contra otros} muestra que el daño es dentro del grupo, horizontal.
-
-#### para que no sean juzgados.
-##### El texto da propósito/resultado: evitar juicio.
-
-###### \scripture{para que} conecta la prohibición con un resultado.
-
-###### El texto pone \scripture{queja} y \scripture{juicio} en el mismo marco de consecuencias.
-
-#### Ya el Juez está a las puertas.
-##### El texto refuerza la urgencia con una imagen de cercanía.
-
-###### \scripture{Ya} intensifica: no es futuro lejano.
-
-###### \scripture{a las puertas} suena a proximidad inmediata.
-
-###### \scripture{el Juez} conecta con el lenguaje de juicio del libro (Santiago 2:12–13; Santiago 4:12; Santiago 5:12).
-
-##### Esto empuja al v.10.
-
-###### El v.10 dará ejemplos de paciencia en aflicción (Santiago 5:10).
-
-### Santiago 5:10  
-Hermanos, tomen como ejemplo de paciencia y aflicción a los profetas que hablaron en el nombre del Señor.
-
-#### Hermanos,
-##### El texto mantiene el mismo trato y el mismo tema.
-
-###### No hay reinicio. Es continuidad de la exhortación.
-
-#### tomen como ejemplo de paciencia y aflicción
-##### El texto manda mirar modelos, no solo ideas.
-
-###### \scripture{tomen como ejemplo} es una instrucción de aprendizaje por modelos.
-
-###### Une dos palabras: paciencia y aflicción. El ejemplo no es paciencia \scripture{cómoda}.
-
-#### a los profetas
-##### El texto nombra un grupo concreto como referencia.
-
-###### No dice \scripture{alguien}. Dice \scripture{los profetas}.
-
-###### Prepara un marco histórico dentro del argumento, sin salir del tema.
-
-#### que hablaron en el nombre del Señor.
-##### El texto define a esos profetas por su hablar.
-
-###### Los identifica por su acción: \scripture{hablaron}.
-
-###### \scripture{en el nombre del Señor} marca el marco de autoridad con el que hablaron.
-
-##### Esto introduce el v.11.
-###### El v.11 añadirá otro ejemplo (Job) y cerrará con \scripture{resultado} (Santiago 5:11).
-
-### Santiago 5:11  
-Miren que tenemos por bienaventurados a los que sufrieron. Han oído de la paciencia de Job, y han visto el resultado del proceder del Señor, que el Señor es muy compasivo y misericordioso.
-
-##### (Referencias cruzadas: Hebreos 10:36–37)
-
-#### Miren que tenemos por bienaventurados a los que sufrieron.
-
-##### El texto vuelve a decir \scripture{miren} y hace una afirmación colectiva.
-
-###### \scripture{Miren} vuelve a llamar la atención.
-
-###### \scripture{tenemos por bienaventurados} muestra una evaluación compartida.
-
-###### \scripture{a los que sufrieron} conecta con \scripture{aflicción} (v.10): el foco sigue siendo presión real.
-
-#### Han oído de la paciencia de Job,
-##### El texto añade otro ejemplo con el verbo \scripture{oír}.
-
-###### \scripture{Han oído} introduce una referencia conocida por los destinatarios.
-
-###### \scripture{paciencia de Job} se pone como modelo dentro del mismo tema.
-
-#### y han visto el resultado del proceder del Señor,
-##### El texto agrega un segundo verbo: oír → ver.
-
-###### \scripture{han visto} intensifica: no solo se escuchó la historia; se observó un \scripture{resultado}.
-
-###### \scripture{resultado} conecta con el lenguaje de resultado del libro (Santiago 1:4; Santiago 2:22).
-
-#### que el Señor es muy compasivo y misericordioso.
-##### El texto cierra el tramo con una afirmación sobre el Señor.
-
-###### Después de ejemplos, termina en una conclusión corta.
-
-###### \scripture{compasivo y misericordioso} cierra el argumento de paciencia con una descripción final.
-
-##### Esto empuja al v.12.
-
-###### El v.12 hará un cierre puntual con una prohibición sobre juramentos y un propósito: no caer bajo juicio (Santiago 5:12).
-
-### Santiago 5:12  
-Y sobre todo, hermanos míos, no juren, ni por el cielo, ni por la tierra, ni con ningún otro juramento. Antes bien, sea el sí de ustedes, sí, y su no, no, para que no caigan bajo juicio.
-
-##### Referencias cruzadas: Mateo 5:33–37.
-
-#### Y sobre todo, hermanos míos,
-##### El texto marca prioridad antes de dar la instrucción.
-
-###### \scripture{sobre todo} señala que lo que sigue se coloca arriba en importancia.
-
-###### \scripture{hermanos míos} vuelve al trato directo y cercano.
-
-#### no juren,
-##### Prohibición breve y clara.
-
-###### El texto no discute excepciones primero; prohíbe el acto.
-
-#### ni por el cielo,
-##### El texto empieza a enumerar formas comunes de jurar.
-
-###### La lista concreta el mandato: no es una idea vaga.
-
-#### ni por la tierra,
-##### La enumeración sigue y amplía el alcance.
-
-###### El \scripture{ni… ni…} refuerza que no hay una forma \scripture{aceptable} dentro de esa línea.
-
-#### ni con ningún otro juramento.
-##### El texto cierra la lista con una frase totalizante.
-
-###### \scripture{ningún otro} elimina escapes: no es solo cielo y tierra.
-
-#### Antes bien,
-##### El texto reemplaza el hábito prohibido con una alternativa.
-
-###### No solo dice \scripture{no}; también dice \scripture{en vez de eso}.
-
-#### sea el sí de ustedes, sí,
-
-##### El texto manda una forma simple de hablar.
-
-###### \scripture{sí… sí} muestra claridad y firmeza en una sola palabra repetida.
-
-#### y su no, no,
-##### El texto da la segunda parte de la misma simplicidad.
-
-###### \scripture{no… no} completa el par.
-
-###### El patrón sí/sí y no/no marca habla sin doblez.
-
-#### para que no caigan bajo juicio.
-
-##### El texto cierra con propósito/resultado.
-
-###### \scripture{para que} conecta el habla simple con un resultado.
-
-###### \scripture{no caigan bajo juicio} conecta con el hilo de juicio cercano (5:9) y con la figura del Juez (5:9; 5:12).
-
-> En Síntesis
->- Vimos la sección: Santiago 5:7–12 - Bajo presión: paciencia, firmeza y límites en el habla.
->- Anclas trabajadas: Santiago 5:9, Santiago 5:10, Santiago 5:11, Santiago 5:12.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-## Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada
-
-### Santiago 5:13  
-¿Sufre alguien entre ustedes? Que haga oración. ¿Está alguien alegre? Que cante alabanzas.
-
-#### ¿Sufre alguien entre ustedes?
-##### El texto abre con una pregunta simple y práctica.
-
-###### No empieza con teoría. Empieza con un caso real: \scripture{¿sufre alguien?}.
-
-###### \scripture{entre ustedes} mantiene el enfoque comunitario, dentro del grupo.
-
-#### Que haga oración.
-##### El texto responde el caso con una acción directa.
-
-###### No dice \scripture{espere} ni \scripture{explique}. Dice: ore.
-
-###### La respuesta es corta y clara: sufrimiento → oración.
-
-#### ¿Está alguien alegre?
-##### El texto abre un segundo caso, distinto al primero.
-
-###### Ahora no es sufrimiento, sino alegría.
-
-###### El texto cubre extremos de experiencia sin cambiar de tema.
-
-#### Que cante alabanzas.
-##### El texto asigna una respuesta correspondiente al segundo caso.
-
-###### Alegría → canto.
-
-###### El versículo ya muestra un patrón: caso → respuesta, caso → respuesta.
-
-##### Esto empuja al v.14.
-
-###### El v.14 añade un tercer caso, más específico: enfermedad, y amplía la respuesta con pasos y personas (Santiago 5:14).
-
-### Santiago 5:14  
-¿Está alguien entre ustedes enfermo? Que llame a los ancianos de la iglesia y que ellos oren por él, ungiéndolo con aceite en el nombre del Señor.
-
-#### ¿Está alguien entre ustedes enfermo?
-##### El texto abre el caso de enfermedad con la misma forma de pregunta.
-
-###### Mantiene el patrón de 5:13: \scripture{¿está alguien…?}.
-
-###### \scripture{entre ustedes} sigue marcando que se trata de vida dentro de la comunidad.
-
-#### Que llame a los ancianos de la iglesia
-##### El texto no deja este caso en privado; introduce a otros.
-
-###### La respuesta aquí incluye acción del enfermo: \scripture{que llame}.
-
-###### \scripture{ancianos de la iglesia} identifica un grupo concreto dentro de la comunidad.
-
-#### y que ellos oren por él,
-##### El texto pasa la acción a \scripture{ellos}.
-
-###### No es solo \scripture{ore}. Ahora son \scripture{ellos} quienes oran por \scripture{él}.
-
-###### Se nota una estructura: el caso trae una respuesta comunitaria, no solo individual.
-
-#### ungiéndolo con aceite
-##### El texto añade una acción junto con la oración.
-
-###### No explica el aceite aquí; solo lo incluye como parte del procedimiento.
-
-###### La frase sigue en la misma línea: se describe lo que hacen, paso por paso.
-
-#### en el nombre del Señor.
-##### El texto marca el marco de referencia para la acción.
-
-###### \scripture{en el nombre del Señor} coloca la oración y la acción bajo un marco explícito.
-
-###### Esto prepara el v.15, donde el texto declarará resultados de esa oración.
-
-### Santiago 5:15  
-La oración de fe restaurará al enfermo, y el Señor lo levantará. Si ha cometido pecados le serán perdonados.
-
-#### La oración de fe
-##### El texto toma la oración del v.14 y la especifica.
-
-###### No dice solo \scripture{oración}. Dice \scripture{oración de fe}.
-
-###### Esto conecta hacia atrás con \scripture{oren por él} (Santiago 5:14).
-
-#### restaurará al enfermo,
-##### El texto declara un resultado para el enfermo.
-
-###### No es solo deseo; se presenta como resultado.
-
-###### El verbo \scripture{restaurará} pone el foco en la condición del enfermo.
-
-#### y el Señor lo levantará.
-##### El texto añade un segundo resultado y nombra al agente.
-
-###### \scripture{y} suma otro resultado.
-
-###### \scripture{el Señor} es nombrado como quien levanta.
-
-###### La frase mantiene el patrón: acción → resultado.
-
-#### Si ha cometido pecados
-##### El texto abre un caso adicional dentro del mismo escenario.
-
-###### \scripture{Si} introduce condición: esto puede ser parte del caso, pero no se asume siempre.
-
-###### El texto conecta enfermedad con un asunto moral sin explicar la relación aquí; solo pone el caso condicional.
-
-#### le serán perdonados.
-##### El texto declara el resultado del caso condicional.
-
-###### Si el caso existe \scripture{si ha cometido}, el resultado declarado es perdón.
-
-###### Esto prepara 5:16, donde el texto ampliará hacia confesión y oración mutua.
-
-### Santiago 5:16  
-Por tanto, confiésense sus pecados unos a otros, y oren unos por otros para que sean sanados. La oración eficaz del justo puede lograr mucho.
-
-#### Por tanto,
-##### El texto conecta lo anterior con una consecuencia práctica.
-
-###### Viene después de resultados declarados (5:15).
-
-###### \scripture{Por tanto} marca: ahora se deriva una instrucción.
-
-#### confiésense sus pecados unos a otros,
-##### El texto manda una práctica comunitaria explícita.
-
-###### \scripture{confiésense} es mandato en plural, recíproco: unos a otros.
-
-###### \scripture{sus pecados} retoma el lenguaje de 5:15 (pecados / perdón).
-
-#### y oren unos por otros
-##### El texto une confesión con oración mutua.
-
-###### \scripture{y} conecta dos prácticas: confesar y orar.
-
-###### \scripture{unos por otros} vuelve a lo recíproco: no es solo \scripture{por mí}, es por el otro.
-
-#### para que sean sanados.
-##### El texto declara el propósito.
-
-###### \scripture{para que} marca finalidad.
-
-###### \scripture{sanados} conecta con el tema del enfermo (5:14–15), ahora ampliado al grupo.
-
-#### La oración eficaz del justo puede lograr mucho.
-##### El texto cierra con una afirmación general sobre la oración.
-
-###### No se queda solo en mandatos; hace una declaración de capacidad.
-
-###### \scripture{puede lograr mucho} prepara el ejemplo que viene (Elías) como demostración (Santiago 5:17–18).
-
-### Santiago 5:17  
-Elías era un hombre de pasiones semejantes a las nuestras, y oró fervientemente para que no lloviera, y no llovió sobre la tierra por tres años y seis meses.
-
-#### Elías era un hombre de pasiones semejantes a las nuestras,
-##### El texto presenta al ejemplo como alguien \scripture{como nosotros}.
-
-###### No lo presenta como una excepción inaccesible.
-
-###### \scripture{semejantes a las nuestras} reduce distancia: lo pone en la misma categoría humana.
-
-#### y oró fervientemente
-##### El texto destaca el acto de orar y su intensidad.
-
-###### \scripture{oró} retoma el tema central del tramo (5:13–16).
-
-###### \scripture{fervientemente} añade cómo oró, sin explicar técnica; solo califica la intensidad.
-
-#### para que no lloviera,
-##### El texto marca la petición concreta.
-
-###### \scripture{para que} muestra el objetivo de la oración.
-
-###### El contenido es específico: no lluvia.
-
-#### y no llovió sobre la tierra
-##### El texto declara correspondencia entre oración y resultado.
-
-###### La frase muestra el resultado en el mundo físico: no llovió.
-
-###### Esto funciona como evidencia para \scripture{puede lograr mucho} (Santiago 5:16).
-
-#### por tres años y seis meses.
-##### El texto añade duración para reforzar el punto.
-
-###### No fue un momento breve.
-
-###### La cifra concreta hace el ejemplo medible.
-
-##### Esto empuja al v.18.
-
-###### El v.18 completará el ejemplo con una segunda oración y el resultado opuesto (Santiago 5:18).
-
-### Santiago 5:18  
-Oró de nuevo, y el cielo dio lluvia y la tierra produjo su fruto.
-
-##### Referencias cruzadas: 1 Reyes 17:1; 1 Reyes 18:41–45.
-
-#### Oró de nuevo,
-##### El texto repite el acto, marcando segunda vez.
-
-###### No es solo \scripture{oró una vez}.
-
-###### \scripture{de nuevo} prepara el cambio de resultado.
-
-#### y el cielo dio lluvia
-##### El texto muestra el resultado opuesto al v.17.
-
-###### Antes: no llovió. Ahora: dio lluvia.
-
-###### El resultado vuelve a ser declarado de forma concreta.
-
-#### y la tierra produjo su fruto.
-##### El texto cierra el ejemplo con un resultado final en la tierra.
-
-###### Lluvia → fruto.
-
-###### La frase funciona como cierre del ejemplo: oración → cambio → fruto.
-
-##### Esto prepara 5:19–20.
-
-###### Después de cerrar el tramo de oración con un ejemplo completo, el texto pasa al cierre final: extravío → volver → salvar/cubrir (Santiago 5:19–20).
-
-> En Síntesis
->- Vimos la sección: Santiago 5:13–18 - Oración: respuesta ordenada y eficacia demostrada.
->- Anclas trabajadas: Santiago 5:15, Santiago 5:16, Santiago 5:17, Santiago 5:18.
->- Santiago mantiene la presión como escenario normal y usa esa presión para hacer visible lo que domina por dentro.
->- La carta insiste en respuestas visibles: lo que se dice se prueba en lo que se hace.
->- El flujo empuja hacia el siguiente tramo sin cortar el hilo: seguimos observando cómo una frase prepara la siguiente.
-
-## Santiago 5:19–20 - Restaurar al que se desvía: volver, salvar y cubrir
-
-### Santiago 5:19  
-Hermanos míos, si alguien de entre ustedes se extravía de la verdad y alguien le hace volver,
-
-#### Hermanos míos,
-##### El texto cierra la carta volviendo al trato directo.
-
-###### Después de muchas correcciones y ejemplos, termina hablando como a familia: \scripture{hermanos míos}.
-
-###### Esto marca que el cierre no es una teoría; es una instrucción final dentro de la comunidad.
-
-#### si alguien de entre ustedes se extravía de la verdad
-##### El texto abre un caso real: alguien puede desviarse.
-
-###### \scripture{si alguien} abre un caso, como antes en la carta.
-
-###### \scripture{de entre ustedes} mantiene el foco dentro del grupo, no afuera.
-
-###### \scripture{se extravía de la verdad} describe un movimiento: salir del camino de la verdad.
-
-##### La frase queda abierta.
-
-###### El pensamiento no se completa aquí; pasa directo al v.20.
-
-#### y alguien le hace volver,
-##### El texto añade un segundo \scripture{alguien}: la respuesta comunitaria.
-
-###### No solo describe al que se extravía; también incluye a quien actúa para hacerlo volver.
-
-###### El foco es práctico: alguien se desvía, y alguien interviene.
-
-##### Esto empuja al v.20.
-###### El v.20 dirá por qué importa ese \scripture{hacer volver}, con resultados declarados.
-
-### Santiago 5:20  
-sepa que el que hace volver a un pecador del error de su camino salvará su alma de muerte, y cubrirá multitud de pecados.
-
-##### (Referencias cruzadas: Proverbios 10:12; 1 Pedro 4:8)
-
-#### sepa que
-##### El texto manda reconocer algo y lo presenta como conclusión.
-
-###### \scripture{sepa que} es instrucción: el texto quiere que el lector tenga claro lo que sigue.
-
-###### Funciona como cierre: ya no es ejemplo; es resultado final declarado.
-
-#### el que hace volver a un pecador del error de su camino
-##### El texto define la acción con precisión.
-
-###### No dice \scripture{ayudar}. Dice \scripture{hacer volver}.
-
-###### Nombra a la persona como \scripture{pecador} y describe su situación como \scripture{error} y \scripture{camino}.
-
-###### La frase retoma 5:19 y lo repite con más detalle: extravío → hacer volver.
-
-##### Esta repetición amarra 5:19–20 como una sola unidad.
-
-###### 5:19 abrió el caso; 5:20 lo completa y lo explica.
-
-#### salvará su alma de muerte,
-##### El texto declara un resultado fuerte.
-
-###### \scripture{salvará} es resultado, no consejo.
-
-###### \scripture{de muerte} marca el extremo del resultado: rescate de un final destructivo.
-
-##### Esto conecta con el hilo de resultados del libro.
-
-###### Santiago ya habló de cadenas que terminan en \scripture{muerte} (Santiago 1:15).
-
-###### Aquí el cierre usa \scripture{salvar} y \scripture{muerte} como resultado final del acto de \scripture{hacer volver}.
-
-#### y cubrirá multitud de pecados.
-##### El texto añade un segundo resultado, también declarado.
-
-###### \scripture{y} suma otra consecuencia al mismo acto.
-
-###### \scripture{multitud} amplía el alcance: no es uno o dos; es muchos.
-
-###### \scripture{pecados} cierra con el vocabulario moral del libro, pero ahora en forma de resultado final.
-
-##### Esto cierra la carta.
-
-###### No hay otro bloque después. El libro termina con una acción comunitaria concreta y con dos resultados declarados.
-
->En Síntesis
->- Santiago cierra igual que comenzó: la carta habla a una comunidad bajo presión y muestra qué revela esa presión.
->- A lo largo del libro, la presión no es el tema final; es el escenario donde se hace visible la orientación interior.
->- El texto insiste en contrastes observables: oír/hacer, pedir/dudar, lengua controlada/descontrolada, planes seguros/mañana incierto, amistad con el mundo/reorientación hacia Dios.
->- Santiago repite el patrón: lo que se dice se prueba en lo que se hace, y esa dirección produce resultados.
->- El cierre (Santiago 5:19–20) termina con una acción comunitaria concreta: hacer volver al que se extravía, con resultados declarados.
->- La meta declarada al inicio permanece como horizonte: “perfectos y completos… sin que nada les falte” (Santiago 1:4), frente a “doble ánimo… inestable” (Santiago 1:8).
->- El manual, por tanto, sigue el movimiento del libro: presión → orientación expuesta → expresión visible → resultado → llamado a reorientación hacia Dios.
-
-<!-- @quiz santiago-5-1-20 -->
+### ÉNFASIS
+###### Elemento que el texto resalta por repetición, posición o contraste.

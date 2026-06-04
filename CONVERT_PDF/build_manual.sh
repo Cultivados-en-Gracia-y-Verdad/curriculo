@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Santiago"
-FILE_LOCATION="../13.Santiago"
-FILENAME="/Santiago.0.3.md"
+MANUAL_NAME="Navegando el Texto"
+FILE_LOCATION="../08.Navegando-el-texto"
+FILENAME="/Navegando-el-Texto0.9.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

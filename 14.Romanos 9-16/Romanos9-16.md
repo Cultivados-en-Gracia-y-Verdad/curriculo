@@ -90,146 +90,135 @@ La presión es la necesidad de acogida/unidad mutua, fundamentada en la realidad
 
 
 
-# ROMANOS 9:1–11:36 La condición de Israel no significa que la palabra de Dios haya fallado
+# ROMANOS 9:1–11:36 La palabra de Dios no ha fallado
 
-## Romanos 9:1–29 - La palabra de Dios no ha fallado
+## Romanos 9:1–29 Dios habla sobre Israel
 
 ### Romanos 9:1
 Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
 
 #### Digo la verdad en Cristo, no miento,
-- Presión (credibilidad): el texto abre asegurando veracidad antes de introducir el contenido de presión (9:2–3).
-	- Señal mecánica: afirmación + negación (“verdad” / “no miento”) = refuerzo de confiabilidad del hablante.
-	- Esto prepara al lector para recibir un contenido que podría sonar excesivo o increíble (tristeza grande, dolor continuo, deseo de ser anatema).
-- Interlinear (GR, mecánico):
-	- λέγω = “digo” (verbo finito principal).
-	- οὐ ψεύδομαι = “no miento” (verbo finito con negación).
-- Definiciones (si el lector no conoce términos):
-ἀλήθεια
-: verdad (lo verdadero; afirmación de correspondencia con la realidad)
 
-ψεύδομαι
-: mentir (decir falsedad; falsear lo dicho)
+##### Pablo afirma explícitamente la veracidad de lo que va a decir.
+
+###### El texto refuerza esta afirmación de dos maneras:
+
+- “Digo la verdad”
+- “No miento”
+
+###### Pablo comienza esta sección estableciendo la confiabilidad de su testimonio.
 
 #### dándome testimonio mi conciencia en el Espíritu Santo,
-- Revelación (mecanismo de verificación): el texto agrega un “testigo” interno además del enunciado verbal.
-	- Participio (GR): συμμαρτυρούσης… τῆς συνειδήσεώς μου = “dando testimonio juntamente mi conciencia”.
-	- Función: soporte/validación de lo que se afirma (“esto no es solo dicho; está testificado internamente”).
-- Presión (auditoría): se instala un criterio de auditoría del discurso: conciencia + marco “en el Espíritu Santo”.
-	- No se asume que el lector entiende “conciencia” o “Espíritu Santo”; el texto solo los usa como base de validación.
-- Definiciones:
-συνείδησις
-: conciencia (facultad interna de evaluación/testimonio; aquí funciona como “testigo”)
 
-πνεῦμα ἅγιον
-: Espíritu Santo (término compuesto; en interlinear aparece como “Espíritu / Santo”)
+##### El texto añade un testigo a la declaración de Pablo.
+
+###### Pablo no solamente afirma decir la verdad.
+
+###### También declara que su conciencia da testimonio de ello.
+
+###### La declaración queda enmarcada “en el Espíritu Santo”.
 
 ### Romanos 9:2
 de que tengo gran tristeza y continuo dolor en mi corazón.
 
 #### de que tengo gran tristeza y continuo dolor en mi corazón.
-- Conector (mecánico): la cláusula depende de 9:1 (“digo verdad… que…”).
-	- En GR: ὅτι introduce el contenido de lo que se afirma con tanta verificación.
-- Presión explícita (afecto declarado, no inferido):
-	- “gran tristeza” (λύπη… μεγάλη) = intensidad.
-	- “continuo/incesante dolor” (ἀδιάλειπτος ὀδύνη) = continuidad (no es momentáneo).
-- Localización: “en mi corazón” (τῇ καρδίᾳ μου) ubica la presión como interna/personal.
-- Definiciones:
-λύπη
-: tristeza / pena (aflicción declarada)
 
-ὀδύνη
-: dolor / angustia (dolor interno; suma a “tristeza”)
+##### Pablo declara una carga personal intensa.
 
-ἀδιάλειπτος
-: incesante / continuo / sin interrupción
+###### El texto describe esa carga con dos expresiones:
 
-καρδία
-: corazón (centro interno; aquí como “lugar” del dolor)
+- “gran tristeza”
+- “continuo dolor”
+
+###### La tristeza no aparece como algo momentáneo.
+
+###### Pablo la presenta como una realidad permanente.
+
+###### El dolor es descrito como algo interno:
+
+> “en mi corazón”
 
 ### Romanos 9:3
 Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
 
 #### Porque desearía yo mismo ser anatema,
-- Conector (mecánico): “Porque” corresponde a γὰρ = explicación/soporte de 9:2.
-	- 9:2 declara la presión; 9:3 explica por qué existe.
-- Verbo (mecánico): ηὐχόμην (de εὔχομαι) expresa deseo (no describe un hecho consumado).
-- Presión (extremo): “ser anatema” es un deseo extremo; el texto lo presenta como el punto máximo del dolor.
-- Definiciones necesarias:
-εὔχομαι
-: desear / pedir / expresar deseo (puede tener matiz de “orar”; aquí marca deseo hipotético)
 
-ἀνάθεμα
-: anatema (término técnico; estado de maldición/exclusión; marca separación grave)
+##### Pablo explica la razón de la tristeza mencionada en el versículo anterior.
+
+###### El deseo expresado aquí representa el punto más intenso de la carga descrita en 9:2.
+
+###### El texto presenta un deseo llevado al extremo.
 
 #### separado de Cristo por amor a mis hermanos,
-- Presión (máxima): “separado de Cristo” intensifica el extremo del deseo.
-	- En GR: ἀπὸ τοῦ Χριστοῦ (separación “de Cristo”).
-- Marco de motivo/beneficio: “por” corresponde a ὑπὲρ (por / en favor de).
-	- Mecánicamente: la razón del deseo está dirigida hacia “mis hermanos”.
-- Definiciones:
-ἀπό
-: de / desde / separado de (marca separación/origen; aquí “de Cristo”)
 
-ὑπέρ
-: por / en favor de / a causa de (preposición de beneficio/representación; depende del contexto)
+##### Pablo relaciona ese deseo con otras personas.
+
+###### El foco no está en sí mismo.
+
+###### El deseo es expresado en favor de sus hermanos.
 
 #### mis parientes según la carne.
-- Delimitación del referente (no presumir qué significa “hermanos”):
-	- “parientes” (συγγενῶν) + “según la carne” (κατὰ σάρκα) = criterio de relación.
-- Presión desarrollacional: prepara la identificación formal del grupo en 9:4 (“son israelitas…”).
-- Definiciones:
-συγγενής
-: pariente / familiar (relación por parentesco)
 
-κατά
-: según / conforme a (marca criterio)
+##### El texto identifica específicamente a quiénes se refiere Pablo.
 
-σάρξ
-: carne (criterio de relación humana/linaje en el nivel mínimo del texto)
+###### No habla de personas en general.
+
+###### Habla de sus parientes según la carne.
+
+###### El versículo siguiente identificará formalmente a este grupo como israelitas.
 
 ### Romanos 9:4
 Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
 
 #### Porque son israelitas,
-- Función en el flujo: el texto nombra explícitamente el grupo definido en 9:3 (“parientes según la carne”).
-- Interlinear (mecánico): “los cuales son Israelitas” (οἵτινές εἰσιν Ἰσραηλῖται).
-	- Verbo finito: εἰσιν = “son”.
-	- “los cuales” conecta con el referente anterior.
-- Definición:
+##### Función en el flujo: el texto nombra explícitamente el grupo definido en 9:3 (“parientes según la carne”).
+
+##### Interlinear (mecánico): “los cuales son Israelitas” (οἵτινές εἰσιν Ἰσραηλῖται).
+
+###### Verbo finito: εἰσιν = “son”.
+
+###### “los cuales” conecta con el referente anterior.
+
+##### Definición:
 Ἰσραηλίτης
 : israelita (miembro identificado con Israel; categoría étnico-histórica en el texto)
 
 #### a quienes pertenece la adopción como hijos,
-- Interlinear (mecánico): lista introducida por “de quienes” (ὧν), marcando posesión/atributos del grupo.
-- Revelación (inventario): “adopción” se enumera como pertenencia del grupo (sin explicación todavía).
-- Definición:
+##### Interlinear (mecánico): lista introducida por “de quienes” (ὧν), marcando posesión/atributos del grupo.
+
+##### Revelación (inventario): “adopción” se enumera como pertenencia del grupo (sin explicación todavía).
+
+##### Definición:
 υἱοθεσία
 : adopción / adopción como hijos (estatus de “hijo” concedido; término técnico)
 
 #### y la gloria,
-- Interlinear: “y la gloria” (καὶ ἡ δόξα) como ítem coordinado.
-- Definición:
+##### Interlinear: “y la gloria” (καὶ ἡ δόξα) como ítem coordinado.
+
+##### Definición:
 δόξα
 : gloria (honor/esplendor/peso; aquí como atributo listado)
 
 #### los pactos,
-- Interlinear: “y los pactos” (καὶ αἱ διαθῆκαι) en plural.
-	- Observación mecánica: pluralidad (más de un pacto).
-- Definición:
+##### Interlinear: “y los pactos” (καὶ αἱ διαθῆκαι) en plural.
+###### Observación mecánica: pluralidad (más de un pacto).
+
+##### Definición:
 διαθήκη
 : pacto / alianza (acuerdo formal; plural: “pactos”)
 
 #### la promulgación de la ley,
-- Interlinear: “y la legislación” (καὶ ἡ νομοθεσία).
-	- Observación: no solo “ley”, sino “acto/sistema de dar ley”.
-- Definición:
+##### Interlinear: “y la legislación” (καὶ ἡ νομοθεσία).
+###### Observación: no solo “ley”, sino “acto/sistema de dar ley”.
+
+##### Definición:
 νομοθεσία
 : legislación / promulgación de ley (dar ley)
 
 #### el culto y las promesas,
-- Interlinear: “y el servicio/culto y las promesas” (καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι).
-- Definiciones:
+##### Interlinear: “y el servicio/culto y las promesas” (καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι).
+
+##### Definiciones:
 λατρεία
 : servicio / culto (servicio rendido; práctica cultual)
 
@@ -240,16 +229,19 @@ Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria,
 de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
 
 #### de quienes son los patriarcas,
-- Interlinear (mecánico): “de quienes (son) los padres” (ὧν οἱ πατέρες).
-	- Función: ítem adicional del inventario (origen/antepasados fundacionales).
-- Definición:
+##### Interlinear (mecánico): “de quienes (son) los padres” (ὧν οἱ πατέρες).
+
+###### Función: ítem adicional del inventario (origen/antepasados fundacionales).
+
+##### Definición:
 πατήρ (pl. πατέρες)
 : padre(s); aquí “patriarcas” = antepasados fundacionales
 
 #### y de quienes, según la carne,
-- Interlinear: “y de quienes… lo según carne” (καὶ ἐξ ὧν… τὸ κατὰ σάρκα).
-- Observación: “según la carne” reaparece como marcador categorial, conectando con 9:3.
-- Definiciones:
+##### Interlinear: “y de quienes… lo según carne” (καὶ ἐξ ὧν… τὸ κατὰ σάρκα).
+##### Observación: “según la carne” reaparece como marcador categorial, conectando con 9:3.
+
+##### Definiciones:
 κατά
 : según / conforme a
 
@@ -257,17 +249,19 @@ de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo,
 : carne (criterio de categoría; relación/linaje en el nivel mínimo)
 
 #### procede el Cristo,
-- Interlinear: “de quienes el Cristo” (ἐξ ὧν ὁ χριστός).
-- Función: culminación del inventario: el texto conecta al grupo con el Cristo “según carne”.
-- Definición:
+##### Interlinear: “de quienes el Cristo” (ἐξ ὧν ὁ χριστός).
+##### Función: culminación del inventario: el texto conecta al grupo con el Cristo “según carne”.
+
+##### Definición:
 Χριστός
 : Cristo / Mesías (título: “el ungido”)
 
 #### el cual está sobre todas las cosas,
-- Interlinear: “el siendo sobre todos” (ὁ ὢν ἐπὶ πάντων).
-	- ὢν = participio de “ser/estar” (εἰμί).
-	- ἐπὶ πάντων = “sobre todos”.
-- Definiciones:
+##### Interlinear: “el siendo sobre todos” (ὁ ὢν ἐπὶ πάντων).
+###### ὢν = participio de “ser/estar” (εἰμί).
+###### ἐπὶ πάντων = “sobre todos”.
+
+##### Definiciones:
 ἐπί
 : sobre (preposición; aquí: sobre todos)
 
@@ -275,9 +269,9 @@ de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo,
 : todo(s)
 
 #### Dios bendito por los siglos. Amén.
-- Interlinear: “Dios bendito por los siglos; amén” (θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν).
-- Observación: doxología/cierre con marcador temporal (“por los siglos”) + “amén”.
-- Definiciones:
+##### Interlinear: “Dios bendito por los siglos; amén” (θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν).
+##### Observación: doxología/cierre con marcador temporal (“por los siglos”) + “amén”.
+##### Definiciones:
 εὐλογητός
 : bendito (digno de bendición)
 
@@ -286,190 +280,25 @@ de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo,
 
 ἀμήν
 : amén (cierre afirmativo)
-
-### Romanos 9:4
-Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
-
-#### Porque son israelitas,
-- Identificación explícita del referente.
-	- En 9:3 el referente quedó delimitado como “mis parientes según la carne”; aquí se lo nombra: “israelitas”.
-	- Función discursiva: el texto mueve del dolor personal (9:2) y deseo extremo (9:3) a una **definición objetiva** del grupo.
-- Interlinear / gramática (mecánico):
-	- GR: οἵτινές εἰσιν Ἰσραηλῖται (“los cuales son israelitas”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-		- Verbo finito: εἰσιν = “son”.
-		- οἵτινές (relativo) conecta con el referente anterior.
-- Presión desarrollacional:
-	- Esta identificación hace que el lector pregunte: “¿por qué el dolor es tan grande?” → la respuesta viene por el inventario de pertenencias (9:4–5) y luego por la tesis (9:6).
-- Definición (si hace falta):
-Ἰσραηλίτης
-: israelita (miembro identificado con Israel; categoría étnico-histórica dentro del texto)
-
-#### a quienes pertenece la adopción como hijos,
-- Inventario de pertenencias (no interpretación): el texto enumera “lo que les pertenece”.
-	- En GR la lista se introduce con ὧν (“de quienes”), marcador genitivo de pertenencia/origen que abre el inventario.[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-- Presión (peso del caso):
-	- El texto está mostrando que el dolor (9:2–3) tiene un “peso histórico-identitario”; no es solo emoción.
-- Interlinear:
-	- υἱοθεσία = “adopción”.[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-- Definición:
-υἱοθεσία
-: adopción / adopción como hijos (estatus concedido de “hijo”; término técnico)
-
-- Referencias cruzadas útiles (misma palabra en Romanos):
-	- Ro 8:15; Ro 8:23 (uso de “adopción” dentro del mismo libro).
-
-#### y la gloria,
-- Inventario: segundo elemento coordinado.
-	- GR: καὶ ἡ δόξα (“y la gloria”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-- Función: añade “gloria” como atributo/posesión ligada al grupo (el texto no explica aquí, solo lista).
-- Definición:
-δόξα
-: gloria (honor/esplendor/peso/reconocimiento; aquí como ítem listado)
-
-- Referencias cruzadas útiles (patrón bíblico de “gloria”):
-	- Éx 40:34–35; 1 R 8:10–11 (gloria asociada a presencia/culto; útil para rastreo del término, no para imponer lectura).
-
-#### los pactos,
-- Inventario: pluralidad explícita.
-	- GR: καὶ αἱ διαθῆκαι (“y los pactos”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-		- Plural: el texto sugiere múltiples “pactos”, aunque no los enumera aquí.
-- Presión desarrollacional:
-	- La pluralidad eleva el “peso” del caso: no es una sola relación, sino varias formalizadas.
-- Definición:
-διαθήκη
-: pacto / alianza (acuerdo formal; aquí en plural: “pactos”)
-
-- Referencia cruzada interna:
-	- Ro 11:27 (menciona “pacto” en una cita; continuidad de vocabulario dentro del libro).
-
-#### la promulgación de la ley,
-- Inventario: acto/sistema de dar ley.
-	- GR: καὶ ἡ νομοθεσία (“y la legislación/promulgación de ley”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-- Observación mecánica:
-	- No dice solo “ley” (νόμος), sino “legislación” (νομοθεσία): énfasis en la **entrega/dación** de ley.
-- Definición:
-νομοθεσία
-: legislación / promulgación de ley (acto o sistema de dar ley)
-
-- Referencias cruzadas útiles:
-	- Éx 19–20 (evento de entrega de la ley; rastreo del concepto “dar ley”).
-
-#### el culto y las promesas,
-- Inventario: dos ítems finales coordinados.
-	- GR: καὶ ἡ λατρεία καὶ αἱ ἐπαγγελίαι (“y el servicio/culto y las promesas”).[^https://app.notion.com/p/78f260ad1ef647baaf4e63a1c37f7a6b]
-- Observación mecánica:
-	- “culto/servicio” (λατρεία) se empareja con “promesas” (ἐπαγγελίαι), plural.
-	- Esto junta práctica (culto) + contenido declarativo (promesas).
-- Definiciones:
-λατρεία
-: servicio / culto (servicio rendido; práctica cultual)
-
-ἐπαγγελία
-: promesa (declaración comprometida; plural: “promesas”)
-
-- Presión desarrollacional hacia 9:6:
-	- El inventario crea una presión implícita: “con todo esto, ¿cómo puede estar el grupo en el estado que provoca ese dolor?” → 9:6 responde: “no es que la palabra de Dios haya fallado”.
-
----
-
-### Romanos 9:5
-de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
-
-#### de quienes son los patriarcas,
-- Continuación del inventario: ahora agrega “los padres/patriarcas”.
-	- GR: ὧν οἱ πατέρες (“de quienes los padres”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
-- Observación mecánica:
-	- “de quienes” repite el genitivo de relación/origen: sigue anclando la lista en el mismo referente (“israelitas”).
-- Definición:
-πατήρ (pl. πατέρες)
-: padre(s); aquí “patriarcas” = antepasados fundacionales
-
-- Referencias cruzadas útiles:
-	- Fórmula “Dios de Abraham, Isaac y Jacob” (Éxodo) como marco típico de “padres” en sentido fundacional.
-
-#### y de quienes, según la carne,
-- Inventario con marcador categorial:
-	- GR: καὶ ἐξ ὧν… τὸ κατὰ σάρκα (“y de quienes… lo según carne”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
-- Observación mecánica clave:
-	- “según la carne” ya apareció en 9:3 (“parientes según la carne”).
-	- Aquí conecta el inventario con el mismo criterio categorial: “Cristo… según la carne”.
-- Definiciones:
-ἐκ / ἐξ
-: de (origen; “de quienes” como fuente/origen)
-
-κατά
-: según / conforme a
-
-σάρξ
-: carne (criterio categorial; relación/linaje en el nivel mínimo)
-
-#### procede el Cristo,
-- Culminación del inventario:
-	- GR: ἐξ ὧν ὁ χριστός (“de quienes el Cristo”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
-- Observación mecánica:
-	- Esto afirma un vínculo de origen (“de quienes”) entre el grupo y “el Cristo” en la esfera “según la carne”.
-- Definición:
-Χριστός
-: Cristo / Mesías (título: el ungido)
-
-- Referencia cruzada interna (misma estructura “según la carne”):
-	- Ro 1:3 (linaje… “según la carne”).
-
-#### el cual está sobre todas las cosas,
-- Cláusula descriptiva:
-	- GR: ὁ ὢν ἐπὶ πάντων (“el siendo sobre todos”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
-		- ὢν = participio de “ser/estar” (εἰμί).
-		- ἐπὶ πάντων = sobre todos.
-- Observación mecánica:
-	- El texto eleva el estatus del Cristo con lenguaje de supremacía (“sobre todos”).
-- Definiciones:
-ὢν (de εἰμί)
-: siendo / el que es (forma participial de “ser/estar”)
-
-ἐπί
-: sobre
-
-πᾶς
-: todo(s)
-
-#### Dios bendito por los siglos. Amén.
-- Cierre doxológico:
-	- GR: θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν (“Dios bendito por los siglos; amén”).[^https://app.notion.com/p/279f04be054448cd9414787e58d76e68]
-- Observación mecánica:
-	- “εἰς τοὺς αἰῶνας” = marcador temporal/durativo (“por los siglos”).
-	- “amén” = cierre afirmativo.
-- Definiciones:
-θεός
-: Dios
-
-εὐλογητός
-: bendito (digno de bendición)
-
-αἰών
-: siglo/era; plural “siglos” = duración indefinida/continua
-
-ἀμήν
-: amén (cierre afirmativo)
-
-- Presión desarrollacional hacia 9:6:
-	- El inventario termina con un punto de máxima densidad (“Cristo… sobre todos… Dios bendito…”).
-	- Eso intensifica la pregunta implícita: si este grupo tiene estas realidades, ¿qué significa la tensión que sigue (9:6: “no es que la palabra de Dios haya fallado”)?
 
 ### Romanos 9:6
 Pero no es que la palabra de Dios haya fallado. Porque no todos los descendientes de Israel son Israel;
 
 #### Pero no es que la palabra de Dios haya fallado.
-- Presión (la objeción implícita que el texto bloquea):
-	- Después del inventario de 9:4–5 (israelitas + privilegios + “de quienes procede el Cristo”), el lector puede concluir: “entonces la palabra/promesa de Dios fracasó”.
-	- El texto niega esa conclusión antes de avanzar.
-- Interlinear / mecánico:
-	- GR: Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ (“No [es] tal como que ha caído la palabra de Dios”).[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
-		- Verbo clave: ἐκπέπτωκεν = “ha caído / ha fallado”.
-		- Sujeto: ὁ λόγος τοῦ θεοῦ = “la palabra de Dios”.
-	- Conector: δὲ (“pero”) marca transición/contraste con lo anterior.
-- Presión desarrollacional:
-	- Aquí el texto “cierra la puerta” a una lectura posible: “dolor de Pablo = fallo de Dios”.
-- Definiciones (si el lector no conoce el vocabulario):
+##### Presión (la objeción implícita que el texto bloquea):
+###### Después del inventario de 9:4–5 (israelitas + privilegios + “de quienes procede el Cristo”), el lector puede concluir: “entonces la palabra/promesa de Dios fracasó”.
+###### El texto niega esa conclusión antes de avanzar.
+
+##### Interlinear / mecánico:
+###### GR: Οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ (“No [es] tal como que ha caído la palabra de Dios”).[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
+- Verbo clave: ἐκπέπτωκεν = “ha caído / ha fallado”.
+- Sujeto: ὁ λόγος τοῦ θεοῦ = “la palabra de Dios”.
+
+###### Conector: δὲ (“pero”) marca transición/contraste con lo anterior.
+##### Presión desarrollacional:
+###### Aquí el texto “cierra la puerta” a una lectura posible: “dolor de Pablo = fallo de Dios”.
+
+##### Definiciones (si el lector no conoce el vocabulario):
 λόγος
 : palabra / dicho / mensaje (aquí: “palabra de Dios” como entidad que podría “fallar”)
 
@@ -477,21 +306,24 @@ Pero no es que la palabra de Dios haya fallado. Porque no todos los descendiente
 : caer / fallar / quedar fuera (marca colapso/fracaso de algo)
 
 #### Porque no todos los descendientes de Israel son Israel;
-- Revelación (criterio de distinción):
-	- El texto introduce la razón (γὰρ / “porque”) de por qué la “palabra de Dios” no ha fallado.
-	- La razón no es “sentimiento”; es una distinción interna de categoría: “no todos los de Israel, éstos [son] Israel”.
-- Interlinear / mecánico:
-	- GR: οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
-		- Negación: οὐ.
-		- Universal negada: πάντες (“todos”).
-		- Grupo A: οἱ ἐξ Ἰσραήλ (“los de / procedentes de Israel”).
-		- Grupo B: οὗτοι Ἰσραήλ (“estos [son] Israel”).
-- Presión (lectura requerida):
-	- El texto obliga al lector a aceptar que “Israel” puede usarse en dos niveles:
-		- “de Israel” (procedencia/identidad externa)
-		- “Israel” (categoría afirmada por el texto como “estos son Israel”)
-	- El lector no puede asumir que ambos significan lo mismo; el texto lo niega explícitamente.
-- Definiciones:
+##### Revelación (criterio de distinción):
+###### El texto introduce la razón (γὰρ / “porque”) de por qué la “palabra de Dios” no ha fallado.
+###### La razón no es “sentimiento”; es una distinción interna de categoría: “no todos los de Israel, éstos [son] Israel”.
+
+##### Interlinear / mecánico:
+###### GR: οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ·[^https://app.notion.com/p/af26988743ba49a7af5872ba50949a6f]
+- Negación: οὐ.
+- Universal negada: πάντες (“todos”).
+- Grupo A: οἱ ἐξ Ἰσραήλ (“los de / procedentes de Israel”).
+- Grupo B: οὗτοι Ἰσραήλ (“estos [son] Israel”).
+
+##### Presión (lectura requerida):
+###### El texto obliga al lector a aceptar que “Israel” puede usarse en dos niveles:
+- “de Israel” (procedencia/identidad externa)
+- “Israel” (categoría afirmada por el texto como “estos son Israel”)
+
+###### El lector no puede asumir que ambos significan lo mismo; el texto lo niega explícitamente.
+##### Definiciones:
 πᾶς (πάντες)
 : todo(s) (universal; aquí se niega: “no todos”)
 
@@ -501,26 +333,27 @@ Pero no es que la palabra de Dios haya fallado. Porque no todos los descendiente
 οὗτος (οὗτοι)
 : este(s) (demostrativo que marca subgrupo: “estos”)
 
-- Referencias cruzadas útiles (patrón “remanente / no todos”):
-	- Ro 11:5 (remanente) como continuidad dentro del argumento (sin imponerlo aquí, solo como conexión de patrón).
-
----
+##### Referencias cruzadas útiles (patrón “remanente / no todos”):
+###### Ro 11:5 (remanente) como continuidad dentro del argumento (sin imponerlo aquí, solo como conexión de patrón).
 
 ### Romanos 9:7
 ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
 
 #### ni son todos hijos por ser descendientes de Abraham,
-- Revelación (segundo filtro / segunda negación):
-	- El texto agrega otra negación para reforzar la distinción: no todo “linaje” = “hijos” (en el sentido que el argumento necesita).
-- Interlinear / mecánico:
-	- GR: οὐδʼ ὅτι εἰσὶν σπέρμα Ἀβραάμ, πάντες τέκνα (“ni porque son simiente de Abraham, [son] todos hijos”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
-		- Conector: οὐδʼ (“ni”) suma una negación adicional a la anterior.
-		- Verbo: εἰσὶν (“son”).
-		- Categoría 1: σπέρμα Ἀβραάμ (“simiente/descendencia de Abraham”).
-		- Categoría 2: τέκνα (“hijos”).
-- Presión (lo que se impide):
-	- Se impide la ecuación automática: “descendencia física de Abraham” = “hijos” (categoría relevante para el argumento).
-- Definiciones:
+##### Revelación (segundo filtro / segunda negación):
+###### El texto agrega otra negación para reforzar la distinción: no todo “linaje” = “hijos” (en el sentido que el argumento necesita).
+##### Interlinear / mecánico:
+
+###### GR: οὐδʼ ὅτι εἰσὶν σπέρμα Ἀβραάμ, πάντες τέκνα (“ni porque son simiente de Abraham, [son] todos hijos”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
+- Conector: οὐδʼ (“ni”) suma una negación adicional a la anterior.
+- Verbo: εἰσὶν (“son”).
+- Categoría 1: σπέρμα Ἀβραάμ (“simiente/descendencia de Abraham”).
+- Categoría 2: τέκνα (“hijos”).
+
+##### Presión (lo que se impide):
+###### Se impide la ecuación automática: “descendencia física de Abraham” = “hijos” (categoría relevante para el argumento).
+
+##### Definiciones:
 σπέρμα
 : simiente / descendencia (categoría de origen/linaje)
 
@@ -528,39 +361,40 @@ ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ 
 : hijo(s) / descendiente(s) (término relacional; aquí en contraste con “simiente”)
 
 #### sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
-- Revelación (criterio positivo por cita):
-	- Después de negar (“no todos”), el texto da el criterio positivo: “en Isaac será llamada tu descendencia”.
-- Interlinear / mecánico:
-	- GR: ἀλλʼ· Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα (“sino: en Isaac será llamada a ti simiente”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
-		- ἀλλʼ (“sino”) = contraste fuerte: reemplaza criterio.
-		- Ἐν Ἰσαὰκ (“en Isaac”) = marco/criterio.
-		- κληθήσεταί (“será llamada”) = pasivo futuro; introduce “nombramiento/definición”.
-		- σπέρμα (“descendencia/simiente”) = objeto del “ser llamada”.
-- Presión desarrollacional:
-	- El texto mueve de “origen físico” a “definición/nombramiento” (“será llamada”) como mecanismo de distinción.
-- Definiciones:
+##### Revelación (criterio positivo por cita):
+
+###### Después de negar (“no todos”), el texto da el criterio positivo: “en Isaac será llamada tu descendencia”.
+
+##### Interlinear / mecánico:
+###### GR: ἀλλʼ· Ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα (“sino: en Isaac será llamada a ti simiente”).[^https://app.notion.com/p/ddb561fa9481499f8dfdba09acb9e5ef]
+- ἀλλʼ (“sino”) = contraste fuerte: reemplaza criterio.
+- Ἐν Ἰσαὰκ (“en Isaac”) = marco/criterio.
+- κληθήσεταί (“será llamada”) = pasivo futuro; introduce “nombramiento/definición”.
+- σπέρμα (“descendencia/simiente”) = objeto del “ser llamada”.
+
+##### Presión desarrollacional:
+###### El texto mueve de “origen físico” a “definición/nombramiento” (“será llamada”) como mecanismo de distinción.
+##### Definiciones:
 καλέω (κληθήσεται)
 : llamar / nombrar (pasivo: “será llamada”; define quién cuenta como “descendencia”)
 
-- Referencia cruzada (origen de la cita):
-	- Génesis 21:12 (cita “en Isaac…”), útil para rastrear el texto citado.
-
----
+##### Referencia cruzada (origen de la cita):
+###### Génesis 21:12 (cita “en Isaac…”), útil para rastrear el texto citado.
 
 ### Romanos 9:8
 Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes.
 
 #### Esto es, no son los hijos de la carne los que son hijos de Dios,
-- Función (aclaración explícita):
-	- “Esto es” señala que el texto ahora **explica** lo anterior (9:7) en forma de equivalencias/contrastes.
-- Interlinear / mecánico:
-	- GR: τοῦτʼ ἔστιν (“esto es”) + οὐ… ἀλλὰ… (contraste).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
-	- GR: οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ (“no los hijos de la carne, éstos [son] hijos de Dios”).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
-		- Categoría negada: “hijos de la carne”.
-		- Categoría afirmada como relevante: “hijos de Dios”.
-- Presión (lo que el lector no debe asumir):
-	- No se puede asumir que “carne / linaje físico” define “hijos de Dios” en el argumento.
-- Definiciones:
+##### Función (aclaración explícita):
+###### “Esto es” señala que el texto ahora **explica** lo anterior (9:7) en forma de equivalencias/contrastes.
+##### Interlinear / mecánico:
+###### GR: τοῦτʼ ἔστιν (“esto es”) + οὐ… ἀλλὰ… (contraste).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+###### GR: οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ (“no los hijos de la carne, éstos [son] hijos de Dios”).[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+- Categoría negada: “hijos de la carne”.
+- Categoría afirmada como relevante: “hijos de Dios”.
+##### Presión (lo que el lector no debe asumir):
+###### No se puede asumir que “carne / linaje físico” define “hijos de Dios” en el argumento.
+##### Definiciones:
 σάρξ
 : carne (criterio de relación humana/linaje en el nivel mínimo del texto)
 
@@ -568,17 +402,17 @@ Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hi
 : hijos de Dios (categoría afirmada por el texto; aquí en contraste con “hijos de la carne”)
 
 #### sino que los hijos de la promesa son considerados como descendientes.
-- Revelación (criterio positivo):
-	- El criterio afirmado no es “carne”, sino “promesa”.
-- Interlinear / mecánico:
-	- GR: ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα·[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
+##### Revelación (criterio positivo):
+###### El criterio afirmado no es “carne”, sino “promesa”.
+##### Interlinear / mecánico:
+###### GR: ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα·[^https://app.notion.com/p/e4454bdac9d64b55a64a95a1650a9af7]
 		- Categoría afirmada: “hijos de la promesa”.
 		- Verbo clave: λογίζεται (λογίζομαι) = “es contado / es considerado”.
 		- Dirección/resultado: εἰς σπέρμα (“como/para descendencia”).
-- Presión desarrollacional:
-	- El texto define un mecanismo formal: “ser considerado/contado como descendencia”.
-	- Esto evita la lectura de “descendencia = genética”; redefine “descendencia” por promesa + conteo.
-- Definiciones (incluyendo tu lista de transliteración):
+##### Presión desarrollacional:
+###### El texto define un mecanismo formal: “ser considerado/contado como descendencia”.
+###### Esto evita la lectura de “descendencia = genética”; redefine “descendencia” por promesa + conteo.
+##### Definiciones (incluyendo tu lista de transliteración):
 λογίζομαι (logizomai)
 : contar / considerar / calcular / tener por (aquí: “son considerados como”)
 
@@ -591,8 +425,8 @@ Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hi
 σπέρμα
 : simiente / descendencia
 
-- Referencias cruzadas útiles (por el verbo “considerar/contar”):
-	- Ro 4:3 (“le fue contado”) como patrón de λογίζομαι en Romanos (conecta método: “contado/considerado”).
+##### Referencias cruzadas útiles (por el verbo “considerar/contar”):
+###### Romanos 4:3 (“le fue contado”) como patrón de λογίζομαι en Romanos (conecta método: “contado/considerado”).
 
 ### Romanos 9:9
 Porque la palabra de promesa es esta: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO».
@@ -11197,341 +11031,1801 @@ Sí, tuvieron a bien hacerlo,  y a la verdad que están en deuda con ellos.  Por
 αὐτός (αὐτοῖς)
 : a ellos
 
-### Romanos 15:28 
+### Romanos 15:28
 Así que cuando haya cumplido esto y les haya entregado esta ofrenda, iré a España llegando de paso a verlos.
 
-#### Así que cuando haya cumplido esto 
+#### Así que cuando haya cumplido esto
+##### Pablo proyecta el siguiente paso como “cumplir” una tarea concreta primero; su misión incluye terminar bien lo que está en mano.
+###### GR: τοῦτο οὖν ἐπιτελέσας (“esto pues habiendo cumplido”).[^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### οὖν = pues / así que. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### ἐπιτελέσας (ἐπιτελέω) participio: habiendo cumplido / completado. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### Puente: la siguiente ancla explica qué es completar: sellar/entregar el “fruto” a ellos (la ofrenda).
 
-#### y les haya entregado esta ofrenda, 
+##### Definiciones (formato fijo)
+ἐπιτελέω
+: completar / cumplir
+
+οὗτος
+: esto
+
+οὖν
+: pues / así que
+
+#### y les haya entregado esta ofrenda,
+##### La ofrenda/colecta se presenta como “fruto” y como algo “sellado” a ellos: entrega formal y segura a sus destinatarios.
+###### GR: καὶ σφραγισάμενος αὐτοῖς τὸν καρπὸν τοῦτον (“y habiendo sellado a ellos el fruto este”).[^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### σφραγισάμενος (σφραγίζω) participio: habiendo sellado (confirmar/asegurar la entrega). [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### αὐτοῖς = a ellos. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### καρπὸν = fruto. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### Puente: la última ancla declara el movimiento: partir hacia España “por ustedes” (pasando por ellos).
+
+##### Definiciones (formato fijo)
+σφραγίζω
+: sellar / confirmar / asegurar
+
+καρπός
+: fruto
+
+αὐτός (αὐτοῖς)
+: a ellos
 
 #### iré a España llegando de paso a verlos.
+##### Su ruta sigue: después de entregar el fruto, irá a España, y el trayecto incluye pasar por ellos.
+###### GR: ἀπελεύσομαι διʼ ὑμῶν εἰς Σπανίαν (“iré por ustedes a España”).[^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### ἀπελεύσομαι (ἀπέρχομαι) es verbo finito: iré / partiré. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### διʼ ὑμῶν = por ustedes (pasando por ustedes). [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### εἰς Σπανίαν = a España. [^https://app.notion.com/p/9fc20cf7beb24feeb5a5977062d2cc55]
+###### Puente: Romanos 15:29 añade confianza: vendrá en plenitud de bendición de Cristo.
 
-### Romanos 15:29 
+##### Definiciones (formato fijo)
+ἀπέρχομαι
+: irse / partir / ir
+
+διά
+: por / a través de
+
+Σπανία
+: España
+
+εἰς
+: a / hacia
+
+### Romanos 15:29
 Y sé que cuando vaya a ustedes, iré en la plenitud de la bendición de Cristo.
 
-#### Y sé que cuando vaya a ustedes, 
+#### Y sé que cuando vaya a ustedes,
+##### Pablo expresa certeza sobre su venida: no es solo plan humano; es convicción informada por su llamado y por Dios.
+###### GR: οἶδα δὲ ὅτι ἐρχόμενος πρὸς ὑμᾶς (“sé pero que viniendo a ustedes”).[^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### οἶδα = sé. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### ἐρχόμενος (ἔρχομαι) participio: viniendo. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### πρὸς ὑμᾶς = a ustedes. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### Puente: la siguiente ancla describe el carácter de su venida: plenitud de bendición de Cristo.
+
+##### Definiciones (formato fijo)
+οἶδα
+: saber / sé
+
+ἔρχομαι
+: venir
+
+πρός
+: a / hacia
 
 #### iré en la plenitud de la bendición de Cristo.
+##### Pablo espera llegar con “plenitud”: no vacío, sino con bendición que proviene de Cristo y beneficia a la comunidad.
+###### GR: ἐν πληρώματι εὐλογίας Χριστοῦ ἐλεύσομαι (“en plenitud de bendición de Cristo vendré”).[^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### ἐν = en. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### πληρώματι = plenitud. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### εὐλογίας = bendición. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### ἐλεύσομαι (ἔρχομαι) es verbo finito: vendré. [^https://app.notion.com/p/f78af8c50b3b4b419b47af2bd6ae72fa]
+###### Puente: Romanos 15:30 pasa de planes a intercesión: ruega que luchen con él en oración.
 
-### Romanos 15:30 
+##### Definiciones (formato fijo)
+πλήρωμα
+: plenitud
+
+εὐλογία
+: bendición
+
+Χριστός
+: Cristo
+
+### Romanos 15:30
 Les ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
 
-#### Les ruego, hermanos, 
+#### Les ruego, hermanos,
+##### Pablo pide con insistencia fraterna: la misión requiere apoyo comunitario, no solo esfuerzo individual.
+###### GR: Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί (“ruego pero a ustedes, hermanos”).[^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Παρακαλῶ (παρακαλέω) es verbo finito: ruego / exhorto. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### ἀδελφοί = hermanos. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Puente: la siguiente ancla da la base del ruego: por el Señor Jesucristo.
 
-#### por nuestro Señor Jesucristo 
+##### Definiciones (formato fijo)
+παρακαλέω
+: rogar / exhortar
 
-#### y por el amor del Espíritu, 
+ἀδελφός
+: hermanos
 
-#### que se esfuercen juntamente conmigo 
+#### por nuestro Señor Jesucristo
+##### La apelación es cristológica: por el Señor que comparten, pide solidaridad en su lucha.
+###### GR: διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ (“por del Señor de nosotros Jesús Cristo”).[^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### διὰ = por. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### κυρίου ἡμῶν = de nuestro Señor. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Puente: la siguiente ancla añade una segunda base: amor del Espíritu.
+
+##### Definiciones (formato fijo)
+κύριος
+: Señor
+
+Ἰησοῦς
+: Jesús
+
+Χριστός
+: Cristo
+
+διά
+: por
+
+#### y por el amor del Espíritu,
+##### La motivación también es pneumatológica: el amor que el Espíritu produce sostiene la unidad y la intercesión.
+###### GR: καὶ διὰ τῆς ἀγάπης τοῦ πνεύματος (“y por de la amor del espíritu”).[^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### ἀγάπης = amor. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### πνεύματος = del espíritu. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Puente: la siguiente ancla nombra la acción pedida: luchar juntos con él.
+
+##### Definiciones (formato fijo)
+ἀγάπη
+: amor
+
+πνεῦμα
+: espíritu
+
+#### que se esfuercen juntamente conmigo
+##### La oración es descrita como lucha compartida: no pasividad, sino combate espiritual junto con Pablo.
+###### GR: συναγωνίσασθαί μοι (“luchar juntos conmigo”).[^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### συναγωνίσασθαί (συναγωνίζομαι) infinitivo: luchar juntos / esforzarse juntamente. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### μοι = conmigo. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Puente: la siguiente ancla ubica el campo de esa lucha: oraciones a Dios por Pablo.
+
+##### Definiciones (formato fijo)
+συναγωνίζομαι
+: luchar junto / esforzarse juntamente
+
+ἐγώ (μοι)
+: conmigo
 
 #### en sus oraciones a Dios por mí,
+##### El medio de cooperación es la intercesión dirigida a Dios: oraciones por Pablo.
+###### GR: ἐν ταῖς προσευχαῖς ὑπὲρ ἐμοῦ πρὸς τὸν θεόν (“en las oraciones por mí a el Dios”).[^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### προσευχαῖς = oraciones. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### ὑπὲρ ἐμοῦ = por mí. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### πρὸς τὸν θεόν = a Dios. [^https://app.notion.com/p/f39a1419c11e41638315dca93aff4582]
+###### Puente: Romanos 15:31 especifica dos peticiones: libramiento de los desobedientes y aceptación del servicio en Jerusalén.
 
-### Romanos 15:31 
+##### Definiciones (formato fijo)
+προσευχή
+: oración(es)
+
+ὑπέρ
+: por
+
+θεός
+: Dios
+
+πρός
+: a / hacia
+
+### Romanos 15:31
 para que sea librado de los que son desobedientes en Judea, y que mi servicio a Jerusalén sea aceptable a los santos,
 
-#### para que sea librado 
+#### para que sea librado
+##### Primera petición: liberación/protección; reconoce riesgo real en Judea.
+###### GR: ἵνα ῥυσθῶ (“para que sea librado”).[^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### ἵνα = para que. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### ῥυσθῶ (ῥύομαι) es verbo finito: sea librado. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### Puente: la siguiente ancla identifica de quién: los desobedientes en Judea.
 
-#### de los que son desobedientes en Judea, 
+##### Definiciones (formato fijo)
+ῥύομαι
+: librar / rescatar
 
-#### y que mi servicio a Jerusalén 
+ἵνα
+: para que
+
+#### de los que son desobedientes en Judea,
+##### El peligro viene de “los desobedientes”: oposición activa en Judea.
+###### GR: ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ (“de los desobedeciendo en la Judea”).[^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### ἀπὸ = de (separación/liberación). [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### ἀπειθούντων (ἀπειθέω) participio: desobedeciendo / rebeldes. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### ἐν τῇ Ἰουδαίᾳ = en Judea. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### Puente: la siguiente ancla presenta la segunda petición: aceptación del servicio a Jerusalén.
+
+##### Definiciones (formato fijo)
+ἀπειθέω
+: desobedecer / resistir
+
+Ἰουδαία
+: Judea
+
+ἀπό
+: de
+
+#### y que mi servicio a Jerusalén
+##### Segunda petición: que su “diaconía” (servicio/entrega) hacia Jerusalén sea recibida con buena disposición.
+###### GR: καὶ ἡ διακονία μου ἡ εἰς Ἰερουσαλὴμ (“y la servicio mío la a Jerusalén”).[^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### διακονία = servicio/diaconía. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### εἰς Ἰερουσαλὴμ = a Jerusalén. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### Puente: la última ancla define el resultado pedido: aceptable a los santos (llegue a ser).
+
+##### Definiciones (formato fijo)
+διακονία
+: servicio / diaconía
+
+εἰς
+: a / hacia
+
+Ἰερουσαλήμ
+: Jerusalén
 
 #### sea aceptable a los santos,
+##### Pablo pide que el servicio sea aceptable (no rechazado/malinterpretado) entre los santos de Jerusalén.
+###### GR: εὐπρόσδεκτος τοῖς ἁγίοις γένηται (“aceptable a los santos llegue a ser”).[^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### εὐπρόσδεκτος = aceptable. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### τοῖς ἁγίοις = a los santos. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### γένηται (γίνομαι) es verbo finito: llegue a ser. [^https://app.notion.com/p/3147e72b9c9d41e98fc9f81127045d74]
+###### Puente: Romanos 15:32 continúa: con gozo llegar a ellos por voluntad de Dios y reposar con ellos.
 
-### Romanos 15:32 
+##### Definiciones (formato fijo)
+εὐπρόσδεκτος
+: aceptable
+
+ἅγιος
+: santos
+
+γίνομαι
+: llegar a ser
+
+### Romanos 15:32
 y para que con gozo llegue a ustedes por la voluntad de Dios, y encuentre confortante reposo con ustedes.
 
-#### y para que con gozo llegue 
+#### y para que con gozo llegue
+##### Tercera petición (continuación): llegar con gozo; el “gozo” depende de la respuesta de Dios en el camino.
+###### GR: ἵνα ἐν χαρᾷ ἐλθὼν (“para que con gozo habiendo venido”).[^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### ἐν χαρᾷ = con gozo. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### ἐλθὼν (ἔρχομαι) participio: habiendo venido / llegando. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### Puente: la siguiente ancla marca el marco: por voluntad de Dios, hacia ustedes.
 
-#### a ustedes por la voluntad de Dios, 
+##### Definiciones (formato fijo)
+χαρά
+: gozo
+
+ἔρχομαι
+: venir / llegar
+
+ἵνα
+: para que
+
+#### a ustedes por la voluntad de Dios,
+##### El arribo depende de voluntad de Dios: su plan y ruta quedan sometidos a la dirección divina.
+###### GR: πρὸς ὑμᾶς διὰ θελήματος θεοῦ (“a ustedes por voluntad de Dios”).[^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### πρὸς ὑμᾶς = a ustedes. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### διὰ θελήματος θεοῦ = por voluntad de Dios. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### Puente: la última ancla declara el descanso compartido: reposar con ustedes.
+
+##### Definiciones (formato fijo)
+θέλημα
+: voluntad
+
+θεός
+: Dios
+
+διά
+: por
+
+πρός
+: a / hacia
 
 #### y encuentre confortante reposo con ustedes.
+##### Pablo desea reposo en comunión: descanso mutuo (no solo trabajo), como fruto de la unidad del evangelio.
+###### GR: συναναπαύσωμαι ὑμῖν (“me repose con ustedes”).[^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### συναναπαύσωμαι (συναναπαύομαι) es verbo finito: me repose / descanse con ustedes. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### ὑμῖν = con ustedes. [^https://app.notion.com/p/fe69283a04784da89d3e02d9b9f42571]
+###### Puente: Romanos 15:33 cierra con bendición: Dios de paz con todos ustedes.
 
-### Romanos 15:33 
+##### Definiciones (formato fijo)
+συναναπαύομαι
+: reposar con / descansar juntamente
+
+σύ (ὑμῖν)
+: con ustedes
+
+### Romanos 15:33
 El Dios de paz sea con todos ustedes. Amén.
 
-#### El Dios de paz 
+#### El Dios de paz
+##### Cierre pastoral: Dios es nombrado por su carácter (“de paz”), coherente con el llamado a unidad y recepción.
+###### GR: ὁ δὲ θεὸς τῆς εἰρήνης (“el pero Dios de la paz”).[^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### θεὸς = Dios. [^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### εἰρήνης = paz. [^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### Puente: la última ancla expresa la bendición comunitaria: con todos ustedes, amén.
+
+##### Definiciones (formato fijo)
+εἰρήνη
+: paz
+
+θεός
+: Dios
 
 #### sea con todos ustedes. Amén.
+##### Benedición inclusiva: con todos; el cierre “amén” afirma y sella lo pedido.
+###### GR: μετὰ πάντων ὑμῶν· ἀμήν (“con todos de ustedes; amén”).[^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### μετὰ = con. [^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### πάντων ὑμῶν = de todos ustedes. [^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+###### ἀμήν = amén. [^https://app.notion.com/p/73b099e09b8a4c539890f05567ae5b82]
+
+##### Definiciones (formato fijo)
+μετά
+: con
+
+πᾶς
+: todos
+
+ἀμήν
+: amén
 
 ## Romanos 16:1–16 - Participantes en la obra
 
-### Romanos 16:1 
+### Romanos 16:1
 Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea,
 
-#### Les recomiendo a nuestra hermana Febe, 
+#### Les recomiendo a nuestra hermana Febe,
+##### Pablo hace una recomendación formal: presenta a Febe para que la comunidad la reciba con confianza y respaldo.
+###### GR: Συνίστημι δὲ ὑμῖν Φοίβην (“recomiendo a ustedes a Febe”).[^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### Συνίστημι es verbo finito: recomiendo/presento. [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### ὑμῖν = a ustedes. [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### Puente: la siguiente ancla describe quién es Febe en relación con la iglesia: diácono/sierva de la iglesia en Cencreas.
+
+##### Definiciones (formato fijo)
+Συνίστημι
+: recomendar / presentar
 
 #### diaconisa de la iglesia en Cencrea,
+##### Febe no es “visita cualquiera”: es servidora oficial de una iglesia local; su identidad está ligada a una comunidad concreta.
+###### GR: οὖσαν καὶ διάκονον τῆς ἐκκλησίας τῆς ἐν Κεγχρεαῖς (“siendo también sierva de la iglesia la en Cencreas”).[^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### οὖσαν participio: siendo (describe a Febe). [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### διάκονον = diácono/sierva. [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### ἐκκλησίας = iglesia. [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### ἐν Κεγχρεαῖς = en Cencreas. [^https://app.notion.com/p/d4cf11e77a98444c80f06701d62d216f]
+###### Puente: Romanos 16:2 explicará cómo recibirla: en el Señor, dignamente, con ayuda práctica.
 
-### Romanos 16:2 
+##### Definiciones (formato fijo)
+διάκονος
+: siervo / diácono(a)
+
+ἐκκλησία
+: iglesia / asamblea
+
+### Romanos 16:2
 para que la reciban en el Señor de una manera digna de los santos, y que la ayuden en cualquier asunto en que ella necesite de ustedes, porque ella también ha ayudado a muchos y aun a mí mismo.
 
-#### para que la reciban en el Señor 
+#### para que la reciban en el Señor
+##### La recomendación tiene propósito: que la acojan “en el Señor”, es decir, como parte de la comunión cristiana y bajo el señorío de Cristo.
+###### GR: ἵνα αὐτὴν προσδέξησθε ἐν κυρίῳ (“para que a ella reciban en Señor”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἵνα = para que. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### προσδέξησθε es verbo finito: reciban/acepten. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: la siguiente ancla añade el modo: dignamente de los santos.
 
-#### de una manera digna de los santos, 
+##### Definiciones (formato fijo)
+ἵνα
+: para que
 
-#### y que la ayuden en cualquier asunto 
+προσδέχομαι
+: recibir / aceptar
 
-#### en que ella necesite de ustedes, 
+κύριος
+: Señor
 
-#### porque ella también ha ayudado a muchos 
+#### de una manera digna de los santos,
+##### El estándar de la recepción es “digno”: la forma en que tratan a Febe debe corresponder a cómo se honra a los santos.
+###### GR: ἀξίως τῶν ἁγίων (“dignamente de los santos”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἀξίως = dignamente. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἁγίων = santos. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: la siguiente ancla pasa de recepción a asistencia: ayudarle en cualquier asunto.
+
+##### Definiciones (formato fijo)
+ἅγιος
+: santo(s)
+
+#### y que la ayuden en cualquier asunto
+##### No solo hospitalidad: apoyo práctico; Pablo pide que “se pongan a disposición” de ella para sus gestiones.
+###### GR: καὶ παραστῆτε αὐτῇ (“y asistan a ella”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### παραστῆτε es verbo finito: ayuden/asistan/preséntense a favor de ella. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### αὐτῇ = a ella. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: la siguiente ancla delimita el alcance: en lo que ella necesite de ustedes.
+
+##### Definiciones (formato fijo)
+παρίστημι
+: asistir / ponerse a disposición / ayudar
+
+#### en que ella necesite de ustedes,
+##### La ayuda se ajusta a necesidad real: “en lo que” requiera; la comunidad se vuelve recurso para su misión/gestión.
+###### GR: ἐν ᾧ ἂν ὑμῶν χρῄζῃ πράγματι (“en lo cual… de ustedes necesite asunto”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### χρῄζῃ es verbo finito: necesite. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### πράγματι = asunto / cosa. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ὑμῶν = de ustedes. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: la siguiente ancla da la razón (γὰρ): ella ha sido ayuda para muchos y para Pablo.
+
+##### Definiciones (formato fijo)
+χρῄζω
+: necesitar
+
+πρᾶγμα
+: asunto / cosa
+
+#### porque ella también ha ayudado a muchos
+##### Motivo: Febe ya vivió apoyo sacrificial; ahora corresponde reciprocidad: ha sido “protectora/benefactora” de muchos.
+###### GR: καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη (“pues también ella protectora de muchos llegó a ser”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### προστάτις = protectora/benefactora. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### πολλῶν = de muchos. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἐγενήθη es verbo finito: llegó a ser / fue. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: la última ancla remata con testimonio personal: aun de Pablo mismo.
+
+##### Definiciones (formato fijo)
+προστάτις
+: protectora / benefactora / patrocinadora
 
 #### y aun a mí mismo.
+##### Pablo confirma personalmente su gratitud: Febe también lo ayudó a él; la recomendación se apoya en experiencia directa.
+###### GR: καὶ ἐμοῦ αὐτοῦ (“y de mí mismo”).[^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### ἐμοῦ = de mí. [^https://app.notion.com/p/f1a6a61055ec495a8a2c4f50c80eab74]
+###### Puente: Romanos 16:3 inicia una serie de saludos: Priscila y Aquila como colaboradores en Cristo.
 
-### Romanos 16:3 
+##### Definiciones (formato fijo)
+ἐγώ (ἐμοῦ)
+: de mí
+
+### Romanos 16:3
 Saluden a Priscila y a Aquila, mis colaboradores en Cristo Jesús,
 
-#### Saluden a Priscila y a Aquila, 
+#### Saluden a Priscila y a Aquila,
+##### Pablo ordena saludos: reconoce relaciones de misión y honra a personas específicas por nombre.
+###### GR: Ἀσπάσασθε Πρίσκαν καὶ Ἀκύλαν (“saluden a Prisca y a Aquila”).[^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### Ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### Puente: la siguiente ancla explica quiénes son para Pablo: colaboradores en Cristo Jesús.
+
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
 #### mis colaboradores en Cristo Jesús,
+##### No son solo amigos: son compañeros de obra; su colaboración está definida “en Cristo Jesús” (esfuerzo ministerial bajo Cristo).
+###### GR: τοὺς συνεργούς μου ἐν Χριστῷ Ἰησοῦ (“los colaboradores míos en Cristo Jesús”).[^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### συνεργούς = colaboradores. [^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### μου = míos. [^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### ἐν Χριστῷ Ἰησοῦ = en Cristo Jesús. [^https://app.notion.com/p/60853e6906124120bfe675de104ec26c]
+###### Puente: Romanos 16:4 describe su sacrificio y la gratitud amplia (Pablo + iglesias de gentiles).
 
-### Romanos 16:4 
+##### Definiciones (formato fijo)
+συνεργός
+: colaborador / compañero de trabajo
+
+Χριστός
+: Cristo
+
+Ἰησοῦς
+: Jesús
+
+### Romanos 16:4
 los cuales expusieron su vida por mí, a quienes no solo yo doy gracias, sino también todas las iglesias de los gentiles.
 
-#### los cuales expusieron su vida por mí, 
+#### los cuales expusieron su vida por mí,
+##### Pablo testimonia sacrificio extremo: arriesgaron su “cuello” por su vida; la cooperación incluyó peligro real.
+###### GR: οἵτινες ὑπὲρ τῆς ψυχῆς μου τὸν ἑαυτῶν τράχηλον ὑπέθηκαν (“los cuales por la vida mía el cuello de ellos pusieron”).[^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### ὑπὲρ τῆς ψυχῆς μου = por mi vida. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### ὑπέθηκαν es verbo finito: pusieron/exponían. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### Puente: la siguiente ancla expresa respuesta: Pablo da gracias.
 
-#### a quienes no solo yo doy gracias, 
+##### Definiciones (formato fijo)
+ψυχή
+: vida / alma
+
+ὑπέρ
+: por / a favor de
+
+#### a quienes no solo yo doy gracias,
+##### La gratitud no es privada: Pablo da gracias explícitamente; reconoce públicamente lo recibido.
+###### GR: οἷς οὐκ ἐγὼ μόνος εὐχαριστῶ (“a quienes no yo solo doy gracias”).[^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### εὐχαριστῶ es verbo finito: doy gracias. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### μόνος = solo. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### Puente: la última ancla amplía el testimonio: también todas las iglesias de gentiles.
+
+##### Definiciones (formato fijo)
+εὐχαριστέω
+: dar gracias
 
 #### sino también todas las iglesias de los gentiles.
+##### Su servicio tuvo impacto más allá de Pablo: muchas comunidades gentiles están en deuda de gratitud con ellos.
+###### GR: ἀλλὰ καὶ πᾶσαι αἱ ἐκκλησίαι τῶν ἐθνῶν (“sino también todas las iglesias de las naciones”).[^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### πᾶσαι αἱ ἐκκλησίαι = todas las iglesias. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### τῶν ἐθνῶν = de los gentiles/naciones. [^https://app.notion.com/p/58d89831d5f64a41bdb3d7596a4d573d]
+###### Puente: Romanos 16:5 añade dos saludos: iglesia en su casa y Epeneto como “primicias” en Asia.
 
-### Romanos 16:5 
+##### Definiciones (formato fijo)
+πᾶς (πᾶσαι)
+: todos / todas
+
+ἐκκλησία
+: iglesia(s)
+
+ἔθνος
+: naciones / gentiles
+
+### Romanos 16:5
 Saluden también a la iglesia que está en su casa. Saluden a mi querido hermano Epeneto, que es el primer convertido a Cristo en Asia.
 
-#### Saluden también a la iglesia que está en su casa. 
+#### Saluden también a la iglesia que está en su casa.
+##### La obra incluye una iglesia doméstica: el hogar funciona como espacio de congregación.
+###### GR: καὶ τὴν κατ’ οἶκον αὐτῶν ἐκκλησίαν (“y la según casa de ellos iglesia”).[^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### κατ’ οἶκον = en casa / según casa (iglesia en casa). [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### ἐκκλησίαν = iglesia. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### αὐτῶν = de ellos (su casa). [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### Puente: la siguiente ancla vuelve al imperativo de saludo, ahora a una persona: Epeneto.
 
-#### Saluden a mi querido hermano Epeneto, 
+##### Definiciones (formato fijo)
+οἶκος
+: casa
+
+κατά
+: según / en (expresión “en casa”)
+
+ἐκκλησία
+: iglesia
+
+#### Saluden a mi querido hermano Epeneto,
+##### El saludo se vuelve afectuoso: “mi amado”; Pablo reconoce vínculo personal en el Señor.
+###### GR: ἀσπάσασθε Ἐπαίνετον τὸν ἀγαπητόν μου (“saluden a Epeneto el amado mío”).[^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### ἀγαπητόν = amado/querido. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### μου = mío. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### Puente: la última ancla define su importancia histórica: primicias de Asia para Cristo.
+
+##### Definiciones (formato fijo)
+ἀγαπητός
+: amado / querido
 
 #### que es el primer convertido a Cristo en Asia.
+##### Epeneto representa “primicias”: uno de los primeros frutos del evangelio en Asia dirigidos a Cristo.
+###### GR: ὅς ἐστιν ἀπαρχὴ τῆς Ἀσίας εἰς Χριστόν (“que es primicia de Asia para Cristo”).[^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### ἐστιν es verbo finito: es. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### ἀπαρχὴ = primicia. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### Ἀσίας = de Asia. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### εἰς Χριστόν = para Cristo. [^https://app.notion.com/p/ec1c6781a85c48708f455d28d2f8823f]
+###### Puente: Romanos 16:6 continuará con más saludos, mostrando la red de participantes en la obra.
 
-### Romanos 16:6 
+##### Definiciones (formato fijo)
+ἀπαρχή
+: primicia / primer fruto
+
+Ἀσία
+: Asia
+
+Χριστός
+: Cristo
+
+### Romanos 16:6
 Saluden a María, que ha trabajado mucho por ustedes.
 
-#### Saluden a María, 
+#### Saluden a María,
+##### Pablo sigue mostrando que la obra del evangelio se sostiene por personas concretas: nombra y honra a María.
+###### GR: ἀσπάσασθε Μαριάμ (“saluden a María”).[^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### Puente: la siguiente ancla explica por qué se la honra: trabajó mucho por ustedes.
+
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
 #### que ha trabajado mucho por ustedes.
+##### La honra se fundamenta en labor intensa: María invirtió esfuerzo real en beneficio de la comunidad.
+###### GR: ἥτις πολλὰ ἐκοπίασεν εἰς ὑμᾶς (“la cual mucho trabajó para ustedes”).[^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### πολλὰ = mucho. [^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### ἐκοπίασεν (κοπιάω) es verbo finito: trabajó / se esforzó. [^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### εἰς ὑμᾶς = para ustedes. [^https://app.notion.com/p/7080ca6fcea344d3b46c1ab9d44ed6aa]
+###### Puente: Romanos 16:7 amplía el círculo con una pareja y descriptores ministeriales (parientes, presos, notorios, antiguos en Cristo).
 
-### Romanos 16:7 
+##### Definiciones (formato fijo)
+κοπιάω
+: trabajar arduamente / esforzarse
+
+εἰς
+: para
+
+πᾶς (πολλὰ)
+: mucho(s)
+
+### Romanos 16:7
 Saluden a Andrónico y a Junias, mis parientes y compañeros de prisión, que se destacan entre los apóstoles y quienes también vinieron a Cristo antes que yo.
 
-#### Saluden a Andrónico y a Junias, 
+#### Saluden a Andrónico y a Junias,
+##### Pablo continúa el patrón: saludos específicos a participantes identificables; la comunidad aprende a reconocer la red de la obra.
+###### GR: ἀσπάσασθε Ἀνδρόνικον καὶ Ἰουνίαν (“saluden a Andrónico y a Junia”).[^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### Puente: la siguiente ancla describe su relación con Pablo: parientes y compañeros de prisión.
 
-#### mis parientes y compañeros de prisión, 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
-#### que se destacan entre los apóstoles 
+#### mis parientes y compañeros de prisión,
+##### Pablo los vincula a sí mismo por dos lazos: familia (o vínculo cercano) y sufrimiento compartido (prisión).
+###### GR: τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου (“los parientes míos y compañeros de prisión míos”).[^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### συγγενεῖς = parientes. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### συναιχμαλώτους = compañeros de prisión. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### μου = míos. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### Puente: la siguiente ancla declara su reconocimiento en la comunidad apostólica.
+
+##### Definiciones (formato fijo)
+συγγενής
+: pariente / compatriota cercano
+
+συναιχμάλωτος
+: compañero de prisión
+
+ἐγώ (μου)
+: mío(s)
+
+#### que se destacan entre los apóstoles
+##### Su reputación es notable: son “señalados” dentro del círculo apostólico.
+###### GR: οἵτινές εἰσιν ἐπίσημοι ἐν τοῖς ἀποστόλοις (“los cuales son destacados entre los apóstoles”).[^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### εἰσιν (εἰμί) es verbo finito: son. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### ἐπίσημοι = destacados / notables. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### ἐν τοῖς ἀποστόλοις = entre los apóstoles. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### Puente: la última ancla añade otro dato temporal: fueron en Cristo antes que Pablo.
+
+##### Definiciones (formato fijo)
+ἐπίσημος
+: destacado / notable
+
+ἀπόστολος
+: apóstol(es)
+
+εἰμί
+: ser / son
 
 #### y quienes también vinieron a Cristo antes que yo.
+##### Pablo reconoce antigüedad en la fe: llegaron a estar “en Cristo” antes que él, lo cual refuerza su honor y autoridad moral.
+###### GR: οἳ καὶ πρὸ ἐμοῦ γέγοναν ἐν Χριστῷ (“quienes también antes de mí llegaron a ser en Cristo”).[^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### πρὸ ἐμοῦ = antes de mí. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### γέγοναν es verbo finito: llegaron a ser / han llegado a estar. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### ἐν Χριστῷ = en Cristo. [^https://app.notion.com/p/f1807d0654a74ca28b5c7b21adb0a069]
+###### Puente: Romanos 16:8 vuelve a un saludo breve, con afecto, “en el Señor”.
 
-### Romanos 16:8 
+##### Definiciones (formato fijo)
+πρό
+: antes de
+
+γίνομαι (γέγοναν)
+: llegar a ser / llegar a estar
+
+Χριστός
+: Cristo
+
+### Romanos 16:8
 Saluden a Amplias, mi querido hermano en el Señor.
 
-#### Saluden a Amplias, 
+#### Saluden a Amplias,
+##### Pablo mantiene el ritmo: un saludo directo a Amplias.
+###### GR: ἀσπάσασθε Ἀμπλιᾶτον (“saluden a Amplias”).[^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### Puente: la siguiente ancla añade el tono afectivo y el marco: amado en el Señor.
+
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
 #### mi querido hermano en el Señor.
+##### La cercanía es cristiana: “amado mío” y localizado “en el Señor”; la hermandad nace del Señorío de Cristo.
+###### GR: τὸν ἀγαπητόν μου ἐν κυρίῳ (“el amado mío en el Señor”).[^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### ἀγαπητόν = amado/querido. [^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### μου = mío. [^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/4e9356c441544e9d9d7d931d808d8465]
+###### Puente: Romanos 16:9 suma dos nombres y describe colaboración “en Cristo”.
 
-### Romanos 16:9 
+##### Definiciones (formato fijo)
+ἀγαπητός
+: amado / querido
+
+κύριος
+: Señor
+
+ἐν
+: en
+
+### Romanos 16:9
 Saluden a Urbano, nuestro colaborador en Cristo, y a mi querido hermano Estaquis.
 
-#### Saluden a Urbano, 
+#### Saluden a Urbano,
+##### Un saludo adicional: Pablo reconoce a Urbano por nombre.
+###### GR: ἀσπάσασθε Οὐρβανὸν (“saluden a Urbano”).[^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### Puente: la siguiente ancla describe su rol: colaborador “nuestro” en Cristo.
 
-#### nuestro colaborador en Cristo, 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
+
+#### nuestro colaborador en Cristo,
+##### Urbano es compañero de obra de la comunidad (“nuestro”), y su colaboración se define “en Cristo”.
+###### GR: τὸν συνεργὸν ἡμῶν ἐν Χριστῷ (“el colaborador de nosotros en Cristo”).[^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### συνεργὸν = colaborador. [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### ἡμῶν = de nosotros (nuestro). [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### ἐν Χριστῷ = en Cristo. [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### Puente: la última ancla añade otro saludo con afecto: Estaquis, amado de Pablo.
+
+##### Definiciones (formato fijo)
+συνεργός
+: colaborador
+
+Χριστός
+: Cristo
+
+ἐγώ (ἡμεῖς/ἡμῶν)
+: nosotros / nuestro
 
 #### y a mi querido hermano Estaquis.
+##### Pablo honra también a Estaquis con lenguaje afectivo: amado mío.
+###### GR: καὶ Στάχυν τὸν ἀγαπητόν μου (“y a Estaquis el amado mío”).[^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### Στάχυν = Estaquis. [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### ἀγαπητόν μου = mi amado/querido. [^https://app.notion.com/p/4aa5e911a92940429668225c354e58a5]
+###### Puente: Romanos 16:10 introduce a Apeles (aprobado en Cristo) y a la casa de Aristóbulo.
 
-### Romanos 16:10 
+##### Definiciones (formato fijo)
+ἀγαπητός
+: amado / querido
+
+### Romanos 16:10
 Saluden a Apeles, el aprobado en Cristo. Saluden a los de la casa de Aristóbulo.
 
 #### Saluden a Apeles,
+##### Saludo nominal: Apeles es nombrado individualmente.
+###### GR: ἀσπάσασθε Ἀπελλῆν (“saluden a Apeles”).[^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### Puente: la siguiente ancla califica a Apeles: aprobado en Cristo.
 
-#### el aprobado en Cristo. 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
+
+#### el aprobado en Cristo.
+##### Apeles es descrito como “aprobado”: probado y reconocido como genuino en el ámbito de Cristo.
+###### GR: τὸν δόκιμον ἐν Χριστῷ (“el aprobado en Cristo”).[^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### δόκιμον = aprobado / probado. [^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### ἐν Χριστῷ = en Cristo. [^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### Puente: la última ancla amplía el saludo a un grupo: los de la casa de Aristóbulo.
+
+##### Definiciones (formato fijo)
+δόκιμος
+: aprobado / probado
+
+Χριστός
+: Cristo
+
+ἐν
+: en
 
 #### Saluden a los de la casa de Aristóbulo.
+##### Pablo no solo saluda individuos; también saluda redes domésticas (“los de la casa de…”), participantes ligados a un hogar.
+###### GR: ἀσπάσασθε τοὺς ἐκ τῶν Ἀριστοβούλου (“saluden a los de los de Aristóbulo”).[^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### ἐκ = de (procedencia/pertenencia). [^https://app.notion.com/p/08e4073aba634044ad2e2e572814b98f]
+###### Puente: Romanos 16:11 continúa con Herodión (pariente) y con la casa de Narciso (los que son del Señor).
 
-### Romanos 16:11 
+##### Definiciones (formato fijo)
+ἐκ
+: de / de entre
+
+### Romanos 16:11
 Saluden a Herodión, mi pariente. Saluden a los de la casa de Narciso, que son del Señor.
 
-#### Saluden a Herodión, 
+#### Saluden a Herodión,
+##### Saludo personal: Herodión es identificado por nombre y relación con Pablo.
+###### GR: ἀσπάσασθε Ἡρῳδίωνα (“saluden a Herodión”).[^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### Puente: la siguiente ancla lo identifica: pariente de Pablo.
 
-#### mi pariente. 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
-#### Saluden a los de la casa de Narciso, 
+#### mi pariente.
+##### Pablo recalca vínculo familiar/étnico: “mi pariente”.
+###### GR: τὸν συγγενῆ μου (“el pariente mío”).[^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### συγγενῆ = pariente. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### μου = mío. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### Puente: la siguiente ancla vuelve a saludar a un grupo: los de la casa de Narciso.
+
+##### Definiciones (formato fijo)
+συγγενής
+: pariente / compatriota cercano
+
+ἐγώ (μου)
+: mío
+
+#### Saluden a los de la casa de Narciso,
+##### Otra red doméstica: “los de” Narciso; muestra que la obra se articula por hogares y conexiones.
+###### GR: ἀσπάσασθε τοὺς ἐκ τῶν Ναρκίσσου (“saluden a los de los de Narciso”).[^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### ἐκ τῶν = de los de / de la casa de. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### Puente: la última ancla delimita espiritualmente ese grupo: los que están en el Señor.
+
+##### Definiciones (formato fijo)
+ἐκ
+: de / de entre
 
 #### que son del Señor.
+##### La pertenencia decisiva no es social sino espiritual: “están en el Señor”.
+###### GR: τοὺς ὄντας ἐν κυρίῳ (“los siendo en Señor”).[^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### ὄντας (εἰμί) participio: siendo/estando. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/81bc1e398fe649599f4c965b50d7a498]
+###### Puente: Romanos 16:12 honra a Trifena/Trifosa como trabajadoras en el Señor, y a Pérsida como trabajadora intensa.
 
-### Romanos 16:12 
+##### Definiciones (formato fijo)
+κύριος
+: Señor
+
+εἰμί
+: ser / estar
+
+ἐν
+: en
+
+### Romanos 16:12
 Saluden a Trifena y a Trifosa, obreras del Señor. Saluden a la querida hermana Pérsida, que ha trabajado mucho en el Señor.
 
-#### Saluden a Trifena y a Trifosa, 
+#### Saluden a Trifena y a Trifosa,
+##### Pablo saluda a dos mujeres por nombre; la lista incluye colaboradoras activas en la obra.
+###### GR: ἀσπάσασθε Τρύφαιναν καὶ Τρυφῶσαν (“saluden a Trifena y a Trifosa”).[^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### Puente: la siguiente ancla define su carácter: trabajadoras en el Señor.
 
-#### obreras del Señor. 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
-#### Saluden a la querida hermana Pérsida, 
+#### obreras del Señor.
+##### Su identidad se define por labor “en el Señor”: su trabajo está localizado en el servicio cristiano, no en prestigio personal.
+###### GR: τὰς κοπιώσας ἐν κυρίῳ (“las habiendo trabajado en el Señor”).[^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### κοπιώσας (κοπιάω) participio: las que trabajaron arduamente. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### Puente: la siguiente ancla saluda a Pérsida con afecto (amada).
+
+##### Definiciones (formato fijo)
+κοπιάω
+: trabajar arduamente / esforzarse
+
+κύριος
+: Señor
+
+ἐν
+: en
+
+#### Saluden a la querida hermana Pérsida,
+##### Pablo añade otra mujer con afecto: “la amada”; honra + cariño en un mismo saludo.
+###### GR: ἀσπάσασθε Περσίδα τὴν ἀγαπητήν (“saluden a Pérsida la amada”).[^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### ἀγαπητήν = amada/querida. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### Puente: la última ancla explica el motivo: trabajó mucho en el Señor.
+
+##### Definiciones (formato fijo)
+ἀγαπητός (ἀγαπητή)
+: amado(a) / querido(a)
 
 #### que ha trabajado mucho en el Señor.
+##### Su honra se basa en esfuerzo abundante, y el marco es “en el Señor”: trabajo orientado a Cristo.
+###### GR: ἥτις πολλὰ ἐκοπίασεν ἐν κυρίῳ (“la cual mucho trabajó en el Señor”).[^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### πολλὰ = mucho. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### ἐκοπίασεν (κοπιάω) es verbo finito: trabajó arduamente. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/4230bd1707e24a7fae0a7322b2a687fa]
+###### Puente: Romanos 16:13 continuará con más saludos, manteniendo el mapa de participantes en la obra.
 
-### Romanos 16:13 
+##### Definiciones (formato fijo)
+κοπιάω
+: trabajar arduamente / esforzarse
+
+### Romanos 16:13
 Saluden a Rufo, escogido en el Señor, también a su madre y mía.
 
-#### Saluden a Rufo, 
+#### Saluden a Rufo,
+##### Pablo honra a Rufo con un saludo directo, integrándolo explícitamente en la red de participantes en la obra.
+###### GR: ἀσπάσασθε Ῥοῦφον (“saluden a Rufo”).[^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### Puente: la siguiente ancla explica el descriptor principal de Rufo: escogido en el Señor.
 
-#### escogido en el Señor, 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
+
+#### escogido en el Señor,
+##### Rufo es caracterizado como “escogido” y esa elección se ubica “en el Señor”: su identidad y valor se entienden dentro del Señorío de Cristo.
+###### GR: τὸν ἐκλεκτὸν ἐν κυρίῳ (“el escogido en el Señor”).[^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### ἐκλεκτὸν = escogido / elegido. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### Puente: la última ancla amplía el saludo a una relación familiar que también toca a Pablo: su madre y la de Pablo.
+
+##### Definiciones (formato fijo)
+ἐκλεκτός
+: escogido / elegido
+
+κύριος
+: Señor
+
+ἐν
+: en
 
 #### también a su madre y mía.
+##### Pablo incluye a la madre de Rufo como alguien cercano también para él: la obra produce vínculos familiares ampliados en la comunidad.
+###### GR: καὶ τὴν μητέρα αὐτοῦ καὶ ἐμοῦ (“y la madre de él y de mí”).[^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### μητέρα = madre. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### αὐτοῦ = de él. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### ἐμοῦ = de mí. [^https://app.notion.com/p/1e8a4c16a5f14a4fa23e11042db4d46a]
+###### Puente: Romanos 16:14 saluda una lista de personas y también a “los hermanos con ellos”.
 
-### Romanos 16:14 
+##### Definiciones (formato fijo)
+μήτηρ
+: madre
+
+αὐτός (αὐτοῦ)
+: de él
+
+ἐγώ (ἐμοῦ)
+: de mí
+
+### Romanos 16:14
 Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas, y a los hermanos con ellos.
 
-#### Saluden a Asíncrito, 
+#### Saluden a Asíncrito,
+##### Pablo presenta una lista de nombres; cada uno es reconocido públicamente como parte de la comunidad y la obra.
+###### GR: ἀσπάσασθε Ἀσύγκριτον (“saluden a Asíncrito”).[^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### Puente: las siguientes anclas continúan la lista de saludos.
 
-#### a Flegonte, a Hermes, 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
+
+#### a Flegonte, a Hermes,
+##### La lista sigue, mostrando amplitud de relaciones y reconocimiento de múltiples participantes.
+###### GR: Φλέγοντα, Ἑρμῆν (“a Flegonte, a Hermes”).[^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### Puente: la siguiente ancla añade dos nombres más.
 
 #### a Patrobas, a Hermas,
+##### La lista continúa; el saludo es una forma de honor comunitario, no simple formalidad.
+###### GR: Πατροβᾶν, Ἑρμᾶν (“a Patrobas, a Hermas”).[^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### Puente: la última ancla incluye al grupo asociado: los hermanos con ellos.
 
 #### y a los hermanos con ellos.
+##### No solo individuos: también la red que los acompaña; Pablo saluda a los “hermanos” ligados a ese grupo.
+###### GR: καὶ τοὺς σὺν αὐτοῖς ἀδελφούς (“y a los con ellos hermanos”).[^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### σὺν αὐτοῖς = con ellos. [^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### ἀδελφούς = hermanos. [^https://app.notion.com/p/d932d1b721ca4737a190e622f4f708a8]
+###### Puente: Romanos 16:15 repite el patrón: más nombres + “todos los santos con ellos”.
 
-### Romanos 16:15 
+##### Definiciones (formato fijo)
+σύν
+: con
+
+ἀδελφός
+: hermano(s)
+
+αὐτός (αὐτοῖς)
+: ellos
+
+### Romanos 16:15
 Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas, y a todos los santos que están con ellos.
 
-#### Saluden a Filólogo y a Julia, 
+#### Saluden a Filólogo y a Julia,
+##### Pablo nombra personas específicas (incluye mujer y hombre) y las integra al reconocimiento público de la comunidad.
+###### GR: ἀσπάσασθε Φιλόλογον καὶ Ἰουλίαν (“saluden a Filólogo y a Julia”).[^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### ἀσπάσασθε es verbo finito imperativo: saluden. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### Puente: la siguiente ancla añade a Nereo y su hermana.
 
-#### a Nereo y a su hermana, 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
 
-#### y a Olimpas, 
+#### a Nereo y a su hermana,
+##### El saludo incluye un par de hermanos (hermano y hermana), mostrando que la participación en la obra abarca familias.
+###### GR: Νηρέα καὶ τὴν ἀδελφὴν αὐτοῦ (“a Nereo y la hermana de él”).[^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### ἀδελφὴν = hermana. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### αὐτοῦ = de él. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### Puente: la siguiente ancla añade a Olimpas.
+
+##### Definiciones (formato fijo)
+ἀδελφή
+: hermana
+
+αὐτός (αὐτοῦ)
+: de él
+
+#### y a Olimpas,
+##### La lista continúa, subrayando amplitud y diversidad de participantes.
+###### GR: καὶ Ὀλυμπᾶν (“y a Olimpas”).[^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### Puente: la última ancla amplía el saludo a “todos los santos” asociados con ellos.
 
 #### y a todos los santos que están con ellos.
+##### El saludo se extiende a toda una comunidad asociada: “todos los santos con ellos”; no se limita a los nombres destacados.
+###### GR: καὶ τοὺς σὺν αὐτοῖς πάντας ἁγίους (“y a los con ellos todos santos”).[^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### σὺν αὐτοῖς = con ellos. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### πάντας = todos. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### ἁγίους = santos. [^https://app.notion.com/p/539cb8eb389a4cc29661095cec230b53]
+###### Puente: Romanos 16:16 cierra esta sección con una práctica comunitaria (beso santo) y un saludo colectivo de las iglesias.
 
-### Romanos 16:16 
+##### Definiciones (formato fijo)
+ἅγιος
+: santo(s)
+
+πᾶς (πάντας)
+: todos
+
+σύν
+: con
+
+### Romanos 16:16
 Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo los saludan.
 
-#### Salúdense los unos a los otros con un beso santo. 
+#### Salúdense los unos a los otros con un beso santo.
+##### Pablo transforma los saludos en práctica recíproca: el amor fraternal debe expresarse en un saludo santo (no superficial).
+###### GR: Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ (“salúdense unos a otros en beso santo”).[^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### Ἀσπάσασθε es verbo finito imperativo: salúdense. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### ἀλλήλους = unos a otros. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### ἐν φιλήματι ἁγίῳ = con beso santo. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### Puente: la siguiente ancla amplía el saludo desde lo local a lo global: las iglesias de Cristo.
+
+##### Definiciones (formato fijo)
+ἀλλήλων
+: unos a otros
+
+φίλημα
+: beso
+
+ἅγιος
+: santo
+
+ἐν
+: en / con
 
 #### Todas las iglesias de Cristo los saludan.
+##### No solo Pablo: “todas las iglesias” participan en el saludo; es comunión amplia en Cristo.
+###### GR: Ἀσπάζονται ὑμᾶς αἱ ἐκκλησίαι πᾶσαι τοῦ Χριστοῦ (“saludan a ustedes las iglesias todas de Cristo”).[^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### Ἀσπάζονται es verbo finito: saludan. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### ὑμᾶς = a ustedes. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### αἱ ἐκκλησίαι πᾶσαι = todas las iglesias. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+###### τοῦ Χριστοῦ = de Cristo. [^https://app.notion.com/p/d6c07287e4654320be052c872914ef89]
+
+##### Definiciones (formato fijo)
+ἐκκλησία
+: iglesia(s)
+
+Χριστός
+: Cristo
+
+πᾶς (πᾶσαι)
+: todos / todas
 
 ## Romanos 16:17–20 - Apártense de los que causan divisiones
 
-### Romanos 16:17 
+### Romanos 16:17
 Les ruego, hermanos, que vigilen a los que causan disensiones y tropiezos contra las enseñanzas que ustedes aprendieron, y que se aparten de ellos.
 
-#### Les ruego, hermanos, 
+#### Les ruego, hermanos,
+##### Pablo vuelve al tono de exhortación urgente: es un ruego fraternal, no mera información.
+###### GR: Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί (“ruego pero a ustedes, hermanos”).[^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### Παρακαλῶ es verbo finito: ruego/exhorto. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### Puente: la siguiente ancla define el contenido del ruego: vigilar/observar a ciertos agentes.
 
-#### que vigilen a los que causan disensiones y tropiezos 
+##### Definiciones (formato fijo)
+παρακαλέω
+: rogar / exhortar
 
-#### contra las enseñanzas que ustedes aprendieron, 
+ἀδελφός
+: hermanos
+
+#### que vigilen a los que causan disensiones y tropiezos
+##### La comunidad debe observar atentamente: identificar a quienes producen divisiones (fragmentación) y tropiezos (caídas) en el cuerpo.
+###### GR: σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα … ποιοῦντας (“vigilar a los… divisiones y tropiezos… haciendo”).[^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### σκοπεῖν = vigilar/observar (acción requerida). [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### διχοστασίας = disensiones/divisiones. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### σκάνδαλα = tropiezos/escándalos. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### ποιοῦντας = los que hacen/causan. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### Puente: la siguiente ancla marca el criterio doctrinal: contra la enseñanza aprendida.
+
+##### Definiciones (formato fijo)
+διχοστασία
+: división / disensión
+
+σκάνδαλον
+: tropiezo / escándalo
+
+ποιέω
+: hacer / causar
+
+#### contra las enseñanzas que ustedes aprendieron,
+##### El problema no es “diferencia secundaria”, sino desviación “contra” la enseñanza recibida; el estándar es lo que la comunidad aprendió.
+###### GR: παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε (“contra la enseñanza la cual ustedes aprendieron”).[^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### διδαχὴν = enseñanza/doctrina. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### ἐμάθετε es verbo finito: aprendieron. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### παρὰ = contra / al margen de. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### Puente: la última ancla ordena la respuesta práctica: apartarse.
+
+##### Definiciones (formato fijo)
+διδαχή
+: enseñanza / doctrina
+
+μανθάνω (ἐμάθετε)
+: aprender
+
+παρά
+: contra / al margen de
 
 #### y que se aparten de ellos.
+##### Respuesta requerida: no tolerar su influencia; “apártate” como protección del cuerpo y del evangelio.
+###### GR: καὶ ἐκκλίνετε ἀπ’ αὐτῶν (“y apártense de ellos”).[^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### ἐκκλίνετε es verbo finito imperativo: apártense / desvíense. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### ἀπ’ αὐτῶν = de ellos. [^https://app.notion.com/p/9442e94dac4e4b7a8aec323ec7dc957e]
+###### Puente: Romanos 16:18 explica por qué: su “servicio” no es a Cristo sino al propio vientre, y engañan con palabras.
 
-### Romanos 16:18 
+##### Definiciones (formato fijo)
+ἐκκλίνω
+: apartarse / desviarse
+
+ἀπό
+: de
+
+αὐτός (αὐτῶν)
+: de ellos
+
+### Romanos 16:18
 Porque los tales son esclavos, no de Cristo nuestro Señor, sino de sus propios apetitos, y por medio de palabras suaves y lisonjeras engañan los corazones de los ingenuos.
 
-#### Porque los tales son esclavos, 
+#### Porque los tales son esclavos,
+##### Pablo da la razón: el problema es de lealtad/servicio; “tales” viven como esclavos (sirviendo a alguien/algo).
+###### GR: οἱ γὰρ τοιοῦτοι … οὐ δουλεύουσιν (“pues los tales no sirven”).[^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### δουλεύουσιν es verbo finito: sirven / son esclavos. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### Puente: la siguiente ancla especifica a quién NO sirven: a Cristo nuestro Señor.
 
-#### no de Cristo nuestro Señor, 
+##### Definiciones (formato fijo)
+δουλεύω
+: servir como esclavo / ser esclavo de
 
-#### sino de sus propios apetitos, 
+τοιοῦτος
+: tales
 
-#### y por medio de palabras suaves y lisonjeras 
+#### no de Cristo nuestro Señor,
+##### Negación central: no están bajo el Señorío de Cristo; su servicio real no es cristiano aunque lo parezca externamente.
+###### GR: τῷ κυρίῳ ἡμῶν Χριστῷ οὐ (“al Señor nuestro Cristo no”).[^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### κυρίῳ ἡμῶν Χριστῷ = a nuestro Señor Cristo. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### οὐ = no. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### Puente: la siguiente ancla declara a quién sí sirven: a su “vientre” (apetito).
+
+##### Definiciones (formato fijo)
+κύριος
+: Señor
+
+Χριστός
+: Cristo
+
+οὐ
+: no
+
+#### sino de sus propios apetitos,
+##### Contraste: su lealtad es interna y egoísta; “vientre” funciona como metáfora de apetitos/deseos propios.
+###### GR: ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ (“sino al vientre de ellos mismos”).[^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### ἀλλὰ = sino/pero. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### ἑαυτῶν = de ellos mismos. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### κοιλίᾳ = vientre (apetitos). [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### Puente: la siguiente ancla describe su método: palabras suaves y “bendición” (lisonja) para engañar.
+
+##### Definiciones (formato fijo)
+κοιλία
+: vientre / apetito
+
+ἑαυτοῦ (ἑαυτῶν)
+: de sí mismos
+
+ἀλλά
+: sino / pero
+
+#### y por medio de palabras suaves y lisonjeras
+##### Su herramienta es retórica seductora: discurso “agradable” y “bendición” que disfraza el daño.
+###### GR: καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας (“y por medio de la suavidad de palabras y lisonja”).[^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### διὰ = por medio de. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### χρηστολογίας = palabras suaves / buen hablar. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### εὐλογίας = bendición/lisonja. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### Puente: la última ancla declara el efecto: engañan corazones de los ingenuos.
+
+##### Definiciones (formato fijo)
+διά
+: por medio de
+
+χρηστολογία
+: palabras suaves / discurso amable
+
+εὐλογία
+: bendición / lisonja
 
 #### engañan los corazones de los ingenuos.
+##### Resultado: engaño afectivo y moral; capturan el “corazón” de quienes no detectan malicia (ingenuos).
+###### GR: ἐξαπατῶσι τὰς καρδίας τῶν ἀκάκων (“engañan los corazones de los ingenuos”).[^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### ἐξαπατῶσι es verbo finito: engañan. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### καρδίας = corazones. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### ἀκάκων = ingenuos / sin malicia. [^https://app.notion.com/p/3cf0ae21fdc34c1c8fafad16e8ca1fdb]
+###### Puente: Romanos 16:19 equilibra la advertencia con elogio: su obediencia llegó a todos; y añade una meta: sabios para lo bueno, inocentes para lo malo.
 
-### Romanos 16:19 
+##### Definiciones (formato fijo)
+ἐξαπατάω
+: engañar completamente / seducir
+
+καρδία
+: corazón
+
+ἄκακος
+: ingenuo / sin malicia
+
+### Romanos 16:19
 Porque la noticia de la obediencia de ustedes se ha extendido a todos. Por tanto, me regocijo por ustedes, pero quiero que sean sabios para lo bueno e inocentes para lo malo.
 
-#### Porque la noticia de la obediencia de ustedes 
+#### Porque la noticia de la obediencia de ustedes
+##### Pablo reafirma una reputación positiva: la comunidad es conocida por obediencia, no por rebeldía.
+###### GR: ἡ γὰρ ὑμῶν ὑπακοὴ (“pues la obediencia de ustedes”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### ὑπακοὴ = obediencia. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### ὑμῶν = de ustedes. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: la siguiente ancla describe el alcance: llegó a todos.
 
-#### se ha extendido a todos. 
+##### Definiciones (formato fijo)
+ὑπακοή
+: obediencia
 
-#### Por tanto, 
+#### se ha extendido a todos.
+##### Su obediencia “llegó” a todos: se difundió ampliamente (testimonio público).
+###### GR: εἰς πάντας ἀφίκετο (“a todos llegó”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### εἰς πάντας = a todos. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### ἀφίκετο es verbo finito: llegó / se extendió. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: la siguiente ancla marca la conclusión emocional: por tanto, se regocija.
 
-#### me regocijo por ustedes, 
+##### Definiciones (formato fijo)
+εἰς
+: a / hacia
 
-#### pero quiero que sean sabios para lo bueno 
+πᾶς (πάντας)
+: todos
+
+ἀφικνέομαι
+: llegar / extenderse
+
+#### Por tanto,
+##### Conector: a partir de su testimonio obediente, Pablo expresa gozo.
+###### GR: οὖν (“por tanto / pues”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: la siguiente ancla declara el gozo de Pablo.
+
+##### Definiciones (formato fijo)
+οὖν
+: por tanto / pues
+
+#### me regocijo por ustedes,
+##### Pablo se alegra por ellos: su obediencia produce gozo apostólico (no solo “cumplimiento”).
+###### GR: ἐφ’ ὑμῖν … χαίρω (“por ustedes… me regocijo”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### χαίρω es verbo finito: me regocijo / me alegro. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: la siguiente ancla introduce el deseo pastoral: sabios para lo bueno.
+
+##### Definiciones (formato fijo)
+χαίρω
+: alegrarse / regocijarse
+
+#### pero quiero que sean sabios para lo bueno
+##### Pablo añade objetivo de discernimiento: sabiduría orientada al bien; no ser ingenuos frente al mal (como en Romanos 16:18).
+###### GR: θέλω δὲ ὑμᾶς σοφοὺς εἶναι εἰς τὸ ἀγαθόν (“quiero… a ustedes sabios ser para lo bueno”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### θέλω es verbo finito: quiero. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### σοφοὺς εἶναι = ser sabios. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### εἰς τὸ ἀγαθόν = para lo bueno. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: la última ancla equilibra con pureza: inocentes para lo malo.
+
+##### Definiciones (formato fijo)
+θέλω
+: querer
+
+σοφός
+: sabio
+
+ἀγαθός
+: bueno
 
 #### e inocentes para lo malo.
+##### Discernimiento con pureza: no “expertos” en el mal, sino íntegros/no mezclados respecto a lo malo.
+###### GR: ἀκεραίους δὲ εἰς τὸ κακόν (“inocentes pero para lo malo”).[^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### ἀκεραίους = inocentes / íntegros / sin mezcla. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### εἰς τὸ κακόν = para lo malo. [^https://app.notion.com/p/2783e69f1dae48bc8f85c1996a064991]
+###### Puente: Romanos 16:20 da esperanza: Dios de paz aplastará a Satanás pronto, y termina con bendición de gracia.
 
-### Romanos 16:20 
+##### Definiciones (formato fijo)
+ἀκέραιος
+: inocente / íntegro / sin mezcla
+
+κακός
+: malo
+
+### Romanos 16:20
 Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La gracia de nuestro Señor Jesucristo sea con ustedes.
 
-#### Y el Dios de paz 
+#### Y el Dios de paz
+##### Pablo vuelve a nombrar a Dios por su carácter: Dios de paz; la paz incluye protección del cuerpo frente a divisiones.
+###### GR: ὁ δὲ θεὸς τῆς εἰρήνης (“el pero Dios de la paz”).[^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### θεὸς = Dios. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### εἰρήνης = paz. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### Puente: la siguiente ancla promete victoria: aplastará a Satanás bajo sus pies, pronto.
 
-#### aplastará pronto a Satanás debajo de los pies de ustedes. 
+##### Definiciones (formato fijo)
+εἰρήνη
+: paz
+
+θεός
+: Dios
+
+#### aplastará pronto a Satanás debajo de los pies de ustedes.
+##### Promesa de triunfo: Dios quebrará a Satanás; la comunidad participa (“bajo sus pies”) y el tiempo es cercano (“pronto”).
+###### GR: συντρίψει τὸν Σατανᾶν ὑπὸ τοὺς πόδας ὑμῶν ἐν τάχει (“aplastará a Satanás debajo los pies de ustedes pronto”).[^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### συντρίψει es verbo finito: aplastará / quebrará. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### Σατανᾶν = Satanás. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### ὑπὸ τοὺς πόδας ὑμῶν = debajo de los pies de ustedes. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### ἐν τάχει = pronto. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### Puente: la última ancla cierra con bendición: gracia del Señor Jesucristo con ustedes.
+
+##### Definiciones (formato fijo)
+συντρίβω
+: aplastar / quebrar
+
+Σατανᾶς
+: Satanás
+
+ὑπό
+: debajo de
+
+τάχος
+: prontitud / rapidez
 
 #### La gracia de nuestro Señor Jesucristo sea con ustedes.
+##### Benedición final: la gracia del Señor Jesucristo sostenga a la comunidad mientras se guarda de divisiones y se mantiene en obediencia.
+###### GR: ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ’ ὑμῶν (“la gracia del Señor nuestro Jesucristo con ustedes”).[^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### χάρις = gracia. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### κυρίου ἡμῶν Ἰησοῦ Χριστοῦ = de nuestro Señor Jesucristo. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+###### μεθ’ ὑμῶν = con ustedes. [^https://app.notion.com/p/27cf17475a374acca665c2a2a90bbee3]
+
+##### Definiciones (formato fijo)
+χάρις
+: gracia
+
+μετά
+: con
+
+κύριος
+: Señor
+
+Ἰησοῦς
+: Jesús
+
+Χριστός
+: Cristo
 
 ## Romanos 16:21–27 - La obediencia de la fe
 
-### Romanos 16:21 
+### Romanos 16:21
 Timoteo, mi colaborador, los saluda, y también Lucio, Jasón y Sosípater, mis parientes.
 
-#### Timoteo, 
+#### Timoteo,
+##### La carta cierra incluyendo saludos del equipo misionero: la obra es compartida, no individual.
+###### GR: Τιμόθεος (“Timoteo”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: la siguiente ancla declara la acción: los saluda, y lo identifica como colaborador de Pablo.
 
-#### mi colaborador, los saluda, 
+#### mi colaborador, los saluda,
+##### Timoteo aparece como συνεργός (colaborador) de Pablo y participa activamente en el saludo a la iglesia.
+###### GR: Ἀσπάζεται ὑμᾶς Τιμόθεος ὁ συνεργός μου (“saluda a ustedes Timoteo el colaborador mío”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Ἀσπάζεται es verbo finito: saluda. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### ὑμᾶς = a ustedes. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### συνεργός = colaborador. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### μου = mío. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: la siguiente ancla añade más nombres: también Lucio.
 
-#### y también Lucio, 
+##### Definiciones (formato fijo)
+συνεργός
+: colaborador
 
-#### Jasón 
+ἀσπάζομαι
+: saludar
 
-#### y Sosípater, 
+#### y también Lucio,
+##### No solo Timoteo: otros participantes también envían saludo, mostrando la red que acompaña el ministerio.
+###### GR: καὶ Λούκιος (“y Lucio”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: la siguiente ancla añade a Jasón.
+
+#### Jasón
+##### La lista continúa con nombres concretos, destacando comunión entre iglesias y obreros.
+###### GR: καὶ Ἰάσων (“y Jasón”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: la siguiente ancla añade a Sosípater.
+
+#### y Sosípater,
+##### Sosípater es incluido como parte del grupo que saluda: unidad en la obra y en el mensaje.
+###### GR: καὶ Σωσίπατρος (“y Sosípater”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: la última ancla los identifica como parientes de Pablo.
 
 #### mis parientes.
+##### Pablo identifica a este grupo (Lucio, Jasón, Sosípater) como συγγενεῖς (parientes/compatriotas cercanos).
+###### GR: οἱ συγγενεῖς μου (“los parientes míos”).[^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### συγγενεῖς = parientes. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### μου = míos. [^https://app.notion.com/p/73d35d42d57e47bb9d0ab5523dfb8706]
+###### Puente: Romanos 16:22 introduce a quien escribió físicamente la carta: Tercio.
 
-### Romanos 16:22 
+##### Definiciones (formato fijo)
+συγγενής
+: pariente / compatriota cercano
+
+### Romanos 16:22
 Yo, Tercio, que escribo esta carta, los saludo en el Señor.
 
-#### Yo, Tercio, 
+#### Yo, Tercio,
+##### La carta revela al amanuense: quien la escribe (Tercio) también saluda; transparencia sobre el proceso.
+###### GR: ἐγὼ Τέρτιος (“yo, Tercio”).[^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### Puente: la siguiente ancla explica su rol: el que escribió la carta.
 
-#### que escribo esta carta, 
+##### Definiciones (formato fijo)
+ἐγώ
+: yo
+
+#### que escribo esta carta,
+##### Tercio se identifica como “el que escribió” (copió/redactó) la epístola bajo dictado/autorización apostólica.
+###### GR: ὁ γράψας τὴν ἐπιστολὴν (“el habiendo escrito la carta”).[^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### γράψας (γράφω) participio: habiendo escrito. [^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### ἐπιστολὴν = carta/epístola. [^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### Puente: la última ancla declara el saludo y el marco: en el Señor.
+
+##### Definiciones (formato fijo)
+γράφω
+: escribir
+
+ἐπιστολή
+: carta / epístola
 
 #### los saludo en el Señor.
+##### El saludo se ubica “en el Señor”: no es social solamente, sino comunión cristiana.
+###### GR: ἀσπάζομαι ὑμᾶς … ἐν κυρίῳ (“saludo a ustedes… en el Señor”).[^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### ἀσπάζομαι es verbo finito: saludo. [^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### ὑμᾶς = a ustedes. [^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### ἐν κυρίῳ = en el Señor. [^https://app.notion.com/p/aec5182fe40f43a78022a55befaddcbe]
+###### Puente: Romanos 16:23 agrega saludos desde la hospitalidad local (Gayo) y desde figuras civiles (Erasto) y un hermano (Cuarto).
 
-### Romanos 16:23 
+##### Definiciones (formato fijo)
+ἀσπάζομαι
+: saludar
+
+κύριος
+: Señor
+
+ἐν
+: en
+
+### Romanos 16:23
 Gayo, hospedador mío y de toda la iglesia, los saluda. Erasto, el tesorero de la ciudad, los saluda, y el hermano Cuarto.
 
-#### Gayo, 
+#### Gayo,
+##### Gayo es mencionado primero: su casa/recursos sostienen a Pablo y a la iglesia; la misión ocurre en hospitalidad concreta.
+###### GR: Γάϊος (“Gayo”).[^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### Puente: la siguiente ancla explica su relación: hospedador de Pablo y de toda la iglesia, y saluda.
 
-#### hospedador mío y de toda la iglesia, los saluda. 
+#### hospedador mío y de toda la iglesia, los saluda.
+##### El texto presenta a Gayo como “huésped/anfitrión” de Pablo y de toda la iglesia: servicio de hospitalidad a escala comunitaria.
+###### GR: ἀσπάζεται ὑμᾶς Γάϊος ὁ ξένος μου καὶ ὅλης τῆς ἐκκλησίας (“saluda a ustedes Gayo el hospedador mío y de toda la iglesia”).[^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### ἀσπάζεται es verbo finito: saluda. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### ξένος = hospedador/anfitrión. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### ὅλης τῆς ἐκκλησίας = de toda la iglesia. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### Puente: la siguiente ancla añade otra persona que saluda: Erasto.
 
-#### Erasto, 
+##### Definiciones (formato fijo)
+ξένος
+: hospedador / anfitrión
 
-#### el tesorero de la ciudad, los saluda, 
+ἐκκλησία
+: iglesia
+
+ὅλος
+: todo / toda
+
+#### Erasto,
+##### El saludo incluye a alguien con rol público: el evangelio alcanza también esferas cívicas.
+###### GR: Ἔραστος (“Erasto”).[^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### Puente: la siguiente ancla explica su oficio: administrador/tesorero de la ciudad, y que también saluda.
+
+#### el tesorero de la ciudad, los saluda,
+##### Erasto es identificado por un cargo municipal (οἰκονόμος): la fe convive con responsabilidades públicas.
+###### GR: ἀσπάζεται ὑμᾶς Ἔραστος ὁ οἰκονόμος τῆς πόλεως (“saluda a ustedes Erasto el tesorero/administrador de la ciudad”).[^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### οἰκονόμος = administrador/tesorero. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### πόλεως = de la ciudad. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### Puente: la última ancla añade a Cuarto como “el hermano”.
+
+##### Definiciones (formato fijo)
+οἰκονόμος
+: tesorero / administrador
+
+πόλις
+: ciudad
 
 #### y el hermano Cuarto.
+##### Cuarto es llamado “hermano”: identidad primaria en la familia de la fe.
+###### GR: καὶ Κούαρτος ὁ ἀδελφός (“y Cuarto el hermano”).[^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### ἀδελφός = hermano. [^https://app.notion.com/p/1e0155e40b0b47f0ac671b9957412457]
+###### Puente: Romanos 16:24 pronuncia una bendición de gracia sobre todos.
 
-### Romanos 16:24 
+##### Definiciones (formato fijo)
+ἀδελφός
+: hermano
+
+### Romanos 16:24
 La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.
 
-#### La gracia de nuestro Señor Jesucristo 
+#### La gracia de nuestro Señor Jesucristo
+##### Bendición: la gracia procede del Señor Jesucristo, y se invoca sobre la comunidad completa.
+###### GR: ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ (“la gracia del Señor nuestro Jesús Cristo”).[^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### χάρις = gracia. [^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### κυρίου ἡμῶν Ἰησοῦ Χριστοῦ = de nuestro Señor Jesucristo. [^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### Puente: la siguiente ancla declara el alcance: con todos ustedes, amén.
+
+##### Definiciones (formato fijo)
+χάρις
+: gracia
+
+κύριος
+: Señor
+
+Ἰησοῦς
+: Jesús
+
+Χριστός
+: Cristo
 
 #### sea con todos ustedes. Amén.
+##### La gracia se pide para toda la comunidad (sin excepción) y se sella con “amén”.
+###### GR: μετὰ πάντων ὑμῶν· ἀμήν (“con todos de ustedes; amén”).[^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### μετὰ = con. [^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### πάντων ὑμῶν = de todos ustedes. [^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### ἀμήν = amén. [^https://app.notion.com/p/0154f6b0df7842caa01038913ad3e5a7]
+###### Puente: Romanos 16:25 inicia la doxología: Dios es poderoso para afirmarles según el evangelio y el misterio revelado.
 
-### Romanos 16:25 
+##### Definiciones (formato fijo)
+μετά
+: con
+
+πᾶς (πάντων)
+: todos
+
+ἀμήν
+: amén
+
+### Romanos 16:25
 Y a Aquel que es poderoso para afirmarlos conforme a mi evangelio y a la predicación de Jesucristo, según la revelación del misterio que ha sido mantenido en secreto durante siglos sin fin,
 
-#### Y a Aquel que es poderoso 
+#### Y a Aquel que es poderoso
+##### La doxología se dirige a Dios: al que es capaz; la estabilidad de la iglesia depende de su poder.
+###### GR: τῷ δὲ δυναμένῳ (“al pero siendo capaz”).[^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### δυναμένῳ (δύναμαι) participio: siendo capaz/poderoso. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Puente: la siguiente ancla especifica lo que Dios hace con su poder: afirmarlos.
 
-#### para afirmarlos conforme a mi evangelio 
+##### Definiciones (formato fijo)
+δύναμαι
+: poder / ser capaz
 
-#### y a la predicación de Jesucristo, 
+#### para afirmarlos conforme a mi evangelio
+##### Dios afirma/establece a la comunidad “según” el evangelio proclamado por Pablo: el fundamento es el mensaje, no la persona.
+###### GR: ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου (“a ustedes afianzar según el evangelio mío”).[^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### στηρίξαι (στηρίζω) infinitivo: afirmar/establecer. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### κατὰ = según / conforme a. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### εὐαγγέλιόν μου = mi evangelio (el evangelio que predica). [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Puente: la siguiente ancla une “mi evangelio” con “la proclamación de Jesucristo”.
 
-#### según la revelación del misterio 
+##### Definiciones (formato fijo)
+στηρίζω
+: afirmar / establecer / fortalecer
+
+εὐαγγέλιον
+: evangelio
+
+κατά
+: según / conforme a
+
+#### y a la predicación de Jesucristo,
+##### El evangelio y el kerygma están centrados en Jesucristo: su persona y obra son el contenido proclamado.
+###### GR: καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ (“y la proclama de Jesús Cristo”).[^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### κήρυγμα = proclamación/predicación. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Ἰησοῦ Χριστοῦ = de Jesucristo. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Puente: la siguiente ancla introduce el marco interpretativo: según revelación del misterio.
+
+##### Definiciones (formato fijo)
+κήρυγμα
+: predicación / proclamación
+
+Ἰησοῦς
+: Jesús
+
+Χριστός
+: Cristo
+
+#### según la revelación del misterio
+##### Lo proclamado es coherente con revelación: un “misterio” que Dios da a conocer en su tiempo.
+###### GR: κατὰ ἀποκάλυψιν μυστηρίου (“según revelación misterio”).[^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### ἀποκάλυψις = revelación. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### μυστήριον = misterio. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Puente: la última ancla describe su estado previo: silenciado por tiempos eternos.
+
+##### Definiciones (formato fijo)
+ἀποκάλυψις
+: revelación
+
+μυστήριον
+: misterio
 
 #### que ha sido mantenido en secreto durante siglos sin fin,
+##### El misterio estuvo “silenciado” por largos tiempos; la historia de salvación tiene fases: oculto → revelado.
+###### GR: χρόνοις αἰωνίοις σεσιγημένου (“tiempos eternos habiendo sido silenciado”).[^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### χρόνοις = tiempos. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### αἰωνίοις = eternos/de eras. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### σεσιγημένου (σιγάω) participio: habiendo sido silenciado. [^https://app.notion.com/p/a1bbd72497814992a98b231c9ed3e540]
+###### Puente: Romanos 16:26 declara el giro: ahora manifestado y dado a conocer a todas las naciones para obediencia de fe.
 
-### Romanos 16:26 
+##### Definiciones (formato fijo)
+σιγάω
+: callar / mantener en silencio
+
+χρόνος
+: tiempo(s)
+
+αἰώνιος
+: eterno / de eras
+
+### Romanos 16:26
 pero que ahora ha sido manifestado, y por las Escrituras de los profetas, conforme al mandamiento del Dios eterno, se ha dado a conocer a todas las naciones para guiarlas a la obediencia de la fe,
 
-#### pero que ahora ha sido manifestado, 
+#### pero que ahora ha sido manifestado,
+##### Contraste decisivo: lo antes silenciado ahora es manifestado (hecho visible/abierto).
+###### GR: φανερωθέντος δὲ νῦν (“habiendo sido manifestado pero ahora”).[^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### φανερωθέντος (φανερόω) participio: habiendo sido manifestado. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### νῦν = ahora. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### Puente: la siguiente ancla declara el medio: por escritos proféticos.
 
-#### y por las Escrituras de los profetas, 
+##### Definiciones (formato fijo)
+φανερόω
+: manifestar / hacer visible
 
-#### conforme al mandamiento del Dios eterno, 
+νῦν
+: ahora
 
-#### se ha dado a conocer a todas las naciones 
+#### y por las Escrituras de los profetas,
+##### El medio de difusión/validación son las Escrituras proféticas: continuidad con el testimonio profético.
+###### GR: διὰ τε γραφῶν προφητικῶν (“por medio de y también escritos proféticos”).[^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### διὰ = por medio de. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### γραφῶν = escritos/Escrituras. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### προφητικῶν = proféticos. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### Puente: la siguiente ancla añade el marco de autoridad: mandato del Dios eterno.
+
+##### Definiciones (formato fijo)
+γραφή
+: Escritura(s) / escritos
+
+προφητικός
+: profético
+
+διά
+: por medio de
+
+#### conforme al mandamiento del Dios eterno,
+##### La revelación no es accidente: ocurre por mandato del Dios eterno; autoridad divina gobierna el “ahora”.
+###### GR: κατ᾿ ἐπιταγὴν τοῦ αἰωνίου θεοῦ (“según mandato del eterno Dios”).[^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### ἐπιταγή = mandato. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### αἰωνίου θεοῦ = de Dios eterno. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### Puente: la siguiente ancla expresa el alcance: dado a conocer a todas las naciones.
+
+##### Definiciones (formato fijo)
+ἐπιταγή
+: mandamiento / mandato
+
+αἰώνιος
+: eterno
+
+θεός
+: Dios
+
+κατά
+: según / conforme a
+
+#### se ha dado a conocer a todas las naciones
+##### El misterio manifestado se hace conocido con alcance universal: todas las naciones.
+###### GR: εἰς πάντα τὰ ἔθνη γνωρισθέντος (“para todas las naciones habiendo sido dado a conocer”).[^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### γνωρισθέντος (γνωρίζω) participio: habiendo sido dado a conocer. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### πάντα τὰ ἔθνη = todas las naciones. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### Puente: la última ancla declara la finalidad (telos): obediencia de fe.
+
+##### Definiciones (formato fijo)
+γνωρίζω
+: dar a conocer
+
+ἔθνος
+: naciones / gentiles
+
+πᾶς (πάντα)
+: todo(s)
 
 #### para guiarlas a la obediencia de la fe,
+##### Telos explícito: la revelación y proclamación apuntan a obediencia que procede de fe (obediencia de fe).
+###### GR: εἰς ὑπακοὴν πίστεως (“para obediencia fe”).[^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### ὑπακοὴν = obediencia. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### πίστεως = de fe. [^https://app.notion.com/p/9982209db36748d3bd2618f8c4d85a33]
+###### Puente: Romanos 16:27 culmina con doxología: al único y sabio Dios, gloria por Jesucristo para siempre.
 
-### Romanos 16:27 
+##### Definiciones (formato fijo)
+ὑπακοή
+: obediencia
+
+πίστις
+: fe
+
+εἰς
+: para
+
+### Romanos 16:27
 al único y sabio Dios, por medio de Jesucristo, sea la gloria para siempre. Amén.
 
-#### al único y sabio Dios, 
+#### al único y sabio Dios,
+##### Doxología final: Dios es único y sabio; toda la carta termina enfocando la gloria en Dios.
+###### GR: μόνῳ σοφῷ θεῷ (“al solo sabio Dios”).[^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### μόνῳ = único/solo. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### σοφῷ = sabio. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### θεῷ = Dios. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### Puente: la siguiente ancla declara el medio: por Jesucristo.
 
-#### por medio de Jesucristo, 
+##### Definiciones (formato fijo)
+μόνος
+: único / solo
+
+σοφός
+: sabio
+
+θεός
+: Dios
+
+#### por medio de Jesucristo,
+##### La gloria a Dios se expresa “por medio” de Jesucristo: Cristo es el mediador de la doxología.
+###### GR: διὰ Ἰησοῦ Χριστοῦ (“por medio de Jesús Cristo”).[^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### διὰ = por medio de. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### Ἰησοῦ Χριστοῦ = Jesucristo. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### Puente: la última ancla asigna la gloria eterna: a quien la gloria por los siglos, amén.
+
+##### Definiciones (formato fijo)
+διά
+: por medio de
+
+Ἰησοῦς
+: Jesús
+
+Χριστός
+: Cristo
 
 #### sea la gloria para siempre. Amén.
+##### Cierre: la gloria pertenece a Dios con horizonte eterno; “amén” sella la afirmación.
+###### GR: ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν (“a quien la gloria hacia los siglos; amén”).[^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### δόξα = gloria. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### εἰς τοὺς αἰῶνας = para los siglos / por siempre. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+###### ἀμήν = amén. [^https://app.notion.com/p/b333a552e2cf4ebc973f8f2d9d200827]
+
+##### Definiciones (formato fijo)
+δόξα
+: gloria
+
+αἰών
+: siglo(s) / eras
+
+ἀμήν
+: amén
