@@ -996,8 +996,6 @@ teniendo el mismo conflicto que vieron en mí, y que ahora oyen que está en mí
 
 ##### De esta manera, el llamado permanece integrado dentro de una sola secuencia continua, sin separarse del resto del mensaje de la carta.
 
-<!-- @quiz filipenses-1 -->
-
 ## Filipenses 2:1–4 Exhorta a la unidad y humildad
 
 ### Filipenses 2:1
@@ -1517,8 +1515,6 @@ Porque estuvo al borde de la muerte por la obra de Cristo, arriesgando su vida p
 >- Su labor se describe en relación con otros, no de forma aislada
 >- El enfoque se mantiene en el servicio dentro de la misma línea del pasaje
 
-<!-- @quiz filipenses-2 -->
-
 # FILIPENSES 3:1–21 Pablo contrasta la confianza en la carne con conocer a Cristo 
 
 ## Filipenses 3:1 Exhorta a regocijarse en el Señor
@@ -1862,8 +1858,6 @@ el cual transformará el cuerpo de nuestro estado de humillación en conformidad
 >- Se muestra un proceso continuo hacia la meta sin considerarlo alcanzado
 >- El pasaje concluye con dos direcciones: lo terrenal frente a lo que está en Cristo
 
-<!-- @quiz filipenses-3 -->
-
 # FILIPENSES 4:1–23 Pablo da exhortaciones finales y expresa gratitud
 
 ##### Este bloque mantiene una <u>progresión</u> clara dentro del desarrollo. Primero se presenta una exhortación general a permanecer firmes (v1), luego se aborda un caso específico con dos personas (v2), y finalmente se introduce la intervención de un tercero para ayudar (v3). La secuencia se mantiene en una sola línea: exhortación general → caso específico → intervención, sin cambiar de tema.
@@ -2153,8 +2147,6 @@ La gracia del Señor Jesucristo sea con el espíritu de ustedes.
 >- Se mantiene el llamado a una vida visible en conducta y pensamiento
 >- Pablo expresa su experiencia en medio de distintas circunstancias
 >- El cierre incluye gratitud, provisión y una bendición final
-
-<!-- @quiz filipenses-4 -->
 
 # BIBLIOGRAFIA
 

@@ -1,7 +1,7 @@
 {
-  "id": "filemon",
-  "title": "Filemón",
+  "id": "filipenses",
+  "title": "Filipenses",
   "subtitle": "Viviendo lo que ya es verdadero",
-  "version": "1.0",
+  "version": "0.6",
   "entry": "slides/markdown.md"
 }

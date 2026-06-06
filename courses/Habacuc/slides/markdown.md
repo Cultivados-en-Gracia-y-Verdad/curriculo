@@ -3,7 +3,7 @@ title: "Habacuc"
 subtitle: "Haré una Obra"
 author: "CGV"
 cover: "images/portada.png"
-version: "1.0"
+version: "0.9"
 date: "2026-02-26"
 ---
 

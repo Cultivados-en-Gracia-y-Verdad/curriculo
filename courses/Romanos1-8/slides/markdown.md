@@ -3,8 +3,8 @@ title: "Romanos 1-8"
 subtitle: "El Evangelio de Poder"
 author: "CGV"
 cover: "images/portada.png"
-version: "1.2"
-date: "2026-05-29"
+version: "1.1"
+date: "2026-04-09"
 ---
 
 # INTRODUCCIÓN

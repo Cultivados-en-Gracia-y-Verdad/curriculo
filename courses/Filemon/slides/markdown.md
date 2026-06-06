@@ -1150,8 +1150,6 @@ ya no como esclavo, sino como más que un esclavo, como un hermano amado, especi
 >- Pablo intensifica constantemente el valor relacional de Onésimo.
 >- La sección culmina con Onésimo siendo recibido como hermano amado.
 
-<!-- @quiz filemon-1 -->
-
 # FILEMÓN 1:17–20 Pablo ruega que Onésimo sea recibido como él mismo
 
 ## Filemón 1:17 Pablo pide que Onésimo sea recibido como a él mismo
