@@ -213,7 +213,7 @@ de que tengo gran tristeza y continuo dolor en mi corazón.
 ###### Pablo la presenta como una <u>realidad</u> permanente.
 
 ###### El dolor es descrito como <u>algo</u> interno:
-> \scripture{en mi corazón}
+> *en mi corazón*
 
 ### Romanos 9:3
 Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
@@ -248,10 +248,10 @@ Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria,
 ##### Pablo identifica explícitamente al grupo mencionado en los <u>versículos</u> anteriores.
 
 ###### En 9:3 habló <u>de</u>:
-> \scripture{mis parientes según la carne}
+> *mis parientes según la carne*
 
 ###### Ahora los identifica <u>como</u>:
-> \scripture{israelitas}
+> *israelitas*
 
 #### a quienes pertenece la adopción como hijos,
 ##### Pablo comienza un inventario de cosas asociadas <u>con</u> Israel.
@@ -520,13 +520,13 @@ Porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni b
 ##### <u>Pablo</u> declara la finalidad de lo que acaba de describir.
 
 ###### El foco del versículo se desplaza <u>hacia</u>:
-> \scripture{el propósito de Dios}
+> *el propósito de Dios*
 
 ###### El texto afirma que <u>ese</u> propósito permanece.
 
 ##### <u>Observación</u> importante:
 ###### Esta es la primera vez <u>que</u> aparece la expresión:
-> \scripture{el propósito de Dios conforme a Su elección}.
+> *el propósito de Dios conforme a Su elección*.
 
 ###### Pablo la <u>desarrollará</u> en los versículos siguientes.
 
@@ -603,7 +603,7 @@ Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
 
 ###### Romanos 9:13 cita Malaquías, siglos después, cuando Jacob <u>y</u> Esaú ya están vinculados con pueblos y naciones.
 
-###### Génesis 25:23 ya había hablado de \scripture{dos <u>naciones</u>} y \scripture{dos pueblos}.
+###### Génesis 25:23 ya había hablado de *dos <u>naciones</u>* y *dos pueblos*.
 
 ###### Malaquías 1:2–4 continúa ese mismo <u>marco</u> nacional: Jacob/Israel y Esaú/Edom.
 

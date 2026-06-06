@@ -1,3685 +1,7636 @@
 ---
-title: "Navegando el Texto"
-subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
-author:  "CGV"
-version:  "0.9"
-date:  "2026-04-25"
+title: "Romanos 9-16"
+subtitle: "CONFIABLE"
+author: "CGV"
 cover: "images/portada.png"
+version: "0.4"
+date: "2026-06-06"
 ---
 
-# INTRODUCCIÓN
+:::title
+CONFIABLE
+:::
+:::subtitle
+Viviendo a la luz de una palabra firme
+:::
+# Introducción
 
-Cuando un barco zarpa, no lo hace a la deriva. <u>Sale</u> con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
+## Contexto
 
-De la misma manera, acercarse al <u>texto</u> bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
+##### Romanos 8 termina con algunas de <u>las</u> declaraciones más firmes de toda la carta.
 
-Antes de avanzar, es importante <u>aclarar</u> la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos RO₁O₂TS.
+###### <u>Pablo</u> afirma que no hay condenación para los que están en Cristo Jesús.
 
-RO₁O₂TS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En <u>lugar</u> de correr hacia interpretaciones rápidas, RO₁O₂TS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+###### <u>Afirma</u> que Dios obra todas las cosas para bien.
 
-En este curso, RO₁O₂TS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a <u>decir</u> algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+###### Afirma que aquellos a quienes Dios justificó también los <u>glorificó</u>.
 
-Es importante también aclarar de dónde proviene esta <u>forma</u> de acercarse al texto. RO₁O₂TS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+###### <u>Afirma</u> que nada podrá separar al creyente del amor de Dios.
 
-Los principios detrás de RO₁O₂TS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de <u>textos</u>: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+##### <u>Las</u> declaraciones son extraordinarias.
 
-RO₁O₂TS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva <u>forma</u> de leer, sino recuperando una manera sólida y probada de hacerlo.
+##### Pero precisamente por ser tan firmes surge una <u>pregunta</u> inevitable:
 
-Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: RO₁O₂TS. No es una fórmula rígida, sino una <u>guía</u> que nos ayuda a no desviarnos del texto.
+##### ¿Puede confiararse realmente <u>en</u> una palabra tan absoluta?
 
-# ¿QUÉ ES RO₁O₂TS?
+###### Romanos 9–11 responde <u>esa</u> pregunta.
 
-## INTRODUCCIÓN
+###### La pregunta no surge porque <u>Pablo</u> dude.
 
-### Qué es RO₁O₂TS
+###### Surge <u>porque</u> las afirmaciones de Romanos 8 son extraordinarias.
 
-###### RO₁O₂TS es el proceso completo para trabajar un <u>texto</u>.
+###### Cuanto más <u>firme</u> es la declaración, más importante resulta demostrar que puede confiararse en ella.
 
-###### No es <u>solo</u> análisis.
+##### Por eso Romanos 9 comienza con <u>una</u> afirmación decisiva:
 
-###### No es solo <u>estructura</u>.
+> «No es que la palabra de Dios haya fallado». Romanos 9:6
 
-###### 👉 Es ver, seguir y someterse al <u>texto</u>.
+##### A partir de ese momento <u>Pablo</u> desarrolla una defensa de la confiabilidad de la palabra de Dios.
 
-##### Cómo funciona
+###### No <u>responde</u> mediante filosofía.
 
-###### RO₁O₂TS se desarrolla en <u>cinco</u> partes:
+###### No responde mediante <u>especulación</u>.
 
-###### R — Revelación
-* 👉 Dios <u>habló</u>
-* 👉 Usó lenguaje
-* 👉 El texto comunica
+###### <u>No</u> responde apelando a experiencias personales.
 
-###### O₁ — <u>Observar</u> la estructura
-* 👉 Cómo está construido el texto
-* 👉 Cómo se <u>conecta</u>
-* 👉 Cómo se desarrolla
+###### Repetidamente vuelve a las Escrituras y dirige la <u>atención</u> a palabras pronunciadas mucho antes de que los acontecimientos ocurrieran.
 
-###### O₂ — Observar lo que el <u>texto</u> dice
-* 👉 Qué afirma
-* 👉 Qué <u>repite</u>
-* 👉 Qué contrasta
+- Dios habló a Rebeca.
+- Dios habló a Moisés.
+- Dios habló acerca de Faraón.
+- Dios habló por medio de Oseas.
+- Dios habló por medio de Isaías.
+- Dios habló por medio de David.
 
-###### T — Trazar el texto
-* 👉 Cómo avanza de principio a fin
-* 👉 Cómo se conectan sus partes
-* 👉 Cómo <u>fluye</u> el desarrollo
+###### Luego observa <u>la</u> historia.
+- Siglos pasan.
+- Las circunstancias cambian.
+- Las generaciones vienen y van.
+- Sin embargo, la palabra pronunciada por Dios permanece en pie.
 
-###### S — Someterse al texto
-* 👉 No ajusto el texto a mí
-* 👉 Me coloco bajo lo que afirma
-* 👉 Dejo que el <u>texto</u> tenga la última palabra
+##### Romanos 9–11 no responde de una sola <u>manera</u>.
 
-##### Principio clave
+###### En Romanos 9, Pablo dirige repetidamente la atención a palabras <u>pronunciadas</u> por Dios.
 
-###### RO₁O₂TS no termina en el análisis.
+###### En Romanos 10, Pablo <u>testifica</u> acerca de Israel y vuelve a apelar a Moisés, Isaías y las Escrituras.
 
-###### ❗ RO₁O₂TS incluye:
-* observar
-* <u>seguir</u>
-* someterse
+###### En Romanos 11, el misterio <u>es</u> revelado y las Escrituras vuelven a confirmar que la palabra de Dios permanece firme.
 
-##### Regla central
-###### ❗ Si no completas todo el proceso,
+###### Finalmente, Pablo responde <u>con</u> adoración.
 
-###### no has terminado RO₁O₂TS
+##### A lo largo de Romanos 9–11, Israel funciona <u>como</u> el escenario histórico donde esa fidelidad puede observarse.
 
-##### Frase <u>clave</u>
-> “No interpreto el texto.
-> Lo observo, lo sigo y me someto a él.”
+###### Pablo sigue el hilo de la historia y muestra repetidamente que Dios <u>continúa</u> actuando de acuerdo con lo que había dicho.
 
-##### Qué debes notar
-###### RO₁O₂TS no es un método para explicar el <u>texto</u>.
+###### La situación presente de Israel no <u>constituye</u> una falla de la palabra de Dios.
 
-###### 👉 Es un proceso para dejar que el texto hable.
+###### Por el contrario, confirma <u>que</u> Dios sigue cumpliendo lo que ha dicho.
 
-RO₁O₂TS no añade <u>nada</u> al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
+##### <u>Por</u> eso la confianza de Romanos 8 permanece intacta.
 
-# R – Revelación
+###### Lo que Dios declaró no era una <u>esperanza</u> frágil.
 
-Antes de aprender a observar o <u>seguir</u> el texto, necesitamos establecer algo fundamental: \textbf{¿qué es lo que tenemos delante?}
+###### No era una <u>promesa</u> incierta.
 
-No estamos frente a un texto cualquiera.
+###### La palabra de Dios permanece <u>firme</u>.
 
-Dios ha comunicado.
+> Romanos 8 Pablo declaraciones con certeza
+> ↓
+> Romanos 9 Dios habla
+> ↓
+> Romanos 10 Pablo testifica
+> ↓
+> Romanos 11 La Escritura responde, el misterio se revela, Pablo adora
 
-No dejó ideas <u>sueltas</u>.
- No dejó mensajes ocultos.
- No habló en fragmentos aislados.
+##### Cuando llega Romanos 12, la discusión cambia de <u>dirección</u>.
 
-Dios \textbf{reveló}.
+###### Después de demostrar que la palabra de Dios permanece <u>firme</u>, Pablo introduce una respuesta apropiada:
+> «Por tanto...»
 
-## ¿Qué significa revelación?
+###### Las exhortaciones que siguen no <u>buscan</u> producir una nueva realidad.
 
-##### Revelación significa que el contenido \textbf{no se originó en el hombre}, <u>sino</u> que fue dado.
+###### Son la respuesta apropiada a una realidad <u>que</u> Dios ya ha establecido.
 
-##### Esto cambia completamente nuestra postura.
+###### Por eso Pablo llama a los creyentes a presentarse a Dios, vivir con una mente renovada, amar <u>a</u> los demás, buscar la paz, edificarse mutuamente y caminar en obediencia.
 
-###### No nos acercamos al <u>texto</u> para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.
+##### Romanos 9–11 <u>muestra</u> una palabra firme.
 
-###### Hay una diferencia clara:
-- En el descubrimiento, el hombre busca y llega a conclusiones
-- En la revelación, la verdad es <u>dada</u> al hombre
-- No estamos tratando de “llegar” a la verdad del texto. 
-- Estamos <u>siendo</u> confrontados con algo que ya ha sido dicho.
+##### Romanos 12–16 muestra una vida vivida a la luz de esa palabra <u>firme</u>.
 
-## Dios comunicó por medio de lenguaje
+##### La carta concluye mostrando que el mismo evangelio que estableció a judíos y gentiles en un <u>solo</u> pueblo continúa extendiéndose a las naciones.
 
-Dios no <u>solo</u> reveló.
+##### Finalmente, Pablo termina donde comenzó: <u>con</u> Dios mismo.
 
-Lo hizo por medio de \textbf{lenguaje}.
+###### El Dios que prometió, actuó y sostuvo Su propósito es también poderoso <u>para</u> afirmar a Su pueblo conforme al evangelio.
 
-Esto significa que lo que tenemos <u>delante</u> no es una colección de pensamientos dispersos, sino \textbf{comunicación intencional}.
+##### Así, Romanos 9–16 defiende la confiabilidad de la palabra de Dios y muestra cómo debe vivir <u>el</u> pueblo que descansa en ella.
 
-Y toda comunicación tiene propósito.
+# ROMANOS 9:1–11:36 LA PALABRA DE DIOS NO HA FALLADO
 
-## Propósito de la revelación
+## Una observación importante para Romanos 9–11
 
-La revelación no es información al azar.
- No es acumulación de frases.
+###### <u>A</u> medida que avanzamos por Romanos 9–11, observaremos algo repetidamente:
 
-Es comunicación con dirección.
+###### Pablo responde mediante <u>citas</u> de las Escrituras.
 
-Cada <u>porción</u> del texto:
+###### Por eso, antes de preguntarnos qué significa una <u>cita</u>, conviene observar:
 
-- dice algo
-- lo desarrolla
-- lo conduce <u>hacia</u> un resultado
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿Qué estaba ocurriendo cuando se pronunciaron estas palabras?
+- ¿Por qué Pablo cita este texto aquí?
 
-Nada está colocado sin propósito.
+###### Estas preguntas nos ayudarán a seguir el desarrollo <u>del</u> argumento.
 
-## No son versículos aislados
+#### Romanos 9
 
-La Biblia no fue escrita en versículos.
+- Romanos 9:12 — Dios habla a Rebeca
+- Romanos 9:13 — Dios habla en Malaquías
+- Romanos 9:15 — Dios habla a Moisés
+- Romanos 9:17 — Dios habla a Faraón
+- Romanos 9:25–26 — Dios habla en Oseas
+- Romanos 9:27–29 — Isaías habla acerca de Israel
 
-Los versículos fueron añadidos después para ayudarnos a <u>ubicar</u> el contenido, pero \textbf{no forman parte de la comunicación original}.
+#### Romanos 10
 
-El autor no pensó en:
-- versículo 1
-- versículo 2
-- versículo 3
+- Romanos 10:5 — Moisés escribe
+- Romanos 10:6–8 — Moisés sigue hablando
+- Romanos 10:11 — La Escritura habla
+- Romanos 10:16 — Isaías habla
+- Romanos 10:19 — Moisés habla
+- Romanos 10:20–21 — Isaías habla
 
-<u>Pensó</u> en \textbf{una unidad completa de pensamiento}.
+#### Romanos 11
 
-Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
+- Romanos 11:2–4 — Dios habla a Elías
+- Romanos 11:8 — La Escritura habla
+- Romanos 11:26–27 — Isaías habla
+- Romanos 11:34–35 — Isaías y Job hablan
 
-## El texto construye
+##### <u>Observación</u>
 
-El autor no <u>solo</u> dice cosas.
+###### Pablo no construye su <u>argumento</u> principalmente mediante explicaciones nuevas.
 
-\textbf{Construye}.
+###### Repetidamente <u>dirige</u> la atención a palabras ya pronunciadas en las Escrituras.
 
-El texto:
+###### Por eso, identificar quién habla y por qué Pablo cita esas palabras será una ayuda importante para seguir <u>el</u> argumento de Romanos 9–11.
 
-- <u>afirma</u>
-- explica
-- conecta
-- <u>contrasta</u>
-- desarrolla
+## Romanos 9:1–5 — Pablo introduce a la nación de Israel en la conversación
 
-Forma un movimiento de pensamiento.
+### Romanos 9:1
+Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
 
-Si leemos frases sueltas:
+#### Digo la verdad en Cristo, no miento,
+##### Pablo afirma explícitamente la veracidad de lo que va a <u>decir</u>.
 
-- perdemos la construcción
-- perdemos el desarrollo
-- perdemos el <u>punto</u>
+###### El texto refuerza esta afirmación de dos <u>maneras</u>:
+- “Digo la verdad”
+- “No miento”
 
-## Comunicación real, no código
+###### Pablo comienza <u>esta</u> sección estableciendo la confiabilidad de su testimonio.
 
-La Escritura no es un código secreto.
- No es un rompecabezas místico.
+#### dándome testimonio mi conciencia en el Espíritu Santo,
+##### El texto añade un testigo a la declaración de <u>Pablo</u>.
 
-Dios comunicó <u>usando</u> lenguaje real, y el lenguaje funciona de manera normal:
+###### Pablo no solamente <u>afirma</u> decir la verdad.
 
-- palabras en contexto
-- ideas conectadas
-- desarrollo progresivo
+###### También declara <u>que</u> su conciencia da testimonio de ello.
 
-El significado no está escondido detrás del <u>texto</u>.
- Está en \textbf{cómo el texto está construido}.
+###### La declaración queda <u>enmarcada</u> “en el Espíritu Santo”.
 
-## Dios busca ser entendido
+### Romanos 9:2
+de que tengo gran tristeza y continuo dolor en mi corazón.
 
-Dios no habló para ocultar.
- Habló <u>para</u> comunicar.
+#### de que tengo gran tristeza y continuo dolor en mi corazón.
+##### Pablo declara una <u>carga</u> personal intensa.
 
-No necesitamos:
+###### El texto describe esa carga con <u>dos</u> expresiones:
+- “gran tristeza”
+- “continuo dolor”
 
-- claves ocultas
-- conocimiento <u>secreto</u>
-- interpretaciones especiales
+###### La <u>tristeza</u> no aparece como algo momentáneo.
 
-Necesitamos \textbf{observar correctamente} lo que está escrito.
+###### Pablo la presenta como una <u>realidad</u> permanente.
 
-## Fundamento de la revelación
+###### El dolor es descrito como <u>algo</u> interno:
+> \scripture{en mi corazón}
 
-La <u>misma</u> Escritura afirma su origen:
+### Romanos 9:3
+Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
 
-«Toda Escritura es inspirada por Dios…» — 2 Timoteo 3:16
- «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
- «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
+#### Porque desearía yo mismo ser anatema,
+##### Pablo explica la razón de <u>la</u> tristeza mencionada en el versículo anterior.
 
-No estamos leyendo <u>ideas</u> humanas aisladas, sino \textbf{lo que Dios ha dado a conocer}.
+###### El deseo expresado aquí representa el punto más intenso de la <u>carga</u> descrita en 9:2.
 
-## El peso de la revelación
+###### El <u>texto</u> presenta un deseo llevado al extremo.
 
-Si Dios ha hablado, entonces esto no es opcional.
+#### separado de Cristo por amor a mis hermanos,
+##### Pablo relaciona ese deseo con otras <u>personas</u>.
 
-No estamos tratando con un texto más.
- No estamos evaluando <u>ideas</u>.
+###### El foco no <u>está</u> en sí mismo.
 
-Estamos frente a algo que \textbf{nos precede, nos define y nos confronta}.
+###### El deseo es expresado en favor <u>de</u> sus hermanos.
 
-Esto cambia completamente cómo leemos:
+#### mis parientes según la carne.
+##### El texto identifica <u>específicamente</u> a quiénes se refiere Pablo.
 
-- no decidimos lo que el texto dice
-- no negociamos su contenido
-- no lo ajustamos a nuestras ideas
+###### No habla de personas <u>en</u> general.
 
-Nos detenemos.
- Observamos.
- Seguimos.
+###### Habla de sus <u>parientes</u> según la carne.
 
-Porque lo que <u>está</u> delante \textbf{no se originó en nosotros}.
+###### <u>El</u> versículo siguiente identificará formalmente a este grupo como israelitas.
 
-## El poder de la revelación
+### Romanos 9:4
+Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
 
-La revelación no solo informa.
+#### Porque son israelitas,
+##### Pablo identifica explícitamente al grupo mencionado en los <u>versículos</u> anteriores.
 
-\textbf{actúa}
+###### En 9:3 habló <u>de</u>:
+> \scripture{mis parientes según la carne}
 
-Nos <u>expone</u>.
- Nos corrige.
- Nos <u>establece</u>.
+###### Ahora los identifica <u>como</u>:
+> \scripture{israelitas}
 
-No <u>leemos</u> para dominar el texto.
- Leemos para ser \textbf{afectados por él}.
+#### a quienes pertenece la adopción como hijos,
+##### Pablo comienza un inventario de cosas asociadas <u>con</u> Israel.
 
-## Implicaciones
+###### La adopción aparece <u>como</u> el primer elemento de la lista.
 
-Si la Escritura es revelación, entonces:
+#### y la gloria,
+##### La gloria aparece como una <u>pertenencia</u> adicional de Israel.
 
-- su contenido no <u>depende</u> de nuestra opinión
-- su mensaje no cambia según el lector
-- su <u>autoridad</u> no es negociable
-- Esto nos da una base firme.
-- No estamos construyendo sobre interpretaciones cambiantes, sino sobre algo que ha sido establecido fuera de <u>nosotros</u>.
+###### <u>Pablo</u> continúa ampliando el inventario.
 
-## Nuestra postura frente al texto
+#### los pactos,
+##### Los pactos forman parte <u>de</u> aquello que Pablo asocia con Israel.
 
-Si Dios ha hablado, entonces:
+###### El texto continúa acumulando elementos <u>relacionados</u> con este pueblo.
 
-- no leemos <u>para</u> especular, sino para \textbf{oír}
-- no construimos significado, lo \textbf{recibimos}
-- no estamos <u>sobre</u> el texto, estamos \textbf{bajo él}
-- No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
+#### la promulgación de la ley,
+##### Pablo incluye la <u>ley</u> dentro del inventario.
 
-## Principio clave
+###### <u>La</u> lista sigue creciendo.
 
-Dios habló → el <u>texto</u> está construido → la estructura revela el propósito
+#### el culto y las promesas,
+##### El culto y <u>las</u> promesas completan esta parte del inventario.
 
-## Punto de partida
+###### El énfasis no está todavía en explicar cada <u>elemento</u>.
 
-Por eso, no comenzamos preguntando:
+###### El énfasis está en mostrar todo lo que <u>está</u> asociado con Israel.
 
-“¿Qué significa?”
+### Romanos 9:5
+de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
 
-Ni siquiera comenzamos con:
+#### de quienes son los patriarcas,
+##### <u>Pablo</u> continúa el inventario iniciado en el versículo anterior.
 
-“¿Qué <u>dice</u>?”
+###### Los patriarcas <u>son</u> presentados como parte de la herencia histórica de Israel.
 
-Comenzamos con:
+#### y de quienes, según la carne,
+##### <u>La</u> expresión:
+> “según la carne”
+###### conecta <u>con</u> el lenguaje utilizado anteriormente en 9:3.
 
-\textbf{¿Cómo está construido?}
+###### El texto continúa describiendo una relación <u>de</u> linaje y descendencia.
 
-Porque si Dios comunicó por <u>medio</u> de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
+#### procede el Cristo,
+##### El inventario alcanza su punto <u>más</u> alto.
 
-# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
+###### Pablo afirma que el Cristo procede de Israel <u>según</u> la carne.
 
-<u>Antes</u> de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
+###### El grupo descrito en <u>estos</u> versículos está directamente relacionado con la venida del Cristo.
 
-## El problema común
+#### el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
+##### El versículo concluye <u>con</u> una declaración de exaltación y bendición.
 
-La mayoría de los lectores:
-- leen el <u>texto</u>
-- entienden una idea general
-- sacan una conclusión
+###### La atención se desplaza del inventario hacia la <u>grandeza</u> de Cristo.
 
-Pero no <u>pueden</u> explicar:
-- cuál es la idea principal
-- qué partes la explican
-- <u>cómo</u> se conectan
+###### La sección termina con una expresión <u>de</u> alabanza:
+> “Amén”.
 
-##### El problema no es falta de interés.
-###### Es <u>falta</u> de \textbf{observación estructural}.
+> En Síntesis
+>- Los versículos identifican claramente a este grupo como los israelitas.
+>- Pablo recuerda todo lo que está asociado con Israel: la adopción, la gloria, los pactos, la ley, el culto, las promesas y el Cristo.
+>- La lista destaca la estrecha relación histórica entre Israel y el propósito de Dios.
+>- El siguiente versículo responderá esa pregunta directamente: «No es que la palabra de Dios haya fallado».
 
-## Principio fundamental
+## Romanos 9:6–29 — Dios habla sobre Israel
 
-En este curso cambiamos el orden:
-Observación → Estructura → Propósito
+### Romanos 9:6
+Pero no es que la palabra de Dios haya fallado. Porque no todos los descendientes de Israel son Israel;
 
-No comenzamos interpretando.
-Comenzamos <u>observando</u>.
+#### Pero no es que la palabra de Dios haya fallado.
+##### <u>Pablo</u> niega explícitamente una conclusión posible.
 
-## Por qué esto importa
+###### Después de mencionar a Israel, los pactos, las promesas, los patriarcas y <u>el</u> Cristo (9:4–5), responde a una pregunta fundamental:
+> ¿Ha fallado la palabra de Dios?
 
-Un texto <u>bíblico</u> no es una lista de ideas.
+###### La respuesta es <u>clara</u>:
+> «No es que la palabra de Dios haya fallado».
 
-Es un argumento construido.
+##### <u>Observación</u> importante:
+###### Esta declaración funciona como una <u>afirmación</u> central para toda la sección que sigue.
 
-El autor:
-- <u>afirma</u>
-- explica
-- contrasta
-- <u>desarrolla</u>
+###### Los capítulos 9–11 desarrollarán <u>y</u> defenderán esta afirmación.
 
-##### Si no vemos esa construcción:
-###### perdemos el punto del autor.
+##### Observación <u>desarrollacional</u>:
+###### A lo <u>largo</u> de Romanos 9, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios en las Escrituras.
 
-## La realidad del texto
+###### Por <u>ejemplo</u>:
 
-Dentro de un párrafo <u>hay</u>:
-- acciones (verbos)
-- conexiones (conectores)
-- <u>unidades</u> de pensamiento (cláusulas)
-- detalles que amplían (extensiones)
+- 9:7 «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA»
+- 9:9 «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO»
+- 9:12 «EL MAYOR SERVIRÁ AL MENOR»
+- 9:13 «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ»
+- 9:15 «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA...»
+- 9:17 «PARA ESTO MISMO TE HE LEVANTADO...»
 
-Todo esto <u>forma</u> una estructura. 
+###### Más adelante también citará <u>palabras</u> relacionadas con Israel:
 
-## Lo que aprenderás
+- 9:25 «LLAMARÉ PUEBLO MÍO AL QUE NO ERA MI PUEBLO...»
+- 9:26 «SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE»
+- 9:33 «HE AQUÍ, PONGO EN SIÓN PIEDRA DE TROPIEZO...»
 
-Vas a aprender a ver:
-- <u>dónde</u> están las afirmaciones
-- cómo se conectan
-- cuáles son principales
-- cuáles dependen de <u>otras</u>
+##### Observación <u>importante</u>:
+###### Romanos 9 está dominado por palabras <u>previamente</u> pronunciadas por Dios.
 
-## El proceso de observación estructural
+###### Pablo dirige repetidamente la atención a aquello que Dios dijo antes <u>de</u> que los acontecimientos ocurrieran.
 
-![13-pasos](images/13-pasos.png)
+###### Luego observa el desarrollo <u>de</u> la historia.
 
-Este proceso es <u>fijo</u>.
-No cambia.
-No se <u>salta</u> pasos.
+###### El argumento avanza mostrando que <u>la</u> palabra pronunciada por Dios permanece firme.
 
-## Qué NO haremos
+##### <u>Observación</u> desarrollacional:
+###### Esta <u>afirmación</u> inicial funcionará como una clave para leer los capítulos 9–11.
 
-No vamos a:
-- interpretar <u>primero</u>
-- imponer <u>ideas</u>
-- depender de intuición
+###### Pablo no intentará demostrar que la palabra de Dios es <u>confiable</u> mediante argumentos abstractos.
 
-## Qué SÍ haremos
+###### Repetidamente apelará a palabras <u>pronunciadas</u> por Dios y al desarrollo posterior de la historia.
 
-Vamos a:
-- observar el <u>texto</u> con precisión
-- <u>dejar</u> que la estructura se muestre
-- seguir un <u>proceso</u> claro
+#### Porque no todos los descendientes de Israel son Israel;
+##### <u>Pablo</u> comienza a explicar por qué la palabra de Dios no ha fallado.
 
-## Observación clave
+###### La explicación inicia <u>con</u> una distinción.
 
-El autor no <u>solo</u> comunica ideas.
-El <u>autor</u> construye.
+###### El texto <u>diferencia</u> entre:
+- los descendientes de Israel
+- Israel
 
-Y si vemos la construcción:
-veremos el <u>propósito</u>.
+##### <u>Observación</u> importante:
+###### El lector no puede asumir automáticamente que <u>ambas</u> expresiones significan exactamente lo mismo.
 
-## Transición
+###### Pablo introduce una distinción que desarrollará en <u>los</u> versículos siguientes.
 
-En la siguiente <u>lección</u> comenzaremos con el primer paso:
-preparar correctamente el texto.
+##### Observación <u>desarrollacional</u>:
+###### La explicación de Pablo no <u>comienza</u> con la historia de las naciones.
 
-Sin este <u>paso</u>, todo lo demás falla.
+###### Comienza <u>con</u> una distinción dentro de Israel mismo.
 
-# PASO 1 — COPIAR EL TEXTO
-## EJECUTA
+###### Los versículos siguientes <u>desarrollarán</u> esa distinción.
 
-##### ¿Qué haces?
-###### <u>Copias</u> el texto en un solo párrafo y creas una copia de trabajo.
+### Romanos 9:7
+ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
 
-##### Regla
-###### No modificas el <u>texto</u>
-###### No separas en versículos
-###### Siempre trabajas sobre una copia
+#### ni son todos hijos por ser descendientes de Abraham,
+##### Pablo continúa desarrollando la misma <u>distinción</u>.
 
-##### Cómo hacerlo
+###### No toda descendencia de Abraham es identificada automáticamente como “<u>hijos</u>”.
 
-1. Copia el texto en un editor
+###### El texto vuelve a diferenciar entre categorías que podrían parecer equivalentes a primera <u>vista</u>.
 
-2. Elimina <u>títulos</u> y encabezados
+##### La explicación <u>avanza</u> mediante una nueva distinción.
+- descendencia de Abraham
+- hijos
 
-3. Une los versículos en un solo párrafo
+#### sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
+##### Después de negar una conclusión, Pablo presenta una <u>evidencia</u> tomada de las Escrituras. 
 
-4. Mantén el texto intacto (sin cambiar palabras)
+- Fué Dios mismo que afirmó a Abraham que por Isaac sería su descendencia. Génesis 21:12
 
-5. Crea una <u>copia</u> de trabajo del texto bíblico:
-- texto original
-- <u>texto</u> de trabajo
+###### La cita <u>muestra</u> que la descendencia no es definida simplemente por procedencia física.
 
-##### Resultado esperado
+###### Pablo dirige la atención a Isaac como <u>ejemplo</u> dentro de su argumento.
 
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+###### A partir de este punto, Pablo comenzará <u>a</u> responder la pregunta de 9:6 apelando repetidamente a las Escrituras.
 
-## ENTIENDE
+###### La explicación avanza mediante citas y ejemplos tomados de <u>la</u> historia de Israel.
 
-##### Qué estás haciendo realmente
-###### Estás preparando el texto para <u>poder</u> observarlo sin distorsión.
+### Romanos 9:8
+Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes.
 
-##### Principio clave
-###### El análisis solo es confiable si el <u>texto</u> se mantiene intacto.
+#### Esto es, no son los hijos de la carne los que son hijos de Dios,
+##### Pablo explica con mayor claridad la <u>distinción</u> introducida en los versículos anteriores.
 
-##### Idea clave
-###### No trabajas con versículos aislados.
-###### Trabajas con una unidad completa de pensamiento.
+###### <u>El</u> contraste ahora es explícito:
+- hijos de la carne
+- hijos de Dios
 
-##### Pregunta guía
-###### 👉 ¿Estoy <u>viendo</u> el texto como una unidad o como fragmentos?
+##### El texto niega que la <u>descendencia</u> física, por sí sola, responda a la pregunta planteada en esta sección.
 
-##### Definición
-###### Párrafo = unidad donde el autor desarrolla una idea completa.
+###### Pablo continúa desarrollando la <u>distinción</u> iniciada en 9:6–7.
 
-##### Ejemplo <u>guiado</u>
+#### sino que los hijos de la promesa son considerados como descendientes.
+##### Pablo presenta la categoría que quiere <u>destacar</u>.
 
-###### Texto original:
->«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
+###### El contraste ya no gira alrededor <u>de</u> la carne, sino alrededor de la promesa.
 
-##### Resultado:
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo. 
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
+##### Observación <u>importante</u>:
+###### El <u>texto</u> no dice simplemente:
+> “los hijos de la promesa son descendientes”.
 
-##### Regla importante
-###### Nunca trabajas directamente <u>sobre</u> el texto original.
+###### <u>Dice</u>:
+> “son considerados como descendientes”.
 
-##### Errores comunes
-###### Modificar palabras sin <u>darse</u> cuenta 
-###### Trabajar sobre versículos separados
-###### No crear copia de trabajo
+###### Pablo introduce la idea de que la descendencia es definida de acuerdo con la <u>promesa</u> presentada por Dios.
 
-##### Regla de control
-###### Si cambiaste el <u>texto</u> original, perdiste el control del análisis.
+### Romanos 9:9
+Porque la palabra de promesa es esta: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO».
 
-##### Frase clave
-###### “No modifico el texto — lo preparo para observarlo.”
+#### Porque la palabra de promesa es esta:
+##### Pablo fundamenta la afirmación anterior mediante una cita de las <u>Escrituras</u>.
 
-##### Qué debes notar
-###### Cuando el texto está bien preparado:
-- <u>puedes</u> ver el flujo completo
-- no rompes conexiones
-- el análisis posterior se vuelve confiable
+###### La promesa deja de ser una <u>idea</u> general.
 
-##### Transición
+###### El texto <u>dirige</u> la atención a una promesa específica.
 
-###### En el siguiente paso:
-- 👉 identificarás los <u>verbos</u> finitos
+###### Pablo continúa respondiendo a la pregunta de 9:6 <u>apelando</u> a las palabras de Dios.
 
-- 👉 verás <u>dónde</u> están las afirmaciones del texto
+#### «POR ESTE TIEMPO VOLVERÉ,
+##### La <u>promesa</u> incluye un tiempo señalado.
 
-# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
+###### El cumplimiento no <u>queda</u> indefinido.
 
-## EJECUTA
+###### Dios <u>anuncia</u> una acción futura en un momento determinado.
 
-##### ¿Qué haces?
-###### Identificas y <u>marcas</u> los \textbf{verbos finitos del texto}, confirmados por la morfología griega.
+#### Y SARA TENDRÁ UN HIJO».
+##### La promesa culmina con el <u>nacimiento</u> de un hijo.
 
-##### REGLA
-###### Solo se marcan los \textbf{verbos conjugados en el texto griego}.
+###### El ejemplo presentado por Pablo no gira alrededor de la <u>capacidad</u> humana.
 
-##### CÓMO HACERLO
+###### Gira alrededor <u>de</u> una promesa dada por Dios.
 
-1. Lee el texto preparado (Paso 1)
+##### Observación <u>desarrollacional</u>:
+###### Pablo continúa mostrando que <u>la</u> descendencia relevante para su argumento está relacionada con la promesa de Dios.
 
-2. Consulta el texto griego (o interlineal)
+###### La historia de Isaac <u>es</u> presentada como evidencia para apoyar la afirmación de 9:6.
 
-3. Localiza los <u>verbos</u> en el griego
+### Romanos 9:10
+Y no solo esto, sino que también Rebeca concibió mellizos de uno, nuestro padre Isaac.
 
-4. Pregunta:
-- 👉 ¿Este verbo en griego tiene persona y número?
+#### Y no solo esto,
+##### Pablo añade un segundo <u>ejemplo</u>.
 
-## CÓMO SABER SI ES FINITO (EN EL GRIEGO)
+###### <u>El</u> caso de Isaac no es presentado como un caso aislado.
 
-###### No decides por intuición.
+###### El argumento continúa con otro <u>ejemplo</u> tomado de la misma línea familiar.
 
-###### Decides por la \textbf{morfología (RMAC)}.
+#### sino que también Rebeca concibió mellizos de uno,
+##### El <u>texto</u> dirige ahora la atención a Rebeca.
 
-##### FORMATO DEL VERBO EN GRIEGO
-```
-V-XXXXX
-```
+###### Pablo destaca que ambos hijos proceden <u>del</u> mismo embarazo.
 
-###### Observa la \textbf{tercera posición del código}:
+###### El énfasis recae sobre el origen común de <u>los</u> mellizos.
 
-### ✔ VERBOS FINITOS (SE MARCAN)
-- V-?I- → Indicativo
-- V-?S- → Subjuntivo
-- V-?M- → Imperativo
+#### nuestro padre Isaac.
+##### Pablo <u>identifica</u> a Isaac como el padre de ambos hijos.
 
-👉 Estos \textbf{tienen persona y número}
+###### El ejemplo permanece dentro <u>de</u> la misma línea familiar introducida anteriormente.
 
-👉 ✔ Se marcan:
-```
-==verbo==
-```
+### Romanos 9:11
+Porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni bueno ni malo, para que el propósito de Dios conforme a Su elección permaneciera, no por las obras, sino por Aquel que llama,
 
-### ❌ VERBOS NO FINITOS (NO SE MARCAN)
-- V-P?? → Participio
-- V-N?? → Infinitivo
+#### Porque cuando aún los mellizos no habían nacido,
+##### <u>Pablo</u> dirige la atención al momento anterior al nacimiento.
 
-👉 Estos \textbf{no tienen persona}
-👉 ❌ No se marcan
+###### El texto enfatiza que lo <u>que</u> sigue ocurre antes de que los niños nazcan.
 
-### 🔒 REGLA MECÁNICA
+#### y no habían hecho nada, ni bueno ni malo,
+##### Pablo <u>añade</u> una segunda observación sobre ese momento.
+###### Los mellizos aún no habían realizado <u>ninguna</u> acción.
 
-###### Si ves:
-- I, S, M → ✔ finito
-- P, N → ❌ no finito
+###### <u>El</u> texto menciona ambos extremos:
+- bueno
+- malo
 
-- 👉 No interpretas.
-- 👉 Solo \textbf{lees el código}.
+###### El énfasis continúa colocado antes del nacimiento y <u>antes</u> de cualquier acción realizada por los mellizos.
 
+#### para que el propósito de Dios conforme a Su elección permaneciera,
+##### <u>Pablo</u> declara la finalidad de lo que acaba de describir.
 
-##### EJEMPLO RÁPIDO
-```
-παιδεύουσα (V-PAP-NSF) → ❌ no finito  
-ἀρνησάμενοι (V-AMP-NPM) → ❌ no finito  
-ζήσωμεν (V-AAS-1P) → ✔ finito
-```
+###### El foco del versículo se desplaza <u>hacia</u>:
+> \scripture{el propósito de Dios}
 
-###### Resultado:
-```
-==vivamos==
-```
+###### El texto afirma que <u>ese</u> propósito permanece.
 
+##### <u>Observación</u> importante:
+###### Esta es la primera vez <u>que</u> aparece la expresión:
+> \scripture{el propósito de Dios conforme a Su elección}.
 
-###### Decide:
-- Sí → márcalo en el texto en español
-- No → déjalo sin marcar
+###### Pablo la <u>desarrollará</u> en los versículos siguientes.
 
-###### Marca así:
-```
-==verbo==
-```
+#### no por las obras,
+##### Pablo niega una base <u>específica</u>.
 
-##### REGLA DE EJECUCIÓN (CRÍTICA)
-###### El griego determina:
-- qué cuenta como verbo
-- cuántos verbos hay
+###### Las obras son explícitamente excluidas de <u>la</u> explicación que está desarrollando.
 
-###### El español solo muestra:
-- la forma legible del verbo
+#### sino por Aquel que llama,
+##### Pablo presenta <u>el</u> contraste.
 
+###### El <u>énfasis</u> deja de estar en las obras.
 
-##### CÓMO ALINEAR
-###### No buscas palabra por palabra.
+###### El énfasis pasa a Aquel <u>que</u> llama.
 
-###### Buscas la <u>expresión equivalente</u> en español.
+##### Observación <u>desarrollacional</u>:
+###### A lo largo de Romanos 9, <u>Pablo</u> continúa desplazando la atención:
+- de la carne a la promesa
+- de las obras al llamamiento
 
-###### Ejemplo:
+###### <u>El</u> argumento sigue avanzando mediante contrastes.
 
-####### Griego:
+### Romanos 9:12
+se le dijo a Rebeca: «EL MAYOR SERVIRÁ AL MENOR».
 
-```
-ἀντέστην
-```
+#### se le dijo a Rebeca:
+##### <u>Pablo</u> continúa desarrollando el caso de Rebeca.
 
-###### Español:
-```
-==me opuse==
-```
+###### La explicación no se apoya en acciones realizadas por <u>los</u> mellizos.
 
-###### Griego:
-```
-συνεσταύρωμαι
-```
+###### <u>El</u> texto dirige la atención a algo que fue dicho a Rebeca.
 
-###### Español:
-```
-==he sido crucificado==
-```
+###### Después de hablar del propósito de Dios y de Aquel que llama (Romanos 9:11), Pablo introduce palabras dirigidas a <u>Rebeca</u>.
 
-##### RESULTADO ESPERADO
+###### El argumento continúa <u>avanzando</u> mediante lo que Dios dijo.
 
-```
-  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
-```
+#### «EL MAYOR SERVIRÁ AL MENOR».
+##### <u>Pablo</u> cita palabras que fueron dichas a Rebeca antes del nacimiento de los niños.
 
-## ENTIENDE
-##### Qué estás haciendo realmente
-###### Estás identificando \textbf{los puntos de acción reales del texto original}.
+###### Para entender <u>el</u> contexto de esta declaración, es necesario volver a Génesis 25:23:
+> Y el SEÑOR le dijo: «Dos naciones hay en tu seno,
+>  Y dos pueblos se dividirán desde tus entrañas;
+>  Un pueblo será más fuerte que el otro,
+>  Y el mayor servirá al menor». Génesis 25:23
 
-##### PRINCIPIO CLAVE
-###### Cada verbo finito griego introduce una <u>unidad de acción explícita</u>.
+###### La <u>declaración</u> incluye:
+- dos naciones
+- dos pueblos
+- un pueblo más fuerte que el otro
+- el mayor sirviendo al menor
 
-##### IDEA CLAVE
-###### No todo lo que parece verbo en español corresponde a un verbo finito en griego.
+###### Pablo <u>cita</u> la última línea de una declaración que originalmente hablaba de:
+- dos naciones
+- dos pueblos
 
-##### PREGUNTA GUÍA
-###### 👉 ¿Este verbo es finito en el texto griego?
+###### ¿A <u>qué</u> pueblos se refiere? Génesis posteriormente los identifica: 
+- Jacob representa la nación de Israel. Génesis 32:28, 35:10
+- Esau representa la nación de Edom. Génesis 25:30, 36:1, 8, 19
 
-##### DEFINICIÓN
-###### Verbo finito = verbo que tiene:
-- persona
-- número
-- tiempo/modo
+##### Esto hace notar que la declaración dada <u>a</u> Rebeca en Génesis 25:23 habla de Israel y Edom, además de mencionar a los dos hijos.
 
-###### y funciona como núcleo de una cláusula en el griego.
+##### <u>Observación</u> importante:
+###### La declaración fue dada antes del <u>nacimiento</u> de los hijos.
 
-##### ACLARACIÓN IMPORTANTE
-###### En español puede haber:
-- más verbos que en el griego
-- menos verbos que en el griego
-- estructuras diferentes
+###### Pablo sigue construyendo su argumento mediante lo <u>que</u> Dios dijo a Rebeca. 
 
-##### 👉 Por eso:
-###### El griego es la referencia final.
+### Romanos 9:13
+Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
 
-##### EJEMPLO GUIADO
-###### Texto:
+#### Tal como está escrito:
+##### Pablo ahora cita una declaración escrita mucho después del nacimiento <u>de</u> Jacob y Esaú.
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.  
-Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo.  
-En verdad, ni aun ahora ==pueden==.
-```
+###### Romanos 9:12 cita lo que Dios dijo a Rebeca antes del nacimiento <u>de</u> los mellizos.
 
-##### Observación:
-- “hablar” → ❌ no es finito en griego
-- “recibir” → ❌ no es finito en griego
-- ==pude==, ==di a beber==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+###### Romanos 9:13 cita Malaquías, siglos después, cuando Jacob <u>y</u> Esaú ya están vinculados con pueblos y naciones.
 
-##### REGLA IMPORTANTE
-###### Las formas que no tienen persona en el griego:
-👉 no crean nuevas cláusulas
+###### Génesis 25:23 ya había hablado de \scripture{dos <u>naciones</u>} y \scripture{dos pueblos}.
 
-##### Errores comunes
-- Marcar verbos basados solo en el español
-- Seguir el interlineal sin verificar morfología
-- Contar participios como verbos principales
-- Separar un solo verbo griego en múltiples acciones
+###### Malaquías 1:2–4 continúa ese mismo <u>marco</u> nacional: Jacob/Israel y Esaú/Edom.
 
-##### REGLA DE CONTROL
-###### Si no es finito en griego, no se marca.
+#### «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
+##### La cita presenta un contraste entre Jacob y <u>Esaú</u>.
 
-##### FRASE CLAVE
-> “El griego decide; el español muestra.”
+###### Pero el contexto de Malaquías muestra <u>que</u> la declaración no aparece aislada.
 
-##### QUÉ DEBES NOTAR
-###### Cuando marcas correctamente:
-- aparecen las acciones reales del texto
-- el número de unidades se vuelve objetivo
-- evitas distorsión por traducción
+###### Malaquías habla <u>de</u> Israel y Edom, no solamente de dos niños antes de nacer.
 
-##### TRANSICIÓN
-###### En el siguiente paso:
-- 👉 separarás cada verbo en su propia línea
-- 👉 verás claramente las unidades de acción del texto
+###### Malaquías 1:2–3 <u>dice</u>: «Yo los he amado», dice el SEÑOR. Pero ustedes dicen: «¿En qué nos has amado?». «¿No era Esaú hermano de Jacob?», declara el SEÑOR. «Sin embargo, Yo amé a Jacob, y aborrecí a Esaú...».
 
-# PASO 3 — CONSTRUIR CLÁUSULAS
+##### Observación <u>importante</u>:
+###### Romanos 9:12 mira <u>hacia</u> Génesis 25:23.
 
-## EJECUTA
+###### Romanos 9:13 <u>mira</u> hacia Malaquías 1:2–4.
 
-##### ¿Qué haces?
-###### Construyes una \textbf{cláusula completa} a partir de cada verbo finito identificado en el Paso 2.
+###### Ambos textos mantienen juntos a Jacob/<u>Esaú</u> y a los pueblos relacionados con ellos.
 
----
+##### <u>Observación</u> desarrollacional:
+###### Pablo no está sacando una frase <u>suelta</u>.
 
-##### REGLA
-###### Cada verbo finito griego genera \textbf{una cláusula independiente}.
+###### Está citando una línea que pertenece a una historia más <u>amplia</u>.
 
-###### ❗ No separas por comas  
-###### ❗ No separas por sentido  
-###### 👉 Solo trabajas a partir del verbo finito griego  
+###### En Génesis 25:23, Dios habla de dos <u>naciones</u> y dos pueblos.
 
----
+###### En Malaquías 1:2–4, <u>la</u> comparación aparece dentro de la relación entre Israel y Edom.
 
-## REGLA CRÍTICA
+###### Esto mantiene el <u>argumento</u> conectado con la pregunta de Romanos 9:6 acerca de Israel y la palabra de Dios.
 
-###### ❗ Solo cuentan los verbos finitos confirmados en el griego
+### Romanos 9:14
+¿Qué diremos entonces? ¿Qué hay injusticia en Dios? ¡De ningún modo!
 
-👉 El español puede añadir verbos que no existen en el griego  
-👉 Esos verbos \textbf{no se usan}  
+#### ¿Qué diremos entonces?
+##### Pablo <u>introduce</u> una objeción.
 
----
+###### La pregunta surge a partir de lo que acaba de afirmar <u>en</u> los versículos anteriores.
 
-##### CONSECUENCIA
+###### El texto se <u>detiene</u> para considerar una posible reacción del lector.
 
-###### ❗ Si no hay verbo finito griego:
+#### ¿Qué hay injusticia en Dios?
+##### <u>La</u> objeción es expresada de manera directa.
 
-- no hay cláusula  
-- no se construye línea  
+###### La pregunta no gira alrededor de Isaac, Rebeca <u>o</u> Jacob.
 
----
+###### La pregunta <u>gira</u> alrededor de Dios mismo.
 
-##### EJEMPLO CLAVE
+###### El tema planteado <u>es</u> la justicia de Dios.
 
-Texto NBLA:
-```
-si la justicia viene por medio de la ley
-```
+###### Pablo <u>no</u> evita la objeción.
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+###### El texto la presenta explícitamente <u>antes</u> de responderla.
 
-👉 No hay verbo finito en el griego  
+#### ¡De ningún modo!
+##### Pablo rechaza inmediatamente <u>la</u> objeción.
 
-Resultado:
-```
-❌ ==viene== por medio de la ley
-```
+###### La respuesta es <u>breve</u> y contundente.
 
-👉 No se construye como cláusula  
+###### <u>El</u> texto no deja abierta la posibilidad de que exista injusticia en Dios.
 
----
+### Romanos 9:15
+Porque Él dice a Moisés: «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA, Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
 
-## REGLA CLAVE
+#### Porque Él dice a Moisés:
+##### Pablo vuelve <u>a</u> responder mediante palabras pronunciadas por Dios.
 
-###### ❗ No eliminas el resto del texto
+###### La respuesta continúa avanzando <u>por</u> medio de las Escrituras.
 
-- conectores  
-- frases  
-- modificadores  
+###### Después de citar lo dicho a Rebeca (Romanos 9:12) y lo escrito en Malaquías (Romanos 9:13), Pablo ahora dirige la atención a una declaración dada a <u>Moisés</u>.
 
-👉 No desaparecen  
-👉 Solo \textbf{no se trabajan todavía}
+###### <u>La</u> cita proviene de Éxodo 33:19.
 
----
+###### Pablo sigue respondiendo a la afirmación de Romanos 9:6 apelando a <u>cosas</u> que Dios dijo en distintos momentos de la historia de Israel.
 
-## CÓMO HACERLO
+#### «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA,
+##### Estas palabras fueron pronunciadas después del episodio <u>del</u> becerro de oro.
 
-1. Toma el texto con los verbos marcados (Paso 2)
+###### Israel ya había <u>salido</u> de Egipto.
 
-2. Localiza cada:
-```
-==verbo==
-```
+###### Israel ya había quebrantado el pacto al hacerse <u>un</u> becerro de oro.
 
-3. Para cada verbo:
+###### Moisés estaba intercediendo por el pueblo cuando Dios <u>pronunció</u> esta declaración.
 
-- 👉 Identifica quién realiza la acción (sujeto, si es necesario)  
-- 👉 Añade lo que completa la acción del verbo  
-- 👉 Conserva todo lo que pertenece directamente al verbo  
+###### <u>La</u> cita no proviene de una situación hipotética, sino de un momento concreto de la historia de Israel.
 
-4. Escribe cada cláusula en una línea separada
+##### <u>Observación</u> importante:
+###### <u>Una</u> vez más, Pablo cita palabras pronunciadas por Dios antes de que la historia siguiera desarrollándose.
 
----
+###### Primero <u>Dios</u> habló.
 
-## RESULTADO
+###### Después la <u>historia</u> continuó.
 
-Cada línea debe contener:
+#### Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
+##### La segunda línea completa <u>la</u> declaración dada por Dios a Moisés.
 
-- un verbo finito griego  
-- su acción completa  
-- los elementos necesarios para entender esa acción  
+###### Misericordia <u>y</u> compasión aparecen juntas como parte de una misma respuesta.
 
-👉 No es una frase mínima  
-👉 Es una \textbf{acción completa}
+###### <u>Pablo</u> cita la declaración completa tal como aparece en las Escrituras.
 
----
+##### Observación <u>desarrollacional</u>:
+###### Romanos 9 continúa acumulando testimonios provenientes de distintos <u>períodos</u> de la historia de Israel.
 
-## EJEMPLO
+###### <u>Dios</u> habló a Rebeca. (Génesis 25:19-23)
 
-```
-==pude== hablarles como a espirituales sino como a carnales, como a niños en Cristo
+###### Dios habló por <u>medio</u> de Malaquías. (Malaquías 1:2–4)
 
-==di a beber== leche
+###### <u>Dios</u> habló a Moisés. (Éxodo 33:12-23)
 
-==podían== recibirlo
+###### En cada caso, Pablo dirige <u>la</u> atención a palabras pronunciadas por Dios y al desarrollo posterior de la historia.
 
-==pueden==
-```
+###### El argumento sigue avanzando para <u>mostrar</u> que la palabra de Dios no ha fallado.
 
----
+### Romanos 9:16
+Así que no depende del que quiere ni del que corre, sino de Dios que tiene misericordia.
 
-## ACLARACIÓN SOBRE CONECTORES
+#### Así que no depende del que quiere
+##### Pablo presenta una conclusión <u>basada</u> en la declaración citada en el versículo anterior.
 
-###### Los conectores no se trabajan en este paso
+###### El versículo conecta directamente con las palabras <u>que</u> Dios dijo a Moisés.
 
-👉 Porque no pertenecen a una sola cláusula  
-👉 Sino a la relación entre cláusulas  
+###### El énfasis no recae sobre <u>el</u> deseo humano.
 
-👉 Se trabajarán en el Paso 4  
+###### La atención permanece en lo que Dios <u>declaró</u>.
 
----
+##### Observación <u>importante</u>:
+###### En las citas anteriores, Pablo ha mostrado declaraciones pronunciadas por Dios antes de que los <u>acontecimientos</u> ocurrieran.
 
-## ENTIENDE
+###### Después la historia avanzó, pero la palabra pronunciada por Dios <u>permaneció</u> firme.
 
-##### Qué estás haciendo realmente
-###### Estás construyendo las \textbf{unidades reales de acción del texto},  
-###### determinadas por el griego.
+#### ni del que corre,
+##### <u>Pablo</u> añade una segunda negación.
 
----
+###### El énfasis tampoco recae <u>en</u> el esfuerzo humano.
 
-##### PRINCIPIO CLAVE
-###### La cláusula se define por el \textbf{verbo finito griego},  
-###### no por la puntuación ni por el español.
+###### La explicación <u>no</u> es atribuida al deseo ni al esfuerzo.
 
----
+###### Pablo continúa alejando la atención de las acciones humanas como base de <u>su</u> argumento.
 
-##### IDEA CLAVE
-###### No decides cómo suena mejor  
-###### 👉 El griego ya lo determina  
+#### sino de Dios que tiene misericordia.
+##### El contraste dirige <u>toda</u> la atención hacia Dios.
 
----
+###### Después de negar dos bases humanas, <u>Pablo</u> presenta una base positiva.
 
-##### ACLARACIÓN IMPORTANTE
+###### El énfasis recae en Dios y en Su <u>misericordia</u>.
 
-###### Una cláusula puede incluir:
-- infinitivos  
-- participios  
-- frases largas  
+##### <u>Observación</u> desarrollacional:
+###### La conclusión <u>retoma</u> directamente las palabras citadas en Romanos 9:15:
+> «Tendré misericordia del que yo tenga misericordia».
 
-👉 Pero solo tiene \textbf{un verbo finito griego}
+###### Pablo sigue respondiendo mediante declaraciones pronunciadas <u>por</u> Dios.
 
----
+###### A lo largo del capítulo, el argumento continúa avanzando mediante palabras que <u>Dios</u> dijo y que permanecen firmes a través del desarrollo de la historia.
 
-##### EJEMPLO CLAVE
-```
-==di a beber== leche
-```
+### Romanos 9:17
+Porque la Escritura dice a Faraón: «PARA ESTO MISMO TE HE LEVANTADO, PARA DEMOSTRAR MI PODER EN TI, Y PARA QUE MI NOMBRE SEA PROCLAMADO POR TODA LA TIERRA».
 
-- ==di a beber== → verbo finito ✔  
-- “a beber” → infinitivo ❌  
+#### Porque la Escritura dice a Faraón:
+##### Pablo introduce <u>otro</u> testimonio tomado de las Escrituras.
 
-👉 Sigue siendo \textbf{una sola cláusula}
+###### Después de citar palabras <u>dirigidas</u> a Rebeca y a Moisés, ahora dirige la atención a palabras dirigidas a Faraón.
 
----
+###### <u>La</u> cita proviene del relato del éxodo de Israel desde Egipto.
 
-##### ERROR COMÚN
+###### Una vez más, el argumento <u>avanza</u> mediante algo que Dios dijo.
 
-- Usar verbos añadidos por el español  
-- Construir cláusulas sin base griega  
-- Cortar por comas o pausas  
+###### La Escritura es presentada hablando a Faraón porque la cita recoge palabras pronunciadas por <u>Dios</u>.
 
-👉 ❌ Incorrecto
+#### «PARA ESTO MISMO TE HE LEVANTADO,
+##### <u>La</u> cita presenta una declaración hecha por Dios acerca de Faraón.
 
-##### CORRECTO
+###### Dios habla antes de que la historia llegue <u>a</u> su desenlace.
 
-- Solo usar verbos confirmados en el griego  
-- Construir una cláusula por verbo  
-- Ignorar añadidos del español  
+###### La atención se dirige al propósito expresado en la <u>declaración</u>.
 
-## REGLA DE CONTROL
+###### Pablo continúa mostrando palabras pronunciadas <u>por</u> Dios dentro de la historia de Israel.
 
-###### Si hay verbo finito griego → hay cláusula  
-###### Si no hay → no hay cláusula  
+#### PARA DEMOSTRAR MI PODER EN TI,
+##### El primer propósito señalado en la cita es la manifestación del poder de <u>Dios</u>.
 
-## FRASE CLAVE
-> “Una cláusula = un verbo finito griego con su acción completa.”
+###### El énfasis recae <u>en</u>:
+> «mi poder»
 
-## QUÉ DEBES NOTAR
+###### La atención permanece en <u>lo</u> que Dios declara acerca de lo que hará.
 
-###### Cuando construyes correctamente:
+#### Y PARA QUE MI NOMBRE SEA PROCLAMADO
+##### La <u>cita</u> añade un segundo propósito.
 
-- desaparecen cláusulas falsas  
-- el texto se limpia  
-- la estructura se vuelve objetiva  
+###### El énfasis se desplaza <u>hacia</u> el nombre de Dios.
 
-## TRANSICIÓN
+###### El propósito no termina <u>en</u> Faraón mismo.
 
-###### En el siguiente paso:
+###### La declaración mira más <u>allá</u> del acontecimiento inmediato.
 
-- 👉 volverás al texto completo  
-- 👉 identificarás los conectores en el griego  
-- 👉 comenzarás a ver relaciones reales  
+#### POR TODA LA TIERRA».
+##### El alcance <u>del</u> propósito se amplía.
 
-###### Primero construyes (según el griego)  
-###### 👉 luego conectas
+###### La proclamación no queda limitada <u>a</u> Egipto.
 
-# PASO 4 — IDENTIFICAR CONECTORES
+###### <u>La</u> declaración apunta a toda la tierra.
 
-## EJECUTA
+##### Observación <u>importante</u>:
+###### Pablo continúa respondiendo mediante palabras pronunciadas por <u>Dios</u>.
 
-##### ¿Qué haces?
-###### Identificas todos los \textbf{conectores del texto}, volviendo al texto original completo.
+###### Primero Dios <u>habló</u>.
 
-##### REGLA CLAVE
-###### ❗ Regresas al texto original (Paso 1)
+###### Después <u>la</u> historia avanzó.
 
-👉 No trabajas con las cláusulas del Paso 3  
-👉 Trabajas con el texto completo otra vez  
+###### El éxodo terminó mostrando el poder de Dios y <u>haciendo</u> conocido Su nombre.
 
-## QUÉ ES UN CONECTOR
+##### <u>Observación</u> desarrollacional:
+###### Rebeca recibió una <u>declaración</u> antes del nacimiento de los hijos.
+###### Moisés recibió una declaración durante la <u>crisis</u> del becerro de oro.
+###### Faraón recibió una declaración antes del desenlace del <u>éxodo</u>.
 
-##### Definición
-###### Un conector es una palabra que puede \textbf{relacionar una cláusula con otra}.
+###### En cada caso, Pablo dirige la <u>atención</u> a palabras pronunciadas por Dios y al desarrollo posterior de la historia.
 
-👉 No describe acción  
-👉 No añade contenido  
-👉 \textbf{Une estructuras}
+###### El argumento continúa avanzando para mostrar que <u>la</u> palabra de Dios no ha fallado.
 
-## CÓMO IDENTIFICARLOS
+### Romanos 9:18
+Así que Dios tiene misericordia del que quiere, y al que quiere endurece.
 
-1. Toma el texto original (sin modificar)
+#### Así que Dios tiene misericordia,
+##### <u>Pablo</u> presenta una conclusión.
 
-2. Busca palabras como:
+###### Después de citar palabras dirigidas a Rebeca, a Moisés y a Faraón, ahora resume <u>parte</u> de su argumento con sus propias palabras.
 
-- y  
-- pero / sino  
-- porque / que  
-- para que  
-- si  
-- cuando  
+###### El versículo recoge los ejemplos anteriores y extrae una conclusión de <u>ellos</u>.
 
-3. Márcalas así:
+###### <u>La</u> misericordia continúa ocupando un lugar central en la discusión.
 
-```
-(porque)
-(y)
-(para que)
-```
+###### La conclusión retoma directamente el <u>tema</u> introducido en Romanos 9:15–16:
+> «Tendré misericordia...»
+> «Dios tiene misericordia...»
 
-## REGLA DE MARCADO
+###### Pablo pasa <u>de</u> la cita a la conclusión.
 
-###### Usa:
-- ( ) → cuando el conector está explícito en español  
-- [] → cuando está implícito pero existe en el griego  
+##### Observación <u>importante</u>:
+###### A lo largo de <u>esta</u> sección, Pablo ha dirigido repetidamente la atención a palabras pronunciadas por Dios.
 
-## CONFIRMACIÓN EN EL GRIEGO
+###### Después observa cómo la historia se <u>desarrolla</u>.
 
-###### ❗ Todo conector debe confirmarse en el griego
+###### Ahora resume <u>lo</u> observado en una conclusión.
 
-👉 El griego determina si el conector existe  
-👉 El español puede:
-- omitirlo  
-- cambiarlo  
-- suavizarlo  
+#### del que quiere y al que quiere endurece.
+##### La conclusión presenta dos acciones <u>contrastadas</u>.
 
-##### EJEMPLO
+###### <u>El</u> texto afirma:
+- Dios tiene misericordia
+- Dios endurece
 
-Griego:
-```
-ἀλλʼ
-```
+###### <u>Ambas</u> acciones aparecen juntas dentro de la misma conclusión.
 
-Español NBLA:
-```
-ni aun ahora pueden
-```
+###### Pablo no está citando una nueva <u>declaración</u>.
 
-Resultado:
-```
-[pero] ni aun ahora pueden
-```
+###### Está resumiendo la evidencia presentada <u>hasta</u> este punto.
 
-👉 El conector no aparece en español  
-👉 [Pero] \textbf{sí existe en el griego}  
-👉 Por eso se marca
+##### Observación <u>desarrollacional</u>:
+###### La tensión del argumento <u>aumenta</u>.
 
-## EJEMPLO COMPLETO
+###### Pablo ya no está simplemente <u>citando</u> lo que Dios dijo.
 
-Texto:
+###### Ahora está extrayendo una conclusión <u>de</u> los ejemplos que ha presentado.
 
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, 
-sino como a carnales, como a niños en Cristo.
+###### Esta conclusión prepara directamente la objeción que aparecerá <u>en</u> el versículo siguiente.
 
-Les di a beber leche, no alimento sólido,
+### Romanos 9:19
+Me dirás entonces: «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?».
 
-porque todavía no podían recibirlo.
+#### Me dirás entonces:
+##### Pablo introduce una nueva <u>objeción</u>.
 
-ni aun ahora pueden
-```
+###### <u>La</u> pregunta surge como reacción a lo que acaba de afirmar en el versículo anterior.
 
-Resultado:
+###### El texto vuelve a <u>presentar</u> la voz de un interlocutor.
 
-```
-==pude=
+###### Romanos 9 alterna <u>entre</u>:
+- afirmación
+- objeción
+- respuesta
 
-[sino] como a carnales
+###### La discusión continúa avanzando <u>mediante</u> ese patrón.
 
-(porque) todavía no podían recibirlo
+#### «¿Por qué, pues, todavía reprocha Dios?»
+##### La objeción se <u>formula</u> directamente.
 
-[pero] ni aun ahora pueden
-```
+###### La pregunta ya no gira <u>alrededor</u> de Moisés o Faraón.
 
-## IMPORTANTE
+###### Ahora <u>se</u> enfoca en el hecho de que Dios reprocha.
 
-###### ❗ En este paso NO decides si conectan o no
+##### <u>Observación</u> importante:
+###### Pablo no <u>evita</u> la pregunta.
+###### La presenta de manera abierta <u>antes</u> de responderla.
 
-👉 Solo los identificas  
-👉 No evalúas relación todavía  
+#### «Porque ¿quién resiste a Su voluntad?».
+##### La objeción continúa <u>desarrollándose</u>.
 
-## ENTIENDE
+###### El interlocutor conecta <u>el</u> reproche de Dios con la voluntad de Dios.
 
-##### Qué estás haciendo realmente
-###### Estás identificando \textbf{todas las posibles relaciones del texto}.
+###### La pregunta plantea una tensión que exige <u>respuesta</u>.
 
-##### PRINCIPIO CLAVE
-###### Un conector no pertenece a una cláusula  
-###### 👉 Pertenece a la relación entre cláusulas  
+##### <u>Observación</u> desarrollacional:
+###### <u>El</u> nivel de la discusión ha cambiado.
+###### <u>El</u> argumento ya no gira solamente alrededor de ejemplos tomados de la historia de Israel.
 
-##### IDEA CLAVE
-###### Primero ves TODOS los conectores  
-###### 👉 Luego decides cuáles realmente conectan  
+###### Ahora la objeción se dirige directamente a la relación entre la voluntad de <u>Dios</u> y la responsabilidad humana.
 
-##### ERROR COMÚN
-- Ignorar conectores que no aparecen en español  
-- No confirmar en el griego  
-- Decidir demasiado pronto si conectan  
+###### Pablo responderá a esta objeción en los <u>versículos</u> siguientes.
 
-👉 ❌ Incorrecto
+### Romanos 9:20
+Al contrario, ¿quién eres tú, oh hombre, que le contestas a Dios? ¿Dirá acaso el objeto modelado al que lo modela: «¿Por qué me hiciste así?»?
 
-##### CORRECTO
-- Marcar todos los posibles conectores  
-- Confirmarlos en el griego  
-- No tomar decisiones aún  
+#### Al contrario,
+##### Pablo <u>responde</u> directamente a la objeción planteada en el versículo anterior.
 
-## FRASE CLAVE
-> “Primero identifico todos los conectores.  
-> Después verifico cuáles realmente conectan.”
+###### Romanos 9:19 <u>preguntó</u>:
+> «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?»
 
-## QUÉ DEBES NOTAR
+###### Ahora Pablo comienza su <u>respuesta</u>.
 
-###### Cuando haces bien este paso:
-- aparecen relaciones que no se ven en español  
-- el texto se vuelve estructural  
-- preparas el análisis real de conexión  
+#### ¿quién eres tú, oh hombre,
+##### Pablo dirige la atención hacia la persona que <u>formula</u> la objeción.
 
-## TRANSICIÓN
+###### El énfasis recae <u>sobre</u>:
+> «oh hombre»
 
-###### En el siguiente paso:
-- 👉 evaluarás cuáles conectores realmente unen cláusulas  
-- 👉 eliminarás los que no generan relación  
-- 👉 comenzarás a construir la estructura  
+###### <u>La</u> pregunta establece un contraste entre el ser humano y Dios.
 
-###### Aquí no decides  
-###### 👉 solo identificas
+#### que le contestas a Dios?
+##### Pablo identifica el <u>verdadero</u> destinatario de la objeción.
 
-# PASO 5 — CONECTOR + B → BUSCAR A
+###### La discusión ya no gira solamente alrededor <u>de</u> Faraón, Moisés o Israel.
 
-## EJECUTA
+###### La pregunta es presentada como una respuesta dirigida a Dios <u>mismo</u>.
 
-##### ¿Qué haces?
-###### Tomas las cláusulas del Paso 3, insertas en ellas los conectores del Paso 4 que introducen B, y verificas si cada conector realmente une esa cláusula con una A.
+##### <u>Observación</u> importante:
+###### A lo largo de Romanos 9, Pablo ha presentado repetidamente palabras pronunciadas <u>por</u> Dios.
 
-##### REGLA CLAVE
+- Dios habla a Rebeca
+- Dios habla en Malaquías
+- Dios habla a Moisés
+- Dios habla a Faraón
 
-###### ❗ Todo comienza con las cláusulas del Paso 3
+###### Ahora la objeción es presentada como <u>una</u> contestación a Dios.
 
-👉 Solo trabajas con cláusulas reales (verbos finitos griegos)  
-👉 No creas cláusulas nuevas  
-👉 No usas verbos añadidos por el español  
+#### ¿Dirá acaso el objeto modelado al que lo modela:
+##### <u>Pablo</u> introduce una ilustración.
 
-##### ESENCIA DEL PASO
+###### La imagen <u>compara</u>:
+- el que modela
+- lo que es modelado
 
-###### 1) Insertas el conector en su cláusula B  
-###### 2) Pruebas: conector + B → ¿hay A?
+###### La ilustración preparará el desarrollo del <u>siguiente</u> versículo.
 
-## CÓMO HACERLO
+#### «¿Por qué me hiciste así?»?
+##### La pregunta expresa <u>el</u> contenido de la objeción.
 
-1. Toma las cláusulas del Paso 3
+###### El objeto modelado <u>cuestiona</u> la acción de quien lo formó.
 
-2. Toma los conectores del Paso 4
+##### Observación <u>desarrollacional</u>:
+###### <u>Pablo</u> no responde todavía desarrollando una explicación extensa.
 
-3. Para cada conector:
-   a) Identifica la cláusula B (la que introduce el conector)  
-   b) Insértalo al inicio de esa cláusula  
-   c) Prueba:
+###### Primero introduce la ilustración del alfarero y el <u>barro</u>.
 
-   👉 \textbf{conector + B → ¿hay A?}
+###### El siguiente versículo continuará <u>desarrollando</u> esta imagen.
 
-4. Decide:
-- ✔ Sí hay A → el conector se conserva  
-- ❌ No hay A → el conector se elimina  
+### Romanos 9:21
+¿O no tiene el alfarero derecho sobre el barro de hacer de la misma masa un vaso para uso honorable y otro para uso ordinario?
 
-## FORMATO
-```
-(conector) cláusula B
-```
+#### ¿O no tiene el alfarero derecho sobre el barro
+##### <u>Pablo</u> responde mediante una ilustración.
 
-Luego:
-```
-(conector) + B → ¿A?
-```
+###### La <u>imagen</u> presenta dos elementos:
+- el alfarero
+- el barro
 
-## EJEMPLO
+##### <u>Observación</u> importante:
+###### La <u>pregunta</u> está formulada para que la respuesta resulte evidente.
+###### El alfarero <u>tiene</u> autoridad sobre el barro.
 
-Cláusulas (Paso 3):
-```
-==pude==
+###### Pablo continúa respondiendo a la objeción <u>planteada</u> en 9:19.
 
-==di a beber== leche
+###### La respuesta avanza mediante una ilustración sencilla antes de pasar nuevamente <u>a</u> Dios.
 
-==podían== recibirlo
+#### de hacer de la misma masa un vaso
+##### <u>Pablo</u> continúa desarrollando la ilustración.
 
-==pueden==
-```
+###### La atención <u>se</u> dirige a una misma masa de barro.
 
-Conectores (Paso 4):
-```
-(porque)
-[pero]
-```
+###### El énfasis recae <u>sobre</u> el material compartido.
 
-Paso 5:
-```
-==di a beber== leche
+#### para uso honorable y otro para uso ordinario?
+##### La ilustración culmina con dos <u>vasos</u> diferentes.
 
-(porque) ==podían== recibirlo
+###### Ambos proceden de la <u>misma</u> masa.
 
-[pero] ==pueden==
-```
+###### Sin embargo, son presentados <u>con</u> usos distintos.
 
-Prueba:
-```
-A <- (conector) -> B 
-(porque) + ==podían== recibirlo → ¿hay A?
-✔ Sí → ==di a beber== leche
+##### <u>Observación</u> desarrollacional:
+###### La ilustración <u>deja</u> abierta una pregunta.
 
-[pero] + ==pueden== → ¿hay A?
-✔ Sí → ==podían== recibirlo
-```
+###### <u>Pablo</u> responderá mediante la expresión:
+> “¿Y qué, si Dios...?”
 
-Resultado:
-```
-==di a beber== leche
+### Romanos 9:22
+¿Y qué, si Dios, aunque dispuesto a demostrar Su ira y hacer notorio Su poder, soportó con mucha paciencia a los vasos de ira preparados para destrucción?
 
-(porque) ==podían== recibirlo
+#### ¿Y qué, si Dios,
+##### Pablo <u>comienza</u> la aplicación de la ilustración.
 
-[pero] ==pueden==
-```
+###### La pregunta iniciada en el versículo anterior continúa <u>desarrollándose</u>.
 
-## EJEMPLO CLAVE (SIN B REAL)
+###### <u>El</u> pensamiento todavía no está completo.
 
-Texto NBLA:
-```
-porque la justicia viene por medio de la ley
-```
+##### Observación <u>importante</u>:
+###### El versículo comienza con <u>una</u> pregunta.
+###### La respuesta no llegará <u>hasta</u> que Pablo complete la idea.
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+#### aunque dispuesto a demostrar Su ira y hacer notorio Su poder,
+##### Pablo menciona <u>dos</u> propósitos.
 
-👉 No hay verbo finito griego  
-👉 No hay cláusula en Paso 3  
+###### El <u>texto</u> destaca:
+- Su ira
+- Su poder
 
-Resultado:
-```
-❌ (porque) → no se inserta (no hay B)
-```
+###### Ambos aparecen como <u>parte</u> de la misma declaración.
 
-👉 No hay B → no se busca A → no entra en la estructura  
+#### soportó con mucha paciencia
+##### El versículo añade <u>un</u> elemento inesperado.
 
-## REGLA OPERATIVA
+###### Junto a la ira y al poder <u>aparece</u> la paciencia.
 
-###### ❗ El conector siempre entra por la cláusula B
+###### El texto <u>afirma</u> que Dios soportó con mucha paciencia.
 
-👉 Nunca se coloca en A  
-👉 Nunca queda suelto  
-👉 Nunca se evalúa sin B  
+##### Observación <u>importante</u>:
+###### La paciencia <u>ocupa</u> un lugar central en la acción descrita.
+###### El énfasis no recae únicamente en la <u>ira</u>.
 
-## CASOS DIFÍCILES
+#### a los vasos de ira preparados para destrucción?
+##### Pablo identifica <u>a</u> quienes fueron soportados con paciencia.
 
-##### Cuando el conector no está cerca
+###### El texto <u>los</u> llama:
+> “vasos de ira”
 
-👉 No importa la distancia  
-👉 No importa la puntuación  
+###### Además los describe <u>como</u>:
+> “preparados para destrucción”
 
-###### Pregunta única:
-👉 ¿Qué cláusula del Paso 3 es B?
+##### Qué NO está <u>haciendo</u> el texto todavía:
+###### Pablo aún no ha explicado <u>el</u> propósito completo de esta acción.
 
-Luego:
-👉 conector + B → ¿hay A?
+###### La pregunta <u>iniciada</u> en 9:22 continúa abierta.
 
-##### Cuando no es claro
+###### <u>El</u> pensamiento seguirá desarrollándose en 9:23.
 
-👉 Igual haces la prueba  
+### Romanos 9:23
+Lo hizo para dar a conocer las riquezas de Su gloria sobre los vasos de misericordia, que de antemano Él preparó para gloria,
 
-❗ No decides por sentido  
-❗ No completas mentalmente  
+#### Lo hizo para dar a conocer las riquezas de Su gloria
+##### Pablo completa el propósito <u>iniciado</u> en el versículo anterior.
 
-## IMPORTANTE
+###### La pregunta <u>abierta</u> en 9:22 ahora recibe una respuesta.
 
-###### ❗ Este paso filtra los conectores reales
+###### El énfasis se <u>dirige</u> hacia:
+> “las riquezas de Su gloria”
 
-👉 Solo permanecen los que unen A–B  
-👉 Los demás se eliminan  
+###### El <u>pensamiento</u> iniciado con:
+> “¿Y qué, si Dios...?”
 
-## ENTIENDE
+###### continúa desarrollándose <u>y</u> alcanza aquí uno de sus propósitos declarados.
 
-##### Qué estás haciendo realmente
-###### Estás conectando cláusulas reales y eliminando relaciones falsas.
+#### sobre los vasos de misericordia,
+##### <u>Pablo</u> introduce un segundo grupo.
 
-##### PRINCIPIO CLAVE
-###### Un conector solo entra en la estructura si une B con una A real.
+###### <u>En</u> el versículo anterior aparecieron:
+> “vasos de ira”
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+###### <u>Ahora</u> aparecen:
+> “vasos de misericordia”
 
-###### Preguntas:
-👉 “¿Conector + B encuentra A?”
+##### <u>Observación</u> importante:
+###### El contraste entre ambos grupos forma <u>parte</u> del desarrollo del argumento.
 
-##### ERROR COMÚN
+#### que de antemano Él preparó para gloria,
+##### Pablo añade una <u>descripción</u> de los vasos de misericordia.
 
-- No partir de las cláusulas del Paso 3  
-- Asignar conectores sin B  
-- No hacer la prueba A–B  
-- Conservar conectores por intuición  
+###### El énfasis recae en dos <u>elementos</u>:
+- Dios los preparó de antemano
+- para gloria
 
-👉 ❌ Incorrecto
+##### Observación <u>desarrollacional</u>:
+###### El versículo todavía no identifica quiénes son estos vasos de <u>misericordia</u>.
 
-##### CORRECTO
+###### Esa identificación llegará inmediatamente <u>después</u>.
 
-- Partes de las cláusulas  
-- Insertas conectores en B  
-- Pruebas B - A
-- Conservas o eliminas  
+### Romanos 9:24
+es decir, nosotros, a quienes también llamó, no solo de entre los judíos, sino también de entre los gentiles.
 
-## FRASE CLAVE
-> “Inserto el conector en B, y pregunto: ¿hay A?”
+#### es decir, nosotros,
+##### <u>Pablo</u> identifica finalmente el grupo que viene describiendo.
 
-## QUÉ DEBES NOTAR
+###### El argumento pasa de ilustraciones y categorías generales <u>a</u> un referente concreto:
+> “nosotros”
 
-###### Cuando haces bien este paso:
+##### <u>Observación</u> importante:
+###### Esta es una de las primeras veces en la sección donde Pablo <u>se</u> incluye explícitamente dentro del grupo descrito.
 
-- solo quedan relaciones reales  
-- desaparecen conexiones falsas  
-- el texto queda listo para estructura  
+#### a quienes también llamó,
+##### Pablo <u>añade</u> una característica adicional del grupo.
 
-## TRANSICIÓN
+###### El tema del llamamiento <u>reaparece</u> dentro del argumento.
 
-###### En el siguiente paso:
+###### El grupo es <u>identificado</u> como aquellos a quienes Dios llamó.
 
-- 👉 usarás las conexiones A–B confirmadas  
-- 👉 organizarás las cláusulas  
-- 👉 verás la estructura del texto  
+###### <u>El</u> tema del llamamiento ya había aparecido anteriormente en la sección.
 
-###### Aquí conectas  
-###### 👉 luego estructuras
+###### Pablo <u>vuelve</u> a retomarlo aquí.
 
-# PASO 6 — MOSTRAR LA ESTRUCTURA
+#### no solo de entre los judíos,
+##### Pablo comienza a describir la <u>composición</u> del grupo.
 
-## EJECUTA
+###### El <u>grupo</u> incluye judíos.
 
-##### ¿Qué haces?
-###### Organizas las cláusulas según las relaciones A–B confirmadas en el Paso 5.
+###### Pero <u>la</u> descripción no termina allí.
 
-##### REGLA CLAVE
+#### sino también de entre los gentiles.
+##### Pablo completa <u>la</u> descripción.
 
-###### ❗ Solo trabajas con conexiones ya confirmadas
+###### El grupo <u>incluye</u>:
+- judíos
+- gentiles
 
-👉 No pruebas relaciones  
-👉 No vuelves a buscar A  
-👉 No eliminas conectores  
+##### <u>Observación</u> importante:
+###### El “nosotros” descrito <u>por</u> Pablo está compuesto por ambos grupos.
 
-👉 Todo eso ya ocurrió en el Paso 5  
+###### Esta afirmación prepara las citas de Oseas e Isaías que seguirán inmediatamente <u>después</u>.
 
-##### REGLA FUNDAMENTAL
+##### <u>Observación</u> desarrollacional:
+###### Después de identificar al grupo, Pablo volverá a apelar a las <u>Escrituras</u> para mostrar que esta realidad ya había sido anunciada.
 
-###### ❗ No explicas la relación
+### Romanos 9:25
+Como también dice en Oseas: «A LOS QUE NO ERAN MI PUEBLO, LLAMARÉ: “PUEBLO MÍO”, Y A LA QUE NO ERA AMADA: “AMADA mía”.
 
-👉 No nombras funciones  
-👉 No interpretas  
-👉 No reescribes el texto  
+#### Como también dice en Oseas:
+##### <u>Pablo</u> vuelve a apoyar su argumento mediante las Escrituras.
 
-👉 Solo haces visible la estructura  
+###### Después de hablar <u>de</u> judíos y gentiles (9:24), Pablo cita al profeta Oseas.
 
-## CÓMO HACERLO
+###### Pablo continúa respondiendo <u>mediante</u> testimonios tomados de las Escrituras.
 
-1. Toma las cláusulas del Paso 5
+###### El argumento sigue avanzando por medio <u>de</u> citas.
 
-2. Usa las relaciones ya resueltas:
-👉 (conector + B) → A
+#### «A LOS QUE NO ERAN MI PUEBLO,
+##### <u>La</u> cita comienza con una identidad negativa.
 
-3. Organiza así:
-- Coloca A en la línea principal  
-- Coloca B debajo de A  
-- Indenta B  
-- Mantén el conector en B  
+###### El grupo <u>descrito</u> es identificado como:
+> “no eran mi pueblo”
 
-## FORMATO
+##### <u>Observación</u> importante:
+###### Pablo comienza la cita <u>con</u> una condición inicial.
 
-```
-A
+###### La <u>atención</u> se centra en aquello que este grupo no era.
 
-(conector) B
-```
+#### LLAMARÉ: “PUEBLO MÍO”,
+##### La cita presenta un <u>cambio</u> de identidad.
 
-## EJEMPLO
+###### <u>El</u> contraste es directo:
+- no eran mi pueblo
+- pueblo mío
 
-Paso 5:
+##### <u>Observación</u> importante:
+###### El verbo “llamaré” ocupa <u>un</u> lugar central en la cita.
 
-```
-==di a beber== leche
+###### <u>El</u> cambio es expresado mediante aquello que Dios dice.
 
-(porque) ==podían== recibirlo
+#### Y A LA QUE NO ERA AMADA: “AMADA mía”.
+##### Pablo añade un segundo ejemplo <u>paralelo</u>.
 
-[pero] ==pueden==
+###### El mismo patrón <u>vuelve</u> a aparecer:
+- no amada
+- amada
 
+##### <u>Observación</u> desarrollacional:
+###### <u>La</u> cita presenta un movimiento repetido:
+- una condición inicial
+- una nueva identidad
 
-Paso 6:
+###### Pablo utiliza esta cita para apoyar <u>lo</u> que acaba de afirmar en 9:24.
 
+## Israel en la línea profética del Antiguo Testamento
 
-==di== a beber leche
-		(porque) ==podían== recibirlo
-		[pero] ==pueden==
-```
+##### A lo largo de Romanos 9–11, Pablo sostiene repetidamente una afirmación central:
+> «No es que la palabra de Dios haya fallado». Romanos 9:6
 
-## REGLA OPERATIVA
+##### Esa afirmación invita a observar la historia de Israel desde una perspectiva más amplia.
 
-###### ❗ La cláusula B siempre se coloca debajo de su A
-👉 Porque depende de ella  
-👉 Por eso se indenta  
+###### Si la palabra de Dios no ha fallado, resulta útil preguntarnos:
+- ¿Qué dijeron los profetas acerca de Israel?
+- ¿Qué acontecimientos ya han ocurrido?
+- ¿Qué acontecimientos permanecen futuros?
 
-###### ❗ Cada cláusula aparece una sola vez
-👉 Si una cláusula es A de otra relación,
-👉 se usa en su misma posición (no se repite)
+##### Aunque los profetas presentan estos temas desde distintos ángulos, aparece repetidamente una secuencia general.
 
-## IMPORTANTE
+| Etapa | Desarrollo profético                       |
+| ----- | ------------------------------------------ |
+| 1     | Israel es dispersado entre las naciones    |
+| 2     | Israel es preservado durante la dispersión |
+| 3     | Israel es reunido desde las naciones       |
+| 4     | Israel es limpiado y transformado          |
+| 5     | El rey davídico es establecido             |
+| 6     | Israel es restaurado y habita seguro       |
+| 7     | Las naciones se reúnen contra Israel       |
+| 8     | El Señor interviene directamente           |
+| 9     | Las naciones son juzgadas                  |
+| 10    | El Señor reina sobre toda la tierra        |
+| 11    | Las naciones vienen a adorar               |
+| 12    | Ocurre la resurrección                     |
+| 13    | Nuevos cielos y nueva tierra               |
 
-###### ❗ No reorganizas por intuición
+#### Dispersión
 
-👉 Solo reflejas las conexiones ya confirmadas  
+##### Los profetas anunciaron repetidamente que Israel sería dispersado entre las naciones.
 
-###### ❗ No agregas información
+###### Véase Deuteronomio 28:64–68; Deuteronomio 30:1–3; Jeremías 30:11; Ezequiel 36:19.
 
-👉 No añades palabras  
-👉 No completas ideas  
-👉 No corriges el texto  
+#### Preservación
 
-## ENTIENDE
+##### Los mismos profetas afirmaron que la dispersión no significaría la desaparición de Israel.
 
-##### Qué estás haciendo realmente
-###### Estás mostrando la \textbf{estructura real del texto}.
+###### Dios prometió preservar a la nación.
 
-##### PRINCIPIO CLAVE
-###### La estructura no se crea  
-###### 👉 se revela al ordenar A–B  
+###### Véase Jeremías 31:35–37.
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+#### Reunión
 
-###### Muestras:
-👉 “¿Qué depende de qué?”
+##### Los profetas también anunciaron que Israel sería reunido nuevamente desde las naciones.
 
-##### ERROR COMÚN
+###### Véase Deuteronomio 30:3–5; Jeremías 31:8–10; Ezequiel 36:24; Ezequiel 37:21; Amós 9:14–15.
 
-- Volver a probar conexiones  
-- Buscar nuevas relaciones  
-- Explicar la relación  
-- Reescribir el texto  
-- Cambiar el orden  
+#### ¿Dónde encaja Israel actualmente?
 
-👉 ❌ Incorrecto
+##### Al observar la historia, varias etapas parecen haber ocurrido ya.
 
-##### CORRECTO
+###### Israel fue dispersado entre las naciones.
 
-- Tomas las conexiones del Paso 5  
-- Colocas B debajo de A  
-- Indentas  
-- Mantienes el conector  
+###### Israel fue preservado durante esa dispersión.
 
-## FRASE CLAVE
-> “No construyo la estructura.  
-> La muestro.”
+###### Israel ha sido reunido nuevamente en la tierra.
 
-## QUÉ DEBES NOTAR
+##### Sin embargo, varias etapas descritas por los profetas todavía no parecen haberse cumplido plenamente.
 
-###### Cuando lo haces bien:
+###### Israel todavía no ha experimentado la transformación nacional descrita en Deuteronomio 30:6.
 
-- las dependencias se ven claramente  
-- el texto se organiza sin esfuerzo  
-- la jerarquía aparece  
+###### La restauración espiritual descrita en Jeremías 31:31–34 y Ezequiel 36:25–27 todavía espera cumplimiento nacional.
 
-## TRANSICIÓN
+###### El rey davídico prometido por los profetas todavía no reina sobre todas las naciones.
 
-###### En el siguiente paso:
+###### Las naciones todavía no han venido universalmente a adorar al Señor.
 
-- 👉 trabajarás dentro de cada cláusula  
-- 👉 reducirás su contenido  
-- 👉 prepararás el texto para identificar el tronco  
+###### La resurrección descrita en Daniel 12 todavía no ha ocurrido.
 
-###### Aquí haces visible la estructura  
-###### 👉 luego trabajas dentro de ella
+###### Los nuevos cielos y la nueva tierra todavía permanecen futuros.
 
-# PASO 7 — REDUCIR A LA CLÁUSULA BASE
+##### Por esa razón, la historia profética de Israel no parece haber llegado todavía a su conclusión.
 
-## EJECUTA
+###### Los profetas describen acontecimientos que continúan más allá de la situación presente.
 
-##### ¿Qué haces?
-###### Reduces cada cláusula a su forma base,
-###### conservando la acción completa del verbo dentro de la estructura mostrada en el Paso 6.
+#### Relación con Romanos 9–11
 
-##### REGLA CLAVE
-###### Reduces el contenido de cada cláusula,
-###### pero no alteras la estructura.
+##### Esta observación ayuda a entender por qué Pablo puede hablar de Israel como parte de una historia que continúa desarrollándose.
 
-👉 No eliminas cláusulas  
-👉 No eliminas conectores  
-👉 No cambias la relación visual del Paso 6  
+###### La condición presente de Israel no obliga a concluir que la palabra de Dios haya fallado.
 
-##### REGLA
-###### Mantienes en cada cláusula:
+###### Pablo argumenta precisamente lo contrario.
 
-- el verbo finito
-- el sujeto (si es necesario)
-- los elementos que completan la acción del verbo
+###### La existencia misma de una historia todavía en desarrollo presupone que las promesas continúan vigentes.
 
-###### ❗ No reduces mecánicamente a sujeto–verbo–objeto
+##### Por eso Romanos 9–11 no presenta a Israel como una evidencia contra la fidelidad de Dios.
 
-###### Conservas todo lo necesario para que la acción quede completa.
-###### Eliminas solo lo que no afecta directamente esa acción.
+##### Presenta a Israel como una demostración de que Dios continúa actuando conforme a lo que había dicho.
 
-##### ACLARACIÓN IMPORTANTE
-###### La reducción ocurre dentro de cada cláusula,
-###### no entre cláusulas.
+> Dios habló.
+> La historia avanzó.
+> La palabra de Dios permaneció firme.
 
-👉 No estás tocando la estructura  
-👉 Solo estás limpiando cada línea  
+#### Resumen visual
 
-## CÓMO HACERLO
+> Dispersión
+> ↓
+> Preservación
+> ↓
+> Reunión
+> ↓
+> ¿Situación actual?
+> ↓
+> Transformación nacional
+> ↓
+> Rey davídico
+> ↓
+> Restauración completa
+> ↓
+> Conflicto de las naciones
+> ↓
 
-1. Toma el texto estructurado del Paso 6
+> Intervención del Señor
+> ↓
+> Juicio
+> ↓
+> Reino universal
+> ↓
+> Adoración de las naciones
+> ↓
+> Resurrección
+> ↓
+> Nuevos cielos y nueva tierra
 
-2. Lee una cláusula
+### Romanos 9:26
+Y SUCEDERÁ QUE EN EL LUGAR DONDE SE LES DIJO: “USTEDES NO SON MI PUEBLO”, ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
 
-3. Identifica su verbo finito
+#### Y SUCEDERÁ QUE EN EL LUGAR
+##### Pablo continúa la <u>cita</u> de Oseas.
 
-4. Conserva:
-- quién hace la acción, si es necesario
-- qué acción ocurre
-- qué completa esa acción
+###### La evidencia tomada del profeta <u>todavía</u> no ha terminado.
 
-5. Elimina dentro de la cláusula:
-- elementos secundarios
-- detalles que no cambian la acción
-- expansiones que no son necesarias para que la acción quede completa
+###### El texto sigue desarrollando el mismo <u>tema</u>.
 
-6. Repite con cada cláusula
+#### DONDE SE LES DIJO:
+##### La <u>cita</u> recuerda una declaración anterior.
 
-##### RESULTADO ESPERADO
+###### Primero hubo una palabra <u>dirigida</u> a este grupo.
 
-###### Antes (Paso 6):
+###### Esa palabra será <u>contrastada</u> con otra declaración posterior.
 
-```text
-no ==pude== hablarles como a espirituales
+#### “USTEDES NO SON MI PUEBLO”,
+##### La condición inicial es <u>repetida</u>.
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+###### La cita vuelve a enfatizar la misma <u>identidad</u> negativa.
 
-		[pero] ni aun ahora ==pueden==
-```
+##### Observación <u>importante</u>:
+###### Pablo refuerza <u>el</u> patrón presentado en el versículo anterior.
 
-###### Después (Paso 7):
+###### Primero aparece <u>una</u> negación.
 
-```text
-no ==pude== hablarles como a espirituales
+#### ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
+##### La cita culmina <u>con</u> una nueva identidad.
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+###### El <u>contraste</u> es completo:
+- no son mi pueblo
+- hijos del Dios viviente
 
-		[pero] ==pueden==
-```
+###### <u>El</u> énfasis recae nuevamente en ser llamados.
 
-## ENTIENDE
+###### La <u>cita</u> conecta naturalmente con Romanos 9:24:
+> “a quienes llamó”
+> “serán llamados”
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible el núcleo verbal de cada cláusula,
-###### sin tocar la estructura que ya fue mostrada.
+##### <u>Observación</u> desarrollacional:
+###### Después de identificar al grupo en 9:24, Pablo muestra que las Escrituras ya hablaban de una realidad como <u>esta</u>.
 
-##### PRINCIPIO CLAVE
-###### Cada cláusula tiene una base.
-###### Esa base conserva la acción completa del verbo.
+###### En el siguiente versículo cambiará <u>de</u> profeta.
 
-##### IDEA CLAVE
-###### No reduces la estructura.
-###### Reduces el contenido de cada cláusula.
+###### <u>Oseas</u> dará paso a Isaías.
 
-##### ACLARACIÓN
-###### Este paso no decide qué cláusulas permanecen y cuáles no.
+### Romanos 9:27
+Isaías también exclama en cuanto a Israel: «AUNQUE EL NÚMERO DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR, solo EL REMANENTE SERÁ SALVO;
 
-👉 Todas permanecen  
-👉 Solo quedan más limpias  
+#### Isaías también exclama en cuanto a Israel:
+##### Pablo introduce una nueva cita de <u>las</u> Escrituras.
 
-##### EJEMPLO CLAVE
+###### Después de citar a Oseas, ahora cita a <u>Isaías</u>.
 
-```text
-==di a beber== leche
-```
+###### El argumento <u>continúa</u> avanzando mediante testimonios tomados de las Escrituras.
 
-- ==di a beber== → verbo finito
-- “a beber leche” → completa la acción
+###### El énfasis cambia de Oseas a Isaías, y de los <u>gentiles</u> a Israel.
 
-👉 No se reduce a:
-```text
-==di==
-```
+#### «AUNQUE EL NÚMERO
+##### La cita comienza destacando la <u>gran</u> cantidad de personas.
 
-👉 Porque la acción quedaría incompleta
+###### El énfasis inicial recae sobre <u>el</u> número.
 
-##### ERROR COMÚN
+#### DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR,
+##### Isaías utiliza una comparación para describir <u>una</u> multitud inmensa.
 
-- Reducir demasiado
-- quitar partes que completan la acción
-- eliminar conectores
-- alterar la indentación o la relación visual del Paso 6
+###### La imagen enfatiza una cantidad <u>innumerable</u>.
 
-👉 ❌ Incorrecto
+##### <u>Observación</u> importante:
+###### La atención <u>se</u> dirige primero a la magnitud del pueblo.
 
-##### CORRECTO
+###### Sin embargo, <u>la</u> cita todavía no ha llegado a su conclusión.
 
-- conservar la acción completa
-- mantener todas las cláusulas
-- mantener los conectores
-- mantener la estructura
+#### solo EL REMANENTE SERÁ SALVO;
+##### La <u>cita</u> introduce un contraste inesperado.
 
-## FRASE CLAVE
-> “Reduzco cada cláusula, pero no toco la estructura.”
+###### Después de hablar de <u>una</u> multitud innumerable, Isaías dirige la atención hacia:
+> “el remanente”
 
-## QUÉ DEBES NOTAR
+##### <u>Observación</u> importante:
+###### La <u>cita</u> distingue entre:
+- los hijos de Israel
+- el remanente
 
-###### Cuando reduces bien:
+##### <u>Observación</u> desarrollacional:
+###### Esta distinción encaja con el argumento que <u>Pablo</u> viene desarrollando desde Romanos 9:6.
 
-- cada línea se vuelve más clara
-- la acción queda visible
-- la estructura sigue intacta
+###### La cita <u>de</u> Isaías aporta una nueva evidencia para ese argumento.
 
-##### REGLA DE CONTROL
-###### Si una acción queda incompleta, redujiste mal.
-###### Si desaparece una cláusula, redujiste mal.
-###### Si cambias la estructura, redujiste mal.
+### Romanos 9:28
+PORQUE EL SEÑOR EJECUTARÁ SU PALABRA SOBRE LA TIERRA CABALMENTE Y CON BREVEDAD».
 
-## TRANSICIÓN
+#### PORQUE EL SEÑOR EJECUTARÁ SU PALABRA
+##### <u>Isaías</u> añade la razón de la declaración anterior.
 
-###### En el siguiente paso:
+###### El <u>versículo</u> comienza con:
+> “Porque...”
 
-- 👉 trabajarás con esta versión reducida
-- 👉 identificarás la línea principal del desarrollo
-- 👉 comenzarás a ver el tronco del texto 
+###### La afirmación <u>sobre</u> el remanente es seguida por una explicación.
 
-# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
+##### Observación <u>importante</u>:
+###### El énfasis recae sobre la palabra del <u>Señor</u>.
 
-## EJECUTA
+###### El Señor <u>hará</u> aquello que ha dicho.
 
-##### ¿Qué haces?
-###### Identificas el tronco del texto eliminando únicamente las cláusulas que dependen estructuralmente de otras.
+#### SOBRE LA TIERRA
+##### <u>La</u> acción descrita es presentada dentro de la historia humana.
 
-###### Mantienes las cláusulas que no dependen de ninguna otra.
+###### El cumplimiento no permanece como <u>una</u> idea abstracta.
 
-# REGLA CLAVE
+###### La cita habla de algo que ocurre sobre la <u>tierra</u>.
 
-###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
+#### CABALMENTE Y CON BREVEDAD».
+##### Isaías describe la <u>manera</u> en que el Señor ejecutará Su palabra.
 
-👉 No decides por sentido
-👉 No decides por importancia
-👉 No decides por “parece secundario”
+###### La acción será llevada a cabo <u>plenamente</u>.
 
-👉 Decides solo por lo que el conector griego muestra
+###### La <u>acción</u> será llevada a cabo con brevedad.
 
-# REGLA CRÍTICA
+###### La cita <u>no</u> solo afirma que el Señor actuará.
 
-###### ❗ Una cláusula se elimina solo si:
-- está introducida por un conector subordinante en el griego
-- está estructuralmente debajo de otra cláusula (Paso 6)
+###### También enfatiza que cumplirá completamente Su <u>palabra</u>.
 
-###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
+##### <u>Observación</u> desarrollacional:
+###### Después de hablar del remanente, <u>Isaías</u> dirige la atención a la certeza del cumplimiento de la palabra del Señor.
 
-# DEFINICIÓN OPERATIVA
+###### <u>El</u> siguiente versículo añadirá una segunda cita de Isaías para reforzar el mismo argumento.
 
-###### Una cláusula dependiente es aquella que:
-- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
-- fue colocada debajo de otra cláusula en el Paso 6
+### Romanos 9:29
+Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO DESCENDENCIA, HUBIÉRAMOS LLEGADO A SER COMO SODOMA, Y HECHOS SEMEJANTES A GOMORRA».
 
-👉 Esa es la única base para eliminar
+#### Y como Isaías predijo:
+##### Pablo añade una <u>segunda</u> cita de Isaías.
 
-# CÓMO HACERLO
+###### La cita <u>anterior</u> habló del remanente.
 
-1. Toma el texto reducido y estructurado (Paso 7)
+###### Esta nueva <u>cita</u> explica por qué existe un remanente.
 
-2. Revisa cada cláusula
+###### Pablo continúa apoyando su argumento <u>mediante</u> las Escrituras.
 
-3. Identifica:
-👉 ¿Está esta cláusula debajo de otra?
- 👉 ¿Tiene un conector subordinante en el griego?
+###### Isaías <u>sigue</u> siendo el testigo principal en esta sección.
 
-4. Decide:
-- ✔ Sí → elimínala
-- ❌ No → mantenla
+#### «SI EL SEÑOR DE LOS EJÉRCITOS
+##### La <u>cita</u> comienza con una condición.
 
-5. Repite hasta revisar todo el texto
+###### Todo lo que sigue depende de <u>la</u> acción del Señor.
 
-# RESULTADO
+##### <u>Observación</u> importante:
+###### El énfasis recae en lo que <u>el</u> Señor hizo.
 
-###### Antes (Paso 7):
+###### <u>La</u> explicación no comienza con el pueblo.
 
-```
-no ==pude== hablarles
+###### Comienza <u>con</u> el Señor.
 
-yo ==di a beber==
-    (porque) no ==podían==
+#### NO NOS HUBIERA DEJADO DESCENDENCIA,
+##### Isaías identifica aquello que evitó un <u>resultado</u> diferente.
 
-ni aun ahora ==pueden==
-```
+###### El texto afirma <u>que</u> el Señor dejó descendencia.
 
-###### Después (Paso 8):
+##### <u>Observación</u> desarrollacional:
+###### La existencia de una descendencia es presentada como la razón <u>por</u> la cual el resultado no fue total destrucción.
 
-```
-no ==pude== hablarles
+###### Esto complementa <u>la</u> idea del remanente presentada en el versículo anterior.
 
-yo ==di a beber==
+#### HUBIÉRAMOS LLEGADO A SER COMO SODOMA,
+##### Isaías presenta <u>un</u> resultado hipotético.
 
-```
+###### Si <u>el</u> Señor no hubiera dejado descendencia, el resultado habría sido diferente.
 
-# OBSERVACIÓN INTEGRADA
+###### Sodoma es utilizada como ejemplo <u>de</u> ese resultado.
 
-## 1. SUJETO
+#### Y HECHOS SEMEJANTES A GOMORRA».
+##### La <u>comparación</u> es reforzada con un segundo ejemplo.
 
-###### Mientras identificas el tronco, marcas cambios de sujeto
-- Marca solo cuando el sujeto cambia
-- Debe ser visible en la cláusula
-- No explicas
-- No interpretas
+###### La cita <u>presenta</u>:
+- Sodoma
+- Gomorra
 
-Formato:
+##### <u>Observación</u> importante:
+###### Ambos ejemplos apuntan <u>a</u> la misma conclusión.
 
-```
-[S: sujeto anterior → sujeto nuevo]
-```
+###### <u>Sin</u> la descendencia dejada por el Señor, el resultado habría sido destrucción total.
 
-## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
+###### La cita <u>concluye</u> reforzando la explicación del remanente.
 
-##### DEFINICIÓN
-> \textbf{[M] marca un cambio de función estructural observable en la gramática griega.}
+###### Primero <u>Isaías</u> afirmó:
+> “solo el remanente será salvo”
 
-# REGLA FUNDAMENTAL DE [M]
+###### Ahora <u>explica</u> por qué existe ese remanente.
 
-###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
+##### Observación <u>desarrollacional</u>:
+###### Con <u>esta</u> cita termina la cadena de evidencias tomadas de Oseas e Isaías.
 
-👉 No marcas por contenido
-👉 No marcas por sujeto
-👉 No marcas por contraste
-👉 No marcas por “suena diferente”
+###### En el siguiente versículo Pablo <u>volverá</u> a preguntar:
+> “¿Qué diremos entonces?”
 
-# CRITERIOS OBJETIVOS PARA [M]
+###### El argumento avanzará hacia la relación entre Israel, los gentiles y <u>la</u> justicia.
 
-## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
+> En Síntesis
+>- Pablo responde a la pregunta que domina esta sección: «¿Ha fallado la palabra de Dios?»
+>- Su respuesta es clara: «No es que la palabra de Dios haya fallado».
+>- Para demostrarlo, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios mucho antes de que los acontecimientos ocurrieran.
+>- La historia avanza, las generaciones pasan y las circunstancias cambian, pero la palabra pronunciada por Dios permanece firme.
+>- A lo largo de la sección, Pablo desarrolla distinciones dentro de Israel, apela a la promesa, al llamamiento y al remanente, y responde a diversas objeciones.
+>- El resultado es el mismo una y otra vez: La situación de Israel no demuestra que la palabra de Dios haya fallado; confirma que Dios continúa actuando conforme a lo que había dicho.
 
-Marca [M] si hay un cambio como:
-- Indicativo → Imperativo
-- Indicativo → Exhortación (prohibición, mandato)
+<!-- @quiz quiz-1 -->
 
-Ejemplo:
+## Romanos 9:30–10:21 — Pablo da testimonio sobre Israel
 
-```
-==es== verdad
+### Romanos 9:30
+¿Qué diremos entonces? Que los gentiles, que no iban tras la justicia, alcanzaron justicia, es decir, la justicia que es por fe;
 
-==hagan== esto [M]
-```
+#### ¿Qué diremos entonces?
+##### Pablo <u>introduce</u> una conclusión.
 
-## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
+###### Después <u>de</u> las citas de Oseas e Isaías, el argumento avanza hacia una conclusión.
 
-Ejemplo griego:
+###### La pregunta <u>no</u> queda abierta.
 
-```
-- ὥστε (así que)
-```
+###### Pablo <u>la</u> responde inmediatamente.
 
-Marca [M] solo si:
-- introduce una conclusión independiente
-- cambia de explicación a acción o resolución
+#### Que los gentiles, que no iban tras la justicia,
+##### Pablo <u>comienza</u> con los gentiles.
 
-## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
+###### El punto de partida <u>es</u> sorprendente.
 
-Marca [M] si puedes señalar:
-- explicación → mandato
-- desarrollo → conclusión
+###### Los gentiles son descritos como personas <u>que</u> no iban tras la justicia.
 
-👉 Este cambio debe ser visible en:
-- el verbo (modo)
-- o el conector griego
+#### alcanzaron justicia,
+##### Pablo presenta el <u>resultado</u>.
 
-# LO QUE NO PRODUCE [M]
+###### <u>Aunque</u> no iban tras la justicia, la alcanzaron.
 
-###### ❗ Nunca marques [M] por:
-- cambio de sujeto
-- contraste (pero / ἀλλά / δέ)
-- nueva ilustración
-- repetición
-- progreso del argumento
+##### Observación <u>importante</u>:
+###### El contraste entre punto de partida y resultado es central para la <u>afirmación</u> de Pablo.
 
-👉 Todo esto ocurre dentro del mismo movimiento
+#### es decir, la justicia que es por fe;
+##### Pablo <u>aclara</u> qué clase de justicia tiene en mente.
 
-# PRUEBA MECÁNICA (OBLIGATORIA)
+###### No deja el <u>término</u> sin explicación.
 
-Antes de marcar [M], debes poder responder:
+###### La <u>identifica</u> como:
+> “la justicia que es por fe”
 
-```
-1. ¿El verbo cambia de modo? → sí = posible [M]
+##### Observación <u>desarrollacional</u>:
+###### El tema de <u>la</u> fe vuelve a ocupar el centro del argumento.
 
-2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
+###### El contraste <u>con</u> Israel aparecerá inmediatamente después.
 
-3. ¿Se puede demostrar cambio en función estructural?
-   → sí = [M]
+### Romanos 9:31
+pero Israel, que iba tras una ley de justicia, no alcanzó esa ley.
 
-Si no puedes señalar esto en el griego → NO marcas [M]
-```
+#### pero Israel, que iba tras una ley de justicia,
+##### <u>Pablo</u> presenta el contraste.
 
-# EJEMPLO
+###### Después de hablar <u>de</u> los gentiles, dirige la atención a Israel.
 
-```
-yo ==planté==
-Apolos ==regó==
-[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
+##### Observación <u>importante</u>:
+###### A diferencia de los gentiles, Israel sí <u>iba</u> tras una ley de justicia.
 
-[Así que] nadie ==se jacte==      ← ✔ [M]
-```
+#### no alcanzó esa ley.
+##### <u>Pablo</u> presenta el resultado.
 
-# FORMATO FINAL
+###### El resultado contrasta con <u>la</u> búsqueda.
 
-```
-[S: yo → Apolos]
-Apolos ==regó==
+###### Israel perseguía esa meta, pero no la <u>alcanzó</u>.
 
-[S: Apolos → Dios]
-[pero] Dios ==dio== crecimiento
+###### Los dos versículos <u>forman</u> un contraste paralelo:
+- los gentiles no iban tras la justicia y la alcanzaron
+- Israel iba tras una ley de justicia y no la alcanzó
 
-[S: Dios → nadie]
-[Así que] nadie ==se jacte==   [M]
-```
+###### Pablo responderá <u>inmediatamente</u> la pregunta:
+> “¿Por qué?”
 
-# REGLA DE CONTROL
+### Romanos 9:32
+¿Por qué? Porque no iban tras ella por fe, sino como por obras. Tropezaron en la piedra de tropiezo,
 
-###### ❗ Si no puedes señalar el cambio en la gramática griega:
-👉 NO puedes marcar [M]
+#### ¿Por qué?
+##### <u>Pablo</u> formula la pregunta que surge naturalmente del contraste anterior.
 
-# ENTIENDE
+###### <u>El</u> texto no deja la diferencia sin explicación.
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
+###### <u>Pablo</u> mismo plantea la pregunta.
 
-# PRINCIPIO CLAVE
+#### Porque no iban tras ella por fe,
+##### Pablo presenta la <u>razón</u>.
 
-###### El tronco contiene solo cláusulas independientes.
+###### <u>La</u> explicación comienza con la fe.
 
-###### 👉 [M] marca solo cambios estructurales verificables en el griego.
+###### El <u>problema</u> no es descrito como falta de búsqueda.
 
-# IDEA CLAVE
+###### El problema es descrito <u>en</u> términos de fe.
 
-###### No decides qué es importante
+#### sino como por obras.
+##### Pablo presenta <u>el</u> contraste.
 
-###### 👉 solo eliminas dependencia
+###### La explicación se desarrolla <u>mediante</u> dos caminos opuestos:
+- por fe
+- como por obras
 
-###### 👉 solo marcas cambios demostrables
+##### <u>Observación</u> importante:
+###### El énfasis <u>recae</u> en la manera de buscar, no en la intensidad de la búsqueda.
 
-# ERROR COMÚN
-- Marcar [M] por impresión
-- Usar sujeto como criterio
-- Usar contraste como criterio
-- Marcar demasiados [M]
+#### Tropezaron en la piedra de tropiezo,
+##### Pablo describe el resultado mediante una <u>imagen</u>.
 
-👉 ❌ Incorrecto
+###### El lenguaje cambia <u>de</u> alcanzar/no alcanzar a tropezar.
 
-# CORRECTO
+##### <u>Observación</u> desarrollacional:
+###### La imagen de la <u>piedra</u> prepara la cita que sigue inmediatamente.
 
-- Eliminas solo por dependencia estructural
-- Mantienes cláusulas independientes
-- Marcas [M] solo con evidencia griega
+###### Pablo volverá a <u>apoyar</u> su argumento mediante las Escrituras.
 
-# FRASE CLAVE
-> “Elimino lo dependiente.
->  Marco solo lo que el griego demuestra.”
+### Romanos 9:33
+tal como está escrito: «HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZO Y ROCA DE ESCANDALO; Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».
 
-# QUÉ DEBES NOTAR
+#### tal como está escrito:
+##### Pablo vuelve a apoyar su argumento mediante las <u>Escrituras</u>.
 
-###### Cuando haces bien este paso:
-- el texto se reduce al desarrollo principal
-- desaparece lo subordinado
-- los cambios reales se vuelven visibles
-- [M] aparece raramente
+###### El tropiezo mencionado en el versículo anterior no es <u>una</u> idea nueva.
 
-# TRANSICIÓN
+###### <u>Pablo</u> muestra que ya estaba escrito.
 
-###### En el siguiente paso:
-- 👉 trabajarás con cada cláusula del tronco
-- 👉 identificarás su comportamiento
-- 👉 verás cómo avanza el texto
+###### Romanos 9 continúa respondiendo mediante testimonios tomados de <u>las</u> Escrituras.
 
-###### Aquí defines el tronco
+#### «HE AQUÍ, PONGO EN SIÓN
+##### La cita comienza con una acción realizada por <u>Dios</u>.
 
-###### 👉 luego observas su comportamiento
+###### El sujeto principal de <u>la</u> acción es Dios.
 
-# PASO 9 — MARCAR EL COMPORTAMIENTO
+###### Dios mismo coloca aquello que será descrito en la <u>cita</u>.
 
-## EJECUTA
+#### UNA PIEDRA DE TROPIEZO
+##### <u>La</u> cita identifica aquello con lo que se tropieza.
 
-##### ¿Qué haces?
-###### Nombras qué hace \textbf{cada cláusula}.
+###### La imagen conecta directamente <u>con</u> Romanos 9:32:
+> “Tropezaron en la piedra de tropiezo”.
 
-###### Trabajas con:
-- el tronco (Paso 8)
-- las cláusulas ya estructuradas
+##### Observación <u>importante</u>:
+###### Pablo no <u>abandona</u> la imagen.
 
-##### REGLA CLAVE
-###### ❗ Toda cláusula recibe una etiqueta
-👉 No depende de [M]
+###### La desarrolla <u>mediante</u> la Escritura.
 
-##### REGLA FUNDAMENTAL
-###### ❗ No detectas el cambio
-👉 La estructura ya fue determinada en pasos anteriores  
-👉 Aquí no decides dónde cambia  
+#### Y ROCA DE ESCÁNDALO;
+##### La misma idea es reforzada mediante una segunda <u>imagen</u>.
 
-👉 Solo nombras lo que cada cláusula hace  
+###### La piedra y la roca aparecen juntas para enfatizar <u>el</u> mismo punto.
 
-##### REGLA CRÍTICA
+##### <u>Observación</u> desarrollacional:
+###### La cita continúa explicando <u>el</u> tropiezo mencionado en el versículo anterior.
 
-###### ❗ El orden es fijo:
+#### Y EL QUE CREA EN ÉL
+##### La cita introduce un <u>contraste</u>.
 
-```
-[S] (si existe)
-::ETIQUETA::
-cláusula [M] (si existe)
-```
+###### <u>Hasta</u> ahora el énfasis ha estado en el tropiezo.
 
-##### ❗ ACLARACIÓN
-- [S] va \textbf{arriba de la cláusula}  
-- ::ETIQUETA:: va \textbf{antes de la cláusula}  
-- [M] va \textbf{al final de la cláusula}  
+###### <u>Ahora</u> aparece la fe.
 
-## CÓMO HACERLO
+##### Observación <u>importante</u>:
+###### La fe vuelve a <u>ocupar</u> el centro del argumento.
 
-1. Toma una cláusula  
+###### Esto <u>conecta</u> con la explicación dada en Romanos 9:30–32.
 
-2. Observa su relación con la anterior  
+#### NO SERÁ AVERGONZADO».
+##### La cita concluye con <u>una</u> promesa.
 
-3. Nombra qué hace  
+###### El resultado para <u>quien</u> cree es diferente al resultado de quien tropieza.
 
-## ETIQUETAS PERMITIDAS (FIJAS)
+###### <u>La</u> cita termina contrastando dos resultados:
+- tropiezo
+- no será avergonzado
 
-##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
+##### Observación <u>desarrollacional</u>:
+###### Romanos 9 comenzó <u>preguntando</u>:
+> “¿Ha fallado la palabra de Dios?”
 
-## DEFINICIÓN OPERATIVA
+###### La sección concluye mostrando dos respuestas distintas frente a aquello que Dios <u>ha</u> puesto:
+- unos tropiezan
+- otros creen
 
-###### La etiqueta describe qué hace la cláusula respecto a la anterior
-👉 No explica contenido  
-👉 No añade ideas  
-👉 No interpreta  
+###### Romanos 10 continuará desarrollando <u>el</u> tema de la fe, la justicia y la respuesta de Israel.
 
-## RESULTADO ESPERADO
+### Romanos 10:1
+Hermanos, el deseo de mi corazón y mi oración a Dios por ellos es para su salvación.
 
-```
-::EXPONE::
-yo ==pude== hablarles
+#### Hermanos,
+###### Después de desarrollar el argumento de Romanos 9, Pablo vuelve a hablar <u>de</u> manera personal.
+- Mi deseo...
+- Mi oración...
+- Yo testifico...
+- La palabra está cerca...
+- Todo aquel que invoque...
 
-::EXPONE::
-yo ==di== a beber leche
+##### a diferencia de Romanos 9 donde vemos que es <u>Dios</u> mayormente hablando, ahora en el capítulo veremos que es Pablo dando testimonio en el presente sobre el estado de Israel. 
 
-[S: yo → ellos]
-::RAZÓN::
-no ==podían== recibirlo
+###### El <u>tono</u> del pasaje cambia.
 
-::EXPONE::
-ni aun ahora ==pueden==
+###### Pablo pasa de la argumentación a una declaración <u>personal</u>.
 
-## EJEMPLO CON [M]
+#### el deseo de mi corazón y mi oración a Dios
+##### Pablo describe tanto lo que <u>desea</u> como lo que pide a Dios.
 
-::AFIRMACIÓN::
-no ==hago== nula la gracia [M]
-```
+###### El deseo y la oración <u>aparecen</u> unidos.
 
-## IMPORTANTE
+###### Ambos están dirigidos hacia el <u>mismo</u> objetivo.
 
-###### ❗ El conector ya determinó la relación
-👉 Aquí no decides  
-👉 Solo nombras  
+##### <u>Observación</u> importante:
+###### Pablo no habla de este tema <u>con</u> indiferencia.
 
-##### ❗ [M] ES RESTRINGIDO
-###### Solo aparece si es seguro
-👉 Si no puedes demostrarlo → no lo marcas  
+###### El <u>asunto</u> continúa siendo profundamente personal para él.
 
-## ERRORES COMUNES
+#### por ellos es para su salvación.
+##### Pablo identifica claramente el <u>objeto</u> de su deseo y de su oración.
 
-##### ❌ Poner [S] en línea con la cláusula  
-##### ❌ Poner la etiqueta después  
-##### ❌ Poner [M] antes  
-##### ❌ Etiquetar solo donde hay [M]  
-##### ❌ Interpretar el texto  
+###### Su deseo no es simplemente <u>el</u> bienestar de ellos.
 
-## FRASE CLAVE
-> “No explico el texto.  
-> 👉 Nombró lo que hace cada cláusula.”
+###### Es <u>su</u> salvación.
 
-## ENTIENDE
+##### <u>Observación</u> desarrollacional:
+###### El <u>dolor</u> expresado en Romanos 9:1–3 reaparece ahora en forma de oración.
 
-##### Qué estás haciendo realmente
-###### Estás haciendo visible el comportamiento de cada cláusula.
+###### La preocupación de Pablo por Israel sigue siendo el trasfondo <u>de</u> esta sección.
 
-##### PRINCIPIO CLAVE
-###### Toda cláusula actúa  
+### Romanos 10:2
+Porque yo testifico a su favor de que tienen celo de Dios, pero no conforme a un pleno conocimiento.
 
-###### 👉 Tu trabajo es identificar cómo  
+#### Porque yo testifico a su favor
+##### Pablo presenta su propio testimonio acerca de <u>Israel</u>.
 
-## QUÉ DEBES NOTAR
+###### Después de citar repetidamente a <u>las</u> Escrituras en Romanos 9, ahora habla personalmente.
 
-###### Ahora el texto muestra:
-- qué hace cada cláusula  
-- dónde cambia el sujeto ([S])  
-- dónde hay cambio estructural ([M], si existe)  
+###### El versículo continúa la <u>preocupación</u> expresada en Romanos 10:1:
+> «el deseo de mi corazón y mi oración a Dios por ellos es para su salvación».
 
-👉 Tres capas distintas  
+###### Pablo no habla como <u>un</u> observador distante.
 
-## TRANSICIÓN
+###### Habla como alguien que conoce la situación <u>de</u> Israel.
 
-###### En el siguiente paso:
-👉 ignorarás el contenido  
-👉 leerás solo las etiquetas  
-👉 observarás repetición  
+#### de que tienen celo de Dios,
+##### Pablo reconoce algo positivo acerca <u>de</u> Israel.
 
-###### Aquí nombras  
-###### 👉 luego agrupas
+###### El problema no es ausencia de interés <u>por</u> Dios.
 
-# PASO 10 — DELIMITAR SECCIONES CONTINUAS
+###### Pablo afirma que existe celo por <u>Dios</u>.
 
-## EJECUTA
+###### El versículo reconoce una <u>preocupación</u> real por las cosas de Dios.
 
-##### ¿Qué haces?
-###### Delimitar dónde el texto continúa  
+###### Esta observación prepara el contraste que <u>aparece</u> inmediatamente después.
 
-###### y dónde comienza una nueva sección.
+#### pero no conforme a un pleno conocimiento.
+##### Pablo introduce una corrección <u>importante</u>.
 
-###### Trabajas con:
-- el texto estructurado (Paso 8)  
-- las marcas [M]  
+###### El <u>problema</u> no es la existencia de celo.
 
-##### REGLA FUNDAMENTAL
+###### El problema aparece en la manera en que <u>ese</u> celo está siendo ejercido.
 
-###### ❗ No buscas patrones
+###### El contraste del versículo <u>es</u>:
+- celo de Dios
+- no conforme a un pleno conocimiento
 
-👉 No agrupas por ideas  
-👉 No divides por sentido  
-👉 No usas etiquetas  
-👉 No usas sujeto  
+##### <u>Observación</u> desarrollacional:
+###### Romanos 10 comienza <u>a</u> explicar por qué Israel no ha respondido correctamente a aquello que Dios ha revelado.
 
-👉 Solo observas continuidad y ruptura  
+###### Pablo <u>reconoce</u> la existencia de celo.
 
-##### REGLA CLAVE
-###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
+###### Sin embargo, los versículos siguientes mostrarán que ese celo no condujo a someterse a la justicia de <u>Dios</u>.
 
-👉 Y la única ruptura válida es [M]  
+### Romanos 10:3
+Pues desconociendo la justicia de Dios y procurando establecer la suya propia, no se sometieron a la justicia de Dios.
 
-## CÓMO HACERLO
+#### Pues desconociendo la justicia de Dios
+##### Pablo explica el problema que acaba de <u>identificar</u>.
 
-### 1. Lee el texto línea por línea
-👉 Trabajas sobre el tronco (Paso 8)
+###### El <u>versículo</u> anterior afirmó que tenían celo.
 
+###### Ahora Pablo explica dónde estaba la <u>dificultad</u>.
 
-### 2. Identifica [M]
-👉 Cada vez que aparece [M]:
-- ahí ocurre una ruptura  
-- ahí comienza una nueva sección  
+##### <u>Observación</u> importante:
+###### El <u>problema</u> es descrito en relación con:
+> “la justicia de Dios”
 
-### 3. Agrupa las líneas
-👉 Todas las líneas sin [M] pertenecen a la misma sección  
+###### Pablo afirma que no la <u>reconocieron</u>.
 
-👉 La línea con [M]:
-- marca el cambio  
-- inicia una nueva sección  
+#### y procurando establecer la suya propia,
+##### Pablo añade <u>una</u> segunda descripción.
 
-### 4. Continúa hasta el siguiente [M]
-👉 Repite el mismo proceso  
+###### Junto al desconocimiento aparece un <u>esfuerzo</u> activo.
 
-## RESULTADO ESPERADO
+###### El texto describe una búsqueda <u>por</u> establecer una justicia propia.
 
-```
-[ SECCIÓN 1 ]
+###### Pablo presenta dos movimientos <u>paralelos</u>:
+* desconocer la justicia de Dios
+* procurar establecer la propia
 
-::EXPONE::
-yo ==he sido crucificado==
+#### no se sometieron a la justicia de Dios.
+##### Pablo presenta <u>el</u> resultado.
 
-::CONTRASTE::
-[y] ya no ==vivo==
+###### El versículo culmina con una <u>negativa</u>.
 
-[S: yo → Cristo]
-::CONTRASTE::
-[sino] Cristo ==vive== en mí
+###### La <u>justicia</u> de Dios vuelve a aparecer al final del versículo.
 
-[S: Cristo → yo]
-::EXPONE::
-==vivo== en la fe
+##### <u>Observación</u> importante:
+###### La sección comienza <u>y</u> termina con la misma expresión:
+> “la justicia de Dios”
 
-[ SECCIÓN 2 ]
+###### Esa expresión ocupa <u>el</u> centro del argumento.
 
-::EXPONE::
-no ==hago== nula la gracia [M]
+##### Observación <u>desarrollacional</u>:
+###### <u>El</u> siguiente versículo comenzará con:
+> “Porque...”
 
-[S: yo → Cristo]
-::RESULTADO::
-[entonces] Cristo ==murió== en vano
-```
+###### Pablo explicará por <u>qué</u> ocurrió esto.
 
-## DEFINICIÓN OPERATIVA
+##### Antes de <u>estudiar</u> Romanos 10:6–10
 
-###### Sección continua = conjunto de cláusulas sin ruptura estructural  
+###### <u>Pablo</u> cita Deuteronomio 30. (Deuteronomio 30:1-20)
 
-###### Ruptura = presencia de [M]  
+###### Antes de <u>interpretar</u> la cita, conviene observar algunas preguntas:
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿En qué situación histórica?
+- ¿Por qué Pablo escogió este pasaje?
 
-## REGLA DE CONTROL
+###### <u>También</u> podemos preguntar:
+- ¿Qué parte del argumento de Moisés está utilizando Pablo?
+- ¿Cómo contribuye esta cita al desarrollo de Romanos 9–11?
 
-###### Debes poder señalar:
-- dónde empieza una sección  
-- dónde termina  
-- qué marca el cambio ([M])  
+###### Estas preguntas nos <u>ayudarán</u> a observar el contexto antes de sacar conclusiones.
 
-👉 Si no hay [M], no hay nueva sección  
+### Romanos 10:4
+Porque Cristo es el fin de la ley para justicia a todo aquel que cree.
 
-👉 Aunque el sujeto cambie  
-👉 Aunque haya contraste  
-👉 Aunque el contenido avance  
+#### Porque Cristo es el fin de la ley
+##### Pablo explica <u>la</u> afirmación anterior.
 
-❗ Sin [M], no divides  
+###### <u>El</u> versículo conecta directamente con Romanos 10:3.
 
-## ACLARACIONES IMPORTANTES
+###### <u>Después</u> de hablar de quienes procuraban establecer su propia justicia, Pablo dirige la atención a Cristo.
 
-###### ❗ Las etiquetas no determinan la sección  
-👉 Solo describen cada cláusula  
+###### <u>Cristo</u> ocupa ahora el centro de la explicación.
 
-###### ❗ [S] no determina la sección  
-👉 Solo muestra cambios dentro de la sección  
+###### La razón <u>dada</u> por Pablo comienza con:
+> «Porque Cristo es el fin de la ley».
 
-###### ❗ Solo [M] delimita  
-👉 Es el único criterio válido  
+##### <u>Observación</u>
+###### El versículo no continúa hablando acerca del <u>esfuerzo</u> humano.
 
-## ERRORES COMUNES
+###### La atención <u>se</u> desplaza hacia Cristo.
 
-##### ❌ Crear secciones por “sentido”  
+###### Los versículos siguientes continuarán desarrollando esta afirmación mediante <u>las</u> Escrituras.
 
-##### ❌ Usar etiquetas para dividir  
+#### para justicia
+##### Pablo añade el propósito <u>o</u> resultado de la afirmación.
 
-##### ❌ Usar cambios de sujeto para dividir  
+###### El tema de la <u>justicia</u> continúa siendo central en el argumento.
 
-##### ❌ Forzar divisiones donde no hay [M]  
+###### Ya <u>en</u> Romanos 10:3 apareció el contraste entre:
+- la justicia propia
+- la justicia de Dios
 
-##### ❌ Suponer ruptura sin evidencia en el griego  
+###### Ahora Pablo <u>vuelve</u> a hablar de justicia, pero en relación con Cristo.
 
-## FRASE CLAVE
-> “No divido el texto.  
-> 👉 Sigo las rupturas que el griego muestra.”
+##### <u>Observación</u> desarrollacional
+###### El tema <u>de</u> la justicia conecta este versículo con lo que sigue.
 
-## QUÉ DEBES NOTAR
+###### Los versículos 5–13 continuarán desarrollando cómo las Escrituras hablan acerca de <u>esta</u> justicia.
 
-###### Cuando lo haces bien:
+#### a todo aquel que cree.
+##### Pablo <u>identifica</u> a los beneficiarios de esta justicia.
 
-- el texto permanece continuo la mayor parte del tiempo  
-- las divisiones son pocas y claras  
-- no necesitas explicar nada  
-- la estructura se mantiene estable  
+###### El énfasis recae <u>sobre</u>:
+> «todo aquel que cree».
 
-## TRANSICIÓN
+###### Esta expresión prepara el desarrollo posterior <u>del</u> capítulo.
 
-###### En el siguiente paso:
+###### Más adelante Pablo volverá repetidamente al tema de <u>creer</u>, confesar e invocar.
 
-👉 verificarás si el texto continúa en los siguientes versículos  
-👉 sin reiniciar el proceso  
+##### <u>Observación</u> importante
+###### El versículo <u>funciona</u> como una transición.
 
-👉 Aquí delimitas  
-👉 luego extiendes
+###### Pablo concluye la <u>explicación</u> iniciada en Romanos 10:3.
 
-# PASO 11 — EXTENDER LA CONTINUIDAD
+###### A partir del versículo 5 comenzará a desarrollar esta afirmación <u>mediante</u> citas de Moisés, Isaías y Joel.
 
-## EJECUTA
+> En Síntesis
+>- Pablo concluye la sección anterior afirmando que la diferencia entre Israel y los gentiles no estuvo en la intensidad de la búsqueda, sino en la manera de buscar.
+>- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al buscarla como por obras.
+>- La piedra puesta por Dios produce dos respuestas distintas: unos tropiezan otros creen y no son avergonzados.
+>- Al comenzar Romanos 10, Pablo vuelve a hablar personalmente y expresa su deseo y oración por la salvación de Israel.
+>- Israel tenía celo de Dios, pero no se sometió a la justicia de Dios porque procuró establecer una justicia propia.
+>- La explicación de Pablo conduce finalmente a Cristo, a quien presenta como el fin de la ley para justicia a todo aquel que cree.
 
-##### ¿Qué haces?
-###### Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciendo.
+## Romanos 10:5–13 - La palabra está cerca
 
-##### REGLA CLAVE
-###### ❗ No inicias algo nuevo
-👉 Solo verificas si el desarrollo continúa  
+##### Pablo continúa respondiendo mediante las <u>Escrituras</u>.
 
-##### REGLA FUNDAMENTAL
+###### Después de <u>citar</u> repetidamente a las Escrituras en Romanos 9, ahora dirige la atención a Moisés.
 
-###### ❗ El texto continúa mientras no cambie su desarrollo
-👉 No usas contenido  
-👉 No usas intuición  
-👉 Trabajas con lo ya observado (estructura + etiquetas)  
+###### Antes de estudiar este pasaje, conviene detenernos <u>y</u> hacer algunas preguntas:
 
-## CÓMO HACERLO
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿En qué situación histórica?
+- ¿Por qué Pablo escogió este pasaje?
 
-1. Comienza desde el bloque identificado (Paso 10)
+###### Estas preguntas nos <u>ayudarán</u> a observar el contexto antes de sacar conclusiones.
 
-2. Avanza línea por línea
+##### Una observación <u>importante</u>
 
-3. En cada línea verifica:
+###### A lo largo de Romanos 9–11, Pablo responde repetidamente mediante citas de las <u>Escrituras</u>.
 
-### 1. ¿La etiqueta sigue en el mismo tipo de desarrollo?
-- ✔ Sí → continúa  
-- ❌ No → posible cierre  
+###### Con frecuencia <u>dirige</u> la atención a palabras pronunciadas mucho antes de los acontecimientos que está describiendo.
 
-### 2. ¿El texto sigue haciendo lo mismo?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+- Dios habla a Rebeca (9:12)
+- Dios habla en Malaquías (9:13)
+- Dios habla a Moisés (9:15)
+- Dios habla a Faraón (9:17)
+- Dios habla en Oseas (9:25–26)
+- Isaías habla acerca de Israel (9:27–29)
 
-### 3. ¿Se puede leer junto sin forzar?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+###### Ahora Pablo <u>vuelve</u> a citar a Moisés.
 
-## REGLA CRÍTICA
+##### El contexto <u>de</u> Deuteronomio 30
 
-###### ❗ La extensión termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas interpretar  
+###### La cita <u>proviene</u> de Deuteronomio 30.
 
-## RESULTADO ESPERADO
+###### Moisés está hablando <u>a</u> Israel como nación.
 
-```
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+###### <u>El</u> contexto incluye dispersión, restauración y regreso.
 
-::RAZÓN::
-no ==podían==
-```
+###### Después de hablar de estas realidades, Moisés <u>afirma</u> que la palabra de Dios no está lejos.
 
-👉 La extensión se detiene cuando el desarrollo cambia  
+###### No está <u>en</u> el cielo.
 
-## IMPORTANTE
+###### No está al otro <u>lado</u> del mar.
 
-###### ❗ No extiendes más allá de lo natural
-👉 No fuerzas continuidad  
-👉 No unes desarrollos distintos  
+###### La palabra está <u>cerca</u>.
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+###### Está en <u>la</u> boca.
 
-## ENTIENDE
+###### Está <u>en</u> el corazón.
 
-##### Qué estás haciendo realmente
-###### Estás verificando hasta dónde el texto sigue en el mismo desarrollo.
+##### <u>Observación</u>
+###### Pablo no <u>está</u> citando una frase aislada.
 
-##### PRINCIPIO CLAVE
-###### La extensión dura mientras el texto continúa haciendo lo mismo.
+###### Está citando una sección más amplia donde Moisés habla acerca de una palabra ya dada y ya cercana a <u>Israel</u>.
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio de desarrollo  
+###### Por eso, antes de estudiar Romanos 10:5–13, conviene observar cuidadosamente qué estaba diciendo Moisés y <u>cómo</u> Pablo utiliza esas palabras dentro de su argumento.
 
-## ERROR COMÚN
+##### Una conexión <u>importante</u>
+###### Romanos 10:1–4 ha estado <u>hablando</u> acerca de Israel.
 
-- Extender por parecido superficial  
-- Cortar por intuición  
-- Forzar continuidad  
-- Ignorar cambios reales  
+###### Pablo reconoce su celo por Dios, pero afirma que no se sometieron a la <u>justicia</u> de Dios.
 
-👉 ❌ Incorrecto  
+###### <u>Después</u> declara:
+> «Cristo es el fin de la ley para justicia a todo aquel que cree».
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo  
+###### <u>Inmediatamente</u> después, Pablo dirige la atención a Moisés.
 
-## FRASE CLAVE
-> “La extensión dura mientras el desarrollo no cambia.”
+###### Por <u>esta</u> razón, conviene observar cuidadosamente por qué Pablo escoge este pasaje de Deuteronomio.
 
-## QUÉ DEBES NOTAR
+###### La <u>sección</u> continúa desarrollando el tema de la justicia y la respuesta a la palabra de Dios.
 
-###### Ahora puedes ver:
-- hasta dónde el texto continúa  
-- dónde el desarrollo cambia  
-- el punto donde debes detenerte  
+### Romanos 10:5
+Pues Moisés escribe que el hombre que practica la justicia que es de la ley, vivirá por ella.
 
-## TRANSICIÓN
+#### Pues Moisés escribe
+##### Pablo introduce un testimonio tomado de <u>las</u> Escrituras.
 
-###### En el siguiente paso:
-👉 reconocerás dónde la extensión se detiene  
-👉 delimitarás la unidad  
+###### Después de <u>afirmar</u> que Cristo es el fin de la ley para justicia a todo aquel que cree, Pablo dirige la atención a Moisés.
 
-###### Aquí verificas continuidad  
-###### 👉 luego identificas el cierre
+###### El argumento continúa avanzando mediante las <u>Escrituras</u>.
 
+###### Moisés <u>aparece</u> nuevamente como testigo dentro de la discusión.
 
-# PASO 12 — DELIMITAR LA UNIDAD
+#### que el hombre que practica la justicia
+##### La cita describe a <u>la</u> persona que practica lo que la ley demanda.
 
-## EJECUTA
+###### El <u>énfasis</u> recae sobre la práctica de esta justicia.
 
-##### ¿Qué haces?
-###### Delimitar la unidad identificando hasta dónde el texto desarrolla lo mismo.
+###### Pablo comienza con una declaración tomada <u>de</u> Moisés antes de introducir el siguiente contraste.
 
-##### REGLA CLAVE
+#### que es de la ley,
+##### Pablo identifica el marco de esta <u>justicia</u>.
 
-###### ❗ Trabajas únicamente con:
-- la extensión verificada (Paso 11)  
-- el tronco (Paso 8)  
-- las etiquetas (Paso 9)  
+###### <u>El</u> versículo habla específicamente de:
+> «la justicia que es de la ley».
 
-👉 No usas contenido  
-👉 No usas interpretación temprana  
+###### Esta expresión <u>será</u> contrastada inmediatamente con:
+> «la justicia que es de la fe».
 
-##### REGLA FUNDAMENTAL
+#### vivirá por ella.
+##### La cita concluye con <u>un</u> resultado.
 
-###### ❗ La unidad se define donde la extensión deja de ser natural
+###### La vida aparece <u>vinculada</u> a la justicia descrita en la cita.
 
-👉 Comienza donde inicia el desarrollo  
-👉 Termina donde ese desarrollo cambia  
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo <u>introducirá</u> un contraste.
 
-## CÓMO HACERLO
+###### <u>Pablo</u> pasará de:
+> «la justicia que es de la ley»
 
-1. Toma el texto extendido (Paso 11)
+###### <u>a</u>:
+> «la justicia que es de la fe».
 
-2. Identifica su inicio
-👉 Ahí comienza la unidad  
+### Romanos 10:6
+Pero la justicia que es de la fe, dice así: «NO DIGAS EN TU CORAZÓN: “¿QUIÉN SUBIRÁ AL CIELO?”. Esto es, para hacer bajar a Cristo,
 
-3. Sigue línea por línea
+#### Pero la justicia que es de la fe, dice así:
+##### Pablo introduce una nueva cita de las <u>Escrituras</u>.
 
-4. Detente cuando ocurra:
-👉 cambio en lo que el texto está haciendo  
+###### Ahora <u>comienza</u> a citar Deuteronomio 30.
 
-5. Marca ese punto
-👉 Ahí termina la unidad  
+###### La cita proviene de una sección donde Moisés habla <u>a</u> Israel.
 
-## REGLA CRÍTICA
+###### <u>El</u> contexto incluye dispersión, restauración y regreso.
 
-###### ❗ La unidad termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas evaluar contenido en profundidad  
+###### Después de hablar de estas <u>realidades</u>, Moisés afirma que la palabra de Dios no está lejos.
 
-## RESULTADO ESPERADO
+#### «NO DIGAS EN TU CORAZÓN:
+##### Pablo comienza con las palabras de <u>Moisés</u>.
 
-```
-[INICIO]
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+###### <u>La</u> atención se dirige al corazón.
 
-::RAZÓN::
-no ==podían==
-[FIN]
-```
+###### La expresión <u>prepara</u> las preguntas que siguen.
 
-👉 La unidad se mantiene mientras el desarrollo continúa  
+###### El énfasis no recae en buscar una palabra lejana, sino <u>en</u> la respuesta a una palabra ya dada.
 
-## IMPORTANTE
+#### “¿QUIÉN SUBIRÁ AL CIELO?”.
+##### La primera pregunta mira hacia algo inaccesible para el <u>ser</u> humano.
 
-###### ❗ No fuerzas extensión
-👉 Si no continúa naturalmente, te detienes  
+###### En Deuteronomio, Moisés niega que la palabra de Dios se encuentre fuera del <u>alcance</u> de Israel.
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+###### La <u>pregunta</u> prepara el contraste que aparecerá más adelante:
+> «Cerca de ti está la palabra».
 
-## ENTIENDE
+#### Esto es, para hacer bajar a Cristo,
+##### <u>Pablo</u> aplica la cita al tema que está desarrollando.
 
-##### Qué estás haciendo realmente
-###### Estás reconociendo dónde el texto completa un desarrollo.
+###### La explicación continúa en el versículo <u>siguiente</u>.
 
-##### PRINCIPIO CLAVE
+###### El énfasis sigue estando en <u>la</u> inutilidad de intentar traer aquello que Dios ya ha provisto.
 
-###### La unidad no se define por contenido  
-###### 👉 se define por continuidad de desarrollo  
+### Romanos 10:7
+o “¿QUIÉN DESCENDERÁ AL ABISMO?”. Esto es, para subir a Cristo de entre los muertos».
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio en el desarrollo  
+#### o “¿QUIÉN DESCENDERÁ AL ABISMO?”.
+##### Pablo añade una <u>segunda</u> pregunta.
 
-## ERROR COMÚN
+###### La <u>estructura</u> repite la idea anterior.
 
-- Cortar por sentido superficial  
-- Extender por intuición  
-- Ignorar cambio real de desarrollo  
-- Usar contenido como criterio principal  
+###### La atención continúa dirigida hacia intentos humanos de alcanzar aquello que está <u>fuera</u> de su alcance.
 
-👉 ❌ Incorrecto  
+###### La <u>pregunta</u> prepara nuevamente el contraste que aparecerá en el versículo siguiente.
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo completo  
+#### Esto es, para subir a Cristo de entre los muertos».
+##### Pablo continúa aplicando las palabras de <u>Moisés</u>.
 
-## FRASE CLAVE
-> “La unidad dura mientras el desarrollo no cambia.”
+###### La explicación sigue apuntando a la <u>obra</u> de Cristo.
 
-## QUÉ DEBES NOTAR
+###### El argumento se mueve hacia la afirmación central <u>que</u> aparecerá en el versículo 8.
 
-###### Ahora puedes ver:
-- dónde comienza el desarrollo  
-- dónde termina naturalmente  
-- cómo el texto se organiza en unidades completas  
+### Romanos 10:8
+Pero, ¿qué dice? «CERCA DE TI ESTÁ LA PALABRA, EN TU BOCA Y EN TU CORAZÓN», es decir, la palabra de fe que predicamos:
 
-## TRANSICIÓN
+#### Pero, ¿qué dice?
+##### Después de dos preguntas negativas, Pablo dirige la atención a la <u>afirmación</u> principal de la cita.
 
-###### En el siguiente paso:
-👉 expresarás la acción del tronco  
-👉 usando la unidad delimitada  
+###### El argumento vuelve <u>al</u> punto central de Deuteronomio 30.
 
-###### Aquí reconoces el cierre  
-###### 👉 luego expresas
+###### La pregunta prepara la <u>respuesta</u> que Moisés mismo da.
 
-# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
+#### «CERCA DE TI ESTÁ LA PALABRA,
+##### Esta es la <u>afirmación</u> central de la cita.
 
-## EJECUTA
+###### En Deuteronomio, Moisés <u>insiste</u> en que la palabra no está lejos.
 
-##### ¿Qué haces?
-###### Escribes una sola oración que expresa la acción del tronco dentro de la unidad delimitada.
+###### <u>No</u> está en el cielo.
 
-##### REGLA CLAVE
+###### No está al otro <u>lado</u> del mar.
 
-###### ❗ Trabajas únicamente con:
-- el tronco (Paso 8)  
-- la unidad delimitada (Paso 12)  
+###### La <u>palabra</u> está cerca.
 
-👉 No usas contenido externo  
-👉 No usas interpretación  
+##### Observación <u>importante</u>:
 
-##### REGLA FUNDAMENTAL
+###### El énfasis principal de la cita no es <u>buscar</u> la palabra.
 
-###### ❗ La oración debe salir directamente del tronco
-👉 Cada elemento debe poder señalarse en las cláusulas  
-👉 No añades contenido  
-👉 No completas ideas  
+###### El <u>énfasis</u> es que la palabra ya ha sido dada y está presente.
 
-##### ESTRUCTURA DE LA ORACIÓN
-```
-[Autor] + [verbo permitido] + [contenido del tronco]
-```
+#### EN TU BOCA
+##### Pablo continúa citando <u>a</u> Moisés.
 
-##### VERBOS PERMITIDOS
-```
-expone   afirma   declara   muestra   contrasta
-```
+###### La boca ya aparecía en el <u>texto</u> original de Deuteronomio.
 
-## CÓMO HACERLO
+###### No es una idea introducida por Pablo en <u>este</u> punto.
 
-1. Toma el tronco dentro de la unidad (Paso 12)
+###### El desarrollo continuará <u>en</u> los versículos siguientes.
 
-2. Léelo de principio a fin
+#### Y EN TU CORAZÓN»,
+##### Pablo completa la <u>cita</u>.
 
-3. Recorre todas las cláusulas del tronco
-👉 No seleccionas  
-👉 Incluyes todas las acciones presentes
+###### El corazón también procede directamente <u>de</u> Deuteronomio 30.
 
-4. Construye una sola oración:
-- usando un verbo permitido  
-- manteniendo el contenido del tronco  
-- respetando la secuencia del texto  
+###### Los elementos "<u>boca</u>" y "corazón" forman parte del argumento original de Moisés.
 
-## RESULTADO ESPERADO
+###### <u>Más</u> adelante Pablo desarrollará ambos elementos.
 
-###### Tronco:
+#### es decir, la palabra de fe que predicamos:
+##### <u>Pablo</u> identifica la palabra que está anunciando.
 
-```
-no ==pude== hablarles
+###### El argumento ya no <u>permanece</u> únicamente en Deuteronomio.
 
-les ==di==
+###### Pablo conecta la cita con <u>el</u> mensaje que está siendo proclamado.
 
-no ==podían==
-```
+##### <u>Observación</u> desarrollacional:
+###### Los versículos 9–10 desarrollarán precisamente los dos elementos <u>ya</u> mencionados por Moisés:
+- boca
+- corazón
 
-###### Resultado:
+###### Antes de hablar <u>de</u> creer y confesar, Pablo ya ha establecido que la palabra está cerca.
 
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
+### Romanos 10:9
+que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo.
 
-## REGLA CRÍTICA
+#### que si confiesas con tu boca
+##### <u>Pablo</u> comienza desarrollando uno de los elementos mencionados en Romanos 10:8.
 
-###### ❗ No introduces información nueva
-👉 Si no está en el tronco, no entra  
+###### La <u>boca</u> ya apareció en la cita de Deuteronomio 30.
 
-###### ❗ No cambias la acción
-👉 Mantienes los verbos  
-👉 Mantienes el orden  
+###### Ahora Pablo vuelve a <u>mencionarla</u>.
 
-## IMPORTANTE
+###### El versículo introduce una confesión expresada con la <u>boca</u>.
 
-###### ❗ Es una sola oración
+##### Observación <u>importante</u>:
+###### <u>Los</u> elementos:
+- boca
+- corazón
 
-👉 No divides  
-👉 No agregas explicaciones  
+###### <u>no</u> aparecen por primera vez en Romanos 10:9.
 
-###### ❗ No usas lenguaje interpretativo
+###### <u>Ambos</u> proceden de la cita de Moisés en los versículos anteriores.
 
-❌ “esto enseña…”  
-❌ “esto significa…”  
-❌ “parece que…”  
+#### a Jesús por Señor,
+##### Pablo identifica el <u>contenido</u> de la confesión.
 
-## ENTIENDE
+###### La confesión está <u>centrada</u> en Jesús.
 
-##### Qué estás haciendo realmente
-###### Estás expresando la acción completa del texto en una sola línea.
+###### El versículo no habla <u>de</u> una confesión indefinida.
 
-##### PRINCIPIO CLAVE
-###### El tronco ya contiene la acción  
-###### 👉 aquí solo la haces explícita  
+###### Pablo especifica aquello que es <u>confesado</u>.
 
-##### IDEA CLAVE
-###### No creas la acción  
-###### 👉 la reproduces de forma controlada  
+##### Observación <u>importante</u>:
+###### Pablo no ha abandonado <u>el</u> tema de Cristo.
 
-## ERROR COMÚN
-- Agregar ideas externas  
-- Cambiar los verbos  
-- Alterar el orden  
-- Explicar en lugar de declarar  
+###### Romanos 10 <u>comenzó</u> afirmando:
+> «Cristo es el fin de la ley para justicia a todo aquel que cree».
 
-👉 ❌ Incorrecto  
+###### <u>La</u> atención continúa centrada en Él.
 
-##### CORRECTO
-- Usas solo el tronco  
-- mantienes las acciones  
-- produces una sola oración  
+#### y crees en tu corazón
+##### Pablo <u>introduce</u> el segundo elemento mencionado en Romanos 10:8.
 
-## FRASE CLAVE
-> “No agrego nada.  
-> Solo expreso lo que el tronco ya hace.”
+###### Después de hablar de la <u>boca</u>, ahora habla del corazón.
 
-## REGLA DE CONTROL
+###### Los dos elementos aparecen <u>nuevamente</u> juntos.
 
-###### Cada parte de la oración debe poder señalarse en el tronco
-👉 Si no puedes señalarla → está incorrecta  
+###### Pablo continúa desarrollando <u>el</u> lenguaje tomado de Deuteronomio 30.
 
-## QUÉ DEBES NOTAR
+#### que Dios lo resucitó de entre los muertos,
+##### Pablo identifica el contenido de la fe descrita <u>en</u> el versículo.
 
-###### Ahora puedes ver:
-- la acción completa del texto  
-- el desarrollo como una unidad  
-- la dirección final del pasaje  
+###### <u>La</u> fe está relacionada con la resurrección de Jesús.
 
-## TRANSICIÓN
+###### El énfasis recae sobre lo que Dios <u>hizo</u>.
 
-###### Aquí termina el proceso ROOTS
+#### serás salvo.
+##### El versículo concluye con <u>una</u> promesa de salvación.
 
-👉 Ya tienes:
+###### La declaración presenta <u>el</u> resultado asociado con creer y confesar.
 
-- estructura  
-- comportamiento  
-- patrones  
-- unidad  
-- acción  
+##### <u>Observación</u> desarrollacional:
+###### La palabra que Moisés describía como cercana es <u>ahora</u> desarrollada por Pablo en relación con Jesús.
 
-👉 El texto quedó completamente observado
+###### El <u>argumento</u> continúa avanzando alrededor de la palabra anunciada y la respuesta a ella.
 
-# CONCLUSIONES DE LOS PASOS 1–13
+### Romanos 10:10
+Porque con el corazón se cree para justicia, y con la boca se confiesa para salvación.
 
-## CONTEXTO DEL TEXTO
+#### Porque con el corazón se cree para justicia,
+##### Pablo <u>explica</u> la relación presentada en el versículo anterior.
 
-### ¿Qué haces?
-###### Estableces el marco completo del texto que vas a observar.
+###### El corazón <u>vuelve</u> a aparecer asociado con la fe.
 
-### Definición
-###### Contexto = la unidad + su desarrollo + su acción.
+###### La fe es relacionada <u>con</u> la justicia.
 
-### Cómo hacerlo
+##### Observación <u>importante</u>:
+###### El tema de la <u>justicia</u> continúa ocupando un lugar central en esta sección.
 
-1. Toma la unidad delimitada (Paso 12)
+###### Pablo sigue desarrollando <u>el</u> tema introducido en Romanos 10:3–4.
 
-2. Toma la acción del texto (Paso 13)
+###### El <u>argumento</u> continúa girando alrededor de la justicia de Dios y de la respuesta a ella.
 
-3. Toma los movimientos internos del texto
+##### Observación <u>desarrollacional</u>:
+###### La justicia sigue apareciendo en <u>conexión</u> con la fe.
 
-### Resultado
-###### Sabes:
-- qué texto estás observando
-- cómo se desarrolla
-- qué está haciendo
+###### Pablo no ha abandonado el tema introducido <u>al</u> comienzo del capítulo.
 
-### Principio clave
-###### El contexto no se añade.
+#### y con la boca se confiesa para salvación.
+##### Pablo completa <u>el</u> paralelo.
 
-###### El contexto se establece a partir del texto mismo.
+###### La boca vuelve a <u>aparecer</u> asociada con la confesión.
 
-### Frase clave
-> “Observo cada parte dentro de la unidad que el texto define.”
+###### El <u>versículo</u> mantiene juntos los mismos dos elementos:
+- corazón
+- boca
 
-## H1 — UNIDAD PRINCIPAL
+###### Los dos elementos ya estaban presentes <u>en</u> la cita de Deuteronomio 30.
 
-### ¿Qué haces?
-###### Nombras la unidad completa del texto.
+##### Observación <u>importante</u>:
+###### Pablo no <u>está</u> introduciendo una nueva línea de argumentación.
 
-### Cómo hacerlo
+###### Continúa desarrollando <u>la</u> palabra que, según Moisés, ya estaba cerca:
+- en la boca
+- en el corazón
 
-1. Toma la referencia (Paso 12)
+##### <u>Observación</u> importante:
+###### La palabra cercana descrita por Moisés es <u>ahora</u> explicada por Pablo en relación con Cristo.
 
-2. Toma la oración del Paso 13
+###### La discusión continúa desarrollándose alrededor de la palabra anunciada y de la <u>respuesta</u> a ella.
 
-3. Reduce la oración sin añadir ideas
+##### Observación <u>desarrollacional</u>:
+###### La sección se <u>encuentra</u> dentro de una discusión acerca de Israel.
 
-### Resultado esperado
+###### Romanos 10 comenzó describiendo una situación <u>donde</u> Israel no se sometió a la justicia de Dios.
 
-```
-Referencia
-Título
-```
+###### Después Pablo <u>citó</u> a Moisés para hablar acerca de una palabra que ya estaba cerca.
 
-### Ejemplo
+###### Ahora desarrolla esa palabra <u>antes</u> de volver nuevamente al testimonio de las Escrituras en los versículos siguientes.
 
-```
-Gálatas 2:1–21  
-Pablo expone su interacción con otros y declara la justificación por la fe y su condición en Cristo.
-```
+### Romanos 10:11
+Pues la Escritura dice: «TODO EL QUE CREE EN ÉL NO SERÁ AVERGONZADO».
 
-### Regla
-###### El título debe salir del texto.
+#### Pues la Escritura dice:
+##### Pablo vuelve a apoyar su argumento mediante las <u>Escrituras</u>.
 
-###### No añade ideas.
+###### Después de desarrollar la relación entre creer y confesar, <u>dirige</u> nuevamente la atención a una cita bíblica.
 
-###### No interpreta.
+###### La Escritura vuelve a <u>funcionar</u> como testigo dentro del argumento.
 
-### Regla de reducción
-##### El título (H1) es una versión reducida del Paso 13.
-##### Conserva la acción principal
-##### Elimina los desarrollos internos
+###### Pablo retoma una promesa que ya apareció <u>anteriormente</u> en Romanos 9:33.
 
-### Principio clave
-###### El título resume la acción del texto.
+#### «TODO EL QUE CREE EN ÉL
+##### <u>La</u> cita enfatiza al creyente.
 
-### Errores comunes
-- añadir explicación
-- introducir teología
-- usar lenguaje no presente
+###### El sujeto es presentado <u>de</u> manera amplia:
+> «todo el que cree».
 
-### Frase clave
-> “Nombró la unidad según lo que el texto hace.”
+###### El énfasis recae sobre la fe descrita en esta <u>sección</u>.
 
-## H2 — MOVIMIENTOS INTERNOS
+##### Observación <u>importante</u>:
+###### La fe continúa ocupando un <u>lugar</u> central en el argumento.
 
-### ¿Qué haces?
-###### Identificas y nombras los grupos dentro de la unidad.
+###### Pablo sigue desarrollando el tema <u>introducido</u> desde Romanos 9:30–32.
 
-### Cómo hacerlo
+#### NO SERÁ AVERGONZADO».
+##### La cita presenta una <u>promesa</u>.
 
-1. Toma el tronco (Paso 8)
+###### La declaración <u>ya</u> había sido utilizada por Pablo en Romanos 9:33.
 
-2. Observa los cortes naturales:
-- cambios de sujeto (O1)
-- cambios de desarrollo
+###### La promesa es presentada en términos <u>universales</u>:
+> «todo el que cree».
 
-3. Agrupa las cláusulas que se mantienen juntas
+##### <u>Observación</u> desarrollacional:
+###### La <u>palabra</u> clave ahora es:
+> «todo».
 
-4. Asigna referencia a cada grupo
+###### El siguiente versículo explicará <u>por</u> qué Pablo puede hablar de esta manera.
 
-5. Nombra cada grupo desde el texto
+### Romanos 10:12
+Porque no hay distinción entre judío y griego, pues el mismo Señor es Señor de todos, abundando en riquezas para todos los que le invocan;
 
-### Resultado esperado
+#### Porque no hay distinción entre judío y griego,
+##### <u>Pablo</u> explica la afirmación anterior.
 
-```
-Referencia   Título
-```
+###### <u>El</u> versículo anterior habló de:
+> «todo el que cree».
 
-##### Ejemplo
+###### Ahora Pablo <u>explica</u> por qué puede utilizar esa expresión.
 
-```
-2:1–2   Subida y exposición  
-2:3–10  Interacción  
-2:11–13 Confrontación  
-2:14    Declaración  
-2:15–16 Justificación  
-2:17–21 Condición en Cristo
-```
+##### <u>Observación</u> importante:
+###### El contraste entre judío y <u>gentil</u> ha estado presente a lo largo de Romanos 9–11.
 
-### Regla
-###### Los grupos no se inventan.
+###### Aquí Pablo afirma que no existe distinción en relación con la promesa que acaba de <u>citar</u>.
 
-###### Se observan en el desarrollo.
+#### pues el mismo Señor es Señor de todos,
+##### Pablo presenta la <u>razón</u> de la afirmación anterior.
 
-### Principio clave
-###### H2 muestra cómo se mueve el texto dentro de la unidad.
+###### La explicación <u>comienza</u> con el Señor mismo.
 
-### Errores comunes
-- agrupar por tema
-- dividir demasiado
-- usar títulos interpretativos
+###### El énfasis <u>recae</u> en la unidad del Señor.
 
-### Frase clave
-> “Agrupo lo que el texto mantiene unido.”
+###### El mismo <u>Señor</u> es presentado como Señor de todos.
 
-## RESULTADO FINAL
+#### abundando en riquezas para todos los que le invocan;
+##### Pablo añade una segunda <u>afirmación</u>.
 
-### Ahora tienes:
-- la unidad completa del texto
-- su desarrollo interno
-- su acción
-- su contexto establecido
+###### El énfasis vuelve a recaer sobre la <u>palabra</u>:
+> «todos».
 
-### Estás listo para:
-- observar frase por frase
-- sin perder el desarrollo
-- sin interpretar
+###### El argumento continúa <u>ampliándose</u>:
+- todo el que cree
+- todos los que le invocan
 
-# O₂ — OBSERVAR EL TEXTO
+##### Observación <u>desarrollacional</u>:
+###### Pablo está preparando la cita <u>que</u> aparecerá en el versículo siguiente.
 
-## INTRODUCCIÓN
+###### <u>La</u> referencia a quienes invocan al Señor anticipa directamente la cita de Joel.
 
-##### Qué haces ahora
-###### Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.
+###### <u>El</u> argumento continúa avanzando mediante las Escrituras.
 
-##### Nivel de trabajo
-###### O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.
+### Romanos 10:13
+porque: «TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO».
 
-###### No observas ideas generales.
+#### porque:
+##### Pablo fundamenta <u>la</u> afirmación anterior mediante las Escrituras.
 
-###### No observas secciones completas.
+###### Después de hablar acerca de quienes invocan al Señor, presenta una cita bíblica como <u>respaldo</u>.
 
-###### Observas una frase a la vez.
+###### El argumento continúa avanzando mediante el testimonio de <u>las</u> Escrituras.
 
-##### Contexto
-###### Cada frase se observa dentro de:
-- la unidad (H1)
-- su movimiento (H2)
-- la acción del texto (Paso 13)
+###### Ahora aparece <u>Joel</u> como testigo dentro de la discusión.
 
-###### ❗ Nunca observas una frase aislada.
+#### «TODO AQUEL
+##### La cita comienza con <u>una</u> expresión amplia.
 
-##### Propósito
-###### Ver exactamente lo que el texto dice, sin añadir significado.
+###### La misma amplitud <u>que</u> apareció en los versículos anteriores vuelve a aparecer aquí.
 
-##### Regla central
-###### No interpretas.
-###### No explicas.
-###### No completas.
+###### Pablo continúa desarrollando <u>la</u> idea de:
+> «todo el que cree»
 
-###### 👉 Solo observas lo que está presente.
+###### <u>y</u>:
+> «todos los que le invocan».
 
-## Naturaleza de esta fase
+##### Observación <u>importante</u>:
+###### El énfasis sigue recayendo <u>sobre</u>:
+> «todo».
 
-##### Esta fase es diferente a los pasos anteriores.
-###### En los Pasos 1–13:
-- 👉 debías completar cada paso correctamente
-- 👉 no avanzabas sin haber terminado el anterior
+#### QUE INVOQUE EL NOMBRE DEL SEÑOR
+##### La cita identifica <u>la</u> acción mencionada en el versículo anterior.
 
-###### En O₂:
-- 👉 no necesitas observar todo perfectamente
-- 👉 puedes avanzar mientras aprendes
+###### Pablo acaba de hablar <u>de</u>:
+> «todos los que le invocan».
 
-##### Principio clave
-###### La observación se desarrolla con la práctica.
+###### Ahora Joel confirma esa misma idea <u>mediante</u> las Escrituras.
 
-###### No se exige perfección desde el inicio.
+###### La referencia a invocar ocupa <u>un</u> lugar central en el desarrollo del argumento.
 
-##### Cómo trabajar
-###### Estas categorías no son una lista obligatoria.
+##### Observación <u>importante</u>:
+###### <u>La</u> cita proviene de Joel.
 
-###### Son herramientas para ayudarte a ver mejor el texto.
-- 👉 algunas serán claras de inmediato
-- 👉 otras se desarrollarán con el tiempo
+###### Igual que <u>la</u> cita de Moisés en Romanos 10:6–8, esta declaración pertenece a un contexto más amplio.
 
-##### Regla
-###### No te detienes por no ver todo.
+###### Joel habla <u>dentro</u> de una sección que mira hacia la restauración futura y la intervención de Dios.
 
-###### Avanzas observando lo que puedes ver con claridad.
+#### SERÁ SALVO».
+##### La cita concluye con una <u>promesa</u>.
 
-##### Frase clave
->“Observo con precisión lo que puedo ver, y mejoro con la práctica.”
+###### <u>El</u> resultado asociado con invocar al Señor es la salvación.
 
-## TRABAJAR CADA FRASE (H4)
+###### La promesa es expresada en términos <u>universales</u>:
+> «todo aquel».
 
-##### Qué haces
-###### Tomas una frase ancla (H4) y observas únicamente lo que está en el texto.
+##### Observación <u>importante</u>:
+###### Esta declaración <u>proviene</u> de Joel.
 
-##### Regla
-###### No agregas significado
-###### No explicas
-###### No interpretas
+###### En su contexto original, Joel está hablando dentro de una sección más amplia acerca de la <u>intervención</u> de Dios, la restauración y la liberación de Su pueblo.
 
-###### 👉 Solo afirmas lo que el texto muestra
+###### Pablo toma esta <u>promesa</u> y la incorpora a su argumento para mostrar que las Escrituras ya hablaban de una salvación disponible para quienes invocan al Señor.
 
-##### PROCESO FIJO
-###### Para cada frase, puedes observar lo siguiente:
+##### <u>Observación</u> desarrollacional:
+###### Romanos 10 ha citado <u>sucesivamente</u> a:
+- Moisés
+- Isaías
+- Joel
 
-##### 1. AFIRMACIÓN
-- 👉 ¿Qué afirma el texto?
-- 👉 Escríbelo sin cambiar palabras
+###### Cada uno de estos <u>testimonios</u> ha sido utilizado para apoyar el mismo argumento.
 
-##### 2. SUJETO
-- 👉 ¿Quién realiza la acción?
-- 👉 ¿Está explícito o implícito?
+###### La sección <u>termina</u> afirmando que:
+> «Todo aquel que invoque el nombre del Señor será salvo».
 
-##### 3. VERBO
-- 👉 ¿Qué acción ocurre?
-- 👉 ¿Cómo está expresada?
+##### <u>Observación</u> desarrollacional:
+###### Romanos 10:1 comenzó con <u>el</u> deseo de Pablo por la salvación de Israel.
 
-##### 4. COMPLEMENTO
-- 👉 ¿Sobre qué recae la acción?
-- 👉 ¿Qué se menciona directamente?
+###### Ahora Pablo ha mostrado <u>mediante</u> las Escrituras que:
+- todo el que cree
+- todos los que invocan al Señor
+- participan de esta promesa.
 
-##### 5. RELACIÓN
-- 👉 ¿Cómo se conecta con la frase anterior?
-- 👉 Usa solo lo ya observado (Paso 8–9)
+###### Después de citar a Joel, Pablo comenzará una nueva serie de <u>preguntas</u>:
+> «¿Cómo invocarán...?»
 
-##### 6. REPETICIÓN
-- 👉 ¿Qué palabras o ideas aparecen otra vez?
+###### El argumento avanzará hacia el tema de la proclamación <u>del</u> mensaje.
 
-##### 7. CONTRASTE
-- 👉 ¿Hay oposición directa con otra frase?
+### Romanos 10:14
+¿Cómo, pues, invocarán a Aquel en quien no han creído? ¿Y cómo creerán en Aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique?
 
-##### 8. ÉNFASIS
-- 👉 ¿Qué está resaltado por:
-  - repetición
-  - contraste
-  - posición
-  - formulación?
+#### ¿Cómo, pues, invocarán a Aquel en quien no han creído?
+##### <u>Pablo</u> comienza una serie de preguntas conectadas entre sí.
 
-##### IMPORTANTE
-###### No todas las categorías aplican siempre.
-###### 👉 Solo observas lo que el texto permite ver.
+##### El versículo anterior afirmó:
+> «Todo aquel que invoque el nombre del Señor será salvo».
 
-##### RESULTADO
-###### Produces observaciones:
-- claras
-- breves
-- verificables en el texto
+##### Ahora <u>Pablo</u> comienza a explicar cómo alguien llega a invocar.
 
-##### EJEMPLO (FORMATO)
+##### Observación <u>importante</u>:
+###### La invocación presupone <u>fe</u>.
 
-```
-Frase:
-yo ==di== leche
+###### <u>La</u> pregunta dirige la atención al paso anterior.
 
-Observación:
-- sujeto: yo
-- verbo: di
-- complemento: leche
-- relación: continúa la acción anterior
-```
+#### ¿Y cómo creerán en Aquel de quien no han oído?
+##### <u>Pablo</u> añade un segundo eslabón.
 
-##### REGLA DE CONTROL
-###### Si explicas → te saliste
-###### Si agregas → te saliste
-###### Si interpretas → te saliste
+###### <u>La</u> fe no aparece aislada.
 
-###### Toda observación debe poder señalarse directamente en el texto.
+###### Pablo conecta la <u>fe</u> con oír.
 
-###### ❗ Si no puedes subrayarlo, no es observación.
-###### ❗ Si requiere explicación, es interpretación.
+###### La <u>cadena</u> continúa avanzando hacia atrás:
+- invocar
+- creer
+- oír
 
-##### ERRORES COMUNES
-- explicar el texto
-- resumir
-- añadir ideas
-- usar lenguaje no presente
-- observar fuera del contexto
+#### ¿Y cómo oirán sin haber quien les predique?
+##### <u>Pablo</u> añade un tercer eslabón.
 
-##### QUÉ DEBES NOTAR
+###### El <u>oír</u> presupone que alguien proclame el mensaje.
 
-###### Ahora:
-- ves lo que el texto afirma
-- ves quién actúa
-- ves cómo avanza
-- ves qué repite
-- ves qué contrasta
+##### <u>Observación</u> importante:
+###### El argumento no se concentra solamente en quien <u>responde</u>.
 
-###### 👉 Estás viendo el contenido real del texto
+###### También se concentra en cómo llega el <u>mensaje</u>.
 
-##### TRANSICIÓN
-###### Después de observar todas las frases:
-- 👉 tendrás el contenido completo
-- 👉 sin haber interpretado
-- 👉 listo para la siguiente fase
+##### Observación <u>desarrollacional</u>:
+###### Pablo ha construido una <u>cadena</u> completa:
+- invocar
+- creer
+- oír
+- predicación
 
-# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
+###### El siguiente <u>versículo</u> añadirá un paso más al inicio de la cadena.
 
-## PUNTO DE PARTIDA DEL EJEMPLO
+### Romanos 10:15
+¿Y cómo predicarán si no son enviados? Tal como está escrito: «¡CUAN HERMOSOS SON LOS PIES DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
 
-##### Este ejemplo asume que ya se han completado:
-- Pasos 1–13
-- Conclusiones (Contexto, H1, H2)
+#### ¿Y cómo predicarán si no son enviados?
+##### Pablo retrocede un paso <u>más</u> en la cadena.
 
-###### ❗ La observación de lo que dice el texto no comienza desde cero.
-###### ❗ Comienza desde una estructura ya definido.
+###### Antes habló <u>de</u> la predicación.
 
-## CONCLUSIONES DE LOS PASOS 1–13
+###### <u>Ahora</u> habla del envío.
 
-## H1 — UNIDAD
+###### <u>La</u> cadena queda completa:
+- enviados
+- predican
+- oyen
+- creen
+- invocan
 
-```
-1 Corintios 3:1–4:21 Pablo expone la condición de los creyentes y su desarrollo.
-```
+##### <u>Observación</u> importante:
+###### Pablo <u>está</u> mostrando cómo el mensaje llega a quienes lo escuchan.
 
-## H2 — MOVIMIENTOS INTERNOS
+#### Tal como está escrito:
+##### Pablo vuelve a apoyar su argumento mediante <u>las</u> Escrituras.
 
-```
-3:1–4   Condición de los creyentes  
-3:5–9   Explicación del origen  
-3:10–15 Evaluación de la obra  
-3:16–23 Identidad del creyente  
-4:1–5   Responsabilidad  
-4:6–13  Contraste  
-4:14–21 Exhortación
-```
+###### La proclamación <u>del</u> mensaje no es presentada como algo nuevo.
 
-## CONTEXTO
+###### Pablo muestra <u>que</u> las Escrituras ya hablaban de ello.
 
-###### La frase se observa dentro de:
+#### «¡CUÁN HERMOSOS SON LOS PIES
+##### La cita dirige la <u>atención</u> a los mensajeros.
 
-- la unidad completa (3:1–4:21)
-- el movimiento inicial (3:1–4)
-- la acción del texto (Pablo expone la condición)
+###### La imagen <u>celebra</u> la llegada de quienes traen el mensaje.
 
-## O₂ — OBSERVAR EL TEXTO
+##### <u>Observación</u> importante:
+###### El énfasis no <u>está</u> en los pies mismos.
 
-##### TEXTO — 1 CORINTIOS 3:1
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+###### El énfasis está en <u>aquello</u> que traen.
 
-##### OBSERVACIÓN FRASE POR FRASE (H4)
+#### DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
+##### La cita identifica a <u>los</u> mensajeros por su acción.
 
-##### FRASE 1
+###### Son personas <u>que</u> anuncian buenas noticias.
 
-```
-Así que
-```
-- afirma: introduce consecuencia
-- relación: conecta con lo anterior
-- énfasis: inicio del desarrollo
+##### Observación <u>desarrollacional</u>:
+###### <u>Pablo</u> ha mostrado cómo la salvación anunciada en Romanos 10:13 llega a las personas.
 
-##### FRASE 2
+###### El mensaje debe ser <u>anunciado</u>.
 
-```
-yo
-```
-- afirma: sujeto explícito
-- sujeto: yo
-- relación: agente de la acción
+###### Sin embargo, la siguiente <u>sección</u> mostrará que no todos responden de la misma manera al mensaje anunciado.
 
-##### FRASE 3
+### Romanos 10:16
+Sin embargo, no todos hicieron caso al evangelio, porque Isaías dice: «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
 
-```
-hermanos
-```
-- afirma: destinatarios
-- relación: dirigido a ellos
-- tipo: vocativo
+#### Sin embargo,
+##### Pablo introduce un contraste <u>importante</u>.
 
-##### FRASE 4
+###### La cadena presentada <u>en</u> los versículos anteriores es verdadera.
 
-```
-no pude hablarles
-```
-- afirma: yo no pude hablarles
-- sujeto: yo
-- verbo: pude
+###### Pero eso no significa que todos respondan de la <u>misma</u> manera.
 
-- complemento: hablarles
-- relación: acción principal
+###### El argumento <u>cambia</u> de:
+- cómo llega el mensaje
 
-- morfología (apoyo):
-  - tiempo: pasado
-  - modo: indicativo
-  - voz: activa
-  - negación: no
-- énfasis: negación
+###### <u>a</u>:
+- cómo responden las personas al mensaje.
 
-##### FRASE 5
+#### no todos hicieron caso al evangelio,
+##### <u>Pablo</u> presenta el problema.
 
-```
-como a espirituales
-```
-- afirma: hablar como a espirituales
-- relación: depende de “hablarles”
-- contraste: prepara oposición
+###### El <u>mensaje</u> fue anunciado.
 
-- repetición:
-  - “como a …”
+###### Sin embargo, <u>la</u> respuesta no fue universal.
 
-##### FRASE 6
+##### <u>Observación</u> importante:
+###### <u>El</u> énfasis recae sobre:
+> “no todos”
 
-```
-sino como a carnales
-```
-- afirma: hablar como a carnales
-- relación: contrasta con “espirituales”
-- contraste:
-  - espirituales ↔ carnales
+###### La proclamación del evangelio no garantiza la <u>obediencia</u> de todos los que lo oyen.
 
-- repetición:
-  - “como a …”
+#### porque Isaías dice:
+##### Pablo vuelve a presentar a Isaías como <u>testigo</u> dentro del argumento.
 
-##### FRASE 7
+###### La pregunta ya no gira alrededor <u>del</u> anuncio.
 
-```
-como a niños en Cristo
-```
-- afirma: hablar como a niños en Cristo
-- relación: añade a “carnales”
-- repetición:
-  - “como a …”
+###### Gira alrededor de la respuesta al <u>anuncio</u>.
 
-##### RESULTADO CONSOLIDADO
+#### «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
+##### La <u>cita</u> presenta la misma tensión.
 
-- \scripture{Así que} → consecuencia
-- \scripture{yo} → sujeto
-- \scripture{hermanos} → destinatarios
-- \scripture{no pude hablarles} → acción principal (negada)
-- \scripture{como a espirituales} → forma
-- \scripture{sino como a carnales} → contraste
-- \scripture{como a niños en Cristo} → continuación
+###### <u>Existe</u> un anuncio.
 
+###### <u>Sin</u> embargo, la pregunta gira alrededor de quién lo creyó.
 
-##### LO QUE ESTE EJEMPLO DEMUESTRA
+##### <u>Observación</u> desarrollacional:
+###### Pablo muestra que el <u>problema</u> no es la ausencia de anuncio.
 
-###### La observación:
+###### El <u>problema</u> es la respuesta al anuncio.
 
-- depende de la unidad (H1)
-- depende del movimiento (H2)
-- no ignora ninguna frase
-- no interpreta el texto
+### Romanos 10:17
+Así que la fe viene del oír, y el oír, por la palabra de Cristo.
 
-##### Principio clave
-###### La precisión no viene de explicar más.
+#### Así que la fe viene del oír,
+##### Pablo extrae <u>una</u> conclusión.
 
-###### 👉 Viene de observar mejor.
+###### El versículo <u>anterior</u> habló de creer el anuncio.
 
-##### FRASE CLAVE FINAL
-> “Observo cada frase dentro del texto ya definido.”
+###### El versículo responde directamente a la <u>pregunta</u> planteada en 10:14:
+> «¿Cómo creerán en Aquel de quien no han oído?»
 
-# T — TRAZAR EL TEXTO
+##### <u>Observación</u> importante:
+###### La fe <u>no</u> aparece aislada.
 
-## INTRODUCCIÓN
+###### Pablo la conecta directamente con el <u>oír</u>.
 
-##### El problema de ver sin poder decir
-###### Has observado el texto con precisión.
+#### y el oír, por la palabra de Cristo.
+##### <u>Pablo</u> añade el origen del oír.
 
-###### Has identificado lo que cada frase dice.
+###### El oír está relacionado con la <u>palabra</u> acerca de Cristo.
 
-###### Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.
+###### El argumento <u>mantiene</u> la misma secuencia:
+- palabra
+- oír
+- fe
 
-###### ❗ Muchos ven el texto,
+##### <u>Observación</u> desarrollacional:
+###### Pablo ha respondido <u>a</u> la pregunta de cómo surge la fe.
 
-###### pero no pueden decirlo sin cambiarlo.
+###### El siguiente versículo planteará una nueva <u>objeción</u>:
+> “¿Acaso nunca han oído?”
 
-##### El error de buscar lo oculto
-###### Muchos estudiantes de la Biblia buscan:
-- ideas nuevas
-- puntos profundos
-- cosas que nadie ha visto
+### Romanos 10:18
+Pero yo digo, ¿acaso nunca han oído? Ciertamente que sí: «POR TODA LA TIERRA HA SALIDO SU VOZ, Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
 
-###### ❗ Pero el texto no está escondiendo su mensaje.
+#### Pero yo digo,
+##### Pablo introduce <u>una</u> nueva pregunta.
 
-##### Qué hace un buen estudiante
-###### Un buen estudiante no busca lo que no está.
+###### El argumento continúa avanzando mediante objeciones <u>y</u> respuestas.
 
-###### 👉 Observa lo que ya está en el texto.
-###### 👉 Y puede expresarlo con claridad y fidelidad.
+#### ¿acaso nunca han oído?
+##### Pablo formula <u>la</u> objeción de manera directa.
 
-##### Principio clave
-###### La precisión no está en descubrir algo nuevo.
+###### Si la fe viene del oír, podría preguntarse si el <u>problema</u> fue que nunca oyeron.
 
-###### 👉 Está en decir correctamente lo que ya está.
+##### Observación <u>importante</u>:
+###### <u>La</u> pregunta se enfoca en el oír.
 
-##### Qué haces ahora
-###### Tomas cada frase (H4) y la expresas de forma clara y fiel.
+#### Ciertamente que sí:
+##### <u>Pablo</u> rechaza inmediatamente esa explicación.
 
-##### Nivel de trabajo
-###### T trabaja en el nivel de la \textbf{frase (H4)}.
+###### La respuesta es <u>enfática</u>.
 
-###### No trabajas secciones completas.
+###### El problema no fue falta <u>de</u> oír.
 
-###### No resumes el texto.
+###### Pablo descarta una posible explicación antes <u>de</u> continuar.
 
-###### 👉 Trabajas una frase a la vez.
+#### «POR TODA LA TIERRA HA SALIDO SU VOZ,
+##### Pablo responde a la pregunta planteada en el versículo <u>anterior</u>.
 
-##### Propósito
-###### Entrenar tu capacidad de expresar el texto sin añadir, sin omitir y sin cambiar.
+###### La cuestión <u>era</u>:
+> «¿Acaso nunca han oído?»
 
-##### Naturaleza de esta fase
-###### Este paso no añade contenido nuevo.
+###### La respuesta de <u>Pablo</u> es:
+> «Sí».
 
-###### Este paso toma lo observado (O₂)
+###### La cita es presentada como evidencia de <u>que</u> el mensaje ha sido dado a conocer.
 
-###### y lo convierte en expresión clara.
+##### Observación <u>importante</u>:
+###### El énfasis recae sobre el alcance <u>del</u> anuncio.
 
-###### 👉 Es una prueba de fidelidad y claridad.
+###### La explicación de Pablo no apunta <u>a</u> una falta de proclamación.
 
-##### Frase clave
->“Digo la frase tal como el texto la presenta.”
+###### El mensaje ha <u>salido</u>.
 
-## EJECUTA
+#### Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
+##### La segunda línea amplía aún más el alcance de <u>la</u> cita.
 
-##### ¿Qué haces?
-###### Expresas cada frase del texto de forma clara,
+###### La proclamación es presentada en términos <u>amplios</u>.
 
-###### manteniendo exactamente lo que dice.
+###### El énfasis continúa <u>siendo</u> la difusión del mensaje.
 
-##### Regla
-###### No explicas
-###### No interpretas
-###### No agregas
-###### No reduces
+##### <u>Observación</u> desarrollacional:
+###### Pablo descarta la idea de que <u>el</u> problema haya sido falta de oír.
 
-###### 👉 Solo expresas lo que el texto dice
+###### La siguiente <u>pregunta</u> ya no será:
+> «¿No oyeron?»
 
-##### Cómo hacerlo
+###### <u>Sino</u>:
+> «¿No entendieron?»
 
-1. Toma una frase (H4)
+##### Observación dentro del argumento <u>de</u> Romanos 9–11
 
-2. Usa lo observado en O₂
+###### Desde Romanos 9, Pablo ha estado mostrando que Dios ha hablado repetidamente <u>mediante</u> las Escrituras.
 
-3. Exprésala en una oración clara
+###### Ahora añade que el mensaje también ha sido <u>proclamado</u>.
 
-4. Mantén:
-- el sujeto
-- la acción (si la hay)
-- el contenido
+###### <u>La</u> explicación ya no puede encontrarse en la ausencia de palabra o de anuncio.
 
-##### Nota importante
-###### Algunas frases no son completas por sí solas.
+###### El argumento continúa avanzando <u>hacia</u> la respuesta que se dio a ese mensaje.
 
-###### En esos casos:
-- 👉 usas el contexto inmediato
-- 👉 completas la expresión sin añadir ideas
+### Romanos 10:19
+Y añado: ¿Acaso Israel no sabía? En primer lugar, Moisés dice: «YO LOS PROVOCARÉ A CELOS CON UN PUEBLO QUE NO ES PUEBLO; CON UN PUEBLO SIN ENTENDIMIENTO LOS PROVOCARÉ A IRA».
 
-###### ❗ No explicas
-###### ❗ No cambias palabras
+#### Y añado: ¿Acaso Israel no sabía?
+##### Pablo <u>plantea</u> una nueva pregunta.
 
-##### Resultado esperado
+###### El versículo anterior <u>respondió</u>:
+> “¿No oyeron?”
 
-###### Una expresión clara de la frase,
+###### <u>Ahora</u> la pregunta cambia.
 
-###### completamente trazable al texto.
+##### Observación <u>importante</u>:
+###### <u>El</u> problema ya no es oír.
 
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
+###### <u>La</u> pregunta ahora es:
+> “¿Israel no sabía?”
 
-###### ❗ Solo puedes reorganizar para claridad
+###### Pablo continúa avanzando mediante objeciones <u>y</u> respuestas.
 
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
+#### En primer lugar, Moisés dice:
+##### Pablo introduce al <u>primer</u> testigo.
 
-###### ❗ Solo puedes reorganizar para claridad
+###### La respuesta no comienza con una explicación <u>personal</u>.
 
-## EJEMPLO
+###### <u>Comienza</u> con Moisés.
 
-##### Frase:
-```
-sino como a carnales
-```
+##### <u>Observación</u> importante:
 
-##### Observación (O₂):
-- afirma: forma de hablar como a carnales
-- relación: contrasta con “espirituales”
+###### Pablo responde la pregunta <u>apelando</u> nuevamente a las Escrituras.
 
-##### Trazado:
-```
-Pablo les habló como a carnales.
-```
+#### «YO LOS PROVOCARÉ A CELOS
+##### La cita anuncia una reacción <u>futura</u>.
 
-## COMPARACIÓN
+###### El énfasis recae sobre la <u>provocación</u> a celos.
 
-##### Incorrecto (explicación):
-```
-Pablo dice que ellos eran carnales.
-```
+##### Observación <u>importante</u>:
+###### El sujeto principal de la acción es <u>Dios</u>.
 
-##### Incorrecto (incompleto):
-```
-como a carnales
-```
+###### Dios mismo <u>anuncia</u> lo que hará.
 
-##### Correcto:
-```
-Pablo les habló como a carnales.
-```
+#### CON UN PUEBLO QUE NO ES PUEBLO;
+##### La cita <u>identifica</u> el medio utilizado.
 
-## ENTIENDE
+###### La <u>provocación</u> ocurre mediante un pueblo descrito de manera inesperada:
+> “un pueblo que no es pueblo”.
 
-##### Qué estás haciendo realmente
-###### Estás convirtiendo observación en expresión fiel.
+##### <u>Observación</u> desarrollacional:
+###### Esta expresión recuerda temas que ya <u>aparecieron</u> anteriormente en Romanos 9.
 
-##### Principio clave
-###### Ver el texto no es suficiente.
+#### CON UN PUEBLO SIN ENTENDIMIENTO
+##### La descripción <u>continúa</u>.
 
-###### 👉 Debes poder decirlo correctamente.
+###### El mismo grupo recibe <u>una</u> segunda caracterización.
 
-##### Idea clave
-###### No mejoras el texto.
-###### No lo explicas.
+##### <u>Observación</u> importante:
+###### Pablo todavía no explica la <u>cita</u>.
 
-###### 👉 Lo expresas tal como está.
+###### Primero permite que Moisés <u>hable</u>.
 
-##### Regla de control
-###### Si cambias el contenido → fallaste
-###### Si agregas ideas → fallaste
-###### Si omites partes → fallaste
+#### LOS PROVOCARÉ A IRA».
+##### La <u>cita</u> concluye con una segunda reacción.
 
-##### Errores comunes
-- explicar en lugar de decir
-- añadir palabras no presentes
-- omitir elementos
-- cambiar el sentido
+###### Primero aparecieron los <u>celos</u>.
 
-##### Qué debes notar
+###### <u>Ahora</u> aparece la ira.
 
-###### Cuando lo haces correctamente:
-- la frase se mantiene fiel
-- el contenido es claro
-- puedes expresarla sin distorsión
+###### <u>La</u> respuesta de Pablo a la pregunta:
+> “¿Israel no sabía?”
 
-##### Formación
+###### <u>comienza</u> con una cita de Moisés.
 
-###### Este paso te entrena a:
-- hablar el texto con precisión
-- mantener su contenido
-- comunicar sin distorsionar
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo añadirá un <u>segundo</u> testigo.
 
-###### 👉 Te prepara para enseñar fielmente
+###### Moisés será seguido por <u>Isaías</u>.
 
-##### Frase clave final
-> “No busco lo oculto; expreso lo evidente.”
+### Romanos 10:20
+E Isaías es muy osado, y dice: «FUI HALLADO POR LOS QUE NO ME BUSCABAN; ME MANIFESTÉ A LOS QUE NO PREGUNTABAN POR MÍ».
 
-##### Transición
-###### Ahora no solo ves el texto, puedes expresarlo correctamente.
+#### E Isaías es muy osado, y dice:
+##### <u>Pablo</u> añade un segundo testigo.
 
-###### 👉 Estás listo para someterte a lo que el texto dice.
+###### Después de citar a <u>Moisés</u>, ahora cita a Isaías.
 
-# S — SINTETIZAR
+##### <u>Observación</u> importante:
+###### La respuesta continúa <u>apoyándose</u> en las Escrituras.
 
-## EJECUTA
+###### <u>Moisés</u> habló primero.
 
-##### ¿Qué haces?
-###### Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.
+###### Isaías <u>habla</u> ahora.
 
-##### Regla
+#### «FUI HALLADO
+##### <u>La</u> cita comienza con una afirmación sorprendente.
 
-###### Trabajas únicamente con:
-- la unidad delimitada (Paso 12)
-- los patrones extendidos (Paso 11)
-- el tronco (Paso 8)
+###### El énfasis no recae en la búsqueda de las <u>personas</u>.
 
-###### ❌ No agregas ideas
-###### ❌ No explicas
-###### ❌ No corriges el texto
+###### Recae en el hecho de <u>ser</u> hallado.
 
-- 👉 Solo verificas y expresas
+#### POR LOS QUE NO ME BUSCABAN;
+##### La <u>cita</u> presenta un contraste inesperado.
 
-##### Cómo hacerlo
+###### Los que hallaron no <u>son</u> descritos como personas que estaban buscando.
 
-1. Recorre toda la unidad desde el inicio hasta el final
+##### <u>Observación</u> importante:
+###### La ausencia de búsqueda es enfatizada <u>por</u> la propia cita.
 
-2. Confirma en cada línea:
-- 👉 pertenece a un patrón identificado
-- 👉 mantiene el comportamiento esperado
-- 👉 encaja en el flujo general
+###### Sin embargo, <u>el</u> hallazgo ocurre igualmente.
 
-3. Haz esta pregunta clave:
-- 👉 ¿se sostiene toda la unidad sin romperse?
+#### ME MANIFESTÉ
+##### La misma idea <u>continúa</u> mediante una segunda expresión.
 
-##### Regla de control
-###### Si algo no encaja:
-- 👉 no sintetizas
-- 👉 vuelves a Paso 10–11
+###### La cita sigue destacando <u>la</u> iniciativa del hablante.
 
-1. Si todo se sostiene:
-- 👉 escribe una sola oración usando este formato:
+###### Los dos <u>miembros</u> son paralelos:
+- fui hallado
+- me manifesté
 
-- \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
+#### A LOS QUE NO PREGUNTABAN POR MÍ».
+##### <u>La</u> cita concluye con una segunda descripción negativa.
 
-##### Resultado esperado
-- 👉 Una sola oración que:
+###### <u>Primero</u>:
+> no me buscaban
 
-- representa toda la unidad
-- refleja el flujo completo
-- no añade ni omite contenido
+###### <u>Ahora</u>:
+> no preguntaban por mí
 
-## ENTIENDE
+##### Observación <u>desarrollacional</u>:
+###### <u>Isaías</u> describe una situación inesperada.
 
-##### Qué estás haciendo realmente
-###### Estás cerrando el proceso completo del análisis.
+###### Personas que no buscaban ni preguntaban terminan encontrando aquello que no estaban <u>buscando</u>.
 
-##### Principio clave
-###### No puedes sintetizar lo que no se sostiene.
+###### El siguiente <u>versículo</u> contrastará esta situación con Israel.
 
-##### Idea clave
-###### La síntesis no descubre.
+### Romanos 10:21
+Pero en cuanto a Israel, dice: «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO DESOBEDIENTE Y REBELDE».
 
-###### 👉 Confirma y expresa lo que ya es claro.
+#### Pero en cuanto a Israel, dice:
+##### Pablo <u>introduce</u> un contraste explícito.
 
-##### Advertencia
-###### Si necesitas explicar, te saliste del paso.
+###### <u>El</u> versículo anterior describió a quienes no buscaban.
 
-###### Si agregas ideas, te saliste del paso.
+###### Ahora <u>Pablo</u> dirige la atención directamente a Israel.
 
-###### Si dudas, el flujo no está claro.
+##### <u>Observación</u> importante:
+###### El contraste <u>ya</u> no está implícito.
 
-##### Resultado mental esperado
+###### <u>Israel</u> es mencionado por nombre.
 
-###### Ahora tienes:
-- una unidad verificada
-- un flujo coherente
-- una expresión fiel del texto
+#### «TODO EL DÍA HE EXTENDIDO MIS MANOS
+##### <u>La</u> cita presenta una acción continua.
 
-##### Frase clave final
-> “Solo expreso lo que el texto ya sostiene.”
+###### El énfasis recae sobre la persistencia de <u>la</u> acción.
 
-# CIERRE
+###### <u>La</u> expresión:
+> “todo el día”
+- subraya esa continuidad.
 
-### Has llegado al final del proceso
-###### No comenzaste con ideas.
+##### <u>Observación</u> importante:
+###### La cita describe iniciativa constante <u>por</u> parte del hablante.
 
-###### No comenzaste con interpretación.
+#### A UN PUEBLO DESOBEDIENTE Y REBELDE».
+##### La cita identifica <u>la</u> respuesta del pueblo.
 
-###### Comenzaste con el texto.
+###### El problema <u>descrito</u> no es falta de oportunidad.
 
-### Lo que hiciste
-###### Observaste cómo está construido
+###### El problema es presentado en términos <u>de</u> respuesta.
 
-###### Observaste lo que dice
+###### La cita <u>termina</u> con dos descripciones paralelas:
+- desobediente
+- rebelde
 
-###### Seguiste su desarrollo
+##### Observación <u>desarrollacional</u>:
+###### Romanos 10 termina con <u>una</u> tensión clara:
+- unos no buscaban y hallaron
+- Israel es descrito como desobediente y rebelde
 
-### Y ahora
-###### No estás sobre el <u>texto</u>.
-- 👉 Estás bajo él
+###### Esta tensión conduce directamente a la <u>pregunta</u> que abre Romanos 11:
+> “¿Acaso ha desechado Dios a Su pueblo?”
 
-### Principio final
-###### El texto no necesita ser completado
+>En Síntesis
+>- Pablo contrasta dos respuestas distintas frente a la justicia de Dios.
+>- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al procurar establecer una justicia propia.
+>- Para explicar esta situación, Pablo dirige la atención a Cristo y afirma que Él es el fin de la ley para justicia a todo aquel que cree.
+>- Después apela a Moisés para mostrar que la palabra de Dios no estaba lejos, sino cerca, y desarrolla esa palabra en relación con Cristo, la fe y la respuesta a ella.
+Las Escrituras presentan una promesa amplia: «Todo el que cree», «Todo el que invoque el nombre del Señor»
+>- Finalmente, Pablo demuestra que el problema no fue falta de palabra, falta de anuncio ni falta de oportunidad.
+>- El mensaje fue proclamado, pero Israel es descrito como un pueblo desobediente y rebelde, preparando así la pregunta que abrirá Romanos 11: «¿Acaso ha desechado Dios a Su pueblo?»
 
-###### El texto no necesita ser ajustado
-- 👉 El texto ya comunica
+<!-- @quiz quiz-2 -->
 
-### Lo que queda
-###### No es explicar el texto
+## Romanos 11:1–10 — Dios no ha rechazado a Su pueblo
 
-###### No es defenderlo
-###### No es adaptarlo
-- 👉 Es dejar que el texto tenga la <u>última</u> palabra
+### Romanos 11:1
+Digo entonces: ¿Acaso ha desechado Dios a Su pueblo? ¡De ningún modo! Porque yo también soy israelita, descendiente de Abraham, de la tribu de Benjamín.
 
-### Frase final
-```
-“Dios habló.
-Yo observo.
-Sigo el desarrollo del texto.
-Me someto al texto.”
-```
+#### Digo entonces:
+##### Pablo extrae una conclusión <u>de</u> lo que acaba de decir.
 
-##### Última línea
-###### RO₁O₂TS no es un método para enseñar el texto.
-###### 👉 Es un proceso para dejar que el texto hable.
+###### El versículo anterior terminó describiendo a <u>Israel</u> como:
+- desobediente
+- rebelde
 
-# EJERCICIOS — PRÁCTICA REAL
+###### <u>Ahora</u> Pablo plantea la pregunta que surge naturalmente de esa descripción.
 
-## PROPÓSITO
+###### Romanos 11 comienza respondiendo <u>una</u> objeción.
 
-##### Qué vas a hacer
+#### ¿Acaso ha desechado Dios a Su pueblo?
+##### <u>Pablo</u> formula la pregunta de manera directa.
 
-###### Vas a ejecutar RO₁O₂TS en textos completos.
+###### <u>Después</u> de todo lo dicho sobre Israel, esta es la conclusión que podría parecer más evidente.
 
-###### 👉 No fragmentos
+##### Observación <u>importante</u>:
+###### La pregunta no es acerca de si Israel fue <u>desobediente</u>.
 
-###### 👉 No niveles
+###### <u>La</u> pregunta es si Dios ha rechazado a Su pueblo.
 
-###### 👉 No partes aisladas
+#### ¡De ningún modo!
+##### Pablo responde <u>inmediatamente</u>.
 
-👉 Texto completo → proceso completo
+###### No <u>deja</u> la pregunta abierta.
 
-------
+###### <u>La</u> respuesta es una negación enfática.
 
-##### Regla clave
+##### Observación <u>importante</u>:
+###### La <u>conclusión</u> correcta no es:
+> “Dios ha rechazado a Su pueblo”.
 
-###### ❗ Solo necesitas ver una cosa:
+#### Porque yo también soy israelita,
+##### Pablo presenta <u>una</u> evidencia personal.
 
-👉 \textbf{Qué pasa en Paso 10}
+###### Su <u>respuesta</u> no comienza con una teoría.
 
-- ¿hay patrón?
-- ¿se repite?
-- ¿se rompe?
+###### Comienza <u>con</u> un hecho.
 
-------
+##### Observación <u>importante</u>:
 
-##### Límite
+###### <u>Pablo</u> se identifica explícitamente como israelita.
 
-###### Máximo 2 ejercicios.
+###### Su <u>propia</u> existencia forma parte de la respuesta que está construyendo.
 
-###### 👉 Bien hechos
+#### descendiente de Abraham,
+##### Pablo <u>añade</u> una segunda identificación.
 
-###### 👉 No muchos
+###### No solamente <u>afirma</u> ser israelita.
 
-------
+###### También afirma pertenecer <u>a</u> la descendencia de Abraham.
 
-# EJERCICIO 1 — REPETICIÓN CLARA
+#### de la tribu de Benjamín.
+##### Pablo completa la <u>identificación</u>.
 
-##### TEXTO — 1 Corintios 3:6–8
+###### La referencia se vuelve aún <u>más</u> específica.
 
-```
-Yo planté, Apolos regó, pero Dios daba el crecimiento.
+###### <u>Pablo</u> señala incluso su tribu.
 
-Así que ni el que planta ni el que riega son algo,
-sino Dios que da el crecimiento.
+##### <u>Observación</u> desarrollacional:
+###### <u>La</u> respuesta de Pablo comienza con su propio caso.
 
-El que planta y el que riega son una misma cosa,
-pero cada uno recibirá su propia recompensa conforme a su labor.
-```
+###### En los versículos siguientes ampliará el argumento y mostrará que su <u>caso</u> no es una excepción aislada.
 
-------
+###### La discusión se moverá hacia el tema <u>del</u> remanente.
 
-## EJECUTA
+### Romanos 11:2
+Dios no ha desechado a Su pueblo, al cual conoció con anterioridad. ¿O no saben lo que dice la Escritura en el pasaje sobre Elías, cómo suplica a Dios contra Israel:
 
-1. Pasos 1–7 normalmente
-2. Identifica el tronco (Paso 8)
-3. Marca:
-   - [S]
-   - [M]
-   - etiquetas (Paso 9)
-4. Llega a Paso 10
+#### Dios no ha desechado a Su pueblo,
+##### Pablo <u>repite</u> la respuesta dada en el versículo anterior.
 
-------
+###### <u>La</u> pregunta fue:
+> “¿Acaso ha desechado Dios a Su pueblo?”
 
-## ENFOQUE
+###### La respuesta continúa siendo <u>la</u> misma:
+> “Dios no ha desechado a Su pueblo”.
 
-##### Qué debes ver
+##### Observación <u>importante</u>:
+###### Pablo transforma la negación del versículo anterior en una <u>afirmación</u> directa.
 
-- repetición de ideas
-- contraste con Dios
-- continuidad del tema
+#### al cual conoció con anterioridad.
+##### Pablo <u>añade</u> una descripción del pueblo.
 
-👉 Este texto \textbf{sí tiene patrón claro}
+###### El pueblo mencionado no aparece como un grupo desconocido <u>para</u> Dios.
 
-------
+###### Pablo lo describe como un pueblo que Dios conoció <u>con</u> anterioridad.
 
-# EJERCICIO 2 — PROGRESIÓN CLARA
+##### <u>Observación</u> desarrollacional:
+###### Pablo todavía no desarrolla <u>esta</u> afirmación.
 
-##### TEXTO — Colosenses 1:9–12
+###### Primero dirigirá la atención a <u>un</u> episodio de las Escrituras.
 
-```
-Por esta razón también nosotros, desde el día que lo supimos,
-no hemos cesado de orar por ustedes
+#### ¿O no saben lo que dice la Escritura en el pasaje sobre Elías,
+##### Pablo <u>introduce</u> un nuevo testigo.
 
-y de pedir que sean llenos del conocimiento de su voluntad
+###### Después de <u>utilizar</u> a Moisés e Isaías en Romanos 10, ahora dirige la atención hacia Elías.
 
-en toda sabiduría y comprensión espiritual,
+##### <u>Observación</u> importante:
+###### Pablo sigue respondiendo <u>mediante</u> las Escrituras.
 
-para que anden como es digno del Señor,
+###### La respuesta no depende solamente de su <u>experiencia</u> personal.
 
-agradándole en todo,
+#### cómo suplica a Dios contra Israel:
+##### Pablo <u>identifica</u> el momento específico que tiene en mente.
 
-dando fruto en toda buena obra
+###### No menciona simplemente a <u>Elías</u>.
 
-y creciendo en el conocimiento de Dios;
+###### Menciona una ocasión en la que Elías habló a Dios <u>acerca</u> de Israel.
 
-fortalecidos con todo poder
+##### Observación <u>desarrollacional</u>:
+###### Los <u>versículos</u> siguientes citarán las palabras de Elías.
 
-según la potencia de su gloria,
+###### <u>Primero</u> escucharemos la evaluación de Elías.
 
-para obtener toda perseverancia y paciencia,
+###### Después escucharemos la <u>respuesta</u> de Dios.
 
-con gozo dando gracias al Padre.
-```
+### Romanos 11:3
+«Señor, HAN DADO MUERTE A TUS PROFETAS, HAN DERRIBADO TUS ALTARES; Y SOLO YO HE QUEDADO Y ATENTAN CONTRA MI VIDA».
 
-------
+#### «Señor, HAN DADO MUERTE A TUS PROFETAS,
+##### Elías comienza <u>describiendo</u> la situación que observa.
 
-## EJECUTA
+###### Su atención <u>se</u> dirige a los profetas del Señor.
 
-1. Pasos 1–7
-2. Paso 8 → tronco
-3. Paso 9 → etiquetas
-4. Paso 10 → patrón
+###### <u>La</u> situación presentada es grave.
 
-------
+##### Observación <u>importante</u>:
+###### Elías presenta una evaluación muy negativa del estado <u>de</u> Israel.
 
-## ENFOQUE
+#### HAN DERRIBADO TUS ALTARES;
+##### Elías añade una segunda <u>acusación</u>.
 
-##### Qué debes ver
+###### La descripción continúa acumulando evidencias de deterioro y <u>oposición</u>.
 
-- desarrollo progresivo
-- encadenamiento
-- avance continuo
+###### La percepción de Elías <u>se</u> vuelve cada vez más sombría.
 
-👉 Este texto \textbf{no repite → avanza}
+#### Y SOLO YO HE QUEDADO
+##### Elías pasa de describir <u>al</u> pueblo a describirse a sí mismo.
 
-------
+###### La atención <u>se</u> mueve desde:
+- tus profetas
+- tus altares
 
-# ⚠️ REGLA FINAL
+###### <u>hacia</u>:
+- yo
 
-##### Si no ves Paso 10
+##### <u>Observación</u> importante:
+###### Elías se <u>percibe</u> como el único que permanece.
 
-###### 👉 no hiciste bien Paso 8–9
+###### La sensación dominante <u>es</u> aislamiento.
 
-------
+#### Y ATENTAN CONTRA MI VIDA».
+##### <u>La</u> queja culmina con una amenaza personal.
 
-- # RESPUESTAS — CORREGIDO
+###### Elías no solamente se <u>siente</u> solo.
 
-  ------
+###### También se siente <u>perseguido</u>.
 
-  # RESPUESTA 1 — 1 Corintios 3:6–8
+###### La evaluación de Elías termina en <u>una</u> conclusión implícita:
+> “Solo yo he quedado”.
 
-  ## PASO 8 — TRONCO
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo mostrará que la evaluación de Elías no refleja <u>toda</u> la realidad.
 
-  ```
-  [S: yo → Apolos]
-  Apolos ==regó==
-  
-  [S: Apolos → Dios]
-  (pero) Dios ==daba==
-  
-  [S: Dios → ellos]
-  no ==son== algo
-  
-  [S: ellos → Dios]
-  (sino) Dios ==da==
-  
-  [S: Dios → ellos]
-  ==son== una misma cosa
-  
-  [S: ellos → cada uno]
-  (pero) cada uno ==recibirá==
-  ```
+###### <u>Ahora</u> hablará Dios.
 
-  👉 No [M] (no cambio estructural verificable en griego)
+### Romanos 11:4
+Pero, ¿qué le dice la respuesta divina?: «ME HE RESERVADO SIETE MIL HOMBRES QUE NO HAN DOBLADO LA RODILLA A BAAL».
 
-  ------
+#### Pero, ¿qué le dice la respuesta divina?
+##### Pablo dirige <u>la</u> atención a la respuesta de Dios.
 
-  ## PASO 9 — COMPORTAMIENTO
+###### El versículo anterior <u>presentó</u> la evaluación de Elías.
 
-  ```
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
+###### Ahora <u>escucharemos</u> la respuesta divina.
 
-  ------
+##### Observación <u>importante</u>:
+###### La percepción de Elías no es la <u>palabra</u> final.
 
-  ## PASO 10 — SECCIONES
+###### La respuesta de Dios sí lo <u>es</u>.
 
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
+#### «ME HE RESERVADO
+##### Dios describe una acción <u>realizada</u> por Él mismo.
 
-  👉 ❗ No hay [M]
-   👉 ❗ Todo es UNA sola sección
+###### El énfasis recae <u>sobre</u> lo que Dios hizo.
 
-  ------
+##### <u>Observación</u> importante:
+###### La respuesta <u>no</u> comienza con Elías.
 
-  ## RESULTADO CLAVE
+###### Comienza <u>con</u> Dios.
 
-  👉 El estudiante debe ver:
+#### SIETE MIL HOMBRES
+##### La respuesta corrige la <u>percepción</u> de Elías.
 
-  - continuidad (no ruptura)
-  - contraste repetido
-  - pero SIN división estructural
+###### Elías había <u>dicho</u>:
+> “solo yo he quedado”
 
-  ------
+###### Dios muestra que la realidad era <u>diferente</u>.
 
-  # RESPUESTA 2 — Colosenses 1:9–14
+###### El problema no era la ausencia total de <u>fieles</u>.
 
-  ## PASO 8 — TRONCO
+###### <u>El</u> problema era la percepción limitada de Elías.
 
-  ```
-  [S: nosotros]
-  no ==hemos cesado==
-  
-  [S: nosotros → ustedes]
-  ==sean llenos== 
-  
-  ==anden==
-  
-  ==agraden==
-  
-  ==den fruto==
-  
-  ==crezcan==
-  
-  ==sean fortalecidos==
-  
-  ==obtengan==
-  
-  ==den gracias==
-  ```
+#### QUE NO HAN DOBLADO LA RODILLA A BAAL».
+##### Dios identifica <u>la</u> característica de estos hombres.
 
-  👉 No [M]
-   👉 Todo depende de estructura continua
+###### Son descritos por aquello que no <u>hicieron</u>.
 
-  ------
+###### <u>No</u> se inclinaron ante Baal.
 
-  ## PASO 9 — COMPORTAMIENTO
+##### <u>Observación</u> desarrollacional:
+###### La respuesta de Dios <u>demuestra</u> que no todo Israel había abandonado al Señor.
 
-  ```
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
+###### El siguiente versículo aplicará este <u>mismo</u> patrón al tiempo presente.
 
-  ------
+### Romanos 11:5
+Y de la misma manera, también ha quedado en el tiempo presente un remanente conforme a la elección de la gracia de Dios.
 
-  ## PASO 10 — SECCIONES
+#### Y de la misma manera,
+##### Pablo extrae la <u>conclusión</u> del caso de Elías.
 
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
+###### El <u>episodio</u> no fue citado solamente como historia.
 
-  👉 ❗ No hay [M]
-   👉 ❗ Una sola sección continua
+###### Pablo lo utiliza como modelo para entender la <u>situación</u> actual.
 
-# GLOSARIO BÁSICO
+##### <u>Observación</u> importante:
+###### Elías y el tiempo presente son colocados en <u>paralelo</u>.
 
-### VERBO
-##### Palabra que expresa una acción o estado.
+#### también ha quedado en el tiempo presente
+##### Pablo aplica <u>el</u> patrón al presente.
 
-### SUJETO
-##### Quien realiza la acción del verbo.
+###### Lo que ocurrió en los días de <u>Elías</u> también tiene una correspondencia en el ahora.
 
-### COMPLEMENTO
-###### Lo que recibe o completa la acción del verbo.
+###### El argumento se <u>mueve</u> de:
+- entonces
+- ahora
 
-### CLÁUSULA
-###### Unidad con verbo que expresa una idea.
+#### un remanente
+##### <u>Pablo</u> identifica la realidad presente.
 
-### CONECTOR
-###### Palabra que une cláusulas y muestra su relación.
+###### <u>La</u> respuesta a la pregunta de Romanos 11:1 continúa desarrollándose.
 
-### TRONCO
-###### Conjunto de cláusulas principales que sostienen el desarrollo del texto.
+###### Dios no ha rechazado a Su <u>pueblo</u>.
 
-### COMPORTAMIENTO
-###### Función que una cláusula cumple dentro del desarrollo del texto.
+###### Existe <u>un</u> remanente.
 
-### PATRÓN
-###### Secuencia de comportamiento que se repite.
+##### <u>Observación</u> importante:
+###### El remanente <u>ocupa</u> ahora el centro del argumento.
 
-### UNIDAD
-###### Tramo completo donde el mismo desarrollo se mantiene.
+#### conforme a la elección de la gracia de Dios.
+##### Pablo <u>añade</u> la descripción del remanente.
 
-### MORFOLOGÍA
-###### Forma de una palabra y lo que esa forma indica.
+###### No solamente <u>afirma</u> que existe.
 
-### VERBO FINITO
-###### Verbo que está conjugado y expresa persona y número.
+###### También describe la base <u>sobre</u> la cual existe.
 
-### TIEMPO (VERBO)
-###### Indica cuándo ocurre la acción (pasado, presente, futuro).
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo explicará la relación <u>entre</u> gracia y obras.
 
-### MODO (VERBO)
-###### Indica cómo se presenta la acción.
-- indicativo → como real
-- subjuntivo → como posibilidad o condición
-- imperativo → como mandato
+###### La <u>atención</u> se moverá hacia la palabra:
+> “gracia”.
 
-### VOZ
-###### Relación entre el sujeto y la acción.
-- activa → el sujeto hace la acción
-- pasiva → el sujeto recibe la acción
+### Romanos 11:6
+Pero si es por gracia, ya no es a base de obras, de otra manera la gracia ya no es gracia.
 
-### PERSONA
-###### Quién realiza la acción.
-- primera → yo / nosotros
-- segunda → tú / ustedes
-- tercera → él / ellos
+#### Pero si es por gracia,
+##### Pablo desarrolla la descripción del remanente del <u>versículo</u> anterior.
 
-### NÚMERO
-###### Cantidad del sujeto.
-- singular → uno
-- plural → más de uno
+###### El remanente existe según la <u>elección</u> de la gracia de Dios.
 
-### NOMINATIVO
-###### Caso que normalmente indica el sujeto.
+###### Ahora Pablo se concentra en <u>la</u> palabra:
+> gracia
 
-### ACUSATIVO
-###### Caso que normalmente indica el objeto directo.
+#### ya no es a base de obras,
+##### Pablo establece un <u>contraste</u>.
 
-### GENITIVO
-###### Caso que indica relación o posesión.
+###### Presenta <u>dos</u> categorías distintas:
+- gracia
+- obras
 
-### DATIVO
-###### Caso que indica destinatario o beneficio.
+##### <u>Observación</u> importante:
+###### Pablo <u>no</u> las presenta como fundamentos combinados.
 
-### VOCATIVO
-###### Caso que indica llamado directo.
+###### <u>Las</u> presenta como categorías diferentes.
 
-### INDICATIVO
-###### Modo verbal que presenta la acción como real.
+#### de otra manera la gracia ya no es gracia.
+##### Pablo <u>explica</u> la razón.
 
-### SUBJUNTIVO
-###### Modo verbal que presenta la acción como posible o condicionada.
+###### <u>Si</u> la base fuera otra, la gracia dejaría de ser gracia.
 
-### IMPERATIVO
-###### Modo verbal que expresa mandato.
+###### <u>El</u> énfasis del versículo no recae sobre las obras.
 
-### CONTRASTE
-###### Relación donde una idea se opone a otra.
+###### Recae sobre la naturaleza <u>de</u> la gracia.
 
-### REPETICIÓN
-###### Elemento que aparece más de una vez en el texto.
+##### Observación <u>desarrollacional</u>:
+###### Después de <u>aclarar</u> la base del remanente, Pablo volverá a la situación general de Israel.
 
-### ÉNFASIS
-###### Elemento que el texto resalta por repetición, posición o contraste.
+### Romanos 11:7
+Entonces ¿qué? Aquello que Israel busca no lo ha alcanzado, pero los que fueron escogidos lo alcanzaron y los demás fueron endurecidos.
+
+#### Entonces ¿qué?
+##### Pablo <u>extrae</u> una conclusión.
+
+###### Después de hablar del remanente <u>y</u> de la gracia, ahora resume la situación.
+
+###### <u>La</u> pregunta prepara una respuesta resumida.
+
+#### Aquello que Israel busca no lo ha alcanzado,
+##### Pablo <u>comienza</u> con el resultado relacionado con Israel.
+
+###### Israel aparece <u>buscando</u>.
+
+###### Sin embargo, no <u>alcanza</u> aquello que busca.
+
+##### <u>Observación</u> importante:
+###### Pablo enfatiza el contraste <u>entre</u> búsqueda y resultado.
+
+#### pero los que fueron escogidos lo alcanzaron
+##### <u>Pablo</u> presenta el contraste.
+
+###### Lo que Israel no alcanzó, otro <u>grupo</u> sí lo alcanzó.
+
+###### El versículo queda dividido en dos <u>resultados</u> diferentes:
+- no alcanzó
+- alcanzó
+
+#### y los demás fueron endurecidos;
+##### Pablo <u>añade</u> un tercer grupo.
+
+###### Primero habló de <u>Israel</u>.
+
+###### <u>Después</u> habló de los escogidos.
+
+###### Ahora <u>habla</u> de los demás.
+
+##### <u>Observación</u> importante:
+
+###### El versículo <u>termina</u> con la palabra:
+> endurecidos
+
+###### Esa afirmación será desarrollada y respaldada por las Escrituras en los versículos <u>siguientes</u>.
+
+##### Observación <u>desarrollacional</u>:
+###### Pablo ha resumido la situación actual en tres <u>declaraciones</u>:
+- Israel busca
+- la elección alcanza
+- los demás son endurecidos
+
+###### Los <u>versículos</u> siguientes explicarán este endurecimiento con citas de las Escrituras.
+
+### Romanos 11:8
+tal como está escrito: «DIOS LES DIO UN ESPÍRITU EMBOTADO, OJOS CON QUE NO VEN Y OÍDOS CON QUE NO OYEN, HASTA EL DÍA DE HOY».
+
+#### tal como está escrito:
+##### Pablo apoya con <u>las</u> Escrituras la afirmación que acaba de hacer.
+
+###### El <u>versículo</u> anterior terminó diciendo:
+> “los demás fueron endurecidos”.
+
+###### Ahora Pablo muestra que este patrón ya estaba <u>escrito</u>.
+
+##### <u>Observación</u> importante:
+###### Pablo no presenta el endurecimiento como <u>una</u> idea nueva.
+
+###### Lo apoya <u>con</u> las Escrituras.
+
+#### «DIOS LES DIO UN ESPÍRITU EMBOTADO,
+##### La cita describe una <u>condición</u> dada por Dios.
+
+###### El énfasis recae <u>en</u> la incapacidad de responder correctamente.
+
+##### <u>Observación</u> importante:
+###### Pablo continúa explicando el endurecimiento <u>mencionado</u> en el versículo anterior.
+
+#### OJOS CON QUE NO VEN
+##### <u>La</u> cita utiliza la imagen de los ojos.
+
+###### Los ojos <u>están</u> presentes.
+
+###### Sin <u>embargo</u>, no ven.
+
+###### La descripción <u>apunta</u> a una falta de percepción.
+
+#### Y OÍDOS CON QUE NO OYEN,
+##### La cita añade una segunda <u>imagen</u> paralela.
+
+###### Ahora la atención se dirige a <u>los</u> oídos.
+
+###### Los oídos <u>están</u> presentes.
+
+###### Sin <u>embargo</u>, no oyen.
+
+###### Los dos paralelos comunican la <u>misma</u> idea:
+- ojos que no ven
+- oídos que no oyen
+
+#### HASTA EL DÍA DE HOY».
+##### La cita añade <u>una</u> referencia temporal.
+
+###### La condición descrita no aparece <u>como</u> algo momentáneo.
+
+###### La cita la <u>presenta</u> como una realidad que continúa hasta el presente.
+
+##### <u>Observación</u> desarrollacional:
+
+###### Pablo sigue <u>explicando</u> el endurecimiento mencionado en Romanos 11:7.
+
+###### El <u>siguiente</u> versículo añadirá otro testigo de las Escrituras.
+
+###### Después de Moisés e Isaías, ahora <u>aparecerá</u> David.
+
+### Romanos 11:9
+Y David dice: «SU BANQUETE SE CONVIERTA EN LAZO Y EN TRAMPA, Y EN PIEDRA DE TROPIEZO Y EN RETRIBUCIÓN PARA ELLOS.
+
+#### Y David dice:
+##### Pablo añade otro testigo de las <u>Escrituras</u>.
+
+###### Después de la cita <u>anterior</u>, ahora introduce a David.
+
+##### <u>Observación</u> importante:
+###### <u>Pablo</u> continúa respaldando su argumento mediante las Escrituras.
+
+###### El <u>endurecimiento</u> mencionado en Romanos 11:7 sigue siendo el tema.
+
+#### «SU BANQUETE
+##### La cita comienza con algo que <u>normalmente</u> se asociaría con provisión y bienestar.
+
+###### La atención se dirige a aquello <u>que</u> pertenece a ellos.
+
+##### Observación <u>importante</u>:
+###### Lo que sigue <u>mostrará</u> una inversión inesperada.
+
+#### SE CONVIERTA EN LAZO
+##### La cita presenta un cambio de <u>función</u>.
+
+###### Lo que estaba <u>delante</u> de ellos se convierte en ocasión de captura.
+
+###### <u>La</u> cita comienza una serie de imágenes negativas.
+
+#### Y EN TRAMPA,
+##### David añade una segunda <u>imagen</u>.
+
+###### <u>La</u> idea anterior es reforzada mediante una expresión paralela.
+
+##### Observación <u>importante</u>:
+###### La <u>acumulación</u> de imágenes aumenta la intensidad de la descripción.
+
+#### Y EN PIEDRA DE TROPIEZO
+##### La cita continúa desarrollando la <u>misma</u> idea.
+
+###### Ahora aparece <u>el</u> lenguaje de tropiezo.
+
+##### Observación <u>desarrollacional</u>:
+
+###### El tema del tropiezo ya ha aparecido <u>anteriormente</u> en Romanos.
+
+###### La <u>imagen</u> vuelve a surgir dentro de esta descripción.
+
+#### Y EN RETRIBUCIÓN PARA ELLOS.
+##### La cita concluye con <u>una</u> consecuencia.
+
+###### La secuencia termina con una <u>referencia</u> a retribución.
+
+###### La cita presenta <u>una</u> cadena creciente:
+- lazo
+- trampa
+- tropiezo
+- retribución
+
+##### <u>Observación</u> desarrollacional:
+###### David continúa describiendo la condición que <u>Pablo</u> está utilizando para explicar el endurecimiento.
+
+###### La cita todavía no ha <u>terminado</u>.
+
+###### El siguiente versículo añadirá una segunda línea <u>a</u> la misma declaración de David.
+
+### Romanos 11:10
+«OSCURÉZCANSE SUS OJOS PARA QUE NO PUEDAN VER, Y DOBLA SUS ESPALDAS PARA SIEMPRE».
+
+#### OSCURÉZCANSE SUS OJOS
+##### David continúa <u>describiendo</u> la condición presentada en la cita anterior.
+
+###### La imagen vuelve a enfocarse en <u>la</u> incapacidad de percibir.
+
+##### <u>Observación</u> importante:
+###### La descripción es paralela a lo que ya apareció <u>en</u> Romanos 11:8.
+
+###### El <u>tema</u> sigue siendo el endurecimiento.
+
+#### PARA QUE NO PUEDAN VER,
+##### La cita explica el resultado <u>de</u> la imagen anterior.
+
+###### Los ojos están <u>presentes</u>.
+
+###### Sin <u>embargo</u>, no ven.
+
+###### La <u>misma</u> idea se repite una vez más:
+- ojos
+- incapacidad para ver
+
+#### Y DOBLA SUS ESPALDAS PARA SIEMPRE».
+##### David añade una <u>segunda</u> imagen.
+
+###### Ahora la atención <u>se</u> dirige a la espalda.
+
+###### <u>La</u> descripción comunica una condición continua.
+
+##### <u>Observación</u> importante:
+###### La cita concluye reforzando la <u>realidad</u> descrita en Romanos 11:7.
+
+##### Observación <u>desarrollacional</u>:
+###### Después de confirmar el endurecimiento mediante <u>las</u> Escrituras, Pablo formulará una nueva pregunta.
+
+###### La siguiente cuestión <u>ya</u> no será:
+> “¿Fueron endurecidos?”
+
+###### <u>Sino</u>:
+> “¿Tropezaron para caer?”
+
+> En Síntesis
+>- Pablo responde directamente a la pregunta: «¿Acaso ha desechado Dios a Su pueblo?» Su respuesta es clara desde el comienzo: «¡De ningún modo!»
+>- Para demostrarlo, Pablo apela primero a su propio caso y luego al ejemplo de Elías, mostrando que Dios siempre ha preservado un remanente.
+>- El mismo patrón continúa en el tiempo presente: Existe un remanente conforme a la elección de la gracia de Dios.
+>- Pablo afirma que aquello que Israel buscaba no lo alcanzó, mientras que los escogidos lo alcanzaron y los demás fueron endurecidos.
+>- Finalmente, apela nuevamente a las Escrituras para mostrar que este endurecimiento no es una realidad inesperada ni ajena al testimonio bíblico.
+>- La siguiente sección planteará una nueva pregunta: «¿Acaso tropezaron para caer?»
+
+## Romanos 11:11–32 — El propósito de Dios permanece
+
+##### Hasta <u>este</u> punto Pablo ha demostrado que existe un remanente.
+
+##### Ahora comienza a explicar por qué el tropiezo actual de Israel no <u>es</u> el final de la historia.
+
+##### Romanos 11:11–32 avanza <u>repetidamente</u> desde:
+###### <u>rechazo</u> presente
+###### ↓
+###### beneficio <u>para</u> los gentiles
+###### ↓
+###### restauración <u>futura</u> de Israel
+
+### Romanos 11:11
+Digo entonces: ¿Acaso tropezaron para caer? ¡De ningún modo! Pero por su transgresión ha venido la salvación a los gentiles, para causarles celos.
+
+#### Digo entonces:
+##### <u>Pablo</u> introduce una nueva pregunta.
+
+###### La pregunta surge directamente de la discusión <u>anterior</u> acerca de Israel.
+
+###### Después de hablar del remanente y <u>del</u> endurecimiento, Pablo continúa desarrollando el tema.
+
+#### ¿Acaso tropezaron para caer?
+##### Pablo <u>formula</u> la pregunta que va a dirigir esta sección.
+
+###### <u>El</u> versículo gira alrededor de dos ideas:
+- tropezar
+- caer
+
+##### Observación <u>importante</u>:
+###### La pregunta busca aclarar <u>el</u> significado del tropiezo de Israel.
+
+###### <u>El</u> resto de la sección desarrollará esta cuestión.
+
+#### ¡De ningún modo!
+##### Pablo responde <u>inmediatamente</u>.
+
+###### La respuesta <u>es</u> enfática.
+
+###### Pablo rechaza la conclusión implícita en <u>la</u> pregunta.
+
+##### <u>Observación</u> importante:
+###### El versículo no permite concluir <u>que</u> el tropiezo sea el final de la historia.
+
+###### Pablo continúa desarrollando el argumento después de negar esa <u>conclusión</u>.
+
+#### Pero por su transgresión ha venido la salvación a los gentiles,
+##### Pablo introduce una <u>consecuencia</u> del tropiezo de Israel.
+
+###### La atención se desplaza <u>hacia</u> aquello que ocurrió a partir de su transgresión.
+
+###### <u>El</u> resultado mencionado es:
+> «la salvación a los gentiles».
+
+##### Observación <u>importante</u>:
+###### Pablo no se detiene <u>en</u> la transgresión misma.
+
+###### Dirige la atención hacia lo que ocurrió a partir <u>de</u> ella.
+
+#### para causarles celos.
+##### <u>Pablo</u> añade un propósito adicional.
+
+###### La llegada de la salvación a los gentiles no es presentada como <u>el</u> punto final del argumento.
+
+###### Pablo afirma que también <u>tiene</u> relación con Israel.
+
+##### Observación <u>desarrollacional</u>:
+###### Este tema <u>volverá</u> a aparecer en los versículos siguientes.
+
+###### La sección <u>comienza</u> con una secuencia que continuará desarrollándose:
+- transgresión
+- salvación a los gentiles
+- celos
+
+###### Los versículos posteriores ampliarán cada uno <u>de</u> estos elementos.
+
+### Romanos 11:12
+Y si su transgresión es riqueza para el mundo, y su fracaso es riqueza para los gentiles, ¡cuánto más será su plenitud!
+
+#### Y si su transgresión es riqueza para el mundo,
+##### Pablo <u>continúa</u> desarrollando la afirmación del versículo anterior.
+
+###### Acaba de decir que por su transgresión vino la salvación a <u>los</u> gentiles.
+
+###### Ahora considera las implicaciones de ese <u>hecho</u>.
+
+##### Observación <u>importante</u>:
+###### La transgresión de Israel es <u>asociada</u> con riqueza para el mundo.
+
+###### Pablo sigue describiendo aquello que <u>resultó</u> de su transgresión.
+
+#### y su fracaso es riqueza para los gentiles,
+
+##### Pablo repite la misma idea mediante una <u>expresión</u> paralela.
+
+###### <u>El</u> resultado continúa siendo:
+- riqueza
+- para los gentiles
+
+###### Los dos primeros <u>miembros</u> avanzan juntos.
+
+###### <u>Ambos</u> describen lo que ocurrió a partir de la situación de Israel.
+
+##### <u>Observación</u> importante:
+###### Pablo todavía está hablando de <u>resultados</u> ya ocurridos.
+
+###### Todavía no ha llegado al <u>punto</u> principal de la comparación.
+
+#### ¡cuánto más será su plenitud!
+
+##### Pablo llega <u>al</u> clímax de la comparación.
+
+###### El <u>énfasis</u> recae sobre:
+> «cuánto más».
+
+###### Después de describir los resultados de la transgresión y del <u>fracaso</u>, dirige la atención hacia la plenitud.
+
+##### <u>Observación</u> importante:
+###### La <u>comparación</u> no termina con la transgresión.
+
+###### Tampoco termina <u>con</u> el fracaso.
+
+###### <u>Pablo</u> dirige la mirada hacia algo que llama:
+> «su plenitud».
+
+##### <u>Observación</u> desarrollacional:
+###### El argumento <u>comienza</u> a mirar más allá de la situación presente.
+
+###### Pablo establece <u>una</u> comparación entre:
+- transgresión
+- fracaso
+
+###### <u>y</u>
+- plenitud
+
+###### Los <u>versículos</u> siguientes continuarán desarrollando esta expectativa.
+
+### Romanos 11:13
+Pero a ustedes hablo, gentiles. Entonces, puesto que yo soy apóstol de los gentiles, honro mi ministerio,
+
+#### Pero a ustedes hablo, gentiles.
+##### Pablo se <u>dirige</u> ahora directamente a los gentiles.
+
+###### Esta es la primera vez en la sección que identifica <u>tan</u> claramente a su audiencia inmediata.
+
+##### Observación <u>importante</u>:
+###### El foco del <u>discurso</u> cambia.
+
+###### Pablo comienza a hablar <u>directamente</u> a las naciones.
+
+#### puesto que yo soy apóstol de los gentiles,
+##### Pablo explica por qué les habla <u>de</u> esta manera.
+
+###### Su ministerio está relacionado directamente <u>con</u> ellos.
+
+###### Pablo conecta sus palabras <u>con</u> su propia misión.
+
+#### honro mi ministerio,
+##### Pablo <u>afirma</u> el valor de su servicio.
+
+###### No minimiza su <u>ministerio</u>.
+
+###### Lo presenta <u>como</u> algo importante dentro del propósito de Dios.
+
+##### <u>Observación</u> desarrollacional:
+
+###### El <u>siguiente</u> versículo explicará por qué Pablo habla así a los gentiles.
+
+###### Aparecerá nuevamente un tema ya mencionado <u>anteriormente</u>:
+> provocar celos.
+
+### Romanos 11:14
+si en alguna manera puedo causar celos a mis compatriotas y salvar a algunos de ellos.
+
+#### si en alguna manera
+
+##### Pablo expresa una esperanza relacionada con <u>su</u> ministerio.
+
+###### No presenta el resultado <u>como</u> algo automático.
+
+###### Habla de aquello <u>que</u> espera alcanzar mediante el ministerio que desarrolla entre los gentiles.
+#### puedo causar celos a mis compatriotas
+##### Pablo retoma un tema que ya apareció anteriormente en esta <u>sección</u>.
+
+###### Romanos 11:11 <u>afirmó</u>:
+> «por su transgresión ha venido la salvación a los gentiles, para causarles celos».
+
+###### Ahora Pablo vuelve a mencionar esa misma <u>idea</u>.
+
+##### Observación <u>importante</u>:
+###### Los <u>celos</u> continúan formando parte del desarrollo del argumento.
+
+###### Pablo sigue describiendo un proceso que involucra tanto a los <u>gentiles</u> como a Israel.
+
+##### Observación <u>desarrollacional</u>:
+###### La secuencia <u>continúa</u> avanzando:
+
+- salvación a los gentiles
+- celos
+- salvación
+
+#### y salvar a algunos de ellos.
+
+##### Pablo expresa <u>el</u> propósito que persigue.
+
+###### No busca simplemente <u>provocar</u> una reacción.
+
+###### Su esperanza es que algunos sean <u>salvados</u>.
+
+##### Observación <u>importante</u>:
+###### El ministerio <u>de</u> Pablo entre los gentiles continúa conectado con Israel.
+
+###### Su mirada permanece <u>puesta</u> en su propio pueblo.
+
+##### Observación <u>desarrollacional</u>:
+###### El <u>siguiente</u> versículo ampliará la comparación iniciada anteriormente.
+
+###### Después de <u>hablar</u> de transgresión, riqueza y plenitud, Pablo pasará a hablar de:
+- rechazo
+- reconciliación
+- aceptación
+
+###### La atención continúa desplazándose hacia aquello que espera <u>que</u> ocurra.
+
+### Romanos 11:15
+Porque si el excluirlos a ellos es la reconciliación del mundo, ¿qué será su admisión, sino vida de entre los muertos?
+
+#### Porque si el excluirlos a ellos es la reconciliación del mundo,
+##### <u>Pablo</u> continúa la comparación iniciada en los versículos anteriores.
+
+###### <u>Primero</u> habló de:
+- transgresión
+- riqueza
+
+###### Ahora habla <u>de</u>:
+- rechazo
+- reconciliación
+
+##### Observación <u>importante</u>:
+###### Pablo <u>sigue</u> describiendo resultados asociados con la situación presente de Israel.
+
+###### <u>El</u> rechazo es relacionado con:
+> «la reconciliación del mundo».
+
+#### ¿qué será su admisión,
+##### Pablo dirige nuevamente la atención hacia el otro lado de la <u>comparación</u>.
+
+###### Igual que en el versículo 12, el énfasis recae sobre <u>aquello</u> que todavía espera.
+
+###### La <u>pregunta</u> mira más allá de la situación presente.
+
+##### <u>Observación</u> importante:
+###### Toda la fuerza <u>del</u> argumento descansa sobre el contraste.
+
+###### Pablo <u>compara</u>:
+- rechazo
+- admisión
+
+###### y pregunta cuál será el resultado de esa <u>admisión</u>.
+
+#### sino vida de entre los muertos?
+##### Pablo responde con una expresión <u>de</u> máxima intensidad.
+
+###### La admisión <u>es</u> asociada con:
+> «vida de entre los muertos».
+
+###### La comparación alcanza aquí su punto más <u>alto</u>.
+
+##### <u>Observación</u> importante:
+###### Pablo no minimiza aquello que <u>ya</u> ocurrió.
+
+###### La reconciliación del mundo sigue <u>siendo</u> presentada como algo grande.
+
+###### Sin <u>embargo</u>, vuelve a dirigir la atención hacia algo todavía mayor.
+
+##### <u>Observación</u> desarrollacional:
+###### El mismo patrón aparece repetidamente <u>en</u> esta sección:
+- transgresión → riqueza
+- fracaso → riqueza
+- plenitud → mucho más
+
+###### <u>y</u> ahora:
+- rechazo → reconciliación
+- admisión → vida de entre los muertos
+
+###### Los versículos siguientes <u>comenzarán</u> a explicar por qué Pablo puede hablar de esta manera.
+
+### Romanos 11:16
+Y si el primer pedazo de masa es santo, también lo es toda la masa; y si la raíz es santa, también lo son las ramas.
+
+#### Y si el primer pedazo de masa es santo,
+##### Pablo <u>introduce</u> una nueva comparación.
+
+###### <u>Después</u> de hablar del rechazo y de la admisión, utiliza una ilustración tomada de la masa.
+
+###### La atención se dirige <u>primero</u> a una porción.
+
+#### también lo es toda la masa;
+##### Pablo completa <u>la</u> primera comparación.
+
+###### La relación <u>es</u> presentada entre:
+- una porción
+- el conjunto
+
+##### Observación <u>importante</u>:
+###### <u>Pablo</u> conecta una parte con aquello a lo que pertenece.
+
+###### La comparación avanza desde la porción <u>hacia</u> la totalidad.
+
+#### y si la raíz es santa,
+##### Pablo introduce <u>una</u> segunda comparación.
+
+###### Ahora cambia de la imagen de la masa a <u>la</u> imagen de un árbol.
+
+###### <u>La</u> atención se dirige a la raíz.
+
+##### Observación <u>importante</u>:
+###### La <u>raíz</u> ocupará un lugar importante en los versículos siguientes.
+
+###### Pablo está preparando <u>una</u> nueva ilustración.
+
+#### también lo son las ramas.
+##### Pablo completa <u>el</u> paralelo.
+
+###### La relación ahora <u>es</u>:
+- raíz
+- ramas
+
+###### <u>La</u> comparación avanza desde la raíz hacia las ramas.
+
+##### <u>Observación</u> desarrollacional:
+
+###### Las dos comparaciones siguen el mismo <u>patrón</u>:
+- porción → masa
+- raíz → ramas
+
+###### Ambas preparan la <u>ilustración</u> que Pablo desarrollará a continuación.
+
+###### Los <u>siguientes</u> versículos explicarán la relación entre raíz y ramas mediante la imagen de un olivo.
+
+### Romanos 11:17
+Pero si algunas de las ramas fueron desgajadas, y tú, siendo un olivo silvestre, fuiste injertado entre ellas y fuiste hecho participante con ellas de la rica savia de la raíz del olivo,
+
+#### Pero si algunas de las ramas fueron desgajadas,
+##### Pablo comienza a desarrollar la ilustración <u>del</u> olivo.
+
+###### Después de <u>introducir</u> la relación entre raíz y ramas (11:16), ahora describe algo que ocurrió con algunas ramas.
+
+##### <u>Observación</u> importante:
+###### El texto <u>dice</u>:
+> «algunas de las ramas».
+
+###### No <u>dice</u>:
+> «todas las ramas».
+
+###### La atención debe permanecer en lo que <u>Pablo</u> afirma.
+
+#### y tú,
+##### Pablo se dirige directamente al <u>lector</u> gentil.
+
+###### La ilustración ya no es presentada <u>solamente</u> de manera general.
+
+###### Ahora incluye una <u>aplicación</u> directa.
+
+#### siendo un olivo silvestre,
+##### Pablo describe la condición <u>inicial</u> del gentil dentro de la ilustración.
+
+###### La imagen utilizada es la de un olivo <u>silvestre</u>.
+
+##### Observación <u>importante</u>:
+###### Pablo comienza describiendo <u>su</u> condición anterior.
+
+###### Todavía no habla de aquello <u>que</u> recibió.
+
+#### fuiste injertado entre ellas
+##### Pablo describe una acción <u>que</u> ocurrió sobre el gentil.
+
+###### El énfasis recae en aquello que le <u>fue</u> hecho.
+
+###### El texto <u>dice</u>:
+> «fuiste injertado».
+
+###### No <u>dice</u>:
+> «te injertaste».
+
+##### Observación <u>importante</u>:
+###### <u>El</u> movimiento de la ilustración es:
+- fuera
+- dentro
+
+###### El gentil pasa a ocupar una nueva <u>posición</u> dentro del árbol.
+
+#### y fuiste hecho participante
+##### Pablo añade el resultado <u>de</u> ese injerto.
+
+###### El énfasis se desplaza hacia <u>la</u> participación.
+
+###### El <u>gentil</u> ya no aparece como alguien separado.
+
+###### Ahora <u>participa</u> junto con otros.
+
+#### con ellas de la rica savia de la raíz del olivo,
+##### Pablo identifica aquello de lo <u>cual</u> participa.
+
+###### La participación está relacionada <u>con</u>:
+- la raíz
+- la savia
+- el olivo
+
+##### <u>Observación</u> importante:
+###### La riqueza no es presentada como <u>algo</u> originado en las ramas.
+
+###### <u>La</u> atención continúa dirigiéndose hacia la raíz.
+
+##### Observación <u>desarrollacional</u>:
+###### La ilustración ya <u>ha</u> presentado:
+
+- raíz
+- ramas naturales
+- ramas desgajadas
+- olivo silvestre
+- injerto
+- participación
+
+###### El <u>siguiente</u> versículo comenzará una advertencia dirigida al gentil.
+
+###### Pablo pasará de describir <u>el</u> injerto a corregir una posible actitud equivocada:
+> «no te jactes contra las ramas».
+
+### Romanos 11:18
+no seas arrogante para con las ramas. Pero si eres arrogante, recuerda que tú no eres el que sustenta la raíz, sino que la raíz es la que te sustenta a ti.
+
+#### no seas arrogante para con las ramas.
+##### Pablo introduce la primera advertencia directa <u>de</u> esta sección.
+
+###### Después de describir el injerto y la participación en <u>la</u> raíz, ahora corrige una posible actitud equivocada.
+
+##### Observación <u>importante</u>:
+###### <u>La</u> advertencia está dirigida al gentil injertado.
+
+###### La arrogancia mencionada no <u>es</u> presentada de manera general.
+
+###### Está dirigida <u>específicamente</u>:
+> «para con las ramas».
+
+#### Pero si eres arrogante,
+##### Pablo considera la posibilidad de que esa actitud <u>aparezca</u>.
+
+###### No afirma que <u>necesariamente</u> ocurrirá.
+
+###### Sin embargo, considera necesario advertir <u>contra</u> ella.
+
+##### Observación <u>desarrollacional</u>:
+###### La corrección que sigue se <u>enfoca</u> en la relación entre:
+- la raíz
+- las ramas
+
+#### recuerda que tú no eres el que sustenta la raíz,
+##### Pablo corrige la manera de pensar del <u>orgulloso</u>.
+
+###### El <u>injertado</u> no ocupa la posición de fundamento.
+
+###### <u>No</u> sostiene la raíz.
+
+##### <u>Observación</u> importante:
+###### La advertencia dirige la atención hacia el <u>origen</u> del sustento.
+
+###### Pablo corrige cualquier percepción de autosuficiencia <u>o</u> superioridad.
+
+#### sino que la raíz es la que te sustenta a ti.
+##### Pablo establece <u>el</u> orden correcto de la ilustración.
+
+###### La <u>raíz</u> sostiene a las ramas.
+
+###### No las ramas a <u>la</u> raíz.
+
+##### <u>Observación</u> importante:
+
+###### Toda la corrección gira <u>alrededor</u> de esta relación de dependencia.
+
+###### El énfasis recae <u>sobre</u> aquello que sostiene al injertado.
+
+##### <u>Observación</u> desarrollacional:
+###### La advertencia prepara la respuesta que aparecerá en el siguiente <u>versículo</u>.
+
+###### Pablo comenzará a responder el razonamiento <u>que</u> podría surgir:
+> «Las ramas fueron desgajadas para que yo fuera injertado».
+
+### Romanos 11:19
+Dirás entonces: «Las ramas fueron desgajadas para que yo fuera injertado».
+
+#### Dirás entonces:
+##### Pablo pone en palabras <u>el</u> razonamiento que podría surgir después de la advertencia anterior.
+
+###### <u>Acaba</u> de advertir:
+> «no seas arrogante para con las ramas».
+
+###### Ahora expresa la manera de pensar que podría producir <u>esa</u> arrogancia.
+
+##### <u>Observación</u> importante:
+###### Pablo no <u>está</u> afirmando esta conclusión.
+
+###### <u>Está</u> preparándose para responderla.
+
+#### «Las ramas fueron desgajadas
+
+##### La objeción <u>comienza</u> con algo que Pablo ya ha afirmado.
+
+###### Algunas ramas fueron <u>desgajadas</u>.
+
+###### Esa <u>parte</u> de la afirmación no es corregida.
+
+##### Observación <u>importante</u>:
+###### El problema <u>no</u> está en este hecho.
+
+###### El problema aparecerá <u>en</u> la conclusión que se construye a partir de él.
+
+#### para que yo fuera injertado».
+##### La <u>atención</u> se desplaza hacia el "yo".
+
+###### El razonamiento <u>termina</u> centrándose en el injertado.
+
+###### Toda la afirmación apunta al <u>beneficio</u> recibido por él.
+
+##### <u>Observación</u> importante:
+###### <u>La</u> frase coloca al injertado en el centro de la historia.
+
+###### Precisamente esa perspectiva <u>será</u> corregida por Pablo en el siguiente versículo.
+
+##### Observación <u>desarrollacional</u>:
+###### La secuencia del argumento continúa <u>siendo</u>:
+
+- ramas desgajadas
+- injerto
+- arrogancia
+
+###### Pablo responderá concediendo parte de <u>la</u> afirmación.
+
+###### Sin embargo, mostrará que la explicación <u>correcta</u> no conduce al orgullo, sino a una reflexión acerca de la fe.
+
+### Romanos 11:20
+Muy cierto. Fueron desgajadas por su incredulidad, pero tú por la fe te mantienes firme. No seas altanero, sino teme;
+
+#### Muy cierto.
+##### Pablo concede parte <u>de</u> la afirmación anterior.
+
+###### Sí, las ramas <u>fueron</u> desgajadas.
+
+###### Pero la explicación correcta <u>todavía</u> necesita ser aclarada.
+
+#### Fueron desgajadas por su incredulidad,
+##### <u>Pablo</u> identifica la razón del desgajamiento.
+
+###### <u>El</u> problema no fue falta de importancia.
+
+###### El problema fue <u>incredulidad</u>.
+
+##### <u>Observación</u> importante:
+###### Pablo dirige la atención a la causa <u>real</u>.
+
+#### pero tú por la fe te mantienes firme.
+##### <u>Pablo</u> establece el contraste.
+
+###### Ellos <u>aparecen</u> relacionados con incredulidad.
+
+###### <u>Tú</u> apareces relacionado con fe.
+
+##### Observación <u>importante</u>:
+###### Pablo no atribuye la permanencia <u>a</u> superioridad.
+
+###### <u>La</u> relaciona con la fe.
+
+#### No seas altanero,
+##### <u>Pablo</u> vuelve a la advertencia.
+
+###### La fe no debe convertirse en motivo <u>de</u> orgullo.
+
+##### <u>Observación</u> importante:
+###### El peligro sigue siendo la <u>arrogancia</u>.
+
+#### sino teme;
+##### Pablo presenta la <u>actitud</u> correcta.
+
+###### La respuesta apropiada no es <u>confianza</u> en uno mismo.
+
+###### <u>Es</u> temor.
+
+##### Observación <u>desarrollacional</u>:
+###### El siguiente <u>versículo</u> explicará por qué Pablo da esta advertencia tan seria.
+
+###### La razón será tomada del <u>mismo</u> ejemplo que acaba de mencionar.
+
+### Romanos 11:21
+porque si Dios no perdonó a las ramas naturales, tampoco a ti te perdonará.
+
+#### porque si Dios no perdonó a las ramas naturales,
+##### Pablo explica la razón de la advertencia <u>anterior</u>.
+
+###### <u>El</u> mandato:
+> "teme"
+
+###### <u>ahora</u> recibe una explicación.
+
+##### <u>Observación</u> importante:
+###### Pablo dirige la atención a las ramas <u>naturales</u>.
+
+###### Ellas forman <u>el</u> ejemplo que debe ser considerado.
+
+#### tampoco a ti te perdonará.
+##### Pablo aplica la <u>conclusión</u> al injertado.
+
+###### El argumento sigue una <u>lógica</u> sencilla.
+
+###### Si <u>Dios</u> actuó así con las ramas naturales, el injertado no debe sentirse inmune.
+
+##### <u>Observación</u> importante:
+###### El propósito del versículo no es producir <u>arrogancia</u>.
+
+###### Es <u>eliminarla</u>.
+
+##### Observación <u>desarrollacional</u>:
+
+###### El siguiente versículo reunirá ambos <u>lados</u> del argumento.
+
+###### Pablo hablará <u>simultáneamente</u> de:
+* bondad
+* severidad
+
+###### y volverá a enfatizar <u>la</u> importancia de permanecer.
+
+### Romanos 11:22
+Mira, pues, la bondad y la severidad de Dios: severidad para con los que cayeron, pero para ti, bondad de Dios si permaneces en Su bondad. De lo contrario también tú serás cortado.
+
+#### Mira, pues, la bondad y la severidad de Dios:
+##### Pablo resume la advertencia mediante dos <u>realidades</u> que deben considerarse juntas.
+
+###### El texto no presenta <u>solamente</u> bondad.
+
+###### Tampoco <u>presenta</u> solamente severidad.
+
+###### <u>Pablo</u> llama al lector a considerar ambas.
+
+##### <u>Observación</u> importante:
+###### La exhortación <u>comienza</u> con un mandato:
+> Mira.
+
+###### Pablo quiere que el lector observe cuidadosamente <u>lo</u> que está explicando.
+
+#### severidad para con los que cayeron,
+##### Pablo aplica la severidad <u>a</u> un grupo específico.
+
+###### La <u>severidad</u> aparece relacionada con los que cayeron.
+
+##### <u>Observación</u> importante:
+###### <u>Pablo</u> sigue utilizando la imagen de las ramas desgajadas.
+
+#### pero para ti, bondad de Dios
+##### Pablo presenta el otro lado <u>del</u> contraste.
+
+###### Sobre el injertado aparece la bondad de <u>Dios</u>.
+
+##### <u>Observación</u> importante:
+###### <u>El</u> contraste no es entre dos dioses.
+
+###### Es entre dos aspectos del <u>mismo</u> Dios.
+
+#### si permaneces en Su bondad.
+##### Pablo añade una <u>condición</u>.
+
+###### La exhortación ya no trata solamente de cómo alguien <u>entró</u>.
+
+###### Ahora trata de <u>permanecer</u>.
+
+##### <u>Observación</u> importante:
+###### <u>El</u> énfasis del versículo recae en permanecer.
+
+#### De lo contrario también tú serás cortado.
+##### Pablo <u>vuelve</u> a la advertencia.
+
+###### El injertado no <u>debe</u> interpretar su posición como una garantía para la arrogancia.
+
+##### <u>Observación</u> desarrollacional:
+###### <u>El</u> siguiente versículo introduce una nota de esperanza.
+
+###### Pablo dirigirá la atención nuevamente hacia las ramas que <u>fueron</u> cortadas.
+
+### Romanos 11:23
+Y también ellos, si no permanecen en su incredulidad, serán injertados, pues poderoso es Dios para injertarlos de nuevo.
+
+#### Y también ellos,
+##### Pablo vuelve a hablar <u>de</u> las ramas que fueron desgajadas.
+
+###### Después <u>de</u> advertir al injertado, ahora dirige la atención nuevamente hacia ellos.
+
+##### Observación <u>importante</u>:
+###### Pablo no los presenta como un caso <u>cerrado</u>.
+
+#### si no permanecen en su incredulidad,
+##### Pablo <u>identifica</u> el problema específico.
+
+###### El obstáculo señalado <u>por</u> el texto es la incredulidad.
+
+##### Observación <u>importante</u>:
+###### La condición no está relacionada <u>con</u> su origen.
+
+###### Está relacionada con <u>la</u> incredulidad.
+
+#### serán injertados,
+##### <u>Pablo</u> declara una posibilidad real.
+
+###### Las ramas que fueron desgajadas pueden volver a ser <u>injertadas</u>.
+
+##### <u>Observación</u> importante:
+###### El corte no es presentado <u>aquí</u> como irreversible.
+
+#### pues poderoso es Dios
+##### Pablo fundamenta esta <u>esperanza</u> en Dios.
+
+###### La atención se <u>desplaza</u> de las ramas a la capacidad de Dios.
+
+##### Observación <u>importante</u>:
+###### La confianza del argumento <u>no</u> descansa en el hombre.
+
+###### <u>Descansa</u> en Dios.
+
+#### para injertarlos de nuevo.
+##### Pablo concluye <u>repitiendo</u> la imagen del injerto.
+
+###### El mismo Dios que injertó anteriormente puede injertar <u>nuevamente</u>.
+
+##### <u>Observación</u> desarrollacional:
+###### El siguiente <u>versículo</u> desarrollará un argumento de "cuánto más".
+
+###### Si <u>Dios</u> hizo algo inesperado con ramas silvestres,
+
+###### <u>cuánto</u> más puede hacerlo con las ramas naturales.
+
+### Romanos 11:24
+Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre, y contra lo que es natural fuiste injertado en un olivo cultivado, ¿cuánto más estos, que son las ramas naturales, serán injertados en su propio olivo?
+
+#### Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre,
+##### Pablo vuelve a <u>la</u> ilustración del olivo.
+
+###### Comienza recordando <u>la</u> situación del gentil.
+
+###### Su origen es descrito mediante <u>la</u> imagen de un olivo silvestre.
+
+##### Observación <u>importante</u>:
+###### Pablo <u>dirige</u> la atención al injerto que ya ocurrió.
+
+#### y contra lo que es natural fuiste injertado en un olivo cultivado,
+
+##### Pablo <u>destaca</u> lo extraordinario de ese injerto.
+
+###### La <u>atención</u> recae en la expresión:
+> contra lo que es natural
+
+##### Observación <u>importante</u>:
+###### Pablo <u>presenta</u> este injerto como algo inesperado.
+
+###### <u>Algo</u> que ya sucedió.
+
+#### ¿cuánto más estos, que son las ramas naturales,
+##### Pablo llega <u>al</u> centro del argumento.
+
+###### La <u>pregunta</u> no busca información.
+
+###### Busca que el lector saque <u>una</u> conclusión.
+
+##### <u>Observación</u> importante:
+###### Toda la fuerza del <u>versículo</u> está en:
+> cuánto más
+
+#### serán injertados en su propio olivo?
+##### <u>Pablo</u> presenta la conclusión.
+
+###### Si ocurrió lo <u>más</u> sorprendente,
+
+###### cuánto más puede ocurrir aquello que corresponde a las ramas <u>naturales</u>.
+
+##### <u>Observación</u> desarrollacional:
+###### La ilustración del olivo <u>está</u> llegando a su conclusión.
+
+###### El siguiente versículo <u>introducirá</u> un nuevo tema:
+> este misterio
+
+###### y comenzará a explicar el endurecimiento parcial de <u>Israel</u> y la entrada de la plenitud de los gentiles.
+
+### Romanos 11:25
+Porque no quiero, hermanos, que ignoren este misterio, para que no sean sabios en su propia opinión: que a Israel le ha acontecido un endurecimiento parcial hasta que haya entrado la plenitud de los gentiles.
+
+#### Porque no quiero, hermanos,
+##### Pablo introduce algo que considera importante que sus lectores <u>entiendan</u>.
+
+###### Vuelve a dirigirse directamente <u>a</u> ellos como hermanos.
+
+##### <u>Observación</u> importante:
+###### Lo <u>que</u> sigue tiene como propósito corregir una manera equivocada de pensar.
+
+#### que ignoren este misterio,
+##### Pablo identifica <u>el</u> tema como un misterio que necesita ser revelado.
+
+###### No quiere que sus lectores permanezcan en ignorancia acerca de este <u>asunto</u>.
+
+##### <u>Observación</u> importante:
+###### <u>El</u> misterio será explicado inmediatamente.
+
+###### No queda oculto en el <u>texto</u>.
+
+#### para que no sean sabios en su propia opinión:
+##### Pablo explica por qué quiere que conozcan este <u>misterio</u>.
+
+###### El conocimiento correcto <u>debe</u> impedir la arrogancia.
+
+##### Observación <u>importante</u>:
+###### Esta advertencia conecta con <u>toda</u> la sección anterior.
+
+###### Pablo sigue corrigiendo el orgullo que podría surgir en los <u>gentiles</u>.
+
+#### que a Israel le ha acontecido un endurecimiento parcial
+##### <u>Pablo</u> comienza a explicar el misterio.
+
+###### <u>Israel</u> ha experimentado endurecimiento.
+
+##### <u>Observación</u> importante:
+###### El <u>texto</u> no dice:
+> endurecimiento total
+
+###### <u>Dice</u>:
+> endurecimiento parcial
+
+##### Observación <u>desarrollacional</u>:
+###### Esta afirmación retoma <u>el</u> tema que apareció anteriormente en Romanos 11.
+
+###### Pablo <u>continúa</u> describiendo la situación presente de Israel.
+
+#### hasta que haya entrado la plenitud de los gentiles.
+
+##### Pablo <u>añade</u> un límite temporal.
+
+###### <u>El</u> endurecimiento no es presentado como permanente.
+
+###### Está descrito <u>mediante</u> un:
+> «hasta que».
+
+##### <u>Observación</u> importante:
+###### El <u>misterio</u> no consiste solamente en un endurecimiento.
+
+###### También incluye aquello <u>que</u> ocurre durante ese endurecimiento.
+
+###### Pablo <u>une</u> dos realidades dentro de la misma explicación:
+
+- endurecimiento parcial de Israel
+- entrada de la plenitud de los gentiles
+
+##### <u>Observación</u> importante:
+###### La atención del versículo no permanece únicamente en el <u>endurecimiento</u>.
+
+###### También se dirige hacia la <u>plenitud</u> de los gentiles.
+
+##### Observación <u>desarrollacional</u>:
+###### <u>El</u> siguiente versículo mostrará hacia dónde conduce esta explicación.
+
+###### Pablo <u>pasará</u> de:
+- endurecimiento parcial
+- plenitud de los gentiles
+
+###### al <u>resultado</u> que introduce con las palabras:
+> «y así».
+
+### Romanos 11:26
+Así, todo Israel será salvo, tal como está escrito: «EL LIBERTADOR VENDRÁ DE SIÓN; APARTARÁ LA IMPIEDAD DE JACOB.
+
+#### Así, todo Israel será salvo,
+##### <u>Pablo</u> presenta el resultado que sigue a la explicación anterior.
+
+###### El versículo <u>comienza</u> con:
+> «y así».
+
+##### <u>Observación</u> importante:
+###### Pablo conecta esta declaración con lo que <u>acaba</u> de explicar.
+
+###### La salvación de Israel <u>aparece</u> ligada al desarrollo descrito en el versículo anterior.
+
+###### No <u>aparece</u> como una idea aislada.
+
+##### <u>Observación</u> desarrollacional:
+
+###### <u>Pablo</u> ha pasado de:
+- endurecimiento parcial
+- plenitud de los gentiles
+
+###### al resultado que <u>ahora</u> declara:
+> «todo Israel será salvo».
+
+#### tal como está escrito:
+##### Pablo <u>vuelve</u> a apoyar su afirmación mediante las Escrituras.
+
+###### Como ha hecho repetidamente a lo largo <u>de</u> Romanos 9–11, apela al testimonio escrito.
+
+##### Observación <u>importante</u>:
+###### La explicación no <u>descansa</u> solamente en la afirmación de Pablo.
+
+###### También es apoyada mediante <u>las</u> Escrituras.
+
+##### Observación <u>desarrollacional</u>:
+###### La cita que sigue <u>explicará</u> esta salvación.
+
+#### «EL LIBERTADOR VENDRÁ DE SIÓN;
+##### La atención se <u>dirige</u> al Libertador.
+
+###### La salvación mencionada en el versículo no <u>aparece</u> separada de su intervención.
+
+##### <u>Observación</u> importante:
+###### El énfasis recae sobre <u>la</u> acción del Libertador.
+
+###### La explicación <u>comienza</u> con su venida.
+
+#### APARTARÁ LA IMPIEDAD DE JACOB.
+##### La <u>cita</u> describe la obra que realizará el Libertador.
+
+###### Su acción consiste en apartar la impiedad <u>de</u> Jacob.
+
+##### Observación <u>importante</u>:
+###### La salvación recién mencionada es <u>explicada</u> mediante esta acción.
+
+###### La cita conecta la salvación con la <u>remoción</u> de la impiedad.
+
+##### Observación <u>desarrollacional</u>:
+###### El siguiente <u>versículo</u> completará la cita.
+
+###### Pablo añadirá una referencia al <u>pacto</u> y a la remoción de los pecados.
+
+### Romanos 11:27
+Y ESTE ES MI PACTO CON ELLOS, CUANDO YO QUITE SUS PECADOS».
+
+#### Y ESTE ES MI PACTO CON ELLOS,
+##### Pablo continúa la cita iniciada <u>en</u> el versículo anterior.
+
+###### La salvación de Israel sigue siendo <u>el</u> tema.
+
+##### Observación <u>importante</u>:
+###### La cita ahora introduce <u>la</u> idea de pacto.
+
+###### Pablo añade al tema del Libertador una referencia al <u>pacto</u>.
+
+###### La explicación de la salvación continúa desarrollándose <u>mediante</u> esta cita.
+
+#### CUANDO YO QUITE SUS PECADOS».
+##### La cita identifica una acción <u>específica</u>.
+
+###### La <u>atención</u> se dirige a los pecados.
+
+###### Y a <u>su</u> remoción.
+
+##### <u>Observación</u> importante:
+###### La salvación mencionada <u>en</u> los versículos anteriores continúa siendo explicada.
+
+###### La cita relaciona <u>esa</u> salvación con la remoción de los pecados.
+
+##### <u>Observación</u> desarrollacional:
+###### <u>La</u> secuencia de la cita ha descrito:
+- la venida del Libertador
+- la remoción de la impiedad
+- el pacto
+- la remoción de los pecados
+
+###### Pablo <u>ha</u> terminado la cita.
+
+###### Ahora volverá <u>a</u> explicar cómo debe entenderse la situación actual de Israel.
+
+###### El siguiente versículo presentará dos perspectivas simultáneas sobre <u>ellos</u>.
+
+### Romanos 11:28
+En cuanto al evangelio, son enemigos por causa de ustedes, pero en cuanto a la elección de Dios, son amados por causa de los padres.
+
+#### En cuanto al evangelio,
+##### Pablo introduce <u>el</u> primer marco de referencia.
+
+###### La misma situación será observada desde <u>una</u> perspectiva específica.
+
+##### Observación <u>importante</u>:
+###### Pablo comienza distinguiendo entre <u>dos</u> maneras de considerar a Israel.
+
+#### son enemigos por causa de ustedes,
+##### Bajo este primer marco, Pablo describe su situación como <u>enemigos</u>.
+
+###### La referencia <u>a</u> "ustedes" continúa señalando a los gentiles.
+
+##### Observación <u>importante</u>:
+###### <u>Pablo</u> no está hablando aquí de dos grupos distintos.
+
+###### Sigue hablando del mismo <u>Israel</u>.
+
+###### La diferencia <u>está</u> en la perspectiva desde la cual es considerado.
+
+#### pero en cuanto a la elección de Dios,
+##### <u>Pablo</u> introduce un segundo marco de referencia.
+
+###### Ahora observa la misma situación <u>desde</u> otra perspectiva.
+
+###### <u>El</u> versículo está construido sobre un contraste:
+- en cuanto al evangelio
+- en cuanto a la elección
+
+##### Observación <u>importante</u>:
+###### Pablo mantiene juntas ambas <u>afirmaciones</u>.
+
+###### <u>No</u> elimina una para afirmar la otra.
+
+#### son amados por causa de los padres.
+##### Bajo este <u>segundo</u> marco, Pablo describe a Israel como amado.
+
+###### La razón <u>mencionada</u> es:
+> por causa de los padres
+
+##### Observación <u>importante</u>:
+###### El mismo grupo que aparece como enemigo en la primera mitad del <u>versículo</u> aparece como amado en la segunda.
+
+###### Pablo <u>mantiene</u> ambas afirmaciones juntas.
+
+###### La segunda afirmación <u>recibe</u> un fundamento específico:
+> por causa de los padres
+
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo explicará <u>por</u> qué esta segunda realidad permanece vigente.
+
+###### Pablo apelará a <u>los</u> dones y al llamamiento de Dios.
+
+###### La explicación continuará desarrollando la razón <u>por</u> la cual Israel sigue siendo descrito como amado.
+
+### Romanos 11:29
+Porque los dones y el llamamiento de Dios son irrevocables.
+
+#### Porque los dones y el llamamiento de Dios
+##### Pablo explica <u>la</u> afirmación anterior.
+
+###### Acaba de decir <u>que</u> Israel es amado por causa de los padres.
+
+###### Ahora <u>presenta</u> la razón de esa afirmación.
+
+##### Observación <u>importante</u>:
+###### La explicación dirige la atención <u>hacia</u>:
+- los dones de Dios
+- el llamamiento de Dios
+
+###### El <u>énfasis</u> recae sobre aquello que pertenece a Dios.
+
+#### son irrevocables.
+##### Pablo <u>describe</u> los dones y el llamamiento de Dios mediante una sola afirmación.
+
+###### Ambos son <u>presentados</u> como:
+> irrevocables
+
+##### <u>Observación</u> importante:
+###### El versículo explica por qué Pablo puede seguir hablando de Israel como amado por causa de <u>los</u> padres.
+
+###### La razón presentada por Pablo es que los dones y el llamamiento de <u>Dios</u> son irrevocables.
+
+##### <u>Observación</u> desarrollacional:
+###### Romanos 11 ha venido <u>describiendo</u>:
+- transgresión
+- rechazo
+- endurecimiento parcial
+
+###### Sin <u>embargo</u>, Pablo continúa mirando más allá de esas realidades.
+
+###### Ahora apela a algo que <u>describe</u> como:
+> irrevocable
+
+##### <u>Observación</u> desarrollacional:
+###### El siguiente versículo comenzará a explicar cómo la misericordia de Dios ha <u>estado</u> obrando tanto en gentiles como en Israel.
+
+### Romanos 11:30
+Pues así como ustedes en otro tiempo fueron desobedientes a Dios, pero ahora se les ha mostrado misericordia por razón de la desobediencia de ellos,
+
+#### Pues así como ustedes
+##### Pablo comienza una <u>comparación</u>.
+
+###### <u>Ahora</u> comparará la experiencia de los gentiles con la situación actual de Israel.
+
+#### en otro tiempo fueron desobedientes a Dios,
+##### Pablo recuerda el pasado <u>de</u> los gentiles.
+
+###### Hubo un tiempo en que ellos también estuvieron <u>en</u> desobediencia.
+
+#### pero ahora se les ha mostrado misericordia
+##### Pablo contrasta ese pasado <u>con</u> su situación presente.
+
+###### Lo que caracteriza el <u>presente</u> es la misericordia recibida.
+
+#### por razón de la desobediencia de ellos,
+##### <u>Pablo</u> conecta ambas historias.
+
+###### La <u>misericordia</u> recibida por los gentiles está relacionada con la desobediencia actual de Israel.
+
+##### Observación <u>importante</u>:
+###### <u>Pablo</u> no presenta dos historias separadas.
+
+###### Presenta una sola historia en la que Dios está obrando <u>con</u> ambos grupos.
+
+### Romanos 11:31
+así también ahora estos han sido desobedientes, para que por la misericordia mostrada a ustedes, también a ellos ahora les sea mostrada misericordia.
+
+#### así también ahora estos han sido desobedientes,
+##### <u>Pablo</u> completa el paralelo.
+
+###### Lo que antes describió acerca de los gentiles ahora lo aplica <u>a</u> Israel.
+
+#### para que por la misericordia mostrada a ustedes,
+##### Pablo introduce el propósito de esta <u>etapa</u> de la historia.
+
+###### La misericordia mostrada a los gentiles forma parte del desarrollo del <u>plan</u> que está describiendo.
+
+#### también a ellos ahora les sea mostrada misericordia.
+##### <u>Pablo</u> revela el objetivo.
+
+###### La historia no termina con la desobediencia <u>de</u> Israel.
+
+###### El objetivo final señalado aquí <u>es</u> que ellos también reciban misericordia.
+
+##### Observación <u>importante</u>:
+###### La <u>misericordia</u> mostrada a los gentiles no aparece como el final de la historia.
+
+###### Aparece como parte del camino por el cual <u>la</u> misericordia alcanzará también a Israel.
+
+##### Observación <u>desarrollacional</u>:
+###### El siguiente versículo resumirá todo el argumento con una declaración general <u>acerca</u> de todos y la misericordia de Dios.
+
+### Romanos 11:32
+Porque Dios ha encerrado a todos en desobediencia para mostrar misericordia a todos.
+
+#### Porque Dios ha encerrado a todos en desobediencia
+##### Pablo resume <u>el</u> patrón que acaba de describir.
+
+###### Primero habló de la desobediencia <u>de</u> Israel.
+
+###### Luego recordó la desobediencia pasada de los <u>gentiles</u>.
+
+###### Ahora reúne a todos bajo una <u>misma</u> realidad.
+
+##### <u>Observación</u> importante:
+###### El énfasis del versículo no recae <u>sobre</u> un solo grupo.
+
+###### Pablo habla <u>de</u> todos.
+
+#### para mostrar misericordia a todos.
+##### Pablo presenta <u>el</u> propósito de esta acción.
+
+###### El versículo comienza <u>con</u> desobediencia.
+
+###### <u>Pero</u> termina con misericordia.
+
+##### Observación <u>importante</u>:
+###### <u>La</u> última palabra del argumento no es desobediencia.
+
+###### La última palabra del argumento <u>es</u> misericordia.
+
+##### Observación <u>desarrollacional</u>:
+###### Este <u>versículo</u> funciona como resumen de Romanos 11:30–31.
+
+###### También prepara la <u>respuesta</u> de adoración que sigue inmediatamente en los versículos siguientes.
+
+>En Síntesis
+>- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
+>- Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
+>- La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
+>- Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
+>- A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
+>- El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
+>- Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad:
+todos en desobediencia todos necesitados de misericordia.
+>- La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento.
+>- La última palabra es misericordia.
+
+<!-- @quiz quiz-3 -->
+
+## Romanos 11:33–36 — Pablo responde con adoración
+
+### Romanos 11:33
+¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios! ¡Cuán insondables son Sus juicios e inescrutables Sus caminos!
+
+#### ¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios!
+##### Después de concluir su <u>argumento</u>, Pablo responde con asombro.
+
+###### <u>Ya</u> no está formulando objeciones.
+
+###### Ya no <u>está</u> respondiendo preguntas.
+
+###### Ahora expresa <u>admiración</u>.
+
+##### <u>Observación</u> importante:
+###### Pablo dirige toda <u>la</u> atención hacia Dios.
+
+###### Las riquezas, la sabiduría <u>y</u> el conocimiento pertenecen a Dios.
+
+#### ¡Cuán insondables son Sus juicios
+##### Pablo reconoce la grandeza de <u>los</u> juicios de Dios.
+
+###### Los presenta como algo que <u>no</u> puede ser agotado ni medido completamente.
+
+##### Observación <u>importante</u>:
+###### La atención permanece sobre Dios y sobre lo que Él <u>hace</u>.
+
+#### e inescrutables Sus caminos!
+##### Pablo <u>completa</u> la declaración.
+
+###### No solamente los juicios de Dios producen <u>asombro</u>.
+
+###### También sus <u>caminos</u>.
+
+##### <u>Observación</u> desarrollacional:
+###### La doxología continuará con una serie de <u>preguntas</u> que resaltan la grandeza de Dios.
+
+###### Pablo ha llegado al final de su explicación y responde con <u>adoración</u>.
+
+### Romanos 11:34
+Pues, ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR? ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
+
+#### ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR?
+##### Pablo <u>formula</u> una pregunta cuya respuesta esperada es "nadie".
+
+###### Después de hablar de la profundidad de la sabiduría y <u>del</u> conocimiento de Dios, pregunta quién ha conocido plenamente Su mente.
+
+##### <u>Observación</u> importante:
+###### La pregunta enfatiza la distancia entre el conocimiento humano y el conocimiento <u>de</u> Dios.
+
+###### Nadie puede <u>afirmar</u> que comprende completamente los pensamientos de Dios.
+
+#### ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
+##### Pablo <u>presenta</u> una segunda pregunta paralela.
+
+###### No solo nadie <u>conoce</u> plenamente la mente de Dios.
+
+###### Tampoco nadie ocupa el lugar de su <u>consejero</u>.
+
+##### <u>Observación</u> importante:
+###### Dios no necesita ser <u>corregido</u>.
+
+###### Dios no <u>necesita</u> ser instruido.
+
+###### Dios no necesita recibir <u>consejo</u>.
+
+##### Observación <u>desarrollacional</u>:
+###### El siguiente versículo <u>añadirá</u> una tercera pregunta.
+
+###### Esta vez relacionada con deuda <u>y</u> recompensa.
+
+### Romanos 11:35
+¿O QUIÉN LE HA DADO A ÉL PRIMERO PARA QUE SE LE TENGA QUE RECOMPENSAR?
+
+#### ¿O QUIÉN LE HA DADO A ÉL PRIMERO
+##### <u>Pablo</u> añade una tercera pregunta.
+
+###### <u>La</u> respuesta esperada sigue siendo la misma:
+> nadie
+
+##### <u>Observación</u> importante:
+###### Nadie puede colocarse <u>en</u> la posición de benefactor de Dios.
+
+###### Nadie <u>puede</u> decir que Dios recibió algo primero de él.
+
+#### PARA QUE SE LE TENGA QUE RECOMPENSAR?
+##### Pablo lleva la <u>pregunta</u> a su conclusión.
+
+###### <u>Si</u> nadie le dio primero a Dios,
+
+###### entonces nadie puede exigir pago o compensación <u>de</u> parte de Dios.
+
+##### <u>Observación</u> importante:
+###### Dios no actúa como deudor <u>de</u> nadie.
+
+###### Todo lo <u>que</u> Dios hace procede de Él mismo.
+
+##### Observación <u>desarrollacional</u>:
+###### El <u>siguiente</u> versículo cerrará la doxología.
+
+###### Pablo resumirá todo con una declaración absoluta acerca de <u>Dios</u> y de todas las cosas.
+
+### Romanos 11:36
+Porque de Él, por Él y para Él son todas las cosas. A Él sea la gloria para siempre. Amén.
+
+#### Porque de Él, por Él y para Él son todas las cosas.
+##### <u>Pablo</u> presenta la razón final de la adoración.
+
+###### <u>Todo</u> lo que acaba de decir acerca de Dios conduce a esta afirmación.
+
+##### Observación <u>importante</u>:
+###### Dios aparece como el <u>origen</u> de todas las cosas.
+
+###### Dios aparece como aquel por medio de quien todas <u>las</u> cosas existen.
+
+###### <u>Dios</u> aparece como el destino hacia el cual todas las cosas se dirigen.
+
+##### Observación <u>importante</u>:
+###### El énfasis recae completamente sobre <u>Dios</u>.
+
+###### La atención ya <u>no</u> está sobre Israel.
+
+###### Ya <u>no</u> está sobre los gentiles.
+
+###### <u>Ya</u> no está sobre Pablo.
+
+###### <u>Está</u> sobre Dios.
+
+#### A Él sea la gloria para siempre.
+##### Pablo responde <u>a</u> esta realidad con adoración.
+
+###### Si todas las cosas son de Él, por <u>Él</u> y para Él,
+
+###### entonces la gloria <u>le</u> pertenece a Él.
+
+##### <u>Observación</u> importante:
+###### La <u>doxología</u> termina donde comenzó.
+
+###### <u>Con</u> Dios ocupando el centro de todo.
+
+#### Amén.
+##### Pablo concluye la <u>doxología</u>.
+
+###### La sección iniciada en Romanos 9 termina con una afirmación de adoración y reconocimiento <u>a</u> Dios.
+
+##### <u>Observación</u> desarrollacional:
+###### Después de tres capítulos explicando el propósito <u>y</u> la fidelidad de Dios,
+
+###### Romanos 12 comenzará a mostrar cómo debe responder <u>el</u> creyente.
+
+> En Síntesis
+>- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
+Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
+>-La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
+>-Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
+>-A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
+>-El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
+>-Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad: todos en desobediencia todos necesitados de misericordia
+>-La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento. 
+>- La última palabra es misericordia.
+
+# ROMANOS 12:1–13:14 PRESÉNTENSE Y VIVAN CONFORME A LA NUEVA REALIDAD
+
+## Romanos 12:1–8 - Presenten sus cuerpos
+
+### Romanos 12:1
+Por tanto, hermanos, les ruego por las misericordias de Dios que presenten sus cuerpos como sacrificio vivo y santo, aceptable a Dios, que es el culto racional de ustedes.
+
+#### Por tanto, hermanos,
+##### <u>Pablo</u> comienza una nueva sección, pero no un tema nuevo.
+
+###### Todo lo <u>que</u> sigue nace de lo que acaba de explicar acerca de las misericordias de Dios y de sus caminos en Romanos 9–11.
+
+###### El “por tanto” conecta la explicación anterior con <u>la</u> respuesta que ahora espera de sus lectores.
+
+###### <u>Véase</u> Romanos 11:30–36.
+
+###### La siguiente frase presenta la base sobre <u>la</u> cual Pablo hace este ruego.
+
+#### les ruego por las misericordias de Dios
+##### <u>Pablo</u> no apela a méritos humanos ni a obligaciones religiosas.
+
+###### La exhortación se <u>fundamenta</u> en las misericordias de Dios que han sido desarrolladas a lo largo de la carta.
+
+###### La respuesta que Pablo pedirá en los siguientes versículos surge de lo que Dios ha hecho, <u>no</u> de lo que el hombre puede aportar.
+
+###### <u>Véase</u> Romanos 11:30–32.
+
+#### que presenten sus cuerpos
+##### Pablo dirige la exhortación hacia la <u>persona</u> completa.
+
+###### <u>La</u> acción principal del versículo es “presentar”.
+
+###### A partir de este punto la atención se mueve desde lo que Dios ha hecho <u>hacia</u> la respuesta que corresponde a quienes han recibido misericordia.
+
+###### La siguiente frase describe cómo <u>debe</u> entenderse esa presentación.
+
+#### como sacrificio vivo y santo,
+##### Pablo utiliza lenguaje <u>relacionado</u> con la adoración y la entrega.
+
+###### El <u>sacrificio</u> ya no es descrito como algo muerto, sino como algo vivo.
+
+###### Las expresiones “vivo” <u>y</u> “santo” describen la clase de presentación que Pablo tiene en mente.
+
+#### aceptable a Dios,
+##### La presentación <u>tiene</u> una orientación clara: Dios.
+
+###### El énfasis no está en la opinión de otros ni en la apariencia externa, sino en aquello que es <u>aceptable</u> delante de Dios.
+
+#### que es el culto racional de ustedes.
+##### Pablo reúne todas las expresiones <u>anteriores</u> en una sola descripción.
+
+###### La presentación de los cuerpos es identificada como el culto que corresponde a quienes han recibido las <u>misericordias</u> de Dios.
+
+###### Este versículo funciona <u>como</u> introducción a toda la sección práctica que sigue.
+
+###### Romanos 12:2 explicará cómo esa presentación afecta la forma de <u>pensar</u> y vivir.
+
+### Romanos 12:2
+Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios: lo que es bueno y aceptable y perfecto.
+
+#### Y no se adapten a este mundo,
+##### Pablo comienza con una <u>prohibición</u>.
+
+###### La vida presentada <u>a</u> Dios no puede simplemente copiar el patrón que la rodea.
+
+###### Después de hablar de <u>presentar</u> los cuerpos, Pablo pasa a describir una manera diferente de vivir y pensar.
+
+#### sino transfórmense
+##### Pablo no solo dice qué <u>evitar</u>; también indica una dirección positiva.
+
+###### <u>El</u> contraste es deliberado: no conformarse al presente orden de cosas, sino experimentar transformación.
+
+###### La exhortación avanza desde la conducta externa hacia <u>un</u> cambio más profundo.
+
+#### mediante la renovación de su mente,
+##### Pablo ubica <u>el</u> cambio en la manera de pensar.
+
+###### La transformación no comienza <u>con</u> nuevas costumbres sino con una mente renovada.
+
+###### Esta referencia a la <u>mente</u> prepara el tema de Romanos 12:3, donde Pablo hablará de cómo pensar correctamente acerca de uno mismo.
+
+#### para que verifiquen cuál es la voluntad de Dios:
+##### Pablo presenta el <u>resultado</u> esperado.
+
+###### La mente renovada permite reconocer y aprobar aquello que corresponde a la voluntad de <u>Dios</u>.
+
+###### El énfasis está en <u>discernir</u> correctamente, no en inventar una voluntad propia.
+
+#### lo que es bueno y aceptable y perfecto.
+##### Pablo caracteriza la <u>voluntad</u> de Dios con tres descripciones.
+
+###### Estas expresiones concluyen el versículo mostrando el carácter <u>de</u> aquello que la mente renovada aprende a reconocer.
+
+###### La secuencia <u>completa</u> es clara: presentación → transformación → renovación → discernimiento.
+
+###### Romanos 12:3 comenzará a aplicar esta manera de pensar a la vida dentro de la <u>comunidad</u>.
+
+### Romanos 12:3
+Porque en virtud de la gracia que me ha sido dada, digo a cada uno de ustedes que no piense de sí mismo más de lo que debe pensar, sino que piense con buen juicio, según la medida de fe que Dios ha distribuido a cada uno.
+
+#### Porque en virtud de la gracia que me ha sido dada,
+##### Pablo <u>explica</u> desde qué posición habla.
+
+###### No presenta su exhortación como una <u>opinión</u> personal, sino como algo relacionado con la gracia que le fue dada.
+
+###### Esta referencia sirve como fundamento para <u>la</u> instrucción que sigue.
+
+#### digo a cada uno de ustedes
+##### La exhortación <u>es</u> individual.
+
+###### Pablo no habla solamente a líderes o a un grupo <u>específico</u>.
+
+###### Cada miembro de la <u>comunidad</u> debe evaluar su manera de pensar acerca de sí mismo.
+
+###### la siguiente frase presenta la <u>advertencia</u> principal.
+
+#### que no piense de sí mismo más de lo que debe pensar,
+##### Pablo <u>comienza</u> corrigiendo una tendencia hacia la autoexaltación.
+
+###### El tema ya no es la transformación <u>de</u> la mente en general, sino cómo esa mente renovada evalúa la propia persona.
+
+###### Esta <u>advertencia</u> prepara el ejemplo del cuerpo y los miembros que aparecerá en los versículos siguientes.
+
+###### Pablo ahora presenta la <u>alternativa</u> correcta.
+
+#### sino que piense con buen juicio,
+##### El contraste no es dejar de pensar, sino <u>pensar</u> correctamente.
+
+###### Pablo reemplaza la exageración <u>personal</u> por una evaluación sobria y equilibrada.
+
+###### La atención continúa centrada en la forma <u>de</u> pensar.
+
+###### la siguiente frase establece <u>el</u> criterio.
+
+#### según la medida de fe que Dios ha distribuido a cada uno.
+##### Pablo recuerda que lo recibido proviene de <u>Dios</u>.
+
+###### El énfasis se encuentra en lo que Dios ha distribuido, no en <u>logros</u> personales.
+
+###### Esta <u>idea</u> prepara el tema de los diferentes dones que aparecerá más adelante en la sección.
+
+###### Romanos 12:4 <u>introduce</u> la ilustración del cuerpo para explicar diversidad sin orgullo.
+
+### Romanos 12:4
+Pues así como en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función,
+
+#### Pues así como en un cuerpo tenemos muchos miembros,
+##### Pablo introduce una <u>comparación</u>.
+
+###### La imagen del cuerpo permite <u>explicar</u> cómo puede existir diversidad sin perder unidad.
+
+###### El énfasis inicial recae en la existencia <u>de</u> muchos miembros dentro de un solo cuerpo.
+
+###### la siguiente frase añade una observación <u>importante</u> acerca de esos miembros.
+
+#### pero no todos los miembros tienen la misma función,
+##### Pablo aclara que la unidad no <u>significa</u> uniformidad.
+
+###### Los miembros pertenecen al mismo cuerpo, pero no realizan <u>exactamente</u> la misma tarea.
+
+###### Esta observación prepara la aplicación directa que hará en Romanos 12:5 acerca de la <u>comunidad</u> de creyentes.
+
+###### el siguiente versículo trasladará la comparación del cuerpo a la <u>realidad</u> de la iglesia.
+
+### Romanos 12:5
+así nosotros, que somos muchos, somos un cuerpo en Cristo e individualmente miembros los unos de los otros.
+
+#### así nosotros, que somos muchos,
+##### Pablo ahora aplica directamente la ilustración <u>del</u> cuerpo.
+
+###### Lo que era una comparación <u>en</u> el versículo anterior ahora se convierte en una descripción de la comunidad.
+
+###### <u>El</u> énfasis permanece en la existencia de muchos dentro de una misma realidad.
+
+###### la siguiente frase identifica cuál <u>es</u> esa realidad compartida.
+
+#### somos un cuerpo en Cristo
+##### <u>Pablo</u> afirma la unidad de todos los creyentes.
+
+###### Aunque son muchos, forman <u>un</u> solo cuerpo.
+
+###### La expresión "en Cristo" conecta esta unidad <u>con</u> la realidad que Pablo ha venido desarrollando a lo largo de la carta.
+
+###### <u>Véase</u> Romanos 6:11; Romanos 8:1.
+
+###### la <u>siguiente</u> frase añade una segunda dimensión de esta unidad.
+
+#### e individualmente miembros los unos de los otros.
+##### La unidad <u>no</u> elimina la individualidad.
+
+###### Cada miembro conserva su identidad, pero al mismo tiempo queda relacionado <u>con</u> los demás.
+
+###### <u>Pablo</u> no describe miembros aislados, sino miembros vinculados entre sí.
+
+###### <u>Esta</u> relación prepara naturalmente la conversación sobre los diferentes dones en los versículos siguientes.
+
+###### Romanos 12:6 explicará cómo esta diversidad <u>se</u> expresa mediante distintos dones.
+
+### Romanos 12:6
+Pero teniendo diferentes dones, según la gracia que nos ha sido dada, usémoslos: si el de profecía, úsese en proporción a la fe;
+
+#### Pero teniendo diferentes dones,
+##### Pablo desarrolla <u>la</u> diversidad que acaba de mencionar.
+
+###### Los miembros no solo tienen <u>funciones</u> distintas; también reciben dones distintos.
+
+###### La diferencia entre unos y otros no es presentada como un problema, sino como una realidad <u>normal</u> dentro del mismo cuerpo.
+
+###### la siguiente frase explica el origen <u>de</u> esos dones.
+
+#### según la gracia que nos ha sido dada,
+##### Pablo atribuye estos dones a la <u>gracia</u> de Dios.
+
+###### El origen de los dones no está en la <u>capacidad</u> personal, sino en lo que ha sido dado.
+
+###### Esta referencia a la gracia mantiene el mismo énfasis de humildad <u>que</u> apareció en Romanos 12:3.
+
+###### <u>ahora</u> Pablo comienza a enumerar ejemplos concretos.
+
+#### usémoslos:
+##### Pablo pasa de la descripción <u>a</u> la acción.
+
+###### Los dones no son <u>mencionados</u> para ser admirados o comparados, sino para ser ejercidos.
+
+###### Lo que sigue muestra <u>varios</u> ejemplos de cómo debe funcionar esta diversidad dentro del cuerpo.
+
+###### la primera ilustración es <u>la</u> profecía.
+
+#### si el de profecía, úsese en proporción a la fe;
+##### <u>Pablo</u> inicia una lista de dones específicos.
+
+###### El énfasis del versículo no está en definir la profecía, sino <u>en</u> ejercerla de acuerdo con la medida que corresponde.
+
+###### La lista continuará mostrando <u>el</u> mismo patrón: cada don debe expresarse de acuerdo con su propia función.
+
+###### Romanos 12:7 continúa con el servicio y <u>la</u> enseñanza.
+
+### Romanos 12:7
+si el de servicio, en servir; o el que enseña, en la enseñanza;
+
+#### si el de servicio, en servir;
+##### Pablo continúa desarrollando la diversidad de <u>dones</u>.
+
+###### La atención permanece en la función misma: quien sirve debe <u>dedicarse</u> al servicio.
+
+###### El énfasis está en la actividad <u>correspondiente</u> al don recibido.
+
+###### la <u>siguiente</u> frase presenta un segundo ejemplo.
+
+#### o el que enseña, en la enseñanza;
+##### Pablo añade el don de <u>enseñanza</u>.
+
+###### Igual que en el caso anterior, el énfasis recae en ejercer <u>fielmente</u> aquello que corresponde a la función recibida.
+
+###### La estructura del versículo muestra una misma idea repetida: cada don debe desarrollarse <u>dentro</u> de su propia esfera.
+
+###### Romanos 12:8 ampliará la lista con <u>varios</u> ejemplos adicionales.
+
+### Romanos 12:8
+el que exhorta, en la exhortación; el que da, con liberalidad; el que dirige, con diligencia; el que muestra misericordia, con alegría.
+
+#### el que exhorta, en la exhortación;
+##### <u>Pablo</u> continúa aplicando el mismo principio.
+
+###### El enfoque permanece en la <u>tarea</u> correspondiente al don recibido.
+
+###### La lista sigue mostrando diversidad dentro del mismo <u>cuerpo</u>.
+
+###### la siguiente frase pasa al acto <u>de</u> compartir con otros.
+
+#### el que da, con liberalidad;
+##### Pablo menciona ahora <u>el</u> dar.
+
+###### La atención se dirige a la manera en que debe <u>ejercerse</u> esta función.
+
+###### La <u>liberalidad</u> caracteriza el ejercicio de este don.
+
+###### La siguiente frase se enfoca en quienes están al frente de <u>otros</u>.
+
+#### el que dirige, con diligencia;
+##### Pablo añade otra función dentro <u>de</u> la comunidad.
+
+###### El énfasis no está en la posición <u>misma</u>, sino en la forma de ejercerla.
+
+###### La diligencia aparece como la característica <u>que</u> acompaña esta labor.
+
+###### La última frase <u>presenta</u> un ejemplo más.
+
+#### el que muestra misericordia, con alegría.
+##### Pablo concluye la lista con la <u>misericordia</u>.
+
+###### <u>La</u> misericordia no solo debe practicarse; también debe estar acompañada por una disposición adecuada.
+
+###### Con este versículo <u>termina</u> la lista de dones iniciada en Romanos 12:6.
+
+###### Romanos 12:9 abre una nueva subsección enfocada en las relaciones dentro de la comunidad, <u>comenzando</u> con la expresión: “El amor sea sin hipocresía”.
+
+> En Síntesis
+>- Pablo pasa de explicar las misericordias de Dios a mostrar la respuesta que corresponde a quienes las han recibido.
+>- La exhortación comienza con un llamado a presentar los cuerpos a Dios y a vivir con una mente renovada, capaz de discernir Su voluntad.
+>- Esa renovación también transforma la manera de pensar acerca de uno mismo, reemplazando la autoexaltación por una evaluación sobria y correcta.
+>- Pablo utiliza la imagen del cuerpo para mostrar que la unidad no elimina la diversidad.
+>- Muchos miembros forman un solo cuerpo en Cristo y dependen unos de otros.
+>- Los distintos dones son presentados como expresiones de la gracia de Dios y deben ser ejercidos conforme a la función que cada uno ha recibido.
+>- La sección prepara el tema que sigue: cómo debe verse esa vida presentada a Dios en las relaciones diarias dentro de la comunidad.
+
+## Romanos 12:9–21 - El amor sin hipocresía
+
+### Romanos 12:9
+El amor sea sin hipocresía; aborreciendo lo malo, aplicándose a lo bueno.
+
+#### El amor sea sin hipocresía;
+##### Pablo introduce el tema <u>principal</u> de esta sección: un amor genuino.
+
+###### Después de hablar de dones y funciones, el énfasis pasa a la manera en <u>que</u> los creyentes deben relacionarse entre sí.
+
+###### Todo lo que sigue hasta el final del capítulo desarrolla cómo se ve este <u>amor</u> en la práctica.
+
+###### <u>las</u> siguientes frases muestran dos características básicas de este amor.
+
+#### aborreciendo lo malo,
+##### El <u>amor</u> descrito por Pablo no es indiferente frente al mal.
+
+###### El texto presenta una actitud de rechazo <u>hacia</u> aquello que es malo.
+
+###### Esta expresión forma pareja con la siguiente: rechazar lo malo y aferrarse a <u>lo</u> bueno.
+
+###### Ahora Pablo <u>presenta</u> el aspecto positivo.
+
+#### aplicándose a lo bueno.
+##### El amor no <u>consiste</u> solamente en evitar lo malo.
+
+###### Pablo añade una adhesión activa a lo <u>bueno</u>.
+
+###### Las dos expresiones juntas funcionan como introducción a todas las instrucciones que <u>siguen</u>.
+
+###### Romanos 12:10 comienza a <u>describir</u> cómo este amor se expresa entre los creyentes.
+
+### Romanos 12:10
+Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
+
+#### Sean afectuosos unos con otros
+##### Pablo dirige la atención a <u>las</u> relaciones dentro de la comunidad.
+
+###### El amor del <u>versículo</u> anterior se expresa mediante afecto genuino entre los creyentes.
+
+###### El énfasis está en la cercanía y el <u>cuidado</u> mutuo.
+
+###### La siguiente frase identifica la <u>clase</u> de amor que tiene en mente.
+
+#### con amor fraternal;
+##### Pablo utiliza <u>lenguaje</u> familiar.
+
+###### <u>Los</u> creyentes son descritos relacionándose unos con otros como hermanos.
+
+###### Esta idea desarrolla la <u>unidad</u> que ya apareció en Romanos 12:5.
+
+###### la siguiente frase muestra una manifestación concreta de <u>este</u> amor.
+
+#### con honra, dándose preferencia unos a otros.
+##### Pablo introduce el tema de <u>la</u> honra mutua.
+
+###### En lugar de buscar reconocimiento para <u>uno</u> mismo, el énfasis se dirige hacia los demás.
+
+###### La honra aparece como <u>una</u> expresión visible del amor fraternal.
+
+###### Romanos 12:11 continúa describiendo la actitud <u>que</u> debe caracterizar esta vida compartida.
+
+### Romanos 12:11
+No sean perezosos en lo que requiere diligencia. Sean fervientes en espíritu, sirviendo al Señor,
+
+#### No sean perezosos en lo que requiere diligencia.
+##### Pablo contrasta la negligencia con la <u>diligencia</u>.
+
+###### La vida que describe no es pasiva ni <u>descuidada</u>.
+
+###### El <u>llamado</u> es a mantener compromiso y dedicación en aquello que corresponde hacer.
+
+###### <u>la</u> siguiente frase añade otra característica de esta actitud.
+
+#### Sean fervientes en espíritu,
+##### Pablo describe una disposición marcada <u>por</u> intensidad y entusiasmo.
+
+###### El contraste con la pereza <u>del</u> miembro anterior es evidente.
+
+###### La diligencia <u>no</u> debe ser mecánica, sino acompañada de fervor.
+
+###### la siguiente frase señala la orientación de <u>ese</u> servicio.
+
+#### sirviendo al Señor,
+##### Pablo dirige toda esta actividad hacia el <u>Señor</u>.
+
+###### El servicio no se <u>presenta</u> como una búsqueda de reconocimiento humano.
+
+###### Esta referencia <u>conecta</u> las acciones descritas con una realidad mayor que las sostiene.
+
+###### Romanos 12:12 continúa con tres exhortaciones breves <u>relacionadas</u> entre sí.
+
+### Romanos 12:12
+gozándose en la esperanza, perseverando en el sufrimiento, dedicados a la oración,
+
+#### gozándose en la esperanza,
+##### Pablo comienza <u>con</u> una actitud de alegría relacionada con la esperanza.
+
+###### La esperanza aparece como motivo de gozo aun <u>cuando</u> las circunstancias no sean ideales.
+
+###### Esta esperanza ya ha <u>sido</u> mencionada anteriormente en la carta.
+
+###### <u>Véase</u> Romanos 5:2–5.
+
+###### la siguiente frase <u>muestra</u> cómo responder en medio de la dificultad.
+
+#### perseverando en el sufrimiento,
+##### Pablo añade la <u>perseverancia</u> frente a la aflicción.
+
+###### El <u>gozo</u> en la esperanza no elimina las dificultades, pero acompaña la perseverancia en ellas.
+
+###### Las dos expresiones funcionan juntas dentro del mismo <u>pensamiento</u>.
+
+###### la <u>tercera</u> frase muestra una práctica constante que acompaña ambas.
+
+#### dedicados a la oración,
+##### Pablo completa la secuencia <u>con</u> la oración.
+
+###### La oración aparece como una práctica continua dentro de la vida que está <u>describiendo</u>.
+
+###### Las tres expresiones juntas forman una breve descripción de <u>constancia</u> y dependencia.
+
+###### Romanos 12:13 pasa a necesidades concretas dentro <u>de</u> la comunidad.
+
+### Romanos 12:13
+contribuyendo para las necesidades de los santos, practicando la hospitalidad.
+
+#### contribuyendo para las necesidades de los santos,
+##### Pablo dirige la <u>atención</u> hacia las necesidades de otros creyentes.
+
+###### <u>El</u> amor descrito en esta sección incluye participación práctica en las necesidades de la comunidad.
+
+###### La preocupación por otros no queda solamente en palabras <u>o</u> sentimientos.
+
+###### la <u>siguiente</u> frase amplía esta disposición hacia la hospitalidad.
+
+#### practicando la hospitalidad.
+##### Pablo añade una expresión concreta <u>de</u> apertura hacia otros.
+
+###### La <u>hospitalidad</u> aparece aquí como una práctica activa, no como una idea abstracta.
+
+###### Ambas <u>exhortaciones</u> muestran un amor que se traduce en acciones visibles.
+
+###### Romanos 12:14 extiende <u>esta</u> actitud incluso hacia quienes persiguen.
+
+### Romanos 12:14
+Bendigan a los que los persiguen. Bendigan, y no maldigan.
+
+#### Bendigan a los que los persiguen.
+##### Pablo <u>amplía</u> el alcance de sus instrucciones.
+
+###### Ya no habla solamente de la relación entre creyentes, sino <u>también</u> de quienes los persiguen.
+
+###### La respuesta ordenada <u>no</u> es represalia, sino bendición.
+
+###### <u>la</u> siguiente frase repite la instrucción para enfatizarla.
+
+#### Bendigan, y no maldigan.
+##### Pablo <u>refuerza</u> deliberadamente el mandato.
+
+###### La repetición destaca la importancia de esta <u>respuesta</u>.
+
+###### La <u>segunda</u> mitad del versículo presenta el contraste directo entre bendecir y maldecir.
+
+###### <u>Véase</u> también Mateo 5:44.
+
+###### Romanos 12:15 vuelve al <u>ámbito</u> de las relaciones personales.
+
+### Romanos 12:15
+Gócense con los que se gozan y lloren con los que lloran.
+
+#### Gócense con los que se gozan
+##### Pablo llama a <u>compartir</u> las experiencias de otros.
+
+###### El <u>gozo</u> ajeno no debe producir competencia ni envidia.
+
+###### La comunidad es presentada participando de las <u>alegrías</u> de sus miembros.
+
+###### la siguiente <u>frase</u> presenta el paralelo correspondiente.
+
+#### y lloren con los que lloran.
+##### <u>Pablo</u> mantiene la misma lógica en el sufrimiento.
+
+###### Así como el gozo <u>se</u> comparte, también el dolor.
+
+###### El versículo muestra una comunidad involucrada en la realidad de <u>otros</u>, tanto en momentos felices como difíciles.
+
+###### Romanos 12:16 resume esta actitud mediante un <u>llamado</u> a la unidad y la humildad.
+
+### Romanos 12:16
+Tengan el mismo sentir unos con otros. No sean altivos en su pensar, sino condescendiendo con los humildes. No sean sabios en su propia opinión.
+
+#### Tengan el mismo sentir unos con otros.
+##### Pablo <u>llama</u> a una disposición de armonía mutua.
+
+###### <u>Esta</u> exhortación recoge muchos de los temas desarrollados desde Romanos 12:9.
+
+###### El énfasis está en la relación entre los creyentes, no en <u>la</u> exaltación personal.
+
+###### La siguiente frase identifica <u>una</u> amenaza para esa unidad.
+
+#### No sean altivos en su pensar,
+##### Pablo advierte <u>contra</u> la arrogancia.
+
+###### El problema señalado no es una <u>diferencia</u> de dones o funciones, sino una actitud elevada acerca de uno mismo.
+
+###### Esta preocupación <u>ya</u> apareció en Romanos 12:3.
+
+###### Ahora presenta <u>la</u> alternativa.
+
+#### sino condescendiendo con los humildes.
+##### <u>Pablo</u> dirige la atención hacia quienes ocupan posiciones modestas.
+
+###### El contraste es claro: <u>en</u> lugar de buscar lo elevado, acercarse a los humildes.
+
+###### Esta instrucción continúa desarrollando el tema de la humildad <u>dentro</u> de la comunidad.
+
+###### La frase <u>final</u> resume la advertencia.
+
+#### No sean sabios en su propia opinión.
+##### Pablo concluye con <u>una</u> advertencia directa.
+
+###### La autosuficiencia intelectual y la confianza exagerada en el propio criterio contradicen la actitud que <u>viene</u> describiendo.
+
+###### Este versículo funciona como transición hacia <u>las</u> exhortaciones que siguen sobre la relación con otros y la respuesta frente al mal.
+
+###### Romanos 12:17 comenzará <u>aplicando</u> estos principios en situaciones de conflicto y ofensa.
+
+### Romanos 12:17
+Nunca paguen a nadie mal por mal. Respeten lo bueno delante de todos los hombres.
+
+#### Nunca paguen a nadie mal por mal.
+##### <u>Pablo</u> prohíbe responder al mal reproduciendo el mismo patrón.
+
+###### Después de hablar de humildad y armonía, ahora aborda la manera de responder <u>cuando</u> se recibe daño u ofensa.
+
+###### El énfasis <u>recae</u> sobre la respuesta del creyente, no sobre la conducta del agresor.
+
+###### Véase <u>también</u> Proverbios 20:22.
+
+###### la siguiente frase añade <u>una</u> orientación positiva.
+
+#### Respeten lo bueno delante de todos los hombres.
+##### Pablo dirige la atención hacia lo <u>que</u> es honorable y correcto.
+
+###### La conducta descrita debe ser visible <u>delante</u> de otros.
+
+###### El contraste del versículo es <u>claro</u>: no devolver mal por mal, sino procurar aquello que es bueno.
+
+###### Romanos 12:18 amplía esta actitud hacia <u>la</u> búsqueda de la paz.
+
+### Romanos 12:18
+Si es posible, en cuanto de ustedes dependa, estén en paz con todos los hombres.
+
+#### Si es posible,
+##### Pablo <u>reconoce</u> que la paz no siempre depende de una sola persona.
+
+###### <u>La</u> exhortación incluye una condición realista.
+
+###### El texto reconoce que pueden existir circunstancias fuera <u>del</u> control del creyente.
+
+###### <u>La</u> siguiente frase delimita la responsabilidad personal.
+
+#### en cuanto de ustedes dependa,
+##### Pablo enfoca la atención en aquello que sí está <u>bajo</u> la responsabilidad del creyente.
+
+###### El énfasis no está <u>en</u> controlar la respuesta de otros, sino en la propia conducta.
+
+###### Esta expresión complementa <u>la</u> condición anterior.
+
+###### ahora aparece la exhortación <u>principal</u>.
+
+#### estén en paz con todos los hombres.
+##### Pablo llama a buscar relaciones pacíficas <u>con</u> todos.
+
+###### El alcance es amplio: no se limita solamente a la <u>comunidad</u> cristiana.
+
+###### Esta instrucción desarrolla el mismo espíritu que aparece <u>en</u> los versículos anteriores.
+
+###### Romanos 12:19 explicará por qué el creyente no debe tomar venganza <u>por</u> sí mismo.
+
+### Romanos 12:19
+Amados, nunca tomen venganza ustedes mismos, sino den lugar a la ira de Dios, porque escrito está: «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+
+#### Amados,
+##### <u>Pablo</u> introduce esta exhortación con una expresión de afecto.
+
+###### La advertencia que sigue se da dentro del contexto de cuidado <u>pastoral</u>.
+
+###### La siguiente frase contiene <u>la</u> prohibición principal.
+
+#### nunca tomen venganza ustedes mismos,
+##### Pablo <u>prohíbe</u> la venganza personal.
+
+###### Después de ordenar paz y rechazo del mal por mal, ahora especifica que el creyente no <u>debe</u> asumir el papel de ejecutor de justicia.
+
+###### El énfasis está en <u>lo</u> que el creyente no debe hacer.
+
+###### <u>la</u> siguiente frase presenta la alternativa.
+
+#### sino den lugar a la ira de Dios,
+##### Pablo dirige la atención hacia la acción <u>de</u> Dios.
+
+###### En <u>lugar</u> de tomar venganza personalmente, el creyente debe dejar espacio para la respuesta divina.
+
+###### <u>Esta</u> frase prepara la cita bíblica que sigue.
+
+###### <u>la</u> Escritura es presentada como fundamento de esta instrucción.
+
+#### porque escrito está:
+##### Pablo apoya su exhortación mediante <u>una</u> cita del Antiguo Testamento.
+
+###### La prohibición anterior no se basa solamente en una opinión <u>apostólica</u>.
+
+###### El argumento queda <u>anclado</u> en la Escritura.
+
+###### la cita <u>explica</u> por qué la venganza no pertenece al creyente.
+
+#### «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+##### La cita <u>atribuye</u> la venganza al Señor.
+
+###### La respuesta al mal no queda fuera de la justicia; simplemente no pertenece <u>al</u> individuo.
+
+###### Pablo utiliza <u>esta</u> cita para reforzar la prohibición de la venganza personal.
+
+###### <u>Véase</u> Deuteronomio 32:35.
+
+###### Romanos 12:20 mostrará una respuesta completamente diferente hacia el <u>enemigo</u>.
+
+### Romanos 12:20
+«PERO SI TU ENEMIGO TIENE HAMBRE, DALE DE COMER; Y SI TIENE SED, DALE DE BEBER, PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+
+#### PERO SI TU ENEMIGO TIENE HAMBRE,
+##### Pablo continúa con una cita bíblica que presenta una respuesta inesperada <u>hacia</u> el enemigo.
+
+###### El contraste con la venganza del versículo <u>anterior</u> es evidente.
+
+###### La atención se dirige <u>a</u> una necesidad concreta del enemigo.
+
+###### La siguiente frase presenta <u>la</u> respuesta requerida.
+
+#### DALE DE COMER;
+##### <u>Pablo</u> describe una acción de ayuda práctica.
+
+###### <u>La</u> respuesta al enemigo no es presentada como represalia sino como provisión.
+
+###### <u>El</u> énfasis está en satisfacer la necesidad descrita.
+
+###### la misma <u>idea</u> se repite con una segunda necesidad.
+
+#### Y SI TIENE SED,
+##### La cita añade <u>un</u> ejemplo paralelo.
+
+###### El patrón permanece <u>igual</u>: necesidad seguida de ayuda.
+
+###### La <u>repetición</u> refuerza la idea principal.
+
+###### <u>Ahora</u> aparece la acción correspondiente.
+
+#### DALE DE BEBER,
+##### Pablo continúa la misma línea <u>de</u> conducta.
+
+###### La respuesta al enemigo sigue caracterizándose por el bien en <u>lugar</u> del mal.
+
+###### Este paralelismo fortalece el argumento de <u>la</u> cita.
+
+###### <u>La</u> frase final explica el resultado asociado a esta conducta.
+
+#### PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+##### <u>Pablo</u> concluye la cita con una imagen tomada del texto original.
+
+###### El énfasis del <u>contexto</u> permanece en hacer bien al enemigo.
+
+###### La imagen funciona como parte de la <u>razón</u> presentada en la cita bíblica.
+
+###### <u>Véase</u> Proverbios 25:21–22.
+
+###### Romanos 12:21 resumirá toda la sección con <u>una</u> declaración final.
+
+### Romanos 12:21
+No seas vencido por el mal, sino vence el mal con el bien.
+
+#### No seas vencido por el mal,
+##### Pablo resume el peligro que <u>ha</u> estado describiendo.
+
+###### Responder al mal con mal significa permitir que el mal <u>determine</u> la conducta.
+
+###### Este versículo funciona como conclusión de toda la sección <u>iniciada</u> en Romanos 12:9.
+
+###### <u>La</u> siguiente frase presenta la alternativa final.
+
+#### sino vence el mal con el bien.
+##### Pablo concluye <u>con</u> un contraste directo.
+
+###### El bien aparece como la respuesta que debe caracterizar <u>toda</u> la conducta descrita en estos versículos.
+
+###### Esta <u>declaración</u> resume el amor sincero, la paz, la renuncia a la venganza y el trato hacia el enemigo desarrollados desde Romanos 12:9.
+
+###### Romanos 13 comenzará una nueva sección enfocada en la relación con las autoridades y <u>el</u> orden establecido.
+
+> En Síntesis
+>- Pablo describe cómo debe verse el amor dentro de la nueva realidad presentada en Romanos 12.
+>- Este amor es sincero, rechaza lo malo, se aferra a lo bueno y busca el bienestar de otros antes que la propia exaltación.
+>- La sección enfatiza la humildad, la unidad, el servicio, la hospitalidad y la participación tanto en las alegrías como en los sufrimientos de otros.
+>- Pablo también extiende estas instrucciones más allá de la comunidad cristiana, llamando a vivir en paz con todos y a responder al mal sin devolver mal por mal.
+>- La venganza pertenece a Dios; por eso el creyente es llamado a hacer bien incluso a sus enemigos.
+>- Toda la sección culmina con una exhortación que resume el argumento completo: No ser vencidos por el mal, sino vencer el mal con el bien.
+
+## Romanos 13:1–7 - Sométanse a las autoridades
+
+### Romanos 13:1
+Sométase toda persona a las autoridades que gobiernan. Porque no hay autoridad sino de Dios, y las que existen, por Dios son constituidas.
+
+#### Sométase toda persona a las autoridades que gobiernan.
+##### Pablo introduce una nueva esfera <u>de</u> relaciones: la relación con las autoridades.
+
+###### La exhortación es universal: “toda <u>persona</u>”.
+
+###### Después de hablar de las relaciones <u>con</u> otros (Romanos 12:9–21), Pablo ahora aborda la relación con quienes ejercen autoridad.
+
+###### La siguiente <u>frase</u> explica la razón de esta exhortación.
+
+#### Porque no hay autoridad sino de Dios,
+##### Pablo fundamenta <u>la</u> existencia de la autoridad en Dios.
+
+###### La razón presentada no se basa en la calidad de los gobernantes, sino en el <u>origen</u> de la autoridad misma.
+
+###### El argumento comienza con una <u>afirmación</u> general acerca de toda autoridad.
+
+###### <u>La</u> siguiente frase desarrolla esa afirmación.
+
+#### y las que existen, por Dios son constituidas.
+##### Pablo añade que las autoridades existentes han sido <u>establecidas</u> por Dios.
+
+###### Esta frase completa la explicación iniciada en la <u>línea</u> anterior.
+
+###### Ambas afirmaciones juntas sirven de fundamento para <u>la</u> exhortación a someterse.
+
+###### Romanos 13:2 <u>mostrará</u> la implicación de resistir esa autoridad.
+
+### Romanos 13:2
+Por tanto, el que resiste a la autoridad, a lo ordenado por Dios se ha opuesto; y los que se han opuesto, recibirán condenación sobre sí mismos.
+
+#### Por tanto,
+##### Pablo extrae una conclusión <u>de</u> lo que acaba de afirmar.
+
+###### Si la autoridad procede de Dios, entonces la <u>actitud</u> hacia la autoridad tiene consecuencias.
+
+###### Este versículo desarrolla la implicación lógica <u>de</u> Romanos 13:1.
+
+#### el que resiste a la autoridad,
+##### Pablo describe una <u>acción</u> específica: resistir la autoridad.
+
+###### La atención <u>se</u> centra en la respuesta de la persona frente a la autoridad establecida.
+
+#### a lo ordenado por Dios se ha opuesto;
+##### Pablo conecta <u>la</u> resistencia a la autoridad con oposición a lo que Dios ha establecido.
+
+###### El <u>argumento</u> sigue la lógica presentada en el versículo anterior.
+
+###### La oposición no se describe solamente en <u>términos</u> humanos, sino también en relación con Dios.
+
+###### La última frase presenta el <u>resultado</u>.
+
+#### y los que se han opuesto, recibirán condenación sobre sí mismos.
+##### Pablo señala una consecuencia para <u>quienes</u> persisten en esa oposición.
+
+###### El énfasis está <u>en</u> el resultado que acompaña la resistencia descrita.
+
+###### Este resultado prepara la explicación acerca de la función de los <u>gobernantes</u> en los versículos siguientes.
+
+###### Romanos 13:3 explicará por qué las autoridades <u>producen</u> temor en ciertos casos.
+
+### Romanos 13:3
+Porque los gobernantes no son motivo de temor para los de buena conducta, sino para el que hace el mal. ¿Deseas, pues, no temer a la autoridad? Haz lo bueno y tendrás elogios de ella,
+
+#### Porque los gobernantes no son motivo de temor para los de buena conducta,
+##### Pablo explica la función normal <u>de</u> la autoridad.
+
+###### El contraste del versículo gira alrededor de <u>dos</u> conductas: 
+- hacer lo bueno y hacer lo malo.
+
+###### La autoridad es presentada en relación con esas <u>conductas</u>.
+
+###### La <u>siguiente</u> frase introduce el contraste.
+
+#### sino para el que hace el mal.
+##### Pablo contrapone la buena conducta con la <u>mala</u> conducta.
+
+###### El temor aparece asociado a quien practica <u>el</u> mal.
+
+###### Esta observación <u>desarrolla</u> la explicación iniciada en el versículo anterior.
+
+###### Ahora Pablo formula una <u>pregunta</u> directa.
+
+#### ¿Deseas, pues, no temer a la autoridad?
+##### Pablo utiliza <u>una</u> pregunta para avanzar el argumento.
+
+###### La pregunta prepara <u>la</u> respuesta práctica que sigue.
+
+###### El tema continúa siendo la relación entre conducta <u>y</u> autoridad.
+
+#### Haz lo bueno y tendrás elogios de ella,
+##### Pablo presenta una respuesta <u>sencilla</u> dentro de la lógica del argumento.
+
+###### La buena conducta aparece vinculada al reconocimiento de <u>la</u> autoridad.
+
+###### El contraste sigue siendo el mismo: bien frente a <u>mal</u>.
+
+###### Romanos 13:4 explicará por qué <u>la</u> autoridad cumple esta función.
+
+### Romanos 13:4
+pues es para ti un ministro de Dios para bien. Pero si haces lo malo, teme. Porque no en vano lleva la espada, pues es ministro de Dios, un vengador que castiga al que practica lo malo.
+
+#### pues es para ti un ministro de Dios para bien.
+##### <u>Pablo</u> describe la función de la autoridad.
+
+###### La autoridad es presentada como un servidor que cumple <u>una</u> función dentro del propósito de Dios.
+
+###### El <u>énfasis</u> aquí está en el bien que esa función busca preservar.
+
+###### La <u>siguiente</u> frase presenta el contraste.
+
+#### Pero si haces lo malo, teme.
+##### Pablo vuelve al <u>contraste</u> entre bien y mal.
+
+###### La advertencia se dirige a quien practica aquello que la autoridad debe <u>corregir</u>.
+
+###### El tema del temor reaparece <u>conectado</u> con la mala conducta.
+
+###### <u>Ahora</u> Pablo explica la razón.
+
+#### Porque no en vano lleva la espada,
+##### Pablo presenta <u>la</u> autoridad como poseedora de capacidad para ejercer castigo.
+
+###### <u>La</u> referencia a la espada explica por qué el temor mencionado no es vacío.
+
+###### La autoridad posee medios para cumplir su <u>función</u>.
+
+#### pues es ministro de Dios,
+##### Pablo repite <u>una</u> idea ya mencionada anteriormente.
+
+###### La repetición subraya la función que la autoridad desempeña dentro del <u>argumento</u>.
+
+###### El énfasis sigue estando <u>en</u> el papel asignado a ella.
+
+###### la frase final explica ese <u>papel</u> con más detalle.
+
+#### un vengador que castiga al que practica lo malo.
+##### Pablo identifica la función <u>específica</u> que tiene en vista.
+
+###### La autoridad aparece relacionada con la aplicación de castigo <u>sobre</u> quien practica el mal.
+
+###### Esta explicación <u>completa</u> el razonamiento iniciado en Romanos 13:3.
+
+###### Romanos 13:5 resumirá la respuesta <u>apropiada</u> frente a esta realidad.
+
+### Romanos 13:5
+Por tanto, es necesario someterse, no solo por razón del castigo, sino también por causa de la conciencia.
+
+#### Por tanto,
+##### Pablo <u>vuelve</u> a presentar una conclusión.
+
+###### Esta exhortación resume la explicación de <u>los</u> versículos anteriores.
+
+###### El razonamiento avanza <u>desde</u> la función de la autoridad hacia la respuesta del creyente.
+
+###### <u>La</u> siguiente frase contiene esa respuesta.
+
+#### es necesario someterse,
+##### Pablo reafirma el mandato principal <u>de</u> la sección.
+
+###### La exhortación retoma el tema con <u>el</u> que comenzó Romanos 13:1.
+
+###### <u>Ahora</u> aparece respaldada por todo el argumento desarrollado hasta este punto.
+
+###### <u>La</u> siguiente frase presenta una motivación.
+
+#### no solo por razón del castigo,
+##### Pablo reconoce una razón <u>evidente</u> para someterse.
+
+###### <u>El</u> castigo mencionado se relaciona con la función explicada en el versículo anterior.
+
+###### Sin embargo, Pablo no <u>se</u> detiene ahí.
+
+###### la siguiente <u>frase</u> añade una segunda razón.
+
+#### sino también por causa de la conciencia.
+##### <u>Pablo</u> introduce una motivación adicional.
+
+###### La sumisión no debe depender únicamente del temor <u>a</u> las consecuencias externas.
+
+###### La conciencia también forma <u>parte</u> del razonamiento que Pablo presenta.
+
+### Romanos 13:6
+Pues por esto también ustedes pagan impuestos, porque los gobernantes son servidores de Dios, dedicados precisamente a esto.
+
+#### Pues por esto también ustedes pagan impuestos,
+##### Pablo aplica el principio anterior a una situación <u>concreta</u>.
+
+###### El pago de <u>impuestos</u> aparece como una expresión práctica de la relación descrita en esta sección.
+
+###### La <u>frase</u> conecta directamente con la explicación previa acerca de la autoridad.
+
+###### La siguiente frase <u>presenta</u> la razón.
+
+#### porque los gobernantes son servidores de Dios,
+##### Pablo vuelve a describir a los gobernantes mediante el <u>mismo</u> marco utilizado anteriormente.
+
+###### La repetición <u>ayuda</u> a mantener la continuidad del argumento.
+
+###### La <u>función</u> de los gobernantes sigue siendo el fundamento de la exhortación.
+
+###### La última frase completa la <u>idea</u>.
+
+#### dedicados precisamente a esto.
+##### Pablo concluye explicando la actividad a la que están <u>entregados</u>.
+
+###### El versículo cierra reafirmando la <u>relación</u> entre la función de los gobernantes y la respuesta esperada de los creyentes.
+
+###### Romanos 13:7 resumirá <u>esta</u> sección mediante varias obligaciones concretas hacia las autoridades.
+
+### Romanos 13:7
+Paguen a todos lo que deban: al que impuesto, impuesto; al que tributo, tributo; al que temor, temor; al que honor, honor.
+
+#### Paguen a todos lo que deban:
+##### Pablo <u>resume</u> la responsabilidad del creyente hacia otros.
+
+###### La instrucción <u>es</u> amplia:
+> «a todos»
+
+###### El énfasis recae en cumplir aquello <u>que</u> corresponde.
+
+#### al que impuesto, impuesto;
+##### Pablo menciona una obligación <u>específica</u>.
+
+###### El creyente debía entregar aquello que correspondía en <u>materia</u> de impuestos.
+
+#### al que tributo, tributo;
+##### Pablo <u>añade</u> una segunda obligación.
+
+###### <u>La</u> misma estructura se repite.
+
+###### La instrucción continúa enfatizando dar lo <u>que</u> corresponde.
+
+#### al que temor, temor;
+##### <u>Pablo</u> pasa de obligaciones económicas a actitudes relacionales.
+
+###### El texto <u>menciona</u>:
+> «temor»
+
+###### como algo que también debe darse <u>donde</u> corresponde.
+
+#### al que honor, honor.
+##### Pablo concluye con una cuarta <u>obligación</u>.
+
+###### La <u>estructura</u> del versículo permanece constante:
+
+- impuesto → impuesto
+- tributo → tributo
+- temor → temor
+- honor → honor
+
+##### <u>Observación</u> desarrollacional:
+###### Pablo cierra la sección sobre las autoridades <u>resumiendo</u> el principio de dar a cada uno lo que corresponde.
+
+###### El siguiente versículo ampliará este mismo tema <u>mediante</u> una nueva declaración:
+> «No deban a nadie nada, sino el amarse unos a otros».
+
+### Romanos 13:8
+No deban a nadie nada, sino el amarse unos a otros. Porque el que ama a su prójimo, ha cumplido la ley.
+
+#### No deban a nadie nada,
+##### Pablo pasa de las obligaciones civiles <u>a</u> las relaciones personales.
+
+###### Las deudas normales <u>pueden</u> pagarse y terminar. Sin embargo, presenta una obligación que permanece continuamente.
+
+#### sino el amarse unos a otros.
+##### El amor mutuo aparece como una responsabilidad constante dentro <u>de</u> la comunidad.
+
+###### Este <u>tema</u> ya había sido introducido en Romanos 12:9–10 y ahora recibe un desarrollo más amplio.
+
+#### Porque el que ama a su prójimo, ha cumplido la ley.
+##### Pablo conecta el amor con el propósito de los mandamientos relacionados <u>con</u> el prójimo.
+
+###### Los versículos siguientes explicarán esta afirmación mediante ejemplos <u>concretos</u> de la ley.
+
+### Romanos 13:9
+Porque esto: «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS», y cualquier otro mandamiento, en estas palabras se resume: «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
+
+#### Porque esto:
+##### Pablo <u>demuestra</u> su afirmación citando varios mandamientos conocidos.
+
+#### «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS»,
+##### Todos estos mandamientos <u>regulan</u> la manera en que una persona trata a otras personas.
+
+###### Pablo no los presenta <u>de</u> forma aislada, sino como ejemplos de un principio más amplio.
+
+#### y cualquier otro mandamiento,
+##### La <u>misma</u> lógica se extiende más allá de los ejemplos mencionados.
+
+#### «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
+##### Pablo presenta el principio que resume los mandamientos <u>relacionados</u> con el prójimo.
+
+###### <u>Véase</u> Levítico 19:18.
+
+### Romanos 13:10
+El amor no hace mal al prójimo. Por tanto, el amor es el cumplimiento de la ley.
+
+#### El amor no hace mal al prójimo.
+##### Pablo explica por qué el amor <u>resume</u> los mandamientos.
+
+###### Si <u>el</u> amor busca el bien del prójimo, entonces evita precisamente aquello que la ley prohíbe.
+
+#### Por tanto, el amor es el cumplimiento de la ley.
+##### Esta es la conclusión de <u>la</u> sección iniciada en Romanos 13:8.
+
+###### Pablo resume toda <u>la</u> discusión en una sola afirmación.
+
+### Romanos 13:11
+Y hagan todo esto, conociendo el tiempo, que ya es hora de despertarse del sueño. Porque ahora la salvación está más cerca de nosotros que cuando creímos.
+
+#### Y hagan todo esto,
+##### Pablo añade una nueva razón para <u>vivir</u> de esta manera.
+
+###### No <u>solo</u> importa qué hacer, sino también el momento en que se vive.
+
+#### que ya es hora de despertarse del sueño.
+##### Pablo utiliza <u>la</u> imagen de alguien que despierta.
+
+###### La figura prepara el contraste entre noche y día que <u>aparece</u> en los versículos siguientes.
+
+#### Porque ahora la salvación está más cerca de nosotros que cuando creímos.
+##### Pablo señala <u>que</u> el tiempo ha avanzado.
+
+###### Esta realidad impulsa la urgencia de las exhortaciones <u>que</u> siguen.
+
+### Romanos 13:12
+La noche está muy avanzada, y el día está cerca. Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
+
+#### La noche está muy avanzada, y el día está cerca.
+##### Pablo <u>continúa</u> desarrollando la imagen del versículo anterior.
+
+###### La escena describe una transición: una realidad se acerca <u>a</u> su fin mientras otra se aproxima.
+
+#### Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
+##### <u>La</u> conclusión surge directamente de la imagen anterior.
+
+###### Pablo contrasta dos maneras de vivir <u>mediante</u> las figuras de tinieblas y luz.
+
+### Romanos 13:13
+Andemos decentemente, como de día, no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
+
+#### Andemos decentemente, como de día,
+##### Pablo aplica de <u>forma</u> práctica el contraste entre tinieblas y luz.
+
+###### La conducta debe corresponder a <u>la</u> realidad representada por el día.
+
+#### no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
+##### Pablo presenta varios <u>ejemplos</u> de conductas incompatibles con la exhortación anterior.
+
+###### La lista incluye tanto excesos visibles <u>como</u> actitudes que dañan las relaciones entre las personas.
+
+### Romanos 13:14
+Antes bien, vístanse del Señor Jesucristo, y no piensen en proveer para las lujurias de la carne.
+
+#### Antes bien, vístanse del Señor Jesucristo,
+##### Pablo concluye esta sección retomando la imagen de vestirse <u>introducida</u> en el versículo 12.
+
+###### Después de describir lo que debe abandonarse, ahora presenta aquello con lo que <u>deben</u> identificarse.
+
+#### y no piensen en proveer para las lujurias de la carne.
+##### La exhortación <u>final</u> contrasta directamente con la lista del versículo anterior.
+
+###### Con este llamado, <u>Pablo</u> cierra la unidad práctica iniciada en Romanos 12:1 acerca de presentar la vida a Dios.
+
+> En Síntesis
+>- Pablo comienza hablando de la relación del creyente con las autoridades y afirma que la autoridad existe dentro del orden establecido por Dios.
+>- Después aplica este principio de manera práctica mediante la sumisión, el pago de impuestos, el respeto y el honor a quienes corresponde.
+>- A continuación dirige la atención hacia una deuda que nunca termina:
+El amor al prójimo.
+>- Pablo muestra que el amor resume los mandamientos relacionados con el prójimo y concluye que el amor es el cumplimiento de la ley.
+>- Luego añade una motivación urgente: el tiempo ha avanzado y la salvación está más cerca que cuando creímos.
+>- Por eso exhorta a abandonar las obras de las tinieblas, andar como de día y vestirse del Señor Jesucristo.
+>- La sección conecta la obediencia práctica, el amor al prójimo y una vida consciente del tiempo presente, llamando al creyente a vivir de manera coherente con la realidad que se acerca.
+
+# ROMANOS 14:1–15:13 ACÉPTENSE UNOS A OTROS
+
+## 14:1–12 El Señor es quien sostiene a Su siervo
+
+### Romanos 14:1
+Acepten al que es débil en la fe, pero no para juzgar sus opiniones.
+
+#### Acepten al que es débil en la fe,
+##### Pablo abre una nueva sección con una instrucción sobre cómo tratar a creyentes que tienen convicciones <u>diferentes</u>.
+
+###### El énfasis inicial no está en corregir al débil, sino <u>en</u> recibirlo.
+
+###### <u>El</u> tema principal de esta sección será la convivencia entre creyentes que no piensan igual sobre ciertos asuntos.
+
+###### <u>La</u> siguiente frase aclara cómo no debe hacerse esa recepción.
+
+#### pero no para juzgar sus opiniones.
+##### La aceptación no debe convertirse en una oportunidad para discutir o condenar las <u>convicciones</u> del otro.
+
+###### Pablo dirige la atención hacia la relación entre los creyentes más que <u>hacia</u> el asunto específico que produce la diferencia.
+
+###### Este principio controlará todo el desarrollo de los <u>versículos</u> siguientes.
+
+### Romanos 14:2
+Uno tiene fe en que puede comer de todo, pero el que es débil solo come legumbres.
+
+#### Uno tiene fe en que puede comer de todo,
+##### Pablo presenta <u>el</u> primer ejemplo de diferencia dentro de la comunidad.
+
+###### Una persona considera que puede comer cualquier alimento <u>sin</u> problema.
+
+###### <u>El</u> versículo no discute todavía quién tiene razón; simplemente describe las dos posiciones.
+
+###### La siguiente frase <u>presenta</u> la posición opuesta.
+
+#### pero el que es débil solo come legumbres.
+##### Pablo contrasta al creyente anterior con otro que limita <u>su</u> alimentación.
+
+###### El contraste muestra que ambos pertenecen a <u>la</u> misma comunidad, aunque sus prácticas sean diferentes.
+
+### Romanos 14:3
+El que come no desprecie al que no come, y el que no come no juzgue al que come, porque Dios lo ha aceptado.
+
+#### El que come no desprecie al que no come,
+##### Pablo corrige la primera <u>reacción</u> equivocada.
+
+###### Quien tiene mayor libertad <u>no</u> debe mirar al otro con desprecio o superioridad.
+
+###### La diferencia de práctica <u>no</u> justifica una actitud de menosprecio.
+
+#### y el que no come no juzgue al que come,
+##### Pablo <u>también</u> corrige al creyente que restringe su alimentación.
+
+###### La <u>diferencia</u> tampoco debe convertirse en condenación hacia quien actúa de otra manera.
+
+###### Ambos extremos <u>reciben</u> la misma corrección.
+
+###### la siguiente frase explica la <u>razón</u>.
+
+#### porque Dios lo ha aceptado.
+##### Pablo fundamenta su <u>instrucción</u> en la acción de Dios.
+
+###### Si Dios ha recibido a esa persona, los creyentes no <u>tienen</u> base para rechazarla.
+
+###### Esta idea será desarrollada aún más en <u>el</u> versículo siguiente.
+
+### Romanos 14:4
+¿Quién eres tú para juzgar al criado de otro? Para su propio amo está en pie o cae. En pie se mantendrá, porque poderoso es el Señor para sostenerlo en pie.
+
+#### ¿Quién eres tú para juzgar al criado de otro?
+##### Pablo utiliza la imagen de un <u>siervo</u> y su amo.
+
+###### La pregunta busca mostrar que el creyente pertenece a <u>otro</u> Señor.
+
+###### El énfasis recae <u>en</u> los límites de la autoridad humana para juzgar.
+
+###### la <u>siguiente</u> frase desarrolla la ilustración.
+
+#### Para su propio amo está en pie o cae.
+##### <u>Pablo</u> recuerda que el siervo responde ante su propio amo.
+
+###### La <u>evaluación</u> definitiva no pertenece a otros siervos.
+
+###### La imagen mantiene el enfoque en la relación entre el Señor <u>y</u> su siervo.
+
+###### La <u>siguiente</u> frase añade una afirmación importante.
+
+#### En pie se mantendrá,
+##### <u>Pablo</u> expresa confianza respecto al creyente mencionado.
+
+###### La atención se mueve del juicio humano al cuidado del <u>Señor</u>.
+
+###### La siguiente frase explica <u>por</u> qué.
+
+#### porque poderoso es el Señor para sostenerlo en pie.
+##### La estabilidad <u>final</u> del creyente se atribuye al Señor.
+
+###### El argumento no descansa en la fuerza del <u>siervo</u>, sino en la capacidad de quien lo sostiene.
+
+###### Romanos 14:5 introduce un segundo <u>ejemplo</u> de diferencias entre creyentes.
+
+### Romanos 14:5
+Uno juzga que un día es superior a otro, otro juzga iguales todos los días. Cada cual esté plenamente convencido según su propio sentir.
+
+#### Uno juzga que un día es superior a otro,
+##### Pablo presenta otro ejemplo de diferencias dentro de <u>la</u> comunidad.
+
+###### Ahora el tema no es la comida, sino la valoración de ciertos <u>días</u>.
+
+###### La siguiente frase presenta la <u>posición</u> opuesta.
+
+#### otro juzga iguales todos los días.
+##### Pablo muestra una segunda perspectiva sobre <u>el</u> mismo asunto.
+
+###### El contraste es similar al <u>ejemplo</u> anterior: creyentes que llegan a conclusiones distintas.
+
+###### El énfasis continúa estando en la convivencia, no en la discusión <u>del</u> calendario.
+
+#### Cada cual esté plenamente convencido según su propio sentir.
+##### Pablo llama a actuar con convicción <u>personal</u>.
+
+###### La instrucción se dirige a la certeza con la que cada uno practica aquello <u>que</u> considera correcto.
+
+###### Romanos 14:6 explicará cómo <u>ambas</u> prácticas pueden orientarse hacia el Señor.
+
+### Romanos 14:6
+El que guarda cierto día, para el Señor lo guarda. El que come, para el Señor come, pues da gracias a Dios; y el que no come, para el Señor se abstiene, y da gracias a Dios.
+
+#### El que guarda cierto día, para el Señor lo guarda.
+##### <u>Pablo</u> señala la intención detrás de la práctica.
+
+###### La <u>observancia</u> del día está dirigida al Señor.
+
+#### El que come, para el Señor come,
+##### Pablo muestra que <u>la</u> práctica diferente también puede estar orientada al Señor.
+
+###### La diferencia externa no <u>implica</u> necesariamente una diferencia en el propósito.
+
+###### La siguiente frase añade una <u>evidencia</u>.
+
+#### pues da gracias a Dios;
+##### La acción de dar <u>gracias</u> muestra reconocimiento hacia Dios.
+
+###### Pablo utiliza esta observación para mostrar la orientación común de ambos <u>grupos</u>.
+
+#### y el que no come, para el Señor se abstiene,
+##### El creyente que se abstiene actúa <u>con</u> la misma intención básica.
+
+###### Pablo vuelve a destacar la <u>dirección</u> hacia el Señor.
+
+###### la frase final repite el mismo <u>elemento</u>.
+
+#### y da gracias a Dios.
+##### <u>Ambos</u> grupos comparten una misma actitud de gratitud.
+
+###### La repetición refuerza el argumento de que la diferencia no está en <u>el</u> Señor al que sirven, sino en la práctica que siguen.
+
+###### Romanos 14:7 presentará el principio general que sostiene todo <u>este</u> razonamiento.
+
+### Romanos 14:7
+Porque ninguno de nosotros vive para sí mismo, y ninguno muere para sí mismo.
+
+#### Porque ninguno de nosotros vive para sí mismo,
+##### Pablo comienza a explicar la razón que une los ejemplos <u>anteriores</u>.
+
+###### El creyente no es presentado como alguien que existe únicamente para <u>sus</u> propias preferencias o decisiones.
+
+###### Esta afirmación prepara una explicación más <u>amplia</u> sobre la relación con el Señor.
+
+#### y ninguno muere para sí mismo.
+##### Pablo amplía el principio hasta abarcar <u>toda</u> la vida.
+
+###### <u>El</u> paralelismo entre vivir y morir muestra el alcance total de la afirmación.
+
+###### Pablo continuará desarrollando esta idea mostrando <u>que</u> tanto la vida como la muerte pertenecen al Señor.
+
+### Romanos 14:8
+Pues si vivimos, para el Señor vivimos, y si morimos, para el Señor morimos. Por tanto, ya sea que vivamos o que muramos, del Señor somos.
+
+#### Pues si vivimos, para el Señor vivimos,
+##### Pablo continúa desarrollando <u>la</u> idea del versículo anterior.
+
+###### La <u>vida</u> del creyente no se presenta como algo orientado principalmente a sí mismo, sino al Señor.
+
+###### Esto explica por qué las diferencias tratadas en este <u>capítulo</u> no deben convertirse en motivo de división.
+
+###### La siguiente frase extiende el mismo principio <u>a</u> la muerte.
+
+#### y si morimos, para el Señor morimos.
+##### <u>Pablo</u> amplía el alcance de la afirmación.
+
+###### Tanto la vida como la muerte quedan bajo <u>la</u> misma relación con el Señor.
+
+###### El argumento busca <u>mostrar</u> una pertenencia que abarca toda la existencia.
+
+#### Por tanto, ya sea que vivamos o que muramos, del Señor somos.
+##### Pablo <u>llega</u> a la conclusión principal.
+
+###### La identidad del creyente se define por su pertenencia <u>al</u> Señor.
+
+###### Esta <u>realidad</u> prepara la explicación del versículo siguiente.
+
+### Romanos 14:9
+Porque para esto Cristo murió y resucitó, para ser Señor tanto de los muertos como de los vivos.
+
+#### Porque para esto Cristo murió y resucitó,
+##### <u>Pablo</u> explica la base de la afirmación anterior.
+
+###### La muerte y resurrección de Cristo se presentan como acontecimientos que sostienen <u>su</u> señorío.
+
+###### El versículo conecta directamente con la declaración de que vivimos y morimos para el <u>Señor</u>.
+
+#### para ser Señor tanto de los muertos como de los vivos.
+##### Pablo presenta el alcance del señorío <u>de</u> Cristo.
+
+###### La afirmación abarca <u>a</u> vivos y muertos, retomando las dos categorías mencionadas en el versículo anterior.
+
+###### Este argumento servirá para corregir la actitud de juzgar <u>al</u> hermano.
+
+### Romanos 14:10
+Pero tú, ¿por qué juzgas a tu hermano? O también, tú, ¿por qué desprecias a tu hermano? Porque todos compareceremos ante el tribunal de Dios.
+
+#### Pero tú, ¿por qué juzgas a tu hermano?
+##### Pablo vuelve <u>al</u> problema práctico que abrió la sección.
+
+###### Después de afirmar <u>el</u> señorío de Cristo, cuestiona el hábito de juzgar al hermano.
+
+###### La pregunta obliga al lector a reconsiderar su postura frente a otros <u>creyentes</u>.
+
+#### O también, tú, ¿por qué desprecias a tu hermano?
+##### Pablo <u>corrige</u> tanto al que juzga como al que menosprecia.
+
+###### Ambos comportamientos rompen la relación <u>que</u> debe existir entre hermanos.
+
+###### El problema no está solamente en condenar, sino <u>también</u> en mirar con superioridad.
+
+###### La <u>siguiente</u> frase explica la razón.
+
+#### Porque todos compareceremos ante el tribunal de Dios.
+##### Pablo dirige la <u>atención</u> al juicio de Dios.
+
+###### El énfasis deja de estar en la evaluación <u>humana</u> y pasa a la evaluación divina.
+
+###### <u>Todos</u> aparecen en la misma condición delante de Dios.
+
+###### El versículo siguiente apoya esta afirmación con una cita de la <u>Escritura</u>.
+
+### Romanos 14:11
+Porque está escrito: «VIVO YO, DICE EL SEÑOR, QUE ANTE MÍ SE DOBLARÁ TODA RODILLA, Y TODA LENGUA ALABARÁ A DIOS».
+
+#### Porque está escrito:
+##### Pablo fundamenta su argumento en la <u>Escritura</u>.
+
+###### La autoridad de la afirmación no descansa en una opinión personal, sino en un texto ya <u>escrito</u>.
+
+###### La cita describe una respuesta universal delante de <u>Dios</u>.
+
+#### «VIVO YO, DICE EL SEÑOR,
+##### La declaración comienza con una afirmación solemne <u>del</u> Señor.
+
+###### La cita enfatiza que <u>es</u> Dios mismo quien habla.
+
+###### la siguiente frase describe <u>la</u> respuesta que recibirá.
+
+#### QUE ANTE MÍ SE DOBLARÁ TODA RODILLA,
+##### La imagen presenta reconocimiento y <u>sumisión</u> delante de Dios.
+
+###### El alcance es universal: <u>toda</u> rodilla.
+
+###### La siguiente frase <u>completa</u> el paralelismo.
+
+#### Y TODA LENGUA ALABARÁ A DIOS».
+##### La cita añade la confesión verbal <u>junto</u> a la acción de doblar la rodilla.
+
+###### Ambas imágenes <u>apuntan</u> a una comparecencia universal delante de Dios.
+
+###### <u>Véase</u> Isaías 45:23.
+
+###### Pablo resumirá la implicación en el <u>versículo</u> siguiente.
+
+### Romanos 14:12
+De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
+
+#### De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
+##### Pablo extrae la conclusión de la cita <u>anterior</u>.
+
+###### <u>La</u> responsabilidad presentada aquí es personal.
+
+###### El énfasis recae en la relación de cada creyente con Dios, no en la evaluación de <u>otros</u> creyentes.
+
+###### La siguiente exhortación aplicará esta conclusión al problema del <u>juicio</u> mutuo.
+
+> En Síntesis
+>- Pablo exhorta a los creyentes a recibirse mutuamente aun cuando tengan convicciones diferentes sobre asuntos secundarios.
+>- Ni el que tiene mayor libertad debe despreciar al otro, ni el que restringe ciertas prácticas debe juzgar a su hermano.
+>- La razón principal es que Dios ya lo ha aceptado y el Señor es poderoso para sostener a Su siervo.
+>- Tanto quienes comen como quienes se abstienen, tanto quienes observan ciertos días como quienes no lo hacen, pueden actuar para el Señor y dar gracias a Dios.
+>- Pablo recuerda que los creyentes no viven para sí mismos, sino que pertenecen al Señor, quien murió y resucitó para ser Señor tanto de los muertos como de los vivos.
+>- Por eso el juicio y el menosprecio entre hermanos son inapropiados, porque cada creyente comparecerá personalmente ante Dios y dará cuenta de sí mismo.
+
+## 14:13–23 No destruyan al hermano
+
+### Romanos 14:13
+Por tanto, ya no nos juzguemos los unos a los otros, sino más bien decidan esto: no poner obstáculo o piedra de tropiezo al hermano.
+
+#### Por tanto, ya no nos juzguemos los unos a los otros,
+##### Pablo <u>aplica</u> directamente la conclusión del versículo anterior.
+
+###### Si cada persona <u>dará</u> cuenta de sí misma a Dios, entonces la comunidad no debe dedicarse a juzgarse mutuamente.
+
+###### Esto <u>retoma</u> el tema iniciado en Romanos 14:1–4.
+
+###### La <u>siguiente</u> frase propone una decisión mejor.
+
+#### sino más bien decidan esto:
+##### Pablo reemplaza una actividad <u>por</u> otra.
+
+###### En lugar de juzgar al hermano, deben tomar una resolución <u>diferente</u>.
+
+###### La siguiente frase expresa <u>esa</u> resolución.
+
+#### no poner obstáculo o piedra de tropiezo al hermano.
+##### Pablo dirige la atención al efecto que una conducta puede tener sobre otros <u>creyentes</u>.
+
+###### El enfoque <u>cambia</u> del derecho personal al bienestar del hermano.
+
+###### Este principio dominará <u>el</u> resto de la sección.
+
+### Romanos 14:14
+Yo sé, y estoy convencido en el Señor Jesús, de que nada es inmundo en sí mismo; pero para el que estima que algo es inmundo, para él lo es.
+
+#### Yo sé, y estoy convencido en el Señor Jesús,
+##### Pablo expresa una <u>convicción</u> personal con claridad.
+
+###### La afirmación prepara el contenido principal <u>del</u> versículo.
+
+#### de que nada es inmundo en sí mismo;
+##### Pablo afirma <u>que</u> ningún alimento es inmundo por naturaleza propia.
+
+###### Esta declaración ayuda <u>a</u> entender su posición en la discusión.
+
+###### Sin embargo, <u>Pablo</u> no termina aquí.
+
+###### La siguiente frase introduce una <u>consideración</u> adicional.
+
+#### pero para el que estima que algo es inmundo, para él lo es.
+##### <u>Pablo</u> toma en cuenta la conciencia de la otra persona.
+
+###### El énfasis sigue estando en <u>la</u> manera en que los creyentes conviven con diferencias de convicción.
+
+###### El versículo <u>siguiente</u> mostrará cómo esto afecta la conducta hacia el hermano.
+
+### Romanos 14:15
+Porque si por causa de la comida tu hermano se entristece, ya no andas conforme al amor. No destruyas con tu comida a aquel por quien Cristo murió.
+
+#### Porque si por causa de la comida tu hermano se entristece,
+##### <u>Pablo</u> presenta una situación concreta.
+
+###### La <u>discusión</u> deja de centrarse en la comida misma y pasa a considerar el efecto producido en el hermano.
+
+###### La siguiente <u>frase</u> evalúa esa conducta.
+
+#### ya no andas conforme al amor.
+##### Pablo mide la <u>situación</u> usando el criterio del amor.
+
+###### Esto conecta con el énfasis desarrollado <u>anteriormente</u> en Romanos 12:9–10 y Romanos 13:8–10.
+
+###### <u>La</u> siguiente frase intensifica la advertencia.
+
+#### No destruyas con tu comida a aquel por quien Cristo murió.
+##### Pablo muestra el valor que tiene el hermano dentro del <u>argumento</u>.
+
+###### El contraste es intencional: un asunto relacionado con comida no debe colocarse <u>por</u> encima del bienestar de una persona.
+
+###### El versículo siguiente extraerá una <u>conclusión</u> práctica.
+
+### Romanos 14:16
+Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
+
+#### Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
+##### Pablo resume la preocupación planteada en los versículos <u>anteriores</u>.
+
+###### Algo que es bueno en sí mismo puede llegar <u>a</u> ser motivo de conflicto si se utiliza sin consideración hacia otros.
+
+###### <u>La</u> atención continúa enfocada en proteger la unidad y evitar tropiezos innecesarios.
+
+###### Romanos 14:17 explicará por <u>qué</u> estas cuestiones no constituyen el centro del reino de Dios.
+
+### Romanos 14:17
+Porque el reino de Dios no es comida ni bebida, sino justicia y paz y gozo en el Espíritu Santo.
+
+#### Porque el reino de Dios no es comida ni bebida,
+##### Pablo <u>explica</u> por qué la comida no debe convertirse en el centro de la discusión.
+
+###### Después de varios ejemplos relacionados con <u>alimentos</u>, dirige la atención hacia algo más importante.
+
+###### El argumento <u>no</u> niega la existencia de esas diferencias, pero sí niega que definan la esencia del reino de Dios.
+
+###### La siguiente frase muestra aquello <u>que</u> sí caracteriza al reino.
+
+#### sino justicia y paz y gozo en el Espíritu Santo.
+##### Pablo presenta tres realidades que contrastan con <u>la</u> discusión sobre comida y bebida.
+
+###### <u>El</u> enfoque pasa de cuestiones externas a aquello que fortalece la vida del pueblo de Dios.
+
+###### La paz conecta especialmente con la exhortación <u>que</u> aparecerá en el versículo 19.
+
+###### El versículo siguiente muestra el resultado de <u>vivir</u> de esta manera.
+
+### Romanos 14:18
+Porque el que de esta manera sirve a Cristo, es aceptable a Dios y aprobado por los hombres.
+
+#### Porque el que de esta manera sirve a Cristo,
+##### Pablo se refiere a la manera <u>de</u> vivir descrita en el versículo anterior.
+
+###### El énfasis <u>está</u> en servir a Cristo según las prioridades que acaba de mencionar.
+
+###### La <u>siguiente</u> frase describe el resultado.
+
+#### es aceptable a Dios y aprobado por los hombres.
+##### Pablo <u>presenta</u> dos resultados paralelos.
+
+###### La conducta descrita encuentra aprobación tanto delante de <u>Dios</u> como en las relaciones humanas.
+
+###### Esto prepara la exhortación práctica <u>del</u> versículo siguiente.
+
+### Romanos 14:19
+Así que procuremos lo que contribuye a la paz y a la edificación mutua.
+
+#### Así que procuremos
+##### Pablo extrae una conclusión práctica <u>de</u> todo el argumento anterior.
+
+###### La discusión deja de centrarse en quién tiene razón y pasa a centrarse en qué debe <u>buscar</u> la comunidad.
+
+###### La <u>siguiente</u> frase define ese objetivo.
+
+#### lo que contribuye a la paz y a la edificación mutua.
+##### Pablo identifica dos metas <u>principales</u>.
+
+###### La paz retoma <u>el</u> tema del versículo 17.
+
+###### <u>La</u> edificación dirige la atención al beneficio de otros creyentes.
+
+###### <u>Véase</u> Romanos 12:16–18.
+
+### Romanos 14:20
+No destruyas la obra de Dios por causa de la comida. En realidad, todas las cosas son limpias, pero son malas para el hombre que escandaliza a otro al comer.
+
+#### No destruyas la obra de Dios por causa de la comida.
+##### Pablo vuelve al ejemplo principal <u>de</u> esta sección.
+
+###### El contraste <u>es</u> fuerte: la comida aparece frente a la obra de Dios.
+
+###### La exhortación mantiene el énfasis en el valor <u>del</u> hermano y de la comunidad.
+
+###### La <u>siguiente</u> frase aclara la posición de Pablo sobre los alimentos.
+
+#### En realidad, todas las cosas son limpias,
+##### Pablo reafirma algo que ya <u>había</u> dicho anteriormente.
+
+###### La cuestión <u>principal</u> no es la naturaleza de la comida.
+
+###### Esta afirmación se <u>conecta</u> con Romanos 14:14.
+
+#### pero son malas para el hombre que escandaliza a otro al comer.
+##### Pablo dirige la atención al efecto producido sobre otra <u>persona</u>.
+
+###### El problema no es <u>simplemente</u> comer, sino hacerlo de una manera que cause tropiezo.
+
+###### La preocupación sigue siendo el bienestar <u>del</u> hermano.
+
+### Romanos 14:21
+Es mejor no comer carne, ni beber vino, ni hacer nada en que tu hermano tropiece.
+
+#### Es mejor no comer carne, ni beber vino,
+##### <u>Pablo</u> presenta una alternativa voluntaria.
+
+###### La prioridad continúa siendo <u>proteger</u> al hermano antes que ejercer una libertad personal.
+
+###### La comida y la bebida siguen funcionando como ejemplos <u>concretos</u>.
+
+#### ni hacer nada en que tu hermano tropiece.
+##### Pablo amplía el principio más allá <u>de</u> la comida.
+
+###### El énfasis <u>ya</u> no está en una acción específica, sino en cualquier conducta que produzca tropiezo.
+
+###### Esto resume <u>gran</u> parte del argumento desarrollado desde Romanos 14:13.
+
+###### El versículo siguiente vuelve a la responsabilidad personal delante <u>de</u> Dios.
+
+### Romanos 14:22
+La fe que tú tienes, tenla conforme a tu propia convicción delante de Dios. Dichoso el que no se condena a sí mismo en lo que aprueba.
+
+#### La fe que tú tienes,
+##### Pablo se dirige directamente al creyente que posee una convicción determinada sobre estos <u>asuntos</u>.
+
+###### El énfasis <u>pasa</u> nuevamente a la responsabilidad personal.
+
+#### tenla conforme a tu propia convicción delante de Dios.
+##### Pablo relaciona estas convicciones con la relación personal <u>delante</u> de Dios.
+
+###### El foco no está en imponerlas a otros, sino en <u>sostenerlas</u> delante de Dios.
+
+#### Dichoso el que no se condena a sí mismo en lo que aprueba.
+##### Pablo <u>describe</u> una situación de tranquilidad de conciencia.
+
+###### La persona aprueba una conducta sin quedar condenada por ella en su <u>propia</u> conciencia.
+
+###### Este pensamiento prepara <u>el</u> contraste del versículo siguiente.
+
+### Romanos 14:23
+Pero el que duda, si come se condena, porque no lo hace por fe. Todo lo que no procede de fe, es pecado.
+
+#### Pero el que duda,
+##### Pablo presenta el caso opuesto al <u>versículo</u> anterior.
+
+###### El tema sigue siendo la relación entre la conducta <u>y</u> la convicción personal.
+
+###### la <u>siguiente</u> frase describe la consecuencia.
+
+#### si come se condena,
+##### Pablo explica <u>el</u> resultado de actuar contra la propia convicción.
+
+###### La atención recae sobre la condición interior <u>de</u> la persona que duda.
+
+###### <u>La</u> siguiente frase explica la razón.
+
+#### porque no lo hace por fe.
+##### Pablo identifica la causa del <u>problema</u>.
+
+###### La acción no surge de una <u>convicción</u> segura.
+
+###### Esta explicación conecta directamente con el <u>tema</u> desarrollado en los versículos anteriores.
+
+#### Todo lo que no procede de fe, es pecado.
+##### Pablo concluye la sección con una declaración <u>amplia</u>.
+
+###### El principio resume el problema tratado a lo largo del capítulo: actuar sin convicción delante <u>de</u> Dios.
+
+###### Con esta afirmación concluye la discusión iniciada en Romanos 14:1 sobre diferencias de conciencia entre <u>creyentes</u>.
+
+> En Síntesis
+>- Pablo deja de enfocarse en el juicio mutuo y dirige la atención al bienestar del hermano.
+>- La pregunta principal ya no es qué está permitido, sino qué efecto tiene una acción sobre otros creyentes.
+>- Aunque Pablo afirma que nada es inmundo en sí mismo, insiste en que el amor debe gobernar el uso de la libertad.
+>- Por eso repite varias veces la misma advertencia: No destruir, entristecer ni hacer tropezar al hermano por causa de asuntos relacionados con comida o bebida.
+>- En lugar de centrarse en derechos personales, los creyentes deben procurar lo que contribuye a la paz y a la edificación mutua.
+>- La sección concluye recordando que las convicciones deben mantenerse delante de Dios y que actuar contra la propia convicción no procede de fe.
+>- Por eso Pablo resume el principio con una afirmación amplia: «Todo lo que no procede de fe, es pecado».
+
+## Romanos 15:1–13 - Acéptense unos a otros
+
+### Romanos 15:1
+Así que, nosotros los que somos fuertes, debemos sobrellevar las flaquezas de los débiles y no agradarnos a nosotros mismos.
+
+#### Así que, nosotros los que somos fuertes,
+##### Pablo conecta directamente con <u>la</u> discusión de los capítulos anteriores.
+
+###### Después de hablar sobre fuertes y débiles en asuntos de conciencia, ahora se dirige <u>específicamente</u> a quienes tienen mayor libertad.
+
+###### El énfasis <u>ya</u> no está en quién tiene razón, sino en cómo debe actuar el fuerte.
+
+#### debemos sobrellevar las flaquezas de los débiles
+##### Pablo asigna una responsabilidad al <u>fuerte</u>.
+
+###### La carga principal recae sobre quien tiene mayor libertad <u>y</u> comprensión del asunto.
+
+###### Esta exhortación desarrolla lo <u>que</u> ya venía diciendo en Romanos 14:13–23.
+
+#### y no agradarnos a nosotros mismos.
+##### Pablo identifica <u>la</u> alternativa equivocada.
+
+###### El problema no es la libertad <u>en</u> sí, sino usarla únicamente para beneficio propio.
+
+### Romanos 15:2
+Cada uno de nosotros agrade a su prójimo en lo que es bueno para su edificación.
+
+#### Cada uno de nosotros agrade a su prójimo
+##### Pablo amplía <u>la</u> exhortación a toda la comunidad.
+
+###### La atención se dirige nuevamente al prójimo y no <u>a</u> uno mismo.
+
+###### <u>El</u> lenguaje continúa desarrollando la idea de Romanos 15:1.
+
+#### en lo que es bueno para su edificación.
+##### Pablo define el objetivo de agradar al <u>prójimo</u>.
+
+###### No se trata de aprobación <u>sin</u> criterio, sino de aquello que contribuye a su crecimiento y fortalecimiento.
+
+###### <u>Véase</u> Romanos 14:19.
+
+### Romanos 15:3
+Pues ni aun Cristo se agradó a Él mismo; antes bien, como está escrito: «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
+
+#### Pues ni aun Cristo se agradó a Él mismo;
+##### Pablo fundamenta su exhortación en <u>el</u> ejemplo de Cristo.
+
+###### El argumento pasa de la conducta de los creyentes <u>a</u> la conducta de Cristo.
+
+###### Esto refuerza la exhortación de <u>no</u> buscar principalmente el propio beneficio.
+
+###### La <u>siguiente</u> frase apoya esta afirmación con una cita bíblica.
+
+#### antes bien, como está escrito:
+##### <u>Pablo</u> vuelve a fundamentar su argumento en las Escrituras.
+
+###### La cita <u>sirve</u> como respaldo del ejemplo que acaba de mencionar.
+
+#### «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
+##### Pablo utiliza esta cita para <u>ilustrar</u> el principio que está desarrollando.
+
+###### El énfasis <u>está</u> en soportar aquello que viene de otros en lugar de buscar agradarse a uno mismo. Salmo 69:9
+
+### Romanos 15:4
+Porque todo lo que fue escrito en tiempos pasados, para nuestra enseñanza se escribió, a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
+
+#### Porque todo lo que fue escrito en tiempos pasados,
+##### Pablo amplía la importancia de la cita <u>anterior</u>.
+
+###### No se limita al <u>texto</u> recién citado, sino que habla de las Escrituras en general.
+
+###### La siguiente <u>frase</u> explica su propósito.
+
+#### para nuestra enseñanza se escribió,
+##### Pablo identifica una función de las <u>Escrituras</u>.
+
+###### Lo escrito anteriormente sigue teniendo valor para los lectores <u>actuales</u>.
+
+###### la siguiente frase desarrolla el <u>resultado</u> esperado.
+
+#### a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
+##### Pablo <u>señala</u> el propósito final.
+
+###### La paciencia, el consuelo y la esperanza aparecen unidos <u>dentro</u> de la misma idea.
+
+###### El <u>tema</u> de la esperanza conecta con varias secciones anteriores de Romanos.
+
+###### el versículo <u>siguiente</u> se convierte en una oración basada en estos conceptos.
+
+### Romanos 15:5
+Y que el Dios de la paciencia y del consuelo les conceda tener el mismo sentir los unos para con los otros conforme a Cristo Jesús,
+
+#### Y que el Dios de la paciencia y del consuelo
+##### Pablo transforma la enseñanza anterior <u>en</u> una petición.
+
+###### Los mismos conceptos mencionados <u>en</u> el versículo anterior reaparecen ahora asociados a Dios.
+
+###### La siguiente frase <u>expresa</u> la petición específica.
+
+#### les conceda tener el mismo sentir los unos para con los otros
+##### Pablo desea unidad dentro de <u>la</u> comunidad.
+
+###### <u>La</u> preocupación sigue siendo la convivencia entre creyentes con diferencias.
+
+###### <u>Esto</u> retoma el tema desarrollado desde Romanos 14:1.
+
+###### <u>La</u> siguiente frase define el modelo.
+
+#### conforme a Cristo Jesús,
+##### Cristo aparece <u>nuevamente</u> como referencia para la vida comunitaria.
+
+###### La unidad <u>buscada</u> no surge simplemente de acuerdos humanos, sino que se relaciona con Cristo.
+
+###### El versículo siguiente presenta el propósito de esta <u>unidad</u>.
+
+### Romanos 15:6
+para que unánimes, a una voz, glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+
+#### para que unánimes, a una voz,
+##### Pablo muestra el resultado esperado de <u>la</u> unidad mencionada anteriormente.
+
+###### <u>Las</u> expresiones destacan armonía y acción conjunta.
+
+#### glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+##### <u>La</u> unidad tiene un propósito que va más allá de la convivencia misma.
+
+###### La meta final <u>es</u> la glorificación de Dios.
+
+###### Este versículo funciona como <u>la</u> culminación de la oración iniciada en Romanos 15:5.
+
+### Romanos 15:7
+Por tanto, acéptense los unos a los otros, como también Cristo nos aceptó para la gloria de Dios.
+
+#### Por tanto, acéptense los unos a los otros,
+##### Pablo resume <u>la</u> sección con una exhortación directa.
+
+###### La aceptación mutua <u>ha</u> sido el tema constante desde Romanos 14:1.
+
+###### Ahora aparece <u>como</u> conclusión explícita.
+
+#### como también Cristo nos aceptó
+##### Cristo vuelve a ser el <u>ejemplo</u> principal.
+
+###### La aceptación mutua entre creyentes se relaciona <u>con</u> la manera en que Cristo los ha recibido.
+
+###### Esta referencia conecta con el <u>énfasis</u> de Romanos 14–15 sobre no rechazar al hermano.
+
+#### para la gloria de Dios.
+##### Pablo concluye uniendo aceptación y gloria <u>de</u> Dios.
+
+###### La misma meta que <u>apareció</u> en Romanos 15:6 vuelve a cerrar la sección.
+
+###### Este versículo funciona como un <u>resumen</u> de toda la unidad iniciada en Romanos 14:1 sobre fuertes, débiles y aceptación mutua.
+
+### Romanos 15:8
+Pues les digo que Cristo se hizo servidor de la circuncisión para demostrar la verdad de Dios, para confirmar las promesas dadas a los padres,
+
+#### Pues les digo que Cristo se hizo servidor de la circuncisión
+##### <u>Pablo</u> explica cómo Cristo contribuye a la aceptación mutua que acaba de mencionar.
+
+###### Después de exhortar a judíos y gentiles a aceptarse unos a otros (Romanos 15:7), Pablo comienza mostrando la relación <u>de</u> Cristo con Israel.
+
+###### El énfasis recae en que Cristo vino como <u>servidor</u> de la circuncisión.
+
+#### para demostrar la verdad de Dios,
+##### Pablo relaciona el ministerio de Cristo con la fidelidad <u>de</u> Dios.
+
+###### Lo que Cristo hizo confirma que Dios actúa conforme <u>a</u> lo que ha dicho.
+
+#### para confirmar las promesas dadas a los padres,
+##### <u>Pablo</u> conecta la obra de Cristo con las promesas hechas anteriormente.
+
+###### La referencia a los padres enlaza con el tema que <u>apareció</u> en Romanos 11:28.
+
+###### La llegada de <u>Cristo</u> no aparece separada de esas promesas, sino vinculada a ellas.
+
+###### El versículo siguiente añade un segundo propósito <u>relacionado</u> con los gentiles.
+
+### Romanos 15:9
+y para que los gentiles glorifiquen a Dios por Su misericordia, como está escrito: «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
+
+#### y para que los gentiles glorifiquen a Dios por Su misericordia,
+##### Pablo añade un segundo propósito <u>junto</u> al anterior.
+
+###### Cristo no solo confirma las promesas hechas a los <u>padres</u>; también abre el camino para que los gentiles glorifiquen a Dios.
+
+###### La <u>misericordia</u> vuelve a ocupar un lugar importante en el argumento (Romanos 11:30–32).
+
+###### la siguiente frase apoya esta afirmación <u>con</u> Escritura.
+
+#### como está escrito:
+##### Pablo vuelve a fundamentar su argumento en <u>una</u> cita bíblica.
+
+###### <u>A</u> partir de aquí reunirá varias citas que muestran a los gentiles participando en la alabanza a Dios.
+
+#### «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
+##### La cita presenta alabanza a Dios en medio de <u>los</u> gentiles.
+
+###### Pablo utiliza este texto para mostrar que la participación <u>de</u> los gentiles ya estaba presente en las Escrituras. (Salmo 18:49)
+
+###### El versículo <u>siguiente</u> añade una segunda cita.
+
+### Romanos 15:10
+Y vuelve a decir: «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
+
+#### Y vuelve a decir:
+##### Pablo continúa acumulando <u>testimonios</u> de las Escrituras.
+
+###### La repetición muestra que no depende de un solo texto para <u>sostener</u> su argumento.
+
+#### «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
+##### La cita une <u>a</u> los gentiles con el pueblo de Dios en una misma celebración.
+
+###### <u>El</u> énfasis está en el regocijo compartido. (Deuteronomio 32:43)
+
+### Romanos 15:11
+Y de nuevo: «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
+
+#### Y de nuevo:
+##### Pablo introduce otro <u>testimonio</u> adicional.
+
+###### La serie de <u>citas</u> sigue reforzando la misma dirección del argumento.
+
+#### «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
+##### La <u>cita</u> amplía el llamado a la alabanza.
+
+###### Tanto los gentiles como los pueblos aparecen convocados a <u>glorificar</u> al Señor. (Salmo 117:1)
+
+###### El versículo siguiente añade una cuarta <u>cita</u>, esta vez de Isaías.
+
+### Romanos 15:12
+Y a su vez, Isaías dice: «RETOÑARÁ LA RAÍZ DE ISAÍ, EL QUE SE LEVANTA A REGIR A LOS GENTILES; LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
+
+#### Y a su vez, Isaías dice:
+##### Pablo añade <u>un</u> nuevo testigo de las Escrituras.
+
+###### La <u>secuencia</u> de citas alcanza ahora a Isaías.
+
+#### «RETOÑARÁ LA RAÍZ DE ISAÍ,
+##### La cita introduce una <u>figura</u> asociada con Isaí.
+
+###### Pablo utiliza este texto como parte de <u>su</u> demostración acerca de los gentiles.
+
+#### EL QUE SE LEVANTA A REGIR A LOS GENTILES;
+##### La figura presentada ejerce autoridad <u>sobre</u> los gentiles.
+
+###### Los gentiles ya no aparecen solo como espectadores <u>de</u> la alabanza, sino relacionados directamente con este gobernante.
+
+#### LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
+##### La <u>cita</u> culmina con la esperanza de los gentiles.
+
+###### <u>Este</u> tema conecta inmediatamente con la oración que sigue en el versículo siguiente. (Isaías 11:10)
+
+### Romanos 15:13
+Y el Dios de la esperanza los llene de todo gozo y paz en el creer, para que abunden en esperanza por el poder del Espíritu Santo.
+
+#### Y el Dios de la esperanza
+##### Pablo pasa de las <u>citas</u> a una oración.
+
+###### <u>La</u> esperanza mencionada en el versículo anterior reaparece ahora como una característica asociada a Dios.
+
+#### los llene de todo gozo y paz en el creer,
+##### Pablo desea que los <u>creyentes</u> experimenten gozo y paz.
+
+###### Ambos elementos aparecen vinculados al <u>creer</u>.
+
+#### para que abunden en esperanza
+##### La meta <u>de</u> la oración es una esperanza abundante.
+
+###### <u>La</u> esperanza ha sido un tema recurrente desde Romanos 15:4.
+
+#### por el poder del Espíritu Santo.
+##### Pablo atribuye esta abundancia de esperanza a la <u>acción</u> del Espíritu Santo.
+
+###### La <u>oración</u> concluye uniendo esperanza, gozo, paz y poder espiritual.
+
+###### El versículo siguiente cambia del contenido doctrinal a una valoración personal de los creyentes <u>en</u> Roma.
+
+> En Síntesis
+>- Pablo concluye la discusión sobre fuertes y débiles llamando a los creyentes a aceptarse mutuamente y a buscar la edificación del prójimo antes que el beneficio propio.
+>- Cristo es presentado como el modelo supremo, pues no se agradó a sí mismo, sino que actuó en beneficio de otros.
+>- La unidad de la comunidad tiene un propósito mayor: Glorificar a Dios unánimes y a una voz.
+>- Pablo muestra después que la obra de Cristo está relacionada tanto con Israel como con los gentiles:
+>- Cristo confirma las promesas dadas a los padres y también abre el camino para que los gentiles glorifiquen a Dios por Su misericordia.
+>- Para demostrarlo, reúne una serie de citas de las Escrituras que muestran a los gentiles participando en la alabanza, el gozo y la esperanza junto con el pueblo de Dios.
+>- La sección culmina con una oración para que los creyentes abunden en esperanza, gozo y paz por el poder del Espíritu Santo.
+
+# Romanos 15:14–16:27 EL EVANGELIO CONTINÚA AVANZANDO
+
+## 15:14–21 El ministerio de Pablo a los gentiles
+
+### Romanos 15:14
+En cuanto a ustedes, hermanos míos, yo mismo estoy también convencido de que ustedes están llenos de bondad, llenos de todo conocimiento y capaces también de amonestarse los unos a los otros.
+
+#### En cuanto a ustedes, hermanos míos,
+##### Pablo cambia de <u>tono</u> y se dirige directamente a los creyentes de Roma.
+
+###### Después de la oración anterior, vuelve a hablar <u>de</u> ellos de manera personal.
+
+###### La siguiente frase expresa su <u>convicción</u>.
+
+#### yo mismo estoy también convencido
+##### Pablo declara <u>su</u> confianza respecto a ellos.
+
+###### <u>Lo</u> que sigue no es una corrección severa, sino un reconocimiento de cualidades presentes en la comunidad.
+
+#### de que ustedes están llenos de bondad,
+##### Pablo reconoce <u>la</u> presencia de bondad entre ellos.
+
+###### Esta <u>afirmación</u> prepara el resto de la descripción.
+
+#### llenos de todo conocimiento
+##### Pablo también reconoce conocimiento en la <u>congregación</u>.
+
+###### <u>Bondad</u> y conocimiento aparecen juntos en la evaluación de Pablo.
+
+#### y capaces también de amonestarse los unos a los otros.
+##### Pablo afirma <u>que</u> la comunidad posee capacidad para instruirse y corregirse mutuamente.
+
+###### Esta observación encaja con <u>el</u> énfasis comunitario desarrollado desde Romanos 12:3 en adelante.
+
+###### Romanos 15:15 explicará por qué Pablo les ha escrito con tanta franqueza <u>a</u> pesar de reconocer estas cualidades.
+
+### Romanos 15:15
+Pero les he escrito con atrevimiento sobre algunas cosas, para así hacer que las recuerden otra vez, por la gracia que me fue dada por Dios,
+
+#### Pero les he escrito con atrevimiento sobre algunas cosas,
+##### Pablo equilibra lo que acaba <u>de</u> decir en Romanos 15:14.
+
+###### Aunque reconoce la madurez de los creyentes en Roma, <u>explica</u> por qué les escribió con tanta franqueza en ciertos temas.
+
+###### El énfasis no está en corregir una <u>iglesia</u> incapaz, sino en recordar asuntos importantes.
+
+###### la <u>siguiente</u> frase explica el propósito de esa manera de escribir.
+
+#### para así hacer que las recuerden otra vez,
+##### <u>Pablo</u> presenta su carta como un recordatorio.
+
+###### A lo largo de Romanos ha desarrollado temas que los lectores <u>necesitaban</u> tener presentes nuevamente.
+
+###### Esto conecta con la función de enseñanza <u>mencionada</u> en Romanos 15:4.
+
+#### por la gracia que me fue dada por Dios,
+##### Pablo atribuye su función apostólica a la gracia <u>de</u> Dios.
+
+###### La autoridad con la que <u>escribe</u> no es presentada como mérito personal, sino como algo recibido.
+
+###### Este lenguaje recuerda Romanos 12:3, donde también habló <u>de</u> la gracia que le fue dada.
+
+###### El versículo siguiente explica en qué <u>consiste</u> esa gracia.
+
+### Romanos 15:16
+para ser ministro de Cristo Jesús a los gentiles, ministrando a manera de sacerdote el evangelio de Dios, a fin de que la ofrenda que hago de los gentiles sea aceptable, santificada por el Espíritu Santo.
+
+#### para ser ministro de Cristo Jesús a los gentiles,
+##### Pablo describe <u>la</u> tarea que recibió de Dios.
+
+###### El enfoque <u>principal</u> de su ministerio está dirigido a los gentiles.
+
+###### <u>Este</u> tema ha aparecido repetidamente desde Romanos 1 y vuelve a ocupar el centro de la discusión.
+
+#### ministrando a manera de sacerdote el evangelio de Dios,
+##### Pablo utiliza lenguaje <u>relacionado</u> con el servicio sacerdotal.
+
+###### El evangelio <u>aparece</u> como el ámbito en el que desarrolla su ministerio.
+
+###### El énfasis sigue estando en <u>su</u> función de servicio, no en su propia importancia.
+
+#### a fin de que la ofrenda que hago de los gentiles sea aceptable,
+##### Pablo presenta a los gentiles <u>como</u> el resultado de su labor ministerial.
+
+###### El lenguaje continúa desarrollando la imagen sacerdotal <u>introducida</u> en la frase anterior.
+
+#### santificada por el Espíritu Santo.
+##### Pablo atribuye esta obra <u>al</u> Espíritu Santo.
+
+###### El Espíritu aparece como quien produce la condición necesaria <u>para</u> que la ofrenda sea aceptable.
+
+### Romanos 15:17
+Por tanto, en Cristo Jesús he hallado razón para gloriarme en las cosas que se refieren a Dios.
+
+#### Por tanto, en Cristo Jesús
+##### Pablo extrae una conclusión <u>de</u> lo que acaba de describir.
+
+###### <u>Todo</u> lo dicho sobre su ministerio queda situado "en Cristo Jesús".
+
+#### he hallado razón para gloriarme
+##### <u>Pablo</u> habla de una razón legítima para gloriarse.
+
+###### Sin embargo, la atención <u>no</u> se dirige a capacidades personales, sino a la obra que Dios ha realizado.
+
+#### en las cosas que se refieren a Dios.
+##### Pablo restringe el motivo de su <u>gloria</u>.
+
+###### El centro sigue siendo la actividad de Dios y no <u>los</u> logros personales del apóstol.
+
+### Romanos 15:18
+Porque no me atreveré a hablar de nada sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, en palabra y en obra,
+
+#### Porque no me atreveré a hablar de nada
+##### Pablo explica la naturaleza de su <u>gloria</u>.
+
+###### No pretende llamar la atención sobre experiencias o logros ajenos <u>al</u> ministerio que Cristo realizó.
+
+###### La siguiente frase establece el límite de lo <u>que</u> está dispuesto a mencionar.
+
+#### sino de lo que Cristo ha hecho por medio de mí
+##### Pablo atribuye la <u>obra</u> a Cristo.
+
+###### Aunque participa activamente en el ministerio, el énfasis recae en lo que Cristo <u>hizo</u>.
+
+###### Esto mantiene la misma <u>línea</u> de Romanos 15:17.
+
+#### para la obediencia de los gentiles,
+##### Pablo vuelve a mencionar <u>a</u> los gentiles como objetivo de su ministerio.
+
+###### La expresión conecta con el inicio de la carta, donde <u>también</u> habló de la obediencia relacionada con la fe. Romanos 1:5.
+
+#### en palabra y en obra,
+##### Pablo <u>describe</u> el alcance de su ministerio.
+
+###### La actividad incluye <u>tanto</u> proclamación como acciones visibles.
+
+### Romanos 15:19
+con el poder de señales y prodigios, en el poder del Espíritu de Dios. De manera que desde Jerusalén y por los alrededores hasta el Ilírico he predicado en toda su plenitud el evangelio de Cristo.
+
+#### con el poder de señales y prodigios,
+##### <u>Pablo</u> continúa describiendo su ministerio.
+
+###### Las señales y prodigios aparecen como acompañamiento <u>de</u> la obra realizada.
+
+#### en el poder del Espíritu de Dios.
+##### Pablo atribuye nuevamente la <u>obra</u> al Espíritu de Dios.
+
+###### Igual que en Romanos 15:16, el énfasis recae en la acción divina y no <u>en</u> la capacidad humana.
+
+#### De manera que desde Jerusalén y por los alrededores hasta el Ilírico
+##### Pablo resume <u>la</u> extensión de su labor.
+
+###### La descripción abarca <u>una</u> amplia región y muestra el alcance de su ministerio.
+
+#### he predicado en toda su plenitud el evangelio de Cristo.
+##### Pablo resume la tarea que <u>ha</u> venido describiendo.
+
+###### El evangelio de Cristo permanece <u>como</u> el centro de toda la sección.
+
+###### Romanos 15:20 continuará explicando la estrategia <u>que</u> caracterizó este ministerio: anunciar donde Cristo aún no había sido nombrado.
+
+### Romanos 15:20
+De esta manera me esforcé en anunciar el evangelio, no donde Cristo ya era conocido, para no edificar sobre el fundamento de otro;
+
+#### De esta manera me esforcé en anunciar el evangelio,
+##### Pablo explica <u>la</u> estrategia que caracterizó su ministerio.
+
+###### Después <u>de</u> describir el alcance de su labor (Romanos 15:19), ahora explica cómo desarrolló esa obra.
+
+###### El énfasis <u>recae</u> en anunciar el evangelio.
+
+#### no donde Cristo ya era conocido,
+##### Pablo describe una característica <u>de</u> su ministerio.
+
+###### Su objetivo era trabajar en <u>lugares</u> donde Cristo aún no había sido anunciado.
+
+#### para no edificar sobre el fundamento de otro;
+##### Pablo explica el motivo <u>de</u> esa estrategia.
+
+###### <u>Su</u> labor se concentraba en abrir nuevos campos de trabajo, no en continuar una obra ya iniciada por otros.
+
+### Romanos 15:21
+sino como está escrito: «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN, Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
+
+#### sino como está escrito:
+##### Pablo apoya su estrategia mediante <u>las</u> Escrituras.
+
+###### La cita <u>sirve</u> como fundamento para la labor que acaba de describir.
+
+#### «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN,
+##### La cita dirige la atención hacia personas que aún no <u>habían</u> recibido el anuncio.
+
+###### <u>El</u> énfasis está en quienes anteriormente no habían tenido acceso a este mensaje.
+
+#### Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
+##### <u>La</u> cita concluye con la respuesta de quienes antes no habían oído.
+
+###### <u>Pablo</u> presenta este texto como respaldo de su ministerio entre nuevos pueblos.
+
+###### <u>Véase</u> Isaías 52:15.
+
+###### El versículo siguiente conecta esta estrategia con su relación con los creyentes <u>de</u> Roma.
+
+> En Síntesis
+>- Pablo comienza esta sección explicando por qué escribió con tanta claridad a los creyentes de Roma.
+>- Aunque reconoce su madurez, les recuerda que recibió de Dios una gracia y un ministerio específico entre los gentiles.
+>- Repetidamente atribuye el fruto de su ministerio a la obra de Cristo y al poder del Espíritu Santo, no a méritos personales.
+>- El objetivo de ese ministerio fue llevar a los gentiles a la obediencia y anunciar el evangelio donde Cristo aún no había sido conocido.
+>- Pablo describe una labor que se extendió desde Jerusalén hasta el Ilírico, siempre con el propósito de llevar el evangelio a nuevos lugares.
+>- Finalmente, muestra que esta estrategia no surgió de una preferencia personal, sino que está en armonía con las Escrituras, que anunciaban que quienes nunca habían oído llegarían a ver y entender.
+>- La siguiente sección mostrará cómo este mismo ministerio influye en los planes de viaje de Pablo y en su deseo de visitar Roma.
+
+## Romanos 15:22–33 - Los planes de Pablo
+
+### Romanos 15:22
+Por esta razón muchas veces me he visto impedido de ir a ustedes.
+
+#### Por esta razón
+##### Pablo conecta con <u>lo</u> que acaba de explicar.
+
+###### Su <u>forma</u> de trabajar explica lo que dirá a continuación.
+
+#### muchas veces me he visto impedido de ir a ustedes.
+##### Pablo explica por <u>qué</u> aún no había visitado Roma.
+
+###### Su dedicación a regiones donde <u>Cristo</u> no había sido anunciado había retrasado ese viaje.
+
+### Romanos 15:23
+Pero ahora, no quedando ya más lugares para mí en estas regiones, y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
+
+#### Pero ahora, no quedando ya más lugares para mí en estas regiones,
+##### Pablo describe un cambio <u>en</u> su situación.
+
+###### La labor que venía desarrollando en esas regiones ha llegado a un punto de <u>conclusión</u>.
+
+#### y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
+##### Pablo recuerda <u>un</u> deseo antiguo.
+
+###### La visita <u>a</u> Roma no surge repentinamente, sino que ha estado presente durante mucho tiempo. (Romanos 1:10–13)
+
+### Romanos 15:24
+cuando vaya a España los visitaré. Porque espero verlos al pasar y que me ayuden a continuar hacia allá, después de que haya disfrutado un poco de su compañía.
+
+#### cuando vaya a España los visitaré.
+##### Pablo presenta su plan de <u>viaje</u>.
+
+###### Roma aparece como una etapa dentro <u>de</u> un proyecto más amplio.
+
+#### Porque espero verlos al pasar
+##### Pablo desea encontrarse con <u>ellos</u> durante el trayecto.
+
+###### El <u>encuentro</u> forma parte de sus planes inmediatos.
+
+#### y que me ayuden a continuar hacia allá,
+##### Pablo <u>espera</u> recibir apoyo para continuar su viaje.
+
+###### La iglesia de Roma aparece vinculada a la siguiente etapa de <u>su</u> ministerio.
+
+#### después de que haya disfrutado un poco de su compañía.
+##### Pablo expresa afecto hacia los <u>creyentes</u> romanos.
+
+###### La visita <u>no</u> es solamente funcional; también incluye comunión personal.
+
+### Romanos 15:25
+Pero ahora voy a Jerusalén para el servicio de los santos,
+
+#### Pero ahora voy a Jerusalén
+##### Antes de dirigirse hacia Roma y España, Pablo tiene otro destino <u>inmediato</u>.
+
+###### Jerusalén ocupa el <u>siguiente</u> lugar en sus planes.
+
+#### para el servicio de los santos,
+##### Pablo describe el propósito de este <u>viaje</u>.
+
+###### El viaje está relacionado con una <u>labor</u> a favor de los creyentes en Jerusalén.
+
+### Romanos 15:26
+pues Macedonia y Acaya han tenido a bien hacer una colecta para los pobres de entre los santos que están en Jerusalén.
+
+#### pues Macedonia y Acaya han tenido a bien hacer una colecta
+##### <u>Pablo</u> explica el origen del servicio mencionado.
+
+###### Las iglesias de estas <u>regiones</u> participaron voluntariamente en una contribución.
+
+#### para los pobres de entre los santos que están en Jerusalén.
+##### La colecta <u>tiene</u> un propósito específico.
+
+###### Está destinada a creyentes necesitados en <u>Jerusalén</u>.
+
+### Romanos 15:27
+Sí, tuvieron a bien hacerlo, y a la verdad que están en deuda con ellos. Porque si los gentiles han participado de sus bienes espirituales, también están obligados a servir a los santos en los bienes materiales.
+
+#### Sí, tuvieron a bien hacerlo,
+##### <u>Pablo</u> destaca el carácter voluntario de esta contribución.
+
+###### Las iglesias participaron de buena <u>voluntad</u>.
+
+#### y a la verdad que están en deuda con ellos.
+##### Pablo presenta <u>una</u> obligación moral relacionada con esta ayuda.
+
+###### No solo <u>hubo</u> disposición, sino también una razón para actuar así.
+
+#### Porque si los gentiles han participado de sus bienes espirituales,
+##### Pablo establece una relación entre <u>dos</u> tipos de beneficio.
+
+###### Los gentiles han recibido algo que él describe como <u>bienes</u> espirituales.
+
+#### también están obligados a servir a los santos en los bienes materiales.
+##### Pablo muestra <u>la</u> respuesta apropiada a esa participación.
+
+###### La ayuda material aparece como <u>una</u> expresión de esa relación.
+
+### Romanos 15:28
+Así que cuando haya cumplido esto y les haya entregado esta ofrenda, iré a España llegando de paso a verlos.
+
+#### Así que cuando haya cumplido esto
+##### Pablo resume la tarea inmediata que <u>tiene</u> por delante.
+
+###### Primero debe completar el servicio relacionado <u>con</u> Jerusalén.
+
+#### y les haya entregado esta ofrenda,
+##### Pablo espera <u>concluir</u> satisfactoriamente esta misión.
+
+###### Después de ello podrá <u>continuar</u> con los siguientes planes.
+
+#### iré a España llegando de paso a verlos.
+##### Pablo <u>vuelve</u> al proyecto mencionado anteriormente.
+
+###### Roma <u>sigue</u> apareciendo como una escala importante dentro de ese viaje.
+
+### Romanos 15:29
+Y sé que cuando vaya a ustedes, iré en la plenitud de la bendición de Cristo.
+
+#### Y sé que cuando vaya a ustedes,
+##### Pablo expresa confianza respecto a esta <u>futura</u> visita.
+
+###### Habla de ella como <u>un</u> plan esperado y deseado.
+
+#### iré en la plenitud de la bendición de Cristo.
+##### Pablo relaciona <u>el</u> viaje con la bendición de Cristo.
+
+###### La visita no es presentada simplemente como un desplazamiento geográfico, sino como parte de su <u>ministerio</u>.
+
+### Romanos 15:30
+Les ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
+
+#### Les ruego, hermanos,
+##### Pablo pasa de informar <u>sus</u> planes a pedir ayuda.
+
+###### La <u>petición</u> está dirigida directamente a la iglesia.
+
+#### por nuestro Señor Jesucristo y por el amor del Espíritu,
+##### Pablo apela <u>a</u> realidades compartidas por sus lectores.
+
+###### Esto da <u>solemnidad</u> a la petición que sigue.
+
+#### que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
+##### Pablo solicita la participación de la <u>iglesia</u> mediante la oración.
+
+###### La <u>expresión</u> enfatiza cooperación y participación conjunta.
+
+### Romanos 15:31
+para que sea librado de los que son desobedientes en Judea, y que mi servicio a Jerusalén sea aceptable a los santos,
+
+#### para que sea librado de los que son desobedientes en Judea,
+##### <u>Pablo</u> presenta la primera petición específica.
+
+###### Su próximo viaje incluye riesgos relacionados <u>con</u> personas en Judea.
+
+#### y que mi servicio a Jerusalén sea aceptable a los santos,
+##### Pablo <u>también</u> desea que la misión que lleva a Jerusalén sea bien recibida.
+
+###### <u>Esto</u> conecta directamente con la colecta mencionada anteriormente.
+
+### Romanos 15:32
+y para que con gozo llegue a ustedes por la voluntad de Dios, y encuentre confortante reposo con ustedes.
+
+#### y para que con gozo llegue a ustedes
+##### Pablo expresa el resultado que <u>espera</u> después de completar su misión.
+
+###### Su deseo <u>sigue</u> siendo visitar Roma.
+
+#### por la voluntad de Dios,
+##### Pablo reconoce que sus planes dependen de la voluntad de <u>Dios</u>.
+
+###### <u>Esta</u> idea aparece varias veces en la carta. Romanos 1:10.
+
+#### y encuentre confortante reposo con ustedes.
+##### Pablo espera hallar consuelo y descanso en <u>compañía</u> de ellos.
+
+###### La relación con la iglesia de <u>Roma</u> aparece nuevamente en términos personales y afectuosos.
+
+### Romanos 15:33
+El Dios de paz sea con todos ustedes. Amén.
+
+#### El Dios de paz sea con todos ustedes.
+##### Pablo <u>concluye</u> esta parte de la carta con una bendición.
+
+###### La expresión <u>resume</u> el tono pastoral que caracteriza toda esta sección final.
+
+###### El título "Dios de paz" encaja con <u>varios</u> temas desarrollados en Romanos 14–15.
+
+#### Amén.
+##### Pablo <u>concluye</u> la bendición con una afirmación final.
+
+###### Esta palabra marca <u>el</u> cierre de la sección antes de pasar a los saludos del capítulo 16.
+
+> En Síntesis
+>- Pablo explica por qué aún no había visitado Roma y muestra cómo sus planes estaban ligados a su ministerio entre los gentiles.
+>- Su prioridad había sido anunciar el evangelio donde Cristo aún no era conocido, razón por la cual muchas veces fue impedido de ir a ellos.
+>- Ahora espera visitar Roma camino a España, pero primero debe completar un servicio en Jerusalén a favor de los santos necesitados.
+>- Pablo presenta esta ayuda como una expresión de la relación entre judíos y gentiles, pues quienes participaron de bienes espirituales también sirven con bienes materiales.
+>- Aunque tiene planes definidos, reconoce su dependencia de Dios y pide a los creyentes que participen juntamente con él mediante la oración.
+>- La sección concluye mostrando a Pablo como un siervo comprometido con el avance del evangelio, el cuidado de las iglesias y la comunión con el pueblo de Dios.
+
+## Romanos 16:1–16 - Una red de colaboradores
+
+### Romanos 16:1
+Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea,
+
+#### Les recomiendo a nuestra hermana Febe,
+##### Pablo inicia la sección final <u>de</u> la carta presentando a Febe a los creyentes de Roma.
+
+###### La recomendación prepara a la <u>iglesia</u> para recibirla favorablemente.
+
+###### Pablo la <u>llama</u> "nuestra hermana", destacando su pertenencia a la misma comunidad de fe.
+
+#### diaconisa de la iglesia en Cencrea,
+##### Pablo añade información acerca <u>de</u> Febe.
+
+###### La presenta como servidora <u>de</u> la iglesia en Cencrea.
+
+###### Esta descripción ayuda a explicar por qué <u>Pablo</u> la recomienda de manera especial.
+
+### Romanos 16:2
+para que la reciban en el Señor de una manera digna de los santos, y que la ayuden en cualquier asunto en que ella necesite de ustedes, porque ella también ha ayudado a muchos y aun a mí mismo.
+
+#### para que la reciban en el Señor
+##### Pablo expresa el propósito <u>de</u> su recomendación.
+
+###### La recepción de Febe <u>debe</u> realizarse dentro del marco de la comunión cristiana.
+
+#### de una manera digna de los santos,
+##### Pablo establece el carácter de <u>esa</u> recepción.
+
+###### El trato hacia Febe debe corresponder a la identidad <u>compartida</u> de los creyentes.
+
+#### y que la ayuden en cualquier asunto en que ella necesite de ustedes,
+##### <u>Pablo</u> pide apoyo concreto para Febe.
+
+###### La recomendación no es solamente formal; incluye ayuda activa <u>cuando</u> sea necesaria.
+
+#### porque ella también ha ayudado a muchos y aun a mí mismo.
+##### Pablo justifica su petición recordando el servicio previo de <u>Febe</u>.
+
+###### Su ayuda había <u>beneficiado</u> a muchos creyentes.
+
+###### Pablo <u>añade</u> su propio testimonio personal como parte de esa evidencia.
+
+###### El <u>versículo</u> siguiente comienza una larga serie de saludos personales.
+
+### Romanos 16:3
+Saluden a Priscila y a Aquila, mis colaboradores en Cristo Jesús,
+
+#### Saluden a Priscila y a Aquila,
+##### Pablo <u>comienza</u> la lista de saludos.
+
+###### Priscila y <u>Aquila</u> aparecen juntos como una unidad frecuente dentro del ministerio de Pablo.
+
+###### La <u>siguiente</u> frase explica su relación con ellos.
+
+#### mis colaboradores en Cristo Jesús,
+##### <u>Pablo</u> describe a Priscila y Aquila como compañeros de trabajo.
+
+###### El énfasis está <u>en</u> la colaboración dentro de la obra relacionada con Cristo.
+
+### Romanos 16:4
+los cuales expusieron su vida por mí, a quienes no solo yo doy gracias, sino también todas las iglesias de los gentiles.
+
+#### los cuales expusieron su vida por mí,
+##### Pablo recuerda una acción significativa realizada <u>por</u> Priscila y Aquila.
+
+###### Destaca el riesgo personal que asumieron <u>en</u> favor suyo.
+
+#### a quienes no solo yo doy gracias,
+##### Pablo expresa su gratitud <u>personal</u>.
+
+###### <u>La</u> deuda de gratitud no es solamente teórica; surge de una ayuda concreta recibida.
+
+#### sino también todas las iglesias de los gentiles.
+##### Pablo extiende el reconocimiento <u>más</u> allá de sí mismo.
+
+###### El impacto de la labor de Priscila y <u>Aquila</u> alcanzó a muchas iglesias.
+
+###### Esto muestra la amplitud de su <u>influencia</u> dentro del ministerio apostólico.
+
+### Romanos 16:5
+Saluden también a la iglesia que está en su casa. Saluden a mi querido hermano Epeneto, que es el primer convertido a Cristo en Asia.
+
+#### Saluden también a la iglesia que está en su casa.
+##### Pablo amplía el saludo a la congregación que <u>se</u> reúne con ellos.
+
+###### La referencia muestra una iglesia <u>reunida</u> en una casa particular.
+
+#### Saluden a mi querido hermano Epeneto,
+##### Pablo <u>menciona</u> personalmente a Epeneto.
+
+###### El lenguaje <u>utilizado</u> refleja cercanía y afecto.
+
+#### que es el primer convertido a Cristo en Asia.
+##### Pablo identifica a Epeneto mediante un <u>dato</u> particular.
+
+###### Lo presenta como <u>el</u> primer fruto de la obra relacionada con Cristo en esa región.
+
+###### Este detalle explica por qué es mencionado <u>de</u> manera especial.
+
+### Romanos 16:6
+Saluden a María, que ha trabajado mucho por ustedes.
+
+#### Saluden a María,
+##### Pablo añade otro saludo <u>individual</u>.
+
+###### La sección continúa <u>destacando</u> personas específicas conocidas por la iglesia de Roma.
+
+#### que ha trabajado mucho por ustedes.
+##### Pablo reconoce el esfuerzo realizado por <u>María</u>.
+
+###### El énfasis recae en su trabajo y dedicación en beneficio <u>de</u> otros creyentes.
+
+###### Esta observación continúa el patrón de reconocimiento personal que <u>caracteriza</u> los saludos de Romanos 16.
+
+### Romanos 16:7
+Saluden a Andrónico y a Junias, mis parientes y compañeros de prisión, que se destacan entre los apóstoles y quienes también vinieron a Cristo antes que yo.
+
+#### Saluden a Andrónico y a Junias,
+##### Pablo continúa <u>la</u> lista de saludos personales.
+
+###### Cada nombre <u>refleja</u> relaciones concretas desarrolladas a lo largo de su ministerio.
+
+#### mis parientes y compañeros de prisión,
+##### Pablo destaca dos <u>aspectos</u> de su relación con ellos.
+
+###### Los identifica como parientes y <u>también</u> como personas que compartieron sufrimientos junto a él.
+
+#### que se destacan entre los apóstoles
+##### Pablo menciona la reputación que tenían <u>dentro</u> de los círculos apostólicos.
+
+###### La <u>observación</u> funciona como un reconocimiento público de su trayectoria y servicio.
+
+#### y quienes también vinieron a Cristo antes que yo.
+##### Pablo señala que ellos llegaron <u>a</u> Cristo antes de su propia conversión.
+
+###### Esto resalta la <u>antigüedad</u> de su experiencia cristiana.
+
+### Romanos 16:8
+Saluden a Amplias, mi querido hermano en el Señor.
+
+#### Saluden a Amplias,
+##### Pablo continúa <u>mencionando</u> personas específicas de la comunidad.
+
+###### El <u>capítulo</u> sigue destacando relaciones personales dentro de la iglesia.
+
+#### mi querido hermano en el Señor.
+##### Pablo <u>expresa</u> afecto personal hacia Amplias.
+
+###### El lenguaje refleja cercanía y comunión <u>dentro</u> del Señor.
+
+### Romanos 16:9
+Saluden a Urbano, nuestro colaborador en Cristo, y a mi querido hermano Estaquis.
+
+#### Saluden a Urbano,
+##### Pablo menciona <u>a</u> otro creyente conocido por la iglesia de Roma.
+
+###### El saludo continúa mostrando la amplitud de relaciones dentro de la comunidad <u>cristiana</u>.
+
+#### nuestro colaborador en Cristo,
+##### Pablo identifica a <u>Urbano</u> como colaborador.
+
+###### El énfasis está en el trabajo compartido <u>en</u> relación con Cristo.
+
+#### y a mi querido hermano Estaquis.
+##### Pablo vuelve <u>a</u> expresar afecto personal.
+
+###### Al igual que en los versículos anteriores, combina <u>reconocimiento</u> y cercanía.
+
+### Romanos 16:10
+Saluden a Apeles, el aprobado en Cristo. Saluden a los de la casa de Aristóbulo.
+
+#### Saluden a Apeles,
+##### <u>Pablo</u> menciona a otro creyente de manera individual.
+
+###### <u>El</u> saludo va acompañado de una breve descripción.
+
+#### el aprobado en Cristo.
+##### Pablo destaca una <u>cualidad</u> asociada a Apeles.
+
+###### El énfasis está <u>en</u> su condición "en Cristo".
+
+#### Saluden a los de la casa de Aristóbulo.
+##### Pablo extiende el saludo a quienes pertenecen a <u>esa</u> casa.
+
+###### La atención <u>pasa</u> de una persona individual a un conjunto de creyentes relacionados entre sí.
+
+### Romanos 16:11
+Saluden a Herodión, mi pariente. Saluden a los de la casa de Narciso, que son del Señor.
+
+#### Saluden a Herodión, mi pariente.
+##### Pablo vuelve a <u>mencionar</u> un vínculo familiar.
+
+###### La referencia recuerda expresiones <u>similares</u> usadas anteriormente en el capítulo.
+
+#### Saluden a los de la casa de Narciso,
+##### Pablo dirige un <u>saludo</u> a otro conjunto de personas.
+
+###### <u>El</u> patrón alterna entre individuos y grupos relacionados con ellos.
+
+###### La siguiente frase identifica específicamente a quiénes se <u>refiere</u>.
+
+#### que son del Señor.
+##### Pablo distingue a los creyentes dentro de esa <u>casa</u>.
+
+###### El énfasis recae en su pertenencia al <u>Señor</u>.
+
+### Romanos 16:12
+Saluden a Trifena y a Trifosa, obreras del Señor. Saluden a la querida hermana Pérsida, que ha trabajado mucho en el Señor.
+
+#### Saluden a Trifena y a Trifosa,
+##### Pablo menciona <u>a</u> dos creyentes juntas.
+
+###### Ambas aparecen <u>asociadas</u> a una misma descripción.
+
+#### obreras del Señor.
+##### Pablo destaca <u>su</u> trabajo.
+
+###### El énfasis está en la labor realizada <u>para</u> el Señor.
+
+#### Saluden a la querida hermana Pérsida,
+##### Pablo <u>expresa</u> nuevamente afecto personal.
+
+###### El <u>lenguaje</u> sigue reflejando cercanía y aprecio.
+
+#### que ha trabajado mucho en el Señor.
+##### Pablo vuelve <u>a</u> destacar el esfuerzo realizado.
+
+###### El reconocimiento <u>del</u> trabajo aparece repetidamente en esta sección de saludos.
+
+### Romanos 16:13
+Saluden a Rufo, escogido en el Señor, también a su madre y mía.
+
+#### Saluden a Rufo,
+##### Pablo menciona a <u>otro</u> creyente de manera personal.
+
+###### El saludo viene acompañado de una <u>breve</u> descripción.
+
+#### escogido en el Señor,
+##### Pablo identifica <u>a</u> Rufo mediante una característica especial.
+
+###### La expresión sigue manteniendo el énfasis "en el <u>Señor</u>".
+
+#### también a su madre y mía.
+##### Pablo expresa una relación especialmente <u>cercana</u>.
+
+###### La referencia muestra el afecto y los <u>vínculos</u> personales desarrollados dentro de la comunidad cristiana.
+
+### Romanos 16:14
+Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas, y a los hermanos con ellos.
+
+#### Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas,
+##### Pablo continúa <u>enumerando</u> creyentes conocidos por la iglesia de Roma.
+
+###### La lista muestra la diversidad y amplitud de relaciones <u>presentes</u> en la comunidad.
+
+#### y a los hermanos con ellos.
+##### Pablo incluye <u>a</u> otros creyentes relacionados con estas personas.
+
+###### El saludo deja <u>ver</u> grupos de creyentes conectados entre sí dentro de la misma comunidad.
+
+### Romanos 16:15
+Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas, y a todos los santos que están con ellos.
+
+#### Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas,
+##### Pablo continúa mencionando creyentes específicos dentro de la <u>comunidad</u> cristiana.
+
+###### La larga lista de nombres en Romanos 16 muestra que el evangelio había <u>producido</u> una red amplia de relaciones personales y de servicio.
+
+#### y a todos los santos que están con ellos.
+##### Pablo <u>no</u> limita el saludo a personas individuales.
+
+###### También incluye a los creyentes que se reúnen junto a ellos, mostrando nuevamente la dimensión comunitaria <u>que</u> aparece repetidamente en este capítulo.
+
+###### Véase también Romanos 16:5 y Romanos 16:14, donde Pablo extiende saludos a <u>grupos</u> completos de creyentes.
+
+###### El <u>siguiente</u> versículo pasa de los saludos individuales a una exhortación para toda la iglesia.
+
+### Romanos 16:16
+Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo los saludan.
+
+#### Salúdense los unos a los otros
+##### <u>Pablo</u> transforma los saludos recibidos en una acción mutua dentro de la propia congregación.
+
+###### La atención se mueve de personas específicas a toda <u>la</u> comunidad.
+
+#### con un beso santo.
+##### Pablo menciona una expresión de afecto y <u>comunión</u> reconocida entre los creyentes.
+
+###### El énfasis recae en <u>el</u> carácter del saludo ("santo"), no simplemente en el gesto mismo.
+
+###### <u>Véase</u> también 1 Corintios 16:20; 2 Corintios 13:12; 1 Tesalonicenses 5:26.
+
+#### Todas las iglesias de Cristo los saludan.
+##### Pablo transmite el saludo <u>de</u> otras iglesias.
+
+###### <u>Después</u> de una carta que ha tratado extensamente la relación entre judíos y gentiles, este saludo presenta a las iglesias como una realidad compartida y conectada.
+
+> En Síntesis
+>- Pablo concluye la carta mostrando que el evangelio no solamente produce doctrina correcta, sino también una comunidad real de personas unidas en Cristo.
+>- La larga lista de saludos revela una amplia red de colaboradores, servidores, iglesias en casas y creyentes que participaron activamente en la obra del evangelio.
+>- Repetidamente Pablo destaca el trabajo, el servicio, la ayuda, la colaboración y la fidelidad de distintas personas dentro de esa comunidad.
+>- Los saludos muestran que el evangelio había unido a hombres y mujeres, individuos y familias, grupos e iglesias en una misma obra y un mismo Señor.
+>- La sección también enfatiza la comunión entre los creyentes mediante expresiones de afecto mutuo y mediante los saludos enviados por otras iglesias.
+>- Después de exponer el evangelio, defender la fidelidad de la palabra de Dios y exhortar a la iglesia acerca de cómo vivir, Pablo concluye destacando a las personas concretas mediante las cuales el evangelio continuaba avanzando.
+
+## Romanos 16:17–20 - Protejan la enseñanza recibida
+
+### Romanos 16:17
+Les ruego, hermanos, que vigilen a los que causan disensiones y tropiezos contra las enseñanzas que ustedes aprendieron, y que se aparten de ellos.
+
+#### Les ruego, hermanos,
+##### Pablo introduce una <u>exhortación</u> directa antes de concluir la carta.
+
+###### <u>El</u> lenguaje recuerda el tono exhortativo que comenzó en Romanos 12:1.
+
+#### que vigilen a los que causan disensiones y tropiezos
+##### Pablo pide atención <u>deliberada</u> hacia ciertas personas y su influencia.
+
+###### Los dos resultados señalados <u>son</u> disensiones y tropiezos dentro de la comunidad.
+
+###### La preocupación principal <u>es</u> el efecto que producen en la iglesia.
+
+#### contra las enseñanzas que ustedes aprendieron,
+##### El problema no es simplemente el conflicto, sino el conflicto que se opone a lo que la iglesia <u>ya</u> recibió.
+
+###### Pablo apela a una enseñanza previamente <u>conocida</u> por sus lectores. (Romanos 6:17)
+
+###### la siguiente frase indica <u>la</u> respuesta que deben tomar.
+
+#### y que se aparten de ellos.
+##### Pablo concluye la advertencia con una <u>instrucción</u> clara.
+
+###### La exhortación no es debatir continuamente <u>con</u> ellos, sino mantener distancia de su influencia.
+
+###### El siguiente versículo explica por qué esta <u>medida</u> es necesaria.
+
+### Romanos 16:18
+Porque los tales son esclavos, no de Cristo nuestro Señor, sino de sus propios apetitos, y por medio de palabras suaves y lisonjeras engañan los corazones de los ingenuos.
+
+#### Porque los tales son esclavos,
+##### Pablo fundamenta la advertencia <u>anterior</u> explicando la verdadera lealtad de estas personas.
+
+###### La descripción se centra en a quién sirven <u>realmente</u>.
+
+#### no de Cristo nuestro Señor, sino de sus propios apetitos,
+##### Pablo <u>contrapone</u> dos posibilidades de servicio.
+
+###### El contraste es <u>directo</u>: Cristo por un lado, sus propios intereses por el otro.
+
+###### Este lenguaje recuerda el tema de la esclavitud y el servicio <u>desarrollado</u> anteriormente en Romanos 6.
+
+#### y por medio de palabras suaves y lisonjeras
+##### Pablo llama la atención <u>sobre</u> la forma de su discurso.
+
+###### El peligro no aparece presentado como algo agresivo o evidente, sino <u>como</u> algo atractivo y persuasivo.
+
+#### engañan los corazones de los ingenuos.
+##### Pablo identifica el efecto <u>producido</u> por esas palabras.
+
+###### La advertencia se enfoca especialmente en quienes <u>son</u> más vulnerables a ser desviados.
+
+### Romanos 16:19
+Porque la noticia de la obediencia de ustedes se ha extendido a todos. Por tanto, me regocijo por ustedes, pero quiero que sean sabios para lo bueno e inocentes para lo malo.
+
+#### Porque la noticia de la obediencia de ustedes se ha extendido a todos.
+##### <u>Pablo</u> equilibra la advertencia anterior con un reconocimiento positivo.
+
+###### <u>La</u> obediencia de los creyentes de Roma era ampliamente conocida.
+
+###### Esto <u>retoma</u> el tono de agradecimiento y reconocimiento visto anteriormente en Romanos 1:8.
+
+#### Por tanto, me regocijo por ustedes,
+##### Pablo responde con <u>alegría</u> al escuchar acerca de ellos.
+
+###### La advertencia del versículo anterior no cancela la valoración positiva que tiene de la <u>iglesia</u>.
+
+#### pero quiero que sean sabios para lo bueno e inocentes para lo malo.
+##### Pablo resume la <u>actitud</u> que desea ver en ellos.
+
+###### La sabiduría debe dirigirse hacia lo bueno, <u>mientras</u> que la relación con lo malo debe caracterizarse por inocencia y ausencia de participación.
+
+###### Esta exhortación funciona como preparación para la promesa <u>y</u> conclusión que siguen en Romanos 16:20.
+
+### Romanos 16:20
+Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La gracia de nuestro Señor Jesucristo sea con ustedes.
+
+#### Y el Dios de paz
+##### Pablo vuelve a una <u>descripción</u> de Dios que ya ha aparecido en la carta.
+
+###### Después de advertir <u>acerca</u> de quienes causan divisiones (Romanos 16:17–19), Pablo recuerda que Dios es presentado como el Dios de paz. (Romanos 15:33)
+
+#### aplastará pronto a Satanás debajo de los pies de ustedes.
+##### Pablo anuncia <u>una</u> victoria futura de Dios sobre Satanás.
+
+###### El énfasis recae en la acción de Dios ("aplastará") y en el resultado final <u>de</u> sometimiento.
+
+###### Esta declaración contrasta con el peligro y <u>el</u> engaño mencionados en Romanos 16:17–18.
+
+#### La gracia de nuestro Señor Jesucristo sea con ustedes.
+##### Pablo añade una bendición breve antes de continuar con los saludos <u>finales</u>.
+
+###### La gracia de Jesucristo aparece repetidamente como marco <u>y</u> cierre de sus exhortaciones.
+
+> En Síntesis
+>- Pablo concluye sus exhortaciones advirtiendo a la iglesia acerca de personas que producen divisiones y tropiezos contrarios a la enseñanza que habían recibido.
+>- La preocupación principal no es solamente el conflicto, sino la influencia que desvía a otros de la enseñanza apostólica.
+>- Pablo describe a estas personas como servidores de sus propios intereses y advierte que pueden engañar mediante palabras atractivas y persuasivas.
+>- Al mismo tiempo, reconoce la obediencia de los creyentes de Roma y expresa su deseo de que sean sabios para lo bueno e inocentes para lo malo.
+>- La sección concluye recordando que el resultado final no depende de los que causan división, sino de Dios.
+>- El Dios de paz aplastará a Satanás y traerá la victoria definitiva sobre aquello que amenaza a Su pueblo.
+>- Así, la advertencia termina no con temor, sino con una nota de confianza, paz y gracia.
+
+## Romanos 16:21–27 - Dios afirma a Su pueblo conforme al evangelio
+
+### Romanos 16:21
+Timoteo, mi colaborador, los saluda, y también Lucio, Jasón y Sosípater, mis parientes.
+
+#### Timoteo, mi colaborador, los saluda,
+##### Pablo incluye en el saludo a uno de sus <u>colaboradores</u> cercanos.
+
+###### El énfasis está en la participación <u>conjunta</u> en la obra del evangelio.
+
+###### Véase <u>también</u> Filipenses 2:19–22; 1 Tesalonicenses 3:2.
+
+#### y también Lucio, Jasón y Sosípater, mis parientes.
+##### Pablo añade otros nombres <u>asociados</u> con él.
+
+###### Como en el resto del capítulo, la atención permanece en las relaciones personales que rodean el <u>ministerio</u> y las iglesias.
+
+### Romanos 16:22
+Yo, Tercio, que escribo esta carta, los saludo en el Señor.
+
+#### Yo, Tercio, que escribo esta carta,
+##### <u>Por</u> un momento la voz cambia y habla quien está redactando la carta.
+
+###### Esta es una de las pocas ocasiones en que el <u>escribiente</u> se identifica directamente dentro del texto.
+
+#### los saludo en el Señor.
+##### Tercio se une a los saludos que <u>han</u> aparecido en toda esta sección final.
+
+###### <u>La</u> expresión "en el Señor" mantiene el mismo marco relacional que aparece repetidamente a lo largo del capítulo.
+
+### Romanos 16:23
+Gayo, hospedador mío y de toda la iglesia, los saluda. Erasto, el tesorero de la ciudad, los saluda, y el hermano Cuarto.
+
+#### Gayo, hospedador mío y de toda la iglesia, los saluda.
+##### Pablo menciona a Gayo destacando su <u>hospitalidad</u>.
+
+###### La referencia conecta con el tema <u>de</u> la hospitalidad mencionado anteriormente en Romanos 12:13.
+
+#### Erasto, el tesorero de la ciudad, los saluda,
+##### Pablo identifica a Erasto mediante su función dentro <u>de</u> la ciudad.
+
+###### La mención muestra la diversidad de personas vinculadas <u>a</u> las iglesias.
+
+#### y el hermano Cuarto.
+##### Pablo concluye esta serie de <u>saludos</u> con otra referencia personal.
+
+###### La acumulación de nombres a lo largo del capítulo subraya el carácter relacional <u>y</u> comunitario de la carta.
+
+### Romanos 16:24
+La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.
+
+#### La gracia de nuestro Señor Jesucristo sea con todos ustedes.
+##### Pablo vuelve a cerrar con <u>una</u> bendición centrada en la gracia de Jesucristo.
+
+###### Esta fórmula resume el tono pastoral con <u>el</u> que concluye la carta.
+
+###### Véase <u>también</u> Romanos 16:20.
+
+#### Amén.
+##### La bendición <u>termina</u> con una afirmación solemne de cierre.
+
+###### Sin embargo, la carta aún concluye con una sección <u>final</u> de adoración.
+
+### Romanos 16:25
+Y a Aquel que es poderoso para afirmarlos conforme a mi evangelio y a la predicación de Jesucristo, según la revelación del misterio que ha sido mantenido en secreto durante siglos sin fin,
+
+#### Y a Aquel que es poderoso para afirmarlos
+##### Pablo inicia una doxología centrada en la capacidad de Dios para fortalecer y establecer a <u>los</u> creyentes.
+
+###### La atención se dirige <u>completamente</u> hacia Dios.
+
+#### conforme a mi evangelio y a la predicación de Jesucristo,
+##### Pablo relaciona ese fortalecimiento con el evangelio que ha anunciado y con la <u>proclamación</u> de Jesucristo.
+
+###### El evangelio ha <u>sido</u> un tema central desde el inicio de la carta. (Romanos 1:1–17) 
+
+#### según la revelación del misterio
+##### Pablo <u>describe</u> el evangelio como algo que fue revelado.
+
+###### El énfasis está <u>en</u> que se trata de algo dado a conocer por Dios.
+
+#### que ha sido mantenido en secreto durante siglos sin fin,
+##### Pablo <u>señala</u> que este misterio permaneció oculto durante largos tiempos.
+
+###### La siguiente <u>declaración</u> mostrará el cambio producido ahora.
+
+### Romanos 16:26
+pero que ahora ha sido manifestado, y por las Escrituras de los profetas, conforme al mandamiento del Dios eterno, se ha dado a conocer a todas las naciones para guiarlas a la obediencia de la fe,
+
+#### pero que ahora ha sido manifestado,
+##### Pablo establece el contraste principal con el versículo <u>anterior</u>.
+
+###### Lo que estuvo oculto ahora <u>ha</u> sido dado a conocer.
+
+#### y por las Escrituras de los profetas,
+##### Pablo relaciona esta revelación <u>con</u> los escritos proféticos.
+
+###### A lo largo de Romanos, las Escrituras han servido repetidamente como fundamento de <u>su</u> argumento.
+
+#### conforme al mandamiento del Dios eterno,
+##### Pablo atribuye esta obra <u>a</u> la iniciativa y autoridad de Dios.
+
+###### El énfasis permanece en la acción divina <u>detrás</u> de todo el proceso.
+
+#### se ha dado a conocer a todas las naciones
+##### Pablo destaca la <u>amplitud</u> del anuncio.
+
+###### El tema de las naciones ha sido una <u>parte</u> importante de Romanos desde los primeros capítulos. (Romanos 1:5; 15:8–12)
+
+#### para guiarlas a la obediencia de la fe,
+##### Pablo concluye la descripción con <u>el</u> propósito del evangelio.
+
+###### Esta expresión retoma <u>el</u> lenguaje utilizado al comienzo de la carta. (Romanos 1:5)
+
+### Romanos 16:27
+al único y sabio Dios, por medio de Jesucristo, sea la gloria para siempre. Amén.
+
+#### al único y sabio Dios,
+##### Pablo dirige <u>toda</u> la doxología hacia Dios.
+
+###### Después de recorrer la obra de Dios en la carta, la atención termina donde comenzó: <u>en</u> Dios mismo.
+
+#### por medio de Jesucristo,
+##### <u>La</u> gloria dirigida a Dios aparece vinculada a Jesucristo.
+
+###### La <u>carta</u> ha presentado repetidamente la obra de Dios y la de Jesucristo juntas.
+
+#### sea la gloria para siempre.
+##### Pablo concluye con una declaración <u>de</u> alabanza.
+
+###### La sección de Romanos 9–11 terminó con una doxología (Romanos 11:33–36), y <u>ahora</u> toda la carta concluye de la misma manera.
+
+###### La respuesta <u>final</u> al evangelio presentado en Romanos es adoración a Dios.
+
+#### Amén.
+##### Pablo cierra <u>definitivamente</u> la carta.
+
+###### El desarrollo doctrinal, las exhortaciones prácticas y los saludos terminan <u>con</u> una afirmación de gloria dirigida a Dios.
+
+> En Síntesis
+>- Pablo concluye la carta rodeado de colaboradores, recordando que el avance del evangelio ocurrió mediante una amplia comunidad de creyentes que servían juntos.
+>- Después de los saludos finales, vuelve a colocar la atención sobre la gracia de Jesucristo y sobre Dios mismo como el centro de toda la carta.
+>- Dios es presentado como poderoso para afirmar a Su pueblo conforme al evangelio y a la predicación de Jesucristo.
+>- El misterio que estuvo oculto por siglos ha sido manifestado y dado a conocer por medio de las Escrituras a todas las naciones.
+>- El propósito de esa proclamación sigue siendo el mismo que apareció al comienzo de Romanos: La obediencia de la fe entre todas las naciones.
+>- Así, la carta termina donde comenzó: Con el evangelio, con Jesucristo, con las naciones y con Dios recibiendo toda la gloria por Su obra y por Su palabra que permanece firme para siempre.

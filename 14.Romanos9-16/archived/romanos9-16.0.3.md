@@ -1,6 +1,6 @@
 ---
 title: "Romanos 9-16"
-subtitle: "El Evangelio de Poder"
+subtitle: "CONFIABLE"
 author: "CGV"
 cover: "images/portada.png"
 version: "0.3"
@@ -5687,6 +5687,15 @@ Antes bien, vístanse del Señor Jesucristo, y no piensen en proveer para las lu
 
 ###### Con este llamado, Pablo cierra la unidad práctica iniciada en Romanos 12:1 acerca de presentar la vida a Dios.
 
+> En Síntesis
+>- Pablo comienza hablando de la relación del creyente con las autoridades y afirma que la autoridad existe dentro del orden establecido por Dios.
+>- Después aplica este principio de manera práctica mediante la sumisión, el pago de impuestos, el respeto y el honor a quienes corresponde.
+>- A continuación dirige la atención hacia una deuda que nunca termina:
+El amor al prójimo.
+>- Pablo muestra que el amor resume los mandamientos relacionados con el prójimo y concluye que el amor es el cumplimiento de la ley.
+>- Luego añade una motivación urgente: el tiempo ha avanzado y la salvación está más cerca que cuando creímos.
+>- Por eso exhorta a abandonar las obras de las tinieblas, andar como de día y vestirse del Señor Jesucristo.
+>- La sección conecta la obediencia práctica, el amor al prójimo y una vida consciente del tiempo presente, llamando al creyente a vivir de manera coherente con la realidad que se acerca.
 
 # ROMANOS 14:1–15:13 ACÉPTENSE UNOS A OTROS
 
@@ -5980,6 +5989,14 @@ De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
 
 ###### La siguiente exhortación aplicará esta conclusión al problema del juicio mutuo.
 
+> En Síntesis
+>- Pablo exhorta a los creyentes a recibirse mutuamente aun cuando tengan convicciones diferentes sobre asuntos secundarios.
+>- Ni el que tiene mayor libertad debe despreciar al otro, ni el que restringe ciertas prácticas debe juzgar a su hermano.
+>- La razón principal es que Dios ya lo ha aceptado y el Señor es poderoso para sostener a Su siervo.
+>- Tanto quienes comen como quienes se abstienen, tanto quienes observan ciertos días como quienes no lo hacen, pueden actuar para el Señor y dar gracias a Dios.
+>- Pablo recuerda que los creyentes no viven para sí mismos, sino que pertenecen al Señor, quien murió y resucitó para ser Señor tanto de los muertos como de los vivos.
+>- Por eso el juicio y el menosprecio entre hermanos son inapropiados, porque cada creyente comparecerá personalmente ante Dios y dará cuenta de sí mismo.
+
 ## 14:13–23 No destruyan al hermano
 
 ### Romanos 14:13
@@ -6221,7 +6238,16 @@ Pero el que duda, si come se condena, porque no lo hace por fe. Todo lo que no p
 
 ###### Con esta afirmación concluye la discusión iniciada en Romanos 14:1 sobre diferencias de conciencia entre creyentes.
 
-## Romanos 15:1–7 - Acéptense unos a otros
+> En Síntesis
+>- Pablo deja de enfocarse en el juicio mutuo y dirige la atención al bienestar del hermano.
+>- La pregunta principal ya no es qué está permitido, sino qué efecto tiene una acción sobre otros creyentes.
+>- Aunque Pablo afirma que nada es inmundo en sí mismo, insiste en que el amor debe gobernar el uso de la libertad.
+>- Por eso repite varias veces la misma advertencia: No destruir, entristecer ni hacer tropezar al hermano por causa de asuntos relacionados con comida o bebida.
+>- En lugar de centrarse en derechos personales, los creyentes deben procurar lo que contribuye a la paz y a la edificación mutua.
+>- La sección concluye recordando que las convicciones deben mantenerse delante de Dios y que actuar contra la propia convicción no procede de fe.
+>- Por eso Pablo resume el principio con una afirmación amplia: «Todo lo que no procede de fe, es pecado».
+
+## Romanos 15:1–13 - Acéptense unos a otros
 
 ### Romanos 15:1
 Así que, nosotros los que somos fuertes, debemos sobrellevar las flaquezas de los débiles y no agradarnos a nosotros mismos.
@@ -6499,6 +6525,15 @@ Y el Dios de la esperanza los llene de todo gozo y paz en el creer, para que abu
 
 ###### El versículo siguiente cambia del contenido doctrinal a una valoración personal de los creyentes en Roma.
 
+> En Síntesis
+>- Pablo concluye la discusión sobre fuertes y débiles llamando a los creyentes a aceptarse mutuamente y a buscar la edificación del prójimo antes que el beneficio propio.
+>- Cristo es presentado como el modelo supremo, pues no se agradó a sí mismo, sino que actuó en beneficio de otros.
+>- La unidad de la comunidad tiene un propósito mayor: Glorificar a Dios unánimes y a una voz.
+>- Pablo muestra después que la obra de Cristo está relacionada tanto con Israel como con los gentiles:
+>- Cristo confirma las promesas dadas a los padres y también abre el camino para que los gentiles glorifiquen a Dios por Su misericordia.
+>- Para demostrarlo, reúne una serie de citas de las Escrituras que muestran a los gentiles participando en la alabanza, el gozo y la esperanza junto con el pueblo de Dios.
+>- La sección culmina con una oración para que los creyentes abunden en esperanza, gozo y paz por el poder del Espíritu Santo.
+
 # Romanos 15:14–16:27 EL EVANGELIO CONTINÚA AVANZANDO
 
 ## 15:14–21 El ministerio de Pablo a los gentiles
@@ -6702,6 +6737,15 @@ sino como está escrito: «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE 
 
 ###### El versículo siguiente conecta esta estrategia con su relación con los creyentes de Roma.
 
+> En Síntesis
+>- Pablo comienza esta sección explicando por qué escribió con tanta claridad a los creyentes de Roma.
+>- Aunque reconoce su madurez, les recuerda que recibió de Dios una gracia y un ministerio específico entre los gentiles.
+>- Repetidamente atribuye el fruto de su ministerio a la obra de Cristo y al poder del Espíritu Santo, no a méritos personales.
+>- El objetivo de ese ministerio fue llevar a los gentiles a la obediencia y anunciar el evangelio donde Cristo aún no había sido conocido.
+>- Pablo describe una labor que se extendió desde Jerusalén hasta el Ilírico, siempre con el propósito de llevar el evangelio a nuevos lugares.
+>- Finalmente, muestra que esta estrategia no surgió de una preferencia personal, sino que está en armonía con las Escrituras, que anunciaban que quienes nunca habían oído llegarían a ver y entender.
+>- La siguiente sección mostrará cómo este mismo ministerio influye en los planes de viaje de Pablo y en su deseo de visitar Roma.
+
 ## Romanos 15:22–33 - Los planes de Pablo
 
 ### Romanos 15:22
@@ -6896,6 +6940,14 @@ El Dios de paz sea con todos ustedes. Amén.
 ##### Pablo concluye la bendición con una afirmación final.
 
 ###### Esta palabra marca el cierre de la sección antes de pasar a los saludos del capítulo 16.
+
+> En Síntesis
+>- Pablo explica por qué aún no había visitado Roma y muestra cómo sus planes estaban ligados a su ministerio entre los gentiles.
+>- Su prioridad había sido anunciar el evangelio donde Cristo aún no era conocido, razón por la cual muchas veces fue impedido de ir a ellos.
+>- Ahora espera visitar Roma camino a España, pero primero debe completar un servicio en Jerusalén a favor de los santos necesitados.
+>- Pablo presenta esta ayuda como una expresión de la relación entre judíos y gentiles, pues quienes participaron de bienes espirituales también sirven con bienes materiales.
+>- Aunque tiene planes definidos, reconoce su dependencia de Dios y pide a los creyentes que participen juntamente con él mediante la oración.
+>- La sección concluye mostrando a Pablo como un siervo comprometido con el avance del evangelio, el cuidado de las iglesias y la comunión con el pueblo de Dios.
 
 ## Romanos 16:1–16 - Una red de colaboradores
 
@@ -7196,6 +7248,14 @@ Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo 
 
 ###### Después de una carta que ha tratado extensamente la relación entre judíos y gentiles, este saludo presenta a las iglesias como una realidad compartida y conectada.
 
+> En Síntesis
+>- Pablo concluye la carta mostrando que el evangelio no solamente produce doctrina correcta, sino también una comunidad real de personas unidas en Cristo.
+>- La larga lista de saludos revela una amplia red de colaboradores, servidores, iglesias en casas y creyentes que participaron activamente en la obra del evangelio.
+>- Repetidamente Pablo destaca el trabajo, el servicio, la ayuda, la colaboración y la fidelidad de distintas personas dentro de esa comunidad.
+>- Los saludos muestran que el evangelio había unido a hombres y mujeres, individuos y familias, grupos e iglesias en una misma obra y un mismo Señor.
+>- La sección también enfatiza la comunión entre los creyentes mediante expresiones de afecto mutuo y mediante los saludos enviados por otras iglesias.
+>- Después de exponer el evangelio, defender la fidelidad de la palabra de Dios y exhortar a la iglesia acerca de cómo vivir, Pablo concluye destacando a las personas concretas mediante las cuales el evangelio continuaba avanzando.
+
 ## Romanos 16:17–20 - Protejan la enseñanza recibida
 
 ### Romanos 16:17
@@ -7293,6 +7353,15 @@ Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La 
 ##### Pablo añade una bendición breve antes de continuar con los saludos finales.
 
 ###### La gracia de Jesucristo aparece repetidamente como marco y cierre de sus exhortaciones.
+
+> En Síntesis
+>- Pablo concluye sus exhortaciones advirtiendo a la iglesia acerca de personas que producen divisiones y tropiezos contrarios a la enseñanza que habían recibido.
+>- La preocupación principal no es solamente el conflicto, sino la influencia que desvía a otros de la enseñanza apostólica.
+>- Pablo describe a estas personas como servidores de sus propios intereses y advierte que pueden engañar mediante palabras atractivas y persuasivas.
+>- Al mismo tiempo, reconoce la obediencia de los creyentes de Roma y expresa su deseo de que sean sabios para lo bueno e inocentes para lo malo.
+>- La sección concluye recordando que el resultado final no depende de los que causan división, sino de Dios.
+>- El Dios de paz aplastará a Satanás y traerá la victoria definitiva sobre aquello que amenaza a Su pueblo.
+>- Así, la advertencia termina no con temor, sino con una nota de confianza, paz y gracia.
 
 ## Romanos 16:21–27 - Dios afirma a Su pueblo conforme al evangelio
 
@@ -7432,3 +7501,11 @@ al único y sabio Dios, por medio de Jesucristo, sea la gloria para siempre. Am�
 ##### Pablo cierra definitivamente la carta.
 
 ###### El desarrollo doctrinal, las exhortaciones prácticas y los saludos terminan con una afirmación de gloria dirigida a Dios.
+
+> En Síntesis
+>- Pablo concluye la carta rodeado de colaboradores, recordando que el avance del evangelio ocurrió mediante una amplia comunidad de creyentes que servían juntos.
+>- Después de los saludos finales, vuelve a colocar la atención sobre la gracia de Jesucristo y sobre Dios mismo como el centro de toda la carta.
+>- Dios es presentado como poderoso para afirmar a Su pueblo conforme al evangelio y a la predicación de Jesucristo.
+>- El misterio que estuvo oculto por siglos ha sido manifestado y dado a conocer por medio de las Escrituras a todas las naciones.
+>- El propósito de esa proclamación sigue siendo el mismo que apareció al comienzo de Romanos: La obediencia de la fe entre todas las naciones.
+>- Así, la carta termina donde comenzó: Con el evangelio, con Jesucristo, con las naciones y con Dios recibiendo toda la gloria por Su obra y por Su palabra que permanece firme para siempre.

@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Navegando el Texto"
-FILE_LOCATION="../08.Navegando-el-texto"
-FILENAME="/Navegando-el-Texto0.9.md"
+MANUAL_NAME="Romanos 9-16"
+FILE_LOCATION="../14.Romanos9-16"
+FILENAME="/romanos9-16.0.4.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

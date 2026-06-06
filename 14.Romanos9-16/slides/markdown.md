@@ -213,7 +213,7 @@ de que tengo gran tristeza y continuo dolor en mi corazón.
 ###### Pablo la presenta como una <u>realidad</u> permanente.
 
 ###### El dolor es descrito como <u>algo</u> interno:
-> \scripture{en mi corazón}
+> *en mi corazón*
 
 ### Romanos 9:3
 Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
@@ -248,10 +248,10 @@ Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria,
 ##### Pablo identifica explícitamente al grupo mencionado en los <u>versículos</u> anteriores.
 
 ###### En 9:3 habló <u>de</u>:
-> \scripture{mis parientes según la carne}
+> *mis parientes según la carne*
 
 ###### Ahora los identifica <u>como</u>:
-> \scripture{israelitas}
+> *israelitas*
 
 #### a quienes pertenece la adopción como hijos,
 ##### Pablo comienza un inventario de cosas asociadas <u>con</u> Israel.
@@ -520,13 +520,13 @@ Porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni b
 ##### <u>Pablo</u> declara la finalidad de lo que acaba de describir.
 
 ###### El foco del versículo se desplaza <u>hacia</u>:
-> \scripture{el propósito de Dios}
+> *el propósito de Dios*
 
 ###### El texto afirma que <u>ese</u> propósito permanece.
 
 ##### <u>Observación</u> importante:
 ###### Esta es la primera vez <u>que</u> aparece la expresión:
-> \scripture{el propósito de Dios conforme a Su elección}.
+> *el propósito de Dios conforme a Su elección*.
 
 ###### Pablo la <u>desarrollará</u> en los versículos siguientes.
 
@@ -603,7 +603,7 @@ Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
 
 ###### Romanos 9:13 cita Malaquías, siglos después, cuando Jacob <u>y</u> Esaú ya están vinculados con pueblos y naciones.
 
-###### Génesis 25:23 ya había hablado de \scripture{dos <u>naciones</u>} y \scripture{dos pueblos}.
+###### Génesis 25:23 ya había hablado de *dos <u>naciones</u>* y *dos pueblos*.
 
 ###### Malaquías 1:2–4 continúa ese mismo <u>marco</u> nacional: Jacob/Israel y Esaú/Edom.
 
@@ -1191,133 +1191,6 @@ Como también dice en Oseas: «A LOS QUE NO ERAN MI PUEBLO, LLAMARÉ: “PUEBLO 
 
 ###### Pablo utiliza esta cita para apoyar <u>lo</u> que acaba de afirmar en 9:24.
 
-## Israel en la línea profética del Antiguo Testamento
-
-##### A lo largo de Romanos 9–11, Pablo sostiene repetidamente una afirmación central:
-> «No es que la palabra de Dios haya fallado». Romanos 9:6
-
-##### Esa afirmación invita a observar la historia de Israel desde una perspectiva más amplia.
-
-###### Si la palabra de Dios no ha fallado, resulta útil preguntarnos:
-- ¿Qué dijeron los profetas acerca de Israel?
-- ¿Qué acontecimientos ya han ocurrido?
-- ¿Qué acontecimientos permanecen futuros?
-
-##### Aunque los profetas presentan estos temas desde distintos ángulos, aparece repetidamente una secuencia general.
-
-| Etapa | Desarrollo profético                       |
-| ----- | ------------------------------------------ |
-| 1     | Israel es dispersado entre las naciones    |
-| 2     | Israel es preservado durante la dispersión |
-| 3     | Israel es reunido desde las naciones       |
-| 4     | Israel es limpiado y transformado          |
-| 5     | El rey davídico es establecido             |
-| 6     | Israel es restaurado y habita seguro       |
-| 7     | Las naciones se reúnen contra Israel       |
-| 8     | El Señor interviene directamente           |
-| 9     | Las naciones son juzgadas                  |
-| 10    | El Señor reina sobre toda la tierra        |
-| 11    | Las naciones vienen a adorar               |
-| 12    | Ocurre la resurrección                     |
-| 13    | Nuevos cielos y nueva tierra               |
-
-#### Dispersión
-
-##### Los profetas anunciaron repetidamente que Israel sería dispersado entre las naciones.
-
-###### Véase Deuteronomio 28:64–68; Deuteronomio 30:1–3; Jeremías 30:11; Ezequiel 36:19.
-
-#### Preservación
-
-##### Los mismos profetas afirmaron que la dispersión no significaría la desaparición de Israel.
-
-###### Dios prometió preservar a la nación.
-
-###### Véase Jeremías 31:35–37.
-
-#### Reunión
-
-##### Los profetas también anunciaron que Israel sería reunido nuevamente desde las naciones.
-
-###### Véase Deuteronomio 30:3–5; Jeremías 31:8–10; Ezequiel 36:24; Ezequiel 37:21; Amós 9:14–15.
-
-#### ¿Dónde encaja Israel actualmente?
-
-##### Al observar la historia, varias etapas parecen haber ocurrido ya.
-
-###### Israel fue dispersado entre las naciones.
-
-###### Israel fue preservado durante esa dispersión.
-
-###### Israel ha sido reunido nuevamente en la tierra.
-
-##### Sin embargo, varias etapas descritas por los profetas todavía no parecen haberse cumplido plenamente.
-
-###### Israel todavía no ha experimentado la transformación nacional descrita en Deuteronomio 30:6.
-
-###### La restauración espiritual descrita en Jeremías 31:31–34 y Ezequiel 36:25–27 todavía espera cumplimiento nacional.
-
-###### El rey davídico prometido por los profetas todavía no reina sobre todas las naciones.
-
-###### Las naciones todavía no han venido universalmente a adorar al Señor.
-
-###### La resurrección descrita en Daniel 12 todavía no ha ocurrido.
-
-###### Los nuevos cielos y la nueva tierra todavía permanecen futuros.
-
-##### Por esa razón, la historia profética de Israel no parece haber llegado todavía a su conclusión.
-
-###### Los profetas describen acontecimientos que continúan más allá de la situación presente.
-
-#### Relación con Romanos 9–11
-
-##### Esta observación ayuda a entender por qué Pablo puede hablar de Israel como parte de una historia que continúa desarrollándose.
-
-###### La condición presente de Israel no obliga a concluir que la palabra de Dios haya fallado.
-
-###### Pablo argumenta precisamente lo contrario.
-
-###### La existencia misma de una historia todavía en desarrollo presupone que las promesas continúan vigentes.
-
-##### Por eso Romanos 9–11 no presenta a Israel como una evidencia contra la fidelidad de Dios.
-
-##### Presenta a Israel como una demostración de que Dios continúa actuando conforme a lo que había dicho.
-
-> Dios habló.
-> La historia avanzó.
-> La palabra de Dios permaneció firme.
-
-#### Resumen visual
-
-> Dispersión
-> ↓
-> Preservación
-> ↓
-> Reunión
-> ↓
-> ¿Situación actual?
-> ↓
-> Transformación nacional
-> ↓
-> Rey davídico
-> ↓
-> Restauración completa
-> ↓
-> Conflicto de las naciones
-> ↓
-
-> Intervención del Señor
-> ↓
-> Juicio
-> ↓
-> Reino universal
-> ↓
-> Adoración de las naciones
-> ↓
-> Resurrección
-> ↓
-> Nuevos cielos y nueva tierra
-
 ### Romanos 9:26
 Y SUCEDERÁ QUE EN EL LUGAR DONDE SE LES DIJO: “USTEDES NO SON MI PUEBLO”, ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
 
@@ -1524,8 +1397,6 @@ Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO D
 >- La historia avanza, las generaciones pasan y las circunstancias cambian, pero la palabra pronunciada por Dios permanece firme.
 >- A lo largo de la sección, Pablo desarrolla distinciones dentro de Israel, apela a la promesa, al llamamiento y al remanente, y responde a diversas objeciones.
 >- El resultado es el mismo una y otra vez: La situación de Israel no demuestra que la palabra de Dios haya fallado; confirma que Dios continúa actuando conforme a lo que había dicho.
-
-<!-- @quiz quiz-1 -->
 
 ## Romanos 9:30–10:21 — Pablo da testimonio sobre Israel
 
@@ -1904,6 +1775,11 @@ Porque Cristo es el fin de la ley para justicia a todo aquel que cree.
 
 ###### A partir del versículo 5 comenzará a desarrollar esta afirmación <u>mediante</u> citas de Moisés, Isaías y Joel.
 
+Pasted markdown(11).md
+File
+do an en síntesis for this section:
+
+
 > En Síntesis
 >- Pablo concluye la sección anterior afirmando que la diferencia entre Israel y los gentiles no estuvo en la intensidad de la búsqueda, sino en la manera de buscar.
 >- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al buscarla como por obras.
@@ -2017,6 +1893,7 @@ Pues Moisés escribe que el hombre que practica la justicia que es de la ley, vi
 ###### La vida aparece <u>vinculada</u> a la justicia descrita en la cita.
 
 ##### <u>Observación</u> desarrollacional:
+
 ###### El siguiente versículo <u>introducirá</u> un contraste.
 
 ###### <u>Pablo</u> pasará de:
@@ -2172,6 +2049,7 @@ que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dio
 ###### Pablo especifica aquello que es <u>confesado</u>.
 
 ##### Observación <u>importante</u>:
+
 ###### Pablo no ha abandonado <u>el</u> tema de Cristo.
 
 ###### Romanos 10 <u>comenzó</u> afirmando:
@@ -2201,6 +2079,7 @@ que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dio
 ###### La declaración presenta <u>el</u> resultado asociado con creer y confesar.
 
 ##### <u>Observación</u> desarrollacional:
+
 ###### La palabra que Moisés describía como cercana es <u>ahora</u> desarrollada por Pablo en relación con Jesús.
 
 ###### El <u>argumento</u> continúa avanzando alrededor de la palabra anunciada y la respuesta a ella.
@@ -2429,7 +2308,7 @@ porque: «TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO».
 #### ¿Cómo, pues, invocarán a Aquel en quien no han creído?
 ##### <u>Pablo</u> comienza una serie de preguntas conectadas entre sí.
 
-##### El versículo anterior afirmó:
+El versículo anterior afirmó:
 > «Todo aquel que invoque el nombre del Señor será salvo».
 
 ##### Ahora <u>Pablo</u> comienza a explicar cómo alguien llega a invocar.
@@ -2855,8 +2734,6 @@ Pero en cuanto a Israel, dice: «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO
 Las Escrituras presentan una promesa amplia: «Todo el que cree», «Todo el que invoque el nombre del Señor»
 >- Finalmente, Pablo demuestra que el problema no fue falta de palabra, falta de anuncio ni falta de oportunidad.
 >- El mensaje fue proclamado, pero Israel es descrito como un pueblo desobediente y rebelde, preparando así la pregunta que abrirá Romanos 11: «¿Acaso ha desechado Dios a Su pueblo?»
-
-<!-- @quiz quiz-2 -->
 
 ## Romanos 11:1–10 — Dios no ha rechazado a Su pueblo
 
@@ -4566,8 +4443,6 @@ Porque Dios ha encerrado a todos en desobediencia para mostrar misericordia a to
 todos en desobediencia todos necesitados de misericordia.
 >- La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento.
 >- La última palabra es misericordia.
-
-<!-- @quiz quiz-3 -->
 
 ## Romanos 11:33–36 — Pablo responde con adoración
 

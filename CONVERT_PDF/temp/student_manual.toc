@@ -4,487 +4,237 @@
 \contentsline {subsection}{Metodología de estudio}{2}{subsection*.4}%
 \contentsline {subsection}{Alcance y uso del manual}{2}{subsection*.5}%
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
-\contentsline {section}{INTRODUCCIÓN}{5}{section*.7}%
-\contentsline {section}{¿QUÉ ES RO₁O₂TS?}{6}{section*.8}%
-\contentsline {subsection}{INTRODUCCIÓN}{6}{subsection*.9}%
-\contentsline {subsubsection}{Qué es RO₁O₂TS}{6}{subsubsection*.10}%
-\contentsline {section}{R -- Revelación}{7}{section*.11}%
-\contentsline {subsection}{¿Qué significa revelación?}{7}{subsection*.12}%
-\contentsline {subsection}{Dios comunicó por medio de lenguaje}{8}{subsection*.13}%
-\contentsline {subsection}{Propósito de la revelación}{8}{subsection*.14}%
-\contentsline {subsection}{No son versículos aislados}{8}{subsection*.15}%
-\contentsline {subsection}{El texto construye}{8}{subsection*.16}%
-\contentsline {subsection}{Comunicación real, no código}{9}{subsection*.17}%
-\contentsline {subsection}{Dios busca ser entendido}{9}{subsection*.18}%
-\contentsline {subsection}{Fundamento de la revelación}{9}{subsection*.19}%
-\contentsline {subsection}{El peso de la revelación}{9}{subsection*.20}%
-\contentsline {subsection}{El poder de la revelación}{10}{subsection*.21}%
-\contentsline {subsection}{Implicaciones}{10}{subsection*.22}%
-\contentsline {subsection}{Nuestra postura frente al texto}{10}{subsection*.23}%
-\contentsline {subsection}{Principio clave}{10}{subsection*.24}%
-\contentsline {subsection}{Punto de partida}{11}{subsection*.25}%
-\contentsline {section}{O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)}{11}{section*.26}%
-\contentsline {subsection}{El problema común}{11}{subsection*.27}%
-\contentsline {subsection}{Principio fundamental}{11}{subsection*.28}%
-\contentsline {subsection}{Por qué esto importa}{11}{subsection*.29}%
-\contentsline {subsection}{La realidad del texto}{12}{subsection*.30}%
-\contentsline {subsection}{Lo que aprenderás}{12}{subsection*.31}%
-\contentsline {subsection}{El proceso de observación estructural}{12}{subsection*.32}%
-\contentsline {subsection}{Qué NO haremos}{12}{subsection*.34}%
-\contentsline {subsection}{Qué SÍ haremos}{12}{subsection*.35}%
-\contentsline {subsection}{Observación clave}{12}{subsection*.36}%
-\contentsline {subsection}{Transición}{13}{subsection*.37}%
-\contentsline {section}{PASO 1 --- COPIAR EL TEXTO}{13}{section*.38}%
-\contentsline {subsection}{EJECUTA}{13}{subsection*.39}%
-\contentsline {subsection}{ENTIENDE}{14}{subsection*.40}%
-\contentsline {section}{PASO 2 --- IDENTIFICAR LOS VERBOS FINITOS}{16}{section*.41}%
-\contentsline {subsection}{EJECUTA}{16}{subsection*.42}%
-\contentsline {subsection}{CÓMO SABER SI ES FINITO (EN EL GRIEGO)}{16}{subsection*.43}%
-\contentsline {subsubsection}{✔ VERBOS FINITOS (SE MARCAN)}{16}{subsubsection*.44}%
-\contentsline {subsubsection}{❌ VERBOS NO FINITOS (NO SE MARCAN)}{16}{subsubsection*.45}%
-\contentsline {subsubsection}{🔒 REGLA MECÁNICA}{17}{subsubsection*.46}%
-\contentsline {subsection}{ENTIENDE}{18}{subsection*.47}%
-\contentsline {section}{PASO 3 --- CONSTRUIR CLÁUSULAS}{20}{section*.48}%
-\contentsline {subsection}{EJECUTA}{20}{subsection*.49}%
-\contentsline {subparagraph}{REGLA}{20}{subparagraph*.50}%
-\contentsline {subsection}{REGLA CRÍTICA}{20}{subsection*.51}%
-\contentsline {subparagraph}{CONSECUENCIA}{20}{subparagraph*.52}%
-\contentsline {subsection}{REGLA CLAVE}{21}{subsection*.53}%
-\contentsline {subsection}{CÓMO HACERLO}{21}{subsection*.54}%
-\contentsline {subsection}{RESULTADO}{22}{subsection*.55}%
-\contentsline {subsection}{EJEMPLO}{22}{subsection*.56}%
-\contentsline {subsection}{ACLARACIÓN SOBRE CONECTORES}{22}{subsection*.57}%
-\contentsline {subsection}{ENTIENDE}{22}{subsection*.58}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{22}{subparagraph*.59}%
-\contentsline {subparagraph}{ACLARACIÓN IMPORTANTE}{23}{subparagraph*.60}%
-\contentsline {subparagraph}{ERROR COMÚN}{23}{subparagraph*.61}%
-\contentsline {subparagraph}{CORRECTO}{23}{subparagraph*.62}%
-\contentsline {subsection}{REGLA DE CONTROL}{24}{subsection*.63}%
-\contentsline {subsection}{FRASE CLAVE}{24}{subsection*.64}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{24}{subsection*.65}%
-\contentsline {subsection}{TRANSICIÓN}{24}{subsection*.66}%
-\contentsline {section}{PASO 4 --- IDENTIFICAR CONECTORES}{24}{section*.67}%
-\contentsline {subsection}{EJECUTA}{24}{subsection*.68}%
-\contentsline {subparagraph}{¿Qué haces?}{24}{subparagraph*.69}%
-\contentsline {subparagraph}{REGLA CLAVE}{24}{subparagraph*.70}%
-\contentsline {subsection}{QUÉ ES UN CONECTOR}{24}{subsection*.71}%
-\contentsline {subparagraph}{Definición}{24}{subparagraph*.72}%
-\contentsline {subsection}{CÓMO IDENTIFICARLOS}{25}{subsection*.73}%
-\contentsline {subsection}{REGLA DE MARCADO}{25}{subsection*.74}%
-\contentsline {subsection}{CONFIRMACIÓN EN EL GRIEGO}{25}{subsection*.75}%
-\contentsline {subparagraph}{EJEMPLO}{25}{subparagraph*.76}%
-\contentsline {subsection}{EJEMPLO COMPLETO}{26}{subsection*.77}%
-\contentsline {subsection}{IMPORTANTE}{26}{subsection*.78}%
-\contentsline {subsection}{ENTIENDE}{26}{subsection*.79}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{26}{subparagraph*.80}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{26}{subparagraph*.81}%
-\contentsline {subparagraph}{IDEA CLAVE}{27}{subparagraph*.82}%
-\contentsline {subparagraph}{ERROR COMÚN}{27}{subparagraph*.83}%
-\contentsline {subparagraph}{CORRECTO}{27}{subparagraph*.84}%
-\contentsline {subsection}{FRASE CLAVE}{27}{subsection*.85}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{27}{subsection*.86}%
-\contentsline {subsection}{TRANSICIÓN}{27}{subsection*.87}%
-\contentsline {section}{PASO 5 --- CONECTOR + B → BUSCAR A}{28}{section*.88}%
-\contentsline {subsection}{EJECUTA}{28}{subsection*.89}%
-\contentsline {subparagraph}{¿Qué haces?}{28}{subparagraph*.90}%
-\contentsline {subparagraph}{REGLA CLAVE}{28}{subparagraph*.91}%
-\contentsline {subparagraph}{ESENCIA DEL PASO}{28}{subparagraph*.92}%
-\contentsline {subsection}{CÓMO HACERLO}{28}{subsection*.93}%
-\contentsline {subsection}{FORMATO}{28}{subsection*.94}%
-\contentsline {subsection}{EJEMPLO}{28}{subsection*.95}%
-\contentsline {subsection}{EJEMPLO CLAVE (SIN B REAL)}{29}{subsection*.96}%
-\contentsline {subsection}{REGLA OPERATIVA}{30}{subsection*.97}%
-\contentsline {subsection}{CASOS DIFÍCILES}{30}{subsection*.98}%
-\contentsline {subparagraph}{Cuando el conector no está cerca}{30}{subparagraph*.99}%
-\contentsline {subparagraph}{Cuando no es claro}{30}{subparagraph*.100}%
-\contentsline {subsection}{IMPORTANTE}{30}{subsection*.101}%
-\contentsline {subsection}{ENTIENDE}{31}{subsection*.102}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{31}{subparagraph*.103}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{31}{subparagraph*.104}%
-\contentsline {subparagraph}{IDEA CLAVE}{31}{subparagraph*.105}%
-\contentsline {subparagraph}{ERROR COMÚN}{31}{subparagraph*.106}%
-\contentsline {subparagraph}{CORRECTO}{31}{subparagraph*.107}%
-\contentsline {subsection}{FRASE CLAVE}{31}{subsection*.108}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{31}{subsection*.109}%
-\contentsline {subsection}{TRANSICIÓN}{31}{subsection*.110}%
-\contentsline {section}{PASO 6 --- MOSTRAR LA ESTRUCTURA}{32}{section*.111}%
-\contentsline {subsection}{EJECUTA}{32}{subsection*.112}%
-\contentsline {subparagraph}{¿Qué haces?}{32}{subparagraph*.113}%
-\contentsline {subparagraph}{REGLA CLAVE}{32}{subparagraph*.114}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{32}{subparagraph*.115}%
-\contentsline {subsection}{CÓMO HACERLO}{32}{subsection*.116}%
-\contentsline {subsection}{FORMATO}{33}{subsection*.117}%
-\contentsline {subsection}{EJEMPLO}{33}{subsection*.118}%
-\contentsline {subsection}{REGLA OPERATIVA}{33}{subsection*.119}%
-\contentsline {subsection}{IMPORTANTE}{33}{subsection*.120}%
-\contentsline {subsection}{ENTIENDE}{33}{subsection*.121}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{33}{subparagraph*.122}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{33}{subparagraph*.123}%
-\contentsline {subparagraph}{IDEA CLAVE}{34}{subparagraph*.124}%
-\contentsline {subparagraph}{ERROR COMÚN}{34}{subparagraph*.125}%
-\contentsline {subparagraph}{CORRECTO}{34}{subparagraph*.126}%
-\contentsline {subsection}{FRASE CLAVE}{34}{subsection*.127}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{34}{subsection*.128}%
-\contentsline {subsection}{TRANSICIÓN}{34}{subsection*.129}%
-\contentsline {section}{PASO 7 --- REDUCIR A LA CLÁUSULA BASE}{35}{section*.130}%
-\contentsline {subsection}{EJECUTA}{35}{subsection*.131}%
-\contentsline {subparagraph}{¿Qué haces?}{35}{subparagraph*.132}%
-\contentsline {subparagraph}{REGLA CLAVE}{35}{subparagraph*.133}%
-\contentsline {subparagraph}{REGLA}{35}{subparagraph*.134}%
-\contentsline {subparagraph}{ACLARACIÓN IMPORTANTE}{35}{subparagraph*.135}%
-\contentsline {subsection}{CÓMO HACERLO}{35}{subsection*.136}%
-\contentsline {subparagraph}{RESULTADO ESPERADO}{36}{subparagraph*.137}%
-\contentsline {subsection}{ENTIENDE}{36}{subsection*.138}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{36}{subparagraph*.139}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{36}{subparagraph*.140}%
-\contentsline {subparagraph}{IDEA CLAVE}{36}{subparagraph*.141}%
-\contentsline {subparagraph}{ACLARACIÓN}{36}{subparagraph*.142}%
-\contentsline {subparagraph}{EJEMPLO CLAVE}{36}{subparagraph*.143}%
-\contentsline {subparagraph}{ERROR COMÚN}{37}{subparagraph*.144}%
-\contentsline {subparagraph}{CORRECTO}{37}{subparagraph*.145}%
-\contentsline {subsection}{FRASE CLAVE}{37}{subsection*.146}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{37}{subsection*.147}%
-\contentsline {subparagraph}{REGLA DE CONTROL}{37}{subparagraph*.148}%
-\contentsline {subsection}{TRANSICIÓN}{37}{subsection*.149}%
-\contentsline {section}{PASO 8 --- IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)}{38}{section*.150}%
-\contentsline {subsection}{EJECUTA}{38}{subsection*.151}%
-\contentsline {subparagraph}{¿Qué haces?}{38}{subparagraph*.152}%
-\contentsline {section}{REGLA CLAVE}{38}{section*.153}%
-\contentsline {section}{REGLA CRÍTICA}{38}{section*.154}%
-\contentsline {section}{DEFINICIÓN OPERATIVA}{38}{section*.155}%
-\contentsline {section}{CÓMO HACERLO}{38}{section*.156}%
-\contentsline {section}{RESULTADO}{39}{section*.157}%
-\contentsline {section}{OBSERVACIÓN INTEGRADA}{39}{section*.158}%
-\contentsline {subsection}{1. SUJETO}{39}{subsection*.159}%
-\contentsline {subsection}{2. MOVIMIENTO {[}M{]} (OBJETIVO --- BASADO EN GRIEGO)}{39}{subsection*.160}%
-\contentsline {subparagraph}{DEFINICIÓN}{39}{subparagraph*.161}%
-\contentsline {section}{REGLA FUNDAMENTAL DE {[}M{]}}{40}{section*.162}%
-\contentsline {section}{CRITERIOS OBJETIVOS PARA {[}M{]}}{40}{section*.163}%
-\contentsline {subsection}{✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)}{40}{subsection*.164}%
-\contentsline {subsection}{✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)}{40}{subsection*.165}%
-\contentsline {subsection}{✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO}{40}{subsection*.166}%
-\contentsline {section}{LO QUE NO PRODUCE {[}M{]}}{41}{section*.167}%
-\contentsline {section}{PRUEBA MECÁNICA (OBLIGATORIA)}{41}{section*.168}%
-\contentsline {section}{EJEMPLO}{41}{section*.169}%
-\contentsline {section}{FORMATO FINAL}{42}{section*.170}%
-\contentsline {section}{REGLA DE CONTROL}{42}{section*.171}%
-\contentsline {section}{ENTIENDE}{42}{section*.172}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{42}{subparagraph*.173}%
-\contentsline {section}{PRINCIPIO CLAVE}{42}{section*.174}%
-\contentsline {section}{IDEA CLAVE}{42}{section*.175}%
-\contentsline {section}{ERROR COMÚN}{43}{section*.176}%
-\contentsline {section}{CORRECTO}{43}{section*.177}%
-\contentsline {section}{FRASE CLAVE}{43}{section*.178}%
-\contentsline {section}{QUÉ DEBES NOTAR}{43}{section*.179}%
-\contentsline {section}{TRANSICIÓN}{43}{section*.180}%
-\contentsline {section}{PASO 9 --- MARCAR EL COMPORTAMIENTO}{44}{section*.181}%
-\contentsline {subsection}{EJECUTA}{44}{subsection*.182}%
-\contentsline {subparagraph}{¿Qué haces?}{44}{subparagraph*.183}%
-\contentsline {subparagraph}{REGLA CLAVE}{44}{subparagraph*.184}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{44}{subparagraph*.185}%
-\contentsline {subparagraph}{REGLA CRÍTICA}{44}{subparagraph*.186}%
-\contentsline {subparagraph}{❗ ACLARACIÓN}{44}{subparagraph*.187}%
-\contentsline {subsection}{CÓMO HACERLO}{44}{subsection*.188}%
-\contentsline {subsection}{ETIQUETAS PERMITIDAS (FIJAS)}{44}{subsection*.189}%
-\contentsline {subparagraph}{EXPONE • RAZÓN • CONTRASTE • RESULTADO}{44}{subparagraph*.190}%
-\contentsline {subsection}{DEFINICIÓN OPERATIVA}{44}{subsection*.191}%
-\contentsline {subsection}{RESULTADO ESPERADO}{45}{subsection*.192}%
-\contentsline {subsection}{IMPORTANTE}{45}{subsection*.193}%
-\contentsline {subparagraph}{❗ {[}M{]} ES RESTRINGIDO}{45}{subparagraph*.194}%
-\contentsline {subsection}{ERRORES COMUNES}{45}{subsection*.195}%
-\contentsline {subparagraph}{❌ Poner {[}S{]} en línea con la cláusula}{45}{subparagraph*.196}%
-\contentsline {subparagraph}{❌ Poner la etiqueta después}{45}{subparagraph*.197}%
-\contentsline {subparagraph}{❌ Poner {[}M{]} antes}{45}{subparagraph*.198}%
-\contentsline {subparagraph}{❌ Etiquetar solo donde hay {[}M{]}}{45}{subparagraph*.199}%
-\contentsline {subparagraph}{❌ Interpretar el texto}{45}{subparagraph*.200}%
-\contentsline {subsection}{FRASE CLAVE}{45}{subsection*.201}%
-\contentsline {subsection}{ENTIENDE}{46}{subsection*.202}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{46}{subparagraph*.203}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{46}{subparagraph*.204}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{46}{subsection*.205}%
-\contentsline {subsection}{TRANSICIÓN}{46}{subsection*.206}%
-\contentsline {section}{PASO 10 --- DELIMITAR SECCIONES CONTINUAS}{46}{section*.207}%
-\contentsline {subsection}{EJECUTA}{46}{subsection*.208}%
-\contentsline {subparagraph}{¿Qué haces?}{46}{subparagraph*.209}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{46}{subparagraph*.210}%
-\contentsline {subparagraph}{REGLA CLAVE}{46}{subparagraph*.211}%
-\contentsline {subsection}{CÓMO HACERLO}{47}{subsection*.212}%
-\contentsline {subsubsection}{1. Lee el texto línea por línea}{47}{subsubsection*.213}%
-\contentsline {subsubsection}{2. Identifica {[}M{]}}{47}{subsubsection*.214}%
-\contentsline {subsubsection}{3. Agrupa las líneas}{47}{subsubsection*.215}%
-\contentsline {subsubsection}{4. Continúa hasta el siguiente {[}M{]}}{47}{subsubsection*.216}%
-\contentsline {subsection}{RESULTADO ESPERADO}{47}{subsection*.217}%
-\contentsline {subsection}{DEFINICIÓN OPERATIVA}{48}{subsection*.218}%
-\contentsline {subsection}{REGLA DE CONTROL}{48}{subsection*.219}%
-\contentsline {subsection}{ACLARACIONES IMPORTANTES}{48}{subsection*.220}%
-\contentsline {subsection}{ERRORES COMUNES}{48}{subsection*.221}%
-\contentsline {subparagraph}{❌ Crear secciones por ``sentido''}{48}{subparagraph*.222}%
-\contentsline {subparagraph}{❌ Usar etiquetas para dividir}{48}{subparagraph*.223}%
-\contentsline {subparagraph}{❌ Usar cambios de sujeto para dividir}{48}{subparagraph*.224}%
-\contentsline {subparagraph}{❌ Forzar divisiones donde no hay {[}M{]}}{48}{subparagraph*.225}%
-\contentsline {subparagraph}{❌ Suponer ruptura sin evidencia en el griego}{48}{subparagraph*.226}%
-\contentsline {subsection}{FRASE CLAVE}{48}{subsection*.227}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{48}{subsection*.228}%
-\contentsline {subsection}{TRANSICIÓN}{49}{subsection*.229}%
-\contentsline {section}{PASO 11 --- EXTENDER LA CONTINUIDAD}{49}{section*.230}%
-\contentsline {subsection}{EJECUTA}{49}{subsection*.231}%
-\contentsline {subparagraph}{¿Qué haces?}{49}{subparagraph*.232}%
-\contentsline {subparagraph}{REGLA CLAVE}{49}{subparagraph*.233}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{49}{subparagraph*.234}%
-\contentsline {subsection}{CÓMO HACERLO}{49}{subsection*.235}%
-\contentsline {subsubsection}{1. ¿La etiqueta sigue en el mismo tipo de desarrollo?}{49}{subsubsection*.236}%
-\contentsline {subsubsection}{2. ¿El texto sigue haciendo lo mismo?}{49}{subsubsection*.237}%
-\contentsline {subsubsection}{3. ¿Se puede leer junto sin forzar?}{49}{subsubsection*.238}%
-\contentsline {subsection}{REGLA CRÍTICA}{50}{subsection*.239}%
-\contentsline {subsection}{RESULTADO ESPERADO}{50}{subsection*.240}%
-\contentsline {subsection}{IMPORTANTE}{50}{subsection*.241}%
-\contentsline {subsection}{ENTIENDE}{50}{subsection*.242}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{50}{subparagraph*.243}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{50}{subparagraph*.244}%
-\contentsline {subparagraph}{IDEA CLAVE}{50}{subparagraph*.245}%
-\contentsline {subsection}{ERROR COMÚN}{50}{subsection*.246}%
-\contentsline {subparagraph}{CORRECTO}{51}{subparagraph*.247}%
-\contentsline {subsection}{FRASE CLAVE}{51}{subsection*.248}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{51}{subsection*.249}%
-\contentsline {subsection}{TRANSICIÓN}{51}{subsection*.250}%
-\contentsline {section}{PASO 12 --- DELIMITAR LA UNIDAD}{51}{section*.251}%
-\contentsline {subsection}{EJECUTA}{51}{subsection*.252}%
-\contentsline {subparagraph}{¿Qué haces?}{51}{subparagraph*.253}%
-\contentsline {subparagraph}{REGLA CLAVE}{51}{subparagraph*.254}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{52}{subparagraph*.255}%
-\contentsline {subsection}{CÓMO HACERLO}{52}{subsection*.256}%
-\contentsline {subsection}{REGLA CRÍTICA}{52}{subsection*.257}%
-\contentsline {subsection}{RESULTADO ESPERADO}{52}{subsection*.258}%
-\contentsline {subsection}{IMPORTANTE}{52}{subsection*.259}%
-\contentsline {subsection}{ENTIENDE}{52}{subsection*.260}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{52}{subparagraph*.261}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{52}{subparagraph*.262}%
-\contentsline {subparagraph}{IDEA CLAVE}{53}{subparagraph*.263}%
-\contentsline {subsection}{ERROR COMÚN}{53}{subsection*.264}%
-\contentsline {subparagraph}{CORRECTO}{53}{subparagraph*.265}%
-\contentsline {subsection}{FRASE CLAVE}{53}{subsection*.266}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{53}{subsection*.267}%
-\contentsline {subsection}{TRANSICIÓN}{53}{subsection*.268}%
-\contentsline {section}{PASO 13 --- EXPRESAR LA ACCIÓN DEL TRONCO}{54}{section*.269}%
-\contentsline {subsection}{EJECUTA}{54}{subsection*.270}%
-\contentsline {subparagraph}{¿Qué haces?}{54}{subparagraph*.271}%
-\contentsline {subparagraph}{REGLA CLAVE}{54}{subparagraph*.272}%
-\contentsline {subparagraph}{REGLA FUNDAMENTAL}{54}{subparagraph*.273}%
-\contentsline {subparagraph}{ESTRUCTURA DE LA ORACIÓN}{54}{subparagraph*.274}%
-\contentsline {subparagraph}{VERBOS PERMITIDOS}{54}{subparagraph*.275}%
-\contentsline {subsection}{CÓMO HACERLO}{54}{subsection*.276}%
-\contentsline {subsection}{RESULTADO ESPERADO}{54}{subsection*.277}%
-\contentsline {subsection}{REGLA CRÍTICA}{55}{subsection*.278}%
-\contentsline {subsection}{IMPORTANTE}{55}{subsection*.279}%
-\contentsline {subsection}{ENTIENDE}{55}{subsection*.280}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{55}{subparagraph*.281}%
-\contentsline {subparagraph}{PRINCIPIO CLAVE}{55}{subparagraph*.282}%
-\contentsline {subparagraph}{IDEA CLAVE}{55}{subparagraph*.283}%
-\contentsline {subsection}{ERROR COMÚN}{55}{subsection*.284}%
-\contentsline {subparagraph}{CORRECTO}{56}{subparagraph*.285}%
-\contentsline {subsection}{FRASE CLAVE}{56}{subsection*.286}%
-\contentsline {subsection}{REGLA DE CONTROL}{56}{subsection*.287}%
-\contentsline {subsection}{QUÉ DEBES NOTAR}{56}{subsection*.288}%
-\contentsline {subsection}{TRANSICIÓN}{56}{subsection*.289}%
-\contentsline {section}{CONCLUSIONES DE LOS PASOS 1--13}{57}{section*.290}%
-\contentsline {subsection}{CONTEXTO DEL TEXTO}{57}{subsection*.291}%
-\contentsline {subsubsection}{¿Qué haces?}{57}{subsubsection*.292}%
-\contentsline {subsubsection}{Definición}{57}{subsubsection*.293}%
-\contentsline {subsubsection}{Cómo hacerlo}{57}{subsubsection*.294}%
-\contentsline {subsubsection}{Resultado}{57}{subsubsection*.295}%
-\contentsline {subsubsection}{Principio clave}{57}{subsubsection*.296}%
-\contentsline {subsubsection}{Frase clave}{57}{subsubsection*.297}%
-\contentsline {subsection}{H1 --- UNIDAD PRINCIPAL}{57}{subsection*.298}%
-\contentsline {subsubsection}{¿Qué haces?}{57}{subsubsection*.299}%
-\contentsline {subsubsection}{Cómo hacerlo}{57}{subsubsection*.300}%
-\contentsline {subsubsection}{Resultado esperado}{57}{subsubsection*.301}%
-\contentsline {subsubsection}{Ejemplo}{58}{subsubsection*.302}%
-\contentsline {subsubsection}{Regla}{58}{subsubsection*.303}%
-\contentsline {subsubsection}{Regla de reducción}{58}{subsubsection*.304}%
-\contentsline {subparagraph}{El título (H1) es una versión reducida del Paso 13.}{58}{subparagraph*.305}%
-\contentsline {subparagraph}{Conserva la acción principal}{58}{subparagraph*.306}%
-\contentsline {subparagraph}{Elimina los desarrollos internos}{58}{subparagraph*.307}%
-\contentsline {subsubsection}{Principio clave}{58}{subsubsection*.308}%
-\contentsline {subsubsection}{Errores comunes}{58}{subsubsection*.309}%
-\contentsline {subsubsection}{Frase clave}{58}{subsubsection*.310}%
-\contentsline {subsection}{H2 --- MOVIMIENTOS INTERNOS}{58}{subsection*.311}%
-\contentsline {subsubsection}{¿Qué haces?}{58}{subsubsection*.312}%
-\contentsline {subsubsection}{Cómo hacerlo}{58}{subsubsection*.313}%
-\contentsline {subsubsection}{Resultado esperado}{59}{subsubsection*.314}%
-\contentsline {subparagraph}{Ejemplo}{59}{subparagraph*.315}%
-\contentsline {subsubsection}{Regla}{59}{subsubsection*.316}%
-\contentsline {subsubsection}{Principio clave}{59}{subsubsection*.317}%
-\contentsline {subsubsection}{Errores comunes}{59}{subsubsection*.318}%
-\contentsline {subsubsection}{Frase clave}{59}{subsubsection*.319}%
-\contentsline {subsection}{RESULTADO FINAL}{59}{subsection*.320}%
-\contentsline {subsubsection}{Ahora tienes:}{59}{subsubsection*.321}%
-\contentsline {subsubsection}{Estás listo para:}{59}{subsubsection*.322}%
-\contentsline {section}{O₂ --- OBSERVAR EL TEXTO}{60}{section*.323}%
-\contentsline {subsection}{INTRODUCCIÓN}{60}{subsection*.324}%
-\contentsline {subparagraph}{Qué haces ahora}{60}{subparagraph*.325}%
-\contentsline {subparagraph}{Nivel de trabajo}{60}{subparagraph*.326}%
-\contentsline {subparagraph}{Contexto}{60}{subparagraph*.327}%
-\contentsline {subparagraph}{Propósito}{60}{subparagraph*.328}%
-\contentsline {subparagraph}{Regla central}{60}{subparagraph*.329}%
-\contentsline {subsection}{Naturaleza de esta fase}{60}{subsection*.330}%
-\contentsline {subparagraph}{Esta fase es diferente a los pasos anteriores.}{60}{subparagraph*.331}%
-\contentsline {subparagraph}{Principio clave}{60}{subparagraph*.332}%
-\contentsline {subparagraph}{Cómo trabajar}{60}{subparagraph*.333}%
-\contentsline {subparagraph}{Regla}{60}{subparagraph*.334}%
-\contentsline {subparagraph}{Frase clave}{61}{subparagraph*.335}%
-\contentsline {subsection}{TRABAJAR CADA FRASE (H4)}{61}{subsection*.336}%
-\contentsline {subparagraph}{Qué haces}{61}{subparagraph*.337}%
-\contentsline {subparagraph}{Regla}{61}{subparagraph*.338}%
-\contentsline {subparagraph}{PROCESO FIJO}{61}{subparagraph*.339}%
-\contentsline {subparagraph}{1. AFIRMACIÓN}{61}{subparagraph*.340}%
-\contentsline {subparagraph}{2. SUJETO}{61}{subparagraph*.341}%
-\contentsline {subparagraph}{3. VERBO}{61}{subparagraph*.342}%
-\contentsline {subparagraph}{4. COMPLEMENTO}{61}{subparagraph*.343}%
-\contentsline {subparagraph}{5. RELACIÓN}{61}{subparagraph*.344}%
-\contentsline {subparagraph}{6. REPETICIÓN}{61}{subparagraph*.345}%
-\contentsline {subparagraph}{7. CONTRASTE}{61}{subparagraph*.346}%
-\contentsline {subparagraph}{8. ÉNFASIS}{61}{subparagraph*.347}%
-\contentsline {subparagraph}{IMPORTANTE}{62}{subparagraph*.348}%
-\contentsline {subparagraph}{RESULTADO}{62}{subparagraph*.349}%
-\contentsline {subparagraph}{EJEMPLO (FORMATO)}{62}{subparagraph*.350}%
-\contentsline {subparagraph}{REGLA DE CONTROL}{62}{subparagraph*.351}%
-\contentsline {subparagraph}{ERRORES COMUNES}{62}{subparagraph*.352}%
-\contentsline {subparagraph}{QUÉ DEBES NOTAR}{62}{subparagraph*.353}%
-\contentsline {subparagraph}{TRANSICIÓN}{63}{subparagraph*.354}%
-\contentsline {section}{EJEMPLO COMPLETO --- 1 CORINTIOS 3:1}{63}{section*.355}%
-\contentsline {subsection}{PUNTO DE PARTIDA DEL EJEMPLO}{63}{subsection*.356}%
-\contentsline {subparagraph}{Este ejemplo asume que ya se han completado:}{63}{subparagraph*.357}%
-\contentsline {subsection}{CONCLUSIONES DE LOS PASOS 1--13}{63}{subsection*.358}%
-\contentsline {subsection}{H1 --- UNIDAD}{63}{subsection*.359}%
-\contentsline {subsection}{H2 --- MOVIMIENTOS INTERNOS}{63}{subsection*.360}%
-\contentsline {subsection}{CONTEXTO}{63}{subsection*.361}%
-\contentsline {subsection}{O₂ --- OBSERVAR EL TEXTO}{63}{subsection*.362}%
-\contentsline {subparagraph}{TEXTO --- 1 CORINTIOS 3:1}{63}{subparagraph*.363}%
-\contentsline {subparagraph}{OBSERVACIÓN FRASE POR FRASE (H4)}{64}{subparagraph*.364}%
-\contentsline {subparagraph}{FRASE 1}{64}{subparagraph*.365}%
-\contentsline {subparagraph}{FRASE 2}{64}{subparagraph*.366}%
-\contentsline {subparagraph}{FRASE 3}{64}{subparagraph*.367}%
-\contentsline {subparagraph}{FRASE 4}{64}{subparagraph*.368}%
-\contentsline {subparagraph}{FRASE 5}{64}{subparagraph*.369}%
-\contentsline {subparagraph}{FRASE 6}{65}{subparagraph*.370}%
-\contentsline {subparagraph}{FRASE 7}{65}{subparagraph*.371}%
-\contentsline {subparagraph}{RESULTADO CONSOLIDADO}{65}{subparagraph*.372}%
-\contentsline {subparagraph}{LO QUE ESTE EJEMPLO DEMUESTRA}{65}{subparagraph*.373}%
-\contentsline {subparagraph}{Principio clave}{66}{subparagraph*.374}%
-\contentsline {subparagraph}{FRASE CLAVE FINAL}{66}{subparagraph*.375}%
-\contentsline {section}{T --- TRAZAR EL TEXTO}{66}{section*.376}%
-\contentsline {subsection}{INTRODUCCIÓN}{66}{subsection*.377}%
-\contentsline {subparagraph}{El problema de ver sin poder decir}{66}{subparagraph*.378}%
-\contentsline {subparagraph}{El error de buscar lo oculto}{66}{subparagraph*.379}%
-\contentsline {subparagraph}{Qué hace un buen estudiante}{66}{subparagraph*.380}%
-\contentsline {subparagraph}{Principio clave}{66}{subparagraph*.381}%
-\contentsline {subparagraph}{Qué haces ahora}{66}{subparagraph*.382}%
-\contentsline {subparagraph}{Nivel de trabajo}{66}{subparagraph*.383}%
-\contentsline {subparagraph}{Propósito}{66}{subparagraph*.384}%
-\contentsline {subparagraph}{Naturaleza de esta fase}{66}{subparagraph*.385}%
-\contentsline {subparagraph}{Frase clave}{67}{subparagraph*.386}%
-\contentsline {subsection}{EJECUTA}{67}{subsection*.387}%
-\contentsline {subparagraph}{¿Qué haces?}{67}{subparagraph*.388}%
-\contentsline {subparagraph}{Regla}{67}{subparagraph*.389}%
-\contentsline {subparagraph}{Cómo hacerlo}{67}{subparagraph*.390}%
-\contentsline {subparagraph}{Nota importante}{67}{subparagraph*.391}%
-\contentsline {subparagraph}{Resultado esperado}{67}{subparagraph*.392}%
-\contentsline {subparagraph}{Regla de ejecución}{67}{subparagraph*.393}%
-\contentsline {subparagraph}{Regla de ejecución}{67}{subparagraph*.394}%
-\contentsline {subsection}{EJEMPLO}{68}{subsection*.395}%
-\contentsline {subparagraph}{Frase:}{68}{subparagraph*.396}%
-\contentsline {subparagraph}{Observación (O₂):}{68}{subparagraph*.397}%
-\contentsline {subparagraph}{Trazado:}{68}{subparagraph*.398}%
-\contentsline {subsection}{COMPARACIÓN}{68}{subsection*.399}%
-\contentsline {subparagraph}{Incorrecto (explicación):}{68}{subparagraph*.400}%
-\contentsline {subparagraph}{Incorrecto (incompleto):}{68}{subparagraph*.401}%
-\contentsline {subparagraph}{Correcto:}{68}{subparagraph*.402}%
-\contentsline {subsection}{ENTIENDE}{68}{subsection*.403}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{68}{subparagraph*.404}%
-\contentsline {subparagraph}{Principio clave}{68}{subparagraph*.405}%
-\contentsline {subparagraph}{Idea clave}{68}{subparagraph*.406}%
-\contentsline {subparagraph}{Regla de control}{69}{subparagraph*.407}%
-\contentsline {subparagraph}{Errores comunes}{69}{subparagraph*.408}%
-\contentsline {subparagraph}{Qué debes notar}{69}{subparagraph*.409}%
-\contentsline {subparagraph}{Formación}{69}{subparagraph*.410}%
-\contentsline {subparagraph}{Frase clave final}{69}{subparagraph*.411}%
-\contentsline {subparagraph}{Transición}{69}{subparagraph*.412}%
-\contentsline {section}{S --- SINTETIZAR}{69}{section*.413}%
-\contentsline {subsection}{EJECUTA}{69}{subsection*.414}%
-\contentsline {subparagraph}{¿Qué haces?}{69}{subparagraph*.415}%
-\contentsline {subparagraph}{Regla}{69}{subparagraph*.416}%
-\contentsline {subparagraph}{Cómo hacerlo}{70}{subparagraph*.417}%
-\contentsline {subparagraph}{Regla de control}{70}{subparagraph*.418}%
-\contentsline {subparagraph}{Resultado esperado}{70}{subparagraph*.419}%
-\contentsline {subsection}{ENTIENDE}{70}{subsection*.420}%
-\contentsline {subparagraph}{Qué estás haciendo realmente}{70}{subparagraph*.421}%
-\contentsline {subparagraph}{Principio clave}{70}{subparagraph*.422}%
-\contentsline {subparagraph}{Idea clave}{70}{subparagraph*.423}%
-\contentsline {subparagraph}{Advertencia}{70}{subparagraph*.424}%
-\contentsline {subparagraph}{Resultado mental esperado}{70}{subparagraph*.425}%
-\contentsline {subparagraph}{Frase clave final}{71}{subparagraph*.426}%
-\contentsline {section}{CIERRE}{71}{section*.427}%
-\contentsline {subsubsection}{Has llegado al final del proceso}{71}{subsubsection*.428}%
-\contentsline {subsubsection}{Lo que hiciste}{71}{subsubsection*.429}%
-\contentsline {subsubsection}{Y ahora}{71}{subsubsection*.430}%
-\contentsline {subsubsection}{Principio final}{71}{subsubsection*.431}%
-\contentsline {subsubsection}{Lo que queda}{71}{subsubsection*.432}%
-\contentsline {subsubsection}{Frase final}{71}{subsubsection*.433}%
-\contentsline {subparagraph}{Última línea}{71}{subparagraph*.434}%
-\contentsline {section}{EJERCICIOS --- PRÁCTICA REAL}{72}{section*.435}%
-\contentsline {subsection}{PROPÓSITO}{72}{subsection*.436}%
-\contentsline {subparagraph}{Qué vas a hacer}{72}{subparagraph*.437}%
-\contentsline {subparagraph}{Regla clave}{72}{subparagraph*.438}%
-\contentsline {subparagraph}{Límite}{72}{subparagraph*.439}%
-\contentsline {section}{EJERCICIO 1 --- REPETICIÓN CLARA}{72}{section*.440}%
-\contentsline {subparagraph}{TEXTO --- 1 Corintios 3:6--8}{72}{subparagraph*.441}%
-\contentsline {subsection}{EJECUTA}{72}{subsection*.442}%
-\contentsline {subsection}{ENFOQUE}{73}{subsection*.443}%
-\contentsline {subparagraph}{Qué debes ver}{73}{subparagraph*.444}%
-\contentsline {section}{EJERCICIO 2 --- PROGRESIÓN CLARA}{73}{section*.445}%
-\contentsline {subparagraph}{TEXTO --- Colosenses 1:9--12}{73}{subparagraph*.446}%
-\contentsline {subsection}{EJECUTA}{74}{subsection*.447}%
-\contentsline {subsection}{ENFOQUE}{74}{subsection*.448}%
-\contentsline {subparagraph}{Qué debes ver}{74}{subparagraph*.449}%
-\contentsline {section}{⚠️ REGLA FINAL}{74}{section*.450}%
-\contentsline {subparagraph}{Si no ves Paso 10}{74}{subparagraph*.451}%
-\contentsline {section}{RESPUESTAS --- CORREGIDO}{74}{section*.452}%
-\contentsline {section}{RESPUESTA 1 --- 1 Corintios 3:6--8}{74}{section*.453}%
-\contentsline {subsection}{PASO 8 --- TRONCO}{74}{subsection*.454}%
-\contentsline {subsection}{PASO 9 --- COMPORTAMIENTO}{75}{subsection*.455}%
-\contentsline {subsection}{PASO 10 --- SECCIONES}{75}{subsection*.456}%
-\contentsline {subsection}{RESULTADO CLAVE}{76}{subsection*.457}%
-\contentsline {section}{RESPUESTA 2 --- Colosenses 1:9--14}{76}{section*.458}%
-\contentsline {subsection}{PASO 8 --- TRONCO}{76}{subsection*.459}%
-\contentsline {subsection}{PASO 9 --- COMPORTAMIENTO}{77}{subsection*.460}%
-\contentsline {subsection}{PASO 10 --- SECCIONES}{78}{subsection*.461}%
-\contentsline {section}{GLOSARIO BÁSICO}{78}{section*.462}%
-\contentsline {subsubsection}{VERBO}{78}{subsubsection*.463}%
-\contentsline {subparagraph}{Palabra que expresa una acción o estado.}{78}{subparagraph*.464}%
-\contentsline {subsubsection}{SUJETO}{78}{subsubsection*.465}%
-\contentsline {subparagraph}{Quien realiza la acción del verbo.}{78}{subparagraph*.466}%
-\contentsline {subsubsection}{COMPLEMENTO}{78}{subsubsection*.467}%
-\contentsline {subsubsection}{CLÁUSULA}{79}{subsubsection*.468}%
-\contentsline {subsubsection}{CONECTOR}{79}{subsubsection*.469}%
-\contentsline {subsubsection}{TRONCO}{79}{subsubsection*.470}%
-\contentsline {subsubsection}{COMPORTAMIENTO}{79}{subsubsection*.471}%
-\contentsline {subsubsection}{PATRÓN}{79}{subsubsection*.472}%
-\contentsline {subsubsection}{UNIDAD}{79}{subsubsection*.473}%
-\contentsline {subsubsection}{MORFOLOGÍA}{79}{subsubsection*.474}%
-\contentsline {subsubsection}{VERBO FINITO}{79}{subsubsection*.475}%
-\contentsline {subsubsection}{TIEMPO (VERBO)}{79}{subsubsection*.476}%
-\contentsline {subsubsection}{MODO (VERBO)}{79}{subsubsection*.477}%
-\contentsline {subsubsection}{VOZ}{79}{subsubsection*.478}%
-\contentsline {subsubsection}{PERSONA}{79}{subsubsection*.479}%
-\contentsline {subsubsection}{NÚMERO}{79}{subsubsection*.480}%
-\contentsline {subsubsection}{NOMINATIVO}{80}{subsubsection*.481}%
-\contentsline {subsubsection}{ACUSATIVO}{80}{subsubsection*.482}%
-\contentsline {subsubsection}{GENITIVO}{80}{subsubsection*.483}%
-\contentsline {subsubsection}{DATIVO}{80}{subsubsection*.484}%
-\contentsline {subsubsection}{VOCATIVO}{80}{subsubsection*.485}%
-\contentsline {subsubsection}{INDICATIVO}{80}{subsubsection*.486}%
-\contentsline {subsubsection}{SUBJUNTIVO}{80}{subsubsection*.487}%
-\contentsline {subsubsection}{IMPERATIVO}{80}{subsubsection*.488}%
-\contentsline {subsubsection}{CONTRASTE}{80}{subsubsection*.489}%
-\contentsline {subsubsection}{REPETICIÓN}{80}{subsubsection*.490}%
-\contentsline {subsubsection}{ÉNFASIS}{80}{subsubsection*.491}%
+\contentsline {section}{Introducción}{4}{section*.7}%
+\contentsline {subsection}{Contexto}{4}{subsection*.8}%
+\contentsline {section}{ROMANOS 9:1--11:36 LA PALABRA DE DIOS NO HA FALLADO}{6}{section*.9}%
+\contentsline {subsection}{Una observación importante para Romanos 9--11}{6}{subsection*.10}%
+\contentsline {subsection}{Romanos 9:1--5 --- Pablo introduce a la nación de Israel en la conversación}{7}{subsection*.11}%
+\contentsline {subsubsection}{Romanos 9:1}{7}{subsubsection*.12}%
+\contentsline {subsubsection}{Romanos 9:2}{8}{subsubsection*.13}%
+\contentsline {subsubsection}{Romanos 9:3}{8}{subsubsection*.14}%
+\contentsline {subsubsection}{Romanos 9:4}{9}{subsubsection*.15}%
+\contentsline {subsubsection}{Romanos 9:5}{10}{subsubsection*.16}%
+\contentsline {subsection}{Romanos 9:6--29 --- Dios habla sobre Israel}{11}{subsection*.17}%
+\contentsline {subsubsection}{Romanos 9:6}{11}{subsubsection*.18}%
+\contentsline {subsubsection}{Romanos 9:7}{13}{subsubsection*.19}%
+\contentsline {subsubsection}{Romanos 9:8}{13}{subsubsection*.20}%
+\contentsline {subsubsection}{Romanos 9:9}{14}{subsubsection*.21}%
+\contentsline {subsubsection}{Romanos 9:10}{15}{subsubsection*.22}%
+\contentsline {subsubsection}{Romanos 9:11}{15}{subsubsection*.23}%
+\contentsline {subsubsection}{Romanos 9:12}{16}{subsubsection*.24}%
+\contentsline {subsubsection}{Romanos 9:13}{18}{subsubsection*.25}%
+\contentsline {subsubsection}{Romanos 9:14}{19}{subsubsection*.26}%
+\contentsline {subsubsection}{Romanos 9:15}{19}{subsubsection*.27}%
+\contentsline {subsubsection}{Romanos 9:16}{20}{subsubsection*.28}%
+\contentsline {subsubsection}{Romanos 9:17}{21}{subsubsection*.29}%
+\contentsline {subsubsection}{Romanos 9:18}{23}{subsubsection*.30}%
+\contentsline {subsubsection}{Romanos 9:19}{24}{subsubsection*.31}%
+\contentsline {subsubsection}{Romanos 9:20}{25}{subsubsection*.32}%
+\contentsline {subsubsection}{Romanos 9:21}{26}{subsubsection*.33}%
+\contentsline {subsubsection}{Romanos 9:22}{27}{subsubsection*.34}%
+\contentsline {subsubsection}{Romanos 9:23}{29}{subsubsection*.35}%
+\contentsline {subsubsection}{Romanos 9:24}{30}{subsubsection*.36}%
+\contentsline {subsubsection}{Romanos 9:25}{31}{subsubsection*.37}%
+\contentsline {subsection}{Israel en la línea profética del Antiguo Testamento}{32}{subsection*.38}%
+\contentsline {subsubsection}{Romanos 9:26}{35}{subsubsection*.39}%
+\contentsline {subsubsection}{Romanos 9:27}{36}{subsubsection*.40}%
+\contentsline {subsubsection}{Romanos 9:28}{37}{subsubsection*.41}%
+\contentsline {subsubsection}{Romanos 9:29}{38}{subsubsection*.42}%
+\contentsline {subsection}{Romanos 9:30--10:21 --- Pablo da testimonio sobre Israel}{40}{subsection*.43}%
+\contentsline {subsubsection}{Romanos 9:30}{40}{subsubsection*.44}%
+\contentsline {subsubsection}{Romanos 9:31}{41}{subsubsection*.45}%
+\contentsline {subsubsection}{Romanos 9:32}{42}{subsubsection*.46}%
+\contentsline {subsubsection}{Romanos 9:33}{43}{subsubsection*.47}%
+\contentsline {subsubsection}{Romanos 10:1}{44}{subsubsection*.48}%
+\contentsline {subsubsection}{Romanos 10:2}{45}{subsubsection*.49}%
+\contentsline {subsubsection}{Romanos 10:3}{46}{subsubsection*.50}%
+\contentsline {subsubsection}{Romanos 10:4}{48}{subsubsection*.51}%
+\contentsline {subsection}{Romanos 10:5--13 - La palabra está cerca}{49}{subsection*.52}%
+\contentsline {subsubsection}{Romanos 10:5}{51}{subsubsection*.53}%
+\contentsline {subsubsection}{Romanos 10:6}{52}{subsubsection*.54}%
+\contentsline {subsubsection}{Romanos 10:7}{53}{subsubsection*.55}%
+\contentsline {subsubsection}{Romanos 10:8}{54}{subsubsection*.56}%
+\contentsline {subsubsection}{Romanos 10:9}{55}{subsubsection*.57}%
+\contentsline {subsubsection}{Romanos 10:10}{56}{subsubsection*.58}%
+\contentsline {subsubsection}{Romanos 10:11}{58}{subsubsection*.59}%
+\contentsline {subsubsection}{Romanos 10:12}{59}{subsubsection*.60}%
+\contentsline {subsubsection}{Romanos 10:13}{60}{subsubsection*.61}%
+\contentsline {subsubsection}{Romanos 10:14}{62}{subsubsection*.62}%
+\contentsline {subsubsection}{Romanos 10:15}{63}{subsubsection*.63}%
+\contentsline {subsubsection}{Romanos 10:16}{64}{subsubsection*.64}%
+\contentsline {subsubsection}{Romanos 10:17}{65}{subsubsection*.65}%
+\contentsline {subsubsection}{Romanos 10:18}{66}{subsubsection*.66}%
+\contentsline {subsubsection}{Romanos 10:19}{68}{subsubsection*.67}%
+\contentsline {subsubsection}{Romanos 10:20}{70}{subsubsection*.68}%
+\contentsline {subsubsection}{Romanos 10:21}{71}{subsubsection*.69}%
+\contentsline {subsection}{Romanos 11:1--10 --- Dios no ha rechazado a Su pueblo}{73}{subsection*.70}%
+\contentsline {subsubsection}{Romanos 11:1}{73}{subsubsection*.71}%
+\contentsline {subsubsection}{Romanos 11:2}{74}{subsubsection*.72}%
+\contentsline {subsubsection}{Romanos 11:3}{76}{subsubsection*.73}%
+\contentsline {subsubsection}{Romanos 11:4}{77}{subsubsection*.74}%
+\contentsline {subsubsection}{Romanos 11:5}{78}{subsubsection*.75}%
+\contentsline {subsubsection}{Romanos 11:6}{79}{subsubsection*.76}%
+\contentsline {subsubsection}{Romanos 11:7}{80}{subsubsection*.77}%
+\contentsline {subsubsection}{Romanos 11:8}{81}{subsubsection*.78}%
+\contentsline {subsubsection}{Romanos 11:9}{82}{subsubsection*.79}%
+\contentsline {subsubsection}{Romanos 11:10}{84}{subsubsection*.80}%
+\contentsline {subsection}{Romanos 11:11--32 --- El propósito de Dios permanece}{85}{subsection*.81}%
+\contentsline {subsubsection}{Romanos 11:11}{86}{subsubsection*.82}%
+\contentsline {subsubsection}{Romanos 11:12}{87}{subsubsection*.83}%
+\contentsline {subsubsection}{Romanos 11:13}{88}{subsubsection*.84}%
+\contentsline {subsubsection}{Romanos 11:14}{89}{subsubsection*.85}%
+\contentsline {subsubsection}{Romanos 11:15}{90}{subsubsection*.86}%
+\contentsline {subsubsection}{Romanos 11:16}{92}{subsubsection*.87}%
+\contentsline {subsubsection}{Romanos 11:17}{93}{subsubsection*.88}%
+\contentsline {subsubsection}{Romanos 11:18}{95}{subsubsection*.89}%
+\contentsline {subsubsection}{Romanos 11:19}{97}{subsubsection*.90}%
+\contentsline {subsubsection}{Romanos 11:20}{98}{subsubsection*.91}%
+\contentsline {subsubsection}{Romanos 11:21}{99}{subsubsection*.92}%
+\contentsline {subsubsection}{Romanos 11:22}{100}{subsubsection*.93}%
+\contentsline {subsubsection}{Romanos 11:23}{101}{subsubsection*.94}%
+\contentsline {subsubsection}{Romanos 11:24}{102}{subsubsection*.95}%
+\contentsline {subsubsection}{Romanos 11:25}{104}{subsubsection*.96}%
+\contentsline {subsubsection}{Romanos 11:26}{106}{subsubsection*.97}%
+\contentsline {subsubsection}{Romanos 11:27}{107}{subsubsection*.98}%
+\contentsline {subsubsection}{Romanos 11:28}{108}{subsubsection*.99}%
+\contentsline {subsubsection}{Romanos 11:29}{110}{subsubsection*.100}%
+\contentsline {subsubsection}{Romanos 11:30}{111}{subsubsection*.101}%
+\contentsline {subsubsection}{Romanos 11:31}{111}{subsubsection*.102}%
+\contentsline {subsubsection}{Romanos 11:32}{112}{subsubsection*.103}%
+\contentsline {subsection}{Romanos 11:33--36 --- Pablo responde con adoración}{113}{subsection*.104}%
+\contentsline {subsubsection}{Romanos 11:33}{113}{subsubsection*.105}%
+\contentsline {subsubsection}{Romanos 11:34}{114}{subsubsection*.106}%
+\contentsline {subsubsection}{Romanos 11:35}{115}{subsubsection*.107}%
+\contentsline {subsubsection}{Romanos 11:36}{115}{subsubsection*.108}%
+\contentsline {section}{ROMANOS 12:1--13:14 PRESÉNTENSE Y VIVAN CONFORME A LA NUEVA REALIDAD}{117}{section*.109}%
+\contentsline {subsection}{Romanos 12:1--8 - Presenten sus cuerpos}{117}{subsection*.110}%
+\contentsline {subsubsection}{Romanos 12:1}{117}{subsubsection*.111}%
+\contentsline {subsubsection}{Romanos 12:2}{118}{subsubsection*.112}%
+\contentsline {subsubsection}{Romanos 12:3}{120}{subsubsection*.113}%
+\contentsline {subsubsection}{Romanos 12:4}{121}{subsubsection*.114}%
+\contentsline {subsubsection}{Romanos 12:5}{121}{subsubsection*.115}%
+\contentsline {subsubsection}{Romanos 12:6}{122}{subsubsection*.116}%
+\contentsline {subsubsection}{Romanos 12:7}{123}{subsubsection*.117}%
+\contentsline {subsubsection}{Romanos 12:8}{124}{subsubsection*.118}%
+\contentsline {subsection}{Romanos 12:9--21 - El amor sin hipocresía}{125}{subsection*.119}%
+\contentsline {subsubsection}{Romanos 12:9}{125}{subsubsection*.120}%
+\contentsline {subsubsection}{Romanos 12:10}{125}{subsubsection*.121}%
+\contentsline {subsubsection}{Romanos 12:11}{126}{subsubsection*.122}%
+\contentsline {subsubsection}{Romanos 12:12}{127}{subsubsection*.123}%
+\contentsline {subsubsection}{Romanos 12:13}{128}{subsubsection*.124}%
+\contentsline {subsubsection}{Romanos 12:14}{128}{subsubsection*.125}%
+\contentsline {subsubsection}{Romanos 12:15}{129}{subsubsection*.126}%
+\contentsline {subsubsection}{Romanos 12:16}{129}{subsubsection*.127}%
+\contentsline {subsubsection}{Romanos 12:17}{130}{subsubsection*.128}%
+\contentsline {subsubsection}{Romanos 12:18}{131}{subsubsection*.129}%
+\contentsline {subsubsection}{Romanos 12:19}{131}{subsubsection*.130}%
+\contentsline {subsubsection}{Romanos 12:20}{132}{subsubsection*.131}%
+\contentsline {subsubsection}{Romanos 12:21}{133}{subsubsection*.132}%
+\contentsline {subsection}{Romanos 13:1--7 - Sométanse a las autoridades}{134}{subsection*.133}%
+\contentsline {subsubsection}{Romanos 13:1}{134}{subsubsection*.134}%
+\contentsline {subsubsection}{Romanos 13:2}{135}{subsubsection*.135}%
+\contentsline {subsubsection}{Romanos 13:3}{136}{subsubsection*.136}%
+\contentsline {subsubsection}{Romanos 13:4}{137}{subsubsection*.137}%
+\contentsline {subsubsection}{Romanos 13:5}{138}{subsubsection*.138}%
+\contentsline {subsubsection}{Romanos 13:6}{138}{subsubsection*.139}%
+\contentsline {subsubsection}{Romanos 13:7}{139}{subsubsection*.140}%
+\contentsline {subsubsection}{Romanos 13:8}{140}{subsubsection*.141}%
+\contentsline {subsubsection}{Romanos 13:9}{141}{subsubsection*.142}%
+\contentsline {subsubsection}{Romanos 13:10}{141}{subsubsection*.143}%
+\contentsline {subsubsection}{Romanos 13:11}{142}{subsubsection*.144}%
+\contentsline {subsubsection}{Romanos 13:12}{142}{subsubsection*.145}%
+\contentsline {subsubsection}{Romanos 13:13}{142}{subsubsection*.146}%
+\contentsline {subsubsection}{Romanos 13:14}{143}{subsubsection*.147}%
+\contentsline {section}{ROMANOS 14:1--15:13 ACÉPTENSE UNOS A OTROS}{144}{section*.148}%
+\contentsline {subsection}{14:1--12 El Señor es quien sostiene a Su siervo}{144}{subsection*.149}%
+\contentsline {subsubsection}{Romanos 14:1}{144}{subsubsection*.150}%
+\contentsline {subsubsection}{Romanos 14:2}{144}{subsubsection*.151}%
+\contentsline {subsubsection}{Romanos 14:3}{145}{subsubsection*.152}%
+\contentsline {subsubsection}{Romanos 14:4}{145}{subsubsection*.153}%
+\contentsline {subsubsection}{Romanos 14:5}{146}{subsubsection*.154}%
+\contentsline {subsubsection}{Romanos 14:6}{147}{subsubsection*.155}%
+\contentsline {subsubsection}{Romanos 14:7}{147}{subsubsection*.156}%
+\contentsline {subsubsection}{Romanos 14:8}{148}{subsubsection*.157}%
+\contentsline {subsubsection}{Romanos 14:9}{148}{subsubsection*.158}%
+\contentsline {subsubsection}{Romanos 14:10}{149}{subsubsection*.159}%
+\contentsline {subsubsection}{Romanos 14:11}{149}{subsubsection*.160}%
+\contentsline {subsubsection}{Romanos 14:12}{150}{subsubsection*.161}%
+\contentsline {subsection}{14:13--23 No destruyan al hermano}{151}{subsection*.162}%
+\contentsline {subsubsection}{Romanos 14:13}{151}{subsubsection*.163}%
+\contentsline {subsubsection}{Romanos 14:14}{151}{subsubsection*.164}%
+\contentsline {subsubsection}{Romanos 14:15}{152}{subsubsection*.165}%
+\contentsline {subsubsection}{Romanos 14:16}{152}{subsubsection*.166}%
+\contentsline {subsubsection}{Romanos 14:17}{153}{subsubsection*.167}%
+\contentsline {subsubsection}{Romanos 14:18}{153}{subsubsection*.168}%
+\contentsline {subsubsection}{Romanos 14:19}{154}{subsubsection*.169}%
+\contentsline {subsubsection}{Romanos 14:20}{154}{subsubsection*.170}%
+\contentsline {subsubsection}{Romanos 14:21}{155}{subsubsection*.171}%
+\contentsline {subsubsection}{Romanos 14:22}{155}{subsubsection*.172}%
+\contentsline {subsubsection}{Romanos 14:23}{156}{subsubsection*.173}%
+\contentsline {subsection}{Romanos 15:1--13 - Acéptense unos a otros}{157}{subsection*.174}%
+\contentsline {subsubsection}{Romanos 15:1}{157}{subsubsection*.175}%
+\contentsline {subsubsection}{Romanos 15:2}{157}{subsubsection*.176}%
+\contentsline {subsubsection}{Romanos 15:3}{158}{subsubsection*.177}%
+\contentsline {subsubsection}{Romanos 15:4}{158}{subsubsection*.178}%
+\contentsline {subsubsection}{Romanos 15:5}{159}{subsubsection*.179}%
+\contentsline {subsubsection}{Romanos 15:6}{159}{subsubsection*.180}%
+\contentsline {subsubsection}{Romanos 15:7}{160}{subsubsection*.181}%
+\contentsline {subsubsection}{Romanos 15:8}{160}{subsubsection*.182}%
+\contentsline {subsubsection}{Romanos 15:9}{161}{subsubsection*.183}%
+\contentsline {subsubsection}{Romanos 15:10}{162}{subsubsection*.184}%
+\contentsline {subsubsection}{Romanos 15:11}{162}{subsubsection*.185}%
+\contentsline {subsubsection}{Romanos 15:12}{162}{subsubsection*.186}%
+\contentsline {subsubsection}{Romanos 15:13}{163}{subsubsection*.187}%
+\contentsline {section}{Romanos 15:14--16:27 EL EVANGELIO CONTINÚA AVANZANDO}{164}{section*.188}%
+\contentsline {subsection}{15:14--21 El ministerio de Pablo a los gentiles}{164}{subsection*.189}%
+\contentsline {subsubsection}{Romanos 15:14}{164}{subsubsection*.190}%
+\contentsline {subsubsection}{Romanos 15:15}{165}{subsubsection*.191}%
+\contentsline {subsubsection}{Romanos 15:16}{165}{subsubsection*.192}%
+\contentsline {subsubsection}{Romanos 15:17}{166}{subsubsection*.193}%
+\contentsline {subsubsection}{Romanos 15:18}{167}{subsubsection*.194}%
+\contentsline {subsubsection}{Romanos 15:19}{167}{subsubsection*.195}%
+\contentsline {subsubsection}{Romanos 15:20}{168}{subsubsection*.196}%
+\contentsline {subsubsection}{Romanos 15:21}{168}{subsubsection*.197}%
+\contentsline {subsection}{Romanos 15:22--33 - Los planes de Pablo}{169}{subsection*.198}%
+\contentsline {subsubsection}{Romanos 15:22}{169}{subsubsection*.199}%
+\contentsline {subsubsection}{Romanos 15:23}{170}{subsubsection*.200}%
+\contentsline {subsubsection}{Romanos 15:24}{170}{subsubsection*.201}%
+\contentsline {subsubsection}{Romanos 15:25}{171}{subsubsection*.202}%
+\contentsline {subsubsection}{Romanos 15:26}{171}{subsubsection*.203}%
+\contentsline {subsubsection}{Romanos 15:27}{171}{subsubsection*.204}%
+\contentsline {subsubsection}{Romanos 15:28}{172}{subsubsection*.205}%
+\contentsline {subsubsection}{Romanos 15:29}{172}{subsubsection*.206}%
+\contentsline {subsubsection}{Romanos 15:30}{172}{subsubsection*.207}%
+\contentsline {subsubsection}{Romanos 15:31}{173}{subsubsection*.208}%
+\contentsline {subsubsection}{Romanos 15:32}{173}{subsubsection*.209}%
+\contentsline {subsubsection}{Romanos 15:33}{174}{subsubsection*.210}%
+\contentsline {subsection}{Romanos 16:1--16 - Una red de colaboradores}{174}{subsection*.211}%
+\contentsline {subsubsection}{Romanos 16:1}{174}{subsubsection*.212}%
+\contentsline {subsubsection}{Romanos 16:2}{175}{subsubsection*.213}%
+\contentsline {subsubsection}{Romanos 16:3}{175}{subsubsection*.214}%
+\contentsline {subsubsection}{Romanos 16:4}{176}{subsubsection*.215}%
+\contentsline {subsubsection}{Romanos 16:5}{176}{subsubsection*.216}%
+\contentsline {subsubsection}{Romanos 16:6}{177}{subsubsection*.217}%
+\contentsline {subsubsection}{Romanos 16:7}{177}{subsubsection*.218}%
+\contentsline {subsubsection}{Romanos 16:8}{178}{subsubsection*.219}%
+\contentsline {subsubsection}{Romanos 16:9}{178}{subsubsection*.220}%
+\contentsline {subsubsection}{Romanos 16:10}{178}{subsubsection*.221}%
+\contentsline {subsubsection}{Romanos 16:11}{179}{subsubsection*.222}%
+\contentsline {subsubsection}{Romanos 16:12}{179}{subsubsection*.223}%
+\contentsline {subsubsection}{Romanos 16:13}{180}{subsubsection*.224}%
+\contentsline {subsubsection}{Romanos 16:14}{180}{subsubsection*.225}%
+\contentsline {subsubsection}{Romanos 16:15}{181}{subsubsection*.226}%
+\contentsline {subsubsection}{Romanos 16:16}{181}{subsubsection*.227}%
+\contentsline {subsection}{Romanos 16:17--20 - Protejan la enseñanza recibida}{182}{subsection*.228}%
+\contentsline {subsubsection}{Romanos 16:17}{182}{subsubsection*.229}%
+\contentsline {subsubsection}{Romanos 16:18}{183}{subsubsection*.230}%
+\contentsline {subsubsection}{Romanos 16:19}{183}{subsubsection*.231}%
+\contentsline {subsubsection}{Romanos 16:20}{184}{subsubsection*.232}%
+\contentsline {subsection}{Romanos 16:21--27 - Dios afirma a Su pueblo conforme al evangelio}{185}{subsection*.233}%
+\contentsline {subsubsection}{Romanos 16:21}{185}{subsubsection*.234}%
+\contentsline {subsubsection}{Romanos 16:22}{185}{subsubsection*.235}%
+\contentsline {subsubsection}{Romanos 16:23}{185}{subsubsection*.236}%
+\contentsline {subsubsection}{Romanos 16:24}{186}{subsubsection*.237}%
+\contentsline {subsubsection}{Romanos 16:25}{186}{subsubsection*.238}%
+\contentsline {subsubsection}{Romanos 16:26}{187}{subsubsection*.239}%
+\contentsline {subsubsection}{Romanos 16:27}{188}{subsubsection*.240}%

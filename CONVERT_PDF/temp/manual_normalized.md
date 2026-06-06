@@ -1,3683 +1,7844 @@
 ---
-title: "Navegando el Texto"
-subtitle:  "Cómo leer, observar y seguir el flujo del texto bíblico"
-author:  "CGV"
-version:  "0.9"
-date:  "2026-04-25"
+title: "Romanos 9-16"
+subtitle: "CONFIABLE"
+author: "CGV"
 cover: "images/portada.png"
+version: "0.4"
+date: "2026-06-06"
 ---
 
-# INTRODUCCIÓN
+:::title
+CONFIABLE
+:::
+:::subtitle
+Viviendo a la luz de una palabra firme
+:::
+# Introducción
 
-Cuando un barco zarpa, no lo hace a la deriva. \fillin{Sale} con dirección, equipado con el conocimiento y las herramientas necesarias para navegar con seguridad. Sin esa preparación, las mismas aguas que prometen descubrimiento pueden llevar rápidamente a la confusión, la desorientación o incluso al naufragio.
+## Contexto
 
-De la misma manera, acercarse al \fillin{texto} bíblico sin una guía clara puede llevar a interpretaciones incorrectas o conclusiones que el texto mismo no afirma. Este curso está diseñado para equiparte con las herramientas esenciales para navegar las Escrituras con cuidado y precisión. Antes de “zarpar” hacia un estudio más profundo, aprenderemos a observar, trazar y seguir el texto tal como está escrito, de modo que nuestra comprensión esté anclada en lo que realmente dice, y no en suposiciones o ideas externas.
+\headingfive{Romanos 8 termina con algunas de \fillin{las} declaraciones más firmes de toda la carta.}
 
-Antes de avanzar, es importante \fillin{aclarar} la manera en que nos acercaremos al texto. No se trata de aprender un método nuevo ni de memorizar una serie de pasos mecánicos, sino de adoptar una forma de pensar. A esto lo llamaremos RO₁O₂TS.
+\headingsix{\fillin{Pablo} afirma que no hay condenación para los que están en Cristo Jesús.}
 
-RO₁O₂TS no es un sistema que se impone al texto, sino una actitud que se somete a él. Es una manera de frenar, observar con cuidado, y permitir que el texto hable por sí mismo antes de que nosotros saquemos conclusiones. En \fillin{lugar} de correr hacia interpretaciones rápidas, RO₁O₂TS nos entrena a permanecer en lo que está escrito, siguiendo el flujo, las conexiones y las palabras tal como aparecen.
+\headingsix{\fillin{Afirma} que Dios obra todas las cosas para bien.}
 
-En este curso, RO₁O₂TS servirá como un marco sencillo para recordarnos que nuestro papel no es forzar el texto a \fillin{decir} algo, sino aprender a leerlo con respeto, atención y precisión. No es una técnica que dominar, sino una disposición que cultivar.
+\headingsix{Afirma que aquellos a quienes Dios justificó también los \fillin{glorificó}.}
 
-Es importante también aclarar de dónde proviene esta \fillin{forma} de acercarse al texto. RO₁O₂TS no es algo nuevo, ni es un descubrimiento reciente. No estamos introduciendo un sistema innovador ni una metodología exclusiva. En realidad, lo que estamos haciendo es ponerle un nombre sencillo a una manera de leer que ha sido utilizada por décadas en el estudio serio del lenguaje.
+\headingsix{\fillin{Afirma} que nada podrá separar al creyente del amor de Dios.}
 
-Los principios detrás de RO₁O₂TS reflejan prácticas básicas que se emplean en áreas como la lingüística, el análisis del discurso y el estudio cuidadoso de \fillin{textos}: observar lo que está escrito, seguir la estructura, respetar el flujo del pensamiento y evitar imponer ideas externas al contenido. Institutos, traductores y estudiosos del lenguaje han trabajado de esta manera durante mucho tiempo.
+\headingfive{\fillin{Las} declaraciones son extraordinarias.}
 
-RO₁O₂TS simplemente toma esos principios y los presenta de forma accesible, con un lenguaje claro, para que cualquier persona pueda acercarse al texto bíblico con el mismo cuidado y respeto. No estamos inventando una nueva \fillin{forma} de leer, sino recuperando una manera sólida y probada de hacerlo.
+\headingfive{Pero precisamente por ser tan firmes surge una \fillin{pregunta} inevitable:}
 
-Para ayudarnos a mantener esta manera de pensar presente, utilizaremos un recordatorio sencillo: RO₁O₂TS. No es una fórmula rígida, sino una \fillin{guía} que nos ayuda a no desviarnos del texto.
+\headingfive{¿Puede confiararse realmente \fillin{en} una palabra tan absoluta?}
 
-# ¿QUÉ ES RO₁O₂TS?
+\headingsix{Romanos 9–11 responde \fillin{esa} pregunta.}
 
-## INTRODUCCIÓN
+\headingsix{La pregunta no surge porque \fillin{Pablo} dude.}
 
-### Qué es RO₁O₂TS
+\headingsix{Surge \fillin{porque} las afirmaciones de Romanos 8 son extraordinarias.}
 
-\headingsix{RO₁O₂TS es el proceso completo para trabajar un \fillin{texto}.}
+\headingsix{Cuanto más \fillin{firme} es la declaración, más importante resulta demostrar que puede confiararse en ella.}
 
-\headingsix{No es \fillin{solo} análisis.}
+\headingfive{Por eso Romanos 9 comienza con \fillin{una} afirmación decisiva:}
 
-\headingsix{No es solo \fillin{estructura}.}
+> «No es que la palabra de Dios haya fallado». Romanos 9:6
 
-\headingsix{👉 Es ver, seguir y someterse al \fillin{texto}.}
+\headingfive{A partir de ese momento \fillin{Pablo} desarrolla una defensa de la confiabilidad de la palabra de Dios.}
 
-\headingfive{Cómo funciona}
+\headingsix{No \fillin{responde} mediante filosofía.}
 
-\headingsix{RO₁O₂TS se desarrolla en \fillin{cinco} partes:}
+\headingsix{No responde mediante \fillin{especulación}.}
 
-\headingsix{R — Revelación}
+\headingsix{\fillin{No} responde apelando a experiencias personales.}
+
+\headingsix{Repetidamente vuelve a las Escrituras y dirige la \fillin{atención} a palabras pronunciadas mucho antes de que los acontecimientos ocurrieran.}
+
+- Dios habló a Rebeca.
+- Dios habló a Moisés.
+- Dios habló acerca de Faraón.
+- Dios habló por medio de Oseas.
+- Dios habló por medio de Isaías.
+- Dios habló por medio de David.
+
+\headingsix{Luego observa \fillin{la} historia.}
+- Siglos pasan.
+- Las circunstancias cambian.
+- Las generaciones vienen y van.
+- Sin embargo, la palabra pronunciada por Dios permanece en pie.
+
+\headingfive{Romanos 9–11 no responde de una sola \fillin{manera}.}
+
+\headingsix{En Romanos 9, Pablo dirige repetidamente la atención a palabras \fillin{pronunciadas} por Dios.}
+
+\headingsix{En Romanos 10, Pablo \fillin{testifica} acerca de Israel y vuelve a apelar a Moisés, Isaías y las Escrituras.}
+
+\headingsix{En Romanos 11, el misterio \fillin{es} revelado y las Escrituras vuelven a confirmar que la palabra de Dios permanece firme.}
+
+\headingsix{Finalmente, Pablo responde \fillin{con} adoración.}
+
+\headingfive{A lo largo de Romanos 9–11, Israel funciona \fillin{como} el escenario histórico donde esa fidelidad puede observarse.}
+
+\headingsix{Pablo sigue el hilo de la historia y muestra repetidamente que Dios \fillin{continúa} actuando de acuerdo con lo que había dicho.}
+
+\headingsix{La situación presente de Israel no \fillin{constituye} una falla de la palabra de Dios.}
+
+\headingsix{Por el contrario, confirma \fillin{que} Dios sigue cumpliendo lo que ha dicho.}
+
+\headingfive{\fillin{Por} eso la confianza de Romanos 8 permanece intacta.}
+
+\headingsix{Lo que Dios declaró no era una \fillin{esperanza} frágil.}
+
+\headingsix{No era una \fillin{promesa} incierta.}
+
+\headingsix{La palabra de Dios permanece \fillin{firme}.}
+
+> Romanos 8 Pablo declaraciones con certeza
+> ↓
+> Romanos 9 Dios habla
+> ↓
+> Romanos 10 Pablo testifica
+> ↓
+> Romanos 11 La Escritura responde, el misterio se revela, Pablo adora
+
+\headingfive{Cuando llega Romanos 12, la discusión cambia de \fillin{dirección}.}
+
+\headingsix{Después de demostrar que la palabra de Dios permanece \fillin{firme}, Pablo introduce una respuesta apropiada:}
+> «Por tanto...»
+
+\headingsix{Las exhortaciones que siguen no \fillin{buscan} producir una nueva realidad.}
+
+\headingsix{Son la respuesta apropiada a una realidad \fillin{que} Dios ya ha establecido.}
+
+\headingsix{Por eso Pablo llama a los creyentes a presentarse a Dios, vivir con una mente renovada, amar \fillin{a} los demás, buscar la paz, edificarse mutuamente y caminar en obediencia.}
+
+\headingfive{Romanos 9–11 \fillin{muestra} una palabra firme.}
+
+\headingfive{Romanos 12–16 muestra una vida vivida a la luz de esa palabra \fillin{firme}.}
+
+\headingfive{La carta concluye mostrando que el mismo evangelio que estableció a judíos y gentiles en un \fillin{solo} pueblo continúa extendiéndose a las naciones.}
+
+\headingfive{Finalmente, Pablo termina donde comenzó: \fillin{con} Dios mismo.}
+
+\headingsix{El Dios que prometió, actuó y sostuvo Su propósito es también poderoso \fillin{para} afirmar a Su pueblo conforme al evangelio.}
+
+\headingfive{Así, Romanos 9–16 defiende la confiabilidad de la palabra de Dios y muestra cómo debe vivir \fillin{el} pueblo que descansa en ella.}
+
+# ROMANOS 9:1–11:36 LA PALABRA DE DIOS NO HA FALLADO
+
+## Una observación importante para Romanos 9–11
+
+\headingsix{\fillin{A} medida que avanzamos por Romanos 9–11, observaremos algo repetidamente:}
+
+\headingsix{Pablo responde mediante \fillin{citas} de las Escrituras.}
+
+\headingsix{Por eso, antes de preguntarnos qué significa una \fillin{cita}, conviene observar:}
+
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿Qué estaba ocurriendo cuando se pronunciaron estas palabras?
+- ¿Por qué Pablo cita este texto aquí?
+
+\headingsix{Estas preguntas nos ayudarán a seguir el desarrollo \fillin{del} argumento.}
+
+#### Romanos 9
+
+- Romanos 9:12 — Dios habla a Rebeca
+- Romanos 9:13 — Dios habla en Malaquías
+- Romanos 9:15 — Dios habla a Moisés
+- Romanos 9:17 — Dios habla a Faraón
+- Romanos 9:25–26 — Dios habla en Oseas
+- Romanos 9:27–29 — Isaías habla acerca de Israel
+
+#### Romanos 10
+
+- Romanos 10:5 — Moisés escribe
+- Romanos 10:6–8 — Moisés sigue hablando
+- Romanos 10:11 — La Escritura habla
+- Romanos 10:16 — Isaías habla
+- Romanos 10:19 — Moisés habla
+- Romanos 10:20–21 — Isaías habla
+
+#### Romanos 11
+
+- Romanos 11:2–4 — Dios habla a Elías
+- Romanos 11:8 — La Escritura habla
+- Romanos 11:26–27 — Isaías habla
+- Romanos 11:34–35 — Isaías y Job hablan
+
+\headingfive{\fillin{Observación}}
+
+\headingsix{Pablo no construye su \fillin{argumento} principalmente mediante explicaciones nuevas.}
+
+\headingsix{Repetidamente \fillin{dirige} la atención a palabras ya pronunciadas en las Escrituras.}
+
+\headingsix{Por eso, identificar quién habla y por qué Pablo cita esas palabras será una ayuda importante para seguir \fillin{el} argumento de Romanos 9–11.}
+
+## Romanos 9:1–5 — Pablo introduce a la nación de Israel en la conversación
+
+### Romanos 9:1
 \begin{verseblock}
-\textit{ 👉 Dios \fillin{habló} } 👉 Usó lenguaje * 👉 El texto comunica
+Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
 \end{verseblock}
-\headingsix{O₁ — \fillin{Observar} la estructura}
-* 👉 Cómo está construido el texto
-* 👉 Cómo se \fillin{conecta}
-* 👉 Cómo se desarrolla
+#### Digo la verdad en Cristo, no miento,
+\headingfive{Pablo afirma explícitamente la veracidad de lo que va a \fillin{decir}.}
 
-\headingsix{O₂ — Observar lo que el \fillin{texto} dice}
-* 👉 Qué afirma
-* 👉 Qué \fillin{repite}
-* 👉 Qué contrasta
+\headingsix{El texto refuerza esta afirmación de dos \fillin{maneras}:}
+- “Digo la verdad”
+- “No miento”
 
-\headingsix{T — Trazar el texto}
-* 👉 Cómo avanza de principio a fin
-* 👉 Cómo se conectan sus partes
-* 👉 Cómo \fillin{fluye} el desarrollo
+\headingsix{Pablo comienza \fillin{esta} sección estableciendo la confiabilidad de su testimonio.}
 
-\headingsix{S — Someterse al texto}
-* 👉 No ajusto el texto a mí
-* 👉 Me coloco bajo lo que afirma
-* 👉 Dejo que el \fillin{texto} tenga la última palabra
+#### dándome testimonio mi conciencia en el Espíritu Santo,
+\headingfive{El texto añade un testigo a la declaración de \fillin{Pablo}.}
 
-\headingfive{Principio clave}
+\headingsix{Pablo no solamente \fillin{afirma} decir la verdad.}
 
-\headingsix{RO₁O₂TS no termina en el análisis.}
+\headingsix{También declara \fillin{que} su conciencia da testimonio de ello.}
 
-\headingsix{❗ RO₁O₂TS incluye:}
-* observar
-* \fillin{seguir}
-* someterse
+\headingsix{La declaración queda \fillin{enmarcada} “en el Espíritu Santo”.}
 
-\headingfive{Regla central}
-\headingsix{❗ Si no completas todo el proceso,}
-
-\headingsix{no has terminado RO₁O₂TS}
-
-\headingfive{Frase \fillin{clave}}
-> “No interpreto el texto.
-> Lo observo, lo sigo y me someto a él.”
-
-\headingfive{Qué debes notar}
-\headingsix{RO₁O₂TS no es un método para explicar el \fillin{texto}.}
-
-\headingsix{👉 Es un proceso para dejar que el texto hable.}
-
-RO₁O₂TS no añade \fillin{nada} al texto. Más bien, nos ayuda a quitarnos del camino para poder verlo con claridad.
-
-# R – Revelación
-
-Antes de aprender a observar o \fillin{seguir} el texto, necesitamos establecer algo fundamental: \textbf{¿qué es lo que tenemos delante?}
-
-No estamos frente a un texto cualquiera.
-
-Dios ha comunicado.
-
-No dejó ideas \fillin{sueltas}.
- No dejó mensajes ocultos.
- No habló en fragmentos aislados.
-
-Dios \textbf{reveló}.
-
-## ¿Qué significa revelación?
-
-\headingfive{Revelación significa que el contenido \textbf{no se originó en el hombre}, \fillin{sino} que fue dado.}
-
-\headingfive{Esto cambia completamente nuestra postura.}
-
-\headingsix{No nos acercamos al \fillin{texto} para producir significado, sino para \textbf{reconocer lo que ya ha sido comunicado}.}
-
-\headingsix{Hay una diferencia clara:}
-- En el descubrimiento, el hombre busca y llega a conclusiones
-- En la revelación, la verdad es \fillin{dada} al hombre
-- No estamos tratando de “llegar” a la verdad del texto.
-- Estamos \fillin{siendo} confrontados con algo que ya ha sido dicho.
-
-## Dios comunicó por medio de lenguaje
-
-Dios no \fillin{solo} reveló.
-
-Lo hizo por medio de \textbf{lenguaje}.
-
-Esto significa que lo que tenemos \fillin{delante} no es una colección de pensamientos dispersos, sino \textbf{comunicación intencional}.
-
-Y toda comunicación tiene propósito.
-
-## Propósito de la revelación
-
-La revelación no es información al azar.
- No es acumulación de frases.
-
-Es comunicación con dirección.
-
-Cada \fillin{porción} del texto:
-
-- dice algo
-- lo desarrolla
-- lo conduce \fillin{hacia} un resultado
-
-Nada está colocado sin propósito.
-
-## No son versículos aislados
-
-La Biblia no fue escrita en versículos.
-
-Los versículos fueron añadidos después para ayudarnos a \fillin{ubicar} el contenido, pero \textbf{no forman parte de la comunicación original}.
-
-El autor no pensó en:
-- versículo 1
-- versículo 2
-- versículo 3
-
-\fillin{Pensó} en \textbf{una unidad completa de pensamiento}.
-
-Cuando leemos por versículos aislados, rompemos lo que fue dado como una sola comunicación.
-
-## El texto construye
-
-El autor no \fillin{solo} dice cosas.
-
-\textbf{Construye}.
-
-El texto:
-
-- \fillin{afirma}
-- explica
-- conecta
-- \fillin{contrasta}
-- desarrolla
-
-Forma un movimiento de pensamiento.
-
-Si leemos frases sueltas:
-
-- perdemos la construcción
-- perdemos el desarrollo
-- perdemos el \fillin{punto}
-
-## Comunicación real, no código
-
-La Escritura no es un código secreto.
- No es un rompecabezas místico.
-
-Dios comunicó \fillin{usando} lenguaje real, y el lenguaje funciona de manera normal:
-
-- palabras en contexto
-- ideas conectadas
-- desarrollo progresivo
-
-El significado no está escondido detrás del \fillin{texto}.
- Está en \textbf{cómo el texto está construido}.
-
-## Dios busca ser entendido
-
-Dios no habló para ocultar.
- Habló \fillin{para} comunicar.
-
-No necesitamos:
-
-- claves ocultas
-- conocimiento \fillin{secreto}
-- interpretaciones especiales
-
-Necesitamos \textbf{observar correctamente} lo que está escrito.
-
-## Fundamento de la revelación
-
-La \fillin{misma} Escritura afirma su origen:
-
-«Toda Escritura es inspirada por Dios…» — 2 Timoteo 3:16
- «…hombres movidos por el Espíritu Santo hablaron de parte de Dios» — 2 Pedro 1:21
- «Dios… nos ha hablado por Su Hijo» — Hebreos 1:1–2
-
-No estamos leyendo \fillin{ideas} humanas aisladas, sino \textbf{lo que Dios ha dado a conocer}.
-
-## El peso de la revelación
-
-Si Dios ha hablado, entonces esto no es opcional.
-
-No estamos tratando con un texto más.
- No estamos evaluando \fillin{ideas}.
-
-Estamos frente a algo que \textbf{nos precede, nos define y nos confronta}.
-
-Esto cambia completamente cómo leemos:
-
-- no decidimos lo que el texto dice
-- no negociamos su contenido
-- no lo ajustamos a nuestras ideas
-
-Nos detenemos.
- Observamos.
- Seguimos.
-
-Porque lo que \fillin{está} delante \textbf{no se originó en nosotros}.
-
-## El poder de la revelación
-
-La revelación no solo informa.
-
-\textbf{actúa}
-
-Nos \fillin{expone}.
- Nos corrige.
- Nos \fillin{establece}.
-
-No \fillin{leemos} para dominar el texto.
- Leemos para ser \textbf{afectados por él}.
-
-## Implicaciones
-
-Si la Escritura es revelación, entonces:
-
-- su contenido no \fillin{depende} de nuestra opinión
-- su mensaje no cambia según el lector
-- su \fillin{autoridad} no es negociable
-- Esto nos da una base firme.
-- No estamos construyendo sobre interpretaciones cambiantes, sino sobre algo que ha sido establecido fuera de \fillin{nosotros}.
-
-## Nuestra postura frente al texto
-
-Si Dios ha hablado, entonces:
-
-- no leemos \fillin{para} especular, sino para \textbf{oír}
-- no construimos significado, lo \textbf{recibimos}
-- no estamos \fillin{sobre} el texto, estamos \textbf{bajo él}
-- No corregimos el texto. Dejamos que el texto nos corrija a nosotros.
-
-## Principio clave
-
-Dios habló → el \fillin{texto} está construido → la estructura revela el propósito
-
-## Punto de partida
-
-Por eso, no comenzamos preguntando:
-
-“¿Qué significa?”
-
-Ni siquiera comenzamos con:
-
-“¿Qué \fillin{dice}?”
-
-Comenzamos con:
-
-\textbf{¿Cómo está construido?}
-
-Porque si Dios comunicó por \fillin{medio} de lenguaje, entonces el significado está en \textbf{cómo lo dijo}.
-
-# O₁ - OBSERVAR LA ESTRUCTURA (PASOS 1-13)
-
-\fillin{Antes} de entender el significado, debemos ver \textbf{cómo el autor organizó lo que dijo}.
-
-## El problema común
-
-La mayoría de los lectores:
-- leen el \fillin{texto}
-- entienden una idea general
-- sacan una conclusión
-
-Pero no \fillin{pueden} explicar:
-- cuál es la idea principal
-- qué partes la explican
-- \fillin{cómo} se conectan
-
-\headingfive{El problema no es falta de interés.}
-\headingsix{Es \fillin{falta} de \textbf{observación estructural}.}
-
-## Principio fundamental
-
-En este curso cambiamos el orden:
-Observación → Estructura → Propósito
-
-No comenzamos interpretando.
-Comenzamos \fillin{observando}.
-
-## Por qué esto importa
-
-Un texto \fillin{bíblico} no es una lista de ideas.
-
-Es un argumento construido.
-
-El autor:
-- \fillin{afirma}
-- explica
-- contrasta
-- \fillin{desarrolla}
-
-\headingfive{Si no vemos esa construcción:}
-\headingsix{perdemos el punto del autor.}
-
-## La realidad del texto
-
-Dentro de un párrafo \fillin{hay}:
-- acciones (verbos)
-- conexiones (conectores)
-- \fillin{unidades} de pensamiento (cláusulas)
-- detalles que amplían (extensiones)
-
-Todo esto \fillin{forma} una estructura.
-
-## Lo que aprenderás
-
-Vas a aprender a ver:
-- \fillin{dónde} están las afirmaciones
-- cómo se conectan
-- cuáles son principales
-- cuáles dependen de \fillin{otras}
-
-## El proceso de observación estructural
-
-![13-pasos](images/13-pasos.png)
-
-Este proceso es \fillin{fijo}.
-No cambia.
-No se \fillin{salta} pasos.
-
-## Qué NO haremos
-
-No vamos a:
-- interpretar \fillin{primero}
-- imponer \fillin{ideas}
-- depender de intuición
-
-## Qué SÍ haremos
-
-Vamos a:
-- observar el \fillin{texto} con precisión
-- \fillin{dejar} que la estructura se muestre
-- seguir un \fillin{proceso} claro
-
-## Observación clave
-
-El autor no \fillin{solo} comunica ideas.
-El \fillin{autor} construye.
-
-Y si vemos la construcción:
-veremos el \fillin{propósito}.
-
-## Transición
-
-En la siguiente \fillin{lección} comenzaremos con el primer paso:
-preparar correctamente el texto.
-
-Sin este \fillin{paso}, todo lo demás falla.
-
-# PASO 1 — COPIAR EL TEXTO
-## EJECUTA
-
-\headingfive{¿Qué haces?}
-\headingsix{\fillin{Copias} el texto en un solo párrafo y creas una copia de trabajo.}
-
-\headingfive{Regla}
-\headingsix{No modificas el \fillin{texto}}
-\headingsix{No separas en versículos}
-\headingsix{Siempre trabajas sobre una copia}
-
-\headingfive{Cómo hacerlo}
-
-1. Copia el texto en un editor
-
-2. Elimina \fillin{títulos} y encabezados
-
-3. Une los versículos en un solo párrafo
-
-4. Mantén el texto intacto (sin cambiar palabras)
-
-5. Crea una \fillin{copia} de trabajo del texto bíblico:
-- texto original
-- \fillin{texto} de trabajo
-
-\headingfive{Resultado esperado}
-
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
-
-## ENTIENDE
-
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás preparando el texto para \fillin{poder} observarlo sin distorsión.}
-
-\headingfive{Principio clave}
-\headingsix{El análisis solo es confiable si el \fillin{texto} se mantiene intacto.}
-
-\headingfive{Idea clave}
-\headingsix{No trabajas con versículos aislados.}
-\headingsix{Trabajas con una unidad completa de pensamiento.}
-
-\headingfive{Pregunta guía}
-\headingsix{👉 ¿Estoy \fillin{viendo} el texto como una unidad o como fragmentos?}
-
-\headingfive{Definición}
-\headingsix{Párrafo = unidad donde el autor desarrolla una idea completa.}
-
-\headingfive{Ejemplo \fillin{guiado}}
-
-\headingsix{Texto original:}
->«Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.»
-
-\headingfive{Resultado:}
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les di a beber leche, no alimento sólido, porque todavía no podían recibirlo. En verdad, ni aun ahora pueden.
-```
-
-\headingfive{Regla importante}
-\headingsix{Nunca trabajas directamente \fillin{sobre} el texto original.}
-
-\headingfive{Errores comunes}
-\headingsix{Modificar palabras sin \fillin{darse} cuenta }
-\headingsix{Trabajar sobre versículos separados}
-\headingsix{No crear copia de trabajo}
-
-\headingfive{Regla de control}
-\headingsix{Si cambiaste el \fillin{texto} original, perdiste el control del análisis.}
-
-\headingfive{Frase clave}
-\headingsix{“No modifico el texto — lo preparo para observarlo.”}
-
-\headingfive{Qué debes notar}
-\headingsix{Cuando el texto está bien preparado:}
-- \fillin{puedes} ver el flujo completo
-- no rompes conexiones
-- el análisis posterior se vuelve confiable
-
-\headingfive{Transición}
-
-\headingsix{En el siguiente paso:}
-- 👉 identificarás los \fillin{verbos} finitos
-
-- 👉 verás \fillin{dónde} están las afirmaciones del texto
-
-# PASO 2 — IDENTIFICAR LOS VERBOS FINITOS
-
-## EJECUTA
-
-\headingfive{¿Qué haces?}
-\headingsix{Identificas y \fillin{marcas} los \textbf{verbos finitos del texto}, confirmados por la morfología griega.}
-
-\headingfive{REGLA}
-\headingsix{Solo se marcan los \textbf{verbos conjugados en el texto griego}.}
-
-\headingfive{CÓMO HACERLO}
-
-1. Lee el texto preparado (Paso 1)
-
-2. Consulta el texto griego (o interlineal)
-
-3. Localiza los \fillin{verbos} en el griego
-
-4. Pregunta:
-- 👉 ¿Este verbo en griego tiene persona y número?
-
-## CÓMO SABER SI ES FINITO (EN EL GRIEGO)
-
-\headingsix{No decides por intuición.}
-
-\headingsix{Decides por la \textbf{morfología (RMAC)}.}
-
-\headingfive{FORMATO DEL VERBO EN GRIEGO}
-```
-V-XXXXX
-```
-
-\headingsix{Observa la \textbf{tercera posición del código}:}
-
-### ✔ VERBOS FINITOS (SE MARCAN)
+### Romanos 9:2
 \begin{verseblock}
-- V-?I- → Indicativo - V-?S- → Subjuntivo - V-?M- → Imperativo
+de que tengo gran tristeza y continuo dolor en mi corazón.
 \end{verseblock}
-👉 Estos \textbf{tienen persona y número}
+#### de que tengo gran tristeza y continuo dolor en mi corazón.
+\headingfive{Pablo declara una \fillin{carga} personal intensa.}
 
-👉 ✔ Se marcan:
-```
-==verbo==
-```
+\headingsix{El texto describe esa carga con \fillin{dos} expresiones:}
+- “gran tristeza”
+- “continuo dolor”
 
-### ❌ VERBOS NO FINITOS (NO SE MARCAN)
+\headingsix{La \fillin{tristeza} no aparece como algo momentáneo.}
+
+\headingsix{Pablo la presenta como una \fillin{realidad} permanente.}
+
+\headingsix{El dolor es descrito como \fillin{algo} interno:}
+> \scripture{en mi corazón}
+
+### Romanos 9:3
 \begin{verseblock}
-- V-P?? → Participio - V-N?? → Infinitivo
+Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
 \end{verseblock}
-👉 Estos \textbf{no tienen persona}
-👉 ❌ No se marcan
+#### Porque desearía yo mismo ser anatema,
+\headingfive{Pablo explica la razón de \fillin{la} tristeza mencionada en el versículo anterior.}
 
-### 🔒 REGLA MECÁNICA
+\headingsix{El deseo expresado aquí representa el punto más intenso de la \fillin{carga} descrita en 9:2.}
 
-\headingsix{Si ves:}
+\headingsix{El \fillin{texto} presenta un deseo llevado al extremo.}
+
+#### separado de Cristo por amor a mis hermanos,
+\headingfive{Pablo relaciona ese deseo con otras \fillin{personas}.}
+
+\headingsix{El foco no \fillin{está} en sí mismo.}
+
+\headingsix{El deseo es expresado en favor \fillin{de} sus hermanos.}
+
+#### mis parientes según la carne.
+\headingfive{El texto identifica \fillin{específicamente} a quiénes se refiere Pablo.}
+
+\headingsix{No habla de personas \fillin{en} general.}
+
+\headingsix{Habla de sus \fillin{parientes} según la carne.}
+
+\headingsix{\fillin{El} versículo siguiente identificará formalmente a este grupo como israelitas.}
+
+### Romanos 9:4
 \begin{verseblock}
-- I, S, M → ✔ finito - P, N → ❌ no finito
+Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
 \end{verseblock}
-- 👉 No interpretas.
-- 👉 Solo \textbf{lees el código}.
+#### Porque son israelitas,
+\headingfive{Pablo identifica explícitamente al grupo mencionado en los \fillin{versículos} anteriores.}
 
+\headingsix{En 9:3 habló \fillin{de}:}
+> \scripture{mis parientes según la carne}
 
-\headingfive{EJEMPLO RÁPIDO}
-```
-παιδεύουσα (V-PAP-NSF) → ❌ no finito
-ἀρνησάμενοι (V-AMP-NPM) → ❌ no finito
-ζήσωμεν (V-AAS-1P) → ✔ finito
-```
+\headingsix{Ahora los identifica \fillin{como}:}
+> \scripture{israelitas}
 
-\headingsix{Resultado:}
-```
-==vivamos==
-```
+#### a quienes pertenece la adopción como hijos,
+\headingfive{Pablo comienza un inventario de cosas asociadas \fillin{con} Israel.}
 
+\headingsix{La adopción aparece \fillin{como} el primer elemento de la lista.}
 
-\headingsix{Decide:}
-- Sí → márcalo en el texto en español
-- No → déjalo sin marcar
+#### y la gloria,
+\headingfive{La gloria aparece como una \fillin{pertenencia} adicional de Israel.}
 
-\headingsix{Marca así:}
-```
-==verbo==
-```
+\headingsix{\fillin{Pablo} continúa ampliando el inventario.}
 
-\headingfive{REGLA DE EJECUCIÓN (CRÍTICA)}
-\headingsix{El griego determina:}
-- qué cuenta como verbo
-- cuántos verbos hay
+#### los pactos,
+\headingfive{Los pactos forman parte \fillin{de} aquello que Pablo asocia con Israel.}
 
-\headingsix{El español solo muestra:}
-- la forma legible del verbo
+\headingsix{El texto continúa acumulando elementos \fillin{relacionados} con este pueblo.}
 
+#### la promulgación de la ley,
+\headingfive{Pablo incluye la \fillin{ley} dentro del inventario.}
 
-\headingfive{CÓMO ALINEAR}
-\headingsix{No buscas palabra por palabra.}
+\headingsix{\fillin{La} lista sigue creciendo.}
 
-\headingsix{Buscas la \fillin{expresión equivalente} en español.}
+#### el culto y las promesas,
+\headingfive{El culto y \fillin{las} promesas completan esta parte del inventario.}
 
-\headingsix{Ejemplo:}
+\headingsix{El énfasis no está todavía en explicar cada \fillin{elemento}.}
 
-####### Griego:
+\headingsix{El énfasis está en mostrar todo lo que \fillin{está} asociado con Israel.}
 
-```
-ἀντέστην
-```
+### Romanos 9:5
+\begin{verseblock}
+de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
+\end{verseblock}
+#### de quienes son los patriarcas,
+\headingfive{\fillin{Pablo} continúa el inventario iniciado en el versículo anterior.}
 
-\headingsix{Español:}
-```
-==me opuse==
-```
+\headingsix{Los patriarcas \fillin{son} presentados como parte de la herencia histórica de Israel.}
 
-\headingsix{Griego:}
-```
-συνεσταύρωμαι
-```
+#### y de quienes, según la carne,
+\headingfive{\fillin{La} expresión:}
+> “según la carne”
+\headingsix{conecta \fillin{con} el lenguaje utilizado anteriormente en 9:3.}
 
-\headingsix{Español:}
-```
-==he sido crucificado==
-```
+\headingsix{El texto continúa describiendo una relación \fillin{de} linaje y descendencia.}
 
-\headingfive{RESULTADO ESPERADO}
+#### procede el Cristo,
+\headingfive{El inventario alcanza su punto \fillin{más} alto.}
 
-```
-  Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo. Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo. En verdad, ni aun ahora ==pueden==.
-```
+\headingsix{Pablo afirma que el Cristo procede de Israel \fillin{según} la carne.}
 
-## ENTIENDE
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás identificando \textbf{los puntos de acción reales del texto original}.}
+\headingsix{El grupo descrito en \fillin{estos} versículos está directamente relacionado con la venida del Cristo.}
 
-\headingfive{PRINCIPIO CLAVE}
-\headingsix{Cada verbo finito griego introduce una \fillin{unidad de acción explícita}.}
+#### el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
+\headingfive{El versículo concluye \fillin{con} una declaración de exaltación y bendición.}
 
-\headingfive{IDEA CLAVE}
-\headingsix{No todo lo que parece verbo en español corresponde a un verbo finito en griego.}
+\headingsix{La atención se desplaza del inventario hacia la \fillin{grandeza} de Cristo.}
 
-\headingfive{PREGUNTA GUÍA}
-\headingsix{👉 ¿Este verbo es finito en el texto griego?}
+\headingsix{La sección termina con una expresión \fillin{de} alabanza:}
+> “Amén”.
 
-\headingfive{DEFINICIÓN}
-\headingsix{Verbo finito = verbo que tiene:}
-- persona
-- número
-- tiempo/modo
+> En Síntesis
+>- Los versículos identifican claramente a este grupo como los israelitas.
+>- Pablo recuerda todo lo que está asociado con Israel: la adopción, la gloria, los pactos, la ley, el culto, las promesas y el Cristo.
+>- La lista destaca la estrecha relación histórica entre Israel y el propósito de Dios.
+>- El siguiente versículo responderá esa pregunta directamente: «No es que la palabra de Dios haya fallado».
 
-\headingsix{y funciona como núcleo de una cláusula en el griego.}
+## Romanos 9:6–29 — Dios habla sobre Israel
 
-\headingfive{ACLARACIÓN IMPORTANTE}
-\headingsix{En español puede haber:}
-- más verbos que en el griego
-- menos verbos que en el griego
-- estructuras diferentes
+### Romanos 9:6
+\begin{verseblock}
+Pero no es que la palabra de Dios haya fallado. Porque no todos los descendientes de Israel son Israel;
+\end{verseblock}
+#### Pero no es que la palabra de Dios haya fallado.
+\headingfive{\fillin{Pablo} niega explícitamente una conclusión posible.}
 
-\headingfive{👉 Por eso:}
-\headingsix{El griego es la referencia final.}
+\headingsix{Después de mencionar a Israel, los pactos, las promesas, los patriarcas y \fillin{el} Cristo (9:4–5), responde a una pregunta fundamental:}
+> ¿Ha fallado la palabra de Dios?
 
-\headingfive{EJEMPLO GUIADO}
-\headingsix{Texto:}
+\headingsix{La respuesta es \fillin{clara}:}
+> «No es que la palabra de Dios haya fallado».
 
-```
-Así que yo, hermanos, no ==pude== hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
-Les ==di a beber== leche, no alimento sólido, porque todavía no ==podían== recibirlo.
-En verdad, ni aun ahora ==pueden==.
-```
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Esta declaración funciona como una \fillin{afirmación} central para toda la sección que sigue.}
 
-\headingfive{Observación:}
-- “hablar” → ❌ no es finito en griego
-- “recibir” → ❌ no es finito en griego
-- ==pude==, ==di a beber==, ==podían==, ==pueden== → ✔ corresponden a verbos finitos griegos
+\headingsix{Los capítulos 9–11 desarrollarán \fillin{y} defenderán esta afirmación.}
 
-\headingfive{REGLA IMPORTANTE}
-\headingsix{Las formas que no tienen persona en el griego:}
-👉 no crean nuevas cláusulas
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{A lo \fillin{largo} de Romanos 9, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios en las Escrituras.}
 
-\headingfive{Errores comunes}
-- Marcar verbos basados solo en el español
-- Seguir el interlineal sin verificar morfología
-- Contar participios como verbos principales
-- Separar un solo verbo griego en múltiples acciones
+\headingsix{Por \fillin{ejemplo}:}
 
-\headingfive{REGLA DE CONTROL}
-\headingsix{Si no es finito en griego, no se marca.}
+- 9:7 «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA»
+- 9:9 «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO»
+- 9:12 «EL MAYOR SERVIRÁ AL MENOR»
+- 9:13 «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ»
+- 9:15 «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA...»
+- 9:17 «PARA ESTO MISMO TE HE LEVANTADO...»
 
-\headingfive{FRASE CLAVE}
-> “El griego decide; el español muestra.”
+\headingsix{Más adelante también citará \fillin{palabras} relacionadas con Israel:}
 
-\headingfive{QUÉ DEBES NOTAR}
-\headingsix{Cuando marcas correctamente:}
-- aparecen las acciones reales del texto
-- el número de unidades se vuelve objetivo
-- evitas distorsión por traducción
+- 9:25 «LLAMARÉ PUEBLO MÍO AL QUE NO ERA MI PUEBLO...»
+- 9:26 «SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE»
+- 9:33 «HE AQUÍ, PONGO EN SIÓN PIEDRA DE TROPIEZO...»
 
-\headingfive{TRANSICIÓN}
-\headingsix{En el siguiente paso:}
-- 👉 separarás cada verbo en su propia línea
-- 👉 verás claramente las unidades de acción del texto
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Romanos 9 está dominado por palabras \fillin{previamente} pronunciadas por Dios.}
 
-# PASO 3 — CONSTRUIR CLÁUSULAS
+\headingsix{Pablo dirige repetidamente la atención a aquello que Dios dijo antes \fillin{de} que los acontecimientos ocurrieran.}
 
-## EJECUTA
+\headingsix{Luego observa el desarrollo \fillin{de} la historia.}
 
-\headingfive{¿Qué haces?}
-\headingsix{Construyes una \textbf{cláusula completa} a partir de cada verbo finito identificado en el Paso 2.}
+\headingsix{El argumento avanza mostrando que \fillin{la} palabra pronunciada por Dios permanece firme.}
 
----
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Esta \fillin{afirmación} inicial funcionará como una clave para leer los capítulos 9–11.}
 
-##### REGLA
-###### Cada verbo finito griego genera \textbf{una cláusula independiente}.
+\headingsix{Pablo no intentará demostrar que la palabra de Dios es \fillin{confiable} mediante argumentos abstractos.}
 
-###### ❗ No separas por comas  
-###### ❗ No separas por sentido  
-###### 👉 Solo trabajas a partir del verbo finito griego  
+\headingsix{Repetidamente apelará a palabras \fillin{pronunciadas} por Dios y al desarrollo posterior de la historia.}
 
----
+#### Porque no todos los descendientes de Israel son Israel;
+\headingfive{\fillin{Pablo} comienza a explicar por qué la palabra de Dios no ha fallado.}
 
-## REGLA CRÍTICA
+\headingsix{La explicación inicia \fillin{con} una distinción.}
 
-\headingsix{❗ Solo cuentan los verbos finitos confirmados en el griego}
+\headingsix{El texto \fillin{diferencia} entre:}
+- los descendientes de Israel
+- Israel
 
-👉 El español puede añadir verbos que no existen en el griego
-👉 Esos verbos \textbf{no se usan}
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El lector no puede asumir automáticamente que \fillin{ambas} expresiones significan exactamente lo mismo.}
 
----
+\headingsix{Pablo introduce una distinción que desarrollará en \fillin{los} versículos siguientes.}
 
-##### CONSECUENCIA
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La explicación de Pablo no \fillin{comienza} con la historia de las naciones.}
 
-###### ❗ Si no hay verbo finito griego:
+\headingsix{Comienza \fillin{con} una distinción dentro de Israel mismo.}
 
-- no hay cláusula  
-- no se construye línea  
+\headingsix{Los versículos siguientes \fillin{desarrollarán} esa distinción.}
 
----
+### Romanos 9:7
+\begin{verseblock}
+ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
+\end{verseblock}
+#### ni son todos hijos por ser descendientes de Abraham,
+\headingfive{Pablo continúa desarrollando la misma \fillin{distinción}.}
 
-\headingfive{EJEMPLO CLAVE}
+\headingsix{No toda descendencia de Abraham es identificada automáticamente como “\fillin{hijos}”.}
 
-Texto NBLA:
-```
-si la justicia viene por medio de la ley
-```
+\headingsix{El texto vuelve a diferenciar entre categorías que podrían parecer equivalentes a primera \fillin{vista}.}
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+\headingfive{La explicación \fillin{avanza} mediante una nueva distinción.}
+- descendencia de Abraham
+- hijos
 
-👉 No hay verbo finito en el griego
+#### sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
+\headingfive{Después de negar una conclusión, Pablo presenta una \fillin{evidencia} tomada de las Escrituras. }
 
-Resultado:
-```
-❌ ==viene== por medio de la ley
-```
+- Fué Dios mismo que afirmó a Abraham que por Isaac sería su descendencia. Génesis 21:12
 
-👉 No se construye como cláusula
+\headingsix{La cita \fillin{muestra} que la descendencia no es definida simplemente por procedencia física.}
 
----
+\headingsix{Pablo dirige la atención a Isaac como \fillin{ejemplo} dentro de su argumento.}
 
-## REGLA CLAVE
+\headingsix{A partir de este punto, Pablo comenzará \fillin{a} responder la pregunta de 9:6 apelando repetidamente a las Escrituras.}
 
-###### ❗ No eliminas el resto del texto
+\headingsix{La explicación avanza mediante citas y ejemplos tomados de \fillin{la} historia de Israel.}
 
-- conectores  
-- frases  
-- modificadores  
+### Romanos 9:8
+\begin{verseblock}
+Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes.
+\end{verseblock}
+#### Esto es, no son los hijos de la carne los que son hijos de Dios,
+\headingfive{Pablo explica con mayor claridad la \fillin{distinción} introducida en los versículos anteriores.}
 
-👉 No desaparecen  
-👉 Solo \textbf{no se trabajan todavía}
+\headingsix{\fillin{El} contraste ahora es explícito:}
+- hijos de la carne
+- hijos de Dios
 
----
+\headingfive{El texto niega que la \fillin{descendencia} física, por sí sola, responda a la pregunta planteada en esta sección.}
 
-## CÓMO HACERLO
+\headingsix{Pablo continúa desarrollando la \fillin{distinción} iniciada en 9:6–7.}
 
-1. Toma el texto con los verbos marcados (Paso 2)
+#### sino que los hijos de la promesa son considerados como descendientes.
+\headingfive{Pablo presenta la categoría que quiere \fillin{destacar}.}
 
-2. Localiza cada:
-```
-==verbo==
-```
+\headingsix{El contraste ya no gira alrededor \fillin{de} la carne, sino alrededor de la promesa.}
 
-3. Para cada verbo:
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El \fillin{texto} no dice simplemente:}
+> “los hijos de la promesa son descendientes”.
 
-- 👉 Identifica quién realiza la acción (sujeto, si es necesario)
-- 👉 Añade lo que completa la acción del verbo
-- 👉 Conserva todo lo que pertenece directamente al verbo
+\headingsix{\fillin{Dice}:}
+> “son considerados como descendientes”.
 
-4. Escribe cada cláusula en una línea separada
+\headingsix{Pablo introduce la idea de que la descendencia es definida de acuerdo con la \fillin{promesa} presentada por Dios.}
 
----
+### Romanos 9:9
+\begin{verseblock}
+Porque la palabra de promesa es esta: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO».
+\end{verseblock}
+#### Porque la palabra de promesa es esta:
+\headingfive{Pablo fundamenta la afirmación anterior mediante una cita de las \fillin{Escrituras}.}
 
-## RESULTADO
+\headingsix{La promesa deja de ser una \fillin{idea} general.}
 
-Cada línea debe contener:
+\headingsix{El texto \fillin{dirige} la atención a una promesa específica.}
 
-- un verbo finito griego  
-- su acción completa  
-- los elementos necesarios para entender esa acción  
+\headingsix{Pablo continúa respondiendo a la pregunta de 9:6 \fillin{apelando} a las palabras de Dios.}
 
-👉 No es una frase mínima  
-👉 Es una \textbf{acción completa}
+#### «POR ESTE TIEMPO VOLVERÉ,
+\headingfive{La \fillin{promesa} incluye un tiempo señalado.}
 
----
+\headingsix{El cumplimiento no \fillin{queda} indefinido.}
 
-## EJEMPLO
+\headingsix{Dios \fillin{anuncia} una acción futura en un momento determinado.}
 
-```
-==pude== hablarles como a espirituales sino como a carnales, como a niños en Cristo
+#### Y SARA TENDRÁ UN HIJO».
+\headingfive{La promesa culmina con el \fillin{nacimiento} de un hijo.}
 
-==di a beber== leche
+\headingsix{El ejemplo presentado por Pablo no gira alrededor de la \fillin{capacidad} humana.}
 
-==podían== recibirlo
+\headingsix{Gira alrededor \fillin{de} una promesa dada por Dios.}
 
-==pueden==
-```
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Pablo continúa mostrando que \fillin{la} descendencia relevante para su argumento está relacionada con la promesa de Dios.}
 
----
+\headingsix{La historia de Isaac \fillin{es} presentada como evidencia para apoyar la afirmación de 9:6.}
 
-## ACLARACIÓN SOBRE CONECTORES
+### Romanos 9:10
+\begin{verseblock}
+Y no solo esto, sino que también Rebeca concibió mellizos de uno, nuestro padre Isaac.
+\end{verseblock}
+#### Y no solo esto,
+\headingfive{Pablo añade un segundo \fillin{ejemplo}.}
 
-###### Los conectores no se trabajan en este paso
+\headingsix{\fillin{El} caso de Isaac no es presentado como un caso aislado.}
 
-👉 Porque no pertenecen a una sola cláusula  
-👉 Sino a la relación entre cláusulas  
+\headingsix{El argumento continúa con otro \fillin{ejemplo} tomado de la misma línea familiar.}
 
-👉 Se trabajarán en el Paso 4  
+#### sino que también Rebeca concibió mellizos de uno,
+\headingfive{El \fillin{texto} dirige ahora la atención a Rebeca.}
 
----
+\headingsix{Pablo destaca que ambos hijos proceden \fillin{del} mismo embarazo.}
 
-## ENTIENDE
+\headingsix{El énfasis recae sobre el origen común de \fillin{los} mellizos.}
 
-\headingfive{Qué estás haciendo realmente}
-\headingsix{Estás construyendo las \textbf{unidades reales de acción del texto},  }
-\headingsix{determinadas por el griego.}
+#### nuestro padre Isaac.
+\headingfive{Pablo \fillin{identifica} a Isaac como el padre de ambos hijos.}
 
----
+\headingsix{El ejemplo permanece dentro \fillin{de} la misma línea familiar introducida anteriormente.}
 
-##### PRINCIPIO CLAVE
-###### La cláusula se define por el \textbf{verbo finito griego},  
-###### no por la puntuación ni por el español.
+### Romanos 9:11
+\begin{verseblock}
+Porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni bueno ni malo, para que el propósito de Dios conforme a Su elección permaneciera, no por las obras, sino por Aquel que llama,
+\end{verseblock}
+#### Porque cuando aún los mellizos no habían nacido,
+\headingfive{\fillin{Pablo} dirige la atención al momento anterior al nacimiento.}
 
----
+\headingsix{El texto enfatiza que lo \fillin{que} sigue ocurre antes de que los niños nazcan.}
 
-\headingfive{IDEA CLAVE}
-\headingsix{No decides cómo suena mejor  }
-\headingsix{👉 El griego ya lo determina  }
+#### y no habían hecho nada, ni bueno ni malo,
+\headingfive{Pablo \fillin{añade} una segunda observación sobre ese momento.}
+\headingsix{Los mellizos aún no habían realizado \fillin{ninguna} acción.}
 
----
+\headingsix{\fillin{El} texto menciona ambos extremos:}
+- bueno
+- malo
 
-##### ACLARACIÓN IMPORTANTE
+\headingsix{El énfasis continúa colocado antes del nacimiento y \fillin{antes} de cualquier acción realizada por los mellizos.}
 
-###### Una cláusula puede incluir:
-- infinitivos  
-- participios  
-- frases largas  
+#### para que el propósito de Dios conforme a Su elección permaneciera,
+\headingfive{\fillin{Pablo} declara la finalidad de lo que acaba de describir.}
 
-👉 Pero solo tiene \textbf{un verbo finito griego}
+\headingsix{El foco del versículo se desplaza \fillin{hacia}:}
+> \scripture{el propósito de Dios}
 
----
+\headingsix{El texto afirma que \fillin{ese} propósito permanece.}
 
-\headingfive{EJEMPLO CLAVE}
-```
-==di a beber== leche
-```
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Esta es la primera vez \fillin{que} aparece la expresión:}
+> \scripture{el propósito de Dios conforme a Su elección}.
 
-- ==di a beber== → verbo finito ✔
-- “a beber” → infinitivo ❌
+\headingsix{Pablo la \fillin{desarrollará} en los versículos siguientes.}
 
-👉 Sigue siendo \textbf{una sola cláusula}
+#### no por las obras,
+\headingfive{Pablo niega una base \fillin{específica}.}
 
----
+\headingsix{Las obras son explícitamente excluidas de \fillin{la} explicación que está desarrollando.}
 
-##### ERROR COMÚN
+#### sino por Aquel que llama,
+\headingfive{Pablo presenta \fillin{el} contraste.}
 
-- Usar verbos añadidos por el español  
-- Construir cláusulas sin base griega  
-- Cortar por comas o pausas  
+\headingsix{El \fillin{énfasis} deja de estar en las obras.}
 
-👉 ❌ Incorrecto
+\headingsix{El énfasis pasa a Aquel \fillin{que} llama.}
 
-##### CORRECTO
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{A lo largo de Romanos 9, \fillin{Pablo} continúa desplazando la atención:}
+- de la carne a la promesa
+- de las obras al llamamiento
 
-- Solo usar verbos confirmados en el griego  
-- Construir una cláusula por verbo  
-- Ignorar añadidos del español  
+\headingsix{\fillin{El} argumento sigue avanzando mediante contrastes.}
 
-## REGLA DE CONTROL
+### Romanos 9:12
+\begin{verseblock}
+se le dijo a Rebeca: «EL MAYOR SERVIRÁ AL MENOR».
+\end{verseblock}
+#### se le dijo a Rebeca:
+\headingfive{\fillin{Pablo} continúa desarrollando el caso de Rebeca.}
 
-###### Si hay verbo finito griego → hay cláusula  
-###### Si no hay → no hay cláusula  
+\headingsix{La explicación no se apoya en acciones realizadas por \fillin{los} mellizos.}
 
-## FRASE CLAVE
-> “Una cláusula = un verbo finito griego con su acción completa.”
+\headingsix{\fillin{El} texto dirige la atención a algo que fue dicho a Rebeca.}
 
-## QUÉ DEBES NOTAR
+\headingsix{Después de hablar del propósito de Dios y de Aquel que llama (Romanos 9:11), Pablo introduce palabras dirigidas a \fillin{Rebeca}.}
 
-###### Cuando construyes correctamente:
+\headingsix{El argumento continúa \fillin{avanzando} mediante lo que Dios dijo.}
 
-- desaparecen cláusulas falsas  
-- el texto se limpia  
-- la estructura se vuelve objetiva  
+#### «EL MAYOR SERVIRÁ AL MENOR».
+\headingfive{\fillin{Pablo} cita palabras que fueron dichas a Rebeca antes del nacimiento de los niños.}
 
-## TRANSICIÓN
+\headingsix{Para entender \fillin{el} contexto de esta declaración, es necesario volver a Génesis 25:23:}
+> Y el SEÑOR le dijo: «Dos naciones hay en tu seno,
+>  Y dos pueblos se dividirán desde tus entrañas;
+>  Un pueblo será más fuerte que el otro,
+>  Y el mayor servirá al menor». Génesis 25:23
 
-###### En el siguiente paso:
+\headingsix{La \fillin{declaración} incluye:}
+- dos naciones
+- dos pueblos
+- un pueblo más fuerte que el otro
+- el mayor sirviendo al menor
 
-- 👉 volverás al texto completo  
-- 👉 identificarás los conectores en el griego  
-- 👉 comenzarás a ver relaciones reales  
+\headingsix{Pablo \fillin{cita} la última línea de una declaración que originalmente hablaba de:}
+- dos naciones
+- dos pueblos
 
-###### Primero construyes (según el griego)  
-###### 👉 luego conectas
+\headingsix{¿A \fillin{qué} pueblos se refiere? Génesis posteriormente los identifica: }
+- Jacob representa la nación de Israel. Génesis 32:28, 35:10
+- Esau representa la nación de Edom. Génesis 25:30, 36:1, 8, 19
 
-# PASO 4 — IDENTIFICAR CONECTORES
+\headingfive{Esto hace notar que la declaración dada \fillin{a} Rebeca en Génesis 25:23 habla de Israel y Edom, además de mencionar a los dos hijos.}
 
-## EJECUTA
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La declaración fue dada antes del \fillin{nacimiento} de los hijos.}
 
-##### ¿Qué haces?
-###### Identificas todos los \textbf{conectores del texto}, volviendo al texto original completo.
+\headingsix{Pablo sigue construyendo su argumento mediante lo \fillin{que} Dios dijo a Rebeca. }
 
-##### REGLA CLAVE
-###### ❗ Regresas al texto original (Paso 1)
+### Romanos 9:13
+\begin{verseblock}
+Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
+\end{verseblock}
+#### Tal como está escrito:
+\headingfive{Pablo ahora cita una declaración escrita mucho después del nacimiento \fillin{de} Jacob y Esaú.}
 
-👉 No trabajas con las cláusulas del Paso 3  
-👉 Trabajas con el texto completo otra vez  
+\headingsix{Romanos 9:12 cita lo que Dios dijo a Rebeca antes del nacimiento \fillin{de} los mellizos.}
 
-## QUÉ ES UN CONECTOR
+\headingsix{Romanos 9:13 cita Malaquías, siglos después, cuando Jacob \fillin{y} Esaú ya están vinculados con pueblos y naciones.}
 
-##### Definición
-###### Un conector es una palabra que puede \textbf{relacionar una cláusula con otra}.
+\headingsix{Génesis 25:23 ya había hablado de \scripture{dos \fillin{naciones}} y \scripture{dos pueblos}.}
 
-👉 No describe acción  
-👉 No añade contenido  
-👉 \textbf{Une estructuras}
+\headingsix{Malaquías 1:2–4 continúa ese mismo \fillin{marco} nacional: Jacob/Israel y Esaú/Edom.}
 
-## CÓMO IDENTIFICARLOS
+#### «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
+\headingfive{La cita presenta un contraste entre Jacob y \fillin{Esaú}.}
 
-1. Toma el texto original (sin modificar)
+\headingsix{Pero el contexto de Malaquías muestra \fillin{que} la declaración no aparece aislada.}
 
-2. Busca palabras como:
+\headingsix{Malaquías habla \fillin{de} Israel y Edom, no solamente de dos niños antes de nacer.}
 
-- y  
-- pero / sino  
-- porque / que  
-- para que  
-- si  
-- cuando  
+\headingsix{Malaquías 1:2–3 \fillin{dice}: «Yo los he amado», dice el SEÑOR. Pero ustedes dicen: «¿En qué nos has amado?». «¿No era Esaú hermano de Jacob?», declara el SEÑOR. «Sin embargo, Yo amé a Jacob, y aborrecí a Esaú...».}
 
-3. Márcalas así:
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Romanos 9:12 mira \fillin{hacia} Génesis 25:23.}
 
-```
-(porque)
-(y)
-(para que)
-```
+\headingsix{Romanos 9:13 \fillin{mira} hacia Malaquías 1:2–4.}
 
-## REGLA DE MARCADO
+\headingsix{Ambos textos mantienen juntos a Jacob/\fillin{Esaú} y a los pueblos relacionados con ellos.}
 
-###### Usa:
-- ( ) → cuando el conector está explícito en español  
-- [] → cuando está implícito pero existe en el griego  
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo no está sacando una frase \fillin{suelta}.}
 
-## CONFIRMACIÓN EN EL GRIEGO
+\headingsix{Está citando una línea que pertenece a una historia más \fillin{amplia}.}
 
-###### ❗ Todo conector debe confirmarse en el griego
+\headingsix{En Génesis 25:23, Dios habla de dos \fillin{naciones} y dos pueblos.}
 
-👉 El griego determina si el conector existe  
-👉 El español puede:
-- omitirlo  
-- cambiarlo  
-- suavizarlo  
+\headingsix{En Malaquías 1:2–4, \fillin{la} comparación aparece dentro de la relación entre Israel y Edom.}
 
-##### EJEMPLO
+\headingsix{Esto mantiene el \fillin{argumento} conectado con la pregunta de Romanos 9:6 acerca de Israel y la palabra de Dios.}
 
-Griego:
-```
-ἀλλʼ
-```
+### Romanos 9:14
+\begin{verseblock}
+¿Qué diremos entonces? ¿Qué hay injusticia en Dios? ¡De ningún modo!
+\end{verseblock}
+#### ¿Qué diremos entonces?
+\headingfive{Pablo \fillin{introduce} una objeción.}
 
-Español NBLA:
-```
-ni aun ahora pueden
-```
+\headingsix{La pregunta surge a partir de lo que acaba de afirmar \fillin{en} los versículos anteriores.}
 
-Resultado:
-```
-[pero] ni aun ahora pueden
-```
+\headingsix{El texto se \fillin{detiene} para considerar una posible reacción del lector.}
 
-👉 El conector no aparece en español  
-👉 [Pero] \textbf{sí existe en el griego}  
-👉 Por eso se marca
+#### ¿Qué hay injusticia en Dios?
+\headingfive{\fillin{La} objeción es expresada de manera directa.}
 
-## EJEMPLO COMPLETO
+\headingsix{La pregunta no gira alrededor de Isaac, Rebeca \fillin{o} Jacob.}
 
-Texto:
+\headingsix{La pregunta \fillin{gira} alrededor de Dios mismo.}
 
-```
-Así que yo, hermanos, no pude hablarles como a espirituales, 
-sino como a carnales, como a niños en Cristo.
+\headingsix{El tema planteado \fillin{es} la justicia de Dios.}
 
-Les di a beber leche, no alimento sólido,
+\headingsix{Pablo \fillin{no} evita la objeción.}
 
-porque todavía no podían recibirlo.
+\headingsix{El texto la presenta explícitamente \fillin{antes} de responderla.}
 
-ni aun ahora pueden
-```
+#### ¡De ningún modo!
+\headingfive{Pablo rechaza inmediatamente \fillin{la} objeción.}
 
-Resultado:
+\headingsix{La respuesta es \fillin{breve} y contundente.}
 
-```
-==pude=
+\headingsix{\fillin{El} texto no deja abierta la posibilidad de que exista injusticia en Dios.}
 
-[sino] como a carnales
+### Romanos 9:15
+\begin{verseblock}
+Porque Él dice a Moisés: «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA, Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
+\end{verseblock}
+#### Porque Él dice a Moisés:
+\headingfive{Pablo vuelve \fillin{a} responder mediante palabras pronunciadas por Dios.}
 
-(porque) todavía no podían recibirlo
+\headingsix{La respuesta continúa avanzando \fillin{por} medio de las Escrituras.}
 
-[pero] ni aun ahora pueden
-```
+\headingsix{Después de citar lo dicho a Rebeca (Romanos 9:12) y lo escrito en Malaquías (Romanos 9:13), Pablo ahora dirige la atención a una declaración dada a \fillin{Moisés}.}
 
-## IMPORTANTE
+\headingsix{\fillin{La} cita proviene de Éxodo 33:19.}
 
-###### ❗ En este paso NO decides si conectan o no
+\headingsix{Pablo sigue respondiendo a la afirmación de Romanos 9:6 apelando a \fillin{cosas} que Dios dijo en distintos momentos de la historia de Israel.}
 
-👉 Solo los identificas  
-👉 No evalúas relación todavía  
+#### «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA,
+\headingfive{Estas palabras fueron pronunciadas después del episodio \fillin{del} becerro de oro.}
 
-## ENTIENDE
+\headingsix{Israel ya había \fillin{salido} de Egipto.}
 
-##### Qué estás haciendo realmente
-###### Estás identificando \textbf{todas las posibles relaciones del texto}.
+\headingsix{Israel ya había quebrantado el pacto al hacerse \fillin{un} becerro de oro.}
 
-##### PRINCIPIO CLAVE
-###### Un conector no pertenece a una cláusula  
-###### 👉 Pertenece a la relación entre cláusulas  
+\headingsix{Moisés estaba intercediendo por el pueblo cuando Dios \fillin{pronunció} esta declaración.}
 
-##### IDEA CLAVE
-###### Primero ves TODOS los conectores  
-###### 👉 Luego decides cuáles realmente conectan  
+\headingsix{\fillin{La} cita no proviene de una situación hipotética, sino de un momento concreto de la historia de Israel.}
 
-##### ERROR COMÚN
-- Ignorar conectores que no aparecen en español  
-- No confirmar en el griego  
-- Decidir demasiado pronto si conectan  
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{Una} vez más, Pablo cita palabras pronunciadas por Dios antes de que la historia siguiera desarrollándose.}
 
-👉 ❌ Incorrecto
+\headingsix{Primero \fillin{Dios} habló.}
 
-##### CORRECTO
-- Marcar todos los posibles conectores  
-- Confirmarlos en el griego  
-- No tomar decisiones aún  
+\headingsix{Después la \fillin{historia} continuó.}
 
-## FRASE CLAVE
-> “Primero identifico todos los conectores.  
-> Después verifico cuáles realmente conectan.”
+#### Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
+\headingfive{La segunda línea completa \fillin{la} declaración dada por Dios a Moisés.}
 
-## QUÉ DEBES NOTAR
+\headingsix{Misericordia \fillin{y} compasión aparecen juntas como parte de una misma respuesta.}
 
-###### Cuando haces bien este paso:
-- aparecen relaciones que no se ven en español  
-- el texto se vuelve estructural  
-- preparas el análisis real de conexión  
+\headingsix{\fillin{Pablo} cita la declaración completa tal como aparece en las Escrituras.}
 
-## TRANSICIÓN
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Romanos 9 continúa acumulando testimonios provenientes de distintos \fillin{períodos} de la historia de Israel.}
 
-###### En el siguiente paso:
-- 👉 evaluarás cuáles conectores realmente unen cláusulas  
-- 👉 eliminarás los que no generan relación  
-- 👉 comenzarás a construir la estructura  
+\headingsix{\fillin{Dios} habló a Rebeca. (Génesis 25:19-23)}
 
-###### Aquí no decides  
-###### 👉 solo identificas
+\headingsix{Dios habló por \fillin{medio} de Malaquías. (Malaquías 1:2–4)}
 
-# PASO 5 — CONECTOR + B → BUSCAR A
+\headingsix{\fillin{Dios} habló a Moisés. (Éxodo 33:12-23)}
 
-## EJECUTA
+\headingsix{En cada caso, Pablo dirige \fillin{la} atención a palabras pronunciadas por Dios y al desarrollo posterior de la historia.}
 
-##### ¿Qué haces?
-###### Tomas las cláusulas del Paso 3, insertas en ellas los conectores del Paso 4 que introducen B, y verificas si cada conector realmente une esa cláusula con una A.
+\headingsix{El argumento sigue avanzando para \fillin{mostrar} que la palabra de Dios no ha fallado.}
 
-##### REGLA CLAVE
+### Romanos 9:16
+\begin{verseblock}
+Así que no depende del que quiere ni del que corre, sino de Dios que tiene misericordia.
+\end{verseblock}
+#### Así que no depende del que quiere
+\headingfive{Pablo presenta una conclusión \fillin{basada} en la declaración citada en el versículo anterior.}
 
-###### ❗ Todo comienza con las cláusulas del Paso 3
+\headingsix{El versículo conecta directamente con las palabras \fillin{que} Dios dijo a Moisés.}
 
-👉 Solo trabajas con cláusulas reales (verbos finitos griegos)  
-👉 No creas cláusulas nuevas  
-👉 No usas verbos añadidos por el español  
+\headingsix{El énfasis no recae sobre \fillin{el} deseo humano.}
 
-##### ESENCIA DEL PASO
+\headingsix{La atención permanece en lo que Dios \fillin{declaró}.}
 
-###### 1) Insertas el conector en su cláusula B  
-###### 2) Pruebas: conector + B → ¿hay A?
+\headingfive{Observación \fillin{importante}:}
+\headingsix{En las citas anteriores, Pablo ha mostrado declaraciones pronunciadas por Dios antes de que los \fillin{acontecimientos} ocurrieran.}
 
-## CÓMO HACERLO
+\headingsix{Después la historia avanzó, pero la palabra pronunciada por Dios \fillin{permaneció} firme.}
 
-1. Toma las cláusulas del Paso 3
+#### ni del que corre,
+\headingfive{\fillin{Pablo} añade una segunda negación.}
 
-2. Toma los conectores del Paso 4
+\headingsix{El énfasis tampoco recae \fillin{en} el esfuerzo humano.}
 
-3. Para cada conector:
-   a) Identifica la cláusula B (la que introduce el conector)  
-   b) Insértalo al inicio de esa cláusula  
-   c) Prueba:
+\headingsix{La explicación \fillin{no} es atribuida al deseo ni al esfuerzo.}
 
-   👉 \textbf{conector + B → ¿hay A?}
+\headingsix{Pablo continúa alejando la atención de las acciones humanas como base de \fillin{su} argumento.}
 
-4. Decide:
-- ✔ Sí hay A → el conector se conserva  
-- ❌ No hay A → el conector se elimina  
+#### sino de Dios que tiene misericordia.
+\headingfive{El contraste dirige \fillin{toda} la atención hacia Dios.}
 
-## FORMATO
-```
-(conector) cláusula B
-```
+\headingsix{Después de negar dos bases humanas, \fillin{Pablo} presenta una base positiva.}
 
-Luego:
-```
-(conector) + B → ¿A?
-```
+\headingsix{El énfasis recae en Dios y en Su \fillin{misericordia}.}
 
-## EJEMPLO
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La conclusión \fillin{retoma} directamente las palabras citadas en Romanos 9:15:}
+> «Tendré misericordia del que yo tenga misericordia».
 
-Cláusulas (Paso 3):
-```
-==pude==
+\headingsix{Pablo sigue respondiendo mediante declaraciones pronunciadas \fillin{por} Dios.}
 
-==di a beber== leche
+\headingsix{A lo largo del capítulo, el argumento continúa avanzando mediante palabras que \fillin{Dios} dijo y que permanecen firmes a través del desarrollo de la historia.}
 
-==podían== recibirlo
+### Romanos 9:17
+\begin{verseblock}
+Porque la Escritura dice a Faraón: «PARA ESTO MISMO TE HE LEVANTADO, PARA DEMOSTRAR MI PODER EN TI, Y PARA QUE MI NOMBRE SEA PROCLAMADO POR TODA LA TIERRA».
+\end{verseblock}
+#### Porque la Escritura dice a Faraón:
+\headingfive{Pablo introduce \fillin{otro} testimonio tomado de las Escrituras.}
 
-==pueden==
-```
+\headingsix{Después de citar palabras \fillin{dirigidas} a Rebeca y a Moisés, ahora dirige la atención a palabras dirigidas a Faraón.}
 
-Conectores (Paso 4):
-```
-(porque)
-[pero]
-```
+\headingsix{\fillin{La} cita proviene del relato del éxodo de Israel desde Egipto.}
 
-Paso 5:
-```
-==di a beber== leche
+\headingsix{Una vez más, el argumento \fillin{avanza} mediante algo que Dios dijo.}
 
-(porque) ==podían== recibirlo
+\headingsix{La Escritura es presentada hablando a Faraón porque la cita recoge palabras pronunciadas por \fillin{Dios}.}
 
-[pero] ==pueden==
-```
+#### «PARA ESTO MISMO TE HE LEVANTADO,
+\headingfive{\fillin{La} cita presenta una declaración hecha por Dios acerca de Faraón.}
 
-Prueba:
-```
-A <- (conector) -> B 
-(porque) + ==podían== recibirlo → ¿hay A?
-✔ Sí → ==di a beber== leche
+\headingsix{Dios habla antes de que la historia llegue \fillin{a} su desenlace.}
 
-[pero] + ==pueden== → ¿hay A?
-✔ Sí → ==podían== recibirlo
-```
+\headingsix{La atención se dirige al propósito expresado en la \fillin{declaración}.}
 
-Resultado:
-```
-==di a beber== leche
+\headingsix{Pablo continúa mostrando palabras pronunciadas \fillin{por} Dios dentro de la historia de Israel.}
 
-(porque) ==podían== recibirlo
+#### PARA DEMOSTRAR MI PODER EN TI,
+\headingfive{El primer propósito señalado en la cita es la manifestación del poder de \fillin{Dios}.}
 
-[pero] ==pueden==
-```
+\headingsix{El énfasis recae \fillin{en}:}
+> «mi poder»
 
-## EJEMPLO CLAVE (SIN B REAL)
+\headingsix{La atención permanece en \fillin{lo} que Dios declara acerca de lo que hará.}
 
-Texto NBLA:
-```
-porque la justicia viene por medio de la ley
-```
+#### Y PARA QUE MI NOMBRE SEA PROCLAMADO
+\headingfive{La \fillin{cita} añade un segundo propósito.}
 
-Griego:
-```
-εἰ γὰρ διὰ νόμου δικαιοσύνη
-```
+\headingsix{El énfasis se desplaza \fillin{hacia} el nombre de Dios.}
 
-👉 No hay verbo finito griego  
-👉 No hay cláusula en Paso 3  
+\headingsix{El propósito no termina \fillin{en} Faraón mismo.}
 
-Resultado:
-```
-❌ (porque) → no se inserta (no hay B)
-```
+\headingsix{La declaración mira más \fillin{allá} del acontecimiento inmediato.}
 
-👉 No hay B → no se busca A → no entra en la estructura  
+#### POR TODA LA TIERRA».
+\headingfive{El alcance \fillin{del} propósito se amplía.}
 
-## REGLA OPERATIVA
+\headingsix{La proclamación no queda limitada \fillin{a} Egipto.}
 
-###### ❗ El conector siempre entra por la cláusula B
+\headingsix{\fillin{La} declaración apunta a toda la tierra.}
 
-👉 Nunca se coloca en A  
-👉 Nunca queda suelto  
-👉 Nunca se evalúa sin B  
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo continúa respondiendo mediante palabras pronunciadas por \fillin{Dios}.}
 
-## CASOS DIFÍCILES
+\headingsix{Primero Dios \fillin{habló}.}
 
-##### Cuando el conector no está cerca
+\headingsix{Después \fillin{la} historia avanzó.}
 
-👉 No importa la distancia  
-👉 No importa la puntuación  
+\headingsix{El éxodo terminó mostrando el poder de Dios y \fillin{haciendo} conocido Su nombre.}
 
-###### Pregunta única:
-👉 ¿Qué cláusula del Paso 3 es B?
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Rebeca recibió una \fillin{declaración} antes del nacimiento de los hijos.}
+\headingsix{Moisés recibió una declaración durante la \fillin{crisis} del becerro de oro.}
+\headingsix{Faraón recibió una declaración antes del desenlace del \fillin{éxodo}.}
 
-Luego:
-👉 conector + B → ¿hay A?
+\headingsix{En cada caso, Pablo dirige la \fillin{atención} a palabras pronunciadas por Dios y al desarrollo posterior de la historia.}
 
-##### Cuando no es claro
+\headingsix{El argumento continúa avanzando para mostrar que \fillin{la} palabra de Dios no ha fallado.}
 
-👉 Igual haces la prueba  
+### Romanos 9:18
+\begin{verseblock}
+Así que Dios tiene misericordia del que quiere, y al que quiere endurece.
+\end{verseblock}
+#### Así que Dios tiene misericordia,
+\headingfive{\fillin{Pablo} presenta una conclusión.}
 
-❗ No decides por sentido  
-❗ No completas mentalmente  
+\headingsix{Después de citar palabras dirigidas a Rebeca, a Moisés y a Faraón, ahora resume \fillin{parte} de su argumento con sus propias palabras.}
 
-## IMPORTANTE
+\headingsix{El versículo recoge los ejemplos anteriores y extrae una conclusión de \fillin{ellos}.}
 
-###### ❗ Este paso filtra los conectores reales
+\headingsix{\fillin{La} misericordia continúa ocupando un lugar central en la discusión.}
 
-👉 Solo permanecen los que unen A–B  
-👉 Los demás se eliminan  
+\headingsix{La conclusión retoma directamente el \fillin{tema} introducido en Romanos 9:15–16:}
+> «Tendré misericordia...»
+> «Dios tiene misericordia...»
 
-## ENTIENDE
+\headingsix{Pablo pasa \fillin{de} la cita a la conclusión.}
 
-##### Qué estás haciendo realmente
-###### Estás conectando cláusulas reales y eliminando relaciones falsas.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{A lo largo de \fillin{esta} sección, Pablo ha dirigido repetidamente la atención a palabras pronunciadas por Dios.}
 
-##### PRINCIPIO CLAVE
-###### Un conector solo entra en la estructura si une B con una A real.
+\headingsix{Después observa cómo la historia se \fillin{desarrolla}.}
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+\headingsix{Ahora resume \fillin{lo} observado en una conclusión.}
 
-###### Preguntas:
-👉 “¿Conector + B encuentra A?”
+#### del que quiere y al que quiere endurece.
+\headingfive{La conclusión presenta dos acciones \fillin{contrastadas}.}
 
-##### ERROR COMÚN
+\headingsix{\fillin{El} texto afirma:}
+- Dios tiene misericordia
+- Dios endurece
 
-- No partir de las cláusulas del Paso 3  
-- Asignar conectores sin B  
-- No hacer la prueba A–B  
-- Conservar conectores por intuición  
+\headingsix{\fillin{Ambas} acciones aparecen juntas dentro de la misma conclusión.}
 
-👉 ❌ Incorrecto
+\headingsix{Pablo no está citando una nueva \fillin{declaración}.}
 
-##### CORRECTO
+\headingsix{Está resumiendo la evidencia presentada \fillin{hasta} este punto.}
 
-- Partes de las cláusulas  
-- Insertas conectores en B  
-- Pruebas B - A
-- Conservas o eliminas  
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La tensión del argumento \fillin{aumenta}.}
 
-## FRASE CLAVE
-> “Inserto el conector en B, y pregunto: ¿hay A?”
+\headingsix{Pablo ya no está simplemente \fillin{citando} lo que Dios dijo.}
 
-## QUÉ DEBES NOTAR
+\headingsix{Ahora está extrayendo una conclusión \fillin{de} los ejemplos que ha presentado.}
 
-###### Cuando haces bien este paso:
+\headingsix{Esta conclusión prepara directamente la objeción que aparecerá \fillin{en} el versículo siguiente.}
 
-- solo quedan relaciones reales  
-- desaparecen conexiones falsas  
-- el texto queda listo para estructura  
+### Romanos 9:19
+\begin{verseblock}
+Me dirás entonces: «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?».
+\end{verseblock}
+#### Me dirás entonces:
+\headingfive{Pablo introduce una nueva \fillin{objeción}.}
 
-## TRANSICIÓN
+\headingsix{\fillin{La} pregunta surge como reacción a lo que acaba de afirmar en el versículo anterior.}
 
-###### En el siguiente paso:
+\headingsix{El texto vuelve a \fillin{presentar} la voz de un interlocutor.}
 
-- 👉 usarás las conexiones A–B confirmadas  
-- 👉 organizarás las cláusulas  
-- 👉 verás la estructura del texto  
+\headingsix{Romanos 9 alterna \fillin{entre}:}
+- afirmación
+- objeción
+- respuesta
 
-###### Aquí conectas  
-###### 👉 luego estructuras
+\headingsix{La discusión continúa avanzando \fillin{mediante} ese patrón.}
 
-# PASO 6 — MOSTRAR LA ESTRUCTURA
+#### «¿Por qué, pues, todavía reprocha Dios?»
+\headingfive{La objeción se \fillin{formula} directamente.}
 
-## EJECUTA
+\headingsix{La pregunta ya no gira \fillin{alrededor} de Moisés o Faraón.}
 
-##### ¿Qué haces?
-###### Organizas las cláusulas según las relaciones A–B confirmadas en el Paso 5.
+\headingsix{Ahora \fillin{se} enfoca en el hecho de que Dios reprocha.}
 
-##### REGLA CLAVE
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo no \fillin{evita} la pregunta.}
+\headingsix{La presenta de manera abierta \fillin{antes} de responderla.}
 
-###### ❗ Solo trabajas con conexiones ya confirmadas
+#### «Porque ¿quién resiste a Su voluntad?».
+\headingfive{La objeción continúa \fillin{desarrollándose}.}
 
-👉 No pruebas relaciones  
-👉 No vuelves a buscar A  
-👉 No eliminas conectores  
+\headingsix{El interlocutor conecta \fillin{el} reproche de Dios con la voluntad de Dios.}
 
-👉 Todo eso ya ocurrió en el Paso 5  
+\headingsix{La pregunta plantea una tensión que exige \fillin{respuesta}.}
 
-##### REGLA FUNDAMENTAL
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{\fillin{El} nivel de la discusión ha cambiado.}
+\headingsix{\fillin{El} argumento ya no gira solamente alrededor de ejemplos tomados de la historia de Israel.}
 
-###### ❗ No explicas la relación
+\headingsix{Ahora la objeción se dirige directamente a la relación entre la voluntad de \fillin{Dios} y la responsabilidad humana.}
 
-👉 No nombras funciones  
-👉 No interpretas  
-👉 No reescribes el texto  
+\headingsix{Pablo responderá a esta objeción en los \fillin{versículos} siguientes.}
 
-👉 Solo haces visible la estructura  
+### Romanos 9:20
+\begin{verseblock}
+Al contrario, ¿quién eres tú, oh hombre, que le contestas a Dios? ¿Dirá acaso el objeto modelado al que lo modela: «¿Por qué me hiciste así?»?
+\end{verseblock}
+#### Al contrario,
+\headingfive{Pablo \fillin{responde} directamente a la objeción planteada en el versículo anterior.}
 
-## CÓMO HACERLO
+\headingsix{Romanos 9:19 \fillin{preguntó}:}
+> «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?»
 
-1. Toma las cláusulas del Paso 5
+\headingsix{Ahora Pablo comienza su \fillin{respuesta}.}
 
-2. Usa las relaciones ya resueltas:
-👉 (conector + B) → A
+#### ¿quién eres tú, oh hombre,
+\headingfive{Pablo dirige la atención hacia la persona que \fillin{formula} la objeción.}
 
-3. Organiza así:
-- Coloca A en la línea principal  
-- Coloca B debajo de A  
-- Indenta B  
-- Mantén el conector en B  
+\headingsix{El énfasis recae \fillin{sobre}:}
+> «oh hombre»
 
-## FORMATO
+\headingsix{\fillin{La} pregunta establece un contraste entre el ser humano y Dios.}
 
-```
-A
+#### que le contestas a Dios?
+\headingfive{Pablo identifica el \fillin{verdadero} destinatario de la objeción.}
 
-(conector) B
-```
+\headingsix{La discusión ya no gira solamente alrededor \fillin{de} Faraón, Moisés o Israel.}
 
-## EJEMPLO
+\headingsix{La pregunta es presentada como una respuesta dirigida a Dios \fillin{mismo}.}
 
-Paso 5:
+\headingfive{\fillin{Observación} importante:}
+\headingsix{A lo largo de Romanos 9, Pablo ha presentado repetidamente palabras pronunciadas \fillin{por} Dios.}
 
-```
-==di a beber== leche
+- Dios habla a Rebeca
+- Dios habla en Malaquías
+- Dios habla a Moisés
+- Dios habla a Faraón
 
-(porque) ==podían== recibirlo
+\headingsix{Ahora la objeción es presentada como \fillin{una} contestación a Dios.}
 
-[pero] ==pueden==
+#### ¿Dirá acaso el objeto modelado al que lo modela:
+\headingfive{\fillin{Pablo} introduce una ilustración.}
 
+\headingsix{La imagen \fillin{compara}:}
+- el que modela
+- lo que es modelado
 
-Paso 6:
+\headingsix{La ilustración preparará el desarrollo del \fillin{siguiente} versículo.}
 
+#### «¿Por qué me hiciste así?»?
+\headingfive{La pregunta expresa \fillin{el} contenido de la objeción.}
 
-==di== a beber leche
-		(porque) ==podían== recibirlo
-		[pero] ==pueden==
-```
+\headingsix{El objeto modelado \fillin{cuestiona} la acción de quien lo formó.}
 
-## REGLA OPERATIVA
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{\fillin{Pablo} no responde todavía desarrollando una explicación extensa.}
 
-###### ❗ La cláusula B siempre se coloca debajo de su A
-👉 Porque depende de ella  
-👉 Por eso se indenta  
+\headingsix{Primero introduce la ilustración del alfarero y el \fillin{barro}.}
 
-###### ❗ Cada cláusula aparece una sola vez
-👉 Si una cláusula es A de otra relación,
-👉 se usa en su misma posición (no se repite)
+\headingsix{El siguiente versículo continuará \fillin{desarrollando} esta imagen.}
 
-## IMPORTANTE
+### Romanos 9:21
+\begin{verseblock}
+¿O no tiene el alfarero derecho sobre el barro de hacer de la misma masa un vaso para uso honorable y otro para uso ordinario?
+\end{verseblock}
+#### ¿O no tiene el alfarero derecho sobre el barro
+\headingfive{\fillin{Pablo} responde mediante una ilustración.}
 
-###### ❗ No reorganizas por intuición
+\headingsix{La \fillin{imagen} presenta dos elementos:}
+- el alfarero
+- el barro
 
-👉 Solo reflejas las conexiones ya confirmadas  
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La \fillin{pregunta} está formulada para que la respuesta resulte evidente.}
+\headingsix{El alfarero \fillin{tiene} autoridad sobre el barro.}
 
-###### ❗ No agregas información
+\headingsix{Pablo continúa respondiendo a la objeción \fillin{planteada} en 9:19.}
 
-👉 No añades palabras  
-👉 No completas ideas  
-👉 No corriges el texto  
+\headingsix{La respuesta avanza mediante una ilustración sencilla antes de pasar nuevamente \fillin{a} Dios.}
 
-## ENTIENDE
+#### de hacer de la misma masa un vaso
+\headingfive{\fillin{Pablo} continúa desarrollando la ilustración.}
 
-##### Qué estás haciendo realmente
-###### Estás mostrando la \textbf{estructura real del texto}.
+\headingsix{La atención \fillin{se} dirige a una misma masa de barro.}
 
-##### PRINCIPIO CLAVE
-###### La estructura no se crea  
-###### 👉 se revela al ordenar A–B  
+\headingsix{El énfasis recae \fillin{sobre} el material compartido.}
 
-##### IDEA CLAVE
-###### No preguntas:
-👉 “¿Qué significa?”
+#### para uso honorable y otro para uso ordinario?
+\headingfive{La ilustración culmina con dos \fillin{vasos} diferentes.}
 
-###### Muestras:
-👉 “¿Qué depende de qué?”
+\headingsix{Ambos proceden de la \fillin{misma} masa.}
 
-##### ERROR COMÚN
+\headingsix{Sin embargo, son presentados \fillin{con} usos distintos.}
 
-- Volver a probar conexiones  
-- Buscar nuevas relaciones  
-- Explicar la relación  
-- Reescribir el texto  
-- Cambiar el orden  
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La ilustración \fillin{deja} abierta una pregunta.}
 
-👉 ❌ Incorrecto
+\headingsix{\fillin{Pablo} responderá mediante la expresión:}
+> “¿Y qué, si Dios...?”
 
-##### CORRECTO
+### Romanos 9:22
+\begin{verseblock}
+¿Y qué, si Dios, aunque dispuesto a demostrar Su ira y hacer notorio Su poder, soportó con mucha paciencia a los vasos de ira preparados para destrucción?
+\end{verseblock}
+#### ¿Y qué, si Dios,
+\headingfive{Pablo \fillin{comienza} la aplicación de la ilustración.}
 
-- Tomas las conexiones del Paso 5  
-- Colocas B debajo de A  
-- Indentas  
-- Mantienes el conector  
+\headingsix{La pregunta iniciada en el versículo anterior continúa \fillin{desarrollándose}.}
 
-## FRASE CLAVE
-> “No construyo la estructura.  
-> La muestro.”
+\headingsix{\fillin{El} pensamiento todavía no está completo.}
 
-## QUÉ DEBES NOTAR
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El versículo comienza con \fillin{una} pregunta.}
+\headingsix{La respuesta no llegará \fillin{hasta} que Pablo complete la idea.}
 
-###### Cuando lo haces bien:
+#### aunque dispuesto a demostrar Su ira y hacer notorio Su poder,
+\headingfive{Pablo menciona \fillin{dos} propósitos.}
 
-- las dependencias se ven claramente  
-- el texto se organiza sin esfuerzo  
-- la jerarquía aparece  
+\headingsix{El \fillin{texto} destaca:}
+- Su ira
+- Su poder
 
-## TRANSICIÓN
+\headingsix{Ambos aparecen como \fillin{parte} de la misma declaración.}
 
-###### En el siguiente paso:
+#### soportó con mucha paciencia
+\headingfive{El versículo añade \fillin{un} elemento inesperado.}
 
-- 👉 trabajarás dentro de cada cláusula  
-- 👉 reducirás su contenido  
-- 👉 prepararás el texto para identificar el tronco  
+\headingsix{Junto a la ira y al poder \fillin{aparece} la paciencia.}
 
-###### Aquí haces visible la estructura  
-###### 👉 luego trabajas dentro de ella
+\headingsix{El texto \fillin{afirma} que Dios soportó con mucha paciencia.}
 
-# PASO 7 — REDUCIR A LA CLÁUSULA BASE
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La paciencia \fillin{ocupa} un lugar central en la acción descrita.}
+\headingsix{El énfasis no recae únicamente en la \fillin{ira}.}
 
-## EJECUTA
+#### a los vasos de ira preparados para destrucción?
+\headingfive{Pablo identifica \fillin{a} quienes fueron soportados con paciencia.}
 
-##### ¿Qué haces?
-###### Reduces cada cláusula a su forma base,
-###### conservando la acción completa del verbo dentro de la estructura mostrada en el Paso 6.
+\headingsix{El texto \fillin{los} llama:}
+> “vasos de ira”
 
-##### REGLA CLAVE
-###### Reduces el contenido de cada cláusula,
-###### pero no alteras la estructura.
+\headingsix{Además los describe \fillin{como}:}
+> “preparados para destrucción”
 
-👉 No eliminas cláusulas  
-👉 No eliminas conectores  
-👉 No cambias la relación visual del Paso 6  
+\headingfive{Qué NO está \fillin{haciendo} el texto todavía:}
+\headingsix{Pablo aún no ha explicado \fillin{el} propósito completo de esta acción.}
 
-##### REGLA
-###### Mantienes en cada cláusula:
+\headingsix{La pregunta \fillin{iniciada} en 9:22 continúa abierta.}
 
-- el verbo finito
-- el sujeto (si es necesario)
-- los elementos que completan la acción del verbo
+\headingsix{\fillin{El} pensamiento seguirá desarrollándose en 9:23.}
 
-###### ❗ No reduces mecánicamente a sujeto–verbo–objeto
+### Romanos 9:23
+\begin{verseblock}
+Lo hizo para dar a conocer las riquezas de Su gloria sobre los vasos de misericordia, que de antemano Él preparó para gloria,
+\end{verseblock}
+#### Lo hizo para dar a conocer las riquezas de Su gloria
+\headingfive{Pablo completa el propósito \fillin{iniciado} en el versículo anterior.}
 
-###### Conservas todo lo necesario para que la acción quede completa.
-###### Eliminas solo lo que no afecta directamente esa acción.
+\headingsix{La pregunta \fillin{abierta} en 9:22 ahora recibe una respuesta.}
 
-##### ACLARACIÓN IMPORTANTE
-###### La reducción ocurre dentro de cada cláusula,
-###### no entre cláusulas.
+\headingsix{El énfasis se \fillin{dirige} hacia:}
+> “las riquezas de Su gloria”
 
-👉 No estás tocando la estructura  
-👉 Solo estás limpiando cada línea  
+\headingsix{El \fillin{pensamiento} iniciado con:}
+> “¿Y qué, si Dios...?”
 
-## CÓMO HACERLO
+\headingsix{continúa desarrollándose \fillin{y} alcanza aquí uno de sus propósitos declarados.}
 
-1. Toma el texto estructurado del Paso 6
+#### sobre los vasos de misericordia,
+\headingfive{\fillin{Pablo} introduce un segundo grupo.}
 
-2. Lee una cláusula
+\headingsix{\fillin{En} el versículo anterior aparecieron:}
+> “vasos de ira”
 
-3. Identifica su verbo finito
+\headingsix{\fillin{Ahora} aparecen:}
+> “vasos de misericordia”
 
-4. Conserva:
-- quién hace la acción, si es necesario
-- qué acción ocurre
-- qué completa esa acción
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El contraste entre ambos grupos forma \fillin{parte} del desarrollo del argumento.}
 
-5. Elimina dentro de la cláusula:
-- elementos secundarios
-- detalles que no cambian la acción
-- expansiones que no son necesarias para que la acción quede completa
+#### que de antemano Él preparó para gloria,
+\headingfive{Pablo añade una \fillin{descripción} de los vasos de misericordia.}
 
-6. Repite con cada cláusula
+\headingsix{El énfasis recae en dos \fillin{elementos}:}
+- Dios los preparó de antemano
+- para gloria
 
-##### RESULTADO ESPERADO
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El versículo todavía no identifica quiénes son estos vasos de \fillin{misericordia}.}
 
-###### Antes (Paso 6):
+\headingsix{Esa identificación llegará inmediatamente \fillin{después}.}
 
-```text
-no ==pude== hablarles como a espirituales
+### Romanos 9:24
+\begin{verseblock}
+es decir, nosotros, a quienes también llamó, no solo de entre los judíos, sino también de entre los gentiles.
+\end{verseblock}
+#### es decir, nosotros,
+\headingfive{\fillin{Pablo} identifica finalmente el grupo que viene describiendo.}
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+\headingsix{El argumento pasa de ilustraciones y categorías generales \fillin{a} un referente concreto:}
+> “nosotros”
 
-		[pero] ni aun ahora ==pueden==
-```
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Esta es una de las primeras veces en la sección donde Pablo \fillin{se} incluye explícitamente dentro del grupo descrito.}
 
-###### Después (Paso 7):
+#### a quienes también llamó,
+\headingfive{Pablo \fillin{añade} una característica adicional del grupo.}
 
-```text
-no ==pude== hablarles como a espirituales
+\headingsix{El tema del llamamiento \fillin{reaparece} dentro del argumento.}
 
-==di== a beber leche
-    (porque) no ==podían== recibirlo
+\headingsix{El grupo es \fillin{identificado} como aquellos a quienes Dios llamó.}
 
-		[pero] ==pueden==
-```
+\headingsix{\fillin{El} tema del llamamiento ya había aparecido anteriormente en la sección.}
 
-## ENTIENDE
+\headingsix{Pablo \fillin{vuelve} a retomarlo aquí.}
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible el núcleo verbal de cada cláusula,
-###### sin tocar la estructura que ya fue mostrada.
+#### no solo de entre los judíos,
+\headingfive{Pablo comienza a describir la \fillin{composición} del grupo.}
 
-##### PRINCIPIO CLAVE
-###### Cada cláusula tiene una base.
-###### Esa base conserva la acción completa del verbo.
+\headingsix{El \fillin{grupo} incluye judíos.}
 
-##### IDEA CLAVE
-###### No reduces la estructura.
-###### Reduces el contenido de cada cláusula.
+\headingsix{Pero \fillin{la} descripción no termina allí.}
 
-##### ACLARACIÓN
-###### Este paso no decide qué cláusulas permanecen y cuáles no.
+#### sino también de entre los gentiles.
+\headingfive{Pablo completa \fillin{la} descripción.}
 
-👉 Todas permanecen  
-👉 Solo quedan más limpias  
+\headingsix{El grupo \fillin{incluye}:}
+- judíos
+- gentiles
 
-##### EJEMPLO CLAVE
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El “nosotros” descrito \fillin{por} Pablo está compuesto por ambos grupos.}
 
-```text
-==di a beber== leche
-```
+\headingsix{Esta afirmación prepara las citas de Oseas e Isaías que seguirán inmediatamente \fillin{después}.}
 
-- ==di a beber== → verbo finito
-- “a beber leche” → completa la acción
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Después de identificar al grupo, Pablo volverá a apelar a las \fillin{Escrituras} para mostrar que esta realidad ya había sido anunciada.}
 
-👉 No se reduce a:
-```text
-==di==
-```
+### Romanos 9:25
+\begin{verseblock}
+Como también dice en Oseas: «A LOS QUE NO ERAN MI PUEBLO, LLAMARÉ: “PUEBLO MÍO”, Y A LA QUE NO ERA AMADA: “AMADA mía”.
+\end{verseblock}
+#### Como también dice en Oseas:
+\headingfive{\fillin{Pablo} vuelve a apoyar su argumento mediante las Escrituras.}
 
-👉 Porque la acción quedaría incompleta
+\headingsix{Después de hablar \fillin{de} judíos y gentiles (9:24), Pablo cita al profeta Oseas.}
 
-##### ERROR COMÚN
+\headingsix{Pablo continúa respondiendo \fillin{mediante} testimonios tomados de las Escrituras.}
 
-- Reducir demasiado
-- quitar partes que completan la acción
-- eliminar conectores
-- alterar la indentación o la relación visual del Paso 6
+\headingsix{El argumento sigue avanzando por medio \fillin{de} citas.}
 
-👉 ❌ Incorrecto
+#### «A LOS QUE NO ERAN MI PUEBLO,
+\headingfive{\fillin{La} cita comienza con una identidad negativa.}
 
-##### CORRECTO
+\headingsix{El grupo \fillin{descrito} es identificado como:}
+> “no eran mi pueblo”
 
-- conservar la acción completa
-- mantener todas las cláusulas
-- mantener los conectores
-- mantener la estructura
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo comienza la cita \fillin{con} una condición inicial.}
 
-## FRASE CLAVE
-> “Reduzco cada cláusula, pero no toco la estructura.”
+\headingsix{La \fillin{atención} se centra en aquello que este grupo no era.}
 
-## QUÉ DEBES NOTAR
+#### LLAMARÉ: “PUEBLO MÍO”,
+\headingfive{La cita presenta un \fillin{cambio} de identidad.}
 
-###### Cuando reduces bien:
+\headingsix{\fillin{El} contraste es directo:}
+- no eran mi pueblo
+- pueblo mío
 
-- cada línea se vuelve más clara
-- la acción queda visible
-- la estructura sigue intacta
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El verbo “llamaré” ocupa \fillin{un} lugar central en la cita.}
 
-##### REGLA DE CONTROL
-###### Si una acción queda incompleta, redujiste mal.
-###### Si desaparece una cláusula, redujiste mal.
-###### Si cambias la estructura, redujiste mal.
+\headingsix{\fillin{El} cambio es expresado mediante aquello que Dios dice.}
 
-## TRANSICIÓN
+#### Y A LA QUE NO ERA AMADA: “AMADA mía”.
+\headingfive{Pablo añade un segundo ejemplo \fillin{paralelo}.}
 
-###### En el siguiente paso:
+\headingsix{El mismo patrón \fillin{vuelve} a aparecer:}
+- no amada
+- amada
 
-- 👉 trabajarás con esta versión reducida
-- 👉 identificarás la línea principal del desarrollo
-- 👉 comenzarás a ver el tronco del texto 
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{\fillin{La} cita presenta un movimiento repetido:}
+- una condición inicial
+- una nueva identidad
 
-# PASO 8 — IDENTIFICAR EL TRONCO (REVISADO Y OBJETIVO)
+\headingsix{Pablo utiliza esta cita para apoyar \fillin{lo} que acaba de afirmar en 9:24.}
 
-## EJECUTA
+## Israel en la línea profética del Antiguo Testamento
 
-##### ¿Qué haces?
-###### Identificas el tronco del texto eliminando únicamente las cláusulas que dependen estructuralmente de otras.
+\headingfive{A lo largo de Romanos 9–11, Pablo sostiene repetidamente una afirmación central:}
+> «No es que la palabra de Dios haya fallado». Romanos 9:6
 
-###### Mantienes las cláusulas que no dependen de ninguna otra.
+\headingfive{Esa afirmación invita a observar la historia de Israel desde una perspectiva más amplia.}
 
-# REGLA CLAVE
+\headingsix{Si la palabra de Dios no ha fallado, resulta útil preguntarnos:}
+- ¿Qué dijeron los profetas acerca de Israel?
+- ¿Qué acontecimientos ya han ocurrido?
+- ¿Qué acontecimientos permanecen futuros?
 
-###### ❗ Solo puedes eliminar una cláusula si su dependencia es visible en la estructura
+\headingfive{Aunque los profetas presentan estos temas desde distintos ángulos, aparece repetidamente una secuencia general.}
 
-👉 No decides por sentido
-👉 No decides por importancia
-👉 No decides por “parece secundario”
+| Etapa | Desarrollo profético                       |
+| ----- | ------------------------------------------ |
+| 1     | Israel es dispersado entre las naciones    |
+| 2     | Israel es preservado durante la dispersión |
+| 3     | Israel es reunido desde las naciones       |
+| 4     | Israel es limpiado y transformado          |
+| 5     | El rey davídico es establecido             |
+| 6     | Israel es restaurado y habita seguro       |
+| 7     | Las naciones se reúnen contra Israel       |
+| 8     | El Señor interviene directamente           |
+| 9     | Las naciones son juzgadas                  |
+| 10    | El Señor reina sobre toda la tierra        |
+| 11    | Las naciones vienen a adorar               |
+| 12    | Ocurre la resurrección                     |
+| 13    | Nuevos cielos y nueva tierra               |
 
-👉 Decides solo por lo que el conector griego muestra
+#### Dispersión
 
-# REGLA CRÍTICA
+\headingfive{Los profetas anunciaron repetidamente que Israel sería dispersado entre las naciones.}
 
-###### ❗ Una cláusula se elimina solo si:
-- está introducida por un conector subordinante en el griego
-- está estructuralmente debajo de otra cláusula (Paso 6)
+\headingsix{Véase Deuteronomio 28:64–68; Deuteronomio 30:1–3; Jeremías 30:11; Ezequiel 36:19.}
 
-###### ❗ Si no puedes señalar el conector griego exacto, no puedes eliminarla
+#### Preservación
 
-# DEFINICIÓN OPERATIVA
+\headingfive{Los mismos profetas afirmaron que la dispersión no significaría la desaparición de Israel.}
 
-###### Una cláusula dependiente es aquella que:
-- comienza con un conector subordinante griego (ej. ὅτι, εἰ, ἵνα, γάρ)
-- fue colocada debajo de otra cláusula en el Paso 6
+\headingsix{Dios prometió preservar a la nación.}
 
-👉 Esa es la única base para eliminar
+\headingsix{Véase Jeremías 31:35–37.}
 
-# CÓMO HACERLO
+#### Reunión
 
-1. Toma el texto reducido y estructurado (Paso 7)
+\headingfive{Los profetas también anunciaron que Israel sería reunido nuevamente desde las naciones.}
 
-2. Revisa cada cláusula
+\headingsix{Véase Deuteronomio 30:3–5; Jeremías 31:8–10; Ezequiel 36:24; Ezequiel 37:21; Amós 9:14–15.}
 
-3. Identifica:
-👉 ¿Está esta cláusula debajo de otra?
- 👉 ¿Tiene un conector subordinante en el griego?
+#### ¿Dónde encaja Israel actualmente?
 
-4. Decide:
-- ✔ Sí → elimínala
-- ❌ No → mantenla
+\headingfive{Al observar la historia, varias etapas parecen haber ocurrido ya.}
 
-5. Repite hasta revisar todo el texto
+\headingsix{Israel fue dispersado entre las naciones.}
 
-# RESULTADO
+\headingsix{Israel fue preservado durante esa dispersión.}
 
-###### Antes (Paso 7):
+\headingsix{Israel ha sido reunido nuevamente en la tierra.}
 
-```
-no ==pude== hablarles
+\headingfive{Sin embargo, varias etapas descritas por los profetas todavía no parecen haberse cumplido plenamente.}
 
-yo ==di a beber==
-    (porque) no ==podían==
+\headingsix{Israel todavía no ha experimentado la transformación nacional descrita en Deuteronomio 30:6.}
 
-ni aun ahora ==pueden==
-```
+\headingsix{La restauración espiritual descrita en Jeremías 31:31–34 y Ezequiel 36:25–27 todavía espera cumplimiento nacional.}
 
-###### Después (Paso 8):
+\headingsix{El rey davídico prometido por los profetas todavía no reina sobre todas las naciones.}
 
-```
-no ==pude== hablarles
+\headingsix{Las naciones todavía no han venido universalmente a adorar al Señor.}
 
-yo ==di a beber==
+\headingsix{La resurrección descrita en Daniel 12 todavía no ha ocurrido.}
 
-```
+\headingsix{Los nuevos cielos y la nueva tierra todavía permanecen futuros.}
 
-# OBSERVACIÓN INTEGRADA
+\headingfive{Por esa razón, la historia profética de Israel no parece haber llegado todavía a su conclusión.}
 
-## 1. SUJETO
+\headingsix{Los profetas describen acontecimientos que continúan más allá de la situación presente.}
 
-###### Mientras identificas el tronco, marcas cambios de sujeto
-- Marca solo cuando el sujeto cambia
-- Debe ser visible en la cláusula
-- No explicas
-- No interpretas
+#### Relación con Romanos 9–11
 
-Formato:
+\headingfive{Esta observación ayuda a entender por qué Pablo puede hablar de Israel como parte de una historia que continúa desarrollándose.}
 
-```
-[S: sujeto anterior → sujeto nuevo]
-```
+\headingsix{La condición presente de Israel no obliga a concluir que la palabra de Dios haya fallado.}
 
-## 2. MOVIMIENTO [M] (OBJETIVO — BASADO EN GRIEGO)
+\headingsix{Pablo argumenta precisamente lo contrario.}
 
-##### DEFINICIÓN
-> \textbf{[M] marca un cambio de función estructural observable en la gramática griega.}
+\headingsix{La existencia misma de una historia todavía en desarrollo presupone que las promesas continúan vigentes.}
 
-# REGLA FUNDAMENTAL DE [M]
+\headingfive{Por eso Romanos 9–11 no presenta a Israel como una evidencia contra la fidelidad de Dios.}
 
-###### ❗ Solo marcas [M] cuando puedes demostrar un cambio en la forma gramatical del discurso
+\headingfive{Presenta a Israel como una demostración de que Dios continúa actuando conforme a lo que había dicho.}
 
-👉 No marcas por contenido
-👉 No marcas por sujeto
-👉 No marcas por contraste
-👉 No marcas por “suena diferente”
+> Dios habló.
+> La historia avanzó.
+> La palabra de Dios permaneció firme.
 
-# CRITERIOS OBJETIVOS PARA [M]
+#### Resumen visual
 
-## ✔ 1. CAMBIO DE MODO VERBAL (PRINCIPAL)
+> Dispersión
+> ↓
+> Preservación
+> ↓
+> Reunión
+> ↓
+> ¿Situación actual?
+> ↓
+> Transformación nacional
+> ↓
+> Rey davídico
+> ↓
+> Restauración completa
+> ↓
+> Conflicto de las naciones
+> ↓
 
-Marca [M] si hay un cambio como:
-- Indicativo → Imperativo
-- Indicativo → Exhortación (prohibición, mandato)
+> Intervención del Señor
+> ↓
+> Juicio
+> ↓
+> Reino universal
+> ↓
+> Adoración de las naciones
+> ↓
+> Resurrección
+> ↓
+> Nuevos cielos y nueva tierra
 
-Ejemplo:
+### Romanos 9:26
+\begin{verseblock}
+Y SUCEDERÁ QUE EN EL LUGAR DONDE SE LES DIJO: “USTEDES NO SON MI PUEBLO”, ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
+\end{verseblock}
+#### Y SUCEDERÁ QUE EN EL LUGAR
+\headingfive{Pablo continúa la \fillin{cita} de Oseas.}
 
-```
-==es== verdad
+\headingsix{La evidencia tomada del profeta \fillin{todavía} no ha terminado.}
 
-==hagan== esto [M]
-```
+\headingsix{El texto sigue desarrollando el mismo \fillin{tema}.}
 
-## ✔ 2. CONECTOR DE CONCLUSIÓN (CUANDO CAMBIA FUNCIÓN)
+#### DONDE SE LES DIJO:
+\headingfive{La \fillin{cita} recuerda una declaración anterior.}
 
-Ejemplo griego:
+\headingsix{Primero hubo una palabra \fillin{dirigida} a este grupo.}
 
-```
-- ὥστε (así que)
-```
+\headingsix{Esa palabra será \fillin{contrastada} con otra declaración posterior.}
 
-Marca [M] solo si:
-- introduce una conclusión independiente
-- cambia de explicación a acción o resolución
+#### “USTEDES NO SON MI PUEBLO”,
+\headingfive{La condición inicial es \fillin{repetida}.}
 
-## ✔ 3. CAMBIO DE FUNCIÓN DEL DISCURSO
+\headingsix{La cita vuelve a enfatizar la misma \fillin{identidad} negativa.}
 
-Marca [M] si puedes señalar:
-- explicación → mandato
-- desarrollo → conclusión
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo refuerza \fillin{el} patrón presentado en el versículo anterior.}
 
-👉 Este cambio debe ser visible en:
-- el verbo (modo)
-- o el conector griego
+\headingsix{Primero aparece \fillin{una} negación.}
 
-# LO QUE NO PRODUCE [M]
+#### ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
+\headingfive{La cita culmina \fillin{con} una nueva identidad.}
 
-###### ❗ Nunca marques [M] por:
-- cambio de sujeto
-- contraste (pero / ἀλλά / δέ)
-- nueva ilustración
-- repetición
-- progreso del argumento
+\headingsix{El \fillin{contraste} es completo:}
+- no son mi pueblo
+- hijos del Dios viviente
 
-👉 Todo esto ocurre dentro del mismo movimiento
+\headingsix{\fillin{El} énfasis recae nuevamente en ser llamados.}
 
-# PRUEBA MECÁNICA (OBLIGATORIA)
+\headingsix{La \fillin{cita} conecta naturalmente con Romanos 9:24:}
+> “a quienes llamó”
+> “serán llamados”
 
-Antes de marcar [M], debes poder responder:
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Después de identificar al grupo en 9:24, Pablo muestra que las Escrituras ya hablaban de una realidad como \fillin{esta}.}
 
-```
-1. ¿El verbo cambia de modo? → sí = posible [M]
+\headingsix{En el siguiente versículo cambiará \fillin{de} profeta.}
 
-2. ¿Hay conector de conclusión (ὥστε)? → sí = posible [M]
+\headingsix{\fillin{Oseas} dará paso a Isaías.}
 
-3. ¿Se puede demostrar cambio en función estructural?
-   → sí = [M]
+### Romanos 9:27
+\begin{verseblock}
+Isaías también exclama en cuanto a Israel: «AUNQUE EL NÚMERO DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR, solo EL REMANENTE SERÁ SALVO;
+\end{verseblock}
+#### Isaías también exclama en cuanto a Israel:
+\headingfive{Pablo introduce una nueva cita de \fillin{las} Escrituras.}
 
-Si no puedes señalar esto en el griego → NO marcas [M]
-```
+\headingsix{Después de citar a Oseas, ahora cita a \fillin{Isaías}.}
 
-# EJEMPLO
+\headingsix{El argumento \fillin{continúa} avanzando mediante testimonios tomados de las Escrituras.}
 
-```
-yo ==planté==
-Apolos ==regó==
-[pero] Dios ==dio== crecimiento   ← ❌ NO [M]
+\headingsix{El énfasis cambia de Oseas a Isaías, y de los \fillin{gentiles} a Israel.}
 
-[Así que] nadie ==se jacte==      ← ✔ [M]
-```
+#### «AUNQUE EL NÚMERO
+\headingfive{La cita comienza destacando la \fillin{gran} cantidad de personas.}
 
-# FORMATO FINAL
+\headingsix{El énfasis inicial recae sobre \fillin{el} número.}
 
-```
-[S: yo → Apolos]
-Apolos ==regó==
+#### DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR,
+\headingfive{Isaías utiliza una comparación para describir \fillin{una} multitud inmensa.}
 
-[S: Apolos → Dios]
-[pero] Dios ==dio== crecimiento
+\headingsix{La imagen enfatiza una cantidad \fillin{innumerable}.}
 
-[S: Dios → nadie]
-[Así que] nadie ==se jacte==   [M]
-```
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La atención \fillin{se} dirige primero a la magnitud del pueblo.}
 
-# REGLA DE CONTROL
+\headingsix{Sin embargo, \fillin{la} cita todavía no ha llegado a su conclusión.}
 
-###### ❗ Si no puedes señalar el cambio en la gramática griega:
-👉 NO puedes marcar [M]
+#### solo EL REMANENTE SERÁ SALVO;
+\headingfive{La \fillin{cita} introduce un contraste inesperado.}
 
-# ENTIENDE
+\headingsix{Después de hablar de \fillin{una} multitud innumerable, Isaías dirige la atención hacia:}
+> “el remanente”
 
-##### Qué estás haciendo realmente
-###### Estás dejando visible la línea principal del texto y sus cambios estructurales reales.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La \fillin{cita} distingue entre:}
+- los hijos de Israel
+- el remanente
 
-# PRINCIPIO CLAVE
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Esta distinción encaja con el argumento que \fillin{Pablo} viene desarrollando desde Romanos 9:6.}
 
-###### El tronco contiene solo cláusulas independientes.
+\headingsix{La cita \fillin{de} Isaías aporta una nueva evidencia para ese argumento.}
 
-###### 👉 [M] marca solo cambios estructurales verificables en el griego.
+### Romanos 9:28
+\begin{verseblock}
+PORQUE EL SEÑOR EJECUTARÁ SU PALABRA SOBRE LA TIERRA CABALMENTE Y CON BREVEDAD».
+\end{verseblock}
+#### PORQUE EL SEÑOR EJECUTARÁ SU PALABRA
+\headingfive{\fillin{Isaías} añade la razón de la declaración anterior.}
 
-# IDEA CLAVE
+\headingsix{El \fillin{versículo} comienza con:}
+> “Porque...”
 
-###### No decides qué es importante
+\headingsix{La afirmación \fillin{sobre} el remanente es seguida por una explicación.}
 
-###### 👉 solo eliminas dependencia
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El énfasis recae sobre la palabra del \fillin{Señor}.}
 
-###### 👉 solo marcas cambios demostrables
+\headingsix{El Señor \fillin{hará} aquello que ha dicho.}
 
-# ERROR COMÚN
-- Marcar [M] por impresión
-- Usar sujeto como criterio
-- Usar contraste como criterio
-- Marcar demasiados [M]
+#### SOBRE LA TIERRA
+\headingfive{\fillin{La} acción descrita es presentada dentro de la historia humana.}
 
-👉 ❌ Incorrecto
+\headingsix{El cumplimiento no permanece como \fillin{una} idea abstracta.}
 
-# CORRECTO
+\headingsix{La cita habla de algo que ocurre sobre la \fillin{tierra}.}
 
-- Eliminas solo por dependencia estructural
-- Mantienes cláusulas independientes
-- Marcas [M] solo con evidencia griega
+#### CABALMENTE Y CON BREVEDAD».
+\headingfive{Isaías describe la \fillin{manera} en que el Señor ejecutará Su palabra.}
 
-# FRASE CLAVE
-> “Elimino lo dependiente.
->  Marco solo lo que el griego demuestra.”
+\headingsix{La acción será llevada a cabo \fillin{plenamente}.}
 
-# QUÉ DEBES NOTAR
+\headingsix{La \fillin{acción} será llevada a cabo con brevedad.}
 
-###### Cuando haces bien este paso:
-- el texto se reduce al desarrollo principal
-- desaparece lo subordinado
-- los cambios reales se vuelven visibles
-- [M] aparece raramente
+\headingsix{La cita \fillin{no} solo afirma que el Señor actuará.}
 
-# TRANSICIÓN
+\headingsix{También enfatiza que cumplirá completamente Su \fillin{palabra}.}
 
-###### En el siguiente paso:
-- 👉 trabajarás con cada cláusula del tronco
-- 👉 identificarás su comportamiento
-- 👉 verás cómo avanza el texto
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Después de hablar del remanente, \fillin{Isaías} dirige la atención a la certeza del cumplimiento de la palabra del Señor.}
 
-###### Aquí defines el tronco
+\headingsix{\fillin{El} siguiente versículo añadirá una segunda cita de Isaías para reforzar el mismo argumento.}
 
-###### 👉 luego observas su comportamiento
+### Romanos 9:29
+\begin{verseblock}
+Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO DESCENDENCIA, HUBIÉRAMOS LLEGADO A SER COMO SODOMA, Y HECHOS SEMEJANTES A GOMORRA».
+\end{verseblock}
+#### Y como Isaías predijo:
+\headingfive{Pablo añade una \fillin{segunda} cita de Isaías.}
 
-# PASO 9 — MARCAR EL COMPORTAMIENTO
+\headingsix{La cita \fillin{anterior} habló del remanente.}
 
-## EJECUTA
+\headingsix{Esta nueva \fillin{cita} explica por qué existe un remanente.}
 
-##### ¿Qué haces?
-###### Nombras qué hace \textbf{cada cláusula}.
+\headingsix{Pablo continúa apoyando su argumento \fillin{mediante} las Escrituras.}
 
-###### Trabajas con:
-- el tronco (Paso 8)
-- las cláusulas ya estructuradas
+\headingsix{Isaías \fillin{sigue} siendo el testigo principal en esta sección.}
 
-##### REGLA CLAVE
-###### ❗ Toda cláusula recibe una etiqueta
-👉 No depende de [M]
+#### «SI EL SEÑOR DE LOS EJÉRCITOS
+\headingfive{La \fillin{cita} comienza con una condición.}
 
-##### REGLA FUNDAMENTAL
-###### ❗ No detectas el cambio
-👉 La estructura ya fue determinada en pasos anteriores  
-👉 Aquí no decides dónde cambia  
+\headingsix{Todo lo que sigue depende de \fillin{la} acción del Señor.}
 
-👉 Solo nombras lo que cada cláusula hace  
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El énfasis recae en lo que \fillin{el} Señor hizo.}
 
-##### REGLA CRÍTICA
+\headingsix{\fillin{La} explicación no comienza con el pueblo.}
 
-###### ❗ El orden es fijo:
+\headingsix{Comienza \fillin{con} el Señor.}
 
-```
-[S] (si existe)
-::ETIQUETA::
-cláusula [M] (si existe)
-```
+#### NO NOS HUBIERA DEJADO DESCENDENCIA,
+\headingfive{Isaías identifica aquello que evitó un \fillin{resultado} diferente.}
 
-##### ❗ ACLARACIÓN
-- [S] va \textbf{arriba de la cláusula}  
-- ::ETIQUETA:: va \textbf{antes de la cláusula}  
-- [M] va \textbf{al final de la cláusula}  
+\headingsix{El texto afirma \fillin{que} el Señor dejó descendencia.}
 
-## CÓMO HACERLO
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La existencia de una descendencia es presentada como la razón \fillin{por} la cual el resultado no fue total destrucción.}
 
-1. Toma una cláusula  
+\headingsix{Esto complementa \fillin{la} idea del remanente presentada en el versículo anterior.}
 
-2. Observa su relación con la anterior  
+#### HUBIÉRAMOS LLEGADO A SER COMO SODOMA,
+\headingfive{Isaías presenta \fillin{un} resultado hipotético.}
 
-3. Nombra qué hace  
+\headingsix{Si \fillin{el} Señor no hubiera dejado descendencia, el resultado habría sido diferente.}
 
-## ETIQUETAS PERMITIDAS (FIJAS)
+\headingsix{Sodoma es utilizada como ejemplo \fillin{de} ese resultado.}
 
-##### EXPONE • RAZÓN • CONTRASTE • RESULTADO
+#### Y HECHOS SEMEJANTES A GOMORRA».
+\headingfive{La \fillin{comparación} es reforzada con un segundo ejemplo.}
 
-## DEFINICIÓN OPERATIVA
+\headingsix{La cita \fillin{presenta}:}
+- Sodoma
+- Gomorra
 
-###### La etiqueta describe qué hace la cláusula respecto a la anterior
-👉 No explica contenido  
-👉 No añade ideas  
-👉 No interpreta  
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Ambos ejemplos apuntan \fillin{a} la misma conclusión.}
 
-## RESULTADO ESPERADO
+\headingsix{\fillin{Sin} la descendencia dejada por el Señor, el resultado habría sido destrucción total.}
 
-```
-::EXPONE::
-yo ==pude== hablarles
+\headingsix{La cita \fillin{concluye} reforzando la explicación del remanente.}
 
-::EXPONE::
-yo ==di== a beber leche
+\headingsix{Primero \fillin{Isaías} afirmó:}
+> “solo el remanente será salvo”
 
-[S: yo → ellos]
-::RAZÓN::
-no ==podían== recibirlo
+\headingsix{Ahora \fillin{explica} por qué existe ese remanente.}
 
-::EXPONE::
-ni aun ahora ==pueden==
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Con \fillin{esta} cita termina la cadena de evidencias tomadas de Oseas e Isaías.}
 
-## EJEMPLO CON [M]
+\headingsix{En el siguiente versículo Pablo \fillin{volverá} a preguntar:}
+> “¿Qué diremos entonces?”
 
-::AFIRMACIÓN::
-no ==hago== nula la gracia [M]
-```
+\headingsix{El argumento avanzará hacia la relación entre Israel, los gentiles y \fillin{la} justicia.}
 
-## IMPORTANTE
+> En Síntesis
+>- Pablo responde a la pregunta que domina esta sección: «¿Ha fallado la palabra de Dios?»
+>- Su respuesta es clara: «No es que la palabra de Dios haya fallado».
+>- Para demostrarlo, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios mucho antes de que los acontecimientos ocurrieran.
+>- La historia avanza, las generaciones pasan y las circunstancias cambian, pero la palabra pronunciada por Dios permanece firme.
+>- A lo largo de la sección, Pablo desarrolla distinciones dentro de Israel, apela a la promesa, al llamamiento y al remanente, y responde a diversas objeciones.
+>- El resultado es el mismo una y otra vez: La situación de Israel no demuestra que la palabra de Dios haya fallado; confirma que Dios continúa actuando conforme a lo que había dicho.
 
-###### ❗ El conector ya determinó la relación
-👉 Aquí no decides  
-👉 Solo nombras  
+<!-- @quiz quiz-1 -->
 
-##### ❗ [M] ES RESTRINGIDO
-###### Solo aparece si es seguro
-👉 Si no puedes demostrarlo → no lo marcas  
+## Romanos 9:30–10:21 — Pablo da testimonio sobre Israel
 
-## ERRORES COMUNES
+### Romanos 9:30
+\begin{verseblock}
+¿Qué diremos entonces? Que los gentiles, que no iban tras la justicia, alcanzaron justicia, es decir, la justicia que es por fe;
+\end{verseblock}
+#### ¿Qué diremos entonces?
+\headingfive{Pablo \fillin{introduce} una conclusión.}
 
-##### ❌ Poner [S] en línea con la cláusula  
-##### ❌ Poner la etiqueta después  
-##### ❌ Poner [M] antes  
-##### ❌ Etiquetar solo donde hay [M]  
-##### ❌ Interpretar el texto  
+\headingsix{Después \fillin{de} las citas de Oseas e Isaías, el argumento avanza hacia una conclusión.}
 
-## FRASE CLAVE
-> “No explico el texto.  
-> 👉 Nombró lo que hace cada cláusula.”
+\headingsix{La pregunta \fillin{no} queda abierta.}
 
-## ENTIENDE
+\headingsix{Pablo \fillin{la} responde inmediatamente.}
 
-##### Qué estás haciendo realmente
-###### Estás haciendo visible el comportamiento de cada cláusula.
+#### Que los gentiles, que no iban tras la justicia,
+\headingfive{Pablo \fillin{comienza} con los gentiles.}
 
-##### PRINCIPIO CLAVE
-###### Toda cláusula actúa  
+\headingsix{El punto de partida \fillin{es} sorprendente.}
 
-###### 👉 Tu trabajo es identificar cómo  
+\headingsix{Los gentiles son descritos como personas \fillin{que} no iban tras la justicia.}
 
-## QUÉ DEBES NOTAR
+#### alcanzaron justicia,
+\headingfive{Pablo presenta el \fillin{resultado}.}
 
-###### Ahora el texto muestra:
-- qué hace cada cláusula  
-- dónde cambia el sujeto ([S])  
-- dónde hay cambio estructural ([M], si existe)  
+\headingsix{\fillin{Aunque} no iban tras la justicia, la alcanzaron.}
 
-👉 Tres capas distintas  
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El contraste entre punto de partida y resultado es central para la \fillin{afirmación} de Pablo.}
 
-## TRANSICIÓN
+#### es decir, la justicia que es por fe;
+\headingfive{Pablo \fillin{aclara} qué clase de justicia tiene en mente.}
 
-###### En el siguiente paso:
-👉 ignorarás el contenido  
-👉 leerás solo las etiquetas  
-👉 observarás repetición  
+\headingsix{No deja el \fillin{término} sin explicación.}
 
-###### Aquí nombras  
-###### 👉 luego agrupas
+\headingsix{La \fillin{identifica} como:}
+> “la justicia que es por fe”
 
-# PASO 10 — DELIMITAR SECCIONES CONTINUAS
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El tema de \fillin{la} fe vuelve a ocupar el centro del argumento.}
 
-## EJECUTA
+\headingsix{El contraste \fillin{con} Israel aparecerá inmediatamente después.}
 
-##### ¿Qué haces?
-###### Delimitar dónde el texto continúa  
+### Romanos 9:31
+\begin{verseblock}
+pero Israel, que iba tras una ley de justicia, no alcanzó esa ley.
+\end{verseblock}
+#### pero Israel, que iba tras una ley de justicia,
+\headingfive{\fillin{Pablo} presenta el contraste.}
 
-###### y dónde comienza una nueva sección.
+\headingsix{Después de hablar \fillin{de} los gentiles, dirige la atención a Israel.}
 
-###### Trabajas con:
-- el texto estructurado (Paso 8)  
-- las marcas [M]  
+\headingfive{Observación \fillin{importante}:}
+\headingsix{A diferencia de los gentiles, Israel sí \fillin{iba} tras una ley de justicia.}
 
-##### REGLA FUNDAMENTAL
+#### no alcanzó esa ley.
+\headingfive{\fillin{Pablo} presenta el resultado.}
 
-###### ❗ No buscas patrones
+\headingsix{El resultado contrasta con \fillin{la} búsqueda.}
 
-👉 No agrupas por ideas  
-👉 No divides por sentido  
-👉 No usas etiquetas  
-👉 No usas sujeto  
+\headingsix{Israel perseguía esa meta, pero no la \fillin{alcanzó}.}
 
-👉 Solo observas continuidad y ruptura  
+\headingsix{Los dos versículos \fillin{forman} un contraste paralelo:}
+- los gentiles no iban tras la justicia y la alcanzaron
+- Israel iba tras una ley de justicia y no la alcanzó
 
-##### REGLA CLAVE
-###### ❗ Una nueva sección comienza solo cuando hay ruptura estructural
+\headingsix{Pablo responderá \fillin{inmediatamente} la pregunta:}
+> “¿Por qué?”
 
-👉 Y la única ruptura válida es [M]  
+### Romanos 9:32
+\begin{verseblock}
+¿Por qué? Porque no iban tras ella por fe, sino como por obras. Tropezaron en la piedra de tropiezo,
+\end{verseblock}
+#### ¿Por qué?
+\headingfive{\fillin{Pablo} formula la pregunta que surge naturalmente del contraste anterior.}
 
-## CÓMO HACERLO
+\headingsix{\fillin{El} texto no deja la diferencia sin explicación.}
 
-### 1. Lee el texto línea por línea
-👉 Trabajas sobre el tronco (Paso 8)
+\headingsix{\fillin{Pablo} mismo plantea la pregunta.}
 
+#### Porque no iban tras ella por fe,
+\headingfive{Pablo presenta la \fillin{razón}.}
 
-### 2. Identifica [M]
-👉 Cada vez que aparece [M]:
-- ahí ocurre una ruptura  
-- ahí comienza una nueva sección  
+\headingsix{\fillin{La} explicación comienza con la fe.}
 
-### 3. Agrupa las líneas
-👉 Todas las líneas sin [M] pertenecen a la misma sección  
+\headingsix{El \fillin{problema} no es descrito como falta de búsqueda.}
 
-👉 La línea con [M]:
-- marca el cambio  
-- inicia una nueva sección  
+\headingsix{El problema es descrito \fillin{en} términos de fe.}
 
-### 4. Continúa hasta el siguiente [M]
-👉 Repite el mismo proceso  
+#### sino como por obras.
+\headingfive{Pablo presenta \fillin{el} contraste.}
 
-## RESULTADO ESPERADO
+\headingsix{La explicación se desarrolla \fillin{mediante} dos caminos opuestos:}
+- por fe
+- como por obras
 
-```
-[ SECCIÓN 1 ]
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El énfasis \fillin{recae} en la manera de buscar, no en la intensidad de la búsqueda.}
 
-::EXPONE::
-yo ==he sido crucificado==
+#### Tropezaron en la piedra de tropiezo,
+\headingfive{Pablo describe el resultado mediante una \fillin{imagen}.}
 
-::CONTRASTE::
-[y] ya no ==vivo==
+\headingsix{El lenguaje cambia \fillin{de} alcanzar/no alcanzar a tropezar.}
 
-[S: yo → Cristo]
-::CONTRASTE::
-[sino] Cristo ==vive== en mí
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La imagen de la \fillin{piedra} prepara la cita que sigue inmediatamente.}
 
-[S: Cristo → yo]
-::EXPONE::
-==vivo== en la fe
+\headingsix{Pablo volverá a \fillin{apoyar} su argumento mediante las Escrituras.}
 
-[ SECCIÓN 2 ]
+### Romanos 9:33
+\begin{verseblock}
+tal como está escrito: «HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZO Y ROCA DE ESCANDALO; Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».
+\end{verseblock}
+#### tal como está escrito:
+\headingfive{Pablo vuelve a apoyar su argumento mediante las \fillin{Escrituras}.}
 
-::EXPONE::
-no ==hago== nula la gracia [M]
+\headingsix{El tropiezo mencionado en el versículo anterior no es \fillin{una} idea nueva.}
 
-[S: yo → Cristo]
-::RESULTADO::
-[entonces] Cristo ==murió== en vano
-```
+\headingsix{\fillin{Pablo} muestra que ya estaba escrito.}
 
-## DEFINICIÓN OPERATIVA
+\headingsix{Romanos 9 continúa respondiendo mediante testimonios tomados de \fillin{las} Escrituras.}
 
-###### Sección continua = conjunto de cláusulas sin ruptura estructural  
+#### «HE AQUÍ, PONGO EN SIÓN
+\headingfive{La cita comienza con una acción realizada por \fillin{Dios}.}
 
-###### Ruptura = presencia de [M]  
+\headingsix{El sujeto principal de \fillin{la} acción es Dios.}
 
-## REGLA DE CONTROL
+\headingsix{Dios mismo coloca aquello que será descrito en la \fillin{cita}.}
 
-###### Debes poder señalar:
-- dónde empieza una sección  
-- dónde termina  
-- qué marca el cambio ([M])  
+#### UNA PIEDRA DE TROPIEZO
+\headingfive{\fillin{La} cita identifica aquello con lo que se tropieza.}
 
-👉 Si no hay [M], no hay nueva sección  
+\headingsix{La imagen conecta directamente \fillin{con} Romanos 9:32:}
+> “Tropezaron en la piedra de tropiezo”.
 
-👉 Aunque el sujeto cambie  
-👉 Aunque haya contraste  
-👉 Aunque el contenido avance  
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no \fillin{abandona} la imagen.}
 
-❗ Sin [M], no divides  
+\headingsix{La desarrolla \fillin{mediante} la Escritura.}
 
-## ACLARACIONES IMPORTANTES
+#### Y ROCA DE ESCÁNDALO;
+\headingfive{La misma idea es reforzada mediante una segunda \fillin{imagen}.}
 
-###### ❗ Las etiquetas no determinan la sección  
-👉 Solo describen cada cláusula  
+\headingsix{La piedra y la roca aparecen juntas para enfatizar \fillin{el} mismo punto.}
 
-###### ❗ [S] no determina la sección  
-👉 Solo muestra cambios dentro de la sección  
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La cita continúa explicando \fillin{el} tropiezo mencionado en el versículo anterior.}
 
-###### ❗ Solo [M] delimita  
-👉 Es el único criterio válido  
+#### Y EL QUE CREA EN ÉL
+\headingfive{La cita introduce un \fillin{contraste}.}
 
-## ERRORES COMUNES
+\headingsix{\fillin{Hasta} ahora el énfasis ha estado en el tropiezo.}
 
-##### ❌ Crear secciones por “sentido”  
+\headingsix{\fillin{Ahora} aparece la fe.}
 
-##### ❌ Usar etiquetas para dividir  
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La fe vuelve a \fillin{ocupar} el centro del argumento.}
 
-##### ❌ Usar cambios de sujeto para dividir  
+\headingsix{Esto \fillin{conecta} con la explicación dada en Romanos 9:30–32.}
 
-##### ❌ Forzar divisiones donde no hay [M]  
+#### NO SERÁ AVERGONZADO».
+\headingfive{La cita concluye con \fillin{una} promesa.}
 
-##### ❌ Suponer ruptura sin evidencia en el griego  
+\headingsix{El resultado para \fillin{quien} cree es diferente al resultado de quien tropieza.}
 
-## FRASE CLAVE
-> “No divido el texto.  
-> 👉 Sigo las rupturas que el griego muestra.”
+\headingsix{\fillin{La} cita termina contrastando dos resultados:}
+- tropiezo
+- no será avergonzado
 
-## QUÉ DEBES NOTAR
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Romanos 9 comenzó \fillin{preguntando}:}
+> “¿Ha fallado la palabra de Dios?”
 
-###### Cuando lo haces bien:
+\headingsix{La sección concluye mostrando dos respuestas distintas frente a aquello que Dios \fillin{ha} puesto:}
+- unos tropiezan
+- otros creen
 
-- el texto permanece continuo la mayor parte del tiempo  
-- las divisiones son pocas y claras  
-- no necesitas explicar nada  
-- la estructura se mantiene estable  
+\headingsix{Romanos 10 continuará desarrollando \fillin{el} tema de la fe, la justicia y la respuesta de Israel.}
 
-## TRANSICIÓN
+### Romanos 10:1
+\begin{verseblock}
+Hermanos, el deseo de mi corazón y mi oración a Dios por ellos es para su salvación.
+\end{verseblock}
+#### Hermanos,
+\headingsix{Después de desarrollar el argumento de Romanos 9, Pablo vuelve a hablar \fillin{de} manera personal.}
+- Mi deseo...
+- Mi oración...
+- Yo testifico...
+- La palabra está cerca...
+- Todo aquel que invoque...
 
-###### En el siguiente paso:
+\headingfive{a diferencia de Romanos 9 donde vemos que es \fillin{Dios} mayormente hablando, ahora en el capítulo veremos que es Pablo dando testimonio en el presente sobre el estado de Israel. }
 
-👉 verificarás si el texto continúa en los siguientes versículos  
-👉 sin reiniciar el proceso  
+\headingsix{El \fillin{tono} del pasaje cambia.}
 
-👉 Aquí delimitas  
-👉 luego extiendes
+\headingsix{Pablo pasa de la argumentación a una declaración \fillin{personal}.}
 
-# PASO 11 — EXTENDER LA CONTINUIDAD
+#### el deseo de mi corazón y mi oración a Dios
+\headingfive{Pablo describe tanto lo que \fillin{desea} como lo que pide a Dios.}
 
-## EJECUTA
+\headingsix{El deseo y la oración \fillin{aparecen} unidos.}
 
-##### ¿Qué haces?
-###### Verificas hasta dónde el texto puede continuar sin cambiar lo que está haciendo.
+\headingsix{Ambos están dirigidos hacia el \fillin{mismo} objetivo.}
 
-##### REGLA CLAVE
-###### ❗ No inicias algo nuevo
-👉 Solo verificas si el desarrollo continúa  
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo no habla de este tema \fillin{con} indiferencia.}
 
-##### REGLA FUNDAMENTAL
+\headingsix{El \fillin{asunto} continúa siendo profundamente personal para él.}
 
-###### ❗ El texto continúa mientras no cambie su desarrollo
-👉 No usas contenido  
-👉 No usas intuición  
-👉 Trabajas con lo ya observado (estructura + etiquetas)  
+#### por ellos es para su salvación.
+\headingfive{Pablo identifica claramente el \fillin{objeto} de su deseo y de su oración.}
 
-## CÓMO HACERLO
+\headingsix{Su deseo no es simplemente \fillin{el} bienestar de ellos.}
 
-1. Comienza desde el bloque identificado (Paso 10)
+\headingsix{Es \fillin{su} salvación.}
 
-2. Avanza línea por línea
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El \fillin{dolor} expresado en Romanos 9:1–3 reaparece ahora en forma de oración.}
 
-3. En cada línea verifica:
+\headingsix{La preocupación de Pablo por Israel sigue siendo el trasfondo \fillin{de} esta sección.}
 
-### 1. ¿La etiqueta sigue en el mismo tipo de desarrollo?
-- ✔ Sí → continúa  
-- ❌ No → posible cierre  
+### Romanos 10:2
+\begin{verseblock}
+Porque yo testifico a su favor de que tienen celo de Dios, pero no conforme a un pleno conocimiento.
+\end{verseblock}
+#### Porque yo testifico a su favor
+\headingfive{Pablo presenta su propio testimonio acerca de \fillin{Israel}.}
 
-### 2. ¿El texto sigue haciendo lo mismo?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+\headingsix{Después de citar repetidamente a \fillin{las} Escrituras en Romanos 9, ahora habla personalmente.}
 
-### 3. ¿Se puede leer junto sin forzar?
-- ✔ Sí → continúa  
-- ❌ No → detente  
+\headingsix{El versículo continúa la \fillin{preocupación} expresada en Romanos 10:1:}
+> «el deseo de mi corazón y mi oración a Dios por ellos es para su salvación».
 
-## REGLA CRÍTICA
+\headingsix{Pablo no habla como \fillin{un} observador distante.}
 
-###### ❗ La extensión termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas interpretar  
+\headingsix{Habla como alguien que conoce la situación \fillin{de} Israel.}
 
-## RESULTADO ESPERADO
+#### de que tienen celo de Dios,
+\headingfive{Pablo reconoce algo positivo acerca \fillin{de} Israel.}
 
-```
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+\headingsix{El problema no es ausencia de interés \fillin{por} Dios.}
 
-::RAZÓN::
-no ==podían==
-```
+\headingsix{Pablo afirma que existe celo por \fillin{Dios}.}
 
-👉 La extensión se detiene cuando el desarrollo cambia  
+\headingsix{El versículo reconoce una \fillin{preocupación} real por las cosas de Dios.}
 
-## IMPORTANTE
+\headingsix{Esta observación prepara el contraste que \fillin{aparece} inmediatamente después.}
 
-###### ❗ No extiendes más allá de lo natural
-👉 No fuerzas continuidad  
-👉 No unes desarrollos distintos  
+#### pero no conforme a un pleno conocimiento.
+\headingfive{Pablo introduce una corrección \fillin{importante}.}
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+\headingsix{El \fillin{problema} no es la existencia de celo.}
 
-## ENTIENDE
+\headingsix{El problema aparece en la manera en que \fillin{ese} celo está siendo ejercido.}
 
-##### Qué estás haciendo realmente
-###### Estás verificando hasta dónde el texto sigue en el mismo desarrollo.
+\headingsix{El contraste del versículo \fillin{es}:}
+- celo de Dios
+- no conforme a un pleno conocimiento
 
-##### PRINCIPIO CLAVE
-###### La extensión dura mientras el texto continúa haciendo lo mismo.
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Romanos 10 comienza \fillin{a} explicar por qué Israel no ha respondido correctamente a aquello que Dios ha revelado.}
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio de desarrollo  
+\headingsix{Pablo \fillin{reconoce} la existencia de celo.}
 
-## ERROR COMÚN
+\headingsix{Sin embargo, los versículos siguientes mostrarán que ese celo no condujo a someterse a la justicia de \fillin{Dios}.}
 
-- Extender por parecido superficial  
-- Cortar por intuición  
-- Forzar continuidad  
-- Ignorar cambios reales  
+### Romanos 10:3
+\begin{verseblock}
+Pues desconociendo la justicia de Dios y procurando establecer la suya propia, no se sometieron a la justicia de Dios.
+\end{verseblock}
+#### Pues desconociendo la justicia de Dios
+\headingfive{Pablo explica el problema que acaba de \fillin{identificar}.}
 
-👉 ❌ Incorrecto  
+\headingsix{El \fillin{versículo} anterior afirmó que tenían celo.}
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo  
+\headingsix{Ahora Pablo explica dónde estaba la \fillin{dificultad}.}
 
-## FRASE CLAVE
-> “La extensión dura mientras el desarrollo no cambia.”
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El \fillin{problema} es descrito en relación con:}
+> “la justicia de Dios”
 
-## QUÉ DEBES NOTAR
+\headingsix{Pablo afirma que no la \fillin{reconocieron}.}
 
-###### Ahora puedes ver:
-- hasta dónde el texto continúa  
-- dónde el desarrollo cambia  
-- el punto donde debes detenerte  
+#### y procurando establecer la suya propia,
+\headingfive{Pablo añade \fillin{una} segunda descripción.}
 
-## TRANSICIÓN
+\headingsix{Junto al desconocimiento aparece un \fillin{esfuerzo} activo.}
 
-###### En el siguiente paso:
-👉 reconocerás dónde la extensión se detiene  
-👉 delimitarás la unidad  
+\headingsix{El texto describe una búsqueda \fillin{por} establecer una justicia propia.}
 
-###### Aquí verificas continuidad  
-###### 👉 luego identificas el cierre
+\headingsix{Pablo presenta dos movimientos \fillin{paralelos}:}
+* desconocer la justicia de Dios
+* procurar establecer la propia
 
+#### no se sometieron a la justicia de Dios.
+\headingfive{Pablo presenta \fillin{el} resultado.}
 
-# PASO 12 — DELIMITAR LA UNIDAD
+\headingsix{El versículo culmina con una \fillin{negativa}.}
 
-## EJECUTA
+\headingsix{La \fillin{justicia} de Dios vuelve a aparecer al final del versículo.}
 
-##### ¿Qué haces?
-###### Delimitar la unidad identificando hasta dónde el texto desarrolla lo mismo.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La sección comienza \fillin{y} termina con la misma expresión:}
+> “la justicia de Dios”
 
-##### REGLA CLAVE
+\headingsix{Esa expresión ocupa \fillin{el} centro del argumento.}
 
-###### ❗ Trabajas únicamente con:
-- la extensión verificada (Paso 11)  
-- el tronco (Paso 8)  
-- las etiquetas (Paso 9)  
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{\fillin{El} siguiente versículo comenzará con:}
+> “Porque...”
 
-👉 No usas contenido  
-👉 No usas interpretación temprana  
+\headingsix{Pablo explicará por \fillin{qué} ocurrió esto.}
 
-##### REGLA FUNDAMENTAL
+\headingfive{Antes de \fillin{estudiar} Romanos 10:6–10}
 
-###### ❗ La unidad se define donde la extensión deja de ser natural
+\headingsix{\fillin{Pablo} cita Deuteronomio 30. (Deuteronomio 30:1-20)}
 
-👉 Comienza donde inicia el desarrollo  
-👉 Termina donde ese desarrollo cambia  
+\headingsix{Antes de \fillin{interpretar} la cita, conviene observar algunas preguntas:}
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿En qué situación histórica?
+- ¿Por qué Pablo escogió este pasaje?
 
-## CÓMO HACERLO
+\headingsix{\fillin{También} podemos preguntar:}
+- ¿Qué parte del argumento de Moisés está utilizando Pablo?
+- ¿Cómo contribuye esta cita al desarrollo de Romanos 9–11?
 
-1. Toma el texto extendido (Paso 11)
+\headingsix{Estas preguntas nos \fillin{ayudarán} a observar el contexto antes de sacar conclusiones.}
 
-2. Identifica su inicio
-👉 Ahí comienza la unidad  
+### Romanos 10:4
+\begin{verseblock}
+Porque Cristo es el fin de la ley para justicia a todo aquel que cree.
+\end{verseblock}
+#### Porque Cristo es el fin de la ley
+\headingfive{Pablo explica \fillin{la} afirmación anterior.}
 
-3. Sigue línea por línea
+\headingsix{\fillin{El} versículo conecta directamente con Romanos 10:3.}
 
-4. Detente cuando ocurra:
-👉 cambio en lo que el texto está haciendo  
+\headingsix{\fillin{Después} de hablar de quienes procuraban establecer su propia justicia, Pablo dirige la atención a Cristo.}
 
-5. Marca ese punto
-👉 Ahí termina la unidad  
+\headingsix{\fillin{Cristo} ocupa ahora el centro de la explicación.}
 
-## REGLA CRÍTICA
+\headingsix{La razón \fillin{dada} por Pablo comienza con:}
+> «Porque Cristo es el fin de la ley».
 
-###### ❗ La unidad termina cuando el desarrollo cambia
-👉 No necesitas otra razón  
-👉 No necesitas evaluar contenido en profundidad  
+\headingfive{\fillin{Observación}}
+\headingsix{El versículo no continúa hablando acerca del \fillin{esfuerzo} humano.}
 
-## RESULTADO ESPERADO
+\headingsix{La atención \fillin{se} desplaza hacia Cristo.}
 
-```
-[INICIO]
-::EXPONE::
-yo ==pude== hablar
-yo ==di== leche
+\headingsix{Los versículos siguientes continuarán desarrollando esta afirmación mediante \fillin{las} Escrituras.}
 
-::RAZÓN::
-no ==podían==
-[FIN]
-```
+#### para justicia
+\headingfive{Pablo añade el propósito \fillin{o} resultado de la afirmación.}
 
-👉 La unidad se mantiene mientras el desarrollo continúa  
+\headingsix{El tema de la \fillin{justicia} continúa siendo central en el argumento.}
 
-## IMPORTANTE
+\headingsix{Ya \fillin{en} Romanos 10:3 apareció el contraste entre:}
+- la justicia propia
+- la justicia de Dios
 
-###### ❗ No fuerzas extensión
-👉 Si no continúa naturalmente, te detienes  
+\headingsix{Ahora Pablo \fillin{vuelve} a hablar de justicia, pero en relación con Cristo.}
 
-###### ❗ No cortas antes de tiempo
-👉 Continúas mientras el desarrollo se mantenga  
+\headingfive{\fillin{Observación} desarrollacional}
+\headingsix{El tema \fillin{de} la justicia conecta este versículo con lo que sigue.}
 
-## ENTIENDE
+\headingsix{Los versículos 5–13 continuarán desarrollando cómo las Escrituras hablan acerca de \fillin{esta} justicia.}
 
-##### Qué estás haciendo realmente
-###### Estás reconociendo dónde el texto completa un desarrollo.
+#### a todo aquel que cree.
+\headingfive{Pablo \fillin{identifica} a los beneficiarios de esta justicia.}
 
-##### PRINCIPIO CLAVE
+\headingsix{El énfasis recae \fillin{sobre}:}
+> «todo aquel que cree».
 
-###### La unidad no se define por contenido  
-###### 👉 se define por continuidad de desarrollo  
+\headingsix{Esta expresión prepara el desarrollo posterior \fillin{del} capítulo.}
 
-##### IDEA CLAVE
-###### No decides el límite  
-###### 👉 lo muestra el cambio en el desarrollo  
+\headingsix{Más adelante Pablo volverá repetidamente al tema de \fillin{creer}, confesar e invocar.}
 
-## ERROR COMÚN
+\headingfive{\fillin{Observación} importante}
+\headingsix{El versículo \fillin{funciona} como una transición.}
 
-- Cortar por sentido superficial  
-- Extender por intuición  
-- Ignorar cambio real de desarrollo  
-- Usar contenido como criterio principal  
+\headingsix{Pablo concluye la \fillin{explicación} iniciada en Romanos 10:3.}
 
-👉 ❌ Incorrecto  
+\headingsix{A partir del versículo 5 comenzará a desarrollar esta afirmación \fillin{mediante} citas de Moisés, Isaías y Joel.}
 
-##### CORRECTO
-- Verificas continuidad  
-- Te detienes cuando cambia  
-- Respetas el desarrollo completo  
+> En Síntesis
+>- Pablo concluye la sección anterior afirmando que la diferencia entre Israel y los gentiles no estuvo en la intensidad de la búsqueda, sino en la manera de buscar.
+>- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al buscarla como por obras.
+>- La piedra puesta por Dios produce dos respuestas distintas: unos tropiezan otros creen y no son avergonzados.
+>- Al comenzar Romanos 10, Pablo vuelve a hablar personalmente y expresa su deseo y oración por la salvación de Israel.
+>- Israel tenía celo de Dios, pero no se sometió a la justicia de Dios porque procuró establecer una justicia propia.
+>- La explicación de Pablo conduce finalmente a Cristo, a quien presenta como el fin de la ley para justicia a todo aquel que cree.
 
-## FRASE CLAVE
-> “La unidad dura mientras el desarrollo no cambia.”
+## Romanos 10:5–13 - La palabra está cerca
 
-## QUÉ DEBES NOTAR
+\headingfive{Pablo continúa respondiendo mediante las \fillin{Escrituras}.}
 
-###### Ahora puedes ver:
-- dónde comienza el desarrollo  
-- dónde termina naturalmente  
-- cómo el texto se organiza en unidades completas  
+\headingsix{Después de \fillin{citar} repetidamente a las Escrituras en Romanos 9, ahora dirige la atención a Moisés.}
 
-## TRANSICIÓN
+\headingsix{Antes de estudiar este pasaje, conviene detenernos \fillin{y} hacer algunas preguntas:}
 
-###### En el siguiente paso:
-👉 expresarás la acción del tronco  
-👉 usando la unidad delimitada  
+- ¿Quién está hablando?
+- ¿A quién está hablando?
+- ¿En qué situación histórica?
+- ¿Por qué Pablo escogió este pasaje?
 
-###### Aquí reconoces el cierre  
-###### 👉 luego expresas
+\headingsix{Estas preguntas nos \fillin{ayudarán} a observar el contexto antes de sacar conclusiones.}
 
-# PASO 13 — EXPRESAR LA ACCIÓN DEL TRONCO
+\headingfive{Una observación \fillin{importante}}
 
-## EJECUTA
+\headingsix{A lo largo de Romanos 9–11, Pablo responde repetidamente mediante citas de las \fillin{Escrituras}.}
 
-##### ¿Qué haces?
-###### Escribes una sola oración que expresa la acción del tronco dentro de la unidad delimitada.
+\headingsix{Con frecuencia \fillin{dirige} la atención a palabras pronunciadas mucho antes de los acontecimientos que está describiendo.}
 
-##### REGLA CLAVE
+- Dios habla a Rebeca (9:12)
+- Dios habla en Malaquías (9:13)
+- Dios habla a Moisés (9:15)
+- Dios habla a Faraón (9:17)
+- Dios habla en Oseas (9:25–26)
+- Isaías habla acerca de Israel (9:27–29)
 
-###### ❗ Trabajas únicamente con:
-- el tronco (Paso 8)  
-- la unidad delimitada (Paso 12)  
+\headingsix{Ahora Pablo \fillin{vuelve} a citar a Moisés.}
 
-👉 No usas contenido externo  
-👉 No usas interpretación  
+\headingfive{El contexto \fillin{de} Deuteronomio 30}
 
-##### REGLA FUNDAMENTAL
+\headingsix{La cita \fillin{proviene} de Deuteronomio 30.}
 
-###### ❗ La oración debe salir directamente del tronco
-👉 Cada elemento debe poder señalarse en las cláusulas  
-👉 No añades contenido  
-👉 No completas ideas  
+\headingsix{Moisés está hablando \fillin{a} Israel como nación.}
 
-##### ESTRUCTURA DE LA ORACIÓN
-```
-[Autor] + [verbo permitido] + [contenido del tronco]
-```
+\headingsix{\fillin{El} contexto incluye dispersión, restauración y regreso.}
 
-##### VERBOS PERMITIDOS
-```
-expone   afirma   declara   muestra   contrasta
-```
+\headingsix{Después de hablar de estas realidades, Moisés \fillin{afirma} que la palabra de Dios no está lejos.}
 
-## CÓMO HACERLO
+\headingsix{No está \fillin{en} el cielo.}
 
-1. Toma el tronco dentro de la unidad (Paso 12)
+\headingsix{No está al otro \fillin{lado} del mar.}
 
-2. Léelo de principio a fin
+\headingsix{La palabra está \fillin{cerca}.}
 
-3. Recorre todas las cláusulas del tronco
-👉 No seleccionas  
-👉 Incluyes todas las acciones presentes
+\headingsix{Está en \fillin{la} boca.}
 
-4. Construye una sola oración:
-- usando un verbo permitido  
-- manteniendo el contenido del tronco  
-- respetando la secuencia del texto  
+\headingsix{Está \fillin{en} el corazón.}
 
-## RESULTADO ESPERADO
+\headingfive{\fillin{Observación}}
+\headingsix{Pablo no \fillin{está} citando una frase aislada.}
 
-###### Tronco:
+\headingsix{Está citando una sección más amplia donde Moisés habla acerca de una palabra ya dada y ya cercana a \fillin{Israel}.}
 
-```
-no ==pude== hablarles
+\headingsix{Por eso, antes de estudiar Romanos 10:5–13, conviene observar cuidadosamente qué estaba diciendo Moisés y \fillin{cómo} Pablo utiliza esas palabras dentro de su argumento.}
 
-les ==di==
+\headingfive{Una conexión \fillin{importante}}
+\headingsix{Romanos 10:1–4 ha estado \fillin{hablando} acerca de Israel.}
 
-no ==podían==
-```
+\headingsix{Pablo reconoce su celo por Dios, pero afirma que no se sometieron a la \fillin{justicia} de Dios.}
 
-###### Resultado:
+\headingsix{\fillin{Después} declara:}
+> «Cristo es el fin de la ley para justicia a todo aquel que cree».
 
-```
-Pablo expone que no pudo hablarles, que les dio, y que no podían.
-```
+\headingsix{\fillin{Inmediatamente} después, Pablo dirige la atención a Moisés.}
 
-## REGLA CRÍTICA
+\headingsix{Por \fillin{esta} razón, conviene observar cuidadosamente por qué Pablo escoge este pasaje de Deuteronomio.}
 
-###### ❗ No introduces información nueva
-👉 Si no está en el tronco, no entra  
+\headingsix{La \fillin{sección} continúa desarrollando el tema de la justicia y la respuesta a la palabra de Dios.}
 
-###### ❗ No cambias la acción
-👉 Mantienes los verbos  
-👉 Mantienes el orden  
+### Romanos 10:5
+\begin{verseblock}
+Pues Moisés escribe que el hombre que practica la justicia que es de la ley, vivirá por ella.
+\end{verseblock}
+#### Pues Moisés escribe
+\headingfive{Pablo introduce un testimonio tomado de \fillin{las} Escrituras.}
 
-## IMPORTANTE
+\headingsix{Después de \fillin{afirmar} que Cristo es el fin de la ley para justicia a todo aquel que cree, Pablo dirige la atención a Moisés.}
 
-###### ❗ Es una sola oración
+\headingsix{El argumento continúa avanzando mediante las \fillin{Escrituras}.}
 
-👉 No divides  
-👉 No agregas explicaciones  
+\headingsix{Moisés \fillin{aparece} nuevamente como testigo dentro de la discusión.}
 
-###### ❗ No usas lenguaje interpretativo
+#### que el hombre que practica la justicia
+\headingfive{La cita describe a \fillin{la} persona que practica lo que la ley demanda.}
 
-❌ “esto enseña…”  
-❌ “esto significa…”  
-❌ “parece que…”  
+\headingsix{El \fillin{énfasis} recae sobre la práctica de esta justicia.}
 
-## ENTIENDE
+\headingsix{Pablo comienza con una declaración tomada \fillin{de} Moisés antes de introducir el siguiente contraste.}
 
-##### Qué estás haciendo realmente
-###### Estás expresando la acción completa del texto en una sola línea.
+#### que es de la ley,
+\headingfive{Pablo identifica el marco de esta \fillin{justicia}.}
 
-##### PRINCIPIO CLAVE
-###### El tronco ya contiene la acción  
-###### 👉 aquí solo la haces explícita  
+\headingsix{\fillin{El} versículo habla específicamente de:}
+> «la justicia que es de la ley».
 
-##### IDEA CLAVE
-###### No creas la acción  
-###### 👉 la reproduces de forma controlada  
+\headingsix{Esta expresión \fillin{será} contrastada inmediatamente con:}
+> «la justicia que es de la fe».
 
-## ERROR COMÚN
-- Agregar ideas externas  
-- Cambiar los verbos  
-- Alterar el orden  
-- Explicar en lugar de declarar  
+#### vivirá por ella.
+\headingfive{La cita concluye con \fillin{un} resultado.}
 
-👉 ❌ Incorrecto  
+\headingsix{La vida aparece \fillin{vinculada} a la justicia descrita en la cita.}
 
-##### CORRECTO
-- Usas solo el tronco  
-- mantienes las acciones  
-- produces una sola oración  
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo \fillin{introducirá} un contraste.}
 
-## FRASE CLAVE
-> “No agrego nada.  
-> Solo expreso lo que el tronco ya hace.”
+\headingsix{\fillin{Pablo} pasará de:}
+> «la justicia que es de la ley»
 
-## REGLA DE CONTROL
+\headingsix{\fillin{a}:}
+> «la justicia que es de la fe».
 
-###### Cada parte de la oración debe poder señalarse en el tronco
-👉 Si no puedes señalarla → está incorrecta  
+### Romanos 10:6
+\begin{verseblock}
+Pero la justicia que es de la fe, dice así: «NO DIGAS EN TU CORAZÓN: “¿QUIÉN SUBIRÁ AL CIELO?”. Esto es, para hacer bajar a Cristo,
+\end{verseblock}
+#### Pero la justicia que es de la fe, dice así:
+\headingfive{Pablo introduce una nueva cita de las \fillin{Escrituras}.}
 
-## QUÉ DEBES NOTAR
+\headingsix{Ahora \fillin{comienza} a citar Deuteronomio 30.}
 
-###### Ahora puedes ver:
-- la acción completa del texto  
-- el desarrollo como una unidad  
-- la dirección final del pasaje  
+\headingsix{La cita proviene de una sección donde Moisés habla \fillin{a} Israel.}
 
-## TRANSICIÓN
+\headingsix{\fillin{El} contexto incluye dispersión, restauración y regreso.}
 
-###### Aquí termina el proceso ROOTS
+\headingsix{Después de hablar de estas \fillin{realidades}, Moisés afirma que la palabra de Dios no está lejos.}
 
-👉 Ya tienes:
+#### «NO DIGAS EN TU CORAZÓN:
+\headingfive{Pablo comienza con las palabras de \fillin{Moisés}.}
 
-- estructura  
-- comportamiento  
-- patrones  
-- unidad  
-- acción  
+\headingsix{\fillin{La} atención se dirige al corazón.}
 
-👉 El texto quedó completamente observado
+\headingsix{La expresión \fillin{prepara} las preguntas que siguen.}
 
-# CONCLUSIONES DE LOS PASOS 1–13
+\headingsix{El énfasis no recae en buscar una palabra lejana, sino \fillin{en} la respuesta a una palabra ya dada.}
 
-## CONTEXTO DEL TEXTO
+#### “¿QUIÉN SUBIRÁ AL CIELO?”.
+\headingfive{La primera pregunta mira hacia algo inaccesible para el \fillin{ser} humano.}
 
-### ¿Qué haces?
-###### Estableces el marco completo del texto que vas a observar.
+\headingsix{En Deuteronomio, Moisés niega que la palabra de Dios se encuentre fuera del \fillin{alcance} de Israel.}
 
-### Definición
-###### Contexto = la unidad + su desarrollo + su acción.
+\headingsix{La \fillin{pregunta} prepara el contraste que aparecerá más adelante:}
+> «Cerca de ti está la palabra».
 
-### Cómo hacerlo
+#### Esto es, para hacer bajar a Cristo,
+\headingfive{\fillin{Pablo} aplica la cita al tema que está desarrollando.}
 
-1. Toma la unidad delimitada (Paso 12)
+\headingsix{La explicación continúa en el versículo \fillin{siguiente}.}
 
-2. Toma la acción del texto (Paso 13)
+\headingsix{El énfasis sigue estando en \fillin{la} inutilidad de intentar traer aquello que Dios ya ha provisto.}
 
-3. Toma los movimientos internos del texto
+### Romanos 10:7
+\begin{verseblock}
+o “¿QUIÉN DESCENDERÁ AL ABISMO?”. Esto es, para subir a Cristo de entre los muertos».
+\end{verseblock}
+#### o “¿QUIÉN DESCENDERÁ AL ABISMO?”.
+\headingfive{Pablo añade una \fillin{segunda} pregunta.}
 
-### Resultado
-###### Sabes:
-- qué texto estás observando
-- cómo se desarrolla
-- qué está haciendo
+\headingsix{La \fillin{estructura} repite la idea anterior.}
 
-### Principio clave
-###### El contexto no se añade.
+\headingsix{La atención continúa dirigida hacia intentos humanos de alcanzar aquello que está \fillin{fuera} de su alcance.}
 
-###### El contexto se establece a partir del texto mismo.
+\headingsix{La \fillin{pregunta} prepara nuevamente el contraste que aparecerá en el versículo siguiente.}
 
-### Frase clave
-> “Observo cada parte dentro de la unidad que el texto define.”
+#### Esto es, para subir a Cristo de entre los muertos».
+\headingfive{Pablo continúa aplicando las palabras de \fillin{Moisés}.}
 
-## H1 — UNIDAD PRINCIPAL
+\headingsix{La explicación sigue apuntando a la \fillin{obra} de Cristo.}
 
-### ¿Qué haces?
-###### Nombras la unidad completa del texto.
+\headingsix{El argumento se mueve hacia la afirmación central \fillin{que} aparecerá en el versículo 8.}
 
-### Cómo hacerlo
+### Romanos 10:8
+\begin{verseblock}
+Pero, ¿qué dice? «CERCA DE TI ESTÁ LA PALABRA, EN TU BOCA Y EN TU CORAZÓN», es decir, la palabra de fe que predicamos:
+\end{verseblock}
+#### Pero, ¿qué dice?
+\headingfive{Después de dos preguntas negativas, Pablo dirige la atención a la \fillin{afirmación} principal de la cita.}
 
-1. Toma la referencia (Paso 12)
+\headingsix{El argumento vuelve \fillin{al} punto central de Deuteronomio 30.}
 
-2. Toma la oración del Paso 13
+\headingsix{La pregunta prepara la \fillin{respuesta} que Moisés mismo da.}
 
-3. Reduce la oración sin añadir ideas
+#### «CERCA DE TI ESTÁ LA PALABRA,
+\headingfive{Esta es la \fillin{afirmación} central de la cita.}
 
-### Resultado esperado
+\headingsix{En Deuteronomio, Moisés \fillin{insiste} en que la palabra no está lejos.}
 
-```
-Referencia
-Título
-```
+\headingsix{\fillin{No} está en el cielo.}
 
-### Ejemplo
+\headingsix{No está al otro \fillin{lado} del mar.}
 
-```
-Gálatas 2:1–21  
-Pablo expone su interacción con otros y declara la justificación por la fe y su condición en Cristo.
-```
+\headingsix{La \fillin{palabra} está cerca.}
 
-### Regla
-###### El título debe salir del texto.
+\headingfive{Observación \fillin{importante}:}
 
-###### No añade ideas.
+\headingsix{El énfasis principal de la cita no es \fillin{buscar} la palabra.}
 
-###### No interpreta.
+\headingsix{El \fillin{énfasis} es que la palabra ya ha sido dada y está presente.}
 
-### Regla de reducción
-##### El título (H1) es una versión reducida del Paso 13.
-##### Conserva la acción principal
-##### Elimina los desarrollos internos
+#### EN TU BOCA
+\headingfive{Pablo continúa citando \fillin{a} Moisés.}
 
-### Principio clave
-###### El título resume la acción del texto.
+\headingsix{La boca ya aparecía en el \fillin{texto} original de Deuteronomio.}
 
-### Errores comunes
-- añadir explicación
-- introducir teología
-- usar lenguaje no presente
+\headingsix{No es una idea introducida por Pablo en \fillin{este} punto.}
 
-### Frase clave
-> “Nombró la unidad según lo que el texto hace.”
+\headingsix{El desarrollo continuará \fillin{en} los versículos siguientes.}
 
-## H2 — MOVIMIENTOS INTERNOS
+#### Y EN TU CORAZÓN»,
+\headingfive{Pablo completa la \fillin{cita}.}
 
-### ¿Qué haces?
-###### Identificas y nombras los grupos dentro de la unidad.
+\headingsix{El corazón también procede directamente \fillin{de} Deuteronomio 30.}
 
-### Cómo hacerlo
+\headingsix{Los elementos "\fillin{boca}" y "corazón" forman parte del argumento original de Moisés.}
 
-1. Toma el tronco (Paso 8)
+\headingsix{\fillin{Más} adelante Pablo desarrollará ambos elementos.}
 
-2. Observa los cortes naturales:
-- cambios de sujeto (O1)
-- cambios de desarrollo
+#### es decir, la palabra de fe que predicamos:
+\headingfive{\fillin{Pablo} identifica la palabra que está anunciando.}
 
-3. Agrupa las cláusulas que se mantienen juntas
+\headingsix{El argumento ya no \fillin{permanece} únicamente en Deuteronomio.}
 
-4. Asigna referencia a cada grupo
+\headingsix{Pablo conecta la cita con \fillin{el} mensaje que está siendo proclamado.}
 
-5. Nombra cada grupo desde el texto
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Los versículos 9–10 desarrollarán precisamente los dos elementos \fillin{ya} mencionados por Moisés:}
+- boca
+- corazón
 
-### Resultado esperado
+\headingsix{Antes de hablar \fillin{de} creer y confesar, Pablo ya ha establecido que la palabra está cerca.}
 
-```
-Referencia   Título
-```
+### Romanos 10:9
+\begin{verseblock}
+que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo.
+\end{verseblock}
+#### que si confiesas con tu boca
+\headingfive{\fillin{Pablo} comienza desarrollando uno de los elementos mencionados en Romanos 10:8.}
 
-##### Ejemplo
+\headingsix{La \fillin{boca} ya apareció en la cita de Deuteronomio 30.}
 
-```
-2:1–2   Subida y exposición  
-2:3–10  Interacción  
-2:11–13 Confrontación  
-2:14    Declaración  
-2:15–16 Justificación  
-2:17–21 Condición en Cristo
-```
+\headingsix{Ahora Pablo vuelve a \fillin{mencionarla}.}
 
-### Regla
-###### Los grupos no se inventan.
+\headingsix{El versículo introduce una confesión expresada con la \fillin{boca}.}
 
-###### Se observan en el desarrollo.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{Los} elementos:}
+- boca
+- corazón
 
-### Principio clave
-###### H2 muestra cómo se mueve el texto dentro de la unidad.
+\headingsix{\fillin{no} aparecen por primera vez en Romanos 10:9.}
 
-### Errores comunes
-- agrupar por tema
-- dividir demasiado
-- usar títulos interpretativos
+\headingsix{\fillin{Ambos} proceden de la cita de Moisés en los versículos anteriores.}
 
-### Frase clave
-> “Agrupo lo que el texto mantiene unido.”
+#### a Jesús por Señor,
+\headingfive{Pablo identifica el \fillin{contenido} de la confesión.}
 
-## RESULTADO FINAL
+\headingsix{La confesión está \fillin{centrada} en Jesús.}
 
-### Ahora tienes:
-- la unidad completa del texto
-- su desarrollo interno
-- su acción
-- su contexto establecido
+\headingsix{El versículo no habla \fillin{de} una confesión indefinida.}
 
-### Estás listo para:
-- observar frase por frase
-- sin perder el desarrollo
-- sin interpretar
+\headingsix{Pablo especifica aquello que es \fillin{confesado}.}
 
-# O₂ — OBSERVAR EL TEXTO
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no ha abandonado \fillin{el} tema de Cristo.}
 
-## INTRODUCCIÓN
+\headingsix{Romanos 10 \fillin{comenzó} afirmando:}
+> «Cristo es el fin de la ley para justicia a todo aquel que cree».
 
-##### Qué haces ahora
-###### Observas el texto con precisión, trabajando frase por frase dentro de la estructura ya definida.
+\headingsix{\fillin{La} atención continúa centrada en Él.}
 
-##### Nivel de trabajo
-###### O₂ trabaja en el nivel de la \textbf{frase ancla (H4)}.
+#### y crees en tu corazón
+\headingfive{Pablo \fillin{introduce} el segundo elemento mencionado en Romanos 10:8.}
 
-###### No observas ideas generales.
+\headingsix{Después de hablar de la \fillin{boca}, ahora habla del corazón.}
 
-###### No observas secciones completas.
+\headingsix{Los dos elementos aparecen \fillin{nuevamente} juntos.}
 
-###### Observas una frase a la vez.
+\headingsix{Pablo continúa desarrollando \fillin{el} lenguaje tomado de Deuteronomio 30.}
 
-##### Contexto
-###### Cada frase se observa dentro de:
-- la unidad (H1)
-- su movimiento (H2)
-- la acción del texto (Paso 13)
+#### que Dios lo resucitó de entre los muertos,
+\headingfive{Pablo identifica el contenido de la fe descrita \fillin{en} el versículo.}
 
-###### ❗ Nunca observas una frase aislada.
+\headingsix{\fillin{La} fe está relacionada con la resurrección de Jesús.}
 
-##### Propósito
-###### Ver exactamente lo que el texto dice, sin añadir significado.
+\headingsix{El énfasis recae sobre lo que Dios \fillin{hizo}.}
 
-##### Regla central
-###### No interpretas.
-###### No explicas.
-###### No completas.
+#### serás salvo.
+\headingfive{El versículo concluye con \fillin{una} promesa de salvación.}
 
-###### 👉 Solo observas lo que está presente.
+\headingsix{La declaración presenta \fillin{el} resultado asociado con creer y confesar.}
 
-## Naturaleza de esta fase
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La palabra que Moisés describía como cercana es \fillin{ahora} desarrollada por Pablo en relación con Jesús.}
 
-##### Esta fase es diferente a los pasos anteriores.
-###### En los Pasos 1–13:
-- 👉 debías completar cada paso correctamente
-- 👉 no avanzabas sin haber terminado el anterior
+\headingsix{El \fillin{argumento} continúa avanzando alrededor de la palabra anunciada y la respuesta a ella.}
 
-###### En O₂:
-- 👉 no necesitas observar todo perfectamente
-- 👉 puedes avanzar mientras aprendes
+### Romanos 10:10
+\begin{verseblock}
+Porque con el corazón se cree para justicia, y con la boca se confiesa para salvación.
+\end{verseblock}
+#### Porque con el corazón se cree para justicia,
+\headingfive{Pablo \fillin{explica} la relación presentada en el versículo anterior.}
 
-##### Principio clave
-###### La observación se desarrolla con la práctica.
+\headingsix{El corazón \fillin{vuelve} a aparecer asociado con la fe.}
 
-###### No se exige perfección desde el inicio.
+\headingsix{La fe es relacionada \fillin{con} la justicia.}
 
-##### Cómo trabajar
-###### Estas categorías no son una lista obligatoria.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El tema de la \fillin{justicia} continúa ocupando un lugar central en esta sección.}
 
-###### Son herramientas para ayudarte a ver mejor el texto.
-- 👉 algunas serán claras de inmediato
-- 👉 otras se desarrollarán con el tiempo
+\headingsix{Pablo sigue desarrollando \fillin{el} tema introducido en Romanos 10:3–4.}
 
-##### Regla
-###### No te detienes por no ver todo.
+\headingsix{El \fillin{argumento} continúa girando alrededor de la justicia de Dios y de la respuesta a ella.}
 
-###### Avanzas observando lo que puedes ver con claridad.
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La justicia sigue apareciendo en \fillin{conexión} con la fe.}
 
-##### Frase clave
->“Observo con precisión lo que puedo ver, y mejoro con la práctica.”
+\headingsix{Pablo no ha abandonado el tema introducido \fillin{al} comienzo del capítulo.}
 
-## TRABAJAR CADA FRASE (H4)
+#### y con la boca se confiesa para salvación.
+\headingfive{Pablo completa \fillin{el} paralelo.}
 
-##### Qué haces
-###### Tomas una frase ancla (H4) y observas únicamente lo que está en el texto.
+\headingsix{La boca vuelve a \fillin{aparecer} asociada con la confesión.}
 
-##### Regla
-###### No agregas significado
-###### No explicas
-###### No interpretas
+\headingsix{El \fillin{versículo} mantiene juntos los mismos dos elementos:}
+- corazón
+- boca
 
-###### 👉 Solo afirmas lo que el texto muestra
+\headingsix{Los dos elementos ya estaban presentes \fillin{en} la cita de Deuteronomio 30.}
 
-##### PROCESO FIJO
-###### Para cada frase, puedes observar lo siguiente:
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no \fillin{está} introduciendo una nueva línea de argumentación.}
 
-##### 1. AFIRMACIÓN
-- 👉 ¿Qué afirma el texto?
-- 👉 Escríbelo sin cambiar palabras
+\headingsix{Continúa desarrollando \fillin{la} palabra que, según Moisés, ya estaba cerca:}
+- en la boca
+- en el corazón
 
-##### 2. SUJETO
-- 👉 ¿Quién realiza la acción?
-- 👉 ¿Está explícito o implícito?
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La palabra cercana descrita por Moisés es \fillin{ahora} explicada por Pablo en relación con Cristo.}
 
-##### 3. VERBO
-- 👉 ¿Qué acción ocurre?
-- 👉 ¿Cómo está expresada?
+\headingsix{La discusión continúa desarrollándose alrededor de la palabra anunciada y de la \fillin{respuesta} a ella.}
 
-##### 4. COMPLEMENTO
-- 👉 ¿Sobre qué recae la acción?
-- 👉 ¿Qué se menciona directamente?
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La sección se \fillin{encuentra} dentro de una discusión acerca de Israel.}
 
-##### 5. RELACIÓN
-- 👉 ¿Cómo se conecta con la frase anterior?
-- 👉 Usa solo lo ya observado (Paso 8–9)
+\headingsix{Romanos 10 comenzó describiendo una situación \fillin{donde} Israel no se sometió a la justicia de Dios.}
 
-##### 6. REPETICIÓN
-- 👉 ¿Qué palabras o ideas aparecen otra vez?
+\headingsix{Después Pablo \fillin{citó} a Moisés para hablar acerca de una palabra que ya estaba cerca.}
 
-##### 7. CONTRASTE
-- 👉 ¿Hay oposición directa con otra frase?
+\headingsix{Ahora desarrolla esa palabra \fillin{antes} de volver nuevamente al testimonio de las Escrituras en los versículos siguientes.}
 
-##### 8. ÉNFASIS
-- 👉 ¿Qué está resaltado por:
-  - repetición
-  - contraste
-  - posición
-  - formulación?
+### Romanos 10:11
+\begin{verseblock}
+Pues la Escritura dice: «TODO EL QUE CREE EN ÉL NO SERÁ AVERGONZADO».
+\end{verseblock}
+#### Pues la Escritura dice:
+\headingfive{Pablo vuelve a apoyar su argumento mediante las \fillin{Escrituras}.}
 
-##### IMPORTANTE
-###### No todas las categorías aplican siempre.
-###### 👉 Solo observas lo que el texto permite ver.
+\headingsix{Después de desarrollar la relación entre creer y confesar, \fillin{dirige} nuevamente la atención a una cita bíblica.}
 
-##### RESULTADO
-###### Produces observaciones:
-- claras
-- breves
-- verificables en el texto
+\headingsix{La Escritura vuelve a \fillin{funcionar} como testigo dentro del argumento.}
 
-##### EJEMPLO (FORMATO)
+\headingsix{Pablo retoma una promesa que ya apareció \fillin{anteriormente} en Romanos 9:33.}
 
-```
-Frase:
-yo ==di== leche
+#### «TODO EL QUE CREE EN ÉL
+\headingfive{\fillin{La} cita enfatiza al creyente.}
 
-Observación:
-- sujeto: yo
-- verbo: di
-- complemento: leche
-- relación: continúa la acción anterior
-```
+\headingsix{El sujeto es presentado \fillin{de} manera amplia:}
+> «todo el que cree».
 
-##### REGLA DE CONTROL
-###### Si explicas → te saliste
-###### Si agregas → te saliste
-###### Si interpretas → te saliste
+\headingsix{El énfasis recae sobre la fe descrita en esta \fillin{sección}.}
 
-###### Toda observación debe poder señalarse directamente en el texto.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La fe continúa ocupando un \fillin{lugar} central en el argumento.}
 
-###### ❗ Si no puedes subrayarlo, no es observación.
-###### ❗ Si requiere explicación, es interpretación.
+\headingsix{Pablo sigue desarrollando el tema \fillin{introducido} desde Romanos 9:30–32.}
 
-##### ERRORES COMUNES
-- explicar el texto
-- resumir
-- añadir ideas
-- usar lenguaje no presente
-- observar fuera del contexto
+#### NO SERÁ AVERGONZADO».
+\headingfive{La cita presenta una \fillin{promesa}.}
 
-##### QUÉ DEBES NOTAR
+\headingsix{La declaración \fillin{ya} había sido utilizada por Pablo en Romanos 9:33.}
 
-###### Ahora:
-- ves lo que el texto afirma
-- ves quién actúa
-- ves cómo avanza
-- ves qué repite
-- ves qué contrasta
+\headingsix{La promesa es presentada en términos \fillin{universales}:}
+> «todo el que cree».
 
-###### 👉 Estás viendo el contenido real del texto
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La \fillin{palabra} clave ahora es:}
+> «todo».
 
-##### TRANSICIÓN
-###### Después de observar todas las frases:
-- 👉 tendrás el contenido completo
-- 👉 sin haber interpretado
-- 👉 listo para la siguiente fase
+\headingsix{El siguiente versículo explicará \fillin{por} qué Pablo puede hablar de esta manera.}
 
-# EJEMPLO COMPLETO — 1 CORINTIOS 3:1
+### Romanos 10:12
+\begin{verseblock}
+Porque no hay distinción entre judío y griego, pues el mismo Señor es Señor de todos, abundando en riquezas para todos los que le invocan;
+\end{verseblock}
+#### Porque no hay distinción entre judío y griego,
+\headingfive{\fillin{Pablo} explica la afirmación anterior.}
 
-## PUNTO DE PARTIDA DEL EJEMPLO
+\headingsix{\fillin{El} versículo anterior habló de:}
+> «todo el que cree».
 
-##### Este ejemplo asume que ya se han completado:
-- Pasos 1–13
-- Conclusiones (Contexto, H1, H2)
+\headingsix{Ahora Pablo \fillin{explica} por qué puede utilizar esa expresión.}
 
-###### ❗ La observación de lo que dice el texto no comienza desde cero.
-###### ❗ Comienza desde una estructura ya definido.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El contraste entre judío y \fillin{gentil} ha estado presente a lo largo de Romanos 9–11.}
 
-## CONCLUSIONES DE LOS PASOS 1–13
+\headingsix{Aquí Pablo afirma que no existe distinción en relación con la promesa que acaba de \fillin{citar}.}
 
-## H1 — UNIDAD
+#### pues el mismo Señor es Señor de todos,
+\headingfive{Pablo presenta la \fillin{razón} de la afirmación anterior.}
 
-```
-1 Corintios 3:1–4:21 Pablo expone la condición de los creyentes y su desarrollo.
-```
+\headingsix{La explicación \fillin{comienza} con el Señor mismo.}
 
-## H2 — MOVIMIENTOS INTERNOS
+\headingsix{El énfasis \fillin{recae} en la unidad del Señor.}
 
-```
-3:1–4   Condición de los creyentes  
-3:5–9   Explicación del origen  
-3:10–15 Evaluación de la obra  
-3:16–23 Identidad del creyente  
-4:1–5   Responsabilidad  
-4:6–13  Contraste  
-4:14–21 Exhortación
-```
+\headingsix{El mismo \fillin{Señor} es presentado como Señor de todos.}
 
-## CONTEXTO
+#### abundando en riquezas para todos los que le invocan;
+\headingfive{Pablo añade una segunda \fillin{afirmación}.}
 
-###### La frase se observa dentro de:
+\headingsix{El énfasis vuelve a recaer sobre la \fillin{palabra}:}
+> «todos».
 
-- la unidad completa (3:1–4:21)
-- el movimiento inicial (3:1–4)
-- la acción del texto (Pablo expone la condición)
+\headingsix{El argumento continúa \fillin{ampliándose}:}
+- todo el que cree
+- todos los que le invocan
 
-## O₂ — OBSERVAR EL TEXTO
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Pablo está preparando la cita \fillin{que} aparecerá en el versículo siguiente.}
 
-##### TEXTO — 1 CORINTIOS 3:1
-Así que yo, hermanos, no pude hablarles como a espirituales, sino como a carnales, como a niños en Cristo.
+\headingsix{\fillin{La} referencia a quienes invocan al Señor anticipa directamente la cita de Joel.}
 
-##### OBSERVACIÓN FRASE POR FRASE (H4)
+\headingsix{\fillin{El} argumento continúa avanzando mediante las Escrituras.}
 
-##### FRASE 1
+### Romanos 10:13
+\begin{verseblock}
+porque: «TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO».
+\end{verseblock}
+#### porque:
+\headingfive{Pablo fundamenta \fillin{la} afirmación anterior mediante las Escrituras.}
 
-```
-Así que
-```
-- afirma: introduce consecuencia
-- relación: conecta con lo anterior
-- énfasis: inicio del desarrollo
+\headingsix{Después de hablar acerca de quienes invocan al Señor, presenta una cita bíblica como \fillin{respaldo}.}
 
-##### FRASE 2
+\headingsix{El argumento continúa avanzando mediante el testimonio de \fillin{las} Escrituras.}
 
-```
-yo
-```
-- afirma: sujeto explícito
-- sujeto: yo
-- relación: agente de la acción
+\headingsix{Ahora aparece \fillin{Joel} como testigo dentro de la discusión.}
 
-##### FRASE 3
+#### «TODO AQUEL
+\headingfive{La cita comienza con \fillin{una} expresión amplia.}
 
-```
-hermanos
-```
-- afirma: destinatarios
-- relación: dirigido a ellos
-- tipo: vocativo
+\headingsix{La misma amplitud \fillin{que} apareció en los versículos anteriores vuelve a aparecer aquí.}
 
-##### FRASE 4
+\headingsix{Pablo continúa desarrollando \fillin{la} idea de:}
+> «todo el que cree»
 
-```
-no pude hablarles
-```
-- afirma: yo no pude hablarles
-- sujeto: yo
-- verbo: pude
+\headingsix{\fillin{y}:}
+> «todos los que le invocan».
 
-- complemento: hablarles
-- relación: acción principal
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El énfasis sigue recayendo \fillin{sobre}:}
+> «todo».
 
-- morfología (apoyo):
-  - tiempo: pasado
-  - modo: indicativo
-  - voz: activa
-  - negación: no
-- énfasis: negación
+#### QUE INVOQUE EL NOMBRE DEL SEÑOR
+\headingfive{La cita identifica \fillin{la} acción mencionada en el versículo anterior.}
 
-##### FRASE 5
+\headingsix{Pablo acaba de hablar \fillin{de}:}
+> «todos los que le invocan».
 
-```
-como a espirituales
-```
-- afirma: hablar como a espirituales
-- relación: depende de “hablarles”
-- contraste: prepara oposición
+\headingsix{Ahora Joel confirma esa misma idea \fillin{mediante} las Escrituras.}
 
-- repetición:
-  - “como a …”
+\headingsix{La referencia a invocar ocupa \fillin{un} lugar central en el desarrollo del argumento.}
 
-##### FRASE 6
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{La} cita proviene de Joel.}
 
-```
-sino como a carnales
-```
-- afirma: hablar como a carnales
-- relación: contrasta con “espirituales”
-- contraste:
-  - espirituales ↔ carnales
+\headingsix{Igual que \fillin{la} cita de Moisés en Romanos 10:6–8, esta declaración pertenece a un contexto más amplio.}
 
-- repetición:
-  - “como a …”
+\headingsix{Joel habla \fillin{dentro} de una sección que mira hacia la restauración futura y la intervención de Dios.}
 
-##### FRASE 7
+#### SERÁ SALVO».
+\headingfive{La cita concluye con una \fillin{promesa}.}
 
-```
-como a niños en Cristo
-```
-- afirma: hablar como a niños en Cristo
-- relación: añade a “carnales”
-- repetición:
-  - “como a …”
+\headingsix{\fillin{El} resultado asociado con invocar al Señor es la salvación.}
 
-##### RESULTADO CONSOLIDADO
+\headingsix{La promesa es expresada en términos \fillin{universales}:}
+> «todo aquel».
 
-- \scripture{Así que} → consecuencia
-- \scripture{yo} → sujeto
-- \scripture{hermanos} → destinatarios
-- \scripture{no pude hablarles} → acción principal (negada)
-- \scripture{como a espirituales} → forma
-- \scripture{sino como a carnales} → contraste
-- \scripture{como a niños en Cristo} → continuación
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Esta declaración \fillin{proviene} de Joel.}
 
+\headingsix{En su contexto original, Joel está hablando dentro de una sección más amplia acerca de la \fillin{intervención} de Dios, la restauración y la liberación de Su pueblo.}
 
-##### LO QUE ESTE EJEMPLO DEMUESTRA
+\headingsix{Pablo toma esta \fillin{promesa} y la incorpora a su argumento para mostrar que las Escrituras ya hablaban de una salvación disponible para quienes invocan al Señor.}
 
-###### La observación:
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Romanos 10 ha citado \fillin{sucesivamente} a:}
+- Moisés
+- Isaías
+- Joel
 
-- depende de la unidad (H1)
-- depende del movimiento (H2)
-- no ignora ninguna frase
-- no interpreta el texto
+\headingsix{Cada uno de estos \fillin{testimonios} ha sido utilizado para apoyar el mismo argumento.}
 
-##### Principio clave
-###### La precisión no viene de explicar más.
+\headingsix{La sección \fillin{termina} afirmando que:}
+> «Todo aquel que invoque el nombre del Señor será salvo».
 
-###### 👉 Viene de observar mejor.
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Romanos 10:1 comenzó con \fillin{el} deseo de Pablo por la salvación de Israel.}
 
-##### FRASE CLAVE FINAL
-> “Observo cada frase dentro del texto ya definido.”
+\headingsix{Ahora Pablo ha mostrado \fillin{mediante} las Escrituras que:}
+- todo el que cree
+- todos los que invocan al Señor
+- participan de esta promesa.
 
-# T — TRAZAR EL TEXTO
+\headingsix{Después de citar a Joel, Pablo comenzará una nueva serie de \fillin{preguntas}:}
+> «¿Cómo invocarán...?»
 
-## INTRODUCCIÓN
+\headingsix{El argumento avanzará hacia el tema de la proclamación \fillin{del} mensaje.}
 
-##### El problema de ver sin poder decir
-###### Has observado el texto con precisión.
+### Romanos 10:14
+\begin{verseblock}
+¿Cómo, pues, invocarán a Aquel en quien no han creído? ¿Y cómo creerán en Aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique?
+\end{verseblock}
+#### ¿Cómo, pues, invocarán a Aquel en quien no han creído?
+\headingfive{\fillin{Pablo} comienza una serie de preguntas conectadas entre sí.}
 
-###### Has identificado lo que cada frase dice.
+\headingfive{El versículo anterior afirmó:}
+> «Todo aquel que invoque el nombre del Señor será salvo».
 
-###### Pero eso no garantiza que puedas \textbf{expresarlo correctamente}.
+\headingfive{Ahora \fillin{Pablo} comienza a explicar cómo alguien llega a invocar.}
 
-###### ❗ Muchos ven el texto,
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La invocación presupone \fillin{fe}.}
 
-###### pero no pueden decirlo sin cambiarlo.
+\headingsix{\fillin{La} pregunta dirige la atención al paso anterior.}
 
-##### El error de buscar lo oculto
-###### Muchos estudiantes de la Biblia buscan:
-- ideas nuevas
-- puntos profundos
-- cosas que nadie ha visto
+#### ¿Y cómo creerán en Aquel de quien no han oído?
+\headingfive{\fillin{Pablo} añade un segundo eslabón.}
 
-###### ❗ Pero el texto no está escondiendo su mensaje.
+\headingsix{\fillin{La} fe no aparece aislada.}
 
-##### Qué hace un buen estudiante
-###### Un buen estudiante no busca lo que no está.
+\headingsix{Pablo conecta la \fillin{fe} con oír.}
 
-###### 👉 Observa lo que ya está en el texto.
-###### 👉 Y puede expresarlo con claridad y fidelidad.
+\headingsix{La \fillin{cadena} continúa avanzando hacia atrás:}
+- invocar
+- creer
+- oír
 
-##### Principio clave
-###### La precisión no está en descubrir algo nuevo.
+#### ¿Y cómo oirán sin haber quien les predique?
+\headingfive{\fillin{Pablo} añade un tercer eslabón.}
 
-###### 👉 Está en decir correctamente lo que ya está.
+\headingsix{El \fillin{oír} presupone que alguien proclame el mensaje.}
 
-##### Qué haces ahora
-###### Tomas cada frase (H4) y la expresas de forma clara y fiel.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El argumento no se concentra solamente en quien \fillin{responde}.}
 
-##### Nivel de trabajo
-###### T trabaja en el nivel de la \textbf{frase (H4)}.
+\headingsix{También se concentra en cómo llega el \fillin{mensaje}.}
 
-###### No trabajas secciones completas.
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Pablo ha construido una \fillin{cadena} completa:}
+- invocar
+- creer
+- oír
+- predicación
 
-###### No resumes el texto.
+\headingsix{El siguiente \fillin{versículo} añadirá un paso más al inicio de la cadena.}
 
-###### 👉 Trabajas una frase a la vez.
+### Romanos 10:15
+\begin{verseblock}
+¿Y cómo predicarán si no son enviados? Tal como está escrito: «¡CUAN HERMOSOS SON LOS PIES DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
+\end{verseblock}
+#### ¿Y cómo predicarán si no son enviados?
+\headingfive{Pablo retrocede un paso \fillin{más} en la cadena.}
 
-##### Propósito
-###### Entrenar tu capacidad de expresar el texto sin añadir, sin omitir y sin cambiar.
+\headingsix{Antes habló \fillin{de} la predicación.}
 
-##### Naturaleza de esta fase
-###### Este paso no añade contenido nuevo.
+\headingsix{\fillin{Ahora} habla del envío.}
 
-###### Este paso toma lo observado (O₂)
+\headingsix{\fillin{La} cadena queda completa:}
+- enviados
+- predican
+- oyen
+- creen
+- invocan
 
-###### y lo convierte en expresión clara.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo \fillin{está} mostrando cómo el mensaje llega a quienes lo escuchan.}
 
-###### 👉 Es una prueba de fidelidad y claridad.
+#### Tal como está escrito:
+\headingfive{Pablo vuelve a apoyar su argumento mediante \fillin{las} Escrituras.}
 
-##### Frase clave
->“Digo la frase tal como el texto la presenta.”
+\headingsix{La proclamación \fillin{del} mensaje no es presentada como algo nuevo.}
 
-## EJECUTA
+\headingsix{Pablo muestra \fillin{que} las Escrituras ya hablaban de ello.}
 
-##### ¿Qué haces?
-###### Expresas cada frase del texto de forma clara,
+#### «¡CUÁN HERMOSOS SON LOS PIES
+\headingfive{La cita dirige la \fillin{atención} a los mensajeros.}
 
-###### manteniendo exactamente lo que dice.
+\headingsix{La imagen \fillin{celebra} la llegada de quienes traen el mensaje.}
 
-##### Regla
-###### No explicas
-###### No interpretas
-###### No agregas
-###### No reduces
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El énfasis no \fillin{está} en los pies mismos.}
 
-###### 👉 Solo expresas lo que el texto dice
+\headingsix{El énfasis está en \fillin{aquello} que traen.}
 
-##### Cómo hacerlo
+#### DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
+\headingfive{La cita identifica a \fillin{los} mensajeros por su acción.}
 
-1. Toma una frase (H4)
+\headingsix{Son personas \fillin{que} anuncian buenas noticias.}
 
-2. Usa lo observado en O₂
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{\fillin{Pablo} ha mostrado cómo la salvación anunciada en Romanos 10:13 llega a las personas.}
 
-3. Exprésala en una oración clara
+\headingsix{El mensaje debe ser \fillin{anunciado}.}
 
-4. Mantén:
-- el sujeto
-- la acción (si la hay)
-- el contenido
+\headingsix{Sin embargo, la siguiente \fillin{sección} mostrará que no todos responden de la misma manera al mensaje anunciado.}
 
-##### Nota importante
-###### Algunas frases no son completas por sí solas.
+### Romanos 10:16
+\begin{verseblock}
+Sin embargo, no todos hicieron caso al evangelio, porque Isaías dice: «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
+\end{verseblock}
+#### Sin embargo,
+\headingfive{Pablo introduce un contraste \fillin{importante}.}
 
-###### En esos casos:
-- 👉 usas el contexto inmediato
-- 👉 completas la expresión sin añadir ideas
+\headingsix{La cadena presentada \fillin{en} los versículos anteriores es verdadera.}
 
-###### ❗ No explicas
-###### ❗ No cambias palabras
+\headingsix{Pero eso no significa que todos respondan de la \fillin{misma} manera.}
 
-##### Resultado esperado
+\headingsix{El argumento \fillin{cambia} de:}
+- cómo llega el mensaje
 
-###### Una expresión clara de la frase,
+\headingsix{\fillin{a}:}
+- cómo responden las personas al mensaje.
 
-###### completamente trazable al texto.
+#### no todos hicieron caso al evangelio,
+\headingfive{\fillin{Pablo} presenta el problema.}
 
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
+\headingsix{El \fillin{mensaje} fue anunciado.}
 
-###### ❗ Solo puedes reorganizar para claridad
+\headingsix{Sin embargo, \fillin{la} respuesta no fue universal.}
 
-##### Regla de ejecución
-- no cambias el sujeto
-- no cambias el verbo
-- no agregas información
-- no eliminas contenido esencial
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{El} énfasis recae sobre:}
+> “no todos”
 
-###### ❗ Solo puedes reorganizar para claridad
+\headingsix{La proclamación del evangelio no garantiza la \fillin{obediencia} de todos los que lo oyen.}
 
-## EJEMPLO
+#### porque Isaías dice:
+\headingfive{Pablo vuelve a presentar a Isaías como \fillin{testigo} dentro del argumento.}
 
-##### Frase:
-```
-sino como a carnales
-```
+\headingsix{La pregunta ya no gira alrededor \fillin{del} anuncio.}
 
-##### Observación (O₂):
-- afirma: forma de hablar como a carnales
-- relación: contrasta con “espirituales”
+\headingsix{Gira alrededor de la respuesta al \fillin{anuncio}.}
 
-##### Trazado:
-```
-Pablo les habló como a carnales.
-```
+#### «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
+\headingfive{La \fillin{cita} presenta la misma tensión.}
 
-## COMPARACIÓN
+\headingsix{\fillin{Existe} un anuncio.}
 
-##### Incorrecto (explicación):
-```
-Pablo dice que ellos eran carnales.
-```
+\headingsix{\fillin{Sin} embargo, la pregunta gira alrededor de quién lo creyó.}
 
-##### Incorrecto (incompleto):
-```
-como a carnales
-```
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo muestra que el \fillin{problema} no es la ausencia de anuncio.}
 
-##### Correcto:
-```
-Pablo les habló como a carnales.
-```
+\headingsix{El \fillin{problema} es la respuesta al anuncio.}
 
-## ENTIENDE
+### Romanos 10:17
+\begin{verseblock}
+Así que la fe viene del oír, y el oír, por la palabra de Cristo.
+\end{verseblock}
+#### Así que la fe viene del oír,
+\headingfive{Pablo extrae \fillin{una} conclusión.}
 
-##### Qué estás haciendo realmente
-###### Estás convirtiendo observación en expresión fiel.
+\headingsix{El versículo \fillin{anterior} habló de creer el anuncio.}
 
-##### Principio clave
-###### Ver el texto no es suficiente.
+\headingsix{El versículo responde directamente a la \fillin{pregunta} planteada en 10:14:}
+> «¿Cómo creerán en Aquel de quien no han oído?»
 
-###### 👉 Debes poder decirlo correctamente.
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La fe \fillin{no} aparece aislada.}
 
-##### Idea clave
-###### No mejoras el texto.
-###### No lo explicas.
+\headingsix{Pablo la conecta directamente con el \fillin{oír}.}
 
-###### 👉 Lo expresas tal como está.
+#### y el oír, por la palabra de Cristo.
+\headingfive{\fillin{Pablo} añade el origen del oír.}
 
-##### Regla de control
-###### Si cambias el contenido → fallaste
-###### Si agregas ideas → fallaste
-###### Si omites partes → fallaste
+\headingsix{El oír está relacionado con la \fillin{palabra} acerca de Cristo.}
 
-##### Errores comunes
-- explicar en lugar de decir
-- añadir palabras no presentes
-- omitir elementos
-- cambiar el sentido
+\headingsix{El argumento \fillin{mantiene} la misma secuencia:}
+- palabra
+- oír
+- fe
 
-##### Qué debes notar
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo ha respondido \fillin{a} la pregunta de cómo surge la fe.}
 
-###### Cuando lo haces correctamente:
-- la frase se mantiene fiel
-- el contenido es claro
-- puedes expresarla sin distorsión
+\headingsix{El siguiente versículo planteará una nueva \fillin{objeción}:}
+> “¿Acaso nunca han oído?”
 
-##### Formación
+### Romanos 10:18
+\begin{verseblock}
+Pero yo digo, ¿acaso nunca han oído? Ciertamente que sí: «POR TODA LA TIERRA HA SALIDO SU VOZ, Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
+\end{verseblock}
+#### Pero yo digo,
+\headingfive{Pablo introduce \fillin{una} nueva pregunta.}
 
-###### Este paso te entrena a:
-- hablar el texto con precisión
-- mantener su contenido
-- comunicar sin distorsionar
+\headingsix{El argumento continúa avanzando mediante objeciones \fillin{y} respuestas.}
 
-###### 👉 Te prepara para enseñar fielmente
+#### ¿acaso nunca han oído?
+\headingfive{Pablo formula \fillin{la} objeción de manera directa.}
 
-##### Frase clave final
-> “No busco lo oculto; expreso lo evidente.”
+\headingsix{Si la fe viene del oír, podría preguntarse si el \fillin{problema} fue que nunca oyeron.}
 
-##### Transición
-###### Ahora no solo ves el texto, puedes expresarlo correctamente.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{La} pregunta se enfoca en el oír.}
 
-###### 👉 Estás listo para someterte a lo que el texto dice.
+#### Ciertamente que sí:
+\headingfive{\fillin{Pablo} rechaza inmediatamente esa explicación.}
 
-# S — SINTETIZAR
+\headingsix{La respuesta es \fillin{enfática}.}
 
-## EJECUTA
+\headingsix{El problema no fue falta \fillin{de} oír.}
 
-##### ¿Qué haces?
-###### Verificas que la unidad se sostiene completamente y expresas su acción en una sola oración clara.
+\headingsix{Pablo descarta una posible explicación antes \fillin{de} continuar.}
 
-##### Regla
+#### «POR TODA LA TIERRA HA SALIDO SU VOZ,
+\headingfive{Pablo responde a la pregunta planteada en el versículo \fillin{anterior}.}
 
-###### Trabajas únicamente con:
-- la unidad delimitada (Paso 12)
-- los patrones extendidos (Paso 11)
-- el tronco (Paso 8)
+\headingsix{La cuestión \fillin{era}:}
+> «¿Acaso nunca han oído?»
 
-###### ❌ No agregas ideas
-###### ❌ No explicas
-###### ❌ No corriges el texto
+\headingsix{La respuesta de \fillin{Pablo} es:}
+> «Sí».
 
-- 👉 Solo verificas y expresas
+\headingsix{La cita es presentada como evidencia de \fillin{que} el mensaje ha sido dado a conocer.}
 
-##### Cómo hacerlo
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El énfasis recae sobre el alcance \fillin{del} anuncio.}
 
-1. Recorre toda la unidad desde el inicio hasta el final
+\headingsix{La explicación de Pablo no apunta \fillin{a} una falta de proclamación.}
 
-2. Confirma en cada línea:
-- 👉 pertenece a un patrón identificado
-- 👉 mantiene el comportamiento esperado
-- 👉 encaja en el flujo general
+\headingsix{El mensaje ha \fillin{salido}.}
 
-3. Haz esta pregunta clave:
-- 👉 ¿se sostiene toda la unidad sin romperse?
+#### Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
+\headingfive{La segunda línea amplía aún más el alcance de \fillin{la} cita.}
 
-##### Regla de control
-###### Si algo no encaja:
-- 👉 no sintetizas
-- 👉 vuelves a Paso 10–11
+\headingsix{La proclamación es presentada en términos \fillin{amplios}.}
 
-1. Si todo se sostiene:
-- 👉 escribe una sola oración usando este formato:
+\headingsix{El énfasis continúa \fillin{siendo} la difusión del mensaje.}
 
-- \textbf{[Autor] + [verbo permitido] + [contenido del tronco]}
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo descarta la idea de que \fillin{el} problema haya sido falta de oír.}
 
-##### Resultado esperado
-- 👉 Una sola oración que:
+\headingsix{La siguiente \fillin{pregunta} ya no será:}
+> «¿No oyeron?»
 
-- representa toda la unidad
-- refleja el flujo completo
-- no añade ni omite contenido
+\headingsix{\fillin{Sino}:}
+> «¿No entendieron?»
 
-## ENTIENDE
+\headingfive{Observación dentro del argumento \fillin{de} Romanos 9–11}
 
-##### Qué estás haciendo realmente
-###### Estás cerrando el proceso completo del análisis.
+\headingsix{Desde Romanos 9, Pablo ha estado mostrando que Dios ha hablado repetidamente \fillin{mediante} las Escrituras.}
 
-##### Principio clave
-###### No puedes sintetizar lo que no se sostiene.
+\headingsix{Ahora añade que el mensaje también ha sido \fillin{proclamado}.}
 
-##### Idea clave
-###### La síntesis no descubre.
+\headingsix{\fillin{La} explicación ya no puede encontrarse en la ausencia de palabra o de anuncio.}
 
-###### 👉 Confirma y expresa lo que ya es claro.
+\headingsix{El argumento continúa avanzando \fillin{hacia} la respuesta que se dio a ese mensaje.}
 
-##### Advertencia
-###### Si necesitas explicar, te saliste del paso.
+### Romanos 10:19
+\begin{verseblock}
+Y añado: ¿Acaso Israel no sabía? En primer lugar, Moisés dice: «YO LOS PROVOCARÉ A CELOS CON UN PUEBLO QUE NO ES PUEBLO; CON UN PUEBLO SIN ENTENDIMIENTO LOS PROVOCARÉ A IRA».
+\end{verseblock}
+#### Y añado: ¿Acaso Israel no sabía?
+\headingfive{Pablo \fillin{plantea} una nueva pregunta.}
 
-###### Si agregas ideas, te saliste del paso.
+\headingsix{El versículo anterior \fillin{respondió}:}
+> “¿No oyeron?”
 
-###### Si dudas, el flujo no está claro.
+\headingsix{\fillin{Ahora} la pregunta cambia.}
 
-##### Resultado mental esperado
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{El} problema ya no es oír.}
 
-###### Ahora tienes:
-- una unidad verificada
-- un flujo coherente
-- una expresión fiel del texto
+\headingsix{\fillin{La} pregunta ahora es:}
+> “¿Israel no sabía?”
 
-##### Frase clave final
-> “Solo expreso lo que el texto ya sostiene.”
+\headingsix{Pablo continúa avanzando mediante objeciones \fillin{y} respuestas.}
 
-# CIERRE
+#### En primer lugar, Moisés dice:
+\headingfive{Pablo introduce al \fillin{primer} testigo.}
 
-### Has llegado al final del proceso
-###### No comenzaste con ideas.
+\headingsix{La respuesta no comienza con una explicación \fillin{personal}.}
 
-###### No comenzaste con interpretación.
+\headingsix{\fillin{Comienza} con Moisés.}
 
-###### Comenzaste con el texto.
+\headingfive{\fillin{Observación} importante:}
 
-### Lo que hiciste
-###### Observaste cómo está construido
+\headingsix{Pablo responde la pregunta \fillin{apelando} nuevamente a las Escrituras.}
 
-###### Observaste lo que dice
+#### «YO LOS PROVOCARÉ A CELOS
+\headingfive{La cita anuncia una reacción \fillin{futura}.}
 
-###### Seguiste su desarrollo
+\headingsix{El énfasis recae sobre la \fillin{provocación} a celos.}
 
-### Y ahora
-###### No estás sobre el <u>texto</u>.
-- 👉 Estás bajo él
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El sujeto principal de la acción es \fillin{Dios}.}
 
-### Principio final
-###### El texto no necesita ser completado
+\headingsix{Dios mismo \fillin{anuncia} lo que hará.}
 
-###### El texto no necesita ser ajustado
-- 👉 El texto ya comunica
+#### CON UN PUEBLO QUE NO ES PUEBLO;
+\headingfive{La cita \fillin{identifica} el medio utilizado.}
 
-### Lo que queda
-###### No es explicar el texto
+\headingsix{La \fillin{provocación} ocurre mediante un pueblo descrito de manera inesperada:}
+> “un pueblo que no es pueblo”.
 
-###### No es defenderlo
-###### No es adaptarlo
-- 👉 Es dejar que el texto tenga la <u>última</u> palabra
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Esta expresión recuerda temas que ya \fillin{aparecieron} anteriormente en Romanos 9.}
 
-### Frase final
-```
-“Dios habló.
-Yo observo.
-Sigo el desarrollo del texto.
-Me someto al texto.”
-```
+#### CON UN PUEBLO SIN ENTENDIMIENTO
+\headingfive{La descripción \fillin{continúa}.}
 
-##### Última línea
-###### RO₁O₂TS no es un método para enseñar el texto.
-###### 👉 Es un proceso para dejar que el texto hable.
+\headingsix{El mismo grupo recibe \fillin{una} segunda caracterización.}
 
-# EJERCICIOS — PRÁCTICA REAL
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo todavía no explica la \fillin{cita}.}
 
-## PROPÓSITO
+\headingsix{Primero permite que Moisés \fillin{hable}.}
 
-##### Qué vas a hacer
+#### LOS PROVOCARÉ A IRA».
+\headingfive{La \fillin{cita} concluye con una segunda reacción.}
 
-###### Vas a ejecutar RO₁O₂TS en textos completos.
+\headingsix{Primero aparecieron los \fillin{celos}.}
 
-###### 👉 No fragmentos
+\headingsix{\fillin{Ahora} aparece la ira.}
 
-###### 👉 No niveles
+\headingsix{\fillin{La} respuesta de Pablo a la pregunta:}
+> “¿Israel no sabía?”
 
-###### 👉 No partes aisladas
+\headingsix{\fillin{comienza} con una cita de Moisés.}
 
-👉 Texto completo → proceso completo
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo añadirá un \fillin{segundo} testigo.}
 
-------
+\headingsix{Moisés será seguido por \fillin{Isaías}.}
 
-##### Regla clave
+### Romanos 10:20
+\begin{verseblock}
+E Isaías es muy osado, y dice: «FUI HALLADO POR LOS QUE NO ME BUSCABAN; ME MANIFESTÉ A LOS QUE NO PREGUNTABAN POR MÍ».
+\end{verseblock}
+#### E Isaías es muy osado, y dice:
+\headingfive{\fillin{Pablo} añade un segundo testigo.}
 
-###### ❗ Solo necesitas ver una cosa:
+\headingsix{Después de citar a \fillin{Moisés}, ahora cita a Isaías.}
 
-👉 \textbf{Qué pasa en Paso 10}
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La respuesta continúa \fillin{apoyándose} en las Escrituras.}
 
-- ¿hay patrón?
-- ¿se repite?
-- ¿se rompe?
+\headingsix{\fillin{Moisés} habló primero.}
 
-------
+\headingsix{Isaías \fillin{habla} ahora.}
 
-##### Límite
+#### «FUI HALLADO
+\headingfive{\fillin{La} cita comienza con una afirmación sorprendente.}
 
-###### Máximo 2 ejercicios.
+\headingsix{El énfasis no recae en la búsqueda de las \fillin{personas}.}
 
-###### 👉 Bien hechos
+\headingsix{Recae en el hecho de \fillin{ser} hallado.}
 
-###### 👉 No muchos
+#### POR LOS QUE NO ME BUSCABAN;
+\headingfive{La \fillin{cita} presenta un contraste inesperado.}
 
-------
+\headingsix{Los que hallaron no \fillin{son} descritos como personas que estaban buscando.}
 
-# EJERCICIO 1 — REPETICIÓN CLARA
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La ausencia de búsqueda es enfatizada \fillin{por} la propia cita.}
 
-##### TEXTO — 1 Corintios 3:6–8
+\headingsix{Sin embargo, \fillin{el} hallazgo ocurre igualmente.}
 
-```
-Yo planté, Apolos regó, pero Dios daba el crecimiento.
+#### ME MANIFESTÉ
+\headingfive{La misma idea \fillin{continúa} mediante una segunda expresión.}
 
-Así que ni el que planta ni el que riega son algo,
-sino Dios que da el crecimiento.
+\headingsix{La cita sigue destacando \fillin{la} iniciativa del hablante.}
 
-El que planta y el que riega son una misma cosa,
-pero cada uno recibirá su propia recompensa conforme a su labor.
-```
+\headingsix{Los dos \fillin{miembros} son paralelos:}
+- fui hallado
+- me manifesté
 
-------
+#### A LOS QUE NO PREGUNTABAN POR MÍ».
+\headingfive{\fillin{La} cita concluye con una segunda descripción negativa.}
 
-## EJECUTA
+\headingsix{\fillin{Primero}:}
+> no me buscaban
 
-1. Pasos 1–7 normalmente
-2. Identifica el tronco (Paso 8)
-3. Marca:
-   - [S]
-   - [M]
-   - etiquetas (Paso 9)
-4. Llega a Paso 10
+\headingsix{\fillin{Ahora}:}
+> no preguntaban por mí
 
-------
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{\fillin{Isaías} describe una situación inesperada.}
 
-## ENFOQUE
+\headingsix{Personas que no buscaban ni preguntaban terminan encontrando aquello que no estaban \fillin{buscando}.}
 
-##### Qué debes ver
+\headingsix{El siguiente \fillin{versículo} contrastará esta situación con Israel.}
 
-- repetición de ideas
-- contraste con Dios
-- continuidad del tema
+### Romanos 10:21
+\begin{verseblock}
+Pero en cuanto a Israel, dice: «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO DESOBEDIENTE Y REBELDE».
+\end{verseblock}
+#### Pero en cuanto a Israel, dice:
+\headingfive{Pablo \fillin{introduce} un contraste explícito.}
 
-👉 Este texto \textbf{sí tiene patrón claro}
+\headingsix{\fillin{El} versículo anterior describió a quienes no buscaban.}
 
-------
+\headingsix{Ahora \fillin{Pablo} dirige la atención directamente a Israel.}
 
-# EJERCICIO 2 — PROGRESIÓN CLARA
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El contraste \fillin{ya} no está implícito.}
 
-##### TEXTO — Colosenses 1:9–12
+\headingsix{\fillin{Israel} es mencionado por nombre.}
 
-```
-Por esta razón también nosotros, desde el día que lo supimos,
-no hemos cesado de orar por ustedes
+#### «TODO EL DÍA HE EXTENDIDO MIS MANOS
+\headingfive{\fillin{La} cita presenta una acción continua.}
 
-y de pedir que sean llenos del conocimiento de su voluntad
+\headingsix{El énfasis recae sobre la persistencia de \fillin{la} acción.}
 
-en toda sabiduría y comprensión espiritual,
+\headingsix{\fillin{La} expresión:}
+> “todo el día”
+- subraya esa continuidad.
 
-para que anden como es digno del Señor,
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La cita describe iniciativa constante \fillin{por} parte del hablante.}
 
-agradándole en todo,
+#### A UN PUEBLO DESOBEDIENTE Y REBELDE».
+\headingfive{La cita identifica \fillin{la} respuesta del pueblo.}
 
-dando fruto en toda buena obra
+\headingsix{El problema \fillin{descrito} no es falta de oportunidad.}
 
-y creciendo en el conocimiento de Dios;
+\headingsix{El problema es presentado en términos \fillin{de} respuesta.}
 
-fortalecidos con todo poder
+\headingsix{La cita \fillin{termina} con dos descripciones paralelas:}
+- desobediente
+- rebelde
 
-según la potencia de su gloria,
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Romanos 10 termina con \fillin{una} tensión clara:}
+- unos no buscaban y hallaron
+- Israel es descrito como desobediente y rebelde
 
-para obtener toda perseverancia y paciencia,
+\headingsix{Esta tensión conduce directamente a la \fillin{pregunta} que abre Romanos 11:}
+> “¿Acaso ha desechado Dios a Su pueblo?”
 
-con gozo dando gracias al Padre.
-```
+>En Síntesis
+>- Pablo contrasta dos respuestas distintas frente a la justicia de Dios.
+>- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al procurar establecer una justicia propia.
+>- Para explicar esta situación, Pablo dirige la atención a Cristo y afirma que Él es el fin de la ley para justicia a todo aquel que cree.
+>- Después apela a Moisés para mostrar que la palabra de Dios no estaba lejos, sino cerca, y desarrolla esa palabra en relación con Cristo, la fe y la respuesta a ella.
+Las Escrituras presentan una promesa amplia: «Todo el que cree», «Todo el que invoque el nombre del Señor»
+>- Finalmente, Pablo demuestra que el problema no fue falta de palabra, falta de anuncio ni falta de oportunidad.
+>- El mensaje fue proclamado, pero Israel es descrito como un pueblo desobediente y rebelde, preparando así la pregunta que abrirá Romanos 11: «¿Acaso ha desechado Dios a Su pueblo?»
 
-------
+<!-- @quiz quiz-2 -->
 
-## EJECUTA
+## Romanos 11:1–10 — Dios no ha rechazado a Su pueblo
 
-1. Pasos 1–7
-2. Paso 8 → tronco
-3. Paso 9 → etiquetas
-4. Paso 10 → patrón
+### Romanos 11:1
+\begin{verseblock}
+Digo entonces: ¿Acaso ha desechado Dios a Su pueblo? ¡De ningún modo! Porque yo también soy israelita, descendiente de Abraham, de la tribu de Benjamín.
+\end{verseblock}
+#### Digo entonces:
+\headingfive{Pablo extrae una conclusión \fillin{de} lo que acaba de decir.}
 
-------
+\headingsix{El versículo anterior terminó describiendo a \fillin{Israel} como:}
+- desobediente
+- rebelde
 
-## ENFOQUE
+\headingsix{\fillin{Ahora} Pablo plantea la pregunta que surge naturalmente de esa descripción.}
 
-##### Qué debes ver
+\headingsix{Romanos 11 comienza respondiendo \fillin{una} objeción.}
 
-- desarrollo progresivo
-- encadenamiento
-- avance continuo
+#### ¿Acaso ha desechado Dios a Su pueblo?
+\headingfive{\fillin{Pablo} formula la pregunta de manera directa.}
 
-👉 Este texto \textbf{no repite → avanza}
+\headingsix{\fillin{Después} de todo lo dicho sobre Israel, esta es la conclusión que podría parecer más evidente.}
 
-------
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La pregunta no es acerca de si Israel fue \fillin{desobediente}.}
 
-# ⚠️ REGLA FINAL
+\headingsix{\fillin{La} pregunta es si Dios ha rechazado a Su pueblo.}
 
-##### Si no ves Paso 10
+#### ¡De ningún modo!
+\headingfive{Pablo responde \fillin{inmediatamente}.}
 
-###### 👉 no hiciste bien Paso 8–9
+\headingsix{No \fillin{deja} la pregunta abierta.}
 
-------
+\headingsix{\fillin{La} respuesta es una negación enfática.}
 
-- # RESPUESTAS — CORREGIDO
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La \fillin{conclusión} correcta no es:}
+> “Dios ha rechazado a Su pueblo”.
 
-  ------
+#### Porque yo también soy israelita,
+\headingfive{Pablo presenta \fillin{una} evidencia personal.}
 
-  # RESPUESTA 1 — 1 Corintios 3:6–8
+\headingsix{Su \fillin{respuesta} no comienza con una teoría.}
 
-  ## PASO 8 — TRONCO
+\headingsix{Comienza \fillin{con} un hecho.}
 
-  ```
-  [S: yo → Apolos]
-  Apolos ==regó==
-  
-  [S: Apolos → Dios]
-  (pero) Dios ==daba==
-  
-  [S: Dios → ellos]
-  no ==son== algo
-  
-  [S: ellos → Dios]
-  (sino) Dios ==da==
-  
-  [S: Dios → ellos]
-  ==son== una misma cosa
-  
-  [S: ellos → cada uno]
-  (pero) cada uno ==recibirá==
-  ```
+\headingfive{Observación \fillin{importante}:}
 
-  👉 No [M] (no cambio estructural verificable en griego)
+\headingsix{\fillin{Pablo} se identifica explícitamente como israelita.}
 
-  ------
+\headingsix{Su \fillin{propia} existencia forma parte de la respuesta que está construyendo.}
 
-  ## PASO 9 — COMPORTAMIENTO
+#### descendiente de Abraham,
+\headingfive{Pablo \fillin{añade} una segunda identificación.}
 
-  ```
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
+\headingsix{No solamente \fillin{afirma} ser israelita.}
 
-  ------
+\headingsix{También afirma pertenecer \fillin{a} la descendencia de Abraham.}
 
-  ## PASO 10 — SECCIONES
+#### de la tribu de Benjamín.
+\headingfive{Pablo completa la \fillin{identificación}.}
 
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  Apolos ==regó==
-  
-  ::CONTRASTE::
-  Dios ==daba==
-  
-  ::RAZÓN::
-  no ==son== algo
-  
-  ::CONTRASTE::
-  Dios ==da==
-  
-  ::EXPONE::
-  ==son== una misma cosa
-  
-  ::CONTRASTE::
-  cada uno ==recibirá==
-  ```
+\headingsix{La referencia se vuelve aún \fillin{más} específica.}
 
-  👉 ❗ No hay [M]
-   👉 ❗ Todo es UNA sola sección
+\headingsix{\fillin{Pablo} señala incluso su tribu.}
 
-  ------
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{\fillin{La} respuesta de Pablo comienza con su propio caso.}
 
-  ## RESULTADO CLAVE
+\headingsix{En los versículos siguientes ampliará el argumento y mostrará que su \fillin{caso} no es una excepción aislada.}
 
-  👉 El estudiante debe ver:
+\headingsix{La discusión se moverá hacia el tema \fillin{del} remanente.}
 
-  - continuidad (no ruptura)
-  - contraste repetido
-  - pero SIN división estructural
+### Romanos 11:2
+\begin{verseblock}
+Dios no ha desechado a Su pueblo, al cual conoció con anterioridad. ¿O no saben lo que dice la Escritura en el pasaje sobre Elías, cómo suplica a Dios contra Israel:
+\end{verseblock}
+#### Dios no ha desechado a Su pueblo,
+\headingfive{Pablo \fillin{repite} la respuesta dada en el versículo anterior.}
 
-  ------
+\headingsix{\fillin{La} pregunta fue:}
+> “¿Acaso ha desechado Dios a Su pueblo?”
 
-  # RESPUESTA 2 — Colosenses 1:9–14
+\headingsix{La respuesta continúa siendo \fillin{la} misma:}
+> “Dios no ha desechado a Su pueblo”.
 
-  ## PASO 8 — TRONCO
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo transforma la negación del versículo anterior en una \fillin{afirmación} directa.}
 
-  ```
-  [S: nosotros]
-  no ==hemos cesado==
-  
-  [S: nosotros → ustedes]
-  ==sean llenos== 
-  
-  ==anden==
-  
-  ==agraden==
-  
-  ==den fruto==
-  
-  ==crezcan==
-  
-  ==sean fortalecidos==
-  
-  ==obtengan==
-  
-  ==den gracias==
-  ```
+#### al cual conoció con anterioridad.
+\headingfive{Pablo \fillin{añade} una descripción del pueblo.}
 
-  👉 No [M]
-   👉 Todo depende de estructura continua
+\headingsix{El pueblo mencionado no aparece como un grupo desconocido \fillin{para} Dios.}
 
-  ------
+\headingsix{Pablo lo describe como un pueblo que Dios conoció \fillin{con} anterioridad.}
 
-  ## PASO 9 — COMPORTAMIENTO
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo todavía no desarrolla \fillin{esta} afirmación.}
 
-  ```
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
+\headingsix{Primero dirigirá la atención a \fillin{un} episodio de las Escrituras.}
 
-  ------
+#### ¿O no saben lo que dice la Escritura en el pasaje sobre Elías,
+\headingfive{Pablo \fillin{introduce} un nuevo testigo.}
 
-  ## PASO 10 — SECCIONES
+\headingsix{Después de \fillin{utilizar} a Moisés e Isaías en Romanos 10, ahora dirige la atención hacia Elías.}
 
-  ```
-  [ SECCIÓN 1 ]
-  
-  ::EXPONE::
-  no ==hemos cesado==
-  
-  ::RAZÓN::
-  ==sean llenos==
-  
-  ::RESULTADO::
-  ==anden==
-  
-  ::RESULTADO::
-  ==agraden==
-  
-  ::RESULTADO::
-  ==den fruto==
-  
-  ::RESULTADO::
-  ==crezcan==
-  
-  ::RESULTADO::
-  ==sean fortalecidos==
-  
-  ::RESULTADO::
-  ==obtengan==
-  
-  ::RESULTADO::
-  ==den gracias==
-  ```
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo sigue respondiendo \fillin{mediante} las Escrituras.}
 
-  👉 ❗ No hay [M]
-   👉 ❗ Una sola sección continua
+\headingsix{La respuesta no depende solamente de su \fillin{experiencia} personal.}
 
-# GLOSARIO BÁSICO
+#### cómo suplica a Dios contra Israel:
+\headingfive{Pablo \fillin{identifica} el momento específico que tiene en mente.}
 
-### VERBO
-##### Palabra que expresa una acción o estado.
+\headingsix{No menciona simplemente a \fillin{Elías}.}
 
-### SUJETO
-##### Quien realiza la acción del verbo.
+\headingsix{Menciona una ocasión en la que Elías habló a Dios \fillin{acerca} de Israel.}
 
-### COMPLEMENTO
-###### Lo que recibe o completa la acción del verbo.
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Los \fillin{versículos} siguientes citarán las palabras de Elías.}
 
-### CLÁUSULA
-###### Unidad con verbo que expresa una idea.
+\headingsix{\fillin{Primero} escucharemos la evaluación de Elías.}
 
-### CONECTOR
-###### Palabra que une cláusulas y muestra su relación.
+\headingsix{Después escucharemos la \fillin{respuesta} de Dios.}
 
-### TRONCO
-###### Conjunto de cláusulas principales que sostienen el desarrollo del texto.
+### Romanos 11:3
+\begin{verseblock}
+«Señor, HAN DADO MUERTE A TUS PROFETAS, HAN DERRIBADO TUS ALTARES; Y SOLO YO HE QUEDADO Y ATENTAN CONTRA MI VIDA».
+\end{verseblock}
+#### «Señor, HAN DADO MUERTE A TUS PROFETAS,
+\headingfive{Elías comienza \fillin{describiendo} la situación que observa.}
 
-### COMPORTAMIENTO
-###### Función que una cláusula cumple dentro del desarrollo del texto.
+\headingsix{Su atención \fillin{se} dirige a los profetas del Señor.}
 
-### PATRÓN
-###### Secuencia de comportamiento que se repite.
+\headingsix{\fillin{La} situación presentada es grave.}
 
-### UNIDAD
-###### Tramo completo donde el mismo desarrollo se mantiene.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Elías presenta una evaluación muy negativa del estado \fillin{de} Israel.}
 
-### MORFOLOGÍA
-###### Forma de una palabra y lo que esa forma indica.
+#### HAN DERRIBADO TUS ALTARES;
+\headingfive{Elías añade una segunda \fillin{acusación}.}
 
-### VERBO FINITO
-###### Verbo que está conjugado y expresa persona y número.
+\headingsix{La descripción continúa acumulando evidencias de deterioro y \fillin{oposición}.}
 
-### TIEMPO (VERBO)
-###### Indica cuándo ocurre la acción (pasado, presente, futuro).
+\headingsix{La percepción de Elías \fillin{se} vuelve cada vez más sombría.}
 
-### MODO (VERBO)
-###### Indica cómo se presenta la acción.
-- indicativo → como real
-- subjuntivo → como posibilidad o condición
-- imperativo → como mandato
+#### Y SOLO YO HE QUEDADO
+\headingfive{Elías pasa de describir \fillin{al} pueblo a describirse a sí mismo.}
 
-### VOZ
-###### Relación entre el sujeto y la acción.
-- activa → el sujeto hace la acción
-- pasiva → el sujeto recibe la acción
+\headingsix{La atención \fillin{se} mueve desde:}
+- tus profetas
+- tus altares
 
-### PERSONA
-###### Quién realiza la acción.
-- primera → yo / nosotros
-- segunda → tú / ustedes
-- tercera → él / ellos
+\headingsix{\fillin{hacia}:}
+- yo
 
-### NÚMERO
-###### Cantidad del sujeto.
-- singular → uno
-- plural → más de uno
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Elías se \fillin{percibe} como el único que permanece.}
 
-### NOMINATIVO
-###### Caso que normalmente indica el sujeto.
+\headingsix{La sensación dominante \fillin{es} aislamiento.}
 
-### ACUSATIVO
-###### Caso que normalmente indica el objeto directo.
+#### Y ATENTAN CONTRA MI VIDA».
+\headingfive{\fillin{La} queja culmina con una amenaza personal.}
 
-### GENITIVO
-###### Caso que indica relación o posesión.
+\headingsix{Elías no solamente se \fillin{siente} solo.}
 
-### DATIVO
-###### Caso que indica destinatario o beneficio.
+\headingsix{También se siente \fillin{perseguido}.}
 
-### VOCATIVO
-###### Caso que indica llamado directo.
+\headingsix{La evaluación de Elías termina en \fillin{una} conclusión implícita:}
+> “Solo yo he quedado”.
 
-### INDICATIVO
-###### Modo verbal que presenta la acción como real.
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo mostrará que la evaluación de Elías no refleja \fillin{toda} la realidad.}
 
-### SUBJUNTIVO
-###### Modo verbal que presenta la acción como posible o condicionada.
+\headingsix{\fillin{Ahora} hablará Dios.}
 
-### IMPERATIVO
-###### Modo verbal que expresa mandato.
+### Romanos 11:4
+\begin{verseblock}
+Pero, ¿qué le dice la respuesta divina?: «ME HE RESERVADO SIETE MIL HOMBRES QUE NO HAN DOBLADO LA RODILLA A BAAL».
+\end{verseblock}
+#### Pero, ¿qué le dice la respuesta divina?
+\headingfive{Pablo dirige \fillin{la} atención a la respuesta de Dios.}
 
-### CONTRASTE
-###### Relación donde una idea se opone a otra.
+\headingsix{El versículo anterior \fillin{presentó} la evaluación de Elías.}
 
-### REPETICIÓN
-###### Elemento que aparece más de una vez en el texto.
+\headingsix{Ahora \fillin{escucharemos} la respuesta divina.}
 
-### ÉNFASIS
-###### Elemento que el texto resalta por repetición, posición o contraste.
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La percepción de Elías no es la \fillin{palabra} final.}
+
+\headingsix{La respuesta de Dios sí lo \fillin{es}.}
+
+#### «ME HE RESERVADO
+\headingfive{Dios describe una acción \fillin{realizada} por Él mismo.}
+
+\headingsix{El énfasis recae \fillin{sobre} lo que Dios hizo.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La respuesta \fillin{no} comienza con Elías.}
+
+\headingsix{Comienza \fillin{con} Dios.}
+
+#### SIETE MIL HOMBRES
+\headingfive{La respuesta corrige la \fillin{percepción} de Elías.}
+
+\headingsix{Elías había \fillin{dicho}:}
+> “solo yo he quedado”
+
+\headingsix{Dios muestra que la realidad era \fillin{diferente}.}
+
+\headingsix{El problema no era la ausencia total de \fillin{fieles}.}
+
+\headingsix{\fillin{El} problema era la percepción limitada de Elías.}
+
+#### QUE NO HAN DOBLADO LA RODILLA A BAAL».
+\headingfive{Dios identifica \fillin{la} característica de estos hombres.}
+
+\headingsix{Son descritos por aquello que no \fillin{hicieron}.}
+
+\headingsix{\fillin{No} se inclinaron ante Baal.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La respuesta de Dios \fillin{demuestra} que no todo Israel había abandonado al Señor.}
+
+\headingsix{El siguiente versículo aplicará este \fillin{mismo} patrón al tiempo presente.}
+
+### Romanos 11:5
+\begin{verseblock}
+Y de la misma manera, también ha quedado en el tiempo presente un remanente conforme a la elección de la gracia de Dios.
+\end{verseblock}
+#### Y de la misma manera,
+\headingfive{Pablo extrae la \fillin{conclusión} del caso de Elías.}
+
+\headingsix{El \fillin{episodio} no fue citado solamente como historia.}
+
+\headingsix{Pablo lo utiliza como modelo para entender la \fillin{situación} actual.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Elías y el tiempo presente son colocados en \fillin{paralelo}.}
+
+#### también ha quedado en el tiempo presente
+\headingfive{Pablo aplica \fillin{el} patrón al presente.}
+
+\headingsix{Lo que ocurrió en los días de \fillin{Elías} también tiene una correspondencia en el ahora.}
+
+\headingsix{El argumento se \fillin{mueve} de:}
+- entonces
+- ahora
+
+#### un remanente
+\headingfive{\fillin{Pablo} identifica la realidad presente.}
+
+\headingsix{\fillin{La} respuesta a la pregunta de Romanos 11:1 continúa desarrollándose.}
+
+\headingsix{Dios no ha rechazado a Su \fillin{pueblo}.}
+
+\headingsix{Existe \fillin{un} remanente.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El remanente \fillin{ocupa} ahora el centro del argumento.}
+
+#### conforme a la elección de la gracia de Dios.
+\headingfive{Pablo \fillin{añade} la descripción del remanente.}
+
+\headingsix{No solamente \fillin{afirma} que existe.}
+
+\headingsix{También describe la base \fillin{sobre} la cual existe.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo explicará la relación \fillin{entre} gracia y obras.}
+
+\headingsix{La \fillin{atención} se moverá hacia la palabra:}
+> “gracia”.
+
+### Romanos 11:6
+\begin{verseblock}
+Pero si es por gracia, ya no es a base de obras, de otra manera la gracia ya no es gracia.
+\end{verseblock}
+#### Pero si es por gracia,
+\headingfive{Pablo desarrolla la descripción del remanente del \fillin{versículo} anterior.}
+
+\headingsix{El remanente existe según la \fillin{elección} de la gracia de Dios.}
+
+\headingsix{Ahora Pablo se concentra en \fillin{la} palabra:}
+> gracia
+
+#### ya no es a base de obras,
+\headingfive{Pablo establece un \fillin{contraste}.}
+
+\headingsix{Presenta \fillin{dos} categorías distintas:}
+- gracia
+- obras
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo \fillin{no} las presenta como fundamentos combinados.}
+
+\headingsix{\fillin{Las} presenta como categorías diferentes.}
+
+#### de otra manera la gracia ya no es gracia.
+\headingfive{Pablo \fillin{explica} la razón.}
+
+\headingsix{\fillin{Si} la base fuera otra, la gracia dejaría de ser gracia.}
+
+\headingsix{\fillin{El} énfasis del versículo no recae sobre las obras.}
+
+\headingsix{Recae sobre la naturaleza \fillin{de} la gracia.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Después de \fillin{aclarar} la base del remanente, Pablo volverá a la situación general de Israel.}
+
+### Romanos 11:7
+\begin{verseblock}
+Entonces ¿qué? Aquello que Israel busca no lo ha alcanzado, pero los que fueron escogidos lo alcanzaron y los demás fueron endurecidos.
+\end{verseblock}
+#### Entonces ¿qué?
+\headingfive{Pablo \fillin{extrae} una conclusión.}
+
+\headingsix{Después de hablar del remanente \fillin{y} de la gracia, ahora resume la situación.}
+
+\headingsix{\fillin{La} pregunta prepara una respuesta resumida.}
+
+#### Aquello que Israel busca no lo ha alcanzado,
+\headingfive{Pablo \fillin{comienza} con el resultado relacionado con Israel.}
+
+\headingsix{Israel aparece \fillin{buscando}.}
+
+\headingsix{Sin embargo, no \fillin{alcanza} aquello que busca.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo enfatiza el contraste \fillin{entre} búsqueda y resultado.}
+
+#### pero los que fueron escogidos lo alcanzaron
+\headingfive{\fillin{Pablo} presenta el contraste.}
+
+\headingsix{Lo que Israel no alcanzó, otro \fillin{grupo} sí lo alcanzó.}
+
+\headingsix{El versículo queda dividido en dos \fillin{resultados} diferentes:}
+- no alcanzó
+- alcanzó
+
+#### y los demás fueron endurecidos;
+\headingfive{Pablo \fillin{añade} un tercer grupo.}
+
+\headingsix{Primero habló de \fillin{Israel}.}
+
+\headingsix{\fillin{Después} habló de los escogidos.}
+
+\headingsix{Ahora \fillin{habla} de los demás.}
+
+\headingfive{\fillin{Observación} importante:}
+
+\headingsix{El versículo \fillin{termina} con la palabra:}
+> endurecidos
+
+\headingsix{Esa afirmación será desarrollada y respaldada por las Escrituras en los versículos \fillin{siguientes}.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Pablo ha resumido la situación actual en tres \fillin{declaraciones}:}
+- Israel busca
+- la elección alcanza
+- los demás son endurecidos
+
+\headingsix{Los \fillin{versículos} siguientes explicarán este endurecimiento con citas de las Escrituras.}
+
+### Romanos 11:8
+\begin{verseblock}
+tal como está escrito: «DIOS LES DIO UN ESPÍRITU EMBOTADO, OJOS CON QUE NO VEN Y OÍDOS CON QUE NO OYEN, HASTA EL DÍA DE HOY».
+\end{verseblock}
+#### tal como está escrito:
+\headingfive{Pablo apoya con \fillin{las} Escrituras la afirmación que acaba de hacer.}
+
+\headingsix{El \fillin{versículo} anterior terminó diciendo:}
+> “los demás fueron endurecidos”.
+
+\headingsix{Ahora Pablo muestra que este patrón ya estaba \fillin{escrito}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo no presenta el endurecimiento como \fillin{una} idea nueva.}
+
+\headingsix{Lo apoya \fillin{con} las Escrituras.}
+
+#### «DIOS LES DIO UN ESPÍRITU EMBOTADO,
+\headingfive{La cita describe una \fillin{condición} dada por Dios.}
+
+\headingsix{El énfasis recae \fillin{en} la incapacidad de responder correctamente.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo continúa explicando el endurecimiento \fillin{mencionado} en el versículo anterior.}
+
+#### OJOS CON QUE NO VEN
+\headingfive{\fillin{La} cita utiliza la imagen de los ojos.}
+
+\headingsix{Los ojos \fillin{están} presentes.}
+
+\headingsix{Sin \fillin{embargo}, no ven.}
+
+\headingsix{La descripción \fillin{apunta} a una falta de percepción.}
+
+#### Y OÍDOS CON QUE NO OYEN,
+\headingfive{La cita añade una segunda \fillin{imagen} paralela.}
+
+\headingsix{Ahora la atención se dirige a \fillin{los} oídos.}
+
+\headingsix{Los oídos \fillin{están} presentes.}
+
+\headingsix{Sin \fillin{embargo}, no oyen.}
+
+\headingsix{Los dos paralelos comunican la \fillin{misma} idea:}
+- ojos que no ven
+- oídos que no oyen
+
+#### HASTA EL DÍA DE HOY».
+\headingfive{La cita añade \fillin{una} referencia temporal.}
+
+\headingsix{La condición descrita no aparece \fillin{como} algo momentáneo.}
+
+\headingsix{La cita la \fillin{presenta} como una realidad que continúa hasta el presente.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+
+\headingsix{Pablo sigue \fillin{explicando} el endurecimiento mencionado en Romanos 11:7.}
+
+\headingsix{El \fillin{siguiente} versículo añadirá otro testigo de las Escrituras.}
+
+\headingsix{Después de Moisés e Isaías, ahora \fillin{aparecerá} David.}
+
+### Romanos 11:9
+\begin{verseblock}
+Y David dice: «SU BANQUETE SE CONVIERTA EN LAZO Y EN TRAMPA, Y EN PIEDRA DE TROPIEZO Y EN RETRIBUCIÓN PARA ELLOS.
+\end{verseblock}
+#### Y David dice:
+\headingfive{Pablo añade otro testigo de las \fillin{Escrituras}.}
+
+\headingsix{Después de la cita \fillin{anterior}, ahora introduce a David.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{Pablo} continúa respaldando su argumento mediante las Escrituras.}
+
+\headingsix{El \fillin{endurecimiento} mencionado en Romanos 11:7 sigue siendo el tema.}
+
+#### «SU BANQUETE
+\headingfive{La cita comienza con algo que \fillin{normalmente} se asociaría con provisión y bienestar.}
+
+\headingsix{La atención se dirige a aquello \fillin{que} pertenece a ellos.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Lo que sigue \fillin{mostrará} una inversión inesperada.}
+
+#### SE CONVIERTA EN LAZO
+\headingfive{La cita presenta un cambio de \fillin{función}.}
+
+\headingsix{Lo que estaba \fillin{delante} de ellos se convierte en ocasión de captura.}
+
+\headingsix{\fillin{La} cita comienza una serie de imágenes negativas.}
+
+#### Y EN TRAMPA,
+\headingfive{David añade una segunda \fillin{imagen}.}
+
+\headingsix{\fillin{La} idea anterior es reforzada mediante una expresión paralela.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La \fillin{acumulación} de imágenes aumenta la intensidad de la descripción.}
+
+#### Y EN PIEDRA DE TROPIEZO
+\headingfive{La cita continúa desarrollando la \fillin{misma} idea.}
+
+\headingsix{Ahora aparece \fillin{el} lenguaje de tropiezo.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+
+\headingsix{El tema del tropiezo ya ha aparecido \fillin{anteriormente} en Romanos.}
+
+\headingsix{La \fillin{imagen} vuelve a surgir dentro de esta descripción.}
+
+#### Y EN RETRIBUCIÓN PARA ELLOS.
+\headingfive{La cita concluye con \fillin{una} consecuencia.}
+
+\headingsix{La secuencia termina con una \fillin{referencia} a retribución.}
+
+\headingsix{La cita presenta \fillin{una} cadena creciente:}
+- lazo
+- trampa
+- tropiezo
+- retribución
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{David continúa describiendo la condición que \fillin{Pablo} está utilizando para explicar el endurecimiento.}
+
+\headingsix{La cita todavía no ha \fillin{terminado}.}
+
+\headingsix{El siguiente versículo añadirá una segunda línea \fillin{a} la misma declaración de David.}
+
+### Romanos 11:10
+\begin{verseblock}
+«OSCURÉZCANSE SUS OJOS PARA QUE NO PUEDAN VER, Y DOBLA SUS ESPALDAS PARA SIEMPRE».
+\end{verseblock}
+#### OSCURÉZCANSE SUS OJOS
+\headingfive{David continúa \fillin{describiendo} la condición presentada en la cita anterior.}
+
+\headingsix{La imagen vuelve a enfocarse en \fillin{la} incapacidad de percibir.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La descripción es paralela a lo que ya apareció \fillin{en} Romanos 11:8.}
+
+\headingsix{El \fillin{tema} sigue siendo el endurecimiento.}
+
+#### PARA QUE NO PUEDAN VER,
+\headingfive{La cita explica el resultado \fillin{de} la imagen anterior.}
+
+\headingsix{Los ojos están \fillin{presentes}.}
+
+\headingsix{Sin \fillin{embargo}, no ven.}
+
+\headingsix{La \fillin{misma} idea se repite una vez más:}
+- ojos
+- incapacidad para ver
+
+#### Y DOBLA SUS ESPALDAS PARA SIEMPRE».
+\headingfive{David añade una \fillin{segunda} imagen.}
+
+\headingsix{Ahora la atención \fillin{se} dirige a la espalda.}
+
+\headingsix{\fillin{La} descripción comunica una condición continua.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La cita concluye reforzando la \fillin{realidad} descrita en Romanos 11:7.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Después de confirmar el endurecimiento mediante \fillin{las} Escrituras, Pablo formulará una nueva pregunta.}
+
+\headingsix{La siguiente cuestión \fillin{ya} no será:}
+> “¿Fueron endurecidos?”
+
+\headingsix{\fillin{Sino}:}
+> “¿Tropezaron para caer?”
+
+> En Síntesis
+>- Pablo responde directamente a la pregunta: «¿Acaso ha desechado Dios a Su pueblo?» Su respuesta es clara desde el comienzo: «¡De ningún modo!»
+>- Para demostrarlo, Pablo apela primero a su propio caso y luego al ejemplo de Elías, mostrando que Dios siempre ha preservado un remanente.
+>- El mismo patrón continúa en el tiempo presente: Existe un remanente conforme a la elección de la gracia de Dios.
+>- Pablo afirma que aquello que Israel buscaba no lo alcanzó, mientras que los escogidos lo alcanzaron y los demás fueron endurecidos.
+>- Finalmente, apela nuevamente a las Escrituras para mostrar que este endurecimiento no es una realidad inesperada ni ajena al testimonio bíblico.
+>- La siguiente sección planteará una nueva pregunta: «¿Acaso tropezaron para caer?»
+
+## Romanos 11:11–32 — El propósito de Dios permanece
+
+\headingfive{Hasta \fillin{este} punto Pablo ha demostrado que existe un remanente.}
+
+\headingfive{Ahora comienza a explicar por qué el tropiezo actual de Israel no \fillin{es} el final de la historia.}
+
+\headingfive{Romanos 11:11–32 avanza \fillin{repetidamente} desde:}
+\headingsix{\fillin{rechazo} presente}
+\headingsix{↓}
+\headingsix{beneficio \fillin{para} los gentiles}
+\headingsix{↓}
+\headingsix{restauración \fillin{futura} de Israel}
+
+### Romanos 11:11
+\begin{verseblock}
+Digo entonces: ¿Acaso tropezaron para caer? ¡De ningún modo! Pero por su transgresión ha venido la salvación a los gentiles, para causarles celos.
+\end{verseblock}
+#### Digo entonces:
+\headingfive{\fillin{Pablo} introduce una nueva pregunta.}
+
+\headingsix{La pregunta surge directamente de la discusión \fillin{anterior} acerca de Israel.}
+
+\headingsix{Después de hablar del remanente y \fillin{del} endurecimiento, Pablo continúa desarrollando el tema.}
+
+#### ¿Acaso tropezaron para caer?
+\headingfive{Pablo \fillin{formula} la pregunta que va a dirigir esta sección.}
+
+\headingsix{\fillin{El} versículo gira alrededor de dos ideas:}
+- tropezar
+- caer
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La pregunta busca aclarar \fillin{el} significado del tropiezo de Israel.}
+
+\headingsix{\fillin{El} resto de la sección desarrollará esta cuestión.}
+
+#### ¡De ningún modo!
+\headingfive{Pablo responde \fillin{inmediatamente}.}
+
+\headingsix{La respuesta \fillin{es} enfática.}
+
+\headingsix{Pablo rechaza la conclusión implícita en \fillin{la} pregunta.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El versículo no permite concluir \fillin{que} el tropiezo sea el final de la historia.}
+
+\headingsix{Pablo continúa desarrollando el argumento después de negar esa \fillin{conclusión}.}
+
+#### Pero por su transgresión ha venido la salvación a los gentiles,
+\headingfive{Pablo introduce una \fillin{consecuencia} del tropiezo de Israel.}
+
+\headingsix{La atención se desplaza \fillin{hacia} aquello que ocurrió a partir de su transgresión.}
+
+\headingsix{\fillin{El} resultado mencionado es:}
+> «la salvación a los gentiles».
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no se detiene \fillin{en} la transgresión misma.}
+
+\headingsix{Dirige la atención hacia lo que ocurrió a partir \fillin{de} ella.}
+
+#### para causarles celos.
+\headingfive{\fillin{Pablo} añade un propósito adicional.}
+
+\headingsix{La llegada de la salvación a los gentiles no es presentada como \fillin{el} punto final del argumento.}
+
+\headingsix{Pablo afirma que también \fillin{tiene} relación con Israel.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Este tema \fillin{volverá} a aparecer en los versículos siguientes.}
+
+\headingsix{La sección \fillin{comienza} con una secuencia que continuará desarrollándose:}
+- transgresión
+- salvación a los gentiles
+- celos
+
+\headingsix{Los versículos posteriores ampliarán cada uno \fillin{de} estos elementos.}
+
+### Romanos 11:12
+\begin{verseblock}
+Y si su transgresión es riqueza para el mundo, y su fracaso es riqueza para los gentiles, ¡cuánto más será su plenitud!
+\end{verseblock}
+#### Y si su transgresión es riqueza para el mundo,
+\headingfive{Pablo \fillin{continúa} desarrollando la afirmación del versículo anterior.}
+
+\headingsix{Acaba de decir que por su transgresión vino la salvación a \fillin{los} gentiles.}
+
+\headingsix{Ahora considera las implicaciones de ese \fillin{hecho}.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La transgresión de Israel es \fillin{asociada} con riqueza para el mundo.}
+
+\headingsix{Pablo sigue describiendo aquello que \fillin{resultó} de su transgresión.}
+
+#### y su fracaso es riqueza para los gentiles,
+
+\headingfive{Pablo repite la misma idea mediante una \fillin{expresión} paralela.}
+
+\headingsix{\fillin{El} resultado continúa siendo:}
+- riqueza
+- para los gentiles
+
+\headingsix{Los dos primeros \fillin{miembros} avanzan juntos.}
+
+\headingsix{\fillin{Ambos} describen lo que ocurrió a partir de la situación de Israel.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo todavía está hablando de \fillin{resultados} ya ocurridos.}
+
+\headingsix{Todavía no ha llegado al \fillin{punto} principal de la comparación.}
+
+#### ¡cuánto más será su plenitud!
+
+\headingfive{Pablo llega \fillin{al} clímax de la comparación.}
+
+\headingsix{El \fillin{énfasis} recae sobre:}
+> «cuánto más».
+
+\headingsix{Después de describir los resultados de la transgresión y del \fillin{fracaso}, dirige la atención hacia la plenitud.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La \fillin{comparación} no termina con la transgresión.}
+
+\headingsix{Tampoco termina \fillin{con} el fracaso.}
+
+\headingsix{\fillin{Pablo} dirige la mirada hacia algo que llama:}
+> «su plenitud».
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El argumento \fillin{comienza} a mirar más allá de la situación presente.}
+
+\headingsix{Pablo establece \fillin{una} comparación entre:}
+- transgresión
+- fracaso
+
+\headingsix{\fillin{y}}
+- plenitud
+
+\headingsix{Los \fillin{versículos} siguientes continuarán desarrollando esta expectativa.}
+
+### Romanos 11:13
+\begin{verseblock}
+Pero a ustedes hablo, gentiles. Entonces, puesto que yo soy apóstol de los gentiles, honro mi ministerio,
+\end{verseblock}
+#### Pero a ustedes hablo, gentiles.
+\headingfive{Pablo se \fillin{dirige} ahora directamente a los gentiles.}
+
+\headingsix{Esta es la primera vez en la sección que identifica \fillin{tan} claramente a su audiencia inmediata.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El foco del \fillin{discurso} cambia.}
+
+\headingsix{Pablo comienza a hablar \fillin{directamente} a las naciones.}
+
+#### puesto que yo soy apóstol de los gentiles,
+\headingfive{Pablo explica por qué les habla \fillin{de} esta manera.}
+
+\headingsix{Su ministerio está relacionado directamente \fillin{con} ellos.}
+
+\headingsix{Pablo conecta sus palabras \fillin{con} su propia misión.}
+
+#### honro mi ministerio,
+\headingfive{Pablo \fillin{afirma} el valor de su servicio.}
+
+\headingsix{No minimiza su \fillin{ministerio}.}
+
+\headingsix{Lo presenta \fillin{como} algo importante dentro del propósito de Dios.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+
+\headingsix{El \fillin{siguiente} versículo explicará por qué Pablo habla así a los gentiles.}
+
+\headingsix{Aparecerá nuevamente un tema ya mencionado \fillin{anteriormente}:}
+> provocar celos.
+
+### Romanos 11:14
+\begin{verseblock}
+si en alguna manera puedo causar celos a mis compatriotas y salvar a algunos de ellos.
+\end{verseblock}
+#### si en alguna manera
+
+\headingfive{Pablo expresa una esperanza relacionada con \fillin{su} ministerio.}
+
+\headingsix{No presenta el resultado \fillin{como} algo automático.}
+
+\headingsix{Habla de aquello \fillin{que} espera alcanzar mediante el ministerio que desarrolla entre los gentiles.}
+#### puedo causar celos a mis compatriotas
+\headingfive{Pablo retoma un tema que ya apareció anteriormente en esta \fillin{sección}.}
+
+\headingsix{Romanos 11:11 \fillin{afirmó}:}
+> «por su transgresión ha venido la salvación a los gentiles, para causarles celos».
+
+\headingsix{Ahora Pablo vuelve a mencionar esa misma \fillin{idea}.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Los \fillin{celos} continúan formando parte del desarrollo del argumento.}
+
+\headingsix{Pablo sigue describiendo un proceso que involucra tanto a los \fillin{gentiles} como a Israel.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La secuencia \fillin{continúa} avanzando:}
+
+- salvación a los gentiles
+- celos
+- salvación
+
+#### y salvar a algunos de ellos.
+
+\headingfive{Pablo expresa \fillin{el} propósito que persigue.}
+
+\headingsix{No busca simplemente \fillin{provocar} una reacción.}
+
+\headingsix{Su esperanza es que algunos sean \fillin{salvados}.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El ministerio \fillin{de} Pablo entre los gentiles continúa conectado con Israel.}
+
+\headingsix{Su mirada permanece \fillin{puesta} en su propio pueblo.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El \fillin{siguiente} versículo ampliará la comparación iniciada anteriormente.}
+
+\headingsix{Después de \fillin{hablar} de transgresión, riqueza y plenitud, Pablo pasará a hablar de:}
+- rechazo
+- reconciliación
+- aceptación
+
+\headingsix{La atención continúa desplazándose hacia aquello que espera \fillin{que} ocurra.}
+
+### Romanos 11:15
+\begin{verseblock}
+Porque si el excluirlos a ellos es la reconciliación del mundo, ¿qué será su admisión, sino vida de entre los muertos?
+\end{verseblock}
+#### Porque si el excluirlos a ellos es la reconciliación del mundo,
+\headingfive{\fillin{Pablo} continúa la comparación iniciada en los versículos anteriores.}
+
+\headingsix{\fillin{Primero} habló de:}
+- transgresión
+- riqueza
+
+\headingsix{Ahora habla \fillin{de}:}
+- rechazo
+- reconciliación
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo \fillin{sigue} describiendo resultados asociados con la situación presente de Israel.}
+
+\headingsix{\fillin{El} rechazo es relacionado con:}
+> «la reconciliación del mundo».
+
+#### ¿qué será su admisión,
+\headingfive{Pablo dirige nuevamente la atención hacia el otro lado de la \fillin{comparación}.}
+
+\headingsix{Igual que en el versículo 12, el énfasis recae sobre \fillin{aquello} que todavía espera.}
+
+\headingsix{La \fillin{pregunta} mira más allá de la situación presente.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Toda la fuerza \fillin{del} argumento descansa sobre el contraste.}
+
+\headingsix{Pablo \fillin{compara}:}
+- rechazo
+- admisión
+
+\headingsix{y pregunta cuál será el resultado de esa \fillin{admisión}.}
+
+#### sino vida de entre los muertos?
+\headingfive{Pablo responde con una expresión \fillin{de} máxima intensidad.}
+
+\headingsix{La admisión \fillin{es} asociada con:}
+> «vida de entre los muertos».
+
+\headingsix{La comparación alcanza aquí su punto más \fillin{alto}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo no minimiza aquello que \fillin{ya} ocurrió.}
+
+\headingsix{La reconciliación del mundo sigue \fillin{siendo} presentada como algo grande.}
+
+\headingsix{Sin \fillin{embargo}, vuelve a dirigir la atención hacia algo todavía mayor.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El mismo patrón aparece repetidamente \fillin{en} esta sección:}
+- transgresión → riqueza
+- fracaso → riqueza
+- plenitud → mucho más
+
+\headingsix{\fillin{y} ahora:}
+- rechazo → reconciliación
+- admisión → vida de entre los muertos
+
+\headingsix{Los versículos siguientes \fillin{comenzarán} a explicar por qué Pablo puede hablar de esta manera.}
+
+### Romanos 11:16
+\begin{verseblock}
+Y si el primer pedazo de masa es santo, también lo es toda la masa; y si la raíz es santa, también lo son las ramas.
+\end{verseblock}
+#### Y si el primer pedazo de masa es santo,
+\headingfive{Pablo \fillin{introduce} una nueva comparación.}
+
+\headingsix{\fillin{Después} de hablar del rechazo y de la admisión, utiliza una ilustración tomada de la masa.}
+
+\headingsix{La atención se dirige \fillin{primero} a una porción.}
+
+#### también lo es toda la masa;
+\headingfive{Pablo completa \fillin{la} primera comparación.}
+
+\headingsix{La relación \fillin{es} presentada entre:}
+- una porción
+- el conjunto
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{Pablo} conecta una parte con aquello a lo que pertenece.}
+
+\headingsix{La comparación avanza desde la porción \fillin{hacia} la totalidad.}
+
+#### y si la raíz es santa,
+\headingfive{Pablo introduce \fillin{una} segunda comparación.}
+
+\headingsix{Ahora cambia de la imagen de la masa a \fillin{la} imagen de un árbol.}
+
+\headingsix{\fillin{La} atención se dirige a la raíz.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La \fillin{raíz} ocupará un lugar importante en los versículos siguientes.}
+
+\headingsix{Pablo está preparando \fillin{una} nueva ilustración.}
+
+#### también lo son las ramas.
+\headingfive{Pablo completa \fillin{el} paralelo.}
+
+\headingsix{La relación ahora \fillin{es}:}
+- raíz
+- ramas
+
+\headingsix{\fillin{La} comparación avanza desde la raíz hacia las ramas.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+
+\headingsix{Las dos comparaciones siguen el mismo \fillin{patrón}:}
+- porción → masa
+- raíz → ramas
+
+\headingsix{Ambas preparan la \fillin{ilustración} que Pablo desarrollará a continuación.}
+
+\headingsix{Los \fillin{siguientes} versículos explicarán la relación entre raíz y ramas mediante la imagen de un olivo.}
+
+### Romanos 11:17
+\begin{verseblock}
+Pero si algunas de las ramas fueron desgajadas, y tú, siendo un olivo silvestre, fuiste injertado entre ellas y fuiste hecho participante con ellas de la rica savia de la raíz del olivo,
+\end{verseblock}
+#### Pero si algunas de las ramas fueron desgajadas,
+\headingfive{Pablo comienza a desarrollar la ilustración \fillin{del} olivo.}
+
+\headingsix{Después de \fillin{introducir} la relación entre raíz y ramas (11:16), ahora describe algo que ocurrió con algunas ramas.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El texto \fillin{dice}:}
+> «algunas de las ramas».
+
+\headingsix{No \fillin{dice}:}
+> «todas las ramas».
+
+\headingsix{La atención debe permanecer en lo que \fillin{Pablo} afirma.}
+
+#### y tú,
+\headingfive{Pablo se dirige directamente al \fillin{lector} gentil.}
+
+\headingsix{La ilustración ya no es presentada \fillin{solamente} de manera general.}
+
+\headingsix{Ahora incluye una \fillin{aplicación} directa.}
+
+#### siendo un olivo silvestre,
+\headingfive{Pablo describe la condición \fillin{inicial} del gentil dentro de la ilustración.}
+
+\headingsix{La imagen utilizada es la de un olivo \fillin{silvestre}.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo comienza describiendo \fillin{su} condición anterior.}
+
+\headingsix{Todavía no habla de aquello \fillin{que} recibió.}
+
+#### fuiste injertado entre ellas
+\headingfive{Pablo describe una acción \fillin{que} ocurrió sobre el gentil.}
+
+\headingsix{El énfasis recae en aquello que le \fillin{fue} hecho.}
+
+\headingsix{El texto \fillin{dice}:}
+> «fuiste injertado».
+
+\headingsix{No \fillin{dice}:}
+> «te injertaste».
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{El} movimiento de la ilustración es:}
+- fuera
+- dentro
+
+\headingsix{El gentil pasa a ocupar una nueva \fillin{posición} dentro del árbol.}
+
+#### y fuiste hecho participante
+\headingfive{Pablo añade el resultado \fillin{de} ese injerto.}
+
+\headingsix{El énfasis se desplaza hacia \fillin{la} participación.}
+
+\headingsix{El \fillin{gentil} ya no aparece como alguien separado.}
+
+\headingsix{Ahora \fillin{participa} junto con otros.}
+
+#### con ellas de la rica savia de la raíz del olivo,
+\headingfive{Pablo identifica aquello de lo \fillin{cual} participa.}
+
+\headingsix{La participación está relacionada \fillin{con}:}
+- la raíz
+- la savia
+- el olivo
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La riqueza no es presentada como \fillin{algo} originado en las ramas.}
+
+\headingsix{\fillin{La} atención continúa dirigiéndose hacia la raíz.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La ilustración ya \fillin{ha} presentado:}
+
+- raíz
+- ramas naturales
+- ramas desgajadas
+- olivo silvestre
+- injerto
+- participación
+
+\headingsix{El \fillin{siguiente} versículo comenzará una advertencia dirigida al gentil.}
+
+\headingsix{Pablo pasará de describir \fillin{el} injerto a corregir una posible actitud equivocada:}
+> «no te jactes contra las ramas».
+
+### Romanos 11:18
+\begin{verseblock}
+no seas arrogante para con las ramas. Pero si eres arrogante, recuerda que tú no eres el que sustenta la raíz, sino que la raíz es la que te sustenta a ti.
+\end{verseblock}
+#### no seas arrogante para con las ramas.
+\headingfive{Pablo introduce la primera advertencia directa \fillin{de} esta sección.}
+
+\headingsix{Después de describir el injerto y la participación en \fillin{la} raíz, ahora corrige una posible actitud equivocada.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{La} advertencia está dirigida al gentil injertado.}
+
+\headingsix{La arrogancia mencionada no \fillin{es} presentada de manera general.}
+
+\headingsix{Está dirigida \fillin{específicamente}:}
+> «para con las ramas».
+
+#### Pero si eres arrogante,
+\headingfive{Pablo considera la posibilidad de que esa actitud \fillin{aparezca}.}
+
+\headingsix{No afirma que \fillin{necesariamente} ocurrirá.}
+
+\headingsix{Sin embargo, considera necesario advertir \fillin{contra} ella.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La corrección que sigue se \fillin{enfoca} en la relación entre:}
+- la raíz
+- las ramas
+
+#### recuerda que tú no eres el que sustenta la raíz,
+\headingfive{Pablo corrige la manera de pensar del \fillin{orgulloso}.}
+
+\headingsix{El \fillin{injertado} no ocupa la posición de fundamento.}
+
+\headingsix{\fillin{No} sostiene la raíz.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La advertencia dirige la atención hacia el \fillin{origen} del sustento.}
+
+\headingsix{Pablo corrige cualquier percepción de autosuficiencia \fillin{o} superioridad.}
+
+#### sino que la raíz es la que te sustenta a ti.
+\headingfive{Pablo establece \fillin{el} orden correcto de la ilustración.}
+
+\headingsix{La \fillin{raíz} sostiene a las ramas.}
+
+\headingsix{No las ramas a \fillin{la} raíz.}
+
+\headingfive{\fillin{Observación} importante:}
+
+\headingsix{Toda la corrección gira \fillin{alrededor} de esta relación de dependencia.}
+
+\headingsix{El énfasis recae \fillin{sobre} aquello que sostiene al injertado.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La advertencia prepara la respuesta que aparecerá en el siguiente \fillin{versículo}.}
+
+\headingsix{Pablo comenzará a responder el razonamiento \fillin{que} podría surgir:}
+> «Las ramas fueron desgajadas para que yo fuera injertado».
+
+### Romanos 11:19
+\begin{verseblock}
+Dirás entonces: «Las ramas fueron desgajadas para que yo fuera injertado».
+\end{verseblock}
+#### Dirás entonces:
+\headingfive{Pablo pone en palabras \fillin{el} razonamiento que podría surgir después de la advertencia anterior.}
+
+\headingsix{\fillin{Acaba} de advertir:}
+> «no seas arrogante para con las ramas».
+
+\headingsix{Ahora expresa la manera de pensar que podría producir \fillin{esa} arrogancia.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo no \fillin{está} afirmando esta conclusión.}
+
+\headingsix{\fillin{Está} preparándose para responderla.}
+
+#### «Las ramas fueron desgajadas
+
+\headingfive{La objeción \fillin{comienza} con algo que Pablo ya ha afirmado.}
+
+\headingsix{Algunas ramas fueron \fillin{desgajadas}.}
+
+\headingsix{Esa \fillin{parte} de la afirmación no es corregida.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El problema \fillin{no} está en este hecho.}
+
+\headingsix{El problema aparecerá \fillin{en} la conclusión que se construye a partir de él.}
+
+#### para que yo fuera injertado».
+\headingfive{La \fillin{atención} se desplaza hacia el "yo".}
+
+\headingsix{El razonamiento \fillin{termina} centrándose en el injertado.}
+
+\headingsix{Toda la afirmación apunta al \fillin{beneficio} recibido por él.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{La} frase coloca al injertado en el centro de la historia.}
+
+\headingsix{Precisamente esa perspectiva \fillin{será} corregida por Pablo en el siguiente versículo.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La secuencia del argumento continúa \fillin{siendo}:}
+
+- ramas desgajadas
+- injerto
+- arrogancia
+
+\headingsix{Pablo responderá concediendo parte de \fillin{la} afirmación.}
+
+\headingsix{Sin embargo, mostrará que la explicación \fillin{correcta} no conduce al orgullo, sino a una reflexión acerca de la fe.}
+
+### Romanos 11:20
+\begin{verseblock}
+Muy cierto. Fueron desgajadas por su incredulidad, pero tú por la fe te mantienes firme. No seas altanero, sino teme;
+\end{verseblock}
+#### Muy cierto.
+\headingfive{Pablo concede parte \fillin{de} la afirmación anterior.}
+
+\headingsix{Sí, las ramas \fillin{fueron} desgajadas.}
+
+\headingsix{Pero la explicación correcta \fillin{todavía} necesita ser aclarada.}
+
+#### Fueron desgajadas por su incredulidad,
+\headingfive{\fillin{Pablo} identifica la razón del desgajamiento.}
+
+\headingsix{\fillin{El} problema no fue falta de importancia.}
+
+\headingsix{El problema fue \fillin{incredulidad}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo dirige la atención a la causa \fillin{real}.}
+
+#### pero tú por la fe te mantienes firme.
+\headingfive{\fillin{Pablo} establece el contraste.}
+
+\headingsix{Ellos \fillin{aparecen} relacionados con incredulidad.}
+
+\headingsix{\fillin{Tú} apareces relacionado con fe.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no atribuye la permanencia \fillin{a} superioridad.}
+
+\headingsix{\fillin{La} relaciona con la fe.}
+
+#### No seas altanero,
+\headingfive{\fillin{Pablo} vuelve a la advertencia.}
+
+\headingsix{La fe no debe convertirse en motivo \fillin{de} orgullo.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El peligro sigue siendo la \fillin{arrogancia}.}
+
+#### sino teme;
+\headingfive{Pablo presenta la \fillin{actitud} correcta.}
+
+\headingsix{La respuesta apropiada no es \fillin{confianza} en uno mismo.}
+
+\headingsix{\fillin{Es} temor.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El siguiente \fillin{versículo} explicará por qué Pablo da esta advertencia tan seria.}
+
+\headingsix{La razón será tomada del \fillin{mismo} ejemplo que acaba de mencionar.}
+
+### Romanos 11:21
+\begin{verseblock}
+porque si Dios no perdonó a las ramas naturales, tampoco a ti te perdonará.
+\end{verseblock}
+#### porque si Dios no perdonó a las ramas naturales,
+\headingfive{Pablo explica la razón de la advertencia \fillin{anterior}.}
+
+\headingsix{\fillin{El} mandato:}
+> "teme"
+
+\headingsix{\fillin{ahora} recibe una explicación.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo dirige la atención a las ramas \fillin{naturales}.}
+
+\headingsix{Ellas forman \fillin{el} ejemplo que debe ser considerado.}
+
+#### tampoco a ti te perdonará.
+\headingfive{Pablo aplica la \fillin{conclusión} al injertado.}
+
+\headingsix{El argumento sigue una \fillin{lógica} sencilla.}
+
+\headingsix{Si \fillin{Dios} actuó así con las ramas naturales, el injertado no debe sentirse inmune.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El propósito del versículo no es producir \fillin{arrogancia}.}
+
+\headingsix{Es \fillin{eliminarla}.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+
+\headingsix{El siguiente versículo reunirá ambos \fillin{lados} del argumento.}
+
+\headingsix{Pablo hablará \fillin{simultáneamente} de:}
+* bondad
+* severidad
+
+\headingsix{y volverá a enfatizar \fillin{la} importancia de permanecer.}
+
+### Romanos 11:22
+\begin{verseblock}
+Mira, pues, la bondad y la severidad de Dios: severidad para con los que cayeron, pero para ti, bondad de Dios si permaneces en Su bondad. De lo contrario también tú serás cortado.
+\end{verseblock}
+#### Mira, pues, la bondad y la severidad de Dios:
+\headingfive{Pablo resume la advertencia mediante dos \fillin{realidades} que deben considerarse juntas.}
+
+\headingsix{El texto no presenta \fillin{solamente} bondad.}
+
+\headingsix{Tampoco \fillin{presenta} solamente severidad.}
+
+\headingsix{\fillin{Pablo} llama al lector a considerar ambas.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La exhortación \fillin{comienza} con un mandato:}
+> Mira.
+
+\headingsix{Pablo quiere que el lector observe cuidadosamente \fillin{lo} que está explicando.}
+
+#### severidad para con los que cayeron,
+\headingfive{Pablo aplica la severidad \fillin{a} un grupo específico.}
+
+\headingsix{La \fillin{severidad} aparece relacionada con los que cayeron.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{Pablo} sigue utilizando la imagen de las ramas desgajadas.}
+
+#### pero para ti, bondad de Dios
+\headingfive{Pablo presenta el otro lado \fillin{del} contraste.}
+
+\headingsix{Sobre el injertado aparece la bondad de \fillin{Dios}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{El} contraste no es entre dos dioses.}
+
+\headingsix{Es entre dos aspectos del \fillin{mismo} Dios.}
+
+#### si permaneces en Su bondad.
+\headingfive{Pablo añade una \fillin{condición}.}
+
+\headingsix{La exhortación ya no trata solamente de cómo alguien \fillin{entró}.}
+
+\headingsix{Ahora trata de \fillin{permanecer}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{El} énfasis del versículo recae en permanecer.}
+
+#### De lo contrario también tú serás cortado.
+\headingfive{Pablo \fillin{vuelve} a la advertencia.}
+
+\headingsix{El injertado no \fillin{debe} interpretar su posición como una garantía para la arrogancia.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{\fillin{El} siguiente versículo introduce una nota de esperanza.}
+
+\headingsix{Pablo dirigirá la atención nuevamente hacia las ramas que \fillin{fueron} cortadas.}
+
+### Romanos 11:23
+\begin{verseblock}
+Y también ellos, si no permanecen en su incredulidad, serán injertados, pues poderoso es Dios para injertarlos de nuevo.
+\end{verseblock}
+#### Y también ellos,
+\headingfive{Pablo vuelve a hablar \fillin{de} las ramas que fueron desgajadas.}
+
+\headingsix{Después \fillin{de} advertir al injertado, ahora dirige la atención nuevamente hacia ellos.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo no los presenta como un caso \fillin{cerrado}.}
+
+#### si no permanecen en su incredulidad,
+\headingfive{Pablo \fillin{identifica} el problema específico.}
+
+\headingsix{El obstáculo señalado \fillin{por} el texto es la incredulidad.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La condición no está relacionada \fillin{con} su origen.}
+
+\headingsix{Está relacionada con \fillin{la} incredulidad.}
+
+#### serán injertados,
+\headingfive{\fillin{Pablo} declara una posibilidad real.}
+
+\headingsix{Las ramas que fueron desgajadas pueden volver a ser \fillin{injertadas}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El corte no es presentado \fillin{aquí} como irreversible.}
+
+#### pues poderoso es Dios
+\headingfive{Pablo fundamenta esta \fillin{esperanza} en Dios.}
+
+\headingsix{La atención se \fillin{desplaza} de las ramas a la capacidad de Dios.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La confianza del argumento \fillin{no} descansa en el hombre.}
+
+\headingsix{\fillin{Descansa} en Dios.}
+
+#### para injertarlos de nuevo.
+\headingfive{Pablo concluye \fillin{repitiendo} la imagen del injerto.}
+
+\headingsix{El mismo Dios que injertó anteriormente puede injertar \fillin{nuevamente}.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente \fillin{versículo} desarrollará un argumento de "cuánto más".}
+
+\headingsix{Si \fillin{Dios} hizo algo inesperado con ramas silvestres,}
+
+\headingsix{\fillin{cuánto} más puede hacerlo con las ramas naturales.}
+
+### Romanos 11:24
+\begin{verseblock}
+Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre, y contra lo que es natural fuiste injertado en un olivo cultivado, ¿cuánto más estos, que son las ramas naturales, serán injertados en su propio olivo?
+\end{verseblock}
+#### Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre,
+\headingfive{Pablo vuelve a \fillin{la} ilustración del olivo.}
+
+\headingsix{Comienza recordando \fillin{la} situación del gentil.}
+
+\headingsix{Su origen es descrito mediante \fillin{la} imagen de un olivo silvestre.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo \fillin{dirige} la atención al injerto que ya ocurrió.}
+
+#### y contra lo que es natural fuiste injertado en un olivo cultivado,
+
+\headingfive{Pablo \fillin{destaca} lo extraordinario de ese injerto.}
+
+\headingsix{La \fillin{atención} recae en la expresión:}
+> contra lo que es natural
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo \fillin{presenta} este injerto como algo inesperado.}
+
+\headingsix{\fillin{Algo} que ya sucedió.}
+
+#### ¿cuánto más estos, que son las ramas naturales,
+\headingfive{Pablo llega \fillin{al} centro del argumento.}
+
+\headingsix{La \fillin{pregunta} no busca información.}
+
+\headingsix{Busca que el lector saque \fillin{una} conclusión.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Toda la fuerza del \fillin{versículo} está en:}
+> cuánto más
+
+#### serán injertados en su propio olivo?
+\headingfive{\fillin{Pablo} presenta la conclusión.}
+
+\headingsix{Si ocurrió lo \fillin{más} sorprendente,}
+
+\headingsix{cuánto más puede ocurrir aquello que corresponde a las ramas \fillin{naturales}.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La ilustración del olivo \fillin{está} llegando a su conclusión.}
+
+\headingsix{El siguiente versículo \fillin{introducirá} un nuevo tema:}
+> este misterio
+
+\headingsix{y comenzará a explicar el endurecimiento parcial de \fillin{Israel} y la entrada de la plenitud de los gentiles.}
+
+### Romanos 11:25
+\begin{verseblock}
+Porque no quiero, hermanos, que ignoren este misterio, para que no sean sabios en su propia opinión: que a Israel le ha acontecido un endurecimiento parcial hasta que haya entrado la plenitud de los gentiles.
+\end{verseblock}
+#### Porque no quiero, hermanos,
+\headingfive{Pablo introduce algo que considera importante que sus lectores \fillin{entiendan}.}
+
+\headingsix{Vuelve a dirigirse directamente \fillin{a} ellos como hermanos.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Lo \fillin{que} sigue tiene como propósito corregir una manera equivocada de pensar.}
+
+#### que ignoren este misterio,
+\headingfive{Pablo identifica \fillin{el} tema como un misterio que necesita ser revelado.}
+
+\headingsix{No quiere que sus lectores permanezcan en ignorancia acerca de este \fillin{asunto}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{\fillin{El} misterio será explicado inmediatamente.}
+
+\headingsix{No queda oculto en el \fillin{texto}.}
+
+#### para que no sean sabios en su propia opinión:
+\headingfive{Pablo explica por qué quiere que conozcan este \fillin{misterio}.}
+
+\headingsix{El conocimiento correcto \fillin{debe} impedir la arrogancia.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Esta advertencia conecta con \fillin{toda} la sección anterior.}
+
+\headingsix{Pablo sigue corrigiendo el orgullo que podría surgir en los \fillin{gentiles}.}
+
+#### que a Israel le ha acontecido un endurecimiento parcial
+\headingfive{\fillin{Pablo} comienza a explicar el misterio.}
+
+\headingsix{\fillin{Israel} ha experimentado endurecimiento.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El \fillin{texto} no dice:}
+> endurecimiento total
+
+\headingsix{\fillin{Dice}:}
+> endurecimiento parcial
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Esta afirmación retoma \fillin{el} tema que apareció anteriormente en Romanos 11.}
+
+\headingsix{Pablo \fillin{continúa} describiendo la situación presente de Israel.}
+
+#### hasta que haya entrado la plenitud de los gentiles.
+
+\headingfive{Pablo \fillin{añade} un límite temporal.}
+
+\headingsix{\fillin{El} endurecimiento no es presentado como permanente.}
+
+\headingsix{Está descrito \fillin{mediante} un:}
+> «hasta que».
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El \fillin{misterio} no consiste solamente en un endurecimiento.}
+
+\headingsix{También incluye aquello \fillin{que} ocurre durante ese endurecimiento.}
+
+\headingsix{Pablo \fillin{une} dos realidades dentro de la misma explicación:}
+
+- endurecimiento parcial de Israel
+- entrada de la plenitud de los gentiles
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La atención del versículo no permanece únicamente en el \fillin{endurecimiento}.}
+
+\headingsix{También se dirige hacia la \fillin{plenitud} de los gentiles.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{\fillin{El} siguiente versículo mostrará hacia dónde conduce esta explicación.}
+
+\headingsix{Pablo \fillin{pasará} de:}
+- endurecimiento parcial
+- plenitud de los gentiles
+
+\headingsix{al \fillin{resultado} que introduce con las palabras:}
+> «y así».
+
+### Romanos 11:26
+\begin{verseblock}
+Así, todo Israel será salvo, tal como está escrito: «EL LIBERTADOR VENDRÁ DE SIÓN; APARTARÁ LA IMPIEDAD DE JACOB.
+\end{verseblock}
+#### Así, todo Israel será salvo,
+\headingfive{\fillin{Pablo} presenta el resultado que sigue a la explicación anterior.}
+
+\headingsix{El versículo \fillin{comienza} con:}
+> «y así».
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo conecta esta declaración con lo que \fillin{acaba} de explicar.}
+
+\headingsix{La salvación de Israel \fillin{aparece} ligada al desarrollo descrito en el versículo anterior.}
+
+\headingsix{No \fillin{aparece} como una idea aislada.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+
+\headingsix{\fillin{Pablo} ha pasado de:}
+- endurecimiento parcial
+- plenitud de los gentiles
+
+\headingsix{al resultado que \fillin{ahora} declara:}
+> «todo Israel será salvo».
+
+#### tal como está escrito:
+\headingfive{Pablo \fillin{vuelve} a apoyar su afirmación mediante las Escrituras.}
+
+\headingsix{Como ha hecho repetidamente a lo largo \fillin{de} Romanos 9–11, apela al testimonio escrito.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La explicación no \fillin{descansa} solamente en la afirmación de Pablo.}
+
+\headingsix{También es apoyada mediante \fillin{las} Escrituras.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{La cita que sigue \fillin{explicará} esta salvación.}
+
+#### «EL LIBERTADOR VENDRÁ DE SIÓN;
+\headingfive{La atención se \fillin{dirige} al Libertador.}
+
+\headingsix{La salvación mencionada en el versículo no \fillin{aparece} separada de su intervención.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El énfasis recae sobre \fillin{la} acción del Libertador.}
+
+\headingsix{La explicación \fillin{comienza} con su venida.}
+
+#### APARTARÁ LA IMPIEDAD DE JACOB.
+\headingfive{La \fillin{cita} describe la obra que realizará el Libertador.}
+
+\headingsix{Su acción consiste en apartar la impiedad \fillin{de} Jacob.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La salvación recién mencionada es \fillin{explicada} mediante esta acción.}
+
+\headingsix{La cita conecta la salvación con la \fillin{remoción} de la impiedad.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El siguiente \fillin{versículo} completará la cita.}
+
+\headingsix{Pablo añadirá una referencia al \fillin{pacto} y a la remoción de los pecados.}
+
+### Romanos 11:27
+\begin{verseblock}
+Y ESTE ES MI PACTO CON ELLOS, CUANDO YO QUITE SUS PECADOS».
+\end{verseblock}
+#### Y ESTE ES MI PACTO CON ELLOS,
+\headingfive{Pablo continúa la cita iniciada \fillin{en} el versículo anterior.}
+
+\headingsix{La salvación de Israel sigue siendo \fillin{el} tema.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La cita ahora introduce \fillin{la} idea de pacto.}
+
+\headingsix{Pablo añade al tema del Libertador una referencia al \fillin{pacto}.}
+
+\headingsix{La explicación de la salvación continúa desarrollándose \fillin{mediante} esta cita.}
+
+#### CUANDO YO QUITE SUS PECADOS».
+\headingfive{La cita identifica una acción \fillin{específica}.}
+
+\headingsix{La \fillin{atención} se dirige a los pecados.}
+
+\headingsix{Y a \fillin{su} remoción.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La salvación mencionada \fillin{en} los versículos anteriores continúa siendo explicada.}
+
+\headingsix{La cita relaciona \fillin{esa} salvación con la remoción de los pecados.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{\fillin{La} secuencia de la cita ha descrito:}
+- la venida del Libertador
+- la remoción de la impiedad
+- el pacto
+- la remoción de los pecados
+
+\headingsix{Pablo \fillin{ha} terminado la cita.}
+
+\headingsix{Ahora volverá \fillin{a} explicar cómo debe entenderse la situación actual de Israel.}
+
+\headingsix{El siguiente versículo presentará dos perspectivas simultáneas sobre \fillin{ellos}.}
+
+### Romanos 11:28
+\begin{verseblock}
+En cuanto al evangelio, son enemigos por causa de ustedes, pero en cuanto a la elección de Dios, son amados por causa de los padres.
+\end{verseblock}
+#### En cuanto al evangelio,
+\headingfive{Pablo introduce \fillin{el} primer marco de referencia.}
+
+\headingsix{La misma situación será observada desde \fillin{una} perspectiva específica.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo comienza distinguiendo entre \fillin{dos} maneras de considerar a Israel.}
+
+#### son enemigos por causa de ustedes,
+\headingfive{Bajo este primer marco, Pablo describe su situación como \fillin{enemigos}.}
+
+\headingsix{La referencia \fillin{a} "ustedes" continúa señalando a los gentiles.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{Pablo} no está hablando aquí de dos grupos distintos.}
+
+\headingsix{Sigue hablando del mismo \fillin{Israel}.}
+
+\headingsix{La diferencia \fillin{está} en la perspectiva desde la cual es considerado.}
+
+#### pero en cuanto a la elección de Dios,
+\headingfive{\fillin{Pablo} introduce un segundo marco de referencia.}
+
+\headingsix{Ahora observa la misma situación \fillin{desde} otra perspectiva.}
+
+\headingsix{\fillin{El} versículo está construido sobre un contraste:}
+- en cuanto al evangelio
+- en cuanto a la elección
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Pablo mantiene juntas ambas \fillin{afirmaciones}.}
+
+\headingsix{\fillin{No} elimina una para afirmar la otra.}
+
+#### son amados por causa de los padres.
+\headingfive{Bajo este \fillin{segundo} marco, Pablo describe a Israel como amado.}
+
+\headingsix{La razón \fillin{mencionada} es:}
+> por causa de los padres
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El mismo grupo que aparece como enemigo en la primera mitad del \fillin{versículo} aparece como amado en la segunda.}
+
+\headingsix{Pablo \fillin{mantiene} ambas afirmaciones juntas.}
+
+\headingsix{La segunda afirmación \fillin{recibe} un fundamento específico:}
+> por causa de los padres
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo explicará \fillin{por} qué esta segunda realidad permanece vigente.}
+
+\headingsix{Pablo apelará a \fillin{los} dones y al llamamiento de Dios.}
+
+\headingsix{La explicación continuará desarrollando la razón \fillin{por} la cual Israel sigue siendo descrito como amado.}
+
+### Romanos 11:29
+\begin{verseblock}
+Porque los dones y el llamamiento de Dios son irrevocables.
+\end{verseblock}
+#### Porque los dones y el llamamiento de Dios
+\headingfive{Pablo explica \fillin{la} afirmación anterior.}
+
+\headingsix{Acaba de decir \fillin{que} Israel es amado por causa de los padres.}
+
+\headingsix{Ahora \fillin{presenta} la razón de esa afirmación.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La explicación dirige la atención \fillin{hacia}:}
+- los dones de Dios
+- el llamamiento de Dios
+
+\headingsix{El \fillin{énfasis} recae sobre aquello que pertenece a Dios.}
+
+#### son irrevocables.
+\headingfive{Pablo \fillin{describe} los dones y el llamamiento de Dios mediante una sola afirmación.}
+
+\headingsix{Ambos son \fillin{presentados} como:}
+> irrevocables
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El versículo explica por qué Pablo puede seguir hablando de Israel como amado por causa de \fillin{los} padres.}
+
+\headingsix{La razón presentada por Pablo es que los dones y el llamamiento de \fillin{Dios} son irrevocables.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Romanos 11 ha venido \fillin{describiendo}:}
+- transgresión
+- rechazo
+- endurecimiento parcial
+
+\headingsix{Sin \fillin{embargo}, Pablo continúa mirando más allá de esas realidades.}
+
+\headingsix{Ahora apela a algo que \fillin{describe} como:}
+> irrevocable
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{El siguiente versículo comenzará a explicar cómo la misericordia de Dios ha \fillin{estado} obrando tanto en gentiles como en Israel.}
+
+### Romanos 11:30
+\begin{verseblock}
+Pues así como ustedes en otro tiempo fueron desobedientes a Dios, pero ahora se les ha mostrado misericordia por razón de la desobediencia de ellos,
+\end{verseblock}
+#### Pues así como ustedes
+\headingfive{Pablo comienza una \fillin{comparación}.}
+
+\headingsix{\fillin{Ahora} comparará la experiencia de los gentiles con la situación actual de Israel.}
+
+#### en otro tiempo fueron desobedientes a Dios,
+\headingfive{Pablo recuerda el pasado \fillin{de} los gentiles.}
+
+\headingsix{Hubo un tiempo en que ellos también estuvieron \fillin{en} desobediencia.}
+
+#### pero ahora se les ha mostrado misericordia
+\headingfive{Pablo contrasta ese pasado \fillin{con} su situación presente.}
+
+\headingsix{Lo que caracteriza el \fillin{presente} es la misericordia recibida.}
+
+#### por razón de la desobediencia de ellos,
+\headingfive{\fillin{Pablo} conecta ambas historias.}
+
+\headingsix{La \fillin{misericordia} recibida por los gentiles está relacionada con la desobediencia actual de Israel.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{Pablo} no presenta dos historias separadas.}
+
+\headingsix{Presenta una sola historia en la que Dios está obrando \fillin{con} ambos grupos.}
+
+### Romanos 11:31
+\begin{verseblock}
+así también ahora estos han sido desobedientes, para que por la misericordia mostrada a ustedes, también a ellos ahora les sea mostrada misericordia.
+\end{verseblock}
+#### así también ahora estos han sido desobedientes,
+\headingfive{\fillin{Pablo} completa el paralelo.}
+
+\headingsix{Lo que antes describió acerca de los gentiles ahora lo aplica \fillin{a} Israel.}
+
+#### para que por la misericordia mostrada a ustedes,
+\headingfive{Pablo introduce el propósito de esta \fillin{etapa} de la historia.}
+
+\headingsix{La misericordia mostrada a los gentiles forma parte del desarrollo del \fillin{plan} que está describiendo.}
+
+#### también a ellos ahora les sea mostrada misericordia.
+\headingfive{\fillin{Pablo} revela el objetivo.}
+
+\headingsix{La historia no termina con la desobediencia \fillin{de} Israel.}
+
+\headingsix{El objetivo final señalado aquí \fillin{es} que ellos también reciban misericordia.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La \fillin{misericordia} mostrada a los gentiles no aparece como el final de la historia.}
+
+\headingsix{Aparece como parte del camino por el cual \fillin{la} misericordia alcanzará también a Israel.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El siguiente versículo resumirá todo el argumento con una declaración general \fillin{acerca} de todos y la misericordia de Dios.}
+
+### Romanos 11:32
+\begin{verseblock}
+Porque Dios ha encerrado a todos en desobediencia para mostrar misericordia a todos.
+\end{verseblock}
+#### Porque Dios ha encerrado a todos en desobediencia
+\headingfive{Pablo resume \fillin{el} patrón que acaba de describir.}
+
+\headingsix{Primero habló de la desobediencia \fillin{de} Israel.}
+
+\headingsix{Luego recordó la desobediencia pasada de los \fillin{gentiles}.}
+
+\headingsix{Ahora reúne a todos bajo una \fillin{misma} realidad.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{El énfasis del versículo no recae \fillin{sobre} un solo grupo.}
+
+\headingsix{Pablo habla \fillin{de} todos.}
+
+#### para mostrar misericordia a todos.
+\headingfive{Pablo presenta \fillin{el} propósito de esta acción.}
+
+\headingsix{El versículo comienza \fillin{con} desobediencia.}
+
+\headingsix{\fillin{Pero} termina con misericordia.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{\fillin{La} última palabra del argumento no es desobediencia.}
+
+\headingsix{La última palabra del argumento \fillin{es} misericordia.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{Este \fillin{versículo} funciona como resumen de Romanos 11:30–31.}
+
+\headingsix{También prepara la \fillin{respuesta} de adoración que sigue inmediatamente en los versículos siguientes.}
+
+>En Síntesis
+>- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
+>- Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
+>- La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
+>- Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
+>- A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
+>- El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
+>- Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad:
+todos en desobediencia todos necesitados de misericordia.
+>- La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento.
+>- La última palabra es misericordia.
+
+<!-- @quiz quiz-3 -->
+
+## Romanos 11:33–36 — Pablo responde con adoración
+
+### Romanos 11:33
+\begin{verseblock}
+¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios! ¡Cuán insondables son Sus juicios e inescrutables Sus caminos!
+\end{verseblock}
+#### ¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios!
+\headingfive{Después de concluir su \fillin{argumento}, Pablo responde con asombro.}
+
+\headingsix{\fillin{Ya} no está formulando objeciones.}
+
+\headingsix{Ya no \fillin{está} respondiendo preguntas.}
+
+\headingsix{Ahora expresa \fillin{admiración}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Pablo dirige toda \fillin{la} atención hacia Dios.}
+
+\headingsix{Las riquezas, la sabiduría \fillin{y} el conocimiento pertenecen a Dios.}
+
+#### ¡Cuán insondables son Sus juicios
+\headingfive{Pablo reconoce la grandeza de \fillin{los} juicios de Dios.}
+
+\headingsix{Los presenta como algo que \fillin{no} puede ser agotado ni medido completamente.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{La atención permanece sobre Dios y sobre lo que Él \fillin{hace}.}
+
+#### e inescrutables Sus caminos!
+\headingfive{Pablo \fillin{completa} la declaración.}
+
+\headingsix{No solamente los juicios de Dios producen \fillin{asombro}.}
+
+\headingsix{También sus \fillin{caminos}.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{La doxología continuará con una serie de \fillin{preguntas} que resaltan la grandeza de Dios.}
+
+\headingsix{Pablo ha llegado al final de su explicación y responde con \fillin{adoración}.}
+
+### Romanos 11:34
+\begin{verseblock}
+Pues, ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR? ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
+\end{verseblock}
+#### ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR?
+\headingfive{Pablo \fillin{formula} una pregunta cuya respuesta esperada es "nadie".}
+
+\headingsix{Después de hablar de la profundidad de la sabiduría y \fillin{del} conocimiento de Dios, pregunta quién ha conocido plenamente Su mente.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La pregunta enfatiza la distancia entre el conocimiento humano y el conocimiento \fillin{de} Dios.}
+
+\headingsix{Nadie puede \fillin{afirmar} que comprende completamente los pensamientos de Dios.}
+
+#### ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
+\headingfive{Pablo \fillin{presenta} una segunda pregunta paralela.}
+
+\headingsix{No solo nadie \fillin{conoce} plenamente la mente de Dios.}
+
+\headingsix{Tampoco nadie ocupa el lugar de su \fillin{consejero}.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Dios no necesita ser \fillin{corregido}.}
+
+\headingsix{Dios no \fillin{necesita} ser instruido.}
+
+\headingsix{Dios no necesita recibir \fillin{consejo}.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El siguiente versículo \fillin{añadirá} una tercera pregunta.}
+
+\headingsix{Esta vez relacionada con deuda \fillin{y} recompensa.}
+
+### Romanos 11:35
+\begin{verseblock}
+¿O QUIÉN LE HA DADO A ÉL PRIMERO PARA QUE SE LE TENGA QUE RECOMPENSAR?
+\end{verseblock}
+#### ¿O QUIÉN LE HA DADO A ÉL PRIMERO
+\headingfive{\fillin{Pablo} añade una tercera pregunta.}
+
+\headingsix{\fillin{La} respuesta esperada sigue siendo la misma:}
+> nadie
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Nadie puede colocarse \fillin{en} la posición de benefactor de Dios.}
+
+\headingsix{Nadie \fillin{puede} decir que Dios recibió algo primero de él.}
+
+#### PARA QUE SE LE TENGA QUE RECOMPENSAR?
+\headingfive{Pablo lleva la \fillin{pregunta} a su conclusión.}
+
+\headingsix{\fillin{Si} nadie le dio primero a Dios,}
+
+\headingsix{entonces nadie puede exigir pago o compensación \fillin{de} parte de Dios.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{Dios no actúa como deudor \fillin{de} nadie.}
+
+\headingsix{Todo lo \fillin{que} Dios hace procede de Él mismo.}
+
+\headingfive{Observación \fillin{desarrollacional}:}
+\headingsix{El \fillin{siguiente} versículo cerrará la doxología.}
+
+\headingsix{Pablo resumirá todo con una declaración absoluta acerca de \fillin{Dios} y de todas las cosas.}
+
+### Romanos 11:36
+\begin{verseblock}
+Porque de Él, por Él y para Él son todas las cosas. A Él sea la gloria para siempre. Amén.
+\end{verseblock}
+#### Porque de Él, por Él y para Él son todas las cosas.
+\headingfive{\fillin{Pablo} presenta la razón final de la adoración.}
+
+\headingsix{\fillin{Todo} lo que acaba de decir acerca de Dios conduce a esta afirmación.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{Dios aparece como el \fillin{origen} de todas las cosas.}
+
+\headingsix{Dios aparece como aquel por medio de quien todas \fillin{las} cosas existen.}
+
+\headingsix{\fillin{Dios} aparece como el destino hacia el cual todas las cosas se dirigen.}
+
+\headingfive{Observación \fillin{importante}:}
+\headingsix{El énfasis recae completamente sobre \fillin{Dios}.}
+
+\headingsix{La atención ya \fillin{no} está sobre Israel.}
+
+\headingsix{Ya \fillin{no} está sobre los gentiles.}
+
+\headingsix{\fillin{Ya} no está sobre Pablo.}
+
+\headingsix{\fillin{Está} sobre Dios.}
+
+#### A Él sea la gloria para siempre.
+\headingfive{Pablo responde \fillin{a} esta realidad con adoración.}
+
+\headingsix{Si todas las cosas son de Él, por \fillin{Él} y para Él,}
+
+\headingsix{entonces la gloria \fillin{le} pertenece a Él.}
+
+\headingfive{\fillin{Observación} importante:}
+\headingsix{La \fillin{doxología} termina donde comenzó.}
+
+\headingsix{\fillin{Con} Dios ocupando el centro de todo.}
+
+#### Amén.
+\headingfive{Pablo concluye la \fillin{doxología}.}
+
+\headingsix{La sección iniciada en Romanos 9 termina con una afirmación de adoración y reconocimiento \fillin{a} Dios.}
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Después de tres capítulos explicando el propósito \fillin{y} la fidelidad de Dios,}
+
+\headingsix{Romanos 12 comenzará a mostrar cómo debe responder \fillin{el} creyente.}
+
+> En Síntesis
+>- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
+Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
+>-La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
+>-Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
+>-A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
+>-El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
+>-Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad: todos en desobediencia todos necesitados de misericordia
+>-La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento.
+>- La última palabra es misericordia.
+
+# ROMANOS 12:1–13:14 PRESÉNTENSE Y VIVAN CONFORME A LA NUEVA REALIDAD
+
+## Romanos 12:1–8 - Presenten sus cuerpos
+
+### Romanos 12:1
+\begin{verseblock}
+Por tanto, hermanos, les ruego por las misericordias de Dios que presenten sus cuerpos como sacrificio vivo y santo, aceptable a Dios, que es el culto racional de ustedes.
+\end{verseblock}
+#### Por tanto, hermanos,
+\headingfive{\fillin{Pablo} comienza una nueva sección, pero no un tema nuevo.}
+
+\headingsix{Todo lo \fillin{que} sigue nace de lo que acaba de explicar acerca de las misericordias de Dios y de sus caminos en Romanos 9–11.}
+
+\headingsix{El “por tanto” conecta la explicación anterior con \fillin{la} respuesta que ahora espera de sus lectores.}
+
+\headingsix{\fillin{Véase} Romanos 11:30–36.}
+
+\headingsix{La siguiente frase presenta la base sobre \fillin{la} cual Pablo hace este ruego.}
+
+#### les ruego por las misericordias de Dios
+\headingfive{\fillin{Pablo} no apela a méritos humanos ni a obligaciones religiosas.}
+
+\headingsix{La exhortación se \fillin{fundamenta} en las misericordias de Dios que han sido desarrolladas a lo largo de la carta.}
+
+\headingsix{La respuesta que Pablo pedirá en los siguientes versículos surge de lo que Dios ha hecho, \fillin{no} de lo que el hombre puede aportar.}
+
+\headingsix{\fillin{Véase} Romanos 11:30–32.}
+
+#### que presenten sus cuerpos
+\headingfive{Pablo dirige la exhortación hacia la \fillin{persona} completa.}
+
+\headingsix{\fillin{La} acción principal del versículo es “presentar”.}
+
+\headingsix{A partir de este punto la atención se mueve desde lo que Dios ha hecho \fillin{hacia} la respuesta que corresponde a quienes han recibido misericordia.}
+
+\headingsix{La siguiente frase describe cómo \fillin{debe} entenderse esa presentación.}
+
+#### como sacrificio vivo y santo,
+\headingfive{Pablo utiliza lenguaje \fillin{relacionado} con la adoración y la entrega.}
+
+\headingsix{El \fillin{sacrificio} ya no es descrito como algo muerto, sino como algo vivo.}
+
+\headingsix{Las expresiones “vivo” \fillin{y} “santo” describen la clase de presentación que Pablo tiene en mente.}
+
+#### aceptable a Dios,
+\headingfive{La presentación \fillin{tiene} una orientación clara: Dios.}
+
+\headingsix{El énfasis no está en la opinión de otros ni en la apariencia externa, sino en aquello que es \fillin{aceptable} delante de Dios.}
+
+#### que es el culto racional de ustedes.
+\headingfive{Pablo reúne todas las expresiones \fillin{anteriores} en una sola descripción.}
+
+\headingsix{La presentación de los cuerpos es identificada como el culto que corresponde a quienes han recibido las \fillin{misericordias} de Dios.}
+
+\headingsix{Este versículo funciona \fillin{como} introducción a toda la sección práctica que sigue.}
+
+\headingsix{Romanos 12:2 explicará cómo esa presentación afecta la forma de \fillin{pensar} y vivir.}
+
+### Romanos 12:2
+\begin{verseblock}
+Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios: lo que es bueno y aceptable y perfecto.
+\end{verseblock}
+#### Y no se adapten a este mundo,
+\headingfive{Pablo comienza con una \fillin{prohibición}.}
+
+\headingsix{La vida presentada \fillin{a} Dios no puede simplemente copiar el patrón que la rodea.}
+
+\headingsix{Después de hablar de \fillin{presentar} los cuerpos, Pablo pasa a describir una manera diferente de vivir y pensar.}
+
+#### sino transfórmense
+\headingfive{Pablo no solo dice qué \fillin{evitar}; también indica una dirección positiva.}
+
+\headingsix{\fillin{El} contraste es deliberado: no conformarse al presente orden de cosas, sino experimentar transformación.}
+
+\headingsix{La exhortación avanza desde la conducta externa hacia \fillin{un} cambio más profundo.}
+
+#### mediante la renovación de su mente,
+\headingfive{Pablo ubica \fillin{el} cambio en la manera de pensar.}
+
+\headingsix{La transformación no comienza \fillin{con} nuevas costumbres sino con una mente renovada.}
+
+\headingsix{Esta referencia a la \fillin{mente} prepara el tema de Romanos 12:3, donde Pablo hablará de cómo pensar correctamente acerca de uno mismo.}
+
+#### para que verifiquen cuál es la voluntad de Dios:
+\headingfive{Pablo presenta el \fillin{resultado} esperado.}
+
+\headingsix{La mente renovada permite reconocer y aprobar aquello que corresponde a la voluntad de \fillin{Dios}.}
+
+\headingsix{El énfasis está en \fillin{discernir} correctamente, no en inventar una voluntad propia.}
+
+#### lo que es bueno y aceptable y perfecto.
+\headingfive{Pablo caracteriza la \fillin{voluntad} de Dios con tres descripciones.}
+
+\headingsix{Estas expresiones concluyen el versículo mostrando el carácter \fillin{de} aquello que la mente renovada aprende a reconocer.}
+
+\headingsix{La secuencia \fillin{completa} es clara: presentación → transformación → renovación → discernimiento.}
+
+\headingsix{Romanos 12:3 comenzará a aplicar esta manera de pensar a la vida dentro de la \fillin{comunidad}.}
+
+### Romanos 12:3
+\begin{verseblock}
+Porque en virtud de la gracia que me ha sido dada, digo a cada uno de ustedes que no piense de sí mismo más de lo que debe pensar, sino que piense con buen juicio, según la medida de fe que Dios ha distribuido a cada uno.
+\end{verseblock}
+#### Porque en virtud de la gracia que me ha sido dada,
+\headingfive{Pablo \fillin{explica} desde qué posición habla.}
+
+\headingsix{No presenta su exhortación como una \fillin{opinión} personal, sino como algo relacionado con la gracia que le fue dada.}
+
+\headingsix{Esta referencia sirve como fundamento para \fillin{la} instrucción que sigue.}
+
+#### digo a cada uno de ustedes
+\headingfive{La exhortación \fillin{es} individual.}
+
+\headingsix{Pablo no habla solamente a líderes o a un grupo \fillin{específico}.}
+
+\headingsix{Cada miembro de la \fillin{comunidad} debe evaluar su manera de pensar acerca de sí mismo.}
+
+\headingsix{la siguiente frase presenta la \fillin{advertencia} principal.}
+
+#### que no piense de sí mismo más de lo que debe pensar,
+\headingfive{Pablo \fillin{comienza} corrigiendo una tendencia hacia la autoexaltación.}
+
+\headingsix{El tema ya no es la transformación \fillin{de} la mente en general, sino cómo esa mente renovada evalúa la propia persona.}
+
+\headingsix{Esta \fillin{advertencia} prepara el ejemplo del cuerpo y los miembros que aparecerá en los versículos siguientes.}
+
+\headingsix{Pablo ahora presenta la \fillin{alternativa} correcta.}
+
+#### sino que piense con buen juicio,
+\headingfive{El contraste no es dejar de pensar, sino \fillin{pensar} correctamente.}
+
+\headingsix{Pablo reemplaza la exageración \fillin{personal} por una evaluación sobria y equilibrada.}
+
+\headingsix{La atención continúa centrada en la forma \fillin{de} pensar.}
+
+\headingsix{la siguiente frase establece \fillin{el} criterio.}
+
+#### según la medida de fe que Dios ha distribuido a cada uno.
+\headingfive{Pablo recuerda que lo recibido proviene de \fillin{Dios}.}
+
+\headingsix{El énfasis se encuentra en lo que Dios ha distribuido, no en \fillin{logros} personales.}
+
+\headingsix{Esta \fillin{idea} prepara el tema de los diferentes dones que aparecerá más adelante en la sección.}
+
+\headingsix{Romanos 12:4 \fillin{introduce} la ilustración del cuerpo para explicar diversidad sin orgullo.}
+
+### Romanos 12:4
+\begin{verseblock}
+Pues así como en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función,
+\end{verseblock}
+#### Pues así como en un cuerpo tenemos muchos miembros,
+\headingfive{Pablo introduce una \fillin{comparación}.}
+
+\headingsix{La imagen del cuerpo permite \fillin{explicar} cómo puede existir diversidad sin perder unidad.}
+
+\headingsix{El énfasis inicial recae en la existencia \fillin{de} muchos miembros dentro de un solo cuerpo.}
+
+\headingsix{la siguiente frase añade una observación \fillin{importante} acerca de esos miembros.}
+
+#### pero no todos los miembros tienen la misma función,
+\headingfive{Pablo aclara que la unidad no \fillin{significa} uniformidad.}
+
+\headingsix{Los miembros pertenecen al mismo cuerpo, pero no realizan \fillin{exactamente} la misma tarea.}
+
+\headingsix{Esta observación prepara la aplicación directa que hará en Romanos 12:5 acerca de la \fillin{comunidad} de creyentes.}
+
+\headingsix{el siguiente versículo trasladará la comparación del cuerpo a la \fillin{realidad} de la iglesia.}
+
+### Romanos 12:5
+\begin{verseblock}
+así nosotros, que somos muchos, somos un cuerpo en Cristo e individualmente miembros los unos de los otros.
+\end{verseblock}
+#### así nosotros, que somos muchos,
+\headingfive{Pablo ahora aplica directamente la ilustración \fillin{del} cuerpo.}
+
+\headingsix{Lo que era una comparación \fillin{en} el versículo anterior ahora se convierte en una descripción de la comunidad.}
+
+\headingsix{\fillin{El} énfasis permanece en la existencia de muchos dentro de una misma realidad.}
+
+\headingsix{la siguiente frase identifica cuál \fillin{es} esa realidad compartida.}
+
+#### somos un cuerpo en Cristo
+\headingfive{\fillin{Pablo} afirma la unidad de todos los creyentes.}
+
+\headingsix{Aunque son muchos, forman \fillin{un} solo cuerpo.}
+
+\headingsix{La expresión "en Cristo" conecta esta unidad \fillin{con} la realidad que Pablo ha venido desarrollando a lo largo de la carta.}
+
+\headingsix{\fillin{Véase} Romanos 6:11; Romanos 8:1.}
+
+\headingsix{la \fillin{siguiente} frase añade una segunda dimensión de esta unidad.}
+
+#### e individualmente miembros los unos de los otros.
+\headingfive{La unidad \fillin{no} elimina la individualidad.}
+
+\headingsix{Cada miembro conserva su identidad, pero al mismo tiempo queda relacionado \fillin{con} los demás.}
+
+\headingsix{\fillin{Pablo} no describe miembros aislados, sino miembros vinculados entre sí.}
+
+\headingsix{\fillin{Esta} relación prepara naturalmente la conversación sobre los diferentes dones en los versículos siguientes.}
+
+\headingsix{Romanos 12:6 explicará cómo esta diversidad \fillin{se} expresa mediante distintos dones.}
+
+### Romanos 12:6
+\begin{verseblock}
+Pero teniendo diferentes dones, según la gracia que nos ha sido dada, usémoslos: si el de profecía, úsese en proporción a la fe;
+\end{verseblock}
+#### Pero teniendo diferentes dones,
+\headingfive{Pablo desarrolla \fillin{la} diversidad que acaba de mencionar.}
+
+\headingsix{Los miembros no solo tienen \fillin{funciones} distintas; también reciben dones distintos.}
+
+\headingsix{La diferencia entre unos y otros no es presentada como un problema, sino como una realidad \fillin{normal} dentro del mismo cuerpo.}
+
+\headingsix{la siguiente frase explica el origen \fillin{de} esos dones.}
+
+#### según la gracia que nos ha sido dada,
+\headingfive{Pablo atribuye estos dones a la \fillin{gracia} de Dios.}
+
+\headingsix{El origen de los dones no está en la \fillin{capacidad} personal, sino en lo que ha sido dado.}
+
+\headingsix{Esta referencia a la gracia mantiene el mismo énfasis de humildad \fillin{que} apareció en Romanos 12:3.}
+
+\headingsix{\fillin{ahora} Pablo comienza a enumerar ejemplos concretos.}
+
+#### usémoslos:
+\headingfive{Pablo pasa de la descripción \fillin{a} la acción.}
+
+\headingsix{Los dones no son \fillin{mencionados} para ser admirados o comparados, sino para ser ejercidos.}
+
+\headingsix{Lo que sigue muestra \fillin{varios} ejemplos de cómo debe funcionar esta diversidad dentro del cuerpo.}
+
+\headingsix{la primera ilustración es \fillin{la} profecía.}
+
+#### si el de profecía, úsese en proporción a la fe;
+\headingfive{\fillin{Pablo} inicia una lista de dones específicos.}
+
+\headingsix{El énfasis del versículo no está en definir la profecía, sino \fillin{en} ejercerla de acuerdo con la medida que corresponde.}
+
+\headingsix{La lista continuará mostrando \fillin{el} mismo patrón: cada don debe expresarse de acuerdo con su propia función.}
+
+\headingsix{Romanos 12:7 continúa con el servicio y \fillin{la} enseñanza.}
+
+### Romanos 12:7
+\begin{verseblock}
+si el de servicio, en servir; o el que enseña, en la enseñanza;
+\end{verseblock}
+#### si el de servicio, en servir;
+\headingfive{Pablo continúa desarrollando la diversidad de \fillin{dones}.}
+
+\headingsix{La atención permanece en la función misma: quien sirve debe \fillin{dedicarse} al servicio.}
+
+\headingsix{El énfasis está en la actividad \fillin{correspondiente} al don recibido.}
+
+\headingsix{la \fillin{siguiente} frase presenta un segundo ejemplo.}
+
+#### o el que enseña, en la enseñanza;
+\headingfive{Pablo añade el don de \fillin{enseñanza}.}
+
+\headingsix{Igual que en el caso anterior, el énfasis recae en ejercer \fillin{fielmente} aquello que corresponde a la función recibida.}
+
+\headingsix{La estructura del versículo muestra una misma idea repetida: cada don debe desarrollarse \fillin{dentro} de su propia esfera.}
+
+\headingsix{Romanos 12:8 ampliará la lista con \fillin{varios} ejemplos adicionales.}
+
+### Romanos 12:8
+\begin{verseblock}
+el que exhorta, en la exhortación; el que da, con liberalidad; el que dirige, con diligencia; el que muestra misericordia, con alegría.
+\end{verseblock}
+#### el que exhorta, en la exhortación;
+\headingfive{\fillin{Pablo} continúa aplicando el mismo principio.}
+
+\headingsix{El enfoque permanece en la \fillin{tarea} correspondiente al don recibido.}
+
+\headingsix{La lista sigue mostrando diversidad dentro del mismo \fillin{cuerpo}.}
+
+\headingsix{la siguiente frase pasa al acto \fillin{de} compartir con otros.}
+
+#### el que da, con liberalidad;
+\headingfive{Pablo menciona ahora \fillin{el} dar.}
+
+\headingsix{La atención se dirige a la manera en que debe \fillin{ejercerse} esta función.}
+
+\headingsix{La \fillin{liberalidad} caracteriza el ejercicio de este don.}
+
+\headingsix{La siguiente frase se enfoca en quienes están al frente de \fillin{otros}.}
+
+#### el que dirige, con diligencia;
+\headingfive{Pablo añade otra función dentro \fillin{de} la comunidad.}
+
+\headingsix{El énfasis no está en la posición \fillin{misma}, sino en la forma de ejercerla.}
+
+\headingsix{La diligencia aparece como la característica \fillin{que} acompaña esta labor.}
+
+\headingsix{La última frase \fillin{presenta} un ejemplo más.}
+
+#### el que muestra misericordia, con alegría.
+\headingfive{Pablo concluye la lista con la \fillin{misericordia}.}
+
+\headingsix{\fillin{La} misericordia no solo debe practicarse; también debe estar acompañada por una disposición adecuada.}
+
+\headingsix{Con este versículo \fillin{termina} la lista de dones iniciada en Romanos 12:6.}
+
+\headingsix{Romanos 12:9 abre una nueva subsección enfocada en las relaciones dentro de la comunidad, \fillin{comenzando} con la expresión: “El amor sea sin hipocresía”.}
+
+> En Síntesis
+>- Pablo pasa de explicar las misericordias de Dios a mostrar la respuesta que corresponde a quienes las han recibido.
+>- La exhortación comienza con un llamado a presentar los cuerpos a Dios y a vivir con una mente renovada, capaz de discernir Su voluntad.
+>- Esa renovación también transforma la manera de pensar acerca de uno mismo, reemplazando la autoexaltación por una evaluación sobria y correcta.
+>- Pablo utiliza la imagen del cuerpo para mostrar que la unidad no elimina la diversidad.
+>- Muchos miembros forman un solo cuerpo en Cristo y dependen unos de otros.
+>- Los distintos dones son presentados como expresiones de la gracia de Dios y deben ser ejercidos conforme a la función que cada uno ha recibido.
+>- La sección prepara el tema que sigue: cómo debe verse esa vida presentada a Dios en las relaciones diarias dentro de la comunidad.
+
+## Romanos 12:9–21 - El amor sin hipocresía
+
+### Romanos 12:9
+\begin{verseblock}
+El amor sea sin hipocresía; aborreciendo lo malo, aplicándose a lo bueno.
+\end{verseblock}
+#### El amor sea sin hipocresía;
+\headingfive{Pablo introduce el tema \fillin{principal} de esta sección: un amor genuino.}
+
+\headingsix{Después de hablar de dones y funciones, el énfasis pasa a la manera en \fillin{que} los creyentes deben relacionarse entre sí.}
+
+\headingsix{Todo lo que sigue hasta el final del capítulo desarrolla cómo se ve este \fillin{amor} en la práctica.}
+
+\headingsix{\fillin{las} siguientes frases muestran dos características básicas de este amor.}
+
+#### aborreciendo lo malo,
+\headingfive{El \fillin{amor} descrito por Pablo no es indiferente frente al mal.}
+
+\headingsix{El texto presenta una actitud de rechazo \fillin{hacia} aquello que es malo.}
+
+\headingsix{Esta expresión forma pareja con la siguiente: rechazar lo malo y aferrarse a \fillin{lo} bueno.}
+
+\headingsix{Ahora Pablo \fillin{presenta} el aspecto positivo.}
+
+#### aplicándose a lo bueno.
+\headingfive{El amor no \fillin{consiste} solamente en evitar lo malo.}
+
+\headingsix{Pablo añade una adhesión activa a lo \fillin{bueno}.}
+
+\headingsix{Las dos expresiones juntas funcionan como introducción a todas las instrucciones que \fillin{siguen}.}
+
+\headingsix{Romanos 12:10 comienza a \fillin{describir} cómo este amor se expresa entre los creyentes.}
+
+### Romanos 12:10
+\begin{verseblock}
+Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
+\end{verseblock}
+#### Sean afectuosos unos con otros
+\headingfive{Pablo dirige la atención a \fillin{las} relaciones dentro de la comunidad.}
+
+\headingsix{El amor del \fillin{versículo} anterior se expresa mediante afecto genuino entre los creyentes.}
+
+\headingsix{El énfasis está en la cercanía y el \fillin{cuidado} mutuo.}
+
+\headingsix{La siguiente frase identifica la \fillin{clase} de amor que tiene en mente.}
+
+#### con amor fraternal;
+\headingfive{Pablo utiliza \fillin{lenguaje} familiar.}
+
+\headingsix{\fillin{Los} creyentes son descritos relacionándose unos con otros como hermanos.}
+
+\headingsix{Esta idea desarrolla la \fillin{unidad} que ya apareció en Romanos 12:5.}
+
+\headingsix{la siguiente frase muestra una manifestación concreta de \fillin{este} amor.}
+
+#### con honra, dándose preferencia unos a otros.
+\headingfive{Pablo introduce el tema de \fillin{la} honra mutua.}
+
+\headingsix{En lugar de buscar reconocimiento para \fillin{uno} mismo, el énfasis se dirige hacia los demás.}
+
+\headingsix{La honra aparece como \fillin{una} expresión visible del amor fraternal.}
+
+\headingsix{Romanos 12:11 continúa describiendo la actitud \fillin{que} debe caracterizar esta vida compartida.}
+
+### Romanos 12:11
+\begin{verseblock}
+No sean perezosos en lo que requiere diligencia. Sean fervientes en espíritu, sirviendo al Señor,
+\end{verseblock}
+#### No sean perezosos en lo que requiere diligencia.
+\headingfive{Pablo contrasta la negligencia con la \fillin{diligencia}.}
+
+\headingsix{La vida que describe no es pasiva ni \fillin{descuidada}.}
+
+\headingsix{El \fillin{llamado} es a mantener compromiso y dedicación en aquello que corresponde hacer.}
+
+\headingsix{\fillin{la} siguiente frase añade otra característica de esta actitud.}
+
+#### Sean fervientes en espíritu,
+\headingfive{Pablo describe una disposición marcada \fillin{por} intensidad y entusiasmo.}
+
+\headingsix{El contraste con la pereza \fillin{del} miembro anterior es evidente.}
+
+\headingsix{La diligencia \fillin{no} debe ser mecánica, sino acompañada de fervor.}
+
+\headingsix{la siguiente frase señala la orientación de \fillin{ese} servicio.}
+
+#### sirviendo al Señor,
+\headingfive{Pablo dirige toda esta actividad hacia el \fillin{Señor}.}
+
+\headingsix{El servicio no se \fillin{presenta} como una búsqueda de reconocimiento humano.}
+
+\headingsix{Esta referencia \fillin{conecta} las acciones descritas con una realidad mayor que las sostiene.}
+
+\headingsix{Romanos 12:12 continúa con tres exhortaciones breves \fillin{relacionadas} entre sí.}
+
+### Romanos 12:12
+\begin{verseblock}
+gozándose en la esperanza, perseverando en el sufrimiento, dedicados a la oración,
+\end{verseblock}
+#### gozándose en la esperanza,
+\headingfive{Pablo comienza \fillin{con} una actitud de alegría relacionada con la esperanza.}
+
+\headingsix{La esperanza aparece como motivo de gozo aun \fillin{cuando} las circunstancias no sean ideales.}
+
+\headingsix{Esta esperanza ya ha \fillin{sido} mencionada anteriormente en la carta.}
+
+\headingsix{\fillin{Véase} Romanos 5:2–5.}
+
+\headingsix{la siguiente frase \fillin{muestra} cómo responder en medio de la dificultad.}
+
+#### perseverando en el sufrimiento,
+\headingfive{Pablo añade la \fillin{perseverancia} frente a la aflicción.}
+
+\headingsix{El \fillin{gozo} en la esperanza no elimina las dificultades, pero acompaña la perseverancia en ellas.}
+
+\headingsix{Las dos expresiones funcionan juntas dentro del mismo \fillin{pensamiento}.}
+
+\headingsix{la \fillin{tercera} frase muestra una práctica constante que acompaña ambas.}
+
+#### dedicados a la oración,
+\headingfive{Pablo completa la secuencia \fillin{con} la oración.}
+
+\headingsix{La oración aparece como una práctica continua dentro de la vida que está \fillin{describiendo}.}
+
+\headingsix{Las tres expresiones juntas forman una breve descripción de \fillin{constancia} y dependencia.}
+
+\headingsix{Romanos 12:13 pasa a necesidades concretas dentro \fillin{de} la comunidad.}
+
+### Romanos 12:13
+\begin{verseblock}
+contribuyendo para las necesidades de los santos, practicando la hospitalidad.
+\end{verseblock}
+#### contribuyendo para las necesidades de los santos,
+\headingfive{Pablo dirige la \fillin{atención} hacia las necesidades de otros creyentes.}
+
+\headingsix{\fillin{El} amor descrito en esta sección incluye participación práctica en las necesidades de la comunidad.}
+
+\headingsix{La preocupación por otros no queda solamente en palabras \fillin{o} sentimientos.}
+
+\headingsix{la \fillin{siguiente} frase amplía esta disposición hacia la hospitalidad.}
+
+#### practicando la hospitalidad.
+\headingfive{Pablo añade una expresión concreta \fillin{de} apertura hacia otros.}
+
+\headingsix{La \fillin{hospitalidad} aparece aquí como una práctica activa, no como una idea abstracta.}
+
+\headingsix{Ambas \fillin{exhortaciones} muestran un amor que se traduce en acciones visibles.}
+
+\headingsix{Romanos 12:14 extiende \fillin{esta} actitud incluso hacia quienes persiguen.}
+
+### Romanos 12:14
+\begin{verseblock}
+Bendigan a los que los persiguen. Bendigan, y no maldigan.
+\end{verseblock}
+#### Bendigan a los que los persiguen.
+\headingfive{Pablo \fillin{amplía} el alcance de sus instrucciones.}
+
+\headingsix{Ya no habla solamente de la relación entre creyentes, sino \fillin{también} de quienes los persiguen.}
+
+\headingsix{La respuesta ordenada \fillin{no} es represalia, sino bendición.}
+
+\headingsix{\fillin{la} siguiente frase repite la instrucción para enfatizarla.}
+
+#### Bendigan, y no maldigan.
+\headingfive{Pablo \fillin{refuerza} deliberadamente el mandato.}
+
+\headingsix{La repetición destaca la importancia de esta \fillin{respuesta}.}
+
+\headingsix{La \fillin{segunda} mitad del versículo presenta el contraste directo entre bendecir y maldecir.}
+
+\headingsix{\fillin{Véase} también Mateo 5:44.}
+
+\headingsix{Romanos 12:15 vuelve al \fillin{ámbito} de las relaciones personales.}
+
+### Romanos 12:15
+\begin{verseblock}
+Gócense con los que se gozan y lloren con los que lloran.
+\end{verseblock}
+#### Gócense con los que se gozan
+\headingfive{Pablo llama a \fillin{compartir} las experiencias de otros.}
+
+\headingsix{El \fillin{gozo} ajeno no debe producir competencia ni envidia.}
+
+\headingsix{La comunidad es presentada participando de las \fillin{alegrías} de sus miembros.}
+
+\headingsix{la siguiente \fillin{frase} presenta el paralelo correspondiente.}
+
+#### y lloren con los que lloran.
+\headingfive{\fillin{Pablo} mantiene la misma lógica en el sufrimiento.}
+
+\headingsix{Así como el gozo \fillin{se} comparte, también el dolor.}
+
+\headingsix{El versículo muestra una comunidad involucrada en la realidad de \fillin{otros}, tanto en momentos felices como difíciles.}
+
+\headingsix{Romanos 12:16 resume esta actitud mediante un \fillin{llamado} a la unidad y la humildad.}
+
+### Romanos 12:16
+\begin{verseblock}
+Tengan el mismo sentir unos con otros. No sean altivos en su pensar, sino condescendiendo con los humildes. No sean sabios en su propia opinión.
+\end{verseblock}
+#### Tengan el mismo sentir unos con otros.
+\headingfive{Pablo \fillin{llama} a una disposición de armonía mutua.}
+
+\headingsix{\fillin{Esta} exhortación recoge muchos de los temas desarrollados desde Romanos 12:9.}
+
+\headingsix{El énfasis está en la relación entre los creyentes, no en \fillin{la} exaltación personal.}
+
+\headingsix{La siguiente frase identifica \fillin{una} amenaza para esa unidad.}
+
+#### No sean altivos en su pensar,
+\headingfive{Pablo advierte \fillin{contra} la arrogancia.}
+
+\headingsix{El problema señalado no es una \fillin{diferencia} de dones o funciones, sino una actitud elevada acerca de uno mismo.}
+
+\headingsix{Esta preocupación \fillin{ya} apareció en Romanos 12:3.}
+
+\headingsix{Ahora presenta \fillin{la} alternativa.}
+
+#### sino condescendiendo con los humildes.
+\headingfive{\fillin{Pablo} dirige la atención hacia quienes ocupan posiciones modestas.}
+
+\headingsix{El contraste es claro: \fillin{en} lugar de buscar lo elevado, acercarse a los humildes.}
+
+\headingsix{Esta instrucción continúa desarrollando el tema de la humildad \fillin{dentro} de la comunidad.}
+
+\headingsix{La frase \fillin{final} resume la advertencia.}
+
+#### No sean sabios en su propia opinión.
+\headingfive{Pablo concluye con \fillin{una} advertencia directa.}
+
+\headingsix{La autosuficiencia intelectual y la confianza exagerada en el propio criterio contradicen la actitud que \fillin{viene} describiendo.}
+
+\headingsix{Este versículo funciona como transición hacia \fillin{las} exhortaciones que siguen sobre la relación con otros y la respuesta frente al mal.}
+
+\headingsix{Romanos 12:17 comenzará \fillin{aplicando} estos principios en situaciones de conflicto y ofensa.}
+
+### Romanos 12:17
+\begin{verseblock}
+Nunca paguen a nadie mal por mal. Respeten lo bueno delante de todos los hombres.
+\end{verseblock}
+#### Nunca paguen a nadie mal por mal.
+\headingfive{\fillin{Pablo} prohíbe responder al mal reproduciendo el mismo patrón.}
+
+\headingsix{Después de hablar de humildad y armonía, ahora aborda la manera de responder \fillin{cuando} se recibe daño u ofensa.}
+
+\headingsix{El énfasis \fillin{recae} sobre la respuesta del creyente, no sobre la conducta del agresor.}
+
+\headingsix{Véase \fillin{también} Proverbios 20:22.}
+
+\headingsix{la siguiente frase añade \fillin{una} orientación positiva.}
+
+#### Respeten lo bueno delante de todos los hombres.
+\headingfive{Pablo dirige la atención hacia lo \fillin{que} es honorable y correcto.}
+
+\headingsix{La conducta descrita debe ser visible \fillin{delante} de otros.}
+
+\headingsix{El contraste del versículo es \fillin{claro}: no devolver mal por mal, sino procurar aquello que es bueno.}
+
+\headingsix{Romanos 12:18 amplía esta actitud hacia \fillin{la} búsqueda de la paz.}
+
+### Romanos 12:18
+\begin{verseblock}
+Si es posible, en cuanto de ustedes dependa, estén en paz con todos los hombres.
+\end{verseblock}
+#### Si es posible,
+\headingfive{Pablo \fillin{reconoce} que la paz no siempre depende de una sola persona.}
+
+\headingsix{\fillin{La} exhortación incluye una condición realista.}
+
+\headingsix{El texto reconoce que pueden existir circunstancias fuera \fillin{del} control del creyente.}
+
+\headingsix{\fillin{La} siguiente frase delimita la responsabilidad personal.}
+
+#### en cuanto de ustedes dependa,
+\headingfive{Pablo enfoca la atención en aquello que sí está \fillin{bajo} la responsabilidad del creyente.}
+
+\headingsix{El énfasis no está \fillin{en} controlar la respuesta de otros, sino en la propia conducta.}
+
+\headingsix{Esta expresión complementa \fillin{la} condición anterior.}
+
+\headingsix{ahora aparece la exhortación \fillin{principal}.}
+
+#### estén en paz con todos los hombres.
+\headingfive{Pablo llama a buscar relaciones pacíficas \fillin{con} todos.}
+
+\headingsix{El alcance es amplio: no se limita solamente a la \fillin{comunidad} cristiana.}
+
+\headingsix{Esta instrucción desarrolla el mismo espíritu que aparece \fillin{en} los versículos anteriores.}
+
+\headingsix{Romanos 12:19 explicará por qué el creyente no debe tomar venganza \fillin{por} sí mismo.}
+
+### Romanos 12:19
+\begin{verseblock}
+Amados, nunca tomen venganza ustedes mismos, sino den lugar a la ira de Dios, porque escrito está: «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+\end{verseblock}
+#### Amados,
+\headingfive{\fillin{Pablo} introduce esta exhortación con una expresión de afecto.}
+
+\headingsix{La advertencia que sigue se da dentro del contexto de cuidado \fillin{pastoral}.}
+
+\headingsix{La siguiente frase contiene \fillin{la} prohibición principal.}
+
+#### nunca tomen venganza ustedes mismos,
+\headingfive{Pablo \fillin{prohíbe} la venganza personal.}
+
+\headingsix{Después de ordenar paz y rechazo del mal por mal, ahora especifica que el creyente no \fillin{debe} asumir el papel de ejecutor de justicia.}
+
+\headingsix{El énfasis está en \fillin{lo} que el creyente no debe hacer.}
+
+\headingsix{\fillin{la} siguiente frase presenta la alternativa.}
+
+#### sino den lugar a la ira de Dios,
+\headingfive{Pablo dirige la atención hacia la acción \fillin{de} Dios.}
+
+\headingsix{En \fillin{lugar} de tomar venganza personalmente, el creyente debe dejar espacio para la respuesta divina.}
+
+\headingsix{\fillin{Esta} frase prepara la cita bíblica que sigue.}
+
+\headingsix{\fillin{la} Escritura es presentada como fundamento de esta instrucción.}
+
+#### porque escrito está:
+\headingfive{Pablo apoya su exhortación mediante \fillin{una} cita del Antiguo Testamento.}
+
+\headingsix{La prohibición anterior no se basa solamente en una opinión \fillin{apostólica}.}
+
+\headingsix{El argumento queda \fillin{anclado} en la Escritura.}
+
+\headingsix{la cita \fillin{explica} por qué la venganza no pertenece al creyente.}
+
+#### «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+\headingfive{La cita \fillin{atribuye} la venganza al Señor.}
+
+\headingsix{La respuesta al mal no queda fuera de la justicia; simplemente no pertenece \fillin{al} individuo.}
+
+\headingsix{Pablo utiliza \fillin{esta} cita para reforzar la prohibición de la venganza personal.}
+
+\headingsix{\fillin{Véase} Deuteronomio 32:35.}
+
+\headingsix{Romanos 12:20 mostrará una respuesta completamente diferente hacia el \fillin{enemigo}.}
+
+### Romanos 12:20
+\begin{verseblock}
+«PERO SI TU ENEMIGO TIENE HAMBRE, DALE DE COMER; Y SI TIENE SED, DALE DE BEBER, PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+\end{verseblock}
+#### PERO SI TU ENEMIGO TIENE HAMBRE,
+\headingfive{Pablo continúa con una cita bíblica que presenta una respuesta inesperada \fillin{hacia} el enemigo.}
+
+\headingsix{El contraste con la venganza del versículo \fillin{anterior} es evidente.}
+
+\headingsix{La atención se dirige \fillin{a} una necesidad concreta del enemigo.}
+
+\headingsix{La siguiente frase presenta \fillin{la} respuesta requerida.}
+
+#### DALE DE COMER;
+\headingfive{\fillin{Pablo} describe una acción de ayuda práctica.}
+
+\headingsix{\fillin{La} respuesta al enemigo no es presentada como represalia sino como provisión.}
+
+\headingsix{\fillin{El} énfasis está en satisfacer la necesidad descrita.}
+
+\headingsix{la misma \fillin{idea} se repite con una segunda necesidad.}
+
+#### Y SI TIENE SED,
+\headingfive{La cita añade \fillin{un} ejemplo paralelo.}
+
+\headingsix{El patrón permanece \fillin{igual}: necesidad seguida de ayuda.}
+
+\headingsix{La \fillin{repetición} refuerza la idea principal.}
+
+\headingsix{\fillin{Ahora} aparece la acción correspondiente.}
+
+#### DALE DE BEBER,
+\headingfive{Pablo continúa la misma línea \fillin{de} conducta.}
+
+\headingsix{La respuesta al enemigo sigue caracterizándose por el bien en \fillin{lugar} del mal.}
+
+\headingsix{Este paralelismo fortalece el argumento de \fillin{la} cita.}
+
+\headingsix{\fillin{La} frase final explica el resultado asociado a esta conducta.}
+
+#### PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+\headingfive{\fillin{Pablo} concluye la cita con una imagen tomada del texto original.}
+
+\headingsix{El énfasis del \fillin{contexto} permanece en hacer bien al enemigo.}
+
+\headingsix{La imagen funciona como parte de la \fillin{razón} presentada en la cita bíblica.}
+
+\headingsix{\fillin{Véase} Proverbios 25:21–22.}
+
+\headingsix{Romanos 12:21 resumirá toda la sección con \fillin{una} declaración final.}
+
+### Romanos 12:21
+\begin{verseblock}
+No seas vencido por el mal, sino vence el mal con el bien.
+\end{verseblock}
+#### No seas vencido por el mal,
+\headingfive{Pablo resume el peligro que \fillin{ha} estado describiendo.}
+
+\headingsix{Responder al mal con mal significa permitir que el mal \fillin{determine} la conducta.}
+
+\headingsix{Este versículo funciona como conclusión de toda la sección \fillin{iniciada} en Romanos 12:9.}
+
+\headingsix{\fillin{La} siguiente frase presenta la alternativa final.}
+
+#### sino vence el mal con el bien.
+\headingfive{Pablo concluye \fillin{con} un contraste directo.}
+
+\headingsix{El bien aparece como la respuesta que debe caracterizar \fillin{toda} la conducta descrita en estos versículos.}
+
+\headingsix{Esta \fillin{declaración} resume el amor sincero, la paz, la renuncia a la venganza y el trato hacia el enemigo desarrollados desde Romanos 12:9.}
+
+\headingsix{Romanos 13 comenzará una nueva sección enfocada en la relación con las autoridades y \fillin{el} orden establecido.}
+
+> En Síntesis
+>- Pablo describe cómo debe verse el amor dentro de la nueva realidad presentada en Romanos 12.
+>- Este amor es sincero, rechaza lo malo, se aferra a lo bueno y busca el bienestar de otros antes que la propia exaltación.
+>- La sección enfatiza la humildad, la unidad, el servicio, la hospitalidad y la participación tanto en las alegrías como en los sufrimientos de otros.
+>- Pablo también extiende estas instrucciones más allá de la comunidad cristiana, llamando a vivir en paz con todos y a responder al mal sin devolver mal por mal.
+>- La venganza pertenece a Dios; por eso el creyente es llamado a hacer bien incluso a sus enemigos.
+>- Toda la sección culmina con una exhortación que resume el argumento completo: No ser vencidos por el mal, sino vencer el mal con el bien.
+
+## Romanos 13:1–7 - Sométanse a las autoridades
+
+### Romanos 13:1
+\begin{verseblock}
+Sométase toda persona a las autoridades que gobiernan. Porque no hay autoridad sino de Dios, y las que existen, por Dios son constituidas.
+\end{verseblock}
+#### Sométase toda persona a las autoridades que gobiernan.
+\headingfive{Pablo introduce una nueva esfera \fillin{de} relaciones: la relación con las autoridades.}
+
+\headingsix{La exhortación es universal: “toda \fillin{persona}”.}
+
+\headingsix{Después de hablar de las relaciones \fillin{con} otros (Romanos 12:9–21), Pablo ahora aborda la relación con quienes ejercen autoridad.}
+
+\headingsix{La siguiente \fillin{frase} explica la razón de esta exhortación.}
+
+#### Porque no hay autoridad sino de Dios,
+\headingfive{Pablo fundamenta \fillin{la} existencia de la autoridad en Dios.}
+
+\headingsix{La razón presentada no se basa en la calidad de los gobernantes, sino en el \fillin{origen} de la autoridad misma.}
+
+\headingsix{El argumento comienza con una \fillin{afirmación} general acerca de toda autoridad.}
+
+\headingsix{\fillin{La} siguiente frase desarrolla esa afirmación.}
+
+#### y las que existen, por Dios son constituidas.
+\headingfive{Pablo añade que las autoridades existentes han sido \fillin{establecidas} por Dios.}
+
+\headingsix{Esta frase completa la explicación iniciada en la \fillin{línea} anterior.}
+
+\headingsix{Ambas afirmaciones juntas sirven de fundamento para \fillin{la} exhortación a someterse.}
+
+\headingsix{Romanos 13:2 \fillin{mostrará} la implicación de resistir esa autoridad.}
+
+### Romanos 13:2
+\begin{verseblock}
+Por tanto, el que resiste a la autoridad, a lo ordenado por Dios se ha opuesto; y los que se han opuesto, recibirán condenación sobre sí mismos.
+\end{verseblock}
+#### Por tanto,
+\headingfive{Pablo extrae una conclusión \fillin{de} lo que acaba de afirmar.}
+
+\headingsix{Si la autoridad procede de Dios, entonces la \fillin{actitud} hacia la autoridad tiene consecuencias.}
+
+\headingsix{Este versículo desarrolla la implicación lógica \fillin{de} Romanos 13:1.}
+
+#### el que resiste a la autoridad,
+\headingfive{Pablo describe una \fillin{acción} específica: resistir la autoridad.}
+
+\headingsix{La atención \fillin{se} centra en la respuesta de la persona frente a la autoridad establecida.}
+
+#### a lo ordenado por Dios se ha opuesto;
+\headingfive{Pablo conecta \fillin{la} resistencia a la autoridad con oposición a lo que Dios ha establecido.}
+
+\headingsix{El \fillin{argumento} sigue la lógica presentada en el versículo anterior.}
+
+\headingsix{La oposición no se describe solamente en \fillin{términos} humanos, sino también en relación con Dios.}
+
+\headingsix{La última frase presenta el \fillin{resultado}.}
+
+#### y los que se han opuesto, recibirán condenación sobre sí mismos.
+\headingfive{Pablo señala una consecuencia para \fillin{quienes} persisten en esa oposición.}
+
+\headingsix{El énfasis está \fillin{en} el resultado que acompaña la resistencia descrita.}
+
+\headingsix{Este resultado prepara la explicación acerca de la función de los \fillin{gobernantes} en los versículos siguientes.}
+
+\headingsix{Romanos 13:3 explicará por qué las autoridades \fillin{producen} temor en ciertos casos.}
+
+### Romanos 13:3
+\begin{verseblock}
+Porque los gobernantes no son motivo de temor para los de buena conducta, sino para el que hace el mal. ¿Deseas, pues, no temer a la autoridad? Haz lo bueno y tendrás elogios de ella,
+\end{verseblock}
+#### Porque los gobernantes no son motivo de temor para los de buena conducta,
+\headingfive{Pablo explica la función normal \fillin{de} la autoridad.}
+
+\headingsix{El contraste del versículo gira alrededor de \fillin{dos} conductas: }
+- hacer lo bueno y hacer lo malo.
+
+\headingsix{La autoridad es presentada en relación con esas \fillin{conductas}.}
+
+\headingsix{La \fillin{siguiente} frase introduce el contraste.}
+
+#### sino para el que hace el mal.
+\headingfive{Pablo contrapone la buena conducta con la \fillin{mala} conducta.}
+
+\headingsix{El temor aparece asociado a quien practica \fillin{el} mal.}
+
+\headingsix{Esta observación \fillin{desarrolla} la explicación iniciada en el versículo anterior.}
+
+\headingsix{Ahora Pablo formula una \fillin{pregunta} directa.}
+
+#### ¿Deseas, pues, no temer a la autoridad?
+\headingfive{Pablo utiliza \fillin{una} pregunta para avanzar el argumento.}
+
+\headingsix{La pregunta prepara \fillin{la} respuesta práctica que sigue.}
+
+\headingsix{El tema continúa siendo la relación entre conducta \fillin{y} autoridad.}
+
+#### Haz lo bueno y tendrás elogios de ella,
+\headingfive{Pablo presenta una respuesta \fillin{sencilla} dentro de la lógica del argumento.}
+
+\headingsix{La buena conducta aparece vinculada al reconocimiento de \fillin{la} autoridad.}
+
+\headingsix{El contraste sigue siendo el mismo: bien frente a \fillin{mal}.}
+
+\headingsix{Romanos 13:4 explicará por qué \fillin{la} autoridad cumple esta función.}
+
+### Romanos 13:4
+\begin{verseblock}
+pues es para ti un ministro de Dios para bien. Pero si haces lo malo, teme. Porque no en vano lleva la espada, pues es ministro de Dios, un vengador que castiga al que practica lo malo.
+\end{verseblock}
+#### pues es para ti un ministro de Dios para bien.
+\headingfive{\fillin{Pablo} describe la función de la autoridad.}
+
+\headingsix{La autoridad es presentada como un servidor que cumple \fillin{una} función dentro del propósito de Dios.}
+
+\headingsix{El \fillin{énfasis} aquí está en el bien que esa función busca preservar.}
+
+\headingsix{La \fillin{siguiente} frase presenta el contraste.}
+
+#### Pero si haces lo malo, teme.
+\headingfive{Pablo vuelve al \fillin{contraste} entre bien y mal.}
+
+\headingsix{La advertencia se dirige a quien practica aquello que la autoridad debe \fillin{corregir}.}
+
+\headingsix{El tema del temor reaparece \fillin{conectado} con la mala conducta.}
+
+\headingsix{\fillin{Ahora} Pablo explica la razón.}
+
+#### Porque no en vano lleva la espada,
+\headingfive{Pablo presenta \fillin{la} autoridad como poseedora de capacidad para ejercer castigo.}
+
+\headingsix{\fillin{La} referencia a la espada explica por qué el temor mencionado no es vacío.}
+
+\headingsix{La autoridad posee medios para cumplir su \fillin{función}.}
+
+#### pues es ministro de Dios,
+\headingfive{Pablo repite \fillin{una} idea ya mencionada anteriormente.}
+
+\headingsix{La repetición subraya la función que la autoridad desempeña dentro del \fillin{argumento}.}
+
+\headingsix{El énfasis sigue estando \fillin{en} el papel asignado a ella.}
+
+\headingsix{la frase final explica ese \fillin{papel} con más detalle.}
+
+#### un vengador que castiga al que practica lo malo.
+\headingfive{Pablo identifica la función \fillin{específica} que tiene en vista.}
+
+\headingsix{La autoridad aparece relacionada con la aplicación de castigo \fillin{sobre} quien practica el mal.}
+
+\headingsix{Esta explicación \fillin{completa} el razonamiento iniciado en Romanos 13:3.}
+
+\headingsix{Romanos 13:5 resumirá la respuesta \fillin{apropiada} frente a esta realidad.}
+
+### Romanos 13:5
+\begin{verseblock}
+Por tanto, es necesario someterse, no solo por razón del castigo, sino también por causa de la conciencia.
+\end{verseblock}
+#### Por tanto,
+\headingfive{Pablo \fillin{vuelve} a presentar una conclusión.}
+
+\headingsix{Esta exhortación resume la explicación de \fillin{los} versículos anteriores.}
+
+\headingsix{El razonamiento avanza \fillin{desde} la función de la autoridad hacia la respuesta del creyente.}
+
+\headingsix{\fillin{La} siguiente frase contiene esa respuesta.}
+
+#### es necesario someterse,
+\headingfive{Pablo reafirma el mandato principal \fillin{de} la sección.}
+
+\headingsix{La exhortación retoma el tema con \fillin{el} que comenzó Romanos 13:1.}
+
+\headingsix{\fillin{Ahora} aparece respaldada por todo el argumento desarrollado hasta este punto.}
+
+\headingsix{\fillin{La} siguiente frase presenta una motivación.}
+
+#### no solo por razón del castigo,
+\headingfive{Pablo reconoce una razón \fillin{evidente} para someterse.}
+
+\headingsix{\fillin{El} castigo mencionado se relaciona con la función explicada en el versículo anterior.}
+
+\headingsix{Sin embargo, Pablo no \fillin{se} detiene ahí.}
+
+\headingsix{la siguiente \fillin{frase} añade una segunda razón.}
+
+#### sino también por causa de la conciencia.
+\headingfive{\fillin{Pablo} introduce una motivación adicional.}
+
+\headingsix{La sumisión no debe depender únicamente del temor \fillin{a} las consecuencias externas.}
+
+\headingsix{La conciencia también forma \fillin{parte} del razonamiento que Pablo presenta.}
+
+### Romanos 13:6
+\begin{verseblock}
+Pues por esto también ustedes pagan impuestos, porque los gobernantes son servidores de Dios, dedicados precisamente a esto.
+\end{verseblock}
+#### Pues por esto también ustedes pagan impuestos,
+\headingfive{Pablo aplica el principio anterior a una situación \fillin{concreta}.}
+
+\headingsix{El pago de \fillin{impuestos} aparece como una expresión práctica de la relación descrita en esta sección.}
+
+\headingsix{La \fillin{frase} conecta directamente con la explicación previa acerca de la autoridad.}
+
+\headingsix{La siguiente frase \fillin{presenta} la razón.}
+
+#### porque los gobernantes son servidores de Dios,
+\headingfive{Pablo vuelve a describir a los gobernantes mediante el \fillin{mismo} marco utilizado anteriormente.}
+
+\headingsix{La repetición \fillin{ayuda} a mantener la continuidad del argumento.}
+
+\headingsix{La \fillin{función} de los gobernantes sigue siendo el fundamento de la exhortación.}
+
+\headingsix{La última frase completa la \fillin{idea}.}
+
+#### dedicados precisamente a esto.
+\headingfive{Pablo concluye explicando la actividad a la que están \fillin{entregados}.}
+
+\headingsix{El versículo cierra reafirmando la \fillin{relación} entre la función de los gobernantes y la respuesta esperada de los creyentes.}
+
+\headingsix{Romanos 13:7 resumirá \fillin{esta} sección mediante varias obligaciones concretas hacia las autoridades.}
+
+### Romanos 13:7
+\begin{verseblock}
+Paguen a todos lo que deban: al que impuesto, impuesto; al que tributo, tributo; al que temor, temor; al que honor, honor.
+\end{verseblock}
+#### Paguen a todos lo que deban:
+\headingfive{Pablo \fillin{resume} la responsabilidad del creyente hacia otros.}
+
+\headingsix{La instrucción \fillin{es} amplia:}
+> «a todos»
+
+\headingsix{El énfasis recae en cumplir aquello \fillin{que} corresponde.}
+
+#### al que impuesto, impuesto;
+\headingfive{Pablo menciona una obligación \fillin{específica}.}
+
+\headingsix{El creyente debía entregar aquello que correspondía en \fillin{materia} de impuestos.}
+
+#### al que tributo, tributo;
+\headingfive{Pablo \fillin{añade} una segunda obligación.}
+
+\headingsix{\fillin{La} misma estructura se repite.}
+
+\headingsix{La instrucción continúa enfatizando dar lo \fillin{que} corresponde.}
+
+#### al que temor, temor;
+\headingfive{\fillin{Pablo} pasa de obligaciones económicas a actitudes relacionales.}
+
+\headingsix{El texto \fillin{menciona}:}
+> «temor»
+
+\headingsix{como algo que también debe darse \fillin{donde} corresponde.}
+
+#### al que honor, honor.
+\headingfive{Pablo concluye con una cuarta \fillin{obligación}.}
+
+\headingsix{La \fillin{estructura} del versículo permanece constante:}
+
+- impuesto → impuesto
+- tributo → tributo
+- temor → temor
+- honor → honor
+
+\headingfive{\fillin{Observación} desarrollacional:}
+\headingsix{Pablo cierra la sección sobre las autoridades \fillin{resumiendo} el principio de dar a cada uno lo que corresponde.}
+
+\headingsix{El siguiente versículo ampliará este mismo tema \fillin{mediante} una nueva declaración:}
+> «No deban a nadie nada, sino el amarse unos a otros».
+
+### Romanos 13:8
+\begin{verseblock}
+No deban a nadie nada, sino el amarse unos a otros. Porque el que ama a su prójimo, ha cumplido la ley.
+\end{verseblock}
+#### No deban a nadie nada,
+\headingfive{Pablo pasa de las obligaciones civiles \fillin{a} las relaciones personales.}
+
+\headingsix{Las deudas normales \fillin{pueden} pagarse y terminar. Sin embargo, presenta una obligación que permanece continuamente.}
+
+#### sino el amarse unos a otros.
+\headingfive{El amor mutuo aparece como una responsabilidad constante dentro \fillin{de} la comunidad.}
+
+\headingsix{Este \fillin{tema} ya había sido introducido en Romanos 12:9–10 y ahora recibe un desarrollo más amplio.}
+
+#### Porque el que ama a su prójimo, ha cumplido la ley.
+\headingfive{Pablo conecta el amor con el propósito de los mandamientos relacionados \fillin{con} el prójimo.}
+
+\headingsix{Los versículos siguientes explicarán esta afirmación mediante ejemplos \fillin{concretos} de la ley.}
+
+### Romanos 13:9
+\begin{verseblock}
+Porque esto: «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS», y cualquier otro mandamiento, en estas palabras se resume: «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
+\end{verseblock}
+#### Porque esto:
+\headingfive{Pablo \fillin{demuestra} su afirmación citando varios mandamientos conocidos.}
+
+#### «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS»,
+\headingfive{Todos estos mandamientos \fillin{regulan} la manera en que una persona trata a otras personas.}
+
+\headingsix{Pablo no los presenta \fillin{de} forma aislada, sino como ejemplos de un principio más amplio.}
+
+#### y cualquier otro mandamiento,
+\headingfive{La \fillin{misma} lógica se extiende más allá de los ejemplos mencionados.}
+
+#### «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
+\headingfive{Pablo presenta el principio que resume los mandamientos \fillin{relacionados} con el prójimo.}
+
+\headingsix{\fillin{Véase} Levítico 19:18.}
+
+### Romanos 13:10
+\begin{verseblock}
+El amor no hace mal al prójimo. Por tanto, el amor es el cumplimiento de la ley.
+\end{verseblock}
+#### El amor no hace mal al prójimo.
+\headingfive{Pablo explica por qué el amor \fillin{resume} los mandamientos.}
+
+\headingsix{Si \fillin{el} amor busca el bien del prójimo, entonces evita precisamente aquello que la ley prohíbe.}
+
+#### Por tanto, el amor es el cumplimiento de la ley.
+\headingfive{Esta es la conclusión de \fillin{la} sección iniciada en Romanos 13:8.}
+
+\headingsix{Pablo resume toda \fillin{la} discusión en una sola afirmación.}
+
+### Romanos 13:11
+\begin{verseblock}
+Y hagan todo esto, conociendo el tiempo, que ya es hora de despertarse del sueño. Porque ahora la salvación está más cerca de nosotros que cuando creímos.
+\end{verseblock}
+#### Y hagan todo esto,
+\headingfive{Pablo añade una nueva razón para \fillin{vivir} de esta manera.}
+
+\headingsix{No \fillin{solo} importa qué hacer, sino también el momento en que se vive.}
+
+#### que ya es hora de despertarse del sueño.
+\headingfive{Pablo utiliza \fillin{la} imagen de alguien que despierta.}
+
+\headingsix{La figura prepara el contraste entre noche y día que \fillin{aparece} en los versículos siguientes.}
+
+#### Porque ahora la salvación está más cerca de nosotros que cuando creímos.
+\headingfive{Pablo señala \fillin{que} el tiempo ha avanzado.}
+
+\headingsix{Esta realidad impulsa la urgencia de las exhortaciones \fillin{que} siguen.}
+
+### Romanos 13:12
+\begin{verseblock}
+La noche está muy avanzada, y el día está cerca. Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
+\end{verseblock}
+#### La noche está muy avanzada, y el día está cerca.
+\headingfive{Pablo \fillin{continúa} desarrollando la imagen del versículo anterior.}
+
+\headingsix{La escena describe una transición: una realidad se acerca \fillin{a} su fin mientras otra se aproxima.}
+
+#### Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
+\headingfive{\fillin{La} conclusión surge directamente de la imagen anterior.}
+
+\headingsix{Pablo contrasta dos maneras de vivir \fillin{mediante} las figuras de tinieblas y luz.}
+
+### Romanos 13:13
+\begin{verseblock}
+Andemos decentemente, como de día, no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
+\end{verseblock}
+#### Andemos decentemente, como de día,
+\headingfive{Pablo aplica de \fillin{forma} práctica el contraste entre tinieblas y luz.}
+
+\headingsix{La conducta debe corresponder a \fillin{la} realidad representada por el día.}
+
+#### no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
+\headingfive{Pablo presenta varios \fillin{ejemplos} de conductas incompatibles con la exhortación anterior.}
+
+\headingsix{La lista incluye tanto excesos visibles \fillin{como} actitudes que dañan las relaciones entre las personas.}
+
+### Romanos 13:14
+\begin{verseblock}
+Antes bien, vístanse del Señor Jesucristo, y no piensen en proveer para las lujurias de la carne.
+\end{verseblock}
+#### Antes bien, vístanse del Señor Jesucristo,
+\headingfive{Pablo concluye esta sección retomando la imagen de vestirse \fillin{introducida} en el versículo 12.}
+
+\headingsix{Después de describir lo que debe abandonarse, ahora presenta aquello con lo que \fillin{deben} identificarse.}
+
+#### y no piensen en proveer para las lujurias de la carne.
+\headingfive{La exhortación \fillin{final} contrasta directamente con la lista del versículo anterior.}
+
+\headingsix{Con este llamado, \fillin{Pablo} cierra la unidad práctica iniciada en Romanos 12:1 acerca de presentar la vida a Dios.}
+
+> En Síntesis
+>- Pablo comienza hablando de la relación del creyente con las autoridades y afirma que la autoridad existe dentro del orden establecido por Dios.
+>- Después aplica este principio de manera práctica mediante la sumisión, el pago de impuestos, el respeto y el honor a quienes corresponde.
+>- A continuación dirige la atención hacia una deuda que nunca termina:
+El amor al prójimo.
+>- Pablo muestra que el amor resume los mandamientos relacionados con el prójimo y concluye que el amor es el cumplimiento de la ley.
+>- Luego añade una motivación urgente: el tiempo ha avanzado y la salvación está más cerca que cuando creímos.
+>- Por eso exhorta a abandonar las obras de las tinieblas, andar como de día y vestirse del Señor Jesucristo.
+>- La sección conecta la obediencia práctica, el amor al prójimo y una vida consciente del tiempo presente, llamando al creyente a vivir de manera coherente con la realidad que se acerca.
+
+# ROMANOS 14:1–15:13 ACÉPTENSE UNOS A OTROS
+
+## 14:1–12 El Señor es quien sostiene a Su siervo
+
+### Romanos 14:1
+\begin{verseblock}
+Acepten al que es débil en la fe, pero no para juzgar sus opiniones.
+\end{verseblock}
+#### Acepten al que es débil en la fe,
+\headingfive{Pablo abre una nueva sección con una instrucción sobre cómo tratar a creyentes que tienen convicciones \fillin{diferentes}.}
+
+\headingsix{El énfasis inicial no está en corregir al débil, sino \fillin{en} recibirlo.}
+
+\headingsix{\fillin{El} tema principal de esta sección será la convivencia entre creyentes que no piensan igual sobre ciertos asuntos.}
+
+\headingsix{\fillin{La} siguiente frase aclara cómo no debe hacerse esa recepción.}
+
+#### pero no para juzgar sus opiniones.
+\headingfive{La aceptación no debe convertirse en una oportunidad para discutir o condenar las \fillin{convicciones} del otro.}
+
+\headingsix{Pablo dirige la atención hacia la relación entre los creyentes más que \fillin{hacia} el asunto específico que produce la diferencia.}
+
+\headingsix{Este principio controlará todo el desarrollo de los \fillin{versículos} siguientes.}
+
+### Romanos 14:2
+\begin{verseblock}
+Uno tiene fe en que puede comer de todo, pero el que es débil solo come legumbres.
+\end{verseblock}
+#### Uno tiene fe en que puede comer de todo,
+\headingfive{Pablo presenta \fillin{el} primer ejemplo de diferencia dentro de la comunidad.}
+
+\headingsix{Una persona considera que puede comer cualquier alimento \fillin{sin} problema.}
+
+\headingsix{\fillin{El} versículo no discute todavía quién tiene razón; simplemente describe las dos posiciones.}
+
+\headingsix{La siguiente frase \fillin{presenta} la posición opuesta.}
+
+#### pero el que es débil solo come legumbres.
+\headingfive{Pablo contrasta al creyente anterior con otro que limita \fillin{su} alimentación.}
+
+\headingsix{El contraste muestra que ambos pertenecen a \fillin{la} misma comunidad, aunque sus prácticas sean diferentes.}
+
+### Romanos 14:3
+\begin{verseblock}
+El que come no desprecie al que no come, y el que no come no juzgue al que come, porque Dios lo ha aceptado.
+\end{verseblock}
+#### El que come no desprecie al que no come,
+\headingfive{Pablo corrige la primera \fillin{reacción} equivocada.}
+
+\headingsix{Quien tiene mayor libertad \fillin{no} debe mirar al otro con desprecio o superioridad.}
+
+\headingsix{La diferencia de práctica \fillin{no} justifica una actitud de menosprecio.}
+
+#### y el que no come no juzgue al que come,
+\headingfive{Pablo \fillin{también} corrige al creyente que restringe su alimentación.}
+
+\headingsix{La \fillin{diferencia} tampoco debe convertirse en condenación hacia quien actúa de otra manera.}
+
+\headingsix{Ambos extremos \fillin{reciben} la misma corrección.}
+
+\headingsix{la siguiente frase explica la \fillin{razón}.}
+
+#### porque Dios lo ha aceptado.
+\headingfive{Pablo fundamenta su \fillin{instrucción} en la acción de Dios.}
+
+\headingsix{Si Dios ha recibido a esa persona, los creyentes no \fillin{tienen} base para rechazarla.}
+
+\headingsix{Esta idea será desarrollada aún más en \fillin{el} versículo siguiente.}
+
+### Romanos 14:4
+\begin{verseblock}
+¿Quién eres tú para juzgar al criado de otro? Para su propio amo está en pie o cae. En pie se mantendrá, porque poderoso es el Señor para sostenerlo en pie.
+\end{verseblock}
+#### ¿Quién eres tú para juzgar al criado de otro?
+\headingfive{Pablo utiliza la imagen de un \fillin{siervo} y su amo.}
+
+\headingsix{La pregunta busca mostrar que el creyente pertenece a \fillin{otro} Señor.}
+
+\headingsix{El énfasis recae \fillin{en} los límites de la autoridad humana para juzgar.}
+
+\headingsix{la \fillin{siguiente} frase desarrolla la ilustración.}
+
+#### Para su propio amo está en pie o cae.
+\headingfive{\fillin{Pablo} recuerda que el siervo responde ante su propio amo.}
+
+\headingsix{La \fillin{evaluación} definitiva no pertenece a otros siervos.}
+
+\headingsix{La imagen mantiene el enfoque en la relación entre el Señor \fillin{y} su siervo.}
+
+\headingsix{La \fillin{siguiente} frase añade una afirmación importante.}
+
+#### En pie se mantendrá,
+\headingfive{\fillin{Pablo} expresa confianza respecto al creyente mencionado.}
+
+\headingsix{La atención se mueve del juicio humano al cuidado del \fillin{Señor}.}
+
+\headingsix{La siguiente frase explica \fillin{por} qué.}
+
+#### porque poderoso es el Señor para sostenerlo en pie.
+\headingfive{La estabilidad \fillin{final} del creyente se atribuye al Señor.}
+
+\headingsix{El argumento no descansa en la fuerza del \fillin{siervo}, sino en la capacidad de quien lo sostiene.}
+
+\headingsix{Romanos 14:5 introduce un segundo \fillin{ejemplo} de diferencias entre creyentes.}
+
+### Romanos 14:5
+\begin{verseblock}
+Uno juzga que un día es superior a otro, otro juzga iguales todos los días. Cada cual esté plenamente convencido según su propio sentir.
+\end{verseblock}
+#### Uno juzga que un día es superior a otro,
+\headingfive{Pablo presenta otro ejemplo de diferencias dentro de \fillin{la} comunidad.}
+
+\headingsix{Ahora el tema no es la comida, sino la valoración de ciertos \fillin{días}.}
+
+\headingsix{La siguiente frase presenta la \fillin{posición} opuesta.}
+
+#### otro juzga iguales todos los días.
+\headingfive{Pablo muestra una segunda perspectiva sobre \fillin{el} mismo asunto.}
+
+\headingsix{El contraste es similar al \fillin{ejemplo} anterior: creyentes que llegan a conclusiones distintas.}
+
+\headingsix{El énfasis continúa estando en la convivencia, no en la discusión \fillin{del} calendario.}
+
+#### Cada cual esté plenamente convencido según su propio sentir.
+\headingfive{Pablo llama a actuar con convicción \fillin{personal}.}
+
+\headingsix{La instrucción se dirige a la certeza con la que cada uno practica aquello \fillin{que} considera correcto.}
+
+\headingsix{Romanos 14:6 explicará cómo \fillin{ambas} prácticas pueden orientarse hacia el Señor.}
+
+### Romanos 14:6
+\begin{verseblock}
+El que guarda cierto día, para el Señor lo guarda. El que come, para el Señor come, pues da gracias a Dios; y el que no come, para el Señor se abstiene, y da gracias a Dios.
+\end{verseblock}
+#### El que guarda cierto día, para el Señor lo guarda.
+\headingfive{\fillin{Pablo} señala la intención detrás de la práctica.}
+
+\headingsix{La \fillin{observancia} del día está dirigida al Señor.}
+
+#### El que come, para el Señor come,
+\headingfive{Pablo muestra que \fillin{la} práctica diferente también puede estar orientada al Señor.}
+
+\headingsix{La diferencia externa no \fillin{implica} necesariamente una diferencia en el propósito.}
+
+\headingsix{La siguiente frase añade una \fillin{evidencia}.}
+
+#### pues da gracias a Dios;
+\headingfive{La acción de dar \fillin{gracias} muestra reconocimiento hacia Dios.}
+
+\headingsix{Pablo utiliza esta observación para mostrar la orientación común de ambos \fillin{grupos}.}
+
+#### y el que no come, para el Señor se abstiene,
+\headingfive{El creyente que se abstiene actúa \fillin{con} la misma intención básica.}
+
+\headingsix{Pablo vuelve a destacar la \fillin{dirección} hacia el Señor.}
+
+\headingsix{la frase final repite el mismo \fillin{elemento}.}
+
+#### y da gracias a Dios.
+\headingfive{\fillin{Ambos} grupos comparten una misma actitud de gratitud.}
+
+\headingsix{La repetición refuerza el argumento de que la diferencia no está en \fillin{el} Señor al que sirven, sino en la práctica que siguen.}
+
+\headingsix{Romanos 14:7 presentará el principio general que sostiene todo \fillin{este} razonamiento.}
+
+### Romanos 14:7
+\begin{verseblock}
+Porque ninguno de nosotros vive para sí mismo, y ninguno muere para sí mismo.
+\end{verseblock}
+#### Porque ninguno de nosotros vive para sí mismo,
+\headingfive{Pablo comienza a explicar la razón que une los ejemplos \fillin{anteriores}.}
+
+\headingsix{El creyente no es presentado como alguien que existe únicamente para \fillin{sus} propias preferencias o decisiones.}
+
+\headingsix{Esta afirmación prepara una explicación más \fillin{amplia} sobre la relación con el Señor.}
+
+#### y ninguno muere para sí mismo.
+\headingfive{Pablo amplía el principio hasta abarcar \fillin{toda} la vida.}
+
+\headingsix{\fillin{El} paralelismo entre vivir y morir muestra el alcance total de la afirmación.}
+
+\headingsix{Pablo continuará desarrollando esta idea mostrando \fillin{que} tanto la vida como la muerte pertenecen al Señor.}
+
+### Romanos 14:8
+\begin{verseblock}
+Pues si vivimos, para el Señor vivimos, y si morimos, para el Señor morimos. Por tanto, ya sea que vivamos o que muramos, del Señor somos.
+\end{verseblock}
+#### Pues si vivimos, para el Señor vivimos,
+\headingfive{Pablo continúa desarrollando \fillin{la} idea del versículo anterior.}
+
+\headingsix{La \fillin{vida} del creyente no se presenta como algo orientado principalmente a sí mismo, sino al Señor.}
+
+\headingsix{Esto explica por qué las diferencias tratadas en este \fillin{capítulo} no deben convertirse en motivo de división.}
+
+\headingsix{La siguiente frase extiende el mismo principio \fillin{a} la muerte.}
+
+#### y si morimos, para el Señor morimos.
+\headingfive{\fillin{Pablo} amplía el alcance de la afirmación.}
+
+\headingsix{Tanto la vida como la muerte quedan bajo \fillin{la} misma relación con el Señor.}
+
+\headingsix{El argumento busca \fillin{mostrar} una pertenencia que abarca toda la existencia.}
+
+#### Por tanto, ya sea que vivamos o que muramos, del Señor somos.
+\headingfive{Pablo \fillin{llega} a la conclusión principal.}
+
+\headingsix{La identidad del creyente se define por su pertenencia \fillin{al} Señor.}
+
+\headingsix{Esta \fillin{realidad} prepara la explicación del versículo siguiente.}
+
+### Romanos 14:9
+\begin{verseblock}
+Porque para esto Cristo murió y resucitó, para ser Señor tanto de los muertos como de los vivos.
+\end{verseblock}
+#### Porque para esto Cristo murió y resucitó,
+\headingfive{\fillin{Pablo} explica la base de la afirmación anterior.}
+
+\headingsix{La muerte y resurrección de Cristo se presentan como acontecimientos que sostienen \fillin{su} señorío.}
+
+\headingsix{El versículo conecta directamente con la declaración de que vivimos y morimos para el \fillin{Señor}.}
+
+#### para ser Señor tanto de los muertos como de los vivos.
+\headingfive{Pablo presenta el alcance del señorío \fillin{de} Cristo.}
+
+\headingsix{La afirmación abarca \fillin{a} vivos y muertos, retomando las dos categorías mencionadas en el versículo anterior.}
+
+\headingsix{Este argumento servirá para corregir la actitud de juzgar \fillin{al} hermano.}
+
+### Romanos 14:10
+\begin{verseblock}
+Pero tú, ¿por qué juzgas a tu hermano? O también, tú, ¿por qué desprecias a tu hermano? Porque todos compareceremos ante el tribunal de Dios.
+\end{verseblock}
+#### Pero tú, ¿por qué juzgas a tu hermano?
+\headingfive{Pablo vuelve \fillin{al} problema práctico que abrió la sección.}
+
+\headingsix{Después de afirmar \fillin{el} señorío de Cristo, cuestiona el hábito de juzgar al hermano.}
+
+\headingsix{La pregunta obliga al lector a reconsiderar su postura frente a otros \fillin{creyentes}.}
+
+#### O también, tú, ¿por qué desprecias a tu hermano?
+\headingfive{Pablo \fillin{corrige} tanto al que juzga como al que menosprecia.}
+
+\headingsix{Ambos comportamientos rompen la relación \fillin{que} debe existir entre hermanos.}
+
+\headingsix{El problema no está solamente en condenar, sino \fillin{también} en mirar con superioridad.}
+
+\headingsix{La \fillin{siguiente} frase explica la razón.}
+
+#### Porque todos compareceremos ante el tribunal de Dios.
+\headingfive{Pablo dirige la \fillin{atención} al juicio de Dios.}
+
+\headingsix{El énfasis deja de estar en la evaluación \fillin{humana} y pasa a la evaluación divina.}
+
+\headingsix{\fillin{Todos} aparecen en la misma condición delante de Dios.}
+
+\headingsix{El versículo siguiente apoya esta afirmación con una cita de la \fillin{Escritura}.}
+
+### Romanos 14:11
+\begin{verseblock}
+Porque está escrito: «VIVO YO, DICE EL SEÑOR, QUE ANTE MÍ SE DOBLARÁ TODA RODILLA, Y TODA LENGUA ALABARÁ A DIOS».
+\end{verseblock}
+#### Porque está escrito:
+\headingfive{Pablo fundamenta su argumento en la \fillin{Escritura}.}
+
+\headingsix{La autoridad de la afirmación no descansa en una opinión personal, sino en un texto ya \fillin{escrito}.}
+
+\headingsix{La cita describe una respuesta universal delante de \fillin{Dios}.}
+
+#### «VIVO YO, DICE EL SEÑOR,
+\headingfive{La declaración comienza con una afirmación solemne \fillin{del} Señor.}
+
+\headingsix{La cita enfatiza que \fillin{es} Dios mismo quien habla.}
+
+\headingsix{la siguiente frase describe \fillin{la} respuesta que recibirá.}
+
+#### QUE ANTE MÍ SE DOBLARÁ TODA RODILLA,
+\headingfive{La imagen presenta reconocimiento y \fillin{sumisión} delante de Dios.}
+
+\headingsix{El alcance es universal: \fillin{toda} rodilla.}
+
+\headingsix{La siguiente frase \fillin{completa} el paralelismo.}
+
+#### Y TODA LENGUA ALABARÁ A DIOS».
+\headingfive{La cita añade la confesión verbal \fillin{junto} a la acción de doblar la rodilla.}
+
+\headingsix{Ambas imágenes \fillin{apuntan} a una comparecencia universal delante de Dios.}
+
+\headingsix{\fillin{Véase} Isaías 45:23.}
+
+\headingsix{Pablo resumirá la implicación en el \fillin{versículo} siguiente.}
+
+### Romanos 14:12
+\begin{verseblock}
+De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
+\end{verseblock}
+#### De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
+\headingfive{Pablo extrae la conclusión de la cita \fillin{anterior}.}
+
+\headingsix{\fillin{La} responsabilidad presentada aquí es personal.}
+
+\headingsix{El énfasis recae en la relación de cada creyente con Dios, no en la evaluación de \fillin{otros} creyentes.}
+
+\headingsix{La siguiente exhortación aplicará esta conclusión al problema del \fillin{juicio} mutuo.}
+
+> En Síntesis
+>- Pablo exhorta a los creyentes a recibirse mutuamente aun cuando tengan convicciones diferentes sobre asuntos secundarios.
+>- Ni el que tiene mayor libertad debe despreciar al otro, ni el que restringe ciertas prácticas debe juzgar a su hermano.
+>- La razón principal es que Dios ya lo ha aceptado y el Señor es poderoso para sostener a Su siervo.
+>- Tanto quienes comen como quienes se abstienen, tanto quienes observan ciertos días como quienes no lo hacen, pueden actuar para el Señor y dar gracias a Dios.
+>- Pablo recuerda que los creyentes no viven para sí mismos, sino que pertenecen al Señor, quien murió y resucitó para ser Señor tanto de los muertos como de los vivos.
+>- Por eso el juicio y el menosprecio entre hermanos son inapropiados, porque cada creyente comparecerá personalmente ante Dios y dará cuenta de sí mismo.
+
+## 14:13–23 No destruyan al hermano
+
+### Romanos 14:13
+\begin{verseblock}
+Por tanto, ya no nos juzguemos los unos a los otros, sino más bien decidan esto: no poner obstáculo o piedra de tropiezo al hermano.
+\end{verseblock}
+#### Por tanto, ya no nos juzguemos los unos a los otros,
+\headingfive{Pablo \fillin{aplica} directamente la conclusión del versículo anterior.}
+
+\headingsix{Si cada persona \fillin{dará} cuenta de sí misma a Dios, entonces la comunidad no debe dedicarse a juzgarse mutuamente.}
+
+\headingsix{Esto \fillin{retoma} el tema iniciado en Romanos 14:1–4.}
+
+\headingsix{La \fillin{siguiente} frase propone una decisión mejor.}
+
+#### sino más bien decidan esto:
+\headingfive{Pablo reemplaza una actividad \fillin{por} otra.}
+
+\headingsix{En lugar de juzgar al hermano, deben tomar una resolución \fillin{diferente}.}
+
+\headingsix{La siguiente frase expresa \fillin{esa} resolución.}
+
+#### no poner obstáculo o piedra de tropiezo al hermano.
+\headingfive{Pablo dirige la atención al efecto que una conducta puede tener sobre otros \fillin{creyentes}.}
+
+\headingsix{El enfoque \fillin{cambia} del derecho personal al bienestar del hermano.}
+
+\headingsix{Este principio dominará \fillin{el} resto de la sección.}
+
+### Romanos 14:14
+\begin{verseblock}
+Yo sé, y estoy convencido en el Señor Jesús, de que nada es inmundo en sí mismo; pero para el que estima que algo es inmundo, para él lo es.
+\end{verseblock}
+#### Yo sé, y estoy convencido en el Señor Jesús,
+\headingfive{Pablo expresa una \fillin{convicción} personal con claridad.}
+
+\headingsix{La afirmación prepara el contenido principal \fillin{del} versículo.}
+
+#### de que nada es inmundo en sí mismo;
+\headingfive{Pablo afirma \fillin{que} ningún alimento es inmundo por naturaleza propia.}
+
+\headingsix{Esta declaración ayuda \fillin{a} entender su posición en la discusión.}
+
+\headingsix{Sin embargo, \fillin{Pablo} no termina aquí.}
+
+\headingsix{La siguiente frase introduce una \fillin{consideración} adicional.}
+
+#### pero para el que estima que algo es inmundo, para él lo es.
+\headingfive{\fillin{Pablo} toma en cuenta la conciencia de la otra persona.}
+
+\headingsix{El énfasis sigue estando en \fillin{la} manera en que los creyentes conviven con diferencias de convicción.}
+
+\headingsix{El versículo \fillin{siguiente} mostrará cómo esto afecta la conducta hacia el hermano.}
+
+### Romanos 14:15
+\begin{verseblock}
+Porque si por causa de la comida tu hermano se entristece, ya no andas conforme al amor. No destruyas con tu comida a aquel por quien Cristo murió.
+\end{verseblock}
+#### Porque si por causa de la comida tu hermano se entristece,
+\headingfive{\fillin{Pablo} presenta una situación concreta.}
+
+\headingsix{La \fillin{discusión} deja de centrarse en la comida misma y pasa a considerar el efecto producido en el hermano.}
+
+\headingsix{La siguiente \fillin{frase} evalúa esa conducta.}
+
+#### ya no andas conforme al amor.
+\headingfive{Pablo mide la \fillin{situación} usando el criterio del amor.}
+
+\headingsix{Esto conecta con el énfasis desarrollado \fillin{anteriormente} en Romanos 12:9–10 y Romanos 13:8–10.}
+
+\headingsix{\fillin{La} siguiente frase intensifica la advertencia.}
+
+#### No destruyas con tu comida a aquel por quien Cristo murió.
+\headingfive{Pablo muestra el valor que tiene el hermano dentro del \fillin{argumento}.}
+
+\headingsix{El contraste es intencional: un asunto relacionado con comida no debe colocarse \fillin{por} encima del bienestar de una persona.}
+
+\headingsix{El versículo siguiente extraerá una \fillin{conclusión} práctica.}
+
+### Romanos 14:16
+\begin{verseblock}
+Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
+\end{verseblock}
+#### Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
+\headingfive{Pablo resume la preocupación planteada en los versículos \fillin{anteriores}.}
+
+\headingsix{Algo que es bueno en sí mismo puede llegar \fillin{a} ser motivo de conflicto si se utiliza sin consideración hacia otros.}
+
+\headingsix{\fillin{La} atención continúa enfocada en proteger la unidad y evitar tropiezos innecesarios.}
+
+\headingsix{Romanos 14:17 explicará por \fillin{qué} estas cuestiones no constituyen el centro del reino de Dios.}
+
+### Romanos 14:17
+\begin{verseblock}
+Porque el reino de Dios no es comida ni bebida, sino justicia y paz y gozo en el Espíritu Santo.
+\end{verseblock}
+#### Porque el reino de Dios no es comida ni bebida,
+\headingfive{Pablo \fillin{explica} por qué la comida no debe convertirse en el centro de la discusión.}
+
+\headingsix{Después de varios ejemplos relacionados con \fillin{alimentos}, dirige la atención hacia algo más importante.}
+
+\headingsix{El argumento \fillin{no} niega la existencia de esas diferencias, pero sí niega que definan la esencia del reino de Dios.}
+
+\headingsix{La siguiente frase muestra aquello \fillin{que} sí caracteriza al reino.}
+
+#### sino justicia y paz y gozo en el Espíritu Santo.
+\headingfive{Pablo presenta tres realidades que contrastan con \fillin{la} discusión sobre comida y bebida.}
+
+\headingsix{\fillin{El} enfoque pasa de cuestiones externas a aquello que fortalece la vida del pueblo de Dios.}
+
+\headingsix{La paz conecta especialmente con la exhortación \fillin{que} aparecerá en el versículo 19.}
+
+\headingsix{El versículo siguiente muestra el resultado de \fillin{vivir} de esta manera.}
+
+### Romanos 14:18
+\begin{verseblock}
+Porque el que de esta manera sirve a Cristo, es aceptable a Dios y aprobado por los hombres.
+\end{verseblock}
+#### Porque el que de esta manera sirve a Cristo,
+\headingfive{Pablo se refiere a la manera \fillin{de} vivir descrita en el versículo anterior.}
+
+\headingsix{El énfasis \fillin{está} en servir a Cristo según las prioridades que acaba de mencionar.}
+
+\headingsix{La \fillin{siguiente} frase describe el resultado.}
+
+#### es aceptable a Dios y aprobado por los hombres.
+\headingfive{Pablo \fillin{presenta} dos resultados paralelos.}
+
+\headingsix{La conducta descrita encuentra aprobación tanto delante de \fillin{Dios} como en las relaciones humanas.}
+
+\headingsix{Esto prepara la exhortación práctica \fillin{del} versículo siguiente.}
+
+### Romanos 14:19
+\begin{verseblock}
+Así que procuremos lo que contribuye a la paz y a la edificación mutua.
+\end{verseblock}
+#### Así que procuremos
+\headingfive{Pablo extrae una conclusión práctica \fillin{de} todo el argumento anterior.}
+
+\headingsix{La discusión deja de centrarse en quién tiene razón y pasa a centrarse en qué debe \fillin{buscar} la comunidad.}
+
+\headingsix{La \fillin{siguiente} frase define ese objetivo.}
+
+#### lo que contribuye a la paz y a la edificación mutua.
+\headingfive{Pablo identifica dos metas \fillin{principales}.}
+
+\headingsix{La paz retoma \fillin{el} tema del versículo 17.}
+
+\headingsix{\fillin{La} edificación dirige la atención al beneficio de otros creyentes.}
+
+\headingsix{\fillin{Véase} Romanos 12:16–18.}
+
+### Romanos 14:20
+\begin{verseblock}
+No destruyas la obra de Dios por causa de la comida. En realidad, todas las cosas son limpias, pero son malas para el hombre que escandaliza a otro al comer.
+\end{verseblock}
+#### No destruyas la obra de Dios por causa de la comida.
+\headingfive{Pablo vuelve al ejemplo principal \fillin{de} esta sección.}
+
+\headingsix{El contraste \fillin{es} fuerte: la comida aparece frente a la obra de Dios.}
+
+\headingsix{La exhortación mantiene el énfasis en el valor \fillin{del} hermano y de la comunidad.}
+
+\headingsix{La \fillin{siguiente} frase aclara la posición de Pablo sobre los alimentos.}
+
+#### En realidad, todas las cosas son limpias,
+\headingfive{Pablo reafirma algo que ya \fillin{había} dicho anteriormente.}
+
+\headingsix{La cuestión \fillin{principal} no es la naturaleza de la comida.}
+
+\headingsix{Esta afirmación se \fillin{conecta} con Romanos 14:14.}
+
+#### pero son malas para el hombre que escandaliza a otro al comer.
+\headingfive{Pablo dirige la atención al efecto producido sobre otra \fillin{persona}.}
+
+\headingsix{El problema no es \fillin{simplemente} comer, sino hacerlo de una manera que cause tropiezo.}
+
+\headingsix{La preocupación sigue siendo el bienestar \fillin{del} hermano.}
+
+### Romanos 14:21
+\begin{verseblock}
+Es mejor no comer carne, ni beber vino, ni hacer nada en que tu hermano tropiece.
+\end{verseblock}
+#### Es mejor no comer carne, ni beber vino,
+\headingfive{\fillin{Pablo} presenta una alternativa voluntaria.}
+
+\headingsix{La prioridad continúa siendo \fillin{proteger} al hermano antes que ejercer una libertad personal.}
+
+\headingsix{La comida y la bebida siguen funcionando como ejemplos \fillin{concretos}.}
+
+#### ni hacer nada en que tu hermano tropiece.
+\headingfive{Pablo amplía el principio más allá \fillin{de} la comida.}
+
+\headingsix{El énfasis \fillin{ya} no está en una acción específica, sino en cualquier conducta que produzca tropiezo.}
+
+\headingsix{Esto resume \fillin{gran} parte del argumento desarrollado desde Romanos 14:13.}
+
+\headingsix{El versículo siguiente vuelve a la responsabilidad personal delante \fillin{de} Dios.}
+
+### Romanos 14:22
+\begin{verseblock}
+La fe que tú tienes, tenla conforme a tu propia convicción delante de Dios. Dichoso el que no se condena a sí mismo en lo que aprueba.
+\end{verseblock}
+#### La fe que tú tienes,
+\headingfive{Pablo se dirige directamente al creyente que posee una convicción determinada sobre estos \fillin{asuntos}.}
+
+\headingsix{El énfasis \fillin{pasa} nuevamente a la responsabilidad personal.}
+
+#### tenla conforme a tu propia convicción delante de Dios.
+\headingfive{Pablo relaciona estas convicciones con la relación personal \fillin{delante} de Dios.}
+
+\headingsix{El foco no está en imponerlas a otros, sino en \fillin{sostenerlas} delante de Dios.}
+
+#### Dichoso el que no se condena a sí mismo en lo que aprueba.
+\headingfive{Pablo \fillin{describe} una situación de tranquilidad de conciencia.}
+
+\headingsix{La persona aprueba una conducta sin quedar condenada por ella en su \fillin{propia} conciencia.}
+
+\headingsix{Este pensamiento prepara \fillin{el} contraste del versículo siguiente.}
+
+### Romanos 14:23
+\begin{verseblock}
+Pero el que duda, si come se condena, porque no lo hace por fe. Todo lo que no procede de fe, es pecado.
+\end{verseblock}
+#### Pero el que duda,
+\headingfive{Pablo presenta el caso opuesto al \fillin{versículo} anterior.}
+
+\headingsix{El tema sigue siendo la relación entre la conducta \fillin{y} la convicción personal.}
+
+\headingsix{la \fillin{siguiente} frase describe la consecuencia.}
+
+#### si come se condena,
+\headingfive{Pablo explica \fillin{el} resultado de actuar contra la propia convicción.}
+
+\headingsix{La atención recae sobre la condición interior \fillin{de} la persona que duda.}
+
+\headingsix{\fillin{La} siguiente frase explica la razón.}
+
+#### porque no lo hace por fe.
+\headingfive{Pablo identifica la causa del \fillin{problema}.}
+
+\headingsix{La acción no surge de una \fillin{convicción} segura.}
+
+\headingsix{Esta explicación conecta directamente con el \fillin{tema} desarrollado en los versículos anteriores.}
+
+#### Todo lo que no procede de fe, es pecado.
+\headingfive{Pablo concluye la sección con una declaración \fillin{amplia}.}
+
+\headingsix{El principio resume el problema tratado a lo largo del capítulo: actuar sin convicción delante \fillin{de} Dios.}
+
+\headingsix{Con esta afirmación concluye la discusión iniciada en Romanos 14:1 sobre diferencias de conciencia entre \fillin{creyentes}.}
+
+> En Síntesis
+>- Pablo deja de enfocarse en el juicio mutuo y dirige la atención al bienestar del hermano.
+>- La pregunta principal ya no es qué está permitido, sino qué efecto tiene una acción sobre otros creyentes.
+>- Aunque Pablo afirma que nada es inmundo en sí mismo, insiste en que el amor debe gobernar el uso de la libertad.
+>- Por eso repite varias veces la misma advertencia: No destruir, entristecer ni hacer tropezar al hermano por causa de asuntos relacionados con comida o bebida.
+>- En lugar de centrarse en derechos personales, los creyentes deben procurar lo que contribuye a la paz y a la edificación mutua.
+>- La sección concluye recordando que las convicciones deben mantenerse delante de Dios y que actuar contra la propia convicción no procede de fe.
+>- Por eso Pablo resume el principio con una afirmación amplia: «Todo lo que no procede de fe, es pecado».
+
+## Romanos 15:1–13 - Acéptense unos a otros
+
+### Romanos 15:1
+\begin{verseblock}
+Así que, nosotros los que somos fuertes, debemos sobrellevar las flaquezas de los débiles y no agradarnos a nosotros mismos.
+\end{verseblock}
+#### Así que, nosotros los que somos fuertes,
+\headingfive{Pablo conecta directamente con \fillin{la} discusión de los capítulos anteriores.}
+
+\headingsix{Después de hablar sobre fuertes y débiles en asuntos de conciencia, ahora se dirige \fillin{específicamente} a quienes tienen mayor libertad.}
+
+\headingsix{El énfasis \fillin{ya} no está en quién tiene razón, sino en cómo debe actuar el fuerte.}
+
+#### debemos sobrellevar las flaquezas de los débiles
+\headingfive{Pablo asigna una responsabilidad al \fillin{fuerte}.}
+
+\headingsix{La carga principal recae sobre quien tiene mayor libertad \fillin{y} comprensión del asunto.}
+
+\headingsix{Esta exhortación desarrolla lo \fillin{que} ya venía diciendo en Romanos 14:13–23.}
+
+#### y no agradarnos a nosotros mismos.
+\headingfive{Pablo identifica \fillin{la} alternativa equivocada.}
+
+\headingsix{El problema no es la libertad \fillin{en} sí, sino usarla únicamente para beneficio propio.}
+
+### Romanos 15:2
+\begin{verseblock}
+Cada uno de nosotros agrade a su prójimo en lo que es bueno para su edificación.
+\end{verseblock}
+#### Cada uno de nosotros agrade a su prójimo
+\headingfive{Pablo amplía \fillin{la} exhortación a toda la comunidad.}
+
+\headingsix{La atención se dirige nuevamente al prójimo y no \fillin{a} uno mismo.}
+
+\headingsix{\fillin{El} lenguaje continúa desarrollando la idea de Romanos 15:1.}
+
+#### en lo que es bueno para su edificación.
+\headingfive{Pablo define el objetivo de agradar al \fillin{prójimo}.}
+
+\headingsix{No se trata de aprobación \fillin{sin} criterio, sino de aquello que contribuye a su crecimiento y fortalecimiento.}
+
+\headingsix{\fillin{Véase} Romanos 14:19.}
+
+### Romanos 15:3
+\begin{verseblock}
+Pues ni aun Cristo se agradó a Él mismo; antes bien, como está escrito: «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
+\end{verseblock}
+#### Pues ni aun Cristo se agradó a Él mismo;
+\headingfive{Pablo fundamenta su exhortación en \fillin{el} ejemplo de Cristo.}
+
+\headingsix{El argumento pasa de la conducta de los creyentes \fillin{a} la conducta de Cristo.}
+
+\headingsix{Esto refuerza la exhortación de \fillin{no} buscar principalmente el propio beneficio.}
+
+\headingsix{La \fillin{siguiente} frase apoya esta afirmación con una cita bíblica.}
+
+#### antes bien, como está escrito:
+\headingfive{\fillin{Pablo} vuelve a fundamentar su argumento en las Escrituras.}
+
+\headingsix{La cita \fillin{sirve} como respaldo del ejemplo que acaba de mencionar.}
+
+#### «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
+\headingfive{Pablo utiliza esta cita para \fillin{ilustrar} el principio que está desarrollando.}
+
+\headingsix{El énfasis \fillin{está} en soportar aquello que viene de otros en lugar de buscar agradarse a uno mismo. Salmo 69:9}
+
+### Romanos 15:4
+\begin{verseblock}
+Porque todo lo que fue escrito en tiempos pasados, para nuestra enseñanza se escribió, a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
+\end{verseblock}
+#### Porque todo lo que fue escrito en tiempos pasados,
+\headingfive{Pablo amplía la importancia de la cita \fillin{anterior}.}
+
+\headingsix{No se limita al \fillin{texto} recién citado, sino que habla de las Escrituras en general.}
+
+\headingsix{La siguiente \fillin{frase} explica su propósito.}
+
+#### para nuestra enseñanza se escribió,
+\headingfive{Pablo identifica una función de las \fillin{Escrituras}.}
+
+\headingsix{Lo escrito anteriormente sigue teniendo valor para los lectores \fillin{actuales}.}
+
+\headingsix{la siguiente frase desarrolla el \fillin{resultado} esperado.}
+
+#### a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
+\headingfive{Pablo \fillin{señala} el propósito final.}
+
+\headingsix{La paciencia, el consuelo y la esperanza aparecen unidos \fillin{dentro} de la misma idea.}
+
+\headingsix{El \fillin{tema} de la esperanza conecta con varias secciones anteriores de Romanos.}
+
+\headingsix{el versículo \fillin{siguiente} se convierte en una oración basada en estos conceptos.}
+
+### Romanos 15:5
+\begin{verseblock}
+Y que el Dios de la paciencia y del consuelo les conceda tener el mismo sentir los unos para con los otros conforme a Cristo Jesús,
+\end{verseblock}
+#### Y que el Dios de la paciencia y del consuelo
+\headingfive{Pablo transforma la enseñanza anterior \fillin{en} una petición.}
+
+\headingsix{Los mismos conceptos mencionados \fillin{en} el versículo anterior reaparecen ahora asociados a Dios.}
+
+\headingsix{La siguiente frase \fillin{expresa} la petición específica.}
+
+#### les conceda tener el mismo sentir los unos para con los otros
+\headingfive{Pablo desea unidad dentro de \fillin{la} comunidad.}
+
+\headingsix{\fillin{La} preocupación sigue siendo la convivencia entre creyentes con diferencias.}
+
+\headingsix{\fillin{Esto} retoma el tema desarrollado desde Romanos 14:1.}
+
+\headingsix{\fillin{La} siguiente frase define el modelo.}
+
+#### conforme a Cristo Jesús,
+\headingfive{Cristo aparece \fillin{nuevamente} como referencia para la vida comunitaria.}
+
+\headingsix{La unidad \fillin{buscada} no surge simplemente de acuerdos humanos, sino que se relaciona con Cristo.}
+
+\headingsix{El versículo siguiente presenta el propósito de esta \fillin{unidad}.}
+
+### Romanos 15:6
+\begin{verseblock}
+para que unánimes, a una voz, glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+\end{verseblock}
+#### para que unánimes, a una voz,
+\headingfive{Pablo muestra el resultado esperado de \fillin{la} unidad mencionada anteriormente.}
+
+\headingsix{\fillin{Las} expresiones destacan armonía y acción conjunta.}
+
+#### glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+\headingfive{\fillin{La} unidad tiene un propósito que va más allá de la convivencia misma.}
+
+\headingsix{La meta final \fillin{es} la glorificación de Dios.}
+
+\headingsix{Este versículo funciona como \fillin{la} culminación de la oración iniciada en Romanos 15:5.}
+
+### Romanos 15:7
+\begin{verseblock}
+Por tanto, acéptense los unos a los otros, como también Cristo nos aceptó para la gloria de Dios.
+\end{verseblock}
+#### Por tanto, acéptense los unos a los otros,
+\headingfive{Pablo resume \fillin{la} sección con una exhortación directa.}
+
+\headingsix{La aceptación mutua \fillin{ha} sido el tema constante desde Romanos 14:1.}
+
+\headingsix{Ahora aparece \fillin{como} conclusión explícita.}
+
+#### como también Cristo nos aceptó
+\headingfive{Cristo vuelve a ser el \fillin{ejemplo} principal.}
+
+\headingsix{La aceptación mutua entre creyentes se relaciona \fillin{con} la manera en que Cristo los ha recibido.}
+
+\headingsix{Esta referencia conecta con el \fillin{énfasis} de Romanos 14–15 sobre no rechazar al hermano.}
+
+#### para la gloria de Dios.
+\headingfive{Pablo concluye uniendo aceptación y gloria \fillin{de} Dios.}
+
+\headingsix{La misma meta que \fillin{apareció} en Romanos 15:6 vuelve a cerrar la sección.}
+
+\headingsix{Este versículo funciona como un \fillin{resumen} de toda la unidad iniciada en Romanos 14:1 sobre fuertes, débiles y aceptación mutua.}
+
+### Romanos 15:8
+\begin{verseblock}
+Pues les digo que Cristo se hizo servidor de la circuncisión para demostrar la verdad de Dios, para confirmar las promesas dadas a los padres,
+\end{verseblock}
+#### Pues les digo que Cristo se hizo servidor de la circuncisión
+\headingfive{\fillin{Pablo} explica cómo Cristo contribuye a la aceptación mutua que acaba de mencionar.}
+
+\headingsix{Después de exhortar a judíos y gentiles a aceptarse unos a otros (Romanos 15:7), Pablo comienza mostrando la relación \fillin{de} Cristo con Israel.}
+
+\headingsix{El énfasis recae en que Cristo vino como \fillin{servidor} de la circuncisión.}
+
+#### para demostrar la verdad de Dios,
+\headingfive{Pablo relaciona el ministerio de Cristo con la fidelidad \fillin{de} Dios.}
+
+\headingsix{Lo que Cristo hizo confirma que Dios actúa conforme \fillin{a} lo que ha dicho.}
+
+#### para confirmar las promesas dadas a los padres,
+\headingfive{\fillin{Pablo} conecta la obra de Cristo con las promesas hechas anteriormente.}
+
+\headingsix{La referencia a los padres enlaza con el tema que \fillin{apareció} en Romanos 11:28.}
+
+\headingsix{La llegada de \fillin{Cristo} no aparece separada de esas promesas, sino vinculada a ellas.}
+
+\headingsix{El versículo siguiente añade un segundo propósito \fillin{relacionado} con los gentiles.}
+
+### Romanos 15:9
+\begin{verseblock}
+y para que los gentiles glorifiquen a Dios por Su misericordia, como está escrito: «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
+\end{verseblock}
+#### y para que los gentiles glorifiquen a Dios por Su misericordia,
+\headingfive{Pablo añade un segundo propósito \fillin{junto} al anterior.}
+
+\headingsix{Cristo no solo confirma las promesas hechas a los \fillin{padres}; también abre el camino para que los gentiles glorifiquen a Dios.}
+
+\headingsix{La \fillin{misericordia} vuelve a ocupar un lugar importante en el argumento (Romanos 11:30–32).}
+
+\headingsix{la siguiente frase apoya esta afirmación \fillin{con} Escritura.}
+
+#### como está escrito:
+\headingfive{Pablo vuelve a fundamentar su argumento en \fillin{una} cita bíblica.}
+
+\headingsix{\fillin{A} partir de aquí reunirá varias citas que muestran a los gentiles participando en la alabanza a Dios.}
+
+#### «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
+\headingfive{La cita presenta alabanza a Dios en medio de \fillin{los} gentiles.}
+
+\headingsix{Pablo utiliza este texto para mostrar que la participación \fillin{de} los gentiles ya estaba presente en las Escrituras. (Salmo 18:49)}
+
+\headingsix{El versículo \fillin{siguiente} añade una segunda cita.}
+
+### Romanos 15:10
+\begin{verseblock}
+Y vuelve a decir: «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
+\end{verseblock}
+#### Y vuelve a decir:
+\headingfive{Pablo continúa acumulando \fillin{testimonios} de las Escrituras.}
+
+\headingsix{La repetición muestra que no depende de un solo texto para \fillin{sostener} su argumento.}
+
+#### «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
+\headingfive{La cita une \fillin{a} los gentiles con el pueblo de Dios en una misma celebración.}
+
+\headingsix{\fillin{El} énfasis está en el regocijo compartido. (Deuteronomio 32:43)}
+
+### Romanos 15:11
+\begin{verseblock}
+Y de nuevo: «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
+\end{verseblock}
+#### Y de nuevo:
+\headingfive{Pablo introduce otro \fillin{testimonio} adicional.}
+
+\headingsix{La serie de \fillin{citas} sigue reforzando la misma dirección del argumento.}
+
+#### «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
+\headingfive{La \fillin{cita} amplía el llamado a la alabanza.}
+
+\headingsix{Tanto los gentiles como los pueblos aparecen convocados a \fillin{glorificar} al Señor. (Salmo 117:1)}
+
+\headingsix{El versículo siguiente añade una cuarta \fillin{cita}, esta vez de Isaías.}
+
+### Romanos 15:12
+\begin{verseblock}
+Y a su vez, Isaías dice: «RETOÑARÁ LA RAÍZ DE ISAÍ, EL QUE SE LEVANTA A REGIR A LOS GENTILES; LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
+\end{verseblock}
+#### Y a su vez, Isaías dice:
+\headingfive{Pablo añade \fillin{un} nuevo testigo de las Escrituras.}
+
+\headingsix{La \fillin{secuencia} de citas alcanza ahora a Isaías.}
+
+#### «RETOÑARÁ LA RAÍZ DE ISAÍ,
+\headingfive{La cita introduce una \fillin{figura} asociada con Isaí.}
+
+\headingsix{Pablo utiliza este texto como parte de \fillin{su} demostración acerca de los gentiles.}
+
+#### EL QUE SE LEVANTA A REGIR A LOS GENTILES;
+\headingfive{La figura presentada ejerce autoridad \fillin{sobre} los gentiles.}
+
+\headingsix{Los gentiles ya no aparecen solo como espectadores \fillin{de} la alabanza, sino relacionados directamente con este gobernante.}
+
+#### LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
+\headingfive{La \fillin{cita} culmina con la esperanza de los gentiles.}
+
+\headingsix{\fillin{Este} tema conecta inmediatamente con la oración que sigue en el versículo siguiente. (Isaías 11:10)}
+
+### Romanos 15:13
+\begin{verseblock}
+Y el Dios de la esperanza los llene de todo gozo y paz en el creer, para que abunden en esperanza por el poder del Espíritu Santo.
+\end{verseblock}
+#### Y el Dios de la esperanza
+\headingfive{Pablo pasa de las \fillin{citas} a una oración.}
+
+\headingsix{\fillin{La} esperanza mencionada en el versículo anterior reaparece ahora como una característica asociada a Dios.}
+
+#### los llene de todo gozo y paz en el creer,
+\headingfive{Pablo desea que los \fillin{creyentes} experimenten gozo y paz.}
+
+\headingsix{Ambos elementos aparecen vinculados al \fillin{creer}.}
+
+#### para que abunden en esperanza
+\headingfive{La meta \fillin{de} la oración es una esperanza abundante.}
+
+\headingsix{\fillin{La} esperanza ha sido un tema recurrente desde Romanos 15:4.}
+
+#### por el poder del Espíritu Santo.
+\headingfive{Pablo atribuye esta abundancia de esperanza a la \fillin{acción} del Espíritu Santo.}
+
+\headingsix{La \fillin{oración} concluye uniendo esperanza, gozo, paz y poder espiritual.}
+
+\headingsix{El versículo siguiente cambia del contenido doctrinal a una valoración personal de los creyentes \fillin{en} Roma.}
+
+> En Síntesis
+>- Pablo concluye la discusión sobre fuertes y débiles llamando a los creyentes a aceptarse mutuamente y a buscar la edificación del prójimo antes que el beneficio propio.
+>- Cristo es presentado como el modelo supremo, pues no se agradó a sí mismo, sino que actuó en beneficio de otros.
+>- La unidad de la comunidad tiene un propósito mayor: Glorificar a Dios unánimes y a una voz.
+>- Pablo muestra después que la obra de Cristo está relacionada tanto con Israel como con los gentiles:
+>- Cristo confirma las promesas dadas a los padres y también abre el camino para que los gentiles glorifiquen a Dios por Su misericordia.
+>- Para demostrarlo, reúne una serie de citas de las Escrituras que muestran a los gentiles participando en la alabanza, el gozo y la esperanza junto con el pueblo de Dios.
+>- La sección culmina con una oración para que los creyentes abunden en esperanza, gozo y paz por el poder del Espíritu Santo.
+
+# Romanos 15:14–16:27 EL EVANGELIO CONTINÚA AVANZANDO
+
+## 15:14–21 El ministerio de Pablo a los gentiles
+
+### Romanos 15:14
+\begin{verseblock}
+En cuanto a ustedes, hermanos míos, yo mismo estoy también convencido de que ustedes están llenos de bondad, llenos de todo conocimiento y capaces también de amonestarse los unos a los otros.
+\end{verseblock}
+#### En cuanto a ustedes, hermanos míos,
+\headingfive{Pablo cambia de \fillin{tono} y se dirige directamente a los creyentes de Roma.}
+
+\headingsix{Después de la oración anterior, vuelve a hablar \fillin{de} ellos de manera personal.}
+
+\headingsix{La siguiente frase expresa su \fillin{convicción}.}
+
+#### yo mismo estoy también convencido
+\headingfive{Pablo declara \fillin{su} confianza respecto a ellos.}
+
+\headingsix{\fillin{Lo} que sigue no es una corrección severa, sino un reconocimiento de cualidades presentes en la comunidad.}
+
+#### de que ustedes están llenos de bondad,
+\headingfive{Pablo reconoce \fillin{la} presencia de bondad entre ellos.}
+
+\headingsix{Esta \fillin{afirmación} prepara el resto de la descripción.}
+
+#### llenos de todo conocimiento
+\headingfive{Pablo también reconoce conocimiento en la \fillin{congregación}.}
+
+\headingsix{\fillin{Bondad} y conocimiento aparecen juntos en la evaluación de Pablo.}
+
+#### y capaces también de amonestarse los unos a los otros.
+\headingfive{Pablo afirma \fillin{que} la comunidad posee capacidad para instruirse y corregirse mutuamente.}
+
+\headingsix{Esta observación encaja con \fillin{el} énfasis comunitario desarrollado desde Romanos 12:3 en adelante.}
+
+\headingsix{Romanos 15:15 explicará por qué Pablo les ha escrito con tanta franqueza \fillin{a} pesar de reconocer estas cualidades.}
+
+### Romanos 15:15
+\begin{verseblock}
+Pero les he escrito con atrevimiento sobre algunas cosas, para así hacer que las recuerden otra vez, por la gracia que me fue dada por Dios,
+\end{verseblock}
+#### Pero les he escrito con atrevimiento sobre algunas cosas,
+\headingfive{Pablo equilibra lo que acaba \fillin{de} decir en Romanos 15:14.}
+
+\headingsix{Aunque reconoce la madurez de los creyentes en Roma, \fillin{explica} por qué les escribió con tanta franqueza en ciertos temas.}
+
+\headingsix{El énfasis no está en corregir una \fillin{iglesia} incapaz, sino en recordar asuntos importantes.}
+
+\headingsix{la \fillin{siguiente} frase explica el propósito de esa manera de escribir.}
+
+#### para así hacer que las recuerden otra vez,
+\headingfive{\fillin{Pablo} presenta su carta como un recordatorio.}
+
+\headingsix{A lo largo de Romanos ha desarrollado temas que los lectores \fillin{necesitaban} tener presentes nuevamente.}
+
+\headingsix{Esto conecta con la función de enseñanza \fillin{mencionada} en Romanos 15:4.}
+
+#### por la gracia que me fue dada por Dios,
+\headingfive{Pablo atribuye su función apostólica a la gracia \fillin{de} Dios.}
+
+\headingsix{La autoridad con la que \fillin{escribe} no es presentada como mérito personal, sino como algo recibido.}
+
+\headingsix{Este lenguaje recuerda Romanos 12:3, donde también habló \fillin{de} la gracia que le fue dada.}
+
+\headingsix{El versículo siguiente explica en qué \fillin{consiste} esa gracia.}
+
+### Romanos 15:16
+\begin{verseblock}
+para ser ministro de Cristo Jesús a los gentiles, ministrando a manera de sacerdote el evangelio de Dios, a fin de que la ofrenda que hago de los gentiles sea aceptable, santificada por el Espíritu Santo.
+\end{verseblock}
+#### para ser ministro de Cristo Jesús a los gentiles,
+\headingfive{Pablo describe \fillin{la} tarea que recibió de Dios.}
+
+\headingsix{El enfoque \fillin{principal} de su ministerio está dirigido a los gentiles.}
+
+\headingsix{\fillin{Este} tema ha aparecido repetidamente desde Romanos 1 y vuelve a ocupar el centro de la discusión.}
+
+#### ministrando a manera de sacerdote el evangelio de Dios,
+\headingfive{Pablo utiliza lenguaje \fillin{relacionado} con el servicio sacerdotal.}
+
+\headingsix{El evangelio \fillin{aparece} como el ámbito en el que desarrolla su ministerio.}
+
+\headingsix{El énfasis sigue estando en \fillin{su} función de servicio, no en su propia importancia.}
+
+#### a fin de que la ofrenda que hago de los gentiles sea aceptable,
+\headingfive{Pablo presenta a los gentiles \fillin{como} el resultado de su labor ministerial.}
+
+\headingsix{El lenguaje continúa desarrollando la imagen sacerdotal \fillin{introducida} en la frase anterior.}
+
+#### santificada por el Espíritu Santo.
+\headingfive{Pablo atribuye esta obra \fillin{al} Espíritu Santo.}
+
+\headingsix{El Espíritu aparece como quien produce la condición necesaria \fillin{para} que la ofrenda sea aceptable.}
+
+### Romanos 15:17
+\begin{verseblock}
+Por tanto, en Cristo Jesús he hallado razón para gloriarme en las cosas que se refieren a Dios.
+\end{verseblock}
+#### Por tanto, en Cristo Jesús
+\headingfive{Pablo extrae una conclusión \fillin{de} lo que acaba de describir.}
+
+\headingsix{\fillin{Todo} lo dicho sobre su ministerio queda situado "en Cristo Jesús".}
+
+#### he hallado razón para gloriarme
+\headingfive{\fillin{Pablo} habla de una razón legítima para gloriarse.}
+
+\headingsix{Sin embargo, la atención \fillin{no} se dirige a capacidades personales, sino a la obra que Dios ha realizado.}
+
+#### en las cosas que se refieren a Dios.
+\headingfive{Pablo restringe el motivo de su \fillin{gloria}.}
+
+\headingsix{El centro sigue siendo la actividad de Dios y no \fillin{los} logros personales del apóstol.}
+
+### Romanos 15:18
+\begin{verseblock}
+Porque no me atreveré a hablar de nada sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, en palabra y en obra,
+\end{verseblock}
+#### Porque no me atreveré a hablar de nada
+\headingfive{Pablo explica la naturaleza de su \fillin{gloria}.}
+
+\headingsix{No pretende llamar la atención sobre experiencias o logros ajenos \fillin{al} ministerio que Cristo realizó.}
+
+\headingsix{La siguiente frase establece el límite de lo \fillin{que} está dispuesto a mencionar.}
+
+#### sino de lo que Cristo ha hecho por medio de mí
+\headingfive{Pablo atribuye la \fillin{obra} a Cristo.}
+
+\headingsix{Aunque participa activamente en el ministerio, el énfasis recae en lo que Cristo \fillin{hizo}.}
+
+\headingsix{Esto mantiene la misma \fillin{línea} de Romanos 15:17.}
+
+#### para la obediencia de los gentiles,
+\headingfive{Pablo vuelve a mencionar \fillin{a} los gentiles como objetivo de su ministerio.}
+
+\headingsix{La expresión conecta con el inicio de la carta, donde \fillin{también} habló de la obediencia relacionada con la fe. Romanos 1:5.}
+
+#### en palabra y en obra,
+\headingfive{Pablo \fillin{describe} el alcance de su ministerio.}
+
+\headingsix{La actividad incluye \fillin{tanto} proclamación como acciones visibles.}
+
+### Romanos 15:19
+\begin{verseblock}
+con el poder de señales y prodigios, en el poder del Espíritu de Dios. De manera que desde Jerusalén y por los alrededores hasta el Ilírico he predicado en toda su plenitud el evangelio de Cristo.
+\end{verseblock}
+#### con el poder de señales y prodigios,
+\headingfive{\fillin{Pablo} continúa describiendo su ministerio.}
+
+\headingsix{Las señales y prodigios aparecen como acompañamiento \fillin{de} la obra realizada.}
+
+#### en el poder del Espíritu de Dios.
+\headingfive{Pablo atribuye nuevamente la \fillin{obra} al Espíritu de Dios.}
+
+\headingsix{Igual que en Romanos 15:16, el énfasis recae en la acción divina y no \fillin{en} la capacidad humana.}
+
+#### De manera que desde Jerusalén y por los alrededores hasta el Ilírico
+\headingfive{Pablo resume \fillin{la} extensión de su labor.}
+
+\headingsix{La descripción abarca \fillin{una} amplia región y muestra el alcance de su ministerio.}
+
+#### he predicado en toda su plenitud el evangelio de Cristo.
+\headingfive{Pablo resume la tarea que \fillin{ha} venido describiendo.}
+
+\headingsix{El evangelio de Cristo permanece \fillin{como} el centro de toda la sección.}
+
+\headingsix{Romanos 15:20 continuará explicando la estrategia \fillin{que} caracterizó este ministerio: anunciar donde Cristo aún no había sido nombrado.}
+
+### Romanos 15:20
+\begin{verseblock}
+De esta manera me esforcé en anunciar el evangelio, no donde Cristo ya era conocido, para no edificar sobre el fundamento de otro;
+\end{verseblock}
+#### De esta manera me esforcé en anunciar el evangelio,
+\headingfive{Pablo explica \fillin{la} estrategia que caracterizó su ministerio.}
+
+\headingsix{Después \fillin{de} describir el alcance de su labor (Romanos 15:19), ahora explica cómo desarrolló esa obra.}
+
+\headingsix{El énfasis \fillin{recae} en anunciar el evangelio.}
+
+#### no donde Cristo ya era conocido,
+\headingfive{Pablo describe una característica \fillin{de} su ministerio.}
+
+\headingsix{Su objetivo era trabajar en \fillin{lugares} donde Cristo aún no había sido anunciado.}
+
+#### para no edificar sobre el fundamento de otro;
+\headingfive{Pablo explica el motivo \fillin{de} esa estrategia.}
+
+\headingsix{\fillin{Su} labor se concentraba en abrir nuevos campos de trabajo, no en continuar una obra ya iniciada por otros.}
+
+### Romanos 15:21
+\begin{verseblock}
+sino como está escrito: «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN, Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
+\end{verseblock}
+#### sino como está escrito:
+\headingfive{Pablo apoya su estrategia mediante \fillin{las} Escrituras.}
+
+\headingsix{La cita \fillin{sirve} como fundamento para la labor que acaba de describir.}
+
+#### «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN,
+\headingfive{La cita dirige la atención hacia personas que aún no \fillin{habían} recibido el anuncio.}
+
+\headingsix{\fillin{El} énfasis está en quienes anteriormente no habían tenido acceso a este mensaje.}
+
+#### Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
+\headingfive{\fillin{La} cita concluye con la respuesta de quienes antes no habían oído.}
+
+\headingsix{\fillin{Pablo} presenta este texto como respaldo de su ministerio entre nuevos pueblos.}
+
+\headingsix{\fillin{Véase} Isaías 52:15.}
+
+\headingsix{El versículo siguiente conecta esta estrategia con su relación con los creyentes \fillin{de} Roma.}
+
+> En Síntesis
+>- Pablo comienza esta sección explicando por qué escribió con tanta claridad a los creyentes de Roma.
+>- Aunque reconoce su madurez, les recuerda que recibió de Dios una gracia y un ministerio específico entre los gentiles.
+>- Repetidamente atribuye el fruto de su ministerio a la obra de Cristo y al poder del Espíritu Santo, no a méritos personales.
+>- El objetivo de ese ministerio fue llevar a los gentiles a la obediencia y anunciar el evangelio donde Cristo aún no había sido conocido.
+>- Pablo describe una labor que se extendió desde Jerusalén hasta el Ilírico, siempre con el propósito de llevar el evangelio a nuevos lugares.
+>- Finalmente, muestra que esta estrategia no surgió de una preferencia personal, sino que está en armonía con las Escrituras, que anunciaban que quienes nunca habían oído llegarían a ver y entender.
+>- La siguiente sección mostrará cómo este mismo ministerio influye en los planes de viaje de Pablo y en su deseo de visitar Roma.
+
+## Romanos 15:22–33 - Los planes de Pablo
+
+### Romanos 15:22
+\begin{verseblock}
+Por esta razón muchas veces me he visto impedido de ir a ustedes.
+\end{verseblock}
+#### Por esta razón
+\headingfive{Pablo conecta con \fillin{lo} que acaba de explicar.}
+
+\headingsix{Su \fillin{forma} de trabajar explica lo que dirá a continuación.}
+
+#### muchas veces me he visto impedido de ir a ustedes.
+\headingfive{Pablo explica por \fillin{qué} aún no había visitado Roma.}
+
+\headingsix{Su dedicación a regiones donde \fillin{Cristo} no había sido anunciado había retrasado ese viaje.}
+
+### Romanos 15:23
+\begin{verseblock}
+Pero ahora, no quedando ya más lugares para mí en estas regiones, y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
+\end{verseblock}
+#### Pero ahora, no quedando ya más lugares para mí en estas regiones,
+\headingfive{Pablo describe un cambio \fillin{en} su situación.}
+
+\headingsix{La labor que venía desarrollando en esas regiones ha llegado a un punto de \fillin{conclusión}.}
+
+#### y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
+\headingfive{Pablo recuerda \fillin{un} deseo antiguo.}
+
+\headingsix{La visita \fillin{a} Roma no surge repentinamente, sino que ha estado presente durante mucho tiempo. (Romanos 1:10–13)}
+
+### Romanos 15:24
+\begin{verseblock}
+cuando vaya a España los visitaré. Porque espero verlos al pasar y que me ayuden a continuar hacia allá, después de que haya disfrutado un poco de su compañía.
+\end{verseblock}
+#### cuando vaya a España los visitaré.
+\headingfive{Pablo presenta su plan de \fillin{viaje}.}
+
+\headingsix{Roma aparece como una etapa dentro \fillin{de} un proyecto más amplio.}
+
+#### Porque espero verlos al pasar
+\headingfive{Pablo desea encontrarse con \fillin{ellos} durante el trayecto.}
+
+\headingsix{El \fillin{encuentro} forma parte de sus planes inmediatos.}
+
+#### y que me ayuden a continuar hacia allá,
+\headingfive{Pablo \fillin{espera} recibir apoyo para continuar su viaje.}
+
+\headingsix{La iglesia de Roma aparece vinculada a la siguiente etapa de \fillin{su} ministerio.}
+
+#### después de que haya disfrutado un poco de su compañía.
+\headingfive{Pablo expresa afecto hacia los \fillin{creyentes} romanos.}
+
+\headingsix{La visita \fillin{no} es solamente funcional; también incluye comunión personal.}
+
+### Romanos 15:25
+\begin{verseblock}
+Pero ahora voy a Jerusalén para el servicio de los santos,
+\end{verseblock}
+#### Pero ahora voy a Jerusalén
+\headingfive{Antes de dirigirse hacia Roma y España, Pablo tiene otro destino \fillin{inmediato}.}
+
+\headingsix{Jerusalén ocupa el \fillin{siguiente} lugar en sus planes.}
+
+#### para el servicio de los santos,
+\headingfive{Pablo describe el propósito de este \fillin{viaje}.}
+
+\headingsix{El viaje está relacionado con una \fillin{labor} a favor de los creyentes en Jerusalén.}
+
+### Romanos 15:26
+\begin{verseblock}
+pues Macedonia y Acaya han tenido a bien hacer una colecta para los pobres de entre los santos que están en Jerusalén.
+\end{verseblock}
+#### pues Macedonia y Acaya han tenido a bien hacer una colecta
+\headingfive{\fillin{Pablo} explica el origen del servicio mencionado.}
+
+\headingsix{Las iglesias de estas \fillin{regiones} participaron voluntariamente en una contribución.}
+
+#### para los pobres de entre los santos que están en Jerusalén.
+\headingfive{La colecta \fillin{tiene} un propósito específico.}
+
+\headingsix{Está destinada a creyentes necesitados en \fillin{Jerusalén}.}
+
+### Romanos 15:27
+\begin{verseblock}
+Sí, tuvieron a bien hacerlo, y a la verdad que están en deuda con ellos. Porque si los gentiles han participado de sus bienes espirituales, también están obligados a servir a los santos en los bienes materiales.
+\end{verseblock}
+#### Sí, tuvieron a bien hacerlo,
+\headingfive{\fillin{Pablo} destaca el carácter voluntario de esta contribución.}
+
+\headingsix{Las iglesias participaron de buena \fillin{voluntad}.}
+
+#### y a la verdad que están en deuda con ellos.
+\headingfive{Pablo presenta \fillin{una} obligación moral relacionada con esta ayuda.}
+
+\headingsix{No solo \fillin{hubo} disposición, sino también una razón para actuar así.}
+
+#### Porque si los gentiles han participado de sus bienes espirituales,
+\headingfive{Pablo establece una relación entre \fillin{dos} tipos de beneficio.}
+
+\headingsix{Los gentiles han recibido algo que él describe como \fillin{bienes} espirituales.}
+
+#### también están obligados a servir a los santos en los bienes materiales.
+\headingfive{Pablo muestra \fillin{la} respuesta apropiada a esa participación.}
+
+\headingsix{La ayuda material aparece como \fillin{una} expresión de esa relación.}
+
+### Romanos 15:28
+\begin{verseblock}
+Así que cuando haya cumplido esto y les haya entregado esta ofrenda, iré a España llegando de paso a verlos.
+\end{verseblock}
+#### Así que cuando haya cumplido esto
+\headingfive{Pablo resume la tarea inmediata que \fillin{tiene} por delante.}
+
+\headingsix{Primero debe completar el servicio relacionado \fillin{con} Jerusalén.}
+
+#### y les haya entregado esta ofrenda,
+\headingfive{Pablo espera \fillin{concluir} satisfactoriamente esta misión.}
+
+\headingsix{Después de ello podrá \fillin{continuar} con los siguientes planes.}
+
+#### iré a España llegando de paso a verlos.
+\headingfive{Pablo \fillin{vuelve} al proyecto mencionado anteriormente.}
+
+\headingsix{Roma \fillin{sigue} apareciendo como una escala importante dentro de ese viaje.}
+
+### Romanos 15:29
+\begin{verseblock}
+Y sé que cuando vaya a ustedes, iré en la plenitud de la bendición de Cristo.
+\end{verseblock}
+#### Y sé que cuando vaya a ustedes,
+\headingfive{Pablo expresa confianza respecto a esta \fillin{futura} visita.}
+
+\headingsix{Habla de ella como \fillin{un} plan esperado y deseado.}
+
+#### iré en la plenitud de la bendición de Cristo.
+\headingfive{Pablo relaciona \fillin{el} viaje con la bendición de Cristo.}
+
+\headingsix{La visita no es presentada simplemente como un desplazamiento geográfico, sino como parte de su \fillin{ministerio}.}
+
+### Romanos 15:30
+\begin{verseblock}
+Les ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
+\end{verseblock}
+#### Les ruego, hermanos,
+\headingfive{Pablo pasa de informar \fillin{sus} planes a pedir ayuda.}
+
+\headingsix{La \fillin{petición} está dirigida directamente a la iglesia.}
+
+#### por nuestro Señor Jesucristo y por el amor del Espíritu,
+\headingfive{Pablo apela \fillin{a} realidades compartidas por sus lectores.}
+
+\headingsix{Esto da \fillin{solemnidad} a la petición que sigue.}
+
+#### que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
+\headingfive{Pablo solicita la participación de la \fillin{iglesia} mediante la oración.}
+
+\headingsix{La \fillin{expresión} enfatiza cooperación y participación conjunta.}
+
+### Romanos 15:31
+\begin{verseblock}
+para que sea librado de los que son desobedientes en Judea, y que mi servicio a Jerusalén sea aceptable a los santos,
+\end{verseblock}
+#### para que sea librado de los que son desobedientes en Judea,
+\headingfive{\fillin{Pablo} presenta la primera petición específica.}
+
+\headingsix{Su próximo viaje incluye riesgos relacionados \fillin{con} personas en Judea.}
+
+#### y que mi servicio a Jerusalén sea aceptable a los santos,
+\headingfive{Pablo \fillin{también} desea que la misión que lleva a Jerusalén sea bien recibida.}
+
+\headingsix{\fillin{Esto} conecta directamente con la colecta mencionada anteriormente.}
+
+### Romanos 15:32
+\begin{verseblock}
+y para que con gozo llegue a ustedes por la voluntad de Dios, y encuentre confortante reposo con ustedes.
+\end{verseblock}
+#### y para que con gozo llegue a ustedes
+\headingfive{Pablo expresa el resultado que \fillin{espera} después de completar su misión.}
+
+\headingsix{Su deseo \fillin{sigue} siendo visitar Roma.}
+
+#### por la voluntad de Dios,
+\headingfive{Pablo reconoce que sus planes dependen de la voluntad de \fillin{Dios}.}
+
+\headingsix{\fillin{Esta} idea aparece varias veces en la carta. Romanos 1:10.}
+
+#### y encuentre confortante reposo con ustedes.
+\headingfive{Pablo espera hallar consuelo y descanso en \fillin{compañía} de ellos.}
+
+\headingsix{La relación con la iglesia de \fillin{Roma} aparece nuevamente en términos personales y afectuosos.}
+
+### Romanos 15:33
+\begin{verseblock}
+El Dios de paz sea con todos ustedes. Amén.
+\end{verseblock}
+#### El Dios de paz sea con todos ustedes.
+\headingfive{Pablo \fillin{concluye} esta parte de la carta con una bendición.}
+
+\headingsix{La expresión \fillin{resume} el tono pastoral que caracteriza toda esta sección final.}
+
+\headingsix{El título "Dios de paz" encaja con \fillin{varios} temas desarrollados en Romanos 14–15.}
+
+#### Amén.
+\headingfive{Pablo \fillin{concluye} la bendición con una afirmación final.}
+
+\headingsix{Esta palabra marca \fillin{el} cierre de la sección antes de pasar a los saludos del capítulo 16.}
+
+> En Síntesis
+>- Pablo explica por qué aún no había visitado Roma y muestra cómo sus planes estaban ligados a su ministerio entre los gentiles.
+>- Su prioridad había sido anunciar el evangelio donde Cristo aún no era conocido, razón por la cual muchas veces fue impedido de ir a ellos.
+>- Ahora espera visitar Roma camino a España, pero primero debe completar un servicio en Jerusalén a favor de los santos necesitados.
+>- Pablo presenta esta ayuda como una expresión de la relación entre judíos y gentiles, pues quienes participaron de bienes espirituales también sirven con bienes materiales.
+>- Aunque tiene planes definidos, reconoce su dependencia de Dios y pide a los creyentes que participen juntamente con él mediante la oración.
+>- La sección concluye mostrando a Pablo como un siervo comprometido con el avance del evangelio, el cuidado de las iglesias y la comunión con el pueblo de Dios.
+
+## Romanos 16:1–16 - Una red de colaboradores
+
+### Romanos 16:1
+\begin{verseblock}
+Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea,
+\end{verseblock}
+#### Les recomiendo a nuestra hermana Febe,
+\headingfive{Pablo inicia la sección final \fillin{de} la carta presentando a Febe a los creyentes de Roma.}
+
+\headingsix{La recomendación prepara a la \fillin{iglesia} para recibirla favorablemente.}
+
+\headingsix{Pablo la \fillin{llama} "nuestra hermana", destacando su pertenencia a la misma comunidad de fe.}
+
+#### diaconisa de la iglesia en Cencrea,
+\headingfive{Pablo añade información acerca \fillin{de} Febe.}
+
+\headingsix{La presenta como servidora \fillin{de} la iglesia en Cencrea.}
+
+\headingsix{Esta descripción ayuda a explicar por qué \fillin{Pablo} la recomienda de manera especial.}
+
+### Romanos 16:2
+\begin{verseblock}
+para que la reciban en el Señor de una manera digna de los santos, y que la ayuden en cualquier asunto en que ella necesite de ustedes, porque ella también ha ayudado a muchos y aun a mí mismo.
+\end{verseblock}
+#### para que la reciban en el Señor
+\headingfive{Pablo expresa el propósito \fillin{de} su recomendación.}
+
+\headingsix{La recepción de Febe \fillin{debe} realizarse dentro del marco de la comunión cristiana.}
+
+#### de una manera digna de los santos,
+\headingfive{Pablo establece el carácter de \fillin{esa} recepción.}
+
+\headingsix{El trato hacia Febe debe corresponder a la identidad \fillin{compartida} de los creyentes.}
+
+#### y que la ayuden en cualquier asunto en que ella necesite de ustedes,
+\headingfive{\fillin{Pablo} pide apoyo concreto para Febe.}
+
+\headingsix{La recomendación no es solamente formal; incluye ayuda activa \fillin{cuando} sea necesaria.}
+
+#### porque ella también ha ayudado a muchos y aun a mí mismo.
+\headingfive{Pablo justifica su petición recordando el servicio previo de \fillin{Febe}.}
+
+\headingsix{Su ayuda había \fillin{beneficiado} a muchos creyentes.}
+
+\headingsix{Pablo \fillin{añade} su propio testimonio personal como parte de esa evidencia.}
+
+\headingsix{El \fillin{versículo} siguiente comienza una larga serie de saludos personales.}
+
+### Romanos 16:3
+\begin{verseblock}
+Saluden a Priscila y a Aquila, mis colaboradores en Cristo Jesús,
+\end{verseblock}
+#### Saluden a Priscila y a Aquila,
+\headingfive{Pablo \fillin{comienza} la lista de saludos.}
+
+\headingsix{Priscila y \fillin{Aquila} aparecen juntos como una unidad frecuente dentro del ministerio de Pablo.}
+
+\headingsix{La \fillin{siguiente} frase explica su relación con ellos.}
+
+#### mis colaboradores en Cristo Jesús,
+\headingfive{\fillin{Pablo} describe a Priscila y Aquila como compañeros de trabajo.}
+
+\headingsix{El énfasis está \fillin{en} la colaboración dentro de la obra relacionada con Cristo.}
+
+### Romanos 16:4
+\begin{verseblock}
+los cuales expusieron su vida por mí, a quienes no solo yo doy gracias, sino también todas las iglesias de los gentiles.
+\end{verseblock}
+#### los cuales expusieron su vida por mí,
+\headingfive{Pablo recuerda una acción significativa realizada \fillin{por} Priscila y Aquila.}
+
+\headingsix{Destaca el riesgo personal que asumieron \fillin{en} favor suyo.}
+
+#### a quienes no solo yo doy gracias,
+\headingfive{Pablo expresa su gratitud \fillin{personal}.}
+
+\headingsix{\fillin{La} deuda de gratitud no es solamente teórica; surge de una ayuda concreta recibida.}
+
+#### sino también todas las iglesias de los gentiles.
+\headingfive{Pablo extiende el reconocimiento \fillin{más} allá de sí mismo.}
+
+\headingsix{El impacto de la labor de Priscila y \fillin{Aquila} alcanzó a muchas iglesias.}
+
+\headingsix{Esto muestra la amplitud de su \fillin{influencia} dentro del ministerio apostólico.}
+
+### Romanos 16:5
+\begin{verseblock}
+Saluden también a la iglesia que está en su casa. Saluden a mi querido hermano Epeneto, que es el primer convertido a Cristo en Asia.
+\end{verseblock}
+#### Saluden también a la iglesia que está en su casa.
+\headingfive{Pablo amplía el saludo a la congregación que \fillin{se} reúne con ellos.}
+
+\headingsix{La referencia muestra una iglesia \fillin{reunida} en una casa particular.}
+
+#### Saluden a mi querido hermano Epeneto,
+\headingfive{Pablo \fillin{menciona} personalmente a Epeneto.}
+
+\headingsix{El lenguaje \fillin{utilizado} refleja cercanía y afecto.}
+
+#### que es el primer convertido a Cristo en Asia.
+\headingfive{Pablo identifica a Epeneto mediante un \fillin{dato} particular.}
+
+\headingsix{Lo presenta como \fillin{el} primer fruto de la obra relacionada con Cristo en esa región.}
+
+\headingsix{Este detalle explica por qué es mencionado \fillin{de} manera especial.}
+
+### Romanos 16:6
+\begin{verseblock}
+Saluden a María, que ha trabajado mucho por ustedes.
+\end{verseblock}
+#### Saluden a María,
+\headingfive{Pablo añade otro saludo \fillin{individual}.}
+
+\headingsix{La sección continúa \fillin{destacando} personas específicas conocidas por la iglesia de Roma.}
+
+#### que ha trabajado mucho por ustedes.
+\headingfive{Pablo reconoce el esfuerzo realizado por \fillin{María}.}
+
+\headingsix{El énfasis recae en su trabajo y dedicación en beneficio \fillin{de} otros creyentes.}
+
+\headingsix{Esta observación continúa el patrón de reconocimiento personal que \fillin{caracteriza} los saludos de Romanos 16.}
+
+### Romanos 16:7
+\begin{verseblock}
+Saluden a Andrónico y a Junias, mis parientes y compañeros de prisión, que se destacan entre los apóstoles y quienes también vinieron a Cristo antes que yo.
+\end{verseblock}
+#### Saluden a Andrónico y a Junias,
+\headingfive{Pablo continúa \fillin{la} lista de saludos personales.}
+
+\headingsix{Cada nombre \fillin{refleja} relaciones concretas desarrolladas a lo largo de su ministerio.}
+
+#### mis parientes y compañeros de prisión,
+\headingfive{Pablo destaca dos \fillin{aspectos} de su relación con ellos.}
+
+\headingsix{Los identifica como parientes y \fillin{también} como personas que compartieron sufrimientos junto a él.}
+
+#### que se destacan entre los apóstoles
+\headingfive{Pablo menciona la reputación que tenían \fillin{dentro} de los círculos apostólicos.}
+
+\headingsix{La \fillin{observación} funciona como un reconocimiento público de su trayectoria y servicio.}
+
+#### y quienes también vinieron a Cristo antes que yo.
+\headingfive{Pablo señala que ellos llegaron \fillin{a} Cristo antes de su propia conversión.}
+
+\headingsix{Esto resalta la \fillin{antigüedad} de su experiencia cristiana.}
+
+### Romanos 16:8
+\begin{verseblock}
+Saluden a Amplias, mi querido hermano en el Señor.
+\end{verseblock}
+#### Saluden a Amplias,
+\headingfive{Pablo continúa \fillin{mencionando} personas específicas de la comunidad.}
+
+\headingsix{El \fillin{capítulo} sigue destacando relaciones personales dentro de la iglesia.}
+
+#### mi querido hermano en el Señor.
+\headingfive{Pablo \fillin{expresa} afecto personal hacia Amplias.}
+
+\headingsix{El lenguaje refleja cercanía y comunión \fillin{dentro} del Señor.}
+
+### Romanos 16:9
+\begin{verseblock}
+Saluden a Urbano, nuestro colaborador en Cristo, y a mi querido hermano Estaquis.
+\end{verseblock}
+#### Saluden a Urbano,
+\headingfive{Pablo menciona \fillin{a} otro creyente conocido por la iglesia de Roma.}
+
+\headingsix{El saludo continúa mostrando la amplitud de relaciones dentro de la comunidad \fillin{cristiana}.}
+
+#### nuestro colaborador en Cristo,
+\headingfive{Pablo identifica a \fillin{Urbano} como colaborador.}
+
+\headingsix{El énfasis está en el trabajo compartido \fillin{en} relación con Cristo.}
+
+#### y a mi querido hermano Estaquis.
+\headingfive{Pablo vuelve \fillin{a} expresar afecto personal.}
+
+\headingsix{Al igual que en los versículos anteriores, combina \fillin{reconocimiento} y cercanía.}
+
+### Romanos 16:10
+\begin{verseblock}
+Saluden a Apeles, el aprobado en Cristo. Saluden a los de la casa de Aristóbulo.
+\end{verseblock}
+#### Saluden a Apeles,
+\headingfive{\fillin{Pablo} menciona a otro creyente de manera individual.}
+
+\headingsix{\fillin{El} saludo va acompañado de una breve descripción.}
+
+#### el aprobado en Cristo.
+\headingfive{Pablo destaca una \fillin{cualidad} asociada a Apeles.}
+
+\headingsix{El énfasis está \fillin{en} su condición "en Cristo".}
+
+#### Saluden a los de la casa de Aristóbulo.
+\headingfive{Pablo extiende el saludo a quienes pertenecen a \fillin{esa} casa.}
+
+\headingsix{La atención \fillin{pasa} de una persona individual a un conjunto de creyentes relacionados entre sí.}
+
+### Romanos 16:11
+\begin{verseblock}
+Saluden a Herodión, mi pariente. Saluden a los de la casa de Narciso, que son del Señor.
+\end{verseblock}
+#### Saluden a Herodión, mi pariente.
+\headingfive{Pablo vuelve a \fillin{mencionar} un vínculo familiar.}
+
+\headingsix{La referencia recuerda expresiones \fillin{similares} usadas anteriormente en el capítulo.}
+
+#### Saluden a los de la casa de Narciso,
+\headingfive{Pablo dirige un \fillin{saludo} a otro conjunto de personas.}
+
+\headingsix{\fillin{El} patrón alterna entre individuos y grupos relacionados con ellos.}
+
+\headingsix{La siguiente frase identifica específicamente a quiénes se \fillin{refiere}.}
+
+#### que son del Señor.
+\headingfive{Pablo distingue a los creyentes dentro de esa \fillin{casa}.}
+
+\headingsix{El énfasis recae en su pertenencia al \fillin{Señor}.}
+
+### Romanos 16:12
+\begin{verseblock}
+Saluden a Trifena y a Trifosa, obreras del Señor. Saluden a la querida hermana Pérsida, que ha trabajado mucho en el Señor.
+\end{verseblock}
+#### Saluden a Trifena y a Trifosa,
+\headingfive{Pablo menciona \fillin{a} dos creyentes juntas.}
+
+\headingsix{Ambas aparecen \fillin{asociadas} a una misma descripción.}
+
+#### obreras del Señor.
+\headingfive{Pablo destaca \fillin{su} trabajo.}
+
+\headingsix{El énfasis está en la labor realizada \fillin{para} el Señor.}
+
+#### Saluden a la querida hermana Pérsida,
+\headingfive{Pablo \fillin{expresa} nuevamente afecto personal.}
+
+\headingsix{El \fillin{lenguaje} sigue reflejando cercanía y aprecio.}
+
+#### que ha trabajado mucho en el Señor.
+\headingfive{Pablo vuelve \fillin{a} destacar el esfuerzo realizado.}
+
+\headingsix{El reconocimiento \fillin{del} trabajo aparece repetidamente en esta sección de saludos.}
+
+### Romanos 16:13
+\begin{verseblock}
+Saluden a Rufo, escogido en el Señor, también a su madre y mía.
+\end{verseblock}
+#### Saluden a Rufo,
+\headingfive{Pablo menciona a \fillin{otro} creyente de manera personal.}
+
+\headingsix{El saludo viene acompañado de una \fillin{breve} descripción.}
+
+#### escogido en el Señor,
+\headingfive{Pablo identifica \fillin{a} Rufo mediante una característica especial.}
+
+\headingsix{La expresión sigue manteniendo el énfasis "en el \fillin{Señor}".}
+
+#### también a su madre y mía.
+\headingfive{Pablo expresa una relación especialmente \fillin{cercana}.}
+
+\headingsix{La referencia muestra el afecto y los \fillin{vínculos} personales desarrollados dentro de la comunidad cristiana.}
+
+### Romanos 16:14
+\begin{verseblock}
+Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas, y a los hermanos con ellos.
+\end{verseblock}
+#### Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas,
+\headingfive{Pablo continúa \fillin{enumerando} creyentes conocidos por la iglesia de Roma.}
+
+\headingsix{La lista muestra la diversidad y amplitud de relaciones \fillin{presentes} en la comunidad.}
+
+#### y a los hermanos con ellos.
+\headingfive{Pablo incluye \fillin{a} otros creyentes relacionados con estas personas.}
+
+\headingsix{El saludo deja \fillin{ver} grupos de creyentes conectados entre sí dentro de la misma comunidad.}
+
+### Romanos 16:15
+\begin{verseblock}
+Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas, y a todos los santos que están con ellos.
+\end{verseblock}
+#### Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas,
+\headingfive{Pablo continúa mencionando creyentes específicos dentro de la \fillin{comunidad} cristiana.}
+
+\headingsix{La larga lista de nombres en Romanos 16 muestra que el evangelio había \fillin{producido} una red amplia de relaciones personales y de servicio.}
+
+#### y a todos los santos que están con ellos.
+\headingfive{Pablo \fillin{no} limita el saludo a personas individuales.}
+
+\headingsix{También incluye a los creyentes que se reúnen junto a ellos, mostrando nuevamente la dimensión comunitaria \fillin{que} aparece repetidamente en este capítulo.}
+
+\headingsix{Véase también Romanos 16:5 y Romanos 16:14, donde Pablo extiende saludos a \fillin{grupos} completos de creyentes.}
+
+\headingsix{El \fillin{siguiente} versículo pasa de los saludos individuales a una exhortación para toda la iglesia.}
+
+### Romanos 16:16
+\begin{verseblock}
+Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo los saludan.
+\end{verseblock}
+#### Salúdense los unos a los otros
+\headingfive{\fillin{Pablo} transforma los saludos recibidos en una acción mutua dentro de la propia congregación.}
+
+\headingsix{La atención se mueve de personas específicas a toda \fillin{la} comunidad.}
+
+#### con un beso santo.
+\headingfive{Pablo menciona una expresión de afecto y \fillin{comunión} reconocida entre los creyentes.}
+
+\headingsix{El énfasis recae en \fillin{el} carácter del saludo ("santo"), no simplemente en el gesto mismo.}
+
+\headingsix{\fillin{Véase} también 1 Corintios 16:20; 2 Corintios 13:12; 1 Tesalonicenses 5:26.}
+
+#### Todas las iglesias de Cristo los saludan.
+\headingfive{Pablo transmite el saludo \fillin{de} otras iglesias.}
+
+\headingsix{\fillin{Después} de una carta que ha tratado extensamente la relación entre judíos y gentiles, este saludo presenta a las iglesias como una realidad compartida y conectada.}
+
+> En Síntesis
+>- Pablo concluye la carta mostrando que el evangelio no solamente produce doctrina correcta, sino también una comunidad real de personas unidas en Cristo.
+>- La larga lista de saludos revela una amplia red de colaboradores, servidores, iglesias en casas y creyentes que participaron activamente en la obra del evangelio.
+>- Repetidamente Pablo destaca el trabajo, el servicio, la ayuda, la colaboración y la fidelidad de distintas personas dentro de esa comunidad.
+>- Los saludos muestran que el evangelio había unido a hombres y mujeres, individuos y familias, grupos e iglesias en una misma obra y un mismo Señor.
+>- La sección también enfatiza la comunión entre los creyentes mediante expresiones de afecto mutuo y mediante los saludos enviados por otras iglesias.
+>- Después de exponer el evangelio, defender la fidelidad de la palabra de Dios y exhortar a la iglesia acerca de cómo vivir, Pablo concluye destacando a las personas concretas mediante las cuales el evangelio continuaba avanzando.
+
+## Romanos 16:17–20 - Protejan la enseñanza recibida
+
+### Romanos 16:17
+\begin{verseblock}
+Les ruego, hermanos, que vigilen a los que causan disensiones y tropiezos contra las enseñanzas que ustedes aprendieron, y que se aparten de ellos.
+\end{verseblock}
+#### Les ruego, hermanos,
+\headingfive{Pablo introduce una \fillin{exhortación} directa antes de concluir la carta.}
+
+\headingsix{\fillin{El} lenguaje recuerda el tono exhortativo que comenzó en Romanos 12:1.}
+
+#### que vigilen a los que causan disensiones y tropiezos
+\headingfive{Pablo pide atención \fillin{deliberada} hacia ciertas personas y su influencia.}
+
+\headingsix{Los dos resultados señalados \fillin{son} disensiones y tropiezos dentro de la comunidad.}
+
+\headingsix{La preocupación principal \fillin{es} el efecto que producen en la iglesia.}
+
+#### contra las enseñanzas que ustedes aprendieron,
+\headingfive{El problema no es simplemente el conflicto, sino el conflicto que se opone a lo que la iglesia \fillin{ya} recibió.}
+
+\headingsix{Pablo apela a una enseñanza previamente \fillin{conocida} por sus lectores. (Romanos 6:17)}
+
+\headingsix{la siguiente frase indica \fillin{la} respuesta que deben tomar.}
+
+#### y que se aparten de ellos.
+\headingfive{Pablo concluye la advertencia con una \fillin{instrucción} clara.}
+
+\headingsix{La exhortación no es debatir continuamente \fillin{con} ellos, sino mantener distancia de su influencia.}
+
+\headingsix{El siguiente versículo explica por qué esta \fillin{medida} es necesaria.}
+
+### Romanos 16:18
+\begin{verseblock}
+Porque los tales son esclavos, no de Cristo nuestro Señor, sino de sus propios apetitos, y por medio de palabras suaves y lisonjeras engañan los corazones de los ingenuos.
+\end{verseblock}
+#### Porque los tales son esclavos,
+\headingfive{Pablo fundamenta la advertencia \fillin{anterior} explicando la verdadera lealtad de estas personas.}
+
+\headingsix{La descripción se centra en a quién sirven \fillin{realmente}.}
+
+#### no de Cristo nuestro Señor, sino de sus propios apetitos,
+\headingfive{Pablo \fillin{contrapone} dos posibilidades de servicio.}
+
+\headingsix{El contraste es \fillin{directo}: Cristo por un lado, sus propios intereses por el otro.}
+
+\headingsix{Este lenguaje recuerda el tema de la esclavitud y el servicio \fillin{desarrollado} anteriormente en Romanos 6.}
+
+#### y por medio de palabras suaves y lisonjeras
+\headingfive{Pablo llama la atención \fillin{sobre} la forma de su discurso.}
+
+\headingsix{El peligro no aparece presentado como algo agresivo o evidente, sino \fillin{como} algo atractivo y persuasivo.}
+
+#### engañan los corazones de los ingenuos.
+\headingfive{Pablo identifica el efecto \fillin{producido} por esas palabras.}
+
+\headingsix{La advertencia se enfoca especialmente en quienes \fillin{son} más vulnerables a ser desviados.}
+
+### Romanos 16:19
+\begin{verseblock}
+Porque la noticia de la obediencia de ustedes se ha extendido a todos. Por tanto, me regocijo por ustedes, pero quiero que sean sabios para lo bueno e inocentes para lo malo.
+\end{verseblock}
+#### Porque la noticia de la obediencia de ustedes se ha extendido a todos.
+\headingfive{\fillin{Pablo} equilibra la advertencia anterior con un reconocimiento positivo.}
+
+\headingsix{\fillin{La} obediencia de los creyentes de Roma era ampliamente conocida.}
+
+\headingsix{Esto \fillin{retoma} el tono de agradecimiento y reconocimiento visto anteriormente en Romanos 1:8.}
+
+#### Por tanto, me regocijo por ustedes,
+\headingfive{Pablo responde con \fillin{alegría} al escuchar acerca de ellos.}
+
+\headingsix{La advertencia del versículo anterior no cancela la valoración positiva que tiene de la \fillin{iglesia}.}
+
+#### pero quiero que sean sabios para lo bueno e inocentes para lo malo.
+\headingfive{Pablo resume la \fillin{actitud} que desea ver en ellos.}
+
+\headingsix{La sabiduría debe dirigirse hacia lo bueno, \fillin{mientras} que la relación con lo malo debe caracterizarse por inocencia y ausencia de participación.}
+
+\headingsix{Esta exhortación funciona como preparación para la promesa \fillin{y} conclusión que siguen en Romanos 16:20.}
+
+### Romanos 16:20
+\begin{verseblock}
+Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La gracia de nuestro Señor Jesucristo sea con ustedes.
+\end{verseblock}
+#### Y el Dios de paz
+\headingfive{Pablo vuelve a una \fillin{descripción} de Dios que ya ha aparecido en la carta.}
+
+\headingsix{Después de advertir \fillin{acerca} de quienes causan divisiones (Romanos 16:17–19), Pablo recuerda que Dios es presentado como el Dios de paz. (Romanos 15:33)}
+
+#### aplastará pronto a Satanás debajo de los pies de ustedes.
+\headingfive{Pablo anuncia \fillin{una} victoria futura de Dios sobre Satanás.}
+
+\headingsix{El énfasis recae en la acción de Dios ("aplastará") y en el resultado final \fillin{de} sometimiento.}
+
+\headingsix{Esta declaración contrasta con el peligro y \fillin{el} engaño mencionados en Romanos 16:17–18.}
+
+#### La gracia de nuestro Señor Jesucristo sea con ustedes.
+\headingfive{Pablo añade una bendición breve antes de continuar con los saludos \fillin{finales}.}
+
+\headingsix{La gracia de Jesucristo aparece repetidamente como marco \fillin{y} cierre de sus exhortaciones.}
+
+> En Síntesis
+>- Pablo concluye sus exhortaciones advirtiendo a la iglesia acerca de personas que producen divisiones y tropiezos contrarios a la enseñanza que habían recibido.
+>- La preocupación principal no es solamente el conflicto, sino la influencia que desvía a otros de la enseñanza apostólica.
+>- Pablo describe a estas personas como servidores de sus propios intereses y advierte que pueden engañar mediante palabras atractivas y persuasivas.
+>- Al mismo tiempo, reconoce la obediencia de los creyentes de Roma y expresa su deseo de que sean sabios para lo bueno e inocentes para lo malo.
+>- La sección concluye recordando que el resultado final no depende de los que causan división, sino de Dios.
+>- El Dios de paz aplastará a Satanás y traerá la victoria definitiva sobre aquello que amenaza a Su pueblo.
+>- Así, la advertencia termina no con temor, sino con una nota de confianza, paz y gracia.
+
+## Romanos 16:21–27 - Dios afirma a Su pueblo conforme al evangelio
+
+### Romanos 16:21
+\begin{verseblock}
+Timoteo, mi colaborador, los saluda, y también Lucio, Jasón y Sosípater, mis parientes.
+\end{verseblock}
+#### Timoteo, mi colaborador, los saluda,
+\headingfive{Pablo incluye en el saludo a uno de sus \fillin{colaboradores} cercanos.}
+
+\headingsix{El énfasis está en la participación \fillin{conjunta} en la obra del evangelio.}
+
+\headingsix{Véase \fillin{también} Filipenses 2:19–22; 1 Tesalonicenses 3:2.}
+
+#### y también Lucio, Jasón y Sosípater, mis parientes.
+\headingfive{Pablo añade otros nombres \fillin{asociados} con él.}
+
+\headingsix{Como en el resto del capítulo, la atención permanece en las relaciones personales que rodean el \fillin{ministerio} y las iglesias.}
+
+### Romanos 16:22
+\begin{verseblock}
+Yo, Tercio, que escribo esta carta, los saludo en el Señor.
+\end{verseblock}
+#### Yo, Tercio, que escribo esta carta,
+\headingfive{\fillin{Por} un momento la voz cambia y habla quien está redactando la carta.}
+
+\headingsix{Esta es una de las pocas ocasiones en que el \fillin{escribiente} se identifica directamente dentro del texto.}
+
+#### los saludo en el Señor.
+\headingfive{Tercio se une a los saludos que \fillin{han} aparecido en toda esta sección final.}
+
+\headingsix{\fillin{La} expresión "en el Señor" mantiene el mismo marco relacional que aparece repetidamente a lo largo del capítulo.}
+
+### Romanos 16:23
+\begin{verseblock}
+Gayo, hospedador mío y de toda la iglesia, los saluda. Erasto, el tesorero de la ciudad, los saluda, y el hermano Cuarto.
+\end{verseblock}
+#### Gayo, hospedador mío y de toda la iglesia, los saluda.
+\headingfive{Pablo menciona a Gayo destacando su \fillin{hospitalidad}.}
+
+\headingsix{La referencia conecta con el tema \fillin{de} la hospitalidad mencionado anteriormente en Romanos 12:13.}
+
+#### Erasto, el tesorero de la ciudad, los saluda,
+\headingfive{Pablo identifica a Erasto mediante su función dentro \fillin{de} la ciudad.}
+
+\headingsix{La mención muestra la diversidad de personas vinculadas \fillin{a} las iglesias.}
+
+#### y el hermano Cuarto.
+\headingfive{Pablo concluye esta serie de \fillin{saludos} con otra referencia personal.}
+
+\headingsix{La acumulación de nombres a lo largo del capítulo subraya el carácter relacional \fillin{y} comunitario de la carta.}
+
+### Romanos 16:24
+\begin{verseblock}
+La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.
+\end{verseblock}
+#### La gracia de nuestro Señor Jesucristo sea con todos ustedes.
+\headingfive{Pablo vuelve a cerrar con \fillin{una} bendición centrada en la gracia de Jesucristo.}
+
+\headingsix{Esta fórmula resume el tono pastoral con \fillin{el} que concluye la carta.}
+
+\headingsix{Véase \fillin{también} Romanos 16:20.}
+
+#### Amén.
+\headingfive{La bendición \fillin{termina} con una afirmación solemne de cierre.}
+
+\headingsix{Sin embargo, la carta aún concluye con una sección \fillin{final} de adoración.}
+
+### Romanos 16:25
+\begin{verseblock}
+Y a Aquel que es poderoso para afirmarlos conforme a mi evangelio y a la predicación de Jesucristo, según la revelación del misterio que ha sido mantenido en secreto durante siglos sin fin,
+\end{verseblock}
+#### Y a Aquel que es poderoso para afirmarlos
+\headingfive{Pablo inicia una doxología centrada en la capacidad de Dios para fortalecer y establecer a \fillin{los} creyentes.}
+
+\headingsix{La atención se dirige \fillin{completamente} hacia Dios.}
+
+#### conforme a mi evangelio y a la predicación de Jesucristo,
+\headingfive{Pablo relaciona ese fortalecimiento con el evangelio que ha anunciado y con la \fillin{proclamación} de Jesucristo.}
+
+\headingsix{El evangelio ha \fillin{sido} un tema central desde el inicio de la carta. (Romanos 1:1–17) }
+
+#### según la revelación del misterio
+\headingfive{Pablo \fillin{describe} el evangelio como algo que fue revelado.}
+
+\headingsix{El énfasis está \fillin{en} que se trata de algo dado a conocer por Dios.}
+
+#### que ha sido mantenido en secreto durante siglos sin fin,
+\headingfive{Pablo \fillin{señala} que este misterio permaneció oculto durante largos tiempos.}
+
+\headingsix{La siguiente \fillin{declaración} mostrará el cambio producido ahora.}
+
+### Romanos 16:26
+\begin{verseblock}
+pero que ahora ha sido manifestado, y por las Escrituras de los profetas, conforme al mandamiento del Dios eterno, se ha dado a conocer a todas las naciones para guiarlas a la obediencia de la fe,
+\end{verseblock}
+#### pero que ahora ha sido manifestado,
+\headingfive{Pablo establece el contraste principal con el versículo \fillin{anterior}.}
+
+\headingsix{Lo que estuvo oculto ahora \fillin{ha} sido dado a conocer.}
+
+#### y por las Escrituras de los profetas,
+\headingfive{Pablo relaciona esta revelación \fillin{con} los escritos proféticos.}
+
+\headingsix{A lo largo de Romanos, las Escrituras han servido repetidamente como fundamento de \fillin{su} argumento.}
+
+#### conforme al mandamiento del Dios eterno,
+\headingfive{Pablo atribuye esta obra \fillin{a} la iniciativa y autoridad de Dios.}
+
+\headingsix{El énfasis permanece en la acción divina \fillin{detrás} de todo el proceso.}
+
+#### se ha dado a conocer a todas las naciones
+\headingfive{Pablo destaca la \fillin{amplitud} del anuncio.}
+
+\headingsix{El tema de las naciones ha sido una \fillin{parte} importante de Romanos desde los primeros capítulos. (Romanos 1:5; 15:8–12)}
+
+#### para guiarlas a la obediencia de la fe,
+\headingfive{Pablo concluye la descripción con \fillin{el} propósito del evangelio.}
+
+\headingsix{Esta expresión retoma \fillin{el} lenguaje utilizado al comienzo de la carta. (Romanos 1:5)}
+
+### Romanos 16:27
+\begin{verseblock}
+al único y sabio Dios, por medio de Jesucristo, sea la gloria para siempre. Amén.
+\end{verseblock}
+#### al único y sabio Dios,
+\headingfive{Pablo dirige \fillin{toda} la doxología hacia Dios.}
+
+\headingsix{Después de recorrer la obra de Dios en la carta, la atención termina donde comenzó: \fillin{en} Dios mismo.}
+
+#### por medio de Jesucristo,
+\headingfive{\fillin{La} gloria dirigida a Dios aparece vinculada a Jesucristo.}
+
+\headingsix{La \fillin{carta} ha presentado repetidamente la obra de Dios y la de Jesucristo juntas.}
+
+#### sea la gloria para siempre.
+\headingfive{Pablo concluye con una declaración \fillin{de} alabanza.}
+
+\headingsix{La sección de Romanos 9–11 terminó con una doxología (Romanos 11:33–36), y \fillin{ahora} toda la carta concluye de la misma manera.}
+
+\headingsix{La respuesta \fillin{final} al evangelio presentado en Romanos es adoración a Dios.}
+
+#### Amén.
+\headingfive{Pablo cierra \fillin{definitivamente} la carta.}
+
+\headingsix{El desarrollo doctrinal, las exhortaciones prácticas y los saludos terminan \fillin{con} una afirmación de gloria dirigida a Dios.}
+
+> En Síntesis
+>- Pablo concluye la carta rodeado de colaboradores, recordando que el avance del evangelio ocurrió mediante una amplia comunidad de creyentes que servían juntos.
+>- Después de los saludos finales, vuelve a colocar la atención sobre la gracia de Jesucristo y sobre Dios mismo como el centro de toda la carta.
+>- Dios es presentado como poderoso para afirmar a Su pueblo conforme al evangelio y a la predicación de Jesucristo.
+>- El misterio que estuvo oculto por siglos ha sido manifestado y dado a conocer por medio de las Escrituras a todas las naciones.
+>- El propósito de esa proclamación sigue siendo el mismo que apareció al comienzo de Romanos: La obediencia de la fe entre todas las naciones.
+>- Así, la carta termina donde comenzó: Con el evangelio, con Jesucristo, con las naciones y con Dios recibiendo toda la gloria por Su obra y por Su palabra que permanece firme para siempre.
