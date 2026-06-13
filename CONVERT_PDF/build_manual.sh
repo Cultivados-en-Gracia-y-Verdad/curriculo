@@ -6,7 +6,7 @@ set -euo pipefail
 # ================================
 MANUAL_NAME="Romanos 9-16"
 FILE_LOCATION="../14.Romanos9-16"
-FILENAME="/romanos9-16.0.4.md"
+FILENAME="/slides/markdown.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"
@@ -116,10 +116,10 @@ pandoc \
 TEXINPUTS="$FILE_LOCATION//:" xelatex -output-directory=temp -interaction=nonstopmode -halt-on-error temp/student_manual.tex
 TEXINPUTS="$FILE_LOCATION//:" xelatex -output-directory=temp -interaction=nonstopmode -halt-on-error temp/student_manual.tex
 
-pdfunite temp/cover_teacher.pdf temp/teacher_manual.pdf "${FILE_LOCATION}/${MANUAL_NAME}_manual_maestro(V.${VERSION}).pdf"
+pdfunite temp/cover_teacher.pdf temp/teacher_manual.pdf "${FILE_LOCATION}/maestro(V.${VERSION}).pdf"
 echo "▶ ${FILE_LOCATION}/${MANUAL_NAME}_manual_maestro(V.${VERSION}).pdf"
 
-pdfunite temp/cover_student.pdf temp/student_manual.pdf "${FILE_LOCATION}/${MANUAL_NAME}_manual_estudiante(V.${VERSION}).pdf"
+pdfunite temp/cover_student.pdf temp/student_manual.pdf "${FILE_LOCATION}/alumno(V.${VERSION}).pdf"
 echo "▶ ${FILE_LOCATION}/${MANUAL_NAME}_manual_estudiante(V.${VERSION}).pdf"
 
 #rm -f temp/*
