@@ -17,7 +17,7 @@ cover: "images/portada.png"
 
 ##### Después de encomendar a Timoteo permanecer en Éfeso <u>para</u> enfrentar la enseñanza desviada, Pablo declara:
 
--   \scripture{El propósito de nuestra instrucción es el amor} (1 Timoteo 1:5)
+-   *El propósito de nuestra instrucción es el amor* (1 Timoteo 1:5)
 
 ##### Esta afirmación se convierte en una de las observaciones más importantes de toda la carta. Pablo no presenta la instrucción como un fin en sí misma. La instrucción tiene un propósito. <u>Tiene</u> una meta. Tiene una dirección.
 
@@ -61,25 +61,25 @@ cover: "images/portada.png"
 
 ## Información General
 
-##### \textbf{Autor y receptor}
+##### **Autor y receptor**
 
 ##### La carta identifica claramente al apóstol Pablo como su autor y a Timoteo como su receptor. Timoteo había acompañado a Pablo durante muchos años y había participado activamente en la expansión del <u>evangelio</u>. Pablo lo describe con afecto como su verdadero hijo en la fe, reflejando la estrecha relación que existía entre ambos.
 
 ##### Aunque la carta fue dirigida específicamente a Timoteo, su contenido muestra que estaba destinada a beneficiar a toda la <u>iglesia</u>. Pablo aborda asuntos relacionados con la enseñanza, la conducta, las relaciones y la vida dentro de la casa de Dios. Por esta razón, la carta ha servido de instrucción para los creyentes desde el momento en que fue escrita.
 
-##### \textbf{Contexto histórico}
+##### **Contexto histórico**
 
 ##### Cuando Pablo escribió esta carta, había dejado a Timoteo en Éfeso para enfrentar una situación que amenazaba a la iglesia. Algunas personas estaban promoviendo enseñanzas diferentes que desviaban la atención hacia especulaciones y discusiones improductivas. <u>Pablo</u> escribe para ayudar a Timoteo a responder a estos problemas y para recordarle el encargo que había recibido.
 
 ##### La preocupación principal de Pablo no es simplemente corregir errores. Su interés es que la enseñanza cumpla el propósito para el cual fue dada y que la casa de <u>Dios</u> sea formada conforme a ese propósito.
 
-##### \textbf{Fecha y lugar de escritura}
+##### **Fecha y lugar de escritura**
 
 ##### La carta fue escrita probablemente entre los años 62 y 65 d.C., después de una etapa posterior al primer encarcelamiento de <u>Pablo</u> en Roma. Según el propio testimonio de la carta, Pablo se encontraba en Macedonia mientras Timoteo permanecía en Éfeso.
 
 ##### Aunque algunos detalles históricos continúan siendo objeto de estudio, estos <u>datos</u> son suficientes para comprender el contexto general de la epístola y la situación que motivó su redacción.
 
-##### \textbf{La situación en Éfeso}
+##### **La situación en Éfeso**
 
 ##### Éfeso era una ciudad importante dentro del mundo romano y había llegado a ser un centro significativo para la proclamación del evangelio. Sin embargo, junto con el crecimiento de la obra también surgieron problemas relacionados con la <u>enseñanza</u> y la conducta.
 
@@ -1807,7 +1807,7 @@ Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, si
 
 ##### Pablo expresa su deseo de que los hombres participen en la oración.
 
-##### La expresión "\scripture{en todo lugar}" amplía la instrucción más allá de una situación específica.
+##### La expresión "*en todo lugar*" amplía la instrucción más allá de una situación específica.
 
 ##### El énfasis permanece sobre la práctica de la oración dentro del pueblo de Dios.
 
@@ -1815,7 +1815,7 @@ Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, si
 
 ##### Pablo describe la clase de personas que deben acercarse a Dios en oración.
 
-##### La atención no recae sobre la posición física de las manos, sino sobre que sean "\scripture{manos santas}".
+##### La atención no recae sobre la posición física de las manos, sino sobre que sean "*manos santas*".
 
 ##### La santidad aparece asociada con quienes se acercan a Dios.
 
@@ -2268,7 +2268,7 @@ Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hac
 
 ##### Pablo vuelve a introducir una afirmación que considera completamente confiable.
 
-##### La expresión "\scripture{Palabra fiel}" señala una verdad que debe ser recibida con confianza por la iglesia.
+##### La expresión "*Palabra fiel*" señala una verdad que debe ser recibida con confianza por la iglesia.
 
 ##### Después de describir la conducta apropiada dentro de la congregación, Pablo dirige ahora la atención hacia quienes desean servir como obispos.
 
@@ -3158,7 +3158,7 @@ E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en 
 
 ##### Los ángeles se maravillaron en la salvación provista por gracia en Cristo.
 
-##### 1 Pedro 1:12 "\scripture{A ellos les fue} \scripture{<u>revelado</u>} \scripture{que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar}".
+##### 1 Pedro 1:12 "*A ellos les fue* *<u>revelado</u>* *que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*".
 
 ##### En este versículo vemos los prophetas que dieron revelación sobre Cristo, nosotros lo recibimos, otros predicaron/testificaron el Evangelio (Cristo murio por nuestros pecados y resucito) por medio del poder del Espíritu Santo, y estas cosas los angeles anhelan mirar.
 
@@ -3186,7 +3186,7 @@ E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en 
 
 ##### Después que Él murió por nuestros pecados y fue sepultado, el Espíritu Santo Le levantó de los muertos (Romanos 8:11) y el Padre Lo <u>recibió</u> en gloria. Hechos 1:9-11; Romanos 8:34; Hebreos 1:3
 
-##### Todos estos dieron testimonio de "\scripture{Él}", Jesucristo. Todos en tiempo pasado porque es una obra completa y hecha, terminada y aprobada.
+##### Todos estos dieron testimonio de "*Él*", Jesucristo. Todos en tiempo pasado porque es una obra completa y hecha, terminada y aprobada.
 
 > En Síntesis
 >
@@ -3510,7 +3510,7 @@ Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien 
 
 ##### En lugar de ocuparse en fábulas, Timoteo debía ocuparse en la piedad.
 
-##### La palabra \scripture{disciplínate} presenta la idea de entrenamiento o ejercicio constante.
+##### La palabra *disciplínate* presenta la idea de entrenamiento o ejercicio constante.
 
 ##### El contraste del pasaje no es entre la falta de disciplina y las disciplinas religiosas, sino entre prestar atención al error y ocuparse en aquello que produce piedad.
 
@@ -3568,7 +3568,7 @@ Palabra fiel es esta, y digna de ser aceptada por todos.
 
 ##### Pablo vuelve a destacar una afirmación como completamente confiable.
 
-##### La expresión "\scripture{Palabra fiel}" señala una verdad que puede ser recibida con plena confianza.
+##### La expresión "*Palabra fiel*" señala una verdad que puede ser recibida con plena confianza.
 
 #### ...y digna de ser aceptada por todos...
 
@@ -3585,7 +3585,7 @@ Palabra fiel es esta, y digna de ser aceptada por todos.
 ##### Atención especial
 
 -   Pablo destaca la importancia de la afirmación anterior.
--   La expresión "\scripture{Palabra fiel}" señala una verdad completamente confiable.
+-   La expresión "*Palabra fiel*" señala una verdad completamente confiable.
 -   La enseñanza acerca de la piedad debe ser recibida por toda la iglesia.
 -   La piedad tiene valor para la vida presente y para la futura.
 
@@ -3664,39 +3664,39 @@ No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes
 
 ##### Timoteo era relativamente joven para la responsabilidad que había recibido en Éfeso.
 
-##### La palabra \scripture{menosprecie} (KATAPHRONEO) significa mirar con desprecio o tratar algo como de poco valor.
+##### La palabra *menosprecie* (KATAPHRONEO) significa mirar con desprecio o tratar algo como de poco valor.
 
 ##### Algunos podían cuestionar la capacidad de Timoteo debido a su juventud. Sin embargo, Pablo sabía cómo Dios estaba obrando en él. Filipenses 2:20-23
 
-##### 1 Timoteo 4:12b "\scripture{sino sé ejemplo de los creyentes...}"
+##### 1 Timoteo 4:12b "*sino sé ejemplo de los creyentes...*"
 
 ##### La respuesta al menosprecio no era exigir reconocimiento.
 
 ##### Timoteo debía responder siendo un ejemplo visible para los creyentes.
 
-##### La palabra \scripture{ejemplo} (TUPOS) describe un modelo, patrón o referencia digna de imitación.
+##### La palabra *ejemplo* (TUPOS) describe un modelo, patrón o referencia digna de imitación.
 
 ##### Su autoridad no debía descansar en su edad, sino en una vida que reflejara la obra de Cristo.
 
 ##### La siguiente lista muestra áreas donde Timoteo debía ser un ejemplo visible para los creyentes.
 
-##### 1 Timoteo 4:12c "\scripture{sé ejemplo... en palabra...}"
+##### 1 Timoteo 4:12c "*sé ejemplo... en palabra...*"
 
 ##### La manera de hablar de Timoteo debía reflejar la verdad que enseñaba. Colosenses 4:6; Efesios 5:4
 
-##### 1 Timoteo 4:12d "\scripture{sé ejemplo... en conducta...}"
+##### 1 Timoteo 4:12d "*sé ejemplo... en conducta...*"
 
 ##### Su manera de vivir debía ser consistente con su enseñanza. Santiago 3:13; Filipenses 3:17
 
-##### 1 Timoteo 4:12e "\scripture{sé ejemplo... en amor...}"
+##### 1 Timoteo 4:12e "*sé ejemplo... en amor...*"
 
 ##### El amor debía caracterizar su trato con los hermanos. Juan 13:35; 1 Pedro 1:22
 
-##### 1 Timoteo 4:12f "\scripture{sé ejemplo... en fe...}"
+##### 1 Timoteo 4:12f "*sé ejemplo... en fe...*"
 
 ##### Timoteo debía demostrar una vida de dependencia y confianza en Dios. 1 Timoteo 6:11
 
-##### 1 Timoteo 4:12g "\scripture{sé ejemplo... en pureza...}"
+##### 1 Timoteo 4:12g "*sé ejemplo... en pureza...*"
 
 ##### La pureza debía distinguir su vida delante de Dios y de los hombres. 1 Juan 3:3; 2 Pedro 3:14
 
@@ -3716,7 +3716,7 @@ Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación 
 
 #### ocúpate en la lectura de las Escrituras...
 
-##### La palabra \scripture{ocúpate} (PROSECHO) significa dedicar atención constante o concentrarse en algo.
+##### La palabra *ocúpate* (PROSECHO) significa dedicar atención constante o concentrarse en algo.
 
 ##### Pablo manda a Timoteo a dedicarse a la lectura pública de las Escrituras.
 
@@ -3750,7 +3750,7 @@ No descuides el don espiritual que está en ti, que te fue conferido por medio d
 
 ##### Pablo recuerda a Timoteo que Dios le había dado un don espiritual para servir.
 
-##### La palabra \scripture{don} (CHARISMA) describe un regalo concedido por la gracia de Dios.
+##### La palabra *don* (CHARISMA) describe un regalo concedido por la gracia de Dios.
 
 ##### Timoteo no debía descuidar ni abandonar aquello para lo cual Dios lo había capacitado.
 
@@ -3782,7 +3782,7 @@ Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea
 
 ##### Timoteo debía prestar atención cuidadosa a las instrucciones que Pablo le había dado.
 
-##### La palabra \scripture{reflexiona} (MELETAO) tiene la idea de ocuparse en algo, practicarlo y dedicarle atención constante.
+##### La palabra *reflexiona* (MELETAO) tiene la idea de ocuparse en algo, practicarlo y dedicarle atención constante.
 
 #### dedícate a ellas...
 
@@ -3794,7 +3794,7 @@ Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea
 
 #### para que tu aprovechamiento sea evidente a todos...
 
-##### La palabra \scripture{aprovechamiento} (PROKOPE) describe avance, progreso o desarrollo visible.
+##### La palabra *aprovechamiento* (PROKOPE) describe avance, progreso o desarrollo visible.
 
 ##### Pablo esperaba que el crecimiento de Timoteo fuera observable por quienes lo rodeaban.
 
@@ -3822,13 +3822,13 @@ Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque hac
 
 #### Persevera en estas cosas...
 
-##### La palabra \scripture{persevera} (EPIMENO) comunica la idea de continuar, permanecer o persistir.
+##### La palabra *persevera* (EPIMENO) comunica la idea de continuar, permanecer o persistir.
 
 ##### Timoteo debía continuar fielmente en las instrucciones que Pablo le había dado.
 
 #### porque haciéndolo asegurarás la salvación...
 
-##### La expresión \scripture{haciéndolo} apunta a las instrucciones que acaba de recibir: permanecer en la verdad, cuidar su vida y cuidar su enseñanza.
+##### La expresión *haciéndolo* apunta a las instrucciones que acaba de recibir: permanecer en la verdad, cuidar su vida y cuidar su enseñanza.
 
 ##### El contexto no está hablando de obtener la vida eterna por obras.
 
@@ -3881,9 +3881,9 @@ No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a 
 
 #### 1 Timoteo 5:1a No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre...
 
-##### La palabra \scripture{anciano} aquí se refiere al hombre mayor de edad y no necesariamente al oficio de anciano de la iglesia.
+##### La palabra *anciano* aquí se refiere al hombre mayor de edad y no necesariamente al oficio de anciano de la iglesia.
 
-##### La palabra \scripture{reprender con dureza} (EPIPLESSO) tiene la idea de golpear o herir con palabras.
+##### La palabra *reprender con dureza* (EPIPLESSO) tiene la idea de golpear o herir con palabras.
 
 ##### Timoteo no debía corregir a los hombres mayores de manera agresiva o humillante.
 
@@ -3893,7 +3893,7 @@ No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a 
 
 ## Con los jóvenes
 
-##### 1 Timoteo 5:1b "\scripture{...a los más jóvenes, como a hermanos...}"
+##### 1 Timoteo 5:1b "*...a los más jóvenes, como a hermanos...*"
 
 ##### Los creyentes más jóvenes debían ser tratados como hermanos.
 
@@ -3927,11 +3927,11 @@ a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pu
 
 ## Con las jóvenes
 
-##### 1 Timoteo 5:2b "\scripture{...a las más jóvenes, como a hermanas, con toda pureza...}"
+##### 1 Timoteo 5:2b "*...a las más jóvenes, como a hermanas, con toda pureza...*"
 
 ##### Las mujeres jóvenes debían ser tratadas como hermanas.
 
-##### Pablo añade una instrucción que no menciona en las demás relaciones: "\scripture{con toda pureza}".
+##### Pablo añade una instrucción que no menciona en las demás relaciones: "*con toda pureza*".
 
 ##### Timoteo debía ser ejemplo de los creyentes también en esta área. 1 Timoteo 4:12
 
@@ -3963,11 +3963,11 @@ Honra a las viudas que en verdad son viudas.
 
 #### 1 Timoteo 5:3a Honra a las viudas...
 
-##### La palabra \scripture{honra} (TIMAO) está en imperativo presente. Pablo no presenta una sugerencia, sino una responsabilidad continua para la iglesia.
+##### La palabra *honra* (TIMAO) está en imperativo presente. Pablo no presenta una sugerencia, sino una responsabilidad continua para la iglesia.
 
 ##### Honrar incluye valorar, respetar y cuidar de quienes se encuentran en necesidad.
 
-##### 1 Timoteo 5:3b "\scripture{...que en verdad son viudas.}"
+##### 1 Timoteo 5:3b "*...que en verdad son viudas.*"
 
 ##### Pablo no está diferenciando entre viudas verdaderas y falsas.
 
@@ -3993,11 +3993,11 @@ Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar 
 
 ##### Antes que la iglesia asuma la responsabilidad de cuidarla, esa responsabilidad corresponde primeramente a su propia familia.
 
-##### 1 Timoteo 5:4b "\scripture{...que aprendan estos primero a mostrar piedad para con su propia familia...}"
+##### 1 Timoteo 5:4b "*...que aprendan estos primero a mostrar piedad para con su propia familia...*"
 
 ##### Los hijos y nietos deben aprender a expresar la piedad dentro de su propio hogar.
 
-##### Es interesante que Pablo utiliza la palabra \scripture{piedad} en este contexto.
+##### Es interesante que Pablo utiliza la palabra *piedad* en este contexto.
 
 ##### La piedad no se manifiesta únicamente en reuniones, oraciones o actividades dentro de la congregación.
 
@@ -4007,7 +4007,7 @@ Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar 
 
 ##### La piedad que Pablo ha venido describiendo a lo largo de la carta debe comenzar en las relaciones más cercanas.
 
-##### 1 Timoteo 5:4c "\scripture{...y a recompensar a sus padres...}"
+##### 1 Timoteo 5:4c "*...y a recompensar a sus padres...*"
 
 ##### Los hijos reciben cuidado, provisión y protección durante muchos años.
 
@@ -4015,7 +4015,7 @@ Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar 
 
 ##### No se trata simplemente de una obligación económica, sino de una expresión visible de amor, gratitud y responsabilidad familiar. Efesios 6:2-3
 
-##### 1 Timoteo 5:4d "\scripture{...porque esto es agradable delante de Dios.}"
+##### 1 Timoteo 5:4d "*...porque esto es agradable delante de Dios.*"
 
 ##### Dios considera agradable que una familia cuide de sus propios miembros.
 
@@ -4047,7 +4047,7 @@ Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su espe
 
 ##### Otra característica de esta viuda es su perseverancia en la oración.
 
-##### La expresión "\scripture{noche y día}" enfatiza una vida marcada por una dependencia constante de Dios.
+##### La expresión "*noche y día*" enfatiza una vida marcada por una dependencia constante de Dios.
 
 ##### Pablo no presenta aquí un requisito para alcanzar el favor de Dios, sino una descripción de la mujer que ha aprendido a descansar en Él.
 
@@ -4377,7 +4377,7 @@ Pues algunas ya se han apartado para seguir a Satanás.
 
 ##### Algunas ya habían tomado ese camino.
 
-##### La expresión "\scripture{se han apartado}" continúa la idea desarrollada a lo largo de la carta.
+##### La expresión "*se han apartado*" continúa la idea desarrollada a lo largo de la carta.
 
 ##### En lugar de permanecer en la verdad y en la piedad, algunas se desviaron hacia una dirección diferente.
 
@@ -5183,7 +5183,7 @@ Pero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad
 
 ##### Después de describir a quienes se han desviado por amor al dinero, Pablo vuelve a dirigirse personalmente a Timoteo.
 
-##### La expresión "\scripture{hombre de Dios}" era utilizada en las Escrituras para describir a personas que servían al Señor y actuaban como Sus representantes.
+##### La expresión "*hombre de Dios*" era utilizada en las Escrituras para describir a personas que servían al Señor y actuaban como Sus representantes.
 
 ##### Pablo recuerda a Timoteo la identidad que debía caracterizar su vida y ministerio.
 
@@ -5209,7 +5209,7 @@ Pero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad
 
 ##### Una vida que expresa externamente la obra de Dios.
 
-##### "\scripture{...la fe...}"
+##### "*...la fe...*"
 
 ##### Permanecer firme en la verdad recibida.
 
@@ -5249,7 +5249,7 @@ Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste ll
 
 ##### Pablo anima a Timoteo a apropiarse de aquello para lo cual había sido llamado.
 
-##### La expresión \scripture{echa mano} comunica la idea de aferrarse firmemente.
+##### La expresión *echa mano* comunica la idea de aferrarse firmemente.
 
 ##### Timoteo no debía vivir distraído por las cosas temporales, sino participar activamente de la vida que Dios le había dado en Cristo.
 
@@ -5319,7 +5319,7 @@ que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nue
 
 ##### Timoteo debía guardar fielmente aquello que había recibido.
 
-##### El término "\scripture{mandamiento}" parece resumir el encargo y la enseñanza que Pablo ha venido desarrollando a lo largo de la carta.
+##### El término "*mandamiento*" parece resumir el encargo y la enseñanza que Pablo ha venido desarrollando a lo largo de la carta.
 
 #### ...sin mancha ni reproche...
 
@@ -5436,7 +5436,7 @@ A los ricos en este mundo, enséñales que no sean altaneros ni pongan su espera
 
 ##### Pablo ahora se dirige a creyentes que poseen riquezas materiales.
 
-##### La expresión "\scripture{ricos en este mundo}" recuerda que estas riquezas pertenecen a la esfera temporal de esta vida.
+##### La expresión "*ricos en este mundo*" recuerda que estas riquezas pertenecen a la esfera temporal de esta vida.
 
 ##### La riqueza material no determina el verdadero valor espiritual de una persona.
 
@@ -5549,7 +5549,7 @@ acumulando para sí el tesoro de un buen fundamento para el futuro, para que pue
 
 #### ...para que puedan echar mano de lo que en verdad es vida.
 
-##### Esta expresión recuerda el llamado dado anteriormente a Timoteo de "\scripture{echar mano de la vida eterna}" (1 Timoteo 6:12).
+##### Esta expresión recuerda el llamado dado anteriormente a Timoteo de "*echar mano de la vida eterna*" (1 Timoteo 6:12).
 
 ##### La verdadera vida no se encuentra en la acumulación de bienes materiales.
 
@@ -5633,7 +5633,7 @@ la cual profesándola algunos, se han desviado de la fe. La gracia sea con usted
 
 ##### La gracia de Dios es suficiente para sostener a los creyentes en la verdad.
 
-##### Es significativo que Pablo cierre diciendo "\scripture{con ustedes}" y no solamente "\scripture{contigo}".
+##### Es significativo que Pablo cierre diciendo "*con ustedes*" y no solamente "*contigo*".
 
 ##### Aunque Timoteo era el destinatario inmediato, el contenido de la carta beneficiaba a toda la iglesia.
 

@@ -1,7636 +1,6003 @@
 ---
-title: "Romanos 9-16"
-subtitle: "CONFIABLE"
-author: "CGV"
+title: "1 Timoteo - En la casa de Dios"
+subtitle:  "El fin de la instrucción es el amor"
+author:  "CGV"
+version:  "0.8"
+date:  "2026-06-13"
 cover: "images/portada.png"
-version: "0.4"
-date: "2026-06-06"
 ---
 
-:::title
-CONFIABLE
-:::
-:::subtitle
-Viviendo a la luz de una palabra firme
-:::
+:::title En la Casa de Dios :::
+
+:::subtitle El fin de la instrucción es el amor :::
+
 # Introducción
 
-## Contexto
+##### A primera vista, 1 Timoteo puede parecer una carta acerca de líderes, organización eclesiástica o falsas doctrinas. Sin embargo, Pablo introduce la carta de <u>otra</u> manera.
 
-##### Romanos 8 termina con algunas de <u>las</u> declaraciones más firmes de toda la carta.
+##### Después de encomendar a Timoteo permanecer en Éfeso <u>para</u> enfrentar la enseñanza desviada, Pablo declara:
 
-###### <u>Pablo</u> afirma que no hay condenación para los que están en Cristo Jesús.
+-   \scripture{El propósito de nuestra instrucción es el amor} (1 Timoteo 1:5)
 
-###### <u>Afirma</u> que Dios obra todas las cosas para bien.
+##### Esta afirmación se convierte en una de las observaciones más importantes de toda la carta. Pablo no presenta la instrucción como un fin en sí misma. La instrucción tiene un propósito. <u>Tiene</u> una meta. Tiene una dirección.
 
-###### Afirma que aquellos a quienes Dios justificó también los <u>glorificó</u>.
+##### A lo largo de la carta, Pablo muestra el peligro de desviarse de ese propósito. Algunas enseñanzas producen especulaciones, discusiones inútiles y conflictos. La sana enseñanza, en cambio, <u>debe</u> conducir al propósito para el cual fue dada.
 
-###### <u>Afirma</u> que nada podrá separar al creyente del amor de Dios.
+##### Por esta razón, 1 Timoteo no debe leerse únicamente como un manual para líderes. Tampoco es simplemente una colección de instrucciones acerca de la iglesia. La <u>carta</u> está dirigida a la casa de Dios y explica cómo debe conducirse el pueblo de Dios para que el propósito de la instrucción sea protegido, visible y preservado.
 
-##### <u>Las</u> declaraciones son extraordinarias.
+##### Las instrucciones <u>sobre</u> oración, conducta, servicio, cuidado de otros, enseñanza y perseverancia no aparecen como temas aislados. Cada una contribuye al mismo objetivo.
 
-##### Pero precisamente por ser tan firmes surge una <u>pregunta</u> inevitable:
+##### La carta comienza con un encargo confiado a Timoteo. Ese encargo tiene un propósito. El resto de la <u>carta</u> desarrolla cómo ese propósito debe formar la casa de Dios, cómo será amenazado, cómo se hace visible en las relaciones y cómo debe ser preservado.
 
-##### ¿Puede confiararse realmente <u>en</u> una palabra tan absoluta?
+## ¿Por qué escribió Pablo esta carta?
 
-###### Romanos 9–11 responde <u>esa</u> pregunta.
+##### Pablo escribió esta carta después de dejar a Timoteo en Éfeso. Algunos estaban promoviendo enseñanzas diferentes y desviando la atención <u>hacia</u> especulaciones y discusiones improductivas. En ese contexto, Timoteo recibió la responsabilidad de permanecer en la <u>ciudad</u> y enfrentar esa situación.
 
-###### La pregunta no surge porque <u>Pablo</u> dude.
+##### Sin embargo, la preocupación de Pablo no se limita a corregir el error. Muy temprano en la carta explica el propósito que <u>debe</u> alcanzar la instrucción. Pablo afirma que el propósito del encargo es el amor. Esta observación se convierte en una de las claves para comprender el resto del libro.
 
-###### Surge <u>porque</u> las afirmaciones de Romanos 8 son extraordinarias.
+##### A lo <u>largo</u> de la carta, Pablo muestra cómo ese propósito debe formar la casa de Dios, cómo será amenazado por enseñanzas desviadas, cómo se hace visible en las relaciones entre los creyentes y cómo debe ser preservado. Por esta razón, 1 Timoteo es mucho más que una carta acerca de liderazgo o administración eclesiástica. Es una carta <u>acerca</u> del encargo confiado a Timoteo y del propósito que ese encargo debe alcanzar.
 
-###### Cuanto más <u>firme</u> es la declaración, más importante resulta demostrar que puede confiararse en ella.
+## Cómo leer 1 Timoteo
 
-##### Por eso Romanos 9 comienza con <u>una</u> afirmación decisiva:
+##### A menudo se estudia 1 Timoteo como una carta acerca del liderazgo, la organización de la iglesia o la falsa enseñanza. Estos temas ciertamente aparecen en el libro y <u>ocupan</u> una parte importante de su contenido. Sin embargo, Pablo introduce la carta enfatizando una preocupación más profunda.
 
-> «No es que la palabra de Dios haya fallado». Romanos 9:6
+##### Después de advertir acerca de enseñanzas diferentes que producían especulaciones y discusiones inútiles, Pablo identifica el propósito que la instrucción debe alcanzar. Esta observación aparece muy temprano en la carta y ayuda a comprender el desarrollo de todo el libro.
 
-##### A partir de ese momento <u>Pablo</u> desarrolla una defensa de la confiabilidad de la palabra de Dios.
+##### A lo largo de la epístola, Pablo no solamente identifica la enseñanza correcta y la enseñanza desviada. También muestra los resultados que cada una produce. Algunas enseñanzas conducen a discusiones inútiles, desviación y conflicto. La sana instrucción, en cambio, tiene un propósito definido que Pablo expresa explícitamente.
 
-###### No <u>responde</u> mediante filosofía.
+##### Por esta razón, las instrucciones relacionadas con la oración, la conducta, el servicio, las relaciones, el cuidado de otros y la perseverancia no deben verse como temas aislados. Cada sección contribuye al desarrollo del mismo propósito <u>dentro</u> de la casa de Dios.
 
-###### No responde mediante <u>especulación</u>.
+##### El lector hará bien en prestar atención no solamente a lo que Pablo ordena, sino también a la razón por la que lo ordena. La carta muestra repetidamente cómo el propósito de la instrucción debe formar la vida del <u>pueblo</u> de Dios, cómo será amenazado por enseñanzas desviadas, cómo se hace visible en las relaciones y cómo debe ser preservado.
 
-###### <u>No</u> responde apelando a experiencias personales.
+## Acerca de este Manual
 
-###### Repetidamente vuelve a las Escrituras y dirige la <u>atención</u> a palabras pronunciadas mucho antes de que los acontecimientos ocurrieran.
+##### El propósito de este manual es ayudar al lector a seguir el desarrollo de la carta tal como fue escrita. Por esta razón, el enfoque principal no será reunir toda la información disponible sobre cada <u>tema</u>, sino observar cuidadosamente el texto y seguir el argumento de Pablo paso a paso.
 
-- Dios habló a Rebeca.
-- Dios habló a Moisés.
-- Dios habló acerca de Faraón.
-- Dios habló por medio de Oseas.
-- Dios habló por medio de Isaías.
-- Dios habló por medio de David.
+##### A lo largo de la carta aparecerán asuntos importantes como la enseñanza, la oración, la conducta, el servicio, las relaciones y la perseverancia. Sin embargo, estos temas no serán estudiados de manera aislada. Se procurará observar cómo cada uno contribuye al desarrollo de la <u>carta</u> y al propósito que Pablo identifica desde el comienzo.
 
-###### Luego observa <u>la</u> historia.
-- Siglos pasan.
-- Las circunstancias cambian.
-- Las generaciones vienen y van.
-- Sin embargo, la palabra pronunciada por Dios permanece en pie.
+##### Las referencias adicionales y los estudios complementarios pueden ser útiles en determinadas ocasiones, pero <u>nunca</u> deben reemplazar la observación directa del texto. El objetivo principal es permitir que la carta hable por sí misma y que sus propias afirmaciones determinen el desarrollo de la exposición.
 
-##### Romanos 9–11 no responde de una sola <u>manera</u>.
+##### Por esta razón, se dará especial atención a la estructura de la carta, al flujo de pensamiento de <u>cada</u> sección y a las conexiones que Pablo establece entre sus diferentes argumentos.
 
-###### En Romanos 9, Pablo dirige repetidamente la atención a palabras <u>pronunciadas</u> por Dios.
+## Información General
 
-###### En Romanos 10, Pablo <u>testifica</u> acerca de Israel y vuelve a apelar a Moisés, Isaías y las Escrituras.
+##### \textbf{Autor y receptor}
 
-###### En Romanos 11, el misterio <u>es</u> revelado y las Escrituras vuelven a confirmar que la palabra de Dios permanece firme.
+##### La carta identifica claramente al apóstol Pablo como su autor y a Timoteo como su receptor. Timoteo había acompañado a Pablo durante muchos años y había participado activamente en la expansión del <u>evangelio</u>. Pablo lo describe con afecto como su verdadero hijo en la fe, reflejando la estrecha relación que existía entre ambos.
 
-###### Finalmente, Pablo responde <u>con</u> adoración.
+##### Aunque la carta fue dirigida específicamente a Timoteo, su contenido muestra que estaba destinada a beneficiar a toda la <u>iglesia</u>. Pablo aborda asuntos relacionados con la enseñanza, la conducta, las relaciones y la vida dentro de la casa de Dios. Por esta razón, la carta ha servido de instrucción para los creyentes desde el momento en que fue escrita.
 
-##### A lo largo de Romanos 9–11, Israel funciona <u>como</u> el escenario histórico donde esa fidelidad puede observarse.
+##### \textbf{Contexto histórico}
 
-###### Pablo sigue el hilo de la historia y muestra repetidamente que Dios <u>continúa</u> actuando de acuerdo con lo que había dicho.
+##### Cuando Pablo escribió esta carta, había dejado a Timoteo en Éfeso para enfrentar una situación que amenazaba a la iglesia. Algunas personas estaban promoviendo enseñanzas diferentes que desviaban la atención hacia especulaciones y discusiones improductivas. <u>Pablo</u> escribe para ayudar a Timoteo a responder a estos problemas y para recordarle el encargo que había recibido.
 
-###### La situación presente de Israel no <u>constituye</u> una falla de la palabra de Dios.
+##### La preocupación principal de Pablo no es simplemente corregir errores. Su interés es que la enseñanza cumpla el propósito para el cual fue dada y que la casa de <u>Dios</u> sea formada conforme a ese propósito.
 
-###### Por el contrario, confirma <u>que</u> Dios sigue cumpliendo lo que ha dicho.
+##### \textbf{Fecha y lugar de escritura}
 
-##### <u>Por</u> eso la confianza de Romanos 8 permanece intacta.
+##### La carta fue escrita probablemente entre los años 62 y 65 d.C., después de una etapa posterior al primer encarcelamiento de <u>Pablo</u> en Roma. Según el propio testimonio de la carta, Pablo se encontraba en Macedonia mientras Timoteo permanecía en Éfeso.
 
-###### Lo que Dios declaró no era una <u>esperanza</u> frágil.
+##### Aunque algunos detalles históricos continúan siendo objeto de estudio, estos <u>datos</u> son suficientes para comprender el contexto general de la epístola y la situación que motivó su redacción.
 
-###### No era una <u>promesa</u> incierta.
+##### \textbf{La situación en Éfeso}
 
-###### La palabra de Dios permanece <u>firme</u>.
+##### Éfeso era una ciudad importante dentro del mundo romano y había llegado a ser un centro significativo para la proclamación del evangelio. Sin embargo, junto con el crecimiento de la obra también surgieron problemas relacionados con la <u>enseñanza</u> y la conducta.
 
-> Romanos 8 Pablo declaraciones con certeza
-> ↓
-> Romanos 9 Dios habla
-> ↓
-> Romanos 10 Pablo testifica
-> ↓
-> Romanos 11 La Escritura responde, el misterio se revela, Pablo adora
+##### La carta muestra que algunos se habían desviado hacia especulaciones, discusiones inútiles y enseñanzas que no contribuían al propósito de Dios. En ese contexto, Timoteo debía permanecer firme en el encargo recibido y ayudar a la iglesia a conducirse apropiadamente como casa de <u>Dios</u>.
 
-##### Cuando llega Romanos 12, la discusión cambia de <u>dirección</u>.
+##### Comprender esta situación ayuda a explicar el contenido de la carta. Muchas de las instrucciones que siguen no aparecen como temas aislados, sino como respuestas a presiones <u>reales</u> que amenazaban el propósito que Pablo procura preservar.
 
-###### Después de demostrar que la palabra de Dios permanece <u>firme</u>, Pablo introduce una respuesta apropiada:
-> «Por tanto...»
+# 1 TIMOTEO 1:1-20 EL ENCARGO Y SU PROPÓSITO
 
-###### Las exhortaciones que siguen no <u>buscan</u> producir una nueva realidad.
+## 1 Timoteo 1:1 Autor de la carta: Un apóstol de Jesucristo
 
-###### Son la respuesta apropiada a una realidad <u>que</u> Dios ya ha establecido.
+### 1 Timoteo 1:1
+Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza,
 
-###### Por eso Pablo llama a los creyentes a presentarse a Dios, vivir con una mente renovada, amar <u>a</u> los demás, buscar la paz, edificarse mutuamente y caminar en obediencia.
+#### Pablo, apóstol de Cristo Jesús
+##### Pablo se identifica desde el comienzo como el <u>autor</u> de la carta y como un apóstol de Jesucristo.
 
-##### Romanos 9–11 <u>muestra</u> una palabra firme.
+##### Su autoridad no proviene de iniciativa personal. La carta presenta a Pablo como alguien que actúa <u>bajo</u> una comisión recibida de Dios.
+-   Pablo <u>escribe</u> con autoridad apostólica.
+-   La carta surge <u>dentro</u> de una responsabilidad que le fue confiada.
+-   Esta autoridad será importante para las instrucciones que <u>siguen</u>.
 
-##### Romanos 12–16 muestra una vida vivida a la luz de esa palabra <u>firme</u>.
+#### por mandato de Dios nuestro Salvador y de Cristo Jesús nuestra esperanza
+##### Pablo atribuye su apostolado a la iniciativa de Dios y de Cristo Jesús.
 
-##### La carta concluye mostrando que el mismo evangelio que estableció a judíos y gentiles en un <u>solo</u> pueblo continúa extendiéndose a las naciones.
+##### Desde las primeras líneas, la atención es dirigida hacia Dios como la fuente del encargo y hacia Cristo como la esperanza compartida por Pablo y Timoteo.
+-   El apostolado de Pablo no es presentado como un logro personal.
+-   Dios y Cristo aparecen actuando en perfecta unidad.
+-   Cristo es identificado como la esperanza del creyente.
 
-##### Finalmente, Pablo termina donde comenzó: <u>con</u> Dios mismo.
+## 1 Timoteo 1:2 Receptor de la carta: El bien amado de Pablo
 
-###### El Dios que prometió, actuó y sostuvo Su propósito es también poderoso <u>para</u> afirmar a Su pueblo conforme al evangelio.
+### 1 Timoteo 1:2
+a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús nuestro Señor.
 
-##### Así, Romanos 9–16 defiende la confiabilidad de la palabra de Dios y muestra cómo debe vivir <u>el</u> pueblo que descansa en ella.
+#### a Timoteo, verdadero hijo en la fe
+##### Pablo identifica a Timoteo como el receptor de la carta y destaca la relación que existe entre ambos.
 
-# ROMANOS 9:1–11:36 LA PALABRA DE DIOS NO HA FALLADO
+##### La expresión "verdadero hijo en la fe" refleja una relación estrecha y genuina. Pablo no se dirige simplemente a un colaborador, sino a alguien que considera parte de su propia familia espiritual.
+-   Timoteo es el destinatario de la carta.
+-   Pablo enfatiza la cercanía de su relación con él.
+-   La expresión prepara al lector para el tono personal de muchas de las instrucciones que seguirán.
 
-## Una observación importante para Romanos 9–11
+##### La carta contiene numerosas exhortaciones, correcciones y responsabilidades confiadas a Timoteo. La forma en que Pablo lo presenta ayuda a entender que estas instrucciones ocurren dentro de una relación de confianza y afecto.
+-   Pablo reconoce públicamente a Timoteo.
+-   La relación entre ambos forma parte importante del contexto de la carta.
 
-###### <u>A</u> medida que avanzamos por Romanos 9–11, observaremos algo repetidamente:
+#### Gracia, misericordia y paz
+##### Pablo expresa su deseo de que Timoteo experimente las bendiciones que provienen de Dios.
 
-###### Pablo responde mediante <u>citas</u> de las Escrituras.
+##### La combinación de gracia, misericordia y paz aparece al comienzo de la carta como una expresión de bendición hacia Timoteo antes de abordar los problemas que motivaron su escritura.
+-   Pablo inicia la carta con una bendición.
+-   La atención todavía no está en los problemas de Éfeso.
+-   El saludo prepara el tono de la carta.
 
-###### Por eso, antes de preguntarnos qué significa una <u>cita</u>, conviene observar:
+##### Antes de encomendar responsabilidades, corregir errores o dar instrucciones, Pablo recuerda las provisiones que Dios concede a los suyos.
+-   La gracia apunta al favor de Dios.
+-   La misericordia destaca la compasión de Dios.
+-   La paz describe la condición que resulta de Su obra.
 
-- ¿Quién está hablando?
-- ¿A quién está hablando?
-- ¿Qué estaba ocurriendo cuando se pronunciaron estas palabras?
-- ¿Por qué Pablo cita este texto aquí?
+#### de parte de Dios Padre y de Cristo Jesús nuestro Señor
+##### Pablo identifica la fuente de estas bendiciones.
 
-###### Estas preguntas nos ayudarán a seguir el desarrollo <u>del</u> argumento.
+##### La gracia, la misericordia y la paz no proceden de Timoteo, de Pablo ni de la iglesia. Proceden de Dios Padre y de Cristo Jesús.
+-   Dios Padre es presentado como la fuente de estas bendiciones.
+-   Cristo Jesús participa plenamente en esta provisión.
+-   Pablo y Timoteo comparten el mismo Señor.
 
-#### Romanos 9
+##### Desde las primeras líneas de la carta, Dios y Cristo ocupan el centro de la escena. El encargo que Timoteo ha recibido y las instrucciones que seguirán deben entenderse a la luz de esa relación.
 
-- Romanos 9:12 — Dios habla a Rebeca
-- Romanos 9:13 — Dios habla en Malaquías
-- Romanos 9:15 — Dios habla a Moisés
-- Romanos 9:17 — Dios habla a Faraón
-- Romanos 9:25–26 — Dios habla en Oseas
-- Romanos 9:27–29 — Isaías habla acerca de Israel
+## 1 Timoteo 1:3–7 - Algunos se desviaron del propósito del encargo
 
-#### Romanos 10
+### 1 Timoteo 1:3
+Tal como te rogué al salir para Macedonia que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas,
 
-- Romanos 10:5 — Moisés escribe
-- Romanos 10:6–8 — Moisés sigue hablando
-- Romanos 10:11 — La Escritura habla
-- Romanos 10:16 — Isaías habla
-- Romanos 10:19 — Moisés habla
-- Romanos 10:20–21 — Isaías habla
+#### Tal como te rogué al salir para Macedonia que te quedaras en Éfeso
+##### Pablo recuerda una instrucción que previamente había dado a Timoteo.
 
-#### Romanos 11
+##### La carta no introduce una situación nueva. Timoteo ya había recibido la responsabilidad de permanecer en Éfeso cuando Pablo partió hacia Macedonia.
+-   Timoteo había sido dejado en Éfeso con un propósito específico.
+-   Pablo retoma una responsabilidad que ya había sido confiada.
+-   La situación descrita en la carta ya estaba presente antes de su escritura.
 
-- Romanos 11:2–4 — Dios habla a Elías
-- Romanos 11:8 — La Escritura habla
-- Romanos 11:26–27 — Isaías habla
-- Romanos 11:34–35 — Isaías y Job hablan
+#### para que instruyeras a algunos que no enseñaran doctrinas extrañas
+##### La razón por la que Timoteo debía permanecer en Éfeso estaba relacionada con la enseñanza que circulaba entre algunos.
 
-##### <u>Observación</u>
+##### Pablo dirige inmediatamente la atención hacia un problema doctrinal. Algunas personas estaban promoviendo una enseñanza diferente de la que debía caracterizar al pueblo de Dios.
+-   El problema principal aparece desde el comienzo de la carta.
+-   Pablo identifica a ciertos individuos como la fuente del problema.
+-   La preocupación recae sobre la enseñanza que estaban promoviendo.
 
-###### Pablo no construye su <u>argumento</u> principalmente mediante explicaciones nuevas.
+##### Esta observación prepara el camino para la afirmación central de los versículos siguientes. Antes de explicar el propósito del encargo, Pablo muestra la situación que hacía necesario dicho encargo.
+-   El problema aparece primero.
+-   El propósito será explicado después.
+-   Los versículos siguientes mostrarán la diferencia entre ambos.
 
-###### Repetidamente <u>dirige</u> la atención a palabras ya pronunciadas en las Escrituras.
+### 1 Timoteo 1:4
+ni prestaran atención a mitos y genealogías interminables, lo que da lugar a discusiones inútiles en vez de hacer avanzar el plan de Dios que es por fe, así te encargo ahora.
 
-###### Por eso, identificar quién habla y por qué Pablo cita esas palabras será una ayuda importante para seguir <u>el</u> argumento de Romanos 9–11.
+#### ni prestaran atención a mitos y genealogías interminables
+##### Pablo continúa describiendo el tipo de enseñanza que estaba causando problemas en Éfeso.
 
-## Romanos 9:1–5 — Pablo introduce a la nación de Israel en la conversación
+##### La preocupación no recae solamente sobre el contenido de estas enseñanzas, sino también sobre la atención que estaban recibiendo. Algunos estaban dedicando tiempo e interés a asuntos que desviaban la atención del propósito de Dios.
+-   Pablo continúa desarrollando el problema introducido en el versículo anterior.
+-   La atención de algunos estaba siendo dirigida hacia otros asuntos.
+-   Estos asuntos no contribuyen al propósito que Pablo explicará en los versículos siguientes.
 
-### Romanos 9:1
-Digo la verdad en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,
+##### Los mitos y las genealogías aparecen como ejemplos de temas que ocupaban la atención de ciertas personas dentro de la congregación.
+-   Pablo no desarrolla estos temas.
+-   El énfasis recae en sus resultados.
+-   El problema no es simplemente hablar de ellos, sino el efecto que producen.
 
-#### Digo la verdad en Cristo, no miento,
-##### Pablo afirma explícitamente la veracidad de lo que va a <u>decir</u>.
+#### lo que da lugar a discusiones inútiles
+##### Pablo identifica el resultado de estas enseñanzas.
+
+##### En lugar de producir aquello que Dios desea, estas enseñanzas generaban controversias y debates sin provecho.
+-   Pablo evalúa la enseñanza por sus resultados.
+-   Las discusiones ocupan el lugar de algo mejor.
+-   El problema no es solamente doctrinal, sino también práctico.
 
-###### El texto refuerza esta afirmación de dos <u>maneras</u>:
-- “Digo la verdad”
-- “No miento”
+##### Esta observación prepara una de las ideas centrales de la carta: la enseñanza debe ser evaluada por aquello que produce.
+-   Algunas enseñanzas producen controversias.
+-   Pablo mostrará que la sana instrucción tiene un propósito diferente.
 
-###### Pablo comienza <u>esta</u> sección estableciendo la confiabilidad de su testimonio.
+#### en vez de hacer avanzar el plan de Dios que es por fe
+##### Pablo presenta el contraste principal del versículo.
+
+##### Las enseñanzas promovidas por algunos no contribuían a la obra que Dios estaba realizando entre Su pueblo. En lugar de avanzar ese propósito, lo reemplazaban por discusiones improductivas.
+-   Pablo contrasta dos resultados.
+-   Un resultado produce controversias.
+-   El otro contribuye a la obra de Dios.
+
+##### El contraste de este versículo prepara directamente la declaración de 1:5.
+-   Pablo ha descrito el problema.
+-   Pablo ha mostrado los resultados del problema.
+-   Ahora explicará cuál es el propósito que la instrucción debe alcanzar.
 
-#### dándome testimonio mi conciencia en el Espíritu Santo,
-##### El texto añade un testigo a la declaración de <u>Pablo</u>.
+#### así te encargo ahora
+##### Pablo vuelve a la responsabilidad que había confiado a Timoteo.
+
+##### El encargo dado a Timoteo existe precisamente porque estas enseñanzas estaban afectando a la congregación.
+-   Timoteo debía intervenir.
+-   El problema requería una respuesta.
+-   Los versículos siguientes explicarán el propósito de ese encargo.
+
+### 1 Timoteo 1:5
+Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
+
+#### Pero...
+##### Después de describir el problema y sus resultados, Pablo presenta un fuerte contraste.
+
+##### Los versículos anteriores mostraron enseñanzas que producían especulaciones y discusiones inútiles. Ahora Pablo dirige la atención hacia aquello que la verdadera instrucción debe producir.
+-   Pablo contrasta dos tipos de resultados.
+-   Unos producen controversias.
+-   La verdadera instrucción tiene un propósito diferente.
+
+##### Este versículo funciona como una de las afirmaciones centrales de toda la carta.
+-   Pablo explica el propósito del encargo.
+-   Los capítulos posteriores desarrollarán cómo ese propósito debe protegerse, reflejarse y preservarse.
+
+#### el propósito de nuestra instrucción
+##### Pablo identifica explícitamente la finalidad de la instrucción.
+
+##### La preocupación de Pablo no es simplemente que la enseñanza sea correcta. También le preocupa aquello que la enseñanza produce. La instrucción tiene una meta definida y Pablo la declara abiertamente.
+-   La instrucción tiene un propósito.
+-   Pablo expresa ese propósito de manera directa.
+-   El énfasis recae sobre el resultado esperado.
+
+##### Esta observación ayuda a comprender el resto de la carta.
+-   Pablo evaluará constantemente la enseñanza por sus resultados.
+-   Algunas enseñanzas producen controversias.
+-   La sana instrucción produce aquello para lo cual fue dada.
+
+#### es el amor
+##### Pablo identifica el resultado que la instrucción debe alcanzar.
+
+##### El propósito de la instrucción no es producir especulaciones, controversias o discusiones interminables. Su propósito es el amor.
+-   Pablo contrasta amor y controversias.
+-   El amor aparece como el resultado esperado de la instrucción.
+-   El propósito del encargo es expresado de forma explícita.
+
+##### Esta afirmación ocupa un lugar central dentro de la carta.
+-   El amor no aparece como un tema secundario.
+-   Pablo lo presenta como la meta de la instrucción.
+-   Los problemas descritos en los versículos anteriores representan una desviación de ese propósito.
+
+#### nacido de un corazón puro
+##### Pablo comienza a describir la fuente de ese amor.
+
+##### El amor mencionado por Pablo no surge de cualquier origen. Procede de una condición interior que él describe como un corazón puro.
+-   Pablo no define el amor de manera aislada.
+-   También describe su origen.
+-   El énfasis recae sobre la fuente de ese amor.
+
+#### de una buena conciencia
+##### Pablo añade una segunda característica relacionada con el origen del amor.
+
+##### La buena conciencia aparece junto al corazón puro como parte de la descripción del amor que la instrucción debe producir.
+-   Pablo continúa describiendo la fuente del amor.
+-   El amor está relacionado con una buena conciencia.
+-   Estas características aparecen unidas en el texto.
+
+#### y de una fe sincera
+##### Pablo completa la descripción del origen de ese amor.
+
+##### La fe sincera contrasta naturalmente con la falsedad, la hipocresía y la desviación que aparecerán repetidamente en la carta. El amor que Pablo tiene en mente surge de una confianza genuina.
+-   Pablo completa una serie de tres descripciones.
+-   Corazón puro.
+-   Buena conciencia.
+-   Fe sincera.
+
+##### El amor constituye el propósito de la instrucción, pero Pablo también se preocupa por mostrar de dónde procede ese amor.
+-   El propósito es el amor.
+-   El amor tiene una fuente identificable.
+-   Pablo presenta esa fuente antes de continuar con el problema de quienes se desviaron.
+
+### 1 Timoteo 1:6
+Pues algunos, desviándose de estas cosas, se han apartado hacia una vana palabrería.
+
+#### Pues algunos, desviándose de estas cosas
+##### Pablo vuelve a dirigir la atención hacia aquellos que habían abandonado el propósito de la instrucción.
+
+##### La expresión "estas cosas" señala naturalmente a lo que acaba de describir en el versículo anterior. Algunos se habían apartado del amor que procede de un corazón puro, una buena conciencia y una fe sincera.
+-   Pablo conecta este versículo directamente con 1:5.
+-   El problema no comenzó con la vana palabrería.
+-   Primero hubo una desviación del propósito.
+
+##### La preocupación de Pablo no es solamente que ciertas personas enseñaban cosas incorrectas. También le preocupa que se habían apartado de aquello que la instrucción debía producir.
+-   El propósito había sido abandonado.
+-   El resultado fue una nueva dirección.
+-   La desviación precedió al error visible.
+
+#### se han apartado hacia una vana palabrería
+##### Pablo describe el resultado de esa desviación.
+
+##### Al abandonar el propósito de la instrucción, terminaron ocupándose en discursos vacíos que no contribuían a la obra de Dios ni al propósito del encargo.
+-   La desviación produjo un resultado visible.
+-   Pablo contrasta propósito y vana palabrería.
+-   La enseñanza ya no producía aquello para lo cual fue dada.
+
+##### El desarrollo del argumento es importante.
+-   En 1:4 las enseñanzas producían discusiones inútiles.
+-   En 1:5 Pablo declaró el propósito de la instrucción.
+-   En 1:6 muestra a personas que se desviaron de ese propósito.
+
+##### Pablo continúa evaluando la enseñanza por sus resultados.
+-   El propósito de la instrucción es el amor.
+-   Algunos se desviaron de ese propósito.
+-   El resultado fue una vana palabrería.
+
+### 1 Timoteo 1:7
+Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.
+
+#### Quieren ser maestros de la ley
+##### Pablo identifica la aspiración de aquellos que se habían desviado del propósito de la instrucción.
+
+##### El problema no era simplemente que enseñaban. También existía un deseo de ocupar la posición de maestros de la ley. Pablo continúa describiendo a las mismas personas mencionadas en los versículos anteriores.
+-   Pablo sigue hablando de los que se desviaron.
+-   El énfasis recae sobre aquello que desean ser.
+-   La descripción continúa desarrollando el problema iniciado en 1:3.
+
+##### El versículo muestra un contraste importante con el propósito de la instrucción presentado en 1:5.
+-   El propósito de la instrucción es el amor.
+-   Algunos se desviaron de ese propósito.
+-   Ahora Pablo describe aquello a lo que dirigieron sus esfuerzos.
+
+#### aunque no saben lo que dicen
+##### Pablo cuestiona la comprensión de aquellos que pretendían enseñar.
+
+##### La confianza con la que hablaban no estaba acompañada por una comprensión adecuada de aquello que enseñaban.
+-   Pablo no cuestiona solamente sus conclusiones.
+-   También cuestiona su comprensión.
+-   Existe una diferencia entre hablar y entender.
+
+##### La preocupación de Pablo no es simplemente intelectual. La falta de comprensión está relacionada con la desviación que ya ha descrito.
+-   Se desviaron del propósito.
+-   Produjeron vana palabrería.
+-   Ahora se evidencia que tampoco comprenden adecuadamente lo que enseñan.
+
+#### ni entienden las cosas acerca de las cuales hacen declaraciones categóricas
+##### Pablo completa su evaluación de estos maestros.
+
+##### Estas personas hablaban con seguridad y firmeza acerca de asuntos que en realidad no comprendían. La confianza de sus afirmaciones no demostraba la validez de su enseñanza.
+-   Hablaban con seguridad.
+-   Hablaban con autoridad.
+-   Pero carecían de verdadero entendimiento.
+
+##### El resultado es un contraste evidente dentro de la sección.
+-   Pablo encargó a Timoteo detener cierta enseñanza.
+-   Esa enseñanza producía discusiones inútiles.
+-   El propósito de la instrucción es el amor.
+-   Algunos se desviaron de ese propósito.
+-   Ahora Pablo muestra que tampoco comprenden aquello que afirman enseñar.
+
+##### Con este versículo concluye la descripción del problema que motivó el encargo dado a Timoteo.
+-   Pablo ha identificado a los responsables.
+-   Pablo ha mostrado los resultados de su enseñanza.
+-   Pablo ha declarado el propósito de la verdadera instrucción.
+-   Los versículos siguientes comenzarán a explicar el uso correcto de la ley.
+
+> En Síntesis (1 Timoteo 1:1-7)
+>
+> - Autoridad y origen del apostolado: Pablo escribe como apóstol y subraya que su autoridad no nace de iniciativa personal, sino de un mandato divino (Dios Salvador y Cristo Jesús).
+> - Cristo como esperanza central: Desde el saludo, Pablo coloca a Cristo Jesús como “nuestra esperanza”, estableciendo el centro teológico que enmarca toda la carta.
+> - Relación y destinatario: Timoteo es llamado “verdadero hijo en la fe”, lo que presenta una relación de confianza y afecto, y explica el tono personal de muchas exhortaciones.
+> - Bendición inicial con propósito: “Gracia, misericordia y paz” no es sólo fórmula; prepara a Timoteo para enfrentar correcciones y responsabilidades recordando las provisiones de Dios.
+> - Encargo concreto en Éfeso: Pablo recuerda que dejó a Timoteo en Éfeso con una tarea específica: detener doctrinas extrañas. No es un asunto nuevo, sino una misión ya encomendada.
+> - Problema doctrinal y su fruto: “Mitos y genealogías interminables” se evalúan por su resultado: discusiones inútiles, que desvían del “plan de Dios que es por fe”.
+> - Propósito de la instrucción vs. desviación: La enseñanza correcta se mide por su meta: amor que procede de corazón puro, buena conciencia y fe sincera. Algunos se desviaron de ese propósito y terminaron en vana palabrería (y desean ser maestros sin entender).
+
+## 1 Timoteo 1:8-11 - La verdad debe ser usada conforme a su propósito
+
+### 1 Timoteo 1:8
+Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.
+
+#### Pero nosotros sabemos
+##### Después de describir a quienes desean ser maestros de la ley sin comprenderla correctamente, Pablo introduce una afirmación compartida con Timoteo.
+
+##### El contraste es importante. Los versículos anteriores mostraron personas que no entendían aquello que enseñaban. Ahora Pablo afirma aquello que "nosotros sabemos".
+-   Pablo establece un contraste con los falsos maestros.
+-   La atención se desplaza de ellos hacia la comprensión correcta.
+-   El argumento comienza a corregir el problema descrito en los versículos anteriores.
+
+#### que la ley es buena
+##### Pablo aclara que el problema no está en la ley misma.
+
+##### Después de mostrar el mal uso que algunos estaban haciendo de ella, Pablo evita que Timoteo llegue a una conclusión equivocada. La ley no es presentada como algo malo. La dificultad estaba en la manera en que estaba siendo utilizada.
+-   Pablo defiende la bondad de la ley.
+-   El problema no es la existencia de la ley.
+-   El problema es el uso que algunos hacen de ella.
+
+##### Esta aclaración prepara el desarrollo de los versículos siguientes.
+-   Pablo no rechaza la ley.
+-   Pablo corregirá el uso incorrecto de la ley.
+-   El énfasis recae sobre su propósito legítimo.
+
+#### si uno la usa legítimamente
+##### Pablo introduce la idea central de esta sección.
+
+##### La ley posee un uso apropiado. La discusión ya no gira solamente en torno a quién la enseña, sino también a cómo debe ser utilizada.
+-   La ley puede ser usada correctamente.
+-   La ley puede ser usada incorrectamente.
+-   El argumento se centra ahora en su uso legítimo.
+
+##### Esta observación responde directamente al problema planteado en 1:7.
+-   Algunos querían ser maestros de la ley.
+-   No comprendían adecuadamente aquello que enseñaban.
+-   Pablo comienza a explicar cuál es el uso correcto de la ley.
+
+##### El flujo del argumento es evidente.
+-   Algunos enseñaban doctrinas extrañas.
+-   Se desviaron del propósito de la instrucción.
+-   Querían ser maestros de la ley.
+-   No comprendían lo que afirmaban.
+-   Pablo ahora explica el uso legítimo de la ley.
+
+### 1 Timoteo 1:9
+Reconozcamos esto: que la ley no ha sido instituida para el justo, sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos,
+
+#### Reconozcamos esto
+##### Pablo continúa explicando el uso legítimo de la ley.
+
+##### Después de afirmar que la ley es buena si se usa correctamente, Pablo comienza a describir para quién fue dada.
+-   Pablo desarrolla la explicación iniciada en el versículo anterior.
+-   La atención se dirige ahora al propósito de la ley.
+-   El argumento continúa corrigiendo el mal uso de la ley.
+
+#### que la ley no ha sido instituida para el justo
+##### Pablo establece una afirmación fundamental acerca del propósito de la ley.
+
+##### El énfasis del versículo recae sobre para quién fue dada la ley. Pablo comienza aclarando quién no constituye su objetivo principal.
+-   Pablo está definiendo el propósito de la ley.
+-   El argumento gira en torno a su uso legítimo.
+-   La explicación continuará en las frases siguientes.
+
+##### La pregunta natural que surge es: ¿para quién fue dada entonces?
+-   Pablo responderá esa pregunta inmediatamente.
+-   La lista que sigue desarrolla la respuesta.
+
+#### sino para los transgresores y rebeldes
+##### Pablo comienza a describir a aquellos para quienes fue dada la ley.
+
+##### La ley aparece relacionada con personas que viven en oposición a la voluntad de Dios. La lista avanza describiendo diversas manifestaciones de esa oposición.
+-   Pablo establece un contraste con "el justo".
+-   La ley está relacionada con quienes transgreden.
+-   La descripción continuará ampliándose.
+
+#### para los impíos y pecadores
+##### Pablo amplía la descripción iniciada anteriormente.
+
+##### La lista continúa acumulando características que describen a personas alejadas del carácter y la voluntad de Dios.
+-   Pablo sigue desarrollando la misma idea.
+-   Las expresiones se acumulan para reforzar el argumento.
+-   El énfasis permanece sobre aquellos para quienes fue dada la ley.
+
+#### para los irreverentes y profanos
+##### Pablo continúa describiendo conductas incompatibles con la santidad de Dios.
+
+##### La lista sigue avanzando desde descripciones generales hacia ejemplos cada vez más concretos.
+-   El argumento mantiene el mismo rumbo.
+-   Pablo aún está explicando el propósito de la ley.
+-   La descripción se vuelve progresivamente más específica.
+
+#### para los que matan a sus padres o a sus madres
+##### Pablo comienza a presentar ejemplos concretos de conductas condenadas por la ley.
+
+##### Después de varias descripciones generales, la lista pasa a acciones específicas que evidencian la necesidad de la ley.
+-   Pablo avanza de categorías generales a ejemplos concretos.
+-   La ley confronta conductas claramente pecaminosas.
+-   La explicación sigue desarrollando el mismo argumento.
+
+#### para los asesinos
+##### Pablo añade otro ejemplo dentro de la misma lista.
 
-###### Pablo no solamente <u>afirma</u> decir la verdad.
+##### La acumulación de ejemplos muestra el tipo de personas y conductas que Pablo tiene en mente al explicar el propósito de la ley.
+-   Pablo continúa la misma enumeración.
+-   La lista todavía no ha concluido.
+-   Los versículos siguientes completarán la descripción.
 
-###### También declara <u>que</u> su conciencia da testimonio de ello.
+##### El flujo de la sección es importante.
+-   Algunos querían ser maestros de la ley.
+-   No comprendían adecuadamente aquello que enseñaban.
+-   Pablo afirma que la ley es buena.
+-   La ley posee un uso legítimo.
+-   Ahora Pablo explica para quién fue dada.
 
-###### La declaración queda <u>enmarcada</u> “en el Espíritu Santo”.
+### 1 Timoteo 1:10
+para los inmorales, homosexuales, secuestradores, mentirosos, los que juran en falso, y para cualquier otra cosa que es contraria a la sana doctrina,
 
-### Romanos 9:2
-de que tengo gran tristeza y continuo dolor en mi corazón.
+#### para los inmorales
+##### Pablo continúa la lista de personas para quienes fue dada la ley.
 
-#### de que tengo gran tristeza y continuo dolor en mi corazón.
-##### Pablo declara una <u>carga</u> personal intensa.
+##### La enumeración sigue describiendo conductas que se encuentran en oposición a la voluntad de Dios. Pablo todavía está desarrollando el mismo argumento iniciado en el versículo anterior.
+-   La lista continúa.
+-   Pablo sigue explicando el propósito de la ley.
+-   El énfasis permanece sobre aquellos para quienes fue dada.
 
-###### El texto describe esa carga con <u>dos</u> expresiones:
-- “gran tristeza”
-- “continuo dolor”
+#### homosexuales
+##### Pablo añade otra conducta dentro de la misma lista.
+
+##### La enumeración no pretende explicar cada conducta en detalle. Su función es ilustrar el tipo de personas y prácticas que la ley confronta.
+-   Pablo continúa el mismo argumento.
+-   La lista sigue acumulando ejemplos.
+-   El énfasis recae en la función de la ley.
+
+#### secuestradores
+##### Pablo incorpora otro ejemplo concreto dentro de la enumeración.
 
-###### La <u>tristeza</u> no aparece como algo momentáneo.
+##### La lista avanza mostrando distintas manifestaciones del pecado y la injusticia.
+-   Pablo sigue describiendo conductas condenadas por la ley.
+-   La explicación continúa ampliando la lista.
+-   El argumento todavía no ha llegado a su conclusión.
 
-###### Pablo la presenta como una <u>realidad</u> permanente.
+#### mentirosos y los que juran en falso
+##### Pablo añade ejemplos relacionados con el engaño y la falsedad.
 
-###### El dolor es descrito como <u>algo</u> interno:
-> \scripture{en mi corazón}
+##### La lista continúa acumulando conductas que se oponen a la verdad y que evidencian la necesidad de la ley.
+-   Pablo mantiene el mismo patrón.
+-   La enumeración sigue creciendo.
+-   La ley se relaciona con estas conductas.
 
-### Romanos 9:3
-Porque desearía yo mismo ser anatema, separado de Cristo por amor a mis hermanos, mis parientes según la carne.
+#### y para cualquier otra cosa que es contraria a la sana doctrina
+##### Pablo concluye la lista ampliando el principio a todo aquello que se opone a la sana enseñanza.
 
-#### Porque desearía yo mismo ser anatema,
-##### Pablo explica la razón de <u>la</u> tristeza mencionada en el versículo anterior.
+##### Después de presentar numerosos ejemplos, Pablo resume la idea en una declaración general. La lista no pretende ser exhaustiva. Cualquier cosa que se oponga a la sana doctrina entra dentro de la misma categoría.
+-   Pablo concluye la enumeración.
+-   La lista funciona como ejemplos representativos.
+-   El principio se extiende más allá de los ejemplos mencionados.
 
-###### El deseo expresado aquí representa el punto más intenso de la <u>carga</u> descrita en 9:2.
+##### Esta frase conecta la discusión acerca de la ley con el problema que motivó la carta.
+-   Algunos estaban promoviendo enseñanzas diferentes.
+-   Pablo está explicando el uso legítimo de la ley.
+-   La sana doctrina continúa siendo el estándar de referencia.
 
-###### El <u>texto</u> presenta un deseo llevado al extremo.
+##### El flujo del argumento sigue siendo el mismo.
+-   Algunos querían ser maestros de la ley.
+-   No comprendían adecuadamente aquello que enseñaban.
+-   Pablo afirma que la ley es buena si se usa legítimamente.
+-   La ley fue dada para confrontar aquello que se opone a la sana doctrina.
 
-#### separado de Cristo por amor a mis hermanos,
-##### Pablo relaciona ese deseo con otras <u>personas</u>.
+### 1 Timoteo 1:11
 
-###### El foco no <u>está</u> en sí mismo.
+según el glorioso evangelio del Dios bendito, que me ha sido encomendado.
 
-###### El deseo es expresado en favor <u>de</u> sus hermanos.
 
-#### mis parientes según la carne.
-##### El texto identifica <u>específicamente</u> a quiénes se refiere Pablo.
+#### según el glorioso evangelio del Dios bendito
 
-###### No habla de personas <u>en</u> general.
+##### Pablo conecta la sana doctrina con el evangelio.
 
-###### Habla de sus <u>parientes</u> según la carne.
+##### La explicación acerca del uso legítimo de la ley no aparece aislada del mensaje cristiano. Pablo concluye la sección mostrando que la sana doctrina está en armonía con el evangelio.
 
-###### <u>El</u> versículo siguiente identificará formalmente a este grupo como israelitas.
+-   La sana doctrina y el evangelio aparecen unidos.
+-   Pablo no presenta dos mensajes diferentes.
+-   El evangelio funciona como el estándar de referencia.
 
-### Romanos 9:4
-Porque son israelitas, a quienes pertenece la adopción como hijos, y la gloria, los pactos, la promulgación de la ley, el culto y las promesas,
+##### Esta observación ayuda a comprender todo el desarrollo de la sección.
 
-#### Porque son israelitas,
-##### Pablo identifica explícitamente al grupo mencionado en los <u>versículos</u> anteriores.
+-   Algunos estaban promoviendo enseñanzas diferentes.
+-   Pablo corrigió el uso incorrecto de la ley.
+-   Ahora conecta la sana doctrina con el evangelio.
 
-###### En 9:3 habló <u>de</u>:
-> \scripture{mis parientes según la carne}
+##### El énfasis recae sobre el evangelio mismo.
 
-###### Ahora los identifica <u>como</u>:
-> \scripture{israelitas}
+-   Pablo lo describe como glorioso.
+-   El evangelio refleja la gloria de Dios.
+-   La enseñanza saludable debe estar en conformidad con él.
 
-#### a quienes pertenece la adopción como hijos,
-##### Pablo comienza un inventario de cosas asociadas <u>con</u> Israel.
+#### que me ha sido encomendado
 
-###### La adopción aparece <u>como</u> el primer elemento de la lista.
+##### Pablo concluye la sección recordando la responsabilidad que le fue confiada.
 
-#### y la gloria,
-##### La gloria aparece como una <u>pertenencia</u> adicional de Israel.
+##### El evangelio no es presentado como una idea desarrollada por Pablo. Es un mensaje que le fue encomendado y que ahora sirve como base para corregir la enseñanza desviada.
 
-###### <u>Pablo</u> continúa ampliando el inventario.
+-   Pablo recibió una responsabilidad.
+-   El evangelio le fue confiado.
+-   Su enseñanza se fundamenta en ese encargo.
 
-#### los pactos,
-##### Los pactos forman parte <u>de</u> aquello que Pablo asocia con Israel.
+##### Este versículo conecta naturalmente con el tema principal de la carta.
 
-###### El texto continúa acumulando elementos <u>relacionados</u> con este pueblo.
+-   Pablo recibió un encargo.
+-   Timoteo ha recibido un encargo.
+-   La carta gira alrededor de la preservación de ese encargo y de su propósito.
 
-#### la promulgación de la ley,
-##### Pablo incluye la <u>ley</u> dentro del inventario.
+##### El flujo de 1:3–11 puede verse con claridad.
 
-###### <u>La</u> lista sigue creciendo.
+-   Algunos enseñaban doctrinas diferentes.
+-   Estas producían discusiones inútiles.
+-   El propósito de la instrucción es el amor.
+-   Algunos se desviaron de ese propósito.
+-   No comprendían el uso correcto de la ley.
+-   La ley es buena si se usa legítimamente.
+-   La sana doctrina está en armonía con el evangelio.
+-   Ese evangelio fue encomendado a Pablo.
 
-#### el culto y las promesas,
-##### El culto y <u>las</u> promesas completan esta parte del inventario.
+> En Síntesis (1 Timoteo 1:8-11)
+>
+> - La ley no es el problema; el uso sí: Pablo afirma que “la ley es buena” y corrige la idea de que deba descartarse por el mal uso que otros hacen de ella.
+> - Criterio clave: uso legítimo: La sección gira alrededor de esta regla: la ley debe usarse conforme a su propósito, no como plataforma para especulaciones o para presumir autoridad.
+> - La ley apunta a confrontar al rebelde, no al justo: Pablo define para quién fue instituida: no como carga para el justo, sino como herramienta que expone y frena la transgresión y la rebeldía.
+> - Lista representativa del pecado: La enumeración (impíos, profanos, violencia, inmoralidad, engaño, etc.) muestra el tipo de conductas que la ley denuncia; la lista no es exhaustiva, sino ilustrativa.
+> - La “sana doctrina” es el estándar final: Pablo resume: la ley confronta “cualquier otra cosa contraria a la sana doctrina”. Así conecta el tema de la ley con el problema central de la carta (enseñanza desviada).
+> - La sana doctrina se mide por el evangelio encomendado: Todo se alinea “según el glorioso evangelio del Dios bendito”; Pablo remata recordando que ese evangelio le fue encomendado, y por eso corrige el uso de la ley desde esa base.
 
-###### El énfasis no está todavía en explicar cada <u>elemento</u>.
+## 1 Timoteo 1:12–17 - La misericordia de Dios se hace visible en Pablo
 
-###### El énfasis está en mostrar todo lo que <u>está</u> asociado con Israel.
+### 1 Timoteo 1:12
 
-### Romanos 9:5
-de quienes son los patriarcas, y de quienes, según la carne, procede el Cristo, el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
+Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio,
 
-#### de quienes son los patriarcas,
-##### <u>Pablo</u> continúa el inventario iniciado en el versículo anterior.
 
-###### Los patriarcas <u>son</u> presentados como parte de la herencia histórica de Israel.
+#### Doy gracias a Cristo Jesús nuestro Señor
 
-#### y de quienes, según la carne,
-##### <u>La</u> expresión:
-> “según la carne”
-###### conecta <u>con</u> el lenguaje utilizado anteriormente en 9:3.
+##### Pablo comienza una sección personal en la que utiliza su propia vida como evidencia de la misericordia de Dios.
 
-###### El texto continúa describiendo una relación <u>de</u> linaje y descendencia.
+##### Después de hablar acerca del evangelio que le fue encomendado, Pablo pasa naturalmente a considerar lo que Dios hizo en él. La atención se desplaza de la enseñanza a la experiencia personal de quien recibió ese encargo.
 
-#### procede el Cristo,
-##### El inventario alcanza su punto <u>más</u> alto.
+-   Pablo expresa gratitud.
+-   La gratitud está dirigida a Cristo Jesús.
+-   La sección introduce el testimonio personal de Pablo.
 
-###### Pablo afirma que el Cristo procede de Israel <u>según</u> la carne.
+##### Esta transición es importante para el desarrollo del argumento.
 
-###### El grupo descrito en <u>estos</u> versículos está directamente relacionado con la venida del Cristo.
+-   Pablo acaba de hablar del evangelio.
+-   Ahora mostrará cómo ese evangelio se hizo visible en su propia vida.
+-   Su experiencia servirá como evidencia de la misericordia de Dios.
 
-#### el cual está sobre todas las cosas, Dios bendito por los siglos. Amén.
-##### El versículo concluye <u>con</u> una declaración de exaltación y bendición.
+#### que me ha fortalecido
 
-###### La atención se desplaza del inventario hacia la <u>grandeza</u> de Cristo.
+##### Pablo reconoce que el origen de su capacidad para servir no se encuentra en sí mismo.
 
-###### La sección termina con una expresión <u>de</u> alabanza:
-> “Amén”.
+##### El énfasis recae sobre la acción de Cristo. Pablo no dirige la atención hacia sus habilidades, esfuerzos o logros, sino hacia el fortalecimiento recibido de su Señor.
+
+-   Cristo es quien fortalece.
+-   Pablo se presenta como receptor de ese fortalecimiento.
+-   La iniciativa pertenece a Cristo.
+
+##### Esta observación prepara el contraste con el versículo siguiente.
+
+-   Pablo hablará de su pasado.
+-   El fortalecimiento recibido no se explica por mérito personal.
+-   La misericordia de Dios ocupará el centro de la sección.
+
+#### porque me tuvo por fiel
+
+##### Pablo explica una de las razones por las que da gracias.
+
+##### El énfasis del texto recae en la evaluación que Cristo hizo de Pablo al confiarle una responsabilidad. La frase prepara la explicación posterior de cómo alguien con el pasado de Pablo pudo recibir tal encargo.
+
+-   Cristo le confió una responsabilidad.
+-   Pablo reconoce esa confianza.
+-   Los versículos siguientes explicarán por qué esto resulta sorprendente.
+
+##### El lector todavía no conoce el contraste completo.
+
+-   Pablo afirmará haber sido blasfemo y perseguidor.
+-   La misericordia de Dios explicará esta aparente tensión.
+-   El argumento todavía está en desarrollo.
+
+#### poniéndome en el ministerio
+
+##### Pablo identifica la responsabilidad que le fue confiada.
+
+##### El fortalecimiento recibido y la confianza otorgada desembocaron en una tarea concreta. Pablo fue colocado en el servicio del evangelio que acaba de mencionar.
+
+-   Cristo no solamente fortaleció a Pablo.
+-   También le confió una responsabilidad.
+-   El ministerio aparece como resultado de la iniciativa de Cristo.
+
+##### Este versículo funciona como la introducción al testimonio que sigue.
+
+-   Pablo recibió misericordia.
+-   Pablo recibió fortalecimiento.
+-   Pablo recibió un encargo.
+-   Los versículos siguientes explicarán cómo ocurrió todo esto.
+
+##### El flujo de la sección comienza a tomar forma.
+
+-   El evangelio fue encomendado a Pablo.
+-   Pablo da gracias a Cristo.
+-   Cristo lo fortaleció.
+-   Cristo lo puso en el ministerio.
+-   Ahora Pablo explicará por qué esta misericordia resulta tan extraordinaria.
+
+### 1 Timoteo 1:13
+
+aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad.
+
+
+#### aun habiendo sido yo antes blasfemo, perseguidor y agresor
+
+##### Pablo comienza a explicar por qué la misericordia que recibió resulta tan extraordinaria.
+
+##### El versículo anterior afirmó que Cristo lo tuvo por fiel y lo puso en el ministerio. Ahora Pablo dirige la atención hacia su pasado para mostrar el contraste entre lo que era y lo que recibió.
+
+-   Pablo describe su condición anterior.
+-   El énfasis recae sobre su pasado.
+-   La descripción prepara el contraste con la misericordia recibida.
+
+##### La lista presenta una evaluación que Pablo hace de sí mismo desde su nueva perspectiva.
+
+-   Fue blasfemo.
+-   Fue perseguidor.
+-   Fue agresor.
+-   Estas características hacen más sorprendente lo que Cristo hizo por él.
+
+#### Sin embargo, se me mostró misericordia
+
+##### Pablo introduce el gran contraste de su testimonio.
+
+##### A pesar de su pasado, Dios actuó hacia él con misericordia. El énfasis no recae sobre lo que Pablo hizo, sino sobre lo que Dios hizo por Pablo.
+
+-   Pablo contrasta su pasado con la misericordia recibida.
+-   La misericordia ocupa el centro de la sección.
+-   El cambio en su vida es atribuido a la acción de Dios.
+
+##### Esta observación explica el título de la sección.
+
+-   La misericordia de Dios se hace visible en Pablo.
+-   Pablo funciona como un ejemplo concreto de esa misericordia.
+-   Los versículos siguientes desarrollarán aún más esta idea.
+
+#### porque lo hice por ignorancia en mi incredulidad
+
+##### Pablo explica la condición en la que se encontraba cuando actuó de esa manera.
+
+##### Pablo no intenta justificar sus acciones. Más bien describe la realidad espiritual en la que vivía antes de conocer a Cristo.
+
+-   Pablo reconoce su incredulidad.
+-   Sus acciones ocurrieron en ese contexto.
+-   La explicación sigue formando parte de su testimonio.
+
+##### La atención continúa enfocada en la misericordia de Dios.
+
+-   Pablo recuerda quién era.
+-   Pablo recuerda cómo actuaba.
+-   Todo esto resalta la misericordia que recibió posteriormente.
+
+##### El flujo del argumento continúa desarrollándose.
+
+-   Cristo fortaleció a Pablo.
+-   Cristo lo puso en el ministerio.
+-   Pablo recuerda su pasado.
+-   Pablo destaca la misericordia recibida.
+-   Los versículos siguientes mostrarán la abundancia de esa gracia y misericordia.
+
+### 1 Timoteo 1:14
+
+Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús.
+
+
+#### Pero la gracia de nuestro Señor fue más que abundante
+
+##### Pablo continúa desarrollando el contraste iniciado en el versículo anterior.
+
+##### Después de afirmar que recibió misericordia, Pablo añade que la gracia del Señor se manifestó de manera sobreabundante en su vida. La atención sigue centrada en lo que Dios hizo, no en lo que Pablo hizo.
+
+-   Pablo continúa describiendo la acción de Dios.
+-   La misericordia no fue la única realidad que experimentó.
+-   La gracia del Señor ocupó un lugar central en su transformación.
+
+##### El contraste con su pasado sigue aumentando.
+
+-   Pablo había sido blasfemo.
+-   Pablo había sido perseguidor.
+-   Pablo había sido agresor.
+-   Sin embargo, la gracia del Señor fue más abundante que su pasado.
+
+#### con la fe y el amor
+
+##### Pablo describe aquello que acompañó la manifestación de esa gracia.
+
+##### La gracia no aparece sola. Pablo la relaciona con la fe y el amor, dos realidades que ahora caracterizan su vida y que contrastan con la incredulidad mencionada en el versículo anterior.
+
+-   El versículo anterior mencionó incredulidad.
+-   Ahora aparecen la fe y el amor.
+-   Pablo sigue mostrando el cambio producido por la gracia de Dios.
+
+##### Esta observación resulta especialmente significativa dentro del contexto de la carta.
+
+-   En 1:5 Pablo afirmó que el propósito de la instrucción es el amor.
+-   Ahora vuelve a mencionar el amor dentro de su propio testimonio.
+-   La experiencia de Pablo ilustra aquello que la instrucción debe producir.
+
+#### que se hallan en Cristo Jesús
+
+##### Pablo identifica la fuente de la fe y del amor que acaba de mencionar.
+
+##### La fe y el amor no son presentados como cualidades independientes de Cristo. Pablo las vincula directamente a la relación con Cristo Jesús.
+
+-   Cristo ocupa el centro de la transformación de Pablo.
+-   La fe y el amor se encuentran en Él.
+-   La gracia, la fe y el amor aparecen unidas en el versículo.
+
+##### El flujo de la sección continúa desarrollándose.
+
+-   Pablo recuerda quién era.
+-   Pablo recuerda la misericordia que recibió.
+-   Pablo destaca la abundancia de la gracia.
+-   Pablo señala la fe y el amor que se hallan en Cristo Jesús.
+
+##### La misericordia de Dios continúa haciéndose visible en la experiencia personal de Pablo.
+
+-   Antes hubo incredulidad.
+-   Ahora aparecen la fe y el amor.
+-   La diferencia es atribuida a la gracia del Señor.
+
+### 1 Timoteo 1:15
+
+Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.
+
+
+#### Palabra fiel y digna de ser aceptada por todos
+
+##### Pablo introduce una declaración que considera completamente confiable.
+
+##### Antes de presentar el contenido de la afirmación, Pablo destaca su confiabilidad y su importancia. La declaración que sigue merece ser recibida y aceptada plenamente.
+
+-   Pablo resalta la certeza de lo que va a decir.
+-   La afirmación merece plena aceptación.
+-   La atención del lector es dirigida hacia la declaración que sigue.
+
+##### Esta expresión da especial peso a las palabras que vienen a continuación.
+
+-   Pablo quiere que el lector preste atención.
+-   La declaración ocupa un lugar importante dentro de su argumento.
+-   Lo que sigue resume una verdad fundamental del evangelio.
+
+#### Cristo Jesús vino al mundo para salvar a los pecadores
+
+##### Pablo resume el propósito de la venida de Cristo.
+
+##### Después de hablar acerca del evangelio, la misericordia y la gracia, Pablo expresa de manera sencilla el propósito de la obra de Cristo. Su venida al mundo estuvo dirigida a la salvación de los pecadores.
+
+-   Cristo Jesús vino al mundo.
+-   Su venida tuvo un propósito.
+-   Ese propósito fue salvar a los pecadores.
+
+##### Esta afirmación encaja perfectamente con el testimonio que Pablo viene desarrollando.
+
+-   Pablo ha recordado quién era.
+-   Pablo ha destacado la misericordia recibida.
+-   Ahora explica por qué esa misericordia fue posible.
+
+##### El énfasis recae sobre la iniciativa de Cristo.
+
+-   Cristo vino.
+-   Cristo salvó.
+-   Pablo se presenta como beneficiario de esa obra.
+
+#### entre los cuales yo soy el primero
+
+##### Pablo se incluye personalmente dentro de aquellos que Cristo vino a salvar.
+
+##### Después de describir su pasado como blasfemo, perseguidor y agresor, Pablo no habla de los pecadores como una categoría distante. Se identifica a sí mismo dentro de ellos.
+
+-   Pablo se incluye entre los pecadores.
+-   Su testimonio continúa siendo personal.
+-   La misericordia de Dios sigue ocupando el centro de la sección.
+
+##### Esta afirmación fortalece el argumento que Pablo ha venido desarrollando.
+
+-   Cristo lo fortaleció.
+-   Cristo lo puso en el ministerio.
+-   Cristo le mostró misericordia.
+-   Cristo derramó gracia sobre él.
+-   Todo esto ocurrió a pesar de lo que Pablo era.
+
+##### El flujo de la sección continúa avanzando hacia su punto culminante.
+
+-   Pablo recuerda su pasado.
+-   Pablo destaca la misericordia recibida.
+-   Pablo exalta la gracia de Dios.
+-   Pablo resume el evangelio.
+-   Pablo se presenta como un ejemplo de la obra salvadora de Cristo.
+
+### 1 Timoteo 1:16
+
+Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna.
+
+
+#### Sin embargo, por esto hallé misericordia
+
+##### Pablo vuelve a enfatizar la misericordia recibida de Dios.
+
+##### Después de identificarse como el primero de los pecadores, Pablo explica que precisamente por esa razón recibió misericordia. La atención continúa centrada en la acción de Dios y no en los méritos de Pablo.
+
+-   Pablo vuelve a destacar la misericordia.
+-   La misericordia ocupa el centro de su testimonio.
+-   El énfasis recae sobre lo que Dios hizo por él.
+
+##### El argumento sigue desarrollándose sobre el mismo contraste.
+
+-   Pablo era blasfemo, perseguidor y agresor.
+-   Pablo recibió misericordia.
+-   Ahora explica el propósito de esa misericordia.
+
+#### para que en mí, como el primero
+
+##### Pablo presenta su propia vida como un caso ejemplar.
+
+##### Pablo no se presenta simplemente como alguien que recibió misericordia. Su experiencia sirve para mostrar algo más amplio acerca de la obra de Cristo.
+
+-   Pablo se convierte en un ejemplo.
+-   Su experiencia tiene un propósito que va más allá de él mismo.
+-   Cristo utiliza su caso para mostrar algo a otros.
+
+#### Jesucristo demostrara toda Su paciencia
+
+##### Pablo identifica aquello que Cristo quiso mostrar mediante su vida.
+
+##### La atención se dirige a la paciencia de Cristo. A través de la transformación de Pablo, Cristo hace visible la amplitud de Su paciencia.
+
+-   El énfasis recae sobre Cristo.
+-   Cristo demuestra Su paciencia.
+-   Pablo funciona como el medio por el cual esa paciencia se hace visible.
+
+##### La misericordia y la gracia mencionadas anteriormente continúan desarrollándose aquí.
+
+-   Pablo recibió misericordia.
+-   Pablo recibió gracia abundante.
+-   Ahora Pablo destaca la paciencia de Cristo.
+
+#### como un ejemplo para los que habrían de creer en Él
+
+##### Pablo explica el propósito de ese testimonio.
+
+##### La experiencia de Pablo no queda limitada a su propia historia. Su vida sirve como ejemplo para otras personas que posteriormente creerán en Cristo.
+
+-   Pablo es presentado como un ejemplo.
+-   El ejemplo apunta a futuros creyentes.
+-   La atención sigue dirigida hacia la obra de Cristo.
+
+##### Esta observación ayuda a entender por qué Pablo relata su propia experiencia en esta sección.
+
+-   No está simplemente contando su historia.
+-   Su experiencia ilustra la misericordia de Dios.
+-   Su vida sirve como evidencia de la obra de Cristo.
+
+#### para vida eterna
+
+##### Pablo concluye señalando el resultado de creer en Cristo.
+
+##### La fe en Cristo conduce a la vida eterna. El mismo Cristo que mostró paciencia hacia Pablo continúa siendo el objeto de la fe de aquellos que creen.
+
+-   La fe está dirigida a Cristo.
+-   La vida eterna aparece como resultado de creer en Él.
+-   Pablo conecta su experiencia con la esperanza de otros creyentes.
+
+##### El flujo de la sección alcanza aquí uno de sus puntos culminantes.
+
+-   Pablo recordó su pasado.
+-   Pablo destacó la misericordia recibida.
+-   Pablo habló de la abundancia de la gracia.
+-   Pablo resumió el evangelio.
+-   Pablo se presentó como ejemplo de la paciencia de Cristo.
+-   Pablo dirigió la atención hacia aquellos que creerían para vida eterna.
+
+### 1 Timoteo 1:17
+
+Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gloria por los siglos de los siglos. Amén.
+
+
+#### Por tanto
+
+##### Pablo responde a todo lo que acaba de describir acerca de la misericordia, la gracia y la paciencia de Dios.
+
+##### Después de recordar quién era, la misericordia que recibió y el propósito por el cual Cristo lo salvó, Pablo irrumpe en una expresión de adoración.
+
+-   Pablo llega a una conclusión.
+-   La respuesta es adoración.
+-   La atención se dirige completamente hacia Dios.
+
+##### Esta alabanza surge naturalmente del testimonio que acaba de relatar.
+
+-   Pablo recordó su pasado.
+-   Pablo destacó la misericordia recibida.
+-   Pablo contempló la paciencia de Cristo.
+-   La sección culmina en adoración.
+
+#### al Rey eterno
+
+##### Pablo exalta a Dios como el Rey que gobierna para siempre.
+
+##### La atención ya no está sobre Pablo ni sobre su experiencia. Toda la gloria es dirigida a Dios.
+
+-   Dios ocupa el centro de la escena.
+-   Pablo pasa de su testimonio a la adoración.
+-   La mirada se eleva hacia la grandeza de Dios.
+
+#### inmortal
+
+##### Pablo continúa describiendo la grandeza de Dios.
+
+##### Dios es presentado como Aquel que no está sujeto a corrupción ni a fin alguno.
+
+-   La descripción continúa exaltando a Dios.
+-   El énfasis permanece en Su grandeza.
+-   Pablo acumula expresiones de adoración.
+
+#### invisible
+
+##### Pablo añade otra descripción de Dios.
+
+##### Dios no es visible a los ojos humanos, pero Su obra se ha hecho visible en la vida de Pablo.
+
+-   Dios es invisible.
+-   Sin embargo, Su misericordia se ha hecho evidente.
+-   El testimonio de Pablo ha mostrado esa realidad.
+
+#### único Dios
+
+##### Pablo continúa concentrando toda la gloria en Dios.
+
+##### La salvación, la misericordia, la gracia y la paciencia descritas en esta sección tienen su origen en Él.
+
+-   Dios es el único digno de esta exaltación.
+-   Toda la atención es dirigida hacia Él.
+-   Pablo no comparte esta gloria con nadie más.
+
+#### a Él sea honor y gloria por los siglos de los siglos
+
+##### Pablo expresa la respuesta apropiada ante todo lo que ha contemplado.
+
+##### Después de considerar la obra de Dios en su vida, Pablo concluye atribuyéndole honor y gloria eternamente.
+
+-   La sección termina en adoración.
+-   La gloria pertenece a Dios.
+-   El honor pertenece a Dios.
+
+#### Amén
+
+##### Pablo cierra esta expresión de alabanza con una afirmación solemne.
+
+##### La doxología concluye la sección dedicada al testimonio de la misericordia de Dios en la vida de Pablo.
+
+-   La misericordia condujo a la adoración.
+-   El testimonio condujo a la gloria de Dios.
+-   La sección alcanza aquí su conclusión.
+
+##### El flujo de 1:12–17 puede verse con claridad.
+
+-   Cristo fortaleció a Pablo.
+-   Cristo lo puso en el ministerio.
+-   Pablo recordó su pasado.
+-   Dios le mostró misericordia.
+-   La gracia fue más que abundante.
+-   Cristo vino para salvar pecadores.
+-   Pablo fue constituido como ejemplo de la paciencia de Cristo.
+-   Todo culmina en adoración y gloria a Dios.
+
+> En Síntesis (1 Timoteo 1:12-17)
+>
+> - Gratitud centrada en Cristo: Pablo inicia dando gracias a Cristo Jesús; su testimonio comienza con adoración, no con auto‑exaltación.
+> - Capacidad y ministerio como iniciativa divina: Pablo atribuye su servicio a que Cristo lo fortaleció y lo puso en el ministerio; no lo presenta como logro personal.
+> - El contraste con su pasado resalta la misericordia: Pablo recuerda que antes fue blasfemo, perseguidor y agresor, y precisamente por eso la misericordia recibida aparece como extraordinaria.
+> - Gracia sobreabundante que produce fe y amor: La gracia del Señor no sólo perdona; transforma: ahora hay fe y amor en Cristo, en contraste con su anterior incredulidad (y conecta con 1:5: el propósito de la instrucción es amor).
+> - El evangelio resumido y el propósito ejemplar: “Cristo vino para salvar a pecadores” y Pablo se presenta como “el primero” para que Cristo muestre toda su paciencia en él, como ejemplo para futuros creyentes; la sección culmina en doxología: honor y gloria al Rey eterno.
+
+## 1 Timoteo 1:18–20 - El encargo es confiado a Timoteo
+
+### 1 Timoteo 1:18
+
+Esta comisión te confío, hijo Timoteo, conforme a las profecías que antes se hicieron en cuanto a ti, a fin de que por ellas pelees la buena batalla,
+
+
+#### Esta comisión te confío, hijo Timoteo
+
+##### Pablo vuelve al encargo que motivó la carta desde el principio.
+
+##### Después de describir el propósito de la instrucción, el uso correcto de la ley y la misericordia de Dios manifestada en su propia vida, Pablo regresa al asunto central: la responsabilidad confiada a Timoteo.
+
+-   Pablo vuelve al encargo.
+-   Timoteo es el receptor de esa responsabilidad.
+-   La sección retoma el tema introducido en 1:3.
+
+##### La expresión "hijo Timoteo" recuerda la relación ya mencionada al comienzo de la carta.
+
+-   Pablo se dirige a Timoteo con afecto.
+-   El encargo ocurre dentro de una relación personal.
+-   La responsabilidad no disminuye la cercanía entre ambos.
+
+#### conforme a las profecías que antes se hicieron en cuanto a ti
+
+##### Pablo recuerda a Timoteo circunstancias relacionadas con su llamamiento y servicio.
+
+##### El encargo que Timoteo recibe no aparece como algo aislado o improvisado. Pablo conecta esta responsabilidad con lo que anteriormente había sido dicho acerca de él.
+
+-   Pablo dirige la atención hacia acontecimientos previos.
+-   Timoteo debía recordar aquello que había ocurrido anteriormente.
+-   Estas referencias sirven de apoyo para el encargo que está recibiendo.
+
+##### El énfasis del versículo no recae sobre el contenido de las profecías, sino sobre la manera en que debían fortalecer a Timoteo en su responsabilidad.
+
+-   Pablo no desarrolla las profecías.
+-   Pablo las utiliza para reforzar el encargo.
+-   La atención permanece sobre la tarea confiada a Timoteo.
+
+#### a fin de que por ellas pelees la buena batalla
+
+##### Pablo explica el propósito por el cual recuerda estas cosas a Timoteo.
+
+##### El encargo recibido requería perseverancia y firmeza. Timoteo enfrentaba una situación difícil y debía continuar cumpliendo la responsabilidad que le había sido confiada.
+
+-   Timoteo debía actuar.
+-   Timoteo debía perseverar.
+-   La imagen es presentada como una batalla.
+
+##### La expresión conecta naturalmente con el contexto de la carta.
+
+-   Existían enseñanzas diferentes.
+-   Algunos se habían desviado del propósito de la instrucción.
+-   Timoteo había recibido un encargo.
+-   Ahora debe mantenerse firme en el cumplimiento de esa tarea.
+
+##### El flujo de la sección es importante.
+
+-   Pablo recibió un encargo.
+-   El evangelio le fue encomendado.
+-   Timoteo recibe ahora un encargo.
+-   La responsabilidad debe ser preservada.
+-   La buena batalla consiste en permanecer fiel a aquello que ha sido confiado.
+
+### 1 Timoteo 1:19
+
+guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron en lo que toca a la fe.
+
+
+#### guardando la fe
+
+##### Pablo explica cómo debe pelearse la buena batalla.
+
+##### La buena batalla mencionada en el versículo anterior no se describe mediante fuerza física ni confrontación militar. Pablo la relaciona con la preservación de la fe.
+
+-   La fe debe ser guardada.
+-   La buena batalla está relacionada con esa responsabilidad.
+-   Pablo continúa desarrollando el encargo dado a Timoteo.
+
+##### Esta observación conecta con el desarrollo de todo el capítulo.
+
+-   Algunos enseñaban doctrinas diferentes.
+-   Algunos se desviaron del propósito de la instrucción.
+-   Timoteo debe guardar la fe.
+-   El contraste entre ambos grupos es evidente.
+
+#### y una buena conciencia
+
+##### Pablo añade un segundo elemento que debe ser preservado.
+
+##### La fe y la buena conciencia aparecen unidas, tal como ocurrió anteriormente en la carta.
+
+-   Pablo vuelve a mencionar la buena conciencia.
+-   La expresión ya apareció en 1:5.
+-   Ambos elementos forman parte de la responsabilidad de Timoteo.
+
+##### Esta conexión resulta significativa dentro del flujo del capítulo.
+
+-   El propósito de la instrucción incluye una buena conciencia.
+-   Timoteo debe conservar una buena conciencia.
+-   El encargo y su propósito permanecen estrechamente relacionados.
+
+#### que algunos han rechazado
+
+##### Pablo vuelve a dirigir la atención hacia quienes se apartaron del camino correcto.
+
+##### El problema no era meramente teórico. Algunas personas ya habían rechazado aquello que Timoteo debía conservar.
+
+-   Existe un contraste entre Timoteo y algunos otros.
+-   Timoteo debe guardar.
+-   Ellos rechazaron.
+
+##### Pablo continúa mostrando los resultados de esa decisión.
+
+-   En 1:6 algunos se desviaron.
+-   Ahora se dice que rechazaron estas cosas.
+-   El patrón de deterioro sigue desarrollándose.
+
+#### y naufragaron en lo que toca a la fe
+
+##### Pablo describe el resultado de ese rechazo.
+
+##### La imagen del naufragio comunica una pérdida grave. El rechazo de la fe y de una buena conciencia produjo consecuencias destructivas.
+
+-   Pablo utiliza una imagen fuerte.
+-   El resultado no fue un progreso espiritual.
+-   El resultado fue un naufragio.
+
+##### La imagen encaja con el argumento desarrollado desde el comienzo del capítulo.
+
+-   Algunos prestaron atención a otras enseñanzas.
+-   Se desviaron del propósito de la instrucción.
+-   Produjeron vana palabrería.
+-   Rechazaron la fe y una buena conciencia.
+-   El resultado fue un naufragio.
+
+##### El contraste principal del versículo permanece claro.
+
+-   Timoteo debe guardar la fe y una buena conciencia.
+-   Otros rechazaron estas cosas.
+-   El resultado de ambos caminos es completamente diferente.
+
+### 1 Timoteo 1:20
+
+Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para que aprendan a no blasfemar.
+
+
+#### Entre ellos están Himeneo y Alejandro
+
+##### Pablo identifica ejemplos concretos de las personas que habían naufragado en la fe.
+
+##### Después de describir el problema de manera general, Pablo menciona a dos individuos específicos. Estos hombres ilustran el resultado de rechazar la fe y una buena conciencia.
+
+-   Pablo menciona nombres concretos.
+-   Himeneo y Alejandro sirven como ejemplos.
+-   El problema descrito en la sección no era hipotético.
+
+##### La referencia conecta directamente con el versículo anterior.
+
+-   Algunos rechazaron la fe y una buena conciencia.
+-   Algunos naufragaron en la fe.
+-   Himeneo y Alejandro pertenecen a ese grupo.
+
+#### a quienes he entregado a Satanás
+
+##### Pablo describe una acción disciplinaria tomada respecto a estos hombres.
+
+##### El énfasis del versículo recae sobre la seriedad de la situación. Pablo no trata este problema como algo insignificante o sin consecuencias.
+
+-   La situación requería una respuesta.
+-   Pablo tomó una medida concreta.
+-   La gravedad del problema queda claramente expuesta.
+
+##### El propósito de esta acción será explicado inmediatamente.
+
+-   El énfasis todavía no recae sobre el castigo.
+-   Pablo explica el objetivo en la frase siguiente.
+-   La finalidad de la acción resulta fundamental para entender el versículo.
+
+#### para que aprendan a no blasfemar
+
+##### Pablo explica el propósito de la medida tomada.
+
+##### La intención final no es simplemente excluir o castigar. Pablo desea que estas personas aprendan y abandonen la conducta que las llevó a esta situación.
+
+-   Existe una finalidad correctiva.
+-   Pablo busca un aprendizaje.
+-   El problema identificado es la blasfemia.
+
+##### El versículo concluye mostrando que la disciplina y el encargo de Timoteo están relacionados.
+
+-   Algunos se desviaron del propósito de la instrucción.
+-   Algunos rechazaron la fe y una buena conciencia.
+-   Algunos naufragaron en la fe.
+-   Pablo tomó medidas concretas respecto a dos de ellos.
+
+##### La sección concluye donde comenzó.
+
+-   Timoteo recibió un encargo relacionado con la enseñanza.
+-   Algunos estaban promoviendo doctrinas diferentes.
+-   Pablo explicó el propósito de la instrucción.
+-   Pablo mostró las consecuencias de desviarse de ese propósito.
+-   Himeneo y Alejandro aparecen como ejemplos concretos de esa desviación.
 
 > En Síntesis
->- Los versículos identifican claramente a este grupo como los israelitas.
->- Pablo recuerda todo lo que está asociado con Israel: la adopción, la gloria, los pactos, la ley, el culto, las promesas y el Cristo.
->- La lista destaca la estrecha relación histórica entre Israel y el propósito de Dios.
->- El siguiente versículo responderá esa pregunta directamente: «No es que la palabra de Dios haya fallado».
+>
+> - Pablo vuelve al encargo que había confiado a Timoteo y le recuerda la responsabilidad que había recibido.
+> - Las circunstancias que rodearon su llamamiento debían fortalecerlo para permanecer firme en la tarea que tenía delante.
+> - La buena batalla consiste en guardar la fe y una buena conciencia, permaneciendo fiel al propósito de la instrucción.
+> - Algunos rechazaron estas cosas y el resultado fue un naufragio en lo que toca a la fe.
+> - Himeneo y Alejandro sirven como ejemplos concretos de las consecuencias de apartarse del camino correcto.
+> - La sección muestra el contraste entre conservar fielmente lo que ha sido confiado y rechazarlo, recordando a Timoteo la importancia de perseverar en su encargo.
 
-## Romanos 9:6–29 — Dios habla sobre Israel
+<!-- @quiz timoteo-1 -->
 
-### Romanos 9:6
-Pero no es que la palabra de Dios haya fallado. Porque no todos los descendientes de Israel son Israel;
+# 1 TIMOTEO 2:1-3:16 - LA CASA DE DIOS DEBE SER FORMADA POR ESE PROPÓSITO
 
-#### Pero no es que la palabra de Dios haya fallado.
-##### <u>Pablo</u> niega explícitamente una conclusión posible.
+## 1 Timoteo 2:1–7 - El propósito de Dios alcanza a todas las personas
 
-###### Después de mencionar a Israel, los pactos, las promesas, los patriarcas y <u>el</u> Cristo (9:4–5), responde a una pregunta fundamental:
-> ¿Ha fallado la palabra de Dios?
+### 1 Timoteo 2:1
 
-###### La respuesta es <u>clara</u>:
-> «No es que la palabra de Dios haya fallado».
+Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,
 
-##### <u>Observación</u> importante:
-###### Esta declaración funciona como una <u>afirmación</u> central para toda la sección que sigue.
 
-###### Los capítulos 9–11 desarrollarán <u>y</u> defenderán esta afirmación.
+#### Exhorto, pues
 
-##### Observación <u>desarrollacional</u>:
-###### A lo <u>largo</u> de Romanos 9, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios en las Escrituras.
+##### Pablo pasa del problema de la enseñanza desviada a las instrucciones para la casa de Dios.
 
-###### Por <u>ejemplo</u>:
+##### La conexión es importante. Después de hablar del encargo, su propósito y la necesidad de preservarlo, Pablo comienza a mostrar cómo ese propósito debe manifestarse en la vida de la congregación.
 
-- 9:7 «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA»
-- 9:9 «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO»
-- 9:12 «EL MAYOR SERVIRÁ AL MENOR»
-- 9:13 «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ»
-- 9:15 «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA...»
-- 9:17 «PARA ESTO MISMO TE HE LEVANTADO...»
+-   Pablo continúa desarrollando el encargo.
+-   La instrucción ahora se dirige a la vida de la iglesia.
+-   El argumento avanza desde la doctrina hacia la práctica.
 
-###### Más adelante también citará <u>palabras</u> relacionadas con Israel:
+##### La exhortación introduce una nueva sección de la carta.
 
-- 9:25 «LLAMARÉ PUEBLO MÍO AL QUE NO ERA MI PUEBLO...»
-- 9:26 «SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE»
-- 9:33 «HE AQUÍ, PONGO EN SIÓN PIEDRA DE TROPIEZO...»
+-   El propósito sigue siendo el mismo.
+-   Ahora Pablo muestra cómo debe expresarse.
+-   La oración ocupa el primer lugar.
 
-##### Observación <u>importante</u>:
-###### Romanos 9 está dominado por palabras <u>previamente</u> pronunciadas por Dios.
+#### ante todo
 
-###### Pablo dirige repetidamente la atención a aquello que Dios dijo antes <u>de</u> que los acontecimientos ocurrieran.
+##### Pablo destaca la prioridad de la instrucción que sigue.
 
-###### Luego observa el desarrollo <u>de</u> la historia.
+##### La expresión señala la importancia de lo que va a decir. No necesariamente indica que sea el único asunto importante, sino que ocupa un lugar destacado dentro de las instrucciones para la iglesia.
 
-###### El argumento avanza mostrando que <u>la</u> palabra pronunciada por Dios permanece firme.
+-   Pablo enfatiza la prioridad.
+-   La exhortación merece atención especial.
+-   La oración ocupa un lugar fundamental en la sección.
 
-##### <u>Observación</u> desarrollacional:
-###### Esta <u>afirmación</u> inicial funcionará como una clave para leer los capítulos 9–11.
+#### que se hagan plegarias, oraciones, peticiones y acciones de gracias
 
-###### Pablo no intentará demostrar que la palabra de Dios es <u>confiable</u> mediante argumentos abstractos.
+##### Pablo exhorta a la congregación a practicar la oración.
 
-###### Repetidamente apelará a palabras <u>pronunciadas</u> por Dios y al desarrollo posterior de la historia.
+##### Más que definir cada término individualmente, el énfasis del versículo recae en la amplitud de la práctica de la oración. Pablo acumula varias expresiones para destacar la importancia de dirigirse a Dios.
 
-#### Porque no todos los descendientes de Israel son Israel;
-##### <u>Pablo</u> comienza a explicar por qué la palabra de Dios no ha fallado.
+-   La iglesia debe orar.
+-   La exhortación incluye diversas formas de oración.
+-   La atención se dirige hacia Dios.
 
-###### La explicación inicia <u>con</u> una distinción.
+##### El versículo enfatiza la práctica más que las diferencias entre los términos.
 
-###### El texto <u>diferencia</u> entre:
-- los descendientes de Israel
-- Israel
+-   Pablo acumula expresiones relacionadas con la oración.
+-   La exhortación es amplia.
+-   La congregación debe participar en esta práctica.
 
-##### <u>Observación</u> importante:
-###### El lector no puede asumir automáticamente que <u>ambas</u> expresiones significan exactamente lo mismo.
+#### por todos los hombres
 
-###### Pablo introduce una distinción que desarrollará en <u>los</u> versículos siguientes.
+##### Pablo identifica el alcance de estas oraciones.
 
-##### Observación <u>desarrollacional</u>:
-###### La explicación de Pablo no <u>comienza</u> con la historia de las naciones.
+##### La oración de la iglesia no debe limitarse a un grupo reducido de personas. Pablo amplía deliberadamente el horizonte de la congregación.
 
-###### Comienza <u>con</u> una distinción dentro de Israel mismo.
+-   El alcance es amplio.
+-   La oración no debe ser exclusiva.
+-   La atención se dirige hacia todas las personas.
 
-###### Los versículos siguientes <u>desarrollarán</u> esa distinción.
+##### Esta frase prepara el desarrollo de los versículos siguientes.
 
-### Romanos 9:7
-ni son todos hijos por ser descendientes de Abraham, sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
+-   Pablo volverá a mencionar a todas las personas.
+-   Explicará por qué deben ser incluidas.
+-   El propósito de Dios constituye el fundamento de esta exhortación.
 
-#### ni son todos hijos por ser descendientes de Abraham,
-##### Pablo continúa desarrollando la misma <u>distinción</u>.
+##### Esta observación resulta especialmente importante dentro de la sección.
 
-###### No toda descendencia de Abraham es identificada automáticamente como “<u>hijos</u>”.
+-   El propósito de Dios alcanza a todas las personas.
+-   Por esa razón la oración también debe extenderse a todas las personas.
+-   Los versículos siguientes desarrollarán esta conexión.
 
-###### El texto vuelve a diferenciar entre categorías que podrían parecer equivalentes a primera <u>vista</u>.
+### 1 Timoteo 2:2
 
-##### La explicación <u>avanza</u> mediante una nueva distinción.
-- descendencia de Abraham
-- hijos
+por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.
 
-#### sino que «POR ISAAC SERÁ LLAMADA TU DESCENDENCIA».
-##### Después de negar una conclusión, Pablo presenta una <u>evidencia</u> tomada de las Escrituras. 
 
-- Fué Dios mismo que afirmó a Abraham que por Isaac sería su descendencia. Génesis 21:12
+#### por los reyes y por todos los que están en autoridad
 
-###### La cita <u>muestra</u> que la descendencia no es definida simplemente por procedencia física.
+##### Pablo continúa ampliando el alcance de las oraciones mencionadas en el versículo anterior.
 
-###### Pablo dirige la atención a Isaac como <u>ejemplo</u> dentro de su argumento.
+##### Después de exhortar a orar por todos los hombres, Pablo menciona específicamente a quienes ejercen autoridad. La oración de la iglesia no debe excluir a quienes gobiernan.
 
-###### A partir de este punto, Pablo comenzará <u>a</u> responder la pregunta de 9:6 apelando repetidamente a las Escrituras.
+-   Pablo mantiene el énfasis en "todos".
+-   Los gobernantes son incluidos explícitamente.
+-   La exhortación continúa ampliando el alcance de la oración.
 
-###### La explicación avanza mediante citas y ejemplos tomados de <u>la</u> historia de Israel.
+##### La atención del versículo no recae sobre la calidad de los gobernantes, sino sobre la responsabilidad de la iglesia de orar por ellos.
 
-### Romanos 9:8
-Esto es, no son los hijos de la carne los que son hijos de Dios, sino que los hijos de la promesa son considerados como descendientes.
+-   Pablo manda orar por ellos.
+-   Pablo no establece excepciones.
+-   El énfasis recae sobre la práctica de la oración.
 
-#### Esto es, no son los hijos de la carne los que son hijos de Dios,
-##### Pablo explica con mayor claridad la <u>distinción</u> introducida en los versículos anteriores.
+#### para que podamos vivir una vida tranquila y sosegada
 
-###### <u>El</u> contraste ahora es explícito:
-- hijos de la carne
-- hijos de Dios
+##### Pablo explica una de las razones por las que deben hacerse estas oraciones.
 
-##### El texto niega que la <u>descendencia</u> física, por sí sola, responda a la pregunta planteada en esta sección.
+##### La estabilidad y el orden en la sociedad favorecen una vida tranquila y sosegada para el pueblo de Dios.
 
-###### Pablo continúa desarrollando la <u>distinción</u> iniciada en 9:6–7.
+-   Pablo expresa un propósito.
+-   La oración está conectada con la tranquilidad social.
+-   El bienestar de la sociedad afecta la vida diaria de los creyentes.
 
-#### sino que los hijos de la promesa son considerados como descendientes.
-##### Pablo presenta la categoría que quiere <u>destacar</u>.
+##### El énfasis no recae en la comodidad personal sino en las condiciones que permiten una vida ordenada.
 
-###### El contraste ya no gira alrededor <u>de</u> la carne, sino alrededor de la promesa.
+-   Pablo está describiendo una manera de vivir.
+-   La tranquilidad favorece esa manera de vivir.
+-   El argumento continuará desarrollándose en la siguiente frase.
 
-##### Observación <u>importante</u>:
-###### El <u>texto</u> no dice simplemente:
-> “los hijos de la promesa son descendientes”.
+#### con toda piedad y dignidad
 
-###### <u>Dice</u>:
-> “son considerados como descendientes”.
+##### Pablo describe las características de esa vida tranquila y sosegada.
 
-###### Pablo introduce la idea de que la descendencia es definida de acuerdo con la <u>promesa</u> presentada por Dios.
+##### La tranquilidad buscada no tiene como finalidad simplemente una existencia cómoda. Pablo la relaciona con una vida marcada por la piedad y la dignidad.
 
-### Romanos 9:9
-Porque la palabra de promesa es esta: «POR ESTE TIEMPO VOLVERÉ, Y SARA TENDRÁ UN HIJO».
+-   La tranquilidad tiene un propósito.
+-   La piedad forma parte de ese propósito.
+-   La dignidad forma parte de ese propósito.
 
-#### Porque la palabra de promesa es esta:
-##### Pablo fundamenta la afirmación anterior mediante una cita de las <u>Escrituras</u>.
+##### Esta observación conecta naturalmente con el desarrollo de la carta.
 
-###### La promesa deja de ser una <u>idea</u> general.
+-   El propósito de la instrucción es el amor.
+-   La casa de Dios debe ser formada por ese propósito.
+-   Ahora Pablo comienza a describir cómo debe verse esa vida en la práctica.
 
-###### El texto <u>dirige</u> la atención a una promesa específica.
+##### El flujo de la sección sigue avanzando.
 
-###### Pablo continúa respondiendo a la pregunta de 9:6 <u>apelando</u> a las palabras de Dios.
+-   Se debe orar por todos los hombres.
+-   Se debe orar por quienes están en autoridad.
+-   La oración contribuye a una vida tranquila y sosegada.
+-   Esa vida debe caracterizarse por piedad y dignidad.
+-   Los versículos siguientes explicarán por qué esto es importante para el propósito de Dios.
 
-#### «POR ESTE TIEMPO VOLVERÉ,
-##### La <u>promesa</u> incluye un tiempo señalado.
+### 1 Timoteo 2:3
 
-###### El cumplimiento no <u>queda</u> indefinido.
+Porque esto es bueno y agradable delante de Dios nuestro Salvador,
 
-###### Dios <u>anuncia</u> una acción futura en un momento determinado.
 
-#### Y SARA TENDRÁ UN HIJO».
-##### La promesa culmina con el <u>nacimiento</u> de un hijo.
+#### Porque esto es
 
-###### El ejemplo presentado por Pablo no gira alrededor de la <u>capacidad</u> humana.
+##### Pablo explica por qué la exhortación de los versículos anteriores debe ser tomada seriamente.
 
-###### Gira alrededor <u>de</u> una promesa dada por Dios.
+##### La oración por todos los hombres y por quienes están en autoridad no es simplemente una recomendación práctica. Pablo afirma que esta conducta es buena y agradable delante de Dios.
 
-##### Observación <u>desarrollacional</u>:
-###### Pablo continúa mostrando que <u>la</u> descendencia relevante para su argumento está relacionada con la promesa de Dios.
+-   Pablo da la razón de la exhortación.
+-   La evaluación proviene de Dios.
+-   Lo anterior es presentado como bueno y agradable.
 
-###### La historia de Isaac <u>es</u> presentada como evidencia para apoyar la afirmación de 9:6.
+##### La expresión "porque" conecta directamente con los versículos 1 y 2.
 
-### Romanos 9:10
-Y no solo esto, sino que también Rebeca concibió mellizos de uno, nuestro padre Isaac.
+-   Se debe orar por todos los hombres.
+-   Se debe orar por quienes están en autoridad.
+-   Esto es bueno y agradable delante de Dios.
 
-#### Y no solo esto,
-##### Pablo añade un segundo <u>ejemplo</u>.
+#### bueno y agradable
 
-###### <u>El</u> caso de Isaac no es presentado como un caso aislado.
+##### Pablo describe la manera en que Dios ve esta práctica.
 
-###### El argumento continúa con otro <u>ejemplo</u> tomado de la misma línea familiar.
+##### La atención del versículo no recae sobre los gobernantes ni sobre las circunstancias políticas. El énfasis recae sobre aquello que agrada a Dios.
 
-#### sino que también Rebeca concibió mellizos de uno,
-##### El <u>texto</u> dirige ahora la atención a Rebeca.
+-   Dios aprueba esta conducta.
+-   Dios la considera buena.
+-   Dios la considera agradable.
 
-###### Pablo destaca que ambos hijos proceden <u>del</u> mismo embarazo.
+##### Esta observación prepara el desarrollo de los versículos siguientes.
 
-###### El énfasis recae sobre el origen común de <u>los</u> mellizos.
+-   Pablo todavía no ha explicado completamente por qué esto agrada a Dios.
+-   La explicación continuará en el versículo 4.
+-   El propósito de Dios será la base de la respuesta.
 
-#### nuestro padre Isaac.
-##### Pablo <u>identifica</u> a Isaac como el padre de ambos hijos.
+#### delante de Dios nuestro Salvador
 
-###### El ejemplo permanece dentro <u>de</u> la misma línea familiar introducida anteriormente.
+##### Pablo dirige nuevamente la atención hacia Dios.
 
-### Romanos 9:11
-Porque cuando aún los mellizos no habían nacido, y no habían hecho nada, ni bueno ni malo, para que el propósito de Dios conforme a Su elección permaneciera, no por las obras, sino por Aquel que llama,
+##### El centro del argumento no es la conveniencia social ni la estabilidad política. El fundamento de la exhortación se encuentra en Dios mismo y en Su propósito.
 
-#### Porque cuando aún los mellizos no habían nacido,
-##### <u>Pablo</u> dirige la atención al momento anterior al nacimiento.
+-   Dios ocupa el centro de la sección.
+-   La evaluación proviene de Él.
+-   La razón última será explicada en los versículos siguientes.
 
-###### El texto enfatiza que lo <u>que</u> sigue ocurre antes de que los niños nazcan.
+##### Esta descripción conecta naturalmente con el desarrollo de la carta.
 
-#### y no habían hecho nada, ni bueno ni malo,
-##### Pablo <u>añade</u> una segunda observación sobre ese momento.
-###### Los mellizos aún no habían realizado <u>ninguna</u> acción.
+-   Dios es quien salvó a Pablo.
+-   Dios es quien confió el evangelio.
+-   Dios es quien desea que la iglesia viva conforme a Su propósito.
 
-###### <u>El</u> texto menciona ambos extremos:
-- bueno
-- malo
+##### El flujo del argumento sigue avanzando.
 
-###### El énfasis continúa colocado antes del nacimiento y <u>antes</u> de cualquier acción realizada por los mellizos.
+-   La iglesia debe orar por todos los hombres.
+-   Debe orar por quienes están en autoridad.
+-   Esto es bueno y agradable delante de Dios.
+-   Ahora Pablo explicará por qué.
 
-#### para que el propósito de Dios conforme a Su elección permaneciera,
-##### <u>Pablo</u> declara la finalidad de lo que acaba de describir.
+### 1 Timoteo 2:4
 
-###### El foco del versículo se desplaza <u>hacia</u>:
-> \scripture{el propósito de Dios}
+el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad.
 
-###### El texto afirma que <u>ese</u> propósito permanece.
 
-##### <u>Observación</u> importante:
-###### Esta es la primera vez <u>que</u> aparece la expresión:
-> \scripture{el propósito de Dios conforme a Su elección}.
+#### el cual quiere
 
-###### Pablo la <u>desarrollará</u> en los versículos siguientes.
+##### Pablo continúa explicando por qué las oraciones mencionadas anteriormente son agradables a Dios.
 
-#### no por las obras,
-##### Pablo niega una base <u>específica</u>.
+##### La razón se encuentra en el propio carácter y propósito de Dios. Lo que la iglesia hace en oración está en armonía con aquello que Dios desea.
 
-###### Las obras son explícitamente excluidas de <u>la</u> explicación que está desarrollando.
+-   El versículo continúa la explicación iniciada en 2:3.
+-   Pablo está mostrando por qué esto agrada a Dios.
+-   La atención permanece sobre el propósito de Dios.
 
-#### sino por Aquel que llama,
-##### Pablo presenta <u>el</u> contraste.
+#### que todos los hombres sean salvos
 
-###### El <u>énfasis</u> deja de estar en las obras.
+##### Pablo expresa el alcance del deseo de Dios.
 
-###### El énfasis pasa a Aquel <u>que</u> llama.
+##### La expresión retoma el énfasis que ya apareció repetidamente en la sección. La oración debía hacerse por todos los hombres porque el deseo de Dios se extiende a todos los hombres.
 
-##### Observación <u>desarrollacional</u>:
-###### A lo largo de Romanos 9, <u>Pablo</u> continúa desplazando la atención:
-- de la carne a la promesa
-- de las obras al llamamiento
+-   La expresión "todos los hombres" vuelve a aparecer.
+-   Pablo mantiene el mismo énfasis de la sección.
+-   El alcance de la oración corresponde al alcance del deseo de Dios.
 
-###### <u>El</u> argumento sigue avanzando mediante contrastes.
+##### Esta observación conecta los versículos 1–4.
 
-### Romanos 9:12
-se le dijo a Rebeca: «EL MAYOR SERVIRÁ AL MENOR».
+-   Oraciones por todos los hombres.
+-   Acción de gracias por todos los hombres.
+-   Dios desea que todos los hombres sean salvos.
 
-#### se le dijo a Rebeca:
-##### <u>Pablo</u> continúa desarrollando el caso de Rebeca.
+#### y vengan al pleno conocimiento de la verdad
 
-###### La explicación no se apoya en acciones realizadas por <u>los</u> mellizos.
+##### Pablo añade un segundo aspecto al deseo expresado en el versículo.
 
-###### <u>El</u> texto dirige la atención a algo que fue dicho a Rebeca.
+##### La salvación y el conocimiento de la verdad aparecen unidos. Dios no solamente desea que las personas sean salvas, sino que lleguen al conocimiento pleno de la verdad.
 
-###### Después de hablar del propósito de Dios y de Aquel que llama (Romanos 9:11), Pablo introduce palabras dirigidas a <u>Rebeca</u>.
+-   Pablo presenta dos realidades relacionadas.
+-   Salvación.
+-   Conocimiento de la verdad.
 
-###### El argumento continúa <u>avanzando</u> mediante lo que Dios dijo.
+##### Esta frase conecta naturalmente con los problemas descritos en el capítulo anterior.
 
-#### «EL MAYOR SERVIRÁ AL MENOR».
-##### <u>Pablo</u> cita palabras que fueron dichas a Rebeca antes del nacimiento de los niños.
+-   Algunos se habían desviado de la verdad.
+-   Algunos enseñaban doctrinas diferentes.
+-   Dios desea que las personas lleguen al conocimiento de la verdad.
 
-###### Para entender <u>el</u> contexto de esta declaración, es necesario volver a Génesis 25:23:
-> Y el SEÑOR le dijo: «Dos naciones hay en tu seno,
->  Y dos pueblos se dividirán desde tus entrañas;
->  Un pueblo será más fuerte que el otro,
->  Y el mayor servirá al menor». Génesis 25:23
+##### El flujo de la sección continúa avanzando.
 
-###### La <u>declaración</u> incluye:
-- dos naciones
-- dos pueblos
-- un pueblo más fuerte que el otro
-- el mayor sirviendo al menor
+-   Se debe orar por todos los hombres.
+-   Esto agrada a Dios.
+-   Dios desea que todos los hombres sean salvos.
+-   Dios desea que lleguen al conocimiento de la verdad.
+-   Los versículos siguientes explicarán cómo esto es posible.
 
-###### Pablo <u>cita</u> la última línea de una declaración que originalmente hablaba de:
-- dos naciones
-- dos pueblos
+### 1 Timoteo 2:5
 
-###### ¿A <u>qué</u> pueblos se refiere? Génesis posteriormente los identifica: 
-- Jacob representa la nación de Israel. Génesis 32:28, 35:10
-- Esau representa la nación de Edom. Génesis 25:30, 36:1, 8, 19
+Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,
 
-##### Esto hace notar que la declaración dada <u>a</u> Rebeca en Génesis 25:23 habla de Israel y Edom, además de mencionar a los dos hijos.
 
-##### <u>Observación</u> importante:
-###### La declaración fue dada antes del <u>nacimiento</u> de los hijos.
+#### Porque hay un solo Dios
 
-###### Pablo sigue construyendo su argumento mediante lo <u>que</u> Dios dijo a Rebeca. 
+##### Pablo continúa explicando el fundamento de lo que acaba de afirmar en el versículo anterior.
 
-### Romanos 9:13
-Tal como está escrito: «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
+##### La oración por todos los hombres y el deseo de Dios de que todos sean salvos descansan sobre una realidad fundamental: existe un solo Dios.
 
-#### Tal como está escrito:
-##### Pablo ahora cita una declaración escrita mucho después del nacimiento <u>de</u> Jacob y Esaú.
+-   Pablo continúa respondiendo al "porque" iniciado en 2:3.
+-   El argumento sigue avanzando.
+-   La atención se dirige hacia Dios mismo.
 
-###### Romanos 9:12 cita lo que Dios dijo a Rebeca antes del nacimiento <u>de</u> los mellizos.
+##### Esta afirmación encaja naturalmente con el énfasis de la sección.
 
-###### Romanos 9:13 cita Malaquías, siglos después, cuando Jacob <u>y</u> Esaú ya están vinculados con pueblos y naciones.
+-   Dios desea que todos los hombres sean salvos.
+-   Existe un solo Dios.
+-   Por lo tanto, el alcance del mensaje no queda limitado a un grupo particular de personas.
 
-###### Génesis 25:23 ya había hablado de \scripture{dos <u>naciones</u>} y \scripture{dos pueblos}.
+#### y también un solo Mediador entre Dios y los hombres
 
-###### Malaquías 1:2–4 continúa ese mismo <u>marco</u> nacional: Jacob/Israel y Esaú/Edom.
+##### Pablo añade una segunda realidad fundamental.
 
-#### «A JACOB AMÉ, PERO A ESAÚ ABORRECÍ».
-##### La cita presenta un contraste entre Jacob y <u>Esaú</u>.
+##### Así como existe un solo Dios, también existe un solo Mediador. La reconciliación entre Dios y los hombres no depende de múltiples caminos o múltiples mediadores.
 
-###### Pero el contexto de Malaquías muestra <u>que</u> la declaración no aparece aislada.
+-   Hay un solo Dios.
+-   Hay un solo Mediador.
+-   Pablo une ambas afirmaciones dentro del mismo argumento.
 
-###### Malaquías habla <u>de</u> Israel y Edom, no solamente de dos niños antes de nacer.
+##### La conexión con el versículo anterior es importante.
 
-###### Malaquías 1:2–3 <u>dice</u>: «Yo los he amado», dice el SEÑOR. Pero ustedes dicen: «¿En qué nos has amado?». «¿No era Esaú hermano de Jacob?», declara el SEÑOR. «Sin embargo, Yo amé a Jacob, y aborrecí a Esaú...».
+-   Dios desea que todos los hombres sean salvos.
+-   Existe un solo Mediador entre Dios y los hombres.
+-   Pablo está mostrando cómo ese propósito puede llevarse a cabo.
 
-##### Observación <u>importante</u>:
-###### Romanos 9:12 mira <u>hacia</u> Génesis 25:23.
+#### Cristo Jesús hombre
 
-###### Romanos 9:13 <u>mira</u> hacia Malaquías 1:2–4.
+##### Pablo identifica al único Mediador mencionado en el versículo.
 
-###### Ambos textos mantienen juntos a Jacob/<u>Esaú</u> y a los pueblos relacionados con ellos.
+##### El Mediador no permanece anónimo. Pablo lo identifica específicamente como Cristo Jesús.
 
-##### <u>Observación</u> desarrollacional:
-###### Pablo no está sacando una frase <u>suelta</u>.
+-   Pablo identifica al Mediador.
+-   El Mediador es Cristo Jesús.
+-   La atención sigue centrada en Su obra.
 
-###### Está citando una línea que pertenece a una historia más <u>amplia</u>.
+##### Esta frase prepara el desarrollo del versículo siguiente.
 
-###### En Génesis 25:23, Dios habla de dos <u>naciones</u> y dos pueblos.
+-   Pablo ha identificado al Mediador.
+-   Ahora explicará lo que ese Mediador hizo.
+-   El argumento todavía no ha llegado a su conclusión.
 
-###### En Malaquías 1:2–4, <u>la</u> comparación aparece dentro de la relación entre Israel y Edom.
+##### El flujo de la sección continúa desarrollándose.
 
-###### Esto mantiene el <u>argumento</u> conectado con la pregunta de Romanos 9:6 acerca de Israel y la palabra de Dios.
+-   Se debe orar por todos los hombres.
+-   Dios desea que todos los hombres sean salvos.
+-   Existe un solo Dios.
+-   Existe un solo Mediador.
+-   Ese Mediador es Cristo Jesús.
+-   El versículo siguiente explicará la obra realizada por Él.
 
-### Romanos 9:14
-¿Qué diremos entonces? ¿Qué hay injusticia en Dios? ¡De ningún modo!
+### 1 Timoteo 2:6
 
-#### ¿Qué diremos entonces?
-##### Pablo <u>introduce</u> una objeción.
+quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiempo.
 
-###### La pregunta surge a partir de lo que acaba de afirmar <u>en</u> los versículos anteriores.
 
-###### El texto se <u>detiene</u> para considerar una posible reacción del lector.
+#### quien se dio a sí mismo
 
-#### ¿Qué hay injusticia en Dios?
-##### <u>La</u> objeción es expresada de manera directa.
+##### Pablo continúa describiendo la obra realizada por el único Mediador.
 
-###### La pregunta no gira alrededor de Isaac, Rebeca <u>o</u> Jacob.
+##### Después de identificar a Cristo Jesús como el único Mediador entre Dios y los hombres, Pablo explica lo que hizo. La atención recae sobre la entrega voluntaria de Cristo.
 
-###### La pregunta <u>gira</u> alrededor de Dios mismo.
+-   El sujeto sigue siendo Cristo Jesús.
+-   Pablo continúa el mismo argumento.
+-   La obra de Cristo ocupa el centro de la escena.
 
-###### El tema planteado <u>es</u> la justicia de Dios.
+##### La frase destaca la iniciativa de Cristo.
 
-###### Pablo <u>no</u> evita la objeción.
+-   Cristo se dio a sí mismo.
+-   La acción es presentada como voluntaria.
+-   Pablo enfatiza la entrega de Cristo.
 
-###### El texto la presenta explícitamente <u>antes</u> de responderla.
+#### en rescate por todos
 
-#### ¡De ningún modo!
-##### Pablo rechaza inmediatamente <u>la</u> objeción.
+##### Pablo explica el propósito de esa entrega.
 
-###### La respuesta es <u>breve</u> y contundente.
+##### La obra de Cristo es presentada como un rescate. Esta afirmación continúa desarrollando el argumento iniciado en los versículos anteriores acerca del deseo de Dios de que todos los hombres sean salvos.
 
-###### <u>El</u> texto no deja abierta la posibilidad de que exista injusticia en Dios.
+-   Cristo se dio a sí mismo.
+-   Su entrega fue un rescate.
+-   El rescate es presentado en relación con todos.
 
-### Romanos 9:15
-Porque Él dice a Moisés: «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA, Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
+##### La conexión con la sección es importante.
 
-#### Porque Él dice a Moisés:
-##### Pablo vuelve <u>a</u> responder mediante palabras pronunciadas por Dios.
+-   Se debe orar por todos los hombres.
+-   Dios desea que todos los hombres sean salvos.
+-   Existe un solo Dios.
+-   Existe un solo Mediador.
+-   Ese Mediador se dio a sí mismo en rescate por todos.
 
-###### La respuesta continúa avanzando <u>por</u> medio de las Escrituras.
+##### El argumento mantiene una notable coherencia.
 
-###### Después de citar lo dicho a Rebeca (Romanos 9:12) y lo escrito en Malaquías (Romanos 9:13), Pablo ahora dirige la atención a una declaración dada a <u>Moisés</u>.
+-   "Todos los hombres" aparece repetidamente.
+-   Pablo sigue desarrollando el mismo tema.
+-   El alcance del rescate corresponde al alcance descrito en la sección.
 
-###### <u>La</u> cita proviene de Éxodo 33:19.
+#### testimonio dado a su debido tiempo
 
-###### Pablo sigue respondiendo a la afirmación de Romanos 9:6 apelando a <u>cosas</u> que Dios dijo en distintos momentos de la historia de Israel.
+##### Pablo añade una observación acerca de la proclamación de esta obra.
 
-#### «TENDRÉ MISERICORDIA DEL QUE YO TENGA MISERICORDIA,
-##### Estas palabras fueron pronunciadas después del episodio <u>del</u> becerro de oro.
+##### La obra de Cristo no permaneció oculta. Pablo la describe como un testimonio dado en el tiempo establecido.
 
-###### Israel ya había <u>salido</u> de Egipto.
+-   Existe un testimonio.
+-   Ese testimonio fue dado.
+-   Fue dado en el momento determinado.
 
-###### Israel ya había quebrantado el pacto al hacerse <u>un</u> becerro de oro.
+##### Esta frase prepara naturalmente la transición hacia el versículo siguiente.
 
-###### Moisés estaba intercediendo por el pueblo cuando Dios <u>pronunció</u> esta declaración.
+-   Pablo ha descrito la obra de Cristo.
+-   Ahora hablará de su propia participación en la proclamación de ese mensaje.
+-   El énfasis comenzará a desplazarse hacia el ministerio apostólico.
 
-###### <u>La</u> cita no proviene de una situación hipotética, sino de un momento concreto de la historia de Israel.
+##### El flujo de la sección puede verse con claridad.
 
-##### <u>Observación</u> importante:
-###### <u>Una</u> vez más, Pablo cita palabras pronunciadas por Dios antes de que la historia siguiera desarrollándose.
+-   Dios desea que todos los hombres sean salvos.
+-   Hay un solo Dios.
+-   Hay un solo Mediador.
+-   Cristo se dio a sí mismo en rescate por todos.
+-   Este testimonio fue dado a su debido tiempo.
+-   Pablo explicará ahora su papel en la proclamación de ese testimonio.
 
-###### Primero <u>Dios</u> habló.
+### 1 Timoteo 2:7
 
-###### Después la <u>historia</u> continuó.
+Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.
 
-#### Y TENDRÉ COMPASIÓN DEL QUE YO TENGA COMPASIÓN».
-##### La segunda línea completa <u>la</u> declaración dada por Dios a Moisés.
 
-###### Misericordia <u>y</u> compasión aparecen juntas como parte de una misma respuesta.
+#### Y para esto yo fui constituido predicador y apóstol
 
-###### <u>Pablo</u> cita la declaración completa tal como aparece en las Escrituras.
+##### Pablo explica su relación con el mensaje que acaba de describir.
 
-##### Observación <u>desarrollacional</u>:
-###### Romanos 9 continúa acumulando testimonios provenientes de distintos <u>períodos</u> de la historia de Israel.
+##### La expresión "para esto" conecta directamente con los versículos anteriores. Pablo no introduce un tema nuevo. Explica que su propio ministerio existe en relación con el propósito de Dios, el único Mediador y el rescate anunciado.
 
-###### <u>Dios</u> habló a Rebeca. (Génesis 25:19-23)
+-   Pablo conecta su ministerio con lo anterior.
+-   La frase "para esto" mira hacia atrás.
+-   Su comisión está ligada al mensaje que acaba de describir.
 
-###### Dios habló por <u>medio</u> de Malaquías. (Malaquías 1:2–4)
+##### El énfasis no recae sobre Pablo mismo, sino sobre la tarea que le fue confiada.
 
-###### <u>Dios</u> habló a Moisés. (Éxodo 33:12-23)
+-   Pablo fue constituido.
+-   Pablo recibió una función.
+-   Pablo sirve al propósito que Dios está llevando a cabo.
 
-###### En cada caso, Pablo dirige <u>la</u> atención a palabras pronunciadas por Dios y al desarrollo posterior de la historia.
+#### predicador y apóstol
 
-###### El argumento sigue avanzando para <u>mostrar</u> que la palabra de Dios no ha fallado.
+##### Pablo describe dos aspectos de la responsabilidad que le fue confiada.
 
-### Romanos 9:16
-Así que no depende del que quiere ni del que corre, sino de Dios que tiene misericordia.
+##### Como predicador, Pablo anuncia el mensaje. Como apóstol, Pablo actúa como enviado autorizado para proclamarlo.
 
-#### Así que no depende del que quiere
-##### Pablo presenta una conclusión <u>basada</u> en la declaración citada en el versículo anterior.
+-   Pablo anuncia el mensaje.
+-   Pablo ha sido enviado para ese propósito.
+-   Ambas funciones sirven al mismo evangelio.
 
-###### El versículo conecta directamente con las palabras <u>que</u> Dios dijo a Moisés.
+##### Esta observación conecta con temas ya vistos en la carta.
 
-###### El énfasis no recae sobre <u>el</u> deseo humano.
+-   El evangelio fue encomendado a Pablo (1:11).
+-   Pablo fue puesto en el ministerio (1:12).
+-   Ahora recuerda nuevamente la tarea que le fue confiada.
 
-###### La atención permanece en lo que Dios <u>declaró</u>.
+#### (digo la verdad en Cristo, no miento)
 
-##### Observación <u>importante</u>:
-###### En las citas anteriores, Pablo ha mostrado declaraciones pronunciadas por Dios antes de que los <u>acontecimientos</u> ocurrieran.
+##### Pablo enfatiza la veracidad de lo que está afirmando.
 
-###### Después la historia avanzó, pero la palabra pronunciada por Dios <u>permaneció</u> firme.
+##### La afirmación interrumpe brevemente la oración para subrayar la certeza de su llamado y de su ministerio.
 
-#### ni del que corre,
-##### <u>Pablo</u> añade una segunda negación.
+-   Pablo insiste en que dice la verdad.
+-   La afirmación recibe énfasis especial.
+-   La atención vuelve inmediatamente al ministerio que le fue confiado.
 
-###### El énfasis tampoco recae <u>en</u> el esfuerzo humano.
+#### como maestro de los gentiles
 
-###### La explicación <u>no</u> es atribuida al deseo ni al esfuerzo.
+##### Pablo identifica el ámbito particular de su ministerio.
 
-###### Pablo continúa alejando la atención de las acciones humanas como base de <u>su</u> argumento.
+##### El mensaje del evangelio no estaba limitado a un solo pueblo o grupo. Pablo fue constituido maestro de los gentiles.
 
-#### sino de Dios que tiene misericordia.
-##### El contraste dirige <u>toda</u> la atención hacia Dios.
+-   Pablo menciona a los gentiles específicamente.
+-   El alcance del ministerio corresponde al alcance de la sección.
+-   El evangelio se dirige más allá de Israel.
 
-###### Después de negar dos bases humanas, <u>Pablo</u> presenta una base positiva.
+##### Esta observación encaja perfectamente con el argumento de 2:1–7.
 
-###### El énfasis recae en Dios y en Su <u>misericordia</u>.
+-   Oración por todos los hombres.
+-   Dios desea que todos los hombres sean salvos.
+-   Un solo Dios.
+-   Un solo Mediador.
+-   Rescate por todos.
+-   Pablo enviado a los gentiles.
 
-##### <u>Observación</u> desarrollacional:
-###### La conclusión <u>retoma</u> directamente las palabras citadas en Romanos 9:15:
-> «Tendré misericordia del que yo tenga misericordia».
+#### en fe y verdad
 
-###### Pablo sigue respondiendo mediante declaraciones pronunciadas <u>por</u> Dios.
+##### Pablo concluye describiendo la esfera en la que desarrolla su ministerio.
 
-###### A lo largo del capítulo, el argumento continúa avanzando mediante palabras que <u>Dios</u> dijo y que permanecen firmes a través del desarrollo de la historia.
+##### La fe y la verdad caracterizan el mensaje que enseña. Estas expresiones también contrastan con los problemas descritos en el capítulo 1.
 
-### Romanos 9:17
-Porque la Escritura dice a Faraón: «PARA ESTO MISMO TE HE LEVANTADO, PARA DEMOSTRAR MI PODER EN TI, Y PARA QUE MI NOMBRE SEA PROCLAMADO POR TODA LA TIERRA».
+-   Pablo enseña en fe y verdad.
+-   La verdad continúa ocupando un lugar central.
+-   El ministerio de Pablo sirve al propósito de Dios.
 
-#### Porque la Escritura dice a Faraón:
-##### Pablo introduce <u>otro</u> testimonio tomado de las Escrituras.
+##### El flujo completo de 2:1–7 puede verse con claridad.
 
-###### Después de citar palabras <u>dirigidas</u> a Rebeca y a Moisés, ahora dirige la atención a palabras dirigidas a Faraón.
-
-###### <u>La</u> cita proviene del relato del éxodo de Israel desde Egipto.
-
-###### Una vez más, el argumento <u>avanza</u> mediante algo que Dios dijo.
-
-###### La Escritura es presentada hablando a Faraón porque la cita recoge palabras pronunciadas por <u>Dios</u>.
-
-#### «PARA ESTO MISMO TE HE LEVANTADO,
-##### <u>La</u> cita presenta una declaración hecha por Dios acerca de Faraón.
-
-###### Dios habla antes de que la historia llegue <u>a</u> su desenlace.
-
-###### La atención se dirige al propósito expresado en la <u>declaración</u>.
-
-###### Pablo continúa mostrando palabras pronunciadas <u>por</u> Dios dentro de la historia de Israel.
-
-#### PARA DEMOSTRAR MI PODER EN TI,
-##### El primer propósito señalado en la cita es la manifestación del poder de <u>Dios</u>.
-
-###### El énfasis recae <u>en</u>:
-> «mi poder»
-
-###### La atención permanece en <u>lo</u> que Dios declara acerca de lo que hará.
-
-#### Y PARA QUE MI NOMBRE SEA PROCLAMADO
-##### La <u>cita</u> añade un segundo propósito.
-
-###### El énfasis se desplaza <u>hacia</u> el nombre de Dios.
-
-###### El propósito no termina <u>en</u> Faraón mismo.
-
-###### La declaración mira más <u>allá</u> del acontecimiento inmediato.
-
-#### POR TODA LA TIERRA».
-##### El alcance <u>del</u> propósito se amplía.
-
-###### La proclamación no queda limitada <u>a</u> Egipto.
-
-###### <u>La</u> declaración apunta a toda la tierra.
-
-##### Observación <u>importante</u>:
-###### Pablo continúa respondiendo mediante palabras pronunciadas por <u>Dios</u>.
-
-###### Primero Dios <u>habló</u>.
-
-###### Después <u>la</u> historia avanzó.
-
-###### El éxodo terminó mostrando el poder de Dios y <u>haciendo</u> conocido Su nombre.
-
-##### <u>Observación</u> desarrollacional:
-###### Rebeca recibió una <u>declaración</u> antes del nacimiento de los hijos.
-###### Moisés recibió una declaración durante la <u>crisis</u> del becerro de oro.
-###### Faraón recibió una declaración antes del desenlace del <u>éxodo</u>.
-
-###### En cada caso, Pablo dirige la <u>atención</u> a palabras pronunciadas por Dios y al desarrollo posterior de la historia.
-
-###### El argumento continúa avanzando para mostrar que <u>la</u> palabra de Dios no ha fallado.
-
-### Romanos 9:18
-Así que Dios tiene misericordia del que quiere, y al que quiere endurece.
-
-#### Así que Dios tiene misericordia,
-##### <u>Pablo</u> presenta una conclusión.
-
-###### Después de citar palabras dirigidas a Rebeca, a Moisés y a Faraón, ahora resume <u>parte</u> de su argumento con sus propias palabras.
-
-###### El versículo recoge los ejemplos anteriores y extrae una conclusión de <u>ellos</u>.
-
-###### <u>La</u> misericordia continúa ocupando un lugar central en la discusión.
-
-###### La conclusión retoma directamente el <u>tema</u> introducido en Romanos 9:15–16:
-> «Tendré misericordia...»
-> «Dios tiene misericordia...»
-
-###### Pablo pasa <u>de</u> la cita a la conclusión.
-
-##### Observación <u>importante</u>:
-###### A lo largo de <u>esta</u> sección, Pablo ha dirigido repetidamente la atención a palabras pronunciadas por Dios.
-
-###### Después observa cómo la historia se <u>desarrolla</u>.
-
-###### Ahora resume <u>lo</u> observado en una conclusión.
-
-#### del que quiere y al que quiere endurece.
-##### La conclusión presenta dos acciones <u>contrastadas</u>.
-
-###### <u>El</u> texto afirma:
-- Dios tiene misericordia
-- Dios endurece
-
-###### <u>Ambas</u> acciones aparecen juntas dentro de la misma conclusión.
-
-###### Pablo no está citando una nueva <u>declaración</u>.
-
-###### Está resumiendo la evidencia presentada <u>hasta</u> este punto.
-
-##### Observación <u>desarrollacional</u>:
-###### La tensión del argumento <u>aumenta</u>.
-
-###### Pablo ya no está simplemente <u>citando</u> lo que Dios dijo.
-
-###### Ahora está extrayendo una conclusión <u>de</u> los ejemplos que ha presentado.
-
-###### Esta conclusión prepara directamente la objeción que aparecerá <u>en</u> el versículo siguiente.
-
-### Romanos 9:19
-Me dirás entonces: «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?».
-
-#### Me dirás entonces:
-##### Pablo introduce una nueva <u>objeción</u>.
-
-###### <u>La</u> pregunta surge como reacción a lo que acaba de afirmar en el versículo anterior.
-
-###### El texto vuelve a <u>presentar</u> la voz de un interlocutor.
-
-###### Romanos 9 alterna <u>entre</u>:
-- afirmación
-- objeción
-- respuesta
-
-###### La discusión continúa avanzando <u>mediante</u> ese patrón.
-
-#### «¿Por qué, pues, todavía reprocha Dios?»
-##### La objeción se <u>formula</u> directamente.
-
-###### La pregunta ya no gira <u>alrededor</u> de Moisés o Faraón.
-
-###### Ahora <u>se</u> enfoca en el hecho de que Dios reprocha.
-
-##### <u>Observación</u> importante:
-###### Pablo no <u>evita</u> la pregunta.
-###### La presenta de manera abierta <u>antes</u> de responderla.
-
-#### «Porque ¿quién resiste a Su voluntad?».
-##### La objeción continúa <u>desarrollándose</u>.
-
-###### El interlocutor conecta <u>el</u> reproche de Dios con la voluntad de Dios.
-
-###### La pregunta plantea una tensión que exige <u>respuesta</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### <u>El</u> nivel de la discusión ha cambiado.
-###### <u>El</u> argumento ya no gira solamente alrededor de ejemplos tomados de la historia de Israel.
-
-###### Ahora la objeción se dirige directamente a la relación entre la voluntad de <u>Dios</u> y la responsabilidad humana.
-
-###### Pablo responderá a esta objeción en los <u>versículos</u> siguientes.
-
-### Romanos 9:20
-Al contrario, ¿quién eres tú, oh hombre, que le contestas a Dios? ¿Dirá acaso el objeto modelado al que lo modela: «¿Por qué me hiciste así?»?
-
-#### Al contrario,
-##### Pablo <u>responde</u> directamente a la objeción planteada en el versículo anterior.
-
-###### Romanos 9:19 <u>preguntó</u>:
-> «¿Por qué, pues, todavía reprocha Dios? Porque ¿quién resiste a Su voluntad?»
-
-###### Ahora Pablo comienza su <u>respuesta</u>.
-
-#### ¿quién eres tú, oh hombre,
-##### Pablo dirige la atención hacia la persona que <u>formula</u> la objeción.
-
-###### El énfasis recae <u>sobre</u>:
-> «oh hombre»
-
-###### <u>La</u> pregunta establece un contraste entre el ser humano y Dios.
-
-#### que le contestas a Dios?
-##### Pablo identifica el <u>verdadero</u> destinatario de la objeción.
-
-###### La discusión ya no gira solamente alrededor <u>de</u> Faraón, Moisés o Israel.
-
-###### La pregunta es presentada como una respuesta dirigida a Dios <u>mismo</u>.
-
-##### <u>Observación</u> importante:
-###### A lo largo de Romanos 9, Pablo ha presentado repetidamente palabras pronunciadas <u>por</u> Dios.
-
-- Dios habla a Rebeca
-- Dios habla en Malaquías
-- Dios habla a Moisés
-- Dios habla a Faraón
-
-###### Ahora la objeción es presentada como <u>una</u> contestación a Dios.
-
-#### ¿Dirá acaso el objeto modelado al que lo modela:
-##### <u>Pablo</u> introduce una ilustración.
-
-###### La imagen <u>compara</u>:
-- el que modela
-- lo que es modelado
-
-###### La ilustración preparará el desarrollo del <u>siguiente</u> versículo.
-
-#### «¿Por qué me hiciste así?»?
-##### La pregunta expresa <u>el</u> contenido de la objeción.
-
-###### El objeto modelado <u>cuestiona</u> la acción de quien lo formó.
-
-##### Observación <u>desarrollacional</u>:
-###### <u>Pablo</u> no responde todavía desarrollando una explicación extensa.
-
-###### Primero introduce la ilustración del alfarero y el <u>barro</u>.
-
-###### El siguiente versículo continuará <u>desarrollando</u> esta imagen.
-
-### Romanos 9:21
-¿O no tiene el alfarero derecho sobre el barro de hacer de la misma masa un vaso para uso honorable y otro para uso ordinario?
-
-#### ¿O no tiene el alfarero derecho sobre el barro
-##### <u>Pablo</u> responde mediante una ilustración.
-
-###### La <u>imagen</u> presenta dos elementos:
-- el alfarero
-- el barro
-
-##### <u>Observación</u> importante:
-###### La <u>pregunta</u> está formulada para que la respuesta resulte evidente.
-###### El alfarero <u>tiene</u> autoridad sobre el barro.
-
-###### Pablo continúa respondiendo a la objeción <u>planteada</u> en 9:19.
-
-###### La respuesta avanza mediante una ilustración sencilla antes de pasar nuevamente <u>a</u> Dios.
-
-#### de hacer de la misma masa un vaso
-##### <u>Pablo</u> continúa desarrollando la ilustración.
-
-###### La atención <u>se</u> dirige a una misma masa de barro.
-
-###### El énfasis recae <u>sobre</u> el material compartido.
-
-#### para uso honorable y otro para uso ordinario?
-##### La ilustración culmina con dos <u>vasos</u> diferentes.
-
-###### Ambos proceden de la <u>misma</u> masa.
-
-###### Sin embargo, son presentados <u>con</u> usos distintos.
-
-##### <u>Observación</u> desarrollacional:
-###### La ilustración <u>deja</u> abierta una pregunta.
-
-###### <u>Pablo</u> responderá mediante la expresión:
-> “¿Y qué, si Dios...?”
-
-### Romanos 9:22
-¿Y qué, si Dios, aunque dispuesto a demostrar Su ira y hacer notorio Su poder, soportó con mucha paciencia a los vasos de ira preparados para destrucción?
-
-#### ¿Y qué, si Dios,
-##### Pablo <u>comienza</u> la aplicación de la ilustración.
-
-###### La pregunta iniciada en el versículo anterior continúa <u>desarrollándose</u>.
-
-###### <u>El</u> pensamiento todavía no está completo.
-
-##### Observación <u>importante</u>:
-###### El versículo comienza con <u>una</u> pregunta.
-###### La respuesta no llegará <u>hasta</u> que Pablo complete la idea.
-
-#### aunque dispuesto a demostrar Su ira y hacer notorio Su poder,
-##### Pablo menciona <u>dos</u> propósitos.
-
-###### El <u>texto</u> destaca:
-- Su ira
-- Su poder
-
-###### Ambos aparecen como <u>parte</u> de la misma declaración.
-
-#### soportó con mucha paciencia
-##### El versículo añade <u>un</u> elemento inesperado.
-
-###### Junto a la ira y al poder <u>aparece</u> la paciencia.
-
-###### El texto <u>afirma</u> que Dios soportó con mucha paciencia.
-
-##### Observación <u>importante</u>:
-###### La paciencia <u>ocupa</u> un lugar central en la acción descrita.
-###### El énfasis no recae únicamente en la <u>ira</u>.
-
-#### a los vasos de ira preparados para destrucción?
-##### Pablo identifica <u>a</u> quienes fueron soportados con paciencia.
-
-###### El texto <u>los</u> llama:
-> “vasos de ira”
-
-###### Además los describe <u>como</u>:
-> “preparados para destrucción”
-
-##### Qué NO está <u>haciendo</u> el texto todavía:
-###### Pablo aún no ha explicado <u>el</u> propósito completo de esta acción.
-
-###### La pregunta <u>iniciada</u> en 9:22 continúa abierta.
-
-###### <u>El</u> pensamiento seguirá desarrollándose en 9:23.
-
-### Romanos 9:23
-Lo hizo para dar a conocer las riquezas de Su gloria sobre los vasos de misericordia, que de antemano Él preparó para gloria,
-
-#### Lo hizo para dar a conocer las riquezas de Su gloria
-##### Pablo completa el propósito <u>iniciado</u> en el versículo anterior.
-
-###### La pregunta <u>abierta</u> en 9:22 ahora recibe una respuesta.
-
-###### El énfasis se <u>dirige</u> hacia:
-> “las riquezas de Su gloria”
-
-###### El <u>pensamiento</u> iniciado con:
-> “¿Y qué, si Dios...?”
-
-###### continúa desarrollándose <u>y</u> alcanza aquí uno de sus propósitos declarados.
-
-#### sobre los vasos de misericordia,
-##### <u>Pablo</u> introduce un segundo grupo.
-
-###### <u>En</u> el versículo anterior aparecieron:
-> “vasos de ira”
-
-###### <u>Ahora</u> aparecen:
-> “vasos de misericordia”
-
-##### <u>Observación</u> importante:
-###### El contraste entre ambos grupos forma <u>parte</u> del desarrollo del argumento.
-
-#### que de antemano Él preparó para gloria,
-##### Pablo añade una <u>descripción</u> de los vasos de misericordia.
-
-###### El énfasis recae en dos <u>elementos</u>:
-- Dios los preparó de antemano
-- para gloria
-
-##### Observación <u>desarrollacional</u>:
-###### El versículo todavía no identifica quiénes son estos vasos de <u>misericordia</u>.
-
-###### Esa identificación llegará inmediatamente <u>después</u>.
-
-### Romanos 9:24
-es decir, nosotros, a quienes también llamó, no solo de entre los judíos, sino también de entre los gentiles.
-
-#### es decir, nosotros,
-##### <u>Pablo</u> identifica finalmente el grupo que viene describiendo.
-
-###### El argumento pasa de ilustraciones y categorías generales <u>a</u> un referente concreto:
-> “nosotros”
-
-##### <u>Observación</u> importante:
-###### Esta es una de las primeras veces en la sección donde Pablo <u>se</u> incluye explícitamente dentro del grupo descrito.
-
-#### a quienes también llamó,
-##### Pablo <u>añade</u> una característica adicional del grupo.
-
-###### El tema del llamamiento <u>reaparece</u> dentro del argumento.
-
-###### El grupo es <u>identificado</u> como aquellos a quienes Dios llamó.
-
-###### <u>El</u> tema del llamamiento ya había aparecido anteriormente en la sección.
-
-###### Pablo <u>vuelve</u> a retomarlo aquí.
-
-#### no solo de entre los judíos,
-##### Pablo comienza a describir la <u>composición</u> del grupo.
-
-###### El <u>grupo</u> incluye judíos.
-
-###### Pero <u>la</u> descripción no termina allí.
-
-#### sino también de entre los gentiles.
-##### Pablo completa <u>la</u> descripción.
-
-###### El grupo <u>incluye</u>:
-- judíos
-- gentiles
-
-##### <u>Observación</u> importante:
-###### El “nosotros” descrito <u>por</u> Pablo está compuesto por ambos grupos.
-
-###### Esta afirmación prepara las citas de Oseas e Isaías que seguirán inmediatamente <u>después</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### Después de identificar al grupo, Pablo volverá a apelar a las <u>Escrituras</u> para mostrar que esta realidad ya había sido anunciada.
-
-### Romanos 9:25
-Como también dice en Oseas: «A LOS QUE NO ERAN MI PUEBLO, LLAMARÉ: “PUEBLO MÍO”, Y A LA QUE NO ERA AMADA: “AMADA mía”.
-
-#### Como también dice en Oseas:
-##### <u>Pablo</u> vuelve a apoyar su argumento mediante las Escrituras.
-
-###### Después de hablar <u>de</u> judíos y gentiles (9:24), Pablo cita al profeta Oseas.
-
-###### Pablo continúa respondiendo <u>mediante</u> testimonios tomados de las Escrituras.
-
-###### El argumento sigue avanzando por medio <u>de</u> citas.
-
-#### «A LOS QUE NO ERAN MI PUEBLO,
-##### <u>La</u> cita comienza con una identidad negativa.
-
-###### El grupo <u>descrito</u> es identificado como:
-> “no eran mi pueblo”
-
-##### <u>Observación</u> importante:
-###### Pablo comienza la cita <u>con</u> una condición inicial.
-
-###### La <u>atención</u> se centra en aquello que este grupo no era.
-
-#### LLAMARÉ: “PUEBLO MÍO”,
-##### La cita presenta un <u>cambio</u> de identidad.
-
-###### <u>El</u> contraste es directo:
-- no eran mi pueblo
-- pueblo mío
-
-##### <u>Observación</u> importante:
-###### El verbo “llamaré” ocupa <u>un</u> lugar central en la cita.
-
-###### <u>El</u> cambio es expresado mediante aquello que Dios dice.
-
-#### Y A LA QUE NO ERA AMADA: “AMADA mía”.
-##### Pablo añade un segundo ejemplo <u>paralelo</u>.
-
-###### El mismo patrón <u>vuelve</u> a aparecer:
-- no amada
-- amada
-
-##### <u>Observación</u> desarrollacional:
-###### <u>La</u> cita presenta un movimiento repetido:
-- una condición inicial
-- una nueva identidad
-
-###### Pablo utiliza esta cita para apoyar <u>lo</u> que acaba de afirmar en 9:24.
-
-## Israel en la línea profética del Antiguo Testamento
-
-##### A lo largo de Romanos 9–11, Pablo sostiene repetidamente una afirmación central:
-> «No es que la palabra de Dios haya fallado». Romanos 9:6
-
-##### Esa afirmación invita a observar la historia de Israel desde una perspectiva más amplia.
-
-###### Si la palabra de Dios no ha fallado, resulta útil preguntarnos:
-- ¿Qué dijeron los profetas acerca de Israel?
-- ¿Qué acontecimientos ya han ocurrido?
-- ¿Qué acontecimientos permanecen futuros?
-
-##### Aunque los profetas presentan estos temas desde distintos ángulos, aparece repetidamente una secuencia general.
-
-| Etapa | Desarrollo profético                       |
-| ----- | ------------------------------------------ |
-| 1     | Israel es dispersado entre las naciones    |
-| 2     | Israel es preservado durante la dispersión |
-| 3     | Israel es reunido desde las naciones       |
-| 4     | Israel es limpiado y transformado          |
-| 5     | El rey davídico es establecido             |
-| 6     | Israel es restaurado y habita seguro       |
-| 7     | Las naciones se reúnen contra Israel       |
-| 8     | El Señor interviene directamente           |
-| 9     | Las naciones son juzgadas                  |
-| 10    | El Señor reina sobre toda la tierra        |
-| 11    | Las naciones vienen a adorar               |
-| 12    | Ocurre la resurrección                     |
-| 13    | Nuevos cielos y nueva tierra               |
-
-#### Dispersión
-
-##### Los profetas anunciaron repetidamente que Israel sería dispersado entre las naciones.
-
-###### Véase Deuteronomio 28:64–68; Deuteronomio 30:1–3; Jeremías 30:11; Ezequiel 36:19.
-
-#### Preservación
-
-##### Los mismos profetas afirmaron que la dispersión no significaría la desaparición de Israel.
-
-###### Dios prometió preservar a la nación.
-
-###### Véase Jeremías 31:35–37.
-
-#### Reunión
-
-##### Los profetas también anunciaron que Israel sería reunido nuevamente desde las naciones.
-
-###### Véase Deuteronomio 30:3–5; Jeremías 31:8–10; Ezequiel 36:24; Ezequiel 37:21; Amós 9:14–15.
-
-#### ¿Dónde encaja Israel actualmente?
-
-##### Al observar la historia, varias etapas parecen haber ocurrido ya.
-
-###### Israel fue dispersado entre las naciones.
-
-###### Israel fue preservado durante esa dispersión.
-
-###### Israel ha sido reunido nuevamente en la tierra.
-
-##### Sin embargo, varias etapas descritas por los profetas todavía no parecen haberse cumplido plenamente.
-
-###### Israel todavía no ha experimentado la transformación nacional descrita en Deuteronomio 30:6.
-
-###### La restauración espiritual descrita en Jeremías 31:31–34 y Ezequiel 36:25–27 todavía espera cumplimiento nacional.
-
-###### El rey davídico prometido por los profetas todavía no reina sobre todas las naciones.
-
-###### Las naciones todavía no han venido universalmente a adorar al Señor.
-
-###### La resurrección descrita en Daniel 12 todavía no ha ocurrido.
-
-###### Los nuevos cielos y la nueva tierra todavía permanecen futuros.
-
-##### Por esa razón, la historia profética de Israel no parece haber llegado todavía a su conclusión.
-
-###### Los profetas describen acontecimientos que continúan más allá de la situación presente.
-
-#### Relación con Romanos 9–11
-
-##### Esta observación ayuda a entender por qué Pablo puede hablar de Israel como parte de una historia que continúa desarrollándose.
-
-###### La condición presente de Israel no obliga a concluir que la palabra de Dios haya fallado.
-
-###### Pablo argumenta precisamente lo contrario.
-
-###### La existencia misma de una historia todavía en desarrollo presupone que las promesas continúan vigentes.
-
-##### Por eso Romanos 9–11 no presenta a Israel como una evidencia contra la fidelidad de Dios.
-
-##### Presenta a Israel como una demostración de que Dios continúa actuando conforme a lo que había dicho.
-
-> Dios habló.
-> La historia avanzó.
-> La palabra de Dios permaneció firme.
-
-#### Resumen visual
-
-> Dispersión
-> ↓
-> Preservación
-> ↓
-> Reunión
-> ↓
-> ¿Situación actual?
-> ↓
-> Transformación nacional
-> ↓
-> Rey davídico
-> ↓
-> Restauración completa
-> ↓
-> Conflicto de las naciones
-> ↓
-
-> Intervención del Señor
-> ↓
-> Juicio
-> ↓
-> Reino universal
-> ↓
-> Adoración de las naciones
-> ↓
-> Resurrección
-> ↓
-> Nuevos cielos y nueva tierra
-
-### Romanos 9:26
-Y SUCEDERÁ QUE EN EL LUGAR DONDE SE LES DIJO: “USTEDES NO SON MI PUEBLO”, ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
-
-#### Y SUCEDERÁ QUE EN EL LUGAR
-##### Pablo continúa la <u>cita</u> de Oseas.
-
-###### La evidencia tomada del profeta <u>todavía</u> no ha terminado.
-
-###### El texto sigue desarrollando el mismo <u>tema</u>.
-
-#### DONDE SE LES DIJO:
-##### La <u>cita</u> recuerda una declaración anterior.
-
-###### Primero hubo una palabra <u>dirigida</u> a este grupo.
-
-###### Esa palabra será <u>contrastada</u> con otra declaración posterior.
-
-#### “USTEDES NO SON MI PUEBLO”,
-##### La condición inicial es <u>repetida</u>.
-
-###### La cita vuelve a enfatizar la misma <u>identidad</u> negativa.
-
-##### Observación <u>importante</u>:
-###### Pablo refuerza <u>el</u> patrón presentado en el versículo anterior.
-
-###### Primero aparece <u>una</u> negación.
-
-#### ALLÍ SERÁN LLAMADOS HIJOS DEL DIOS VIVIENTE».
-##### La cita culmina <u>con</u> una nueva identidad.
-
-###### El <u>contraste</u> es completo:
-- no son mi pueblo
-- hijos del Dios viviente
-
-###### <u>El</u> énfasis recae nuevamente en ser llamados.
-
-###### La <u>cita</u> conecta naturalmente con Romanos 9:24:
-> “a quienes llamó”
-> “serán llamados”
-
-##### <u>Observación</u> desarrollacional:
-###### Después de identificar al grupo en 9:24, Pablo muestra que las Escrituras ya hablaban de una realidad como <u>esta</u>.
-
-###### En el siguiente versículo cambiará <u>de</u> profeta.
-
-###### <u>Oseas</u> dará paso a Isaías.
-
-### Romanos 9:27
-Isaías también exclama en cuanto a Israel: «AUNQUE EL NÚMERO DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR, solo EL REMANENTE SERÁ SALVO;
-
-#### Isaías también exclama en cuanto a Israel:
-##### Pablo introduce una nueva cita de <u>las</u> Escrituras.
-
-###### Después de citar a Oseas, ahora cita a <u>Isaías</u>.
-
-###### El argumento <u>continúa</u> avanzando mediante testimonios tomados de las Escrituras.
-
-###### El énfasis cambia de Oseas a Isaías, y de los <u>gentiles</u> a Israel.
-
-#### «AUNQUE EL NÚMERO
-##### La cita comienza destacando la <u>gran</u> cantidad de personas.
-
-###### El énfasis inicial recae sobre <u>el</u> número.
-
-#### DE LOS HIJOS DE ISRAEL SEA COMO LA ARENA DEL MAR,
-##### Isaías utiliza una comparación para describir <u>una</u> multitud inmensa.
-
-###### La imagen enfatiza una cantidad <u>innumerable</u>.
-
-##### <u>Observación</u> importante:
-###### La atención <u>se</u> dirige primero a la magnitud del pueblo.
-
-###### Sin embargo, <u>la</u> cita todavía no ha llegado a su conclusión.
-
-#### solo EL REMANENTE SERÁ SALVO;
-##### La <u>cita</u> introduce un contraste inesperado.
-
-###### Después de hablar de <u>una</u> multitud innumerable, Isaías dirige la atención hacia:
-> “el remanente”
-
-##### <u>Observación</u> importante:
-###### La <u>cita</u> distingue entre:
-- los hijos de Israel
-- el remanente
-
-##### <u>Observación</u> desarrollacional:
-###### Esta distinción encaja con el argumento que <u>Pablo</u> viene desarrollando desde Romanos 9:6.
-
-###### La cita <u>de</u> Isaías aporta una nueva evidencia para ese argumento.
-
-### Romanos 9:28
-PORQUE EL SEÑOR EJECUTARÁ SU PALABRA SOBRE LA TIERRA CABALMENTE Y CON BREVEDAD».
-
-#### PORQUE EL SEÑOR EJECUTARÁ SU PALABRA
-##### <u>Isaías</u> añade la razón de la declaración anterior.
-
-###### El <u>versículo</u> comienza con:
-> “Porque...”
-
-###### La afirmación <u>sobre</u> el remanente es seguida por una explicación.
-
-##### Observación <u>importante</u>:
-###### El énfasis recae sobre la palabra del <u>Señor</u>.
-
-###### El Señor <u>hará</u> aquello que ha dicho.
-
-#### SOBRE LA TIERRA
-##### <u>La</u> acción descrita es presentada dentro de la historia humana.
-
-###### El cumplimiento no permanece como <u>una</u> idea abstracta.
-
-###### La cita habla de algo que ocurre sobre la <u>tierra</u>.
-
-#### CABALMENTE Y CON BREVEDAD».
-##### Isaías describe la <u>manera</u> en que el Señor ejecutará Su palabra.
-
-###### La acción será llevada a cabo <u>plenamente</u>.
-
-###### La <u>acción</u> será llevada a cabo con brevedad.
-
-###### La cita <u>no</u> solo afirma que el Señor actuará.
-
-###### También enfatiza que cumplirá completamente Su <u>palabra</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### Después de hablar del remanente, <u>Isaías</u> dirige la atención a la certeza del cumplimiento de la palabra del Señor.
-
-###### <u>El</u> siguiente versículo añadirá una segunda cita de Isaías para reforzar el mismo argumento.
-
-### Romanos 9:29
-Y como Isaías predijo: «SI EL SEÑOR DE LOS EJÉRCITOS NO NOS HUBIERA DEJADO DESCENDENCIA, HUBIÉRAMOS LLEGADO A SER COMO SODOMA, Y HECHOS SEMEJANTES A GOMORRA».
-
-#### Y como Isaías predijo:
-##### Pablo añade una <u>segunda</u> cita de Isaías.
-
-###### La cita <u>anterior</u> habló del remanente.
-
-###### Esta nueva <u>cita</u> explica por qué existe un remanente.
-
-###### Pablo continúa apoyando su argumento <u>mediante</u> las Escrituras.
-
-###### Isaías <u>sigue</u> siendo el testigo principal en esta sección.
-
-#### «SI EL SEÑOR DE LOS EJÉRCITOS
-##### La <u>cita</u> comienza con una condición.
-
-###### Todo lo que sigue depende de <u>la</u> acción del Señor.
-
-##### <u>Observación</u> importante:
-###### El énfasis recae en lo que <u>el</u> Señor hizo.
-
-###### <u>La</u> explicación no comienza con el pueblo.
-
-###### Comienza <u>con</u> el Señor.
-
-#### NO NOS HUBIERA DEJADO DESCENDENCIA,
-##### Isaías identifica aquello que evitó un <u>resultado</u> diferente.
-
-###### El texto afirma <u>que</u> el Señor dejó descendencia.
-
-##### <u>Observación</u> desarrollacional:
-###### La existencia de una descendencia es presentada como la razón <u>por</u> la cual el resultado no fue total destrucción.
-
-###### Esto complementa <u>la</u> idea del remanente presentada en el versículo anterior.
-
-#### HUBIÉRAMOS LLEGADO A SER COMO SODOMA,
-##### Isaías presenta <u>un</u> resultado hipotético.
-
-###### Si <u>el</u> Señor no hubiera dejado descendencia, el resultado habría sido diferente.
-
-###### Sodoma es utilizada como ejemplo <u>de</u> ese resultado.
-
-#### Y HECHOS SEMEJANTES A GOMORRA».
-##### La <u>comparación</u> es reforzada con un segundo ejemplo.
-
-###### La cita <u>presenta</u>:
-- Sodoma
-- Gomorra
-
-##### <u>Observación</u> importante:
-###### Ambos ejemplos apuntan <u>a</u> la misma conclusión.
-
-###### <u>Sin</u> la descendencia dejada por el Señor, el resultado habría sido destrucción total.
-
-###### La cita <u>concluye</u> reforzando la explicación del remanente.
-
-###### Primero <u>Isaías</u> afirmó:
-> “solo el remanente será salvo”
-
-###### Ahora <u>explica</u> por qué existe ese remanente.
-
-##### Observación <u>desarrollacional</u>:
-###### Con <u>esta</u> cita termina la cadena de evidencias tomadas de Oseas e Isaías.
-
-###### En el siguiente versículo Pablo <u>volverá</u> a preguntar:
-> “¿Qué diremos entonces?”
-
-###### El argumento avanzará hacia la relación entre Israel, los gentiles y <u>la</u> justicia.
+-   La iglesia debe orar por todos los hombres.
+-   Esto agrada a Dios.
+-   Dios desea que todos los hombres sean salvos.
+-   Hay un solo Dios.
+-   Hay un solo Mediador.
+-   Cristo se dio a sí mismo en rescate por todos.
+-   Pablo fue constituido para proclamar ese mensaje.
 
 > En Síntesis
->- Pablo responde a la pregunta que domina esta sección: «¿Ha fallado la palabra de Dios?»
->- Su respuesta es clara: «No es que la palabra de Dios haya fallado».
->- Para demostrarlo, Pablo dirige repetidamente la atención a palabras pronunciadas por Dios mucho antes de que los acontecimientos ocurrieran.
->- La historia avanza, las generaciones pasan y las circunstancias cambian, pero la palabra pronunciada por Dios permanece firme.
->- A lo largo de la sección, Pablo desarrolla distinciones dentro de Israel, apela a la promesa, al llamamiento y al remanente, y responde a diversas objeciones.
->- El resultado es el mismo una y otra vez: La situación de Israel no demuestra que la palabra de Dios haya fallado; confirma que Dios continúa actuando conforme a lo que había dicho.
+>
+> - Pablo exhorta a la iglesia a orar por todos los hombres, incluyendo a quienes ejercen autoridad, para que el pueblo de Dios pueda vivir con toda piedad y dignidad.
+> - Esta práctica agrada a Dios porque está en armonía con Su deseo de que todos los hombres sean salvos y lleguen al pleno conocimiento de la verdad.
+> - El fundamento de este propósito es que existe un solo Dios y un solo Mediador entre Dios y los hombres: Cristo Jesús.
+> - Cristo se dio a sí mismo en rescate por todos, proporcionando el único medio por el cual los hombres pueden ser reconciliados con Dios.
+> - El testimonio acerca de esta obra fue dado a su debido tiempo y Pablo fue constituido para proclamarlo entre los gentiles en fe y verdad.
+> - La sección conecta la oración de la iglesia con el propósito salvador de Dios, la obra mediadora de Cristo y la proclamación universal del evangelio.
 
-<!-- @quiz quiz-1 -->
+## 1 Timoteo 2:8-15 - Los miembros de la casa de Dios deben conducirse conforme a ese propósito
 
-## Romanos 9:30–10:21 — Pablo da testimonio sobre Israel
+##### Después de explicar que Dios desea que todos los hombres sean salvos y lleguen al conocimiento de la verdad, Pablo comienza a describir cómo debe conducirse la casa de Dios.
 
-### Romanos 9:30
-¿Qué diremos entonces? Que los gentiles, que no iban tras la justicia, alcanzaron justicia, es decir, la justicia que es por fe;
+##### El propósito de Dios no solamente debe ser anunciado. También debe hacerse visible en la conducta de quienes forman parte de Su pueblo.
 
-#### ¿Qué diremos entonces?
-##### Pablo <u>introduce</u> una conclusión.
+-   El evangelio produce una manera de vivir.
+-   La casa de Dios debe reflejar ese propósito.
+-   Pablo comienza a aplicar las verdades de los versículos anteriores.
 
-###### Después <u>de</u> las citas de Oseas e Isaías, el argumento avanza hacia una conclusión.
+##### Las instrucciones que siguen están relacionadas con la oración, la conducta y el orden dentro de la congregación.
 
-###### La pregunta <u>no</u> queda abierta.
+##### Pablo continúa mostrando cómo debe verse una comunidad formada por el propósito de Dios y por la verdad del evangelio.
 
-###### Pablo <u>la</u> responde inmediatamente.
+-   La doctrina tiene resultados visibles.
+-   La verdad produce una forma de vivir.
+-   La casa de Dios debe conducirse conforme a aquello que proclama.
 
-#### Que los gentiles, que no iban tras la justicia,
-##### Pablo <u>comienza</u> con los gentiles.
+### 1 Timoteo 2:8
 
-###### El punto de partida <u>es</u> sorprendente.
+Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.
 
-###### Los gentiles son descritos como personas <u>que</u> no iban tras la justicia.
+### 1 Timoteo 2:8
 
-#### alcanzaron justicia,
-##### Pablo presenta el <u>resultado</u>.
+Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.
 
-###### <u>Aunque</u> no iban tras la justicia, la alcanzaron.
+#### Por tanto, quiero que...
 
-##### Observación <u>importante</u>:
-###### El contraste entre punto de partida y resultado es central para la <u>afirmación</u> de Pablo.
+##### Pablo comienza aplicando lo que acaba de enseñar acerca de la oración.
 
-#### es decir, la justicia que es por fe;
-##### Pablo <u>aclara</u> qué clase de justicia tiene en mente.
+##### Después de exhortar a orar por todos los hombres, ahora dirige la atención a la conducta de quienes oran.
 
-###### No deja el <u>término</u> sin explicación.
+##### La sección pasa de la oración como práctica de la iglesia a la manera en que debe realizarse.
 
-###### La <u>identifica</u> como:
-> “la justicia que es por fe”
+#### ...en todo lugar los hombres oren...
 
-##### Observación <u>desarrollacional</u>:
-###### El tema de <u>la</u> fe vuelve a ocupar el centro del argumento.
+##### Pablo expresa su deseo de que los hombres participen en la oración.
 
-###### El contraste <u>con</u> Israel aparecerá inmediatamente después.
+##### La expresión "\scripture{en todo lugar}" amplía la instrucción más allá de una situación específica.
 
-### Romanos 9:31
-pero Israel, que iba tras una ley de justicia, no alcanzó esa ley.
+##### El énfasis permanece sobre la práctica de la oración dentro del pueblo de Dios.
 
-#### pero Israel, que iba tras una ley de justicia,
-##### <u>Pablo</u> presenta el contraste.
+#### levantando manos santas...
 
-###### Después de hablar <u>de</u> los gentiles, dirige la atención a Israel.
+##### Pablo describe la clase de personas que deben acercarse a Dios en oración.
 
-##### Observación <u>importante</u>:
-###### A diferencia de los gentiles, Israel sí <u>iba</u> tras una ley de justicia.
+##### La atención no recae sobre la posición física de las manos, sino sobre que sean "\scripture{manos santas}".
 
-#### no alcanzó esa ley.
-##### <u>Pablo</u> presenta el resultado.
+##### La santidad aparece asociada con quienes se acercan a Dios.
 
-###### El resultado contrasta con <u>la</u> búsqueda.
+##### La oración y la conducta no son presentadas como asuntos separados.
 
-###### Israel perseguía esa meta, pero no la <u>alcanzó</u>.
+#### sin ira...
 
-###### Los dos versículos <u>forman</u> un contraste paralelo:
-- los gentiles no iban tras la justicia y la alcanzaron
-- Israel iba tras una ley de justicia y no la alcanzó
+##### La ira es presentada como algo incompatible con la actitud que debe acompañar la oración.
 
-###### Pablo responderá <u>inmediatamente</u> la pregunta:
-> “¿Por qué?”
+##### Pablo excluye aquello que interrumpe la paz y la unidad entre los creyentes.
 
-### Romanos 9:32
-¿Por qué? Porque no iban tras ella por fe, sino como por obras. Tropezaron en la piedra de tropiezo,
+#### ...ni discusiones.
 
-#### ¿Por qué?
-##### <u>Pablo</u> formula la pregunta que surge naturalmente del contraste anterior.
+##### Las discusiones también son excluidas de la actitud apropiada para la oración.
 
-###### <u>El</u> texto no deja la diferencia sin explicación.
+##### Pablo continúa enfatizando la disposición con la que los creyentes deben acercarse a Dios.
 
-###### <u>Pablo</u> mismo plantea la pregunta.
+##### La oración es presentada en contraste con la ira y las disputas.
 
-#### Porque no iban tras ella por fe,
-##### Pablo presenta la <u>razón</u>.
+##### La sección prepara el camino para las instrucciones que siguen acerca de la conducta dentro de la congregación.
 
-###### <u>La</u> explicación comienza con la fe.
+### 1 Timoteo 2:9
 
-###### El <u>problema</u> no es descrito como falta de búsqueda.
+Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,
 
-###### El problema es descrito <u>en</u> términos de fe.
+#### Asimismo
 
-#### sino como por obras.
-##### Pablo presenta <u>el</u> contraste.
+##### Pablo continúa describiendo cómo debe conducirse la casa de Dios.
 
-###### La explicación se desarrolla <u>mediante</u> dos caminos opuestos:
-- por fe
-- como por obras
+##### Después de dirigirse a los hombres, Pablo ahora dirige instrucciones específicas a las mujeres.
 
-##### <u>Observación</u> importante:
-###### El énfasis <u>recae</u> en la manera de buscar, no en la intensidad de la búsqueda.
+-   La sección continúa.
+-   Pablo sigue hablando de la conducta.
+-   El propósito sigue siendo el mismo.
 
-#### Tropezaron en la piedra de tropiezo,
-##### Pablo describe el resultado mediante una <u>imagen</u>.
+#### que las mujeres se vistan con ropa decorosa
 
-###### El lenguaje cambia <u>de</u> alcanzar/no alcanzar a tropezar.
+##### Pablo comienza con la manera en que las mujeres deben presentarse públicamente.
 
-##### <u>Observación</u> desarrollacional:
-###### La imagen de la <u>piedra</u> prepara la cita que sigue inmediatamente.
+##### El énfasis del versículo no recae simplemente sobre la ropa, sino sobre aquello que comunica una conducta apropiada y decorosa.
 
-###### Pablo volverá a <u>apoyar</u> su argumento mediante las Escrituras.
+-   Pablo habla de la presentación exterior.
+-   La conducta visible forma parte de la instrucción.
+-   La exhortación continúa desarrollando la idea de piedad.
 
-### Romanos 9:33
-tal como está escrito: «HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZO Y ROCA DE ESCANDALO; Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO».
+#### con pudor y modestia
 
-#### tal como está escrito:
-##### Pablo vuelve a apoyar su argumento mediante las <u>Escrituras</u>.
+##### Pablo describe la actitud que debe acompañar esa manera de vestirse.
 
-###### El tropiezo mencionado en el versículo anterior no es <u>una</u> idea nueva.
+##### La atención comienza a desplazarse desde la apariencia externa hacia la disposición que debe caracterizar a la creyente.
 
-###### <u>Pablo</u> muestra que ya estaba escrito.
+-   Pablo no menciona solamente la ropa.
+-   También menciona cualidades personales.
+-   La instrucción va más allá de la apariencia.
 
-###### Romanos 9 continúa respondiendo mediante testimonios tomados de <u>las</u> Escrituras.
+#### no con peinado ostentoso, no con oro, o perlas, o vestidos costosos
 
-#### «HE AQUÍ, PONGO EN SIÓN
-##### La cita comienza con una acción realizada por <u>Dios</u>.
+##### Pablo presenta una serie de contrastes.
 
-###### El sujeto principal de <u>la</u> acción es Dios.
+##### El énfasis no recae sobre cada elemento individual, sino sobre el tipo de adorno que ocupa el centro de la atención.
 
-###### Dios mismo coloca aquello que será descrito en la <u>cita</u>.
+-   Peinado ostentoso.
+-   Oro.
+-   Perlas.
+-   Vestidos costosos.
 
-#### UNA PIEDRA DE TROPIEZO
-##### <u>La</u> cita identifica aquello con lo que se tropieza.
+##### La lista prepara el contraste que aparecerá en el versículo siguiente.
 
-###### La imagen conecta directamente <u>con</u> Romanos 9:32:
-> “Tropezaron en la piedra de tropiezo”.
+-   Pablo todavía no ha terminado la idea.
+-   El versículo 10 completará el contraste.
+-   La pregunta ahora es: ¿qué debe caracterizar entonces a una mujer piadosa?
 
-##### Observación <u>importante</u>:
-###### Pablo no <u>abandona</u> la imagen.
+##### El flujo del argumento es importante.
 
-###### La desarrolla <u>mediante</u> la Escritura.
+-   Los hombres no deben caracterizarse por ira y discusiones.
+-   Las mujeres no deben caracterizarse por la ostentación externa.
+-   Pablo está describiendo cómo debe verse una vida formada por el propósito de Dios.
 
-#### Y ROCA DE ESCÁNDALO;
-##### La misma idea es reforzada mediante una segunda <u>imagen</u>.
+### 1 Timoteo 2:10
 
-###### La piedra y la roca aparecen juntas para enfatizar <u>el</u> mismo punto.
+sino con buenas obras, como corresponde a las mujeres que profesan la piedad.
 
-##### <u>Observación</u> desarrollacional:
-###### La cita continúa explicando <u>el</u> tropiezo mencionado en el versículo anterior.
+#### sino con buenas obras
 
-#### Y EL QUE CREA EN ÉL
-##### La cita introduce un <u>contraste</u>.
+##### Pablo completa el contraste iniciado en el versículo anterior.
 
-###### <u>Hasta</u> ahora el énfasis ha estado en el tropiezo.
+##### El enfoque se desplaza del adorno externo a la conducta. En lugar de enfatizar la ostentación externa, Pablo señala las buenas obras como el adorno apropiado.
 
-###### <u>Ahora</u> aparece la fe.
+##### El contraste del versículo 9 llega a su conclusión.
 
-##### Observación <u>importante</u>:
-###### La fe vuelve a <u>ocupar</u> el centro del argumento.
+##### Pablo redirige la atención de la apariencia a la conducta.
 
-###### Esto <u>conecta</u> con la explicación dada en Romanos 9:30–32.
+##### Las buenas obras se convierten en el énfasis distintivo.
 
-#### NO SERÁ AVERGONZADO».
-##### La cita concluye con <u>una</u> promesa.
+##### El versículo no se limita a prohibir ciertas formas de adorno.
 
-###### El resultado para <u>quien</u> cree es diferente al resultado de quien tropieza.
+-   Pablo no se conforma con eliminar algo.
+-   Pablo reemplaza un énfasis con otro.
+-   El enfoque positivo son las buenas obras.
 
-###### <u>La</u> cita termina contrastando dos resultados:
-- tropiezo
-- no será avergonzado
+#### como corresponde a las mujeres que profesan la piedad
 
-##### Observación <u>desarrollacional</u>:
-###### Romanos 9 comenzó <u>preguntando</u>:
-> “¿Ha fallado la palabra de Dios?”
+##### Pablo explica por qué las buenas obras son el adorno apropiado.
 
-###### La sección concluye mostrando dos respuestas distintas frente a aquello que Dios <u>ha</u> puesto:
-- unos tropiezan
-- otros creen
+##### Debe haber coherencia entre lo que una persona profesa y cómo se manifiesta esa profesión. Pablo relaciona la profesión de piedad con un estilo de vida correspondiente.
 
-###### Romanos 10 continuará desarrollando <u>el</u> tema de la fe, la justicia y la respuesta de Israel.
+##### La piedad se profesa.
 
-### Romanos 10:1
-Hermanos, el deseo de mi corazón y mi oración a Dios por ellos es para su salvación.
+##### Las buenas obras corresponden a esa profesión.
 
-#### Hermanos,
-###### Después de desarrollar el argumento de Romanos 9, Pablo vuelve a hablar <u>de</u> manera personal.
-- Mi deseo...
-- Mi oración...
-- Yo testifico...
-- La palabra está cerca...
-- Todo aquel que invoque...
+##### La conducta visible concuerda con la identidad profesada.
 
-##### a diferencia de Romanos 9 donde vemos que es <u>Dios</u> mayormente hablando, ahora en el capítulo veremos que es Pablo dando testimonio en el presente sobre el estado de Israel. 
+##### Esta observación se integra naturalmente en el desarrollo de la sección.
 
-###### El <u>tono</u> del pasaje cambia.
+##### Los hombres no deben caracterizarse por la ira y las disputas.
 
-###### Pablo pasa de la argumentación a una declaración <u>personal</u>.
+##### Las mujeres no deben caracterizarse por adornos ostentosos.
 
-#### el deseo de mi corazón y mi oración a Dios
-##### Pablo describe tanto lo que <u>desea</u> como lo que pide a Dios.
+##### Ambas instrucciones se centran en una conducta que refleje el propósito de Dios.
 
-###### El deseo y la oración <u>aparecen</u> unidos.
+##### La conexión con el párrafo anterior es importante.
 
-###### Ambos están dirigidos hacia el <u>mismo</u> objetivo.
+##### Dios desea que las personas lleguen al conocimiento de la verdad.
 
-##### <u>Observación</u> importante:
-###### Pablo no habla de este tema <u>con</u> indiferencia.
+##### La casa de Dios debe estar formada según ese propósito.
 
-###### El <u>asunto</u> continúa siendo profundamente personal para él.
+##### La conducta de los creyentes debe estar alineada con lo que profesan.
 
-#### por ellos es para su salvación.
-##### Pablo identifica claramente el <u>objeto</u> de su deseo y de su oración.
+##### Los versículos 9 y 10 forman una sola unidad.
 
-###### Su deseo no es simplemente <u>el</u> bienestar de ellos.
+##### El énfasis no está en el adorno externo.
 
-###### Es <u>su</u> salvación.
+##### El énfasis está en las buenas obras.
 
-##### <u>Observación</u> desarrollacional:
-###### El <u>dolor</u> expresado en Romanos 9:1–3 reaparece ahora en forma de oración.
+##### Pablo describe lo que caracteriza apropiadamente a las mujeres que profesan la piedad.
 
-###### La preocupación de Pablo por Israel sigue siendo el trasfondo <u>de</u> esta sección.
+### 1 Timoteo 2:11
 
-### Romanos 10:2
-Porque yo testifico a su favor de que tienen celo de Dios, pero no conforme a un pleno conocimiento.
+Que la mujer aprenda calladamente, con toda obediencia.
 
-#### Porque yo testifico a su favor
-##### Pablo presenta su propio testimonio acerca de <u>Israel</u>.
+#### Que la mujer aprenda
 
-###### Después de citar repetidamente a <u>las</u> Escrituras en Romanos 9, ahora habla personalmente.
+##### Pablo continúa dando instrucciones para la conducta dentro de la casa de Dios.
 
-###### El versículo continúa la <u>preocupación</u> expresada en Romanos 10:1:
-> «el deseo de mi corazón y mi oración a Dios por ellos es para su salvación».
+##### El verbo principal del versículo es "aprenda". La atención del texto recae primeramente sobre el aprendizaje.
 
-###### Pablo no habla como <u>un</u> observador distante.
+-   Pablo manda que la mujer aprenda.
+-   La instrucción es positiva.
+-   El aprendizaje ocupa el centro del versículo.
 
-###### Habla como alguien que conoce la situación <u>de</u> Israel.
+##### Esta observación conecta con el propósito de Dios expresado anteriormente.
 
-#### de que tienen celo de Dios,
-##### Pablo reconoce algo positivo acerca <u>de</u> Israel.
+-   Dios desea que las personas lleguen al conocimiento de la verdad (2:4).
+-   Pablo ahora incluye a las mujeres dentro del proceso de aprendizaje.
+-   La verdad debe ser aprendida.
 
-###### El problema no es ausencia de interés <u>por</u> Dios.
+#### calladamente
 
-###### Pablo afirma que existe celo por <u>Dios</u>.
+##### Pablo describe la manera en que debe producirse ese aprendizaje.
 
-###### El versículo reconoce una <u>preocupación</u> real por las cosas de Dios.
+##### La atención no recae sobre impedir el aprendizaje, sino sobre la manera ordenada en que debe llevarse a cabo.
 
-###### Esta observación prepara el contraste que <u>aparece</u> inmediatamente después.
+-   Pablo sigue hablando del aprendizaje.
+-   La instrucción describe la actitud del aprendizaje.
+-   El énfasis permanece sobre recibir enseñanza.
 
-#### pero no conforme a un pleno conocimiento.
-##### Pablo introduce una corrección <u>importante</u>.
+##### La expresión prepara las instrucciones que seguirán en los versículos siguientes.
 
-###### El <u>problema</u> no es la existencia de celo.
+-   Pablo continúa desarrollando el tema del orden.
+-   La conducta dentro de la congregación sigue siendo el asunto principal.
+-   La explicación todavía no ha concluido.
 
-###### El problema aparece en la manera en que <u>ese</u> celo está siendo ejercido.
+#### con toda obediencia
 
-###### El contraste del versículo <u>es</u>:
-- celo de Dios
-- no conforme a un pleno conocimiento
+##### Pablo añade una segunda descripción de la actitud con la que debe aprenderse.
 
-##### <u>Observación</u> desarrollacional:
-###### Romanos 10 comienza <u>a</u> explicar por qué Israel no ha respondido correctamente a aquello que Dios ha revelado.
+##### El aprendizaje aparece acompañado por una disposición de sujeción y orden.
 
-###### Pablo <u>reconoce</u> la existencia de celo.
+-   Pablo continúa describiendo la manera de aprender.
+-   El énfasis sigue siendo la actitud apropiada.
+-   La instrucción permanece dentro del contexto de la congregación.
 
-###### Sin embargo, los versículos siguientes mostrarán que ese celo no condujo a someterse a la justicia de <u>Dios</u>.
+##### El flujo de la sección continúa siendo consistente.
 
-### Romanos 10:3
-Pues desconociendo la justicia de Dios y procurando establecer la suya propia, no se sometieron a la justicia de Dios.
+-   Los hombres deben orar sin ira ni discusiones.
+-   Las mujeres deben adornarse con buenas obras.
+-   Las mujeres deben aprender de manera apropiada.
+-   Pablo sigue describiendo cómo debe conducirse la casa de Dios.
 
-#### Pues desconociendo la justicia de Dios
-##### Pablo explica el problema que acaba de <u>identificar</u>.
+### 1 Timoteo 2:12
 
-###### El <u>versículo</u> anterior afirmó que tenían celo.
+Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.
 
-###### Ahora Pablo explica dónde estaba la <u>dificultad</u>.
+#### Yo no permito
 
-##### <u>Observación</u> importante:
-###### El <u>problema</u> es descrito en relación con:
-> “la justicia de Dios”
+##### Pablo continúa desarrollando las instrucciones iniciadas en el versículo anterior.
 
-###### Pablo afirma que no la <u>reconocieron</u>.
+##### La atención sigue centrada en el orden y la conducta dentro de la congregación.
 
-#### y procurando establecer la suya propia,
-##### Pablo añade <u>una</u> segunda descripción.
+-   Pablo continúa la misma línea de pensamiento.
+-   El tema sigue siendo el aprendizaje y la enseñanza.
+-   La explicación todavía no ha concluido.
 
-###### Junto al desconocimiento aparece un <u>esfuerzo</u> activo.
+#### que la mujer enseñe
 
-###### El texto describe una búsqueda <u>por</u> establecer una justicia propia.
+##### Pablo establece una limitación específica relacionada con la enseñanza.
 
-###### Pablo presenta dos movimientos <u>paralelos</u>:
-* desconocer la justicia de Dios
-* procurar establecer la propia
+##### Después de afirmar que la mujer debe aprender, Pablo ahora aborda el tema de enseñar.
 
-#### no se sometieron a la justicia de Dios.
-##### Pablo presenta <u>el</u> resultado.
+-   El aprendizaje sigue presente en el contexto.
+-   Ahora la atención se desplaza hacia la enseñanza.
+-   Pablo establece una restricción concreta.
 
-###### El versículo culmina con una <u>negativa</u>.
+##### Los versículos siguientes explicarán el fundamento de esta instrucción.
 
-###### La <u>justicia</u> de Dios vuelve a aparecer al final del versículo.
+-   Pablo todavía no ha dado sus razones.
+-   La explicación comenzará en el versículo 13.
+-   El argumento continúa desarrollándose.
 
-##### <u>Observación</u> importante:
-###### La sección comienza <u>y</u> termina con la misma expresión:
-> “la justicia de Dios”
+#### ni que ejerza autoridad sobre el hombre
 
-###### Esa expresión ocupa <u>el</u> centro del argumento.
+##### Pablo añade una segunda limitación estrechamente relacionada con la primera.
 
-##### Observación <u>desarrollacional</u>:
-###### <u>El</u> siguiente versículo comenzará con:
-> “Porque...”
+##### La enseñanza y el ejercicio de autoridad aparecen unidos dentro de la misma instrucción.
 
-###### Pablo explicará por <u>qué</u> ocurrió esto.
+-   Pablo menciona dos actividades.
+-   Ambas forman parte de la misma prohibición.
+-   El argumento continúa avanzando hacia su explicación.
 
-##### Antes de <u>estudiar</u> Romanos 10:6–10
+#### sino que permanezca callada
 
-###### <u>Pablo</u> cita Deuteronomio 30. (Deuteronomio 30:1-20)
+##### Pablo vuelve a una idea ya mencionada en el versículo anterior.
 
-###### Antes de <u>interpretar</u> la cita, conviene observar algunas preguntas:
-- ¿Quién está hablando?
-- ¿A quién está hablando?
-- ¿En qué situación histórica?
-- ¿Por qué Pablo escogió este pasaje?
+##### La instrucción corresponde al llamado a aprender calladamente y con toda obediencia.
 
-###### <u>También</u> podemos preguntar:
-- ¿Qué parte del argumento de Moisés está utilizando Pablo?
-- ¿Cómo contribuye esta cita al desarrollo de Romanos 9–11?
+-   Pablo retoma el tema del silencio.
+-   La instrucción está relacionada con el aprendizaje.
+-   La explicación aún no ha terminado.
 
-###### Estas preguntas nos <u>ayudarán</u> a observar el contexto antes de sacar conclusiones.
+##### El flujo de la sección sigue siendo claro.
 
-### Romanos 10:4
-Porque Cristo es el fin de la ley para justicia a todo aquel que cree.
+-   Los hombres deben orar sin ira ni discusiones.
+-   Las mujeres deben adornarse con buenas obras.
+-   Las mujeres deben aprender calladamente.
+-   Pablo establece límites relacionados con la enseñanza y la autoridad.
+-   Los versículos siguientes explicarán las razones de estas instrucciones.
 
-#### Porque Cristo es el fin de la ley
-##### Pablo explica <u>la</u> afirmación anterior.
+### 1 Timoteo 2:13
 
-###### <u>El</u> versículo conecta directamente con Romanos 10:3.
+Porque Adán fue creado primero, después Eva.
 
-###### <u>Después</u> de hablar de quienes procuraban establecer su propia justicia, Pablo dirige la atención a Cristo.
+#### Porque
 
-###### <u>Cristo</u> ocupa ahora el centro de la explicación.
+##### Pablo comienza a explicar la razón de las instrucciones dadas en los versículos anteriores.
 
-###### La razón <u>dada</u> por Pablo comienza con:
-> «Porque Cristo es el fin de la ley».
+##### El versículo funciona como fundamento para lo que acaba de afirmar acerca de la enseñanza y la autoridad.
 
-##### <u>Observación</u>
-###### El versículo no continúa hablando acerca del <u>esfuerzo</u> humano.
+-   Pablo ahora explica.
+-   La argumentación continúa.
+-   La razón comienza con la creación.
 
-###### La atención <u>se</u> desplaza hacia Cristo.
+#### Adán fue creado primero
 
-###### Los versículos siguientes continuarán desarrollando esta afirmación mediante <u>las</u> Escrituras.
+##### Pablo dirige la atención al relato de la creación.
 
-#### para justicia
-##### Pablo añade el propósito <u>o</u> resultado de la afirmación.
+##### La primera observación que presenta es el orden en que fueron creados Adán y Eva.
 
-###### El tema de la <u>justicia</u> continúa siendo central en el argumento.
+-   Adán fue creado primero.
+-   Pablo apela a Génesis.
+-   La creación se convierte en la base de su argumento.
 
-###### Ya <u>en</u> Romanos 10:3 apareció el contraste entre:
-- la justicia propia
-- la justicia de Dios
+##### Es importante notar dónde comienza Pablo su explicación.
 
-###### Ahora Pablo <u>vuelve</u> a hablar de justicia, pero en relación con Cristo.
+-   No comienza con la cultura.
+-   No comienza con las costumbres locales.
+-   Comienza con la creación.
 
-##### <u>Observación</u> desarrollacional
-###### El tema <u>de</u> la justicia conecta este versículo con lo que sigue.
+#### después Eva
 
-###### Los versículos 5–13 continuarán desarrollando cómo las Escrituras hablan acerca de <u>esta</u> justicia.
+##### Pablo completa la secuencia iniciada en la frase anterior.
 
-#### a todo aquel que cree.
-##### Pablo <u>identifica</u> a los beneficiarios de esta justicia.
+##### La explicación descansa sobre una distinción establecida desde el principio del relato de Génesis.
 
-###### El énfasis recae <u>sobre</u>:
-> «todo aquel que cree».
+-   Adán primero.
+-   Después Eva.
+-   Pablo considera significativa esta secuencia.
 
-###### Esta expresión prepara el desarrollo posterior <u>del</u> capítulo.
+##### El argumento todavía no ha concluido.
 
-###### Más adelante Pablo volverá repetidamente al tema de <u>creer</u>, confesar e invocar.
+-   Pablo ha dado una primera razón.
+-   El versículo siguiente añadirá una segunda razón.
+-   Ambos versículos deben leerse juntos.
 
-##### <u>Observación</u> importante
-###### El versículo <u>funciona</u> como una transición.
+### 1 Timoteo 2:14
 
-###### Pablo concluye la <u>explicación</u> iniciada en Romanos 10:3.
+Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.
 
-###### A partir del versículo 5 comenzará a desarrollar esta afirmación <u>mediante</u> citas de Moisés, Isaías y Joel.
+#### Y Adán no fue el engañado
+
+##### Pablo añade una segunda razón a la explicación iniciada en el versículo anterior.
+
+##### Después de apelar al orden de la creación, Pablo ahora dirige la atención hacia los acontecimientos de Génesis 3.
+
+-   Pablo continúa explicando.
+-   La referencia sigue siendo Génesis.
+-   Esta es una segunda razón dentro del mismo argumento.
+
+##### El énfasis inicial recae sobre Adán.
+
+-   Adán es mencionado primero.
+-   Pablo afirma que Adán no fue engañado.
+-   La comparación continuará con Eva.
+
+#### sino que la mujer, siendo engañada completamente
+
+##### Pablo establece el contraste con la afirmación anterior.
+
+##### La mujer es presentada como quien fue engañada. Pablo considera este hecho significativo para el argumento que está desarrollando.
+
+-   Existe un contraste entre Adán y Eva.
+-   Pablo destaca el engaño de Eva.
+-   La explicación continúa avanzando.
+
+##### El argumento sigue dependiendo del relato de Génesis.
+
+-   Pablo no apela a una situación local.
+-   Pablo no apela a una costumbre cultural.
+-   Pablo continúa fundamentando su explicación en la creación y la caída.
+
+#### cayó en transgresión
+
+##### Pablo describe el resultado del engaño.
+
+##### El engaño desembocó en transgresión. La secuencia presentada por Pablo es sencilla y directa.
+
+-   Engaño.
+-   Transgresión.
+-   Consecuencia.
+
+##### El flujo de los versículos 13–14 puede verse con claridad.
+
+-   Adán fue creado primero.
+-   Después Eva.
+-   Adán no fue engañado.
+-   Eva fue engañada.
+-   Eva cayó en transgresión.
+
+##### La explicación de Pablo todavía no ha concluido.
+
+-   Los versículos 13–14 forman una unidad.
+-   Ambos proporcionan razones para las instrucciones anteriores.
+-   El argumento continuará en el versículo siguiente.
+
+### 1 Timoteo 2:15
+
+Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.
+
+#### Pero se salvará engendrando hijos
+
+##### Pablo concluye esta sección con una afirmación que ha generado muchas preguntas a lo largo de la historia.
+
+##### El contraste con el versículo anterior es evidente. Después de mencionar a Eva y su transgresión, Pablo introduce una declaración de esperanza.
+
+-   El versículo comienza con un contraste.
+-   Pablo no termina con la transgresión.
+-   Ahora presenta una afirmación positiva.
+
+##### La expresión "engendrando hijos" ocupa un lugar central en la declaración.
+
+-   Pablo menciona específicamente la maternidad.
+-   La afirmación está relacionada con la mujer.
+-   El argumento sigue conectado con la creación y con Eva.
+
+##### Es importante observar cuidadosamente lo que el versículo dice.
+
+-   Pablo menciona salvación.
+-   Pablo menciona maternidad.
+-   Pablo todavía no explica todos los detalles que el lector podría desear conocer.
+
+#### si permanecen
+
+##### Pablo añade una condición a la afirmación anterior.
+
+##### La atención se desplaza ahora hacia la perseverancia.
+
+-   La afirmación no termina con la maternidad.
+-   Pablo añade una condición.
+-   La explicación continúa.
+
+##### Resulta llamativo que el versículo pase del singular al plural.
+
+-   "Se salvará" aparece en singular.
+-   "Si permanecen" aparece en plural.
+-   El cambio forma parte de la estructura del versículo.
+
+#### en fe, amor y santidad
+
+##### Pablo menciona tres características que deben permanecer presentes.
+
+##### Estas expresiones no son nuevas dentro de la carta.
+
+-   La fe ya ha aparecido repetidamente.
+-   El amor ocupa un lugar central desde 1:5.
+-   La santidad continúa desarrollando el tema de la piedad.
+
+##### La lista conecta esta conclusión con el resto de la sección.
+
+-   Pablo no abandona los temas anteriores.
+-   Fe, amor y santidad siguen caracterizando la vida cristiana.
+-   El propósito de la instrucción continúa siendo visible.
+
+#### con modestia
+
+##### Pablo concluye retomando una idea ya mencionada anteriormente.
+
+##### La modestia había aparecido en el contexto de la conducta de las mujeres en los versículos 9–10.
+
+-   Pablo vuelve a una idea ya introducida.
+-   La sección termina donde había comenzado.
+-   La conducta visible sigue formando parte de la exhortación.
+
+##### El flujo completo de 2:8–15 puede verse con claridad.
+
+-   Los hombres deben orar sin ira ni discusiones.
+-   Las mujeres deben adornarse con buenas obras.
+-   Las mujeres deben aprender.
+-   Pablo fundamenta sus instrucciones en Génesis.
+-   La sección concluye con un llamado a permanecer en fe, amor, santidad y modestia.
 
 > En Síntesis
->- Pablo concluye la sección anterior afirmando que la diferencia entre Israel y los gentiles no estuvo en la intensidad de la búsqueda, sino en la manera de buscar.
->- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al buscarla como por obras.
->- La piedra puesta por Dios produce dos respuestas distintas: unos tropiezan otros creen y no son avergonzados.
->- Al comenzar Romanos 10, Pablo vuelve a hablar personalmente y expresa su deseo y oración por la salvación de Israel.
->- Israel tenía celo de Dios, pero no se sometió a la justicia de Dios porque procuró establecer una justicia propia.
->- La explicación de Pablo conduce finalmente a Cristo, a quien presenta como el fin de la ley para justicia a todo aquel que cree.
+>
+> - Después de presentar el deseo de Dios de que todos los hombres sean salvos y lleguen al conocimiento de la verdad, Pablo muestra cómo ese propósito debe reflejarse en la conducta de la iglesia.
+> - Los hombres deben caracterizarse por una actitud apropiada en la oración, mientras que las mujeres deben caracterizarse por la modestia, las buenas obras y una profesión de piedad coherente con su conducta.
+> - Pablo instruye que las mujeres aprendan y establece límites relacionados con la enseñanza y la autoridad dentro de la congregación.
+> - Estas instrucciones son fundamentadas en el relato de Génesis, apelando tanto al orden de la creación como a los acontecimientos de la caída.
+> - La sección concluye dirigiendo la atención hacia una vida marcada por la fe, el amor, la santidad y la modestia.
+> - De principio a fin, Pablo describe cómo la casa de Dios debe conducirse de una manera coherente con la verdad que profesa y con el propósito que Dios está llevando a cabo.
 
-## Romanos 10:5–13 - La palabra está cerca
+## 1 Timoteo 3:1–13 - La casa de Dios necesita siervos conformes a ese propósito
 
-##### Pablo continúa respondiendo mediante las <u>Escrituras</u>.
+### 1 Timoteo 3:1
 
-###### Después de <u>citar</u> repetidamente a las Escrituras en Romanos 9, ahora dirige la atención a Moisés.
+Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hacer.
 
-###### Antes de estudiar este pasaje, conviene detenernos <u>y</u> hacer algunas preguntas:
+### 1 Timoteo 3:1
 
-- ¿Quién está hablando?
-- ¿A quién está hablando?
-- ¿En qué situación histórica?
-- ¿Por qué Pablo escogió este pasaje?
+Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hacer.
 
-###### Estas preguntas nos <u>ayudarán</u> a observar el contexto antes de sacar conclusiones.
+#### Palabra fiel es esta...
 
-##### Una observación <u>importante</u>
+##### Pablo vuelve a introducir una afirmación que considera completamente confiable.
 
-###### A lo largo de Romanos 9–11, Pablo responde repetidamente mediante citas de las <u>Escrituras</u>.
+##### La expresión "\scripture{Palabra fiel}" señala una verdad que debe ser recibida con confianza por la iglesia.
 
-###### Con frecuencia <u>dirige</u> la atención a palabras pronunciadas mucho antes de los acontecimientos que está describiendo.
+##### Después de describir la conducta apropiada dentro de la congregación, Pablo dirige ahora la atención hacia quienes desean servir como obispos.
 
-- Dios habla a Rebeca (9:12)
-- Dios habla en Malaquías (9:13)
-- Dios habla a Moisés (9:15)
-- Dios habla a Faraón (9:17)
-- Dios habla en Oseas (9:25–26)
-- Isaías habla acerca de Israel (9:27–29)
+#### si alguien aspira al cargo de obispo...
 
-###### Ahora Pablo <u>vuelve</u> a citar a Moisés.
+##### Pablo reconoce que puede existir el deseo de servir en esta responsabilidad.
 
-##### El contexto <u>de</u> Deuteronomio 30
+##### La atención recae sobre la disposición de una persona hacia esta labor.
 
-###### La cita <u>proviene</u> de Deuteronomio 30.
+##### El versículo introduce el tema que será desarrollado en los versículos siguientes.
 
-###### Moisés está hablando <u>a</u> Israel como nación.
+##### Pablo comenzará a describir qué clase de persona debe ocupar esta función dentro de la casa de Dios.
 
-###### <u>El</u> contexto incluye dispersión, restauración y regreso.
+#### buena obra desea hacer.
 
-###### Después de hablar de estas realidades, Moisés <u>afirma</u> que la palabra de Dios no está lejos.
+##### Pablo califica esta aspiración como algo bueno.
 
-###### No está <u>en</u> el cielo.
+##### El énfasis no recae sobre una posición de prestigio, sino sobre una obra.
 
-###### No está al otro <u>lado</u> del mar.
+##### La atención es dirigida hacia el servicio y la responsabilidad que acompañan esta tarea.
 
-###### La palabra está <u>cerca</u>.
+##### El deseo de servir como obispo es presentado como el deseo de participar en una buena obra.
 
-###### Está en <u>la</u> boca.
+##### Los versículos siguientes explicarán las características necesarias para quienes desean realizar esta labor.
 
-###### Está <u>en</u> el corazón.
+### 1 Timoteo 3:2
 
-##### <u>Observación</u>
-###### Pablo no <u>está</u> citando una frase aislada.
+Un obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prudente, de conducta decorosa, hospitalario, apto para enseñar,
 
-###### Está citando una sección más amplia donde Moisés habla acerca de una palabra ya dada y ya cercana a <u>Israel</u>.
+#### Un obispo debe ser, pues
 
-###### Por eso, antes de estudiar Romanos 10:5–13, conviene observar cuidadosamente qué estaba diciendo Moisés y <u>cómo</u> Pablo utiliza esas palabras dentro de su argumento.
+##### Pablo comienza a describir las características necesarias para quienes sirven como obispos en la casa de Dios.
 
-##### Una conexión <u>importante</u>
-###### Romanos 10:1–4 ha estado <u>hablando</u> acerca de Israel.
+##### El énfasis no recae sobre habilidades excepcionales o prestigio personal, sino sobre el carácter visible de la persona.
 
-###### Pablo reconoce su celo por Dios, pero afirma que no se sometieron a la <u>justicia</u> de Dios.
+-   Pablo presenta requisitos.
+-   Los requisitos describen una manera de vivir.
+-   La vida del obispo debe corresponder a la responsabilidad que desempeña.
 
-###### <u>Después</u> declara:
-> «Cristo es el fin de la ley para justicia a todo aquel que cree».
+##### Las condiciones para ancianos no son sugerencias que <u>deben</u> tratarse de cumplir. Son requisitos que tienen que ser cumplidos en todo momento y en plenitud.
 
-###### <u>Inmediatamente</u> después, Pablo dirige la atención a Moisés.
+#### irreprochable
 
-###### Por <u>esta</u> razón, conviene observar cuidadosamente por qué Pablo escoge este pasaje de Deuteronomio.
+##### Esta característica encabeza toda la lista.
 
-###### La <u>sección</u> continúa desarrollando el tema de la justicia y la respuesta a la palabra de Dios.
+##### La vida del obispo no debe presentar motivos legítimos de acusación o reproche.
 
-### Romanos 10:5
-Pues Moisés escribe que el hombre que practica la justicia que es de la ley, vivirá por ella.
+-   La característica aparece primero.
+-   Funciona como una descripción general.
+-   Los requisitos siguientes desarrollarán esta idea.
 
-#### Pues Moisés escribe
-##### Pablo introduce un testimonio tomado de <u>las</u> Escrituras.
+##### Es sin crítica.
 
-###### Después de <u>afirmar</u> que Cristo es el fin de la ley para justicia a todo aquel que cree, Pablo dirige la atención a Moisés.
+-   Se refiere a que el creyente debe estar libre de cualquier crítica justificable delante de los de la iglesia.
+-   Esto también incluye el <u>hecho</u> de estar libre de cualquier ofensa legal. Tito 1:6-7
 
-###### El argumento continúa avanzando mediante las <u>Escrituras</u>.
+#### marido de una sola mujer
 
-###### Moisés <u>aparece</u> nuevamente como testigo dentro de la discusión.
+##### Pablo continúa describiendo la vida personal y familiar del obispo.
 
-#### que el hombre que practica la justicia
-##### La cita describe a <u>la</u> persona que practica lo que la ley demanda.
+##### La atención se dirige a la fidelidad demostrada en su relación matrimonial.
 
-###### El <u>énfasis</u> recae sobre la práctica de esta justicia.
+-   Pablo menciona su vida matrimonial.
+-   La fidelidad forma parte de los requisitos.
+-   El carácter comienza en el ámbito más cercano.
+-   Un anciano de la <u>iglesia</u>, si esta casado, debe ser marido de una sola mujer.
+-   Esto excluye cualquier pensamiento poligamo. Dios instituyo el matrimonio únicamente entre un <u>solo</u> hombre y una sola mujer. Efesios 5:22-33
+-   Por el requisito observado encontramos que este rol <u>dentro</u> de la iglesia es exclusivamente para varones creyentes.
 
-###### Pablo comienza con una declaración tomada <u>de</u> Moisés antes de introducir el siguiente contraste.
+#### sobrio
 
-#### que es de la ley,
-##### Pablo identifica el marco de esta <u>justicia</u>.
+##### El obispo debe caracterizarse por dominio y equilibrio.
 
-###### <u>El</u> versículo habla específicamente de:
-> «la justicia que es de la ley».
+##### Pablo continúa describiendo una vida marcada por el control propio y la sensatez.
 
-###### Esta expresión <u>será</u> contrastada inmediatamente con:
-> «la justicia que es de la fe».
+-   No debe vivir dominado por impulsos.
+-   Debe mostrar estabilidad.
+-   Debe actuar con equilibrio.
+-   quiere decir tambien templado, moderado. La palabra da el significado directo a una persona libre de vino. También, podria referirse a un creyente libre de un <u>estado</u> mental libre del control de las pasiones y lujuria.
 
-#### vivirá por ella.
-##### La cita concluye con <u>un</u> resultado.
+#### prudente
 
-###### La vida aparece <u>vinculada</u> a la justicia descrita en la cita.
+##### El obispo debe ejercer buen juicio.
 
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo <u>introducirá</u> un contraste.
+##### La manera en que piensa y actúa debe reflejar sensatez y discernimiento.
 
-###### <u>Pablo</u> pasará de:
-> «la justicia que es de la ley»
+-   Pablo continúa describiendo el carácter.
+-   La prudencia forma parte de la madurez requerida.
+-   El liderazgo requiere discernimiento.
+-   quiere decir <u>moderado</u>.
 
-###### <u>a</u>:
-> «la justicia que es de la fe».
+#### de conducta decorosa
 
-### Romanos 10:6
-Pero la justicia que es de la fe, dice así: «NO DIGAS EN TU CORAZÓN: “¿QUIÉN SUBIRÁ AL CIELO?”. Esto es, para hacer bajar a Cristo,
+##### La vida visible del obispo debe reflejar orden y respeto.
 
-#### Pero la justicia que es de la fe, dice así:
-##### Pablo introduce una nueva cita de las <u>Escrituras</u>.
+##### El carácter no permanece oculto. Debe hacerse evidente en la manera en que la persona se conduce.
 
-###### Ahora <u>comienza</u> a citar Deuteronomio 30.
+-   Pablo sigue describiendo una vida observable.
+-   La conducta importa.
+-   La reputación visible forma parte de los requisitos.
+-   bien <u>ordenado</u>, respetuoso.
 
-###### La cita proviene de una sección donde Moisés habla <u>a</u> Israel.
+#### hospitalario
 
-###### <u>El</u> contexto incluye dispersión, restauración y regreso.
+##### El obispo debe mostrar disposición para recibir y servir a otros.
 
-###### Después de hablar de estas <u>realidades</u>, Moisés afirma que la palabra de Dios no está lejos.
+##### La responsabilidad de cuidar la casa de Dios debe reflejarse también en la manera en que trata a las personas.
 
-#### «NO DIGAS EN TU CORAZÓN:
-##### Pablo comienza con las palabras de <u>Moisés</u>.
+-   El requisito se enfoca en otros.
+-   El servicio forma parte del liderazgo.
+-   El carácter continúa siendo el énfasis principal.
+-   es <u>amable</u> con sus visitas.
 
-###### <u>La</u> atención se dirige al corazón.
+#### apto para enseñar
 
-###### La expresión <u>prepara</u> las preguntas que siguen.
+##### Pablo introduce la única capacidad ministerial explícita de la lista.
 
-###### El énfasis no recae en buscar una palabra lejana, sino <u>en</u> la respuesta a una palabra ya dada.
+##### Hasta este punto los requisitos han descrito principalmente el carácter. Ahora Pablo añade una capacidad necesaria para el servicio.
 
-#### “¿QUIÉN SUBIRÁ AL CIELO?”.
-##### La primera pregunta mira hacia algo inaccesible para el <u>ser</u> humano.
+-   El obispo debe enseñar.
+-   Debe ser capaz de comunicar la verdad.
+-   La enseñanza ocupa un lugar central en la responsabilidad del obispo.
 
-###### En Deuteronomio, Moisés niega que la palabra de Dios se encuentre fuera del <u>alcance</u> de Israel.
+##### Esta característica conecta directamente con los problemas del capítulo 1.
 
-###### La <u>pregunta</u> prepara el contraste que aparecerá más adelante:
-> «Cerca de ti está la palabra».
+-   Algunos enseñaban doctrinas diferentes.
+-   Algunos se desviaron de la verdad.
+-   El obispo debe ser capaz de enseñar correctamente.
+-   La protección de la iglesia depende de ello.
+-   apto para enseñar es una sola palabra DIDAKTIKOS en el griego. Debe ser <u>idóneo</u> para enseñar.
 
-#### Esto es, para hacer bajar a Cristo,
-##### <u>Pablo</u> aplica la cita al tema que está desarrollando.
+### 1 Timoteo 3:3
 
-###### La explicación continúa en el versículo <u>siguiente</u>.
+no dado a la bebida, no pendenciero, sino amable, no contencioso, no avaricioso.
 
-###### El énfasis sigue estando en <u>la</u> inutilidad de intentar traer aquello que Dios ya ha provisto.
+#### no dado a la bebida
 
-### Romanos 10:7
-o “¿QUIÉN DESCENDERÁ AL ABISMO?”. Esto es, para subir a Cristo de entre los muertos».
+##### El obispo no debe estar controlado por el vino.
 
-#### o “¿QUIÉN DESCENDERÁ AL ABISMO?”.
-##### Pablo añade una <u>segunda</u> pregunta.
+##### Pablo continúa describiendo una vida marcada por el dominio propio y el buen juicio.
 
-###### La <u>estructura</u> repite la idea anterior.
+-   No debe vivir bajo la influencia de la bebida.
+-   Debe mostrar control propio.
+-   Esta característica corresponde a la sobriedad mencionada anteriormente.
 
-###### La atención continúa dirigida hacia intentos humanos de alcanzar aquello que está <u>fuera</u> de su alcance.
+#### no pendenciero
 
-###### La <u>pregunta</u> prepara nuevamente el contraste que aparecerá en el versículo siguiente.
+##### El obispo no debe caracterizarse por la agresividad.
 
-#### Esto es, para subir a Cristo de entre los muertos».
-##### Pablo continúa aplicando las palabras de <u>Moisés</u>.
+##### La manera en que trata a las personas importa. El liderazgo dentro de la casa de Dios no debe expresarse mediante violencia o confrontación abusiva.
 
-###### La explicación sigue apuntando a la <u>obra</u> de Cristo.
+-   Pablo excluye la agresividad.
+-   El carácter del líder debe reflejar madurez.
+-   La conducta debe corresponder a la obra que realiza.
 
-###### El argumento se mueve hacia la afirmación central <u>que</u> aparecerá en el versículo 8.
+#### sino amable
 
-### Romanos 10:8
-Pero, ¿qué dice? «CERCA DE TI ESTÁ LA PALABRA, EN TU BOCA Y EN TU CORAZÓN», es decir, la palabra de fe que predicamos:
+##### Pablo presenta la característica opuesta.
 
-#### Pero, ¿qué dice?
-##### Después de dos preguntas negativas, Pablo dirige la atención a la <u>afirmación</u> principal de la cita.
+##### En lugar de ser agresivo o violento, el obispo debe distinguirse por la amabilidad y la consideración hacia otros.
 
-###### El argumento vuelve <u>al</u> punto central de Deuteronomio 30.
+-   Pablo establece un contraste.
+-   La amabilidad debe caracterizar su trato con las personas.
+-   El liderazgo debe ejercerse con mansedumbre.
 
-###### La pregunta prepara la <u>respuesta</u> que Moisés mismo da.
+#### no contencioso
 
-#### «CERCA DE TI ESTÁ LA PALABRA,
-##### Esta es la <u>afirmación</u> central de la cita.
+##### El obispo no debe ser una persona inclinada a las disputas.
 
-###### En Deuteronomio, Moisés <u>insiste</u> en que la palabra no está lejos.
+##### Esta característica resulta especialmente importante dentro del contexto de la carta.
 
-###### <u>No</u> está en el cielo.
+-   No debe promover conflictos.
+-   No debe vivir alimentando discusiones.
+-   Debe procurar la paz.
 
-###### No está al otro <u>lado</u> del mar.
+##### La conexión con el capítulo 1 es significativa.
 
-###### La <u>palabra</u> está cerca.
+-   Algunos producían controversias.
+-   Algunos se desviaban hacia discusiones inútiles.
+-   El obispo no debe caracterizarse por ese espíritu.
 
-##### Observación <u>importante</u>:
+#### no avaricioso
 
-###### El énfasis principal de la cita no es <u>buscar</u> la palabra.
+##### El obispo no debe estar gobernado por el amor al dinero.
 
-###### El <u>énfasis</u> es que la palabra ya ha sido dada y está presente.
+##### Pablo continúa describiendo una vida libre de motivaciones egoístas y centrada en el servicio.
 
-#### EN TU BOCA
-##### Pablo continúa citando <u>a</u> Moisés.
+-   El dinero no debe controlar sus decisiones.
+-   El ministerio no debe convertirse en un medio de ganancia personal.
+-   Su carácter debe reflejar contentamiento y fidelidad.
 
-###### La boca ya aparecía en el <u>texto</u> original de Deuteronomio.
+### 1 Timoteo 3:4
 
-###### No es una idea introducida por Pablo en <u>este</u> punto.
+Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad;
 
-###### El desarrollo continuará <u>en</u> los versículos siguientes.
+#### Que gobierne bien su casa
 
-#### Y EN TU CORAZÓN»,
-##### Pablo completa la <u>cita</u>.
+##### Pablo dirige la atención hacia la vida familiar del obispo.
 
-###### El corazón también procede directamente <u>de</u> Deuteronomio 30.
+##### La responsabilidad de cuidar la iglesia no puede separarse de la manera en que una persona conduce su propio hogar.
 
-###### Los elementos "<u>boca</u>" y "corazón" forman parte del argumento original de Moisés.
+-   Pablo pasa de las cualidades personales a la vida familiar.
+-   La casa del obispo se convierte en un área de observación.
+-   El liderazgo debe ser visible en el hogar.
 
-###### <u>Más</u> adelante Pablo desarrollará ambos elementos.
+##### El énfasis recae sobre hacerlo bien.
 
-#### es decir, la palabra de fe que predicamos:
-##### <u>Pablo</u> identifica la palabra que está anunciando.
+-   No basta con tener una familia.
+-   La manera en que la conduce es importante.
+-   Pablo está evaluando capacidad demostrada.
 
-###### El argumento ya no <u>permanece</u> únicamente en Deuteronomio.
+#### teniendo a sus hijos sujetos
 
-###### Pablo conecta la cita con <u>el</u> mensaje que está siendo proclamado.
+##### Pablo añade una evidencia concreta de ese gobierno.
 
-##### <u>Observación</u> desarrollacional:
-###### Los versículos 9–10 desarrollarán precisamente los dos elementos <u>ya</u> mencionados por Moisés:
-- boca
-- corazón
+##### Los hijos aparecen como una manifestación visible de cómo se conduce el hogar.
 
-###### Antes de hablar <u>de</u> creer y confesar, Pablo ya ha establecido que la palabra está cerca.
+-   Pablo observa la relación con los hijos.
+-   La familia forma parte de la evaluación.
+-   El liderazgo debe reflejarse en el hogar.
 
-### Romanos 10:9
-que si confiesas con tu boca a Jesús por Señor, y crees en tu corazón que Dios lo resucitó de entre los muertos, serás salvo.
+##### La atención sigue puesta sobre el carácter y la responsabilidad.
 
-#### que si confiesas con tu boca
-##### <u>Pablo</u> comienza desarrollando uno de los elementos mencionados en Romanos 10:8.
+-   Pablo no habla de perfección.
+-   Pablo habla de una casa bien dirigida.
+-   El hogar sirve como evidencia observable.
 
-###### La <u>boca</u> ya apareció en la cita de Deuteronomio 30.
+#### con toda dignidad
 
-###### Ahora Pablo vuelve a <u>mencionarla</u>.
+##### Pablo describe la manera en que debe verse esa relación familiar.
 
-###### El versículo introduce una confesión expresada con la <u>boca</u>.
+##### La dignidad ya apareció anteriormente como una característica deseable dentro de la vida cristiana.
 
-##### Observación <u>importante</u>:
-###### <u>Los</u> elementos:
-- boca
-- corazón
+-   La conducta de la familia importa.
+-   La dignidad forma parte del testimonio visible.
+-   El orden del hogar debe reflejar madurez.
 
-###### <u>no</u> aparecen por primera vez en Romanos 10:9.
+##### El argumento todavía no ha concluido.
 
-###### <u>Ambos</u> proceden de la cita de Moisés en los versículos anteriores.
+-   Pablo está preparando una explicación.
+-   La casa propia servirá como ilustración.
+-   El versículo siguiente explicará por qué este requisito es tan importante.
 
-#### a Jesús por Señor,
-##### Pablo identifica el <u>contenido</u> de la confesión.
+### 1 Timoteo 3:5
 
-###### La confesión está <u>centrada</u> en Jesús.
+(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?).
 
-###### El versículo no habla <u>de</u> una confesión indefinida.
+#### pues si un hombre no sabe cómo gobernar su propia casa
 
-###### Pablo especifica aquello que es <u>confesado</u>.
+##### Pablo explica por qué la vida familiar forma parte de los requisitos para un obispo.
 
-##### Observación <u>importante</u>:
-###### Pablo no ha abandonado <u>el</u> tema de Cristo.
+##### La pregunta no se centra en habilidades teóricas sino en capacidad demostrada. El hogar proporciona la evidencia más cercana de cómo una persona ejerce responsabilidad y cuidado sobre otros.
 
-###### Romanos 10 <u>comenzó</u> afirmando:
-> «Cristo es el fin de la ley para justicia a todo aquel que cree».
+-   Pablo continúa el argumento del versículo anterior.
+-   El hogar sirve como evidencia observable.
+-   La capacidad debe estar demostrada antes de asumir mayor responsabilidad.
 
-###### <u>La</u> atención continúa centrada en Él.
+#### ¿cómo podrá cuidar de la iglesia de Dios?
 
-#### y crees en tu corazón
-##### Pablo <u>introduce</u> el segundo elemento mencionado en Romanos 10:8.
+##### Pablo aplica el principio al cuidado de la iglesia.
 
-###### Después de hablar de la <u>boca</u>, ahora habla del corazón.
+##### La iglesia de Dios requiere personas que ya hayan demostrado madurez, responsabilidad y cuidado en las áreas que Dios les ha confiado.
 
-###### Los dos elementos aparecen <u>nuevamente</u> juntos.
+-   La iglesia pertenece a Dios.
+-   El liderazgo implica cuidado.
+-   La responsabilidad en la iglesia no puede separarse del carácter demostrado en el hogar.
 
-###### Pablo continúa desarrollando <u>el</u> lenguaje tomado de Deuteronomio 30.
+##### La pregunta espera una respuesta evidente.
 
-#### que Dios lo resucitó de entre los muertos,
-##### Pablo identifica el contenido de la fe descrita <u>en</u> el versículo.
+-   Si no puede dirigir bien su propia casa,
+-   tampoco ha demostrado estar preparado para cuidar la iglesia.
+-   El hogar funciona como una prueba visible del carácter y la capacidad del líder.
 
-###### <u>La</u> fe está relacionada con la resurrección de Jesús.
+##### Esta observación conecta con el propósito de toda la sección.
 
-###### El énfasis recae sobre lo que Dios <u>hizo</u>.
+-   La casa de Dios necesita siervos conformes a ese propósito.
+-   Los requisitos no son arbitrarios.
+-   Cada requisito ayuda a identificar personas capaces de proteger, servir y cuidar a la congregación.
 
-#### serás salvo.
-##### El versículo concluye con <u>una</u> promesa de salvación.
+### 1 Timoteo 3:6
 
-###### La declaración presenta <u>el</u> resultado asociado con creer y confesar.
+No debe ser un recién convertido, no sea que se envanezca y caiga en la condenación en que cayó el diablo.
 
-##### <u>Observación</u> desarrollacional:
-###### La palabra que Moisés describía como cercana es <u>ahora</u> desarrollada por Pablo en relación con Jesús.
+#### No debe ser un recién convertido
 
-###### El <u>argumento</u> continúa avanzando alrededor de la palabra anunciada y la respuesta a ella.
+##### Pablo añade otra condición para quienes sirven como obispos en la casa de Dios.
 
-### Romanos 10:10
-Porque con el corazón se cree para justicia, y con la boca se confiesa para salvación.
+##### La madurez espiritual forma parte de los requisitos. El liderazgo no debe ser confiado a alguien que recién comienza su caminar en la fe.
 
-#### Porque con el corazón se cree para justicia,
-##### Pablo <u>explica</u> la relación presentada en el versículo anterior.
+-   Pablo excluye a los recién convertidos.
+-   El tiempo y la madurez son importantes.
+-   El carácter debe haber sido probado.
 
-###### El corazón <u>vuelve</u> a aparecer asociado con la fe.
+##### La lista continúa enfocándose en la protección de la iglesia.
 
-###### La fe es relacionada <u>con</u> la justicia.
+-   No basta con desear la obra.
+-   No basta con poseer capacidad.
+-   También es necesaria madurez espiritual.
 
-##### Observación <u>importante</u>:
-###### El tema de la <u>justicia</u> continúa ocupando un lugar central en esta sección.
+#### no sea que se envanezca
 
-###### Pablo sigue desarrollando <u>el</u> tema introducido en Romanos 10:3–4.
+##### Pablo explica el peligro que intenta evitar.
 
-###### El <u>argumento</u> continúa girando alrededor de la justicia de Dios y de la respuesta a ella.
+##### El problema señalado no es la falta de habilidad sino el orgullo.
 
-##### Observación <u>desarrollacional</u>:
-###### La justicia sigue apareciendo en <u>conexión</u> con la fe.
+-   La responsabilidad puede producir arrogancia.
+-   El reconocimiento puede alimentar el orgullo.
+-   El liderazgo requiere humildad.
 
-###### Pablo no ha abandonado el tema introducido <u>al</u> comienzo del capítulo.
+#### y caiga en la condenación en que cayó el diablo
 
-#### y con la boca se confiesa para salvación.
-##### Pablo completa <u>el</u> paralelo.
+##### Pablo lleva la advertencia hasta su consecuencia más seria.
 
-###### La boca vuelve a <u>aparecer</u> asociada con la confesión.
+##### El orgullo aparece como el camino que conduce a la caída.
 
-###### El <u>versículo</u> mantiene juntos los mismos dos elementos:
-- corazón
-- boca
+-   Pablo relaciona el orgullo con la caída.
+-   El peligro es real.
+-   La madurez ayuda a proteger al creyente de este riesgo.
 
-###### Los dos elementos ya estaban presentes <u>en</u> la cita de Deuteronomio 30.
+##### El argumento continúa siendo consistente con el resto de la carta.
 
-##### Observación <u>importante</u>:
-###### Pablo no <u>está</u> introduciendo una nueva línea de argumentación.
+-   La iglesia necesita líderes estables.
+-   La iglesia necesita líderes humildes.
+-   La iglesia necesita líderes capaces de servir sin ser dominados por el orgullo.
 
-###### Continúa desarrollando <u>la</u> palabra que, según Moisés, ya estaba cerca:
-- en la boca
-- en el corazón
+### 1 Timoteo 3:7
 
-##### <u>Observación</u> importante:
-###### La palabra cercana descrita por Moisés es <u>ahora</u> explicada por Pablo en relación con Cristo.
+Debe gozar también de una buena reputación entre los de afuera de la iglesia, para que no caiga en descrédito y en el lazo del diablo.
 
-###### La discusión continúa desarrollándose alrededor de la palabra anunciada y de la <u>respuesta</u> a ella.
+#### Debe gozar también de una buena reputación entre los de afuera de la iglesia
 
-##### Observación <u>desarrollacional</u>:
-###### La sección se <u>encuentra</u> dentro de una discusión acerca de Israel.
+##### Pablo añade un requisito relacionado con el testimonio visible del obispo ante quienes no forman parte de la congregación.
 
-###### Romanos 10 comenzó describiendo una situación <u>donde</u> Israel no se sometió a la justicia de Dios.
+##### Los requisitos no se limitan a lo que ocurre dentro de la iglesia. La manera en que una persona es percibida por quienes están fuera también resulta importante.
 
-###### Después Pablo <u>citó</u> a Moisés para hablar acerca de una palabra que ya estaba cerca.
+-   El carácter debe ser visible.
+-   El testimonio alcanza más allá de la congregación.
+-   La reputación forma parte de la evaluación.
 
-###### Ahora desarrolla esa palabra <u>antes</u> de volver nuevamente al testimonio de las Escrituras en los versículos siguientes.
+##### Esta observación encaja con el propósito desarrollado anteriormente en la carta.
 
-### Romanos 10:11
-Pues la Escritura dice: «TODO EL QUE CREE EN ÉL NO SERÁ AVERGONZADO».
+-   Dios desea que las personas lleguen al conocimiento de la verdad.
+-   La conducta del creyente tiene impacto sobre otros.
+-   El liderazgo debe respaldar el mensaje que la iglesia proclama.
 
-#### Pues la Escritura dice:
-##### Pablo vuelve a apoyar su argumento mediante las <u>Escrituras</u>.
+#### para que no caiga en descrédito
 
-###### Después de desarrollar la relación entre creer y confesar, <u>dirige</u> nuevamente la atención a una cita bíblica.
+##### Pablo explica el peligro que intenta evitar.
 
-###### La Escritura vuelve a <u>funcionar</u> como testigo dentro del argumento.
+##### Un mal testimonio puede traer reproche sobre la persona y afectar su capacidad para servir.
 
-###### Pablo retoma una promesa que ya apareció <u>anteriormente</u> en Romanos 9:33.
+-   El liderazgo implica responsabilidad pública.
+-   La reputación importa.
+-   El descrédito afecta tanto al líder como a su ministerio.
 
-#### «TODO EL QUE CREE EN ÉL
-##### <u>La</u> cita enfatiza al creyente.
+#### y en el lazo del diablo
 
-###### El sujeto es presentado <u>de</u> manera amplia:
-> «todo el que cree».
+##### Pablo añade una segunda advertencia.
 
-###### El énfasis recae sobre la fe descrita en esta <u>sección</u>.
+##### El descrédito no es un asunto menor. Pablo lo relaciona con una trampa o lazo del diablo.
 
-##### Observación <u>importante</u>:
-###### La fe continúa ocupando un <u>lugar</u> central en el argumento.
+-   El peligro es real.
+-   La iglesia debe tomar en serio estos requisitos.
+-   El carácter protege tanto al líder como a la congregación.
 
-###### Pablo sigue desarrollando el tema <u>introducido</u> desde Romanos 9:30–32.
+##### La lista de requisitos llega a su conclusión.
 
-#### NO SERÁ AVERGONZADO».
-##### La cita presenta una <u>promesa</u>.
+-   El obispo debe ser irreprochable.
+-   Debe demostrar madurez en su vida personal y familiar.
+-   Debe ser capaz de enseñar.
+-   Debe mostrar humildad.
+-   Debe poseer un buen testimonio dentro y fuera de la iglesia.
 
-###### La declaración <u>ya</u> había sido utilizada por Pablo en Romanos 9:33.
+##### El propósito de estos requisitos es claro.
 
-###### La promesa es presentada en términos <u>universales</u>:
-> «todo el que cree».
-
-##### <u>Observación</u> desarrollacional:
-###### La <u>palabra</u> clave ahora es:
-> «todo».
-
-###### El siguiente versículo explicará <u>por</u> qué Pablo puede hablar de esta manera.
-
-### Romanos 10:12
-Porque no hay distinción entre judío y griego, pues el mismo Señor es Señor de todos, abundando en riquezas para todos los que le invocan;
-
-#### Porque no hay distinción entre judío y griego,
-##### <u>Pablo</u> explica la afirmación anterior.
-
-###### <u>El</u> versículo anterior habló de:
-> «todo el que cree».
-
-###### Ahora Pablo <u>explica</u> por qué puede utilizar esa expresión.
-
-##### <u>Observación</u> importante:
-###### El contraste entre judío y <u>gentil</u> ha estado presente a lo largo de Romanos 9–11.
-
-###### Aquí Pablo afirma que no existe distinción en relación con la promesa que acaba de <u>citar</u>.
-
-#### pues el mismo Señor es Señor de todos,
-##### Pablo presenta la <u>razón</u> de la afirmación anterior.
-
-###### La explicación <u>comienza</u> con el Señor mismo.
-
-###### El énfasis <u>recae</u> en la unidad del Señor.
-
-###### El mismo <u>Señor</u> es presentado como Señor de todos.
-
-#### abundando en riquezas para todos los que le invocan;
-##### Pablo añade una segunda <u>afirmación</u>.
-
-###### El énfasis vuelve a recaer sobre la <u>palabra</u>:
-> «todos».
-
-###### El argumento continúa <u>ampliándose</u>:
-- todo el que cree
-- todos los que le invocan
-
-##### Observación <u>desarrollacional</u>:
-###### Pablo está preparando la cita <u>que</u> aparecerá en el versículo siguiente.
-
-###### <u>La</u> referencia a quienes invocan al Señor anticipa directamente la cita de Joel.
-
-###### <u>El</u> argumento continúa avanzando mediante las Escrituras.
-
-### Romanos 10:13
-porque: «TODO AQUEL QUE INVOQUE EL NOMBRE DEL SEÑOR SERÁ SALVO».
-
-#### porque:
-##### Pablo fundamenta <u>la</u> afirmación anterior mediante las Escrituras.
-
-###### Después de hablar acerca de quienes invocan al Señor, presenta una cita bíblica como <u>respaldo</u>.
-
-###### El argumento continúa avanzando mediante el testimonio de <u>las</u> Escrituras.
-
-###### Ahora aparece <u>Joel</u> como testigo dentro de la discusión.
-
-#### «TODO AQUEL
-##### La cita comienza con <u>una</u> expresión amplia.
-
-###### La misma amplitud <u>que</u> apareció en los versículos anteriores vuelve a aparecer aquí.
-
-###### Pablo continúa desarrollando <u>la</u> idea de:
-> «todo el que cree»
-
-###### <u>y</u>:
-> «todos los que le invocan».
-
-##### Observación <u>importante</u>:
-###### El énfasis sigue recayendo <u>sobre</u>:
-> «todo».
-
-#### QUE INVOQUE EL NOMBRE DEL SEÑOR
-##### La cita identifica <u>la</u> acción mencionada en el versículo anterior.
-
-###### Pablo acaba de hablar <u>de</u>:
-> «todos los que le invocan».
-
-###### Ahora Joel confirma esa misma idea <u>mediante</u> las Escrituras.
-
-###### La referencia a invocar ocupa <u>un</u> lugar central en el desarrollo del argumento.
-
-##### Observación <u>importante</u>:
-###### <u>La</u> cita proviene de Joel.
-
-###### Igual que <u>la</u> cita de Moisés en Romanos 10:6–8, esta declaración pertenece a un contexto más amplio.
-
-###### Joel habla <u>dentro</u> de una sección que mira hacia la restauración futura y la intervención de Dios.
-
-#### SERÁ SALVO».
-##### La cita concluye con una <u>promesa</u>.
-
-###### <u>El</u> resultado asociado con invocar al Señor es la salvación.
-
-###### La promesa es expresada en términos <u>universales</u>:
-> «todo aquel».
-
-##### Observación <u>importante</u>:
-###### Esta declaración <u>proviene</u> de Joel.
-
-###### En su contexto original, Joel está hablando dentro de una sección más amplia acerca de la <u>intervención</u> de Dios, la restauración y la liberación de Su pueblo.
-
-###### Pablo toma esta <u>promesa</u> y la incorpora a su argumento para mostrar que las Escrituras ya hablaban de una salvación disponible para quienes invocan al Señor.
-
-##### <u>Observación</u> desarrollacional:
-###### Romanos 10 ha citado <u>sucesivamente</u> a:
-- Moisés
-- Isaías
-- Joel
-
-###### Cada uno de estos <u>testimonios</u> ha sido utilizado para apoyar el mismo argumento.
-
-###### La sección <u>termina</u> afirmando que:
-> «Todo aquel que invoque el nombre del Señor será salvo».
-
-##### <u>Observación</u> desarrollacional:
-###### Romanos 10:1 comenzó con <u>el</u> deseo de Pablo por la salvación de Israel.
-
-###### Ahora Pablo ha mostrado <u>mediante</u> las Escrituras que:
-- todo el que cree
-- todos los que invocan al Señor
-- participan de esta promesa.
-
-###### Después de citar a Joel, Pablo comenzará una nueva serie de <u>preguntas</u>:
-> «¿Cómo invocarán...?»
-
-###### El argumento avanzará hacia el tema de la proclamación <u>del</u> mensaje.
-
-### Romanos 10:14
-¿Cómo, pues, invocarán a Aquel en quien no han creído? ¿Y cómo creerán en Aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique?
-
-#### ¿Cómo, pues, invocarán a Aquel en quien no han creído?
-##### <u>Pablo</u> comienza una serie de preguntas conectadas entre sí.
-
-##### El versículo anterior afirmó:
-> «Todo aquel que invoque el nombre del Señor será salvo».
-
-##### Ahora <u>Pablo</u> comienza a explicar cómo alguien llega a invocar.
-
-##### Observación <u>importante</u>:
-###### La invocación presupone <u>fe</u>.
-
-###### <u>La</u> pregunta dirige la atención al paso anterior.
-
-#### ¿Y cómo creerán en Aquel de quien no han oído?
-##### <u>Pablo</u> añade un segundo eslabón.
-
-###### <u>La</u> fe no aparece aislada.
-
-###### Pablo conecta la <u>fe</u> con oír.
-
-###### La <u>cadena</u> continúa avanzando hacia atrás:
-- invocar
-- creer
-- oír
-
-#### ¿Y cómo oirán sin haber quien les predique?
-##### <u>Pablo</u> añade un tercer eslabón.
-
-###### El <u>oír</u> presupone que alguien proclame el mensaje.
-
-##### <u>Observación</u> importante:
-###### El argumento no se concentra solamente en quien <u>responde</u>.
-
-###### También se concentra en cómo llega el <u>mensaje</u>.
-
-##### Observación <u>desarrollacional</u>:
-###### Pablo ha construido una <u>cadena</u> completa:
-- invocar
-- creer
-- oír
-- predicación
-
-###### El siguiente <u>versículo</u> añadirá un paso más al inicio de la cadena.
-
-### Romanos 10:15
-¿Y cómo predicarán si no son enviados? Tal como está escrito: «¡CUAN HERMOSOS SON LOS PIES DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
-
-#### ¿Y cómo predicarán si no son enviados?
-##### Pablo retrocede un paso <u>más</u> en la cadena.
-
-###### Antes habló <u>de</u> la predicación.
-
-###### <u>Ahora</u> habla del envío.
-
-###### <u>La</u> cadena queda completa:
-- enviados
-- predican
-- oyen
-- creen
-- invocan
-
-##### <u>Observación</u> importante:
-###### Pablo <u>está</u> mostrando cómo el mensaje llega a quienes lo escuchan.
-
-#### Tal como está escrito:
-##### Pablo vuelve a apoyar su argumento mediante <u>las</u> Escrituras.
-
-###### La proclamación <u>del</u> mensaje no es presentada como algo nuevo.
-
-###### Pablo muestra <u>que</u> las Escrituras ya hablaban de ello.
-
-#### «¡CUÁN HERMOSOS SON LOS PIES
-##### La cita dirige la <u>atención</u> a los mensajeros.
-
-###### La imagen <u>celebra</u> la llegada de quienes traen el mensaje.
-
-##### <u>Observación</u> importante:
-###### El énfasis no <u>está</u> en los pies mismos.
-
-###### El énfasis está en <u>aquello</u> que traen.
-
-#### DE LOS QUE ANUNCIAN EL EVANGELIO DEL BIEN!».
-##### La cita identifica a <u>los</u> mensajeros por su acción.
-
-###### Son personas <u>que</u> anuncian buenas noticias.
-
-##### Observación <u>desarrollacional</u>:
-###### <u>Pablo</u> ha mostrado cómo la salvación anunciada en Romanos 10:13 llega a las personas.
-
-###### El mensaje debe ser <u>anunciado</u>.
-
-###### Sin embargo, la siguiente <u>sección</u> mostrará que no todos responden de la misma manera al mensaje anunciado.
-
-### Romanos 10:16
-Sin embargo, no todos hicieron caso al evangelio, porque Isaías dice: «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
-
-#### Sin embargo,
-##### Pablo introduce un contraste <u>importante</u>.
-
-###### La cadena presentada <u>en</u> los versículos anteriores es verdadera.
-
-###### Pero eso no significa que todos respondan de la <u>misma</u> manera.
-
-###### El argumento <u>cambia</u> de:
-- cómo llega el mensaje
-
-###### <u>a</u>:
-- cómo responden las personas al mensaje.
-
-#### no todos hicieron caso al evangelio,
-##### <u>Pablo</u> presenta el problema.
-
-###### El <u>mensaje</u> fue anunciado.
-
-###### Sin embargo, <u>la</u> respuesta no fue universal.
-
-##### <u>Observación</u> importante:
-###### <u>El</u> énfasis recae sobre:
-> “no todos”
-
-###### La proclamación del evangelio no garantiza la <u>obediencia</u> de todos los que lo oyen.
-
-#### porque Isaías dice:
-##### Pablo vuelve a presentar a Isaías como <u>testigo</u> dentro del argumento.
-
-###### La pregunta ya no gira alrededor <u>del</u> anuncio.
-
-###### Gira alrededor de la respuesta al <u>anuncio</u>.
-
-#### «SEÑOR, ¿QUIÉN HA CREÍDO A NUESTRO ANUNCIO?».
-##### La <u>cita</u> presenta la misma tensión.
-
-###### <u>Existe</u> un anuncio.
-
-###### <u>Sin</u> embargo, la pregunta gira alrededor de quién lo creyó.
-
-##### <u>Observación</u> desarrollacional:
-###### Pablo muestra que el <u>problema</u> no es la ausencia de anuncio.
-
-###### El <u>problema</u> es la respuesta al anuncio.
-
-### Romanos 10:17
-Así que la fe viene del oír, y el oír, por la palabra de Cristo.
-
-#### Así que la fe viene del oír,
-##### Pablo extrae <u>una</u> conclusión.
-
-###### El versículo <u>anterior</u> habló de creer el anuncio.
-
-###### El versículo responde directamente a la <u>pregunta</u> planteada en 10:14:
-> «¿Cómo creerán en Aquel de quien no han oído?»
-
-##### <u>Observación</u> importante:
-###### La fe <u>no</u> aparece aislada.
-
-###### Pablo la conecta directamente con el <u>oír</u>.
-
-#### y el oír, por la palabra de Cristo.
-##### <u>Pablo</u> añade el origen del oír.
-
-###### El oír está relacionado con la <u>palabra</u> acerca de Cristo.
-
-###### El argumento <u>mantiene</u> la misma secuencia:
-- palabra
-- oír
-- fe
-
-##### <u>Observación</u> desarrollacional:
-###### Pablo ha respondido <u>a</u> la pregunta de cómo surge la fe.
-
-###### El siguiente versículo planteará una nueva <u>objeción</u>:
-> “¿Acaso nunca han oído?”
-
-### Romanos 10:18
-Pero yo digo, ¿acaso nunca han oído? Ciertamente que sí: «POR TODA LA TIERRA HA SALIDO SU VOZ, Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
-
-#### Pero yo digo,
-##### Pablo introduce <u>una</u> nueva pregunta.
-
-###### El argumento continúa avanzando mediante objeciones <u>y</u> respuestas.
-
-#### ¿acaso nunca han oído?
-##### Pablo formula <u>la</u> objeción de manera directa.
-
-###### Si la fe viene del oír, podría preguntarse si el <u>problema</u> fue que nunca oyeron.
-
-##### Observación <u>importante</u>:
-###### <u>La</u> pregunta se enfoca en el oír.
-
-#### Ciertamente que sí:
-##### <u>Pablo</u> rechaza inmediatamente esa explicación.
-
-###### La respuesta es <u>enfática</u>.
-
-###### El problema no fue falta <u>de</u> oír.
-
-###### Pablo descarta una posible explicación antes <u>de</u> continuar.
-
-#### «POR TODA LA TIERRA HA SALIDO SU VOZ,
-##### Pablo responde a la pregunta planteada en el versículo <u>anterior</u>.
-
-###### La cuestión <u>era</u>:
-> «¿Acaso nunca han oído?»
-
-###### La respuesta de <u>Pablo</u> es:
-> «Sí».
-
-###### La cita es presentada como evidencia de <u>que</u> el mensaje ha sido dado a conocer.
-
-##### Observación <u>importante</u>:
-###### El énfasis recae sobre el alcance <u>del</u> anuncio.
-
-###### La explicación de Pablo no apunta <u>a</u> una falta de proclamación.
-
-###### El mensaje ha <u>salido</u>.
-
-#### Y HASTA LOS CONFINES DEL MUNDO SUS PALABRAS».
-##### La segunda línea amplía aún más el alcance de <u>la</u> cita.
-
-###### La proclamación es presentada en términos <u>amplios</u>.
-
-###### El énfasis continúa <u>siendo</u> la difusión del mensaje.
-
-##### <u>Observación</u> desarrollacional:
-###### Pablo descarta la idea de que <u>el</u> problema haya sido falta de oír.
-
-###### La siguiente <u>pregunta</u> ya no será:
-> «¿No oyeron?»
-
-###### <u>Sino</u>:
-> «¿No entendieron?»
-
-##### Observación dentro del argumento <u>de</u> Romanos 9–11
-
-###### Desde Romanos 9, Pablo ha estado mostrando que Dios ha hablado repetidamente <u>mediante</u> las Escrituras.
-
-###### Ahora añade que el mensaje también ha sido <u>proclamado</u>.
-
-###### <u>La</u> explicación ya no puede encontrarse en la ausencia de palabra o de anuncio.
-
-###### El argumento continúa avanzando <u>hacia</u> la respuesta que se dio a ese mensaje.
-
-### Romanos 10:19
-Y añado: ¿Acaso Israel no sabía? En primer lugar, Moisés dice: «YO LOS PROVOCARÉ A CELOS CON UN PUEBLO QUE NO ES PUEBLO; CON UN PUEBLO SIN ENTENDIMIENTO LOS PROVOCARÉ A IRA».
-
-#### Y añado: ¿Acaso Israel no sabía?
-##### Pablo <u>plantea</u> una nueva pregunta.
-
-###### El versículo anterior <u>respondió</u>:
-> “¿No oyeron?”
-
-###### <u>Ahora</u> la pregunta cambia.
-
-##### Observación <u>importante</u>:
-###### <u>El</u> problema ya no es oír.
-
-###### <u>La</u> pregunta ahora es:
-> “¿Israel no sabía?”
-
-###### Pablo continúa avanzando mediante objeciones <u>y</u> respuestas.
-
-#### En primer lugar, Moisés dice:
-##### Pablo introduce al <u>primer</u> testigo.
-
-###### La respuesta no comienza con una explicación <u>personal</u>.
-
-###### <u>Comienza</u> con Moisés.
-
-##### <u>Observación</u> importante:
-
-###### Pablo responde la pregunta <u>apelando</u> nuevamente a las Escrituras.
-
-#### «YO LOS PROVOCARÉ A CELOS
-##### La cita anuncia una reacción <u>futura</u>.
-
-###### El énfasis recae sobre la <u>provocación</u> a celos.
-
-##### Observación <u>importante</u>:
-###### El sujeto principal de la acción es <u>Dios</u>.
-
-###### Dios mismo <u>anuncia</u> lo que hará.
-
-#### CON UN PUEBLO QUE NO ES PUEBLO;
-##### La cita <u>identifica</u> el medio utilizado.
-
-###### La <u>provocación</u> ocurre mediante un pueblo descrito de manera inesperada:
-> “un pueblo que no es pueblo”.
-
-##### <u>Observación</u> desarrollacional:
-###### Esta expresión recuerda temas que ya <u>aparecieron</u> anteriormente en Romanos 9.
-
-#### CON UN PUEBLO SIN ENTENDIMIENTO
-##### La descripción <u>continúa</u>.
-
-###### El mismo grupo recibe <u>una</u> segunda caracterización.
-
-##### <u>Observación</u> importante:
-###### Pablo todavía no explica la <u>cita</u>.
-
-###### Primero permite que Moisés <u>hable</u>.
-
-#### LOS PROVOCARÉ A IRA».
-##### La <u>cita</u> concluye con una segunda reacción.
-
-###### Primero aparecieron los <u>celos</u>.
-
-###### <u>Ahora</u> aparece la ira.
-
-###### <u>La</u> respuesta de Pablo a la pregunta:
-> “¿Israel no sabía?”
-
-###### <u>comienza</u> con una cita de Moisés.
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo añadirá un <u>segundo</u> testigo.
-
-###### Moisés será seguido por <u>Isaías</u>.
-
-### Romanos 10:20
-E Isaías es muy osado, y dice: «FUI HALLADO POR LOS QUE NO ME BUSCABAN; ME MANIFESTÉ A LOS QUE NO PREGUNTABAN POR MÍ».
-
-#### E Isaías es muy osado, y dice:
-##### <u>Pablo</u> añade un segundo testigo.
-
-###### Después de citar a <u>Moisés</u>, ahora cita a Isaías.
-
-##### <u>Observación</u> importante:
-###### La respuesta continúa <u>apoyándose</u> en las Escrituras.
-
-###### <u>Moisés</u> habló primero.
-
-###### Isaías <u>habla</u> ahora.
-
-#### «FUI HALLADO
-##### <u>La</u> cita comienza con una afirmación sorprendente.
-
-###### El énfasis no recae en la búsqueda de las <u>personas</u>.
-
-###### Recae en el hecho de <u>ser</u> hallado.
-
-#### POR LOS QUE NO ME BUSCABAN;
-##### La <u>cita</u> presenta un contraste inesperado.
-
-###### Los que hallaron no <u>son</u> descritos como personas que estaban buscando.
-
-##### <u>Observación</u> importante:
-###### La ausencia de búsqueda es enfatizada <u>por</u> la propia cita.
-
-###### Sin embargo, <u>el</u> hallazgo ocurre igualmente.
-
-#### ME MANIFESTÉ
-##### La misma idea <u>continúa</u> mediante una segunda expresión.
-
-###### La cita sigue destacando <u>la</u> iniciativa del hablante.
-
-###### Los dos <u>miembros</u> son paralelos:
-- fui hallado
-- me manifesté
-
-#### A LOS QUE NO PREGUNTABAN POR MÍ».
-##### <u>La</u> cita concluye con una segunda descripción negativa.
-
-###### <u>Primero</u>:
-> no me buscaban
-
-###### <u>Ahora</u>:
-> no preguntaban por mí
-
-##### Observación <u>desarrollacional</u>:
-###### <u>Isaías</u> describe una situación inesperada.
-
-###### Personas que no buscaban ni preguntaban terminan encontrando aquello que no estaban <u>buscando</u>.
-
-###### El siguiente <u>versículo</u> contrastará esta situación con Israel.
-
-### Romanos 10:21
-Pero en cuanto a Israel, dice: «TODO EL DÍA HE EXTENDIDO MIS MANOS A UN PUEBLO DESOBEDIENTE Y REBELDE».
-
-#### Pero en cuanto a Israel, dice:
-##### Pablo <u>introduce</u> un contraste explícito.
-
-###### <u>El</u> versículo anterior describió a quienes no buscaban.
-
-###### Ahora <u>Pablo</u> dirige la atención directamente a Israel.
-
-##### <u>Observación</u> importante:
-###### El contraste <u>ya</u> no está implícito.
-
-###### <u>Israel</u> es mencionado por nombre.
-
-#### «TODO EL DÍA HE EXTENDIDO MIS MANOS
-##### <u>La</u> cita presenta una acción continua.
-
-###### El énfasis recae sobre la persistencia de <u>la</u> acción.
-
-###### <u>La</u> expresión:
-> “todo el día”
-- subraya esa continuidad.
-
-##### <u>Observación</u> importante:
-###### La cita describe iniciativa constante <u>por</u> parte del hablante.
-
-#### A UN PUEBLO DESOBEDIENTE Y REBELDE».
-##### La cita identifica <u>la</u> respuesta del pueblo.
-
-###### El problema <u>descrito</u> no es falta de oportunidad.
-
-###### El problema es presentado en términos <u>de</u> respuesta.
-
-###### La cita <u>termina</u> con dos descripciones paralelas:
-- desobediente
-- rebelde
-
-##### Observación <u>desarrollacional</u>:
-###### Romanos 10 termina con <u>una</u> tensión clara:
-- unos no buscaban y hallaron
-- Israel es descrito como desobediente y rebelde
-
-###### Esta tensión conduce directamente a la <u>pregunta</u> que abre Romanos 11:
-> “¿Acaso ha desechado Dios a Su pueblo?”
-
->En Síntesis
->- Pablo contrasta dos respuestas distintas frente a la justicia de Dios.
->- Los gentiles alcanzaron la justicia por fe, mientras que Israel tropezó al procurar establecer una justicia propia.
->- Para explicar esta situación, Pablo dirige la atención a Cristo y afirma que Él es el fin de la ley para justicia a todo aquel que cree.
->- Después apela a Moisés para mostrar que la palabra de Dios no estaba lejos, sino cerca, y desarrolla esa palabra en relación con Cristo, la fe y la respuesta a ella.
-Las Escrituras presentan una promesa amplia: «Todo el que cree», «Todo el que invoque el nombre del Señor»
->- Finalmente, Pablo demuestra que el problema no fue falta de palabra, falta de anuncio ni falta de oportunidad.
->- El mensaje fue proclamado, pero Israel es descrito como un pueblo desobediente y rebelde, preparando así la pregunta que abrirá Romanos 11: «¿Acaso ha desechado Dios a Su pueblo?»
-
-<!-- @quiz quiz-2 -->
-
-## Romanos 11:1–10 — Dios no ha rechazado a Su pueblo
-
-### Romanos 11:1
-Digo entonces: ¿Acaso ha desechado Dios a Su pueblo? ¡De ningún modo! Porque yo también soy israelita, descendiente de Abraham, de la tribu de Benjamín.
-
-#### Digo entonces:
-##### Pablo extrae una conclusión <u>de</u> lo que acaba de decir.
-
-###### El versículo anterior terminó describiendo a <u>Israel</u> como:
-- desobediente
-- rebelde
-
-###### <u>Ahora</u> Pablo plantea la pregunta que surge naturalmente de esa descripción.
-
-###### Romanos 11 comienza respondiendo <u>una</u> objeción.
-
-#### ¿Acaso ha desechado Dios a Su pueblo?
-##### <u>Pablo</u> formula la pregunta de manera directa.
-
-###### <u>Después</u> de todo lo dicho sobre Israel, esta es la conclusión que podría parecer más evidente.
-
-##### Observación <u>importante</u>:
-###### La pregunta no es acerca de si Israel fue <u>desobediente</u>.
-
-###### <u>La</u> pregunta es si Dios ha rechazado a Su pueblo.
-
-#### ¡De ningún modo!
-##### Pablo responde <u>inmediatamente</u>.
-
-###### No <u>deja</u> la pregunta abierta.
-
-###### <u>La</u> respuesta es una negación enfática.
-
-##### Observación <u>importante</u>:
-###### La <u>conclusión</u> correcta no es:
-> “Dios ha rechazado a Su pueblo”.
-
-#### Porque yo también soy israelita,
-##### Pablo presenta <u>una</u> evidencia personal.
-
-###### Su <u>respuesta</u> no comienza con una teoría.
-
-###### Comienza <u>con</u> un hecho.
-
-##### Observación <u>importante</u>:
-
-###### <u>Pablo</u> se identifica explícitamente como israelita.
-
-###### Su <u>propia</u> existencia forma parte de la respuesta que está construyendo.
-
-#### descendiente de Abraham,
-##### Pablo <u>añade</u> una segunda identificación.
-
-###### No solamente <u>afirma</u> ser israelita.
-
-###### También afirma pertenecer <u>a</u> la descendencia de Abraham.
-
-#### de la tribu de Benjamín.
-##### Pablo completa la <u>identificación</u>.
-
-###### La referencia se vuelve aún <u>más</u> específica.
-
-###### <u>Pablo</u> señala incluso su tribu.
-
-##### <u>Observación</u> desarrollacional:
-###### <u>La</u> respuesta de Pablo comienza con su propio caso.
-
-###### En los versículos siguientes ampliará el argumento y mostrará que su <u>caso</u> no es una excepción aislada.
-
-###### La discusión se moverá hacia el tema <u>del</u> remanente.
-
-### Romanos 11:2
-Dios no ha desechado a Su pueblo, al cual conoció con anterioridad. ¿O no saben lo que dice la Escritura en el pasaje sobre Elías, cómo suplica a Dios contra Israel:
-
-#### Dios no ha desechado a Su pueblo,
-##### Pablo <u>repite</u> la respuesta dada en el versículo anterior.
-
-###### <u>La</u> pregunta fue:
-> “¿Acaso ha desechado Dios a Su pueblo?”
-
-###### La respuesta continúa siendo <u>la</u> misma:
-> “Dios no ha desechado a Su pueblo”.
-
-##### Observación <u>importante</u>:
-###### Pablo transforma la negación del versículo anterior en una <u>afirmación</u> directa.
-
-#### al cual conoció con anterioridad.
-##### Pablo <u>añade</u> una descripción del pueblo.
-
-###### El pueblo mencionado no aparece como un grupo desconocido <u>para</u> Dios.
-
-###### Pablo lo describe como un pueblo que Dios conoció <u>con</u> anterioridad.
-
-##### <u>Observación</u> desarrollacional:
-###### Pablo todavía no desarrolla <u>esta</u> afirmación.
-
-###### Primero dirigirá la atención a <u>un</u> episodio de las Escrituras.
-
-#### ¿O no saben lo que dice la Escritura en el pasaje sobre Elías,
-##### Pablo <u>introduce</u> un nuevo testigo.
-
-###### Después de <u>utilizar</u> a Moisés e Isaías en Romanos 10, ahora dirige la atención hacia Elías.
-
-##### <u>Observación</u> importante:
-###### Pablo sigue respondiendo <u>mediante</u> las Escrituras.
-
-###### La respuesta no depende solamente de su <u>experiencia</u> personal.
-
-#### cómo suplica a Dios contra Israel:
-##### Pablo <u>identifica</u> el momento específico que tiene en mente.
-
-###### No menciona simplemente a <u>Elías</u>.
-
-###### Menciona una ocasión en la que Elías habló a Dios <u>acerca</u> de Israel.
-
-##### Observación <u>desarrollacional</u>:
-###### Los <u>versículos</u> siguientes citarán las palabras de Elías.
-
-###### <u>Primero</u> escucharemos la evaluación de Elías.
-
-###### Después escucharemos la <u>respuesta</u> de Dios.
-
-### Romanos 11:3
-«Señor, HAN DADO MUERTE A TUS PROFETAS, HAN DERRIBADO TUS ALTARES; Y SOLO YO HE QUEDADO Y ATENTAN CONTRA MI VIDA».
-
-#### «Señor, HAN DADO MUERTE A TUS PROFETAS,
-##### Elías comienza <u>describiendo</u> la situación que observa.
-
-###### Su atención <u>se</u> dirige a los profetas del Señor.
-
-###### <u>La</u> situación presentada es grave.
-
-##### Observación <u>importante</u>:
-###### Elías presenta una evaluación muy negativa del estado <u>de</u> Israel.
-
-#### HAN DERRIBADO TUS ALTARES;
-##### Elías añade una segunda <u>acusación</u>.
-
-###### La descripción continúa acumulando evidencias de deterioro y <u>oposición</u>.
-
-###### La percepción de Elías <u>se</u> vuelve cada vez más sombría.
-
-#### Y SOLO YO HE QUEDADO
-##### Elías pasa de describir <u>al</u> pueblo a describirse a sí mismo.
-
-###### La atención <u>se</u> mueve desde:
-- tus profetas
-- tus altares
-
-###### <u>hacia</u>:
-- yo
-
-##### <u>Observación</u> importante:
-###### Elías se <u>percibe</u> como el único que permanece.
-
-###### La sensación dominante <u>es</u> aislamiento.
-
-#### Y ATENTAN CONTRA MI VIDA».
-##### <u>La</u> queja culmina con una amenaza personal.
-
-###### Elías no solamente se <u>siente</u> solo.
-
-###### También se siente <u>perseguido</u>.
-
-###### La evaluación de Elías termina en <u>una</u> conclusión implícita:
-> “Solo yo he quedado”.
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo mostrará que la evaluación de Elías no refleja <u>toda</u> la realidad.
-
-###### <u>Ahora</u> hablará Dios.
-
-### Romanos 11:4
-Pero, ¿qué le dice la respuesta divina?: «ME HE RESERVADO SIETE MIL HOMBRES QUE NO HAN DOBLADO LA RODILLA A BAAL».
-
-#### Pero, ¿qué le dice la respuesta divina?
-##### Pablo dirige <u>la</u> atención a la respuesta de Dios.
-
-###### El versículo anterior <u>presentó</u> la evaluación de Elías.
-
-###### Ahora <u>escucharemos</u> la respuesta divina.
-
-##### Observación <u>importante</u>:
-###### La percepción de Elías no es la <u>palabra</u> final.
-
-###### La respuesta de Dios sí lo <u>es</u>.
-
-#### «ME HE RESERVADO
-##### Dios describe una acción <u>realizada</u> por Él mismo.
-
-###### El énfasis recae <u>sobre</u> lo que Dios hizo.
-
-##### <u>Observación</u> importante:
-###### La respuesta <u>no</u> comienza con Elías.
-
-###### Comienza <u>con</u> Dios.
-
-#### SIETE MIL HOMBRES
-##### La respuesta corrige la <u>percepción</u> de Elías.
-
-###### Elías había <u>dicho</u>:
-> “solo yo he quedado”
-
-###### Dios muestra que la realidad era <u>diferente</u>.
-
-###### El problema no era la ausencia total de <u>fieles</u>.
-
-###### <u>El</u> problema era la percepción limitada de Elías.
-
-#### QUE NO HAN DOBLADO LA RODILLA A BAAL».
-##### Dios identifica <u>la</u> característica de estos hombres.
-
-###### Son descritos por aquello que no <u>hicieron</u>.
-
-###### <u>No</u> se inclinaron ante Baal.
-
-##### <u>Observación</u> desarrollacional:
-###### La respuesta de Dios <u>demuestra</u> que no todo Israel había abandonado al Señor.
-
-###### El siguiente versículo aplicará este <u>mismo</u> patrón al tiempo presente.
-
-### Romanos 11:5
-Y de la misma manera, también ha quedado en el tiempo presente un remanente conforme a la elección de la gracia de Dios.
-
-#### Y de la misma manera,
-##### Pablo extrae la <u>conclusión</u> del caso de Elías.
-
-###### El <u>episodio</u> no fue citado solamente como historia.
-
-###### Pablo lo utiliza como modelo para entender la <u>situación</u> actual.
-
-##### <u>Observación</u> importante:
-###### Elías y el tiempo presente son colocados en <u>paralelo</u>.
-
-#### también ha quedado en el tiempo presente
-##### Pablo aplica <u>el</u> patrón al presente.
-
-###### Lo que ocurrió en los días de <u>Elías</u> también tiene una correspondencia en el ahora.
-
-###### El argumento se <u>mueve</u> de:
-- entonces
-- ahora
-
-#### un remanente
-##### <u>Pablo</u> identifica la realidad presente.
-
-###### <u>La</u> respuesta a la pregunta de Romanos 11:1 continúa desarrollándose.
-
-###### Dios no ha rechazado a Su <u>pueblo</u>.
-
-###### Existe <u>un</u> remanente.
-
-##### <u>Observación</u> importante:
-###### El remanente <u>ocupa</u> ahora el centro del argumento.
-
-#### conforme a la elección de la gracia de Dios.
-##### Pablo <u>añade</u> la descripción del remanente.
-
-###### No solamente <u>afirma</u> que existe.
-
-###### También describe la base <u>sobre</u> la cual existe.
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo explicará la relación <u>entre</u> gracia y obras.
-
-###### La <u>atención</u> se moverá hacia la palabra:
-> “gracia”.
-
-### Romanos 11:6
-Pero si es por gracia, ya no es a base de obras, de otra manera la gracia ya no es gracia.
-
-#### Pero si es por gracia,
-##### Pablo desarrolla la descripción del remanente del <u>versículo</u> anterior.
-
-###### El remanente existe según la <u>elección</u> de la gracia de Dios.
-
-###### Ahora Pablo se concentra en <u>la</u> palabra:
-> gracia
-
-#### ya no es a base de obras,
-##### Pablo establece un <u>contraste</u>.
-
-###### Presenta <u>dos</u> categorías distintas:
-- gracia
-- obras
-
-##### <u>Observación</u> importante:
-###### Pablo <u>no</u> las presenta como fundamentos combinados.
-
-###### <u>Las</u> presenta como categorías diferentes.
-
-#### de otra manera la gracia ya no es gracia.
-##### Pablo <u>explica</u> la razón.
-
-###### <u>Si</u> la base fuera otra, la gracia dejaría de ser gracia.
-
-###### <u>El</u> énfasis del versículo no recae sobre las obras.
-
-###### Recae sobre la naturaleza <u>de</u> la gracia.
-
-##### Observación <u>desarrollacional</u>:
-###### Después de <u>aclarar</u> la base del remanente, Pablo volverá a la situación general de Israel.
-
-### Romanos 11:7
-Entonces ¿qué? Aquello que Israel busca no lo ha alcanzado, pero los que fueron escogidos lo alcanzaron y los demás fueron endurecidos.
-
-#### Entonces ¿qué?
-##### Pablo <u>extrae</u> una conclusión.
-
-###### Después de hablar del remanente <u>y</u> de la gracia, ahora resume la situación.
-
-###### <u>La</u> pregunta prepara una respuesta resumida.
-
-#### Aquello que Israel busca no lo ha alcanzado,
-##### Pablo <u>comienza</u> con el resultado relacionado con Israel.
-
-###### Israel aparece <u>buscando</u>.
-
-###### Sin embargo, no <u>alcanza</u> aquello que busca.
-
-##### <u>Observación</u> importante:
-###### Pablo enfatiza el contraste <u>entre</u> búsqueda y resultado.
-
-#### pero los que fueron escogidos lo alcanzaron
-##### <u>Pablo</u> presenta el contraste.
-
-###### Lo que Israel no alcanzó, otro <u>grupo</u> sí lo alcanzó.
-
-###### El versículo queda dividido en dos <u>resultados</u> diferentes:
-- no alcanzó
-- alcanzó
-
-#### y los demás fueron endurecidos;
-##### Pablo <u>añade</u> un tercer grupo.
-
-###### Primero habló de <u>Israel</u>.
-
-###### <u>Después</u> habló de los escogidos.
-
-###### Ahora <u>habla</u> de los demás.
-
-##### <u>Observación</u> importante:
-
-###### El versículo <u>termina</u> con la palabra:
-> endurecidos
-
-###### Esa afirmación será desarrollada y respaldada por las Escrituras en los versículos <u>siguientes</u>.
-
-##### Observación <u>desarrollacional</u>:
-###### Pablo ha resumido la situación actual en tres <u>declaraciones</u>:
-- Israel busca
-- la elección alcanza
-- los demás son endurecidos
-
-###### Los <u>versículos</u> siguientes explicarán este endurecimiento con citas de las Escrituras.
-
-### Romanos 11:8
-tal como está escrito: «DIOS LES DIO UN ESPÍRITU EMBOTADO, OJOS CON QUE NO VEN Y OÍDOS CON QUE NO OYEN, HASTA EL DÍA DE HOY».
-
-#### tal como está escrito:
-##### Pablo apoya con <u>las</u> Escrituras la afirmación que acaba de hacer.
-
-###### El <u>versículo</u> anterior terminó diciendo:
-> “los demás fueron endurecidos”.
-
-###### Ahora Pablo muestra que este patrón ya estaba <u>escrito</u>.
-
-##### <u>Observación</u> importante:
-###### Pablo no presenta el endurecimiento como <u>una</u> idea nueva.
-
-###### Lo apoya <u>con</u> las Escrituras.
-
-#### «DIOS LES DIO UN ESPÍRITU EMBOTADO,
-##### La cita describe una <u>condición</u> dada por Dios.
-
-###### El énfasis recae <u>en</u> la incapacidad de responder correctamente.
-
-##### <u>Observación</u> importante:
-###### Pablo continúa explicando el endurecimiento <u>mencionado</u> en el versículo anterior.
-
-#### OJOS CON QUE NO VEN
-##### <u>La</u> cita utiliza la imagen de los ojos.
-
-###### Los ojos <u>están</u> presentes.
-
-###### Sin <u>embargo</u>, no ven.
-
-###### La descripción <u>apunta</u> a una falta de percepción.
-
-#### Y OÍDOS CON QUE NO OYEN,
-##### La cita añade una segunda <u>imagen</u> paralela.
-
-###### Ahora la atención se dirige a <u>los</u> oídos.
-
-###### Los oídos <u>están</u> presentes.
-
-###### Sin <u>embargo</u>, no oyen.
-
-###### Los dos paralelos comunican la <u>misma</u> idea:
-- ojos que no ven
-- oídos que no oyen
-
-#### HASTA EL DÍA DE HOY».
-##### La cita añade <u>una</u> referencia temporal.
-
-###### La condición descrita no aparece <u>como</u> algo momentáneo.
-
-###### La cita la <u>presenta</u> como una realidad que continúa hasta el presente.
-
-##### <u>Observación</u> desarrollacional:
-
-###### Pablo sigue <u>explicando</u> el endurecimiento mencionado en Romanos 11:7.
-
-###### El <u>siguiente</u> versículo añadirá otro testigo de las Escrituras.
-
-###### Después de Moisés e Isaías, ahora <u>aparecerá</u> David.
-
-### Romanos 11:9
-Y David dice: «SU BANQUETE SE CONVIERTA EN LAZO Y EN TRAMPA, Y EN PIEDRA DE TROPIEZO Y EN RETRIBUCIÓN PARA ELLOS.
-
-#### Y David dice:
-##### Pablo añade otro testigo de las <u>Escrituras</u>.
-
-###### Después de la cita <u>anterior</u>, ahora introduce a David.
-
-##### <u>Observación</u> importante:
-###### <u>Pablo</u> continúa respaldando su argumento mediante las Escrituras.
-
-###### El <u>endurecimiento</u> mencionado en Romanos 11:7 sigue siendo el tema.
-
-#### «SU BANQUETE
-##### La cita comienza con algo que <u>normalmente</u> se asociaría con provisión y bienestar.
-
-###### La atención se dirige a aquello <u>que</u> pertenece a ellos.
-
-##### Observación <u>importante</u>:
-###### Lo que sigue <u>mostrará</u> una inversión inesperada.
-
-#### SE CONVIERTA EN LAZO
-##### La cita presenta un cambio de <u>función</u>.
-
-###### Lo que estaba <u>delante</u> de ellos se convierte en ocasión de captura.
-
-###### <u>La</u> cita comienza una serie de imágenes negativas.
-
-#### Y EN TRAMPA,
-##### David añade una segunda <u>imagen</u>.
-
-###### <u>La</u> idea anterior es reforzada mediante una expresión paralela.
-
-##### Observación <u>importante</u>:
-###### La <u>acumulación</u> de imágenes aumenta la intensidad de la descripción.
-
-#### Y EN PIEDRA DE TROPIEZO
-##### La cita continúa desarrollando la <u>misma</u> idea.
-
-###### Ahora aparece <u>el</u> lenguaje de tropiezo.
-
-##### Observación <u>desarrollacional</u>:
-
-###### El tema del tropiezo ya ha aparecido <u>anteriormente</u> en Romanos.
-
-###### La <u>imagen</u> vuelve a surgir dentro de esta descripción.
-
-#### Y EN RETRIBUCIÓN PARA ELLOS.
-##### La cita concluye con <u>una</u> consecuencia.
-
-###### La secuencia termina con una <u>referencia</u> a retribución.
-
-###### La cita presenta <u>una</u> cadena creciente:
-- lazo
-- trampa
-- tropiezo
-- retribución
-
-##### <u>Observación</u> desarrollacional:
-###### David continúa describiendo la condición que <u>Pablo</u> está utilizando para explicar el endurecimiento.
-
-###### La cita todavía no ha <u>terminado</u>.
-
-###### El siguiente versículo añadirá una segunda línea <u>a</u> la misma declaración de David.
-
-### Romanos 11:10
-«OSCURÉZCANSE SUS OJOS PARA QUE NO PUEDAN VER, Y DOBLA SUS ESPALDAS PARA SIEMPRE».
-
-#### OSCURÉZCANSE SUS OJOS
-##### David continúa <u>describiendo</u> la condición presentada en la cita anterior.
-
-###### La imagen vuelve a enfocarse en <u>la</u> incapacidad de percibir.
-
-##### <u>Observación</u> importante:
-###### La descripción es paralela a lo que ya apareció <u>en</u> Romanos 11:8.
-
-###### El <u>tema</u> sigue siendo el endurecimiento.
-
-#### PARA QUE NO PUEDAN VER,
-##### La cita explica el resultado <u>de</u> la imagen anterior.
-
-###### Los ojos están <u>presentes</u>.
-
-###### Sin <u>embargo</u>, no ven.
-
-###### La <u>misma</u> idea se repite una vez más:
-- ojos
-- incapacidad para ver
-
-#### Y DOBLA SUS ESPALDAS PARA SIEMPRE».
-##### David añade una <u>segunda</u> imagen.
-
-###### Ahora la atención <u>se</u> dirige a la espalda.
-
-###### <u>La</u> descripción comunica una condición continua.
-
-##### <u>Observación</u> importante:
-###### La cita concluye reforzando la <u>realidad</u> descrita en Romanos 11:7.
-
-##### Observación <u>desarrollacional</u>:
-###### Después de confirmar el endurecimiento mediante <u>las</u> Escrituras, Pablo formulará una nueva pregunta.
-
-###### La siguiente cuestión <u>ya</u> no será:
-> “¿Fueron endurecidos?”
-
-###### <u>Sino</u>:
-> “¿Tropezaron para caer?”
+-   La casa de Dios necesita siervos conformes a ese propósito.
+-   Los líderes ayudan a proteger a la iglesia.
+-   Su vida debe respaldar la verdad que enseñan.
 
 > En Síntesis
->- Pablo responde directamente a la pregunta: «¿Acaso ha desechado Dios a Su pueblo?» Su respuesta es clara desde el comienzo: «¡De ningún modo!»
->- Para demostrarlo, Pablo apela primero a su propio caso y luego al ejemplo de Elías, mostrando que Dios siempre ha preservado un remanente.
->- El mismo patrón continúa en el tiempo presente: Existe un remanente conforme a la elección de la gracia de Dios.
->- Pablo afirma que aquello que Israel buscaba no lo alcanzó, mientras que los escogidos lo alcanzaron y los demás fueron endurecidos.
->- Finalmente, apela nuevamente a las Escrituras para mostrar que este endurecimiento no es una realidad inesperada ni ajena al testimonio bíblico.
->- La siguiente sección planteará una nueva pregunta: «¿Acaso tropezaron para caer?»
+>
+> - Pablo presenta los requisitos para quienes desean servir como obispos en la casa de Dios, enfocándose principalmente en el carácter visible de la persona.
+> - El obispo debe ser irreprochable, demostrando fidelidad, dominio propio, madurez, hospitalidad y una vida digna de imitación.
+> - También debe ser apto para enseñar, ya que la protección de la iglesia depende de la correcta transmisión de la verdad frente a las doctrinas diferentes.
+> - Su capacidad para cuidar la iglesia debe estar previamente demostrada en la manera en que gobierna y cuida su propia casa.
+> - No debe ser un recién convertido ni una persona dominada por el orgullo, pues el liderazgo requiere madurez espiritual comprobada.
+> - Además, debe poseer un buen testimonio tanto dentro como fuera de la iglesia, de modo que su vida respalde la verdad que enseña y el propósito de la casa de Dios.
 
-## Romanos 11:11–32 — El propósito de Dios permanece
+### 1 Timoteo 3:8
 
-##### Hasta <u>este</u> punto Pablo ha demostrado que existe un remanente.
+De la misma manera, también los diáconos deben ser dignos, de una sola palabra, no dados al mucho vino, ni amantes de ganancias deshonestas,
 
-##### Ahora comienza a explicar por qué el tropiezo actual de Israel no <u>es</u> el final de la historia.
+#### De la misma manera, también los diáconos
 
-##### Romanos 11:11–32 avanza <u>repetidamente</u> desde:
-###### <u>rechazo</u> presente
-###### ↓
-###### beneficio <u>para</u> los gentiles
-###### ↓
-###### restauración <u>futura</u> de Israel
+##### Pablo pasa ahora de los obispos a los diáconos.
 
-### Romanos 11:11
-Digo entonces: ¿Acaso tropezaron para caer? ¡De ningún modo! Pero por su transgresión ha venido la salvación a los gentiles, para causarles celos.
+##### Aunque sus responsabilidades no son idénticas, el énfasis continúa siendo el mismo: el carácter de quienes sirven dentro de la casa de Dios.
 
-#### Digo entonces:
-##### <u>Pablo</u> introduce una nueva pregunta.
+-   Pablo introduce un nuevo grupo de siervos.
+-   La atención sigue puesta en el carácter.
+-   Los requisitos continúan siendo observables.
 
-###### La pregunta surge directamente de la discusión <u>anterior</u> acerca de Israel.
+#### deben ser dignos
 
-###### Después de hablar del remanente y <u>del</u> endurecimiento, Pablo continúa desarrollando el tema.
+##### El servicio de un diácono debe estar acompañado por una vida respetable.
 
-#### ¿Acaso tropezaron para caer?
-##### Pablo <u>formula</u> la pregunta que va a dirigir esta sección.
+##### La dignidad ya apareció anteriormente en la carta como una característica deseable dentro de la vida cristiana.
 
-###### <u>El</u> versículo gira alrededor de dos ideas:
-- tropezar
-- caer
+-   Deben ser personas respetables.
+-   Su conducta debe respaldar su servicio.
+-   Su carácter debe inspirar confianza.
 
-##### Observación <u>importante</u>:
-###### La pregunta busca aclarar <u>el</u> significado del tropiezo de Israel.
+#### de una sola palabra
 
-###### <u>El</u> resto de la sección desarrollará esta cuestión.
+##### El diácono debe caracterizarse por la integridad en su manera de hablar.
 
-#### ¡De ningún modo!
-##### Pablo responde <u>inmediatamente</u>.
+##### No debe ser una persona que habla de manera contradictoria según la circunstancia o la audiencia.
 
-###### La respuesta <u>es</u> enfática.
+-   Su palabra debe ser confiable.
+-   Debe hablar con integridad.
+-   Debe existir coherencia entre lo que dice y lo que hace.
 
-###### Pablo rechaza la conclusión implícita en <u>la</u> pregunta.
+#### no dados al mucho vino
 
-##### <u>Observación</u> importante:
-###### El versículo no permite concluir <u>que</u> el tropiezo sea el final de la historia.
+##### Pablo repite una característica semejante a la exigida para los obispos.
 
-###### Pablo continúa desarrollando el argumento después de negar esa <u>conclusión</u>.
+##### El servicio dentro de la casa de Dios requiere dominio propio.
 
-#### Pero por su transgresión ha venido la salvación a los gentiles,
-##### Pablo introduce una <u>consecuencia</u> del tropiezo de Israel.
+-   No debe estar controlado por la bebida.
+-   Debe mostrar autocontrol.
+-   Debe vivir con sobriedad.
 
-###### La atención se desplaza <u>hacia</u> aquello que ocurrió a partir de su transgresión.
+#### ni amantes de ganancias deshonestas
 
-###### <u>El</u> resultado mencionado es:
-> «la salvación a los gentiles».
+##### El diácono no debe estar gobernado por el deseo de obtener beneficios indebidos.
 
-##### Observación <u>importante</u>:
-###### Pablo no se detiene <u>en</u> la transgresión misma.
+##### Pablo continúa describiendo una vida libre de motivaciones egoístas.
 
-###### Dirige la atención hacia lo que ocurrió a partir <u>de</u> ella.
+-   El servicio no debe ser motivado por la ganancia.
+-   El dinero no debe controlar sus decisiones.
+-   Su carácter debe reflejar integridad.
 
-#### para causarles celos.
-##### <u>Pablo</u> añade un propósito adicional.
+##### La lista continúa desarrollando el mismo principio visto en los obispos.
 
-###### La llegada de la salvación a los gentiles no es presentada como <u>el</u> punto final del argumento.
+-   La casa de Dios necesita siervos confiables.
+-   El carácter importa tanto como la capacidad.
+-   La vida del siervo debe corresponder a la responsabilidad que desempeña.
 
-###### Pablo afirma que también <u>tiene</u> relación con Israel.
+### 1 Timoteo 3:9
 
-##### Observación <u>desarrollacional</u>:
-###### Este tema <u>volverá</u> a aparecer en los versículos siguientes.
+sino guardando el misterio de la fe con limpia conciencia.
 
-###### La sección <u>comienza</u> con una secuencia que continuará desarrollándose:
-- transgresión
-- salvación a los gentiles
-- celos
+#### sino guardando el misterio de la fe
 
-###### Los versículos posteriores ampliarán cada uno <u>de</u> estos elementos.
+##### Pablo añade una característica fundamental para quienes sirven como diáconos.
 
-### Romanos 11:12
-Y si su transgresión es riqueza para el mundo, y su fracaso es riqueza para los gentiles, ¡cuánto más será su plenitud!
+##### El servicio dentro de la casa de Dios no depende únicamente del carácter visible. También requiere aferrarse firmemente a la verdad revelada por Dios.
 
-#### Y si su transgresión es riqueza para el mundo,
-##### Pablo <u>continúa</u> desarrollando la afirmación del versículo anterior.
+-   Deben guardar el misterio de la fe.
+-   Deben permanecer en la verdad.
+-   El servicio debe estar fundamentado en la fe.
 
-###### Acaba de decir que por su transgresión vino la salvación a <u>los</u> gentiles.
+##### Esta expresión conecta con varios temas desarrollados anteriormente en la carta.
 
-###### Ahora considera las implicaciones de ese <u>hecho</u>.
+-   Algunos se desviaron de la verdad.
+-   Algunos naufragaron en cuanto a la fe.
+-   Los diáconos deben guardar aquello que otros abandonaron.
 
-##### Observación <u>importante</u>:
-###### La transgresión de Israel es <u>asociada</u> con riqueza para el mundo.
+#### con limpia conciencia
 
-###### Pablo sigue describiendo aquello que <u>resultó</u> de su transgresión.
+##### La verdad debe ser sostenida con una conciencia limpia.
 
-#### y su fracaso es riqueza para los gentiles,
+##### Pablo vuelve a una idea que ya apareció en el capítulo 1. La fe y la conciencia aparecen nuevamente unidas.
 
-##### Pablo repite la misma idea mediante una <u>expresión</u> paralela.
+-   La conciencia importa.
+-   La verdad debe mantenerse con integridad.
+-   El servicio exterior debe corresponder a una realidad interior.
 
-###### <u>El</u> resultado continúa siendo:
-- riqueza
-- para los gentiles
+##### La conexión con el capítulo 1 es especialmente significativa.
 
-###### Los dos primeros <u>miembros</u> avanzan juntos.
+-   El propósito de la instrucción incluía una buena conciencia (1:5).
+-   Algunos rechazaron una buena conciencia y naufragaron en la fe (1:19).
+-   Los diáconos deben guardar la fe con limpia conciencia.
 
-###### <u>Ambos</u> describen lo que ocurrió a partir de la situación de Israel.
+##### El requisito apunta tanto a la doctrina como al carácter.
 
-##### <u>Observación</u> importante:
-###### Pablo todavía está hablando de <u>resultados</u> ya ocurridos.
+-   Deben conservar la verdad.
+-   Deben vivir conforme a la verdad.
+-   La fe y la conciencia deben permanecer juntas.
 
-###### Todavía no ha llegado al <u>punto</u> principal de la comparación.
+### 1 Timoteo 3:10
 
-#### ¡cuánto más será su plenitud!
+Que también estos sean sometidos a prueba primero, y si son irreprensibles, que entonces sirvan como diáconos.
 
-##### Pablo llega <u>al</u> clímax de la comparación.
+#### Que también estos sean sometidos a prueba primero
 
-###### El <u>énfasis</u> recae sobre:
-> «cuánto más».
+##### Pablo añade una condición previa al servicio como diácono.
 
-###### Después de describir los resultados de la transgresión y del <u>fracaso</u>, dirige la atención hacia la plenitud.
+##### El carácter de una persona debe ser conocido antes de ser reconocida para servir dentro de la casa de Dios.
 
-##### <u>Observación</u> importante:
-###### La <u>comparación</u> no termina con la transgresión.
+-   El servicio no debe concederse apresuradamente.
+-   Primero debe existir evaluación.
+-   La vida del candidato debe ser examinada.
 
-###### Tampoco termina <u>con</u> el fracaso.
+##### Esta instrucción armoniza con los requisitos ya mencionados.
 
-###### <u>Pablo</u> dirige la mirada hacia algo que llama:
-> «su plenitud».
+-   Los requisitos deben ser observables.
+-   El carácter debe ser demostrado.
+-   La iglesia debe reconocer lo que ya es evidente.
 
-##### <u>Observación</u> desarrollacional:
-###### El argumento <u>comienza</u> a mirar más allá de la situación presente.
+#### y si son irreprensibles
 
-###### Pablo establece <u>una</u> comparación entre:
-- transgresión
-- fracaso
+##### Pablo establece el resultado esperado de esa evaluación.
 
-###### <u>y</u>
-- plenitud
+##### La prueba debe confirmar que la persona cumple con las cualidades requeridas para el servicio.
 
-###### Los <u>versículos</u> siguientes continuarán desarrollando esta expectativa.
+-   Debe ser hallado irreprensible.
+-   No debe existir una acusación legítima contra su conducta.
+-   Su vida debe corresponder a los requisitos descritos.
 
-### Romanos 11:13
-Pero a ustedes hablo, gentiles. Entonces, puesto que yo soy apóstol de los gentiles, honro mi ministerio,
+##### Pablo vuelve a una característica ya vista anteriormente.
 
-#### Pero a ustedes hablo, gentiles.
-##### Pablo se <u>dirige</u> ahora directamente a los gentiles.
+-   Los obispos debían ser irreprochables.
+-   Los diáconos también deben ser examinados cuidadosamente.
+-   El carácter sigue siendo el énfasis principal.
 
-###### Esta es la primera vez en la sección que identifica <u>tan</u> claramente a su audiencia inmediata.
+#### que entonces sirvan como diáconos
 
-##### Observación <u>importante</u>:
-###### El foco del <u>discurso</u> cambia.
+##### El servicio viene después de la evaluación.
 
-###### Pablo comienza a hablar <u>directamente</u> a las naciones.
+##### Pablo establece un orden claro. Primero el carácter es probado; después la persona sirve.
 
-#### puesto que yo soy apóstol de los gentiles,
-##### Pablo explica por qué les habla <u>de</u> esta manera.
+-   La prueba precede al servicio.
+-   El reconocimiento sigue a la evidencia.
+-   La responsabilidad es confiada a quienes han demostrado fidelidad.
 
-###### Su ministerio está relacionado directamente <u>con</u> ellos.
+##### Esta observación resume el principio de toda la sección.
 
-###### Pablo conecta sus palabras <u>con</u> su propia misión.
+-   La casa de Dios necesita siervos conformes a ese propósito.
+-   El deseo de servir es bueno.
+-   Pero el servicio debe estar acompañado por carácter probado y una vida consistente.
 
-#### honro mi ministerio,
-##### Pablo <u>afirma</u> el valor de su servicio.
+##### Existe debate acerca de la identidad de las mujeres mencionadas en este versículo.
 
-###### No minimiza su <u>ministerio</u>.
+##### Algunos entienden que Pablo se refiere a mujeres que sirven dentro de la iglesia. Otros entienden que se refiere a las esposas de los diáconos.
 
-###### Lo presenta <u>como</u> algo importante dentro del propósito de Dios.
+-   El texto simplemente dice "las mujeres".
+-   Pablo no utiliza aquí la expresión "sus esposas".
+-   Ambas interpretaciones han sido sostenidas por creyentes a lo largo de la historia.
 
-##### <u>Observación</u> desarrollacional:
+##### Independientemente de cuál interpretación se adopte, el énfasis del versículo permanece igual.
 
-###### El <u>siguiente</u> versículo explicará por qué Pablo habla así a los gentiles.
+-   Pablo continúa describiendo cualidades de carácter.
+-   La atención sigue puesta sobre la conducta observable.
+-   El propósito sigue siendo identificar siervos apropiados para la casa de Dios.
 
-###### Aparecerá nuevamente un tema ya mencionado <u>anteriormente</u>:
-> provocar celos.
+### 1 Timoteo 3:11
 
-### Romanos 11:14
-si en alguna manera puedo causar celos a mis compatriotas y salvar a algunos de ellos.
+De igual manera, las mujeres deben ser dignas, no calumniadoras, sino sobrias, fieles en todo.
 
-#### si en alguna manera
+#### De igual manera, las mujeres
 
-##### Pablo expresa una esperanza relacionada con <u>su</u> ministerio.
+##### Pablo introduce un nuevo grupo dentro de la sección.
 
-###### No presenta el resultado <u>como</u> algo automático.
+##### La expresión "de igual manera" conecta este versículo con los requisitos que viene describiendo para quienes sirven en la casa de Dios.
 
-###### Habla de aquello <u>que</u> espera alcanzar mediante el ministerio que desarrolla entre los gentiles.
-#### puedo causar celos a mis compatriotas
-##### Pablo retoma un tema que ya apareció anteriormente en esta <u>sección</u>.
+-   Pablo continúa la misma discusión.
+-   El énfasis sigue siendo el carácter.
+-   La atención permanece sobre cualidades observables.
 
-###### Romanos 11:11 <u>afirmó</u>:
-> «por su transgresión ha venido la salvación a los gentiles, para causarles celos».
+#### deben ser dignas
 
-###### Ahora Pablo vuelve a mencionar esa misma <u>idea</u>.
+##### Pablo comienza con una característica ya familiar en la sección.
 
-##### Observación <u>importante</u>:
-###### Los <u>celos</u> continúan formando parte del desarrollo del argumento.
+##### La conducta debe ser respetable y acorde con el servicio dentro de la casa de Dios.
 
-###### Pablo sigue describiendo un proceso que involucra tanto a los <u>gentiles</u> como a Israel.
+-   La dignidad vuelve a aparecer.
+-   La conducta importa.
+-   El carácter visible sigue siendo fundamental.
 
-##### Observación <u>desarrollacional</u>:
-###### La secuencia <u>continúa</u> avanzando:
+#### no calumniadoras
 
-- salvación a los gentiles
-- celos
-- salvación
+##### Pablo excluye una conducta que puede causar daño a otros.
 
-#### y salvar a algunos de ellos.
+##### El uso de las palabras puede edificar o destruir. Pablo exige integridad también en esta área.
 
-##### Pablo expresa <u>el</u> propósito que persigue.
+-   La comunicación importa.
+-   No deben dañar la reputación de otros.
+-   La lengua debe estar bajo control.
 
-###### No busca simplemente <u>provocar</u> una reacción.
+#### sino sobrias
 
-###### Su esperanza es que algunos sean <u>salvados</u>.
+##### Pablo vuelve a enfatizar el dominio propio.
 
-##### Observación <u>importante</u>:
-###### El ministerio <u>de</u> Pablo entre los gentiles continúa conectado con Israel.
+##### La sobriedad aparece repetidamente entre los requisitos de quienes sirven en la iglesia.
 
-###### Su mirada permanece <u>puesta</u> en su propio pueblo.
+-   Deben actuar con sensatez.
+-   Deben mostrar equilibrio.
+-   Deben vivir con autocontrol.
 
-##### Observación <u>desarrollacional</u>:
-###### El <u>siguiente</u> versículo ampliará la comparación iniciada anteriormente.
+#### fieles en todo
 
-###### Después de <u>hablar</u> de transgresión, riqueza y plenitud, Pablo pasará a hablar de:
-- rechazo
-- reconciliación
-- aceptación
+##### Pablo concluye resaltando la confiabilidad.
 
-###### La atención continúa desplazándose hacia aquello que espera <u>que</u> ocurra.
+##### La fidelidad debe caracterizar toda su vida y servicio.
 
-### Romanos 11:15
-Porque si el excluirlos a ellos es la reconciliación del mundo, ¿qué será su admisión, sino vida de entre los muertos?
+-   Deben ser personas confiables.
+-   Deben mostrar constancia.
+-   Deben demostrar integridad en todas las áreas.
 
-#### Porque si el excluirlos a ellos es la reconciliación del mundo,
-##### <u>Pablo</u> continúa la comparación iniciada en los versículos anteriores.
+##### El énfasis de la sección permanece sin cambios.
 
-###### <u>Primero</u> habló de:
-- transgresión
-- riqueza
+-   La casa de Dios necesita siervos confiables.
+-   El carácter sigue siendo central.
+-   La vida debe respaldar el servicio.
 
-###### Ahora habla <u>de</u>:
-- rechazo
-- reconciliación
+### 1 Timoteo 3:12
 
-##### Observación <u>importante</u>:
-###### Pablo <u>sigue</u> describiendo resultados asociados con la situación presente de Israel.
+Que los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos y sus propias casas.
 
-###### <u>El</u> rechazo es relacionado con:
-> «la reconciliación del mundo».
+#### Que los diáconos
 
-#### ¿qué será su admisión,
-##### Pablo dirige nuevamente la atención hacia el otro lado de la <u>comparación</u>.
+##### Pablo vuelve a dirigirse específicamente a los diáconos después de la observación del versículo anterior.
 
-###### Igual que en el versículo 12, el énfasis recae sobre <u>aquello</u> que todavía espera.
+##### La sección continúa describiendo el carácter requerido para quienes sirven dentro de la casa de Dios.
 
-###### La <u>pregunta</u> mira más allá de la situación presente.
+-   Pablo retoma el tema de los diáconos.
+-   La atención sigue puesta sobre los requisitos.
+-   El énfasis continúa siendo el carácter observable.
 
-##### <u>Observación</u> importante:
-###### Toda la fuerza <u>del</u> argumento descansa sobre el contraste.
+#### sean maridos de una sola mujer
 
-###### Pablo <u>compara</u>:
-- rechazo
-- admisión
+##### Pablo repite una característica ya mencionada anteriormente para los obispos.
 
-###### y pregunta cuál será el resultado de esa <u>admisión</u>.
+##### La fidelidad dentro del matrimonio forma parte de los requisitos para quienes sirven en la iglesia.
 
-#### sino vida de entre los muertos?
-##### Pablo responde con una expresión <u>de</u> máxima intensidad.
+-   La vida familiar importa.
+-   La fidelidad importa.
+-   El carácter debe ser visible en el hogar.
 
-###### La admisión <u>es</u> asociada con:
-> «vida de entre los muertos».
+#### y que gobiernen bien sus hijos y sus propias casas
 
-###### La comparación alcanza aquí su punto más <u>alto</u>.
+##### Pablo vuelve a dirigir la atención hacia el hogar.
 
-##### <u>Observación</u> importante:
-###### Pablo no minimiza aquello que <u>ya</u> ocurrió.
+##### Al igual que ocurrió con los obispos, la manera en que una persona conduce su familia forma parte de la evaluación para el servicio.
 
-###### La reconciliación del mundo sigue <u>siendo</u> presentada como algo grande.
+-   El hogar sigue siendo importante.
+-   La familia proporciona evidencia observable del carácter.
+-   El servicio en la iglesia no está separado de la vida diaria.
 
-###### Sin <u>embargo</u>, vuelve a dirigir la atención hacia algo todavía mayor.
+##### La repetición de este requisito es significativa.
 
-##### <u>Observación</u> desarrollacional:
-###### El mismo patrón aparece repetidamente <u>en</u> esta sección:
-- transgresión → riqueza
-- fracaso → riqueza
-- plenitud → mucho más
+-   Aparece para los obispos.
+-   Aparece para los diáconos.
+-   Pablo considera importante la manera en que una persona conduce su casa.
 
-###### <u>y</u> ahora:
-- rechazo → reconciliación
-- admisión → vida de entre los muertos
+##### La sección mantiene el mismo énfasis desde el principio.
 
-###### Los versículos siguientes <u>comenzarán</u> a explicar por qué Pablo puede hablar de esta manera.
+-   La casa de Dios necesita siervos conformes a ese propósito.
+-   El carácter debe ser probado.
+-   La fidelidad debe ser visible.
+-   La vida del siervo debe corresponder a la responsabilidad que desempeña.
 
-### Romanos 11:16
-Y si el primer pedazo de masa es santo, también lo es toda la masa; y si la raíz es santa, también lo son las ramas.
+### 1 Timoteo 3:13
 
-#### Y si el primer pedazo de masa es santo,
-##### Pablo <u>introduce</u> una nueva comparación.
+Pues los que han servido bien como diáconos obtienen para sí una posición honrosa y gran confianza en la fe que es en Cristo Jesús.
 
-###### <u>Después</u> de hablar del rechazo y de la admisión, utiliza una ilustración tomada de la masa.
+#### Pues los que han servido bien como diáconos
 
-###### La atención se dirige <u>primero</u> a una porción.
+##### Pablo concluye la sección mostrando el resultado de un servicio fiel.
 
-#### también lo es toda la masa;
-##### Pablo completa <u>la</u> primera comparación.
+##### Después de describir los requisitos para los diáconos, Pablo dirige la atención a quienes desempeñan bien ese servicio.
 
-###### La relación <u>es</u> presentada entre:
-- una porción
-- el conjunto
+-   Pablo habla de diáconos que sirven bien.
+-   El énfasis recae sobre la fidelidad en el servicio.
+-   La responsabilidad debe ser ejercida correctamente.
 
-##### Observación <u>importante</u>:
-###### <u>Pablo</u> conecta una parte con aquello a lo que pertenece.
+#### obtienen para sí una posición honrosa
 
-###### La comparación avanza desde la porción <u>hacia</u> la totalidad.
+##### Pablo afirma que existe reconocimiento para quienes sirven fielmente.
 
-#### y si la raíz es santa,
-##### Pablo introduce <u>una</u> segunda comparación.
+##### El servicio dentro de la casa de Dios no es insignificante. Pablo considera honorable el trabajo realizado por quienes cumplen bien esta responsabilidad.
 
-###### Ahora cambia de la imagen de la masa a <u>la</u> imagen de un árbol.
+-   El servicio fiel es estimado.
+-   Pablo habla de una posición honrosa.
+-   El servicio tiene valor dentro de la casa de Dios.
 
-###### <u>La</u> atención se dirige a la raíz.
+##### Esta observación armoniza con el resto de la sección.
 
-##### Observación <u>importante</u>:
-###### La <u>raíz</u> ocupará un lugar importante en los versículos siguientes.
+-   Pablo no presenta el servicio como prestigio.
+-   Pablo lo presenta como una buena obra.
+-   Quienes sirven fielmente reciben honor.
 
-###### Pablo está preparando <u>una</u> nueva ilustración.
+#### y gran confianza en la fe que es en Cristo Jesús
 
-#### también lo son las ramas.
-##### Pablo completa <u>el</u> paralelo.
+##### Pablo añade un segundo resultado relacionado con la fe.
 
-###### La relación ahora <u>es</u>:
-- raíz
-- ramas
+##### El servicio fiel produce una mayor confianza y firmeza en la fe centrada en Cristo Jesús.
 
-###### <u>La</u> comparación avanza desde la raíz hacia las ramas.
+-   La fe continúa siendo el centro.
+-   El servicio y la fe aparecen relacionados.
+-   Cristo Jesús sigue siendo el fundamento de todo.
 
-##### <u>Observación</u> desarrollacional:
+##### La sección termina donde comenzó la carta.
 
-###### Las dos comparaciones siguen el mismo <u>patrón</u>:
-- porción → masa
-- raíz → ramas
+-   El propósito de la instrucción está ligado a la fe.
+-   Los diáconos deben guardar el misterio de la fe.
+-   El servicio fiel fortalece la confianza en esa fe.
 
-###### Ambas preparan la <u>ilustración</u> que Pablo desarrollará a continuación.
+##### La conclusión de 3:8–13 resume el énfasis principal.
 
-###### Los <u>siguientes</u> versículos explicarán la relación entre raíz y ramas mediante la imagen de un olivo.
-
-### Romanos 11:17
-Pero si algunas de las ramas fueron desgajadas, y tú, siendo un olivo silvestre, fuiste injertado entre ellas y fuiste hecho participante con ellas de la rica savia de la raíz del olivo,
-
-#### Pero si algunas de las ramas fueron desgajadas,
-##### Pablo comienza a desarrollar la ilustración <u>del</u> olivo.
-
-###### Después de <u>introducir</u> la relación entre raíz y ramas (11:16), ahora describe algo que ocurrió con algunas ramas.
-
-##### <u>Observación</u> importante:
-###### El texto <u>dice</u>:
-> «algunas de las ramas».
-
-###### No <u>dice</u>:
-> «todas las ramas».
-
-###### La atención debe permanecer en lo que <u>Pablo</u> afirma.
-
-#### y tú,
-##### Pablo se dirige directamente al <u>lector</u> gentil.
-
-###### La ilustración ya no es presentada <u>solamente</u> de manera general.
-
-###### Ahora incluye una <u>aplicación</u> directa.
-
-#### siendo un olivo silvestre,
-##### Pablo describe la condición <u>inicial</u> del gentil dentro de la ilustración.
-
-###### La imagen utilizada es la de un olivo <u>silvestre</u>.
-
-##### Observación <u>importante</u>:
-###### Pablo comienza describiendo <u>su</u> condición anterior.
-
-###### Todavía no habla de aquello <u>que</u> recibió.
-
-#### fuiste injertado entre ellas
-##### Pablo describe una acción <u>que</u> ocurrió sobre el gentil.
-
-###### El énfasis recae en aquello que le <u>fue</u> hecho.
-
-###### El texto <u>dice</u>:
-> «fuiste injertado».
-
-###### No <u>dice</u>:
-> «te injertaste».
-
-##### Observación <u>importante</u>:
-###### <u>El</u> movimiento de la ilustración es:
-- fuera
-- dentro
-
-###### El gentil pasa a ocupar una nueva <u>posición</u> dentro del árbol.
-
-#### y fuiste hecho participante
-##### Pablo añade el resultado <u>de</u> ese injerto.
-
-###### El énfasis se desplaza hacia <u>la</u> participación.
-
-###### El <u>gentil</u> ya no aparece como alguien separado.
-
-###### Ahora <u>participa</u> junto con otros.
-
-#### con ellas de la rica savia de la raíz del olivo,
-##### Pablo identifica aquello de lo <u>cual</u> participa.
-
-###### La participación está relacionada <u>con</u>:
-- la raíz
-- la savia
-- el olivo
-
-##### <u>Observación</u> importante:
-###### La riqueza no es presentada como <u>algo</u> originado en las ramas.
-
-###### <u>La</u> atención continúa dirigiéndose hacia la raíz.
-
-##### Observación <u>desarrollacional</u>:
-###### La ilustración ya <u>ha</u> presentado:
-
-- raíz
-- ramas naturales
-- ramas desgajadas
-- olivo silvestre
-- injerto
-- participación
-
-###### El <u>siguiente</u> versículo comenzará una advertencia dirigida al gentil.
-
-###### Pablo pasará de describir <u>el</u> injerto a corregir una posible actitud equivocada:
-> «no te jactes contra las ramas».
-
-### Romanos 11:18
-no seas arrogante para con las ramas. Pero si eres arrogante, recuerda que tú no eres el que sustenta la raíz, sino que la raíz es la que te sustenta a ti.
-
-#### no seas arrogante para con las ramas.
-##### Pablo introduce la primera advertencia directa <u>de</u> esta sección.
-
-###### Después de describir el injerto y la participación en <u>la</u> raíz, ahora corrige una posible actitud equivocada.
-
-##### Observación <u>importante</u>:
-###### <u>La</u> advertencia está dirigida al gentil injertado.
-
-###### La arrogancia mencionada no <u>es</u> presentada de manera general.
-
-###### Está dirigida <u>específicamente</u>:
-> «para con las ramas».
-
-#### Pero si eres arrogante,
-##### Pablo considera la posibilidad de que esa actitud <u>aparezca</u>.
-
-###### No afirma que <u>necesariamente</u> ocurrirá.
-
-###### Sin embargo, considera necesario advertir <u>contra</u> ella.
-
-##### Observación <u>desarrollacional</u>:
-###### La corrección que sigue se <u>enfoca</u> en la relación entre:
-- la raíz
-- las ramas
-
-#### recuerda que tú no eres el que sustenta la raíz,
-##### Pablo corrige la manera de pensar del <u>orgulloso</u>.
-
-###### El <u>injertado</u> no ocupa la posición de fundamento.
-
-###### <u>No</u> sostiene la raíz.
-
-##### <u>Observación</u> importante:
-###### La advertencia dirige la atención hacia el <u>origen</u> del sustento.
-
-###### Pablo corrige cualquier percepción de autosuficiencia <u>o</u> superioridad.
-
-#### sino que la raíz es la que te sustenta a ti.
-##### Pablo establece <u>el</u> orden correcto de la ilustración.
-
-###### La <u>raíz</u> sostiene a las ramas.
-
-###### No las ramas a <u>la</u> raíz.
-
-##### <u>Observación</u> importante:
-
-###### Toda la corrección gira <u>alrededor</u> de esta relación de dependencia.
-
-###### El énfasis recae <u>sobre</u> aquello que sostiene al injertado.
-
-##### <u>Observación</u> desarrollacional:
-###### La advertencia prepara la respuesta que aparecerá en el siguiente <u>versículo</u>.
-
-###### Pablo comenzará a responder el razonamiento <u>que</u> podría surgir:
-> «Las ramas fueron desgajadas para que yo fuera injertado».
-
-### Romanos 11:19
-Dirás entonces: «Las ramas fueron desgajadas para que yo fuera injertado».
-
-#### Dirás entonces:
-##### Pablo pone en palabras <u>el</u> razonamiento que podría surgir después de la advertencia anterior.
-
-###### <u>Acaba</u> de advertir:
-> «no seas arrogante para con las ramas».
-
-###### Ahora expresa la manera de pensar que podría producir <u>esa</u> arrogancia.
-
-##### <u>Observación</u> importante:
-###### Pablo no <u>está</u> afirmando esta conclusión.
-
-###### <u>Está</u> preparándose para responderla.
-
-#### «Las ramas fueron desgajadas
-
-##### La objeción <u>comienza</u> con algo que Pablo ya ha afirmado.
-
-###### Algunas ramas fueron <u>desgajadas</u>.
-
-###### Esa <u>parte</u> de la afirmación no es corregida.
-
-##### Observación <u>importante</u>:
-###### El problema <u>no</u> está en este hecho.
-
-###### El problema aparecerá <u>en</u> la conclusión que se construye a partir de él.
-
-#### para que yo fuera injertado».
-##### La <u>atención</u> se desplaza hacia el "yo".
-
-###### El razonamiento <u>termina</u> centrándose en el injertado.
-
-###### Toda la afirmación apunta al <u>beneficio</u> recibido por él.
-
-##### <u>Observación</u> importante:
-###### <u>La</u> frase coloca al injertado en el centro de la historia.
-
-###### Precisamente esa perspectiva <u>será</u> corregida por Pablo en el siguiente versículo.
-
-##### Observación <u>desarrollacional</u>:
-###### La secuencia del argumento continúa <u>siendo</u>:
-
-- ramas desgajadas
-- injerto
-- arrogancia
-
-###### Pablo responderá concediendo parte de <u>la</u> afirmación.
-
-###### Sin embargo, mostrará que la explicación <u>correcta</u> no conduce al orgullo, sino a una reflexión acerca de la fe.
-
-### Romanos 11:20
-Muy cierto. Fueron desgajadas por su incredulidad, pero tú por la fe te mantienes firme. No seas altanero, sino teme;
-
-#### Muy cierto.
-##### Pablo concede parte <u>de</u> la afirmación anterior.
-
-###### Sí, las ramas <u>fueron</u> desgajadas.
-
-###### Pero la explicación correcta <u>todavía</u> necesita ser aclarada.
-
-#### Fueron desgajadas por su incredulidad,
-##### <u>Pablo</u> identifica la razón del desgajamiento.
-
-###### <u>El</u> problema no fue falta de importancia.
-
-###### El problema fue <u>incredulidad</u>.
-
-##### <u>Observación</u> importante:
-###### Pablo dirige la atención a la causa <u>real</u>.
-
-#### pero tú por la fe te mantienes firme.
-##### <u>Pablo</u> establece el contraste.
-
-###### Ellos <u>aparecen</u> relacionados con incredulidad.
-
-###### <u>Tú</u> apareces relacionado con fe.
-
-##### Observación <u>importante</u>:
-###### Pablo no atribuye la permanencia <u>a</u> superioridad.
-
-###### <u>La</u> relaciona con la fe.
-
-#### No seas altanero,
-##### <u>Pablo</u> vuelve a la advertencia.
-
-###### La fe no debe convertirse en motivo <u>de</u> orgullo.
-
-##### <u>Observación</u> importante:
-###### El peligro sigue siendo la <u>arrogancia</u>.
-
-#### sino teme;
-##### Pablo presenta la <u>actitud</u> correcta.
-
-###### La respuesta apropiada no es <u>confianza</u> en uno mismo.
-
-###### <u>Es</u> temor.
-
-##### Observación <u>desarrollacional</u>:
-###### El siguiente <u>versículo</u> explicará por qué Pablo da esta advertencia tan seria.
-
-###### La razón será tomada del <u>mismo</u> ejemplo que acaba de mencionar.
-
-### Romanos 11:21
-porque si Dios no perdonó a las ramas naturales, tampoco a ti te perdonará.
-
-#### porque si Dios no perdonó a las ramas naturales,
-##### Pablo explica la razón de la advertencia <u>anterior</u>.
-
-###### <u>El</u> mandato:
-> "teme"
-
-###### <u>ahora</u> recibe una explicación.
-
-##### <u>Observación</u> importante:
-###### Pablo dirige la atención a las ramas <u>naturales</u>.
-
-###### Ellas forman <u>el</u> ejemplo que debe ser considerado.
-
-#### tampoco a ti te perdonará.
-##### Pablo aplica la <u>conclusión</u> al injertado.
-
-###### El argumento sigue una <u>lógica</u> sencilla.
-
-###### Si <u>Dios</u> actuó así con las ramas naturales, el injertado no debe sentirse inmune.
-
-##### <u>Observación</u> importante:
-###### El propósito del versículo no es producir <u>arrogancia</u>.
-
-###### Es <u>eliminarla</u>.
-
-##### Observación <u>desarrollacional</u>:
-
-###### El siguiente versículo reunirá ambos <u>lados</u> del argumento.
-
-###### Pablo hablará <u>simultáneamente</u> de:
-* bondad
-* severidad
-
-###### y volverá a enfatizar <u>la</u> importancia de permanecer.
-
-### Romanos 11:22
-Mira, pues, la bondad y la severidad de Dios: severidad para con los que cayeron, pero para ti, bondad de Dios si permaneces en Su bondad. De lo contrario también tú serás cortado.
-
-#### Mira, pues, la bondad y la severidad de Dios:
-##### Pablo resume la advertencia mediante dos <u>realidades</u> que deben considerarse juntas.
-
-###### El texto no presenta <u>solamente</u> bondad.
-
-###### Tampoco <u>presenta</u> solamente severidad.
-
-###### <u>Pablo</u> llama al lector a considerar ambas.
-
-##### <u>Observación</u> importante:
-###### La exhortación <u>comienza</u> con un mandato:
-> Mira.
-
-###### Pablo quiere que el lector observe cuidadosamente <u>lo</u> que está explicando.
-
-#### severidad para con los que cayeron,
-##### Pablo aplica la severidad <u>a</u> un grupo específico.
-
-###### La <u>severidad</u> aparece relacionada con los que cayeron.
-
-##### <u>Observación</u> importante:
-###### <u>Pablo</u> sigue utilizando la imagen de las ramas desgajadas.
-
-#### pero para ti, bondad de Dios
-##### Pablo presenta el otro lado <u>del</u> contraste.
-
-###### Sobre el injertado aparece la bondad de <u>Dios</u>.
-
-##### <u>Observación</u> importante:
-###### <u>El</u> contraste no es entre dos dioses.
-
-###### Es entre dos aspectos del <u>mismo</u> Dios.
-
-#### si permaneces en Su bondad.
-##### Pablo añade una <u>condición</u>.
-
-###### La exhortación ya no trata solamente de cómo alguien <u>entró</u>.
-
-###### Ahora trata de <u>permanecer</u>.
-
-##### <u>Observación</u> importante:
-###### <u>El</u> énfasis del versículo recae en permanecer.
-
-#### De lo contrario también tú serás cortado.
-##### Pablo <u>vuelve</u> a la advertencia.
-
-###### El injertado no <u>debe</u> interpretar su posición como una garantía para la arrogancia.
-
-##### <u>Observación</u> desarrollacional:
-###### <u>El</u> siguiente versículo introduce una nota de esperanza.
-
-###### Pablo dirigirá la atención nuevamente hacia las ramas que <u>fueron</u> cortadas.
-
-### Romanos 11:23
-Y también ellos, si no permanecen en su incredulidad, serán injertados, pues poderoso es Dios para injertarlos de nuevo.
-
-#### Y también ellos,
-##### Pablo vuelve a hablar <u>de</u> las ramas que fueron desgajadas.
-
-###### Después <u>de</u> advertir al injertado, ahora dirige la atención nuevamente hacia ellos.
-
-##### Observación <u>importante</u>:
-###### Pablo no los presenta como un caso <u>cerrado</u>.
-
-#### si no permanecen en su incredulidad,
-##### Pablo <u>identifica</u> el problema específico.
-
-###### El obstáculo señalado <u>por</u> el texto es la incredulidad.
-
-##### Observación <u>importante</u>:
-###### La condición no está relacionada <u>con</u> su origen.
-
-###### Está relacionada con <u>la</u> incredulidad.
-
-#### serán injertados,
-##### <u>Pablo</u> declara una posibilidad real.
-
-###### Las ramas que fueron desgajadas pueden volver a ser <u>injertadas</u>.
-
-##### <u>Observación</u> importante:
-###### El corte no es presentado <u>aquí</u> como irreversible.
-
-#### pues poderoso es Dios
-##### Pablo fundamenta esta <u>esperanza</u> en Dios.
-
-###### La atención se <u>desplaza</u> de las ramas a la capacidad de Dios.
-
-##### Observación <u>importante</u>:
-###### La confianza del argumento <u>no</u> descansa en el hombre.
-
-###### <u>Descansa</u> en Dios.
-
-#### para injertarlos de nuevo.
-##### Pablo concluye <u>repitiendo</u> la imagen del injerto.
-
-###### El mismo Dios que injertó anteriormente puede injertar <u>nuevamente</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente <u>versículo</u> desarrollará un argumento de "cuánto más".
-
-###### Si <u>Dios</u> hizo algo inesperado con ramas silvestres,
-
-###### <u>cuánto</u> más puede hacerlo con las ramas naturales.
-
-### Romanos 11:24
-Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre, y contra lo que es natural fuiste injertado en un olivo cultivado, ¿cuánto más estos, que son las ramas naturales, serán injertados en su propio olivo?
-
-#### Porque si tú fuiste cortado de lo que por naturaleza es un olivo silvestre,
-##### Pablo vuelve a <u>la</u> ilustración del olivo.
-
-###### Comienza recordando <u>la</u> situación del gentil.
-
-###### Su origen es descrito mediante <u>la</u> imagen de un olivo silvestre.
-
-##### Observación <u>importante</u>:
-###### Pablo <u>dirige</u> la atención al injerto que ya ocurrió.
-
-#### y contra lo que es natural fuiste injertado en un olivo cultivado,
-
-##### Pablo <u>destaca</u> lo extraordinario de ese injerto.
-
-###### La <u>atención</u> recae en la expresión:
-> contra lo que es natural
-
-##### Observación <u>importante</u>:
-###### Pablo <u>presenta</u> este injerto como algo inesperado.
-
-###### <u>Algo</u> que ya sucedió.
-
-#### ¿cuánto más estos, que son las ramas naturales,
-##### Pablo llega <u>al</u> centro del argumento.
-
-###### La <u>pregunta</u> no busca información.
-
-###### Busca que el lector saque <u>una</u> conclusión.
-
-##### <u>Observación</u> importante:
-###### Toda la fuerza del <u>versículo</u> está en:
-> cuánto más
-
-#### serán injertados en su propio olivo?
-##### <u>Pablo</u> presenta la conclusión.
-
-###### Si ocurrió lo <u>más</u> sorprendente,
-
-###### cuánto más puede ocurrir aquello que corresponde a las ramas <u>naturales</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### La ilustración del olivo <u>está</u> llegando a su conclusión.
-
-###### El siguiente versículo <u>introducirá</u> un nuevo tema:
-> este misterio
-
-###### y comenzará a explicar el endurecimiento parcial de <u>Israel</u> y la entrada de la plenitud de los gentiles.
-
-### Romanos 11:25
-Porque no quiero, hermanos, que ignoren este misterio, para que no sean sabios en su propia opinión: que a Israel le ha acontecido un endurecimiento parcial hasta que haya entrado la plenitud de los gentiles.
-
-#### Porque no quiero, hermanos,
-##### Pablo introduce algo que considera importante que sus lectores <u>entiendan</u>.
-
-###### Vuelve a dirigirse directamente <u>a</u> ellos como hermanos.
-
-##### <u>Observación</u> importante:
-###### Lo <u>que</u> sigue tiene como propósito corregir una manera equivocada de pensar.
-
-#### que ignoren este misterio,
-##### Pablo identifica <u>el</u> tema como un misterio que necesita ser revelado.
-
-###### No quiere que sus lectores permanezcan en ignorancia acerca de este <u>asunto</u>.
-
-##### <u>Observación</u> importante:
-###### <u>El</u> misterio será explicado inmediatamente.
-
-###### No queda oculto en el <u>texto</u>.
-
-#### para que no sean sabios en su propia opinión:
-##### Pablo explica por qué quiere que conozcan este <u>misterio</u>.
-
-###### El conocimiento correcto <u>debe</u> impedir la arrogancia.
-
-##### Observación <u>importante</u>:
-###### Esta advertencia conecta con <u>toda</u> la sección anterior.
-
-###### Pablo sigue corrigiendo el orgullo que podría surgir en los <u>gentiles</u>.
-
-#### que a Israel le ha acontecido un endurecimiento parcial
-##### <u>Pablo</u> comienza a explicar el misterio.
-
-###### <u>Israel</u> ha experimentado endurecimiento.
-
-##### <u>Observación</u> importante:
-###### El <u>texto</u> no dice:
-> endurecimiento total
-
-###### <u>Dice</u>:
-> endurecimiento parcial
-
-##### Observación <u>desarrollacional</u>:
-###### Esta afirmación retoma <u>el</u> tema que apareció anteriormente en Romanos 11.
-
-###### Pablo <u>continúa</u> describiendo la situación presente de Israel.
-
-#### hasta que haya entrado la plenitud de los gentiles.
-
-##### Pablo <u>añade</u> un límite temporal.
-
-###### <u>El</u> endurecimiento no es presentado como permanente.
-
-###### Está descrito <u>mediante</u> un:
-> «hasta que».
-
-##### <u>Observación</u> importante:
-###### El <u>misterio</u> no consiste solamente en un endurecimiento.
-
-###### También incluye aquello <u>que</u> ocurre durante ese endurecimiento.
-
-###### Pablo <u>une</u> dos realidades dentro de la misma explicación:
-
-- endurecimiento parcial de Israel
-- entrada de la plenitud de los gentiles
-
-##### <u>Observación</u> importante:
-###### La atención del versículo no permanece únicamente en el <u>endurecimiento</u>.
-
-###### También se dirige hacia la <u>plenitud</u> de los gentiles.
-
-##### Observación <u>desarrollacional</u>:
-###### <u>El</u> siguiente versículo mostrará hacia dónde conduce esta explicación.
-
-###### Pablo <u>pasará</u> de:
-- endurecimiento parcial
-- plenitud de los gentiles
-
-###### al <u>resultado</u> que introduce con las palabras:
-> «y así».
-
-### Romanos 11:26
-Así, todo Israel será salvo, tal como está escrito: «EL LIBERTADOR VENDRÁ DE SIÓN; APARTARÁ LA IMPIEDAD DE JACOB.
-
-#### Así, todo Israel será salvo,
-##### <u>Pablo</u> presenta el resultado que sigue a la explicación anterior.
-
-###### El versículo <u>comienza</u> con:
-> «y así».
-
-##### <u>Observación</u> importante:
-###### Pablo conecta esta declaración con lo que <u>acaba</u> de explicar.
-
-###### La salvación de Israel <u>aparece</u> ligada al desarrollo descrito en el versículo anterior.
-
-###### No <u>aparece</u> como una idea aislada.
-
-##### <u>Observación</u> desarrollacional:
-
-###### <u>Pablo</u> ha pasado de:
-- endurecimiento parcial
-- plenitud de los gentiles
-
-###### al resultado que <u>ahora</u> declara:
-> «todo Israel será salvo».
-
-#### tal como está escrito:
-##### Pablo <u>vuelve</u> a apoyar su afirmación mediante las Escrituras.
-
-###### Como ha hecho repetidamente a lo largo <u>de</u> Romanos 9–11, apela al testimonio escrito.
-
-##### Observación <u>importante</u>:
-###### La explicación no <u>descansa</u> solamente en la afirmación de Pablo.
-
-###### También es apoyada mediante <u>las</u> Escrituras.
-
-##### Observación <u>desarrollacional</u>:
-###### La cita que sigue <u>explicará</u> esta salvación.
-
-#### «EL LIBERTADOR VENDRÁ DE SIÓN;
-##### La atención se <u>dirige</u> al Libertador.
-
-###### La salvación mencionada en el versículo no <u>aparece</u> separada de su intervención.
-
-##### <u>Observación</u> importante:
-###### El énfasis recae sobre <u>la</u> acción del Libertador.
-
-###### La explicación <u>comienza</u> con su venida.
-
-#### APARTARÁ LA IMPIEDAD DE JACOB.
-##### La <u>cita</u> describe la obra que realizará el Libertador.
-
-###### Su acción consiste en apartar la impiedad <u>de</u> Jacob.
-
-##### Observación <u>importante</u>:
-###### La salvación recién mencionada es <u>explicada</u> mediante esta acción.
-
-###### La cita conecta la salvación con la <u>remoción</u> de la impiedad.
-
-##### Observación <u>desarrollacional</u>:
-###### El siguiente <u>versículo</u> completará la cita.
-
-###### Pablo añadirá una referencia al <u>pacto</u> y a la remoción de los pecados.
-
-### Romanos 11:27
-Y ESTE ES MI PACTO CON ELLOS, CUANDO YO QUITE SUS PECADOS».
-
-#### Y ESTE ES MI PACTO CON ELLOS,
-##### Pablo continúa la cita iniciada <u>en</u> el versículo anterior.
-
-###### La salvación de Israel sigue siendo <u>el</u> tema.
-
-##### Observación <u>importante</u>:
-###### La cita ahora introduce <u>la</u> idea de pacto.
-
-###### Pablo añade al tema del Libertador una referencia al <u>pacto</u>.
-
-###### La explicación de la salvación continúa desarrollándose <u>mediante</u> esta cita.
-
-#### CUANDO YO QUITE SUS PECADOS».
-##### La cita identifica una acción <u>específica</u>.
-
-###### La <u>atención</u> se dirige a los pecados.
-
-###### Y a <u>su</u> remoción.
-
-##### <u>Observación</u> importante:
-###### La salvación mencionada <u>en</u> los versículos anteriores continúa siendo explicada.
-
-###### La cita relaciona <u>esa</u> salvación con la remoción de los pecados.
-
-##### <u>Observación</u> desarrollacional:
-###### <u>La</u> secuencia de la cita ha descrito:
-- la venida del Libertador
-- la remoción de la impiedad
-- el pacto
-- la remoción de los pecados
-
-###### Pablo <u>ha</u> terminado la cita.
-
-###### Ahora volverá <u>a</u> explicar cómo debe entenderse la situación actual de Israel.
-
-###### El siguiente versículo presentará dos perspectivas simultáneas sobre <u>ellos</u>.
-
-### Romanos 11:28
-En cuanto al evangelio, son enemigos por causa de ustedes, pero en cuanto a la elección de Dios, son amados por causa de los padres.
-
-#### En cuanto al evangelio,
-##### Pablo introduce <u>el</u> primer marco de referencia.
-
-###### La misma situación será observada desde <u>una</u> perspectiva específica.
-
-##### Observación <u>importante</u>:
-###### Pablo comienza distinguiendo entre <u>dos</u> maneras de considerar a Israel.
-
-#### son enemigos por causa de ustedes,
-##### Bajo este primer marco, Pablo describe su situación como <u>enemigos</u>.
-
-###### La referencia <u>a</u> "ustedes" continúa señalando a los gentiles.
-
-##### Observación <u>importante</u>:
-###### <u>Pablo</u> no está hablando aquí de dos grupos distintos.
-
-###### Sigue hablando del mismo <u>Israel</u>.
-
-###### La diferencia <u>está</u> en la perspectiva desde la cual es considerado.
-
-#### pero en cuanto a la elección de Dios,
-##### <u>Pablo</u> introduce un segundo marco de referencia.
-
-###### Ahora observa la misma situación <u>desde</u> otra perspectiva.
-
-###### <u>El</u> versículo está construido sobre un contraste:
-- en cuanto al evangelio
-- en cuanto a la elección
-
-##### Observación <u>importante</u>:
-###### Pablo mantiene juntas ambas <u>afirmaciones</u>.
-
-###### <u>No</u> elimina una para afirmar la otra.
-
-#### son amados por causa de los padres.
-##### Bajo este <u>segundo</u> marco, Pablo describe a Israel como amado.
-
-###### La razón <u>mencionada</u> es:
-> por causa de los padres
-
-##### Observación <u>importante</u>:
-###### El mismo grupo que aparece como enemigo en la primera mitad del <u>versículo</u> aparece como amado en la segunda.
-
-###### Pablo <u>mantiene</u> ambas afirmaciones juntas.
-
-###### La segunda afirmación <u>recibe</u> un fundamento específico:
-> por causa de los padres
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo explicará <u>por</u> qué esta segunda realidad permanece vigente.
-
-###### Pablo apelará a <u>los</u> dones y al llamamiento de Dios.
-
-###### La explicación continuará desarrollando la razón <u>por</u> la cual Israel sigue siendo descrito como amado.
-
-### Romanos 11:29
-Porque los dones y el llamamiento de Dios son irrevocables.
-
-#### Porque los dones y el llamamiento de Dios
-##### Pablo explica <u>la</u> afirmación anterior.
-
-###### Acaba de decir <u>que</u> Israel es amado por causa de los padres.
-
-###### Ahora <u>presenta</u> la razón de esa afirmación.
-
-##### Observación <u>importante</u>:
-###### La explicación dirige la atención <u>hacia</u>:
-- los dones de Dios
-- el llamamiento de Dios
-
-###### El <u>énfasis</u> recae sobre aquello que pertenece a Dios.
-
-#### son irrevocables.
-##### Pablo <u>describe</u> los dones y el llamamiento de Dios mediante una sola afirmación.
-
-###### Ambos son <u>presentados</u> como:
-> irrevocables
-
-##### <u>Observación</u> importante:
-###### El versículo explica por qué Pablo puede seguir hablando de Israel como amado por causa de <u>los</u> padres.
-
-###### La razón presentada por Pablo es que los dones y el llamamiento de <u>Dios</u> son irrevocables.
-
-##### <u>Observación</u> desarrollacional:
-###### Romanos 11 ha venido <u>describiendo</u>:
-- transgresión
-- rechazo
-- endurecimiento parcial
-
-###### Sin <u>embargo</u>, Pablo continúa mirando más allá de esas realidades.
-
-###### Ahora apela a algo que <u>describe</u> como:
-> irrevocable
-
-##### <u>Observación</u> desarrollacional:
-###### El siguiente versículo comenzará a explicar cómo la misericordia de Dios ha <u>estado</u> obrando tanto en gentiles como en Israel.
-
-### Romanos 11:30
-Pues así como ustedes en otro tiempo fueron desobedientes a Dios, pero ahora se les ha mostrado misericordia por razón de la desobediencia de ellos,
-
-#### Pues así como ustedes
-##### Pablo comienza una <u>comparación</u>.
-
-###### <u>Ahora</u> comparará la experiencia de los gentiles con la situación actual de Israel.
-
-#### en otro tiempo fueron desobedientes a Dios,
-##### Pablo recuerda el pasado <u>de</u> los gentiles.
-
-###### Hubo un tiempo en que ellos también estuvieron <u>en</u> desobediencia.
-
-#### pero ahora se les ha mostrado misericordia
-##### Pablo contrasta ese pasado <u>con</u> su situación presente.
-
-###### Lo que caracteriza el <u>presente</u> es la misericordia recibida.
-
-#### por razón de la desobediencia de ellos,
-##### <u>Pablo</u> conecta ambas historias.
-
-###### La <u>misericordia</u> recibida por los gentiles está relacionada con la desobediencia actual de Israel.
-
-##### Observación <u>importante</u>:
-###### <u>Pablo</u> no presenta dos historias separadas.
-
-###### Presenta una sola historia en la que Dios está obrando <u>con</u> ambos grupos.
-
-### Romanos 11:31
-así también ahora estos han sido desobedientes, para que por la misericordia mostrada a ustedes, también a ellos ahora les sea mostrada misericordia.
-
-#### así también ahora estos han sido desobedientes,
-##### <u>Pablo</u> completa el paralelo.
-
-###### Lo que antes describió acerca de los gentiles ahora lo aplica <u>a</u> Israel.
-
-#### para que por la misericordia mostrada a ustedes,
-##### Pablo introduce el propósito de esta <u>etapa</u> de la historia.
-
-###### La misericordia mostrada a los gentiles forma parte del desarrollo del <u>plan</u> que está describiendo.
-
-#### también a ellos ahora les sea mostrada misericordia.
-##### <u>Pablo</u> revela el objetivo.
-
-###### La historia no termina con la desobediencia <u>de</u> Israel.
-
-###### El objetivo final señalado aquí <u>es</u> que ellos también reciban misericordia.
-
-##### Observación <u>importante</u>:
-###### La <u>misericordia</u> mostrada a los gentiles no aparece como el final de la historia.
-
-###### Aparece como parte del camino por el cual <u>la</u> misericordia alcanzará también a Israel.
-
-##### Observación <u>desarrollacional</u>:
-###### El siguiente versículo resumirá todo el argumento con una declaración general <u>acerca</u> de todos y la misericordia de Dios.
-
-### Romanos 11:32
-Porque Dios ha encerrado a todos en desobediencia para mostrar misericordia a todos.
-
-#### Porque Dios ha encerrado a todos en desobediencia
-##### Pablo resume <u>el</u> patrón que acaba de describir.
-
-###### Primero habló de la desobediencia <u>de</u> Israel.
-
-###### Luego recordó la desobediencia pasada de los <u>gentiles</u>.
-
-###### Ahora reúne a todos bajo una <u>misma</u> realidad.
-
-##### <u>Observación</u> importante:
-###### El énfasis del versículo no recae <u>sobre</u> un solo grupo.
-
-###### Pablo habla <u>de</u> todos.
-
-#### para mostrar misericordia a todos.
-##### Pablo presenta <u>el</u> propósito de esta acción.
-
-###### El versículo comienza <u>con</u> desobediencia.
-
-###### <u>Pero</u> termina con misericordia.
-
-##### Observación <u>importante</u>:
-###### <u>La</u> última palabra del argumento no es desobediencia.
-
-###### La última palabra del argumento <u>es</u> misericordia.
-
-##### Observación <u>desarrollacional</u>:
-###### Este <u>versículo</u> funciona como resumen de Romanos 11:30–31.
-
-###### También prepara la <u>respuesta</u> de adoración que sigue inmediatamente en los versículos siguientes.
-
->En Síntesis
->- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
->- Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
->- La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
->- Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
->- A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
->- El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
->- Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad:
-todos en desobediencia todos necesitados de misericordia.
->- La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento.
->- La última palabra es misericordia.
-
-<!-- @quiz quiz-3 -->
-
-## Romanos 11:33–36 — Pablo responde con adoración
-
-### Romanos 11:33
-¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios! ¡Cuán insondables son Sus juicios e inescrutables Sus caminos!
-
-#### ¡Oh, profundidad de las riquezas y de la sabiduría y del conocimiento de Dios!
-##### Después de concluir su <u>argumento</u>, Pablo responde con asombro.
-
-###### <u>Ya</u> no está formulando objeciones.
-
-###### Ya no <u>está</u> respondiendo preguntas.
-
-###### Ahora expresa <u>admiración</u>.
-
-##### <u>Observación</u> importante:
-###### Pablo dirige toda <u>la</u> atención hacia Dios.
-
-###### Las riquezas, la sabiduría <u>y</u> el conocimiento pertenecen a Dios.
-
-#### ¡Cuán insondables son Sus juicios
-##### Pablo reconoce la grandeza de <u>los</u> juicios de Dios.
-
-###### Los presenta como algo que <u>no</u> puede ser agotado ni medido completamente.
-
-##### Observación <u>importante</u>:
-###### La atención permanece sobre Dios y sobre lo que Él <u>hace</u>.
-
-#### e inescrutables Sus caminos!
-##### Pablo <u>completa</u> la declaración.
-
-###### No solamente los juicios de Dios producen <u>asombro</u>.
-
-###### También sus <u>caminos</u>.
-
-##### <u>Observación</u> desarrollacional:
-###### La doxología continuará con una serie de <u>preguntas</u> que resaltan la grandeza de Dios.
-
-###### Pablo ha llegado al final de su explicación y responde con <u>adoración</u>.
-
-### Romanos 11:34
-Pues, ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR? ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
-
-#### ¿QUIÉN HA CONOCIDO LA MENTE DEL SEÑOR?
-##### Pablo <u>formula</u> una pregunta cuya respuesta esperada es "nadie".
-
-###### Después de hablar de la profundidad de la sabiduría y <u>del</u> conocimiento de Dios, pregunta quién ha conocido plenamente Su mente.
-
-##### <u>Observación</u> importante:
-###### La pregunta enfatiza la distancia entre el conocimiento humano y el conocimiento <u>de</u> Dios.
-
-###### Nadie puede <u>afirmar</u> que comprende completamente los pensamientos de Dios.
-
-#### ¿O QUIÉN LLEGÓ A SER SU CONSEJERO?
-##### Pablo <u>presenta</u> una segunda pregunta paralela.
-
-###### No solo nadie <u>conoce</u> plenamente la mente de Dios.
-
-###### Tampoco nadie ocupa el lugar de su <u>consejero</u>.
-
-##### <u>Observación</u> importante:
-###### Dios no necesita ser <u>corregido</u>.
-
-###### Dios no <u>necesita</u> ser instruido.
-
-###### Dios no necesita recibir <u>consejo</u>.
-
-##### Observación <u>desarrollacional</u>:
-###### El siguiente versículo <u>añadirá</u> una tercera pregunta.
-
-###### Esta vez relacionada con deuda <u>y</u> recompensa.
-
-### Romanos 11:35
-¿O QUIÉN LE HA DADO A ÉL PRIMERO PARA QUE SE LE TENGA QUE RECOMPENSAR?
-
-#### ¿O QUIÉN LE HA DADO A ÉL PRIMERO
-##### <u>Pablo</u> añade una tercera pregunta.
-
-###### <u>La</u> respuesta esperada sigue siendo la misma:
-> nadie
-
-##### <u>Observación</u> importante:
-###### Nadie puede colocarse <u>en</u> la posición de benefactor de Dios.
-
-###### Nadie <u>puede</u> decir que Dios recibió algo primero de él.
-
-#### PARA QUE SE LE TENGA QUE RECOMPENSAR?
-##### Pablo lleva la <u>pregunta</u> a su conclusión.
-
-###### <u>Si</u> nadie le dio primero a Dios,
-
-###### entonces nadie puede exigir pago o compensación <u>de</u> parte de Dios.
-
-##### <u>Observación</u> importante:
-###### Dios no actúa como deudor <u>de</u> nadie.
-
-###### Todo lo <u>que</u> Dios hace procede de Él mismo.
-
-##### Observación <u>desarrollacional</u>:
-###### El <u>siguiente</u> versículo cerrará la doxología.
-
-###### Pablo resumirá todo con una declaración absoluta acerca de <u>Dios</u> y de todas las cosas.
-
-### Romanos 11:36
-Porque de Él, por Él y para Él son todas las cosas. A Él sea la gloria para siempre. Amén.
-
-#### Porque de Él, por Él y para Él son todas las cosas.
-##### <u>Pablo</u> presenta la razón final de la adoración.
-
-###### <u>Todo</u> lo que acaba de decir acerca de Dios conduce a esta afirmación.
-
-##### Observación <u>importante</u>:
-###### Dios aparece como el <u>origen</u> de todas las cosas.
-
-###### Dios aparece como aquel por medio de quien todas <u>las</u> cosas existen.
-
-###### <u>Dios</u> aparece como el destino hacia el cual todas las cosas se dirigen.
-
-##### Observación <u>importante</u>:
-###### El énfasis recae completamente sobre <u>Dios</u>.
-
-###### La atención ya <u>no</u> está sobre Israel.
-
-###### Ya <u>no</u> está sobre los gentiles.
-
-###### <u>Ya</u> no está sobre Pablo.
-
-###### <u>Está</u> sobre Dios.
-
-#### A Él sea la gloria para siempre.
-##### Pablo responde <u>a</u> esta realidad con adoración.
-
-###### Si todas las cosas son de Él, por <u>Él</u> y para Él,
-
-###### entonces la gloria <u>le</u> pertenece a Él.
-
-##### <u>Observación</u> importante:
-###### La <u>doxología</u> termina donde comenzó.
-
-###### <u>Con</u> Dios ocupando el centro de todo.
-
-#### Amén.
-##### Pablo concluye la <u>doxología</u>.
-
-###### La sección iniciada en Romanos 9 termina con una afirmación de adoración y reconocimiento <u>a</u> Dios.
-
-##### <u>Observación</u> desarrollacional:
-###### Después de tres capítulos explicando el propósito <u>y</u> la fidelidad de Dios,
-
-###### Romanos 12 comenzará a mostrar cómo debe responder <u>el</u> creyente.
+-   La casa de Dios necesita siervos fieles.
+-   El carácter debe acompañar el servicio.
+-   La verdad debe ser sostenida con limpia conciencia.
+-   El servicio fiel produce fruto en la vida del creyente.
 
 > En Síntesis
->- Pablo demuestra que el tropiezo de Israel no es el final de la historia.
-Repetidamente desarrolla el mismo patrón: transgresión, beneficio para los gentiles, restauración futura de Israel
->-La salvación llegada a los gentiles forma parte de un proceso que también tiene a Israel en vista.
->-Por eso Pablo habla de plenitud, admisión, injerto, misericordia y finalmente de la salvación de todo Israel.
->-A lo largo de la sección advierte a los gentiles contra la arrogancia y les recuerda que son sostenidos por la raíz, no al contrario.
->-El endurecimiento actual de Israel es presentado como parcial y temporal, mientras Dios continúa desarrollando Su propósito.
->-Finalmente, Pablo reúne a judíos y gentiles bajo una misma realidad: todos en desobediencia todos necesitados de misericordia
->-La sección concluye afirmando que la última palabra no es transgresión, rechazo ni endurecimiento. 
->- La última palabra es misericordia.
+>
+> - Pablo presenta los requisitos para los diáconos, mostrando que el servicio dentro de la casa de Dios debe estar respaldado por un carácter digno, íntegro y confiable.
+> - Los diáconos deben conservar el misterio de la fe con limpia conciencia, uniendo la verdad que profesan con una vida que corresponde a ella.
+> - Antes de servir, su vida debe ser examinada y probada, de modo que el servicio sea confiado a personas cuya fidelidad ya sea evidente.
+> - Las cualidades descritas para las mujeres continúan el mismo énfasis de la sección: dignidad, dominio propio, fidelidad e integridad visibles en la conducta diaria.
+> - Al igual que los obispos, los diáconos deben demostrar fidelidad en su vida familiar y en la manera en que conducen su hogar.
+> - La sección concluye mostrando que el servicio fiel produce honor y fortalece la confianza en la fe que es en Cristo Jesús.
 
-# ROMANOS 12:1–13:14 PRESÉNTENSE Y VIVAN CONFORME A LA NUEVA REALIDAD
+## 1 Timoteo 3:14–16 - La identidad de la casa de Dios y su fundamento
 
-## Romanos 12:1–8 - Presenten sus cuerpos
+### 1 Timoteo 3:14
 
-### Romanos 12:1
-Por tanto, hermanos, les ruego por las misericordias de Dios que presenten sus cuerpos como sacrificio vivo y santo, aceptable a Dios, que es el culto racional de ustedes.
+Te escribo estas cosas, esperando ir a verte pronto,
 
-#### Por tanto, hermanos,
-##### <u>Pablo</u> comienza una nueva sección, pero no un tema nuevo.
+#### Te escribo estas cosas
 
-###### Todo lo <u>que</u> sigue nace de lo que acaba de explicar acerca de las misericordias de Dios y de sus caminos en Romanos 9–11.
+##### Pablo pauses the development of the letter to explain why he is writing.
 
-###### El “por tanto” conecta la explicación anterior con <u>la</u> respuesta que ahora espera de sus lectores.
+##### The expression "estas cosas" points back to the instructions that have occupied the letter up to this point.
 
-###### <u>Véase</u> Romanos 11:30–36.
+-   Pablo ha estado dando instrucciones.
+-   Pablo ahora explica el propósito de escribir.
+-   La carta misma forma parte de su cuidado por la iglesia.
 
-###### La siguiente frase presenta la base sobre <u>la</u> cual Pablo hace este ruego.
+##### Esta observación ayuda a unir las secciones anteriores.
 
-#### les ruego por las misericordias de Dios
-##### <u>Pablo</u> no apela a méritos humanos ni a obligaciones religiosas.
+-   El encargo dado a Timoteo.
+-   La conducta dentro de la congregación.
+-   Los requisitos para obispos y diáconos.
+-   Todo forma parte de "estas cosas".
 
-###### La exhortación se <u>fundamenta</u> en las misericordias de Dios que han sido desarrolladas a lo largo de la carta.
+#### esperando ir a verte pronto
 
-###### La respuesta que Pablo pedirá en los siguientes versículos surge de lo que Dios ha hecho, <u>no</u> de lo que el hombre puede aportar.
+##### Pablo expresa su deseo personal de reunirse con Timoteo.
 
-###### <u>Véase</u> Romanos 11:30–32.
+##### La carta no sustituye completamente su presencia. Pablo todavía espera encontrarse con él.
 
-#### que presenten sus cuerpos
-##### Pablo dirige la exhortación hacia la <u>persona</u> completa.
+-   Pablo desea visitarlo.
+-   La relación entre ambos continúa siendo cercana.
+-   Timoteo no está trabajando solo.
 
-###### <u>La</u> acción principal del versículo es “presentar”.
+##### El argumento todavía no ha concluido.
 
-###### A partir de este punto la atención se mueve desde lo que Dios ha hecho <u>hacia</u> la respuesta que corresponde a quienes han recibido misericordia.
+-   Pablo aún no ha explicado la razón principal de escribir.
+-   Esa explicación aparecerá en el versículo siguiente.
+-   El versículo 14 prepara la declaración central de 3:15.
 
-###### La siguiente frase describe cómo <u>debe</u> entenderse esa presentación.
+### 1 Timoteo 3:15
 
-#### como sacrificio vivo y santo,
-##### Pablo utiliza lenguaje <u>relacionado</u> con la adoración y la entrega.
+pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad.
 
-###### El <u>sacrificio</u> ya no es descrito como algo muerto, sino como algo vivo.
+#### pero en caso que me tarde
 
-###### Las expresiones “vivo” <u>y</u> “santo” describen la clase de presentación que Pablo tiene en mente.
+##### Pablo contempla la posibilidad de no llegar pronto a Éfeso.
 
-#### aceptable a Dios,
-##### La presentación <u>tiene</u> una orientación clara: Dios.
+##### Aunque espera visitar a Timoteo, considera necesario dejar estas instrucciones por escrito.
 
-###### El énfasis no está en la opinión de otros ni en la apariencia externa, sino en aquello que es <u>aceptable</u> delante de Dios.
+-   Pablo espera ir.
+-   Pablo reconoce que podría demorarse.
+-   La carta asegura que Timoteo tenga instrucciones claras.
 
-#### que es el culto racional de ustedes.
-##### Pablo reúne todas las expresiones <u>anteriores</u> en una sola descripción.
+#### te escribo
 
-###### La presentación de los cuerpos es identificada como el culto que corresponde a quienes han recibido las <u>misericordias</u> de Dios.
+##### Pablo explica directamente el propósito de la carta.
 
-###### Este versículo funciona <u>como</u> introducción a toda la sección práctica que sigue.
+##### Las instrucciones anteriores no son observaciones aisladas. Forman parte de una enseñanza intencional para la vida de la iglesia.
 
-###### Romanos 12:2 explicará cómo esa presentación afecta la forma de <u>pensar</u> y vivir.
+-   Pablo escribió con un propósito definido.
+-   La carta debía guiar a Timoteo.
+-   Las instrucciones proceden de la autoridad apostólica.
 
-### Romanos 12:2
-Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios: lo que es bueno y aceptable y perfecto.
+#### para que sepas cómo debe conducirse uno en la casa de Dios
 
-#### Y no se adapten a este mundo,
-##### Pablo comienza con una <u>prohibición</u>.
+##### Esta es una de las declaraciones centrales de toda la carta.
 
-###### La vida presentada <u>a</u> Dios no puede simplemente copiar el patrón que la rodea.
+##### Pablo explica por qué ha dado instrucciones acerca de la enseñanza, la oración, la piedad, los ancianos y los diáconos.
 
-###### Después de hablar de <u>presentar</u> los cuerpos, Pablo pasa a describir una manera diferente de vivir y pensar.
+-   La conducta dentro de la iglesia importa.
+-   La casa de Dios debe funcionar conforme al propósito de Dios.
+-   La carta explica cómo debe conducirse el pueblo de Dios.
 
-#### sino transfórmense
-##### Pablo no solo dice qué <u>evitar</u>; también indica una dirección positiva.
+##### Todo lo anterior queda unido bajo esta declaración.
 
-###### <u>El</u> contraste es deliberado: no conformarse al presente orden de cosas, sino experimentar transformación.
+-   El encargo dado a Timoteo.
+-   La corrección de las falsas enseñanzas.
+-   La vida de oración.
+-   La conducta de hombres y mujeres.
+-   Los requisitos para ancianos y diáconos.
 
-###### La exhortación avanza desde la conducta externa hacia <u>un</u> cambio más profundo.
+#### que es la iglesia del Dios vivo
 
-#### mediante la renovación de su mente,
-##### Pablo ubica <u>el</u> cambio en la manera de pensar.
+##### Pablo identifica la casa de Dios como la iglesia del Dios vivo.
 
-###### La transformación no comienza <u>con</u> nuevas costumbres sino con una mente renovada.
+##### La iglesia pertenece a Dios y existe en relación con Él.
 
-###### Esta referencia a la <u>mente</u> prepara el tema de Romanos 12:3, donde Pablo hablará de cómo pensar correctamente acerca de uno mismo.
+-   Es la iglesia de Dios.
+-   Dios está vivo.
+-   La iglesia existe bajo Su autoridad.
 
-#### para que verifiquen cuál es la voluntad de Dios:
-##### Pablo presenta el <u>resultado</u> esperado.
+##### Esta descripción contrasta con los ídolos y religiones de su entorno.
 
-###### La mente renovada permite reconocer y aprobar aquello que corresponde a la voluntad de <u>Dios</u>.
+-   Dios vive.
+-   Dios actúa.
+-   Dios gobierna Su iglesia.
 
-###### El énfasis está en <u>discernir</u> correctamente, no en inventar una voluntad propia.
+#### columna y sostén de la verdad
 
-#### lo que es bueno y aceptable y perfecto.
-##### Pablo caracteriza la <u>voluntad</u> de Dios con tres descripciones.
+##### Pablo describe la responsabilidad de la iglesia con respecto a la verdad.
 
-###### Estas expresiones concluyen el versículo mostrando el carácter <u>de</u> aquello que la mente renovada aprende a reconocer.
+##### La iglesia no crea la verdad ni la define. Su responsabilidad es sostenerla y mantenerla visible.
 
-###### La secuencia <u>completa</u> es clara: presentación → transformación → renovación → discernimiento.
+-   La verdad permanece en el centro.
+-   La iglesia debe sostener la verdad.
+-   La iglesia debe proteger la verdad.
 
-###### Romanos 12:3 comenzará a aplicar esta manera de pensar a la vida dentro de la <u>comunidad</u>.
+##### Esta descripción armoniza con todo lo desarrollado desde el capítulo 1.
 
-### Romanos 12:3
-Porque en virtud de la gracia que me ha sido dada, digo a cada uno de ustedes que no piense de sí mismo más de lo que debe pensar, sino que piense con buen juicio, según la medida de fe que Dios ha distribuido a cada uno.
+-   Algunos enseñaban doctrinas diferentes.
+-   Timoteo debía corregirlas.
+-   Los líderes debían guardar la fe con limpia conciencia.
+-   La iglesia debía permanecer como columna y sostén de la verdad.
 
-#### Porque en virtud de la gracia que me ha sido dada,
-##### Pablo <u>explica</u> desde qué posición habla.
+### 1 Timoteo 3:16
 
-###### No presenta su exhortación como una <u>opinión</u> personal, sino como algo relacionado con la gracia que le fue dada.
+E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en la carne, Vindicado en el Espíritu, Contemplado por ángeles, Proclamado entre las naciones, Creído en el mundo, Recibido arriba en gloria.
 
-###### Esta referencia sirve como fundamento para <u>la</u> instrucción que sigue.
+#### E indiscutiblemente, grande es el misterio de la piedad
 
-#### digo a cada uno de ustedes
-##### La exhortación <u>es</u> individual.
+##### Después de describir la casa de Dios y su responsabilidad respecto a la verdad, Pablo dirige la atención a la fuente misma de la piedad.
 
-###### Pablo no habla solamente a líderes o a un grupo <u>específico</u>.
+##### La piedad no surge del esfuerzo humano ni de métodos religiosos. Pablo dirige la atención a una Persona.
 
-###### Cada miembro de la <u>comunidad</u> debe evaluar su manera de pensar acerca de sí mismo.
+-   La piedad no comienza con el hombre.
+-   La piedad no comienza con actividades religiosas.
+-   La piedad está inseparablemente ligada a Cristo.
 
-###### la siguiente frase presenta la <u>advertencia</u> principal.
+##### Pablo llama a esto un gran misterio.
 
-#### que no piense de sí mismo más de lo que debe pensar,
-##### Pablo <u>comienza</u> corrigiendo una tendencia hacia la autoexaltación.
+-   Es una verdad revelada por Dios.
+-   Es el centro del mensaje cristiano.
+-   Es el fundamento de la vida piadosa.
 
-###### El tema ya no es la transformación <u>de</u> la mente en general, sino cómo esa mente renovada evalúa la propia persona.
+##### Lo que sigue resume la persona y la obra de Cristo.
 
-###### Esta <u>advertencia</u> prepara el ejemplo del cuerpo y los miembros que aparecerá en los versículos siguientes.
+-   Cada declaración tiene a Cristo como sujeto.
+-   El énfasis permanece sobre Él.
+-   Pablo presenta la grandeza de Cristo como fundamento de la piedad.
 
-###### Pablo ahora presenta la <u>alternativa</u> correcta.
+##### Veamos a continuación como Pablo presenta la provisión de Dios para la piedad de su <u>pueblo</u>.
 
-#### sino que piense con buen juicio,
-##### El contraste no es dejar de pensar, sino <u>pensar</u> correctamente.
+#### El...fue manifestado en la carne...
 
-###### Pablo reemplaza la exageración <u>personal</u> por una evaluación sobria y equilibrada.
+##### El fue manifestado en un cuerpo. No fue solo una representación de <u>Cristo</u>. Los hombres lo vieron tal como era, Dios encarnado. Juan 1:14; Romanos 1:3
 
-###### La atención continúa centrada en la forma <u>de</u> pensar.
+##### Todos podian mirar a Jesus el Cristo. Fue manifestado para que todos lo vieran. No solo su manera de <u>andar</u> sino su muerte en la cruz por nuestros pecados. Juan 3:14, 12:32; 1 Juan 3:5
 
-###### la siguiente frase establece <u>el</u> criterio.
+#### El...fue vindicado en el Espíritu...
 
-#### según la medida de fe que Dios ha distribuido a cada uno.
-##### Pablo recuerda que lo recibido proviene de <u>Dios</u>.
+##### El Espíritu dio testimonio en defensa de quien era El. El Espíritu autentifico su identidad. <u>Aprobó</u> el Cristo.
 
-###### El énfasis se encuentra en lo que Dios ha distribuido, no en <u>logros</u> personales.
+##### El Espiritu Santo descendió <u>sobre</u> Él. Lucas 3:21-22
 
-###### Esta <u>idea</u> prepara el tema de los diferentes dones que aparecerá más adelante en la sección.
+##### El Espiritu Santo <u>estuvo</u> con Él durante su ministerio. Lucas 4:18-21
 
-###### Romanos 12:4 <u>introduce</u> la ilustración del cuerpo para explicar diversidad sin orgullo.
+##### El Espiritu Santo le <u>levantó</u> de los muertos. Romanos 1:4, 8:11
 
-### Romanos 12:4
-Pues así como en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función,
+#### Él...fue contemplado por ángeles...
 
-#### Pues así como en un cuerpo tenemos muchos miembros,
-##### Pablo introduce una <u>comparación</u>.
+##### Los ángeles le pusieron grán <u>atención</u>.
 
-###### La imagen del cuerpo permite <u>explicar</u> cómo puede existir diversidad sin perder unidad.
+##### Los ángeles se maravillaron en la salvación provista por gracia en Cristo.
 
-###### El énfasis inicial recae en la existencia <u>de</u> muchos miembros dentro de un solo cuerpo.
+##### 1 Pedro 1:12 "\scripture{A ellos les fue} \scripture{<u>revelado</u>} \scripture{que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar}".
 
-###### la siguiente frase añade una observación <u>importante</u> acerca de esos miembros.
+##### En este versículo vemos los prophetas que dieron revelación sobre Cristo, nosotros lo recibimos, otros predicaron/testificaron el Evangelio (Cristo murio por nuestros pecados y resucito) por medio del poder del Espíritu Santo, y estas cosas los angeles anhelan mirar.
 
-#### pero no todos los miembros tienen la misma función,
-##### Pablo aclara que la unidad no <u>significa</u> uniformidad.
+##### Los ángeles fueron testigos a <u>través</u> de la vida de Jesús. Efesios 3:10
 
-###### Los miembros pertenecen al mismo cuerpo, pero no realizan <u>exactamente</u> la misma tarea.
+##### Ángeles fueron testigos de Su nacimiento (Lucas 2:9-14), Su tentación en el desierto (Mateo 4:11), Su <u>agonía</u> en el jardín (Lucas 22:43) y Su resurrección (Mateo 28:5-6).
 
-###### Esta observación prepara la aplicación directa que hará en Romanos 12:5 acerca de la <u>comunidad</u> de creyentes.
+#### El...fue proclamado entre las naciones...
 
-###### el siguiente versículo trasladará la comparación del cuerpo a la <u>realidad</u> de la iglesia.
+##### La proclamación de su nombre ha llegado a los <u>confines</u> de la tierra. Su nombre ha sido anunciado a las naciones.
 
-### Romanos 12:5
-así nosotros, que somos muchos, somos un cuerpo en Cristo e individualmente miembros los unos de los otros.
+##### Los <u>Apóstoles</u> lo proclamaron
 
-#### así nosotros, que somos muchos,
-##### Pablo ahora aplica directamente la ilustración <u>del</u> cuerpo.
+##### Los discípulos lo <u>proclamaron</u>
 
-###### Lo que era una comparación <u>en</u> el versículo anterior ahora se convierte en una descripción de la comunidad.
+##### Seguimos proclamando la <u>persona</u> y obra de Cristo.
 
-###### <u>El</u> énfasis permanece en la existencia de muchos dentro de una misma realidad.
+#### El...fue creído en el mundo...
 
-###### la siguiente frase identifica cuál <u>es</u> esa realidad compartida.
+##### Al proclamar su nombre a las naciones, muchos en el <u>mundo</u> pusieron su confianza en Él.
 
-#### somos un cuerpo en Cristo
-##### <u>Pablo</u> afirma la unidad de todos los creyentes.
+##### Después de escuchar el mensaje de la verdad, el Evangelio de Jesucristo, las personas a <u>través</u> del mundo entero pusieron su fe en Él. Efesios 1:13
 
-###### Aunque son muchos, forman <u>un</u> solo cuerpo.
+#### El...fue recibido arriba en gloria...
 
-###### La expresión "en Cristo" conecta esta unidad <u>con</u> la realidad que Pablo ha venido desarrollando a lo largo de la carta.
+##### Después que Él murió por nuestros pecados y fue sepultado, el Espíritu Santo Le levantó de los muertos (Romanos 8:11) y el Padre Lo <u>recibió</u> en gloria. Hechos 1:9-11; Romanos 8:34; Hebreos 1:3
 
-###### <u>Véase</u> Romanos 6:11; Romanos 8:1.
-
-###### la <u>siguiente</u> frase añade una segunda dimensión de esta unidad.
-
-#### e individualmente miembros los unos de los otros.
-##### La unidad <u>no</u> elimina la individualidad.
-
-###### Cada miembro conserva su identidad, pero al mismo tiempo queda relacionado <u>con</u> los demás.
-
-###### <u>Pablo</u> no describe miembros aislados, sino miembros vinculados entre sí.
-
-###### <u>Esta</u> relación prepara naturalmente la conversación sobre los diferentes dones en los versículos siguientes.
-
-###### Romanos 12:6 explicará cómo esta diversidad <u>se</u> expresa mediante distintos dones.
-
-### Romanos 12:6
-Pero teniendo diferentes dones, según la gracia que nos ha sido dada, usémoslos: si el de profecía, úsese en proporción a la fe;
-
-#### Pero teniendo diferentes dones,
-##### Pablo desarrolla <u>la</u> diversidad que acaba de mencionar.
-
-###### Los miembros no solo tienen <u>funciones</u> distintas; también reciben dones distintos.
-
-###### La diferencia entre unos y otros no es presentada como un problema, sino como una realidad <u>normal</u> dentro del mismo cuerpo.
-
-###### la siguiente frase explica el origen <u>de</u> esos dones.
-
-#### según la gracia que nos ha sido dada,
-##### Pablo atribuye estos dones a la <u>gracia</u> de Dios.
-
-###### El origen de los dones no está en la <u>capacidad</u> personal, sino en lo que ha sido dado.
-
-###### Esta referencia a la gracia mantiene el mismo énfasis de humildad <u>que</u> apareció en Romanos 12:3.
-
-###### <u>ahora</u> Pablo comienza a enumerar ejemplos concretos.
-
-#### usémoslos:
-##### Pablo pasa de la descripción <u>a</u> la acción.
-
-###### Los dones no son <u>mencionados</u> para ser admirados o comparados, sino para ser ejercidos.
-
-###### Lo que sigue muestra <u>varios</u> ejemplos de cómo debe funcionar esta diversidad dentro del cuerpo.
-
-###### la primera ilustración es <u>la</u> profecía.
-
-#### si el de profecía, úsese en proporción a la fe;
-##### <u>Pablo</u> inicia una lista de dones específicos.
-
-###### El énfasis del versículo no está en definir la profecía, sino <u>en</u> ejercerla de acuerdo con la medida que corresponde.
-
-###### La lista continuará mostrando <u>el</u> mismo patrón: cada don debe expresarse de acuerdo con su propia función.
-
-###### Romanos 12:7 continúa con el servicio y <u>la</u> enseñanza.
-
-### Romanos 12:7
-si el de servicio, en servir; o el que enseña, en la enseñanza;
-
-#### si el de servicio, en servir;
-##### Pablo continúa desarrollando la diversidad de <u>dones</u>.
-
-###### La atención permanece en la función misma: quien sirve debe <u>dedicarse</u> al servicio.
-
-###### El énfasis está en la actividad <u>correspondiente</u> al don recibido.
-
-###### la <u>siguiente</u> frase presenta un segundo ejemplo.
-
-#### o el que enseña, en la enseñanza;
-##### Pablo añade el don de <u>enseñanza</u>.
-
-###### Igual que en el caso anterior, el énfasis recae en ejercer <u>fielmente</u> aquello que corresponde a la función recibida.
-
-###### La estructura del versículo muestra una misma idea repetida: cada don debe desarrollarse <u>dentro</u> de su propia esfera.
-
-###### Romanos 12:8 ampliará la lista con <u>varios</u> ejemplos adicionales.
-
-### Romanos 12:8
-el que exhorta, en la exhortación; el que da, con liberalidad; el que dirige, con diligencia; el que muestra misericordia, con alegría.
-
-#### el que exhorta, en la exhortación;
-##### <u>Pablo</u> continúa aplicando el mismo principio.
-
-###### El enfoque permanece en la <u>tarea</u> correspondiente al don recibido.
-
-###### La lista sigue mostrando diversidad dentro del mismo <u>cuerpo</u>.
-
-###### la siguiente frase pasa al acto <u>de</u> compartir con otros.
-
-#### el que da, con liberalidad;
-##### Pablo menciona ahora <u>el</u> dar.
-
-###### La atención se dirige a la manera en que debe <u>ejercerse</u> esta función.
-
-###### La <u>liberalidad</u> caracteriza el ejercicio de este don.
-
-###### La siguiente frase se enfoca en quienes están al frente de <u>otros</u>.
-
-#### el que dirige, con diligencia;
-##### Pablo añade otra función dentro <u>de</u> la comunidad.
-
-###### El énfasis no está en la posición <u>misma</u>, sino en la forma de ejercerla.
-
-###### La diligencia aparece como la característica <u>que</u> acompaña esta labor.
-
-###### La última frase <u>presenta</u> un ejemplo más.
-
-#### el que muestra misericordia, con alegría.
-##### Pablo concluye la lista con la <u>misericordia</u>.
-
-###### <u>La</u> misericordia no solo debe practicarse; también debe estar acompañada por una disposición adecuada.
-
-###### Con este versículo <u>termina</u> la lista de dones iniciada en Romanos 12:6.
-
-###### Romanos 12:9 abre una nueva subsección enfocada en las relaciones dentro de la comunidad, <u>comenzando</u> con la expresión: “El amor sea sin hipocresía”.
+##### Todos estos dieron testimonio de "\scripture{Él}", Jesucristo. Todos en tiempo pasado porque es una obra completa y hecha, terminada y aprobada.
 
 > En Síntesis
->- Pablo pasa de explicar las misericordias de Dios a mostrar la respuesta que corresponde a quienes las han recibido.
->- La exhortación comienza con un llamado a presentar los cuerpos a Dios y a vivir con una mente renovada, capaz de discernir Su voluntad.
->- Esa renovación también transforma la manera de pensar acerca de uno mismo, reemplazando la autoexaltación por una evaluación sobria y correcta.
->- Pablo utiliza la imagen del cuerpo para mostrar que la unidad no elimina la diversidad.
->- Muchos miembros forman un solo cuerpo en Cristo y dependen unos de otros.
->- Los distintos dones son presentados como expresiones de la gracia de Dios y deben ser ejercidos conforme a la función que cada uno ha recibido.
->- La sección prepara el tema que sigue: cómo debe verse esa vida presentada a Dios en las relaciones diarias dentro de la comunidad.
+>
+> - Pablo presenta los requisitos para los diáconos, mostrando que el servicio dentro de la casa de Dios debe estar respaldado por un carácter digno, íntegro y confiable.
+> - Los diáconos deben conservar el misterio de la fe con limpia conciencia, uniendo la verdad que profesan con una vida que corresponde a ella.
+> - Antes de servir, su vida debe ser examinada y probada, de modo que el servicio sea confiado a personas cuya fidelidad ya sea evidente.
+> - Las cualidades descritas para las mujeres continúan el mismo énfasis de la sección: dignidad, dominio propio, fidelidad e integridad visibles en la conducta diaria.
+> - Al igual que los obispos, los diáconos deben demostrar fidelidad en su vida familiar y en la manera en que conducen su hogar.
+> - La sección concluye mostrando que el servicio fiel produce honor y fortalece la confianza en la fe que es en Cristo Jesús.
 
-## Romanos 12:9–21 - El amor sin hipocresía
+<!-- @quiz timoteo-2 -->
 
-### Romanos 12:9
-El amor sea sin hipocresía; aborreciendo lo malo, aplicándose a lo bueno.
+# 1 TIMOTEO 4:1-16 - ESE PROPÓSITO SERÁ AMENAZADO
 
-#### El amor sea sin hipocresía;
-##### Pablo introduce el tema <u>principal</u> de esta sección: un amor genuino.
+## 1 Timoteo 4:1–5 - Algunos se apartarán del propósito
 
-###### Después de hablar de dones y funciones, el énfasis pasa a la manera en <u>que</u> los creyentes deben relacionarse entre sí.
+### 1 Timoteo 4:1
 
-###### Todo lo que sigue hasta el final del capítulo desarrolla cómo se ve este <u>amor</u> en la práctica.
+El Espíritu dice claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañadores y a doctrinas de demonios,
 
-###### <u>las</u> siguientes frases muestran dos características básicas de este amor.
+#### El Espíritu dice claramente que en los últimos tiempos
 
-#### aborreciendo lo malo,
-##### El <u>amor</u> descrito por Pablo no es indiferente frente al mal.
+##### Pablo introduce una advertencia solemne proveniente del Espíritu Santo.
 
-###### El texto presenta una actitud de rechazo <u>hacia</u> aquello que es malo.
+##### La amenaza que va a describir no es una posibilidad remota. Es algo que el Espíritu anunció claramente.
 
-###### Esta expresión forma pareja con la siguiente: rechazar lo malo y aferrarse a <u>lo</u> bueno.
+-   El origen de la advertencia es el Espíritu Santo.
+-   La advertencia es explícita.
+-   Pablo prepara a Timoteo para un peligro real.
 
-###### Ahora Pablo <u>presenta</u> el aspecto positivo.
+##### Esta advertencia armoniza con lo que Pablo ya había dicho a los ancianos de Éfeso.
 
-#### aplicándose a lo bueno.
-##### El amor no <u>consiste</u> solamente en evitar lo malo.
+-   Pablo ya había advertido acerca de peligros futuros.
+-   La iglesia debía permanecer vigilante.
+-   La verdad siempre estaría bajo amenaza.
 
-###### Pablo añade una adhesión activa a lo <u>bueno</u>.
+#### algunos se apartarán de la fe
 
-###### Las dos expresiones juntas funcionan como introducción a todas las instrucciones que <u>siguen</u>.
+##### Pablo anuncia que algunos abandonarán la fe.
 
-###### Romanos 12:10 comienza a <u>describir</u> cómo este amor se expresa entre los creyentes.
+##### El énfasis recae sobre el alejamiento de la fe que anteriormente profesaban o sostenían.
 
-### Romanos 12:10
-Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
+-   Algunos se apartarán.
+-   No todos se apartarán.
+-   El peligro es real.
 
-#### Sean afectuosos unos con otros
-##### Pablo dirige la atención a <u>las</u> relaciones dentro de la comunidad.
+##### La carta ya había presentado ejemplos de este problema.
 
-###### El amor del <u>versículo</u> anterior se expresa mediante afecto genuino entre los creyentes.
+-   Algunos enseñaban doctrinas diferentes (1:3).
+-   Algunos naufragaron en cuanto a la fe (1:19).
+-   Algunos ahora son descritos apartándose de la fe.
 
-###### El énfasis está en la cercanía y el <u>cuidado</u> mutuo.
+#### prestando atención a espíritus engañadores
 
-###### La siguiente frase identifica la <u>clase</u> de amor que tiene en mente.
+##### Pablo explica la influencia que acompaña ese apartamiento.
 
-#### con amor fraternal;
-##### Pablo utiliza <u>lenguaje</u> familiar.
+##### Nuevamente aparece la idea de prestar atención o fijar la atención en algo.
 
-###### <u>Los</u> creyentes son descritos relacionándose unos con otros como hermanos.
+-   La atención determina la dirección.
+-   Lo que una persona escucha influye en lo que termina creyendo.
+-   El problema comienza con aquello a lo que se presta atención.
 
-###### Esta idea desarrolla la <u>unidad</u> que ya apareció en Romanos 12:5.
+##### La expresión contrasta con el propósito de la enseñanza apostólica.
 
-###### la siguiente frase muestra una manifestación concreta de <u>este</u> amor.
+-   Debían prestar atención a la verdad.
+-   Algunos prestarían atención al engaño.
+-   El resultado sería el apartamiento.
 
-#### con honra, dándose preferencia unos a otros.
-##### Pablo introduce el tema de <u>la</u> honra mutua.
+#### y a doctrinas de demonios
 
-###### En lugar de buscar reconocimiento para <u>uno</u> mismo, el énfasis se dirige hacia los demás.
+##### Pablo identifica el origen espiritual de esas enseñanzas.
 
-###### La honra aparece como <u>una</u> expresión visible del amor fraternal.
+##### La falsa enseñanza no es simplemente un error intelectual. Existe una influencia espiritual detrás del engaño.
 
-###### Romanos 12:11 continúa describiendo la actitud <u>que</u> debe caracterizar esta vida compartida.
+-   Son doctrinas contrarias a la verdad.
+-   Promueven el engaño.
+-   Se oponen al propósito de Dios revelado en Cristo.
 
-### Romanos 12:11
-No sean perezosos en lo que requiere diligencia. Sean fervientes en espíritu, sirviendo al Señor,
+##### El contraste con 3:15-16 es evidente.
 
-#### No sean perezosos en lo que requiere diligencia.
-##### Pablo contrasta la negligencia con la <u>diligencia</u>.
+-   La iglesia es columna y sostén de la verdad.
+-   Cristo es el misterio de la piedad.
+-   Las doctrinas de demonios conducen en la dirección opuesta.
 
-###### La vida que describe no es pasiva ni <u>descuidada</u>.
+### 1 Timoteo 4:2
 
-###### El <u>llamado</u> es a mantener compromiso y dedicación en aquello que corresponde hacer.
+mediante la hipocresía de mentirosos que tienen cauterizada la conciencia.
 
-###### <u>la</u> siguiente frase añade otra característica de esta actitud.
+#### mediante la hipocresía de mentirosos
 
-#### Sean fervientes en espíritu,
-##### Pablo describe una disposición marcada <u>por</u> intensidad y entusiasmo.
+##### Pablo explica el medio por el cual se propaga el engaño.
 
-###### El contraste con la pereza <u>del</u> miembro anterior es evidente.
+##### Los espíritus engañadores y las doctrinas de demonios no aparecen de manera visible. Operan a través de personas que enseñan y promueven el error.
 
-###### La diligencia <u>no</u> debe ser mecánica, sino acompañada de fervor.
+-   El engaño llega mediante mentirosos.
+-   El error es transmitido por personas.
+-   La falsa enseñanza tiene representantes humanos.
 
-###### la siguiente frase señala la orientación de <u>ese</u> servicio.
+##### Pablo describe a estos hombres como hipócritas.
 
-#### sirviendo al Señor,
-##### Pablo dirige toda esta actividad hacia el <u>Señor</u>.
+-   Existe una diferencia entre lo que aparentan y lo que realmente son.
+-   Su apariencia no corresponde a la realidad.
+-   El engaño está acompañado por falsedad.
 
-###### El servicio no se <u>presenta</u> como una búsqueda de reconocimiento humano.
+##### Esta observación encaja con el tema de la carta.
 
-###### Esta referencia <u>conecta</u> las acciones descritas con una realidad mayor que las sostiene.
+-   Pablo ya había advertido contra las doctrinas extrañas.
+-   Algunos pretendían ser maestros de la ley.
+-   Ahora aparecen mentirosos que promueven el error.
 
-###### Romanos 12:12 continúa con tres exhortaciones breves <u>relacionadas</u> entre sí.
+#### que tienen cauterizada la conciencia
 
-### Romanos 12:12
-gozándose en la esperanza, perseverando en el sufrimiento, dedicados a la oración,
+##### Pablo describe la condición espiritual de estos engañadores.
 
-#### gozándose en la esperanza,
-##### Pablo comienza <u>con</u> una actitud de alegría relacionada con la esperanza.
+##### La conciencia ya no funciona correctamente como instrumento de discernimiento moral.
 
-###### La esperanza aparece como motivo de gozo aun <u>cuando</u> las circunstancias no sean ideales.
+-   Su conciencia ha perdido sensibilidad.
+-   No responden adecuadamente al bien y al mal.
+-   El problema no es solamente intelectual sino también moral.
 
-###### Esta esperanza ya ha <u>sido</u> mencionada anteriormente en la carta.
+##### Esta descripción contrasta con una de las cualidades más importantes de la carta.
 
-###### <u>Véase</u> Romanos 5:2–5.
+-   Los diáconos debían guardar la fe con limpia conciencia (3:9).
+-   Algunos rechazaron la buena conciencia y naufragaron en la fe (1:19).
+-   Estos engañadores aparecen con una conciencia cauterizada.
 
-###### la siguiente frase <u>muestra</u> cómo responder en medio de la dificultad.
+##### Pablo continúa desarrollando el mismo contraste.
 
-#### perseverando en el sufrimiento,
-##### Pablo añade la <u>perseverancia</u> frente a la aflicción.
+-   La verdad produce una buena conciencia.
+-   El engaño endurece la conciencia.
+-   La casa de Dios debe sostener la verdad frente a este peligro.
 
-###### El <u>gozo</u> en la esperanza no elimina las dificultades, pero acompaña la perseverancia en ellas.
+### 1 Timoteo 4:3
 
-###### Las dos expresiones funcionan juntas dentro del mismo <u>pensamiento</u>.
+Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad.
 
-###### la <u>tercera</u> frase muestra una práctica constante que acompaña ambas.
+#### Esos prohibirán casarse y mandarán abstenerse de alimentos
 
-#### dedicados a la oración,
-##### Pablo completa la secuencia <u>con</u> la oración.
+##### Pablo ahora identifica ejemplos concretos de las enseñanzas que acompañarán este apartamiento de la verdad.
 
-###### La oración aparece como una práctica continua dentro de la vida que está <u>describiendo</u>.
+##### Los falsos maestros impondrán prohibiciones sobre cosas que Dios permitió.
 
-###### Las tres expresiones juntas forman una breve descripción de <u>constancia</u> y dependencia.
+-   Prohibirán el matrimonio.
+-   Mandarán abstenerse de alimentos.
+-   Presentarán restricciones como parte de su enseñanza.
 
-###### Romanos 12:13 pasa a necesidades concretas dentro <u>de</u> la comunidad.
+##### El énfasis del versículo no recae sobre el matrimonio o la comida en sí mismos.
 
-### Romanos 12:13
-contribuyendo para las necesidades de los santos, practicando la hospitalidad.
+-   El problema es la prohibición.
+-   El problema es imponer restricciones que Dios no impuso.
+-   Pablo está mostrando el resultado práctico de la falsa enseñanza.
 
-#### contribuyendo para las necesidades de los santos,
-##### Pablo dirige la <u>atención</u> hacia las necesidades de otros creyentes.
+##### Existe una conexión con el tema desarrollado anteriormente.
 
-###### <u>El</u> amor descrito en esta sección incluye participación práctica en las necesidades de la comunidad.
+-   Prestaron atención a espíritus engañadores.
+-   Escucharon doctrinas de demonios.
+-   Ahora enseñan prohibiciones que afectan la vida diaria.
 
-###### La preocupación por otros no queda solamente en palabras <u>o</u> sentimientos.
+#### que Dios los ha creado
 
-###### la <u>siguiente</u> frase amplía esta disposición hacia la hospitalidad.
+##### Pablo responde a esas prohibiciones apelando a la obra de Dios.
 
-#### practicando la hospitalidad.
-##### Pablo añade una expresión concreta <u>de</u> apertura hacia otros.
+##### La autoridad final no es la enseñanza de estos hombres, sino lo que Dios ha hecho y declarado.
 
-###### La <u>hospitalidad</u> aparece aquí como una práctica activa, no como una idea abstracta.
+-   Dios es el Creador.
+-   Dios creó estas cosas.
+-   La creación refleja Su provisión.
 
-###### Ambas <u>exhortaciones</u> muestran un amor que se traduce en acciones visibles.
+#### para que con acción de gracias participen de ellos
 
-###### Romanos 12:14 extiende <u>esta</u> actitud incluso hacia quienes persiguen.
+##### Pablo muestra el propósito divino para estas cosas.
 
-### Romanos 12:14
-Bendigan a los que los persiguen. Bendigan, y no maldigan.
+##### Lo que Dios creó debe recibirse con gratitud hacia Él.
 
-#### Bendigan a los que los persiguen.
-##### Pablo <u>amplía</u> el alcance de sus instrucciones.
+-   La respuesta apropiada es la acción de gracias.
+-   La atención se dirige al Dador.
+-   La provisión de Dios produce gratitud.
 
-###### Ya no habla solamente de la relación entre creyentes, sino <u>también</u> de quienes los persiguen.
+##### El contraste es notable.
 
-###### La respuesta ordenada <u>no</u> es represalia, sino bendición.
+-   Los falsos maestros prohíben.
+-   Dios provee.
+-   Los creyentes responden con agradecimiento.
 
-###### <u>la</u> siguiente frase repite la instrucción para enfatizarla.
+#### los que creen y que han conocido la verdad
 
-#### Bendigan, y no maldigan.
-##### Pablo <u>refuerza</u> deliberadamente el mandato.
+##### Pablo relaciona esta respuesta con la fe y la verdad.
 
-###### La repetición destaca la importancia de esta <u>respuesta</u>.
+##### La verdad conduce a una correcta comprensión de los dones de Dios.
 
-###### La <u>segunda</u> mitad del versículo presenta el contraste directo entre bendecir y maldecir.
+-   Los creyentes conocen la verdad.
+-   Los creyentes reciben con gratitud.
+-   La verdad produce agradecimiento en lugar de esclavitud a reglamentos humanos.
 
-###### <u>Véase</u> también Mateo 5:44.
+##### El contraste con la falsa enseñanza continúa desarrollándose.
 
-###### Romanos 12:15 vuelve al <u>ámbito</u> de las relaciones personales.
+-   La falsa enseñanza añade restricciones.
+-   La verdad reconoce la provisión de Dios.
+-   La falsa enseñanza produce dependencia de reglas humanas.
+-   La verdad dirige la atención hacia Dios y Su bondad.
 
-### Romanos 12:15
-Gócense con los que se gozan y lloren con los que lloran.
+### 1 Timoteo 4:4
 
-#### Gócense con los que se gozan
-##### Pablo llama a <u>compartir</u> las experiencias de otros.
+Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;
 
-###### El <u>gozo</u> ajeno no debe producir competencia ni envidia.
+#### Pablo fundamenta su respuesta en el carácter de la creación de Dios.
 
-###### La comunidad es presentada participando de las <u>alegrías</u> de sus miembros.
+##### Todo lo que Dios creó es bueno.
 
-###### la siguiente <u>frase</u> presenta el paralelo correspondiente.
+##### Por esta razón, aquello que Dios ha creado no debe ser rechazado como si fuera inherentemente malo.
 
-#### y lloren con los que lloran.
-##### <u>Pablo</u> mantiene la misma lógica en el sufrimiento.
+#### ...todo lo creado por Dios es bueno...
 
-###### Así como el gozo <u>se</u> comparte, también el dolor.
+##### La bondad de las cosas creadas proviene de su Creador.
 
-###### El versículo muestra una comunidad involucrada en la realidad de <u>otros</u>, tanto en momentos felices como difíciles.
+##### Dios no creó estas cosas para perjudicar al hombre, sino para ser recibidas conforme a Su propósito.
 
-###### Romanos 12:16 resume esta actitud mediante un <u>llamado</u> a la unidad y la humildad.
+#### ...y nada se debe rechazar...
 
-### Romanos 12:16
-Tengan el mismo sentir unos con otros. No sean altivos en su pensar, sino condescendiendo con los humildes. No sean sabios en su propia opinión.
+##### Pablo rechaza la idea de que ciertas cosas creadas por Dios deban prohibirse como medio para alcanzar una mayor espiritualidad.
 
-#### Tengan el mismo sentir unos con otros.
-##### Pablo <u>llama</u> a una disposición de armonía mutua.
+##### El problema no está en aquello que Dios creó.
 
-###### <u>Esta</u> exhortación recoge muchos de los temas desarrollados desde Romanos 12:9.
+#### ...si se recibe con acción de gracias.
 
-###### El énfasis está en la relación entre los creyentes, no en <u>la</u> exaltación personal.
+##### La respuesta apropiada del creyente es la gratitud.
 
-###### La siguiente frase identifica <u>una</u> amenaza para esa unidad.
+##### Recibir algo con acción de gracias reconoce que proviene de Dios y que ha sido dado por Él para nuestro beneficio.
 
-#### No sean altivos en su pensar,
-##### Pablo advierte <u>contra</u> la arrogancia.
+##### La falsa enseñanza transforma la provisión de Dios en motivo de prohibición. La verdad la transforma en motivo de gratitud.
 
-###### El problema señalado no es una <u>diferencia</u> de dones o funciones, sino una actitud elevada acerca de uno mismo.
+##### Atención especial
 
-###### Esta preocupación <u>ya</u> apareció en Romanos 12:3.
+-   Pablo fundamenta su argumento en la bondad de la creación.
+-   Todo lo creado por Dios es presentado como bueno.
+-   El problema no está en las cosas creadas, sino en el uso incorrecto de ellas.
+-   La gratitud reconoce a Dios como la fuente de la provisión.
+-   La respuesta correcta a la provisión de Dios es la acción de gracias.
 
-###### Ahora presenta <u>la</u> alternativa.
+### 1 Timoteo 4:5
 
-#### sino condescendiendo con los humildes.
-##### <u>Pablo</u> dirige la atención hacia quienes ocupan posiciones modestas.
+porque es santificado mediante la palabra de Dios y la oración.
 
-###### El contraste es claro: <u>en</u> lugar de buscar lo elevado, acercarse a los humildes.
+#### ...es santificado...
 
-###### Esta instrucción continúa desarrollando el tema de la humildad <u>dentro</u> de la comunidad.
+##### La idea no es que estas cosas eran impuras y luego llegaron a ser puras.
 
-###### La frase <u>final</u> resume la advertencia.
+##### Más bien, son consideradas y recibidas conforme al propósito que Dios les dio.
 
-#### No sean sabios en su propia opinión.
-##### Pablo concluye con <u>una</u> advertencia directa.
+#### ...mediante la palabra de Dios...
 
-###### La autosuficiencia intelectual y la confianza exagerada en el propio criterio contradicen la actitud que <u>viene</u> describiendo.
+##### La Palabra de Dios da testimonio acerca de ellas.
 
-###### Este versículo funciona como transición hacia <u>las</u> exhortaciones que siguen sobre la relación con otros y la respuesta frente al mal.
+##### Dios mismo ha declarado que Su creación es buena.
 
-###### Romanos 12:17 comenzará <u>aplicando</u> estos principios en situaciones de conflicto y ofensa.
+##### Por medio de la Palabra conocemos el juicio correcto de Dios acerca de estas cosas.
 
-### Romanos 12:17
-Nunca paguen a nadie mal por mal. Respeten lo bueno delante de todos los hombres.
+#### ...y la oración.
 
-#### Nunca paguen a nadie mal por mal.
-##### <u>Pablo</u> prohíbe responder al mal reproduciendo el mismo patrón.
+##### La oración expresa acuerdo con lo que Dios ha dicho.
 
-###### Después de hablar de humildad y armonía, ahora aborda la manera de responder <u>cuando</u> se recibe daño u ofensa.
+##### Al dar gracias, el creyente reconoce que la provisión procede de Dios y la recibe conforme a Su propósito.
 
-###### El énfasis <u>recae</u> sobre la respuesta del creyente, no sobre la conducta del agresor.
+##### La Palabra de Dios corrige nuestra manera de pensar acerca de estas cosas, y la oración expresa nuestra gratitud por ellas.
 
-###### Véase <u>también</u> Proverbios 20:22.
+##### Atención especial
 
-###### la siguiente frase añade <u>una</u> orientación positiva.
+-   Pablo continúa explicando por qué no deben rechazarse las cosas creadas por Dios.
+-   La Palabra de Dios revela el juicio correcto acerca de la creación.
+-   La oración reconoce a Dios como el proveedor.
+-   La gratitud es la respuesta apropiada a la provisión de Dios.
+-   El creyente recibe estas cosas conforme a lo que Dios dice de ellas.
 
-#### Respeten lo bueno delante de todos los hombres.
-##### Pablo dirige la atención hacia lo <u>que</u> es honorable y correcto.
+## 1 Timoteo 4:6-10 - Timoteo debe permanecer en el propósito
 
-###### La conducta descrita debe ser visible <u>delante</u> de otros.
+### 1 Timoteo 4:6
 
-###### El contraste del versículo es <u>claro</u>: no devolver mal por mal, sino procurar aquello que es bueno.
+Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús, nutrido con las palabras de la fe y de la buena doctrina que has seguido.
 
-###### Romanos 12:18 amplía esta actitud hacia <u>la</u> búsqueda de la paz.
+#### Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...
 
-### Romanos 12:18
-Si es posible, en cuanto de ustedes dependa, estén en paz con todos los hombres.
+##### Después de advertir acerca de quienes se apartarán de la fe y seguirán doctrinas de demonios, Pablo instruye a Timoteo a enseñar estas cosas a los hermanos.
 
-#### Si es posible,
-##### Pablo <u>reconoce</u> que la paz no siempre depende de una sola persona.
+##### Timoteo no debía ignorar el peligro ni evitar el tema. Debía advertir a la iglesia para protegerla del error.
 
-###### <u>La</u> exhortación incluye una condición realista.
+##### Al hacerlo, sería hallado un buen ministro de Cristo Jesús. Gálatas 1:10; Judas 1:3-4
 
-###### El texto reconoce que pueden existir circunstancias fuera <u>del</u> control del creyente.
+#### ...nutrido con las palabras de la fe...
 
-###### <u>La</u> siguiente frase delimita la responsabilidad personal.
+##### Mientras otros prestaban atención a espíritus engañadores y doctrinas falsas, Timoteo debía mantenerse alimentado por las palabras de la fe.
 
-#### en cuanto de ustedes dependa,
-##### Pablo enfoca la atención en aquello que sí está <u>bajo</u> la responsabilidad del creyente.
+##### La imagen es la de alguien que continuamente recibe alimento y fortaleza.
 
-###### El énfasis no está <u>en</u> controlar la respuesta de otros, sino en la propia conducta.
+##### Su alimento no debía provenir de especulaciones, mitos o enseñanzas humanas, sino de la verdad entregada por Dios. Judas 1:3; Colosenses 2:6-7
 
-###### Esta expresión complementa <u>la</u> condición anterior.
+#### ...y de la buena doctrina que has seguido...
 
-###### ahora aparece la exhortación <u>principal</u>.
+##### Timoteo no necesitaba buscar algo nuevo.
 
-#### estén en paz con todos los hombres.
-##### Pablo llama a buscar relaciones pacíficas <u>con</u> todos.
+##### Debía continuar en la buena doctrina que había recibido y seguido fielmente.
 
-###### El alcance es amplio: no se limita solamente a la <u>comunidad</u> cristiana.
+##### Mientras algunos se apartaban de la fe, Timoteo debía permanecer en ella.
 
-###### Esta instrucción desarrolla el mismo espíritu que aparece <u>en</u> los versículos anteriores.
+##### La protección contra el error no consiste en descubrir nuevas enseñanzas, sino en permanecer en la verdad ya recibida. 2 Timoteo 1:13-14; Tito 1:9
 
-###### Romanos 12:19 explicará por qué el creyente no debe tomar venganza <u>por</u> sí mismo.
+### 1 Timoteo 4:7
 
-### Romanos 12:19
-Amados, nunca tomen venganza ustedes mismos, sino den lugar a la ira de Dios, porque escrito está: «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
+Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien disciplínate a ti mismo para la piedad.
 
-#### Amados,
-##### <u>Pablo</u> introduce esta exhortación con una expresión de afecto.
+#### Pero nada tengas que ver con las fábulas profanas propias de viejas...
 
-###### La advertencia que sigue se da dentro del contexto de cuidado <u>pastoral</u>.
+##### En contraste con la buena doctrina, Pablo le ordena a Timoteo rechazar las fábulas profanas.
 
-###### La siguiente frase contiene <u>la</u> prohibición principal.
+##### Timoteo no debía dedicar tiempo ni atención a enseñanzas que no procedían de la verdad.
 
-#### nunca tomen venganza ustedes mismos,
-##### Pablo <u>prohíbe</u> la venganza personal.
+##### Estas fábulas pertenecen a la misma categoría de los mitos y especulaciones que ya habían causado desviación entre algunos. 1 Timoteo 1:4; Tito 1:14
 
-###### Después de ordenar paz y rechazo del mal por mal, ahora especifica que el creyente no <u>debe</u> asumir el papel de ejecutor de justicia.
+##### Mientras algunos prestaban atención a doctrinas extrañas, Timoteo debía apartarse de ellas completamente.
 
-###### El énfasis está en <u>lo</u> que el creyente no debe hacer.
+#### Más bien disciplínate a ti mismo para la piedad...
 
-###### <u>la</u> siguiente frase presenta la alternativa.
+##### En lugar de ocuparse en fábulas, Timoteo debía ocuparse en la piedad.
 
-#### sino den lugar a la ira de Dios,
-##### Pablo dirige la atención hacia la acción <u>de</u> Dios.
+##### La palabra \scripture{disciplínate} presenta la idea de entrenamiento o ejercicio constante.
 
-###### En <u>lugar</u> de tomar venganza personalmente, el creyente debe dejar espacio para la respuesta divina.
+##### El contraste del pasaje no es entre la falta de disciplina y las disciplinas religiosas, sino entre prestar atención al error y ocuparse en aquello que produce piedad.
 
-###### <u>Esta</u> frase prepara la cita bíblica que sigue.
+##### La piedad no procede de mitos, reglamentos humanos o doctrinas inventadas por hombres.
 
-###### <u>la</u> Escritura es presentada como fundamento de esta instrucción.
+##### La piedad está relacionada con la verdad que Timoteo debía enseñar y seguir. 1 Timoteo 2:2; 3:16; Tito 1:1
 
-#### porque escrito está:
-##### Pablo apoya su exhortación mediante <u>una</u> cita del Antiguo Testamento.
+##### Mientras otros se apartaban de la fe, Timoteo debía permanecer en la verdad y entrenarse continuamente en ella.
 
-###### La prohibición anterior no se basa solamente en una opinión <u>apostólica</u>.
+##### La meta del entrenamiento es la piedad.
 
-###### El argumento queda <u>anclado</u> en la Escritura.
+##### La fuente de la piedad es Cristo, el misterio de la piedad revelado por Dios. 1 Timoteo 3:16
 
-###### la cita <u>explica</u> por qué la venganza no pertenece al creyente.
+### 1 Timoteo 4:8
 
-#### «MÍA ES LA VENGANZA, YO PAGARÉ», dice el Señor.
-##### La cita <u>atribuye</u> la venganza al Señor.
+Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y también para la futura.
 
-###### La respuesta al mal no queda fuera de la justicia; simplemente no pertenece <u>al</u> individuo.
+#### Porque el ejercicio físico aprovecha poco...
 
-###### Pablo utiliza <u>esta</u> cita para reforzar la prohibición de la venganza personal.
+##### Pablo continúa utilizando la imagen del entrenamiento introducida en el versículo anterior.
 
-###### <u>Véase</u> Deuteronomio 32:35.
+##### El ejercicio físico tiene valor y utilidad, pero su beneficio es limitado.
 
-###### Romanos 12:20 mostrará una respuesta completamente diferente hacia el <u>enemigo</u>.
+##### Su provecho está relacionado principalmente con esta vida presente y con aquello que es temporal.
 
-### Romanos 12:20
-«PERO SI TU ENEMIGO TIENE HAMBRE, DALE DE COMER; Y SI TIENE SED, DALE DE BEBER, PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
+##### Pablo no desprecia el ejercicio físico; simplemente establece una comparación con algo de mucho mayor valor.
 
-#### PERO SI TU ENEMIGO TIENE HAMBRE,
-##### Pablo continúa con una cita bíblica que presenta una respuesta inesperada <u>hacia</u> el enemigo.
+#### pero la piedad es provechosa para todo...
 
-###### El contraste con la venganza del versículo <u>anterior</u> es evidente.
+##### En contraste con el ejercicio físico, la piedad produce beneficio en todos los aspectos de la vida.
 
-###### La atención se dirige <u>a</u> una necesidad concreta del enemigo.
+##### La piedad afecta la manera en que el creyente vive, sirve, se relaciona con otros y representa a Cristo.
 
-###### La siguiente frase presenta <u>la</u> respuesta requerida.
+##### Por esta razón, el entrenamiento hacia la piedad tiene una importancia superior al entrenamiento físico.
 
-#### DALE DE COMER;
-##### <u>Pablo</u> describe una acción de ayuda práctica.
+##### La piedad ocupa un lugar central en esta carta. 1 Timoteo 2:2, 3:16, 4:7
 
-###### <u>La</u> respuesta al enemigo no es presentada como represalia sino como provisión.
+#### pues tiene promesa para la vida presente y también para la futura...
 
-###### <u>El</u> énfasis está en satisfacer la necesidad descrita.
+##### La ventaja de la piedad no se limita al tiempo presente.
 
-###### la misma <u>idea</u> se repite con una segunda necesidad.
+##### Su beneficio alcanza tanto la vida actual como la venidera.
 
-#### Y SI TIENE SED,
-##### La cita añade <u>un</u> ejemplo paralelo.
+##### Mientras el ejercicio físico tiene resultados temporales, la piedad está relacionada con propósitos que permanecen.
 
-###### El patrón permanece <u>igual</u>: necesidad seguida de ayuda.
+##### Por esta razón Timoteo debía entrenarse para la piedad y no distraerse con las falsas enseñanzas que amenazaban a la iglesia.
 
-###### La <u>repetición</u> refuerza la idea principal.
+##### La piedad tiene valor ahora y continúa teniendo valor en el futuro.
 
-###### <u>Ahora</u> aparece la acción correspondiente.
+### 1 Timoteo 4:9
 
-#### DALE DE BEBER,
-##### Pablo continúa la misma línea <u>de</u> conducta.
+Palabra fiel es esta, y digna de ser aceptada por todos.
 
-###### La respuesta al enemigo sigue caracterizándose por el bien en <u>lugar</u> del mal.
+#### Palabra fiel
 
-###### Este paralelismo fortalece el argumento de <u>la</u> cita.
+##### Pablo vuelve a destacar una afirmación como completamente confiable.
 
-###### <u>La</u> frase final explica el resultado asociado a esta conducta.
+##### La expresión "\scripture{Palabra fiel}" señala una verdad que puede ser recibida con plena confianza.
 
-#### PORQUE HACIENDO ESTO, CARBONES ENCENDIDOS AMONTONARÁS SOBRE SU CABEZA».
-##### <u>Pablo</u> concluye la cita con una imagen tomada del texto original.
+#### ...y digna de ser aceptada por todos...
 
-###### El énfasis del <u>contexto</u> permanece en hacer bien al enemigo.
+##### Esta verdad no está reservada para algunos creyentes.
 
-###### La imagen funciona como parte de la <u>razón</u> presentada en la cita bíblica.
+##### Es una realidad que toda la iglesia debe recibir y reconocer.
 
-###### <u>Véase</u> Proverbios 25:21–22.
+##### En el contexto inmediato, Pablo se refiere a lo que acaba de afirmar acerca de la piedad.
 
-###### Romanos 12:21 resumirá toda la sección con <u>una</u> declaración final.
+##### La piedad es provechosa para todo porque tiene promesa tanto para la vida presente como para la futura.
 
-### Romanos 12:21
-No seas vencido por el mal, sino vence el mal con el bien.
+##### Por esta razón, esta enseñanza merece ser aceptada plenamente.
 
-#### No seas vencido por el mal,
-##### Pablo resume el peligro que <u>ha</u> estado describiendo.
+##### Atención especial
 
-###### Responder al mal con mal significa permitir que el mal <u>determine</u> la conducta.
+-   Pablo destaca la importancia de la afirmación anterior.
+-   La expresión "\scripture{Palabra fiel}" señala una verdad completamente confiable.
+-   La enseñanza acerca de la piedad debe ser recibida por toda la iglesia.
+-   La piedad tiene valor para la vida presente y para la futura.
 
-###### Este versículo funciona como conclusión de toda la sección <u>iniciada</u> en Romanos 12:9.
+### 1 Timoteo 4:10
 
-###### <u>La</u> siguiente frase presenta la alternativa final.
+Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperanza en el Dios vivo, que es el Salvador de todos los hombres, especialmente de los creyentes.
 
-#### sino vence el mal con el bien.
-##### Pablo concluye <u>con</u> un contraste directo.
+#### Porque por esto trabajamos y nos esforzamos...
 
-###### El bien aparece como la respuesta que debe caracterizar <u>toda</u> la conducta descrita en estos versículos.
+##### Pablo explica por qué él y sus colaboradores trabajan y perseveran en el ministerio.
 
-###### Esta <u>declaración</u> resume el amor sincero, la paz, la renuncia a la venganza y el trato hacia el enemigo desarrollados desde Romanos 12:9.
+##### La razón se conecta con lo anterior. La piedad tiene valor para la vida presente y para la futura, por lo que vale la pena dedicar esfuerzo a este propósito. 1 Timoteo 4:8-9
 
-###### Romanos 13 comenzará una nueva sección enfocada en la relación con las autoridades y <u>el</u> orden establecido.
+#### porque hemos puesto nuestra esperanza en el Dios vivo...
+
+##### La motivación de Pablo no era una recompensa temporal.
+
+##### Su esperanza estaba puesta en el Dios vivo.
+
+##### La esperanza dirige el esfuerzo y la perseverancia del creyente. 1 Timoteo 1:1
+
+#### que es el Salvador de todos los hombres...
+
+##### Pablo vuelve a un tema ya presentado anteriormente en la carta. 1 Timoteo 2:3-6
+
+##### Dios desea que todos los hombres sean salvos y Cristo se dio a sí mismo en rescate por todos. 1 Timoteo 2:4-6
+
+##### Por esta razón, Pablo puede describir a Dios como el Salvador de todos los hombres.
+
+#### especialmente de los creyentes...
+
+##### Aunque la provisión de Dios se extiende a todos los hombres, los creyentes son quienes participan personalmente de esa salvación.
+
+##### Por esta razón Pablo distingue entre todos los hombres y los creyentes.
+
+##### La esperanza de Pablo estaba puesta en este Dios vivo que salva, y por ello continuaba trabajando y esforzándose en el ministerio.
 
 > En Síntesis
->- Pablo describe cómo debe verse el amor dentro de la nueva realidad presentada en Romanos 12.
->- Este amor es sincero, rechaza lo malo, se aferra a lo bueno y busca el bienestar de otros antes que la propia exaltación.
->- La sección enfatiza la humildad, la unidad, el servicio, la hospitalidad y la participación tanto en las alegrías como en los sufrimientos de otros.
->- Pablo también extiende estas instrucciones más allá de la comunidad cristiana, llamando a vivir en paz con todos y a responder al mal sin devolver mal por mal.
->- La venganza pertenece a Dios; por eso el creyente es llamado a hacer bien incluso a sus enemigos.
->- Toda la sección culmina con una exhortación que resume el argumento completo: No ser vencidos por el mal, sino vencer el mal con el bien.
+>
+> - Pablo advierte que el propósito de Dios será amenazado porque algunos se apartarán de la fe, prestando atención al engaño en lugar de permanecer en la verdad.
+> - La falsa enseñanza se manifestará mediante prohibiciones y reglamentos humanos que contradicen la bondad de la creación y la provisión de Dios.
+> - En contraste, la verdad conduce al creyente a recibir con gratitud aquello que Dios ha creado y declarado bueno.
+> - Frente a esta amenaza, Timoteo debía alimentar su vida con las palabras de la fe, rechazar las fábulas y entrenarse continuamente para la piedad.
+> - Pablo afirma que la piedad es de mayor valor que cualquier beneficio temporal, porque tiene promesa tanto para la vida presente como para la futura.
+> - Por esta razón, Pablo y sus colaboradores trabajan y perseveran, habiendo puesto su esperanza en el Dios vivo, quien es el Salvador de todos los hombres, especialmente de los creyentes.
 
-## Romanos 13:1–7 - Sométanse a las autoridades
+## 1 Timoteo 4:11–16 - Timoteo debe persistir en el encargo recibido
 
-### Romanos 13:1
-Sométase toda persona a las autoridades que gobiernan. Porque no hay autoridad sino de Dios, y las que existen, por Dios son constituidas.
+### 1 Timoteo 4:11
 
-#### Sométase toda persona a las autoridades que gobiernan.
-##### Pablo introduce una nueva esfera <u>de</u> relaciones: la relación con las autoridades.
+Esto manda y enseña.
 
-###### La exhortación es universal: “toda <u>persona</u>”.
+#### 1 Timoteo 4:11 Esto manda y enseña...
 
-###### Después de hablar de las relaciones <u>con</u> otros (Romanos 12:9–21), Pablo ahora aborda la relación con quienes ejercen autoridad.
+##### Después de explicar el valor de la piedad y la esperanza puesta en el Dios vivo, Pablo le ordena a Timoteo que enseñe estas cosas a la iglesia.
 
-###### La siguiente <u>frase</u> explica la razón de esta exhortación.
+##### Timoteo no debía presentar estas verdades como simples opiniones o sugerencias.
 
-#### Porque no hay autoridad sino de Dios,
-##### Pablo fundamenta <u>la</u> existencia de la autoridad en Dios.
+##### Debía comunicarlas con autoridad como enseñanza apostólica.
 
-###### La razón presentada no se basa en la calidad de los gobernantes, sino en el <u>origen</u> de la autoridad misma.
+##### Las mismas verdades que debían gobernar la vida de Timoteo debían ser enseñadas también a los demás creyentes.
 
-###### El argumento comienza con una <u>afirmación</u> general acerca de toda autoridad.
+##### Estas cosas debían ocupar un lugar central en la enseñanza de la iglesia.
 
-###### <u>La</u> siguiente frase desarrolla esa afirmación.
+##### La piedad es provechosa para la vida presente y para la futura. 1 Timoteo 4:8
 
-#### y las que existen, por Dios son constituidas.
-##### Pablo añade que las autoridades existentes han sido <u>establecidas</u> por Dios.
+##### Nuestra esperanza está puesta en el Dios vivo. 1 Timoteo 4:10
 
-###### Esta frase completa la explicación iniciada en la <u>línea</u> anterior.
+##### Por esta razón Timoteo debía mandar y enseñar continuamente estas cosas. 1 Timoteo 4:11
 
-###### Ambas afirmaciones juntas sirven de fundamento para <u>la</u> exhortación a someterse.
+### 1 Timoteo 4:12
 
-###### Romanos 13:2 <u>mostrará</u> la implicación de resistir esa autoridad.
+No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, fe y pureza.
 
-### Romanos 13:2
-Por tanto, el que resiste a la autoridad, a lo ordenado por Dios se ha opuesto; y los que se han opuesto, recibirán condenación sobre sí mismos.
+#### 1 Timoteo 4:12a No permitas que nadie menosprecie tu juventud...
 
-#### Por tanto,
-##### Pablo extrae una conclusión <u>de</u> lo que acaba de afirmar.
+##### Timoteo era relativamente joven para la responsabilidad que había recibido en Éfeso.
 
-###### Si la autoridad procede de Dios, entonces la <u>actitud</u> hacia la autoridad tiene consecuencias.
+##### La palabra \scripture{menosprecie} (KATAPHRONEO) significa mirar con desprecio o tratar algo como de poco valor.
 
-###### Este versículo desarrolla la implicación lógica <u>de</u> Romanos 13:1.
+##### Algunos podían cuestionar la capacidad de Timoteo debido a su juventud. Sin embargo, Pablo sabía cómo Dios estaba obrando en él. Filipenses 2:20-23
 
-#### el que resiste a la autoridad,
-##### Pablo describe una <u>acción</u> específica: resistir la autoridad.
+##### 1 Timoteo 4:12b "\scripture{sino sé ejemplo de los creyentes...}"
 
-###### La atención <u>se</u> centra en la respuesta de la persona frente a la autoridad establecida.
+##### La respuesta al menosprecio no era exigir reconocimiento.
 
-#### a lo ordenado por Dios se ha opuesto;
-##### Pablo conecta <u>la</u> resistencia a la autoridad con oposición a lo que Dios ha establecido.
+##### Timoteo debía responder siendo un ejemplo visible para los creyentes.
 
-###### El <u>argumento</u> sigue la lógica presentada en el versículo anterior.
+##### La palabra \scripture{ejemplo} (TUPOS) describe un modelo, patrón o referencia digna de imitación.
 
-###### La oposición no se describe solamente en <u>términos</u> humanos, sino también en relación con Dios.
+##### Su autoridad no debía descansar en su edad, sino en una vida que reflejara la obra de Cristo.
 
-###### La última frase presenta el <u>resultado</u>.
+##### La siguiente lista muestra áreas donde Timoteo debía ser un ejemplo visible para los creyentes.
 
-#### y los que se han opuesto, recibirán condenación sobre sí mismos.
-##### Pablo señala una consecuencia para <u>quienes</u> persisten en esa oposición.
+##### 1 Timoteo 4:12c "\scripture{sé ejemplo... en palabra...}"
 
-###### El énfasis está <u>en</u> el resultado que acompaña la resistencia descrita.
+##### La manera de hablar de Timoteo debía reflejar la verdad que enseñaba. Colosenses 4:6; Efesios 5:4
 
-###### Este resultado prepara la explicación acerca de la función de los <u>gobernantes</u> en los versículos siguientes.
+##### 1 Timoteo 4:12d "\scripture{sé ejemplo... en conducta...}"
 
-###### Romanos 13:3 explicará por qué las autoridades <u>producen</u> temor en ciertos casos.
+##### Su manera de vivir debía ser consistente con su enseñanza. Santiago 3:13; Filipenses 3:17
 
-### Romanos 13:3
-Porque los gobernantes no son motivo de temor para los de buena conducta, sino para el que hace el mal. ¿Deseas, pues, no temer a la autoridad? Haz lo bueno y tendrás elogios de ella,
+##### 1 Timoteo 4:12e "\scripture{sé ejemplo... en amor...}"
 
-#### Porque los gobernantes no son motivo de temor para los de buena conducta,
-##### Pablo explica la función normal <u>de</u> la autoridad.
+##### El amor debía caracterizar su trato con los hermanos. Juan 13:35; 1 Pedro 1:22
 
-###### El contraste del versículo gira alrededor de <u>dos</u> conductas: 
-- hacer lo bueno y hacer lo malo.
+##### 1 Timoteo 4:12f "\scripture{sé ejemplo... en fe...}"
 
-###### La autoridad es presentada en relación con esas <u>conductas</u>.
+##### Timoteo debía demostrar una vida de dependencia y confianza en Dios. 1 Timoteo 6:11
 
-###### La <u>siguiente</u> frase introduce el contraste.
+##### 1 Timoteo 4:12g "\scripture{sé ejemplo... en pureza...}"
 
-#### sino para el que hace el mal.
-##### Pablo contrapone la buena conducta con la <u>mala</u> conducta.
+##### La pureza debía distinguir su vida delante de Dios y de los hombres. 1 Juan 3:3; 2 Pedro 3:14
 
-###### El temor aparece asociado a quien practica <u>el</u> mal.
+##### Timoteo no debía ganar influencia por edad, experiencia o posición.
 
-###### Esta observación <u>desarrolla</u> la explicación iniciada en el versículo anterior.
+##### Debía ser reconocido como un ejemplo de lo que la gracia de Dios produce en la vida de un creyente.
 
-###### Ahora Pablo formula una <u>pregunta</u> directa.
+### 1 Timoteo 4:13
 
-#### ¿Deseas, pues, no temer a la autoridad?
-##### Pablo utiliza <u>una</u> pregunta para avanzar el argumento.
+Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación y la enseñanza.
 
-###### La pregunta prepara <u>la</u> respuesta práctica que sigue.
+#### Entretanto que llego...
 
-###### El tema continúa siendo la relación entre conducta <u>y</u> autoridad.
+##### Mientras Pablo estaba ausente, Timoteo debía continuar fielmente en la tarea que había recibido.
 
-#### Haz lo bueno y tendrás elogios de ella,
-##### Pablo presenta una respuesta <u>sencilla</u> dentro de la lógica del argumento.
+##### La ausencia de Pablo no cambiaba la responsabilidad de Timoteo.
 
-###### La buena conducta aparece vinculada al reconocimiento de <u>la</u> autoridad.
+#### ocúpate en la lectura de las Escrituras...
 
-###### El contraste sigue siendo el mismo: bien frente a <u>mal</u>.
+##### La palabra \scripture{ocúpate} (PROSECHO) significa dedicar atención constante o concentrarse en algo.
 
-###### Romanos 13:4 explicará por qué <u>la</u> autoridad cumple esta función.
+##### Pablo manda a Timoteo a dedicarse a la lectura pública de las Escrituras.
 
-### Romanos 13:4
-pues es para ti un ministro de Dios para bien. Pero si haces lo malo, teme. Porque no en vano lleva la espada, pues es ministro de Dios, un vengador que castiga al que practica lo malo.
+##### La lectura de las Escrituras formaba parte de las reuniones del pueblo de Dios. Hechos 13:15; 1 Tesalonicenses 5:27
 
-#### pues es para ti un ministro de Dios para bien.
-##### <u>Pablo</u> describe la función de la autoridad.
+##### La prioridad no era presentar ideas humanas, sino exponer la Palabra de Dios delante de la congregación.
 
-###### La autoridad es presentada como un servidor que cumple <u>una</u> función dentro del propósito de Dios.
+#### ocúpate... en la exhortación...
 
-###### El <u>énfasis</u> aquí está en el bien que esa función busca preservar.
+##### La exhortación consiste en animar, corregir y llamar a responder a la verdad presentada.
 
-###### La <u>siguiente</u> frase presenta el contraste.
+##### La exhortación sigue naturalmente a la lectura de las Escrituras.
 
-#### Pero si haces lo malo, teme.
-##### Pablo vuelve al <u>contraste</u> entre bien y mal.
+##### Pablo había dejado a Timoteo en Éfeso precisamente para corregir enseñanzas desviadas y animar a los creyentes en la verdad. 1 Timoteo 1:3
 
-###### La advertencia se dirige a quien practica aquello que la autoridad debe <u>corregir</u>.
+#### ocúpate... y la enseñanza...
 
-###### El tema del temor reaparece <u>conectado</u> con la mala conducta.
+##### La enseñanza consiste en explicar y comunicar la verdad de manera clara.
 
-###### <u>Ahora</u> Pablo explica la razón.
+##### Timoteo debía dedicarse continuamente a enseñar la sana doctrina. 2 Timoteo 4:2
 
-#### Porque no en vano lleva la espada,
-##### Pablo presenta <u>la</u> autoridad como poseedora de capacidad para ejercer castigo.
+##### La lectura, la exhortación y la enseñanza muestran cuál debía ser el enfoque principal del ministerio de Timoteo.
 
-###### <u>La</u> referencia a la espada explica por qué el temor mencionado no es vacío.
+##### Su tarea no era introducir nuevas ideas, sino ocuparse constantemente en la Palabra de Dios y en comunicarla fielmente a los hermanos.
 
-###### La autoridad posee medios para cumplir su <u>función</u>.
+### 1 Timoteo 4:14
 
-#### pues es ministro de Dios,
-##### Pablo repite <u>una</u> idea ya mencionada anteriormente.
+No descuides el don espiritual que está en ti, que te fue conferido por medio de la profecía con la imposición de manos del presbiterio.
 
-###### La repetición subraya la función que la autoridad desempeña dentro del <u>argumento</u>.
+#### No descuides el don espiritual que está en ti...
 
-###### El énfasis sigue estando <u>en</u> el papel asignado a ella.
+##### Pablo recuerda a Timoteo que Dios le había dado un don espiritual para servir.
 
-###### la frase final explica ese <u>papel</u> con más detalle.
+##### La palabra \scripture{don} (CHARISMA) describe un regalo concedido por la gracia de Dios.
 
-#### un vengador que castiga al que practica lo malo.
-##### Pablo identifica la función <u>específica</u> que tiene en vista.
+##### Timoteo no debía descuidar ni abandonar aquello para lo cual Dios lo había capacitado.
 
-###### La autoridad aparece relacionada con la aplicación de castigo <u>sobre</u> quien practica el mal.
+##### Los dones espirituales son dados para servir y beneficiar al pueblo de Dios. 1 Corintios 12:4-7; 1 Pedro 4:10
 
-###### Esta explicación <u>completa</u> el razonamiento iniciado en Romanos 13:3.
+#### que te fue conferido por medio de la profecía...
 
-###### Romanos 13:5 resumirá la respuesta <u>apropiada</u> frente a esta realidad.
+##### Pablo le recuerda a Timoteo que su ministerio no surgió simplemente de iniciativa humana.
 
-### Romanos 13:5
-Por tanto, es necesario someterse, no solo por razón del castigo, sino también por causa de la conciencia.
+##### Hubo reconocimiento previo de la obra que Dios estaba realizando en su vida. 1 Timoteo 1:18
 
-#### Por tanto,
-##### Pablo <u>vuelve</u> a presentar una conclusión.
+#### ...con la imposición de manos del presbiterio...
 
-###### Esta exhortación resume la explicación de <u>los</u> versículos anteriores.
+##### La imposición de manos acompañó públicamente este reconocimiento y encargo al ministerio.
 
-###### El razonamiento avanza <u>desde</u> la función de la autoridad hacia la respuesta del creyente.
+##### Los ancianos identificaron y respaldaron la obra que Dios estaba realizando en Timoteo.
 
-###### <u>La</u> siguiente frase contiene esa respuesta.
+##### Pablo menciona estas cosas para fortalecer el ánimo de Timoteo.
 
-#### es necesario someterse,
-##### Pablo reafirma el mandato principal <u>de</u> la sección.
+##### Dios lo había llamado, Dios lo había capacitado y la iglesia había reconocido públicamente ese llamado.
 
-###### La exhortación retoma el tema con <u>el</u> que comenzó Romanos 13:1.
+##### Por esta razón, Timoteo no debía descuidar el don que había recibido.
 
-###### <u>Ahora</u> aparece respaldada por todo el argumento desarrollado hasta este punto.
+### 1 Timoteo 4:15
 
-###### <u>La</u> siguiente frase presenta una motivación.
+Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea evidente a todos.
 
-#### no solo por razón del castigo,
-##### Pablo reconoce una razón <u>evidente</u> para someterse.
+#### Reflexiona sobre estas cosas...
 
-###### <u>El</u> castigo mencionado se relaciona con la función explicada en el versículo anterior.
+##### Timoteo debía prestar atención cuidadosa a las instrucciones que Pablo le había dado.
 
-###### Sin embargo, Pablo no <u>se</u> detiene ahí.
+##### La palabra \scripture{reflexiona} (MELETAO) tiene la idea de ocuparse en algo, practicarlo y dedicarle atención constante.
 
-###### la siguiente <u>frase</u> añade una segunda razón.
+#### dedícate a ellas...
 
-#### sino también por causa de la conciencia.
-##### <u>Pablo</u> introduce una motivación adicional.
+##### No bastaba con conocer estas cosas.
 
-###### La sumisión no debe depender únicamente del temor <u>a</u> las consecuencias externas.
+##### Timoteo debía entregarse activamente a ellas.
 
-###### La conciencia también forma <u>parte</u> del razonamiento que Pablo presenta.
+##### Las instrucciones de Pablo debían ocupar un lugar central en su vida y ministerio.
 
-### Romanos 13:6
-Pues por esto también ustedes pagan impuestos, porque los gobernantes son servidores de Dios, dedicados precisamente a esto.
+#### para que tu aprovechamiento sea evidente a todos...
 
-#### Pues por esto también ustedes pagan impuestos,
-##### Pablo aplica el principio anterior a una situación <u>concreta</u>.
+##### La palabra \scripture{aprovechamiento} (PROKOPE) describe avance, progreso o desarrollo visible.
 
-###### El pago de <u>impuestos</u> aparece como una expresión práctica de la relación descrita en esta sección.
+##### Pablo esperaba que el crecimiento de Timoteo fuera observable por quienes lo rodeaban.
 
-###### La <u>frase</u> conecta directamente con la explicación previa acerca de la autoridad.
+##### El objetivo no era buscar la aprobación de los hombres, sino perseverar fielmente en aquello que Dios le había encomendado.
 
-###### La siguiente frase <u>presenta</u> la razón.
+##### Con el tiempo, ese crecimiento sería evidente para todos.
 
-#### porque los gobernantes son servidores de Dios,
-##### Pablo vuelve a describir a los gobernantes mediante el <u>mismo</u> marco utilizado anteriormente.
+##### Pablo no dirige a Timoteo hacia una transformación instantánea.
 
-###### La repetición <u>ayuda</u> a mantener la continuidad del argumento.
+##### Lo anima a continuar creciendo y avanzando de manera constante en aquello que Dios le había llamado a hacer.
 
-###### La <u>función</u> de los gobernantes sigue siendo el fundamento de la exhortación.
+### 1 Timoteo 4:16
 
-###### La última frase completa la <u>idea</u>.
+Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque haciéndolo asegurarás la salvación tanto para ti mismo como para los que te escuchan.
 
-#### dedicados precisamente a esto.
-##### Pablo concluye explicando la actividad a la que están <u>entregados</u>.
+#### Ten cuidado de ti mismo y de la enseñanza...
 
-###### El versículo cierra reafirmando la <u>relación</u> entre la función de los gobernantes y la respuesta esperada de los creyentes.
+##### Pablo concluye esta sección regresando a dos asuntos fundamentales: la vida de Timoteo y la doctrina que enseñaba.
 
-###### Romanos 13:7 resumirá <u>esta</u> sección mediante varias obligaciones concretas hacia las autoridades.
+##### Timoteo debía vigilar cuidadosamente ambas cosas.
 
-### Romanos 13:7
-Paguen a todos lo que deban: al que impuesto, impuesto; al que tributo, tributo; al que temor, temor; al que honor, honor.
+##### No bastaba con enseñar correctamente si descuidaba su propia vida.
 
-#### Paguen a todos lo que deban:
-##### Pablo <u>resume</u> la responsabilidad del creyente hacia otros.
+##### Tampoco bastaba con vivir correctamente si descuidaba la verdad que enseñaba.
 
-###### La instrucción <u>es</u> amplia:
-> «a todos»
+#### Persevera en estas cosas...
 
-###### El énfasis recae en cumplir aquello <u>que</u> corresponde.
+##### La palabra \scripture{persevera} (EPIMENO) comunica la idea de continuar, permanecer o persistir.
 
-#### al que impuesto, impuesto;
-##### Pablo menciona una obligación <u>específica</u>.
+##### Timoteo debía continuar fielmente en las instrucciones que Pablo le había dado.
 
-###### El creyente debía entregar aquello que correspondía en <u>materia</u> de impuestos.
+#### porque haciéndolo asegurarás la salvación...
 
-#### al que tributo, tributo;
-##### Pablo <u>añade</u> una segunda obligación.
+##### La expresión \scripture{haciéndolo} apunta a las instrucciones que acaba de recibir: permanecer en la verdad, cuidar su vida y cuidar su enseñanza.
 
-###### <u>La</u> misma estructura se repite.
+##### El contexto no está hablando de obtener la vida eterna por obras.
 
-###### La instrucción continúa enfatizando dar lo <u>que</u> corresponde.
+##### Pablo está describiendo el beneficio que produce permanecer en la verdad.
 
-#### al que temor, temor;
-##### <u>Pablo</u> pasa de obligaciones económicas a actitudes relacionales.
+##### A lo largo del capítulo ha advertido acerca de apartarse de la fe, escuchar doctrinas engañosas y desviarse de la sana enseñanza. 1 Timoteo 4:1-5
 
-###### El texto <u>menciona</u>:
-> «temor»
+##### La perseverancia en la verdad preserva de esos peligros.
 
-###### como algo que también debe darse <u>donde</u> corresponde.
+#### tanto para ti mismo...
 
-#### al que honor, honor.
-##### Pablo concluye con una cuarta <u>obligación</u>.
+##### Timoteo sería el primero en beneficiarse de permanecer fielmente en estas cosas.
 
-###### La <u>estructura</u> del versículo permanece constante:
+#### como para los que te escuchan...
 
-- impuesto → impuesto
-- tributo → tributo
-- temor → temor
-- honor → honor
+##### La congregación también sería beneficiada por un ministerio que permaneciera en la verdad.
 
-##### <u>Observación</u> desarrollacional:
-###### Pablo cierra la sección sobre las autoridades <u>resumiendo</u> el principio de dar a cada uno lo que corresponde.
+##### La enseñanza sana protege, alimenta y fortalece a quienes la escuchan.
 
-###### El siguiente versículo ampliará este mismo tema <u>mediante</u> una nueva declaración:
-> «No deban a nadie nada, sino el amarse unos a otros».
+##### El capítulo comenzó con algunos apartándose de la fe.
 
-### Romanos 13:8
-No deban a nadie nada, sino el amarse unos a otros. Porque el que ama a su prójimo, ha cumplido la ley.
+##### Termina con Timoteo perseverando en la verdad.
 
-#### No deban a nadie nada,
-##### Pablo pasa de las obligaciones civiles <u>a</u> las relaciones personales.
-
-###### Las deudas normales <u>pueden</u> pagarse y terminar. Sin embargo, presenta una obligación que permanece continuamente.
-
-#### sino el amarse unos a otros.
-##### El amor mutuo aparece como una responsabilidad constante dentro <u>de</u> la comunidad.
-
-###### Este <u>tema</u> ya había sido introducido en Romanos 12:9–10 y ahora recibe un desarrollo más amplio.
-
-#### Porque el que ama a su prójimo, ha cumplido la ley.
-##### Pablo conecta el amor con el propósito de los mandamientos relacionados <u>con</u> el prójimo.
-
-###### Los versículos siguientes explicarán esta afirmación mediante ejemplos <u>concretos</u> de la ley.
-
-### Romanos 13:9
-Porque esto: «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS», y cualquier otro mandamiento, en estas palabras se resume: «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
-
-#### Porque esto:
-##### Pablo <u>demuestra</u> su afirmación citando varios mandamientos conocidos.
-
-#### «NO COMETERÁS ADULTERIO, NO MATARÁS, NO HURTARÁS, NO CODICIARÁS»,
-##### Todos estos mandamientos <u>regulan</u> la manera en que una persona trata a otras personas.
-
-###### Pablo no los presenta <u>de</u> forma aislada, sino como ejemplos de un principio más amplio.
-
-#### y cualquier otro mandamiento,
-##### La <u>misma</u> lógica se extiende más allá de los ejemplos mencionados.
-
-#### «AMARÁS A TU PRÓJIMO COMO A TI MISMO».
-##### Pablo presenta el principio que resume los mandamientos <u>relacionados</u> con el prójimo.
-
-###### <u>Véase</u> Levítico 19:18.
-
-### Romanos 13:10
-El amor no hace mal al prójimo. Por tanto, el amor es el cumplimiento de la ley.
-
-#### El amor no hace mal al prójimo.
-##### Pablo explica por qué el amor <u>resume</u> los mandamientos.
-
-###### Si <u>el</u> amor busca el bien del prójimo, entonces evita precisamente aquello que la ley prohíbe.
-
-#### Por tanto, el amor es el cumplimiento de la ley.
-##### Esta es la conclusión de <u>la</u> sección iniciada en Romanos 13:8.
-
-###### Pablo resume toda <u>la</u> discusión en una sola afirmación.
-
-### Romanos 13:11
-Y hagan todo esto, conociendo el tiempo, que ya es hora de despertarse del sueño. Porque ahora la salvación está más cerca de nosotros que cuando creímos.
-
-#### Y hagan todo esto,
-##### Pablo añade una nueva razón para <u>vivir</u> de esta manera.
-
-###### No <u>solo</u> importa qué hacer, sino también el momento en que se vive.
-
-#### que ya es hora de despertarse del sueño.
-##### Pablo utiliza <u>la</u> imagen de alguien que despierta.
-
-###### La figura prepara el contraste entre noche y día que <u>aparece</u> en los versículos siguientes.
-
-#### Porque ahora la salvación está más cerca de nosotros que cuando creímos.
-##### Pablo señala <u>que</u> el tiempo ha avanzado.
-
-###### Esta realidad impulsa la urgencia de las exhortaciones <u>que</u> siguen.
-
-### Romanos 13:12
-La noche está muy avanzada, y el día está cerca. Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
-
-#### La noche está muy avanzada, y el día está cerca.
-##### Pablo <u>continúa</u> desarrollando la imagen del versículo anterior.
-
-###### La escena describe una transición: una realidad se acerca <u>a</u> su fin mientras otra se aproxima.
-
-#### Por tanto, desechemos las obras de las tinieblas y vistámonos con las armas de la luz.
-##### <u>La</u> conclusión surge directamente de la imagen anterior.
-
-###### Pablo contrasta dos maneras de vivir <u>mediante</u> las figuras de tinieblas y luz.
-
-### Romanos 13:13
-Andemos decentemente, como de día, no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
-
-#### Andemos decentemente, como de día,
-##### Pablo aplica de <u>forma</u> práctica el contraste entre tinieblas y luz.
-
-###### La conducta debe corresponder a <u>la</u> realidad representada por el día.
-
-#### no en orgías y borracheras, no en promiscuidad sexual y lujurias, no en pleitos y envidias.
-##### Pablo presenta varios <u>ejemplos</u> de conductas incompatibles con la exhortación anterior.
-
-###### La lista incluye tanto excesos visibles <u>como</u> actitudes que dañan las relaciones entre las personas.
-
-### Romanos 13:14
-Antes bien, vístanse del Señor Jesucristo, y no piensen en proveer para las lujurias de la carne.
-
-#### Antes bien, vístanse del Señor Jesucristo,
-##### Pablo concluye esta sección retomando la imagen de vestirse <u>introducida</u> en el versículo 12.
-
-###### Después de describir lo que debe abandonarse, ahora presenta aquello con lo que <u>deben</u> identificarse.
-
-#### y no piensen en proveer para las lujurias de la carne.
-##### La exhortación <u>final</u> contrasta directamente con la lista del versículo anterior.
-
-###### Con este llamado, <u>Pablo</u> cierra la unidad práctica iniciada en Romanos 12:1 acerca de presentar la vida a Dios.
+##### La protección contra el error no se encuentra en nuevas experiencias, sino en permanecer fielmente en la enseñanza que Dios ha dado.
 
 > En Síntesis
->- Pablo comienza hablando de la relación del creyente con las autoridades y afirma que la autoridad existe dentro del orden establecido por Dios.
->- Después aplica este principio de manera práctica mediante la sumisión, el pago de impuestos, el respeto y el honor a quienes corresponde.
->- A continuación dirige la atención hacia una deuda que nunca termina:
-El amor al prójimo.
->- Pablo muestra que el amor resume los mandamientos relacionados con el prójimo y concluye que el amor es el cumplimiento de la ley.
->- Luego añade una motivación urgente: el tiempo ha avanzado y la salvación está más cerca que cuando creímos.
->- Por eso exhorta a abandonar las obras de las tinieblas, andar como de día y vestirse del Señor Jesucristo.
->- La sección conecta la obediencia práctica, el amor al prójimo y una vida consciente del tiempo presente, llamando al creyente a vivir de manera coherente con la realidad que se acerca.
+>
+> - Después de advertir acerca de quienes se apartarán de la fe, Pablo vuelve a dirigir la atención hacia la responsabilidad confiada a Timoteo.
+> - Timoteo debía enseñar continuamente estas cosas a la iglesia, permaneciendo nutrido por las palabras de la fe y ocupándose en la piedad.
+> - Su juventud no debía ser un obstáculo, pues debía ejercer influencia mediante el ejemplo en palabra, conducta, amor, fe y pureza.
+> - Pablo le exhorta a dedicarse a la lectura de las Escrituras, la exhortación y la enseñanza, utilizando fielmente el don que Dios le había dado para servir a la iglesia.
+> - El crecimiento de Timoteo debía ser visible a medida que perseveraba en aquello que Dios le había encomendado.
+> - La sección concluye llamándolo a cuidar tanto su vida como su enseñanza, recordando que la perseverancia en la verdad beneficia tanto al que enseña como a quienes escuchan.
 
-# ROMANOS 14:1–15:13 ACÉPTENSE UNOS A OTROS
+# 1 TIMOTEO 5:1-25 - ESE PROPÓSITO SE HACE VISIBLE EN LAS RELACIONES
 
-## 14:1–12 El Señor es quien sostiene a Su siervo
+## 1 Timoteo 5:1–2 - La casa de Dios debe relacionarse como una familia
 
-### Romanos 14:1
-Acepten al que es débil en la fe, pero no para juzgar sus opiniones.
+##### Pablo continúa explicando cómo debe conducirse uno en la casa de Dios. 1 Timoteo 3:15
 
-#### Acepten al que es débil en la fe,
-##### Pablo abre una nueva sección con una instrucción sobre cómo tratar a creyentes que tienen convicciones <u>diferentes</u>.
+##### La iglesia no es simplemente una organización. Es la familia de Dios.
 
-###### El énfasis inicial no está en corregir al débil, sino <u>en</u> recibirlo.
+##### Por esta razón, las relaciones entre los creyentes deben reflejar el cuidado, respeto y amor propios de una familia.
 
-###### <u>El</u> tema principal de esta sección será la convivencia entre creyentes que no piensan igual sobre ciertos asuntos.
+## Con los ancianos
 
-###### <u>La</u> siguiente frase aclara cómo no debe hacerse esa recepción.
+### 1 Timoteo 5:1
 
-#### pero no para juzgar sus opiniones.
-##### La aceptación no debe convertirse en una oportunidad para discutir o condenar las <u>convicciones</u> del otro.
+No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a los más jóvenes, como a hermanos,
 
-###### Pablo dirige la atención hacia la relación entre los creyentes más que <u>hacia</u> el asunto específico que produce la diferencia.
+#### 1 Timoteo 5:1a No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre...
 
-###### Este principio controlará todo el desarrollo de los <u>versículos</u> siguientes.
+##### La palabra \scripture{anciano} aquí se refiere al hombre mayor de edad y no necesariamente al oficio de anciano de la iglesia.
 
-### Romanos 14:2
-Uno tiene fe en que puede comer de todo, pero el que es débil solo come legumbres.
+##### La palabra \scripture{reprender con dureza} (EPIPLESSO) tiene la idea de golpear o herir con palabras.
 
-#### Uno tiene fe en que puede comer de todo,
-##### Pablo presenta <u>el</u> primer ejemplo de diferencia dentro de la comunidad.
+##### Timoteo no debía corregir a los hombres mayores de manera agresiva o humillante.
 
-###### Una persona considera que puede comer cualquier alimento <u>sin</u> problema.
+##### Debía exhortarlos como un hijo trataría a su propio padre.
 
-###### <u>El</u> versículo no discute todavía quién tiene razón; simplemente describe las dos posiciones.
+##### Aun cuando fuera necesario corregir, debía hacerlo con respeto y dignidad. 2 Timoteo 2:25
 
-###### La siguiente frase <u>presenta</u> la posición opuesta.
+## Con los jóvenes
 
-#### pero el que es débil solo come legumbres.
-##### Pablo contrasta al creyente anterior con otro que limita <u>su</u> alimentación.
+##### 1 Timoteo 5:1b "\scripture{...a los más jóvenes, como a hermanos...}"
 
-###### El contraste muestra que ambos pertenecen a <u>la</u> misma comunidad, aunque sus prácticas sean diferentes.
+##### Los creyentes más jóvenes debían ser tratados como hermanos.
 
-### Romanos 14:3
-El que come no desprecie al que no come, y el que no come no juzgue al que come, porque Dios lo ha aceptado.
+##### Timoteo no debía relacionarse con ellos desde una posición de superioridad, sino como parte de la misma familia espiritual.
 
-#### El que come no desprecie al que no come,
-##### Pablo corrige la primera <u>reacción</u> equivocada.
+##### La relación debía caracterizarse por el mismo amor y cuidado que existe entre hermanos.
 
-###### Quien tiene mayor libertad <u>no</u> debe mirar al otro con desprecio o superioridad.
+##### La casa de Dios no está formada por distintas categorías de personas desconectadas unas de otras.
 
-###### La diferencia de práctica <u>no</u> justifica una actitud de menosprecio.
+##### Está formada por creyentes que pertenecen a una misma familia en Cristo.
 
-#### y el que no come no juzgue al que come,
-##### Pablo <u>también</u> corrige al creyente que restringe su alimentación.
+## Con las ancianas
 
-###### La <u>diferencia</u> tampoco debe convertirse en condenación hacia quien actúa de otra manera.
+### 1 Timoteo 5:2
 
-###### Ambos extremos <u>reciben</u> la misma corrección.
+a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pureza.
 
-###### la siguiente frase explica la <u>razón</u>.
+#### 1 Timoteo 5:2a ...a las ancianas, como a madres...
 
-#### porque Dios lo ha aceptado.
-##### Pablo fundamenta su <u>instrucción</u> en la acción de Dios.
+##### Las mujeres mayores de la congregación deben ser tratadas como madres.
 
-###### Si Dios ha recibido a esa persona, los creyentes no <u>tienen</u> base para rechazarla.
+##### Así como Timoteo debía exhortar a los hombres mayores como a padres, también debía relacionarse con las mujeres mayores con respeto, dignidad y consideración.
 
-###### Esta idea será desarrollada aún más en <u>el</u> versículo siguiente.
+##### La iglesia es la casa de Dios.
 
-### Romanos 14:4
-¿Quién eres tú para juzgar al criado de otro? Para su propio amo está en pie o cae. En pie se mantendrá, porque poderoso es el Señor para sostenerlo en pie.
+##### Por esta razón, las mujeres mayores no deben ser ignoradas ni tratadas como si ya no fueran importantes dentro de la congregación.
 
-#### ¿Quién eres tú para juzgar al criado de otro?
-##### Pablo utiliza la imagen de un <u>siervo</u> y su amo.
+##### Ellas ocupan un lugar valioso dentro de la familia de Dios.
 
-###### La pregunta busca mostrar que el creyente pertenece a <u>otro</u> Señor.
+##### Timoteo debía continuar exhortándolas y enseñándoles la verdad como parte de su responsabilidad hacia toda la iglesia. Tito 2:3-5
 
-###### El énfasis recae <u>en</u> los límites de la autoridad humana para juzgar.
+## Con las jóvenes
 
-###### la <u>siguiente</u> frase desarrolla la ilustración.
+##### 1 Timoteo 5:2b "\scripture{...a las más jóvenes, como a hermanas, con toda pureza...}"
 
-#### Para su propio amo está en pie o cae.
-##### <u>Pablo</u> recuerda que el siervo responde ante su propio amo.
+##### Las mujeres jóvenes debían ser tratadas como hermanas.
 
-###### La <u>evaluación</u> definitiva no pertenece a otros siervos.
+##### Pablo añade una instrucción que no menciona en las demás relaciones: "\scripture{con toda pureza}".
 
-###### La imagen mantiene el enfoque en la relación entre el Señor <u>y</u> su siervo.
+##### Timoteo debía ser ejemplo de los creyentes también en esta área. 1 Timoteo 4:12
 
-###### La <u>siguiente</u> frase añade una afirmación importante.
+##### Su trato hacia las hermanas jóvenes debía reflejar la misma pureza que tendría hacia una hermana de sangre.
 
-#### En pie se mantendrá,
-##### <u>Pablo</u> expresa confianza respecto al creyente mencionado.
+##### Esta pureza debía manifestarse en sus palabras, en su conducta, en sus intenciones y en su amor fraternal.
 
-###### La atención se mueve del juicio humano al cuidado del <u>Señor</u>.
+##### La casa de Dios debía distinguirse por relaciones marcadas por la santidad, el respeto y el amor familiar.
 
-###### La siguiente frase explica <u>por</u> qué.
+## 5:3–16 El propósito se hace visible mediante el cuidado de otros
 
-#### porque poderoso es el Señor para sostenerlo en pie.
-##### La estabilidad <u>final</u> del creyente se atribuye al Señor.
+### Introducción
 
-###### El argumento no descansa en la fuerza del <u>siervo</u>, sino en la capacidad de quien lo sostiene.
+Después de mostrar que la iglesia debe relacionarse como una familia (5:1–2), Pablo presenta un ejemplo concreto de cómo esa realidad debe expresarse.
 
-###### Romanos 14:5 introduce un segundo <u>ejemplo</u> de diferencias entre creyentes.
+#### La casa de Dios no es solamente una comunidad unida por doctrina. También es una familia que cuida de sus miembros.
 
-### Romanos 14:5
-Uno juzga que un día es superior a otro, otro juzga iguales todos los días. Cada cual esté plenamente convencido según su propio sentir.
+##### Por esta razón, Pablo dedica una extensa sección al cuidado de las viudas.
 
-#### Uno juzga que un día es superior a otro,
-##### Pablo presenta otro ejemplo de diferencias dentro de <u>la</u> comunidad.
+##### El tema principal no es simplemente la viudez, sino la responsabilidad de la familia y de la iglesia hacia quienes se encuentran en necesidad.
 
-###### Ahora el tema no es la comida, sino la valoración de ciertos <u>días</u>.
+##### A lo largo de esta sección veremos que Dios espera que cada creyente asuma responsabilidad por los miembros de su propia familia. Cuando una viuda queda verdaderamente sola y sin ayuda, la iglesia debe intervenir y cuidarla.
 
-###### La siguiente frase presenta la <u>posición</u> opuesta.
+##### De esta manera, el amor, la piedad y la responsabilidad cristiana se hacen visibles dentro de la casa de Dios.
 
-#### otro juzga iguales todos los días.
-##### Pablo muestra una segunda perspectiva sobre <u>el</u> mismo asunto.
+### 1 Timoteo 5:3
 
-###### El contraste es similar al <u>ejemplo</u> anterior: creyentes que llegan a conclusiones distintas.
+Honra a las viudas que en verdad son viudas.
 
-###### El énfasis continúa estando en la convivencia, no en la discusión <u>del</u> calendario.
+#### 1 Timoteo 5:3a Honra a las viudas...
 
-#### Cada cual esté plenamente convencido según su propio sentir.
-##### Pablo llama a actuar con convicción <u>personal</u>.
+##### La palabra \scripture{honra} (TIMAO) está en imperativo presente. Pablo no presenta una sugerencia, sino una responsabilidad continua para la iglesia.
 
-###### La instrucción se dirige a la certeza con la que cada uno practica aquello <u>que</u> considera correcto.
+##### Honrar incluye valorar, respetar y cuidar de quienes se encuentran en necesidad.
 
-###### Romanos 14:6 explicará cómo <u>ambas</u> prácticas pueden orientarse hacia el Señor.
+##### 1 Timoteo 5:3b "\scripture{...que en verdad son viudas.}"
 
-### Romanos 14:6
-El que guarda cierto día, para el Señor lo guarda. El que come, para el Señor come, pues da gracias a Dios; y el que no come, para el Señor se abstiene, y da gracias a Dios.
+##### Pablo no está diferenciando entre viudas verdaderas y falsas.
 
-#### El que guarda cierto día, para el Señor lo guarda.
-##### <u>Pablo</u> señala la intención detrás de la práctica.
+##### Más bien, utiliza esta expresión para identificar a las viudas que realmente han quedado solas y carecen de apoyo familiar.
 
-###### La <u>observancia</u> del día está dirigida al Señor.
+##### Durante el resto de la sección explicará cuáles viudas deben recibir el apoyo regular de la iglesia y cuáles deben ser atendidas primeramente por sus propias familias.
 
-#### El que come, para el Señor come,
-##### Pablo muestra que <u>la</u> práctica diferente también puede estar orientada al Señor.
+##### Dios siempre mostró especial cuidado por las viudas.
 
-###### La diferencia externa no <u>implica</u> necesariamente una diferencia en el propósito.
+##### A lo largo del Antiguo Testamento, Dios manifestó compasión, protección y justicia hacia las viudas.
 
-###### La siguiente frase añade una <u>evidencia</u>.
+##### Éxodo 22:22; Deuteronomio 10:18; Deuteronomio 24:17-21; Salmo 68:5
 
-#### pues da gracias a Dios;
-##### La acción de dar <u>gracias</u> muestra reconocimiento hacia Dios.
+### 1 Timoteo 5:4
 
-###### Pablo utiliza esta observación para mostrar la orientación común de ambos <u>grupos</u>.
+Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres, porque esto es agradable delante de Dios.
 
-#### y el que no come, para el Señor se abstiene,
-##### El creyente que se abstiene actúa <u>con</u> la misma intención básica.
+#### 1 Timoteo 5:4a Pero si alguna viuda tiene hijos o nietos...
 
-###### Pablo vuelve a destacar la <u>dirección</u> hacia el Señor.
+##### Pablo ahora presenta una excepción al caso anterior.
 
-###### la frase final repite el mismo <u>elemento</u>.
+##### Si una viuda tiene hijos o nietos, no se encuentra verdaderamente sola ni desamparada.
 
-#### y da gracias a Dios.
-##### <u>Ambos</u> grupos comparten una misma actitud de gratitud.
+##### Antes que la iglesia asuma la responsabilidad de cuidarla, esa responsabilidad corresponde primeramente a su propia familia.
 
-###### La repetición refuerza el argumento de que la diferencia no está en <u>el</u> Señor al que sirven, sino en la práctica que siguen.
+##### 1 Timoteo 5:4b "\scripture{...que aprendan estos primero a mostrar piedad para con su propia familia...}"
 
-###### Romanos 14:7 presentará el principio general que sostiene todo <u>este</u> razonamiento.
+##### Los hijos y nietos deben aprender a expresar la piedad dentro de su propio hogar.
 
-### Romanos 14:7
-Porque ninguno de nosotros vive para sí mismo, y ninguno muere para sí mismo.
+##### Es interesante que Pablo utiliza la palabra \scripture{piedad} en este contexto.
 
-#### Porque ninguno de nosotros vive para sí mismo,
-##### Pablo comienza a explicar la razón que une los ejemplos <u>anteriores</u>.
+##### La piedad no se manifiesta únicamente en reuniones, oraciones o actividades dentro de la congregación.
 
-###### El creyente no es presentado como alguien que existe únicamente para <u>sus</u> propias preferencias o decisiones.
+##### También se hace visible cuando un creyente cuida de los miembros de su propia familia.
 
-###### Esta afirmación prepara una explicación más <u>amplia</u> sobre la relación con el Señor.
+##### El propósito se hace visible mediante el cuidado de otros.
 
-#### y ninguno muere para sí mismo.
-##### Pablo amplía el principio hasta abarcar <u>toda</u> la vida.
+##### La piedad que Pablo ha venido describiendo a lo largo de la carta debe comenzar en las relaciones más cercanas.
 
-###### <u>El</u> paralelismo entre vivir y morir muestra el alcance total de la afirmación.
+##### 1 Timoteo 5:4c "\scripture{...y a recompensar a sus padres...}"
 
-###### Pablo continuará desarrollando esta idea mostrando <u>que</u> tanto la vida como la muerte pertenecen al Señor.
+##### Los hijos reciben cuidado, provisión y protección durante muchos años.
 
-### Romanos 14:8
-Pues si vivimos, para el Señor vivimos, y si morimos, para el Señor morimos. Por tanto, ya sea que vivamos o que muramos, del Señor somos.
+##### Cuando los padres envejecen y necesitan ayuda, los hijos tienen la oportunidad de corresponder a ese cuidado.
 
-#### Pues si vivimos, para el Señor vivimos,
-##### Pablo continúa desarrollando <u>la</u> idea del versículo anterior.
+##### No se trata simplemente de una obligación económica, sino de una expresión visible de amor, gratitud y responsabilidad familiar. Efesios 6:2-3
 
-###### La <u>vida</u> del creyente no se presenta como algo orientado principalmente a sí mismo, sino al Señor.
+##### 1 Timoteo 5:4d "\scripture{...porque esto es agradable delante de Dios.}"
 
-###### Esto explica por qué las diferencias tratadas en este <u>capítulo</u> no deben convertirse en motivo de división.
+##### Dios considera agradable que una familia cuide de sus propios miembros.
 
-###### La siguiente frase extiende el mismo principio <u>a</u> la muerte.
+##### Aquello que Dios desea para la iglesia no comienza ignorando las responsabilidades del hogar.
 
-#### y si morimos, para el Señor morimos.
-##### <u>Pablo</u> amplía el alcance de la afirmación.
+##### La familia que cuida de una viuda manifiesta de manera práctica la piedad que Dios valora. Isaías 1:17
 
-###### Tanto la vida como la muerte quedan bajo <u>la</u> misma relación con el Señor.
+### 1 Timoteo 5:5
 
-###### El argumento busca <u>mostrar</u> una pertenencia que abarca toda la existencia.
+Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día.
 
-#### Por tanto, ya sea que vivamos o que muramos, del Señor somos.
-##### Pablo <u>llega</u> a la conclusión principal.
+#### Pero la que en verdad es viuda y se ha quedado sola...
 
-###### La identidad del creyente se define por su pertenencia <u>al</u> Señor.
+##### Pablo vuelve a la situación de la viuda que realmente se encuentra desamparada.
 
-###### Esta <u>realidad</u> prepara la explicación del versículo siguiente.
+##### A diferencia de la viuda que tiene hijos o nietos que pueden cuidarla, esta mujer se ha quedado sola y sin apoyo familiar.
 
-### Romanos 14:9
-Porque para esto Cristo murió y resucitó, para ser Señor tanto de los muertos como de los vivos.
+#### ...tiene puesta su esperanza en Dios...
 
-#### Porque para esto Cristo murió y resucitó,
-##### <u>Pablo</u> explica la base de la afirmación anterior.
+##### La característica principal de esta viuda es que ha puesto su esperanza en Dios.
 
-###### La muerte y resurrección de Cristo se presentan como acontecimientos que sostienen <u>su</u> señorío.
+##### Cuando ya no tiene la ayuda de un esposo ni el apoyo de una familia cercana, continúa dependiendo del Señor.
 
-###### El versículo conecta directamente con la declaración de que vivimos y morimos para el <u>Señor</u>.
+##### Dios sigue mostrando cuidado por quienes se encuentran desamparados.
 
-#### para ser Señor tanto de los muertos como de los vivos.
-##### Pablo presenta el alcance del señorío <u>de</u> Cristo.
+##### A lo largo de las Escrituras, las viudas aparecen repetidamente entre las personas que reciben la atención especial de Dios. Éxodo 22:22; Deuteronomio 10:18; Salmo 68:5
 
-###### La afirmación abarca <u>a</u> vivos y muertos, retomando las dos categorías mencionadas en el versículo anterior.
+#### ...y continúa en súplicas y oraciones noche y día.
 
-###### Este argumento servirá para corregir la actitud de juzgar <u>al</u> hermano.
+##### Otra característica de esta viuda es su perseverancia en la oración.
 
-### Romanos 14:10
-Pero tú, ¿por qué juzgas a tu hermano? O también, tú, ¿por qué desprecias a tu hermano? Porque todos compareceremos ante el tribunal de Dios.
+##### La expresión "\scripture{noche y día}" enfatiza una vida marcada por una dependencia constante de Dios.
 
-#### Pero tú, ¿por qué juzgas a tu hermano?
-##### Pablo vuelve <u>al</u> problema práctico que abrió la sección.
+##### Pablo no presenta aquí un requisito para alcanzar el favor de Dios, sino una descripción de la mujer que ha aprendido a descansar en Él.
 
-###### Después de afirmar <u>el</u> señorío de Cristo, cuestiona el hábito de juzgar al hermano.
+##### La viuda verdaderamente desamparada encuentra en Dios aquello que ya no encuentra en los recursos humanos.
 
-###### La pregunta obliga al lector a reconsiderar su postura frente a otros <u>creyentes</u>.
+##### Su esperanza permanece puesta en Dios y por eso persevera en oración.
 
-#### O también, tú, ¿por qué desprecias a tu hermano?
-##### Pablo <u>corrige</u> tanto al que juzga como al que menosprecia.
+### 1 Timoteo 5:6
 
-###### Ambos comportamientos rompen la relación <u>que</u> debe existir entre hermanos.
+Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta.
 
-###### El problema no está solamente en condenar, sino <u>también</u> en mirar con superioridad.
+#### Pero...
 
-###### La <u>siguiente</u> frase explica la razón.
+##### Pablo vuelve a presentar un contraste.
 
-#### Porque todos compareceremos ante el tribunal de Dios.
-##### Pablo dirige la <u>atención</u> al juicio de Dios.
+##### La viuda del versículo anterior tenía puesta su esperanza en Dios y perseveraba en oración.
 
-###### El énfasis deja de estar en la evaluación <u>humana</u> y pasa a la evaluación divina.
+##### Ahora describe una realidad completamente distinta.
 
-###### <u>Todos</u> aparecen en la misma condición delante de Dios.
+#### ...la que se entrega a los placeres desenfrenados...
 
-###### El versículo siguiente apoya esta afirmación con una cita de la <u>Escritura</u>.
+##### En lugar de vivir dependiendo de Dios, esta mujer vive para satisfacer sus propios deseos.
 
-### Romanos 14:11
-Porque está escrito: «VIVO YO, DICE EL SEÑOR, QUE ANTE MÍ SE DOBLARÁ TODA RODILLA, Y TODA LENGUA ALABARÁ A DIOS».
+##### Su vida ya no está caracterizada por la esperanza en Dios, sino por la búsqueda de placer para sí misma.
 
-#### Porque está escrito:
-##### Pablo fundamenta su argumento en la <u>Escritura</u>.
+##### Pablo continúa mostrando que no toda viuda se encuentra en la misma condición.
 
-###### La autoridad de la afirmación no descansa en una opinión personal, sino en un texto ya <u>escrito</u>.
+##### La iglesia debía distinguir entre una viuda que manifestaba una vida de dependencia de Dios y otra cuyo andar evidenciaba una dirección diferente.
 
-###### La cita describe una respuesta universal delante de <u>Dios</u>.
+#### ...aun viviendo, está muerta.
 
-#### «VIVO YO, DICE EL SEÑOR,
-##### La declaración comienza con una afirmación solemne <u>del</u> Señor.
+##### Aunque físicamente está viva, Pablo la describe como muerta.
 
-###### La cita enfatiza que <u>es</u> Dios mismo quien habla.
+##### La expresión enfatiza la gravedad de una vida dedicada a los placeres desenfrenados.
 
-###### la siguiente frase describe <u>la</u> respuesta que recibirá.
+##### Así como la viuda del versículo anterior manifestaba una vida orientada hacia Dios, esta mujer manifiesta una condición completamente opuesta.
 
-#### QUE ANTE MÍ SE DOBLARÁ TODA RODILLA,
-##### La imagen presenta reconocimiento y <u>sumisión</u> delante de Dios.
+##### El propósito de Pablo no es explicar aquí todos los aspectos de la salvación.
 
-###### El alcance es universal: <u>toda</u> rodilla.
+##### Su interés es mostrar que la piedad se hace visible en la manera de vivir.
 
-###### La siguiente frase <u>completa</u> el paralelismo.
+##### La vida centrada en Dios produce una clase de conducta.
 
-#### Y TODA LENGUA ALABARÁ A DIOS».
-##### La cita añade la confesión verbal <u>junto</u> a la acción de doblar la rodilla.
+##### La vida centrada en uno mismo produce otra.
 
-###### Ambas imágenes <u>apuntan</u> a una comparecencia universal delante de Dios.
+### 1 Timoteo 5:7
 
-###### <u>Véase</u> Isaías 45:23.
+Ordena también estas cosas, para que sean irreprochables.
 
-###### Pablo resumirá la implicación en el <u>versículo</u> siguiente.
+#### Ordena también estas cosas
 
-### Romanos 14:12
-De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
+##### Después de explicar cómo debe actuar la iglesia con respecto a las viudas, Pablo vuelve su atención a Timoteo.
 
-#### De modo que cada uno de nosotros dará a Dios cuenta de sí mismo.
-##### Pablo extrae la conclusión de la cita <u>anterior</u>.
+##### Estas instrucciones no debían quedar simplemente como información.
 
-###### <u>La</u> responsabilidad presentada aquí es personal.
+##### Timoteo debía enseñarlas y asegurarse de que fueran conocidas dentro de la congregación.
 
-###### El énfasis recae en la relación de cada creyente con Dios, no en la evaluación de <u>otros</u> creyentes.
+##### La iglesia debía comprender tanto la responsabilidad familiar como la responsabilidad de la iglesia hacia quienes verdaderamente estaban desamparados.
 
-###### La siguiente exhortación aplicará esta conclusión al problema del <u>juicio</u> mutuo.
+#### ...para que sean irreprochables.
+
+##### El propósito de estas instrucciones era que los creyentes fueran hallados irreprochables en esta área.
+
+##### La falta de cuidado hacia los miembros necesitados de la familia o de la iglesia produciría reproche.
+
+##### Por el contrario, cuando cada creyente asume las responsabilidades que Dios le ha dado, la piedad se hace visible de manera práctica.
+
+##### La casa de Dios debía distinguirse no solamente por lo que creía, sino también por la manera en que cuidaba de sus propios miembros.
+
+### 1 Timoteo 5:8
+
+Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo.
+
+#### Pero si alguien no provee para los suyos,
+
+##### Pablo ahora presenta una advertencia seria acerca de la responsabilidad familiar.
+
+##### Después de instruir que los hijos y nietos deben cuidar de las viudas de su familia, Pablo muestra la gravedad de ignorar esta responsabilidad.
+
+##### La piedad no se limita a las reuniones de la iglesia.
+
+##### También se manifiesta en la manera en que un creyente cuida de las necesidades de su propia familia.
+
+#### ...y especialmente para los de su casa...
+
+##### Pablo enfatiza la responsabilidad hacia aquellos que pertenecen al círculo familiar más cercano.
+
+##### La familia constituye el primer lugar donde la piedad debe hacerse visible.
+
+#### ...ha negado la fe...
+
+##### La conducta de una persona puede contradecir aquello que afirma creer.
+
+##### Quien rehúsa asumir una responsabilidad tan básica está actuando en contradicción con la fe que profesa.
+
+#### ...y es peor que un incrédulo.
+
+##### La expresión es deliberadamente fuerte.
+
+##### Incluso personas que no conocen a Cristo suelen reconocer la responsabilidad de cuidar a los miembros de su propia familia.
+
+##### Por eso Pablo considera especialmente grave que un creyente ignore esta obligación.
+
+##### La piedad que Pablo viene describiendo a lo largo de la carta no se demuestra solamente mediante palabras o conocimiento.
+
+##### Se hace visible cuando los creyentes cuidan de aquellos que Dios ha puesto bajo su responsabilidad.
+
+### 1 Timoteo 5:9
+
+Que la viuda sea puesta en la lista solo si no es menor de sesenta años, habiendo sido la esposa de un solo marido,
+
+#### Que la viuda sea puesta en la lista...
+
+##### Pablo ahora introduce una lista especial de viudas que podían recibir el apoyo regular de la iglesia.
+
+##### No toda viuda entraba automáticamente en esta lista.
+
+##### Por esta razón, Pablo comienza a presentar ciertos requisitos.
+
+#### ...solo si no es menor de sesenta años...
+
+##### La viuda debía tener al menos sesenta años de edad.
+
+##### Más adelante Pablo explicará por qué las viudas más jóvenes debían seguir un camino diferente. 1 Timoteo 5:11-14
+
+#### ...habiendo sido esposa de un solo marido...
+
+##### La viuda debía ser conocida por su fidelidad matrimonial.
+
+##### Así como los requisitos para ancianos y diáconos incluían una vida matrimonial irreprochable, Pablo también considera importante el testimonio familiar de la viuda.
+
+##### Pablo continúa mostrando que la iglesia no debía basar su ayuda solamente en una necesidad económica.
+
+##### También debía observar el testimonio visible de una vida caracterizada por la piedad.
+
+### 1 Timoteo 5:10
+
+que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospitalidad a extraños, si ha lavado los pies de los santos, si ha ayudado a los afligidos y si se ha consagrado a toda buena obra.
+
+#### a que tenga testimonio de buenas obras...
+
+##### La iglesia no debía evaluar solamente la necesidad de una viuda.
+
+##### También debía considerar el testimonio visible de su vida.
+
+##### Pablo comienza a describir una mujer cuya piedad se había manifestado consistentemente mediante buenas obras.
+
+#### ...si ha criado hijos...
+
+##### La crianza fiel de sus hijos formaba parte de ese testimonio.
+
+##### La piedad no se demuestra solamente en actividades religiosas, sino también en la manera en que una persona cumple las responsabilidades que Dios le ha dado dentro de su hogar.
+
+#### ...si ha mostrado hospitalidad a extraños...
+
+##### Otra evidencia de su carácter era la hospitalidad.
+
+##### A lo largo de las Escrituras, Dios muestra interés por el extranjero, el necesitado y el desamparado.
+
+##### Esta viuda había reflejado ese mismo cuidado mediante una vida abierta al servicio de otros. Éxodo 22:21; Hebreos 13:2
+
+#### ...si ha lavado los pies de los santos...
+
+##### El lavado de pies era una expresión de servicio humilde.
+
+##### Más allá del acto mismo, Pablo destaca una vida caracterizada por servir a otros antes que buscar ser servida.
+
+##### El Señor Jesús mismo dejó este ejemplo a Sus discípulos. Juan 13:14-15
+
+#### ...si ha ayudado a los afligidos...
+
+##### La viuda debía ser conocida por atender a quienes atravesaban dificultades.
+
+##### Su vida evidenciaba compasión práctica hacia quienes sufrían necesidad o aflicción.
+
+#### ...y si se ha consagrado a toda buena obra.
+
+##### Pablo concluye resumiendo el carácter general de su vida.
+
+##### No está describiendo actos aislados, sino una trayectoria marcada por la piedad y el servicio.
+
+##### La iglesia debía reconocer especialmente a aquellas viudas cuya vida había demostrado de manera visible el propósito que Pablo viene desarrollando en toda la carta.
+
+##### La piedad verdadera no permanece invisible.
+
+##### Se manifiesta mediante una vida dedicada al servicio de Dios y al cuidado de otros.
+
+### 1 Timoteo 5:11
+
+Pero rehúsa poner en la lista a viudas más jóvenes, porque cuando sienten deseos sensuales, contrarios a Cristo, se quieren casar,
+
+#### Pero rehúsa poner en la lista a viudas más jóvenes...
+
+##### Después de describir los requisitos de las viudas que podían ser incluidas en la lista de ayuda permanente de la iglesia, Pablo ahora explica por qué las viudas más jóvenes no debían ser inscritas.
+
+##### La razón no es que sean menos importantes para Dios.
+
+##### La razón es que su situación normalmente era diferente a la de las viudas mayores.
+
+#### ...porque cuando sienten deseos sensuales...
+
+##### Pablo reconoce una realidad natural de las viudas más jóvenes.
+
+##### Con el paso del tiempo podían desear volver a casarse.
+
+##### Ese deseo se convierte en una parte importante de la explicación que seguirá desarrollando en los versículos siguientes.
+
+#### ...contrarios a Cristo, se quieren casar...
+
+##### Pablo no está condenando el matrimonio.
+
+##### De hecho, más adelante recomendará que las viudas jóvenes se casen. 1 Timoteo 5:14
+
+##### Su preocupación no es el matrimonio en sí, sino la inconsistencia que podía producirse si una mujer era inscrita en esta lista especial y después cambiaba de dirección.
+
+##### El punto de Pablo no es desanimar el matrimonio.
+
+##### Su propósito es proteger tanto a las viudas jóvenes como a la iglesia, evitando compromisos que más adelante podrían producir dificultades innecesarias.
+
+### 1 Timoteo 5:12
+
+incurriendo así en condenación, por haber abandonado su promesa anterior.
+
+#### incurriendo así en condenación...
+
+##### Pablo explica una de las razones por las cuales las viudas jóvenes no debían ser incluidas en esta lista.
+
+##### Con el paso del tiempo podían cambiar de dirección y abandonar el compromiso que previamente habían asumido.
+
+##### Como resultado, quedarían expuestas a reproche por no haber permanecido en aquello a lo que se habían comprometido.
+
+#### ...por haber abandonado su promesa anterior.
+
+##### La explicación de esa condenación o reproche aparece en la frase siguiente.
+
+##### El problema no es el matrimonio en sí mismo.
+
+##### Más adelante Pablo animará a las viudas jóvenes a casarse. 1 Timoteo 5:14
+
+##### El problema es abandonar un compromiso previamente asumido.
+
+##### Por esa razón Pablo considera más prudente que las viudas jóvenes no sean inscritas en esta lista especial de apoyo.
+
+##### La preocupación de Pablo no es restringir el matrimonio.
+
+##### Su preocupación es evitar situaciones que produzcan reproche innecesario tanto para la viuda como para la iglesia.
+
+### 1 Timoteo 5:13
+
+Y además, aprenden a estar ociosas, yendo de casa en casa. Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas.
+
+#### Y además, aprenden a estar ociosas...
+
+##### Pablo añade otra razón por la cual las viudas jóvenes no debían ser inscritas en esta lista.
+
+##### La falta de ocupación podía llevarlas gradualmente a una vida de ociosidad.
+
+##### En lugar de ocuparse en aquello que edifica, corrían el peligro de desarrollar hábitos que no contribuían al propósito de Dios para sus vidas.
+
+#### ...yendo de casa en casa.
+
+##### La ociosidad no permanecía aislada.
+
+##### Pablo describe una conducta visible que comenzaba a manifestarse en la manera en que estas mujeres ocupaban su tiempo.
+
+#### Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas.
+
+##### El problema no era simplemente la falta de trabajo.
+
+##### La ociosidad producía otros problemas.
+
+##### Pablo menciona conversaciones improductivas, asuntos ajenos y palabras que no contribuían a la edificación.
+
+##### Estas conductas contrastan con la piedad que viene desarrollando a lo largo de la carta.
+
+##### La preocupación de Pablo no es solamente evitar la ociosidad.
+
+##### Su preocupación es que los miembros de la casa de Dios se ocupen en aquello que promueve la piedad, la verdad y el cuidado de otros.
+
+### 1 Timoteo 5:14
+
+Por tanto, quiero que las viudas más jóvenes se casen, que tengan hijos, que cuiden su casa y no den al adversario ocasión de reproche.
+
+#### Por tanto, quiero que las viudas más jóvenes...
+
+##### Después de describir los peligros que podían surgir cuando las viudas jóvenes eran incluidas en esta lista especial, Pablo ahora presenta la alternativa que considera más apropiada.
+
+##### Su deseo no es que permanezcan ociosas ni que queden atrapadas en situaciones que produzcan reproche.
+
+#### ...se casen...
+
+##### Lejos de condenar el matrimonio, Pablo lo recomienda.
+
+##### Esto confirma que el problema mencionado en los versículos anteriores no era el matrimonio mismo.
+
+##### La solución propuesta por Pablo para las viudas jóvenes es precisamente que se casen.
+
+#### ...que tengan hijos...
+
+##### Pablo continúa describiendo responsabilidades propias de la vida familiar.
+
+##### La crianza de hijos forma parte de una vida útil y productiva dentro del propósito de Dios.
+
+#### ...que cuiden su casa...
+
+##### La administración del hogar aparece nuevamente como una esfera importante de servicio.
+
+##### Pablo no presenta estas responsabilidades como algo inferior, sino como una expresión práctica de una vida ordenada y provechosa.
+
+#### ...y no den al adversario ocasión de reproche...
+
+##### El resultado buscado es que no exista motivo para acusación o descrédito.
+
+##### La conducta piadosa protege tanto el testimonio personal como el de la iglesia.
+
+##### Pablo no está simplemente resolviendo un problema administrativo.
+
+##### Continúa mostrando cómo el propósito de Dios se hace visible en las relaciones, en el servicio y en la vida diaria de los miembros de Su casa.
+
+### 1 Timoteo 5:15
+
+Pues algunas ya se han apartado para seguir a Satanás.
+
+#### Pues algunas ya se han apartado para seguir a Satanás.
+
+##### Pablo concluye esta advertencia señalando que lo que acaba de describir no era solamente una posibilidad teórica.
+
+##### Algunas ya habían tomado ese camino.
+
+##### La expresión "\scripture{se han apartado}" continúa la idea desarrollada a lo largo de la carta.
+
+##### En lugar de permanecer en la verdad y en la piedad, algunas se desviaron hacia una dirección diferente.
+
+#### ...para seguir a Satanás.
+
+##### Pablo presenta el asunto con toda seriedad.
+
+##### Detrás de aquello que se opone al propósito de Dios se encuentra el adversario.
+
+##### Por esta razón, la iglesia no debía ignorar estas advertencias ni considerar estos problemas como algo insignificante.
+
+##### El propósito de Pablo no es producir temor, sino prevención.
+
+##### Las viudas jóvenes también podían beneficiarse de la sana doctrina, de la verdad y del misterio de la piedad.
+
+##### Por eso Pablo da estas instrucciones, para que los miembros de la casa de Dios permanezcan en el camino que corresponde al evangelio.
+
+### 1 Timoteo 5:16
+
+Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.
+
+#### Si alguna creyente tiene viudas en la familia, que las mantenga...
+
+##### Pablo concluye esta sección regresando al principio que ya había establecido.
+
+##### La responsabilidad primaria del cuidado de las viudas recae sobre la familia cuando esta existe.
+
+##### Los creyentes que tienen viudas en su propia familia deben asumir ese cuidado y no dejarlo exclusivamente en manos de la iglesia.
+
+#### ...y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.
+
+##### Cuando la familia cumple su responsabilidad, la iglesia queda libre para atender a aquellas viudas que verdaderamente están desamparadas.
+
+##### De esta manera, el cuidado se realiza de acuerdo con el propósito que Pablo viene desarrollando en toda la sección.
+
+##### Esta sección muestra cómo la piedad se hace visible en las relaciones.
+
+##### La familia demuestra piedad al cuidar de los suyos.
+
+##### La iglesia demuestra piedad al atender a quienes realmente no tienen apoyo.
+
+##### Las viudas que en verdad son viudas muestran piedad mediante una vida de esperanza en Dios, oración y buenas obras.
+
+##### Así, cada miembro de la casa de Dios participa en el cuidado de otros, y el propósito de Dios se hace visible de manera práctica dentro de Su familia.
 
 > En Síntesis
->- Pablo exhorta a los creyentes a recibirse mutuamente aun cuando tengan convicciones diferentes sobre asuntos secundarios.
->- Ni el que tiene mayor libertad debe despreciar al otro, ni el que restringe ciertas prácticas debe juzgar a su hermano.
->- La razón principal es que Dios ya lo ha aceptado y el Señor es poderoso para sostener a Su siervo.
->- Tanto quienes comen como quienes se abstienen, tanto quienes observan ciertos días como quienes no lo hacen, pueden actuar para el Señor y dar gracias a Dios.
->- Pablo recuerda que los creyentes no viven para sí mismos, sino que pertenecen al Señor, quien murió y resucitó para ser Señor tanto de los muertos como de los vivos.
->- Por eso el juicio y el menosprecio entre hermanos son inapropiados, porque cada creyente comparecerá personalmente ante Dios y dará cuenta de sí mismo.
+>
+> - Después de mostrar que la iglesia debe relacionarse como una familia, Pablo aplica ese principio al cuidado de las viudas.
+> - La responsabilidad de cuidar a los miembros necesitados comienza primeramente en la familia y no en la congregación.
+> - Los hijos y nietos deben expresar piedad cuidando de sus propios familiares, pues esto es agradable delante de Dios.
+> - La iglesia debe reconocer y ayudar especialmente a las viudas que verdaderamente han quedado solas y desamparadas.
+> - Pablo distingue entre diferentes situaciones para que la ayuda sea administrada con sabiduría, responsabilidad y justicia.
+> - A lo largo de toda la sección, la piedad deja de ser una idea abstracta y se hace visible mediante el amor, el servicio y el cuidado práctico de otros dentro de la casa de Dios.
 
-## 14:13–23 No destruyan al hermano
+<!-- @quiz timoteo-3 -->
 
-### Romanos 14:13
-Por tanto, ya no nos juzguemos los unos a los otros, sino más bien decidan esto: no poner obstáculo o piedra de tropiezo al hermano.
+## 1 Timoteo 5:17–25 - La casa de Dios debe actuar con justicia e imparcialidad
 
-#### Por tanto, ya no nos juzguemos los unos a los otros,
-##### Pablo <u>aplica</u> directamente la conclusión del versículo anterior.
+### 1 Timoteo 5:17
 
-###### Si cada persona <u>dará</u> cuenta de sí misma a Dios, entonces la comunidad no debe dedicarse a juzgarse mutuamente.
+Los ancianos que gobiernan bien sean considerados dignos de doble honor, principalmente los que trabajan en la predicación y en la enseñanza.
 
-###### Esto <u>retoma</u> el tema iniciado en Romanos 14:1–4.
+#### Los ancianos que gobiernan bien...
 
-###### La <u>siguiente</u> frase propone una decisión mejor.
+##### Pablo ahora dirige la atención hacia aquellos que sirven como ancianos dentro de la iglesia.
 
-#### sino más bien decidan esto:
-##### Pablo reemplaza una actividad <u>por</u> otra.
+##### No todos los ancianos reciben exactamente la misma descripción en esta sección.
 
-###### En lugar de juzgar al hermano, deben tomar una resolución <u>diferente</u>.
+##### Pablo destaca particularmente a los que gobiernan bien.
 
-###### La siguiente frase expresa <u>esa</u> resolución.
+##### El énfasis recae en la manera en que cumplen la responsabilidad que les fue confiada dentro de la casa de Dios.
 
-#### no poner obstáculo o piedra de tropiezo al hermano.
-##### Pablo dirige la atención al efecto que una conducta puede tener sobre otros <u>creyentes</u>.
+#### ...sean considerados dignos de doble honor...
 
-###### El enfoque <u>cambia</u> del derecho personal al bienestar del hermano.
+##### La respuesta de la iglesia hacia estos ancianos debe ser honor.
 
-###### Este principio dominará <u>el</u> resto de la sección.
+##### Pablo no habla simplemente de respeto verbal.
 
-### Romanos 14:14
-Yo sé, y estoy convencido en el Señor Jesús, de que nada es inmundo en sí mismo; pero para el que estima que algo es inmundo, para él lo es.
+##### El contexto que sigue incluye también el apoyo material para aquellos que sirven dedicadamente en esta labor.
 
-#### Yo sé, y estoy convencido en el Señor Jesús,
-##### Pablo expresa una <u>convicción</u> personal con claridad.
+##### La iglesia tiene la responsabilidad de valorar adecuadamente a quienes la sirven fielmente.
 
-###### La afirmación prepara el contenido principal <u>del</u> versículo.
+#### ...principalmente los que trabajan en la predicación y en la enseñanza.
 
-#### de que nada es inmundo en sí mismo;
-##### Pablo afirma <u>que</u> ningún alimento es inmundo por naturaleza propia.
+##### Pablo hace una distinción especial para aquellos ancianos que dedican su esfuerzo al ministerio público de la Palabra.
 
-###### Esta declaración ayuda <u>a</u> entender su posición en la discusión.
+##### La predicación y la enseñanza aparecen como labores que requieren trabajo constante.
 
-###### Sin embargo, <u>Pablo</u> no termina aquí.
+##### Por esta razón, la iglesia debe reconocer especialmente a quienes sirven de esta manera.
 
-###### La siguiente frase introduce una <u>consideración</u> adicional.
+##### El enfoque de Pablo no es exaltar a los líderes por encima de los demás creyentes.
 
-#### pero para el que estima que algo es inmundo, para él lo es.
-##### <u>Pablo</u> toma en cuenta la conciencia de la otra persona.
+##### Su preocupación es que la casa de Dios actúe justamente con aquellos que sirven fielmente en ella.
 
-###### El énfasis sigue estando en <u>la</u> manera en que los creyentes conviven con diferencias de convicción.
+### 1 Timoteo 5:18
 
-###### El versículo <u>siguiente</u> mostrará cómo esto afecta la conducta hacia el hermano.
+Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA», y: «El obrero es digno de su salario».
 
-### Romanos 14:15
-Porque si por causa de la comida tu hermano se entristece, ya no andas conforme al amor. No destruyas con tu comida a aquel por quien Cristo murió.
+#### Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»...
 
-#### Porque si por causa de la comida tu hermano se entristece,
-##### <u>Pablo</u> presenta una situación concreta.
+##### Pablo fundamenta su instrucción en las Escrituras.
 
-###### La <u>discusión</u> deja de centrarse en la comida misma y pasa a considerar el efecto producido en el hermano.
+##### La imagen proviene de un buey que trabaja separando el grano.
 
-###### La siguiente <u>frase</u> evalúa esa conducta.
+##### Mientras realiza ese trabajo, no debía impedírsele participar del beneficio de aquello en lo que estaba laborando.
 
-#### ya no andas conforme al amor.
-##### Pablo mide la <u>situación</u> usando el criterio del amor.
+##### El principio es que quien trabaja tiene derecho a recibir sustento de su trabajo.
 
-###### Esto conecta con el énfasis desarrollado <u>anteriormente</u> en Romanos 12:9–10 y Romanos 13:8–10.
+#### ...y: «El obrero es digno de su salario».
 
-###### <u>La</u> siguiente frase intensifica la advertencia.
+##### Pablo añade una segunda cita que reafirma el mismo principio.
 
-#### No destruyas con tu comida a aquel por quien Cristo murió.
-##### Pablo muestra el valor que tiene el hermano dentro del <u>argumento</u>.
+##### El trabajador es digno de recibir aquello que corresponde a su labor.
 
-###### El contraste es intencional: un asunto relacionado con comida no debe colocarse <u>por</u> encima del bienestar de una persona.
+##### Por esta razón, la iglesia no debe considerar impropio sostener a quienes dedican su tiempo y esfuerzo al ministerio de la Palabra.
 
-###### El versículo siguiente extraerá una <u>conclusión</u> práctica.
+##### Pablo no está elevando a los ancianos por encima de los demás creyentes.
 
-### Romanos 14:16
-Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
+##### Está mostrando que las Escrituras mismas enseñan que quienes sirven fielmente deben ser tratados con justicia y honor.
 
-#### Por tanto, no permitan que se hable mal de lo que para ustedes es bueno.
-##### Pablo resume la preocupación planteada en los versículos <u>anteriores</u>.
+### 1 Timoteo 5:19
 
-###### Algo que es bueno en sí mismo puede llegar <u>a</u> ser motivo de conflicto si se utiliza sin consideración hacia otros.
+No admitas acusación contra un anciano, a menos de que haya dos o tres testigos.
 
-###### <u>La</u> atención continúa enfocada en proteger la unidad y evitar tropiezos innecesarios.
+#### No admitas acusación contra un anciano...
 
-###### Romanos 14:17 explicará por <u>qué</u> estas cuestiones no constituyen el centro del reino de Dios.
+##### Después de hablar del honor debido a los ancianos que sirven bien, Pablo ahora trata el tema de las acusaciones contra ellos.
 
-### Romanos 14:17
-Porque el reino de Dios no es comida ni bebida, sino justicia y paz y gozo en el Espíritu Santo.
+##### Timoteo no debía aceptar acusaciones de manera apresurada.
 
-#### Porque el reino de Dios no es comida ni bebida,
-##### Pablo <u>explica</u> por qué la comida no debe convertirse en el centro de la discusión.
+##### La responsabilidad de liderazgo suele exponer a una persona a críticas, desacuerdos y acusaciones.
 
-###### Después de varios ejemplos relacionados con <u>alimentos</u>, dirige la atención hacia algo más importante.
+##### Por esa razón, Pablo establece un proceso cuidadoso antes de considerar una acusación.
 
-###### El argumento <u>no</u> niega la existencia de esas diferencias, pero sí niega que definan la esencia del reino de Dios.
+#### ...a menos que haya dos o tres testigos.
 
-###### La siguiente frase muestra aquello <u>que</u> sí caracteriza al reino.
+##### La acusación debía estar respaldada por evidencia suficiente.
 
-#### sino justicia y paz y gozo en el Espíritu Santo.
-##### Pablo presenta tres realidades que contrastan con <u>la</u> discusión sobre comida y bebida.
+##### Pablo aplica el mismo principio bíblico de confirmación mediante múltiples testigos.
 
-###### <u>El</u> enfoque pasa de cuestiones externas a aquello que fortalece la vida del pueblo de Dios.
+##### De esta manera se protege tanto a la iglesia como al anciano.
 
-###### La paz conecta especialmente con la exhortación <u>que</u> aparecerá en el versículo 19.
+##### Esta instrucción no coloca a los ancianos por encima de la corrección.
 
-###### El versículo siguiente muestra el resultado de <u>vivir</u> de esta manera.
+##### Más bien asegura que las acusaciones sean tratadas con justicia, evitando tanto la impunidad como las acusaciones infundadas.
 
-### Romanos 14:18
-Porque el que de esta manera sirve a Cristo, es aceptable a Dios y aprobado por los hombres.
+##### Atención especial
 
-#### Porque el que de esta manera sirve a Cristo,
-##### Pablo se refiere a la manera <u>de</u> vivir descrita en el versículo anterior.
+-   Los ancianos siguen estando sujetos a la autoridad de las Escrituras.
+-   La iglesia no debe ignorar el pecado cuando existe evidencia suficiente.
+-   Tampoco debe aceptar acusaciones sin la debida confirmación.
+-   El objetivo es actuar con justicia e imparcialidad dentro de la casa de Dios.
 
-###### El énfasis <u>está</u> en servir a Cristo según las prioridades que acaba de mencionar.
+#### A los que continúan en pecado, repréndelos en presencia de todos...
 
-###### La <u>siguiente</u> frase describe el resultado.
+##### Pablo ahora explica qué debe hacerse cuando una acusación resulta ser verdadera.
 
-#### es aceptable a Dios y aprobado por los hombres.
-##### Pablo <u>presenta</u> dos resultados paralelos.
+##### El contexto sigue siendo el de los ancianos.
 
-###### La conducta descrita encuentra aprobación tanto delante de <u>Dios</u> como en las relaciones humanas.
+##### Después de una acusación confirmada por suficientes testigos, si el pecado persiste, debe haber corrección pública.
 
-###### Esto prepara la exhortación práctica <u>del</u> versículo siguiente.
+##### La meta no es humillar al anciano, sino tratar el pecado con seriedad delante de la congregación.
 
-### Romanos 14:19
-Así que procuremos lo que contribuye a la paz y a la edificación mutua.
+### 1 Timoteo 5:20
 
-#### Así que procuremos
-##### Pablo extrae una conclusión práctica <u>de</u> todo el argumento anterior.
+A los que continúan en pecado, repréndelos en presencia de todos para que los demás tengan temor de pecar.
 
-###### La discusión deja de centrarse en quién tiene razón y pasa a centrarse en qué debe <u>buscar</u> la comunidad.
+#### ...para que los demás tengan temor de pecar.
 
-###### La <u>siguiente</u> frase define ese objetivo.
+##### La corrección pública tiene un propósito educativo para toda la iglesia.
 
-#### lo que contribuye a la paz y a la edificación mutua.
-##### Pablo identifica dos metas <u>principales</u>.
+##### Al ver que el pecado no es ignorado ni encubierto, los demás comprenden la seriedad de caminar conforme a la voluntad de Dios.
 
-###### La paz retoma <u>el</u> tema del versículo 17.
+##### La casa de Dios debe caracterizarse por la verdad, la justicia y la integridad.
 
-###### <u>La</u> edificación dirige la atención al beneficio de otros creyentes.
+##### Esta instrucción muestra que los ancianos no están por encima de la corrección.
 
-###### <u>Véase</u> Romanos 12:16–18.
+##### La misma autoridad de las Escrituras a la que están llamados a servir es también la autoridad a la que permanecen sujetos.
 
-### Romanos 14:20
-No destruyas la obra de Dios por causa de la comida. En realidad, todas las cosas son limpias, pero son malas para el hombre que escandaliza a otro al comer.
+##### Atención especial
 
-#### No destruyas la obra de Dios por causa de la comida.
-##### Pablo vuelve al ejemplo principal <u>de</u> esta sección.
+-   La corrección pública ocurre después de una acusación confirmada.
+-   Pablo no está promoviendo acusaciones apresuradas ni humillaciones públicas.
+-   Tampoco permite ignorar el pecado cuando este persiste.
+-   El objetivo es preservar la salud espiritual de toda la congregación.
+-   La disciplina debe producir respeto por la santidad de Dios y por el orden de Su casa.
 
-###### El contraste <u>es</u> fuerte: la comida aparece frente a la obra de Dios.
+### 1 Timoteo 5:21
 
-###### La exhortación mantiene el énfasis en el valor <u>del</u> hermano y de la comunidad.
+Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos, que conserves estos principios sin prejuicios, no haciendo nada con espíritu de parcialidad.
 
-###### La <u>siguiente</u> frase aclara la posición de Pablo sobre los alimentos.
+#### Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos...
 
-#### En realidad, todas las cosas son limpias,
-##### Pablo reafirma algo que ya <u>había</u> dicho anteriormente.
+##### Pablo enfatiza la seriedad de estas instrucciones.
 
-###### La cuestión <u>principal</u> no es la naturaleza de la comida.
+##### Timoteo no debía considerar estas cosas como simples recomendaciones administrativas para la iglesia.
 
-###### Esta afirmación se <u>conecta</u> con Romanos 14:14.
+##### La responsabilidad de tratar justamente a los líderes de la iglesia se realiza delante de Dios.
 
-#### pero son malas para el hombre que escandaliza a otro al comer.
-##### Pablo dirige la atención al efecto producido sobre otra <u>persona</u>.
+##### Por eso Pablo llama como testigos a Dios, a Cristo Jesús y a los ángeles escogidos.
 
-###### El problema no es <u>simplemente</u> comer, sino hacerlo de una manera que cause tropiezo.
+#### ...que conserves estos principios sin prejuicios...
 
-###### La preocupación sigue siendo el bienestar <u>del</u> hermano.
+##### Timoteo debía guardar estas instrucciones tal como le fueron entregadas.
 
-### Romanos 14:21
-Es mejor no comer carne, ni beber vino, ni hacer nada en que tu hermano tropiece.
+##### No debía llegar a conclusiones antes de examinar cuidadosamente los hechos.
 
-#### Es mejor no comer carne, ni beber vino,
-##### <u>Pablo</u> presenta una alternativa voluntaria.
+##### La justicia requiere que la evidencia sea considerada antes de emitir un juicio.
 
-###### La prioridad continúa siendo <u>proteger</u> al hermano antes que ejercer una libertad personal.
+#### ...no haciendo nada con espíritu de parcialidad.
 
-###### La comida y la bebida siguen funcionando como ejemplos <u>concretos</u>.
+##### Timoteo tampoco debía favorecer a una persona por simpatía, amistad, posición o influencia.
 
-#### ni hacer nada en que tu hermano tropiece.
-##### Pablo amplía el principio más allá <u>de</u> la comida.
+##### La misma regla debía aplicarse a todos.
 
-###### El énfasis <u>ya</u> no está en una acción específica, sino en cualquier conducta que produzca tropiezo.
+##### La casa de Dios debía caracterizarse por la verdad, la justicia y la imparcialidad.
 
-###### Esto resume <u>gran</u> parte del argumento desarrollado desde Romanos 14:13.
+##### Atención especial
 
-###### El versículo siguiente vuelve a la responsabilidad personal delante <u>de</u> Dios.
+-   El prejuicio juzga antes de examinar la evidencia.
+-   La parcialidad favorece a una persona independientemente de la evidencia.
+-   Pablo prohíbe ambas cosas.
+-   La disciplina y el reconocimiento de los líderes deben realizarse con el mismo estándar de justicia.
+-   La autoridad espiritual nunca debe reemplazar la evaluación objetiva de los hechos.
 
-### Romanos 14:22
-La fe que tú tienes, tenla conforme a tu propia convicción delante de Dios. Dichoso el que no se condena a sí mismo en lo que aprueba.
+### 1 Timoteo 5:22
 
-#### La fe que tú tienes,
-##### Pablo se dirige directamente al creyente que posee una convicción determinada sobre estos <u>asuntos</u>.
+No impongas las manos sobre nadie con ligereza, compartiendo así la responsabilidad por los pecados de otros; guárdate libre de pecado.
 
-###### El énfasis <u>pasa</u> nuevamente a la responsabilidad personal.
+#### No impongas las manos sobre nadie con ligereza...
 
-#### tenla conforme a tu propia convicción delante de Dios.
-##### Pablo relaciona estas convicciones con la relación personal <u>delante</u> de Dios.
+##### Después de advertir contra el prejuicio y la parcialidad, Pablo ahora advierte contra la precipitación.
 
-###### El foco no está en imponerlas a otros, sino en <u>sostenerlas</u> delante de Dios.
+##### Timoteo no debía reconocer a una persona para el ministerio apresuradamente.
 
-#### Dichoso el que no se condena a sí mismo en lo que aprueba.
-##### Pablo <u>describe</u> una situación de tranquilidad de conciencia.
+##### La imposición de manos estaba asociada con la identificación pública y la aprobación para una labor determinada.
 
-###### La persona aprueba una conducta sin quedar condenada por ella en su <u>propia</u> conciencia.
+##### Por esta razón, la evaluación de futuros líderes debía realizarse cuidadosamente.
 
-###### Este pensamiento prepara <u>el</u> contraste del versículo siguiente.
+#### ...compartiendo así la responsabilidad por los pecados de otros...
 
-### Romanos 14:23
-Pero el que duda, si come se condena, porque no lo hace por fe. Todo lo que no procede de fe, es pecado.
+##### La designación de un líder no era un asunto sin consecuencias.
 
-#### Pero el que duda,
-##### Pablo presenta el caso opuesto al <u>versículo</u> anterior.
+##### Si Timoteo reconocía apresuradamente a una persona que no estaba preparada o que no cumplía los requisitos establecidos, terminaría participando indirectamente de los problemas producidos por esa decisión.
 
-###### El tema sigue siendo la relación entre la conducta <u>y</u> la convicción personal.
+##### Por esta razón, debía actuar con prudencia y discernimiento.
 
-###### la <u>siguiente</u> frase describe la consecuencia.
+#### ...guárdate libre de pecado.
 
-#### si come se condena,
-##### Pablo explica <u>el</u> resultado de actuar contra la propia convicción.
+##### Timoteo debía cuidarse de actuar irresponsablemente en este asunto.
 
-###### La atención recae sobre la condición interior <u>de</u> la persona que duda.
+##### La presión, las preferencias personales o el deseo de resolver rápidamente una necesidad no debían influir en sus decisiones.
 
-###### <u>La</u> siguiente frase explica la razón.
+##### La casa de Dios requería líderes que hubieran sido probados y evaluados adecuadamente.
 
-#### porque no lo hace por fe.
-##### Pablo identifica la causa del <u>problema</u>.
+##### Atención especial
 
-###### La acción no surge de una <u>convicción</u> segura.
+-   Pablo ya había establecido requisitos para ancianos y diáconos.
+-   La necesidad de líderes no justifica ignorar esos requisitos.
+-   Un reconocimiento apresurado puede perjudicar tanto al líder como a la congregación.
+-   La imparcialidad también incluye tomarse el tiempo necesario para evaluar correctamente a las personas.
+-   La fidelidad en la selección de líderes protege a la casa de Dios.
 
-###### Esta explicación conecta directamente con el <u>tema</u> desarrollado en los versículos anteriores.
+### 1 Timoteo 5:23
 
-#### Todo lo que no procede de fe, es pecado.
-##### Pablo concluye la sección con una declaración <u>amplia</u>.
+Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.
 
-###### El principio resume el problema tratado a lo largo del capítulo: actuar sin convicción delante <u>de</u> Dios.
+#### Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.
 
-###### Con esta afirmación concluye la discusión iniciada en Romanos 14:1 sobre diferencias de conciencia entre <u>creyentes</u>.
+##### En medio de estas instrucciones relacionadas con la iglesia, Pablo incluye una observación personal dirigida a Timoteo.
+
+##### La instrucción muestra que Timoteo sufría problemas frecuentes de salud.
+
+#### Ya no bebas agua sola...
+
+##### Parece que Timoteo acostumbraba limitarse al agua.
+
+##### Pablo le anima a tomar una medida práctica relacionada con su condición física.
+
+#### ...sino usa un poco de vino...
+
+##### El énfasis del versículo no está en promover el consumo de vino como tema principal.
+
+##### El énfasis está en el cuidado de la salud de Timoteo.
+
+##### Pablo recomienda una cantidad limitada ("un poco") para una necesidad específica.
+
+#### ...por causa de tu estómago y de tus frecuentes enfermedades.
+
+##### La razón dada es completamente práctica.
+
+##### Timoteo no debía descuidar su salud física mientras servía en la obra del Señor.
+
+##### Atención especial
+
+-   Pablo reconoce la realidad de las limitaciones físicas de Timoteo.
+-   La espiritualidad no elimina automáticamente las necesidades del cuerpo.
+-   El cuidado responsable de la salud no se presenta como falta de fe.
+-   El propósito del versículo es atender una necesidad concreta de Timoteo y no desarrollar una doctrina extensa sobre el vino.
+
+### 1 Timoteo 5:24
+
+Los pecados de algunos hombres ya son evidentes, yendo delante de ellos al juicio; pero a otros, sus pecados los siguen.
+
+#### Los pecados de algunos hombres ya son evidentes...
+
+##### Pablo regresa al tema de la evaluación cuidadosa de las personas.
+
+##### Algunos pecados son visibles desde el principio.
+
+##### No requieren mucho tiempo para ser identificados.
+
+##### Por esta razón, ciertas personas claramente no califican para posiciones de responsabilidad dentro de la iglesia.
+
+#### ...yendo delante de ellos al juicio...
+
+##### Estos pecados llegan antes que la persona misma al momento de ser evaluada.
+
+##### La evidencia ya está presente y puede ser observada fácilmente.
+
+#### ...pero a otros, sus pecados los siguen.
+
+##### No todos los casos son iguales.
+
+##### Algunos pecados permanecen ocultos durante un tiempo y solamente se hacen evidentes más adelante.
+
+##### Por esta razón, Timoteo no debía apresurarse al reconocer a una persona para el ministerio.
+
+##### Atención especial
+
+-   Algunas cualidades se observan rápidamente.
+-   Otras solamente se hacen visibles con el tiempo.
+-   La evaluación de líderes requiere paciencia y observación.
+-   La prisa puede llevar a reconocer a una persona antes de que su carácter haya sido claramente manifestado.
+
+### 1 Timoteo 5:25
+
+De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar.
+
+#### De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar...
+
+##### Pablo completa el mismo principio aplicado ahora al lado positivo.
+
+##### Así como algunos pecados son visibles inmediatamente y otros se hacen evidentes con el tiempo, también ocurre lo mismo con las buenas obras.
+
+##### Algunas manifestaciones de piedad son claramente observables.
+
+##### Otras requieren tiempo para ser vistas y reconocidas.
+
+##### Este principio era especialmente importante para Timoteo al evaluar a quienes podrían servir en posiciones de responsabilidad dentro de la iglesia.
+
+##### No debía apresurarse en reconocer ni rechazar a una persona.
+
+##### El tiempo, la observación y la evidencia terminan revelando aquello que verdaderamente caracteriza la vida de una persona.
+
+##### Atención especial
+
+-   Las buenas obras genuinas terminan siendo evidentes.
+-   La piedad no necesita ser promovida ni exagerada para ser vista.
+-   Algunas cualidades son observadas rápidamente.
+-   Otras solamente se manifiestan después de un período de tiempo.
+-   Por esta razón, la evaluación de futuros ancianos y diáconos requiere paciencia y discernimiento.
+
+> En Síntesis (1 Timoteo 5:17-25)
+>
+> - Pablo enseña que los ancianos que sirven fielmente, especialmente en la predicación y la enseñanza, deben recibir honor por parte de la iglesia.
+> - Al mismo tiempo, los ancianos no están por encima de la corrección y las acusaciones contra ellos deben tratarse con justicia y evidencia suficiente.
+> - Cuando el pecado persiste, la corrección debe realizarse de manera que la congregación comprenda la seriedad de caminar conforme a la voluntad de Dios.
+> - Timoteo debía administrar estas responsabilidades sin prejuicios, sin favoritismos y recordando que actuaba delante de Dios.
+> - La selección de futuros líderes requería paciencia, discernimiento y una evaluación cuidadosa del carácter y la conducta de cada persona.
+> - La sección concluye recordando que tanto los pecados como las buenas obras terminan manifestándose, por lo que la casa de Dios debe actuar con prudencia, justicia e imparcialidad.
+
+# 1 TIMOTEO 6:1-21 - ESE PROPÓSITO DEBE SER PRESERVADO
+
+## 1 Timoteo 6:1–2 El propósito debe reflejarse en todas las relaciones
+
+### 1 Timoteo 6:1
+
+Todos los que están bajo yugo como esclavos, consideren a sus propios amos como dignos de todo honor, para que el nombre de Dios y nuestra doctrina no sean blasfemados.
+
+#### Todos los que están bajo yugo como esclavos...
+
+##### Pablo ahora dirige su atención a los creyentes que vivían como esclavos.
+
+##### La iglesia estaba compuesta por personas de distintas condiciones sociales, incluyendo esclavos y amos.
+
+##### La unidad espiritual en Cristo no eliminaba automáticamente las circunstancias sociales en las que cada creyente vivía.
+
+#### ...consideren a sus propios amos como dignos de todo honor...
+
+##### Pablo llama a los esclavos creyentes a mostrar honor hacia sus amos.
+
+##### El énfasis no recae sobre los méritos del amo, sino sobre la conducta del creyente.
+
+##### Aun en una situación difícil, el creyente podía manifestar piedad mediante una actitud de respeto.
+
+#### ...para que el nombre de Dios y nuestra doctrina no sean blasfemados.
+
+##### Pablo presenta la razón para esta conducta.
+
+##### La manera en que los creyentes viven afecta la percepción que otros tienen acerca de Dios y de la enseñanza cristiana.
+
+##### Por esta razón, la conducta del creyente no es solamente un asunto personal.
+
+##### También forma parte del testimonio visible del evangelio delante de otros.
+
+##### Atención especial
+
+-   La piedad debe manifestarse en todas las relaciones humanas.
+-   La conducta del creyente puede honrar o desacreditar aquello que profesa.
+-   Pablo conecta directamente el comportamiento diario con el testimonio del nombre de Dios.
+-   El principio puede aplicarse a diversas relaciones de autoridad y responsabilidad.
+
+### 1 Timoteo 6:2
+
+Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos, sino sírvanles aún mejor, ya que son creyentes y amados los que se benefician de su servicio. Enseña y predica estos principios.
+
+#### Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos...
+
+##### Pablo ahora trata una situación particular dentro de la iglesia.
+
+##### ¿Qué sucede cuando tanto el esclavo como el amo son creyentes?
+
+##### La igualdad espiritual en Cristo no debía utilizarse como excusa para disminuir el respeto debido dentro de esa relación.
+
+##### Por ser hermanos en la fe, algunos podían sentirse tentados a tratar a sus amos con menos consideración.
+
+##### Pablo corrige esa idea.
+
+#### ...sino sírvanles aún mejor...
+
+##### La respuesta correcta no era reducir el servicio, sino aumentarlo.
+
+##### La relación espiritual entre ambos debía producir una actitud de mayor disposición y cuidado.
+
+#### ...ya que son creyentes y amados los que se benefician de su servicio.
+
+##### La motivación presentada por Pablo es el amor fraternal.
+
+##### El servicio prestado beneficia a hermanos amados dentro de la familia de Dios.
+
+##### Por esa razón, el creyente debía servir con mayor diligencia y no con menor interés.
+
+#### Enseña y predica estos principios.
+
+##### Timoteo debía enseñar estas cosas a la iglesia.
+
+##### Estas instrucciones forman parte de cómo debe conducirse la casa de Dios en las relaciones diarias.
+
+##### Atención especial
+
+-   La igualdad espiritual no elimina todas las diferencias de responsabilidad o función.
+-   Pablo no disminuye el respeto debido cuando ambas personas son creyentes.
+-   La relación de hermanos en Cristo debía producir mayor disposición para servir.
+-   La piedad se hace visible también en la manera en que servimos a otros miembros de la familia de Dios.
+
+## 1 Timoteo 6:3–10 - La falsa enseñanza produce frutos contrarios al propósito
+
+### 1 Timoteo 6:3
+
+Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras, las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad,
+
+#### Si alguno enseña una doctrina diferente y no se conforma a las sanas palabras, las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad...
+
+##### Pablo ahora vuelve a contrastar la sana enseñanza con la falsa enseñanza.
+
+##### Después de instruir a Timoteo a enseñar estas cosas, presenta el caso de quienes enseñan algo diferente.
+
+#### ...las de nuestro Señor Jesucristo...
+
+##### La autoridad de la enseñanza cristiana no proviene de las opiniones humanas.
+
+##### Proviene de las palabras de nuestro Señor Jesucristo.
+
+##### Por esa razón, la verdad no debe ser medida por su popularidad ni por la aceptación que tenga entre las personas.
+
+#### ...y a la doctrina que es conforme a la piedad...
+
+##### Pablo añade una característica importante de la sana doctrina.
+
+##### La enseñanza correcta produce un resultado visible.
+
+##### Es conforme a la piedad.
+
+##### La verdad de Dios no fue dada solamente para informar la mente, sino también para producir una vida que refleje el carácter de Dios.
+
+##### Este versículo resume una idea que ha aparecido repetidamente a lo largo de la carta.
+
+-   La sana doctrina conduce a la piedad.
+-   La falsa enseñanza conduce al desvío.
+
+##### Por esta razón, la enseñanza debe evaluarse no solamente por lo que afirma, sino también por el fruto que produce.
+
+##### Atención especial
+
+-   Pablo conecta directamente doctrina y piedad.
+-   La enseñanza de Cristo tiene un propósito práctico en la vida del creyente.
+-   La piedad no es producida por métodos humanos, sino por la verdad de Dios.
+-   La falsa enseñanza siempre termina alejando a las personas del propósito de Dios.
+
+### 1 Timoteo 6:4
+
+está envanecido y nada entiende, sino que tiene un interés corrompido en discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas,
+
+#### está envanecido y nada entiende...
+
+##### Pablo comienza describiendo la condición de quien rechaza las sanas palabras de nuestro Señor Jesucristo.
+
+##### Esta persona tiene una percepción equivocada de sí misma.
+
+##### Aunque cree comprender, Pablo afirma que en realidad no entiende.
+
+#### ...sino que tiene un interés corrompido...
+
+##### En lugar de interesarse por la verdad que conduce a la piedad, desarrolla una inclinación enfermiza hacia otra clase de asuntos.
+
+##### Su atención no está centrada en el propósito de Dios.
+
+#### ...en discusiones y contiendas de palabras...
+
+##### Pablo identifica el objeto de ese interés.
+
+##### La persona se ocupa continuamente en debates, controversias y disputas acerca de palabras.
+
+##### La atención deja de estar en la verdad y pasa a estar en la discusión misma.
+
+#### ...de las cuales nacen...
+
+##### Pablo ahora muestra el fruto producido por este tipo de enseñanza.
+
+##### Así como la sana doctrina es conforme a la piedad, estas discusiones producen resultados completamente diferentes.
+
+#### ...envidias...
+
+##### En lugar de amor, aparecen celos y rivalidades.
+
+#### ...pleitos...
+
+##### Las relaciones comienzan a caracterizarse por conflictos y enfrentamientos.
+
+#### ...blasfemias...
+
+##### Las palabras dejan de edificar y comienzan a dañar.
+
+#### ...malas sospechas...
+
+##### La confianza es reemplazada por la desconfianza.
+
+##### Las personas comienzan a atribuir malas intenciones a otros sin fundamento suficiente.
+
+##### Atención especial
+
+-   Pablo conecta la doctrina con sus frutos.
+-   La sana doctrina produce piedad.
+-   La falsa enseñanza produce división.
+-   El problema no es solamente el contenido enseñado, sino también el resultado que produce en las relaciones.
+-   El fruto revela la naturaleza de la enseñanza.
+
+### 1 Timoteo 6:5
+
+y constantes rencillas entre hombres de mente depravada, que están privados de la verdad, que suponen que la piedad es un medio de ganancia.
+
+#### y...nacen...constantes rencillas entre hombres de mente depravada...
+
+##### El resultado final de estas discusiones no es crecimiento espiritual.
+
+##### Produce conflictos continuos entre personas cuya manera de pensar ha sido corrompida.
+
+##### En lugar de avanzar hacia la piedad, terminan atrapados en enfrentamientos constantes.
+
+#### ...que están privados de la verdad...
+
+##### Pablo identifica la raíz del problema.
+
+##### Estas personas carecen de la verdad.
+
+##### No porque la verdad no exista, sino porque se han apartado de ella.
+
+##### Mientras las sanas palabras de Cristo conducen a la piedad, ellos permanecen alejados de aquello que produce verdadero crecimiento espiritual.
+
+#### ...que suponen que la piedad es un medio de ganancia.
+
+##### Pablo finalmente expone una de las motivaciones detrás de esta conducta.
+
+##### Estas personas consideran la piedad como un medio para obtener beneficios.
+
+##### La apariencia de espiritualidad es utilizada para alcanzar objetivos personales.
+
+##### Así, la piedad deja de ser vista como una expresión de la verdad y pasa a ser tratada como una herramienta para obtener ganancia.
+
+##### Atención especial
+
+-   La falsa enseñanza produce división y conflictos constantes.
+-   Pablo conecta el problema con una falta de apego a la verdad.
+-   La piedad puede ser imitada externamente sin comprender su propósito.
+-   El peligro consiste en usar las cosas de Dios para beneficio personal.
+-   La verdadera piedad no existe para producir ganancia; existe como resultado de la verdad de Dios obrando en la vida del creyente.
+
+### 1 Timoteo 6:6
+
+Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.
+
+#### Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.
+
+##### Pablo responde directamente a quienes consideran la piedad como un medio para obtener beneficios personales.
+
+##### En cierto sentido, ellos tienen razón al asociar la piedad con ganancia.
+
+##### Sin embargo, están equivocados acerca de cuál es esa ganancia.
+
+#### ...es un medio de gran ganancia...
+
+##### La verdadera piedad produce una ganancia mucho mayor que la que buscan los falsos maestros.
+
+##### No se trata principalmente de riquezas, prestigio o ventajas materiales.
+
+##### Se trata de un beneficio que permanece aun cuando las circunstancias cambian.
+
+#### ...cuando va acompañada de contentamiento.
+
+##### La ganancia mencionada por Pablo está unida al contentamiento.
+
+##### La persona piadosa aprende a descansar en la suficiencia de Dios.
+
+##### Su satisfacción no depende de obtener más cosas, sino de confiar en Aquel que provee todo lo necesario.
+
+##### El problema de los falsos maestros no era solamente el deseo de obtener ganancia.
+
+##### Era que buscaban satisfacción en aquello que podían conseguir.
+
+##### La piedad verdadera, en cambio, camina acompañada de contentamiento porque encuentra su suficiencia en Dios.
+
+##### Atención especial
+
+-   Pablo no niega que exista una gran ganancia asociada con la piedad.
+-   La diferencia está en la naturaleza de esa ganancia.
+-   El contentamiento protege al creyente de convertir la piedad en un medio para obtener beneficios personales.
+-   La satisfacción del creyente no depende principalmente de sus circunstancias.
+-   La piedad y el contentamiento forman una combinación inseparable en la vida espiritual saludable.
+
+### 1 Timoteo 6:7
+
+Porque nada hemos traído al mundo, así que nada podemos sacar de él.
+
+#### Porque nada hemos traído al mundo, así que nada podemos sacar de él.
+
+##### Pablo ahora explica por qué el contentamiento tiene tanto valor.
+
+##### Todo aquello que una persona posee en esta vida es temporal.
+
+##### Ninguno de nosotros trajo posesiones al entrar en el mundo.
+
+##### De la misma manera, ninguno podrá llevarse sus posesiones al salir de él.
+
+##### Esta realidad expone la fragilidad de poner nuestra confianza en las riquezas o en las ganancias materiales.
+
+##### Aquello que tanto esfuerzo demanda en esta vida no puede acompañarnos más allá de ella.
+
+##### Por esta razón, la verdadera ganancia no puede encontrarse en las cosas que pasan.
+
+##### Atención especial
+
+-   Pablo enfatiza la naturaleza temporal de las posesiones materiales.
+-   Todos entramos al mundo sin bienes materiales.
+-   Todos saldremos del mundo sin bienes materiales.
+-   Las riquezas son incapaces de proporcionar una seguridad permanente.
+-   Esta realidad prepara el argumento de Pablo acerca del contentamiento en los versículos siguientes.
+
+### 1 Timoteo 6:8
+
+Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.
+
+#### Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.
+
+##### Después de recordar que nada trajimos al mundo y nada podremos llevarnos, Pablo presenta una perspectiva sencilla acerca de las necesidades de la vida.
+
+##### El creyente no debe medir la suficiencia de Dios por la abundancia de bienes que posee.
+
+#### ...si tenemos qué comer y con qué cubrirnos...
+
+##### Pablo menciona las necesidades básicas de la vida.
+
+##### El énfasis no está en acumular más, sino en reconocer la provisión de Dios para lo necesario.
+
+#### ...con eso estaremos contentos.
+
+##### La persona piadosa aprende a estar satisfecha con la provisión que Dios le concede.
+
+##### El contentamiento no nace de tener todo lo que se desea.
+
+##### Nace de reconocer que Dios ha provisto aquello que realmente se necesita.
+
+##### Atención especial
+
+-   Pablo define el contentamiento en términos muy sencillos.
+-   La satisfacción no depende de la abundancia material.
+-   La provisión de Dios es motivo suficiente para la gratitud.
+-   El creyente aprende a valorar lo necesario antes que lo excesivo.
+-   Este versículo prepara el contraste con quienes desean enriquecerse en los versículos siguientes.
+
+### 1 Timoteo 6:9
+
+Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.
+
+#### Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.
+
+##### Pablo ahora presenta el contraste con el contentamiento del versículo anterior.
+
+##### Mientras que el creyente piadoso aprende a estar satisfecho con la provisión de Dios, otros fijan su deseo en enriquecerse.
+
+#### ...los que quieren enriquecerse...
+
+##### El énfasis no está sobre las riquezas en sí mismas.
+
+##### Pablo describe a personas cuyo deseo está orientado hacia obtener más.
+
+##### Su satisfacción se encuentra en aquello que esperan conseguir.
+
+#### ...caen en tentación y lazo...
+
+##### Ese deseo los expone a peligros espirituales.
+
+##### Lo que comenzó como una búsqueda de ganancia termina convirtiéndose en una trampa.
+
+#### ...y en muchos deseos necios y dañosos...
+
+##### El deseo de enriquecerse no permanece aislado.
+
+##### Da lugar a otros deseos que carecen de sabiduría y producen daño.
+
+#### ...que hunden a los hombres en la ruina y en la perdición.
+
+##### Pablo describe el resultado final de este camino.
+
+##### Aquello que parecía prometer satisfacción termina conduciendo a destrucción.
+
+##### Atención especial
+
+-   Pablo contrasta el contentamiento con el deseo de enriquecerse.
+-   El problema señalado no es la posesión de riquezas, sino la orientación del corazón hacia ellas.
+-   El deseo de enriquecerse expone a la persona a múltiples tentaciones.
+-   Los deseos equivocados terminan produciendo consecuencias destructivas.
+-   El camino del contentamiento y el camino de la codicia conducen a resultados completamente diferentes.
+
+### 1 Timoteo 6:10
+
+Porque la raíz de todos los males es el amor al dinero, por el cual, codiciándolo algunos, se extraviaron de la fe y se torturaron con muchos dolores.
+
+#### Porque la raíz de todos los males es el amor al dinero...
+
+##### Pablo ahora identifica la raíz del problema que viene describiendo.
+
+##### El dinero en sí mismo no es presentado como algo malo.
+
+##### El problema es el amor al dinero.
+
+##### Cuando el corazón encuentra su seguridad, satisfacción o propósito en las riquezas, se abre la puerta a muchos otros males.
+
+#### ...por el cual, codiciándolo algunos, se extraviaron de la fe...
+
+##### Pablo muestra las consecuencias de este amor al dinero.
+
+##### Algunos comenzaron a perseguir las riquezas en lugar de permanecer firmes en la verdad.
+
+##### Su atención dejó de estar puesta en aquello que conduce a la piedad y pasó a estar orientada hacia la ganancia material.
+
+##### Como resultado, se desviaron del camino de la fe.
+
+#### ...y se torturaron con muchos dolores.
+
+##### El resultado final no fue la satisfacción que esperaban encontrar.
+
+##### Aquello que prometía seguridad terminó produciendo sufrimiento.
+
+##### Pablo describe una vida marcada por dolor y aflicción como consecuencia de seguir ese camino.
+
+##### Atención especial
+
+-   Pablo distingue entre el dinero y el amor al dinero.
+-   El problema no es la posesión de riquezas, sino la devoción a ellas.
+-   La codicia puede desviar a una persona de la verdad.
+-   La búsqueda obsesiva de riqueza no produce la satisfacción prometida.
+-   El amor al dinero contrasta directamente con el contentamiento mencionado en los versículos anteriores.
 
 > En Síntesis
->- Pablo deja de enfocarse en el juicio mutuo y dirige la atención al bienestar del hermano.
->- La pregunta principal ya no es qué está permitido, sino qué efecto tiene una acción sobre otros creyentes.
->- Aunque Pablo afirma que nada es inmundo en sí mismo, insiste en que el amor debe gobernar el uso de la libertad.
->- Por eso repite varias veces la misma advertencia: No destruir, entristecer ni hacer tropezar al hermano por causa de asuntos relacionados con comida o bebida.
->- En lugar de centrarse en derechos personales, los creyentes deben procurar lo que contribuye a la paz y a la edificación mutua.
->- La sección concluye recordando que las convicciones deben mantenerse delante de Dios y que actuar contra la propia convicción no procede de fe.
->- Por eso Pablo resume el principio con una afirmación amplia: «Todo lo que no procede de fe, es pecado».
+>
+> - Pablo comienza mostrando que la piedad debe manifestarse en todas las relaciones de la vida, incluso en aquellas que involucran autoridad, servicio y responsabilidad.
+> - Después de exhortar a los creyentes a honrar y servir apropiadamente, vuelve a advertir acerca de quienes enseñan doctrinas diferentes y se apartan de las sanas palabras de nuestro Señor Jesucristo.
+> - La sana doctrina es conforme a la piedad, mientras que la falsa enseñanza produce orgullo, discusiones, divisiones y conflictos dentro del pueblo de Dios.
+> - Algunos utilizan la apariencia de piedad buscando beneficio personal, pero Pablo aclara que la verdadera ganancia se encuentra en la piedad acompañada de contentamiento.
+> - El creyente aprende a descansar en la provisión de Dios, recordando que las riquezas materiales son temporales y que nada de este mundo puede proporcionar una seguridad permanente.
+> - En contraste, el deseo de enriquecerse y el amor al dinero desvían a las personas de la verdad, producen múltiples dolores y las alejan del propósito que Dios desea para Su pueblo.
 
-## Romanos 15:1–13 - Acéptense unos a otros
+<!-- @quiz timoteo-4 -->
 
-### Romanos 15:1
-Así que, nosotros los que somos fuertes, debemos sobrellevar las flaquezas de los débiles y no agradarnos a nosotros mismos.
+## 1 Timoteo 6:11–16 - Timoteo debe perseverar en el encargo
 
-#### Así que, nosotros los que somos fuertes,
-##### Pablo conecta directamente con <u>la</u> discusión de los capítulos anteriores.
+### 1 Timoteo 6:11
 
-###### Después de hablar sobre fuertes y débiles en asuntos de conciencia, ahora se dirige <u>específicamente</u> a quienes tienen mayor libertad.
+Pero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
 
-###### El énfasis <u>ya</u> no está en quién tiene razón, sino en cómo debe actuar el fuerte.
+#### Pero tú, oh hombre de Dios...
 
-#### debemos sobrellevar las flaquezas de los débiles
-##### Pablo asigna una responsabilidad al <u>fuerte</u>.
+##### Después de describir a quienes se han desviado por amor al dinero, Pablo vuelve a dirigirse personalmente a Timoteo.
 
-###### La carga principal recae sobre quien tiene mayor libertad <u>y</u> comprensión del asunto.
+##### La expresión "\scripture{hombre de Dios}" era utilizada en las Escrituras para describir a personas que servían al Señor y actuaban como Sus representantes.
 
-###### Esta exhortación desarrolla lo <u>que</u> ya venía diciendo en Romanos 14:13–23.
+##### Pablo recuerda a Timoteo la identidad que debía caracterizar su vida y ministerio.
 
-#### y no agradarnos a nosotros mismos.
-##### Pablo identifica <u>la</u> alternativa equivocada.
+#### ...huye de estas cosas...
 
-###### El problema no es la libertad <u>en</u> sí, sino usarla únicamente para beneficio propio.
+##### La respuesta de Timoteo frente a las cosas recién descritas no debía ser la tolerancia ni la curiosidad.
 
-### Romanos 15:2
-Cada uno de nosotros agrade a su prójimo en lo que es bueno para su edificación.
+##### Debía alejarse de ellas.
 
-#### Cada uno de nosotros agrade a su prójimo
-##### Pablo amplía <u>la</u> exhortación a toda la comunidad.
+##### El amor al dinero, las discusiones inútiles y las motivaciones equivocadas no debían ocupar lugar en su vida.
 
-###### La atención se dirige nuevamente al prójimo y no <u>a</u> uno mismo.
+#### ...y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
 
-###### <u>El</u> lenguaje continúa desarrollando la idea de Romanos 15:1.
+##### No basta con huir de lo malo.
 
-#### en lo que es bueno para su edificación.
-##### Pablo define el objetivo de agradar al <u>prójimo</u>.
+##### Timoteo también debía perseguir aquello que es conforme al propósito de Dios.
 
-###### No se trata de aprobación <u>sin</u> criterio, sino de aquello que contribuye a su crecimiento y fortalecimiento.
+#### ...la justicia...
 
-###### <u>Véase</u> Romanos 14:19.
+##### Una vida alineada con lo que Dios considera correcto.
 
-### Romanos 15:3
-Pues ni aun Cristo se agradó a Él mismo; antes bien, como está escrito: «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
+#### ...la piedad...
 
-#### Pues ni aun Cristo se agradó a Él mismo;
-##### Pablo fundamenta su exhortación en <u>el</u> ejemplo de Cristo.
+##### Una vida que expresa externamente la obra de Dios.
 
-###### El argumento pasa de la conducta de los creyentes <u>a</u> la conducta de Cristo.
+##### "\scripture{...la fe...}"
 
-###### Esto refuerza la exhortación de <u>no</u> buscar principalmente el propio beneficio.
+##### Permanecer firme en la verdad recibida.
 
-###### La <u>siguiente</u> frase apoya esta afirmación con una cita bíblica.
+#### ...el amor...
 
-#### antes bien, como está escrito:
-##### <u>Pablo</u> vuelve a fundamentar su argumento en las Escrituras.
+##### La meta del mandato que Pablo ha venido enfatizando desde el comienzo de la carta.
 
-###### La cita <u>sirve</u> como respaldo del ejemplo que acaba de mencionar.
+#### ...la perseverancia...
 
-#### «LOS INSULTOS DE LOS QUE TE INJURIABAN CAYERON SOBRE MÍ».
-##### Pablo utiliza esta cita para <u>ilustrar</u> el principio que está desarrollando.
+##### Continuar firmemente aun cuando existan dificultades.
 
-###### El énfasis <u>está</u> en soportar aquello que viene de otros en lugar de buscar agradarse a uno mismo. Salmo 69:9
+#### ...y la amabilidad.
 
-### Romanos 15:4
-Porque todo lo que fue escrito en tiempos pasados, para nuestra enseñanza se escribió, a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
+##### Una actitud humilde y considerada hacia los demás.
 
-#### Porque todo lo que fue escrito en tiempos pasados,
-##### Pablo amplía la importancia de la cita <u>anterior</u>.
+##### Atención especial
 
-###### No se limita al <u>texto</u> recién citado, sino que habla de las Escrituras en general.
+-   Pablo contrasta directamente a Timoteo con los falsos maestros.
+-   Algunas cosas deben evitarse; otras deben perseguirse activamente.
+-   La vida cristiana no consiste solamente en abandonar el error.
+-   También consiste en avanzar hacia aquello que es conforme a la piedad.
+-   La lista presentada por Pablo describe el carácter que debe distinguir a un hombre de Dios.
 
-###### La siguiente <u>frase</u> explica su propósito.
+### 1 Timoteo 6:12
 
-#### para nuestra enseñanza se escribió,
-##### Pablo identifica una función de las <u>Escrituras</u>.
+Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado, y de la que hiciste buena profesión en presencia de muchos testigos.
 
-###### Lo escrito anteriormente sigue teniendo valor para los lectores <u>actuales</u>.
+#### Pelea la buena batalla de la fe...
 
-###### la siguiente frase desarrolla el <u>resultado</u> esperado.
+##### Timoteo debía continuar firme en aquello que había recibido.
 
-#### a fin de que por medio de la paciencia y del consuelo de las Escrituras tengamos esperanza.
-##### Pablo <u>señala</u> el propósito final.
+##### La fe no se presenta aquí como algo pasivo.
 
-###### La paciencia, el consuelo y la esperanza aparecen unidos <u>dentro</u> de la misma idea.
+##### Pablo la describe como una batalla que requiere perseverancia y fidelidad.
 
-###### El <u>tema</u> de la esperanza conecta con varias secciones anteriores de Romanos.
+#### Echa mano de la vida eterna a la cual fuiste llamado...
 
-###### el versículo <u>siguiente</u> se convierte en una oración basada en estos conceptos.
+##### Pablo anima a Timoteo a apropiarse de aquello para lo cual había sido llamado.
 
-### Romanos 15:5
-Y que el Dios de la paciencia y del consuelo les conceda tener el mismo sentir los unos para con los otros conforme a Cristo Jesús,
+##### La expresión \scripture{echa mano} comunica la idea de aferrarse firmemente.
 
-#### Y que el Dios de la paciencia y del consuelo
-##### Pablo transforma la enseñanza anterior <u>en</u> una petición.
+##### Timoteo no debía vivir distraído por las cosas temporales, sino participar activamente de la vida que Dios le había dado en Cristo.
 
-###### Los mismos conceptos mencionados <u>en</u> el versículo anterior reaparecen ahora asociados a Dios.
+##### La vida eterna ocupa un lugar central en esta sección porque contrasta con las cosas pasajeras que dominan las preocupaciones de los falsos maestros.
 
-###### La siguiente frase <u>expresa</u> la petición específica.
+##### Mientras algunos persiguen ganancias temporales, Timoteo debía aferrarse a aquello que permanece.
 
-#### les conceda tener el mismo sentir los unos para con los otros
-##### Pablo desea unidad dentro de <u>la</u> comunidad.
+#### ...y de la que hiciste buena profesión en presencia de muchos testigos...
 
-###### <u>La</u> preocupación sigue siendo la convivencia entre creyentes con diferencias.
+##### Pablo recuerda a Timoteo que esta realidad no era nueva.
 
-###### <u>Esto</u> retoma el tema desarrollado desde Romanos 14:1.
+##### Él ya había confesado públicamente su fe delante de muchos testigos.
 
-###### <u>La</u> siguiente frase define el modelo.
+##### Ahora debía continuar viviendo de manera consistente con aquello que había declarado.
 
-#### conforme a Cristo Jesús,
-##### Cristo aparece <u>nuevamente</u> como referencia para la vida comunitaria.
+##### Atención especial
 
-###### La unidad <u>buscada</u> no surge simplemente de acuerdos humanos, sino que se relaciona con Cristo.
+-   La fe requiere perseverancia.
+-   Pablo contrasta lo temporal con lo eterno.
+-   Timoteo debía aferrarse a aquello para lo cual había sido llamado.
+-   La confesión pública de la fe trae consigo responsabilidad y perseverancia.
+-   La vida eterna aparece como una realidad que debe influir en la vida presente del creyente.
 
-###### El versículo siguiente presenta el propósito de esta <u>unidad</u>.
+### 1 Timoteo 6:13
 
-### Romanos 15:6
-para que unánimes, a una voz, glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
+Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato,
 
-#### para que unánimes, a una voz,
-##### Pablo muestra el resultado esperado de <u>la</u> unidad mencionada anteriormente.
+#### Te mando delante de Dios, que da vida a todas las cosas...
 
-###### <u>Las</u> expresiones destacan armonía y acción conjunta.
+##### Pablo introduce esta exhortación con gran solemnidad.
 
-#### glorifiquen al Dios y Padre de nuestro Señor Jesucristo.
-##### <u>La</u> unidad tiene un propósito que va más allá de la convivencia misma.
+##### Timoteo no recibe esta instrucción solamente delante de los hombres.
 
-###### La meta final <u>es</u> la glorificación de Dios.
+##### La recibe delante de Dios.
 
-###### Este versículo funciona como <u>la</u> culminación de la oración iniciada en Romanos 15:5.
+##### Dios es presentado como Aquel que da vida a todas las cosas.
 
-### Romanos 15:7
-Por tanto, acéptense los unos a los otros, como también Cristo nos aceptó para la gloria de Dios.
+##### Por esta razón, el encargo de Timoteo debía tomarse con toda seriedad.
 
-#### Por tanto, acéptense los unos a los otros,
-##### Pablo resume <u>la</u> sección con una exhortación directa.
+#### ...y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato...
 
-###### La aceptación mutua <u>ha</u> sido el tema constante desde Romanos 14:1.
+##### Pablo añade ahora el ejemplo de Cristo.
 
-###### Ahora aparece <u>como</u> conclusión explícita.
+##### Así como Timoteo había hecho una buena confesión delante de muchos testigos, Cristo también dio testimonio fiel.
 
-#### como también Cristo nos aceptó
-##### Cristo vuelve a ser el <u>ejemplo</u> principal.
+##### Jesús permaneció firme en la verdad aun en medio de oposición y juicio.
 
-###### La aceptación mutua entre creyentes se relaciona <u>con</u> la manera en que Cristo los ha recibido.
+##### El énfasis no recae sobre Poncio Pilato, sino sobre la fidelidad de Cristo al dar testimonio.
 
-###### Esta referencia conecta con el <u>énfasis</u> de Romanos 14–15 sobre no rechazar al hermano.
+##### Ahora Timoteo debía seguir el mismo ejemplo.
 
-#### para la gloria de Dios.
-##### Pablo concluye uniendo aceptación y gloria <u>de</u> Dios.
+##### Atención especial
 
-###### La misma meta que <u>apareció</u> en Romanos 15:6 vuelve a cerrar la sección.
+-   Pablo presenta esta exhortación delante de Dios y de Cristo Jesús.
+-   Dios es descrito como el que da vida.
+-   Cristo es presentado como ejemplo de fidelidad en su testimonio.
+-   Timoteo había hecho una buena confesión y debía perseverar en ella.
+-   La fidelidad de Cristo sirve de modelo para el ministerio de Timoteo.
 
-###### Este versículo funciona como un <u>resumen</u> de toda la unidad iniciada en Romanos 14:1 sobre fuertes, débiles y aceptación mutua.
+### 1 Timoteo 6:14
 
-### Romanos 15:8
-Pues les digo que Cristo se hizo servidor de la circuncisión para demostrar la verdad de Dios, para confirmar las promesas dadas a los padres,
+que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nuestro Señor Jesucristo,
 
-#### Pues les digo que Cristo se hizo servidor de la circuncisión
-##### <u>Pablo</u> explica cómo Cristo contribuye a la aceptación mutua que acaba de mencionar.
+#### que guardes el mandamiento...
 
-###### Después de exhortar a judíos y gentiles a aceptarse unos a otros (Romanos 15:7), Pablo comienza mostrando la relación <u>de</u> Cristo con Israel.
+##### Esta es la razón por la que Pablo ha recordado a Timoteo su llamado, su confesión y el ejemplo de Cristo.
 
-###### El énfasis recae en que Cristo vino como <u>servidor</u> de la circuncisión.
+##### Timoteo debía guardar fielmente aquello que había recibido.
 
-#### para demostrar la verdad de Dios,
-##### Pablo relaciona el ministerio de Cristo con la fidelidad <u>de</u> Dios.
+##### El término "\scripture{mandamiento}" parece resumir el encargo y la enseñanza que Pablo ha venido desarrollando a lo largo de la carta.
 
-###### Lo que Cristo hizo confirma que Dios actúa conforme <u>a</u> lo que ha dicho.
+#### ...sin mancha ni reproche...
 
-#### para confirmar las promesas dadas a los padres,
-##### <u>Pablo</u> conecta la obra de Cristo con las promesas hechas anteriormente.
+##### Timoteo debía conservar este encargo con fidelidad.
 
-###### La referencia a los padres enlaza con el tema que <u>apareció</u> en Romanos 11:28.
+##### No debía corromperlo, alterarlo ni desviarse de él.
 
-###### La llegada de <u>Cristo</u> no aparece separada de esas promesas, sino vinculada a ellas.
+##### La enseñanza recibida debía mantenerse libre de aquello que pudiera desacreditarla.
 
-###### El versículo siguiente añade un segundo propósito <u>relacionado</u> con los gentiles.
+#### ...hasta la manifestación de nuestro Señor Jesucristo.
 
-### Romanos 15:9
-y para que los gentiles glorifiquen a Dios por Su misericordia, como está escrito: «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
+##### La fidelidad requerida no era temporal.
 
-#### y para que los gentiles glorifiquen a Dios por Su misericordia,
-##### Pablo añade un segundo propósito <u>junto</u> al anterior.
+##### Timoteo debía perseverar hasta la manifestación de Cristo.
 
-###### Cristo no solo confirma las promesas hechas a los <u>padres</u>; también abre el camino para que los gentiles glorifiquen a Dios.
+##### La mirada permanece puesta en el regreso del Señor y no en las circunstancias presentes.
 
-###### La <u>misericordia</u> vuelve a ocupar un lugar importante en el argumento (Romanos 11:30–32).
+##### Atención especial
 
-###### la siguiente frase apoya esta afirmación <u>con</u> Escritura.
+-   Pablo resume aquí el encargo dado a Timoteo.
+-   La enseñanza debía conservarse fielmente.
+-   El ministerio requiere perseverancia a largo plazo.
+-   Cristo sigue siendo la referencia final del servicio cristiano.
+-   La expectativa de la manifestación de Cristo da perspectiva a todo el ministerio presente.
 
-#### como está escrito:
-##### Pablo vuelve a fundamentar su argumento en <u>una</u> cita bíblica.
+### 1 Timoteo 6:15
 
-###### <u>A</u> partir de aquí reunirá varias citas que muestran a los gentiles participando en la alabanza a Dios.
+la cual manifestará a su debido tiempo el bienaventurado y único Soberano, el Rey de reyes y Señor de señores;
 
-#### «POR TANTO, TE CONFESARÉ ENTRE LOS GENTILES, Y A TU NOMBRE CANTARÉ».
-##### La cita presenta alabanza a Dios en medio de <u>los</u> gentiles.
+#### la cual manifestará a su debido tiempo...
 
-###### Pablo utiliza este texto para mostrar que la participación <u>de</u> los gentiles ya estaba presente en las Escrituras. (Salmo 18:49)
+##### La referencia parece cambiar de Jesucristo, quien será manifestado, a Dios Padre, quien manifestará a Cristo en el tiempo señalado.
 
-###### El versículo <u>siguiente</u> añade una segunda cita.
+##### La manifestación de Cristo no ocurrirá antes ni después del momento determinado por Dios.
 
-### Romanos 15:10
-Y vuelve a decir: «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
+##### Todo sucede conforme al tiempo establecido por Él.
 
-#### Y vuelve a decir:
-##### Pablo continúa acumulando <u>testimonios</u> de las Escrituras.
+#### ...el bienaventurado y único Soberano...
 
-###### La repetición muestra que no depende de un solo texto para <u>sostener</u> su argumento.
+##### Pablo dirige la atención a Dios como el único Gobernante supremo.
 
-#### «REGOCÍJENSE, GENTILES, CON SU PUEBLO».
-##### La cita une <u>a</u> los gentiles con el pueblo de Dios en una misma celebración.
+##### Por encima de toda autoridad humana, espiritual o terrenal, Dios permanece como el único Soberano absoluto.
 
-###### <u>El</u> énfasis está en el regocijo compartido. (Deuteronomio 32:43)
+#### ...el Rey de reyes y Señor de señores...
 
-### Romanos 15:11
-Y de nuevo: «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
+##### Este título enfatiza la supremacía absoluta de Dios sobre toda autoridad.
 
-#### Y de nuevo:
-##### Pablo introduce otro <u>testimonio</u> adicional.
+##### Todo rey está sujeto a Él.
 
-###### La serie de <u>citas</u> sigue reforzando la misma dirección del argumento.
+##### Todo señor está bajo Su autoridad.
 
-#### «ALABEN AL SEÑOR TODOS LOS GENTILES, Y TODOS LOS PUEBLOS LO ALABEN».
-##### La <u>cita</u> amplía el llamado a la alabanza.
+##### Nadie gobierna independientemente de Su voluntad.
 
-###### Tanto los gentiles como los pueblos aparecen convocados a <u>glorificar</u> al Señor. (Salmo 117:1)
+##### Atención especial
 
-###### El versículo siguiente añade una cuarta <u>cita</u>, esta vez de Isaías.
+-   Cristo será manifestado en el tiempo determinado por Dios.
+-   La historia avanza según el propósito de Dios y no según el de los hombres.
+-   Pablo exalta la autoridad suprema de Dios antes de continuar describiendo Su gloria.
+-   El énfasis principal es la soberanía absoluta de Dios sobre toda autoridad creada.
 
-### Romanos 15:12
-Y a su vez, Isaías dice: «RETOÑARÁ LA RAÍZ DE ISAÍ, EL QUE SE LEVANTA A REGIR A LOS GENTILES; LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
+### 1 Timoteo 6:16
 
-#### Y a su vez, Isaías dice:
-##### Pablo añade <u>un</u> nuevo testigo de las Escrituras.
+el único que tiene inmortalidad y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver. A Él sea la honra y el dominio eterno. Amén.
 
-###### La <u>secuencia</u> de citas alcanza ahora a Isaías.
+#### el único que tiene inmortalidad...
 
-#### «RETOÑARÁ LA RAÍZ DE ISAÍ,
-##### La cita introduce una <u>figura</u> asociada con Isaí.
+##### Pablo continúa exaltando la grandeza de Dios.
 
-###### Pablo utiliza este texto como parte de <u>su</u> demostración acerca de los gentiles.
+##### Dios posee vida en Sí mismo y no depende de nadie para existir.
 
-#### EL QUE SE LEVANTA A REGIR A LOS GENTILES;
-##### La figura presentada ejerce autoridad <u>sobre</u> los gentiles.
+##### Toda criatura recibe la vida de Dios, pero Dios es eterno por naturaleza.
 
-###### Los gentiles ya no aparecen solo como espectadores <u>de</u> la alabanza, sino relacionados directamente con este gobernante.
+#### ...y habita en luz inaccesible...
 
-#### LOS GENTILES PONDRÁN EN ÉL SU ESPERANZA».
-##### La <u>cita</u> culmina con la esperanza de los gentiles.
+##### La gloria de Dios es presentada como una luz imposible de alcanzar por el hombre.
 
-###### <u>Este</u> tema conecta inmediatamente con la oración que sigue en el versículo siguiente. (Isaías 11:10)
+##### Ninguna criatura puede acercarse a Dios por sus propios medios.
 
-### Romanos 15:13
-Y el Dios de la esperanza los llene de todo gozo y paz en el creer, para que abunden en esperanza por el poder del Espíritu Santo.
+##### Su santidad y majestad están muy por encima de toda la creación.
 
-#### Y el Dios de la esperanza
-##### Pablo pasa de las <u>citas</u> a una oración.
+#### ...a quien ningún hombre ha visto ni puede ver...
 
-###### <u>La</u> esperanza mencionada en el versículo anterior reaparece ahora como una característica asociada a Dios.
+##### Dios es invisible al hombre natural.
 
-#### los llene de todo gozo y paz en el creer,
-##### Pablo desea que los <u>creyentes</u> experimenten gozo y paz.
+##### Nadie puede contemplar plenamente a Dios en toda Su gloria.
 
-###### Ambos elementos aparecen vinculados al <u>creer</u>.
+##### La distancia entre el Creador y la criatura resalta aún más la grandeza de Aquel a quien Pablo describe.
 
-#### para que abunden en esperanza
-##### La meta <u>de</u> la oración es una esperanza abundante.
+#### A Él sea la honra y el dominio eterno. Amén.
 
-###### <u>La</u> esperanza ha sido un tema recurrente desde Romanos 15:4.
+##### Después de contemplar quién es Dios, Pablo concluye con una expresión de adoración.
 
-#### por el poder del Espíritu Santo.
-##### Pablo atribuye esta abundancia de esperanza a la <u>acción</u> del Espíritu Santo.
+##### Toda honra le pertenece a Él.
 
-###### La <u>oración</u> concluye uniendo esperanza, gozo, paz y poder espiritual.
+##### Todo dominio le pertenece a Él.
 
-###### El versículo siguiente cambia del contenido doctrinal a una valoración personal de los creyentes <u>en</u> Roma.
+##### Su autoridad no tiene fin.
 
-> En Síntesis
->- Pablo concluye la discusión sobre fuertes y débiles llamando a los creyentes a aceptarse mutuamente y a buscar la edificación del prójimo antes que el beneficio propio.
->- Cristo es presentado como el modelo supremo, pues no se agradó a sí mismo, sino que actuó en beneficio de otros.
->- La unidad de la comunidad tiene un propósito mayor: Glorificar a Dios unánimes y a una voz.
->- Pablo muestra después que la obra de Cristo está relacionada tanto con Israel como con los gentiles:
->- Cristo confirma las promesas dadas a los padres y también abre el camino para que los gentiles glorifiquen a Dios por Su misericordia.
->- Para demostrarlo, reúne una serie de citas de las Escrituras que muestran a los gentiles participando en la alabanza, el gozo y la esperanza junto con el pueblo de Dios.
->- La sección culmina con una oración para que los creyentes abunden en esperanza, gozo y paz por el poder del Espíritu Santo.
+##### Atención especial
 
-# Romanos 15:14–16:27 EL EVANGELIO CONTINÚA AVANZANDO
+-   Dios posee vida en Sí mismo.
+-   Dios es completamente distinto de Su creación.
+-   Su gloria es presentada como luz inaccesible.
+-   Ningún hombre puede contemplar plenamente a Dios en toda Su majestad.
+-   Pablo concluye esta sección exaltando la honra y el dominio eterno de Dios.
 
-## 15:14–21 El ministerio de Pablo a los gentiles
+## 1 Timoteo 6:17–19 - Los bienes deben servir al propósito de Dios
 
-### Romanos 15:14
-En cuanto a ustedes, hermanos míos, yo mismo estoy también convencido de que ustedes están llenos de bondad, llenos de todo conocimiento y capaces también de amonestarse los unos a los otros.
+### 1 Timoteo 6:17
 
-#### En cuanto a ustedes, hermanos míos,
-##### Pablo cambia de <u>tono</u> y se dirige directamente a los creyentes de Roma.
+A los ricos en este mundo, enséñales que no sean altaneros ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, el cual nos da abundantemente todas las cosas para que las disfrutemos.
 
-###### Después de la oración anterior, vuelve a hablar <u>de</u> ellos de manera personal.
+#### A los ricos en este mundo...
 
-###### La siguiente frase expresa su <u>convicción</u>.
+##### Pablo ahora se dirige a creyentes que poseen riquezas materiales.
 
-#### yo mismo estoy también convencido
-##### Pablo declara <u>su</u> confianza respecto a ellos.
+##### La expresión "\scripture{ricos en este mundo}" recuerda que estas riquezas pertenecen a la esfera temporal de esta vida.
 
-###### <u>Lo</u> que sigue no es una corrección severa, sino un reconocimiento de cualidades presentes en la comunidad.
+##### La riqueza material no determina el verdadero valor espiritual de una persona.
 
-#### de que ustedes están llenos de bondad,
-##### Pablo reconoce <u>la</u> presencia de bondad entre ellos.
+#### ...enséñales que no sean altaneros...
 
-###### Esta <u>afirmación</u> prepara el resto de la descripción.
+##### Timoteo debía instruir a los creyentes ricos a no pensar de sí mismos más de lo debido.
 
-#### llenos de todo conocimiento
-##### Pablo también reconoce conocimiento en la <u>congregación</u>.
+##### Las riquezas pueden producir orgullo y una falsa sensación de superioridad.
 
-###### <u>Bondad</u> y conocimiento aparecen juntos en la evaluación de Pablo.
+##### Por esta razón, Pablo advierte contra la arrogancia.
 
-#### y capaces también de amonestarse los unos a los otros.
-##### Pablo afirma <u>que</u> la comunidad posee capacidad para instruirse y corregirse mutuamente.
+#### ...ni pongan su esperanza en la incertidumbre de las riquezas...
 
-###### Esta observación encaja con <u>el</u> énfasis comunitario desarrollado desde Romanos 12:3 en adelante.
+##### Las riquezas son inestables.
 
-###### Romanos 15:15 explicará por qué Pablo les ha escrito con tanta franqueza <u>a</u> pesar de reconocer estas cualidades.
+##### Pueden aumentar o desaparecer.
 
-### Romanos 15:15
-Pero les he escrito con atrevimiento sobre algunas cosas, para así hacer que las recuerden otra vez, por la gracia que me fue dada por Dios,
+##### Por eso no constituyen una base segura para la esperanza del creyente.
 
-#### Pero les he escrito con atrevimiento sobre algunas cosas,
-##### Pablo equilibra lo que acaba <u>de</u> decir en Romanos 15:14.
+#### ...sino en Dios...
 
-###### Aunque reconoce la madurez de los creyentes en Roma, <u>explica</u> por qué les escribió con tanta franqueza en ciertos temas.
+##### La confianza del creyente debe estar puesta en Dios y no en aquello que posee.
 
-###### El énfasis no está en corregir una <u>iglesia</u> incapaz, sino en recordar asuntos importantes.
+##### Mientras las riquezas son inciertas, Dios permanece fiel.
 
-###### la <u>siguiente</u> frase explica el propósito de esa manera de escribir.
+#### ...el cual nos da abundantemente todas las cosas...
 
-#### para así hacer que las recuerden otra vez,
-##### <u>Pablo</u> presenta su carta como un recordatorio.
+##### Pablo recuerda que todo lo que poseemos proviene finalmente de Dios.
 
-###### A lo largo de Romanos ha desarrollado temas que los lectores <u>necesitaban</u> tener presentes nuevamente.
+##### Las riquezas no son motivo de orgullo porque nadie es la fuente última de su propia provisión.
 
-###### Esto conecta con la función de enseñanza <u>mencionada</u> en Romanos 15:4.
+-   Dios es el dador de toda buena provisión.
 
-#### por la gracia que me fue dada por Dios,
-##### Pablo atribuye su función apostólica a la gracia <u>de</u> Dios.
+#### ...para que las disfrutemos.
 
-###### La autoridad con la que <u>escribe</u> no es presentada como mérito personal, sino como algo recibido.
+##### Las cosas materiales no son presentadas como algo malo en sí mismas.
 
-###### Este lenguaje recuerda Romanos 12:3, donde también habló <u>de</u> la gracia que le fue dada.
+##### Dios provee generosamente para el bienestar de Sus hijos.
 
-###### El versículo siguiente explica en qué <u>consiste</u> esa gracia.
+##### El problema no es poseer bienes, sino confiar en ellos o encontrar en ellos nuestra seguridad.
 
-### Romanos 15:16
-para ser ministro de Cristo Jesús a los gentiles, ministrando a manera de sacerdote el evangelio de Dios, a fin de que la ofrenda que hago de los gentiles sea aceptable, santificada por el Espíritu Santo.
+##### Atención especial
 
-#### para ser ministro de Cristo Jesús a los gentiles,
-##### Pablo describe <u>la</u> tarea que recibió de Dios.
+-   Pablo se dirige específicamente a creyentes <u>ricos</u>.
+-   La riqueza material pertenece a esta <u>vida</u> temporal.
+-   El <u>orgullo</u> y la autosuficiencia son peligros asociados a las riquezas.
+-   La esperanza del creyente debe estar <u>puesta</u> en Dios.
+-   Dios es la <u>fuente</u> de toda provisión.
+-   Las posesiones pueden disfrutarse con gratitud, pero <u>nunca</u> deben reemplazar la confianza en Dios.
 
-###### El enfoque <u>principal</u> de su ministerio está dirigido a los gentiles.
+### 1 Timoteo 6:18
 
-###### <u>Este</u> tema ha aparecido repetidamente desde Romanos 1 y vuelve a ocupar el centro de la discusión.
+Enséñales que hagan bien, que sean ricos en buenas obras, generosos y prontos a compartir,
 
-#### ministrando a manera de sacerdote el evangelio de Dios,
-##### Pablo utiliza lenguaje <u>relacionado</u> con el servicio sacerdotal.
+#### Enséñales que hagan bien...
 
-###### El evangelio <u>aparece</u> como el ámbito en el que desarrolla su ministerio.
+##### La confianza en Dios debe expresarse de manera práctica.
 
-###### El énfasis sigue estando en <u>su</u> función de servicio, no en su propia importancia.
+##### Los creyentes ricos no son llamados a acumular más, sino a utilizar lo que tienen para hacer el bien.
 
-#### a fin de que la ofrenda que hago de los gentiles sea aceptable,
-##### Pablo presenta a los gentiles <u>como</u> el resultado de su labor ministerial.
+#### ...que sean ricos en buenas obras...
 
-###### El lenguaje continúa desarrollando la imagen sacerdotal <u>introducida</u> en la frase anterior.
+##### Pablo presenta una riqueza superior a la material.
 
-#### santificada por el Espíritu Santo.
-##### Pablo atribuye esta obra <u>al</u> Espíritu Santo.
+##### Los creyentes pueden abundar en buenas obras.
 
-###### El Espíritu aparece como quien produce la condición necesaria <u>para</u> que la ofrenda sea aceptable.
+##### La verdadera medida de la riqueza delante de Dios no es cuánto posee una persona, sino cuánto participa en aquello que es bueno.
 
-### Romanos 15:17
-Por tanto, en Cristo Jesús he hallado razón para gloriarme en las cosas que se refieren a Dios.
+#### ...generosos...
 
-#### Por tanto, en Cristo Jesús
-##### Pablo extrae una conclusión <u>de</u> lo que acaba de describir.
+##### La generosidad es una expresión natural de una esperanza puesta en Dios.
 
-###### <u>Todo</u> lo dicho sobre su ministerio queda situado "en Cristo Jesús".
+##### Quien confía en Dios no necesita aferrarse a sus posesiones como si fueran su seguridad.
 
-#### he hallado razón para gloriarme
-##### <u>Pablo</u> habla de una razón legítima para gloriarse.
+#### ...y prontos a compartir...
 
-###### Sin embargo, la atención <u>no</u> se dirige a capacidades personales, sino a la obra que Dios ha realizado.
+##### Los bienes materiales se convierten en una oportunidad para servir a otros.
 
-#### en las cosas que se refieren a Dios.
-##### Pablo restringe el motivo de su <u>gloria</u>.
+##### En lugar de retener o acumular, el creyente puede participar voluntariamente en las necesidades de otros.
 
-###### El centro sigue siendo la actividad de Dios y no <u>los</u> logros personales del apóstol.
+##### La riqueza puesta al servicio de las buenas obras se convierte en una bendición para la iglesia y para quienes reciben ayuda.
 
-### Romanos 15:18
-Porque no me atreveré a hablar de nada sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, en palabra y en obra,
+##### Atención especial
 
-#### Porque no me atreveré a hablar de nada
-##### Pablo explica la naturaleza de su <u>gloria</u>.
+-   La confianza en Dios debe reflejarse en acciones concretas.
+-   Pablo anima a los creyentes ricos a abundar en buenas obras.
+-   La generosidad demuestra una confianza correcta en Dios.
+-   Compartir es lo opuesto a vivir para acumular.
+-   La riqueza material puede ser utilizada para el bien de otros.
 
-###### No pretende llamar la atención sobre experiencias o logros ajenos <u>al</u> ministerio que Cristo realizó.
+### 1 Timoteo 6:19
 
-###### La siguiente frase establece el límite de lo <u>que</u> está dispuesto a mencionar.
+acumulando para sí el tesoro de un buen fundamento para el futuro, para que puedan echar mano de lo que en verdad es vida.
 
-#### sino de lo que Cristo ha hecho por medio de mí
-##### Pablo atribuye la <u>obra</u> a Cristo.
+#### acumulando para sí el tesoro...
 
-###### Aunque participa activamente en el ministerio, el énfasis recae en lo que Cristo <u>hizo</u>.
+##### Al usar sus recursos para hacer el bien, ser generosos y compartir, los creyentes ricos están invirtiendo en algo que tiene valor permanente.
 
-###### Esto mantiene la misma <u>línea</u> de Romanos 15:17.
+##### Pablo utiliza un lenguaje que ellos comprenderían fácilmente.
 
-#### para la obediencia de los gentiles,
-##### Pablo vuelve a mencionar <u>a</u> los gentiles como objetivo de su ministerio.
+##### Así como una persona acumula riquezas para el futuro, el creyente puede invertir en aquello que tiene valor eterno.
 
-###### La expresión conecta con el inicio de la carta, donde <u>también</u> habló de la obediencia relacionada con la fe. Romanos 1:5.
+#### ...de un buen fundamento para el futuro...
 
-#### en palabra y en obra,
-##### Pablo <u>describe</u> el alcance de su ministerio.
+##### La riqueza material es incierta y temporal.
 
-###### La actividad incluye <u>tanto</u> proclamación como acciones visibles.
+##### Sin embargo, las buenas obras realizadas en dependencia de Dios producen un fundamento firme para el futuro.
 
-### Romanos 15:19
-con el poder de señales y prodigios, en el poder del Espíritu de Dios. De manera que desde Jerusalén y por los alrededores hasta el Ilírico he predicado en toda su plenitud el evangelio de Cristo.
+##### Pablo dirige la atención desde lo temporal hacia aquello que permanece.
 
-#### con el poder de señales y prodigios,
-##### <u>Pablo</u> continúa describiendo su ministerio.
+#### ...para que puedan echar mano de lo que en verdad es vida.
 
-###### Las señales y prodigios aparecen como acompañamiento <u>de</u> la obra realizada.
+##### Esta expresión recuerda el llamado dado anteriormente a Timoteo de "\scripture{echar mano de la vida eterna}" (1 Timoteo 6:12).
 
-#### en el poder del Espíritu de Dios.
-##### Pablo atribuye nuevamente la <u>obra</u> al Espíritu de Dios.
+##### La verdadera vida no se encuentra en la acumulación de bienes materiales.
 
-###### Igual que en Romanos 15:16, el énfasis recae en la acción divina y no <u>en</u> la capacidad humana.
+##### Se encuentra en participar de aquello que Dios valora y en vivir conforme a Su propósito.
 
-#### De manera que desde Jerusalén y por los alrededores hasta el Ilírico
-##### Pablo resume <u>la</u> extensión de su labor.
+##### Atención especial
 
-###### La descripción abarca <u>una</u> amplia región y muestra el alcance de su ministerio.
+-   Pablo utiliza el lenguaje de inversión y acumulación para enseñar una verdad espiritual.
+-   Las riquezas materiales son temporales; las recompensas eternas permanecen.
+-   El creyente puede utilizar sus recursos presentes para propósitos futuros.
+-   La verdadera vida no consiste en la abundancia de posesiones.
+-   El versículo conecta con 1 Timoteo 6:12, donde Timoteo debía echar mano de la vida eterna.
 
-#### he predicado en toda su plenitud el evangelio de Cristo.
-##### Pablo resume la tarea que <u>ha</u> venido describiendo.
+## 1 Timoteo 6:20–21 - El encargo debe ser guardado
 
-###### El evangelio de Cristo permanece <u>como</u> el centro de toda la sección.
+### 1 Timoteo 6:20
 
-###### Romanos 15:20 continuará explicando la estrategia <u>que</u> caracterizó este ministerio: anunciar donde Cristo aún no había sido nombrado.
+Timoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y profanas, y las objeciones de lo que falsamente se llama ciencia,
 
-### Romanos 15:20
-De esta manera me esforcé en anunciar el evangelio, no donde Cristo ya era conocido, para no edificar sobre el fundamento de otro;
+#### Timoteo, guarda lo que se te ha encomendado...
 
-#### De esta manera me esforcé en anunciar el evangelio,
-##### Pablo explica <u>la</u> estrategia que caracterizó su ministerio.
+##### Pablo concluye la carta regresando a una de sus preocupaciones principales.
 
-###### Después <u>de</u> describir el alcance de su labor (Romanos 15:19), ahora explica cómo desarrolló esa obra.
+##### Timoteo había recibido un encargo que debía proteger cuidadosamente.
 
-###### El énfasis <u>recae</u> en anunciar el evangelio.
+##### La enseñanza recibida no debía ser alterada, descuidada ni reemplazada.
 
-#### no donde Cristo ya era conocido,
-##### Pablo describe una característica <u>de</u> su ministerio.
+##### Lo que Pablo había explicado acerca de la casa de Dios debía conservarse y transmitirse fielmente.
 
-###### Su objetivo era trabajar en <u>lugares</u> donde Cristo aún no había sido anunciado.
+#### ...y evita las palabrerías vacías y profanas...
 
-#### para no edificar sobre el fundamento de otro;
-##### Pablo explica el motivo <u>de</u> esa estrategia.
+##### Timoteo no debía distraerse con conversaciones que carecían de valor espiritual.
 
-###### <u>Su</u> labor se concentraba en abrir nuevos campos de trabajo, no en continuar una obra ya iniciada por otros.
+##### Las palabras vacías no producen piedad ni edifican a la iglesia.
 
-### Romanos 15:21
-sino como está escrito: «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN, Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
+##### Por esta razón debía apartarse de ellas.
 
-#### sino como está escrito:
-##### Pablo apoya su estrategia mediante <u>las</u> Escrituras.
+#### ...y las objeciones de lo que falsamente se llama ciencia...
 
-###### La cita <u>sirve</u> como fundamento para la labor que acaba de describir.
+##### Pablo advierte acerca de un supuesto conocimiento que se presenta como verdadero pero que en realidad no lo es.
 
-#### «AQUELLOS A QUIENES NUNCA LES FUE ANUNCIADO ACERCA DE ÉL, VERÁN,
-##### La cita dirige la atención hacia personas que aún no <u>habían</u> recibido el anuncio.
+##### No todo lo que reclama ser conocimiento proviene de la verdad.
 
-###### <u>El</u> énfasis está en quienes anteriormente no habían tenido acceso a este mensaje.
+##### Timoteo debía permanecer firme en la enseñanza recibida y no dejarse desviar por argumentos que contradicen la fe.
 
-#### Y LOS QUE NO HAN OÍDO, ENTENDERÁN».
-##### <u>La</u> cita concluye con la respuesta de quienes antes no habían oído.
+##### Atención especial
 
-###### <u>Pablo</u> presenta este texto como respaldo de su ministerio entre nuevos pueblos.
+-   Pablo termina la carta enfatizando nuevamente el encargo dado a Timoteo.
+-   La verdad debía ser protegida y transmitida fielmente.
+-   Las discusiones vacías no contribuyen al propósito de Dios.
+-   Existe un conocimiento que pretende ser verdadero pero que contradice la fe.
+-   La responsabilidad de Timoteo era permanecer fiel a lo que había recibido.
 
-###### <u>Véase</u> Isaías 52:15.
+### 1 Timoteo 6:21
 
-###### El versículo siguiente conecta esta estrategia con su relación con los creyentes <u>de</u> Roma.
+la cual profesándola algunos, se han desviado de la fe. La gracia sea con ustedes.
 
-> En Síntesis
->- Pablo comienza esta sección explicando por qué escribió con tanta claridad a los creyentes de Roma.
->- Aunque reconoce su madurez, les recuerda que recibió de Dios una gracia y un ministerio específico entre los gentiles.
->- Repetidamente atribuye el fruto de su ministerio a la obra de Cristo y al poder del Espíritu Santo, no a méritos personales.
->- El objetivo de ese ministerio fue llevar a los gentiles a la obediencia y anunciar el evangelio donde Cristo aún no había sido conocido.
->- Pablo describe una labor que se extendió desde Jerusalén hasta el Ilírico, siempre con el propósito de llevar el evangelio a nuevos lugares.
->- Finalmente, muestra que esta estrategia no surgió de una preferencia personal, sino que está en armonía con las Escrituras, que anunciaban que quienes nunca habían oído llegarían a ver y entender.
->- La siguiente sección mostrará cómo este mismo ministerio influye en los planes de viaje de Pablo y en su deseo de visitar Roma.
+#### la cual profesándola algunos...
 
-## Romanos 15:22–33 - Los planes de Pablo
+##### Pablo concluye mostrando el resultado de aquello que acaba de advertir.
 
-### Romanos 15:22
-Por esta razón muchas veces me he visto impedido de ir a ustedes.
+##### Algunos adoptaron y promovieron aquello que falsamente era presentado como conocimiento.
 
-#### Por esta razón
-##### Pablo conecta con <u>lo</u> que acaba de explicar.
+##### En lugar de aferrarse a la verdad recibida, dieron importancia a enseñanzas que parecían superiores o más avanzadas.
 
-###### Su <u>forma</u> de trabajar explica lo que dirá a continuación.
+#### ...se han desviado de la fe.
 
-#### muchas veces me he visto impedido de ir a ustedes.
-##### Pablo explica por <u>qué</u> aún no había visitado Roma.
+##### El resultado fue el mismo problema que Pablo había señalado repetidamente a lo largo de la carta.
 
-###### Su dedicación a regiones donde <u>Cristo</u> no había sido anunciado había retrasado ese viaje.
+##### Se desviaron de la fe.
 
-### Romanos 15:23
-Pero ahora, no quedando ya más lugares para mí en estas regiones, y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
+##### La enseñanza falsa nunca conduce a la piedad ni al propósito de Dios.
 
-#### Pero ahora, no quedando ya más lugares para mí en estas regiones,
-##### Pablo describe un cambio <u>en</u> su situación.
+##### Conduce al extravío.
 
-###### La labor que venía desarrollando en esas regiones ha llegado a un punto de <u>conclusión</u>.
+#### La gracia sea con ustedes.
 
-#### y puesto que por muchos años he tenido un gran deseo de ir a ustedes,
-##### Pablo recuerda <u>un</u> deseo antiguo.
+##### Pablo termina la carta con gracia.
 
-###### La visita <u>a</u> Roma no surge repentinamente, sino que ha estado presente durante mucho tiempo. (Romanos 1:10–13)
+##### Después de advertencias, correcciones e instrucciones, la solución sigue siendo la misma.
 
-### Romanos 15:24
-cuando vaya a España los visitaré. Porque espero verlos al pasar y que me ayuden a continuar hacia allá, después de que haya disfrutado un poco de su compañía.
+##### La gracia de Dios es suficiente para sostener a los creyentes en la verdad.
 
-#### cuando vaya a España los visitaré.
-##### Pablo presenta su plan de <u>viaje</u>.
+##### Es significativo que Pablo cierre diciendo "\scripture{con ustedes}" y no solamente "\scripture{contigo}".
 
-###### Roma aparece como una etapa dentro <u>de</u> un proyecto más amplio.
+##### Aunque Timoteo era el destinatario inmediato, el contenido de la carta beneficiaba a toda la iglesia.
 
-#### Porque espero verlos al pasar
-##### Pablo desea encontrarse con <u>ellos</u> durante el trayecto.
+##### Todos necesitaban aprender cómo conducirse en la casa de Dios y cómo permanecer firmes en la verdad.
 
-###### El <u>encuentro</u> forma parte de sus planes inmediatos.
+##### Atención especial
 
-#### y que me ayuden a continuar hacia allá,
-##### Pablo <u>espera</u> recibir apoyo para continuar su viaje.
+-   Algunos adoptaron enseñanzas que parecían conocimiento verdadero.
+-   El resultado fue desviarse de la fe.
+-   Pablo termina la carta donde comenzó: preocupado por la sana enseñanza.
+-   La gracia de Dios sigue siendo la provisión para permanecer firmes.
+-   La carta beneficia tanto a Timoteo como a toda la iglesia.
 
-###### La iglesia de Roma aparece vinculada a la siguiente etapa de <u>su</u> ministerio.
+## Conclusión
 
-#### después de que haya disfrutado un poco de su compañía.
-##### Pablo expresa afecto hacia los <u>creyentes</u> romanos.
+##### Pablo escribió esta carta porque algunos se habían desviado hacia discusiones inútiles, enseñanzas extrañas y objetivos equivocados. Sin embargo, desde el comienzo dejó en claro cuál era el propósito de la instrucción: el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
 
-###### La visita <u>no</u> es solamente funcional; también incluye comunión personal.
+##### Por esta razón, la verdad debía ser preservada. No porque el conocimiento sea una meta en sí mismo, ni para sostener una tradición religiosa, sino porque la verdad conduce al propósito que Dios desea producir en Su pueblo.
 
-### Romanos 15:25
-Pero ahora voy a Jerusalén para el servicio de los santos,
+##### La organización de la iglesia, los requisitos para ancianos y diáconos, el cuidado de las viudas, las relaciones entre los creyentes, la advertencia contra la falsa enseñanza y las exhortaciones a Timoteo apuntan en una misma dirección. Todo existe para que la vida de Cristo pueda expresarse libremente en la casa de Dios.
 
-#### Pero ahora voy a Jerusalén
-##### Antes de dirigirse hacia Roma y España, Pablo tiene otro destino <u>inmediato</u>.
+##### Algunos se desviarán de la fe y otros abandonarán este propósito. Por eso Timoteo debía guardar cuidadosamente lo que se le había encomendado y permanecer en la enseñanza sana.
 
-###### Jerusalén ocupa el <u>siguiente</u> lugar en sus planes.
+##### Pero el énfasis final de la carta no está en los líderes, ni en los requisitos, ni en los métodos.
 
-#### para el servicio de los santos,
-##### Pablo describe el propósito de este <u>viaje</u>.
+##### Está en aquello que Dios produce por medio de una fe sincera: amor nacido de un corazón puro y una buena conciencia.
 
-###### El viaje está relacionado con una <u>labor</u> a favor de los creyentes en Jerusalén.
+##### Ese fue el propósito al principio de la carta.
 
-### Romanos 15:26
-pues Macedonia y Acaya han tenido a bien hacer una colecta para los pobres de entre los santos que están en Jerusalén.
+##### Y sigue siendo el propósito para la iglesia hoy.
 
-#### pues Macedonia y Acaya han tenido a bien hacer una colecta
-##### <u>Pablo</u> explica el origen del servicio mencionado.
+##### La gracia sea con ustedes.
 
-###### Las iglesias de estas <u>regiones</u> participaron voluntariamente en una contribución.
+> En Síntesis (1 Timoteo 6:11-21)
+>
+> - Pablo exhorta a Timoteo a huir de aquello que caracteriza a los falsos maestros y a perseguir una vida marcada por la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
+> - Timoteo debía permanecer fiel al encargo recibido, aferrándose a la vida eterna y guardando la verdad que le había sido confiada.
+> - La exhortación está fundamentada en la grandeza de Dios y en la futura manifestación de Jesucristo, delante de quien Timoteo debía servir con fidelidad.
+> - Los creyentes ricos son llamados a poner su esperanza en Dios y no en las riquezas, utilizando sus recursos para hacer el bien, ser generosos y participar en buenas obras.
+> - La carta concluye con un llamado a guardar el depósito recibido y evitar las enseñanzas que desvían de la fe, preservando así el propósito de la instrucción que Pablo ha desarrollado desde el comienzo de la epístola.
 
-#### para los pobres de entre los santos que están en Jerusalén.
-##### La colecta <u>tiene</u> un propósito específico.
+<!-- @quiz timoteo-5 -->
 
-###### Está destinada a creyentes necesitados en <u>Jerusalén</u>.
+# APÉNDICE
 
-### Romanos 15:27
-Sí, tuvieron a bien hacerlo, y a la verdad que están en deuda con ellos. Porque si los gentiles han participado de sus bienes espirituales, también están obligados a servir a los santos en los bienes materiales.
+## LA DISCIPLINA EN LA HISTORIA BÍBLICA
 
-#### Sí, tuvieron a bien hacerlo,
-##### <u>Pablo</u> destaca el carácter voluntario de esta contribución.
+## Introducción
 
-###### Las iglesias participaron de buena <u>voluntad</u>.
+##### La disciplina no aparece por primera vez en 1 Timoteo ni en la iglesia. A lo largo de toda la historia bíblica, Dios disciplina a aquellos que le pertenecen.
 
-#### y a la verdad que están en deuda con ellos.
-##### Pablo presenta <u>una</u> obligación moral relacionada con esta ayuda.
+##### La disciplina no surge de la ausencia de amor. Surge precisamente de la relación que Dios tiene con Su pueblo.
 
-###### No solo <u>hubo</u> disposición, sino también una razón para actuar así.
+-   La disciplina es una realidad recurrente en la Escritura.
+-   Dios disciplina a quienes le pertenecen.
+-   El propósito final no es la destrucción sino la restauración.
 
-#### Porque si los gentiles han participado de sus bienes espirituales,
-##### Pablo establece una relación entre <u>dos</u> tipos de beneficio.
+## El patrón bíblico
 
-###### Los gentiles han recibido algo que él describe como <u>bienes</u> espirituales.
+### Edén
 
-#### también están obligados a servir a los santos en los bienes materiales.
-##### Pablo muestra <u>la</u> respuesta apropiada a esa participación.
+##### Adán y Eva disfrutaban de comunión con Dios dentro del jardín.
 
-###### La ayuda material aparece como <u>una</u> expresión de esa relación.
+##### Cuando pecaron, Dios los expulsó de Su presencia y del lugar donde habitaban.
 
-### Romanos 15:28
-Así que cuando haya cumplido esto y les haya entregado esta ofrenda, iré a España llegando de paso a verlos.
+-   Pecado.
+-   Disciplina.
+-   Expulsión.
 
-#### Así que cuando haya cumplido esto
-##### Pablo resume la tarea inmediata que <u>tiene</u> por delante.
+### Israel en el desierto
 
-###### Primero debe completar el servicio relacionado <u>con</u> Jerusalén.
+##### Dios redimió a Israel de Egipto y lo llevó al desierto.
 
-#### y les haya entregado esta ofrenda,
-##### Pablo espera <u>concluir</u> satisfactoriamente esta misión.
+##### Cuando el pueblo persistió en la incredulidad, Dios lo disciplinó repetidamente.
 
-###### Después de ello podrá <u>continuar</u> con los siguientes planes.
+-   Incredulidad.
+-   Disciplina.
+-   Llamado al arrepentimiento.
 
-#### iré a España llegando de paso a verlos.
-##### Pablo <u>vuelve</u> al proyecto mencionado anteriormente.
+### Israel en la tierra
 
-###### Roma <u>sigue</u> apareciendo como una escala importante dentro de ese viaje.
+##### Dios estableció a Israel en la tierra prometida bajo el pacto mosaico.
 
-### Romanos 15:29
-Y sé que cuando vaya a ustedes, iré en la plenitud de la bendición de Cristo.
+##### Cuando la nación rechazó persistentemente a Dios, los profetas anunciaron juicio.
 
-#### Y sé que cuando vaya a ustedes,
-##### Pablo expresa confianza respecto a esta <u>futura</u> visita.
+-   Rebelión.
+-   Advertencia.
+-   Disciplina.
 
-###### Habla de ella como <u>un</u> plan esperado y deseado.
+### Exilio
 
-#### iré en la plenitud de la bendición de Cristo.
-##### Pablo relaciona <u>el</u> viaje con la bendición de Cristo.
+##### Finalmente Dios ejecutó las sanciones del pacto.
 
-###### La visita no es presentada simplemente como un desplazamiento geográfico, sino como parte de su <u>ministerio</u>.
+##### Israel y Judá fueron expulsados de la tierra.
 
-### Romanos 15:30
-Les ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
+-   Pecado persistente.
+-   Disciplina.
+-   Expulsión.
 
-#### Les ruego, hermanos,
-##### Pablo pasa de informar <u>sus</u> planes a pedir ayuda.
+##### Sin embargo, el exilio no era el final de la historia.
 
-###### La <u>petición</u> está dirigida directamente a la iglesia.
+##### Dios prometió restaurar a Su pueblo.
 
-#### por nuestro Señor Jesucristo y por el amor del Espíritu,
-##### Pablo apela <u>a</u> realidades compartidas por sus lectores.
+-   Disciplina.
+-   Arrepentimiento.
+-   Restauración.
 
-###### Esto da <u>solemnidad</u> a la petición que sigue.
+## La disciplina en la iglesia
 
-#### que se esfuercen juntamente conmigo en sus oraciones a Dios por mí,
-##### Pablo solicita la participación de la <u>iglesia</u> mediante la oración.
+##### El Nuevo Testamento continúa mostrando el mismo patrón.
 
-###### La <u>expresión</u> enfatiza cooperación y participación conjunta.
+##### Dios sigue corrigiendo a Su pueblo y llamándolo al arrepentimiento.
 
-### Romanos 15:31
-para que sea librado de los que son desobedientes en Judea, y que mi servicio a Jerusalén sea aceptable a los santos,
+-   La disciplina sigue existiendo.
+-   El amor de Dios sigue existiendo.
+-   Ambos aparecen juntos.
 
-#### para que sea librado de los que son desobedientes en Judea,
-##### <u>Pablo</u> presenta la primera petición específica.
+##### Además de la disciplina providencial de Dios, el Nuevo Testamento también presenta la responsabilidad de la iglesia de confrontar el pecado cuando este contradice abiertamente la profesión de fe.
 
-###### Su próximo viaje incluye riesgos relacionados <u>con</u> personas en Judea.
+##### La meta continúa siendo la restauración.
 
-#### y que mi servicio a Jerusalén sea aceptable a los santos,
-##### Pablo <u>también</u> desea que la misión que lleva a Jerusalén sea bien recibida.
+-   Advertir.
+-   Exhortar.
+-   Corregir.
+-   Restaurar.
 
-###### <u>Esto</u> conecta directamente con la colecta mencionada anteriormente.
+##### Por esta razón aparecen textos como Mateo 18:15–17, 1 Corintios 5:1–13, 2 Corintios 2:5–8 y Tito 3:10–11.
 
-### Romanos 15:32
-y para que con gozo llegue a ustedes por la voluntad de Dios, y encuentre confortante reposo con ustedes.
+##### La disciplina eclesiástica no busca destruir a la persona.
 
-#### y para que con gozo llegue a ustedes
-##### Pablo expresa el resultado que <u>espera</u> después de completar su misión.
+##### Busca llamar al arrepentimiento y proteger a la congregación.
 
-###### Su deseo <u>sigue</u> siendo visitar Roma.
+## Himeneo y Alejandro
 
-#### por la voluntad de Dios,
-##### Pablo reconoce que sus planes dependen de la voluntad de <u>Dios</u>.
+##### En 1 Timoteo 1:20 Pablo menciona a Himeneo y Alejandro como ejemplos concretos.
 
-###### <u>Esta</u> idea aparece varias veces en la carta. Romanos 1:10.
+##### Ambos ilustran las consecuencias de rechazar la fe y una buena conciencia.
 
-#### y encuentre confortante reposo con ustedes.
-##### Pablo espera hallar consuelo y descanso en <u>compañía</u> de ellos.
+-   Desviación.
+-   Rechazo.
+-   Naufragio.
 
-###### La relación con la iglesia de <u>Roma</u> aparece nuevamente en términos personales y afectuosos.
+##### La medida tomada por Pablo demuestra la seriedad del problema.
 
-### Romanos 15:33
-El Dios de paz sea con todos ustedes. Amén.
+##### Sin embargo, aun aquí aparece un propósito correctivo:
 
-#### El Dios de paz sea con todos ustedes.
-##### Pablo <u>concluye</u> esta parte de la carta con una bendición.
+##### > "para que aprendan a no blasfemar."
 
-###### La expresión <u>resume</u> el tono pastoral que caracteriza toda esta sección final.
+-   La disciplina busca aprendizaje.
+-   La disciplina busca corrección.
+-   La disciplina busca restauración.
 
-###### El título "Dios de paz" encaja con <u>varios</u> temas desarrollados en Romanos 14–15.
+## Consumación
 
-#### Amén.
-##### Pablo <u>concluye</u> la bendición con una afirmación final.
+##### La disciplina pertenece al tiempo presente.
 
-###### Esta palabra marca <u>el</u> cierre de la sección antes de pasar a los saludos del capítulo 16.
+##### La Escritura apunta hacia un día en que la obra de Dios estará completa.
 
-> En Síntesis
->- Pablo explica por qué aún no había visitado Roma y muestra cómo sus planes estaban ligados a su ministerio entre los gentiles.
->- Su prioridad había sido anunciar el evangelio donde Cristo aún no era conocido, razón por la cual muchas veces fue impedido de ir a ellos.
->- Ahora espera visitar Roma camino a España, pero primero debe completar un servicio en Jerusalén a favor de los santos necesitados.
->- Pablo presenta esta ayuda como una expresión de la relación entre judíos y gentiles, pues quienes participaron de bienes espirituales también sirven con bienes materiales.
->- Aunque tiene planes definidos, reconoce su dependencia de Dios y pide a los creyentes que participen juntamente con él mediante la oración.
->- La sección concluye mostrando a Pablo como un siervo comprometido con el avance del evangelio, el cuidado de las iglesias y la comunión con el pueblo de Dios.
+-   No más corrección.
+-   No más disciplina.
+-   No más pecado.
 
-## Romanos 16:1–16 - Una red de colaboradores
+##### La historia termina con una separación definitiva entre quienes pertenecen a Dios y quienes permanecen en rebelión contra Él.
 
-### Romanos 16:1
-Les recomiendo a nuestra hermana Febe, diaconisa de la iglesia en Cencrea,
+##### Lo que ahora aparece como disciplina temporal dará paso al juicio final y a la restauración completa del pueblo de Dios.
 
-#### Les recomiendo a nuestra hermana Febe,
-##### Pablo inicia la sección final <u>de</u> la carta presentando a Febe a los creyentes de Roma.
+## 100 Verdades de Identidad en Cristo
 
-###### La recomendación prepara a la <u>iglesia</u> para recibirla favorablemente.
+##### 1. Nací de nuevo (1 Pedro 1:23)
 
-###### Pablo la <u>llama</u> "nuestra hermana", destacando su pertenencia a la misma comunidad de fe.
+##### 2. Soy hijo de Dios (Juan 1:12)
 
-#### diaconisa de la iglesia en Cencrea,
-##### Pablo añade información acerca <u>de</u> Febe.
+##### 3. Soy santo (1 Corintios 1:2)
 
-###### La presenta como servidora <u>de</u> la iglesia en Cencrea.
+##### 4. Soy la sal de la tierra (Mateo 5:13)
 
-###### Esta descripción ayuda a explicar por qué <u>Pablo</u> la recomienda de manera especial.
+##### 5. Soy la luz del mundo (Mateo 5:14)
 
-### Romanos 16:2
-para que la reciban en el Señor de una manera digna de los santos, y que la ayuden en cualquier asunto en que ella necesite de ustedes, porque ella también ha ayudado a muchos y aun a mí mismo.
+##### 6. Soy discípulo porque amo a los demás (Juan 13:34-35)
 
-#### para que la reciban en el Señor
-##### Pablo expresa el propósito <u>de</u> su recomendación.
+##### 7. Estoy protegido por el poder de su nombre (Juan 17:11)
 
-###### La recepción de Febe <u>debe</u> realizarse dentro del marco de la comunión cristiana.
+##### 8. Soy libre por la verdad (Juan 8:31-33)
 
-#### de una manera digna de los santos,
-##### Pablo establece el carácter de <u>esa</u> recepción.
+##### 9. Estoy eternamente seguro en Cristo (Juan 10:27-31)
 
-###### El trato hacia Febe debe corresponder a la identidad <u>compartida</u> de los creyentes.
+##### 10. Estoy protegido del maligno (Juan 17:15)
 
-#### y que la ayuden en cualquier asunto en que ella necesite de ustedes,
-##### <u>Pablo</u> pide apoyo concreto para Febe.
+##### 11. Soy uno con Dios Padre y Jesús Hijo (Juan 17:23)
 
-###### La recomendación no es solamente formal; incluye ayuda activa <u>cuando</u> sea necesaria.
+##### 12. Soy el regalo de Dios a Cristo (Juan 17:24)
 
-#### porque ella también ha ayudado a muchos y aun a mí mismo.
-##### Pablo justifica su petición recordando el servicio previo de <u>Febe</u>.
+##### 13. Tengo paz con Dios (Romanos 5:1)
 
-###### Su ayuda había <u>beneficiado</u> a muchos creyentes.
+##### 14. He sido justificado por la fe (Romanos 5:1)
 
-###### Pablo <u>añade</u> su propio testimonio personal como parte de esa evidencia.
+##### 15. Tengo acceso a la esfera de la gracia de Dios (Romanos 5:2)
 
-###### El <u>versículo</u> siguiente comienza una larga serie de saludos personales.
+##### 16. Puedo regocijarme en la tribulación (Romanos 5:3)
 
-### Romanos 16:3
-Saluden a Priscila y a Aquila, mis colaboradores en Cristo Jesús,
+##### 17. El amor de Dios ha sido derramado en mi corazón (Romanos 5:5)
 
-#### Saluden a Priscila y a Aquila,
-##### Pablo <u>comienza</u> la lista de saludos.
+##### 18. Estoy reinando en la vida de Jesucristo (Romanos 5:17)
 
-###### Priscila y <u>Aquila</u> aparecen juntos como una unidad frecuente dentro del ministerio de Pablo.
+##### 19. He sido reconciliado con Dios por la muerte de Jesús (Romanos 5:10)
 
-###### La <u>siguiente</u> frase explica su relación con ellos.
+##### 20. Estoy siendo salvo por la vida de Jesús (Romanos 5:10b)
 
-#### mis colaboradores en Cristo Jesús,
-##### <u>Pablo</u> describe a Priscila y Aquila como compañeros de trabajo.
+##### 21. He sido bautizado en la muerte de Cristo (Romanos 6:3)
 
-###### El énfasis está <u>en</u> la colaboración dentro de la obra relacionada con Cristo.
+##### 22. He sido resucitado para andar en la Nueva vida (Romanos 6:4)
 
-### Romanos 16:4
-los cuales expusieron su vida por mí, a quienes no solo yo doy gracias, sino también todas las iglesias de los gentiles.
+##### 23. He sido unido a Cristo mediante su muerte y resurrección (Romanos 6:5)
 
-#### los cuales expusieron su vida por mí,
-##### Pablo recuerda una acción significativa realizada <u>por</u> Priscila y Aquila.
+##### 24. Mi viejo yo fue crucificado con Cristo (Romanos 6:6)
 
-###### Destaca el riesgo personal que asumieron <u>en</u> favor suyo.
+##### 25. Estoy vivo para Dios en Cristo Jesús (Romanos 6:11)
 
-#### a quienes no solo yo doy gracias,
-##### Pablo expresa su gratitud <u>personal</u>.
+##### 26. Estoy rendido a Dios (Romanos 6:13)
 
-###### <u>La</u> deuda de gratitud no es solamente teórica; surge de una ayuda concreta recibida.
+##### 27. No estoy bajo la ley, sino bajo la gracia (Romanos 6:14)
 
-#### sino también todas las iglesias de los gentiles.
-##### Pablo extiende el reconocimiento <u>más</u> allá de sí mismo.
+##### 28. Tengo vida eterna en Cristo Jesús (Romanos 6:23)
 
-###### El impacto de la labor de Priscila y <u>Aquila</u> alcanzó a muchas iglesias.
+##### 29. Estoy libre del poder del pecado (Romanos 6:18)
 
-###### Esto muestra la amplitud de su <u>influencia</u> dentro del ministerio apostólico.
+##### 30. Estoy libre de condenación (Romanos 8:1)
 
-### Romanos 16:5
-Saluden también a la iglesia que está en su casa. Saluden a mi querido hermano Epeneto, que es el primer convertido a Cristo en Asia.
+##### 31. Soy siervo de Dios (Romanos 6:22)
 
-#### Saluden también a la iglesia que está en su casa.
-##### Pablo amplía el saludo a la congregación que <u>se</u> reúne con ellos.
+##### 32. Él está libre del poder del pecado y es siervo de la justicia (Romanos 6:18)
 
-###### La referencia muestra una iglesia <u>reunida</u> en una casa particular.
+##### 33. Estoy libre de la maldad Ciclo de pecado y muerte (Romanos 8:2)
 
-#### Saluden a mi querido hermano Epeneto,
-##### Pablo <u>menciona</u> personalmente a Epeneto.
+##### 34. El Espíritu Santo mora en mí (Romanos 8:9)
 
-###### El lenguaje <u>utilizado</u> refleja cercanía y afecto.
+##### 35. El Espíritu de Dios me guía (Romanos 8:14)
 
-#### que es el primer convertido a Cristo en Asia.
-##### Pablo identifica a Epeneto mediante un <u>dato</u> particular.
+##### 36. Soy coheredero con Cristo (Romanos 8:17)
 
-###### Lo presenta como <u>el</u> primer fruto de la obra relacionada con Cristo en esa región.
+##### 37. Confío en que todas las cosas obran para bien (Romanos 8:28)
 
-###### Este detalle explica por qué es mencionado <u>de</u> manera especial.
+##### 38. Estoy siendo conformado a la imagen de Cristo (Romanos 8:29)
 
-### Romanos 16:6
-Saluden a María, que ha trabajado mucho por ustedes.
+##### 39. El Espíritu Santo me ayuda en mis debilidades (Romanos 8:26)
 
-#### Saluden a María,
-##### Pablo añade otro saludo <u>individual</u>.
+##### 40. El Espíritu Santo intercede por mí (Romanos 8:26)
 
-###### La sección continúa <u>destacando</u> personas específicas conocidas por la iglesia de Roma.
+##### 41. Dios me conoció de antemano (Romanos 8:29)
 
-#### que ha trabajado mucho por ustedes.
-##### Pablo reconoce el esfuerzo realizado por <u>María</u>.
+##### 42. Todas las cosas me han sido dadas (Romanos 8:32)
 
-###### El énfasis recae en su trabajo y dedicación en beneficio <u>de</u> otros creyentes.
+##### 43. Soy inseparable del amor de Dios (Romanos 8:35)
 
-###### Esta observación continúa el patrón de reconocimiento personal que <u>caracteriza</u> los saludos de Romanos 16.
+##### 44. Soy más que Un vencedor por medio de Cristo (Romanos 8:37)
 
-### Romanos 16:7
-Saluden a Andrónico y a Junias, mis parientes y compañeros de prisión, que se destacan entre los apóstoles y quienes también vinieron a Cristo antes que yo.
+##### 45. Soy templo de Dios (1 Corintios 3:16-17)
 
-#### Saluden a Andrónico y a Junias,
-##### Pablo continúa <u>la</u> lista de saludos personales.
+##### 46. Soy lavado, santificado y justificado por la sangre de Jesús (1 Corintios 6:11)
 
-###### Cada nombre <u>refleja</u> relaciones concretas desarrolladas a lo largo de su ministerio.
+##### 47. He sido comprado por precio (1 Corintios 6:20)
 
-#### mis parientes y compañeros de prisión,
-##### Pablo destaca dos <u>aspectos</u> de su relación con ellos.
+##### 48. Soy la imagen y gloria de Dios (1 Corintios 11:7)
 
-###### Los identifica como parientes y <u>también</u> como personas que compartieron sufrimientos junto a él.
+##### 49. Soy triunfante en Cristo (2 Corintios 2:14)
 
-#### que se destacan entre los apóstoles
-##### Pablo menciona la reputación que tenían <u>dentro</u> de los círculos apostólicos.
+##### 50. Soy un aroma fragante que manifiesta la presencia de Dios dondequiera que voy (2 Corintios 2:14)
 
-###### La <u>observación</u> funciona como un reconocimiento público de su trayectoria y servicio.
+##### 51. Soy apto para todo porque mi suficiencia viene de Dios (2 Corintios 3:5)
 
-#### y quienes también vinieron a Cristo antes que yo.
-##### Pablo señala que ellos llegaron <u>a</u> Cristo antes de su propia conversión.
+##### 52. Soy una nueva creación en Cristo (2 Corintios 5:17)
 
-###### Esto resalta la <u>antigüedad</u> de su experiencia cristiana.
+##### 53. Soy un embajador de Cristo (2 Corintios 5:20)
 
-### Romanos 16:8
-Saluden a Amplias, mi querido hermano en el Señor.
+##### 54. Soy más fuerte cuando soy más débil (2 Corintios 12:10)
 
-#### Saluden a Amplias,
-##### Pablo continúa <u>mencionando</u> personas específicas de la comunidad.
+##### 55. Estoy crucificado con Cristo y la vida que ahora vivo es suya (Gálatas 2:20)
 
-###### El <u>capítulo</u> sigue destacando relaciones personales dentro de la iglesia.
+##### 56. Soy redimido de la maldición de la Ley (Gálatas 3:13)
 
-#### mi querido hermano en el Señor.
-##### Pablo <u>expresa</u> afecto personal hacia Amplias.
+##### 57. Estoy lleno del fruto del Espíritu: amor, gozo, paz, paciencia, benignidad, bondad, fidelidad, mansedumbre, dominio propio (Gálatas 5:22-23)
 
-###### El lenguaje refleja cercanía y comunión <u>dentro</u> del Señor.
+##### 58. Estoy en Cristo Jesús (Efesios 1:1)
 
-### Romanos 16:9
-Saluden a Urbano, nuestro colaborador en Cristo, y a mi querido hermano Estaquis.
+##### 59. Soy bendecido con toda bendición espiritual (Efesios 1:3)
 
-#### Saluden a Urbano,
-##### Pablo menciona <u>a</u> otro creyente conocido por la iglesia de Roma.
+##### 60. Soy elegido por Dios para ser santo e irreprensible (Efesios 1:4)
 
-###### El saludo continúa mostrando la amplitud de relaciones dentro de la comunidad <u>cristiana</u>.
+##### 61. Estoy predestinado a la adopción por medio de Jesús (Efesios 1:5)
 
-#### nuestro colaborador en Cristo,
-##### Pablo identifica a <u>Urbano</u> como colaborador.
+##### 62. Soy acepto en el amado (Efesios 1:6)
 
-###### El énfasis está en el trabajo compartido <u>en</u> relación con Cristo.
+##### 63. Tienes redención por su sangre (Efesios 1:7)
 
-#### y a mi querido hermano Estaquis.
-##### Pablo vuelve <u>a</u> expresar afecto personal.
+##### 64. Soy perdonado de todos mis pecados (Efesios 1:7)
 
-###### Al igual que en los versículos anteriores, combina <u>reconocimiento</u> y cercanía.
+##### 65. Él me ha dado a conocer el misterio de su voluntad (Efesios 1:9)
 
-### Romanos 16:10
-Saluden a Apeles, el aprobado en Cristo. Saluden a los de la casa de Aristóbulo.
+##### 66. Tengo sabiduría al tratar de conocer su voluntad (Efesios 1:8)
 
-#### Saluden a Apeles,
-##### <u>Pablo</u> menciona a otro creyente de manera individual.
+##### 67. Él está predestinado conforme a su propósito (Efesios 1:11)
 
-###### <u>El</u> saludo va acompañado de una breve descripción.
+##### 68. Has obtenido una herencia (Efesios 1:11)
 
-#### el aprobado en Cristo.
-##### Pablo destaca una <u>cualidad</u> asociada a Apeles.
+##### 69. Estoy lleno del Espíritu Santo de la promesa (Efesios 1:13)
 
-###### El énfasis está <u>en</u> su condición "en Cristo".
+##### 70. Tengo el espíritu de sabiduría y revelación en su conocimiento (Efesios 1:17)
 
-#### Saluden a los de la casa de Aristóbulo.
-##### Pablo extiende el saludo a quienes pertenecen a <u>esa</u> casa.
+##### 71. Mis ojos han sido iluminados (Efesios 1:18)
 
-###### La atención <u>pasa</u> de una persona individual a un conjunto de creyentes relacionados entre sí.
+##### 72. Conozco la esperanza de mi llamamiento (Efesios 1:18)
 
-### Romanos 16:11
-Saluden a Herodión, mi pariente. Saluden a los de la casa de Narciso, que son del Señor.
+##### 73. Conozco la sobreabundancia La grandeza de su poder para conmigo (Efesios 1:19)
 
-#### Saluden a Herodión, mi pariente.
-##### Pablo vuelve a <u>mencionar</u> un vínculo familiar.
+##### 74. Conozco las riquezas de su herencia en los santos (Efesios 1:18)
 
-###### La referencia recuerda expresiones <u>similares</u> usadas anteriormente en el capítulo.
+##### 75. Con Cristo estoy vivo (Efesios 2:1)
 
-#### Saluden a los de la casa de Narciso,
-##### Pablo dirige un <u>saludo</u> a otro conjunto de personas.
+##### 76. Con Cristo estoy resucitado y sentado en los lugares celestiales (Efesios 2:6)
 
-###### <u>El</u> patrón alterna entre individuos y grupos relacionados con ellos.
+##### 77. Has sido salvo por gracia mediante la fe (Efesios 28)
 
-###### La siguiente frase identifica específicamente a quiénes se <u>refiere</u>.
+##### 78. Soy hechura de Dios, creado en Cristo Jesús para buenas obras (Efesios 2:10)
 
-#### que son del Señor.
-##### Pablo distingue a los creyentes dentro de esa <u>casa</u>.
+##### 79. Antes estaba lejos, ahora estoy cerca por la sangre de Cristo (Efesios 2:13)
 
-###### El énfasis recae en su pertenencia al <u>Señor</u>.
+##### 80. Tienes acceso al Padre por medio de Jesús (Efesios 2:18)
 
-### Romanos 16:12
-Saluden a Trifena y a Trifosa, obreras del Señor. Saluden a la querida hermana Pérsida, que ha trabajado mucho en el Señor.
+##### 81. Soy conciudadano de los santos en la casa de Dios (Efesios 2:19)
 
-#### Saluden a Trifena y a Trifosa,
-##### Pablo menciona <u>a</u> dos creyentes juntas.
+##### 82. Estoy edificado sobre el fundamento de los apóstoles y Cristo, la piedra angular (Efesios 2:20)
 
-###### Ambas aparecen <u>asociadas</u> a una misma descripción.
+##### 83. Puedo caminar con valentía en la presencia de Cristo (Efesios 3:12).
 
-#### obreras del Señor.
-##### Pablo destaca <u>su</u> trabajo.
+##### 84. Soy fortalecido con poder por medio de su espíritu interior (Efesios 3:16).
 
-###### El énfasis está en la labor realizada <u>para</u> el Señor.
+##### 85. Recibo mucho más de lo que pido o entiendo (Efesios 3:20).
 
-#### Saluden a la querida hermana Pérsida,
-##### Pablo <u>expresa</u> nuevamente afecto personal.
+##### 86. Puedo hablar la verdad en amor (Efesios 4:15).
 
-###### El <u>lenguaje</u> sigue reflejando cercanía y aprecio.
+##### 87. Puedo crecer en todo bajo su guía (Efesios 4:15).
 
-#### que ha trabajado mucho en el Señor.
-##### Pablo vuelve <u>a</u> destacar el esfuerzo realizado.
+##### 88. He sido renovado en el espíritu de mi mente (Efesios 4:23).
 
-###### El reconocimiento <u>del</u> trabajo aparece repetidamente en esta sección de saludos.
+##### 89. Me he despojado del viejo hombre (Efesios 4:22).
 
-### Romanos 16:13
-Saluden a Rufo, escogido en el Señor, también a su madre y mía.
+##### 90. Antes era tinieblas, pero ahora soy luz en el Señor (Efesios 5:8).
 
-#### Saluden a Rufo,
-##### Pablo menciona a <u>otro</u> creyente de manera personal.
+##### 91. Puedo caminar como un hijo de luz (Efesios 5:8).
 
-###### El saludo viene acompañado de una <u>breve</u> descripción.
+##### 92. Soy fuerte en el Señor y en el poder. De su poder (Efesios 6:10).
 
-#### escogido en el Señor,
-##### Pablo identifica <u>a</u> Rufo mediante una característica especial.
+##### 93. Elijo ponerme toda la armadura de Dios y mantenerme firme (Efesios 6:13).
 
-###### La expresión sigue manteniendo el énfasis "en el <u>Señor</u>".
+##### 94. Puedo apagar todos los dardos de Satanás (Efesios 6:16).
 
-#### también a su madre y mía.
-##### Pablo expresa una relación especialmente <u>cercana</u>.
+##### 95. El que comenzó en mí la buena obra, la terminará (Filipenses 1:6).
 
-###### La referencia muestra el afecto y los <u>vínculos</u> personales desarrollados dentro de la comunidad cristiana.
+##### 96. No me avergonzaré de nada; con denuedo, Cristo será engrandecido (Filipenses 1:20).
 
-### Romanos 16:14
-Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas, y a los hermanos con ellos.
+##### 97. La mente que estaba en Cristo está en mí (Filipenses 2:5).
 
-#### Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas,
-##### Pablo continúa <u>enumerando</u> creyentes conocidos por la iglesia de Roma.
+##### 98. Dios está obrando en mí tanto para desear como para hacer su buena voluntad (Filipenses 2:13).
 
-###### La lista muestra la diversidad y amplitud de relaciones <u>presentes</u> en la comunidad.
+##### 99. Mi ciudadanía está en los cielos, de donde espero con ansias su venida (Filipenses 3:20).
 
-#### y a los hermanos con ellos.
-##### Pablo incluye <u>a</u> otros creyentes relacionados con estas personas.
-
-###### El saludo deja <u>ver</u> grupos de creyentes conectados entre sí dentro de la misma comunidad.
-
-### Romanos 16:15
-Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas, y a todos los santos que están con ellos.
-
-#### Saluden a Filólogo y a Julia, a Nereo y a su hermana, y a Olimpas,
-##### Pablo continúa mencionando creyentes específicos dentro de la <u>comunidad</u> cristiana.
-
-###### La larga lista de nombres en Romanos 16 muestra que el evangelio había <u>producido</u> una red amplia de relaciones personales y de servicio.
-
-#### y a todos los santos que están con ellos.
-##### Pablo <u>no</u> limita el saludo a personas individuales.
-
-###### También incluye a los creyentes que se reúnen junto a ellos, mostrando nuevamente la dimensión comunitaria <u>que</u> aparece repetidamente en este capítulo.
-
-###### Véase también Romanos 16:5 y Romanos 16:14, donde Pablo extiende saludos a <u>grupos</u> completos de creyentes.
-
-###### El <u>siguiente</u> versículo pasa de los saludos individuales a una exhortación para toda la iglesia.
-
-### Romanos 16:16
-Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo los saludan.
-
-#### Salúdense los unos a los otros
-##### <u>Pablo</u> transforma los saludos recibidos en una acción mutua dentro de la propia congregación.
-
-###### La atención se mueve de personas específicas a toda <u>la</u> comunidad.
-
-#### con un beso santo.
-##### Pablo menciona una expresión de afecto y <u>comunión</u> reconocida entre los creyentes.
-
-###### El énfasis recae en <u>el</u> carácter del saludo ("santo"), no simplemente en el gesto mismo.
-
-###### <u>Véase</u> también 1 Corintios 16:20; 2 Corintios 13:12; 1 Tesalonicenses 5:26.
-
-#### Todas las iglesias de Cristo los saludan.
-##### Pablo transmite el saludo <u>de</u> otras iglesias.
-
-###### <u>Después</u> de una carta que ha tratado extensamente la relación entre judíos y gentiles, este saludo presenta a las iglesias como una realidad compartida y conectada.
-
-> En Síntesis
->- Pablo concluye la carta mostrando que el evangelio no solamente produce doctrina correcta, sino también una comunidad real de personas unidas en Cristo.
->- La larga lista de saludos revela una amplia red de colaboradores, servidores, iglesias en casas y creyentes que participaron activamente en la obra del evangelio.
->- Repetidamente Pablo destaca el trabajo, el servicio, la ayuda, la colaboración y la fidelidad de distintas personas dentro de esa comunidad.
->- Los saludos muestran que el evangelio había unido a hombres y mujeres, individuos y familias, grupos e iglesias en una misma obra y un mismo Señor.
->- La sección también enfatiza la comunión entre los creyentes mediante expresiones de afecto mutuo y mediante los saludos enviados por otras iglesias.
->- Después de exponer el evangelio, defender la fidelidad de la palabra de Dios y exhortar a la iglesia acerca de cómo vivir, Pablo concluye destacando a las personas concretas mediante las cuales el evangelio continuaba avanzando.
-
-## Romanos 16:17–20 - Protejan la enseñanza recibida
-
-### Romanos 16:17
-Les ruego, hermanos, que vigilen a los que causan disensiones y tropiezos contra las enseñanzas que ustedes aprendieron, y que se aparten de ellos.
-
-#### Les ruego, hermanos,
-##### Pablo introduce una <u>exhortación</u> directa antes de concluir la carta.
-
-###### <u>El</u> lenguaje recuerda el tono exhortativo que comenzó en Romanos 12:1.
-
-#### que vigilen a los que causan disensiones y tropiezos
-##### Pablo pide atención <u>deliberada</u> hacia ciertas personas y su influencia.
-
-###### Los dos resultados señalados <u>son</u> disensiones y tropiezos dentro de la comunidad.
-
-###### La preocupación principal <u>es</u> el efecto que producen en la iglesia.
-
-#### contra las enseñanzas que ustedes aprendieron,
-##### El problema no es simplemente el conflicto, sino el conflicto que se opone a lo que la iglesia <u>ya</u> recibió.
-
-###### Pablo apela a una enseñanza previamente <u>conocida</u> por sus lectores. (Romanos 6:17)
-
-###### la siguiente frase indica <u>la</u> respuesta que deben tomar.
-
-#### y que se aparten de ellos.
-##### Pablo concluye la advertencia con una <u>instrucción</u> clara.
-
-###### La exhortación no es debatir continuamente <u>con</u> ellos, sino mantener distancia de su influencia.
-
-###### El siguiente versículo explica por qué esta <u>medida</u> es necesaria.
-
-### Romanos 16:18
-Porque los tales son esclavos, no de Cristo nuestro Señor, sino de sus propios apetitos, y por medio de palabras suaves y lisonjeras engañan los corazones de los ingenuos.
-
-#### Porque los tales son esclavos,
-##### Pablo fundamenta la advertencia <u>anterior</u> explicando la verdadera lealtad de estas personas.
-
-###### La descripción se centra en a quién sirven <u>realmente</u>.
-
-#### no de Cristo nuestro Señor, sino de sus propios apetitos,
-##### Pablo <u>contrapone</u> dos posibilidades de servicio.
-
-###### El contraste es <u>directo</u>: Cristo por un lado, sus propios intereses por el otro.
-
-###### Este lenguaje recuerda el tema de la esclavitud y el servicio <u>desarrollado</u> anteriormente en Romanos 6.
-
-#### y por medio de palabras suaves y lisonjeras
-##### Pablo llama la atención <u>sobre</u> la forma de su discurso.
-
-###### El peligro no aparece presentado como algo agresivo o evidente, sino <u>como</u> algo atractivo y persuasivo.
-
-#### engañan los corazones de los ingenuos.
-##### Pablo identifica el efecto <u>producido</u> por esas palabras.
-
-###### La advertencia se enfoca especialmente en quienes <u>son</u> más vulnerables a ser desviados.
-
-### Romanos 16:19
-Porque la noticia de la obediencia de ustedes se ha extendido a todos. Por tanto, me regocijo por ustedes, pero quiero que sean sabios para lo bueno e inocentes para lo malo.
-
-#### Porque la noticia de la obediencia de ustedes se ha extendido a todos.
-##### <u>Pablo</u> equilibra la advertencia anterior con un reconocimiento positivo.
-
-###### <u>La</u> obediencia de los creyentes de Roma era ampliamente conocida.
-
-###### Esto <u>retoma</u> el tono de agradecimiento y reconocimiento visto anteriormente en Romanos 1:8.
-
-#### Por tanto, me regocijo por ustedes,
-##### Pablo responde con <u>alegría</u> al escuchar acerca de ellos.
-
-###### La advertencia del versículo anterior no cancela la valoración positiva que tiene de la <u>iglesia</u>.
-
-#### pero quiero que sean sabios para lo bueno e inocentes para lo malo.
-##### Pablo resume la <u>actitud</u> que desea ver en ellos.
-
-###### La sabiduría debe dirigirse hacia lo bueno, <u>mientras</u> que la relación con lo malo debe caracterizarse por inocencia y ausencia de participación.
-
-###### Esta exhortación funciona como preparación para la promesa <u>y</u> conclusión que siguen en Romanos 16:20.
-
-### Romanos 16:20
-Y el Dios de paz aplastará pronto a Satanás debajo de los pies de ustedes. La gracia de nuestro Señor Jesucristo sea con ustedes.
-
-#### Y el Dios de paz
-##### Pablo vuelve a una <u>descripción</u> de Dios que ya ha aparecido en la carta.
-
-###### Después de advertir <u>acerca</u> de quienes causan divisiones (Romanos 16:17–19), Pablo recuerda que Dios es presentado como el Dios de paz. (Romanos 15:33)
-
-#### aplastará pronto a Satanás debajo de los pies de ustedes.
-##### Pablo anuncia <u>una</u> victoria futura de Dios sobre Satanás.
-
-###### El énfasis recae en la acción de Dios ("aplastará") y en el resultado final <u>de</u> sometimiento.
-
-###### Esta declaración contrasta con el peligro y <u>el</u> engaño mencionados en Romanos 16:17–18.
-
-#### La gracia de nuestro Señor Jesucristo sea con ustedes.
-##### Pablo añade una bendición breve antes de continuar con los saludos <u>finales</u>.
-
-###### La gracia de Jesucristo aparece repetidamente como marco <u>y</u> cierre de sus exhortaciones.
-
-> En Síntesis
->- Pablo concluye sus exhortaciones advirtiendo a la iglesia acerca de personas que producen divisiones y tropiezos contrarios a la enseñanza que habían recibido.
->- La preocupación principal no es solamente el conflicto, sino la influencia que desvía a otros de la enseñanza apostólica.
->- Pablo describe a estas personas como servidores de sus propios intereses y advierte que pueden engañar mediante palabras atractivas y persuasivas.
->- Al mismo tiempo, reconoce la obediencia de los creyentes de Roma y expresa su deseo de que sean sabios para lo bueno e inocentes para lo malo.
->- La sección concluye recordando que el resultado final no depende de los que causan división, sino de Dios.
->- El Dios de paz aplastará a Satanás y traerá la victoria definitiva sobre aquello que amenaza a Su pueblo.
->- Así, la advertencia termina no con temor, sino con una nota de confianza, paz y gracia.
-
-## Romanos 16:21–27 - Dios afirma a Su pueblo conforme al evangelio
-
-### Romanos 16:21
-Timoteo, mi colaborador, los saluda, y también Lucio, Jasón y Sosípater, mis parientes.
-
-#### Timoteo, mi colaborador, los saluda,
-##### Pablo incluye en el saludo a uno de sus <u>colaboradores</u> cercanos.
-
-###### El énfasis está en la participación <u>conjunta</u> en la obra del evangelio.
-
-###### Véase <u>también</u> Filipenses 2:19–22; 1 Tesalonicenses 3:2.
-
-#### y también Lucio, Jasón y Sosípater, mis parientes.
-##### Pablo añade otros nombres <u>asociados</u> con él.
-
-###### Como en el resto del capítulo, la atención permanece en las relaciones personales que rodean el <u>ministerio</u> y las iglesias.
-
-### Romanos 16:22
-Yo, Tercio, que escribo esta carta, los saludo en el Señor.
-
-#### Yo, Tercio, que escribo esta carta,
-##### <u>Por</u> un momento la voz cambia y habla quien está redactando la carta.
-
-###### Esta es una de las pocas ocasiones en que el <u>escribiente</u> se identifica directamente dentro del texto.
-
-#### los saludo en el Señor.
-##### Tercio se une a los saludos que <u>han</u> aparecido en toda esta sección final.
-
-###### <u>La</u> expresión "en el Señor" mantiene el mismo marco relacional que aparece repetidamente a lo largo del capítulo.
-
-### Romanos 16:23
-Gayo, hospedador mío y de toda la iglesia, los saluda. Erasto, el tesorero de la ciudad, los saluda, y el hermano Cuarto.
-
-#### Gayo, hospedador mío y de toda la iglesia, los saluda.
-##### Pablo menciona a Gayo destacando su <u>hospitalidad</u>.
-
-###### La referencia conecta con el tema <u>de</u> la hospitalidad mencionado anteriormente en Romanos 12:13.
-
-#### Erasto, el tesorero de la ciudad, los saluda,
-##### Pablo identifica a Erasto mediante su función dentro <u>de</u> la ciudad.
-
-###### La mención muestra la diversidad de personas vinculadas <u>a</u> las iglesias.
-
-#### y el hermano Cuarto.
-##### Pablo concluye esta serie de <u>saludos</u> con otra referencia personal.
-
-###### La acumulación de nombres a lo largo del capítulo subraya el carácter relacional <u>y</u> comunitario de la carta.
-
-### Romanos 16:24
-La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.
-
-#### La gracia de nuestro Señor Jesucristo sea con todos ustedes.
-##### Pablo vuelve a cerrar con <u>una</u> bendición centrada en la gracia de Jesucristo.
-
-###### Esta fórmula resume el tono pastoral con <u>el</u> que concluye la carta.
-
-###### Véase <u>también</u> Romanos 16:20.
-
-#### Amén.
-##### La bendición <u>termina</u> con una afirmación solemne de cierre.
-
-###### Sin embargo, la carta aún concluye con una sección <u>final</u> de adoración.
-
-### Romanos 16:25
-Y a Aquel que es poderoso para afirmarlos conforme a mi evangelio y a la predicación de Jesucristo, según la revelación del misterio que ha sido mantenido en secreto durante siglos sin fin,
-
-#### Y a Aquel que es poderoso para afirmarlos
-##### Pablo inicia una doxología centrada en la capacidad de Dios para fortalecer y establecer a <u>los</u> creyentes.
-
-###### La atención se dirige <u>completamente</u> hacia Dios.
-
-#### conforme a mi evangelio y a la predicación de Jesucristo,
-##### Pablo relaciona ese fortalecimiento con el evangelio que ha anunciado y con la <u>proclamación</u> de Jesucristo.
-
-###### El evangelio ha <u>sido</u> un tema central desde el inicio de la carta. (Romanos 1:1–17) 
-
-#### según la revelación del misterio
-##### Pablo <u>describe</u> el evangelio como algo que fue revelado.
-
-###### El énfasis está <u>en</u> que se trata de algo dado a conocer por Dios.
-
-#### que ha sido mantenido en secreto durante siglos sin fin,
-##### Pablo <u>señala</u> que este misterio permaneció oculto durante largos tiempos.
-
-###### La siguiente <u>declaración</u> mostrará el cambio producido ahora.
-
-### Romanos 16:26
-pero que ahora ha sido manifestado, y por las Escrituras de los profetas, conforme al mandamiento del Dios eterno, se ha dado a conocer a todas las naciones para guiarlas a la obediencia de la fe,
-
-#### pero que ahora ha sido manifestado,
-##### Pablo establece el contraste principal con el versículo <u>anterior</u>.
-
-###### Lo que estuvo oculto ahora <u>ha</u> sido dado a conocer.
-
-#### y por las Escrituras de los profetas,
-##### Pablo relaciona esta revelación <u>con</u> los escritos proféticos.
-
-###### A lo largo de Romanos, las Escrituras han servido repetidamente como fundamento de <u>su</u> argumento.
-
-#### conforme al mandamiento del Dios eterno,
-##### Pablo atribuye esta obra <u>a</u> la iniciativa y autoridad de Dios.
-
-###### El énfasis permanece en la acción divina <u>detrás</u> de todo el proceso.
-
-#### se ha dado a conocer a todas las naciones
-##### Pablo destaca la <u>amplitud</u> del anuncio.
-
-###### El tema de las naciones ha sido una <u>parte</u> importante de Romanos desde los primeros capítulos. (Romanos 1:5; 15:8–12)
-
-#### para guiarlas a la obediencia de la fe,
-##### Pablo concluye la descripción con <u>el</u> propósito del evangelio.
-
-###### Esta expresión retoma <u>el</u> lenguaje utilizado al comienzo de la carta. (Romanos 1:5)
-
-### Romanos 16:27
-al único y sabio Dios, por medio de Jesucristo, sea la gloria para siempre. Amén.
-
-#### al único y sabio Dios,
-##### Pablo dirige <u>toda</u> la doxología hacia Dios.
-
-###### Después de recorrer la obra de Dios en la carta, la atención termina donde comenzó: <u>en</u> Dios mismo.
-
-#### por medio de Jesucristo,
-##### <u>La</u> gloria dirigida a Dios aparece vinculada a Jesucristo.
-
-###### La <u>carta</u> ha presentado repetidamente la obra de Dios y la de Jesucristo juntas.
-
-#### sea la gloria para siempre.
-##### Pablo concluye con una declaración <u>de</u> alabanza.
-
-###### La sección de Romanos 9–11 terminó con una doxología (Romanos 11:33–36), y <u>ahora</u> toda la carta concluye de la misma manera.
-
-###### La respuesta <u>final</u> al evangelio presentado en Romanos es adoración a Dios.
-
-#### Amén.
-##### Pablo cierra <u>definitivamente</u> la carta.
-
-###### El desarrollo doctrinal, las exhortaciones prácticas y los saludos terminan <u>con</u> una afirmación de gloria dirigida a Dios.
-
-> En Síntesis
->- Pablo concluye la carta rodeado de colaboradores, recordando que el avance del evangelio ocurrió mediante una amplia comunidad de creyentes que servían juntos.
->- Después de los saludos finales, vuelve a colocar la atención sobre la gracia de Jesucristo y sobre Dios mismo como el centro de toda la carta.
->- Dios es presentado como poderoso para afirmar a Su pueblo conforme al evangelio y a la predicación de Jesucristo.
->- El misterio que estuvo oculto por siglos ha sido manifestado y dado a conocer por medio de las Escrituras a todas las naciones.
->- El propósito de esa proclamación sigue siendo el mismo que apareció al comienzo de Romanos: La obediencia de la fe entre todas las naciones.
->- Así, la carta termina donde comenzó: Con el evangelio, con Jesucristo, con las naciones y con Dios recibiendo toda la gloria por Su obra y por Su palabra que permanece firme para siempre.
+##### 100. Siempre puedo regocijarme en el Señor (Filipenses 4:4).

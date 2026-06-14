@@ -4,8 +4,8 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Romanos 9-16"
-FILE_LOCATION="../14.Romanos9-16"
+MANUAL_NAME="1 Timoteo"
+FILE_LOCATION="../16.1Timoteo"
 FILENAME="/slides/markdown.md"
 # ==================================
 
