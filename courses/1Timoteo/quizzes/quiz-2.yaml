@@ -1,0 +1,82 @@
+title: "Quiz 2 — 1 Timoteo 2:1-3:16"
+
+questions:
+  - question: "¿Por quiénes deben hacerse oraciones según 1 Timoteo 2:1?"
+    options:
+      - "Solo por los creyentes"
+      - "Solo por los gobernantes"
+      - "Por todos los hombres"
+      - "Solo por los ancianos"
+    answer: 2
+
+  - question: "¿Qué desea Dios para todos los hombres?"
+    options:
+      - "Que sean ricos"
+      - "Que sean líderes"
+      - "Que todos sean salvos y lleguen al conocimiento de la verdad"
+      - "Que vivan en Israel"
+    answer: 2
+
+  - question: "¿Cuántos mediadores hay entre Dios y los hombres?"
+    options:
+      - "Muchos"
+      - "Dos"
+      - "Ninguno"
+      - "Uno"
+    answer: 3
+
+  - question: "¿Cómo deben orar los hombres?"
+    options:
+      - "Levantando manos santas, sin ira ni discusiones"
+      - "Solo en privado"
+      - "Con ayuno obligatorio"
+      - "Únicamente en el templo"
+    answer: 0
+
+  - question: "¿Con qué debe adornarse la mujer que profesa piedad?"
+    options:
+      - "Con riquezas y joyas"
+      - "Con buenas obras"
+      - "Con autoridad"
+      - "Con prestigio social"
+    answer: 1
+
+  - question: "¿Cómo describe Pablo la aspiración al obispado?"
+    options:
+      - "Una carga pesada"
+      - "Una tradición"
+      - "Una buena obra"
+      - "Un privilegio exclusivo"
+    answer: 2
+
+  - question: "¿Qué capacidad debe poseer un obispo?"
+    options:
+      - "Ser rico"
+      - "Apto para enseñar"
+      - "Hablar varios idiomas"
+      - "Ser anciano de edad avanzada"
+    answer: 1
+
+  - question: "¿Qué deben guardar los diáconos?"
+    options:
+      - "Las tradiciones"
+      - "El misterio de la fe con limpia conciencia"
+      - "Los sacrificios"
+      - "La ley ceremonial"
+    answer: 1
+
+  - question: "¿Qué es la iglesia según 1 Timoteo 3:15?"
+    options:
+      - "Un edificio"
+      - "Una organización"
+      - "La columna y sostén de la verdad"
+      - "Una nación"
+    answer: 2
+
+  - question: "¿Quién fue manifestado en carne según el misterio de la piedad?"
+    options:
+      - "Pedro"
+      - "Pablo"
+      - "Timoteo"
+      - "Cristo"
+    answer: 3
