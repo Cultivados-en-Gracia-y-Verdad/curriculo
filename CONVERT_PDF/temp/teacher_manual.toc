@@ -6,165 +6,155 @@
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
 \contentsline {section}{Introducción}{4}{section*.7}%
 \contentsline {subsection}{¿Por qué escribió Pablo esta carta?}{4}{subsection*.8}%
-\contentsline {subsection}{Cómo leer 1 Timoteo}{5}{subsection*.9}%
-\contentsline {subsection}{Acerca de este Manual}{5}{subsection*.10}%
-\contentsline {subsection}{Información General}{6}{subsection*.11}%
-\contentsline {section}{1 TIMOTEO 1:1-20 EL ENCARGO Y SU PROPÓSITO}{7}{section*.12}%
-\contentsline {subsection}{1 Timoteo 1:1 Autor de la carta: Un apóstol de Jesucristo}{7}{subsection*.13}%
-\contentsline {subsubsection}{1 Timoteo 1:1}{7}{subsubsection*.14}%
-\contentsline {subsection}{1 Timoteo 1:2 Receptor de la carta: El bien amado de Pablo}{7}{subsection*.15}%
-\contentsline {subsubsection}{1 Timoteo 1:2}{7}{subsubsection*.16}%
-\contentsline {subsection}{1 Timoteo 1:3--7 - Algunos se desviaron del propósito del encargo}{8}{subsection*.17}%
-\contentsline {subsubsection}{1 Timoteo 1:3}{8}{subsubsection*.18}%
-\contentsline {subsubsection}{1 Timoteo 1:4}{9}{subsubsection*.19}%
-\contentsline {subsubsection}{1 Timoteo 1:5}{10}{subsubsection*.20}%
-\contentsline {subsubsection}{1 Timoteo 1:6}{12}{subsubsection*.21}%
-\contentsline {subsubsection}{1 Timoteo 1:7}{13}{subsubsection*.22}%
-\contentsline {subsection}{1 Timoteo 1:8-11 - La verdad debe ser usada conforme a su propósito}{15}{subsection*.23}%
-\contentsline {subsubsection}{1 Timoteo 1:8}{15}{subsubsection*.24}%
-\contentsline {subsubsection}{1 Timoteo 1:9}{16}{subsubsection*.25}%
-\contentsline {subsubsection}{1 Timoteo 1:10}{18}{subsubsection*.26}%
-\contentsline {subsubsection}{1 Timoteo 1:11}{19}{subsubsection*.27}%
-\contentsline {subsection}{1 Timoteo 1:12--17 - La misericordia de Dios se hace visible en Pablo}{21}{subsection*.28}%
-\contentsline {subsubsection}{1 Timoteo 1:12}{21}{subsubsection*.29}%
-\contentsline {subsubsection}{1 Timoteo 1:13}{22}{subsubsection*.30}%
-\contentsline {subsubsection}{1 Timoteo 1:14}{23}{subsubsection*.31}%
-\contentsline {subsubsection}{1 Timoteo 1:15}{24}{subsubsection*.32}%
-\contentsline {subsubsection}{1 Timoteo 1:16}{26}{subsubsection*.33}%
-\contentsline {subsubsection}{1 Timoteo 1:17}{27}{subsubsection*.34}%
-\contentsline {subsection}{1 Timoteo 1:18--20 - El encargo es confiado a Timoteo}{30}{subsection*.35}%
-\contentsline {subsubsection}{1 Timoteo 1:18}{30}{subsubsection*.36}%
-\contentsline {subsubsection}{1 Timoteo 1:19}{31}{subsubsection*.37}%
-\contentsline {subsubsection}{1 Timoteo 1:20}{32}{subsubsection*.38}%
-\contentsline {section}{1 TIMOTEO 2:1-3:16 - LA CASA DE DIOS DEBE SER FORMADA POR ESE PROPÓSITO}{34}{section*.39}%
-\contentsline {subsection}{1 Timoteo 2:1--7 - El propósito de Dios alcanza a todas las personas}{34}{subsection*.40}%
-\contentsline {subsubsection}{1 Timoteo 2:1}{34}{subsubsection*.41}%
-\contentsline {subsubsection}{1 Timoteo 2:2}{35}{subsubsection*.42}%
-\contentsline {subsubsection}{1 Timoteo 2:3}{37}{subsubsection*.43}%
-\contentsline {subsubsection}{1 Timoteo 2:4}{38}{subsubsection*.44}%
-\contentsline {subsubsection}{1 Timoteo 2:5}{39}{subsubsection*.45}%
-\contentsline {subsubsection}{1 Timoteo 2:6}{40}{subsubsection*.46}%
-\contentsline {subsubsection}{1 Timoteo 2:7}{41}{subsubsection*.47}%
-\contentsline {subsection}{1 Timoteo 2:8-15 - Los miembros de la casa de Dios deben conducirse conforme a ese propósito}{43}{subsection*.48}%
-\contentsline {subsubsection}{1 Timoteo 2:8}{44}{subsubsection*.49}%
-\contentsline {subsubsection}{1 Timoteo 2:8}{44}{subsubsection*.50}%
-\contentsline {subsubsection}{1 Timoteo 2:9}{45}{subsubsection*.51}%
-\contentsline {subsubsection}{1 Timoteo 2:10}{46}{subsubsection*.52}%
-\contentsline {subsubsection}{1 Timoteo 2:11}{47}{subsubsection*.53}%
-\contentsline {subsubsection}{1 Timoteo 2:12}{48}{subsubsection*.54}%
-\contentsline {subsubsection}{1 Timoteo 2:13}{49}{subsubsection*.55}%
-\contentsline {subsubsection}{1 Timoteo 2:14}{50}{subsubsection*.56}%
-\contentsline {subsubsection}{1 Timoteo 2:15}{51}{subsubsection*.57}%
-\contentsline {subsection}{1 Timoteo 3:1--13 - La casa de Dios necesita siervos conformes a ese propósito}{53}{subsection*.58}%
-\contentsline {subsubsection}{1 Timoteo 3:1}{53}{subsubsection*.59}%
-\contentsline {subsubsection}{1 Timoteo 3:1}{53}{subsubsection*.60}%
-\contentsline {subsubsection}{1 Timoteo 3:2}{54}{subsubsection*.61}%
-\contentsline {subsubsection}{1 Timoteo 3:3}{56}{subsubsection*.62}%
-\contentsline {subsubsection}{1 Timoteo 3:4}{57}{subsubsection*.63}%
-\contentsline {subsubsection}{1 Timoteo 3:5}{58}{subsubsection*.64}%
-\contentsline {subsubsection}{1 Timoteo 3:6}{59}{subsubsection*.65}%
-\contentsline {subsubsection}{1 Timoteo 3:7}{59}{subsubsection*.66}%
-\contentsline {subsubsection}{1 Timoteo 3:8}{61}{subsubsection*.67}%
-\contentsline {subsubsection}{1 Timoteo 3:9}{62}{subsubsection*.68}%
-\contentsline {subsubsection}{1 Timoteo 3:10}{63}{subsubsection*.69}%
-\contentsline {subsubsection}{1 Timoteo 3:11}{64}{subsubsection*.70}%
-\contentsline {subsubsection}{1 Timoteo 3:12}{65}{subsubsection*.71}%
-\contentsline {subsubsection}{1 Timoteo 3:13}{66}{subsubsection*.72}%
-\contentsline {subsection}{1 Timoteo 3:14--16 - La identidad de la casa de Dios y su fundamento}{68}{subsection*.73}%
-\contentsline {subsubsection}{1 Timoteo 3:14}{68}{subsubsection*.74}%
-\contentsline {subsubsection}{1 Timoteo 3:15}{68}{subsubsection*.75}%
-\contentsline {subsubsection}{1 Timoteo 3:16}{70}{subsubsection*.76}%
-\contentsline {section}{1 TIMOTEO 4:1-16 - ESE PROPÓSITO SERÁ AMENAZADO}{72}{section*.77}%
-\contentsline {subsection}{1 Timoteo 4:1--5 - Algunos se apartarán del propósito}{72}{subsection*.78}%
-\contentsline {subsubsection}{1 Timoteo 4:1}{72}{subsubsection*.79}%
-\contentsline {subsubsection}{1 Timoteo 4:2}{73}{subsubsection*.80}%
-\contentsline {subsubsection}{1 Timoteo 4:3}{74}{subsubsection*.81}%
-\contentsline {subsubsection}{1 Timoteo 4:4}{76}{subsubsection*.82}%
-\contentsline {subsubsection}{1 Timoteo 4:5}{76}{subsubsection*.83}%
-\contentsline {subsection}{1 Timoteo 4:6-10 - Timoteo debe permanecer en el propósito}{77}{subsection*.84}%
-\contentsline {subsubsection}{1 Timoteo 4:6}{77}{subsubsection*.85}%
-\contentsline {subsubsection}{1 Timoteo 4:7}{78}{subsubsection*.86}%
-\contentsline {subsubsection}{1 Timoteo 4:8}{79}{subsubsection*.87}%
-\contentsline {subsubsection}{1 Timoteo 4:9}{79}{subsubsection*.88}%
-\contentsline {subsubsection}{1 Timoteo 4:10}{80}{subsubsection*.89}%
-\contentsline {subsection}{1 Timoteo 4:11--16 - Timoteo debe persistir en el encargo recibido}{81}{subsection*.90}%
-\contentsline {subsubsection}{1 Timoteo 4:11}{81}{subsubsection*.91}%
-\contentsline {subsubsection}{1 Timoteo 4:12}{82}{subsubsection*.92}%
-\contentsline {subsubsection}{1 Timoteo 4:13}{83}{subsubsection*.93}%
-\contentsline {subsubsection}{1 Timoteo 4:14}{83}{subsubsection*.94}%
-\contentsline {subsubsection}{1 Timoteo 4:15}{84}{subsubsection*.95}%
-\contentsline {subsubsection}{1 Timoteo 4:16}{85}{subsubsection*.96}%
-\contentsline {section}{1 TIMOTEO 5:1-25 - ESE PROPÓSITO SE HACE VISIBLE EN LAS RELACIONES}{86}{section*.97}%
-\contentsline {subsection}{1 Timoteo 5:1--2 - La casa de Dios debe relacionarse como una familia}{86}{subsection*.98}%
-\contentsline {subsection}{Con los ancianos}{86}{subsection*.99}%
-\contentsline {subsubsection}{1 Timoteo 5:1}{86}{subsubsection*.100}%
-\contentsline {subsection}{Con los jóvenes}{87}{subsection*.101}%
-\contentsline {subsection}{Con las ancianas}{87}{subsection*.102}%
-\contentsline {subsubsection}{1 Timoteo 5:2}{87}{subsubsection*.103}%
-\contentsline {subsection}{Con las jóvenes}{87}{subsection*.104}%
-\contentsline {subsection}{5:3--16 El propósito se hace visible mediante el cuidado de otros}{88}{subsection*.105}%
-\contentsline {subsubsection}{Introducción}{88}{subsubsection*.106}%
-\contentsline {subsubsection}{1 Timoteo 5:3}{88}{subsubsection*.107}%
-\contentsline {subsubsection}{1 Timoteo 5:4}{89}{subsubsection*.108}%
-\contentsline {subsubsection}{1 Timoteo 5:5}{90}{subsubsection*.109}%
-\contentsline {subsubsection}{1 Timoteo 5:6}{90}{subsubsection*.110}%
-\contentsline {subsubsection}{1 Timoteo 5:7}{91}{subsubsection*.111}%
-\contentsline {subsubsection}{1 Timoteo 5:8}{92}{subsubsection*.112}%
-\contentsline {subsubsection}{1 Timoteo 5:9}{93}{subsubsection*.113}%
-\contentsline {subsubsection}{1 Timoteo 5:10}{93}{subsubsection*.114}%
-\contentsline {subsubsection}{1 Timoteo 5:11}{94}{subsubsection*.115}%
-\contentsline {subsubsection}{1 Timoteo 5:12}{95}{subsubsection*.116}%
-\contentsline {subsubsection}{1 Timoteo 5:13}{96}{subsubsection*.117}%
-\contentsline {subsubsection}{1 Timoteo 5:14}{96}{subsubsection*.118}%
-\contentsline {subsubsection}{1 Timoteo 5:15}{97}{subsubsection*.119}%
-\contentsline {subsubsection}{1 Timoteo 5:16}{98}{subsubsection*.120}%
-\contentsline {subsection}{1 Timoteo 5:17--25 - La casa de Dios debe actuar con justicia e imparcialidad}{99}{subsection*.121}%
-\contentsline {subsubsection}{1 Timoteo 5:17}{99}{subsubsection*.122}%
-\contentsline {subsubsection}{1 Timoteo 5:18}{100}{subsubsection*.123}%
-\contentsline {subsubsection}{1 Timoteo 5:19}{100}{subsubsection*.124}%
-\contentsline {subsubsection}{1 Timoteo 5:20}{101}{subsubsection*.125}%
-\contentsline {subsubsection}{1 Timoteo 5:21}{102}{subsubsection*.126}%
-\contentsline {subsubsection}{1 Timoteo 5:22}{103}{subsubsection*.127}%
-\contentsline {subsubsection}{1 Timoteo 5:23}{103}{subsubsection*.128}%
-\contentsline {subsubsection}{1 Timoteo 5:24}{104}{subsubsection*.129}%
-\contentsline {subsubsection}{1 Timoteo 5:25}{105}{subsubsection*.130}%
-\contentsline {section}{1 TIMOTEO 6:1-21 - ESE PROPÓSITO DEBE SER PRESERVADO}{106}{section*.131}%
-\contentsline {subsection}{1 Timoteo 6:1--2 El propósito debe reflejarse en todas las relaciones}{106}{subsection*.132}%
-\contentsline {subsubsection}{1 Timoteo 6:1}{106}{subsubsection*.133}%
-\contentsline {subsubsection}{1 Timoteo 6:2}{107}{subsubsection*.134}%
-\contentsline {subsection}{1 Timoteo 6:3--10 - La falsa enseñanza produce frutos contrarios al propósito}{108}{subsection*.135}%
-\contentsline {subsubsection}{1 Timoteo 6:3}{108}{subsubsection*.136}%
-\contentsline {subsubsection}{1 Timoteo 6:4}{109}{subsubsection*.137}%
-\contentsline {subsubsection}{1 Timoteo 6:5}{110}{subsubsection*.138}%
-\contentsline {subsubsection}{1 Timoteo 6:6}{111}{subsubsection*.139}%
-\contentsline {subsubsection}{1 Timoteo 6:7}{111}{subsubsection*.140}%
-\contentsline {subsubsection}{1 Timoteo 6:8}{112}{subsubsection*.141}%
-\contentsline {subsubsection}{1 Timoteo 6:9}{113}{subsubsection*.142}%
-\contentsline {subsubsection}{1 Timoteo 6:10}{114}{subsubsection*.143}%
-\contentsline {subsection}{1 Timoteo 6:11--16 - Timoteo debe perseverar en el encargo}{115}{subsection*.144}%
-\contentsline {subsubsection}{1 Timoteo 6:11}{115}{subsubsection*.145}%
-\contentsline {subsubsection}{1 Timoteo 6:12}{116}{subsubsection*.146}%
-\contentsline {subsubsection}{1 Timoteo 6:13}{117}{subsubsection*.147}%
-\contentsline {subsubsection}{1 Timoteo 6:14}{118}{subsubsection*.148}%
-\contentsline {subsubsection}{1 Timoteo 6:15}{118}{subsubsection*.149}%
-\contentsline {subsubsection}{1 Timoteo 6:16}{119}{subsubsection*.150}%
-\contentsline {subsection}{1 Timoteo 6:17--19 - Los bienes deben servir al propósito de Dios}{120}{subsection*.151}%
-\contentsline {subsubsection}{1 Timoteo 6:17}{120}{subsubsection*.152}%
-\contentsline {subsubsection}{1 Timoteo 6:18}{121}{subsubsection*.153}%
-\contentsline {subsubsection}{1 Timoteo 6:19}{122}{subsubsection*.154}%
-\contentsline {subsection}{1 Timoteo 6:20--21 - El encargo debe ser guardado}{123}{subsection*.155}%
-\contentsline {subsubsection}{1 Timoteo 6:20}{123}{subsubsection*.156}%
-\contentsline {subsubsection}{1 Timoteo 6:21}{124}{subsubsection*.157}%
-\contentsline {subsection}{Conclusión}{125}{subsection*.158}%
-\contentsline {section}{APÉNDICE}{126}{section*.159}%
-\contentsline {subsection}{LA DISCIPLINA EN LA HISTORIA BÍBLICA}{126}{subsection*.160}%
-\contentsline {subsection}{Introducción}{126}{subsection*.161}%
-\contentsline {subsection}{El patrón bíblico}{126}{subsection*.162}%
-\contentsline {subsubsection}{Edén}{126}{subsubsection*.163}%
-\contentsline {subsubsection}{Israel en el desierto}{126}{subsubsection*.164}%
-\contentsline {subsubsection}{Israel en la tierra}{126}{subsubsection*.165}%
-\contentsline {subsubsection}{Exilio}{126}{subsubsection*.166}%
-\contentsline {subsection}{La disciplina en la iglesia}{127}{subsection*.167}%
-\contentsline {subsection}{Himeneo y Alejandro}{127}{subsection*.168}%
-\contentsline {subsection}{Consumación}{127}{subsection*.169}%
-\contentsline {subsection}{100 Verdades de Identidad en Cristo}{128}{subsection*.170}%
+\contentsline {section}{1 TIMOTEO 1:1-20 EL ENCARGO Y SU PROPÓSITO}{5}{section*.9}%
+\contentsline {subsection}{1 Timoteo 1:1 Autor de la carta: Un apóstol de Jesucristo}{5}{subsection*.10}%
+\contentsline {subsubsection}{1 Timoteo 1:1}{5}{subsubsection*.11}%
+\contentsline {subsection}{1 Timoteo 1:2 Receptor de la carta: El bien amado de Pablo}{5}{subsection*.12}%
+\contentsline {subsubsection}{1 Timoteo 1:2}{5}{subsubsection*.13}%
+\contentsline {subsection}{1 Timoteo 1:3--7 - Algunos se desviaron del propósito del encargo}{7}{subsection*.14}%
+\contentsline {subsubsection}{1 Timoteo 1:3}{7}{subsubsection*.15}%
+\contentsline {subsubsection}{1 Timoteo 1:4}{7}{subsubsection*.16}%
+\contentsline {subsubsection}{1 Timoteo 1:5}{9}{subsubsection*.17}%
+\contentsline {subsubsection}{1 Timoteo 1:6}{11}{subsubsection*.18}%
+\contentsline {subsubsection}{1 Timoteo 1:7}{12}{subsubsection*.19}%
+\contentsline {subsection}{1 Timoteo 1:8-11 - La verdad debe ser usada conforme a su propósito}{13}{subsection*.20}%
+\contentsline {subsubsection}{1 Timoteo 1:8}{13}{subsubsection*.21}%
+\contentsline {subsubsection}{1 Timoteo 1:9}{14}{subsubsection*.22}%
+\contentsline {subsubsection}{1 Timoteo 1:10}{16}{subsubsection*.23}%
+\contentsline {subsubsection}{1 Timoteo 1:11}{17}{subsubsection*.24}%
+\contentsline {subsection}{1 Timoteo 1:12--17 - La misericordia de Dios se hace visible en Pablo}{19}{subsection*.25}%
+\contentsline {subsubsection}{1 Timoteo 1:12}{19}{subsubsection*.26}%
+\contentsline {subsubsection}{1 Timoteo 1:13}{20}{subsubsection*.27}%
+\contentsline {subsubsection}{1 Timoteo 1:14}{22}{subsubsection*.28}%
+\contentsline {subsubsection}{1 Timoteo 1:15}{23}{subsubsection*.29}%
+\contentsline {subsubsection}{1 Timoteo 1:16}{24}{subsubsection*.30}%
+\contentsline {subsubsection}{1 Timoteo 1:17}{26}{subsubsection*.31}%
+\contentsline {subsection}{1 Timoteo 1:18--20 - El encargo es confiado a Timoteo}{28}{subsection*.32}%
+\contentsline {subsubsection}{1 Timoteo 1:18}{28}{subsubsection*.33}%
+\contentsline {subsubsection}{1 Timoteo 1:19}{29}{subsubsection*.34}%
+\contentsline {subsubsection}{1 Timoteo 1:20}{31}{subsubsection*.35}%
+\contentsline {section}{1 TIMOTEO 2:1-3:16 - LA CASA DE DIOS DEBE SER FORMADA POR ESE PROPÓSITO}{32}{section*.36}%
+\contentsline {subsection}{1 Timoteo 2:1--7 - El propósito de Dios alcanza a todas las personas}{32}{subsection*.37}%
+\contentsline {subsubsection}{1 Timoteo 2:1}{32}{subsubsection*.38}%
+\contentsline {subsubsection}{1 Timoteo 2:2}{34}{subsubsection*.39}%
+\contentsline {subsubsection}{1 Timoteo 2:3}{35}{subsubsection*.40}%
+\contentsline {subsubsection}{1 Timoteo 2:4}{36}{subsubsection*.41}%
+\contentsline {subsubsection}{1 Timoteo 2:5}{37}{subsubsection*.42}%
+\contentsline {subsubsection}{1 Timoteo 2:6}{38}{subsubsection*.43}%
+\contentsline {subsubsection}{1 Timoteo 2:7}{39}{subsubsection*.44}%
+\contentsline {subsection}{1 Timoteo 2:8-15 - Los miembros de la casa de Dios deben conducirse conforme a ese propósito}{41}{subsection*.45}%
+\contentsline {subsubsection}{1 Timoteo 2:8}{42}{subsubsection*.46}%
+\contentsline {subsubsection}{1 Timoteo 2:9}{43}{subsubsection*.47}%
+\contentsline {subsubsection}{1 Timoteo 2:10}{44}{subsubsection*.48}%
+\contentsline {subsubsection}{1 Timoteo 2:11}{45}{subsubsection*.49}%
+\contentsline {subsubsection}{1 Timoteo 2:12}{46}{subsubsection*.50}%
+\contentsline {subsubsection}{1 Timoteo 2:13}{47}{subsubsection*.51}%
+\contentsline {subsubsection}{1 Timoteo 2:14}{48}{subsubsection*.52}%
+\contentsline {subsubsection}{1 Timoteo 2:15}{49}{subsubsection*.53}%
+\contentsline {subsection}{1 Timoteo 3:1--13 - La casa de Dios necesita siervos conformes a ese propósito}{51}{subsection*.54}%
+\contentsline {subsubsection}{1 Timoteo 3:1}{51}{subsubsection*.55}%
+\contentsline {subsubsection}{1 Timoteo 3:2}{51}{subsubsection*.56}%
+\contentsline {subsubsection}{1 Timoteo 3:3}{54}{subsubsection*.57}%
+\contentsline {subsubsection}{1 Timoteo 3:4}{55}{subsubsection*.58}%
+\contentsline {subsubsection}{1 Timoteo 3:5}{56}{subsubsection*.59}%
+\contentsline {subsubsection}{1 Timoteo 3:6}{56}{subsubsection*.60}%
+\contentsline {subsubsection}{1 Timoteo 3:7}{57}{subsubsection*.61}%
+\contentsline {subsubsection}{1 Timoteo 3:8}{59}{subsubsection*.62}%
+\contentsline {subsubsection}{1 Timoteo 3:9}{60}{subsubsection*.63}%
+\contentsline {subsubsection}{1 Timoteo 3:10}{61}{subsubsection*.64}%
+\contentsline {subsubsection}{1 Timoteo 3:11}{62}{subsubsection*.65}%
+\contentsline {subsubsection}{1 Timoteo 3:12}{63}{subsubsection*.66}%
+\contentsline {subsubsection}{1 Timoteo 3:13}{64}{subsubsection*.67}%
+\contentsline {subsection}{1 Timoteo 3:14--16 - La identidad de la casa de Dios y su fundamento}{65}{subsection*.68}%
+\contentsline {subsubsection}{1 Timoteo 3:14}{65}{subsubsection*.69}%
+\contentsline {subsubsection}{1 Timoteo 3:15}{66}{subsubsection*.70}%
+\contentsline {subsubsection}{1 Timoteo 3:16}{68}{subsubsection*.71}%
+\contentsline {section}{1 TIMOTEO 4:1-16 - ESE PROPÓSITO SERÁ AMENAZADO}{70}{section*.72}%
+\contentsline {subsection}{1 Timoteo 4:1--5 - Algunos se apartarán del propósito}{70}{subsection*.73}%
+\contentsline {subsubsection}{1 Timoteo 4:1}{70}{subsubsection*.74}%
+\contentsline {subsubsection}{1 Timoteo 4:2}{71}{subsubsection*.75}%
+\contentsline {subsubsection}{1 Timoteo 4:3}{72}{subsubsection*.76}%
+\contentsline {subsubsection}{1 Timoteo 4:4}{74}{subsubsection*.77}%
+\contentsline {subsubsection}{1 Timoteo 4:5}{74}{subsubsection*.78}%
+\contentsline {subsection}{1 Timoteo 4:6-10 - Timoteo debe permanecer en el propósito}{75}{subsection*.79}%
+\contentsline {subsubsection}{1 Timoteo 4:6}{75}{subsubsection*.80}%
+\contentsline {subsubsection}{1 Timoteo 4:7}{75}{subsubsection*.81}%
+\contentsline {subsubsection}{1 Timoteo 4:8}{76}{subsubsection*.82}%
+\contentsline {subsubsection}{1 Timoteo 4:9}{77}{subsubsection*.83}%
+\contentsline {subsubsection}{1 Timoteo 4:10}{78}{subsubsection*.84}%
+\contentsline {subsection}{1 Timoteo 4:11--16 - Timoteo debe persistir en el encargo recibido}{79}{subsection*.85}%
+\contentsline {subsubsection}{1 Timoteo 4:11}{79}{subsubsection*.86}%
+\contentsline {subsubsection}{1 Timoteo 4:12}{79}{subsubsection*.87}%
+\contentsline {subsubsection}{1 Timoteo 4:13}{80}{subsubsection*.88}%
+\contentsline {subsubsection}{1 Timoteo 4:14}{81}{subsubsection*.89}%
+\contentsline {subsubsection}{1 Timoteo 4:15}{82}{subsubsection*.90}%
+\contentsline {subsubsection}{1 Timoteo 4:16}{82}{subsubsection*.91}%
+\contentsline {section}{1 TIMOTEO 5:1-25 - ESE PROPÓSITO SE HACE VISIBLE EN LAS RELACIONES}{84}{section*.92}%
+\contentsline {subsection}{1 Timoteo 5:1--2 - La casa de Dios debe relacionarse como una familia}{84}{subsection*.93}%
+\contentsline {subsection}{Con los ancianos}{84}{subsection*.94}%
+\contentsline {subsubsection}{1 Timoteo 5:1}{84}{subsubsection*.95}%
+\contentsline {subsection}{Con los jóvenes}{84}{subsection*.96}%
+\contentsline {subsection}{Con las ancianas}{85}{subsection*.97}%
+\contentsline {subsubsection}{1 Timoteo 5:2}{85}{subsubsection*.98}%
+\contentsline {subsection}{Con las jóvenes}{85}{subsection*.99}%
+\contentsline {subsection}{5:3--16 El propósito se hace visible mediante el cuidado de otros}{85}{subsection*.100}%
+\contentsline {subsubsection}{1 Timoteo 5:3}{86}{subsubsection*.101}%
+\contentsline {subsubsection}{1 Timoteo 5:4}{86}{subsubsection*.102}%
+\contentsline {subsubsection}{1 Timoteo 5:5}{87}{subsubsection*.103}%
+\contentsline {subsubsection}{1 Timoteo 5:6}{88}{subsubsection*.104}%
+\contentsline {subsubsection}{1 Timoteo 5:7}{89}{subsubsection*.105}%
+\contentsline {subsubsection}{1 Timoteo 5:8}{89}{subsubsection*.106}%
+\contentsline {subsubsection}{1 Timoteo 5:9}{90}{subsubsection*.107}%
+\contentsline {subsubsection}{1 Timoteo 5:10}{91}{subsubsection*.108}%
+\contentsline {subsubsection}{1 Timoteo 5:11}{92}{subsubsection*.109}%
+\contentsline {subsubsection}{1 Timoteo 5:12}{93}{subsubsection*.110}%
+\contentsline {subsubsection}{1 Timoteo 5:13}{93}{subsubsection*.111}%
+\contentsline {subsubsection}{1 Timoteo 5:14}{94}{subsubsection*.112}%
+\contentsline {subsubsection}{1 Timoteo 5:15}{95}{subsubsection*.113}%
+\contentsline {subsubsection}{1 Timoteo 5:16}{96}{subsubsection*.114}%
+\contentsline {subsection}{1 Timoteo 5:17--25 - La casa de Dios debe actuar con justicia e imparcialidad}{97}{subsection*.115}%
+\contentsline {subsubsection}{1 Timoteo 5:17}{97}{subsubsection*.116}%
+\contentsline {subsubsection}{1 Timoteo 5:18}{97}{subsubsection*.117}%
+\contentsline {subsubsection}{1 Timoteo 5:19}{98}{subsubsection*.118}%
+\contentsline {subsubsection}{1 Timoteo 5:20}{99}{subsubsection*.119}%
+\contentsline {subsubsection}{1 Timoteo 5:21}{99}{subsubsection*.120}%
+\contentsline {subsubsection}{1 Timoteo 5:22}{100}{subsubsection*.121}%
+\contentsline {subsubsection}{1 Timoteo 5:23}{100}{subsubsection*.122}%
+\contentsline {subsubsection}{1 Timoteo 5:24}{101}{subsubsection*.123}%
+\contentsline {subsubsection}{1 Timoteo 5:25}{102}{subsubsection*.124}%
+\contentsline {section}{1 TIMOTEO 6:1-21 - ESE PROPÓSITO DEBE SER PRESERVADO}{103}{section*.125}%
+\contentsline {subsection}{1 Timoteo 6:1--2 El propósito debe reflejarse en todas las relaciones}{103}{subsection*.126}%
+\contentsline {subsubsection}{1 Timoteo 6:1}{103}{subsubsection*.127}%
+\contentsline {subsubsection}{1 Timoteo 6:2}{103}{subsubsection*.128}%
+\contentsline {subsection}{1 Timoteo 6:3--10 - La falsa enseñanza produce frutos contrarios al propósito}{104}{subsection*.129}%
+\contentsline {subsubsection}{1 Timoteo 6:3}{104}{subsubsection*.130}%
+\contentsline {subsubsection}{1 Timoteo 6:4}{105}{subsubsection*.131}%
+\contentsline {subsubsection}{1 Timoteo 6:5}{106}{subsubsection*.132}%
+\contentsline {subsubsection}{1 Timoteo 6:6}{107}{subsubsection*.133}%
+\contentsline {subsubsection}{1 Timoteo 6:7}{107}{subsubsection*.134}%
+\contentsline {subsubsection}{1 Timoteo 6:8}{108}{subsubsection*.135}%
+\contentsline {subsubsection}{1 Timoteo 6:9}{108}{subsubsection*.136}%
+\contentsline {subsubsection}{1 Timoteo 6:10}{109}{subsubsection*.137}%
+\contentsline {subsection}{1 Timoteo 6:11--16 - Timoteo debe perseverar en el encargo}{110}{subsection*.138}%
+\contentsline {subsubsection}{1 Timoteo 6:11}{110}{subsubsection*.139}%
+\contentsline {subsubsection}{1 Timoteo 6:12}{111}{subsubsection*.140}%
+\contentsline {subsubsection}{1 Timoteo 6:13}{112}{subsubsection*.141}%
+\contentsline {subsubsection}{1 Timoteo 6:14}{113}{subsubsection*.142}%
+\contentsline {subsubsection}{1 Timoteo 6:15}{113}{subsubsection*.143}%
+\contentsline {subsubsection}{1 Timoteo 6:16}{114}{subsubsection*.144}%
+\contentsline {subsection}{1 Timoteo 6:17--19 - Los bienes deben servir al propósito de Dios}{114}{subsection*.145}%
+\contentsline {subsubsection}{1 Timoteo 6:17}{114}{subsubsection*.146}%
+\contentsline {subsubsection}{1 Timoteo 6:18}{115}{subsubsection*.147}%
+\contentsline {subsubsection}{1 Timoteo 6:19}{116}{subsubsection*.148}%
+\contentsline {subsection}{1 Timoteo 6:20--21 - El encargo debe ser guardado}{117}{subsection*.149}%
+\contentsline {subsubsection}{1 Timoteo 6:20}{117}{subsubsection*.150}%
+\contentsline {subsubsection}{1 Timoteo 6:21}{118}{subsubsection*.151}%
+\contentsline {subsection}{Conclusión}{118}{subsection*.152}%
+\contentsline {section}{APÉNDICE}{120}{section*.153}%
+\contentsline {subsection}{LA DISCIPLINA EN LA HISTORIA BÍBLICA}{120}{subsection*.154}%
+\contentsline {subsection}{Introducción}{120}{subsection*.155}%
+\contentsline {subsection}{El patrón bíblico}{120}{subsection*.156}%
+\contentsline {subsection}{La disciplina en la iglesia}{121}{subsection*.157}%
+\contentsline {subsection}{Himeneo y Alejandro}{121}{subsection*.158}%
+\contentsline {subsection}{Consumación}{122}{subsection*.159}%
+\contentsline {subsection}{100 Verdades de Identidad en Cristo}{122}{subsection*.160}%

@@ -13,45 +13,43 @@ cover: "images/portada.png"
 
 # Introducción
 
-##### A primera vista, 1 Timoteo puede parecer una carta acerca de líderes, organización eclesiástica o falsas doctrinas. Sin embargo, Pablo introduce la carta de otra manera.
+##### A primera vista, 1 Timoteo puede parecer una <u>carta</u> acerca de líderes, organización eclesiástica o falsas doctrinas. Sin embargo, Pablo introduce la carta de otra manera.
 
-##### Después de encomendar a Timoteo permanecer en Éfeso para enfrentar enseñanzas diferentes, Pablo identifica el problema central:
+##### <u>Después</u> de encomendar a Timoteo permanecer en Éfeso para enfrentar enseñanzas diferentes, Pablo identifica el problema central:
+-   Algunos se habían desviado hacia especulaciones, discusiones <u>inútiles</u> y vana palabrería.
 
-> Algunos se habían desviado hacia especulaciones, discusiones inútiles y vana palabrería.
+##### Frente a esta situación, Pablo no solamente corrige el error. También declara cuál es el propósito que la instrucción <u>debe</u> alcanzar:
+-   **"El propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera"** (1 Timoteo 1:5).
 
-##### Frente a esta situación, Pablo no solamente corrige el error. También declara cuál es el propósito que la instrucción debe alcanzar:
+##### Esta afirmación se convierte en una de las <u>claves</u> más importantes para comprender toda la carta.
 
-> **"El propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera"** (1 Timoteo 1:5).
+##### La preocupación principal de Pablo no es simplemente preservar información correcta ni organizar la <u>vida</u> de la iglesia. Su preocupación es que la enseñanza produzca aquello para lo cual fue dada. La instrucción tiene un propósito. Tiene una meta. Tiene una dirección.
 
-##### Esta afirmación se convierte en una de las claves más importantes para comprender toda la carta.
-
-##### La preocupación principal de Pablo no es simplemente preservar información correcta ni organizar la vida de la iglesia. Su preocupación es que la enseñanza produzca aquello para lo cual fue dada. La instrucción tiene un propósito. Tiene una meta. Tiene una dirección.
-
-##### Por esta razón, la carta no debe leerse únicamente como un manual para líderes ni como una colección de normas para la iglesia. Las instrucciones sobre oración, conducta, servicio, relaciones, enseñanza y perseverancia aparecen porque todas contribuyen al mismo propósito.
+##### Por esta razón, la carta no debe leerse únicamente <u>como</u> un manual para líderes ni como una colección de normas para la iglesia. Las instrucciones sobre oración, conducta, servicio, relaciones, enseñanza y perseverancia aparecen porque todas contribuyen al mismo propósito.
 
 ##### A lo largo de la carta, Pablo muestra:
--   cómo ese propósito debe formar la casa de Dios,
--   cómo será amenazado por enseñanzas desviadas,
--   cómo se hace visible en las relaciones entre los creyentes,
--   y cómo debe ser preservado.
+-   cómo ese propósito debe formar la <u>casa</u> de Dios,
+-   cómo <u>será</u> amenazado por enseñanzas desviadas,
+-   cómo se hace visible en las relaciones <u>entre</u> los creyentes,
+-   y cómo <u>debe</u> ser preservado.
 
-##### La casa de Dios no es presentada como el propósito final de la carta. Es el lugar donde ese propósito debe hacerse visible.
+##### La casa de Dios no es presentada como el propósito <u>final</u> de la carta. Es el lugar donde ese propósito debe hacerse visible.
 
-##### Por esta razón, el lector hará bien en prestar atención no solamente a lo que Pablo ordena, sino también a la razón por la que lo ordena. La carta muestra repetidamente cómo la enseñanza sana conduce al propósito que Dios desea producir en Su pueblo.
+##### Por esta razón, el lector hará bien en prestar atención no solamente a lo que Pablo ordena, <u>sino</u> también a la razón por la que lo ordena. La carta muestra repetidamente cómo la enseñanza sana conduce al propósito que Dios desea producir en Su pueblo.
 
 ## ¿Por qué escribió Pablo esta carta?
 
-##### Pablo escribió esta carta después de dejar a Timoteo en Éfeso. Algunos estaban promoviendo enseñanzas diferentes y desviando la atención hacia especulaciones y discusiones improductivas. Timoteo recibió la responsabilidad de permanecer allí para enfrentar esta situación.
+##### Pablo escribió esta carta después de dejar a Timoteo en Éfeso. Algunos estaban promoviendo enseñanzas diferentes y desviando la atención <u>hacia</u> especulaciones y discusiones improductivas. Timoteo recibió la responsabilidad de permanecer allí para enfrentar esta situación.
 
-##### Sin embargo, el problema no era solamente doctrinal. Algunas personas se habían apartado del propósito mismo de la instrucción. Por esta razón, Pablo vuelve una y otra vez al tema de la enseñanza, la conducta y la perseverancia.
+##### Sin embargo, el problema no era solamente doctrinal. Algunas personas se habían apartado del propósito <u>mismo</u> de la instrucción. Por esta razón, Pablo vuelve una y otra vez al tema de la enseñanza, la conducta y la perseverancia.
 
-##### La carta desarrolla el contraste entre dos caminos.
+##### La <u>carta</u> desarrolla el contraste entre dos caminos.
 
-##### Unas enseñanzas producen discusiones, orgullo, conflictos, intereses egoístas y desviación.
+##### Unas enseñanzas producen discusiones, <u>orgullo</u>, conflictos, intereses egoístas y desviación.
 
-##### La enseñanza que procede de Dios conduce al propósito que Pablo declara en 1:5: amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
+##### La enseñanza que procede de Dios conduce al propósito que Pablo declara en 1:5: amor nacido de un corazón <u>puro</u>, de una buena conciencia y de una fe sincera.
 
-##### Comprender este propósito ayuda a entender cada una de las secciones que siguen.
+##### Comprender este propósito <u>ayuda</u> a entender cada una de las secciones que siguen.
 
 # 1 TIMOTEO 1:1-20 EL ENCARGO Y SU PROPÓSITO
 
@@ -59,6 +57,7 @@ cover: "images/portada.png"
 
 ### 1 Timoteo 1:1
 Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza,
+
 #### Pablo, apóstol de Cristo Jesús
 ##### Pablo se identifica desde el comienzo como el <u>autor</u> de la carta y como un apóstol de Jesucristo.
 
@@ -79,6 +78,7 @@ Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cris
 
 ### 1 Timoteo 1:2
 a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús nuestro Señor.
+
 #### a Timoteo, verdadero hijo en la fe
 ##### Pablo identifica a Timoteo como el receptor de la <u>carta</u> y destaca la relación que existe entre ambos.
 
@@ -118,38 +118,40 @@ a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios 
 
 ### 1 Timoteo 1:3
 Tal como te rogué al salir para Macedonia que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas,
+
 #### Tal como te rogué al salir para Macedonia que te quedaras en Éfeso
-##### Pablo recuerda una instrucción que ya había dado a Timoteo.
+##### Pablo recuerda una instrucción que ya <u>había</u> dado a Timoteo.
 
-##### La carta no introduce una situación nueva. Timoteo ya había recibido la responsabilidad de permanecer en Éfeso cuando Pablo partió hacia Macedonia.
--   Timoteo había sido dejado en Éfeso con una responsabilidad específica.
--   Pablo retoma un encargo que ya había sido confiado.
--   La situación descrita en la carta ya estaba presente antes de su escritura.
+##### La carta no introduce una situación <u>nueva</u>. Timoteo ya había recibido la responsabilidad de permanecer en Éfeso cuando Pablo partió hacia Macedonia.
+-   Timoteo había sido <u>dejado</u> en Éfeso con una responsabilidad específica.
+-   Pablo retoma un encargo que ya había <u>sido</u> confiado.
+-   La situación descrita en la <u>carta</u> ya estaba presente antes de su escritura.
 
-##### Esta observación es importante porque muestra que la carta nace dentro de un encargo concreto.
+##### Esta observación es importante porque muestra que la carta <u>nace</u> dentro de un encargo concreto.
 
-##### Timoteo no está simplemente recibiendo información. Está siendo llamado a continuar una responsabilidad que ya había recibido.
+##### Timoteo no está simplemente recibiendo información. Está siendo llamado a continuar <u>una</u> responsabilidad que ya había recibido.
 
 #### para que instruyeras a algunos que no enseñaran doctrinas extrañas
-##### Pablo explica por qué Timoteo debía permanecer en Éfeso.
+##### Pablo explica por qué Timoteo <u>debía</u> permanecer en Éfeso.
 
 ##### Algunos estaban enseñando algo diferente de la enseñanza que debía formar al pueblo de Dios.
 
-##### El problema aparece desde el comienzo de la carta, pero Pablo todavía no ha explicado completamente por qué esa enseñanza era peligrosa.
+##### El problema aparece <u>desde</u> el comienzo de la carta, pero Pablo todavía no ha explicado completamente por qué esa enseñanza era peligrosa.
 -   Algunos estaban enseñando doctrinas diferentes.
--   Timoteo debía intervenir.
--   La enseñanza dentro de la iglesia no podía quedar sin dirección.
+-   Timoteo <u>debía</u> intervenir.
+-   La enseñanza dentro de la iglesia no <u>podía</u> quedar sin dirección.
 
 ##### Los versículos siguientes mostrarán el peligro de esta enseñanza.
 
-##### No solamente producía ideas incorrectas. También desviaba la atención hacia discusiones inútiles y alejaba a las personas del propósito que Pablo declarará en 1:5.
+##### No solamente producía ideas incorrectas. También desviaba la atención <u>hacia</u> discusiones inútiles y alejaba a las personas del propósito que Pablo declarará en 1:5.
 
-##### Por esta razón, el encargo de Timoteo no consistía solamente en detener información equivocada.
+##### Por esta <u>razón</u>, el encargo de Timoteo no consistía solamente en detener información equivocada.
 
-##### Debía proteger la instrucción que Dios usa para producir amor nacido de un corazón puro, una buena conciencia y una fe sincera.
+##### Debía proteger la instrucción que Dios usa para producir amor nacido de un corazón puro, una <u>buena</u> conciencia y una fe sincera.
 
 ### 1 Timoteo 1:4
 ni prestaran atención a mitos y genealogías interminables, lo que da lugar a discusiones inútiles en vez de hacer avanzar el plan de Dios que es por fe, así te encargo ahora.
+
 #### ni prestaran atención a mitos y genealogías interminables
 ##### Pablo continúa describiendo el <u>tipo</u> de enseñanza que estaba causando problemas en Éfeso.
 
@@ -176,13 +178,13 @@ ni prestaran atención a mitos y genealogías interminables, lo que da lugar a d
 -   Pablo mostrará que la sana instrucción <u>tiene</u> un propósito diferente.
 
 #### en vez de hacer avanzar el plan de Dios que es por fe
-##### Pablo presenta el contraste principal del versículo.
+##### Pablo <u>presenta</u> el contraste principal del versículo.
 
 ##### Las enseñanzas promovidas por algunos no contribuían al propósito que Dios estaba realizando entre Su pueblo.
--   En lugar de avanzar ese propósito, lo reemplazaban por discusiones improductivas.
+-   En <u>lugar</u> de avanzar ese propósito, lo reemplazaban por discusiones improductivas.
 -   Pablo contrasta dos resultados.
 -   Un resultado produce controversias.
--   El otro contribuye al propósito de Dios.
+-   El <u>otro</u> contribuye al propósito de Dios.
 
 ##### El contraste de este versículo prepara directamente la declaración de 1:5.
 -   Pablo ha descrito el problema.
@@ -197,10 +199,11 @@ ni prestaran atención a mitos y genealogías interminables, lo que da lugar a d
 -   El problema requería <u>una</u> respuesta.
 -   Los versículos siguientes explicarán el propósito de <u>ese</u> encargo.
 
-##### El problema no era solamente que algunos enseñaban algo diferente, sino que esa enseñanza estaba desviando a las personas del propósito que Dios deseaba producir.
+##### El problema no era solamente que algunos enseñaban algo diferente, sino que esa enseñanza <u>estaba</u> desviando a las personas del propósito que Dios deseaba producir.
 
 ### 1 Timoteo 1:5
 Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
+
 #### Pero...
 ##### Después de describir el problema y sus resultados, Pablo presenta un <u>fuerte</u> contraste.
 
@@ -263,35 +266,40 @@ Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro
 -   Corazón <u>puro</u>.
 -   <u>Buena</u> conciencia.
 -   <u>Fe</u> sincera.
-
-##### Pablo no solamente identifica el propósito de la instrucción. También describe las características que acompañan ese propósito.
--   El propósito es el amor.
--   Ese amor está relacionado con un corazón puro.
--   Ese amor está relacionado con una buena conciencia.
--   Ese amor está relacionado con una fe sincera.
+-   Pablo no dice:
+-   que el amor reemplace la <u>verdad</u>.
+-   que la <u>doctrina</u> sea irrelevante.
+-   que cualquier manifestación de amor <u>cumple</u> este propósito.
+-   El versículo define el <u>propósito</u> de la instrucción, no elimina la necesidad de ella.
+-   Describe las características que acompañan ese propósito.
+-   El propósito es el <u>amor</u>.
+-   Ese <u>amor</u> está relacionado con un corazón puro.
+-   Ese amor está relacionado con una <u>buena</u> conciencia.
+-   Ese amor está relacionado con una fe <u>sincera</u>.
 
 ### 1 Timoteo 1:6
 Pues algunos, desviándose de estas cosas, se han apartado hacia una vana palabrería.
+
 #### Pues algunos, desviándose de estas cosas
-##### Pablo vuelve a dirigir la atención hacia aquellos que habían abandonado el propósito de la instrucción.
+##### Pablo vuelve a dirigir la atención <u>hacia</u> aquellos que habían abandonado el propósito de la instrucción.
 
-##### La expresión "estas cosas" señala naturalmente a lo que acaba de describir en el versículo anterior.
--   Algunos se habían apartado del propósito que Pablo identificó como amor nacido de un corazón puro, una buena conciencia y una fe sincera.
--   Pablo conecta este versículo directamente con 1:5.
--   El problema no comenzó con la vana palabrería.
--   Primero hubo una desviación del propósito.
+##### La expresión "estas cosas" <u>señala</u> naturalmente a lo que acaba de describir en el versículo anterior.
+-   Algunos se habían apartado del propósito que Pablo identificó como amor nacido de un corazón puro, una <u>buena</u> conciencia y una fe sincera.
+-   Pablo conecta <u>este</u> versículo directamente con 1:5.
+-   El problema no comenzó con la <u>vana</u> palabrería.
+-   Primero <u>hubo</u> una desviación del propósito.
 
-##### La preocupación de Pablo no es solamente que ciertas personas enseñaban cosas incorrectas.
+##### La preocupación de Pablo no es solamente que <u>ciertas</u> personas enseñaban cosas incorrectas.
 
-##### También le preocupa que se habían apartado de aquello que la instrucción debía producir.
--   El propósito había sido abandonado.
--   El resultado fue una nueva dirección.
--   La desviación precedió al error visible.
+##### También le preocupa que se <u>habían</u> apartado de aquello que la instrucción debía producir.
+-   El propósito <u>había</u> sido abandonado.
+-   El resultado fue una <u>nueva</u> dirección.
+-   La desviación precedió al <u>error</u> visible.
 
 #### se han apartado hacia una vana palabrería
 ##### <u>Pablo</u> describe el resultado de esa desviación.
 
-##### Al abandonar el propósito de la instrucción, terminaron ocupándose en discursos vacíos que ya no contribuían al propósito de Dios.
+##### Al abandonar el propósito de la instrucción, terminaron ocupándose en discursos <u>vacíos</u> que ya no contribuían al propósito de Dios.
 -   La desviación produjo un resultado <u>visible</u>.
 -   Pablo contrasta propósito y <u>vana</u> palabrería.
 -   La enseñanza ya no producía aquello para lo cual fue <u>dada</u>.
@@ -308,10 +316,11 @@ Pues algunos, desviándose de estas cosas, se han apartado hacia una vana palabr
 
 ### 1 Timoteo 1:7
 Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas.
+
 #### Quieren ser maestros de la ley
 ##### Pablo identifica la aspiración de aquellos que se <u>habían</u> desviado del propósito de la instrucción.
 
-##### El problema no era simplemente que enseñaban. Después de desviarse del propósito de la instrucción, dirigieron sus esfuerzos hacia el deseo de ser maestros de la ley.
+##### El problema no era simplemente que enseñaban. Después de desviarse del propósito de la instrucción, dirigieron sus esfuerzos hacia el deseo de ser maestros de la <u>ley</u>.
 -   Pablo <u>sigue</u> hablando de los que se desviaron.
 -   El énfasis recae sobre <u>aquello</u> que desean ser.
 -   La descripción continúa desarrollando el problema <u>iniciado</u> en 1:3.
@@ -329,7 +338,7 @@ Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las co
 -   También cuestiona su <u>comprensión</u>.
 -   <u>Existe</u> una diferencia entre hablar y entender.
 
-##### La preocupación de Pablo no es simplemente intelectual. La falta de comprensión aparece como otra evidencia de la desviación que Pablo viene describiendo.
+##### La preocupación de Pablo no es simplemente intelectual. La falta de comprensión aparece como otra evidencia de la desviación que Pablo <u>viene</u> describiendo.
 -   Se desviaron del <u>propósito</u>.
 -   Produjeron <u>vana</u> palabrería.
 -   Ahora se evidencia que tampoco comprenden adecuadamente lo que <u>enseñan</u>.
@@ -350,11 +359,11 @@ Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las co
 -   Ahora Pablo muestra que tampoco comprenden <u>aquello</u> que afirman enseñar.
 
 ##### Con este versículo concluye la descripción del problema que motivó el encargo dado a Timoteo.
--   Pablo ha identificado a los responsables.
--   Pablo ha mostrado los resultados de su enseñanza.
--   Pablo ha declarado el propósito de la verdadera instrucción.
--   Algunos se desviaron de ese propósito.
--   Los versículos siguientes comenzarán a explicar el uso correcto de la ley.
+-   <u>Pablo</u> ha identificado a los responsables.
+-   Pablo ha mostrado los resultados de su <u>enseñanza</u>.
+-   Pablo ha declarado el <u>propósito</u> de la verdadera instrucción.
+-   Algunos se desviaron de ese <u>propósito</u>.
+-   Los versículos siguientes comenzarán a explicar el uso correcto de la <u>ley</u>.
 
 > En Síntesis (1 Timoteo 1:1–7)
 >- Pablo escribe como apóstol de Jesucristo y recuerda a Timoteo el encargo que ya le había sido confiado en Éfeso.
@@ -367,6 +376,7 @@ Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las co
 
 ### 1 Timoteo 1:8
 Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.
+
 #### Pero nosotros sabemos
 ##### Después de describir a quienes <u>desean</u> ser maestros de la ley sin comprenderla correctamente, Pablo introduce una afirmación compartida con Timoteo.
 
@@ -382,11 +392,10 @@ Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.
 -   Pablo defiende la bondad de la <u>ley</u>.
 -   El <u>problema</u> no es la existencia de la ley.
 -   El problema es el uso que algunos <u>hacen</u> de ella.
-
-##### <u>Esta</u> aclaración prepara el desarrollo de los versículos siguientes.
+-   <u>Esta</u> aclaración prepara el desarrollo de los versículos siguientes.
 -   Pablo no <u>rechaza</u> la ley.
--   Pablo corregirá el uso <u>incorrecto</u> de la ley.
--   El énfasis <u>recae</u> sobre su propósito legítimo.
+-   Pablo no está afirmando que la ley sea mala.
+-   El problema descrito en la sección no es la existencia de la ley, sino su uso incorrecto.
 
 #### si uno la usa legítimamente
 ##### Pablo introduce la idea <u>central</u> de esta sección.
@@ -410,6 +419,7 @@ Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.
 
 ### 1 Timoteo 1:9
 Reconozcamos esto: que la ley no ha sido instituida para el justo, sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos,
+
 #### Reconozcamos esto
 ##### Pablo continúa explicando el uso legítimo de la <u>ley</u>.
 
@@ -479,6 +489,7 @@ Reconozcamos esto: que la ley no ha sido instituida para el justo, sino para los
 
 ### 1 Timoteo 1:10
 para los inmorales, homosexuales, secuestradores, mentirosos, los que juran en falso, y para cualquier otra cosa que es contraria a la sana doctrina,
+
 #### para los inmorales
 ##### Pablo continúa la lista de personas <u>para</u> quienes fue dada la ley.
 
@@ -532,6 +543,7 @@ para los inmorales, homosexuales, secuestradores, mentirosos, los que juran en f
 
 ### 1 Timoteo 1:11
 según el glorioso evangelio del Dios bendito, que me ha sido encomendado.
+
 #### según el glorioso evangelio del Dios bendito
 ##### Pablo conecta la sana doctrina con el <u>evangelio</u>.
 
@@ -573,7 +585,7 @@ según el glorioso evangelio del Dios bendito, que me ha sido encomendado.
 -   La sana <u>doctrina</u> está en armonía con el evangelio.
 -   Ese evangelio fue encomendado a <u>Pablo</u>.
 
-> Pablo afirma que la ley es buena cuando se usa legítimamente, corrigiendo así el mal uso que algunos estaban haciendo de ella.
+> En Síntesis
 >- Pablo afirma que la ley es buena cuando se usa legítimamente, corrigiendo así el mal uso que algunos estaban haciendo de ella.
 >- La ley no fue dada para producir especulaciones ni para sostener enseñanzas desviadas, sino para cumplir el propósito para el cual Dios la estableció.
 >- Pablo explica que la ley fue instituida para confrontar el pecado y exponer aquellas conductas que se oponen a la voluntad de Dios.
@@ -585,6 +597,7 @@ según el glorioso evangelio del Dios bendito, que me ha sido encomendado.
 
 ### 1 Timoteo 1:12
 Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio,
+
 #### Doy gracias a Cristo Jesús nuestro Señor
 ##### Pablo comienza una sección personal en la que <u>utiliza</u> su propia vida como evidencia de la misericordia de Dios.
 
@@ -647,6 +660,7 @@ Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuv
 
 ### 1 Timoteo 1:13
 aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad.
+
 #### aun habiendo sido yo antes blasfemo, perseguidor y agresor
 ##### Pablo comienza a explicar por qué la misericordia que recibió <u>resulta</u> tan extraordinaria.
 
@@ -696,6 +710,7 @@ aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me m
 
 ### 1 Timoteo 1:14
 Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús.
+
 #### Pero la gracia de nuestro Señor fue más que abundante
 ##### Pablo continúa desarrollando el contraste <u>iniciado</u> en el versículo anterior.
 
@@ -744,6 +759,7 @@ Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que
 
 ### 1 Timoteo 1:15
 Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero.
+
 #### Palabra fiel y digna de ser aceptada por todos
 ##### Pablo <u>introduce</u> una declaración que considera completamente confiable.
 
@@ -797,6 +813,7 @@ Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para
 
 ### 1 Timoteo 1:16
 Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna.
+
 #### Sin embargo, por esto hallé misericordia
 ##### Pablo vuelve a enfatizar la misericordia <u>recibida</u> de Dios.
 
@@ -862,6 +879,7 @@ Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jes
 
 ### 1 Timoteo 1:17
 Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gloria por los siglos de los siglos. Amén.
+
 #### Por tanto
 ##### Pablo responde a todo lo que acaba de describir <u>acerca</u> de la misericordia, la gracia y la paciencia de Dios.
 
@@ -934,7 +952,7 @@ Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gl
 -   Pablo fue constituido como <u>ejemplo</u> de la paciencia de Cristo.
 -   Todo culmina en adoración y <u>gloria</u> a Dios.
 
-> Pablo da gracias a Cristo Jesús porque fue fortalecido, considerado fiel y puesto en el ministerio. Desde el comienzo, dirige la atención a la iniciativa y obra de Cristo, no a sus propios méritos.
+> En Síntesis
 >- Pablo da gracias a Cristo Jesús porque fue fortalecido, considerado fiel y puesto en el ministerio. Desde el comienzo, dirige la atención a la iniciativa y obra de Cristo, no a sus propios méritos.
 >- Al recordar que anteriormente fue blasfemo, perseguidor y agresor, Pablo muestra que la misericordia de Dios fue manifestada precisamente en alguien que no la merecía.
 >- La gracia del Señor sobreabundó en su vida, produciendo fe y amor en Cristo Jesús en contraste con la incredulidad y oposición que habían caracterizado su pasado.
@@ -946,6 +964,7 @@ Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gl
 
 ### 1 Timoteo 1:18
 Esta comisión te confío, hijo Timoteo, conforme a las profecías que antes se hicieron en cuanto a ti, a fin de que por ellas pelees la buena batalla,
+
 #### Esta comisión te confío, hijo Timoteo
 ##### Pablo vuelve al encargo que motivó la carta <u>desde</u> el principio.
 
@@ -995,6 +1014,7 @@ Esta comisión te confío, hijo Timoteo, conforme a las profecías que antes se 
 
 ### 1 Timoteo 1:19
 guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron en lo que toca a la fe.
+
 #### guardando la fe
 ##### Pablo explica cómo debe pelearse la <u>buena</u> batalla.
 
@@ -1057,6 +1077,7 @@ guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron 
 
 ### 1 Timoteo 1:20
 Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para que aprendan a no blasfemar.
+
 #### Entre ellos están Himeneo y Alejandro
 ##### Pablo identifica ejemplos concretos de las personas que <u>habían</u> naufragado en la fe.
 
@@ -1104,7 +1125,7 @@ Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para 
 -   Pablo mostró las consecuencias de <u>desviarse</u> de ese propósito.
 -   Himeneo y Alejandro aparecen <u>como</u> ejemplos concretos de esa desviación.
 
-> Pablo vuelve al encargo que había confiado a Timoteo y le recuerda la responsabilidad que había recibido dentro de la obra de Dios.
+> En Síntesis
 >- Pablo vuelve al encargo que había confiado a Timoteo y le recuerda la responsabilidad que había recibido dentro de la obra de Dios.
 >- Las circunstancias que rodearon su llamamiento debían fortalecerlo para permanecer firme y perseverar en la tarea que tenía delante.
 >- La buena batalla consiste en guardar la fe y una buena conciencia, permaneciendo fiel al propósito de la instrucción que Pablo acaba de describir.
@@ -1118,6 +1139,7 @@ Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para 
 
 ### 1 Timoteo 2:1
 Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,
+
 #### Exhorto, pues
 ##### Pablo pasa del problema de la enseñanza desviada a las instrucciones para la <u>casa</u> de Dios.
 
@@ -1172,6 +1194,7 @@ Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y accione
 
 ### 1 Timoteo 2:2
 por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad.
+
 #### por los reyes y por todos los que están en autoridad
 ##### Pablo continúa ampliando el <u>alcance</u> de las oraciones mencionadas en el versículo anterior.
 
@@ -1220,6 +1243,7 @@ por los reyes y por todos los que están en autoridad, para que podamos vivir un
 
 ### 1 Timoteo 2:3
 Porque esto es bueno y agradable delante de Dios nuestro Salvador,
+
 #### Porque esto es
 ##### Pablo <u>explica</u> por qué la exhortación de los versículos anteriores debe ser tomada seriamente.
 
@@ -1267,6 +1291,7 @@ Porque esto es bueno y agradable delante de Dios nuestro Salvador,
 
 ### 1 Timoteo 2:4
 el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad.
+
 #### el cual quiere
 ##### Pablo continúa explicando por qué las <u>oraciones</u> mencionadas anteriormente son agradables a Dios.
 
@@ -1277,13 +1302,15 @@ el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento 
 
 #### que todos los hombres sean salvos
 ##### Pablo expresa el alcance del <u>deseo</u> de Dios.
+-   Pablo no está limitando su pensamiento a un <u>grupo</u> étnico específico.
+-   Pablo tampoco está explicando aquí cómo <u>ocurre</u> la salvación.
+-   El énfasis del contexto <u>recae</u> sobre el deseo de Dios y la amplitud de la oración de la iglesia.
 
 ##### La expresión retoma el <u>énfasis</u> que ya apareció repetidamente en la sección. La oración debía hacerse por todos los hombres porque el deseo de Dios se extiende a todos los hombres.
--   La expresión "todos los hombres" <u>vuelve</u> a aparecer.
+-   La expresión *todos los hombres* <u>vuelve</u> a aparecer.
 -   Pablo mantiene el <u>mismo</u> énfasis de la sección.
 -   El alcance de la oración corresponde al <u>alcance</u> del deseo de Dios.
-
-##### Esta observación <u>conecta</u> los versículos 1–4.
+-   Esta observación <u>conecta</u> los versículos 1–4.
 -   Oraciones por todos los <u>hombres</u>.
 -   Acción de <u>gracias</u> por todos los hombres.
 -   Dios desea que todos los hombres <u>sean</u> salvos.
@@ -1310,6 +1337,7 @@ el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento 
 
 ### 1 Timoteo 2:5
 Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,
+
 #### Porque hay un solo Dios
 ##### Pablo continúa explicando el fundamento de lo que <u>acaba</u> de afirmar en el versículo anterior.
 
@@ -1325,6 +1353,9 @@ Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, C
 
 #### y también un solo Mediador entre Dios y los hombres
 ##### Pablo <u>añade</u> una segunda realidad fundamental.
+-   Pablo no presenta <u>varios</u> mediadores.
+-   Pablo no <u>dirige</u> la atención hacia la iglesia, los apóstoles o los líderes.
+-   El énfasis recae exclusivamente <u>sobre</u> Cristo Jesús.
 
 ##### Así como existe un solo <u>Dios</u>, también existe un solo Mediador. La reconciliación entre Dios y los hombres no depende de múltiples caminos o múltiples mediadores.
 -   Hay un <u>solo</u> Dios.
@@ -1333,7 +1364,7 @@ Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, C
 
 ##### La conexión con el versículo <u>anterior</u> es importante.
 -   Dios <u>desea</u> que todos los hombres sean salvos.
--   Existe un solo Mediador entre Dios y los hombres.
+-   Existe un solo Mediador <u>entre</u> Dios y los hombres.
 -   Pablo está mostrando <u>cómo</u> ese propósito puede llevarse a cabo.
 
 #### Cristo Jesús hombre
@@ -1359,6 +1390,7 @@ Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, C
 
 ### 1 Timoteo 2:6
 quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiempo.
+
 #### quien se dio a sí mismo
 ##### Pablo continúa describiendo la obra realizada por el <u>único</u> Mediador.
 
@@ -1407,6 +1439,7 @@ quien se dio a sí mismo en rescate por todos, testimonio dado a su debido tiemp
 
 ### 1 Timoteo 2:7
 Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad.
+
 #### Y para esto yo fui constituido predicador y apóstol
 ##### Pablo explica su <u>relación</u> con el mensaje que acaba de describir.
 
@@ -1466,7 +1499,7 @@ Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo,
 -   Cristo se dio a sí mismo en <u>rescate</u> por todos.
 -   Pablo fue constituido <u>para</u> proclamar ese mensaje.
 
-> Pablo exhorta a la iglesia a orar por todos los hombres, incluyendo a quienes ejercen autoridad, para que el pueblo de Dios pueda vivir con toda piedad y dignidad.
+> En Síntesis
 >- Pablo exhorta a la iglesia a orar por todos los hombres, incluyendo a quienes ejercen autoridad, para que el pueblo de Dios pueda vivir con toda piedad y dignidad.
 >- Esta práctica agrada a Dios porque está en armonía con Su deseo de que todos los hombres sean salvos y lleguen al pleno conocimiento de la verdad.
 >- El fundamento de este propósito es que existe un solo Dios y un solo Mediador entre Dios y los hombres: Cristo Jesús.
@@ -1492,6 +1525,7 @@ Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo,
 
 ### 1 Timoteo 2:8
 Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.
+
 #### Por tanto, quiero que...
 ##### Pablo comienza aplicando lo que <u>acaba</u> de enseñar acerca de la oración.
 
@@ -1531,6 +1565,7 @@ Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, si
 
 ### 1 Timoteo 2:9
 Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,
+
 #### Asimismo
 ##### Pablo continúa <u>describiendo</u> cómo debe conducirse la casa de Dios.
 
@@ -1576,6 +1611,7 @@ Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no 
 
 ### 1 Timoteo 2:10
 sino con buenas obras, como corresponde a las mujeres que profesan la piedad.
+
 #### sino con buenas obras
 ##### Pablo completa el contraste <u>iniciado</u> en el versículo anterior.
 
@@ -1629,6 +1665,7 @@ sino con buenas obras, como corresponde a las mujeres que profesan la piedad.
 
 ### 1 Timoteo 2:11
 Que la mujer aprenda calladamente, con toda obediencia.
+
 #### Que la mujer aprenda
 ##### Pablo continúa dando instrucciones <u>para</u> la conducta dentro de la casa de Dios.
 
@@ -1671,6 +1708,7 @@ Que la mujer aprenda calladamente, con toda obediencia.
 
 ### 1 Timoteo 2:12
 Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.
+
 #### Yo no permito
 ##### Pablo continúa desarrollando las instrucciones <u>iniciadas</u> en el versículo anterior.
 
@@ -1717,6 +1755,7 @@ Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino
 
 ### 1 Timoteo 2:13
 Porque Adán fue creado primero, después Eva.
+
 #### Porque
 ##### Pablo comienza a <u>explicar</u> la razón de las instrucciones dadas en los versículos anteriores.
 
@@ -1753,6 +1792,7 @@ Porque Adán fue creado primero, después Eva.
 
 ### 1 Timoteo 2:14
 Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión.
+
 #### Y Adán no fue el engañado
 ##### Pablo añade una segunda <u>razón</u> a la explicación iniciada en el versículo anterior.
 
@@ -1801,6 +1841,7 @@ Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, 
 
 ### 1 Timoteo 2:15
 Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.
+
 #### Pero se salvará engendrando hijos
 ##### Pablo concluye esta sección con una afirmación que ha generado <u>muchas</u> preguntas a lo largo de la historia.
 
@@ -1860,7 +1901,7 @@ Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con mod
 -   Pablo fundamenta sus instrucciones en Génesis.
 -   La <u>sección</u> concluye con un llamado a permanecer en fe, amor, santidad y modestia.
 
-> Después de presentar el deseo de Dios de que todos los hombres sean salvos y lleguen al conocimiento de la verdad, Pablo muestra cómo ese propósito debe reflejarse en la conducta de la iglesia.
+> En Síntesis
 >- Después de presentar el deseo de Dios de que todos los hombres sean salvos y lleguen al conocimiento de la verdad, Pablo muestra cómo ese propósito debe reflejarse en la conducta de la iglesia.
 >- Los hombres deben caracterizarse por una actitud apropiada en la oración, mientras que las mujeres deben caracterizarse por la modestia, las buenas obras y una profesión de piedad coherente con su conducta.
 >- Pablo instruye que las mujeres aprendan y establece límites relacionados con la enseñanza y la autoridad dentro de la congregación.
@@ -1872,6 +1913,7 @@ Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con mod
 
 ### 1 Timoteo 3:1
 Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hacer.
+
 #### Palabra fiel es esta...
 ##### Pablo <u>vuelve</u> a introducir una afirmación que considera completamente confiable.
 
@@ -1881,8 +1923,11 @@ Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hac
 
 #### si alguien aspira al cargo de obispo...
 ##### Pablo reconoce que puede existir el <u>deseo</u> de servir en esta responsabilidad.
+-   Pablo no presenta el deseo de <u>servir</u> como algo incorrecto.
+-   Tampoco afirma que <u>todo</u> aspirante esté automáticamente capacitado.
+-   Los versículos siguientes explicarán las cualidades <u>necesarias</u>.
 
-##### La atención recae sobre la disposición de una persona hacia esta labor.
+##### La atención recae sobre la disposición de una persona hacia esta <u>labor</u>.
 
 ##### El versículo introduce el tema que <u>será</u> desarrollado en los versículos siguientes.
 
@@ -1901,6 +1946,7 @@ Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hac
 
 ### 1 Timoteo 3:2
 Un obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prudente, de conducta decorosa, hospitalario, apto para enseñar,
+
 #### Un obispo debe ser, pues
 ##### Pablo comienza a describir las características necesarias para <u>quienes</u> sirven como obispos en la casa de Dios.
 
@@ -1987,6 +2033,7 @@ Un obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prude
 
 ### 1 Timoteo 3:3
 no dado a la bebida, no pendenciero, sino amable, no contencioso, no avaricioso.
+
 #### no dado a la bebida
 ##### El obispo no <u>debe</u> estar controlado por el vino.
 
@@ -2034,6 +2081,7 @@ no dado a la bebida, no pendenciero, sino amable, no contencioso, no avaricioso.
 
 ### 1 Timoteo 3:4
 Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad;
+
 #### Que gobierne bien su casa
 ##### Pablo dirige la atención hacia la <u>vida</u> familiar del obispo.
 
@@ -2075,6 +2123,7 @@ Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad;
 
 ### 1 Timoteo 3:5
 (pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?).
+
 #### pues si un hombre no sabe cómo gobernar su propia casa
 ##### Pablo explica por qué la vida familiar <u>forma</u> parte de los requisitos para un obispo.
 
@@ -2103,6 +2152,7 @@ Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad;
 
 ### 1 Timoteo 3:6
 No debe ser un recién convertido, no sea que se envanezca y caiga en la condenación en que cayó el diablo.
+
 #### No debe ser un recién convertido
 ##### Pablo <u>añade</u> otra condición para quienes sirven como obispos en la casa de Dios.
 
@@ -2139,6 +2189,7 @@ No debe ser un recién convertido, no sea que se envanezca y caiga en la condena
 
 ### 1 Timoteo 3:7
 Debe gozar también de una buena reputación entre los de afuera de la iglesia, para que no caiga en descrédito y en el lazo del diablo.
+
 #### Debe gozar también de una buena reputación entre los de afuera de la iglesia
 ##### Pablo <u>añade</u> un requisito relacionado con el testimonio visible del obispo ante quienes no forman parte de la congregación.
 
@@ -2180,7 +2231,7 @@ Debe gozar también de una buena reputación entre los de afuera de la iglesia, 
 -   Los líderes <u>ayudan</u> a proteger a la iglesia.
 -   Su vida debe respaldar la verdad que <u>enseñan</u>.
 
-> Pablo presenta los requisitos para quienes desean servir como obispos en la casa de Dios, enfocándose principalmente en el carácter visible de la persona.
+> En Síntesis
 >- Pablo presenta los requisitos para quienes desean servir como obispos en la casa de Dios, enfocándose principalmente en el carácter visible de la persona.
 >- El obispo debe ser irreprochable, demostrando fidelidad, dominio propio, madurez, hospitalidad y una vida digna de imitación.
 >- También debe ser apto para enseñar, ya que la enseñanza correcta es esencial para que la iglesia permanezca en el propósito para el cual fue llamada.
@@ -2190,6 +2241,7 @@ Debe gozar también de una buena reputación entre los de afuera de la iglesia, 
 
 ### 1 Timoteo 3:8
 De la misma manera, también los diáconos deben ser dignos, de una sola palabra, no dados al mucho vino, ni amantes de ganancias deshonestas,
+
 #### De la misma manera, también los diáconos
 ##### Pablo pasa <u>ahora</u> de los obispos a los diáconos.
 
@@ -2237,6 +2289,7 @@ De la misma manera, también los diáconos deben ser dignos, de una sola palabra
 
 ### 1 Timoteo 3:9
 sino guardando el misterio de la fe con limpia conciencia.
+
 #### sino guardando el misterio de la fe
 ##### Pablo añade una característica fundamental para quienes <u>sirven</u> como diáconos.
 
@@ -2270,6 +2323,7 @@ sino guardando el misterio de la fe con limpia conciencia.
 
 ### 1 Timoteo 3:10
 Que también estos sean sometidos a prueba primero, y si son irreprensibles, que entonces sirvan como diáconos.
+
 #### Que también estos sean sometidos a prueba primero
 ##### Pablo añade una condición previa al servicio como diácono.
 
@@ -2323,6 +2377,7 @@ Que también estos sean sometidos a prueba primero, y si son irreprensibles, que
 
 ### 1 Timoteo 3:11
 De igual manera, las mujeres deben ser dignas, no calumniadoras, sino sobrias, fieles en todo.
+
 #### De igual manera, las mujeres
 ##### Pablo introduce un <u>nuevo</u> grupo dentro de la sección.
 
@@ -2370,6 +2425,7 @@ De igual manera, las mujeres deben ser dignas, no calumniadoras, sino sobrias, f
 
 ### 1 Timoteo 3:12
 Que los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos y sus propias casas.
+
 #### Que los diáconos
 ##### Pablo vuelve a dirigirse específicamente a los diáconos después de la observación del versículo <u>anterior</u>.
 
@@ -2407,6 +2463,7 @@ Que los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos
 
 ### 1 Timoteo 3:13
 Pues los que han servido bien como diáconos obtienen para sí una posición honrosa y gran confianza en la fe que es en Cristo Jesús.
+
 #### Pues los que han servido bien como diáconos
 ##### Pablo concluye la sección mostrando el resultado de un servicio <u>fiel</u>.
 
@@ -2447,7 +2504,7 @@ Pues los que han servido bien como diáconos obtienen para sí una posición hon
 -   La verdad debe ser sostenida con <u>limpia</u> conciencia.
 -   El servicio fiel produce <u>fruto</u> en la vida del creyente.
 
-> Pablo presenta los requisitos para los diáconos, mostrando que el servicio dentro de la casa de Dios debe estar respaldado por un carácter digno, íntegro y confiable.
+> En Síntesis
 >- Pablo presenta los requisitos para los diáconos, mostrando que el servicio dentro de la casa de Dios debe estar respaldado por un carácter digno, íntegro y confiable.
 >- Los diáconos deben conservar el misterio de la fe con limpia conciencia, uniendo la verdad que profesan con una vida que corresponde a ella.
 >- Antes de servir, su vida debe ser examinada y probada, de modo que el servicio sea confiado a personas cuya fidelidad ya sea evidente.
@@ -2459,6 +2516,7 @@ Pues los que han servido bien como diáconos obtienen para sí una posición hon
 
 ### 1 Timoteo 3:14
 Te escribo estas cosas, esperando ir a verte pronto,
+
 #### Te escribo estas cosas
 ##### Pablo interrumpe el desarrollo de la carta para explicar el motivo de su escritura.
 
@@ -2492,6 +2550,7 @@ Te escribo estas cosas, esperando ir a verte pronto,
 
 ### 1 Timoteo 3:15
 pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad.
+
 #### pero en caso que me tarde
 ##### Pablo contempla la posibilidad de no <u>llegar</u> pronto a Éfeso.
 
@@ -2510,6 +2569,9 @@ pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno e
 
 #### para que sepas cómo debe conducirse uno en la casa de Dios
 ##### Esta declaración explica por qué Pablo ha dedicado tanto espacio a las instrucciones anteriores.
+-   Pablo no está describiendo un <u>edificio</u>.
+-   <u>Tampoco</u> está hablando de ceremonias religiosas.
+-   El contexto se refiere a la conducta de la <u>familia</u> de Dios.
 
 ##### Pablo explica por qué ha dado instrucciones acerca de la enseñanza, la oración, la piedad, los ancianos y los diáconos.
 
@@ -2555,10 +2617,12 @@ pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno e
 
 ### 1 Timoteo 3:16
 E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en la carne, Vindicado en el Espíritu, Contemplado por ángeles, Proclamado entre las naciones, Creído en el mundo, Recibido arriba en gloria.
+
 #### E indiscutiblemente, grande es el misterio de la piedad
 ##### Después de describir la casa de Dios y su responsabilidad respecto a la verdad, Pablo dirige la atención a aquello que hace posible la piedad.
 
 ##### La piedad no <u>surge</u> del esfuerzo humano ni de métodos religiosos. Pablo dirige la atención a una Persona.
+-   Pablo no presenta la piedad como un sistema de reglas.
 -   La <u>piedad</u> no comienza con el hombre.
 -   La piedad no comienza con actividades <u>religiosas</u>.
 -   La <u>piedad</u> está inseparablemente ligada a Cristo.
@@ -2599,7 +2663,7 @@ E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en 
 
 ##### Los ángeles se maravillaron en la salvación provista por gracia en Cristo.
 
-##### 1 Pedro 1:12 *A ellos les fue* *<u>revelado</u>* *que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*.
+##### 1 Pedro 1:12 *A ellos les fue* <u>*revelado*</u> *que no se servían a sí mismos, sino a ustedes, en estas cosas que ahora les han sido anunciadas mediante los que les predicaron el Evangelio por el Espíritu Santo enviado del cielo; cosas a las cuales los ángeles anhelan mirar*.
 
 ##### En este versículo vemos los prophetas que dieron revelación sobre Cristo, nosotros lo recibimos, otros predicaron/testificaron el Evangelio (Cristo murio por nuestros pecados y resucito) por medio del poder del Espíritu Santo, y estas cosas los angeles anhelan mirar.
 
@@ -2630,7 +2694,7 @@ E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en 
 
 ##### La atención permanece sobre Cristo de principio a fin.
 
-> Pablo presenta los requisitos para los diáconos, mostrando que quienes sirven en la casa de Dios deben reflejar en su conducta aquello que profesan.
+> En Síntesis
 >- Pablo presenta los requisitos para los diáconos, mostrando que quienes sirven en la casa de Dios deben reflejar en su conducta aquello que profesan.
 >- Los diáconos deben conservar el misterio de la fe con limpia conciencia, uniendo la verdad que creen con una vida consistente con ella.
 >- Antes de servir, deben ser examinados y probados, porque el carácter y la fidelidad son esenciales para el servicio dentro del pueblo de Dios.
@@ -2644,6 +2708,7 @@ E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en 
 
 ### 1 Timoteo 4:1
 El Espíritu dice claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañadores y a doctrinas de demonios,
+
 #### El Espíritu dice claramente que en los últimos tiempos
 ##### Pablo introduce una advertencia <u>solemne</u> proveniente del Espíritu Santo.
 
@@ -2698,6 +2763,7 @@ El Espíritu dice claramente que en los últimos tiempos algunos se apartarán d
 
 ### 1 Timoteo 4:2
 mediante la hipocresía de mentirosos que tienen cauterizada la conciencia.
+
 #### mediante la hipocresía de mentirosos
 ##### Pablo explica el medio por el cual se propaga el engaño.
 
@@ -2736,6 +2802,7 @@ mediante la hipocresía de mentirosos que tienen cauterizada la conciencia.
 
 ### 1 Timoteo 4:3
 Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad.
+
 #### Esos prohibirán casarse y mandarán abstenerse de alimentos
 ##### Pablo ahora identifica ejemplos concretos de las enseñanzas que acompañarán este apartamiento de la verdad.
 
@@ -2791,6 +2858,7 @@ Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios l
 
 ### 1 Timoteo 4:4
 Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;
+
 #### Pablo fundamenta su respuesta en el carácter de la creación de Dios.
 ##### Todo lo que Dios creó es bueno.
 
@@ -2813,15 +2881,9 @@ Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con
 
 ##### La falsa enseñanza transforma la provisión de Dios en motivo de prohibición. La verdad la transforma en motivo de gratitud.
 
-##### Atención especial
--   Pablo fundamenta su argumento en la bondad de la creación.
--   Todo lo creado por Dios es presentado como bueno.
--   El problema no está en las cosas creadas, sino en el uso incorrecto de ellas.
--   La gratitud reconoce a Dios como la fuente de la provisión.
--   La respuesta correcta a la provisión de Dios es la acción de gracias.
-
 ### 1 Timoteo 4:5
 porque es santificado mediante la palabra de Dios y la oración.
+
 #### ...es santificado...
 ##### La idea no es que estas cosas eran impuras y luego llegaron a ser puras.
 
@@ -2841,17 +2903,11 @@ porque es santificado mediante la palabra de Dios y la oración.
 
 ##### La Palabra de Dios corrige nuestra manera de pensar acerca de estas cosas, y la oración expresa nuestra gratitud por ellas.
 
-##### Atención especial
--   Pablo continúa explicando por qué no deben rechazarse las cosas creadas por Dios.
--   La Palabra de Dios revela el juicio correcto acerca de la creación.
--   La oración reconoce a Dios como el proveedor.
--   La gratitud es la respuesta apropiada a la provisión de Dios.
--   El creyente recibe estas cosas conforme a lo que Dios dice de ellas.
-
 ## 1 Timoteo 4:6-10 - Timoteo debe permanecer en el propósito
 
 ### 1 Timoteo 4:6
 Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús, nutrido con las palabras de la fe y de la buena doctrina que has seguido.
+
 #### Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús...
 ##### Después de advertir acerca de quienes se apartarán de la fe y seguirán doctrinas de demonios, Pablo instruye a Timoteo a enseñar estas cosas a los hermanos.
 
@@ -2877,6 +2933,7 @@ Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús,
 
 ### 1 Timoteo 4:7
 Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien disciplínate a ti mismo para la piedad.
+
 #### Pero nada tengas que ver con las fábulas profanas propias de viejas...
 ##### En contraste con la buena doctrina, Pablo le ordena a Timoteo rechazar las fábulas profanas.
 
@@ -2888,6 +2945,9 @@ Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien 
 
 #### Más bien disciplínate a ti mismo para la piedad...
 ##### En lugar de ocuparse en fábulas, Timoteo debía ocuparse en la piedad.
+-   Pablo no está enseñando salvación por esfuerzo humano.
+-   Tampoco está contrastando gracia y piedad.
+-   El versículo trata sobre el entrenamiento del creyente, no sobre la obtención de salvación.
 
 ##### La palabra *disciplínate* presenta la idea de entrenamiento o ejercicio constante.
 
@@ -2905,6 +2965,7 @@ Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien 
 
 ### 1 Timoteo 4:8
 Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y también para la futura.
+
 #### Porque el ejercicio físico aprovecha poco...
 ##### Pablo continúa utilizando la imagen del entrenamiento introducida en el versículo anterior.
 
@@ -2936,6 +2997,7 @@ Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para to
 
 ### 1 Timoteo 4:9
 Palabra fiel es esta, y digna de ser aceptada por todos.
+
 #### Palabra fiel
 ##### Pablo vuelve a destacar una afirmación como completamente confiable.
 
@@ -2952,14 +3014,9 @@ Palabra fiel es esta, y digna de ser aceptada por todos.
 
 ##### Por esta razón, esta enseñanza merece ser aceptada plenamente.
 
-##### Atención especial
--   Pablo destaca la importancia de la afirmación anterior.
--   La expresión "*Palabra fiel*" señala una verdad completamente confiable.
--   La enseñanza acerca de la piedad debe ser recibida por toda la iglesia.
--   La piedad tiene valor para la vida presente y para la futura.
-
 ### 1 Timoteo 4:10
 Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperanza en el Dios vivo, que es el Salvador de todos los hombres, especialmente de los creyentes.
+
 #### Porque por esto trabajamos y nos esforzamos...
 ##### Pablo explica por qué él y sus colaboradores trabajan y perseveran en el ministerio.
 
@@ -2986,8 +3043,7 @@ Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperan
 
 ##### La esperanza de Pablo estaba puesta en este Dios vivo que salva, y por ello continuaba trabajando y esforzándose en el ministerio.
 
-> Pablo advierte que algunos se apartarán de la fe, prestando atención a enseñanzas engañosas y desviándose de aquello que Dios desea producir en Su pueblo.
->- Pablo advierte que algunos se apartarán de la fe, prestando atención a enseñanzas engañosas y desviándose de aquello que Dios desea producir en Su pueblo.
+> En Síntesis
 >- La falsa enseñanza se manifestará mediante prohibiciones y reglamentos humanos que presentan una apariencia de espiritualidad, pero contradicen la bondad de la creación y la provisión de Dios.
 >- En contraste, la verdad conduce al creyente a recibir con gratitud aquello que Dios ha creado y declarado bueno, reconociendo Su provisión y bondad.
 >- Frente a esta amenaza, Timoteo debía alimentarse continuamente de las palabras de la fe y de la buena doctrina, rechazando las fábulas y ejercitándose para la piedad.
@@ -2998,6 +3054,7 @@ Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperan
 
 ### 1 Timoteo 4:11
 Esto manda y enseña.
+
 #### Esto manda y enseña...
 ##### Después de explicar el valor de la piedad y la esperanza puesta en el Dios vivo, Pablo le ordena a Timoteo que enseñe estas cosas a la iglesia.
 
@@ -3017,6 +3074,7 @@ Esto manda y enseña.
 
 ### 1 Timoteo 4:12
 No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, fe y pureza.
+
 #### No permitas que nadie menosprecie tu juventud...
 ##### Timoteo era relativamente joven para la responsabilidad que había recibido en Éfeso.
 
@@ -3056,6 +3114,7 @@ No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes
 
 ### 1 Timoteo 4:13
 Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación y la enseñanza.
+
 #### Entretanto que llego...
 ##### Mientras Pablo estaba ausente, Timoteo debía continuar fielmente en la tarea que había recibido.
 
@@ -3088,6 +3147,7 @@ Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación 
 
 ### 1 Timoteo 4:14
 No descuides el don espiritual que está en ti, que te fue conferido por medio de la profecía con la imposición de manos del presbiterio.
+
 #### No descuides el don espiritual que está en ti...
 ##### Pablo recuerda a Timoteo que Dios le había dado un don espiritual para servir.
 
@@ -3115,6 +3175,7 @@ No descuides el don espiritual que está en ti, que te fue conferido por medio d
 
 ### 1 Timoteo 4:15
 Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea evidente a todos.
+
 #### Reflexiona sobre estas cosas...
 ##### Timoteo debía prestar atención cuidadosa a las instrucciones que Pablo le había dado.
 
@@ -3142,6 +3203,7 @@ Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea
 
 ### 1 Timoteo 4:16
 Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque haciéndolo asegurarás la salvación tanto para ti mismo como para los que te escuchan.
+
 #### Ten cuidado de ti mismo y de la enseñanza...
 ##### Pablo concluye esta sección regresando a dos asuntos fundamentales: la vida de Timoteo y la doctrina que enseñaba.
 
@@ -3181,7 +3243,7 @@ Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque hac
 
 ##### La protección contra el error no se encuentra en nuevas experiencias, sino en permanecer fielmente en la enseñanza que Dios ha dado.
 
-> Después de advertir acerca de quienes se apartarán de la fe, Pablo vuelve a dirigir la atención hacia la responsabilidad confiada a Timoteo y al papel que debía desempeñar dentro de la iglesia.
+> En Síntesis
 >- Después de advertir acerca de quienes se apartarán de la fe, Pablo vuelve a dirigir la atención hacia la responsabilidad confiada a Timoteo y al papel que debía desempeñar dentro de la iglesia.
 >- Timoteo debía enseñar continuamente estas cosas, permaneciendo nutrido por las palabras de la fe y ejercitándose en la piedad.
 >- Su juventud no debía ser un obstáculo para el ministerio, pues debía servir de ejemplo a los creyentes en palabra, conducta, amor, fe y pureza.
@@ -3203,6 +3265,7 @@ Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque hac
 
 ### 1 Timoteo 5:1
 No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a los más jóvenes, como a hermanos,
+
 #### 1 Timoteo 5:1a No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre...
 ##### La palabra *anciano* aquí se refiere al hombre mayor de edad y no necesariamente al oficio de anciano de la iglesia.
 
@@ -3231,6 +3294,7 @@ No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a 
 
 ### 1 Timoteo 5:2
 a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pureza.
+
 #### ...a las ancianas, como a madres...
 ##### Las mujeres mayores de la congregación deben ser tratadas como madres.
 
@@ -3261,10 +3325,12 @@ a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pu
 
 ## 5:3–16 El propósito se hace visible mediante el cuidado de otros
 
-### Introducción
-#### Después de mostrar que la iglesia debe relacionarse como una familia (5:1–2), Pablo presenta un ejemplo concreto de cómo esa realidad debe expresarse.
+##### Introducción
 
-#### La casa de Dios no es solamente una comunidad unida por doctrina. También es una familia que cuida de sus miembros.
+##### Después de mostrar que la iglesia debe relacionarse como una familia (5:1–2), Pablo presenta un ejemplo concreto de cómo esa realidad debe expresarse.
+
+##### La casa de Dios no es solamente una comunidad unida por doctrina. También es una familia que cuida de sus miembros.
+
 ##### Por esta razón, Pablo dedica una extensa sección al cuidado de las viudas.
 
 ##### El tema principal no es simplemente la viudez, sino la responsabilidad de la familia y de la iglesia hacia quienes se encuentran en necesidad.
@@ -3275,6 +3341,7 @@ a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pu
 
 ### 1 Timoteo 5:3
 Honra a las viudas que en verdad son viudas.
+
 #### Honra a las viudas...
 ##### La palabra *honra* (TIMAO) está en imperativo presente. Pablo no presenta una sugerencia, sino una responsabilidad continua para la iglesia.
 
@@ -3295,6 +3362,7 @@ Honra a las viudas que en verdad son viudas.
 
 ### 1 Timoteo 5:4
 Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres, porque esto es agradable delante de Dios.
+
 #### Pero si alguna viuda tiene hijos o nietos...
 ##### Pablo ahora presenta una excepción al caso anterior.
 
@@ -3331,6 +3399,7 @@ Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar 
 
 ### 1 Timoteo 5:5
 Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día.
+
 #### Pero la que en verdad es viuda y se ha quedado sola...
 ##### Pablo vuelve a la situación de la viuda que realmente se encuentra desamparada.
 
@@ -3358,6 +3427,7 @@ Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su espe
 
 ### 1 Timoteo 5:6
 Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta.
+
 #### Pero...
 ##### Pablo vuelve a presentar un contraste.
 
@@ -3391,6 +3461,7 @@ Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta.
 
 ### 1 Timoteo 5:7
 Ordena también estas cosas, para que sean irreprochables.
+
 #### Ordena también estas cosas
 ##### Después de explicar cómo debe actuar la iglesia con respecto a las viudas, Pablo vuelve su atención a Timoteo.
 
@@ -3411,6 +3482,7 @@ Ordena también estas cosas, para que sean irreprochables.
 
 ### 1 Timoteo 5:8
 Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo.
+
 #### Pero si alguien no provee para los suyos,
 ##### Pablo ahora presenta una advertencia seria acerca de la responsabilidad familiar.
 
@@ -3427,6 +3499,9 @@ Pero si alguien no provee para los suyos, y especialmente para los de su casa, h
 
 #### ...ha negado la fe...
 ##### La conducta de una persona puede contradecir aquello que afirma creer.
+-   Pablo no está describiendo una pérdida de <u>salvación</u>.
+-   Tampoco está desarrollando una <u>doctrina</u> sistemática sobre la apostasía.
+-   El énfasis <u>recae</u> sobre la gravedad de abandonar responsabilidades familiares evidentes.
 
 ##### Quien rehúsa asumir una responsabilidad tan básica está actuando en contradicción con la fe que profesa.
 
@@ -3443,6 +3518,7 @@ Pero si alguien no provee para los suyos, y especialmente para los de su casa, h
 
 ### 1 Timoteo 5:9
 Que la viuda sea puesta en la lista solo si no es menor de sesenta años, habiendo sido la esposa de un solo marido,
+
 #### Que la viuda sea puesta en la lista...
 ##### Pablo ahora introduce una lista especial de viudas que podían recibir el apoyo regular de la iglesia.
 
@@ -3466,6 +3542,7 @@ Que la viuda sea puesta en la lista solo si no es menor de sesenta años, habien
 
 ### 1 Timoteo 5:10
 que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospitalidad a extraños, si ha lavado los pies de los santos, si ha ayudado a los afligidos y si se ha consagrado a toda buena obra.
+
 #### a que tenga testimonio de buenas obras...
 ##### La iglesia no debía evaluar solamente la necesidad de una viuda.
 
@@ -3510,6 +3587,7 @@ que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospita
 
 ### 1 Timoteo 5:11
 Pero rehúsa poner en la lista a viudas más jóvenes, porque cuando sienten deseos sensuales, contrarios a Cristo, se quieren casar,
+
 #### Pero rehúsa poner en la lista a viudas más jóvenes...
 ##### Después de describir los requisitos de las viudas que podían ser incluidas en la lista de ayuda permanente de la iglesia, Pablo ahora explica por qué las viudas más jóvenes no debían ser inscritas.
 
@@ -3537,6 +3615,7 @@ Pero rehúsa poner en la lista a viudas más jóvenes, porque cuando sienten des
 
 ### 1 Timoteo 5:12
 incurriendo así en condenación, por haber abandonado su promesa anterior.
+
 #### incurriendo así en condenación...
 ##### Pablo explica una de las razones por las cuales las viudas jóvenes no debían ser incluidas en esta lista.
 
@@ -3561,6 +3640,7 @@ incurriendo así en condenación, por haber abandonado su promesa anterior.
 
 ### 1 Timoteo 5:13
 Y además, aprenden a estar ociosas, yendo de casa en casa. Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas.
+
 #### Y además, aprenden a estar ociosas...
 ##### Pablo añade otra razón por la cual las viudas jóvenes no debían ser inscritas en esta lista.
 
@@ -3588,6 +3668,7 @@ Y además, aprenden a estar ociosas, yendo de casa en casa. Y no solo son ociosa
 
 ### 1 Timoteo 5:14
 Por tanto, quiero que las viudas más jóvenes se casen, que tengan hijos, que cuiden su casa y no den al adversario ocasión de reproche.
+
 #### Por tanto, quiero que las viudas más jóvenes...
 ##### Después de describir los peligros que podían surgir cuando las viudas jóvenes eran incluidas en esta lista especial, Pablo ahora presenta la alternativa que considera más apropiada.
 
@@ -3621,6 +3702,7 @@ Por tanto, quiero que las viudas más jóvenes se casen, que tengan hijos, que c
 
 ### 1 Timoteo 5:15
 Pues algunas ya se han apartado para seguir a Satanás.
+
 #### Pues algunas ya se han apartado para seguir a Satanás.
 ##### Pablo concluye esta advertencia señalando que lo que acaba de describir no era solamente una posibilidad teórica.
 
@@ -3645,6 +3727,7 @@ Pues algunas ya se han apartado para seguir a Satanás.
 
 ### 1 Timoteo 5:16
 Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.
+
 #### Si alguna creyente tiene viudas en la familia, que las mantenga...
 ##### Pablo concluye esta sección regresando al principio que ya había establecido.
 
@@ -3667,7 +3750,7 @@ Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesi
 
 ##### Así, cada miembro de la casa de Dios participa en el cuidado de otros, y el propósito de Dios se hace visible de manera práctica dentro de Su familia.
 
-> Después de exhortar a Timoteo a tratar a los creyentes como miembros de una misma familia, Pablo aplica este principio al cuidado de las viudas dentro de la iglesia.
+> En Síntesis
 >- Después de exhortar a Timoteo a tratar a los creyentes como miembros de una misma familia, Pablo aplica este principio al cuidado de las viudas dentro de la iglesia.
 >- La responsabilidad de cuidar a los familiares necesitados recae primeramente sobre la familia, mostrando que la piedad debe expresarse mediante acciones concretas de amor y cuidado.
 >- Los hijos y nietos deben corresponder al cuidado recibido, atendiendo a sus propios familiares y demostrando así una conducta agradable delante de Dios.
@@ -3679,6 +3762,7 @@ Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesi
 
 ### 1 Timoteo 5:17
 Los ancianos que gobiernan bien sean considerados dignos de doble honor, principalmente los que trabajan en la predicación y en la enseñanza.
+
 #### Los ancianos que gobiernan bien...
 ##### Pablo ahora dirige la atención hacia aquellos que sirven como ancianos dentro de la iglesia.
 
@@ -3710,6 +3794,7 @@ Los ancianos que gobiernan bien sean considerados dignos de doble honor, princip
 
 ### 1 Timoteo 5:18
 Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA», y: «El obrero es digno de su salario».
+
 #### Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA»...
 ##### Pablo fundamenta su instrucción en las Escrituras.
 
@@ -3732,6 +3817,7 @@ Porque la Escritura dice: «NO PONDRÁS BOZAL AL BUEY CUANDO TRILLA», y: «El o
 
 ### 1 Timoteo 5:19
 No admitas acusación contra un anciano, a menos de que haya dos o tres testigos.
+
 #### No admitas acusación contra un anciano...
 ##### Después de hablar del honor debido a los ancianos que sirven bien, Pablo ahora trata el tema de las acusaciones contra ellos.
 
@@ -3752,12 +3838,6 @@ No admitas acusación contra un anciano, a menos de que haya dos o tres testigos
 
 ##### Más bien asegura que las acusaciones sean tratadas con justicia, evitando tanto la impunidad como las acusaciones infundadas.
 
-##### Atención especial
--   Los ancianos siguen estando sujetos a la autoridad de las Escrituras.
--   La iglesia no debe ignorar el pecado cuando existe evidencia suficiente.
--   Tampoco debe aceptar acusaciones sin la debida confirmación.
--   El objetivo es actuar con justicia e imparcialidad dentro de la casa de Dios.
-
 #### A los que continúan en pecado, repréndelos en presencia de todos...
 ##### Pablo ahora explica qué debe hacerse cuando una acusación resulta ser verdadera.
 
@@ -3769,6 +3849,7 @@ No admitas acusación contra un anciano, a menos de que haya dos o tres testigos
 
 ### 1 Timoteo 5:20
 A los que continúan en pecado, repréndelos en presencia de todos para que los demás tengan temor de pecar.
+
 #### ...para que los demás tengan temor de pecar.
 ##### La corrección pública tiene un propósito educativo para toda la iglesia.
 
@@ -3780,15 +3861,9 @@ A los que continúan en pecado, repréndelos en presencia de todos para que los 
 
 ##### La misma autoridad de las Escrituras a la que están llamados a servir es también la autoridad a la que permanecen sujetos.
 
-##### Atención especial
--   La corrección pública ocurre después de una acusación confirmada.
--   Pablo no está promoviendo acusaciones apresuradas ni humillaciones públicas.
--   Tampoco permite ignorar el pecado cuando este persiste.
--   El objetivo es preservar la salud espiritual de toda la congregación.
--   La disciplina debe producir respeto por la santidad de Dios y por el orden de Su casa.
-
 ### 1 Timoteo 5:21
 Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos, que conserves estos principios sin prejuicios, no haciendo nada con espíritu de parcialidad.
+
 #### Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos...
 ##### Pablo enfatiza la seriedad de estas instrucciones.
 
@@ -3812,15 +3887,9 @@ Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus áng
 
 ##### La casa de Dios debía caracterizarse por la verdad, la justicia y la imparcialidad.
 
-##### Atención especial
--   El prejuicio juzga antes de examinar la evidencia.
--   La parcialidad favorece a una persona independientemente de la evidencia.
--   Pablo prohíbe ambas cosas.
--   La disciplina y el reconocimiento de los líderes deben realizarse con el mismo estándar de justicia.
--   La autoridad espiritual nunca debe reemplazar la evaluación objetiva de los hechos.
-
 ### 1 Timoteo 5:22
 No impongas las manos sobre nadie con ligereza, compartiendo así la responsabilidad por los pecados de otros; guárdate libre de pecado.
+
 #### No impongas las manos sobre nadie con ligereza...
 ##### Después de advertir contra el prejuicio y la parcialidad, Pablo ahora advierte contra la precipitación.
 
@@ -3844,15 +3913,9 @@ No impongas las manos sobre nadie con ligereza, compartiendo así la responsabil
 
 ##### La casa de Dios requería líderes que hubieran sido probados y evaluados adecuadamente.
 
-##### Atención especial
--   Pablo ya había establecido requisitos para ancianos y diáconos.
--   La necesidad de líderes no justifica ignorar esos requisitos.
--   Un reconocimiento apresurado puede perjudicar tanto al líder como a la congregación.
--   La imparcialidad también incluye tomarse el tiempo necesario para evaluar correctamente a las personas.
--   La fidelidad en la selección de líderes protege a la casa de Dios.
-
 ### 1 Timoteo 5:23
 Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.
+
 #### Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.
 ##### En medio de estas instrucciones relacionadas con la iglesia, Pablo incluye una observación personal dirigida a Timoteo.
 
@@ -3875,14 +3938,9 @@ Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de t
 
 ##### Timoteo no debía descuidar su salud física mientras servía en la obra del Señor.
 
-##### Atención especial
--   Pablo reconoce la realidad de las limitaciones físicas de Timoteo.
--   La espiritualidad no elimina automáticamente las necesidades del cuerpo.
--   El cuidado responsable de la salud no se presenta como falta de fe.
--   El propósito del versículo es atender una necesidad concreta de Timoteo y no desarrollar una doctrina extensa sobre el vino.
-
 ### 1 Timoteo 5:24
 Los pecados de algunos hombres ya son evidentes, yendo delante de ellos al juicio; pero a otros, sus pecados los siguen.
+
 #### Los pecados de algunos hombres ya son evidentes...
 ##### Pablo regresa al tema de la evaluación cuidadosa de las personas.
 
@@ -3904,14 +3962,9 @@ Los pecados de algunos hombres ya son evidentes, yendo delante de ellos al juici
 
 ##### Por esta razón, Timoteo no debía apresurarse al reconocer a una persona para el ministerio.
 
-##### Atención especial
--   Algunas cualidades se observan rápidamente.
--   Otras solamente se hacen visibles con el tiempo.
--   La evaluación de líderes requiere paciencia y observación.
--   La prisa puede llevar a reconocer a una persona antes de que su carácter haya sido claramente manifestado.
-
 ### 1 Timoteo 5:25
 De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar.
+
 #### De la misma manera...
 ##### Pablo continúa desarrollando el mismo principio presentado en el versículo anterior.
 
@@ -3937,14 +3990,8 @@ De la misma manera, las buenas obras son evidentes, y las que no lo son no se pu
 ##### Así como el pecado termina siendo revelado, también las buenas obras llegan a hacerse evidentes.
 
 ##### El tiempo termina exponiendo aquello que verdaderamente caracteriza la vida de una persona.
--   Atención especial
--   Algunas buenas obras son evidentes desde el principio.
--   Otras requieren tiempo para ser observadas.
--   Pablo presenta el mismo principio aplicado en el versículo anterior a los pecados.
--   Ni el pecado ni las buenas obras permanecen ocultos para siempre.
--   La observación paciente permite ver aquello que realmente caracteriza a una persona.
 
-> Pablo enseña que los ancianos que sirven fielmente, especialmente en la predicación y la enseñanza, deben recibir el debido honor por su labor dentro del pueblo de Dios.
+> En Síntesis
 >- Pablo enseña que los ancianos que sirven fielmente, especialmente en la predicación y la enseñanza, deben recibir el debido honor por su labor dentro del pueblo de Dios.
 >- Al mismo tiempo, los ancianos no están por encima de la corrección. Las acusaciones contra ellos deben tratarse con justicia, prudencia y evidencia suficiente.
 >- Cuando el pecado persiste, la corrección debe realizarse abiertamente para que la congregación comprenda la seriedad de apartarse del camino que Dios ha establecido.
@@ -3958,346 +4005,302 @@ De la misma manera, las buenas obras son evidentes, y las que no lo son no se pu
 
 ### 1 Timoteo 6:1
 Todos los que están bajo yugo como esclavos, consideren a sus propios amos como dignos de todo honor, para que el nombre de Dios y nuestra doctrina no sean blasfemados.
+
 #### Todos los que están bajo yugo como esclavos...
-##### Pablo ahora dirige su atención a los creyentes que vivían como esclavos.
+##### Pablo ahora dirige su atención a los creyentes que <u>vivían</u> como esclavos.
 
-##### La iglesia estaba compuesta por personas de distintas condiciones sociales, incluyendo esclavos y amos.
+##### La iglesia estaba compuesta por personas de distintas condiciones sociales, incluyendo esclavos y <u>amos</u>.
 
-##### La unidad espiritual en Cristo no eliminaba automáticamente las circunstancias sociales en las que cada creyente vivía.
+##### La unidad espiritual en Cristo no eliminaba automáticamente las circunstancias sociales en las que <u>cada</u> creyente vivía.
 
 #### consideren a sus propios amos como dignos de todo honor...
-##### Pablo llama a los esclavos creyentes a mostrar honor hacia sus amos.
+##### Pablo llama a los esclavos creyentes a mostrar <u>honor</u> hacia sus amos.
 
-##### El énfasis no recae sobre los méritos del amo, sino sobre la conducta del creyente.
+##### El énfasis no recae sobre los <u>méritos</u> del amo, sino sobre la conducta del creyente.
 
-##### Aun en una situación difícil, el creyente podía manifestar piedad mediante una actitud de respeto.
+##### Aun en una situación difícil, el creyente <u>podía</u> manifestar piedad mediante una actitud de respeto.
 
 #### para que el nombre de Dios y nuestra doctrina no sean blasfemados.
-##### Pablo presenta la razón para esta conducta.
+##### Pablo presenta la razón para <u>esta</u> conducta.
 
-##### La manera en que los creyentes viven afecta la percepción que otros tienen acerca de Dios y de la enseñanza cristiana.
+##### La manera en que los creyentes viven afecta la percepción que otros tienen <u>acerca</u> de Dios y de la enseñanza cristiana.
 
-##### Por esta razón, la conducta del creyente no es solamente un asunto personal.
+##### Por esta razón, la conducta del creyente no es solamente un <u>asunto</u> personal.
 
-##### También forma parte del testimonio visible del evangelio delante de otros.
-
-##### Atención especial
--   La piedad debe manifestarse en todas las relaciones humanas.
--   La conducta del creyente puede honrar o desacreditar aquello que profesa.
--   Pablo conecta directamente el comportamiento diario con el testimonio del nombre de Dios.
--   El principio puede aplicarse a diversas relaciones de autoridad y responsabilidad.
+##### También forma <u>parte</u> del testimonio visible del evangelio delante de otros.
 
 ### 1 Timoteo 6:2
 Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos, sino sírvanles aún mejor, ya que son creyentes y amados los que se benefician de su servicio. Enseña y predica estos principios.
+
 #### Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos...
-##### Pablo ahora trata una situación particular dentro de la iglesia.
+##### Pablo ahora trata una situación particular <u>dentro</u> de la iglesia.
 
-##### ¿Qué sucede cuando tanto el esclavo como el amo son creyentes?
+##### ¿Qué sucede cuando tanto el esclavo <u>como</u> el amo son creyentes?
 
-##### La igualdad espiritual en Cristo no debía utilizarse como excusa para disminuir el respeto debido dentro de esa relación.
+##### La igualdad espiritual en Cristo no debía utilizarse como excusa para disminuir el respeto <u>debido</u> dentro de esa relación.
 
 ##### Por ser hermanos en la fe, algunos podían sentirse tentados a tratar a sus amos con menos consideración.
 
-##### Pablo corrige esa idea.
+##### Pablo corrige esa <u>idea</u>.
 
 #### ...sino sírvanles aún mejor...
-##### La respuesta correcta no era reducir el servicio, sino aumentarlo.
+##### La respuesta correcta no era reducir el servicio, <u>sino</u> aumentarlo.
 
-##### La relación espiritual entre ambos debía producir una actitud de mayor disposición y cuidado.
+##### La relación espiritual entre ambos <u>debía</u> producir una actitud de mayor disposición y cuidado.
 
 #### ...ya que son creyentes y amados los que se benefician de su servicio.
-##### La motivación presentada por Pablo es el amor fraternal.
+##### La motivación presentada por <u>Pablo</u> es el amor fraternal.
 
-##### El servicio prestado beneficia a hermanos amados dentro de la familia de Dios.
+##### El servicio prestado beneficia a hermanos amados dentro de la <u>familia</u> de Dios.
 
-##### Por esa razón, el creyente debía servir con mayor diligencia y no con menor interés.
+##### Por esa razón, el creyente debía <u>servir</u> con mayor diligencia y no con menor interés.
 
 #### Enseña y predica estos principios.
 ##### Timoteo debía enseñar estas cosas a la iglesia.
 
-##### Estas instrucciones forman parte de cómo debe conducirse la casa de Dios en las relaciones diarias.
-
-##### Atención especial
--   La igualdad espiritual no elimina todas las diferencias de responsabilidad o función.
--   Pablo no disminuye el respeto debido cuando ambas personas son creyentes.
--   La relación de hermanos en Cristo debía producir mayor disposición para servir.
--   La piedad se hace visible también en la manera en que servimos a otros miembros de la familia de Dios.
+##### Estas instrucciones forman <u>parte</u> de cómo debe conducirse la casa de Dios en las relaciones diarias.
 
 ## 1 Timoteo 6:3–10 - La falsa enseñanza produce frutos contrarios al propósito
 
 ### 1 Timoteo 6:3
 Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras, las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad,
-#### Si alguno enseña una doctrina diferente y no se conforma a las sanas palabras,
-##### Pablo ahora vuelve a contrastar la sana enseñanza con la falsa enseñanza.
 
-##### Después de instruir a Timoteo a enseñar estas cosas, presenta el caso de quienes enseñan algo diferente.
+#### Si alguno enseña una doctrina diferente y no se conforma a las sanas palabras,
+##### Pablo ahora <u>vuelve</u> a contrastar la sana enseñanza con la falsa enseñanza.
+
+##### Después de instruir a Timoteo a <u>enseñar</u> estas cosas, presenta el caso de quienes enseñan algo diferente.
 
 #### ...las de nuestro Señor Jesucristo...
-##### La autoridad de la enseñanza cristiana no proviene de las opiniones humanas.
+##### La autoridad de la enseñanza cristiana no proviene de las <u>opiniones</u> humanas.
 
-##### Proviene de las palabras de nuestro Señor Jesucristo.
+##### Proviene de las palabras de <u>nuestro</u> Señor Jesucristo.
 
-##### Por esa razón, la verdad no debe ser medida por su popularidad ni por la aceptación que tenga entre las personas.
+##### Por esa razón, la verdad no debe ser medida por su popularidad ni por la aceptación que tenga <u>entre</u> las personas.
 
 #### ...y a la doctrina que es conforme a la piedad...
-##### Pablo añade una característica importante de la sana doctrina.
+##### Pablo añade una característica importante de la <u>sana</u> doctrina.
 
-##### La enseñanza correcta produce un resultado visible.
+##### La enseñanza correcta produce un resultado <u>visible</u>.
 
-##### Es conforme a la piedad.
+##### Es conforme a la <u>piedad</u>.
 
-##### La verdad de Dios no fue dada solamente para informar la mente, sino también para producir una vida que refleje el carácter de Dios.
+##### La verdad de Dios no fue dada solamente para informar la mente, sino también para <u>producir</u> una vida que refleje el carácter de Dios.
 
-##### Este versículo resume una idea que ha aparecido repetidamente a lo largo de la carta.
--   La sana doctrina conduce a la piedad.
--   La falsa enseñanza conduce al desvío.
+##### Este versículo resume una idea que ha aparecido repetidamente a lo <u>largo</u> de la carta.
+-   La <u>sana</u> doctrina conduce a la piedad.
+-   La falsa enseñanza conduce al <u>desvío</u>.
 
-##### Por esta razón, la enseñanza debe evaluarse no solamente por lo que afirma, sino también por el fruto que produce.
-
-##### Atención especial
--   Pablo conecta directamente doctrina y piedad.
--   La enseñanza de Cristo tiene un propósito práctico en la vida del creyente.
--   La piedad no es producida por métodos humanos, sino por la verdad de Dios.
--   La falsa enseñanza siempre termina alejando a las personas del propósito de Dios.
+##### Por esta razón, la enseñanza debe evaluarse no solamente por lo que afirma, sino también por el <u>fruto</u> que produce.
 
 ### 1 Timoteo 6:4
 está envanecido y nada entiende, sino que tiene un interés corrompido en discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas,
+
 #### está envanecido y nada entiende...
-##### Pablo comienza describiendo la condición de quien rechaza las sanas palabras de nuestro Señor Jesucristo.
+##### Pablo comienza describiendo la condición de <u>quien</u> rechaza las sanas palabras de nuestro Señor Jesucristo.
 
-##### Esta persona tiene una percepción equivocada de sí misma.
+##### Esta persona <u>tiene</u> una percepción equivocada de sí misma.
 
-##### Aunque cree comprender, Pablo afirma que en realidad no entiende.
+##### Aunque cree comprender, Pablo <u>afirma</u> que en realidad no entiende.
 
 #### ...sino que tiene un interés corrompido...
-##### En lugar de interesarse por la verdad que conduce a la piedad, desarrolla una inclinación enfermiza hacia otra clase de asuntos.
+##### En lugar de interesarse por la verdad que conduce a la piedad, desarrolla una inclinación enfermiza <u>hacia</u> otra clase de asuntos.
 
-##### Su atención no está centrada en el propósito de Dios.
+##### Su atención no está <u>centrada</u> en el propósito de Dios.
 
 #### ...en discusiones y contiendas de palabras...
 ##### Pablo identifica el objeto de ese interés.
 
-##### La persona se ocupa continuamente en debates, controversias y disputas acerca de palabras.
+##### La persona se ocupa continuamente en debates, controversias y disputas <u>acerca</u> de palabras.
 
-##### La atención deja de estar en la verdad y pasa a estar en la discusión misma.
+##### La atención deja de estar en la verdad y <u>pasa</u> a estar en la discusión misma.
 
 #### ...de las cuales nacen...
-##### Pablo ahora muestra el fruto producido por este tipo de enseñanza.
+##### Pablo ahora muestra el <u>fruto</u> producido por este tipo de enseñanza.
 
-##### Así como la sana doctrina es conforme a la piedad, estas discusiones producen resultados completamente diferentes.
+##### Así como la <u>sana</u> doctrina es conforme a la piedad, estas discusiones producen resultados completamente diferentes.
 
 #### ...envidias...
-##### En lugar de amor, aparecen celos y rivalidades.
+##### En lugar de amor, aparecen <u>celos</u> y rivalidades.
 
 #### ...pleitos...
 ##### Las relaciones comienzan a caracterizarse por conflictos y enfrentamientos.
 
 #### ...blasfemias...
-##### Las palabras dejan de edificar y comienzan a dañar.
+##### Las palabras dejan de <u>edificar</u> y comienzan a dañar.
 
 #### ...malas sospechas...
 ##### La confianza es reemplazada por la desconfianza.
 
-##### Las personas comienzan a atribuir malas intenciones a otros sin fundamento suficiente.
-
-##### Atención especial
--   Pablo conecta la doctrina con sus frutos.
--   La sana doctrina produce piedad.
--   La falsa enseñanza produce división.
--   El problema no es solamente el contenido enseñado, sino también el resultado que produce en las relaciones.
--   El fruto revela la naturaleza de la enseñanza.
+##### Las personas comienzan a atribuir malas intenciones a <u>otros</u> sin fundamento suficiente.
 
 ### 1 Timoteo 6:5
 y constantes rencillas entre hombres de mente depravada, que están privados de la verdad, que suponen que la piedad es un medio de ganancia.
+
 #### y...nacen...constantes rencillas entre hombres de mente depravada...
-##### El resultado final de estas discusiones no es crecimiento espiritual.
+##### El resultado final de <u>estas</u> discusiones no es crecimiento espiritual.
 
-##### Produce conflictos continuos entre personas cuya manera de pensar ha sido corrompida.
+##### Produce conflictos continuos <u>entre</u> personas cuya manera de pensar ha sido corrompida.
 
-##### En lugar de avanzar hacia la piedad, terminan atrapados en enfrentamientos constantes.
+##### En lugar de avanzar hacia la <u>piedad</u>, terminan atrapados en enfrentamientos constantes.
 
 #### ...que están privados de la verdad...
-##### Pablo identifica la raíz del problema.
+##### Pablo identifica la <u>raíz</u> del problema.
 
 ##### Estas personas carecen de la verdad.
 
-##### No porque la verdad no exista, sino porque se han apartado de ella.
+##### No porque la verdad no exista, <u>sino</u> porque se han apartado de ella.
 
-##### Mientras las sanas palabras de Cristo conducen a la piedad, ellos permanecen alejados de aquello que produce verdadero crecimiento espiritual.
+##### Mientras las sanas palabras de Cristo conducen a la piedad, ellos permanecen alejados de <u>aquello</u> que produce verdadero crecimiento espiritual.
 
 #### ...que suponen que la piedad es un medio de ganancia.
 ##### Pablo finalmente expone una de las motivaciones detrás de esta conducta.
 
-##### Estas personas consideran la piedad como un medio para obtener beneficios.
+##### Estas personas consideran la piedad <u>como</u> un medio para obtener beneficios.
 
 ##### La apariencia de espiritualidad es utilizada para alcanzar objetivos personales.
 
-##### Así, la piedad deja de ser vista como una expresión de la verdad y pasa a ser tratada como una herramienta para obtener ganancia.
-
-##### Atención especial
--   La falsa enseñanza produce división y conflictos constantes.
--   Pablo conecta el problema con una falta de apego a la verdad.
--   La piedad puede ser imitada externamente sin comprender su propósito.
+##### Así, la piedad deja de ser <u>vista</u> como una expresión de la verdad y pasa a ser tratada como una herramienta para obtener ganancia.
+-   Atención especial
+-   La <u>falsa</u> enseñanza produce división y conflictos constantes.
+-   Pablo conecta el problema con una falta de <u>apego</u> a la verdad.
+-   La piedad <u>puede</u> ser imitada externamente sin comprender su propósito.
 -   El peligro consiste en usar las cosas de Dios para beneficio personal.
--   La verdadera piedad no existe para producir ganancia; existe como resultado de la verdad de Dios obrando en la vida del creyente.
+-   La verdadera piedad no existe para producir ganancia; existe como resultado de la verdad de Dios obrando en la vida del <u>creyente</u>.
 
 ### 1 Timoteo 6:6
 Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.
+
 #### Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento.
-##### Pablo responde directamente a quienes consideran la piedad como un medio para obtener beneficios personales.
+##### Pablo responde directamente a <u>quienes</u> consideran la piedad como un medio para obtener beneficios personales.
 
-##### En cierto sentido, ellos tienen razón al asociar la piedad con ganancia.
+##### En cierto sentido, ellos tienen <u>razón</u> al asociar la piedad con ganancia.
 
-##### Sin embargo, están equivocados acerca de cuál es esa ganancia.
+##### Sin embargo, están equivocados acerca de <u>cuál</u> es esa ganancia.
 
 #### ...es un medio de gran ganancia...
 ##### La verdadera piedad produce una ganancia mucho mayor que la que buscan los falsos maestros.
 
-##### No se trata principalmente de riquezas, prestigio o ventajas materiales.
+##### No se <u>trata</u> principalmente de riquezas, prestigio o ventajas materiales.
 
-##### Se trata de un beneficio que permanece aun cuando las circunstancias cambian.
+##### Se trata de un beneficio que permanece aun cuando las circunstancias <u>cambian</u>.
 
 #### ...cuando va acompañada de contentamiento.
-##### La ganancia mencionada por Pablo está unida al contentamiento.
+##### La ganancia mencionada por Pablo está <u>unida</u> al contentamiento.
 
-##### La persona piadosa aprende a descansar en la suficiencia de Dios.
+##### La persona <u>piadosa</u> aprende a descansar en la suficiencia de Dios.
 
 ##### Su satisfacción no depende de obtener más cosas, sino de confiar en Aquel que provee todo lo necesario.
 
-##### El problema de los falsos maestros no era solamente el deseo de obtener ganancia.
+##### El problema de los falsos maestros no era solamente el <u>deseo</u> de obtener ganancia.
 
-##### Era que buscaban satisfacción en aquello que podían conseguir.
+##### Era que buscaban satisfacción en aquello que <u>podían</u> conseguir.
 
-##### La piedad verdadera, en cambio, camina acompañada de contentamiento porque encuentra su suficiencia en Dios.
-
-##### Atención especial
--   Pablo no niega que exista una gran ganancia asociada con la piedad.
--   La diferencia está en la naturaleza de esa ganancia.
--   El contentamiento protege al creyente de convertir la piedad en un medio para obtener beneficios personales.
--   La satisfacción del creyente no depende principalmente de sus circunstancias.
--   La piedad y el contentamiento forman una combinación inseparable en la vida espiritual saludable.
+##### La piedad verdadera, en <u>cambio</u>, camina acompañada de contentamiento porque encuentra su suficiencia en Dios.
 
 ### 1 Timoteo 6:7
 Porque nada hemos traído al mundo, así que nada podemos sacar de él.
+
 #### Porque nada hemos traído al mundo, así que nada podemos sacar de él.
-##### Pablo ahora explica por qué el contentamiento tiene tanto valor.
+##### Pablo ahora explica por qué el contentamiento tiene <u>tanto</u> valor.
 
-##### Todo aquello que una persona posee en esta vida es temporal.
+##### Todo aquello que una persona posee en <u>esta</u> vida es temporal.
 
-##### Ninguno de nosotros trajo posesiones al entrar en el mundo.
+##### Ninguno de nosotros <u>trajo</u> posesiones al entrar en el mundo.
 
-##### De la misma manera, ninguno podrá llevarse sus posesiones al salir de él.
+##### De la misma manera, ninguno podrá llevarse sus posesiones al <u>salir</u> de él.
 
-##### Esta realidad expone la fragilidad de poner nuestra confianza en las riquezas o en las ganancias materiales.
+##### Esta realidad expone la fragilidad de <u>poner</u> nuestra confianza en las riquezas o en las ganancias materiales.
 
-##### Aquello que tanto esfuerzo demanda en esta vida no puede acompañarnos más allá de ella.
+##### Aquello que tanto esfuerzo demanda en esta vida no puede acompañarnos más <u>allá</u> de ella.
 
-##### Por esta razón, la verdadera ganancia no puede encontrarse en las cosas que pasan.
-
-##### Atención especial
--   Pablo enfatiza la naturaleza temporal de las posesiones materiales.
--   Todos entramos al mundo sin bienes materiales.
--   Todos saldremos del mundo sin bienes materiales.
--   Las riquezas son incapaces de proporcionar una seguridad permanente.
--   Esta realidad prepara el argumento de Pablo acerca del contentamiento en los versículos siguientes.
+##### Por esta razón, la verdadera ganancia no puede encontrarse en las cosas que <u>pasan</u>.
 
 ### 1 Timoteo 6:8
 Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.
-#### Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.
-##### Después de recordar que nada trajimos al mundo y nada podremos llevarnos, Pablo presenta una perspectiva sencilla acerca de las necesidades de la vida.
 
-##### El creyente no debe medir la suficiencia de Dios por la abundancia de bienes que posee.
+#### Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos.
+##### Después de recordar que nada trajimos al mundo y nada podremos llevarnos, Pablo presenta una perspectiva sencilla <u>acerca</u> de las necesidades de la vida.
+
+##### El creyente no debe medir la suficiencia de Dios por la abundancia de <u>bienes</u> que posee.
 
 #### ...si tenemos qué comer y con qué cubrirnos...
-##### Pablo menciona las necesidades básicas de la vida.
+##### Pablo menciona las necesidades <u>básicas</u> de la vida.
 
-##### El énfasis no está en acumular más, sino en reconocer la provisión de Dios para lo necesario.
+##### El <u>énfasis</u> no está en acumular más, sino en reconocer la provisión de Dios para lo necesario.
 
 #### ...con eso estaremos contentos.
-##### La persona piadosa aprende a estar satisfecha con la provisión que Dios le concede.
+##### La persona piadosa <u>aprende</u> a estar satisfecha con la provisión que Dios le concede.
 
-##### El contentamiento no nace de tener todo lo que se desea.
+##### El contentamiento no nace de <u>tener</u> todo lo que se desea.
 
-##### Nace de reconocer que Dios ha provisto aquello que realmente se necesita.
-
-##### Atención especial
--   Pablo define el contentamiento en términos muy sencillos.
--   La satisfacción no depende de la abundancia material.
--   La provisión de Dios es motivo suficiente para la gratitud.
--   El creyente aprende a valorar lo necesario antes que lo excesivo.
--   Este versículo prepara el contraste con quienes desean enriquecerse en los versículos siguientes.
+##### <u>Nace</u> de reconocer que Dios ha provisto aquello que realmente se necesita.
 
 ### 1 Timoteo 6:9
 Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición.
-#### Pero
-##### Pablo ahora presenta el contraste con el contentamiento del versículo anterior.
 
-##### Mientras que el creyente piadoso aprende a estar satisfecho con la provisión de Dios, otros fijan su deseo en enriquecerse.
+#### Pero
+##### Pablo ahora presenta el <u>contraste</u> con el contentamiento del versículo anterior.
+
+##### Mientras que el creyente <u>piadoso</u> aprende a estar satisfecho con la provisión de Dios, otros fijan su deseo en enriquecerse.
 
 #### ...los que quieren enriquecerse...
 ##### El énfasis no está sobre las riquezas en sí mismas.
 
-##### Pablo describe a personas cuyo deseo está orientado hacia obtener más.
+##### Pablo describe a personas <u>cuyo</u> deseo está orientado hacia obtener más.
 
 ##### Su satisfacción se encuentra en aquello que esperan conseguir.
 
 #### ...caen en tentación y lazo...
-##### Ese deseo los expone a peligros espirituales.
+##### Ese deseo los <u>expone</u> a peligros espirituales.
 
 ##### Lo que comenzó como una búsqueda de ganancia termina convirtiéndose en una trampa.
 
 #### ...y en muchos deseos necios y dañosos...
-##### El deseo de enriquecerse no permanece aislado.
+##### El deseo de enriquecerse no permanece <u>aislado</u>.
 
-##### Da lugar a otros deseos que carecen de sabiduría y producen daño.
+##### Da lugar a otros <u>deseos</u> que carecen de sabiduría y producen daño.
 
 #### ...que hunden a los hombres en la ruina y en la perdición.
-##### Pablo describe el resultado final de este camino.
+##### Pablo describe el resultado <u>final</u> de este camino.
 
-##### Aquello que parecía prometer satisfacción termina conduciendo a destrucción.
-
-##### Atención especial
--   Pablo contrasta el contentamiento con el deseo de enriquecerse.
--   El problema señalado no es la posesión de riquezas, sino la orientación del corazón hacia ellas.
--   El deseo de enriquecerse expone a la persona a múltiples tentaciones.
--   Los deseos equivocados terminan produciendo consecuencias destructivas.
--   El camino del contentamiento y el camino de la codicia conducen a resultados completamente diferentes.
+##### Aquello que parecía prometer satisfacción <u>termina</u> conduciendo a destrucción.
 
 ### 1 Timoteo 6:10
 Porque la raíz de todos los males es el amor al dinero, por el cual, codiciándolo algunos, se extraviaron de la fe y se torturaron con muchos dolores.
+
 #### Porque la raíz de todos los males es el amor al dinero...
-##### Pablo ahora identifica la raíz del problema que viene describiendo.
+##### Pablo ahora identifica la <u>raíz</u> del problema que viene describiendo.
 
-##### El dinero en sí mismo no es presentado como algo malo.
+##### El <u>dinero</u> en sí mismo no es presentado como algo malo.
+-   Tampoco dice que toda persona con recursos sea culpable.
 
-##### El problema es el amor al dinero.
+##### El problema es el amor al <u>dinero</u>.
 
-##### Cuando el corazón encuentra su seguridad, satisfacción o propósito en las riquezas, se abre la puerta a muchos otros males.
+##### Cuando el corazón encuentra su seguridad, satisfacción o propósito en las riquezas, se abre la <u>puerta</u> a muchos otros males.
 
 #### ...por el cual, codiciándolo algunos, se extraviaron de la fe...
-##### Pablo muestra las consecuencias de este amor al dinero.
+##### Pablo muestra las consecuencias de este <u>amor</u> al dinero.
 
-##### Algunos comenzaron a perseguir las riquezas en lugar de permanecer firmes en la verdad.
+##### Algunos comenzaron a perseguir las riquezas en <u>lugar</u> de permanecer firmes en la verdad.
 
-##### Su atención dejó de estar puesta en aquello que conduce a la piedad y pasó a estar orientada hacia la ganancia material.
+##### Su atención <u>dejó</u> de estar puesta en aquello que conduce a la piedad y pasó a estar orientada hacia la ganancia material.
 
-##### Como resultado, se desviaron del camino de la fe.
+##### Como resultado, se desviaron del <u>camino</u> de la fe.
 
 #### ...y se torturaron con muchos dolores.
 ##### El resultado final no fue la satisfacción que esperaban encontrar.
 
 ##### Aquello que prometía seguridad terminó produciendo sufrimiento.
 
-##### Pablo describe una vida marcada por dolor y aflicción como consecuencia de seguir ese camino.
-
-##### Atención especial
--   Pablo distingue entre el dinero y el amor al dinero.
+##### Pablo describe una <u>vida</u> marcada por dolor y aflicción como consecuencia de seguir ese camino.
+-   Atención especial
+-   Pablo distingue entre el dinero y el <u>amor</u> al dinero.
 -   El problema no es la posesión de riquezas, sino la devoción a ellas.
--   La codicia puede desviar a una persona de la verdad.
+-   La codicia puede <u>desviar</u> a una persona de la verdad.
 -   La búsqueda obsesiva de riqueza no produce la satisfacción prometida.
--   El amor al dinero contrasta directamente con el contentamiento mencionado en los versículos anteriores.
+-   El amor al dinero contrasta directamente con el contentamiento mencionado en los versículos <u>anteriores</u>.
 
-> Pablo muestra que la piedad debe expresarse en las relaciones diarias, incluso en contextos de autoridad, responsabilidad y servicio.
+> En Síntesis
 >- Pablo muestra que la piedad debe expresarse en las relaciones diarias, incluso en contextos de autoridad, responsabilidad y servicio.
 >- Después de exhortar a los creyentes a conducirse de manera que honre a Dios, vuelve a advertir acerca de quienes enseñan doctrinas diferentes y se apartan de las sanas palabras de nuestro Señor Jesucristo.
 >- La sana enseñanza es conforme a la piedad y contribuye al propósito de Dios, mientras que la falsa enseñanza produce orgullo, controversias, divisiones y conflictos.
@@ -4309,87 +4312,76 @@ Porque la raíz de todos los males es el amor al dinero, por el cual, codiciánd
 
 ### 1 Timoteo 6:11
 Pero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
+
 #### Pero tú, oh hombre de Dios...
-##### Después de describir a quienes se han desviado por amor al dinero, Pablo vuelve a dirigirse personalmente a Timoteo.
+##### Después de describir a <u>quienes</u> se han desviado por amor al dinero, Pablo vuelve a dirigirse personalmente a Timoteo.
 
-##### La expresión "*hombre de Dios*" era utilizada en las Escrituras para describir a personas que servían al Señor y actuaban como Sus representantes.
+##### La expresión "*hombre de Dios*" era utilizada en las Escrituras para describir a personas que <u>servían</u> al Señor y actuaban como Sus representantes.
 
-##### Pablo recuerda a Timoteo la identidad que debía caracterizar su vida y ministerio.
+##### Pablo recuerda a Timoteo la identidad que <u>debía</u> caracterizar su vida y ministerio.
 
 #### ...huye de estas cosas...
-##### La respuesta de Timoteo frente a las cosas recién descritas no debía ser la tolerancia ni la curiosidad.
+##### La respuesta de Timoteo <u>frente</u> a las cosas recién descritas no debía ser la tolerancia ni la curiosidad.
 
-##### Debía alejarse de ellas.
+##### Debía <u>alejarse</u> de ellas.
 
 ##### El amor al dinero, las discusiones inútiles y las motivaciones equivocadas no debían ocupar lugar en su vida.
 
 #### ...y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
 ##### No basta con huir de lo malo.
 
-##### Timoteo también debía perseguir aquello que es conforme al propósito de Dios.
+##### Timoteo también debía perseguir aquello que es <u>conforme</u> al propósito de Dios.
 
 #### ...la justicia...
-##### Una vida alineada con lo que Dios considera correcto.
+##### Una <u>vida</u> alineada con lo que Dios considera correcto.
 
 #### ...la piedad...
-##### Una vida que expresa externamente la obra de Dios.
+##### Una vida que expresa externamente la <u>obra</u> de Dios.
 
 ##### ...la fe...
 
-##### Permanecer firme en la verdad recibida.
+##### Permanecer <u>firme</u> en la verdad recibida.
 
 #### ...el amor...
-##### La meta del mandato que Pablo ha venido enfatizando desde el comienzo de la carta.
+##### La meta del mandato que Pablo ha venido enfatizando <u>desde</u> el comienzo de la carta.
 
 #### ...la perseverancia...
-##### Continuar firmemente aun cuando existan dificultades.
+##### Continuar firmemente <u>aun</u> cuando existan dificultades.
 
 #### ...y la amabilidad.
 ##### Una actitud humilde y considerada hacia los demás.
 
-##### Atención especial
--   Pablo contrasta directamente a Timoteo con los falsos maestros.
--   Algunas cosas deben evitarse; otras deben perseguirse activamente.
--   La vida cristiana no consiste solamente en abandonar el error.
--   También consiste en avanzar hacia aquello que es conforme a la piedad.
--   La lista presentada por Pablo describe el carácter que debe distinguir a un hombre de Dios.
-
 ### 1 Timoteo 6:12
 Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado, y de la que hiciste buena profesión en presencia de muchos testigos.
+
 #### Pelea la buena batalla de la fe...
-##### Timoteo debía continuar firme en aquello que había recibido.
+##### Timoteo debía continuar firme en <u>aquello</u> que había recibido.
 
 ##### La fe no se presenta aquí como algo pasivo.
 
-##### Pablo la describe como una batalla que requiere perseverancia y fidelidad.
+##### Pablo la <u>describe</u> como una batalla que requiere perseverancia y fidelidad.
 
 #### Echa mano de la vida eterna a la cual fuiste llamado...
-##### Pablo anima a Timoteo a apropiarse de aquello para lo cual había sido llamado.
+##### Pablo anima a Timoteo a apropiarse de <u>aquello</u> para lo cual había sido llamado.
 
 ##### La expresión *echa mano* comunica la idea de aferrarse firmemente.
 
-##### Timoteo no debía vivir distraído por las cosas temporales, sino participar activamente de la vida que Dios le había dado en Cristo.
+##### Timoteo no <u>debía</u> vivir distraído por las cosas temporales, sino participar activamente de la vida que Dios le había dado en Cristo.
 
-##### La vida eterna ocupa un lugar central en esta sección porque contrasta con las cosas pasajeras que dominan las preocupaciones de los falsos maestros.
+##### La vida eterna ocupa un lugar <u>central</u> en esta sección porque contrasta con las cosas pasajeras que dominan las preocupaciones de los falsos maestros.
 
-##### Mientras algunos persiguen ganancias temporales, Timoteo debía aferrarse a aquello que permanece.
+##### Mientras algunos persiguen ganancias temporales, Timoteo debía aferrarse a <u>aquello</u> que permanece.
 
 #### ...y de la que hiciste buena profesión en presencia de muchos testigos...
-##### Pablo recuerda a Timoteo que esta realidad no era nueva.
+##### Pablo recuerda a Timoteo que esta realidad no era <u>nueva</u>.
 
-##### Él ya había confesado públicamente su fe delante de muchos testigos.
+##### Él ya <u>había</u> confesado públicamente su fe delante de muchos testigos.
 
-##### Ahora debía continuar viviendo de manera consistente con aquello que había declarado.
-
-##### Atención especial
--   La fe requiere perseverancia.
--   Pablo contrasta lo temporal con lo eterno.
--   Timoteo debía aferrarse a aquello para lo cual había sido llamado.
--   La confesión pública de la fe trae consigo responsabilidad y perseverancia.
--   La vida eterna aparece como una realidad que debe influir en la vida presente del creyente.
+##### Ahora debía continuar viviendo de manera consistente con <u>aquello</u> que había declarado.
 
 ### 1 Timoteo 6:13
 Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato,
+
 #### Te mando delante de Dios, que da vida a todas las cosas...
 ##### Pablo introduce esta exhortación con <u>gran</u> solemnidad.
 
@@ -4412,15 +4404,9 @@ Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que
 
 ##### Ahora Timoteo <u>debía</u> seguir el mismo ejemplo.
 
-##### Atención especial
--   Pablo presenta esta exhortación delante de Dios y de <u>Cristo</u> Jesús.
--   Dios es descrito como el que da <u>vida</u>.
--   Cristo es presentado <u>como</u> ejemplo de fidelidad en su testimonio.
--   Timoteo había hecho una buena confesión y <u>debía</u> perseverar en ella.
--   La fidelidad de Cristo <u>sirve</u> de modelo para el ministerio de Timoteo.
-
 ### 1 Timoteo 6:14
 que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nuestro Señor Jesucristo,
+
 #### que guardes el mandamiento...
 ##### Esta es la <u>razón</u> por la que Pablo ha recordado a Timoteo su llamado, su confesión y el ejemplo de Cristo.
 
@@ -4442,15 +4428,9 @@ que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nue
 
 ##### La mirada permanece puesta en el <u>regreso</u> del Señor y no en las circunstancias presentes.
 
-##### Atención especial
--   Pablo resume aquí el <u>encargo</u> dado a Timoteo.
--   La enseñanza <u>debía</u> conservarse fielmente.
--   El ministerio requiere perseverancia a <u>largo</u> plazo.
--   Cristo sigue <u>siendo</u> la referencia final del servicio cristiano.
--   La expectativa de la manifestación de Cristo da perspectiva a <u>todo</u> el ministerio presente.
-
 ### 1 Timoteo 6:15
 la cual manifestará a su debido tiempo el bienaventurado y único Soberano, el Rey de reyes y Señor de señores;
+
 #### la cual manifestará a su debido tiempo...
 ##### La referencia parece cambiar de Jesucristo, <u>quien</u> será manifestado, a Dios Padre, quien manifestará a Cristo en el tiempo señalado.
 
@@ -4472,14 +4452,9 @@ la cual manifestará a su debido tiempo el bienaventurado y único Soberano, el 
 
 ##### Nadie gobierna independientemente de Su <u>voluntad</u>.
 
-##### Atención <u>especial</u>
--   Cristo será manifestado en el <u>tiempo</u> determinado por Dios.
--   La historia <u>avanza</u> según el propósito de Dios y no según el de los hombres.
--   Pablo exalta la autoridad suprema de Dios <u>antes</u> de continuar describiendo Su gloria.
--   El <u>énfasis</u> principal es la soberanía absoluta de Dios sobre toda autoridad creada.
-
 ### 1 Timoteo 6:16
 el único que tiene inmortalidad y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver. A Él sea la honra y el dominio eterno. Amén.
+
 #### el único que tiene inmortalidad...
 ##### Pablo <u>continúa</u> exaltando la grandeza de Dios.
 
@@ -4510,17 +4485,11 @@ el único que tiene inmortalidad y habita en luz inaccesible, a quien ningún ho
 
 ##### Su autoridad no <u>tiene</u> fin.
 
-##### <u>Atención</u> especial
--   Dios <u>posee</u> vida en Sí mismo.
--   Dios es completamente <u>distinto</u> de Su creación.
--   Su <u>gloria</u> es presentada como luz inaccesible.
--   Ningún hombre <u>puede</u> contemplar plenamente a Dios en toda Su majestad.
--   Pablo concluye esta sección exaltando la <u>honra</u> y el dominio eterno de Dios.
-
 ## 1 Timoteo 6:17–19 - Los bienes deben servir al propósito de Dios
 
 ### 1 Timoteo 6:17
 A los ricos en este mundo, enséñales que no sean altaneros ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, el cual nos da abundantemente todas las cosas para que las disfrutemos.
+
 #### A los ricos en este mundo...
 ##### Pablo ahora se <u>dirige</u> a creyentes que poseen riquezas materiales.
 
@@ -4560,16 +4529,9 @@ A los ricos en este mundo, enséñales que no sean altaneros ni pongan su espera
 
 ##### El problema no es poseer <u>bienes</u>, sino confiar en ellos o encontrar en ellos nuestra seguridad.
 
-##### Atención especial
--   Pablo se dirige específicamente a creyentes <u>ricos</u>.
--   La riqueza material pertenece a esta <u>vida</u> temporal.
--   El <u>orgullo</u> y la autosuficiencia son peligros asociados a las riquezas.
--   La esperanza del creyente debe estar <u>puesta</u> en Dios.
--   Dios es la <u>fuente</u> de toda provisión.
--   Las posesiones pueden disfrutarse con gratitud, pero <u>nunca</u> deben reemplazar la confianza en Dios.
-
 ### 1 Timoteo 6:18
 Enséñales que hagan bien, que sean ricos en buenas obras, generosos y prontos a compartir,
+
 #### Enséñales que hagan bien...
 ##### La confianza en Dios debe expresarse de <u>manera</u> práctica.
 
@@ -4594,15 +4556,9 @@ Enséñales que hagan bien, que sean ricos en buenas obras, generosos y prontos 
 
 ##### La riqueza puesta al servicio de las <u>buenas</u> obras se convierte en una bendición para la iglesia y para quienes reciben ayuda.
 
-##### Atención especial
--   La confianza en Dios <u>debe</u> reflejarse en acciones concretas.
--   Pablo anima a los creyentes <u>ricos</u> a abundar en buenas obras.
--   La generosidad demuestra una confianza <u>correcta</u> en Dios.
--   Compartir es lo opuesto a <u>vivir</u> para acumular.
--   La riqueza material puede ser utilizada para el bien de <u>otros</u>.
-
 ### 1 Timoteo 6:19
 acumulando para sí el tesoro de un buen fundamento para el futuro, para que puedan echar mano de lo que en verdad es vida.
+
 #### acumulando para sí el tesoro...
 ##### Al usar sus recursos para <u>hacer</u> el bien, ser generosos y compartir, los creyentes ricos están invirtiendo en algo que tiene valor permanente.
 
@@ -4624,17 +4580,11 @@ acumulando para sí el tesoro de un buen fundamento para el futuro, para que pue
 
 ##### Se encuentra en participar de <u>aquello</u> que Dios valora y en vivir conforme a Su propósito.
 
-##### Atención especial
--   Pablo utiliza el lenguaje de inversión y acumulación para enseñar una <u>verdad</u> espiritual.
--   Las <u>riquezas</u> materiales son temporales; las recompensas eternas permanecen.
--   El creyente puede utilizar sus recursos <u>presentes</u> para propósitos futuros.
--   La verdadera <u>vida</u> no consiste en la abundancia de posesiones.
--   El versículo conecta con 1 Timoteo 6:12, <u>donde</u> Timoteo debía echar mano de la vida eterna.
-
 ## 1 Timoteo 6:20–21 - El encargo debe ser guardado
 
 ### 1 Timoteo 6:20
 Timoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y profanas, y las objeciones de lo que falsamente se llama ciencia,
+
 #### Timoteo, guarda lo que se te ha encomendado...
 ##### Pablo concluye la <u>carta</u> regresando a una de sus preocupaciones principales.
 
@@ -4658,7 +4608,7 @@ Timoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y 
 
 ##### Timoteo debía permanecer <u>firme</u> en la enseñanza recibida y no dejarse desviar por argumentos que contradicen la fe.
 
-##### <u>Atención</u> especial
+##### Atención especial
 -   Pablo termina la carta enfatizando nuevamente el <u>encargo</u> dado a Timoteo.
 -   La verdad <u>debía</u> ser protegida y transmitida fielmente.
 -   Las discusiones <u>vacías</u> no contribuyen al propósito de Dios.
@@ -4667,7 +4617,9 @@ Timoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y 
 
 ### 1 Timoteo 6:21
 la cual profesándola algunos, se han desviado de la fe. La gracia sea con ustedes.
-##### Pablo concluye <u>mostrando</u> el resultado de aquello que acaba de advertir.
+
+#### la cual profesándola algunos
+##### Pablo llega a la conclusión <u>mostrando</u> el resultado de aquello que acaba de advertir.
 
 ##### Algunos adoptaron y promovieron <u>aquello</u> que falsamente era presentado como conocimiento.
 
@@ -4695,34 +4647,27 @@ la cual profesándola algunos, se han desviado de la fe. La gracia sea con usted
 
 ##### Todos necesitaban aprender <u>cómo</u> conducirse en la casa de Dios y cómo permanecer firmes en la verdad.
 
-##### Atención especial
--   Algunos adoptaron enseñanzas que <u>parecían</u> conocimiento verdadero.
--   El <u>resultado</u> fue desviarse de la fe.
--   Pablo termina la carta <u>donde</u> comenzó: preocupado por la sana enseñanza.
--   La gracia de Dios sigue <u>siendo</u> la provisión para permanecer firmes.
--   La carta beneficia tanto a Timoteo como a toda la <u>iglesia</u>.
-
 ## Conclusión
 
-Pablo escribió esta carta porque algunos se habían desviado hacia enseñanzas diferentes, discusiones inútiles y vana palabrería. Frente a ese problema, no solamente corrigió el error, sino que declaró claramente el propósito de la instrucción: el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
+##### Pablo escribió esta carta porque algunos se habían desviado hacia enseñanzas diferentes, discusiones inútiles y vana palabrería. Frente a ese problema, no solamente corrigió el error, sino que declaró claramente el propósito de la instrucción: el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
 
-A lo largo de la carta, Pablo muestra cómo ese propósito debe expresarse en la casa de Dios. La oración, la conducta de hombres y mujeres, el servicio de ancianos y diáconos, el cuidado de las viudas, las relaciones entre los creyentes y la perseverancia en la enseñanza no aparecen como temas aislados. Todos contribuyen al mismo propósito.
+##### A lo largo de la carta, Pablo muestra cómo ese propósito debe expresarse en la casa de Dios. La oración, la conducta de hombres y mujeres, el servicio de ancianos y diáconos, el cuidado de las viudas, las relaciones entre los creyentes y la perseverancia en la enseñanza no aparecen como temas aislados. Todos contribuyen al mismo propósito.
 
-Por esta razón, la sana enseñanza debía ser guardada. No porque el conocimiento sea una meta en sí mismo, sino porque la enseñanza que procede de Dios conduce al propósito que Él desea producir en Su pueblo. Cuando ese propósito es abandonado, aparecen las discusiones, la vanidad, los conflictos y el interés propio. Cuando es preservado, el amor se hace visible.
+##### Por esta razón, la sana enseñanza debía ser guardada. No porque el conocimiento sea una meta en sí mismo, sino porque la enseñanza que procede de Dios conduce al propósito que Él desea producir en Su pueblo. Cuando ese propósito es abandonado, aparecen las discusiones, la vanidad, los conflictos y el interés propio. Cuando es preservado, el amor se hace visible.
 
-La carta también advierte que algunos se desviarán y abandonarán este camino. Por eso Pablo exhorta repetidamente a Timoteo a perseverar, a enseñar estas cosas, a ser ejemplo de los creyentes y a guardar fielmente lo que le ha sido encomendado.
+##### La carta también advierte que algunos se desviarán y abandonarán este camino. Por eso Pablo exhorta repetidamente a Timoteo a perseverar, a enseñar estas cosas, a ser ejemplo de los creyentes y a guardar fielmente lo que le ha sido encomendado.
 
-El énfasis final de la carta no está en la organización, los cargos o los métodos. Está en el propósito que Pablo declaró desde el comienzo. La instrucción de Dios apunta a producir amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
+##### El énfasis final de la carta no está en la organización, los cargos o los métodos. Está en el propósito que Pablo declaró desde el comienzo. La instrucción de Dios apunta a producir amor nacido de un corazón puro, de una buena conciencia y de una fe sincera.
 
-Ese fue el propósito del encargo confiado a Timoteo.
+###### Ese fue el propósito del encargo confiado a Timoteo.
 
-Ese fue el propósito para la casa de Dios en Éfeso.
+###### Ese fue el propósito para la casa de Dios en Éfeso.
 
-Y sigue siendo el propósito para la iglesia hoy.
+###### Y sigue siendo el propósito para la iglesia hoy.
 
-**La gracia sea con ustedes.**
+###### **La gracia sea con ustedes.**
 
-> Pablo exhorta a Timoteo a apartarse de aquello que había caracterizado a los falsos maestros y a perseguir una vida marcada por la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
+> En Síntesis
 >- Pablo exhorta a Timoteo a apartarse de aquello que había caracterizado a los falsos maestros y a perseguir una vida marcada por la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad.
 >- La buena batalla consiste en permanecer fiel al encargo recibido, aferrándose a la vida eterna y guardando aquello que Dios le había confiado.
 >- La exhortación está fundamentada en la grandeza de Dios y en la futura manifestación de Jesucristo, delante de quien Timoteo debía servir con fidelidad y perseverancia.
@@ -4745,7 +4690,7 @@ Y sigue siendo el propósito para la iglesia hoy.
 
 ## El patrón bíblico
 
-### Edén
+##### Edén
 ##### Adán y Eva disfrutaban de comunión con Dios dentro del jardín.
 
 ##### Cuando pecaron, Dios los expulsó de Su presencia y del lugar donde habitaban.
@@ -4753,7 +4698,7 @@ Y sigue siendo el propósito para la iglesia hoy.
 -   Disciplina.
 -   Expulsión.
 
-### Israel en el desierto
+##### Israel en el desierto
 ##### Dios redimió a Israel de Egipto y lo llevó al desierto.
 
 ##### Cuando el pueblo persistió en la incredulidad, Dios lo disciplinó repetidamente.
@@ -4761,7 +4706,7 @@ Y sigue siendo el propósito para la iglesia hoy.
 -   Disciplina.
 -   Llamado al arrepentimiento.
 
-### Israel en la tierra
+##### Israel en la tierra
 ##### Dios estableció a Israel en la tierra prometida bajo el pacto mosaico.
 
 ##### Cuando la nación rechazó persistentemente a Dios, los profetas anunciaron juicio.
@@ -4769,7 +4714,7 @@ Y sigue siendo el propósito para la iglesia hoy.
 -   Advertencia.
 -   Disciplina.
 
-### Exilio
+##### Exilio
 ##### Finalmente Dios ejecutó las sanciones del pacto.
 
 ##### Israel y Judá fueron expulsados de la tierra.
