@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e7692aad70d18d63",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a58a62897b8f42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bdfcad29d4bc714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/How do we consciously cooperate with what Christ is doing?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How do we consciously cooperate with what Christ is doing?"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "893d8e3c004220a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e8f0ff44dceaf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103dd6e7a5e701da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6ae54d37412fdf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4099d55a5b173a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e84c303ddc255b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb420a18d2b3b6c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068f153c8c142dee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "questions/How do we consciously cooperate with what Christ is doing?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How do we consciously cooperate with what Christ is doing?"
+            }
+          },
+          {
+            "id": "1494323122f60be3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ec5ec36e5772bc60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dde7d1803500c7a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "454fe7773af254a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2bdfcad29d4bc714",
+  "lastOpenFiles": [
+    "questions/How are believers invited to participate in the Builder's work?.md",
+    "questions/How do we consciously cooperate with what Christ is doing?.md",
+    "questions/Is generational continuation an essential part of Christ's building work?.md",
+    "questions/What does \"until\" mean?.md",
+    "questions/What future purpose determines present preparation?.md",
+    "questions/What is Christ preparing His church for, and how are we invited to participate in that preparation?.md",
+    "questions/what is christ building?.md",
+    "questions/Untitled.md",
+    "questions/why does discipleship break?.md",
+    "observations/The builder's emotion.md",
+    "questions/why suffer? Why endure?.md",
+    "books/revelation/Revelation 2-3.md",
+    "books/ephesians/ephesians 4.md",
+    "questions/If Christ is preparing His people for this, what should we be doing now?.md",
+    "questions/How do we consciously participate in what the Builder is doing?.md",
+    "questions/What kind of people must Christ prepare if they are destined to reign with Him?.md",
+    "questions/why does Paul tell Timothy if we endure..we will reign?.md",
+    "questions/why does suffering precede glory?.md",
+    "questions/why does revelation emphasize overcoming?.md",
+    "questions/why does Paul speak so much about crowns?.md",
+    "questions/What does \"heir with Christ\" mean?.md",
+    "questions/What is the bride's role?.md",
+    "questions/What are believers promised?.md",
+    "questions/what is Christ preparing his church for?.md",
+    "The end determines the construction.md",
+    "questions/chat is christ preparing his people for?.md",
+    "books/2timoteo",
+    "books/revelation",
+    "books/romans",
+    "books/colossians",
+    "books/ephesians",
+    "books/1corintios",
+    "books/acts",
+    "traces",
+    "untitled folder",
+    "books/john"
+  ]
+}

@@ -1,0 +1,1 @@
+What kind of people must Christ prepare if they are destined to reign with Him?
