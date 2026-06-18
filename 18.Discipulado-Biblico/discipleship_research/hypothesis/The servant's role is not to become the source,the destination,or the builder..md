@@ -1,1 +1,0 @@
-The servant's role is to participate inwhat God is doing while continually directingpeople back to God Himself.
