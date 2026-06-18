@@ -537,3 +537,274 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 -   Dios produce el crecimiento.
 
 > En Síntesis
+
+# Capítulo 6
+
+# ¿Dónde edifica el Constructor?
+
+Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.
+
+¿Dónde ocurre normalmente este crecimiento?
+
+¿Dónde ha decidido Cristo llevar a cabo Su obra?
+
+Al observar el Nuevo Testamento, encontramos algo interesante.
+
+Los creyentes no son presentados como personas aisladas.
+
+Tampoco son presentados como simples estudiantes.
+
+Son presentados como miembros de un cuerpo.
+
+Como una familia.
+
+Como una casa.
+
+Como una asamblea.
+
+## El cuerpo crece unido
+
+### Efesios 4:16
+de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+
+#### todo el cuerpo
+##### El crecimiento es presentado como algo colectivo.
+-   Los miembros están unidos unos a otros.
+-   El cuerpo crece juntamente.
+-   Cada miembro participa.
+-   La edificación ocurre en amor.
+
+## Los creyentes son una familia
+
+### Efesios 2:19
+Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+
+#### la familia de Dios
+##### La iglesia es presentada como una casa.
+-   Los creyentes pertenecen a una misma familia.
+-   Dios es Padre.
+-   Los creyentes son hermanos.
+
+## Los miembros se necesitan mutuamente
+
+### 1 Corintios 12:21
+El ojo no puede decir a la mano: «No te necesito»; ni tampoco la cabeza a los pies: «No tengo necesidad de ustedes».
+
+#### No te necesito
+##### Ningún miembro vive independientemente.
+-   El cuerpo funciona mediante la participación de todos.
+-   Los miembros son diferentes.
+-   Los miembros se necesitan.
+-   Los miembros sirven unos a otros.
+
+## Los creyentes viven la verdad unos con otros
+
+### Romanos 12:10
+Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
+
+#### unos con otros
+##### La vida cristiana es presentada en comunidad.
+-   El amor es vivido en relaciones reales.
+-   Los creyentes se sirven mutuamente.
+-   Los creyentes se honran mutuamente.
+-   Los creyentes soportan cargas reales.
+
+## Las generaciones viven juntas
+
+### Tito 2:1-5
+Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
+
+#### enseña lo que está de acuerdo con la sana doctrina
+##### La enseñanza es acompañada por relaciones.
+-   Hombres y mujeres mayores participan en la formación de otros.
+-   La vida es compartida.
+-   Las generaciones conviven.
+-   La verdad es vivida.
+
+## La iglesia perseveraba junta
+
+### Hechos 2:42
+Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
+
+#### se dedicaban continuamente
+##### La vida cristiana no es presentada como una actividad individual.
+-   Los creyentes compartían una misma vida.
+-   Perseveraban juntos.
+-   Aprendían juntos.
+-   Oraban juntos.
+-   Compartían juntos.
+
+> En Síntesis
+
+# Capítulo 7
+
+# ¿Cuál es la meta del Constructor?
+
+Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.
+
+¿Hacia dónde se dirige esta obra?
+
+¿Existe una meta?
+
+¿Tiene Cristo un propósito para Su iglesia?
+
+Las Escrituras presentan una obra que avanza hacia un "hasta".
+
+## Hasta que todos lleguemos
+
+### Efesios 4:13
+hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
+
+#### hasta que todos lleguemos
+##### La obra tiene una meta.
+-   Cristo no edifica sin propósito.
+-   La obra se dirige hacia algo.
+-   El crecimiento tiene una dirección.
+
+#### la unidad de la fe
+##### La meta incluye unidad.
+-   La obra no tiene como objetivo individuos aislados.
+-   La unidad forma parte de la meta.
+
+#### del conocimiento pleno del Hijo de Dios
+##### Cristo permanece en el centro.
+-   La meta no es simplemente adquirir información.
+-   El conocimiento tiene una Persona como centro.
+
+#### a la condición de un hombre maduro
+##### La obra se dirige hacia la madurez.
+-   La inmadurez no constituye la meta.
+-   El crecimiento tiene un propósito.
+
+#### la plenitud de Cristo
+##### Cristo es la medida.
+-   La meta no es el hombre.
+-   La medida es Cristo.
+
+## Hasta el fin del siglo
+
+### Mateo 28:20
+y Yo estoy con ustedes todos los días, hasta el fin del mundo.
+
+#### hasta el fin del mundo
+##### La presencia de Cristo acompaña Su obra.
+-   La misión posee una dimensión temporal.
+-   Cristo permanece con los Suyos.
+-   La obra continúa hasta el fin del siglo.
+
+## Para presentársela a Sí mismo
+
+### Efesios 5:25-27
+Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+
+#### a fin de presentársela a Sí mismo
+##### Cristo tiene un propósito para Su iglesia.
+-   La iglesia será presentada a Él.
+-   Cristo ama a Su iglesia.
+-   Cristo santifica a Su iglesia.
+-   Cristo prepara a Su iglesia.
+
+## Conformados a la imagen de Su Hijo
+
+### Romanos 8:29
+Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
+
+#### conforme a la imagen de Su Hijo
+##### Cristo es el modelo.
+-   El propósito de Dios tiene a Su Hijo como centro.
+-   Los creyentes son conformados a Su imagen.
+-   Cristo es el primogénito entre muchos hermanos.
+
+> En Síntesis
+
+# Capítulo 8
+
+# Amenazas a la obra del Constructor
+
+Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.
+
+¿Qué amenaza esta obra?
+
+Las Escrituras muestran que Cristo permanece fiel.
+
+Pero también muestran que los creyentes necesitan ser advertidos.
+
+## Las divisiones desvían la atención
+
+### 1 Corintios 1:12
+Quiero decir, que cada uno de ustedes dice: «Yo soy de Pablo», «Yo de Apolos», «Yo de Cefas» y «Yo de Cristo».
+
+#### Yo soy de Pablo
+##### Los hombres pueden ocupar el lugar que pertenece a Cristo.
+-   La atención deja de estar sobre el Constructor.
+-   Las personas sustituyen a Cristo.
+-   Las divisiones dañan el cuerpo.
+
+## La sabiduría humana desplaza la sabiduría de Dios
+
+### 1 Corintios 3:18-19
+Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
+
+#### la sabiduría de este mundo
+##### Los hombres pueden confiar en sus propios recursos.
+-   La obra deja de depender de Dios.
+-   Los métodos humanos no sustituyen la obra de Dios.
+-   La gloria pertenece a Dios.
+
+## La inmadurez impide el crecimiento
+
+### Efesios 4:14
+para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
+
+#### ya no seamos niños
+##### La inmadurez no constituye la meta.
+-   Los creyentes pueden permanecer como niños.
+-   La madurez es necesaria.
+-   Los creyentes necesitan crecer.
+
+## Las falsas enseñanzas amenazan al rebaño
+
+### Hechos 20:29-30
+Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
+
+#### arrastrar a los discípulos tras ellos
+##### Los hombres pueden buscar seguidores para sí mismos.
+-   El centro deja de ser Cristo.
+-   El peligro puede venir desde afuera.
+-   El peligro también puede surgir desde dentro.
+
+## El pecado tolerado afecta al cuerpo
+
+### 1 Corintios 5:6
+No es buena la jactancia de ustedes. ¿No saben que un poco de levadura fermenta toda la masa?
+
+#### un poco de levadura
+##### El pecado afecta a otros.
+-   La iglesia es presentada como un cuerpo.
+-   El pecado no es solamente individual.
+-   La santidad importa.
+
+## La pérdida del amor afecta el testimonio
+
+### Apocalipsis 2:4
+Pero tengo esto contra ti: que has dejado tu primer amor.
+
+#### has dejado tu primer amor
+##### La actividad puede continuar sin amor.
+-   Cristo conoce la condición de Su pueblo.
+-   La ortodoxia no reemplaza el amor.
+-   Cristo llama al arrepentimiento.
+
+## El mayor peligro
+
+### 1 Corintios 3:7
+Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
+
+#### Dios que da el crecimiento
+##### Los siervos pueden olvidar quién es el Constructor.
+-   La obra siempre pertenece a Dios.
+-   Los hombres no son el centro.
+-   Cristo permanece en el centro.
+-   La gloria pertenece a Dios.
+
+> En Síntesis
