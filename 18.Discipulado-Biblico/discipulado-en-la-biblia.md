@@ -1228,4 +1228,1955 @@ Permitiremos que los apóstoles hablen.
 
 Y veremos qué es lo que ocupa su atención.
 
-# Capítulo 12
+# Capítulo 12 - Escuchemos a los apóstoles
+
+# Escuchemos a los apóstoles
+
+Al llegar a las epístolas, decidimos dejar de buscar las palabras «discípulo» y «discipulado».
+
+La pregunta ahora es más sencilla.
+
+¿Cómo hablan los apóstoles?
+
+¿Qué ocupa su atención?
+
+¿Qué desean producir?
+
+¿Qué están corrigiendo?
+
+¿Qué están fortaleciendo?
+
+## Romanos
+
+Pablo está ocupado con:
+
+-   el evangelio,
+-   la justicia de Dios,
+-   la fe,
+-   la esperanza,
+-   la unidad entre judíos y gentiles,
+-   la transformación,
+-   la obediencia de la fe.
+
+## 1 Corintios
+
+Pablo está ocupado con:
+
+-   las divisiones,
+-   la inmoralidad,
+-   la santidad,
+-   el amor,
+-   la unidad,
+-   el orden,
+-   la resurrección.
+
+## 2 Corintios
+
+Pablo está ocupado con:
+
+-   el consuelo,
+-   la reconciliación,
+-   el ministerio,
+-   la debilidad,
+-   la generosidad,
+-   la gloria de Cristo.
+
+## Gálatas
+
+Pablo está ocupado con:
+
+-   el evangelio,
+-   la libertad,
+-   la fe,
+-   caminar por el Espíritu,
+-   la nueva creación.
+
+## Efesios
+
+Pablo está ocupado con:
+
+-   Cristo,
+-   la iglesia,
+-   un solo cuerpo,
+-   la unidad,
+-   la madurez,
+-   el amor,
+-   los dones,
+-   la armadura de Dios.
+
+## Filipenses
+
+Pablo está ocupado con:
+
+-   Cristo,
+-   el gozo,
+-   la humildad,
+-   la unidad,
+-   el contentamiento.
+
+## Colosenses
+
+Pablo está ocupado con:
+
+-   la supremacía de Cristo,
+-   la plenitud en Cristo,
+-   la nueva vida,
+-   el amor,
+-   la acción de gracias.
+
+## 1 y 2 Tesalonicenses
+
+Pablo está ocupado con:
+
+-   la esperanza,
+-   la santidad,
+-   el trabajo,
+-   la perseverancia,
+-   la venida del Señor.
+
+## 1 y 2 Timoteo
+
+Pablo está ocupado con:
+
+-   la sana doctrina,
+-   la piedad,
+-   los ancianos,
+-   los diáconos,
+-   el ejemplo,
+-   la fidelidad,
+-   la Palabra.
+
+## Tito
+
+Pablo está ocupado con:
+
+-   la sana doctrina,
+-   las buenas obras,
+-   los ancianos,
+-   la conducta que corresponde al evangelio.
+
+## Filemón
+
+Pablo está ocupado con:
+
+-   el amor,
+-   el perdón,
+-   la recepción mutua,
+-   la participación.
+
+## Hebreos
+
+El autor está ocupado con:
+
+-   la superioridad de Cristo,
+-   la perseverancia,
+-   la fe,
+-   acercarse a Dios,
+-   reunirse,
+-   correr con paciencia.
+
+## Santiago
+
+Santiago está ocupado con:
+
+-   la sabiduría,
+-   la fe,
+-   la lengua,
+-   la humildad,
+-   la paciencia,
+-   la oración.
+
+## 1 y 2 Pedro
+
+Pedro está ocupado con:
+
+-   la esperanza,
+-   el sufrimiento,
+-   la santidad,
+-   los ancianos,
+-   la venida del Señor.
+
+## 1, 2 y 3 Juan
+
+Juan está ocupado con:
+
+-   la vida eterna,
+-   la verdad,
+-   el amor,
+-   permanecer,
+-   los hermanos.
+
+## Judas
+
+Judas está ocupado con:
+
+-   contender por la fe,
+-   permanecer,
+-   guardar.
+
+## Apocalipsis
+
+Juan está ocupado con:
+
+-   Jesucristo,
+-   las iglesias,
+-   la perseverancia,
+-   la victoria,
+-   el reino venidero,
+-   la nueva creación.
+
+Y algo llama la atención.
+
+Los apóstoles están ocupados con muchas cosas.
+
+Pero nunca vuelven a hablar del discipulado.
+
+Eso no demuestra nada.
+
+Pero sí nos obliga a escuchar.
+
+Porque quizá la pregunta no sea:
+
+«¿Dónde está el discipulado?»
+
+Sino:
+
+«¿Qué están procurando producir los apóstoles?»
+
+Y quizá, al seguir escuchándolos, la respuesta aparezca por sí sola.
+
+# Capítulo 13
+
+# CAPÍTULO 13
+
+## ¿EN QUÉ ESTÁ OCUPADO CRISTO?
+
+Hasta aquí hemos escuchado a los apóstoles.
+
+Pablo, Pedro, Juan, Judas y Hebreos parecen esperar mucho de Cristo.
+
+No hablan como si Él hubiera dejado simplemente instrucciones y se hubiera ido.
+
+Hablan como si permaneciera ocupado.
+
+Ahora dejaremos de recorrer las cartas y escucharemos dos de los testimonios más fuertes.
+
+Primero a Pablo.
+
+Luego al Señor Jesús mismo.
+
+## Efesios 5
+
+### ¿Qué está haciendo Cristo con Su iglesia?
+Pablo presenta a Cristo ocupado con Su iglesia.
+Cristo:
+- la amó,
+- se entregó por ella,
+- la santifica,
+- la limpia,
+- la sustenta,
+- la cuida,
+- y finalmente la presenta a Sí mismo gloriosa.
+
+### Preguntas
+- ¿Parece Cristo desentendido de Su iglesia?
+- ¿Parece Pablo preocupado por el resultado final?
+- ¿Habla Pablo como si la obra estuviera terminada?
+- ¿Es la presentación algo futuro?
+
+## Apocalipsis 2–3
+
+### ¿Qué está haciendo Cristo entre las iglesias?
+Ahora es Jesús mismo quien habla.
+Y al escuchar Sus palabras, encontramos a Cristo ocupado.
+Él:
+- conoce,
+- habla,
+- exhorta,
+- reprende,
+- disciplina,
+- promete.
+Pero algo llama especialmente la atención.
+Jesús sigue hablando en términos de:
+
+### «Yo haré».
+- «Yo le daré...»
+- «Yo confesaré...»
+- «Yo haré...»
+- «Yo concederé...»
+
+### Preguntas
+- ¿Parece Jesús ausente?
+- ¿Parece retirado?
+- ¿Parece haber abandonado la obra?
+- ¿Su lenguaje sigue siendo futuro?
+
+## Otros testigos
+
+Sin desarrollar estos pasajes por ahora, es interesante observar que otros escritores hablan de manera semejante.
+
+### Pablo
+«El que comenzó en ustedes la buena obra la perfeccionará».
+
+### Pedro
+«Él mismo los perfeccionará, afirmará, fortalecerá y establecerá».
+
+### Hebreos
+«Vive siempre para interceder».
+
+### Judas
+«Es poderoso para guardarlos y presentarlos».
+
+### Juan
+«Cuando Él se manifieste, seremos semejantes a Él».
+
+## Una pregunta
+
+Después de escuchar a Pablo y luego al Señor Jesús mismo, surge una pregunta natural.
+
+### ¿Ha dejado el Constructor de construir?
+¿Es esta la misma obra de la que Jesús habló cuando dijo:
+> «Yo edificaré Mi iglesia»?
+Por ahora no responderemos.
+Simplemente seguiremos escuchando.
+
+# CAPÍTULO 14
+
+## PARTICIPANDO CON CONFIANZA
+
+### La participación apostólica ocurre dentro de la confianza en Cristo
+Después de escuchar a los apóstoles, aparece una pregunta natural.
+
+### ¿Cómo participan?
+La respuesta que parece surgir repetidamente no es:
+- por ansiedad,
+- por confianza en sí mismos,
+- por seguridad basada en el desempeño.
+Los apóstoles participan dentro de una profunda confianza en Cristo.
+
+## No confiando en nosotros mismos
+
+### 2 Corintios 1:9
+Pablo explica que llegaron a tener sentencia de muerte en sí mismos.
+Pero aquello tuvo un propósito.
+> «para que no confiáramos en nosotros mismos, sino en Dios que resucita a los muertos».
+La presión no produjo más confianza en sí mismos.
+Produjo una transferencia de confianza.
+
+### Filipenses 3:3
+Los creyentes son aquellos que:
+- se glorían en Cristo Jesús,
+- y no ponen confianza en la carne.
+La confianza apostólica no está repartida entre Cristo y la carne.
+La confianza ha sido trasladada.
+
+## Confiando en Aquel que comenzó
+
+### Filipenses 1:6
+Pablo está convencido.
+Pero su confianza no descansa en los filipenses.
+Descansa en Aquel que comenzó la buena obra y la perfeccionará hasta el día de Cristo.
+
+### 1 Tesalonicenses 5:23–24
+Pablo ora por ellos y luego concluye:
+> «Fiel es el que los llama, el cual también lo hará».
+La seguridad del apóstol no descansa en la capacidad humana.
+Descansa en la fidelidad de Dios.
+
+## Participación real
+
+Los apóstoles nunca usan la fidelidad de Cristo para promover pasividad.
+
+### Filipenses 2:12–13
+Los creyentes trabajan.
+Porque Dios obra en ellos.
+No trabajan para que Dios obre.
+Dios obra.
+Por eso trabajan.
+
+### Colosenses 1:28–29
+Pablo trabaja y lucha.
+Pero según el poder de Cristo que actúa poderosamente en él.
+La participación es real.
+La fuente no es Pablo.
+
+### 1 Corintios 15:10
+Pablo trabajó más que todos.
+Pero añade:
+> «aunque no yo, sino la gracia de Dios en mí».
+El trabajo es real.
+La gracia también.
+
+### 1 Corintios 3:6–7
+Pablo planta.
+Apolos riega.
+Pero Dios da el crecimiento.
+Por eso el sembrador es libre.
+No tiene que producir vida.
+El crecimiento pertenece a Dios.
+
+## Por eso pueden regocijarse
+
+### Romanos 5:3–5
+Las tribulaciones producen perseverancia, carácter probado y esperanza.
+Y la esperanza no avergüenza.
+
+### Filipenses 4:4
+> «Regocíjense en el Señor siempre».
+No en las circunstancias.
+No en el desempeño.
+En el Señor.
+
+### 2 Corintios 6:10
+> «Entristecidos, mas siempre gozosos».
+Su gozo no depende de las circunstancias.
+Su confianza descansa en otro lugar.
+
+## El ambiente apostólico
+
+Los mandamientos permanecen.
+
+La responsabilidad permanece.
+
+Las advertencias permanecen.
+
+La participación permanece.
+
+Pero el ambiente cambia.
+
+No es:
+
+### «Compórtate de manera que Cristo sea fiel».
+Sino:
+
+### «Cristo es fiel; por tanto…»
+- trabaja,
+- permanece firme,
+- enseña,
+- sirve,
+- persevera,
+- soporta,
+- y regocíjate.
+
+## Una observación
+
+Los apóstoles trabajan intensamente.
+
+Pero no suenan desesperados.
+
+Exhortan.
+
+Corrigen.
+
+Advierten.
+
+Sufren.
+
+Pero no parecen cargar el peso de ser los constructores.
+
+Participan.
+
+El Constructor sigue siendo Cristo.
+
+## Una pregunta
+
+### ¿Será esta la libertad que surge cuando uno deja de intentar ser el Constructor y aprende a participar con Él?
+
+# Capítulo 15
+
+# Siguiendo las preguntas del texto
+
+Al comenzar este estudio, la pregunta parecía sencilla.
+
+> ¿Qué es el discipulado?
+
+Naturalmente esperábamos encontrar una respuesta clara y directa.
+
+Pero a medida que seguimos las Escrituras, algo interesante ocurrió.
+
+Las preguntas comenzaron a conducirnos.
+
+Y poco a poco descubrimos que cada pregunta daba lugar a otra.
+
+## Comenzamos con el discipulado
+
+Jesús dijo:
+
+> «Vayan y hagan discípulos».
+
+Por eso parecía natural comenzar allí.
+
+Pero inmediatamente surgió una pregunta.
+
+### ¿Qué es un discípulo?
+¿Dónde se define el discipulado?
+¿Cómo se hace un discípulo?
+
+## Mateo nos obligó a mirar al Constructor
+
+Mientras seguíamos el Evangelio de Mateo, otra declaración comenzó a imponerse.
+
+Jesús dijo:
+
+> «Yo edificaré Mi iglesia».
+
+Y una pregunta comenzó a ocupar el centro.
+
+### ¿Quién es el Constructor?
+Porque si Cristo es el Constructor, entonces todo lo demás debe ser entendido a la luz de Su obra.
+
+## Después preguntamos
+
+### ¿Qué está edificando?
+Un cuerpo.
+Una familia.
+Un templo.
+Un hombre nuevo.
+Una esposa.
+Muchos hermanos conformados a Su Hijo.
+
+## Luego preguntamos
+
+### ¿Cómo edifica?
+Por medio del evangelio.
+Por medio de Su palabra.
+Por medio de dones.
+Por medio de personas.
+Por medio de generaciones.
+Pero el crecimiento pertenece a Dios.
+
+## Luego preguntamos
+
+### ¿Dónde lleva a cabo Su obra?
+Y encontramos una familia.
+Un cuerpo.
+Una iglesia.
+Una comunión.
+Una vida compartida.
+
+## Luego preguntamos
+
+### ¿Hacia dónde se dirige la obra?
+Y encontramos un «hasta».
+Hasta la plenitud.
+Hasta Su venida.
+Hasta la presentación de la iglesia.
+
+## Luego llegamos al final de Hechos
+
+Y ocurrió algo inesperado.
+
+La palabra «discípulo» desapareció.
+
+Y otra pregunta surgió.
+
+### ¿Qué ocurrió?
+No apresuramos la respuesta.
+Simplemente seguimos escuchando.
+
+## Entonces abrimos las epístolas
+
+Y decidimos escuchar a los apóstoles.
+
+¿Qué ocupa su atención?
+
+¿Qué desean producir?
+
+¿Qué esperan?
+
+¿Qué enseñan?
+
+Y algo comenzó a sorprendernos.
+
+Los apóstoles hablan mucho.
+
+Pero nunca vuelven a usar el lenguaje del discipulado.
+
+Sin embargo, están ocupados con:
+
+-   Cristo,
+-   la iglesia,
+-   la fe,
+-   el amor,
+-   la esperanza,
+-   la santidad,
+-   la unidad,
+-   la perseverancia,
+-   la madurez,
+-   la gloria futura.
+
+## Después comenzamos a escuchar sus expectativas
+
+Y algo aún más interesante apareció.
+
+Los apóstoles esperan mucho de Cristo.
+
+Esperan que Él:
+
+-   complete,
+-   fortalezca,
+-   preserve,
+-   perfeccione,
+-   presente,
+-   glorifique.
+
+Y ninguno de ellos parece hablar como si el Constructor hubiera abandonado Su obra.
+
+## Entonces escuchamos al mismo Cristo
+
+En Apocalipsis, el Señor sigue hablando.
+
+Sigue exhortando.
+
+Sigue corrigiendo.
+
+Sigue prometiendo.
+
+Sigue diciendo:
+
+> «Yo haré».
+
+Y una pregunta comenzó a surgir naturalmente.
+
+### ¿Ha dejado el Constructor de construir?
+
+## Entonces surgió otra pregunta
+
+### Si Cristo continúa ocupado, ¿qué hacemos nosotros?
+Y comenzamos a escuchar nuevamente.
+Los apóstoles trabajan.
+Sirven.
+Enseñan.
+Advierten.
+Sufren.
+Perseveran.
+Pero no parecen ansiosos.
+No parecen desesperados.
+No parecen llevar el peso del edificio.
+Participan.
+
+## Poco a poco comenzamos a notar algo
+
+Los apóstoles participan.
+
+Pero participan dentro de una profunda confianza en Cristo.
+
+No confían en sí mismos.
+
+No ponen confianza en la carne.
+
+Confían en Aquel que comenzó.
+
+En Aquel que da crecimiento.
+
+En Aquel que es fiel.
+
+En Aquel que completará Su obra.
+
+## Y algo más comenzó a sorprendernos
+
+Los apóstoles trabajan intensamente.
+
+Pero no suenan desesperados.
+
+Exhortan.
+
+Corrigen.
+
+Advierten.
+
+Lloran.
+
+Sufren.
+
+Pero no parecen intentar reemplazar al Constructor.
+
+Parecen hombres libres.
+
+## Y quizás el centro de gravedad comenzó a cambiar
+
+Comenzamos preguntando:
+
+### ¿Qué debemos hacer?
+Pero las Escrituras continuamente nos llevaron hacia otra pregunta.
+
+### ¿Qué está haciendo Cristo?
+Y quizás esa pregunta terminó iluminando todas las demás.
+
+## Una observación
+
+No comenzamos con esta conclusión.
+
+Llegamos aquí siguiendo las preguntas del texto.
+
+Y todavía no hemos terminado.
+
+Seguiremos escuchando.
+
+Porque el propósito de este estudio nunca fue defender una teoría.
+
+Nuestro deseo siempre ha sido más sencillo.
+
+Escuchar.
+
+Y dejar que las Escrituras hablen por sí mismas.
+
+# CAPÍTULO 16
+
+# ENSEÑANDO PARA UBICAR A LA IGLESIA EN CRISTO
+
+Después de escuchar a los apóstoles, una conclusión inesperada comienza a aparecer.
+
+Podría pensarse:
+
+> Si Cristo es el Constructor, entonces la enseñanza es menos importante.
+
+Pero los apóstoles parecen pensar exactamente lo contrario.
+
+Ellos enseñan constantemente.
+
+Y trabajan intensamente.
+
+Pero no parecen enseñar para reemplazar a Cristo.
+
+Parecen enseñar para ayudar a la iglesia a vivir dentro de Su obra.
+
+## Una ironía
+
+Mientras más claro vemos que Cristo es el Constructor, más importante parece volverse la enseñanza.
+
+Pero no cualquier enseñanza.
+
+No enseñanza para producir dependencia de hombres.
+
+No enseñanza para crear actividades religiosas.
+
+No enseñanza para controlar.
+
+Sino enseñanza para ubicar a la iglesia en Cristo.
+
+## Pablo
+
+Pablo enseña.
+
+Amonesta.
+
+Exhorta.
+
+Recuerda.
+
+Proclama.
+
+Trabaja.
+
+Lucha.
+
+Pero explica por qué:
+
+> «a fin de presentar a todo hombre perfecto en Cristo».
+
+No busca simplemente producir conocimiento.
+
+Busca madurez.
+
+### Efesios 4
+Cristo dio:
+-   apóstoles,
+-   profetas,
+-   evangelistas,
+-   pastores,
+-   maestros.
+
+¿Para qué?
+
+Hasta que todos lleguemos.
+
+Hasta que todos maduremos.
+
+Hasta que ya no seamos niños.
+
+Hasta que crezcamos en Él.
+
+La enseñanza no reemplaza a Cristo.
+
+Cristo mismo dio maestros.
+
+## Pedro
+
+Pedro sabe que está por partir.
+
+Por eso escribe.
+
+Y repetidamente dice:
+
+> «quiero recordarles».
+
+Su interés no es preservar a Pedro.
+
+Su interés es que permanezcan en la verdad.
+
+## Juan
+
+Juan enseña.
+
+Pero constantemente dirige la atención hacia:
+
+-   conocer,
+-   permanecer,
+-   amar,
+-   caminar en la luz.
+
+No busca producir dependencia de sí mismo.
+
+Busca que tengan comunión con el Padre y con Su Hijo.
+
+## Hebreos
+
+El escritor enseña.
+
+Advierte.
+
+Exhorta.
+
+Explica.
+
+Pero continuamente lleva a los creyentes hacia:
+
+-   acercarse,
+-   retener la esperanza,
+-   considerar a Jesús,
+-   fijar los ojos en Él.
+
+La enseñanza no ocupa el centro.
+
+Cristo ocupa el centro.
+
+## Entonces, ¿para qué enseñan los apóstoles?
+
+No simplemente para informar.
+
+Sino para ubicar.
+
+Para ayudar a las iglesias a vivir:
+
+-   en Cristo,
+-   bajo Su señorío,
+-   por Su Espíritu,
+-   en Su cuerpo,
+-   afirmadas en Su palabra,
+-   caminando en Su amor,
+-   creciendo hacia la madurez,
+-   hasta Su venida.
+
+## Una observación
+
+Los apóstoles no parecen simplemente enseñar actividades.
+
+No dicen:
+
+> «Hagan más cosas».
+
+Más bien parecen decir:
+
+> «Vivan aquí».
+
+> «Permanezcan aquí».
+
+> «Crezcan aquí».
+
+> «Caminen aquí».
+
+> «No se aparten de aquí».
+
+Interesante.
+
+Muy interesante.
+
+Porque no están simplemente enseñando a las iglesias qué hacer.
+
+Están tratando de ubicar a las iglesias dentro de la obra continua de Cristo.
+
+## Otra ironía
+
+La enseñanza se vuelve más importante, no menos.
+
+Pero su propósito cambia.
+
+Ya no es:
+
+### «Aprendan para construir».
+Sino:
+
+### «Aprendan para participar».
+
+### «Aprendan para permanecer».
+
+### «Aprendan para conocer».
+
+### «Aprendan para crecer».
+
+### «Aprendan para vivir dentro de lo que Cristo está haciendo».
+
+## Una pregunta
+
+### ¿Será que gran parte de la enseñanza apostólica no busca simplemente transmitir información, sino ayudar a las iglesias a permanecer ubicadas dentro de la realidad de Cristo?
+
+# CAPÍTULO 17
+
+# ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS APÓSTOLES?
+
+Después de escuchar a los apóstoles, surge una pregunta natural.
+
+¿Qué es lo que desean preservar?
+
+¿Qué esperan que permanezca después de ellos?
+
+¿Qué están tratando de entregar a las generaciones futuras?
+
+La pregunta es importante.
+
+Porque los apóstoles saben que partirán.
+
+Y, sin embargo, no hablan como hombres desesperados.
+
+Hablan como hombres que están encargando algo.
+
+Pero, ¿qué?
+
+## Jesús comienza a mostrar
+
+### Mateo 16:21
+> «Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.»
+
+#### comenzó a mostrar
+##### Jesús dirige la atención hacia Su muerte y resurrección.
+-   Jesús no comienza hablando de métodos.
+-   No comienza hablando de estructuras.
+-   No comienza hablando de organizaciones.
+-   Comienza mostrando lo que debía ocurrir.
+
+##### La cruz ocupa un lugar central.
+-   Su sufrimiento era necesario.
+-   Su muerte era necesaria.
+-   Su resurrección era necesaria.
+-   La atención se dirige hacia la obra redentora de Dios.
+
+## Pablo entrega lo que recibió
+
+### 1 Corintios 15:1–3
+> «Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras».
+
+#### les entregué
+##### Pablo se presenta como alguien que transmite algo recibido.
+-   Pablo recibió.
+-   Pablo entregó.
+-   Otros recibieron.
+
+##### Existe una dimensión generacional.
+-   Lo recibido es transmitido.
+-   Lo entregado permanece siendo lo primero.
+
+#### en primer lugar
+##### Pablo establece prioridades.
+-   No todo posee la misma importancia.
+-   El evangelio ocupa el primer lugar.
+-   La cruz y la resurrección permanecen en el centro.
+
+## Los creyentes permanecen en el evangelio
+
+### 1 Corintios 15:1
+> «Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes».
+
+#### están firmes
+##### El evangelio no aparece solamente como el comienzo.
+-   Los creyentes lo recibieron.
+-   Los creyentes permanecen en él.
+-   Los creyentes están firmes en él.
+
+##### El evangelio continúa ocupando el centro.
+
+## Pablo desea predicar el evangelio a creyentes
+
+### Romanos 1:15–16
+> «Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación».
+
+#### también a ustedes
+##### Pablo escribe a creyentes.
+-   La iglesia ya existía.
+-   Los creyentes ya habían creído.
+-   Sin embargo, Pablo desea anunciarles el evangelio.
+
+#### es poder de Dios
+##### El evangelio permanece asociado al poder de Dios.
+-   El poder pertenece a Dios.
+-   El evangelio permanece central.
+-   El evangelio no es reemplazado.
+
+## Pablo protege el centro
+
+### Gálatas 1:8
+> «Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema».
+
+#### otro evangelio
+##### El evangelio debe ser preservado.
+-   Pablo no permite mover el centro.
+-   La fidelidad al evangelio es importante.
+-   La iglesia debe permanecer en él.
+
+## Timoteo debe encargar a otros
+
+### 2 Timoteo 2:2
+> «Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
+
+#### encarga a hombres fieles
+##### La verdad recibida debía continuar.
+-   Pablo enseñó.
+-   Timoteo recibió.
+-   Timoteo debía encargar.
+-   Otros enseñarían también.
+
+##### La obra posee una dimensión generacional.
+
+## Una observación
+
+Los apóstoles ciertamente enseñan muchas cosas.
+
+Hablan acerca de:
+
+-   la iglesia,
+-   el amor,
+-   la esperanza,
+-   la santidad,
+-   la perseverancia,
+-   los ancianos,
+-   las buenas obras.
+
+Pero repetidamente regresan al mismo centro.
+
+Cristo murió por nuestros pecados.
+
+Fue sepultado.
+
+Resucitó al tercer día conforme a las Escrituras.
+
+## Una pregunta
+
+### ¿Será que lo que los apóstoles están tratando de encargar no es simplemente información, ni tradiciones, ni métodos, sino el evangelio mismo, para que cada generación continúe viviendo dentro de la obra del Cristo crucificado y resucitado?
+
+# CAPÍTULO 18
+
+# ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
+
+Si el evangelio es lo que debe ser encargado, surge otra pregunta.
+
+¿Por qué Cristo escogió la iglesia como el ambiente normal para esta participación?
+
+¿Por qué no simplemente individuos aislados?
+
+¿Por qué un cuerpo?
+
+¿Por qué una familia?
+
+¿Por qué tantos «unos a otros»?
+
+Permitiremos nuevamente que los apóstoles hablen.
+
+## Un cuerpo
+
+### 1 Corintios 12:21
+> «El ojo no puede decir a la mano: “No te necesito”».
+
+#### No te necesito
+##### Los creyentes no son presentados como independientes.
+-   Los miembros son diferentes.
+-   Los miembros se necesitan.
+-   Ningún miembro se basta a sí mismo.
+
+##### Cristo diseñó un cuerpo.
+-   La diversidad no elimina la unidad.
+-   La unidad no elimina la diversidad.
+-   Los miembros participan juntos.
+
+## Una familia
+
+### Efesios 2:19
+> «Son de la familia de Dios».
+
+#### la familia de Dios
+##### Los creyentes pertenecen a una misma casa.
+-   Dios es Padre.
+-   Los creyentes son hermanos.
+-   La vida cristiana es compartida.
+
+##### La obra no ocurre en aislamiento.
+
+## La verdad es vivida unos con otros
+
+### Romanos 12:10
+> «Sean afectuosos unos con otros con amor fraternal».
+
+#### unos con otros
+##### El amor requiere personas reales.
+-   El amor es vivido.
+-   El servicio es vivido.
+-   El perdón es vivido.
+-   La paciencia es vivida.
+
+##### La participación ocurre en relaciones.
+
+## Cristo distribuyó dones
+
+### Efesios 4:11–12
+> «Y Él dio…»
+
+#### Él dio
+##### Los dones proceden de Cristo.
+-   Cristo distribuye.
+-   Cristo equipa.
+-   Cristo edifica Su cuerpo.
+
+##### Ningún creyente posee todo.
+-   Los dones son compartidos.
+-   Los miembros sirven unos a otros.
+
+## Considerarnos unos a otros
+
+### Hebreos 10:24–25
+> «Considerémonos unos a otros para estimularnos al amor y a las buenas obras».
+
+#### considerémonos unos a otros
+##### La perseverancia posee una dimensión compartida.
+-   Los creyentes se animan mutuamente.
+-   Los creyentes se estimulan mutuamente.
+-   Los creyentes perseveran juntos.
+
+##### La vida cristiana no es presentada como una experiencia aislada.
+
+## Generaciones viviendo juntas
+
+### Tito 2:1–5
+> «En cuanto a ti, enseña lo que está de acuerdo con la sana doctrina».
+
+#### enseña
+##### La verdad es acompañada por relaciones.
+-   Los ancianos participan.
+-   Las ancianas participan.
+-   Los jóvenes participan.
+-   Las generaciones viven juntas.
+
+##### La verdad no es solamente transmitida.
+
+Es vivida.
+
+## El evangelio crea una comunión
+
+### Filemón 6
+> «La participación de tu fe».
+
+#### participación
+##### La fe posee una dimensión compartida.
+-   La comunión pertenece al evangelio.
+-   Los creyentes participan juntos.
+-   Cristo es compartido entre ellos.
+
+## Una observación
+
+Los apóstoles no presentan la iglesia simplemente como un lugar para asistir.
+
+La presentan como:
+
+-   un cuerpo,
+-   una familia,
+-   una comunión,
+-   una casa,
+-   un pueblo,
+-   una participación.
+
+Interesante.
+
+Muy interesante.
+
+Porque muchas de las cosas que Cristo valora solamente pueden ser vividas con otros.
+
+-   Amar.
+-   Servir.
+-   Soportar.
+-   Perdonar.
+-   Animar.
+-   Llevar cargas.
+-   Enseñar.
+-   Orar.
+-   Compartir.
+
+## Una pregunta
+
+### ¿Será que Cristo diseñó la iglesia como el ambiente normal donde Su vida puede ser compartida y donde el evangelio puede ser encargado de generación en generación?
+
+# CAPÍTULO 19
+
+# ¿CÓMO PERMANECE EL EVANGELIO EN EL CENTRO?
+
+Si el evangelio es lo que debe ser encargado, surge una pregunta inevitable.
+
+¿Cómo permanece en el centro?
+
+Porque el peligro no consiste solamente en abandonar el evangelio.
+
+El peligro consiste en desplazarlo.
+
+Las iglesias pueden conservar:
+
+-   reuniones,
+-   enseñanza,
+-   líderes,
+-   programas,
+-   actividades,
+
+y sin embargo dejar de vivir dentro de la realidad del Cristo crucificado y resucitado.
+
+Por eso los apóstoles constantemente vuelven al centro.
+
+## Pablo predica el evangelio a creyentes
+
+### Romanos 1:15–16
+> «Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.»
+
+#### también a ustedes
+##### Pablo desea anunciar el evangelio a una iglesia.
+-   Los creyentes ya habían creído.
+-   La iglesia ya existía.
+-   Sin embargo, Pablo desea predicarles el evangelio.
+
+#### es poder de Dios
+##### El evangelio permanece asociado al poder de Dios.
+-   No aparece como algo del pasado.
+-   El evangelio permanece central.
+-   El poder pertenece a Dios.
+
+## Los creyentes permanecen firmes en él
+
+### 1 Corintios 15:1
+> «El evangelio… el cual también recibieron, en el cual también están firmes».
+
+#### están firmes
+##### El evangelio no aparece solamente como una puerta de entrada.
+-   Fue recibido.
+-   Continúa siendo el lugar donde permanecen.
+-   Los creyentes están firmes en él.
+
+## Pablo vuelve continuamente a Cristo crucificado
+
+### 1 Corintios 2:2
+> «Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.»
+
+#### Jesucristo, y Este crucificado
+##### Pablo no se mueve del centro.
+-   No abandona a Cristo crucificado.
+-   No sustituye la sabiduría de Dios.
+-   No coloca otra cosa en el centro.
+
+## Pablo protege el centro
+
+### Gálatas 1:6–8
+> «Se están apartando… hacia un evangelio diferente».
+
+#### un evangelio diferente
+##### El peligro consiste en mover el centro.
+-   La iglesia todavía existe.
+-   Las personas siguen siendo religiosas.
+-   Pero el evangelio puede ser distorsionado.
+
+## El amor puede enfriarse
+
+### Apocalipsis 2:4
+> «Has dejado tu primer amor».
+
+#### has dejado
+##### La actividad puede permanecer.
+-   El trabajo permanece.
+-   La perseverancia permanece.
+-   La doctrina permanece.
+
+##### Pero algo puede ser perdido.
+-   Cristo llama al arrepentimiento.
+-   El centro importa.
+
+## Los creyentes deben considerar continuamente a Jesús
+
+### Hebreos 12:2–3
+> «Puestos los ojos en Jesús».
+
+#### puestos los ojos en Jesús
+##### La atención debe ser continuamente dirigida hacia Él.
+-   Jesús permanece en el centro.
+-   Los creyentes consideran a Cristo.
+-   La perseverancia ocurre mirando a Él.
+
+## Una observación
+
+Los apóstoles no parecen asumir que el centro se conservará automáticamente.
+
+Constantemente:
+
+-   recuerdan,
+-   exhortan,
+-   enseñan,
+-   anuncian,
+-   corrigen,
+-   advierten.
+
+Interesante.
+
+Muy interesante.
+
+No porque el evangelio sea insuficiente.
+
+Sino porque el corazón humano es propenso a mover el centro.
+
+## Otra observación
+
+El evangelio no parece ser simplemente el comienzo de la vida cristiana.
+
+Parece ser el ambiente en el que la iglesia vive.
+
+Interesante.
+
+Muy interesante.
+
+Porque fuera del evangelio:
+
+-   la enseñanza se vuelve orgullo,
+-   el servicio se vuelve mérito,
+-   la disciplina se vuelve legalismo,
+-   la santidad se vuelve rendimiento,
+-   el liderazgo se vuelve poder,
+-   la participación se vuelve ansiedad.
+
+Pero dentro del evangelio:
+
+-   todo encuentra su lugar.
+
+## Una pregunta
+
+### ¿Será que la tarea constante de los apóstoles consiste en volver a ubicar a las iglesias dentro de la realidad del Cristo crucificado y resucitado?
+
+# CAPÍTULO 20
+
+# ¿POR QUÉ MEDIO PARTICIPAN LOS CREYENTES?
+
+Después de escuchar repetidamente a los apóstoles regresar al evangelio, surge una pregunta natural.
+
+¿Por medio de qué participan los creyentes en la obra continua de Cristo?
+
+¿Presentan los apóstoles un segundo medio después de la salvación?
+
+¿O continúan llevando a los creyentes más profundamente al mismo evangelio?
+
+Permitiremos nuevamente que hablen.
+
+## Participación en Cristo
+
+### Romanos 6:3–5
+> «Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección».
+
+#### en Su muerte
+##### Pablo vuelve a llevar a los creyentes hacia Cristo.
+-   Cristo murió.
+-   Los creyentes murieron con Él.
+-   Cristo fue sepultado.
+-   Los creyentes fueron sepultados con Él.
+-   Cristo resucitó.
+-   Los creyentes participan de Su vida.
+
+##### Pablo no introduce otro centro.
+
+Vuelve a Cristo.
+
+#### unidos a Él
+##### La participación aparece ligada a Cristo mismo.
+-   El creyente no aparece separado de Cristo.
+-   La vida se encuentra en Él.
+-   La participación ocurre en relación con Él.
+
+## El viejo hombre fue crucificado con Él
+
+### Romanos 6:6
+> «Nuestro viejo hombre fue crucificado con Él».
+
+#### con Él
+##### La cruz continúa ocupando el centro.
+-   La obra pertenece a Cristo.
+-   Pablo describe al creyente en relación con Él.
+-   La identidad es entendida desde Cristo.
+
+## Considérense
+
+### Romanos 6:11
+> «Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús».
+
+#### vivos para Dios en Cristo Jesús
+##### Pablo continúa ubicando la vida en Cristo.
+-   La vida se encuentra en Él.
+-   Los creyentes viven para Dios en Cristo.
+-   La participación permanece centrada en Él.
+
+## Sepultados y resucitados con Él
+
+### Colosenses 2:12
+> «Habiendo sido sepultados con Él... en Él también fueron resucitados».
+
+#### con Él
+##### Pablo vuelve nuevamente al mismo centro.
+-   Muerte con Él.
+-   Sepultura con Él.
+-   Resurrección con Él.
+
+##### El centro no cambia.
+
+### Colosenses 3:1–3
+> «Si ustedes, pues, han resucitado con Cristo...»
+
+#### han resucitado con Cristo
+##### La nueva vida continúa siendo entendida desde Cristo.
+-   Los creyentes buscan las cosas de arriba.
+-   Cristo permanece ocupando el centro.
+-   La vida se entiende desde lo que Dios ha hecho.
+
+## Cristo vive en mí
+
+### Gálatas 2:20
+> «Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí».
+
+#### Cristo vive en mí
+##### Pablo continúa describiendo la vida en relación con Cristo.
+-   Cristo permanece en el centro.
+-   La vida del creyente está ligada a Él.
+-   La fe continúa puesta en el Hijo de Dios.
+
+## Conocerle
+
+### Filipenses 3:10
+> «A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos».
+
+#### conocerlo
+##### La meta de Pablo continúa siendo Cristo.
+-   Cristo no es dejado atrás.
+-   La participación se relaciona con conocerlo.
+-   La resurrección y los padecimientos permanecen unidos.
+
+## Una observación
+
+Los apóstoles no parecen introducir un segundo medio.
+
+Interesante.
+
+Muy interesante.
+
+No dicen:
+
+> «Cree el evangelio para ser salvo y luego confía en ti mismo para crecer».
+
+Ni tampoco:
+
+> «Comienza con Cristo y luego avanza hacia algo más profundo».
+
+Más bien, continuamente vuelven a llevar a los creyentes hacia Cristo.
+
+Hacia Su muerte.
+
+Hacia Su resurrección.
+
+Hacia Su vida.
+
+Hacia Su amor.
+
+Hacia Él mismo.
+
+## Otra observación
+
+La participación no parece separarse del evangelio.
+
+Interesante.
+
+Muy interesante.
+
+El mismo Cristo que salva es el Cristo en quien los creyentes viven.
+
+La misma cruz.
+
+La misma resurrección.
+
+La misma gracia.
+
+El mismo Señor.
+
+El mismo evangelio.
+
+## Una pregunta
+
+### ¿Será que los creyentes participan con el Constructor por medio del mismo evangelio por el cual fueron salvos?
+Interesante.
+Muy interesante.
+Porque si esto es así, entonces la participación ocurre dentro del evangelio.
+Y quizás por eso los apóstoles nunca parecen graduarse de Cristo crucificado.
+
+# CAPÍTULO 21
+
+# CONOCER A CRISTO
+
+Después de escuchar a los apóstoles volver repetidamente al evangelio, surge una pregunta natural.
+
+¿Hacia dónde se dirige esta participación?
+
+¿Cuál es la meta?
+
+¿Qué esperan finalmente los apóstoles para las iglesias?
+
+Permitiremos nuevamente que hablen.
+
+## Pablo desea conocerle
+
+### Filipenses 3:8–10
+> «Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo».
+
+#### conocer a Cristo Jesús
+##### Pablo establece una prioridad.
+-   Cristo posee un valor incomparable.
+-   Otras cosas son consideradas pérdida.
+-   La atención permanece en Él.
+
+##### La meta continúa siendo Cristo.
+
+#### a fin de conocerlo
+##### Pablo expresa un propósito.
+-   No habla de conocer simplemente información.
+-   No habla solamente de ministerio.
+-   El deseo es conocer a Cristo.
+
+##### La participación posee una dirección.
+
+## El amor de Cristo sobrepasa el conocimiento
+
+### Efesios 3:17–19
+> «Y conocer el amor de Cristo que sobrepasa el conocimiento».
+
+#### conocer el amor de Cristo
+##### Pablo ora por algo relacionado con Cristo mismo.
+-   Cristo habita por la fe.
+-   Los creyentes son fortalecidos.
+-   El amor de Cristo ocupa el centro.
+
+##### La plenitud es asociada con Él.
+
+## Pedro desea crecimiento
+
+### 2 Pedro 3:18
+> «Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo».
+
+#### el conocimiento de nuestro Señor
+##### Pedro dirige la atención hacia Cristo.
+-   El crecimiento continúa.
+-   La gracia continúa.
+-   Cristo permanece en el centro.
+
+## Juan habla de permanecer
+
+### 1 Juan 2:24
+> «Permanezca en ustedes lo que oyeron desde el principio».
+
+#### permanezca
+##### Juan insiste en permanecer.
+-   Permanecer en el Hijo.
+-   Permanecer en el Padre.
+-   Permanecer en lo oído desde el principio.
+
+##### La comunión permanece relacionada con Cristo.
+
+### 1 Juan 5:20
+> «Estamos en Aquel que es verdadero, en Su Hijo Jesucristo».
+
+#### estamos en Él
+##### Juan describe una realidad presente.
+-   Los creyentes están en Cristo.
+-   Cristo permanece ocupando el centro.
+-   El conocimiento se relaciona con Él.
+
+## Hebreos dirige continuamente hacia Jesús
+
+### Hebreos 12:2
+> «Puestos los ojos en Jesús».
+
+#### puestos los ojos en Jesús
+##### La perseverancia ocurre mirando a Cristo.
+-   Jesús es considerado.
+-   Jesús es contemplado.
+-   Jesús permanece ocupando el centro.
+
+## Pablo desea presentar a todos maduros en Cristo
+
+### Colosenses 1:28
+> «A fin de poder presentar a todo hombre perfecto en Cristo».
+
+#### en Cristo
+##### La madurez permanece relacionada con Cristo.
+-   Cristo es proclamado.
+-   Cristo es enseñado.
+-   Cristo es el contexto de la madurez.
+
+## Una observación
+
+Los apóstoles hablan de:
+
+-   santidad,
+-   servicio,
+-   amor,
+-   perseverancia,
+-   buenas obras,
+-   enseñanza,
+-   esperanza.
+
+Pero repetidamente vuelven a Cristo.
+
+Interesante.
+
+Muy interesante.
+
+Porque parecen desear más que actividad.
+
+Parecen desear que los creyentes conozcan a Cristo.
+
+## Otra observación
+
+Conocer a Cristo no parece competir con la participación.
+
+Interesante.
+
+Muy interesante.
+
+La participación parece conducir hacia conocerle más.
+
+Y conocerle parece producir:
+
+-   amor,
+-   esperanza,
+-   servicio,
+-   perseverancia,
+-   gozo,
+-   gratitud.
+
+## Una pregunta
+
+### ¿Será que la meta de la participación no es simplemente hacer más cosas, sino conocer más profundamente al Cristo crucificado y resucitado?
+Interesante.
+Muy interesante.
+Porque los apóstoles parecen estar ocupados con muchas cosas.
+Pero repetidamente regresan a una Persona.
+
+# CAPÍTULO 22
+
+# LA IGLESIA VIVIENDO ACTUALMENTE EN CRISTO
+
+Después de escuchar a los apóstoles hablar acerca del evangelio y del conocimiento de Cristo, surge otra pregunta.
+
+¿Dónde desean ellos que viva la iglesia?
+
+No simplemente:
+
+¿Qué actividades debe realizar?
+
+Sino:
+
+¿Dentro de qué realidad debe vivir?
+
+Permitiremos nuevamente que hablen.
+
+## Permaneciendo en Cristo
+
+### Juan 15:4–5
+> «Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer».
+
+#### permanezcan en Mí
+##### La vida se encuentra en relación con Cristo.
+-   Cristo permanece ocupando el centro.
+-   Los creyentes permanecen en Él.
+-   El fruto aparece en relación con Él.
+
+##### La separación de Cristo no produce vida.
+
+## Caminando dignamente
+
+### Efesios 4:1
+> «Les ruego que vivan de una manera digna de la vocación con que han sido llamados».
+
+#### vivan de una manera digna
+##### Pablo describe una manera de vivir.
+-   La iglesia posee un llamamiento.
+-   La conducta debe corresponder a esa realidad.
+-   La vida es entendida desde lo que Dios ha hecho.
+
+## Creciendo en Él
+
+### Efesios 4:15
+> «Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo».
+
+#### en Aquel que es la cabeza
+##### El crecimiento posee una dirección.
+-   Cristo es la cabeza.
+-   El crecimiento ocurre en relación con Él.
+-   La iglesia es llevada hacia Él.
+
+## La palabra de Cristo habitando
+
+### Colosenses 3:16
+> «Que la palabra de Cristo habite en abundancia en ustedes».
+
+#### habite en abundancia
+##### La palabra de Cristo ocupa un lugar central.
+-   Los creyentes enseñan.
+-   Los creyentes exhortan.
+-   Los creyentes cantan.
+
+##### Todo ocurre alrededor de Cristo.
+
+## Permaneciendo en la esperanza
+
+### Hebreos 10:23
+> «Mantengamos firme la profesión de nuestra esperanza».
+
+#### mantengamos firme
+##### Los creyentes viven mirando hacia adelante.
+-   La esperanza permanece.
+-   La fidelidad de Dios permanece.
+-   La iglesia espera Su venida.
+
+## Viviendo por el Espíritu
+
+### Gálatas 5:25
+> «Si vivimos por el Espíritu, andemos también por el Espíritu».
+
+#### andemos también por el Espíritu
+##### La vida y la conducta aparecen relacionadas.
+-   El Espíritu permanece obrando.
+-   Los creyentes caminan conforme a esa realidad.
+-   La vida cristiana no es independiente.
+
+## Esperando a Su Hijo
+
+### 1 Tesalonicenses 1:9–10
+> «Esperan a Su Hijo de los cielos».
+
+#### esperan a Su Hijo
+##### La esperanza posee una Persona.
+-   Cristo permanece delante de ellos.
+-   La iglesia vive esperando Su venida.
+-   La mirada permanece puesta en Él.
+
+## Una observación
+
+Los apóstoles no parecen simplemente enseñar actividades.
+
+Interesante.
+
+Muy interesante.
+
+Parecen querer que la iglesia viva:
+
+-   en Cristo,
+-   bajo Su señorío,
+-   por Su Espíritu,
+-   sosteniendo Su palabra,
+-   en amor,
+-   en esperanza,
+-   creciendo hacia la madurez,
+-   esperando Su regreso.
+
+## Otra observación
+
+La iglesia no es presentada simplemente como una organización.
+
+Interesante.
+
+Muy interesante.
+
+Es presentada como:
+
+-   un cuerpo,
+-   una familia,
+-   una comunión,
+-   una casa,
+-   un pueblo.
+
+Y toda esa vida se desarrolla alrededor de Cristo.
+
+## Una pregunta
+
+### ¿Será que los apóstoles no están simplemente enseñando a las iglesias qué hacer, sino tratando de ubicar a las iglesias dentro de la realidad presente del Cristo crucificado y resucitado?
+
+# CAPÍTULO 24
+
+# ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
+
+Después de escuchar a los apóstoles hablar acerca de vivir en Cristo, surge una pregunta natural.
+
+¿Cómo luce una participación fiel?
+
+¿Qué valoran los apóstoles?
+
+¿Qué ejemplos presentan?
+
+Permitiremos nuevamente que hablen.
+
+## Pablo
+
+### 1 Corintios 15:10
+> «Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí».
+
+#### no yo, sino la gracia de Dios
+##### Pablo reconoce la obra de Dios.
+-   Pablo trabaja.
+-   La gracia de Dios permanece obrando.
+-   La confianza no está en sí mismo.
+
+##### La participación ocurre dentro de la gracia.
+
+## Timoteo
+
+### Filipenses 2:20–22
+> «No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes».
+
+#### sinceramente interesado
+##### Pablo destaca el carácter de Timoteo.
+-   Timoteo se preocupa por otros.
+-   Timoteo sirve con Pablo.
+-   Timoteo ha probado su fidelidad.
+
+##### La participación incluye servicio y cuidado.
+
+## Epafrodito
+
+### Filipenses 2:25–30
+> «Porque estuvo al borde de la muerte por la obra de Cristo».
+
+#### por la obra de Cristo
+##### Pablo honra su servicio.
+-   Epafrodito arriesgó su vida.
+-   Sirvió a otros.
+-   Participó en la obra de Cristo.
+
+##### Pablo manda estimar a hombres como él.
+
+## Onesíforo
+
+### 2 Timoteo 1:16–18
+> «Muchas veces me dio consuelo y no se avergonzó de mis cadenas».
+
+#### no se avergonzó
+##### Onesíforo permaneció junto a Pablo.
+-   Lo buscó con diligencia.
+-   Lo ayudó.
+-   Lo sirvió.
+
+##### La fidelidad aparece en medio de la dificultad.
+
+## Estéfanas
+
+### 1 Corintios 16:15
+> «Se han dedicado al servicio de los santos».
+
+#### se han dedicado
+##### Pablo reconoce una disposición.
+-   Sirven a los santos.
+-   Participan voluntariamente.
+-   Son de ayuda para otros.
+
+##### La participación produce beneficio para el cuerpo.
+
+## Febe
+
+### Romanos 16:1–2
+> «Porque ella también ha ayudado a muchos, y aun a mí mismo».
+
+#### ha ayudado a muchos
+##### Pablo reconoce su servicio.
+-   Febe ha sido de ayuda.
+-   Ha servido a muchos.
+-   Pablo mismo se benefició de su labor.
+
+##### La participación bendice a otros.
+
+## Tíquico
+
+### Efesios 6:21
+> «El amado hermano y fiel ministro en el Señor».
+
+#### fiel ministro
+##### Pablo destaca la fidelidad.
+-   Tíquico sirve.
+-   Es amado.
+-   Es considerado fiel.
+
+##### La fidelidad posee valor.
+
+## Una observación
+
+Los ejemplos presentados por los apóstoles son sorprendentes.
+
+Interesante.
+
+Muy interesante.
+
+No aparecen descritos por:
+
+-   fama,
+-   influencia,
+-   poder,
+-   capacidades extraordinarias.
+
+Sino por:
+
+-   fidelidad,
+-   servicio,
+-   amor,
+-   ayuda,
+-   perseverancia,
+-   preocupación por otros.
+
+## Otra observación
+
+La participación fiel no parece llamar la atención hacia sí misma.
+
+Interesante.
+
+Muy interesante.
+
+La atención continúa siendo dirigida hacia Cristo y hacia el beneficio de otros.
+
+## Una pregunta
+
+### ¿Será que la fidelidad es más importante para Cristo que la grandeza?
+Interesante.
+Muy interesante.
+Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a otros y permanecieron fieles.
+
+### Nota para añadir al manual
+La desaparición de la palabra «discípulo» después de Hechos 21:16 no ocurre aisladamente.
+Al avanzar hacia las epístolas, también desaparece gran parte del lenguaje característico de los Evangelios.
+Ya no encontramos:
+- «Sígueme».
+- «Vengan en pos de Mí».
+- «Los haré pescadores de hombres».
+- «Toma tu cruz y sígueme».
+- «Hagan discípulos».
+- «Rabí».
+- «Discípulo».
+Esto no significa necesariamente que la realidad haya desaparecido.
+Pero sí significa que el lenguaje cambia.
+Y esto produce otra pregunta importante.
+¿Esperamos que los apóstoles continúen hablando con el mismo lenguaje de los Evangelios?
+¿O debemos permitirles hablar con su propio lenguaje?
+Por ahora no responderemos.
+Simplemente observamos el hecho.
+No solamente desaparece la palabra «discípulo».
+Desaparece toda una familia de expresiones características del ministerio terrenal de Jesús.
+Y esto nos obliga a escuchar cuidadosamente cómo hablan ahora los apóstoles.
+Los apóstoles no presentan la participación cristiana como una obra realizada desde la ansiedad del rendimiento humano. La presentan dentro de una atmósfera de confianza en Cristo. Los creyentes trabajan, pero Dios obra en ellos. Los siervos plantan y riegan, pero Dios da el crecimiento. Pablo labora, pero no él, sino la gracia de Dios con él. La iglesia persevera, pero fiel es Aquel que la llama, y Él también lo hará. Por eso la participación apostólica no suena frenética, sino libre y gozosa: porque la confianza no descansa en el siervo, sino en el Señor que edifica, sostiene y completa Su obra.
