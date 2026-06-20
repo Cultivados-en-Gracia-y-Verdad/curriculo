@@ -132,6 +132,72 @@ Tal vez debemos preguntar primero:
 
 «¿Quién es el Constructor?»
 
+# **Capítulo 2**
+
+## **Mateo no comienza en Mateo 28:19-20**
+
+Then observe the Matthew thread:
+
+### **1) Mateo 4:19 — Jesús hace a los que luego harán**
+> “Vengan en pos de Mí, y Yo los haré pescadores de hombres.”
+Mechanical observations:
+Jesús llama.
+Ellos siguen.
+Jesús dice: **“Yo los haré.”**
+Antes de que ellos hagan discípulos, Jesús los forma.
+El agente inicial de la formación es Jesús.
+This is huge for your thesis.
+Matthew 28 does not begin with the disciples as makers. Matthew begins with Jesus saying:
+> **Yo los haré…**
+So 28:19 is not the beginning of discipleship. It is the result of Jesus’ own forming work.
+
+### **2) Mateo 16:18 — Jesús edifica Su iglesia**
+> “Yo edificaré Mi iglesia.”
+Now the “Constructor” chapter becomes much stronger because it is not a separate theological category. It is part of the same Gospel narrative.
+Matthew gives:
+**4:19** — “Yo los haré…”
+**16:18** — “Yo edificaré…”
+**28:19** — “hagan discípulos…”
+That creates a strong internal Matthew spine.
+
+### **3) Mateo 16:21 — Jesús comienza a mostrar**
+> “Desde entonces Jesús comenzó a mostrar…”
+This is where your recent insight belongs.
+Matthew does not merely show Jesus giving a final command. Matthew shows Jesus **forming the disciples through disclosure**:
+showing them the necessary path of suffering/death/resurrection,
+exposing their resistance,
+defining the path of following: deny self, take up cross, follow.
+So “hacer discípulos” cannot be reduced to transfer of information. Matthew has already shown disciples being formed through Jesus’ words, path, correction, suffering, and resurrection.
+
+### **4) Mateo 28:19–20 — los formados son enviados a formar**
+Then the final command makes sense:
+> “Hagan discípulos… enseñándoles a guardar todo lo que les he mandado.”
+This is the capstone, not the starting definition.
+
+### **Possible “Matthew spine” for your manuscript**
+You could include a short mechanical table like this:
+**Texto**
+**Observación mínima**
+**Función en el hilo**
+Mateo 4:19
+“Yo los haré pescadores de hombres”
+Jesús forma a los futuros formadores
+Mateo 16:18
+“Yo edificaré Mi iglesia”
+Cristo es el Constructor de la obra
+Mateo 16:21
+“comenzó a mostrar…”
+Jesús forma a los discípulos revelando Su camino
+Mateo 16:24
+“si alguno quiere venir en pos de Mí…”
+Define el seguir como negarse, tomar cruz, seguir
+Mateo 28:18
+“Toda autoridad me ha sido dada”
+La misión nace de la autoridad de Cristo
+Mateo 28:19–20
+“hagan discípulos… enseñándoles a guardar…”
+Los discípulos formados ahora participan formando a otros
+
 # Capítulo 2
 
 # El Constructor
@@ -808,3 +874,358 @@ Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimie
 -   La gloria pertenece a Dios.
 
 > En Síntesis
+
+# Capítulo 9
+
+# Jesús forma a los que enviará
+
+Si Cristo es el Constructor, otra pregunta surge naturalmente.
+
+¿Cómo lleva a cabo Su obra?
+
+Al llegar al Evangelio de Mateo encontramos algo interesante.
+
+Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.
+
+## Jesús promete hacer
+
+### Mateo 4:19
+«Síganme, y Yo los haré pescadores de hombres.»
+
+#### Yo los haré
+##### La obra comienza con Jesús.
+-   Jesús llama.
+-   Jesús promete hacerlos pescadores de hombres.
+-   La iniciativa pertenece a Él.
+-   La formación comienza con Él.
+
+## Jesús forma a Sus discípulos
+
+### Mateo 16:21
+Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+
+#### Jesús comenzó a mostrar
+##### Jesús continuó formando a Sus discípulos.
+-   Jesús les reveló Su camino.
+-   Los preparó para Su sufrimiento, muerte y resurrección.
+-   La formación continuó durante Su ministerio.
+
+## Jesús posee toda autoridad
+
+### Mateo 28:18
+Toda autoridad me ha sido dada en el cielo y en la tierra.
+
+#### Toda autoridad
+##### La misión nace de la autoridad de Cristo.
+-   La autoridad pertenece a Jesús.
+-   La misión procede de Él.
+-   Los discípulos son enviados por Él.
+
+## Los formados son enviados
+
+### Mateo 28:19-20
+Vayan, pues, y hagan discípulos de todas las naciones...
+
+#### hagan discípulos
+##### Jesús envía a aquellos que Él mismo había formado.
+-   Los discípulos participan en la obra.
+-   Deben enseñar a guardar lo que Jesús mandó.
+-   Jesús permanece con ellos.
+-   Su presencia continúa hasta el fin del siglo.
+
+# En Síntesis
+
+-   Jesús prometió hacer pescadores de hombres.
+-   Jesús mismo formó a Sus discípulos.
+-   La autoridad pertenece al Cristo resucitado.
+-   Los discípulos son enviados por Él.
+-   Deben enseñar a guardar Sus mandamientos.
+-   Jesús permanece con ellos hasta el fin del siglo.
+
+# Capítulo 11
+
+# ¿Qué pasó con el discipulado?
+
+Al seguir el libro de Hechos encontramos algo interesante.
+
+La palabra «discípulo» aparece repetidamente.
+
+Los discípulos se multiplican.
+
+Muchos discípulos son hechos.
+
+Los discípulos son fortalecidos.
+
+Pero al llegar a Hechos 21:16, la palabra desaparece.
+
+Y una pregunta surge naturalmente.
+
+¿Qué pasó con el discipulado?
+
+¿Desapareció?
+
+¿Cambió?
+
+¿Continúa bajo otro lenguaje?
+
+¿Esperábamos encontrar la misma terminología en las epístolas?
+
+¿La encontramos?
+
+Estas preguntas no nacen de una teoría.
+
+Nacen del propio texto.
+
+Y por el momento, permitiremos que la tensión permanezca.
+
+Seguiremos observando.
+
+Permitiremos que las epístolas hablen por sí mismas.
+
+Y dejaremos que ellas determinen si responden estas preguntas, cómo las responden, o incluso si deciden responderlas.
+
+# ¿Y ahora dónde encontramos las instrucciones?
+
+Al llegar al final del libro de Hechos, encontramos algo interesante.
+
+La palabra «discípulo» aparece repetidamente a lo largo del libro.
+
+Los discípulos se multiplican.
+
+Muchos discípulos son hechos.
+
+Los discípulos son fortalecidos.
+
+Pero al llegar a Hechos 21:16, la palabra desaparece.
+
+Naturalmente podríamos esperar encontrar en las epístolas instrucciones dirigidas a la iglesia acerca de cómo hacer discípulos.
+
+Después de todo, Jesús había dicho:
+
+> «Vayan y hagan discípulos…»
+
+Entonces surge una pregunta razonable.
+
+¿Dónde enseñan las epístolas cómo hacer discípulos?
+
+¿Hablan del discipulado?
+
+¿Aparecen nuevamente las palabras «discípulo» o «discipulado»?
+
+¿Encontramos instrucciones dirigidas a las iglesias acerca de cómo llevar a cabo esta tarea?
+
+Estas preguntas nacen del texto mismo.
+
+Y por eso debemos permitir que las epístolas respondan por sí mismas.
+
+Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca de cómo hacer discípulos.
+
+Pero al seguir el texto descubrimos algo sorprendente.
+
+La última aparición de la palabra «discípulo» se encuentra en Hechos 21:16.
+
+Y después de eso, no vuelve a aparecer jamás.
+
+Ni una sola vez.
+
+No aparece en Romanos.
+
+No aparece en las cartas a los Corintios.
+
+No aparece en Efesios.
+
+No aparece en las cartas pastorales.
+
+No aparece en Hebreos.
+
+No aparece en las cartas de Pedro.
+
+No aparece en las cartas de Juan.
+
+No aparece en Apocalipsis.
+
+La palabra desaparece por completo.
+
+Esto no constituye una interpretación.
+
+Es simplemente un hecho.
+
+Y ese hecho produce una pregunta inevitable.
+
+¿Qué ocurrió?
+
+¿Desapareció el discipulado?
+
+¿Cambió el lenguaje?
+
+¿Esperábamos encontrar algo que las epístolas nunca intentan decir?
+
+Por ahora no responderemos.
+
+Permitiremos que las epístolas hablen por sí mismas.
+
+Naturalmente, esperamos llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.
+
+Después de todo, Jesús había dicho:
+
+> «Vayan y hagan discípulos...»
+
+Y el libro de Hechos está lleno de discípulos.
+
+Los discípulos se multiplican.
+
+Muchos discípulos son hechos.
+
+Los discípulos son fortalecidos.
+
+Pero al llegar a Hechos 21:16 ocurre algo inesperado.
+
+La palabra «discípulo» desaparece.
+
+Y después de eso, no vuelve a aparecer jamás.
+
+En ninguna parte.
+
+Ni una sola vez.
+
+No en Romanos.
+
+No en 1 y 2 Corintios.
+
+No en Gálatas.
+
+No en Efesios.
+
+No en Filipenses.
+
+No en Colosenses.
+
+No en las cartas pastorales.
+
+No en Hebreos.
+
+No en Santiago.
+
+No en Pedro.
+
+No en Juan.
+
+No en Judas.
+
+No en Apocalipsis.
+
+En ninguna parte.
+
+Deténgase por un momento.
+
+Escuche eso nuevamente.
+
+En ninguna parte.
+
+Simplemente no está allí.
+
+Esto no es una interpretación.
+
+No es una conclusión.
+
+No es una teoría.
+
+Es un hecho.
+
+Y por un momento se produce un silencio incómodo.
+
+Porque todos esperamos encontrar algo.
+
+Algo.
+
+Un capítulo.
+
+Un mandato.
+
+Una explicación.
+
+Una sección dedicada al discipulado.
+
+Pero no la encontramos.
+
+La palabra desaparece.
+
+Y todos se miran unos a otros.
+
+Y por un momento nadie sabe qué decir.
+
+¿Escuchó eso?
+
+En ninguna parte.
+
+Simplemente no está allí.
+
+Permita que eso repose.
+
+No apresuraremos las respuestas.
+
+No intentaremos resolver la tensión demasiado pronto.
+
+Seguiremos leyendo.
+
+Y permitiremos que las Escrituras hablen por sí mismas.
+
+Antes de seguir adelante, no debemos olvidar lo que sí sabemos.
+
+Jesús prometió:
+
+> «Yo edificaré Mi iglesia.»
+
+Y nunca retiró esa promesa.
+
+Jesús envió a Sus discípulos a hacer discípulos.
+
+Y prometió:
+
+> «Yo estoy con ustedes todos los días, hasta el fin del siglo.»
+
+La obra tiene un «hasta».
+
+La presencia tiene un «hasta».
+
+Y el Constructor permanece siendo el Constructor.
+
+Todavía no hemos llegado al final.
+
+La historia no termina en Hechos.
+
+Las epístolas tampoco representan el final.
+
+Cristo todavía no ha regresado.
+
+La iglesia todavía no ha sido presentada.
+
+El edificio todavía no está terminado.
+
+Por eso, antes de sacar conclusiones apresuradas, recordemos algo.
+
+La desaparición de una palabra no significa necesariamente la desaparición de la realidad.
+
+Y tampoco debemos perder de vista el destino.
+
+Cristo continúa avanzando hacia un «hasta».
+
+Un día Él volverá.
+
+Y presentará a Su iglesia a Sí mismo, gloriosa.
+
+Todavía no hemos llegado allí.
+
+Por eso no perderemos la esperanza.
+
+Tampoco adelantaremos las respuestas.
+
+Seguiremos escuchando.
+
+Y ahora, abriremos las epístolas.
+
+Permitiremos que los apóstoles hablen.
+
+Y veremos qué es lo que ocupa su atención.
+
+# Capítulo 12
