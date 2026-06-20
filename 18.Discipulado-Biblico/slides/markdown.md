@@ -114,11 +114,11 @@ Yo edificaré Mi iglesia.
 
 Mientras seguimos el Evangelio de Mateo, otra declaración comienza a ocupar el centro.
 Jesús no dice:
-Edifiquen Mi iglesia.»
+> «Edifiquen Mi iglesia.»
 Ni dice:
-Ustedes edificarán Mi iglesia.»
+> «Ustedes edificarán Mi iglesia.»
 Dice:
-Yo edificaré Mi iglesia.»
+> «Yo edificaré Mi iglesia.»
 La obra pertenece a Cristo.
 La iglesia pertenece a Cristo.
 La responsabilidad final pertenece a Cristo.
@@ -287,7 +287,7 @@ Pero inmediatamente surge otra pregunta.
 
 Al llegar a las cartas del Nuevo Testamento, descubrimos algo interesante. Los apóstoles no describen la iglesia mediante una sola imagen. La presentan de muchas maneras. Cada una de ellas nos permite ver algo de la obra que Cristo está realizando.
 
-##### **Un cuerpo**
+##### Un cuerpo
 
 ### Efesios 4:15-16
 sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo, de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
@@ -299,7 +299,7 @@ sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel qu
 -   Los creyentes son miembros.
 -   El cuerpo crece juntamente.
 
-##### **Una casa**
+##### Una casa
 
 ### Efesios 2:19
 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
@@ -310,7 +310,7 @@ Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadano
 -   Dios es presentado como Padre.
 -   Los creyentes son presentados como familia.
 
-##### **Un templo**
+##### Un templo
 
 ### Efesios 2:21-22
 en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor, en quien también ustedes son juntamente edificados para morada de Dios en el Espíritu.
@@ -321,7 +321,7 @@ en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo 
 -   El crecimiento ocurre juntamente.
 -   La meta es una morada para Dios.
 
-##### **Un hombre nuevo**
+## Un hombre nuevo
 
 ### Efesios 2:15
 aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz.
@@ -332,7 +332,7 @@ aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en 
 -   Judíos y gentiles son unidos en Cristo.
 -   La paz es producida por Él.
 
-##### **Una esposa**
+## Una esposa
 
 ### Efesios 5:25-27
 Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
@@ -344,7 +344,7 @@ Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habién
 -   Cristo la santifica.
 -   Cristo la prepara.
 
-##### **Muchos hermanos conformados a Su Hijo**
+## Muchos hermanos conformados a Su Hijo
 
 ### Romanos 8:29
 Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
@@ -357,25 +357,37 @@ Porque a los que de antemano conoció, también los predestinó a ser hechos con
 
 > En Síntesis
 
-# CAPÍTULO 5 - ¿CÓMO EDIFICA EL CONSTRUCTOR?
+# CAPÍTULO 5
 
-##### Si Cristo es el Constructor, y si sabemos qué está edificando, otra pregunta surge naturalmente.
-> "¿Cómo realiza Su obra?"
-- ¿Existe un método?
-- ¿Existe un proceso único?
-- ¿Existe una fórmula?
+# ¿Cómo edifica el Constructor?
 
-###### Al observar el Nuevo Testamento, encontramos algo interesante. (Efesios 4-5)
-- Cristo utiliza medios.
-- Cristo utiliza personas.
-- Cristo utiliza Su palabra.
-- Cristo utiliza el evangelio.
-- Cristo utiliza dones.
-- Cristo utiliza generaciones.
+Si Cristo es el Constructor, y si sabemos qué está edificando, otra pregunta surge naturalmente.
 
-###### Pero la obra sigue siendo Suya.
+¿Cómo realiza Su obra?
 
-##### **El evangelio es el poder de Dios**
+¿Existe un método?
+
+¿Existe un proceso único?
+
+¿Existe una fórmula?
+
+Al observar el Nuevo Testamento, encontramos algo interesante.
+
+Cristo utiliza medios.
+
+Cristo utiliza personas.
+
+Cristo utiliza Su palabra.
+
+Cristo utiliza el evangelio.
+
+Cristo utiliza dones.
+
+Cristo utiliza generaciones.
+
+Pero la obra sigue siendo Suya.
+
+## El evangelio es el poder de Dios
 
 ### Romanos 1:16
 Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree; del judío primeramente y también del griego.
@@ -386,7 +398,7 @@ Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvaci
 -   El evangelio ocupa un lugar central.
 -   La obra depende de Dios.
 
-##### **El Señor envía a Sus siervos**
+## El Señor envía a Sus siervos
 
 ### Mateo 28:19-20
 Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y Yo estoy con ustedes todos los días, hasta el fin del mundo.
@@ -398,7 +410,7 @@ Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nom
 -   Los discípulos enseñan.
 -   Cristo permanece con ellos.
 
-##### **Cristo da dones a Su iglesia**
+## Cristo da dones a Su iglesia
 
 ### Efesios 4:11-12
 Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.
@@ -409,7 +421,7 @@ Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a
 -   Los santos son equipados.
 -   La edificación pertenece al cuerpo.
 
-##### **La verdad es transmitida a otros**
+## La verdad es transmitida a otros
 
 ### 2 Timoteo 2:2
 Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
@@ -421,7 +433,7 @@ Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombre
 -   Timoteo debía encargarlo a otros.
 -   Otros también enseñarían.
 
-##### **Dios da crecimiento**
+## Dios da crecimiento
 
 ### 1 Corintios 3:6
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
@@ -434,19 +446,31 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 
 > En Síntesis
 
-# CAPÍTULO 6 - ¿DÓNDE EDIFICA EL CONSTRUCTOR?
+# CAPÍTULO 6
 
-##### Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.
-> "¿Dónde ocurre normalmente este crecimiento?"
-> "¿Dónde ha decidido Cristo llevar a cabo Su obra?"
+# ¿Dónde edifica el Constructor?
 
-##### Al observar el Nuevo Testamento, encontramos algo interesante. Los creyentes no son presentados como personas aisladas. Tampoco son presentados como simples estudiantes.
-###### Son presentados como miembros de un cuerpo.
-- Como una familia.
-- Como una casa.
-- Como una asamblea.
+Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.
 
-##### El cuerpo crece unido
+¿Dónde ocurre normalmente este crecimiento?
+
+¿Dónde ha decidido Cristo llevar a cabo Su obra?
+
+Al observar el Nuevo Testamento, encontramos algo interesante.
+
+Los creyentes no son presentados como personas aisladas.
+
+Tampoco son presentados como simples estudiantes.
+
+Son presentados como miembros de un cuerpo.
+
+Como una familia.
+
+Como una casa.
+
+Como una asamblea.
+
+## El cuerpo crece unido
 
 ### Efesios 4:16
 de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
@@ -458,7 +482,7 @@ de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las 
 -   Cada miembro participa.
 -   La edificación ocurre en amor.
 
-##### **Los creyentes son una familia**
+## Los creyentes son una familia
 
 ### Efesios 2:19
 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
@@ -481,7 +505,7 @@ El ojo no puede decir a la mano: «No te necesito»; ni tampoco la cabeza a los 
 -   Los miembros se necesitan.
 -   Los miembros sirven unos a otros.
 
-##### **Los creyentes viven la verdad unos con otros**
+## Los creyentes viven la verdad unos con otros
 
 ### Romanos 12:10
 Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
@@ -493,7 +517,7 @@ Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferenc
 -   Los creyentes se honran mutuamente.
 -   Los creyentes soportan cargas reales.
 
-##### **Las generaciones viven juntas**
+## Las generaciones viven juntas
 
 ### Tito 2:1-5
 Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
@@ -505,7 +529,7 @@ Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
 -   Las generaciones conviven.
 -   La verdad es vivida.
 
-##### **La iglesia perseveraba junta**
+## La iglesia perseveraba junta
 
 ### Hechos 2:42
 Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
@@ -520,16 +544,21 @@ Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión
 
 > En Síntesis
 
-# CAPÍTULO 7 - ¿CUÁL ES LA META DEL CONSTRUCTOR?
+# CAPÍTULO 7
 
-##### Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.
-> "¿Hacia dónde se dirige esta obra?"
-> "¿Existe una meta?"
-> "¿Tiene Cristo un propósito para Su iglesia?"
+# ¿Cuál es la meta del Constructor?
 
-##### Las Escrituras presentan una obra que avanza hacia un *hasta*.
+Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.
 
-##### **Hasta que todos lleguemos**
+¿Hacia dónde se dirige esta obra?
+
+¿Existe una meta?
+
+¿Tiene Cristo un propósito para Su iglesia?
+
+Las Escrituras presentan una obra que avanza hacia un "hasta".
+
+## Hasta que todos lleguemos
 
 ### Efesios 4:13
 hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
@@ -560,7 +589,7 @@ hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo
 -   La meta no es el hombre.
 -   La medida es Cristo.
 
-##### Hasta el fin del siglo
+## Hasta el fin del siglo
 
 ### Mateo 28:20
 y Yo estoy con ustedes todos los días, hasta el fin del mundo.
@@ -571,7 +600,7 @@ y Yo estoy con ustedes todos los días, hasta el fin del mundo.
 -   Cristo permanece con los Suyos.
 -   La obra continúa hasta el fin del siglo.
 
-##### Para presentársela a Sí mismo
+## Para presentársela a Sí mismo
 
 ### Efesios 5:25-27
 Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
@@ -583,7 +612,7 @@ Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habién
 -   Cristo santifica a Su iglesia.
 -   Cristo prepara a Su iglesia.
 
-##### Conformados a la imagen de Su Hijo
+## Conformados a la imagen de Su Hijo
 
 ### Romanos 8:29
 Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
@@ -596,16 +625,19 @@ Porque a los que de antemano conoció, también los predestinó a ser hechos con
 
 > En Síntesis
 
-# CAPÍTULO 8 - AMENAZAS A LA OBRA DEL CONSTRUCTOR
+# CAPÍTULO 8
 
-##### Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.
-> "¿Qué amenaza esta obra?"
+# Amenazas a la obra del Constructor
 
-##### Las Escrituras muestran que Cristo permanece fiel.
+Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.
 
-##### Pero también muestran que los creyentes necesitan ser advertidos.
+¿Qué amenaza esta obra?
 
-#####  Las divisiones desvían la atención
+Las Escrituras muestran que Cristo permanece fiel.
+
+Pero también muestran que los creyentes necesitan ser advertidos.
+
+## Las divisiones desvían la atención
 
 ### 1 Corintios 1:12
 Quiero decir, que cada uno de ustedes dice: «Yo soy de Pablo», «Yo de Apolos», «Yo de Cefas» y «Yo de Cristo».
@@ -616,7 +648,7 @@ Quiero decir, que cada uno de ustedes dice: «Yo soy de Pablo», «Yo de Apolos�
 -   Las personas sustituyen a Cristo.
 -   Las divisiones dañan el cuerpo.
 
-#####  La sabiduría humana desplaza la sabiduría de Dios
+## La sabiduría humana desplaza la sabiduría de Dios
 
 ### 1 Corintios 3:18-19
 Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
@@ -627,7 +659,7 @@ Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hág
 -   Los métodos humanos no sustituyen la obra de Dios.
 -   La gloria pertenece a Dios.
 
-#####  La inmadurez impide el crecimiento
+## La inmadurez impide el crecimiento
 
 ### Efesios 4:14
 para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
@@ -685,14 +717,17 @@ Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimie
 
 > En Síntesis
 
-# CAPÍTULO 9 - JESÚS FORMA A LOS QUE ENVIARÁ
+# CAPÍTULO 9
 
-##### Si Cristo es el Constructor, otra pregunta surge naturalmente.
-> "¿Cómo lleva a cabo Su obra?"
+# Jesús forma a los que enviará
 
-##### Al llegar al Evangelio de Mateo encontramos algo interesante.
+Si Cristo es el Constructor, otra pregunta surge naturalmente.
 
-##### Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.
+¿Cómo lleva a cabo Su obra?
+
+Al llegar al Evangelio de Mateo encontramos algo interesante.
+
+Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.
 
 ## Jesús promete hacer
 
@@ -740,38 +775,42 @@ Vayan, pues, y hagan discípulos de todas las naciones...
 -   Jesús permanece con ellos.
 -   Su presencia continúa hasta el fin del siglo.
 
-> En Síntesis
-> -   Jesús prometió hacer pescadores de hombres.
-> -   Jesús mismo formó a Sus discípulos.
-> -   La autoridad pertenece al Cristo resucitado.
-> -   Los discípulos son enviados por Él.
-> -   Deben enseñar a guardar Sus mandamientos.
-> -   Jesús permanece con ellos hasta el fin del siglo.
+# En Síntesis
 
-# CAPÍTULO 11 - ¿QUÉ PASÓ CON EL DISCIPULADO? 
+-   Jesús prometió hacer pescadores de hombres.
+-   Jesús mismo formó a Sus discípulos.
+-   La autoridad pertenece al Cristo resucitado.
+-   Los discípulos son enviados por Él.
+-   Deben enseñar a guardar Sus mandamientos.
+-   Jesús permanece con ellos hasta el fin del siglo.
 
-##### Al seguir el libro de Hechos encontramos algo interesante.
+# CAPÍTULO 11
 
-##### La palabra «discípulo» aparece repetidamente.
+# ¿Qué pasó con el discipulado?
 
-##### Los discípulos se multiplican.
+Al seguir el libro de Hechos encontramos algo interesante.
 
-##### Muchos discípulos son hechos.
+La palabra «discípulo» aparece repetidamente.
 
-##### Los discípulos son fortalecidos.
+Los discípulos se multiplican.
 
-##### Pero al llegar a Hechos 21:16, la palabra desaparece.
+Muchos discípulos son hechos.
 
-##### Y después de eso, no vuelve a aparecer en ninguna parte de las epístolas.
+Los discípulos son fortalecidos.
 
-##### Esto no constituye una interpretación.
+Pero al llegar a Hechos 21:16, la palabra desaparece.
 
-##### Es simplemente un hecho.
+Y después de eso, no vuelve a aparecer en ninguna parte de las epístolas.
 
-##### Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.
+Esto no constituye una interpretación.
 
-##### Después de todo, Jesús había dicho:
-> *Vayan y hagan discípulos…*
+Es simplemente un hecho.
+
+Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.
+
+Después de todo, Jesús había dicho:
+
+> «Vayan y hagan discípulos…»
 
 Por eso surgen preguntas inevitables.
 
@@ -800,10 +839,12 @@ La desaparición de una palabra no implica necesariamente la desaparición de la
 Tampoco debemos olvidar lo que sí sabemos.
 
 Jesús prometió:
-Yo edificaré Mi iglesia.»
+
+> «Yo edificaré Mi iglesia.»
 
 Y también prometió:
-Yo estoy con ustedes todos los días, hasta el fin del siglo.»
+
+> «Yo estoy con ustedes todos los días, hasta el fin del siglo.»
 
 El Constructor permanece siendo el Constructor.
 
@@ -882,7 +923,7 @@ Pablo está ocupado con:
 -   la perseverancia,
 -   la gloria futura.
 
-##### Hebreos
+## Hebreos
 
 El autor está ocupado con:
 
@@ -893,7 +934,7 @@ El autor está ocupado con:
 -   reunirse,
 -   correr con paciencia.
 
-##### Santiago
+## Santiago
 
 Santiago está ocupado con:
 
@@ -903,7 +944,7 @@ Santiago está ocupado con:
 -   la paciencia,
 -   la oración.
 
-##### Pedro
+## Pedro
 
 Pedro está ocupado con:
 
@@ -913,7 +954,7 @@ Pedro está ocupado con:
 -   los ancianos,
 -   la venida del Señor.
 
-##### Juan
+## Juan
 
 Juan está ocupado con:
 
@@ -925,17 +966,14 @@ Juan está ocupado con:
 
 ## Judas
 
-##### Judas
-
 Judas está ocupado con:
 
 -   contender por la fe,
 -   permanecer,
 -   guardar.
 
-## Juan 
+## Apocalipsis
 
-##### Apocalipsis
 Juan está ocupado con:
 
 -   Jesucristo,
@@ -963,7 +1001,9 @@ Sino:
 ### ¿Qué están procurando producir los apóstoles?
 Y quizá, al seguir escuchándolos, la respuesta aparezca por sí sola.
 
-# Capítulo 13 ¿EN QUÉ ESTÁ OCUPADO CRISTO?
+# Capítulo 13
+
+# ¿EN QUÉ ESTÁ OCUPADO CRISTO?
 
 Hasta aquí hemos escuchado a los apóstoles.
 
@@ -977,9 +1017,8 @@ Permitiremos que primero Pablo y luego el Señor Jesús mismo hablen.
 
 ## Efesios 5
 
-##### ¿Qué está haciendo Cristo con Su iglesia?
-
-###### Pablo presenta a Cristo ocupado con Su iglesia.
+### ¿Qué está haciendo Cristo con Su iglesia?
+Pablo presenta a Cristo ocupado con Su iglesia.
 Cristo:
 - la amó,
 - se entregó por ella,
@@ -987,18 +1026,15 @@ Cristo:
 - la limpia,
 - la sustenta,
 - la cuida,
-
-###### y finalmente la presentará a Sí mismo gloriosa.
-
-###### Surgen algunas preguntas.
+- y finalmente la presentará a Sí mismo gloriosa.
+Surgen algunas preguntas.
 - ¿Parece Cristo desentendido de Su iglesia?
 - ¿Habla Pablo como si la obra estuviera terminada?
 - ¿Es la presentación algo futuro?
 
 ## Apocalipsis 2–3
 
-##### ¿Qué está haciendo Cristo entre las iglesias?
-
+### ¿Qué está haciendo Cristo entre las iglesias?
 Ahora es el Señor Jesús mismo quien habla.
 Y nuevamente encontramos a Cristo ocupado.
 Él:
@@ -1010,7 +1046,7 @@ Y nuevamente encontramos a Cristo ocupado.
 - promete.
 Pero algo llama especialmente la atención.
 Su lenguaje continúa siendo:
-Yo haré».
+> «Yo haré».
 - «Yo le daré…»
 - «Yo confesaré…»
 - «Yo haré…»
@@ -1026,23 +1062,23 @@ Sin desarrollar todavía estos pasajes, es interesante observar que otros escrit
 
 Pablo:
 
-El que comenzó en ustedes la buena obra la perfeccionará.»
+> «El que comenzó en ustedes la buena obra la perfeccionará.»
 
 Pedro:
 
-Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.»
+> «Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.»
 
 Hebreos:
 
-Vive siempre para interceder por ellos.»
+> «Vive siempre para interceder por ellos.»
 
 Judas:
 
-Es poderoso para guardarlos sin caída y para presentarlos sin mancha.»
+> «Es poderoso para guardarlos sin caída y para presentarlos sin mancha.»
 
 Juan:
 
-Cuando Él se manifieste, seremos semejantes a Él.»
+> «Cuando Él se manifieste, seremos semejantes a Él.»
 
 ## Una pregunta
 
@@ -1050,19 +1086,26 @@ Después de escuchar a Pablo y luego al Señor Jesús mismo, surge una pregunta 
 
 ### ¿Ha dejado el Constructor de construir?
 ¿Es esta la misma obra de la que Jesús habló cuando dijo:
-Yo edificaré Mi iglesia»?
+> «Yo edificaré Mi iglesia»?
 Por ahora no responderemos.
 Simplemente seguiremos escuchando.
 
-# Capítulo 14 - PARTICIPANDO CON CONFIANZA
+# Capítulo 14
+
+# PARTICIPANDO CON CONFIANZA
 
 Después de escuchar a los apóstoles, surge una pregunta natural.
-> ¿Cómo participan?
-> ¿Cómo trabajan?
-> ¿Cómo soportan?
-> ¿Cómo perseveran?
+
+¿Cómo participan?
+
+¿Cómo trabajan?
+
+¿Cómo soportan?
+
+¿Cómo perseveran?
 
 La respuesta que parece surgir repetidamente no es:
+
 -   por ansiedad,
 -   por confianza en sí mismos,
 -   por seguridad basada en el desempeño.
@@ -1073,40 +1116,28 @@ Los apóstoles participan dentro de una profunda confianza en Cristo.
 
 ### 2 Corintios 1:9
 Pablo explica que llegaron a tener sentencia de muerte en sí mismos.
-
 Pero aquello tuvo un propósito.
-Para que no confiáramos en nosotros mismos, sino en Dios que resucita a los muertos.»
-
+> «Para que no confiáramos en nosotros mismos, sino en Dios que resucita a los muertos.»
 La presión no produjo más confianza en sí mismos.
 Produjo una transferencia de confianza.
 
 ### Filipenses 3:3
-Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu de Dios y nos gloriamos en Cristo Jesús, no poniendo la confianza en la carne,
-
 Los creyentes son aquellos que:
-
-#### se glorían en Cristo Jesús,
-
-#### no ponen confianza en la carne.
+- se glorían en Cristo Jesús,
+- y no ponen confianza en la carne.
 La confianza apostólica no está repartida entre Cristo y la carne.
 La confianza ha sido trasladada.
 
 ## Confiando en Aquel que comenzó
 
 ### Filipenses 1:6
-Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
-
-#### Estoy convencido...
 Pablo está convencido.
 Pero su confianza no descansa en los filipenses.
 Descansa en Aquel que comenzó la buena obra y la perfeccionará hasta el día de Cristo.
 
 ### 1 Tesalonicenses 5:23–24
-Y que el mismo Dios de paz los santifique por completo; y que todo su ser, espíritu, alma y cuerpo, sea preservado irreprensible para la venida de nuestro Señor Jesucristo. Fiel es Aquel que los llama, el cual también lo hará.
-
 Pablo ora por ellos y luego concluye:
-Fiel es el que los llama, el cual también lo hará.»
-
+> «Fiel es el que los llama, el cual también lo hará.»
 La seguridad del apóstol no descansa en la capacidad humana.
 Descansa en la fidelidad de Dios.
 
@@ -1130,7 +1161,7 @@ La fuente no es Pablo.
 ### 1 Corintios 15:10
 Pablo trabajó más que todos.
 Pero añade:
-Aunque no yo, sino la gracia de Dios conmigo.»
+> «Aunque no yo, sino la gracia de Dios conmigo.»
 El trabajo es real.
 La gracia también.
 
@@ -1148,13 +1179,13 @@ Las tribulaciones producen perseverancia, carácter probado y esperanza.
 Y la esperanza no avergüenza.
 
 ### Filipenses 4:4
-Regocíjense en el Señor siempre.»
+> «Regocíjense en el Señor siempre.»
 No en las circunstancias.
 No en el desempeño.
 En el Señor.
 
 ### 2 Corintios 6:10
-Entristecidos, mas siempre gozosos.»
+> «Entristecidos, mas siempre gozosos.»
 Su gozo no depende de las circunstancias.
 Su confianza descansa en otro lugar.
 
@@ -1181,7 +1212,9 @@ El Constructor sigue siendo Cristo.
 ### ¿Será esta la libertad que surge cuando uno deja de intentar ser el Constructor y aprende a participar con Él?
 Por ahora seguiremos escuchando.
 
-# CAPÍTULO 15 -  ENSEÑANDO PARA UBICAR A LA IGLESIA EN CRISTO
+# CAPÍTULO 15
+
+# ENSEÑANDO PARA UBICAR A LA IGLESIA EN CRISTO
 
 Después de escuchar a los apóstoles, una conclusión inesperada comienza a aparecer.
 
@@ -1231,7 +1264,7 @@ Lucha.
 
 Pero explica por qué:
 
-a fin de presentar a todo hombre perfecto en Cristo».
+> «a fin de presentar a todo hombre perfecto en Cristo».
 
 No busca simplemente producir conocimiento.
 
@@ -1260,7 +1293,7 @@ Por eso escribe.
 
 Y repetidamente dice:
 
-quiero recordarles».
+> «quiero recordarles».
 
 Su interés no es preservar a Pedro.
 
@@ -1325,19 +1358,19 @@ Los apóstoles no parecen simplemente enseñar actividades.
 
 No dicen:
 
-Hagan más cosas».
+> «Hagan más cosas».
 
 Más bien parecen decir:
 
-Vivan aquí».
+> «Vivan aquí».
 
-Permanezcan aquí».
+> «Permanezcan aquí».
 
-Crezcan aquí».
+> «Crezcan aquí».
 
-Caminen aquí».
+> «Caminen aquí».
 
-No se aparten de aquí».
+> «No se aparten de aquí».
 
 Interesante.
 
@@ -1355,23 +1388,25 @@ Pero su propósito cambia.
 
 Ya no es:
 
-##### «Aprendan para construir».
+### «Aprendan para construir».
 Sino:
 
-##### «Aprendan para participar».
+### «Aprendan para participar».
 
-##### «Aprendan para permanecer».
+### «Aprendan para permanecer».
 
-##### «Aprendan para conocer».
+### «Aprendan para conocer».
 
-##### «Aprendan para crecer».
+### «Aprendan para crecer».
 ##### «Aprendan para vivir dentro de lo que Cristo está haciendo».
 
 ## Una pregunta
 
 ##### ¿Será que gran parte de la enseñanza apostólica no busca simplemente transmitir información, sino ayudar a las iglesias a permanecer ubicadas dentro de la realidad de Cristo?
 
-# CAPÍTULO 16 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS APÓSTOLES?
+# CAPÍTULO 16
+
+# ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS APÓSTOLES?
 
 Después de escuchar a los apóstoles, surge una pregunta natural.
 
@@ -1394,7 +1429,7 @@ Pero, ¿qué?
 ## Jesús comienza a mostrar
 
 ### Mateo 16:21
-Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+> «Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.»
 
 #### comenzó a mostrar
 ##### Jesús dirige la atención hacia Su muerte y resurrección.
@@ -1412,7 +1447,7 @@ Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerus
 ## Pablo entrega lo que recibió
 
 ### 1 Corintios 15:1–3
-Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras
+> «Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras».
 
 #### les entregué
 ##### Pablo se presenta como alguien que transmite algo recibido.
@@ -1433,7 +1468,7 @@ Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió 
 ## Los creyentes permanecen en el evangelio
 
 ### 1 Corintios 15:1
-Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.
+> «Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes».
 
 #### están firmes
 ##### El evangelio no aparece solamente como el comienzo.
@@ -1446,7 +1481,7 @@ Les hago saber, hermanos, el evangelio que les prediqué, el cual también recib
 ## Pablo desea predicar el evangelio a creyentes
 
 ### Romanos 1:15–16
-Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación.
+> «Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación».
 
 #### también a ustedes
 ##### Pablo escribe a creyentes.
@@ -1463,7 +1498,7 @@ Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustede
 ## Pablo protege el centro
 
 ### Gálatas 1:8
-Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
+> «Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema».
 
 #### otro evangelio
 ##### El evangelio debe ser preservado.
@@ -1474,7 +1509,7 @@ Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contra
 ## Timoteo debe encargar a otros
 
 ### 2 Timoteo 2:2
-Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+> «Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
 
 #### encarga a hombres fieles
 ##### La verdad recibida debía continuar.
@@ -1511,7 +1546,9 @@ Resucitó al tercer día conforme a las Escrituras.
 
 ##### ¿Será que lo que los apóstoles están tratando de encargar no es simplemente información, ni tradiciones, ni métodos, sino el evangelio mismo, para que cada generación continúe viviendo dentro de la obra del Cristo crucificado y resucitado?
 
-# CAPÍTULO 17 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
+# CAPÍTULO 17
+
+# ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
 
 Si el evangelio es lo que debe ser encargado, surge otra pregunta.
 
@@ -1530,7 +1567,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## Un cuerpo
 
 ### 1 Corintios 12:21
-El ojo no puede decir a la mano: “No te necesito”.
+> «El ojo no puede decir a la mano: “No te necesito”».
 
 #### No te necesito
 ##### Los creyentes no son presentados como independientes.
@@ -1546,7 +1583,7 @@ El ojo no puede decir a la mano: “No te necesito”.
 ## Una familia
 
 ### Efesios 2:19
-Son de la familia de Dios.
+> «Son de la familia de Dios».
 
 #### la familia de Dios
 ##### Los creyentes pertenecen a una misma casa.
@@ -1559,7 +1596,7 @@ Son de la familia de Dios.
 ## La verdad es vivida unos con otros
 
 ### Romanos 12:10
-Sean afectuosos unos con otros con amor fraternal.
+> «Sean afectuosos unos con otros con amor fraternal».
 
 #### unos con otros
 ##### El amor requiere personas reales.
@@ -1573,7 +1610,7 @@ Sean afectuosos unos con otros con amor fraternal.
 ## Cristo distribuyó dones
 
 ### Efesios 4:11–12
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
+> «Y Él dio…»
 
 #### Él dio
 ##### Los dones proceden de Cristo.
@@ -1588,7 +1625,7 @@ Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a
 ## Considerarnos unos a otros
 
 ### Hebreos 10:24–25
-Considerémonos unos a otros para estimularnos al amor y a las buenas obras
+> «Considerémonos unos a otros para estimularnos al amor y a las buenas obras».
 
 #### considerémonos unos a otros
 ##### La perseverancia posee una dimensión compartida.
@@ -1601,7 +1638,7 @@ Considerémonos unos a otros para estimularnos al amor y a las buenas obras
 ## Generaciones viviendo juntas
 
 ### Tito 2:1–5
-En cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
+> «En cuanto a ti, enseña lo que está de acuerdo con la sana doctrina».
 
 #### enseña
 ##### La verdad es acompañada por relaciones.
@@ -1617,7 +1654,7 @@ Es vivida.
 ## El evangelio crea una comunión
 
 ### Filemón 6
-Ruego que la comunión de tu fe llegue a ser eficaz por el conocimiento de todo lo bueno que hay en ustedes mediante Cristo.
+> «La participación de tu fe».
 
 #### participación
 ##### La fe posee una dimensión compartida.
@@ -1658,7 +1695,9 @@ Porque muchas de las cosas que Cristo valora solamente pueden ser vividas con ot
 
 ##### ¿Será que Cristo diseñó la iglesia como el ambiente normal donde Su vida puede ser compartida y donde el evangelio puede ser encargado de generación en generación?
 
-# CAPÍTULO 18 - ¿CÓMO PERMANECE EL EVANGELIO EN EL CENTRO?
+# CAPÍTULO 18
+
+# ¿CÓMO PERMANECE EL EVANGELIO EN EL CENTRO?
 
 Si el evangelio es lo que debe ser encargado, surge una pregunta inevitable.
 
@@ -1683,7 +1722,7 @@ Por eso los apóstoles constantemente vuelven al centro.
 ## Pablo predica el evangelio a creyentes
 
 ### Romanos 1:15–16
-Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.
+> «Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.»
 
 #### también a ustedes
 ##### Pablo desea anunciar el evangelio a una iglesia.
@@ -1700,7 +1739,7 @@ Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.
 ## Los creyentes permanecen firmes en él
 
 ### 1 Corintios 15:1
-El evangelio… el cual también recibieron, en el cual también están firmes.
+> «El evangelio… el cual también recibieron, en el cual también están firmes».
 
 #### están firmes
 ##### El evangelio no aparece solamente como una puerta de entrada.
@@ -1711,7 +1750,7 @@ El evangelio… el cual también recibieron, en el cual también están firmes.
 ## Pablo vuelve continuamente a Cristo crucificado
 
 ### 1 Corintios 2:2
-Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
+> «Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.»
 
 #### Jesucristo, y Este crucificado
 ##### Pablo no se mueve del centro.
@@ -1722,7 +1761,7 @@ Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
 ## Pablo protege el centro
 
 ### Gálatas 1:6–8
-Se están apartando… hacia un evangelio diferente.
+> «Se están apartando… hacia un evangelio diferente».
 
 #### un evangelio diferente
 ##### El peligro consiste en mover el centro.
@@ -1733,7 +1772,7 @@ Se están apartando… hacia un evangelio diferente.
 ## El amor puede enfriarse
 
 ### Apocalipsis 2:4
-Has dejado tu primer amor.
+> «Has dejado tu primer amor».
 
 #### has dejado
 ##### La actividad puede permanecer.
@@ -1748,7 +1787,7 @@ Has dejado tu primer amor.
 ## Los creyentes deben considerar continuamente a Jesús
 
 ### Hebreos 12:2–3
-puestos los ojos en Jesús, el autor y consumador de la fe, quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios. Consideren, pues, a Aquel que soportó tal hostilidad de los pecadores contra Él mismo, para que no se cansen ni se desanimen en su corazón.
+> «Puestos los ojos en Jesús».
 
 #### puestos los ojos en Jesús
 ##### La atención debe ser continuamente dirigida hacia Él.
@@ -1797,13 +1836,16 @@ Porque fuera del evangelio:
 -   la participación se vuelve ansiedad.
 
 Pero dentro del evangelio:
+
 -   todo encuentra su lugar.
 
 ## Una pregunta
 
 ##### ¿Será que la tarea constante de los apóstoles consiste en volver a ubicar a las iglesias dentro de la realidad del Cristo crucificado y resucitado?
 
-# CAPÍTULO 19 - ¿POR QUÉ MEDIO PARTICIPAN LOS CREYENTES?
+# CAPÍTULO 19
+
+# ¿POR QUÉ MEDIO PARTICIPAN LOS CREYENTES?
 
 Después de escuchar repetidamente a los apóstoles regresar al evangelio, surge una pregunta natural.
 
@@ -1818,7 +1860,7 @@ Permitiremos nuevamente que hablen.
 ## Participación en Cristo
 
 ### Romanos 6:3–5
-Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección.
+> «Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección».
 
 #### en Su muerte
 ##### Pablo vuelve a llevar a los creyentes hacia Cristo.
@@ -1842,7 +1884,7 @@ Vuelve a Cristo.
 ## El viejo hombre fue crucificado con Él
 
 ### Romanos 6:6
-Nuestro viejo hombre fue crucificado con Él.
+> «Nuestro viejo hombre fue crucificado con Él».
 
 #### con Él
 ##### La cruz continúa ocupando el centro.
@@ -1853,7 +1895,7 @@ Nuestro viejo hombre fue crucificado con Él.
 ## Considérense
 
 ### Romanos 6:11
-Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
+> «Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús».
 
 #### vivos para Dios en Cristo Jesús
 ##### Pablo continúa ubicando la vida en Cristo.
@@ -1864,7 +1906,7 @@ Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
 ## Sepultados y resucitados con Él
 
 ### Colosenses 2:12
-habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción del poder de Dios, que lo resucitó de entre los muertos.
+> «Habiendo sido sepultados con Él... en Él también fueron resucitados».
 
 #### con Él
 ##### Pablo vuelve nuevamente al mismo centro.
@@ -1875,7 +1917,7 @@ habiendo sido sepultados con Él en el bautismo, en el cual también han resucit
 ##### El centro no cambia.
 
 ### Colosenses 3:1–3
-Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios. Pongan la mira en las cosas de arriba, no en las de la tierra. Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.
+> «Si ustedes, pues, han resucitado con Cristo...»
 
 #### han resucitado con Cristo
 ##### La nueva vida continúa siendo entendida desde Cristo.
@@ -1886,7 +1928,7 @@ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde 
 ## Cristo vive en mí
 
 ### Gálatas 2:20
-Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí.
+> «Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí».
 
 #### Cristo vive en mí
 ##### Pablo continúa describiendo la vida en relación con Cristo.
@@ -1897,7 +1939,7 @@ Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive
 ## Conocerle
 
 ### Filipenses 3:10
-A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos.
+> «A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos».
 
 #### conocerlo
 ##### La meta de Pablo continúa siendo Cristo.
@@ -1915,11 +1957,11 @@ Muy interesante.
 
 No dicen:
 
-Cree el evangelio para ser salvo y luego confía en ti mismo para crecer».
+> «Cree el evangelio para ser salvo y luego confía en ti mismo para crecer».
 
 Ni tampoco:
 
-Comienza con Cristo y luego avanza hacia algo más profundo».
+> «Comienza con Cristo y luego avanza hacia algo más profundo».
 
 Más bien, continuamente vuelven a llevar a los creyentes hacia Cristo.
 
@@ -1965,7 +2007,9 @@ Porque si esto es así, entonces la participación ocurre dentro del evangelio.
 
 Y quizás por eso los apóstoles nunca parecen graduarse de Cristo crucificado.
 
-# CAPÍTULO 20 - CONOCER A CRISTO
+# CAPÍTULO 20
+
+# CONOCER A CRISTO
 
 Después de escuchar a los apóstoles volver repetidamente al evangelio, surge una pregunta natural.
 
@@ -1980,7 +2024,7 @@ Permitiremos nuevamente que hablen.
 ## Pablo desea conocerle
 
 ### Filipenses 3:8–10
-Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo».
+> «Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo».
 
 #### conocer a Cristo Jesús
 ##### Pablo establece una prioridad.
@@ -2001,7 +2045,7 @@ Considero todas las cosas como pérdida por razón del incomparable valor de con
 ## El amor de Cristo sobrepasa el conocimiento
 
 ### Efesios 3:17–19
-Y conocer el amor de Cristo que sobrepasa el conocimiento».
+> «Y conocer el amor de Cristo que sobrepasa el conocimiento».
 
 #### conocer el amor de Cristo
 ##### Pablo ora por algo relacionado con Cristo mismo.
@@ -2014,7 +2058,7 @@ Y conocer el amor de Cristo que sobrepasa el conocimiento».
 ## Pedro desea crecimiento
 
 ### 2 Pedro 3:18
-Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo».
+> «Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo».
 
 #### el conocimiento de nuestro Señor
 ##### Pedro dirige la atención hacia Cristo.
@@ -2025,7 +2069,7 @@ Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo»
 ## Juan habla de permanecer
 
 ### 1 Juan 2:24
-Permanezca en ustedes lo que oyeron desde el principio».
+> «Permanezca en ustedes lo que oyeron desde el principio».
 
 #### permanezca
 ##### Juan insiste en permanecer.
@@ -2036,7 +2080,7 @@ Permanezca en ustedes lo que oyeron desde el principio».
 ##### La comunión permanece relacionada con Cristo.
 
 ### 1 Juan 5:20
-Estamos en Aquel que es verdadero, en Su Hijo Jesucristo».
+> «Estamos en Aquel que es verdadero, en Su Hijo Jesucristo».
 
 #### estamos en Él
 ##### Juan describe una realidad presente.
@@ -2047,7 +2091,7 @@ Estamos en Aquel que es verdadero, en Su Hijo Jesucristo».
 ## Hebreos dirige continuamente hacia Jesús
 
 ### Hebreos 12:2
-Puestos los ojos en Jesús».
+> «Puestos los ojos en Jesús».
 
 #### puestos los ojos en Jesús
 ##### La perseverancia ocurre mirando a Cristo.
@@ -2058,7 +2102,7 @@ Puestos los ojos en Jesús».
 ## Pablo desea presentar a todos maduros en Cristo
 
 ### Colosenses 1:28
-A fin de poder presentar a todo hombre perfecto en Cristo».
+> «A fin de poder presentar a todo hombre perfecto en Cristo».
 
 #### en Cristo
 ##### La madurez permanece relacionada con Cristo.
@@ -2119,7 +2163,9 @@ Porque los apóstoles parecen estar ocupados con muchas cosas.
 
 Pero repetidamente regresan a una Persona.
 
-# CAPÍTULO 21 - LA IGLESIA VIVIENDO ACTUALMENTE EN CRISTO
+# CAPÍTULO 21
+
+# LA IGLESIA VIVIENDO ACTUALMENTE EN CRISTO
 
 Después de escuchar a los apóstoles hablar acerca del evangelio y del conocimiento de Cristo, surge otra pregunta.
 
@@ -2138,7 +2184,7 @@ Permitiremos nuevamente que hablen.
 ## Permaneciendo en Cristo
 
 ### Juan 15:4–5
-Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer».
+> «Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer».
 
 #### permanezcan en Mí
 ##### La vida se encuentra en relación con Cristo.
@@ -2151,7 +2197,7 @@ Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer
 ## Caminando dignamente
 
 ### Efesios 4:1
-Les ruego que vivan de una manera digna de la vocación con que han sido llamados».
+> «Les ruego que vivan de una manera digna de la vocación con que han sido llamados».
 
 #### vivan de una manera digna
 ##### Pablo describe una manera de vivir.
@@ -2162,7 +2208,7 @@ Les ruego que vivan de una manera digna de la vocación con que han sido llamado
 ## Creciendo en Él
 
 ### Efesios 4:15
-Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo».
+> «Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo».
 
 #### en Aquel que es la cabeza
 ##### El crecimiento posee una dirección.
@@ -2173,7 +2219,7 @@ Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo».
 ## La palabra de Cristo habitando
 
 ### Colosenses 3:16
-Que la palabra de Cristo habite en abundancia en ustedes».
+> «Que la palabra de Cristo habite en abundancia en ustedes».
 
 #### habite en abundancia
 ##### La palabra de Cristo ocupa un lugar central.
@@ -2186,7 +2232,7 @@ Que la palabra de Cristo habite en abundancia en ustedes».
 ## Permaneciendo en la esperanza
 
 ### Hebreos 10:23
-Mantengamos firme la profesión de nuestra esperanza».
+> «Mantengamos firme la profesión de nuestra esperanza».
 
 #### mantengamos firme
 ##### Los creyentes viven mirando hacia adelante.
@@ -2197,7 +2243,7 @@ Mantengamos firme la profesión de nuestra esperanza».
 ## Viviendo por el Espíritu
 
 ### Gálatas 5:25
-Si vivimos por el Espíritu, andemos también por el Espíritu».
+> «Si vivimos por el Espíritu, andemos también por el Espíritu».
 
 #### andemos también por el Espíritu
 ##### La vida y la conducta aparecen relacionadas.
@@ -2208,7 +2254,7 @@ Si vivimos por el Espíritu, andemos también por el Espíritu».
 ## Esperando a Su Hijo
 
 ### 1 Tesalonicenses 1:9–10
-Esperan a Su Hijo de los cielos».
+> «Esperan a Su Hijo de los cielos».
 
 #### esperan a Su Hijo
 ##### La esperanza posee una Persona.
@@ -2257,7 +2303,9 @@ Y toda esa vida se desarrolla alrededor de Cristo.
 
 ##### ¿Será que los apóstoles no están simplemente enseñando a las iglesias qué hacer, sino tratando de ubicar a las iglesias dentro de la realidad presente del Cristo crucificado y resucitado?
 
-# CAPÍTULO 23 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
+# CAPÍTULO 23
+
+# ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
 
 Después de escuchar a los apóstoles hablar acerca de vivir en Cristo, surge una pregunta natural.
 
@@ -2272,7 +2320,7 @@ Permitiremos nuevamente que hablen.
 ## Pablo
 
 ### 1 Corintios 15:10
-Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí».
+> «Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí».
 
 #### no yo, sino la gracia de Dios
 ##### Pablo reconoce la obra de Dios.
@@ -2285,7 +2333,7 @@ Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó 
 ## Timoteo
 
 ### Filipenses 2:20–22
-No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes».
+> «No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes».
 
 #### sinceramente interesado
 ##### Pablo destaca el carácter de Timoteo.
@@ -2298,7 +2346,7 @@ No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el
 ## Epafrodito
 
 ### Filipenses 2:25–30
-Porque estuvo al borde de la muerte por la obra de Cristo».
+> «Porque estuvo al borde de la muerte por la obra de Cristo».
 
 #### por la obra de Cristo
 ##### Pablo honra su servicio.
@@ -2311,7 +2359,7 @@ Porque estuvo al borde de la muerte por la obra de Cristo».
 ## Onesíforo
 
 ### 2 Timoteo 1:16–18
-Muchas veces me dio consuelo y no se avergonzó de mis cadenas».
+> «Muchas veces me dio consuelo y no se avergonzó de mis cadenas».
 
 #### no se avergonzó
 ##### Onesíforo permaneció junto a Pablo.
@@ -2324,7 +2372,7 @@ Muchas veces me dio consuelo y no se avergonzó de mis cadenas».
 ## Estéfanas
 
 ### 1 Corintios 16:15
-Se han dedicado al servicio de los santos».
+> «Se han dedicado al servicio de los santos».
 
 #### se han dedicado
 ##### Pablo reconoce una disposición.
@@ -2337,7 +2385,7 @@ Se han dedicado al servicio de los santos».
 ## Febe
 
 ### Romanos 16:1–2
-Porque ella también ha ayudado a muchos, y aun a mí mismo».
+> «Porque ella también ha ayudado a muchos, y aun a mí mismo».
 
 #### ha ayudado a muchos
 ##### Pablo reconoce su servicio.
@@ -2350,7 +2398,7 @@ Porque ella también ha ayudado a muchos, y aun a mí mismo».
 ## Tíquico
 
 ### Efesios 6:21
-El amado hermano y fiel ministro en el Señor».
+> «El amado hermano y fiel ministro en el Señor».
 
 #### fiel ministro
 ##### Pablo destaca la fidelidad.
@@ -2404,7 +2452,9 @@ Muy interesante.
 
 Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a otros y permanecieron fieles.
 
-# CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?
+# CAPÍTULO 24
+
+# ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?
 
 Después de ver ejemplos de participación fiel, surge una pregunta natural.
 
@@ -2419,7 +2469,7 @@ Permitiremos nuevamente que hablen.
 ## Los corintios
 
 ### 1 Corintios 3:1–3
-No pude hablarles como a espirituales, sino como a carnales».
+> «No pude hablarles como a espirituales, sino como a carnales».
 
 #### como a carnales
 ##### Pablo describe una condición.
@@ -2433,7 +2483,7 @@ No pude hablarles como a espirituales, sino como a carnales».
 -   Exaltación de hombres.
 
 ### 1 Corintios 3:6–7
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
+> «Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
 
 #### Dios ha dado el crecimiento
 ##### La atención debe permanecer en Dios.
@@ -2444,7 +2494,7 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
 ## Los gálatas
 
 ### Gálatas 3:3
-¿Habiendo comenzado por el Espíritu, van ahora a acabar por la carne?»
+> «¿Habiendo comenzado por el Espíritu, van ahora a acabar por la carne?»
 
 #### acabar por la carne
 ##### Pablo señala un peligro.
@@ -2457,7 +2507,7 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
 ## Hebreos
 
 ### Hebreos 2:1
-Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desviemos».
+> «Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desviemos».
 
 #### nos desviemos
 ##### Existe el peligro del desvío.
@@ -2466,7 +2516,7 @@ Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desvi
 -   La deriva es real.
 
 ### Hebreos 12:15
-Miren bien, no sea que alguno deje de alcanzar la gracia de Dios».
+> «Miren bien, no sea que alguno deje de alcanzar la gracia de Dios».
 
 #### la gracia de Dios
 ##### La gracia continúa siendo importante.
@@ -2477,7 +2527,7 @@ Miren bien, no sea que alguno deje de alcanzar la gracia de Dios».
 ## Éfeso
 
 ### Apocalipsis 2:2–4
-Has dejado tu primer amor».
+> «Has dejado tu primer amor».
 
 #### has dejado
 ##### Muchas cosas permanecían.
@@ -2492,7 +2542,7 @@ Has dejado tu primer amor».
 ## Sardis
 
 ### Apocalipsis 3:1
-Tienes nombre de que vives, pero estás muerto».
+> «Tienes nombre de que vives, pero estás muerto».
 
 #### tienes nombre
 ##### La apariencia puede engañar.
@@ -2505,7 +2555,7 @@ Tienes nombre de que vives, pero estás muerto».
 ## Laodicea
 
 ### Apocalipsis 3:17
-Dices: Soy rico... y no sabes que eres un desventurado».
+> «Dices: Soy rico... y no sabes que eres un desventurado».
 
 #### no sabes
 ##### La autosuficiencia produce ceguera.
@@ -2571,7 +2621,9 @@ Interesante.
 
 Muy interesante.
 
-# CAPÍTULO 25 - ¿QUÉ ESTÁ EN JUEGO?
+# CAPÍTULO 25
+
+# ¿QUÉ ESTÁ EN JUEGO?
 
 Después de escuchar a los apóstoles hablar acerca de una participación fiel y una participación deficiente, surge una pregunta natural.
 
@@ -2594,7 +2646,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## La obra será probada
 
 ### 1 Corintios 3:12–15
-La obra de cada uno se hará evidente... porque el día la mostrará».
+> «La obra de cada uno se hará evidente... porque el día la mostrará».
 
 #### la obra de cada uno
 ##### Pablo dirige la atención hacia la obra.
@@ -2615,7 +2667,7 @@ La obra de cada uno se hará evidente... porque el día la mostrará».
 ## Todos compareceremos
 
 ### 2 Corintios 5:10
-Todos debemos comparecer ante el tribunal de Cristo».
+> «Todos debemos comparecer ante el tribunal de Cristo».
 
 #### todos
 ##### Nadie queda excluido.
@@ -2628,7 +2680,7 @@ Todos debemos comparecer ante el tribunal de Cristo».
 ## Cada uno dará cuenta
 
 ### Romanos 14:10–12
-Cada uno de nosotros dará a Dios cuenta de sí mismo».
+> «Cada uno de nosotros dará a Dios cuenta de sí mismo».
 
 #### dará cuenta
 ##### Pablo dirige la atención hacia Dios.
@@ -2641,7 +2693,7 @@ Cada uno de nosotros dará a Dios cuenta de sí mismo».
 ## El Señor traerá a la luz
 
 ### 1 Corintios 4:5
-El Señor... pondrá de manifiesto los motivos de los corazones».
+> «El Señor... pondrá de manifiesto los motivos de los corazones».
 
 #### los motivos
 ##### Cristo conoce más que las acciones.
@@ -2654,7 +2706,7 @@ El Señor... pondrá de manifiesto los motivos de los corazones».
 ## Permanezcan para recibir plena recompensa
 
 ### 2 Juan 8
-Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa».
+> «Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa».
 
 #### abundante recompensa
 ##### Juan considera importante la perseverancia.
@@ -2665,7 +2717,7 @@ Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante 
 ## Al vencedor
 
 ### Apocalipsis 2–3
-Al vencedor le daré...»
+> «Al vencedor le daré...»
 
 #### al vencedor
 ##### Cristo repite promesas.
@@ -2729,7 +2781,9 @@ Interesante.
 
 Muy interesante.
 
-# CAPÍTULO 26 - ¿POR QUÉ SON ENSEÑADAS LAS RECOMPENSAS?
+# CAPÍTULO 26
+
+# ¿POR QUÉ SON ENSEÑADAS LAS RECOMPENSAS?
 
 Después de escuchar a los apóstoles hablar acerca de una futura evaluación, surge una pregunta natural.
 
@@ -2744,7 +2798,7 @@ Permitiremos nuevamente que hablen.
 ## Todos compareceremos
 
 ### 2 Corintios 5:10
-Porque todos nosotros debemos comparecer ante el tribunal de Cristo».
+> «Porque todos nosotros debemos comparecer ante el tribunal de Cristo».
 
 #### el tribunal de Cristo
 ##### Pablo dirige la atención hacia una futura evaluación.
@@ -2757,7 +2811,7 @@ Porque todos nosotros debemos comparecer ante el tribunal de Cristo».
 ## La obra será manifestada
 
 ### 1 Corintios 3:12–15
-La obra de cada uno se hará evidente».
+> «La obra de cada uno se hará evidente».
 
 #### la obra de cada uno
 ##### El Señor distingue entre las obras.
@@ -2770,7 +2824,7 @@ La obra de cada uno se hará evidente».
 ## Cada uno dará cuenta
 
 ### Romanos 14:12
-Cada uno de nosotros dará a Dios cuenta de sí mismo».
+> «Cada uno de nosotros dará a Dios cuenta de sí mismo».
 
 #### dará cuenta
 ##### Cristo es Señor.
@@ -2783,7 +2837,7 @@ Cada uno de nosotros dará a Dios cuenta de sí mismo».
 ## El Señor traerá a la luz
 
 ### 1 Corintios 4:5
-El Señor... pondrá de manifiesto los motivos de los corazones».
+> «El Señor... pondrá de manifiesto los motivos de los corazones».
 
 #### los motivos de los corazones
 ##### Cristo conoce más que las acciones.
@@ -2796,7 +2850,7 @@ El Señor... pondrá de manifiesto los motivos de los corazones».
 ## Al vencedor
 
 ### Apocalipsis 2–3
-Al vencedor le daré...»
+> «Al vencedor le daré...»
 
 #### le daré
 ##### Cristo promete recompensas.
@@ -2811,7 +2865,7 @@ Al vencedor le daré...»
 ## La corona de justicia
 
 ### 2 Timoteo 4:7–8
-He peleado la buena batalla, he terminado la carrera, he guardado la fe».
+> «He peleado la buena batalla, he terminado la carrera, he guardado la fe».
 
 #### me está reservada
 ##### Pablo espera algo futuro.
@@ -2891,7 +2945,9 @@ Interesante.
 
 Muy interesante.
 
-# CAPÍTULO 27 -  ¿POR QUÉ HOMBRES FIELES?
+# CAPÍTULO 27
+
+# ¿POR QUÉ HOMBRES FIELES?
 
 Después de escuchar a Cristo hablar acerca de recompensas y de una futura evaluación, surge una pregunta natural.
 
@@ -2916,7 +2972,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## Encarga a hombres fieles
 
 ### 2 Timoteo 2:2
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
+> «Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
 
 #### hombres fieles
 ##### Pablo establece una prioridad.
@@ -2929,7 +2985,7 @@ Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres f
 ## Se requiere de los administradores
 
 ### 1 Corintios 4:1–2
-Lo que se requiere de los administradores es que cada uno sea hallado fiel».
+> «Lo que se requiere de los administradores es que cada uno sea hallado fiel».
 
 #### sea hallado fiel
 ##### Pablo habla de un requisito.
@@ -2942,7 +2998,7 @@ Lo que se requiere de los administradores es que cada uno sea hallado fiel».
 ## Moisés fue fiel
 
 ### Hebreos 3:2
-Fue fiel al que lo constituyó».
+> «Fue fiel al que lo constituyó».
 
 #### fue fiel
 ##### La fidelidad aparece asociada al servicio.
@@ -2955,7 +3011,7 @@ Fue fiel al que lo constituyó».
 ## Bien, siervo bueno y fiel
 
 ### Mateo 25:21
-Bien, siervo bueno y fiel».
+> «Bien, siervo bueno y fiel».
 
 #### siervo bueno y fiel
 ##### El Señor valora la fidelidad.
@@ -2968,7 +3024,7 @@ Bien, siervo bueno y fiel».
 ## Timoteo
 
 ### Filipenses 2:22
-Ustedes conocen sus méritos probados».
+> «Ustedes conocen sus méritos probados».
 
 #### sus méritos probados
 ##### Timoteo había demostrado algo.
@@ -2981,7 +3037,7 @@ Ustedes conocen sus méritos probados».
 ## Tíquico
 
 ### Efesios 6:21
-El amado hermano y fiel ministro en el Señor».
+> «El amado hermano y fiel ministro en el Señor».
 
 #### fiel ministro
 ##### Pablo vuelve a destacar la fidelidad.
@@ -3067,11 +3123,13 @@ Porque Pablo no habla simplemente de transmitir información.
 
 Habla de algo que debía continuar hasta otros también.
 
-# CAPÍTULO 28 -  ¿QUÉ SIGNIFICA ENCARGAR?
+# CAPÍTULO 28
+
+# ¿QUÉ SIGNIFICA ENCARGAR?
 
 Después de escuchar a Pablo decir:
 
-Encarga esto a hombres fieles»
+> «Encarga esto a hombres fieles»
 
 surge una pregunta natural.
 
@@ -3088,7 +3146,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## Lo que has oído de mí
 
 ### 2 Timoteo 2:2
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles».
+> «Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles».
 
 #### lo que has oído
 ##### Pablo habla de algo recibido.
@@ -3101,7 +3159,7 @@ Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres f
 ## Sigue las sanas palabras
 
 ### 2 Timoteo 1:13
-Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús».
+> «Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús».
 
 #### en la fe y el amor en Cristo Jesús
 ##### Pablo no separa el contenido de la vida.
@@ -3114,7 +3172,7 @@ Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor e
 ## Guarda el tesoro
 
 ### 2 Timoteo 1:14
-Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado».
+> «Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado».
 
 #### el tesoro
 ##### Pablo describe algo valioso.
@@ -3127,7 +3185,7 @@ Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha 
 ## Yo recibí y entregué
 
 ### 1 Corintios 15:3
-Porque yo les entregué en primer lugar lo mismo que recibí».
+> «Porque yo les entregué en primer lugar lo mismo que recibí».
 
 #### lo mismo que recibí
 ##### Pablo no inventa algo nuevo.
@@ -3140,7 +3198,7 @@ Porque yo les entregué en primer lugar lo mismo que recibí».
 ## Lo que aprendiste y recibiste
 
 ### Filipenses 4:9
-Lo que han aprendido, recibido, oído y visto en mí, esto practiquen».
+> «Lo que han aprendido, recibido, oído y visto en mí, esto practiquen».
 
 #### aprendido, recibido, oído y visto
 ##### La participación posee una dimensión visible.
@@ -3241,7 +3299,9 @@ Interesante.
 
 Muy interesante.
 
-# CAPÍTULO 29 - PADRES, MADRES Y EJEMPLOS
+# CAPÍTULO 29
+
+# PADRES, MADRES Y EJEMPLOS
 
 Después de escuchar a los apóstoles hablar acerca de encargar, surge una pregunta natural.
 
@@ -3258,7 +3318,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## No muchos padres
 
 ### 1 Corintios 4:14–17
-Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio».
+> «Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio».
 
 #### no tienen muchos padres
 ##### Pablo establece una diferencia.
@@ -3279,7 +3339,7 @@ Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muc
 ## Imitadores de nosotros
 
 ### 1 Tesalonicenses 1:6
-Ustedes vinieron a ser imitadores de nosotros y del Señor».
+> «Ustedes vinieron a ser imitadores de nosotros y del Señor».
 
 #### y del Señor
 ##### Los ejemplos no reemplazan a Cristo.
@@ -3292,7 +3352,7 @@ Ustedes vinieron a ser imitadores de nosotros y del Señor».
 ## Timoteo conocía el camino de Pablo
 
 ### 2 Timoteo 3:10
-Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, perseverancia».
+> «Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, perseverancia».
 
 #### has seguido
 ##### Timoteo había observado la vida de Pablo.
@@ -3306,7 +3366,7 @@ Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, p
 ## Las ancianas enseñan
 
 ### Tito 2:3–5
-Las ancianas... enseñando lo bueno.
+> «Las ancianas... enseñando lo bueno».
 
 #### enseñando lo bueno
 ##### Las generaciones participan juntas.
@@ -3319,7 +3379,7 @@ Las ancianas... enseñando lo bueno.
 ## Sean ejemplo
 
 ### 1 Pedro 5:2–3
-Demostrando ser ejemplos del rebaño.
+> «Demostrando ser ejemplos del rebaño».
 
 #### ejemplos del rebaño
 ##### Pedro habla a los pastores.
@@ -3356,11 +3416,11 @@ Muy interesante.
 
 Pablo dice:
 
-Sean imitadores de mí».
+> «Sean imitadores de mí».
 
 Pero también dice:
 
-como yo de Cristo».
+> «como yo de Cristo».
 
 El ejemplo posee valor porque apunta hacia Cristo.
 
@@ -3421,7 +3481,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## Lo que has oído
 
 ### 2 Timoteo 2:2
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
+> «Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros».
 
 #### también a otros
 ##### Pablo contempla más de una generación.
@@ -3435,7 +3495,7 @@ Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres f
 ## Yo recibí y entregué
 
 ### 1 Corintios 15:3
-Porque yo les entregué en primer lugar lo mismo que recibí».
+> «Porque yo les entregué en primer lugar lo mismo que recibí».
 
 #### lo mismo que recibí
 ##### Pablo continúa una cadena.
@@ -3448,7 +3508,7 @@ Porque yo les entregué en primer lugar lo mismo que recibí».
 ## Después de mi partida
 
 ### 2 Pedro 1:14–15
-También procuraré con diligencia que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas».
+> «También procuraré con diligencia que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas».
 
 #### después de mi partida
 ##### Pedro piensa en el futuro.
@@ -3461,7 +3521,7 @@ También procuraré con diligencia que en todo tiempo, después de mi partida, u
 ## Hijos, jóvenes y padres
 
 ### 1 Juan 2:12–14
-Les escribo a ustedes, hijitos... jóvenes... padres».
+> «Les escribo a ustedes, hijitos... jóvenes... padres».
 
 #### padres
 ##### Juan observa generaciones.
@@ -3474,7 +3534,7 @@ Les escribo a ustedes, hijitos... jóvenes... padres».
 ## Enseña a otros
 
 ### Tito 2:1–5
-Enseña lo que está de acuerdo con la sana doctrina».
+> «Enseña lo que está de acuerdo con la sana doctrina».
 
 #### las ancianas enseñen
 ##### Las generaciones viven juntas.
@@ -3610,7 +3670,7 @@ Permitiremos nuevamente que hablen.
 ## Pablo
 
 ### 2 Timoteo 4:6–8
-Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partida ha llegado».
+> «Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partida ha llegado».
 
 #### el tiempo de mi partida
 ##### Pablo reconoce que su carrera está terminando.
@@ -3637,7 +3697,7 @@ Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partid
 ## Pedro
 
 ### 2 Pedro 1:13–15
-Sé que pronto debo abandonar este cuerpo terrenal».
+> «Sé que pronto debo abandonar este cuerpo terrenal».
 
 #### procuraré con diligencia
 ##### Pedro piensa más allá de sí mismo.
@@ -3650,7 +3710,7 @@ Sé que pronto debo abandonar este cuerpo terrenal».
 ## El escritor de Hebreos
 
 ### Hebreos 12:1–2
-Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús».
+> «Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús».
 
 #### puestos los ojos en Jesús
 ##### La carrera posee una dirección.
@@ -3663,7 +3723,7 @@ Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en J
 ## Juan
 
 ### 1 Juan 2:28
-Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos confianza».
+> «Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos confianza».
 
 #### permanezcan en Él
 ##### Juan continúa dirigiendo la atención hacia Cristo.
@@ -3756,7 +3816,7 @@ Permitiremos nuevamente que hablen.
 ## Esperando a Su Hijo
 
 ### 1 Tesalonicenses 1:9–10
-Esperan a Su Hijo de los cielos».
+> «Esperan a Su Hijo de los cielos».
 
 #### esperan a Su Hijo
 ##### La esperanza posee una Persona.
@@ -3769,7 +3829,7 @@ Esperan a Su Hijo de los cielos».
 ## Nuestra ciudadanía está en los cielos
 
 ### Filipenses 3:20–21
-Esperamos ardientemente un Salvador, el Señor Jesucristo».
+> «Esperamos ardientemente un Salvador, el Señor Jesucristo».
 
 #### esperamos ardientemente
 ##### Pablo describe una expectativa.
@@ -3782,7 +3842,7 @@ Esperamos ardientemente un Salvador, el Señor Jesucristo».
 ## La esperanza bienaventurada
 
 ### Tito 2:11–13
-Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús».
+> «Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús».
 
 #### aguardando
 ##### La gracia produce expectativa.
@@ -3795,7 +3855,7 @@ Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuest
 ## Aparecerá por segunda vez
 
 ### Hebreos 9:28
-Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvación de los que ansiosamente lo esperan».
+> «Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvación de los que ansiosamente lo esperan».
 
 #### aparecerá por segunda vez
 ##### El futuro permanece relacionado con Cristo.
@@ -3808,7 +3868,7 @@ Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvaci�
 ## Cuando Él se manifieste
 
 ### 1 Juan 3:2–3
-Cuando Él se manifieste, seremos semejantes a Él».
+> «Cuando Él se manifieste, seremos semejantes a Él».
 
 #### seremos semejantes a Él
 ##### Juan dirige la mirada hacia el futuro.
@@ -3821,7 +3881,7 @@ Cuando Él se manifieste, seremos semejantes a Él».
 ## El Espíritu y la novia
 
 ### Apocalipsis 22:17
-El Espíritu y la novia dicen: Ven».
+> «El Espíritu y la novia dicen: Ven».
 
 #### Ven
 ##### La esperanza termina en una Persona.
@@ -3912,7 +3972,7 @@ Permitiremos nuevamente que los apóstoles hablen.
 ## Él la presentará a Sí mismo
 
 ### Efesios 5:25–27
-Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela a Sí mismo».
+> «Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela a Sí mismo».
 
 #### a fin de presentársela a Sí mismo
 ##### Cristo continúa siendo el Constructor.
@@ -3926,7 +3986,7 @@ Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela 
 ## Él completará la obra
 
 ### Filipenses 1:6
-El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús».
+> «El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús».
 
 #### la perfeccionará
 ##### La confianza de Pablo permanece en Dios.
@@ -3939,7 +3999,7 @@ El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cri
 ## Él también lo hará
 
 ### 1 Tesalonicenses 5:23–24
-Fiel es Aquel que los llama, el cual también lo hará».
+> «Fiel es Aquel que los llama, el cual también lo hará».
 
 #### Él también lo hará
 ##### Pablo descansa en la fidelidad de Dios.
@@ -3953,7 +4013,7 @@ Fiel es Aquel que los llama, el cual también lo hará».
 ## Poderoso para guardarlos
 
 ### Judas 24
-A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha».
+> «A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha».
 
 #### presentarlos sin mancha
 ##### La preservación pertenece a Dios.
@@ -3966,7 +4026,7 @@ A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha».
 ## La esposa se ha preparado
 
 ### Apocalipsis 19:7–8
-Han llegado las bodas del Cordero y Su esposa se ha preparado».
+> «Han llegado las bodas del Cordero y Su esposa se ha preparado».
 
 #### las bodas del Cordero
 ##### La historia se dirige hacia una presentación.
@@ -3979,7 +4039,7 @@ Han llegado las bodas del Cordero y Su esposa se ha preparado».
 ## Él es el Alfa y la Omega
 
 ### Apocalipsis 22:13
-Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin».
+> «Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin».
 
 #### el principio y el fin
 ##### Cristo abarca toda la obra.
@@ -4051,11 +4111,11 @@ Muy interesante.
 
 Porque Aquel que dijo:
 
-Edificaré Mi iglesia»
+> «Edificaré Mi iglesia»
 
 también dirá:
 
-Aquí está la esposa».
+> «Aquí está la esposa».
 
 ## Otra pregunta
 
@@ -4084,7 +4144,7 @@ Permitiremos nuevamente que las Escrituras hablen.
 ## Yo edificaré Mi iglesia
 
 ### Mateo 16:18
-Edificaré Mi iglesia».
+> «Edificaré Mi iglesia».
 
 #### Edificaré
 ##### La obra pertenece a Cristo.
@@ -4097,7 +4157,7 @@ Edificaré Mi iglesia».
 ## Dios da el crecimiento
 
 ### 1 Corintios 3:6–7
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
+> «Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
 
 #### Dios ha dado el crecimiento
 ##### Pablo reconoce el lugar de cada uno.
@@ -4120,7 +4180,7 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento».
 ## El que comenzó la buena obra
 
 ### Filipenses 1:6
-El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús».
+> «El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús».
 
 #### la perfeccionará
 ##### Pablo descansa en la fidelidad de Dios.
@@ -4133,7 +4193,7 @@ El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cri
 ## Él también lo hará
 
 ### 1 Tesalonicenses 5:23–24
-Fiel es Aquel que los llama, el cual también lo hará».
+> «Fiel es Aquel que los llama, el cual también lo hará».
 
 #### Él también lo hará
 ##### Dios permanece siendo fiel.
@@ -4147,7 +4207,7 @@ Fiel es Aquel que los llama, el cual también lo hará».
 ## Él la presentará a Sí mismo
 
 ### Efesios 5:25–27
-A fin de presentársela a Sí mismo».
+> «A fin de presentársela a Sí mismo».
 
 #### presentársela a Sí mismo
 ##### La obra termina en Cristo.
@@ -4161,7 +4221,7 @@ A fin de presentársela a Sí mismo».
 ## Dios será todo en todos
 
 ### 1 Corintios 15:24–28
-Entonces vendrá el fin... para que Dios sea todo en todos».
+> «Entonces vendrá el fin... para que Dios sea todo en todos».
 
 #### Dios sea todo en todos
 ##### La historia posee una consumación.
@@ -4264,7 +4324,7 @@ Primero preguntamos:
 
 Y escuchamos a Jesús decir:
 
-Yo edificaré Mi iglesia».
+> «Yo edificaré Mi iglesia».
 
 Luego preguntamos:
 

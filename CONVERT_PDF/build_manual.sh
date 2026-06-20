@@ -4,8 +4,8 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="1 Timoteo"
-FILE_LOCATION="../16.1Timoteo"
+MANUAL_NAME="Discipulado Bíblico"
+FILE_LOCATION="../18.Discipulado-Biblico"
 FILENAME="/slides/markdown.md"
 # ==================================
 
