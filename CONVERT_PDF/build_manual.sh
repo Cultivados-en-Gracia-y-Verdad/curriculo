@@ -6,7 +6,7 @@ set -euo pipefail
 # ================================
 MANUAL_NAME="Discipulado Bíblico"
 FILE_LOCATION="../18.Discipulado-Biblico"
-FILENAME="/slides/markdown.md"
+FILENAME="/discipulado-en-la-biblia.md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

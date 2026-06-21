@@ -2,28 +2,24 @@
 title: "Discipulado - Participar con el Constructor"
 subtitle:  "Hasta que Él venga"
 author:  "CGV"
-version:  "0.2"
-date:  "2026-06-20"
+version:  "0.3"
+date:  "2026-06-21"
 cover: "images/portada.png"
 ---
 
 # INTRODUCCIÓN
 
-Este curso nació de preguntas.
+##### Este curso nació de preguntas. Muchas preguntas...
 
-Quizás usted ha escuchado muchas veces que debe hacer discípulos. Sabe que es importante. Sabe que Jesús lo mandó. Y probablemente ha intentado hacerlo.
+##### Quizás has escuchado muchas veces que se debe hacer discípulos. Sabes que es importante. Sabes que Jesús lo mandó. Y probablemente has intentado hacerlo.
 
-Quizás alguien le entregó un libro para estudiar con otra persona. Quizás le enseñaron un método. Quizás le explicaron ciertos pasos.
+##### Quizás alguien te entregó un libro para estudiarlo con otra persona. Quizás te enseñaron un método. Quizás te explicaron ciertos pasos. Y como eso fue lo que hicieron contigo, simplemente asumiste que así se hacía el discipulado. Nosotros también.
 
-Y como eso fue lo que hicieron con usted, simplemente asumió que así se hacía el discipulado. Nosotros también.
+##### No por falta de sinceridad. No por falta de deseo. No por falta de esfuerzo. Simplemente estábamos haciendo lo que habíamos aprendido.
 
-No por falta de sinceridad. No por falta de deseo. No por falta de esfuerzo. Simplemente estábamos haciendo lo que habíamos aprendido.
-
-Pero con el tiempo comenzaron a surgir preguntas.
-
+##### Pero con el tiempo comenzaron a surgir preguntas.
 ###### ¿De dónde obtuvimos nuestro concepto de discipulado?
 ###### ¿Qué determina la manera en que lo practicamos?
-###### ¿Por qué iglesias sinceras lo practican de maneras tan diferentes?
 ###### ¿Es el discipulado un currículo?
 ###### ¿Es hacer amigos y luego...?
 ###### ¿Es mentoría?
@@ -31,10 +27,10 @@ Pero con el tiempo comenzaron a surgir preguntas.
 ###### ¿Es evangelismo?
 ###### ¿Es algo que ocurre principalmente entre dos personas?
 ###### ¿Es la vida de la iglesia?
+###### ¿Cómo se sabe si uno es llamado para hacer discípulos?
+-   y si es así, ¿cómo se ve eso en la práctica?
 
-##### ¿Cómo se sabe si uno es llamado para hacer discípulos?
--   Si es así, ¿cómo se ve eso en la práctica?
--   Y quizás la pregunta más incómoda de todas:
+###### Y quizás la pregunta más incómoda de todas:
 -   ¿Hemos asumido que sabemos lo que es el discipulado sin haber permitido primero que las Escrituras lo definan?
 -   Curiosamente, nunca nos habíamos detenido a hacer esa pregunta. No porque rechazáramos las Escrituras. Sino porque cada uno parecía tener su propia manera de hacerlo.
 
@@ -45,678 +41,531 @@ Pero con el tiempo comenzaron a surgir preguntas.
 -   Por eso, en lugar de comenzar con nuestras respuestas, nuestros métodos o nuestras tradiciones, decidimos comenzar nuevamente con el texto mismo.
 -   Nos atrevismo a seguir las preguntas hasta donde las Escrituras quisieran llevarnos pase lo que pase.
 
-##### Este manual nace como resultado de esa investigación. Esperamos que te sea de mucha bendición.
+##### Esperamos que te sea de mucha bendición.
 
 # CAPÍTULO 1 - COMENCEMOS
 
 ## Preguntas que nos llevaron de regreso a las Escrituras
 
-##### Si queremos entender el discipulado bíblicamente, ¿por dónde comenzamos?
--   La respuesta parece obvia. Jesús dijo:
--   \scripture{Vayan, pues, y hagan discípulos de todas las naciones…}
--   Por lo tanto, parece natural comenzar allí. Pero casi inmediatamente surge una pregunta.
+##### Muchos creyentes saben que Jesús mandó hacer discípulos.
 
-> "¿Qué es el discipulado?”
+##### También saben cómo fueron discipulados.
 
-##### La palabra \scripture{discipulado} es usada con frecuencia, pero el Nuevo Testamento nunca parece detenerse para definirla.
+##### Quizás participaron en estudios uno a uno.
 
-> "Si Jesús mandó hacer discípulos, seguramente explicó lo que quiso decir.”
+##### Quizás siguieron un libro.
 
--   ¿Dónde?
--   ¿Explicó en algún lugar qué significa hacer discípulos?
--   ¿Dieron los apóstoles una definición?
--   ¿Existe una sección dedicada al discipulado en las epístolas?
--   ¿Ya entendían los discípulos lo que Jesús quiso decir?
+##### Quizás aprendieron un método.
+
+##### Quizás intentaron reproducir lo que otros habían hecho con ellos.
+
+##### Pero con el tiempo comenzaron a surgir preguntas.
+
+> ¿Qué significa realmente hacer discípulos?
+
+##### La respuesta parece sencilla.
+
+##### Jesús dijo:
+
+> «Vayan, pues, y hagan discípulos de todas las naciones.»
+
+##### Entonces parece natural comenzar allí.
+
+##### Pero casi inmediatamente surgen otras preguntas.
+-   ¿Explicó Jesús qué quiso decir?
+-   ¿Preparó a Sus discípulos para este mandamiento?
+-   ¿Ya entendían ellos lo que significaba?
 -   ¿Era una expresión conocida?
--   ¿Tiene raíces anteriores?
--   ¿Preparó Mateo al lector para este mandamiento?
+-   ¿Existe una definición en el Nuevo Testamento?
 -   ¿Explica el libro de Hechos cómo se hace?
 -   ¿Lo desarrollan las epístolas?
+-   ¿Encontraremos un método?
+-   ¿Encontraremos una fórmula?
 
-##### Y mientras avanzábamos, comenzamos a descubrir algo inesperado...
--   Las preguntas aumentaban. Pero las respuestas no parecían tan evidentes. Entonces decidimos hacer algo sencillo.
--   En lugar de comenzar con nuestras conclusiones, decidimos seguir el texto bíblico.
--   Y mientras seguíamos el hilo del \scripture{hagan discípulos}, otra declaración comenzó a aparecer repetidamente.
--   No:
+##### Mientras avanzábamos, las preguntas aumentaban.
 
-> \scripture{Vayan y edifiquen Mi iglesia}.
+##### Pero las respuestas no parecían tan evidentes.
 
--   Sino:
+##### Entonces decidimos hacer algo sencillo.
 
-> \scripture{Yo edificaré Mi iglesia}.
+##### En lugar de comenzar con nuestras conclusiones, decidimos volver al texto.
 
-##### Y una nueva pregunta comenzó a imponerse sobre todas las demás.
--   Antes de preguntar:
+##### Y si Jesús habló de hacer discípulos, parecía razonable comenzar escuchándolo a Él.
 
-> \scripture{¿Cómo hacemos discípulos?}
+##### Por eso comenzaremos allí.
 
--   Tal vez debemos preguntar primero:
+##### Y permitiremos que las Escrituras nos guíen.
 
-> \scripture{¿Quién es el Constructor?}
+# CAPÍTULO 2 - JESÚS HABLÓ DE HACER DISCÍPULOS
 
-# CAPÍTULO 2 - EL CONSTRUCTOR
+## Siguiendo el hilo del Evangelio
 
-## Jesús forma a los que luego enviará
+##### Si Jesús mandó hacer discípulos, surge una pregunta natural.
 
-##### Al seguir el mandato de hacer discípulos, pronto surge una pregunta.
+> ¿Aparece este mandamiento aislado?
 
-> ¿Comienza Mateo en Mateo 28:19?
+##### Al seguir el Evangelio de Mateo, encontramos algo interesante.
 
-##### La respuesta parece ser no. El mandato final no aparece aislado. Mateo ya venía mostrando algo acerca de Jesús y Sus discípulos.
+##### El mandato de hacer discípulos aparece al final del Evangelio.
+
+##### Por eso decidimos seguir el relato.
+
+##### Y permitiremos que Mateo continúe hablando.
+
+## Jesús llama
 
 ### Mateo 4:19
 Vengan en pos de Mí, y Yo los haré pescadores de hombres.
 
 #### Vengan en pos de Mí
-##### Antes de enviarlos, Jesús los llama.
+##### Antes de enviarlos, Jesús había llamado a Sus discípulos.
 #### y Yo los haré pescadores de hombres
 ##### Antes de que ellos hagan, Jesús promete hacer.
--   La formación comienza con Él.
+-   Jesús toma la iniciativa.
+-   La relación comienza con una invitación.
 
-## Jesús edifica Su iglesia
+## Jesús envía
 
-### Mateo 16:18
-Yo edificaré Mi iglesia.
+### Mateo 28:18-20
+Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones...
 
-##### Mientras seguimos el Evangelio de Mateo, otra declaración comienza a ocupar el centro.
+#### hagan discípulos
+##### El mandamiento que inició nuestra investigación aparece finalmente.
 
-##### Jesús no dice:
--   Edifiquen Mi iglesia.
+##### Pero no aparece al comienzo del Evangelio.
 
-##### Ni dice:
--   Ustedes edificarán Mi iglesia.
+##### Aparece después.
+#### Toda autoridad me ha sido dada
+##### La autoridad pertenece a Jesús.
+#### Yo estoy con ustedes todos los días
+##### Jesús promete permanecer con los Suyos.
 
-##### Dice:
--   \scripture{Yo edificaré Mi iglesia}
--   La obra pertenece a Cristo.
--   La iglesia pertenece a Cristo.
--   La responsabilidad final pertenece a Cristo.
+## Una observación
 
-## Jesús forma a Sus discípulos
+##### Porque el mandamiento que inició nuestra investigación aparece al final del Evangelio de Mateo.
+
+##### Y mientras seguíamos el relato, otra expresión comenzó a llamar nuestra atención.
+
+> Jesús comenzó a mostrar...
+
+##### Y continuaremos escuchando.
+
+# CAPÍTULO 3 - JESÚS COMENZÓ A MOSTRAR
+
+## Una observación en el Evangelio
+
+##### Mientras seguíamos el Evangelio de Mateo, una expresión comenzó a llamar nuestra atención.
 
 ### Mateo 16:21
 Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
 
-##### Mateo no presenta solamente un mandato final.
--   Presenta a Jesús formando a Sus discípulos.
--   Los instruye.
--   Los corrige.
--   Les revela Su camino.
--   Les muestra Su sufrimiento, Su muerte y Su resurrección.
--   El seguimiento no aparece reducido a la transferencia de información.
--   La formación ocurre mientras caminan con Él.
+#### Desde entonces
+##### Mateo registra un cambio.
 
-## Los formados son enviados
+##### Jesús comienza a mostrar algo a Sus discípulos.
+#### debía ir a Jerusalén
+##### Jesús dirige la atención hacia lo que ocurrirá.
+#### sufrir muchas cosas
+##### Jesús habla de Su sufrimiento.
+#### ser muerto
+##### Jesús habla de Su muerte.
+#### y resucitar al tercer día
+##### Jesús habla de Su resurrección.
 
-### Mateo 28:18–20
-Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones…
+## Una observación
 
-##### El mandato de hacer discípulos no aparece al comienzo del Evangelio.
+##### Interesante.
 
-##### Aparece después.
+##### Muy interesante.
 
-##### Los discípulos que son enviados son hombres que Jesús mismo llamó y formó.
+##### Porque Mateo no presenta solamente un mandamiento final.
 
-##### La autoridad sigue perteneciendo a Él.
+##### Presenta a Jesús actuando con Sus discípulos.
 
-##### Su presencia permanece con ellos.
+##### Jesús habla.
 
-##### Y mientras seguimos el hilo del Evangelio, una pregunta comienza a imponerse sobre todas las demás.
+##### Jesús muestra.
+
+##### Jesús continúa con ellos.
+
+##### Y otra observación comienza a surgir.
+
+##### Los hombres que son enviados en Mateo 28 no aparecen repentinamente.
+-   Ya habían caminado con Jesús.
+-   Ya habían escuchado a Jesús.
+-   Y Jesús había comenzado a mostrarles algo.
 
 ## Una pregunta
 
-##### ¿Quién es el Constructor?
--   Porque si Cristo es el Constructor, entonces todo lo demás debe ser entendido a la luz de Su obra.
--   Él determina el propósito de la obra.
--   Él determina su crecimiento.
--   Él determina la participación de Sus siervos.
--   Él determina cuándo la obra estará completa.
--   Y si la iglesia es Su iglesia, entonces el discipulado no puede ser entendido independientemente del Constructor.
--   Todo comienza con Él.
-
-# CAPÍTULO 3 - ¿QUIÉN ESTÁ EDIFICANDO?
-
-## ¿En qué obra participan los siervos?
-
-##### Si Cristo es el Constructor, otra pregunta surge naturalmente.
--   ¿O hacen los hombres todo?
--   ¿Es la obra completamente divina?
--   ¿O es la obra completamente humana?
-
-##### Estas preguntas no son nuevas.
--   La iglesia en Corinto también enfrentaba problemas relacionados con los hombres.
--   Algunos decían:
--   \scripture{Yo soy de Pablo.}
--   Otros:
--   \scripture{Yo soy de Apolos.}
-
-Pero Pablo dirige nuevamente la atención hacia Dios.
-
-### 1 Corintios 3:5
-¿Qué, pues, es Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes creyeron, según el Señor dio oportunidad a cada uno.
-
-## Los siervos participan
-
-#### Servidores mediante los cuales ustedes creyeron
-##### Pablo no se presenta como el centro de la obra.
--   Pablo y Apolos son presentados como servidores.
--   La atención no recae sobre Pablo.
--   La atención no recae sobre Apolos.
--   La atención recae sobre el Señor.
-
-#### según el Señor dio oportunidad a cada uno
-##### La participación de cada servidor es presentada como algo recibido.
--   El Señor determina la función de cada uno.
--   Los servidores no se asignan a sí mismos la obra.
--   La oportunidad proviene del Señor.
-
-## Los siervos trabajan
-
-### 1 Corintios 3:6
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
-
-#### Yo planté
-##### Pablo describe una labor real.
--   Pablo no niega su participación.
--   Pablo trabajó.
--   Pablo no permaneció pasivo.
-
-#### Apolos regó
-##### Apolos desempeñó una labor diferente.
--   Los servidores no necesariamente realizan la misma función.
--   La participación puede ser distinta.
--   La obra puede incluir diferentes labores.
-
-#### pero Dios ha dado el crecimiento
-##### El crecimiento es atribuido a Dios.
--   La obra de los hombres tiene límites.
--   Pablo no dio el crecimiento.
--   Apolos no dio el crecimiento.
--   Dios dio el crecimiento.
-
-##### Los roles permanecen distintos.
--   Pablo no dice:
--   Dios plantó.
--   Tampoco dice:
--   Pablo dio el crecimiento.
--   Cada función permanece en su lugar.
--   Los hombres participan.
--   Dios produce el crecimiento.
-
-##### El crecimiento pertenece a Dios
-
-### 1 Corintios 3:7
-Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
-
-#### sino Dios que da el crecimiento
-##### Pablo no disminuye la importancia del trabajo.
--   Pablo dirige la atención hacia Dios.
--   La obra pertenece a Dios.
--   El crecimiento pertenece a Dios.
--   La gloria pertenece a Dios.
-
-## Los siervos son colaboradores
-
-### 1 Corintios 3:9
-Porque nosotros somos colaboradores de Dios, y ustedes son el campo de Dios, el edificio de Dios.
-
-#### colaboradores de Dios
-##### Pablo no se presenta como constructor.
--   Pablo se presenta como colaborador.
--   Los siervos participan.
--   Dios permanece en el centro.
-
-#### el edificio de Dios
-##### La obra pertenece a Dios.
--   El edificio no pertenece a los hombres.
--   La iglesia no es el edificio de Pablo.
--   La iglesia no es el edificio de Apolos.
--   La iglesia es el edificio de Dios.
+##### ¿Continuará este proceso después de la ascensión?
 
-> En Síntesis
->- Antes de preguntar cómo participar, los siervos deben comprender qué es lo que Cristo está edificando.
->- El Nuevo Testamento describe Su obra como un cuerpo, una familia, un templo, una esposa y muchos hermanos conformados a la imagen del Hijo.
->- Estas imágenes presentan distintos aspectos de una misma obra que pertenece a Cristo.
->- La obra no consiste en individuos aislados, sino en un pueblo unido a Cristo y relacionado entre sí.
->- Los creyentes participan en esta obra, pero el diseño y el propósito pertenecen al Constructor.
->- Comprender la naturaleza de la obra ayuda a los siervos a participar de acuerdo con el propósito de Aquel que la está edificando.
+##### ¿Encontraremos algo parecido más adelante?
 
-# CAPÍTULO 4 - ¿QUÉ ESTÁ EDIFICANDO EL CONSTRUCTOR?
+##### Y continuaremos escuchando.
 
-## Los siervos deben conocer los medios
+##### Y permitiremos que Lucas continúe el relato.
+-   La autoridad pertenece a Él.
+-   Los discípulos son enviados por Él.
+-   La misión continúa.
+-   Las naciones son incluidas.
+-   Los mandamientos de Jesús permanecen importantes.
+-   Lo que Jesús enseñó continúa siendo transmitido.
+-   La misión no es independiente de Su presencia.
+-   Jesús no desaparece de la escena.
+-   La presencia de Jesús acompaña a los Suyos.
 
-> "¿Qué está edificando?"
+##### Y otra pregunta comienza a surgir.
 
-##### La respuesta parece sencilla.
+# CAPÍTULO 5 - LOS DISCÍPULOS CONTINÚAN APARECIENDO
 
-##### Podríamos responder:
--   "La iglesia."
+## Una observación en Hechos
 
-##### Pero inmediatamente surge otra pregunta.
+##### Mateo termina con Jesús hablando.
 
-> "¿Qué es la iglesia?"
+##### Jesús envía.
 
-##### Al llegar a las cartas del Nuevo Testamento, descubrimos algo interesante. Los apóstoles no describen la iglesia mediante una sola imagen. La presentan de muchas maneras. Cada una de ellas nos permite ver algo de la obra que Cristo está realizando.
+##### Jesús promete permanecer con los Suyos.
 
-## \textbf{Un cuerpo}
+##### Pero Mateo termina.
 
-### Efesios 4:15-16
-sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo, de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+##### Entonces surge una pregunta natural.
 
-#### todo el cuerpo
-##### Cristo no está edificando individuos aislados.
--   El crecimiento es presentado como algo que ocurre en un cuerpo.
--   Cristo es la cabeza.
--   Los creyentes son miembros.
--   El cuerpo crece juntamente.
+> ¿Qué ocurrió después?
 
-## \textbf{Una casa}
+##### Al abrir el libro de Hechos, encontramos algo interesante.
 
-### Efesios 2:19
-Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+##### Los discípulos continúan apareciendo.
 
-#### de la familia de Dios
-##### La iglesia es presentada como una familia.
--   Los creyentes pertenecen a una misma casa.
--   Dios es presentado como Padre.
--   Los creyentes son presentados como familia.
+### Hechos 6:1
+Por aquellos días, al multiplicarse el número de los discípulos...
 
-## \textbf{Un templo}
+#### al multiplicarse el número de los discípulos
+##### Lucas continúa utilizando el mismo lenguaje.
+-   Los discípulos aparecen nuevamente.
+-   El relato continúa.
 
-### Efesios 2:21-22
-en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor, en quien también ustedes son juntamente edificados para morada de Dios en el Espíritu.
+### Hechos 6:7
+...y el número de los discípulos aumentaba considerablemente...
 
-#### juntamente edificados
-##### La obra de Cristo es colectiva.
--   Dios habita en medio de Su pueblo.
--   El crecimiento ocurre juntamente.
--   La meta es una morada para Dios.
+#### el número de los discípulos aumentaba
+##### El lenguaje continúa.
+-   Los discípulos se multiplican.
+-   La palabra discípulo sigue apareciendo.
 
-## \textbf{Un hombre nuevo}
+### Hechos 9:36
+Había en Jope cierta discípula llamada Tabita...
 
-### Efesios 2:15
-aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz.
+#### cierta discípula
+##### El lenguaje continúa apareciendo.
 
-#### un nuevo hombre
-##### Cristo no solamente salva individuos.
--   Cristo está formando algo nuevo.
--   Judíos y gentiles son unidos en Cristo.
--   La paz es producida por Él.
+### Hechos 14:21-22
+Después de anunciar el evangelio... y hacer muchos discípulos...
 
-## \textbf{Una esposa}
+#### hacer muchos discípulos
+##### La expresión utilizada por Jesús continúa apareciendo.
+#### fortaleciendo los ánimos de los discípulos
+##### Los discípulos siguen ocupando el centro del relato.
 
-### Efesios 5:25-27
-Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+## Una observación
 
-#### para presentársela a Sí mismo
-##### Cristo tiene un propósito para Su iglesia.
--   La iglesia es presentada como una esposa amada.
--   Cristo ama a la iglesia.
--   Cristo la santifica.
--   Cristo la prepara.
+##### Interesante.
 
-## \textbf{Muchos hermanos conformados a Su Hijo}
+##### Muy interesante.
 
-### Romanos 8:29
-Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
+##### Porque después de la ascensión, los discípulos continúan apareciendo.
 
-#### conforme a la imagen de Su Hijo
-##### El propósito de Dios tiene a Cristo como centro.
--   Los creyentes son conformados a Su imagen.
--   Cristo es el primogénito.
--   Los creyentes son presentados como hermanos.
+##### Lucas continúa hablando de discípulos.
 
-> En Síntesis
+##### Los discípulos se multiplican.
 
-# CAPÍTULO 5 - ¿CÓMO EDIFICA EL CONSTRUCTOR?
+##### Los discípulos son fortalecidos.
 
-## Participando en la obra que Cristo realiza
+##### Muchos discípulos son hechos.
 
-##### Si Cristo es el Constructor, y si sabemos qué está edificando, otra pregunta surge naturalmente.
+##### El lenguaje no desaparece inmediatamente.
 
-> "¿Cómo realiza Su obra?"
+## Una pregunta
 
--   ¿Existe un método?
--   ¿Existe un proceso único?
--   ¿Existe una fórmula?
+##### ¿Continuará este lenguaje?
 
-##### Al observar el Nuevo Testamento, encontramos algo interesante. (Efesios 4-5)
--   Cristo utiliza medios.
--   Cristo utiliza personas.
--   Cristo utiliza Su palabra.
--   Cristo utiliza el evangelio.
--   Cristo utiliza dones.
--   Cristo utiliza generaciones.
+##### ¿Seguirán hablando así las Escrituras?
 
-##### Pero la obra sigue siendo Suya.
-
-## \textbf{El evangelio es el poder de Dios}
-
-### Romanos 1:16
-Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree; del judío primeramente y también del griego.
-
-#### el poder de Dios
-##### La fuente del poder no se encuentra en los hombres.
--   El poder pertenece a Dios.
--   El evangelio ocupa un lugar central.
--   La obra depende de Dios.
-
-## \textbf{El Señor envía a Sus siervos}
-
-### Mateo 28:19-20
-Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y Yo estoy con ustedes todos los días, hasta el fin del mundo.
-
-#### enseñándoles a guardar
-##### Cristo utiliza hombres para transmitir Sus palabras.
--   La enseñanza forma parte de Su obra.
--   Cristo envía.
--   Los discípulos enseñan.
--   Cristo permanece con ellos.
-
-## \textbf{Cristo da dones a Su iglesia}
-
-### Efesios 4:11-12
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.
-
-#### para la edificación del cuerpo de Cristo
-##### Cristo utiliza dones para edificar.
--   Los dones son dados por Cristo.
--   Los santos son equipados.
--   La edificación pertenece al cuerpo.
-
-## \textbf{La verdad es transmitida a otros}
-
-### 2 Timoteo 2:2
-Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
-
-#### encarga a hombres fieles
-##### La obra posee una dimensión generacional.
--   Lo recibido es transmitido a otros.
--   Pablo enseñó a Timoteo.
--   Timoteo debía encargarlo a otros.
--   Otros también enseñarían.
-
-## \textbf{Dios da crecimiento}
-
-### 1 Corintios 3:6
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
-
-#### Dios ha dado el crecimiento
-##### La obra permanece en las manos de Dios.
--   Los medios no sustituyen al Constructor.
--   Los hombres participan.
--   Dios produce el crecimiento.
-
-> En Síntesis
+##### Y continuaremos observando.
 
 # CAPÍTULO 6 - ¿DÓNDE EDIFICA EL CONSTRUCTOR?
 
-## El Constructor edifica dentro de una familia
+## La obra no ocurre en aislamiento
 
-##### Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.
+##### Si Cristo utiliza el evangelio, Su palabra, Sus dones y personas reales, otra pregunta surge naturalmente.
 
-> "¿Dónde ocurre normalmente este crecimiento?"
+> ¿Dónde ocurre normalmente este crecimiento?
 
-##### Al observar el Nuevo Testamento, encontramos algo interesante. Los creyentes no son presentados como personas aisladas. Tampoco son presentados como simples estudiantes.
--   Son presentados como miembros de un cuerpo.
--   Como una familia.
--   Como una casa.
--   Como una asamblea.
+##### Al observar el Nuevo Testamento encontramos algo interesante.
 
-##### El cuerpo crece unido
+##### Los creyentes rara vez aparecen aislados.
+
+##### Interesante.
+
+##### Muy interesante.
+
+##### Porque repetidamente son presentados como:
+###### un cuerpo,
+###### una familia,
+###### una casa,
+###### una comunión.
+
+##### Y otra observación comienza a aparecer.
+
+##### Muchas de las cosas que Cristo valora parecen ocurrir en medio de relaciones reales.
+
+##### Permitiremos que los apóstoles hablen.
+
+## El cuerpo crece unido
 
 ### Efesios 4:16
 de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
 
 #### todo el cuerpo
 ##### El crecimiento es presentado como algo colectivo.
--   Los miembros están unidos unos a otros.
--   El cuerpo crece juntamente.
--   Cada miembro participa.
--   La edificación ocurre en amor.
+###### Los miembros están unidos unos a otros.
+###### El cuerpo crece juntamente.
+###### Cada miembro participa.
+###### La edificación ocurre en amor.
 
-## \textbf{Los creyentes son una familia}
+## Los creyentes son una familia
 
 ### Efesios 2:19
 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
 
 #### la familia de Dios
-##### La iglesia es presentada como una casa.
--   Los creyentes pertenecen a una misma familia.
--   Dios es Padre.
--   Los creyentes son hermanos.
+##### La iglesia es presentada como una familia.
+###### Los creyentes pertenecen a una misma casa.
+###### Dios es presentado como Padre.
+###### Los creyentes son hermanos.
 
 ## Los miembros se necesitan mutuamente
 
 ### 1 Corintios 12:21
-El ojo no puede decir a la mano: No te necesito; ni tampoco la cabeza a los pies: No tengo necesidad de ustedes.
+El ojo no puede decir a la mano: "No te necesito"; ni tampoco la cabeza a los pies: "No tengo necesidad de ustedes".
 
 #### No te necesito
 ##### Ningún miembro vive independientemente.
--   El cuerpo funciona mediante la participación de todos.
--   Los miembros son diferentes.
--   Los miembros se necesitan.
--   Los miembros sirven unos a otros.
+###### El cuerpo funciona mediante la participación de todos.
+###### Los miembros son diferentes.
+###### Los miembros se necesitan.
+###### Los miembros sirven unos a otros.
 
-## \textbf{Los creyentes viven la verdad unos con otros}
+## La vida cristiana ocurre unos con otros
 
 ### Romanos 12:10
 Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
 
 #### unos con otros
-##### La vida cristiana es presentada en comunidad.
--   El amor es vivido en relaciones reales.
--   Los creyentes se sirven mutuamente.
--   Los creyentes se honran mutuamente.
--   Los creyentes soportan cargas reales.
+##### La vida cristiana es presentada en relaciones reales.
+###### El amor es vivido.
+###### El servicio es vivido.
+###### La honra es vivida.
+###### Las cargas son compartidas.
 
-## \textbf{Las generaciones viven juntas}
+## Las generaciones viven juntas
 
-### Tito 2:1-5
+### Tito 2:1–5
 Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
 
 #### enseña lo que está de acuerdo con la sana doctrina
-##### La enseñanza es acompañada por relaciones.
--   Hombres y mujeres mayores participan en la formación de otros.
--   La vida es compartida.
--   Las generaciones conviven.
--   La verdad es vivida.
+##### La enseñanza aparece acompañada por relaciones.
+###### Hombres mayores participan.
+###### Mujeres mayores participan.
+###### Los jóvenes participan.
+###### Las generaciones conviven.
+###### La verdad es vivida.
 
-## \textbf{La iglesia perseveraba junta}
+## Una observación
 
-### Hechos 2:42
-Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
+##### El Nuevo Testamento no presenta el crecimiento cristiano como una experiencia aislada.
 
-#### se dedicaban continuamente
-##### La vida cristiana no es presentada como una actividad individual.
--   Los creyentes compartían una misma vida.
--   Perseveraban juntos.
--   Aprendían juntos.
--   Oraban juntos.
--   Compartían juntos.
+##### Repetidamente aparecen:
+###### cuerpos,
+###### familias,
+###### hermanos,
+###### unos a otros,
+###### relaciones reales.
+
+##### Porque muchas de las cosas que Cristo valora parecen ocurrir en medio de Su pueblo.
+
+## Una pregunta
+
+##### ¿Será que la obra del Constructor normalmente se desarrolla en el contexto de Su pueblo?
+
+##### Por ahora no responderemos.
+
+##### Simplemente seguiremos escuchando.
 
 > En Síntesis
 
+> - El Nuevo Testamento rara vez presenta creyentes aislados.
+>- Los creyentes aparecen como miembros de un cuerpo y de una misma familia.
+>- Muchas expresiones del Nuevo Testamento ocurren en el contexto de relaciones reales.
+>- El crecimiento es presentado como algo compartido.
+>- El amor, el servicio y la edificación aparecen entre hermanos.
+
+> * Y una nueva pregunta comienza a surgir.
+
+> ¿Qué cosas podrían amenazar esta obra?
+
 # CAPÍTULO 7 - ¿CUÁL ES LA META DEL CONSTRUCTOR?
 
-## La obra se desarrolla entre hermanos
+## Una obra que avanza hacia un «hasta»
 
-##### Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.
+##### Si Cristo es el Constructor, y si sabemos algo acerca de lo que está edificando y dónde ocurre normalmente esta obra, otra pregunta surge naturalmente.
 
-> "¿Hacia dónde se dirige esta obra?"
+> ¿Hacia dónde se dirige?
 
-##### Las Escrituras presentan una obra que avanza hacia un \scripture{hasta}.
+##### Al observar las Escrituras, comenzamos a notar algo interesante.
 
-## \textbf{Hasta que todos lleguemos}
+##### Repetidamente aparece un lenguaje orientado hacia adelante.
+
+##### Interesante.
+
+##### Muy interesante.
+
+##### Porque los apóstoles hablan de:
+###### un «hasta»,
+###### una presentación futura,
+###### una conformidad con Cristo,
+###### una plenitud,
+###### una meta.
+
+##### Parece que la obra no es estática.
+
+##### Parece dirigirse hacia algo.
+
+##### Permitiremos nuevamente que las Escrituras hablen.
+
+## Hasta que todos lleguemos
 
 ### Efesios 4:13
 hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
 
 #### hasta que todos lleguemos
-##### La obra tiene una meta.
--   Cristo no edifica sin propósito.
--   La obra se dirige hacia algo.
--   El crecimiento tiene una dirección.
-
+##### Pablo presenta una obra que todavía se dirige hacia algo.
+###### Existe un "hasta".
+###### La obra continúa.
+###### La meta todavía está adelante.
 #### la unidad de la fe
-##### La meta incluye unidad.
--   La obra no tiene como objetivo individuos aislados.
--   La unidad forma parte de la meta.
-
+##### La unidad aparece dentro de esa meta.
+###### La obra no termina en individuos aislados.
+###### La unidad forma parte del cuadro.
 #### del conocimiento pleno del Hijo de Dios
 ##### Cristo permanece en el centro.
--   La meta no es simplemente adquirir información.
--   El conocimiento tiene una Persona como centro.
-
+###### El conocimiento tiene una Persona como centro.
+###### La atención permanece en Él.
 #### a la condición de un hombre maduro
-##### La obra se dirige hacia la madurez.
--   La inmadurez no constituye la meta.
--   El crecimiento tiene un propósito.
-
+##### La madurez aparece como parte del destino.
+###### La inmadurez no es presentada como la meta.
+###### La obra continúa avanzando.
 #### la plenitud de Cristo
-##### Cristo es la medida.
--   La meta no es el hombre.
--   La medida es Cristo.
+##### Cristo aparece como la medida.
+###### La referencia continúa siendo Él.
 
-##### Hasta el fin del siglo
+## Hasta el fin del siglo
 
 ### Mateo 28:20
-y Yo estoy con ustedes todos los días, hasta el fin del mundo.
+Y Yo estoy con ustedes todos los días, hasta el fin del siglo.
 
-#### hasta el fin del mundo
+#### hasta el fin del siglo
 ##### La presencia de Cristo acompaña Su obra.
--   La misión posee una dimensión temporal.
--   Cristo permanece con los Suyos.
--   La obra continúa hasta el fin del siglo.
+###### Cristo permanece con los Suyos.
+###### La obra continúa.
 
-##### Para presentársela a Sí mismo
+## Para presentársela a Sí mismo
 
 ### Efesios 5:25-27
-Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+...
 
 #### a fin de presentársela a Sí mismo
-##### Cristo tiene un propósito para Su iglesia.
--   La iglesia será presentada a Él.
--   Cristo ama a Su iglesia.
--   Cristo santifica a Su iglesia.
--   Cristo prepara a Su iglesia.
+##### Pablo habla de una presentación futura.
+###### Cristo ama a Su iglesia.
+###### Cristo la santifica.
+###### Cristo la prepara.
+###### La obra todavía mira hacia adelante.
 
-##### Conformados a la imagen de Su Hijo
+## Conformados a la imagen de Su Hijo
 
 ### Romanos 8:29
 Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
 
 #### conforme a la imagen de Su Hijo
-##### Cristo es el modelo.
--   El propósito de Dios tiene a Su Hijo como centro.
--   Los creyentes son conformados a Su imagen.
--   Cristo es el primogénito entre muchos hermanos.
+##### Cristo permanece siendo la referencia.
+###### Los creyentes son presentados en relación con Él.
+###### Él es el primogénito entre muchos hermanos.
 
-> En Síntesis
+## Una observación
+
+##### Repetidamente encontramos un lenguaje orientado hacia adelante.
+
+##### Interesante.
+
+##### Muy interesante.
+
+##### Porque la obra parece avanzar hacia algo que todavía no ha sido plenamente alcanzado.
+
+##### Aparecen palabras como:
+###### hasta,
+###### plenitud,
+###### madurez,
+###### presentación,
+###### conformidad.
+
+##### La obra parece tener una dirección.
+
+## Una pregunta
+
+> ¿Qué cosas podrían desviar esta obra de aquello hacia lo cual parece dirigirse?
+
+##### Y continuaremos escuchando.
 
 # CAPÍTULO 8 - AMENAZAS A LA OBRA DEL CONSTRUCTOR
 
-## No todo favorece el crecimiento
+## No todas las influencias apuntan en la misma dirección
 
-##### Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.
+##### Si la obra parece avanzar hacia una meta, otra pregunta surge naturalmente.
 
-> "¿Qué amenaza esta obra?"
+> ¿Qué cosas podrían desviarla?
 
-##### Las Escrituras muestran que Cristo permanece fiel.
+##### Al observar las Escrituras, encontramos algo interesante.
 
-##### Pero también muestran que los creyentes necesitan ser advertidos.
+##### Cristo permanece fiel.
 
-##### Las divisiones desvían la atención
+##### Pero los apóstoles continuamente:
+###### advierten,
+###### corrigen,
+###### exhortan,
+###### llaman al arrepentimiento.
 
-### 1 Corintios 1:12
-Quiero decir, que cada uno de ustedes dice: Yo soy de Pablo, Yo de Apolos, Yo de Cefas y Yo de Cristo.
+##### Porque parecen asumir que no todas las influencias favorecen aquello hacia lo cual la obra se dirige.
 
-#### Yo soy de Pablo
-##### Los hombres pueden ocupar el lugar que pertenece a Cristo.
--   La atención deja de estar sobre el Constructor.
--   Las personas sustituyen a Cristo.
--   Las divisiones dañan el cuerpo.
-
-##### La sabiduría humana desplaza la sabiduría de Dios
-
-### 1 Corintios 3:18-19
-Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
-
-#### la sabiduría de este mundo
-##### Los hombres pueden confiar en sus propios recursos.
--   La obra deja de depender de Dios.
--   Los métodos humanos no sustituyen la obra de Dios.
--   La gloria pertenece a Dios.
-
-##### La inmadurez impide el crecimiento
-
-### Efesios 4:14
-para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
-
-#### ya no seamos niños
-##### La inmadurez no constituye la meta.
--   Los creyentes pueden permanecer como niños.
--   La madurez es necesaria.
--   Los creyentes necesitan crecer.
-
-## Las falsas enseñanzas amenazan al rebaño
-
-### Hechos 20:29-30
-Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
-
-#### arrastrar a los discípulos tras ellos
-##### Los hombres pueden buscar seguidores para sí mismos.
--   El centro deja de ser Cristo.
--   El peligro puede venir desde afuera.
--   El peligro también puede surgir desde dentro.
-
-## El pecado tolerado afecta al cuerpo
-
-### 1 Corintios 5:6
-No es buena la jactancia de ustedes. ¿No saben que un poco de levadura fermenta toda la masa?
-
-#### un poco de levadura
-##### El pecado afecta a otros.
--   La iglesia es presentada como un cuerpo.
--   El pecado no es solamente individual.
--   La santidad importa.
-
-## La pérdida del amor afecta el testimonio
-
-### Apocalipsis 2:4
-Pero tengo esto contra ti: que has dejado tu primer amor.
-
-#### has dejado tu primer amor
-##### La actividad puede continuar sin amor.
--   Cristo conoce la condición de Su pueblo.
--   La ortodoxia no reemplaza el amor.
--   Cristo llama al arrepentimiento.
-
-## El mayor peligro
-
-### 1 Corintios 3:7
-Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
-
-#### Dios que da el crecimiento
-##### Los siervos pueden olvidar quién es el Constructor.
--   La obra siempre pertenece a Dios.
--   Los hombres no son el centro.
--   Cristo permanece en el centro.
--   La gloria pertenece a Dios.
-
-> En Síntesis
+##### Permitiremos nuevamente que las Escrituras hablen.
 
 # CAPÍTULO 9 - JESÚS FORMA A LOS QUE ENVIARÁ
 
-## Antes de enviar, Jesús forma
+## Antes de enviar, Jesús prepara
 
-##### Si Cristo es el Constructor, otra pregunta surge naturalmente.
+##### Al volver al Evangelio de Mateo, otra observación comienza a llamar la atención.
 
-> "¿Cómo lleva a cabo Su obra?"
+##### Porque los hombres que fueron enviados en Mateo 28 no aparecen repentinamente.
 
-##### Al llegar al Evangelio de Mateo encontramos algo interesante.
+##### Jesús ya los había llamado.
 
-##### Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.
+##### Ya había caminado con ellos.
+
+##### Ya les había mostrado muchas cosas.
+
+##### Y otra pregunta comienza a surgir.
+
+> ¿Preparó Jesús a aquellos que enviaría?
+
+##### Permitiremos nuevamente que Mateo hable.
 
 ## Jesús promete hacer
 
@@ -724,33 +573,32 @@ Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimie
 Síganme, y Yo los haré pescadores de hombres.
 
 #### Yo los haré
-##### La obra comienza con Jesús.
--   Jesús llama.
--   Jesús promete hacerlos pescadores de hombres.
--   La iniciativa pertenece a Él.
--   La formación comienza con Él.
+##### La iniciativa pertenece a Jesús.
+###### Jesús llama.
+###### Jesús promete hacer.
+###### La formación comienza con Él.
 
-## Jesús forma a Sus discípulos
+## Jesús comenzó a mostrar
 
 ### Mateo 16:21
 Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
 
 #### Jesús comenzó a mostrar
-##### Jesús continuó formando a Sus discípulos.
--   Jesús les reveló Su camino.
--   Los preparó para Su sufrimiento, muerte y resurrección.
--   La formación continuó durante Su ministerio.
+##### Jesús continuó revelándoles Su camino.
+###### Les mostró Su sufrimiento.
+###### Les mostró Su muerte.
+###### Les mostró Su resurrección.
+###### La formación continuó durante Su ministerio.
 
-## Jesús posee toda autoridad
+## Toda autoridad
 
 ### Mateo 28:18
 Toda autoridad me ha sido dada en el cielo y en la tierra.
 
 #### Toda autoridad
-##### La misión nace de la autoridad de Cristo.
--   La autoridad pertenece a Jesús.
--   La misión procede de Él.
--   Los discípulos son enviados por Él.
+##### La autoridad permanece en Cristo.
+###### La misión procede de Él.
+###### Los discípulos son enviados por Él.
 
 ## Los formados son enviados
 
@@ -758,37 +606,69 @@ Toda autoridad me ha sido dada en el cielo y en la tierra.
 Vayan, pues, y hagan discípulos de todas las naciones...
 
 #### hagan discípulos
-##### Jesús envía a aquellos que Él mismo había formado.
--   Los discípulos participan en la obra.
--   Deben enseñar a guardar lo que Jesús mandó.
--   Jesús permanece con ellos.
--   Su presencia continúa hasta el fin del siglo.
+##### Los hombres enviados son hombres que ya habían caminado con Jesús.
+###### Deben enseñar lo que recibieron.
+###### Jesús permanece con ellos.
+###### Su presencia continúa hasta el fin del siglo.
+
+## Una observación
+
+##### Porque antes de enviar, Jesús mismo había invertido tiempo en aquellos que enviaría.
+
+##### La misión no aparece separada de la preparación.
+
+##### Los enviados ya habían caminado con Él.
+
+## Una pregunta
+
+> ¿Encontraremos algo parecido cuando escuchemos a los apóstoles?
+
+##### Y continuaremos escuchando.
 
 > En Síntesis
->- Jesús prometió hacer pescadores de hombres.
->- Jesús mismo formó a Sus discípulos.
->- La autoridad pertenece al Cristo resucitado.
->- Los discípulos son enviados por Él.
->- Deben enseñar a guardar Sus mandamientos.
->- Jesús permanece con ellos hasta el fin del siglo.
 
-# CAPÍTULO 10 - ¿POR QUÉ LA IGLESIA?
+###### Los hombres enviados en Mateo 28 no aparecen repentinamente.
+###### Jesús los llamó y caminó con ellos antes de enviarlos.
+###### Jesús les mostró Su camino.
+###### La autoridad permanece en Cristo.
+###### Los enviados participan en una obra que continúa perteneciendo a Él.
+###### Y otra pregunta comienza a surgir.
 
-## La iglesia es el ambiente de la obra
+> ¿Encontraremos un patrón parecido después de los Evangelios?
+
+# CAPÍTULO 10 - ¿POR QUÉ LA IGLESIA SIGUE APARECIENDO?
+
+## Una observación difícil de ignorar
 
 ##### Hasta este punto hemos seguido a Jesús.
--   Lo hemos visto llamar.
--   Formar.
--   Enviar.
--   Y prometer:
 
-> «Yo edificaré Mi iglesia».
+##### Lo hemos visto:
+###### llamar,
+###### formar,
+###### enviar,
+###### prometer:
 
-##### Pero surge una pregunta natural.
--   ¿Por qué la iglesia?
--   ¿Por qué no simplemente individuos?
--   ¿Por qué no solamente relaciones de uno a uno?
--   ¿Por qué no simplemente programas?
+> «Yo edificaré Mi iglesia.»
+
+##### Pero al llegar a las epístolas, otra observación comienza a llamar la atención.
+
+##### Interesante.
+
+##### Muy interesante.
+
+##### Porque la iglesia sigue apareciendo.
+
+##### Los apóstoles continúan hablando acerca de:
+###### un cuerpo,
+###### una familia,
+###### una casa,
+###### una esposa,
+###### hermanos,
+###### unos a otros.
+
+##### Y otra pregunta comienza a surgir.
+
+> ¿Por qué la iglesia ocupa un lugar tan importante?
 
 ##### Permitiremos nuevamente que las Escrituras hablen.
 
@@ -797,82 +677,81 @@ Vayan, pues, y hagan discípulos de todas las naciones...
 ### Efesios 5:25
 Cristo amó a la iglesia y se entregó a Sí mismo por ella.
 
-La iglesia no es una idea secundaria.
+#### Cristo amó a la iglesia
+##### La iglesia ocupa un lugar importante.
+###### Cristo la ama.
+###### Cristo se entregó por ella.
 
-##### Cristo la ama.
-
-##### Cristo se entregó por ella.
-
-##### La iglesia ocupa un lugar especial en Su propósito.
+##### La iglesia no aparece como algo secundario.
 
 ## Un solo cuerpo
 
-### 1 Corintios 12:12–13
+### 1 Corintios 12:12-13
 Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo. Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres. A todos se nos dio a beber del mismo Espíritu.
 
-##### Los creyentes no son miembros aislados.
-
-##### Son un cuerpo.
-
-##### Muchos miembros.
-
-##### Un mismo Espíritu.
-
-##### Una misma vida.
+#### un solo cuerpo
+##### Los creyentes son presentados juntos.
+###### Muchos miembros.
+###### Un mismo Espíritu.
+###### Una misma vida.
 
 ## La familia de Dios
 
 ### Efesios 2:19
-Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
 
-Los creyentes son:
-- conciudadanos,
-- miembros de la familia de Dios.
-La vida cristiana no es presentada como una experiencia aislada.
-Es una vida compartida.
+#### la familia de Dios
+##### Los creyentes son presentados como una familia.
+###### * Conciudadanos.
+###### * Miembros de una misma casa.
 
-## Equipando a los santos
+##### La vida es compartida.
 
-### Efesios 4:11–16
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo; hasta que todos lleguemos a la unidad de la fe y del pleno conocimiento del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo...de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+## Cristo dio dones
 
-Cristo dio dones.
-Los santos son equipados.
-La obra del servicio es realizada.
-El cuerpo es edificado.
-La meta es la madurez.
-La imagen es corporativa.
+### Efesios 4:11-16
+
+#### para la edificación del cuerpo de Cristo
+##### Cristo dio dones a Su pueblo.
+###### Los santos son equipados.
+###### El cuerpo es edificado.
+###### La meta continúa siendo la madurez.
 
 ## Unos a otros
 
-Las epístolas están llenas de expresiones como:
+##### Las epístolas están llenas de expresiones como:
+###### ámense unos a otros,
+###### exhórtense unos a otros,
+###### sírvanse unos a otros,
+###### sopórtense unos a otros,
+###### anímense unos a otros,
+###### oren unos por otros.
 
--   ámense unos a otros,
--   exhórtense unos a otros,
--   sírvanse unos a otros,
--   sopórtense unos a otros,
--   anímense unos a otros,
--   oren unos por otros.
-
-La vida cristiana aparece constantemente en el contexto de relaciones.
+##### Porque la vida cristiana aparece constantemente en relaciones reales.
 
 ## Una observación
 
-Quizás la iglesia no sea simplemente el lugar donde ocurre el discipulado.
+##### La iglesia sigue apareciendo.
 
-Quizás la iglesia sea el ambiente donde Cristo lleva a cabo Su obra.
+##### Porque los apóstoles parecen asumir algo que todavía no hemos terminado de comprender.
+
+##### Hablan constantemente de:
+###### cuerpos,
+###### familias,
+###### hermanos,
+###### relaciones,
+###### unos a otros.
+
+##### Y la iglesia ocupa un lugar difícil de ignorar.
 
 ## Una pregunta
 
-Si Cristo está edificando Su iglesia, y la iglesia es el ambiente en el que Su obra se desarrolla, surge otra pregunta.
+> ¿Qué ocurrió con el lenguaje del discipulado?
 
-##### ¿Qué ocurrió con el lenguaje del discipulado?
+##### Porque al llegar al final del libro de Hechos ocurre algo inesperado.
 
-Porque al llegar al final del libro de Hechos ocurre algo inesperado.
+##### La palabra discípulo desaparece.
 
-La palabra \scripture{discípulo} desaparece.
-
-Y permitiremos que las epístolas hablen por sí mismas.
+##### Y permitiremos que las epístolas hablen por sí mismas.
 
 # CAPÍTULO 11 - ¿QUÉ PASÓ CON EL DISCIPULADO?
 
@@ -900,7 +779,7 @@ Y permitiremos que las epístolas hablen por sí mismas.
 
 ##### Después de todo, Jesús había dicho:
 
-> \scripture{Vayan y hagan discípulos…}
+> *Vayan y hagan discípulos…*
 
 ##### Por eso surgen preguntas inevitables.
 
@@ -929,7 +808,7 @@ Y permitiremos que las epístolas hablen por sí mismas.
 
 ## Una observación
 
-##### La desaparición de la palabra \scripture{discípulo} después de Hechos 21:16 no ocurre aisladamente.
+##### La desaparición de la palabra *discípulo* después de Hechos 21:16 no ocurre aisladamente.
 
 ##### Al avanzar hacia las epístolas, también desaparece gran parte del lenguaje característico de los Evangelios.
 -   Ya no encontramos expresiones como:
@@ -1160,7 +1039,6 @@ Los creyentes son aquellos que:
 #### no ponen confianza en la carne.
 
 La confianza apostólica no está repartida entre Cristo y la carne.
-
 La confianza ha sido trasladada.
 
 ## Confiando en Aquel que comenzó
@@ -1171,9 +1049,7 @@ Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena o
 #### Estoy convencido...
 
 Pablo está convencido.
-
 Pero su confianza no descansa en los filipenses.
-
 Descansa en Aquel que comenzó la buena obra y la perfeccionará hasta el día de Cristo.
 
 ### 1 Tesalonicenses 5:23–24
@@ -1237,7 +1113,6 @@ En el Señor.
 Entristecidos, mas siempre gozosos.
 
 Su gozo no depende de las circunstancias.
-
 Su confianza descansa en otro lugar.
 
 ## Una observación
@@ -1592,7 +1467,7 @@ El ojo no puede decir a la mano: “No te necesito”.
 ## Una familia
 
 ### Efesios 2:19
-Son de la familia de Dios.
+Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
 
 #### la familia de Dios
 ##### Los creyentes pertenecen a una misma casa.
@@ -1605,7 +1480,7 @@ Son de la familia de Dios.
 ## La verdad es vivida unos con otros
 
 ### Romanos 12:10
-Sean afectuosos unos con otros con amor fraternal.
+Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
 
 #### unos con otros
 ##### El amor requiere personas reales.
@@ -2602,7 +2477,7 @@ Dices: Soy rico... y no sabes que eres un desventurado.
 -   Porque Cristo es fiel.
 -   El Constructor no falla.
 -   Su iglesia permanecerá.
-  
+
 ###### Entonces, ¿por qué tantas exhortaciones?
 ###### ¿Por qué tantas advertencias?
 ###### ¿Por qué tanta insistencia en perseverar?
@@ -3209,11 +3084,8 @@ Demostrando ser ejemplos del rebaño.
 ## Una observación
 
 Los apóstoles no parecen confiar solamente en la transferencia de información.
-
 Interesante.
-
 Muy interesante.
-
 También hablan acerca de:
 
 -   padres,
@@ -3384,7 +3256,7 @@ Enseña lo que está de acuerdo con la sana doctrina.
 
 ##### Sino entregar intacto el centro a quienes vienen después.
 
-##### \textbf{Porque si Cristo crucificado permanece central,}
+##### **Porque si Cristo crucificado permanece central,**
 
 ##### **quizás el Constructor continúa edificando.
 
@@ -3742,7 +3614,7 @@ Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin.
 ## Una pregunta
 
 ##### Porque Aquel que dijo:
-###### \scripture{Edificaré Mi iglesia}
+###### *Edificaré Mi iglesia*
 
 ##### también dirá:
 ###### "Aquí está la esposa".
@@ -4058,3 +3930,38 @@ Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin man
 ##### Esto le da al libro una estructura muy satisfactoria:
 
 ## Constructor → Apóstoles → Cristo → Participación → Gloria
+
+# CAPÍTULO XX – ¿QUIÉN PARTICIPA EN ESTA OBRA?
+
+## Una misma obra, muchas funciones
+
+And then let the Scriptures speak:
+
+-   Matthew 28
+-   Romans 10:11–17
+-   Ephesians 4:11–16
+-   1 Corinthians 12
+-   Titus 2
+-   2 Timothy 2:2
+-   Colossians 3:16
+-   Hebrews 3:13
+-   Hebrews 10:24–25
+
+And perhaps the discovery becomes:
+
+> The New Testament does not present one uniform activity called "discipleship" performed identically by everyone.
+
+Rather,
+
+> Christ builds His church through the participation of the whole body, with different gifts and functions.
+
+And that would be a huge discovery.
+Because many readers are carrying either:
+
+> "I'm supposed to personally disciple everybody."
+
+or
+
+> "Discipleship belongs to the professionals."
+
+The New Testament may point in a much richer direction than either extreme.
