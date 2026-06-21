@@ -1,0 +1,7378 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\newcommand{\ManualTitle}{Discipulado - Participar con el Constructor}
+\newcommand{\ManualVersion}{0.1}
+\newcommand{\ManualSubtitle}{Hasta que Él venga}
+% ============================
+% Load the full manual template
+% ============================
+\input{manual_template.tex}
+
+% ============================
+% STUDENT VERSION SETTINGS
+% ============================
+\usepackage[normalem]{ulem}
+
+\newlength{\fillinwidth}
+
+\renewcommand{\ULthickness}{0.8pt}
+
+\renewcommand{\fillin}[1]{%
+  \settowidth{\fillinwidth}{\textbf{#1}}%
+  \addtolength{\fillinwidth}{2em}%
+  \uline{\makebox[\fillinwidth][l]{\hspace*{\fillinwidth}}}%
+}
+
+\begin{document}
+% Full bleed cover
+% Reset margins if needed for content
+\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
+\clearpage
+
+\section{Sobre CGV}\label{sobre-cgv}
+
+\begin{paraHfour}
+El material de Cultivados en Gracia y Verdad (CGV) ha sido desarrollado para el uso libre de la iglesia. Nuestro anhelo es que sea de bendición y edificación para el pueblo de Dios.
+\end{paraHfour}
+
+\begin{paraHfour}
+Este material está diseñado para promover el discipulado bíblico dentro de la iglesia local. Creemos que el contexto principal y más fiel para cumplir la Gran Comisión —hacer discípulos y enseñar— es la vida y el ministerio de la iglesia local.
+\end{paraHfour}
+
+\begin{paraHfour}
+Asimismo, nuestra pasión es volver constantemente a las Escrituras y preguntarnos con reverencia: \scripture{¿qué dice el Señor?} 
+\end{paraHfour}
+
+\begin{paraHfour}
+Buscamos permitir que la Palabra de Dios hable por sí misma y nos enseñe, en lugar de usar las Escrituras para imponer o sostener nuestros propios sistemas o enfoques teológicos. Nuestro deseo es ser formados por la verdad revelada, sometiéndonos a la autoridad del texto bíblico.
+\end{paraHfour}
+
+\begin{center}
+  \includegraphics[height=8.5cm, keepaspectratio, alt={CGV}]{images/cgv.png}
+\end{center}
+
+\begin{center}
+  \url{www.discipuladocgv.org}
+\end{center}
+
+\clearpage
+
+\section{Como usar este manual}\label{como-usar-este-manual}
+
+\subsection{Propósito y enfoque}\label{propuxf3sito-y-enfoque}
+
+\begin{paraHfour}
+Este manual ha sido desarrollado para enseñar la Escritura de manera textual, progresiva y consciente del lenguaje. Su propósito principal es ayudar al lector a observar cuidadosamente lo que el texto dice y cómo lo dice, antes de cualquier síntesis teológica o aplicación práctica.
+\end{paraHfour}
+
+\begin{paraHfour}
+Su objetivo es exponer con cuidado el argumento del Texto bíblico, observando cómo la gramática, el vocabulario y la estructura literaria determinan el significado. La teología y la aplicación se entienden como resultados que surgen del Texto, no como su punto de partida.
+\end{paraHfour}
+
+\subsection{Metodología de estudio}\label{metodologuxeda-de-estudio}
+
+\begin{paraHfour}
+Este manual sigue un enfoque inductivo y observacional. Parte de la convicción de que la Escritura comunica significado a través del lenguaje, y que la gramática no es un elemento secundario, sino un medio esencial mediante el cual el texto transmite sentido.
+\end{paraHfour}
+
+\subsection{Alcance y uso del manual}\label{alcance-y-uso-del-manual}
+
+\begin{paraHfour}
+Este manual es una herramienta de estudio bíblico principalmente diseñada para el uso del hacer hacedores de discipulos en el contexto de la iglesia. También puede emplearse tanto en el aprendizaje personal como en la enseñanza en grupos, clases o estudios congregacionales.
+\end{paraHfour}
+
+\begin{paraHfour}
+El contenido está organizado para seguir el flujo y el desarrollo del Texto bíblico, presentándolo como un argumento coherente y no como una colección de versículos aislados. Las secciones buscan ayudar al lector a observar cómo una afirmación prepara la siguiente y cómo las conclusiones dependen de lo que ya ha sido establecido en el texto.
+\end{paraHfour}
+
+\subsection{Resultado esperado}\label{resultado-esperado}
+
+\begin{paraHfour}
+En muchos pasajes de la Escritura, el énfasis recae primero en declarar realidades antes de exhortar conductas. Por ello, este manual enseña primero a observar y comprender el Texto, y solo después a considerar su aplicación.
+\end{paraHfour}
+
+\begin{paraHfour}
+¡Que Dios bendiga su estudio de la bendita Palabra de Dios!
+\end{paraHfour}
+
+\clearpage
+
+\setcounter{tocdepth}{1}
+\tableofcontents
+\clearpage
+
+\section{INTRODUCCIÓN}\label{introducciuxf3n}
+
+\subsection{Este curso nació de
+preguntas.}\label{este-curso-naciuxf3-de-preguntas.}
+
+\headingfive{Muchos creyentes sinceros hablan del discipulado, pero el discipulado es entendido y practicado de muchas maneras diferentes. En lugar de comenzar con tradiciones, métodos, instituciones o presuposiciones, nuestro deseo es comenzar con las Escrituras mismas.}
+
+\headingfive{Nuestro propósito no es evaluar todos los modelos de discipulado. Nuestro interés es mucho más limitado. Queremos entender el discipulado en el contexto en que el Nuevo Testamento lo presenta: la vida de la iglesia.}
+
+\headingsix{Pero incluso esto plantea preguntas.}
+
+\begin{itemize}
+\item
+  \begin{paraHtwo}¿De dónde obtenemos nuestro concepto de discipulado?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Qué determina la manera en que lo practicamos?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Dónde define el Nuevo Testamento el discipulado?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Por qué iglesias sinceras lo practican de maneras tan diferentes?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Qué es el discipulado?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Cuál es su propósito?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es mentoría?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es enseñanza?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es evangelismo?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Son relaciones?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es un currículo?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es la vida de la iglesia?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Está cada creyente haciendo discípulos?\end{paraHtwo}
+\item
+  \begin{paraHtwo}Si es así, ¿cómo se ve eso en la práctica?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Es evangelismo, luego discipulado, y finalmente plantación de iglesias?\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Deben ocurrir estas cosas en ese orden?\end{paraHtwo}
+\item
+  \begin{paraHtwo}Y quizás la pregunta más incómoda de todas:\end{paraHtwo}
+\item
+  \begin{paraHtwo}¿Hemos asumido que sabemos lo que es el discipulado sin haber permitido
+  primero que las Escrituras lo definan?\end{paraHtwo}
+\end{itemize}
+
+\headingfive{Estas preguntas no nos alejaron de las Escrituras. Nos llevaron de regreso a ellas. Por lo tanto, en lugar de comenzar con nuestras respuestas, comenzamos nuevamente con el texto mismo.}
+
+\section{CAPÍTULO 1 - Comencemos}\label{capuxedtulo-1---comencemos}
+
+\headingfive{Si queremos entender el discipulado bíblicamente, ¿por dónde comenzamos?}
+
+\headingfive{La respuesta parece obvia.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús dijo:
+\end{itemize}
+
+\begin{anchorblock}{Vayan, pues, y hagan discípulos de todas las naciones…}
+
+\headingfive{Por lo tanto, parece natural comenzar allí. Pero casi inmediatamente surge una pregunta.}
+
+\begin{quote}
+\begin{paraHone}``¿Qué es el discipulado?''\end{paraHone}
+\end{quote}
+
+\headingfive{La palabra \scripture{discipulado} es usada con frecuencia, pero el Nuevo Testamento nunca parece detenerse para definirla.}
+
+\begin{quote}
+\begin{paraHone}``Si Jesús mandó hacer discípulos, seguramente explicó lo que quiso
+decir.''\end{paraHone}
+\end{quote}
+
+\begin{itemize}
+\item
+  \begin{paraHone}¿Dónde?\end{paraHone}
+\item
+  \begin{paraHone}¿Explicó en algún lugar qué significa hacer discípulos?\end{paraHone}
+\item
+  \begin{paraHone}¿Dieron los apóstoles una definición?\end{paraHone}
+\item
+  \begin{paraHone}¿Existe una sección dedicada al discipulado en las epístolas?\end{paraHone}
+\item
+  \begin{paraHone}¿Ya entendían los discípulos lo que Jesús quiso decir?\end{paraHone}
+\item
+  \begin{paraHone}¿Era una expresión conocida?\end{paraHone}
+\item
+  \begin{paraHone}¿Tiene raíces anteriores?\end{paraHone}
+\item
+  \begin{paraHone}¿Preparó Mateo al lector para este mandamiento?\end{paraHone}
+\item
+  \begin{paraHone}¿Explica el libro de Hechos cómo se hace?\end{paraHone}
+\item
+  \begin{paraHone}¿Lo desarrollan las epístolas?\end{paraHone}
+\end{itemize}
+
+\headingfive{Y mientras avanzábamos, comenzamos a descubrir algo inesperado.}
+
+\begin{paraHone}Las preguntas aumentaban. Pero las respuestas no parecían tan evidentes.
+Entonces decidimos hacer algo sencillo.\\
+En lugar de comenzar con nuestras conclusiones, decidimos seguir el
+texto bíblico.\end{paraHone}
+
+\begin{paraHone}Y mientras seguíamos el hilo del \scripture{hagan discípulos}, otra
+declaración comenzó a aparecer repetidamente.\end{paraHone}
+
+\begin{paraHone}No:\\
+\textgreater{} \scripture{Vayan y edifiquen Mi iglesia}.\\
+Sino:\\
+\textgreater{} \scripture{Yo edificaré Mi iglesia}.\end{paraHone}
+
+\headingfive{Y una nueva pregunta comenzó a imponerse sobre todas las demás.}
+
+\headingfive{Antes de preguntar:}
+
+\begin{quote}
+\scripture{¿Cómo hacemos discípulos?}
+\headingfive{Tal vez debemos preguntar primero:}
+\scripture{¿Quién es el Constructor?}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 2 - EL
+CONSTRUCTOR}\label{capuxedtulo-2---el-constructor}
+
+\headingfive{Al seguir el mandato de hacer discípulos, pronto surge una pregunta.}
+
+\begin{quote}
+\begin{paraHone}¿Comienza Mateo en Mateo 28:19?\end{paraHone}
+\end{quote}
+
+\headingfive{La respuesta parece ser no. El mandato final no aparece aislado. Mateo ya venía mostrando algo acerca de Jesús y Sus discípulos.}
+
+\subsection{Jesús forma a los que luego
+enviará}\label{jesuxfas-forma-a-los-que-luego-enviaruxe1}
+
+\subsubsection{Mateo 4:19}\label{mateo-419}
+
+\begin{verseblock}
+Vengan en pos de Mí, y Yo los haré pescadores de hombres.
+\end{verseblock}
+
+\begin{itemize}
+\tightlist
+\item
+  Antes de enviarlos, Jesús los llama.
+\item
+  Antes de que ellos hagan, Jesús promete hacer.
+\item
+  La iniciativa pertenece a Él.
+\item
+  La formación comienza con Él.
+\end{itemize}
+
+\subsection{Jesús edifica Su iglesia}\label{jesuxfas-edifica-su-iglesia}
+
+\subsubsection{Mateo 16:18}\label{mateo-1618}
+
+\begin{verseblock}
+Yo edificaré Mi iglesia.
+\end{verseblock}
+
+\begin{paraHthree}Mientras seguimos el Evangelio de Mateo, otra declaración comienza a
+ocupar el centro.\\
+Jesús no dice:\\
+Edifiquen Mi iglesia.\\
+Ni dice:\\
+Ustedes edificarán Mi iglesia.\\
+Dice:\\
+Yo edificaré Mi iglesia.\\
+La obra pertenece a Cristo.\\
+La iglesia pertenece a Cristo.\\
+La responsabilidad final pertenece a Cristo.\end{paraHthree}
+
+\subsection{Jesús forma a Sus
+discípulos}\label{jesuxfas-forma-a-sus-discuxedpulos}
+
+\subsubsection{Mateo 16:21}\label{mateo-1621}
+
+\begin{verseblock}
+Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+\end{verseblock}
+
+\begin{paraHthree}Mateo no presenta solamente un mandato final.\\
+Presenta a Jesús formando a Sus discípulos.\\
+Los instruye.\\
+Los corrige.\\
+Les revela Su camino.\\
+Les muestra Su sufrimiento, Su muerte y Su resurrección.\\
+El seguimiento no aparece reducido a la transferencia de información.\\
+La formación ocurre mientras caminan con Él.\end{paraHthree}
+
+\subsection{Los formados son enviados}\label{los-formados-son-enviados}
+
+\subsubsection{Mateo 28:18--20}\label{mateo-281820}
+
+\begin{verseblock}
+Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones…
+\end{verseblock}
+
+\begin{paraHthree}El mandato de hacer discípulos no aparece al comienzo del Evangelio.\\
+Aparece después.\\
+Los discípulos que son enviados son hombres que Jesús mismo llamó y
+formó.\\
+La autoridad sigue perteneciendo a Él.\\
+Su presencia permanece con ellos.\\
+Y mientras seguimos el hilo del Evangelio, una pregunta comienza a
+imponerse sobre todas las demás.\end{paraHthree}
+
+\subsection{Una pregunta}\label{una-pregunta}
+
+\headingfive{¿Quién es el Constructor?}
+
+\headingsix{Porque si Cristo es el Constructor, entonces todo lo demás debe ser entendido a la luz de Su obra.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él determina el propósito de la obra.
+\item
+  Él determina su crecimiento.
+\item
+  Él determina la participación de Sus siervos.
+\item
+  Él determina cuándo la obra estará completa.
+\end{itemize}
+
+\headingsix{Y si la iglesia es Su iglesia, entonces el discipulado no puede ser entendido independientemente del Constructor. }
+
+\begin{itemize}
+\tightlist
+\item
+  Todo comienza con Él.
+\end{itemize}
+
+\section{CAPÍTULO 3 - ¿QUIÉN ESTÁ
+EDIFICANDO?}\label{capuxedtulo-3---quiuxe9n-estuxe1-edificando}
+
+\begin{paraHone}Si Cristo es el Constructor, otra pregunta surge naturalmente.\end{paraHone}
+
+\begin{paraHone}Si Él edifica Su iglesia, ¿qué papel desempeñan los creyentes?\end{paraHone}
+
+\begin{paraHone}¿Hace Cristo todo?\end{paraHone}
+
+\begin{paraHone}¿Hacen los hombres todo?\end{paraHone}
+
+\begin{paraHone}¿Es la obra completamente divina?\end{paraHone}
+
+\begin{paraHone}¿Es la obra completamente humana?\end{paraHone}
+
+\begin{paraHone}Estas preguntas no son nuevas.\end{paraHone}
+
+\begin{paraHone}La iglesia en Corinto también enfrentaba problemas relacionados con los
+hombres.\end{paraHone}
+
+\begin{paraHone}Algunos decían:\end{paraHone}
+
+\begin{anchorblock}{Yo soy de Pablo.}
+
+\begin{paraHone}Otros:\end{paraHone}
+
+\end{anchorblock}
+
+\begin{anchorblock}{Yo soy de Apolos.}
+
+\begin{paraHone}Pero Pablo dirige nuevamente la atención hacia Dios.\end{paraHone}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:5}\label{corintios-35}
+
+\begin{verseblock}
+¿Qué, pues, es Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes creyeron, según el Señor dio oportunidad a cada uno.
+\end{verseblock}
+\headingfive{Los siervos participan}
+
+\begin{anchorblock}{Servidores mediante los cuales ustedes creyeron}
+
+\headingfive{Pablo no se presenta como el centro de la obra.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo y Apolos son presentados como servidores.
+\item
+  La atención no recae sobre Pablo.
+\item
+  La atención no recae sobre Apolos.
+\item
+  La atención recae sobre el Señor.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{según el Señor dio oportunidad a cada uno}
+
+\headingfive{La participación de cada servidor es presentada como algo recibido.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Señor determina la función de cada uno.
+\item
+  Los servidores no se asignan a sí mismos la obra.
+\item
+  La oportunidad proviene del Señor.
+\end{itemize}
+
+\headingfive{Los siervos trabajan}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:6}\label{corintios-36}
+
+\begin{verseblock}
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{Yo planté}
+
+\headingfive{Pablo describe una labor real.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo no niega su participación.
+\item
+  Pablo trabajó.
+\item
+  Pablo no permaneció pasivo.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{Apolos regó}
+
+\headingfive{Apolos desempeñó una labor diferente.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los servidores no necesariamente realizan la misma función.
+\item
+  La participación puede ser distinta.
+\item
+  La obra puede incluir diferentes labores.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{pero Dios ha dado el crecimiento}
+
+\headingfive{El crecimiento es atribuido a Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra de los hombres tiene límites.
+\item
+  Pablo no dio el crecimiento.
+\item
+  Apolos no dio el crecimiento.
+\item
+  Dios dio el crecimiento.
+\end{itemize}
+
+\headingfive{Los roles permanecen distintos.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo no dice:
+\item
+  Dios plantó.
+\item
+  Tampoco dice:
+\item
+  Pablo dio el crecimiento.
+\item
+  Cada función permanece en su lugar.
+\item
+  Los hombres participan.
+\item
+  Dios produce el crecimiento.
+\end{itemize}
+
+\headingfive{El crecimiento pertenece a Dios}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:7}\label{corintios-37}
+
+\begin{verseblock}
+Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{sino Dios que da el crecimiento}
+
+\headingfive{Pablo no disminuye la importancia del trabajo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo dirige la atención hacia Dios.
+\item
+  La obra pertenece a Dios.
+\item
+  El crecimiento pertenece a Dios.
+\item
+  La gloria pertenece a Dios.
+\end{itemize}
+
+\headingfive{Los siervos son colaboradores}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:9}\label{corintios-39}
+
+\begin{verseblock}
+Porque nosotros somos colaboradores de Dios, y ustedes son el campo de Dios, el edificio de Dios.
+\end{verseblock}
+
+\begin{anchorblock}{colaboradores de Dios}
+
+\headingfive{Pablo no se presenta como constructor.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo se presenta como colaborador.
+\item
+  Los siervos participan.
+\item
+  Dios permanece en el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{el edificio de Dios}
+
+\headingfive{La obra pertenece a Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  El edificio no pertenece a los hombres.
+\item
+  La iglesia no es el edificio de Pablo.
+\item
+  La iglesia no es el edificio de Apolos.
+\item
+  La iglesia es el edificio de Dios.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 4 - ¿QUÉ ESTÁ EDIFICANDO EL
+CONSTRUCTOR?}\label{capuxedtulo-4---quuxe9-estuxe1-edificando-el-constructor}
+
+\begin{paraHone}Si Cristo es el Constructor, otra pregunta surge naturalmente.\\
+\textgreater{} ``¿Qué está edificando?''\end{paraHone}
+
+\begin{paraHone}La respuesta parece sencilla.\\
+Podríamos responder:\\
+``La iglesia.''\end{paraHone}
+
+\begin{paraHone}Pero inmediatamente surge otra pregunta.\\
+\textgreater{} ``¿Qué es la iglesia?''\end{paraHone}
+
+\begin{paraHone}Al llegar a las cartas del Nuevo Testamento, descubrimos algo
+interesante. Los apóstoles no describen la iglesia mediante una sola
+imagen. La presentan de muchas maneras. Cada una de ellas nos permite
+ver algo de la obra que Cristo está realizando.\end{paraHone}
+
+\headingfive{\textbf{Un cuerpo}}
+
+\subsubsection{Efesios 4:15-16}\label{efesios-415-16}
+
+\begin{verseblock}
+sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo, de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+\end{verseblock}
+
+\begin{anchorblock}{todo el cuerpo}
+
+\headingfive{Cristo no está edificando individuos aislados.}
+
+\begin{itemize}
+\tightlist
+\item
+  El crecimiento es presentado como algo que ocurre en un cuerpo.
+\item
+  Cristo es la cabeza.
+\item
+  Los creyentes son miembros.
+\item
+  El cuerpo crece juntamente.
+\end{itemize}
+
+\headingfive{\textbf{Una casa}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 2:19}\label{efesios-219}
+
+\begin{verseblock}
+Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+\end{verseblock}
+
+\begin{anchorblock}{de la familia de Dios}
+
+\headingfive{La iglesia es presentada como una familia.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes pertenecen a una misma casa.
+\item
+  Dios es presentado como Padre.
+\item
+  Los creyentes son presentados como familia.
+\end{itemize}
+
+\headingfive{\textbf{Un templo}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 2:21-22}\label{efesios-221-22}
+
+\begin{verseblock}
+en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor, en quien también ustedes son juntamente edificados para morada de Dios en el Espíritu.
+\end{verseblock}
+
+\begin{anchorblock}{juntamente edificados}
+
+\headingfive{La obra de Cristo es colectiva.}
+
+\begin{itemize}
+\tightlist
+\item
+  Dios habita en medio de Su pueblo.
+\item
+  El crecimiento ocurre juntamente.
+\item
+  La meta es una morada para Dios.
+\end{itemize}
+
+\headingfive{\textbf{Un hombre nuevo}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 2:15}\label{efesios-215}
+
+\begin{verseblock}
+aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz.
+\end{verseblock}
+
+\begin{anchorblock}{un nuevo hombre}
+
+\headingfive{Cristo no solamente salva individuos.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo está formando algo nuevo.
+\item
+  Judíos y gentiles son unidos en Cristo.
+\item
+  La paz es producida por Él.
+\end{itemize}
+
+\headingfive{\textbf{Una esposa}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 5:25-27}\label{efesios-525-27}
+
+\begin{verseblock}
+Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+\end{verseblock}
+
+\begin{anchorblock}{para presentársela a Sí mismo}
+
+\headingfive{Cristo tiene un propósito para Su iglesia.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia es presentada como una esposa amada.
+\item
+  Cristo ama a la iglesia.
+\item
+  Cristo la santifica.
+\item
+  Cristo la prepara.
+\end{itemize}
+
+\headingfive{\textbf{Muchos hermanos conformados a Su Hijo}}
+
+\end{anchorblock}
+
+\subsubsection{Romanos 8:29}\label{romanos-829}
+
+\begin{verseblock}
+Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
+\end{verseblock}
+
+\begin{anchorblock}{conforme a la imagen de Su Hijo}
+
+\headingfive{El propósito de Dios tiene a Cristo como centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes son conformados a Su imagen.
+\item
+  Cristo es el primogénito.
+\item
+  Los creyentes son presentados como hermanos.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 5 - ¿CÓMO EDIFICA EL
+CONSTRUCTOR?}\label{capuxedtulo-5---cuxf3mo-edifica-el-constructor}
+
+\headingfive{Si Cristo es el Constructor, y si sabemos qué está edificando, otra pregunta surge naturalmente.}
+
+\begin{quote}
+\begin{paraHone}``¿Cómo realiza Su obra?''\\
+- ¿Existe un método?\\
+- ¿Existe un proceso único?\\
+- ¿Existe una fórmula?\end{paraHone}
+\end{quote}
+
+\headingsix{Al observar el Nuevo Testamento, encontramos algo interesante. (Efesios 4-5)}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo utiliza medios.
+\item
+  Cristo utiliza personas.
+\item
+  Cristo utiliza Su palabra.
+\item
+  Cristo utiliza el evangelio.
+\item
+  Cristo utiliza dones.
+\item
+  Cristo utiliza generaciones.
+\end{itemize}
+
+\headingsix{Pero la obra sigue siendo Suya.}
+
+\headingfive{\textbf{El evangelio es el poder de Dios}}
+
+\subsubsection{Romanos 1:16}\label{romanos-116}
+
+\begin{verseblock}
+Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree; del judío primeramente y también del griego.
+\end{verseblock}
+
+\begin{anchorblock}{el poder de Dios}
+
+\headingfive{La fuente del poder no se encuentra en los hombres.}
+
+\begin{itemize}
+\tightlist
+\item
+  El poder pertenece a Dios.
+\item
+  El evangelio ocupa un lugar central.
+\item
+  La obra depende de Dios.
+\end{itemize}
+
+\headingfive{\textbf{El Señor envía a Sus siervos}}
+
+\end{anchorblock}
+
+\subsubsection{Mateo 28:19-20}\label{mateo-2819-20}
+
+\begin{verseblock}
+Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y Yo estoy con ustedes todos los días, hasta el fin del mundo.
+\end{verseblock}
+
+\begin{anchorblock}{enseñándoles a guardar}
+
+\headingfive{Cristo utiliza hombres para transmitir Sus palabras.}
+
+\begin{itemize}
+\tightlist
+\item
+  La enseñanza forma parte de Su obra.
+\item
+  Cristo envía.
+\item
+  Los discípulos enseñan.
+\item
+  Cristo permanece con ellos.
+\end{itemize}
+
+\headingfive{\textbf{Cristo da dones a Su iglesia}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 4:11-12}\label{efesios-411-12}
+
+\begin{verseblock}
+Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{para la edificación del cuerpo de Cristo}
+
+\headingfive{Cristo utiliza dones para edificar.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los dones son dados por Cristo.
+\item
+  Los santos son equipados.
+\item
+  La edificación pertenece al cuerpo.
+\end{itemize}
+
+\headingfive{\textbf{La verdad es transmitida a otros}}
+
+\end{anchorblock}
+
+\subsubsection{2 Timoteo 2:2}\label{timoteo-22}
+
+\begin{verseblock}
+Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+\end{verseblock}
+
+\begin{anchorblock}{encarga a hombres fieles}
+
+\headingfive{La obra posee una dimensión generacional.}
+
+\begin{itemize}
+\tightlist
+\item
+  Lo recibido es transmitido a otros.
+\item
+  Pablo enseñó a Timoteo.
+\item
+  Timoteo debía encargarlo a otros.
+\item
+  Otros también enseñarían.
+\end{itemize}
+
+\headingfive{\textbf{Dios da crecimiento}}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:6}\label{corintios-36-1}
+
+\begin{verseblock}
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{Dios ha dado el crecimiento}
+
+\headingfive{La obra permanece en las manos de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los medios no sustituyen al Constructor.
+\item
+  Los hombres participan.
+\item
+  Dios produce el crecimiento.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 6 - ¿DÓNDE EDIFICA EL
+CONSTRUCTOR?}\label{capuxedtulo-6---duxf3nde-edifica-el-constructor}
+
+\headingfive{Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.}
+
+\begin{quote}
+\begin{paraHone}``¿Dónde ocurre normalmente este crecimiento?''\\
+``¿Dónde ha decidido Cristo llevar a cabo Su obra?''\end{paraHone}
+\end{quote}
+
+\headingfive{Al observar el Nuevo Testamento, encontramos algo interesante. Los creyentes no son presentados como personas aisladas. Tampoco son presentados como simples estudiantes.}
+\headingsix{Son presentados como miembros de un cuerpo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Como una familia.
+\item
+  Como una casa.
+\item
+  Como una asamblea.
+\end{itemize}
+
+\headingfive{El cuerpo crece unido}
+
+\subsubsection{Efesios 4:16}\label{efesios-416}
+
+\begin{verseblock}
+de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+\end{verseblock}
+
+\begin{anchorblock}{todo el cuerpo}
+
+\headingfive{El crecimiento es presentado como algo colectivo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los miembros están unidos unos a otros.
+\item
+  El cuerpo crece juntamente.
+\item
+  Cada miembro participa.
+\item
+  La edificación ocurre en amor.
+\end{itemize}
+
+\headingfive{\textbf{Los creyentes son una familia}}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 2:19}\label{efesios-219-1}
+
+\begin{verseblock}
+Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+\end{verseblock}
+
+\begin{anchorblock}{la familia de Dios}
+
+\headingfive{La iglesia es presentada como una casa.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes pertenecen a una misma familia.
+\item
+  Dios es Padre.
+\item
+  Los creyentes son hermanos.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los miembros se necesitan
+mutuamente}\label{los-miembros-se-necesitan-mutuamente}
+
+\subsubsection{1 Corintios 12:21}\label{corintios-1221}
+
+\begin{verseblock}
+El ojo no puede decir a la mano: No te necesito; ni tampoco la cabeza a los pies: No tengo necesidad de ustedes.
+\end{verseblock}
+
+\begin{anchorblock}{No te necesito}
+
+\headingfive{Ningún miembro vive independientemente.}
+
+\begin{itemize}
+\tightlist
+\item
+  El cuerpo funciona mediante la participación de todos.
+\item
+  Los miembros son diferentes.
+\item
+  Los miembros se necesitan.
+\item
+  Los miembros sirven unos a otros.
+\end{itemize}
+
+\headingfive{\textbf{Los creyentes viven la verdad unos con otros}}
+
+\end{anchorblock}
+
+\subsubsection{Romanos 12:10}\label{romanos-1210}
+
+\begin{verseblock}
+Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
+\end{verseblock}
+
+\begin{anchorblock}{unos con otros}
+
+\headingfive{La vida cristiana es presentada en comunidad.}
+
+\begin{itemize}
+\tightlist
+\item
+  El amor es vivido en relaciones reales.
+\item
+  Los creyentes se sirven mutuamente.
+\item
+  Los creyentes se honran mutuamente.
+\item
+  Los creyentes soportan cargas reales.
+\end{itemize}
+
+\headingfive{\textbf{Las generaciones viven juntas}}
+
+\end{anchorblock}
+
+\subsubsection{Tito 2:1-5}\label{tito-21-5}
+
+\begin{verseblock}
+Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
+\end{verseblock}
+
+\begin{anchorblock}{enseña lo que está de acuerdo con la sana doctrina}
+
+\headingfive{La enseñanza es acompañada por relaciones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Hombres y mujeres mayores participan en la formación de otros.
+\item
+  La vida es compartida.
+\item
+  Las generaciones conviven.
+\item
+  La verdad es vivida.
+\end{itemize}
+
+\headingfive{\textbf{La iglesia perseveraba junta}}
+
+\end{anchorblock}
+
+\subsubsection{Hechos 2:42}\label{hechos-242}
+
+\begin{verseblock}
+Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
+\end{verseblock}
+
+\begin{anchorblock}{se dedicaban continuamente}
+
+\headingfive{La vida cristiana no es presentada como una actividad individual.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes compartían una misma vida.
+\item
+  Perseveraban juntos.
+\item
+  Aprendían juntos.
+\item
+  Oraban juntos.
+\item
+  Compartían juntos.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 7 - ¿CUÁL ES LA META DEL
+CONSTRUCTOR?}\label{capuxedtulo-7---cuuxe1l-es-la-meta-del-constructor}
+
+\headingfive{Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.}
+
+\begin{quote}
+\begin{paraHone}``¿Hacia dónde se dirige esta obra?''\\
+``¿Existe una meta?''\\
+``¿Tiene Cristo un propósito para Su iglesia?''\end{paraHone}
+\end{quote}
+
+\headingfive{Las Escrituras presentan una obra que avanza hacia un \scripture{hasta}.}
+
+\headingfive{\textbf{Hasta que todos lleguemos}}
+
+\subsubsection{Efesios 4:13}\label{efesios-413}
+
+\begin{verseblock}
+hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{hasta que todos lleguemos}
+
+\headingfive{La obra tiene una meta.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo no edifica sin propósito.
+\item
+  La obra se dirige hacia algo.
+\item
+  El crecimiento tiene una dirección.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{la unidad de la fe}
+
+\headingfive{La meta incluye unidad.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra no tiene como objetivo individuos aislados.
+\item
+  La unidad forma parte de la meta.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{del conocimiento pleno del Hijo de Dios}
+
+\headingfive{Cristo permanece en el centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  La meta no es simplemente adquirir información.
+\item
+  El conocimiento tiene una Persona como centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{a la condición de un hombre maduro}
+
+\headingfive{La obra se dirige hacia la madurez.}
+
+\begin{itemize}
+\tightlist
+\item
+  La inmadurez no constituye la meta.
+\item
+  El crecimiento tiene un propósito.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{la plenitud de Cristo}
+
+\headingfive{Cristo es la medida.}
+
+\begin{itemize}
+\tightlist
+\item
+  La meta no es el hombre.
+\item
+  La medida es Cristo.
+\end{itemize}
+
+\headingfive{Hasta el fin del siglo}
+
+\end{anchorblock}
+
+\subsubsection{Mateo 28:20}\label{mateo-2820}
+
+\begin{verseblock}
+y Yo estoy con ustedes todos los días, hasta el fin del mundo.
+\end{verseblock}
+
+\begin{anchorblock}{hasta el fin del mundo}
+
+\headingfive{La presencia de Cristo acompaña Su obra.}
+
+\begin{itemize}
+\tightlist
+\item
+  La misión posee una dimensión temporal.
+\item
+  Cristo permanece con los Suyos.
+\item
+  La obra continúa hasta el fin del siglo.
+\end{itemize}
+
+\headingfive{Para presentársela a Sí mismo}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 5:25-27}\label{efesios-525-27-1}
+
+\begin{verseblock}
+Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+\end{verseblock}
+
+\begin{anchorblock}{a fin de presentársela a Sí mismo}
+
+\headingfive{Cristo tiene un propósito para Su iglesia.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia será presentada a Él.
+\item
+  Cristo ama a Su iglesia.
+\item
+  Cristo santifica a Su iglesia.
+\item
+  Cristo prepara a Su iglesia.
+\end{itemize}
+
+\headingfive{Conformados a la imagen de Su Hijo}
+
+\end{anchorblock}
+
+\subsubsection{Romanos 8:29}\label{romanos-829-1}
+
+\begin{verseblock}
+Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
+\end{verseblock}
+
+\begin{anchorblock}{conforme a la imagen de Su Hijo}
+
+\headingfive{Cristo es el modelo.}
+
+\begin{itemize}
+\tightlist
+\item
+  El propósito de Dios tiene a Su Hijo como centro.
+\item
+  Los creyentes son conformados a Su imagen.
+\item
+  Cristo es el primogénito entre muchos hermanos.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 8 - AMENAZAS A LA OBRA DEL
+CONSTRUCTOR}\label{capuxedtulo-8---amenazas-a-la-obra-del-constructor}
+
+\headingfive{Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.}
+
+\begin{quote}
+\begin{paraHone}``¿Qué amenaza esta obra?''\end{paraHone}
+\end{quote}
+
+\headingfive{Las Escrituras muestran que Cristo permanece fiel.}
+
+\headingfive{Pero también muestran que los creyentes necesitan ser advertidos.}
+
+\headingfive{ Las divisiones desvían la atención}
+
+\subsubsection{1 Corintios 1:12}\label{corintios-112}
+
+\begin{verseblock}
+Quiero decir, que cada uno de ustedes dice: Yo soy de Pablo, Yo de Apolos, Yo de Cefas y Yo de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{Yo soy de Pablo}
+
+\headingfive{Los hombres pueden ocupar el lugar que pertenece a Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  La atención deja de estar sobre el Constructor.
+\item
+  Las personas sustituyen a Cristo.
+\item
+  Las divisiones dañan el cuerpo.
+\end{itemize}
+
+\headingfive{ La sabiduría humana desplaza la sabiduría de Dios}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:18-19}\label{corintios-318-19}
+
+\begin{verseblock}
+Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
+\end{verseblock}
+
+\begin{anchorblock}{la sabiduría de este mundo}
+
+\headingfive{Los hombres pueden confiar en sus propios recursos.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra deja de depender de Dios.
+\item
+  Los métodos humanos no sustituyen la obra de Dios.
+\item
+  La gloria pertenece a Dios.
+\end{itemize}
+
+\headingfive{ La inmadurez impide el crecimiento}
+
+\end{anchorblock}
+
+\subsubsection{Efesios 4:14}\label{efesios-414}
+
+\begin{verseblock}
+para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
+\end{verseblock}
+
+\begin{anchorblock}{ya no seamos niños}
+
+\headingfive{La inmadurez no constituye la meta.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes pueden permanecer como niños.
+\item
+  La madurez es necesaria.
+\item
+  Los creyentes necesitan crecer.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Las falsas enseñanzas amenazan al
+rebaño}\label{las-falsas-enseuxf1anzas-amenazan-al-rebauxf1o}
+
+\subsubsection{Hechos 20:29-30}\label{hechos-2029-30}
+
+\begin{verseblock}
+Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
+\end{verseblock}
+
+\begin{anchorblock}{arrastrar a los discípulos tras ellos}
+
+\headingfive{Los hombres pueden buscar seguidores para sí mismos.}
+
+\begin{itemize}
+\tightlist
+\item
+  El centro deja de ser Cristo.
+\item
+  El peligro puede venir desde afuera.
+\item
+  El peligro también puede surgir desde dentro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{El pecado tolerado afecta al
+cuerpo}\label{el-pecado-tolerado-afecta-al-cuerpo}
+
+\subsubsection{1 Corintios 5:6}\label{corintios-56}
+
+\begin{verseblock}
+No es buena la jactancia de ustedes. ¿No saben que un poco de levadura fermenta toda la masa?
+\end{verseblock}
+
+\begin{anchorblock}{un poco de levadura}
+
+\headingfive{El pecado afecta a otros.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia es presentada como un cuerpo.
+\item
+  El pecado no es solamente individual.
+\item
+  La santidad importa.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{La pérdida del amor afecta el
+testimonio}\label{la-puxe9rdida-del-amor-afecta-el-testimonio}
+
+\subsubsection{Apocalipsis 2:4}\label{apocalipsis-24}
+
+\begin{verseblock}
+Pero tengo esto contra ti: que has dejado tu primer amor.
+\end{verseblock}
+
+\begin{anchorblock}{has dejado tu primer amor}
+
+\headingfive{La actividad puede continuar sin amor.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo conoce la condición de Su pueblo.
+\item
+  La ortodoxia no reemplaza el amor.
+\item
+  Cristo llama al arrepentimiento.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{El mayor peligro}\label{el-mayor-peligro}
+
+\subsubsection{1 Corintios 3:7}\label{corintios-37-1}
+
+\begin{verseblock}
+Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{Dios que da el crecimiento}
+
+\headingfive{Los siervos pueden olvidar quién es el Constructor.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra siempre pertenece a Dios.
+\item
+  Los hombres no son el centro.
+\item
+  Cristo permanece en el centro.
+\item
+  La gloria pertenece a Dios.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 9 - JESÚS FORMA A LOS QUE
+ENVIARÁ}\label{capuxedtulo-9---jesuxfas-forma-a-los-que-enviaruxe1}
+
+\headingfive{Si Cristo es el Constructor, otra pregunta surge naturalmente.}
+
+\begin{quote}
+\begin{paraHone}``¿Cómo lleva a cabo Su obra?''\end{paraHone}
+\end{quote}
+
+\headingfive{Al llegar al Evangelio de Mateo encontramos algo interesante.}
+
+\headingfive{Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.}
+
+\subsection{Jesús promete hacer}\label{jesuxfas-promete-hacer}
+
+\subsubsection{Mateo 4:19}\label{mateo-419-1}
+
+\begin{verseblock}
+Síganme, y Yo los haré pescadores de hombres.
+\end{verseblock}
+
+\begin{anchorblock}{Yo los haré}
+
+\headingfive{La obra comienza con Jesús.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús llama.
+\item
+  Jesús promete hacerlos pescadores de hombres.
+\item
+  La iniciativa pertenece a Él.
+\item
+  La formación comienza con Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Jesús forma a Sus
+discípulos}\label{jesuxfas-forma-a-sus-discuxedpulos-1}
+
+\subsubsection{Mateo 16:21}\label{mateo-1621-1}
+
+\begin{verseblock}
+Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+\end{verseblock}
+
+\begin{anchorblock}{Jesús comenzó a mostrar}
+
+\headingfive{Jesús continuó formando a Sus discípulos.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús les reveló Su camino.
+\item
+  Los preparó para Su sufrimiento, muerte y resurrección.
+\item
+  La formación continuó durante Su ministerio.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Jesús posee toda
+autoridad}\label{jesuxfas-posee-toda-autoridad}
+
+\subsubsection{Mateo 28:18}\label{mateo-2818}
+
+\begin{verseblock}
+Toda autoridad me ha sido dada en el cielo y en la tierra.
+\end{verseblock}
+
+\begin{anchorblock}{Toda autoridad}
+
+\headingfive{La misión nace de la autoridad de Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  La autoridad pertenece a Jesús.
+\item
+  La misión procede de Él.
+\item
+  Los discípulos son enviados por Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los formados son
+enviados}\label{los-formados-son-enviados-1}
+
+\subsubsection{Mateo 28:19-20}\label{mateo-2819-20-1}
+
+\begin{verseblock}
+Vayan, pues, y hagan discípulos de todas las naciones...
+\end{verseblock}
+
+\begin{anchorblock}{hagan discípulos}
+
+\headingfive{Jesús envía a aquellos que Él mismo había formado.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los discípulos participan en la obra.
+\item
+  Deben enseñar a guardar lo que Jesús mandó.
+\item
+  Jesús permanece con ellos.
+\item
+  Su presencia continúa hasta el fin del siglo.
+\end{itemize}
+
+\begin{quote}
+\begin{paraHthree}En Síntesis\\
+- Jesús prometió hacer pescadores de hombres.\\
+- Jesús mismo formó a Sus discípulos.\\
+- La autoridad pertenece al Cristo resucitado.\\
+- Los discípulos son enviados por Él.\\
+- Deben enseñar a guardar Sus mandamientos.\\
+- Jesús permanece con ellos hasta el fin del siglo.\end{paraHthree}
+\end{quote}
+
+\end{anchorblock}
+
+\section{CAPÍTULO 11 - ¿QUÉ PASÓ CON EL
+DISCIPULADO?}\label{capuxedtulo-11---quuxe9-pasuxf3-con-el-discipulado}
+
+\headingfive{Al seguir el libro de Hechos encontramos algo interesante.}
+
+\headingfive{La palabra discípulo aparece repetidamente.}
+
+\headingfive{Los discípulos se multiplican.}
+
+\headingfive{Muchos discípulos son hechos.}
+
+\headingfive{Los discípulos son fortalecidos.}
+
+\headingfive{Pero al llegar a Hechos 21:16, la palabra desaparece.}
+
+\headingfive{Y después de eso, no vuelve a aparecer en ninguna parte de las epístolas.}
+
+\headingfive{Esto no constituye una interpretación.}
+
+\headingfive{Es simplemente un hecho.}
+
+\headingfive{Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.}
+
+\headingfive{Después de todo, Jesús había dicho:}
+
+\begin{quote}
+\scripture{Vayan y hagan discípulos…}
+\end{quote}
+
+\begin{paraHone}Por eso surgen preguntas inevitables.\end{paraHone}
+
+\begin{paraHone}¿Desapareció el discipulado?\end{paraHone}
+
+\begin{paraHone}¿Cambió el lenguaje?\end{paraHone}
+
+\begin{paraHone}¿Esperábamos encontrar algo que las epístolas nunca intentan decir?\end{paraHone}
+
+\begin{paraHone}Por un momento se produce un silencio incómodo.\end{paraHone}
+
+\begin{paraHone}Porque todos esperamos encontrar algo.\end{paraHone}
+
+\begin{paraHone}Un capítulo.\end{paraHone}
+
+\begin{paraHone}Una sección.\end{paraHone}
+
+\begin{paraHone}Una explicación.\end{paraHone}
+
+\begin{paraHone}Pero la palabra desaparece.\end{paraHone}
+
+\begin{paraHone}Y por el momento, no apresuraremos las respuestas.\end{paraHone}
+
+\begin{paraHone}La desaparición de una palabra no implica necesariamente la desaparición
+de la realidad.\end{paraHone}
+
+\begin{paraHone}Tampoco debemos olvidar lo que sí sabemos.\end{paraHone}
+
+\begin{paraHone}Jesús prometió:\\
+Yo edificaré Mi iglesia.\end{paraHone}
+
+\begin{paraHone}Y también prometió:\\
+Yo estoy con ustedes todos los días, hasta el fin del siglo.\end{paraHone}
+
+\begin{paraHone}El Constructor permanece siendo el Constructor.\end{paraHone}
+
+\begin{paraHone}La obra continúa.\end{paraHone}
+
+\begin{paraHone}La iglesia todavía no ha sido presentada.\end{paraHone}
+
+\begin{paraHone}El edificio todavía no está terminado.\end{paraHone}
+
+\begin{paraHone}Por eso seguiremos escuchando.\end{paraHone}
+
+\subsection{Una observación}\label{una-observaciuxf3n}
+
+\begin{paraHtwo}La desaparición de la palabra \scripture{discípulo} después de Hechos
+21:16 no ocurre aisladamente.\end{paraHtwo}
+
+\begin{paraHtwo}Al avanzar hacia las epístolas, también desaparece gran parte del
+lenguaje característico de los Evangelios.\end{paraHtwo}
+
+\begin{paraHtwo}Ya no encontramos expresiones como:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  Sígueme.
+\item
+  Vengan en pos de Mí.
+\item
+  Los haré pescadores de hombres.
+\item
+  Toma tu cruz y sígueme.
+\item
+  Rabí.
+\item
+  Discípulo.
+\end{itemize}
+
+\begin{paraHtwo}Esto no significa necesariamente que la realidad haya desaparecido.\end{paraHtwo}
+
+\begin{paraHtwo}Pero sí significa que el lenguaje cambia.\end{paraHtwo}
+
+\begin{paraHtwo}Y esto produce otra pregunta importante.\end{paraHtwo}
+
+\begin{paraHtwo}¿Esperamos que los apóstoles continúen hablando con el mismo lenguaje
+del ministerio terrenal de Jesús?\end{paraHtwo}
+
+\begin{paraHtwo}¿O debemos permitirles hablar con su propio lenguaje?\end{paraHtwo}
+
+\begin{paraHtwo}Por ahora no responderemos.\end{paraHtwo}
+
+\begin{paraHtwo}Simplemente observamos el hecho.\end{paraHtwo}
+
+\begin{paraHtwo}No solamente desaparece la palabra discípulo.\end{paraHtwo}
+
+\begin{paraHtwo}Desaparece toda una familia de expresiones características de los
+Evangelios.\end{paraHtwo}
+
+\begin{paraHtwo}Y esto nos obliga a escuchar cuidadosamente cómo hablan ahora los
+apóstoles.\end{paraHtwo}
+
+\section{CAPÍTULO 12 - ESCUCHEMOS A LOS
+APÓSTOLES}\label{capuxedtulo-12---escuchemos-a-los-apuxf3stoles}
+
+\begin{paraHone}Al llegar a las epístolas, decidimos dejar de buscar las palabras
+discípulo y discipulado.\end{paraHone}
+
+\begin{paraHone}La pregunta ahora es más sencilla.\end{paraHone}
+
+\begin{paraHone}¿Qué ocupa la atención de los apóstoles?\end{paraHone}
+
+\begin{paraHone}¿Qué desean producir?\end{paraHone}
+
+\begin{paraHone}¿Qué están fortaleciendo?\end{paraHone}
+
+\begin{paraHone}¿Qué esperan?\end{paraHone}
+
+\begin{paraHone}Permitiremos que ellos mismos respondan.\end{paraHone}
+
+\subsection{Pablo}\label{pablo}
+
+\begin{paraHtwo}Pablo está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  el evangelio,
+\item
+  Cristo,
+\item
+  la fe,
+\item
+  la esperanza,
+\item
+  el amor,
+\item
+  la unidad,
+\item
+  la santidad,
+\item
+  la madurez,
+\item
+  la sana doctrina,
+\item
+  la perseverancia,
+\item
+  la gloria futura.
+\end{itemize}
+
+\headingfive{Hebreos}
+
+\begin{paraHtwo}El autor está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la superioridad de Cristo,
+\item
+  la fe,
+\item
+  la perseverancia,
+\item
+  acercarse a Dios,
+\item
+  reunirse,
+\item
+  correr con paciencia.
+\end{itemize}
+
+\headingfive{Santiago}
+
+\begin{paraHtwo}Santiago está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la sabiduría,
+\item
+  la fe,
+\item
+  la humildad,
+\item
+  la paciencia,
+\item
+  la oración.
+\end{itemize}
+
+\headingfive{Pedro}
+
+\begin{paraHtwo}Pedro está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la esperanza,
+\item
+  la santidad,
+\item
+  el sufrimiento,
+\item
+  los ancianos,
+\item
+  la venida del Señor.
+\end{itemize}
+
+\headingfive{Juan}
+
+\begin{paraHtwo}Juan está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la vida eterna,
+\item
+  la verdad,
+\item
+  el amor,
+\item
+  permanecer,
+\item
+  los hermanos.
+\end{itemize}
+
+\subsection{Judas}\label{judas}
+
+\headingfive{Judas}
+
+\begin{paraHtwo}Judas está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  contender por la fe,
+\item
+  permanecer,
+\item
+  guardar.
+\end{itemize}
+
+\subsection{Juan}\label{juan}
+
+\headingfive{Apocalipsis}
+
+\begin{paraHtwo}Juan está ocupado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesucristo,
+\item
+  las iglesias,
+\item
+  la perseverancia,
+\item
+  la victoria,
+\item
+  el reino venidero,
+\item
+  la nueva creación.
+\end{itemize}
+
+\begin{paraHtwo}Una observación comienza a llamar la atención.\end{paraHtwo}
+
+\begin{paraHtwo}Los apóstoles están ocupados con muchas cosas.\end{paraHtwo}
+
+\begin{paraHtwo}Pero nunca vuelven a hablar del discipulado.\end{paraHtwo}
+
+\begin{paraHtwo}Eso no demuestra nada.\end{paraHtwo}
+
+\begin{paraHtwo}Pero sí nos obliga a escuchar.\end{paraHtwo}
+
+\begin{paraHtwo}Porque quizá la pregunta no sea:\end{paraHtwo}
+
+\subsubsection{¿Dónde está el
+discipulado?}\label{duxf3nde-estuxe1-el-discipulado}
+
+\begin{verseblock}
+Sino:
+\end{verseblock}
+
+\subsubsection{¿Qué están procurando producir los
+apóstoles?}\label{quuxe9-estuxe1n-procurando-producir-los-apuxf3stoles}
+
+\begin{verseblock}
+Y quizá, al seguir escuchándolos, la respuesta aparezca por sí sola.
+\end{verseblock}
+
+\section{Capítulo 13 ¿EN QUÉ ESTÁ OCUPADO
+CRISTO?}\label{capuxedtulo-13-en-quuxe9-estuxe1-ocupado-cristo}
+
+\begin{paraHone}Hasta aquí hemos escuchado a los apóstoles.\end{paraHone}
+
+\begin{paraHone}Y algo comienza a llamar la atención.\end{paraHone}
+
+\begin{paraHone}No hablan como si Cristo hubiera dejado simplemente instrucciones y se
+hubiera retirado.\end{paraHone}
+
+\begin{paraHone}Hablan como si continuara ocupado.\end{paraHone}
+
+\begin{paraHone}Permitiremos que primero Pablo y luego el Señor Jesús mismo hablen.\end{paraHone}
+
+\subsection{Efesios 5}\label{efesios-5}
+
+\headingfive{¿Qué está haciendo Cristo con Su iglesia?}
+
+\headingsix{Pablo presenta a Cristo ocupado con Su iglesia.}
+
+\begin{paraHtwo}Cristo:\\
+- la amó,\\
+- se entregó por ella,\\
+- la santifica,\\
+- la limpia,\\
+- la sustenta,\\
+- la cuida,\end{paraHtwo}
+
+\headingsix{y finalmente la presentará a Sí mismo gloriosa.}
+
+\headingsix{Surgen algunas preguntas.}
+
+\begin{itemize}
+\tightlist
+\item
+  ¿Parece Cristo desentendido de Su iglesia?
+\item
+  ¿Habla Pablo como si la obra estuviera terminada?
+\item
+  ¿Es la presentación algo futuro?
+\end{itemize}
+
+\subsection{Apocalipsis 2--3}\label{apocalipsis-23}
+
+\headingfive{¿Qué está haciendo Cristo entre las iglesias?}
+
+\begin{paraHtwo}Ahora es el Señor Jesús mismo quien habla.\\
+Y nuevamente encontramos a Cristo ocupado.\\
+Él:\\
+- conoce,\\
+- habla,\\
+- exhorta,\\
+- reprende,\\
+- disciplina,\\
+- promete.\\
+Pero algo llama especialmente la atención.\\
+Su lenguaje continúa siendo:\\
+Yo haré.\\
+- Yo le daré\ldots{}\\
+- Yo confesaré\ldots{}\\
+- Yo haré\ldots{}\\
+- Yo concederé\ldots{}\\
+Surgen nuevamente algunas preguntas.\\
+- ¿Parece Jesús ausente?\\
+- ¿Parece retirado?\\
+- ¿Parece haber abandonado Su obra?\end{paraHtwo}
+
+\subsection{Otros testigos}\label{otros-testigos}
+
+\begin{paraHtwo}Sin desarrollar todavía estos pasajes, es interesante observar que otros
+escritores hablan de la misma manera.\end{paraHtwo}
+
+\begin{paraHtwo}Pablo:\end{paraHtwo}
+
+\begin{paraHtwo}El que comenzó en ustedes la buena obra la perfeccionará.\end{paraHtwo}
+
+\begin{paraHtwo}Pedro:\end{paraHtwo}
+
+\begin{paraHtwo}Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.\end{paraHtwo}
+
+\begin{paraHtwo}Hebreos:\end{paraHtwo}
+
+\begin{paraHtwo}Vive siempre para interceder por ellos.\end{paraHtwo}
+
+\begin{paraHtwo}Judas:\end{paraHtwo}
+
+\begin{paraHtwo}Es poderoso para guardarlos sin caída y para presentarlos sin mancha.\end{paraHtwo}
+
+\begin{paraHtwo}Juan:\end{paraHtwo}
+
+\begin{paraHtwo}Cuando Él se manifieste, seremos semejantes a Él.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-1}
+
+\begin{paraHtwo}Después de escuchar a Pablo y luego al Señor Jesús mismo, surge una
+pregunta natural.\end{paraHtwo}
+
+\subsubsection{¿Ha dejado el Constructor de
+construir?}\label{ha-dejado-el-constructor-de-construir}
+
+\begin{verseblock}
+¿Es esta la misma obra de la que Jesús habló cuando dijo: Yo edificaré Mi iglesia? Por ahora no responderemos. Simplemente seguiremos escuchando.
+\end{verseblock}
+
+\section{Capítulo 14 - PARTICIPANDO CON
+CONFIANZA}\label{capuxedtulo-14---participando-con-confianza}
+
+\begin{paraHone}Después de escuchar a los apóstoles, surge una pregunta natural.\\
+\textgreater{} ¿Cómo participan?\\
+\textgreater{} ¿Cómo trabajan?\\
+\textgreater{} ¿Cómo soportan?\\
+\textgreater{} ¿Cómo perseveran?\end{paraHone}
+
+\begin{paraHone}La respuesta que parece surgir repetidamente no es:\\
+- por ansiedad,\\
+- por confianza en sí mismos,\\
+- por seguridad basada en el desempeño.\end{paraHone}
+
+\begin{paraHone}Los apóstoles participan dentro de una profunda confianza en Cristo.\end{paraHone}
+
+\subsection{No confiando en nosotros
+mismos}\label{no-confiando-en-nosotros-mismos}
+
+\subsubsection{2 Corintios 1:9}\label{corintios-19}
+
+\begin{verseblock}
+Pablo explica que llegaron a tener sentencia de muerte en sí mismos.
+\end{verseblock}
+
+\begin{paraHthree}Pero aquello tuvo un propósito.\\
+Para que no confiáramos en nosotros mismos, sino en Dios que resucita a
+los muertos.\end{paraHthree}
+
+\begin{paraHthree}La presión no produjo más confianza en sí mismos.\\
+Produjo una transferencia de confianza.\end{paraHthree}
+
+\subsubsection{Filipenses 3:3}\label{filipenses-33}
+
+\begin{verseblock}
+Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu de Dios y nos gloriamos en Cristo Jesús, no poniendo la confianza en la carne,
+\end{verseblock}
+
+\begin{paraHthree}Los creyentes son aquellos que:\end{paraHthree}
+
+\begin{anchorblock}{se glorían en Cristo Jesús,}
+
+\end{anchorblock}
+
+\begin{anchorblock}{no ponen confianza en la carne.}
+
+\begin{paraHthree}La confianza apostólica no está repartida entre Cristo y la carne.\\
+La confianza ha sido trasladada.\end{paraHthree}
+
+\end{anchorblock}
+
+\subsection{Confiando en Aquel que
+comenzó}\label{confiando-en-aquel-que-comenzuxf3}
+
+\subsubsection{Filipenses 1:6}\label{filipenses-16}
+
+\begin{verseblock}
+Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{Estoy convencido…}
+
+\begin{paraHthree}Pablo está convencido.\\
+Pero su confianza no descansa en los filipenses.\\
+Descansa en Aquel que comenzó la buena obra y la perfeccionará hasta el
+día de Cristo.\end{paraHthree}
+
+\end{anchorblock}
+
+\subsubsection{1 Tesalonicenses 5:23--24}\label{tesalonicenses-52324}
+
+\begin{verseblock}
+Y que el mismo Dios de paz los santifique por completo; y que todo su ser, espíritu, alma y cuerpo, sea preservado irreprensible para la venida de nuestro Señor Jesucristo. Fiel es Aquel que los llama, el cual también lo hará.
+\end{verseblock}
+
+\begin{paraHthree}Pablo ora por ellos y luego concluye:\\
+Fiel es el que los llama, el cual también lo hará.\end{paraHthree}
+
+\begin{paraHthree}La seguridad del apóstol no descansa en la capacidad humana.\\
+Descansa en la fidelidad de Dios.\end{paraHthree}
+
+\subsection{Participación real}\label{participaciuxf3n-real}
+
+\begin{paraHtwo}Los apóstoles nunca usan la fidelidad de Cristo para promover pasividad.\end{paraHtwo}
+
+\subsubsection{Filipenses 2:12--13}\label{filipenses-21213}
+
+\begin{verseblock}
+Los creyentes trabajan. Porque Dios obra en ellos. No trabajan para que Dios obre. Dios obra. Por eso trabajan.
+\end{verseblock}
+
+\subsubsection{Colosenses 1:28--29}\label{colosenses-12829}
+
+\begin{verseblock}
+Pablo trabaja y lucha. Pero según el poder de Cristo que actúa poderosamente en él. La participación es real. La fuente no es Pablo.
+\end{verseblock}
+
+\subsubsection{1 Corintios 15:10}\label{corintios-1510}
+
+\begin{verseblock}
+Pablo trabajó más que todos. Pero añade: Aunque no yo, sino la gracia de Dios conmigo. El trabajo es real. La gracia también.
+\end{verseblock}
+
+\subsubsection{1 Corintios 3:6--7}\label{corintios-367}
+
+\begin{verseblock}
+Pablo planta. Apolos riega. Pero Dios da el crecimiento. Los obreros participan. Pero el crecimiento pertenece a Dios.
+\end{verseblock}
+
+\subsection{Por eso pueden
+regocijarse}\label{por-eso-pueden-regocijarse}
+
+\subsubsection{Romanos 5:3--5}\label{romanos-535}
+
+\begin{verseblock}
+Las tribulaciones producen perseverancia, carácter probado y esperanza. Y la esperanza no avergüenza.
+\end{verseblock}
+
+\subsubsection{Filipenses 4:4}\label{filipenses-44}
+
+\begin{verseblock}
+Regocíjense en el Señor siempre. No en las circunstancias. No en el desempeño. En el Señor.
+\end{verseblock}
+
+\subsubsection{2 Corintios 6:10}\label{corintios-610}
+
+\begin{verseblock}
+Entristecidos, mas siempre gozosos. Su gozo no depende de las circunstancias. Su confianza descansa en otro lugar.
+\end{verseblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-1}
+
+\begin{paraHtwo}Los apóstoles trabajan intensamente.\end{paraHtwo}
+
+\begin{paraHtwo}Exhortan.\end{paraHtwo}
+
+\begin{paraHtwo}Corrigen.\end{paraHtwo}
+
+\begin{paraHtwo}Advierten.\end{paraHtwo}
+
+\begin{paraHtwo}Sufren.\end{paraHtwo}
+
+\begin{paraHtwo}Pero no parecen cargar el peso de ser los constructores.\end{paraHtwo}
+
+\begin{paraHtwo}Participan.\end{paraHtwo}
+
+\begin{paraHtwo}El Constructor sigue siendo Cristo.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-2}
+
+\subsubsection{¿Será esta la libertad que surge cuando uno deja de
+intentar ser el Constructor y aprende a participar con
+Él?}\label{seruxe1-esta-la-libertad-que-surge-cuando-uno-deja-de-intentar-ser-el-constructor-y-aprende-a-participar-con-uxe9l}
+
+\begin{verseblock}
+Por ahora seguiremos escuchando.
+\end{verseblock}
+
+\section{CAPÍTULO 15 - ENSEÑANDO PARA UBICAR A LA IGLESIA EN
+CRISTO}\label{capuxedtulo-15---enseuxf1ando-para-ubicar-a-la-iglesia-en-cristo}
+
+\begin{paraHone}Después de escuchar a los apóstoles, una conclusión inesperada comienza
+a aparecer.\end{paraHone}
+
+\begin{paraHone}Podría pensarse:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}Si Cristo es el Constructor, entonces la enseñanza es menos importante.\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Pero los apóstoles parecen pensar exactamente lo contrario.\end{paraHone}
+
+\begin{paraHone}Ellos enseñan constantemente.\end{paraHone}
+
+\begin{paraHone}Y trabajan intensamente.\end{paraHone}
+
+\begin{paraHone}Pero no parecen enseñar para reemplazar a Cristo.\end{paraHone}
+
+\begin{paraHone}Parecen enseñar para ayudar a la iglesia a vivir dentro de Su obra.\end{paraHone}
+
+\subsection{Una ironía}\label{una-ironuxeda}
+
+\begin{paraHtwo}Mientras más claro vemos que Cristo es el Constructor, más importante
+parece volverse la enseñanza.\end{paraHtwo}
+
+\begin{paraHtwo}Pero no cualquier enseñanza.\end{paraHtwo}
+
+\begin{paraHtwo}No enseñanza para producir dependencia de hombres.\end{paraHtwo}
+
+\begin{paraHtwo}No enseñanza para crear actividades religiosas.\end{paraHtwo}
+
+\begin{paraHtwo}No enseñanza para controlar.\end{paraHtwo}
+
+\begin{paraHtwo}Sino enseñanza para ubicar a la iglesia en Cristo.\end{paraHtwo}
+
+\subsection{Pablo}\label{pablo-1}
+
+\begin{paraHtwo}Pablo enseña.\end{paraHtwo}
+
+\begin{paraHtwo}Amonesta.\end{paraHtwo}
+
+\begin{paraHtwo}Exhorta.\end{paraHtwo}
+
+\begin{paraHtwo}Recuerda.\end{paraHtwo}
+
+\begin{paraHtwo}Proclama.\end{paraHtwo}
+
+\begin{paraHtwo}Trabaja.\end{paraHtwo}
+
+\begin{paraHtwo}Lucha.\end{paraHtwo}
+
+\begin{paraHtwo}Pero explica por qué:\end{paraHtwo}
+
+\begin{paraHtwo}a fin de presentar a todo hombre perfecto en Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}No busca simplemente producir conocimiento.\end{paraHtwo}
+
+\begin{paraHtwo}Busca madurez.\end{paraHtwo}
+
+\subsubsection{Efesios 4}\label{efesios-4}
+
+\begin{verseblock}
+Cristo dio: - apóstoles, - profetas, - evangelistas, - pastores, - maestros. ¿Para qué? Hasta que todos lleguemos. Hasta que todos maduremos. Hasta que ya no seamos niños. Hasta que crezcamos en Él. La enseñanza no reemplaza a Cristo. Cristo mismo dio maestros.
+\end{verseblock}
+
+\subsection{Pedro}\label{pedro}
+
+\begin{paraHtwo}Pedro sabe que está por partir.\end{paraHtwo}
+
+\begin{paraHtwo}Por eso escribe.\end{paraHtwo}
+
+\begin{paraHtwo}Y repetidamente dice:\end{paraHtwo}
+
+\begin{paraHtwo}quiero recordarles.\end{paraHtwo}
+
+\begin{paraHtwo}Su interés no es preservar a Pedro.\end{paraHtwo}
+
+\begin{paraHtwo}Su interés es que permanezcan en la verdad.\end{paraHtwo}
+
+\subsection{Juan}\label{juan-1}
+
+\begin{paraHtwo}Juan enseña.\end{paraHtwo}
+
+\begin{paraHtwo}Pero constantemente dirige la atención hacia:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  conocer,
+\item
+  permanecer,
+\item
+  amar,
+\item
+  caminar en la luz.
+\end{itemize}
+
+\begin{paraHtwo}No busca producir dependencia de sí mismo.\end{paraHtwo}
+
+\begin{paraHtwo}Busca que tengan comunión con el Padre y con Su Hijo.\end{paraHtwo}
+
+\subsection{Hebreos}\label{hebreos}
+
+\begin{paraHtwo}El escritor enseña.\end{paraHtwo}
+
+\begin{paraHtwo}Advierte.\end{paraHtwo}
+
+\begin{paraHtwo}Exhorta.\end{paraHtwo}
+
+\begin{paraHtwo}Explica.\end{paraHtwo}
+
+\begin{paraHtwo}Pero continuamente lleva a los creyentes hacia:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  acercarse,
+\item
+  retener la esperanza,
+\item
+  considerar a Jesús,
+\item
+  fijar los ojos en Él.
+\end{itemize}
+
+\begin{paraHtwo}La enseñanza no ocupa el centro.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo ocupa el centro.\end{paraHtwo}
+
+\subsection{Entonces, ¿para qué enseñan los
+apóstoles?}\label{entonces-para-quuxe9-enseuxf1an-los-apuxf3stoles}
+
+\begin{paraHtwo}No simplemente para informar.\end{paraHtwo}
+
+\begin{paraHtwo}Sino para ubicar.\end{paraHtwo}
+
+\begin{paraHtwo}Para ayudar a las iglesias a vivir:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  en Cristo,
+\item
+  bajo Su señorío,
+\item
+  por Su Espíritu,
+\item
+  en Su cuerpo,
+\item
+  afirmadas en Su palabra,
+\item
+  caminando en Su amor,
+\item
+  creciendo hacia la madurez,
+\item
+  hasta Su venida.
+\end{itemize}
+
+\subsection{Una observación}\label{una-observaciuxf3n-2}
+
+\begin{paraHtwo}Los apóstoles no parecen simplemente enseñar actividades.\end{paraHtwo}
+
+\begin{paraHtwo}No dicen:\end{paraHtwo}
+
+\begin{paraHtwo}Hagan más cosas.\end{paraHtwo}
+
+\begin{paraHtwo}Más bien parecen decir:\end{paraHtwo}
+
+\begin{paraHtwo}Vivan aquí.\end{paraHtwo}
+
+\begin{paraHtwo}Permanezcan aquí.\end{paraHtwo}
+
+\begin{paraHtwo}Crezcan aquí.\end{paraHtwo}
+
+\begin{paraHtwo}Caminen aquí.\end{paraHtwo}
+
+\begin{paraHtwo}No se aparten de aquí.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque no están simplemente enseñando a las iglesias qué hacer.\end{paraHtwo}
+
+\begin{paraHtwo}Están tratando de ubicar a las iglesias dentro de la obra continua de
+Cristo.\end{paraHtwo}
+
+\subsection{Otra ironía}\label{otra-ironuxeda}
+
+\begin{paraHtwo}La enseñanza se vuelve más importante, no menos.\end{paraHtwo}
+
+\begin{paraHtwo}Pero su propósito cambia.\end{paraHtwo}
+
+\begin{paraHtwo}Ya no es:\end{paraHtwo}
+
+\headingfive{Aprendan para construir.}
+
+\begin{paraHtwo}Sino:\end{paraHtwo}
+
+\headingfive{Aprendan para participar.}
+
+\headingfive{Aprendan para permanecer.}
+
+\headingfive{Aprendan para conocer.}
+
+\headingfive{Aprendan para crecer.}
+\headingfive{Aprendan para vivir dentro de lo que Cristo está haciendo.}
+
+\subsection{Una pregunta}\label{una-pregunta-3}
+
+\headingfive{¿Será que gran parte de la enseñanza apostólica no busca simplemente transmitir información, sino ayudar a las iglesias a permanecer ubicadas dentro de la realidad de Cristo?}
+
+\section{CAPÍTULO 16 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS
+APÓSTOLES?}\label{capuxedtulo-16---quuxe9-estuxe1n-tratando-de-encargar-los-apuxf3stoles}
+
+\begin{paraHone}Después de escuchar a los apóstoles, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Qué es lo que desean preservar?\end{paraHone}
+
+\begin{paraHone}¿Qué esperan que permanezca después de ellos?\end{paraHone}
+
+\begin{paraHone}¿Qué están tratando de entregar a las generaciones futuras?\end{paraHone}
+
+\begin{paraHone}La pregunta es importante.\end{paraHone}
+
+\begin{paraHone}Porque los apóstoles saben que partirán.\end{paraHone}
+
+\begin{paraHone}Y, sin embargo, no hablan como hombres desesperados.\end{paraHone}
+
+\begin{paraHone}Hablan como hombres que están encargando algo.\end{paraHone}
+
+\begin{paraHone}Pero, ¿qué?\end{paraHone}
+
+\subsection{Jesús comienza a mostrar}\label{jesuxfas-comienza-a-mostrar}
+
+\subsubsection{Mateo 16:21}\label{mateo-1621-2}
+
+\begin{verseblock}
+Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+\end{verseblock}
+
+\begin{anchorblock}{comenzó a mostrar}
+
+\headingfive{Jesús dirige la atención hacia Su muerte y resurrección.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús no comienza hablando de métodos.
+\item
+  No comienza hablando de estructuras.
+\item
+  No comienza hablando de organizaciones.
+\item
+  Comienza mostrando lo que debía ocurrir.
+\end{itemize}
+
+\headingfive{La cruz ocupa un lugar central.}
+
+\begin{itemize}
+\tightlist
+\item
+  Su sufrimiento era necesario.
+\item
+  Su muerte era necesaria.
+\item
+  Su resurrección era necesaria.
+\item
+  La atención se dirige hacia la obra redentora de Dios.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Pablo entrega lo que
+recibió}\label{pablo-entrega-lo-que-recibiuxf3}
+
+\subsubsection{1 Corintios 15:1--3}\label{corintios-1513}
+
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras
+\end{verseblock}
+
+\begin{anchorblock}{les entregué}
+
+\headingfive{Pablo se presenta como alguien que transmite algo recibido.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo recibió.
+\item
+  Pablo entregó.
+\item
+  Otros recibieron.
+\end{itemize}
+
+\headingfive{Existe una dimensión generacional.}
+
+\begin{itemize}
+\tightlist
+\item
+  Lo recibido es transmitido.
+\item
+  Lo entregado permanece siendo lo primero.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{en primer lugar}
+
+\headingfive{Pablo establece prioridades.}
+
+\begin{itemize}
+\tightlist
+\item
+  No todo posee la misma importancia.
+\item
+  El evangelio ocupa el primer lugar.
+\item
+  La cruz y la resurrección permanecen en el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los creyentes permanecen en el
+evangelio}\label{los-creyentes-permanecen-en-el-evangelio}
+
+\subsubsection{1 Corintios 15:1}\label{corintios-151}
+
+\begin{verseblock}
+Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.
+\end{verseblock}
+
+\begin{anchorblock}{están firmes}
+
+\headingfive{El evangelio no aparece solamente como el comienzo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes lo recibieron.
+\item
+  Los creyentes permanecen en él.
+\item
+  Los creyentes están firmes en él.
+\end{itemize}
+
+\headingfive{El evangelio continúa ocupando el centro.}
+
+\end{anchorblock}
+
+\subsection{Pablo desea predicar el evangelio a
+creyentes}\label{pablo-desea-predicar-el-evangelio-a-creyentes}
+
+\subsubsection{Romanos 1:15--16}\label{romanos-11516}
+
+\begin{verseblock}
+Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación.
+\end{verseblock}
+
+\begin{anchorblock}{también a ustedes}
+
+\headingfive{Pablo escribe a creyentes.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia ya existía.
+\item
+  Los creyentes ya habían creído.
+\item
+  Sin embargo, Pablo desea anunciarles el evangelio.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{es poder de Dios}
+
+\headingfive{El evangelio permanece asociado al poder de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  El poder pertenece a Dios.
+\item
+  El evangelio permanece central.
+\item
+  El evangelio no es reemplazado.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Pablo protege el centro}\label{pablo-protege-el-centro}
+
+\subsubsection{Gálatas 1:8}\label{guxe1latas-18}
+
+\begin{verseblock}
+Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
+\end{verseblock}
+
+\begin{anchorblock}{otro evangelio}
+
+\headingfive{El evangelio debe ser preservado.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo no permite mover el centro.
+\item
+  La fidelidad al evangelio es importante.
+\item
+  La iglesia debe permanecer en él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Timoteo debe encargar a
+otros}\label{timoteo-debe-encargar-a-otros}
+
+\subsubsection{2 Timoteo 2:2}\label{timoteo-22-1}
+
+\begin{verseblock}
+Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+\end{verseblock}
+
+\begin{anchorblock}{encarga a hombres fieles}
+
+\headingfive{La verdad recibida debía continuar.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo enseñó.
+\item
+  Timoteo recibió.
+\item
+  Timoteo debía encargar.
+\item
+  Otros enseñarían también.
+\end{itemize}
+
+\headingfive{La obra posee una dimensión generacional.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-3}
+
+\begin{paraHtwo}Los apóstoles ciertamente enseñan muchas cosas.\end{paraHtwo}
+
+\begin{paraHtwo}Hablan acerca de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la iglesia,
+\item
+  el amor,
+\item
+  la esperanza,
+\item
+  la santidad,
+\item
+  la perseverancia,
+\item
+  los ancianos,
+\item
+  las buenas obras.
+\end{itemize}
+
+\begin{paraHtwo}Pero repetidamente regresan al mismo centro.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo murió por nuestros pecados.\end{paraHtwo}
+
+\begin{paraHtwo}Fue sepultado.\end{paraHtwo}
+
+\begin{paraHtwo}Resucitó al tercer día conforme a las Escrituras.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-4}
+
+\headingfive{¿Será que lo que los apóstoles están tratando de encargar no es simplemente información, ni tradiciones, ni métodos, sino el evangelio mismo, para que cada generación continúe viviendo dentro de la obra del Cristo crucificado y resucitado?}
+
+\section{CAPÍTULO 17 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN
+EXTRAORDINARIO PARA
+PARTICIPAR?}\label{capuxedtulo-17---por-quuxe9-la-iglesia-es-un-lugar-tan-extraordinario-para-participar}
+
+\begin{paraHone}Si el evangelio es lo que debe ser encargado, surge otra pregunta.\end{paraHone}
+
+\begin{paraHone}¿Por qué Cristo escogió la iglesia como el ambiente normal para esta
+participación?\end{paraHone}
+
+\begin{paraHone}¿Por qué no simplemente individuos aislados?\end{paraHone}
+
+\begin{paraHone}¿Por qué un cuerpo?\end{paraHone}
+
+\begin{paraHone}¿Por qué una familia?\end{paraHone}
+
+\begin{paraHone}¿Por qué tantos unos a otros?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{Un cuerpo}\label{un-cuerpo}
+
+\subsubsection{1 Corintios 12:21}\label{corintios-1221-1}
+
+\begin{verseblock}
+El ojo no puede decir a la mano: “No te necesito”.
+\end{verseblock}
+
+\begin{anchorblock}{No te necesito}
+
+\headingfive{Los creyentes no son presentados como independientes.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los miembros son diferentes.
+\item
+  Los miembros se necesitan.
+\item
+  Ningún miembro se basta a sí mismo.
+\end{itemize}
+
+\headingfive{Cristo diseñó un cuerpo.}
+
+\begin{itemize}
+\tightlist
+\item
+  La diversidad no elimina la unidad.
+\item
+  La unidad no elimina la diversidad.
+\item
+  Los miembros participan juntos.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una familia}\label{una-familia}
+
+\subsubsection{Efesios 2:19}\label{efesios-219-2}
+
+\begin{verseblock}
+Son de la familia de Dios.
+\end{verseblock}
+
+\begin{anchorblock}{la familia de Dios}
+
+\headingfive{Los creyentes pertenecen a una misma casa.}
+
+\begin{itemize}
+\tightlist
+\item
+  Dios es Padre.
+\item
+  Los creyentes son hermanos.
+\item
+  La vida cristiana es compartida.
+\end{itemize}
+
+\headingfive{La obra no ocurre en aislamiento.}
+
+\end{anchorblock}
+
+\subsection{La verdad es vivida unos con
+otros}\label{la-verdad-es-vivida-unos-con-otros}
+
+\subsubsection{Romanos 12:10}\label{romanos-1210-1}
+
+\begin{verseblock}
+Sean afectuosos unos con otros con amor fraternal.
+\end{verseblock}
+
+\begin{anchorblock}{unos con otros}
+
+\headingfive{El amor requiere personas reales.}
+
+\begin{itemize}
+\tightlist
+\item
+  El amor es vivido.
+\item
+  El servicio es vivido.
+\item
+  El perdón es vivido.
+\item
+  La paciencia es vivida.
+\end{itemize}
+
+\headingfive{La participación ocurre en relaciones.}
+
+\end{anchorblock}
+
+\subsection{Cristo distribuyó dones}\label{cristo-distribuyuxf3-dones}
+
+\subsubsection{Efesios 4:11--12}\label{efesios-41112}
+
+\begin{verseblock}
+Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
+\end{verseblock}
+
+\begin{anchorblock}{Él dio}
+
+\headingfive{Los dones proceden de Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo distribuye.
+\item
+  Cristo equipa.
+\item
+  Cristo edifica Su cuerpo.
+\end{itemize}
+
+\headingfive{Ningún creyente posee todo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los dones son compartidos.
+\item
+  Los miembros sirven unos a otros.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Considerarnos unos a
+otros}\label{considerarnos-unos-a-otros}
+
+\subsubsection{Hebreos 10:24--25}\label{hebreos-102425}
+
+\begin{verseblock}
+Considerémonos unos a otros para estimularnos al amor y a las buenas obras
+\end{verseblock}
+
+\begin{anchorblock}{considerémonos unos a otros}
+
+\headingfive{La perseverancia posee una dimensión compartida.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes se animan mutuamente.
+\item
+  Los creyentes se estimulan mutuamente.
+\item
+  Los creyentes perseveran juntos.
+\end{itemize}
+
+\headingfive{La vida cristiana no es presentada como una experiencia aislada.}
+
+\end{anchorblock}
+
+\subsection{Generaciones viviendo
+juntas}\label{generaciones-viviendo-juntas}
+
+\subsubsection{Tito 2:1--5}\label{tito-215}
+
+\begin{verseblock}
+En cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
+\end{verseblock}
+
+\begin{anchorblock}{enseña}
+
+\headingfive{La verdad es acompañada por relaciones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los ancianos participan.
+\item
+  Las ancianas participan.
+\item
+  Los jóvenes participan.
+\item
+  Las generaciones viven juntas.
+\end{itemize}
+
+\headingfive{La verdad no es solamente transmitida.}
+
+\begin{paraHthree}Es vivida.\end{paraHthree}
+
+\end{anchorblock}
+
+\subsection{El evangelio crea una
+comunión}\label{el-evangelio-crea-una-comuniuxf3n}
+
+\subsubsection{Filemón 6}\label{filemuxf3n-6}
+
+\begin{verseblock}
+Ruego que la comunión de tu fe llegue a ser eficaz por el conocimiento de todo lo bueno que hay en ustedes mediante Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{participación}
+
+\headingfive{La fe posee una dimensión compartida.}
+
+\begin{itemize}
+\tightlist
+\item
+  La comunión pertenece al evangelio.
+\item
+  Los creyentes participan juntos.
+\item
+  Cristo es compartido entre ellos.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-4}
+
+\begin{paraHtwo}Los apóstoles no presentan la iglesia simplemente como un lugar para
+asistir.\end{paraHtwo}
+
+\begin{paraHtwo}La presentan como:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  un cuerpo,
+\item
+  una familia,
+\item
+  una comunión,
+\item
+  una casa,
+\item
+  un pueblo,
+\item
+  una participación.
+\end{itemize}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque muchas de las cosas que Cristo valora solamente pueden ser
+vividas con otros.\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  Amar.
+\item
+  Servir.
+\item
+  Soportar.
+\item
+  Perdonar.
+\item
+  Animar.
+\item
+  Llevar cargas.
+\item
+  Enseñar.
+\item
+  Orar.
+\item
+  Compartir.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-5}
+
+\headingfive{¿Será que Cristo diseñó la iglesia como el ambiente normal donde Su vida puede ser compartida y donde el evangelio puede ser encargado de generación en generación?}
+
+\section{CAPÍTULO 18 - ¿CÓMO PERMANECE EL EVANGELIO EN EL
+CENTRO?}\label{capuxedtulo-18---cuxf3mo-permanece-el-evangelio-en-el-centro}
+
+\begin{paraHone}Si el evangelio es lo que debe ser encargado, surge una pregunta
+inevitable.\end{paraHone}
+
+\begin{paraHone}¿Cómo permanece en el centro?\end{paraHone}
+
+\begin{paraHone}Porque el peligro no consiste solamente en abandonar el evangelio.\end{paraHone}
+
+\begin{paraHone}El peligro consiste en desplazarlo.\end{paraHone}
+
+\begin{paraHone}Las iglesias pueden conservar:\end{paraHone}
+
+\begin{itemize}
+\tightlist
+\item
+  reuniones,
+\item
+  enseñanza,
+\item
+  líderes,
+\item
+  programas,
+\item
+  actividades,
+\end{itemize}
+
+\begin{paraHone}y sin embargo dejar de vivir dentro de la realidad del Cristo
+crucificado y resucitado.\end{paraHone}
+
+\begin{paraHone}Por eso los apóstoles constantemente vuelven al centro.\end{paraHone}
+
+\subsection{Pablo predica el evangelio a
+creyentes}\label{pablo-predica-el-evangelio-a-creyentes}
+
+\subsubsection{Romanos 1:15--16}\label{romanos-11516-1}
+
+\begin{verseblock}
+Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.
+\end{verseblock}
+
+\begin{anchorblock}{también a ustedes}
+
+\headingfive{Pablo desea anunciar el evangelio a una iglesia.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes ya habían creído.
+\item
+  La iglesia ya existía.
+\item
+  Sin embargo, Pablo desea predicarles el evangelio.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{es poder de Dios}
+
+\headingfive{El evangelio permanece asociado al poder de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  No aparece como algo del pasado.
+\item
+  El evangelio permanece central.
+\item
+  El poder pertenece a Dios.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los creyentes permanecen firmes en
+él}\label{los-creyentes-permanecen-firmes-en-uxe9l}
+
+\subsubsection{1 Corintios 15:1}\label{corintios-151-1}
+
+\begin{verseblock}
+El evangelio… el cual también recibieron, en el cual también están firmes.
+\end{verseblock}
+
+\begin{anchorblock}{están firmes}
+
+\headingfive{El evangelio no aparece solamente como una puerta de entrada.}
+
+\begin{itemize}
+\tightlist
+\item
+  Fue recibido.
+\item
+  Continúa siendo el lugar donde permanecen.
+\item
+  Los creyentes están firmes en él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Pablo vuelve continuamente a Cristo
+crucificado}\label{pablo-vuelve-continuamente-a-cristo-crucificado}
+
+\subsubsection{1 Corintios 2:2}\label{corintios-22}
+
+\begin{verseblock}
+Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
+\end{verseblock}
+
+\begin{anchorblock}{Jesucristo, y Este crucificado}
+
+\headingfive{Pablo no se mueve del centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  No abandona a Cristo crucificado.
+\item
+  No sustituye la sabiduría de Dios.
+\item
+  No coloca otra cosa en el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Pablo protege el centro}\label{pablo-protege-el-centro-1}
+
+\subsubsection{Gálatas 1:6--8}\label{guxe1latas-168}
+
+\begin{verseblock}
+Se están apartando… hacia un evangelio diferente.
+\end{verseblock}
+
+\begin{anchorblock}{un evangelio diferente}
+
+\headingfive{El peligro consiste en mover el centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia todavía existe.
+\item
+  Las personas siguen siendo religiosas.
+\item
+  Pero el evangelio puede ser distorsionado.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{El amor puede enfriarse}\label{el-amor-puede-enfriarse}
+
+\subsubsection{Apocalipsis 2:4}\label{apocalipsis-24-1}
+
+\begin{verseblock}
+Has dejado tu primer amor.
+\end{verseblock}
+
+\begin{anchorblock}{has dejado}
+
+\headingfive{La actividad puede permanecer.}
+
+\begin{itemize}
+\tightlist
+\item
+  El trabajo permanece.
+\item
+  La perseverancia permanece.
+\item
+  La doctrina permanece.
+\end{itemize}
+
+\headingfive{Pero algo puede ser perdido.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo llama al arrepentimiento.
+\item
+  El centro importa.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los creyentes deben considerar continuamente a
+Jesús}\label{los-creyentes-deben-considerar-continuamente-a-jesuxfas}
+
+\subsubsection{Hebreos 12:2--3}\label{hebreos-1223}
+
+\begin{verseblock}
+puestos los ojos en Jesús, el autor y consumador de la fe, quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios. Consideren, pues, a Aquel que soportó tal hostilidad de los pecadores contra Él mismo, para que no se cansen ni se desanimen en su corazón.
+\end{verseblock}
+
+\begin{anchorblock}{puestos los ojos en Jesús}
+
+\headingfive{La atención debe ser continuamente dirigida hacia Él.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús permanece en el centro.
+\item
+  Los creyentes consideran a Cristo.
+\item
+  La perseverancia ocurre mirando a Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-5}
+
+\begin{paraHtwo}Los apóstoles no parecen asumir que el centro se conservará
+automáticamente.\end{paraHtwo}
+
+\begin{paraHtwo}Constantemente:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  recuerdan,
+\item
+  exhortan,
+\item
+  enseñan,
+\item
+  anuncian,
+\item
+  corrigen,
+\item
+  advierten.
+\end{itemize}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No porque el evangelio sea insuficiente.\end{paraHtwo}
+
+\begin{paraHtwo}Sino porque el corazón humano es propenso a mover el centro.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n}
+
+\begin{paraHtwo}El evangelio no parece ser simplemente el comienzo de la vida cristiana.\end{paraHtwo}
+
+\begin{paraHtwo}Parece ser el ambiente en el que la iglesia vive.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque fuera del evangelio:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  la enseñanza se vuelve orgullo,
+\item
+  el servicio se vuelve mérito,
+\item
+  la disciplina se vuelve legalismo,
+\item
+  la santidad se vuelve rendimiento,
+\item
+  el liderazgo se vuelve poder,
+\item
+  la participación se vuelve ansiedad.
+\end{itemize}
+
+\headingsix{Pero dentro del evangelio:}
+
+\begin{itemize}
+\tightlist
+\item
+  todo encuentra su lugar.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-6}
+
+\headingfive{¿Será que la tarea constante de los apóstoles consiste en volver a ubicar a las iglesias dentro de la realidad del Cristo crucificado y resucitado?}
+
+\section{CAPÍTULO 19 - ¿POR QUÉ MEDIO PARTICIPAN LOS
+CREYENTES?}\label{capuxedtulo-19---por-quuxe9-medio-participan-los-creyentes}
+
+\begin{paraHone}Después de escuchar repetidamente a los apóstoles regresar al evangelio,
+surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Por medio de qué participan los creyentes en la obra continua de
+Cristo?\end{paraHone}
+
+\begin{paraHone}¿Presentan los apóstoles un segundo medio después de la salvación?\end{paraHone}
+
+\begin{paraHone}¿O continúan llevando a los creyentes más profundamente al mismo
+evangelio?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Participación en Cristo}\label{participaciuxf3n-en-cristo}
+
+\subsubsection{Romanos 6:3--5}\label{romanos-635}
+
+\begin{verseblock}
+Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección.
+\end{verseblock}
+
+\begin{anchorblock}{en Su muerte}
+
+\headingfive{Pablo vuelve a llevar a los creyentes hacia Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo murió.
+\item
+  Los creyentes murieron con Él.
+\item
+  Cristo fue sepultado.
+\item
+  Los creyentes fueron sepultados con Él.
+\item
+  Cristo resucitó.
+\item
+  Los creyentes participan de Su vida.
+\end{itemize}
+
+\headingfive{Pablo no introduce otro centro.}
+
+\begin{paraHthree}Vuelve a Cristo.\end{paraHthree}
+
+\end{anchorblock}
+
+\begin{anchorblock}{unidos a Él}
+
+\headingfive{La participación aparece ligada a Cristo mismo.}
+
+\begin{itemize}
+\tightlist
+\item
+  El creyente no aparece separado de Cristo.
+\item
+  La vida se encuentra en Él.
+\item
+  La participación ocurre en relación con Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{El viejo hombre fue crucificado con
+Él}\label{el-viejo-hombre-fue-crucificado-con-uxe9l}
+
+\subsubsection{Romanos 6:6}\label{romanos-66}
+
+\begin{verseblock}
+Nuestro viejo hombre fue crucificado con Él.
+\end{verseblock}
+
+\begin{anchorblock}{con Él}
+
+\headingfive{La cruz continúa ocupando el centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra pertenece a Cristo.
+\item
+  Pablo describe al creyente en relación con Él.
+\item
+  La identidad es entendida desde Cristo.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Considérense}\label{considuxe9rense}
+
+\subsubsection{Romanos 6:11}\label{romanos-611}
+
+\begin{verseblock}
+Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{vivos para Dios en Cristo Jesús}
+
+\headingfive{Pablo continúa ubicando la vida en Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  La vida se encuentra en Él.
+\item
+  Los creyentes viven para Dios en Cristo.
+\item
+  La participación permanece centrada en Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Sepultados y resucitados con
+Él}\label{sepultados-y-resucitados-con-uxe9l}
+
+\subsubsection{Colosenses 2:12}\label{colosenses-212}
+
+\begin{verseblock}
+habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción del poder de Dios, que lo resucitó de entre los muertos.
+\end{verseblock}
+
+\begin{anchorblock}{con Él}
+
+\headingfive{Pablo vuelve nuevamente al mismo centro.}
+
+\begin{itemize}
+\tightlist
+\item
+  Muerte con Él.
+\item
+  Sepultura con Él.
+\item
+  Resurrección con Él.
+\end{itemize}
+
+\headingfive{El centro no cambia.}
+
+\end{anchorblock}
+
+\subsubsection{Colosenses 3:1--3}\label{colosenses-313}
+
+\begin{verseblock}
+Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios. Pongan la mira en las cosas de arriba, no en las de la tierra. Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.
+\end{verseblock}
+
+\begin{anchorblock}{han resucitado con Cristo}
+
+\headingfive{La nueva vida continúa siendo entendida desde Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes buscan las cosas de arriba.
+\item
+  Cristo permanece ocupando el centro.
+\item
+  La vida se entiende desde lo que Dios ha hecho.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Cristo vive en mí}\label{cristo-vive-en-muxed}
+
+\subsubsection{Gálatas 2:20}\label{guxe1latas-220}
+
+\begin{verseblock}
+Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí.
+\end{verseblock}
+
+\begin{anchorblock}{Cristo vive en mí}
+
+\headingfive{Pablo continúa describiendo la vida en relación con Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo permanece en el centro.
+\item
+  La vida del creyente está ligada a Él.
+\item
+  La fe continúa puesta en el Hijo de Dios.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Conocerle}\label{conocerle}
+
+\subsubsection{Filipenses 3:10}\label{filipenses-310}
+
+\begin{verseblock}
+A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos.
+\end{verseblock}
+
+\begin{anchorblock}{conocerlo}
+
+\headingfive{La meta de Pablo continúa siendo Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo no es dejado atrás.
+\item
+  La participación se relaciona con conocerlo.
+\item
+  La resurrección y los padecimientos permanecen unidos.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-6}
+
+\begin{paraHtwo}Los apóstoles no parecen introducir un segundo medio.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No dicen:\end{paraHtwo}
+
+\begin{paraHtwo}Cree el evangelio para ser salvo y luego confía en ti mismo para crecer.\end{paraHtwo}
+
+\begin{paraHtwo}Ni tampoco:\end{paraHtwo}
+
+\begin{paraHtwo}Comienza con Cristo y luego avanza hacia algo más profundo.\end{paraHtwo}
+
+\begin{paraHtwo}Más bien, continuamente vuelven a llevar a los creyentes hacia Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}Hacia Su muerte.\end{paraHtwo}
+
+\begin{paraHtwo}Hacia Su resurrección.\end{paraHtwo}
+
+\begin{paraHtwo}Hacia Su vida.\end{paraHtwo}
+
+\begin{paraHtwo}Hacia Su amor.\end{paraHtwo}
+
+\begin{paraHtwo}Hacia Él mismo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-1}
+
+\begin{paraHtwo}La participación no parece separarse del evangelio.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}El mismo Cristo que salva es el Cristo en quien los creyentes viven.\end{paraHtwo}
+
+\begin{paraHtwo}La misma cruz.\end{paraHtwo}
+
+\begin{paraHtwo}La misma resurrección.\end{paraHtwo}
+
+\begin{paraHtwo}La misma gracia.\end{paraHtwo}
+
+\begin{paraHtwo}El mismo Señor.\end{paraHtwo}
+
+\begin{paraHtwo}El mismo evangelio.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-7}
+
+\headingfive{¿Será que los creyentes participan con el Constructor por medio del mismo evangelio por el cual fueron salvos?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque si esto es así, entonces la participación ocurre dentro del
+evangelio.\end{paraHtwo}
+
+\begin{paraHtwo}Y quizás por eso los apóstoles nunca parecen graduarse de Cristo
+crucificado.\end{paraHtwo}
+
+\section{CAPÍTULO 20 - CONOCER A
+CRISTO}\label{capuxedtulo-20---conocer-a-cristo}
+
+\begin{paraHone}Después de escuchar a los apóstoles volver repetidamente al evangelio,
+surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Hacia dónde se dirige esta participación?\end{paraHone}
+
+\begin{paraHone}¿Cuál es la meta?\end{paraHone}
+
+\begin{paraHone}¿Qué esperan finalmente los apóstoles para las iglesias?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Pablo desea conocerle}\label{pablo-desea-conocerle}
+
+\subsubsection{Filipenses 3:8--10}\label{filipenses-3810}
+
+\begin{verseblock}
+Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo.
+\end{verseblock}
+
+\begin{anchorblock}{conocer a Cristo Jesús}
+
+\headingfive{Pablo establece una prioridad.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo posee un valor incomparable.
+\item
+  Otras cosas son consideradas pérdida.
+\item
+  La atención permanece en Él.
+\end{itemize}
+
+\headingfive{La meta continúa siendo Cristo.}
+
+\end{anchorblock}
+
+\begin{anchorblock}{a fin de conocerlo}
+
+\headingfive{Pablo expresa un propósito.}
+
+\begin{itemize}
+\tightlist
+\item
+  No habla de conocer simplemente información.
+\item
+  No habla solamente de ministerio.
+\item
+  El deseo es conocer a Cristo.
+\end{itemize}
+
+\headingfive{La participación posee una dirección.}
+
+\end{anchorblock}
+
+\subsection{El amor de Cristo sobrepasa el
+conocimiento}\label{el-amor-de-cristo-sobrepasa-el-conocimiento}
+
+\subsubsection{Efesios 3:17--19}\label{efesios-31719}
+
+\begin{verseblock}
+Y conocer el amor de Cristo que sobrepasa el conocimiento.
+\end{verseblock}
+
+\begin{anchorblock}{conocer el amor de Cristo}
+
+\headingfive{Pablo ora por algo relacionado con Cristo mismo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo habita por la fe.
+\item
+  Los creyentes son fortalecidos.
+\item
+  El amor de Cristo ocupa el centro.
+\end{itemize}
+
+\headingfive{La plenitud es asociada con Él.}
+
+\end{anchorblock}
+
+\subsection{Pedro desea crecimiento}\label{pedro-desea-crecimiento}
+
+\subsubsection{2 Pedro 3:18}\label{pedro-318}
+
+\begin{verseblock}
+Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.
+\end{verseblock}
+
+\begin{anchorblock}{el conocimiento de nuestro Señor}
+
+\headingfive{Pedro dirige la atención hacia Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  El crecimiento continúa.
+\item
+  La gracia continúa.
+\item
+  Cristo permanece en el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Juan habla de permanecer}\label{juan-habla-de-permanecer}
+
+\subsubsection{1 Juan 2:24}\label{juan-224}
+
+\begin{verseblock}
+Permanezca en ustedes lo que oyeron desde el principio.
+\end{verseblock}
+
+\begin{anchorblock}{permanezca}
+
+\headingfive{Juan insiste en permanecer.}
+
+\begin{itemize}
+\tightlist
+\item
+  Permanecer en el Hijo.
+\item
+  Permanecer en el Padre.
+\item
+  Permanecer en lo oído desde el principio.
+\end{itemize}
+
+\headingfive{La comunión permanece relacionada con Cristo.}
+
+\end{anchorblock}
+
+\subsubsection{1 Juan 5:20}\label{juan-520}
+
+\begin{verseblock}
+Estamos en Aquel que es verdadero, en Su Hijo Jesucristo.
+\end{verseblock}
+
+\begin{anchorblock}{estamos en Él}
+
+\headingfive{Juan describe una realidad presente.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes están en Cristo.
+\item
+  Cristo permanece ocupando el centro.
+\item
+  El conocimiento se relaciona con Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Hebreos dirige continuamente hacia
+Jesús}\label{hebreos-dirige-continuamente-hacia-jesuxfas}
+
+\subsubsection{Hebreos 12:2}\label{hebreos-122}
+
+\begin{verseblock}
+Puestos los ojos en Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{puestos los ojos en Jesús}
+
+\headingfive{La perseverancia ocurre mirando a Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Jesús es considerado.
+\item
+  Jesús es contemplado.
+\item
+  Jesús permanece ocupando el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Pablo desea presentar a todos maduros en
+Cristo}\label{pablo-desea-presentar-a-todos-maduros-en-cristo}
+
+\subsubsection{Colosenses 1:28}\label{colosenses-128}
+
+\begin{verseblock}
+A fin de poder presentar a todo hombre perfecto en Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{en Cristo}
+
+\headingfive{La madurez permanece relacionada con Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo es proclamado.
+\item
+  Cristo es enseñado.
+\item
+  Cristo es el contexto de la madurez.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-7}
+
+\begin{paraHtwo}Los apóstoles hablan de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  santidad,
+\item
+  servicio,
+\item
+  amor,
+\item
+  perseverancia,
+\item
+  buenas obras,
+\item
+  enseñanza,
+\item
+  esperanza.
+\end{itemize}
+
+\begin{paraHtwo}Pero repetidamente vuelven a Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque parecen desear más que actividad.\end{paraHtwo}
+
+\begin{paraHtwo}Parecen desear que los creyentes conozcan a Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-2}
+
+\begin{paraHtwo}Conocer a Cristo no parece competir con la participación.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}La participación parece conducir hacia conocerle más.\end{paraHtwo}
+
+\begin{paraHtwo}Y conocerle parece producir:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  amor,
+\item
+  esperanza,
+\item
+  servicio,
+\item
+  perseverancia,
+\item
+  gozo,
+\item
+  gratitud.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-8}
+
+\headingfive{¿Será que la meta de la participación no es simplemente hacer más cosas, sino conocer más profundamente al Cristo crucificado y resucitado?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles parecen estar ocupados con muchas cosas.\end{paraHtwo}
+
+\begin{paraHtwo}Pero repetidamente regresan a una Persona.\end{paraHtwo}
+
+\section{CAPÍTULO 21 - LA IGLESIA VIVIENDO ACTUALMENTE EN
+CRISTO}\label{capuxedtulo-21---la-iglesia-viviendo-actualmente-en-cristo}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca del evangelio y del
+conocimiento de Cristo, surge otra pregunta.\end{paraHone}
+
+\begin{paraHone}¿Dónde desean ellos que viva la iglesia?\end{paraHone}
+
+\begin{paraHone}No simplemente:\end{paraHone}
+
+\begin{paraHone}¿Qué actividades debe realizar?\end{paraHone}
+
+\begin{paraHone}Sino:\end{paraHone}
+
+\begin{paraHone}¿Dentro de qué realidad debe vivir?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Permaneciendo en Cristo}\label{permaneciendo-en-cristo}
+
+\subsubsection{Juan 15:4--5}\label{juan-1545}
+
+\begin{verseblock}
+Permanezcan en Mí, y Yo en ustedes...porque separados de Mí nada pueden hacer.
+\end{verseblock}
+
+\begin{anchorblock}{permanezcan en Mí}
+
+\headingfive{La vida se encuentra en relación con Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo permanece ocupando el centro.
+\item
+  Los creyentes permanecen en Él.
+\item
+  El fruto aparece en relación con Él.
+\end{itemize}
+
+\headingfive{La separación de Cristo no produce vida.}
+
+\end{anchorblock}
+
+\subsection{Caminando dignamente}\label{caminando-dignamente}
+
+\subsubsection{Efesios 4:1}\label{efesios-41}
+
+\begin{verseblock}
+Les ruego que vivan de una manera digna de la vocación con que han sido llamados.
+\end{verseblock}
+
+\begin{anchorblock}{vivan de una manera digna}
+
+\headingfive{Pablo describe una manera de vivir.}
+
+\begin{itemize}
+\tightlist
+\item
+  La iglesia posee un llamamiento.
+\item
+  La conducta debe corresponder a esa realidad.
+\item
+  La vida es entendida desde lo que Dios ha hecho.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Creciendo en Él}\label{creciendo-en-uxe9l}
+
+\subsubsection{Efesios 4:15}\label{efesios-415}
+
+\begin{verseblock}
+Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{en Aquel que es la cabeza}
+
+\headingfive{El crecimiento posee una dirección.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo es la cabeza.
+\item
+  El crecimiento ocurre en relación con Él.
+\item
+  La iglesia es llevada hacia Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{La palabra de Cristo
+habitando}\label{la-palabra-de-cristo-habitando}
+
+\subsubsection{Colosenses 3:16}\label{colosenses-316}
+
+\begin{verseblock}
+Que la palabra de Cristo habite en abundancia en ustedes.
+\end{verseblock}
+
+\begin{anchorblock}{habite en abundancia}
+
+\headingfive{La palabra de Cristo ocupa un lugar central.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes enseñan.
+\item
+  Los creyentes exhortan.
+\item
+  Los creyentes cantan.
+\end{itemize}
+
+\headingfive{Todo ocurre alrededor de Cristo.}
+
+\end{anchorblock}
+
+\subsection{Permaneciendo en la
+esperanza}\label{permaneciendo-en-la-esperanza}
+
+\subsubsection{Hebreos 10:23}\label{hebreos-1023}
+
+\begin{verseblock}
+Mantengamos firme la profesión de nuestra esperanza.
+\end{verseblock}
+
+\begin{anchorblock}{mantengamos firme}
+
+\headingfive{Los creyentes viven mirando hacia adelante.}
+
+\begin{itemize}
+\tightlist
+\item
+  La esperanza permanece.
+\item
+  La fidelidad de Dios permanece.
+\item
+  La iglesia espera Su venida.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Viviendo por el Espíritu}\label{viviendo-por-el-espuxedritu}
+
+\subsubsection{Gálatas 5:25}\label{guxe1latas-525}
+
+\begin{verseblock}
+Si vivimos por el Espíritu, andemos también por el Espíritu.
+\end{verseblock}
+
+\begin{anchorblock}{andemos también por el Espíritu}
+
+\headingfive{La vida y la conducta aparecen relacionadas.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Espíritu permanece obrando.
+\item
+  Los creyentes caminan conforme a esa realidad.
+\item
+  La vida cristiana no es independiente.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Esperando a Su Hijo}\label{esperando-a-su-hijo}
+
+\subsubsection{1 Tesalonicenses 1:9--10}\label{tesalonicenses-1910}
+
+\begin{verseblock}
+Esperan a Su Hijo de los cielos.
+\end{verseblock}
+
+\begin{anchorblock}{esperan a Su Hijo}
+
+\headingfive{La esperanza posee una Persona.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo permanece delante de ellos.
+\item
+  La iglesia vive esperando Su venida.
+\item
+  La mirada permanece puesta en Él.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-8}
+
+\begin{paraHtwo}Los apóstoles no parecen simplemente enseñar actividades.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Parecen querer que la iglesia viva:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  en Cristo,
+\item
+  bajo Su señorío,
+\item
+  por Su Espíritu,
+\item
+  sosteniendo Su palabra,
+\item
+  en amor,
+\item
+  en esperanza,
+\item
+  creciendo hacia la madurez,
+\item
+  esperando Su regreso.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-3}
+
+\begin{paraHtwo}La iglesia no es presentada simplemente como una organización.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Es presentada como:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  un cuerpo,
+\item
+  una familia,
+\item
+  una comunión,
+\item
+  una casa,
+\item
+  un pueblo.
+\end{itemize}
+
+\headingfive{Y toda esa vida se desarrolla alrededor de Cristo.}
+
+\subsection{Una pregunta}\label{una-pregunta-9}
+
+\headingfive{¿Será que los apóstoles no están simplemente enseñando a las iglesias qué hacer, sino tratando de ubicar a las iglesias dentro de la realidad presente del Cristo crucificado y resucitado?}
+
+\section{CAPÍTULO 23 - ¿CÓMO LUCE UNA PARTICIPACIÓN
+FIEL?}\label{capuxedtulo-23---cuxf3mo-luce-una-participaciuxf3n-fiel}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de vivir en Cristo,
+surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Cómo luce una participación fiel?\end{paraHone}
+
+\begin{paraHone}¿Qué valoran los apóstoles?\end{paraHone}
+
+\begin{paraHone}¿Qué ejemplos presentan?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Pablo}\label{pablo-2}
+
+\subsubsection{1 Corintios 15:10}\label{corintios-1510-1}
+
+\begin{verseblock}
+Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.
+\end{verseblock}
+
+\begin{anchorblock}{no yo, sino la gracia de Dios}
+
+\headingfive{Pablo reconoce la obra de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo trabaja.
+\item
+  La gracia de Dios permanece obrando.
+\item
+  La confianza no está en sí mismo.
+\end{itemize}
+
+\headingfive{La participación ocurre dentro de la gracia.}
+
+\end{anchorblock}
+
+\subsection{Timoteo}\label{timoteo}
+
+\subsubsection{Filipenses 2:20--22}\label{filipenses-22022}
+
+\begin{verseblock}
+No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes.
+\end{verseblock}
+
+\begin{anchorblock}{sinceramente interesado}
+
+\headingfive{Pablo destaca el carácter de Timoteo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Timoteo se preocupa por otros.
+\item
+  Timoteo sirve con Pablo.
+\item
+  Timoteo ha probado su fidelidad.
+\end{itemize}
+
+\headingfive{La participación incluye servicio y cuidado.}
+
+\end{anchorblock}
+
+\subsection{Epafrodito}\label{epafrodito}
+
+\subsubsection{Filipenses 2:25--30}\label{filipenses-22530}
+
+\begin{verseblock}
+Porque estuvo al borde de la muerte por la obra de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{por la obra de Cristo}
+
+\headingfive{Pablo honra su servicio.}
+
+\begin{itemize}
+\tightlist
+\item
+  Epafrodito arriesgó su vida.
+\item
+  Sirvió a otros.
+\item
+  Participó en la obra de Cristo.
+\end{itemize}
+
+\headingfive{Pablo manda estimar a hombres como él.}
+
+\end{anchorblock}
+
+\subsection{Onesíforo}\label{onesuxedforo}
+
+\subsubsection{2 Timoteo 1:16--18}\label{timoteo-11618}
+
+\begin{verseblock}
+Muchas veces me dio consuelo y no se avergonzó de mis cadenas.
+\end{verseblock}
+
+\begin{anchorblock}{no se avergonzó}
+
+\headingfive{Onesíforo permaneció junto a Pablo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Lo buscó con diligencia.
+\item
+  Lo ayudó.
+\item
+  Lo sirvió.
+\end{itemize}
+
+\headingfive{La fidelidad aparece en medio de la dificultad.}
+
+\end{anchorblock}
+
+\subsection{Estéfanas}\label{estuxe9fanas}
+
+\subsubsection{1 Corintios 16:15}\label{corintios-1615}
+
+\begin{verseblock}
+Se han dedicado al servicio de los santos.
+\end{verseblock}
+
+\begin{anchorblock}{se han dedicado}
+
+\headingfive{Pablo reconoce una disposición.}
+
+\begin{itemize}
+\tightlist
+\item
+  Sirven a los santos.
+\item
+  Participan voluntariamente.
+\item
+  Son de ayuda para otros.
+\end{itemize}
+
+\headingfive{La participación produce beneficio para el cuerpo.}
+
+\end{anchorblock}
+
+\subsection{Febe}\label{febe}
+
+\subsubsection{Romanos 16:1--2}\label{romanos-1612}
+
+\begin{verseblock}
+Porque ella también ha ayudado a muchos, y aun a mí mismo.
+\end{verseblock}
+
+\begin{anchorblock}{ha ayudado a muchos}
+
+\headingfive{Pablo reconoce su servicio.}
+
+\begin{itemize}
+\tightlist
+\item
+  Febe ha sido de ayuda.
+\item
+  Ha servido a muchos.
+\item
+  Pablo mismo se benefició de su labor.
+\end{itemize}
+
+\headingfive{La participación bendice a otros.}
+
+\end{anchorblock}
+
+\subsection{Tíquico}\label{tuxedquico}
+
+\subsubsection{Efesios 6:21}\label{efesios-621}
+
+\begin{verseblock}
+El amado hermano y fiel ministro en el Señor.
+\end{verseblock}
+
+\begin{anchorblock}{fiel ministro}
+
+\headingfive{Pablo destaca la fidelidad.}
+
+\begin{itemize}
+\tightlist
+\item
+  Tíquico sirve.
+\item
+  Es amado.
+\item
+  Es considerado fiel.
+\end{itemize}
+
+\headingfive{La fidelidad posee valor.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-9}
+
+\begin{paraHtwo}Los ejemplos presentados por los apóstoles son sorprendentes.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No aparecen descritos por:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  fama,
+\item
+  influencia,
+\item
+  poder,
+\item
+  capacidades extraordinarias.
+\end{itemize}
+
+\begin{paraHtwo}Sino por:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  fidelidad,
+\item
+  servicio,
+\item
+  amor,
+\item
+  ayuda,
+\item
+  perseverancia,
+\item
+  preocupación por otros.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-4}
+
+\begin{paraHtwo}La participación fiel no parece llamar la atención hacia sí misma.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}La atención continúa siendo dirigida hacia Cristo y hacia el beneficio
+de otros.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-10}
+
+\headingfive{¿Será que la fidelidad es más importante para Cristo que la grandeza?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles parecen honrar hombres y mujeres que participaron
+con Cristo, sirvieron a otros y permanecieron fieles.\end{paraHtwo}
+
+\section{CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN
+DEFICIENTE?}\label{capuxedtulo-24---cuxf3mo-luce-una-participaciuxf3n-deficiente}
+
+\begin{paraHone}Después de ver ejemplos de participación fiel, surge una pregunta
+natural.\end{paraHone}
+
+\begin{paraHone}¿Puede la participación ser deficiente?\end{paraHone}
+
+\begin{paraHone}¿Qué ocurre cuando los creyentes dejan de participar correctamente?\end{paraHone}
+
+\begin{paraHone}Los apóstoles dedican muchas exhortaciones y advertencias a esta
+realidad.\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Los corintios}\label{los-corintios}
+
+\subsubsection{1 Corintios 3:1--3}\label{corintios-313}
+
+\begin{verseblock}
+No pude hablarles como a espirituales, sino como a carnales.
+\end{verseblock}
+
+\begin{anchorblock}{como a carnales}
+
+\headingfive{Pablo describe una condición.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los creyentes continúan siendo hermanos.
+\item
+  Continúan perteneciendo a Cristo.
+\item
+  Pero su manera de vivir no corresponde a la madurez.
+\end{itemize}
+
+\headingfive{La inmadurez produce divisiones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Celos.
+\item
+  Contiendas.
+\item
+  Exaltación de hombres.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsubsection{1 Corintios 3:6--7}\label{corintios-367-1}
+
+\begin{verseblock}
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{Dios ha dado el crecimiento}
+
+\headingfive{La atención debe permanecer en Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los siervos poseen una función.
+\item
+  Dios produce el crecimiento.
+\item
+  Los hombres no ocupan el centro.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Los gálatas}\label{los-guxe1latas}
+
+\subsubsection{Gálatas 3:3}\label{guxe1latas-33}
+
+\begin{verseblock}
+¿Habiendo comenzado por el Espíritu, van ahora a acabar por la carne?
+\end{verseblock}
+
+\begin{anchorblock}{acabar por la carne}
+
+\headingfive{Pablo señala un peligro.}
+
+\begin{itemize}
+\tightlist
+\item
+  Habían comenzado correctamente.
+\item
+  El problema aparece después.
+\item
+  La confianza se desplaza.
+\end{itemize}
+
+\headingfive{La carne ocupa un lugar que no le corresponde.}
+
+\end{anchorblock}
+
+\subsection{Hebreos}\label{hebreos-1}
+
+\subsubsection{Hebreos 2:1}\label{hebreos-21}
+
+\begin{verseblock}
+Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desviemos.
+\end{verseblock}
+
+\begin{anchorblock}{nos desviemos}
+
+\headingfive{Existe el peligro del desvío.}
+
+\begin{itemize}
+\tightlist
+\item
+  Lo oído permanece siendo importante.
+\item
+  Los creyentes deben prestar atención.
+\item
+  La deriva es real.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsubsection{Hebreos 12:15}\label{hebreos-1215}
+
+\begin{verseblock}
+Miren bien, no sea que alguno deje de alcanzar la gracia de Dios.
+\end{verseblock}
+
+\begin{anchorblock}{la gracia de Dios}
+
+\headingfive{La gracia continúa siendo importante.}
+
+\begin{itemize}
+\tightlist
+\item
+  La amargura produce daño.
+\item
+  Muchos pueden ser afectados.
+\item
+  La comunión puede deteriorarse.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Éfeso}\label{uxe9feso}
+
+\subsubsection{Apocalipsis 2:2--4}\label{apocalipsis-224}
+
+\begin{verseblock}
+Has dejado tu primer amor.
+\end{verseblock}
+
+\begin{anchorblock}{has dejado}
+
+\headingfive{Muchas cosas permanecían.}
+
+\begin{itemize}
+\tightlist
+\item
+  Trabajo.
+\item
+  Perseverancia.
+\item
+  Discernimiento.
+\end{itemize}
+
+\headingfive{Sin embargo, algo había sido abandonado.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo llama al arrepentimiento.
+\item
+  La relación con Él continúa siendo importante.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Sardis}\label{sardis}
+
+\subsubsection{Apocalipsis 3:1}\label{apocalipsis-31}
+
+\begin{verseblock}
+Tienes nombre de que vives, pero estás muerto.
+\end{verseblock}
+
+\begin{anchorblock}{tienes nombre}
+
+\headingfive{La apariencia puede engañar.}
+
+\begin{itemize}
+\tightlist
+\item
+  La reputación permanece.
+\item
+  El nombre permanece.
+\item
+  Pero Cristo señala una realidad diferente.
+\end{itemize}
+
+\headingfive{La vida no depende de la reputación.}
+
+\end{anchorblock}
+
+\subsection{Laodicea}\label{laodicea}
+
+\subsubsection{Apocalipsis 3:17}\label{apocalipsis-317}
+
+\begin{verseblock}
+Dices: Soy rico... y no sabes que eres un desventurado.
+\end{verseblock}
+
+\begin{anchorblock}{no sabes}
+
+\headingfive{La autosuficiencia produce ceguera.}
+
+\begin{itemize}
+\tightlist
+\item
+  La evaluación propia puede ser equivocada.
+\item
+  Cristo posee una evaluación distinta.
+\item
+  La confianza en uno mismo es peligrosa.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-10}
+
+\begin{paraHtwo}La participación deficiente no aparece principalmente como ausencia de
+actividad.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Frecuentemente aparece en medio de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  actividad,
+\item
+  conocimiento,
+\item
+  reputación,
+\item
+  tradición,
+\item
+  confianza propia.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-5}
+
+\begin{paraHtwo}El Constructor no falla.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Pero los participantes pueden:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  desviarse,
+\item
+  confiar en la carne,
+\item
+  exaltar hombres,
+\item
+  enfriarse,
+\item
+  volverse autosuficientes,
+\item
+  perder de vista la gracia.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-11}
+
+\headingfive{¿Será que la mayor amenaza para una iglesia no consiste en perder sus métodos, sino en desplazar el centro?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque las iglesias pueden conservar:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  reuniones,
+\item
+  estructuras,
+\item
+  actividades,
+\item
+  reputación,
+\end{itemize}
+
+\begin{paraHtwo}y sin embargo dejar de vivir en la realidad del Cristo crucificado y
+resucitado.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta}
+
+\headingfive{Si la participación importa, y la fidelidad importa, ¿qué es lo que Cristo valora y qué está en juego?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 25 - ¿QUÉ ESTÁ EN
+JUEGO?}\label{capuxedtulo-25---quuxe9-estuxe1-en-juego}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de una participación
+fiel y una participación deficiente, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Qué está en juego?\end{paraHone}
+
+\begin{paraHone}Porque Cristo es fiel.\end{paraHone}
+
+\begin{paraHone}El Constructor no falla.\end{paraHone}
+
+\begin{paraHone}Su iglesia permanecerá.\end{paraHone}
+
+\begin{paraHone}Entonces, ¿por qué tantas exhortaciones?\end{paraHone}
+
+\begin{paraHone}¿Por qué tantas advertencias?\end{paraHone}
+
+\begin{paraHone}¿Por qué tanta insistencia en perseverar?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{La obra será probada}\label{la-obra-seruxe1-probada}
+
+\subsubsection{1 Corintios 3:12--15}\label{corintios-31215}
+
+\begin{verseblock}
+La obra de cada uno se hará evidente... porque el día la mostrará.
+\end{verseblock}
+
+\begin{anchorblock}{la obra de cada uno}
+
+\headingfive{Pablo dirige la atención hacia la obra.}
+
+\begin{itemize}
+\tightlist
+\item
+  La obra será manifestada.
+\item
+  El fuego probará la calidad.
+\item
+  Habrá diferencia entre unas obras y otras.
+\end{itemize}
+
+\headingfive{La participación importa.}
+
+\end{anchorblock}
+
+\begin{anchorblock}{sufrirá pérdida}
+
+\headingfive{Pablo distingue entre salvación y recompensa.}
+
+\begin{itemize}
+\tightlist
+\item
+  El creyente será salvo.
+\item
+  Sin embargo, puede sufrir pérdida.
+\item
+  La obra puede permanecer o consumirse.
+\end{itemize}
+
+\headingfive{Lo que se hace posee importancia.}
+
+\end{anchorblock}
+
+\subsection{Todos compareceremos}\label{todos-compareceremos}
+
+\subsubsection{2 Corintios 5:10}\label{corintios-510}
+
+\begin{verseblock}
+Todos debemos comparecer ante el tribunal de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{todos}
+
+\headingfive{Nadie queda excluido.}
+
+\begin{itemize}
+\tightlist
+\item
+  Todos comparecerán.
+\item
+  Cristo evaluará.
+\item
+  Cada uno recibirá según lo que haya hecho.
+\end{itemize}
+
+\headingfive{Cristo valora la participación.}
+
+\end{anchorblock}
+
+\subsection{Cada uno dará cuenta}\label{cada-uno-daruxe1-cuenta}
+
+\subsubsection{Romanos 14:10--12}\label{romanos-141012}
+
+\begin{verseblock}
+Cada uno de nosotros dará a Dios cuenta de sí mismo.
+\end{verseblock}
+
+\begin{anchorblock}{dará cuenta}
+
+\headingfive{Pablo dirige la atención hacia Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  El juicio pertenece al Señor.
+\item
+  Cada uno dará cuenta.
+\item
+  Los creyentes no ocupan el lugar del Juez.
+\end{itemize}
+
+\headingfive{La responsabilidad permanece.}
+
+\end{anchorblock}
+
+\subsection{El Señor traerá a la
+luz}\label{el-seuxf1or-traeruxe1-a-la-luz}
+
+\subsubsection{1 Corintios 4:5}\label{corintios-45}
+
+\begin{verseblock}
+El Señor... pondrá de manifiesto los motivos de los corazones.
+\end{verseblock}
+
+\begin{anchorblock}{los motivos}
+
+\headingfive{Cristo conoce más que las acciones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él traerá a la luz.
+\item
+  Él conoce las intenciones.
+\item
+  La evaluación pertenece al Señor.
+\end{itemize}
+
+\headingfive{La aprobación viene de Dios.}
+
+\end{anchorblock}
+
+\subsection{Permanezcan para recibir plena
+recompensa}\label{permanezcan-para-recibir-plena-recompensa}
+
+\subsubsection{2 Juan 8}\label{juan-8}
+
+\begin{verseblock}
+Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa.
+\end{verseblock}
+
+\begin{anchorblock}{abundante recompensa}
+
+\headingfive{Juan considera importante la perseverancia.}
+
+\begin{itemize}
+\tightlist
+\item
+  Existe algo que recibir.
+\item
+  La fidelidad posee valor.
+\item
+  La recompensa es presentada como algo deseable.
+\end{itemize}
+
+\end{anchorblock}
+
+\subsection{Al vencedor}\label{al-vencedor}
+
+\subsubsection{Apocalipsis 2--3}\label{apocalipsis-23-1}
+
+\begin{verseblock}
+Al vencedor le daré...
+\end{verseblock}
+
+\begin{anchorblock}{al vencedor}
+
+\headingfive{Cristo repite promesas.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo conoce las obras.
+\item
+  Cristo anima a perseverar.
+\item
+  Cristo promete recompensas.
+\end{itemize}
+
+\headingfive{La participación posee importancia.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-11}
+
+\begin{paraHtwo}Lo que está en juego no parece ser la fidelidad de Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo permanece fiel.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo preserva.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo completa.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo presenta.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-6}
+
+\begin{paraHtwo}Los apóstoles tampoco presentan el asunto como una amenaza constante de
+perder la salvación.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Más bien hablan de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  aprobación,
+\item
+  recompensa,
+\item
+  pérdida,
+\item
+  responsabilidad,
+\item
+  perseverancia,
+\item
+  herencia,
+\item
+  gozo.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-12}
+
+\headingfive{¿Será que la participación posee importancia porque Cristo valora lo que Sus participantes hacen con aquello que Él les ha confiado?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque el Constructor no falla.\end{paraHtwo}
+
+\begin{paraHtwo}Pero los participantes sí serán evaluados.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-1}
+
+\headingfive{Si esto es así, ¿por qué Cristo y los apóstoles hablan tan libremente acerca de recompensas?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 26 - ¿POR QUÉ SON ENSEÑADAS LAS
+RECOMPENSAS?}\label{capuxedtulo-26---por-quuxe9-son-enseuxf1adas-las-recompensas}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de una futura
+evaluación, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Por qué Cristo y los apóstoles hablan tan libremente acerca de
+recompensas?\end{paraHone}
+
+\begin{paraHone}¿Por qué aparecen coronas, herencias, aprobación y promesas al vencedor?\end{paraHone}
+
+\begin{paraHone}¿Por qué el tribunal de Cristo ocupa un lugar tan importante?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Todos compareceremos}\label{todos-compareceremos-1}
+
+\subsubsection{2 Corintios 5:10}\label{corintios-510-1}
+
+\begin{verseblock}
+Porque todos nosotros debemos comparecer ante el tribunal de Cristo.
+\end{verseblock}
+
+\begin{anchorblock}{el tribunal de Cristo}
+
+\headingfive{Pablo dirige la atención hacia una futura evaluación.}
+
+\begin{itemize}
+\tightlist
+\item
+  Todos comparecerán.
+\item
+  Cristo evaluará.
+\item
+  Cada uno recibirá según lo que haya hecho.
+\end{itemize}
+
+\headingfive{La participación posee importancia.}
+
+\end{anchorblock}
+
+\subsection{La obra será manifestada}\label{la-obra-seruxe1-manifestada}
+
+\subsubsection{1 Corintios 3:12--15}\label{corintios-31215-1}
+
+\begin{verseblock}
+La obra de cada uno se hará evidente.
+\end{verseblock}
+
+\begin{anchorblock}{la obra de cada uno}
+
+\headingfive{El Señor distingue entre las obras.}
+
+\begin{itemize}
+\tightlist
+\item
+  Algunas permanecerán.
+\item
+  Algunas sufrirán pérdida.
+\item
+  El creyente será salvo.
+\end{itemize}
+
+\headingfive{La salvación y la recompensa no son presentadas como lo mismo.}
+
+\end{anchorblock}
+
+\subsection{Cada uno dará cuenta}\label{cada-uno-daruxe1-cuenta-1}
+
+\subsubsection{Romanos 14:12}\label{romanos-1412}
+
+\begin{verseblock}
+Cada uno de nosotros dará a Dios cuenta de sí mismo.
+\end{verseblock}
+
+\begin{anchorblock}{dará cuenta}
+
+\headingfive{Cristo es Señor.}
+
+\begin{itemize}
+\tightlist
+\item
+  El juicio pertenece al Señor.
+\item
+  Los creyentes no ocupan Su lugar.
+\item
+  Cada uno responderá delante de Él.
+\end{itemize}
+
+\headingfive{La responsabilidad permanece.}
+
+\end{anchorblock}
+
+\subsection{El Señor traerá a la
+luz}\label{el-seuxf1or-traeruxe1-a-la-luz-1}
+
+\subsubsection{1 Corintios 4:5}\label{corintios-45-1}
+
+\begin{verseblock}
+El Señor... pondrá de manifiesto los motivos de los corazones.
+\end{verseblock}
+
+\begin{anchorblock}{los motivos de los corazones}
+
+\headingfive{Cristo conoce más que las acciones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él conoce las intenciones.
+\item
+  Él conoce lo oculto.
+\item
+  La aprobación pertenece a Dios.
+\end{itemize}
+
+\headingfive{El reconocimiento más importante proviene del Señor.}
+
+\end{anchorblock}
+
+\subsection{Al vencedor}\label{al-vencedor-2}
+
+\subsubsection{Apocalipsis 2--3}\label{apocalipsis-23-2}
+
+\begin{verseblock}
+Al vencedor le daré...
+\end{verseblock}
+
+\begin{anchorblock}{le daré}
+
+\headingfive{Cristo promete recompensas.}
+
+\begin{itemize}
+\tightlist
+\item
+  Corona de vida.
+\item
+  Maná escondido.
+\item
+  Vestiduras blancas.
+\item
+  Autoridad.
+\item
+  El nombre nuevo.
+\end{itemize}
+
+\headingfive{Cristo considera valiosa la fidelidad.}
+
+\end{anchorblock}
+
+\subsection{La corona de justicia}\label{la-corona-de-justicia}
+
+\subsubsection{2 Timoteo 4:7--8}\label{timoteo-478}
+
+\begin{verseblock}
+He peleado la buena batalla, he terminado la carrera, he guardado la fe.
+\end{verseblock}
+
+\begin{anchorblock}{me está reservada}
+
+\headingfive{Pablo espera algo futuro.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Señor dará la corona.
+\item
+  El Señor es juez justo.
+\item
+  Otros también la recibirán.
+\end{itemize}
+
+\headingfive{La esperanza continúa ocupando un lugar importante.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-12}
+
+\begin{paraHtwo}Cristo y los apóstoles no parecen avergonzarse de hablar acerca de
+recompensas.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Tampoco presentan las recompensas como algo contrario a la gracia.\end{paraHtwo}
+
+\begin{paraHtwo}Más bien, la gracia produce participación.\end{paraHtwo}
+
+\begin{paraHtwo}Y Cristo valora esa participación.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-7}
+
+\begin{paraHtwo}El tribunal de Cristo no es presentado como una amenaza para la
+salvación.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Más bien aparece relacionado con:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  aprobación,
+\item
+  recompensa,
+\item
+  pérdida,
+\item
+  responsabilidad,
+\item
+  fidelidad,
+\item
+  perseverancia,
+\item
+  gozo.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-8}
+
+\begin{paraHtwo}Las recompensas parecen revelar algo acerca de Cristo mismo.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque Aquel que comenzó la obra,\end{paraHtwo}
+
+\begin{paraHtwo}Aquel que sostuvo la obra,\end{paraHtwo}
+
+\begin{paraHtwo}Aquel que dio crecimiento,\end{paraHtwo}
+
+\begin{paraHtwo}también se deleita en reconocer la participación de Sus siervos.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-13}
+
+\headingfive{¿Será que las recompensas son enseñadas porque Cristo considera importante la fidelidad de aquellos que participan con Él?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque el Constructor recibe toda la gloria.\end{paraHtwo}
+
+\begin{paraHtwo}Y, sin embargo, se complace en recompensar a quienes participaron
+fielmente con Él.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-2}
+
+\headingfive{Si Cristo valora tanto la fidelidad, ¿por qué Pablo dice:}
+
+\begin{paraHtwo}Encarga esto a hombres fieles?\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 27 - ¿POR QUÉ HOMBRES
+FIELES?}\label{capuxedtulo-27---por-quuxe9-hombres-fieles}
+
+\begin{paraHone}Después de escuchar a Cristo hablar acerca de recompensas y de una
+futura evaluación, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Por qué Pablo no dice:\end{paraHone}
+
+\begin{paraHone}Encarga esto a hombres capaces?\end{paraHone}
+
+\begin{paraHone}¿Por qué no dice:\end{paraHone}
+
+\begin{paraHone}A hombres influyentes?\end{paraHone}
+
+\begin{paraHone}¿Por qué no dice:\end{paraHone}
+
+\begin{paraHone}A hombres exitosos?\end{paraHone}
+
+\begin{paraHone}¿Por qué dice:\end{paraHone}
+
+\begin{paraHone}A hombres fieles?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{Encarga a hombres fieles}\label{encarga-a-hombres-fieles-2}
+
+\subsubsection{2 Timoteo 2:2}\label{timoteo-22-2}
+
+\begin{verseblock}
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+\end{verseblock}
+
+\begin{anchorblock}{hombres fieles}
+
+\headingfive{Pablo establece una prioridad.}
+
+\begin{itemize}
+\tightlist
+\item
+  La fidelidad aparece antes que la capacidad.
+\item
+  La verdad debía continuar.
+\item
+  El encargo debía extenderse a otros.
+\end{itemize}
+
+\headingfive{La dimensión generacional aparece naturalmente.}
+
+\end{anchorblock}
+
+\subsection{Se requiere de los
+administradores}\label{se-requiere-de-los-administradores}
+
+\subsubsection{1 Corintios 4:1--2}\label{corintios-412}
+
+\begin{verseblock}
+Lo que se requiere de los administradores es que cada uno sea hallado fiel.
+\end{verseblock}
+
+\begin{anchorblock}{sea hallado fiel}
+
+\headingfive{Pablo habla de un requisito.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los siervos son administradores.
+\item
+  La fidelidad posee valor.
+\item
+  El reconocimiento pertenece al Señor.
+\end{itemize}
+
+\headingfive{La grandeza no es mencionada.}
+
+\end{anchorblock}
+
+\subsection{Moisés fue fiel}\label{moisuxe9s-fue-fiel}
+
+\subsubsection{Hebreos 3:2}\label{hebreos-32}
+
+\begin{verseblock}
+Fue fiel al que lo constituyó.
+\end{verseblock}
+
+\begin{anchorblock}{fue fiel}
+
+\headingfive{La fidelidad aparece asociada al servicio.}
+
+\begin{itemize}
+\tightlist
+\item
+  Dios confió una tarea.
+\item
+  Moisés fue fiel.
+\item
+  Cristo también es presentado como fiel.
+\end{itemize}
+
+\headingfive{La fidelidad posee importancia delante de Dios.}
+
+\end{anchorblock}
+
+\subsection{Bien, siervo bueno y fiel}\label{bien-siervo-bueno-y-fiel}
+
+\subsubsection{Mateo 25:21}\label{mateo-2521}
+
+\begin{verseblock}
+Bien, siervo bueno y fiel.
+\end{verseblock}
+
+\begin{anchorblock}{siervo bueno y fiel}
+
+\headingfive{El Señor valora la fidelidad.}
+
+\begin{itemize}
+\tightlist
+\item
+  El siervo había recibido.
+\item
+  El siervo había administrado.
+\item
+  El Señor reconoce su fidelidad.
+\end{itemize}
+
+\headingfive{La aprobación proviene del Señor.}
+
+\end{anchorblock}
+
+\subsection{Timoteo}\label{timoteo-1}
+
+\subsubsection{Filipenses 2:22}\label{filipenses-222}
+
+\begin{verseblock}
+Ustedes conocen sus méritos probados.
+\end{verseblock}
+
+\begin{anchorblock}{sus méritos probados}
+
+\headingfive{Timoteo había demostrado algo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Había servido con Pablo.
+\item
+  Había permanecido.
+\item
+  Había probado su carácter.
+\end{itemize}
+
+\headingfive{La fidelidad se manifiesta con el tiempo.}
+
+\end{anchorblock}
+
+\subsection{Tíquico}\label{tuxedquico-1}
+
+\subsubsection{Efesios 6:21}\label{efesios-621-1}
+
+\begin{verseblock}
+El amado hermano y fiel ministro en el Señor.
+\end{verseblock}
+
+\begin{anchorblock}{fiel ministro}
+
+\headingfive{Pablo vuelve a destacar la fidelidad.}
+
+\begin{itemize}
+\tightlist
+\item
+  Tíquico servía.
+\item
+  Tíquico era amado.
+\item
+  La fidelidad era reconocida.
+\end{itemize}
+
+\headingfive{El servicio beneficia al cuerpo.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-13}
+
+\begin{paraHtwo}Los apóstoles parecen valorar profundamente la fidelidad.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No enfatizan principalmente:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  fama,
+\item
+  influencia,
+\item
+  talento,
+\item
+  reconocimiento.
+\end{itemize}
+
+\begin{paraHtwo}Sino:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  fidelidad,
+\item
+  servicio,
+\item
+  perseverancia,
+\item
+  responsabilidad.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-9}
+
+\begin{paraHtwo}La fidelidad no parece producir autosuficiencia.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}La fidelidad ocurre dentro de la gracia.\end{paraHtwo}
+
+\begin{paraHtwo}Dentro de la obra del Constructor.\end{paraHtwo}
+
+\begin{paraHtwo}Dentro del evangelio.\end{paraHtwo}
+
+\begin{paraHtwo}Porque la confianza continúa estando en Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-10}
+
+\begin{paraHtwo}La fidelidad posee una dimensión generacional.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Lo recibido es encargado.\end{paraHtwo}
+
+\begin{paraHtwo}Lo encargado continúa.\end{paraHtwo}
+
+\begin{paraHtwo}Otros enseñan también.\end{paraHtwo}
+
+\begin{paraHtwo}El centro es preservado.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-14}
+
+\headingfive{¿Será que Cristo valora más la fidelidad que la grandeza?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque Aquel que da crecimiento y recibe toda la gloria, también se
+deleita en reconocer a participantes fieles.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-3}
+
+\headingfive{Si los hombres fieles poseen tanta importancia, ¿qué significa realmente encargar?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque Pablo no habla simplemente de transmitir información.\end{paraHtwo}
+
+\begin{paraHtwo}Habla de algo que debía continuar hasta otros también.\end{paraHtwo}
+
+\section{CAPÍTULO 28 - ¿QUÉ SIGNIFICA
+ENCARGAR?}\label{capuxedtulo-28---quuxe9-significa-encargar}
+
+\begin{paraHone}Después de escuchar a Pablo decir:\end{paraHone}
+
+\begin{paraHone}Encarga esto a hombres fieles\end{paraHone}
+
+\begin{paraHone}surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Qué significa encargar?\end{paraHone}
+
+\begin{paraHone}¿Se trata simplemente de transmitir información?\end{paraHone}
+
+\begin{paraHone}¿Se trata de preservar métodos?\end{paraHone}
+
+\begin{paraHone}¿Se trata de reproducir una personalidad?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{Lo que has oído de mí}\label{lo-que-has-ouxeddo-de-muxed}
+
+\subsubsection{2 Timoteo 2:2}\label{timoteo-22-3}
+
+\begin{verseblock}
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles.
+\end{verseblock}
+
+\begin{anchorblock}{lo que has oído}
+
+\headingfive{Pablo habla de algo recibido.}
+
+\begin{itemize}
+\tightlist
+\item
+  Timoteo había escuchado.
+\item
+  Timoteo había aprendido.
+\item
+  Timoteo había vivido junto a Pablo.
+\end{itemize}
+
+\headingfive{El encargo comienza con algo recibido.}
+
+\end{anchorblock}
+
+\subsection{Sigue las sanas palabras}\label{sigue-las-sanas-palabras}
+
+\subsubsection{2 Timoteo 1:13}\label{timoteo-113}
+
+\begin{verseblock}
+Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{en la fe y el amor en Cristo Jesús}
+
+\headingfive{Pablo no separa el contenido de la vida.}
+
+\begin{itemize}
+\tightlist
+\item
+  Las palabras son importantes.
+\item
+  La fe es importante.
+\item
+  El amor es importante.
+\end{itemize}
+
+\headingfive{Todo permanece relacionado con Cristo.}
+
+\end{anchorblock}
+
+\subsection{Guarda el tesoro}\label{guarda-el-tesoro}
+
+\subsubsection{2 Timoteo 1:14}\label{timoteo-114}
+
+\begin{verseblock}
+Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado.
+\end{verseblock}
+
+\begin{anchorblock}{el tesoro}
+
+\headingfive{Pablo describe algo valioso.}
+
+\begin{itemize}
+\tightlist
+\item
+  El tesoro debe ser guardado.
+\item
+  El Espíritu participa en esta obra.
+\item
+  El centro posee valor.
+\end{itemize}
+
+\headingfive{Lo recibido no debía perderse.}
+
+\end{anchorblock}
+
+\subsection{Yo recibí y entregué}\label{yo-recibuxed-y-entreguuxe9}
+
+\subsubsection{1 Corintios 15:3}\label{corintios-153}
+
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí.
+\end{verseblock}
+
+\begin{anchorblock}{lo mismo que recibí}
+
+\headingfive{Pablo no inventa algo nuevo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo recibió.
+\item
+  Pablo entregó.
+\item
+  Lo entregado permanece siendo lo primero.
+\end{itemize}
+
+\headingfive{Existe continuidad.}
+
+\end{anchorblock}
+
+\subsection{Lo que aprendiste y
+recibiste}\label{lo-que-aprendiste-y-recibiste}
+
+\subsubsection{Filipenses 4:9}\label{filipenses-49}
+
+\begin{verseblock}
+Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
+\end{verseblock}
+
+\begin{anchorblock}{aprendido, recibido, oído y visto}
+
+\headingfive{La participación posee una dimensión visible.}
+
+\begin{itemize}
+\tightlist
+\item
+  La verdad es enseñada.
+\item
+  La verdad es vivida.
+\item
+  La verdad es observada.
+\end{itemize}
+
+\headingfive{El evangelio afecta toda la vida.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-14}
+
+\begin{paraHtwo}Encargar parece ser más que transmitir información.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles no solamente enseñan doctrinas.\end{paraHtwo}
+
+\begin{paraHtwo}También enseñan:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  fe,
+\item
+  amor,
+\item
+  esperanza,
+\item
+  perseverancia,
+\item
+  sufrimiento,
+\item
+  servicio,
+\item
+  confianza en Cristo.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-11}
+
+\begin{paraHtwo}Encargar tampoco parece consistir en preservar una personalidad.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Pablo no intenta reproducir a Pablo.\end{paraHtwo}
+
+\begin{paraHtwo}Pedro no intenta reproducir a Pedro.\end{paraHtwo}
+
+\begin{paraHtwo}Juan no intenta reproducir a Juan.\end{paraHtwo}
+
+\begin{paraHtwo}Todos apuntan hacia Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-12}
+
+\begin{paraHtwo}Lo que se encarga parece tener un centro.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo murió por nuestros pecados.\end{paraHtwo}
+
+\begin{paraHtwo}Fue sepultado.\end{paraHtwo}
+
+\begin{paraHtwo}Resucitó al tercer día conforme a las Escrituras.\end{paraHtwo}
+
+\begin{paraHtwo}Todo lo demás encuentra su lugar alrededor de este centro.\end{paraHtwo}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s}
+
+\begin{paraHtwo}Encargar parece significar ayudar a otros a vivir dentro de la misma
+realidad en la que los apóstoles vivían.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No solamente transmitir información.\end{paraHtwo}
+
+\begin{paraHtwo}Sino ayudar a otros a vivir:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  en Cristo,
+\item
+  por gracia,
+\item
+  en fe,
+\item
+  en amor,
+\item
+  con esperanza,
+\item
+  participando con el Constructor.
+\end{itemize}
+
+\subsection{Una pregunta}\label{una-pregunta-15}
+
+\headingfive{¿Será que encargar consiste en entregar intacto el centro, para que otros también puedan participar con Cristo?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque si el centro permanece,\end{paraHtwo}
+
+\begin{paraHtwo}quizás el Constructor continúa edificando.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-4}
+
+\headingfive{Si el centro debe ser encargado, ¿por qué los apóstoles hablan tanto acerca de padres, madres y ejemplos?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 29 - PADRES, MADRES Y
+EJEMPLOS}\label{capuxedtulo-29---padres-madres-y-ejemplos}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de encargar, surge una
+pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Cómo ocurre esto?\end{paraHone}
+
+\begin{paraHone}¿Simplemente por medio de información?\end{paraHone}
+
+\begin{paraHone}¿Simplemente por medio de reuniones?\end{paraHone}
+
+\begin{paraHone}¿Simplemente por medio de libros?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{No muchos padres}\label{no-muchos-padres}
+
+\subsubsection{1 Corintios 4:14--17}\label{corintios-41417}
+
+\begin{verseblock}
+Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
+\end{verseblock}
+
+\begin{anchorblock}{no tienen muchos padres}
+
+\headingfive{Pablo establece una diferencia.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los maestros poseen importancia.
+\item
+  Pero Pablo habla también como padre.
+\item
+  El evangelio produjo una relación.
+\end{itemize}
+
+\headingfive{La participación posee una dimensión familiar.}
+
+\end{anchorblock}
+
+\begin{anchorblock}{sean imitadores de mí}
+
+\headingfive{Pablo presenta un ejemplo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo no ocupa el centro.
+\item
+  Pablo apunta hacia Cristo.
+\item
+  Timoteo conoce sus caminos.
+\end{itemize}
+
+\headingfive{La verdad también es observada.}
+
+\end{anchorblock}
+
+\subsection{Imitadores de nosotros}\label{imitadores-de-nosotros}
+
+\subsubsection{1 Tesalonicenses 1:6}\label{tesalonicenses-16}
+
+\begin{verseblock}
+Ustedes vinieron a ser imitadores de nosotros y del Señor.
+\end{verseblock}
+
+\begin{anchorblock}{y del Señor}
+
+\headingfive{Los ejemplos no reemplazan a Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Señor permanece en el centro.
+\item
+  Los creyentes observan ejemplos.
+\item
+  La participación es visible.
+\end{itemize}
+
+\headingfive{Los ejemplos ayudan.}
+
+\end{anchorblock}
+
+\subsection{Timoteo conocía el camino de
+Pablo}\label{timoteo-conocuxeda-el-camino-de-pablo}
+
+\subsubsection{2 Timoteo 3:10}\label{timoteo-310}
+
+\begin{verseblock}
+Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, perseverancia.
+\end{verseblock}
+
+\begin{anchorblock}{has seguido}
+
+\headingfive{Timoteo había observado la vida de Pablo.}
+
+\begin{itemize}
+\tightlist
+\item
+  La enseñanza era conocida.
+\item
+  La conducta era conocida.
+\item
+  La fe era conocida.
+\item
+  La perseverancia era conocida.
+\end{itemize}
+
+\headingfive{La verdad era visible.}
+
+\end{anchorblock}
+
+\subsection{Las ancianas enseñan}\label{las-ancianas-enseuxf1an}
+
+\subsubsection{Tito 2:3--5}\label{tito-235}
+
+\begin{verseblock}
+Las ancianas... enseñando lo bueno.
+\end{verseblock}
+
+\begin{anchorblock}{enseñando lo bueno}
+
+\headingfive{Las generaciones participan juntas.}
+
+\begin{itemize}
+\tightlist
+\item
+  Las ancianas participan.
+\item
+  Las jóvenes participan.
+\item
+  La vida es compartida.
+\end{itemize}
+
+\headingfive{La iglesia funciona como una familia.}
+
+\end{anchorblock}
+
+\subsection{Sean ejemplo}\label{sean-ejemplo}
+
+\subsubsection{1 Pedro 5:2--3}\label{pedro-523}
+
+\begin{verseblock}
+Demostrando ser ejemplos del rebaño.
+\end{verseblock}
+
+\begin{anchorblock}{ejemplos del rebaño}
+
+\headingfive{Pedro habla a los pastores.}
+
+\begin{itemize}
+\tightlist
+\item
+  No deben enseñorearse.
+\item
+  Deben servir.
+\item
+  Deben ser ejemplos.
+\end{itemize}
+
+\headingfive{La autoridad se expresa por medio del servicio.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-15}
+
+\begin{paraHtwo}Los apóstoles no parecen confiar solamente en la transferencia de
+información.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}También hablan acerca de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  padres,
+\item
+  madres,
+\item
+  ejemplos,
+\item
+  imitación,
+\item
+  relaciones,
+\item
+  servicio.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-13}
+
+\begin{paraHtwo}Los ejemplos no ocupan el lugar de Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Pablo dice:\end{paraHtwo}
+
+\begin{paraHtwo}Sean imitadores de mí.\end{paraHtwo}
+
+\begin{paraHtwo}Pero también dice:\end{paraHtwo}
+
+\begin{paraHtwo}como yo de Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}El ejemplo posee valor porque apunta hacia Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-14}
+
+\begin{paraHtwo}La iglesia aparece como una familia.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Las generaciones viven juntas.\end{paraHtwo}
+
+\begin{paraHtwo}La verdad es enseñada.\end{paraHtwo}
+
+\begin{paraHtwo}La verdad es observada.\end{paraHtwo}
+
+\begin{paraHtwo}La verdad es compartida.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-16}
+
+\headingfive{¿Será que Cristo ha diseñado la iglesia para que el evangelio sea no solamente enseñado, sino también vivido delante de otros?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles parecen encargar el centro por medio de relaciones
+y ejemplos.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-5}
+
+\headingfive{Si padres, madres y ejemplos poseen tanta importancia, ¿por qué los apóstoles hablan de generaciones?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque lo recibido no termina en una sola generación.\end{paraHtwo}
+
+\section{CAPÍTULO 30}\label{capuxedtulo-30}
+
+\section{GENERACIONES}\label{generaciones}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de padres, madres y
+ejemplos, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Por qué aparece tantas veces la idea de generaciones?\end{paraHone}
+
+\begin{paraHone}¿Por qué Pablo habla de hombres fieles?\end{paraHone}
+
+\begin{paraHone}¿Por qué Pedro desea que recuerden después de su partida?\end{paraHone}
+
+\begin{paraHone}¿Por qué Juan escribe a hijos, padres y jóvenes?\end{paraHone}
+
+\begin{paraHone}¿Por qué la iglesia aparece como una familia?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{Lo que has oído}\label{lo-que-has-ouxeddo-1}
+
+\subsubsection{2 Timoteo 2:2}\label{timoteo-22-4}
+
+\begin{verseblock}
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+\end{verseblock}
+
+\begin{anchorblock}{también a otros}
+
+\headingfive{Pablo contempla más de una generación.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo enseñó.
+\item
+  Timoteo recibió.
+\item
+  Hombres fieles recibirían.
+\item
+  Otros también serían alcanzados.
+\end{itemize}
+
+\headingfive{La verdad debía continuar.}
+
+\end{anchorblock}
+
+\subsection{Yo recibí y entregué}\label{yo-recibuxed-y-entreguuxe9-1}
+
+\subsubsection{1 Corintios 15:3}\label{corintios-153-1}
+
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí.
+\end{verseblock}
+
+\begin{anchorblock}{lo mismo que recibí}
+
+\headingfive{Pablo continúa una cadena.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo recibió.
+\item
+  Pablo entregó.
+\item
+  Otros recibieron.
+\end{itemize}
+
+\headingfive{El centro permanece.}
+
+\end{anchorblock}
+
+\subsection{Después de mi partida}\label{despuuxe9s-de-mi-partida}
+
+\subsubsection{2 Pedro 1:14--15}\label{pedro-11415}
+
+\begin{verseblock}
+También procuraré con diligencia que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas.
+\end{verseblock}
+
+\begin{anchorblock}{después de mi partida}
+
+\headingfive{Pedro piensa en el futuro.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pedro sabe que partirá.
+\item
+  La verdad debía permanecer.
+\item
+  Otros debían recordar.
+\end{itemize}
+
+\headingfive{El centro debía continuar.}
+
+\end{anchorblock}
+
+\subsection{Hijos, jóvenes y padres}\label{hijos-juxf3venes-y-padres}
+
+\subsubsection{1 Juan 2:12--14}\label{juan-21214}
+
+\begin{verseblock}
+Les escribo a ustedes, hijitos... jóvenes... padres.
+\end{verseblock}
+
+\begin{anchorblock}{padres}
+
+\headingfive{Juan observa generaciones.}
+
+\begin{itemize}
+\tightlist
+\item
+  Existen diferentes etapas.
+\item
+  La vida es compartida.
+\item
+  Todos pertenecen a una misma familia.
+\end{itemize}
+
+\headingfive{Cristo permanece siendo el centro.}
+
+\end{anchorblock}
+
+\subsection{Enseña a otros}\label{enseuxf1a-a-otros}
+
+\subsubsection{Tito 2:1--5}\label{tito-215-1}
+
+\begin{verseblock}
+Enseña lo que está de acuerdo con la sana doctrina.
+\end{verseblock}
+
+\begin{anchorblock}{las ancianas enseñen}
+
+\headingfive{Las generaciones viven juntas.}
+
+\begin{itemize}
+\tightlist
+\item
+  Ancianos.
+\item
+  Ancianas.
+\item
+  Jóvenes.
+\item
+  Niños.
+\end{itemize}
+
+\headingfive{La iglesia funciona como una familia.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-16}
+
+\begin{paraHtwo}Los apóstoles saben que partirán.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Pero no hablan con desesperación.\end{paraHtwo}
+
+\begin{paraHtwo}No hablan como si todo dependiera de ellos.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo permanece.\end{paraHtwo}
+
+\begin{paraHtwo}La iglesia permanece.\end{paraHtwo}
+
+\begin{paraHtwo}El evangelio permanece.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-15}
+
+\begin{paraHtwo}Las generaciones no parecen existir para preservar hombres.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Ni Pablo.\end{paraHtwo}
+
+\begin{paraHtwo}Ni Pedro.\end{paraHtwo}
+
+\begin{paraHtwo}Ni Juan.\end{paraHtwo}
+
+\begin{paraHtwo}Ni tradiciones.\end{paraHtwo}
+
+\begin{paraHtwo}Ni métodos.\end{paraHtwo}
+
+\begin{paraHtwo}El centro permanece siendo Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-16}
+
+\begin{paraHtwo}La dimensión generacional no aparece como un programa.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Aparece naturalmente.\end{paraHtwo}
+
+\begin{paraHtwo}Porque la vida produce vida.\end{paraHtwo}
+
+\begin{paraHtwo}La verdad produce verdad.\end{paraHtwo}
+
+\begin{paraHtwo}La gracia produce gracia.\end{paraHtwo}
+
+\begin{paraHtwo}El evangelio continúa.\end{paraHtwo}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s-1}
+
+\begin{paraHtwo}El futuro de la iglesia fue confiado a once hombres.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}No todos los creyentes permanecieron fieles.\end{paraHtwo}
+
+\begin{paraHtwo}No todas las iglesias locales permanecieron.\end{paraHtwo}
+
+\begin{paraHtwo}Algunas lámparas fueron removidas.\end{paraHtwo}
+
+\begin{paraHtwo}Pero la iglesia continúa.\end{paraHtwo}
+
+\begin{paraHtwo}Porque el Constructor continúa.\end{paraHtwo}
+
+\begin{paraHtwo}Y las puertas del Hades no prevalecerán contra ella.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-17}
+
+\headingfive{¿Será que cada generación recibe una responsabilidad sencilla y solemne?}
+
+\begin{paraHtwo}No preservar nuestros métodos.\end{paraHtwo}
+
+\begin{paraHtwo}No preservar nuestros nombres.\end{paraHtwo}
+
+\begin{paraHtwo}No preservar nuestras tradiciones.\end{paraHtwo}
+
+\begin{paraHtwo}Sino entregar intacto el centro a quienes vienen después.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque si Cristo crucificado permanece central,\end{paraHtwo}
+
+\begin{paraHtwo}quizás el Constructor continúa edificando.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-6}
+
+\headingfive{Si las generaciones poseen tanta importancia, ¿cómo se termina bien?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles no solamente comenzaron.\end{paraHtwo}
+
+\begin{paraHtwo}También desearon terminar fielmente.\end{paraHtwo}
+
+\section{CAPÍTULO 31}\label{capuxedtulo-31}
+
+\section{TERMINANDO BIEN}\label{terminando-bien}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de generaciones, surge
+una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Cómo hablan acerca del final?\end{paraHone}
+
+\begin{paraHone}¿Qué desean al acercarse su partida?\end{paraHone}
+
+\begin{paraHone}¿Qué consideran importante?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Pablo}\label{pablo-3}
+
+\subsubsection{2 Timoteo 4:6--8}\label{timoteo-468}
+
+\begin{verseblock}
+Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partida ha llegado.
+\end{verseblock}
+
+\begin{anchorblock}{el tiempo de mi partida}
+
+\headingfive{Pablo reconoce que su carrera está terminando.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo sabe que se acerca el final.
+\item
+  Su atención no se dirige hacia sí mismo.
+\item
+  Habla con esperanza.
+\end{itemize}
+
+\end{anchorblock}
+
+\begin{anchorblock}{he peleado la buena batalla}
+
+\headingfive{Pablo mira hacia atrás.}
+
+\begin{itemize}
+\tightlist
+\item
+  Ha peleado la buena batalla.
+\item
+  Ha terminado la carrera.
+\item
+  Ha guardado la fe.
+\end{itemize}
+
+\headingfive{La fidelidad continúa siendo importante.}
+
+\end{anchorblock}
+
+\begin{anchorblock}{me está reservada la corona de justicia}
+
+\headingfive{Pablo mira hacia adelante.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Señor es juez justo.
+\item
+  El Señor dará la recompensa.
+\item
+  Otros también la recibirán.
+\end{itemize}
+
+\headingfive{La esperanza permanece.}
+
+\end{anchorblock}
+
+\subsection{Pedro}\label{pedro-1}
+
+\subsubsection{2 Pedro 1:13--15}\label{pedro-11315}
+
+\begin{verseblock}
+Sé que pronto debo abandonar este cuerpo terrenal.
+\end{verseblock}
+
+\begin{anchorblock}{procuraré con diligencia}
+
+\headingfive{Pedro piensa más allá de sí mismo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pedro sabe que partirá.
+\item
+  Desea que recuerden estas cosas.
+\item
+  Busca el beneficio de otros.
+\end{itemize}
+
+\headingfive{El centro debe permanecer.}
+
+\end{anchorblock}
+
+\subsection{El escritor de Hebreos}\label{el-escritor-de-hebreos}
+
+\subsubsection{Hebreos 12:1--2}\label{hebreos-1212}
+
+\begin{verseblock}
+Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{puestos los ojos en Jesús}
+
+\headingfive{La carrera posee una dirección.}
+
+\begin{itemize}
+\tightlist
+\item
+  La perseverancia continúa siendo necesaria.
+\item
+  Jesús permanece delante.
+\item
+  La mirada permanece en Él.
+\end{itemize}
+
+\headingfive{Cristo continúa ocupando el centro.}
+
+\end{anchorblock}
+
+\subsection{Juan}\label{juan-2}
+
+\subsubsection{1 Juan 2:28}\label{juan-228}
+
+\begin{verseblock}
+Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos confianza.
+\end{verseblock}
+
+\begin{anchorblock}{permanezcan en Él}
+
+\headingfive{Juan continúa dirigiendo la atención hacia Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo aparecerá.
+\item
+  Los creyentes esperan Su venida.
+\item
+  La confianza permanece relacionada con Él.
+\end{itemize}
+
+\headingfive{La esperanza continúa.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-17}
+
+\begin{paraHtwo}Los apóstoles no parecen obsesionados con preservar sus nombres.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Tampoco parecen preocupados por preservar sus ministerios.\end{paraHtwo}
+
+\begin{paraHtwo}Hablan de:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  guardar la fe,
+\item
+  recordar,
+\item
+  perseverar,
+\item
+  esperar,
+\item
+  mantener la mirada en Jesús.
+\end{itemize}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-17}
+
+\begin{paraHtwo}Terminar bien no parece consistir en llegar a ser grandes.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Parece consistir en permanecer fieles.\end{paraHtwo}
+
+\begin{paraHtwo}Guardar la fe.\end{paraHtwo}
+
+\begin{paraHtwo}Continuar esperando.\end{paraHtwo}
+
+\begin{paraHtwo}Y mantener la mirada en Cristo.\end{paraHtwo}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s-2}
+
+\begin{paraHtwo}Los apóstoles parecen terminar como vivieron.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Con confianza.\end{paraHtwo}
+
+\begin{paraHtwo}No en sí mismos.\end{paraHtwo}
+
+\begin{paraHtwo}Sino en Aquel que comenzó la obra.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-18}
+
+\headingfive{¿Será que terminar bien consiste en permanecer participando con el Constructor hasta el final?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque Aquel que comenzó la obra permanece siendo fiel.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-7}
+
+\headingfive{Si los apóstoles vivían esperando algo, ¿cómo describen ellos el futuro?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 32}\label{capuxedtulo-32}
+
+\section{HASTA QUE ÉL VENGA}\label{hasta-que-uxe9l-venga}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de terminar bien,
+surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Qué esperaban?\end{paraHone}
+
+\begin{paraHone}¿Cómo describen el futuro?\end{paraHone}
+
+\begin{paraHone}¿Qué ocupaba su esperanza?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que hablen.\end{paraHone}
+
+\subsection{Esperando a Su Hijo}\label{esperando-a-su-hijo-1}
+
+\subsubsection{1 Tesalonicenses 1:9--10}\label{tesalonicenses-1910-1}
+
+\begin{verseblock}
+Esperan a Su Hijo de los cielos.
+\end{verseblock}
+
+\begin{anchorblock}{esperan a Su Hijo}
+
+\headingfive{La esperanza posee una Persona.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo permanece delante de ellos.
+\item
+  La iglesia vive esperando Su regreso.
+\item
+  La esperanza continúa relacionada con Él.
+\end{itemize}
+
+\headingfive{La mirada permanece hacia adelante.}
+
+\end{anchorblock}
+
+\subsection{Nuestra ciudadanía está en los
+cielos}\label{nuestra-ciudadanuxeda-estuxe1-en-los-cielos}
+
+\subsubsection{Filipenses 3:20--21}\label{filipenses-32021}
+
+\begin{verseblock}
+Esperamos ardientemente un Salvador, el Señor Jesucristo.
+\end{verseblock}
+
+\begin{anchorblock}{esperamos ardientemente}
+
+\headingfive{Pablo describe una expectativa.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo regresará.
+\item
+  Los creyentes le esperan.
+\item
+  La esperanza permanece viva.
+\end{itemize}
+
+\headingfive{El futuro pertenece al Señor.}
+
+\end{anchorblock}
+
+\subsection{La esperanza
+bienaventurada}\label{la-esperanza-bienaventurada}
+
+\subsubsection{Tito 2:11--13}\label{tito-21113}
+
+\begin{verseblock}
+Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{aguardando}
+
+\headingfive{La gracia produce expectativa.}
+
+\begin{itemize}
+\tightlist
+\item
+  La gracia ha aparecido.
+\item
+  La gracia enseña.
+\item
+  La esperanza permanece.
+\end{itemize}
+
+\headingfive{Cristo continúa ocupando el centro.}
+
+\end{anchorblock}
+
+\subsection{Aparecerá por segunda
+vez}\label{apareceruxe1-por-segunda-vez}
+
+\subsubsection{Hebreos 9:28}\label{hebreos-928}
+
+\begin{verseblock}
+Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvación de los que ansiosamente lo esperan.
+\end{verseblock}
+
+\begin{anchorblock}{aparecerá por segunda vez}
+
+\headingfive{El futuro permanece relacionado con Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo volverá.
+\item
+  Los creyentes le esperan.
+\item
+  La esperanza permanece firme.
+\end{itemize}
+
+\headingfive{La atención permanece en Él.}
+
+\end{anchorblock}
+
+\subsection{Cuando Él se manifieste}\label{cuando-uxe9l-se-manifieste}
+
+\subsubsection{1 Juan 3:2--3}\label{juan-323}
+
+\begin{verseblock}
+Cuando Él se manifieste, seremos semejantes a Él.
+\end{verseblock}
+
+\begin{anchorblock}{seremos semejantes a Él}
+
+\headingfive{Juan dirige la mirada hacia el futuro.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo será visto.
+\item
+  Los creyentes serán semejantes a Él.
+\item
+  La esperanza produce pureza.
+\end{itemize}
+
+\headingfive{Cristo continúa siendo la meta.}
+
+\end{anchorblock}
+
+\subsection{El Espíritu y la novia}\label{el-espuxedritu-y-la-novia}
+
+\subsubsection{Apocalipsis 22:17}\label{apocalipsis-2217}
+
+\begin{verseblock}
+El Espíritu y la novia dicen: Ven.
+\end{verseblock}
+
+\begin{anchorblock}{Ven}
+
+\headingfive{La esperanza termina en una Persona.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo viene.
+\item
+  La iglesia le espera.
+\item
+  El Espíritu participa en esta expectativa.
+\end{itemize}
+
+\headingfive{La comunión permanece.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-18}
+
+\begin{paraHtwo}Los apóstoles no parecen vivir solamente mirando hacia atrás.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Recuerdan.\end{paraHtwo}
+
+\begin{paraHtwo}Participan.\end{paraHtwo}
+
+\begin{paraHtwo}Sirven.\end{paraHtwo}
+
+\begin{paraHtwo}Perseveran.\end{paraHtwo}
+
+\begin{paraHtwo}Pero también esperan.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-18}
+
+\begin{paraHtwo}La esperanza futura no desplaza la participación presente.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}La esperanza produce:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  perseverancia,
+\item
+  santidad,
+\item
+  servicio,
+\item
+  paciencia,
+\item
+  gozo.
+\end{itemize}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s-3}
+
+\begin{paraHtwo}Los apóstoles no esperan simplemente acontecimientos.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Esperan a Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}La esperanza posee una Persona.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-19}
+
+\headingfive{¿Será que toda la participación presente se desarrolla a la luz de Su venida?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque los apóstoles viven, sirven y perseveran esperando a Aquel que
+prometió volver.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-8}
+
+\headingfive{Si Cristo comenzó la obra, y los creyentes participan con Él hasta Su venida, ¿quién la terminará finalmente?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\section{CAPÍTULO 33}\label{capuxedtulo-33}
+
+\section{EL CONSTRUCTOR PRESENTARÁ SU
+IGLESIA}\label{el-constructor-presentaruxe1-su-iglesia}
+
+\begin{paraHone}Después de escuchar a los apóstoles hablar acerca de la venida de
+Cristo, surge una pregunta natural.\end{paraHone}
+
+\begin{paraHone}¿Quién terminará finalmente la obra?\end{paraHone}
+
+\begin{paraHone}¿Quién presentará a la iglesia?\end{paraHone}
+
+\begin{paraHone}¿Quién llevará la obra hasta su consumación?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que los apóstoles hablen.\end{paraHone}
+
+\subsection{Él la presentará a Sí
+mismo}\label{uxe9l-la-presentaruxe1-a-suxed-mismo}
+
+\subsubsection{Efesios 5:25--27}\label{efesios-52527}
+
+\begin{verseblock}
+Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela a Sí mismo.
+\end{verseblock}
+
+\begin{anchorblock}{a fin de presentársela a Sí mismo}
+
+\headingfive{Cristo continúa siendo el Constructor.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo amó.
+\item
+  Cristo se entregó.
+\item
+  Cristo santifica.
+\item
+  Cristo presenta.
+\end{itemize}
+
+\headingfive{La iglesia pertenece a Cristo.}
+
+\end{anchorblock}
+
+\subsection{Él completará la obra}\label{uxe9l-completaruxe1-la-obra}
+
+\subsubsection{Filipenses 1:6}\label{filipenses-16-1}
+
+\begin{verseblock}
+El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{la perfeccionará}
+
+\headingfive{La confianza de Pablo permanece en Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él comenzó.
+\item
+  Él continúa obrando.
+\item
+  Él completará la obra.
+\end{itemize}
+
+\headingfive{La fidelidad pertenece al Señor.}
+
+\end{anchorblock}
+
+\subsection{Él también lo hará}\label{uxe9l-tambiuxe9n-lo-haruxe1}
+
+\subsubsection{1 Tesalonicenses 5:23--24}\label{tesalonicenses-52324-1}
+
+\begin{verseblock}
+Fiel es Aquel que los llama, el cual también lo hará.
+\end{verseblock}
+
+\begin{anchorblock}{Él también lo hará}
+
+\headingfive{Pablo descansa en la fidelidad de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Dios llama.
+\item
+  Dios santifica.
+\item
+  Dios preserva.
+\item
+  Dios completa.
+\end{itemize}
+
+\headingfive{La esperanza permanece en Él.}
+
+\end{anchorblock}
+
+\subsection{Poderoso para guardarlos}\label{poderoso-para-guardarlos}
+
+\subsubsection{Judas 24}\label{judas-24}
+
+\begin{verseblock}
+A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha.
+\end{verseblock}
+
+\begin{anchorblock}{presentarlos sin mancha}
+
+\headingfive{La preservación pertenece a Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Dios guarda.
+\item
+  Dios sostiene.
+\item
+  Dios presenta.
+\end{itemize}
+
+\headingfive{La gloria pertenece a Él.}
+
+\end{anchorblock}
+
+\subsection{La esposa se ha preparado}\label{la-esposa-se-ha-preparado}
+
+\subsubsection{Apocalipsis 19:7--8}\label{apocalipsis-1978}
+
+\begin{verseblock}
+Han llegado las bodas del Cordero y Su esposa se ha preparado.
+\end{verseblock}
+
+\begin{anchorblock}{las bodas del Cordero}
+
+\headingfive{La historia se dirige hacia una presentación.}
+
+\begin{itemize}
+\tightlist
+\item
+  El Cordero permanece ocupando el centro.
+\item
+  La esposa es presentada.
+\item
+  El gozo pertenece al Señor.
+\end{itemize}
+
+\headingfive{La esperanza alcanza su cumplimiento.}
+
+\end{anchorblock}
+
+\subsection{Él es el Alfa y la Omega}\label{uxe9l-es-el-alfa-y-la-omega}
+
+\subsubsection{Apocalipsis 22:13}\label{apocalipsis-2213}
+
+\begin{verseblock}
+Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin.
+\end{verseblock}
+
+\begin{anchorblock}{el principio y el fin}
+
+\headingfive{Cristo abarca toda la obra.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él comenzó.
+\item
+  Él permanece.
+\item
+  Él consumará.
+\end{itemize}
+
+\headingfive{El Constructor continúa siendo el mismo.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-19}
+
+\begin{paraHtwo}Los apóstoles trabajan intensamente.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Pero su confianza no descansa en ellos mismos.\end{paraHtwo}
+
+\begin{paraHtwo}Descansa en Cristo.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-19}
+
+\begin{paraHtwo}La participación es real.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Los creyentes sirven.\end{paraHtwo}
+
+\begin{paraHtwo}Los creyentes enseñan.\end{paraHtwo}
+
+\begin{paraHtwo}Los creyentes encargan.\end{paraHtwo}
+
+\begin{paraHtwo}Los creyentes perseveran.\end{paraHtwo}
+
+\begin{paraHtwo}Pero finalmente es Cristo quien presenta.\end{paraHtwo}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s-4}
+
+\begin{paraHtwo}La obra comienza y termina con Cristo.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo amó.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo se entregó.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo edifica.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo santifica.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo preserva.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo completa.\end{paraHtwo}
+
+\begin{paraHtwo}Cristo presenta.\end{paraHtwo}
+
+\subsection{Una pregunta}\label{una-pregunta-20}
+
+\headingfive{¿Será que toda la participación ocurre dentro de la fidelidad del Constructor?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque Aquel que dijo:\end{paraHtwo}
+
+\begin{paraHtwo}Edificaré Mi iglesia\end{paraHtwo}
+
+\begin{paraHtwo}también dirá:\end{paraHtwo}
+
+\begin{paraHtwo}Aquí está la esposa.\end{paraHtwo}
+
+\subsection{Otra pregunta}\label{otra-pregunta-9}
+
+\headingfive{Si el Constructor recibe toda la gloria, ¿dónde terminan finalmente los apóstoles?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque ellos no terminan exaltándose a sí mismos.\end{paraHtwo}
+
+\begin{paraHtwo}Terminan adorando.\end{paraHtwo}
+
+\section{CAPÍTULO 34}\label{capuxedtulo-34}
+
+\section{LA GLORIA ES DEL
+CONSTRUCTOR}\label{la-gloria-es-del-constructor}
+
+\begin{paraHone}Después de escuchar a Jesús y a los apóstoles hablar acerca de
+participación, fidelidad, generaciones, recompensas y esperanza futura,
+surge una última pregunta.\end{paraHone}
+
+\begin{paraHone}¿Dónde termina todo?\end{paraHone}
+
+\begin{paraHone}¿Quién recibe la gloria?\end{paraHone}
+
+\begin{paraHone}Permitiremos nuevamente que las Escrituras hablen.\end{paraHone}
+
+\subsection{Yo edificaré Mi iglesia}\label{yo-edificaruxe9-mi-iglesia}
+
+\subsubsection{Mateo 16:18}\label{mateo-1618-1}
+
+\begin{verseblock}
+Edificaré Mi iglesia.
+\end{verseblock}
+
+\begin{anchorblock}{Edificaré}
+
+\headingfive{La obra pertenece a Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo edifica.
+\item
+  La iglesia le pertenece.
+\item
+  El Constructor permanece siendo el mismo.
+\end{itemize}
+
+\headingfive{La gloria pertenece al Constructor.}
+
+\end{anchorblock}
+
+\subsection{Dios da el crecimiento}\label{dios-da-el-crecimiento}
+
+\subsubsection{1 Corintios 3:6--7}\label{corintios-367-2}
+
+\begin{verseblock}
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+\end{verseblock}
+
+\begin{anchorblock}{Dios ha dado el crecimiento}
+
+\headingfive{Pablo reconoce el lugar de cada uno.}
+
+\begin{itemize}
+\tightlist
+\item
+  Pablo plantó.
+\item
+  Apolos regó.
+\item
+  Dios dio el crecimiento.
+\end{itemize}
+
+\headingfive{Los participantes son reales.}
+
+\headingfive{Pero el crecimiento pertenece a Dios.}
+
+\end{anchorblock}
+
+\begin{anchorblock}{ni el que planta es algo}
+
+\headingfive{La atención no permanece en los hombres.}
+
+\begin{itemize}
+\tightlist
+\item
+  Los siervos participan.
+\item
+  Los siervos sirven.
+\item
+  Dios produce la vida.
+\end{itemize}
+
+\headingfive{La gloria pertenece al Constructor.}
+
+\end{anchorblock}
+
+\subsection{El que comenzó la buena
+obra}\label{el-que-comenzuxf3-la-buena-obra}
+
+\subsubsection{Filipenses 1:6}\label{filipenses-16-2}
+
+\begin{verseblock}
+El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+\end{verseblock}
+
+\begin{anchorblock}{la perfeccionará}
+
+\headingfive{Pablo descansa en la fidelidad de Dios.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él comenzó.
+\item
+  Él continúa obrando.
+\item
+  Él completará la obra.
+\end{itemize}
+
+\headingfive{La confianza permanece en Él.}
+
+\end{anchorblock}
+
+\subsection{Él también lo hará}\label{uxe9l-tambiuxe9n-lo-haruxe1-2}
+
+\subsubsection{1 Tesalonicenses 5:23--24}\label{tesalonicenses-52324-2}
+
+\begin{verseblock}
+Fiel es Aquel que los llama, el cual también lo hará.
+\end{verseblock}
+
+\begin{anchorblock}{Él también lo hará}
+
+\headingfive{Dios permanece siendo fiel.}
+
+\begin{itemize}
+\tightlist
+\item
+  Él llama.
+\item
+  Él santifica.
+\item
+  Él preserva.
+\item
+  Él completa.
+\end{itemize}
+
+\headingfive{La gloria pertenece al Constructor.}
+
+\end{anchorblock}
+
+\subsection{Él la presentará a Sí
+mismo}\label{uxe9l-la-presentaruxe1-a-suxed-mismo-1}
+
+\subsubsection{Efesios 5:25--27}\label{efesios-52527-1}
+
+\begin{verseblock}
+A fin de presentársela a Sí mismo.
+\end{verseblock}
+
+\begin{anchorblock}{presentársela a Sí mismo}
+
+\headingfive{La obra termina en Cristo.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo amó.
+\item
+  Cristo se entregó.
+\item
+  Cristo santifica.
+\item
+  Cristo presenta.
+\end{itemize}
+
+\headingfive{La iglesia pertenece a Cristo.}
+
+\end{anchorblock}
+
+\subsection{Dios será todo en todos}\label{dios-seruxe1-todo-en-todos}
+
+\subsubsection{1 Corintios 15:24--28}\label{corintios-152428}
+
+\begin{verseblock}
+Entonces vendrá el fin... para que Dios sea todo en todos.
+\end{verseblock}
+
+\begin{anchorblock}{Dios sea todo en todos}
+
+\headingfive{La historia posee una consumación.}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo reina.
+\item
+  El reino es entregado.
+\item
+  El fin llega.
+\item
+  Dios es todo en todos.
+\end{itemize}
+
+\headingfive{Todo termina en Él.}
+
+\end{anchorblock}
+
+\subsection{Una observación}\label{una-observaciuxf3n-20}
+
+\begin{paraHtwo}Los participantes son reales.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Los creyentes:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  participan,
+\item
+  sirven,
+\item
+  enseñan,
+\item
+  perseveran,
+\item
+  encargan,
+\item
+  reinan con Cristo.
+\end{itemize}
+
+\begin{paraHtwo}Pero nunca ocupan el centro.\end{paraHtwo}
+
+\subsection{Otra observación}\label{otra-observaciuxf3n-20}
+
+\begin{paraHtwo}Los participantes vienen y van.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Los apóstoles partieron.\end{paraHtwo}
+
+\begin{paraHtwo}Las generaciones pasan.\end{paraHtwo}
+
+\begin{paraHtwo}Las iglesias locales aparecen y desaparecen.\end{paraHtwo}
+
+\begin{paraHtwo}Pero Cristo permanece.\end{paraHtwo}
+
+\begin{paraHtwo}Y el Constructor continúa edificando.\end{paraHtwo}
+
+\subsection{Una observación más}\label{una-observaciuxf3n-muxe1s-5}
+
+\begin{paraHtwo}La mayor fidelidad no parece consistir en preservar nuestros nombres.\end{paraHtwo}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Ni nuestros métodos.\end{paraHtwo}
+
+\begin{paraHtwo}Ni nuestras tradiciones.\end{paraHtwo}
+
+\begin{paraHtwo}Ni nuestras organizaciones.\end{paraHtwo}
+
+\begin{paraHtwo}Sino en entregar intacto el centro.\end{paraHtwo}
+
+\subsection{Una pregunta final}\label{una-pregunta-final}
+
+\headingfive{¿Será que participar con el Constructor es un privilegio, mientras que la gloria pertenece únicamente al Constructor?}
+
+\begin{paraHtwo}Interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Muy interesante.\end{paraHtwo}
+
+\begin{paraHtwo}Porque:\end{paraHtwo}
+
+\begin{itemize}
+\tightlist
+\item
+  Él amó.
+\item
+  Él se entregó.
+\item
+  Él llamó.
+\item
+  Él salvó.
+\item
+  Él edificó.
+\item
+  Él dio crecimiento.
+\item
+  Él sostuvo.
+\item
+  Él preservó.
+\item
+  Él completó.
+\item
+  Él presentó.
+\end{itemize}
+
+\begin{paraHtwo}Y cuando todo haya sido consumado, los participantes adorarán. Porque la
+gloria es del Constructor.\end{paraHtwo}
+
+\section{Capítulo 35}\label{capuxedtulo-35}
+
+\begin{paraHone}Al comenzar este estudio, la pregunta parecía sencilla.\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué es el discipulado?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Naturalmente esperábamos encontrar una respuesta clara.\end{paraHone}
+
+\begin{paraHone}Pero a medida que seguimos las Escrituras, las preguntas comenzaron a
+conducirnos.\end{paraHone}
+
+\begin{paraHone}Primero preguntamos:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Quién es el Constructor?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y escuchamos a Jesús decir:\end{paraHone}
+
+\begin{paraHone}Yo edificaré Mi iglesia.\end{paraHone}
+
+\begin{paraHone}Luego preguntamos:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué está edificando?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y encontramos un cuerpo, una familia, una esposa y muchos hermanos
+conformados a Su imagen.\end{paraHone}
+
+\begin{paraHone}Después preguntamos:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Cómo edifica?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y descubrimos que el crecimiento pertenece a Dios.\end{paraHone}
+
+\begin{paraHone}Más adelante preguntamos:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Dónde lleva a cabo Su obra?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y encontramos una iglesia.\end{paraHone}
+
+\begin{paraHone}Una comunión.\end{paraHone}
+
+\begin{paraHone}Una vida compartida.\end{paraHone}
+
+\begin{paraHone}Luego llegamos al final de Hechos.\end{paraHone}
+
+\begin{paraHone}Y ocurrió algo inesperado.\end{paraHone}
+
+\begin{paraHone}La palabra discípulo desapareció.\end{paraHone}
+
+\begin{paraHone}Entonces preguntamos:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué ocurrió?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y decidimos seguir escuchando.\end{paraHone}
+
+\begin{paraHone}Abrimos las epístolas.\end{paraHone}
+
+\begin{paraHone}Escuchamos a los apóstoles.\end{paraHone}
+
+\begin{paraHone}Y comenzamos a preguntar:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué ocupa su atención?\end{paraHone}
+\end{quote}
+
+\begin{quote}
+\begin{paraHone}¿Qué están procurando producir?\end{paraHone}
+\end{quote}
+
+\begin{quote}
+\begin{paraHone}¿Qué esperan?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y algo comenzó a sorprendernos.\end{paraHone}
+
+\begin{paraHone}Los apóstoles hablan mucho.\end{paraHone}
+
+\begin{paraHone}Pero nunca vuelven a hablar del discipulado.\end{paraHone}
+
+\begin{paraHone}Sin embargo, están ocupados con:\end{paraHone}
+
+\begin{itemize}
+\tightlist
+\item
+  Cristo,
+\item
+  la iglesia,
+\item
+  la fe,
+\item
+  el amor,
+\item
+  la esperanza,
+\item
+  la perseverancia,
+\item
+  la madurez,
+\item
+  la gloria futura.
+\end{itemize}
+
+\begin{paraHone}Entonces comenzamos a preguntar:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿En qué está ocupado Cristo?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y descubrimos que el Constructor continúa ocupado.\end{paraHone}
+
+\begin{paraHone}Santifica.\end{paraHone}
+
+\begin{paraHone}Sustenta.\end{paraHone}
+
+\begin{paraHone}Intercede.\end{paraHone}
+
+\begin{paraHone}Corrige.\end{paraHone}
+
+\begin{paraHone}Disciplina.\end{paraHone}
+
+\begin{paraHone}Preserva.\end{paraHone}
+
+\begin{paraHone}Presenta.\end{paraHone}
+
+\begin{paraHone}Entonces surgió otra pregunta.\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Cómo participan los apóstoles?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y descubrimos algo hermoso.\end{paraHone}
+
+\begin{paraHone}Trabajan.\end{paraHone}
+
+\begin{paraHone}Sirven.\end{paraHone}
+
+\begin{paraHone}Enseñan.\end{paraHone}
+
+\begin{paraHone}Advierten.\end{paraHone}
+
+\begin{paraHone}Sufren.\end{paraHone}
+
+\begin{paraHone}Perseveran.\end{paraHone}
+
+\begin{paraHone}Pero no parecen intentar reemplazar al Constructor.\end{paraHone}
+
+\begin{paraHone}Participan.\end{paraHone}
+
+\begin{paraHone}Y participan con confianza.\end{paraHone}
+
+\begin{paraHone}Poco a poco, el centro de gravedad comenzó a cambiar.\end{paraHone}
+
+\begin{paraHone}Comenzamos preguntando:\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué debemos hacer?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Pero las Escrituras repetidamente nos llevaron hacia otra pregunta.\end{paraHone}
+
+\begin{quote}
+\begin{paraHone}¿Qué está haciendo Cristo?\end{paraHone}
+\end{quote}
+
+\begin{paraHone}Y quizás esa pregunta terminó iluminando todas las demás.\end{paraHone}
+
+\begin{paraHone}No comenzamos con esta conclusión.\end{paraHone}
+
+\begin{paraHone}Llegamos aquí siguiendo las preguntas del texto.\end{paraHone}
+
+\begin{paraHone}Y después de escuchar a Jesús y a los apóstoles, quizás hemos
+descubierto algo.\end{paraHone}
+
+\begin{paraHone}Participar con el Constructor es un privilegio.\end{paraHone}
+
+\begin{paraHone}Pero la gloria pertenece al Constructor.\end{paraHone}
+
+\subsubsection{Judas 24--25}\label{judas-2425}
+
+\begin{verseblock}
+> \scripture{Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén}.
+\end{verseblock}
+
+\subsubsection{Nota para añadir al
+manual}\label{nota-para-auxf1adir-al-manual}
+
+\begin{verseblock}
+La desaparición de la palabra discípulo después de Hechos 21:16 no ocurre aisladamente. Al avanzar hacia las epístolas, también desaparece gran parte del lenguaje característico de los Evangelios. Ya no encontramos: - Sígueme. - Vengan en pos de Mí. - Los haré pescadores de hombres. - Toma tu cruz y sígueme. - Hagan discípulos. - Rabí. - Discípulo. Esto no significa necesariamente que la realidad haya desaparecido. Pero sí significa que el lenguaje cambia. Y esto produce otra pregunta importante. ¿Esperamos que los apóstoles continúen hablando con el mismo lenguaje de los Evangelios? ¿O debemos permitirles hablar con su propio lenguaje? Por ahora no responderemos. Simplemente observamos el hecho. No solamente desaparece la palabra discípulo. Desaparece toda una familia de expresiones características del ministerio terrenal de Jesús. Y esto nos obliga a escuchar cuidadosamente cómo hablan ahora los apóstoles. Los apóstoles no presentan la participación cristiana como una obra realizada desde la ansiedad del rendimiento humano. La presentan dentro de una atmósfera de confianza en Cristo. Los creyentes trabajan, pero Dios obra en ellos. Los siervos plantan y riegan, pero Dios da el crecimiento. Pablo labora, pero no él, sino la gracia de Dios con él. La iglesia persevera, pero fiel es Aquel que la llama, y Él también lo hará. Por eso la participación apostólica no suena frenética, sino libre y gozosa: porque la confianza no descansa en el siervo, sino en el Señor que edifica, sostiene y completa Su obra.
+\end{verseblock}
+
+\begin{paraHthree}La desaparición de la palabra discípulo después de Hechos 21:16 no
+ocurre aisladamente. Al avanzar hacia las epístolas, también desaparece
+gran parte del lenguaje característico de los Evangelios. Ya no
+encontramos: - Sígueme. - Vengan en pos de Mí. - Los haré pescadores de
+hombres. - Toma tu cruz y sígueme. - Hagan discípulos. - Rabí. -
+Discípulo. Esto no significa necesariamente que la realidad haya
+desaparecido. Pero sí significa que el lenguaje cambia. Y esto produce
+otra pregunta importante. ¿Esperamos que los apóstoles continúen
+hablando con el mismo lenguaje de los Evangelios? ¿O debemos permitirles
+hablar con su propio lenguaje? Por ahora no responderemos. Simplemente
+observamos el hecho. No solamente desaparece la palabra discípulo.
+Desaparece toda una familia de expresiones características del
+ministerio terrenal de Jesús. Y esto nos obliga a escuchar
+cuidadosamente cómo hablan ahora los apóstoles. Los apóstoles no
+presentan la participación cristiana como una obra realizada desde la
+ansiedad del rendimiento humano. La presentan dentro de una atmósfera de
+confianza en Cristo. Los creyentes trabajan, pero Dios obra en ellos.
+Los siervos plantan y riegan, pero Dios da el crecimiento. Pablo labora,
+pero no él, sino la gracia de Dios con él. La iglesia persevera, pero
+fiel es Aquel que la llama, y Él también lo hará. Por eso la
+participación apostólica no suena frenética, sino libre y gozosa: porque
+la confianza no descansa en el siervo, sino en el Señor que edifica,
+sostiene y completa Su obra.\end{paraHthree}  % Real content begins here
+\end{document}

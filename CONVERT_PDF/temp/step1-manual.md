@@ -53,7 +53,7 @@ cover: "images/portada.png"
 ##### Por lo tanto, parece natural comenzar allí. Pero casi inmediatamente surge una pregunta.
 > "¿Qué es el discipulado?”
 
-##### La palabra *discipulado* es usada con frecuencia, pero el Nuevo Testamento nunca parece detenerse para definirla.
+##### La palabra \scripture{discipulado} es usada con frecuencia, pero el Nuevo Testamento nunca parece detenerse para definirla.
 > "Si Jesús mandó hacer discípulos, seguramente explicó lo que quiso decir.”
 
 -   ¿Dónde?
@@ -74,19 +74,19 @@ cover: "images/portada.png"
 Las preguntas aumentaban. Pero las respuestas no parecían tan evidentes. Entonces decidimos hacer algo sencillo.
 En lugar de comenzar con nuestras conclusiones, decidimos seguir el texto bíblico.
 
-Y mientras seguíamos el hilo del *hagan discípulos*, otra declaración comenzó a aparecer repetidamente.
+Y mientras seguíamos el hilo del \scripture{hagan discípulos}, otra declaración comenzó a aparecer repetidamente.
 
 No:
-> *Vayan y edifiquen Mi iglesia*.
+> \scripture{Vayan y edifiquen Mi iglesia}.
 Sino:
-> *Yo edificaré Mi iglesia*.
+> \scripture{Yo edificaré Mi iglesia}.
 
 ##### Y una nueva pregunta comenzó a imponerse sobre todas las demás.
 
 ##### Antes de preguntar:
-> *¿Cómo hacemos discípulos?*
+> \scripture{¿Cómo hacemos discípulos?}
 ##### Tal vez debemos preguntar primero:
-> *¿Quién es el Constructor?*
+> \scripture{¿Quién es el Constructor?}
 
 # CAPÍTULO 2 - EL CONSTRUCTOR
 
@@ -285,7 +285,7 @@ Pero inmediatamente surge otra pregunta.
 
 Al llegar a las cartas del Nuevo Testamento, descubrimos algo interesante. Los apóstoles no describen la iglesia mediante una sola imagen. La presentan de muchas maneras. Cada una de ellas nos permite ver algo de la obra que Cristo está realizando.
 
-##### **Un cuerpo**
+##### \textbf{Un cuerpo}
 
 ### Efesios 4:15-16
 sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo, de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
@@ -297,7 +297,7 @@ sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel qu
 -   Los creyentes son miembros.
 -   El cuerpo crece juntamente.
 
-##### **Una casa**
+##### \textbf{Una casa}
 
 ### Efesios 2:19
 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
@@ -308,7 +308,7 @@ Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadano
 -   Dios es presentado como Padre.
 -   Los creyentes son presentados como familia.
 
-##### **Un templo**
+##### \textbf{Un templo}
 
 ### Efesios 2:21-22
 en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor, en quien también ustedes son juntamente edificados para morada de Dios en el Espíritu.
@@ -319,7 +319,7 @@ en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo 
 -   El crecimiento ocurre juntamente.
 -   La meta es una morada para Dios.
 
-##### **Un hombre nuevo**
+##### \textbf{Un hombre nuevo}
 
 ### Efesios 2:15
 aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz.
@@ -330,7 +330,7 @@ aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en 
 -   Judíos y gentiles son unidos en Cristo.
 -   La paz es producida por Él.
 
-##### **Una esposa**
+##### \textbf{Una esposa}
 
 ### Efesios 5:25-27
 Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
@@ -342,7 +342,7 @@ Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habién
 -   Cristo la santifica.
 -   Cristo la prepara.
 
-##### **Muchos hermanos conformados a Su Hijo**
+##### \textbf{Muchos hermanos conformados a Su Hijo}
 
 ### Romanos 8:29
 Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
@@ -373,7 +373,7 @@ Porque a los que de antemano conoció, también los predestinó a ser hechos con
 
 ###### Pero la obra sigue siendo Suya.
 
-##### **El evangelio es el poder de Dios**
+##### \textbf{El evangelio es el poder de Dios}
 
 ### Romanos 1:16
 Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree; del judío primeramente y también del griego.
@@ -384,7 +384,7 @@ Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvaci
 -   El evangelio ocupa un lugar central.
 -   La obra depende de Dios.
 
-##### **El Señor envía a Sus siervos**
+##### \textbf{El Señor envía a Sus siervos}
 
 ### Mateo 28:19-20
 Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y Yo estoy con ustedes todos los días, hasta el fin del mundo.
@@ -396,7 +396,7 @@ Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nom
 -   Los discípulos enseñan.
 -   Cristo permanece con ellos.
 
-##### **Cristo da dones a Su iglesia**
+##### \textbf{Cristo da dones a Su iglesia}
 
 ### Efesios 4:11-12
 Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.
@@ -407,7 +407,7 @@ Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a
 -   Los santos son equipados.
 -   La edificación pertenece al cuerpo.
 
-##### **La verdad es transmitida a otros**
+##### \textbf{La verdad es transmitida a otros}
 
 ### 2 Timoteo 2:2
 Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
@@ -419,7 +419,7 @@ Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombre
 -   Timoteo debía encargarlo a otros.
 -   Otros también enseñarían.
 
-##### **Dios da crecimiento**
+##### \textbf{Dios da crecimiento}
 
 ### 1 Corintios 3:6
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
@@ -456,7 +456,7 @@ de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las 
 -   Cada miembro participa.
 -   La edificación ocurre en amor.
 
-##### **Los creyentes son una familia**
+##### \textbf{Los creyentes son una familia}
 
 ### Efesios 2:19
 Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
@@ -479,7 +479,7 @@ El ojo no puede decir a la mano: No te necesito; ni tampoco la cabeza a los pies
 -   Los miembros se necesitan.
 -   Los miembros sirven unos a otros.
 
-##### **Los creyentes viven la verdad unos con otros**
+##### \textbf{Los creyentes viven la verdad unos con otros}
 
 ### Romanos 12:10
 Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
@@ -491,7 +491,7 @@ Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferenc
 -   Los creyentes se honran mutuamente.
 -   Los creyentes soportan cargas reales.
 
-##### **Las generaciones viven juntas**
+##### \textbf{Las generaciones viven juntas}
 
 ### Tito 2:1-5
 Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
@@ -503,7 +503,7 @@ Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
 -   Las generaciones conviven.
 -   La verdad es vivida.
 
-##### **La iglesia perseveraba junta**
+##### \textbf{La iglesia perseveraba junta}
 
 ### Hechos 2:42
 Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
@@ -525,9 +525,9 @@ Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión
 > "¿Existe una meta?"
 > "¿Tiene Cristo un propósito para Su iglesia?"
 
-##### Las Escrituras presentan una obra que avanza hacia un *hasta*.
+##### Las Escrituras presentan una obra que avanza hacia un \scripture{hasta}.
 
-##### **Hasta que todos lleguemos**
+##### \textbf{Hasta que todos lleguemos}
 
 ### Efesios 4:13
 hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
@@ -769,7 +769,7 @@ Vayan, pues, y hagan discípulos de todas las naciones...
 ##### Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.
 
 ##### Después de todo, Jesús había dicho:
-> *Vayan y hagan discípulos…*
+> \scripture{Vayan y hagan discípulos…}
 
 Por eso surgen preguntas inevitables.
 
@@ -815,7 +815,7 @@ Por eso seguiremos escuchando.
 
 ## Una observación
 
-La desaparición de la palabra *discípulo* después de Hechos 21:16 no ocurre aisladamente.
+La desaparición de la palabra \scripture{discípulo} después de Hechos 21:16 no ocurre aisladamente.
 
 Al avanzar hacia las epístolas, también desaparece gran parte del lenguaje característico de los Evangelios.
 
@@ -4394,7 +4394,7 @@ Participar con el Constructor es un privilegio.
 Pero la gloria pertenece al Constructor.
 
 ### Judas 24–25
-> *Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén*.
+> \scripture{Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén}.
 
 ### Nota para añadir al manual
 La desaparición de la palabra discípulo después de Hechos 21:16 no ocurre aisladamente.
