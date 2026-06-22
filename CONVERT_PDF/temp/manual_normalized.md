@@ -2,1590 +2,695 @@
 title: "Discipulado - Participar con el Constructor"
 subtitle:  "Hasta que Él venga"
 author:  "CGV"
-version:  "0.2"
-date:  "2026-06-20"
+version:  "0.6" 
+date:  "2026-06-22"
 cover: "images/portada.png"
 ---
 
 # INTRODUCCIÓN
 
-Este curso nació de preguntas.
+\headingfive{Este \fillin{curso} nació de preguntas.}
+\headingfive{\fillin{Muchas} preguntas.}
+\headingfive{\fillin{Algunas} sencillas.}
+\headingfive{\fillin{Otras} incómodas.}
 
-Quizás usted ha escuchado muchas veces que debe hacer discípulos. Sabe que es importante. Sabe que Jesús lo mandó. Y probablemente ha intentado hacerlo.
+\headingfive{Y, honestamente, muchas de ellas \fillin{nunca} pensamos que llegaríamos a hacerlas.}
+\headingfive{Porque durante \fillin{años} simplemente hicimos lo que habíamos recibido.}
+\headingfive{Y no por \fillin{falta} de sinceridad.}
+\headingfive{No por \fillin{falta} de deseo.}
 
-Quizás alguien le entregó un libro para estudiar con otra persona. Quizás le enseñaron un método. Quizás le explicaron ciertos pasos.
+\headingfive{No por \fillin{falta} de esfuerzo.}
+\headingfive{Simplemente estábamos \fillin{haciendo} lo que habíamos aprendido.}
+\headingfive{Y como eso fue lo que recibimos, asumimos que así era como \fillin{debía} hacerse.}
+\headingfive{\fillin{Nosotros} también.}
 
-Y como eso fue lo que hicieron con usted, simplemente asumió que así se hacía el discipulado. Nosotros también.
+\headingfive{Pero con el \fillin{tiempo} comenzaron a surgir preguntas.}
+\headingfive{Y algunas de ellas \fillin{eran} incómodas.}
+\headingfive{¿Por qué \fillin{hacemos} lo que hacemos?}
+\headingfive{¿De \fillin{dónde} provienen nuestras ideas?}
+\headingfive{¿\fillin{Cómo} sabemos que hemos entendido correctamente?}
 
-No por falta de sinceridad. No por falta de deseo. No por falta de esfuerzo. Simplemente estábamos haciendo lo que habíamos aprendido.
+\headingfive{¿Qué determina realmente la manera en que practicamos las \fillin{cosas}?}
+\headingfive{Y quizás la pregunta más incómoda de \fillin{todas}:}
+\headingfive{¿\fillin{Hemos} permitido que las Escrituras definan aquello que decimos creer?}
+\headingfive{Curiosamente, \fillin{nunca} nos habíamos detenido a hacer esa pregunta.}
+\headingfive{No porque rechazáramos las \fillin{Escrituras}.}
+\headingfive{\fillin{Sino} porque muchas cosas simplemente parecían evidentes.}
 
-Pero con el tiempo comenzaron a surgir preguntas.
+\headingfive{Y cuando algo parece evidente, \fillin{pocas} veces nos detenemos a examinarlo.}
+\headingfive{Pero \fillin{estas} preguntas no nos alejaron de las Escrituras.}
+\headingfive{Nos llevaron de \fillin{regreso} a ellas.}
+\headingfive{Y decidimos \fillin{hacer} algo muy sencillo.}
+\headingfive{\fillin{Comenzar} nuevamente.}
 
-\headingsix{¿De dónde obtuvimos nuestro concepto de discipulado?}
-\headingsix{¿Qué determina la manera en que lo practicamos?}
-\headingsix{¿Por qué iglesias sinceras lo practican de maneras tan diferentes?}
-\headingsix{¿Es el discipulado un currículo?}
-\headingsix{¿Es hacer amigos y luego...?}
-\headingsix{¿Es mentoría?}
-\headingsix{¿Es enseñanza?}
-\headingsix{¿Es evangelismo?}
-\headingsix{¿Es algo que ocurre principalmente entre dos personas?}
-\headingsix{¿Es la vida de la iglesia?}
+\headingfive{No con \fillin{nuestras} respuestas.}
+\headingfive{No con nuestros \fillin{métodos}.}
+\headingfive{No con \fillin{nuestras} tradiciones.}
+\headingfive{\fillin{Sino} con el texto mismo.}
 
-\headingfive{¿Cómo se sabe si uno es llamado para hacer discípulos?}
--   Si es así, ¿cómo se ve eso en la práctica?
--   Y quizás la pregunta más incómoda de todas:
--   ¿Hemos asumido que sabemos lo que es el discipulado sin haber permitido primero que las Escrituras lo definan?
--   Curiosamente, nunca nos habíamos detenido a hacer esa pregunta. No porque rechazáramos las Escrituras. Sino porque cada uno parecía tener su propia manera de hacerlo.
-
-\headingfive{Simplemente asumimos que el discipulado era aquello que habíamos recibido.}
-
-\headingfive{Pero estas preguntas no nos alejaron de las Escrituras.}
--   Nos llevaron de regreso a ellas.
--   Por eso, en lugar de comenzar con nuestras respuestas, nuestros métodos o nuestras tradiciones, decidimos comenzar nuevamente con el texto mismo.
--   Nos atrevismo a seguir las preguntas hasta donde las Escrituras quisieran llevarnos pase lo que pase.
-
-\headingfive{Este manual nace como resultado de esa investigación. Esperamos que te sea de mucha bendición.}
+\headingfive{Y decidimos \fillin{seguir} las preguntas hasta donde las Escrituras quisieran llevarnos.}
+\headingfive{Sin \fillin{saber} exactamente adónde terminarían llevándonos.}
+\headingfive{Esperamos que este viaje \fillin{sea} de mucha bendición para ti.}
 
 # CAPÍTULO 1 - COMENCEMOS
 
 ## Preguntas que nos llevaron de regreso a las Escrituras
 
-\headingfive{Si queremos entender el discipulado bíblicamente, ¿por dónde comenzamos?}
--   La respuesta parece obvia. Jesús dijo:
--   \scripture{Vayan, pues, y hagan discípulos de todas las naciones…}
--   Por lo tanto, parece natural comenzar allí. Pero casi inmediatamente surge una pregunta.
+\headingfive{Muchos creyentes \fillin{saben} que Jesús mandó hacer discípulos.}
+\headingfive{También saben \fillin{cómo} fueron discipulados.}
 
-> "¿Qué es el discipulado?”
+\headingfive{\fillin{Quizás} participaron en estudios uno a uno.}
+\headingfive{Quizás siguieron un \fillin{libro}.}
 
-\headingfive{La palabra \scripture{discipulado} es usada con frecuencia, pero el Nuevo Testamento nunca parece detenerse para definirla.}
+\headingfive{\fillin{Quizás} aprendieron un método.}
+\headingfive{Quizás intentaron reproducir lo que \fillin{otros} habían hecho con ellos.}
 
-> "Si Jesús mandó hacer discípulos, seguramente explicó lo que quiso decir.”
+\headingfive{Pero con el \fillin{tiempo} comenzaron a surgir preguntas.}
+> ¿Qué significa realmente hacer discípulos?
 
--   ¿Dónde?
--   ¿Explicó en algún lugar qué significa hacer discípulos?
--   ¿Dieron los apóstoles una definición?
--   ¿Existe una sección dedicada al discipulado en las epístolas?
--   ¿Ya entendían los discípulos lo que Jesús quiso decir?
--   ¿Era una expresión conocida?
--   ¿Tiene raíces anteriores?
--   ¿Preparó Mateo al lector para este mandamiento?
--   ¿Explica el libro de Hechos cómo se hace?
--   ¿Lo desarrollan las epístolas?
+\headingfive{La respuesta \fillin{parece} sencilla.}
+\headingfive{Jesús \fillin{dijo}:}
+> «Vayan, pues, y hagan discípulos de todas las naciones.»
 
-\headingfive{Y mientras avanzábamos, comenzamos a descubrir algo inesperado...}
--   Las preguntas aumentaban. Pero las respuestas no parecían tan evidentes. Entonces decidimos hacer algo sencillo.
--   En lugar de comenzar con nuestras conclusiones, decidimos seguir el texto bíblico.
--   Y mientras seguíamos el hilo del \scripture{hagan discípulos}, otra declaración comenzó a aparecer repetidamente.
--   No:
+\headingfive{Entonces parece natural comenzar \fillin{allí}.}
 
-> \scripture{Vayan y edifiquen Mi iglesia}.
+\headingfive{Pero \fillin{casi} inmediatamente surgen otras preguntas.}
 
--   Sino:
+- ¿Explicó Jesús qué quiso decir?
+- ¿Preparó a Sus discípulos para este mandamiento?
+- ¿Ya entendían ellos lo que significaba?
+- ¿Era una expresión conocida?
+- ¿Existe una definición en el Nuevo Testamento?
 
-> \scripture{Yo edificaré Mi iglesia}.
+- ¿Explica el libro de Hechos cómo se hace?
+- ¿Lo desarrollan las epístolas?
+- ¿Encontraremos un método?
+- ¿Encontraremos una fórmula?
 
-\headingfive{Y una nueva pregunta comenzó a imponerse sobre todas las demás.}
--   Antes de preguntar:
+\headingfive{Mientras avanzábamos, las \fillin{preguntas} aumentaban.}
 
-> \scripture{¿Cómo hacemos discípulos?}
+\headingfive{Pero las respuestas no parecían \fillin{tan} evidentes.}
 
--   Tal vez debemos preguntar primero:
+\headingfive{Entonces decidimos \fillin{hacer} algo sencillo.}
 
-> \scripture{¿Quién es el Constructor?}
+\headingfive{En \fillin{lugar} de comenzar con nuestras conclusiones, decidimos volver al texto.}
 
-# CAPÍTULO 2 - EL CONSTRUCTOR
+\headingfive{Y si \fillin{Jesús} habló de hacer discípulos, parecía razonable comenzar escuchándolo a Él.}
 
-## Jesús forma a los que luego enviará
+\headingfive{Por eso comenzaremos \fillin{allí}.}
+\headingfive{Y permitiremos que las Escrituras nos \fillin{guíen}.}
+\headingfive{\fillin{Incluso} si terminamos llegando a lugares que no esperábamos.}
 
-\headingfive{Al seguir el mandato de hacer discípulos, pronto surge una pregunta.}
+# CAPÍTULO 2 - JESÚS HABLÓ DE HACER DISCÍPULOS
 
-> ¿Comienza Mateo en Mateo 28:19?
+## Siguiendo el hilo del Evangelio
 
-\headingfive{La respuesta parece ser no. El mandato final no aparece aislado. Mateo ya venía mostrando algo acerca de Jesús y Sus discípulos.}
+\headingfive{Si \fillin{Jesús} mandó hacer discípulos, surge una pregunta natural.}
+> ¿Aparece este mandamiento aislado?
+
+\headingfive{Al seguir el Evangelio de \fillin{Mateo}, encontramos algo interesante.}
+\headingfive{El mandato de \fillin{hacer} discípulos aparece al final del Evangelio.}
+
+\headingfive{Por eso decidimos \fillin{seguir} el relato.}
+\headingfive{Y permitiremos que \fillin{Mateo} continúe hablando.}
+
+## Jesús llama
 
 ### Mateo 4:19
 \begin{verseblock}
 Vengan en pos de Mí, y Yo los haré pescadores de hombres.
 \end{verseblock}
 #### Vengan en pos de Mí
-\headingfive{Antes de enviarlos, Jesús los llama.}
+\headingfive{\fillin{Antes} de enviarlos, Jesús había llamado a Sus discípulos.}
+
 #### y Yo los haré pescadores de hombres
-\headingfive{Antes de que ellos hagan, Jesús promete hacer.}
--   La formación comienza con Él.
+\headingfive{\fillin{Antes} de que ellos hagan, Jesús promete hacer.}
 
-## Jesús edifica Su iglesia
+- Jesús toma la iniciativa.
+- La relación comienza con una invitación.
 
-### Mateo 16:18
+## Jesús envía
+
+### Mateo 28:18-20
 \begin{verseblock}
-Yo edificaré Mi iglesia.
+Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones...
 \end{verseblock}
-\headingfive{Mientras seguimos el Evangelio de Mateo, otra declaración comienza a ocupar el centro.}
+#### hagan discípulos
+\headingfive{El mandamiento que \fillin{inició} nuestra investigación aparece finalmente.}
 
-\headingfive{Jesús no dice:}
--   Edifiquen Mi iglesia.
+\headingfive{Pero no \fillin{aparece} al comienzo del Evangelio.}
+\headingfive{\fillin{Aparece} después.}
 
-\headingfive{Ni dice:}
--   Ustedes edificarán Mi iglesia.
+#### Toda autoridad me ha sido dada
+\headingfive{La autoridad pertenece a \fillin{Jesús}.}
 
-\headingfive{Dice:}
--   \scripture{Yo edificaré Mi iglesia}
--   La obra pertenece a Cristo.
--   La iglesia pertenece a Cristo.
--   La responsabilidad final pertenece a Cristo.
+#### Yo estoy con ustedes todos los días
+\headingfive{\fillin{Jesús} promete permanecer con los Suyos.}
 
-## Jesús forma a Sus discípulos
+## Una observación
+
+\headingfive{Porque el Evangelio no \fillin{comienza} con:}
+> Hagan discípulos.
+
+\headingfive{\fillin{Jesús} llama.}
+\headingfive{\fillin{Jesús} promete hacer.}
+\headingfive{Y finalmente \fillin{envía}.}
+
+\headingfive{Pero mientras seguíamos el \fillin{relato}, otra expresión comenzó a llamar nuestra atención.}
+> Jesús comenzó a mostrar...
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 3 - JESÚS COMENZÓ A MOSTRAR
+
+## Una observación en el Evangelio
+
+\headingfive{Mientras seguíamos el Evangelio de \fillin{Mateo}, una expresión comenzó a llamar nuestra atención.}
 
 ### Mateo 16:21
 \begin{verseblock}
 Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
 \end{verseblock}
-\headingfive{Mateo no presenta solamente un mandato final.}
--   Presenta a Jesús formando a Sus discípulos.
--   Los instruye.
--   Los corrige.
--   Les revela Su camino.
--   Les muestra Su sufrimiento, Su muerte y Su resurrección.
--   El seguimiento no aparece reducido a la transferencia de información.
--   La formación ocurre mientras caminan con Él.
+#### Desde entonces
+\headingfive{\fillin{Mateo} registra un cambio.}
 
-## Los formados son enviados
+\headingfive{\fillin{Jesús} comienza a mostrar algo a Sus discípulos.}
 
-### Mateo 28:18–20
-\begin{verseblock}
-Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones…
-\end{verseblock}
-\headingfive{El mandato de hacer discípulos no aparece al comienzo del Evangelio.}
+#### debía ir a Jerusalén
+\headingfive{\fillin{Jesús} dirige la atención hacia lo que ocurrirá.}
 
-\headingfive{Aparece después.}
+#### sufrir muchas cosas
+\headingfive{\fillin{Jesús} habla de Su sufrimiento.}
 
-\headingfive{Los discípulos que son enviados son hombres que Jesús mismo llamó y formó.}
+#### ser muerto
+\headingfive{\fillin{Jesús} habla de Su muerte.}
 
-\headingfive{La autoridad sigue perteneciendo a Él.}
+#### y resucitar al tercer día
+\headingfive{\fillin{Jesús} habla de Su resurrección.}
 
-\headingfive{Su presencia permanece con ellos.}
+## Una observación
 
-\headingfive{Y mientras seguimos el hilo del Evangelio, una pregunta comienza a imponerse sobre todas las demás.}
+\headingfive{Porque \fillin{Mateo} no presenta solamente un mandamiento final.}
+
+\headingfive{Presenta a \fillin{Jesús} actuando con Sus discípulos.}
+
+\headingfive{\fillin{Jesús} habla.}
+
+\headingfive{\fillin{Jesús} muestra.}
+
+\headingfive{\fillin{Jesús} continúa con ellos.}
+
+\headingfive{Y otra observación comienza a \fillin{surgir}.}
+
+\headingfive{Los hombres que \fillin{son} enviados en Mateo 28 no aparecen repentinamente.}
+- Ya habían caminado con Jesús.
+- Ya habían escuchado a Jesús.
+- Y Jesús había comenzado a mostrarles algo.
 
 ## Una pregunta
+\headingfive{¿Continuará este \fillin{proceso} después de la ascensión?}
+\headingfive{¿Encontraremos algo \fillin{parecido} más adelante?}
 
-\headingfive{¿Quién es el Constructor?}
--   Porque si Cristo es el Constructor, entonces todo lo demás debe ser entendido a la luz de Su obra.
--   Él determina el propósito de la obra.
--   Él determina su crecimiento.
--   Él determina la participación de Sus siervos.
--   Él determina cuándo la obra estará completa.
--   Y si la iglesia es Su iglesia, entonces el discipulado no puede ser entendido independientemente del Constructor.
--   Todo comienza con Él.
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-# CAPÍTULO 3 - ¿QUIÉN ESTÁ EDIFICANDO?
+# CAPÍTULO 4 - LOS FORMADOS SON ENVIADOS
 
-## ¿En qué obra participan los siervos?
+## Jesús envía a hombres que han caminado con Él
 
-\headingfive{Si Cristo es el Constructor, otra pregunta surge naturalmente.}
--   ¿O hacen los hombres todo?
--   ¿Es la obra completamente divina?
--   ¿O es la obra completamente humana?
+\headingfive{Al llegar finalmente a \fillin{Mateo} 28, encontramos el mandamiento que inició nuestra investigación.}
+\headingfive{Pero \fillin{ahora} aparece dentro de un contexto más amplio.}
 
-\headingfive{Estas preguntas no son nuevas.}
--   La iglesia en Corinto también enfrentaba problemas relacionados con los hombres.
--   Algunos decían:
--   \scripture{Yo soy de Pablo.}
--   Otros:
--   \scripture{Yo soy de Apolos.}
+\headingfive{Los hombres que \fillin{son} enviados no aparecen repentinamente.}
+\headingfive{\fillin{Jesús} los había llamado.}
+\headingfive{\fillin{Jesús} había caminado con ellos.}
+\headingfive{\fillin{Jesús} había comenzado a mostrarles Su camino.}
+\headingfive{Y ahora \fillin{son} enviados.}
 
-Pero Pablo dirige nuevamente la atención hacia Dios.
-
-### 1 Corintios 3:5
-\begin{verseblock}
-¿Qué, pues, es Apolos? ¿Y qué es Pablo? Servidores mediante los cuales ustedes creyeron, según el Señor dio oportunidad a cada uno.
-\end{verseblock}
-## Los siervos participan
-
-#### Servidores mediante los cuales ustedes creyeron
-\headingfive{Pablo no se presenta como el centro de la obra.}
--   Pablo y Apolos son presentados como servidores.
--   La atención no recae sobre Pablo.
--   La atención no recae sobre Apolos.
--   La atención recae sobre el Señor.
-
-#### según el Señor dio oportunidad a cada uno
-\headingfive{La participación de cada servidor es presentada como algo recibido.}
--   El Señor determina la función de cada uno.
--   Los servidores no se asignan a sí mismos la obra.
--   La oportunidad proviene del Señor.
-
-## Los siervos trabajan
-
-### 1 Corintios 3:6
-\begin{verseblock}
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
-\end{verseblock}
-#### Yo planté
-\headingfive{Pablo describe una labor real.}
--   Pablo no niega su participación.
--   Pablo trabajó.
--   Pablo no permaneció pasivo.
-
-#### Apolos regó
-\headingfive{Apolos desempeñó una labor diferente.}
--   Los servidores no necesariamente realizan la misma función.
--   La participación puede ser distinta.
--   La obra puede incluir diferentes labores.
-
-#### pero Dios ha dado el crecimiento
-\headingfive{El crecimiento es atribuido a Dios.}
--   La obra de los hombres tiene límites.
--   Pablo no dio el crecimiento.
--   Apolos no dio el crecimiento.
--   Dios dio el crecimiento.
-
-\headingfive{Los roles permanecen distintos.}
--   Pablo no dice:
--   Dios plantó.
--   Tampoco dice:
--   Pablo dio el crecimiento.
--   Cada función permanece en su lugar.
--   Los hombres participan.
--   Dios produce el crecimiento.
-
-\headingfive{El crecimiento pertenece a Dios}
-
-### 1 Corintios 3:7
-\begin{verseblock}
-Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
-\end{verseblock}
-#### sino Dios que da el crecimiento
-\headingfive{Pablo no disminuye la importancia del trabajo.}
--   Pablo dirige la atención hacia Dios.
--   La obra pertenece a Dios.
--   El crecimiento pertenece a Dios.
--   La gloria pertenece a Dios.
-
-## Los siervos son colaboradores
-
-### 1 Corintios 3:9
-\begin{verseblock}
-Porque nosotros somos colaboradores de Dios, y ustedes son el campo de Dios, el edificio de Dios.
-\end{verseblock}
-#### colaboradores de Dios
-\headingfive{Pablo no se presenta como constructor.}
--   Pablo se presenta como colaborador.
--   Los siervos participan.
--   Dios permanece en el centro.
-
-#### el edificio de Dios
-\headingfive{La obra pertenece a Dios.}
--   El edificio no pertenece a los hombres.
--   La iglesia no es el edificio de Pablo.
--   La iglesia no es el edificio de Apolos.
--   La iglesia es el edificio de Dios.
-
-> En Síntesis
->- Antes de preguntar cómo participar, los siervos deben comprender qué es lo que Cristo está edificando.
->- El Nuevo Testamento describe Su obra como un cuerpo, una familia, un templo, una esposa y muchos hermanos conformados a la imagen del Hijo.
->- Estas imágenes presentan distintos aspectos de una misma obra que pertenece a Cristo.
->- La obra no consiste en individuos aislados, sino en un pueblo unido a Cristo y relacionado entre sí.
->- Los creyentes participan en esta obra, pero el diseño y el propósito pertenecen al Constructor.
->- Comprender la naturaleza de la obra ayuda a los siervos a participar de acuerdo con el propósito de Aquel que la está edificando.
-
-# CAPÍTULO 4 - ¿QUÉ ESTÁ EDIFICANDO EL CONSTRUCTOR?
-
-## Los siervos deben conocer los medios
-
-> "¿Qué está edificando?"
-
-\headingfive{La respuesta parece sencilla.}
-
-\headingfive{Podríamos responder:}
--   "La iglesia."
-
-\headingfive{Pero inmediatamente surge otra pregunta.}
-
-> "¿Qué es la iglesia?"
-
-\headingfive{Al llegar a las cartas del Nuevo Testamento, descubrimos algo interesante. Los apóstoles no describen la iglesia mediante una sola imagen. La presentan de muchas maneras. Cada una de ellas nos permite ver algo de la obra que Cristo está realizando.}
-
-## \textbf{Un cuerpo}
-
-### Efesios 4:15-16
-\begin{verseblock}
-sino que hablando la verdad en amor, crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo, de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
-\end{verseblock}
-#### todo el cuerpo
-\headingfive{Cristo no está edificando individuos aislados.}
--   El crecimiento es presentado como algo que ocurre en un cuerpo.
--   Cristo es la cabeza.
--   Los creyentes son miembros.
--   El cuerpo crece juntamente.
-
-## \textbf{Una casa}
-
-### Efesios 2:19
-\begin{verseblock}
-Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
-\end{verseblock}
-#### de la familia de Dios
-\headingfive{La iglesia es presentada como una familia.}
--   Los creyentes pertenecen a una misma casa.
--   Dios es presentado como Padre.
--   Los creyentes son presentados como familia.
-
-## \textbf{Un templo}
-
-### Efesios 2:21-22
-\begin{verseblock}
-en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor, en quien también ustedes son juntamente edificados para morada de Dios en el Espíritu.
-\end{verseblock}
-#### juntamente edificados
-\headingfive{La obra de Cristo es colectiva.}
--   Dios habita en medio de Su pueblo.
--   El crecimiento ocurre juntamente.
--   La meta es una morada para Dios.
-
-## \textbf{Un hombre nuevo}
-
-### Efesios 2:15
-\begin{verseblock}
-aboliendo en Su carne las enemistades, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz.
-\end{verseblock}
-#### un nuevo hombre
-\headingfive{Cristo no solamente salva individuos.}
--   Cristo está formando algo nuevo.
--   Judíos y gentiles son unidos en Cristo.
--   La paz es producida por Él.
-
-## \textbf{Una esposa}
-
-### Efesios 5:25-27
-\begin{verseblock}
-Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
-\end{verseblock}
-#### para presentársela a Sí mismo
-\headingfive{Cristo tiene un propósito para Su iglesia.}
--   La iglesia es presentada como una esposa amada.
--   Cristo ama a la iglesia.
--   Cristo la santifica.
--   Cristo la prepara.
-
-## \textbf{Muchos hermanos conformados a Su Hijo}
-
-### Romanos 8:29
-\begin{verseblock}
-Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
-\end{verseblock}
-#### conforme a la imagen de Su Hijo
-\headingfive{El propósito de Dios tiene a Cristo como centro.}
--   Los creyentes son conformados a Su imagen.
--   Cristo es el primogénito.
--   Los creyentes son presentados como hermanos.
-
-> En Síntesis
-
-# CAPÍTULO 5 - ¿CÓMO EDIFICA EL CONSTRUCTOR?
-
-## Participando en la obra que Cristo realiza
-
-\headingfive{Si Cristo es el Constructor, y si sabemos qué está edificando, otra pregunta surge naturalmente.}
-
-> "¿Cómo realiza Su obra?"
-
--   ¿Existe un método?
--   ¿Existe un proceso único?
--   ¿Existe una fórmula?
-
-\headingfive{Al observar el Nuevo Testamento, encontramos algo interesante. (Efesios 4-5)}
--   Cristo utiliza medios.
--   Cristo utiliza personas.
--   Cristo utiliza Su palabra.
--   Cristo utiliza el evangelio.
--   Cristo utiliza dones.
--   Cristo utiliza generaciones.
-
-\headingfive{Pero la obra sigue siendo Suya.}
-
-## \textbf{El evangelio es el poder de Dios}
-
-### Romanos 1:16
-\begin{verseblock}
-Porque no me avergüenzo del evangelio, pues es el poder de Dios para la salvación de todo el que cree; del judío primeramente y también del griego.
-\end{verseblock}
-#### el poder de Dios
-\headingfive{La fuente del poder no se encuentra en los hombres.}
--   El poder pertenece a Dios.
--   El evangelio ocupa un lugar central.
--   La obra depende de Dios.
-
-## \textbf{El Señor envía a Sus siervos}
-
-### Mateo 28:19-20
-\begin{verseblock}
-Vayan, pues, y hagan discípulos de todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, enseñándoles a guardar todo lo que les he mandado; y Yo estoy con ustedes todos los días, hasta el fin del mundo.
-\end{verseblock}
-#### enseñándoles a guardar
-\headingfive{Cristo utiliza hombres para transmitir Sus palabras.}
--   La enseñanza forma parte de Su obra.
--   Cristo envía.
--   Los discípulos enseñan.
--   Cristo permanece con ellos.
-
-## \textbf{Cristo da dones a Su iglesia}
-
-### Efesios 4:11-12
-\begin{verseblock}
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.
-\end{verseblock}
-#### para la edificación del cuerpo de Cristo
-\headingfive{Cristo utiliza dones para edificar.}
--   Los dones son dados por Cristo.
--   Los santos son equipados.
--   La edificación pertenece al cuerpo.
-
-## \textbf{La verdad es transmitida a otros}
-
-### 2 Timoteo 2:2
-\begin{verseblock}
-Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
-\end{verseblock}
-#### encarga a hombres fieles
-\headingfive{La obra posee una dimensión generacional.}
--   Lo recibido es transmitido a otros.
--   Pablo enseñó a Timoteo.
--   Timoteo debía encargarlo a otros.
--   Otros también enseñarían.
-
-## \textbf{Dios da crecimiento}
-
-### 1 Corintios 3:6
-\begin{verseblock}
-Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
-\end{verseblock}
-#### Dios ha dado el crecimiento
-\headingfive{La obra permanece en las manos de Dios.}
--   Los medios no sustituyen al Constructor.
--   Los hombres participan.
--   Dios produce el crecimiento.
-
-> En Síntesis
-
-# CAPÍTULO 6 - ¿DÓNDE EDIFICA EL CONSTRUCTOR?
-
-## El Constructor edifica dentro de una familia
-
-\headingfive{Si Cristo utiliza el evangelio, Su palabra, Sus siervos y Sus dones, otra pregunta surge naturalmente.}
-
-> "¿Dónde ocurre normalmente este crecimiento?"
-
-\headingfive{Al observar el Nuevo Testamento, encontramos algo interesante. Los creyentes no son presentados como personas aisladas. Tampoco son presentados como simples estudiantes.}
--   Son presentados como miembros de un cuerpo.
--   Como una familia.
--   Como una casa.
--   Como una asamblea.
-
-\headingfive{El cuerpo crece unido}
-
-### Efesios 4:16
-\begin{verseblock}
-de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
-\end{verseblock}
-#### todo el cuerpo
-\headingfive{El crecimiento es presentado como algo colectivo.}
--   Los miembros están unidos unos a otros.
--   El cuerpo crece juntamente.
--   Cada miembro participa.
--   La edificación ocurre en amor.
-
-## \textbf{Los creyentes son una familia}
-
-### Efesios 2:19
-\begin{verseblock}
-Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
-\end{verseblock}
-#### la familia de Dios
-\headingfive{La iglesia es presentada como una casa.}
--   Los creyentes pertenecen a una misma familia.
--   Dios es Padre.
--   Los creyentes son hermanos.
-
-## Los miembros se necesitan mutuamente
-
-### 1 Corintios 12:21
-\begin{verseblock}
-El ojo no puede decir a la mano: No te necesito; ni tampoco la cabeza a los pies: No tengo necesidad de ustedes.
-\end{verseblock}
-#### No te necesito
-\headingfive{Ningún miembro vive independientemente.}
--   El cuerpo funciona mediante la participación de todos.
--   Los miembros son diferentes.
--   Los miembros se necesitan.
--   Los miembros sirven unos a otros.
-
-## \textbf{Los creyentes viven la verdad unos con otros}
-
-### Romanos 12:10
-\begin{verseblock}
-Sean afectuosos unos con otros con amor fraternal; con honra, dándose preferencia unos a otros.
-\end{verseblock}
-#### unos con otros
-\headingfive{La vida cristiana es presentada en comunidad.}
--   El amor es vivido en relaciones reales.
--   Los creyentes se sirven mutuamente.
--   Los creyentes se honran mutuamente.
--   Los creyentes soportan cargas reales.
-
-## \textbf{Las generaciones viven juntas}
-
-### Tito 2:1-5
-\begin{verseblock}
-Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
-\end{verseblock}
-#### enseña lo que está de acuerdo con la sana doctrina
-\headingfive{La enseñanza es acompañada por relaciones.}
--   Hombres y mujeres mayores participan en la formación de otros.
--   La vida es compartida.
--   Las generaciones conviven.
--   La verdad es vivida.
-
-## \textbf{La iglesia perseveraba junta}
-
-### Hechos 2:42
-\begin{verseblock}
-Y se dedicaban continuamente a las enseñanzas de los apóstoles, a la comunión, al partimiento del pan y a la oración.
-\end{verseblock}
-#### se dedicaban continuamente
-\headingfive{La vida cristiana no es presentada como una actividad individual.}
--   Los creyentes compartían una misma vida.
--   Perseveraban juntos.
--   Aprendían juntos.
--   Oraban juntos.
--   Compartían juntos.
-
-> En Síntesis
-
-# CAPÍTULO 7 - ¿CUÁL ES LA META DEL CONSTRUCTOR?
-
-## La obra se desarrolla entre hermanos
-
-\headingfive{Si Cristo es el Constructor, y si sabemos qué está edificando y dónde lleva a cabo Su obra, otra pregunta surge naturalmente.}
-
-> "¿Hacia dónde se dirige esta obra?"
-
-\headingfive{Las Escrituras presentan una obra que avanza hacia un \scripture{hasta}.}
-
-## \textbf{Hasta que todos lleguemos}
-
-### Efesios 4:13
-\begin{verseblock}
-hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
-\end{verseblock}
-#### hasta que todos lleguemos
-\headingfive{La obra tiene una meta.}
--   Cristo no edifica sin propósito.
--   La obra se dirige hacia algo.
--   El crecimiento tiene una dirección.
-
-#### la unidad de la fe
-\headingfive{La meta incluye unidad.}
--   La obra no tiene como objetivo individuos aislados.
--   La unidad forma parte de la meta.
-
-#### del conocimiento pleno del Hijo de Dios
-\headingfive{Cristo permanece en el centro.}
--   La meta no es simplemente adquirir información.
--   El conocimiento tiene una Persona como centro.
-
-#### a la condición de un hombre maduro
-\headingfive{La obra se dirige hacia la madurez.}
--   La inmadurez no constituye la meta.
--   El crecimiento tiene un propósito.
-
-#### la plenitud de Cristo
-\headingfive{Cristo es la medida.}
--   La meta no es el hombre.
--   La medida es Cristo.
-
-\headingfive{Hasta el fin del siglo}
-
-### Mateo 28:20
-\begin{verseblock}
-y Yo estoy con ustedes todos los días, hasta el fin del mundo.
-\end{verseblock}
-#### hasta el fin del mundo
-\headingfive{La presencia de Cristo acompaña Su obra.}
--   La misión posee una dimensión temporal.
--   Cristo permanece con los Suyos.
--   La obra continúa hasta el fin del siglo.
-
-\headingfive{Para presentársela a Sí mismo}
-
-### Efesios 5:25-27
-\begin{verseblock}
-Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
-\end{verseblock}
-#### a fin de presentársela a Sí mismo
-\headingfive{Cristo tiene un propósito para Su iglesia.}
--   La iglesia será presentada a Él.
--   Cristo ama a Su iglesia.
--   Cristo santifica a Su iglesia.
--   Cristo prepara a Su iglesia.
-
-\headingfive{Conformados a la imagen de Su Hijo}
-
-### Romanos 8:29
-\begin{verseblock}
-Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
-\end{verseblock}
-#### conforme a la imagen de Su Hijo
-\headingfive{Cristo es el modelo.}
--   El propósito de Dios tiene a Su Hijo como centro.
--   Los creyentes son conformados a Su imagen.
--   Cristo es el primogénito entre muchos hermanos.
-
-> En Síntesis
-
-# CAPÍTULO 8 - AMENAZAS A LA OBRA DEL CONSTRUCTOR
-
-## No todo favorece el crecimiento
-
-\headingfive{Si Cristo tiene una meta para Su iglesia, otra pregunta surge naturalmente.}
-
-> "¿Qué amenaza esta obra?"
-
-\headingfive{Las Escrituras muestran que Cristo permanece fiel.}
-
-\headingfive{Pero también muestran que los creyentes necesitan ser advertidos.}
-
-\headingfive{Las divisiones desvían la atención}
-
-### 1 Corintios 1:12
-\begin{verseblock}
-Quiero decir, que cada uno de ustedes dice: Yo soy de Pablo, Yo de Apolos, Yo de Cefas y Yo de Cristo.
-\end{verseblock}
-#### Yo soy de Pablo
-\headingfive{Los hombres pueden ocupar el lugar que pertenece a Cristo.}
--   La atención deja de estar sobre el Constructor.
--   Las personas sustituyen a Cristo.
--   Las divisiones dañan el cuerpo.
-
-\headingfive{La sabiduría humana desplaza la sabiduría de Dios}
-
-### 1 Corintios 3:18-19
-\begin{verseblock}
-Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
-\end{verseblock}
-#### la sabiduría de este mundo
-\headingfive{Los hombres pueden confiar en sus propios recursos.}
--   La obra deja de depender de Dios.
--   Los métodos humanos no sustituyen la obra de Dios.
--   La gloria pertenece a Dios.
-
-\headingfive{La inmadurez impide el crecimiento}
-
-### Efesios 4:14
-\begin{verseblock}
-para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
-\end{verseblock}
-#### ya no seamos niños
-\headingfive{La inmadurez no constituye la meta.}
--   Los creyentes pueden permanecer como niños.
--   La madurez es necesaria.
--   Los creyentes necesitan crecer.
-
-## Las falsas enseñanzas amenazan al rebaño
-
-### Hechos 20:29-30
-\begin{verseblock}
-Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
-\end{verseblock}
-#### arrastrar a los discípulos tras ellos
-\headingfive{Los hombres pueden buscar seguidores para sí mismos.}
--   El centro deja de ser Cristo.
--   El peligro puede venir desde afuera.
--   El peligro también puede surgir desde dentro.
-
-## El pecado tolerado afecta al cuerpo
-
-### 1 Corintios 5:6
-\begin{verseblock}
-No es buena la jactancia de ustedes. ¿No saben que un poco de levadura fermenta toda la masa?
-\end{verseblock}
-#### un poco de levadura
-\headingfive{El pecado afecta a otros.}
--   La iglesia es presentada como un cuerpo.
--   El pecado no es solamente individual.
--   La santidad importa.
-
-## La pérdida del amor afecta el testimonio
-
-### Apocalipsis 2:4
-\begin{verseblock}
-Pero tengo esto contra ti: que has dejado tu primer amor.
-\end{verseblock}
-#### has dejado tu primer amor
-\headingfive{La actividad puede continuar sin amor.}
--   Cristo conoce la condición de Su pueblo.
--   La ortodoxia no reemplaza el amor.
--   Cristo llama al arrepentimiento.
-
-## El mayor peligro
-
-### 1 Corintios 3:7
-\begin{verseblock}
-Así que ni el que planta ni el que riega son algo, sino Dios que da el crecimiento.
-\end{verseblock}
-#### Dios que da el crecimiento
-\headingfive{Los siervos pueden olvidar quién es el Constructor.}
--   La obra siempre pertenece a Dios.
--   Los hombres no son el centro.
--   Cristo permanece en el centro.
--   La gloria pertenece a Dios.
-
-> En Síntesis
-
-# CAPÍTULO 9 - JESÚS FORMA A LOS QUE ENVIARÁ
-
-## Antes de enviar, Jesús forma
-
-\headingfive{Si Cristo es el Constructor, otra pregunta surge naturalmente.}
-
-> "¿Cómo lleva a cabo Su obra?"
-
-\headingfive{Al llegar al Evangelio de Mateo encontramos algo interesante.}
-
-\headingfive{Antes de enviar a Sus discípulos a hacer discípulos, Jesús mismo los había formado.}
-
-## Jesús promete hacer
-
-### Mateo 4:19
-\begin{verseblock}
-Síganme, y Yo los haré pescadores de hombres.
-\end{verseblock}
-#### Yo los haré
-\headingfive{La obra comienza con Jesús.}
--   Jesús llama.
--   Jesús promete hacerlos pescadores de hombres.
--   La iniciativa pertenece a Él.
--   La formación comienza con Él.
-
-## Jesús forma a Sus discípulos
-
-### Mateo 16:21
-\begin{verseblock}
-Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
-\end{verseblock}
-#### Jesús comenzó a mostrar
-\headingfive{Jesús continuó formando a Sus discípulos.}
--   Jesús les reveló Su camino.
--   Los preparó para Su sufrimiento, muerte y resurrección.
--   La formación continuó durante Su ministerio.
-
-## Jesús posee toda autoridad
+## Toda autoridad pertenece a Jesús
 
 ### Mateo 28:18
 \begin{verseblock}
-Toda autoridad me ha sido dada en el cielo y en la tierra.
+Acercándose Jesús, les dijo: «Toda autoridad me ha sido dada en el cielo y en la tierra».
 \end{verseblock}
-#### Toda autoridad
-\headingfive{La misión nace de la autoridad de Cristo.}
--   La autoridad pertenece a Jesús.
--   La misión procede de Él.
--   Los discípulos son enviados por Él.
+#### Toda autoridad me ha sido dada
+\headingfive{La misión comienza con la autoridad de \fillin{Jesús}.}
+- La autoridad pertenece a Él.
+- Los discípulos son enviados por Él.
 
-## Los formados son enviados
+## Hagan discípulos
 
-### Mateo 28:19-20
+### Mateo 28:19
 \begin{verseblock}
-Vayan, pues, y hagan discípulos de todas las naciones...
+Vayan, pues, y hagan discípulos de todas las naciones.
 \end{verseblock}
 #### hagan discípulos
-\headingfive{Jesús envía a aquellos que Él mismo había formado.}
--   Los discípulos participan en la obra.
--   Deben enseñar a guardar lo que Jesús mandó.
--   Jesús permanece con ellos.
--   Su presencia continúa hasta el fin del siglo.
+\headingfive{\fillin{Jesús} envía a Sus discípulos.}
+- La misión continúa.
+- Las naciones son incluidas.
+
+\headingfive{El mandamiento que inició nuestra investigación aparece al \fillin{final} del Evangelio.}
+
+## Enseñándoles a guardar
+
+### Mateo 28:20
+\begin{verseblock}
+enseñándoles a guardar todo lo que les he mandado.
+\end{verseblock}
+#### enseñándoles a guardar
+\headingfive{\fillin{Jesús} no habla solamente de enseñar.}
+
+\headingfive{\fillin{Habla} de enseñar a guardar.}
+- Los mandamientos de Jesús permanecen importantes.
+- Lo que Jesús enseñó continúa siendo transmitido.
+
+## Yo estoy con ustedes
+
+### Mateo 28:20
+\begin{verseblock}
+Y recuerden: Yo estoy con ustedes todos los días, hasta el fin del mundo.
+\end{verseblock}
+#### Yo estoy con ustedes
+\headingfive{\fillin{Jesús} promete permanecer con ellos.}
+- La misión no es independiente de Su presencia.
+- Jesús no desaparece de la escena.
+
+#### hasta el fin del mundo
+\headingfive{La \fillin{promesa} continúa hacia adelante.}
+- La presencia de Jesús acompaña a los Suyos.
+
+## Una observación.
+
+\headingfive{Porque el Evangelio de \fillin{Mateo} termina con Jesús hablando.}
+
+\headingfive{Jesús \fillin{envía}.}
+\headingfive{\fillin{Jesús} manda.}
+\headingfive{Jesús \fillin{promete}.}
+\headingfive{Jesús \fillin{permanece}.}
+
+\headingfive{Pero \fillin{Mateo} termina.}
+
+\headingfive{Y otra pregunta comienza a \fillin{surgir}.}
+
+## Una pregunta
+\headingfive{¿Qué \fillin{ocurrió} después?}
+\headingfive{¿Continuaron apareciendo \fillin{discípulos}?}
+\headingfive{¿\fillin{Cómo} continuó avanzando la obra?}
+
+\headingfive{Y permitiremos que \fillin{Lucas} continúe el relato.}
 
 > En Síntesis
->- Jesús prometió hacer pescadores de hombres.
->- Jesús mismo formó a Sus discípulos.
->- La autoridad pertenece al Cristo resucitado.
->- Los discípulos son enviados por Él.
->- Deben enseñar a guardar Sus mandamientos.
->- Jesús permanece con ellos hasta el fin del siglo.
+> - El mandato de hacer discípulos aparece al final del Evangelio.
+> - Los hombres enviados habían caminado con Jesús.
+> - La autoridad permanece en Cristo.
+> - Jesús manda enseñar a guardar Sus mandamientos.
+> - Jesús promete permanecer con los Suyos.
 
-# CAPÍTULO 10 - ¿POR QUÉ LA IGLESIA?
+\headingfive{Y otra pregunta comienza a \fillin{surgir}.}
+> ¿Qué ocurrió después de la ascensión?
 
-## La iglesia es el ambiente de la obra
+# CAPÍTULO 5 - LOS DISCÍPULOS CONTINÚAN APARECIENDO
 
-\headingfive{Hasta este punto hemos seguido a Jesús.}
--   Lo hemos visto llamar.
--   Formar.
--   Enviar.
--   Y prometer:
+## Una observación en Hechos
 
-> «Yo edificaré Mi iglesia».
+\headingfive{\fillin{Mateo} termina con Jesús hablando.}
 
-\headingfive{Pero surge una pregunta natural.}
--   ¿Por qué la iglesia?
--   ¿Por qué no simplemente individuos?
--   ¿Por qué no solamente relaciones de uno a uno?
--   ¿Por qué no simplemente programas?
+\headingfive{\fillin{Jesús} envía.}
+\headingfive{\fillin{Jesús} promete permanecer con los Suyos.}
 
-\headingfive{Permitiremos nuevamente que las Escrituras hablen.}
+\headingfive{Pero \fillin{Mateo} termina.}
 
-## Cristo ama a Su iglesia
+\headingfive{Entonces \fillin{surge} una pregunta natural.}
+> ¿Qué ocurrió después?
 
-### Efesios 5:25
+\headingfive{Al \fillin{abrir} el libro de Hechos, encontramos algo interesante.}
+
+\headingfive{Los discípulos \fillin{continúan} apareciendo.}
+
+### Hechos 6:1
 \begin{verseblock}
-Cristo amó a la iglesia y se entregó a Sí mismo por ella.
+Por aquellos días, al multiplicarse el número de los discípulos...
 \end{verseblock}
-La iglesia no es una idea secundaria.
+#### al multiplicarse el número de los discípulos
+\headingfive{\fillin{Lucas} continúa utilizando el mismo lenguaje.}
+- Los discípulos aparecen nuevamente.
+- El relato continúa.
 
-\headingfive{Cristo la ama.}
-
-\headingfive{Cristo se entregó por ella.}
-
-\headingfive{La iglesia ocupa un lugar especial en Su propósito.}
-
-## Un solo cuerpo
-
-### 1 Corintios 12:12–13
+### Hechos 6:7
 \begin{verseblock}
-Porque así como el cuerpo es uno, y tiene muchos miembros, pero, todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo. Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres. A todos se nos dio a beber del mismo Espíritu.
+...y el número de los discípulos aumentaba considerablemente...
 \end{verseblock}
-\headingfive{Los creyentes no son miembros aislados.}
+#### el número de los discípulos aumentaba
+\headingfive{El \fillin{lenguaje} continúa.}
+- Los discípulos se multiplican.
+- La palabra discípulo sigue apareciendo.
 
-\headingfive{Son un cuerpo.}
-
-\headingfive{Muchos miembros.}
-
-\headingfive{Un mismo Espíritu.}
-
-\headingfive{Una misma vida.}
-
-## La familia de Dios
-
-### Efesios 2:19
+### Hechos 9:36
 \begin{verseblock}
-Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+Había en Jope cierta discípula llamada Tabita...
 \end{verseblock}
-Los creyentes son:
-- conciudadanos,
-- miembros de la familia de Dios.
-La vida cristiana no es presentada como una experiencia aislada.
-Es una vida compartida.
+#### cierta discípula
+\headingfive{El \fillin{lenguaje} continúa apareciendo.}
 
-## Equipando a los santos
-
-### Efesios 4:11–16
+### Hechos 14:21-22
 \begin{verseblock}
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo; hasta que todos lleguemos a la unidad de la fe y del pleno conocimiento del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo...de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
+Después de anunciar el evangelio... y hacer muchos discípulos...
 \end{verseblock}
-Cristo dio dones.
-Los santos son equipados.
-La obra del servicio es realizada.
-El cuerpo es edificado.
-La meta es la madurez.
-La imagen es corporativa.
+#### hacer muchos discípulos
+\headingfive{La expresión utilizada por \fillin{Jesús} continúa apareciendo.}
 
-## Unos a otros
-
-Las epístolas están llenas de expresiones como:
-
--   ámense unos a otros,
--   exhórtense unos a otros,
--   sírvanse unos a otros,
--   sopórtense unos a otros,
--   anímense unos a otros,
--   oren unos por otros.
-
-La vida cristiana aparece constantemente en el contexto de relaciones.
+#### fortaleciendo los ánimos de los discípulos
+\headingfive{Los discípulos \fillin{siguen} ocupando el centro del relato.}
 
 ## Una observación
 
-Quizás la iglesia no sea simplemente el lugar donde ocurre el discipulado.
+\headingfive{Porque \fillin{después} de la ascensión, los discípulos continúan apareciendo.}
+\headingfive{\fillin{Lucas} continúa hablando de discípulos.}
+\headingfive{Los \fillin{discípulos} se multiplican.}
+\headingfive{Los discípulos \fillin{son} fortalecidos.}
+\headingfive{Muchos discípulos \fillin{son} hechos.}
 
-Quizás la iglesia sea el ambiente donde Cristo lleva a cabo Su obra.
+\headingfive{El \fillin{lenguaje} no desaparece inmediatamente.}
 
 ## Una pregunta
+\headingfive{¿Continuará este \fillin{lenguaje}?}
+\headingfive{¿\fillin{Seguirán} hablando así las Escrituras?}
 
-Si Cristo está edificando Su iglesia, y la iglesia es el ambiente en el que Su obra se desarrolla, surge otra pregunta.
+\headingfive{Y continuaremos \fillin{observando}.}
 
-\headingfive{¿Qué ocurrió con el lenguaje del discipulado?}
+# CAPÍTULO 6 - EL EVANGELIO CONTINÚA AVANZANDO
 
-Porque al llegar al final del libro de Hechos ocurre algo inesperado.
+## Una observación en Hechos
 
-La palabra \scripture{discípulo} desaparece.
+\headingfive{\fillin{Después} de la ascensión, los discípulos continúan apareciendo.}
+\headingfive{Pero al seguir leyendo Hechos, comenzamos a \fillin{notar} algo más.}
 
-Y permitiremos que las epístolas hablen por sí mismas.
+\headingfive{La \fillin{historia} no permanece en Jerusalén.}
+\headingfive{El evangelio continúa avanzando.\#\#\#\#\# Y \fillin{Lucas} continúa narrando lo que ocurrió.}
 
-# CAPÍTULO 11 - ¿QUÉ PASÓ CON EL DISCIPULADO?
+## El Señor había hablado acerca de esto
 
-## Preguntaremos a los apóstoles
+### Hechos 1:8
+\begin{verseblock}
+Pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y Me serán testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra.
+\end{verseblock}
+#### Me serán testigos
+\headingfive{La \fillin{obra} continúa después de la ascensión.}
+- Jerusalén aparece.
+- Judea aparece.
+- Samaria aparece.
+- El relato continúa avanzando.
 
-\headingfive{Al seguir el libro de Hechos encontramos algo interesante.}
+## Las iglesias eran fortalecidas
 
-\headingfive{La palabra discípulo aparece repetidamente.}
+### Hechos 16:5
+\begin{verseblock}
+Así que las iglesias eran fortalecidas en la fe, y aumentaban en número diariamente.
+\end{verseblock}
+#### eran fortalecidas
+\headingfive{\fillin{Lucas} continúa describiendo lo que ocurría.}
+- Las iglesias eran fortalecidas.
+- El número seguía creciendo.
 
-\headingfive{Los discípulos se multiplican.}
+## La palabra continuaba creciendo
 
-\headingfive{Muchos discípulos son hechos.}
+### Hechos 19:20
+\begin{verseblock}
+Así la palabra del Señor crecía poderosamente y prevalecía.
+\end{verseblock}
+#### la palabra del Señor crecía
+\headingfive{La atención \fillin{aparece} dirigida hacia la palabra.}
+- La palabra continúa avanzando.
+- La obra continúa extendiéndose.
 
-\headingfive{Los discípulos son fortalecidos.}
+## Pablo sigue avanzando
 
-\headingfive{Pero al llegar a Hechos 21:16, la palabra desaparece.}
+### Hechos 20:24
+\begin{verseblock}
+Pero en ninguna manera estimo mi vida como valiosa para mí mismo, a fin de poder terminar mi carrera y el ministerio que recibí del Señor Jesús, para dar testimonio solemnemente del evangelio de la gracia de Dios.
+\end{verseblock}
+#### el evangelio de la gracia de Dios
+\headingfive{El evangelio continúa ocupando un \fillin{lugar} importante.}
 
-\headingfive{Y después de eso, no vuelve a aparecer en ninguna parte de las epístolas.}
-
-\headingfive{Esto no constituye una interpretación.}
-
-\headingfive{Es simplemente un hecho.}
-
-\headingfive{Naturalmente podríamos esperar llegar a las epístolas y encontrar instrucciones dirigidas a las iglesias acerca del discipulado.}
-
-\headingfive{Después de todo, Jesús había dicho:}
-
-> \scripture{Vayan y hagan discípulos…}
-
-\headingfive{Por eso surgen preguntas inevitables.}
-
-> ¿Desapareció el discipulado?
-
--   ¿Esperábamos encontrar algo que las epístolas nunca intentan decir?
-
-\headingfive{Por un momento se produce un silencio incómodo. Porque todos esperamos encontrar algo.}
--   Un capítulo.
--   Una sección.
--   Una explicación.
--   Pero la palabra desaparece. Y por el momento, no apresuraremos las respuestas.
--   La desaparición de una palabra no implica necesariamente la desaparición de la realidad. Pero no lo sabemos.
-
-\headingfive{Tampoco debemos olvidar lo que sí sabemos.}
--   Jesús prometió:
--   Yo edificaré Mi iglesia.
--   Y también prometió:
--   Yo estoy con ustedes todos los días, hasta el fin del siglo.
-
-\headingfive{El Constructor permanece siendo el Constructor.}
--   La obra continúa.
--   La iglesia todavía no ha sido presentada.
--   El edificio todavía no está terminado.
--   Por eso seguiremos escuchando.
+\headingfive{Y la \fillin{historia} continúa.}
 
 ## Una observación
 
-\headingfive{La desaparición de la palabra \scripture{discípulo} después de Hechos 21:16 no ocurre aisladamente.}
+\headingfive{Porque Hechos está \fillin{lleno} de actividad.}
+- Los discípulos continúan apareciendo.
+- El evangelio continúa avanzando.
+- Las iglesias son fortalecidas.
+- La palabra continúa creciendo.
+- El relato continúa expandiéndose.
 
-\headingfive{Al avanzar hacia las epístolas, también desaparece gran parte del lenguaje característico de los Evangelios.}
--   Ya no encontramos expresiones como:
--   Sígueme.
--   Vengan en pos de Mí.
--   Los haré pescadores de hombres.
--   Toma tu cruz y sígueme.
--   Rabí.
--   Discípulo.
+\headingfive{Pero \fillin{Lucas} raramente se detiene a explicar.}
 
-\headingfive{Esto no significa necesariamente que la realidad haya desaparecido. Pero sí significa que el lenguaje cambia.}
--   Y esto produce otra pregunta importante.
--   ¿Esperamos que los apóstoles continúen hablando con el mismo lenguaje del ministerio terrenal de Jesús?
--   ¿O debemos permitirles hablar con su propio lenguaje?
--   Por ahora no responderemos. Simplemente observamos el hecho.
-
-\headingfive{No solamente desaparece la palabra discípulo.}
--   Desaparece toda una familia de expresiones características de los Evangelios.
--   Y esto nos obliga a escuchar cuidadosamente cómo hablan ahora los apóstoles.
-
-# CAPÍTULO 12 - ESCUCHEMOS A LOS APÓSTOLES
-
-## Lo que ocupa la atención de los apóstoles
-
-\headingfive{Al llegar a las epístolas, decidimos dejar de buscar las palabras discípulo y discipulado.}
--   La pregunta ahora es más sencilla.
--   ¿Qué ocupa la atención de los apóstoles?
--   ¿Qué desean producir?
--   ¿Qué están fortaleciendo?
--   ¿Qué esperan?
--   Permitiremos que ellos mismos respondan.
-
-## Pablo
-
-\headingfive{Pablo está ocupado con:}
--   el evangelio,
--   Cristo,
--   la fe,
--   la esperanza,
--   el amor,
--   la unidad,
--   la santidad,
--   la madurez,
--   la sana doctrina,
--   la perseverancia,
--   la gloria futura.
-
-\headingfive{Hebreos}
--   El autor está ocupado con:
--   la superioridad de Cristo,
--   la fe,
--   la perseverancia,
--   acercarse a Dios,
--   reunirse,
--   correr con paciencia.
-
-\headingfive{Santiago}
--   Santiago está ocupado con:
--   la sabiduría,
--   la fe,
--   la humildad,
--   la paciencia,
--   la oración.
-
-\headingfive{Pedro}
--   Pedro está ocupado con:
--   la esperanza,
--   la santidad,
--   el sufrimiento,
--   los ancianos,
--   la venida del Señor.
-
-\headingfive{Juan}
--   Juan está ocupado con:
--   la vida eterna,
--   la verdad,
--   el amor,
--   permanecer,
--   los hermanos.
-
-## Judas
-
-\headingfive{Judas}
--   Judas está ocupado con:
--   contender por la fe,
--   permanecer,
--   guardar.
-
-## Juan
-
-\headingfive{Apocalipsis}
--   Juan está ocupado con:
--   Jesucristo,
--   las iglesias,
--   la perseverancia,
--   la victoria,
--   el reino venidero,
--   la nueva creación.
-
-\headingfive{Una observación comienza a llamar la atención. Los apóstoles están ocupados con muchas cosas. Pero nunca vuelven a hablar del discipulado.}
-
-\headingfive{Eso no demuestra nada. Pero sí nos obliga a escuchar. Porque quizá la pregunta no sea:}
--   ¿Dónde está el discipulado?
-
-\headingfive{Sino:}
--   ¿Qué están procurando producir los apóstoles? Y quizá, al seguir escuchándolos, la respuesta aparezca por sí sola.
-
-# CAPÍTULO 13 ¿EN QUÉ ESTÁ OCUPADO EL CONSTRUCTOR?
-
-## El Constructor continúa Su obra
-
-\headingfive{Hasta aquí hemos escuchado a los apóstoles.}
-
-\headingfive{Y algo comienza a llamar la atención.}
-
-\headingfive{No hablan como si Cristo hubiera dejado simplemente instrucciones y se hubiera retirado.}
-
-\headingfive{Hablan como si continuara ocupado.}
-
-\headingfive{Permitiremos que primero Pablo y luego el Señor Jesús mismo hablen.}
-
-## Efesios 5
-
-\headingfive{¿Qué está haciendo Cristo con Su iglesia?}
-
-\headingfive{Pablo presenta a Cristo ocupado con Su iglesia.}
--   Cristo:
--   la amó,
--   se entregó por ella,
--   la santifica,
--   la limpia,
--   la sustenta,
--   la cuida,
-
-\headingfive{y finalmente la presentará a Sí mismo gloriosa.}
--   Surgen algunas preguntas.
--   ¿Parece Cristo desentendido de Su iglesia?
--   ¿Habla Pablo como si la obra estuviera terminada?
--   ¿Es la presentación algo futuro?
-
-## Apocalipsis 2–3
-
-\headingfive{¿Qué está haciendo Cristo entre las iglesias?}
-
-\headingfive{Ahora es el Señor Jesús mismo quien habla.}
-
-\headingfive{Y nuevamente encontramos a Cristo ocupado.}
--   Él:
--   conoce,
--   habla,
--   exhorta,
--   reprende,
--   disciplina,
--   promete.
-
-\headingfive{Pero algo llama especialmente la atención.}
-
-\headingfive{Su lenguaje continúa siendo:}
--   Yo haré.
--   Yo le daré…
--   Yo confesaré…
--   Yo haré…
--   Yo concederé…
--   Surgen nuevamente algunas preguntas.
--   ¿Parece Jesús ausente?
--   ¿Parece retirado?
--   ¿Parece haber abandonado Su obra?
-
-## Otros testigos
-
-\headingfive{Sin desarrollar todavía estos pasajes, es interesante observar que otros escritores hablan de la misma manera.}
--   Pablo:
--   El que comenzó en ustedes la buena obra la perfeccionará.
--   Pedro:
--   Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
--   Hebreos:
--   Vive siempre para interceder por ellos.
--   Judas:
--   Es poderoso para guardarlos sin caída y para presentarlos sin mancha.
--   Juan:
--   Cuando Él se manifieste, seremos semejantes a Él.
+\headingfive{Simplemente \fillin{continúa} contando la historia.}
 
 ## Una pregunta
 
-\headingfive{Después de escuchar a Pablo y luego al Señor Jesús mismo, surge una pregunta natural.}
+\headingfive{¿Continuará este \fillin{lenguaje}?}
 
-> ¿Ha dejado el Constructor de construir?
+\headingfive{¿\fillin{Seguirán} apareciendo los discípulos?}
 
-\headingfive{¿Es esta la misma obra de la que Jesús habló cuando dijo:}
--   Yo edificaré Mi iglesia?
+\headingfive{¿Continuarán \fillin{hablando} así las Escrituras?}
 
-\headingfive{Por ahora no responderemos.}
+\headingfive{Y continuaremos \fillin{observando}.}
 
-\headingfive{Simplemente seguiremos escuchando.}
+# CAPÍTULO 7 - UNA AUSENCIA INESPERADA
 
-# Capítulo 14 - PARTICIPANDO CON CONFIANZA
+## La palabra discípulo desaparece
 
-## Trabajando desde la confianza, no para obtenerla
+\headingfive{Después de seguir el \fillin{libro} de Hechos, algo comenzó a sorprendernos.}
 
-\headingfive{Después de escuchar a los apóstoles, surge una pregunta natural.}
+\headingfive{Los \fillin{discípulos} continuaban apareciendo.}
 
-> ¿Cómo participan?
+\headingfive{Los \fillin{discípulos} se multiplicaban.}
 
-\headingfive{La respuesta que parece surgir repetidamente no es:}
--   por ansiedad,
--   por confianza en sí mismos,
--   por seguridad basada en el desempeño.
+\headingfive{Muchos discípulos \fillin{eran} hechos.}
 
-\headingfive{Los apóstoles participan dentro de una profunda confianza en Cristo.}
+\headingfive{Los discípulos \fillin{eran} fortalecidos.}
 
-## No confiando en nosotros mismos
+\headingfive{Pero al acercarnos al \fillin{final} del libro de Hechos, ocurre algo inesperado.}
 
-### 2 Corintios 1:9
+### Hechos 21:16
 \begin{verseblock}
-Pablo explica que llegaron a tener sentencia de muerte en sí mismos.
+Vinieron también con nosotros algunos discípulos de Cesarea, trayendo consigo a un tal Mnasón de Chipre, discípulo desde los primeros días, con quien nos hospedaríamos.
 \end{verseblock}
-Pero aquello tuvo un propósito.
-Para que no confiáramos en nosotros mismos, sino en Dios que resucita a los muertos.
-La presión no produjo más confianza en sí mismos.
-Produjo una transferencia de confianza.
+#### discípulo desde los primeros días
+\headingfive{\fillin{Lucas} continúa utilizando el mismo lenguaje.}
 
-### Filipenses 3:3
-\begin{verseblock}
-Porque nosotros somos la verdadera circuncisión, que adoramos en el Espíritu de Dios y nos gloriamos en Cristo Jesús, no poniendo la confianza en la carne,
-\end{verseblock}
-Los creyentes son aquellos que:
+\headingfive{Pero esta es la última \fillin{vez}.}
 
-#### se glorían en Cristo Jesús,
+\headingfive{\fillin{Después} de esto, la palabra discípulo desaparece.}
 
-#### no ponen confianza en la carne.
+\headingfive{Y no \fillin{vuelve} a aparecer en ninguna de las epístolas.}
 
-La confianza apostólica no está repartida entre Cristo y la carne.
+## Una observación.
 
-La confianza ha sido trasladada.
+\headingfive{Porque esperábamos \fillin{llegar} a las epístolas y encontrar instrucciones acerca del discipulado.}
 
-## Confiando en Aquel que comenzó
+\headingfive{Después de todo, \fillin{Jesús} había dicho:}
+> Vayan y hagan discípulos.
 
-### Filipenses 1:6
-\begin{verseblock}
-Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
-\end{verseblock}
-#### Estoy convencido...
+\headingfive{Sin \fillin{embargo}, la palabra desaparece.}
 
-Pablo está convencido.
+\headingfive{Y esto no \fillin{constituye} una interpretación.}
 
-Pero su confianza no descansa en los filipenses.
+\headingfive{Es \fillin{simplemente} una observación.}
 
-Descansa en Aquel que comenzó la buena obra y la perfeccionará hasta el día de Cristo.
+## Otra observación
 
-### 1 Tesalonicenses 5:23–24
-\begin{verseblock}
-Y que el mismo Dios de paz los santifique por completo; y que todo su ser, espíritu, alma y cuerpo, sea preservado irreprensible para la venida de nuestro Señor Jesucristo. Fiel es Aquel que los llama, el cual también lo hará.
-\end{verseblock}
-Pablo ora por ellos y luego concluye:
-Fiel es el que los llama, el cual también lo hará.
-La seguridad del apóstol no descansa en la capacidad humana.
-Descansa en la fidelidad de Dios.
+\headingfive{Y algo más comenzó a \fillin{llamar} nuestra atención.}
 
-## Participación real
+\headingfive{No solamente desaparece la \fillin{palabra} discípulo.}
 
-Los apóstoles nunca usan la fidelidad de Cristo para promover pasividad.
+\headingfive{También desaparece \fillin{gran} parte del lenguaje característico de los Evangelios.}
 
-### Filipenses 2:12–13
-\begin{verseblock}
-Los creyentes trabajan.
-\end{verseblock}
-Porque Dios obra en ellos.
-No trabajan para que Dios obre.
-Dios obra.
-Por eso trabajan.
+\headingfive{Ya no \fillin{encontramos} expresiones como:}
 
-### Colosenses 1:28–29
-\begin{verseblock}
-Pablo trabaja y lucha.
-\end{verseblock}
-Pero según el poder de Cristo que actúa poderosamente en él.
-La participación es real.
-La fuente no es Pablo.
+- «Sígueme».
+- «Vengan en pos de Mí».
+- «Los haré pescadores de hombres».
+- «Rabí».
+- «Toma tu cruz y sígueme».
 
-### 1 Corintios 15:10
-\begin{verseblock}
-Pablo trabajó más que todos.
-\end{verseblock}
-Pero añade:
-Aunque no yo, sino la gracia de Dios conmigo.
-El trabajo es real.
-La gracia también.
+\headingfive{Porque no desaparece solamente una \fillin{palabra}.}
 
-### 1 Corintios 3:6–7
-\begin{verseblock}
-Pablo planta.
-\end{verseblock}
-Apolos riega.
-Pero Dios da el crecimiento.
-Los obreros participan.
-Pero el crecimiento pertenece a Dios.
-
-## Por eso pueden regocijarse
-
-### Romanos 5:3–5
-\begin{verseblock}
-Las tribulaciones producen perseverancia, carácter probado y esperanza.
-\end{verseblock}
-Y la esperanza no avergüenza.
-
-### Filipenses 4:4
-\begin{verseblock}
-Regocíjense en el Señor siempre.
-\end{verseblock}
-No en las circunstancias.
-No en el desempeño.
-En el Señor.
-
-### 2 Corintios 6:10
-\begin{verseblock}
-Entristecidos, mas siempre gozosos.
-\end{verseblock}
-Su gozo no depende de las circunstancias.
-
-Su confianza descansa en otro lugar.
-
-## Una observación
-
-\headingfive{Los apóstoles trabajan intensamente.}
-\headingsix{Exhortan.}
-\headingsix{Corrigen.}
-\headingsix{Advierten.}
-\headingsix{Sufren.}
-
-\headingfive{Pero no parecen cargar el peso de ser los constructores.}
-
-\headingfive{Participan.}
-
-\headingfive{El Constructor sigue siendo Cristo.}
+\headingfive{Parece desaparecer \fillin{toda} una familia de expresiones.}
 
 ## Una pregunta
 
-\headingfive{¿Será esta la libertad que surge cuando uno deja de intentar ser el Constructor y aprende a participar con Él?}
+\headingfive{¿Desapareció la \fillin{realidad}?}
 
-\headingfive{Por ahora seguiremos escuchando.}
+\headingfive{¿\fillin{Cambió} el lenguaje?}
 
-# CAPÍTULO 15 - ENSEÑANDO PARA UBICAR A LA IGLESIA EN CRISTO
+\headingfive{¿Esperábamos encontrar algo que las epístolas \fillin{nunca} intentan decir?}
 
-## Trabajando desde la confianza, no para obtenerla
+\headingfive{¿\fillin{Cómo} hablan ahora los apóstoles?}
 
-\headingfive{Después de escuchar a los apóstoles, una conclusión inesperada comienza a aparecer.}
-\headingsix{Podría pensarse:}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-> Si Cristo es el Constructor, entonces la enseñanza es menos importante.
+# CAPÍTULO 8 - ¿QUÉ OCUPA A LOS APÓSTOLES?
 
-\headingfive{Pero los apóstoles parecen pensar exactamente lo contrario.}
-\headingsix{Ellos enseñan constantemente.}
-\headingsix{Y trabajan intensamente.}
-\headingsix{Pero no parecen enseñar para reemplazar a Cristo.}
-\headingsix{Parecen enseñar para ayudar a la iglesia a vivir dentro de Su obra.}
+## Una observación en las epístolas
 
-## Una ironía
+\headingfive{Después de la \fillin{última} referencia a los discípulos en Hechos, llegamos a las epístolas.}
 
-\headingfive{Mientras más claro vemos que Cristo es el Constructor, más importante parece volverse la enseñanza.}
+\headingfive{Naturalmente esperábamos encontrar explicaciones \fillin{acerca} del discipulado.}
 
-\headingfive{Pero no cualquier enseñanza.}
+\headingfive{Pero algo \fillin{comenzó} a sorprendernos.}
 
-\headingfive{No enseñanza para producir dependencia de hombres.}
+\headingfive{Los apóstoles parecen \fillin{estar} ocupados con algo.}
 
-\headingfive{No enseñanza para crear actividades religiosas.}
+\headingfive{Y \fillin{ciertas} palabras comienzan a aparecer repetidamente.}
 
-\headingfive{No enseñanza para controlar.}
+\headingfive{Permitiremos que ellos \fillin{mismos} hablen.}
 
-\headingfive{Sino enseñanza para ubicar a la iglesia en Cristo.}
+## Pablo desea anunciar el evangelio
 
-## Pablo
+### Romanos 1:15-16
 
-\headingfive{Pablo enseña.}
-
-\headingfive{Amonesta.}
-
-\headingfive{Exhorta.}
-
-\headingfive{Recuerda.}
-
-\headingfive{Proclama.}
-
-\headingfive{Trabaja.}
-
-\headingfive{Lucha.}
-\headingsix{Pero explica por qué:}
--   a fin de presentar a todo hombre perfecto en Cristo.
-
-\headingfive{No busca simplemente producir conocimiento.}
-
-\headingfive{Busca madurez.}
-
-\headingfive{Efesios 4:}
-\headingsix{Cristo dio:}
--   apóstoles,
--   profetas,
--   evangelistas,
--   pastores,
--   maestros.
-
-\headingsix{¿Para qué?}
--   Hasta que todos lleguemos.
--   Hasta que todos maduremos.
--   Hasta que ya no seamos niños.
--   Hasta que crezcamos en Él.
--   La enseñanza no reemplaza a Cristo.
--   Cristo mismo dio maestros.
-
-## Pedro
-
-\headingfive{Pedro sabe que está por partir.}
-
-\headingfive{Por eso escribe.}
-
-\headingfive{Y repetidamente dice:}
-
-\headingfive{quiero recordarles.}
-
-\headingfive{Su interés no es preservar a Pedro.}
-
-\headingfive{Su interés es que permanezcan en la verdad.}
-
-## Juan
-
-\headingfive{Juan enseña.}
-
-\headingfive{Pero constantemente dirige la atención hacia:}
--   conocer,
--   permanecer,
--   amar,
--   caminar en la luz.
-
-\headingfive{No busca producir dependencia de sí mismo.}
-
-\headingfive{Busca que tengan comunión con el Padre y con Su Hijo.}
-
-## Hebreos
-
-\headingfive{El escritor enseña.}
-
-\headingfive{Advierte.}
-
-\headingfive{Exhorta.}
-
-\headingfive{Explica.}
-
-\headingfive{Pero continuamente lleva a los creyentes hacia:}
--   acercarse,
--   retener la esperanza,
--   considerar a Jesús,
--   fijar los ojos en Él.
-
-\headingfive{La enseñanza no ocupa el centro.}
-
-\headingfive{Cristo ocupa el centro.}
-
-## Entonces, ¿para qué enseñan los apóstoles?
-
-\headingfive{No simplemente para informar.}
-
-\headingfive{Sino para ubicar.}
-
-\headingfive{Para ayudar a las iglesias a vivir:}
--   en Cristo,
--   bajo Su señorío,
--   por Su Espíritu,
--   en Su cuerpo,
--   afirmadas en Su palabra,
--   caminando en Su amor,
--   creciendo hacia la madurez,
--   hasta Su venida.
-
-## Una observación
-
-\headingfive{Los apóstoles no parecen simplemente enseñar actividades.}
-
-\headingfive{No dicen:}
-
-\headingfive{Hagan más cosas.}
-
-\headingfive{Más bien parecen decir:}
-
-\headingfive{Vivan aquí.}
-
-\headingfive{Permanezcan aquí.}
-
-\headingfive{Crezcan aquí.}
-
-\headingfive{Caminen aquí.}
-
-\headingfive{No se aparten de aquí.}
-
-\headingfive{Porque no están simplemente enseñando a las iglesias qué hacer.}
-
-\headingfive{Están tratando de ubicar a las iglesias dentro de la obra continua de Cristo.}
-
-## Otra ironía
-
-\headingfive{La enseñanza se vuelve más importante, no menos.}
-
-\headingfive{Pero su propósito cambia.}
-\headingsix{Ya no es:}
--   Aprendan para construir.
-
-\headingsix{Sino:}
--   Aprendan para participar.
--   Aprendan para permanecer.
--   Aprendan para conocer.
--   Aprendan para crecer.
--   Aprendan para vivir dentro de lo que Cristo está haciendo.
-
-## Una pregunta
-
-# CAPÍTULO 16 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS APÓSTOLES?
-
-## El evangelio debe permanecer en el centro
-
-\headingfive{Después de escuchar a los apóstoles, surge una pregunta natural.}
-\headingsix{¿Qué es lo que desean preservar?}
-\headingsix{¿Qué esperan que permanezca después de ellos?}
-\headingsix{¿Qué están tratando de entregar a las generaciones futuras?}
-
-\headingfive{La pregunta es importante.}
-\headingsix{Porque los apóstoles saben que partirán.}
-\headingsix{Y, sin embargo, no hablan como hombres desesperados.}
-\headingsix{Hablan como hombres que están encargando algo.}
-\headingsix{Pero, ¿qué?}
-
-## Jesús comienza a mostrar
-
-### Mateo 16:21
 \begin{verseblock}
-Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación de todo el que cree.
 \end{verseblock}
-#### comenzó a mostrar
-\headingfive{Jesús dirige la atención hacia Su muerte y resurrección.}
--   Jesús no comienza hablando de métodos.
--   No comienza hablando de estructuras.
--   No comienza hablando de organizaciones.
--   Comienza mostrando lo que debía ocurrir.
+#### también a ustedes
 
-\headingfive{La cruz ocupa un lugar central.}
--   Su sufrimiento era necesario.
--   Su muerte era necesaria.
--   Su resurrección era necesaria.
--   La atención se dirige hacia la obra redentora de Dios.
+\headingfive{\fillin{Pablo} escribe a creyentes.}
+
+\headingfive{Y, sin embargo, \fillin{desea} anunciarles el evangelio.}
+
+#### el evangelio
+
+\headingfive{El evangelio \fillin{ocupa} un lugar importante.}
 
 ## Pablo entrega lo que recibió
 
-### 1 Corintios 15:1–3
+### 1 Corintios 15:1-3
 \begin{verseblock}
-Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras
+Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras...
 \end{verseblock}
-#### les entregué
-\headingfive{Pablo se presenta como alguien que transmite algo recibido.}
--   Pablo recibió.
--   Pablo entregó.
--   Otros recibieron.
-
-\headingfive{Existe una dimensión generacional.}
--   Lo recibido es transmitido.
--   Lo entregado permanece siendo lo primero.
-
 #### en primer lugar
-\headingfive{Pablo establece prioridades.}
--   No todo posee la misma importancia.
--   El evangelio ocupa el primer lugar.
--   La cruz y la resurrección permanecen en el centro.
+\headingfive{\fillin{Pablo} establece prioridades.}
 
-## Los creyentes permanecen en el evangelio
+\headingfive{Algo \fillin{ocupa} el primer lugar.}
 
-### 1 Corintios 15:1
+#### les entregué
+\headingfive{\fillin{Pablo} transmite algo recibido.}
+
+## Pablo no se propone saber otra cosa
+
+### 1 Corintios 2:2
 \begin{verseblock}
-Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.
+Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
 \end{verseblock}
-#### están firmes
-\headingfive{El evangelio no aparece solamente como el comienzo.}
--   Los creyentes lo recibieron.
--   Los creyentes permanecen en él.
--   Los creyentes están firmes en él.
+#### Jesucristo, y Este crucificado
+\headingfive{\fillin{Cristo} permanece ocupando el centro.}
 
-\headingfive{El evangelio continúa ocupando el centro.}
-
-## Pablo desea predicar el evangelio a creyentes
-
-### Romanos 1:15–16
-\begin{verseblock}
-Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustedes que están en Roma. Porque no me avergüenzo del evangelio, pues es poder de Dios para la salvación.
-\end{verseblock}
-#### también a ustedes
-\headingfive{Pablo escribe a creyentes.}
--   La iglesia ya existía.
--   Los creyentes ya habían creído.
--   Sin embargo, Pablo desea anunciarles el evangelio.
-
-#### es poder de Dios
-\headingfive{El evangelio permanece asociado al poder de Dios.}
--   El poder pertenece a Dios.
--   El evangelio permanece central.
--   El evangelio no es reemplazado.
-
-## Pablo protege el centro
+## El evangelio debe ser preservado
 
 ### Gálatas 1:8
 \begin{verseblock}
 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 \end{verseblock}
 #### otro evangelio
-\headingfive{El evangelio debe ser preservado.}
--   Pablo no permite mover el centro.
--   La fidelidad al evangelio es importante.
--   La iglesia debe permanecer en él.
+\headingfive{\fillin{Pablo} protege algo.}
+
+\headingfive{El evangelio no \fillin{puede} ser sustituido.}
+
+## Una observación
+
+\headingfive{Porque después de Hechos, los apóstoles no parecen \fillin{estar} ocupados con métodos.}
+
+\headingfive{Tampoco parecen \fillin{estar} ocupados con programas.}
+
+\headingfive{Repetidamente la atención \fillin{vuelve} a:}
+
+- Cristo.
+- El evangelio.
+- La cruz.
+- Lo recibido.
+- Lo anunciado.
+
+\headingfive{Y otra observación comienza a \fillin{surgir}.}
+
+\headingfive{Quizás \fillin{Mateo} 16:21 no era una observación aislada.}
+
+\headingfive{Porque \fillin{Jesús} había comenzado a mostrar a Sus discípulos:}
+- Su sufrimiento.
+- Su muerte.
+- Su resurrección.
+
+## Una pregunta
+
+\headingfive{¿Qué \fillin{están} tratando de preservar?}
+
+\headingfive{¿Qué desean encargar a \fillin{otros}?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 9 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR?
+
+## Una observación en las epístolas
+
+\headingfive{Después de escuchar a los apóstoles, \fillin{surge} una pregunta natural.}
+
+\headingfive{¿Qué \fillin{esperan} que permanezca?}
+
+\headingfive{¿Qué \fillin{desean} entregar a las generaciones futuras?}
+
+\headingfive{¿Qué \fillin{están} tratando de preservar?}
+
+\headingfive{La \fillin{pregunta} es importante.}
+
+\headingfive{Porque los apóstoles \fillin{saben} que partirán.}
+
+\headingfive{Pero no \fillin{hablan} como hombres desesperados.}
+
+\headingfive{Hablan como hombres que \fillin{están} encargando algo.}
+
+\headingfive{Pero, ¿\fillin{qué}?}
+
+## Pablo entrega lo que recibió
+
+### 1 Corintios 15:1-3
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras...
+\end{verseblock}
+#### les entregué
+
+\headingfive{\fillin{Pablo} se presenta como alguien que transmite algo recibido.}
+
+- Pablo recibió.
+- Pablo entregó.
+- Otros recibieron.
+
+#### en primer lugar
+\headingfive{\fillin{Pablo} establece prioridades.}
+- No todo posee la misma importancia.
+- Algo ocupa el primer lugar.
+
+## Los creyentes permanecen en ello
+
+### 1 Corintios 15:1
+\begin{verseblock}
+Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.
+\end{verseblock}
+#### están firmes
+\headingfive{El evangelio no \fillin{aparece} solamente al comienzo.}
+- Los creyentes lo recibieron.
+- Los creyentes permanecen en él.
+- Los creyentes están firmes en él.
+
+## Pablo protege lo recibido
+
+### Gálatas 1:8
+\begin{verseblock}
+Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
+\end{verseblock}
+#### otro evangelio
+\headingfive{\fillin{Pablo} protege algo.}
+- El centro no debe ser movido.
+- Lo recibido debe ser preservado.
 
 ## Timoteo debe encargar a otros
 
@@ -1594,389 +699,1293 @@ Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contra
 Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
 \end{verseblock}
 #### encarga a hombres fieles
-\headingfive{La verdad recibida debía continuar.}
--   Pablo enseñó.
--   Timoteo recibió.
--   Timoteo debía encargar.
--   Otros enseñarían también.
 
-\headingfive{La obra posee una dimensión generacional.}
+\headingfive{Lo recibido \fillin{debía} continuar.}
+- Pablo enseñó.
+- Timoteo recibió.
+- Timoteo debía encargar.
+- Otros enseñarían también.
+
+\headingfive{La \fillin{obra} posee una dimensión generacional.}
 
 ## Una observación
 
-\headingfive{Los apóstoles ciertamente enseñan muchas cosas.}
-\headingsix{Hablan acerca de:}
--   la iglesia,
--   el amor,
--   la esperanza,
--   la santidad,
--   la perseverancia,
--   los ancianos,
--   las buenas obras.
+\headingfive{Porque los apóstoles enseñan muchas \fillin{cosas}.}
 
-\headingfive{Pero repetidamente regresan al mismo centro.}
--   Cristo murió por nuestros pecados.
--   Fue sepultado.
--   Resucitó al tercer día conforme a las Escrituras.
+\headingfive{\fillin{Hablan} acerca de:}
+- la iglesia,
+- el amor,
+- la esperanza,
+- la santidad,
+- las buenas obras,
+- la perseverancia.
+
+\headingfive{Pero repetidamente regresan al \fillin{mismo} centro.}
+
+\headingfive{Cristo \fillin{murió} por nuestros pecados.}
+
+\headingfive{Fue \fillin{sepultado}.}
+
+\headingfive{Resucitó al tercer \fillin{día} conforme a las Escrituras.}
+
+\headingfive{Y esto también comienza a \fillin{llamar} nuestra atención.}
+
+\headingfive{Porque \fillin{Jesús} había comenzado a mostrar precisamente estas cosas.}
 
 ## Una pregunta
 
-# CAPÍTULO 17 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
+\headingfive{Si esto es lo que los apóstoles \fillin{desean} encargar...}
 
-## Muchas cosas solamente pueden ser vividas con otros
+\headingfive{¿Quiénes participan en esta \fillin{obra}?}
 
-\headingfive{Si el evangelio es lo que debe ser encargado, surge otra pregunta.}
--   ¿Por qué Cristo escogió la iglesia como el ambiente normal para esta participación?
--   ¿Por qué no simplemente individuos aislados?
--   ¿Por qué un cuerpo?
--   ¿Por qué una familia?
--   ¿Por qué tantos unos a otros?
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+# CAPÍTULO 10 - ¿CÓMO HABLAN LOS APÓSTOLES?
+
+## Una observación en las epístolas
+
+\headingfive{\fillin{Después} de escucharlos, algo comenzó a sorprendernos.}
+
+\headingfive{Pablo, Pedro, \fillin{Juan}, Judas y el escritor de Hebreos no parecen hablar como hombres aislados.}
+
+\headingfive{Tampoco parecen \fillin{hablar} como hombres ocupados en defender sus propios ministerios.}
+
+\headingfive{Sorprendentemente, todos parecen hablar con una \fillin{misma} orientación.}
+
+\headingfive{Permitiremos que \fillin{hablen} juntos.}
+
+### Filipenses 1:6
+\begin{verseblock}
+El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+\end{verseblock}
+### 1 Pedro 5:10
+\begin{verseblock}
+Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
+\end{verseblock}
+### Hebreos 7:25
+\begin{verseblock}
+Vive siempre para interceder por ellos.
+\end{verseblock}
+### Judas 24
+\begin{verseblock}
+Es poderoso para guardarlos sin caída y para presentarlos sin mancha.
+\end{verseblock}
+### 1 Juan 3:2
+\begin{verseblock}
+Cuando Él se manifieste, seremos semejantes a Él.
+\end{verseblock}
+## Una observación
+
+\headingfive{Porque todos parecen hablar de una misma \fillin{obra}.}
+
+\headingfive{Y todos parecen dirigir la atención hacia una \fillin{misma} Persona.}
+
+\headingfive{\fillin{Pablo} habla así.}
+
+\headingfive{\fillin{Pedro} habla así.}
+
+\headingfive{\fillin{Juan} habla así.}
+
+\headingfive{\fillin{Judas} habla así.}
+
+\headingfive{El escritor de Hebreos \fillin{habla} así.}
+
+\headingfive{\fillin{Trabajan}.}
+
+\headingfive{\fillin{Exhortan}.}
+
+\headingfive{\fillin{Enseñan}.}
+
+\headingfive{\fillin{Corrigen}.}
+
+\headingfive{Pero ninguno \fillin{parece} hablar como constructor.}
+
+\headingfive{Todos \fillin{parecen} profundamente confiados.}
+
+\headingfive{Y otra declaración de \fillin{Jesús} comienza a volver a nuestra memoria.}
+> «Yo edificaré Mi iglesia».
+
+## Una pregunta
+
+\headingfive{¿\fillin{Será} que los apóstoles entendían que la obra pertenecía a Otro?}
+
+\headingfive{¿\fillin{Quién} está edificando realmente?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 11 - LO QUE APRENDIMOS DE LOS APÓSTOLES
+
+## Una observación difícil de ignorar
+
+\headingfive{Después de escuchar a los apóstoles, algo comenzó a \fillin{llamar} nuestra atención.}
+
+\headingfive{\fillin{Pablo} habla así.}
+
+\headingfive{\fillin{Pedro} habla así.}
+
+\headingfive{\fillin{Juan} habla así.}
+
+\headingfive{\fillin{Judas} habla así.}
+
+\headingfive{El escritor de Hebreos \fillin{habla} así.}
+
+\headingfive{Todos \fillin{trabajan}.}
+
+\headingfive{Todos \fillin{exhortan}.}
+
+\headingfive{Todos \fillin{enseñan}.}
+
+\headingfive{Todos \fillin{corrigen}.}
+
+\headingfive{Todos \fillin{sufren}.}
+
+\headingfive{Pero ninguno parece hablar como si llevara sobre sí el \fillin{peso} de la obra.}
+
+\headingfive{Y otra declaración de \fillin{Jesús} comenzó a volver repetidamente a nuestra memoria.}
+
+### Mateo 16:18
+\begin{verseblock}
+Yo edificaré Mi iglesia.
+\end{verseblock}
+#### Yo edificaré
+\headingfive{La \fillin{habíamos} observado anteriormente.}
+
+\headingfive{Pero no intentamos \fillin{responder} inmediatamente.}
+
+\headingfive{Simplemente continuamos \fillin{escuchando}.}
+
+\headingfive{Y \fillin{ahora}, después de escuchar a los apóstoles, estas palabras parecen adquirir una nueva profundidad.}
+
+## Dios da el crecimiento
+
+### 1 Corintios 3:6
+\begin{verseblock}
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+\end{verseblock}
+#### Dios ha dado el crecimiento
+\headingfive{\fillin{Pablo} participó.}
+
+\headingfive{\fillin{Apolos} participó.}
+
+\headingfive{Pero el crecimiento es atribuido a \fillin{Dios}.}
+
+### Filipenses 1:6
+\begin{verseblock}
+Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+\end{verseblock}
+#### el que comenzó
+\headingfive{\fillin{Pablo} habla con una profunda confianza.}
+
+\headingfive{La \fillin{obra} comenzó con Otro.}
+
+\headingfive{La \fillin{obra} será perfeccionada por Otro.}
+
+### 1 Tesalonicenses 5:23-24
+\begin{verseblock}
+Fiel es Aquel que los llama, el cual también lo hará.
+\end{verseblock}
+#### el cual también lo hará
+
+\headingfive{Pablo vuelve nuevamente a la fidelidad de \fillin{Dios}.}
+
+### 1 Pedro 5:10
+\begin{verseblock}
+Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
+\end{verseblock}
+#### Él mismo
+\headingfive{Pedro dirige la atención hacia \fillin{Dios}.}
+
+### Hebreos 7:25
+\begin{verseblock}
+Vive siempre para interceder por ellos.
+\end{verseblock}
+#### vive siempre
+
+\headingfive{El escritor de Hebreos presenta a \fillin{Cristo} ocupado.}
+
+### Judas 24
+\begin{verseblock}
+Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha...
+\end{verseblock}
+#### poderoso para guardarlos
+
+\headingfive{\fillin{Judas} también habla con confianza.}
+
+## Una observación
+
+\headingfive{Porque todos parecen hablar de una misma \fillin{obra}.}
+
+\headingfive{Todos parecen dirigir la atención hacia una \fillin{misma} Persona.}
+
+\headingfive{Todos \fillin{trabajan}.}
+
+\headingfive{Todos \fillin{participan}.}
+
+\headingfive{Pero ninguno \fillin{parece} hablar como constructor.}
+
+\headingfive{Y quizás otra declaración de \fillin{Jesús} ayuda a explicar por qué.}
+> Yo edificaré Mi iglesia.
+
+\headingfive{Porque \fillin{quizá} los apóstoles realmente creían estas palabras.}
+
+## Una pregunta
+
+> Si Cristo continúa ocupado, ¿en qué parece estar ocupado?
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 12 - ¿QUÉ ESTÁ HACIENDO JESÚS HOY?
+
+## Lo que los apóstoles parecen afirmar unánimemente
+
+\headingfive{Después de escuchar a los apóstoles, otra pregunta comenzó a \fillin{surgir}.}
+
+\headingfive{¿Qué presenta cada uno de ellos \fillin{acerca} de Cristo?}
+
+\headingfive{\fillin{Pablo} habla.}
+
+\headingfive{\fillin{Pedro} habla.}
+
+\headingfive{\fillin{Juan} habla.}
+
+\headingfive{\fillin{Judas} habla.}
+
+\headingfive{El escritor de Hebreos \fillin{habla}.}
+
+\headingfive{Y algo comenzó a \fillin{llamar} nuestra atención.}
+
+\headingfive{Todos parecen presentar a un \fillin{Cristo} ocupado.}
+
+\headingfive{Permitiremos que \fillin{hablen}.}
+
+## Pablo
+
+### Efesios 5:25-27
+\begin{verseblock}
+Cristo amó a la iglesia y se entregó a Sí mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+\end{verseblock}
+#### Cristo amó
+
+\headingfive{\fillin{Pablo} presenta a Cristo ocupado con Su iglesia.}
+
+\headingfive{\fillin{Cristo}:}
+- la amó,
+- se entregó por ella,
+- la santifica,
+- la limpia,
+- y finalmente la presentará a Sí mismo.
+
+## Pedro
+
+### 1 Pedro 5:10
+\begin{verseblock}
+Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo, Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
+\end{verseblock}
+#### Él mismo
+
+\headingfive{Pedro dirige la atención hacia \fillin{Dios}.}
+
+\headingfive{Él \fillin{mismo}:}
+- perfeccionará,
+- afirmará,
+- fortalecerá,
+- establecerá.
+
+## El escritor de Hebreos
+
+### Hebreos 7:25
+\begin{verseblock}
+Por lo cual Él también es poderoso para salvar para siempre a los que por medio de Él se acercan a Dios, puesto que vive perpetuamente para interceder por ellos.
+\end{verseblock}
+#### vive perpetuamente
+
+\headingfive{\fillin{Cristo} no es presentado como alguien ausente.}
+
+\headingfive{\fillin{Él}:}
+- vive,
+- intercede,
+- salva para siempre.
+
+## Judas
+
+### Judas 24
+\begin{verseblock}
+Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría,
+\end{verseblock}
+#### poderoso para guardarlos
+
+\headingfive{\fillin{Judas} también presenta a Cristo ocupado.}
+
+\headingfive{\fillin{Él}:}
+- guarda,
+- y presentará a los Suyos.
+
+## Juan
+
+### 1 Juan 3:2
+\begin{verseblock}
+Sabemos que cuando Él se manifieste, seremos semejantes a Él, porque lo veremos como Él es.
+\end{verseblock}
+#### seremos semejantes a Él
+\headingfive{\fillin{Juan} presenta una obra que todavía continúa.}
+
+\headingfive{\fillin{Cristo} permanece siendo el centro.}
+
+## Una observación
+
+\headingfive{Porque \fillin{Pablo} habla así.}
+
+\headingfive{\fillin{Pedro} habla así.}
+
+\headingfive{\fillin{Juan} habla así.}
+
+\headingfive{\fillin{Judas} habla así.}
+
+\headingfive{El escritor de Hebreos \fillin{habla} así.}
+
+\headingfive{Todos parecen \fillin{hablar} de un Cristo ocupado.}
+
+\headingfive{Ninguno \fillin{parece} presentar a Cristo como alguien ausente.}
+
+\headingfive{Ninguno parece hablar como si la \fillin{obra} hubiera sido abandonada.}
+
+\headingfive{Y otra declaración de \fillin{Jesús} vuelve repetidamente a nuestra memoria.}
+> Yo edificaré Mi iglesia.
+
+\headingfive{Porque \fillin{quizás} los apóstoles realmente creían que Él estaba haciendo exactamente lo que prometió.}
+
+## Una pregunta
+
+\headingfive{Si Jesús continúa ocupado con Su pueblo, ¿dónde parece desarrollarse normalmente esta \fillin{obra}?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 13 - ¿CON QUIÉNES ESTÁ OCUPADO JESÚS?
+
+## Lo que los apóstoles parecen afirmar unánimemente
+
+\headingfive{Después de escuchar a los apóstoles hablar acerca de lo que Jesús está haciendo \fillin{hoy}, otra pregunta comenzó a surgir.}
+
+\headingfive{¿Con \fillin{quiénes} está ocupado?}
+
+\headingfive{¿A quiénes \fillin{ama}?}
+
+\headingfive{¿A \fillin{quiénes} santifica?}
+
+\headingfive{¿Por \fillin{quiénes} intercede?}
+
+\headingfive{¿A \fillin{quiénes} preserva?}
+
+\headingfive{Y nuevamente permitiremos que los apóstoles \fillin{hablen}.}
+
+## Pablo habla de un cuerpo
+
+### 1 Corintios 12:12
+\begin{verseblock}
+Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo.
+\end{verseblock}
+#### un solo cuerpo
+\headingfive{\fillin{Pablo} no presenta personas aisladas.}
+
+\headingfive{Presenta \fillin{muchos} miembros.}
+
+\headingfive{Presenta un \fillin{solo} cuerpo.}
+
+## Pablo habla de una esposa
+
+### Efesios 5:25
+\begin{verseblock}
+Cristo amó a la iglesia y se entregó a Sí mismo por ella.
+\end{verseblock}
+#### la iglesia
+\headingfive{Cristo \fillin{ama} a un pueblo.}
+
+\headingfive{\fillin{Cristo} se entregó por ella.}
+
+\headingfive{\fillin{Cristo} continúa ocupado con ella.}
+
+## Pablo habla de muchos hermanos
+
+### Romanos 8:29
+\begin{verseblock}
+...para que Él sea el primogénito entre muchos hermanos.
+\end{verseblock}
+#### muchos hermanos
+
+\headingfive{Cristo no aparece \fillin{solo}.}
+
+\headingfive{Los creyentes \fillin{son} presentados como hermanos.}
+
+## El escritor de Hebreos habla de santos hermanos
+
+### Hebreos 3:1
+\begin{verseblock}
+Por tanto, hermanos santos, participantes del llamamiento celestial, consideren a Jesús, el Apóstol y Sumo Sacerdote de nuestra fe.
+\end{verseblock}
+#### hermanos santos
+
+\headingfive{El escritor de Hebreos también \fillin{habla} de hermanos.}
+
+\headingfive{La atención continúa \fillin{sobre} un pueblo.}
+
+## Juan habla de hijos de Dios
+
+### 1 Juan 3:1
+\begin{verseblock}
+Miren cuán gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios. Y eso somos.
+\end{verseblock}
+#### hijos de Dios
+\headingfive{\fillin{Juan} presenta una misma realidad.}
+
+\headingfive{Los creyentes pertenecen a una \fillin{misma} familia.}
+
+## Pedro habla de una casa espiritual
+
+### 1 Pedro 2:5
+\begin{verseblock}
+También ustedes, como piedras vivas, sean edificados como casa espiritual...
+\end{verseblock}
+#### piedras vivas
+\headingfive{\fillin{Pedro} presenta personas unidas.}
+
+\headingfive{Una misma \fillin{casa}.}
+
+\headingfive{Una misma \fillin{obra}.}
+
+## Una observación
+
+\headingfive{Porque nuevamente intentamos escuchar distintas \fillin{voces}.}
+
+\headingfive{Y nuevamente encontramos una sorprendente \fillin{unidad}.}
+
+\headingfive{\fillin{Pablo} habla así.}
+
+\headingfive{\fillin{Pedro} habla así.}
+
+\headingfive{\fillin{Juan} habla así.}
+
+\headingfive{El escritor de Hebreos \fillin{habla} así.}
+
+\headingfive{Todos parecen describir a un \fillin{mismo} pueblo.}
+
+\headingfive{Un \fillin{cuerpo}.}
+
+\headingfive{Una \fillin{familia}.}
+
+\headingfive{\fillin{Hermanos}.}
+
+\headingfive{\fillin{Hijos}.}
+
+\headingfive{Una \fillin{casa}.}
+
+\headingfive{Porque muchos capítulos \fillin{atrás} escuchamos a Jesús decir:}
+> Yo edificaré Mi iglesia.
+
+\headingfive{En aquel \fillin{momento} simplemente observamos Sus palabras.}
+
+\headingfive{No sabíamos qué relación \fillin{tenían} con nuestra investigación.}
+
+\headingfive{Pero después de escuchar a los apóstoles una y otra \fillin{vez}, esa declaración comenzó a adquirir una nueva profundidad.}
+
+\headingfive{Porque \fillin{Jesús} había prometido hacerlo.}
+
+\headingfive{Y \fillin{aquí} estamos.}
+
+\headingfive{Escuchando a hombres que parecen convencidos de que Él continúa ocupado con Su \fillin{pueblo}.}
+
+## Una pregunta
+
+\headingfive{Si estas \fillin{son} las personas con las que Jesús está ocupado, ¿hacia dónde parece dirigirlas?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 14 - ¿HACIA DÓNDE PARECE LLEVAR JESÚS A SU PUEBLO?
+
+## Una obra que avanza hacia un «hasta»
+
+\headingfive{Después de escuchar a los apóstoles describir al pueblo con el que \fillin{Jesús} continúa ocupado, otra pregunta comenzó a surgir.}
+
+\headingfive{\fillin{Interesante}.}
+
+\headingfive{Muy \fillin{interesante}.}
+
+\headingfive{Porque los apóstoles no solamente hablan acerca de una \fillin{obra} presente.}
+
+\headingfive{También hablan acerca de una \fillin{meta}.}
+
+\headingfive{\fillin{Hablan} de algo que todavía está adelante.}
+
+\headingfive{Repetidamente \fillin{aparece} un lenguaje orientado hacia un «hasta».}
+
+\headingfive{Y permitiremos nuevamente que las Escrituras \fillin{hablen}.}
+
+## Hasta que todos lleguemos
+
+### Efesios 4:13
+\begin{verseblock}
+hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
+\end{verseblock}
+#### hasta que todos lleguemos
+\headingfive{Pablo habla de una \fillin{obra} que todavía no ha terminado.}
+
+\headingsix{\fillin{Existe} un "hasta".}
+\headingsix{La \fillin{obra} continúa.}
+\headingsix{La \fillin{meta} todavía permanece delante.}
+
+#### la plenitud de Cristo
+\headingfive{\fillin{Cristo} continúa siendo la referencia.}
+
+\headingsix{La \fillin{medida} permanece en Él.}
+\headingsix{La \fillin{madurez} permanece relacionada con Él.}
+
+## Hasta el fin del siglo
+
+### Mateo 28:20
+\begin{verseblock}
+Y Yo estoy con ustedes todos los días, hasta el fin del siglo.
+\end{verseblock}
+#### hasta el fin del siglo
+\headingfive{\fillin{Jesús} también habla de un "hasta".}
+
+\headingsix{Su \fillin{presencia} permanece.}
+\headingsix{La \fillin{obra} continúa.}
+\headingsix{El \fillin{final} todavía no ha llegado.}
+
+## Para presentársela a Sí mismo
+
+### Efesios 5:25–27
+\begin{verseblock}
+Maridos, amen a sus mujeres, así como Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera
+\end{verseblock}
+#### a fin de presentársela a Sí mismo
+\headingfive{\fillin{Pablo} habla de algo futuro.}
+
+\headingsix{Cristo \fillin{ama} a Su iglesia.}
+\headingsix{\fillin{Cristo} la santifica.}
+\headingsix{\fillin{Cristo} la prepara.}
+
+\headingfive{La \fillin{obra} continúa mirando hacia adelante.}
+
+## Conformados a la imagen de Su Hijo
+
+### Romanos 8:29
+\begin{verseblock}
+Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
+\end{verseblock}
+#### conforme a la imagen de Su Hijo
+\headingfive{\fillin{Cristo} continúa siendo la referencia.}
+
+\headingsix{Los creyentes \fillin{son} presentados en relación con Él.}
+\headingsix{La semejanza con Él permanece \fillin{delante}.}
+
+## Seremos semejantes a Él
+
+### 1 Juan 3:2
+\begin{verseblock}
+Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de ser. Pero sabemos que cuando Él se manifieste, seremos semejantes a Él, porque lo veremos como Él es.
+\end{verseblock}
+#### seremos semejantes a Él
+\headingfive{\fillin{Juan} también habla de una obra todavía no concluida.}
+
+\headingsix{\fillin{Existe} un presente.}
+\headingsix{\fillin{Existe} algo que todavía no se ha manifestado.}
+\headingsix{La semejanza con \fillin{Cristo} permanece delante.}
+
+## Una observación
+
+\headingfive{Repetidamente encontramos un \fillin{lenguaje} orientado hacia adelante.}
+
+\headingfive{Porque \fillin{aparecen} palabras como:}
+- hasta,
+- plenitud,
+- madurez,
+- presentación,
+- conformidad,
+- semejanza.
+
+\headingfive{Y nuevamente los apóstoles parecen \fillin{estar} de acuerdo.}
+
+\headingfive{Hablan como hombres convencidos de que la \fillin{obra} continúa.}
+
+\headingfive{\fillin{Hablan} como hombres que esperan algo.}
+
+\headingfive{Hablan como hombres que \fillin{miran} hacia adelante.}
+
+\headingfive{Porque muchos \fillin{años} antes Jesús había dicho:}
+
+\headingfive{Yo edificaré Mi \fillin{iglesia}.}
+
+\headingfive{Y también \fillin{había} prometido:}
+
+\headingfive{Yo estoy con ustedes todos los días, hasta el \fillin{fin} del siglo.}
+
+\headingfive{Y otra pregunta comenzó a \fillin{surgir}.}
+
+## Una pregunta
+
+\headingfive{Si la obra continúa avanzando hacia algo, ¿qué está haciendo Jesús \fillin{hoy} entre Su pueblo?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 15 - ESCUCHEMOS AL CONSTRUCTOR
+
+## ¿Qué está haciendo Jesús entre las iglesias?
+
+\headingfive{Después de escuchar a los apóstoles, algo comenzó a \fillin{llamar} nuestra atención.}
+
+\headingfive{Todos parecían convencidos de que \fillin{Cristo} continúa ocupado con Su pueblo.}
+
+\headingfive{Porque muchos capítulos \fillin{atrás} escuchamos a Jesús decir:}
+> Yo edificaré Mi iglesia.
+
+\headingfive{Y \fillin{aquí} estamos.}
+
+\headingfive{Entonces, por un \fillin{momento}, dejaremos de escuchar a los apóstoles.}
+
+\headingfive{Y permitiremos que el Constructor \fillin{mismo} hable.}
+
+## Jesús conoce
+
+### Apocalipsis 2:2
+\begin{verseblock}
+Yo conozco tus obras, tu fatiga y tu perseverancia...
+\end{verseblock}
+#### Yo conozco
+\headingfive{\fillin{Jesús} habla como alguien presente.}
+
+\headingfive{\fillin{Conoce}.}
+
+\headingfive{\fillin{Observa}.}
+
+\headingfive{No \fillin{aparece} distante.}
+
+## Jesús exhorta
+
+### Apocalipsis 2:4–5
+\begin{verseblock}
+Pero tengo esto contra ti: que has dejado tu primer amor. Recuerda, por tanto, de dónde has caído, y arrepiéntete...
+\end{verseblock}
+#### tengo esto contra ti
+\headingfive{\fillin{Jesús} continúa hablando a Su pueblo.}
+
+\headingfive{\fillin{Corrige}.}
+
+\headingfive{\fillin{Llama} al arrepentimiento.}
+
+#### arrepiéntete
+\headingfive{\fillin{Jesús} no aparece indiferente.}
+
+\headingfive{Continúa \fillin{ocupado} con las iglesias.}
+
+## Jesús disciplina
+
+### Apocalipsis 3:19
+\begin{verseblock}
+Yo reprendo y disciplino a todos los que amo; sé, pues, celoso y arrepiéntete.
+\end{verseblock}
+#### Yo reprendo y disciplino
+\headingfive{\fillin{Jesús} continúa actuando.}
+
+\headingfive{Su \fillin{amor} permanece.}
+
+\headingfive{Su \fillin{atención} permanece.}
+
+## Jesús promete
+
+### Apocalipsis 2:7
+\begin{verseblock}
+Al vencedor le daré a comer del árbol de la vida.
+\end{verseblock}
+### Apocalipsis 2:10
+\begin{verseblock}
+Sé fiel hasta la muerte, y Yo te daré la corona de la vida.
+\end{verseblock}
+### Apocalipsis 3:21
+\begin{verseblock}
+Al vencedor le concederé sentarse conmigo en Mi trono.
+\end{verseblock}
+#### Yo daré
+\headingfive{\fillin{Jesús} continúa hablando hacia el futuro.}
+
+\headingfive{Sus \fillin{promesas} permanecen.}
+
+\headingfive{La \fillin{obra} todavía no ha concluido.}
+
+## Una observación
+
+\headingfive{\fillin{Jesús} no parece hablar como alguien ausente.}
+
+\headingfive{Tampoco \fillin{parece} hablar como alguien retirado.}
+
+\headingfive{\fillin{Continúa}:}
+
+- conociendo,
+- corrigiendo,
+- disciplinando,
+- prometiendo.
+
+\headingfive{Y Sus palabras continúan \fillin{llenas} de:}
+> Yo conozco.
+> Yo reprendo.
+> Yo disciplino.
+> Yo daré.
+> Yo concederé.
+
+\headingfive{Porque Él \fillin{había} prometido:}
+> Yo edificaré Mi iglesia.
+
+\headingfive{Y parece no haber abandonado Su \fillin{obra}.}
+
+## Una pregunta
+
+\headingfive{Si Cristo continúa ocupado con Su pueblo, ¿qué \fillin{cosas} podrían desviarlo de aquello hacia lo cual Él lo conduce?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 16 - AMENAZAS A LA OBRA DEL CONSTRUCTOR
+
+## El Constructor también advierte
+
+\headingfive{Después de escuchar al Constructor, otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Porque \fillin{Jesús} no solamente promete.}
+
+\headingfive{También \fillin{corrige}.}
+
+\headingfive{También \fillin{reprende}.}
+
+\headingfive{También \fillin{llama} al arrepentimiento.}
+
+\headingfive{Y al volver a escuchar a los apóstoles, comenzamos a \fillin{notar} algo parecido.}
+
+\headingfive{\fillin{Ellos} también:}
+- advierten,
+- corrigen,
+- exhortan,
+- llaman al arrepentimiento.
+
+\headingfive{Porque habían estado con \fillin{Jesús}.}
+
+\headingfive{Y parecen asumir que no \fillin{todas} las influencias favorecen aquello hacia lo cual Cristo conduce a Su pueblo.}
+
+\headingfive{Permitiremos nuevamente que las Escrituras \fillin{hablen}.}
+
+## Las divisiones desvían la atención
+
+### 1 Corintios 1:12
+\begin{verseblock}
+Quiero decir, que cada uno de ustedes dice: «Yo soy de Pablo», «Yo de Apolos», «Yo de Cefas», y «Yo de Cristo».
+\end{verseblock}
+#### Yo soy de Pablo
+\headingfive{Los hombres pueden ocupar un \fillin{lugar} que no les corresponde.}
+
+\headingfive{La atención \fillin{puede} apartarse de Cristo.}
+
+\headingfive{Las divisiones \fillin{dañan} aquello que Él está edificando.}
+
+## La sabiduría humana desplaza la sabiduría de Dios
+
+### 1 Corintios 3:18-19
+\begin{verseblock}
+Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
+\end{verseblock}
+#### la sabiduría de este mundo
+\headingfive{Los hombres \fillin{pueden} confiar en sí mismos.}
+
+\headingfive{Los métodos humanos no sustituyen la \fillin{obra} de Dios.}
+
+\headingfive{La gloria pertenece a \fillin{Dios}.}
+
+## La inmadurez impide el crecimiento
+
+### Efesios 4:14
+\begin{verseblock}
+para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
+\end{verseblock}
+#### ya no seamos niños
+\headingfive{Los creyentes \fillin{pueden} permanecer inmaduros.}
+
+\headingfive{La madurez continúa \fillin{siendo} importante.}
+
+\headingfive{Cristo conduce a Su pueblo hacia otra \fillin{cosa}.}
+
+## Las falsas enseñanzas arrastran tras los hombres
+
+### Hechos 20:29-30
+\begin{verseblock}
+Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
+\end{verseblock}
+#### arrastrar a los discípulos tras ellos
+\headingfive{El peligro \fillin{puede} venir desde afuera.}
+
+\headingfive{El peligro también \fillin{puede} surgir desde dentro.}
+
+\headingfive{Los hombres \fillin{pueden} buscar seguidores para sí mismos.}
+
+## El pecado afecta a otros
+
+### 1 Corintios 5:6
+\begin{verseblock}
+¿No saben que un poco de levadura fermenta toda la masa?
+\end{verseblock}
+#### un poco de levadura
+\headingfive{La \fillin{vida} del cuerpo no es independiente.}
+
+\headingfive{El pecado afecta a \fillin{otros}.}
+
+\headingfive{La santidad continúa \fillin{siendo} importante.}
+
+## Una observación
+
+\headingfive{Porque el Constructor no solamente \fillin{promete}.}
+
+\headingfive{También \fillin{advierte}.}
+
+\headingfive{Y Sus siervos \fillin{hacen} lo mismo.}
+
+\headingfive{No parecen \fillin{hablar} como constructores ansiosos.}
+
+\headingfive{Parecen proteger aquello que Cristo \fillin{mismo} continúa edificando.}
+
+## Una pregunta
+
+\headingfive{Si Cristo continúa edificando Su iglesia, ¿\fillin{cómo} participan Sus siervos en esta obra?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 17 - VOLVAMOS A ESCUCHAR A LOS APÓSTOLES
+
+## Porque habían estado con Jesús
+
+\headingfive{Después de escuchar al Constructor, otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Porque al volver a los apóstoles, comenzamos a \fillin{notar} algo.}
+
+\headingfive{Ellos \fillin{hablan} como Él.}
+
+\headingfive{Ellos \fillin{aman} como Él.}
+
+\headingfive{Ellos \fillin{advierten} como Él.}
+
+\headingfive{Ellos \fillin{exhortan} como Él.}
+
+\headingfive{Ellos vuelven continuamente a \fillin{Cristo}.}
+
+\headingfive{Y permitiremos que las Escrituras \fillin{hablen}.}
+
+## Habían estado con Jesús
+
+### Hechos 4:13
+\begin{verseblock}
+Entonces viendo la confianza de Pedro y de Juan, y dándose cuenta de que eran hombres sin letras y sin preparación, se maravillaban, y reconocían que ellos habían estado con Jesús.
+\end{verseblock}
+#### habían estado con Jesús
+\headingfive{Los hombres reconocían algo en Pedro y \fillin{Juan}.}
+
+\headingfive{No \fillin{eran} conocidos por su preparación.}
+
+\headingfive{No \fillin{eran} conocidos por su educación.}
+
+\headingfive{\fillin{Eran} reconocidos por una relación.}
+
+\headingfive{Habían estado con \fillin{Jesús}.}
+
+## Los apóstoles no se cansan de recordar
+
+### Filipenses 3:1
+\begin{verseblock}
+Por lo demás, hermanos míos, regocíjense en el Señor. A mí no me es molesto escribirles las mismas cosas, y para ustedes es motivo de seguridad.
+\end{verseblock}
+#### las mismas cosas
+\headingfive{\fillin{Pablo} no busca novedades.}
+
+\headingfive{No le \fillin{molesta} repetir.}
+
+\headingfive{\fillin{Considera} que es para seguridad de ellos.}
+
+## Pedro no se cansa de recordar
+
+### 2 Pedro 1:12
+\begin{verseblock}
+Por tanto, siempre estaré listo para recordarles estas cosas, aunque ustedes ya las sepan y hayan sido confirmados en la verdad que está presente en ustedes.
+\end{verseblock}
+#### recordarles estas cosas
+\headingfive{Pedro \fillin{sabe} que ellos ya las conocen.}
+
+\headingfive{Pero considera necesario \fillin{recordar}.}
+
+\headingfive{La \fillin{verdad} continúa siendo importante.}
+
+### 2 Pedro 1:13
+\begin{verseblock}
+También considero justo, mientras esté en este cuerpo, estimularlos recordándoles estas cosas,
+\end{verseblock}
+#### estimularlos recordándoles
+\headingfive{\fillin{Pedro} no solamente informa.}
+
+\headingfive{\fillin{Procura} despertar.}
+
+\headingfive{\fillin{Procura} estimular.}
+
+## El escritor de Hebreos dirige la atención hacia Jesús
+
+### Hebreos 3:1
+\begin{verseblock}
+Por tanto, hermanos santos, participantes del llamamiento celestial, consideren a Jesús, el Apóstol y Sumo Sacerdote de nuestra fe.
+\end{verseblock}
+#### consideren a Jesús
+
+\headingfive{La atención \fillin{vuelve} nuevamente a Cristo.}
+
+\headingfive{Los creyentes \fillin{son} dirigidos hacia Él.}
+
+### Hebreos 12:2
+\begin{verseblock}
+puestos los ojos en Jesús, el autor y consumador de la fe...
+\end{verseblock}
+#### puestos los ojos en Jesús
+\headingfive{La \fillin{mirada} continúa dirigida hacia Él.}
+
+\headingfive{\fillin{Cristo} permanece en el centro.}
+
+## Una observación
+
+\headingfive{Porque \fillin{después} de escuchar al Constructor, volvemos a Sus siervos.}
+
+\headingfive{Y comenzamos a entenderlos \fillin{mejor}.}
+
+\headingfive{Con \fillin{razón} Pablo insiste.}
+
+\headingfive{Con \fillin{razón} Pedro recuerda.}
+
+\headingfive{Con \fillin{razón} Hebreos dirige la mirada hacia Jesús.}
+
+\headingfive{Con razón \fillin{Juan} llama a permanecer en Él.}
+
+\headingfive{Habían estado con \fillin{Jesús}.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Ellos mismos parecen ser evidencia \fillin{viva} de aquello que desean transmitir.}
+
+\headingfive{No solamente \fillin{hablan} acerca de Cristo.}
+
+\headingfive{Ellos \fillin{habían} estado con Él.}
+
+\headingfive{Y buscan dirigir a \fillin{otros} hacia Él.}
+
+## Una pregunta
+
+\headingfive{Si los apóstoles habían estado con \fillin{Jesús}, ¿qué es aquello que desean transmitir a las iglesias?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 18 – ¿POR QUÉ ENSEÑAN TANTO LOS APÓSTOLES?
+
+## Según las Escrituras
+
+\headingfive{Después de escuchar a los apóstoles, otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Porque ellos parecen volver constantemente al \fillin{mismo} lugar.}
+
+\headingfive{Pero no porque \fillin{estén} repitiendo una fórmula.}
+
+\headingfive{Y tampoco porque \fillin{hayan} inventado una tradición.}
+
+\headingfive{Parecen volver a aquello que \fillin{Jesús} mismo comenzó a mostrar.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{\fillin{Jesús} también parecía volver constantemente al mismo lugar.}
+
+\headingfive{¿\fillin{Por} qué?}
+\headingfive{Permitiremos nuevamente que las Escrituras \fillin{hablen}.}
+
+## Jesús comenzó a mostrar
+
+### Mateo 16:21
+\begin{verseblock}
+Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
+\end{verseblock}
+#### debía
+\headingfive{\fillin{Jesús} habla de una necesidad.}
+
+\headingfive{No presenta un \fillin{plan} alternativo.}
+
+\headingfive{Comienza a mostrar aquello que \fillin{debía} ocurrir.}
+
+## ¿No era necesario?
+
+### Lucas 24:26
+\begin{verseblock}
+¿No era necesario que el Cristo padeciera todas estas cosas y entrara en Su gloria?
+\end{verseblock}
+#### era necesario
+\headingfive{\fillin{Jesús} continúa después de Su resurrección.}
+
+\headingfive{La \fillin{necesidad} permanece.}
+
+\headingfive{Los acontecimientos habían ocurrido conforme al propósito de \fillin{Dios}.}
+
+## Lo referente a Él
+
+### Lucas 24:27
+\begin{verseblock}
+Comenzando por Moisés y continuando con todos los profetas, les explicó lo referente a Él en todas las Escrituras.
+\end{verseblock}
+#### lo referente a Él
+\headingfive{\fillin{Jesús} dirige la atención hacia las Escrituras.}
+
+\headingfive{Y dirige las Escrituras hacia Sí \fillin{mismo}.}
+
+## Era necesario que se cumpliera
+
+### Lucas 24:44
+\begin{verseblock}
+Era necesario que se cumpliera todo lo que sobre Mí está escrito en la Ley de Moisés, los Profetas y los Salmos.
+\end{verseblock}
+#### era necesario
+\headingfive{Jesús relaciona Su \fillin{obra} con aquello que estaba escrito.}
+
+\headingfive{La atención permanece \fillin{sobre} Él.}
+
+## Lo mismo que recibí
+
+### 1 Corintios 15:1–4
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras; que fue sepultado y que resucitó al tercer día conforme a las Escrituras.
+\end{verseblock}
+#### conforme a las Escrituras
+\headingfive{\fillin{Pablo} no presenta algo nuevo.}
+
+\headingfive{Continúa anunciando aquello que \fillin{recibió}.}
+
+\headingfive{Cristo y Su \fillin{obra} permanecen en el centro.}
+
+## Una observación
+
+\headingfive{\fillin{Jesús} comenzó a mostrar aquello que era necesario.}
+
+\headingfive{\fillin{Después} de Su resurrección continuó explicando las Escrituras.}
+
+\headingfive{Los apóstoles continuaron haciendo lo \fillin{mismo}.}
+
+\headingfive{Repetidamente vuelven al \fillin{mismo} lugar.}
+
+\headingfive{No porque no tengan \fillin{nada} más que decir.}
+
+\headingfive{\fillin{Sino} porque aquello que Jesús comenzó a mostrar nunca dejó de ser necesario.}
+
+\headingfive{Cristo \fillin{murió}.}
+
+\headingfive{\fillin{Cristo} fue sepultado.}
+
+\headingfive{\fillin{Cristo} resucitó.}
+\headingfive{Todo \fillin{ocurrió} conforme a las Escrituras.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Los creyentes no \fillin{parecen} avanzar alejándose de aquello que recibieron.}
+
+\headingfive{Parecen avanzar profundizando en \fillin{ello}.}
+
+\headingfive{Porque aquello que era necesario continúa \fillin{siendo} necesario.}
+
+## Una pregunta
+
+\headingfive{Si aquello que era necesario continúa ocupando un lugar \fillin{tan} importante, ¿por qué la iglesia es un lugar tan extraordinario para participar?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 19 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
 
 ## Un cuerpo
 
-### 1 Corintios 12:21
+### Romanos 12:4–5
 \begin{verseblock}
-El ojo no puede decir a la mano: “No te necesito”.
+Así como en un cuerpo tenemos muchos miembros, y no todos los miembros tienen la misma función, así nosotros, que somos muchos, somos un cuerpo en Cristo, e individualmente miembros los unos de los otros.
 \end{verseblock}
-#### No te necesito
-\headingfive{Los creyentes no son presentados como independientes.}
--   Los miembros son diferentes.
--   Los miembros se necesitan.
--   Ningún miembro se basta a sí mismo.
+#### miembros los unos de los otros
+\headingfive{\fillin{Pablo} describe una relación.}
+- No viven aislados.
+- Pertenecen unos a otros.
+- Participan juntos.
 
-\headingfive{Cristo diseñó un cuerpo.}
--   La diversidad no elimina la unidad.
--   La unidad no elimina la diversidad.
--   Los miembros participan juntos.
+\headingfive{La \fillin{vida} es compartida.}
 
-## Una familia
+## La familia de Dios
 
 ### Efesios 2:19
 \begin{verseblock}
-Son de la familia de Dios.
+Ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
 \end{verseblock}
 #### la familia de Dios
-\headingfive{Los creyentes pertenecen a una misma casa.}
--   Dios es Padre.
--   Los creyentes son hermanos.
--   La vida cristiana es compartida.
+\headingfive{Los creyentes no \fillin{aparecen} como individuos aislados.}
+- Pertenecen a una misma familia.
+- Comparten una misma esperanza.
+- Comparten una misma vida.
 
-\headingfive{La obra no ocurre en aislamiento.}
+\headingfive{\fillin{Cristo} reunió un pueblo.}
 
-## La verdad es vivida unos con otros
+## La comunión
 
-### Romanos 12:10
+### 1 Juan 1:3
 \begin{verseblock}
-Sean afectuosos unos con otros con amor fraternal.
+Lo que hemos visto y oído les proclamamos también a ustedes, para que también ustedes tengan comunión con nosotros; y en verdad nuestra comunión es con el Padre y con Su Hijo Jesucristo.
 \end{verseblock}
-#### unos con otros
-\headingfive{El amor requiere personas reales.}
--   El amor es vivido.
--   El servicio es vivido.
--   El perdón es vivido.
--   La paciencia es vivida.
+#### comunión con nosotros
+\headingfive{\fillin{Juan} relaciona dos realidades.}
+- Comunión con Dios.
+- Comunión con otros.
 
-\headingfive{La participación ocurre en relaciones.}
+\headingfive{\fillin{Ambas} aparecen juntas.}
 
-## Cristo distribuyó dones
+## Lleven los unos las cargas de los otros
 
-### Efesios 4:11–12
+### Gálatas 6:2
 \begin{verseblock}
-Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
+Lleven los unos las cargas de los otros, y cumplan así la ley de Cristo.
 \end{verseblock}
-#### Él dio
-\headingfive{Los dones proceden de Cristo.}
--   Cristo distribuye.
--   Cristo equipa.
--   Cristo edifica Su cuerpo.
+#### los unos las cargas de los otros
+\headingfive{Muchas \fillin{cosas} requieren personas reales.}
+- Servir.
+- Animar.
+- Ayudar.
+- Sostener.
 
-\headingfive{Ningún creyente posee todo.}
--   Los dones son compartidos.
--   Los miembros sirven unos a otros.
+\headingfive{La participación ocurre con \fillin{otros}.}
 
-## Considerarnos unos a otros
+## Considerémonos unos a otros
 
 ### Hebreos 10:24–25
 \begin{verseblock}
-Considerémonos unos a otros para estimularnos al amor y a las buenas obras
+Considerémonos unos a otros para estimularnos al amor y a las buenas obras, no dejando de congregarnos.
 \end{verseblock}
 #### considerémonos unos a otros
-\headingfive{La perseverancia posee una dimensión compartida.}
--   Los creyentes se animan mutuamente.
--   Los creyentes se estimulan mutuamente.
--   Los creyentes perseveran juntos.
+\headingfive{La \fillin{vida} cristiana no es presentada como una experiencia aislada.}
+- Exhortar.
+- Estimular.
+- Reunirse.
+- Animarse.
 
-\headingfive{La vida cristiana no es presentada como una experiencia aislada.}
-
-## Generaciones viviendo juntas
-
-### Tito 2:1–5
-\begin{verseblock}
-En cuanto a ti, enseña lo que está de acuerdo con la sana doctrina.
-\end{verseblock}
-#### enseña
-\headingfive{La verdad es acompañada por relaciones.}
--   Los ancianos participan.
--   Las ancianas participan.
--   Los jóvenes participan.
--   Las generaciones viven juntas.
-
-\headingfive{La verdad no es solamente transmitida.}
-\headingsix{Es vivida.}
-
-## El evangelio crea una comunión
-
-### Filemón 6
-\begin{verseblock}
-Ruego que la comunión de tu fe llegue a ser eficaz por el conocimiento de todo lo bueno que hay en ustedes mediante Cristo.
-\end{verseblock}
-#### la comunión
-\headingfive{La fe posee una dimensión compartida.}
--   La comunión pertenece al evangelio.
--   Los creyentes participan juntos.
--   Cristo es compartido entre ellos.
+\headingfive{\fillin{Cristo} reunió un pueblo.}
 
 ## Una observación
 
-Los apóstoles no presentan la iglesia simplemente como un lugar para asistir.
+\headingfive{Los apóstoles no \fillin{parecen} describir creyentes aislados.}
 
-\headingsix{La presentan como:}
--   un cuerpo,
--   una familia,
--   una comunión,
--   una casa,
--   un pueblo,
--   una participación.
+\headingfive{\fillin{Hablan} acerca de:}
+- un cuerpo,
+- una familia,
+- una comunión,
+- unos a otros,
+- miembros,
+- hermanos.
 
-\headingsix{Porque muchas de las cosas que Cristo valora solamente pueden ser vividas con otros.}
--   Amar.
--   Servir.
--   Soportar.
--   Perdonar.
--   Animar.
--   Llevar cargas.
--   Enseñar.
--   Orar.
--   Compartir.
+\headingfive{Porque muchas \fillin{cosas} solamente pueden ser vividas con otros.}
 
-## Una pregunta
+\headingfive{\fillin{Amar}.}
+\headingfive{\fillin{Servir}.}
+\headingfive{\fillin{Perdonar}.}
+\headingfive{\fillin{Llevar} cargas.}
 
-# CAPÍTULO 18 - ¿CÓMO PERMANECE EL EVANGELIO EN EL CENTRO?
+\headingfive{\fillin{Animar}.}
+\headingfive{\fillin{Soportar}.}
+\headingfive{\fillin{Orar}.}
+\headingfive{\fillin{Enseñar}.}
 
-## El evangelio es el ambiente de la vida cristiana
+\headingfive{\fillin{Compartir}.}
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
 
-\headingfive{Si el evangelio es lo que debe ser encargado, surge una pregunta inevitable.}
-
-\headingfive{¿Cómo permanece en el centro?}
-
-\headingfive{Porque el peligro no consiste solamente en abandonar el evangelio.}
-
-\headingfive{El peligro consiste en desplazarlo.}
-\headingsix{Las iglesias pueden conservar:}
--   reuniones,
--   enseñanza,
--   líderes,
--   programas,
--   actividades,
-
-\headingsix{y sin embargo dejar de vivir dentro de la realidad del Cristo crucificado y resucitado.}
-\headingsix{Por eso los apóstoles constantemente vuelven al centro.}
-
-## Pablo predica el evangelio a creyentes
-
-### Romanos 1:15–16
-\begin{verseblock}
-Ansioso estoy de anunciar el evangelio también a ustedes que están en Roma.
-\end{verseblock}
-#### también a ustedes
-\headingfive{Pablo desea anunciar el evangelio a una iglesia.}
--   Los creyentes ya habían creído.
--   La iglesia ya existía.
--   Sin embargo, Pablo desea predicarles el evangelio.
-
-#### es poder de Dios
-\headingfive{El evangelio permanece asociado al poder de Dios.}
--   No aparece como algo del pasado.
--   El evangelio permanece central.
--   El poder pertenece a Dios.
-
-## Los creyentes permanecen firmes en él
-
-### 1 Corintios 15:1
-\begin{verseblock}
-El evangelio… el cual también recibieron, en el cual también están firmes.
-\end{verseblock}
-#### están firmes
-\headingfive{El evangelio no aparece solamente como una puerta de entrada.}
--   Fue recibido.
--   Continúa siendo el lugar donde permanecen.
--   Los creyentes están firmes en él.
-
-## Pablo vuelve continuamente a Cristo crucificado
-
-### 1 Corintios 2:2
-\begin{verseblock}
-Nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
-\end{verseblock}
-#### Jesucristo, y Este crucificado
-\headingfive{Pablo no se mueve del centro.}
--   No abandona a Cristo crucificado.
--   No sustituye la sabiduría de Dios.
--   No coloca otra cosa en el centro.
-
-## Pablo protege el centro
-
-### Gálatas 1:6–8
-\begin{verseblock}
-Se están apartando… hacia un evangelio diferente.
-\end{verseblock}
-#### un evangelio diferente
-\headingfive{El peligro consiste en mover el centro.}
--   La iglesia todavía existe.
--   Las personas siguen siendo religiosas.
--   Pero el evangelio puede ser distorsionado.
-
-## El amor puede enfriarse
-
-### Apocalipsis 2:4
-\begin{verseblock}
-Has dejado tu primer amor.
-\end{verseblock}
-#### has dejado
-\headingfive{La actividad puede permanecer.}
--   El trabajo permanece.
--   La perseverancia permanece.
--   La doctrina permanece.
-
-\headingfive{Pero algo puede ser perdido.}
--   Cristo llama al arrepentimiento.
--   El centro importa.
-
-## Los creyentes deben considerar continuamente a Jesús
-
-### Hebreos 12:2–3
-\begin{verseblock}
-puestos los ojos en Jesús, el autor y consumador de la fe, quien por el gozo puesto delante de Él soportó la cruz, despreciando la vergüenza, y se ha sentado a la diestra del trono de Dios. Consideren, pues, a Aquel que soportó tal hostilidad de los pecadores contra Él mismo, para que no se cansen ni se desanimen en su corazón.
-\end{verseblock}
-#### puestos los ojos en Jesús
-\headingfive{La atención debe ser continuamente dirigida hacia Él.}
--   Jesús permanece en el centro.
--   Los creyentes consideran a Cristo.
--   La perseverancia ocurre mirando a Él.
-
-## Una observación
-
-\headingfive{Los apóstoles no parecen asumir que el centro se conservará automáticamente.}
-\headingsix{Constantemente:}
--   recuerdan,
--   exhortan,
--   enseñan,
--   anuncian,
--   corrigen,
--   advierten.
-
-\headingfive{No porque el evangelio sea insuficiente.}
-
-\headingfive{Sino porque el corazón humano es propenso a mover el centro.}
-
-## Otra observación
-
-\headingfive{El evangelio no parece ser simplemente el comienzo de la vida cristiana.}
-
-\headingfive{Parece ser el ambiente en el que la iglesia vive.}
-\headingsix{Porque fuera del evangelio:}
--   la enseñanza se vuelve orgullo,
--   el servicio se vuelve mérito,
--   la disciplina se vuelve legalismo,
--   la santidad se vuelve rendimiento,
--   el liderazgo se vuelve poder,
--   la participación se vuelve ansiedad.
-
-\headingsix{Pero dentro del evangelio:}
--   todo encuentra su lugar.
+\headingfive{La iglesia no \fillin{parece} existir solamente para reunir personas.}
+\headingfive{Parece ser el lugar donde Cristo permite que muchas cosas \fillin{sean} vividas juntos.}
 
 ## Una pregunta
 
-# CAPÍTULO 19 - PARTICIPANDO EN CRISTO
+\headingfive{Si la iglesia es el lugar donde muchas cosas \fillin{son} vividas juntos, ¿cómo participan los creyentes en la obra continua de Cristo?}
 
-\headingfive{Después de escuchar repetidamente a los apóstoles regresar al evangelio, surge una pregunta natural.}
-\headingsix{¿Por medio de qué participan los creyentes en la obra continua de Cristo?}
-\headingsix{¿Presentan los apóstoles un segundo medio después de la salvación?}
-\headingsix{¿O continúan llevando a los creyentes más profundamente al mismo evangelio?}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-\headingfive{Permitiremos nuevamente que hablen los apóstoles.}
+# CAPÍTULO 20 - PARTICIPANDO EN CRISTO
 
-## Participación en Cristo
+## El mismo Cristo
+
+\headingfive{Después de observar que aquello que era necesario \fillin{según} las Escrituras continúa ocupando el centro, otra pregunta comenzó a surgir.}
+
+\headingfive{Porque los apóstoles no parecen introducir un segundo \fillin{medio}.}
+
+\headingfive{No parecen \fillin{decir}:}
+
+\headingfive{Crean en Cristo para ser salvos, y luego busquen otra \fillin{cosa} para crecer.}
+
+\headingfive{Más \fillin{bien}, continúan llevando a los creyentes hacia Cristo.}
+
+\headingfive{Y otra pregunta comenzó a \fillin{surgir}.}
+
+\headingfive{¿Por medio de qué participan los creyentes en la \fillin{obra} continua de Cristo?}
+
+\headingfive{¿Presentan los apóstoles un segundo \fillin{medio} después de la salvación?}
+
+\headingfive{¿O continúan llevando a los creyentes más profundamente al \fillin{mismo} Cristo?}
+
+\headingfive{Permitiremos nuevamente que \fillin{hablen} los apóstoles.}
+
+## Unidos a Él
 
 ### Romanos 6:3–5
 \begin{verseblock}
 Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección.
 \end{verseblock}
-#### en Su muerte
-\headingfive{Pablo vuelve a llevar a los creyentes hacia Cristo.}
--   Cristo murió.
--   Los creyentes murieron con Él.
--   Cristo fue sepultado.
--   Los creyentes fueron sepultados con Él.
--   Cristo resucitó.
--   Los creyentes participan de Su vida.
-
-\headingfive{Pablo no introduce otro centro. Vuelve a Cristo.}
 #### unidos a Él
-\headingfive{La participación aparece ligada a Cristo mismo.}
--   El creyente no aparece separado de Cristo.
--   La vida se encuentra en Él.
--   La participación ocurre en relación con Él.
 
-## El viejo hombre fue crucificado con Él
+\headingfive{\fillin{Pablo} continúa llevando a los creyentes hacia Cristo.}
+
+\headingfive{La participación aparece \fillin{ligada} a Él.}
+
+\headingfive{La \fillin{vida} se entiende en relación con Él.}
+
+## Con Él
 
 ### Romanos 6:6
 \begin{verseblock}
 Nuestro viejo hombre fue crucificado con Él.
 \end{verseblock}
 #### con Él
-\headingfive{La cruz continúa ocupando el centro.}
--   La obra pertenece a Cristo.
--   Pablo describe al creyente en relación con Él.
--   La identidad es entendida desde Cristo.
 
-## Considérense
+\headingfive{La \fillin{cruz} continúa ocupando el centro.}
+
+\headingfive{\fillin{Pablo} describe al creyente en relación con Cristo.}
+
+\headingfive{La identidad se \fillin{entiende} desde Él.}
+
+## Vivos para Dios en Cristo Jesús
 
 ### Romanos 6:11
 \begin{verseblock}
 Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
 \end{verseblock}
-#### vivos para Dios en Cristo Jesús
-\headingfive{Pablo continúa ubicando la vida en Cristo.}
--   La vida se encuentra en Él.
--   Los creyentes viven para Dios en Cristo.
--   La participación permanece centrada en Él.
+#### en Cristo Jesús
+
+\headingfive{La \fillin{vida} continúa siendo entendida desde Cristo.}
+
+\headingfive{Los creyentes viven para \fillin{Dios} en Él.}
+
+\headingfive{La participación \fillin{permanece} relacionada con Él.}
 
 ## Sepultados y resucitados con Él
 
 ### Colosenses 2:12
 \begin{verseblock}
-habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción del poder de Dios, que lo resucitó de entre los muertos.
+Habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción del poder de Dios.
 \end{verseblock}
 #### con Él
-\headingfive{Pablo vuelve nuevamente al mismo centro.}
--   Muerte con Él.
--   Sepultura con Él.
--   Resurrección con Él.
+\headingfive{\fillin{Muerte} con Él.}
 
-\headingfive{El centro no cambia.}
+\headingfive{\fillin{Sepultura} con Él.}
 
-### Colosenses 3:1–3
-\begin{verseblock}
-Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios. Pongan la mira en las cosas de arriba, no en las de la tierra. Porque ustedes han muerto, y su vida está escondida con Cristo en Dios.
-\end{verseblock}
-#### han resucitado con Cristo
-\headingfive{La nueva vida continúa siendo entendida desde Cristo.}
--   Los creyentes buscan las cosas de arriba.
--   Cristo permanece ocupando el centro.
--   La vida se entiende desde lo que Dios ha hecho.
+\headingfive{\fillin{Resurrección} con Él.}
+
+\headingfive{El \fillin{centro} no cambia.}
 
 ## Cristo vive en mí
 
@@ -1985,213 +1994,251 @@ Si ustedes, pues, han resucitado con Cristo, busquen las cosas de arriba, donde 
 Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí.
 \end{verseblock}
 #### Cristo vive en mí
-\headingfive{Pablo continúa describiendo la vida en relación con Cristo.}
--   Cristo permanece en el centro.
--   La vida del creyente está ligada a Él.
--   La fe continúa puesta en el Hijo de Dios.
+\headingfive{\fillin{Cristo} permanece en el centro.}
 
-## Conocerle
+\headingfive{La \fillin{vida} del creyente está ligada a Él.}
+
+\headingfive{La fe continúa puesta en el \fillin{Hijo} de Dios.}
+
+## Conocerlo
 
 ### Filipenses 3:10
 \begin{verseblock}
 A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos.
 \end{verseblock}
 #### conocerlo
-\headingfive{La meta de Pablo continúa siendo Cristo.}
--   Cristo no es dejado atrás.
--   La participación se relaciona con conocerlo.
--   La resurrección y los padecimientos permanecen unidos.
+\headingfive{La \fillin{meta} continúa siendo Cristo.}
+
+\headingfive{La participación se \fillin{relaciona} con conocerlo.}
+
+\headingfive{La resurrección y los padecimientos permanecen \fillin{unidos}.}
 
 ## Una observación
 
-\headingfive{Los apóstoles no parecen introducir un segundo medio.}
-\headingsix{No dicen:}
--   Cree el evangelio para ser salvo y luego confía en ti mismo para crecer.
+\headingfive{Los apóstoles no parecen introducir un segundo \fillin{medio}.}
 
-\headingsix{Ni tampoco:}
--   Comienza con Cristo y luego avanza hacia algo más profundo.
+\headingfive{No \fillin{dicen}:}
 
-\headingsix{Más bien, continuamente vuelven a llevar a los creyentes hacia Cristo.}
--   Hacia Su muerte.
--   Hacia Su resurrección.
--   Hacia Su vida.
--   Hacia Su amor.
--   Hacia Él mismo.
+\headingfive{\fillin{Cree} en Cristo para ser salvo y luego confía en ti mismo para crecer.}
 
-## Otra observación
+\headingfive{Ni \fillin{tampoco}:}
 
-\headingfive{La participación no parece separarse del evangelio.}
+\headingfive{Comienza con Cristo y \fillin{luego} avanza hacia algo más profundo.}
 
-\headingfive{El mismo Cristo que salva es el Cristo en quien los creyentes viven.}
-\headingsix{La misma cruz.}
-\headingsix{La misma resurrección.}
-\headingsix{La misma gracia.}
-\headingsix{El mismo Señor.}
-\headingsix{El mismo evangelio.}
+\headingfive{Más \fillin{bien}, continuamente vuelven a llevar a los creyentes hacia Él.}
+
+\headingfive{Hacia Su \fillin{muerte}.}
+
+\headingfive{Hacia Su \fillin{resurrección}.}
+
+\headingfive{Hacia Su \fillin{vida}.}
+
+\headingfive{Hacia Su \fillin{amor}.}
+
+\headingfive{Hacia Él \fillin{mismo}.}
+
+\headingfive{El \fillin{mismo} Cristo que salva es el Cristo en quien los creyentes viven.}
+
+\headingfive{La misma \fillin{cruz}.}
+
+\headingfive{La \fillin{misma} resurrección.}
+
+\headingfive{La \fillin{misma} gracia.}
+
+\headingfive{El \fillin{mismo} Señor.}
+
+\headingfive{Y quizás por eso los apóstoles \fillin{nunca} parecen graduarse de Cristo crucificado.}
 
 ## Una pregunta
 
-\headingfive{Porque si esto es así, entonces la participación ocurre dentro del evangelio.}
+\headingfive{Si la participación \fillin{ocurre} en Cristo, ¿qué significa conocerlo?}
 
-\headingfive{Y quizás por eso los apóstoles nunca parecen graduarse de Cristo crucificado.}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-# CAPÍTULO 20 - CONOCIENDO A CRISTO
+# CAPÍTULO 21 - CONOCIENDO A CRISTO
 
-\headingfive{Después de escuchar a los apóstoles volver repetidamente al evangelio, surge una pregunta natural.}
-\headingsix{¿Hacia dónde se dirige esta participación?}
-\headingsix{¿Cuál es la meta?}
-\headingsix{¿Qué esperan finalmente los apóstoles para las iglesias?}
+## La meta continúa siendo una Persona
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{Después de observar que los creyentes participan en \fillin{Cristo}, otra pregunta comenzó a surgir.}
 
-## Pablo desea conocerle
+\headingfive{Porque la participación \fillin{parece} dirigirse hacia algo.}
+
+\headingfive{¿Hacia \fillin{dónde}?}
+
+\headingfive{¿\fillin{Cuál} es la meta?}
+
+\headingfive{¿Qué \fillin{esperan} finalmente los apóstoles para las iglesias?}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
+
+## Conocerlo
 
 ### Filipenses 3:8–10
 \begin{verseblock}
 Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo.
 \end{verseblock}
-#### conocer a Cristo Jesús
-\headingfive{Pablo establece una prioridad.}
--   Cristo posee un valor incomparable.
--   Otras cosas son consideradas pérdida.
--   La atención permanece en Él.
+#### conocerlo
+\headingfive{\fillin{Pablo} establece una prioridad.}
 
-\headingfive{La meta continúa siendo Cristo.}
-#### a fin de conocerlo
-\headingfive{Pablo expresa un propósito.}
--   No habla de conocer simplemente información.
--   No habla solamente de ministerio.
--   El deseo es conocer a Cristo.
+\headingfive{Cristo \fillin{posee} un valor incomparable.}
 
-\headingfive{La participación posee una dirección.}
+\headingfive{La \fillin{meta} continúa siendo Cristo.}
 
-## El amor de Cristo sobrepasa el conocimiento
+## El amor de Cristo
 
 ### Efesios 3:17–19
 \begin{verseblock}
 Y conocer el amor de Cristo que sobrepasa el conocimiento.
 \end{verseblock}
 #### conocer el amor de Cristo
-\headingfive{Pablo ora por algo relacionado con Cristo mismo.}
--   Cristo habita por la fe.
--   Los creyentes son fortalecidos.
--   El amor de Cristo ocupa el centro.
+\headingfive{Pablo \fillin{ora} por algo relacionado con Cristo mismo.}
 
-\headingfive{La plenitud es asociada con Él.}
+\headingfive{El \fillin{amor} de Cristo ocupa el centro.}
 
-## Pedro desea crecimiento
+\headingfive{La \fillin{plenitud} permanece relacionada con Él.}
+
+
+
+## Crezcan
 
 ### 2 Pedro 3:18
 \begin{verseblock}
 Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.
 \end{verseblock}
 #### el conocimiento de nuestro Señor
-\headingfive{Pedro dirige la atención hacia Cristo.}
--   El crecimiento continúa.
--   La gracia continúa.
--   Cristo permanece en el centro.
+\headingfive{\fillin{Pedro} dirige la atención hacia Cristo.}
 
-## Juan habla de permanecer
+\headingfive{El crecimiento \fillin{continúa}.}
+
+\headingfive{\fillin{Cristo} permanece en el centro.}
+
+## Permanezca
 
 ### 1 Juan 2:24
 \begin{verseblock}
 Permanezca en ustedes lo que oyeron desde el principio.
 \end{verseblock}
 #### permanezca
-\headingfive{Juan insiste en permanecer.}
--   Permanecer en el Hijo.
--   Permanecer en el Padre.
--   Permanecer en lo oído desde el principio.
+\headingfive{\fillin{Juan} insiste en permanecer.}
 
-\headingfive{La comunión permanece relacionada con Cristo.}
+\headingfive{Permanecer en el \fillin{Hijo}.}
+
+\headingfive{Permanecer en el \fillin{Padre}.}
+
+\headingfive{Permanecer en lo \fillin{oído} desde el principio.}
 
 ### 1 Juan 5:20
 \begin{verseblock}
 Estamos en Aquel que es verdadero, en Su Hijo Jesucristo.
 \end{verseblock}
 #### estamos en Él
-\headingfive{Juan describe una realidad presente.}
--   Los creyentes están en Cristo.
--   Cristo permanece ocupando el centro.
--   El conocimiento se relaciona con Él.
+\headingfive{\fillin{Juan} describe una realidad presente.}
 
-## Hebreos dirige continuamente hacia Jesús
+\headingfive{Los creyentes \fillin{están} en Cristo.}
+
+\headingfive{El conocimiento \fillin{permanece} relacionado con Él.}
+
+## Puestos los ojos en Jesús
 
 ### Hebreos 12:2
 \begin{verseblock}
 Puestos los ojos en Jesús.
 \end{verseblock}
 #### puestos los ojos en Jesús
-\headingfive{La perseverancia ocurre mirando a Cristo.}
--   Jesús es considerado.
--   Jesús es contemplado.
--   Jesús permanece ocupando el centro.
+\headingfive{La perseverancia \fillin{ocurre} mirando a Cristo.}
 
-## Pablo desea presentar a todos maduros en Cristo
+\headingfive{\fillin{Jesús} es considerado.}
+
+\headingfive{\fillin{Jesús} permanece ocupando el centro.}
 
 ### Colosenses 1:28
 \begin{verseblock}
 A fin de poder presentar a todo hombre perfecto en Cristo.
 \end{verseblock}
 #### en Cristo
-\headingfive{La madurez permanece relacionada con Cristo.}
--   Cristo es proclamado.
--   Cristo es enseñado.
--   Cristo es el contexto de la madurez.
+\headingfive{La madurez permanece relacionada con \fillin{Cristo}.}
+
+\headingfive{\fillin{Cristo} es proclamado.}
+
+\headingfive{\fillin{Cristo} es enseñado.}
+
+\headingfive{\fillin{Cristo} es el contexto de la madurez.}
 
 ## Una observación
 
-\headingfive{Los apóstoles hablan de:}
--   santidad,
--   servicio,
--   amor,
--   perseverancia,
--   buenas obras,
--   enseñanza,
--   esperanza.
+\headingfive{Los apóstoles \fillin{hablan} acerca de:}
+- santidad,
+- servicio,
+- amor,
+- perseverancia,
+- esperanza,
+- buenas obras,
+- enseñanza.
 
-\headingfive{Pero repetidamente vuelven a Cristo. Porque parecen desear más que actividad. Parecen desear que los creyentes conozcan a Cristo.}
+\headingfive{Pero repetidamente vuelven a \fillin{Cristo}.}
 
-## Otra observación
+\headingfive{Porque parecen \fillin{desear} más que actividad.}
 
-\headingfive{Conocer a Cristo no parece competir con la participación. La participación parece conducir hacia conocerle más.}
-\headingsix{Y conocerle parece producir:}
--   amor,
--   esperanza,
--   servicio,
--   perseverancia,
--   gozo,
--   gratitud.
+\headingfive{Parecen \fillin{desear} que los creyentes conozcan a Cristo.}
+
+\headingfive{Y conocerlo no \fillin{parece} competir con la participación.}
+
+\headingfive{La participación \fillin{parece} conducir hacia conocerlo más.}
+
+\headingfive{Y conocerlo \fillin{parece} producir:}
+- amor,
+- esperanza,
+- servicio,
+- perseverancia,
+- gozo,
+- gratitud.
+
+\headingfive{Porque los apóstoles parecen \fillin{estar} ocupados con muchas cosas.}
+
+\headingfive{Pero repetidamente regresan a una \fillin{Persona}.}
 
 ## Una pregunta
 
-\headingfive{Porque los apóstoles parecen estar ocupados con muchas cosas. Pero repetidamente regresan a una Persona.}
+\headingfive{Si la \fillin{meta} continúa siendo una Persona, ¿dónde desean los apóstoles que viva la iglesia?}
 
-# CAPÍTULO 21 - VIVIENDO EN CRISTO
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca del evangelio y del conocimiento de Cristo, surge otra pregunta.}
-\headingsix{¿Dónde desean ellos que viva la iglesia?}
+# CAPÍTULO 22 - VIVIENDO EN CRISTO
 
-\headingfive{No simplemente:}
-\headingsix{¿Qué actividades debe realizar?}
+## La vida ocurre dentro de una realidad
 
-\headingfive{Sino:}
-\headingsix{¿Dentro de qué realidad debe vivir?}
-\headingsix{Permitiremos nuevamente que hablen.}
+\headingfive{Después de observar que los apóstoles \fillin{desean} que los creyentes conozcan a Cristo, otra pregunta comenzó a surgir.}
+
+\headingfive{Porque los apóstoles no parecen \fillin{estar} ocupados solamente con actividades.}
+
+\headingfive{\fillin{Surge} una pregunta diferente.}
+
+\headingfive{¿Dentro de qué realidad desean ellos que \fillin{viva} la iglesia?}
+
+\headingfive{No \fillin{simplemente}:}
+\headingfive{¿Qué actividades \fillin{debe} realizar?}
+
+\headingfive{\fillin{Sino}:}
+\headingfive{¿Dónde \fillin{debe} vivir?}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
 
 ## Permaneciendo en Cristo
 
 ### Juan 15:4–5
 \begin{verseblock}
-Permanezcan en Mí, y Yo en ustedes...porque separados de Mí nada pueden hacer.
+Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer.
 \end{verseblock}
 #### permanezcan en Mí
-\headingfive{La vida se encuentra en relación con Cristo.}
--   Cristo permanece ocupando el centro.
--   Los creyentes permanecen en Él.
--   El fruto aparece en relación con Él.
+\headingfive{La \fillin{vida} se encuentra en relación con Cristo.}
 
-\headingfive{La separación de Cristo no produce vida.}
+\headingfive{\fillin{Cristo} permanece ocupando el centro.}
+
+\headingfive{Los \fillin{creyentes} permanecen en Él.}
+
+\headingfive{El \fillin{fruto} aparece en relación con Él.}
+
+\headingfive{La separación de Cristo no produce \fillin{vida}.}
 
 ## Caminando dignamente
 
@@ -2200,10 +2247,13 @@ Permanezcan en Mí, y Yo en ustedes...porque separados de Mí nada pueden hacer.
 Les ruego que vivan de una manera digna de la vocación con que han sido llamados.
 \end{verseblock}
 #### vivan de una manera digna
-\headingfive{Pablo describe una manera de vivir.}
--   La iglesia posee un llamamiento.
--   La conducta debe corresponder a esa realidad.
--   La vida es entendida desde lo que Dios ha hecho.
+\headingfive{\fillin{Pablo} describe una manera de vivir.}
+
+\headingfive{La iglesia \fillin{posee} un llamamiento.}
+
+\headingfive{La conducta \fillin{debe} corresponder a esa realidad.}
+
+\headingfive{La \fillin{vida} es entendida desde lo que Dios ha hecho.}
 
 ## Creciendo en Él
 
@@ -2212,10 +2262,14 @@ Les ruego que vivan de una manera digna de la vocación con que han sido llamado
 Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo.
 \end{verseblock}
 #### en Aquel que es la cabeza
-\headingfive{El crecimiento posee una dirección.}
--   Cristo es la cabeza.
--   El crecimiento ocurre en relación con Él.
--   La iglesia es llevada hacia Él.
+
+\headingfive{El crecimiento \fillin{posee} una dirección.}
+
+\headingfive{\fillin{Cristo} es la cabeza.}
+
+\headingfive{El crecimiento \fillin{ocurre} en relación con Él.}
+
+\headingfive{La \fillin{iglesia} es llevada hacia Él.}
 
 ## La palabra de Cristo habitando
 
@@ -2224,12 +2278,15 @@ Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo.
 Que la palabra de Cristo habite en abundancia en ustedes.
 \end{verseblock}
 #### habite en abundancia
-\headingfive{La palabra de Cristo ocupa un lugar central.}
--   Los creyentes enseñan.
--   Los creyentes exhortan.
--   Los creyentes cantan.
+\headingfive{La palabra de Cristo \fillin{ocupa} un lugar central.}
 
-\headingfive{Todo ocurre alrededor de Cristo.}
+\headingfive{Los creyentes \fillin{enseñan}.}
+
+\headingfive{Los creyentes \fillin{exhortan}.}
+
+\headingfive{Los creyentes \fillin{cantan}.}
+
+\headingfive{Todo \fillin{ocurre} alrededor de Cristo.}
 
 ## Permaneciendo en la esperanza
 
@@ -2238,10 +2295,13 @@ Que la palabra de Cristo habite en abundancia en ustedes.
 Mantengamos firme la profesión de nuestra esperanza.
 \end{verseblock}
 #### mantengamos firme
-\headingfive{Los creyentes viven mirando hacia adelante.}
--   La esperanza permanece.
--   La fidelidad de Dios permanece.
--   La iglesia espera Su venida.
+\headingfive{Los creyentes \fillin{viven} mirando hacia adelante.}
+
+\headingfive{La \fillin{esperanza} permanece.}
+
+\headingfive{La fidelidad de \fillin{Dios} permanece.}
+
+\headingfive{La iglesia \fillin{espera} Su venida.}
 
 ## Viviendo por el Espíritu
 
@@ -2250,10 +2310,13 @@ Mantengamos firme la profesión de nuestra esperanza.
 Si vivimos por el Espíritu, andemos también por el Espíritu.
 \end{verseblock}
 #### andemos también por el Espíritu
-\headingfive{La vida y la conducta aparecen relacionadas.}
--   El Espíritu permanece obrando.
--   Los creyentes caminan conforme a esa realidad.
--   La vida cristiana no es independiente.
+\headingfive{La \fillin{vida} y la conducta aparecen relacionadas.}
+
+\headingfive{El Espíritu permanece \fillin{obrando}.}
+
+\headingfive{Los creyentes \fillin{caminan} conforme a esa realidad.}
+
+\headingfive{La \fillin{vida} cristiana no es independiente.}
 
 ## Esperando a Su Hijo
 
@@ -2262,48 +2325,67 @@ Si vivimos por el Espíritu, andemos también por el Espíritu.
 Esperan a Su Hijo de los cielos.
 \end{verseblock}
 #### esperan a Su Hijo
-\headingfive{La esperanza posee una Persona.}
--   Cristo permanece delante de ellos.
--   La iglesia vive esperando Su venida.
--   La mirada permanece puesta en Él.
+\headingfive{La esperanza \fillin{posee} una Persona.}
+
+\headingfive{\fillin{Cristo} permanece delante de ellos.}
+
+\headingfive{La iglesia \fillin{vive} esperando Su venida.}
+
+\headingfive{La \fillin{mirada} permanece puesta en Él.}
 
 ## Una observación
 
-\headingfive{Los apóstoles no parecen simplemente enseñar actividades.}
-\headingsix{Parecen querer que la iglesia viva:}
--   en Cristo,
--   bajo Su señorío,
--   por Su Espíritu,
--   sosteniendo Su palabra,
--   en amor,
--   en esperanza,
--   creciendo hacia la madurez,
--   esperando Su regreso.
+\headingfive{Los apóstoles no \fillin{parecen} simplemente enseñar actividades.}
 
-## Otra observación
+\headingfive{Parecen querer que la iglesia \fillin{viva}:}
+- en Cristo,
+- bajo Su señorío,
+- por Su Espíritu,
+- sosteniendo Su palabra,
+- en amor,
+- en esperanza,
+- creciendo hacia la madurez,
+- esperando Su regreso.
 
-\headingfive{La iglesia no es presentada simplemente como una organización.}
-\headingsix{Es presentada como:}
--   un cuerpo,
--   una familia,
--   una comunión,
--   una casa,
--   un pueblo.
+\headingfive{Porque la \fillin{iglesia} no es presentada simplemente como una organización.}
 
-\headingsix{Y toda esa vida se desarrolla alrededor de Cristo.}
+\headingfive{Es \fillin{presentada} como:}
 
-# CAPÍTULO 22 - ¿CÓMO SE HACE VISIBLE CRISTO EN SU PUEBLO?
+- un cuerpo,
+- una familia,
+- una comunión,
+- una casa,
+- un pueblo.
+
+\headingfive{Y \fillin{toda} esa vida se desarrolla alrededor de Cristo.}
+
+\headingfive{Porque la \fillin{vida} cristiana no parece consistir simplemente en hacer cosas para Cristo.}
+
+\headingfive{Parece consistir en \fillin{vivir} en Él.}
+
+## Una pregunta
+
+\headingfive{Si la iglesia \fillin{vive} en Cristo, ¿cómo se hace visible Cristo en Su pueblo?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 23 - ¿CÓMO SE HACE VISIBLE CRISTO EN SU PUEBLO?
 
 ## La vida compartida con Cristo produce fruto
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de vivir en Cristo, surge una pregunta natural.}
-\headingsix{Si Cristo vive en Su pueblo,}
-\headingsix{¿cómo se hace visible esa vida?}
-\headingsix{¿Cómo luce una iglesia que vive en Él?}
-\headingsix{¿Esperan los apóstoles solamente conocimiento?}
-\headingsix{¿O esperan algo visible?}
+\headingfive{Después de escuchar a los apóstoles hablar acerca de \fillin{vivir} en Cristo, otra pregunta comenzó a surgir.}
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{Si Cristo \fillin{vive} en Su pueblo,}
+
+\headingfive{¿\fillin{cómo} se hace visible esa vida?}
+
+\headingfive{¿\fillin{Cómo} luce una iglesia que vive en Él?}
+
+\headingfive{¿\fillin{Esperan} los apóstoles solamente conocimiento?}
+
+\headingfive{¿O \fillin{esperan} algo visible?}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
 
 ## El fruto del Espíritu
 
@@ -2312,14 +2394,20 @@ Esperan a Su Hijo de los cielos.
 Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad, mansedumbre y dominio propio.
 \end{verseblock}
 #### el fruto del Espíritu
-\headingfive{La vida del Espíritu produce algo visible.}
--   Amor.
--   Gozo.
--   Paz.
--   Paciencia.
--   Fidelidad.
 
-\headingfive{La vida interior produce fruto exterior.}
+\headingfive{La \fillin{vida} del Espíritu produce algo visible.}
+
+\headingfive{\fillin{Amor}.}
+
+\headingfive{\fillin{Gozo}.}
+
+\headingfive{\fillin{Paz}.}
+
+\headingfive{\fillin{Paciencia}.}
+
+\headingfive{\fillin{Fidelidad}.}
+
+\headingfive{La \fillin{vida} interior produce fruto exterior.}
 
 ## El amor unos por otros
 
@@ -2328,12 +2416,15 @@ Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, f
 En esto conocerán todos que son Mis discípulos, si se tienen amor los unos a los otros.
 \end{verseblock}
 #### si se tienen amor
-\headingfive{Jesús señala algo visible.}
--   El amor es reconocido.
--   Los demás pueden verlo.
--   El amor identifica a los Suyos.
+\headingfive{\fillin{Jesús} señala algo visible.}
 
-\headingfive{La vida de Cristo se expresa en relaciones.}
+\headingfive{El \fillin{amor} es reconocido.}
+
+\headingfive{Los \fillin{demás} pueden verlo.}
+
+\headingfive{El \fillin{amor} identifica a los Suyos.}
+
+\headingfive{La \fillin{vida} de Cristo se expresa en relaciones.}
 
 ## El fruto de la justicia
 
@@ -2342,12 +2433,15 @@ En esto conocerán todos que son Mis discípulos, si se tienen amor los unos a l
 Llenos del fruto de justicia que es por medio de Jesucristo.
 \end{verseblock}
 #### por medio de Jesucristo
-\headingfive{El fruto procede de Cristo.}
--   Cristo permanece siendo la fuente.
--   El fruto glorifica a Dios.
--   La obra pertenece al Señor.
+\headingfive{El \fillin{fruto} procede de Cristo.}
 
-\headingfive{La vida produce fruto.}
+\headingfive{\fillin{Cristo} permanece siendo la fuente.}
+
+\headingfive{El fruto glorifica a \fillin{Dios}.}
+
+\headingfive{La \fillin{obra} pertenece al Señor.}
+
+\headingfive{La \fillin{vida} produce fruto.}
 
 ## Las buenas obras
 
@@ -2356,12 +2450,15 @@ Llenos del fruto de justicia que es por medio de Jesucristo.
 ...para purificar para Sí un pueblo para posesión Suya, celoso de buenas obras.
 \end{verseblock}
 #### celoso de buenas obras
-\headingfive{La gracia produce una vida activa.}
--   El pueblo pertenece a Cristo.
--   Las buenas obras tienen un lugar.
--   El propósito no termina en la salvación.
+\headingfive{La gracia produce una \fillin{vida} activa.}
 
-\headingfive{La vida se hace visible.}
+\headingfive{El \fillin{pueblo} pertenece a Cristo.}
+
+\headingfive{Las buenas \fillin{obras} tienen un lugar.}
+
+\headingfive{El propósito no \fillin{termina} en la salvación.}
+
+\headingfive{La \fillin{vida} se hace visible.}
 
 ## Abundando en la obra del Señor
 
@@ -2370,71 +2467,96 @@ Llenos del fruto de justicia que es por medio de Jesucristo.
 Estén firmes, constantes, abundando siempre en la obra del Señor.
 \end{verseblock}
 #### abundando siempre
-\headingfive{Pablo espera una participación real.}
--   La firmeza continúa.
--   La obra continúa.
--   El trabajo en el Señor no es vano.
+\headingfive{Pablo espera una participación \fillin{real}.}
 
-\headingfive{La esperanza produce perseverancia.}
+\headingfive{La \fillin{firmeza} continúa.}
+
+\headingfive{La \fillin{obra} continúa.}
+
+\headingfive{El trabajo en el Señor no es \fillin{vano}.}
+
+\headingfive{La esperanza \fillin{produce} perseverancia.}
 
 ## El fruto visible
 
 ### Colosenses 1:10
 \begin{verseblock}
-"...dando fruto en toda buena obra y creciendo en el conocimiento de Dios."
+...dando fruto en toda buena obra y creciendo en el conocimiento de Dios.
 \end{verseblock}
 #### dando fruto
-\headingfive{Pablo espera una vida que produce fruto.}
--   El fruto aparece en las buenas obras.
--   El conocimiento de Dios continúa creciendo.
--   La vida recibida produce algo visible.
 
-\headingfive{La obra pertenece a Dios.}
+\headingfive{Pablo espera una \fillin{vida} que produce fruto.}
+
+\headingfive{El \fillin{fruto} aparece en las buenas obras.}
+
+\headingfive{El conocimiento de \fillin{Dios} continúa creciendo.}
+
+\headingfive{La \fillin{vida} recibida produce algo visible.}
+
+\headingfive{La \fillin{obra} pertenece a Dios.}
 
 ## Una observación
 
-\headingfive{Los apóstoles no parecen esperar solamente conocimiento.}
-\headingsix{Esperan:}
--   amor,
--   servicio,
--   buenas obras,
--   perseverancia,
--   fruto,
--   crecimiento,
--   santidad.
+\headingfive{Los apóstoles no \fillin{parecen} esperar solamente conocimiento.}
 
-\headingfive{La vida de Cristo se hace visible.}
+\headingfive{\fillin{Esperan}:}
+- amor,
+- servicio,
+- buenas obras,
+- perseverancia,
+- fruto,
+- crecimiento,
+- santidad.
 
-## Otra observación
+\headingfive{Porque la \fillin{vida} de Cristo se hace visible.}
 
-\headingfive{El fruto no ocupa el lugar de Cristo.}
+\headingfive{Pero el \fillin{fruto} no ocupa el lugar de Cristo.}
 
-\headingfive{Tampoco reemplaza el evangelio.}
+\headingfive{\fillin{Tampoco} reemplaza el evangelio.}
 
-\headingfive{El fruto aparece porque la vida permanece en Cristo.}
-\headingsix{El fruto no es la raíz.}
-\headingsix{El fruto es el resultado.}
+\headingfive{El fruto aparece porque la \fillin{vida} permanece en Cristo.}
 
-## Una observación más
+\headingfive{El fruto no es la \fillin{raíz}.}
 
-\headingfive{La vida invisible termina haciéndose visible.}
-\headingsix{Porque Cristo no solamente salva.}
-\headingsix{También produce.}
-\headingsix{También transforma.}
-\headingsix{También da fruto.}
+\headingfive{El \fillin{fruto} es el resultado.}
+
+\headingfive{Porque Cristo no solamente \fillin{salva}.}
+
+\headingfive{También \fillin{produce}.}
+
+\headingfive{También \fillin{transforma}.}
+
+\headingfive{También da \fillin{fruto}.}
+
+\headingfive{Y \fillin{quizás} por eso los apóstoles no parecen conformarse simplemente con información.}
+
+\headingfive{Esperan una \fillin{vida}.}
+
+\headingfive{Y esperan que esa \fillin{vida} termine haciéndose visible.}
 
 ## Una pregunta
 
-## Otra pregunta
+\headingfive{Si la \fillin{vida} de Cristo se hace visible, ¿cómo luce una participación fiel?}
 
-# CAPÍTULO 23 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de vivir en Cristo, surge una pregunta natural.}
-\headingsix{¿Cómo luce una participación fiel?}
-\headingsix{¿Qué valoran los apóstoles?}
-\headingsix{¿Qué ejemplos presentan?}
+# CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
 
-\headingfive{Permitiremos nuevamente que hablen.}
+## Los apóstoles presentan ejemplos
+
+\headingfive{Después de observar que la \fillin{vida} de Cristo se hace visible en Su pueblo, otra pregunta comenzó a surgir.}
+
+\headingfive{Porque los apóstoles no solamente \fillin{enseñan}.}
+
+\headingfive{También presentan \fillin{ejemplos}.}
+
+\headingfive{¿\fillin{Cómo} luce una participación fiel?}
+
+\headingfive{¿Qué \fillin{valoran} los apóstoles?}
+
+\headingfive{¿Qué \fillin{ejemplos} presentan?}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
 
 ## Pablo
 
@@ -2443,12 +2565,16 @@ Estén firmes, constantes, abundando siempre en la obra del Señor.
 Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.
 \end{verseblock}
 #### no yo, sino la gracia de Dios
-\headingfive{Pablo reconoce la obra de Dios.}
--   Pablo trabaja.
--   La gracia de Dios permanece obrando.
--   La confianza no está en sí mismo.
 
-\headingfive{La participación ocurre dentro de la gracia.}
+\headingfive{Pablo reconoce la \fillin{obra} de Dios.}
+
+\headingfive{\fillin{Pablo} trabaja.}
+
+\headingfive{La gracia de \fillin{Dios} permanece obrando.}
+
+\headingfive{La confianza no está en sí \fillin{mismo}.}
+
+\headingfive{La participación \fillin{ocurre} dentro de la gracia.}
 
 ## Timoteo
 
@@ -2457,12 +2583,15 @@ Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó 
 No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes.
 \end{verseblock}
 #### sinceramente interesado
-\headingfive{Pablo destaca el carácter de Timoteo.}
--   Timoteo se preocupa por otros.
--   Timoteo sirve con Pablo.
--   Timoteo ha probado su fidelidad.
+\headingfive{\fillin{Pablo} destaca el carácter de Timoteo.}
 
-\headingfive{La participación incluye servicio y cuidado.}
+\headingfive{Timoteo se preocupa por \fillin{otros}.}
+
+\headingfive{Timoteo \fillin{sirve} con Pablo.}
+
+\headingfive{\fillin{Timoteo} ha probado su fidelidad.}
+
+\headingfive{La participación \fillin{incluye} servicio y cuidado.}
 
 ## Epafrodito
 
@@ -2471,12 +2600,16 @@ No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el
 Porque estuvo al borde de la muerte por la obra de Cristo.
 \end{verseblock}
 #### por la obra de Cristo
-\headingfive{Pablo honra su servicio.}
--   Epafrodito arriesgó su vida.
--   Sirvió a otros.
--   Participó en la obra de Cristo.
 
-\headingfive{Pablo manda estimar a hombres como él.}
+\headingfive{\fillin{Pablo} honra su servicio.}
+
+\headingfive{Epafrodito arriesgó su \fillin{vida}.}
+
+\headingfive{Sirvió a \fillin{otros}.}
+
+\headingfive{Participó en la \fillin{obra} de Cristo.}
+
+\headingfive{\fillin{Pablo} manda estimar a hombres como él.}
 
 ## Onesíforo
 
@@ -2485,12 +2618,15 @@ Porque estuvo al borde de la muerte por la obra de Cristo.
 Muchas veces me dio consuelo y no se avergonzó de mis cadenas.
 \end{verseblock}
 #### no se avergonzó
-\headingfive{Onesíforo permaneció junto a Pablo.}
--   Lo buscó con diligencia.
--   Lo ayudó.
--   Lo sirvió.
+\headingfive{Onesíforo permaneció \fillin{junto} a Pablo.}
 
-\headingfive{La fidelidad aparece en medio de la dificultad.}
+\headingfive{Lo \fillin{buscó} con diligencia.}
+
+\headingfive{Lo \fillin{ayudó}.}
+
+\headingfive{Lo \fillin{sirvió}.}
+
+\headingfive{La fidelidad aparece en \fillin{medio} de la dificultad.}
 
 ## Estéfanas
 
@@ -2499,12 +2635,15 @@ Muchas veces me dio consuelo y no se avergonzó de mis cadenas.
 Se han dedicado al servicio de los santos.
 \end{verseblock}
 #### se han dedicado
-\headingfive{Pablo reconoce una disposición.}
--   Sirven a los santos.
--   Participan voluntariamente.
--   Son de ayuda para otros.
+\headingfive{\fillin{Pablo} reconoce una disposición.}
 
-\headingfive{La participación produce beneficio para el cuerpo.}
+\headingfive{\fillin{Sirven} a los santos.}
+
+\headingfive{\fillin{Participan} voluntariamente.}
+
+\headingfive{\fillin{Son} de ayuda para otros.}
+
+\headingfive{La participación produce beneficio para el \fillin{cuerpo}.}
 
 ## Febe
 
@@ -2513,12 +2652,16 @@ Se han dedicado al servicio de los santos.
 Porque ella también ha ayudado a muchos, y aun a mí mismo.
 \end{verseblock}
 #### ha ayudado a muchos
-\headingfive{Pablo reconoce su servicio.}
--   Febe ha sido de ayuda.
--   Ha servido a muchos.
--   Pablo mismo se benefició de su labor.
 
-\headingfive{La participación bendice a otros.}
+\headingfive{\fillin{Pablo} reconoce su servicio.}
+
+\headingfive{\fillin{Febe} ha sido de ayuda.}
+
+\headingfive{Ha servido a \fillin{muchos}.}
+
+\headingfive{\fillin{Pablo} mismo se benefició de su labor.}
+
+\headingfive{La participación bendice a \fillin{otros}.}
 
 ## Tíquico
 
@@ -2527,51 +2670,65 @@ Porque ella también ha ayudado a muchos, y aun a mí mismo.
 El amado hermano y fiel ministro en el Señor.
 \end{verseblock}
 #### fiel ministro
-\headingfive{Pablo destaca la fidelidad.}
--   Tíquico sirve.
--   Es amado.
--   Es considerado fiel.
 
-\headingfive{La fidelidad posee valor.}
+\headingfive{\fillin{Pablo} destaca la fidelidad.}
+
+\headingfive{Tíquico \fillin{sirve}.}
+
+\headingfive{Es \fillin{amado}.}
+
+\headingfive{Es considerado \fillin{fiel}.}
+
+\headingfive{La fidelidad \fillin{posee} valor.}
 
 ## Una observación
 
-\headingfive{Los ejemplos presentados por los apóstoles son sorprendentes.}
-\headingsix{No aparecen descritos por:}
--   fama,
--   influencia,
--   poder,
--   capacidades extraordinarias.
+\headingfive{Los ejemplos presentados por los apóstoles \fillin{son} sorprendentes.}
 
-\headingsix{Sino por:}
--   fidelidad,
--   servicio,
--   amor,
--   ayuda,
--   perseverancia,
--   preocupación por otros.
+\headingfive{No \fillin{aparecen} descritos por:}
+- fama,
+- influencia,
+- poder,
+- capacidades extraordinarias.
 
-## Otra observación
+\headingfive{\fillin{Sino} por:}
 
-\headingfive{La participación fiel no parece llamar la atención hacia sí misma.}
+- fidelidad,
+- servicio,
+- amor,
+- ayuda,
+- perseverancia,
+- preocupación por otros.
 
-\headingfive{La atención continúa siendo dirigida hacia Cristo y hacia el beneficio de otros.}
+\headingfive{La participación \fillin{fiel} no parece llamar la atención hacia sí misma.}
+
+\headingfive{La atención continúa siendo dirigida hacia Cristo y hacia el beneficio de \fillin{otros}.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Quizás la fidelidad \fillin{posee} más valor que la grandeza.}
+
+\headingfive{Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a \fillin{otros} y permanecieron fieles.}
 
 ## Una pregunta
 
-\headingfive{¿Será que la fidelidad es más importante para Cristo que la grandeza?}
+\headingfive{¿\fillin{Cómo} luce una participación deficiente?}
 
-\headingfive{Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a otros y permanecieron fieles.}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-# CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?
+# CAPÍTULO 25 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?
 
-\headingfive{Después de ver ejemplos de participación fiel, surge una pregunta natural.}
-\headingsix{¿Puede la participación ser deficiente?}
-\headingsix{¿Qué ocurre cuando los creyentes dejan de participar correctamente?}
+## La actividad no siempre refleja la realidad
 
-\headingfive{Los apóstoles dedican muchas exhortaciones y advertencias a esta realidad.}
+\headingfive{Después de observar ejemplos de participación \fillin{fiel}, otra pregunta comenzó a surgir.}
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{¿\fillin{Puede} la participación ser deficiente?}
+
+\headingfive{¿Qué ocurre cuando los creyentes \fillin{dejan} de participar correctamente?}
+
+\headingfive{Porque los apóstoles dedican \fillin{muchas} exhortaciones y advertencias a esta realidad.}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
 
 ## Los corintios
 
@@ -2580,25 +2737,35 @@ El amado hermano y fiel ministro en el Señor.
 No pude hablarles como a espirituales, sino como a carnales.
 \end{verseblock}
 #### como a carnales
-\headingfive{Pablo describe una condición.}
--   Los creyentes continúan siendo hermanos.
--   Continúan perteneciendo a Cristo.
--   Pero su manera de vivir no corresponde a la madurez.
 
-\headingfive{La inmadurez produce divisiones.}
--   Celos.
--   Contiendas.
--   Exaltación de hombres.
+\headingfive{\fillin{Pablo} describe una condición.}
+
+\headingfive{Los creyentes continúan \fillin{siendo} hermanos.}
+
+\headingfive{Continúan perteneciendo a \fillin{Cristo}.}
+
+\headingfive{Pero su manera de \fillin{vivir} no corresponde a la madurez.}
+
+\headingfive{La inmadurez \fillin{produce} divisiones.}
+
+\headingfive{\fillin{Celos}.}
+
+\headingfive{\fillin{Contiendas}.}
+
+\headingfive{Exaltación de \fillin{hombres}.}
 
 ### 1 Corintios 3:6–7
 \begin{verseblock}
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 \end{verseblock}
 #### Dios ha dado el crecimiento
-\headingfive{La atención debe permanecer en Dios.}
--   Los siervos poseen una función.
--   Dios produce el crecimiento.
--   Los hombres no ocupan el centro.
+\headingfive{La atención \fillin{debe} permanecer en Dios.}
+
+\headingfive{Los siervos \fillin{poseen} una función.}
+
+\headingfive{\fillin{Dios} produce el crecimiento.}
+
+\headingfive{Los hombres no \fillin{ocupan} el centro.}
 
 ## Los gálatas
 
@@ -2607,12 +2774,15 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 ¿Habiendo comenzado por el Espíritu, van ahora a acabar por la carne?
 \end{verseblock}
 #### acabar por la carne
-\headingfive{Pablo señala un peligro.}
--   Habían comenzado correctamente.
--   El problema aparece después.
--   La confianza se desplaza.
+\headingfive{\fillin{Pablo} señala un peligro.}
 
-\headingfive{La carne ocupa un lugar que no le corresponde.}
+\headingfive{\fillin{Habían} comenzado correctamente.}
+
+\headingfive{El problema \fillin{aparece} después.}
+
+\headingfive{La confianza se \fillin{desplaza}.}
+
+\headingfive{La \fillin{carne} ocupa un lugar que no le corresponde.}
 
 ## Hebreos
 
@@ -2621,20 +2791,28 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desviemos.
 \end{verseblock}
 #### nos desviemos
-\headingfive{Existe el peligro del desvío.}
--   Lo oído permanece siendo importante.
--   Los creyentes deben prestar atención.
--   La deriva es real.
+
+\headingfive{\fillin{Existe} el peligro del desvío.}
+
+\headingfive{Lo \fillin{oído} permanece siendo importante.}
+
+\headingfive{Los creyentes \fillin{deben} prestar atención.}
+
+\headingfive{La deriva es \fillin{real}.}
 
 ### Hebreos 12:15
 \begin{verseblock}
 Miren bien, no sea que alguno deje de alcanzar la gracia de Dios.
 \end{verseblock}
 #### la gracia de Dios
-\headingfive{La gracia continúa siendo importante.}
--   La amargura produce daño.
--   Muchos pueden ser afectados.
--   La comunión puede deteriorarse.
+
+\headingfive{La \fillin{gracia} continúa siendo importante.}
+
+\headingfive{La amargura produce \fillin{daño}.}
+
+\headingfive{\fillin{Muchos} pueden ser afectados.}
+
+\headingfive{La comunión \fillin{puede} deteriorarse.}
 
 ## Éfeso
 
@@ -2643,14 +2821,19 @@ Miren bien, no sea que alguno deje de alcanzar la gracia de Dios.
 Has dejado tu primer amor.
 \end{verseblock}
 #### has dejado
-\headingfive{Muchas cosas permanecían.}
--   Trabajo.
--   Perseverancia.
--   Discernimiento.
+\headingfive{Muchas \fillin{cosas} permanecían.}
 
-\headingfive{Sin embargo, algo había sido abandonado.}
--   Cristo llama al arrepentimiento.
--   La relación con Él continúa siendo importante.
+\headingfive{\fillin{Trabajo}.}
+
+\headingfive{\fillin{Perseverancia}.}
+
+\headingfive{\fillin{Discernimiento}.}
+
+\headingfive{Sin embargo, algo había \fillin{sido} abandonado.}
+
+\headingfive{Cristo \fillin{llama} al arrepentimiento.}
+
+\headingfive{La relación con Él continúa \fillin{siendo} importante.}
 
 ## Sardis
 
@@ -2659,12 +2842,15 @@ Has dejado tu primer amor.
 Tienes nombre de que vives, pero estás muerto.
 \end{verseblock}
 #### tienes nombre
-\headingfive{La apariencia puede engañar.}
--   La reputación permanece.
--   El nombre permanece.
--   Pero Cristo señala una realidad diferente.
+\headingfive{La apariencia \fillin{puede} engañar.}
 
-\headingfive{La vida no depende de la reputación.}
+\headingfive{La reputación \fillin{permanece}.}
+
+\headingfive{El \fillin{nombre} permanece.}
+
+\headingfive{Pero \fillin{Cristo} señala una realidad diferente.}
+
+\headingfive{La \fillin{vida} no depende de la reputación.}
 
 ## Laodicea
 
@@ -2673,57 +2859,68 @@ Tienes nombre de que vives, pero estás muerto.
 Dices: Soy rico... y no sabes que eres un desventurado.
 \end{verseblock}
 #### no sabes
-\headingfive{La autosuficiencia produce ceguera.}
--   La evaluación propia puede ser equivocada.
--   Cristo posee una evaluación distinta.
--   La confianza en uno mismo es peligrosa.
+\headingfive{La autosuficiencia \fillin{produce} ceguera.}
+
+\headingfive{La evaluación propia \fillin{puede} ser equivocada.}
+
+\headingfive{Cristo \fillin{posee} una evaluación distinta.}
+
+\headingfive{La confianza en uno \fillin{mismo} es peligrosa.}
 
 ## Una observación
 
-\headingfive{La participación deficiente no aparece principalmente como ausencia de actividad.}
-\headingsix{Frecuentemente aparece en medio de:}
--   actividad,
--   conocimiento,
--   reputación,
--   tradición,
--   confianza propia.
+\headingfive{La participación deficiente no \fillin{aparece} principalmente como ausencia de actividad.}
 
-## Otra observación
+\headingfive{Frecuentemente aparece en \fillin{medio} de:}
+- actividad,
+- conocimiento,
+- reputación,
+- tradición,
+- confianza propia.
 
-\headingfive{El Constructor no falla.}
-\headingsix{Pero los participantes pueden:}
--   desviarse,
--   confiar en la carne,
--   exaltar hombres,
--   enfriarse,
--   volverse autosuficientes,
--   perder de vista la gracia.
+\headingfive{El Constructor no \fillin{falla}.}
+
+\headingfive{Pero los participantes \fillin{pueden}:}
+- desviarse,
+- confiar en la carne,
+- exaltar hombres,
+- enfriarse,
+- volverse autosuficientes,
+- perder de vista la gracia.
+
+\headingfive{Porque las iglesias \fillin{pueden} conservar:}
+- reuniones,
+- estructuras,
+- actividades,
+- reputación,
+
+\headingfive{y sin embargo \fillin{dejar} de vivir en la realidad del Cristo crucificado y resucitado.}
 
 ## Una pregunta
 
-\headingsix{Porque las iglesias pueden conservar:}
--   reuniones,
--   estructuras,
--   actividades,
--   reputación,
+\headingfive{Si la participación puede ser \fillin{fiel} o deficiente, ¿qué está realmente en juego?}
 
-\headingsix{y sin embargo dejar de vivir en la realidad del Cristo crucificado y resucitado.}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-## Otra pregunta
+# CAPÍTULO 26 - ¿QUÉ ESTÁ EN JUEGO?
 
-# CAPÍTULO 25 - ¿QUÉ ESTÁ EN JUEGO?
+## El Constructor no falla, pero la participación importa
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de una participación fiel y una participación deficiente, surge una pregunta natural.}
-\headingsix{¿Qué está en juego?}
--   Porque Cristo es fiel.
--   El Constructor no falla.
--   Su iglesia permanecerá.
+\headingfive{Después de observar una participación \fillin{fiel} y una participación deficiente, otra pregunta comenzó a surgir.}
 
-\headingsix{Entonces, ¿por qué tantas exhortaciones?}
-\headingsix{¿Por qué tantas advertencias?}
-\headingsix{¿Por qué tanta insistencia en perseverar?}
+\headingfive{Porque Cristo es \fillin{fiel}.}
 
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+\headingfive{El Constructor no \fillin{falla}.}
+
+\headingfive{Su \fillin{iglesia} permanecerá.}
+
+\headingfive{Entonces, ¿por qué \fillin{tantas} exhortaciones?}
+
+\headingfive{¿Por qué \fillin{tantas} advertencias?}
+
+\headingfive{¿Por qué \fillin{tanta} insistencia en perseverar?}
+
+\headingfive{Y permitiremos nuevamente que los apóstoles \fillin{hablen}.}
 
 ## La obra será probada
 
@@ -2732,19 +2929,28 @@ Dices: Soy rico... y no sabes que eres un desventurado.
 La obra de cada uno se hará evidente... porque el día la mostrará.
 \end{verseblock}
 #### la obra de cada uno
-\headingfive{Pablo dirige la atención hacia la obra.}
--   La obra será manifestada.
--   El fuego probará la calidad.
--   Habrá diferencia entre unas obras y otras.
 
-\headingfive{La participación importa.}
+\headingfive{Pablo dirige la atención hacia la \fillin{obra}.}
+
+\headingfive{La \fillin{obra} será manifestada.}
+
+\headingfive{El \fillin{fuego} probará la calidad.}
+
+\headingfive{Habrá diferencia entre \fillin{unas} obras y otras.}
+
+\headingfive{La participación \fillin{importa}.}
+
 #### sufrirá pérdida
-\headingfive{Pablo distingue entre salvación y recompensa.}
--   El creyente será salvo.
--   Sin embargo, puede sufrir pérdida.
--   La obra puede permanecer o consumirse.
 
-\headingfive{Lo que se hace posee importancia.}
+\headingfive{\fillin{Pablo} distingue entre salvación y recompensa.}
+
+\headingfive{El creyente \fillin{será} salvo.}
+
+\headingfive{Sin embargo, \fillin{puede} sufrir pérdida.}
+
+\headingfive{La \fillin{obra} puede permanecer o consumirse.}
+
+\headingfive{Lo que se \fillin{hace} posee importancia.}
 
 ## Todos compareceremos
 
@@ -2753,12 +2959,15 @@ La obra de cada uno se hará evidente... porque el día la mostrará.
 Todos debemos comparecer ante el tribunal de Cristo.
 \end{verseblock}
 #### todos
-\headingfive{Nadie queda excluido.}
--   Todos comparecerán.
--   Cristo evaluará.
--   Cada uno recibirá según lo que haya hecho.
+\headingfive{\fillin{Nadie} queda excluido.}
 
-\headingfive{Cristo valora la participación.}
+\headingfive{Todos \fillin{comparecerán}.}
+
+\headingfive{\fillin{Cristo} evaluará.}
+
+\headingfive{Cada uno recibirá según lo que \fillin{haya} hecho.}
+
+\headingfive{\fillin{Cristo} valora la participación.}
 
 ## Cada uno dará cuenta
 
@@ -2767,12 +2976,15 @@ Todos debemos comparecer ante el tribunal de Cristo.
 Cada uno de nosotros dará a Dios cuenta de sí mismo.
 \end{verseblock}
 #### dará cuenta
-\headingfive{Pablo dirige la atención hacia Dios.}
--   El juicio pertenece al Señor.
--   Cada uno dará cuenta.
--   Los creyentes no ocupan el lugar del Juez.
+\headingfive{Pablo dirige la atención hacia \fillin{Dios}.}
 
-\headingfive{La responsabilidad permanece.}
+\headingfive{El juicio pertenece al \fillin{Señor}.}
+
+\headingfive{Cada uno \fillin{dará} cuenta.}
+
+\headingfive{Los creyentes no ocupan el lugar del \fillin{Juez}.}
+
+\headingfive{La responsabilidad \fillin{permanece}.}
 
 ## El Señor traerá a la luz
 
@@ -2781,12 +2993,15 @@ Cada uno de nosotros dará a Dios cuenta de sí mismo.
 El Señor... pondrá de manifiesto los motivos de los corazones.
 \end{verseblock}
 #### los motivos
-\headingfive{Cristo conoce más que las acciones.}
--   Él traerá a la luz.
--   Él conoce las intenciones.
--   La evaluación pertenece al Señor.
+\headingfive{\fillin{Cristo} conoce más que las acciones.}
 
-\headingfive{La aprobación viene de Dios.}
+\headingfive{Él traerá a la \fillin{luz}.}
+
+\headingfive{Él \fillin{conoce} las intenciones.}
+
+\headingfive{La evaluación pertenece al \fillin{Señor}.}
+
+\headingfive{La aprobación viene de \fillin{Dios}.}
 
 ## Permanezcan para recibir plena recompensa
 
@@ -2795,10 +3010,13 @@ El Señor... pondrá de manifiesto los motivos de los corazones.
 Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa.
 \end{verseblock}
 #### abundante recompensa
-\headingfive{Juan considera importante la perseverancia.}
--   Existe algo que recibir.
--   La fidelidad posee valor.
--   La recompensa es presentada como algo deseable.
+\headingfive{\fillin{Juan} considera importante la perseverancia.}
+
+\headingfive{\fillin{Existe} algo que recibir.}
+
+\headingfive{La fidelidad \fillin{posee} valor.}
+
+\headingfive{La recompensa es presentada como algo \fillin{deseable}.}
 
 ## Al vencedor
 
@@ -2807,49 +3025,81 @@ Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante 
 Al vencedor le daré...
 \end{verseblock}
 #### al vencedor
-\headingfive{Cristo repite promesas.}
--   Cristo conoce las obras.
--   Cristo anima a perseverar.
--   Cristo promete recompensas.
+\headingfive{\fillin{Cristo} repite promesas.}
 
-\headingfive{La participación posee importancia.}
+\headingfive{Cristo conoce las \fillin{obras}.}
+
+\headingfive{Cristo \fillin{anima} a perseverar.}
+
+\headingfive{\fillin{Cristo} promete recompensas.}
+
+\headingfive{La participación \fillin{posee} importancia.}
 
 ## Una observación
 
-\headingfive{Lo que está en juego no parece ser la fidelidad de Cristo.}
-\headingsix{Cristo permanece fiel.}
-\headingsix{Cristo preserva.}
-\headingsix{Cristo completa.}
-\headingsix{Cristo presenta.}
+\headingfive{Lo que está en \fillin{juego} no parece ser la fidelidad de Cristo.}
 
-## Otra observación
+\headingfive{Cristo permanece \fillin{fiel}.}
 
-\headingfive{Los apóstoles tampoco presentan el asunto como una amenaza constante de perder la salvación.}
-\headingsix{Más bien hablan de:}
--   aprobación,
--   recompensa,
--   pérdida,
--   responsabilidad,
--   perseverancia,
--   herencia,
--   gozo.
+\headingfive{\fillin{Cristo} preserva.}
+
+\headingfive{\fillin{Cristo} completa.}
+
+\headingfive{\fillin{Cristo} presenta.}
+
+\headingfive{Los apóstoles tampoco presentan el \fillin{asunto} como una amenaza constante de perder la salvación.}
+
+\headingfive{Más \fillin{bien} hablan de:}
+- aprobación,
+- recompensa,
+- pérdida,
+- responsabilidad,
+- perseverancia,
+- herencia,
+- gozo.
+
+\headingfive{Porque el Constructor no \fillin{falla}.}
+
+\headingfive{Pero los participantes sí \fillin{serán} evaluados.}
 
 ## Una pregunta
 
-\headingfive{Porque el Constructor no falla.}
+\headingfive{Si la participación \fillin{posee} importancia, ¿por qué los apóstoles insisten tanto en hombres fieles?}
 
-\headingfive{Pero los participantes sí serán evaluados.}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-## Otra pregunta
+# CAPÍTULO 27 - ¿POR QUÉ LA FIDELIDAD ES TAN IMPORTANTE?
 
-# CAPÍTULO 26 - ¿POR QUÉ SON ENSEÑADAS LAS RECOMPENSAS?
+## El Señor valora la participación fiel
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de una futura evaluación, surge una pregunta natural.}
-\headingsix{¿Por qué Cristo y los apóstoles hablan tan libremente acerca de recompensas?}
-\headingsix{¿Por qué aparecen coronas, herencias, aprobación y promesas al vencedor?}
-\headingsix{¿Por qué el tribunal de Cristo ocupa un lugar tan importante?}
+\headingfive{Después de escuchar a los apóstoles \fillin{hablar} acerca de una futura evaluación, otra pregunta comenzó a surgir.}
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{Porque \fillin{Cristo} y los apóstoles hablan libremente acerca de:}
+- recompensas,
+- aprobación,
+- coronas,
+- herencias,
+- promesas al vencedor.
+
+\headingfive{Y otra pregunta comenzó a \fillin{surgir}.}
+
+\headingfive{¿\fillin{Por} qué?}
+
+\headingfive{¿Por qué Cristo valora \fillin{tanto} la fidelidad?}
+
+\headingfive{¿Por qué Pablo \fillin{dice}:}
+
+\headingfive{Encarga esto a hombres \fillin{fieles}?}
+
+\headingfive{¿Por qué no \fillin{dice}:}
+
+\headingfive{A \fillin{hombres} capaces?}
+
+\headingfive{¿A \fillin{hombres} influyentes?}
+
+\headingfive{¿A \fillin{hombres} exitosos?}
+
+\headingfive{Y permitiremos nuevamente que \fillin{hablen}.}
 
 ## Todos compareceremos
 
@@ -2858,12 +3108,15 @@ Al vencedor le daré...
 Porque todos nosotros debemos comparecer ante el tribunal de Cristo.
 \end{verseblock}
 #### el tribunal de Cristo
-\headingfive{Pablo dirige la atención hacia una futura evaluación.}
--   Todos comparecerán.
--   Cristo evaluará.
--   Cada uno recibirá según lo que haya hecho.
+\headingfive{\fillin{Pablo} dirige la atención hacia una futura evaluación.}
 
-\headingfive{La participación posee importancia.}
+\headingfive{Todos \fillin{comparecerán}.}
+
+\headingfive{\fillin{Cristo} evaluará.}
+
+\headingfive{Cada uno recibirá según lo que \fillin{haya} hecho.}
+
+\headingfive{La participación \fillin{posee} importancia.}
 
 ## La obra será manifestada
 
@@ -2872,40 +3125,30 @@ Porque todos nosotros debemos comparecer ante el tribunal de Cristo.
 La obra de cada uno se hará evidente.
 \end{verseblock}
 #### la obra de cada uno
-\headingfive{El Señor distingue entre las obras.}
--   Algunas permanecerán.
--   Algunas sufrirán pérdida.
--   El creyente será salvo.
+\headingfive{El \fillin{Señor} distingue entre las obras.}
 
-\headingfive{La salvación y la recompensa no son presentadas como lo mismo.}
+\headingfive{\fillin{Algunas} permanecerán.}
 
-## Cada uno dará cuenta
+\headingfive{\fillin{Algunas} sufrirán pérdida.}
 
-### Romanos 14:12
-\begin{verseblock}
-Cada uno de nosotros dará a Dios cuenta de sí mismo.
-\end{verseblock}
-#### dará cuenta
-\headingfive{Cristo es Señor.}
--   El juicio pertenece al Señor.
--   Los creyentes no ocupan Su lugar.
--   Cada uno responderá delante de Él.
+\headingfive{El creyente \fillin{será} salvo.}
 
-\headingfive{La responsabilidad permanece.}
+\headingfive{La salvación y la recompensa no \fillin{son} presentadas como lo mismo.}
 
 ## El Señor traerá a la luz
 
 ### 1 Corintios 4:5
 \begin{verseblock}
-El Señor... pondrá de manifiesto los motivos de los corazones.
+El Señor pondrá de manifiesto los motivos de los corazones.
 \end{verseblock}
-#### los motivos de los corazones
-\headingfive{Cristo conoce más que las acciones.}
--   Él conoce las intenciones.
--   Él conoce lo oculto.
--   La aprobación pertenece a Dios.
+#### los motivos
+\headingfive{\fillin{Cristo} conoce más que las acciones.}
 
-\headingfive{El reconocimiento más importante proviene del Señor.}
+\headingfive{Él \fillin{conoce} las intenciones.}
+
+\headingfive{La aprobación pertenece a \fillin{Dios}.}
+
+\headingfive{El reconocimiento más importante proviene del \fillin{Señor}.}
 
 ## Al vencedor
 
@@ -2914,14 +3157,11 @@ El Señor... pondrá de manifiesto los motivos de los corazones.
 Al vencedor le daré...
 \end{verseblock}
 #### le daré
-\headingfive{Cristo promete recompensas.}
--   Corona de vida.
--   Maná escondido.
--   Vestiduras blancas.
--   Autoridad.
--   El nombre nuevo.
+\headingfive{\fillin{Cristo} promete recompensas.}
 
-\headingfive{Cristo considera valiosa la fidelidad.}
+\headingfive{\fillin{Cristo} considera valiosa la fidelidad.}
+
+\headingfive{La perseverancia \fillin{posee} importancia.}
 
 ## La corona de justicia
 
@@ -2930,69 +3170,13 @@ Al vencedor le daré...
 He peleado la buena batalla, he terminado la carrera, he guardado la fe.
 \end{verseblock}
 #### me está reservada
-\headingfive{Pablo espera algo futuro.}
--   El Señor dará la corona.
--   El Señor es juez justo.
--   Otros también la recibirán.
+\headingfive{\fillin{Pablo} espera algo futuro.}
 
-\headingfive{La esperanza continúa ocupando un lugar importante.}
+\headingfive{El Señor es \fillin{juez} justo.}
 
-## Una observación
+\headingfive{\fillin{Otros} también la recibirán.}
 
-\headingfive{Cristo y los apóstoles no parecen avergonzarse de hablar acerca de recompensas.}
-
-\headingfive{Tampoco presentan las recompensas como algo contrario a la gracia.}
-
-\headingfive{Más bien, la gracia produce participación.}
-
-\headingfive{Y Cristo valora esa participación.}
-
-## Otra observación
-
-\headingfive{El tribunal de Cristo no es presentado como una amenaza para la salvación.}
-\headingsix{Más bien aparece relacionado con:}
--   aprobación,
--   recompensa,
--   pérdida,
--   responsabilidad,
--   fidelidad,
--   perseverancia,
--   gozo.
-
-## Otra observación
-
-\headingfive{Las recompensas parecen revelar algo acerca de Cristo mismo.}
-\headingsix{Porque Aquel que comenzó la obra,}
--   Aquel que sostuvo la obra,
--   Aquel que dio crecimiento,
--   también se deleita en reconocer la participación de Sus siervos.
-
-## Una pregunta
-
-\headingfive{Porque el Constructor recibe toda la gloria. Y, sin embargo, se complace en recompensar a quienes participaron fielmente con Él.}
-
-## Otra pregunta
-
-\headingfive{Si Cristo valora tanto la fidelidad, ¿por qué Pablo dice:}
-
-\headingfive{Encarga esto a hombres fieles?}
-
-# CAPÍTULO 27 - ¿POR QUÉ HOMBRES FIELES?
-
-\headingfive{Después de escuchar a Cristo hablar acerca de recompensas y de una futura evaluación, surge una pregunta natural.}
-\headingsix{¿Por qué Pablo no dice:}
--   Encarga esto a hombres capaces?
-
-\headingsix{¿Por qué no dice:}
--   A hombres influyentes?
-
-\headingsix{¿Por qué no dice:}
--   A hombres exitosos?
-
-\headingsix{¿Por qué dice:}
--   A hombres fieles?
-
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+\headingfive{La esperanza continúa ocupando un \fillin{lugar} importante.}
 
 ## Encarga a hombres fieles
 
@@ -3001,12 +3185,13 @@ He peleado la buena batalla, he terminado la carrera, he guardado la fe.
 Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
 \end{verseblock}
 #### hombres fieles
-\headingfive{Pablo establece una prioridad.}
--   La fidelidad aparece antes que la capacidad.
--   La verdad debía continuar.
--   El encargo debía extenderse a otros.
+\headingfive{\fillin{Pablo} establece una prioridad.}
 
-\headingfive{La dimensión generacional aparece naturalmente.}
+\headingfive{La fidelidad aparece \fillin{antes} que la capacidad.}
+
+\headingfive{La verdad \fillin{debía} continuar.}
+
+\headingfive{La dimensión generacional \fillin{aparece} naturalmente.}
 
 ## Se requiere de los administradores
 
@@ -3015,26 +3200,13 @@ Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres f
 Lo que se requiere de los administradores es que cada uno sea hallado fiel.
 \end{verseblock}
 #### sea hallado fiel
-\headingfive{Pablo habla de un requisito.}
--   Los siervos son administradores.
--   La fidelidad posee valor.
--   El reconocimiento pertenece al Señor.
+\headingfive{Los siervos \fillin{son} administradores.}
 
-\headingfive{La grandeza no es mencionada.}
+\headingfive{La fidelidad \fillin{posee} valor.}
 
-## Moisés fue fiel
+\headingfive{El reconocimiento pertenece al \fillin{Señor}.}
 
-### Hebreos 3:2
-\begin{verseblock}
-Fue fiel al que lo constituyó.
-\end{verseblock}
-#### fue fiel
-\headingfive{La fidelidad aparece asociada al servicio.}
--   Dios confió una tarea.
--   Moisés fue fiel.
--   Cristo también es presentado como fiel.
-
-\headingfive{La fidelidad posee importancia delante de Dios.}
+\headingfive{La \fillin{grandeza} no es mencionada.}
 
 ## Bien, siervo bueno y fiel
 
@@ -3043,234 +3215,73 @@ Fue fiel al que lo constituyó.
 Bien, siervo bueno y fiel.
 \end{verseblock}
 #### siervo bueno y fiel
-\headingfive{El Señor valora la fidelidad.}
--   El siervo había recibido.
--   El siervo había administrado.
--   El Señor reconoce su fidelidad.
+\headingfive{El \fillin{Señor} valora la fidelidad.}
 
-\headingfive{La aprobación proviene del Señor.}
+\headingfive{El siervo \fillin{había} recibido.}
 
-## Timoteo
+\headingfive{El siervo \fillin{había} administrado.}
 
-### Filipenses 2:22
-\begin{verseblock}
-Ustedes conocen sus méritos probados.
-\end{verseblock}
-#### sus méritos probados
-\headingfive{Timoteo había demostrado algo.}
--   Había servido con Pablo.
--   Había permanecido.
--   Había probado su carácter.
+\headingfive{El \fillin{Señor} reconoce su fidelidad.}
 
-\headingfive{La fidelidad se manifiesta con el tiempo.}
-
-## Tíquico
-
-### Efesios 6:21
-\begin{verseblock}
-El amado hermano y fiel ministro en el Señor.
-\end{verseblock}
-#### fiel ministro
-\headingfive{Pablo vuelve a destacar la fidelidad.}
--   Tíquico servía.
--   Tíquico era amado.
--   La fidelidad era reconocida.
-
-\headingfive{El servicio beneficia al cuerpo.}
+\headingfive{La aprobación proviene del \fillin{Señor}.}
 
 ## Una observación
 
-\headingfive{Los apóstoles parecen valorar profundamente la fidelidad.}
-\headingsix{No enfatizan principalmente:}
--   fama,
--   influencia,
--   talento,
--   reconocimiento.
+\headingfive{Los apóstoles no parecen avergonzarse de \fillin{hablar} acerca de recompensas.}
 
-\headingsix{Sino:}
--   fidelidad,
--   servicio,
--   perseverancia,
--   responsabilidad.
+\headingfive{Tampoco presentan las recompensas como algo contrario a la \fillin{gracia}.}
 
-## Otra observación
+\headingfive{Más \fillin{bien}, la gracia produce participación.}
 
-\headingfive{La fidelidad no parece producir autosuficiencia.}
-\headingsix{La fidelidad ocurre dentro de la gracia.}
--   Dentro de la obra del Constructor.
--   Dentro del evangelio.
--   Porque la confianza continúa estando en Cristo.
+\headingfive{Y \fillin{Cristo} valora esa participación.}
 
-## Otra observación
+\headingfive{Por eso los \fillin{apóstoles} no enfatizan principalmente:}
+- fama,
+- influencia,
+- talento,
+- reconocimiento.
 
-\headingfive{La fidelidad posee una dimensión generacional.}
+\headingfive{\fillin{Sino}:}
+- fidelidad,
+- servicio,
+- perseverancia,
+- responsabilidad.
 
-\headingfive{Lo recibido es encargado.}
+\headingfive{Porque Aquel que comenzó la \fillin{obra},}
 
-\headingfive{Lo encargado continúa.}
+\headingfive{Aquel que sostuvo la \fillin{obra},}
 
-\headingfive{Otros enseñan también.}
+\headingfive{Aquel que \fillin{dio} crecimiento,}
 
-\headingfive{El centro es preservado.}
+\headingfive{también se \fillin{deleita} en reconocer la participación de Sus siervos.}
 
-## Una pregunta
+\headingfive{Y quizás por eso Pablo \fillin{dice}:}
 
-\headingfive{Porque Aquel que da crecimiento y recibe toda la gloria, también se deleita en reconocer a participantes fieles.}
-
-## Otra pregunta
-
-\headingfive{Porque Pablo no habla simplemente de transmitir información.}
-
-\headingfive{Habla de algo que debía continuar hasta otros también.}
-
-# CAPÍTULO 28 - ¿QUÉ SIGNIFICA ENCARGAR?
-
-\headingfive{Después de escuchar a Pablo decir:}
-\headingsix{Encarga esto a hombres fieles}
-
-\headingfive{surge una pregunta natural.}
-\headingsix{¿Qué significa encargar?}
-\headingsix{¿Se trata simplemente de transmitir información?}
-\headingsix{¿Se trata de preservar métodos?}
-\headingsix{¿Se trata de reproducir una personalidad?}
-
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
-
-## Lo que has oído de mí
-
-### 2 Timoteo 2:2
-\begin{verseblock}
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles.
-\end{verseblock}
-#### lo que has oído
-\headingfive{Pablo habla de algo recibido.}
--   Timoteo había escuchado.
--   Timoteo había aprendido.
--   Timoteo había vivido junto a Pablo.
-
-\headingfive{El encargo comienza con algo recibido.}
-
-## Sigue las sanas palabras
-
-### 2 Timoteo 1:13
-\begin{verseblock}
-Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús.
-\end{verseblock}
-#### en la fe y el amor en Cristo Jesús
-\headingfive{Pablo no separa el contenido de la vida.}
--   Las palabras son importantes.
--   La fe es importante.
--   El amor es importante.
-
-\headingfive{Todo permanece relacionado con Cristo.}
-
-## Guarda el tesoro
-
-### 2 Timoteo 1:14
-\begin{verseblock}
-Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado.
-\end{verseblock}
-#### el tesoro
-\headingfive{Pablo describe algo valioso.}
--   El tesoro debe ser guardado.
--   El Espíritu participa en esta obra.
--   El centro posee valor.
-
-\headingfive{Lo recibido no debía perderse.}
-
-## Yo recibí y entregué
-
-### 1 Corintios 15:3
-\begin{verseblock}
-Porque yo les entregué en primer lugar lo mismo que recibí.
-\end{verseblock}
-#### lo mismo que recibí
-\headingfive{Pablo no inventa algo nuevo.}
--   Pablo recibió.
--   Pablo entregó.
--   Lo entregado permanece siendo lo primero.
-
-\headingfive{Existe continuidad.}
-
-## Lo que aprendiste y recibiste
-
-### Filipenses 4:9
-\begin{verseblock}
-Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
-\end{verseblock}
-#### aprendido, recibido, oído y visto
-\headingfive{La participación posee una dimensión visible.}
--   La verdad es enseñada.
--   La verdad es vivida.
--   La verdad es observada.
-
-\headingfive{El evangelio afecta toda la vida.}
-
-## Una observación
-
-\headingfive{Encargar parece ser más que transmitir información.}
-
-\headingfive{Porque los apóstoles no solamente enseñan doctrinas.}
-\headingsix{También enseñan:}
--   fe,
--   amor,
--   esperanza,
--   perseverancia,
--   sufrimiento,
--   servicio,
--   confianza en Cristo.
-
-## Otra observación
-
-\headingfive{Encargar tampoco parece consistir en preservar una personalidad.}
-
-\headingfive{Pablo no intenta reproducir a Pablo.}
-
-\headingfive{Pedro no intenta reproducir a Pedro.}
-
-\headingfive{Juan no intenta reproducir a Juan.}
-
-\headingfive{Todos apuntan hacia Cristo.}
-
-## Otra observación
-
-\headingfive{Lo que se encarga parece tener un centro.}
-\headingsix{Cristo murió por nuestros pecados.}
-\headingsix{Fue sepultado.}
-\headingsix{Resucitó al tercer día conforme a las Escrituras.}
-
-\headingfive{Todo lo demás encuentra su lugar alrededor de este centro.}
-
-## Una observación más
-
-\headingfive{Encargar parece significar ayudar a otros a vivir dentro de la misma realidad en la que los apóstoles vivían.}
-
-\headingfive{No solamente transmitir información.}
-\headingsix{Sino ayudar a otros a vivir:}
--   en Cristo,
--   por gracia,
--   en fe,
--   en amor,
--   con esperanza,
--   participando con el Constructor.
+\headingfive{Encarga esto a hombres \fillin{fieles}.}
 
 ## Una pregunta
 
-\headingfive{Porque si el centro permanece,}
+\headingfive{Si la fidelidad \fillin{posee} tanto valor, ¿qué significa realmente encargar?}
 
-\headingfive{quizás el Constructor continúa edificando.}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-## Otra pregunta
+# CAPÍTULO 28 - PADRES, MADRES Y EJEMPLOS
 
-# CAPÍTULO 29 - PADRES, MADRES Y EJEMPLOS
+\headingfive{Después de escuchar a los apóstoles \fillin{hablar} acerca de encargar, otra pregunta comenzó a surgir.}
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de encargar, surge una pregunta natural.}
-\headingsix{¿Cómo ocurre esto?}
-\headingsix{¿Simplemente por medio de información?}
-\headingsix{¿Simplemente por medio de reuniones?}
-\headingsix{¿Simplemente por medio de libros?}
+\headingfive{Porque si lo recibido \fillin{debe} continuar,}
 
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+\headingfive{¿\fillin{cómo} ocurre esto normalmente?}
+
+\headingsix{¿Simplemente por \fillin{medio} de información?}
+
+\headingsix{¿Simplemente por \fillin{medio} de reuniones?}
+
+\headingsix{¿Simplemente por \fillin{medio} de libros?}
+
+\headingsix{¿O los \fillin{apóstoles} describen algo más?}
+
+\headingfive{Permitiremos nuevamente que \fillin{hablen}.}
 
 ## No muchos padres
 
@@ -3279,19 +3290,22 @@ Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
 Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
 \end{verseblock}
 #### no tienen muchos padres
-\headingfive{Pablo establece una diferencia.}
--   Los maestros poseen importancia.
--   Pero Pablo habla también como padre.
--   El evangelio produjo una relación.
+\headingfive{\fillin{Pablo} establece una diferencia.}
 
-\headingfive{La participación posee una dimensión familiar.}
+- Los maestros poseen importancia.
+- Pero Pablo habla también como padre.
+- El evangelio produjo una relación.
+
+\headingfive{La participación \fillin{posee} una dimensión familiar.}
+
 #### sean imitadores de mí
-\headingfive{Pablo presenta un ejemplo.}
--   Pablo no ocupa el centro.
--   Pablo apunta hacia Cristo.
--   Timoteo conoce sus caminos.
+\headingfive{\fillin{Pablo} presenta un ejemplo.}
 
-\headingfive{La verdad también es observada.}
+- Pablo no ocupa el centro.
+- Pablo apunta hacia Cristo.
+- Timoteo conoce sus caminos.
+
+\headingfive{La \fillin{verdad} también es observada.}
 
 ## Imitadores de nosotros
 
@@ -3300,12 +3314,13 @@ Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muc
 Ustedes vinieron a ser imitadores de nosotros y del Señor.
 \end{verseblock}
 #### y del Señor
-\headingfive{Los ejemplos no reemplazan a Cristo.}
--   El Señor permanece en el centro.
--   Los creyentes observan ejemplos.
--   La participación es visible.
+\headingfive{Los ejemplos no reemplazan a \fillin{Cristo}.}
 
-\headingfive{Los ejemplos ayudan.}
+- El Señor permanece en el centro.
+- Los creyentes observan ejemplos.
+- La participación es visible.
+
+\headingfive{Los ejemplos \fillin{ayudan}.}
 
 ## Timoteo conocía el camino de Pablo
 
@@ -3314,13 +3329,17 @@ Ustedes vinieron a ser imitadores de nosotros y del Señor.
 Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, perseverancia.
 \end{verseblock}
 #### has seguido
-\headingfive{Timoteo había observado la vida de Pablo.}
--   La enseñanza era conocida.
--   La conducta era conocida.
--   La fe era conocida.
--   La perseverancia era conocida.
+\headingfive{Timoteo había observado la \fillin{vida} de Pablo.}
 
-\headingfive{La verdad era visible.}
+- La enseñanza era conocida.
+- La conducta era conocida.
+- El propósito era conocido.
+- La fe era conocida.
+- La paciencia era conocida.
+- El amor era conocido.
+- La perseverancia era conocida.
+
+\headingfive{La \fillin{verdad} era visible.}
 
 ## Las ancianas enseñan
 
@@ -3329,12 +3348,13 @@ Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, p
 Las ancianas... enseñando lo bueno.
 \end{verseblock}
 #### enseñando lo bueno
-\headingfive{Las generaciones participan juntas.}
--   Las ancianas participan.
--   Las jóvenes participan.
--   La vida es compartida.
+\headingfive{Las generaciones participan \fillin{juntas}.}
 
-\headingfive{La iglesia funciona como una familia.}
+- Las ancianas participan.
+- Las jóvenes participan.
+- La vida es compartida.
+
+\headingfive{La \fillin{iglesia} funciona como una familia.}
 
 ## Sean ejemplo
 
@@ -3343,88 +3363,145 @@ Las ancianas... enseñando lo bueno.
 Demostrando ser ejemplos del rebaño.
 \end{verseblock}
 #### ejemplos del rebaño
-\headingfive{Pedro habla a los pastores.}
--   No deben enseñorearse.
--   Deben servir.
--   Deben ser ejemplos.
+\headingfive{\fillin{Pedro} habla a los pastores.}
 
-\headingfive{La autoridad se expresa por medio del servicio.}
+- No deben enseñorearse.
+- Deben servir.
+- Deben ser ejemplos.
+
+\headingfive{La autoridad se expresa por \fillin{medio} del servicio.}
 
 ## Una observación
 
-Los apóstoles no parecen confiar solamente en la transferencia de información.
+\headingfive{Los apóstoles no \fillin{parecen} confiar solamente en la transferencia de información.}
 
-Interesante.
+\headingfive{Porque también \fillin{hablan} acerca de:}
+- padres,
+- madres,
+- ejemplos,
+- imitación,
+- relaciones,
+- servicio.
 
-Muy interesante.
+\headingfive{Los ejemplos no ocupan el \fillin{lugar} de Cristo.}
 
-También hablan acerca de:
+\headingfive{Pablo \fillin{dice}:}
+\headingfive{\fillin{Sean} imitadores de mí.}
 
--   padres,
--   madres,
--   ejemplos,
--   imitación,
--   relaciones,
--   servicio.
+\headingfive{Pero también \fillin{dice}:}
 
-## Otra observación
+\headingfive{como yo de \fillin{Cristo}.}
 
-\headingfive{Los ejemplos no ocupan el lugar de Cristo.}
-\headingsix{Pablo dice:}
--   Sean imitadores de mí.
+\headingfive{Porque el ejemplo \fillin{posee} valor cuando apunta hacia Cristo.}
 
-\headingsix{Pero también dice:}
--   como yo de Cristo.
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
 
-\headingfive{El ejemplo posee valor porque apunta hacia Cristo.}
+\headingfive{La \fillin{verdad} no solamente es enseñada.}
 
-## Otra observación
+\headingfive{También es \fillin{observada}.}
 
-\headingfive{La iglesia aparece como una familia.}
+\headingfive{Timoteo conocía la enseñanza de \fillin{Pablo}.}
 
-\headingfive{Las generaciones viven juntas.}
+\headingfive{Pero también \fillin{conocía}:}
+- su conducta,
+- su propósito,
+- su fe,
+- su paciencia,
+- su amor,
+- su perseverancia.
 
-\headingfive{La verdad es enseñada.}
+\headingfive{Porque los apóstoles \fillin{parecen} encargar algo más que información.}
 
-\headingfive{La verdad es observada.}
+\headingfive{Parecen compartir una \fillin{vida}.}
 
-\headingfive{La verdad es compartida.}
+\headingfive{La \fillin{iglesia} aparece como una familia.}
+
+\headingfive{Las generaciones \fillin{viven} juntas.}
+
+\headingfive{La \fillin{verdad} es enseñada.}
+
+\headingfive{La \fillin{verdad} es observada.}
+
+\headingfive{La \fillin{verdad} es compartida.}
+
+\headingfive{Y quizás muchas \fillin{cosas} solamente pueden ser aprendidas al caminar con otros.}
 
 ## Una pregunta
 
-\headingfive{Porque los apóstoles parecen encargar el centro por medio de relaciones y ejemplos.}
+\headingfive{Si padres, madres y ejemplos poseen \fillin{tanta} importancia, ¿por qué los apóstoles hablan de generaciones?}
 
-## Otra pregunta
+\headingfive{Porque lo recibido no termina en una \fillin{sola} generación.}
 
-\headingfive{Si padres, madres y ejemplos poseen tanta importancia, ¿por qué los apóstoles hablan de generaciones?}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
-\headingfive{Porque lo recibido no termina en una sola generación.}
+# CAPÍTULO 29 - ¿QUÉ SIGNIFICA ENCARGAR?
 
-# CAPÍTULO 30 - GENERACIONES
+## Lo recibido continúa
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de padres, madres y ejemplos, surge una pregunta natural.}
-\headingsix{¿Por qué aparece tantas veces la idea de generaciones?}
-\headingsix{¿Por qué Pablo habla de hombres fieles?}
-\headingsix{¿Por qué Pedro desea que recuerden después de su partida?}
-\headingsix{¿Por qué Juan escribe a hijos, padres y jóvenes?}
-\headingsix{¿Por qué la iglesia aparece como una familia?}
+\headingfive{Después de escuchar a \fillin{Pablo} decir:}
 
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+\headingfive{Encarga esto a hombres \fillin{fieles},}
 
-## Lo que has oído
+\headingfive{otra pregunta comenzó a \fillin{surgir}.}
+
+\headingfive{¿Qué significa \fillin{encargar}?}
+
+\headingfive{¿Se \fillin{trata} simplemente de transmitir información?}
+
+\headingfive{¿Se \fillin{trata} de preservar métodos?}
+
+\headingfive{¿Se \fillin{trata} de reproducir una personalidad?}
+
+\headingfive{Y permitiremos nuevamente que los apóstoles \fillin{hablen}.}
+
+## Lo que has oído de mí
 
 ### 2 Timoteo 2:2
 \begin{verseblock}
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles.
 \end{verseblock}
-#### también a otros
-\headingfive{Pablo contempla más de una generación.}
--   Pablo enseñó.
--   Timoteo recibió.
--   Hombres fieles recibirían.
--   Otros también serían alcanzados.
+#### lo que has oído
+\headingfive{\fillin{Pablo} habla de algo recibido.}
 
-\headingfive{La verdad debía continuar.}
+\headingfive{Timoteo \fillin{había} escuchado.}
+
+\headingfive{Timoteo \fillin{había} aprendido.}
+
+\headingfive{Timoteo \fillin{había} vivido junto a Pablo.}
+
+\headingfive{El \fillin{encargo} comienza con algo recibido.}
+
+## Sigue las sanas palabras
+
+### 2 Timoteo 1:13
+\begin{verseblock}
+Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús.
+\end{verseblock}
+#### en la fe y el amor en Cristo Jesús
+\headingfive{Pablo no separa el contenido de la \fillin{vida}.}
+
+\headingfive{Las palabras \fillin{son} importantes.}
+
+\headingfive{La fe es \fillin{importante}.}
+
+\headingfive{El \fillin{amor} es importante.}
+
+\headingfive{Todo permanece relacionado con \fillin{Cristo}.}
+
+## Guarda el tesoro
+
+### 2 Timoteo 1:14
+\begin{verseblock}
+Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado.
+\end{verseblock}
+#### el tesoro
+\headingfive{\fillin{Pablo} describe algo valioso.}
+
+\headingfive{El tesoro \fillin{debe} ser guardado.}
+
+\headingfive{El Espíritu participa en esta \fillin{obra}.}
+
+\headingfive{Lo recibido no \fillin{debía} perderse.}
 
 ## Yo recibí y entregué
 
@@ -3433,12 +3510,115 @@ Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres f
 Porque yo les entregué en primer lugar lo mismo que recibí.
 \end{verseblock}
 #### lo mismo que recibí
-\headingfive{Pablo continúa una cadena.}
--   Pablo recibió.
--   Pablo entregó.
--   Otros recibieron.
+\headingfive{\fillin{Pablo} no inventa algo nuevo.}
 
-\headingfive{El centro permanece.}
+\headingfive{\fillin{Pablo} recibió.}
+
+\headingfive{\fillin{Pablo} entregó.}
+
+\headingfive{\fillin{Existe} continuidad.}
+
+## Lo que aprendiste y recibiste
+
+### Filipenses 4:9
+\begin{verseblock}
+Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
+\end{verseblock}
+#### aprendido, recibido, oído y visto
+\headingfive{La participación \fillin{posee} una dimensión visible.}
+
+\headingfive{La \fillin{verdad} es enseñada.}
+
+\headingfive{La \fillin{verdad} es vivida.}
+
+\headingfive{La \fillin{verdad} es observada.}
+
+\headingfive{El evangelio afecta \fillin{toda} la vida.}
+
+## Una observación
+
+\headingfive{Encargar \fillin{parece} ser más que transmitir información.}
+
+\headingfive{Porque los apóstoles no solamente \fillin{enseñan} doctrinas.}
+
+\headingfive{También \fillin{enseñan}:}
+- fe,
+- amor,
+- esperanza,
+- perseverancia,
+- sufrimiento,
+- servicio,
+- confianza en Cristo.
+
+\headingfive{Encargar tampoco \fillin{parece} consistir en preservar una personalidad.}
+
+\headingfive{\fillin{Pablo} no intenta reproducir a Pablo.}
+\headingfive{\fillin{Pedro} no intenta reproducir a Pedro.}
+\headingfive{\fillin{Juan} no intenta reproducir a Juan.}
+\headingfive{Todos apuntan hacia \fillin{Cristo}.}
+
+\headingfive{Lo que se encarga \fillin{parece} continuar una realidad recibida.}
+\headingfive{Y ayudar a \fillin{otros} a vivir dentro de ella.}
+\headingfive{No \fillin{solamente} transmitir información.}
+
+\headingfive{\fillin{Sino} ayudar a otros a vivir:}
+- en Cristo,
+- por gracia,
+- en fe,
+- en amor,
+- con esperanza,
+- participando con el Constructor.
+
+## Una pregunta
+
+\headingfive{Si lo recibido continúa, ¿\fillin{cómo} ocurre esto normalmente entre las personas?}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
+
+# CAPÍTULO 30 - GENERACIONES
+
+\headingfive{Después de escuchar a los apóstoles \fillin{hablar} acerca de padres, madres y ejemplos, otra pregunta comenzó a surgir.}
+
+\headingsix{¿Por qué aparece tantas veces la \fillin{idea} de generaciones?}
+
+\headingsix{¿Por qué \fillin{Pablo} habla de hombres fieles?}
+\headingsix{¿Por qué \fillin{Pedro} desea que recuerden después de su partida?}
+\headingsix{¿Por qué \fillin{Juan} escribe a hijos, jóvenes y padres?}
+
+\headingsix{¿Por qué la \fillin{iglesia} aparece como una familia?}
+
+\headingfive{Permitiremos nuevamente que los apóstoles \fillin{hablen}.}
+
+## Lo que has oído
+
+### 2 Timoteo 2:2
+\begin{verseblock}
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
+\end{verseblock}
+#### también a otros
+\headingfive{\fillin{Pablo} contempla más de una generación.}
+
+- Pablo enseñó.
+- Timoteo recibió.
+- Hombres fieles recibirían.
+- Otros también serían alcanzados.
+
+\headingfive{La verdad \fillin{debía} continuar.}
+
+## Yo recibí y entregué
+
+### 1 Corintios 15:3
+\begin{verseblock}
+Porque yo les entregué en primer lugar lo mismo que recibí.
+\end{verseblock}
+#### lo mismo que recibí
+\headingfive{\fillin{Pablo} continúa una cadena.}
+
+- Pablo recibió.
+- Pablo entregó.
+- Otros recibieron.
+
+\headingfive{El \fillin{centro} permanece.}
 
 ## Después de mi partida
 
@@ -3447,12 +3627,13 @@ Porque yo les entregué en primer lugar lo mismo que recibí.
 También procuraré con diligencia que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas.
 \end{verseblock}
 #### después de mi partida
-\headingfive{Pedro piensa en el futuro.}
--   Pedro sabe que partirá.
--   La verdad debía permanecer.
--   Otros debían recordar.
+\headingfive{\fillin{Pedro} piensa en el futuro.}
 
-\headingfive{El centro debía continuar.}
+- Pedro sabe que partirá.
+- La verdad debía permanecer.
+- Otros debían recordar.
+
+\headingfive{El centro \fillin{debía} continuar.}
 
 ## Hijos, jóvenes y padres
 
@@ -3461,12 +3642,13 @@ También procuraré con diligencia que en todo tiempo, después de mi partida, u
 Les escribo a ustedes, hijitos... jóvenes... padres.
 \end{verseblock}
 #### padres
-\headingfive{Juan observa generaciones.}
--   Existen diferentes etapas.
--   La vida es compartida.
--   Todos pertenecen a una misma familia.
+\headingfive{\fillin{Juan} observa generaciones.}
 
-\headingfive{Cristo permanece siendo el centro.}
+- Existen diferentes etapas.
+- La vida es compartida.
+- Todos pertenecen a una misma familia.
+
+\headingfive{\fillin{Cristo} permanece siendo el centro.}
 
 ## Enseña a otros
 
@@ -3475,84 +3657,113 @@ Les escribo a ustedes, hijitos... jóvenes... padres.
 Enseña lo que está de acuerdo con la sana doctrina.
 \end{verseblock}
 #### las ancianas enseñen
-\headingfive{Las generaciones viven juntas.}
--   Ancianos.
--   Ancianas.
--   Jóvenes.
--   Niños.
 
-\headingfive{La iglesia funciona como una familia.}
+\headingfive{Las generaciones \fillin{viven} juntas.}
+- Ancianos.
+- Ancianas.
+- Jóvenes.
+- Niños.
+
+\headingfive{La \fillin{iglesia} funciona como una familia.}
 
 ## Una observación
 
-\headingfive{Los apóstoles saben que partirán.}
+\headingfive{Los apóstoles \fillin{saben} que partirán.}
 
-\headingfive{Pero no hablan con desesperación.}
+\headingfive{Pero no \fillin{hablan} con desesperación.}
 
-\headingfive{No hablan como si todo dependiera de ellos.}
-\headingsix{Cristo permanece.}
-\headingsix{La iglesia permanece.}
-\headingsix{El evangelio permanece.}
+\headingfive{No \fillin{hablan} como si todo dependiera de ellos.}
 
-## Otra observación
+\headingfive{Porque ellos \fillin{partirán}.}
 
-\headingfive{Las generaciones no parecen existir para preservar hombres.}
-\headingsix{Ni Pablo.}
-\headingsix{Ni Pedro.}
-\headingsix{Ni Juan.}
-\headingsix{Ni tradiciones.}
-\headingsix{Ni métodos.}
-\headingsix{El centro permanece siendo Cristo.}
+\headingfive{Pero \fillin{Cristo} permanece.}
 
-## Otra observación
+\headingfive{Ellos \fillin{partirán}.}
 
-\headingfive{La dimensión generacional no aparece como un programa.}
-\headingsix{Aparece naturalmente.}
-\headingsix{Porque la vida produce vida.}
-\headingsix{La verdad produce verdad.}
-\headingsix{La gracia produce gracia.}
-\headingsix{El evangelio continúa.}
+\headingfive{Pero el \fillin{evangelio} permanece.}
 
-## Una observación más
+\headingfive{Ellos \fillin{partirán}.}
 
-\headingfive{El futuro de la iglesia fue confiado a once hombres.}
-\headingsix{No todos los creyentes permanecieron fieles.}
-\headingsix{No todas las iglesias locales permanecieron.}
-\headingsix{Algunas lámparas fueron removidas.}
-\headingsix{Pero la iglesia continúa.}
-\headingsix{Porque el Constructor continúa.}
-\headingsix{Y las puertas del Hades no prevalecerán contra ella.}
+\headingfive{Pero la \fillin{iglesia} permanece.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{Las generaciones no \fillin{parecen} existir para preservar hombres.}
+
+\headingfive{Ni \fillin{Pablo}.}
+
+\headingfive{Ni \fillin{Pedro}.}
+
+\headingfive{Ni \fillin{Juan}.}
+
+\headingfive{Ni \fillin{métodos}.}
+
+\headingfive{Ni \fillin{tradiciones}.}
+
+\headingfive{El \fillin{centro} permanece siendo Cristo.}
+
+\headingfive{Y otra observación comenzó a \fillin{surgir}.}
+
+\headingfive{La dimensión generacional no \fillin{aparece} como un programa.}
+
+\headingfive{\fillin{Aparece} naturalmente.}
+
+\headingfive{Porque la \fillin{vida} produce vida.}
+
+\headingfive{La \fillin{verdad} produce verdad.}
+
+\headingfive{La \fillin{gracia} produce gracia.}
+
+\headingfive{El evangelio \fillin{continúa}.}
+
+\headingfive{Y una \fillin{última} observación comenzó a surgir.}
+
+\headingfive{El futuro de la iglesia fue confiado a \fillin{once} hombres.}
+
+\headingfive{No todos los creyentes permanecieron \fillin{fieles}.}
+
+\headingfive{No \fillin{todas} las iglesias locales permanecieron.}
+
+\headingfive{Algunas lámparas \fillin{fueron} removidas.}
+
+\headingfive{Pero \fillin{Cristo} permanece.}
+
+\headingfive{Y el Constructor \fillin{continúa} edificando.}
+
+\headingfive{Y las puertas del \fillin{Hades} no prevalecerán contra ella.}
 
 ## Una pregunta
 
-\headingfive{No preservar nuestros métodos.}
+\headingfive{Quizás la pregunta nunca fue \fillin{cómo} preservar nuestros nombres.}
 
-\headingfive{No preservar nuestros nombres.}
+\headingfive{Ni nuestros \fillin{métodos}.}
 
-\headingfive{No preservar nuestras tradiciones.}
+\headingfive{Ni \fillin{nuestras} tradiciones.}
 
-\headingfive{Sino entregar intacto el centro a quienes vienen después.}
+\headingfive{\fillin{Sino} cómo entregar intacto el centro a quienes vienen después.}
 
-\headingfive{\textbf{Porque si Cristo crucificado permanece central,}}
+\headingfive{Porque si \fillin{Cristo} crucificado permanece central,}
 
-\headingfive{**quizás el Constructor continúa edificando.}
+\headingfive{\fillin{quizás} el Constructor continúa edificando.}
 
 ## Otra pregunta
 
-\headingfive{Si las generaciones poseen tanta importancia, ¿cómo se termina bien?}
+\headingfive{Si los apóstoles pensaron tanto en el futuro, ¿\fillin{cómo} deseaban ellos terminar?}
 
-\headingfive{Porque los apóstoles no solamente comenzaron.}
+\headingfive{Porque no \fillin{solamente} comenzaron.}
 
-\headingfive{También desearon terminar fielmente.}
+\headingfive{También \fillin{desearon} terminar fielmente.}
+
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
 # CAPÍTULO 31 - TERMINANDO BIEN
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de generaciones, surge una pregunta natural.}
-\headingsix{¿Cómo hablan acerca del final?}
-\headingsix{¿Qué desean al acercarse su partida?}
-\headingsix{¿Qué consideran importante?}
+\headingfive{Después de escuchar a los apóstoles hablar acerca de generaciones, \fillin{surge} una pregunta natural.}
+\headingsix{¿\fillin{Cómo} hablan acerca del final?}
+\headingsix{¿Qué \fillin{desean} al acercarse su partida?}
+\headingsix{¿Qué \fillin{consideran} importante?}
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{Permitiremos nuevamente que \fillin{hablen}.}
 
 ## Pablo
 
@@ -3561,25 +3772,25 @@ Enseña lo que está de acuerdo con la sana doctrina.
 Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partida ha llegado.
 \end{verseblock}
 #### el tiempo de mi partida
-\headingfive{Pablo reconoce que su carrera está terminando.}
+\headingfive{\fillin{Pablo} reconoce que su carrera está terminando.}
 -   Pablo sabe que se acerca el final.
 -   Su atención no se dirige hacia sí mismo.
 -   Habla con esperanza.
 
 #### he peleado la buena batalla
-\headingfive{Pablo mira hacia atrás.}
+\headingfive{Pablo \fillin{mira} hacia atrás.}
 -   Ha peleado la buena batalla.
 -   Ha terminado la carrera.
 -   Ha guardado la fe.
 
-\headingfive{La fidelidad continúa siendo importante.}
+\headingfive{La fidelidad continúa \fillin{siendo} importante.}
 #### me está reservada la corona de justicia
-\headingfive{Pablo mira hacia adelante.}
+\headingfive{Pablo \fillin{mira} hacia adelante.}
 -   El Señor es juez justo.
 -   El Señor dará la recompensa.
 -   Otros también la recibirán.
 
-\headingfive{La esperanza permanece.}
+\headingfive{La \fillin{esperanza} permanece.}
 
 ## Pedro
 
@@ -3588,12 +3799,12 @@ Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partid
 Sé que pronto debo abandonar este cuerpo terrenal.
 \end{verseblock}
 #### procuraré con diligencia
-\headingfive{Pedro piensa más allá de sí mismo.}
+\headingfive{Pedro piensa más \fillin{allá} de sí mismo.}
 -   Pedro sabe que partirá.
 -   Desea que recuerden estas cosas.
 -   Busca el beneficio de otros.
 
-\headingfive{El centro debe permanecer.}
+\headingfive{El centro \fillin{debe} permanecer.}
 
 ## El escritor de Hebreos
 
@@ -3602,12 +3813,12 @@ Sé que pronto debo abandonar este cuerpo terrenal.
 Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús.
 \end{verseblock}
 #### puestos los ojos en Jesús
-\headingfive{La carrera posee una dirección.}
+\headingfive{La carrera \fillin{posee} una dirección.}
 -   La perseverancia continúa siendo necesaria.
 -   Jesús permanece delante.
 -   La mirada permanece en Él.
 
-\headingfive{Cristo continúa ocupando el centro.}
+\headingfive{\fillin{Cristo} continúa ocupando el centro.}
 
 ## Juan
 
@@ -3616,55 +3827,65 @@ Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en J
 Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos confianza.
 \end{verseblock}
 #### permanezcan en Él
-\headingfive{Juan continúa dirigiendo la atención hacia Cristo.}
+\headingfive{\fillin{Juan} continúa dirigiendo la atención hacia Cristo.}
 -   Cristo aparecerá.
 -   Los creyentes esperan Su venida.
 -   La confianza permanece relacionada con Él.
 
-\headingfive{La esperanza continúa.}
+\headingfive{La esperanza \fillin{continúa}.}
 
 ## Una observación
 
-\headingfive{Los apóstoles no parecen obsesionados con preservar sus nombres.}
+\headingfive{Los apóstoles no \fillin{parecen} obsesionados con preservar sus nombres.}
+\headingfive{\fillin{Tampoco} parecen preocupados por preservar sus ministerios.}
 
-\headingfive{Tampoco parecen preocupados por preservar sus ministerios.}
-\headingsix{Hablan de:}
--   guardar la fe,
--   recordar,
--   perseverar,
--   esperar,
--   mantener la mirada en Jesús.
+\headingsix{\fillin{Hablan} de:}
+- guardar la fe,
+- recordar,
+- perseverar,
+- esperar,
+- mantener la mirada en Jesús.
 
 ## Otra observación
 
-\headingfive{Terminar bien no parece consistir en llegar a ser grandes.}
-
-\headingfive{Parece consistir en permanecer fieles.}
-\headingsix{Guardar la fe.}
-\headingsix{Continuar esperando.}
-\headingsix{Y mantener la mirada en Cristo.}
+\headingfive{Terminar \fillin{bien} no parece consistir en llegar a ser grandes.}
+\headingfive{\fillin{Parece} consistir en permanecer fieles.}
+\headingsix{\fillin{Guardar} la fe.}
+\headingsix{\fillin{Continuar} esperando.}
+\headingsix{Y mantener la \fillin{mirada} en Cristo.}
 
 ## Una observación más
 
-\headingfive{Los apóstoles parecen terminar como vivieron.}
-\headingsix{Con confianza.}
-\headingsix{No en sí mismos.}
-\headingsix{Sino en Aquel que comenzó la obra.}
+\headingfive{Los apóstoles \fillin{parecen} terminar como vivieron.}
+\headingsix{Con \fillin{confianza}.}
+\headingsix{No en sí \fillin{mismos}.}
+\headingsix{\fillin{Sino} en Aquel que comenzó la obra.}
+
+\headingfive{Pero otra observación comenzó a \fillin{surgir}.}
+\headingfive{Porque al acercarse el \fillin{final}, los apóstoles no parecen hablar solamente del pasado.}
+
+\headingfive{Tampoco parecen \fillin{vivir} mirando hacia atrás.}
+\headingfive{\fillin{Hablan} acerca de una esperanza.}
+\headingfive{\fillin{Hablan} acerca de una aparición.}
+\headingfive{\fillin{Hablan} acerca de una venida.}
+\headingfive{Hablan acerca de un \fillin{día} futuro.}
+
+\headingfive{Y otra pregunta comenzó a \fillin{surgir}.}
 
 ## Una pregunta
-
-\headingfive{Porque Aquel que comenzó la obra permanece siendo fiel.}
-
-## Otra pregunta
+\headingfive{¿Qué \fillin{ocupaba} finalmente su esperanza?}
+\headingfive{¿Qué \fillin{esperaban} los apóstoles?}
+\headingfive{¿\fillin{Cómo} describen el futuro?}
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
 # CAPÍTULO 32 - HASTA QUE ÉL VENGA
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de terminar bien, surge una pregunta natural.}
-\headingsix{¿Qué esperaban?}
-\headingsix{¿Cómo describen el futuro?}
-\headingsix{¿Qué ocupaba su esperanza?}
+\headingfive{Después de escuchar a los apóstoles hablar acerca de terminar \fillin{bien}, surge una pregunta natural.}
+\headingsix{¿Qué \fillin{esperaban}?}
+\headingsix{¿\fillin{Cómo} describen el futuro?}
+\headingsix{¿Qué \fillin{ocupaba} su esperanza?}
 
-\headingfive{Permitiremos nuevamente que hablen.}
+\headingfive{Permitiremos nuevamente que \fillin{hablen}.}
 
 ## Esperando a Su Hijo
 
@@ -3673,12 +3894,12 @@ Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos co
 Esperan a Su Hijo de los cielos.
 \end{verseblock}
 #### esperan a Su Hijo
-\headingfive{La esperanza posee una Persona.}
+\headingfive{La esperanza \fillin{posee} una Persona.}
 -   Cristo permanece delante de ellos.
 -   La iglesia vive esperando Su regreso.
 -   La esperanza continúa relacionada con Él.
 
-\headingfive{La mirada permanece hacia adelante.}
+\headingfive{La \fillin{mirada} permanece hacia adelante.}
 
 ## Nuestra ciudadanía está en los cielos
 
@@ -3687,12 +3908,12 @@ Esperan a Su Hijo de los cielos.
 Esperamos ardientemente un Salvador, el Señor Jesucristo.
 \end{verseblock}
 #### esperamos ardientemente
-\headingfive{Pablo describe una expectativa.}
+\headingfive{\fillin{Pablo} describe una expectativa.}
 -   Cristo regresará.
 -   Los creyentes le esperan.
 -   La esperanza permanece viva.
 
-\headingfive{El futuro pertenece al Señor.}
+\headingfive{El futuro pertenece al \fillin{Señor}.}
 
 ## La esperanza bienaventurada
 
@@ -3701,12 +3922,12 @@ Esperamos ardientemente un Salvador, el Señor Jesucristo.
 Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 \end{verseblock}
 #### aguardando
-\headingfive{La gracia produce expectativa.}
+\headingfive{La \fillin{gracia} produce expectativa.}
 -   La gracia ha aparecido.
 -   La gracia enseña.
 -   La esperanza permanece.
 
-\headingfive{Cristo continúa ocupando el centro.}
+\headingfive{\fillin{Cristo} continúa ocupando el centro.}
 
 ## Aparecerá por segunda vez
 
@@ -3715,12 +3936,12 @@ Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuest
 Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvación de los que ansiosamente lo esperan.
 \end{verseblock}
 #### aparecerá por segunda vez
-\headingfive{El futuro permanece relacionado con Cristo.}
+\headingfive{El \fillin{futuro} permanece relacionado con Cristo.}
 -   Cristo volverá.
 -   Los creyentes le esperan.
 -   La esperanza permanece firme.
 
-\headingfive{La atención permanece en Él.}
+\headingfive{La \fillin{atención} permanece en Él.}
 
 ## Cuando Él se manifieste
 
@@ -3729,12 +3950,12 @@ Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvaci�
 Cuando Él se manifieste, seremos semejantes a Él.
 \end{verseblock}
 #### seremos semejantes a Él
-\headingfive{Juan dirige la mirada hacia el futuro.}
+\headingfive{\fillin{Juan} dirige la mirada hacia el futuro.}
 -   Cristo será visto.
 -   Los creyentes serán semejantes a Él.
 -   La esperanza produce pureza.
 
-\headingfive{Cristo continúa siendo la meta.}
+\headingfive{Cristo continúa siendo la \fillin{meta}.}
 
 ## El Espíritu y la novia
 
@@ -3743,52 +3964,63 @@ Cuando Él se manifieste, seremos semejantes a Él.
 El Espíritu y la novia dicen: Ven.
 \end{verseblock}
 #### Ven
-\headingfive{La esperanza termina en una Persona.}
+\headingfive{La esperanza \fillin{termina} en una Persona.}
 -   Cristo viene.
 -   La iglesia le espera.
 -   El Espíritu participa en esta expectativa.
 
-\headingfive{La comunión permanece.}
+\headingfive{La \fillin{comunión} permanece.}
 
 ## Una observación
 
-\headingfive{Los apóstoles no parecen vivir solamente mirando hacia atrás.}
-\headingsix{Recuerdan.}
-\headingsix{Participan.}
-\headingsix{Sirven.}
-\headingsix{Perseveran.}
-\headingsix{Pero también esperan.}
+\headingfive{Los apóstoles no parecen \fillin{vivir} solamente mirando hacia atrás.}
+
+\headingsix{\fillin{Recuerdan}.}
+\headingsix{\fillin{Participan}.}
+\headingsix{\fillin{Sirven}.}
+\headingsix{\fillin{Perseveran}.}
+\headingsix{Pero también \fillin{esperan}.}
 
 ## Otra observación
 
-\headingfive{La esperanza futura no desplaza la participación presente.}
-\headingsix{La esperanza produce:}
--   perseverancia,
--   santidad,
--   servicio,
--   paciencia,
--   gozo.
+\headingfive{La esperanza \fillin{futura} no desplaza la participación presente.}
+
+\headingsix{La esperanza \fillin{produce}:}
+- perseverancia,
+- santidad,
+- servicio,
+- paciencia,
+- gozo.
 
 ## Una observación más
 
-\headingfive{Los apóstoles no esperan simplemente acontecimientos.}
-\headingsix{Esperan a Cristo.}
-\headingsix{La esperanza posee una Persona.}
+\headingfive{Los apóstoles no \fillin{esperan} simplemente acontecimientos.}
+\headingsix{Esperan a \fillin{Cristo}.}
+\headingsix{La esperanza \fillin{posee} una Persona.}
+\headingfive{Porque la esperanza de los apóstoles no termina en ellos \fillin{mismos}.}
+
+\headingfive{Tampoco termina en sus \fillin{obras}.}
+\headingfive{\fillin{Tampoco} termina en sus ministerios.}
+\headingfive{Termina en \fillin{Cristo}.}
+
+\headingfive{Y otra pregunta comenzó a \fillin{surgir}.}
 
 ## Una pregunta
+\headingfive{Si Cristo \fillin{viene},}
+\headingfive{¿quién terminará finalmente la \fillin{obra}?}
+\headingfive{¿\fillin{Quién} presentará a la iglesia?}
+\headingfive{¿\fillin{Quién} llevará todo hasta su consumación?}
 
-\headingfive{Porque los apóstoles viven, sirven y perseveran esperando a Aquel que prometió volver.}
-
-## Otra pregunta
+\headingfive{Y continuaremos \fillin{escuchando}.}
 
 # CAPÍTULO 33 - EL CONSTRUCTOR PRESENTARÁ SU IGLESIA
 
-\headingfive{Después de escuchar a los apóstoles hablar acerca de la venida de Cristo, surge una pregunta natural.}
-\headingsix{¿Quién terminará finalmente la obra?}
-\headingsix{¿Quién presentará a la iglesia?}
-\headingsix{¿Quién llevará la obra hasta su consumación?}
+\headingfive{Después de escuchar a los apóstoles hablar acerca de la venida de Cristo, \fillin{surge} una pregunta natural.}
+\headingsix{¿Quién terminará finalmente la \fillin{obra}?}
+\headingsix{¿\fillin{Quién} presentará a la iglesia?}
+\headingsix{¿Quién llevará la \fillin{obra} hasta su consumación?}
 
-\headingfive{Permitiremos nuevamente que los apóstoles hablen.}
+\headingfive{Permitiremos nuevamente que los apóstoles \fillin{hablen}.}
 
 ## Él la presentará a Sí mismo
 
@@ -3797,13 +4029,13 @@ El Espíritu y la novia dicen: Ven.
 Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela a Sí mismo.
 \end{verseblock}
 #### a fin de presentársela a Sí mismo
-\headingfive{Cristo continúa siendo el Constructor.}
+\headingfive{\fillin{Cristo} continúa siendo el Constructor.}
 -   Cristo amó.
 -   Cristo se entregó.
 -   Cristo santifica.
 -   Cristo presenta.
 
-\headingfive{La iglesia pertenece a Cristo.}
+\headingfive{La iglesia pertenece a \fillin{Cristo}.}
 
 ## Él completará la obra
 
@@ -3812,12 +4044,12 @@ Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela 
 El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 \end{verseblock}
 #### la perfeccionará
-\headingfive{La confianza de Pablo permanece en Dios.}
+\headingfive{La confianza de Pablo permanece en \fillin{Dios}.}
 -   Él comenzó.
 -   Él continúa obrando.
 -   Él completará la obra.
 
-\headingfive{La fidelidad pertenece al Señor.}
+\headingfive{La fidelidad pertenece al \fillin{Señor}.}
 
 ## Él también lo hará
 
@@ -3826,13 +4058,13 @@ El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cri
 Fiel es Aquel que los llama, el cual también lo hará.
 \end{verseblock}
 #### Él también lo hará
-\headingfive{Pablo descansa en la fidelidad de Dios.}
+\headingfive{Pablo descansa en la fidelidad de \fillin{Dios}.}
 -   Dios llama.
 -   Dios santifica.
 -   Dios preserva.
 -   Dios completa.
 
-\headingfive{La esperanza permanece en Él.}
+\headingfive{La \fillin{esperanza} permanece en Él.}
 
 ## Poderoso para guardarlos
 
@@ -3841,12 +4073,12 @@ Fiel es Aquel que los llama, el cual también lo hará.
 A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha.
 \end{verseblock}
 #### presentarlos sin mancha
-\headingfive{La preservación pertenece a Dios.}
+\headingfive{La preservación pertenece a \fillin{Dios}.}
 -   Dios guarda.
 -   Dios sostiene.
 -   Dios presenta.
 
-\headingfive{La gloria pertenece a Él.}
+\headingfive{La \fillin{gloria} pertenece a Él.}
 
 ## La esposa se ha preparado
 
@@ -3855,12 +4087,12 @@ A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha.
 Han llegado las bodas del Cordero y Su esposa se ha preparado.
 \end{verseblock}
 #### las bodas del Cordero
-\headingfive{La historia se dirige hacia una presentación.}
+\headingfive{La historia se \fillin{dirige} hacia una presentación.}
 -   El Cordero permanece ocupando el centro.
 -   La esposa es presentada.
 -   El gozo pertenece al Señor.
 
-\headingfive{La esperanza alcanza su cumplimiento.}
+\headingfive{La esperanza \fillin{alcanza} su cumplimiento.}
 
 ## Él es el Alfa y la Omega
 
@@ -3869,64 +4101,65 @@ Han llegado las bodas del Cordero y Su esposa se ha preparado.
 Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin.
 \end{verseblock}
 #### el principio y el fin
-\headingfive{Cristo abarca toda la obra.}
+\headingfive{Cristo abarca \fillin{toda} la obra.}
 -   Él comenzó.
 -   Él permanece.
 -   Él consumará.
 
-\headingfive{El Constructor continúa siendo el mismo.}
+\headingfive{El Constructor continúa siendo el \fillin{mismo}.}
 
 ## Una observación
-
-\headingfive{Los apóstoles trabajan intensamente.}
-
-\headingfive{Pero su confianza no descansa en ellos mismos.}
-
-\headingfive{Descansa en Cristo.}
+\headingfive{Los apóstoles \fillin{trabajan} intensamente.}
+\headingfive{Pero su confianza no descansa en ellos \fillin{mismos}.}
+\headingfive{Descansa en \fillin{Cristo}.}
 
 ## Otra observación
 
-\headingfive{La participación es real.}
-\headingsix{Los creyentes sirven.}
-\headingsix{Los creyentes enseñan.}
-\headingsix{Los creyentes encargan.}
-\headingsix{Los creyentes perseveran.}
-\headingsix{Pero finalmente es Cristo quien presenta.}
+\headingfive{La participación es \fillin{real}.}
+\headingsix{Los creyentes \fillin{sirven}.}
+\headingsix{Los creyentes \fillin{enseñan}.}
+\headingsix{Los creyentes \fillin{encargan}.}
+\headingsix{Los \fillin{creyentes} perseveran.}
+\headingsix{Pero finalmente es \fillin{Cristo} quien presenta.}
 
 ## Una observación más
 
-\headingfive{La obra comienza y termina con Cristo.}
-\headingsix{Cristo amó.}
-\headingsix{Cristo se entregó.}
-\headingsix{Cristo edifica.}
-\headingsix{Cristo santifica.}
-\headingsix{Cristo preserva.}
-\headingsix{Cristo completa.}
-\headingsix{Cristo presenta.}
+\headingfive{La \fillin{obra} comienza y termina con Cristo.}
+\headingsix{Cristo \fillin{amó}.}
+\headingsix{\fillin{Cristo} se entregó.}
+\headingsix{\fillin{Cristo} edifica.}
+\headingsix{\fillin{Cristo} santifica.}
+\headingsix{\fillin{Cristo} preserva.}
+\headingsix{\fillin{Cristo} completa.}
+\headingsix{\fillin{Cristo} presenta.}
 
 ## Una pregunta
 
-\headingfive{Porque Aquel que dijo:}
-\headingsix{\scripture{Edificaré Mi iglesia}}
+\headingfive{Porque Aquel que \fillin{dijo}:}
+\headingsix{\scripture{Edificaré Mi \fillin{iglesia}}}
 
-\headingfive{también dirá:}
-\headingsix{"Aquí está la esposa".}
+\headingfive{también \fillin{dirá}:}
+\headingsix{"\fillin{Aquí} está la esposa".}
 
 ## Otra pregunta
 
-\headingfive{Si el Constructor recibe toda la gloria, ¿dónde terminan finalmente los apóstoles?}
+\headingfive{Si el Constructor recibe \fillin{toda} la gloria, ¿dónde terminan finalmente los apóstoles?}
 
-\headingfive{Porque ellos no terminan exaltándose a sí mismos.}
+\headingfive{Porque ellos no terminan exaltándose a sí \fillin{mismos}.}
 
-\headingfive{Terminan adorando.}
+\headingfive{\fillin{Terminan} adorando.}
 
-# CAPÍTULO 34 - LA GLORIA ES DEL CONSTRUCTOR
+# CAPÍTULO 34 - EL CONSTRUCTOR SIGUE SIENDO EL CONSTRUCTOR
 
-\headingfive{Después de escuchar a Jesús y a los apóstoles hablar acerca de participación, fidelidad, generaciones, recompensas y esperanza futura, surge una última pregunta.}
-\headingsix{¿Dónde termina todo?}
-\headingsix{¿Quién recibe la gloria?}
+## Lo que hemos observado desde el principio
 
-\headingfive{Permitiremos nuevamente que las Escrituras hablen.}
+\headingfive{Después de escuchar a \fillin{Jesús} y a los apóstoles hablar acerca de participación, fidelidad, generaciones, recompensas y esperanza futura, una última observación comenzó a surgir.}
+
+\headingfive{Porque los participantes \fillin{son} reales.}
+
+\headingfive{Pero \fillin{nunca} ocupan el centro.}
+
+\headingfive{Y permitiremos nuevamente que las Escrituras \fillin{hablen}.}
 
 ## Yo edificaré Mi iglesia
 
@@ -3935,12 +4168,13 @@ Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin.
 Edificaré Mi iglesia.
 \end{verseblock}
 #### Edificaré
-\headingfive{La obra pertenece a Cristo.}
--   Cristo edifica.
--   La iglesia le pertenece.
--   El Constructor permanece siendo el mismo.
+\headingfive{La \fillin{obra} pertenece a Cristo.}
 
-\headingfive{La gloria pertenece al Constructor.}
+\headingfive{\fillin{Cristo} edifica.}
+
+\headingfive{La \fillin{iglesia} le pertenece.}
+
+\headingfive{El Constructor permanece siendo el \fillin{mismo}.}
 
 ## Dios da el crecimiento
 
@@ -3949,21 +4183,14 @@ Edificaré Mi iglesia.
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 \end{verseblock}
 #### Dios ha dado el crecimiento
-\headingfive{Pablo reconoce el lugar de cada uno.}
--   Pablo plantó.
--   Apolos regó.
--   Dios dio el crecimiento.
+\headingfive{\fillin{Pablo} reconoce el lugar de cada uno.}
+\headingfive{Los participantes \fillin{son} reales.}
+\headingfive{Pero el crecimiento pertenece a \fillin{Dios}.}
 
-\headingfive{Los participantes son reales.}
-
-\headingfive{Pero el crecimiento pertenece a Dios.}
 #### ni el que planta es algo
-\headingfive{La atención no permanece en los hombres.}
--   Los siervos participan.
--   Los siervos sirven.
--   Dios produce la vida.
-
-\headingfive{La gloria pertenece al Constructor.}
+\headingfive{La atención no permanece en los \fillin{hombres}.}
+\headingfive{Los siervos \fillin{sirven}.}
+\headingfive{\fillin{Dios} produce la vida.}
 
 ## El que comenzó la buena obra
 
@@ -3972,12 +4199,13 @@ Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 \end{verseblock}
 #### la perfeccionará
-\headingfive{Pablo descansa en la fidelidad de Dios.}
--   Él comenzó.
--   Él continúa obrando.
--   Él completará la obra.
+\headingfive{Él \fillin{comenzó}.}
 
-\headingfive{La confianza permanece en Él.}
+\headingfive{Él continúa \fillin{obrando}.}
+
+\headingfive{Él completará la \fillin{obra}.}
+
+\headingfive{La \fillin{confianza} permanece en Él.}
 
 ## Él también lo hará
 
@@ -3986,13 +4214,11 @@ El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cri
 Fiel es Aquel que los llama, el cual también lo hará.
 \end{verseblock}
 #### Él también lo hará
-\headingfive{Dios permanece siendo fiel.}
--   Él llama.
--   Él santifica.
--   Él preserva.
--   Él completa.
-
-\headingfive{La gloria pertenece al Constructor.}
+\headingfive{Él \fillin{llama}.}
+\headingfive{Él \fillin{santifica}.}
+\headingfive{Él \fillin{preserva}.}
+\headingfive{Él \fillin{completa}.}
+\headingfive{Él permanece \fillin{fiel}.}
 
 ## Él la presentará a Sí mismo
 
@@ -4001,232 +4227,174 @@ Fiel es Aquel que los llama, el cual también lo hará.
 A fin de presentársela a Sí mismo.
 \end{verseblock}
 #### presentársela a Sí mismo
-\headingfive{La obra termina en Cristo.}
--   Cristo amó.
--   Cristo se entregó.
--   Cristo santifica.
--   Cristo presenta.
+\headingfive{Cristo \fillin{amó}.}
+\headingfive{\fillin{Cristo} se entregó.}
+\headingfive{\fillin{Cristo} santifica.}
+\headingfive{\fillin{Cristo} presenta.}
 
-\headingfive{La iglesia pertenece a Cristo.}
+\headingfive{La iglesia pertenece a \fillin{Cristo}.}
 
 ## Dios será todo en todos
 
-### 1 Corintios 15:24–28
+### 1 Corintios 15:28
 \begin{verseblock}
-Entonces vendrá el fin... para que Dios sea todo en todos.
+Para que Dios sea todo en todos.
 \end{verseblock}
 #### Dios sea todo en todos
-\headingfive{La historia posee una consumación.}
--   Cristo reina.
--   El reino es entregado.
--   El fin llega.
--   Dios es todo en todos.
+\headingfive{La historia \fillin{posee} una consumación.}
 
-\headingfive{Todo termina en Él.}
+\headingfive{Todo \fillin{termina} en Él.}
 
 ## Una observación
 
-\headingfive{Los participantes son reales.}
-\headingsix{Los creyentes:}
--   participan,
--   sirven,
--   enseñan,
--   perseveran,
--   encargan,
--   reinan con Cristo.
+\headingfive{Los participantes vienen y \fillin{van}.}
+\headingfive{Los \fillin{apóstoles} partieron.}
 
-\headingfive{Pero nunca ocupan el centro.}
+\headingfive{Las generaciones \fillin{pasan}.}
+\headingfive{Las iglesias \fillin{locales} aparecen y desaparecen.}
 
-## Otra observación
+\headingfive{Pero \fillin{Cristo} permanece.}
 
-\headingfive{Los participantes vienen y van.}
+\headingfive{Y el Constructor \fillin{continúa} edificando.}
+\headingfive{Quizás la \fillin{mayor} fidelidad no consiste en preservar nuestros nombres.}
 
-\headingfive{Los apóstoles partieron.}
+\headingfive{Ni nuestros \fillin{métodos}.}
+\headingfive{Ni \fillin{nuestras} tradiciones.}
+\headingfive{Ni \fillin{nuestras} organizaciones.}
+\headingfive{\fillin{Sino} en entregar intacto el centro.}
 
-\headingfive{Las generaciones pasan.}
+## Una observación final
 
-\headingfive{Las iglesias locales aparecen y desaparecen.}
+\headingfive{Desde el principio escuchamos una \fillin{promesa}.}
+\headingfive{Yo edificaré Mi \fillin{iglesia}.}
+\headingfive{Y al final seguimos escuchando la misma \fillin{voz}.}
 
-\headingfive{Pero Cristo permanece.}
+\headingfive{Él \fillin{amó}.}
+\headingfive{Él se \fillin{entregó}.}
+\headingfive{Él \fillin{llamó}.}
+\headingfive{Él \fillin{salvó}.}
 
-\headingfive{Y el Constructor continúa edificando.}
+\headingfive{Él \fillin{dio} crecimiento.}
+\headingfive{Él \fillin{sostuvo}.}
+\headingfive{Él \fillin{preservó}.}
+\headingfive{Él \fillin{completó}.}
+\headingfive{Él \fillin{presentó}.}
 
-## Una observación más
+\headingfive{Y cuando todo \fillin{haya} sido consumado,}
+\headingfive{el Constructor seguirá \fillin{siendo} el Constructor.}
 
-\headingfive{La mayor fidelidad no parece consistir en preservar nuestros nombres.}
-\headingsix{Ni nuestros métodos.}
-\headingsix{Ni nuestras tradiciones.}
-\headingsix{Ni nuestras organizaciones.}
-\headingsix{Sino en entregar intacto el centro.}
+\headingfive{Y los redimidos \fillin{adorarán}.}
 
-## Una pregunta final
+# EPÍLOGO
 
-\headingsix{Porque:}
--   Él amó.
--   Él se entregó.
--   Él llamó.
--   Él salvó.
--   Él edificó.
--   Él dio crecimiento.
--   Él sostuvo.
--   Él preservó.
--   Él completó.
--   Él presentó.
+## ¿Qué hemos descubierto?
 
-\headingfive{Y cuando todo haya sido consumado, los participantes adorarán. Porque la gloria es del Constructor.}
+\headingfive{Al comenzar este \fillin{estudio}, la pregunta parecía sencilla.}
 
-# CAPÍTULO 35 - ¿QUÉ HEMOS DESCUBIERTO?
+\headingfive{¿Qué es el \fillin{discipulado}?}
 
-## La gloria pertenece al Constructor
+\headingfive{Naturalmente esperábamos encontrar respuestas \fillin{rápidas}.}
 
-\headingfive{Al comenzar este estudio, la pregunta parecía sencilla.}
+\headingfive{Pero las \fillin{preguntas} comenzaron a conducirnos.}
 
-> ¿Qué es el discipulado?
+\headingfive{Primero seguimos a \fillin{Jesús}.}
+\headingfive{Lo \fillin{vimos} llamar.}
+\headingfive{Lo \fillin{vimos} formar.}
+\headingfive{Lo \fillin{vimos} enviar.}
+\headingfive{Y escuchamos una \fillin{promesa}.}
+> Yo edificaré Mi iglesia.
 
-\headingfive{Naturalmente esperábamos encontrar una respuesta clara.}
+\headingfive{Más \fillin{adelante} observamos a los discípulos.}
+\headingfive{Los \fillin{vimos} multiplicarse.}
+\headingfive{Los \fillin{vimos} participar.}
+\headingfive{Los \fillin{vimos} reunirse.}
 
-\headingfive{Pero a medida que seguimos las Escrituras, las preguntas comenzaron a conducirnos.}
-\headingsix{Primero preguntamos:}
+\headingfive{Pero al llegar al \fillin{final} del libro de Hechos ocurrió algo inesperado.}
+\headingfive{La \fillin{palabra} discípulo desapareció.}
 
-> ¿Quién es el Constructor?
+\headingfive{Entonces surgió una \fillin{nueva} pregunta.}
+\headingfive{¿Qué \fillin{ocurrió}?}
 
-\headingsix{Y escuchamos a Jesús decir:}
--   Yo edificaré Mi iglesia.
+\headingfive{Y decidimos \fillin{seguir} escuchando.}
 
-\headingsix{Luego preguntamos:}
+\headingfive{\fillin{Abrimos} las epístolas.}
+\headingfive{Escuchamos a los \fillin{apóstoles}.}
+\headingfive{Y comenzamos a \fillin{observar} algo sorprendente.}
+\headingfive{Ellos parecen \fillin{estar} extraordinariamente de acuerdo.}
+\headingfive{Hablan \fillin{mucho}.}
+\headingfive{Pero repetidamente \fillin{vuelven} a:}
 
-> ¿Qué está edificando?
+- Cristo,
+- la iglesia,
+- la fe,
+- el amor,
+- la esperanza,
+- la perseverancia,
+- la madurez,
+- la gloria futura.
 
-\headingfive{Y encontramos un cuerpo, una familia, una esposa y muchos hermanos conformados a Su imagen.}
-\headingsix{Después preguntamos:}
+\headingfive{Y \fillin{poco} a poco comenzamos a notar algo más.}
+\headingfive{Los apóstoles no parecen \fillin{estar} intentando reemplazar a Cristo.}
+\headingfive{Tampoco parecen \fillin{estar} ocupados construyendo algo propio.}
+\headingfive{Más \fillin{bien}, participan.}
 
-> ¿Cómo edifica?
+\headingfive{Participan con \fillin{confianza}.}
 
-\headingfive{Y descubrimos que el crecimiento pertenece a Dios.}
-\headingsix{Más adelante preguntamos:}
+\headingfive{Y eso nos \fillin{llevó} a una nueva pregunta.}
+\headingfive{¿En qué está ocupado \fillin{Cristo}?}
+\headingfive{Y \fillin{allí} comenzamos a descubrir al Constructor.}
 
-> ¿Dónde lleva a cabo Su obra?
+\headingfive{El Constructor continúa \fillin{obrando}.}
+\headingfive{\fillin{Santifica}.}
+\headingfive{\fillin{Corrige}.}
+\headingfive{\fillin{Disciplina}.}
+\headingfive{\fillin{Preserva}.}
+\headingfive{\fillin{Presenta}.}
 
-\headingfive{Y encontramos una iglesia.}
-\headingsix{Una comunión.}
-\headingsix{Una vida compartida.}
-\headingsix{Luego llegamos al final de Hechos.}
-\headingsix{Y ocurrió algo inesperado.}
-\headingsix{La palabra discípulo desapareció.}
-\headingsix{Entonces preguntamos:}
+\headingfive{\fillin{Después} volvimos a los apóstoles.}
+\headingfive{Y comenzamos a comprenderlos \fillin{mejor}.}
+\headingfive{Porque hombres que habían estado con \fillin{Jesús} seguían hablando como hombres que habían estado con Jesús.}
 
-> ¿Qué ocurrió?
+\headingfive{Entonces observamos algo \fillin{hermoso}.}
+\headingfive{Los creyentes participan en \fillin{Cristo}.}
 
-\headingfive{Y decidimos seguir escuchando.}
+\headingfive{Conocen a \fillin{Cristo}.}
+\headingfive{\fillin{Viven} en Cristo.}
+\headingfive{\fillin{Dan} fruto.}
+\headingfive{\fillin{Sirven}.}
+\headingfive{\fillin{Perseveran}.}
+\headingfive{\fillin{Esperan}.}
 
-\headingfive{Abrimos las epístolas.}
+\headingfive{Y la iglesia comenzó a aparecer delante de nosotros como un \fillin{lugar} extraordinario para participar.}
 
-\headingfive{Escuchamos a los apóstoles.}
+\headingfive{También descubrimos que la fidelidad \fillin{posee} valor.}
+\headingfive{Que lo \fillin{recibido} es encargado.}
+\headingfive{Que \fillin{padres}, madres y ejemplos poseen importancia.}
 
-\headingfive{Y comenzamos a preguntar:}
+\headingfive{Que las generaciones \fillin{viven} juntas.}
+\headingfive{Que \fillin{muchos} participan.}
+\headingfive{Pero el Constructor \fillin{permanece}.}
 
-> ¿Qué ocupa su atención?
+\headingfive{Y \fillin{quizás} algo más ocurrió durante el camino.}
+\headingfive{\fillin{Poco} a poco, el centro de gravedad comenzó a cambiar.}
 
-> ¿Qué están procurando producir?
+\headingfive{\fillin{Comenzamos} preguntando:}
+\headingfive{¿Qué debemos \fillin{hacer}?}
 
-> ¿Qué esperan?
+\headingfive{Pero las Escrituras repetidamente nos condujeron hacia otra \fillin{pregunta}.}
+\headingfive{¿Qué está haciendo \fillin{Cristo}?}
 
-\headingfive{Y algo comenzó a sorprendernos.}
+\headingfive{Y quizás esa pregunta terminó iluminando \fillin{todas} las demás.}
+\headingfive{No \fillin{comenzamos} con esta conclusión.}
+\headingfive{Llegamos \fillin{aquí} siguiendo las preguntas del texto.}
 
-\headingfive{Los apóstoles hablan mucho.}
+\headingfive{Y después de escuchar a \fillin{Jesús} y a los apóstoles, quizás hemos descubierto algo.}
+\headingfive{\fillin{Participar} con el Constructor es un privilegio.}
 
-\headingfive{Pero nunca vuelven a hablar del discipulado.}
-
-\headingfive{Sin embargo, están ocupados con:}
--   Cristo,
--   la iglesia,
--   la fe,
--   el amor,
--   la esperanza,
--   la perseverancia,
--   la madurez,
--   la gloria futura.
-
-\headingfive{Entonces comenzamos a preguntar:}
-
-> ¿En qué está ocupado Cristo?
-
-\headingfive{Y descubrimos que el Constructor continúa ocupado.}
-\headingsix{Santifica.}
-\headingsix{Sustenta.}
-\headingsix{Intercede.}
-\headingsix{Corrige.}
-\headingsix{Disciplina.}
-\headingsix{Preserva.}
-\headingsix{Presenta.}
-\headingsix{Entonces surgió otra pregunta.}
-
-> ¿Cómo participan los apóstoles?
-
-\headingfive{Y descubrimos algo hermoso.}
-\headingsix{Trabajan.}
-\headingsix{Sirven.}
-\headingsix{Enseñan.}
-\headingsix{Advierten.}
-\headingsix{Sufren.}
-\headingsix{Perseveran.}
-
-\headingfive{Pero no parecen intentar reemplazar al Constructor.}
-
-\headingfive{Participan.}
-
-\headingfive{Y participan con confianza.}
-
-\headingfive{Poco a poco, el centro de gravedad comenzó a cambiar.}
-
-\headingfive{Comenzamos preguntando:}
-
-> ¿Qué debemos hacer?
-
-\headingfive{Pero las Escrituras repetidamente nos llevaron hacia otra pregunta.}
-
-> ¿Qué está haciendo Cristo?
-
-\headingfive{Y quizás esa pregunta terminó iluminando todas las demás.}
-
-\headingfive{No comenzamos con esta conclusión.}
-
-\headingfive{Llegamos aquí siguiendo las preguntas del texto.}
-
-\headingfive{Y después de escuchar a Jesús y a los apóstoles, quizás hemos descubierto algo.}
-
-\headingfive{Participar con el Constructor es un privilegio.}
-
-\headingfive{Pero la gloria pertenece al Constructor.}
+\headingfive{Pero el Constructor \fillin{sigue} siendo el Constructor.}
 
 ### Judas 24–25
 \begin{verseblock}
 Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén.
 \end{verseblock}
-# Estructura general
-
-\headingfive{Lo que me fascina es que el libro parece dividirse naturalmente en cinco partes:}
-
-## I. El Constructor (1–10)
-
-\headingfive{¿Quién construye?}
-
-## II. Escuchando a los apóstoles (11–18)
-
-\headingfive{¿Cómo hablan realmente los apóstoles?}
-
-## III. La vida en Cristo (19–21)
-
-\headingfive{Participación, conocimiento y vida en Cristo.}
-
-## IV. Participación fiel (23–31)
-
-\headingfive{Fidelidad, generaciones, ejemplos, recompensas, culminación.}
-
-## V. Hasta que Él venga (32–35)
-
-\headingfive{Esperanza, consumación, adoración.}
-
-\headingfive{Esto le da al libro una estructura muy satisfactoria:}
-
-## Constructor → Apóstoles → Cristo → Participación → Gloria
+\headingfive{Pero el Constructor \fillin{sigue} siendo el Constructor.}

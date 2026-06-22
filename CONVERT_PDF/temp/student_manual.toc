@@ -7,486 +7,457 @@
 \contentsline {section}{INTRODUCCIÓN}{5}{section*.7}%
 \contentsline {section}{CAPÍTULO 1 - COMENCEMOS}{6}{section*.8}%
 \contentsline {subsection}{Preguntas que nos llevaron de regreso a las Escrituras}{6}{subsection*.9}%
-\contentsline {section}{CAPÍTULO 2 - EL CONSTRUCTOR}{7}{section*.10}%
-\contentsline {subsection}{Jesús forma a los que luego enviará}{7}{subsection*.11}%
-\contentsline {subsubsection}{Mateo 4:19}{7}{subsubsection*.12}%
-\contentsline {subsection}{Jesús edifica Su iglesia}{8}{subsection*.13}%
-\contentsline {subsubsection}{Mateo 16:18}{8}{subsubsection*.14}%
-\contentsline {subsection}{Jesús forma a Sus discípulos}{8}{subsection*.15}%
-\contentsline {subsubsection}{Mateo 16:21}{8}{subsubsection*.16}%
-\contentsline {subsection}{Los formados son enviados}{8}{subsection*.17}%
-\contentsline {subsubsection}{Mateo 28:18--20}{8}{subsubsection*.18}%
-\contentsline {subsection}{Una pregunta}{9}{subsection*.19}%
-\contentsline {section}{CAPÍTULO 3 - ¿QUIÉN ESTÁ EDIFICANDO?}{9}{section*.20}%
-\contentsline {subsection}{¿En qué obra participan los siervos?}{9}{subsection*.21}%
-\contentsline {subsubsection}{1 Corintios 3:5}{9}{subsubsection*.22}%
-\contentsline {subsection}{Los siervos participan}{9}{subsection*.23}%
-\contentsline {subsection}{Los siervos trabajan}{10}{subsection*.24}%
-\contentsline {subsubsection}{1 Corintios 3:6}{10}{subsubsection*.25}%
-\contentsline {subsubsection}{1 Corintios 3:7}{10}{subsubsection*.26}%
-\contentsline {subsection}{Los siervos son colaboradores}{11}{subsection*.27}%
-\contentsline {subsubsection}{1 Corintios 3:9}{11}{subsubsection*.28}%
-\contentsline {section}{CAPÍTULO 4 - ¿QUÉ ESTÁ EDIFICANDO EL CONSTRUCTOR?}{12}{section*.29}%
-\contentsline {subsection}{Los siervos deben conocer los medios}{12}{subsection*.30}%
-\contentsline {subsection}{\textbf {Un cuerpo}}{12}{subsection*.31}%
-\contentsline {subsubsection}{Efesios 4:15-16}{12}{subsubsection*.32}%
-\contentsline {subsection}{\textbf {Una casa}}{12}{subsection*.33}%
-\contentsline {subsubsection}{Efesios 2:19}{12}{subsubsection*.34}%
-\contentsline {subsection}{\textbf {Un templo}}{13}{subsection*.35}%
-\contentsline {subsubsection}{Efesios 2:21-22}{13}{subsubsection*.36}%
-\contentsline {subsection}{\textbf {Un hombre nuevo}}{13}{subsection*.37}%
-\contentsline {subsubsection}{Efesios 2:15}{13}{subsubsection*.38}%
-\contentsline {subsection}{\textbf {Una esposa}}{13}{subsection*.39}%
-\contentsline {subsubsection}{Efesios 5:25-27}{13}{subsubsection*.40}%
-\contentsline {subsection}{\textbf {Muchos hermanos conformados a Su Hijo}}{13}{subsection*.41}%
-\contentsline {subsubsection}{Romanos 8:29}{13}{subsubsection*.42}%
-\contentsline {section}{CAPÍTULO 5 - ¿CÓMO EDIFICA EL CONSTRUCTOR?}{14}{section*.43}%
-\contentsline {subsection}{Participando en la obra que Cristo realiza}{14}{subsection*.44}%
-\contentsline {subsection}{\textbf {El evangelio es el poder de Dios}}{14}{subsection*.45}%
-\contentsline {subsubsection}{Romanos 1:16}{14}{subsubsection*.46}%
-\contentsline {subsection}{\textbf {El Señor envía a Sus siervos}}{15}{subsection*.47}%
-\contentsline {subsubsection}{Mateo 28:19-20}{15}{subsubsection*.48}%
-\contentsline {subsection}{\textbf {Cristo da dones a Su iglesia}}{15}{subsection*.49}%
-\contentsline {subsubsection}{Efesios 4:11-12}{15}{subsubsection*.50}%
-\contentsline {subsection}{\textbf {La verdad es transmitida a otros}}{15}{subsection*.51}%
-\contentsline {subsubsection}{2 Timoteo 2:2}{15}{subsubsection*.52}%
-\contentsline {subsection}{\textbf {Dios da crecimiento}}{15}{subsection*.53}%
-\contentsline {subsubsection}{1 Corintios 3:6}{15}{subsubsection*.54}%
-\contentsline {section}{CAPÍTULO 6 - ¿DÓNDE EDIFICA EL CONSTRUCTOR?}{16}{section*.55}%
-\contentsline {subsection}{El Constructor edifica dentro de una familia}{16}{subsection*.56}%
-\contentsline {subsubsection}{Efesios 4:16}{16}{subsubsection*.57}%
-\contentsline {subsection}{\textbf {Los creyentes son una familia}}{16}{subsection*.58}%
-\contentsline {subsubsection}{Efesios 2:19}{16}{subsubsection*.59}%
-\contentsline {subsection}{Los miembros se necesitan mutuamente}{17}{subsection*.60}%
-\contentsline {subsubsection}{1 Corintios 12:21}{17}{subsubsection*.61}%
-\contentsline {subsection}{\textbf {Los creyentes viven la verdad unos con otros}}{17}{subsection*.62}%
-\contentsline {subsubsection}{Romanos 12:10}{17}{subsubsection*.63}%
-\contentsline {subsection}{\textbf {Las generaciones viven juntas}}{17}{subsection*.64}%
-\contentsline {subsubsection}{Tito 2:1-5}{17}{subsubsection*.65}%
-\contentsline {subsection}{\textbf {La iglesia perseveraba junta}}{18}{subsection*.66}%
-\contentsline {subsubsection}{Hechos 2:42}{18}{subsubsection*.67}%
-\contentsline {section}{CAPÍTULO 7 - ¿CUÁL ES LA META DEL CONSTRUCTOR?}{18}{section*.68}%
-\contentsline {subsection}{La obra se desarrolla entre hermanos}{18}{subsection*.69}%
-\contentsline {subsection}{\textbf {Hasta que todos lleguemos}}{18}{subsection*.70}%
-\contentsline {subsubsection}{Efesios 4:13}{18}{subsubsection*.71}%
-\contentsline {subsubsection}{Mateo 28:20}{19}{subsubsection*.72}%
-\contentsline {subsubsection}{Efesios 5:25-27}{19}{subsubsection*.73}%
-\contentsline {subsubsection}{Romanos 8:29}{20}{subsubsection*.74}%
-\contentsline {section}{CAPÍTULO 8 - AMENAZAS A LA OBRA DEL CONSTRUCTOR}{20}{section*.75}%
-\contentsline {subsection}{No todo favorece el crecimiento}{20}{subsection*.76}%
-\contentsline {subsubsection}{1 Corintios 1:12}{20}{subsubsection*.77}%
-\contentsline {subsubsection}{1 Corintios 3:18-19}{20}{subsubsection*.78}%
-\contentsline {subsubsection}{Efesios 4:14}{21}{subsubsection*.79}%
-\contentsline {subsection}{Las falsas enseñanzas amenazan al rebaño}{21}{subsection*.80}%
-\contentsline {subsubsection}{Hechos 20:29-30}{21}{subsubsection*.81}%
-\contentsline {subsection}{El pecado tolerado afecta al cuerpo}{21}{subsection*.82}%
-\contentsline {subsubsection}{1 Corintios 5:6}{21}{subsubsection*.83}%
-\contentsline {subsection}{La pérdida del amor afecta el testimonio}{21}{subsection*.84}%
-\contentsline {subsubsection}{Apocalipsis 2:4}{21}{subsubsection*.85}%
-\contentsline {subsection}{El mayor peligro}{22}{subsection*.86}%
-\contentsline {subsubsection}{1 Corintios 3:7}{22}{subsubsection*.87}%
-\contentsline {section}{CAPÍTULO 9 - JESÚS FORMA A LOS QUE ENVIARÁ}{22}{section*.88}%
-\contentsline {subsection}{Antes de enviar, Jesús forma}{22}{subsection*.89}%
-\contentsline {subsection}{Jesús promete hacer}{22}{subsection*.90}%
-\contentsline {subsubsection}{Mateo 4:19}{22}{subsubsection*.91}%
-\contentsline {subsection}{Jesús forma a Sus discípulos}{23}{subsection*.92}%
-\contentsline {subsubsection}{Mateo 16:21}{23}{subsubsection*.93}%
-\contentsline {subsection}{Jesús posee toda autoridad}{23}{subsection*.94}%
-\contentsline {subsubsection}{Mateo 28:18}{23}{subsubsection*.95}%
-\contentsline {subsection}{Los formados son enviados}{23}{subsection*.96}%
-\contentsline {subsubsection}{Mateo 28:19-20}{23}{subsubsection*.97}%
-\contentsline {section}{CAPÍTULO 10 - ¿POR QUÉ LA IGLESIA?}{24}{section*.98}%
-\contentsline {subsection}{La iglesia es el ambiente de la obra}{24}{subsection*.99}%
-\contentsline {subsection}{Cristo ama a Su iglesia}{24}{subsection*.100}%
-\contentsline {subsubsection}{Efesios 5:25}{24}{subsubsection*.101}%
-\contentsline {subsection}{Un solo cuerpo}{24}{subsection*.102}%
-\contentsline {subsubsection}{1 Corintios 12:12--13}{24}{subsubsection*.103}%
-\contentsline {subsection}{La familia de Dios}{25}{subsection*.104}%
-\contentsline {subsubsection}{Efesios 2:19}{25}{subsubsection*.105}%
-\contentsline {subsection}{Equipando a los santos}{25}{subsection*.106}%
-\contentsline {subsubsection}{Efesios 4:11--16}{25}{subsubsection*.107}%
-\contentsline {subsection}{Unos a otros}{25}{subsection*.108}%
-\contentsline {subsection}{Una observación}{25}{subsection*.109}%
-\contentsline {subsection}{Una pregunta}{25}{subsection*.110}%
-\contentsline {section}{CAPÍTULO 11 - ¿QUÉ PASÓ CON EL DISCIPULADO?}{26}{section*.111}%
-\contentsline {subsection}{Preguntaremos a los apóstoles}{26}{subsection*.112}%
-\contentsline {subsection}{Una observación}{27}{subsection*.113}%
-\contentsline {section}{CAPÍTULO 12 - ESCUCHEMOS A LOS APÓSTOLES}{28}{section*.114}%
-\contentsline {subsection}{Lo que ocupa la atención de los apóstoles}{28}{subsection*.115}%
-\contentsline {subsection}{Pablo}{28}{subsection*.116}%
-\contentsline {subsection}{Judas}{29}{subsection*.117}%
-\contentsline {subsection}{Juan}{29}{subsection*.118}%
-\contentsline {section}{CAPÍTULO 13 ¿EN QUÉ ESTÁ OCUPADO EL CONSTRUCTOR?}{30}{section*.119}%
-\contentsline {subsection}{El Constructor continúa Su obra}{30}{subsection*.120}%
-\contentsline {subsection}{Efesios 5}{30}{subsection*.121}%
-\contentsline {subsection}{Apocalipsis 2--3}{30}{subsection*.122}%
-\contentsline {subsection}{Otros testigos}{31}{subsection*.123}%
-\contentsline {subsection}{Una pregunta}{31}{subsection*.124}%
-\contentsline {section}{Capítulo 14 - PARTICIPANDO CON CONFIANZA}{32}{section*.125}%
-\contentsline {subsection}{Trabajando desde la confianza, no para obtenerla}{32}{subsection*.126}%
-\contentsline {subsection}{No confiando en nosotros mismos}{32}{subsection*.127}%
-\contentsline {subsubsection}{2 Corintios 1:9}{32}{subsubsection*.128}%
-\contentsline {subsubsection}{Filipenses 3:3}{32}{subsubsection*.129}%
-\contentsline {subsection}{Confiando en Aquel que comenzó}{32}{subsection*.130}%
-\contentsline {subsubsection}{Filipenses 1:6}{32}{subsubsection*.131}%
-\contentsline {subsubsection}{1 Tesalonicenses 5:23--24}{33}{subsubsection*.132}%
-\contentsline {subsection}{Participación real}{33}{subsection*.133}%
-\contentsline {subsubsection}{Filipenses 2:12--13}{33}{subsubsection*.134}%
-\contentsline {subsubsection}{Colosenses 1:28--29}{33}{subsubsection*.135}%
-\contentsline {subsubsection}{1 Corintios 15:10}{33}{subsubsection*.136}%
-\contentsline {subsubsection}{1 Corintios 3:6--7}{33}{subsubsection*.137}%
-\contentsline {subsection}{Por eso pueden regocijarse}{33}{subsection*.138}%
-\contentsline {subsubsection}{Romanos 5:3--5}{33}{subsubsection*.139}%
-\contentsline {subsubsection}{Filipenses 4:4}{34}{subsubsection*.140}%
-\contentsline {subsubsection}{2 Corintios 6:10}{34}{subsubsection*.141}%
-\contentsline {subsection}{Una observación}{34}{subsection*.142}%
-\contentsline {subsection}{Una pregunta}{34}{subsection*.143}%
-\contentsline {section}{CAPÍTULO 15 - ENSEÑANDO PARA UBICAR A LA IGLESIA EN CRISTO}{34}{section*.144}%
-\contentsline {subsection}{Trabajando desde la confianza, no para obtenerla}{34}{subsection*.145}%
-\contentsline {subsection}{Una ironía}{35}{subsection*.146}%
-\contentsline {subsection}{Pablo}{35}{subsection*.147}%
-\contentsline {subsection}{Pedro}{36}{subsection*.148}%
-\contentsline {subsection}{Juan}{36}{subsection*.149}%
-\contentsline {subsection}{Hebreos}{36}{subsection*.150}%
-\contentsline {subsection}{Entonces, ¿para qué enseñan los apóstoles?}{37}{subsection*.151}%
-\contentsline {subsection}{Una observación}{37}{subsection*.152}%
-\contentsline {subsection}{Otra ironía}{37}{subsection*.153}%
-\contentsline {subsection}{Una pregunta}{38}{subsection*.154}%
-\contentsline {section}{CAPÍTULO 16 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR LOS APÓSTOLES?}{38}{section*.155}%
-\contentsline {subsection}{El evangelio debe permanecer en el centro}{38}{subsection*.156}%
-\contentsline {subsection}{Jesús comienza a mostrar}{38}{subsection*.157}%
-\contentsline {subsubsection}{Mateo 16:21}{38}{subsubsection*.158}%
-\contentsline {subsection}{Pablo entrega lo que recibió}{39}{subsection*.159}%
-\contentsline {subsubsection}{1 Corintios 15:1--3}{39}{subsubsection*.160}%
-\contentsline {subsection}{Los creyentes permanecen en el evangelio}{39}{subsection*.161}%
-\contentsline {subsubsection}{1 Corintios 15:1}{39}{subsubsection*.162}%
-\contentsline {subsection}{Pablo desea predicar el evangelio a creyentes}{39}{subsection*.163}%
-\contentsline {subsubsection}{Romanos 1:15--16}{39}{subsubsection*.164}%
-\contentsline {subsection}{Pablo protege el centro}{40}{subsection*.165}%
-\contentsline {subsubsection}{Gálatas 1:8}{40}{subsubsection*.166}%
-\contentsline {subsection}{Timoteo debe encargar a otros}{40}{subsection*.167}%
-\contentsline {subsubsection}{2 Timoteo 2:2}{40}{subsubsection*.168}%
-\contentsline {subsection}{Una observación}{40}{subsection*.169}%
-\contentsline {subsection}{Una pregunta}{41}{subsection*.170}%
-\contentsline {section}{CAPÍTULO 17 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?}{41}{section*.171}%
-\contentsline {subsection}{Muchas cosas solamente pueden ser vividas con otros}{41}{subsection*.172}%
-\contentsline {subsection}{Un cuerpo}{41}{subsection*.173}%
-\contentsline {subsubsection}{1 Corintios 12:21}{41}{subsubsection*.174}%
-\contentsline {subsection}{Una familia}{41}{subsection*.175}%
-\contentsline {subsubsection}{Efesios 2:19}{41}{subsubsection*.176}%
-\contentsline {subsection}{La verdad es vivida unos con otros}{42}{subsection*.177}%
-\contentsline {subsubsection}{Romanos 12:10}{42}{subsubsection*.178}%
-\contentsline {subsection}{Cristo distribuyó dones}{42}{subsection*.179}%
-\contentsline {subsubsection}{Efesios 4:11--12}{42}{subsubsection*.180}%
-\contentsline {subsection}{Considerarnos unos a otros}{42}{subsection*.181}%
-\contentsline {subsubsection}{Hebreos 10:24--25}{42}{subsubsection*.182}%
-\contentsline {subsection}{Generaciones viviendo juntas}{43}{subsection*.183}%
-\contentsline {subsubsection}{Tito 2:1--5}{43}{subsubsection*.184}%
-\contentsline {subsection}{El evangelio crea una comunión}{43}{subsection*.185}%
-\contentsline {subsubsection}{Filemón 6}{43}{subsubsection*.186}%
-\contentsline {subsection}{Una observación}{43}{subsection*.187}%
-\contentsline {subsection}{Una pregunta}{44}{subsection*.188}%
-\contentsline {section}{CAPÍTULO 18 - ¿CÓMO PERMANECE EL EVANGELIO EN EL CENTRO?}{44}{section*.189}%
-\contentsline {subsection}{El evangelio es el ambiente de la vida cristiana}{44}{subsection*.190}%
-\contentsline {subsection}{Pablo predica el evangelio a creyentes}{44}{subsection*.191}%
-\contentsline {subsubsection}{Romanos 1:15--16}{44}{subsubsection*.192}%
-\contentsline {subsection}{Los creyentes permanecen firmes en él}{45}{subsection*.193}%
-\contentsline {subsubsection}{1 Corintios 15:1}{45}{subsubsection*.194}%
-\contentsline {subsection}{Pablo vuelve continuamente a Cristo crucificado}{45}{subsection*.195}%
-\contentsline {subsubsection}{1 Corintios 2:2}{45}{subsubsection*.196}%
-\contentsline {subsection}{Pablo protege el centro}{45}{subsection*.197}%
-\contentsline {subsubsection}{Gálatas 1:6--8}{45}{subsubsection*.198}%
-\contentsline {subsection}{El amor puede enfriarse}{45}{subsection*.199}%
-\contentsline {subsubsection}{Apocalipsis 2:4}{45}{subsubsection*.200}%
-\contentsline {subsection}{Los creyentes deben considerar continuamente a Jesús}{46}{subsection*.201}%
-\contentsline {subsubsection}{Hebreos 12:2--3}{46}{subsubsection*.202}%
-\contentsline {subsection}{Una observación}{46}{subsection*.203}%
-\contentsline {subsection}{Otra observación}{46}{subsection*.204}%
-\contentsline {subsection}{Una pregunta}{47}{subsection*.205}%
-\contentsline {section}{CAPÍTULO 19 - PARTICIPANDO EN CRISTO}{47}{section*.206}%
-\contentsline {subsection}{Participación en Cristo}{47}{subsection*.207}%
-\contentsline {subsubsection}{Romanos 6:3--5}{47}{subsubsection*.208}%
-\contentsline {subsection}{El viejo hombre fue crucificado con Él}{48}{subsection*.209}%
-\contentsline {subsubsection}{Romanos 6:6}{48}{subsubsection*.210}%
-\contentsline {subsection}{Considérense}{48}{subsection*.211}%
-\contentsline {subsubsection}{Romanos 6:11}{48}{subsubsection*.212}%
-\contentsline {subsection}{Sepultados y resucitados con Él}{48}{subsection*.213}%
-\contentsline {subsubsection}{Colosenses 2:12}{48}{subsubsection*.214}%
-\contentsline {subsubsection}{Colosenses 3:1--3}{48}{subsubsection*.215}%
-\contentsline {subsection}{Cristo vive en mí}{49}{subsection*.216}%
-\contentsline {subsubsection}{Gálatas 2:20}{49}{subsubsection*.217}%
-\contentsline {subsection}{Conocerle}{49}{subsection*.218}%
-\contentsline {subsubsection}{Filipenses 3:10}{49}{subsubsection*.219}%
-\contentsline {subsection}{Una observación}{49}{subsection*.220}%
-\contentsline {subsection}{Otra observación}{49}{subsection*.221}%
-\contentsline {subsection}{Una pregunta}{50}{subsection*.222}%
-\contentsline {section}{CAPÍTULO 20 - CONOCIENDO A CRISTO}{50}{section*.223}%
-\contentsline {subsection}{Pablo desea conocerle}{50}{subsection*.224}%
-\contentsline {subsubsection}{Filipenses 3:8--10}{50}{subsubsection*.225}%
-\contentsline {subsection}{El amor de Cristo sobrepasa el conocimiento}{51}{subsection*.226}%
-\contentsline {subsubsection}{Efesios 3:17--19}{51}{subsubsection*.227}%
-\contentsline {subsection}{Pedro desea crecimiento}{51}{subsection*.228}%
-\contentsline {subsubsection}{2 Pedro 3:18}{51}{subsubsection*.229}%
-\contentsline {subsection}{Juan habla de permanecer}{51}{subsection*.230}%
-\contentsline {subsubsection}{1 Juan 2:24}{51}{subsubsection*.231}%
-\contentsline {subsubsection}{1 Juan 5:20}{51}{subsubsection*.232}%
-\contentsline {subsection}{Hebreos dirige continuamente hacia Jesús}{52}{subsection*.233}%
-\contentsline {subsubsection}{Hebreos 12:2}{52}{subsubsection*.234}%
-\contentsline {subsection}{Pablo desea presentar a todos maduros en Cristo}{52}{subsection*.235}%
-\contentsline {subsubsection}{Colosenses 1:28}{52}{subsubsection*.236}%
-\contentsline {subsection}{Una observación}{52}{subsection*.237}%
-\contentsline {subsection}{Otra observación}{52}{subsection*.238}%
-\contentsline {subsection}{Una pregunta}{53}{subsection*.239}%
-\contentsline {section}{CAPÍTULO 21 - VIVIENDO EN CRISTO}{53}{section*.240}%
-\contentsline {subsection}{Permaneciendo en Cristo}{53}{subsection*.241}%
-\contentsline {subsubsection}{Juan 15:4--5}{53}{subsubsection*.242}%
-\contentsline {subsection}{Caminando dignamente}{53}{subsection*.243}%
-\contentsline {subsubsection}{Efesios 4:1}{53}{subsubsection*.244}%
-\contentsline {subsection}{Creciendo en Él}{54}{subsection*.245}%
-\contentsline {subsubsection}{Efesios 4:15}{54}{subsubsection*.246}%
-\contentsline {subsection}{La palabra de Cristo habitando}{54}{subsection*.247}%
-\contentsline {subsubsection}{Colosenses 3:16}{54}{subsubsection*.248}%
-\contentsline {subsection}{Permaneciendo en la esperanza}{54}{subsection*.249}%
-\contentsline {subsubsection}{Hebreos 10:23}{54}{subsubsection*.250}%
-\contentsline {subsection}{Viviendo por el Espíritu}{54}{subsection*.251}%
-\contentsline {subsubsection}{Gálatas 5:25}{54}{subsubsection*.252}%
-\contentsline {subsection}{Esperando a Su Hijo}{55}{subsection*.253}%
-\contentsline {subsubsection}{1 Tesalonicenses 1:9--10}{55}{subsubsection*.254}%
-\contentsline {subsection}{Una observación}{55}{subsection*.255}%
-\contentsline {subsection}{Otra observación}{55}{subsection*.256}%
-\contentsline {section}{CAPÍTULO 22 - ¿CÓMO SE HACE VISIBLE CRISTO EN SU PUEBLO?}{56}{section*.257}%
-\contentsline {subsection}{La vida compartida con Cristo produce fruto}{56}{subsection*.258}%
-\contentsline {subsection}{El fruto del Espíritu}{56}{subsection*.259}%
-\contentsline {subsubsection}{Gálatas 5:22--23}{56}{subsubsection*.260}%
-\contentsline {subsection}{El amor unos por otros}{56}{subsection*.261}%
-\contentsline {subsubsection}{Juan 13:35}{56}{subsubsection*.262}%
-\contentsline {subsection}{El fruto de la justicia}{57}{subsection*.263}%
-\contentsline {subsubsection}{Filipenses 1:9--11}{57}{subsubsection*.264}%
-\contentsline {subsection}{Las buenas obras}{57}{subsection*.265}%
-\contentsline {subsubsection}{Tito 2:14}{57}{subsubsection*.266}%
-\contentsline {subsection}{Abundando en la obra del Señor}{57}{subsection*.267}%
-\contentsline {subsubsection}{1 Corintios 15:58}{57}{subsubsection*.268}%
-\contentsline {subsection}{El fruto visible}{57}{subsection*.269}%
-\contentsline {subsubsection}{Colosenses 1:10}{57}{subsubsection*.270}%
-\contentsline {subsection}{Una observación}{58}{subsection*.271}%
-\contentsline {subsection}{Otra observación}{58}{subsection*.272}%
-\contentsline {subsection}{Una observación más}{58}{subsection*.273}%
-\contentsline {subsection}{Una pregunta}{58}{subsection*.274}%
-\contentsline {subsection}{Otra pregunta}{58}{subsection*.275}%
-\contentsline {section}{CAPÍTULO 23 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?}{59}{section*.276}%
-\contentsline {subsection}{Pablo}{59}{subsection*.277}%
-\contentsline {subsubsection}{1 Corintios 15:10}{59}{subsubsection*.278}%
-\contentsline {subsection}{Timoteo}{59}{subsection*.279}%
-\contentsline {subsubsection}{Filipenses 2:20--22}{59}{subsubsection*.280}%
-\contentsline {subsection}{Epafrodito}{59}{subsection*.281}%
-\contentsline {subsubsection}{Filipenses 2:25--30}{59}{subsubsection*.282}%
-\contentsline {subsection}{Onesíforo}{60}{subsection*.283}%
-\contentsline {subsubsection}{2 Timoteo 1:16--18}{60}{subsubsection*.284}%
-\contentsline {subsection}{Estéfanas}{60}{subsection*.285}%
-\contentsline {subsubsection}{1 Corintios 16:15}{60}{subsubsection*.286}%
-\contentsline {subsection}{Febe}{60}{subsection*.287}%
-\contentsline {subsubsection}{Romanos 16:1--2}{60}{subsubsection*.288}%
-\contentsline {subsection}{Tíquico}{61}{subsection*.289}%
-\contentsline {subsubsection}{Efesios 6:21}{61}{subsubsection*.290}%
-\contentsline {subsection}{Una observación}{61}{subsection*.291}%
-\contentsline {subsection}{Otra observación}{61}{subsection*.292}%
-\contentsline {subsection}{Una pregunta}{61}{subsection*.293}%
-\contentsline {section}{CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?}{62}{section*.294}%
-\contentsline {subsection}{Los corintios}{62}{subsection*.295}%
-\contentsline {subsubsection}{1 Corintios 3:1--3}{62}{subsubsection*.296}%
-\contentsline {subsubsection}{1 Corintios 3:6--7}{62}{subsubsection*.297}%
-\contentsline {subsection}{Los gálatas}{62}{subsection*.298}%
-\contentsline {subsubsection}{Gálatas 3:3}{62}{subsubsection*.299}%
-\contentsline {subsection}{Hebreos}{63}{subsection*.300}%
-\contentsline {subsubsection}{Hebreos 2:1}{63}{subsubsection*.301}%
-\contentsline {subsubsection}{Hebreos 12:15}{63}{subsubsection*.302}%
-\contentsline {subsection}{Éfeso}{63}{subsection*.303}%
-\contentsline {subsubsection}{Apocalipsis 2:2--4}{63}{subsubsection*.304}%
-\contentsline {subsection}{Sardis}{63}{subsection*.305}%
-\contentsline {subsubsection}{Apocalipsis 3:1}{63}{subsubsection*.306}%
-\contentsline {subsection}{Laodicea}{64}{subsection*.307}%
-\contentsline {subsubsection}{Apocalipsis 3:17}{64}{subsubsection*.308}%
-\contentsline {subsection}{Una observación}{64}{subsection*.309}%
-\contentsline {subsection}{Otra observación}{64}{subsection*.310}%
-\contentsline {subsection}{Una pregunta}{64}{subsection*.311}%
-\contentsline {subsection}{Otra pregunta}{65}{subsection*.312}%
-\contentsline {section}{CAPÍTULO 25 - ¿QUÉ ESTÁ EN JUEGO?}{65}{section*.313}%
-\contentsline {subsection}{La obra será probada}{65}{subsection*.314}%
-\contentsline {subsubsection}{1 Corintios 3:12--15}{65}{subsubsection*.315}%
-\contentsline {subsection}{Todos compareceremos}{66}{subsection*.316}%
-\contentsline {subsubsection}{2 Corintios 5:10}{66}{subsubsection*.317}%
-\contentsline {subsection}{Cada uno dará cuenta}{66}{subsection*.318}%
-\contentsline {subsubsection}{Romanos 14:10--12}{66}{subsubsection*.319}%
-\contentsline {subsection}{El Señor traerá a la luz}{66}{subsection*.320}%
-\contentsline {subsubsection}{1 Corintios 4:5}{66}{subsubsection*.321}%
-\contentsline {subsection}{Permanezcan para recibir plena recompensa}{66}{subsection*.322}%
-\contentsline {subsubsection}{2 Juan 8}{66}{subsubsection*.323}%
-\contentsline {subsection}{Al vencedor}{67}{subsection*.324}%
-\contentsline {subsubsection}{Apocalipsis 2--3}{67}{subsubsection*.325}%
-\contentsline {subsection}{Una observación}{67}{subsection*.326}%
-\contentsline {subsection}{Otra observación}{67}{subsection*.327}%
-\contentsline {subsection}{Una pregunta}{67}{subsection*.328}%
-\contentsline {subsection}{Otra pregunta}{67}{subsection*.329}%
-\contentsline {section}{CAPÍTULO 26 - ¿POR QUÉ SON ENSEÑADAS LAS RECOMPENSAS?}{68}{section*.330}%
-\contentsline {subsection}{Todos compareceremos}{68}{subsection*.331}%
-\contentsline {subsubsection}{2 Corintios 5:10}{68}{subsubsection*.332}%
-\contentsline {subsection}{La obra será manifestada}{68}{subsection*.333}%
-\contentsline {subsubsection}{1 Corintios 3:12--15}{68}{subsubsection*.334}%
-\contentsline {subsection}{Cada uno dará cuenta}{68}{subsection*.335}%
-\contentsline {subsubsection}{Romanos 14:12}{68}{subsubsection*.336}%
-\contentsline {subsection}{El Señor traerá a la luz}{69}{subsection*.337}%
-\contentsline {subsubsection}{1 Corintios 4:5}{69}{subsubsection*.338}%
-\contentsline {subsection}{Al vencedor}{69}{subsection*.339}%
-\contentsline {subsubsection}{Apocalipsis 2--3}{69}{subsubsection*.340}%
-\contentsline {subsection}{La corona de justicia}{69}{subsection*.341}%
-\contentsline {subsubsection}{2 Timoteo 4:7--8}{69}{subsubsection*.342}%
-\contentsline {subsection}{Una observación}{70}{subsection*.343}%
-\contentsline {subsection}{Otra observación}{70}{subsection*.344}%
-\contentsline {subsection}{Otra observación}{70}{subsection*.345}%
-\contentsline {subsection}{Una pregunta}{70}{subsection*.346}%
-\contentsline {subsection}{Otra pregunta}{70}{subsection*.347}%
-\contentsline {section}{CAPÍTULO 27 - ¿POR QUÉ HOMBRES FIELES?}{71}{section*.348}%
-\contentsline {subsection}{Encarga a hombres fieles}{71}{subsection*.349}%
-\contentsline {subsubsection}{2 Timoteo 2:2}{71}{subsubsection*.350}%
-\contentsline {subsection}{Se requiere de los administradores}{71}{subsection*.351}%
-\contentsline {subsubsection}{1 Corintios 4:1--2}{71}{subsubsection*.352}%
-\contentsline {subsection}{Moisés fue fiel}{72}{subsection*.353}%
-\contentsline {subsubsection}{Hebreos 3:2}{72}{subsubsection*.354}%
-\contentsline {subsection}{Bien, siervo bueno y fiel}{72}{subsection*.355}%
-\contentsline {subsubsection}{Mateo 25:21}{72}{subsubsection*.356}%
-\contentsline {subsection}{Timoteo}{72}{subsection*.357}%
-\contentsline {subsubsection}{Filipenses 2:22}{72}{subsubsection*.358}%
-\contentsline {subsection}{Tíquico}{72}{subsection*.359}%
-\contentsline {subsubsection}{Efesios 6:21}{72}{subsubsection*.360}%
-\contentsline {subsection}{Una observación}{73}{subsection*.361}%
-\contentsline {subsection}{Otra observación}{73}{subsection*.362}%
-\contentsline {subsection}{Otra observación}{73}{subsection*.363}%
-\contentsline {subsection}{Una pregunta}{73}{subsection*.364}%
-\contentsline {subsection}{Otra pregunta}{73}{subsection*.365}%
-\contentsline {section}{CAPÍTULO 28 - ¿QUÉ SIGNIFICA ENCARGAR?}{74}{section*.366}%
-\contentsline {subsection}{Lo que has oído de mí}{74}{subsection*.367}%
-\contentsline {subsubsection}{2 Timoteo 2:2}{74}{subsubsection*.368}%
-\contentsline {subsection}{Sigue las sanas palabras}{74}{subsection*.369}%
-\contentsline {subsubsection}{2 Timoteo 1:13}{74}{subsubsection*.370}%
-\contentsline {subsection}{Guarda el tesoro}{75}{subsection*.371}%
-\contentsline {subsubsection}{2 Timoteo 1:14}{75}{subsubsection*.372}%
-\contentsline {subsection}{Yo recibí y entregué}{75}{subsection*.373}%
-\contentsline {subsubsection}{1 Corintios 15:3}{75}{subsubsection*.374}%
-\contentsline {subsection}{Lo que aprendiste y recibiste}{75}{subsection*.375}%
-\contentsline {subsubsection}{Filipenses 4:9}{75}{subsubsection*.376}%
-\contentsline {subsection}{Una observación}{75}{subsection*.377}%
-\contentsline {subsection}{Otra observación}{76}{subsection*.378}%
-\contentsline {subsection}{Otra observación}{76}{subsection*.379}%
-\contentsline {subsection}{Una observación más}{76}{subsection*.380}%
-\contentsline {subsection}{Una pregunta}{76}{subsection*.381}%
-\contentsline {subsection}{Otra pregunta}{77}{subsection*.382}%
-\contentsline {section}{CAPÍTULO 29 - PADRES, MADRES Y EJEMPLOS}{77}{section*.383}%
-\contentsline {subsection}{No muchos padres}{77}{subsection*.384}%
-\contentsline {subsubsection}{1 Corintios 4:14--17}{77}{subsubsection*.385}%
-\contentsline {subsection}{Imitadores de nosotros}{77}{subsection*.386}%
-\contentsline {subsubsection}{1 Tesalonicenses 1:6}{77}{subsubsection*.387}%
-\contentsline {subsection}{Timoteo conocía el camino de Pablo}{78}{subsection*.388}%
-\contentsline {subsubsection}{2 Timoteo 3:10}{78}{subsubsection*.389}%
-\contentsline {subsection}{Las ancianas enseñan}{78}{subsection*.390}%
-\contentsline {subsubsection}{Tito 2:3--5}{78}{subsubsection*.391}%
-\contentsline {subsection}{Sean ejemplo}{78}{subsection*.392}%
-\contentsline {subsubsection}{1 Pedro 5:2--3}{78}{subsubsection*.393}%
-\contentsline {subsection}{Una observación}{78}{subsection*.394}%
-\contentsline {subsection}{Otra observación}{79}{subsection*.395}%
-\contentsline {subsection}{Otra observación}{79}{subsection*.396}%
-\contentsline {subsection}{Una pregunta}{79}{subsection*.397}%
-\contentsline {subsection}{Otra pregunta}{79}{subsection*.398}%
-\contentsline {section}{CAPÍTULO 30 - GENERACIONES}{80}{section*.399}%
-\contentsline {subsection}{Lo que has oído}{80}{subsection*.400}%
-\contentsline {subsubsection}{2 Timoteo 2:2}{80}{subsubsection*.401}%
-\contentsline {subsection}{Yo recibí y entregué}{80}{subsection*.402}%
-\contentsline {subsubsection}{1 Corintios 15:3}{80}{subsubsection*.403}%
-\contentsline {subsection}{Después de mi partida}{81}{subsection*.404}%
-\contentsline {subsubsection}{2 Pedro 1:14--15}{81}{subsubsection*.405}%
-\contentsline {subsection}{Hijos, jóvenes y padres}{81}{subsection*.406}%
-\contentsline {subsubsection}{1 Juan 2:12--14}{81}{subsubsection*.407}%
-\contentsline {subsection}{Enseña a otros}{81}{subsection*.408}%
-\contentsline {subsubsection}{Tito 2:1--5}{81}{subsubsection*.409}%
-\contentsline {subsection}{Una observación}{81}{subsection*.410}%
-\contentsline {subsection}{Otra observación}{82}{subsection*.411}%
-\contentsline {subsection}{Otra observación}{82}{subsection*.412}%
-\contentsline {subsection}{Una observación más}{82}{subsection*.413}%
-\contentsline {subsection}{Una pregunta}{83}{subsection*.414}%
-\contentsline {subsection}{Otra pregunta}{83}{subsection*.415}%
-\contentsline {section}{CAPÍTULO 31 - TERMINANDO BIEN}{83}{section*.416}%
-\contentsline {subsection}{Pablo}{83}{subsection*.417}%
-\contentsline {subsubsection}{2 Timoteo 4:6--8}{83}{subsubsection*.418}%
-\contentsline {subsection}{Pedro}{84}{subsection*.419}%
-\contentsline {subsubsection}{2 Pedro 1:13--15}{84}{subsubsection*.420}%
-\contentsline {subsection}{El escritor de Hebreos}{84}{subsection*.421}%
-\contentsline {subsubsection}{Hebreos 12:1--2}{84}{subsubsection*.422}%
-\contentsline {subsection}{Juan}{84}{subsection*.423}%
-\contentsline {subsubsection}{1 Juan 2:28}{84}{subsubsection*.424}%
-\contentsline {subsection}{Una observación}{85}{subsection*.425}%
-\contentsline {subsection}{Otra observación}{85}{subsection*.426}%
-\contentsline {subsection}{Una observación más}{85}{subsection*.427}%
-\contentsline {subsection}{Una pregunta}{85}{subsection*.428}%
-\contentsline {subsection}{Otra pregunta}{85}{subsection*.429}%
-\contentsline {section}{CAPÍTULO 32 - HASTA QUE ÉL VENGA}{86}{section*.430}%
-\contentsline {subsection}{Esperando a Su Hijo}{86}{subsection*.431}%
-\contentsline {subsubsection}{1 Tesalonicenses 1:9--10}{86}{subsubsection*.432}%
-\contentsline {subsection}{Nuestra ciudadanía está en los cielos}{86}{subsection*.433}%
-\contentsline {subsubsection}{Filipenses 3:20--21}{86}{subsubsection*.434}%
-\contentsline {subsection}{La esperanza bienaventurada}{86}{subsection*.435}%
-\contentsline {subsubsection}{Tito 2:11--13}{86}{subsubsection*.436}%
-\contentsline {subsection}{Aparecerá por segunda vez}{87}{subsection*.437}%
-\contentsline {subsubsection}{Hebreos 9:28}{87}{subsubsection*.438}%
-\contentsline {subsection}{Cuando Él se manifieste}{87}{subsection*.439}%
-\contentsline {subsubsection}{1 Juan 3:2--3}{87}{subsubsection*.440}%
-\contentsline {subsection}{El Espíritu y la novia}{87}{subsection*.441}%
-\contentsline {subsubsection}{Apocalipsis 22:17}{87}{subsubsection*.442}%
-\contentsline {subsection}{Una observación}{87}{subsection*.443}%
-\contentsline {subsection}{Otra observación}{88}{subsection*.444}%
-\contentsline {subsection}{Una observación más}{88}{subsection*.445}%
-\contentsline {subsection}{Una pregunta}{88}{subsection*.446}%
-\contentsline {subsection}{Otra pregunta}{88}{subsection*.447}%
-\contentsline {section}{CAPÍTULO 33 - EL CONSTRUCTOR PRESENTARÁ SU IGLESIA}{88}{section*.448}%
-\contentsline {subsection}{Él la presentará a Sí mismo}{89}{subsection*.449}%
-\contentsline {subsubsection}{Efesios 5:25--27}{89}{subsubsection*.450}%
-\contentsline {subsection}{Él completará la obra}{89}{subsection*.451}%
+\contentsline {section}{CAPÍTULO 2 - JESÚS HABLÓ DE HACER DISCÍPULOS}{7}{section*.10}%
+\contentsline {subsection}{Siguiendo el hilo del Evangelio}{7}{subsection*.11}%
+\contentsline {subsection}{Jesús llama}{7}{subsection*.12}%
+\contentsline {subsubsection}{Mateo 4:19}{7}{subsubsection*.13}%
+\contentsline {subsection}{Jesús envía}{8}{subsection*.14}%
+\contentsline {subsubsection}{Mateo 28:18-20}{8}{subsubsection*.15}%
+\contentsline {subsection}{Una observación}{8}{subsection*.16}%
+\contentsline {section}{CAPÍTULO 3 - JESÚS COMENZÓ A MOSTRAR}{9}{section*.17}%
+\contentsline {subsection}{Una observación en el Evangelio}{9}{subsection*.18}%
+\contentsline {subsubsection}{Mateo 16:21}{9}{subsubsection*.19}%
+\contentsline {subsection}{Una observación}{9}{subsection*.20}%
+\contentsline {subsection}{Una pregunta}{10}{subsection*.21}%
+\contentsline {section}{CAPÍTULO 4 - LOS FORMADOS SON ENVIADOS}{10}{section*.22}%
+\contentsline {subsection}{Jesús envía a hombres que han caminado con Él}{10}{subsection*.23}%
+\contentsline {subsection}{Toda autoridad pertenece a Jesús}{10}{subsection*.24}%
+\contentsline {subsubsection}{Mateo 28:18}{10}{subsubsection*.25}%
+\contentsline {subsection}{Hagan discípulos}{10}{subsection*.26}%
+\contentsline {subsubsection}{Mateo 28:19}{10}{subsubsection*.27}%
+\contentsline {subsection}{Enseñándoles a guardar}{11}{subsection*.28}%
+\contentsline {subsubsection}{Mateo 28:20}{11}{subsubsection*.29}%
+\contentsline {subsection}{Yo estoy con ustedes}{11}{subsection*.30}%
+\contentsline {subsubsection}{Mateo 28:20}{11}{subsubsection*.31}%
+\contentsline {subsection}{Una observación.}{11}{subsection*.32}%
+\contentsline {subsection}{Una pregunta}{11}{subsection*.33}%
+\contentsline {section}{CAPÍTULO 5 - LOS DISCÍPULOS CONTINÚAN APARECIENDO}{12}{section*.34}%
+\contentsline {subsection}{Una observación en Hechos}{12}{subsection*.35}%
+\contentsline {subsubsection}{Hechos 6:1}{12}{subsubsection*.36}%
+\contentsline {subsubsection}{Hechos 6:7}{13}{subsubsection*.37}%
+\contentsline {subsubsection}{Hechos 9:36}{13}{subsubsection*.38}%
+\contentsline {subsubsection}{Hechos 14:21-22}{13}{subsubsection*.39}%
+\contentsline {subsection}{Una observación}{13}{subsection*.40}%
+\contentsline {subsection}{Una pregunta}{13}{subsection*.41}%
+\contentsline {section}{CAPÍTULO 6 - EL EVANGELIO CONTINÚA AVANZANDO}{14}{section*.42}%
+\contentsline {subsection}{Una observación en Hechos}{14}{subsection*.43}%
+\contentsline {subsection}{El Señor había hablado acerca de esto}{14}{subsection*.44}%
+\contentsline {subsubsection}{Hechos 1:8}{14}{subsubsection*.45}%
+\contentsline {subsection}{Las iglesias eran fortalecidas}{14}{subsection*.46}%
+\contentsline {subsubsection}{Hechos 16:5}{14}{subsubsection*.47}%
+\contentsline {subsection}{La palabra continuaba creciendo}{14}{subsection*.48}%
+\contentsline {subsubsection}{Hechos 19:20}{14}{subsubsection*.49}%
+\contentsline {subsection}{Pablo sigue avanzando}{15}{subsection*.50}%
+\contentsline {subsubsection}{Hechos 20:24}{15}{subsubsection*.51}%
+\contentsline {subsection}{Una observación}{15}{subsection*.52}%
+\contentsline {subsection}{Una pregunta}{15}{subsection*.53}%
+\contentsline {section}{CAPÍTULO 7 - UNA AUSENCIA INESPERADA}{15}{section*.54}%
+\contentsline {subsection}{La palabra discípulo desaparece}{15}{subsection*.55}%
+\contentsline {subsubsection}{Hechos 21:16}{16}{subsubsection*.56}%
+\contentsline {subsection}{Una observación.}{16}{subsection*.57}%
+\contentsline {subsection}{Otra observación}{16}{subsection*.58}%
+\contentsline {subsection}{Una pregunta}{16}{subsection*.59}%
+\contentsline {section}{CAPÍTULO 8 - ¿QUÉ OCUPA A LOS APÓSTOLES?}{17}{section*.60}%
+\contentsline {subsection}{Una observación en las epístolas}{17}{subsection*.61}%
+\contentsline {subsection}{Pablo desea anunciar el evangelio}{17}{subsection*.62}%
+\contentsline {subsubsection}{Romanos 1:15-16}{17}{subsubsection*.63}%
+\contentsline {subsection}{Pablo entrega lo que recibió}{17}{subsection*.64}%
+\contentsline {subsubsection}{1 Corintios 15:1-3}{17}{subsubsection*.65}%
+\contentsline {subsection}{Pablo no se propone saber otra cosa}{18}{subsection*.66}%
+\contentsline {subsubsection}{1 Corintios 2:2}{18}{subsubsection*.67}%
+\contentsline {subsection}{El evangelio debe ser preservado}{18}{subsection*.68}%
+\contentsline {subsubsection}{Gálatas 1:8}{18}{subsubsection*.69}%
+\contentsline {subsection}{Una observación}{18}{subsection*.70}%
+\contentsline {subsection}{Una pregunta}{18}{subsection*.71}%
+\contentsline {section}{CAPÍTULO 9 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR?}{19}{section*.72}%
+\contentsline {subsection}{Una observación en las epístolas}{19}{subsection*.73}%
+\contentsline {subsection}{Pablo entrega lo que recibió}{19}{subsection*.74}%
+\contentsline {subsubsection}{1 Corintios 15:1-3}{19}{subsubsection*.75}%
+\contentsline {subsection}{Los creyentes permanecen en ello}{19}{subsection*.76}%
+\contentsline {subsubsection}{1 Corintios 15:1}{19}{subsubsection*.77}%
+\contentsline {subsection}{Pablo protege lo recibido}{20}{subsection*.78}%
+\contentsline {subsubsection}{Gálatas 1:8}{20}{subsubsection*.79}%
+\contentsline {subsection}{Timoteo debe encargar a otros}{20}{subsection*.80}%
+\contentsline {subsubsection}{2 Timoteo 2:2}{20}{subsubsection*.81}%
+\contentsline {subsection}{Una observación}{20}{subsection*.82}%
+\contentsline {subsection}{Una pregunta}{21}{subsection*.83}%
+\contentsline {section}{CAPÍTULO 10 - ¿CÓMO HABLAN LOS APÓSTOLES?}{21}{section*.84}%
+\contentsline {subsection}{Una observación en las epístolas}{21}{subsection*.85}%
+\contentsline {subsubsection}{Filipenses 1:6}{21}{subsubsection*.86}%
+\contentsline {subsubsection}{1 Pedro 5:10}{21}{subsubsection*.87}%
+\contentsline {subsubsection}{Hebreos 7:25}{21}{subsubsection*.88}%
+\contentsline {subsubsection}{Judas 24}{21}{subsubsection*.89}%
+\contentsline {subsubsection}{1 Juan 3:2}{21}{subsubsection*.90}%
+\contentsline {subsection}{Una observación}{21}{subsection*.91}%
+\contentsline {subsection}{Una pregunta}{22}{subsection*.92}%
+\contentsline {section}{CAPÍTULO 11 - LO QUE APRENDIMOS DE LOS APÓSTOLES}{22}{section*.93}%
+\contentsline {subsection}{Una observación difícil de ignorar}{22}{subsection*.94}%
+\contentsline {subsubsection}{Mateo 16:18}{23}{subsubsection*.95}%
+\contentsline {subsection}{Dios da el crecimiento}{23}{subsection*.96}%
+\contentsline {subsubsection}{1 Corintios 3:6}{23}{subsubsection*.97}%
+\contentsline {subsubsection}{Filipenses 1:6}{23}{subsubsection*.98}%
+\contentsline {subsubsection}{1 Tesalonicenses 5:23-24}{23}{subsubsection*.99}%
+\contentsline {subsubsection}{1 Pedro 5:10}{24}{subsubsection*.100}%
+\contentsline {subsubsection}{Hebreos 7:25}{24}{subsubsection*.101}%
+\contentsline {subsubsection}{Judas 24}{24}{subsubsection*.102}%
+\contentsline {subsection}{Una observación}{24}{subsection*.103}%
+\contentsline {subsection}{Una pregunta}{24}{subsection*.104}%
+\contentsline {section}{CAPÍTULO 12 - ¿QUÉ ESTÁ HACIENDO JESÚS HOY?}{25}{section*.105}%
+\contentsline {subsection}{Lo que los apóstoles parecen afirmar unánimemente}{25}{subsection*.106}%
+\contentsline {subsection}{Pablo}{25}{subsection*.107}%
+\contentsline {subsubsection}{Efesios 5:25-27}{25}{subsubsection*.108}%
+\contentsline {subsection}{Pedro}{25}{subsection*.109}%
+\contentsline {subsubsection}{1 Pedro 5:10}{25}{subsubsection*.110}%
+\contentsline {subsection}{El escritor de Hebreos}{26}{subsection*.111}%
+\contentsline {subsubsection}{Hebreos 7:25}{26}{subsubsection*.112}%
+\contentsline {subsection}{Judas}{26}{subsection*.113}%
+\contentsline {subsubsection}{Judas 24}{26}{subsubsection*.114}%
+\contentsline {subsection}{Juan}{26}{subsection*.115}%
+\contentsline {subsubsection}{1 Juan 3:2}{26}{subsubsection*.116}%
+\contentsline {subsection}{Una observación}{26}{subsection*.117}%
+\contentsline {subsection}{Una pregunta}{27}{subsection*.118}%
+\contentsline {section}{CAPÍTULO 13 - ¿CON QUIÉNES ESTÁ OCUPADO JESÚS?}{27}{section*.119}%
+\contentsline {subsection}{Lo que los apóstoles parecen afirmar unánimemente}{27}{subsection*.120}%
+\contentsline {subsection}{Pablo habla de un cuerpo}{27}{subsection*.121}%
+\contentsline {subsubsection}{1 Corintios 12:12}{27}{subsubsection*.122}%
+\contentsline {subsection}{Pablo habla de una esposa}{28}{subsection*.123}%
+\contentsline {subsubsection}{Efesios 5:25}{28}{subsubsection*.124}%
+\contentsline {subsection}{Pablo habla de muchos hermanos}{28}{subsection*.125}%
+\contentsline {subsubsection}{Romanos 8:29}{28}{subsubsection*.126}%
+\contentsline {subsection}{El escritor de Hebreos habla de santos hermanos}{28}{subsection*.127}%
+\contentsline {subsubsection}{Hebreos 3:1}{28}{subsubsection*.128}%
+\contentsline {subsection}{Juan habla de hijos de Dios}{28}{subsection*.129}%
+\contentsline {subsubsection}{1 Juan 3:1}{28}{subsubsection*.130}%
+\contentsline {subsection}{Pedro habla de una casa espiritual}{29}{subsection*.131}%
+\contentsline {subsubsection}{1 Pedro 2:5}{29}{subsubsection*.132}%
+\contentsline {subsection}{Una observación}{29}{subsection*.133}%
+\contentsline {subsection}{Una pregunta}{30}{subsection*.134}%
+\contentsline {section}{CAPÍTULO 14 - ¿HACIA DÓNDE PARECE LLEVAR JESÚS A SU PUEBLO?}{30}{section*.135}%
+\contentsline {subsection}{Una obra que avanza hacia un «hasta»}{30}{subsection*.136}%
+\contentsline {subsection}{Hasta que todos lleguemos}{30}{subsection*.137}%
+\contentsline {subsubsection}{Efesios 4:13}{30}{subsubsection*.138}%
+\contentsline {subsection}{Hasta el fin del siglo}{31}{subsection*.139}%
+\contentsline {subsubsection}{Mateo 28:20}{31}{subsubsection*.140}%
+\contentsline {subsection}{Para presentársela a Sí mismo}{31}{subsection*.141}%
+\contentsline {subsubsection}{Efesios 5:25--27}{31}{subsubsection*.142}%
+\contentsline {subsection}{Conformados a la imagen de Su Hijo}{31}{subsection*.143}%
+\contentsline {subsubsection}{Romanos 8:29}{31}{subsubsection*.144}%
+\contentsline {subsection}{Seremos semejantes a Él}{32}{subsection*.145}%
+\contentsline {subsubsection}{1 Juan 3:2}{32}{subsubsection*.146}%
+\contentsline {subsection}{Una observación}{32}{subsection*.147}%
+\contentsline {subsection}{Una pregunta}{32}{subsection*.148}%
+\contentsline {section}{CAPÍTULO 15 - ESCUCHEMOS AL CONSTRUCTOR}{33}{section*.149}%
+\contentsline {subsection}{¿Qué está haciendo Jesús entre las iglesias?}{33}{subsection*.150}%
+\contentsline {subsection}{Jesús conoce}{33}{subsection*.151}%
+\contentsline {subsubsection}{Apocalipsis 2:2}{33}{subsubsection*.152}%
+\contentsline {subsection}{Jesús exhorta}{33}{subsection*.153}%
+\contentsline {subsubsection}{Apocalipsis 2:4--5}{33}{subsubsection*.154}%
+\contentsline {subsection}{Jesús disciplina}{34}{subsection*.155}%
+\contentsline {subsubsection}{Apocalipsis 3:19}{34}{subsubsection*.156}%
+\contentsline {subsection}{Jesús promete}{34}{subsection*.157}%
+\contentsline {subsubsection}{Apocalipsis 2:7}{34}{subsubsection*.158}%
+\contentsline {subsubsection}{Apocalipsis 2:10}{34}{subsubsection*.159}%
+\contentsline {subsubsection}{Apocalipsis 3:21}{34}{subsubsection*.160}%
+\contentsline {subsection}{Una observación}{34}{subsection*.161}%
+\contentsline {subsection}{Una pregunta}{35}{subsection*.162}%
+\contentsline {section}{CAPÍTULO 16 - AMENAZAS A LA OBRA DEL CONSTRUCTOR}{35}{section*.163}%
+\contentsline {subsection}{El Constructor también advierte}{35}{subsection*.164}%
+\contentsline {subsection}{Las divisiones desvían la atención}{35}{subsection*.165}%
+\contentsline {subsubsection}{1 Corintios 1:12}{35}{subsubsection*.166}%
+\contentsline {subsection}{La sabiduría humana desplaza la sabiduría de Dios}{36}{subsection*.167}%
+\contentsline {subsubsection}{1 Corintios 3:18-19}{36}{subsubsection*.168}%
+\contentsline {subsection}{La inmadurez impide el crecimiento}{36}{subsection*.169}%
+\contentsline {subsubsection}{Efesios 4:14}{36}{subsubsection*.170}%
+\contentsline {subsection}{Las falsas enseñanzas arrastran tras los hombres}{36}{subsection*.171}%
+\contentsline {subsubsection}{Hechos 20:29-30}{36}{subsubsection*.172}%
+\contentsline {subsection}{El pecado afecta a otros}{37}{subsection*.173}%
+\contentsline {subsubsection}{1 Corintios 5:6}{37}{subsubsection*.174}%
+\contentsline {subsection}{Una observación}{37}{subsection*.175}%
+\contentsline {subsection}{Una pregunta}{37}{subsection*.176}%
+\contentsline {section}{CAPÍTULO 17 - VOLVAMOS A ESCUCHAR A LOS APÓSTOLES}{37}{section*.177}%
+\contentsline {subsection}{Porque habían estado con Jesús}{37}{subsection*.178}%
+\contentsline {subsection}{Habían estado con Jesús}{38}{subsection*.179}%
+\contentsline {subsubsection}{Hechos 4:13}{38}{subsubsection*.180}%
+\contentsline {subsection}{Los apóstoles no se cansan de recordar}{38}{subsection*.181}%
+\contentsline {subsubsection}{Filipenses 3:1}{38}{subsubsection*.182}%
+\contentsline {subsection}{Pedro no se cansa de recordar}{38}{subsection*.183}%
+\contentsline {subsubsection}{2 Pedro 1:12}{38}{subsubsection*.184}%
+\contentsline {subsubsection}{2 Pedro 1:13}{38}{subsubsection*.185}%
+\contentsline {subsection}{El escritor de Hebreos dirige la atención hacia Jesús}{39}{subsection*.186}%
+\contentsline {subsubsection}{Hebreos 3:1}{39}{subsubsection*.187}%
+\contentsline {subsubsection}{Hebreos 12:2}{39}{subsubsection*.188}%
+\contentsline {subsection}{Una observación}{39}{subsection*.189}%
+\contentsline {subsection}{Una pregunta}{39}{subsection*.190}%
+\contentsline {section}{CAPÍTULO 18 -- ¿POR QUÉ ENSEÑAN TANTO LOS APÓSTOLES?}{40}{section*.191}%
+\contentsline {subsection}{Según las Escrituras}{40}{subsection*.192}%
+\contentsline {subsection}{Jesús comenzó a mostrar}{40}{subsection*.193}%
+\contentsline {subsubsection}{Mateo 16:21}{40}{subsubsection*.194}%
+\contentsline {subsection}{¿No era necesario?}{40}{subsection*.195}%
+\contentsline {subsubsection}{Lucas 24:26}{40}{subsubsection*.196}%
+\contentsline {subsection}{Lo referente a Él}{41}{subsection*.197}%
+\contentsline {subsubsection}{Lucas 24:27}{41}{subsubsection*.198}%
+\contentsline {subsection}{Era necesario que se cumpliera}{41}{subsection*.199}%
+\contentsline {subsubsection}{Lucas 24:44}{41}{subsubsection*.200}%
+\contentsline {subsection}{Lo mismo que recibí}{41}{subsection*.201}%
+\contentsline {subsubsection}{1 Corintios 15:1--4}{41}{subsubsection*.202}%
+\contentsline {subsection}{Una observación}{41}{subsection*.203}%
+\contentsline {subsection}{Una pregunta}{42}{subsection*.204}%
+\contentsline {section}{CAPÍTULO 19 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?}{42}{section*.205}%
+\contentsline {subsection}{Un cuerpo}{42}{subsection*.206}%
+\contentsline {subsubsection}{Romanos 12:4--5}{42}{subsubsection*.207}%
+\contentsline {subsection}{La familia de Dios}{42}{subsection*.208}%
+\contentsline {subsubsection}{Efesios 2:19}{42}{subsubsection*.209}%
+\contentsline {subsection}{La comunión}{43}{subsection*.210}%
+\contentsline {subsubsection}{1 Juan 1:3}{43}{subsubsection*.211}%
+\contentsline {subsection}{Lleven los unos las cargas de los otros}{43}{subsection*.212}%
+\contentsline {subsubsection}{Gálatas 6:2}{43}{subsubsection*.213}%
+\contentsline {subsection}{Considerémonos unos a otros}{43}{subsection*.214}%
+\contentsline {subsubsection}{Hebreos 10:24--25}{43}{subsubsection*.215}%
+\contentsline {subsection}{Una observación}{43}{subsection*.216}%
+\contentsline {subsection}{Una pregunta}{44}{subsection*.217}%
+\contentsline {section}{CAPÍTULO 20 - PARTICIPANDO EN CRISTO}{44}{section*.218}%
+\contentsline {subsection}{El mismo Cristo}{44}{subsection*.219}%
+\contentsline {subsection}{Unidos a Él}{45}{subsection*.220}%
+\contentsline {subsubsection}{Romanos 6:3--5}{45}{subsubsection*.221}%
+\contentsline {subsection}{Con Él}{45}{subsection*.222}%
+\contentsline {subsubsection}{Romanos 6:6}{45}{subsubsection*.223}%
+\contentsline {subsection}{Vivos para Dios en Cristo Jesús}{45}{subsection*.224}%
+\contentsline {subsubsection}{Romanos 6:11}{45}{subsubsection*.225}%
+\contentsline {subsection}{Sepultados y resucitados con Él}{46}{subsection*.226}%
+\contentsline {subsubsection}{Colosenses 2:12}{46}{subsubsection*.227}%
+\contentsline {subsection}{Cristo vive en mí}{46}{subsection*.228}%
+\contentsline {subsubsection}{Gálatas 2:20}{46}{subsubsection*.229}%
+\contentsline {subsection}{Conocerlo}{46}{subsection*.230}%
+\contentsline {subsubsection}{Filipenses 3:10}{46}{subsubsection*.231}%
+\contentsline {subsection}{Una observación}{46}{subsection*.232}%
+\contentsline {subsection}{Una pregunta}{47}{subsection*.233}%
+\contentsline {section}{CAPÍTULO 21 - CONOCIENDO A CRISTO}{47}{section*.234}%
+\contentsline {subsection}{La meta continúa siendo una Persona}{47}{subsection*.235}%
+\contentsline {subsection}{Conocerlo}{47}{subsection*.236}%
+\contentsline {subsubsection}{Filipenses 3:8--10}{47}{subsubsection*.237}%
+\contentsline {subsection}{El amor de Cristo}{48}{subsection*.238}%
+\contentsline {subsubsection}{Efesios 3:17--19}{48}{subsubsection*.239}%
+\contentsline {subsection}{Crezcan}{48}{subsection*.240}%
+\contentsline {subsubsection}{2 Pedro 3:18}{48}{subsubsection*.241}%
+\contentsline {subsection}{Permanezca}{48}{subsection*.242}%
+\contentsline {subsubsection}{1 Juan 2:24}{48}{subsubsection*.243}%
+\contentsline {subsubsection}{1 Juan 5:20}{48}{subsubsection*.244}%
+\contentsline {subsection}{Puestos los ojos en Jesús}{49}{subsection*.245}%
+\contentsline {subsubsection}{Hebreos 12:2}{49}{subsubsection*.246}%
+\contentsline {subsubsection}{Colosenses 1:28}{49}{subsubsection*.247}%
+\contentsline {subsection}{Una observación}{49}{subsection*.248}%
+\contentsline {subsection}{Una pregunta}{50}{subsection*.249}%
+\contentsline {section}{CAPÍTULO 22 - VIVIENDO EN CRISTO}{50}{section*.250}%
+\contentsline {subsection}{La vida ocurre dentro de una realidad}{50}{subsection*.251}%
+\contentsline {subsection}{Permaneciendo en Cristo}{50}{subsection*.252}%
+\contentsline {subsubsection}{Juan 15:4--5}{50}{subsubsection*.253}%
+\contentsline {subsection}{Caminando dignamente}{51}{subsection*.254}%
+\contentsline {subsubsection}{Efesios 4:1}{51}{subsubsection*.255}%
+\contentsline {subsection}{Creciendo en Él}{51}{subsection*.256}%
+\contentsline {subsubsection}{Efesios 4:15}{51}{subsubsection*.257}%
+\contentsline {subsection}{La palabra de Cristo habitando}{51}{subsection*.258}%
+\contentsline {subsubsection}{Colosenses 3:16}{51}{subsubsection*.259}%
+\contentsline {subsection}{Permaneciendo en la esperanza}{51}{subsection*.260}%
+\contentsline {subsubsection}{Hebreos 10:23}{51}{subsubsection*.261}%
+\contentsline {subsection}{Viviendo por el Espíritu}{52}{subsection*.262}%
+\contentsline {subsubsection}{Gálatas 5:25}{52}{subsubsection*.263}%
+\contentsline {subsection}{Esperando a Su Hijo}{52}{subsection*.264}%
+\contentsline {subsubsection}{1 Tesalonicenses 1:9--10}{52}{subsubsection*.265}%
+\contentsline {subsection}{Una observación}{52}{subsection*.266}%
+\contentsline {subsection}{Una pregunta}{53}{subsection*.267}%
+\contentsline {section}{CAPÍTULO 23 - ¿CÓMO SE HACE VISIBLE CRISTO EN SU PUEBLO?}{53}{section*.268}%
+\contentsline {subsection}{La vida compartida con Cristo produce fruto}{53}{subsection*.269}%
+\contentsline {subsection}{El fruto del Espíritu}{53}{subsection*.270}%
+\contentsline {subsubsection}{Gálatas 5:22--23}{53}{subsubsection*.271}%
+\contentsline {subsection}{El amor unos por otros}{54}{subsection*.272}%
+\contentsline {subsubsection}{Juan 13:35}{54}{subsubsection*.273}%
+\contentsline {subsection}{El fruto de la justicia}{54}{subsection*.274}%
+\contentsline {subsubsection}{Filipenses 1:9--11}{54}{subsubsection*.275}%
+\contentsline {subsection}{Las buenas obras}{54}{subsection*.276}%
+\contentsline {subsubsection}{Tito 2:14}{54}{subsubsection*.277}%
+\contentsline {subsection}{Abundando en la obra del Señor}{55}{subsection*.278}%
+\contentsline {subsubsection}{1 Corintios 15:58}{55}{subsubsection*.279}%
+\contentsline {subsection}{El fruto visible}{55}{subsection*.280}%
+\contentsline {subsubsection}{Colosenses 1:10}{55}{subsubsection*.281}%
+\contentsline {subsection}{Una observación}{55}{subsection*.282}%
+\contentsline {subsection}{Una pregunta}{56}{subsection*.283}%
+\contentsline {section}{CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?}{56}{section*.284}%
+\contentsline {subsection}{Los apóstoles presentan ejemplos}{56}{subsection*.285}%
+\contentsline {subsection}{Pablo}{57}{subsection*.286}%
+\contentsline {subsubsection}{1 Corintios 15:10}{57}{subsubsection*.287}%
+\contentsline {subsection}{Timoteo}{57}{subsection*.288}%
+\contentsline {subsubsection}{Filipenses 2:20--22}{57}{subsubsection*.289}%
+\contentsline {subsection}{Epafrodito}{57}{subsection*.290}%
+\contentsline {subsubsection}{Filipenses 2:25--30}{57}{subsubsection*.291}%
+\contentsline {subsection}{Onesíforo}{58}{subsection*.292}%
+\contentsline {subsubsection}{2 Timoteo 1:16--18}{58}{subsubsection*.293}%
+\contentsline {subsection}{Estéfanas}{58}{subsection*.294}%
+\contentsline {subsubsection}{1 Corintios 16:15}{58}{subsubsection*.295}%
+\contentsline {subsection}{Febe}{58}{subsection*.296}%
+\contentsline {subsubsection}{Romanos 16:1--2}{58}{subsubsection*.297}%
+\contentsline {subsection}{Tíquico}{58}{subsection*.298}%
+\contentsline {subsubsection}{Efesios 6:21}{58}{subsubsection*.299}%
+\contentsline {subsection}{Una observación}{59}{subsection*.300}%
+\contentsline {subsection}{Una pregunta}{59}{subsection*.301}%
+\contentsline {section}{CAPÍTULO 25 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?}{60}{section*.302}%
+\contentsline {subsection}{La actividad no siempre refleja la realidad}{60}{subsection*.303}%
+\contentsline {subsection}{Los corintios}{60}{subsection*.304}%
+\contentsline {subsubsection}{1 Corintios 3:1--3}{60}{subsubsection*.305}%
+\contentsline {subsubsection}{1 Corintios 3:6--7}{60}{subsubsection*.306}%
+\contentsline {subsection}{Los gálatas}{61}{subsection*.307}%
+\contentsline {subsubsection}{Gálatas 3:3}{61}{subsubsection*.308}%
+\contentsline {subsection}{Hebreos}{61}{subsection*.309}%
+\contentsline {subsubsection}{Hebreos 2:1}{61}{subsubsection*.310}%
+\contentsline {subsubsection}{Hebreos 12:15}{61}{subsubsection*.311}%
+\contentsline {subsection}{Éfeso}{61}{subsection*.312}%
+\contentsline {subsubsection}{Apocalipsis 2:2--4}{61}{subsubsection*.313}%
+\contentsline {subsection}{Sardis}{62}{subsection*.314}%
+\contentsline {subsubsection}{Apocalipsis 3:1}{62}{subsubsection*.315}%
+\contentsline {subsection}{Laodicea}{62}{subsection*.316}%
+\contentsline {subsubsection}{Apocalipsis 3:17}{62}{subsubsection*.317}%
+\contentsline {subsection}{Una observación}{62}{subsection*.318}%
+\contentsline {subsection}{Una pregunta}{63}{subsection*.319}%
+\contentsline {section}{CAPÍTULO 26 - ¿QUÉ ESTÁ EN JUEGO?}{63}{section*.320}%
+\contentsline {subsection}{El Constructor no falla, pero la participación importa}{63}{subsection*.321}%
+\contentsline {subsection}{La obra será probada}{63}{subsection*.322}%
+\contentsline {subsubsection}{1 Corintios 3:12--15}{63}{subsubsection*.323}%
+\contentsline {subsection}{Todos compareceremos}{64}{subsection*.324}%
+\contentsline {subsubsection}{2 Corintios 5:10}{64}{subsubsection*.325}%
+\contentsline {subsection}{Cada uno dará cuenta}{64}{subsection*.326}%
+\contentsline {subsubsection}{Romanos 14:10--12}{64}{subsubsection*.327}%
+\contentsline {subsection}{El Señor traerá a la luz}{65}{subsection*.328}%
+\contentsline {subsubsection}{1 Corintios 4:5}{65}{subsubsection*.329}%
+\contentsline {subsection}{Permanezcan para recibir plena recompensa}{65}{subsection*.330}%
+\contentsline {subsubsection}{2 Juan 8}{65}{subsubsection*.331}%
+\contentsline {subsection}{Al vencedor}{65}{subsection*.332}%
+\contentsline {subsubsection}{Apocalipsis 2--3}{65}{subsubsection*.333}%
+\contentsline {subsection}{Una observación}{65}{subsection*.334}%
+\contentsline {subsection}{Una pregunta}{66}{subsection*.335}%
+\contentsline {section}{CAPÍTULO 27 - ¿POR QUÉ LA FIDELIDAD ES TAN IMPORTANTE?}{66}{section*.336}%
+\contentsline {subsection}{El Señor valora la participación fiel}{66}{subsection*.337}%
+\contentsline {subsection}{Todos compareceremos}{67}{subsection*.338}%
+\contentsline {subsubsection}{2 Corintios 5:10}{67}{subsubsection*.339}%
+\contentsline {subsection}{La obra será manifestada}{67}{subsection*.340}%
+\contentsline {subsubsection}{1 Corintios 3:12--15}{67}{subsubsection*.341}%
+\contentsline {subsection}{El Señor traerá a la luz}{67}{subsection*.342}%
+\contentsline {subsubsection}{1 Corintios 4:5}{67}{subsubsection*.343}%
+\contentsline {subsection}{Al vencedor}{68}{subsection*.344}%
+\contentsline {subsubsection}{Apocalipsis 2--3}{68}{subsubsection*.345}%
+\contentsline {subsection}{La corona de justicia}{68}{subsection*.346}%
+\contentsline {subsubsection}{2 Timoteo 4:7--8}{68}{subsubsection*.347}%
+\contentsline {subsection}{Encarga a hombres fieles}{68}{subsection*.348}%
+\contentsline {subsubsection}{2 Timoteo 2:2}{68}{subsubsection*.349}%
+\contentsline {subsection}{Se requiere de los administradores}{68}{subsection*.350}%
+\contentsline {subsubsection}{1 Corintios 4:1--2}{68}{subsubsection*.351}%
+\contentsline {subsection}{Bien, siervo bueno y fiel}{69}{subsection*.352}%
+\contentsline {subsubsection}{Mateo 25:21}{69}{subsubsection*.353}%
+\contentsline {subsection}{Una observación}{69}{subsection*.354}%
+\contentsline {subsection}{Una pregunta}{70}{subsection*.355}%
+\contentsline {section}{CAPÍTULO 28 - PADRES, MADRES Y EJEMPLOS}{70}{section*.356}%
+\contentsline {subsection}{No muchos padres}{70}{subsection*.357}%
+\contentsline {subsubsection}{1 Corintios 4:14--17}{70}{subsubsection*.358}%
+\contentsline {subsection}{Imitadores de nosotros}{71}{subsection*.359}%
+\contentsline {subsubsection}{1 Tesalonicenses 1:6}{71}{subsubsection*.360}%
+\contentsline {subsection}{Timoteo conocía el camino de Pablo}{71}{subsection*.361}%
+\contentsline {subsubsection}{2 Timoteo 3:10}{71}{subsubsection*.362}%
+\contentsline {subsection}{Las ancianas enseñan}{71}{subsection*.363}%
+\contentsline {subsubsection}{Tito 2:3--5}{71}{subsubsection*.364}%
+\contentsline {subsection}{Sean ejemplo}{72}{subsection*.365}%
+\contentsline {subsubsection}{1 Pedro 5:2--3}{72}{subsubsection*.366}%
+\contentsline {subsection}{Una observación}{72}{subsection*.367}%
+\contentsline {subsection}{Una pregunta}{73}{subsection*.368}%
+\contentsline {section}{CAPÍTULO 29 - ¿QUÉ SIGNIFICA ENCARGAR?}{73}{section*.369}%
+\contentsline {subsection}{Lo recibido continúa}{73}{subsection*.370}%
+\contentsline {subsection}{Lo que has oído de mí}{73}{subsection*.371}%
+\contentsline {subsubsection}{2 Timoteo 2:2}{73}{subsubsection*.372}%
+\contentsline {subsection}{Sigue las sanas palabras}{74}{subsection*.373}%
+\contentsline {subsubsection}{2 Timoteo 1:13}{74}{subsubsection*.374}%
+\contentsline {subsection}{Guarda el tesoro}{74}{subsection*.375}%
+\contentsline {subsubsection}{2 Timoteo 1:14}{74}{subsubsection*.376}%
+\contentsline {subsection}{Yo recibí y entregué}{74}{subsection*.377}%
+\contentsline {subsubsection}{1 Corintios 15:3}{74}{subsubsection*.378}%
+\contentsline {subsection}{Lo que aprendiste y recibiste}{75}{subsection*.379}%
+\contentsline {subsubsection}{Filipenses 4:9}{75}{subsubsection*.380}%
+\contentsline {subsection}{Una observación}{75}{subsection*.381}%
+\contentsline {subsection}{Una pregunta}{76}{subsection*.382}%
+\contentsline {section}{CAPÍTULO 30 - GENERACIONES}{76}{section*.383}%
+\contentsline {subsection}{Lo que has oído}{76}{subsection*.384}%
+\contentsline {subsubsection}{2 Timoteo 2:2}{76}{subsubsection*.385}%
+\contentsline {subsection}{Yo recibí y entregué}{76}{subsection*.386}%
+\contentsline {subsubsection}{1 Corintios 15:3}{76}{subsubsection*.387}%
+\contentsline {subsection}{Después de mi partida}{77}{subsection*.388}%
+\contentsline {subsubsection}{2 Pedro 1:14--15}{77}{subsubsection*.389}%
+\contentsline {subsection}{Hijos, jóvenes y padres}{77}{subsection*.390}%
+\contentsline {subsubsection}{1 Juan 2:12--14}{77}{subsubsection*.391}%
+\contentsline {subsection}{Enseña a otros}{77}{subsection*.392}%
+\contentsline {subsubsection}{Tito 2:1--5}{77}{subsubsection*.393}%
+\contentsline {subsection}{Una observación}{77}{subsection*.394}%
+\contentsline {subsection}{Una pregunta}{79}{subsection*.395}%
+\contentsline {subsection}{Otra pregunta}{79}{subsection*.396}%
+\contentsline {section}{CAPÍTULO 31 - TERMINANDO BIEN}{79}{section*.397}%
+\contentsline {subsection}{Pablo}{79}{subsection*.398}%
+\contentsline {subsubsection}{2 Timoteo 4:6--8}{79}{subsubsection*.399}%
+\contentsline {subsection}{Pedro}{80}{subsection*.400}%
+\contentsline {subsubsection}{2 Pedro 1:13--15}{80}{subsubsection*.401}%
+\contentsline {subsection}{El escritor de Hebreos}{80}{subsection*.402}%
+\contentsline {subsubsection}{Hebreos 12:1--2}{80}{subsubsection*.403}%
+\contentsline {subsection}{Juan}{80}{subsection*.404}%
+\contentsline {subsubsection}{1 Juan 2:28}{80}{subsubsection*.405}%
+\contentsline {subsection}{Una observación}{81}{subsection*.406}%
+\contentsline {subsection}{Otra observación}{81}{subsection*.407}%
+\contentsline {subsection}{Una observación más}{81}{subsection*.408}%
+\contentsline {subsection}{Una pregunta}{82}{subsection*.409}%
+\contentsline {section}{CAPÍTULO 32 - HASTA QUE ÉL VENGA}{82}{section*.410}%
+\contentsline {subsection}{Esperando a Su Hijo}{82}{subsection*.411}%
+\contentsline {subsubsection}{1 Tesalonicenses 1:9--10}{82}{subsubsection*.412}%
+\contentsline {subsection}{Nuestra ciudadanía está en los cielos}{82}{subsection*.413}%
+\contentsline {subsubsection}{Filipenses 3:20--21}{82}{subsubsection*.414}%
+\contentsline {subsection}{La esperanza bienaventurada}{83}{subsection*.415}%
+\contentsline {subsubsection}{Tito 2:11--13}{83}{subsubsection*.416}%
+\contentsline {subsection}{Aparecerá por segunda vez}{83}{subsection*.417}%
+\contentsline {subsubsection}{Hebreos 9:28}{83}{subsubsection*.418}%
+\contentsline {subsection}{Cuando Él se manifieste}{83}{subsection*.419}%
+\contentsline {subsubsection}{1 Juan 3:2--3}{83}{subsubsection*.420}%
+\contentsline {subsection}{El Espíritu y la novia}{84}{subsection*.421}%
+\contentsline {subsubsection}{Apocalipsis 22:17}{84}{subsubsection*.422}%
+\contentsline {subsection}{Una observación}{84}{subsection*.423}%
+\contentsline {subsection}{Otra observación}{84}{subsection*.424}%
+\contentsline {subsection}{Una observación más}{84}{subsection*.425}%
+\contentsline {subsection}{Una pregunta}{85}{subsection*.426}%
+\contentsline {section}{CAPÍTULO 33 - EL CONSTRUCTOR PRESENTARÁ SU IGLESIA}{85}{section*.427}%
+\contentsline {subsection}{Él la presentará a Sí mismo}{85}{subsection*.428}%
+\contentsline {subsubsection}{Efesios 5:25--27}{85}{subsubsection*.429}%
+\contentsline {subsection}{Él completará la obra}{85}{subsection*.430}%
+\contentsline {subsubsection}{Filipenses 1:6}{85}{subsubsection*.431}%
+\contentsline {subsection}{Él también lo hará}{86}{subsection*.432}%
+\contentsline {subsubsection}{1 Tesalonicenses 5:23--24}{86}{subsubsection*.433}%
+\contentsline {subsection}{Poderoso para guardarlos}{86}{subsection*.434}%
+\contentsline {subsubsection}{Judas 24}{86}{subsubsection*.435}%
+\contentsline {subsection}{La esposa se ha preparado}{86}{subsection*.436}%
+\contentsline {subsubsection}{Apocalipsis 19:7--8}{86}{subsubsection*.437}%
+\contentsline {subsection}{Él es el Alfa y la Omega}{87}{subsection*.438}%
+\contentsline {subsubsection}{Apocalipsis 22:13}{87}{subsubsection*.439}%
+\contentsline {subsection}{Una observación}{87}{subsection*.440}%
+\contentsline {subsection}{Otra observación}{87}{subsection*.441}%
+\contentsline {subsection}{Una observación más}{87}{subsection*.442}%
+\contentsline {subsection}{Una pregunta}{88}{subsection*.443}%
+\contentsline {subsection}{Otra pregunta}{88}{subsection*.444}%
+\contentsline {section}{CAPÍTULO 34 - EL CONSTRUCTOR SIGUE SIENDO EL CONSTRUCTOR}{88}{section*.445}%
+\contentsline {subsection}{Lo que hemos observado desde el principio}{88}{subsection*.446}%
+\contentsline {subsection}{Yo edificaré Mi iglesia}{88}{subsection*.447}%
+\contentsline {subsubsection}{Mateo 16:18}{88}{subsubsection*.448}%
+\contentsline {subsection}{Dios da el crecimiento}{89}{subsection*.449}%
+\contentsline {subsubsection}{1 Corintios 3:6--7}{89}{subsubsection*.450}%
+\contentsline {subsection}{El que comenzó la buena obra}{89}{subsection*.451}%
 \contentsline {subsubsection}{Filipenses 1:6}{89}{subsubsection*.452}%
 \contentsline {subsection}{Él también lo hará}{89}{subsection*.453}%
 \contentsline {subsubsection}{1 Tesalonicenses 5:23--24}{89}{subsubsection*.454}%
-\contentsline {subsection}{Poderoso para guardarlos}{89}{subsection*.455}%
-\contentsline {subsubsection}{Judas 24}{89}{subsubsection*.456}%
-\contentsline {subsection}{La esposa se ha preparado}{90}{subsection*.457}%
-\contentsline {subsubsection}{Apocalipsis 19:7--8}{90}{subsubsection*.458}%
-\contentsline {subsection}{Él es el Alfa y la Omega}{90}{subsection*.459}%
-\contentsline {subsubsection}{Apocalipsis 22:13}{90}{subsubsection*.460}%
-\contentsline {subsection}{Una observación}{90}{subsection*.461}%
-\contentsline {subsection}{Otra observación}{90}{subsection*.462}%
-\contentsline {subsection}{Una observación más}{91}{subsection*.463}%
-\contentsline {subsection}{Una pregunta}{91}{subsection*.464}%
-\contentsline {subsection}{Otra pregunta}{91}{subsection*.465}%
-\contentsline {section}{CAPÍTULO 34 - LA GLORIA ES DEL CONSTRUCTOR}{92}{section*.466}%
-\contentsline {subsection}{Yo edificaré Mi iglesia}{92}{subsection*.467}%
-\contentsline {subsubsection}{Mateo 16:18}{92}{subsubsection*.468}%
-\contentsline {subsection}{Dios da el crecimiento}{92}{subsection*.469}%
-\contentsline {subsubsection}{1 Corintios 3:6--7}{92}{subsubsection*.470}%
-\contentsline {subsection}{El que comenzó la buena obra}{93}{subsection*.471}%
-\contentsline {subsubsection}{Filipenses 1:6}{93}{subsubsection*.472}%
-\contentsline {subsection}{Él también lo hará}{93}{subsection*.473}%
-\contentsline {subsubsection}{1 Tesalonicenses 5:23--24}{93}{subsubsection*.474}%
-\contentsline {subsection}{Él la presentará a Sí mismo}{93}{subsection*.475}%
-\contentsline {subsubsection}{Efesios 5:25--27}{93}{subsubsection*.476}%
-\contentsline {subsection}{Dios será todo en todos}{93}{subsection*.477}%
-\contentsline {subsubsection}{1 Corintios 15:24--28}{93}{subsubsection*.478}%
-\contentsline {subsection}{Una observación}{94}{subsection*.479}%
-\contentsline {subsection}{Otra observación}{94}{subsection*.480}%
-\contentsline {subsection}{Una observación más}{94}{subsection*.481}%
-\contentsline {subsection}{Una pregunta final}{94}{subsection*.482}%
-\contentsline {section}{CAPÍTULO 35 - ¿QUÉ HEMOS DESCUBIERTO?}{95}{section*.483}%
-\contentsline {subsection}{La gloria pertenece al Constructor}{95}{subsection*.484}%
-\contentsline {subsubsection}{Judas 24--25}{98}{subsubsection*.485}%
-\contentsline {section}{Estructura general}{98}{section*.486}%
-\contentsline {subsection}{I. El Constructor (1--10)}{98}{subsection*.487}%
-\contentsline {subsection}{II. Escuchando a los apóstoles (11--18)}{98}{subsection*.488}%
-\contentsline {subsection}{III. La vida en Cristo (19--21)}{99}{subsection*.489}%
-\contentsline {subsection}{IV. Participación fiel (23--31)}{99}{subsection*.490}%
-\contentsline {subsection}{V. Hasta que Él venga (32--35)}{99}{subsection*.491}%
-\contentsline {subsection}{Constructor → Apóstoles → Cristo → Participación → Gloria}{99}{subsection*.492}%
+\contentsline {subsection}{Él la presentará a Sí mismo}{90}{subsection*.455}%
+\contentsline {subsubsection}{Efesios 5:25--27}{90}{subsubsection*.456}%
+\contentsline {subsection}{Dios será todo en todos}{90}{subsection*.457}%
+\contentsline {subsubsection}{1 Corintios 15:28}{90}{subsubsection*.458}%
+\contentsline {subsection}{Una observación}{90}{subsection*.459}%
+\contentsline {subsection}{Una observación final}{90}{subsection*.460}%
+\contentsline {section}{EPÍLOGO}{91}{section*.461}%
+\contentsline {subsection}{¿Qué hemos descubierto?}{91}{subsection*.462}%
+\contentsline {subsubsection}{Judas 24--25}{94}{subsubsection*.463}%

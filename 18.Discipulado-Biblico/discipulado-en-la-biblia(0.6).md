@@ -2,168 +2,128 @@
 title: "Discipulado - Participar con el Constructor"
 subtitle:  "Hasta que Él venga"
 author:  "CGV"
-<!-- version:  "0.6" -->
+version:  "0.6" 
 date:  "2026-06-22"
 cover: "images/portada.png"
 ---
 
 # INTRODUCCIÓN
 
-##### Este curso nació de preguntas.
+##### Este <u>curso</u> nació de preguntas.
+##### <u>Muchas</u> preguntas.
+##### <u>Algunas</u> sencillas.
+##### <u>Otras</u> incómodas.
 
-##### Muchas preguntas.
+##### Y, honestamente, muchas de ellas <u>nunca</u> pensamos que llegaríamos a hacerlas.
+##### Porque durante <u>años</u> simplemente hicimos lo que habíamos recibido.
+##### Y no por <u>falta</u> de sinceridad.
+##### No por <u>falta</u> de deseo.
 
-##### Algunas sencillas.
+##### No por <u>falta</u> de esfuerzo.
+##### Simplemente estábamos <u>haciendo</u> lo que habíamos aprendido.
+##### Y como eso fue lo que recibimos, asumimos que así era como <u>debía</u> hacerse.
+##### <u>Nosotros</u> también.
 
-##### Otras incómodas.
+##### Pero con el <u>tiempo</u> comenzaron a surgir preguntas.
+##### Y algunas de ellas <u>eran</u> incómodas.
+##### ¿Por qué <u>hacemos</u> lo que hacemos?
+##### ¿De <u>dónde</u> provienen nuestras ideas?
+##### ¿<u>Cómo</u> sabemos que hemos entendido correctamente?
 
-##### Y, honestamente, muchas de ellas nunca pensamos que llegaríamos a hacerlas.
+##### ¿Qué determina realmente la manera en que practicamos las <u>cosas</u>?
+##### Y quizás la pregunta más incómoda de <u>todas</u>:
+##### ¿<u>Hemos</u> permitido que las Escrituras definan aquello que decimos creer?
+##### Curiosamente, <u>nunca</u> nos habíamos detenido a hacer esa pregunta.
+##### No porque rechazáramos las <u>Escrituras</u>.
+##### <u>Sino</u> porque muchas cosas simplemente parecían evidentes.
 
-##### Porque durante años simplemente hicimos lo que habíamos recibido.
+##### Y cuando algo parece evidente, <u>pocas</u> veces nos detenemos a examinarlo.
+##### Pero <u>estas</u> preguntas no nos alejaron de las Escrituras.
+##### Nos llevaron de <u>regreso</u> a ellas.
+##### Y decidimos <u>hacer</u> algo muy sencillo.
+##### <u>Comenzar</u> nuevamente.
 
-##### Y no por falta de sinceridad.
+##### No con <u>nuestras</u> respuestas.
+##### No con nuestros <u>métodos</u>.
+##### No con <u>nuestras</u> tradiciones.
+##### <u>Sino</u> con el texto mismo.
 
-##### No por falta de deseo.
-
-##### No por falta de esfuerzo.
-
-##### Simplemente estábamos haciendo lo que habíamos aprendido.
-
-##### Y como eso fue lo que recibimos, asumimos que así era como debía hacerse.
-
-##### Nosotros también.
-
-##### Pero con el tiempo comenzaron a surgir preguntas.
-
-##### Y algunas de ellas eran incómodas.
-
-##### ¿Por qué hacemos lo que hacemos?
-
-##### ¿De dónde provienen nuestras ideas?
-
-##### ¿Cómo sabemos que hemos entendido correctamente?
-
-##### ¿Qué determina realmente la manera en que practicamos las cosas?
-
-##### Y quizás la pregunta más incómoda de todas:
-
-##### ¿Hemos permitido que las Escrituras definan aquello que decimos creer?
-
-##### Curiosamente, nunca nos habíamos detenido a hacer esa pregunta.
-
-##### No porque rechazáramos las Escrituras.
-
-##### Sino porque muchas cosas simplemente parecían evidentes.
-
-##### Y cuando algo parece evidente, pocas veces nos detenemos a examinarlo.
-
-##### Pero estas preguntas no nos alejaron de las Escrituras.
-
-##### Nos llevaron de regreso a ellas.
-
-##### Y decidimos hacer algo muy sencillo.
-
-##### Comenzar nuevamente.
-
-##### No con nuestras respuestas.
-
-##### No con nuestros métodos.
-
-##### No con nuestras tradiciones.
-
-##### Sino con el texto mismo.
-
-##### Y decidimos seguir las preguntas hasta donde las Escrituras quisieran llevarnos.
-
-##### Sin saber exactamente adónde terminarían llevándonos.
-
-##### Esperamos que este viaje sea de mucha bendición para ti.
+##### Y decidimos <u>seguir</u> las preguntas hasta donde las Escrituras quisieran llevarnos.
+##### Sin <u>saber</u> exactamente adónde terminarían llevándonos.
+##### Esperamos que este viaje <u>sea</u> de mucha bendición para ti.
 
 # CAPÍTULO 1 - COMENCEMOS
 
 ## Preguntas que nos llevaron de regreso a las Escrituras
 
-##### Muchos creyentes saben que Jesús mandó hacer discípulos.
+##### Muchos creyentes <u>saben</u> que Jesús mandó hacer discípulos.
+##### También saben <u>cómo</u> fueron discipulados.
 
-##### También saben cómo fueron discipulados.
+##### <u>Quizás</u> participaron en estudios uno a uno.
+##### Quizás siguieron un <u>libro</u>.
 
-##### Quizás participaron en estudios uno a uno.
+##### <u>Quizás</u> aprendieron un método.
+##### Quizás intentaron reproducir lo que <u>otros</u> habían hecho con ellos.
 
-##### Quizás siguieron un libro.
-
-##### Quizás aprendieron un método.
-
-##### Quizás intentaron reproducir lo que otros habían hecho con ellos.
-
-##### Pero con el tiempo comenzaron a surgir preguntas.
-
+##### Pero con el <u>tiempo</u> comenzaron a surgir preguntas.
 > ¿Qué significa realmente hacer discípulos?
 
-##### La respuesta parece sencilla.
-
-##### Jesús dijo:
-
+##### La respuesta <u>parece</u> sencilla.
+##### Jesús <u>dijo</u>:
 > «Vayan, pues, y hagan discípulos de todas las naciones.»
 
-##### Entonces parece natural comenzar allí.
+##### Entonces parece natural comenzar <u>allí</u>.
 
-##### Pero casi inmediatamente surgen otras preguntas.
+##### Pero <u>casi</u> inmediatamente surgen otras preguntas.
 
 - ¿Explicó Jesús qué quiso decir?
 - ¿Preparó a Sus discípulos para este mandamiento?
 - ¿Ya entendían ellos lo que significaba?
 - ¿Era una expresión conocida?
 - ¿Existe una definición en el Nuevo Testamento?
+
 - ¿Explica el libro de Hechos cómo se hace?
 - ¿Lo desarrollan las epístolas?
 - ¿Encontraremos un método?
 - ¿Encontraremos una fórmula?
 
-##### Mientras avanzábamos, las preguntas aumentaban.
+##### Mientras avanzábamos, las <u>preguntas</u> aumentaban.
 
-##### Pero las respuestas no parecían tan evidentes.
+##### Pero las respuestas no parecían <u>tan</u> evidentes.
 
-##### Entonces decidimos hacer algo sencillo.
+##### Entonces decidimos <u>hacer</u> algo sencillo.
 
-##### En lugar de comenzar con nuestras conclusiones, decidimos volver al texto.
+##### En <u>lugar</u> de comenzar con nuestras conclusiones, decidimos volver al texto.
 
-##### Y si Jesús habló de hacer discípulos, parecía razonable comenzar escuchándolo a Él.
+##### Y si <u>Jesús</u> habló de hacer discípulos, parecía razonable comenzar escuchándolo a Él.
 
-##### Por eso comenzaremos allí.
-
-##### Y permitiremos que las Escrituras nos guíen.
-
-##### Incluso si terminamos llegando a lugares que no esperábamos.
+##### Por eso comenzaremos <u>allí</u>.
+##### Y permitiremos que las Escrituras nos <u>guíen</u>.
+##### <u>Incluso</u> si terminamos llegando a lugares que no esperábamos.
 
 # CAPÍTULO 2 - JESÚS HABLÓ DE HACER DISCÍPULOS
 
 ## Siguiendo el hilo del Evangelio
 
-##### Si Jesús mandó hacer discípulos, surge una pregunta natural.
-
+##### Si <u>Jesús</u> mandó hacer discípulos, surge una pregunta natural.
 > ¿Aparece este mandamiento aislado?
 
-##### Al seguir el Evangelio de Mateo, encontramos algo interesante.
+##### Al seguir el Evangelio de <u>Mateo</u>, encontramos algo interesante.
+##### El mandato de <u>hacer</u> discípulos aparece al final del Evangelio.
 
-##### El mandato de hacer discípulos aparece al final del Evangelio.
-
-##### Por eso decidimos seguir el relato.
-
-##### Y permitiremos que Mateo continúe hablando.
+##### Por eso decidimos <u>seguir</u> el relato.
+##### Y permitiremos que <u>Mateo</u> continúe hablando.
 
 ## Jesús llama
 
 ### Mateo 4:19
-
 Vengan en pos de Mí, y Yo los haré pescadores de hombres.
 
 #### Vengan en pos de Mí
-
-##### Antes de enviarlos, Jesús había llamado a Sus discípulos.
+##### <u>Antes</u> de enviarlos, Jesús había llamado a Sus discípulos.
 
 #### y Yo los haré pescadores de hombres
-
-##### Antes de que ellos hagan, Jesús promete hacer.
+##### <u>Antes</u> de que ellos hagan, Jesús promete hacer.
 
 - Jesús toma la iniciativa.
 - La relación comienza con una invitación.
@@ -171,328 +131,258 @@ Vengan en pos de Mí, y Yo los haré pescadores de hombres.
 ## Jesús envía
 
 ### Mateo 28:18-20
-
 Toda autoridad me ha sido dada en el cielo y en la tierra. Vayan, pues, y hagan discípulos de todas las naciones...
 
 #### hagan discípulos
+##### El mandamiento que <u>inició</u> nuestra investigación aparece finalmente.
 
-##### El mandamiento que inició nuestra investigación aparece finalmente.
-
-##### Pero no aparece al comienzo del Evangelio.
-
-##### Aparece después.
+##### Pero no <u>aparece</u> al comienzo del Evangelio.
+##### <u>Aparece</u> después.
 
 #### Toda autoridad me ha sido dada
-
-##### La autoridad pertenece a Jesús.
+##### La autoridad pertenece a <u>Jesús</u>.
 
 #### Yo estoy con ustedes todos los días
-
-##### Jesús promete permanecer con los Suyos.
+##### <u>Jesús</u> promete permanecer con los Suyos.
 
 ## Una observación
 
-##### Porque el Evangelio no comienza con:
-
+##### Porque el Evangelio no <u>comienza</u> con:
 > Hagan discípulos.
 
-##### Jesús llama.
+##### <u>Jesús</u> llama.
+##### <u>Jesús</u> promete hacer.
+##### Y finalmente <u>envía</u>.
 
-##### Jesús promete hacer.
-
-##### Y finalmente envía.
-
-##### Pero mientras seguíamos el relato, otra expresión comenzó a llamar nuestra atención.
-
+##### Pero mientras seguíamos el <u>relato</u>, otra expresión comenzó a llamar nuestra atención.
 > Jesús comenzó a mostrar...
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 3 - JESÚS COMENZÓ A MOSTRAR
 
 ## Una observación en el Evangelio
 
-##### Mientras seguíamos el Evangelio de Mateo, una expresión comenzó a llamar nuestra atención.
+##### Mientras seguíamos el Evangelio de <u>Mateo</u>, una expresión comenzó a llamar nuestra atención.
 
 ### Mateo 16:21
-
 Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
 
 #### Desde entonces
+##### <u>Mateo</u> registra un cambio.
 
-##### Mateo registra un cambio.
-
-##### Jesús comienza a mostrar algo a Sus discípulos.
+##### <u>Jesús</u> comienza a mostrar algo a Sus discípulos.
 
 #### debía ir a Jerusalén
-
-##### Jesús dirige la atención hacia lo que ocurrirá.
+##### <u>Jesús</u> dirige la atención hacia lo que ocurrirá.
 
 #### sufrir muchas cosas
-
-##### Jesús habla de Su sufrimiento.
+##### <u>Jesús</u> habla de Su sufrimiento.
 
 #### ser muerto
-
-##### Jesús habla de Su muerte.
+##### <u>Jesús</u> habla de Su muerte.
 
 #### y resucitar al tercer día
-
-##### Jesús habla de Su resurrección.
+##### <u>Jesús</u> habla de Su resurrección.
 
 ## Una observación
 
-##### Porque Mateo no presenta solamente un mandamiento final.
+##### Porque <u>Mateo</u> no presenta solamente un mandamiento final.
 
-##### Presenta a Jesús actuando con Sus discípulos.
+##### Presenta a <u>Jesús</u> actuando con Sus discípulos.
 
-##### Jesús habla.
+##### <u>Jesús</u> habla.
 
-##### Jesús muestra.
+##### <u>Jesús</u> muestra.
 
-##### Jesús continúa con ellos.
+##### <u>Jesús</u> continúa con ellos.
 
-##### Y otra observación comienza a surgir.
+##### Y otra observación comienza a <u>surgir</u>.
 
-##### Los hombres que son enviados en Mateo 28 no aparecen repentinamente.
-
+##### Los hombres que <u>son</u> enviados en Mateo 28 no aparecen repentinamente.
 - Ya habían caminado con Jesús.
 - Ya habían escuchado a Jesús.
 - Y Jesús había comenzado a mostrarles algo.
 
 ## Una pregunta
+##### ¿Continuará este <u>proceso</u> después de la ascensión?
+##### ¿Encontraremos algo <u>parecido</u> más adelante?
 
-##### ¿Continuará este proceso después de la ascensión?
-
-##### ¿Encontraremos algo parecido más adelante?
-
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 4 - LOS FORMADOS SON ENVIADOS
 
 ## Jesús envía a hombres que han caminado con Él
 
-##### Al llegar finalmente a Mateo 28, encontramos el mandamiento que inició nuestra investigación.
+##### Al llegar finalmente a <u>Mateo</u> 28, encontramos el mandamiento que inició nuestra investigación.
+##### Pero <u>ahora</u> aparece dentro de un contexto más amplio.
 
-##### Pero ahora aparece dentro de un contexto más amplio.
-
-##### Los hombres que son enviados no aparecen repentinamente.
-
-##### Jesús los había llamado.
-
-##### Jesús había caminado con ellos.
-
-##### Jesús había comenzado a mostrarles Su camino.
-
-##### Y ahora son enviados.
+##### Los hombres que <u>son</u> enviados no aparecen repentinamente.
+##### <u>Jesús</u> los había llamado.
+##### <u>Jesús</u> había caminado con ellos.
+##### <u>Jesús</u> había comenzado a mostrarles Su camino.
+##### Y ahora <u>son</u> enviados.
 
 ## Toda autoridad pertenece a Jesús
 
 ### Mateo 28:18
-
 Acercándose Jesús, les dijo: «Toda autoridad me ha sido dada en el cielo y en la tierra».
 
 #### Toda autoridad me ha sido dada
-
-##### La misión comienza con la autoridad de Jesús.
-
+##### La misión comienza con la autoridad de <u>Jesús</u>.
 - La autoridad pertenece a Él.
 - Los discípulos son enviados por Él.
 
 ## Hagan discípulos
 
 ### Mateo 28:19
-
 Vayan, pues, y hagan discípulos de todas las naciones.
 
 #### hagan discípulos
-
-##### Jesús envía a Sus discípulos.
-
+##### <u>Jesús</u> envía a Sus discípulos.
 - La misión continúa.
 - Las naciones son incluidas.
 
-##### El mandamiento que inició nuestra investigación aparece al final del Evangelio.
+##### El mandamiento que inició nuestra investigación aparece al <u>final</u> del Evangelio.
 
 ## Enseñándoles a guardar
 
 ### Mateo 28:20
-
 enseñándoles a guardar todo lo que les he mandado.
 
 #### enseñándoles a guardar
+##### <u>Jesús</u> no habla solamente de enseñar.
 
-##### Jesús no habla solamente de enseñar.
-
-##### Habla de enseñar a guardar.
-
+##### <u>Habla</u> de enseñar a guardar.
 - Los mandamientos de Jesús permanecen importantes.
 - Lo que Jesús enseñó continúa siendo transmitido.
 
 ## Yo estoy con ustedes
 
 ### Mateo 28:20
-
 Y recuerden: Yo estoy con ustedes todos los días, hasta el fin del mundo.
 
 #### Yo estoy con ustedes
-
-##### Jesús promete permanecer con ellos.
-
+##### <u>Jesús</u> promete permanecer con ellos.
 - La misión no es independiente de Su presencia.
 - Jesús no desaparece de la escena.
 
 #### hasta el fin del mundo
-
-##### La promesa continúa hacia adelante.
-
+##### La <u>promesa</u> continúa hacia adelante.
 - La presencia de Jesús acompaña a los Suyos.
 
 ## Una observación.
 
-##### Porque el Evangelio de Mateo termina con Jesús hablando.
+##### Porque el Evangelio de <u>Mateo</u> termina con Jesús hablando.
 
-##### Jesús envía.
+##### Jesús <u>envía</u>.
+##### <u>Jesús</u> manda.
+##### Jesús <u>promete</u>.
+##### Jesús <u>permanece</u>.
 
-##### Jesús manda.
+##### Pero <u>Mateo</u> termina.
 
-##### Jesús promete.
-
-##### Jesús permanece.
-
-##### Pero Mateo termina.
-
-##### Y otra pregunta comienza a surgir.
+##### Y otra pregunta comienza a <u>surgir</u>.
 
 ## Una pregunta
+##### ¿Qué <u>ocurrió</u> después?
+##### ¿Continuaron apareciendo <u>discípulos</u>?
+##### ¿<u>Cómo</u> continuó avanzando la obra?
 
-##### ¿Qué ocurrió después?
-
-##### ¿Continuaron apareciendo discípulos?
-
-##### ¿Cómo continuó avanzando la obra?
-
-##### Y permitiremos que Lucas continúe el relato.
+##### Y permitiremos que <u>Lucas</u> continúe el relato.
 
 > En Síntesis
+> - El mandato de hacer discípulos aparece al final del Evangelio.
+> - Los hombres enviados habían caminado con Jesús.
+> - La autoridad permanece en Cristo.
+> - Jesús manda enseñar a guardar Sus mandamientos.
+> - Jesús promete permanecer con los Suyos.
 
-- El mandato de hacer discípulos aparece al final del Evangelio.
-- Los hombres enviados habían caminado con Jesús.
-- La autoridad permanece en Cristo.
-- Jesús manda enseñar a guardar Sus mandamientos.
-- Jesús promete permanecer con los Suyos.
-- Y otra pregunta comienza a surgir.
-
+##### Y otra pregunta comienza a <u>surgir</u>.
 > ¿Qué ocurrió después de la ascensión?
 
 # CAPÍTULO 5 - LOS DISCÍPULOS CONTINÚAN APARECIENDO
 
 ## Una observación en Hechos
 
-##### Mateo termina con Jesús hablando.
+##### <u>Mateo</u> termina con Jesús hablando.
 
-##### Jesús envía.
+##### <u>Jesús</u> envía.
+##### <u>Jesús</u> promete permanecer con los Suyos.
 
-##### Jesús promete permanecer con los Suyos.
+##### Pero <u>Mateo</u> termina.
 
-##### Pero Mateo termina.
-
-##### Entonces surge una pregunta natural.
-
+##### Entonces <u>surge</u> una pregunta natural.
 > ¿Qué ocurrió después?
 
-##### Al abrir el libro de Hechos, encontramos algo interesante.
+##### Al <u>abrir</u> el libro de Hechos, encontramos algo interesante.
 
-##### Los discípulos continúan apareciendo.
+##### Los discípulos <u>continúan</u> apareciendo.
 
 ### Hechos 6:1
-
 Por aquellos días, al multiplicarse el número de los discípulos...
 
 #### al multiplicarse el número de los discípulos
-
-##### Lucas continúa utilizando el mismo lenguaje.
-
+##### <u>Lucas</u> continúa utilizando el mismo lenguaje.
 - Los discípulos aparecen nuevamente.
 - El relato continúa.
 
 ### Hechos 6:7
-
 ...y el número de los discípulos aumentaba considerablemente...
 
 #### el número de los discípulos aumentaba
-
-##### El lenguaje continúa.
-
+##### El <u>lenguaje</u> continúa.
 - Los discípulos se multiplican.
 - La palabra discípulo sigue apareciendo.
 
 ### Hechos 9:36
-
 Había en Jope cierta discípula llamada Tabita...
 
 #### cierta discípula
-
-##### El lenguaje continúa apareciendo.
+##### El <u>lenguaje</u> continúa apareciendo.
 
 ### Hechos 14:21-22
-
 Después de anunciar el evangelio... y hacer muchos discípulos...
 
 #### hacer muchos discípulos
-
-##### La expresión utilizada por Jesús continúa apareciendo.
+##### La expresión utilizada por <u>Jesús</u> continúa apareciendo.
 
 #### fortaleciendo los ánimos de los discípulos
-
-##### Los discípulos siguen ocupando el centro del relato.
+##### Los discípulos <u>siguen</u> ocupando el centro del relato.
 
 ## Una observación
 
-##### Porque después de la ascensión, los discípulos continúan apareciendo.
+##### Porque <u>después</u> de la ascensión, los discípulos continúan apareciendo.
+##### <u>Lucas</u> continúa hablando de discípulos.
+##### Los <u>discípulos</u> se multiplican.
+##### Los discípulos <u>son</u> fortalecidos.
+##### Muchos discípulos <u>son</u> hechos.
 
-##### Lucas continúa hablando de discípulos.
-
-##### Los discípulos se multiplican.
-
-##### Los discípulos son fortalecidos.
-
-##### Muchos discípulos son hechos.
-
-##### El lenguaje no desaparece inmediatamente.
+##### El <u>lenguaje</u> no desaparece inmediatamente.
 
 ## Una pregunta
+##### ¿Continuará este <u>lenguaje</u>?
+##### ¿<u>Seguirán</u> hablando así las Escrituras?
 
-##### ¿Continuará este lenguaje?
-
-##### ¿Seguirán hablando así las Escrituras?
-
-##### Y continuaremos observando.
+##### Y continuaremos <u>observando</u>.
 
 # CAPÍTULO 6 - EL EVANGELIO CONTINÚA AVANZANDO
 
 ## Una observación en Hechos
 
-##### Después de la ascensión, los discípulos continúan apareciendo.
+##### <u>Después</u> de la ascensión, los discípulos continúan apareciendo.
+##### Pero al seguir leyendo Hechos, comenzamos a <u>notar</u> algo más.
 
-##### Pero al seguir leyendo Hechos, comenzamos a notar algo más.
-
-##### La historia no permanece en Jerusalén.
-
-##### El evangelio continúa avanzando.
-
-##### Y Lucas continúa narrando lo que ocurrió.
+##### La <u>historia</u> no permanece en Jerusalén.
+##### El evangelio continúa avanzando.##### Y <u>Lucas</u> continúa narrando lo que ocurrió.
 
 ## El Señor había hablado acerca de esto
 
 ### Hechos 1:8
-
 Pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y Me serán testigos en Jerusalén, en toda Judea y Samaria, y hasta los confines de la tierra.
 
 #### Me serán testigos
-
-##### La obra continúa después de la ascensión.
-
+##### La <u>obra</u> continúa después de la ascensión.
 - Jerusalén aparece.
 - Judea aparece.
 - Samaria aparece.
@@ -501,118 +391,106 @@ Pero recibirán poder cuando el Espíritu Santo venga sobre ustedes; y Me serán
 ## Las iglesias eran fortalecidas
 
 ### Hechos 16:5
-
 Así que las iglesias eran fortalecidas en la fe, y aumentaban en número diariamente.
 
 #### eran fortalecidas
-
-##### Lucas continúa describiendo lo que ocurría.
-
+##### <u>Lucas</u> continúa describiendo lo que ocurría.
 - Las iglesias eran fortalecidas.
 - El número seguía creciendo.
 
 ## La palabra continuaba creciendo
 
 ### Hechos 19:20
-
 Así la palabra del Señor crecía poderosamente y prevalecía.
 
 #### la palabra del Señor crecía
-
-##### La atención aparece dirigida hacia la palabra.
-
+##### La atención <u>aparece</u> dirigida hacia la palabra.
 - La palabra continúa avanzando.
 - La obra continúa extendiéndose.
 
 ## Pablo sigue avanzando
 
 ### Hechos 20:24
-
 Pero en ninguna manera estimo mi vida como valiosa para mí mismo, a fin de poder terminar mi carrera y el ministerio que recibí del Señor Jesús, para dar testimonio solemnemente del evangelio de la gracia de Dios.
 
 #### el evangelio de la gracia de Dios
+##### El evangelio continúa ocupando un <u>lugar</u> importante.
 
-##### El evangelio continúa ocupando un lugar importante.
-
-##### Y la historia continúa.
+##### Y la <u>historia</u> continúa.
 
 ## Una observación
 
-##### Porque Hechos está lleno de actividad.
-
+##### Porque Hechos está <u>lleno</u> de actividad.
 - Los discípulos continúan apareciendo.
 - El evangelio continúa avanzando.
 - Las iglesias son fortalecidas.
 - La palabra continúa creciendo.
 - El relato continúa expandiéndose.
 
-##### Pero Lucas raramente se detiene a explicar.
+##### Pero <u>Lucas</u> raramente se detiene a explicar.
 
-##### Simplemente continúa contando la historia.
+##### Simplemente <u>continúa</u> contando la historia.
 
 ## Una pregunta
 
-##### ¿Continuará este lenguaje?
+##### ¿Continuará este <u>lenguaje</u>?
 
-##### ¿Seguirán apareciendo los discípulos?
+##### ¿<u>Seguirán</u> apareciendo los discípulos?
 
-##### ¿Continuarán hablando así las Escrituras?
+##### ¿Continuarán <u>hablando</u> así las Escrituras?
 
-##### Y continuaremos observando.
+##### Y continuaremos <u>observando</u>.
 
 # CAPÍTULO 7 - UNA AUSENCIA INESPERADA
 
 ## La palabra discípulo desaparece
 
-##### Después de seguir el libro de Hechos, algo comenzó a sorprendernos.
+##### Después de seguir el <u>libro</u> de Hechos, algo comenzó a sorprendernos.
 
-##### Los discípulos continuaban apareciendo.
+##### Los <u>discípulos</u> continuaban apareciendo.
 
-##### Los discípulos se multiplicaban.
+##### Los <u>discípulos</u> se multiplicaban.
 
-##### Muchos discípulos eran hechos.
+##### Muchos discípulos <u>eran</u> hechos.
 
-##### Los discípulos eran fortalecidos.
+##### Los discípulos <u>eran</u> fortalecidos.
 
-##### Pero al acercarnos al final del libro de Hechos, ocurre algo inesperado.
+##### Pero al acercarnos al <u>final</u> del libro de Hechos, ocurre algo inesperado.
 
 ### Hechos 21:16
-
 Vinieron también con nosotros algunos discípulos de Cesarea, trayendo consigo a un tal Mnasón de Chipre, discípulo desde los primeros días, con quien nos hospedaríamos.
 
 #### discípulo desde los primeros días
+##### <u>Lucas</u> continúa utilizando el mismo lenguaje.
 
-##### Lucas continúa utilizando el mismo lenguaje.
+##### Pero esta es la última <u>vez</u>.
 
-##### Pero esta es la última vez.
+##### <u>Después</u> de esto, la palabra discípulo desaparece.
 
-##### Después de esto, la palabra discípulo desaparece.
-
-##### Y no vuelve a aparecer en ninguna de las epístolas.
+##### Y no <u>vuelve</u> a aparecer en ninguna de las epístolas.
 
 ## Una observación.
 
-##### Porque esperábamos llegar a las epístolas y encontrar instrucciones acerca del discipulado.
+##### Porque esperábamos <u>llegar</u> a las epístolas y encontrar instrucciones acerca del discipulado.
 
-##### Después de todo, Jesús había dicho:
-
+##### Después de todo, <u>Jesús</u> había dicho:
 > Vayan y hagan discípulos.
 
-##### Sin embargo, la palabra desaparece.
+##### Sin <u>embargo</u>, la palabra desaparece.
 
-##### Y esto no constituye una interpretación.
+##### Y esto no <u>constituye</u> una interpretación.
 
-##### Es simplemente una observación.
+##### Es <u>simplemente</u> una observación.
 
 ## Otra observación
 
-##### Y algo más comenzó a llamar nuestra atención.
+##### Y algo más comenzó a <u>llamar</u> nuestra atención.
 
-##### No solamente desaparece la palabra discípulo.
+##### No solamente desaparece la <u>palabra</u> discípulo.
 
-##### También desaparece gran parte del lenguaje característico de los Evangelios.
+##### También desaparece <u>gran</u> parte del lenguaje característico de los Evangelios.
 
-##### Ya no encontramos expresiones como:
+##### Ya no <u>encontramos</u> expresiones como:
 
 - «Sígueme».
 - «Vengan en pos de Mí».
@@ -620,37 +498,37 @@ Vinieron también con nosotros algunos discípulos de Cesarea, trayendo consigo 
 - «Rabí».
 - «Toma tu cruz y sígueme».
 
-##### Porque no desaparece solamente una palabra.
+##### Porque no desaparece solamente una <u>palabra</u>.
 
-##### Parece desaparecer toda una familia de expresiones.
+##### Parece desaparecer <u>toda</u> una familia de expresiones.
 
 ## Una pregunta
 
-##### ¿Desapareció la realidad?
+##### ¿Desapareció la <u>realidad</u>?
 
-##### ¿Cambió el lenguaje?
+##### ¿<u>Cambió</u> el lenguaje?
 
-##### ¿Esperábamos encontrar algo que las epístolas nunca intentan decir?
+##### ¿Esperábamos encontrar algo que las epístolas <u>nunca</u> intentan decir?
 
-##### ¿Cómo hablan ahora los apóstoles?
+##### ¿<u>Cómo</u> hablan ahora los apóstoles?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 8 - ¿QUÉ OCUPA A LOS APÓSTOLES?
 
 ## Una observación en las epístolas
 
-##### Después de la última referencia a los discípulos en Hechos, llegamos a las epístolas.
+##### Después de la <u>última</u> referencia a los discípulos en Hechos, llegamos a las epístolas.
 
-##### Naturalmente esperábamos encontrar explicaciones acerca del discipulado.
+##### Naturalmente esperábamos encontrar explicaciones <u>acerca</u> del discipulado.
 
-##### Pero algo comenzó a sorprendernos.
+##### Pero algo <u>comenzó</u> a sorprendernos.
 
-##### Los apóstoles parecen estar ocupados con algo.
+##### Los apóstoles parecen <u>estar</u> ocupados con algo.
 
-##### Y ciertas palabras comienzan a aparecer repetidamente.
+##### Y <u>ciertas</u> palabras comienzan a aparecer repetidamente.
 
-##### Permitiremos que ellos mismos hablen.
+##### Permitiremos que ellos <u>mismos</u> hablen.
 
 ## Pablo desea anunciar el evangelio
 
@@ -660,59 +538,52 @@ Así que, por mi parte, ansioso estoy de anunciar el evangelio también a ustede
 
 #### también a ustedes
 
-##### Pablo escribe a creyentes.
+##### <u>Pablo</u> escribe a creyentes.
 
-##### Y, sin embargo, desea anunciarles el evangelio.
+##### Y, sin embargo, <u>desea</u> anunciarles el evangelio.
 
 #### el evangelio
 
-##### El evangelio ocupa un lugar importante.
+##### El evangelio <u>ocupa</u> un lugar importante.
 
 ## Pablo entrega lo que recibió
 
 ### 1 Corintios 15:1-3
-
 Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras...
 
 #### en primer lugar
+##### <u>Pablo</u> establece prioridades.
 
-##### Pablo establece prioridades.
-
-##### Algo ocupa el primer lugar.
+##### Algo <u>ocupa</u> el primer lugar.
 
 #### les entregué
-
-##### Pablo transmite algo recibido.
+##### <u>Pablo</u> transmite algo recibido.
 
 ## Pablo no se propone saber otra cosa
 
 ### 1 Corintios 2:2
-
 Porque nada me propuse saber entre ustedes excepto a Jesucristo, y Este crucificado.
 
 #### Jesucristo, y Este crucificado
-
-##### Cristo permanece ocupando el centro.
+##### <u>Cristo</u> permanece ocupando el centro.
 
 ## El evangelio debe ser preservado
 
 ### Gálatas 1:8
-
 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 
 #### otro evangelio
+##### <u>Pablo</u> protege algo.
 
-##### Pablo protege algo.
-
-##### El evangelio no puede ser sustituido.
+##### El evangelio no <u>puede</u> ser sustituido.
 
 ## Una observación
 
-##### Porque después de Hechos, los apóstoles no parecen estar ocupados con métodos.
+##### Porque después de Hechos, los apóstoles no parecen <u>estar</u> ocupados con métodos.
 
-##### Tampoco parecen estar ocupados con programas.
+##### Tampoco parecen <u>estar</u> ocupados con programas.
 
-##### Repetidamente la atención vuelve a:
+##### Repetidamente la atención <u>vuelve</u> a:
 
 - Cristo.
 - El evangelio.
@@ -720,77 +591,70 @@ Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contra
 - Lo recibido.
 - Lo anunciado.
 
-##### Y otra observación comienza a surgir.
+##### Y otra observación comienza a <u>surgir</u>.
 
-##### Quizás Mateo 16:21 no era una observación aislada.
+##### Quizás <u>Mateo</u> 16:21 no era una observación aislada.
 
-##### Porque Jesús había comenzado a mostrar a Sus discípulos:
-
+##### Porque <u>Jesús</u> había comenzado a mostrar a Sus discípulos:
 - Su sufrimiento.
 - Su muerte.
 - Su resurrección.
 
 ## Una pregunta
 
-##### ¿Qué están tratando de preservar?
+##### ¿Qué <u>están</u> tratando de preservar?
 
-##### ¿Qué desean encargar a otros?
+##### ¿Qué desean encargar a <u>otros</u>?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 9 - ¿QUÉ ESTÁN TRATANDO DE ENCARGAR?
 
 ## Una observación en las epístolas
 
-##### Después de escuchar a los apóstoles, surge una pregunta natural.
+##### Después de escuchar a los apóstoles, <u>surge</u> una pregunta natural.
 
-##### ¿Qué esperan que permanezca?
+##### ¿Qué <u>esperan</u> que permanezca?
 
-##### ¿Qué desean entregar a las generaciones futuras?
+##### ¿Qué <u>desean</u> entregar a las generaciones futuras?
 
-##### ¿Qué están tratando de preservar?
+##### ¿Qué <u>están</u> tratando de preservar?
 
-##### La pregunta es importante.
+##### La <u>pregunta</u> es importante.
 
-##### Porque los apóstoles saben que partirán.
+##### Porque los apóstoles <u>saben</u> que partirán.
 
-##### Pero no hablan como hombres desesperados.
+##### Pero no <u>hablan</u> como hombres desesperados.
 
-##### Hablan como hombres que están encargando algo.
+##### Hablan como hombres que <u>están</u> encargando algo.
 
-##### Pero, ¿qué?
+##### Pero, ¿<u>qué</u>?
 
 ## Pablo entrega lo que recibió
 
 ### 1 Corintios 15:1-3
-
 Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras...
 
 #### les entregué
 
-##### Pablo se presenta como alguien que transmite algo recibido.
+##### <u>Pablo</u> se presenta como alguien que transmite algo recibido.
 
 - Pablo recibió.
 - Pablo entregó.
 - Otros recibieron.
 
 #### en primer lugar
-
-##### Pablo establece prioridades.
-
+##### <u>Pablo</u> establece prioridades.
 - No todo posee la misma importancia.
 - Algo ocupa el primer lugar.
 
 ## Los creyentes permanecen en ello
 
 ### 1 Corintios 15:1
-
 Les hago saber, hermanos, el evangelio que les prediqué, el cual también recibieron, en el cual también están firmes.
 
 #### están firmes
-
-##### El evangelio no aparece solamente al comienzo.
-
+##### El evangelio no <u>aparece</u> solamente al comienzo.
 - Los creyentes lo recibieron.
 - Los creyentes permanecen en él.
 - Los creyentes están firmes en él.
@@ -798,39 +662,33 @@ Les hago saber, hermanos, el evangelio que les prediqué, el cual también recib
 ## Pablo protege lo recibido
 
 ### Gálatas 1:8
-
 Pero si aun nosotros, o un ángel del cielo, les anunciara otro evangelio contrario al que les hemos anunciado, sea anatema.
 
 #### otro evangelio
-
-##### Pablo protege algo.
-
+##### <u>Pablo</u> protege algo.
 - El centro no debe ser movido.
 - Lo recibido debe ser preservado.
 
 ## Timoteo debe encargar a otros
 
 ### 2 Timoteo 2:2
-
 Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
 
 #### encarga a hombres fieles
 
-##### Lo recibido debía continuar.
-
+##### Lo recibido <u>debía</u> continuar.
 - Pablo enseñó.
 - Timoteo recibió.
 - Timoteo debía encargar.
 - Otros enseñarían también.
 
-##### La obra posee una dimensión generacional.
+##### La <u>obra</u> posee una dimensión generacional.
 
 ## Una observación
 
-##### Porque los apóstoles enseñan muchas cosas.
+##### Porque los apóstoles enseñan muchas <u>cosas</u>.
 
-##### Hablan acerca de:
-
+##### <u>Hablan</u> acerca de:
 - la iglesia,
 - el amor,
 - la esperanza,
@@ -838,262 +696,242 @@ Lo que has oído de mí en la presencia de muchos testigos, eso encarga a hombre
 - las buenas obras,
 - la perseverancia.
 
-##### Pero repetidamente regresan al mismo centro.
+##### Pero repetidamente regresan al <u>mismo</u> centro.
 
-##### Cristo murió por nuestros pecados.
+##### Cristo <u>murió</u> por nuestros pecados.
 
-##### Fue sepultado.
+##### Fue <u>sepultado</u>.
 
-##### Resucitó al tercer día conforme a las Escrituras.
+##### Resucitó al tercer <u>día</u> conforme a las Escrituras.
 
-##### Y esto también comienza a llamar nuestra atención.
+##### Y esto también comienza a <u>llamar</u> nuestra atención.
 
-##### Porque Jesús había comenzado a mostrar precisamente estas cosas.
+##### Porque <u>Jesús</u> había comenzado a mostrar precisamente estas cosas.
 
 ## Una pregunta
 
-##### Si esto es lo que los apóstoles desean encargar...
+##### Si esto es lo que los apóstoles <u>desean</u> encargar...
 
-##### ¿Quiénes participan en esta obra?
+##### ¿Quiénes participan en esta <u>obra</u>?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 10 - ¿CÓMO HABLAN LOS APÓSTOLES?
 
 ## Una observación en las epístolas
 
-##### Después de escucharlos, algo comenzó a sorprendernos.
+##### <u>Después</u> de escucharlos, algo comenzó a sorprendernos.
 
-##### Pablo, Pedro, Juan, Judas y el escritor de Hebreos no parecen hablar como hombres aislados.
+##### Pablo, Pedro, <u>Juan</u>, Judas y el escritor de Hebreos no parecen hablar como hombres aislados.
 
-##### Tampoco parecen hablar como hombres ocupados en defender sus propios ministerios.
+##### Tampoco parecen <u>hablar</u> como hombres ocupados en defender sus propios ministerios.
 
-##### Sorprendentemente, todos parecen hablar con una misma orientación.
+##### Sorprendentemente, todos parecen hablar con una <u>misma</u> orientación.
 
-##### Permitiremos que hablen juntos.
+##### Permitiremos que <u>hablen</u> juntos.
 
 ### Filipenses 1:6
-
 El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 
 ### 1 Pedro 5:10
-
 Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
 
 ### Hebreos 7:25
-
 Vive siempre para interceder por ellos.
 
 ### Judas 24
-
 Es poderoso para guardarlos sin caída y para presentarlos sin mancha.
 
 ### 1 Juan 3:2
-
 Cuando Él se manifieste, seremos semejantes a Él.
 
 ## Una observación
 
-##### Porque todos parecen hablar de una misma obra.
+##### Porque todos parecen hablar de una misma <u>obra</u>.
 
-##### Y todos parecen dirigir la atención hacia una misma Persona.
+##### Y todos parecen dirigir la atención hacia una <u>misma</u> Persona.
 
-##### Pablo habla así.
+##### <u>Pablo</u> habla así.
 
-##### Pedro habla así.
+##### <u>Pedro</u> habla así.
 
-##### Juan habla así.
+##### <u>Juan</u> habla así.
 
-##### Judas habla así.
+##### <u>Judas</u> habla así.
 
-##### El escritor de Hebreos habla así.
+##### El escritor de Hebreos <u>habla</u> así.
 
-##### Trabajan.
+##### <u>Trabajan</u>.
 
-##### Exhortan.
+##### <u>Exhortan</u>.
 
-##### Enseñan.
+##### <u>Enseñan</u>.
 
-##### Corrigen.
+##### <u>Corrigen</u>.
 
-##### Pero ninguno parece hablar como constructor.
+##### Pero ninguno <u>parece</u> hablar como constructor.
 
-##### Todos parecen profundamente confiados.
+##### Todos <u>parecen</u> profundamente confiados.
 
-##### Y otra declaración de Jesús comienza a volver a nuestra memoria.
-
+##### Y otra declaración de <u>Jesús</u> comienza a volver a nuestra memoria.
 > «Yo edificaré Mi iglesia».
 
 ## Una pregunta
 
-##### ¿Será que los apóstoles entendían que la obra pertenecía a Otro?
+##### ¿<u>Será</u> que los apóstoles entendían que la obra pertenecía a Otro?
 
-##### ¿Quién está edificando realmente?
+##### ¿<u>Quién</u> está edificando realmente?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
-> # CAPÍTULO 11 - LO QUE APRENDIMOS DE LOS APÓSTOLES
->
-> ## Una observación difícil de ignorar
->
-> ##### Después de escuchar a los apóstoles, algo comenzó a llamar nuestra atención.
->
-> ##### Pablo habla así.
->
-> ##### Pedro habla así.
->
-> ##### Juan habla así.
->
-> ##### Judas habla así.
->
-> ##### El escritor de Hebreos habla así.
->
-> ##### Todos trabajan.
->
-> ##### Todos exhortan.
->
-> ##### Todos enseñan.
->
-> ##### Todos corrigen.
->
-> ##### Todos sufren.
->
-> ##### Pero ninguno parece hablar como si llevara sobre sí el peso de la obra.
->
-> ##### Y otra declaración de Jesús comenzó a volver repetidamente a nuestra memoria.
->
-> ### Mateo 16:18
->
+# CAPÍTULO 11 - LO QUE APRENDIMOS DE LOS APÓSTOLES
+
+## Una observación difícil de ignorar
+
+##### Después de escuchar a los apóstoles, algo comenzó a <u>llamar</u> nuestra atención.
+
+##### <u>Pablo</u> habla así.
+
+##### <u>Pedro</u> habla así.
+
+##### <u>Juan</u> habla así.
+
+##### <u>Judas</u> habla así.
+
+##### El escritor de Hebreos <u>habla</u> así.
+
+##### Todos <u>trabajan</u>.
+
+##### Todos <u>exhortan</u>.
+
+##### Todos <u>enseñan</u>.
+
+##### Todos <u>corrigen</u>.
+
+##### Todos <u>sufren</u>.
+
+##### Pero ninguno parece hablar como si llevara sobre sí el <u>peso</u> de la obra.
+
+##### Y otra declaración de <u>Jesús</u> comenzó a volver repetidamente a nuestra memoria.
+
+### Mateo 16:18
+Yo edificaré Mi iglesia.
+
+#### Yo edificaré
+##### La <u>habíamos</u> observado anteriormente.
+
+##### Pero no intentamos <u>responder</u> inmediatamente.
+
+##### Simplemente continuamos <u>escuchando</u>.
+
+##### Y <u>ahora</u>, después de escuchar a los apóstoles, estas palabras parecen adquirir una nueva profundidad.
+
+## Dios da el crecimiento
+
+### 1 Corintios 3:6
+Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+
+#### Dios ha dado el crecimiento
+##### <u>Pablo</u> participó.
+
+##### <u>Apolos</u> participó.
+
+##### Pero el crecimiento es atribuido a <u>Dios</u>.
+
+### Filipenses 1:6
+Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
+
+#### el que comenzó
+##### <u>Pablo</u> habla con una profunda confianza.
+
+##### La <u>obra</u> comenzó con Otro.
+
+##### La <u>obra</u> será perfeccionada por Otro.
+
+### 1 Tesalonicenses 5:23-24
+Fiel es Aquel que los llama, el cual también lo hará.
+
+#### el cual también lo hará
+
+##### Pablo vuelve nuevamente a la fidelidad de <u>Dios</u>.
+
+### 1 Pedro 5:10
+Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
+
+#### Él mismo
+##### Pedro dirige la atención hacia <u>Dios</u>.
+
+### Hebreos 7:25
+Vive siempre para interceder por ellos.
+
+#### vive siempre
+
+##### El escritor de Hebreos presenta a <u>Cristo</u> ocupado.
+
+### Judas 24
+Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha...
+
+#### poderoso para guardarlos
+
+##### <u>Judas</u> también habla con confianza.
+
+## Una observación
+
+##### Porque todos parecen hablar de una misma <u>obra</u>.
+
+##### Todos parecen dirigir la atención hacia una <u>misma</u> Persona.
+
+##### Todos <u>trabajan</u>.
+
+##### Todos <u>participan</u>.
+
+##### Pero ninguno <u>parece</u> hablar como constructor.
+
+##### Y quizás otra declaración de <u>Jesús</u> ayuda a explicar por qué.
 > Yo edificaré Mi iglesia.
->
-> #### Yo edificaré
->
-> ##### La habíamos observado anteriormente.
->
-> ##### Pero no intentamos responder inmediatamente.
->
-> ##### Simplemente continuamos escuchando.
->
-> ##### Y ahora, después de escuchar a los apóstoles, estas palabras parecen adquirir una nueva profundidad.
->
-> ## Dios da el crecimiento
->
-> ### 1 Corintios 3:6
->
-> Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
->
-> #### Dios ha dado el crecimiento
->
-> ##### Pablo participó.
->
-> ##### Apolos participó.
->
-> ##### Pero el crecimiento es atribuido a Dios.
->
-> ### Filipenses 1:6
->
-> Estoy convencido precisamente de esto: que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
->
-> #### el que comenzó
->
-> ##### Pablo habla con una profunda confianza.
->
-> ##### La obra comenzó con Otro.
->
-> ##### La obra será perfeccionada por Otro.
->
-> ### 1 Tesalonicenses 5:23-24
->
-> Fiel es Aquel que los llama, el cual también lo hará.
->
-> #### el cual también lo hará
->
-> ##### Pablo vuelve nuevamente a la fidelidad de Dios.
->
-> ### 1 Pedro 5:10
->
-> Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
->
-> #### Él mismo
->
-> ##### Pedro dirige la atención hacia Dios.
->
-> ### Hebreos 7:25
->
-> Vive siempre para interceder por ellos.
->
-> #### vive siempre
->
-> ##### El escritor de Hebreos presenta a Cristo ocupado.
->
-> ### Judas 24
->
-> Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha...
->
-> #### poderoso para guardarlos
->
-> ##### Judas también habla con confianza.
->
-> ## Una observación
->
-> ##### Porque todos parecen hablar de una misma obra.
->
-> ##### Todos parecen dirigir la atención hacia una misma Persona.
->
-> ##### Todos trabajan.
->
-> ##### Todos participan.
->
-> ##### Pero ninguno parece hablar como constructor.
->
-> ##### Y quizás otra declaración de Jesús ayuda a explicar por qué.
->
-> > Yo edificaré Mi iglesia.
->
-> ##### Porque quizá los apóstoles realmente creían estas palabras.
->
-> ## Una pregunta
->
-> ##### Si Cristo continúa ocupado, ¿en qué parece estar ocupado?
->
-> ##### Y continuaremos escuchando.
+
+##### Porque <u>quizá</u> los apóstoles realmente creían estas palabras.
+
+## Una pregunta
+
+> Si Cristo continúa ocupado, ¿en qué parece estar ocupado?
+
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 12 - ¿QUÉ ESTÁ HACIENDO JESÚS HOY?
 
 ## Lo que los apóstoles parecen afirmar unánimemente
 
-##### Después de escuchar a los apóstoles, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles, otra pregunta comenzó a <u>surgir</u>.
 
-##### ¿Qué presenta cada uno de ellos acerca de Cristo?
+##### ¿Qué presenta cada uno de ellos <u>acerca</u> de Cristo?
 
-##### Pablo habla.
+##### <u>Pablo</u> habla.
 
-##### Pedro habla.
+##### <u>Pedro</u> habla.
 
-##### Juan habla.
+##### <u>Juan</u> habla.
 
-##### Judas habla.
+##### <u>Judas</u> habla.
 
-##### El escritor de Hebreos habla.
+##### El escritor de Hebreos <u>habla</u>.
 
-##### Y algo comenzó a llamar nuestra atención.
+##### Y algo comenzó a <u>llamar</u> nuestra atención.
 
-##### Todos parecen presentar a un Cristo ocupado.
+##### Todos parecen presentar a un <u>Cristo</u> ocupado.
 
-##### Permitiremos que hablen.
+##### Permitiremos que <u>hablen</u>.
 
 ## Pablo
 
 ### Efesios 5:25-27
-
 Cristo amó a la iglesia y se entregó a Sí mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
 #### Cristo amó
 
-##### Pablo presenta a Cristo ocupado con Su iglesia.
+##### <u>Pablo</u> presenta a Cristo ocupado con Su iglesia.
 
-##### Cristo:
-
+##### <u>Cristo</u>:
 - la amó,
 - se entregó por ella,
 - la santifica,
@@ -1103,15 +941,13 @@ Cristo amó a la iglesia y se entregó a Sí mismo por ella, para santificarla, 
 ## Pedro
 
 ### 1 Pedro 5:10
-
 Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que los llamó a Su gloria eterna en Cristo, Él mismo los perfeccionará, afirmará, fortalecerá y establecerá.
 
 #### Él mismo
 
-##### Pedro dirige la atención hacia Dios.
+##### Pedro dirige la atención hacia <u>Dios</u>.
 
-##### Él mismo:
-
+##### Él <u>mismo</u>:
 - perfeccionará,
 - afirmará,
 - fortalecerá,
@@ -1120,15 +956,13 @@ Y después de que hayan sufrido un poco de tiempo, el Dios de toda gracia, que l
 ## El escritor de Hebreos
 
 ### Hebreos 7:25
-
 Por lo cual Él también es poderoso para salvar para siempre a los que por medio de Él se acercan a Dios, puesto que vive perpetuamente para interceder por ellos.
 
 #### vive perpetuamente
 
-##### Cristo no es presentado como alguien ausente.
+##### <u>Cristo</u> no es presentado como alguien ausente.
 
-##### Él:
-
+##### <u>Él</u>:
 - vive,
 - intercede,
 - salva para siempre.
@@ -1136,316 +970,280 @@ Por lo cual Él también es poderoso para salvar para siempre a los que por medi
 ## Judas
 
 ### Judas 24
-
 Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría,
 
 #### poderoso para guardarlos
 
-##### Judas también presenta a Cristo ocupado.
+##### <u>Judas</u> también presenta a Cristo ocupado.
 
-##### Él:
-
+##### <u>Él</u>:
 - guarda,
 - y presentará a los Suyos.
 
 ## Juan
 
 ### 1 Juan 3:2
-
 Sabemos que cuando Él se manifieste, seremos semejantes a Él, porque lo veremos como Él es.
 
 #### seremos semejantes a Él
+##### <u>Juan</u> presenta una obra que todavía continúa.
 
-##### Juan presenta una obra que todavía continúa.
-
-##### Cristo permanece siendo el centro.
+##### <u>Cristo</u> permanece siendo el centro.
 
 ## Una observación
 
-##### Porque Pablo habla así.
+##### Porque <u>Pablo</u> habla así.
 
-##### Pedro habla así.
+##### <u>Pedro</u> habla así.
 
-##### Juan habla así.
+##### <u>Juan</u> habla así.
 
-##### Judas habla así.
+##### <u>Judas</u> habla así.
 
-##### El escritor de Hebreos habla así.
+##### El escritor de Hebreos <u>habla</u> así.
 
-##### Todos parecen hablar de un Cristo ocupado.
+##### Todos parecen <u>hablar</u> de un Cristo ocupado.
 
-##### Ninguno parece presentar a Cristo como alguien ausente.
+##### Ninguno <u>parece</u> presentar a Cristo como alguien ausente.
 
-##### Ninguno parece hablar como si la obra hubiera sido abandonada.
+##### Ninguno parece hablar como si la <u>obra</u> hubiera sido abandonada.
 
-##### Y otra declaración de Jesús vuelve repetidamente a nuestra memoria.
-
+##### Y otra declaración de <u>Jesús</u> vuelve repetidamente a nuestra memoria.
 > Yo edificaré Mi iglesia.
 
-##### Porque quizás los apóstoles realmente creían que Él estaba haciendo exactamente lo que prometió.
+##### Porque <u>quizás</u> los apóstoles realmente creían que Él estaba haciendo exactamente lo que prometió.
 
 ## Una pregunta
 
-##### Si Jesús continúa ocupado con Su pueblo, ¿dónde parece desarrollarse normalmente esta obra?
+##### Si Jesús continúa ocupado con Su pueblo, ¿dónde parece desarrollarse normalmente esta <u>obra</u>?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 13 - ¿CON QUIÉNES ESTÁ OCUPADO JESÚS?
 
 ## Lo que los apóstoles parecen afirmar unánimemente
 
-##### Después de escuchar a los apóstoles hablar acerca de lo que Jesús está haciendo hoy, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles hablar acerca de lo que Jesús está haciendo <u>hoy</u>, otra pregunta comenzó a surgir.
 
-##### ¿Con quiénes está ocupado?
+##### ¿Con <u>quiénes</u> está ocupado?
 
-##### ¿A quiénes ama?
+##### ¿A quiénes <u>ama</u>?
 
-##### ¿A quiénes santifica?
+##### ¿A <u>quiénes</u> santifica?
 
-##### ¿Por quiénes intercede?
+##### ¿Por <u>quiénes</u> intercede?
 
-##### ¿A quiénes preserva?
+##### ¿A <u>quiénes</u> preserva?
 
-##### Y nuevamente permitiremos que los apóstoles hablen.
+##### Y nuevamente permitiremos que los apóstoles <u>hablen</u>.
 
 ## Pablo habla de un cuerpo
 
 ### 1 Corintios 12:12
-
 Porque así como el cuerpo es uno, y tiene muchos miembros, pero todos los miembros del cuerpo, aunque son muchos, constituyen un solo cuerpo, así también es Cristo.
 
 #### un solo cuerpo
+##### <u>Pablo</u> no presenta personas aisladas.
 
-##### Pablo no presenta personas aisladas.
+##### Presenta <u>muchos</u> miembros.
 
-##### Presenta muchos miembros.
-
-##### Presenta un solo cuerpo.
+##### Presenta un <u>solo</u> cuerpo.
 
 ## Pablo habla de una esposa
 
 ### Efesios 5:25
-
 Cristo amó a la iglesia y se entregó a Sí mismo por ella.
 
 #### la iglesia
+##### Cristo <u>ama</u> a un pueblo.
 
-##### Cristo ama a un pueblo.
+##### <u>Cristo</u> se entregó por ella.
 
-##### Cristo se entregó por ella.
-
-##### Cristo continúa ocupado con ella.
+##### <u>Cristo</u> continúa ocupado con ella.
 
 ## Pablo habla de muchos hermanos
 
 ### Romanos 8:29
-
 ...para que Él sea el primogénito entre muchos hermanos.
 
 #### muchos hermanos
 
-##### Cristo no aparece solo.
+##### Cristo no aparece <u>solo</u>.
 
-##### Los creyentes son presentados como hermanos.
+##### Los creyentes <u>son</u> presentados como hermanos.
 
 ## El escritor de Hebreos habla de santos hermanos
 
 ### Hebreos 3:1
-
 Por tanto, hermanos santos, participantes del llamamiento celestial, consideren a Jesús, el Apóstol y Sumo Sacerdote de nuestra fe.
 
 #### hermanos santos
 
-##### El escritor de Hebreos también habla de hermanos.
+##### El escritor de Hebreos también <u>habla</u> de hermanos.
 
-##### La atención continúa sobre un pueblo.
+##### La atención continúa <u>sobre</u> un pueblo.
 
 ## Juan habla de hijos de Dios
 
 ### 1 Juan 3:1
-
 Miren cuán gran amor nos ha otorgado el Padre: que seamos llamados hijos de Dios. Y eso somos.
 
 #### hijos de Dios
+##### <u>Juan</u> presenta una misma realidad.
 
-##### Juan presenta una misma realidad.
-
-##### Los creyentes pertenecen a una misma familia.
+##### Los creyentes pertenecen a una <u>misma</u> familia.
 
 ## Pedro habla de una casa espiritual
 
 ### 1 Pedro 2:5
-
 También ustedes, como piedras vivas, sean edificados como casa espiritual...
 
 #### piedras vivas
+##### <u>Pedro</u> presenta personas unidas.
 
-##### Pedro presenta personas unidas.
+##### Una misma <u>casa</u>.
 
-##### Una misma casa.
-
-##### Una misma obra.
+##### Una misma <u>obra</u>.
 
 ## Una observación
 
-##### Porque nuevamente intentamos escuchar distintas voces.
+##### Porque nuevamente intentamos escuchar distintas <u>voces</u>.
 
-##### Y nuevamente encontramos una sorprendente unidad.
+##### Y nuevamente encontramos una sorprendente <u>unidad</u>.
 
-##### Pablo habla así.
+##### <u>Pablo</u> habla así.
 
-##### Pedro habla así.
+##### <u>Pedro</u> habla así.
 
-##### Juan habla así.
+##### <u>Juan</u> habla así.
 
-##### El escritor de Hebreos habla así.
+##### El escritor de Hebreos <u>habla</u> así.
 
-##### Todos parecen describir a un mismo pueblo.
+##### Todos parecen describir a un <u>mismo</u> pueblo.
 
-##### Un cuerpo.
+##### Un <u>cuerpo</u>.
 
-##### Una familia.
+##### Una <u>familia</u>.
 
-##### Hermanos.
+##### <u>Hermanos</u>.
 
-##### Hijos.
+##### <u>Hijos</u>.
 
-##### Una casa.
+##### Una <u>casa</u>.
 
-##### Porque muchos capítulos atrás escuchamos a Jesús decir:
-
+##### Porque muchos capítulos <u>atrás</u> escuchamos a Jesús decir:
 > Yo edificaré Mi iglesia.
 
-##### En aquel momento simplemente observamos Sus palabras.
+##### En aquel <u>momento</u> simplemente observamos Sus palabras.
 
-##### No sabíamos qué relación tenían con nuestra investigación.
+##### No sabíamos qué relación <u>tenían</u> con nuestra investigación.
 
-##### Pero después de escuchar a los apóstoles una y otra vez, esa declaración comenzó a adquirir una nueva profundidad.
+##### Pero después de escuchar a los apóstoles una y otra <u>vez</u>, esa declaración comenzó a adquirir una nueva profundidad.
 
-##### Porque Jesús había prometido hacerlo.
+##### Porque <u>Jesús</u> había prometido hacerlo.
 
-##### Y aquí estamos.
+##### Y <u>aquí</u> estamos.
 
-##### Escuchando a hombres que parecen convencidos de que Él continúa ocupado con Su pueblo.
+##### Escuchando a hombres que parecen convencidos de que Él continúa ocupado con Su <u>pueblo</u>.
 
 ## Una pregunta
 
-##### Si estas son las personas con las que Jesús está ocupado, ¿hacia dónde parece dirigirlas?
+##### Si estas <u>son</u> las personas con las que Jesús está ocupado, ¿hacia dónde parece dirigirlas?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 14 - ¿HACIA DÓNDE PARECE LLEVAR JESÚS A SU PUEBLO?
 
 ## Una obra que avanza hacia un «hasta»
 
-##### Después de escuchar a los apóstoles describir al pueblo con el que Jesús continúa ocupado, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles describir al pueblo con el que <u>Jesús</u> continúa ocupado, otra pregunta comenzó a surgir.
 
-##### ¿Hacia dónde parece llevarlos?
+##### <u>Interesante</u>.
 
-##### Al observar las Escrituras, comenzamos a notar algo interesante.
+##### Muy <u>interesante</u>.
 
-##### Repetidamente aparece un lenguaje orientado hacia adelante.
+##### Porque los apóstoles no solamente hablan acerca de una <u>obra</u> presente.
 
-##### Porque los apóstoles hablan de:
+##### También hablan acerca de una <u>meta</u>.
 
-- un «hasta»,
-- una presentación futura,
-- una conformidad con Cristo,
-- una plenitud,
-- una semejanza con Él.
+##### <u>Hablan</u> de algo que todavía está adelante.
 
-##### Parece que la obra no es estática.
+##### Repetidamente <u>aparece</u> un lenguaje orientado hacia un «hasta».
 
-##### Parece dirigirse hacia algo.
-
-##### Permitiremos nuevamente que las Escrituras hablen.
+##### Y permitiremos nuevamente que las Escrituras <u>hablen</u>.
 
 ## Hasta que todos lleguemos
 
 ### Efesios 4:13
-
 hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
 
 #### hasta que todos lleguemos
+##### Pablo habla de una <u>obra</u> que todavía no ha terminado.
 
-##### Pablo presenta una obra que todavía se dirige hacia algo.
-
-##### Existe un "hasta".
-
-##### La obra continúa.
-
-##### La meta todavía está adelante.
+###### <u>Existe</u> un "hasta".
+###### La <u>obra</u> continúa.
+###### La <u>meta</u> todavía permanece delante.
 
 #### la plenitud de Cristo
+##### <u>Cristo</u> continúa siendo la referencia.
 
-##### Cristo continúa siendo la medida.
-
-##### La referencia permanece en Él.
+###### La <u>medida</u> permanece en Él.
+###### La <u>madurez</u> permanece relacionada con Él.
 
 ## Hasta el fin del siglo
 
 ### Mateo 28:20
-
 Y Yo estoy con ustedes todos los días, hasta el fin del siglo.
 
 #### hasta el fin del siglo
+##### <u>Jesús</u> también habla de un "hasta".
 
-##### La presencia de Cristo acompaña Su obra.
-
-##### Cristo permanece con los Suyos.
-
-##### La obra continúa.
+###### Su <u>presencia</u> permanece.
+###### La <u>obra</u> continúa.
+###### El <u>final</u> todavía no ha llegado.
 
 ## Para presentársela a Sí mismo
 
-### Efesios 5:25-27
-
-...
+### Efesios 5:25–27
+Maridos, amen a sus mujeres, así como Cristo amó a la iglesia y se dio Él mismo por ella, para santificarla, habiéndola purificado por el lavamiento del agua con la palabra, a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera
 
 #### a fin de presentársela a Sí mismo
+##### <u>Pablo</u> habla de algo futuro.
 
-##### Pablo habla de una presentación futura.
+###### Cristo <u>ama</u> a Su iglesia.
+###### <u>Cristo</u> la santifica.
+###### <u>Cristo</u> la prepara.
 
-##### Cristo ama a Su iglesia.
-
-##### Cristo la santifica.
-
-##### Cristo la prepara.
-
-##### La obra todavía mira hacia adelante.
+##### La <u>obra</u> continúa mirando hacia adelante.
 
 ## Conformados a la imagen de Su Hijo
 
 ### Romanos 8:29
-
 Porque a los que de antemano conoció, también los predestinó a ser hechos conforme a la imagen de Su Hijo, para que Él sea el primogénito entre muchos hermanos.
 
 #### conforme a la imagen de Su Hijo
+##### <u>Cristo</u> continúa siendo la referencia.
 
-##### Cristo permanece siendo la referencia.
-
-##### Los creyentes son presentados en relación con Él.
+###### Los creyentes <u>son</u> presentados en relación con Él.
+###### La semejanza con Él permanece <u>delante</u>.
 
 ## Seremos semejantes a Él
 
 ### 1 Juan 3:2
-
 Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de ser. Pero sabemos que cuando Él se manifieste, seremos semejantes a Él, porque lo veremos como Él es.
 
 #### seremos semejantes a Él
+##### <u>Juan</u> también habla de una obra todavía no concluida.
 
-##### Juan también habla de una obra todavía no concluida.
-
-##### La semejanza con Cristo permanece delante.
+###### <u>Existe</u> un presente.
+###### <u>Existe</u> algo que todavía no se ha manifestado.
+###### La semejanza con <u>Cristo</u> permanece delante.
 
 ## Una observación
 
-##### Repetidamente encontramos un lenguaje orientado hacia adelante.
+##### Repetidamente encontramos un <u>lenguaje</u> orientado hacia adelante.
 
-##### Porque la obra parece avanzar hacia algo que todavía no ha sido plenamente alcanzado.
-
-##### Aparecen palabras como:
-
+##### Porque <u>aparecen</u> palabras como:
 - hasta,
 - plenitud,
 - madurez,
@@ -1453,857 +1251,830 @@ Amados, ahora somos hijos de Dios y aún no se ha manifestado lo que habremos de
 - conformidad,
 - semejanza.
 
-##### Y nuevamente los apóstoles parecen estar de acuerdo.
+##### Y nuevamente los apóstoles parecen <u>estar</u> de acuerdo.
 
-##### Porque Jesús había prometido hacerlo.
+##### Hablan como hombres convencidos de que la <u>obra</u> continúa.
 
-##### Y parece no haber abandonado Su obra.
+##### <u>Hablan</u> como hombres que esperan algo.
 
-##### Todavía conduce a Su pueblo.
+##### Hablan como hombres que <u>miran</u> hacia adelante.
 
-##### Todavía trabaja.
+##### Porque muchos <u>años</u> antes Jesús había dicho:
 
-##### Todavía continúa.
+##### Yo edificaré Mi <u>iglesia</u>.
 
-##### Y continuará hasta el fin del siglo.
+##### Y también <u>había</u> prometido:
+
+##### Yo estoy con ustedes todos los días, hasta el <u>fin</u> del siglo.
+
+##### Y otra pregunta comenzó a <u>surgir</u>.
 
 ## Una pregunta
 
-##### ¿Qué cosas podrían desviar esta obra de aquello hacia lo cual parece dirigirse?
+##### Si la obra continúa avanzando hacia algo, ¿qué está haciendo Jesús <u>hoy</u> entre Su pueblo?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 15 - ESCUCHEMOS AL CONSTRUCTOR
 
 ## ¿Qué está haciendo Jesús entre las iglesias?
 
-##### Después de escuchar a los apóstoles, algo comenzó a llamar nuestra atención.
+##### Después de escuchar a los apóstoles, algo comenzó a <u>llamar</u> nuestra atención.
 
-##### Todos parecían convencidos de que Cristo continúa ocupado con Su pueblo.
+##### Todos parecían convencidos de que <u>Cristo</u> continúa ocupado con Su pueblo.
 
-##### Porque muchos capítulos atrás escuchamos a Jesús decir:
-
+##### Porque muchos capítulos <u>atrás</u> escuchamos a Jesús decir:
 > Yo edificaré Mi iglesia.
 
-##### Y aquí estamos.
+##### Y <u>aquí</u> estamos.
 
-##### Entonces, por un momento, dejaremos de escuchar a los apóstoles.
+##### Entonces, por un <u>momento</u>, dejaremos de escuchar a los apóstoles.
 
-##### Y permitiremos que el Constructor mismo hable.
+##### Y permitiremos que el Constructor <u>mismo</u> hable.
 
 ## Jesús conoce
 
 ### Apocalipsis 2:2
-
 Yo conozco tus obras, tu fatiga y tu perseverancia...
 
 #### Yo conozco
+##### <u>Jesús</u> habla como alguien presente.
 
-##### Jesús habla como alguien presente.
+##### <u>Conoce</u>.
 
-##### Conoce.
+##### <u>Observa</u>.
 
-##### Observa.
-
-##### No aparece distante.
+##### No <u>aparece</u> distante.
 
 ## Jesús exhorta
 
 ### Apocalipsis 2:4–5
-
 Pero tengo esto contra ti: que has dejado tu primer amor. Recuerda, por tanto, de dónde has caído, y arrepiéntete...
 
 #### tengo esto contra ti
+##### <u>Jesús</u> continúa hablando a Su pueblo.
 
-##### Jesús continúa hablando a Su pueblo.
+##### <u>Corrige</u>.
 
-##### Corrige.
-
-##### Llama al arrepentimiento.
+##### <u>Llama</u> al arrepentimiento.
 
 #### arrepiéntete
+##### <u>Jesús</u> no aparece indiferente.
 
-##### Jesús no aparece indiferente.
-
-##### Continúa ocupado con las iglesias.
+##### Continúa <u>ocupado</u> con las iglesias.
 
 ## Jesús disciplina
 
 ### Apocalipsis 3:19
-
 Yo reprendo y disciplino a todos los que amo; sé, pues, celoso y arrepiéntete.
 
 #### Yo reprendo y disciplino
+##### <u>Jesús</u> continúa actuando.
 
-##### Jesús continúa actuando.
+##### Su <u>amor</u> permanece.
 
-##### Su amor permanece.
-
-##### Su atención permanece.
+##### Su <u>atención</u> permanece.
 
 ## Jesús promete
 
 ### Apocalipsis 2:7
-
 Al vencedor le daré a comer del árbol de la vida.
 
 ### Apocalipsis 2:10
-
 Sé fiel hasta la muerte, y Yo te daré la corona de la vida.
 
 ### Apocalipsis 3:21
-
 Al vencedor le concederé sentarse conmigo en Mi trono.
 
 #### Yo daré
+##### <u>Jesús</u> continúa hablando hacia el futuro.
 
-##### Jesús continúa hablando hacia el futuro.
+##### Sus <u>promesas</u> permanecen.
 
-##### Sus promesas permanecen.
-
-##### La obra todavía no ha concluido.
+##### La <u>obra</u> todavía no ha concluido.
 
 ## Una observación
 
-##### Jesús no parece hablar como alguien ausente.
+##### <u>Jesús</u> no parece hablar como alguien ausente.
 
-##### Tampoco parece hablar como alguien retirado.
+##### Tampoco <u>parece</u> hablar como alguien retirado.
 
-##### Continúa:
+##### <u>Continúa</u>:
 
 - conociendo,
 - corrigiendo,
 - disciplinando,
 - prometiendo.
 
-##### Y Sus palabras continúan llenas de:
-
+##### Y Sus palabras continúan <u>llenas</u> de:
 > Yo conozco.
-
 > Yo reprendo.
-
 > Yo disciplino.
-
 > Yo daré.
-
 > Yo concederé.
 
-##### Porque Él había prometido:
-
+##### Porque Él <u>había</u> prometido:
 > Yo edificaré Mi iglesia.
 
-##### Y parece no haber abandonado Su obra.
+##### Y parece no haber abandonado Su <u>obra</u>.
 
 ## Una pregunta
 
-##### Si Cristo continúa ocupado con Su pueblo, ¿qué cosas podrían desviarlo de aquello hacia lo cual Él lo conduce?
+##### Si Cristo continúa ocupado con Su pueblo, ¿qué <u>cosas</u> podrían desviarlo de aquello hacia lo cual Él lo conduce?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 16 - AMENAZAS A LA OBRA DEL CONSTRUCTOR
 
 ## El Constructor también advierte
 
-##### Después de escuchar al Constructor, otra observación comenzó a surgir.
+##### Después de escuchar al Constructor, otra observación comenzó a <u>surgir</u>.
 
-##### Porque Jesús no solamente promete.
+##### Porque <u>Jesús</u> no solamente promete.
 
-##### También corrige.
+##### También <u>corrige</u>.
 
-##### También reprende.
+##### También <u>reprende</u>.
 
-##### También llama al arrepentimiento.
+##### También <u>llama</u> al arrepentimiento.
 
-##### Y al volver a escuchar a los apóstoles, comenzamos a notar algo parecido.
+##### Y al volver a escuchar a los apóstoles, comenzamos a <u>notar</u> algo parecido.
 
-##### Ellos también:
-
+##### <u>Ellos</u> también:
 - advierten,
 - corrigen,
 - exhortan,
 - llaman al arrepentimiento.
 
-##### Porque habían estado con Jesús.
+##### Porque habían estado con <u>Jesús</u>.
 
-##### Y parecen asumir que no todas las influencias favorecen aquello hacia lo cual Cristo conduce a Su pueblo.
+##### Y parecen asumir que no <u>todas</u> las influencias favorecen aquello hacia lo cual Cristo conduce a Su pueblo.
 
-##### Permitiremos nuevamente que las Escrituras hablen.
+##### Permitiremos nuevamente que las Escrituras <u>hablen</u>.
 
 ## Las divisiones desvían la atención
 
 ### 1 Corintios 1:12
-
 Quiero decir, que cada uno de ustedes dice: «Yo soy de Pablo», «Yo de Apolos», «Yo de Cefas», y «Yo de Cristo».
 
 #### Yo soy de Pablo
+##### Los hombres pueden ocupar un <u>lugar</u> que no les corresponde.
 
-##### Los hombres pueden ocupar un lugar que no les corresponde.
+##### La atención <u>puede</u> apartarse de Cristo.
 
-##### La atención puede apartarse de Cristo.
-
-##### Las divisiones dañan aquello que Él está edificando.
+##### Las divisiones <u>dañan</u> aquello que Él está edificando.
 
 ## La sabiduría humana desplaza la sabiduría de Dios
 
 ### 1 Corintios 3:18-19
-
 Que nadie se engañe. Si alguno entre ustedes cree ser sabio en este siglo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios.
 
 #### la sabiduría de este mundo
+##### Los hombres <u>pueden</u> confiar en sí mismos.
 
-##### Los hombres pueden confiar en sí mismos.
+##### Los métodos humanos no sustituyen la <u>obra</u> de Dios.
 
-##### Los métodos humanos no sustituyen la obra de Dios.
-
-##### La gloria pertenece a Dios.
+##### La gloria pertenece a <u>Dios</u>.
 
 ## La inmadurez impide el crecimiento
 
 ### Efesios 4:14
-
 para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina.
 
 #### ya no seamos niños
+##### Los creyentes <u>pueden</u> permanecer inmaduros.
 
-##### Los creyentes pueden permanecer inmaduros.
+##### La madurez continúa <u>siendo</u> importante.
 
-##### La madurez continúa siendo importante.
-
-##### Cristo conduce a Su pueblo hacia otra cosa.
+##### Cristo conduce a Su pueblo hacia otra <u>cosa</u>.
 
 ## Las falsas enseñanzas arrastran tras los hombres
 
 ### Hechos 20:29-30
-
 Sé que después de mi partida vendrán lobos feroces entre ustedes que no perdonarán el rebaño; y que de entre ustedes mismos se levantarán algunos hablando cosas perversas para arrastrar a los discípulos tras ellos.
 
 #### arrastrar a los discípulos tras ellos
+##### El peligro <u>puede</u> venir desde afuera.
 
-##### El peligro puede venir desde afuera.
+##### El peligro también <u>puede</u> surgir desde dentro.
 
-##### El peligro también puede surgir desde dentro.
-
-##### Los hombres pueden buscar seguidores para sí mismos.
+##### Los hombres <u>pueden</u> buscar seguidores para sí mismos.
 
 ## El pecado afecta a otros
 
 ### 1 Corintios 5:6
-
 ¿No saben que un poco de levadura fermenta toda la masa?
 
 #### un poco de levadura
+##### La <u>vida</u> del cuerpo no es independiente.
 
-##### La vida del cuerpo no es independiente.
+##### El pecado afecta a <u>otros</u>.
 
-##### El pecado afecta a otros.
-
-##### La santidad continúa siendo importante.
+##### La santidad continúa <u>siendo</u> importante.
 
 ## Una observación
 
-##### Porque el Constructor no solamente promete.
+##### Porque el Constructor no solamente <u>promete</u>.
 
-##### También advierte.
+##### También <u>advierte</u>.
 
-##### Y Sus siervos hacen lo mismo.
+##### Y Sus siervos <u>hacen</u> lo mismo.
 
-##### No parecen hablar como constructores ansiosos.
+##### No parecen <u>hablar</u> como constructores ansiosos.
 
-##### Parecen proteger aquello que Cristo mismo continúa edificando.
+##### Parecen proteger aquello que Cristo <u>mismo</u> continúa edificando.
 
 ## Una pregunta
 
-##### Si Cristo continúa edificando Su iglesia, ¿cómo participan Sus siervos en esta obra?
+##### Si Cristo continúa edificando Su iglesia, ¿<u>cómo</u> participan Sus siervos en esta obra?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 17 - VOLVAMOS A ESCUCHAR A LOS APÓSTOLES
 
 ## Porque habían estado con Jesús
 
-##### Después de escuchar al Constructor, otra observación comenzó a surgir.
+##### Después de escuchar al Constructor, otra observación comenzó a <u>surgir</u>.
 
-##### Porque al volver a los apóstoles, comenzamos a notar algo.
+##### Porque al volver a los apóstoles, comenzamos a <u>notar</u> algo.
 
-##### Ellos hablan como Él.
+##### Ellos <u>hablan</u> como Él.
 
-##### Ellos aman como Él.
+##### Ellos <u>aman</u> como Él.
 
-##### Ellos advierten como Él.
+##### Ellos <u>advierten</u> como Él.
 
-##### Ellos exhortan como Él.
+##### Ellos <u>exhortan</u> como Él.
 
-##### Ellos vuelven continuamente a Cristo.
+##### Ellos vuelven continuamente a <u>Cristo</u>.
 
-##### Y permitiremos que las Escrituras hablen.
+##### Y permitiremos que las Escrituras <u>hablen</u>.
 
 ## Habían estado con Jesús
 
 ### Hechos 4:13
-
 Entonces viendo la confianza de Pedro y de Juan, y dándose cuenta de que eran hombres sin letras y sin preparación, se maravillaban, y reconocían que ellos habían estado con Jesús.
 
 #### habían estado con Jesús
+##### Los hombres reconocían algo en Pedro y <u>Juan</u>.
 
-##### Los hombres reconocían algo en Pedro y Juan.
+##### No <u>eran</u> conocidos por su preparación.
 
-##### No eran conocidos por su preparación.
+##### No <u>eran</u> conocidos por su educación.
 
-##### No eran conocidos por su educación.
+##### <u>Eran</u> reconocidos por una relación.
 
-##### Eran reconocidos por una relación.
-
-##### Habían estado con Jesús.
+##### Habían estado con <u>Jesús</u>.
 
 ## Los apóstoles no se cansan de recordar
 
 ### Filipenses 3:1
-
 Por lo demás, hermanos míos, regocíjense en el Señor. A mí no me es molesto escribirles las mismas cosas, y para ustedes es motivo de seguridad.
 
 #### las mismas cosas
+##### <u>Pablo</u> no busca novedades.
 
-##### Pablo no busca novedades.
+##### No le <u>molesta</u> repetir.
 
-##### No le molesta repetir.
-
-##### Considera que es para seguridad de ellos.
+##### <u>Considera</u> que es para seguridad de ellos.
 
 ## Pedro no se cansa de recordar
 
 ### 2 Pedro 1:12
-
 Por tanto, siempre estaré listo para recordarles estas cosas, aunque ustedes ya las sepan y hayan sido confirmados en la verdad que está presente en ustedes.
 
 #### recordarles estas cosas
+##### Pedro <u>sabe</u> que ellos ya las conocen.
 
-##### Pedro sabe que ellos ya las conocen.
+##### Pero considera necesario <u>recordar</u>.
 
-##### Pero considera necesario recordar.
-
-##### La verdad continúa siendo importante.
+##### La <u>verdad</u> continúa siendo importante.
 
 ### 2 Pedro 1:13
-
 También considero justo, mientras esté en este cuerpo, estimularlos recordándoles estas cosas,
 
 #### estimularlos recordándoles
+##### <u>Pedro</u> no solamente informa.
 
-##### Pedro no solamente informa.
+##### <u>Procura</u> despertar.
 
-##### Procura despertar.
-
-##### Procura estimular.
+##### <u>Procura</u> estimular.
 
 ## El escritor de Hebreos dirige la atención hacia Jesús
 
 ### Hebreos 3:1
-
 Por tanto, hermanos santos, participantes del llamamiento celestial, consideren a Jesús, el Apóstol y Sumo Sacerdote de nuestra fe.
 
 #### consideren a Jesús
 
-##### La atención vuelve nuevamente a Cristo.
+##### La atención <u>vuelve</u> nuevamente a Cristo.
 
-##### Los creyentes son dirigidos hacia Él.
+##### Los creyentes <u>son</u> dirigidos hacia Él.
 
 ### Hebreos 12:2
-
 puestos los ojos en Jesús, el autor y consumador de la fe...
 
 #### puestos los ojos en Jesús
+##### La <u>mirada</u> continúa dirigida hacia Él.
 
-##### La mirada continúa dirigida hacia Él.
-
-##### Cristo permanece en el centro.
+##### <u>Cristo</u> permanece en el centro.
 
 ## Una observación
 
-##### Porque después de escuchar al Constructor, volvemos a Sus siervos.
+##### Porque <u>después</u> de escuchar al Constructor, volvemos a Sus siervos.
 
-##### Y comenzamos a entenderlos mejor.
+##### Y comenzamos a entenderlos <u>mejor</u>.
 
-##### Con razón Pablo insiste.
+##### Con <u>razón</u> Pablo insiste.
 
-##### Con razón Pedro recuerda.
+##### Con <u>razón</u> Pedro recuerda.
 
-##### Con razón Hebreos dirige la mirada hacia Jesús.
+##### Con <u>razón</u> Hebreos dirige la mirada hacia Jesús.
 
-##### Con razón Juan llama a permanecer en Él.
+##### Con razón <u>Juan</u> llama a permanecer en Él.
 
-##### Habían estado con Jesús.
+##### Habían estado con <u>Jesús</u>.
 
-##### Y otra observación comenzó a surgir.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### Ellos mismos parecen ser evidencia viva de aquello que desean transmitir.
+##### Ellos mismos parecen ser evidencia <u>viva</u> de aquello que desean transmitir.
 
-##### No solamente hablan acerca de Cristo.
+##### No solamente <u>hablan</u> acerca de Cristo.
 
-##### Ellos habían estado con Él.
+##### Ellos <u>habían</u> estado con Él.
 
-##### Y buscan dirigir a otros hacia Él.
+##### Y buscan dirigir a <u>otros</u> hacia Él.
 
 ## Una pregunta
 
-##### Si los apóstoles habían estado con Jesús, ¿qué es aquello que desean transmitir a las iglesias?
+##### Si los apóstoles habían estado con <u>Jesús</u>, ¿qué es aquello que desean transmitir a las iglesias?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
-# CAPÍTULO 18 - ERA NECESARIO
+# CAPÍTULO 18 – ¿POR QUÉ ENSEÑAN TANTO LOS APÓSTOLES?
 
 ## Según las Escrituras
 
-##### Después de volver a escuchar a los apóstoles, otra observación comenzó a surgir.
+##### Después de escuchar a los apóstoles, otra observación comenzó a <u>surgir</u>.
 
-##### Porque ellos parecen volver constantemente al mismo lugar.
+##### Porque ellos parecen volver constantemente al <u>mismo</u> lugar.
 
-##### Pero no porque estén repitiendo una fórmula.
+##### Pero no porque <u>estén</u> repitiendo una fórmula.
 
-##### Parecen volver a aquello que Jesús mismo comenzó a mostrar.
+##### Y tampoco porque <u>hayan</u> inventado una tradición.
 
-##### Y permitiremos que las Escrituras hablen.
+##### Parecen volver a aquello que <u>Jesús</u> mismo comenzó a mostrar.
 
-------
+##### Y otra observación comenzó a <u>surgir</u>.
+
+##### <u>Jesús</u> también parecía volver constantemente al mismo lugar.
+
+##### ¿<u>Por</u> qué?
+##### Permitiremos nuevamente que las Escrituras <u>hablen</u>.
+
+## Jesús comenzó a mostrar
 
 ### Mateo 16:21
-
 Desde entonces Jesús comenzó a mostrar a Sus discípulos que debía ir a Jerusalén, sufrir muchas cosas, ser muerto y resucitar al tercer día.
 
 #### debía
+##### <u>Jesús</u> habla de una necesidad.
 
-##### Jesús habla de una necesidad.
+##### No presenta un <u>plan</u> alternativo.
 
-##### No presenta un plan alternativo.
+##### Comienza a mostrar aquello que <u>debía</u> ocurrir.
 
-##### Comienza a mostrar aquello que debía ocurrir.
-
-------
+## ¿No era necesario?
 
 ### Lucas 24:26
-
 ¿No era necesario que el Cristo padeciera todas estas cosas y entrara en Su gloria?
 
 #### era necesario
+##### <u>Jesús</u> continúa después de Su resurrección.
 
-##### Jesús continúa después de Su resurrección.
+##### La <u>necesidad</u> permanece.
 
-##### La necesidad permanece.
+##### Los acontecimientos habían ocurrido conforme al propósito de <u>Dios</u>.
 
-##### Los acontecimientos habían ocurrido conforme al propósito de Dios.
-
-------
+## Lo referente a Él
 
 ### Lucas 24:27
-
 Comenzando por Moisés y continuando con todos los profetas, les explicó lo referente a Él en todas las Escrituras.
 
 #### lo referente a Él
+##### <u>Jesús</u> dirige la atención hacia las Escrituras.
 
-##### Jesús dirige la atención hacia las Escrituras.
+##### Y dirige las Escrituras hacia Sí <u>mismo</u>.
 
-##### Y dirige las Escrituras hacia Sí mismo.
-
-------
+## Era necesario que se cumpliera
 
 ### Lucas 24:44
-
 Era necesario que se cumpliera todo lo que sobre Mí está escrito en la Ley de Moisés, los Profetas y los Salmos.
 
 #### era necesario
+##### Jesús relaciona Su <u>obra</u> con aquello que estaba escrito.
 
-##### Jesús relaciona Su obra con aquello que estaba escrito.
+##### La atención permanece <u>sobre</u> Él.
 
-##### La atención permanece sobre Él.
-
-------
+## Lo mismo que recibí
 
 ### 1 Corintios 15:1–4
-
-Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras; que fue sepultado y que resucitó al tercer día, conforme a las Escrituras.
+Porque yo les entregué en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados conforme a las Escrituras; que fue sepultado y que resucitó al tercer día conforme a las Escrituras.
 
 #### conforme a las Escrituras
+##### <u>Pablo</u> no presenta algo nuevo.
 
-##### Pablo no presenta algo nuevo.
+##### Continúa anunciando aquello que <u>recibió</u>.
 
-##### Continúa anunciando aquello que recibió.
-
-##### Cristo y Su obra permanecen en el centro.
-
-------
+##### Cristo y Su <u>obra</u> permanecen en el centro.
 
 ## Una observación
 
-##### Jesús comenzó a mostrar aquello que era necesario.
+##### <u>Jesús</u> comenzó a mostrar aquello que era necesario.
 
-##### Después de Su resurrección continuó explicando las Escrituras.
+##### <u>Después</u> de Su resurrección continuó explicando las Escrituras.
 
-##### Los apóstoles continuaron haciendo lo mismo.
+##### Los apóstoles continuaron haciendo lo <u>mismo</u>.
 
-##### Repetidamente vuelven al mismo lugar.
+##### Repetidamente vuelven al <u>mismo</u> lugar.
 
-##### No porque no tengan nada más que decir.
+##### No porque no tengan <u>nada</u> más que decir.
 
-##### Sino porque aquello que Jesús comenzó a mostrar nunca dejó de ser necesario.
+##### <u>Sino</u> porque aquello que Jesús comenzó a mostrar nunca dejó de ser necesario.
 
-##### Cristo murió.
+##### Cristo <u>murió</u>.
 
-##### Cristo fue sepultado.
+##### <u>Cristo</u> fue sepultado.
 
-##### Cristo resucitó.
+##### <u>Cristo</u> resucitó.
+##### Todo <u>ocurrió</u> conforme a las Escrituras.
 
-##### Todo ocurrió según las Escrituras.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### Y otra observación comenzó a surgir.
+##### Los creyentes no <u>parecen</u> avanzar alejándose de aquello que recibieron.
 
-##### Los creyentes no parecen avanzar alejándose de aquello que recibieron.
+##### Parecen avanzar profundizando en <u>ello</u>.
 
-##### Parecen avanzar profundizando en ello.
-
-##### Porque aquello que era necesario continúa siendo necesario.
+##### Porque aquello que era necesario continúa <u>siendo</u> necesario.
 
 ## Una pregunta
 
-##### Si aquello que era necesario continúa ocupando un lugar tan importante, ¿por qué la iglesia es un lugar tan extraordinario para participar?
+##### Si aquello que era necesario continúa ocupando un lugar <u>tan</u> importante, ¿por qué la iglesia es un lugar tan extraordinario para participar?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 19 - ¿POR QUÉ LA IGLESIA ES UN LUGAR TAN EXTRAORDINARIO PARA PARTICIPAR?
 
-## Muchas cosas solamente pueden ser vividas con otros
+## Un cuerpo
 
-##### Después de observar cómo Jesús y los apóstoles vuelven repetidamente al mismo lugar, otra pregunta comenzó a surgir.
+### Romanos 12:4–5
+Así como en un cuerpo tenemos muchos miembros, y no todos los miembros tienen la misma función, así nosotros, que somos muchos, somos un cuerpo en Cristo, e individualmente miembros los unos de los otros.
 
-##### Porque aquello que era necesario según las Escrituras no es vivido normalmente por creyentes aislados.
+#### miembros los unos de los otros
+##### <u>Pablo</u> describe una relación.
+- No viven aislados.
+- Pertenecen unos a otros.
+- Participan juntos.
 
-##### Los apóstoles hablan constantemente acerca de:
+##### La <u>vida</u> es compartida.
 
+## La familia de Dios
+
+### Efesios 2:19
+Ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
+
+#### la familia de Dios
+##### Los creyentes no <u>aparecen</u> como individuos aislados.
+- Pertenecen a una misma familia.
+- Comparten una misma esperanza.
+- Comparten una misma vida.
+
+##### <u>Cristo</u> reunió un pueblo.
+
+## La comunión
+
+### 1 Juan 1:3
+Lo que hemos visto y oído les proclamamos también a ustedes, para que también ustedes tengan comunión con nosotros; y en verdad nuestra comunión es con el Padre y con Su Hijo Jesucristo.
+
+#### comunión con nosotros
+##### <u>Juan</u> relaciona dos realidades.
+- Comunión con Dios.
+- Comunión con otros.
+
+##### <u>Ambas</u> aparecen juntas.
+
+## Lleven los unos las cargas de los otros
+
+### Gálatas 6:2
+Lleven los unos las cargas de los otros, y cumplan así la ley de Cristo.
+
+#### los unos las cargas de los otros
+##### Muchas <u>cosas</u> requieren personas reales.
+- Servir.
+- Animar.
+- Ayudar.
+- Sostener.
+
+##### La participación ocurre con <u>otros</u>.
+
+## Considerémonos unos a otros
+
+### Hebreos 10:24–25
+Considerémonos unos a otros para estimularnos al amor y a las buenas obras, no dejando de congregarnos.
+
+#### considerémonos unos a otros
+##### La <u>vida</u> cristiana no es presentada como una experiencia aislada.
+- Exhortar.
+- Estimular.
+- Reunirse.
+- Animarse.
+
+##### <u>Cristo</u> reunió un pueblo.
+
+## Una observación
+
+##### Los apóstoles no <u>parecen</u> describir creyentes aislados.
+
+##### <u>Hablan</u> acerca de:
 - un cuerpo,
 - una familia,
-- una casa,
 - una comunión,
-- hermanos,
-- unos a otros.
+- unos a otros,
+- miembros,
+- hermanos.
 
-##### Y otra pregunta comenzó a surgir.
+##### Porque muchas <u>cosas</u> solamente pueden ser vividas con otros.
 
-##### ¿Por qué?
+##### <u>Amar</u>.
+##### <u>Servir</u>.
+##### <u>Perdonar</u>.
+##### <u>Llevar</u> cargas.
 
-##### ¿Por qué Cristo no presenta normalmente la vida cristiana como una experiencia aislada?
+##### <u>Animar</u>.
+##### <u>Soportar</u>.
+##### <u>Orar</u>.
+##### <u>Enseñar</u>.
 
-##### ¿Por qué un cuerpo?
+##### <u>Compartir</u>.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### ¿Por qué una familia?
+##### La iglesia no <u>parece</u> existir solamente para reunir personas.
+##### Parece ser el lugar donde Cristo permite que muchas cosas <u>sean</u> vividas juntos.
 
-##### ¿Por qué tantos unos a otros?
+## Una pregunta
 
-##### Porque muchas de las cosas que Cristo valora parecen requerir personas reales.
+##### Si la iglesia es el lugar donde muchas cosas <u>son</u> vividas juntos, ¿cómo participan los creyentes en la obra continua de Cristo?
 
-##### Amar.
-
-##### Servir.
-
-##### Perdonar.
-
-##### Llevar cargas.
-
-##### Animar.
-
-##### Soportar.
-
-##### Orar.
-
-##### Enseñar.
-
-##### Compartir.
-
-##### Y permitiremos nuevamente que los apóstoles hablen.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 20 - PARTICIPANDO EN CRISTO
 
 ## El mismo Cristo
 
-##### Después de observar que aquello que era necesario según las Escrituras continúa ocupando el centro, otra pregunta comenzó a surgir.
+##### Después de observar que aquello que era necesario <u>según</u> las Escrituras continúa ocupando el centro, otra pregunta comenzó a surgir.
 
-##### Porque los apóstoles no parecen introducir un segundo medio.
+##### Porque los apóstoles no parecen introducir un segundo <u>medio</u>.
 
-##### No parecen decir:
+##### No parecen <u>decir</u>:
 
-##### Crean en Cristo para ser salvos, y luego busquen otra cosa para crecer.
+##### Crean en Cristo para ser salvos, y luego busquen otra <u>cosa</u> para crecer.
 
-##### Más bien, continúan llevando a los creyentes hacia Cristo.
+##### Más <u>bien</u>, continúan llevando a los creyentes hacia Cristo.
 
-##### Y otra pregunta comenzó a surgir.
+##### Y otra pregunta comenzó a <u>surgir</u>.
 
-##### ¿Por medio de qué participan los creyentes en la obra continua de Cristo?
+##### ¿Por medio de qué participan los creyentes en la <u>obra</u> continua de Cristo?
 
-##### ¿Presentan los apóstoles un segundo medio después de la salvación?
+##### ¿Presentan los apóstoles un segundo <u>medio</u> después de la salvación?
 
-##### ¿O continúan llevando a los creyentes más profundamente al mismo Cristo?
+##### ¿O continúan llevando a los creyentes más profundamente al <u>mismo</u> Cristo?
 
-##### Permitiremos nuevamente que hablen los apóstoles.
+##### Permitiremos nuevamente que <u>hablen</u> los apóstoles.
 
 ## Unidos a Él
 
 ### Romanos 6:3–5
-
 Todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en Su muerte... hemos sido sepultados con Él... hemos sido unidos a Él en la semejanza de Su resurrección.
 
 #### unidos a Él
 
-##### Pablo continúa llevando a los creyentes hacia Cristo.
+##### <u>Pablo</u> continúa llevando a los creyentes hacia Cristo.
 
-##### La participación aparece ligada a Él.
+##### La participación aparece <u>ligada</u> a Él.
 
-##### La vida se entiende en relación con Él.
+##### La <u>vida</u> se entiende en relación con Él.
 
 ## Con Él
 
 ### Romanos 6:6
-
 Nuestro viejo hombre fue crucificado con Él.
 
 #### con Él
 
-##### La cruz continúa ocupando el centro.
+##### La <u>cruz</u> continúa ocupando el centro.
 
-##### Pablo describe al creyente en relación con Cristo.
+##### <u>Pablo</u> describe al creyente en relación con Cristo.
 
-##### La identidad se entiende desde Él.
+##### La identidad se <u>entiende</u> desde Él.
 
 ## Vivos para Dios en Cristo Jesús
 
 ### Romanos 6:11
-
 Considérense muertos para el pecado, pero vivos para Dios en Cristo Jesús.
 
 #### en Cristo Jesús
 
-##### La vida continúa siendo entendida desde Cristo.
+##### La <u>vida</u> continúa siendo entendida desde Cristo.
 
-##### Los creyentes viven para Dios en Él.
+##### Los creyentes viven para <u>Dios</u> en Él.
 
-##### La participación permanece relacionada con Él.
+##### La participación <u>permanece</u> relacionada con Él.
 
 ## Sepultados y resucitados con Él
 
 ### Colosenses 2:12
-
 Habiendo sido sepultados con Él en el bautismo, en el cual también han resucitado con Él por la fe en la acción del poder de Dios.
 
 #### con Él
+##### <u>Muerte</u> con Él.
 
-##### Muerte con Él.
+##### <u>Sepultura</u> con Él.
 
-##### Sepultura con Él.
+##### <u>Resurrección</u> con Él.
 
-##### Resurrección con Él.
-
-##### El centro no cambia.
+##### El <u>centro</u> no cambia.
 
 ## Cristo vive en mí
 
 ### Gálatas 2:20
-
 Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí.
 
 #### Cristo vive en mí
+##### <u>Cristo</u> permanece en el centro.
 
-##### Cristo permanece en el centro.
+##### La <u>vida</u> del creyente está ligada a Él.
 
-##### La vida del creyente está ligada a Él.
-
-##### La fe continúa puesta en el Hijo de Dios.
+##### La fe continúa puesta en el <u>Hijo</u> de Dios.
 
 ## Conocerlo
 
 ### Filipenses 3:10
-
 A fin de conocerlo, y el poder de Su resurrección y la participación en Sus padecimientos.
 
 #### conocerlo
+##### La <u>meta</u> continúa siendo Cristo.
 
-##### La meta continúa siendo Cristo.
+##### La participación se <u>relaciona</u> con conocerlo.
 
-##### La participación se relaciona con conocerlo.
-
-##### La resurrección y los padecimientos permanecen unidos.
+##### La resurrección y los padecimientos permanecen <u>unidos</u>.
 
 ## Una observación
 
-##### Los apóstoles no parecen introducir un segundo medio.
+##### Los apóstoles no parecen introducir un segundo <u>medio</u>.
 
-##### No dicen:
+##### No <u>dicen</u>:
 
-##### Cree en Cristo para ser salvo y luego confía en ti mismo para crecer.
+##### <u>Cree</u> en Cristo para ser salvo y luego confía en ti mismo para crecer.
 
-##### Ni tampoco:
+##### Ni <u>tampoco</u>:
 
-##### Comienza con Cristo y luego avanza hacia algo más profundo.
+##### Comienza con Cristo y <u>luego</u> avanza hacia algo más profundo.
 
-##### Más bien, continuamente vuelven a llevar a los creyentes hacia Él.
+##### Más <u>bien</u>, continuamente vuelven a llevar a los creyentes hacia Él.
 
-##### Hacia Su muerte.
+##### Hacia Su <u>muerte</u>.
 
-##### Hacia Su resurrección.
+##### Hacia Su <u>resurrección</u>.
 
-##### Hacia Su vida.
+##### Hacia Su <u>vida</u>.
 
-##### Hacia Su amor.
+##### Hacia Su <u>amor</u>.
 
-##### Hacia Él mismo.
+##### Hacia Él <u>mismo</u>.
 
-##### El mismo Cristo que salva es el Cristo en quien los creyentes viven.
+##### El <u>mismo</u> Cristo que salva es el Cristo en quien los creyentes viven.
 
-##### La misma cruz.
+##### La misma <u>cruz</u>.
 
-##### La misma resurrección.
+##### La <u>misma</u> resurrección.
 
-##### La misma gracia.
+##### La <u>misma</u> gracia.
 
-##### El mismo Señor.
+##### El <u>mismo</u> Señor.
 
-##### Y quizás por eso los apóstoles nunca parecen graduarse de Cristo crucificado.
+##### Y quizás por eso los apóstoles <u>nunca</u> parecen graduarse de Cristo crucificado.
 
 ## Una pregunta
 
-##### Si la participación ocurre en Cristo, ¿qué significa conocerlo?
+##### Si la participación <u>ocurre</u> en Cristo, ¿qué significa conocerlo?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 21 - CONOCIENDO A CRISTO
 
 ## La meta continúa siendo una Persona
 
-##### Después de observar que los creyentes participan en Cristo, otra pregunta comenzó a surgir.
+##### Después de observar que los creyentes participan en <u>Cristo</u>, otra pregunta comenzó a surgir.
 
-##### Porque la participación parece dirigirse hacia algo.
+##### Porque la participación <u>parece</u> dirigirse hacia algo.
 
-##### ¿Hacia dónde?
+##### ¿Hacia <u>dónde</u>?
 
-##### ¿Cuál es la meta?
+##### ¿<u>Cuál</u> es la meta?
 
-##### ¿Qué esperan finalmente los apóstoles para las iglesias?
+##### ¿Qué <u>esperan</u> finalmente los apóstoles para las iglesias?
 
-##### Y permitiremos nuevamente que hablen.
-
-------
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## Conocerlo
 
 ### Filipenses 3:8–10
-
 Considero todas las cosas como pérdida por razón del incomparable valor de conocer a Cristo Jesús, mi Señor... a fin de conocerlo.
 
 #### conocerlo
+##### <u>Pablo</u> establece una prioridad.
 
-##### Pablo establece una prioridad.
+##### Cristo <u>posee</u> un valor incomparable.
 
-##### Cristo posee un valor incomparable.
-
-##### La meta continúa siendo Cristo.
-
-------
+##### La <u>meta</u> continúa siendo Cristo.
 
 ## El amor de Cristo
 
 ### Efesios 3:17–19
-
 Y conocer el amor de Cristo que sobrepasa el conocimiento.
 
 #### conocer el amor de Cristo
+##### Pablo <u>ora</u> por algo relacionado con Cristo mismo.
 
-##### Pablo ora por algo relacionado con Cristo mismo.
+##### El <u>amor</u> de Cristo ocupa el centro.
 
-##### El amor de Cristo ocupa el centro.
+##### La <u>plenitud</u> permanece relacionada con Él.
 
-##### La plenitud permanece relacionada con Él.
 
-------
 
 ## Crezcan
 
 ### 2 Pedro 3:18
-
 Crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.
 
 #### el conocimiento de nuestro Señor
+##### <u>Pedro</u> dirige la atención hacia Cristo.
 
-##### Pedro dirige la atención hacia Cristo.
+##### El crecimiento <u>continúa</u>.
 
-##### El crecimiento continúa.
-
-##### Cristo permanece en el centro.
-
-------
+##### <u>Cristo</u> permanece en el centro.
 
 ## Permanezca
 
 ### 1 Juan 2:24
-
 Permanezca en ustedes lo que oyeron desde el principio.
 
 #### permanezca
+##### <u>Juan</u> insiste en permanecer.
 
-##### Juan insiste en permanecer.
+##### Permanecer en el <u>Hijo</u>.
 
-##### Permanecer en el Hijo.
+##### Permanecer en el <u>Padre</u>.
 
-##### Permanecer en el Padre.
-
-##### Permanecer en lo oído desde el principio.
-
-------
+##### Permanecer en lo <u>oído</u> desde el principio.
 
 ### 1 Juan 5:20
-
 Estamos en Aquel que es verdadero, en Su Hijo Jesucristo.
 
 #### estamos en Él
+##### <u>Juan</u> describe una realidad presente.
 
-##### Juan describe una realidad presente.
+##### Los creyentes <u>están</u> en Cristo.
 
-##### Los creyentes están en Cristo.
-
-##### El conocimiento permanece relacionado con Él.
-
-------
+##### El conocimiento <u>permanece</u> relacionado con Él.
 
 ## Puestos los ojos en Jesús
 
 ### Hebreos 12:2
-
 Puestos los ojos en Jesús.
 
 #### puestos los ojos en Jesús
+##### La perseverancia <u>ocurre</u> mirando a Cristo.
 
-##### La perseverancia ocurre mirando a Cristo.
+##### <u>Jesús</u> es considerado.
 
-##### Jesús es considerado.
-
-##### Jesús permanece ocupando el centro.
-
-------
+##### <u>Jesús</u> permanece ocupando el centro.
 
 ### Colosenses 1:28
-
 A fin de poder presentar a todo hombre perfecto en Cristo.
 
 #### en Cristo
+##### La madurez permanece relacionada con <u>Cristo</u>.
 
-##### La madurez permanece relacionada con Cristo.
+##### <u>Cristo</u> es proclamado.
 
-##### Cristo es proclamado.
+##### <u>Cristo</u> es enseñado.
 
-##### Cristo es enseñado.
-
-##### Cristo es el contexto de la madurez.
-
-------
+##### <u>Cristo</u> es el contexto de la madurez.
 
 ## Una observación
 
-##### Los apóstoles hablan acerca de:
-
+##### Los apóstoles <u>hablan</u> acerca de:
 - santidad,
 - servicio,
 - amor,
@@ -2312,18 +2083,17 @@ A fin de poder presentar a todo hombre perfecto en Cristo.
 - buenas obras,
 - enseñanza.
 
-##### Pero repetidamente vuelven a Cristo.
+##### Pero repetidamente vuelven a <u>Cristo</u>.
 
-##### Porque parecen desear más que actividad.
+##### Porque parecen <u>desear</u> más que actividad.
 
-##### Parecen desear que los creyentes conozcan a Cristo.
+##### Parecen <u>desear</u> que los creyentes conozcan a Cristo.
 
-##### Y conocerlo no parece competir con la participación.
+##### Y conocerlo no <u>parece</u> competir con la participación.
 
-##### La participación parece conducir hacia conocerlo más.
+##### La participación <u>parece</u> conducir hacia conocerlo más.
 
-##### Y conocerlo parece producir:
-
+##### Y conocerlo <u>parece</u> producir:
 - amor,
 - esperanza,
 - servicio,
@@ -2331,160 +2101,144 @@ A fin de poder presentar a todo hombre perfecto en Cristo.
 - gozo,
 - gratitud.
 
-##### Porque los apóstoles parecen estar ocupados con muchas cosas.
+##### Porque los apóstoles parecen <u>estar</u> ocupados con muchas cosas.
 
-##### Pero repetidamente regresan a una Persona.
+##### Pero repetidamente regresan a una <u>Persona</u>.
 
 ## Una pregunta
 
-##### Si la meta continúa siendo una Persona, ¿dónde desean los apóstoles que viva la iglesia?
+##### Si la <u>meta</u> continúa siendo una Persona, ¿dónde desean los apóstoles que viva la iglesia?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 22 - VIVIENDO EN CRISTO
 
 ## La vida ocurre dentro de una realidad
 
-##### Después de observar que los apóstoles desean que los creyentes conozcan a Cristo, otra pregunta comenzó a surgir.
+##### Después de observar que los apóstoles <u>desean</u> que los creyentes conozcan a Cristo, otra pregunta comenzó a surgir.
 
-##### Porque los apóstoles no parecen estar ocupados solamente con actividades.
+##### Porque los apóstoles no parecen <u>estar</u> ocupados solamente con actividades.
 
-##### Surge una pregunta diferente.
+##### <u>Surge</u> una pregunta diferente.
 
-##### ¿Dentro de qué realidad desean ellos que viva la iglesia?
+##### ¿Dentro de qué realidad desean ellos que <u>viva</u> la iglesia?
 
-##### No simplemente:
+##### No <u>simplemente</u>:
+##### ¿Qué actividades <u>debe</u> realizar?
 
-##### ¿Qué actividades debe realizar?
+##### <u>Sino</u>:
+##### ¿Dónde <u>debe</u> vivir?
 
-##### Sino:
-
-##### ¿Dónde debe vivir?
-
-##### Y permitiremos nuevamente que hablen.
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## Permaneciendo en Cristo
 
 ### Juan 15:4–5
-
 Permanezcan en Mí, y Yo en ustedes... porque separados de Mí nada pueden hacer.
 
 #### permanezcan en Mí
+##### La <u>vida</u> se encuentra en relación con Cristo.
 
-##### La vida se encuentra en relación con Cristo.
+##### <u>Cristo</u> permanece ocupando el centro.
 
-##### Cristo permanece ocupando el centro.
+##### Los <u>creyentes</u> permanecen en Él.
 
-##### Los creyentes permanecen en Él.
+##### El <u>fruto</u> aparece en relación con Él.
 
-##### El fruto aparece en relación con Él.
-
-##### La separación de Cristo no produce vida.
+##### La separación de Cristo no produce <u>vida</u>.
 
 ## Caminando dignamente
 
 ### Efesios 4:1
-
 Les ruego que vivan de una manera digna de la vocación con que han sido llamados.
 
 #### vivan de una manera digna
+##### <u>Pablo</u> describe una manera de vivir.
 
-##### Pablo describe una manera de vivir.
+##### La iglesia <u>posee</u> un llamamiento.
 
-##### La iglesia posee un llamamiento.
+##### La conducta <u>debe</u> corresponder a esa realidad.
 
-##### La conducta debe corresponder a esa realidad.
-
-##### La vida es entendida desde lo que Dios ha hecho.
+##### La <u>vida</u> es entendida desde lo que Dios ha hecho.
 
 ## Creciendo en Él
 
 ### Efesios 4:15
-
 Crezcamos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo.
 
 #### en Aquel que es la cabeza
 
-##### El crecimiento posee una dirección.
+##### El crecimiento <u>posee</u> una dirección.
 
-##### Cristo es la cabeza.
+##### <u>Cristo</u> es la cabeza.
 
-##### El crecimiento ocurre en relación con Él.
+##### El crecimiento <u>ocurre</u> en relación con Él.
 
-##### La iglesia es llevada hacia Él.
+##### La <u>iglesia</u> es llevada hacia Él.
 
 ## La palabra de Cristo habitando
 
 ### Colosenses 3:16
-
 Que la palabra de Cristo habite en abundancia en ustedes.
 
 #### habite en abundancia
+##### La palabra de Cristo <u>ocupa</u> un lugar central.
 
-##### La palabra de Cristo ocupa un lugar central.
+##### Los creyentes <u>enseñan</u>.
 
-##### Los creyentes enseñan.
+##### Los creyentes <u>exhortan</u>.
 
-##### Los creyentes exhortan.
+##### Los creyentes <u>cantan</u>.
 
-##### Los creyentes cantan.
-
-##### Todo ocurre alrededor de Cristo.
+##### Todo <u>ocurre</u> alrededor de Cristo.
 
 ## Permaneciendo en la esperanza
 
 ### Hebreos 10:23
-
 Mantengamos firme la profesión de nuestra esperanza.
 
 #### mantengamos firme
+##### Los creyentes <u>viven</u> mirando hacia adelante.
 
-##### Los creyentes viven mirando hacia adelante.
+##### La <u>esperanza</u> permanece.
 
-##### La esperanza permanece.
+##### La fidelidad de <u>Dios</u> permanece.
 
-##### La fidelidad de Dios permanece.
-
-##### La iglesia espera Su venida.
+##### La iglesia <u>espera</u> Su venida.
 
 ## Viviendo por el Espíritu
 
 ### Gálatas 5:25
-
 Si vivimos por el Espíritu, andemos también por el Espíritu.
 
 #### andemos también por el Espíritu
+##### La <u>vida</u> y la conducta aparecen relacionadas.
 
-##### La vida y la conducta aparecen relacionadas.
+##### El Espíritu permanece <u>obrando</u>.
 
-##### El Espíritu permanece obrando.
+##### Los creyentes <u>caminan</u> conforme a esa realidad.
 
-##### Los creyentes caminan conforme a esa realidad.
-
-##### La vida cristiana no es independiente.
+##### La <u>vida</u> cristiana no es independiente.
 
 ## Esperando a Su Hijo
 
 ### 1 Tesalonicenses 1:9–10
-
 Esperan a Su Hijo de los cielos.
 
 #### esperan a Su Hijo
+##### La esperanza <u>posee</u> una Persona.
 
-##### La esperanza posee una Persona.
+##### <u>Cristo</u> permanece delante de ellos.
 
-##### Cristo permanece delante de ellos.
+##### La iglesia <u>vive</u> esperando Su venida.
 
-##### La iglesia vive esperando Su venida.
-
-##### La mirada permanece puesta en Él.
+##### La <u>mirada</u> permanece puesta en Él.
 
 ## Una observación
 
-##### Los apóstoles no parecen simplemente enseñar actividades.
+##### Los apóstoles no <u>parecen</u> simplemente enseñar actividades.
 
-##### Parecen querer que la iglesia viva:
-
+##### Parecen querer que la iglesia <u>viva</u>:
 - en Cristo,
 - bajo Su señorío,
 - por Su Espíritu,
@@ -2494,9 +2248,9 @@ Esperan a Su Hijo de los cielos.
 - creciendo hacia la madurez,
 - esperando Su regreso.
 
-##### Porque la iglesia no es presentada simplemente como una organización.
+##### Porque la <u>iglesia</u> no es presentada simplemente como una organización.
 
-##### Es presentada como:
+##### Es <u>presentada</u> como:
 
 - un cuerpo,
 - una familia,
@@ -2504,154 +2258,143 @@ Esperan a Su Hijo de los cielos.
 - una casa,
 - un pueblo.
 
-##### Y toda esa vida se desarrolla alrededor de Cristo.
+##### Y <u>toda</u> esa vida se desarrolla alrededor de Cristo.
 
-##### Porque la vida cristiana no parece consistir simplemente en hacer cosas para Cristo.
+##### Porque la <u>vida</u> cristiana no parece consistir simplemente en hacer cosas para Cristo.
 
-##### Parece consistir en vivir en Él.
+##### Parece consistir en <u>vivir</u> en Él.
 
 ## Una pregunta
 
-##### Si la iglesia vive en Cristo, ¿cómo se hace visible Cristo en Su pueblo?
+##### Si la iglesia <u>vive</u> en Cristo, ¿cómo se hace visible Cristo en Su pueblo?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 23 - ¿CÓMO SE HACE VISIBLE CRISTO EN SU PUEBLO?
 
 ## La vida compartida con Cristo produce fruto
 
-##### Después de escuchar a los apóstoles hablar acerca de vivir en Cristo, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles hablar acerca de <u>vivir</u> en Cristo, otra pregunta comenzó a surgir.
 
-##### Si Cristo vive en Su pueblo,
+##### Si Cristo <u>vive</u> en Su pueblo,
 
-##### ¿cómo se hace visible esa vida?
+##### ¿<u>cómo</u> se hace visible esa vida?
 
-##### ¿Cómo luce una iglesia que vive en Él?
+##### ¿<u>Cómo</u> luce una iglesia que vive en Él?
 
-##### ¿Esperan los apóstoles solamente conocimiento?
+##### ¿<u>Esperan</u> los apóstoles solamente conocimiento?
 
-##### ¿O esperan algo visible?
+##### ¿O <u>esperan</u> algo visible?
 
-##### Y permitiremos nuevamente que hablen.
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## El fruto del Espíritu
 
 ### Gálatas 5:22–23
-
 Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad, mansedumbre y dominio propio.
 
 #### el fruto del Espíritu
 
-##### La vida del Espíritu produce algo visible.
+##### La <u>vida</u> del Espíritu produce algo visible.
 
-##### Amor.
+##### <u>Amor</u>.
 
-##### Gozo.
+##### <u>Gozo</u>.
 
-##### Paz.
+##### <u>Paz</u>.
 
-##### Paciencia.
+##### <u>Paciencia</u>.
 
-##### Fidelidad.
+##### <u>Fidelidad</u>.
 
-##### La vida interior produce fruto exterior.
+##### La <u>vida</u> interior produce fruto exterior.
 
 ## El amor unos por otros
 
 ### Juan 13:35
-
 En esto conocerán todos que son Mis discípulos, si se tienen amor los unos a los otros.
 
 #### si se tienen amor
+##### <u>Jesús</u> señala algo visible.
 
-##### Jesús señala algo visible.
+##### El <u>amor</u> es reconocido.
 
-##### El amor es reconocido.
+##### Los <u>demás</u> pueden verlo.
 
-##### Los demás pueden verlo.
+##### El <u>amor</u> identifica a los Suyos.
 
-##### El amor identifica a los Suyos.
-
-##### La vida de Cristo se expresa en relaciones.
+##### La <u>vida</u> de Cristo se expresa en relaciones.
 
 ## El fruto de la justicia
 
 ### Filipenses 1:9–11
-
 Llenos del fruto de justicia que es por medio de Jesucristo.
 
 #### por medio de Jesucristo
+##### El <u>fruto</u> procede de Cristo.
 
-##### El fruto procede de Cristo.
+##### <u>Cristo</u> permanece siendo la fuente.
 
-##### Cristo permanece siendo la fuente.
+##### El fruto glorifica a <u>Dios</u>.
 
-##### El fruto glorifica a Dios.
+##### La <u>obra</u> pertenece al Señor.
 
-##### La obra pertenece al Señor.
-
-##### La vida produce fruto.
+##### La <u>vida</u> produce fruto.
 
 ## Las buenas obras
 
 ### Tito 2:14
-
 ...para purificar para Sí un pueblo para posesión Suya, celoso de buenas obras.
 
 #### celoso de buenas obras
+##### La gracia produce una <u>vida</u> activa.
 
-##### La gracia produce una vida activa.
+##### El <u>pueblo</u> pertenece a Cristo.
 
-##### El pueblo pertenece a Cristo.
+##### Las buenas <u>obras</u> tienen un lugar.
 
-##### Las buenas obras tienen un lugar.
+##### El propósito no <u>termina</u> en la salvación.
 
-##### El propósito no termina en la salvación.
-
-##### La vida se hace visible.
+##### La <u>vida</u> se hace visible.
 
 ## Abundando en la obra del Señor
 
 ### 1 Corintios 15:58
-
 Estén firmes, constantes, abundando siempre en la obra del Señor.
 
 #### abundando siempre
+##### Pablo espera una participación <u>real</u>.
 
-##### Pablo espera una participación real.
+##### La <u>firmeza</u> continúa.
 
-##### La firmeza continúa.
+##### La <u>obra</u> continúa.
 
-##### La obra continúa.
+##### El trabajo en el Señor no es <u>vano</u>.
 
-##### El trabajo en el Señor no es vano.
-
-##### La esperanza produce perseverancia.
+##### La esperanza <u>produce</u> perseverancia.
 
 ## El fruto visible
 
 ### Colosenses 1:10
-
 ...dando fruto en toda buena obra y creciendo en el conocimiento de Dios.
 
 #### dando fruto
 
-##### Pablo espera una vida que produce fruto.
+##### Pablo espera una <u>vida</u> que produce fruto.
 
-##### El fruto aparece en las buenas obras.
+##### El <u>fruto</u> aparece en las buenas obras.
 
-##### El conocimiento de Dios continúa creciendo.
+##### El conocimiento de <u>Dios</u> continúa creciendo.
 
-##### La vida recibida produce algo visible.
+##### La <u>vida</u> recibida produce algo visible.
 
-##### La obra pertenece a Dios.
+##### La <u>obra</u> pertenece a Dios.
 
 ## Una observación
 
-##### Los apóstoles no parecen esperar solamente conocimiento.
+##### Los apóstoles no <u>parecen</u> esperar solamente conocimiento.
 
-##### Esperan:
-
+##### <u>Esperan</u>:
 - amor,
 - servicio,
 - buenas obras,
@@ -2660,194 +2403,183 @@ Estén firmes, constantes, abundando siempre en la obra del Señor.
 - crecimiento,
 - santidad.
 
-##### Porque la vida de Cristo se hace visible.
+##### Porque la <u>vida</u> de Cristo se hace visible.
 
-##### Pero el fruto no ocupa el lugar de Cristo.
+##### Pero el <u>fruto</u> no ocupa el lugar de Cristo.
 
-##### Tampoco reemplaza el evangelio.
+##### <u>Tampoco</u> reemplaza el evangelio.
 
-##### El fruto aparece porque la vida permanece en Cristo.
+##### El fruto aparece porque la <u>vida</u> permanece en Cristo.
 
-##### El fruto no es la raíz.
+##### El fruto no es la <u>raíz</u>.
 
-##### El fruto es el resultado.
+##### El <u>fruto</u> es el resultado.
 
-##### Porque Cristo no solamente salva.
+##### Porque Cristo no solamente <u>salva</u>.
 
-##### También produce.
+##### También <u>produce</u>.
 
-##### También transforma.
+##### También <u>transforma</u>.
 
-##### También da fruto.
+##### También da <u>fruto</u>.
 
-##### Y quizás por eso los apóstoles no parecen conformarse simplemente con información.
+##### Y <u>quizás</u> por eso los apóstoles no parecen conformarse simplemente con información.
 
-##### Esperan una vida.
+##### Esperan una <u>vida</u>.
 
-##### Y esperan que esa vida termine haciéndose visible.
+##### Y esperan que esa <u>vida</u> termine haciéndose visible.
 
 ## Una pregunta
 
-##### Si la vida de Cristo se hace visible, ¿cómo luce una participación fiel?
+##### Si la <u>vida</u> de Cristo se hace visible, ¿cómo luce una participación fiel?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 24 - ¿CÓMO LUCE UNA PARTICIPACIÓN FIEL?
 
 ## Los apóstoles presentan ejemplos
 
-##### Después de observar que la vida de Cristo se hace visible en Su pueblo, otra pregunta comenzó a surgir.
+##### Después de observar que la <u>vida</u> de Cristo se hace visible en Su pueblo, otra pregunta comenzó a surgir.
 
-##### Porque los apóstoles no solamente enseñan.
+##### Porque los apóstoles no solamente <u>enseñan</u>.
 
-##### También presentan ejemplos.
+##### También presentan <u>ejemplos</u>.
 
-##### ¿Cómo luce una participación fiel?
+##### ¿<u>Cómo</u> luce una participación fiel?
 
-##### ¿Qué valoran los apóstoles?
+##### ¿Qué <u>valoran</u> los apóstoles?
 
-##### ¿Qué ejemplos presentan?
+##### ¿Qué <u>ejemplos</u> presentan?
 
-##### Y permitiremos nuevamente que hablen.
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## Pablo
 
 ### 1 Corintios 15:10
-
 Pero por la gracia de Dios soy lo que soy; y Su gracia para conmigo no resultó vana; antes bien he trabajado mucho más que todos ellos, aunque no yo, sino la gracia de Dios en mí.
 
 #### no yo, sino la gracia de Dios
 
-##### Pablo reconoce la obra de Dios.
+##### Pablo reconoce la <u>obra</u> de Dios.
 
-##### Pablo trabaja.
+##### <u>Pablo</u> trabaja.
 
-##### La gracia de Dios permanece obrando.
+##### La gracia de <u>Dios</u> permanece obrando.
 
-##### La confianza no está en sí mismo.
+##### La confianza no está en sí <u>mismo</u>.
 
-##### La participación ocurre dentro de la gracia.
+##### La participación <u>ocurre</u> dentro de la gracia.
 
 ## Timoteo
 
 ### Filipenses 2:20–22
-
 No tengo a nadie más del mismo sentir y que esté sinceramente interesado en el bienestar de ustedes.
 
 #### sinceramente interesado
+##### <u>Pablo</u> destaca el carácter de Timoteo.
 
-##### Pablo destaca el carácter de Timoteo.
+##### Timoteo se preocupa por <u>otros</u>.
 
-##### Timoteo se preocupa por otros.
+##### Timoteo <u>sirve</u> con Pablo.
 
-##### Timoteo sirve con Pablo.
+##### <u>Timoteo</u> ha probado su fidelidad.
 
-##### Timoteo ha probado su fidelidad.
-
-##### La participación incluye servicio y cuidado.
+##### La participación <u>incluye</u> servicio y cuidado.
 
 ## Epafrodito
 
 ### Filipenses 2:25–30
-
 Porque estuvo al borde de la muerte por la obra de Cristo.
 
 #### por la obra de Cristo
 
-##### Pablo honra su servicio.
+##### <u>Pablo</u> honra su servicio.
 
-##### Epafrodito arriesgó su vida.
+##### Epafrodito arriesgó su <u>vida</u>.
 
-##### Sirvió a otros.
+##### Sirvió a <u>otros</u>.
 
-##### Participó en la obra de Cristo.
+##### Participó en la <u>obra</u> de Cristo.
 
-##### Pablo manda estimar a hombres como él.
+##### <u>Pablo</u> manda estimar a hombres como él.
 
 ## Onesíforo
 
 ### 2 Timoteo 1:16–18
-
 Muchas veces me dio consuelo y no se avergonzó de mis cadenas.
 
 #### no se avergonzó
+##### Onesíforo permaneció <u>junto</u> a Pablo.
 
-##### Onesíforo permaneció junto a Pablo.
+##### Lo <u>buscó</u> con diligencia.
 
-##### Lo buscó con diligencia.
+##### Lo <u>ayudó</u>.
 
-##### Lo ayudó.
+##### Lo <u>sirvió</u>.
 
-##### Lo sirvió.
-
-##### La fidelidad aparece en medio de la dificultad.
+##### La fidelidad aparece en <u>medio</u> de la dificultad.
 
 ## Estéfanas
 
 ### 1 Corintios 16:15
-
 Se han dedicado al servicio de los santos.
 
 #### se han dedicado
+##### <u>Pablo</u> reconoce una disposición.
 
-##### Pablo reconoce una disposición.
+##### <u>Sirven</u> a los santos.
 
-##### Sirven a los santos.
+##### <u>Participan</u> voluntariamente.
 
-##### Participan voluntariamente.
+##### <u>Son</u> de ayuda para otros.
 
-##### Son de ayuda para otros.
-
-##### La participación produce beneficio para el cuerpo.
+##### La participación produce beneficio para el <u>cuerpo</u>.
 
 ## Febe
 
 ### Romanos 16:1–2
-
 Porque ella también ha ayudado a muchos, y aun a mí mismo.
 
 #### ha ayudado a muchos
 
-##### Pablo reconoce su servicio.
+##### <u>Pablo</u> reconoce su servicio.
 
-##### Febe ha sido de ayuda.
+##### <u>Febe</u> ha sido de ayuda.
 
-##### Ha servido a muchos.
+##### Ha servido a <u>muchos</u>.
 
-##### Pablo mismo se benefició de su labor.
+##### <u>Pablo</u> mismo se benefició de su labor.
 
-##### La participación bendice a otros.
+##### La participación bendice a <u>otros</u>.
 
 ## Tíquico
 
 ### Efesios 6:21
-
 El amado hermano y fiel ministro en el Señor.
 
 #### fiel ministro
 
-##### Pablo destaca la fidelidad.
+##### <u>Pablo</u> destaca la fidelidad.
 
-##### Tíquico sirve.
+##### Tíquico <u>sirve</u>.
 
-##### Es amado.
+##### Es <u>amado</u>.
 
-##### Es considerado fiel.
+##### Es considerado <u>fiel</u>.
 
-##### La fidelidad posee valor.
+##### La fidelidad <u>posee</u> valor.
 
 ## Una observación
 
-##### Los ejemplos presentados por los apóstoles son sorprendentes.
+##### Los ejemplos presentados por los apóstoles <u>son</u> sorprendentes.
 
-##### No aparecen descritos por:
-
+##### No <u>aparecen</u> descritos por:
 - fama,
 - influencia,
 - poder,
 - capacidades extraordinarias.
 
-##### Sino por:
+##### <u>Sino</u> por:
 
 - fidelidad,
 - servicio,
@@ -2856,194 +2588,179 @@ El amado hermano y fiel ministro en el Señor.
 - perseverancia,
 - preocupación por otros.
 
-##### La participación fiel no parece llamar la atención hacia sí misma.
+##### La participación <u>fiel</u> no parece llamar la atención hacia sí misma.
 
-##### La atención continúa siendo dirigida hacia Cristo y hacia el beneficio de otros.
+##### La atención continúa siendo dirigida hacia Cristo y hacia el beneficio de <u>otros</u>.
 
-##### Y otra observación comenzó a surgir.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### Quizás la fidelidad posee más valor que la grandeza.
+##### Quizás la fidelidad <u>posee</u> más valor que la grandeza.
 
-##### Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a otros y permanecieron fieles.
+##### Porque los apóstoles parecen honrar hombres y mujeres que participaron con Cristo, sirvieron a <u>otros</u> y permanecieron fieles.
 
 ## Una pregunta
 
-##### ¿Cómo luce una participación deficiente?
+##### ¿<u>Cómo</u> luce una participación deficiente?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 25 - ¿CÓMO LUCE UNA PARTICIPACIÓN DEFICIENTE?
 
 ## La actividad no siempre refleja la realidad
 
-##### Después de observar ejemplos de participación fiel, otra pregunta comenzó a surgir.
+##### Después de observar ejemplos de participación <u>fiel</u>, otra pregunta comenzó a surgir.
 
-##### ¿Puede la participación ser deficiente?
+##### ¿<u>Puede</u> la participación ser deficiente?
 
-##### ¿Qué ocurre cuando los creyentes dejan de participar correctamente?
+##### ¿Qué ocurre cuando los creyentes <u>dejan</u> de participar correctamente?
 
-##### Porque los apóstoles dedican muchas exhortaciones y advertencias a esta realidad.
+##### Porque los apóstoles dedican <u>muchas</u> exhortaciones y advertencias a esta realidad.
 
-##### Y permitiremos nuevamente que hablen.
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## Los corintios
 
 ### 1 Corintios 3:1–3
-
 No pude hablarles como a espirituales, sino como a carnales.
 
 #### como a carnales
 
-##### Pablo describe una condición.
+##### <u>Pablo</u> describe una condición.
 
-##### Los creyentes continúan siendo hermanos.
+##### Los creyentes continúan <u>siendo</u> hermanos.
 
-##### Continúan perteneciendo a Cristo.
+##### Continúan perteneciendo a <u>Cristo</u>.
 
-##### Pero su manera de vivir no corresponde a la madurez.
+##### Pero su manera de <u>vivir</u> no corresponde a la madurez.
 
-##### La inmadurez produce divisiones.
+##### La inmadurez <u>produce</u> divisiones.
 
-##### Celos.
+##### <u>Celos</u>.
 
-##### Contiendas.
+##### <u>Contiendas</u>.
 
-##### Exaltación de hombres.
+##### Exaltación de <u>hombres</u>.
 
 ### 1 Corintios 3:6–7
-
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 
 #### Dios ha dado el crecimiento
+##### La atención <u>debe</u> permanecer en Dios.
 
-##### La atención debe permanecer en Dios.
+##### Los siervos <u>poseen</u> una función.
 
-##### Los siervos poseen una función.
+##### <u>Dios</u> produce el crecimiento.
 
-##### Dios produce el crecimiento.
-
-##### Los hombres no ocupan el centro.
+##### Los hombres no <u>ocupan</u> el centro.
 
 ## Los gálatas
 
 ### Gálatas 3:3
-
 ¿Habiendo comenzado por el Espíritu, van ahora a acabar por la carne?
 
 #### acabar por la carne
+##### <u>Pablo</u> señala un peligro.
 
-##### Pablo señala un peligro.
+##### <u>Habían</u> comenzado correctamente.
 
-##### Habían comenzado correctamente.
+##### El problema <u>aparece</u> después.
 
-##### El problema aparece después.
+##### La confianza se <u>desplaza</u>.
 
-##### La confianza se desplaza.
-
-##### La carne ocupa un lugar que no le corresponde.
+##### La <u>carne</u> ocupa un lugar que no le corresponde.
 
 ## Hebreos
 
 ### Hebreos 2:1
-
 Debemos prestar mucha mayor atención a lo que hemos oído, no sea que nos desviemos.
 
 #### nos desviemos
 
-##### Existe el peligro del desvío.
+##### <u>Existe</u> el peligro del desvío.
 
-##### Lo oído permanece siendo importante.
+##### Lo <u>oído</u> permanece siendo importante.
 
-##### Los creyentes deben prestar atención.
+##### Los creyentes <u>deben</u> prestar atención.
 
-##### La deriva es real.
+##### La deriva es <u>real</u>.
 
 ### Hebreos 12:15
-
 Miren bien, no sea que alguno deje de alcanzar la gracia de Dios.
 
 #### la gracia de Dios
 
-##### La gracia continúa siendo importante.
+##### La <u>gracia</u> continúa siendo importante.
 
-##### La amargura produce daño.
+##### La amargura produce <u>daño</u>.
 
-##### Muchos pueden ser afectados.
+##### <u>Muchos</u> pueden ser afectados.
 
-##### La comunión puede deteriorarse.
+##### La comunión <u>puede</u> deteriorarse.
 
 ## Éfeso
 
 ### Apocalipsis 2:2–4
-
 Has dejado tu primer amor.
 
 #### has dejado
+##### Muchas <u>cosas</u> permanecían.
 
-##### Muchas cosas permanecían.
+##### <u>Trabajo</u>.
 
-##### Trabajo.
+##### <u>Perseverancia</u>.
 
-##### Perseverancia.
+##### <u>Discernimiento</u>.
 
-##### Discernimiento.
+##### Sin embargo, algo había <u>sido</u> abandonado.
 
-##### Sin embargo, algo había sido abandonado.
+##### Cristo <u>llama</u> al arrepentimiento.
 
-##### Cristo llama al arrepentimiento.
-
-##### La relación con Él continúa siendo importante.
+##### La relación con Él continúa <u>siendo</u> importante.
 
 ## Sardis
 
 ### Apocalipsis 3:1
-
 Tienes nombre de que vives, pero estás muerto.
 
 #### tienes nombre
+##### La apariencia <u>puede</u> engañar.
 
-##### La apariencia puede engañar.
+##### La reputación <u>permanece</u>.
 
-##### La reputación permanece.
+##### El <u>nombre</u> permanece.
 
-##### El nombre permanece.
+##### Pero <u>Cristo</u> señala una realidad diferente.
 
-##### Pero Cristo señala una realidad diferente.
-
-##### La vida no depende de la reputación.
+##### La <u>vida</u> no depende de la reputación.
 
 ## Laodicea
 
 ### Apocalipsis 3:17
-
 Dices: Soy rico... y no sabes que eres un desventurado.
 
 #### no sabes
+##### La autosuficiencia <u>produce</u> ceguera.
 
-##### La autosuficiencia produce ceguera.
+##### La evaluación propia <u>puede</u> ser equivocada.
 
-##### La evaluación propia puede ser equivocada.
+##### Cristo <u>posee</u> una evaluación distinta.
 
-##### Cristo posee una evaluación distinta.
-
-##### La confianza en uno mismo es peligrosa.
+##### La confianza en uno <u>mismo</u> es peligrosa.
 
 ## Una observación
 
-##### La participación deficiente no aparece principalmente como ausencia de actividad.
+##### La participación deficiente no <u>aparece</u> principalmente como ausencia de actividad.
 
-##### Frecuentemente aparece en medio de:
-
+##### Frecuentemente aparece en <u>medio</u> de:
 - actividad,
 - conocimiento,
 - reputación,
 - tradición,
 - confianza propia.
 
-##### El Constructor no falla.
+##### El Constructor no <u>falla</u>.
 
-##### Pero los participantes pueden:
-
+##### Pero los participantes <u>pueden</u>:
 - desviarse,
 - confiar en la carne,
 - exaltar hombres,
@@ -3051,175 +2768,162 @@ Dices: Soy rico... y no sabes que eres un desventurado.
 - volverse autosuficientes,
 - perder de vista la gracia.
 
-##### Porque las iglesias pueden conservar:
-
+##### Porque las iglesias <u>pueden</u> conservar:
 - reuniones,
 - estructuras,
 - actividades,
 - reputación,
 
-##### y sin embargo dejar de vivir en la realidad del Cristo crucificado y resucitado.
+##### y sin embargo <u>dejar</u> de vivir en la realidad del Cristo crucificado y resucitado.
 
 ## Una pregunta
 
-##### Si la participación puede ser fiel o deficiente, ¿qué está realmente en juego?
+##### Si la participación puede ser <u>fiel</u> o deficiente, ¿qué está realmente en juego?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 26 - ¿QUÉ ESTÁ EN JUEGO?
 
 ## El Constructor no falla, pero la participación importa
 
-##### Después de observar una participación fiel y una participación deficiente, otra pregunta comenzó a surgir.
+##### Después de observar una participación <u>fiel</u> y una participación deficiente, otra pregunta comenzó a surgir.
 
-##### Porque Cristo es fiel.
+##### Porque Cristo es <u>fiel</u>.
 
-##### El Constructor no falla.
+##### El Constructor no <u>falla</u>.
 
-##### Su iglesia permanecerá.
+##### Su <u>iglesia</u> permanecerá.
 
-##### Entonces, ¿por qué tantas exhortaciones?
+##### Entonces, ¿por qué <u>tantas</u> exhortaciones?
 
-##### ¿Por qué tantas advertencias?
+##### ¿Por qué <u>tantas</u> advertencias?
 
-##### ¿Por qué tanta insistencia en perseverar?
+##### ¿Por qué <u>tanta</u> insistencia en perseverar?
 
-##### Y permitiremos nuevamente que los apóstoles hablen.
+##### Y permitiremos nuevamente que los apóstoles <u>hablen</u>.
 
 ## La obra será probada
 
 ### 1 Corintios 3:12–15
-
 La obra de cada uno se hará evidente... porque el día la mostrará.
 
 #### la obra de cada uno
 
-##### Pablo dirige la atención hacia la obra.
+##### Pablo dirige la atención hacia la <u>obra</u>.
 
-##### La obra será manifestada.
+##### La <u>obra</u> será manifestada.
 
-##### El fuego probará la calidad.
+##### El <u>fuego</u> probará la calidad.
 
-##### Habrá diferencia entre unas obras y otras.
+##### Habrá diferencia entre <u>unas</u> obras y otras.
 
-##### La participación importa.
+##### La participación <u>importa</u>.
 
 #### sufrirá pérdida
 
-##### Pablo distingue entre salvación y recompensa.
+##### <u>Pablo</u> distingue entre salvación y recompensa.
 
-##### El creyente será salvo.
+##### El creyente <u>será</u> salvo.
 
-##### Sin embargo, puede sufrir pérdida.
+##### Sin embargo, <u>puede</u> sufrir pérdida.
 
-##### La obra puede permanecer o consumirse.
+##### La <u>obra</u> puede permanecer o consumirse.
 
-##### Lo que se hace posee importancia.
+##### Lo que se <u>hace</u> posee importancia.
 
 ## Todos compareceremos
 
 ### 2 Corintios 5:10
-
 Todos debemos comparecer ante el tribunal de Cristo.
 
 #### todos
+##### <u>Nadie</u> queda excluido.
 
-##### Nadie queda excluido.
+##### Todos <u>comparecerán</u>.
 
-##### Todos comparecerán.
+##### <u>Cristo</u> evaluará.
 
-##### Cristo evaluará.
+##### Cada uno recibirá según lo que <u>haya</u> hecho.
 
-##### Cada uno recibirá según lo que haya hecho.
-
-##### Cristo valora la participación.
+##### <u>Cristo</u> valora la participación.
 
 ## Cada uno dará cuenta
 
 ### Romanos 14:10–12
-
 Cada uno de nosotros dará a Dios cuenta de sí mismo.
 
 #### dará cuenta
+##### Pablo dirige la atención hacia <u>Dios</u>.
 
-##### Pablo dirige la atención hacia Dios.
+##### El juicio pertenece al <u>Señor</u>.
 
-##### El juicio pertenece al Señor.
+##### Cada uno <u>dará</u> cuenta.
 
-##### Cada uno dará cuenta.
+##### Los creyentes no ocupan el lugar del <u>Juez</u>.
 
-##### Los creyentes no ocupan el lugar del Juez.
-
-##### La responsabilidad permanece.
+##### La responsabilidad <u>permanece</u>.
 
 ## El Señor traerá a la luz
 
 ### 1 Corintios 4:5
-
 El Señor... pondrá de manifiesto los motivos de los corazones.
 
 #### los motivos
+##### <u>Cristo</u> conoce más que las acciones.
 
-##### Cristo conoce más que las acciones.
+##### Él traerá a la <u>luz</u>.
 
-##### Él traerá a la luz.
+##### Él <u>conoce</u> las intenciones.
 
-##### Él conoce las intenciones.
+##### La evaluación pertenece al <u>Señor</u>.
 
-##### La evaluación pertenece al Señor.
-
-##### La aprobación viene de Dios.
+##### La aprobación viene de <u>Dios</u>.
 
 ## Permanezcan para recibir plena recompensa
 
 ### 2 Juan 8
-
 Cuídense, para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa.
 
 #### abundante recompensa
+##### <u>Juan</u> considera importante la perseverancia.
 
-##### Juan considera importante la perseverancia.
+##### <u>Existe</u> algo que recibir.
 
-##### Existe algo que recibir.
+##### La fidelidad <u>posee</u> valor.
 
-##### La fidelidad posee valor.
-
-##### La recompensa es presentada como algo deseable.
+##### La recompensa es presentada como algo <u>deseable</u>.
 
 ## Al vencedor
 
 ### Apocalipsis 2–3
-
 Al vencedor le daré...
 
 #### al vencedor
+##### <u>Cristo</u> repite promesas.
 
-##### Cristo repite promesas.
+##### Cristo conoce las <u>obras</u>.
 
-##### Cristo conoce las obras.
+##### Cristo <u>anima</u> a perseverar.
 
-##### Cristo anima a perseverar.
+##### <u>Cristo</u> promete recompensas.
 
-##### Cristo promete recompensas.
-
-##### La participación posee importancia.
+##### La participación <u>posee</u> importancia.
 
 ## Una observación
 
-##### Lo que está en juego no parece ser la fidelidad de Cristo.
+##### Lo que está en <u>juego</u> no parece ser la fidelidad de Cristo.
 
-##### Cristo permanece fiel.
+##### Cristo permanece <u>fiel</u>.
 
-##### Cristo preserva.
+##### <u>Cristo</u> preserva.
 
-##### Cristo completa.
+##### <u>Cristo</u> completa.
 
-##### Cristo presenta.
+##### <u>Cristo</u> presenta.
 
-##### Los apóstoles tampoco presentan el asunto como una amenaza constante de perder la salvación.
+##### Los apóstoles tampoco presentan el <u>asunto</u> como una amenaza constante de perder la salvación.
 
-##### Más bien hablan de:
-
+##### Más <u>bien</u> hablan de:
 - aprobación,
 - recompensa,
 - pérdida,
@@ -3228,446 +2932,267 @@ Al vencedor le daré...
 - herencia,
 - gozo.
 
-##### Porque el Constructor no falla.
+##### Porque el Constructor no <u>falla</u>.
 
-##### Pero los participantes sí serán evaluados.
+##### Pero los participantes sí <u>serán</u> evaluados.
 
 ## Una pregunta
 
-##### Si la participación posee importancia, ¿por qué los apóstoles insisten tanto en hombres fieles?
+##### Si la participación <u>posee</u> importancia, ¿por qué los apóstoles insisten tanto en hombres fieles?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 27 - ¿POR QUÉ LA FIDELIDAD ES TAN IMPORTANTE?
 
 ## El Señor valora la participación fiel
 
-##### Después de escuchar a los apóstoles hablar acerca de una futura evaluación, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles <u>hablar</u> acerca de una futura evaluación, otra pregunta comenzó a surgir.
 
-##### Porque Cristo y los apóstoles hablan libremente acerca de:
-
+##### Porque <u>Cristo</u> y los apóstoles hablan libremente acerca de:
 - recompensas,
 - aprobación,
 - coronas,
 - herencias,
 - promesas al vencedor.
 
-##### Y otra pregunta comenzó a surgir.
+##### Y otra pregunta comenzó a <u>surgir</u>.
 
-##### ¿Por qué?
+##### ¿<u>Por</u> qué?
 
-##### ¿Por qué Cristo valora tanto la fidelidad?
+##### ¿Por qué Cristo valora <u>tanto</u> la fidelidad?
 
-##### ¿Por qué Pablo dice:
+##### ¿Por qué Pablo <u>dice</u>:
 
-##### Encarga esto a hombres fieles?
+##### Encarga esto a hombres <u>fieles</u>?
 
-##### ¿Por qué no dice:
+##### ¿Por qué no <u>dice</u>:
 
-##### A hombres capaces?
+##### A <u>hombres</u> capaces?
 
-##### ¿A hombres influyentes?
+##### ¿A <u>hombres</u> influyentes?
 
-##### ¿A hombres exitosos?
+##### ¿A <u>hombres</u> exitosos?
 
-##### Y permitiremos nuevamente que hablen.
+##### Y permitiremos nuevamente que <u>hablen</u>.
 
 ## Todos compareceremos
 
 ### 2 Corintios 5:10
-
 Porque todos nosotros debemos comparecer ante el tribunal de Cristo.
 
 #### el tribunal de Cristo
+##### <u>Pablo</u> dirige la atención hacia una futura evaluación.
 
-##### Pablo dirige la atención hacia una futura evaluación.
+##### Todos <u>comparecerán</u>.
 
-##### Todos comparecerán.
+##### <u>Cristo</u> evaluará.
 
-##### Cristo evaluará.
+##### Cada uno recibirá según lo que <u>haya</u> hecho.
 
-##### Cada uno recibirá según lo que haya hecho.
-
-##### La participación posee importancia.
+##### La participación <u>posee</u> importancia.
 
 ## La obra será manifestada
 
 ### 1 Corintios 3:12–15
-
 La obra de cada uno se hará evidente.
 
 #### la obra de cada uno
+##### El <u>Señor</u> distingue entre las obras.
 
-##### El Señor distingue entre las obras.
+##### <u>Algunas</u> permanecerán.
 
-##### Algunas permanecerán.
+##### <u>Algunas</u> sufrirán pérdida.
 
-##### Algunas sufrirán pérdida.
+##### El creyente <u>será</u> salvo.
 
-##### El creyente será salvo.
-
-##### La salvación y la recompensa no son presentadas como lo mismo.
+##### La salvación y la recompensa no <u>son</u> presentadas como lo mismo.
 
 ## El Señor traerá a la luz
 
 ### 1 Corintios 4:5
-
 El Señor pondrá de manifiesto los motivos de los corazones.
 
 #### los motivos
+##### <u>Cristo</u> conoce más que las acciones.
 
-##### Cristo conoce más que las acciones.
+##### Él <u>conoce</u> las intenciones.
 
-##### Él conoce las intenciones.
+##### La aprobación pertenece a <u>Dios</u>.
 
-##### La aprobación pertenece a Dios.
-
-##### El reconocimiento más importante proviene del Señor.
+##### El reconocimiento más importante proviene del <u>Señor</u>.
 
 ## Al vencedor
 
 ### Apocalipsis 2–3
-
 Al vencedor le daré...
 
 #### le daré
+##### <u>Cristo</u> promete recompensas.
 
-##### Cristo promete recompensas.
+##### <u>Cristo</u> considera valiosa la fidelidad.
 
-##### Cristo considera valiosa la fidelidad.
-
-##### La perseverancia posee importancia.
+##### La perseverancia <u>posee</u> importancia.
 
 ## La corona de justicia
 
 ### 2 Timoteo 4:7–8
-
 He peleado la buena batalla, he terminado la carrera, he guardado la fe.
 
 #### me está reservada
+##### <u>Pablo</u> espera algo futuro.
 
-##### Pablo espera algo futuro.
+##### El Señor es <u>juez</u> justo.
 
-##### El Señor es juez justo.
+##### <u>Otros</u> también la recibirán.
 
-##### Otros también la recibirán.
-
-##### La esperanza continúa ocupando un lugar importante.
+##### La esperanza continúa ocupando un <u>lugar</u> importante.
 
 ## Encarga a hombres fieles
 
 ### 2 Timoteo 2:2
-
 Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
 
 #### hombres fieles
+##### <u>Pablo</u> establece una prioridad.
 
-##### Pablo establece una prioridad.
+##### La fidelidad aparece <u>antes</u> que la capacidad.
 
-##### La fidelidad aparece antes que la capacidad.
+##### La verdad <u>debía</u> continuar.
 
-##### La verdad debía continuar.
-
-##### La dimensión generacional aparece naturalmente.
+##### La dimensión generacional <u>aparece</u> naturalmente.
 
 ## Se requiere de los administradores
 
 ### 1 Corintios 4:1–2
-
 Lo que se requiere de los administradores es que cada uno sea hallado fiel.
 
 #### sea hallado fiel
+##### Los siervos <u>son</u> administradores.
 
-##### Los siervos son administradores.
+##### La fidelidad <u>posee</u> valor.
 
-##### La fidelidad posee valor.
+##### El reconocimiento pertenece al <u>Señor</u>.
 
-##### El reconocimiento pertenece al Señor.
-
-##### La grandeza no es mencionada.
+##### La <u>grandeza</u> no es mencionada.
 
 ## Bien, siervo bueno y fiel
 
 ### Mateo 25:21
-
 Bien, siervo bueno y fiel.
 
 #### siervo bueno y fiel
+##### El <u>Señor</u> valora la fidelidad.
 
-##### El Señor valora la fidelidad.
+##### El siervo <u>había</u> recibido.
 
-##### El siervo había recibido.
+##### El siervo <u>había</u> administrado.
 
-##### El siervo había administrado.
+##### El <u>Señor</u> reconoce su fidelidad.
 
-##### El Señor reconoce su fidelidad.
-
-##### La aprobación proviene del Señor.
+##### La aprobación proviene del <u>Señor</u>.
 
 ## Una observación
 
-##### Los apóstoles no parecen avergonzarse de hablar acerca de recompensas.
+##### Los apóstoles no parecen avergonzarse de <u>hablar</u> acerca de recompensas.
 
-##### Tampoco presentan las recompensas como algo contrario a la gracia.
+##### Tampoco presentan las recompensas como algo contrario a la <u>gracia</u>.
 
-##### Más bien, la gracia produce participación.
+##### Más <u>bien</u>, la gracia produce participación.
 
-##### Y Cristo valora esa participación.
+##### Y <u>Cristo</u> valora esa participación.
 
-##### Por eso los apóstoles no enfatizan principalmente:
-
+##### Por eso los <u>apóstoles</u> no enfatizan principalmente:
 - fama,
 - influencia,
 - talento,
 - reconocimiento.
 
-##### Sino:
-
+##### <u>Sino</u>:
 - fidelidad,
 - servicio,
 - perseverancia,
 - responsabilidad.
 
-##### Porque Aquel que comenzó la obra,
+##### Porque Aquel que comenzó la <u>obra</u>,
 
-##### Aquel que sostuvo la obra,
+##### Aquel que sostuvo la <u>obra</u>,
 
-##### Aquel que dio crecimiento,
+##### Aquel que <u>dio</u> crecimiento,
 
-##### también se deleita en reconocer la participación de Sus siervos.
+##### también se <u>deleita</u> en reconocer la participación de Sus siervos.
 
-##### Y quizás por eso Pablo dice:
+##### Y quizás por eso Pablo <u>dice</u>:
 
-##### Encarga esto a hombres fieles.
+##### Encarga esto a hombres <u>fieles</u>.
 
 ## Una pregunta
 
-##### Si la fidelidad posee tanto valor, ¿qué significa realmente encargar?
+##### Si la fidelidad <u>posee</u> tanto valor, ¿qué significa realmente encargar?
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
-# CAPÍTULO 28 - ¿QUÉ SIGNIFICA ENCARGAR?
+# CAPÍTULO 28 - PADRES, MADRES Y EJEMPLOS
 
-## Lo recibido continúa
+##### Después de escuchar a los apóstoles <u>hablar</u> acerca de encargar, otra pregunta comenzó a surgir.
 
-##### Después de escuchar a Pablo decir:
+##### Porque si lo recibido <u>debe</u> continuar,
 
-##### Encarga esto a hombres fieles,
+##### ¿<u>cómo</u> ocurre esto normalmente?
 
-##### otra pregunta comenzó a surgir.
+###### ¿Simplemente por <u>medio</u> de información?
 
-##### ¿Qué significa encargar?
+###### ¿Simplemente por <u>medio</u> de reuniones?
 
-##### ¿Se trata simplemente de transmitir información?
+###### ¿Simplemente por <u>medio</u> de libros?
 
-##### ¿Se trata de preservar métodos?
+###### ¿O los <u>apóstoles</u> describen algo más?
 
-##### ¿Se trata de reproducir una personalidad?
-
-##### Y permitiremos nuevamente que los apóstoles hablen.
-
-## Lo que has oído de mí
-
-### 2 Timoteo 2:2
-
-Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles.
-
-#### lo que has oído
-
-##### Pablo habla de algo recibido.
-
-##### Timoteo había escuchado.
-
-##### Timoteo había aprendido.
-
-##### Timoteo había vivido junto a Pablo.
-
-##### El encargo comienza con algo recibido.
-
-## Sigue las sanas palabras
-
-### 2 Timoteo 1:13
-
-Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús.
-
-#### en la fe y el amor en Cristo Jesús
-
-##### Pablo no separa el contenido de la vida.
-
-##### Las palabras son importantes.
-
-##### La fe es importante.
-
-##### El amor es importante.
-
-##### Todo permanece relacionado con Cristo.
-
-## Guarda el tesoro
-
-### 2 Timoteo 1:14
-
-Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado.
-
-#### el tesoro
-
-##### Pablo describe algo valioso.
-
-##### El tesoro debe ser guardado.
-
-##### El Espíritu participa en esta obra.
-
-##### Lo recibido no debía perderse.
-
-## Yo recibí y entregué
-
-### 1 Corintios 15:3
-
-Porque yo les entregué en primer lugar lo mismo que recibí.
-
-#### lo mismo que recibí
-
-##### Pablo no inventa algo nuevo.
-
-##### Pablo recibió.
-
-##### Pablo entregó.
-
-##### Existe continuidad.
-
-## Lo que aprendiste y recibiste
-
-### Filipenses 4:9
-
-Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
-
-#### aprendido, recibido, oído y visto
-
-##### La participación posee una dimensión visible.
-
-##### La verdad es enseñada.
-
-##### La verdad es vivida.
-
-##### La verdad es observada.
-
-##### El evangelio afecta toda la vida.
-
-## Una observación
-
-##### Encargar parece ser más que transmitir información.
-
-##### Porque los apóstoles no solamente enseñan doctrinas.
-
-##### También enseñan:
-
-- fe,
-- amor,
-- esperanza,
-- perseverancia,
-- sufrimiento,
-- servicio,
-- confianza en Cristo.
-
-##### Encargar tampoco parece consistir en preservar una personalidad.
-
-##### Pablo no intenta reproducir a Pablo.
-
-##### Pedro no intenta reproducir a Pedro.
-
-##### Juan no intenta reproducir a Juan.
-
-##### Todos apuntan hacia Cristo.
-
-##### Lo que se encarga parece continuar una realidad recibida.
-
-##### Y ayudar a otros a vivir dentro de ella.
-
-##### No solamente transmitir información.
-
-##### Sino ayudar a otros a vivir:
-
-- en Cristo,
-- por gracia,
-- en fe,
-- en amor,
-- con esperanza,
-- participando con el Constructor.
-
-## Una pregunta
-
-##### Si lo recibido continúa, ¿cómo ocurre esto normalmente entre las personas?
-
-##### Y continuaremos escuchando.
-
-# CAPÍTULO 29 - PADRES, MADRES Y EJEMPLOS
-
-##### Después de escuchar a los apóstoles hablar acerca de encargar, otra pregunta comenzó a surgir.
-
-##### Porque si lo recibido debe continuar,
-
-##### ¿cómo ocurre esto normalmente?
-
-###### ¿Simplemente por medio de información?
-
-###### ¿Simplemente por medio de reuniones?
-
-###### ¿Simplemente por medio de libros?
-
-###### ¿O los apóstoles describen algo más?
-
-##### Permitiremos nuevamente que hablen.
+##### Permitiremos nuevamente que <u>hablen</u>.
 
 ## No muchos padres
 
 ### 1 Corintios 4:14–17
-
 Porque aunque tengan innumerables maestros en Cristo, sin embargo, no tienen muchos padres; pues en Cristo Jesús yo los engendré por medio del evangelio.
 
 #### no tienen muchos padres
-
-##### Pablo establece una diferencia.
+##### <u>Pablo</u> establece una diferencia.
 
 - Los maestros poseen importancia.
 - Pero Pablo habla también como padre.
 - El evangelio produjo una relación.
 
-##### La participación posee una dimensión familiar.
+##### La participación <u>posee</u> una dimensión familiar.
 
 #### sean imitadores de mí
-
-##### Pablo presenta un ejemplo.
+##### <u>Pablo</u> presenta un ejemplo.
 
 - Pablo no ocupa el centro.
 - Pablo apunta hacia Cristo.
 - Timoteo conoce sus caminos.
 
-##### La verdad también es observada.
+##### La <u>verdad</u> también es observada.
 
 ## Imitadores de nosotros
 
 ### 1 Tesalonicenses 1:6
-
 Ustedes vinieron a ser imitadores de nosotros y del Señor.
 
 #### y del Señor
-
-##### Los ejemplos no reemplazan a Cristo.
+##### Los ejemplos no reemplazan a <u>Cristo</u>.
 
 - El Señor permanece en el centro.
 - Los creyentes observan ejemplos.
 - La participación es visible.
 
-##### Los ejemplos ayudan.
+##### Los ejemplos <u>ayudan</u>.
 
 ## Timoteo conocía el camino de Pablo
 
 ### 2 Timoteo 3:10
-
 Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, perseverancia.
 
 #### has seguido
-
-##### Timoteo había observado la vida de Pablo.
+##### Timoteo había observado la <u>vida</u> de Pablo.
 
 - La enseñanza era conocida.
 - La conducta era conocida.
@@ -3677,50 +3202,41 @@ Pero tú has seguido mi enseñanza, conducta, propósito, fe, paciencia, amor, p
 - El amor era conocido.
 - La perseverancia era conocida.
 
-##### La verdad era visible.
+##### La <u>verdad</u> era visible.
 
 ## Las ancianas enseñan
 
 ### Tito 2:3–5
-
 Las ancianas... enseñando lo bueno.
 
 #### enseñando lo bueno
-
-##### Las generaciones participan juntas.
+##### Las generaciones participan <u>juntas</u>.
 
 - Las ancianas participan.
 - Las jóvenes participan.
 - La vida es compartida.
 
-##### La iglesia funciona como una familia.
+##### La <u>iglesia</u> funciona como una familia.
 
 ## Sean ejemplo
 
 ### 1 Pedro 5:2–3
-
 Demostrando ser ejemplos del rebaño.
 
 #### ejemplos del rebaño
-
-##### Pedro habla a los pastores.
+##### <u>Pedro</u> habla a los pastores.
 
 - No deben enseñorearse.
 - Deben servir.
 - Deben ser ejemplos.
 
-##### La autoridad se expresa por medio del servicio.
+##### La autoridad se expresa por <u>medio</u> del servicio.
 
 ## Una observación
 
-##### Los apóstoles no parecen confiar solamente en la transferencia de información.
+##### Los apóstoles no <u>parecen</u> confiar solamente en la transferencia de información.
 
-##### Interesante.
-
-##### Muy interesante.
-
-##### Porque también hablan acerca de:
-
+##### Porque también <u>hablan</u> acerca de:
 - padres,
 - madres,
 - ejemplos,
@@ -3728,28 +3244,26 @@ Demostrando ser ejemplos del rebaño.
 - relaciones,
 - servicio.
 
-##### Los ejemplos no ocupan el lugar de Cristo.
+##### Los ejemplos no ocupan el <u>lugar</u> de Cristo.
 
-##### Pablo dice:
+##### Pablo <u>dice</u>:
+##### <u>Sean</u> imitadores de mí.
 
-##### Sean imitadores de mí.
+##### Pero también <u>dice</u>:
 
-##### Pero también dice:
+##### como yo de <u>Cristo</u>.
 
-##### como yo de Cristo.
+##### Porque el ejemplo <u>posee</u> valor cuando apunta hacia Cristo.
 
-##### Porque el ejemplo posee valor cuando apunta hacia Cristo.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### Y otra observación comenzó a surgir.
+##### La <u>verdad</u> no solamente es enseñada.
 
-##### La verdad no solamente es enseñada.
+##### También es <u>observada</u>.
 
-##### También es observada.
+##### Timoteo conocía la enseñanza de <u>Pablo</u>.
 
-##### Timoteo conocía la enseñanza de Pablo.
-
-##### Pero también conocía:
-
+##### Pero también <u>conocía</u>:
 - su conducta,
 - su propósito,
 - su fe,
@@ -3757,234 +3271,350 @@ Demostrando ser ejemplos del rebaño.
 - su amor,
 - su perseverancia.
 
-##### Interesante.
+##### Porque los apóstoles <u>parecen</u> encargar algo más que información.
 
-##### Muy interesante.
+##### Parecen compartir una <u>vida</u>.
 
-##### Porque los apóstoles parecen encargar algo más que información.
+##### La <u>iglesia</u> aparece como una familia.
 
-##### Parecen compartir una vida.
+##### Las generaciones <u>viven</u> juntas.
 
-##### La iglesia aparece como una familia.
+##### La <u>verdad</u> es enseñada.
 
-##### Las generaciones viven juntas.
+##### La <u>verdad</u> es observada.
 
-##### La verdad es enseñada.
+##### La <u>verdad</u> es compartida.
 
-##### La verdad es observada.
-
-##### La verdad es compartida.
-
-##### Y quizás muchas cosas solamente pueden ser aprendidas al caminar con otros.
+##### Y quizás muchas <u>cosas</u> solamente pueden ser aprendidas al caminar con otros.
 
 ## Una pregunta
 
-##### Si padres, madres y ejemplos poseen tanta importancia, ¿por qué los apóstoles hablan de generaciones?
+##### Si padres, madres y ejemplos poseen <u>tanta</u> importancia, ¿por qué los apóstoles hablan de generaciones?
 
-##### Porque lo recibido no termina en una sola generación.
+##### Porque lo recibido no termina en una <u>sola</u> generación.
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
+
+# CAPÍTULO 29 - ¿QUÉ SIGNIFICA ENCARGAR?
+
+## Lo recibido continúa
+
+##### Después de escuchar a <u>Pablo</u> decir:
+
+##### Encarga esto a hombres <u>fieles</u>,
+
+##### otra pregunta comenzó a <u>surgir</u>.
+
+##### ¿Qué significa <u>encargar</u>?
+
+##### ¿Se <u>trata</u> simplemente de transmitir información?
+
+##### ¿Se <u>trata</u> de preservar métodos?
+
+##### ¿Se <u>trata</u> de reproducir una personalidad?
+
+##### Y permitiremos nuevamente que los apóstoles <u>hablen</u>.
+
+## Lo que has oído de mí
+
+### 2 Timoteo 2:2
+Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles.
+
+#### lo que has oído
+##### <u>Pablo</u> habla de algo recibido.
+
+##### Timoteo <u>había</u> escuchado.
+
+##### Timoteo <u>había</u> aprendido.
+
+##### Timoteo <u>había</u> vivido junto a Pablo.
+
+##### El <u>encargo</u> comienza con algo recibido.
+
+## Sigue las sanas palabras
+
+### 2 Timoteo 1:13
+Retén la norma de las sanas palabras que has oído de mí, en la fe y el amor en Cristo Jesús.
+
+#### en la fe y el amor en Cristo Jesús
+##### Pablo no separa el contenido de la <u>vida</u>.
+
+##### Las palabras <u>son</u> importantes.
+
+##### La fe es <u>importante</u>.
+
+##### El <u>amor</u> es importante.
+
+##### Todo permanece relacionado con <u>Cristo</u>.
+
+## Guarda el tesoro
+
+### 2 Timoteo 1:14
+Guarda, mediante el Espíritu Santo que habita en nosotros, el tesoro que te ha sido encomendado.
+
+#### el tesoro
+##### <u>Pablo</u> describe algo valioso.
+
+##### El tesoro <u>debe</u> ser guardado.
+
+##### El Espíritu participa en esta <u>obra</u>.
+
+##### Lo recibido no <u>debía</u> perderse.
+
+## Yo recibí y entregué
+
+### 1 Corintios 15:3
+Porque yo les entregué en primer lugar lo mismo que recibí.
+
+#### lo mismo que recibí
+##### <u>Pablo</u> no inventa algo nuevo.
+
+##### <u>Pablo</u> recibió.
+
+##### <u>Pablo</u> entregó.
+
+##### <u>Existe</u> continuidad.
+
+## Lo que aprendiste y recibiste
+
+### Filipenses 4:9
+Lo que han aprendido, recibido, oído y visto en mí, esto practiquen.
+
+#### aprendido, recibido, oído y visto
+##### La participación <u>posee</u> una dimensión visible.
+
+##### La <u>verdad</u> es enseñada.
+
+##### La <u>verdad</u> es vivida.
+
+##### La <u>verdad</u> es observada.
+
+##### El evangelio afecta <u>toda</u> la vida.
+
+## Una observación
+
+##### Encargar <u>parece</u> ser más que transmitir información.
+
+##### Porque los apóstoles no solamente <u>enseñan</u> doctrinas.
+
+##### También <u>enseñan</u>:
+- fe,
+- amor,
+- esperanza,
+- perseverancia,
+- sufrimiento,
+- servicio,
+- confianza en Cristo.
+
+##### Encargar tampoco <u>parece</u> consistir en preservar una personalidad.
+
+##### <u>Pablo</u> no intenta reproducir a Pablo.
+##### <u>Pedro</u> no intenta reproducir a Pedro.
+##### <u>Juan</u> no intenta reproducir a Juan.
+##### Todos apuntan hacia <u>Cristo</u>.
+
+##### Lo que se encarga <u>parece</u> continuar una realidad recibida.
+##### Y ayudar a <u>otros</u> a vivir dentro de ella.
+##### No <u>solamente</u> transmitir información.
+
+##### <u>Sino</u> ayudar a otros a vivir:
+- en Cristo,
+- por gracia,
+- en fe,
+- en amor,
+- con esperanza,
+- participando con el Constructor.
+
+## Una pregunta
+
+##### Si lo recibido continúa, ¿<u>cómo</u> ocurre esto normalmente entre las personas?
+
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 30 - GENERACIONES
 
-##### Después de escuchar a los apóstoles hablar acerca de padres, madres y ejemplos, otra pregunta comenzó a surgir.
+##### Después de escuchar a los apóstoles <u>hablar</u> acerca de padres, madres y ejemplos, otra pregunta comenzó a surgir.
 
-###### ¿Por qué aparece tantas veces la idea de generaciones?
+###### ¿Por qué aparece tantas veces la <u>idea</u> de generaciones?
 
-###### ¿Por qué Pablo habla de hombres fieles?
+###### ¿Por qué <u>Pablo</u> habla de hombres fieles?
+###### ¿Por qué <u>Pedro</u> desea que recuerden después de su partida?
+###### ¿Por qué <u>Juan</u> escribe a hijos, jóvenes y padres?
 
-###### ¿Por qué Pedro desea que recuerden después de su partida?
+###### ¿Por qué la <u>iglesia</u> aparece como una familia?
 
-###### ¿Por qué Juan escribe a hijos, jóvenes y padres?
-
-###### ¿Por qué la iglesia aparece como una familia?
-
-##### Permitiremos nuevamente que los apóstoles hablen.
+##### Permitiremos nuevamente que los apóstoles <u>hablen</u>.
 
 ## Lo que has oído
 
 ### 2 Timoteo 2:2
-
 Lo que has oído de mí en presencia de muchos testigos, eso encarga a hombres fieles que sean capaces de enseñar también a otros.
 
 #### también a otros
-
-##### Pablo contempla más de una generación.
+##### <u>Pablo</u> contempla más de una generación.
 
 - Pablo enseñó.
 - Timoteo recibió.
 - Hombres fieles recibirían.
 - Otros también serían alcanzados.
 
-##### La verdad debía continuar.
+##### La verdad <u>debía</u> continuar.
 
 ## Yo recibí y entregué
 
 ### 1 Corintios 15:3
-
 Porque yo les entregué en primer lugar lo mismo que recibí.
 
 #### lo mismo que recibí
-
-##### Pablo continúa una cadena.
+##### <u>Pablo</u> continúa una cadena.
 
 - Pablo recibió.
 - Pablo entregó.
 - Otros recibieron.
 
-##### El centro permanece.
+##### El <u>centro</u> permanece.
 
 ## Después de mi partida
 
 ### 2 Pedro 1:14–15
-
 También procuraré con diligencia que en todo tiempo, después de mi partida, ustedes puedan recordar estas cosas.
 
 #### después de mi partida
-
-##### Pedro piensa en el futuro.
+##### <u>Pedro</u> piensa en el futuro.
 
 - Pedro sabe que partirá.
 - La verdad debía permanecer.
 - Otros debían recordar.
 
-##### El centro debía continuar.
+##### El centro <u>debía</u> continuar.
 
 ## Hijos, jóvenes y padres
 
 ### 1 Juan 2:12–14
-
 Les escribo a ustedes, hijitos... jóvenes... padres.
 
 #### padres
-
-##### Juan observa generaciones.
+##### <u>Juan</u> observa generaciones.
 
 - Existen diferentes etapas.
 - La vida es compartida.
 - Todos pertenecen a una misma familia.
 
-##### Cristo permanece siendo el centro.
+##### <u>Cristo</u> permanece siendo el centro.
 
 ## Enseña a otros
 
 ### Tito 2:1–5
-
 Enseña lo que está de acuerdo con la sana doctrina.
 
 #### las ancianas enseñen
 
-##### Las generaciones viven juntas.
-
+##### Las generaciones <u>viven</u> juntas.
 - Ancianos.
 - Ancianas.
 - Jóvenes.
 - Niños.
 
-##### La iglesia funciona como una familia.
+##### La <u>iglesia</u> funciona como una familia.
 
 ## Una observación
 
-##### Los apóstoles saben que partirán.
+##### Los apóstoles <u>saben</u> que partirán.
 
-##### Pero no hablan con desesperación.
+##### Pero no <u>hablan</u> con desesperación.
 
-##### No hablan como si todo dependiera de ellos.
+##### No <u>hablan</u> como si todo dependiera de ellos.
 
-##### Interesante.
+##### Porque ellos <u>partirán</u>.
 
-##### Muy interesante.
+##### Pero <u>Cristo</u> permanece.
 
-##### Porque ellos partirán.
+##### Ellos <u>partirán</u>.
 
-##### Pero Cristo permanece.
+##### Pero el <u>evangelio</u> permanece.
 
-##### Ellos partirán.
+##### Ellos <u>partirán</u>.
 
-##### Pero el evangelio permanece.
+##### Pero la <u>iglesia</u> permanece.
 
-##### Ellos partirán.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### Pero la iglesia permanece.
+##### Las generaciones no <u>parecen</u> existir para preservar hombres.
 
-##### Y otra observación comenzó a surgir.
+##### Ni <u>Pablo</u>.
 
-##### Las generaciones no parecen existir para preservar hombres.
+##### Ni <u>Pedro</u>.
 
-##### Ni Pablo.
+##### Ni <u>Juan</u>.
 
-##### Ni Pedro.
+##### Ni <u>métodos</u>.
 
-##### Ni Juan.
+##### Ni <u>tradiciones</u>.
 
-##### Ni métodos.
+##### El <u>centro</u> permanece siendo Cristo.
 
-##### Ni tradiciones.
+##### Y otra observación comenzó a <u>surgir</u>.
 
-##### El centro permanece siendo Cristo.
+##### La dimensión generacional no <u>aparece</u> como un programa.
 
-##### Y otra observación comenzó a surgir.
+##### <u>Aparece</u> naturalmente.
 
-##### La dimensión generacional no aparece como un programa.
+##### Porque la <u>vida</u> produce vida.
 
-##### Aparece naturalmente.
+##### La <u>verdad</u> produce verdad.
 
-##### Porque la vida produce vida.
+##### La <u>gracia</u> produce gracia.
 
-##### La verdad produce verdad.
+##### El evangelio <u>continúa</u>.
 
-##### La gracia produce gracia.
+##### Y una <u>última</u> observación comenzó a surgir.
 
-##### El evangelio continúa.
+##### El futuro de la iglesia fue confiado a <u>once</u> hombres.
 
-##### Y una última observación comenzó a surgir.
+##### No todos los creyentes permanecieron <u>fieles</u>.
 
-##### El futuro de la iglesia fue confiado a once hombres.
+##### No <u>todas</u> las iglesias locales permanecieron.
 
-##### No todos los creyentes permanecieron fieles.
+##### Algunas lámparas <u>fueron</u> removidas.
 
-##### No todas las iglesias locales permanecieron.
+##### Pero <u>Cristo</u> permanece.
 
-##### Algunas lámparas fueron removidas.
+##### Y el Constructor <u>continúa</u> edificando.
 
-##### Pero Cristo permanece.
-
-##### Y el Constructor continúa edificando.
-
-##### Y las puertas del Hades no prevalecerán contra ella.
+##### Y las puertas del <u>Hades</u> no prevalecerán contra ella.
 
 ## Una pregunta
 
-##### Quizás la pregunta nunca fue cómo preservar nuestros nombres.
+##### Quizás la pregunta nunca fue <u>cómo</u> preservar nuestros nombres.
 
-##### Ni nuestros métodos.
+##### Ni nuestros <u>métodos</u>.
 
-##### Ni nuestras tradiciones.
+##### Ni <u>nuestras</u> tradiciones.
 
-##### Sino cómo entregar intacto el centro a quienes vienen después.
+##### <u>Sino</u> cómo entregar intacto el centro a quienes vienen después.
 
-##### Porque si Cristo crucificado permanece central,
+##### Porque si <u>Cristo</u> crucificado permanece central,
 
-##### quizás el Constructor continúa edificando.
+##### <u>quizás</u> el Constructor continúa edificando.
 
 ## Otra pregunta
 
-##### Si los apóstoles pensaron tanto en el futuro, ¿cómo deseaban ellos terminar?
+##### Si los apóstoles pensaron tanto en el futuro, ¿<u>cómo</u> deseaban ellos terminar?
 
-##### Porque no solamente comenzaron.
+##### Porque no <u>solamente</u> comenzaron.
 
-##### También desearon terminar fielmente.
+##### También <u>desearon</u> terminar fielmente.
 
-##### Y continuaremos escuchando.
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 31 - TERMINANDO BIEN
 
-##### Después de escuchar a los apóstoles hablar acerca de generaciones, surge una pregunta natural.
-###### ¿Cómo hablan acerca del final?
-###### ¿Qué desean al acercarse su partida?
-###### ¿Qué consideran importante?
+##### Después de escuchar a los apóstoles hablar acerca de generaciones, <u>surge</u> una pregunta natural.
+###### ¿<u>Cómo</u> hablan acerca del final?
+###### ¿Qué <u>desean</u> al acercarse su partida?
+###### ¿Qué <u>consideran</u> importante?
 
-##### Permitiremos nuevamente que hablen.
+##### Permitiremos nuevamente que <u>hablen</u>.
 
 ## Pablo
 
@@ -3992,25 +3622,25 @@ Enseña lo que está de acuerdo con la sana doctrina.
 Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partida ha llegado.
 
 #### el tiempo de mi partida
-##### Pablo reconoce que su carrera está terminando.
+##### <u>Pablo</u> reconoce que su carrera está terminando.
 -   Pablo sabe que se acerca el final.
 -   Su atención no se dirige hacia sí mismo.
 -   Habla con esperanza.
 
 #### he peleado la buena batalla
-##### Pablo mira hacia atrás.
+##### Pablo <u>mira</u> hacia atrás.
 -   Ha peleado la buena batalla.
 -   Ha terminado la carrera.
 -   Ha guardado la fe.
 
-##### La fidelidad continúa siendo importante.
+##### La fidelidad continúa <u>siendo</u> importante.
 #### me está reservada la corona de justicia
-##### Pablo mira hacia adelante.
+##### Pablo <u>mira</u> hacia adelante.
 -   El Señor es juez justo.
 -   El Señor dará la recompensa.
 -   Otros también la recibirán.
 
-##### La esperanza permanece.
+##### La <u>esperanza</u> permanece.
 
 ## Pedro
 
@@ -4018,12 +3648,12 @@ Porque yo ya estoy para ser derramado como una ofrenda, y el tiempo de mi partid
 Sé que pronto debo abandonar este cuerpo terrenal.
 
 #### procuraré con diligencia
-##### Pedro piensa más allá de sí mismo.
+##### Pedro piensa más <u>allá</u> de sí mismo.
 -   Pedro sabe que partirá.
 -   Desea que recuerden estas cosas.
 -   Busca el beneficio de otros.
 
-##### El centro debe permanecer.
+##### El centro <u>debe</u> permanecer.
 
 ## El escritor de Hebreos
 
@@ -4031,12 +3661,12 @@ Sé que pronto debo abandonar este cuerpo terrenal.
 Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús.
 
 #### puestos los ojos en Jesús
-##### La carrera posee una dirección.
+##### La carrera <u>posee</u> una dirección.
 -   La perseverancia continúa siendo necesaria.
 -   Jesús permanece delante.
 -   La mirada permanece en Él.
 
-##### Cristo continúa ocupando el centro.
+##### <u>Cristo</u> continúa ocupando el centro.
 
 ## Juan
 
@@ -4044,55 +3674,65 @@ Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en J
 Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos confianza.
 
 #### permanezcan en Él
-##### Juan continúa dirigiendo la atención hacia Cristo.
+##### <u>Juan</u> continúa dirigiendo la atención hacia Cristo.
 -   Cristo aparecerá.
 -   Los creyentes esperan Su venida.
 -   La confianza permanece relacionada con Él.
 
-##### La esperanza continúa.
+##### La esperanza <u>continúa</u>.
 
 ## Una observación
 
-##### Los apóstoles no parecen obsesionados con preservar sus nombres.
+##### Los apóstoles no <u>parecen</u> obsesionados con preservar sus nombres.
+##### <u>Tampoco</u> parecen preocupados por preservar sus ministerios.
 
-##### Tampoco parecen preocupados por preservar sus ministerios.
-###### Hablan de:
--   guardar la fe,
--   recordar,
--   perseverar,
--   esperar,
--   mantener la mirada en Jesús.
+###### <u>Hablan</u> de:
+- guardar la fe,
+- recordar,
+- perseverar,
+- esperar,
+- mantener la mirada en Jesús.
 
 ## Otra observación
 
-##### Terminar bien no parece consistir en llegar a ser grandes.
-
-##### Parece consistir en permanecer fieles.
-###### Guardar la fe.
-###### Continuar esperando.
-###### Y mantener la mirada en Cristo.
+##### Terminar <u>bien</u> no parece consistir en llegar a ser grandes.
+##### <u>Parece</u> consistir en permanecer fieles.
+###### <u>Guardar</u> la fe.
+###### <u>Continuar</u> esperando.
+###### Y mantener la <u>mirada</u> en Cristo.
 
 ## Una observación más
 
-##### Los apóstoles parecen terminar como vivieron.
-###### Con confianza.
-###### No en sí mismos.
-###### Sino en Aquel que comenzó la obra.
+##### Los apóstoles <u>parecen</u> terminar como vivieron.
+###### Con <u>confianza</u>.
+###### No en sí <u>mismos</u>.
+###### <u>Sino</u> en Aquel que comenzó la obra.
+
+##### Pero otra observación comenzó a <u>surgir</u>.
+##### Porque al acercarse el <u>final</u>, los apóstoles no parecen hablar solamente del pasado.
+
+##### Tampoco parecen <u>vivir</u> mirando hacia atrás.
+##### <u>Hablan</u> acerca de una esperanza.
+##### <u>Hablan</u> acerca de una aparición.
+##### <u>Hablan</u> acerca de una venida.
+##### Hablan acerca de un <u>día</u> futuro.
+
+##### Y otra pregunta comenzó a <u>surgir</u>.
 
 ## Una pregunta
-
-##### Porque Aquel que comenzó la obra permanece siendo fiel.
-
-## Otra pregunta
+##### ¿Qué <u>ocupaba</u> finalmente su esperanza?
+##### ¿Qué <u>esperaban</u> los apóstoles?
+##### ¿<u>Cómo</u> describen el futuro?
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 32 - HASTA QUE ÉL VENGA
 
-##### Después de escuchar a los apóstoles hablar acerca de terminar bien, surge una pregunta natural.
-###### ¿Qué esperaban?
-###### ¿Cómo describen el futuro?
-###### ¿Qué ocupaba su esperanza?
+##### Después de escuchar a los apóstoles hablar acerca de terminar <u>bien</u>, surge una pregunta natural.
+###### ¿Qué <u>esperaban</u>?
+###### ¿<u>Cómo</u> describen el futuro?
+###### ¿Qué <u>ocupaba</u> su esperanza?
 
-##### Permitiremos nuevamente que hablen.
+##### Permitiremos nuevamente que <u>hablen</u>.
 
 ## Esperando a Su Hijo
 
@@ -4100,12 +3740,12 @@ Y ahora, hijitos, permanezcan en Él, para que cuando se manifieste, tengamos co
 Esperan a Su Hijo de los cielos.
 
 #### esperan a Su Hijo
-##### La esperanza posee una Persona.
+##### La esperanza <u>posee</u> una Persona.
 -   Cristo permanece delante de ellos.
 -   La iglesia vive esperando Su regreso.
 -   La esperanza continúa relacionada con Él.
 
-##### La mirada permanece hacia adelante.
+##### La <u>mirada</u> permanece hacia adelante.
 
 ## Nuestra ciudadanía está en los cielos
 
@@ -4113,12 +3753,12 @@ Esperan a Su Hijo de los cielos.
 Esperamos ardientemente un Salvador, el Señor Jesucristo.
 
 #### esperamos ardientemente
-##### Pablo describe una expectativa.
+##### <u>Pablo</u> describe una expectativa.
 -   Cristo regresará.
 -   Los creyentes le esperan.
 -   La esperanza permanece viva.
 
-##### El futuro pertenece al Señor.
+##### El futuro pertenece al <u>Señor</u>.
 
 ## La esperanza bienaventurada
 
@@ -4126,12 +3766,12 @@ Esperamos ardientemente un Salvador, el Señor Jesucristo.
 Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 
 #### aguardando
-##### La gracia produce expectativa.
+##### La <u>gracia</u> produce expectativa.
 -   La gracia ha aparecido.
 -   La gracia enseña.
 -   La esperanza permanece.
 
-##### Cristo continúa ocupando el centro.
+##### <u>Cristo</u> continúa ocupando el centro.
 
 ## Aparecerá por segunda vez
 
@@ -4139,12 +3779,12 @@ Aguardando la esperanza bienaventurada y la manifestación de la gloria de nuest
 Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvación de los que ansiosamente lo esperan.
 
 #### aparecerá por segunda vez
-##### El futuro permanece relacionado con Cristo.
+##### El <u>futuro</u> permanece relacionado con Cristo.
 -   Cristo volverá.
 -   Los creyentes le esperan.
 -   La esperanza permanece firme.
 
-##### La atención permanece en Él.
+##### La <u>atención</u> permanece en Él.
 
 ## Cuando Él se manifieste
 
@@ -4152,12 +3792,12 @@ Cristo... aparecerá por segunda vez, sin relación con el pecado, para salvaci�
 Cuando Él se manifieste, seremos semejantes a Él.
 
 #### seremos semejantes a Él
-##### Juan dirige la mirada hacia el futuro.
+##### <u>Juan</u> dirige la mirada hacia el futuro.
 -   Cristo será visto.
 -   Los creyentes serán semejantes a Él.
 -   La esperanza produce pureza.
 
-##### Cristo continúa siendo la meta.
+##### Cristo continúa siendo la <u>meta</u>.
 
 ## El Espíritu y la novia
 
@@ -4165,52 +3805,63 @@ Cuando Él se manifieste, seremos semejantes a Él.
 El Espíritu y la novia dicen: Ven.
 
 #### Ven
-##### La esperanza termina en una Persona.
+##### La esperanza <u>termina</u> en una Persona.
 -   Cristo viene.
 -   La iglesia le espera.
 -   El Espíritu participa en esta expectativa.
 
-##### La comunión permanece.
+##### La <u>comunión</u> permanece.
 
 ## Una observación
 
-##### Los apóstoles no parecen vivir solamente mirando hacia atrás.
-###### Recuerdan.
-###### Participan.
-###### Sirven.
-###### Perseveran.
-###### Pero también esperan.
+##### Los apóstoles no parecen <u>vivir</u> solamente mirando hacia atrás.
+
+###### <u>Recuerdan</u>.
+###### <u>Participan</u>.
+###### <u>Sirven</u>.
+###### <u>Perseveran</u>.
+###### Pero también <u>esperan</u>.
 
 ## Otra observación
 
-##### La esperanza futura no desplaza la participación presente.
-###### La esperanza produce:
--   perseverancia,
--   santidad,
--   servicio,
--   paciencia,
--   gozo.
+##### La esperanza <u>futura</u> no desplaza la participación presente.
+
+###### La esperanza <u>produce</u>:
+- perseverancia,
+- santidad,
+- servicio,
+- paciencia,
+- gozo.
 
 ## Una observación más
 
-##### Los apóstoles no esperan simplemente acontecimientos.
-###### Esperan a Cristo.
-###### La esperanza posee una Persona.
+##### Los apóstoles no <u>esperan</u> simplemente acontecimientos.
+###### Esperan a <u>Cristo</u>.
+###### La esperanza <u>posee</u> una Persona.
+##### Porque la esperanza de los apóstoles no termina en ellos <u>mismos</u>.
+
+##### Tampoco termina en sus <u>obras</u>.
+##### <u>Tampoco</u> termina en sus ministerios.
+##### Termina en <u>Cristo</u>.
+
+##### Y otra pregunta comenzó a <u>surgir</u>.
 
 ## Una pregunta
+##### Si Cristo <u>viene</u>,
+##### ¿quién terminará finalmente la <u>obra</u>?
+##### ¿<u>Quién</u> presentará a la iglesia?
+##### ¿<u>Quién</u> llevará todo hasta su consumación?
 
-##### Porque los apóstoles viven, sirven y perseveran esperando a Aquel que prometió volver.
-
-## Otra pregunta
+##### Y continuaremos <u>escuchando</u>.
 
 # CAPÍTULO 33 - EL CONSTRUCTOR PRESENTARÁ SU IGLESIA
 
-##### Después de escuchar a los apóstoles hablar acerca de la venida de Cristo, surge una pregunta natural.
-###### ¿Quién terminará finalmente la obra?
-###### ¿Quién presentará a la iglesia?
-###### ¿Quién llevará la obra hasta su consumación?
+##### Después de escuchar a los apóstoles hablar acerca de la venida de Cristo, <u>surge</u> una pregunta natural.
+###### ¿Quién terminará finalmente la <u>obra</u>?
+###### ¿<u>Quién</u> presentará a la iglesia?
+###### ¿Quién llevará la <u>obra</u> hasta su consumación?
 
-##### Permitiremos nuevamente que los apóstoles hablen.
+##### Permitiremos nuevamente que los apóstoles <u>hablen</u>.
 
 ## Él la presentará a Sí mismo
 
@@ -4218,13 +3869,13 @@ El Espíritu y la novia dicen: Ven.
 Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela a Sí mismo.
 
 #### a fin de presentársela a Sí mismo
-##### Cristo continúa siendo el Constructor.
+##### <u>Cristo</u> continúa siendo el Constructor.
 -   Cristo amó.
 -   Cristo se entregó.
 -   Cristo santifica.
 -   Cristo presenta.
 
-##### La iglesia pertenece a Cristo.
+##### La iglesia pertenece a <u>Cristo</u>.
 
 ## Él completará la obra
 
@@ -4232,12 +3883,12 @@ Cristo amó a la iglesia y se dio Él mismo por ella... a fin de presentársela 
 El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 
 #### la perfeccionará
-##### La confianza de Pablo permanece en Dios.
+##### La confianza de Pablo permanece en <u>Dios</u>.
 -   Él comenzó.
 -   Él continúa obrando.
 -   Él completará la obra.
 
-##### La fidelidad pertenece al Señor.
+##### La fidelidad pertenece al <u>Señor</u>.
 
 ## Él también lo hará
 
@@ -4245,13 +3896,13 @@ El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cri
 Fiel es Aquel que los llama, el cual también lo hará.
 
 #### Él también lo hará
-##### Pablo descansa en la fidelidad de Dios.
+##### Pablo descansa en la fidelidad de <u>Dios</u>.
 -   Dios llama.
 -   Dios santifica.
 -   Dios preserva.
 -   Dios completa.
 
-##### La esperanza permanece en Él.
+##### La <u>esperanza</u> permanece en Él.
 
 ## Poderoso para guardarlos
 
@@ -4259,12 +3910,12 @@ Fiel es Aquel que los llama, el cual también lo hará.
 A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha.
 
 #### presentarlos sin mancha
-##### La preservación pertenece a Dios.
+##### La preservación pertenece a <u>Dios</u>.
 -   Dios guarda.
 -   Dios sostiene.
 -   Dios presenta.
 
-##### La gloria pertenece a Él.
+##### La <u>gloria</u> pertenece a Él.
 
 ## La esposa se ha preparado
 
@@ -4272,12 +3923,12 @@ A Aquel que es poderoso para guardarlos sin caída y presentarlos sin mancha.
 Han llegado las bodas del Cordero y Su esposa se ha preparado.
 
 #### las bodas del Cordero
-##### La historia se dirige hacia una presentación.
+##### La historia se <u>dirige</u> hacia una presentación.
 -   El Cordero permanece ocupando el centro.
 -   La esposa es presentada.
 -   El gozo pertenece al Señor.
 
-##### La esperanza alcanza su cumplimiento.
+##### La esperanza <u>alcanza</u> su cumplimiento.
 
 ## Él es el Alfa y la Omega
 
@@ -4285,280 +3936,222 @@ Han llegado las bodas del Cordero y Su esposa se ha preparado.
 Yo soy el Alfa y la Omega, el primero y el último, el principio y el fin.
 
 #### el principio y el fin
-##### Cristo abarca toda la obra.
+##### Cristo abarca <u>toda</u> la obra.
 -   Él comenzó.
 -   Él permanece.
 -   Él consumará.
 
-##### El Constructor continúa siendo el mismo.
+##### El Constructor continúa siendo el <u>mismo</u>.
 
 ## Una observación
-
-##### Los apóstoles trabajan intensamente.
-
-##### Pero su confianza no descansa en ellos mismos.
-
-##### Descansa en Cristo.
+##### Los apóstoles <u>trabajan</u> intensamente.
+##### Pero su confianza no descansa en ellos <u>mismos</u>.
+##### Descansa en <u>Cristo</u>.
 
 ## Otra observación
 
-##### La participación es real.
-###### Los creyentes sirven.
-###### Los creyentes enseñan.
-###### Los creyentes encargan.
-###### Los creyentes perseveran.
-###### Pero finalmente es Cristo quien presenta.
+##### La participación es <u>real</u>.
+###### Los creyentes <u>sirven</u>.
+###### Los creyentes <u>enseñan</u>.
+###### Los creyentes <u>encargan</u>.
+###### Los <u>creyentes</u> perseveran.
+###### Pero finalmente es <u>Cristo</u> quien presenta.
 
 ## Una observación más
 
-##### La obra comienza y termina con Cristo.
-###### Cristo amó.
-###### Cristo se entregó.
-###### Cristo edifica.
-###### Cristo santifica.
-###### Cristo preserva.
-###### Cristo completa.
-###### Cristo presenta.
+##### La <u>obra</u> comienza y termina con Cristo.
+###### Cristo <u>amó</u>.
+###### <u>Cristo</u> se entregó.
+###### <u>Cristo</u> edifica.
+###### <u>Cristo</u> santifica.
+###### <u>Cristo</u> preserva.
+###### <u>Cristo</u> completa.
+###### <u>Cristo</u> presenta.
 
 ## Una pregunta
 
-##### Porque Aquel que dijo:
-###### *Edificaré Mi iglesia*
+##### Porque Aquel que <u>dijo</u>:
+###### *Edificaré Mi <u>iglesia</u>*
 
-##### también dirá:
-###### "Aquí está la esposa".
+##### también <u>dirá</u>:
+###### "<u>Aquí</u> está la esposa".
 
 ## Otra pregunta
 
-##### Si el Constructor recibe toda la gloria, ¿dónde terminan finalmente los apóstoles?
+##### Si el Constructor recibe <u>toda</u> la gloria, ¿dónde terminan finalmente los apóstoles?
 
-##### Porque ellos no terminan exaltándose a sí mismos.
+##### Porque ellos no terminan exaltándose a sí <u>mismos</u>.
 
-##### Terminan adorando.
+##### <u>Terminan</u> adorando.
 
 # CAPÍTULO 34 - EL CONSTRUCTOR SIGUE SIENDO EL CONSTRUCTOR
 
 ## Lo que hemos observado desde el principio
 
-##### Después de escuchar a Jesús y a los apóstoles hablar acerca de participación, fidelidad, generaciones, recompensas y esperanza futura, una última observación comenzó a surgir.
+##### Después de escuchar a <u>Jesús</u> y a los apóstoles hablar acerca de participación, fidelidad, generaciones, recompensas y esperanza futura, una última observación comenzó a surgir.
 
-##### Porque los participantes son reales.
+##### Porque los participantes <u>son</u> reales.
 
-##### Pero nunca ocupan el centro.
+##### Pero <u>nunca</u> ocupan el centro.
 
-##### Y permitiremos nuevamente que las Escrituras hablen.
+##### Y permitiremos nuevamente que las Escrituras <u>hablen</u>.
 
 ## Yo edificaré Mi iglesia
 
 ### Mateo 16:18
-
 Edificaré Mi iglesia.
 
 #### Edificaré
+##### La <u>obra</u> pertenece a Cristo.
 
-##### La obra pertenece a Cristo.
+##### <u>Cristo</u> edifica.
 
-##### Cristo edifica.
+##### La <u>iglesia</u> le pertenece.
 
-##### La iglesia le pertenece.
-
-##### El Constructor permanece siendo el mismo.
+##### El Constructor permanece siendo el <u>mismo</u>.
 
 ## Dios da el crecimiento
 
 ### 1 Corintios 3:6–7
-
 Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
 
 #### Dios ha dado el crecimiento
-
-##### Pablo reconoce el lugar de cada uno.
-
-##### Los participantes son reales.
-
-##### Pero el crecimiento pertenece a Dios.
+##### <u>Pablo</u> reconoce el lugar de cada uno.
+##### Los participantes <u>son</u> reales.
+##### Pero el crecimiento pertenece a <u>Dios</u>.
 
 #### ni el que planta es algo
-
-##### La atención no permanece en los hombres.
-
-##### Los siervos sirven.
-
-##### Dios produce la vida.
+##### La atención no permanece en los <u>hombres</u>.
+##### Los siervos <u>sirven</u>.
+##### <u>Dios</u> produce la vida.
 
 ## El que comenzó la buena obra
 
 ### Filipenses 1:6
-
 El que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Cristo Jesús.
 
 #### la perfeccionará
+##### Él <u>comenzó</u>.
 
-##### Él comenzó.
+##### Él continúa <u>obrando</u>.
 
-##### Él continúa obrando.
+##### Él completará la <u>obra</u>.
 
-##### Él completará la obra.
-
-##### La confianza permanece en Él.
+##### La <u>confianza</u> permanece en Él.
 
 ## Él también lo hará
 
 ### 1 Tesalonicenses 5:23–24
-
 Fiel es Aquel que los llama, el cual también lo hará.
 
 #### Él también lo hará
-
-##### Él llama.
-
-##### Él santifica.
-
-##### Él preserva.
-
-##### Él completa.
-
-##### Él permanece fiel.
+##### Él <u>llama</u>.
+##### Él <u>santifica</u>.
+##### Él <u>preserva</u>.
+##### Él <u>completa</u>.
+##### Él permanece <u>fiel</u>.
 
 ## Él la presentará a Sí mismo
 
 ### Efesios 5:25–27
-
 A fin de presentársela a Sí mismo.
 
 #### presentársela a Sí mismo
+##### Cristo <u>amó</u>.
+##### <u>Cristo</u> se entregó.
+##### <u>Cristo</u> santifica.
+##### <u>Cristo</u> presenta.
 
-##### Cristo amó.
-
-##### Cristo se entregó.
-
-##### Cristo santifica.
-
-##### Cristo presenta.
-
-##### La iglesia pertenece a Cristo.
+##### La iglesia pertenece a <u>Cristo</u>.
 
 ## Dios será todo en todos
 
 ### 1 Corintios 15:28
-
 Para que Dios sea todo en todos.
 
 #### Dios sea todo en todos
+##### La historia <u>posee</u> una consumación.
 
-##### La historia posee una consumación.
-
-##### Todo termina en Él.
+##### Todo <u>termina</u> en Él.
 
 ## Una observación
 
-##### Los participantes vienen y van.
+##### Los participantes vienen y <u>van</u>.
+##### Los <u>apóstoles</u> partieron.
 
-##### Los apóstoles partieron.
+##### Las generaciones <u>pasan</u>.
+##### Las iglesias <u>locales</u> aparecen y desaparecen.
 
-##### Las generaciones pasan.
+##### Pero <u>Cristo</u> permanece.
 
-##### Las iglesias locales aparecen y desaparecen.
+##### Y el Constructor <u>continúa</u> edificando.
+##### Quizás la <u>mayor</u> fidelidad no consiste en preservar nuestros nombres.
 
-##### Pero Cristo permanece.
-
-##### Y el Constructor continúa edificando.
-
-##### Quizás la mayor fidelidad no consiste en preservar nuestros nombres.
-
-##### Ni nuestros métodos.
-
-##### Ni nuestras tradiciones.
-
-##### Ni nuestras organizaciones.
-
-##### Sino en entregar intacto el centro.
+##### Ni nuestros <u>métodos</u>.
+##### Ni <u>nuestras</u> tradiciones.
+##### Ni <u>nuestras</u> organizaciones.
+##### <u>Sino</u> en entregar intacto el centro.
 
 ## Una observación final
 
-##### Desde el principio escuchamos una promesa.
+##### Desde el principio escuchamos una <u>promesa</u>.
+##### Yo edificaré Mi <u>iglesia</u>.
+##### Y al final seguimos escuchando la misma <u>voz</u>.
 
-##### Yo edificaré Mi iglesia.
+##### Él <u>amó</u>.
+##### Él se <u>entregó</u>.
+##### Él <u>llamó</u>.
+##### Él <u>salvó</u>.
 
-##### Y al final seguimos escuchando la misma voz.
+##### Él <u>dio</u> crecimiento.
+##### Él <u>sostuvo</u>.
+##### Él <u>preservó</u>.
+##### Él <u>completó</u>.
+##### Él <u>presentó</u>.
 
-##### Él amó.
+##### Y cuando todo <u>haya</u> sido consumado,
+##### el Constructor seguirá <u>siendo</u> el Constructor.
 
-##### Él se entregó.
-
-##### Él llamó.
-
-##### Él salvó.
-
-##### Él dio crecimiento.
-
-##### Él sostuvo.
-
-##### Él preservó.
-
-##### Él completó.
-
-##### Él presentó.
-
-##### Y cuando todo haya sido consumado,
-
-##### el Constructor seguirá siendo el Constructor.
-
-##### Y los redimidos adorarán.
+##### Y los redimidos <u>adorarán</u>.
 
 # EPÍLOGO
 
 ## ¿Qué hemos descubierto?
 
-##### Al comenzar este estudio, la pregunta parecía sencilla.
+##### Al comenzar este <u>estudio</u>, la pregunta parecía sencilla.
 
-##### ¿Qué es el discipulado?
+##### ¿Qué es el <u>discipulado</u>?
 
-##### Naturalmente esperábamos encontrar respuestas rápidas.
+##### Naturalmente esperábamos encontrar respuestas <u>rápidas</u>.
 
-##### Pero las preguntas comenzaron a conducirnos.
+##### Pero las <u>preguntas</u> comenzaron a conducirnos.
 
-##### Primero seguimos a Jesús.
-
-##### Lo vimos llamar.
-
-##### Lo vimos formar.
-
-##### Lo vimos enviar.
-
-##### Y escuchamos una promesa.
-
+##### Primero seguimos a <u>Jesús</u>.
+##### Lo <u>vimos</u> llamar.
+##### Lo <u>vimos</u> formar.
+##### Lo <u>vimos</u> enviar.
+##### Y escuchamos una <u>promesa</u>.
 > Yo edificaré Mi iglesia.
 
-##### Más adelante observamos a los discípulos.
+##### Más <u>adelante</u> observamos a los discípulos.
+##### Los <u>vimos</u> multiplicarse.
+##### Los <u>vimos</u> participar.
+##### Los <u>vimos</u> reunirse.
 
-##### Los vimos multiplicarse.
+##### Pero al llegar al <u>final</u> del libro de Hechos ocurrió algo inesperado.
+##### La <u>palabra</u> discípulo desapareció.
 
-##### Los vimos participar.
+##### Entonces surgió una <u>nueva</u> pregunta.
+##### ¿Qué <u>ocurrió</u>?
 
-##### Los vimos reunirse.
+##### Y decidimos <u>seguir</u> escuchando.
 
-##### Pero al llegar al final del libro de Hechos ocurrió algo inesperado.
-
-##### La palabra discípulo desapareció.
-
-##### Entonces surgió una nueva pregunta.
-
-##### ¿Qué ocurrió?
-
-##### Y decidimos seguir escuchando.
-
-##### Abrimos las epístolas.
-
-##### Escuchamos a los apóstoles.
-
-##### Y comenzamos a observar algo sorprendente.
-
-##### Ellos parecen estar extraordinariamente de acuerdo.
-
-##### Hablan mucho.
-
-##### Pero repetidamente vuelven a:
+##### <u>Abrimos</u> las epístolas.
+##### Escuchamos a los <u>apóstoles</u>.
+##### Y comenzamos a <u>observar</u> algo sorprendente.
+##### Ellos parecen <u>estar</u> extraordinariamente de acuerdo.
+##### Hablan <u>mucho</u>.
+##### Pero repetidamente <u>vuelven</u> a:
 
 - Cristo,
 - la iglesia,
@@ -4569,94 +4162,65 @@ Para que Dios sea todo en todos.
 - la madurez,
 - la gloria futura.
 
-##### Y poco a poco comenzamos a notar algo más.
+##### Y <u>poco</u> a poco comenzamos a notar algo más.
+##### Los apóstoles no parecen <u>estar</u> intentando reemplazar a Cristo.
+##### Tampoco parecen <u>estar</u> ocupados construyendo algo propio.
+##### Más <u>bien</u>, participan.
 
-##### Los apóstoles no parecen estar intentando reemplazar a Cristo.
+##### Participan con <u>confianza</u>.
 
-##### Tampoco parecen estar ocupados construyendo algo propio.
+##### Y eso nos <u>llevó</u> a una nueva pregunta.
+##### ¿En qué está ocupado <u>Cristo</u>?
+##### Y <u>allí</u> comenzamos a descubrir al Constructor.
 
-##### Más bien, participan.
+##### El Constructor continúa <u>obrando</u>.
+##### <u>Santifica</u>.
+##### <u>Corrige</u>.
+##### <u>Disciplina</u>.
+##### <u>Preserva</u>.
+##### <u>Presenta</u>.
 
-##### Participan con confianza.
+##### <u>Después</u> volvimos a los apóstoles.
+##### Y comenzamos a comprenderlos <u>mejor</u>.
+##### Porque hombres que habían estado con <u>Jesús</u> seguían hablando como hombres que habían estado con Jesús.
 
-##### Y eso nos llevó a una nueva pregunta.
+##### Entonces observamos algo <u>hermoso</u>.
+##### Los creyentes participan en <u>Cristo</u>.
 
-##### ¿En qué está ocupado Cristo?
+##### Conocen a <u>Cristo</u>.
+##### <u>Viven</u> en Cristo.
+##### <u>Dan</u> fruto.
+##### <u>Sirven</u>.
+##### <u>Perseveran</u>.
+##### <u>Esperan</u>.
 
-##### Y allí comenzamos a descubrir al Constructor.
+##### Y la iglesia comenzó a aparecer delante de nosotros como un <u>lugar</u> extraordinario para participar.
 
-##### El Constructor continúa obrando.
+##### También descubrimos que la fidelidad <u>posee</u> valor.
+##### Que lo <u>recibido</u> es encargado.
+##### Que <u>padres</u>, madres y ejemplos poseen importancia.
 
-##### Santifica.
+##### Que las generaciones <u>viven</u> juntas.
+##### Que <u>muchos</u> participan.
+##### Pero el Constructor <u>permanece</u>.
 
-##### Corrige.
+##### Y <u>quizás</u> algo más ocurrió durante el camino.
+##### <u>Poco</u> a poco, el centro de gravedad comenzó a cambiar.
 
-##### Disciplina.
+##### <u>Comenzamos</u> preguntando:
+##### ¿Qué debemos <u>hacer</u>?
 
-##### Preserva.
+##### Pero las Escrituras repetidamente nos condujeron hacia otra <u>pregunta</u>.
+##### ¿Qué está haciendo <u>Cristo</u>?
 
-##### Presenta.
+##### Y quizás esa pregunta terminó iluminando <u>todas</u> las demás.
+##### No <u>comenzamos</u> con esta conclusión.
+##### Llegamos <u>aquí</u> siguiendo las preguntas del texto.
 
-##### Después volvimos a los apóstoles.
+##### Y después de escuchar a <u>Jesús</u> y a los apóstoles, quizás hemos descubierto algo.
+##### <u>Participar</u> con el Constructor es un privilegio.
 
-##### Y comenzamos a comprenderlos mejor.
-
-##### Porque hombres que habían estado con Jesús seguían hablando como hombres que habían estado con Jesús.
-
-##### Entonces observamos algo hermoso.
-
-##### Los creyentes participan en Cristo.
-
-##### Conocen a Cristo.
-
-##### Viven en Cristo.
-
-##### Dan fruto.
-
-##### Sirven.
-
-##### Perseveran.
-
-##### Esperan.
-
-##### Y la iglesia comenzó a aparecer delante de nosotros como un lugar extraordinario para participar.
-
-##### También descubrimos que la fidelidad posee valor.
-
-##### Que lo recibido es encargado.
-
-##### Que padres, madres y ejemplos poseen importancia.
-
-##### Que las generaciones viven juntas.
-
-##### Que muchos participan.
-
-##### Pero el Constructor permanece.
-
-##### Y quizás algo más ocurrió durante el camino.
-
-##### Poco a poco, el centro de gravedad comenzó a cambiar.
-
-##### Comenzamos preguntando:
-
-##### ¿Qué debemos hacer?
-
-##### Pero las Escrituras repetidamente nos condujeron hacia otra pregunta.
-
-##### ¿Qué está haciendo Cristo?
-
-##### Y quizás esa pregunta terminó iluminando todas las demás.
-
-##### No comenzamos con esta conclusión.
-
-##### Llegamos aquí siguiendo las preguntas del texto.
-
-##### Y después de escuchar a Jesús y a los apóstoles, quizás hemos descubierto algo.
-
-##### Participar con el Constructor es un privilegio.
-
-##### Pero el Constructor sigue siendo el Constructor.
+##### Pero el Constructor <u>sigue</u> siendo el Constructor.
 
 ### Judas 24–25
-
 Y a Aquel que es poderoso para guardarlos sin caída y para presentarlos sin mancha en presencia de Su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y autoridad, antes de todo tiempo, y ahora y por todos los siglos. Amén.
