@@ -5053,19 +5053,22 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ## Efesios 4:25-5:2 – Nueve Instrucciones según el nuevo hombre en Justicia y Santidad.
 
-### Efesios 4:25-32 – **Por tanto”,*** da la continuidad a la enseñanza previa de la verdad que es real en Jesús. Estos mandamientos vienen de acuerdo con la comprensión de la nueva identidad que tenemos en Cristo, ya que el nuevo hombre ha sido creado en semejanza de Dios en justicia y santidad de la verdad.
+### Efesios 4:25-32 – ***Por tanto*** da la continuidad a la enseñanza previa de la verdad que es real en Jesús. Estos mandamientos vienen de acuerdo con la comprensión de la nueva identidad que tenemos en Cristo, ya que el nuevo hombre ha sido creado en semejanza de Dios en justicia y santidad de la verdad.
 
 ### Las siguientes nueve instrucciones que vienen con mandamientos, están alineadas con la nueva identidad en Cristo. Efesios 4 tiene once verbos imperativos desde el versículo 25 a 32
 
-### Efesios 4:25 – **Instrucción \#1 –** *“Por tanto, dejando a un lado la falsedad, HABLEN VERDAD CADA CUAL CON SU PRÓJIMO, porque somos miembros los unos de los otros”.* 
+### Efesios 4:25 – **Instrucción \#1 –** *Por tanto, dejando a un lado la falsedad, HABLEN VERDAD CADA CUAL CON SU PRÓJIMO, porque somos miembros los unos de los otros.* 
 
-#### Efesios 4:25 Estando vestidos del nuevo hombre en justicia y santidad de la verdad **–** *Por tanto,* aquí continua el argumento.
+#### Estando vestidos del nuevo hombre en justicia y santidad de la verdad 
+##### *Por tanto,* aquí continua el argumento.
 
-#### Efesios 4:25 **–** *“Por tanto, dejando a un lado la falsedad”,* … El participio dejando a un lado puede ser desechando las mentiras o falsedades, cosas que estorban en nuestro caminar.
+#### Por tanto, dejando a un lado la falsedad”,* 
+##### … El participio dejando a un lado puede ser desechando las mentiras o falsedades, cosas que estorban en nuestro caminar.
 
 ##### Pablo no está diciendo dejen de ser mentirosos, sino dejando a un lado la mentira o falsedad. Ahora son nuevos en <u>Cristo</u>.
 
-#### Efesios 4:25 – *… “HABLEN VERDAD CADA CUAL CON SU PRÓJIMO”,* … tenemos el primer imperativo, presente, activo, esta es una orden hablen la verdad cada cual con su prójimo.
+#### HABLEN VERDAD CADA CUAL CON SU PRÓJIMO”,* 
+##### … tenemos el primer imperativo, presente, activo, esta es una orden hablen la verdad cada cual con su prójimo.
 
 ##### Esto no solo es decir la <u>verdad</u> una vez sino vivir la verdad en compañía con el prójimo.
 
@@ -5078,7 +5081,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 ##### El mandato es <u>para</u> cada uno, *CADA CUAL,* no es que alguien lo haga por ti.
 
 
-#### Efesios 4:25 – porque somos miembros los unos de los otros”.* Pablo se incluye con los lectores.
+#### porque somos miembros los unos de los otros”.* Pablo se incluye con los lectores.
 
 ##### El verbo *<u>somos</u>*, es presente, indicativo. Es una realidad, somos miembros ahora y seguiremos siéndolo siempre. Somos miembros del cuerpo de Cristo
 
@@ -5090,9 +5093,9 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ## Efesios 4:26–27 – **Instrucción #2 –** ENÓJENSE, PERO NO PEQUEN; no se ponga el sol sobre su enojo, 27 ni den oportunidad al diablo».*
 
-#### Esta instrucción contiene cuatro imperativos que desarrollan una sola idea. Pablo reconoce la realidad del enojo, pero inmediatamente establece sus límites. El enojo no debe conducir al pecado, no debe prolongarse y no debe abrir oportunidad al diablo.
+##### Esta instrucción contiene cuatro imperativos que desarrollan una sola idea. Pablo reconoce la realidad del enojo, pero inmediatamente establece sus límites. El enojo no debe conducir al pecado, no debe prolongarse y no debe abrir oportunidad al diablo.
 
-#### Efesios 4:26 – ENÓJENSE*…
+#### ENÓJENSE…
 
 ##### Pablo comienza reconociendo que el creyente <u>puede</u> experimentar enojo.
 
@@ -5100,7 +5103,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ##### Esta primera <u>orden</u> prepara las tres instrucciones que siguen.
 
-#### Efesios 4:26 – PERO NO PEQUEN*…
+#### PERO NO PEQUEN…
 
 ##### Pablo une inmediatamente el enojo con un límite claro: el enojo nunca <u>debe</u> convertirse en pecado.
 
@@ -5108,7 +5111,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El argumento continúa desarrollando <u>cómo</u> debe tratarse ese enojo.
 
-#### Efesios 4:26 – no se ponga el sol sobre su enojo*…
+#### no se ponga el sol sobre su enojo…
 
 ##### Pablo añade un segundo límite: el <u>enojo</u> no debe mantenerse ni prolongarse.
 
@@ -5118,7 +5121,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La razón de <u>este</u> mandato aparece inmediatamente en el siguiente versículo.
 
-#### Efesios 4:27 – ni den oportunidad al diablo*.
+#### ni den oportunidad al diablo.
 
 ##### <u>Este</u> es el propósito de las instrucciones anteriores.
 
@@ -5133,11 +5136,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - No permitan que el enojo permanezca.
 - No den oportunidad al diablo. 
 
-### Efesios 4:28 – **Instrucción #3 –** El que roba, no robe más, sino más bien trabaje, haciendo con sus manos lo que es bueno, a fin de que tenga qué compartir con el que tiene necesidad».*
+### Efesios 4:28 – **Instrucción #3 –** El que roba, no robe más, sino más bien trabaje, haciendo con sus manos lo que es bueno, a fin de que tenga qué compartir con el que tiene necesidad.
 
-#### Esta instrucción presenta un cambio completo de conducta. Pablo pasa del tomar para uno mismo al trabajar para beneficiar a otros.
+##### Esta instrucción presenta un cambio completo de conducta. Pablo pasa del tomar para uno mismo al trabajar para beneficiar a otros.
 
-#### Efesios 4:28 – El que roba…*
+#### El que roba…
 
 ##### Pablo se <u>dirige</u> al creyente que todavía practica el robo.
 
@@ -5145,7 +5148,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El primer mandato muestra el <u>cambio</u> esperado.
 
-#### Efesios 4:28 – no robe más*
+#### no robe más
 
 ##### <u>Este</u> es el primer imperativo de la instrucción.
 
@@ -5155,7 +5158,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### <u>Pero</u> Pablo no se limita a prohibir una conducta; inmediatamente presenta la alternativa.
 
-#### Efesios 4:28 – sino más bien trabaje*
+#### sino más bien trabaje
 
 ##### El segundo imperativo reemplaza el <u>robo</u> por el trabajo.
 
@@ -5163,7 +5166,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El siguiente participio explica <u>cómo</u> debe realizarse ese trabajo.
 
-#### Efesios 4:28 – haciendo con sus manos lo que es bueno*
+#### haciendo con sus manos lo que es bueno
 
 ##### El trabajo <u>debe</u> caracterizarse por aquello que es bueno.
 
@@ -5173,7 +5176,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El propósito aparece en la <u>última</u> frase.
 
-#### Efesios 4:28 – a fin de que tenga qué compartir con el que tiene necesidad*
+#### a fin de que tenga qué compartir con el que tiene necesidad
 
 ##### El objetivo del trabajo ya no es <u>solamente</u> el beneficio personal.
 
@@ -5188,11 +5191,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - producir lo que es bueno,
 - tener para compartir con el necesitado.
 
-### Efesios 4:29 – **Instrucción #4 –** No salga de la boca de ustedes ninguna palabra mala, sino solo la que sea buena para edificación, según la necesidad del momento, para que imparta gracia a los que escuchan».*
+##### Efesios 4:29 – **Instrucción #4 –** No salga de la boca de ustedes ninguna palabra mala, sino solo la que sea buena para edificación, según la necesidad del momento, para que imparta gracia a los que escuchan».*
 
-#### Esta instrucción cambia el propósito de nuestras palabras. Pablo pasa de prohibir la palabra que destruye a promover la palabra que edifica.
+##### Esta instrucción cambia el propósito de nuestras palabras. Pablo pasa de prohibir la palabra que destruye a promover la palabra que edifica.
 
-#### Efesios 4:29 – No salga de la boca de ustedes ninguna palabra mala*
+#### No salga de la boca de ustedes ninguna palabra mala
 
 ##### <u>Este</u> es el primer imperativo de la instrucción.
 
@@ -5202,7 +5205,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### <u>Pero</u> Pablo no termina con una prohibición; inmediatamente presenta la alternativa.
 
-#### Efesios 4:29 – sino solo la que sea buena*
+#### sino solo la que sea buena
 
 ##### El contraste dirige la atención <u>hacia</u> el tipo de palabra que sí debe salir.
 
@@ -5210,7 +5213,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo explica el propósito de esa <u>clase</u> de palabra.
 
-#### Efesios 4:29 – para edificación*
+#### para edificación
 
 ##### La palabra <u>buena</u> tiene como objetivo edificar.
 
@@ -5220,7 +5223,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pero esa palabra también <u>debe</u> responder a una necesidad concreta.
 
-#### Efesios 4:29 – según la necesidad del momento*
+#### según la necesidad del momento
 
 ##### <u>Pablo</u> no habla de palabras buenas en sentido general.
 
@@ -5230,7 +5233,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El propósito final aparece en la <u>última</u> frase.
 
-#### Efesios 4:29 – para que imparta gracia a los que escuchan*
+#### para que imparta gracia a los que escuchan
 
 ##### La meta de nuestras palabras es comunicar <u>gracia</u>.
 
@@ -5248,9 +5251,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ### Efesios 4:30 – **Instrucción #5 –** Y no entristezcan al Espíritu Santo de Dios, por el cual fueron sellados para el día de la redención.
 
-#### Esta instrucción continúa la manera de vivir propia del nuevo hombre. Pablo pasa de las palabras que edifican a la relación del creyente con el Espíritu Santo.
 
-#### Efesios 4:30 – Y no entristezcan al Espíritu Santo de Dios*
+##### Esta instrucción continúa la manera de vivir propia del nuevo hombre. Pablo pasa de las palabras que edifican a la relación del creyente con el Espíritu Santo.
+
+#### Y no entristezcan al Espíritu Santo de Dios
 
 ##### <u>Este</u> es el siguiente imperativo de la serie.
 
@@ -5260,7 +5264,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo no explica aquí de qué manera ocurre <u>esto</u>; simplemente presenta la orden y enseguida da la razón.
 
-#### Efesios 4:30 – al Espíritu Santo de Dios*
+#### al Espíritu Santo de Dios
 
 ##### <u>Pablo</u> identifica claramente a la Persona que no debe ser entristecida.
 
@@ -5270,7 +5274,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La razón del mandato aparece en la siguiente <u>frase</u>.
 
-#### Efesios 4:30 – por el cual fueron sellados*
+#### por el cual fueron sellados
 
 ##### Pablo recuerda una realidad que ya pertenece a <u>todos</u> los creyentes.
 
@@ -5282,7 +5286,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo ya <u>había</u> mencionado este sello en Efesios 1:13–14.
 
-#### Efesios 4:30 – para el día de la redención*
+#### para el día de la redención
 
 ##### El sello <u>tiene</u> un propósito.
 
@@ -5298,11 +5302,15 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - porque Él mismo es quien los selló,
 - y ese sello permanece hasta el día de la redención.
 
-### Efesios 4:31 – **Instrucción #6 –** Sea quitada de ustedes toda amargura, enojo, ira, gritos, insultos, así como toda malicia.
+### Efesios 4:31
+Sea quitada de ustedes toda amargura, enojo, ira, gritos, insultos, así como toda malicia.
+##### 
+**Instrucción #6 –** Sea quitada de ustedes toda amargura, enojo, ira, gritos, insultos, así como toda malicia.
 
-#### Pablo continúa describiendo la manera de vivir propia del nuevo hombre. Ahora ordena apartar aquello que destruye las relaciones dentro del cuerpo de Cristo.
 
-#### Efesios 4:31 – Sea quitada de ustedes*
+##### Pablo continúa describiendo la manera de vivir propia del nuevo hombre. Ahora ordena apartar aquello que destruye las relaciones dentro del cuerpo de Cristo.
+
+#### Sea quitada de ustedes
 
 ##### <u>Este</u> es el siguiente imperativo de la serie.
 
@@ -5310,7 +5318,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo explica inmediatamente qué <u>cosas</u> deben desaparecer.
 
-#### Efesios 4:31 – toda amargura*
+#### toda amargura
 
 ##### La <u>lista</u> comienza con una actitud interior.
 
@@ -5318,7 +5326,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Esa actitud interior suele manifestarse de <u>otras</u> maneras.
 
-#### Efesios 4:31 – enojo e ira*
+#### enojo e ira
 
 ##### Pablo continúa con las reacciones que <u>nacen</u> de esa disposición interior.
 
@@ -5326,7 +5334,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Esa expresión ya no permanece <u>oculta</u>.
 
-#### Efesios 4:31 – gritos e insultos*
+#### gritos e insultos
 
 ##### El pecado <u>ahora</u> aparece en las palabras.
 
@@ -5334,7 +5342,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo concluye la lista con un término que <u>resume</u> toda esa manera de actuar.
 
-#### Efesios 4:31 – así como toda malicia*
+#### así como toda malicia
 
 ##### La malicia reúne <u>toda</u> intención de hacer daño al prójimo.
 
@@ -5349,13 +5357,15 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - palabras que dañan,
 - y toda forma de malicia.
 
-#### El siguiente versículo presenta el contraste. En lugar de estas actitudes, Pablo describirá la manera de tratarse unos a otros conforme al nuevo hombre.
+##### El siguiente versículo presenta el contraste. En lugar de estas actitudes, Pablo describirá la manera de tratarse unos a otros conforme al nuevo hombre.
 
-### Efesios 4:32 – **Instrucción #7 –** Sean más bien amables unos con otros, misericordiosos, perdonándose unos a otros, así como también Dios los perdonó en Cristo.
+### Efesios 4:32
+Sean más bien amables unos con otros, misericordiosos, perdonándose unos a otros, así como también Dios los perdonó en Cristo.
+##### **Instrucción #7 –** Sean más bien amables unos con otros, misericordiosos, perdonándose unos a otros, así como también Dios los perdonó en Cristo.
 
-#### Después de ordenar que toda malicia sea quitada, Pablo presenta la manera de relacionarse que corresponde al nuevo hombre.
+##### Después de ordenar que toda malicia sea quitada, Pablo presenta la manera de relacionarse que corresponde al nuevo hombre.
 
-#### Efesios 4:32 – Sean más bien*
+#### Sean más bien
 
 ##### El contraste continúa con el <u>versículo</u> anterior.
 
@@ -5363,7 +5373,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Esa <u>nueva</u> manera se describe en tres características.
 
-#### Efesios 4:32 – amables unos con otros*
+#### amables unos con otros
 
 ##### El creyente <u>debe</u> caracterizarse por un trato bondadoso hacia los demás.
 
@@ -5371,7 +5381,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo <u>añade</u> una segunda característica.
 
-#### Efesios 4:32 – misericordiosos*
+#### misericordiosos
 
 ##### El trato <u>entre</u> los miembros del cuerpo debe estar acompañado de compasión.
 
@@ -5379,7 +5389,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Esa disposición encuentra su expresión más clara en la siguiente <u>acción</u>.
 
-#### Efesios 4:32 – perdonándose unos a otros*
+#### perdonándose unos a otros
 
 ##### El perdón forma parte de la vida del nuevo <u>hombre</u>.
 
@@ -5389,7 +5399,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El <u>modelo</u> del perdón no proviene del hombre.
 
-#### Efesios 4:32 – así como también Dios los perdonó en Cristo*
+#### así como también Dios los perdonó en Cristo
 
 ##### La <u>medida</u> del perdón es la manera en que Dios actuó con nosotros.
 
@@ -5406,11 +5416,14 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - perdónense unos a otros,
 - porque Dios ya los perdonó en Cristo.
 
-### Efesios 5:1 – **Instrucción #8 –** Sean, pues, imitadores de Dios como hijos amados.
+### Efesios 5:1 
+Sean, pues, imitadores de Dios como hijos amados;
+**Instrucción #8 –** Sean, pues, imitadores de Dios como hijos amados.
+##### 
 
-#### Pablo continúa la misma línea de pensamiento iniciada en el capítulo 4. Después de describir la manera de tratarse unos a otros, ahora presenta el modelo que debe dirigir toda la vida del creyente.
+##### Pablo continúa la misma línea de pensamiento iniciada en el capítulo 4. Después de describir la manera de tratarse unos a otros, ahora presenta el modelo que debe dirigir toda la vida del creyente.
 
-#### Efesios 5:1 – Sean, pues*
+#### Sean, pues
 
 ##### La <u>exhortación</u> continúa el argumento anterior.
 
@@ -5418,7 +5431,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La <u>meta</u> ahora es clara.
 
-#### Efesios 5:1 – imitadores de Dios*
+#### imitadores de Dios
 
 ##### <u>Pablo</u> llama a los creyentes a tener a Dios como modelo.
 
@@ -5428,7 +5441,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La razón de <u>esta</u> exhortación aparece inmediatamente.
 
-#### Efesios 5:1 – como hijos amados*
+#### como hijos amados
 
 ##### Pablo no dice que los creyentes deban imitar a Dios para llegar a ser Sus <u>hijos</u>.
 
@@ -5441,13 +5454,15 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - puesto que son hijos amados,
 - vivan como quienes tienen a Dios por modelo.
 
-#### Esta instrucción continúa directamente en el versículo siguiente, donde Pablo explicará cómo esa imitación se manifiesta al andar en amor, así como Cristo nos amó.
+##### Esta instrucción continúa directamente en el versículo siguiente, donde Pablo explicará cómo esa imitación se manifiesta al andar en amor, así como Cristo nos amó.
 
-### Efesios 5:2 – **Instrucción #9 –** y anden en amor, así como también Cristo los amó y se dio a sí mismo por nosotros, ofrenda y sacrificio a Dios, como fragante aroma.
+### Efesios 5:2 
+y anden en amor, así como también Cristo les amó y se dio a sí mismo por nosotros, ofrenda y sacrificio a Dios, como fragante aroma.
+##### **Instrucción #9 –** y anden en amor, así como también Cristo los amó y se dio a sí mismo por nosotros, ofrenda y sacrificio a Dios, como fragante aroma.
 
-#### Esta instrucción desarrolla la anterior. Pablo acaba de llamar a los creyentes a ser imitadores de Dios; ahora muestra cómo esa imitación se hace visible.
+##### Esta instrucción desarrolla la anterior. Pablo acaba de llamar a los creyentes a ser imitadores de Dios; ahora muestra cómo esa imitación se hace visible.
 
-#### Efesios 5:2 – y anden en amor*
+#### y anden en amor
 
 ##### <u>Este</u> es el siguiente imperativo de la serie.
 
@@ -5459,7 +5474,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Pablo presenta inmediatamente el modelo de ese <u>amor</u>.
 
-#### Efesios 5:2 – así como también Cristo los amó*
+#### así como también Cristo los amó
 
 ##### Cristo es la medida del <u>amor</u> al que Pablo llama.
 
@@ -5467,7 +5482,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### <u>Pablo</u> explica cómo Cristo manifestó ese amor.
 
-#### Efesios 5:2 – y se dio a sí mismo por nosotros*
+#### y se dio a sí mismo por nosotros
 
 ##### El amor de <u>Cristo</u> no quedó en palabras.
 
@@ -5477,7 +5492,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Esa entrega es descrita con <u>dos</u> expresiones.
 
-#### Efesios 5:2 – ofrenda y sacrificio a Dios*
+#### ofrenda y sacrificio a Dios
 
 ##### Cristo no <u>solo</u> se entregó por nosotros.
 
@@ -5487,7 +5502,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El versículo concluye mostrando <u>cómo</u> recibió Dios esa ofrenda.
 
-#### Efesios 5:2 – como fragante aroma*
+#### como fragante aroma
 
 ##### La entrega de Cristo fue plenamente aceptable delante de <u>Dios</u>.
 
@@ -5507,9 +5522,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ### Efesios 5:3–5 – Pablo contrasta el estilo de vida propio de los santos con prácticas que no corresponden a quienes pertenecen a Cristo.
 
-### Efesios 5:3 – Pero que la inmoralidad, y toda impureza o avaricia, ni siquiera se mencionen entre ustedes, como corresponde a los santos.
+### Efesios 5:3 
+Pero que la inmoralidad, y toda impureza o avaricia, ni siquiera se mencionen entre ustedes, como corresponde a los santos.
 
-#### Efesios 5:3 – Pero*
+#### Pero
 
 ##### <u>Pablo</u> continúa el contraste iniciado anteriormente.
 
@@ -5517,7 +5533,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### No explica todavía sus consecuencias; primero establece que no son compatibles con la <u>identidad</u> de los creyentes.
 
-#### Efesios 5:3 – la inmoralidad, toda impureza o avaricia*
+#### la inmoralidad, toda impureza o avaricia
 
 ##### <u>Pablo</u> reúne tres ejemplos representativos.
 
@@ -5527,7 +5543,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El énfasis <u>recae</u> en el conjunto de aquello que no corresponde al nuevo hombre.
 
-#### Efesios 5:3 – ni siquiera se mencionen entre ustedes*
+#### ni siquiera se mencionen entre ustedes
 
 ##### <u>Este</u> es el mandato principal del versículo.
 
@@ -5537,7 +5553,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La <u>razón</u> aparece inmediatamente.
 
-#### Efesios 5:3 – como corresponde a los santos*
+#### como corresponde a los santos
 
 ##### <u>Pablo</u> fundamenta el mandato en la identidad de los creyentes.
 
@@ -5547,9 +5563,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El argumento continúa el desarrollo iniciado en Efesios 4:24: el nuevo hombre ha sido creado según Dios en justicia y santidad de la verdad; por eso hay conductas que simplemente no armonizan con esa <u>nueva</u> identidad.
 
-### Efesios 5:4 – Tampoco haya obscenidades, ni necedades, ni groserías, que no son apropiadas, sino más bien acciones de gracias.
+### Efesios 5:4 
+Tampoco haya obscenidades, ni necedades, ni groserías, que no son apropiadas, sino más bien acciones de gracias.
 
-#### Efesios 5:4 – Tampoco haya obscenidades, ni necedades, ni groserías*
+#### Tampoco haya obscenidades, ni necedades, ni groserías
 
 ##### Pablo continúa la lista de aquello que no corresponde a los <u>santos</u>.
 
@@ -5559,7 +5576,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El énfasis no recae en distinguir cada palabra, sino en presentar una <u>forma</u> de hablar incompatible con la identidad del creyente.
 
-#### Efesios 5:4 – que no son apropiadas*
+#### que no son apropiadas
 
 ##### Pablo explica por qué <u>estas</u> expresiones no deben caracterizar a los creyentes.
 
@@ -5569,7 +5586,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El contraste <u>aparece</u> inmediatamente.
 
-#### Efesios 5:4 – sino más bien acciones de gracias*
+#### sino más bien acciones de gracias
 
 ##### Pablo no solo reemplaza un tipo de lenguaje por <u>otro</u>.
 
@@ -5579,9 +5596,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La gratitud expresa una <u>vida</u> orientada hacia Dios y ocupa el lugar que antes ocupaban las palabras impropias.
 
-### Efesios 5:5 – Porque con certeza ustedes saben esto: que ningún inmoral, impuro o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.
+### Efesios 5:5 
+Porque con certeza ustedes saben esto: que ningún inmoral, impuro o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.
 
-#### Efesios 5:5 – Porque con certeza ustedes saben esto*
+#### Porque con certeza ustedes saben esto
 
 ##### <u>Pablo</u> fundamenta la afirmación de los versículos anteriores.
 
@@ -5591,7 +5609,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Lo que <u>sigue</u> explica por qué aquellas prácticas no corresponden a los santos.
 
-#### Efesios 5:5 – ningún inmoral, impuro o avaro, que es idólatra*
+#### ningún inmoral, impuro o avaro, que es idólatra
 
 ##### <u>Pablo</u> describe personas caracterizadas por estas prácticas.
 
@@ -5601,7 +5619,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El énfasis permanece <u>sobre</u> la persona caracterizada por estas conductas.
 
-#### Efesios 5:5 – no tiene herencia*
+#### no tiene herencia
 
 ##### <u>Pablo</u> hace una declaración.
 
@@ -5611,7 +5629,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El contraste implícito es con los creyentes, quienes ya han sido presentados en la carta <u>como</u> herederos en Cristo.
 
-#### Efesios 5:5 – en el reino de Cristo y de Dios*
+#### en el reino de Cristo y de Dios
 
 ##### La herencia pertenece al reino sobre el cual <u>Cristo</u> y Dios ejercen su autoridad.
 
@@ -5619,9 +5637,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Los creyentes pertenecen a ese <u>reino</u>; por eso su manera de vivir debe corresponder a la identidad que ya poseen en Cristo.
 
-### Efesios 5:6 – Que nadie los engañe con palabras vanas, pues por causa de estas cosas la ira de Dios viene sobre los hijos de desobediencia.
+### Efesios 5:6 
+Que nadie los engañe con palabras vanas, pues por causa de estas cosas la ira de Dios viene sobre los hijos de desobediencia.
 
-#### Efesios 5:6 – Que nadie los engañe con palabras vanas*
+#### Que nadie los engañe con palabras vanas
 
 ##### <u>Pablo</u> vuelve a un mandato directo.
 
@@ -5631,7 +5650,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El creyente no debe dejarse persuadir por razonamientos <u>vacíos</u>.
 
-#### Efesios 5:6 – con palabras vanas*
+#### con palabras vanas
 
 ##### Pablo describe el medio por el cual <u>puede</u> venir el engaño.
 
@@ -5641,7 +5660,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Lo que <u>sigue</u> explica por qué ese engaño debe rechazarse.
 
-#### Efesios 5:6 – pues por causa de estas cosas*
+#### pues por causa de estas cosas
 
 ##### Pablo presenta la <u>razón</u> del mandato.
 
@@ -5649,7 +5668,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La explicación <u>culmina</u> en la siguiente declaración.
 
-#### Efesios 5:6 – la ira de Dios viene sobre los hijos de desobediencia*
+#### la ira de Dios viene sobre los hijos de desobediencia
 
 ##### Pablo <u>hace</u> una afirmación.
 
@@ -5663,9 +5682,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ### Efesios 5:7–14 – Pablo exhorta a los creyentes a vivir de acuerdo con su nueva identidad. Ya no pertenecen a las tinieblas; ahora son luz en el Señor.
 
-### Efesios 5:7 – Por tanto, no sean partícipes con ellos.
-
-#### Efesios 5:7 – Por tanto*
+### Efesios 5:7 
+Por tanto, no sean partícipes con ellos;
+##### 
+#### Por tanto
 
 ##### <u>Pablo</u> extrae la conclusión de la advertencia anterior.
 
@@ -5673,7 +5693,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El fundamento completo de esta exhortación <u>será</u> desarrollado en el versículo siguiente.
 
-#### Efesios 5:7 – no sean partícipes con ellos*
+#### no sean partícipes con ellos
 
 ##### <u>Este</u> es el mandato principal del versículo.
 
@@ -5687,9 +5707,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ##### Pablo la presenta inmediatamente en el versículo 8: los creyentes ya no son tinieblas, sino luz en el <u>Señor</u>.
 
-### Efesios 5:8 – Porque antes ustedes eran tinieblas, pero ahora son luz en el Señor; anden como hijos de luz.
+### Efesios 5:8 
+porque antes ustedes eran tinieblas, pero ahora son luz en el Señor; anden como hijos de luz.
 
-#### Efesios 5:8 – Porque antes ustedes eran tinieblas*
+#### Porque antes ustedes eran tinieblas
 
 ##### Pablo presenta la <u>razón</u> del mandato anterior.
 
@@ -5699,7 +5720,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El contraste <u>recae</u> sobre un cambio de identidad.
 
-#### Efesios 5:8 – pero ahora son luz en el Señor*
+#### pero ahora son luz en el Señor
 
 ##### <u>Pablo</u> contrasta el pasado con la realidad presente.
 
@@ -5709,7 +5730,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La nueva identidad no procede de <u>ellos</u> mismos, sino de su unión con Cristo.
 
-#### Efesios 5:8 – anden como hijos de luz*
+#### anden como hijos de luz
 
 ##### Sobre esa nueva identidad <u>Pablo</u> da el mandato.
 
@@ -5719,9 +5740,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El versículo siguiente explica cómo se manifiesta ese <u>andar</u>.
 
-### Efesios 5:9 – Porque el fruto de la luz consiste en toda bondad, justicia y verdad.
+### Efesios 5:9 
+Porque el fruto de la luz consiste en toda bondad, justicia y verdad.
+##### 
 
-#### Efesios 5:9 – Porque el fruto de la luz*
+#### Porque el fruto de la luz
 
 ##### Pablo explica la <u>razón</u> del mandato anterior.
 
@@ -5731,7 +5754,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El énfasis está en el resultado de andar <u>como</u> hijos de luz.
 
-#### Efesios 5:9 – consiste en toda bondad, justicia y verdad*
+#### consiste en toda bondad, justicia y verdad*
 
 ##### <u>Pablo</u> describe un solo fruto.
 
@@ -5747,11 +5770,12 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El argumento continúa mostrando cómo esa <u>nueva</u> identidad se expresa en la vida diaria.
 
-### Efesios 5:10 – Examinando qué es lo que agrada al Señor.
+### Efesios 5:10
+Examinen qué es lo que agrada al Señor,
 
-#### Efesios 5:10 – Examinando*
+#### Examinando
 
-##### El <u>verbo</u> δοκιμάζοντες (*dokimázontes*, examinando, comprobando) está en **presente, activo, participio**.
+##### El <u>verbo</u> *Examinen* (dokimázontes, examinando, comprobando) está en **presente, activo, participio**.
 
 ###### En el texto <u>griego</u> este participio depende del imperativo del versículo anterior: anden como hijos de luz* (5:8).
 
@@ -5763,11 +5787,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - **examinando continuamente**
 - qué es lo que agrada al Señor.
 
-##### El <u>tiempo</u> presente muestra una acción continua.
+#### El <u>tiempo</u> presente muestra una acción continua.
 
 ###### Mientras el creyente anda como <u>hijo</u> de luz, constantemente va poniendo a prueba y discerniendo aquello que agrada al Señor.
 
-#### Efesios 5:10 – qué es lo que agrada al Señor*
+#### qué es lo que agrada al Señor
 
 ##### El criterio del creyente deja de ser su <u>propia</u> opinión.
 
@@ -5777,9 +5801,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Romanos 12:2 expresa una idea semejante: la <u>mente</u> renovada permite comprobar cuál es la voluntad de Dios, lo que es bueno, agradable y perfecto.
 
-### Efesios 5:11 – Y no participen en las obras estériles de las tinieblas, sino más bien desenmascárenlas.*
+### Efesios 5:11 
+y no participen en las obras estériles de las tinieblas, sino más bien, desenmascárenlas.
 
-#### La oración continúa desarrollando el imperativo del versículo 8: anden como hijos de luz*.
+##### La oración continúa desarrollando el imperativo del versículo 8: anden como hijos de luz*.
 
 ##### Los <u>verbos</u> de los versículos 10 y 11 dependen de ese mandato principal.
 
@@ -5790,7 +5815,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - No participando de las obras estériles de las tinieblas.
 - Más bien, poniéndolas al descubierto.
 
-#### Efesios 5:11a – Y no participen…*
+#### Y no participen…
 
 ##### El verbo **συγκοινωνεῖτε** (*synkoinōneíte*) <u>está</u> en **presente, activo, imperativo**.
 
@@ -5807,7 +5832,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Lo que prohíbe es participar de las <u>obras</u> que caracterizan el reino de las tinieblas.
 
-#### Efesios 5:11b – …en las obras estériles de las tinieblas.*
+#### …en las obras estériles de las tinieblas.
 
 ##### Pablo <u>habla</u> de **obras**, no de fruto.
 
@@ -5833,7 +5858,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ##### El creyente, siendo <u>ahora</u> luz en el Señor (v.8), no debe participar de aquello que pertenece a esa esfera.
 
-#### Efesios 5:11c – …sino más bien desenmascárenlas.*
+#### …sino más bien desenmascárenlas.
 
 ##### El contraste se introduce con **μᾶλλον δέ** (*más <u>bien</u>*).
 
@@ -5862,7 +5887,8 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El argumento continúa en los versículos 12-13, donde Pablo explica por qué las <u>obras</u> de las tinieblas deben ser puestas al descubierto.
 
-### Efesios 5:12 – Porque es vergonzoso aun hablar de las cosas que ellos hacen en secreto.
+### Efesios 5:12
+Porque es vergonzoso aun hablar de las cosas que ellos hacen en secreto.
 
 ##### El versículo comienza con **γάρ** (*porque*).
 
@@ -5892,7 +5918,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El sujeto sigue <u>siendo</u> **ellos**, es decir, quienes pertenecen al ámbito de las tinieblas.
 
-##### La expresión en secreto* caracteriza el lugar y el carácter de esas <u>obras</u>.
+##### La expresión *en secreto* caracteriza el lugar y el carácter de esas <u>obras</u>.
 
 ###### Son <u>obras</u> ocultas, propias de las tinieblas, en contraste con la luz que las pone de manifiesto.
 
@@ -5900,11 +5926,12 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### Lo que permanece oculto en las tinieblas debe ser expuesto por la luz; precisamente porque esas obras son vergonzosas, no <u>deben</u> permanecer encubiertas.
 
-### Efesios 5:13 – Pero todas las cosas se hacen visibles cuando son expuestas por la luz, porque todo lo que se hace visible es luz.
+### Efesios 5:13
+Pero todas las cosas se hacen visibles cuando son expuestas por la luz, pues todo lo que se hace visible es luz.
 
-#### Pero todas las cosas se hacen visibles cuando son expuestas por la luz.*
+#### Pero todas las cosas se hacen visibles cuando son expuestas por la luz.
 
-##### <u>Este</u> versículo desarrolla el mandato del versículo 11: desenmascárenlas».**
+##### <u>Este</u> versículo desarrolla el mandato del versículo 11: desenmascárenlas».
 
 ###### Pablo explica por qué la luz pone al descubierto las <u>obras</u> de las tinieblas.
 
@@ -5920,7 +5947,7 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### La <u>idea</u> es:
 
-> Todas las cosas **se hacen manifiestas mientras son expuestas** por la luz.
+###### Todas las cosas **se hacen manifiestas mientras son expuestas** por la luz.
 
 ##### El <u>agente</u> de esa acción aparece expresado por la preposición **ὑπό** (*por*).
 
@@ -5934,11 +5961,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - El fruto procede de la luz (v.9).
 - La luz ahora revela lo que permanece oculto (v.13).
 
-#### Porque todo lo que se hace visible es luz.*
+#### Porque todo lo que se hace visible es luz.
 
 ##### El texto griego <u>dice</u> literalmente:
 
-> Porque todo lo que está siendo manifestado, luz es.*
+##### Porque todo lo que está siendo manifestado, *luz es.*
 
 ##### El participio **φανερούμενον** (*phaneroúmenon*, <u>siendo</u> manifestado) está en **presente, pasivo, participio**.
 
@@ -5968,7 +5995,8 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ##### Pablo cita un texto conocido por sus lectores para <u>llamar</u> a despertar y salir de las tinieblas hacia la luz de Cristo.
 
-### Efesios 5:14 – Por eso dice: Despierta, tú que duermes, y levántate de entre los muertos, y Cristo te alumbrará.
+### Efesios 5:14 
+Por esta razón dice: «Despierta, tú que duermes, Y levántate de entre los muertos, Y te alumbrará Cristo».
 
 ##### El versículo comienza con **διό** (*por eso, por tanto*).
 
@@ -6017,19 +6045,19 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ##### El texto no <u>dice</u>:
 
-> «Tú que estás muerto.»
+###### "Tú que estás muerto."
 
 ###### <u>Dice</u>:
 
-> de entre los muertos.*
+###### *de entre los muertos.*
 
 ##### Pablo utiliza una imagen que intensifica el contraste <u>entre</u> muerte y vida, tinieblas y luz.
 
 ###### La persona llamada <u>debe</u> abandonar completamente esa esfera.
 
-#### Y Cristo te alumbrará.*
+#### Y Cristo te alumbrará.
 
-##### El verbo **ἐπιφαύσει** (*alumbrará*) está en **futuro, <u>activo</u>, indicativo**.
+##### El verbo **ἐπιφαύσει** (*alumbrará*) está en futuro, <u>activo</u>, indicativo.
 
 ###### <u>No</u> es un mandato.
 
@@ -6038,8 +6066,6 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 ##### Cristo aparece <u>como</u> la fuente de la luz.
 
 ###### El mismo <u>tema</u> desarrollado desde el versículo 8 llega aquí a su culminación.
-
-
 
 ### Desarrollo del argumento (Efesios 5:8–14)
 
@@ -6271,15 +6297,15 @@ Sometiéndose...
 
 ###### Llama a <u>vivir</u> con sabiduría, reconociendo el valor de cada oportunidad que Dios concede.
 
-### Efesios 5:17 – Así pues, no sean necios, sino entiendan cuál es la voluntad del Señor.*
+### Efesios 5:17 
+Así pues, no sean necios, sino entiendan cuál es la voluntad del Señor.
 
-#### Efesios 5:17 – Así pues...*
+#### Así pues...
 
 ##### <u>Pablo</u> continúa el argumento iniciado en los versículos 15–16.
 
 ###### Ya que los creyentes deben andar cuidadosamente, aprovechando cada oportunidad <u>porque</u> los días son malos, la conclusión lógica es la siguiente:
 
-> Así pues...*
 
 ###### No introduce un tema <u>nuevo</u>.
 
@@ -6287,7 +6313,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:17 – No sean necios.*
+#### No sean necios.
 
 ##### El verbo **γίνεσθε** (*gínesthe*) está en **presente, voz <u>media</u>, imperativo**.
 
@@ -6297,11 +6323,11 @@ Sometiéndose...
 
 ##### Por eso la <u>idea</u> no es simplemente:
 
-> "No sean necios."
+###### "No sean necios."
 
-##### <u>Sino</u>:
+###### <u>Sino</u>:
 
-> **"No lleguen a convertirse en personas necias."**
+###### **"No lleguen a convertirse en personas necias."**
 
 ###### El presente imperativo expresa <u>una</u> actitud continua.
 
@@ -6317,13 +6343,13 @@ Sometiéndose...
 
 ##### Un ejemplo de <u>esta</u> necedad aparece en Gálatas 3:1–3.
 
-> ¿Tan insensatos son? Habiendo comenzado por el Espíritu, ¿van ahora a acabar por la carne?
+###### ¿Tan insensatos son? Habiendo comenzado por el Espíritu, ¿van ahora a acabar por la carne?
 
 ###### Allí Pablo muestra que un creyente puede actuar neciamente <u>cuando</u> deja de caminar conforme a la verdad del evangelio.
 
 
 
-#### Efesios 5:17 – Sino entiendan cuál es la voluntad del Señor.*
+#### Sino entiendan cuál es la voluntad del Señor.
 
 ##### El verbo **συνίετε** (*syníete*) <u>está</u> en **presente, activo, imperativo**.
 
@@ -6357,11 +6383,12 @@ Sometiéndose...
 
 ##### Romanos 12:2 desarrolla este <u>mismo</u> principio:
 
-> No se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que comprueben cuál es la voluntad de Dios: lo que es bueno, agradable y perfecto.
+###### No se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que comprueben cuál es la voluntad de Dios: lo que es bueno, agradable y perfecto.
 
-### Efesios 5:18 – Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos por el Espíritu.*
+### Efesios 5:18 
+Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos del Espíritu.
 
-#### Pablo continúa el mismo argumento iniciado en el versículo 15.
+##### Pablo continúa el mismo argumento iniciado en el versículo 15.
 
 ##### La secuencia <u>es</u> continua:
 
@@ -6376,7 +6403,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:18 – No se embriaguen con vino.*
+#### No se embriaguen con vino.
 
 ##### El verbo **μεθύσκεσθε** (*methýskesthe*) <u>está</u> en **presente, pasivo, imperativo**.
 
@@ -6398,7 +6425,7 @@ Sometiéndose...
 
 ###### El contraste es <u>entre</u> dos influencias completamente distintas.
 
-#### Efesios 5:18 – En lo cual hay disolución.*
+#### En lo cual hay disolución.
 
 ##### La palabra **ἀσωτία** (*asōtía*) <u>significa</u>:
 
@@ -6413,7 +6440,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:18 – Sino sean llenos por el Espíritu.*
+#### Sino sean llenos por el Espíritu.
 
 ##### El verbo **πληροῦσθε** (*plēroû<u>sthe</u>*) está en **presente, pasivo, imperativo**.
 
@@ -6425,7 +6452,7 @@ Sometiéndose...
 
 ###### La <u>idea</u> es:
 
-> Continúen siendo llenados.*
+###### Continúen siendo llenados.
 
 ##### La voz pasiva indica que el sujeto recibe la <u>acción</u>.
 
@@ -6441,7 +6468,7 @@ Sometiéndose...
 
 ###### Por eso <u>puede</u> expresarse:
 
-> Sean llenados por el Espíritu.*
+###### Sean llenados por el Espíritu.
 
 ##### <u>Pablo</u> no enseña que el creyente pierda el control.
 
@@ -6471,11 +6498,11 @@ Sometiéndose...
 
 
 
-#### La oración no termina en el versículo 18.
+##### La oración no termina en el versículo 18.
 
 ##### El <u>mandato</u> principal es:
 
-> Sean llenados por el Espíritu.*
+###### Sean llenados por el Espíritu.
 
 ##### A partir del versículo 19 aparecen <u>cinco</u> participios presentes:
 
@@ -6501,13 +6528,14 @@ Sometiéndose...
 
 ###### Los versículos 19–21 mostrarán el resultado visible de <u>esa</u> llenura.
 
-### Efesios 5:19 – Hablando entre ustedes con salmos, himnos y cantos espirituales, cantando y alabando en sus corazones al Señor.*
+### Efesios 5:19 
+Hablen entre ustedes con salmos, himnos y cantos espirituales, cantando y alabando con su corazón al Señor.
 
-#### El versículo continúa desarrollando el mandato principal del versículo 18.
+##### El versículo continúa desarrollando el mandato principal del versículo 18.
 
 ##### El imperativo sigue <u>siendo</u>:
 
-> Sean continuamente llenados por el Espíritu.*
+###### *Sean continuamente llenados por el Espíritu.*
 
 ##### A partir de aquí <u>Pablo</u> utiliza participios presentes.
 
@@ -6517,7 +6545,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:19 – Hablando entre ustedes...*
+#### Hablando entre ustedes...*
 
 ##### El verbo **λαλοῦντες** (*lalountes*) está en **presente, <u>activo</u>, participio**.
 
@@ -6527,7 +6555,7 @@ Sometiéndose...
 
 ##### La <u>idea</u> es:
 
-> Sean llenados por el Espíritu, hablando continuamente unos con otros...*
+###### Sean llenados por el Espíritu, hablando continuamente unos con otros...*
 
 ##### El énfasis no <u>recae</u> primero sobre la música.
 
@@ -6537,19 +6565,19 @@ Sometiéndose...
 
 
 
-#### Efesios 5:19 – Con salmos, himnos y cantos espirituales.*
+#### Con salmos, himnos y cantos espirituales.
 
 ##### La preposición **ἐν** introduce el medio mediante el <u>cual</u> esa comunicación ocurre.
 
 ###### <u>Pablo</u> menciona tres formas de expresión musical.
 
-##### **<u>Salmos</u>** (**ψαλμοῖς**)
+##### <u>Salmos</u>** (**ψαλμοῖς**)
 
 ###### Canciones acompañadas <u>originalmente</u> con instrumentos.
 
 ###### Incluye naturalmente los Salmos del Antiguo Testamento cantados por el pueblo de <u>Dios</u>.
 
-##### **<u>Himnos</u>** (**ὕμνοις**)
+##### <u>Himnos</u> (ὕμνοις)
 
 ###### Cantos de alabanza dirigidos a Dios o a <u>Cristo</u>.
 
@@ -6557,11 +6585,11 @@ Sometiéndose...
 
 ###### En la iglesia ese honor pertenece al <u>Señor</u>.
 
-##### **<u>Cantos</u> espirituales** (**ᾠδαῖς πνευματικαῖς**)
+##### <u>Cantos</u> espirituales (ᾠδαῖς πνευματικαῖς)
 
 ###### Canciones caracterizadas <u>por</u> el Espíritu.
 
-###### El adjetivo espirituales* modifica a los <u>cantos</u>.
+###### El adjetivo espirituales modifica a los <u>cantos</u>.
 
 ###### El énfasis no está solamente en el estilo musical, <u>sino</u> en su origen y carácter.
 
@@ -6569,17 +6597,15 @@ Sometiéndose...
 
 ###### Más bien reúne distintas formas mediante las cuales la iglesia comunica y celebra la <u>verdad</u> de Dios.
 
-
-
-#### Efesios 5:19 – Cantando y alabando en sus corazones al Señor.*
+#### Cantando y alabando en sus corazones al Señor.
 
 ##### Pablo añade dos <u>nuevos</u> participios.
 
-##### **ᾄδοντες** (*<u>adontes</u>*)
+##### ᾄδοντες (<u>adontes</u>)
 
 ###### Presente, <u>activo</u>, participio.
 
-###### **Cantando <u>continuamente</u>.**
+###### Cantando <u>continuamente</u>.
 
 ##### **ψάλλοντες** (*<u>psallontes</u>*)
 
@@ -6597,7 +6623,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:19 – En sus corazones al Señor.*
+#### En sus corazones al Señor.
 
 ##### La expresión en sus corazones* modifica la manera en que se <u>canta</u> y se alaba.
 
@@ -6609,7 +6635,7 @@ Sometiéndose...
 
 ##### El destinatario de <u>toda</u> esta adoración queda claramente identificado.
 
-###### Es al <u>Señor</u>.*
+###### Es al <u>Señor</u>.
 
 ###### El <u>centro</u> de la reunión no es la experiencia musical.
 
@@ -6617,7 +6643,7 @@ Sometiéndose...
 
 
 
-#### El flujo del argumento continúa siendo uno solo:
+##### El flujo del argumento continúa siendo uno solo:
 
 - Sean llenados por el Espíritu.
 - Hablando unos con otros.
@@ -6629,13 +6655,14 @@ Sometiéndose...
 
 ###### Está describiendo <u>cómo</u> habla y adora una iglesia que vive bajo la acción continua del Espíritu Santo.
 
-### Efesios 5:20 – Dando siempre gracias por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.*
+### Efesios 5:20 
+Den siempre gracias por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.
 
-#### El versículo continúa desarrollando el mandato principal del versículo 18.
+##### El versículo continúa desarrollando el mandato principal del versículo 18.
 
 ##### El imperativo <u>sigue</u> siendo:
 
-> Sean continuamente llenados por el Espíritu.*
+###### Sean continuamente llenados por el Espíritu.
 
 ##### Ahora <u>Pablo</u> añade un cuarto participio presente.
 
@@ -6645,7 +6672,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:20 – Dando siempre gracias por todo.*
+#### Dando siempre gracias por todo.
 
 ##### El verbo **εὐχαριστοῦντες** (*eucharistoû<u>ntes</u>*) está en **presente, activo, participio**.
 
@@ -6655,7 +6682,7 @@ Sometiéndose...
 
 ##### La <u>idea</u> es:
 
-> Sean llenados por el Espíritu, dando continuamente gracias...*
+###### Sean llenados por el Espíritu, dando continuamente gracias...*
 
 ##### El verbo proviene de la raíz **χάρις** (*cháris*), "<u>gracia</u>" o "favor".
 
@@ -6667,13 +6694,13 @@ Sometiéndose...
 
 ##### Pablo añade dos expresiones que amplían el alcance de <u>esta</u> gratitud.
 
-##### <u>Siempre</u>.*
+#### <u>Siempre</u>.
 
 ###### La gratitud no caracteriza solamente algunos momentos de la <u>vida</u>.
 
 ###### Es una actitud continua <u>del</u> creyente.
 
-##### Por <u>todo</u>.*
+#### Por <u>todo</u>.*
 
 ###### Pablo no <u>limita</u> la gratitud a las circunstancias agradables.
 
@@ -6685,7 +6712,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:20 – En el nombre de nuestro Señor Jesucristo.*
+#### En el nombre de nuestro Señor Jesucristo.
 
 ##### La expresión en el nombre* señala la <u>esfera</u> y la autoridad bajo la cual se presenta esta gratitud.
 
@@ -6713,13 +6740,14 @@ Sometiéndose...
 
 ###### La llenura del Espíritu produce una vida marcada por la adoración, la gratitud y una constante conciencia de la gracia de <u>Dios</u>.
 
-### Efesios 5:21 – Sometiéndose unos a otros en el temor de Cristo.
+### Efesios 5:21 
+Sométanse unos a otros en el temor de Cristo.
 
-#### Este versículo concluye la cadena de participios que comenzó en Efesios 5:19.
+##### Este versículo concluye la cadena de participios que comenzó en Efesios 5:19.
 
 ##### El mandato principal continúa <u>siendo</u>:
 
-> Sean continuamente llenados por el Espíritu.*
+###### Sean continuamente llenados por el Espíritu.
 
 ##### El verbo **ὑποτασσόμενοι** (*hypotassómenoi*) <u>está</u> en **presente, medio/pasivo, participio**.
 
@@ -6729,7 +6757,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:21 – Sometiéndose unos a otros.*
+#### Sometiéndose unos a otros.
 
 ##### El <u>verbo</u> **ὑποτάσσω** proviene de:
 
@@ -6758,11 +6786,11 @@ Sometiéndose...
 
 
 
-#### Efesios 5:21 – En el temor de Cristo.*
+#### En el temor de Cristo.
 
 ##### <u>La</u> expresión **ἐν φόβῳ Χριστοῦ** significa literalmente:
 
-> En el temor de Cristo.*
+###### En el temor de Cristo.*
 
 ##### La preposición **ἐν** introduce la esfera en la cual <u>ocurre</u> esta actitud.
 
@@ -6776,7 +6804,7 @@ Sometiéndose...
 
 
 
-#### Este versículo sirve como puente hacia toda la sección doméstica.
+##### Este versículo sirve como puente hacia toda la sección doméstica.
 
 ##### Pablo desarrolla <u>cómo</u> esa actitud se expresa en diferentes relaciones:
 
@@ -6789,7 +6817,7 @@ Sometiéndose...
 
 ##### Todo <u>este</u> desarrollo depende del mismo mandato principal:
 
-> **Sean continuamente llenados por el Espíritu.**
+###### **Sean continuamente llenados por el Espíritu.**
 
 ##### Entonces aparecen <u>cinco</u> participios que describen esa llenura:
 
@@ -6803,19 +6831,20 @@ Sometiéndose...
 
 ###### Las presenta como la evidencia visible de una vida que <u>está</u> siendo continuamente llena por el Espíritu.
 
-### Efesios 5:22 – Las mujeres, a sus propios maridos, como al Señor.
+### Efesios 5:22 
+Las mujeres estén sometidas a sus propios maridos como al Señor.
 
-#### El versículo 22 continúa la oración iniciada en Efesios 5:18.
+##### El versículo 22 continúa la oración iniciada en Efesios 5:18.
 
 ##### El mandato principal <u>sigue</u> siendo:
 
-> Sean continuamente llenados por el Espíritu.*
+###### Sean continuamente llenados por el Espíritu.
 
 ##### Después aparecen <u>cinco</u> participios que describen esa llenura.
 
 ##### El <u>último</u> participio fue:
 
-> sometiéndose unos a otros en el temor de Cristo.* (5:21)
+###### sometiéndose unos a otros en el temor de Cristo. (5:21)
 
 ##### El versículo 22 depende directamente de <u>ese</u> participio.
 
@@ -6827,7 +6856,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:22 – Las mujeres, a sus propios maridos.*
+#### Las mujeres, a sus propios maridos.
 
 ##### El sujeto <u>ahora</u> queda restringido.
 
@@ -6837,11 +6866,11 @@ Sometiéndose...
 
 ##### El <u>texto</u> tampoco dice:
 
-> "a los hombres."
+###### "a los hombres."
 
-##### <u>Dice</u>:
+###### <u>Dice</u>:
 
-> a sus propios maridos.*
+###### *a sus propios maridos.*
 
 ##### La expresión **ἰδίοις ἀνδράσιν** ("sus propios maridos") <u>limita</u> completamente el alcance del mandato.
 
@@ -6851,13 +6880,13 @@ Sometiéndose...
 
 
 
-#### «Estén sometidas.»
+#### Estén sometidas.
 
 ##### El verbo que se <u>toma</u> del versículo 21 es **ὑποτάσσω**.
 
 ##### <u>Literalmente</u> significa:
 
-> colocarse bajo un orden establecido.
+###### > colocarse bajo un orden establecido.
 
 ##### El término era usado <u>para</u> describir el orden dentro de una estructura.
 
@@ -6867,7 +6896,7 @@ Sometiéndose...
 
 ##### Pablo tampoco <u>ordena</u> al marido:
 
-> "somete a tu esposa."
+###### "somete a tu esposa."
 
 ##### La responsabilidad es dirigida exclusivamente a la <u>esposa</u>.
 
@@ -6875,7 +6904,7 @@ Sometiéndose...
 
 
 
-#### Efesios 5:22 – Como al Señor.*
+#### Como al Señor.
 
 ##### La comparación está introducida por **ὡς** ("<u>como</u>").
 
@@ -6889,7 +6918,7 @@ Sometiéndose...
 
 ##### Por eso este mandato <u>forma</u> parte de la sección que comenzó con:
 
-> Sean continuamente llenados por el Espíritu.*
+###### Sean continuamente llenados por el Espíritu.
 
 ###### Pablo no <u>está</u> enseñando una simple estructura familiar.
 
@@ -6897,27 +6926,19 @@ Sometiéndose...
 
 
 
-#### Observe el desarrollo del argumento.
+###### Observe el desarrollo del argumento.
 
 ```
 Sean llenados por el Espíritu.
-
         ↓
-
 Sometiéndose unos a otros.
-
         ↓
-
 Las mujeres...
 a sus propios maridos.
-
         ↓
-
 Porque el marido
 es cabeza de la mujer.
-
         ↓
-
 Como Cristo
 es cabeza de la Iglesia.
 ```
@@ -6926,9 +6947,10 @@ es cabeza de la Iglesia.
 
 ##### Pablo inmediatamente la fundamentará en la relación entre <u>Cristo</u> y la Iglesia (5:23–24).
 
-### Efesios 5:23 – Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, siendo Él mismo el Salvador del cuerpo.
+### Efesios 5:23 
+Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, siendo El mismo el Salvador del cuerpo.
 
-#### Efesios 5:23 – Porque...*
+#### Porque...
 
 ##### La conjunción **γάρ** ("porque") introduce la <u>razón</u> del mandato dado en el versículo anterior.
 
@@ -6938,7 +6960,7 @@ es cabeza de la Iglesia.
 
 
 
-#### Efesios 5:23 – El marido es cabeza de la mujer.*
+#### El marido es cabeza de la mujer.
 
 ##### <u>Pablo</u> hace una declaración, no un mandato.
 
@@ -6956,15 +6978,15 @@ es cabeza de la Iglesia.
 
 
 
-#### La figura de la cabeza.
+##### La figura de la cabeza.
 
-##### Pablo utiliza la imagen de un <u>cuerpo</u>.
+###### Pablo utiliza la imagen de un <u>cuerpo</u>.
 
-##### La <u>cabeza</u> ocupa el lugar de dirección del cuerpo.
+###### La <u>cabeza</u> ocupa el lugar de dirección del cuerpo.
 
-##### La comparación no pretende exaltar el valor del marido <u>sobre</u> la esposa.
+###### La comparación no pretende exaltar el valor del marido <u>sobre</u> la esposa.
 
-##### Presenta el orden establecido por <u>Dios</u> dentro del matrimonio.
+###### Presenta el orden establecido por <u>Dios</u> dentro del matrimonio.
 
 ##### El énfasis del contexto no recae todavía <u>sobre</u> cómo debe ejercer ese liderazgo.
 
@@ -6972,7 +6994,7 @@ es cabeza de la Iglesia.
 
 
 
-#### Efesios 5:23 – Así como Cristo es cabeza de la iglesia.*
+#### Así como Cristo es cabeza de la iglesia.
 
 ##### La comparación <u>está</u> introducida por **ὡς** ("así como").
 
@@ -6988,7 +7010,7 @@ es cabeza de la Iglesia.
 
 
 
-#### Efesios 5:23 – Siendo Él mismo el Salvador del cuerpo.*
+#### Siendo Él mismo el Salvador del cuerpo.
 
 ##### <u>Aquí</u> la comparación se detiene.
 
@@ -7443,29 +7465,19 @@ para santificar
 
 
 
-#### Observe cuidadosamente la progresión del pensamiento.
+##### Observe cuidadosamente la progresión del pensamiento.
 
 ```text
 Cristo amó
-
 ↓
-
 Se entregó
-
 ↓
-
 para santificar
-
 ↓
-
 habiendo purificado
-
 ↓
-
 por el lavamiento
-
 ↓
-
 con la palabra
 ```
 
@@ -7475,11 +7487,12 @@ con la palabra
 
 ##### El siguiente versículo presentará el segundo propósito de la <u>obra</u> de Cristo:
 
-> **presentar a la Iglesia delante de Sí mismo gloriosa.**
+###### **presentar a la Iglesia delante de Sí mismo gloriosa.**
 
-### Efesios 5:27 – A fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
+### Efesios 5:27 
+a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
-#### Efesios 5:27 continúa desarrollando el propósito de la obra de Cristo.
+#### continúa desarrollando el propósito de la obra de Cristo.
 
 ##### Pablo todavía no introduce una nueva <u>idea</u>.
 
@@ -7487,31 +7500,23 @@ con la palabra
 
 ```text
 Cristo amó
-
 ↓
-
 se entregó
-
 ↓
-
 para santificar
-
 ↓
-
 habiendo purificado
-
 ↓
-
 para presentar
 ```
 
 ##### Todo <u>sigue</u> respondiendo a la misma pregunta:
 
-> ¿Para qué se entregó Cristo por la Iglesia?
+###### ¿Para qué se entregó Cristo por la Iglesia?
 
 
 
-#### Efesios 5:27 – A fin de presentársela a Sí mismo.*
+#### A fin de presentársela a Sí mismo.
 
 ##### El verbo **παραστήσῃ** está en **aoristo, <u>activo</u>, subjuntivo**.
 
@@ -8737,7 +8742,7 @@ Como a Cristo
 
 ##### Pablo ya estableció en el versículo 5 que el verdadero <u>modelo</u> del servicio es como a Cristo*.
 
-#### Efesios 6:6 – sino como siervos de Cristo...
+#### sino como siervos de Cristo...
 
 ##### <u>Aquí</u> aparece el verdadero contraste.
 
@@ -8787,9 +8792,10 @@ De corazón
 
 ##### El énfasis del pasaje no es producir mejores trabajadores, sino recordar que todo servicio del creyente pertenece finalmente a <u>Cristo</u>.
 
-### Efesios 6:7 – Sirviendo de buena voluntad, como al Señor y no a los hombres».*
+### Efesios 6:7 
+Sirvan de buena voluntad, como al Señor y no a los hombres,
 
-#### Efesios 6:7 – Sirviendo de buena voluntad...
+#### Sirviendo de buena voluntad...
 
 ##### El <u>verbo</u> **δουλεύοντες (douleuontes)** está en **participio presente, activo**.
 
@@ -8805,7 +8811,7 @@ De corazón
 
 ##### Pablo no describe simplemente el trabajo realizado, sino la actitud con la que <u>debe</u> realizarse.
 
-#### Efesios 6:7 – como al Señor y no a los hombres.
+#### como al Señor y no a los hombres.
 
 ##### <u>Aquí</u> Pablo vuelve al mismo contraste iniciado en los versículos 5 y 6.
 
@@ -8845,9 +8851,10 @@ Como al Señor
 
 ##### <u>Pablo</u> transforma completamente la motivación del servicio sin cambiar la circunstancia externa del creyente.
 
-### Efesios 6:8 – sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, sea siervo o sea libre.
+### Efesios 6:8 
+sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, sea siervo o sea libre.
 
-#### Efesios 6:8 – sabiendo que...
+#### sabiendo que...
 
 ##### El participio **εἰδότες (eidotes)** proviene del verbo **οἶδα (<u>oida</u>)**, «saber» o «conocer».
 
@@ -8863,7 +8870,7 @@ Como al Señor
 
 ##### Los creyentes sirven de <u>buena</u> voluntad **porque saben** una realidad acerca del Señor.
 
-#### Efesios 6:8 – cualquier cosa buena que cada uno haga...
+#### cualquier cosa buena que cada uno haga...
 
 ##### Pablo amplía <u>ahora</u> el principio.
 
@@ -8877,7 +8884,7 @@ Como al Señor
 
 ##### Pablo no pone el énfasis en la cantidad del trabajo, sino en el <u>bien</u> que cada creyente realiza.
 
-#### Efesios 6:8 – esto recibirá del Señor.
+#### esto recibirá del Señor.
 
 ##### El verbo **κομιεῖται (komieitai)** está en **<u>futuro</u>**.
 
@@ -8891,7 +8898,7 @@ Como al Señor
 
 ##### La mirada deja de estar <u>puesta</u> en el amo terrenal y se dirige completamente al Señor.
 
-#### Efesios 6:8 – sea siervo o sea libre.
+#### sea siervo o sea libre.
 
 ##### <u>Pablo</u> elimina cualquier diferencia social.
 
@@ -8935,11 +8942,12 @@ Sea siervo o libre
 
 ## Efesios 6:9 – Instrucciones para los amos (jefes) en el Señor.
 
-### Efesios 6:9 – Pablo concluye esta sección dirigiéndose ahora a los amos creyentes. Los mismos principios aplican hoy a quienes ejercen autoridad sobre otros, como empleadores, supervisores o jefes.
+### Pablo concluye esta sección dirigiéndose ahora a los amos creyentes. Los mismos principios aplican hoy a quienes ejercen autoridad sobre otros, como empleadores, supervisores o jefes.
 
-### Efesios 6:9 – Y ustedes, amos, hagan lo mismo con sus siervos, dejando las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas.
+### Efesios 6:9 
+Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas.
 
-#### Efesios 6:9 – Y ustedes, amos, hagan lo mismo con sus siervos.
+#### Y ustedes, amos, hagan lo mismo con sus siervos.
 
 ##### Pablo cambia <u>ahora</u> de destinatario, pero no de argumento.
 
@@ -8961,7 +8969,7 @@ Sea siervo o libre
 
 ##### También transforma a quien la <u>ejerce</u>.
 
-#### Efesios 6:9 – dejando las amenazas.
+#### dejando las amenazas.
 
 ##### <u>El</u> participio **ἀνιέντες (anientes)** significa dejando», «abandonando» o «renunciando*.
 
@@ -8991,7 +8999,7 @@ Sea siervo o libre
 
 ##### <u>Esta</u> realidad cambia completamente la manera de ejercer el liderazgo.
 
-#### Efesios 6:9 – y que para Él no hay acepción de personas.
+#### y que para Él no hay acepción de personas.
 
 ##### <u>Pablo</u> concluye con una declaración.
 
