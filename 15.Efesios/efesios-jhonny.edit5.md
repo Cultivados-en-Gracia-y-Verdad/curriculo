@@ -3772,7 +3772,6 @@ a saber, que los gentiles son coherederos y miembros del mismo cuerpo, participa
 ###### El misterio de Cristo consiste en que los gentiles, por medio del evangelio, participan juntamente con los judíos creyentes de la <u>misma</u> herencia, del mismo cuerpo y de la misma promesa.
 
 ## Efesios 3:7-9 – Pablo anuncia el misterio de Cristo por la gracia de Dios.
-
 ### Efesios 3:7
 Es de este evangelio que fui hecho ministro, conforme al don de la gracia de Dios que se me ha concedido según la eficacia de Su poder.
 
@@ -3873,7 +3872,7 @@ y sacar a la luz cuál es la dispensación del misterio que por los siglos ha es
 ### Efesios 3:10
 De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por medio de la iglesia a los principados y potestades en los lugares celestiales,
 
-##### para que <u>ahora</u> la multiforme sabiduría de Dios sea dada a conocer
+#### para que <u>ahora</u> la multiforme sabiduría de Dios sea dada a conocer
 
 ###### <u>Todo</u> lo anterior conduce a este propósito.
 
@@ -3883,7 +3882,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La iglesia es el medio por el <u>cual</u> Dios da a conocer esa sabiduría.
 
-##### por <u>medio</u> de la iglesia
+#### por <u>medio</u> de la iglesia
 
 ###### La iglesia no es el <u>origen</u> de esta sabiduría.
 
@@ -3893,7 +3892,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Lo que <u>antes</u> estuvo oculto ahora puede verse en la iglesia.
 
-##### a los principados y <u>potestades</u> en los lugares celestiales
+#### a los principados y <u>potestades</u> en los lugares celestiales
 
 ###### La sabiduría de Dios no <u>solo</u> es contemplada por los seres humanos.
 
@@ -3903,9 +3902,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 3:11–12 – El propósito eterno de Dios se realizó en Cristo, y en Él tenemos libre acceso al Padre.
 
-#### Efesios 3:11
+### Efesios 3:11
+conforme al propósito eterno que llevó a cabo en Cristo Jesús nuestro Señor,
 
-##### conforme al propósito eterno que <u>llevó</u> a cabo en Cristo Jesús nuestro Señor
+#### conforme al propósito eterno que <u>llevó</u> a cabo en Cristo Jesús nuestro Señor
 
 ###### La existencia de <u>la</u> iglesia no fue una decisión improvisada.
 
@@ -3915,9 +3915,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Lo que Dios había planeado <u>desde</u> la eternidad ahora se ha cumplido en Él.
 
-#### Efesios 3:12
+### Efesios 3:12
+en quien tenemos libertad y acceso a Dios con confianza por medio de la fe en Él.
 
-##### en <u>quien</u> tenemos libertad
+#### en <u>quien</u> tenemos libertad
 
 ###### Cristo mismo es la <u>esfera</u> donde disfrutamos esta libertad.
 
@@ -3927,7 +3928,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Esta libertad existe <u>porque</u> estamos en Cristo.
 
-##### y <u>acceso</u> con confianza
+#### y <u>acceso</u> con confianza
 
 ###### En Cristo también tenemos <u>acceso</u> al Padre.
 
@@ -3937,7 +3938,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La confianza no descansa en nosotros, <u>sino</u> en Él.
 
-##### por <u>medio</u> de la fe en Él
+#### por <u>medio</u> de la fe en Él
 
 ###### La fe es el medio por el cual participamos de <u>estas</u> bendiciones.
 
@@ -3947,9 +3948,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 3:13 – Las tribulaciones de Pablo no deben desanimar a la iglesia.
 
-#### Efesios 3:13
+### Efesios 3:13
+Ruego, por tanto, que no desmayen a causa de mis tribulaciones por ustedes, porque son su gloria.
 
-##### por tanto, les <u>pido</u> que no desmayen
+#### por tanto, les <u>pido</u> que no desmayen
 
 ###### <u>Pablo</u> concluye el paréntesis con una petición.
 
@@ -3959,7 +3961,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Sus sufrimientos no son <u>motivo</u> de desánimo.
 
-##### a <u>causa</u> de mis tribulaciones por ustedes
+#### a <u>causa</u> de mis tribulaciones por ustedes
 
 ###### Pablo sufría precisamente por el ministerio que <u>Dios</u> le había confiado.
 
@@ -3969,7 +3971,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Formaban <u>parte</u> del ministerio que Dios le había encomendado.
 
-##### <u>porque</u> son la gloria de ustedes
+#### <u>porque</u> son la gloria de ustedes
 
 ###### Los sufrimientos de Pablo habían contribuido a que el evangelio llegara hasta <u>ellos</u>.
 
@@ -3979,9 +3981,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 3:14–15 – Pablo ora al Padre por el fortalecimiento de los creyentes.
 
-#### Efesios 3:14
+### Efesios 3:14
+Por esta causa, pues, doblo mis rodillas ante el Padre de nuestro Señor Jesucristo,
 
-##### por esta causa doblo mis rodillas ante el <u>Padre</u>
+#### por esta causa doblo mis rodillas ante el <u>Padre</u>
 
 ###### Pablo <u>retoma</u> la oración que había comenzado en el versículo 1.
 
@@ -3991,7 +3994,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La oración está dirigida al <u>Padre</u>.
 
-##### del Padre de nuestro <u>Señor</u> Jesucristo
+#### del Padre de nuestro <u>Señor</u> Jesucristo
 
 ###### Pablo presenta al Padre <u>como</u> el destinatario de su oración.
 
@@ -3999,9 +4002,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Los <u>versículos</u> siguientes desarrollarán el contenido de esa oración.
 
-#### Efesios 3:15
+### Efesios 3:15
+de quien recibe nombre toda familia en el cielo y en la tierra.
 
-##### de quien <u>recibe</u> nombre toda familia en el cielo y en la tierra
+#### de quien <u>recibe</u> nombre toda familia en el cielo y en la tierra
 
 ###### <u>Toda</u> familia encuentra su identidad en el Padre.
 
@@ -4013,9 +4017,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 3:16 – Pablo pide que los creyentes sean fortalecidos por el Espíritu.
 
-#### Efesios 3:16
+### Efesios 3:16
+Le ruego que Él les conceda a ustedes, conforme a las riquezas de Su gloria, el ser fortalecidos con poder por Su Espíritu en el hombre interior;
 
-##### <u>que</u> les conceda
+#### <u>que</u> les conceda
 
 ###### <u>Pablo</u> presenta la primera petición de esta oración.
 
@@ -4025,7 +4030,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La oración dirige toda la atención a la obra de <u>Dios</u>.
 
-##### conforme a las riquezas de Su <u>gloria</u>
+#### conforme a las riquezas de Su <u>gloria</u>
 
 ###### <u>Dios</u> fortalece conforme a la grandeza de Sus propias riquezas.
 
@@ -4033,7 +4038,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La petición descansa en la abundancia de <u>Dios</u> y no en la capacidad del creyente.
 
-##### el ser fortalecidos con <u>poder</u>
+#### el ser fortalecidos con <u>poder</u>
 
 ###### La necesidad no es simplemente recibir <u>ayuda</u>.
 
@@ -4041,7 +4046,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El énfasis recae en la <u>acción</u> de Dios.
 
-##### por Su <u>Espíritu</u>
+#### por Su <u>Espíritu</u>
 
 ###### El Espíritu Santo es el medio por el cual <u>Dios</u> concede este fortalecimiento.
 
@@ -4049,7 +4054,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El fortalecimiento procede de <u>Dios</u> y es realizado por Su Espíritu.
 
-##### en el <u>hombre</u> interior
+#### en el <u>hombre</u> interior
 
 ###### El fortalecimiento <u>ocurre</u> en el interior de la persona.
 
@@ -4059,9 +4064,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 3:17–19 – Pablo ora para que los creyentes comprendan el amor de Cristo.
 
-#### Efesios 3:17a
+### Efesios 3:17
+de manera que Cristo habite por la fe en sus corazones. También ruego que arraigados y cimentados en amor,
 
-##### <u>para</u> que Cristo habite por la fe en sus corazones
+#### <u>para</u> que Cristo habite por la fe en sus corazones
 
 ###### El fortalecimiento del Espíritu tiene <u>este</u> propósito.
 
@@ -4071,9 +4077,9 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La oración continúa desarrollando la obra que <u>Dios</u> realiza en el interior del creyente.
 
-#### Efesios 3:17b
 
-##### arraigados y cimentados en <u>amor</u>
+
+#### arraigados y cimentados en <u>amor</u>
 
 ###### <u>Pablo</u> describe la condición de los creyentes.
 
@@ -4085,9 +4091,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Desde esa posición <u>firme</u> continúa la siguiente petición.
 
-#### Efesios 3:18
+### Efesios 3:18
+ustedes sean capaces de comprender con todos los santos cuál es la anchura, la longitud, la altura y la profundidad,
 
-##### <u>para</u> que sean capaces de comprender
+#### <u>para</u> que sean capaces de comprender
 
 ###### <u>Pablo</u> ora para que los creyentes comprendan aquello en lo que ya permanecen.
 
@@ -4097,7 +4104,6 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La oración avanza <u>desde</u> el fortalecimiento hacia la comprensión.
 
-### Efesios 3:18
 
 #### ustedes sean capaces de comprender
 
@@ -4134,6 +4140,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ###### La siguiente <u>frase</u> añade que este amor no solo puede comprenderse, sino también conocerse personalmente.
 
 ### Efesios 3:19
+y de conocer el amor de Cristo que sobrepasa el conocimiento, para que sean llenos hasta la medida de toda la plenitud de Dios.
 
 #### y de conocer el amor de Cristo
 
@@ -4170,6 +4177,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ## Efesios 3:20-21 – Alabanza a Dios por Su poder y Su gloria
 
 ### Efesios 3:20
+Y a Aquel que es poderoso para hacer todo mucho más abundantemente de lo que pedimos o entendemos, según el poder que obra en nosotros,
 
 #### Y a Aquel que es poderoso
 
@@ -4202,6 +4210,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ###### Esa realidad conduce naturalmente a la alabanza del <u>versículo</u> siguiente.
 
 ### Efesios 3:21
+a Él sea la gloria en la iglesia y en Cristo Jesús por todas las generaciones, por los siglos de los siglos. Amén.
 
 #### a Él sea la gloria en la iglesia y en Cristo Jesús
 
@@ -4230,6 +4239,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ## Efesios 4:1-3 – Vivan de una manera digna del llamamiento recibido.
 
 ### Efesios 4:1
+Yo, pues, prisionero del Señor, les ruego que ustedes vivan de una manera digna de la vocación con que han sido llamados.
 
 #### Yo, pues, prisionero del Señor
 
@@ -4274,6 +4284,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ###### Los siguientes versículos describen cómo se expresa una vida <u>digna</u> de ese llamamiento.
 
 ### Efesios 4:2
+Que vivan con toda humildad y mansedumbre, con paciencia, soportándose unos a otros en amor,
 
 #### con toda humildad
 
@@ -4318,6 +4329,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ###### Esa actitud prepara el camino <u>para</u> preservar la unidad del Espíritu.
 
 ### Efesios 4:3
+esforzándose por preservar la unidad del Espíritu en el vínculo de la paz.
 
 #### esforzándose por preservar la unidad del Espíritu
 
@@ -4341,7 +4353,9 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Así concluye la primera descripción de una vida <u>digna</u> del llamamiento.
 
-### Efesios 4:4–5
+### Efesios 4:4
+Hay un solo cuerpo y un solo Espíritu, así como también ustedes fueron llamados en una misma esperanza de su vocación;
+
 
 #### un solo cuerpo
 
@@ -4376,6 +4390,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ###### La <u>unidad</u> del Espíritu incluye un mismo futuro esperado.
 
 ### Efesios 4:5
+un solo Señor, una sola fe, un solo bautismo,
 
 #### un solo Señor
 
@@ -4407,9 +4422,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Todas</u> estas realidades muestran la unidad producida por Dios y no por el hombre.
 
-#### Efesios 4:6
+### Efesios 4:6
+un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.
 
-##### un solo <u>Dios</u> y Padre de todos
+#### un solo <u>Dios</u> y Padre de todos
 
 ###### Pablo concluye la <u>lista</u> mostrando el origen de toda la unidad.
 
@@ -4419,7 +4435,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La <u>unidad</u> de la iglesia descansa finalmente en Dios mismo.
 
-##### que está sobre <u>todos</u>, por todos y en todos
+#### que está sobre <u>todos</u>, por todos y en todos
 
 ###### Pablo describe la relación de Dios con <u>todo</u> Su pueblo.
 
@@ -4434,6 +4450,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 ## Efesios 4:7–10 – Cristo reparte gracia a cada miembro de Su cuerpo.
 
 ### Efesios 4:7
+Pero a cada uno de nosotros se nos ha concedido la gracia conforme a la medida del don de Cristo.
 
 #### Pero a cada uno de nosotros
 
@@ -4467,9 +4484,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Los siguientes versículos explican que <u>esta</u> distribución ya había sido anunciada en las Escrituras.
 
-#### Efesios 4:8
+### Efesios 4:8
+Por tanto, dice: «CUANDO ASCENDIÓ A LO ALTO, LLEVÓ CAUTIVO UN GRAN NÚMERO DE CAUTIVOS, Y DIO DONES A LOS HOMBRES».
 
-##### Por <u>tanto</u>, dice
+#### Por <u>tanto</u>, dice
 
 ###### <u>Pablo</u> apoya su argumento citando las Escrituras.
 
@@ -4477,13 +4495,13 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El énfasis de Pablo no <u>está</u> todavía en explicar la cita, sino en introducirla.
 
-##### Cuando ascendió a lo <u>alto</u>
+#### Cuando ascendió a lo <u>alto</u>
 
 ###### Pablo <u>dirige</u> la atención a la ascensión de Cristo.
 
 ###### En los versículos 9 y 10 explicará por qué menciona <u>primero</u> la ascensión.
 
-##### llevó cautivo un <u>gran</u> número de cautivos
+#### llevó cautivo un <u>gran</u> número de cautivos
 
 ###### La <u>imagen</u> es la de un conquistador que regresa victorioso.
 
@@ -4491,7 +4509,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El énfasis principal de la cita <u>recae</u> en la victoria de Cristo.
 
-##### y dio <u>dones</u> a los hombres
+#### y dio <u>dones</u> a los hombres
 
 ###### Pablo relaciona la ascensión de Cristo con la entrega de <u>dones</u>.
 
@@ -4499,15 +4517,16 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El desarrollo culminará en el versículo 11, <u>donde</u> Pablo identifica algunos de esos dones.
 
-#### Efesios 4:9
+### Efesios 4:9
+Esta expresión: «Ascendió», ¿qué significa, sino que Él también había descendido a las profundidades de la tierra?
 
-##### <u>Esta</u> expresión: "Ascendió"
+#### <u>Esta</u> expresión: "Ascendió"
 
 ###### Pablo <u>toma</u> la palabra "ascendió" de la cita del Salmo para explicarla.
 
 ###### <u>Su</u> pregunta prepara la explicación del versículo siguiente.
 
-##### ¿qué significa <u>sino</u> que Él también había descendido?
+#### ¿qué significa <u>sino</u> que Él también había descendido?
 
 ###### Si Cristo ascendió, primero <u>tuvo</u> que descender.
 
@@ -4515,13 +4534,14 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El énfasis no recae todavía en el lugar del descenso, sino en el <u>hecho</u> de que ocurrió.
 
-##### a las partes más <u>bajas</u> de la tierra
+#### a las partes más <u>bajas</u> de la tierra
 
 ###### Pablo establece el contraste <u>entre</u> el descenso y la ascensión.
 
 ###### En el siguiente <u>versículo</u> desarrollará ese contraste.
 
 ### Efesios 4:10
+El que descendió es también el mismo que ascendió mucho más arriba de todos los cielos, para poder llenarlo todo.
 
 #### El que descendió es también el mismo que ascendió
 
@@ -4549,9 +4569,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente versículo muestra una de esas obras: Él mismo dio dones a Su <u>pueblo</u>.
 
-#### Efesios 4:11
+### Efesios 4:11
+Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros,
 
-##### Y Él <u>dio</u>
+#### Y Él <u>dio</u>
 
 ###### <u>Pablo</u> vuelve al tema del versículo 7.
 
@@ -4561,7 +4582,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El propósito de todos ellos <u>será</u> explicado en el versículo siguiente.
 
-##### a <u>algunos</u>, apóstoles
+#### a <u>algunos</u>, apóstoles
 
 ###### <u>Cristo</u> dio a algunos este ministerio.
 
@@ -4569,7 +4590,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo los menciona como <u>parte</u> de los dones dados por Cristo.
 
-##### a <u>otros</u>, profetas
+#### a <u>otros</u>, profetas
 
 ###### <u>Cristo</u> también dio profetas a Su iglesia.
 
@@ -4577,7 +4598,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo continúa mostrando la diversidad de <u>dones</u>.
 
-##### a <u>otros</u>, evangelistas
+#### a <u>otros</u>, evangelistas
 
 ###### <u>Cristo</u> dio evangelistas.
 
@@ -4585,7 +4606,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El propósito de este ministerio <u>será</u> explicado en los versículos siguientes.
 
-##### y a <u>otros</u>, pastores y maestros
+#### y a <u>otros</u>, pastores y maestros
 
 ###### <u>Pablo</u> une estos dos términos más estrechamente que los anteriores.
 
@@ -4597,9 +4618,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 4:12–13 – El propósito de los dones de Cristo
 
-#### Efesios 4:12
+### Efesios 4:12
+a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
 
-##### a fin de capacitar a los <u>santos</u>
+#### a fin de capacitar a los <u>santos</u>
 
 ###### <u>Pablo</u> comienza explicando el propósito por el cual Cristo dio estos dones.
 
@@ -4609,7 +4631,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La preparación tiene un propósito que <u>Pablo</u> continúa desarrollando.
 
-##### <u>para</u> la obra del ministerio
+#### <u>para</u> la obra del ministerio
 
 ###### Los santos son preparados <u>para</u> servir.
 
@@ -4619,7 +4641,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Ese servicio conduce al <u>siguiente</u> propósito.
 
-##### para la edificación del <u>cuerpo</u> de Cristo
+#### para la edificación del <u>cuerpo</u> de Cristo
 
 ###### El servicio de los santos produce la edificación del cuerpo de <u>Cristo</u>.
 
@@ -4629,9 +4651,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente versículo responderá hasta cuándo continúa <u>esta</u> edificación.
 
-#### Efesios 4:13
+### Efesios 4:13
+hasta que todos lleguemos a la unidad de la fe y del pleno conocimiento del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo.
 
-##### hasta que <u>todos</u> lleguemos
+#### hasta que <u>todos</u> lleguemos
 
 ###### Pablo ahora responde <u>hasta</u> cuándo continúa la edificación del cuerpo.
 
@@ -4639,7 +4662,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Cristo continúa edificando Su iglesia <u>hasta</u> alcanzar el propósito que Pablo describe a continuación.
 
-##### a la <u>unidad</u> de la fe
+#### a la <u>unidad</u> de la fe
 
 ###### La meta no es solamente <u>reunir</u> personas.
 
@@ -4649,7 +4672,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo continúa describiendo esa <u>misma</u> meta.
 
-##### y del pleno conocimiento del Hijo de <u>Dios</u>
+#### y del pleno conocimiento del Hijo de <u>Dios</u>
 
 ###### La unidad de la fe va unida al <u>pleno</u> conocimiento del Hijo de Dios.
 
@@ -4659,7 +4682,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Ese</u> crecimiento conduce al siguiente resultado.
 
-##### a la condición de un <u>hombre</u> maduro
+#### a la condición de un <u>hombre</u> maduro
 
 ###### Pablo presenta la iglesia como un solo <u>hombre</u> que alcanza la madurez.
 
@@ -4669,7 +4692,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo todavía no termina de describir esa <u>meta</u>.
 
-##### a la medida de la estatura de la plenitud de <u>Cristo</u>
+#### a la medida de la estatura de la plenitud de <u>Cristo</u>
 
 ###### Cristo mismo establece la <u>medida</u> del crecimiento.
 
@@ -4683,9 +4706,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 4:14-16 – La iglesia madura ya no es arrastrada por enseñanzas engañosas, sino que creciendo en Cristo, todo el cuerpo continúa siendo edificado en amor.
 
-#### Efesios 4:14
+### Efesios 4:14
+Entonces ya no seremos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina, por la astucia de los hombres, por las artimañas engañosas del error.
 
-##### entonces ya no seremos <u>niños</u>
+#### entonces ya no seremos <u>niños</u>
 
 ###### <u>Pablo</u> presenta el primer resultado de la edificación del cuerpo de Cristo.
 
@@ -4693,7 +4717,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente <u>cuadro</u> describe cómo actúa un niño espiritual.
 
-##### sacudidos por las <u>olas</u>
+#### sacudidos por las <u>olas</u>
 
 ###### Pablo utiliza la <u>imagen</u> del mar para describir la inestabilidad.
 
@@ -4701,7 +4725,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La <u>imagen</u> continúa desarrollándose en la siguiente frase.
 
-##### y llevados de aquí <u>para</u> allá por todo viento de doctrina
+#### y llevados de aquí <u>para</u> allá por todo viento de doctrina
 
 ###### Las <u>olas</u> y el viento forman una sola escena.
 
@@ -4709,7 +4733,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo ahora explica <u>quién</u> produce ese engaño.
 
-##### por <u>la</u> astucia de los hombres
+#### por <u>la</u> astucia de los hombres
 
 ###### El problema no es solamente la existencia de <u>falsas</u> enseñanzas.
 
@@ -4717,7 +4741,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> todavía continúa describiendo ese engaño.
 
-##### por las artimañas engañosas del <u>error</u>
+#### por las artimañas engañosas del <u>error</u>
 
 ###### El engaño sigue un <u>método</u> cuidadosamente preparado.
 
@@ -4725,9 +4749,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo termina el contraste en el siguiente versículo mostrando el <u>camino</u> correcto.
 
-#### Efesios 4:15
+### Efesios 4:15
+Más bien, al hablar la verdad en amor, creceremos en todos los aspectos en Aquel que es la cabeza, es decir, Cristo,
 
-##### Más bien, al hablar la verdad en <u>amor</u>
+#### Más bien, al hablar la verdad en <u>amor</u>
 
 ###### Pablo contrasta la inestabilidad del versículo anterior con una manera completamente diferente de <u>vivir</u>.
 
@@ -4737,7 +4762,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Ese modo de <u>vivir</u> produce el siguiente resultado.
 
-##### <u>creceremos</u>
+#### <u>creceremos</u>
 
 ###### El crecimiento es el resultado esperado de la edificación del <u>cuerpo</u>.
 
@@ -4747,7 +4772,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente complemento muestra hacia <u>dónde</u> crece la iglesia.
 
-##### en todos los aspectos hacia <u>Aquel</u> que es la cabeza
+#### en todos los aspectos hacia <u>Aquel</u> que es la cabeza
 
 ###### El crecimiento <u>tiene</u> una dirección definida.
 
@@ -4757,7 +4782,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo identifica finalmente <u>quién</u> es esa cabeza.
 
-##### es <u>decir</u>, Cristo
+#### es <u>decir</u>, Cristo
 
 ###### Cristo es la <u>cabeza</u> del cuerpo.
 
@@ -4767,9 +4792,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente versículo explicará <u>cómo</u> el cuerpo recibe de Cristo ese crecimiento.
 
-#### Efesios 4:16
+### Efesios 4:16
+de quien todo el cuerpo, estando bien ajustado y unido por la cohesión que las coyunturas proveen, conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
 
-##### de <u>quien</u> todo el cuerpo
+#### de <u>quien</u> todo el cuerpo
 
 ###### Pablo vuelve la atención a <u>Cristo</u>, la cabeza.
 
@@ -4779,7 +4805,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> ahora explica cómo ese cuerpo continúa creciendo.
 
-##### estando bien ajustado y <u>unido</u>
+#### estando bien ajustado y <u>unido</u>
 
 ###### Todo el cuerpo permanece unido <u>como</u> un solo organismo.
 
@@ -4787,7 +4813,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> sigue describiendo la manera en que Cristo sostiene ese crecimiento.
 
-##### por la cohesión <u>que</u> las coyunturas proveen
+#### por la cohesión <u>que</u> las coyunturas proveen
 
 ###### Las coyunturas mantienen unido todo el <u>cuerpo</u>.
 
@@ -4795,7 +4821,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Ningún miembro vive separado del <u>resto</u> del cuerpo.
 
-##### conforme al funcionamiento de <u>cada</u> miembro
+#### conforme al funcionamiento de <u>cada</u> miembro
 
 ###### <u>Cada</u> miembro participa en el crecimiento del cuerpo.
 
@@ -4805,7 +4831,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El resultado aparece en la <u>última</u> frase.
 
-##### produce el crecimiento del cuerpo para su <u>propia</u> edificación en amor
+#### produce el crecimiento del cuerpo para su <u>propia</u> edificación en amor
 
 ###### El <u>cuerpo</u> crece mientras cada miembro cumple su función.
 
@@ -4815,13 +4841,14 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo concluye mostrando una iglesia que continúa creciendo <u>bajo</u> la dirección de Cristo, su cabeza.
 
-## Efesios 4:17-19 – Instrucción que viene del Señor.
+## Efesios 4:17-19 – Instrucción que viene del Señor
 
 ### Efesios 4:17-19 – Después de describir el crecimiento del cuerpo de Cristo, Pablo comienza a mostrar cómo debe vivir esa nueva humanidad.
 
-#### Efesios 4:17
+### Efesios 4:17
+Esto digo, pues, y afirmo juntamente con el Señor: que ustedes ya no anden así como andan también los gentiles, en la vanidad de su mente.
 
-##### Esto digo y afirmo juntamente con el <u>Señor</u>
+#### Esto digo y afirmo juntamente con el <u>Señor</u>
 
 ###### Pablo presenta <u>esta</u> exhortación con toda autoridad.
 
@@ -4831,7 +4858,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Ahora</u> presenta la exhortación.
 
-##### que ustedes ya no <u>anden</u>
+#### que ustedes ya no <u>anden</u>
 
 ###### Pablo llama a abandonar una <u>manera</u> de vivir.
 
@@ -4839,7 +4866,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La comparación aparece <u>inmediatamente</u>.
 
-##### así como <u>andan</u> también los gentiles
+#### así como <u>andan</u> también los gentiles
 
 ###### Pablo contrasta la vida de los creyentes con la de quienes permanecen <u>fuera</u> de Cristo.
 
@@ -4847,7 +4874,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> ahora describe esa manera de vivir.
 
-##### en la vanidad de su <u>mente</u>
+#### en la vanidad de su <u>mente</u>
 
 ###### La <u>mente</u> gobierna la dirección de esa vida.
 
@@ -4855,9 +4882,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Los siguientes versículos explicarán <u>cómo</u> esa condición afecta toda la vida del ser humano.
 
-#### Efesios 4:18
+### Efesios 4:18
+Ellos tienen entenebrecido su entendimiento, están excluidos de la vida de Dios por causa de la ignorancia que hay en ellos, por la dureza de su corazón.
 
-##### teniendo entenebrecido su <u>entendimiento</u>
+#### teniendo entenebrecido su <u>entendimiento</u>
 
 ###### Pablo comienza describiendo la condición interior del <u>hombre</u> sin Cristo.
 
@@ -4867,7 +4895,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo <u>ahora</u> muestra la consecuencia de ese estado.
 
-##### excluidos de la <u>vida</u> de Dios
+#### excluidos de la <u>vida</u> de Dios
 
 ###### La vida de <u>Dios</u> no forma parte de su realidad.
 
@@ -4875,7 +4903,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo explica por qué <u>ocurre</u> esa separación.
 
-##### por causa de la ignorancia que hay en <u>ellos</u>
+#### por causa de la ignorancia que hay en <u>ellos</u>
 
 ###### La separación de la vida de <u>Dios</u> está relacionada con la ignorancia que permanece en ellos.
 
@@ -4883,7 +4911,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Pablo <u>añade</u> una causa aún más profunda.
 
-##### por la <u>dureza</u> de su corazón
+#### por la <u>dureza</u> de su corazón
 
 ###### La <u>dureza</u> del corazón sostiene esa condición de ignorancia.
 
@@ -4891,9 +4919,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Así se completa la explicación de por qué los gentiles viven alejados de la vida de <u>Dios</u>.
 
-#### Efesios 4:19
+### Efesios 4:19
+Habiendo llegado a ser insensibles, se entregaron a la sensualidad para cometer con avidez toda clase de impurezas.
 
-##### <u>habiendo</u> llegado a ser insensibles
+#### <u>habiendo</u> llegado a ser insensibles
 
 ###### Pablo describe una condición en la que la conciencia ha <u>dejado</u> de responder.
 
@@ -4901,7 +4930,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### Esa condición prepara lo que <u>sucede</u> después.
 
-##### <u>se</u> entregaron a la sensualidad
+#### <u>se</u> entregaron a la sensualidad
 
 ###### Al perder toda sensibilidad, <u>ellos</u> mismos se entregaron a una vida sin freno moral.
 
@@ -4909,7 +4938,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La siguiente <u>frase</u> muestra hacia dónde conduce esa entrega.
 
-##### para cometer con <u>avidez</u> toda clase de impureza
+#### para cometer con <u>avidez</u> toda clase de impureza
 
 ###### La sensualidad produce una búsqueda continua de toda <u>clase</u> de impureza.
 
@@ -4919,9 +4948,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ### Efesios 4:20–21 – La verdad que aprendieron en Cristo
 
-#### Efesios 4:20
+### Efesios 4:20
+Pero ustedes no han aprendido a Cristo de esta manera.
 
-##### Pero ustedes no han aprendido a <u>Cristo</u> de esta manera
+#### Pero ustedes no han aprendido a <u>Cristo</u> de esta manera
 
 ###### Pablo contrasta el <u>estilo</u> de vida de los gentiles con lo que los creyentes aprendieron en Cristo.
 
@@ -4931,29 +4961,31 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente versículo recuerda <u>cómo</u> la recibieron.
 
-#### Efesios 4:21
+### Efesios 4:21
+Si en verdad lo oyeron y han sido enseñados en Él, conforme a la verdad que hay en Jesús,
 
-##### si en <u>verdad</u> lo oyeron
+#### si en <u>verdad</u> lo oyeron
 
 ###### Pablo asume que ellos escucharon el mensaje acerca de <u>Cristo</u>.
 
 ###### Esa <u>verdad</u> llegó a ellos por medio del anuncio del evangelio.
 
-##### y han <u>sido</u> enseñados en Él
+#### y han <u>sido</u> enseñados en Él
 
 ###### Los creyentes no solamente oyeron acerca de Cristo; fueron enseñados en <u>unión</u> con Él.
 
 ###### <u>Pablo</u> prepara al lector para explicar el contenido de esa enseñanza.
 
-##### conforme a la verdad que hay en <u>Jesús</u>
+#### conforme a la verdad que hay en <u>Jesús</u>
 
 ###### La enseñanza recibida corresponde a la <u>verdad</u> que se encuentra en Jesús.
 
 ###### Los versículos siguientes explican en qué consiste esa <u>verdad</u>.
 
-#### Efesios 4:22
+### Efesios 4:22
+que en cuanto a la anterior manera de vivir, ustedes se despojen del viejo hombre, que se corrompe según los deseos engañosos,
 
-##### en <u>cuanto</u> a la anterior manera de vivir
+#### en <u>cuanto</u> a la anterior manera de vivir
 
 ###### <u>Pablo</u> comienza delimitando el ámbito de su explicación.
 
@@ -4961,7 +4993,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### No <u>está</u> describiendo la nueva vida en Cristo, sino la que quedó atrás.
 
-##### ustedes se despojen del viejo <u>hombre</u>
+#### ustedes se despojen del viejo <u>hombre</u>
 
 ###### Los creyentes fueron enseñados a dejar <u>atrás</u> al viejo hombre.
 
@@ -4969,7 +5001,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### La siguiente frase explica por qué ese <u>viejo</u> hombre pertenece al pasado.
 
-##### que se corrompe según los <u>deseos</u> del engaño
+#### que se corrompe según los <u>deseos</u> del engaño
 
 ###### El viejo hombre pertenece a un <u>orden</u> de vida que continúa corrompiéndose.
 
@@ -4977,9 +5009,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> prepara el contraste con el nuevo hombre que presentará en los versículos siguientes.
 
-#### Efesios 4:23
+### Efesios 4:23
+y que sean renovados en el espíritu de su mente,
 
-##### y que <u>sean</u> renovados en el espíritu de su mente
+#### y que <u>sean</u> renovados en el espíritu de su mente
 
 ###### Pablo continúa explicando la enseñanza que recibieron en <u>Cristo</u>.
 
@@ -4991,9 +5024,10 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente versículo mostrará el resultado de esa renovación: vestir el nuevo <u>hombre</u>.
 
-#### Efesios 4:24
+### Efesios 4:24
+y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado en la justicia y santidad de la verdad.
 
-##### y se vistan del nuevo <u>hombre</u>
+#### y se vistan del nuevo <u>hombre</u>
 
 ###### Pablo completa la enseñanza que recibieron en <u>Cristo</u>.
 
@@ -5001,7 +5035,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### El siguiente texto describe cómo es ese <u>nuevo</u> hombre.
 
-##### el cual ha sido creado <u>según</u> Dios
+#### el cual ha sido creado <u>según</u> Dios
 
 ###### El nuevo hombre no surge del esfuerzo <u>humano</u>.
 
@@ -5009,7 +5043,7 @@ De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por 
 
 ###### <u>Pablo</u> explica ahora las características de esa nueva creación.
 
-##### en la justicia y santidad de la <u>verdad</u>
+#### en la justicia y santidad de la <u>verdad</u>
 
 ###### El nuevo <u>hombre</u> pertenece a una esfera caracterizada por la justicia y la santidad.
 
