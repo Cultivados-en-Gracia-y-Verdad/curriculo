@@ -4,9 +4,9 @@ set -euo pipefail
 # ================================
 # configure these:
 # ================================
-MANUAL_NAME="Discipulado Bíblico"
-FILE_LOCATION="../18.Discipulado-Biblico"
-FILENAME="/discipulado-en-la-biblia(0.6).md"
+MANUAL_NAME="Efesios"
+FILE_LOCATION="../15.Efesios"
+FILENAME="/efesios(0.5).md"
 # ==================================
 
 FILE="${FILE_LOCATION}${FILENAME}"

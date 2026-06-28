@@ -1,0 +1,7 @@
+{
+  "id": "efesios",
+  "title": "Efesios",
+  "subtitle": "El misterio de Cristo revelado por medio del evangelio",
+  "version": "0.5",
+  "entry": "slides/markdown.md"
+}
