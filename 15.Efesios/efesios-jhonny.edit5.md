@@ -2276,7 +2276,7 @@ Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de 
 
 ##### Pablo continúa describiendo la condición presentada en los versículos anteriores.
 
-##### La expresión entre ellos* retoma a los <u>hijos</u> de desobediencia mencionados en el versículo 2.
+##### La expresión entre *ellos* retoma a los <u>hijos</u> de desobediencia mencionados en el versículo 2.
 
 ##### Pablo no <u>inicia</u> un tema nuevo.
 
@@ -2306,7 +2306,7 @@ Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de 
 
 ##### Pablo todavía no presenta el <u>cambio</u>.
 
-##### Ese contraste comenzará con las palabras Pero <u>Dios</u>...* (v.4).
+##### Ese contraste comenzará con las palabras Pero <u>Dios</u>... (v.4).
 
 ##### Antes de <u>llegar</u> allí, completa la descripción de esa antigua manera de vivir.
 
@@ -2336,9 +2336,9 @@ Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de 
 
 ##### Pablo describe la condición en que todos se encontraban delante de Dios.
 
-##### La expresión éramos* continúa señalando la condición <u>pasada</u>.
+##### La expresión *éramos* continúa señalando la condición <u>pasada</u>.
 
-##### Ser hijos de ira* describe a quienes estaban bajo el <u>justo</u> juicio de Dios.
+##### Ser hijos de *ira* describe a quienes estaban bajo el <u>justo</u> juicio de Dios.
 
 ##### <u>Pablo</u> no está hablando simplemente de malos hábitos.
 
@@ -2352,7 +2352,7 @@ Entre ellos también todos nosotros en otro tiempo vivíamos en las pasiones de 
 
 ##### Todos necesitaban la <u>misma</u> gracia y la misma obra salvadora de Dios.
 
-##### Precisamente por eso, las palabras que siguen producen el gran cambio del <u>pasaje</u>: Pero Dios...*.
+##### Precisamente por eso, las palabras que siguen producen el gran cambio del <u>pasaje</u>: *Pero Dios...*.
 
 ### Conexiones bíblicas
 
@@ -2442,6 +2442,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:5–6 – Dios dio vida juntamente con Cristo
 
 ### Efesios 2:5
+aun cuando estábamos muertos en nuestros delitos, nos dio vida juntamente con Cristo (por gracia ustedes han sido salvados),
 
 #### aun cuando estábamos muertos
 
@@ -2506,6 +2507,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - La afirmación «por gracia ustedes han sido salvados» será desarrollada en Efesios 2:8–9.
 
 ### Efesios 2:6
+y con Él nos resucitó y con Él nos sentó en los lugares celestiales en Cristo Jesús,
 
 #### y con Él nos resucitó
 
@@ -2581,7 +2583,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ##### Después de decir que Dios nos dio <u>vida</u>, nos resucitó y nos sentó juntamente con Cristo, ahora explica por qué lo hizo.
 
-##### La expresión a fin <u>de</u>* introduce el propósito de las acciones descritas en los versículos anteriores.
+##### La expresión *a fin de* introduce el propósito de las <u>acciones</u> descritas en los versículos anteriores.
 
 ##### Pablo dirige nuevamente toda la atención <u>hacia</u> Dios.
 
@@ -2621,7 +2623,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ##### Se manifestó por medio de Su bondad <u>para</u> con nosotros.
 
-##### Pablo vuelve a incluirse <u>junto</u> con todos los creyentes mediante el pronombre nosotros*.
+##### Pablo vuelve a incluirse <u>junto</u> con todos los creyentes mediante el pronombre *nosotros*.
 
 ##### La <u>bondad</u> de Dios quedó demostrada en todo lo que acaba de describir.
 
@@ -2631,7 +2633,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ##### <u>Pablo</u> concluye la sección regresando al centro de toda la carta.
 
-##### Desde el comienzo de Efesios, todas las bendiciones espirituales han sido presentadas **en <u>Cristo</u>**.
+##### Desde el comienzo de Efesios, todas las <u>bendiciones</u> espirituales han sido presentadas **en Cristo**.
 
 ##### En <u>Cristo</u> fuimos bendecidos.
 
@@ -2652,6 +2654,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:8–9 – La salvación es por gracia y no por obras
 
 ### Efesios 2:8
+Porque por gracia ustedes han sido salvados por medio de la fe, y esto no procede de ustedes, sino que es don de Dios;
 
 #### Porque por gracia ustedes han sido salvados
 
@@ -2703,6 +2706,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - El versículo siguiente reforzará esta misma idea al decir: «no por obras».
 
 ### Efesios 2:9
+no por obras, para que nadie se gloríe.
 
 #### no por obras
 
@@ -2736,6 +2740,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:10 – Creados en Cristo Jesús para buenas obras
 
 ### Efesios 2:10
+Porque somos hechura Suya, creados en Cristo Jesús para hacer buenas obras, las cuales Dios preparó de antemano para que anduviéramos en ellas.
 
 #### Porque somos hechura Suya
 
@@ -2805,7 +2810,8 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 # Efesios 2:11–12 – Recuerden cómo era su condición anterior
 
-## Efesios 2:11
+### Efesios 2:11
+Por tanto, recuerden que en otro tiempo, ustedes los gentiles en la carne, que son llamados «Incircuncisión» por la tal llamada «Circuncisión», hecha en la carne por manos humanas,
 
 #### Por tanto, recuerden
 
@@ -2873,6 +2879,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - Pablo tratará nuevamente el valor de la circuncisión exterior e interior en Romanos 2:28–29 y Filipenses 3:2–3.
 
 ### Efesios 2:12
+recuerden que en ese tiempo ustedes estaban separados de Cristo, excluidos de la ciudadanía de Israel, extraños a los pactos de la promesa, sin tener esperanza y sin Dios en el mundo.
 
 #### recuerden que en aquel tiempo
 
@@ -2957,6 +2964,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:13–16 – Cristo acerca a los que estaban lejos y crea un solo hombre nuevo
 
 ### Efesios 2:13
+Pero ahora en Cristo Jesús, ustedes, que en otro tiempo estaban lejos, han sido acercados por la sangre de Cristo.
 
 #### Pero ahora en Cristo Jesús
 
@@ -3018,6 +3026,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - El contraste entre «lejos» y «cerca» continuará desarrollándose en Efesios 2:14–22.
 
 ### Efesios 2:14
+Porque Él mismo es nuestra paz, y de ambos pueblos hizo uno, derribando la pared intermedia de separación,
 
 #### Porque Él mismo es nuestra paz
 
@@ -3072,6 +3081,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - Efesios 2:17 mostrará que Cristo anunció paz tanto a los que estaban lejos como a los que estaban cerca.
 
 ### Efesios 2:15
+poniendo fin a la enemistad en Su carne, la ley de los mandamientos expresados en ordenanzas, para crear en Él mismo de los dos un nuevo hombre, estableciendo así la paz,
 
 #### poniendo fin a la enemistad
 
@@ -3171,6 +3181,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - Colosenses 3:10–11 vuelve a hablar del nuevo hombre.
 
 ### Efesios 2:16
+y para reconciliar con Dios a los dos en un cuerpo por medio de la cruz, habiendo dado muerte en ella a la enemistad.
 
 #### y para reconciliar con Dios
 
@@ -3254,8 +3265,9 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:17–18 – Cristo anunció la paz y dio acceso al Padre
 
 ### Efesios 2:17
+Y VINO Y ANUNCIÓ PAZ A USTEDES QUE ESTABAN LEJOS, Y PAZ A LOS QUE ESTABAN CERCA.
 
-#### Y vino
+#### Y VINO
 
 ##### Pablo continúa describiendo la <u>obra</u> de Cristo.
 
@@ -3267,7 +3279,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 
 
-#### y anunció paz
+#### Y ANUNCIÓ PAZ
 
 ##### <u>Pablo</u> muestra el contenido del anuncio de Cristo.
 
@@ -3282,7 +3294,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 
 
-#### a ustedes que estaban lejos
+#### A USTEDES QUE ESTABAN LEJOS
 
 ##### Pablo <u>vuelve</u> a mencionar a los creyentes gentiles.
 
@@ -3294,7 +3306,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 
 
-#### y paz a los que estaban cerca
+#### Y PAZ A LOS QUE ESTABAN CERCA
 
 ##### Pablo incorpora <u>ahora</u> al pueblo judío.
 
@@ -3314,6 +3326,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - Romanos 10:15 destaca el anuncio de las buenas nuevas de paz.
 
 ### Efesios 2:18
+Porque por medio de Cristo los unos y los otros tenemos nuestra entrada al Padre en un mismo Espíritu.
 
 #### Porque por medio de Él
 
@@ -3393,6 +3406,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 - Hebreos 10:19–22 desarrolla el acceso confiado a la presencia de Dios por la obra de Cristo.
 
 ### Efesios 2:19
+Así pues, ustedes ya no son extraños ni extranjeros, sino que son conciudadanos de los santos y son de la familia de Dios.
 
 #### Así pues
 
@@ -3458,6 +3472,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 2:20–21 – Edificados sobre el fundamento
 
 ### Efesios 2:20
+Están edificados sobre el fundamento de los apóstoles y profetas, siendo Cristo Jesús mismo la piedra angular,
 
 #### edificados sobre el fundamento
 
@@ -3492,6 +3507,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 
 ### Efesios 2:21
+en quien todo el edificio, bien ajustado, va creciendo para ser un templo santo en el Señor.
 
 #### en quien
 
@@ -3566,12 +3582,12 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ###### La presencia de <u>Dios</u> es lo que distingue a Su pueblo.
 
 ###### El edificio alcanza su propósito cuando llega a ser la <u>morada</u> de Dios en el Espíritu.
-
-# Efesios 3:1-13 – La administración del misterio revelado a Pablo
+# EFESIOS 3:1-13 – LA ADMINISTRACIÓN DEL MINISTERIO REVELADO A PABLO
 
 ## Efesios 3:1-6 – El misterio revelado por el evangelio a los apóstoles y profetas según la administración de la gracia de Dios.
 
 ### Efesios 3:1
+Por esta causa yo, Pablo, prisionero de Cristo Jesús por amor de ustedes los gentiles
 
 #### Por esta causa, yo, Pablo, prisionero de Cristo Jesús
 
@@ -3595,9 +3611,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ### Efesios 3:2-3 – La administración de la gracia de Dios y la revelación del misterio.
 
-#### Efesios 3:2
+### Efesios 3:2
+si en verdad han oído de la dispensación de la gracia de Dios que me fue dada para ustedes;
 
-##### si en verdad han oído de la administración de la <u>gracia</u> de Dios
+#### si en verdad han oído de la administración de la <u>gracia</u> de Dios
 
 ###### <u>Pablo</u> supone que los efesios ya conocen el ministerio que Dios le había confiado.
 
@@ -3609,9 +3626,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El siguiente versículo explica <u>cuál</u> era ese encargo.
 
-#### Efesios 3:3
+### Efesios 3:3
+que por revelación me fue dado a conocer el misterio, tal como antes les escribí brevemente.
 
-##### por revelación me fue <u>dado</u> a conocer el misterio
+#### por revelación me fue <u>dado</u> a conocer el misterio
 
 ###### Pablo no llegó al misterio por estudio, tradición o razonamiento <u>humano</u>.
 
@@ -3621,7 +3639,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Desde ese momento el misterio ya no debía permanecer escondido, <u>sino</u> ser anunciado a las iglesias.
 
-##### tal <u>como</u> antes les escribí brevemente
+#### tal <u>como</u> antes les escribí brevemente
 
 ###### <u>Pablo</u> recuerda que este tema ya había sido mencionado anteriormente en la carta.
 
@@ -3629,9 +3647,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ### Efesios 3:4-5 – El misterio de Cristo, antes oculto, ahora revelado.
 
-#### Efesios 3:4
+### Efesios 3:4
+En vista de lo cual, leyendo, podrán entender mi comprensión del misterio de Cristo,
 
-##### En vista de lo <u>cual</u>, leyendo podrán entender
+#### En vista de lo <u>cual</u>, leyendo podrán entender
 
 ###### Pablo <u>espera</u> que los efesios comprendan el misterio por medio de lo que les ha escrito.
 
@@ -3639,7 +3658,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El siguiente versículo explica por qué Pablo pudo entender <u>este</u> misterio.
 
-##### mi comprensión del misterio de <u>Cristo</u>
+#### mi comprensión del misterio de <u>Cristo</u>
 
 ###### Pablo no presenta una opinión personal, sino el entendimiento que recibió de <u>Dios</u>.
 
@@ -3647,9 +3666,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Lo importante no es Pablo, <u>sino</u> el misterio que le fue confiado anunciar.
 
-#### Efesios 3:5
+### Efesios 3:5
+que en otras generaciones no se dio a conocer a los hijos de los hombres, como ahora ha sido revelado a Sus santos apóstoles y profetas por el Espíritu;
 
-##### que en otras generaciones no se dio a conocer a los <u>hijos</u> de los hombres
+#### que en otras generaciones no se dio a conocer a los <u>hijos</u> de los hombres
 
 ###### El misterio no era conocido <u>por</u> las generaciones anteriores.
 
@@ -3657,7 +3677,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### No significa que <u>Dios</u> cambiara Su plan, sino que todavía no lo había revelado.
 
-##### <u>como</u> ahora ha sido revelado a Sus santos apóstoles y profetas por el Espíritu
+#### <u>como</u> ahora ha sido revelado a Sus santos apóstoles y profetas por el Espíritu
 
 ###### Dios decidió revelar <u>ahora</u> lo que antes había mantenido oculto.
 
@@ -3667,9 +3687,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El <u>siguiente</u> versículo explica en qué consiste exactamente ese misterio.
 
-#### Efesios 3:5
+### Efesios 3:5
+que en otras generaciones no se dio a conocer a los hijos de los hombres, como ahora ha sido revelado a Sus santos apóstoles y profetas por el Espíritu;
 
-##### que en otras generaciones no se dio a conocer a los <u>hijos</u> de los hombres
+#### que en otras generaciones no se dio a conocer a los <u>hijos</u> de los hombres
 
 ###### El misterio permaneció <u>oculto</u> durante las generaciones anteriores.
 
@@ -3679,7 +3700,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El siguiente contraste muestra que <u>ahora</u> la situación ha cambiado.
 
-##### como <u>ahora</u> ha sido revelado
+#### como <u>ahora</u> ha sido revelado
 
 ###### Dios decidió revelar <u>ahora</u> lo que antes permanecía oculto.
 
@@ -3687,7 +3708,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Lo que antes era un misterio <u>ahora</u> puede ser anunciado con claridad.
 
-##### a Sus <u>santos</u> apóstoles y profetas
+#### a Sus <u>santos</u> apóstoles y profetas
 
 ###### <u>Dios</u> reveló este misterio a los apóstoles y profetas que puso como fundamento de la iglesia.
 
@@ -3695,7 +3716,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Pablo forma parte de ese grupo al que Dios confió <u>este</u> ministerio.
 
-##### <u>por</u> el Espíritu
+#### <u>por</u> el Espíritu
 
 ###### El Espíritu Santo fue quien <u>hizo</u> posible esta revelación.
 
@@ -3707,9 +3728,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ### Efesios 3:6 – El contenido del misterio de Cristo.
 
-#### Efesios 3:6
+### Efesios 3:6
+a saber, que los gentiles son coherederos y miembros del mismo cuerpo, participando igualmente de la promesa en Cristo Jesús mediante el evangelio.
 
-##### a <u>saber</u>, que los gentiles son
+#### a <u>saber</u>, que los gentiles son
 
 ###### Pablo <u>deja</u> de hablar del misterio en forma general y ahora explica en qué consiste.
 
@@ -3717,7 +3739,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Todo lo que <u>sigue</u> describe la nueva posición de los gentiles en Cristo.
 
-##### <u>coherederos</u>
+#### <u>coherederos</u>
 
 ###### Los gentiles creyentes reciben la <u>misma</u> herencia junto con los judíos creyentes.
 
@@ -3725,7 +3747,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### La herencia ya no distingue entre judíos y gentiles dentro del cuerpo de <u>Cristo</u>.
 
-##### miembros del mismo <u>cuerpo</u>
+#### miembros del mismo <u>cuerpo</u>
 
 ###### Judíos y gentiles <u>forman</u> un solo cuerpo.
 
@@ -3733,7 +3755,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Cristo no creó dos pueblos dentro de la iglesia, sino un <u>solo</u> cuerpo.
 
-##### participantes <u>igualmente</u> de la promesa
+#### participantes <u>igualmente</u> de la promesa
 
 ###### Los gentiles comparten la misma promesa que <u>Dios</u> cumple en Cristo.
 
@@ -3741,7 +3763,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Ningún creyente participa por mérito personal, <u>sino</u> por la obra de Cristo.
 
-##### en Cristo <u>Jesús</u> mediante el evangelio
+#### en Cristo <u>Jesús</u> mediante el evangelio
 
 ###### Todo esto es posible únicamente por la <u>unión</u> con Cristo.
 
@@ -3752,6 +3774,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 ## Efesios 3:7-9 – Pablo anuncia el misterio de Cristo por la gracia de Dios.
 
 ### Efesios 3:7
+Es de este evangelio que fui hecho ministro, conforme al don de la gracia de Dios que se me ha concedido según la eficacia de Su poder.
 
 #### Es de este evangelio que fui hecho ministro
 
@@ -3785,9 +3808,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ### Efesios 3:8-9 – La gracia dada a Pablo para anunciar las riquezas de Cristo.
 
-#### Efesios 3:8
+### Efesios 3:8
+A mí, que soy menos que el más pequeño de todos los santos, se me concedió esta gracia: anunciar a los gentiles las inescrutables riquezas de Cristo,
 
-##### A mí, que soy menos que el más pequeño de <u>todos</u> los santos
+#### A mí, que soy menos que el más pequeño de <u>todos</u> los santos
 
 ###### Pablo no presenta su ministerio <u>desde</u> su importancia, sino desde la gracia de Dios.
 
@@ -3797,7 +3821,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Precisamente por eso atribuye <u>todo</u> a la gracia de Dios.
 
-##### se me concedió <u>esta</u> gracia
+#### se me concedió <u>esta</u> gracia
 
 ###### El ministerio de Pablo fue un <u>regalo</u> y no una recompensa.
 
@@ -3805,7 +3829,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### Esa gracia <u>tenía</u> un propósito específico.
 
-##### anunciar a los gentiles las inescrutables riquezas de <u>Cristo</u>
+#### anunciar a los gentiles las inescrutables riquezas de <u>Cristo</u>
 
 ###### Pablo recibió la responsabilidad de anunciar a los gentiles las buenas noticias de <u>Cristo</u>.
 
@@ -3815,9 +3839,10 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El siguiente versículo añade un segundo propósito de esta <u>gracia</u>.
 
-#### Efesios 3:9
+### Efesios 3:9
+y sacar a la luz cuál es la dispensación del misterio que por los siglos ha estado oculto en Dios, creador de todas las cosas.
 
-##### y sacar a la luz <u>cuál</u> es la administración del misterio
+#### y sacar a la luz <u>cuál</u> es la administración del misterio
 
 ###### Pablo recibió también la responsabilidad de hacer visible lo que <u>Dios</u> había mantenido oculto.
 
@@ -3825,7 +3850,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### La administración del misterio consiste en el plan que Dios ahora revela por <u>medio</u> del evangelio.
 
-##### que por <u>siglos</u> ha estado oculto en Dios
+#### que por <u>siglos</u> ha estado oculto en Dios
 
 ###### El misterio no nació en tiempos de <u>Pablo</u>.
 
@@ -3835,7 +3860,7 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ###### El misterio <u>estuvo</u> oculto para los hombres, pero nunca estuvo oculto para Dios.
 
-##### creador de <u>todas</u> las cosas
+#### creador de <u>todas</u> las cosas
 
 ###### El mismo Dios que creó <u>todas</u> las cosas fue quien diseñó este plan desde el principio.
 
@@ -3845,7 +3870,8 @@ Pero Dios, que es rico en misericordia, por causa del gran amor con que nos amó
 
 ### Efesios 3:10–12 – La iglesia hace visible la sabiduría de Dios conforme a Su propósito eterno.
 
-#### Efesios 3:10
+### Efesios 3:10
+De este modo, la infinita sabiduría de Dios puede ser dada a conocer ahora por medio de la iglesia a los principados y potestades en los lugares celestiales,
 
 ##### para que <u>ahora</u> la multiforme sabiduría de Dios sea dada a conocer
 
