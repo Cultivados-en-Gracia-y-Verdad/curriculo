@@ -7017,448 +7017,1723 @@ Cada mujer respete a su marido.
 
 ##### Más bien, el evangelio da significado al matrimonio.
 
-## Efesios 6:1-3 – Instrucciones para los hijos en el Señor.
+![flow-cap5](images/flow-cap5.png)
 
-### Efesios 6:1-3 – Las instrucciones ahora son dadas para los hijos creyentes en el Señor.
+## Efesios 6:1–3 – Instrucciones para los hijos en el Señor
 
-#### Las instrucciones para los hijos creyentes vienen doblemente reforzadas porque ellos también conocen el misterio de Cristo y la iglesia, y ellos forman parte del cuerpo de Cristo.
+### Efesios 6:1–3 – Pablo continúa desarrollando cómo se expresa la sumisión mutua producida por la llenura del Espíritu.
 
-#### Recordemos que Pablo empezó estas instrucciones desde Efesios 5:18 al mandar que sean llenados por Espíritu; Observación: , mediante un verbo participio les dijo siendo sumisos unos a otros.
+#### La exhortación comenzó en Efesios 5:18 con el mandato: **«sean llenos del Espíritu»**.
 
-#### Ahora quiere enseñar la sumisión de los hijos a los padres y después instruirá a los padres, respecto de sus hijos.
+#### Los cinco participios que siguen (hablando, cantando, dando gracias y sometiéndose) dependen de ese mandato principal.
 
-### Efesios 6:1 – *“Hijos, **obedezcan** a sus padres en el Señor, porque esto es justo”.* 
+#### A partir de Efesios 5:22 Pablo muestra cómo esa actitud de sumisión se expresa en tres relaciones del hogar:
 
-#### Efesios 6:1 – *“Hijos*” Pablo se dirige a hijos creyentes y no a todos los hijos en general.
+- esposas y maridos;
+- hijos y padres;
+- siervos y amos.
 
-##### La palabra TA TEKNA para hijos lleva un artículo plural, neutro: (observación léxica: forma usada para introducir una glosa) que Pablo se dirige a los hijos tanto hombre y mujeres; TEKNA – hijo de la familia.
+#### Ahora dirige la atención a los hijos creyentes.
 
-#### Efesios 6:1 – **obedezcan** a sus padres en el Señor*”, Este es un mandato directo para los hijos.
+------
 
-##### El imperativo HYPAKOUETE, obedezcan viene de dos palabras (HYPO – bajo, debajo, y AKOÚO – oír, escuchar) (observación léxica: forma usada para introducir una glosa) oír bajo: la imagen que presenta es de alguien que se pone bajo la autoridad de otro y escucha para hacer lo que se le dice:
+### Efesios 6:1 – *«Hijos, obedezcan a sus padres en el Señor, porque esto es justo.»*
 
-##### Ya que el mandato es presente es una acción habitual, activo indica escuchar con la intención de obedecer, no solo escuchar.
+#### Efesios 6:1 – *«Hijos...»*
 
-##### Aunque no da un orden, pero primero debe escuchar con atención para luego obedecer.
+##### Pablo ahora se dirige directamente a los hijos dentro de la iglesia.
 
-##### Pablo les manda a los hijos a obedecer porque su relación con sus padres es de autoridad inmediata y temporal.
+##### El sustantivo **τὰ τέκνα (ta tekna)** lleva artículo y está en plural neutro.
 
-##### La palabra “padres” en griego GONEUSIN es la palabra progenitores, quiere decir que la obediencia es para el padre y madre.
+##### El término **τέκνα** describe a los hijos de una familia, sin distinguir entre hijos e hijas.
 
-##### “a sus padres en el Señor” no quiere decir: que obedezcan a sus padres si son creyentes en el Señor. (textual dice: obedezcan a sus primogenitores en el Señor)
+##### El mandato, por tanto, alcanza a todos los hijos creyentes.
 
-##### La preposición EN caso dativo KYRIO, en (dentro de la espera) el Señor pone un límite; (observación léxica: forma usada para introducir una glosa) dentro de la esfera de la vida, autoridad y relación que da Cristo.
+------
 
-##### El mandamiento sería hijos, obedezcan a sus padres sin sobrepasar la autoridad o la voluntad del Señor.
+#### Efesios 6:1 – *«obedezcan a sus padres...»*
 
-##### Si el padre manda a robar eso deja de ser en el Señor, en ese caso debe obedecer a Dios que dice; no robarás. Hechos 5:29
+##### El verbo **ὑπακούετε (hypakouete)** está en **presente, activo, imperativo**.
 
-##### “en el Señor” no solo pone un límite, sino también el motivo para obedecer es el Señor; obedeciendo en el Señor, también hay testimonio de que eres del Señor.
+##### El tiempo presente comunica una obediencia continua como forma habitual de vivir.
 
-##### Pablo no solo comunica un límite, el motivo sino también da la razón.
+##### La voz activa muestra que el hijo responde voluntariamente al mandato.
 
-#### Efesios 6:1 – porque esto es justo*”. Pablo dice que la obediencia en el Señor a los padres es lo correcto; está alineado con el orden establecido de Dios. Éxodo 20:12
+##### El verbo proviene de:
 
-### Efesios 6:2 – **HONRA** A TU PADRE Y A TU MADRE (que es el primer mandamiento con promesa)”,* 
+- **ὑπό** = debajo.
+- **ἀκούω** = oír.
 
-#### Efesios 6:2 – **HONRA** A TU PADRE Y A TU MADRE Pablo cita Éxodo 20:12 para confirmar lo que acaba de decir: esto es justo.
+##### La idea es **escuchar desde una posición de sujeción**, con la disposición de obedecer.
 
-##### El imperativo HONRAR, implica reverenciar, valorar o poner atención, cuidado
+##### Pablo no simplemente manda a escuchar.
 
-#### Efesios 6:2 – (que es el primer mandamiento con promesa) No dice directamente que si obedecen recibirán la promesa.
+##### Manda a escuchar con el propósito de obedecer.
 
-##### Pablo quiere decir que Honrar al Padre y a la Madre es el primer mandamiento de los 10 que tiene promesa.
+------
 
-##### La promesa es la siguiente y tiene dos partes.
+#### Efesios 6:1 – *«a sus padres...»*
 
-### Efesios 6:3 – *“PARA QUE TE VAYA BIEN, Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA”.* 
+##### El sustantivo **γονεῦσιν (goneusin)** significa **progenitores**.
 
-#### Efesios 6:3 – *“PARA QUE TE VAYA BIEN*”, Pablo pone el verbo en subjuntivo; es un deseo una posibilidad.
+##### La obediencia es dirigida tanto al padre como a la madre.
 
-##### Hay personas que honran a sus padres, pero muchas veces no les va bien; pero el Señor toma en cuenta el honrar a los padres.
+##### Pablo mantiene el orden establecido por Dios para la familia.
 
-#### Efesios 6:3 – Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA*”. No siempre tuvieron todos aquellos que honraron a sus padres larga vida en esta tierra.
+------
 
-##### Pero en la corta vida disfrutaron de la abundancia que el Señor les dio la vida.
+#### Efesios 6:1 – *«en el Señor.»*
 
-##### El Señor no está limitado para cumplir estas promesas; pero lo que el Señor quiere es que honren a sus padres.
+##### La expresión **ἐν Κυρίῳ (en Kyriō)** modifica el mandato de obedecer.
 
-##### Pablo pasa a instruir a los padres sobre los hijos.
+##### La preposición **ἐν** con dativo señala la esfera dentro de la cual debe ejercerse esa obediencia.
 
-## Efesios 6:4 – Instrucciones para los padres en el Señor.
+##### No significa:
 
-### Efesios 6:4 – Las instrucciones para los padres creyentes en el Señor con referencia a como criar a los hijos, se expresan mediante dos mandamientos, no provocar a ira sino criarlos.
+> "si los padres son creyentes."
 
-### Efesios 6:4 – *“Y ustedes, padres, no **provoquen** a ira a sus hijos, sino **críenlos** en disciplina e instrucción del Señor”.* 
+##### Significa:
 
-#### Son dos los mandamientos aquí para los padres creyentes “no provoquen a ira, críenlos”
+> "obedecer dentro del ámbito de la autoridad del Señor."
 
-#### Efesios 6:4 – *“Y ustedes, padres, no **provoquen** a ira a sus hijos*”. Pablo se enfoca ahora en cómo deben ser los padres en su trato para con sus hijos.
+##### Cristo continúa siendo la autoridad suprema.
 
-##### El imperativo PARORGIZATE, está en tiempo presente, en voz activa; es un mandato que tiene una partícula ME, (observación léxica: forma usada para introducir una glosa) cesar una acción en curso; dejar de provocar a ira.
+##### Si una orden contradice la voluntad del Señor, el creyente permanece obligado a obedecer primero a Dios.
 
-##### La palabra viene de (PARA – al lado, junto a, y ORGÍZO de ORGE-ira – hacer enojar) indica empujar a alguien hasta la ira o irritar; tiene la idea de que sea repetido hasta provocar resentimiento, rebeldía, amargura. Colosenses 3:21
+##### Así, la obediencia a los padres nunca queda separada de la obediencia a Cristo.
 
-##### La provocación a ira causa el control y desahogo de los padres; ocurre en siguientes casos: Castigo por ira y no por corrección, injusto en el orden, humillar o ridiculizar delante de los demás, favorecer a uno sobre otro.
+------
 
-#### Efesios 6:4 – sino **críenlos** en disciplina e instrucción del Señor. Este es el segundo mandamiento para los padres de cómo tienen que criar a sus hijos, no a los hijos del otro. 
+#### Efesios 6:1 – *«porque esto es justo.»*
 
-##### El imperativo EKTREPHETE, viene de (EK – fuera, completamente, y TREPHO – alimentar, nutrir, criar) Lit. alimentar hasta la madurez o criar completamente.
+##### Pablo termina dando la razón del mandato.
 
-##### Tiempo presente una acción continua; el verbo activo se usa para la crianza completa de un niño, eso implica alimentar, dar educación, formación de carácter hasta que sea maduro.
+##### El adjetivo **δίκαιον (dikaion)** significa **justo**, **correcto**, **conforme al orden establecido por Dios**.
 
-##### El contraste está en que provocar a ira es quebrar y criarlo es edificar.
+##### La obediencia no se presenta como una simple tradición familiar.
 
-##### Pablo al mandar que cada uno críe a sus hijos, no dijo que lo hicieran según lo que a ellos les guste o les parezca, es decir, según su propia sabiduría.
+##### Pablo afirma que corresponde al orden justo que Dios estableció.
 
-##### Antes de continuar con las explicaciones de disciplina e instrucción hay un Sustantivo calificativo “SEÑOR” que modifica ambas palabras. 
+##### Este fundamento prepara la cita del quinto mandamiento en los versículos siguientes.
 
-###### “en disciplina **del Señor**” 
+### Efesios 6:2 – *«HONRA A TU PADRE Y A TU MADRE (que es el primer mandamiento con promesa).»*
 
-###### “en instrucción **del Señor**”
+#### Efesios 6:2 – *«HONRA A TU PADRE Y A TU MADRE.»*
 
-###### Pablo dice con la disciplina e instrucción que viene del Señor, los cuales reflejan su carácter, y apuntan, llevan, conducen a Él.
+##### Pablo ahora cita directamente **Éxodo 20:12**.
 
-###### Quiere decir que el padre tiene la responsabilidad de comunicar el evangelio a sus hijos, si es posible discipular, con disciplina e instrucción llevarlos a Cristo.
+##### La cita sirve como fundamento para la afirmación del versículo anterior: **«porque esto es justo.»**
 
-##### **“críenlos** en disciplina” PAIDEÍA, tiene una proposición, indica críenlos con o por medio de la disciplina. No solo implica disciplina, también educación, formación.
+##### La obediencia de los hijos no es una idea nueva del Nuevo Testamento.
 
-##### La disciplina no es solo castigo; en la cultura griega era la educación completa hasta la madurez, así como Dios hace con sus hijos. Hebreos 12:5-11
+##### Forma parte del orden que Dios estableció desde el principio.
 
-###### Instrucción: enseñar qué es lo correcto.
+##### El verbo **τίμα (tima)** está en **presente, activo, imperativo**.
 
-###### Corrección: corregir con vara cuando se desvía.
+##### El tiempo presente comunica una actitud continua de honra.
 
-###### Formación: crear disciplina interna como hábitos.
+##### La voz activa muestra que el hijo responde personalmente a este mandato.
 
-##### **“críenlos** en instrucción” NOUTHESÍA, viene de (NOUS – mente, entendimiento, y TITHEMI – poner) esto implica amonestaciones, consejos, advertencias, razonar instruir con palabras. 
+##### Honrar implica reconocer el valor, el lugar y la autoridad que Dios ha dado a los padres.
 
-###### Amonestar: confrontar con el error para corregir
+##### Pablo no vuelve a desarrollar aquí la obediencia.
 
-###### Advertir: señalar el peligro o el error antes de que ocurra
+##### Ahora dirige la atención hacia el principio bíblico de la honra.
 
-###### Aconsejar: dar instrucciones positivas para guiar.
+------
 
-#### Pablo cierra esta instrucción a los padres diciendo: críenlos con la disciplina e instrucción que viene del Señor.
+#### Efesios 6:2 – *«que es el primer mandamiento con promesa.»*
 
-## Efesios 6:5-8 - Instrucciones para los esclavos (trabajadores) en el Señor.
+##### Pablo añade una observación acerca del mandamiento que acaba de citar.
 
-### Efesios 6:5-8 – Las instrucciones para los esclavos creyentes, estos mismos principios se aplican a los trabajadores creyentes en el Señor en este tiempo presente.
+##### No significa que sea el primer mandamiento dado por Dios.
 
-### Efesios 6:5 – *“Siervos, **obedezcan** a sus amos en la tierra, con temor y temblor, con la sinceridad de su corazón, como a Cristo”;* 
+##### Tampoco significa que los demás mandamientos no sean importantes.
 
-#### Efesios 6:5 – *“Siervos*”, La palabra es DOULOI, para siervos o esclavos; en griego lleva artículo; los siervos o esclavos.
+##### La expresión **«primer mandamiento con promesa»** destaca que este es el primero de los Diez Mandamientos que lleva una promesa explícita asociada a su obediencia.
 
-##### En la cultura greco-romana era normal tener esclavos en la casa, había esclavos por voluntad propia y por la fuerza.
+##### Pablo prepara así al lector para la promesa que citará en el versículo siguiente.
 
-##### Era la clase social menos considerada, muchos de ellos no gozaban de derechos de ciudadanía, a acceder a educación, no tenían salario.
+##### La promesa consta de dos partes:
 
-##### Aunque no tenemos esclavos en este tiempo, estos mismos principios se aplican para los empleados o trabajadores creyentes hoy en día.
+- «para que te vaya bien»;
+- «y para que tengas larga vida sobre la tierra».
 
-##### Pablo se dirige a ellos, dándoles el mandamiento de obedecer a sus amos, como a Cristo.
+### Efesios 6:3 – *«PARA QUE TE VAYA BIEN, Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.»*
 
-##### Estos hombres estaban haciendo un servicio a Cristo mismo, estas palabras usan Pablo; “como a Cristo, para el Señor” Colosense 3:22-25
+#### Efesios 6:3 – *«PARA QUE TE VAYA BIEN.»*
 
-####  Efesios 6:5 – **obedezcan** a sus amos en la tierra, con temor y temblor, con la sinceridad de su corazón, Pablo usa la misma palabra (obedezcan) que para los hijos.
+##### Pablo continúa citando **Éxodo 20:12**, presentando la primera parte de la promesa asociada al mandamiento de honrar a los padres.
 
-##### El imperativo HYPAKOUETE, obedezcan viene de dos palabras (HYPO – bajo, debajo, y AKOÚO – oír, escuchar) (observación léxica: forma usada para introducir una glosa) oír bajo: la imagen que presenta es de alguien que se pone bajo la autoridad de otro y escucha para hacer lo que se le dice:
+##### La conjunción **ἵνα (hina)** introduce el propósito o resultado esperado de la promesa.
 
-##### Ya que el mandato es presente es una acción habitual, es activo indica escuchar con la intención de obedecer, no solo escuchar.
+##### El verbo está en **subjuntivo**, no porque Pablo exprese duda, sino porque depende de **ἵνα**, que normalmente introduce propósito o resultado.
 
-##### Aunque no hay un orden, pero primero debe escuchar con atención para luego obedecer.
+##### La promesa expresa el bien que Dios asocia con este mandamiento.
 
-##### Es importante escuchar atentamente para obedecer adecuadamente; esto (observación léxica: forma usada para introducir una glosa) una obediencia, no conforme a lo que a uno le parece bien.
+##### Pablo no explica aquí cómo ni cuándo Dios cumple esta promesa.
 
-##### “a sus amos en la tierra” textual los amos según la carne, o amos humanos, terrenales. La palabra KÝRIOIS: “a los amos, a los señores” indica el dueño de un esclavo.
+##### Simplemente recuerda que Dios vinculó una bendición al mandamiento de honrar a los padres.
 
-##### “en la tierra o según la carne” Pablo aclara que la obediencia es a la autoridad humana, temporal, terrenal. (KYRIOIS-señores terrenales vs 5, 9, y KYRIOS-Señor en los cielos vs 7, 8, 9) para evitar la confusión.
+------
 
-##### Obedezcan “con temor” con temor reverente; es un respeto profundo, reverencia ante alguien que es superior.
+#### Efesios 6:3 – *«Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.»*
 
-###### Pablo no quiere una obediencia con malicia; sino con respeto a un superior.
+##### Esta es la segunda parte de la promesa.
 
-##### Obedezcan “con temblor” un temblor físico; miedo con respeto a lo que es santo y para hacer lo correcto, y no solo por cumplir.
+##### El verbo también está en **subjuntivo**, nuevamente gobernado por la conjunción **ἵνα**.
 
-##### Obedezcan “con sinceridad de su corazón” (observación léxica: forma usada para introducir una glosa) sin doblez, sino con sinceridad de corazón puro; la cultura romana decía de los esclavos que eran mentirosos, flojos; pero esta instrucción cambia al esclavo su manera de pensar, ya que su servicio es como a Cristo.
+##### La expresión **«sobre la tierra»** proviene de la cita del Antiguo Testamento.
 
-##### Temor no (observación léxica: forma usada para introducir una glosa) tener pánico o miedo, ni temblor (observación léxica: forma usada para introducir una glosa) templar de pánico; la razón es que la obediencia con temor y temblor es como a Cristo.
+##### Pablo conserva la promesa tal como aparece en la Escritura.
 
-#### Efesios 6:5 – como a Cristo La obediencia con igualdad; a la inversa sería: así como obedeces a Cristo con temor y temblor, de la misma manera a tu amo terrenal.
+##### El énfasis del pasaje no está en analizar las circunstancias de cada creyente.
 
-##### Pablo a continuación contrasta el servicio con sencilles de corazón, con el de aquellos que sirven al ojo. Colosense 3:22
+##### El énfasis está en mostrar que Dios mismo unió una promesa al mandamiento de honrar a los padres.
 
-##### Pablo dice en Colosense 3:24 – Es a Cristo el Señor a quien sirven*”
+------
 
-### Efesios 6:6 – *“no para ser vistos, como los que quieren agradar a los hombres, sino como siervos de Cristo, haciendo de corazón la voluntad de Dios”.*
+### Observación
 
-#### Efesios 6:6 – *“no para ser vistos*”, Pablo no quiere la obediencia solo cuando alguien está mirando.
+##### La estructura del argumento es sencilla y progresiva:
 
-#### Efesios 6:6 – , como los que quieren agradar a los hombres*”, Los que sirven para ser visto solo quieren agradar a los hombres, quieren ser alabados por hombres.
+```text
+Obedezcan a sus padres.
 
-##### Pablo les dijo en versículo 5 que su obediencia tenía que ser como a Cristo; esto implica como para agradar al Señor y no a los hombres.
+↓
 
-#### Efesios 6:6 – sino como siervos de Cristo*”, Aunque en esta tierra servían a personas, eran siervos o esclavos de sus amos terrenales, pero su obediencia tenía que ser como siervos de Cristo. Genesis 39:22-23
+Porque esto es justo.
 
-#### Efesios 6:6 – haciendo de corazón la voluntad de Dios”.* Haciendo con espíritu de entusiasmo, con alegría la voluntad de Dios, no de mala gana. Hechos 5:41
+↓
 
-##### Cuando los siervos obedezcan, esa obediencia sea de acuerdo con la voluntad de Dios.
+La Escritura lo confirma.
 
-### Efesios 6:7 – *“Sirvan de buena voluntad, como al Señor y no a los hombres”,* 
+↓
 
-#### Pablo no solo repite a quien están sirviendo; obedecer implica servir a alguien, Pablo lleva a los siervos a poner sus ojos en el Señor.
+Honra a tu padre y a tu madre.
 
-#### La razón se encuentra en el versículo 8 porque deben servir de buena voluntad.
+↓
 
-#### Efesios 6:7 – *“Sirvan de buena voluntad, Pablo les dijo que obedezcan a sus amos terrenales, sirviendo con muchas ganas, como quien se brinda a servir sin que se lo pidan.
+Este es el primer mandamiento con promesa.
 
-#### Efesios 6:7 – como al Señor y no a los hombres Sirviendo como al Señor; (observación léxica: forma usada para introducir una glosa) que mientras están sirviendo a sus amos consideren que en realidad están sirviendo al Señor.
+↓
 
-##### “como al Señor y no a los hombres” El servicio que hacen como para el Señor, y no en contra de Su voluntad. Hechos 5:29
+Para que te vaya bien.
 
-### Efesios 6:8 – *“sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, sea siervo o sea libre”.* 
+↓
 
-#### Efesios 6:8 – *“sabiendo que cualquier cosa buena que cada uno haga*”, El verbo sabiendo no es una posibilidad está en tiempo perfecto; indica que ellos lo saben, entonces sabiendo o siguen sabiendo.
+Y para que tengas larga vida sobre la tierra.
+```
 
-##### Saben que cualquier cosa buena que ellos hagan o cada uno haga, hay alguien que está tomando en cuenta todo lo que ellos hagan; por eso dice:
+##### Pablo no fundamenta la obediencia en el temor.
 
-#### Efesios 6:8 – esto recibirá del Señor*”, Esta es una declaración, no transmite duda, afirma lo que saben: sabiendo que cualquier cosa buena que cada uno haga, esto también, lo bueno, recibirá del Señor.
+##### La fundamenta en el orden establecido por Dios y en la promesa que Él mismo dio.
 
-##### Pablo no menciona las cosas malas, solo cosas buenas, porque por estas vienen las recompensas del Señor. Recibirán está en futuro, es un hecho que recibirán.
+## Efesios 6:4 – Instrucciones para los padres en el Señor
 
-##### Pablo hace esta declaración asumiendo que ellos responderán haciendo lo que es bueno, ante el mandato que les encargó. Obedezcan sirviendo de buena voluntad como a Cristo.
+### Efesios 6:4 – Pablo ahora dirige la atención a los padres, mostrando dos mandamientos que describen cómo debe ejercerse la autoridad dentro del hogar.
 
-#### Efesios 6:8 – sea siervo o sea libre. Pablo aplicó la declaración: cualquier cosa buena que cada uno haga, esto recibirá del Señor*” tanto al siervo o esclavo como al libre.
+### Efesios 6:4 – *«Y ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina e instrucción del Señor.»*
 
-###### Los que son libres, podría referirse en el contexto, a los amos, a quienes ahora se va a dirigir; si los amos hacen cosas buenas, eso recibirán del Señor.
+#### El versículo está construido sobre dos imperativos en contraste.
+
+```text
+No provoquen...
+        │
+     sino
+        │
+Críenlos...
+```
+
+##### Pablo primero prohíbe una manera de tratar a los hijos.
+
+##### Después presenta la manera correcta.
+
+------
+
+#### Efesios 6:4 – *«Y ustedes, padres...»*
+
+##### Pablo se dirige ahora a los padres creyentes.
+
+##### Después de hablar a los hijos, ahora habla a quienes ejercen la autoridad dentro del hogar.
+
+------
+
+#### Efesios 6:4 – *«no provoquen a ira a sus hijos.»*
+
+##### El verbo **παροργίζετε (parorgizete)** está en **presente, activo, imperativo**.
+
+##### La negación **μή** con un imperativo presente normalmente comunica la idea de dejar de realizar una acción o no continuar practicándola.
+
+##### El verbo proviene de:
+
+- **παρά** = junto a.
+- **ὀργίζω** = irritar, provocar a ira.
+
+##### La idea es provocar repetidamente hasta despertar ira, resentimiento o exasperación.
+
+##### Pablo no desarrolla aquí las maneras en que esto ocurre.
+
+##### Solamente prohíbe esa forma de tratar a los hijos.
+
+------
+
+#### Efesios 6:4 – *«sino críenlos...»*
+
+##### El verbo **ἐκτρέφετε (ektrephete)** está en **presente, activo, imperativo**.
+
+##### El tiempo presente comunica una responsabilidad continua.
+
+##### El verbo proviene de:
+
+- **ἐκ** = completamente.
+- **τρέφω** = alimentar, nutrir, criar.
+
+##### Describe el cuidado continuo que lleva al crecimiento y la madurez.
+
+##### El contraste es claro.
+
+##### Los padres no deben destruir mediante la provocación.
+
+##### Deben edificar mediante la crianza.
+
+------
+
+#### Efesios 6:4 – *«en disciplina e instrucción del Señor.»*
+
+##### La preposición **ἐν** introduce el ámbito o medio en que debe desarrollarse esa crianza.
+
+##### Los dos sustantivos aparecen unidos por **καί**, formando una sola idea.
+
+##### Ambos quedan modificados por la expresión **«del Señor»**.
+
+##### Pablo no dice simplemente:
+
+- disciplina;
+- instrucción.
+
+##### Dice:
+
+- disciplina **del Señor**;
+- instrucción **del Señor**.
+
+##### Es el Señor quien define el carácter de ambas.
+
+------
+
+#### «Disciplina»
+
+##### El sustantivo **παιδεία (paideia)** describe la formación integral de un hijo.
+
+##### Incluye educación, corrección, entrenamiento y desarrollo hacia la madurez.
+
+##### No se limita al castigo.
+
+##### Su propósito es formar.
+
+------
+
+#### «Instrucción»
+
+##### El sustantivo **νουθεσία (nouthesia)** proviene de:
+
+- **νοῦς** = mente.
+- **τίθημι** = poner.
+
+##### Describe la enseñanza que corrige el pensamiento mediante la exhortación, la advertencia y la instrucción.
+
+##### El énfasis recae en dirigir la mente hacia lo correcto.
+
+------
+
+### Observación
+
+##### El desarrollo del versículo es sencillo y progresivo.
+
+```text
+Padres
+
+↓
+
+No provoquen a ira.
+
+↓
+
+Sino...
+
+↓
+
+Críenlos.
+
+↓
+
+En disciplina del Señor.
+
+↓
+
+Y en instrucción del Señor.
+```
+
+##### Pablo no solamente prohíbe una conducta.
+
+##### También muestra el ambiente en el que debe desarrollarse la crianza: bajo la disciplina y la instrucción que pertenecen al Señor.
+
+## Efesios 6:5–8 – Instrucciones para los siervos en el Señor
+
+### Efesios 6:5–8 – Pablo ahora dirige sus instrucciones a los siervos creyentes. Aunque el contexto inmediato es la esclavitud del mundo grecorromano, los principios presentados también describen la manera en que un creyente debe servir bajo cualquier autoridad humana.
+
+### Efesios 6:5 – *«Siervos, obedezcan a sus amos según la carne, con temor y temblor, con sinceridad de su corazón, como a Cristo.»*
+
+#### Pablo continúa desarrollando la sumisión dentro de las relaciones humanas.
+
+##### Después de los hijos y los padres, ahora habla a los siervos.
+
+##### El énfasis no está en cambiar la estructura social, sino en cómo debe vivir el creyente dentro de ella.
+
+------
+
+#### Efesios 6:5 – *«Siervos...»*
+
+##### El sustantivo **δοῦλοι (douloi)** significa siervos o esclavos.
+
+##### En el mundo grecorromano muchos hogares funcionaban mediante esclavos.
+
+##### Pablo escribe a creyentes que vivían en esa condición.
+
+##### Los principios del pasaje siguen siendo aplicables hoy a cualquier creyente que sirve bajo autoridad humana.
+
+------
+
+#### Efesios 6:5 – *«obedezcan a sus amos según la carne...»*
+
+##### El imperativo **ὑπακούετε (hypakouete)** está en **presente, activo, imperativo**.
+
+##### El tiempo presente describe una obediencia continua.
+
+##### El verbo proviene de:
+
+- **ὑπό** = bajo.
+- **ἀκούω** = escuchar.
+
+##### Literalmente comunica la idea de escuchar bajo autoridad.
+
+##### No describe solamente oír.
+
+##### Describe escuchar con la disposición de obedecer.
+
+------
+
+#### *«a sus amos según la carne»*
+
+##### Literalmente el texto dice **«los señores según la carne»**.
+
+##### Pablo distingue cuidadosamente entre:
+
+- los señores terrenales;
+- el Señor celestial.
+
+##### La autoridad humana es real.
+
+##### Pero es temporal y limitada.
+
+------
+
+#### *«con temor y temblor...»*
+
+##### Ambos sustantivos describen la actitud con que debe realizarse el servicio.
+
+##### No hablan de pánico.
+
+##### Hablan de respeto, seriedad y responsabilidad delante de la autoridad recibida.
+
+------
+
+#### *«con sinceridad de su corazón...»*
+
+##### El sustantivo **ἁπλότης (haplotēs)** comunica sencillez, integridad o ausencia de doblez.
+
+##### El servicio no debe ser fingido.
+
+##### Pablo pide una obediencia que nace de un corazón íntegro.
+
+------
+
+#### Efesios 6:5 – *«como a Cristo.»*
+
+##### Aquí aparece el verdadero fundamento del mandato.
+
+##### Pablo no dice que el amo sea Cristo.
+
+##### Dice que el creyente debe servir **como si estuviera sirviendo a Cristo**.
+
+##### Esta expresión gobernará todo el desarrollo de los versículos siguientes.
+
+------
+
+### Observación
+
+##### La estructura del versículo dirige continuamente la mirada desde el amo terrenal hacia Cristo.
+
+```text
+Siervos
+
+↓
+
+Obedezcan
+
+↓
+
+A los amos según la carne
+
+↓
+
+Con temor
+
+↓
+
+Con sinceridad
+
+↓
+
+Como a Cristo
+```
+
+##### La obediencia al amo terrenal encuentra su verdadera motivación en la relación del creyente con Cristo.
+
+##### Por eso Pablo continuará desarrollando esta misma idea en los versículos 6–8, donde repetirá varias veces que el servicio del creyente es, en realidad, para el Señor.
+
+### Efesios 6:6 – *«no para ser vistos, como los que quieren agradar a los hombres, sino como siervos de Cristo, haciendo de corazón la voluntad de Dios».*
+
+#### Efesios 6:6 – *«no para ser vistos...»*
+
+##### Pablo comienza con un contraste respecto al versículo anterior.
+
+##### La obediencia cristiana no depende de que alguien esté observando.
+
+##### La expresión griega **μὴ κατ᾽ ὀφθαλμοδουλίαν (mē kat' ophthalmodoulian)** significa literalmente **«no con servicio al ojo»**.
+
+##### Es una palabra compuesta:
+
+- **ὀφθαλμός** = ojo.
+- **δουλεία** = servicio o esclavitud.
+
+##### La idea es servir únicamente cuando el amo está mirando.
+
+##### Pablo rechaza esa clase de servicio.
+
+------
+
+#### Efesios 6:6 – *«como los que quieren agradar a los hombres...»*
+
+##### El creyente no debe servir buscando únicamente la aprobación humana.
+
+##### Quien sirve solo para ser visto trabaja para la opinión de las personas.
+
+##### Su motivación cambia según quién lo observa.
+
+##### Pablo ya estableció en el versículo 5 que el verdadero modelo del servicio es **«como a Cristo»**.
+
+------
+
+#### Efesios 6:6 – *«sino como siervos de Cristo...»*
+
+##### Aquí aparece el verdadero contraste.
+
+##### Aunque el creyente tiene un amo terrenal, su identidad más profunda es ser **siervo de Cristo**.
+
+##### Pablo no dice simplemente: «sirvan mejor».
+
+##### Cambia completamente la perspectiva del servicio.
+
+##### El amo terrenal recibe el trabajo.
+
+##### Cristo recibe el servicio.
+
+##### Esta misma verdad aparecerá nuevamente en los versículos 7 y 8.
+
+------
+
+#### Efesios 6:6 – *«haciendo de corazón la voluntad de Dios.»*
+
+##### El participio **ποιοῦντες (poiountes)** depende del mandato principal del versículo 5: **«obedezcan»**.
+
+##### Mientras obedecen, los creyentes están haciendo la voluntad de Dios.
+
+##### La expresión **«de corazón»** señala la motivación interior.
+
+##### Pablo no habla simplemente de cumplir órdenes.
+
+##### Habla de realizar la voluntad de Dios con una disposición sincera.
+
+##### El creyente puede obedecer a una autoridad humana y, al mismo tiempo, estar haciendo la voluntad de Dios.
+
+------
+
+### Observación
+
+##### Pablo desarrolla un contraste progresivo.
+
+```text
+No servir al ojo
+
+↓
+
+No agradar a los hombres
+
+↓
+
+Ser siervos de Cristo
+
+↓
+
+Hacer la voluntad de Dios
+
+↓
+
+De corazón
+```
+
+##### Cada paso aleja al creyente de la motivación humana y lo acerca al verdadero Señor a quien sirve.
+
+##### El énfasis del pasaje no es producir mejores trabajadores, sino recordar que todo servicio del creyente pertenece finalmente a Cristo.
+
+### Efesios 6:7 – *«Sirviendo de buena voluntad, como al Señor y no a los hombres».*
+
+#### Efesios 6:7 – *«Sirviendo de buena voluntad...»*
+
+##### El verbo **δουλεύοντες (douleuontes)** está en **participio presente, activo**.
+
+##### Este participio depende del imperativo principal del versículo 5: **«obedezcan»**.
+
+##### Pablo continúa describiendo la manera en que el creyente debe obedecer a su amo terrenal.
+
+##### La obediencia cristiana no es pasiva ni forzada.
+
+##### Debe expresarse mediante un servicio realizado **de buena voluntad**.
+
+##### La expresión griega **μετ᾽ εὐνοίας (met' eunoias)** significa literalmente **«con buena disposición»**, «con buena voluntad» o «con un ánimo favorable».
+
+##### Pablo no describe simplemente el trabajo realizado, sino la actitud con la que debe realizarse.
+
+------
+
+#### Efesios 6:7 – *«como al Señor y no a los hombres.»*
+
+##### Aquí Pablo vuelve al mismo contraste iniciado en los versículos 5 y 6.
+
+##### El creyente sirve a un amo humano, pero considera que su verdadero servicio pertenece al Señor.
+
+##### La comparación **«como al Señor»** no elimina la autoridad terrenal.
+
+##### Le da una perspectiva completamente distinta.
+
+##### El creyente trabaja delante de Cristo.
+
+##### Por eso el servicio no depende del carácter del amo, sino del Señor a quien finalmente sirve.
+
+##### Esta misma idea alcanza su explicación en el versículo siguiente, donde Pablo declara que el Señor recompensará todo bien que cada creyente haga.
+
+------
+
+### Observación
+
+##### Pablo continúa elevando progresivamente la perspectiva del creyente.
+
+```text
+Obedezcan (v.5)
+        │
+        ▼
+No sirviendo al ojo (v.6)
+        │
+        ▼
+No agradando a los hombres (v.6)
+        │
+        ▼
+Como siervos de Cristo (v.6)
+        │
+        ▼
+Haciendo la voluntad de Dios (v.6)
+        │
+        ▼
+Sirviendo de buena voluntad (v.7)
+        │
+        ▼
+Como al Señor
+```
+
+##### Cada nueva frase aleja el enfoque del amo terrenal y lo dirige hacia Cristo.
+
+##### Pablo transforma completamente la motivación del servicio sin cambiar la circunstancia externa del creyente.
+
+### Efesios 6:8 – *«sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, sea siervo o sea libre.»*
+
+#### Efesios 6:8 – *«sabiendo que...»*
+
+##### El participio **εἰδότες (eidotes)** proviene del verbo **οἶδα (oida)**, «saber» o «conocer».
+
+##### Está en **participio perfecto, activo**.
+
+##### El perfecto describe un conocimiento adquirido que permanece.
+
+##### No se trata de algo que los creyentes podrían llegar a saber.
+
+##### Pablo asume que ya lo saben y continúan sabiéndolo.
+
+##### Este participio depende de la exhortación anterior y explica la motivación del servicio cristiano.
+
+##### Los creyentes sirven de buena voluntad **porque saben** una realidad acerca del Señor.
+
+------
+
+#### Efesios 6:8 – *«cualquier cosa buena que cada uno haga...»*
+
+##### Pablo amplía ahora el principio.
+
+##### No limita la recompensa a una clase particular de servicio.
+
+##### Dice literalmente **«cualquier bien que cada uno haga»**.
+
+##### El énfasis recae sobre **cada uno**.
+
+##### Ninguna buena obra realizada para el Señor pasa inadvertida delante de Él.
+
+##### Pablo no pone el énfasis en la cantidad del trabajo, sino en el bien que cada creyente realiza.
+
+------
+
+#### Efesios 6:8 – *«esto recibirá del Señor.»*
+
+##### El verbo **κομιεῖται (komieitai)** está en **futuro**.
+
+##### Pablo hace una declaración segura.
+
+##### El creyente recibirá del Señor aquello que haya hecho para Él.
+
+##### El texto no especifica aquí la naturaleza de la recompensa.
+
+##### Solo afirma con certeza que el Señor mismo recompensará el bien realizado.
+
+##### La mirada deja de estar puesta en el amo terrenal y se dirige completamente al Señor.
+
+------
+
+#### Efesios 6:8 – *«sea siervo o sea libre.»*
+
+##### Pablo elimina cualquier diferencia social.
+
+##### El mismo principio se aplica al esclavo y al hombre libre.
+
+##### Ambos comparecen delante del mismo Señor.
+
+##### Ambos sirven al mismo Señor.
+
+##### Ambos recibirán de ese mismo Señor.
+
+##### La posición social no altera la justicia ni la recompensa de Dios.
+
+------
+
+### Observación
+
+##### Pablo concluye el argumento comenzado en el versículo 5.
+
+```text
+Obedezcan
+
+↓
+
+Como a Cristo
+
+↓
+
+Como siervos de Cristo
+
+↓
+
+Haciendo la voluntad de Dios
+
+↓
+
+Sirviendo de buena voluntad
+
+↓
+
+Como al Señor
+
+↓
+
+Sabiendo...
+
+↓
+
+El Señor recompensará el bien
+
+↓
+
+Sea siervo o libre
+```
+
+##### El centro del pasaje ya no es el amo terrenal.
+
+##### Toda la atención termina puesta sobre el Señor, quien observa el servicio y recompensa justamente a cada creyente.
 
 ## Efesios 6:9 – Instrucciones para los amos (jefes) en el Señor.
 
-### Efesios 6:9 – Las instrucciones para los amos creyentes, estos mismos principios se aplican a los jefes creyentes en el Señor, en este tiempo presente.
+### Efesios 6:9 – Pablo concluye esta sección dirigiéndose ahora a los amos creyentes. Los mismos principios aplican hoy a quienes ejercen autoridad sobre otros, como empleadores, supervisores o jefes.
 
-### Efesios 6:9 – *“Y ustedes, amos, **hagan** lo mismo con sus siervos, y dejen las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas”.* 
+### Efesios 6:9 – *«Y ustedes, amos, hagan lo mismo con sus siervos, dejando las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas.»*
 
-#### Efesios 6:9 – *“Y ustedes, amos, **hagan** lo mismo con sus siervos*”, Pablo les da un mandamiento a los amos, “hagan lo mismo” no hay muchas instrucciones para los amos, pero Pablo escribió una carta a Filemón en cuanto a recibir a Onésimo y cómo debía tratarlo.
+#### Efesios 6:9 – *«Y ustedes, amos, hagan lo mismo con sus siervos.»*
 
-##### En el contexto Greco-romano el amo tenía autoridad absoluta, esto daba libertad a un amo para castigar, vender, matar sin consecuencias legales.
+##### Pablo cambia ahora de destinatario, pero no de argumento.
 
-##### El imperativo POIEITE, está en presente, una acción continua y activa; hagan ustedes, practiquen ustedes.
+##### Después de instruir a los siervos, dirige la palabra a quienes ejercen autoridad sobre ellos.
 
-##### “lo mismo” no quiere decir que obedezcan las órdenes de sus esclavos.
+##### El imperativo **ποιεῖτε (poieite)** está en **presente, activo**.
 
-##### “hagan lo mismo” (observación léxica: forma usada para introducir una glosa) que den un trato justo (un servicio a sus esclavos) con buena voluntad, como sirviendo al Señor y no al hombre.
+##### Es un mandato continuo.
 
-##### Más allá de que si sus esclavos son creyentes o incrédulos; Pablo les ordena que hagan lo correcto, la primera razón creo que es que la relación con el Señor ha cambiado, si es creyente; todos son uno. Gálatas 3:28
+##### Los amos deben practicar constantemente aquello que Pablo acaba de enseñar.
 
-##### De manera específica Pablo les dice: ustedes amos como siervos de Cristo hagan cosas buenas con sus siervos; sabiendo que recibirán esto del Señor. Colosenses 4:1
+##### La expresión **«hagan lo mismo»** no significa obedecer a los esclavos.
 
-##### Pablo continúa con la explicación a los amos, que implica hacer lo mismo a sus siervos.
+##### Se refiere a tratar a sus siervos conforme a los mismos principios desarrollados en los versículos anteriores.
 
-#### Efesios 6:9 – y dejen las amenazas*”, El verbo es presente, activo, participio; quiere decir dejando las amenazas, que cambien el modo de tratarlos.
+##### Así como el siervo sirve de buena voluntad, como al Señor, el amo también debe ejercer su autoridad delante del mismo Señor.
 
-####  Efesios 6:9 – sabiendo que el Señor de ellos y de ustedes está en los cielos*”, Pablo les hace notar que ambos, sirven al Señor que está es los cielos.
+##### Pablo elimina la idea de que el evangelio solo transforma al que está bajo autoridad.
 
-##### “sabiendo” está en tiempo perfecto y participio; los amos ya sabían en el pasado que tienen al Señor en los cielos, ese mismo Señor es el Señor de sus esclavos.
+##### También transforma a quien la ejerce.
 
-##### Creo que es una de las razones para hacer lo correcto con sus esclavos, dejando las amenazas; considerando que sus esclavos tienen al mismo Señor. Romanos 14:4
+------
 
-#### Efesios 6:9 – y que para Él no hay acepción de personas. Pablo termina con una declaración, cómo el Señor los ve en Cristo y como les trata a ambos. Efesios 5:30
+#### Efesios 6:9 – *«dejando las amenazas.»*
 
-# Efesios 6:10-18 – Toda la Armadura de Dios y Oraciones por todos.
+##### El participio **ἀνιέντες (anientes)** significa **«dejando», «abandonando» o «renunciando»**.
 
-### Efesios 6:10 – *Por lo demás,* Pablo no quiere dejar de lado una instrucción de mucha importancia para todos los creyentes; estas instrucciones son para que no sean ignorantes de una lucha espiritual.
+##### Depende del mandato principal **«hagan»**.
 
-## Efesios 6:10-12 – Fortalecidos y revestidos con toda la Armadura de Dios.
+##### Mientras ejercen autoridad, los amos deben abandonar la intimidación y las amenazas.
 
-### Efesios 6:10-13 – Pablo les da tres mandamientos “fortalézcanse, revístanse, tomen”.
+##### Pablo no redefine la autoridad.
 
-### Efesios 6:10 – Por lo demás, **fortalézcanse** en el Señor y en el poder de su fuerza”.* 
+##### Redefine la manera de ejercerla.
 
-#### Efesios 6:10 – \[hermanos míos\] **fortalézcanse** en el Señor y en el poder de su fuerza*”. Pablo dirigiéndose a los creyentes, les manda que sean fortalecidos en el Señor.
+##### El liderazgo cristiano no se sostiene mediante el temor, sino bajo la autoridad del Señor.
 
-##### El imperativo “fortalézcanse” está en presente, una acción continua; voz pasiva, reciban la acción, reciban la fuerza de Cristo; Lit. sean llenos de poder.
+------
 
-###### Presente continuo; sigan siendo fortalecidos, o manténgase fortalecidos.
+#### Efesios 6:9 – *«sabiendo que el Señor de ellos y de ustedes está en los cielos.»*
 
-###### Pablo no les mandó a esforzarse, a hacerlo según sus propias fuerzas, eso rápidamente perece y lleva a la jactancia. Jeremías 17:5-8
+##### El participio **εἰδότες (eidotes)** está en **perfecto, activo**.
 
-##### “en el Señor” es un caso dativo, indica la fuente de la fuerza, de quien proviene toda fuerza para ser fortalecidos. Filipenses 4:13
+##### Describe un conocimiento que ya poseen y continúa siendo verdadero.
 
-##### “en el Señor y en el poder de su fuerza” la oración es en el Señor, en el poder de la fuerza que viene de Él.
+##### Los amos saben que tanto ellos como sus siervos tienen el mismo Señor.
 
-##### Pablo habló de que él había recibido la gracia y el poder de su fuerza para la obra del ministerio, Observación:  sabía bien que todos los creyentes necesitaban ser fortalecidos con el mismo poder. Efesios 3:7b
+##### Pablo eleva nuevamente la mirada desde la autoridad terrenal hacia la autoridad suprema de Cristo.
 
-##### Pablo conocía que este imperativo no era una acción puntual, sino que tenía que ser continua, porque todos somos débiles y necesitamos el poder de Dios reposando en nuestras vidas. 2 Corintios 11:30; 12:9-10; 2 Timoteo 4:17.
+##### El amo tiene autoridad sobre el siervo.
 
-##### Con cuánta más razón, siendo que hay una lucha espiritual, necesitaban ser fortalecidos de manera continua, las luchas espirituales no vienen con aviso, por eso todo el tiempo el creyente debe estar fortalecido.
+##### Pero ambos están bajo la autoridad del mismo Señor.
 
-##### Pablo no les dice que pidan fuerzas del Señor, sino que sean empoderados con la fuerza que viene del Señor. \[BLS – dejen que el gran poder de Cristo les dé las fuerzas necesarias.\]
+##### Esta realidad cambia completamente la manera de ejercer el liderazgo.
 
-##### La razón es que el Poder del Señor está con todos los que creen, los creyentes, en Efesios 1:18-20, continuando con el argumento \[PDT – confíen en el gran poder del Señor para fortalecerse (ser fortalecidos)\].
+------
 
+#### Efesios 6:9 – *«y que para Él no hay acepción de personas.»*
 
+##### Pablo concluye con una declaración.
 
-### Efesios 6:11 – \[hermanos míos\] **Revístanse** con toda la armadura de Dios para que puedan estar firmes contra las insidias del diablo”.* 
+##### Dios no favorece a una persona por su posición social.
 
-#### Efesios 6:11 – **Revístanse** con toda la armadura de Dios*” El mandamiento es muy claro, revístanse, no dice vayan a buscar con qué vestirse; revístanse indica que la vestimenta está lista o disponible.
+##### Delante del Señor no existe diferencia entre esclavo y libre.
 
-##### El imperativo “revístanse” está en aoristo es una acción puntual y decisiva, medio, uno mismo se viste: La orden sería: vístanse ahora, de una vez
+##### Ambos comparecen delante del mismo Juez.
 
-##### “con toda la armadura de Dios” indica con la armadura completa de Dios; no es la armadura del hombre. Por eso debemos vestirnos por fe.
+##### Ambos sirven al mismo Señor.
 
-##### La armadura de Dios será presentada gráficamente, pero es Cristo mismo. Gálatas 3:27
+##### Ambos serán evaluados con la misma justicia.
 
-##### Pablo estando preso en Roma custodiado por soldados romanos, ve una gráfica de uno que está vestido todo el tiempo, con toda la armadura, listo para la batalla.
+------
 
-##### Pablo no ve a ningún soldado que le falte una prenda de su armadura; está todo el tiempo con la armadura completa, tanto para custodiar la cárcel, como para presentarse al general.
+### Observación
 
-##### Pablo les dio dos mandamientos, fortalézcanse y revístanse, con el único propósito de estar firmes.
+##### Pablo termina esta unidad exactamente donde comenzó: con Cristo como centro de toda relación humana.
 
-##### Parafraseando: sean fortalecidos con el poder de la fuerza que viene del Señor y vístanse de toda la armadura de Dios para:
+```text
+Siervos
+        │
+        ▼
+Obedezcan
 
-#### Efesios 6:11 – para que puedan estar firmes contra las insidias del diablo firmes contra las insidias del diablo; no rompan las filas estén firmes
+↓
 
-##### El verbo, “puedan” es continuo en voz pasiva-media. Lleguen a ser capaces con las fuerzas del Señor.
+Como a Cristo
 
-##### El verbo “estar firme” es la acción puntual completa, indica lograr estar firme con las fuerzas del Señor.
+↓
 
-##### Para poder estar firmes, primero uno debe ser fortalecido con el poder del Señor y estar revestidos con toda la armadura de Dios.
+Como siervos de Cristo
 
-##### Pablo dice que el propósito de estar siendo fortalecidos y revestidos de toda la armadura de Dios, es para estar firmes, no para pelear contra Satanás y vencerlo.
+↓
 
-##### ¿Por qué no pelear sino estar firmes? Las Escrituras nos dice: somos más que vencedores por medio de Aquel* (Cristo) *que nos amó.* Ya somos vencedores, siendo vencedores tenemos que estar firmes: la idea es estar firmes, no ceder terreno. Romanos 8:37; Colosenses 2:15
+Como al Señor
 
-##### “firmes contra las insidias del diablo” la palabra METHODEIAS, de ahí proviene la palabra “método” pero aquí tiene un sentido negativo, como truco, engaño, intriga. (observación léxica: forma usada para introducir una glosa) astucia con trampas, tácticas y engaños. Efesios 4:14
+↓
 
-##### “insidias del diablo” está en plural, quiere decir que Satanás tiene muchas estrategias, la principal sería el engaño, su arma número uno. 2 Corintios 11:2
+El Señor recompensará
 
-##### Estar firmes contra los ataques del diablo: El propósito es resistir el ataque y no caer en los engaños de Satanás, no ser derrotados, porque ya somos vencedores, tenemos la victoria de Cristo.
+══════════════════════
 
-##### Pedro también llamó a su audiencia a estar firme contra los ataques: Su adversario, el diablo, anda al acecho como león rugiente, buscando a quien devorar. Pero resístanlo firmes **en la fe*.* 1 Pedro 5:8-9
+Amos
+        │
+        ▼
+Hagan lo mismo
 
-#### Pablo no solo les dice cuál es el propósito de estar, siempre fortalecidos con poder del Señor y revestidos de toda la armadura de Dios; ahora les da razón de por qué deben estarlo.
+↓
 
-### Efesios 6:12 – \[fortalecidos y revestidos\] *“Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestiales”.* 
+Dejen las amenazas
 
-#### Efesios 6:12 – Porque nuestra lucha no es contra sangre y carne*”, Esta es una declaración de que nuestra lucha no es contra sangre y carne; Pablo no dice que a veces nuestra lucha no es contra sangre y carne.
+↓
 
-##### “sangre y carne” habla de personas en semejanza; nuestra lucha no es contra las personas que son de sangre y carne.
+El mismo Señor está sobre ambos
 
-#### Efesios 6:12 – sino contra principados, contra potestades, contra los poderes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestes*”. Hay una lista de enemigos con las cuales son nuestras luchas espirituales; Cristo está por encima de todo y nosotros en Cristo. Efesios 1:21
+↓
 
-##### Ya que nuestras luchas son espirituales, nuestra fuerza y nuestras armaduras deben ser espirituales. 2 Corintios 10:4 
+No hay acepción de personas
+```
 
-##### Pablo pone una lista de cuatro niveles o rangos. Los ángeles caídos junto con Satanás no perdieron su jerarquía, Satanás el líder de este movimiento, los nombres indican funciones que tienen estos demonios.
+##### El evangelio no elimina las responsabilidades propias de cada relación.
 
-##### Satanás no es omnipresente, pero tiene bien organizados a sus demonios (su imperio) para tener control en este mundo, porque él es el príncipe de este mundo; los demonios no actúan en caos, sino bien organizados. Efesios 2:2
+##### Transforma la manera en que cada creyente vive esas responsabilidades.
 
-##### A través de estos demonios (fuerzas espirituales) están las insidias del diablo, por lo cual los creyentes, bien fortalecidos y revestidos, deben estar firmes contra sus ataques.
+##### Tanto el siervo como el amo quedan finalmente bajo la autoridad del mismo Señor.
 
-##### “contra principados” ARCHAS, un término usado para gobernantes de rango mayor quienes originan el plan, Pablo la usa para referirse a poderes demoníacos, con rango de autoridad.
+# Efesios 6:10–18 – Toda la armadura de Dios y la oración perseverante.
 
-##### “contra potestades” EXOUSIAS, autoridades con poder delegado, principados un poder limitado. Tienen la capacidad y derecho a ejercer dominio
+### Efesios 6:10–18 – Pablo concluye la parte exhortativa de la carta mostrando cómo el creyente puede permanecer firme en medio del conflicto espiritual. La fuerza no proviene del creyente mismo, sino del Señor.
 
-##### “contra los poderes de este mundo de tinieblas” KOSMOKRATORAS, los que controlan el sistema del mundo caído de tinieblas; no gobiernan la creación de Dios, sino el sistema en su estado de rebelión y oscuridad. Colosense 2:20
+## Efesios 6:10–13 – Fortalecidos en el Señor y revestidos con toda la armadura de Dios.
 
-##### “contra las fuerzas espirituales de maldad” espirituales TES PONERIAS, de maldad, es una categoría general; quienes tienen maldad activa, diseñada para destruir o con perversión buscando dañar.
+### Efesios 6:10–13 – La secuencia del argumento es clara:
 
-##### “en las regiones celestes” Lit. en los lugares celestiales, en los cielos; se refiere al ámbito espiritual invisible, pero real, que está por encima de la tierra, donde operan estos poderes espirituales.
+```text
+Sean fortalecidos
 
-### Efesios 6:13 – *Por tanto,* a causa de esta lucha que no es contra sangre ni carne.
+↓
 
-### Efesios 6:13 –Por tanto, **tomen** toda la armadura de Dios, para que puedan resistir en el día malo, y habiéndolo hecho todo, estar firmes”.* 
+Revístanse de toda la armadura
 
-#### Efesios 6:13 – **tomen** toda la armadura de Dios*”. Después de explicar la razón de por qué deben ser fortalecidos y vestidos con toda la armadura de Dios, Pablo les dice: tomen toda la armadura de Dios.
+↓
 
-##### Esta no es una simple repetición, es una orden: ¡tómalo! o ¡levanta! Toda la armadura de Dios que está disponible; sería un necio aquel que no obedece este mandato.
+Para poder permanecer firmes
 
-##### Este mandamiento no es repetición; “revístanse” era preparación, aquí “tomen” implica usar por la fe, toda la armadura de Dios.
+↓
 
-##### El imperativo ANALABETE, tomen, es aoristo es una acción puntual y decisiva, voz activa, toma o levanta toda la armadura de Dios para la lucha, la intención de Pablo, es provocar una acción inmediata ante el ataque.
+Porque nuestra lucha...
+```
 
-##### Pablo aun no mencionó las piezas de la armadura, pero volvió a mencionar intencionalmente que la tomen por fe.
+### Efesios 6:10 – *«Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.»*
 
-#### Efesios 6:13 – \[Tomen\] para que puedan resistir en el día malo*”. 
+#### Efesios 6:10 – *«Por lo demás...»*
 
-#####  Los verbos “puedan resistir” están en tiempo aoristo, es una acción puntual, en este contexto, se refieren al momento de los ataques del diablo, o sea el día malo.
+##### Pablo introduce la conclusión de las exhortaciones iniciadas en Efesios 4:1.
 
-##### Los ataques del diablo no son todo el tiempo, muchos creyentes echan la culpa a Satanás por sus pecados, como si las insidias del diablo estarían todo el tiempo contra ellos.
+##### No cambia de tema.
 
-##### Pedro y Santiago explican, que las asechanzas del diablo, no son todo el tiempo; sino que el maligno siempre busca un momento oportuno; después de resistir en el día malo él huira.
+##### Lleva toda la enseñanza anterior hacia el conflicto espiritual en el que vive el creyente.
 
-###### 1 Pedro 5:8-9 – Sean de espíritu sobrio, estén alerta. Su adversario, el diablo, **anda al asecho** como león rugiente, buscando a quien devorar. Pero **resistan firmes en la fe***”. 
+------
 
-###### Santiago 4:7 – Por tanto, sométanse a Dios. **Resistan, pues, al diablo y huirá de ustedes***”.
+#### Efesios 6:10 – *«fortalézcanse...»*
 
-#### Efesios 6:13 – y habiéndolo hecho todo, estar firmes*”. El participio habiendo acabado toda resistencia en el día malo, otra vez estar firmes.
+##### El verbo **ἐνδυναμοῦσθε (endynamousthe)** está en **presente, pasivo, imperativo**.
 
-##### Esto es después de que el diablo huya, vuelvan a la formación de la batalla, ¡estar firmes!, no hay tiempo para tomarse un descanso.
+##### El tiempo presente comunica una acción continua.
 
-## Efesios 6:14-17 – Toda la Armadura de Dios.
+##### La voz pasiva indica que el creyente recibe la acción.
 
-### Efesios 6:14-17 – Después de una buena explicación de la lucha espiritual, de cómo se lleva a cabo; Pablo les manda a estar firmes, pero con toda la armadura de Dios; aquí se mencionan las piezas de toda la armadura de Dios.
+##### Literalmente podría traducirse:
 
-### Efesios 6:14 – Estén, pues, **firmes*, …* Pablo continúa después de advertir del día malo o después de haber resistido en el día malo hay uno orden: ¡estén firmes! Esto no una opción.
+###### «continúen siendo fortalecidos.»
 
-#### La pregunta sería ¿Cómo?, Pablo presenta una serie de cuatro participios de cómo mantenerse firmes, en tiempo aoristo, que preceden y sustentan el mandato principal “estén firmes”
+##### Pablo no manda al creyente a producir su propia fortaleza.
 
-#### Efesios 6:14 – **Pieza \#1** *… “CEÑIDA SU CINTURA CON LA VERDAD”, …* Tenemos el cinturón de la verdad
+##### Tampoco le manda a confiar en sus propios recursos.
 
-##### Antes de la batalla, los soldados romanos tenían que vestirse; después de ponerse la túnica o camisa larga, el soldado tenía que ajustársela con un cinturón ancho en la cintura, sin eso no tenía una movilidad libre.
+##### El creyente debe recibir continuamente la fortaleza que proviene de Dios.
 
-##### En el cinturón se sostenía la espada y permitía libre movimiento, por eso era necesario. Sin el cinturón todo lo demás se desacomodaba.
+##### Este verbo aparece nuevamente en otros pasajes paulinos con el mismo énfasis: Dios es quien fortalece al creyente (2 Timoteo 2:1; 4:17).
 
-##### El verbo “CEÑIDA” es aoristo, participio esta acción debió haber ocurrido antes del imperativo “estén firmes”; es decir, habiéndose ceñido su cintura con la verdad, estén firmes.
+------
 
-##### “CON LA VERDAD” Pablo no dice que consigan la verdad por su propia cuenta, aquí la verdad es presentada como parte de la armadura de Dios que está disponible; la verdad es objetiva en Cristo.
+#### Efesios 6:10 – *«en el Señor...»*
 
-##### (observación léxica: forma usada para introducir una glosa) apropiarse por la fe de la verdad que tenemos en Cristo Jesús, nos ceñimos con ella para que no nos enredemos con los engaños del diablo. Efesios 4:21; Juan 1:17; Colosenses 2:4
+##### La preposición **ἐν (en)** con dativo señala la esfera o la unión en la que ocurre esa fortaleza.
 
-#### Efesios 6:14 – **Pieza \#2** … *“REVESTIDOS CON LA CORAZA DE LA JUSTICIA. Tenemos la coraza de la justicia.
+##### La fuerza no procede del creyente.
 
-##### Un soldado romano cuando se vestía con la coraza; se cubría el tórax, protegía sus órganos vitales: corazón, pulmones.
+##### Procede del Señor.
 
-##### El verbo “REVESTIDOS” es aoristo, participio esta acción debió haber ocurrido antes del imperativo “estén firmes”; (observación léxica: forma usada para introducir una glosa) habiéndose vestido con la coraza de justicia estén firmes.
+##### Pablo ya había presentado esta misma realidad al comienzo de la carta.
 
-##### “DE LA JUSTICIA” La justicia no la producimos por nosotros mismos, aquí Pablo dice póntela, está disponible, la justicia ya es del creyente en Cristo. 2 Corintios 5:21.
+##### El mismo poder que Dios manifestó en Cristo (Efesios 1:19–20) es el poder del cual ahora viven los creyentes.
 
-##### Los ataques son constantes y son las acusaciones en cuanto a la justicia que tenemos en Cristo. Romanos 8:33-34; 1 Juan 2:1-2
+##### La exhortación no consiste en buscar otra fuerza.
 
-##### La justicia de Dios en el Evangelio para todo aquel que cree, ha sido acreditada Romanos 1:17; Efesios 2:7-9; la vida recta fluye de esa realidad, Gálatas 2:21; Efesios 5:9.
+##### Consiste en depender continuamente de la fuerza que ya pertenece al Señor.
 
+------
 
-##### El día que seas cuestionado por tu propia justicia, tienes la justicia perfecta de Cristo en ti. (saca pecho y muestra la justicia de Cristo)
+#### Efesios 6:10 – *«y en el poder de su fuerza.»*
 
-#### Efesios 6:15 – **Pieza \#3** y calzados LOS PIES CON LA PREPARACIÓN PARA ANUNCIAR EL EVANGELIO DE LA PAZ”.* Tenemos calzados del Evangelio de la paz
+##### Pablo acumula tres palabras relacionadas con el poder.
 
-##### La imagen que tenemos para entender, es de un soldado romano calzándose las sandalias que usaban con suelas gruesas y clavos, la cual garantizaba firmeza para no resbalar, mejor movilidad y resistencia en terreno hostil.
+##### **κράτος (kratos)** — poder manifiesto, dominio, fuerza ejercida.
 
-##### El verbo “calzados” es aoristo, participio esta acción debió haber ocurrido antes de imperativo “estén firmes”; (observación léxica: forma usada para introducir una glosa) habiéndose puestos los calzados a los pies, con la preparación para anunciar el evangelio de la paz, estén firmes.
+##### **ἰσχύς (ischys)** — fuerza, capacidad o vigor.
 
-##### La palabra “PREPARACION” puede significar preparación, disposición, estar listo; no solo (observación léxica: forma usada para introducir una glosa) preparación para predicar el evangelio, en el contexto que usa Pablo es la guerra espiritual; (observación léxica: forma usada para introducir una glosa) estar afirmados en el evangelio de la paz para que nada te mueva.
+##### La expresión enfatiza la grandeza del poder divino.
 
-#####  Pablo dice “EL EVANGELIO DE LA PAZ” y Cristo es nuestra paz. Efesios 2:14-17; Romanos 5:1, 10.
+##### No se trata de una fortaleza humana aumentada.
 
-##### Cuando estás calzado con el evangelio de la paz, no te resbalas en terrenos engañosos, acusaciones, días que enfrentas miedos, ansiedad, sino que te mantienes firme.
+##### Se trata del poder propio del Señor actuando en quienes pertenecen a Él.
 
-##### “PARA ANUNCIAR” no está en el griego fue agregado por los traductores; no contradice las Escrituras, cuando estamos calzados con el apresto del evangelio, también estamos listos para anunciar las buenas nuevas de paz.
+##### El creyente permanece firme porque la fortaleza proviene completamente del Señor.
 
-#### Efesios 6:16 – **Pieza \#4 **Sobre todo, tomen el escudo de la fe con el que podrán apagar todos los dardos encendidos del maligno”.* Tenemos el escudo de la fe.
+------
 
-##### El THYREON. La imagen que tenemos, es el soldado romano tomando el escudo grande, rectangular, tipo puerta. El escudo grande media 1.2m y cubría casi todo el cuerpo. Estaba cubierto de cuero para apagar flechas encendidas.
+### Observación
 
-##### El verbo “tomen” es aoristo, participio, esta acción debió haber ocurrido antes del imperativo “estén firmes”; quiere decir, habiendo tomado el escudo de la fe, estén firmes
+##### Pablo comienza esta sección enfocando la atención en la fuente del poder, no en la armadura.
 
-##### EN PASIN, sobre todo (observación léxica: forma usada para introducir una glosa) por encima de todo. El escudo cubre todas las armaduras, cuando los soldados romanos hacían la formación, cerrando las filas, mantenían con sus brazos, los escudos delante de ellos. 
+```text
+No tus fuerzas
 
-##### “el escudo de la fe” La fe es lo que cubre todo lo anterior. Fe activa en Cristo y en todo lo que ha logrado por nosotros.
+↓
 
-##### “con el que podrán apagar todos los dardos encendidos del maligno” flechas encendidas del diablo. Maligno. que tiene malicia para dañar y destruir
+La fuerza del Señor
 
-##### En el campo de la batalla, los escudos eran levantados juntos, formando como un caparazón de tortuga y las flechas encendidas eran apagadas en el cuero mojado. Metafóricamente, levanta tu confianza en Cristo. Hebreos 11:6
+↓
 
-##### Los dardos o flechas encendidas pueden ser dudas, engaños, mentiras que Satanás usa para matar y destruir, Satanás ha usado las Escrituras para engañar. Toma el escudo de la fe.
+No tu capacidad
 
-##### “podrán apagar” La fe no evita que disparen los dardos encendidos, pero apaga el efecto, el fuego.
+↓
+
+El poder del Señor
+
+↓
+
+No tu victoria
+
+↓
+
+Permanece fortalecido en Él
+```
+
+##### Antes de hablar del enemigo, Pablo dirige la mirada del creyente hacia Cristo.
+
+##### La batalla espiritual comienza dependiendo del poder del Señor y no del esfuerzo humano.
+
+### Efesios 6:11 – *«Revístanse con toda la armadura de Dios, para que puedan estar firmes contra las insidias del diablo.»*
+
+#### Efesios 6:11 – *«Revístanse con toda la armadura de Dios.»*
+
+##### Pablo da ahora el segundo mandamiento de esta sección.
+
+##### El verbo **ἐνδύσασθε (endysasthe)** está en **aoristo, medio, imperativo**.
+
+##### El aoristo presenta la acción como un acto decisivo.
+
+##### La voz media muestra la participación del creyente en la acción.
+
+##### Literalmente la idea es:
+
+###### «Vístanse ustedes mismos.»
+
+##### Pablo no dice que busquen una armadura.
+
+##### Tampoco dice que fabriquen una armadura.
+
+##### La armadura ya pertenece a Dios.
+
+##### El creyente debe revestirse de ella.
+
+##### La expresión **«toda la armadura»** traduce la palabra griega **πανοπλία (panoplia)**.
+
+##### **Panoplia** significa la armadura completa de un soldado.
+
+##### Pablo no habla de algunas piezas.
+
+##### Habla del equipo completo.
+
+##### La totalidad de la armadura será desarrollada en los versículos 14–17.
+
+------
+
+#### Efesios 6:11 – *«para que puedan estar firmes...»*
+
+##### Aquí aparece el propósito del mandato.
+
+##### Pablo no dice todavía para qué sirve cada pieza de la armadura.
+
+##### Primero explica el propósito de vestirla.
+
+##### El verbo **δύνασθαι (dynasthai)** significa **ser capaces**, **tener poder** o **estar en condiciones de**.
+
+##### La capacidad para permanecer firmes depende de los dos mandamientos anteriores.
+
+```text
+Sean fortalecidos
+
+↓
+
+Revístanse
+
+↓
+
+Para poder permanecer firmes
+```
+
+##### Nadie permanece firme por sus propias fuerzas.
+
+##### La capacidad proviene del Señor y de la armadura que Él provee.
+
+------
+
+#### Efesios 6:11 – *«estar firmes...»*
+
+##### El verbo **στῆναι (stēnai)** está en **aoristo, infinitivo**.
+
+##### Tiene la idea de ponerse firme, mantenerse en pie o conservar la posición.
+
+##### Pablo no presenta aquí una ofensiva contra Satanás.
+
+##### El énfasis recae sobre permanecer firmes.
+
+##### El creyente no lucha para obtener la victoria.
+
+##### Permanece firme porque la victoria pertenece a Cristo.
+
+##### El propósito es no ceder terreno frente a los ataques del enemigo.
+
+------
+
+#### Efesios 6:11 – *«contra las insidias del diablo.»*
+
+##### La palabra **μεθοδείας (methodeias)** dio origen al término castellano **«método»**.
+
+##### En este contexto describe estrategias, artimañas, engaños o planes cuidadosamente preparados.
+
+##### Pablo no presenta un ataque desordenado.
+
+##### Describe un enemigo que actúa con astucia.
+
+##### El plural **«insidias»** muestra la variedad de sus estrategias.
+
+##### La lucha del creyente no consiste solamente en enfrentar oposición abierta.
+
+##### También consiste en permanecer firme frente al engaño.
+
+##### Pablo ya había mencionado el engaño como una de las principales armas del enemigo (Efesios 4:14).
+
+------
+
+### Observación
+
+##### Antes de describir la armadura, Pablo establece el propósito de usarla.
+
+```text
+Sean fortalecidos
+
+↓
+
+Revístanse
+
+↓
+
+Permanezcan firmes
+
+↓
+
+Contra las estrategias del diablo
+```
+
+##### La armadura no es presentada para atacar.
+
+##### Es presentada para permanecer firmes en medio del conflicto espiritual.
+
+##### En los versículos siguientes Pablo explicará por qué esta firmeza es necesaria.
+
+### Efesios 6:12 – *«Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los gobernantes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestiales.»*
+
+#### Efesios 6:12 – *«Porque...»*
+
+##### Pablo introduce ahora la razón de los dos mandamientos anteriores.
+
+##### ¿Por qué deben los creyentes ser fortalecidos y revestirse con toda la armadura de Dios?
+
+##### Porque la naturaleza de su conflicto no es humana.
+
+------
+
+#### Efesios 6:12 – *«nuestra lucha...»*
+
+##### La palabra griega **πάλη (palē)** significa lucha cuerpo a cuerpo o combate cercano.
+
+##### Pablo no presenta una guerra distante.
+
+##### Describe un conflicto real en el que participa cada creyente.
+
+##### Al decir **«nuestra»**, Pablo se incluye con sus lectores.
+
+##### Esta lucha pertenece a toda la iglesia.
+
+------
+
+#### Efesios 6:12 – *«no es contra sangre y carne.»*
+
+##### Pablo comienza aclarando qué clase de lucha **no** es.
+
+##### La expresión **«sangre y carne»** es una manera de referirse al ser humano en su condición terrenal.
+
+##### El creyente no libra su verdadera batalla contra otras personas.
+
+##### Esto no significa que las personas no puedan oponerse al evangelio.
+
+##### Significa que detrás del conflicto visible existe una realidad espiritual más profunda.
+
+------
+
+#### Efesios 6:12 – *«sino contra...»*
+
+##### Pablo presenta ahora el verdadero carácter del conflicto.
+
+##### Repite cuatro veces la preposición **«contra» (πρός)**.
+
+##### La repetición enfatiza la realidad del enfrentamiento espiritual.
+
+##### El énfasis del texto no consiste en describir detalladamente a cada grupo.
+
+##### El énfasis consiste en mostrar que toda la oposición pertenece al ámbito espiritual.
+
+------
+
+#### Efesios 6:12 – *«contra principados.»*
+
+##### **ἀρχάς (archas)** significa literalmente **«principados»**, «gobernantes» o «autoridades principales».
+
+##### Pablo utiliza este término para referirse a poderes espirituales que ejercen autoridad.
+
+------
+
+#### Efesios 6:12 – *«contra potestades.»*
+
+##### **ἐξουσίας (exousias)** describe autoridades que ejercen poder o dominio.
+
+##### Pablo vuelve a señalar que el conflicto ocurre en el ámbito espiritual.
+
+------
+
+#### Efesios 6:12 – *«contra los gobernantes de este mundo de tinieblas.»*
+
+##### La palabra **κοσμοκράτορας (kosmokratoras)** significa literalmente **«gobernantes del mundo»**.
+
+##### Pablo aclara inmediatamente que se trata del **mundo de las tinieblas**.
+
+##### No habla del gobierno de la creación de Dios.
+
+##### Habla del sistema caracterizado por la oscuridad y la oposición a Dios.
+
+------
+
+#### Efesios 6:12 – *«contra las fuerzas espirituales de maldad.»*
+
+##### Pablo concluye mencionando las fuerzas espirituales caracterizadas por la maldad.
+
+##### El conflicto del creyente pertenece completamente al ámbito espiritual.
+
+##### Por eso la fuerza necesaria también debe provenir de Dios.
+
+------
+
+#### Efesios 6:12 – *«en las regiones celestiales.»*
+
+##### La expresión **«lugares celestiales»** ya apareció varias veces en la carta.
+
+##### Pablo vuelve a situar esta lucha en el ámbito espiritual invisible.
+
+##### No describe una batalla terrenal.
+
+##### Describe un conflicto que trasciende lo visible.
+
+------
+
+### Observación
+
+##### El versículo explica por qué el creyente necesita ser fortalecido y revestido.
+
+```text
+Sean fortalecidos
+
+↓
+
+Revístanse
+
+↓
+
+Permanezcan firmes
+
+↓
+
+Porque...
+
+↓
+
+La lucha no es humana
+
+↓
+
+La lucha es espiritual
+```
+
+##### La naturaleza espiritual del conflicto exige una fortaleza que también proviene del Señor.
+
+##### Pablo no pretende despertar curiosidad acerca de los poderes espirituales.
+
+##### Su propósito es dirigir toda la atención hacia la suficiencia del poder de Dios.
+
+### Efesios 6:13 – *«Por tanto, tomen toda la armadura de Dios, para que puedan resistir en el día malo, y habiéndolo hecho todo, estar firmes.»*
+
+#### Efesios 6:13 – *«Por tanto...»*
+
+##### Este conector retoma directamente el versículo anterior.
+
+##### Ya que la lucha no es contra sangre y carne, sino contra poderes espirituales, la respuesta del creyente no puede depender de sus propias fuerzas.
+
+##### Por eso Pablo añade un tercer mandamiento.
+
+------
+
+#### Efesios 6:13 – *«tomen toda la armadura de Dios.»*
+
+##### El verbo **ἀναλάβετε (analábete)** está en **aoristo, activo, imperativo**.
+
+##### El aoristo presenta una acción decisiva.
+
+##### La voz activa muestra que el creyente debe responder personalmente a este mandato.
+
+##### Pablo ya había dicho: **«revístanse de toda la armadura de Dios»** (v.11).
+
+##### Ahora añade un nuevo mandato.
+
+##### **«Revístanse»** enfatiza estar equipado.
+
+##### **«Tomen»** enfatiza asumir activamente esa armadura para el conflicto.
+
+##### No se trata de una repetición innecesaria.
+
+##### Pablo intensifica la preparación antes de describir cada una de las piezas de la armadura.
+
+##### El creyente debe tomar **toda** la armadura de Dios.
+
+##### Ninguna parte resulta opcional.
+
+------
+
+#### Efesios 6:13 – *«para que puedan resistir en el día malo.»*
+
+##### El propósito vuelve a expresarse mediante **«para que» (ἵνα)**.
+
+##### El objetivo de tomar la armadura no es buscar el combate.
+
+##### El objetivo es **resistir**.
+
+##### El verbo **ἀντιστῆναι (antistēnai)** significa ponerse firme frente a un ataque, oponerse y no ceder terreno.
+
+##### Pablo vuelve a enfatizar la defensa antes que el ataque.
+
+##### La expresión **«el día malo»** señala el momento en que llega la oposición espiritual.
+
+##### Pablo no define cuándo ocurre ese día.
+
+##### El énfasis no está en identificar el momento, sino en estar preparados cuando llegue.
+
+------
+
+#### Efesios 6:13 – *«y habiéndolo hecho todo, estar firmes.»*
+
+##### El participio **«habiéndolo hecho todo»** resume todo lo que Pablo acaba de ordenar.
+
+##### Ser fortalecidos.
+
+##### Vestirse de toda la armadura.
+
+##### Tomarla.
+
+##### Resistir.
+
+##### Después de haber respondido fielmente en medio del conflicto, permanece el mismo objetivo.
+
+##### **Estar firmes.**
+
+##### El verbo **στῆναι (stēnai)** vuelve a aparecer.
+
+##### Esta repetición muestra el énfasis principal del pasaje.
+
+##### Pablo no desarrolla una estrategia para derrotar al diablo.
+
+##### Presenta a creyentes que permanecen firmes porque el Señor ya les ha dado la victoria.
+
+------
+
+### Observación
+
+##### El desarrollo de la argumentación hasta este punto forma una secuencia muy clara.
+
+```text
+Sean fortalecidos
+        │
+        ▼
+Revístanse
+        │
+        ▼
+Tomen toda la armadura
+        │
+        ▼
+Resistan
+        │
+        ▼
+Permanezcan firmes
+```
+
+##### Todo el pasaje apunta hacia un mismo objetivo.
+
+##### La fortaleza viene del Señor.
+
+##### La armadura pertenece a Dios.
+
+##### La responsabilidad del creyente consiste en permanecer firme.
+
+## Efesios 6:14-17 – Toda la Armadura de Dios
+
+### Efesios 6:14-17 – Después de ordenar a los creyentes que sean fortalecidos, se revistan y tomen toda la armadura de Dios, Pablo describe ahora las piezas de esa armadura.
+
+### El objetivo continúa siendo el mismo: **permanecer firmes**.
+
+------
+
+### Efesios 6:14 – *«Estén, pues, firmes...»*
+
+#### El imperativo **στῆτε (stēte)** está en **aoristo, activo, imperativo**.
+
+##### Pablo vuelve al mismo mandato de los versículos 11 y 13.
+
+##### El objetivo nunca cambia.
+
+##### Permanecer firmes frente a las insidias del diablo.
+
+#### Gramaticalmente ocurre algo muy importante.
+
+##### Después del imperativo **«estén firmes»**, Pablo añade una serie de **participios aoristos**.
+
+##### Estos participios describen las acciones que acompañan y explican cómo permanece firme un creyente.
+
+##### El orden del texto es significativo.
+
+```text
+Estén firmes
+      │
+      ├── habiéndose ceñido
+      ├── habiéndose vestido
+      ├── habiendo calzado
+      └── habiendo tomado
+```
+
+##### El creyente no permanece firme por sus propias fuerzas.
+
+##### Permanece firme porque está equipado con toda la armadura de Dios.
+
+------
+
+## Efesios 6:14 – Pieza #1
+
+### *«Ceñida su cintura con la verdad.»*
+
+#### El participio **περιζωσάμενοι (perizōsamenoi)** está en **aoristo, voz media, participio**.
+
+##### Literalmente:
+
+**«Habiéndose ceñido la cintura con la verdad.»**
+
+##### El participio expresa una acción considerada completa que acompaña al mandato principal.
+
+##### La idea no es:
+
+*"ceñirse continuamente."*
+
+##### La idea es:
+
+*"estando ya ceñidos, permanezcan firmes."*
+
+#### El cinturón era la primera pieza que el soldado romano ajustaba antes del combate.
+
+##### Sujetaba la túnica.
+
+##### Daba libertad de movimiento.
+
+##### Permitía llevar la espada.
+
+##### Todo lo demás dependía de él.
+
+#### Pablo habla del **cinturón de la verdad**.
+
+##### No manda buscar la verdad.
+
+##### No manda producir la verdad.
+
+##### La verdad ya pertenece a la armadura de Dios.
+
+##### En Efesios la verdad ya había aparecido varias veces.
+
+- La verdad está en Jesús (4:21).
+- El nuevo hombre fue creado en justicia y santidad de la verdad (4:24).
+- Los creyentes deben hablar verdad (4:25).
+
+##### El creyente permanece firme apropiándose por la fe de esa verdad revelada en Cristo.
+
+##### La mentira caracteriza al diablo.
+
+##### La verdad caracteriza a Cristo.
+
+------
+
+## Efesios 6:14 – Pieza #2
+
+### *«Revestidos con la coraza de la justicia.»*
+
+#### El participio **ἐνδυσάμενοι (endusamenoi)** también está en **aoristo, voz media, participio**.
+
+##### Literalmente:
+
+**«Habiéndose vestido con la coraza de la justicia.»**
+
+##### Igual que el cinturón, esta acción acompaña al mandato de permanecer firmes.
+
+##### Pablo continúa describiendo al creyente completamente equipado.
+
+#### La coraza protegía los órganos vitales del soldado.
+
+##### Cubría principalmente el pecho y la espalda.
+
+##### Era una pieza indispensable para permanecer en pie durante el combate.
+
+#### Pablo habla ahora de **la justicia**.
+
+##### Tampoco ordena producir justicia propia.
+
+##### La justicia pertenece a la armadura de Dios.
+
+##### En Cristo el creyente ha sido constituido justicia de Dios.
+
+##### Esa realidad ya fue presentada anteriormente.
+
+- Efesios 4:24.
+- Efesios 5:9.
+
+##### La conducta justa brota de esa nueva identidad.
+
+##### Cuando el creyente es acusado, no permanece firme confiando en su propia justicia.
+
+##### Permanece firme descansando en la justicia que Dios le ha dado en Cristo.
+
+##### Precisamente porque la armadura pertenece a Dios, ninguna de sus piezas procede del esfuerzo humano.
+
+## Efesios 6:15 – Pieza #3
+
+### *«Y habiéndose calzado los pies con el apresto del evangelio de la paz.»*
+
+#### El participio **ὑποδησάμενοι (hypodēsamenoi)** está en **aoristo, voz media, participio**.
+
+##### Literalmente:
+
+**«Habiéndose calzado los pies...»**
+
+##### Igual que los dos participios anteriores, esta acción acompaña al mandato principal:
+
+**«Estén firmes.»**
+
+##### Pablo continúa describiendo al creyente completamente preparado para permanecer firme.
+
+------
+
+#### *«...con el apresto del evangelio de la paz.»*
+
+##### La palabra **ἑτοιμασία (hetoimasía)** significa preparación, disposición o estar listo.
+
+##### La palabra describe una condición de preparación, no una acción de salir.
+
+##### Es importante observar que el texto griego **no contiene** las palabras:
+
+**«para anunciar».**
+
+##### Esa expresión fue añadida por algunos traductores para facilitar la comprensión.
+
+##### Aunque anunciar el evangelio es una verdad bíblica, **ese no es el énfasis de este pasaje.**
+
+##### El contexto no trata acerca de evangelismo.
+
+##### El contexto trata acerca de permanecer firmes en medio de la guerra espiritual.
+
+##### Por eso Pablo relaciona el apresto con el evangelio mismo.
+
+##### El creyente permanece firme porque está afirmado en el evangelio de la paz.
+
+------
+
+#### *«...del evangelio de la paz.»*
+
+##### Pablo no habla simplemente de paz.
+
+##### Habla del **evangelio de la paz**.
+
+##### Esa expresión ya fue desarrollada anteriormente en la carta.
+
+##### Cristo es nuestra paz.
+
+##### Por medio de Su muerte hizo la paz.
+
+##### Él anunció las buenas nuevas de paz.
+
+##### (Efesios 2:14-17)
+
+##### Por la fe tenemos paz con Dios.
+
+##### (Romanos 5:1)
+
+##### El creyente que permanece firme no lo hace porque tiene confianza en sí mismo.
+
+##### Permanece firme porque descansa en la paz que Cristo ya obtuvo mediante el evangelio.
+
+------
+
+### Observación
+
+##### Pablo continúa desarrollando la armadura con las grandes doctrinas que ya había explicado en la carta.
+
+```text
+Verdad
+        │
+Justicia
+        │
+Evangelio de la paz
+```
+
+##### La armadura no consiste en cualidades producidas por el creyente.
+
+##### Consiste en apropiarse por la fe de lo que Dios ya ha dado en Cristo.
+
+##### Precisamente por estar afirmado en el evangelio de la paz, el creyente puede permanecer firme cuando llegan las insidias del diablo.
+
+##### Y, como consecuencia natural, quien está afirmado en el evangelio también está preparado para anunciarlo, aunque ese no sea el énfasis principal de este versículo.
+
+## Efesios 6:16 – Pieza #4
+
+### *«En todo, habiendo tomado el escudo de la fe, con el cual podrán apagar todos los dardos encendidos del maligno.»*
+
+#### El participio **ἀναλαβόντες (analabontes)** está en **aoristo, activo, participio**.
+
+##### Literalmente:
+
+**«Habiendo tomado el escudo de la fe...»**
+
+##### Pablo continúa la misma construcción iniciada en el versículo 14.
+
+##### Los cuatro participios muestran cómo permanece firme el creyente.
+
+------
+
+#### *«En todo...»*
+
+##### La expresión griega **ἐν πᾶσιν (en pasin)** admite varias posibilidades.
+
+##### Puede entenderse como:
+
+- en toda circunstancia;
+- en todo momento;
+- o además de todo lo anterior.
+
+##### En cualquiera de estos casos, el énfasis no es que el escudo sea la pieza más importante.
+
+##### Pablo muestra que el escudo acompaña constantemente al creyente en toda la lucha espiritual.
+
+------
+
+#### *«...el escudo de la fe.»*
+
+##### El **θυρεός (thyreós)** era el escudo grande utilizado por el soldado romano.
+
+##### Cubría casi todo el cuerpo.
+
+##### Estaba revestido de cuero grueso.
+
+##### Antes del combate solía humedecerse para apagar las flechas incendiarias.
+
+##### Pablo utiliza esa imagen para hablar del **escudo de la fe**.
+
+##### La fe no aparece aquí como una confianza en uno mismo.
+
+##### En Efesios, la fe siempre está dirigida a Cristo y a Su obra.
+
+##### Es la confianza continua en todo lo que Dios ha realizado por medio del Señor Jesucristo.
+
+##### Por esa razón, el creyente permanece firme descansando en Cristo y no en sus propias fuerzas.
+
+------
+
+#### *«...con el cual podrán apagar todos los dardos encendidos del maligno.»*
+
+##### El propósito del escudo queda expresado claramente.
+
+##### **«Con el cual podrán apagar...»**
+
+##### Los dardos representan los ataques del maligno.
+
+##### Pablo ya había mencionado sus **insidias** (6:11).
+
+##### Ahora presenta otra imagen de esos ataques.
+
+##### Son dardos incendiarios que buscan producir daño.
+
+##### La Escritura muestra que Satanás ataca mediante el engaño, la mentira, la acusación y la tentación.
+
+##### La fe no impide que los dardos sean lanzados.
+
+##### La fe impide que produzcan el efecto que buscan.
+
+##### El creyente permanece firme porque continúa confiando en Cristo.
+
+------
+
+### Observación
+
+##### Hasta este punto Pablo ha presentado cuatro piezas de la armadura.
+
+```text
+Verdad
+      │
+Justicia
+      │
+Evangelio de la paz
+      │
+Fe
+```
+
+##### Todas ellas ya habían sido desarrolladas anteriormente en la carta.
+
+##### La armadura consiste en apropiarse por la fe de las realidades que Dios ya concedió en Cristo.
+
+##### Por eso el creyente puede permanecer firme aun cuando llegan los ataques del maligno.
 
 #### Efesios 6:17 – **Pieza \#5 *“Tomen*** *también el CASCO DE LA SALVACIÓN”, …* Tenemos el casco de la Salvación.
 
@@ -7476,118 +8751,704 @@ Cada mujer respete a su marido.
 
 ##### Hay muchas cosas que nos hacen dudar de nuestra salvación, aquí el contexto es en medio de la guerra espiritual, el ataque a nuestra mente; el enemigo puede hacernos dudar y nos paralizamos.
 
+## Efesios 6:17 – Pieza #5
 
-#### Efesios 6:17 – **Pieza \#6** \[Tomen\] *“y la espada del Espíritu que es la palabra de Dios”.* Tenemos la espada la palabra de Dios.
+### *«Tomen también el casco de la salvación...»*
 
-##### La palabra MACHAIRAN, Es la espada corta (no es RHOMPHAÍA espada larga de caballería) de infantería romana, de 40 a 60 cm de doble filo. Se usaba para el combate cuerpo a cuerpo era rápida, maniobrable, letal a corta distancia.
+#### Pablo cambia nuevamente la construcción gramatical.
 
-##### Según Efesios 6:12 Pablo mencionó que tenemos una lucha y esta espada es adecuada para luchar contra principados y potestades; el ataque es muy cercano entonces hay que responder rápido con la MACHAIRAN.
+##### Después de cuatro participios consecutivos (vv.14-16), vuelve a un **imperativo**.
 
-##### “del Espíritu” no es nuestra propia espada, sino del Espíritu. Hebreos 4:12;
+##### El verbo **δέξασθε (dexasthe)** está en **aoristo, voz media, imperativo**.
 
-##### Tomar la espada no es tener, leer, o memorizar la Biblia, el contexto es la guerra espiritual; la diferencia aquí es usar la palabra específica de Dios.
+##### La orden vuelve a ser directa.
 
-##### Pablo dice tomen la espada que viene del Espíritu, esa misma que el Espíritu usa y maneja; cuando peleamos, no luchamos con nuestros argumentos, sino con la espada del Espíritu. Mateo 4:3-9
+##### **«Tomen.»**
 
-##### “la palabra de Dios” Pablo identifica la palabra con RHEMA y no LOGOS (las Escrituras en general); (observación léxica: forma usada para introducir una glosa) palabra hablada, declaración específica. Indica usar bien la palabra de Dios, es usar bien la espada del Espíritu. 
+##### Este mismo mandato gobierna tanto el casco como la espada.
 
-##### Satanás no dice; tú, hijo de Dios no sirves para nada, eres un fracasado; él dice: “pues escrito está” usa las escrituras, por eso debemos manejar con precisión la espada del Espíritu, la única pieza para contraatacar con la verdad de Dios declarada.
+------
 
-#### Asumiendo que están vestidos de toda la armadura de Dios entonces ahí va el mandamiento de Efesios 6:14 “estén firmes”
+#### *«...el casco de la salvación.»*
 
-### Efesios 6:18 – Pablo les da las últimas recomendaciones en el contexto de la guerra espiritual. Les exhorta a perseverar en la oración por todos los santos, en el campo de batalla, no sería bueno olvidarse de los compatriotas.
+##### El **περικεφαλαία (perikephalaía)** era la protección que cubría la cabeza del soldado.
 
-#### Pablo usa verbos participios, presentes, estos verbos van siempre conectados o son dependientes gramaticalmente del verbo principal, serían los imperativos, en este caso a; (Efesios 6:10) fortalézcanse y (Efesios 6:14) estén firmes **orando y velando**. 
+##### Protegía una de las partes más vulnerables durante el combate.
 
-#### Pablo no dice: bueno ya que les dije todo en cuanto a la guerra espiritual que luchamos, y ahora terminen con una oración
+##### Pablo habla ahora del **casco de la salvación**.
 
-### Efesios 6:18 – *“Con toda oración y súplicas oren en todo tiempo en el Espíritu, y así, velen con toda perseverancia y súplica por todos los santos”.*
+##### No ordena obtener la salvación.
 
-#### Efesios 6:18 – *“Con toda oración y súplicas oren en todo tiempo en el Espíritu*”. Pablo quiere que estén orando todo el tiempo (mantente orando); no es una oración de una sola vez. Una dependencia activa en Dios, en medio de guerras espirituales.
+##### No ordena conservar la salvación mediante esfuerzos personales.
 
-##### Pedro advierte, que el diablo está al asecho para devorar, por tanto deben resistir firmes en la fe, dice: sabiendo que las mismas experiencias de sufrimiento se van cumpliendo en sus hermanos en todo el mundo 1 Pedro 5:6-9
+##### La salvación ya pertenece al creyente por la obra consumada de Cristo.
 
-##### “en todo tiempo” Pablo quiere que oren siempre en el tiempo oportuno, en cada ocasión.
+##### En Efesios esta realidad ya fue presentada.
 
-##### “con toda oración y suplicas” oraciones de todo tipo, como ser adoración, gratitud, peticiones por necesidades específicas, intersección y súplicas personales.
+- Efesios 1:13-14.
+- Efesios 2:8-9.
 
-##### “en el Espíritu” No es una oración mística, sino oraciones y súplicas bajo la dirección y poder del Espíritu; esto es orar con entendimiento. Romanos 8:26; Judas 20.
+##### El creyente permanece firme apropiándose por la fe de esa salvación.
 
-#### Efesios 6:18 – velen con toda perseverancia y súplica por todos los santos*”. Pablo añade otro verbo participio “velen” (observación léxica: forma usada para introducir una glosa) velando, estando alerta; presenta la imagen de un centinela que no duerme, cuanto más en tiempo de guerra.
+##### La armadura sigue siendo la armadura de Dios.
 
+##### Ninguna de sus piezas procede del mérito humano.
 
-##### Tanto orando y velando están en presente, son acciones continuas, es mantenerse despierto.
+##### Cuando llegan las acusaciones o las dudas, el creyente permanece firme descansando en la salvación que Dios ya realizó en Cristo.
 
-##### Pablo dice orando \[y para ello (oración y suplica)\] “velando” por todos los santos ese sería el motivo o la razón de estar en oración y súplicas; no es bueno quedarse dormido, el maligno tiene astucia, no avisa cuando lanzará sus ataques; por eso debemos estar fortalecidos y firmes velando.
+------
 
-##### “con toda perseverancia y (con) súplica” la vigilancia no es un tiempo de mucha adrenalina, es fácil bajar la guardia cuando no vienen ataques del maligno; El enemigo no se cansa y tampoco anuncia su ataque; Observación:  mantente alerta persiste con súplicas.
+## Efesios 6:17 – Pieza #6
 
-##### “por todos los santos” no solo orando por todos los santos, sino también velar por ellos. No solo velar por uno mismo sino por todos los creyentes.
+### *«...y la espada del Espíritu, que es la palabra de Dios.»*
 
-# Efesios 6:19-24 – Peticiones personales y despedida llena de bendiciones.
+#### El mismo imperativo **«tomen»** continúa gobernando esta segunda pieza.
 
-## Efesios 6:19-20 – Oraciones por Pablo.
+##### Pablo introduce ahora la única arma ofensiva mencionada en la armadura.
 
-### Efesios 6:19 – *“Oren también por mí, para que me sea dada palabra al abrir mi boca, a fin de dar a conocer sin temor el misterio del evangelio”.* 
+#### La palabra **μάχαιρα (máchaira)** describe la espada corta utilizada por la infantería romana.
 
-#### Efesios 6:19 – *“Oren también por mí”,* En un contexto de exhortación a siempre estar orando y velando por todos los santos, Pablo pide que oren por él.
+##### Era un arma preparada para el combate cercano.
 
-#### Efesios 6:19 – para que me sea dada palabra al abrir mi boca La petición de Pablo era que los creyentes oraran pidiendo que Dios le diera palabra.
+##### Pablo utiliza esa imagen para describir la respuesta del creyente frente a las insidias del diablo.
 
+------
 
-##### “al abrir mi boca” es decir: cuando hable. La palabra me sea dada.
+#### *«...la espada del Espíritu.»*
 
-#### Efesios 6:19 – a fin de dar a conocer sin temor el misterio del evangelio. La palabra que sea dada es para **hablar** o dar a conocer el misterio del Evangelio. Efesios 3:8-9
+##### La espada pertenece al Espíritu.
 
-##### El misterio ya fue dado a conocer a Pablo Efesios 3:3, pero quiere palabra adecuada en el momento de abrir la boca, para dar a conocer a los gentiles con denuedo el misterio del evangelio, pero sin temor. 1 Corintios 2:1-5
+##### No es la espada del creyente.
 
-##### “el misterio del evangelio” El hecho de que Dios le dé de palabra, no (observación léxica: forma usada para introducir una glosa) la elocuencia de hablar, sino a hablar de Cristo crucificado, el misterio del evangelio.
+##### El Espíritu es quien la da y quien la utiliza.
 
-##### Cristo la salvación tanto de judíos y gentiles en un solo cuerpo.
+##### El creyente la toma para responder conforme a la verdad de Dios.
 
-### Efesios 6:20 – *“por lo cual soy embajador en cadenas; que al proclamar hable sin temor, como debo hablar”.* 
+------
 
-#### Efesios 6:20 – *“por lo cual soy embajador en cadenas*”; Pablo dice es embajador por una razón, no dice que fue hasta que lo encarcelaron, en ese mismo momento era embajador, aunque en cadenas.
+#### *«...que es la palabra de Dios.»*
 
-##### “embajador” era un representante de un rey o una ciudad en territorio ajeno; tenía autoridad de quien lo envió, llevaba un mensaje oficial, no podía buscar excusas para cumplir con su cargo. 2 Corintios 5:20
+##### Pablo identifica la espada como **τὸ ῥῆμα τοῦ Θεοῦ (to rhēma tou Theou)**.
 
-##### Como embajador de Cristo llevaba el mensaje del misterio del evangelio a los gentiles, Pablo entendía que no podía buscar excusas para seguir entregando el mensaje; su cuerpo estaba preso pero su cargo no. 2 Timoteo 2:9
+##### Es interesante que utilice **ῥῆμα** y no **λόγος**.
 
-##### Las cadenas no eran excusas para no cumplir con la misión; sino una oportunidad, por eso pidió oraciones; para que sea dada la palabra al abrir mi boca. Filipenses 1:12-14
+##### Ambos términos pueden referirse a la palabra de Dios.
 
-#### Efesios 2:20 – que al proclamar hable sin temor, como debo hablar*”, Pablo estaba consciente de que no era suficientes, ni su capacidad, ni su elocuencia; quería, necesitaba, palabra de parte de Dios para hablar de Cristo
+##### Sin embargo, **ῥῆμα** suele destacar la palabra comunicada o proclamada.
 
-##### “como debo hablar” siendo embajador tiene que hablar cuando le pregunten no debe quedarse callado, tampoco puede hablar según su propia opinión, por eso pide oraciones, para hablar con denuedo el misterio del evangelio. 1 Pedro 3:15
+##### En este contexto, Pablo presenta la palabra de Dios como la respuesta concreta frente al ataque espiritual.
 
-## Efesios 6:21-22 – El hermano Tíquico en el Señor.
+##### El ejemplo más claro aparece en la tentación del Señor Jesús.
 
-### Efesios 6:21-22 – Conociendo al hermano amado Tíquico.
+##### Frente a cada ataque de Satanás respondió:
 
-### Efesios 6:21 – *“Pero a fin de que también ustedes sepan mi situación y lo que hago, todo se lo hará saber Tíquico, amado hermano y fiel ministro en el Señor”.* 
+**«Escrito está...»**
 
-#### Efesios 6:21 – *“Pero a fin de que también ustedes sepan mi situación y lo que hago*” Los efesios se preguntarían cómo estaba Pablo, cuál era su situación en Roma y aun en la cárcel y qué estaría haciendo.
+##### (Mateo 4:1-11)
 
-##### Acaba de pedir un motivo de oración no para que lo liberen; los creyentes querían saber sobre su situación y también lo que hacía, para orar con súplicas.
+##### La victoria no provino de argumentos humanos.
 
-#### Efesios 6:21 – todo se lo hará saber Tíquico, amado hermano y fiel ministro en el Señor*” Tíquico informaría tanto la situación, como lo que hacía Pablo en Roma; posiblemente Tíquico lo ha acompañado por algún tiempo, ahora se dirigía a Asia menor
+##### Provino de la correcta utilización de la palabra de Dios.
 
-##### “amado hermano” Pablo reconoce a Tíquico como el amado hermano, amado por Dios y por Pablo.
+##### Precisamente por eso, el creyente debe conocerla y manejarla con precisión.
 
-##### “fiel ministro en el Señor” Tíquico era un creyente confiable en el ministerio o en su servicio en el Señor.
+------
 
-##### Pablo al reconocer a Tíquico como a un hermano amado y fiel en su ministerio, confió en que él contaría fielmente sobre su situación y lo que hacía.
+### Observación
 
-### Efesios 6:22 – *“a quien he enviado a ustedes precisamente para esto, para que sepan de nosotros, y para que consuele sus corazones”.*
+##### Pablo termina la descripción de la armadura reuniendo seis grandes realidades que ya había desarrollado anteriormente en la carta.
 
-#### Efesios 6:22 – *“a quien he enviado a ustedes precisamente para esto, para que sepan de nosotros,*” Tíquico no estaba yendo a Éfeso con manos vacías, él era el que transportaba la carta a ellos.
+```text
+Verdad
+      │
+Justicia
+      │
+Evangelio de la paz
+      │
+Fe
+      │
+Salvación
+      │
+Palabra de Dios
+```
 
-##### Pablo no envió a Tíquico solo con la carta, sino que lo envió también, para que informara a los misioneros. Pablo no estaba solo, otros creyentes lo acompañaban, Tíquico iba a contar todo eso.
+##### La armadura no consiste en producir estas realidades.
 
-#### Efesios 6:22 – y para que consuele sus corazones*” Seguramente estaban triste al no saber qué pasó con Pablo, porque en su despedida hubieron muchas lágrimas.
+##### Consiste en apropiarse por la fe de todo lo que Dios ya ha dado en Cristo.
 
-##### Con la llegada de Tíquico y al saber de la situación de Pablo y de sus compañeros y todo lo que hacían, sus corazones serían consolados.
+##### Así es como el creyente permanece firme en medio de la lucha espiritual.
 
-##### Saber de Pablo y lo que hacía posiblemente no solo consolaría sus corazones sino: La mayoría de los hermanos, confiando en el Señor por causa de mis prisiones, tienen mucho más valor para hablar la palabra de Dios sin temor”.* Filipenses 1:14
+## Efesios 6:18
+
+### Pablo no abandona el contexto de la guerra espiritual.
+
+#### Después de describir toda la armadura de Dios, Pablo no termina el tema con una oración final.
+
+#### Gramaticalmente, el versículo continúa dependiendo del mandato principal:
+
+**«Estén firmes.»** (v.14)
+
+#### Los participios **«orando»** y **«velando»** describen cómo permanece firme el creyente mientras enfrenta la lucha espiritual.
+
+------
+
+### Efesios 6:18 – *«Con toda oración y súplica, orando en todo tiempo en el Espíritu...»*
+
+#### Pablo utiliza nuevamente un participio presente.
+
+##### El verbo **προσευχόμενοι (proseuchomenoi)** significa:
+
+- orando,
+- mientras oran,
+- permaneciendo en oración.
+
+##### Al estar en participio presente, describe una acción continua que acompaña al mandato principal.
+
+##### La idea no es:
+
+> "oren una vez."
+
+##### Sino:
+
+> "permanezcan orando."
+
+------
+
+#### *«Con toda oración y súplica...»*
+
+##### Pablo no limita la oración a una sola clase.
+
+##### La expresión **«toda oración»** comunica toda clase de oración.
+
+##### Luego añade:
+
+**«y súplica»**
+
+##### La súplica enfatiza peticiones específicas presentadas delante de Dios.
+
+##### En medio de la guerra espiritual, el creyente depende continuamente del Señor.
+
+------
+
+#### *«...en todo tiempo...»*
+
+##### Pablo amplía todavía más el alcance.
+
+##### No solamente toda clase de oración.
+
+##### Sino también:
+
+**en toda ocasión.**
+
+##### La oración acompaña permanentemente la vida del creyente.
+
+------
+
+#### *«...en el Espíritu.»*
+
+##### Pablo no habla de una experiencia mística.
+
+##### La oración ocurre bajo la dirección del Espíritu Santo.
+
+##### El mismo Espíritu fortalece al creyente y dirige su dependencia hacia Dios.
+
+##### Romanos 8:26.
+
+------
+
+### Efesios 6:18 – *«...y con esto, velando con toda perseverancia y súplica por todos los santos.»*
+
+#### Pablo añade un segundo participio presente.
+
+##### **ἀγρυπνοῦντες (agrypnountes)**
+
+##### significa:
+
+- permaneciendo despiertos,
+- manteniéndose alerta,
+- velando continuamente.
+
+##### La imagen sigue siendo militar.
+
+##### Un centinela no abandona su puesto mientras exista peligro.
+
+------
+
+#### *«...con toda perseverancia...»*
+
+##### La vigilancia no debe ser ocasional.
+
+##### Debe mantenerse constantemente.
+
+##### El creyente no sabe cuándo llegarán las insidias del diablo.
+
+##### Precisamente por eso permanece alerta.
+
+------
+
+#### *«...por todos los santos.»*
+
+##### La guerra espiritual nunca se presenta como una lucha individual.
+
+##### Pablo amplía inmediatamente el enfoque.
+
+##### El creyente no solamente vela por sí mismo.
+
+##### También permanece orando y velando por todo el pueblo de Dios.
+
+##### La preocupación mutua forma parte de permanecer firmes.
+
+------
+
+### Observe cómo termina toda la sección.
+
+```
+Fortalézcanse
+
+↓
+
+Revístanse
+
+↓
+
+Tomen
+
+↓
+
+Estén firmes
+
+↓
+
+Orando
+
+↓
+
+Velando
+
+↓
+
+Por todos los santos
+```
+
+##### La armadura prepara al creyente para permanecer firme.
+
+##### La oración y la vigilancia sostienen continuamente esa firmeza.
+
+##### Pablo no termina con la guerra.
+
+##### Termina mostrando cómo permanece firme un soldado de Cristo.
+
+## Efesios 6:19–20 – Oración por Pablo.
+
+### Efesios 6:19 – *«...y también por mí, para que me sea dada palabra al abrir mi boca, a fin de dar a conocer con denuedo el misterio del evangelio.»*
+
+#### La oración continúa dependiendo del participio del versículo 18.
+
+##### Pablo había dicho:
+
+- orando,
+- velando,
+- por todos los santos.
+
+##### Ahora añade:
+
+**«y también por mí».**
+
+##### Pablo no abandona el tema de la oración.
+
+##### Simplemente añade una petición personal dentro de esa misma exhortación.
+
+------
+
+### Efesios 6:19 – *«...para que me sea dada palabra...»*
+
+#### La petición de Pablo comienza con una cláusula de propósito (**ἵνα**).
+
+##### El verbo **δοθῇ (dothē)** está en **aoristo, pasivo, subjuntivo**.
+
+##### Literalmente:
+
+> **«para que me sea dada palabra».**
+
+##### La voz pasiva muestra que Pablo espera recibir esa palabra de Dios.
+
+##### No confía en su propia capacidad para hablar.
+
+##### Primero pide que Dios le conceda la palabra adecuada.
+
+##### Después hablará.
+
+------
+
+### Efesios 6:19 – *«...al abrir mi boca...»*
+
+#### El orden del texto es importante.
+
+##### Primero:
+
+Dios da la palabra.
+
+##### Después:
+
+Pablo abre su boca.
+
+##### El énfasis no está en la elocuencia humana.
+
+##### Sino en depender de la palabra que Dios concede.
+
+##### Pablo no pide facilidad para hablar.
+
+##### Pide tener la palabra correcta cuando llegue el momento de hablar.
+
+------
+
+### Efesios 6:19 – *«...a fin de dar a conocer con denuedo el misterio del evangelio.»*
+
+#### El propósito de recibir esa palabra queda claramente expresado.
+
+##### No era hablar de cualquier tema.
+
+##### Era dar a conocer el misterio del evangelio.
+
+##### El verbo **γνωρίσαι (gnōrisai)** significa:
+
+- dar a conocer,
+- revelar,
+- hacer conocido.
+
+##### Pablo no pide sabiduría para defenderse delante de las autoridades.
+
+##### Tampoco pide ser liberado de la prisión.
+
+##### Su preocupación continúa siendo el evangelio.
+
+##### El mismo misterio que Dios le había revelado (Efesios 3:3–9) ahora debía ser anunciado con claridad.
+
+##### El denuedo no sustituye el mensaje.
+
+##### El denuedo acompaña al mensaje que Dios da.
+
+------
+
+### Observe la secuencia del texto.
+
+```text
+Oren...
+
+        ↓
+
+También por mí
+
+        ↓
+
+Que Dios me dé palabra
+
+        ↓
+
+Abrir mi boca
+
+        ↓
+
+Dar a conocer
+
+        ↓
+
+El misterio del evangelio
+```
+
+##### Pablo no confía en su capacidad para hablar.
+
+##### Confía en que Dios le dará la palabra necesaria para anunciar fielmente el evangelio.
+
+### Efesios 6:20 – *«...por el cual soy embajador en cadenas, para que al proclamarlo hable con denuedo, como debo hablar.»*
+
+#### Efesios 6:20 – *«...por el cual soy embajador en cadenas...»*
+
+##### La expresión **«por el cual»** se refiere al **misterio del evangelio** mencionado en el versículo anterior.
+
+##### Pablo está preso precisamente por anunciar ese evangelio.
+
+##### Las cadenas no son un obstáculo para su ministerio.
+
+##### Son consecuencia de su fidelidad al mensaje.
+
+##### El verbo **πρεσβεύω (presbeuō)**, **«soy embajador»**, está en **presente, activo, indicativo**.
+
+##### Pablo no dice:
+
+- «fui embajador»,
+- «era embajador»,
+- «seré embajador».
+
+##### Dice:
+
+**«soy embajador».**
+
+##### Aun estando encadenado, continúa representando oficialmente a Cristo.
+
+##### Un embajador no comunica su propio mensaje.
+
+##### Habla en nombre de quien lo envió.
+
+##### Así también Pablo anuncia el mensaje de Cristo y no el suyo propio.
+
+##### Las cadenas podían limitar su libertad física.
+
+##### Pero no podían detener el evangelio que representaba.
+
+------
+
+#### Efesios 6:20 – *«...para que al proclamarlo hable con denuedo...»*
+
+##### Pablo vuelve a utilizar una cláusula de propósito (**ἵνα**).
+
+##### En el versículo 19 pidió:
+
+> «que me sea dada palabra».
+
+##### Ahora añade una segunda petición.
+
+##### No solamente desea recibir la palabra adecuada.
+
+##### También desea proclamarla con toda libertad y valentía.
+
+##### El verbo **παρρησιάσωμαι (parrēsiasōmai)** significa:
+
+- hablar con franqueza,
+- hablar con libertad,
+- hablar con denuedo.
+
+##### Pablo no pide protección.
+
+##### No pide ser liberado.
+
+##### Pide anunciar fielmente el evangelio.
+
+------
+
+#### Efesios 6:20 – *«...como debo hablar.»*
+
+##### Pablo reconoce que existe una manera correcta de anunciar el evangelio.
+
+##### No habla según su propia opinión.
+
+##### Habla como representante oficial de Cristo.
+
+##### El mensaje pertenece al Rey.
+
+##### El embajador únicamente tiene la responsabilidad de comunicarlo fielmente.
+
+##### Por eso Pablo pide oración.
+
+##### No para recibir una mejor elocuencia.
+
+##### Sino para recibir de Dios la palabra necesaria y anunciarla con el denuedo que corresponde a un embajador de Cristo.
+
+------
+
+### Observe el progreso de la petición de Pablo.
+
+```text
+Oren por mí
+
+        ↓
+
+Que Dios me dé palabra
+
+        ↓
+
+Abrir mi boca
+
+        ↓
+
+Hablar con denuedo
+
+        ↓
+
+Como debo hablar
+
+        ↓
+
+El misterio del evangelio
+```
+
+##### La confianza de Pablo no descansa en su capacidad.
+
+##### Descansa en que Dios da la palabra, y el embajador debe anunciarla fielmente, aun cuando lleve cadenas.
+
+## Efesios 6:21–22 – El hermano Tíquico en el Señor.
+
+### Efesios 6:21–22 – Pablo envía a Tíquico para informar y fortalecer a la iglesia.
+
+### Efesios 6:21 – *«Pero para que también ustedes sepan cómo estoy y lo que hago, todo se lo dará a conocer Tíquico, amado hermano y fiel ministro en el Señor.»*
+
+#### Efesios 6:21 – *«Pero para que también ustedes sepan...»*
+
+##### Pablo introduce nuevamente una cláusula de propósito (**ἵνα**).
+
+##### El envío de Tíquico no es un simple saludo.
+
+##### Tiene un propósito definido.
+
+##### Pablo desea que la iglesia conozca su situación.
+
+------
+
+#### Efesios 6:21 – *«...cómo estoy y lo que hago.»*
+
+##### Pablo menciona dos aspectos.
+
+- Su situación.
+- Su ministerio.
+
+##### La iglesia no solamente quería saber cómo estaba Pablo.
+
+##### También quería conocer cómo Dios seguía obrando por medio de él.
+
+##### Aunque estaba preso, el evangelio continuaba avanzando.
+
+------
+
+#### Efesios 6:21 – *«Todo se lo dará a conocer Tíquico...»*
+
+##### Pablo confía plenamente en Tíquico.
+
+##### Él comunicará fielmente todo lo relacionado con Pablo.
+
+##### No hablará por iniciativa propia.
+
+##### Transmitirá exactamente aquello que Pablo desea dar a conocer.
+
+------
+
+#### Efesios 6:21 – *«...amado hermano y fiel ministro en el Señor.»*
+
+##### Pablo utiliza dos expresiones para describir a Tíquico.
+
+##### **«Amado hermano.»**
+
+##### Antes que colaborador, Tíquico pertenece a la familia de Dios.
+
+##### La relación entre ambos nace de su unión en Cristo.
+
+##### **«Fiel ministro en el Señor.»**
+
+##### La fidelidad caracteriza su servicio.
+
+##### Pablo puede confiarle tanto la carta como la responsabilidad de informar a las iglesias.
+
+##### La expresión **«en el Señor»** vuelve a recordar que su servicio encuentra su esfera y su origen en Cristo.
+
+------
+
+### Observe el propósito del envío de Tíquico.
+
+```text
+Pablo envía a Tíquico
+
+        ↓
+
+Para que sepan
+
+        ↓
+
+Su situación
+
+        ↓
+
+Su ministerio
+
+        ↓
+
+La iglesia es fortalecida
+```
+
+##### Pablo no centra la atención en sí mismo.
+
+##### Incluso al hablar de sus cadenas, su interés continúa siendo el fortalecimiento de la iglesia.
+
+### Efesios 6:22 – *«A quien he enviado precisamente para esto: para que sepan de nosotros y para que consuele sus corazones.»*
+
+#### Efesios 6:22 – *«A quien he enviado precisamente para esto...»*
+
+##### Pablo explica el propósito del envío de Tíquico.
+
+##### La expresión:
+
+**«precisamente para esto»**
+
+enfatiza que el viaje de Tíquico tiene un propósito específico.
+
+##### No solamente llevaba la carta.
+
+##### También llevaba información personal acerca del ministerio de Pablo.
+
+------
+
+#### Efesios 6:22 – *«...para que sepan de nosotros.»*
+
+##### Pablo vuelve a utilizar una cláusula de propósito (**ἵνα**).
+
+##### El objetivo era que la iglesia conociera la situación de Pablo y de quienes servían junto con él.
+
+##### La iglesia no permanecería en incertidumbre.
+
+##### Dios estaba obrando aun mientras Pablo permanecía preso.
+
+##### Conocer esa realidad fortalecería la fe de los creyentes.
+
+------
+
+#### Efesios 6:22 – *«...y para que consuele sus corazones.»*
+
+##### Este es el segundo propósito del envío de Tíquico.
+
+##### El verbo **παρακαλέσῃ (parakalēsē)** significa:
+
+- animar,
+- fortalecer,
+- consolar,
+- alentar.
+
+##### El propósito no era únicamente informar.
+
+##### La información debía producir ánimo y fortaleza espiritual.
+
+##### Pablo sabía que las noticias acerca de la obra de Dios en medio de sus prisiones fortalecerían el corazón de la iglesia.
+
+##### Aun sus cadenas servían para el avance del evangelio.
+
+##### Filipenses 1:12–14.
+
+------
+
+### Observe el propósito del envío de Tíquico.
+
+```text
+Tíquico es enviado
+
+        ↓
+
+Para que sepan
+
+        ↓
+
+La situación de Pablo
+
+        ↓
+
+La obra del evangelio continúa
+
+        ↓
+
+Sus corazones son fortalecidos
+```
+
+##### Pablo termina la carta de la misma manera en que la comenzó.
+
+##### Desde el principio mostró lo que Dios está haciendo en Cristo.
+
+##### Ahora, aun hablando de su propia prisión, dirige nuevamente la atención a la obra de Dios y al fortalecimiento de la iglesia.
 
 ## Efesios 6:23-24 – Despedida deseando la paz y gracia a los efesios. 
 
