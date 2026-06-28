@@ -4198,929 +4198,2824 @@ Cada expresión desarrolla la nueva posición descrita por Pablo.
 - como ofrenda y sacrificio a Dios,
 - en un aroma agradable.
 
-# Efesios 5:3-21 – La Vida como Corresponde a los Santos.
+## Efesios 5:3–5 – Lo que no corresponde a los santos
 
-## Efesios 5:3-5 – Lo que no corresponde a los santos.
+### Efesios 5:3–5 – Pablo contrasta el estilo de vida propio de los santos con prácticas que no corresponden a quienes pertenecen a Cristo.
 
-### Efesios 5:3-5 – Pablo hace declaraciones de lo que no corresponde a los creyentes y que es lo que sí.
+### Efesios 5:3 – *«Pero que la inmoralidad, y toda impureza o avaricia, ni siquiera se mencionen entre ustedes, como corresponde a los santos.»*
 
-### Efesios 5:3 – Pero que la inmoralidad, y toda impureza o avaricia, ni siquiera se **mencionen** entre ustedes, como corresponde a los santos”.* 
+#### Efesios 5:3 – **«Pero»**
 
-#### Efesios 5:3 – Pero” …* Hace un cambio de la lista de imperativos a detallar lo que no corresponde a los santos y porque no les corresponde.
+##### Pablo continúa el contraste iniciado anteriormente.
 
-##### Pablo no está enseñando cómo tratar con los pecados, solo les dice por qué no deben estar ocupados en cosas que no les corresponden.
+##### Después de llamar a andar en amor, ahora presenta conductas que no corresponden al pueblo de Dios.
 
-##### Tampoco dice qué cosas pueden hacer para evitar estos pecados.
+###### No explica todavía sus consecuencias; primero establece que no son compatibles con la identidad de los creyentes.
 
-#### Efesios 5:3 – Pero que la inmoralidad, y toda impureza o avaricia”,* … aunque la lista continúa en verso 4 Pablo menciona tres cosas que sobresalen primero.
+#### Efesios 5:3 – **«la inmoralidad, toda impureza o avaricia»**
 
-##### “la inmoralidad” PORNEA, de la cual viene la palabra pornografía, esto (observación léxica: forma usada para introducir una glosa) relaciones sexuales ilícitas, incluye adulterio e incesto; estos son actos.
+##### Pablo reúne tres ejemplos representativos.
 
-##### “toda impureza” PASA AKATHARSIA, todo tipo de impureza sexual, tanto física, moral como mentalmente; en pensamiento, palabra, deseo, conducta. Abarca cada forma o grado de impureza.
+##### No desarrolla cada uno por separado.
 
-##### “avaricia” PLEOMAXIA, deseo de tener más, con fraude, extorsión, codicia; deseos insaciables de tener bienes o riquezas en mal sentido.
+##### Los presenta como prácticas incompatibles con la vida de los santos.
 
-#### Efesios 5:3 – … ni siquiera se **mencionen** entre ustedes”,* … El mandato empieza con una negación continua MEDE-ni siquiera. “pronunciar, mencionar, profesar”
+###### El énfasis recae en el conjunto de aquello que no corresponde al nuevo hombre.
 
-##### El imperativo ONOMAZESTHO, mencionen está en presente, pasivo. (observación léxica: forma usada para introducir una glosa) una acción continua, y voz pasiva en imperativo sería; ni siquiera se permita que sea mencionado, el verbo está en tercera persona, por eso dice entre ustedes o en medio de ustedes.
+#### Efesios 5:3 – **«ni siquiera se mencionen entre ustedes»**
 
-#### Efesios 5:3 – … **como** corresponde a los santos. La palabra KATHOS, “como” es un adverbio que modifica el imperativo.
+##### Este es el mandato principal del versículo.
 
-##### Entonces inmoralidad, impureza o avaricia “ni siquiera se permita que sea mencionada” como o conforme corresponde a los santos.
+##### Pablo no llama a convivir con estas prácticas ni a tratarlas como algo normal dentro de la iglesia.
 
-##### El verbo PREPEI, “corresponde” está en presente, activo, indicativo. Pablo hace una declaración aquí es un hecho real de que no corresponde a los santos (creyentes) el que sea mencionado entre ellos la inmoralidad, la impureza o la avaricia.
+##### El lenguaje enfatiza que tales cosas no deben caracterizar la vida de la comunidad.
 
-##### No va de acuerdo o corresponde a su nueva identidad en Cristo, un nuevo hombre creado en justicia y santidad de la verdad, creado según Dios.
+###### La razón aparece inmediatamente.
 
-##### Pablo continúa el argumento con la conjunción KAI, y o tampoco, cada uno continúa con la negación.
+#### Efesios 5:3 – **«como corresponde a los santos»**
 
-### Efesios 5:4 – *“Tampoco haya obscenidades, ni necedades, ni groserías, que no son apropiadas, sino más bien acciones de gracias”.* 
+##### Pablo fundamenta el mandato en la identidad de los creyentes.
 
-#### Efesios 5:4 – *“Tampoco haya obscenidades, ni necedades, ni groserías”,* … Aquí tenemos una lista que Pablo, otra vez presenta de cosas, que no corresponden a los santos. Las tres tienen que ver con expresiones verbales. Pablo no dice cómo tratar con estos pecados.
+##### No dice que los creyentes llegarán a ser santos si evitan estas prácticas.
 
-##### “obscenidades” AISCHROTES, palabras, deshonestas, feas, vergonzosas; esto es todo lo contrario a la pureza, como decimos, malas palabras.
+##### Dice que estas cosas no corresponden a quienes ya son santos.
 
-##### “necedades” MOROLOGIA, palabras necias, conversaciones tontas, estupideces, son palabras necias a la vez pecaminosas, son palabras que se dicen sin pensar.
+###### El argumento continúa el desarrollo iniciado en Efesios 4:24: el nuevo hombre ha sido creado según Dios en justicia y santidad de la verdad; por eso hay conductas que simplemente no armonizan con esa nueva identidad.
 
-##### “groserías” EUTRAPELIA, palabras (bromas) vulgares, chistes de doble sentido, palabras sucias, burlas.
+### Efesios 5:4 – *«Tampoco haya obscenidades, ni necedades, ni groserías, que no son apropiadas, sino más bien acciones de gracias.»*
 
-#### Efesios 5:4 – … que no son **apropiadas”,*** … traducciones posibles; no corresponde, no es apropiado, no pertenece. Pablo les dice que las obscenidades, necedades, groserías; no les pertenece o no les corresponde a ellos como a santos.
+#### Efesios 5:4 – **«Tampoco haya obscenidades, ni necedades, ni groserías»**
 
-##### Ellos son santos, tienen una nueva identidad, son nuevas criaturas en Cristo, lo que si corresponde a ellos es:
+##### Pablo continúa la lista de aquello que no corresponde a los santos.
 
-#### Efesios 5:4 – … sino más bien acciones de gracias”.* Lo que es apropiado para los santos es; un lenguaje de gratitud a Dios, en adoración.
+##### Si el versículo anterior habló de ciertas prácticas, ahora se concentra en la manera de hablar.
 
-##### Acciones de gracias, es hablar de la gracia de Dios, reconocimiento por la gracia recibida. 
+##### Las tres expresiones describen un lenguaje que no refleja la nueva vida en Cristo.
 
-##### Pablo da la razón de por qué no les conviene o no es apropiada para ellos esa lista de pecados mencionados.
+###### El énfasis no recae en distinguir cada palabra, sino en presentar una forma de hablar incompatible con la identidad del creyente.
 
-### Efesios 5:5 – *“Porque con certeza ustedes saben esto: que ningún inmoral, impuro o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios”.* 
+#### Efesios 5:4 – **«que no son apropiadas»**
 
-#### Efesios 5:5 – *“Porque con certeza ustedes saben esto”:* I. F. L. “porque esto sabed (saben) conociendo: Pablo usa dos verbos, el primero es declarativo, ellos sí lo saben, y están conociendo, de manera continua y activamente acerca de:
+##### Pablo explica por qué estas expresiones no deben caracterizar a los creyentes.
 
-##### Pablo habla de que con certeza los santos (creyentes) saben y están conociendo, no son ignorantes.
+##### No corresponden a quienes han sido apartados para Dios.
 
-##### Entonces ¿Qué es lo que los creyentes saben conociendo?
+##### El argumento sigue siendo el mismo desde Efesios 4:24: el nuevo hombre ha sido creado según Dios; por eso hay maneras de vivir y de hablar que ya no armonizan con esa nueva identidad.
 
-####  Efesios 5:5 – … que ningún inmoral, impuro o avaro, que es idolatra,* \[no\] *tiene” …* Pablo no dice que ellos son inmorales, impuros o avaros, sino que ellos saben conociendo.
+###### El contraste aparece inmediatamente.
 
-##### “que ningún” PAS, es un adjetivo atributivo (observación léxica: forma usada para introducir una glosa) “todo” y modifica a los sustantivos “inmoral, avaro y al adjetivo sustantivado impuro”. 
+#### Efesios 5:4 – **«sino más bien acciones de gracias»**
 
-###### Pablo está hablando de personas que son inmorales, impuras o avaras.
+##### Pablo no solo reemplaza un tipo de lenguaje por otro.
 
-##### “Todo inmoral no tiene” Esto describe a los incrédulos, todo fornicario, el hombre que se entrega a la inmoralidad sexual, no tienen…
+##### Sustituye palabras que corrompen por palabras que reconocen la gracia de Dios.
 
-##### “Todo impuro no tiene” Esto no solo habla de pecado, sino que las persona que practican ese pecado, haciendo referencia a los incrédulos, son personas impuras tanto física como mentalmente, no tienen...
+##### El creyente no solamente deja de hablar de una manera; aprende a hablar de otra.
 
-##### “Todo avaro, que es idolatra, no tiene…” Pablo hace una declaración: todo avaro es idólatra. La codicia es idolatría. Entonces toda persona que es codiciosa es idólatra, no tiene…
+###### La gratitud expresa una vida orientada hacia Dios y ocupa el lugar que antes ocupaban las palabras impropias.
 
-##### Entonces ¿Qué es lo que no tiene toda persona que es inmoral, impura o avara que es idólatra?
+### Efesios 5:5 – *«Porque con certeza ustedes saben esto: que ningún inmoral, impuro o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.»*
 
-#### Efesios 5:5 – … “no *tiene herencia en el reino de Cristo y de Dios”.* Esta no es la realidad de los creyentes.
+#### Efesios 5:5 – **«Porque con certeza ustedes saben esto»**
 
-##### Pablo se refirió a los creyentes en Efesios 1:7, 14, 18; 3:6 como quienes tienen herencia en Cristo o siendo herederos o coherederos.
+##### Pablo fundamenta la afirmación de los versículos anteriores.
 
-##### Todos los inmorales, impuros, codiciosos que son idólatras no tienen herencia, no tiene parte en el reino de Cristo y de Dios. 
+##### No introduce una idea nueva.
 
-##### El reino de Cristo es el reino de Dios.
+##### Apela a una verdad que los creyentes ya conocen.
 
-###### Pablo continúa con otro imperativo.
+###### Lo que sigue explica por qué aquellas prácticas no corresponden a los santos.
 
-### Efesios 5:6 – *“Que nadie los **engañe** con palabras vanas, pues por causa de estas cosas la ira de Dios viene sobre los hijos de desobediencia. 
+#### Efesios 5:5 – **«ningún inmoral, impuro o avaro, que es idólatra»**
 
-#### Efesios 5:6 – *“Que nadie los **engañe** con palabras vanas”,* … Pablo pasa a dar una orden, que nadie los engañe. Esto sería un llamado implícito a estar siempre velando por la verdad.
+##### Pablo describe personas caracterizadas por estas prácticas.
 
-##### “Nadie los engañe” APATATO, está en presente, activo, 3ra persona. (observación léxica: forma usada para introducir una glosa) una acción continua o en proceso de manera activa. “nadie, ni siquiera uno realice esa acción sobre ustedes”
+##### No se refiere a un acto aislado, sino a una forma de vida identificada con la inmoralidad, la impureza o la avaricia.
 
-##### “Que nadie los engañe” Pablo se dirige a la iglesia, el mandamiento va dirigido al pronombre indirecto, en 3ra persona, alguien que está en la congregación. La oración lleva un pronombre en segunda persona, para los creyentes: (observación léxica: forma usada para introducir una glosa) que nadie les engañe a ustedes o que nadie ejerza engaño sobre ustedes.
+##### La avaricia recibe una descripción adicional: es idolatría.
 
-###### Creo que este mandato está de acuerdo con la advertencia que Pablo les había dado acerca de los falsos maestros. Hechos 20:29-30
+###### El énfasis permanece sobre la persona caracterizada por estas conductas.
 
-###### ¿Con que los engañarían? Pablo continúa y presenta un dativo instrumental para el engaño.
+#### Efesios 5:5 – **«no tiene herencia»**
 
-##### “con palabras vanas” estos son discursos vacíos, razonamientos humanos que se desvanecen, no tienen la verdad que lleva frutos. 
+##### Pablo hace una declaración.
 
-###### Estas palabras vanas están relacionadas a discursos acerca de los pecados mencionados previamente.
+##### No presenta una posibilidad ni una advertencia hipotética.
 
-#### Efesios 5:6 – … pues por causa de estas cosas” …* (observación léxica: forma usada para introducir una glosa) las cosas mencionadas en los versículos 3-5.
+##### Afirma que quienes son caracterizados por estas prácticas no participan de la herencia.
 
-#### Efesios 5:6 – … la ira de Dios viene sobre los hijos de desobediencia”.* No dice que la ira de Dios viene sobre los hijos de Dios sino sobre los hijos de desobediencia.
+###### El contraste implícito es con los creyentes, quienes ya han sido presentados en la carta como herederos en Cristo.
 
-##### Dios actúa en justica y juicio con ira, hay una causa por la cual viene la ira de Dios.
+#### Efesios 5:5 – **«en el reino de Cristo y de Dios»**
 
-##### Dios responde con justicia, al juzgar con Su ira, la injusticia e impiedad de los hombres.
+##### La herencia pertenece al reino sobre el cual Cristo y Dios ejercen su autoridad.
 
-##### Pablo hace una declaración; la ira de Dios viene en contra o sobre los hijos de desobediencia o la ira de Dios cae sobre los hijos de desobediencia.
+##### Pablo concluye así la razón por la cual esas prácticas no corresponden a los santos.
 
-###### ¿Quiénes son los hijos de desobediencia? ¿Por qué tiene ese nombre o identidad? 
+###### Los creyentes pertenecen a ese reino; por eso su manera de vivir debe corresponder a la identidad que ya poseen en Cristo.
 
-##### “hijos de desobediencia” APEITHEIAS vine de (A-sin, no, PEITHO-obedecer, confiar, IA- \[describe carácter\]) indica; estado de no dejarse persuadir, desobediencia, incredulidad, rebeldía. 
+### Efesios 5:6 – *«Que nadie los engañe con palabras vanas, pues por causa de estas cosas la ira de Dios viene sobre los hijos de desobediencia.»*
 
-###### Desobediencia – rechazo voluntario a obedecer o creer. Romanos 11:30-32
+#### Efesios 5:6 – **«Que nadie los engañe con palabras vanas»**
 
-###### Entonces “hijos de desobediencia” serían personas caracterizadas por la desobediencia, que pertenecen a la esfera de la rebeldía; hijos por carácter.
+##### Pablo vuelve a un mandato directo.
 
-###### El contexto da más claridad, hijos de desobediencia habla de incrédulos que rechazaron al evangelio de Cristo, no obedecieron a la verdad del evangelio.
+##### Después de describir aquello que no corresponde a los santos, ahora advierte contra quienes intenten justificar esas prácticas.
 
-###### Pablo va a contrastar a los hijos de desobediencia versículo 6 con los hijos de luz en el versículo 8. 
+##### El peligro no son solamente las acciones, sino también las palabras que buscan presentarlas como aceptables.
 
-#### Pablo solo les dio la orden de que nadie les engañe con palabras vanas, ellos son santos hijos de Dios, no son hijos de desobediencia.
+###### El creyente no debe dejarse persuadir por razonamientos vacíos.
 
-##### Pablo no termina la oración infundiendo miedo, como muchas veces acostumbramos hacer o escuchar que se hace.
+#### Efesios 5:6 – **«con palabras vanas»**
 
-##### No les dice que la ira de Dios también vendrá sobre ellos.
+##### Pablo describe el medio por el cual puede venir el engaño.
 
-##### No les dice que, si no obedecen a los imperativos que les ordenó, ellos pasarían a ser hijos de desobediencia.
+##### Son palabras vacías, sin la verdad de Dios.
 
-#### Lo que Pablo hace, es volver a llevarlos a la luz del evangelio. Les recuerda que ellos son hijos de luz en el Señor. La oración continua con “por tanto”
+##### El contexto indica que ese engaño está relacionado con las prácticas mencionadas en los versículos anteriores.
 
-## Efesios 5:7-14 – Andando como hijos de Luz.
+###### Lo que sigue explica por qué ese engaño debe rechazarse.
 
-### Efesios 5:7-14 – Pablo continúa instruyendo a los creyentes a que no sean partícipes de las obras de las tinieblas, ya que ellos son hijos de luz y son luz en el Señor y ya no son tinieblas. Más bien el fruto de la luz consiste en bondad, justicia y verdad.
+#### Efesios 5:6 – **«pues por causa de estas cosas»**
 
-### Efesios 5:7 – Por tanto, es un conector que une al versículo 6, donde explicó que la ira de Dios viene por una causa a los hijos de desobediencia.
+##### Pablo presenta la razón del mandato.
 
-#### Ya que la ira de Dios viene ciertamente a los hijos de desobediencia. 
+##### Las «estas cosas» retoman la inmoralidad, la impureza, la avaricia y el lenguaje impropio mencionados anteriormente.
 
-#### Creo que es razonable que haya un mandamiento, pero ¿Qué tipo de mandamiento?
+###### La explicación culmina en la siguiente declaración.
 
-#### El mandamiento que Pablo hace es lógico; diríamos como corresponde a los santos.
+#### Efesios 5:6 – **«la ira de Dios viene sobre los hijos de desobediencia»**
 
-#### Pero Pablo les da la razón (Efesios 5:8) de por qué les da el siguiente mandamiento.
+##### Pablo hace una afirmación.
 
-### Efesios 5:7 – *“Por tanto, no sean partícipes con ellos”,* 
+##### La ira de Dios no aparece como una posibilidad, sino como una realidad anunciada sobre los hijos de desobediencia.
 
-#### El imperativo “no sean” ME GINESTHE, está en presente una acción continua y voz pasivo-medio en beneficio de que les conviene.
+##### El énfasis recae sobre las personas caracterizadas por la desobediencia.
 
-##### Este es un mandamiento en 2da persona, va dirigido a los creyentes, que no lleguen a ser partícipes con ellos.
+###### Este versículo prepara el contraste que Pablo desarrollará enseguida entre los hijos de desobediencia y los hijos de luz.
 
-#### “Partícipes” SYMMETOCHOI viene de dos palabras (SYN – con, juntamente, y MÉTOCHOS – partícipe) (observación léxica: forma usada para introducir una glosa) copartícipe o partícipe juntamente con.
+## Efesios 5:7–14 – Andando como hijos de luz
 
-#### “Ellos” pronombre personal genitivo. La traducción sería “de ellos”
+### Efesios 5:7–14 – Pablo exhorta a los creyentes a vivir de acuerdo con su nueva identidad. Ya no pertenecen a las tinieblas; ahora son luz en el Señor.
 
-##### Pablo no solo les dice que no participen. 
+### Efesios 5:7 – *«Por tanto, no sean partícipes con ellos.»*
 
-##### La orden de Pablo es no lleguen a ser creyentes que participan juntamente con otras personas de ellos, es decir de sus pecados y de su destino.
+#### Efesios 5:7 – **«Por tanto»**
 
-###### Sus pecados (Efesios 5:3-5) y su destino (Efesios 5:6) – lo mismo pasó en Hebreos 10:26-27
+##### Pablo extrae la conclusión de la advertencia anterior.
 
-##### Es lo misma que Pablo les dijo en Efesios 3:6, que ellos son co-partícipes con los judíos de la promesa en Cristo.
+##### Si la ira de Dios viene sobre los hijos de desobediencia, los creyentes no deben participar con ellos.
 
-##### Pablo no dice en Efesios 5:7 que son copartícipes con ellos, sino que da la orden de que no lleguen a ser copartícipes, juntamente con los incrédulos de sus pecados.
+###### El fundamento completo de esta exhortación será desarrollado en el versículo siguiente.
 
-###### No dice que no pueden ser amigos de los incrédulos, ni tampoco que no pueden visitarlos, sino que no pueden llegar a ser partícipes con ellos de lo que hacen.
+#### Efesios 5:7 – **«no sean partícipes con ellos»**
 
-###### Pablo da la razón de por qué no deben ser copartícipes con los incrédulos de lo que ellos hacen.
+##### Este es el mandato principal del versículo.
 
-### Efesios 5:8 – porque antes ustedes eran tinieblas, pero ahora son luz en el Señor; **anden** como hijos de luz”.* 
+##### Pablo no prohíbe el contacto con las personas.
 
-#### Efesios 5:8 – porque antes ustedes eran tinieblas”,* … Es una declaración de lo que los creyentes eran antes, tinieblas, pero ahora ya no lo son.
+##### Prohíbe participar juntamente con ellas en aquello que caracteriza su manera de vivir.
 
-##### “eran” un verbo imperfecto marca un tiempo pasado e indicativo; estaban siendo.
+###### El contexto inmediato señala las prácticas descritas en los versículos 3–6.
 
-##### “porque antes eran” El verbo no indica acción sino un estado, estado continuo en el pasado, en otro tiempo o alguna vez.
+##### La razón de esta exhortación no aparece todavía.
 
-##### “eran tinieblas” es nominativo, neutro; señala la naturaleza que tenían, metáfora de identidad; no dice estaban en tinieblas sino eran tinieblas continuamente.
+##### Pablo la presenta inmediatamente en el versículo 8: los creyentes ya no son tinieblas, sino luz en el Señor.
 
-#### Efesios 5:8 – … pero ahora* \[ustedes-creyentes\] *son luz … Pablo continúa la oración con un cambio de identidad de tiempo imperfecto a tiempo presente indicativo “ahora son luz”
+### Efesios 5:8 – *«Porque antes ustedes eran tinieblas, pero ahora son luz en el Señor; anden como hijos de luz.»*
 
-##### Pablo no dice que están en la luz, sino que ahora son luz, habla de identidad, no de lugar.
+#### Efesios 5:8 – **«Porque antes ustedes eran tinieblas»**
 
-##### La oración no termina “pero ahora son luz …” continua.
+##### Pablo presenta la razón del mandato anterior.
 
-#### Efesios 5:8 – … son luz en el Señor”;* Pablo no dice que los creyentes son luz en ellos mismos, sino en el Señor.
+##### Recuerda la condición pasada de los creyentes.
 
-##### “en Señor” EN-en una preposición, un caso dativo que indica lugar KYRIO-Señor. (observación léxica: forma usada para introducir una glosa) que los creyentes son luz en unión con Cristo, por eso tenemos esa identidad, somos luz en Cristo.
+##### No dice que antes estaban en tinieblas, sino que eran tinieblas.
 
-###### Jesús dijo que Él era la luz del mundo, los creyentes tienen esa identidad, son luz en el Señor. Esta identidad es derivada de Cristo. Juan 8:12; 1 Tesalonicenses 5:5
+###### El contraste recae sobre un cambio de identidad.
 
-##### Pablo no solo dio la razón de por qué no pueden llegar a ser partícipes con los incrédulos, “porque ahora son luz en el Señor”
+#### Efesios 5:8 – **«pero ahora son luz en el Señor»**
 
-##### Pablo, además, les dio un mandamiento, pero no poniendo el foco en los pecados.
+##### Pablo contrasta el pasado con la realidad presente.
 
-##### Pablo les dio un mandamiento debido a quienes son ahora en el Señor, considerando su identidad, que ahora son luz en el Señor; anden…
+##### Tampoco dice solamente que están en la luz.
 
-##### La oración pasa de indicativo a imperativo, Pablo dice:
+##### Afirma que ahora son luz en el Señor.
 
-#### Efesios 5:8 – … **anden** como hijos de luz. El imperativo PERIPATEITE, viene de (PERI-alrededor, y PATEO-caminar) caminar alrededor, está en presente indica ahora mismo y acción continua, voz activa esto es nosotros activamente por la fe.
+###### La nueva identidad no procede de ellos mismos, sino de su unión con Cristo.
 
-##### Anden no es moverse sino habla de estilo de vida como hijos de luz, este imperativo tiene un participio “comprobando o examinando” Efesios 5:10
+#### Efesios 5:8 – **«anden como hijos de luz»**
 
-##### El texto no dice: ya que son luz en el Señor, anden haciendo buenas obras.
+##### Sobre esa nueva identidad Pablo da el mandato.
 
-##### La declaración “anden como hijos de luz” es intencional para no perder el foco de cómo debe ser el andar como hijos de luz.
+##### No manda llegar a ser luz.
 
-##### Ya que somos luz en el Señor, nuestro andar no debe ser separados del Señor
+##### Manda vivir de acuerdo con lo que ahora son.
 
-##### Andar como hijos de luz, es andar en la luz. Efesios 5:13; 1 Juan 1:5, 7.
+###### El versículo siguiente explica cómo se manifiesta ese andar.
 
-##### Los que son tinieblas andan en tinieblas. Juan 3:19-20
+### Efesios 5:9 – *«Porque el fruto de la luz consiste en toda bondad, justicia y verdad.»*
 
+#### Efesios 5:9 – **«Porque el fruto de la luz»**
 
-### Efesios 5:9 – Porque el fruto de la luz consiste en toda bondad, justicia y verdad”.* 
+##### Pablo explica la razón del mandato anterior.
 
-#### Pablo antes de decir cómo debe ser nuestro estilo de vida en el verso 10, toma un paréntesis para mencionar la razón y el resultado de andar como hijos de luz, esto es EN LUZ
+##### El fruto no produce la luz.
 
-#### Efesios 5:9 – Porque el fruto de la luz … La declaración que hace Pablo es el resultado de andar como hijos de luz.
+##### El fruto procede de la luz.
 
-##### La preposición TOU, de la es genitivo y el caso PHOTOS, luz es genitivo. Muestra origen, procedencia o causa “fruto que proviene de la luz”
+###### El énfasis está en el resultado de andar como hijos de luz.
 
-##### En el versículo 8 Pablo dijo que los creyentes son luz en el Señor, indicando su nueva identidad.
+#### Efesios 5:9 – **«consiste en toda bondad, justicia y verdad»**
 
-##### En el versículo 8 continúa con un imperativo, anden como hijos de luz.
+##### Pablo describe un solo fruto.
 
-##### Ahora en el versículo 9, la razón es que el fruto de la luz, habla de la conducta que brota de que somos luz en el Señor, de la identidad que tenemos.
+##### No presenta tres frutos diferentes.
 
-###### Fruto que sale de la luz – otros pasajes Gálatas 5:22 el agente el Espíritu; Efesios 5:9 el agente es la luz. \[RV-60 Efesios 5:9 – fruto del Espíritu\]
+##### Describe tres expresiones que caracterizan el fruto de la luz.
 
-##### Si estás andando como hijo de luz siendo luz en el Señor, el resultado será fruto de la luz; Pablo no les mandó a producir fruto, sino a andar según a lo que son en el Señor.
+###### El resultado de andar como hijos de luz se manifiesta en toda bondad, justicia y verdad.
 
-#### Efesios 5:9 – el fruto* … *consiste en … Pablo hace una declaración en tiempo presente, en singular, de que el fruto, no dice frutos, de la luz es o consiste en.
+##### Estas tres cualidades armonizan con la nueva creación descrita anteriormente.
 
-##### Esto indica que son luz en el Señor y si andas como hijo de la luz, inevitable llevarás el fruto en tu andar diario. 
+##### El nuevo hombre fue creado según Dios en justicia y santidad de la verdad (Efesios 4:24).
 
-##### La condición, es que el creyente obedezca el mandamiento de andar como hijos de luz. Según Efesios 5:9 vamos a asumir que el creyente está andando como hijo de luz entonces el fruto será luz “será, es, consiste en o se compone de” lo siguiente.
+###### El argumento continúa mostrando cómo esa nueva identidad se expresa en la vida diaria.
 
-#### Efesios 5:9 – … en* *toda bondad, justicia y Verdad. Esto no es diferente de la creación del nuevo hombre según Dios en justicia y santidad de la verdad. Efesios 4:24
+### Efesios 5:10 – *«Examinando qué es lo que agrada al Señor.»*
 
-##### “en toda bondad, justicia y verdad” no son tres frutos sino uno; podríamos llamar un fruto de tres sabores. PASE, toda es un adjetivo que modifica a los tres sustantivos.
+#### Efesios 5:10 – **«Examinando»**
 
-##### Nota que los sustantivos no llevan artículo definido; no dice toda la bondad, la justicia, y la verdad como bloques o en partes sino “en toda bondad, justicia y verdad” en todas sus formas, es decir, el fruto de la luz cobra toda gama (clase) de bondad, justicia y verdad.
+##### El verbo δοκιμάζοντες (*dokimázontes*, examinando, comprobando) está en **presente, activo, participio**.
 
-##### “en toda bondad” AGATHOSYNE, Cualidad de ser bueno; el fruto como conducta visible, no solo como carácter sino bondad activa práctica, que hace el bien a otros en todo. Gálatas 5:22
+###### En el texto griego este participio depende del imperativo del versículo anterior: **«anden como hijos de luz»** (5:8).
 
-##### “en toda justicia” DIKAIOSYNE, Cualidad de ser justo o recto; el fruto como conducta visible, Esto habla de una conducta recta u honesta, rectitud a una norma de lo correcto, hacer justicia en el trato a los demás sin hacer trampas ni injusticas.
+###### Es decir, Pablo no introduce aquí un nuevo mandamiento. El participio describe **la manera** en que debe caminar un hijo de luz.
 
-##### “en toda verdad” ALETHEIA, “veracidad, sinceridad” decir la verdad, sinceramente, sin engaño; el fruto se refleja en una conducta que no engaña e incluye vivir con integridad. Efesios 4:21 
+###### La idea es:
 
-###### Pablo presenta un contraste entre la verdad, y lo que se hace en lo oculto o en secreto. Efesios 5:12
+- Anden como hijos de luz,
+- **examinando continuamente**
+- qué es lo que agrada al Señor.
 
-### Efesios 5:10 – Examinen qué es lo que agrada al Señor”,* 
+##### El tiempo presente muestra una acción continua.
 
-#### Efesios 5:10 – Examinen … El verbo está en participio. Examinando o comprobando.
+###### Mientras el creyente anda como hijo de luz, constantemente va poniendo a prueba y discerniendo aquello que agrada al Señor.
 
-##### “Examinado” (observación léxica: forma usada para introducir una glosa) poniendo a prueba con el fin de decidir qué es lo agradable a Dios y qué no.; es una acción continua a medida que andamos como hijos de luz.
+#### Efesios 5:10 – **«qué es lo que agrada al Señor»**
 
-##### Pablo dio el mandamiento “anden como hijos de luz” aquí la oración continúa.
+##### El criterio del creyente deja de ser su propia opinión.
 
-##### Anden como hijos de luz, examinando qué es lo que agrada al Señor.
+##### El Señor mismo se convierte en la medida para evaluar la conducta.
 
-#### Efesios 5:10 – … *“qué es lo que agrada al Señor. Esto es una declaración de que hay cosas agradables al Señor.
+##### Andar como hijo de luz implica desarrollar continuamente ese discernimiento.
 
-##### Esto es posible: no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que **verifiquen** cuál es la voluntad de Dios: lo que es bueno y aceptable (**agradable**) y perfecto”.* Romanos 12:2
+###### Romanos 12:2 expresa una idea semejante: la mente renovada permite comprobar cuál es la voluntad de Dios, lo que es bueno, agradable y perfecto.
 
-### Efesios 5:11 – y no **participen** en las obras estériles de las tinieblas, sino más bien, **desenmascárenlas*.* 
+### Efesios 5:11 – **«Y no participen en las obras estériles de las tinieblas, sino más bien desenmascárenlas.»**
 
-#### La oración continúa desde el imperativo “anden como hijos de luz” y no (imperativo) participen en las obras estériles de las tinieblas.
+#### La oración continúa desarrollando el imperativo del versículo 8: **«anden como hijos de luz»**.
 
-#### Efesios 5:11 – y no **participen** … El imperativo está presente continuo y activo.
+##### Los verbos de los versículos 10 y 11 dependen de ese mandato principal.
 
-##### (observación léxica: forma usada para introducir una glosa) que no participen o no tengan parte junto con, compartir responsabilidad, compartir la acción. Esto es en:
+###### La secuencia del argumento es:
 
-#### Efesios 5:11 – … en las obras estériles de las tinieblas”,* Pablo usa obras estériles que son de las tinieblas, no fruto, como cuando hablaba de la luz. Aquí está el contraste entre el versículo 9 fruto, singular y versículo 11 las obras estériles, plural. Gálatas 5:19
+- Anden como hijos de luz.
+- Examinando qué agrada al Señor (v.10).
+- No participando de las obras estériles de las tinieblas.
+- Más bien, poniéndolas al descubierto.
 
-##### Aclarando el texto no dice obras sin fruto, sino obras estériles, sí existen obras, pero son estériles, señala una categoría de obras.
+#### Efesios 5:11a – **«Y no participen…»**
 
-##### “las obras estériles” (tanto el sustantivo y adjetivo llevan el artículo en plural) la palabra AKARPOIS, estériles viene de (A – sin, y KARPOS – fruto) habla de las obras; las cuales son infructuosas.
+##### El verbo **συγκοινωνεῖτε** (*synkoinōneíte*) está en **presente, activo, imperativo**.
 
-##### Contraste entre la palabra KARPOS – fruto de la luz; AKARPOIS – estériles o infructuosas, de las tinieblas.
+###### El presente imperativo describe una acción continua. Pablo no está hablando de un acto aislado, sino de un estilo de vida.
 
-##### “de las tinieblas” es decir las obras que pertenecen al ámbito de las tinieblas, obras que son características de las tinieblas.
+###### El verbo está compuesto por:
 
-##### El mandamiento es que no se asocien o participen de obras que no tienen valor eterno, no tienen provecho, no agradan a Dios, no solo no agradan, sino que no provienen de Dios, la Luz.
+- **σύν** = juntamente con.
+- **κοινωνέω** = participar, compartir, tener comunión.
 
-##### Los creyentes no deben participar de las obras que no hacen bien a nadie, estas obras estériles, no tienen valor alguno delante de Dios. Isaías 64:6
+###### La idea es: **no tengan participación juntamente con**, no compartan aquello que pertenece a otro ámbito.
 
-##### Aunque vivimos en este mundo de tinieblas, no somos tinieblas, ni tampoco de las tinieblas. Los creyentes son luz en el Señor.
+##### El mandato no prohíbe el contacto con los incrédulos.
 
+###### Lo que prohíbe es participar de las obras que caracterizan el reino de las tinieblas.
 
-#### Efesios 5:11 – sino más bien, **desenmascárenlas***”. En lugar de participar de obras estériles que no nos corresponden, porque somos luz en el Señor, debemos desenmascararlas. 
+#### Efesios 5:11b – **«…en las obras estériles de las tinieblas.»**
 
-##### El imperativo, desenmascárenlas está en tiempo presente, activo, indica una acción continua; otras traducciones posibles serían reprender, convencer, poner al descubierto. Lit. más bien pongan al descubierto.
+##### Pablo habla de **obras**, no de fruto.
 
+###### El contraste con el versículo 9 es intencional.
 
-##### Parafraseando el mandato; vivan como hijos de luz, de modo que su conducta exponga lo malo, no lo encubra.
+- v.9: **el fruto** (*καρπός*) de la luz.
+- v.11: **las obras** (*ἔργα*) estériles de las tinieblas.
 
-##### Pablo en los versículos 12-13 explica la razón de por qué no deben participar de obras estériles sino desenmascararlas.
+##### El adjetivo **ἀκάρποις** (*akárpois*, estériles, infructuosas) significa literalmente **«sin fruto»**.
 
-### Efesios 5:12 – Porque es vergonzoso aun hablar de las cosas que ellos hacen en secreto”.* 
+###### Está formado por:
 
-#### Efesios 5:12 – Porque es vergonzoso aun hablar de las cosas que ellos hacen*” … Cuando vemos cosas horribles a veces nos expresamos diciendo: ni hablar, o no tiene caso hablar.
+- **ἀ-** = sin.
+- **καρπός** = fruto.
 
-##### Pablo hace una declaración de que ciertamente es vergonzoso no solo participar de obras estériles (los pecados que hacen), sino aun el hablar de ellas, es vergonzoso, deshonesto.
+##### Pablo no dice simplemente que estas obras producen poco fruto.
 
-##### Por eso Pablo dijo: Pero inmoralidad, y toda impureza o avaricia, **ni siquiera se mencionen** entre ustedes, como corresponde a los santos Efesios 5:3-4
+###### Las caracteriza como obras que carecen de fruto delante de Dios; no producen aquello que corresponde a la luz.
 
-#### Efesios 5:12 – ellos hacen en secreto*”. El verbo hace está en presente, participio. (observación léxica: forma usada para introducir una glosa) que ellos (los que son tinieblas), de manera continua, las están haciendo en secreto.
+##### El genitivo **«de las tinieblas»** señala su origen y esfera.
 
-##### Estas son las obras estériles que ellos hacen en secreto, en lo oculto de las tinieblas.
+###### Son obras que pertenecen al dominio de las tinieblas y reflejan su naturaleza.
 
-##### Pablo hace un contraste de lo bueno de desenmascararlas.
+##### El creyente, siendo ahora luz en el Señor (v.8), no debe participar de aquello que pertenece a esa esfera.
 
-### Efesios 5:13 – *“Pero todas las cosas se hacen visibles cuando son expuestas por la luz, pues la luz, las hace visibles”.* 
+#### Efesios 5:11c – **«…sino más bien desenmascárenlas.»**
 
-#### Efesios 5:13 – *“Pero todas las cosas se hacen visibles cuando son expuestas por la luz,*” … Todas las cosas se refieren a todo lo que está en tinieblas; obras estériles de las tinieblas y a los que están en tinieblas.
+##### El contraste se introduce con **μᾶλλον δέ** (*más bien*).
 
-##### El verbo “visibles” está en pasivo, indicativo y “expuestas” está en pasivo, participio. Quiere decir; que todas las cosas se hacen visibles cuando están siendo expuestas por la luz. Esto es una declaración de que por la luz las cosas quedan expuestas.
+###### Pablo no se limita a prohibir la participación; presenta la alternativa correspondiente al hijo de luz.
 
-##### El agente que está exponiendo todas las cosas es la luz; por eso dice: expuestas por o por medio de la luz. Efesios 5:8
+##### El verbo **ἐλέγχετε** (*elénchete*) está en **presente, activo, imperativo**.
 
-###### La Luz en Juan 8:12 – Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la Luz de la vida*” Juan 12:46
+###### El presente imperativo expresa una acción continua.
 
-##### La luz es el origen que produce fruto Efesios 5:9, y la luz es el agente que expone todas las cosas Efesios 5:13.
+###### El verbo puede traducirse:
 
-##### La luz es la identidad que tenemos en el Señor Efesios 5:8, y la luz es un poder activo que revela todo (hace visible) Efesios 5:13. 
+- poner al descubierto,
+- desenmascarar,
+- convencer,
+- dejar en evidencia,
+- exponer.
 
-#### Efesios 5:13 – pues todo lo que se hace visible es luz”.* Todo aquel que ha sido alumbrado por la Luz es luz. Pablo hace la declaración de esta realidad.
+##### El sentido principal es **hacer manifiesto aquello que permanece oculto**.
 
-##### “es luz” el verbo es o ser esta en presente indicativo, no lleva voz, o sea no lleva la idea de acción, solo identifica estado permanente; (observación léxica: forma usada para introducir una glosa) que es una declaración resultante.
+###### El contexto inmediato (vv.12-13) muestra que Pablo está hablando de sacar a la luz las obras de las tinieblas, no de participar en ellas.
 
-###### Ya que el verbo ***es*** no tiene voz, no es una acción sino un estado, una identidad.
+##### El contraste es claro:
 
-##### Pablo no dice que se convierte en luz, sino que es luz; en griego resalta es LUZ . Esto señala que pertenece a la esfera de la luz: participa de la naturaleza (se hace visible), y es revelado por la luz (es luz) Juan 3:20-21
+- no participar de las obras de las tinieblas;
+- vivir de tal manera que esas obras queden expuestas por la luz.
 
-#### No hay una cita directa que Pablo haya usado en versículo 14 parece que es una cita del libro de Isaías. Isaías 26:19; 51:17; 52:1; 60:1. Donde aparecen los verbos “despierta, levántate” refiriéndose a Jerusalén de que su Luz había venido.
+###### El argumento continúa en los versículos 12-13, donde Pablo explica por qué las obras de las tinieblas deben ser puestas al descubierto.
 
-### Efesios 5:14 – Observación: ”;* El conector viene del versículo 13, después de mostrar el poder de la Luz. Los mandamientos de despierta y levántate se dirigen a los creyentes.
+### Efesios 5:12 – *«Porque es vergonzoso aun hablar de las cosas que ellos hacen en secreto.»*
 
-### Efesios 5:14 – Observación:  dice: **Despierta** tú que duermes, Y **levántate** de entre los muertos, Y te alumbrará Cristo”.* 
+#### El versículo comienza con **γάρ** (*porque*).
 
-#### “Dice”. Pablo cita las Escrituras, el verbo “dice” está en tiempo presente, la Escritura continúa diciendo de manera activa.
+##### Pablo da la razón del mandato anterior.
 
-#### Pablo no es quien dio la primera orden, sino Dios mismo la dio, por la declaración de Dios, entonces despierta y levántate por fe.
+###### Los creyentes no deben participar de las obras estériles de las tinieblas; por el contrario, deben ponerlas al descubierto (v.11), **porque** las obras mismas son vergonzosas.
 
-#### Los dos mandamientos “despierta y levántate” son para un solo sujeto.
+#### Efesios 5:12a – **«Porque es vergonzoso aun hablar…»**
 
-#### Efesios 5:14 – **Despierta** tú que duermes, … Este es un mandamiento para el creyente que está dormido.
+##### El adjetivo **αἰσχρόν** (*aischrón*, vergonzoso, deshonroso) aparece al comienzo de la oración para enfatizar la naturaleza de estas obras.
 
-##### El imperativo EGEIRAI, está en aoristo es una acción puntual, no continua; despertarse uno mismo.
+###### Pablo no dice simplemente que las obras son malas.
 
-###### Pablo no le manda a que se despierte todo el tiempo
+###### Afirma que son tan vergonzosas que **aun hablar de ellas** resulta deshonroso.
 
-##### El participio “duermes” está en presente, activo; estás durmiendo.
+##### El énfasis no está en prohibir toda mención de esos pecados.
 
-##### Pablo le manda a despertarse de una vez por todas del estado en el que está, durmiendo; (observación léxica: forma usada para introducir una glosa) que el creyente esta adormecido o en un letargo.
+###### El argumento explica por qué esas obras deben ser expuestas (v.11) y no compartidas: pertenecen a una esfera tan degradada que incluso describirlas produce vergüenza.
 
-#### Efesios 5:14 – Y **levántate** de entre los muertos”,* el mandato que sigue al primero (Despierta) es que se levante de entre los muertos.
+##### Esto armoniza con Efesios 5:3-4, donde Pablo ya había dicho que la inmoralidad, la impureza y la avaricia **ni siquiera deben mencionarse** entre los santos.
 
-##### EL imperativo ANASTA, está en aoristo es una acción puntual, un verbo activo; levántate tú mismo de una vez por todas.
+#### Efesios 5:12b – **«…de las cosas que ellos hacen en secreto.»**
 
-##### El texto no dice: levántate tú que estás muerto, sino dice: de entre los muertos. El contexto ayuda a entender, que Pablo da la orden a ese creyente que está dormido espiritualmente; no solo a despertar, sino también a levantarse.
+##### El verbo **γινόμενα** (*ginómena*, las cosas que son hechas) está en **presente, pasivo, participio**.
 
-##### La combinación de los dos mandamientos sería; despiértate tú mismo y ponte de pie o levántate.
+###### El participio describe las acciones que continuamente se practican en secreto.
 
-#### Este mandato viene con una promesa; Y te alumbrará Cristo*” es una declaración no una duda, tal vez... La promesa es que será alumbrado por Cristo. 
+###### El sujeto sigue siendo **ellos**, es decir, quienes pertenecen al ámbito de las tinieblas.
 
-##### Seguramente después de esta promesa recibida; lo que sigue es otra orden; “anden como hijos de luz, porque son luz en el Señor. Efesios 5:8
+##### La expresión **«en secreto»** caracteriza el lugar y el carácter de esas obras.
 
-## Efesios 5:15-21 – Viviendo como sabios.
+###### Son obras ocultas, propias de las tinieblas, en contraste con la luz que las pone de manifiesto.
 
-### Efesios 5:15-20 – *Por tanto,* un conector entre los versículos (3-14), para continuar con las instrucciones, Pablo los llama a considerar su andar cada día.
+##### El argumento prepara naturalmente el versículo 13.
 
-### Pablo en estos versos hace un contraste entre lo insensato y lo sabio, aprovechando el tiempo y que sean llenos del Espíritu Santo.
+###### Lo que permanece oculto en las tinieblas debe ser expuesto por la luz; precisamente porque esas obras son vergonzosas, no deben permanecer encubiertas.
 
-### Efesios 5:15-16 – *Por tanto, **tengan** cuidado cómo andan; no como insensatos sino como sabios, 16 aprovechando bien el tiempo, porque los días son malos.* 
+### Efesios 5:13 – *«Pero todas las cosas se hacen visibles cuando son expuestas por la luz, porque todo lo que se hace visible es luz.»*
 
-#### Efesios 5:15 – **tengan** cuidado cómo andan;*” después de haber hablado de la luz versus las tinieblas; a la luz de lo que explicó, les lleva a considerar sus vidas.
+#### Efesios 5:13a – **«Pero todas las cosas se hacen visibles cuando son expuestas por la luz.»**
 
-##### El imperativo BLÉPETE, está en tiempo presente indica una acción continua, no es una vez, voz activa, el creyente es quien realiza la acción; otras traducciones serían miren, vean, estén atentos.
+##### Este versículo desarrolla el mandato del versículo 11: **«desenmascárenlas».**
 
-##### El mandamiento va seguido por un adverbio interrogativo “cómo” y otro adverbio “cuidado (diligencia, esmero, precisión)” las cuales modifican el imperativo.
+###### Pablo explica por qué la luz pone al descubierto las obras de las tinieblas.
 
-##### La advertencia sería, tengan mucho cuidado o presten mucha atención a la manera de andar.
+##### El verbo **φανεροῦται** (*phaneroûtai*, se hace visible) está en **presente, pasivo, indicativo**.
 
-##### Esto no (observación léxica: forma usada para introducir una glosa) solo ver con los ojos y luego ignorar, sino a que puedan considerar o prestar atención al estilo de vida que están viviendo.
+###### El presente indica una realidad continua.
 
-##### Porque ciertamente andan en una forma de vida, pero consideren cómo es esta.
+###### La voz pasiva muestra que el sujeto recibe la acción: aquello que estaba oculto es hecho manifiesto.
 
-####  Efesios 5:15 – no como insensatos*”. Los necios o insensatos están relacionados a personas que no consideran a Dios en sus vidas, o lo niegan, y su vida refleja necedad. Salmos 14:1; Romanos 1:21-22
+##### El participio **ἐλεγχόμενα** (*elenchómena*, siendo expuestas) también está en **presente, pasivo, participio**.
 
-##### Lit. no como faltos de sabiduría; Pablo no se refiere solo a algo intelectual; porque también está la sabiduría del mundo, pero es necedad para Dios. 1 Corintios 1:20
+###### Este participio depende de la acción principal.
 
-##### Pablo no menciona como se vive como insensato, solamente da entender que es algo malo y rápidamente pone el foco a cómo vivir como sabios.
+###### La idea es:
 
-##### Pablo contrasta al creyente que vive a ciegas, necia e insensatamente, con el que anda en la luz como hijo de luz, en sabiduría.
+> Todas las cosas **se hacen manifiestas mientras son expuestas** por la luz.
 
-##### Jesús dijo, que, al vivir como insensatos, todo termina en vanidad. Mateo 16:26.
+##### El agente de esa acción aparece expresado por la preposición **ὑπό** (*por*).
 
+###### No son las tinieblas las que revelan la realidad.
 
-#### Efesios 5:15 – sino como sabios,*” Pero la Escritura dice que no seas sabio en tu propia opinión; sino confía en Dios, eso es ser sabio. Romanos 12:16; Proverbios 3:5
+###### Es la luz la que pone todo al descubierto.
 
-##### Pablo explica cómo se vive como sabio, la sabiduría siempre viene del Señor. Santiago 1:5; 3:17-18
+##### Este pensamiento continúa el desarrollo iniciado en el versículo 8.
 
-##### La verdadera sabiduría está en el poder del evangelio o resulta del evangelio. 1 Corintios 1:20-25
+- Los creyentes son luz en el Señor (v.8).
+- El fruto procede de la luz (v.9).
+- La luz ahora revela lo que permanece oculto (v.13).
 
-##### La explicación de Pablo sobre cómo vivir como sabio es la siguiente:
+#### Efesios 5:13b – **«Porque todo lo que se hace visible es luz.»**
 
-#### Efesios 5:16 – aprovechando bien el tiempo*” – “miren como andan con cuidado … aprovechando bien el tiempo” Colosenses 4:5
+##### El texto griego dice literalmente:
 
-##### El verbo, aprovechando está en tiempo presente una acción continua, voz media, modo participio; traducciones serían; comprando para ustedes, redimiendo o aprovechando.
+> **«Porque todo lo que está siendo manifestado, luz es.»**
 
-##### La palabra KAIRON, es tiempo oportuno, momento decisivo, oportunidad.
+##### El participio **φανερούμενον** (*phaneroúmenon*, siendo manifestado) está en **presente, pasivo, participio**.
 
-##### En el mercado griego era sacar algo del mercado, en este tiempo decimos aprovechar la oferta, comprar cosas como una ganga.
+###### Pablo continúa hablando de aquello que es traído a la luz.
 
-##### Pablo quiere que los creyentes estén comprando el tiempo para su propio beneficio; la imagen que Pablo les presenta es que el tiempo es valioso, está a la venta y los sabios lo compran, antes de que se pierda.
+##### El verbo **ἐστιν** (*es*) está en **presente, indicativo**.
 
-###### Tenemos un ejemplo cuando Pablo instruyó en 2 Timoteo 4:2 – Predica la palabra. Insiste a tiempo y fuera de tiempo. Amonesta, reprende, exhorta con mucha paciencia e instruye*”. 2 Timoteo 4:3-4
+###### No expresa una acción.
 
-##### Pablo da la razón de por qué los creyentes mientras andan, deben estar aprovechando el tiempo.
+###### Hace una declaración acerca de la identidad o la esfera a la que algo pertenece.
 
-#### Efesios 5:16 – porque los días son malos*”. Esta es una declaración, no dice que a veces los días son malos, es un hecho que los días son malos.
+##### Pablo no dice que aquello expuesto **se convierte** en luz.
 
-##### Pablo no habla en tiempo futuro diciendo de que los días serán malos, el verbo está en tiempo presente, ahora los días son malos.
+###### Dice que aquello que ha sido traído plenamente a la luz **es luz**.
 
-##### Pablo no dice que aprovechen el tiempo malo, “porque los días son malos” es una afirmación objetiva, describe la situación del mundo en el que vivimos. 
+##### El énfasis no está en un cambio de naturaleza, sino en que lo revelado ya no permanece oculto en las tinieblas.
 
-##### Porque la corriente de este mundo es muy perversa, dañina, llena de maldad, violencia, va en contra de la voluntad de Dios, por eso es oportuno aprovechar el tiempo. 2 Corintos 4:4
+###### Lo que la luz manifiesta queda ahora completamente en el ámbito de la luz.
 
-### Efesios 5:17 – Así pues, no **sean** necios, sino entiendan cuál es la voluntad del Señor”.* 
+##### Así el argumento forma una progresión lógica:
 
-#### Efesios 5:17 – Así pues, no **sean** necios, Pablo no dice que dejen de ser necios, no les manda a dejar de ser, les manda a no llegar a ser necios.
+- Las tinieblas ocultan.
+- La luz expone.
+- Lo expuesto ya no permanece en las tinieblas, sino que está en la luz.
 
-##### El imperativo “no sean” es presente, pasivo-medio. (observación léxica: forma usada para introducir una glosa) no llegar a ser, no convertirse en. 
+#### El versículo 14 continúa esta misma línea de pensamiento.
 
-##### La razón es; ya que los días son malos-. Lo peor es que un creyente viva como un necio entendiendo que los días son malos, Pablo no quiere esto de ningún creyente. 
+##### Pablo cita un texto conocido por sus lectores para llamar a despertar y salir de las tinieblas hacia la luz de Cristo.
 
-##### Ejemplo: Pablo les llamó tontos cuando dejaron de caminar por el Espíritu. Gálatas 3:1-3 - *¿Tan insensatos* (necios o tontos) *son? Habiendo comenzado por el Espíritu, ¿van a terminar ahora por la carne?*
+### Efesios 5:14 – *«Por eso dice: Despierta, tú que duermes, y levántate de entre los muertos, y Cristo te alumbrará.»*
 
-#### Efesios 5:17 – sino entiendan cuál es la voluntad del Señor. No hay tiempo para vivir como necios.
+#### El versículo comienza con **διό** (*por eso, por tanto*).
 
-##### El verbo SYNIENTES, entiendan está en presente, activo, participio. Entendiendo, comprendiendo, discerniendo.
+##### Pablo concluye el desarrollo iniciado en el versículo 8 acerca de la luz.
 
-##### Pablo les dio el mandamiento, que no llegaran a ser necios.
+###### Después de mostrar que la luz expone todo lo oculto (v.13), presenta un llamado a responder a esa luz.
 
-##### Sino lo contrario les dice: mientras están viviendo como sabios, aprovechando el tiempo; estén entendiendo cuál es la voluntad de Dios.
+#### Efesios 5:14a – **«Por eso dice…»**
 
-##### “la voluntad del Señor” es explicada en Romanos 12:1-2 –Y no se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que verifiquen cuál es la voluntad de Dios; **lo que es bueno y aceptable y perfecto”.*** 
+##### El verbo **λέγει** (*dice*) está en **presente, activo, indicativo**.
 
-### Efesios 5:18 – Y no se **embriaguen** con vino, en lo cual hay disolución, sino **sean llenos** del Espíritu*.* Pablo continúa con una cadena de mandamiento, desde el versículo 15 tengan cuidado, no sean necios, ahora sean llenos del Espíritu Santo.
+###### Pablo introduce una cita conocida por sus lectores.
 
-#### Primeramente, Pablo dijo: “Por tanto tengan o miren cómo andan”, luego continuó con la siguiente orden “no sean” ahora no cambia a otro tema, sino continúa.
+###### El presente indica que la Escritura continúa hablando.
 
-#### El versículo 18 está amarrado a la instrucción de andar como sabios.
+##### No es Pablo quien origina este llamado.
 
-#### Para continuar usa una conjunción KAI, y para contrastar, de manera implícita el versículo 17 “no sean necios, sino entiendan cuál es la voluntad del Señor” “y” “no se embriaguen … sino sean” Tenemos dos verbos, uno en negativo “no sean” y otro en positivo “sean”
+###### Pablo apela a una autoridad ya reconocida por la iglesia.
 
-##### En el versículo 18 tenemos dos imperativos en voz pasiva
+#### Efesios 5:14b – **«Despierta, tú que duermes.»**
 
-#### Efesios 5:18 – Y no se **embriaguen** con vino, en lo cual hay disolución,*” Aquí se prohíbe la embriaguez, este es un mandamiento en tiempo presente. 
+##### El verbo **ἔγειρε** (*despierta*) está en **aoristo, activo, imperativo**.
 
-##### El imperativo “no se embriaguen” está en voz pasiva. Pablo les da la orden de que no estén embriagándose.
+###### El aoristo imperativo expresa un llamado puntual.
 
-##### Ya que este no es un tema aislado, el mandamiento de Pablo sería: no estén viviendo embriagados, o no tenga la costumbre de emborracharse con vino.
+###### No enfatiza un proceso continuo de despertarse, sino responder decisivamente al llamado.
 
-###### Puede que la costumbre de estar emborrachado haya sido por cultos al dios Dionisio o Baco; los rituales de adoración se centraban en éxtasis, danzas y mucho consumo de vino, asociado con renovación, vitalidad y libertad interna.
+##### El participio **καθεύδων** (*durmiendo*) está en **presente, activo, participio**.
 
-##### Según la cultura grecorromana era costumbre tomar vino, Pablo no les prohíbe tomarlo, sino el embriagarse; hay una razón por la que Pablo les da esa orden.
+###### Describe el estado en que se encuentra el sujeto.
 
-##### “en lo cual (embriaguez con vino) hay disolución” o desenfreno. Lo que causa, es pérdida de dominio propio, una conducta desordenada, o sea influenciada, contralada por el vino.
+###### El contraste es claro:
 
-##### Pablo les exhorta a los creyentes a vivir bajo la influencia o guía del Espíritu Santo. 
+- estando dormido;
+- despierta.
 
-##### En Efesios 1:13 Pablo les dijo que tenían el Espíritu y Su poder morando en ellos. Efesios 1:19 por eso este mandamiento está en voz pasiva y no activa.
+#### Efesios 5:14c – **«Y levántate de entre los muertos.»**
 
-##### Ya tienen el Espíritu Santo morando el ellos, y puede obra poderosamente en ellos, así como obró en Cristo. Efesios 1:20-21
+##### El verbo **ἀνάστα** (*levántate*) también está en **aoristo, activo, imperativo**.
 
-#### Efesios 5:18 – sino **sean llenos** del Espíritu*” El verbo PLEROUSTHE, está en presente, pasivo, imperativo es una orden sin opciones. Déjate llenar.
+###### Los dos imperativos forman una unidad.
 
-##### El verbo está en Tiempo Presente, es una acción continua, repetida, no es puntual; (observación léxica: forma usada para introducir una glosa) continúen siendo llenados o vivan en un estado continuo de plenitud o llenura.
+###### Primero: despierta.
 
-##### Voz pasiva del verbo, el sujeto (ustedes - creyentes) recibe la acción, el Espíritu es quien llena. Sean llenados.
+###### Después: levántate.
 
-##### Ser lleno del Espíritu, no quiere decir que uno pierde el control; lo correcto sería sean llenados por el Espíritu
+##### El texto no dice:
 
-##### El mandamiento es para que vivan en un estado continuo de la plenitud del Espíritu. (observación léxica: forma usada para introducir una glosa) que seamos guiados por el Espíritu, o vivamos bajo el control de Él. 
+> «Tú que estás muerto.»
 
-##### Ya que Pablo hace un contraste entre vivir bajo la influencia por alcohol, versus la llenura del o por el Espíritu.
+###### Dice:
 
-##### Vivir bajo la influencia del alcohol, resulta en perder dominio propio, vivir en la llenura del Espíritu, resulta en dominio propio. Gálatas 5:22-23
+> **«de entre los muertos.»**
 
-##### Jesús habló de la obra del Espíritu en la vida de los creyentes. Juan 16:13-14 –Pero cuando Él, el Espíritu de verdad venga, los guiará a toda la verdad, porque no hablará por Su propia cuenta, sino que hablará todo lo que oiga, y les hará saber lo que habrá de venir. Él me glorificará, porque tomará de lo Mío y se lo hará saber a ustedes”.* Creo que el Espíritu nos llena con la vida de Cristo.
+##### Pablo utiliza una imagen que intensifica el contraste entre muerte y vida, tinieblas y luz.
 
-##### En Efesios 5:18 Pablo presenta al Espíritu como el agente que llena y la sustancia con la cual somos llenados.
+###### La persona llamada debe abandonar completamente esa esfera.
 
-##### Ya que la llenura debe ser continua, eso es evidente en los siguientes versículos 19-21
+#### Efesios 5:14d – **«Y Cristo te alumbrará.»**
 
-##### La oración de “sean llenos del (por) Espíritu” continúa con verbos participios; los participios (hablando, cantando, alabando, dando gracias, sometiendo) dependen del, y acompañan al mandato principal “sean llenados por Espíritu”
+##### El verbo **ἐπιφαύσει** (*alumbrará*) está en **futuro, activo, indicativo**.
 
-##### El imperativo es presente, los participios son presentes van de la mano, son acciones continuas.
+###### No es un mandato.
 
-### Efesios 5:19 – *“Hablen entre ustedes con salmos, himnos y cantos espirituales, cantando y alabando en sus corazones al Señor”.* 
+###### Es una promesa que sigue a los dos imperativos.
 
-#### Efesios 5:19 –Hablen entre ustedes”.* El participio, sería hablando o mientras hablan con.
+##### Cristo aparece como la fuente de la luz.
 
-##### Sean llenados por Espíritu mientras hablan entre ustedes; mientras están reunidos en comunión hablando con.
+###### El mismo tema desarrollado desde el versículo 8 llega aquí a su culminación.
 
-##### “con salmos” son cantos acompañados con instrumentos de cuerda, canciones de alabanzas. Los salmos en el Antiguo Testamento eran canciones de los israelitas.
+------
 
-##### “con himnos” (eran cantos dedicados a honrar a dioses, héroes o gobernantes) aquí una canción de alabanza, exaltación y adoración dirigida a Dios o a Cristo. Mateo 26:30 
+### Desarrollo del argumento (Efesios 5:8–14)
 
-##### “con cantos espirituales” odas o una composición musical, llegarían a ser canciones en general, canciones espirituales inspiradas; podemos decir que son adoraciones guiadas por el Espíritu.
+```text
+Ustedes son luz en el Señor
+            │
+            ▼
+Anden como hijos de luz
+            │
+            ▼
+El fruto de la luz
+(bondad, justicia y verdad)
+            │
+            ▼
+Examinando
+lo que agrada al Señor
+            │
+            ▼
+No participen
+de las obras de las tinieblas
+            │
+            ▼
+Más bien,
+desenmascárenlas
+            │
+            ▼
+La luz pone todo
+de manifiesto
+            │
+            ▼
+Despierta
+Levántate
+            │
+            ▼
+Cristo te alumbrará
+```
 
-#### Efesios 5:19 – cantando y alabando en sus corazones al Señor.
+## Efesios 5:15–21 – Viviendo como sabios.
 
-##### Sean llenados por el Espíritu, mientras cantan y alaban al Señor.
+### Efesios 5:15–21 – Después de llamar a los creyentes a andar como hijos de luz (5:8–14), Pablo continúa con una nueva exhortación acerca de la manera de vivir.
 
-##### “en sus corazones” el corazón está casi siempre asociado con la mente; Observación:  que cantar y alabar con entendimiento.
+### El tema ya no es el contraste entre luz y tinieblas, sino entre la insensatez y la sabiduría.
 
+### El mandato principal es **«tengan cuidado cómo andan»**. Los imperativos y participios que siguen desarrollan cómo se vive sabiamente.
 
-### Efesios 5:20 – Den siempre gracias por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre. 
+### Efesios 5:15–16 – *«Por tanto, tengan cuidado cómo andan; no como insensatos sino como sabios, aprovechando bien el tiempo, porque los días son malos.»*
 
-#### Efesios 5:20 – Den siempre gracias por todo, más preciso sería con verbo participio; dando siempre gracias por todo.
+#### Efesios 5:15 – **«Por tanto…»**
 
-##### Sean llenados por el Espíritu, mientras dan siempre gracias por todo; verbo tiempo presente es una acción de gratitud de manera continua.
+##### El conector **οὖν** (*por tanto*) enlaza esta exhortación con todo el desarrollo anterior (5:8–14).
 
-##### Las personas en el mundo son moldeadas a dar gracias mediante el hábito, o dan gracias a alguien solo por educación, casi hasta inconscientemente dan gracias
+###### Ya que son luz en el Señor y deben andar como hijos de luz, ahora Pablo les llama a considerar cuidadosamente la manera en que viven.
 
-##### Pero aquí EU**CHARIS**TOUNTES, dando gracias; tiene la raíz de la palabra CHARIS – gracia o favor. Dar gracias (observación léxica: forma usada para introducir una glosa) hablar de la gracia de Dios.
+#### Efesios 5:15a – **«Tengan cuidado cómo andan.»**
 
-##### Pablo dice; “siempre y por todo”, esto es posible, solo cuando entendemos la gracia de Dios mostrada a nosotros, en Cristo o por medio de Él, así podemos estar siempre agradeciendo o hablando de la gracia de Dios, esto es a Dios mismo.
+##### El verbo **βλέπετε** (*blépete*) está en **presente, activo, imperativo**.
 
-#### Efesios 5:20 – en el nombre de nuestro Señor Jesucristo, a Dios, el Padre. En nombre de alguien. 
+###### El presente imperativo expresa una acción continua.
 
-##### Cristo Jesús, como el motivo para dar gracias a Dios por todo, por medio de quien la gracia de Dios es mostrada a nosotros.
+###### Pablo no llama a observar una sola vez, sino a vivir prestando atención continuamente.
 
-### Efesios 5:21 – *“Sométanse unos a otros en el temor de Cristo”.* El verbo sométanse está en presente pasivo, participio.
+##### El verbo significa mirar, observar, prestar atención o vigilar.
 
-#### Las traducciones posibles; sometiéndose, sujetándose, estando sujetos; en pasivo; siendo sujetados o sometidos. Transmite una acción voluntaria, no impuesta.
+###### Aquí no describe simplemente ver con los ojos.
 
-##### El pasivo, dejando que alguien te someta o te sujete unos a otros no encaja en la gramática española, las mejores traducciones serían: sometiéndose, sujetándose.
+###### Habla de examinar cuidadosamente la propia manera de vivir.
 
-##### El verbo HYPOTASSOMENOI, de HYPO – debajo, y TASSO – ordenar, poner en fila, es un término militar
+##### El adverbio **ἀκριβῶς** (*akribōs*) significa cuidadosamente, exactamente, diligentemente.
 
-##### Sean llenados por Espíritu sometiéndose o sujetándose voluntariamente unos a otros.
+###### No modifica el verbo «andar», sino la manera en que debe realizarse la observación.
 
-#### “en el temor del Señor” (observación léxica: forma usada para introducir una glosa) en reverencia o en respeto al Señor.
+###### La idea es:
 
-#### “UNOS A OTROS” Pablo continuará con instrucciones unos a otros en el temor del Señor
+> Miren cuidadosamente cómo están andando.
 
-##### Efesios 5:20-24, 33 – Las mujeres casadas a sus propios maridos.
+#### Efesios 5:15b – **«No como insensatos.»**
 
-##### Efesios 5:25-31, 33 – Los maridos a sus propias esposas.
+##### La palabra **ἄσοφοι** (*ásophoi*) significa literalmente **«sin sabiduría»**.
 
-##### Efesios 6:1-3 – Los hijos a sus padres
+###### Pablo no está hablando de inteligencia.
 
-##### Efesios 6: 4 – Los padres a sus hijos
+###### El contraste es moral y espiritual.
 
-##### Efesios 6:5-8 – Los siervos (empleados) a sus amos (jefes)
+##### La insensatez describe una manera de vivir que no toma en cuenta la voluntad de Dios.
 
-##### Efesios 6:9 – Los amos (jefes) a sus siervos (empleados)
+#### Efesios 5:15c – **«Sino como sabios.»**
 
-#### Pablo quiere que entendamos que la sumisión no nace de uno mismo, eso es imposible.
+##### El contraste se completa con **σοφοί** (*sophoí*, sabios).
 
-##### La sumisión va siempre acompañada del hecho de ser llenados por Espíritu; por eso está en participio; sean llenados por el Espíritu, mientras estás siendo sumiso de manera voluntaria.
+###### Pablo todavía no define en qué consiste esa sabiduría.
 
-##### Pablo muestra que va en compañía de; nos dice que primero ocurre la llenura por el Espíritu y después la sumisión.
+###### Lo hará inmediatamente en los versículos siguientes.
 
-##### Parafraseando la explicación: sino estás siendo lleno por el Espíritu de manera continua, entonces será imposible la sumisión.
+##### La estructura del argumento es sencilla:
 
-# Efesios 5:21-6:9 – Sometiéndose Unos a Otros en el Temor del Señor.
+- tengan cuidado cómo andan;
+- no como insensatos;
+- sino como sabios.
 
+#### Efesios 5:16 – **«Aprovechando bien el tiempo…»**
 
-## Efesios 5:22-24 – Instrucciones para las mujeres casadas en el Señor, usando el modelo de la iglesia.
+##### El verbo **ἐξαγοραζόμενοι** (*exagorazómenoi*) está en **presente, voz media, participio**.
 
-### Efesios 5:22-24 – Estas instrucciones son para las mujeres casadas en el Señor, que estén sometidas a sus maridos, así como la iglesia a Cristo quien es la cabeza.
+###### Este participio depende del imperativo del versículo 15.
 
-### Efesios 5:22 – *“Las mujeres estén **sometidas** a sus propios maridos como al Señor”.* 
+###### No introduce un nuevo mandato.
 
-#### Efesios 5:22 – *“Las mujeres estén **sometidas** a sus propios maridos**** … El imperativo HYPOTASSESTHE, está en presente, esto debe ser una acción continua o habitual, voz media, quiere decir uno mismo, voluntariamente. Lit ponerse bajo autoridad o alinearse bajo un líder.
+###### Describe **cómo** anda una persona sabia.
 
-##### El mandato no es para todas las mujeres en general, este mandato va directo a mujeres que están casadas, tampoco a las que estuvieron casadas antes.
+##### La secuencia del argumento es:
 
-##### EL mandamiento tampoco está diciendo que los maridos sometan a sus mujeres, eso sería machismo.
+- Tengan cuidado cómo andan.
+  - aprovechando bien el tiempo;
+  - porque los días son malos.
 
-##### Esta es una orden para las mujeres casadas, que se pongan voluntariamente bajo la autoridad del marido.
+##### El tiempo presente expresa una actitud continua.
 
-##### Pablo no pone condiciones para que las mujeres estén sumisas, como ser, si su marido es creyente, o que su marido le está amando, entonces estén sumisas. 
+###### El creyente vive aprovechando cada oportunidad que Dios le concede.
 
-##### Esto no implica que las mujeres casadas sean sumisas a todos los hombres, el texto dice: a sus propios maridos (cada una a su marido).
+##### La expresión **«porque los días son malos»** da la razón.
 
-##### La sumisión no es humillación o menos importancia, sabemos por las Escrituras, que todos somos uno en Cristo. Gálatas 3:28
+###### Precisamente porque vivimos en días malos, cada oportunidad debe aprovecharse sabiamente.
 
-#### Efesios 5:22 – como al Señor El estándar de una sumisión voluntaria es como al Señor, (observación léxica: forma usada para introducir una glosa) como al Señor Jesucristo mismo.
+### Desarrollo del argumento (Efesios 5:15–21)
 
-##### Así como existe la sumisión voluntaria con reverencia al Señor, de la misma manera sería a su marido, ponerse bajo su liderazgo.
+```text
+Tengan cuidado
+cómo andan
+        │
+        ▼
+No como insensatos
+        │
+        ▼
+Sino como sabios
+        │
+        ▼
+Aprovechando
+bien el tiempo
+        │
+        ▼
+Entendiendo
+la voluntad del Señor
+(v.17)
+        │
+        ▼
+No se embriaguen
+(v.18)
+        │
+        ▼
+Sean llenos
+del Espíritu
+(v.18)
+        │
+        ▼
+Hablando...
+Cantando...
+Dando gracias...
+Sometiéndose...
+(vv.19–21)
+```
 
-##### Podría sonar algo imposible, ya que su marido es un hombre caído, que falla muchas veces. 
+#### Efesios 5:16 – **«Aprovechando bien el tiempo»**
 
-##### Este mandamiento viene del Señor, para cumplir este mandamiento se requiere fe en el Señor, estar viviendo llenados por Espíritu.
+##### La oración continúa desde el mandato del versículo 15:
 
-##### El pasaje de Efesios 5:22 nos dice que habría una excepción si su marido le pide hacer cosas que sean en contra de la voluntad de Dios, en ese caso, la mujer casada, está obligada por fe, a obedecer a Dios en lugar de a su marido. Hechos 5:29
+> **«Tengan mucho cuidado cómo andan... aprovechando bien el tiempo.»**
 
-#### Pablo da la razón de por qué las mujeres casadas, deben estar sometidas voluntariamente a sus propios maridos.
+##### El verbo **ἐξαγοραζόμενοι** (*exagorazómenoi*) está en **presente, voz media, participio**.
 
-### Efesios 5:23 – Porque el marido es la cabeza de la mujer, así como Cristo es la cabeza de la iglesia, siendo El mismo el Salvador del cuerpo”.* 
+###### El tiempo presente expresa una acción continua.
 
-#### Efesios 5:23 – Porque el marido es la cabeza de la mujer,*” Pablo hace una declaración, esto es un hecho.
+###### Al ser un participio, no introduce un nuevo mandato independiente.
 
-##### Esto no es una posibilidad, sino una realidad delante de Dios. Tampoco es una acción sino un estado.
+###### Describe **cómo** anda el creyente que vive sabiamente.
 
-##### El verbo “es”, está en presente, un estado contínuo, el verbo no tiene voz por eso no hay acción, el modo es indicativo.
+##### La voz media añade la idea de participación personal.
 
-##### Aunque no haya una obediencia al mandamiento “estén sometidas”, es una realidad, que el marido es la cabeza de la mujer, desde el día en que se casaron.
+###### El creyente mismo participa activamente en aprovechar cada oportunidad que Dios pone delante de él.
 
-##### Poniendo al marido en la figura de cabeza de un cuerpo, muestra que el marido es el líder (quien ejerce liderazgo, autoridad, responsabilidad), la cabeza, quien dirige la familia, así como la cabeza al cuerpo.
+##### El verbo significa literalmente **«comprar fuera del mercado»**, **«rescatar para uno mismo»** o **«redimir»**.
 
-##### Un cuerpo no puede tener dos cabezas, solo una, la familia solo tiene un líder, Observación:  un orden dentro del hogar.
+###### En el mundo griego podía usarse para comprar algo antes de que desapareciera del mercado.
 
-##### Pablo hace una comparación de esta realidad con otra.
+###### Pablo utiliza esa imagen para enseñar que cada oportunidad debe aprovecharse antes de que pase.
 
-#### Efesios 5:23 – así como Cristo es la cabeza de la Iglesia*” Cristo es la cabeza de la iglesia. Colosenses 2:19
+##### La palabra **καιρός** (*kairós*) no describe el paso del tiempo (**χρόνος**), sino un **momento oportuno**, una ocasión o una oportunidad.
 
-##### No dice que Cristo era la cabeza de la iglesia, el verbo “es”, está en presente Observación:  continuidad, indicativo es una realidad de un estado que no cambia.
+###### Pablo no dice simplemente que aprovechen las horas del día.
 
-##### “Cristo la cabeza de la iglesia”. La iglesia es el cuerpo de Cristo, de quien se nutre toda la iglesia. Efesios 4:15-16
+###### Habla de reconocer y aprovechar las oportunidades que Dios presenta.
 
-#### Efesios 5:23 – siendo El mismo el Salvador del cuerpo*”. Esto no quiere decir que el marido sea el salvador de su esposa.
+##### La idea completa es:
 
-##### Esto es solo una realidad de Cristo y la iglesia.
+> **Anden cuidadosamente, aprovechando continuamente cada oportunidad que Dios les concede.**
 
-##### Pablo afirma la realidad de la relación de Cristo y la iglesia, haciendo un énfasis en que “Cristo mismo” no otro, es el Salvador.
+###### Un ejemplo de este mismo principio aparece en 2 Timoteo 4:2:
 
-##### El verbo “siendo o es” está en presente, indicativo, (observación léxica: forma usada para introducir una glosa) que Cristo es y sigue siendo el Salvador del cuerpo, la iglesia.
+> *«Predica la palabra; insiste a tiempo y fuera de tiempo...»*
 
-##### El texto no dice que era su Salvador, como diciendo que ahora no es.
+###### Allí también Pablo llama a aprovechar toda oportunidad para servir al Señor.
 
-##### Observación:  Cristo sigue siendo y es el Salvador de la iglesia. 
+#### Efesios 5:16 – **«Porque los días son malos.»**
 
-##### Pablo continúa presentando como argumento para la sujeción, la relación entre Cristo y la iglesia, como un ejemplo real y mayor.
+##### La conjunción **ὅτι** introduce la razón del participio anterior.
 
-### Efesios 5.24 – Pero, así como la iglesia está sujeta a Cristo, también las mujeres deben estarlo a sus maridos en todo”.* 
+###### Los creyentes deben aprovechar cada oportunidad **porque** los días son malos.
 
-#### Efesios 5:24 – Pero, así como la iglesia está sujeta a Cristo*”, Pablo hace una declaración de esta verdad, esta no es una acción por realizarse, sino un hecho.
+##### El verbo **εἰσίν** (*son*) está en **presente, indicativo**.
 
-##### El verbo “está sujeta” está en presente, esto es una realidad continua, (voz pasiva) que Cristo la sostiene, después de que la iglesia haya sido sometida ella misma, (modo indicativo) muestra una realidad hecha.
+###### Pablo hace una declaración objetiva.
 
-##### Pablo habla de la iglesia como un cuerpo dependiente. La iglesia está sujeta a Cristo voluntariamente; una realidad espiritual de Cristo y Su iglesia.
+###### No dice que algunos días serán malos.
 
-##### El texto no está diciendo que Cristo haya sometido a la iglesia en contra de su voluntad.
+###### Afirma que ésta es la realidad presente del mundo.
 
-##### Pablo después de indicar esta realidad, dirigiéndose a las mujeres casadas, les aplica este mismo modelo de sujeción a ellas.
+##### La expresión **«los días son malos»** describe el carácter de la época en que vivimos.
 
-#### Efesios 5:24 – también las mujeres deben estarlo a sus maridos en todo*”. Esta es la respuesta esperada de Pablo de parte de las mujeres casadas.
+###### El mundo está marcado por el pecado, el engaño y la oposición a Dios.
 
-##### De la misma manera que la iglesia está sujeta a Cristo, las mujeres deben estarlo a sus propios maridos.
+###### Precisamente por eso cada oportunidad para vivir como hijos de luz tiene un enorme valor.
 
-##### El mandamiento no es deben intentarlo, sino deben hacerlo de la misma manera.
+##### El argumento queda así:
 
-##### “en todo”, no da lugar a excusas, no solo si les conviene o si les parece bien hacerlo, debe ser una decisión, basada en su voluntad, no en sus sentimientos.
+- Tengan cuidado cómo andan.
+- No como insensatos, sino como sabios.
+- Aprovechando continuamente cada oportunidad.
+- **Porque** los días son malos.
 
-##### Pedro presenta a Sara como quien se sujetó en todo. 1 Pedro 3:5-6 – *Así obedeció Sara a Abraham, llamándolo señor, y ustedes han llegado a ser hijas de ella, si hacen bien y no tienen miedo de nada que pueda atemorizarlas.*
+###### Pablo no llama a vivir con temor.
 
-## Efesios 5:25-31 – Instrucciones para los maridos en el Señor usando el modelo de Cristo.
+###### Llama a vivir con sabiduría, reconociendo el valor de cada oportunidad que Dios concede.
 
-### Efesios 5:25-31 – Estas son las instrucciones para los maridos creyentes en el Señor, el modelo a seguir para amar, es así como Cristo amó a la iglesia.
+### Efesios 5:17 – **«Así pues, no sean necios, sino entiendan cuál es la voluntad del Señor.»**
 
-#### Efesios 5:25 – Mandamiento para maridos de amar a sus mujeres
+#### Efesios 5:17 – **«Así pues...»**
 
-#### Efesios 5:26-27 – Cristo a la iglesia, ejemplo de cómo amar a la esposa.
+##### Pablo continúa el argumento iniciado en los versículos 15–16.
 
-#### Efesios 5:28-31 – Maridos a sus cuerpos, es el ejemplo de cómo amar a la esposa.
+###### Ya que los creyentes deben andar cuidadosamente, aprovechando cada oportunidad porque los días son malos, la conclusión lógica es la siguiente:
 
-### Efesios 5:25 – *“Maridos, **amen** a sus mujeres, así como Cristo amó a la iglesia y se dio Él mismo por ella”,* 
+> **«Así pues...»**
 
-#### Efesios 5:25 – *“Maridos, **amen** a sus mujeres”,* Pablo no dice que les digan a sus esposas que las aman, tampoco está prohibido hacerlo. Pablo explicará qué es amar.
+###### No introduce un tema nuevo.
 
-#####  El hecho de amar nunca fue enseñado que sea solo de palabra; Jesús dijo como yo los he amado. Juan 15:12; Efesios 5:2; 1 Juan 3:18.
+###### Aplica la exhortación anterior.
 
-##### El imperativo AGAPATE de AGAPE. Amen está en presente, activo. Amen ustedes (maridos)
+------
 
-##### Ya que es una orden; esto es una decisión no una opción a elegir amar o no amar, además está en tiempo presente, debe ser una acción continua, habitual como un estilo de vida cotidiana, de vivir amando, voz activa, uno mismo.
+#### Efesios 5:17 – **«No sean necios.»**
 
-##### Este amor AGAPE, es un amor voluntario, sacrificial, comprometido, que busca el bien del otro, en este contexto buscando el bien de su esposa; este amor no es egoísta, que busca su propio bien.
+##### El verbo **γίνεσθε** (*gínesthe*) está en **presente, voz media, imperativo**.
 
-##### No depende de emociones, pero expresa emociones y sentimientos.
+###### Proviene del verbo **γίνομαι**, "llegar a ser", "convertirse", "venir a ser".
 
+###### Pablo no utiliza el verbo **εἰμί** ("ser"), sino **γίνομαι** ("llegar a ser").
 
-##### Tal vez cualquier marido diría que eso es imposible; cuanto más, así como Cristo ama a la iglesia; será imposible si no estamos siendo llenados por Espíritu. Efesios 5:18
+##### Por eso la idea no es simplemente:
 
-##### Pablo presenta a los maridos el ejemplo del amor de Cristo a la iglesia.
+> "No sean necios."
 
-#### Efesios 5:25 – así como Cristo amó a la iglesia y se dio Él mismo por ella Esto explicó Pablo en Efesios 5:2 diciendo en ofrenda y sacrificio, el olor agradable a Dios.
+##### Sino:
 
-##### Aquí el verbo “amó” está en tiempo aoristo, activo, indicativo. (observación léxica: forma usada para introducir una glosa) que Cristo amó de una manera completa, activamente, no hay duda de eso; Pablo presenta aquí un hecho, una realidad, que Cristo amó a la iglesia. 
+> **"No lleguen a convertirse en personas necias."**
 
-##### El verbo aoristo no quiere decir que dejó de amar, sino amó en el pasado con resultados continuos; eso se explicará en los siguientes versículos.
+###### El presente imperativo expresa una actitud continua.
 
-##### Pablo no solo presenta que Cristo amó a la iglesia, sino como lo amó.
+###### Pablo exhorta a que ningún creyente adopte una manera de vivir propia del insensato.
 
-##### “se dio Él (Cristo) mismo por ella” ¿Cómo se dio a sí mismo? Efesios 5:2 – “… *así como también Cristo les amó y se dio a sí mismo por nosotros* (la iglesia), ***ofrenda y sacrificio** a Dios, como fragante aroma*”. Esto es un amor sacrificial buscando el bien de la iglesia.
+##### El necio, en el contexto, es el que no considera a Dios al tomar sus decisiones.
 
-##### “se dio” es una obra completa, una acción puntual.
+###### Es el contraste del creyente que anda sabiamente.
 
-##### Pablo continúa con los propósitos del amor y sacrificio de Cristo en la cruz por Su iglesia. Cristo mismo se dio por la iglesia para…
+###### Pablo ya había advertido que los días son malos.
 
-### Efesios 5:26 – *“Para santificarla, habiéndola purificado por el lavamiento del agua con la palabra”,* 
+###### Precisamente por eso no tiene sentido vivir sin discernimiento.
 
-#### Esto no se refiere al marido santificando a su esposa, sino lo que Cristo hace con la iglesia.
+##### Un ejemplo de esta necedad aparece en Gálatas 3:1–3.
 
-#### Efesios 5:26 – *“Para santificarla, … textual: para la (iglesia) santificar; y Lit. para santificarla a ella (iglesia).
+> *«¿Tan insensatos son? Habiendo comenzado por el Espíritu, ¿van ahora a acabar por la carne?»*
 
-##### Cristo es quien santifica a la iglesia, ella no se santifica a sí misma; Cristo murió en la cruz, Él mismo por la iglesia, para santificarla.
+###### Allí Pablo muestra que un creyente puede actuar neciamente cuando deja de caminar conforme a la verdad del evangelio.
 
-##### El verbo HAGIASE, santificar está en tiempo aoristo es una acción completa con una meta definida, voz activa, Cristo es quien hace esta obra. Subjuntivo expresa propósito o finalidad.
+------
 
+#### Efesios 5:17 – **«Sino entiendan cuál es la voluntad del Señor.»**
 
-##### Cristo se dio (murió en la cruz) por amor a la iglesia, con el propósito de santificarla completamente.
+##### El verbo **συνίετε** (*syníete*) está en **presente, activo, imperativo**.
 
-##### Ejemplo: cuando uno prepara de antemano todos los materiales para construir una casa, llegado el tiempo, contando con la totalidad del material, se construye la casa. Claro el ejemplo no alcanza para describir la situación.
+###### No es un participio.
 
-##### La oración de Pablo sería; Cristo se dio por la Iglesia a fin de hacerla santa; pero antes de hacerla santa Cristo hizo una obra con la iglesia.
+###### Es un segundo mandato paralelo al primero.
 
-#### Efesios 5:26 – habiéndola purificado por el lavamiento del agua con la palabra”,* había purificado, no dice que está purificando, tampoco dice que purificará.
+##### El verbo significa:
 
-##### El participio KATHARISAS, purificado está en aoristo no es una acción continua sino una acción puntual y completa, activa. Habiendo limpiado o después de limpiar.
+- comprender,
+- discernir,
+- captar el sentido,
+- entender juntamente.
 
-##### Cristo a la iglesia habiéndola purificado previamente por medio del lavamiento del agua con la palabra.
+##### Pablo no solamente prohíbe llegar a ser necios.
 
-##### Pablo presenta este mismo lavamiento en Tito 3:5 – *“Él nos salvó … conforme a Su misericordia, **por medio del lavamiento** de la regeneración y la renovación por el Espíritu.
+###### También manda a vivir discerniendo continuamente cuál es la voluntad del Señor.
 
-##### Por medio del lavamiento del agua (observación léxica: forma usada para introducir una glosa) la obra del Espíritu.
+##### El presente imperativo expresa una acción continua.
 
+###### El creyente debe permanecer comprendiendo y discerniendo la voluntad del Señor mientras anda en sabiduría.
 
-##### Pablo al mencionar “habiendo purificado” en tiempo aoristo, ahora “con la palabra” la palabra sería el mensaje del evangelio. Cristo ha purificado a la iglesia que respondió por la fe al mensaje del Evangelio.
+##### El contraste queda claro:
 
-#### Pablo continúa (verso 26) con el argumento de que Cristo se dio por la iglesia para santificarla a fin de presentársela a sí mismo.
+- No lleguen a ser necios.
+- Sino estén comprendiendo continuamente cuál es la voluntad del Señor.
 
-### Efesios 5:27 – *“a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada”.* 
+##### Pablo no presenta la voluntad de Dios como algo oculto o imposible de conocer.
 
-#### Efesios 5:27 – *“a fin de presentársela a sí mismo, el propósito de santificarla es presentársela a sí mismo; pero ¿presentársela a quién?
+###### El creyente puede discernirla mientras anda en la luz y con una mente renovada.
 
+##### Romanos 12:2 desarrolla este mismo principio:
 
-##### El verbo en griego PARASTESE, se usaba para presentar una novia al novio, presentar a un acusado ante el juez, presentar una ofrenda ante Dios.
+> *«No se adapten a este mundo, sino transfórmense mediante la renovación de su mente, para que comprueben cuál es la voluntad de Dios: lo que es bueno, agradable y perfecto.»*
 
-##### El verbo PARASTESE, está en tiempo aoristo, otra vez presenta una acción realizada en su totalidad, completa, modo subjuntivo hace referencia a propósito: pueda presentarse o para que Él la presente.
+### Efesios 5:18 – **«Y no se embriaguen con vino, en lo cual hay disolución, sino sean llenos por el Espíritu.»**
 
-##### Desde Efesios 5:25-27 la secuencia es; Cristo la amó, se entregó, habiéndola purificado, santificado, para finalmente presentársela a sí mismo.
+#### Pablo continúa el mismo argumento iniciado en el versículo 15.
 
-##### “a sí mismo” HEAUTO, es reflexivo el sujeto y el beneficiario son el mismo y es masculino: Ejemplo (él se compró un regalo y no él le compró un regalo)
+##### La secuencia es continua:
 
-###### Puede ser traducida: a sí mismo, para sí mismo, a él mismo. (observación léxica: forma usada para introducir una glosa) que el Sujeto (Cristo) se relaciona con su propia acción.
+- tengan cuidado cómo andan;
+- no lleguen a ser necios;
+- entiendan cuál es la voluntad del Señor;
+- **y** no se embriaguen..., sino sean llenos por el Espíritu.
 
-##### Cristo santifica a la iglesia para presentársela para sí mismo; (observación léxica: forma usada para introducir una glosa) que Cristo no presenta a la iglesia a otra persona, más bien se la presenta a sí mismo (para él mismo). 
+##### No introduce un tema nuevo.
 
-#### Efesios 5:27 – \[presentársela a sí mismo\] *una iglesia en toda su gloria.* Pablo no dice las iglesias en todas sus glorias, tampoco a algunas iglesias; solo habla de una iglesia.
+###### Sigue describiendo cómo vive el creyente que anda sabiamente.
 
-##### Una iglesia en toda su gloria; como una novia que esta vestida con su máximo esplendor para casarse.
+------
 
-##### Es Cristo quien la santifica o le hace santa, para que este en toda su gloria.
+#### Efesios 5:18 – **«No se embriaguen con vino.»**
 
-#### Efesios 5:27 – sin que tenga mancha ni arruga ni cosa semejante*”, Para que la iglesia esté sin mancha, ni arruga ni cosa semejante; Cristo la santificó, porque Él al amarla se entregó por ella, en un amor sacrificial, hasta la muerte.
+##### El verbo **μεθύσκεσθε** (*methýskesthe*) está en **presente, pasivo, imperativo**.
 
-##### El verbo “tenga” es presente, participio: Lit. no teniendo mancha ni arruga ni cosa semejante. Tiempo presente indica un estado contínuo o condición presente pero caracterizado. Esto quiere decir que es una iglesia que no posee mancha ni defecto.
+###### El presente imperativo expresa una acción continua.
 
-#### Efesios 5:27 – sino que fuera santa e inmaculada*”. Una iglesia en toda su gloria es: Lit. sino para que sea santa (pura) y sin tacha (sin mancha o intachable)
+###### Pablo prohíbe un estilo de vida caracterizado por la embriaguez.
 
-##### La obra es de Cristo, Él quita lo negativo, para lograr lo positivo (sea santa y sin mancha).
+##### La voz pasiva resulta llamativa.
 
-##### El verbo “fuera o para que sea” HINA E, está en presente no en aoristo, es subjuntivo. (observación léxica: forma usada para introducir una glosa) que es el resultado deseado, no algo que la iglesia tiene por sí misma. Literal del verbo “para que siga siendo o esté siendo santa e inmaculada.
+###### El creyente no debe colocarse bajo la influencia del vino.
 
-##### “santa” (observación léxica: forma usada para introducir una glosa) posición cambiada por una relación (ella pertenece al novio); ahora esta apartada para Cristo por su muerte; es de Cristo y no del mundo.
+###### La embriaguez domina a la persona desde afuera.
 
-##### “inmaculada” sin mancha (observación léxica: forma usada para introducir una glosa) condición cambiada, vívida, práctica (ella no tiene suciedad en el vestido); ahora está limpia sin defecto, como resultado de la purificación.
+##### Pablo no prohíbe el uso del vino.
 
-##### Aplicación; la iglesia viva por fe en los logros de Cristo, no en los suyos.
+###### Prohíbe la embriaguez.
 
-##### Al amor de Cristo ´por la iglesia es magnífico, es sublime.
+###### El contraste del pasaje no es entre beber vino o no beber vino.
 
-### Efesios 5:28 – *“Así deben también los maridos amar a sus mujeres, como a sus propios cuerpos. El que ama a su mujer, a sí mismo se ama”.* 
+###### El contraste es entre dos influencias completamente distintas.
 
-#### Efesios 5:28 – *“Así deben también Pablo está diciendo, así como Cristo amó a la iglesia, Su cuerpo.
+#### Efesios 5:18 – **«En lo cual hay disolución.»**
 
-#### Efesios 5:28 – *“Así deben también los maridos amar a sus mujeres*”, Los maridos deben amar a sus mujeres; no dice a sus muchas mujeres; cada uno a su propia mujer.
+##### La palabra **ἀσωτία** (*asōtía*) significa:
 
-##### Deben amarla con un amor que busque el bien de ella, no el suyo; Pablo dice:
+- desenfreno,
+- disipación,
+- vida sin control,
+- desperdicio moral.
 
-#### Efesios 5:28 – como a sus propios cuerpos. Consideren sus cuerpos; así como amas a tu propio cuerpo, debes amar a tu esposa.
+###### La embriaguez conduce a una vida donde se pierde el dominio propio.
 
+###### Produce una conducta desordenada.
 
-##### El rato en el que les de hambre, recuerden que deben amar a sus esposas como a sus propios cuerpos.
+------
 
-##### Uno todo el tiempo mima su cuerpo, así también todo el tiempo vives amando a tu esposa.
+#### Efesios 5:18 – **«Sino sean llenos por el Espíritu.»**
 
-#### Efesios 5:28 – El que ama a su mujer, a sí mismo se ama si invertimos la oración, podríamos decir, que el que se ama a sí mismo, ama a su mujer.
+##### El verbo **πληροῦσθε** (*plēroûsthe*) está en **presente, pasivo, imperativo**.
 
-##### Pero, Pablo intencionalmente pone un orden de prioridad.
+###### Es un mandato.
 
-##### Pablo dice de esta manera: El que está amando a su mujer, a sí mismo se ama; o de manera inversa; el que no está amando a su mujer, quiere decir que no se ama a sí mismo, pero no es ese el orden dado por Pablo.
+###### No una sugerencia.
 
-##### Pablo pone una razón simple, que es más clara que el agua.
+##### El tiempo presente expresa una acción continua.
 
-### Efesios 5:29 – *“Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como Cristo a la iglesia”;* 
+###### La idea es:
 
-#### Efesios 5:29 – *“Porque nadie aborreció jamás su propio cuerpo, Esto es una declaración, nadie jamás. Es imposible que alguien pueda aborrecer su propio cuerpo.
+> **«Continúen siendo llenados.»**
 
-##### Todas las personas hacen todo lo posible para mantener a su gusto su propio cuerpo.
+##### La voz pasiva indica que el sujeto recibe la acción.
 
-##### Nunca hemos visto a una persona aborrecer o rechazar su propio cuerpo, (observación léxica: forma usada para introducir una glosa) que nadie ha odiado su propio cuerpo
+###### El creyente no se llena a sí mismo.
 
+###### El Espíritu Santo es quien produce esa llenura.
 
-##### Mas bien en total contraste lo ama con amor AGAPAO, así como Cristo ama a la iglesia, Su cuerpo.
+##### Gramaticalmente encontramos la expresión **ἐν πνεύματι** (*en pneumati*).
 
-#### Efesios 5:29 – sino que lo sustenta y lo cuida”,* Entonces amar no es decir “te amo”; el amor se expresa en acciones.
+###### La preposición **ἐν** con dativo puede expresar diferentes relaciones gramaticales.
 
-##### Pablo hace una declaración de como uno ama su propio cuerpo; en tiempo presente, (observación léxica: forma usada para introducir una glosa) que todo el tiempo, las personas aman su propio cuerpo de estas dos maneras: lo sustentan y lo cuidan.
+###### En este contexto el énfasis recae en que el Espíritu es el agente mediante el cual Dios llena al creyente.
 
-##### “lo sustenta” (nutrición positiva) (alimentar, criar, nutrir) Tiene la idea de nutrir completamente para que crezca sano. Una alimentación necesaria y diaria para que crezca
+###### Por eso puede expresarse:
 
-##### “lo cuida” (cuidado protector) (calentar, abrigar, acariciar, cuidado con ternura) (observación léxica: forma usada para introducir una glosa) abrigo de protección y consuelo; describe el cuidado cálido, protector y afectuoso.
+> **«Sean llenados por el Espíritu.»**
 
-##### Cuando Pablo dijo amen como a sus propios cuerpos se refería a este amor que sustenta y cuida tanto física, espiritual, material y moralmente.
+##### Pablo no enseña que el creyente pierda el control.
 
-#### Efesios 5:29 – así como Cristo a la iglesia, Pablo hizo tres declaraciones de como uno ama su propio cuerpo, estas declaraciones también son ciertas en cuanto a Cristo y la iglesia.
+###### Tampoco presenta una experiencia extática.
 
-##### Así como es imposible que alguien odie su propio cuerpo; Cristo tampoco en ningún momento odia a la iglesia, que es Su cuerpo, sino al contrario la ama.
+###### El contraste del contexto ayuda a interpretar la frase.
 
-##### Cristo ama a la iglesia al sustentarla, alimentarla y hacerla crecer para llegar a la madurez. Efesios 4:16; Colosenses 2:19
+##### El vino controla al hombre desde afuera.
 
-##### Cristo no solo la nutre para la madurez; también la protege, la mantiene segura; ni las puertas del Hades prevalecen contra ella, porque su protector y guardián es Cristo. Mateo 16:18
+##### El Espíritu Santo dirige y produce una vida conforme a Cristo.
 
-##### Cristo ama a la iglesia de manera que la sustenta y la cuida, y Pablo presenta una razón.
+###### Dos influencias.
 
-### Efesios 5:30 – *porque somos miembros de Su cuerpo* \[de Cristo\]*.* Esta es una realidad espiritual; somos miembros de Su cuerpo.
+###### Dos resultados completamente diferentes.
 
-#### Pablo no solo hace referencia al cuerpo en forma general, sino que cada creyente, individualmente, es miembro de Su cuerpo; la relación de Cristo con la iglesia también es con cada miembro.
+##### Ya en Efesios 1:13–14 Pablo enseñó que todos los creyentes poseen al Espíritu Santo.
 
-#### El verbo “somos” está en presente, un estado continuo sin terminar; indicativo presenta un hecho no una posibilidad; está en plural, en primera persona. Pablo se incluye en esta realidad. 
+###### Aquí no manda recibir al Espíritu.
 
-#### Este es el amor que Cristo da a la iglesia, un amor que sustenta, un amor que cuida con ternura, nunca y jamás la aborreció; la única razón es que somos miembros de Su cuerpo.
+###### Manda vivir continuamente bajo Su acción.
 
-#### Pablo usa las Escrituras para confirmar lo que acaba de enseñar; Él no estaba enseñando algo nuevo al hombre, en cuanto a su deber de amar a su mujer. Mateo 15:4-5
+##### Jesús mismo explicó cuál sería la obra del Espíritu.
 
-#### Las Escrituras confirman por qué el hombre debe amar a su mujer como a su propio cuerpo, así como Cristo ama a la Iglesia, 
+###### Él glorificaría a Cristo y tomaría de lo que es de Cristo para darlo a conocer a los creyentes (Juan 16:13–14).
 
-### Efesios 5:31 – *“POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE. Génesis 2:24
+###### La llenura del Espíritu siempre dirige la atención hacia Cristo.
 
-#### Efesios 5:31 – *“POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER,”,* La Escritura habla al hombre, no a la mujer.
+------
 
-##### El verbo KATALEIPSEI, es activo viene de (KATA-abajo, y LEÍPO-dejar) y tenemos dejará o abandonará; tiene un sentido de romper una relación previa para establecer otra.
+#### La oración no termina en el versículo 18.
 
-##### El verbo PROSKOLLETHESETAI, es pasivo el verbo tiene el prefijo (PROS – hacia, junto a) indica que se unirá, se pegará, se adherirá; la idea es pegarse a algo de forma íntima, sin fácil separación.
+##### El mandato principal es:
 
-###### El verbo se usaba para pegar dos cosas con pegamento para que sean uno.
+> **«Sean llenados por el Espíritu.»**
 
-###### El pasivo indica algo que pasa y no solo algo que hace, la idea no es que el hombre se une a sí mismo, sino que es unido a su mujer por Dios.
+##### A partir del versículo 19 aparecen cinco participios presentes:
 
-##### Hay una secuencia aquí; primero el hombre dejará y luego se unirá; no se puede tener el segundo sin el primero.
+- hablando,
+- cantando,
+- alabando,
+- dando gracias,
+- sometiéndose.
 
-##### Aquí los verbos (DEJARÁ, UNIRÁ, SERÁN) en tiempo futuro, no indica predicción sino el mandato divino y cómo está establecido; es decir esto sucederá así, porque Dios lo diseñó así.
+##### Estos participios **dependen del imperativo** **πληροῦσθε**.
 
-##### Algunos escritos muestran que el verbo “dejará” estaba en A. T. en imperativo “dejarás”, pero aquí Pablo usa en modo indicativo
+###### No introducen cinco nuevos mandamientos.
 
-##### Nos sorprende saber que Pablo haya usado los verbos en modo indicativo y no en subjuntivo, sugiriendo una opción.
+###### Describen cómo se manifiesta una vida que está siendo continuamente llena por el Espíritu.
 
-###### Modo indicativo es una declaración, una realidad. 
+##### El flujo del argumento queda así:
 
-###### Modo subjuntivo es una posibilidad o un deseo.
+- Tengan cuidado cómo andan.
+- No lleguen a ser necios.
+- Comprendan la voluntad del Señor.
+- No vivan bajo la influencia del vino.
+- **Vivan siendo continuamente llenados por el Espíritu.**
 
-##### La respuesta está en el versículo 32 dice – Grande es este misterio, pero hablo con referencia a Cristo y a la iglesia*”.
+###### Los versículos 19–21 mostrarán el resultado visible de esa llenura.
 
-#### Efesios 5:31 – Y LOS DOS SERÁN UNA SOLA CARNE.” A esto se refiere al decir:* se unirá a su mujer. Es una declaración de una realidad.
+### Efesios 5:19 – **«Hablando entre ustedes con salmos, himnos y cantos espirituales, cantando y alabando en sus corazones al Señor.»**
 
-##### Esto no transmite una duda, una posibilidad, no dice tal vez serán, ni parecerán ser una sola carne o actuarán como si lo fueran, sino que realmente llegarán a ser una unidad, un solo cuerpo, un nuevo cuerpo.
+#### El versículo continúa desarrollando el mandato principal del versículo 18.
 
-##### Este es el resultado de los versos previos (dejará y se unirá).
+##### El imperativo sigue siendo:
 
-##### Pablo no dudó en dar a conocer el diseño de Dios, para con el matrimonio, según las Escrituras, sabiendo que no es posible desde la perspectiva del hombre, pero para Dios es muy real, es posible.
+> **«Sean continuamente llenados por el Espíritu.»**
 
-#### No sé si les surge una pregunta, pero Pablo intencionalmente no terminó la explicación diciendo que la muerte les va a separar.
+##### A partir de aquí Pablo utiliza participios presentes.
 
-#### En lugar de terminar así, Pablo continuó haciendo una de las declaraciones más grandes “GRANDE ES ESTE MISTERIO” 
+###### No introduce nuevos mandamientos.
 
-#### La pregunta es ¿Por qué misterio? Acaso Dios no ha establecido el matrimonio desde el principio, antes de la caída de hombre. Genesis 2:24
+###### Describe cómo se manifiesta una vida llena del Espíritu.
 
-#### Y ¿Por qué grande? Dijo que el hombre dejara a su padre y a su madre; Cristo dejó su gloria y tomó forma de hombre para siempre.
+------
 
-#### La Escritura también dice: después de dejar a sus padres, se unirá a su mujer; Cristo para unirse a la iglesia dejó su gloria; la amó y se entregó por ella a la muerte en la cruz, habiéndola purificado, santificado para presentársela a sí mismo; una iglesia en toda su gloria.
+#### Efesios 5:19 – **«Hablando entre ustedes...»**
 
-#### La Escritura dice: sé unirá y los dos serán una sola carne; Cristo está unido a la iglesia, no dice estará; Él es la Cabeza y ella es Su cuerpo, por eso dice que la sustenta y la cuida.
+##### El verbo **λαλοῦντες** (*lalountes*) está en **presente, activo, participio**.
 
-#### Esta unión de Cristo y la Iglesia no tendrá fin, no hay muerte que los separe; porque Cristo ya murió por ella; por eso la Escritura nunca dijo hasta que la muerte los separe. 
+###### Expresa una acción continua.
 
-#### Jesús citó la Escritura, diciendo: *“Por tanto, lo que Dios ha unido, ningún hombre lo separe Dios los unió no el hombre. Por eso en Efesios 5:31 se unirá está en voz pasiva. 
+###### Depende del imperativo **«sean llenados por el Espíritu»**.
 
-### Efesios 5:32 – El propósito principal de Pablo era explicar la relación de amor de Cristo y Su iglesia; creo que la explicación se quedó corta; por eso dice:
+##### La idea es:
 
-### Efesios 5:32 – Grande es este misterio, pero hablo con referencia a Cristo y a la iglesia. 
+> **«Sean llenados por el Espíritu, hablando continuamente unos con otros...»**
 
-#### Efesios 5:32 – Grande es este misterio”,* Las Escrituras en Genesis 2:24 apuntaba a esto; pero nadie podía entender de que se trataba de Cristo y la iglesia.
+##### El énfasis no recae primero sobre la música.
 
-#### Efesios 5:32 – pero hablo con referencia a Cristo y a la iglesia El misterio es la relación de Cristo y la iglesia.
+###### Recae sobre la comunicación entre los creyentes.
 
-##### Esto es una realidad. Pablo mismo dijo esto en Colosense 1:27 – *“A estos Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles* \[la iglesia*\], que es Cristo en ustedes, la esperanza de gloria*.
+###### Pablo describe la clase de conversación que caracteriza a una iglesia llena del Espíritu.
 
-##### Pablo vuelve a dirigirse tanto a maridos y a mujeres casadas.
+------
 
-### Efesios 5:33 – *“En todo caso, cada uno de ustedes **ame** también a su mujer como a sí mismo, y que la mujer respete a su marido”.* 
+#### Efesios 5:19 – **«Con salmos, himnos y cantos espirituales.»**
 
-#### Efesios 5:33 – *En todo caso,* es decir: conociendo esto, el gran misterio de Cristo y la iglesia.
+##### La preposición **ἐν** introduce el medio mediante el cual esa comunicación ocurre.
 
-#### Efesios 5:33 – cada uno de ustedes **ame** también a su mujer como a sí mismo y que la mujer respete a su marido., No es simple repetición sino una afirmación sobre algo sólido “el misterio Cristo y la iglesia”.
+###### Pablo menciona tres formas de expresión musical.
 
-##### Último y único mandamiento para los maridos “ame” a su mujer como a sí mismo.
+##### **Salmos** (**ψαλμοῖς**)
 
-##### Y conociendo el misterio; se espera que la mujer respete a su marido.
+###### Canciones acompañadas originalmente con instrumentos.
+
+###### Incluye naturalmente los Salmos del Antiguo Testamento cantados por el pueblo de Dios.
+
+##### **Himnos** (**ὕμνοις**)
+
+###### Cantos de alabanza dirigidos a Dios o a Cristo.
+
+###### En el mundo antiguo un himno exaltaba a una persona digna de honor.
+
+###### En la iglesia ese honor pertenece al Señor.
+
+##### **Cantos espirituales** (**ᾠδαῖς πνευματικαῖς**)
+
+###### Canciones caracterizadas por el Espíritu.
+
+###### El adjetivo **«espirituales»** modifica a los cantos.
+
+###### El énfasis no está solamente en el estilo musical, sino en su origen y carácter.
+
+##### Pablo no establece diferencias rígidas entre estas tres expresiones.
+
+###### Más bien reúne distintas formas mediante las cuales la iglesia comunica y celebra la verdad de Dios.
+
+------
+
+#### Efesios 5:19 – **«Cantando y alabando en sus corazones al Señor.»**
+
+##### Pablo añade dos nuevos participios.
+
+##### **ᾄδοντες** (*adontes*)
+
+###### Presente, activo, participio.
+
+###### **Cantando continuamente.**
+
+##### **ψάλλοντες** (*psallontes*)
+
+###### Presente, activo, participio.
+
+###### Originalmente significaba pulsar un instrumento de cuererdas.
+
+###### Con el tiempo llegó a significar cantar alabanzas acompañadas de música.
+
+##### Ambos participios dependen igualmente del mandato:
+
+> **«Sean llenados por el Espíritu.»**
+
+###### La vida llena del Espíritu se expresa cantando y alabando al Señor.
+
+------
+
+#### Efesios 5:19 – **«En sus corazones al Señor.»**
+
+##### La expresión **«en sus corazones»** modifica la manera en que se canta y se alaba.
+
+###### El corazón, en las Escrituras, representa el centro del pensamiento, la voluntad y las decisiones.
+
+###### Pablo no limita la adoración a las palabras o a la música.
+
+###### La adoración nace del interior.
+
+##### El destinatario de toda esta adoración queda claramente identificado.
+
+###### Es **«al Señor.»**
+
+###### El centro de la reunión no es la experiencia musical.
+
+###### Es Cristo.
+
+------
+
+#### El flujo del argumento continúa siendo uno solo:
+
+- Sean llenados por el Espíritu.
+- Hablando unos con otros.
+- Con salmos, himnos y cantos espirituales.
+- Cantando.
+- Alabando en sus corazones al Señor.
+
+###### Pablo no está construyendo una doctrina acerca de la música.
+
+###### Está describiendo cómo habla y adora una iglesia que vive bajo la acción continua del Espíritu Santo.
+
+### Efesios 5:20 – **«Dando siempre gracias por todo, en el nombre de nuestro Señor Jesucristo, a Dios, el Padre.»**
+
+#### El versículo continúa desarrollando el mandato principal del versículo 18.
+
+##### El imperativo sigue siendo:
+
+> **«Sean continuamente llenados por el Espíritu.»**
+
+##### Ahora Pablo añade un cuarto participio presente.
+
+###### No introduce un nuevo mandamiento.
+
+###### Describe otra característica de una vida llena del Espíritu.
+
+------
+
+#### Efesios 5:20 – **«Dando siempre gracias por todo.»**
+
+##### El verbo **εὐχαριστοῦντες** (*eucharistoûntes*) está en **presente, activo, participio**.
+
+###### Expresa una acción continua.
+
+###### Depende del imperativo **«sean llenados por el Espíritu.»**
+
+##### La idea es:
+
+> **«Sean llenados por el Espíritu, dando continuamente gracias...»**
+
+##### El verbo proviene de la raíz **χάρις** (*cháris*), "gracia" o "favor".
+
+###### Esta relación léxica ayuda a entender que la gratitud cristiana nace de la gracia recibida de Dios.
+
+###### No es una simple expresión de cortesía.
+
+###### Es la respuesta del creyente a la gracia de Dios manifestada en Cristo.
+
+##### Pablo añade dos expresiones que amplían el alcance de esta gratitud.
+
+##### **«Siempre.»**
+
+###### La gratitud no caracteriza solamente algunos momentos de la vida.
+
+###### Es una actitud continua del creyente.
+
+##### **«Por todo.»**
+
+###### Pablo no limita la gratitud a las circunstancias agradables.
+
+###### La gracia de Dios permite reconocer Su obra en toda circunstancia.
+
+###### La gratitud no depende primero de las circunstancias.
+
+###### Depende del Dios que permanece fiel en todas ellas.
+
+------
+
+#### Efesios 5:20 – **«En el nombre de nuestro Señor Jesucristo.»**
+
+##### La expresión **«en el nombre»** señala la esfera y la autoridad bajo la cual se presenta esta gratitud.
+
+###### El creyente da gracias representando a Cristo y por medio de Él.
+
+###### Toda gratitud cristiana está fundamentada en la obra del Señor Jesucristo.
+
+------
+
+#### Efesios 5:20 – **«A Dios, el Padre.»**
+
+##### Pablo identifica claramente el destinatario de la acción de gracias.
+
+###### La gratitud se dirige a Dios Padre.
+
+###### El acceso al Padre es posible por medio del Señor Jesucristo.
+
+##### El flujo del argumento continúa siendo uno solo:
+
+- Sean llenados por el Espíritu.
+- Hablando unos con otros.
+- Cantando.
+- Alabando al Señor.
+- Dando continuamente gracias a Dios Padre por medio de Jesucristo.
+
+###### La llenura del Espíritu produce una vida marcada por la adoración, la gratitud y una constante conciencia de la gracia de Dios.
+
+### Efesios 5:21 – *«Sometiéndose unos a otros en el temor de Cristo.»*
+
+#### Este versículo concluye la cadena de participios que comenzó en Efesios 5:19.
+
+##### El mandato principal continúa siendo:
+
+> **«Sean continuamente llenados por el Espíritu.»**
+
+##### El verbo **ὑποτασσόμενοι** (*hypotassómenoi*) está en **presente, medio/pasivo, participio**.
+
+###### No introduce un nuevo mandamiento.
+
+###### Describe otra manifestación de una vida continuamente llena del Espíritu.
+
+------
+
+#### Efesios 5:21 – **«Sometiéndose unos a otros.»**
+
+##### El verbo **ὑποτάσσω** proviene de:
+
+- **ὑπό** = debajo.
+- **τάσσω** = ordenar, colocar en su lugar.
+
+##### Era un término usado para colocar algo bajo un orden establecido.
+
+##### En este contexto el participio tiene un sentido reflexivo o voluntario.
+
+###### Las mejores traducciones son:
+
+- sometiéndose,
+- sujetándose,
+- colocándose voluntariamente bajo el otro.
+
+##### Pablo no está describiendo una sumisión impuesta por la fuerza.
+
+##### Está describiendo una disposición voluntaria que caracteriza al creyente lleno del Espíritu.
+
+##### El pronombre **«unos a otros»** muestra que Pablo habla de relaciones dentro del cuerpo de Cristo.
+
+###### No está desarrollando todavía cómo funciona esa sumisión.
+
+###### Eso comenzará inmediatamente en los versículos siguientes.
+
+------
+
+#### Efesios 5:21 – **«En el temor de Cristo.»**
+
+##### La expresión **ἐν φόβῳ Χριστοῦ** significa literalmente:
+
+> **«En el temor de Cristo.»**
+
+##### La preposición **ἐν** introduce la esfera en la cual ocurre esta actitud.
+
+###### No nace del temor al hombre.
+
+###### No nace de inferioridad.
+
+###### Nace del respeto, reverencia y reconocimiento de la autoridad de Cristo.
+
+##### La motivación de la sumisión es Cristo mismo.
+
+------
+
+#### Este versículo sirve como puente hacia toda la sección doméstica.
+
+##### Pablo desarrolla cómo esa actitud se expresa en diferentes relaciones:
+
+- 5:22–24 — Las esposas con sus propios maridos.
+- 5:25–33 — Los maridos con sus propias esposas.
+- 6:1–3 — Los hijos con sus padres.
+- 6:4 — Los padres con sus hijos.
+- 6:5–8 — Los siervos con sus amos.
+- 6:9 — Los amos con sus siervos.
+
+##### Todo este desarrollo depende del mismo mandato principal:
+
+> **Sean continuamente llenados por el Espíritu.**
+
+##### Entonces aparecen cinco participios que describen esa llenura:
+
+- hablando unos con otros;
+- cantando;
+- alabando al Señor;
+- dando siempre gracias;
+- sometiéndose unos a otros.
+
+###### Pablo no presenta estas acciones como requisitos para recibir la llenura del Espíritu.
+
+###### Las presenta como la evidencia visible de una vida que está siendo continuamente llena por el Espíritu.
+
+### Efesios 5:22 – *«Las mujeres, a sus propios maridos, como al Señor.»*
+
+#### El versículo 22 continúa la oración iniciada en Efesios 5:18.
+
+##### El mandato principal sigue siendo:
+
+> **«Sean continuamente llenados por el Espíritu.»**
+
+##### Después aparecen cinco participios que describen esa llenura.
+
+##### El último participio fue:
+
+> **«sometiéndose unos a otros en el temor de Cristo.»** (5:21)
+
+##### El versículo 22 depende directamente de ese participio.
+
+###### En los manuscritos griegos más antiguos no aparece un nuevo verbo.
+
+###### El verbo **«estar sometidas»** se sobreentiende del versículo anterior.
+
+###### Pablo no comienza una idea nueva; continúa desarrollando cómo se expresa esa actitud dentro del matrimonio.
+
+------
+
+#### Efesios 5:22 – **«Las mujeres, a sus propios maridos.»**
+
+##### El sujeto ahora queda restringido.
+
+##### Pablo no habla de todas las mujeres.
+
+##### Habla específicamente de las mujeres casadas.
+
+##### El texto tampoco dice:
+
+> "a los hombres."
+
+##### Dice:
+
+> **«a sus propios maridos.»**
+
+##### La expresión **ἰδίοις ἀνδράσιν** ("sus propios maridos") limita completamente el alcance del mandato.
+
+###### No establece una relación de sumisión hacia todos los hombres.
+
+###### Se refiere únicamente a la relación matrimonial.
+
+------
+
+#### «Estén sometidas.»
+
+##### El verbo que se toma del versículo 21 es **ὑποτάσσω**.
+
+##### Literalmente significa:
+
+> colocarse bajo un orden establecido.
+
+##### El término era usado para describir el orden dentro de una estructura.
+
+##### El énfasis del verbo no recae primero sobre la autoridad del esposo.
+
+##### Recae sobre la disposición voluntaria de la esposa para ocupar el lugar que Dios estableció dentro del matrimonio.
+
+##### Pablo tampoco ordena al marido:
+
+> "somete a tu esposa."
+
+##### La responsabilidad es dirigida exclusivamente a la esposa.
+
+###### Es una respuesta voluntaria delante del Señor.
+
+------
+
+#### Efesios 5:22 – **«Como al Señor.»**
+
+##### La comparación está introducida por **ὡς** ("como").
+
+##### Pablo presenta el modelo de esa actitud.
+
+##### La sumisión de la esposa no nace principalmente del carácter del marido.
+
+##### Nace de su relación con Cristo.
+
+##### El Señor es el estándar que gobierna esta actitud.
+
+##### Por eso este mandato forma parte de la sección que comenzó con:
+
+> **«Sean continuamente llenados por el Espíritu.»**
+
+###### Pablo no está enseñando una simple estructura familiar.
+
+###### Está mostrando cómo la llenura del Espíritu transforma las relaciones dentro del hogar.
+
+------
+
+#### Observe el desarrollo del argumento.
+
+```
+Sean llenados por el Espíritu.
+
+        ↓
+
+Sometiéndose unos a otros.
+
+        ↓
+
+Las mujeres...
+a sus propios maridos.
+
+        ↓
+
+Porque el marido
+es cabeza de la mujer.
+
+        ↓
+
+Como Cristo
+es cabeza de la Iglesia.
+```
+
+##### El fundamento de la instrucción no es la cultura.
+
+##### Pablo inmediatamente la fundamentará en la relación entre Cristo y la Iglesia (5:23–24).
+
+### Efesios 5:23 – *«Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, siendo Él mismo el Salvador del cuerpo.»*
+
+#### Efesios 5:23 – **«Porque...»**
+
+##### La conjunción **γάρ** ("porque") introduce la razón del mandato dado en el versículo anterior.
+
+##### Pablo no inicia una idea nueva.
+
+##### Explica por qué la esposa debe estar voluntariamente sujeta a su propio marido.
+
+------
+
+#### Efesios 5:23 – **«El marido es cabeza de la mujer.»**
+
+##### Pablo hace una declaración, no un mandato.
+
+##### El verbo **ἐστιν** ("es") está en **presente, indicativo**.
+
+###### No expresa una acción.
+
+###### Declara una realidad permanente.
+
+##### Pablo no dice que el marido **llega a ser** cabeza cuando la esposa se somete.
+
+##### Tampoco dice que **deja de ser** cabeza cuando ella no se somete.
+
+##### El texto simplemente afirma la realidad establecida por Dios dentro del matrimonio.
+
+------
+
+#### La figura de la cabeza.
+
+##### Pablo utiliza la imagen de un cuerpo.
+
+##### La cabeza ocupa el lugar de dirección del cuerpo.
+
+##### La comparación no pretende exaltar el valor del marido sobre la esposa.
+
+##### Presenta el orden establecido por Dios dentro del matrimonio.
+
+##### El énfasis del contexto no recae todavía sobre cómo debe ejercer ese liderazgo.
+
+###### Pablo desarrollará esa responsabilidad a partir del versículo 25.
+
+------
+
+#### Efesios 5:23 – **«Así como Cristo es cabeza de la iglesia.»**
+
+##### La comparación está introducida por **ὡς** ("así como").
+
+##### El matrimonio encuentra su modelo en la relación entre Cristo y la Iglesia.
+
+##### Pablo ya había presentado esta verdad anteriormente.
+
+###### Cristo es la cabeza del cuerpo (Efesios 1:22–23).
+
+###### El cuerpo crece unido a su cabeza (Efesios 4:15–16).
+
+##### Ahora aplica esa misma realidad al matrimonio.
+
+------
+
+#### Efesios 5:23 – **«Siendo Él mismo el Salvador del cuerpo.»**
+
+##### Aquí la comparación se detiene.
+
+##### Pablo no dice que el marido sea el salvador de la esposa.
+
+##### Esa afirmación pertenece únicamente a Cristo.
+
+##### El pronombre **αὐτός** ("Él mismo") enfatiza que Cristo, y nadie más, ocupa ese lugar.
+
+##### El verbo **es** continúa sobreentendido.
+
+###### Cristo sigue siendo el Salvador del cuerpo.
+
+###### Esa realidad no cambia.
+
+##### El cuerpo pertenece a Cristo porque Él lo salvó.
+
+##### Ningún marido ocupa ese lugar dentro del matrimonio.
+
+------
+
+#### Observe cuidadosamente el desarrollo del argumento.
+
+```text
+La esposa:
+    sométase...
+
+            porque...
+
+el marido
+es cabeza de la mujer
+
+            así como
+
+Cristo
+es cabeza de la Iglesia
+
+            pero
+
+Cristo mismo
+es el Salvador del cuerpo.
+```
+
+##### Pablo compara al marido con Cristo únicamente en el aspecto de ser cabeza.
+
+##### No extiende la comparación al papel de Salvador.
+
+##### Esa función pertenece exclusivamente a Cristo.
+
+###### Esta precisión prepara el desarrollo del versículo 25, donde Pablo mostrará que el marido debe amar a su esposa tomando a Cristo como modelo.
+
+### Efesios 5:24 – *«Pero, así como la iglesia está sujeta a Cristo, también las mujeres a sus propios maridos en todo.»*
+
+#### Efesios 5:24 – **«Pero...»**
+
+##### Pablo concluye la comparación iniciada en el versículo 23.
+
+##### La estructura griega es muy clara:
+
+> **Así como... también...**
+
+##### Primero presenta la relación entre Cristo y la Iglesia.
+
+##### Después aplica ese mismo modelo al matrimonio.
+
+------
+
+#### Efesios 5:24 – **«Así como la iglesia está sujeta a Cristo.»**
+
+##### El verbo **ὑποτάσσεται** está en **presente, medio/pasivo, indicativo**.
+
+##### Pablo hace una declaración.
+
+###### No expresa un mandato.
+
+###### Describe una realidad permanente.
+
+##### La iglesia vive en una relación de sujeción a Cristo.
+
+##### Esa relación no es presentada como una carga.
+
+##### Es la respuesta natural del cuerpo hacia su Cabeza.
+
+##### La iglesia reconoce voluntariamente el lugar que Cristo ocupa sobre ella.
+
+------
+
+#### Observe el desarrollo del argumento.
+
+```text
+Cristo
+        ↓
+es la Cabeza
+
+        ↓
+
+La Iglesia
+está sujeta a Cristo
+
+        ↓
+
+Así también...
+
+        ↓
+
+La esposa
+a su propio marido.
+```
+
+##### Pablo usa la relación entre Cristo y la Iglesia como el modelo para comprender el matrimonio.
+
+##### El modelo no nace de la cultura.
+
+##### Nace del evangelio.
+
+------
+
+#### Efesios 5:24 – **«También las mujeres a sus propios maridos.»**
+
+##### La aplicación mantiene la misma limitación del versículo 22.
+
+##### Pablo no habla de todas las mujeres.
+
+##### Dice:
+
+> **«a sus propios maridos.»**
+
+##### El alcance continúa restringido exclusivamente al matrimonio.
+
+##### La comparación es:
+
+> Así como la Iglesia se relaciona con Cristo,
+
+> así también la esposa con su propio marido.
+
+------
+
+#### Efesios 5:24 – **«En todo.»**
+
+##### La expresión griega **ἐν παντί** significa literalmente:
+
+> **«en todo.»**
+
+##### Pablo no introduce condiciones.
+
+##### Tampoco califica el mandato según las circunstancias del matrimonio.
+
+##### El énfasis recae sobre la amplitud de la actitud de sujeción.
+
+##### La esposa no escoge las áreas en las que reconocerá el liderazgo de su marido.
+
+##### La comparación continúa siendo la Iglesia respecto de Cristo.
+
+------
+
+#### Observe la progresión del argumento.
+
+```text
+Sean llenados por el Espíritu.
+
+        ↓
+
+Sometiéndose unos a otros.
+
+        ↓
+
+Esposas...
+
+        ↓
+
+Porque el marido
+es cabeza.
+
+        ↓
+
+Como Cristo
+es cabeza.
+
+        ↓
+
+Así como la Iglesia
+está sujeta a Cristo,
+
+        ↓
+
+Así también
+la esposa a su propio marido.
+```
+
+##### Pablo todavía no ha desarrollado la responsabilidad del marido.
+
+##### Toda la atención permanece sobre la esposa.
+
+##### El siguiente párrafo cambiará completamente el foco hacia el marido, dedicándole muchos más versículos (5:25–33) para explicar cómo debe amar a su esposa tomando a Cristo como modelo.
+
+## Efesios 5:25-31 – Instrucciones para los maridos según el modelo de Cristo.
+
+### Efesios 5:25-31 – Después de dirigir tres versículos a las esposas, Pablo dedica el resto de la sección a los maridos.
+
+##### Las esposas recibieron un mandato:
+
+> **Estén sujetas.**
+
+##### Los maridos también reciben un solo mandato:
+
+> **Amen a sus mujeres.**
+
+##### Todo lo que sigue (5:25–31) explica cómo debe entenderse ese amor.
+
+##### El modelo ya no es el matrimonio.
+
+##### El modelo es Cristo y Su Iglesia.
+
+------
+
+### Efesios 5:25 – *«Maridos, amen a sus mujeres, así como Cristo amó a la Iglesia y se entregó Él mismo por ella.»*
+
+#### Efesios 5:25 – **«Maridos, amen a sus mujeres.»**
+
+##### El verbo **ἀγαπᾶτε** está en **presente, activo, imperativo**.
+
+##### Pablo da una orden directa a los maridos.
+
+##### El tiempo presente describe una acción continua.
+
+###### Amar debe caracterizar continuamente la vida del marido.
+
+##### La voz activa muestra que el marido es responsable de ejercer ese amor.
+
+##### Pablo no desarrolla todavía qué significa amar.
+
+##### Lo explicará inmediatamente mediante el ejemplo de Cristo.
+
+------
+
+#### Observe el contraste del pasaje.
+
+```text
+Esposas
+
+Estén sujetas.
+
+↓
+
+Maridos
+
+Amen.
+```
+
+##### Pablo no ordena al marido gobernar a su esposa.
+
+##### Tampoco le ordena ejercer autoridad sobre ella.
+
+##### Ya declaró que el marido es cabeza.
+
+##### Ahora explica cómo esa posición debe expresarse:
+
+> amando.
+
+------
+
+#### Efesios 5:25 – **«Así como Cristo amó a la Iglesia.»**
+
+##### La comparación está introducida nuevamente por **καθὼς** ("así como").
+
+##### Cristo continúa siendo el modelo del matrimonio.
+
+##### El verbo **ἠγάπησεν** está en **aoristo, activo, indicativo**.
+
+##### Pablo presenta un hecho histórico.
+
+###### Cristo realmente amó a la Iglesia.
+
+###### Ese amor quedó demostrado en un acto concreto.
+
+##### La referencia apunta a la entrega de Cristo en la cruz.
+
+------
+
+#### Efesios 5:25 – **«Y se entregó Él mismo por ella.»**
+
+##### El verbo **παρέδωκεν** ("se entregó") también está en **aoristo, activo, indicativo**.
+
+##### Pablo continúa describiendo el mismo acontecimiento.
+
+##### Cristo no solamente sintió amor por la Iglesia.
+
+##### Demostró ese amor entregándose voluntariamente por ella.
+
+##### El pronombre **ἑαυτόν** ("Él mismo") enfatiza que nadie tomó Su vida.
+
+##### Él mismo se entregó.
+
+##### La expresión **«por ella»** muestra el carácter sustitutorio y sacrificial de esa entrega.
+
+------
+
+#### Observe el desarrollo del argumento.
+
+```text
+Maridos
+
+↓
+
+Amen.
+
+↓
+
+¿Cómo?
+
+↓
+
+Como Cristo.
+
+↓
+
+¿Cómo amó Cristo?
+
+↓
+
+Se entregó
+a Sí mismo
+por la Iglesia.
+```
+
+##### Pablo todavía no ha explicado el propósito de esa entrega.
+
+##### Los versículos 26–27 desarrollarán el resultado de la obra de Cristo por Su Iglesia.
+
+##### El mandato para los maridos permanece unido al modelo supremo del amor de Cristo.
+
+### Efesios 5:26 – *«Para santificarla, habiéndola purificado por el lavamiento del agua con la palabra.»*
+
+#### El versículo 26 explica el propósito de la entrega de Cristo.
+
+##### Pablo continúa la oración del versículo anterior.
+
+##### Cristo:
+
+- amó a la Iglesia;
+- se entregó por ella;
+
+##### **con el propósito de** santificarla.
+
+##### La conjunción **ἵνα** ("para que", "a fin de que") introduce una cláusula de propósito.
+
+###### Todo lo que sigue responde a la pregunta:
+
+> ¿Para qué se entregó Cristo por la Iglesia?
+
+------
+
+#### Efesios 5:26 – **«Para santificarla.»**
+
+##### El verbo **ἁγιάσῃ** está en **aoristo, activo, subjuntivo**.
+
+##### El aoristo presenta la acción como un todo.
+
+##### El subjuntivo depende de **ἵνα**, expresando propósito.
+
+###### Cristo se entregó por la Iglesia con el propósito de santificarla.
+
+##### El sujeto de la acción es Cristo.
+
+##### La Iglesia no se santifica a sí misma.
+
+##### Cristo es quien realiza esta obra.
+
+------
+
+#### Observe el desarrollo del argumento.
+
+```text
+Cristo amó
+
+↓
+
+se entregó
+
+↓
+
+para santificar
+```
+
+##### Pablo todavía no explica cómo ocurre esa santificación.
+
+##### Antes introduce otra acción mediante un participio.
+
+------
+
+#### Efesios 5:26 – **«Habiéndola purificado.»**
+
+##### El verbo **καθαρίσας** está en **aoristo, activo, participio**.
+
+##### El participio expresa una acción que acompaña y prepara la acción principal.
+
+##### Literalmente:
+
+> **habiendo purificado.**
+
+##### Pablo distingue cuidadosamente las dos acciones.
+
+```text
+Habiendo purificado
+
+↓
+
+para santificar
+```
+
+##### Primero menciona la purificación.
+
+##### Después presenta el propósito de santificar.
+
+##### El sujeto continúa siendo Cristo.
+
+------
+
+#### Efesios 5:26 – **«Por el lavamiento del agua.»**
+
+##### La expresión **τῷ λουτρῷ τοῦ ὕδατος** significa literalmente:
+
+> **«por el lavamiento del agua.»**
+
+##### El sustantivo **λουτρόν** significa lavado o lavamiento.
+
+##### Pablo no explica aquí el simbolismo del agua.
+
+##### El énfasis recae sobre la obra purificadora realizada por Cristo.
+
+##### Tito 3:5 utiliza una expresión muy semejante al hablar del **lavamiento de la regeneración**.
+
+##### Ambos pasajes presentan la iniciativa salvadora de Dios y no una obra realizada por el hombre.
+
+------
+
+#### Efesios 5:26 – **«Con la palabra.»**
+
+##### La expresión griega **ἐν ῥήματι** puede traducirse:
+
+- en la palabra;
+- por medio de la palabra;
+- mediante el mensaje.
+
+##### El término **ῥῆμα** suele referirse a una palabra pronunciada o un mensaje comunicado.
+
+##### Pablo une el lavamiento con la palabra.
+
+##### La purificación de la Iglesia no aparece separada del mensaje de Cristo.
+
+##### El evangelio anunciado ocupa un lugar esencial dentro de esa obra purificadora.
+
+------
+
+#### Observe cuidadosamente la progresión del pensamiento.
+
+```text
+Cristo amó
+
+↓
+
+Se entregó
+
+↓
+
+para santificar
+
+↓
+
+habiendo purificado
+
+↓
+
+por el lavamiento
+
+↓
+
+con la palabra
+```
+
+##### Cada frase desarrolla la anterior.
+
+##### Pablo todavía no ha llegado al objetivo final.
+
+##### El siguiente versículo presentará el segundo propósito de la obra de Cristo:
+
+> **presentar a la Iglesia delante de Sí mismo gloriosa.**
+
+### Efesios 5:27 – *«A fin de presentársela a Sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.»*
+
+#### Efesios 5:27 continúa desarrollando el propósito de la obra de Cristo.
+
+##### Pablo todavía no introduce una nueva idea.
+
+##### La segunda cláusula de propósito continúa la secuencia iniciada en el versículo anterior.
+
+```text
+Cristo amó
+
+↓
+
+se entregó
+
+↓
+
+para santificar
+
+↓
+
+habiendo purificado
+
+↓
+
+para presentar
+```
+
+##### Todo sigue respondiendo a la misma pregunta:
+
+> ¿Para qué se entregó Cristo por la Iglesia?
+
+------
+
+#### Efesios 5:27 – **«A fin de presentársela a Sí mismo.»**
+
+##### El verbo **παραστήσῃ** está en **aoristo, activo, subjuntivo**.
+
+##### Igual que en el versículo anterior, el subjuntivo depende de **ἵνα**, expresando propósito.
+
+##### Cristo no solamente murió para santificar a la Iglesia.
+
+##### También se entregó **para presentársela a Sí mismo**.
+
+##### El verbo **παρίστημι** significa presentar, poner delante o comparecer ante alguien.
+
+##### En distintos contextos puede usarse para presentar una ofrenda, presentar una persona delante de una autoridad o presentar una novia para la boda.
+
+##### Aquí la imagen encaja perfectamente con la relación entre Cristo y Su Iglesia desarrollada en todo el pasaje.
+
+------
+
+#### Efesios 5:27 – **«A Sí mismo.»**
+
+##### El pronombre reflexivo **ἑαυτῷ** muestra que el sujeto y el destinatario son la misma persona.
+
+##### Cristo no presenta la Iglesia a otro.
+
+##### Cristo la presenta **para Sí mismo**.
+
+##### Toda la obra iniciada por Cristo culmina en Su propia posesión de la Iglesia.
+
+------
+
+#### Efesios 5:27 – **«Una iglesia en toda su gloria.»**
+
+##### Pablo ahora describe cómo será la Iglesia presentada por Cristo.
+
+##### El énfasis ya no está sobre la acción de presentar.
+
+##### El énfasis está sobre la condición de la Iglesia.
+
+##### No presenta varias iglesias.
+
+##### Presenta **una Iglesia**.
+
+##### El adjetivo **ἔνδοξον** ("gloriosa") describe una Iglesia revestida de honor, esplendor y dignidad.
+
+##### Toda esa gloria proviene de la obra realizada por Cristo en los versículos anteriores.
+
+------
+
+#### Efesios 5:27 – **«Sin que tenga mancha ni arruga ni cosa semejante.»**
+
+##### La descripción continúa desarrollando la condición de la Iglesia.
+
+##### Pablo acumula tres expresiones negativas.
+
+- sin mancha;
+- sin arruga;
+- sin cosa semejante.
+
+##### El participio **ἔχουσα** ("teniendo") está en **presente, activo, participio**.
+
+##### Literalmente:
+
+> **no teniendo mancha ni arruga.**
+
+##### El presente describe la condición que caracteriza a la Iglesia presentada por Cristo.
+
+##### Pablo no está dando un mandamiento.
+
+##### Está describiendo el resultado de la obra de Cristo.
+
+------
+
+#### Efesios 5:27 – **«Sino que fuera santa e inmaculada.»**
+
+##### La conjunción **ἀλλά** introduce el contraste.
+
+##### En lugar de toda imperfección, Cristo presenta una Iglesia:
+
+- santa;
+- inmaculada.
+
+##### La cláusula vuelve a depender de **ἵνα**.
+
+##### El verbo **ᾖ** ("sea") está en **presente, subjuntivo**.
+
+##### Mientras el aoristo enfatiza la acción completa de presentar, el presente resalta la condición permanente de la Iglesia presentada.
+
+##### El propósito de Cristo no consiste solamente en quitar aquello que contamina.
+
+##### También consiste en presentar una Iglesia caracterizada por santidad e integridad.
+
+##### "Santa" enfatiza que pertenece completamente a Cristo.
+
+##### "Inmaculada" enfatiza que no existe defecto alguno delante de Él.
+
+##### Toda esta condición procede de la obra realizada por Cristo y no del mérito de la Iglesia.
+
+------
+
+#### Observe cómo Pablo desarrolla toda la secuencia.
+
+```text
+Cristo amó
+
+↓
+
+Se entregó
+
+↓
+
+para santificar
+
+↓
+
+habiendo purificado
+
+↓
+
+para presentar
+
+↓
+
+una Iglesia gloriosa
+
+↓
+
+sin mancha
+
+↓
+
+sin arruga
+
+↓
+
+santa
+
+↓
+
+inmaculada
+```
+
+##### La Iglesia no produce esta condición.
+
+##### Cristo la produce.
+
+##### La obra comienza con Su amor y culmina con una Iglesia presentada delante de Él completamente preparada para Su gloria.
+
+### Efesios 5:28 – *«Así deben también los maridos amar a sus mujeres como a sus propios cuerpos. El que ama a su mujer, a sí mismo se ama.»*
+
+#### Efesios 5:28 vuelve al mandamiento dado en el versículo 25.
+
+##### Después de explicar la obra de Cristo por la Iglesia (vv. 25–27), Pablo retoma ahora la aplicación para los maridos.
+
+##### Toda la explicación anterior sirve como fundamento del mandato.
+
+```text
+Cristo amó a la Iglesia.
+
+↓
+
+Cristo se entregó por ella.
+
+↓
+
+Cristo la santifica.
+
+↓
+
+Cristo la presenta gloriosa.
+
+↓
+
+Así también...
+
+↓
+
+los maridos deben amar a sus mujeres.
+```
+
+------
+
+#### Efesios 5:28 – **«Así deben también los maridos amar a sus mujeres.»**
+
+##### El verbo **ὀφείλουσιν** ("deben") está en **presente, activo, indicativo**.
+
+##### Pablo no da aquí un nuevo imperativo.
+
+##### Hace una declaración de obligación.
+
+##### Literalmente:
+
+> **Así también los maridos están obligados a amar a sus propias mujeres.**
+
+##### El presente indica una obligación permanente, no una responsabilidad ocasional.
+
+##### La obligación nace del modelo desarrollado en los versículos anteriores.
+
+##### Así como Cristo amó a Su Iglesia, de esa misma manera los maridos deben amar a sus propias esposas.
+
+##### El texto tampoco habla de las mujeres en general.
+
+##### Cada marido debe amar **a su propia mujer**.
+
+------
+
+#### Efesios 5:28 – **«Como a sus propios cuerpos.»**
+
+##### Pablo introduce ahora una segunda ilustración.
+
+##### Primero presentó el modelo de Cristo y la Iglesia.
+
+##### Ahora presenta una realidad que todos experimentan diariamente.
+
+##### El amor al propio cuerpo.
+
+##### No está ordenando que primero aprendamos a amarnos.
+
+##### Da por sentado un hecho evidente.
+
+##### Normalmente cada persona cuida su propio cuerpo.
+
+##### Lo alimenta.
+
+##### Lo protege.
+
+##### Lo abriga.
+
+##### Lo descansa.
+
+##### Lo atiende cuando enferma.
+
+##### Esa atención constante sirve como ilustración del amor que el marido debe expresar hacia su esposa.
+
+##### La esposa no aparece como alguien ajeno al marido.
+
+##### Pablo comienza a desarrollar la unidad del matrimonio que explicará plenamente en los versículos siguientes.
+
+------
+
+#### Efesios 5:28 – **«El que ama a su mujer, a sí mismo se ama.»**
+
+##### El verbo **ἀγαπῶν** ("el que ama") está en **presente, activo, participio**.
+
+##### Describe al marido caracterizado por amar continuamente a su esposa.
+
+##### El verbo principal **ἀγαπᾷ** ("ama") está en **presente, activo, indicativo**.
+
+##### Pablo hace una declaración.
+
+##### No presenta una posibilidad.
+
+##### Presenta una realidad.
+
+##### El marido que ama a su esposa está amándose a sí mismo.
+
+##### El orden de la oración es importante.
+
+##### Pablo no dice primero:
+
+> "El que se ama a sí mismo ama a su mujer."
+
+##### Dice exactamente lo contrario.
+
+> "El que ama a su mujer, a sí mismo se ama."
+
+##### El énfasis permanece sobre el amor hacia la esposa.
+
+##### La razón aparecerá en el siguiente versículo.
+
+##### La esposa no es presentada como alguien separado del marido.
+
+##### Pablo demostrará que amar a la esposa resulta equivalente a cuidar el propio cuerpo, porque ambos forman una sola carne.
+
+### Efesios 5:29 – *«Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como también Cristo a la iglesia.»*
+
+#### Efesios 5:29 comienza con **«Porque» (γάρ)**.
+
+##### Pablo presenta ahora la razón de la afirmación del versículo anterior.
+
+##### ¿Por qué el que ama a su mujer se ama a sí mismo?
+
+##### Porque la relación entre el marido y su esposa puede compararse con la relación entre una persona y su propio cuerpo.
+
+------
+
+#### Efesios 5:29 – **«Porque nadie aborreció jamás su propio cuerpo.»**
+
+##### Pablo hace una declaración basada en una realidad evidente.
+
+##### El verbo **ἐμίσησεν** ("aborreció") está en **aoristo, activo, indicativo**.
+
+##### Presenta el hecho como algo reconocido.
+
+##### Nadie toma como costumbre odiar su propio cuerpo.
+
+##### La afirmación sirve como fundamento para el argumento que Pablo está desarrollando.
+
+##### Si la esposa forma parte de esa unidad, resulta contrario a la naturaleza odiarla o despreciarla.
+
+------
+
+#### Efesios 5:29 – **«Sino que lo sustenta y lo cuida.»**
+
+##### En lugar de aborrecerlo, toda persona normalmente hace dos cosas con su cuerpo.
+
+##### El verbo **ἐκτρέφει** ("sustenta") está en **presente, activo, indicativo**.
+
+##### Describe una acción continua.
+
+##### El verbo significa alimentar, nutrir o criar hasta la madurez.
+
+##### No se limita a dar alimento.
+
+##### Comunica la idea de proveer continuamente aquello que el cuerpo necesita para desarrollarse.
+
+##### El verbo **θάλπει** ("cuida") también está en **presente, activo, indicativo**.
+
+##### Literalmente significa dar calor, abrigar o cuidar con ternura.
+
+##### Describe un cuidado protector, constante y afectuoso.
+
+##### Pablo presenta estas dos acciones como la conducta normal hacia el propio cuerpo.
+
+##### No intenta definir exhaustivamente el amor.
+
+##### Las utiliza como evidencia de que nadie trata su cuerpo con desprecio.
+
+------
+
+#### Efesios 5:29 – **«Así como también Cristo a la iglesia.»**
+
+##### Pablo vuelve inmediatamente al modelo supremo.
+
+##### La comparación permanece entre Cristo y la Iglesia.
+
+##### Así como una persona nutre y cuida su propio cuerpo, Cristo nutre y cuida continuamente a Su Iglesia.
+
+##### Los verbos permanecen en presente.
+
+##### Cristo sigue sustentando a Su Iglesia.
+
+##### Cristo sigue cuidando a Su Iglesia.
+
+##### Esta afirmación conecta directamente con Efesios 4:15–16.
+
+##### Allí Pablo explicó que todo el cuerpo recibe crecimiento y nutrición de Cristo, quien es la Cabeza.
+
+##### El argumento todavía no ha terminado.
+
+##### En el siguiente versículo Pablo dará la razón definitiva de esta comparación.
+
+> **Porque somos miembros de Su cuerpo.**
+
+### Efesios 5:30 – *«Porque somos miembros de Su cuerpo.»*
+
+#### Efesios 5:30 comienza con **«Porque» (γάρ)**.
+
+##### Pablo da ahora la razón de la afirmación del versículo anterior.
+
+##### ¿Por qué Cristo sustenta y cuida continuamente a la Iglesia?
+
+##### Porque somos miembros de Su cuerpo.
+
+##### Este versículo prepara directamente la cita de Génesis 2:24 que sigue en el versículo 31.
+
+------
+
+#### Efesios 5:30 – **«Porque somos miembros de Su cuerpo.»**
+
+##### El verbo **ἐσμέν** ("somos") está en **presente, indicativo, primera persona plural**.
+
+##### Pablo se incluye dentro de esta realidad.
+
+##### No expresa una posibilidad.
+
+##### Declara un hecho permanente.
+
+##### Los creyentes **somos** miembros del cuerpo de Cristo.
+
+##### El énfasis no recae solamente sobre la Iglesia considerada como un cuerpo en sentido colectivo.
+
+##### También recae sobre cada creyente como miembro de ese mismo cuerpo.
+
+##### Cristo mantiene una relación con todo el cuerpo y, al mismo tiempo, con cada uno de sus miembros.
+
+------
+
+#### El argumento de Pablo continúa avanzando.
+
+##### Cristo no sustenta ni cuida a la Iglesia simplemente porque decidió hacerlo.
+
+##### La razón presentada por Pablo es más profunda.
+
+##### Cristo cuida Su cuerpo porque la Iglesia es Su cuerpo.
+
+##### Así como nadie deja de cuidar su propio cuerpo, Cristo tampoco deja de cuidar el Suyo.
+
+##### Los verbos presentes del versículo anterior (**sustenta** y **cuida**) encuentran aquí su explicación.
+
+##### El cuidado continuo de Cristo nace de la unión permanente que existe entre Él y Su Iglesia.
+
+------
+
+#### Observe cómo progresa el argumento.
+
+```text
+Ama a la Iglesia.
+
+↓
+
+La sustenta.
+
+↓
+
+La cuida.
+
+↓
+
+Porque somos miembros de Su cuerpo.
+
+↓
+
+Por esta razón...
+
+↓
+
+Los dos serán una sola carne.
+```
+
+##### Pablo todavía no ha terminado la comparación entre Cristo y la Iglesia.
+
+##### El siguiente versículo mostrará que esta unidad ya había sido anunciada desde el principio en las Escrituras mediante el matrimonio.
+
+### Efesios 5:31 – *«POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE.»* (Génesis 2:24)
+
+#### Efesios 5:31 cita directamente Génesis 2:24.
+
+##### Pablo no introduce una idea nueva.
+
+##### Ahora apela a las Escrituras para confirmar todo lo que acaba de enseñar acerca del matrimonio.
+
+##### Después de mostrar la relación entre Cristo y la Iglesia, demuestra que el diseño del matrimonio ya estaba presente desde el principio.
+
+------
+
+#### Efesios 5:31 – **«Por esto el hombre dejará a su padre y a su madre.»**
+
+##### El verbo **καταλείψει** ("dejará") está en **futuro, activo, indicativo**.
+
+##### El futuro no expresa aquí una simple predicción.
+
+##### Describe el orden establecido por Dios para el matrimonio.
+
+##### Así es como Dios diseñó esta nueva relación.
+
+##### El hombre deja la unidad familiar anterior para formar una nueva unidad con su esposa.
+
+##### La prioridad cambia.
+
+##### No abandona el deber de honrar a sus padres.
+
+##### Pero sí establece una relación superior y permanente con su mujer.
+
+------
+
+#### Efesios 5:31 – **«Y se unirá a su mujer.»**
+
+##### El verbo **προσκολληθήσεται** está en **futuro, pasivo, indicativo**.
+
+##### Literalmente significa:
+
+> pegarse,
+> adherirse,
+> unirse estrechamente.
+
+##### El verbo comunica una unión firme y permanente.
+
+##### La voz pasiva merece atención.
+
+##### Pablo no presenta simplemente la decisión del hombre.
+
+##### Presenta una unión que Dios mismo establece.
+
+##### Jesús utiliza este mismo texto para concluir:
+
+> **«Lo que Dios unió, no lo separe el hombre.»**
+
+##### La secuencia permanece inalterable.
+
+```text
+Dejar
+
+↓
+
+Unirse
+
+↓
+
+Ser una sola carne
+```
+
+##### Cada paso prepara el siguiente.
+
+------
+
+#### Efesios 5:31 – **«Y los dos serán una sola carne.»**
+
+##### El verbo **ἔσονται** ("serán") también está en **futuro, indicativo**.
+
+##### Pablo declara el resultado de la unión matrimonial.
+
+##### No dice que parecerán una sola carne.
+
+##### No dice que deban imaginarse una sola carne.
+
+##### Declara que llegan a constituir una nueva unidad.
+
+##### Toda la argumentación de los versículos anteriores encuentra aquí su fundamento.
+
+##### Ahora resulta evidente por qué el marido ama a su esposa como a su propio cuerpo.
+
+##### En el diseño de Dios ya no son dos realidades independientes.
+
+##### Constituyen una sola carne.
+
+------
+
+#### Observe cómo Pablo desarrolla el argumento.
+
+```text
+Cristo ama a la Iglesia.
+
+↓
+
+La sustenta.
+
+↓
+
+La cuida.
+
+↓
+
+Porque somos miembros de Su cuerpo.
+
+↓
+
+Por esta razón...
+
+↓
+
+El hombre deja.
+
+↓
+
+Se une.
+
+↓
+
+Los dos llegan a ser una sola carne.
+```
+
+##### Pablo todavía no explica completamente por qué cita Génesis.
+
+##### Guarda la explicación para el siguiente versículo.
+
+##### Allí revelará el verdadero alcance de esta cita.
+
+### Efesios 5:32 – *«Grande es este misterio, pero yo hablo con referencia a Cristo y a la iglesia.»*
+
+#### Efesios 5:32 constituye el punto culminante de toda la explicación iniciada en el versículo 22.
+
+##### Pablo ha hablado del matrimonio.
+
+##### Ha hablado del marido.
+
+##### Ha hablado de la esposa.
+
+##### Ha citado Génesis 2:24.
+
+##### Ahora revela el verdadero alcance de todo ese argumento.
+
+------
+
+#### Efesios 5:32 – **«Grande es este misterio.»**
+
+##### El verbo **ἐστίν** ("es") está en **presente, indicativo**.
+
+##### Pablo hace una declaración.
+
+##### El misterio no llegará a ser grande.
+
+##### El misterio **es** grande.
+
+##### La palabra **μυστήριον** no describe algo misterioso o imposible de comprender.
+
+##### En Pablo, un misterio es una verdad que permaneció oculta en épocas anteriores y que ahora Dios ha revelado.
+
+##### Génesis 2:24 siempre estuvo en las Escrituras.
+
+##### Sin embargo, el verdadero alcance de esas palabras permanecía oculto.
+
+##### Ahora, por medio del evangelio, Dios revela aquello hacia lo cual apuntaban desde el principio.
+
+------
+
+#### Efesios 5:32 – **«Pero yo hablo con referencia a Cristo y a la iglesia.»**
+
+##### La conjunción **δέ** marca un giro decisivo en el argumento.
+
+##### Pablo revela ahora el verdadero referente de la cita de Génesis.
+
+##### La expresión **εἰς Χριστὸν καὶ εἰς τὴν ἐκκλησίαν** merece especial atención.
+
+##### La preposición **εἰς** expresa dirección o referencia.
+
+##### Pablo no dice simplemente que el matrimonio ilustra a Cristo.
+
+##### Dice que está hablando **con referencia a Cristo y a la Iglesia**.
+
+##### Todo el desarrollo anterior converge en esta realidad.
+
+##### La unión entre el hombre y la mujer encuentra su significado más profundo en la unión entre Cristo y Su Iglesia.
+
+------
+
+#### Observe el desarrollo del argumento.
+
+```text
+Cristo amó.
+
+↓
+
+Se entregó.
+
+↓
+
+Santificó.
+
+↓
+
+Purificó.
+
+↓
+
+Presentará a Su Iglesia.
+
+↓
+
+La sustenta.
+
+↓
+
+La cuida.
+
+↓
+
+Somos miembros de Su cuerpo.
+
+↓
+
+Los dos serán una sola carne.
+
+↓
+
+Grande es este misterio.
+
+↓
+
+Hablo con referencia a Cristo y a la Iglesia.
+```
+
+##### Génesis 2:24 no aparece aquí simplemente como una ilustración del matrimonio.
+
+##### Pablo afirma que esas palabras alcanzan su pleno significado en Cristo y en la Iglesia.
+
+##### El matrimonio continúa siendo verdadero.
+
+##### Pero ahora se entiende a la luz de una realidad aún mayor: la unión entre Cristo y Su Iglesia.
+
+## Efesios 5:33 – *«En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y que la mujer respete a su marido».*
+
+### Efesios 5:33 – Pablo concluye la enseñanza volviendo al matrimonio después de revelar el gran misterio de Cristo y la iglesia.
+
+#### Efesios 5:33 – *«En todo caso...»*
+
+##### La conjunción **πλήν** ("sin embargo", "en todo caso", "no obstante") introduce la conclusión práctica de toda la sección.
+
+##### Después de explicar el misterio de Cristo y la iglesia, Pablo vuelve a las responsabilidades del esposo y de la esposa.
+
+##### El misterio no reemplaza las instrucciones para el matrimonio.
+
+##### Más bien, les da su fundamento y su verdadero significado.
+
+------
+
+#### Efesios 5:33 – *«cada uno de ustedes ame también a su mujer como a sí mismo.»*
+
+##### Pablo retoma el mandato dado en el versículo 25.
+
+##### El verbo **ἀγαπάτω** está en **presente, activo, imperativo**, indicando una acción continua y permanente.
+
+##### El marido no recibe un nuevo mandamiento.
+
+##### Pablo resume todo lo que explicó acerca del amor de Cristo.
+
+##### Después de mostrar que Cristo amó, se entregó, santificó, purificó y sustenta a la iglesia, el significado de "amar" ya ha quedado definido.
+
+##### Amar a la esposa significa buscar continuamente su bien, siguiendo el modelo de Cristo.
+
+------
+
+#### Efesios 5:33 – *«y que la mujer respete a su marido.»*
+
+##### Pablo concluye retomando la instrucción dirigida a la esposa.
+
+##### El verbo **φοβῆται** está en **presente, voz media, subjuntivo**, expresando la respuesta esperada dentro de esta exhortación.
+
+##### No describe un temor servil.
+
+##### Habla del respeto y reconocimiento del lugar que Dios dio al marido dentro del matrimonio.
+
+##### Así como la iglesia vive en reverencia a Cristo, la esposa responde con respeto hacia su propio marido.
+
+##### Pablo no desarrolla un nuevo argumento.
+
+##### Resume la enseñanza iniciada en el versículo 22.
+
+------
+
+## Observación
+
+### La estructura completa de Efesios 5:22–33 muestra un movimiento cuidadosamente desarrollado.
+
+```text
+Esposas
+↓
+Sujétense a sus maridos.
+
+↓
+
+Porque el marido es cabeza.
+
+↓
+
+Así como Cristo es cabeza de la iglesia.
+
+↓
+
+Maridos
+↓
+Amen a sus mujeres.
+
+↓
+
+Así como Cristo amó a la iglesia.
+
+↓
+
+Se entregó por ella.
+
+↓
+
+La santifica.
+
+↓
+
+La purifica.
+
+↓
+
+La presentará gloriosa.
+
+↓
+
+Por esto...
+(Génesis 2:24)
+
+↓
+
+Grande es este misterio.
+
+↓
+
+Cristo y la iglesia.
+
+↓
+
+En todo caso...
+
+Cada marido ame a su mujer.
+
+Cada mujer respete a su marido.
+```
+
+### El flujo del argumento
+
+##### Pablo comienza con el matrimonio humano.
+
+##### Muy pronto dirige la atención hacia una realidad mucho mayor: Cristo y la iglesia.
+
+##### Toda la explicación acerca del matrimonio sirve para revelar ese misterio.
+
+##### Finalmente vuelve al matrimonio.
+
+##### El esposo y la esposa viven su relación a la luz de la realidad más grande: Cristo ama a Su iglesia y la iglesia responde a Cristo.
+
+##### El matrimonio no reemplaza el evangelio.
+
+##### Más bien, el evangelio da significado al matrimonio.
 
 ## Efesios 6:1-3 – Instrucciones para los hijos en el Señor.
 
