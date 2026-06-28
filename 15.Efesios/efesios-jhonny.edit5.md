@@ -5053,21 +5053,22 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ## Efesios 4:25-5:2 – Nueve Instrucciones según el nuevo hombre en Justicia y Santidad.
 
-### Efesios 4:25-32 – ***Por tanto*** da la continuidad a la enseñanza previa de la verdad que es real en Jesús. Estos mandamientos vienen de acuerdo con la comprensión de la nueva identidad que tenemos en Cristo, ya que el nuevo hombre ha sido creado en semejanza de Dios en justicia y santidad de la verdad.
+##### ***Por tanto*** da la continuidad a la enseñanza previa de la verdad que es real en Jesús. Estos mandamientos vienen de acuerdo con la comprensión de la nueva identidad que tenemos en Cristo, ya que el nuevo hombre ha sido creado en semejanza de Dios en justicia y santidad de la verdad.
 
-### Las siguientes nueve instrucciones que vienen con mandamientos, están alineadas con la nueva identidad en Cristo. Efesios 4 tiene once verbos imperativos desde el versículo 25 a 32
+##### Las siguientes nueve instrucciones que vienen con mandamientos, están alineadas con la nueva identidad en Cristo. Efesios 4 tiene once verbos imperativos desde el versículo 25 a 32
 
-### Efesios 4:25 – **Instrucción \#1 –** *Por tanto, dejando a un lado la falsedad, HABLEN VERDAD CADA CUAL CON SU PRÓJIMO, porque somos miembros los unos de los otros.* 
+##### **Instrucción #1 **
+### Efesios 4:25
+Por tanto, dejando a un lado la falsedad, HABLEN VERDAD CADA CUAL CON SU PRÓJIMO, porque somos miembros los unos de los otros.
+#### *Por tanto,* 
+##### aquí continua el argumento.
 
-#### Estando vestidos del nuevo hombre en justicia y santidad de la verdad 
-##### *Por tanto,* aquí continua el argumento.
-
-#### Por tanto, dejando a un lado la falsedad”,* 
+#### dejando a un lado la falsedad”,* 
 ##### … El participio dejando a un lado puede ser desechando las mentiras o falsedades, cosas que estorban en nuestro caminar.
 
 ##### Pablo no está diciendo dejen de ser mentirosos, sino dejando a un lado la mentira o falsedad. Ahora son nuevos en <u>Cristo</u>.
 
-#### HABLEN VERDAD CADA CUAL CON SU PRÓJIMO”,* 
+#### HABLEN VERDAD CADA CUAL CON SU PRÓJIMO”,
 ##### … tenemos el primer imperativo, presente, activo, esta es una orden hablen la verdad cada cual con su prójimo.
 
 ##### Esto no solo es decir la <u>verdad</u> una vez sino vivir la verdad en compañía con el prójimo.
@@ -5091,7 +5092,10 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 
 ###### El ojo no puede decir a la mano que levante un montón de <u>brazas</u> o que tome un puñal y lo clave en los pies, sin que esto afecte al resto del cuerpo.
 
-## Efesios 4:26–27 – **Instrucción #2 –** ENÓJENSE, PERO NO PEQUEN; no se ponga el sol sobre su enojo, 27 ni den oportunidad al diablo».*
+##### **Instrucción #2 **
+### Efesios 4:26
+ENÓJENSE, PERO NO PEQUEN; no se ponga el sol sobre su enojo,
+
 
 ##### Esta instrucción contiene cuatro imperativos que desarrollan una sola idea. Pablo reconoce la realidad del enojo, pero inmediatamente establece sus límites. El enojo no debe conducir al pecado, no debe prolongarse y no debe abrir oportunidad al diablo.
 
@@ -5120,6 +5124,8 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 ##### <u>Pablo</u> toma esta expresión del Salmo 4:4 para reforzar su exhortación. El argumento continúa mostrando que el enojo no debe permanecer.
 
 ###### La razón de <u>este</u> mandato aparece inmediatamente en el siguiente versículo.
+### Efesios 4:27
+ni den oportunidad al diablo.
 
 #### ni den oportunidad al diablo.
 
@@ -5136,7 +5142,11 @@ y se vistan del nuevo hombre, el cual, en la semejanza de Dios, ha sido creado e
 - No permitan que el enojo permanezca.
 - No den oportunidad al diablo. 
 
-### Efesios 4:28 – **Instrucción #3 –** El que roba, no robe más, sino más bien trabaje, haciendo con sus manos lo que es bueno, a fin de que tenga qué compartir con el que tiene necesidad.
+##### 
+##### 
+### Efesios 4:28 
+El que roba, no robe más, sino más bien que trabaje, haciendo con sus manos lo que es bueno, a fin de que tenga qué compartir con el que tiene necesidad.
+
 
 ##### Esta instrucción presenta un cambio completo de conducta. Pablo pasa del tomar para uno mismo al trabajar para beneficiar a otros.
 
@@ -6886,7 +6896,7 @@ Las mujeres estén sometidas a sus propios maridos como al Señor.
 
 ##### <u>Literalmente</u> significa:
 
-###### > colocarse bajo un orden establecido.
+###### colocarse bajo un orden establecido.
 
 ##### El término era usado <u>para</u> describir el orden dentro de una estructura.
 
@@ -7037,19 +7047,13 @@ Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia
 ```text
 La esposa:
     sométase...
-
             porque...
-
 el marido
 es cabeza de la mujer
-
             así como
-
 Cristo
 es cabeza de la Iglesia
-
             pero
-
 Cristo mismo
 es el Salvador del cuerpo.
 ```
@@ -7695,9 +7699,7 @@ Así también...
 los maridos deben amar a sus mujeres.
 ```
 
-
-
-#### Efesios 5:28 – Así deben también los maridos amar a sus mujeres.*
+#### Así deben también los maridos amar a sus mujeres.*
 
 ##### El verbo **ὀφείλουσιν** ("deben") <u>está</u> en **presente, activo, indicativo**.
 
@@ -7707,7 +7709,7 @@ los maridos deben amar a sus mujeres.
 
 ##### <u>Literalmente</u>:
 
-> **Así también los maridos están obligados a amar a sus propias mujeres.**
+###### **Así también los maridos están obligados a amar a sus propias mujeres.**
 
 ##### El presente <u>indica</u> una obligación permanente, no una responsabilidad ocasional.
 
@@ -7721,7 +7723,7 @@ los maridos deben amar a sus mujeres.
 
 
 
-#### Efesios 5:28 – Como a sus propios cuerpos.*
+#### Como a sus propios cuerpos.*
 
 ##### Pablo introduce <u>ahora</u> una segunda ilustración.
 
@@ -7755,7 +7757,7 @@ los maridos deben amar a sus mujeres.
 
 
 
-#### Efesios 5:28 – El que ama a su mujer, a sí mismo se ama.*
+#### El que ama a su mujer, a sí mismo se ama.*
 
 ##### El <u>verbo</u> **ἀγαπῶν** ("el que ama") está en **presente, activo, participio**.
 
@@ -7775,11 +7777,11 @@ los maridos deben amar a sus mujeres.
 
 ##### Pablo no <u>dice</u> primero:
 
-> "El que se ama a sí mismo ama a su mujer."
+###### "El que se ama a sí mismo ama a su mujer."
 
-##### <u>Dice</u> exactamente lo contrario.
+###### <u>Dice</u> exactamente lo contrario.
 
-> "El que ama a su mujer, a sí mismo se ama."
+###### "El que ama a su mujer, a sí mismo se ama."
 
 ##### El énfasis permanece sobre el amor <u>hacia</u> la esposa.
 
@@ -7789,9 +7791,10 @@ los maridos deben amar a sus mujeres.
 
 ##### Pablo demostrará que amar a la esposa resulta equivalente a cuidar el propio <u>cuerpo</u>, porque ambos forman una sola carne.
 
-### Efesios 5:29 – Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como también Cristo a la iglesia.
+### Efesios 5:29 
+Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como también Cristo a la iglesia;
 
-#### Efesios 5:29 comienza con Porque» (γάρ)**.
+##### comienza con Porque» (γάρ).
 
 ##### Pablo presenta ahora la <u>razón</u> de la afirmación del versículo anterior.
 
@@ -7801,11 +7804,11 @@ los maridos deben amar a sus mujeres.
 
 
 
-#### Efesios 5:29 – Porque nadie aborreció jamás su propio cuerpo.*
+#### Porque nadie aborreció jamás su propio cuerpo.
 
 ##### <u>Pablo</u> hace una declaración basada en una realidad evidente.
 
-##### El verbo **ἐμίσησεν** ("aborreció") está en **aoristo, <u>activo</u>, indicativo**.
+##### El verbo **ἐμίσησεν** ("aborreció") está en aoristo, <u>activo</u>, indicativo**.
 
 ##### Presenta el hecho <u>como</u> algo reconocido.
 
@@ -7816,8 +7819,7 @@ los maridos deben amar a sus mujeres.
 ##### Si la esposa forma <u>parte</u> de esa unidad, resulta contrario a la naturaleza odiarla o despreciarla.
 
 
-
-#### Efesios 5:29 – Sino que lo sustenta y lo cuida.*
+#### Sino que lo sustenta y lo cuida.
 
 ##### En lugar de aborrecerlo, toda persona normalmente <u>hace</u> dos cosas con su cuerpo.
 
@@ -7843,9 +7845,7 @@ los maridos deben amar a sus mujeres.
 
 ##### Las utiliza como evidencia de que nadie <u>trata</u> su cuerpo con desprecio.
 
-
-
-#### Efesios 5:29 – Así como también Cristo a la iglesia.*
+#### Así como también Cristo a la iglesia.
 
 ##### <u>Pablo</u> vuelve inmediatamente al modelo supremo.
 
@@ -7867,11 +7867,12 @@ los maridos deben amar a sus mujeres.
 
 ##### En el siguiente versículo Pablo <u>dará</u> la razón definitiva de esta comparación.
 
-> **Porque somos miembros de Su cuerpo.**
+###### **Porque somos miembros de Su cuerpo.**
 
-### Efesios 5:30 – Porque somos miembros de Su cuerpo.
+### Efesios 5:30 
+porque somos miembros de Su cuerpo.
 
-#### Efesios 5:30 comienza con Porque» (γάρ)**.
+##### comienza con Porque» (γάρ)**.
 
 ##### Pablo da ahora la <u>razón</u> de la afirmación del versículo anterior.
 
@@ -7883,7 +7884,7 @@ los maridos deben amar a sus mujeres.
 
 
 
-#### Efesios 5:30 – Porque somos miembros de Su cuerpo.*
+#### Porque somos miembros de Su cuerpo.
 
 ##### El verbo **ἐσμέν** ("somos") está en **presente, indicativo, primera persona <u>plural</u>**.
 
@@ -7902,8 +7903,7 @@ los maridos deben amar a sus mujeres.
 ##### Cristo mantiene una relación con todo el cuerpo y, al <u>mismo</u> tiempo, con cada uno de sus miembros.
 
 
-
-#### El argumento de Pablo continúa avanzando.
+##### El argumento de Pablo continúa avanzando.
 
 ##### <u>Cristo</u> no sustenta ni cuida a la Iglesia simplemente porque decidió hacerlo.
 
@@ -7919,29 +7919,19 @@ los maridos deben amar a sus mujeres.
 
 
 
-#### Observe cómo progresa el argumento.
+##### Observe cómo progresa el argumento.
 
 ```text
 Ama a la Iglesia.
-
 ↓
-
 La sustenta.
-
 ↓
-
 La cuida.
-
 ↓
-
 Porque somos miembros de Su cuerpo.
-
 ↓
-
 Por esta razón...
-
 ↓
-
 Los dos serán una sola carne.
 ```
 
@@ -7949,9 +7939,10 @@ Los dos serán una sola carne.
 
 ##### El siguiente versículo mostrará que esta unidad ya había <u>sido</u> anunciada desde el principio en las Escrituras mediante el matrimonio.
 
-### Efesios 5:31 – POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE. (Génesis 2:24)
+##### Efesios 5:31 
+– POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE. (Génesis 2:24)
 
-#### Efesios 5:31 cita directamente Génesis 2:24.
+##### Efesios 5:31 cita directamente Génesis 2:24.
 
 ##### Pablo no introduce una <u>idea</u> nueva.
 
@@ -7961,7 +7952,7 @@ Los dos serán una sola carne.
 
 
 
-#### Efesios 5:31 – Por esto el hombre dejará a su padre y a su madre.*
+#### Por esto el hombre dejará a su padre y a su madre.
 
 ##### El verbo **καταλείψει** ("dejará") está en **futuro, <u>activo</u>, indicativo**.
 
@@ -7981,15 +7972,15 @@ Los dos serán una sola carne.
 
 
 
-#### Efesios 5:31 – Y se unirá a su mujer.*
+#### Y se unirá a su mujer.
 
 ##### El <u>verbo</u> **προσκολληθήσεται** está en **futuro, pasivo, indicativo**.
 
 ##### <u>Literalmente</u> significa:
 
-> pegarse,
-> adherirse,
-> unirse estrechamente.
+###### pegarse,
+###### adherirse,
+###### unirse estrechamente.
 
 ##### El verbo comunica una unión <u>firme</u> y permanente.
 
@@ -8001,27 +7992,21 @@ Los dos serán una sola carne.
 
 ##### Jesús utiliza este mismo texto <u>para</u> concluir:
 
-> Lo que Dios unió, no lo separe el hombre.*
+###### Lo que Dios unió, no lo separe el hombre.
 
 ##### La secuencia permanece <u>inalterable</u>.
 
 ```text
 Dejar
-
 ↓
-
 Unirse
-
 ↓
-
 Ser una sola carne
 ```
 
 ##### <u>Cada</u> paso prepara el siguiente.
 
-
-
-#### Efesios 5:31 – Y los dos serán una sola carne.*
+#### Y los dos serán una sola carne.
 
 ##### El <u>verbo</u> **ἔσονται** ("serán") también está en **futuro, indicativo**.
 
@@ -8041,39 +8026,23 @@ Ser una sola carne
 
 ##### Constituyen una sola <u>carne</u>.
 
-
-
-#### Observe cómo Pablo desarrolla el argumento.
+##### Observe cómo Pablo desarrolla el argumento.
 
 ```text
 Cristo ama a la Iglesia.
-
 ↓
-
 La sustenta.
-
 ↓
-
 La cuida.
-
 ↓
-
 Porque somos miembros de Su cuerpo.
-
 ↓
-
 Por esta razón...
-
 ↓
-
 El hombre deja.
-
 ↓
-
 Se une.
-
 ↓
-
 Los dos llegan a ser una sola carne.
 ```
 
@@ -8083,9 +8052,10 @@ Los dos llegan a ser una sola carne.
 
 ##### <u>Allí</u> revelará el verdadero alcance de esta cita.
 
-### Efesios 5:32 – Grande es este misterio, pero yo hablo con referencia a Cristo y a la iglesia.
+### Efesios 5:32 
+Grande es este misterio, pero hablo con referencia a Cristo y a la iglesia.
 
-#### Efesios 5:32 constituye el punto culminante de toda la explicación iniciada en el versículo 22.
+##### Efesios 5:32 constituye el punto culminante de toda la explicación iniciada en el versículo 22.
 
 ##### <u>Pablo</u> ha hablado del matrimonio.
 
@@ -8097,9 +8067,7 @@ Los dos llegan a ser una sola carne.
 
 ##### Ahora revela el verdadero alcance de <u>todo</u> ese argumento.
 
-
-
-#### Efesios 5:32 – Grande es este misterio.*
+#### Grande es este misterio.
 
 ##### El <u>verbo</u> **ἐστίν** ("es") está en **presente, indicativo**.
 
@@ -8119,9 +8087,7 @@ Los dos llegan a ser una sola carne.
 
 ##### Ahora, por medio del evangelio, Dios revela aquello <u>hacia</u> lo cual apuntaban desde el principio.
 
-
-
-#### Efesios 5:32 – Pero yo hablo con referencia a Cristo y a la iglesia.*
+#### Pero yo hablo con referencia a Cristo y a la iglesia.
 
 ##### La conjunción **δέ** marca un <u>giro</u> decisivo en el argumento.
 
@@ -8139,51 +8105,29 @@ Los dos llegan a ser una sola carne.
 
 ##### La unión <u>entre</u> el hombre y la mujer encuentra su significado más profundo en la unión entre Cristo y Su Iglesia.
 
-
-
-#### Observe el desarrollo del argumento.
+##### Observe el desarrollo del argumento.
 
 ```text
 Cristo amó.
-
 ↓
-
 Se entregó.
-
 ↓
-
 Santificó.
-
 ↓
-
 Purificó.
-
 ↓
-
 Presentará a Su Iglesia.
-
 ↓
-
 La sustenta.
-
 ↓
-
 La cuida.
-
 ↓
-
 Somos miembros de Su cuerpo.
-
 ↓
-
 Los dos serán una sola carne.
-
 ↓
-
 Grande es este misterio.
-
 ↓
-
 Hablo con referencia a Cristo y a la Iglesia.
 ```
 
@@ -8195,13 +8139,14 @@ Hablo con referencia a Cristo y a la Iglesia.
 
 ##### Pero ahora se entiende a la luz de una realidad aún mayor: la unión <u>entre</u> Cristo y Su Iglesia.
 
-## Efesios 5:33 – En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y que la mujer respete a su marido».*
+### Efesios 5:33 
+En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y que la mujer respete a su marido.
 
-### Efesios 5:33 – Pablo concluye la enseñanza volviendo al matrimonio después de revelar el gran misterio de Cristo y la iglesia.
+### Pablo concluye la enseñanza volviendo al matrimonio después de revelar el gran misterio de Cristo y la iglesia.
 
-#### Efesios 5:33 – En todo caso...
+#### En todo caso...
 
-##### La conjunción **πλήν** ("sin embargo", "en <u>todo</u> caso", "no obstante") introduce la conclusión práctica de toda la sección.
+##### La conjunción πλήν ("sin embargo", "en <u>todo</u> caso", "no obstante") introduce la conclusión práctica de toda la sección.
 
 ##### Después de explicar el misterio de Cristo y la iglesia, <u>Pablo</u> vuelve a las responsabilidades del esposo y de la esposa.
 
@@ -8209,13 +8154,11 @@ Hablo con referencia a Cristo y a la Iglesia.
 
 ##### Más <u>bien</u>, les da su fundamento y su verdadero significado.
 
-
-
-#### Efesios 5:33 – cada uno de ustedes ame también a su mujer como a sí mismo.
+#### cada uno de ustedes ame también a su mujer como a sí mismo.
 
 ##### Pablo <u>retoma</u> el mandato dado en el versículo 25.
 
-##### El <u>verbo</u> **ἀγαπάτω** está en **presente, activo, imperativo**, indicando una acción continua y permanente.
+##### El <u>verbo</u> ἀγαπάτω está en presente, activo, imperativo, indicando una acción continua y permanente.
 
 ##### El <u>marido</u> no recibe un nuevo mandamiento.
 
@@ -8225,13 +8168,11 @@ Hablo con referencia a Cristo y a la Iglesia.
 
 ##### Amar a la esposa significa buscar continuamente su bien, siguiendo el <u>modelo</u> de Cristo.
 
-
-
-#### Efesios 5:33 – y que la mujer respete a su marido.
+#### y que la mujer respete a su marido.
 
 ##### <u>Pablo</u> concluye retomando la instrucción dirigida a la esposa.
 
-##### El verbo **φοβῆται** <u>está</u> en **presente, voz media, subjuntivo**, expresando la respuesta esperada dentro de esta exhortación.
+##### El verbo φοβῆται <u>está</u> en presente, voz media, subjuntivo, expresando la respuesta esperada dentro de esta exhortación.
 
 ##### No describe un temor <u>servil</u>.
 
@@ -8242,8 +8183,6 @@ Hablo con referencia a Cristo y a la Iglesia.
 ##### <u>Pablo</u> no desarrolla un nuevo argumento.
 
 ##### <u>Resume</u> la enseñanza iniciada en el versículo 22.
-
-
 
 ## Observación
 
@@ -8272,8 +8211,7 @@ La purifica.
 		↓
 La presentará gloriosa.
 		↓
-Por esto...
-(Génesis 2:24)
+Por esto...(Génesis 2:24)
 		↓
 Grande es este misterio.
 		↓
@@ -8304,48 +8242,43 @@ Cada mujer respete a su marido.
 
 ## Efesios 6:1–3 – Instrucciones para los hijos en el Señor
 
-### Efesios 6:1–3 – Pablo continúa desarrollando cómo se expresa la sumisión mutua producida por la llenura del Espíritu.
+##### Pablo continúa desarrollando cómo se expresa la sumisión mutua producida por la llenura del Espíritu.
 
-#### La exhortación comenzó en Efesios 5:18 con el mandato: sean llenos del Espíritu*.
+##### La exhortación comenzó en Efesios 5:18 con el mandato: sean llenos del Espíritu*.
 
-#### Los cinco participios que siguen (hablando, cantando, dando gracias y sometiéndose) dependen de ese mandato principal.
+##### Los cinco participios que siguen (hablando, cantando, dando gracias y sometiéndose) dependen de ese mandato principal.
 
-#### A partir de Efesios 5:22 Pablo muestra cómo esa actitud de sumisión se expresa en tres relaciones del hogar:
-
+##### A partir de Efesios 5:22 Pablo muestra cómo esa actitud de sumisión se expresa en tres relaciones del hogar:
 - esposas y maridos;
 - hijos y padres;
 - siervos y amos.
 
-#### Ahora dirige la atención a los hijos creyentes.
+##### Ahora dirige la atención a los hijos creyentes.
 
+### Efesios 6:1 
+Hijos, obedezcan a sus padres en el Señor, porque esto es justo.
 
-
-### Efesios 6:1 – Hijos, obedezcan a sus padres en el Señor, porque esto es justo.
-
-#### Efesios 6:1 – Hijos...
+#### Hijos...
 
 ##### Pablo ahora se dirige directamente a los <u>hijos</u> dentro de la iglesia.
 
-##### El sustantivo **τὰ τέκνα (ta tekna)** <u>lleva</u> artículo y está en plural neutro.
+##### El sustantivo τὰ τέκνα (ta tekna) <u>lleva</u> artículo y está en plural neutro.
 
-##### El término **τέκνα** describe a los <u>hijos</u> de una familia, sin distinguir entre hijos e hijas.
+##### El término τέκνα describe a los <u>hijos</u> de una familia, sin distinguir entre hijos e hijas.
 
 ##### El mandato, por tanto, alcanza a todos los <u>hijos</u> creyentes.
 
+#### obedezcan a sus padres...
 
-
-#### Efesios 6:1 – obedezcan a sus padres...
-
-##### El verbo **ὑπακούετε (hypakouete)** está en **presente, <u>activo</u>, imperativo**.
+##### El verbo ὑπακούετε (hypakouete) está en presente, <u>activo</u>, imperativo.
 
 ##### El tiempo presente comunica una obediencia continua como <u>forma</u> habitual de vivir.
 
 ##### La voz <u>activa</u> muestra que el hijo responde voluntariamente al mandato.
 
 ##### El <u>verbo</u> proviene de:
-
-- **ὑπό** = debajo.
-- **ἀκούω** = oír.
+- ὑπό = debajo.
+- ἀκούω = oír.
 
 ##### La idea es **escuchar <u>desde</u> una posición de sujeción**, con la disposición de obedecer.
 
@@ -8353,27 +8286,27 @@ Cada mujer respete a su marido.
 
 ##### <u>Manda</u> a escuchar con el propósito de obedecer.
 
-#### Efesios 6:1 – a sus padres...
+#### a sus padres...
 
-##### El sustantivo **γονεῦσιν (<u>goneusin</u>)** significa **progenitores**.
+##### El sustantivo γονεῦσιν (<u>goneusin</u>) significa progenitores.
 
 ##### La obediencia es dirigida tanto al padre como a la <u>madre</u>.
 
 ##### Pablo mantiene el orden establecido por <u>Dios</u> para la familia.
 
-#### Efesios 6:1 – en el Señor.
+#### en el Señor.
 
-##### La expresión **ἐν Κυρίῳ (en <u>Kyri</u>ō)** modifica el mandato de obedecer.
+##### La expresión ἐν Κυρίῳ (en <u>Kyri</u>ō) modifica el mandato de obedecer.
 
 ##### La preposición **ἐν** con dativo señala la esfera dentro de la cual <u>debe</u> ejercerse esa obediencia.
 
 ##### No <u>significa</u>:
 
-> "si los padres son creyentes."
+###### "si los padres son creyentes."
 
-##### <u>Significa</u>:
+###### Significa:
 
-> "obedecer dentro del ámbito de la autoridad del Señor."
+###### "obedecer dentro del ámbito de la autoridad del Señor."
 
 ##### Cristo continúa <u>siendo</u> la autoridad suprema.
 
@@ -8381,11 +8314,11 @@ Cada mujer respete a su marido.
 
 ##### Así, la obediencia a los padres nunca <u>queda</u> separada de la obediencia a Cristo.
 
-#### Efesios 6:1 – porque esto es justo.
+#### porque esto es justo.
 
 ##### Pablo termina dando la <u>razón</u> del mandato.
 
-##### El adjetivo **δίκαιον (dikaion)** significa **justo**, **correcto**, **conforme al <u>orden</u> establecido por Dios**.
+##### El adjetivo δίκαιον (dikaion) significa **justo**, **correcto**, **conforme al <u>orden</u> establecido por Dios**.
 
 ##### La obediencia no se presenta como una <u>simple</u> tradición familiar.
 
@@ -8393,19 +8326,20 @@ Cada mujer respete a su marido.
 
 ##### Este fundamento prepara la cita del <u>quinto</u> mandamiento en los versículos siguientes.
 
-### Efesios 6:2 – HONRA A TU PADRE Y A TU MADRE (que es el primer mandamiento con promesa).
+### Efesios 6:2 
+HONRA A TU PADRE Y A tu MADRE (que es el primer mandamiento con promesa),
 
-#### Efesios 6:2 – HONRA A TU PADRE Y A TU MADRE.
+#### HONRA A TU PADRE Y A TU MADRE.
 
-##### Pablo ahora cita directamente **<u>Éxodo</u> 20:12**.
+##### Pablo ahora cita directamente Éxodo 20:12.
 
-##### La <u>cita</u> sirve como fundamento para la afirmación del versículo anterior: porque esto es justo.*
+##### La <u>cita</u> sirve como fundamento para la afirmación del versículo anterior: porque esto es justo.
 
 ##### La obediencia de los hijos no es una idea <u>nueva</u> del Nuevo Testamento.
 
 ##### Forma <u>parte</u> del orden que Dios estableció desde el principio.
 
-##### El <u>verbo</u> **τίμα (tima)** está en **presente, activo, imperativo**.
+##### El <u>verbo</u> τίμα (tima) está en presente, activo, imperativo.
 
 ##### El <u>tiempo</u> presente comunica una actitud continua de honra.
 
@@ -8417,7 +8351,7 @@ Cada mujer respete a su marido.
 
 ##### Ahora <u>dirige</u> la atención hacia el principio bíblico de la honra.
 
-#### Efesios 6:2 – que es el primer mandamiento con promesa.
+#### que es el primer mandamiento con promesa.
 
 ##### Pablo añade una observación acerca del mandamiento que <u>acaba</u> de citar.
 
@@ -8425,22 +8359,22 @@ Cada mujer respete a su marido.
 
 ##### Tampoco significa que los demás mandamientos no <u>sean</u> importantes.
 
-##### La expresión <u>primer</u> mandamiento con promesa* destaca que este es el primero de los Diez Mandamientos que lleva una promesa explícita asociada a su obediencia.
+##### La expresión <u>primer</u> mandamiento con promesa destaca que este es el primero de los Diez Mandamientos que lleva una promesa explícita asociada a su obediencia.
 
 ##### <u>Pablo</u> prepara así al lector para la promesa que citará en el versículo siguiente.
 
 ##### La promesa <u>consta</u> de dos partes:
+- "para que te vaya bien";
+- "y para que tengas larga vida sobre la tierra".
 
-- «para que te vaya bien»;
-- «y para que tengas larga vida sobre la tierra».
+### Efesios 6:3 
+PARA QUE TE VAYA BIEN, Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.
 
-### Efesios 6:3 – PARA QUE TE VAYA BIEN, Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.
+#### PARA QUE TE VAYA BIEN.
 
-#### Efesios 6:3 – PARA QUE TE VAYA BIEN.
+##### Pablo continúa citando Éxodo 20:12, presentando la primera <u>parte</u> de la promesa asociada al mandamiento de honrar a los padres.
 
-##### Pablo continúa citando **Éxodo 20:12**, presentando la primera <u>parte</u> de la promesa asociada al mandamiento de honrar a los padres.
-
-##### La conjunción **ἵνα (<u>hina</u>)** introduce el propósito o resultado esperado de la promesa.
+##### La conjunción ἵνα (<u>hina</u>) introduce el propósito o resultado esperado de la promesa.
 
 ##### El verbo está en **subjuntivo**, no <u>porque</u> Pablo exprese duda, sino porque depende de **ἵνα**, que normalmente introduce propósito o resultado.
 
@@ -8450,13 +8384,13 @@ Cada mujer respete a su marido.
 
 ##### Simplemente recuerda que <u>Dios</u> vinculó una bendición al mandamiento de honrar a los padres.
 
-#### Efesios 6:3 – Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.
+#### Y PARA QUE TENGAS LARGA VIDA SOBRE LA TIERRA.
 
 ##### <u>Esta</u> es la segunda parte de la promesa.
 
-##### El <u>verbo</u> también está en **subjuntivo**, nuevamente gobernado por la conjunción **ἵνα**.
+##### El <u>verbo</u> también está en subjuntivo, nuevamente gobernado por la conjunción ἵνα.
 
-##### La expresión sobre la <u>tierra</u>* proviene de la cita del Antiguo Testamento.
+##### La expresión sobre la <u>tierra</u> proviene de la cita del Antiguo Testamento.
 
 ##### Pablo conserva la promesa tal <u>como</u> aparece en la Escritura.
 
@@ -8490,11 +8424,12 @@ Y para que tengas larga vida sobre la tierra.
 
 ## Efesios 6:4 – Instrucciones para los padres en el Señor
 
-### Efesios 6:4 – Pablo ahora dirige la atención a los padres, mostrando dos mandamientos que describen cómo debe ejercerse la autoridad dentro del hogar.
+##### Pablo ahora dirige la atención a los padres, mostrando dos mandamientos que describen cómo debe ejercerse la autoridad dentro del hogar.
 
-### Efesios 6:4 – Y ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina e instrucción del Señor.
+### Efesios 6:4 
+Y ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina e instrucción del Señor.
 
-#### El versículo está construido sobre dos imperativos en contraste.
+##### El versículo está construido sobre dos imperativos en contraste.
 
 ```text
 No provoquen...
@@ -8508,22 +8443,21 @@ Críenlos...
 
 ##### Después presenta la <u>manera</u> correcta.
 
-#### Efesios 6:4 – Y ustedes, padres...
+#### Y ustedes, padres...
 
 ##### Pablo se dirige <u>ahora</u> a los padres creyentes.
 
 ##### Después de hablar a los hijos, ahora habla a quienes ejercen la autoridad <u>dentro</u> del hogar.
 
-#### Efesios 6:4 – no provoquen a ira a sus hijos.
+#### no provoquen a ira a sus hijos.
 
-##### El <u>verbo</u> **παροργίζετε (parorgizete)** está en **presente, activo, imperativo**.
+##### El <u>verbo</u> παροργίζετε (parorgizete) está en presente, activo, imperativo.
 
-##### La negación **μή** con un imperativo presente normalmente comunica la idea de dejar de realizar una <u>acción</u> o no continuar practicándola.
+##### La negación μή con un imperativo presente normalmente comunica la idea de dejar de realizar una <u>acción</u> o no continuar practicándola.
 
 ##### El <u>verbo</u> proviene de:
-
-- **παρά** = junto a.
-- **ὀργίζω** = irritar, provocar a ira.
+- παρά = junto a.
+- ὀργίζω = irritar, provocar a ira.
 
 ##### La idea es provocar repetidamente <u>hasta</u> despertar ira, resentimiento o exasperación.
 
@@ -8531,16 +8465,15 @@ Críenlos...
 
 ##### Solamente prohíbe esa forma de <u>tratar</u> a los hijos.
 
-#### Efesios 6:4 – sino críenlos...
+#### sino críenlos...
 
-##### El verbo **ἐκτρέφετε (ektrephete)** <u>está</u> en **presente, activo, imperativo**.
+##### El verbo ἐκτρέφετε (ektrephete) <u>está</u> en presente, activo, imperativo.
 
 ##### El <u>tiempo</u> presente comunica una responsabilidad continua.
 
 ##### El <u>verbo</u> proviene de:
-
-- **ἐκ** = completamente.
-- **τρέφω** = alimentar, nutrir, criar.
+- ἐκ = completamente.
+- τρέφω = alimentar, nutrir, criar.
 
 ##### Describe el cuidado continuo que <u>lleva</u> al crecimiento y la madurez.
 
@@ -8550,29 +8483,27 @@ Críenlos...
 
 ##### <u>Deben</u> edificar mediante la crianza.
 
-#### Efesios 6:4 – en disciplina e instrucción del Señor.
+#### en disciplina e instrucción del Señor.
 
-##### La preposición **ἐν** introduce el <u>ámbito</u> o medio en que debe desarrollarse esa crianza.
+##### La preposición ἐν introduce el <u>ámbito</u> o medio en que debe desarrollarse esa crianza.
 
-##### Los dos sustantivos aparecen unidos por **καί**, formando una <u>sola</u> idea.
+##### Los dos sustantivos aparecen unidos por καί, formando una <u>sola</u> idea.
 
-##### Ambos <u>quedan</u> modificados por la expresión del Señor*.
+##### Ambos <u>quedan</u> modificados por la expresión del Señor.
 
 ##### Pablo no <u>dice</u> simplemente:
-
 - disciplina;
 - instrucción.
 
 ##### <u>Dice</u>:
-
-- disciplina **del Señor**;
-- instrucción **del Señor**.
+- disciplina del Señor;
+- instrucción del Señor.
 
 ##### Es el Señor <u>quien</u> define el carácter de ambas.
 
-#### «Disciplina»
+#### Disciplina
 
-##### El sustantivo **παιδεία (paideia)** describe la formación integral de un <u>hijo</u>.
+##### El sustantivo παιδεία (paideia) describe la formación integral de un <u>hijo</u>.
 
 ##### Incluye educación, corrección, entrenamiento y desarrollo <u>hacia</u> la madurez.
 
@@ -8580,18 +8511,17 @@ Críenlos...
 
 ##### Su propósito es <u>formar</u>.
 
-#### «Instrucción»
+#### Instrucción
 
-##### El sustantivo **νουθεσία (nouthesia)** <u>proviene</u> de:
-
-- **νοῦς** = mente.
-- **τίθημι** = poner.
+##### El sustantivo νουθεσία (nouthesia) <u>proviene</u> de:
+- νοῦς = mente.
+- τίθημι = poner.
 
 ##### Describe la enseñanza que <u>corrige</u> el pensamiento mediante la exhortación, la advertencia y la instrucción.
 
 ##### El énfasis recae en dirigir la <u>mente</u> hacia lo correcto.
 
-### Observación
+##### Observación
 
 ##### El desarrollo del versículo es sencillo y <u>progresivo</u>.
 
@@ -8617,7 +8547,8 @@ Y en instrucción del Señor.
 
 ### Efesios 6:5–8 – Pablo ahora dirige sus instrucciones a los siervos creyentes. Aunque el contexto inmediato es la esclavitud del mundo grecorromano, los principios presentados también describen la manera en que un creyente debe servir bajo cualquier autoridad humana.
 
-### Efesios 6:5 – Siervos, obedezcan a sus amos según la carne, con temor y temblor, con sinceridad de su corazón, como a Cristo.
+### Efesios 6:5
+Siervos, obedezcan a sus amos según la carne, con temor y temblor, con sinceridad de su corazón, como a Cristo.
 
 #### Pablo continúa desarrollando la sumisión dentro de las relaciones humanas.
 
@@ -8625,9 +8556,9 @@ Y en instrucción del Señor.
 
 ##### El énfasis no está en cambiar la estructura social, sino en <u>cómo</u> debe vivir el creyente dentro de ella.
 
-#### Efesios 6:5 – Siervos...
+#### Siervos...
 
-##### El sustantivo **δοῦλοι (<u>douloi</u>)** significa siervos o esclavos.
+##### El sustantivo δοῦλοι (<u>douloi</u>) significa siervos o esclavos.
 
 ##### En el <u>mundo</u> grecorromano muchos hogares funcionaban mediante esclavos.
 
@@ -8635,16 +8566,15 @@ Y en instrucción del Señor.
 
 ##### Los principios del <u>pasaje</u> siguen siendo aplicables hoy a cualquier creyente que sirve bajo autoridad humana.
 
-#### Efesios 6:5 – obedezcan a sus amos según la carne...
+#### obedezcan a sus amos según la carne...
 
 ##### El imperativo **ὑπακούετε (hypakouete)** <u>está</u> en **presente, activo, imperativo**.
 
 ##### El <u>tiempo</u> presente describe una obediencia continua.
 
 ##### El <u>verbo</u> proviene de:
-
-- **ὑπό** = bajo.
-- **ἀκούω** = escuchar.
+- ὑπό = bajo.
+- ἀκούω = escuchar.
 
 ##### Literalmente comunica la idea de escuchar <u>bajo</u> autoridad.
 
@@ -8657,7 +8587,6 @@ Y en instrucción del Señor.
 ##### Literalmente el texto dice los señores según la <u>carne</u>*.
 
 ##### Pablo distingue cuidadosamente <u>entre</u>:
-
 - los señores terrenales;
 - el Señor celestial.
 
@@ -8675,19 +8604,19 @@ Y en instrucción del Señor.
 
 #### con sinceridad de su corazón...
 
-##### El sustantivo **ἁπλότης (haplotēs)** comunica sencillez, integridad o ausencia de <u>doblez</u>.
+##### El sustantivo ἁπλότης (haplotēs) comunica sencillez, integridad o ausencia de <u>doblez</u>.
 
 ##### El servicio no <u>debe</u> ser fingido.
 
 ##### Pablo <u>pide</u> una obediencia que nace de un corazón íntegro.
 
-#### Efesios 6:5 – como a Cristo.
+#### como a Cristo.
 
 ##### <u>Aquí</u> aparece el verdadero fundamento del mandato.
 
 ##### <u>Pablo</u> no dice que el amo sea Cristo.
 
-##### Dice que el creyente debe servir **<u>como</u> si estuviera sirviendo a Cristo**.
+##### Dice que el creyente debe servir <u>como</u> si estuviera sirviendo a Cristo.
 
 ##### Esta expresión gobernará <u>todo</u> el desarrollo de los versículos siguientes.
 
@@ -8713,26 +8642,26 @@ Como a Cristo
 
 ##### Por eso Pablo continuará desarrollando esta misma <u>idea</u> en los versículos 6–8, donde repetirá varias veces que el servicio del creyente es, en realidad, para el Señor.
 
-### Efesios 6:6 – no para ser vistos, como los que quieren agradar a los hombres, sino como siervos de Cristo, haciendo de corazón la voluntad de Dios».*
+### Efesios 6:6
+no para ser vistos, como los que quieren agradar a los hombres, sino como siervos de Cristo, haciendo de corazón la voluntad de Dios.
 
-#### Efesios 6:6 – no para ser vistos...
+#### no para ser vistos...
 
 ##### <u>Pablo</u> comienza con un contraste respecto al versículo anterior.
 
 ##### La obediencia cristiana no depende de que alguien <u>esté</u> observando.
 
-##### La expresión <u>griega</u> **μὴ κατ᾽ ὀφθαλμοδουλίαν (mē kat' ophthalmodoulian)** significa literalmente no con servicio al ojo*.
+##### La expresión <u>griega</u> μὴ κατ᾽ ὀφθαλμοδουλίαν (mē kat' ophthalmodoulian) significa literalmente no con servicio al ojo.
 
 ##### Es una palabra <u>compuesta</u>:
-
-- **ὀφθαλμός** = ojo.
-- **δουλεία** = servicio o esclavitud.
+- ὀφθαλμός = ojo.
+- δουλεία = servicio o esclavitud.
 
 ##### La idea es servir únicamente <u>cuando</u> el amo está mirando.
 
 ##### <u>Pablo</u> rechaza esa clase de servicio.
 
-#### Efesios 6:6 – como los que quieren agradar a los hombres...
+#### como los que quieren agradar a los hombres...
 
 ##### El creyente no debe servir buscando únicamente la aprobación <u>humana</u>.
 
@@ -8758,13 +8687,13 @@ Como a Cristo
 
 ##### Esta <u>misma</u> verdad aparecerá nuevamente en los versículos 7 y 8.
 
-#### Efesios 6:6 – haciendo de corazón la voluntad de Dios.
+#### haciendo de corazón la voluntad de Dios.
 
 ##### El participio **ποιοῦντες (poiountes)** depende <u>del</u> mandato principal del versículo 5: obedezcan*.
 
 ##### Mientras obedecen, los creyentes <u>están</u> haciendo la voluntad de Dios.
 
-##### La expresión de corazón* <u>señala</u> la motivación interior.
+##### La expresión de corazón <u>señala</u> la motivación interior.
 
 ##### <u>Pablo</u> no habla simplemente de cumplir órdenes.
 
@@ -8797,17 +8726,17 @@ Sirvan de buena voluntad, como al Señor y no a los hombres,
 
 #### Sirviendo de buena voluntad...
 
-##### El <u>verbo</u> **δουλεύοντες (douleuontes)** está en **participio presente, activo**.
+##### El <u>verbo</u> δουλεύοντες (douleuontes) está en participio presente, activo.
 
-##### <u>Este</u> participio depende del imperativo principal del versículo 5: obedezcan*.
+##### <u>Este</u> participio depende del imperativo principal del versículo 5: obedezcan.
 
 ##### Pablo continúa describiendo la manera en que el creyente <u>debe</u> obedecer a su amo terrenal.
 
 ##### La obediencia cristiana no es <u>pasiva</u> ni forzada.
 
-##### Debe expresarse mediante un servicio realizado **de <u>buena</u> voluntad**.
+##### Debe expresarse mediante un servicio realizado de <u>buena</u> voluntad.
 
-##### La expresión griega **μετ᾽ εὐνοίας (met' eunoias)** significa literalmente con buena disposición*, «con buena voluntad» o «con un <u>ánimo</u> favorable».
+##### La expresión griega μετ᾽ εὐνοίας (met' eunoias) significa literalmente con buena disposición*, «con buena voluntad» o «con un <u>ánimo</u> favorable».
 
 ##### Pablo no describe simplemente el trabajo realizado, sino la actitud con la que <u>debe</u> realizarse.
 
@@ -8817,7 +8746,7 @@ Sirvan de buena voluntad, como al Señor y no a los hombres,
 
 ##### El creyente sirve a un amo humano, <u>pero</u> considera que su verdadero servicio pertenece al Señor.
 
-##### La comparación <u>como</u> al Señor* no elimina la autoridad terrenal.
+##### La comparación <u>como</u> al Señor no elimina la autoridad terrenal.
 
 ##### <u>Le</u> da una perspectiva completamente distinta.
 
@@ -8856,9 +8785,9 @@ sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, 
 
 #### sabiendo que...
 
-##### El participio **εἰδότες (eidotes)** proviene del verbo **οἶδα (<u>oida</u>)**, «saber» o «conocer».
+##### El participio εἰδότες (eidotes) proviene del verbo οἶδα (<u>oida</u>), «saber» o «conocer».
 
-##### Está en **participio perfecto, <u>activo</u>**.
+##### Está en participio perfecto, <u>activo</u>.
 
 ##### El <u>perfecto</u> describe un conocimiento adquirido que permanece.
 
@@ -8876,9 +8805,9 @@ sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, 
 
 ##### No <u>limita</u> la recompensa a una clase particular de servicio.
 
-##### Dice literalmente cualquier bien que cada uno <u>haga</u>*.
+##### Dice literalmente cualquier bien que cada uno <u>haga</u>.
 
-##### El énfasis recae <u>sobre</u> **cada uno**.
+##### El énfasis recae <u>sobre</u> cada uno.
 
 ##### Ninguna buena obra realizada para el <u>Señor</u> pasa inadvertida delante de Él.
 
@@ -8886,7 +8815,7 @@ sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, 
 
 #### esto recibirá del Señor.
 
-##### El verbo **κομιεῖται (komieitai)** está en **<u>futuro</u>**.
+##### El verbo κομιεῖται (komieitai) está en <u>futuro</u>.
 
 ##### Pablo hace una declaración <u>segura</u>.
 
@@ -8942,7 +8871,7 @@ Sea siervo o libre
 
 ## Efesios 6:9 – Instrucciones para los amos (jefes) en el Señor.
 
-### Pablo concluye esta sección dirigiéndose ahora a los amos creyentes. Los mismos principios aplican hoy a quienes ejercen autoridad sobre otros, como empleadores, supervisores o jefes.
+##### Pablo concluye esta sección dirigiéndose ahora a los amos creyentes. Los mismos principios aplican hoy a quienes ejercen autoridad sobre otros, como empleadores, supervisores o jefes.
 
 ### Efesios 6:9 
 Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo que el Señor de ellos y de ustedes está en los cielos, y que para Él no hay acepción de personas.
@@ -8953,7 +8882,7 @@ Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo 
 
 ##### Después de instruir a los siervos, dirige la palabra a quienes ejercen autoridad <u>sobre</u> ellos.
 
-##### El imperativo **ποιεῖτε (poieite)** <u>está</u> en **presente, activo**.
+##### El imperativo ποιεῖτε (poieite) <u>está</u> en presente, activo.
 
 ##### Es un mandato <u>continuo</u>.
 
@@ -8973,7 +8902,7 @@ Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo 
 
 ##### <u>El</u> participio **ἀνιέντες (anientes)** significa dejando», «abandonando» o «renunciando*.
 
-##### Depende del mandato principal <u>hagan</u>*.
+##### Depende del mandato principal <u>hagan</u>.
 
 ##### Mientras ejercen autoridad, los <u>amos</u> deben abandonar la intimidación y las amenazas.
 
@@ -8983,9 +8912,9 @@ Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo 
 
 ##### El liderazgo cristiano no se sostiene mediante el temor, sino <u>bajo</u> la autoridad del Señor.
 
-#### Efesios 6:9 – sabiendo que el Señor de ellos y de ustedes está en los cielos.
+#### sabiendo que el Señor de ellos y de ustedes está en los cielos.
 
-##### El participio **εἰδότες (eidotes)** <u>está</u> en **perfecto, activo**.
+##### El participio εἰδότες (eidotes) <u>está</u> en perfecto, activo.
 
 ##### Describe un conocimiento que ya <u>poseen</u> y continúa siendo verdadero.
 
@@ -9013,7 +8942,7 @@ Y ustedes, amos, hagan lo mismo con sus siervos, y dejen las amenazas, sabiendo 
 
 ##### Ambos serán evaluados con la <u>misma</u> justicia.
 
-### Observación
+##### Observación
 
 ##### Pablo termina esta <u>unidad</u> exactamente donde comenzó: con Cristo como centro de toda relación humana.
 
@@ -9051,11 +8980,11 @@ No hay acepción de personas
 
 # Efesios 6:10–18 – Toda la armadura de Dios y la oración perseverante.
 
-### Efesios 6:10–18 – Pablo concluye la parte exhortativa de la carta mostrando cómo el creyente puede permanecer firme en medio del conflicto espiritual. La fuerza no proviene del creyente mismo, sino del Señor.
+##### Efesios 6:10–18 – Pablo concluye la parte exhortativa de la carta mostrando cómo el creyente puede permanecer firme en medio del conflicto espiritual. La fuerza no proviene del creyente mismo, sino del Señor.
 
 ## Efesios 6:10–13 – Fortalecidos en el Señor y revestidos con toda la armadura de Dios.
 
-### Efesios 6:10–13 – La secuencia del argumento es clara:
+##### Efesios 6:10–13 – La secuencia del argumento es clara:
 
 ```text
 Sean fortalecidos
@@ -9067,9 +8996,10 @@ Para poder permanecer firmes
 Porque nuestra lucha...
 ```
 
-### Efesios 6:10 – Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
+### Efesios 6:10
+Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
 
-#### Efesios 6:10 – Por lo demás...
+#### Por lo demás...
 
 ##### <u>Pablo</u> introduce la conclusión de las exhortaciones iniciadas en Efesios 4:1.
 
@@ -9077,7 +9007,7 @@ Porque nuestra lucha...
 
 ##### Lleva toda la enseñanza anterior hacia el conflicto espiritual en el que <u>vive</u> el creyente.
 
-#### Efesios 6:10 – fortalézcanse...
+#### fortalézcanse...
 
 ##### El verbo **ἐνδυναμοῦσθε (endynamousthe)** está en **presente, <u>pasivo</u>, imperativo**.
 
@@ -9097,9 +9027,9 @@ Porque nuestra lucha...
 
 ##### Este verbo aparece nuevamente en otros pasajes paulinos con el mismo énfasis: <u>Dios</u> es quien fortalece al creyente (2 Timoteo 2:1; 4:17).
 
-#### Efesios 6:10 – en el Señor...
+#### en el Señor...
 
-##### La preposición **ἐν (en)** con <u>dativo</u> señala la esfera o la unión en la que ocurre esa fortaleza.
+##### La preposición ἐν (en) con <u>dativo</u> señala la esfera o la unión en la que ocurre esa fortaleza.
 
 ##### La <u>fuerza</u> no procede del creyente.
 
@@ -9113,13 +9043,13 @@ Porque nuestra lucha...
 
 ##### Consiste en depender continuamente de la <u>fuerza</u> que ya pertenece al Señor.
 
-#### Efesios 6:10 – y en el poder de su fuerza.
+#### y en el poder de su fuerza.
 
 ##### Pablo acumula <u>tres</u> palabras relacionadas con el poder.
 
-##### **κράτος (kratos)** — poder manifiesto, dominio, <u>fuerza</u> ejercida.
+##### κράτος (kratos) — poder manifiesto, dominio, <u>fuerza</u> ejercida.
 
-##### **ἰσχύς (ischys)** — <u>fuerza</u>, capacidad o vigor.
+##### ἰσχύς (ischys) — <u>fuerza</u>, capacidad o vigor.
 
 ##### La expresión enfatiza la grandeza del poder <u>divino</u>.
 
@@ -9151,9 +9081,10 @@ Permanece fortalecido en Él
 
 ##### La batalla espiritual comienza dependiendo del poder del <u>Señor</u> y no del esfuerzo humano.
 
-### Efesios 6:11 – Revístanse con toda la armadura de Dios, para que puedan estar firmes contra las insidias del diablo.
+### Efesios 6:11
+Revístanse con toda la armadura de Dios, para que puedan estar firmes contra las insidias del diablo.
 
-#### Efesios 6:11 – Revístanse con toda la armadura de Dios.
+#### Revístanse con toda la armadura de Dios.
 
 ##### Pablo da <u>ahora</u> el segundo mandamiento de esta sección.
 
@@ -9165,7 +9096,7 @@ Permanece fortalecido en Él
 
 ##### Literalmente la <u>idea</u> es:
 
-###### «Vístanse ustedes <u>mismos</u>.»
+###### "Vístanse ustedes <u>mismos</u>."
 
 ##### Pablo no <u>dice</u> que busquen una armadura.
 
@@ -9185,7 +9116,7 @@ Permanece fortalecido en Él
 
 ##### La totalidad de la armadura <u>será</u> desarrollada en los versículos 14–17.
 
-#### Efesios 6:11 – para que puedan estar firmes...
+#### para que puedan estar firmes...
 
 ##### <u>Aquí</u> aparece el propósito del mandato.
 
@@ -9193,7 +9124,7 @@ Permanece fortalecido en Él
 
 ##### Primero <u>explica</u> el propósito de vestirla.
 
-##### El verbo **δύνασθαι (dynasthai)** significa **ser capaces**, **tener poder** o **<u>estar</u> en condiciones de**.
+##### El verbo δύνασθαι (dynasthai) significa ser capaces, tener poder o <u>estar</u> en condiciones de.
 
 ##### La capacidad para permanecer <u>firmes</u> depende de los dos mandamientos anteriores.
 
@@ -9209,7 +9140,7 @@ Para poder permanecer firmes
 
 ##### La capacidad proviene del Señor y de la armadura que Él <u>provee</u>.
 
-#### Efesios 6:11 – estar firmes...
+#### estar firmes...
 
 ##### El <u>verbo</u> **στῆναι (stēnai)** está en **aoristo, infinitivo**.
 
@@ -9225,7 +9156,7 @@ Para poder permanecer firmes
 
 ##### El propósito es no <u>ceder</u> terreno frente a los ataques del enemigo.
 
-#### Efesios 6:11 – contra las insidias del diablo.
+#### contra las insidias del diablo.
 
 ##### La palabra **μεθοδείας (methodeias)** dio origen al término castellano <u>método</u>*.
 
@@ -9263,9 +9194,10 @@ Contra las estrategias del diablo
 
 ##### En los versículos siguientes Pablo explicará por qué <u>esta</u> firmeza es necesaria.
 
-### Efesios 6:12 – Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los gobernantes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestiales.
+### Efesios 6:12
+Porque nuestra lucha no es contra sangre y carne, sino contra principados, contra potestades, contra los gobernantes de este mundo de tinieblas, contra las fuerzas espirituales de maldad en las regiones celestiales.
 
-#### Efesios 6:12 – Porque...
+#### Porque...
 
 ##### Pablo introduce <u>ahora</u> la razón de los dos mandamientos anteriores.
 
@@ -9273,7 +9205,7 @@ Contra las estrategias del diablo
 
 ##### Porque la naturaleza de su conflicto no es <u>humana</u>.
 
-#### Efesios 6:12 – nuestra lucha...
+#### nuestra lucha...
 
 ##### La palabra griega **πάλη (palē)** significa lucha <u>cuerpo</u> a cuerpo o combate cercano.
 
@@ -9285,7 +9217,7 @@ Contra las estrategias del diablo
 
 ##### <u>Esta</u> lucha pertenece a toda la iglesia.
 
-#### Efesios 6:12 – no es contra sangre y carne.
+#### no es contra sangre y carne.
 
 ##### Pablo comienza aclarando qué <u>clase</u> de lucha **no** es.
 
@@ -9297,7 +9229,7 @@ Contra las estrategias del diablo
 
 ##### Significa que detrás del conflicto visible <u>existe</u> una realidad espiritual más profunda.
 
-#### Efesios 6:12 – sino contra...
+#### sino contra...
 
 ##### <u>Pablo</u> presenta ahora el verdadero carácter del conflicto.
 
@@ -9309,19 +9241,19 @@ Contra las estrategias del diablo
 
 ##### El énfasis consiste en mostrar que <u>toda</u> la oposición pertenece al ámbito espiritual.
 
-#### Efesios 6:12 – contra principados.
+#### contra principados.
 
 ##### **ἀρχάς (<u>archas</u>)** significa literalmente principados*, «gobernantes» o «autoridades principales».
 
 ##### Pablo utiliza <u>este</u> término para referirse a poderes espirituales que ejercen autoridad.
 
-#### Efesios 6:12 – contra potestades.
+#### contra potestades.
 
 ##### **ἐξουσίας (exousias)** describe autoridades que ejercen <u>poder</u> o dominio.
 
 ##### <u>Pablo</u> vuelve a señalar que el conflicto ocurre en el ámbito espiritual.
 
-#### Efesios 6:12 – contra los gobernantes de este mundo de tinieblas.
+#### contra los gobernantes de este mundo de tinieblas.
 
 ##### La palabra **κοσμοκράτορας (kosmokratoras)** significa literalmente gobernantes del <u>mundo</u>*.
 
@@ -9331,7 +9263,7 @@ Contra las estrategias del diablo
 
 ##### <u>Habla</u> del sistema caracterizado por la oscuridad y la oposición a Dios.
 
-#### Efesios 6:12 – contra las fuerzas espirituales de maldad.
+#### contra las fuerzas espirituales de maldad.
 
 ##### <u>Pablo</u> concluye mencionando las fuerzas espirituales caracterizadas por la maldad.
 
@@ -9339,7 +9271,7 @@ Contra las estrategias del diablo
 
 ##### Por eso la <u>fuerza</u> necesaria también debe provenir de Dios.
 
-#### Efesios 6:12 – en las regiones celestiales.
+#### en las regiones celestiales.
 
 ##### La expresión lugares celestiales* ya apareció varias <u>veces</u> en la carta.
 
@@ -9385,7 +9317,7 @@ La lucha es espiritual
 
 #### Efesios 6:13 – tomen toda la armadura de Dios.
 
-##### El verbo **ἀναλάβετε (analábete)** está en **aoristo, <u>activo</u>, imperativo**.
+##### El verbo ἀναλάβετε (analábete) está en aoristo, <u>activo</u>, imperativo.
 
 ##### El aoristo presenta una <u>acción</u> decisiva.
 
@@ -9407,9 +9339,9 @@ La lucha es espiritual
 
 ##### Ninguna <u>parte</u> resulta opcional.
 
-#### Efesios 6:13 – para que puedan resistir en el día malo.
+#### para que puedan resistir en el día malo.
 
-##### El propósito vuelve a expresarse mediante <u>para</u> que» (ἵνα)**.
+##### El propósito vuelve a expresarse mediante <u>para</u> que (ἵνα).
 
 ##### El objetivo de tomar la armadura no es <u>buscar</u> el combate.
 
@@ -9425,7 +9357,7 @@ La lucha es espiritual
 
 ##### El énfasis no está en identificar el momento, sino en estar preparados cuando <u>llegue</u>.
 
-#### Efesios 6:13 – y habiéndolo hecho todo, estar firmes.
+#### y habiéndolo hecho todo, estar firmes.
 
 ##### El participio habiéndolo hecho todo* resume todo lo que Pablo <u>acaba</u> de ordenar.
 
@@ -9439,9 +9371,9 @@ La lucha es espiritual
 
 ##### Después de haber respondido fielmente en <u>medio</u> del conflicto, permanece el mismo objetivo.
 
-##### **<u>Estar</u> firmes.**
+##### <u>Estar</u> firmes.
 
-##### El <u>verbo</u> **στῆναι (stēnai)** vuelve a aparecer.
+##### El <u>verbo</u> στῆναι (stēnai) vuelve a aparecer.
 
 ##### <u>Esta</u> repetición muestra el énfasis principal del pasaje.
 
@@ -9475,11 +9407,12 @@ Permanezcan firmes
 
 ## Efesios 6:14-17 – Toda la Armadura de Dios
 
-### Efesios 6:14-17 – Después de ordenar a los creyentes que sean fortalecidos, se revistan y tomen toda la armadura de Dios, Pablo describe ahora las piezas de esa armadura.
+##### Efesios 6:14-17 – Después de ordenar a los creyentes que sean fortalecidos, se revistan y tomen toda la armadura de Dios, Pablo describe ahora las piezas de esa armadura.
 
 ### El objetivo continúa siendo el mismo: **permanecer firmes**.
 
-### Efesios 6:14 – Estén, pues, firmes...
+### Efesios 6:14 
+Estén, pues, firmes...
 
 #### El imperativo **στῆτε (stēte)** está en **aoristo, activo, imperativo**.
 
@@ -9491,7 +9424,7 @@ Permanezcan firmes
 
 #### Gramaticalmente ocurre algo muy importante.
 
-##### Después del imperativo estén firmes*, Pablo <u>añade</u> una serie de **participios aoristos**.
+##### Después del imperativo estén firmes*, Pablo <u>añade</u> una serie de participios aoristos.
 
 ##### <u>Estos</u> participios describen las acciones que acompañan y explican cómo permanece firme un creyente.
 
@@ -9510,9 +9443,10 @@ Estén firmes
 
 ##### Permanece firme porque está equipado con toda la armadura de <u>Dios</u>.
 
-## Efesios 6:14 – Pieza #1
+## Pieza #1
 
-### Ceñida su cintura con la verdad.
+### Efesios 6:14
+Ceñida su cintura con la verdad.
 
 #### El participio **περιζωσάμενοι (perizōsamenoi)** está en **aoristo, voz media, participio**.
 
@@ -9560,15 +9494,16 @@ Habiéndose ceñido la cintura con la verdad.*
 
 ##### La <u>verdad</u> caracteriza a Cristo.
 
-## Efesios 6:14 – Pieza #2
+## Pieza #2
 
-### Revestidos con la coraza de la justicia.
+### Efesios 6:14
+Revestidos con la coraza de la justicia.
 
 #### El participio **ἐνδυσάμενοι (endusamenoi)** también está en **aoristo, voz media, participio**.
 
 ##### <u>Literalmente</u>:
 
-Habiéndose vestido con la coraza de la justicia.*
+###### Habiéndose vestido con la coraza de la justicia.*
 
 ##### Igual que el cinturón, esta <u>acción</u> acompaña al mandato de permanecer firmes.
 
@@ -9580,7 +9515,7 @@ Habiéndose vestido con la coraza de la justicia.*
 
 ##### Era una pieza indispensable <u>para</u> permanecer en pie durante el combate.
 
-#### Pablo habla ahora de **la justicia**.
+#### Pablo habla ahora de la justicia.
 
 ##### Tampoco <u>ordena</u> producir justicia propia.
 
@@ -9589,7 +9524,6 @@ Habiéndose vestido con la coraza de la justicia.*
 ##### En Cristo el creyente ha <u>sido</u> constituido justicia de Dios.
 
 ##### Esa realidad ya fue presentada <u>anteriormente</u>.
-
 - Efesios 4:24.
 - Efesios 5:9.
 
@@ -9601,9 +9535,10 @@ Habiéndose vestido con la coraza de la justicia.*
 
 ##### Precisamente porque la armadura pertenece a Dios, ninguna de sus piezas procede del esfuerzo <u>humano</u>.
 
-## Efesios 6:15 – Pieza #3
+## Pieza #3
 
-### Y habiéndose calzado los pies con el apresto del evangelio de la paz.
+### Efesios 6:15
+Y habiéndose calzado los pies con el apresto del evangelio de la paz.
 
 #### El participio **ὑποδησάμενοι (hypodēsamenoi)** está en **aoristo, voz media, participio**.
 
@@ -9625,11 +9560,11 @@ Estén firmes.*
 
 ##### Es importante observar que el <u>texto</u> griego **no contiene** las palabras:
 
-para anunciar».**
+###### para anunciar».
 
 ##### Esa expresión fue añadida por algunos traductores <u>para</u> facilitar la comprensión.
 
-##### Aunque anunciar el evangelio es una <u>verdad</u> bíblica, **ese no es el énfasis de este pasaje.**
+##### Aunque anunciar el evangelio es una <u>verdad</u> bíblica, ese no es el énfasis de este pasaje.
 
 ##### El contexto no <u>trata</u> acerca de evangelismo.
 
@@ -9653,11 +9588,11 @@ para anunciar».**
 
 ##### Él anunció las <u>buenas</u> nuevas de paz.
 
-##### (<u>Efesios</u> 2:14-17)
+##### (Efesios 2:14-17)
 
-##### Por la fe tenemos paz con <u>Dios</u>.
+##### Por la fe tenemos paz con Dios.
 
-##### (<u>Romanos</u> 5:1)
+##### (Romanos 5:1)
 
 ##### El creyente que permanece firme no lo <u>hace</u> porque tiene confianza en sí mismo.
 
@@ -9687,7 +9622,7 @@ Evangelio de la paz
 
 ### En todo, habiendo tomado el escudo de la fe, con el cual podrán apagar todos los dardos encendidos del maligno.
 
-#### El participio **ἀναλαβόντες (analabontes)** está en **aoristo, activo, participio**.
+#### El participio ἀναλαβόντες (analabontes) está en **aoristo, activo, participio**.
 
 ##### <u>Literalmente</u>:
 
@@ -9699,7 +9634,7 @@ Habiendo tomado el escudo de la fe...*
 
 #### En todo...
 
-##### La expresión griega **ἐν πᾶσιν (en <u>pasin</u>)** admite varias posibilidades.
+##### La expresión griega ἐν πᾶσιν (en <u>pasin</u>) admite varias posibilidades.
 
 ##### <u>Puede</u> entenderse como:
 
@@ -9713,7 +9648,7 @@ Habiendo tomado el escudo de la fe...*
 
 #### ...el escudo de la fe.
 
-##### El **θυρεός (thyreós)** era el <u>escudo</u> grande utilizado por el soldado romano.
+##### El θυρεός (thyreós) era el <u>escudo</u> grande utilizado por el soldado romano.
 
 ##### Cubría casi <u>todo</u> el cuerpo.
 
@@ -9791,23 +9726,23 @@ Fe
 
 ## Efesios 6:17 – Pieza #5
 
-### Tomen también el casco de la salvación...
+#### Tomen también el casco de la salvación...
 
 #### Pablo cambia nuevamente la construcción gramatical.
 
-##### Después de <u>cuatro</u> participios consecutivos (vv.14-16), vuelve a un **imperativo**.
+##### Después de <u>cuatro</u> participios consecutivos (vv.14-16), vuelve a un imperativo.
 
-##### El verbo **δέξασθε (dexasthe)** <u>está</u> en **aoristo, voz media, imperativo**.
+##### El verbo δέξασθε (dexasthe) <u>está</u> en aoristo, voz media, imperativo.
 
 ##### La orden <u>vuelve</u> a ser directa.
 
-##### <u>Tomen</u>.*
+##### <u>Tomen</u>.
 
 ##### <u>Este</u> mismo mandato gobierna tanto el casco como la espada.
 
 #### ...el casco de la salvación.
 
-##### El **περικεφαλαία (perikephalaía)** era la protección que <u>cubría</u> la cabeza del soldado.
+##### El περικεφαλαία (perikephalaía) era la protección que <u>cubría</u> la cabeza del soldado.
 
 ##### Protegía una de las <u>partes</u> más vulnerables durante el combate.
 
@@ -9858,13 +9793,13 @@ Fe
 
 #### ...que es la palabra de Dios.
 
-##### Pablo identifica la <u>espada</u> como **τὸ ῥῆμα τοῦ Θεοῦ (to rhēma tou Theou)**.
+##### Pablo identifica la <u>espada</u> como τὸ ῥῆμα τοῦ Θεοῦ (to rhēma tou Theou).
 
-##### Es interesante que <u>utilice</u> **ῥῆμα** y no **λόγος**.
+##### Es interesante que <u>utilice</u> ῥῆμα y no λόγος.
 
 ##### Ambos términos <u>pueden</u> referirse a la palabra de Dios.
 
-##### Sin embargo, **ῥῆμα** <u>suele</u> destacar la palabra comunicada o proclamada.
+##### Sin embargo, ῥῆμα <u>suele</u> destacar la palabra comunicada o proclamada.
 
 ##### En este contexto, <u>Pablo</u> presenta la palabra de Dios como la respuesta concreta frente al ataque espiritual.
 
@@ -9872,7 +9807,7 @@ Fe
 
 ##### Frente a <u>cada</u> ataque de Satanás respondió:
 
-Escrito está...*
+###### *Escrito está...*
 
 ##### (<u>Mateo</u> 4:1-11)
 
@@ -9918,7 +9853,8 @@ Estén firmes.* (v.14)
 
 #### Los participios orando* y velando* describen cómo permanece firme el creyente mientras enfrenta la lucha espiritual.
 
-### Efesios 6:18 – Con toda oración y súplica, orando en todo tiempo en el Espíritu...
+### Efesios 6:18
+Con toda oración y súplica, orando en todo tiempo en el Espíritu...
 
 #### Pablo utiliza nuevamente un participio presente.
 
@@ -9936,7 +9872,7 @@ Estén firmes.* (v.14)
 
 ##### <u>Sino</u>:
 
-> "permanezcan orando."
+###### "permanezcan orando."
 
 #### Con toda oración y súplica...
 
@@ -9946,7 +9882,7 @@ Estén firmes.* (v.14)
 
 ##### <u>Luego</u> añade:
 
-y súplica*
+###### y súplica
 
 ##### La súplica enfatiza peticiones específicas presentadas delante de <u>Dios</u>.
 
@@ -9960,7 +9896,7 @@ y súplica*
 
 ##### <u>Sino</u> también:
 
-**en toda ocasión.**
+###### **en toda ocasión.**
 
 ##### La oración acompaña permanentemente la <u>vida</u> del creyente.
 
@@ -10040,33 +9976,33 @@ Por todos los santos
 
 ## Efesios 6:19–20 – Oración por Pablo.
 
-### Efesios 6:19 – ...y también por mí, para que me sea dada palabra al abrir mi boca, a fin de dar a conocer con denuedo el misterio del evangelio.
+### Efesios 6:19
+y también por mí, para que me sea dada palabra al abrir mi boca, a fin de dar a conocer con denuedo el misterio del evangelio.
 
 #### La oración continúa dependiendo del participio del versículo 18.
 
 ##### <u>Pablo</u> había dicho:
-
 - orando,
 - velando,
 - por todos los santos.
 
 ##### <u>Ahora</u> añade:
 
-y también por mí».**
+###### y también por mí».
 
 ##### Pablo no abandona el <u>tema</u> de la oración.
 
 ##### Simplemente <u>añade</u> una petición personal dentro de esa misma exhortación.
 
-### Efesios 6:19 – ...para que me sea dada palabra...
+### ...para que me sea dada palabra...
 
-#### La petición de Pablo comienza con una cláusula de propósito (**ἵνα**).
+#### La petición de Pablo comienza con una cláusula de propósito (ἵνα).
 
-##### El verbo **δοθῇ (dothē)** está en **aoristo, <u>pasivo</u>, subjuntivo**.
+##### El verbo δοθῇ (dothē) está en aoristo, <u>pasivo</u>, subjuntivo.
 
 ##### <u>Literalmente</u>:
 
-> para que me sea dada palabra».**
+###### para que me sea dada palabra».**
 
 ##### La voz pasiva muestra que Pablo <u>espera</u> recibir esa palabra de Dios.
 
@@ -10076,7 +10012,7 @@ y también por mí».**
 
 ##### <u>Después</u> hablará.
 
-### Efesios 6:19 – ...al abrir mi boca...
+### ...al abrir mi boca...
 
 #### El orden del texto es importante.
 
@@ -10096,7 +10032,7 @@ Pablo abre su boca.
 
 ##### Pide tener la palabra correcta cuando llegue el momento de <u>hablar</u>.
 
-### Efesios 6:19 – ...a fin de dar a conocer con denuedo el misterio del evangelio.
+### ...a fin de dar a conocer con denuedo el misterio del evangelio.
 
 #### El propósito de recibir esa palabra queda claramente expresado.
 
@@ -10104,8 +10040,7 @@ Pablo abre su boca.
 
 ##### Era <u>dar</u> a conocer el misterio del evangelio.
 
-##### El verbo **γνωρίσαι (gnō<u>risai</u>)** significa:
-
+##### El verbo γνωρίσαι (gnōrisai) significa:
 - dar a conocer,
 - revelar,
 - hacer conocido.
@@ -10122,7 +10057,7 @@ Pablo abre su boca.
 
 ##### El denuedo acompaña al mensaje que <u>Dios</u> da.
 
-### Observe la secuencia del texto.
+##### Observe la secuencia del texto.
 
 ```text
 Oren...
@@ -10142,9 +10077,10 @@ El misterio del evangelio
 
 ##### <u>Confía</u> en que Dios le dará la palabra necesaria para anunciar fielmente el evangelio.
 
-### Efesios 6:20 – ...por el cual soy embajador en cadenas, para que al proclamarlo hable con denuedo, como debo hablar.
+### Efesios 6:20 
+por el cual soy embajador en cadenas, para que al proclamarlo hable con denuedo, como debo hablar.
 
-#### Efesios 6:20 – ...por el cual soy embajador en cadenas...
+#### ...por el cual soy embajador en cadenas...
 
 ##### La expresión por el <u>cual</u>* se refiere al **misterio del evangelio** mencionado en el versículo anterior.
 
@@ -10157,14 +10093,13 @@ El misterio del evangelio
 ##### El verbo **πρεσβεύω (presbeuō)**, soy embajador*, <u>está</u> en **presente, activo, indicativo**.
 
 ##### Pablo no <u>dice</u>:
-
-- «fui embajador»,
-- «era embajador»,
-- «seré embajador».
+- "fui embajador",
+- "era embajador",
+- "seré embajador".
 
 ##### <u>Dice</u>:
 
-soy embajador».**
+###### soy embajador».
 
 ##### Aun estando encadenado, continúa representando oficialmente a <u>Cristo</u>.
 
@@ -10178,13 +10113,13 @@ soy embajador».**
 
 ##### <u>Pero</u> no podían detener el evangelio que representaba.
 
-#### Efesios 6:20 – ...para que al proclamarlo hable con denuedo...
+#### ...para que al proclamarlo hable con denuedo...
 
 ##### <u>Pablo</u> vuelve a utilizar una cláusula de propósito (**ἵνα**).
 
 ##### En el versículo 19 <u>pidió</u>:
 
-> «que me sea dada palabra».
+###### «que me sea dada palabra».
 
 ##### <u>Ahora</u> añade una segunda petición.
 
@@ -10192,8 +10127,7 @@ soy embajador».**
 
 ##### También <u>desea</u> proclamarla con toda libertad y valentía.
 
-##### El <u>verbo</u> **παρρησιάσωμαι (parrēsiasōmai)** significa:
-
+##### El <u>verbo</u> παρρησιάσωμαι (parrēsiasōmai) significa:
 - hablar con franqueza,
 - hablar con libertad,
 - hablar con denuedo.
@@ -10204,7 +10138,7 @@ soy embajador».**
 
 ##### <u>Pide</u> anunciar fielmente el evangelio.
 
-#### Efesios 6:20 – ...como debo hablar.
+#### ...como debo hablar.
 
 ##### Pablo reconoce que <u>existe</u> una manera correcta de anunciar el evangelio.
 
@@ -10246,11 +10180,12 @@ El misterio del evangelio
 
 ### Efesios 6:21–22 – Pablo envía a Tíquico para informar y fortalecer a la iglesia.
 
-### Efesios 6:21 – Pero para que también ustedes sepan cómo estoy y lo que hago, todo se lo dará a conocer Tíquico, amado hermano y fiel ministro en el Señor.
+### Efesios 6:21
+Pero para que también ustedes sepan cómo estoy y lo que hago, todo se lo dará a conocer Tíquico, amado hermano y fiel ministro en el Señor.
 
-#### Efesios 6:21 – Pero para que también ustedes sepan...
+#### Pero para que también ustedes sepan...
 
-##### <u>Pablo</u> introduce nuevamente una cláusula de propósito (**ἵνα**).
+##### <u>Pablo</u> introduce nuevamente una cláusula de propósito (ἵνα).
 
 ##### El <u>envío</u> de Tíquico no es un simple saludo.
 
@@ -10271,7 +10206,7 @@ El misterio del evangelio
 
 ##### Aunque estaba <u>preso</u>, el evangelio continuaba avanzando.
 
-#### Efesios 6:21 – Todo se lo dará a conocer Tíquico...
+#### Todo se lo dará a conocer Tíquico...
 
 ##### <u>Pablo</u> confía plenamente en Tíquico.
 
@@ -10285,13 +10220,13 @@ El misterio del evangelio
 
 ##### Pablo utiliza dos expresiones <u>para</u> describir a Tíquico.
 
-##### <u>Amado</u> hermano.*
+##### <u>Amado</u> hermano.
 
 ##### Antes que colaborador, Tíquico pertenece a la familia de <u>Dios</u>.
 
 ##### La relación <u>entre</u> ambos nace de su unión en Cristo.
 
-##### Fiel ministro en el <u>Señor</u>.*
+##### Fiel ministro en el <u>Señor</u>.
 
 ##### <u>La</u> fidelidad caracteriza su servicio.
 
@@ -10317,15 +10252,16 @@ La iglesia es fortalecida
 
 ##### Incluso al hablar de sus cadenas, su interés continúa <u>siendo</u> el fortalecimiento de la iglesia.
 
-### Efesios 6:22 – A quien he enviado precisamente para esto: para que sepan de nosotros y para que consuele sus corazones.
+### Efesios 6:22
+A quien he enviado precisamente para esto: para que sepan de nosotros y para que consuele sus corazones.
 
-#### Efesios 6:22 – A quien he enviado precisamente para esto...
+#### A quien he enviado precisamente para esto...
 
 ##### <u>Pablo</u> explica el propósito del envío de Tíquico.
 
 ##### La <u>expresión</u>:
 
-*precisamente para esto*
+###### *precisamente para esto*
 
 enfatiza que el viaje de Tíquico tiene un propósito específico.
 
@@ -10333,7 +10269,7 @@ enfatiza que el viaje de Tíquico tiene un propósito específico.
 
 ##### También llevaba información personal acerca del ministerio de <u>Pablo</u>.
 
-#### Efesios 6:22 – ...para que sepan de nosotros.
+#### ...para que sepan de nosotros.
 
 ##### <u>Pablo</u> vuelve a utilizar una cláusula de propósito (**ἵνα**).
 
@@ -10366,7 +10302,7 @@ enfatiza que el viaje de Tíquico tiene un propósito específico.
 
 ##### <u>Filipenses</u> 1:12–14.
 
-### Observe el propósito del envío de Tíquico.
+##### Observe el propósito del envío de Tíquico.
 
 ```text
 Tíquico es enviado
@@ -10388,11 +10324,12 @@ Sus corazones son fortalecidos
 
 ## Efesios 6:23–24 – Despedida llena de bendiciones.
 
-### Efesios 6:23–24 – Pablo concluye la carta pronunciando una bendición sobre los creyentes.
+##### Efesios 6:23–24 – Pablo concluye la carta pronunciando una bendición sobre los creyentes.
 
-### Efesios 6:23 – Paz sea a los hermanos, y amor con fe, de parte de Dios el Padre y del Señor Jesucristo.
+### Efesios 6:23
+Paz sea a los hermanos, y amor con fe, de parte de Dios el Padre y del Señor Jesucristo.
 
-#### Efesios 6:23 – Paz sea a los hermanos.
+#### Paz sea a los hermanos.
 
 ##### <u>Pablo</u> no termina con una orden.
 
@@ -10408,9 +10345,7 @@ Sus corazones son fortalecidos
 
 ##### <u>Efesios</u> 2:14–17.
 
-
-
-#### Efesios 6:23 – ...y amor con fe.
+#### ...y amor con fe.
 
 ##### <u>Pablo</u> añade una segunda bendición.
 
@@ -10418,7 +10353,7 @@ Sus corazones son fortalecidos
 
 ##### <u>Dice</u>:
 
-amor con fe».**
+amor con fe».
 
 ##### <u>Ambos</u> aparecen unidos.
 
@@ -10430,9 +10365,7 @@ amor con fe».**
 
 ##### La carta termina <u>donde</u> comenzó.
 
-
-
-#### Efesios 6:23 – ...de parte de Dios el Padre y del Señor Jesucristo.
+#### ...de parte de Dios el Padre y del Señor Jesucristo.
 
 ##### Pablo identifica claramente la <u>fuente</u> de estas bendiciones.
 
@@ -10466,9 +10399,10 @@ Los hermanos
 
 ##### Pablo concluye recordando que todo aquello que ha enseñado durante la carta encuentra su origen en Dios <u>mismo</u>.
 
-### Efesios 6:24 – La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorruptible.
+### Efesios 6:24
+La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorruptible.
 
-#### Efesios 6:24 – La gracia sea...
+#### La gracia sea...
 
 ##### <u>Pablo</u> concluye la carta con una última bendición.
 
@@ -10479,9 +10413,7 @@ Los hermanos
 - La elección, la redención, el perdón, la salvación y la herencia fueron presentadas como obras de la gracia de Dios.
 - Ahora Pablo desea que esa misma gracia permanezca con todos los creyentes.
 
-------
-
-#### Efesios 6:24 – ...con todos los que aman a nuestro Señor Jesucristo...
+####  ...con todos los que aman a nuestro Señor Jesucristo...
 
 ##### Pablo <u>amplía</u> el alcance de esta bendición.
 
@@ -10495,52 +10427,41 @@ Los hermanos
 
 ###### Literalmente <u>describe</u>:
 
-> los que están amando a nuestro Señor Jesucristo».**
+###### los que están amando a nuestro Señor Jesucristo».**
 
 - El presente enfatiza una realidad continua.
 - Pablo no describe un acto aislado de amor.
 - Presenta un amor que caracteriza la vida del creyente.
 
-------
-
-#### Efesios 6:24 – ...con amor incorruptible.
+#### ..con amor incorruptible.
 
 ##### Pablo concluye describiendo la clase de <u>amor</u> con que los creyentes aman al Señor.
 
 ###### La expresión <u>griega</u> es simplemente:
 
-> **ἐν ἀφθαρσίᾳ**
-> en incorruptibilidad».**
+###### ἐν ἀφθαρσίᾳ
+###### en incorruptibilidad».**
 
 - La palabra describe aquello que no se corrompe ni perece.
 - Pablo termina la carta mirando hacia aquello que permanece.
 - Así como las bendiciones espirituales proceden de Dios y permanecen en Cristo, también el amor del creyente hacia el Señor es descrito como un amor incorruptible.
 
-------
-
-### En síntesis
-
-- Pablo termina la carta con la bendición de la gracia.
-- Esa gracia ha sido el fundamento de toda la obra de Dios desarrollada desde el capítulo 1.
-- La bendición alcanza a todos los que aman al Señor Jesucristo.
-- El creyente es descrito como alguien que ama continuamente a Cristo.
-- La carta concluye mirando hacia un amor incorruptible, propio de la nueva vida recibida en Cristo.
-
-------
+>En síntesis
+> - Pablo termina la carta con la bendición de la gracia.
+> - Esa gracia ha sido el fundamento de toda la obra de Dios desarrollada desde el capítulo 1.
+> - La bendición alcanza a todos los que aman al Señor Jesucristo.
+> - El creyente es descrito como alguien que ama continuamente a Cristo.
+>- La carta concluye mirando hacia un amor incorruptible, propio de la nueva vida recibida en Cristo.
 
 ### Observe el cierre de la carta.
 
 ```text
 1:2
-
 Gracia
 ↓
 Paz
-
 ══════════════════════
-
 6:23–24
-
 Paz
 ↓
 Amor con fe
