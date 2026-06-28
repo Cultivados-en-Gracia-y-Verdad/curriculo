@@ -93,7 +93,7 @@ Las exhortaciones continúan con las relaciones entre hijos y padres, y entre si
 Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirse de toda la armadura de Dios y permanecer firmes frente a las asechanzas del diablo, perseverando en oración por todos los santos (6:10–24).
 
 
-## Autor y Fecha de la escritura del libro de Efesios.
+## Autor y Fecha de la escritura del libro de Efesios
 
 ##### El autor de la carta es Pablo, el Apóstol así se presenta en Efesios 1:1. Efesios, Filipenses, Colosenses y Filemón. Son llamadas con frecuencia, Cartas de la Cautividad (o cartas desde la prisión), ya que todas ellas fueron escritas durante el encarcelamiento de Pablo en Roma (Efesios 1:1; Filipenses 1:7; Colosenses 4:10; Filemón 9).
 
@@ -172,7 +172,6 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 ## Efesios 1:3–6 – Bendecidos en Cristo con toda bendición espiritual
 
 ### Efesios 1:3
-
 ### Bendito sea el Dios y Padre de nuestro Señor Jesucristo
 
 #### Pablo abre esta sección con una doxología. Antes de explicar todo lo que Dios ha hecho por los creyentes, dirige la atención hacia Dios mismo.
@@ -250,6 +249,7 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 
 ### Efesios 1:4
+Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor
 
 ### porque
 
@@ -389,6 +389,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Antes de mencionar una nueva acción divina, Pablo recuerda el carácter con el que Dios actuó. Su propósito eterno no fue motivado por obligación, sino por amor.
 
+  
+
 ### nos predestinó
 
 #### Pablo añade una nueva acción dentro del propósito eterno de Dios.
@@ -403,7 +405,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### La oración todavía no explica cuál fue ese destino. Pablo inmediatamente responde esa pregunta.
 
-### para adopción como hijos
+
+#### para adopción como hijos
 
 #### Pablo explica el propósito de la predestinación.
 
@@ -419,9 +422,9 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### El énfasis no recae primero sobre los privilegios de la adopción, sino sobre la nueva relación que Dios mismo quiso establecer.
 
-### para sí
+#### para sí
 
-#### Pablo añade el propósito personal de esa adopción.
+##### Pablo añade el propósito personal de esa adopción.
 
 ##### La adopción no termina en el beneficio del creyente.
 
@@ -431,9 +434,9 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Desde el comienzo de la carta, las bendiciones espirituales muestran que Dios no solamente salva del pecado; también acerca a las personas a Sí mismo.
 
-### mediante Jesucristo
+#### mediante Jesucristo
 
-#### Pablo vuelve a señalar el único medio por el cual Dios realiza esta obra.
+##### Pablo vuelve a señalar el único medio por el cual Dios realiza esta obra.
 
 ##### La adopción no ocurre independientemente de Cristo.
 
@@ -443,9 +446,9 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Cristo no aparece como un elemento secundario del plan de Dios, sino como el medio indispensable por el cual ese plan se cumple.
 
-### conforme a la buena intención de Su voluntad
+#### conforme a la buena intención de Su voluntad
 
-#### Pablo explica el fundamento sobre el cual Dios realizó todo este propósito.
+##### Pablo explica el fundamento sobre el cual Dios realizó todo este propósito.
 
 ##### La expresión conforme a* indica que toda esta obra está en perfecta armonía con la voluntad de Dios.
 
@@ -457,6 +460,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### El siguiente versículo mostrará el propósito supremo de todas estas acciones: **la alabanza de la gloria de Su gracia**.
 
+  
+
 ### Conexiones bíblicas
 
   - Pablo desarrolla ampliamente la **adopción como hijos** en Romanos 8:15–23 y Gálatas 4:4–7.
@@ -464,7 +469,7 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 
 
-### Efesios 1:6
+- ### Efesios 1:6
 
 ### para alabanza
 
@@ -480,6 +485,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### La oración continúa. Pablo todavía explica qué debe ser alabado.
 
+  
+
 ### de la gloria
 
 #### Pablo especifica el objeto de esa alabanza.
@@ -492,6 +499,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### La oración todavía no termina. Ahora explica de qué gloria está hablando.
 
+  
+
 ### de Su gracia
 
 #### Pablo identifica cuál es la gloria que acaba de mencionar.
@@ -503,6 +512,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 ##### Nada de lo descrito en los versículos anteriores es presentado como resultado del mérito humano. Todo procede de la gracia de Dios.
 
 ##### Esta será una de las grandes ideas de toda la carta. Más adelante Pablo desarrollará ampliamente esta misma verdad al afirmar que la salvación es **por gracia** (Efesios 2:5–9).
+
+  
 
 ### que gratuitamente nos concedió
 
@@ -522,6 +533,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### La oración todavía no concluye. Pablo añade dónde fue concedida esa gracia.
 
+  
+
 ### en el Amado
 
 #### Pablo vuelve a señalar el único ámbito donde el creyente recibe esta gracia.
@@ -536,10 +549,14 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Con este versículo concluye la primera bendición espiritual iniciada en el versículo 4. El siguiente versículo comenzará a desarrollar otra bendición: **la redención por medio de Su sangre**.
 
+  
+
 ### Conexiones bíblicas
-- La gracia ocupa un lugar central en Efesios y vuelve a desarrollarse en 2:5–9; 3:2, 7–8 y 4:7.
-- La expresión en el Amado* es única en la carta, pero continúa el énfasis constante de Pablo en las expresiones en Cristo*, en Él* y mediante Jesucristo*.
-- Efesios 1:7–10 – Redención, perdón y el misterio de Su voluntad
+
+  - La gracia ocupa un lugar central en Efesios y vuelve a desarrollarse en 2:5–9; 3:2, 7–8 y 4:7.
+  - La expresión en el Amado* es única en la carta, pero continúa el énfasis constante de Pablo en las expresiones en Cristo*, en Él* y mediante Jesucristo*.
+
+- ## Efesios 1:7–10 – Redención, perdón y el misterio de Su voluntad
 
 ### Efesios 1:7
 
@@ -555,6 +572,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Con esta expresión Pablo introduce una nueva bendición espiritual.
 
+  
+
 ### tenemos
 
 #### Pablo presenta esta bendición como una realidad presente.
@@ -569,6 +588,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Esta bendición pertenece ahora mismo a todos los que están en Cristo.
 
+  
+
 ### redención
 
 #### Pablo identifica la bendición que ahora desarrolla.
@@ -582,6 +603,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 ##### La atención todavía no está sobre el precio pagado. Primero afirma que los creyentes poseen la redención.
 
 ##### Luego explica cómo fue obtenida.
+
+  
 
 ### mediante Su sangre
 
@@ -599,6 +622,8 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### La oración todavía continúa. Pablo explica ahora otra manera de describir esta misma bendición.
 
+  
+
 ### el perdón de nuestros pecados
 
 #### Pablo desarrolla lo que significa esa redención.
@@ -609,41 +634,41 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Pablo no presenta la redención como una idea abstracta. Explica uno de sus resultados inmediatos: nuestros pecados han sido perdonados.
 
-  ##### La atención continúa completamente sobre la obra realizada por Dios en Cristo.
+##### La atención continúa completamente sobre la obra realizada por Dios en Cristo.
 
   
 
-  ### según las riquezas
+### según las riquezas
 
-  #### Pablo ahora explica la medida de esta obra.
+#### Pablo ahora explica la medida de esta obra.
 
-  ##### La preposición según* es importante.
+##### La preposición según* es importante.
 
-  ##### Pablo no dice de* las riquezas de Su gracia, sino según* las riquezas de Su gracia.
+##### Pablo no dice de* las riquezas de Su gracia, sino según* las riquezas de Su gracia.
 
-  ##### La gracia de Dios no es simplemente la fuente de esta bendición; también es la medida conforme a la cual fue otorgada.
+##### La gracia de Dios no es simplemente la fuente de esta bendición; también es la medida conforme a la cual fue otorgada.
 
-  ##### La redención y el perdón corresponden a la inmensa riqueza de la gracia de Dios.
+##### La redención y el perdón corresponden a la inmensa riqueza de la gracia de Dios.
 
-  ##### La oración todavía no termina. Pablo continúa describiendo esa gracia en el siguiente versículo.
-
-  
-
-  ### de Su gracia
-
-  #### Pablo vuelve a llevar toda la atención a la gracia de Dios.
-
-  ##### En el versículo anterior todo ocurrió **para alabanza de la gloria de Su gracia**.
-
-  ##### Ahora explica que la redención y el perdón también fueron otorgados conforme a esa misma gracia.
-
-  ##### Desde el comienzo de la carta Pablo insiste en que todas las bendiciones espirituales tienen un mismo origen: la gracia de Dios manifestada en Cristo.
-
-  ##### El siguiente versículo desarrollará la abundancia de esa gracia y mostrará que Dios no solamente redimió a Su pueblo, sino que también dio a conocer el misterio de Su voluntad.
+##### La oración todavía no termina. Pablo continúa describiendo esa gracia en el siguiente versículo.
 
   
 
-  ### Conexiones bíblicas
+### de Su gracia
+
+#### Pablo vuelve a llevar toda la atención a la gracia de Dios.
+
+##### En el versículo anterior todo ocurrió **para alabanza de la gloria de Su gracia**.
+
+##### Ahora explica que la redención y el perdón también fueron otorgados conforme a esa misma gracia.
+
+##### Desde el comienzo de la carta Pablo insiste en que todas las bendiciones espirituales tienen un mismo origen: la gracia de Dios manifestada en Cristo.
+
+##### El siguiente versículo desarrollará la abundancia de esa gracia y mostrará que Dios no solamente redimió a Su pueblo, sino que también dio a conocer el misterio de Su voluntad.
+
+  
+
+### Conexiones bíblicas
 
   - La redención aparece nuevamente relacionada con la sangre de Cristo en Colosenses 1:13–14 y 1 Pedro 1:18–19.
   - Efesios volverá a relacionar la sangre de Cristo con nuestra reconciliación en 2:13.
@@ -727,53 +752,55 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 - ### Efesios 1:9
 
-  ### dándonos a conocer
+### dándonos a conocer
 
-  #### Pablo continúa explicando cómo Dios hizo abundar Su gracia para con nosotros.
+#### Pablo continúa explicando cómo Dios hizo abundar Su gracia para con nosotros.
 
-  ##### La oración todavía depende de los versículos anteriores.
+##### La oración todavía depende de los versículos anteriores.
 
-  ##### Una expresión de esa gracia abundante fue que Dios dio a conocer algo que antes permanecía oculto.
+##### Una expresión de esa gracia abundante fue que Dios dio a conocer algo que antes permanecía oculto.
 
-  ##### El participio "dando a conocer" describe otra acción realizada por Dios.
+##### El participio "dando a conocer" describe otra acción realizada por Dios.
 
-  ##### El sujeto continúa siendo Dios.
+##### El sujeto continúa siendo Dios.
 
-  ##### Los creyentes son nuevamente los receptores de esa acción.
+##### Los creyentes son nuevamente los receptores de esa acción.
 
-  ##### La gracia de Dios no solo nos redimió y perdonó; también nos permitió conocer Su propósito.
-
-  ---
-
-  ### el misterio
-
-  #### Pablo introduce por primera vez una palabra que llegará a ser fundamental en la carta.
-
-  ##### La palabra "misterio" no describe algo misterioso o imposible de comprender.
-
-  ##### En las Escrituras, un misterio es un propósito de Dios que permaneció oculto y que ahora Él mismo ha revelado.
-
-  ##### El énfasis no está en que el hombre descubrió el misterio.
-
-  ##### El énfasis está en que Dios decidió darlo a conocer.
-
-  ##### Pablo desarrollará ampliamente este misterio en los capítulos 2 y 3.
+##### La gracia de Dios no solo nos redimió y perdonó; también nos permitió conocer Su propósito.
 
   ---
 
-  ### de Su voluntad
+### el misterio
 
-  #### Pablo identifica de qué trata ese misterio.
+#### Pablo introduce por primera vez una palabra que llegará a ser fundamental en la carta.
 
-  ##### El misterio pertenece a la voluntad de Dios.
+##### La palabra "misterio" no describe algo misterioso o imposible de comprender.
 
-  ##### No es el plan concebido por el hombre.
+##### En las Escrituras, un misterio es un propósito de Dios que permaneció oculto y que ahora Él mismo ha revelado.
 
-  ##### Es el propósito que Dios determinó realizar.
+##### El énfasis no está en que el hombre descubrió el misterio.
 
-  ##### Desde el comienzo del capítulo Pablo ha mencionado repetidamente la voluntad de Dios (vv. 5 y 9), mostrando que toda la obra de la salvación responde a Su propósito.
+##### El énfasis está en que Dios decidió darlo a conocer.
+
+##### Pablo desarrollará ampliamente este misterio en los capítulos 2 y 3.
+
+  ---
+
+### de Su voluntad
+
+#### Pablo identifica de qué trata ese misterio.
+
+##### El misterio pertenece a la voluntad de Dios.
+
+##### No es el plan concebido por el hombre.
+
+##### Es el propósito que Dios determinó realizar.
+
+##### Desde el comienzo del capítulo Pablo ha mencionado repetidamente la voluntad de Dios (vv. 5 y 9), mostrando que toda la obra de la salvación responde a Su propósito.
 
 ##### La explicación de ese propósito continuará en el versículo siguiente.
+
+  ---
 
 ### según Su beneplácito
 
@@ -789,37 +816,39 @@ Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirs
 
 ##### Él actuó conforme a Su propio propósito.
 
+  ---
+
 ### que se propuso
 
-  #### Pablo afirma que este plan fue establecido por Dios mismo.
+#### Pablo afirma que este plan fue establecido por Dios mismo.
 
-  ##### El verbo presenta una decisión tomada por Dios.
+##### El verbo presenta una decisión tomada por Dios.
 
-  ##### El propósito no surgió de otra persona.
+##### El propósito no surgió de otra persona.
 
-  ##### Dios mismo determinó llevar adelante este plan.
+##### Dios mismo determinó llevar adelante este plan.
 
-  ##### La atención permanece sobre la obra soberana de Dios desde el comienzo hasta el final.
-
-  ---
-
-  ### en Cristo
-
-  #### Pablo vuelve a concluir la idea señalando el centro de todo el propósito de Dios.
-
-  ##### Ya desde el versículo 3 Pablo ha repetido constantemente expresiones como "en Cristo", "en Él", "mediante Jesucristo" y "en el Amado".
-
-  ##### Ahora afirma que el propósito de Dios fue establecido **en Cristo**.
-
-  ##### Cristo no aparece solamente como el medio para cumplir ese propósito.
-
-  ##### Él ocupa el centro del plan que Dios decidió revelar.
-
-  ##### El siguiente versículo comenzará a explicar cuál es ese propósito.
+##### La atención permanece sobre la obra soberana de Dios desde el comienzo hasta el final.
 
   ---
 
-  ### Conexiones bíblicas
+### en Cristo
+
+#### Pablo vuelve a concluir la idea señalando el centro de todo el propósito de Dios.
+
+##### Ya desde el versículo 3 Pablo ha repetido constantemente expresiones como "en Cristo", "en Él", "mediante Jesucristo" y "en el Amado".
+
+##### Ahora afirma que el propósito de Dios fue establecido **en Cristo**.
+
+##### Cristo no aparece solamente como el medio para cumplir ese propósito.
+
+##### Él ocupa el centro del plan que Dios decidió revelar.
+
+##### El siguiente versículo comenzará a explicar cuál es ese propósito.
+
+  ---
+
+### Conexiones bíblicas
 
   - Pablo desarrolla ampliamente el misterio en Efesios 2:11–3:13.
   - El misterio también aparece en Colosenses 1:26–27 y Colosenses 2:2–3.
