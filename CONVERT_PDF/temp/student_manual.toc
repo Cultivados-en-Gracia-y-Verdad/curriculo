@@ -4,248 +4,243 @@
 \contentsline {subsection}{Metodología de estudio}{2}{subsection*.4}%
 \contentsline {subsection}{Alcance y uso del manual}{2}{subsection*.5}%
 \contentsline {subsection}{Resultado esperado}{2}{subsection*.6}%
-\contentsline {section}{Introducción}{4}{section*.7}%
+\contentsline {section}{INTRODUCCIÓN}{4}{section*.7}%
 \contentsline {subsection}{La ciudad de Éfeso}{4}{subsection*.8}%
-\contentsline {subsection}{La iglesia en Éfeso}{5}{subsection*.9}%
+\contentsline {subsection}{La iglesia en Éfeso}{4}{subsection*.9}%
 \contentsline {subsection}{Panorama del libro de Efesios}{5}{subsection*.10}%
 \contentsline {subsection}{Propósito del libro de Efesios}{5}{subsection*.11}%
-\contentsline {subsection}{Autor y Fecha de la escritura del libro de Efesios}{6}{subsection*.12}%
-\contentsline {subsubsection}{Efesios 1:1}{7}{subsubsection*.13}%
-\contentsline {subsubsection}{Efesios 1:2}{8}{subsubsection*.14}%
-\contentsline {section}{Efesios 1:3--14 -- Dios los bendijo en Cristo}{8}{section*.15}%
-\contentsline {subsection}{Efesios 1:3--6 -- Bendecidos en Cristo con toda bendición espiritual}{8}{subsection*.16}%
-\contentsline {subsubsection}{Efesios 1:3}{8}{subsubsection*.17}%
-\contentsline {subsubsection}{Efesios 1:4}{10}{subsubsection*.18}%
-\contentsline {subsubsection}{Efesios 1:5}{13}{subsubsection*.19}%
-\contentsline {subsubsection}{Efesios 1:6}{15}{subsubsection*.20}%
-\contentsline {subsubsection}{Efesios 1:7}{17}{subsubsection*.21}%
-\contentsline {subsubsection}{Efesios 1:8}{19}{subsubsection*.22}%
-\contentsline {subsubsection}{en toda sabiduría}{20}{subsubsection*.23}%
-\contentsline {subparagraph}{La expresión puede entenderse como la manera en que Dios actuó.}{20}{subparagraph*.24}%
-\contentsline {subparagraph}{Dios no obró al azar ni improvisó Su plan de redención.}{20}{subparagraph*.25}%
-\contentsline {subparagraph}{Todo lo hizo con perfecta sabiduría.}{20}{subparagraph*.26}%
-\contentsline {subparagraph}{En la Escritura, la sabiduría frecuentemente describe la capacidad de llevar a cabo un propósito perfecto.}{20}{subparagraph*.27}%
-\contentsline {subparagraph}{En los versículos siguientes Pablo mostrará precisamente cuál era ese propósito.}{20}{subparagraph*.28}%
-\contentsline {subparagraph}{La inteligencia expresa discernimiento, comprensión o entendimiento.}{20}{subparagraph*.29}%
-\contentsline {subparagraph}{Dios no solamente tuvo un plan perfecto.}{20}{subparagraph*.30}%
-\contentsline {subparagraph}{También lo ejecutó con completo entendimiento y conocimiento.}{20}{subparagraph*.31}%
-\contentsline {subparagraph}{Estas dos palabras preparan naturalmente la siguiente declaración.}{20}{subparagraph*.32}%
-\contentsline {subparagraph}{En el versículo 9 Pablo dirá que Dios dio a conocer el misterio de Su voluntad.}{20}{subparagraph*.33}%
-\contentsline {subparagraph}{La sabiduría y la inteligencia de Dios se manifiestan precisamente al revelar ese misterio.}{20}{subparagraph*.34}%
-\contentsline {subsubsection}{Efesios 1:9}{21}{subsubsection*.35}%
-\contentsline {subsubsection}{Efesios 1:10}{22}{subsubsection*.36}%
-\contentsline {subsubsection}{Efesios 1:11}{25}{subsubsection*.37}%
-\contentsline {subsubsection}{Efesios 1:12}{27}{subsubsection*.38}%
-\contentsline {subsubsection}{Efesios 1:13}{28}{subsubsection*.39}%
-\contentsline {subsubsection}{Efesios 1:14}{31}{subsubsection*.40}%
-\contentsline {subsection}{Efesios 1:15--23 -- Pablo da gracias y ora para que los creyentes conozcan más plenamente la obra de Dios.}{33}{subsection*.41}%
-\contentsline {subsubsection}{Efesios 1:15}{33}{subsubsection*.42}%
-\contentsline {subsubsection}{Efesios 1:16}{34}{subsubsection*.43}%
-\contentsline {subsubsection}{Efesios 1:17}{36}{subsubsection*.44}%
-\contentsline {subsection}{Efesios 1:18--19 -- Pablo ora para que conozcan más plenamente la obra de Dios}{38}{subsection*.45}%
-\contentsline {subsubsection}{Efesios 1:18}{38}{subsubsection*.46}%
-\contentsline {subsubsection}{Efesios 1:19}{39}{subsubsection*.47}%
-\contentsline {subsection}{Efesios 1:20--23 -- El poder de Dios manifestado en Cristo}{41}{subsection*.48}%
-\contentsline {subsubsection}{Efesios 1:20}{41}{subsubsection*.49}%
-\contentsline {subsubsection}{Efesios 1:21}{42}{subsubsection*.50}%
-\contentsline {subsubsection}{Efesios 1:22}{44}{subsubsection*.51}%
-\contentsline {subsubsection}{Efesios 1:23}{45}{subsubsection*.52}%
-\contentsline {subsection}{En Síntesis}{47}{subsection*.53}%
-\contentsline {section}{Efesios 2:1--10 -- Dios dio vida a los que estaban muertos}{47}{section*.54}%
-\contentsline {subsection}{Efesios 2:1--3 -- La condición pasada de toda la humanidad}{47}{subsection*.55}%
-\contentsline {subsubsection}{Efesios 2:1}{47}{subsubsection*.56}%
-\contentsline {subsubsection}{Efesios 2:2}{49}{subsubsection*.57}%
-\contentsline {subsubsection}{Efesios 2:3}{50}{subsubsection*.58}%
-\contentsline {subsection}{En Síntesis}{52}{subsection*.59}%
-\contentsline {subsection}{Efesios 2:4--7 -- Pero Dios dio vida juntamente con Cristo.}{53}{subsection*.60}%
-\contentsline {subsubsection}{Efesios 2:4}{53}{subsubsection*.61}%
-\contentsline {subsection}{Efesios 2:5--6 -- Dios dio vida juntamente con Cristo}{54}{subsection*.62}%
-\contentsline {subsubsection}{Efesios 2:5}{54}{subsubsection*.63}%
-\contentsline {subsubsection}{Efesios 2:6}{55}{subsubsection*.64}%
-\contentsline {subsubsection}{Efesios 2:7}{57}{subsubsection*.65}%
-\contentsline {subsection}{Efesios 2:8--9 -- La salvación es por gracia y no por obras}{58}{subsection*.66}%
-\contentsline {subsubsection}{Efesios 2:8}{58}{subsubsection*.67}%
-\contentsline {subsubsection}{Efesios 2:9}{59}{subsubsection*.68}%
-\contentsline {subsection}{Efesios 2:10 -- Creados en Cristo Jesús para buenas obras}{60}{subsection*.69}%
-\contentsline {subsubsection}{Efesios 2:10}{60}{subsubsection*.70}%
-\contentsline {subsubsection}{Observación estructural}{61}{subsubsection*.71}%
-\contentsline {section}{Efesios 2:11--12 -- Recuerden cómo era su condición anterior}{62}{section*.72}%
-\contentsline {subsubsection}{Efesios 2:11}{62}{subsubsection*.73}%
-\contentsline {subsubsection}{Efesios 2:12}{63}{subsubsection*.74}%
-\contentsline {subsection}{Efesios 2:13--16 -- Cristo acerca a los que estaban lejos y crea un solo hombre nuevo}{65}{subsection*.75}%
-\contentsline {subsubsection}{Efesios 2:13}{65}{subsubsection*.76}%
-\contentsline {subsubsection}{Efesios 2:14}{66}{subsubsection*.77}%
-\contentsline {subsubsection}{Efesios 2:15}{67}{subsubsection*.78}%
-\contentsline {subsubsection}{Efesios 2:16}{69}{subsubsection*.79}%
-\contentsline {subsection}{Efesios 2:17--18 -- Cristo anunció la paz y dio acceso al Padre}{70}{subsection*.80}%
-\contentsline {subsubsection}{Efesios 2:17}{70}{subsubsection*.81}%
-\contentsline {subsubsection}{Efesios 2:18}{71}{subsubsection*.82}%
-\contentsline {subsubsection}{Efesios 2:19}{72}{subsubsection*.83}%
-\contentsline {subsection}{Efesios 2:20--21 -- Edificados sobre el fundamento}{74}{subsection*.84}%
-\contentsline {subsubsection}{Efesios 2:20}{74}{subsubsection*.85}%
-\contentsline {subsubsection}{Efesios 2:21}{74}{subsubsection*.86}%
-\contentsline {section}{EFESIOS 3:1-13 -- LA ADMINISTRACIÓN DEL MINISTERIO REVELADO A PABLO}{76}{section*.87}%
-\contentsline {subsection}{Efesios 3:1-6 -- El misterio revelado por el evangelio a los apóstoles y profetas según la administración de la gracia de Dios.}{76}{subsection*.88}%
-\contentsline {subsubsection}{Efesios 3:1}{76}{subsubsection*.89}%
-\contentsline {subsubsection}{Efesios 3:2-3 -- La administración de la gracia de Dios y la revelación del misterio.}{76}{subsubsection*.90}%
-\contentsline {subsubsection}{Efesios 3:2}{76}{subsubsection*.91}%
-\contentsline {subsubsection}{Efesios 3:3}{77}{subsubsection*.92}%
-\contentsline {subsubsection}{Efesios 3:4-5 -- El misterio de Cristo, antes oculto, ahora revelado.}{77}{subsubsection*.93}%
-\contentsline {subsubsection}{Efesios 3:4}{77}{subsubsection*.94}%
-\contentsline {subsubsection}{Efesios 3:5}{77}{subsubsection*.95}%
-\contentsline {subsubsection}{Efesios 3:5}{78}{subsubsection*.96}%
-\contentsline {subsubsection}{Efesios 3:6 -- El contenido del misterio de Cristo.}{79}{subsubsection*.97}%
-\contentsline {subsubsection}{Efesios 3:6}{79}{subsubsection*.98}%
-\contentsline {subsection}{Efesios 3:7-9 -- Pablo anuncia el misterio de Cristo por la gracia de Dios.}{80}{subsection*.99}%
-\contentsline {subsubsection}{Efesios 3:7}{80}{subsubsection*.100}%
-\contentsline {subsubsection}{Efesios 3:8-9 -- La gracia dada a Pablo para anunciar las riquezas de Cristo.}{80}{subsubsection*.101}%
-\contentsline {subsubsection}{Efesios 3:8}{80}{subsubsection*.102}%
-\contentsline {subsubsection}{Efesios 3:9}{81}{subsubsection*.103}%
-\contentsline {subsubsection}{Efesios 3:10--12 -- La iglesia hace visible la sabiduría de Dios conforme a Su propósito eterno.}{82}{subsubsection*.104}%
-\contentsline {subsubsection}{Efesios 3:10}{82}{subsubsection*.105}%
-\contentsline {subsubsection}{Efesios 3:11--12 -- El propósito eterno de Dios se realizó en Cristo, y en Él tenemos libre acceso al Padre.}{83}{subsubsection*.106}%
-\contentsline {subsubsection}{Efesios 3:11}{83}{subsubsection*.107}%
-\contentsline {subsubsection}{Efesios 3:12}{83}{subsubsection*.108}%
-\contentsline {subsubsection}{Efesios 3:13 -- Las tribulaciones de Pablo no deben desanimar a la iglesia.}{83}{subsubsection*.109}%
-\contentsline {subsubsection}{Efesios 3:13}{83}{subsubsection*.110}%
-\contentsline {subsubsection}{Efesios 3:14--15 -- Pablo ora al Padre por el fortalecimiento de los creyentes.}{84}{subsubsection*.111}%
-\contentsline {subsubsection}{Efesios 3:14}{84}{subsubsection*.112}%
-\contentsline {subsubsection}{Efesios 3:15}{85}{subsubsection*.113}%
-\contentsline {subsubsection}{Efesios 3:16 -- Pablo pide que los creyentes sean fortalecidos por el Espíritu.}{85}{subsubsection*.114}%
-\contentsline {subsubsection}{Efesios 3:16}{85}{subsubsection*.115}%
-\contentsline {subsubsection}{Efesios 3:17--19 -- Pablo ora para que los creyentes comprendan el amor de Cristo.}{86}{subsubsection*.116}%
-\contentsline {subsubsection}{Efesios 3:17}{86}{subsubsection*.117}%
-\contentsline {subsubsection}{Efesios 3:18}{86}{subsubsection*.118}%
-\contentsline {subsubsection}{Efesios 3:19}{87}{subsubsection*.119}%
-\contentsline {subsection}{Efesios 3:20-21 -- Alabanza a Dios por Su poder y Su gloria}{88}{subsection*.120}%
-\contentsline {subsubsection}{Efesios 3:20}{88}{subsubsection*.121}%
-\contentsline {subsubsection}{Efesios 3:21}{89}{subsubsection*.122}%
-\contentsline {subsection}{Efesios 4:1-3 -- Vivan de una manera digna del llamamiento recibido.}{89}{subsection*.123}%
-\contentsline {subsubsection}{Efesios 4:1}{89}{subsubsection*.124}%
-\contentsline {subsubsection}{Efesios 4:2}{90}{subsubsection*.125}%
-\contentsline {subsubsection}{Efesios 4:3}{91}{subsubsection*.126}%
-\contentsline {subsubsection}{Efesios 4:4}{92}{subsubsection*.127}%
-\contentsline {subsubsection}{Efesios 4:5}{92}{subsubsection*.128}%
-\contentsline {subsubsection}{Efesios 4:6}{93}{subsubsection*.129}%
-\contentsline {subsection}{Efesios 4:7--10 -- Cristo reparte gracia a cada miembro de Su cuerpo.}{93}{subsection*.130}%
-\contentsline {subsubsection}{Efesios 4:7}{93}{subsubsection*.131}%
-\contentsline {subsubsection}{Efesios 4:8}{94}{subsubsection*.132}%
-\contentsline {subsubsection}{Efesios 4:9}{95}{subsubsection*.133}%
-\contentsline {subsubsection}{Efesios 4:10}{95}{subsubsection*.134}%
-\contentsline {subsubsection}{Efesios 4:11}{96}{subsubsection*.135}%
-\contentsline {subsubsection}{Efesios 4:12--13 -- El propósito de los dones de Cristo}{97}{subsubsection*.136}%
-\contentsline {subsubsection}{Efesios 4:12}{97}{subsubsection*.137}%
-\contentsline {subsubsection}{Efesios 4:13}{98}{subsubsection*.138}%
-\contentsline {subsection}{Efesios 4:14-16 -- Una iglesia nutrida en Cristo y edificada con cada miembro en amor.}{99}{subsection*.139}%
-\contentsline {subsubsection}{Efesios 4:14-16 -- La iglesia madura ya no es arrastrada por enseñanzas engañosas, sino que creciendo en Cristo, todo el cuerpo continúa siendo edificado en amor.}{99}{subsubsection*.140}%
-\contentsline {subsubsection}{Efesios 4:14}{99}{subsubsection*.141}%
-\contentsline {subsubsection}{Efesios 4:15}{100}{subsubsection*.142}%
-\contentsline {subsubsection}{Efesios 4:16}{100}{subsubsection*.143}%
-\contentsline {subsection}{Efesios 4:17-19 -- Instrucción que viene del Señor}{102}{subsection*.144}%
-\contentsline {subsubsection}{Efesios 4:17-19 -- Después de describir el crecimiento del cuerpo de Cristo, Pablo comienza a mostrar cómo debe vivir esa nueva humanidad.}{102}{subsubsection*.145}%
-\contentsline {subsubsection}{Efesios 4:17}{102}{subsubsection*.146}%
-\contentsline {subsubsection}{Efesios 4:18}{102}{subsubsection*.147}%
-\contentsline {subsubsection}{Efesios 4:19}{103}{subsubsection*.148}%
-\contentsline {subsubsection}{Efesios 4:20--21 -- La verdad que aprendieron en Cristo}{104}{subsubsection*.149}%
-\contentsline {subsubsection}{Efesios 4:20}{104}{subsubsection*.150}%
-\contentsline {subsubsection}{Efesios 4:21}{104}{subsubsection*.151}%
-\contentsline {subsubsection}{Efesios 4:22}{105}{subsubsection*.152}%
-\contentsline {subsubsection}{Efesios 4:23}{105}{subsubsection*.153}%
-\contentsline {subsubsection}{Efesios 4:24}{105}{subsubsection*.154}%
-\contentsline {subsection}{Efesios 4:25-5:2 -- Nueve Instrucciones según el nuevo hombre en Justicia y Santidad.}{106}{subsection*.155}%
-\contentsline {subsubsection}{Efesios 4:25}{106}{subsubsection*.156}%
-\contentsline {subsubsection}{Efesios 4:26}{107}{subsubsection*.157}%
-\contentsline {subsubsection}{Efesios 4:27}{108}{subsubsection*.158}%
-\contentsline {subsubsection}{Efesios 4:28}{108}{subsubsection*.159}%
-\contentsline {subsubsection}{Efesios 4:30}{111}{subsubsection*.160}%
-\contentsline {subsubsection}{Efesios 4:31}{112}{subsubsection*.161}%
-\contentsline {subsubsection}{Efesios 4:32}{113}{subsubsection*.162}%
-\contentsline {subsubsection}{Efesios 5:1}{114}{subsubsection*.163}%
-\contentsline {subsubsection}{Efesios 5:2}{115}{subsubsection*.164}%
-\contentsline {subsection}{Efesios 5:3--5 -- Lo que no corresponde a los santos}{116}{subsection*.165}%
-\contentsline {subsubsection}{Efesios 5:3}{116}{subsubsection*.166}%
-\contentsline {subsubsection}{Efesios 5:4}{117}{subsubsection*.167}%
-\contentsline {subsubsection}{Efesios 5:5}{118}{subsubsection*.168}%
-\contentsline {subsubsection}{Efesios 5:6}{119}{subsubsection*.169}%
-\contentsline {subsection}{Efesios 5:7--14 -- Andando como hijos de luz}{120}{subsection*.170}%
-\contentsline {subsubsection}{Efesios 5:7}{120}{subsubsection*.171}%
-\contentsline {subsubsection}{Efesios 5:8}{120}{subsubsection*.172}%
-\contentsline {subsubsection}{Efesios 5:9}{121}{subsubsection*.173}%
-\contentsline {subsubsection}{Efesios 5:10}{121}{subsubsection*.174}%
-\contentsline {subsubsection}{Efesios 5:11}{122}{subsubsection*.175}%
-\contentsline {subsubsection}{Efesios 5:12}{124}{subsubsection*.176}%
-\contentsline {subsubsection}{Efesios 5:13}{125}{subsubsection*.177}%
-\contentsline {subsubsection}{Efesios 5:14}{126}{subsubsection*.178}%
-\contentsline {subsubsection}{Desarrollo del argumento (Efesios 5:8--14)}{128}{subsubsection*.179}%
-\contentsline {subsection}{Efesios 5:15--21 -- Viviendo como sabios.}{128}{subsection*.180}%
-\contentsline {subsubsection}{Efesios 5:15--21 -- Después de llamar a los creyentes a andar como hijos de luz (5:8--14), Pablo continúa con una nueva exhortación acerca de la manera de vivir.}{128}{subsubsection*.181}%
-\contentsline {subsubsection}{El tema ya no es el contraste entre luz y tinieblas, sino entre la insensatez y la sabiduría.}{128}{subsubsection*.182}%
-\contentsline {subsubsection}{El mandato principal es tengan cuidado cómo andan*. Los imperativos y participios que siguen desarrollan cómo se vive sabiamente.}{128}{subsubsection*.183}%
-\contentsline {subsubsection}{Efesios 5:15}{128}{subsubsection*.184}%
-\contentsline {subsubsection}{Desarrollo del argumento (Efesios 5:15--21)}{129}{subsubsection*.185}%
-\contentsline {subsubsection}{Efesios 5:17}{131}{subsubsection*.186}%
-\contentsline {subsubsection}{Efesios 5:18}{133}{subsubsection*.187}%
-\contentsline {subsubsection}{Efesios 5:19}{135}{subsubsection*.188}%
-\contentsline {subsubsection}{Efesios 5:20}{138}{subsubsection*.189}%
-\contentsline {subsubsection}{Efesios 5:21}{139}{subsubsection*.190}%
-\contentsline {subsubsection}{Efesios 5:22}{141}{subsubsection*.191}%
-\contentsline {subsubsection}{Efesios 5:23}{143}{subsubsection*.192}%
-\contentsline {subsubsection}{Efesios 5:24}{145}{subsubsection*.193}%
-\contentsline {subsection}{Efesios 5:25-31 -- Instrucciones para los maridos según el modelo de Cristo.}{147}{subsection*.194}%
-\contentsline {subsubsection}{Efesios 5:25}{148}{subsubsection*.195}%
-\contentsline {subsubsection}{Efesios 5:26 --}{150}{subsubsection*.196}%
-\contentsline {subsubsection}{Efesios 5:27}{153}{subsubsection*.197}%
-\contentsline {subsubsection}{Efesios 5:28}{156}{subsubsection*.198}%
-\contentsline {subsubsection}{Efesios 5:29}{158}{subsubsection*.199}%
-\contentsline {subsubsection}{Efesios 5:30}{160}{subsubsection*.200}%
-\contentsline {subsubsection}{Efesios 5:31}{161}{subsubsection*.201}%
-\contentsline {subsubsection}{Efesios 5:32}{163}{subsubsection*.202}%
-\contentsline {subsubsection}{Efesios 5:33}{165}{subsubsection*.203}%
-\contentsline {subsection}{Observación}{166}{subsection*.204}%
-\contentsline {subsubsection}{La estructura completa de Efesios 5:22--33 muestra un movimiento cuidadosamente desarrollado.}{166}{subsubsection*.205}%
-\contentsline {subsubsection}{El flujo del argumento}{166}{subsubsection*.206}%
-\contentsline {subsection}{Efesios 6:1--3 -- Instrucciones para los hijos en el Señor}{166}{subsection*.207}%
-\contentsline {subsubsection}{Efesios 6:1}{167}{subsubsection*.208}%
-\contentsline {subsubsection}{Efesios 6:2}{168}{subsubsection*.209}%
-\contentsline {subsubsection}{Efesios 6:3}{169}{subsubsection*.210}%
-\contentsline {subsubsection}{Observación}{169}{subsubsection*.211}%
-\contentsline {subsection}{Efesios 6:4 -- Instrucciones para los padres en el Señor}{170}{subsection*.212}%
-\contentsline {subsubsection}{Efesios 6:4}{170}{subsubsection*.213}%
-\contentsline {subsection}{Efesios 6:5--8 -- Instrucciones para los siervos en el Señor}{172}{subsection*.214}%
-\contentsline {subsubsection}{Efesios 6:5}{172}{subsubsection*.215}%
-\contentsline {subsubsection}{Observación}{173}{subsubsection*.216}%
-\contentsline {subsubsection}{Efesios 6:6}{174}{subsubsection*.217}%
-\contentsline {subsubsection}{Efesios 6:7}{175}{subsubsection*.218}%
-\contentsline {subsubsection}{Efesios 6:8}{177}{subsubsection*.219}%
-\contentsline {subsection}{Efesios 6:9 -- Instrucciones para los amos (jefes) en el Señor.}{178}{subsection*.220}%
-\contentsline {subsubsection}{Efesios 6:9}{178}{subsubsection*.221}%
-\contentsline {section}{Efesios 6:10--18 -- Toda la armadura de Dios y la oración perseverante.}{181}{section*.222}%
-\contentsline {subsection}{Efesios 6:10--13 -- Fortalecidos en el Señor y revestidos con toda la armadura de Dios.}{181}{subsection*.223}%
-\contentsline {subsubsection}{Efesios 6:10}{181}{subsubsection*.224}%
-\contentsline {subsubsection}{Efesios 6:11}{183}{subsubsection*.225}%
-\contentsline {subsubsection}{Efesios 6:12}{185}{subsubsection*.226}%
-\contentsline {subsubsection}{Efesios 6:13}{187}{subsubsection*.227}%
-\contentsline {subsection}{Efesios 6:14-17 -- Toda la Armadura de Dios}{189}{subsection*.228}%
-\contentsline {subsubsection}{El objetivo continúa siendo el mismo: \textbf {permanecer firmes}.}{189}{subsubsection*.229}%
-\contentsline {subsubsection}{Efesios 6:14}{189}{subsubsection*.230}%
-\contentsline {subsection}{Pieza \#1}{190}{subsection*.231}%
-\contentsline {subsection}{Pieza \#2}{191}{subsection*.232}%
-\contentsline {subsection}{Pieza \#3}{191}{subsection*.233}%
-\contentsline {subsubsection}{Efesios 6:15}{191}{subsubsection*.234}%
-\contentsline {subsubsection}{Observación}{193}{subsubsection*.235}%
-\contentsline {subsubsection}{Efesios 6:16}{193}{subsubsection*.236}%
-\contentsline {subsubsection}{Efesios 6:17}{195}{subsubsection*.237}%
-\contentsline {subsection}{Efesios 6:17 -- Pieza \#5}{195}{subsection*.238}%
-\contentsline {subsection}{Efesios 6:17 -- Pieza \#6}{196}{subsection*.239}%
-\contentsline {subsection}{Efesios 6:18}{198}{subsection*.240}%
-\contentsline {subsubsection}{Efesios 6:18}{198}{subsubsection*.241}%
-\contentsline {subsection}{Efesios 6:19--20 -- Oración por Pablo.}{200}{subsection*.242}%
-\contentsline {subsubsection}{Efesios 6:19}{200}{subsubsection*.243}%
-\contentsline {subsubsection}{Efesios 6:20}{202}{subsubsection*.244}%
-\contentsline {subsection}{Efesios 6:21--22 -- El hermano Tíquico en el Señor.}{204}{subsection*.245}%
-\contentsline {subsubsection}{Efesios 6:21}{204}{subsubsection*.246}%
-\contentsline {subsubsection}{Efesios 6:22}{205}{subsubsection*.247}%
-\contentsline {subsection}{Efesios 6:23--24 -- Despedida llena de bendiciones.}{207}{subsection*.248}%
-\contentsline {subsubsection}{Efesios 6:23}{207}{subsubsection*.249}%
-\contentsline {subsubsection}{Efesios 6:24}{208}{subsubsection*.250}%
-\contentsline {subsubsection}{Observe el cierre de la carta.}{209}{subsubsection*.251}%
+\contentsline {subsection}{Autor y Fecha de la escritura del libro de Efesios}{5}{subsection*.12}%
+\contentsline {subsubsection}{Efesios 1:1}{6}{subsubsection*.13}%
+\contentsline {subsubsection}{Efesios 1:2}{7}{subsubsection*.14}%
+\contentsline {section}{Efesios 1:3--14 -- DIOS LOS BENDIJO EN CRISTO}{7}{section*.15}%
+\contentsline {subsection}{Efesios 1:3--6 -- Bendecidos en Cristo con toda bendición espiritual}{7}{subsection*.16}%
+\contentsline {subsubsection}{Efesios 1:3}{7}{subsubsection*.17}%
+\contentsline {subsubsection}{Efesios 1:4}{9}{subsubsection*.18}%
+\contentsline {subsubsection}{Efesios 1:5}{12}{subsubsection*.19}%
+\contentsline {subsubsection}{Efesios 1:6}{14}{subsubsection*.20}%
+\contentsline {subsubsection}{Efesios 1:7}{16}{subsubsection*.21}%
+\contentsline {subsubsection}{Efesios 1:8}{18}{subsubsection*.22}%
+\contentsline {subsubsection}{en toda sabiduría}{19}{subsubsection*.23}%
+\contentsline {subparagraph}{La expresión puede entenderse como la manera en que Dios actuó.}{19}{subparagraph*.24}%
+\contentsline {subparagraph}{Dios no obró al azar ni improvisó Su plan de redención.}{19}{subparagraph*.25}%
+\contentsline {subparagraph}{Todo lo hizo con perfecta sabiduría.}{19}{subparagraph*.26}%
+\contentsline {subparagraph}{En la Escritura, la sabiduría frecuentemente describe la capacidad de llevar a cabo un propósito perfecto.}{19}{subparagraph*.27}%
+\contentsline {subparagraph}{En los versículos siguientes Pablo mostrará precisamente cuál era ese propósito.}{19}{subparagraph*.28}%
+\contentsline {subparagraph}{La inteligencia expresa discernimiento, comprensión o entendimiento.}{19}{subparagraph*.29}%
+\contentsline {subparagraph}{Dios no solamente tuvo un plan perfecto.}{19}{subparagraph*.30}%
+\contentsline {subparagraph}{También lo ejecutó con completo entendimiento y conocimiento.}{19}{subparagraph*.31}%
+\contentsline {subparagraph}{Estas dos palabras preparan naturalmente la siguiente declaración.}{19}{subparagraph*.32}%
+\contentsline {subparagraph}{En el versículo 9 Pablo dirá que Dios dio a conocer el misterio de Su voluntad.}{19}{subparagraph*.33}%
+\contentsline {subparagraph}{La sabiduría y la inteligencia de Dios se manifiestan precisamente al revelar ese misterio.}{19}{subparagraph*.34}%
+\contentsline {subsubsection}{Efesios 1:9}{20}{subsubsection*.35}%
+\contentsline {subsubsection}{Efesios 1:10}{21}{subsubsection*.36}%
+\contentsline {subsubsection}{Efesios 1:11}{24}{subsubsection*.37}%
+\contentsline {subsubsection}{Efesios 1:12}{26}{subsubsection*.38}%
+\contentsline {subsubsection}{Efesios 1:13}{27}{subsubsection*.39}%
+\contentsline {subsubsection}{Efesios 1:14}{30}{subsubsection*.40}%
+\contentsline {subsection}{Efesios 1:15--23 -- Pablo da gracias y ora para que los creyentes conozcan más plenamente la obra de Dios.}{32}{subsection*.41}%
+\contentsline {subsubsection}{Efesios 1:15}{32}{subsubsection*.42}%
+\contentsline {subsubsection}{Efesios 1:16}{33}{subsubsection*.43}%
+\contentsline {subsubsection}{Efesios 1:17}{35}{subsubsection*.44}%
+\contentsline {subsection}{Efesios 1:18--19 -- Pablo ora para que conozcan más plenamente la obra de Dios}{37}{subsection*.45}%
+\contentsline {subsubsection}{Efesios 1:18}{37}{subsubsection*.46}%
+\contentsline {subsubsection}{Efesios 1:19}{38}{subsubsection*.47}%
+\contentsline {subsection}{Efesios 1:20--23 -- El poder de Dios manifestado en Cristo}{40}{subsection*.48}%
+\contentsline {subsubsection}{Efesios 1:20}{40}{subsubsection*.49}%
+\contentsline {subsubsection}{Efesios 1:21}{41}{subsubsection*.50}%
+\contentsline {subsubsection}{Efesios 1:22}{43}{subsubsection*.51}%
+\contentsline {subsubsection}{Efesios 1:23}{44}{subsubsection*.52}%
+\contentsline {subsection}{En Síntesis}{46}{subsection*.53}%
+\contentsline {section}{Efesios 2:1--10 -- DIOS VIDA A LOS QUE ESTABAN}{46}{section*.54}%
+\contentsline {subsection}{Efesios 2:1--3 -- La condición pasada de toda la humanidad}{46}{subsection*.55}%
+\contentsline {subsubsection}{Efesios 2:1}{46}{subsubsection*.56}%
+\contentsline {subsubsection}{Efesios 2:2}{48}{subsubsection*.57}%
+\contentsline {subsubsection}{Efesios 2:3}{49}{subsubsection*.58}%
+\contentsline {subsection}{En Síntesis}{51}{subsection*.59}%
+\contentsline {subsection}{Efesios 2:4--7 -- Pero Dios dio vida juntamente con Cristo.}{51}{subsection*.60}%
+\contentsline {subsubsection}{Efesios 2:4}{51}{subsubsection*.61}%
+\contentsline {subsection}{Efesios 2:5--6 -- Dios dio vida juntamente con Cristo}{53}{subsection*.62}%
+\contentsline {subsubsection}{Efesios 2:5}{53}{subsubsection*.63}%
+\contentsline {subsubsection}{Efesios 2:6}{54}{subsubsection*.64}%
+\contentsline {subsubsection}{Efesios 2:7}{56}{subsubsection*.65}%
+\contentsline {subsection}{Efesios 2:8--9 -- La salvación es por gracia y no por obras}{57}{subsection*.66}%
+\contentsline {subsubsection}{Efesios 2:8}{57}{subsubsection*.67}%
+\contentsline {subsubsection}{Efesios 2:9}{58}{subsubsection*.68}%
+\contentsline {subsection}{Efesios 2:10 -- Creados en Cristo Jesús para buenas obras}{59}{subsection*.69}%
+\contentsline {subsubsection}{Efesios 2:10}{59}{subsubsection*.70}%
+\contentsline {subsubsection}{Observación estructural}{60}{subsubsection*.71}%
+\contentsline {section}{Efesios 2:11--12 -- RECUERDEN CÓMO ERA SU CONDICIÓN}{61}{section*.72}%
+\contentsline {subsubsection}{Efesios 2:11}{61}{subsubsection*.73}%
+\contentsline {subsubsection}{Efesios 2:12}{62}{subsubsection*.74}%
+\contentsline {subsection}{Efesios 2:13--16 -- Cristo acerca a los que estaban lejos y crea un solo hombre nuevo}{64}{subsection*.75}%
+\contentsline {subsubsection}{Efesios 2:13}{64}{subsubsection*.76}%
+\contentsline {subsubsection}{Efesios 2:14}{65}{subsubsection*.77}%
+\contentsline {subsubsection}{Efesios 2:15}{66}{subsubsection*.78}%
+\contentsline {subsubsection}{Efesios 2:16}{68}{subsubsection*.79}%
+\contentsline {subsection}{Efesios 2:17--18 -- Cristo anunció la paz y dio acceso al Padre}{69}{subsection*.80}%
+\contentsline {subsubsection}{Efesios 2:17}{69}{subsubsection*.81}%
+\contentsline {subsubsection}{Efesios 2:18}{70}{subsubsection*.82}%
+\contentsline {subsubsection}{Efesios 2:19}{71}{subsubsection*.83}%
+\contentsline {subsection}{Efesios 2:20--21 -- Edificados sobre el fundamento}{73}{subsection*.84}%
+\contentsline {subsubsection}{Efesios 2:20}{73}{subsubsection*.85}%
+\contentsline {subsubsection}{Efesios 2:21}{73}{subsubsection*.86}%
+\contentsline {section}{EFESIOS 3:1-13 -- LA ADMINISTRACIÓN DEL MINISTERIO REVELADO A PABLO}{75}{section*.87}%
+\contentsline {subsection}{Efesios 3:1-6 -- El misterio revelado por el evangelio a los apóstoles y profetas según la administración de la gracia de Dios.}{75}{subsection*.88}%
+\contentsline {subsubsection}{Efesios 3:1}{75}{subsubsection*.89}%
+\contentsline {subsubsection}{Efesios 3:2-3 -- La administración de la gracia de Dios y la revelación del misterio.}{75}{subsubsection*.90}%
+\contentsline {subsubsection}{Efesios 3:2}{75}{subsubsection*.91}%
+\contentsline {subsubsection}{Efesios 3:3}{76}{subsubsection*.92}%
+\contentsline {subsubsection}{Efesios 3:4-5 -- El misterio de Cristo, antes oculto, ahora revelado.}{76}{subsubsection*.93}%
+\contentsline {subsubsection}{Efesios 3:4}{76}{subsubsection*.94}%
+\contentsline {subsubsection}{Efesios 3:5}{76}{subsubsection*.95}%
+\contentsline {subsubsection}{Efesios 3:5}{77}{subsubsection*.96}%
+\contentsline {subsubsection}{Efesios 3:6 -- El contenido del misterio de Cristo.}{78}{subsubsection*.97}%
+\contentsline {subsubsection}{Efesios 3:6}{78}{subsubsection*.98}%
+\contentsline {subsection}{Efesios 3:7-9 -- Pablo anuncia el misterio de Cristo por la gracia de Dios.}{79}{subsection*.99}%
+\contentsline {subsubsection}{Efesios 3:7}{79}{subsubsection*.100}%
+\contentsline {subsubsection}{Efesios 3:8-9 -- La gracia dada a Pablo para anunciar las riquezas de Cristo.}{79}{subsubsection*.101}%
+\contentsline {subsubsection}{Efesios 3:8}{79}{subsubsection*.102}%
+\contentsline {subsubsection}{Efesios 3:9}{80}{subsubsection*.103}%
+\contentsline {subsubsection}{Efesios 3:10--12 -- La iglesia hace visible la sabiduría de Dios conforme a Su propósito eterno.}{81}{subsubsection*.104}%
+\contentsline {subsubsection}{Efesios 3:10}{81}{subsubsection*.105}%
+\contentsline {subsubsection}{Efesios 3:11--12 -- El propósito eterno de Dios se realizó en Cristo, y en Él tenemos libre acceso al Padre.}{82}{subsubsection*.106}%
+\contentsline {subsubsection}{Efesios 3:11}{82}{subsubsection*.107}%
+\contentsline {subsubsection}{Efesios 3:12}{82}{subsubsection*.108}%
+\contentsline {subsubsection}{Efesios 3:13 -- Las tribulaciones de Pablo no deben desanimar a la iglesia.}{82}{subsubsection*.109}%
+\contentsline {subsubsection}{Efesios 3:13}{82}{subsubsection*.110}%
+\contentsline {subsubsection}{Efesios 3:14--15 -- Pablo ora al Padre por el fortalecimiento de los creyentes.}{83}{subsubsection*.111}%
+\contentsline {subsubsection}{Efesios 3:14}{83}{subsubsection*.112}%
+\contentsline {subsubsection}{Efesios 3:15}{84}{subsubsection*.113}%
+\contentsline {subsubsection}{Efesios 3:16 -- Pablo pide que los creyentes sean fortalecidos por el Espíritu.}{84}{subsubsection*.114}%
+\contentsline {subsubsection}{Efesios 3:16}{84}{subsubsection*.115}%
+\contentsline {subsubsection}{Efesios 3:17--19 -- Pablo ora para que los creyentes comprendan el amor de Cristo.}{85}{subsubsection*.116}%
+\contentsline {subsubsection}{Efesios 3:17}{85}{subsubsection*.117}%
+\contentsline {subsubsection}{Efesios 3:18}{85}{subsubsection*.118}%
+\contentsline {subsubsection}{Efesios 3:19}{86}{subsubsection*.119}%
+\contentsline {subsection}{Efesios 3:20-21 -- Alabanza a Dios por Su poder y Su gloria}{87}{subsection*.120}%
+\contentsline {subsubsection}{Efesios 3:20}{87}{subsubsection*.121}%
+\contentsline {subsubsection}{Efesios 3:21}{88}{subsubsection*.122}%
+\contentsline {subsection}{Efesios 4:1-3 -- Vivan de una manera digna del llamamiento recibido.}{88}{subsection*.123}%
+\contentsline {subsubsection}{Efesios 4:1}{88}{subsubsection*.124}%
+\contentsline {subsubsection}{Efesios 4:2}{89}{subsubsection*.125}%
+\contentsline {subsubsection}{Efesios 4:3}{90}{subsubsection*.126}%
+\contentsline {subsubsection}{Efesios 4:4}{91}{subsubsection*.127}%
+\contentsline {subsubsection}{Efesios 4:5}{91}{subsubsection*.128}%
+\contentsline {subsubsection}{Efesios 4:6}{92}{subsubsection*.129}%
+\contentsline {subsection}{Efesios 4:7--10 -- Cristo reparte gracia a cada miembro de Su cuerpo.}{92}{subsection*.130}%
+\contentsline {subsubsection}{Efesios 4:7}{92}{subsubsection*.131}%
+\contentsline {subsubsection}{Efesios 4:8}{93}{subsubsection*.132}%
+\contentsline {subsubsection}{Efesios 4:9}{94}{subsubsection*.133}%
+\contentsline {subsubsection}{Efesios 4:10}{94}{subsubsection*.134}%
+\contentsline {subsubsection}{Efesios 4:11}{95}{subsubsection*.135}%
+\contentsline {subsubsection}{Efesios 4:12--13 -- El propósito de los dones de Cristo}{96}{subsubsection*.136}%
+\contentsline {subsubsection}{Efesios 4:12}{96}{subsubsection*.137}%
+\contentsline {subsubsection}{Efesios 4:13}{97}{subsubsection*.138}%
+\contentsline {subsection}{Efesios 4:14-16 -- Una iglesia nutrida en Cristo y edificada con cada miembro en amor.}{98}{subsection*.139}%
+\contentsline {subsubsection}{Efesios 4:14-16 -- La iglesia madura ya no es arrastrada por enseñanzas engañosas, sino que creciendo en Cristo, todo el cuerpo continúa siendo edificado en amor.}{98}{subsubsection*.140}%
+\contentsline {subsubsection}{Efesios 4:14}{98}{subsubsection*.141}%
+\contentsline {subsubsection}{Efesios 4:15}{99}{subsubsection*.142}%
+\contentsline {subsubsection}{Efesios 4:16}{99}{subsubsection*.143}%
+\contentsline {subsection}{Efesios 4:17-19 -- Instrucción que viene del Señor}{101}{subsection*.144}%
+\contentsline {subsubsection}{Efesios 4:17-19 -- Después de describir el crecimiento del cuerpo de Cristo, Pablo comienza a mostrar cómo debe vivir esa nueva humanidad.}{101}{subsubsection*.145}%
+\contentsline {subsubsection}{Efesios 4:17}{101}{subsubsection*.146}%
+\contentsline {subsubsection}{Efesios 4:18}{101}{subsubsection*.147}%
+\contentsline {subsubsection}{Efesios 4:19}{102}{subsubsection*.148}%
+\contentsline {subsubsection}{Efesios 4:20--21 -- La verdad que aprendieron en Cristo}{103}{subsubsection*.149}%
+\contentsline {subsubsection}{Efesios 4:20}{103}{subsubsection*.150}%
+\contentsline {subsubsection}{Efesios 4:21}{103}{subsubsection*.151}%
+\contentsline {subsubsection}{Efesios 4:22}{104}{subsubsection*.152}%
+\contentsline {subsubsection}{Efesios 4:23}{104}{subsubsection*.153}%
+\contentsline {subsubsection}{Efesios 4:24}{104}{subsubsection*.154}%
+\contentsline {subsection}{Efesios 4:25-5:2 -- Nueve Instrucciones según el nuevo hombre en Justicia y Santidad.}{105}{subsection*.155}%
+\contentsline {subsubsection}{Efesios 4:25}{105}{subsubsection*.156}%
+\contentsline {subsubsection}{Efesios 4:26}{106}{subsubsection*.157}%
+\contentsline {subsubsection}{Efesios 4:27}{107}{subsubsection*.158}%
+\contentsline {subsubsection}{Efesios 4:28}{107}{subsubsection*.159}%
+\contentsline {subsubsection}{Efesios 4:30}{110}{subsubsection*.160}%
+\contentsline {subsubsection}{Efesios 4:31}{111}{subsubsection*.161}%
+\contentsline {subsubsection}{Efesios 4:32}{112}{subsubsection*.162}%
+\contentsline {subsubsection}{Efesios 5:1}{113}{subsubsection*.163}%
+\contentsline {subsubsection}{Efesios 5:2}{114}{subsubsection*.164}%
+\contentsline {subsection}{Efesios 5:3--5 -- Lo que no corresponde a los santos}{115}{subsection*.165}%
+\contentsline {subsubsection}{Efesios 5:3}{115}{subsubsection*.166}%
+\contentsline {subsubsection}{Efesios 5:4}{116}{subsubsection*.167}%
+\contentsline {subsubsection}{Efesios 5:5}{117}{subsubsection*.168}%
+\contentsline {subsubsection}{Efesios 5:6}{118}{subsubsection*.169}%
+\contentsline {subsection}{Efesios 5:7--14 -- Andando como hijos de luz}{119}{subsection*.170}%
+\contentsline {subsubsection}{Efesios 5:7}{119}{subsubsection*.171}%
+\contentsline {subsubsection}{Efesios 5:8}{119}{subsubsection*.172}%
+\contentsline {subsubsection}{Efesios 5:9}{120}{subsubsection*.173}%
+\contentsline {subsubsection}{Efesios 5:10}{120}{subsubsection*.174}%
+\contentsline {subsubsection}{Efesios 5:11}{121}{subsubsection*.175}%
+\contentsline {subsubsection}{Efesios 5:12}{123}{subsubsection*.176}%
+\contentsline {subsubsection}{Efesios 5:13}{124}{subsubsection*.177}%
+\contentsline {subsubsection}{Efesios 5:14}{125}{subsubsection*.178}%
+\contentsline {subsubsection}{Desarrollo del argumento (Efesios 5:8--14)}{127}{subsubsection*.179}%
+\contentsline {subsection}{Efesios 5:15--21 -- Viviendo como sabios.}{127}{subsection*.180}%
+\contentsline {subsubsection}{Efesios 5:15--21 -- Después de llamar a los creyentes a andar como hijos de luz (5:8--14), Pablo continúa con una nueva exhortación acerca de la manera de vivir.}{127}{subsubsection*.181}%
+\contentsline {subsubsection}{El tema ya no es el contraste entre luz y tinieblas, sino entre la insensatez y la sabiduría.}{127}{subsubsection*.182}%
+\contentsline {subsubsection}{El mandato principal es tengan cuidado cómo andan*. Los imperativos y participios que siguen desarrollan cómo se vive sabiamente.}{127}{subsubsection*.183}%
+\contentsline {subsubsection}{Efesios 5:15}{127}{subsubsection*.184}%
+\contentsline {subsubsection}{Desarrollo del argumento (Efesios 5:15--21)}{128}{subsubsection*.185}%
+\contentsline {subsubsection}{Efesios 5:17}{130}{subsubsection*.186}%
+\contentsline {subsubsection}{Efesios 5:18}{132}{subsubsection*.187}%
+\contentsline {subsubsection}{Efesios 5:19}{134}{subsubsection*.188}%
+\contentsline {subsubsection}{Efesios 5:20}{137}{subsubsection*.189}%
+\contentsline {subsubsection}{Efesios 5:21}{138}{subsubsection*.190}%
+\contentsline {subsubsection}{Efesios 5:22}{140}{subsubsection*.191}%
+\contentsline {subsubsection}{Efesios 5:23}{142}{subsubsection*.192}%
+\contentsline {subsubsection}{Efesios 5:24}{144}{subsubsection*.193}%
+\contentsline {subsection}{Efesios 5:25-31 -- Instrucciones para los maridos según el modelo de Cristo.}{146}{subsection*.194}%
+\contentsline {subsubsection}{Efesios 5:25}{147}{subsubsection*.195}%
+\contentsline {subsubsection}{Efesios 5:26}{148}{subsubsection*.196}%
+\contentsline {subsubsection}{Efesios 5:27}{151}{subsubsection*.197}%
+\contentsline {subsubsection}{Efesios 5:28}{154}{subsubsection*.198}%
+\contentsline {subsubsection}{Efesios 5:29}{156}{subsubsection*.199}%
+\contentsline {subsubsection}{Efesios 5:30}{157}{subsubsection*.200}%
+\contentsline {subsubsection}{Efesios 5:31}{159}{subsubsection*.201}%
+\contentsline {subsubsection}{Efesios 5:32}{161}{subsubsection*.202}%
+\contentsline {subsubsection}{Efesios 5:33}{162}{subsubsection*.203}%
+\contentsline {subsection}{Observación}{163}{subsection*.204}%
+\contentsline {subsection}{Efesios 6:1--3 -- Instrucciones para los hijos en el Señor}{164}{subsection*.206}%
+\contentsline {subsubsection}{Efesios 6:1}{166}{subsubsection*.207}%
+\contentsline {subsubsection}{Efesios 6:2}{167}{subsubsection*.208}%
+\contentsline {subsubsection}{Efesios 6:3}{168}{subsubsection*.209}%
+\contentsline {subsubsection}{Observación}{169}{subsubsection*.210}%
+\contentsline {subsection}{Efesios 6:4 -- Instrucciones para los padres en el Señor}{169}{subsection*.211}%
+\contentsline {subsubsection}{Efesios 6:4}{169}{subsubsection*.212}%
+\contentsline {subsection}{Efesios 6:5--8 -- Instrucciones para los siervos en el Señor}{171}{subsection*.213}%
+\contentsline {subsubsection}{Efesios 6:5}{171}{subsubsection*.214}%
+\contentsline {subsubsection}{Observación}{173}{subsubsection*.215}%
+\contentsline {subsubsection}{Efesios 6:6}{173}{subsubsection*.216}%
+\contentsline {subsubsection}{Efesios 6:7}{175}{subsubsection*.217}%
+\contentsline {subsubsection}{Efesios 6:8}{176}{subsubsection*.218}%
+\contentsline {subsection}{Efesios 6:9 -- Instrucciones para los amos (jefes) en el Señor.}{178}{subsection*.219}%
+\contentsline {subsubsection}{Efesios 6:9}{178}{subsubsection*.220}%
+\contentsline {section}{Efesios 6:10--18 -- TODA LA ARMADURA DE DIOS Y LA ORACIÓN PERSEVERANTE}{180}{section*.221}%
+\contentsline {subsection}{Efesios 6:10--13 -- Fortalecidos en el Señor y revestidos con toda la armadura de Dios.}{180}{subsection*.222}%
+\contentsline {subsubsection}{Efesios 6:10}{180}{subsubsection*.223}%
+\contentsline {subsubsection}{Efesios 6:11}{182}{subsubsection*.224}%
+\contentsline {subsubsection}{Efesios 6:12}{184}{subsubsection*.225}%
+\contentsline {subsubsection}{Efesios 6:13}{186}{subsubsection*.226}%
+\contentsline {subsection}{Efesios 6:14-17 -- Toda la Armadura de Dios}{188}{subsection*.227}%
+\contentsline {subsubsection}{Efesios 6:14}{188}{subsubsection*.228}%
+\contentsline {subsection}{Pieza \#1}{189}{subsection*.229}%
+\contentsline {subsection}{Pieza \#2}{190}{subsection*.230}%
+\contentsline {subsubsection}{Efesios 6:15}{191}{subsubsection*.231}%
+\contentsline {subsubsection}{Observación}{192}{subsubsection*.232}%
+\contentsline {subsubsection}{Efesios 6:16}{192}{subsubsection*.233}%
+\contentsline {subsubsection}{Efesios 6:17}{194}{subsubsection*.234}%
+\contentsline {subsection}{Efesios 6:17 -- Pieza \#5}{194}{subsection*.235}%
+\contentsline {subsection}{Efesios 6:17 -- Pieza \#6}{195}{subsection*.236}%
+\contentsline {subsection}{Efesios 6:18}{197}{subsection*.237}%
+\contentsline {subsubsection}{Efesios 6:18}{197}{subsubsection*.238}%
+\contentsline {subsection}{Efesios 6:19--20 -- Oración por Pablo.}{199}{subsection*.239}%
+\contentsline {subsubsection}{Efesios 6:19}{199}{subsubsection*.240}%
+\contentsline {subsubsection}{Efesios 6:20}{201}{subsubsection*.241}%
+\contentsline {subsection}{Efesios 6:21--22 -- El hermano Tíquico en el Señor.}{203}{subsection*.242}%
+\contentsline {subsubsection}{Efesios 6:21}{203}{subsubsection*.243}%
+\contentsline {subsubsection}{Efesios 6:22}{204}{subsubsection*.244}%
+\contentsline {subsection}{Efesios 6:23--24 -- Despedida llena de bendiciones.}{206}{subsection*.245}%
+\contentsline {subsubsection}{Efesios 6:23}{206}{subsubsection*.246}%
+\contentsline {subsubsection}{Efesios 6:24}{207}{subsubsection*.247}%

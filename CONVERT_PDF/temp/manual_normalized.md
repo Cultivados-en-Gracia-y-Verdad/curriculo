@@ -14,47 +14,47 @@ Efesios
 El misterio de Cristo revelado por medio del evangelio
 :::
 
-# Introducción
+# INTRODUCCIÓN
 
 ## La ciudad de Éfeso
 
 \textbf{Ubicación e importancia}
 
-Éfeso estaba situada en la costa occidental de Asia Menor, en la actual Turquía. Durante el primer siglo era la capital de la provincia romana de Asia y una de las ciudades más importantes del Imperio Romano.
+\headingfive{Éfeso estaba situada en la costa occidental de Asia Menor, en la actual Turquía. Durante el primer siglo era la capital de la provincia romana de Asia y una de las ciudades más importantes del Imperio Romano.}
 
-Su puerto sobre el mar Egeo la convirtió en un centro estratégico para el comercio, la administración y la difusión de ideas. Desde Éfeso era posible acceder fácilmente a las demás ciudades de la provincia, lo que explica la influencia que tuvo el evangelio en toda la región (Hechos 19:10).
+\headingfive{Su puerto sobre el mar Egeo la convirtió en un centro estratégico para el comercio, la administración y la difusión de ideas. Desde Éfeso era posible acceder fácilmente a las demás ciudades de la provincia, lo que explica la influencia que tuvo el evangelio en toda la región (Hechos 19:10).}
 
 \headingfive{\textbf{La cultura de \fillin{Éfeso}}}
 
-Éfeso era una ciudad grande y próspera, con una población estimada entre 200.000 y 250.000 habitantes.
+\headingfive{Éfeso era una ciudad grande y próspera, con una población estimada entre 200.000 y 250.000 habitantes.}
 
-Su economía dependía principalmente del comercio marítimo, la manufactura y la actividad religiosa. Contaba con un gran puerto, amplios mercados (ágoras), calles pavimentadas y edificios públicos que reflejaban la riqueza de la ciudad.
+\headingfive{Su economía dependía principalmente del comercio marítimo, la manufactura y la actividad religiosa. Contaba con un gran puerto, amplios mercados (ágoras), calles pavimentadas y edificios públicos que reflejaban la riqueza de la ciudad.}
 
-Entre sus construcciones más conocidas estaban el gran teatro, con capacidad para miles de personas, y la Biblioteca de Celso, uno de los edificios más representativos de la ciudad durante la época romana.
+\headingfive{Entre sus construcciones más conocidas estaban el gran teatro, con capacidad para miles de personas, y la Biblioteca de Celso, uno de los edificios más representativos de la ciudad durante la época romana.}
 
 \headingfive{\textbf{La religión en \fillin{Éfeso}}}
 
-La ciudad era famosa por el templo de Artemisa (Diana para los romanos), considerado una de las maravillas del mundo antiguo.
+\headingfive{La ciudad era famosa por el templo de Artemisa (Diana para los romanos), considerado una de las maravillas del mundo antiguo.}
 
-El culto a Artemisa dominaba la identidad religiosa de la ciudad y sostenía una importante actividad económica mediante la fabricación y venta de imágenes y objetos relacionados con la diosa (Hechos 19:23–41).
+\headingfive{El culto a Artemisa dominaba la identidad religiosa de la ciudad y sostenía una importante actividad económica mediante la fabricación y venta de imágenes y objetos relacionados con la diosa (Hechos 19:23–41).}
 
-Además del culto a Artemisa, Éfeso era conocida por la práctica de la magia y el ocultismo. Cuando muchos creyeron en el evangelio, abandonaron esas prácticas y quemaron públicamente sus libros de magia (Hechos 19:18–20).
+\headingfive{Además del culto a Artemisa, Éfeso era conocida por la práctica de la magia y el ocultismo. Cuando muchos creyeron en el evangelio, abandonaron esas prácticas y quemaron públicamente sus libros de magia (Hechos 19:18–20).}
 
-También existía una comunidad judía con una sinagoga, donde Pablo comenzó predicando el evangelio (Hechos 18:19; 19:8).
+\headingfive{También existía una comunidad judía con una sinagoga, donde Pablo comenzó predicando el evangelio (Hechos 18:19; 19:8).}
 
 ## La iglesia en Éfeso
 
-Pablo visitó Éfeso por primera vez durante su segundo viaje misionero. Permaneció poco tiempo, predicó en la sinagoga y dejó allí a Aquila y Priscila antes de continuar su viaje (Hechos 18:18–21).
+\headingfive{Pablo visitó Éfeso por primera vez durante su segundo viaje misionero. Permaneció poco tiempo, predicó en la sinagoga y dejó allí a Aquila y Priscila antes de continuar su viaje (Hechos 18:18–21).}
 
-Tiempo después llegó Apolos, quien conocía las Escrituras y el bautismo de Juan. Aquila y Priscila le explicaron con mayor precisión el camino de Dios (Hechos 18:24–26).
+\headingfive{Tiempo después llegó Apolos, quien conocía las Escrituras y el bautismo de Juan. Aquila y Priscila le explicaron con mayor precisión el camino de Dios (Hechos 18:24–26).}
 
-Durante su tercer viaje misionero Pablo regresó a Éfeso y permaneció allí alrededor de tres años. Predicó primero en la sinagoga y luego enseñó diariamente en la escuela de Tirano, de manera que el evangelio llegó a toda la provincia de Asia (Hechos 19:8–10).
+\headingfive{Durante su tercer viaje misionero Pablo regresó a Éfeso y permaneció allí alrededor de tres años. Predicó primero en la sinagoga y luego enseñó diariamente en la escuela de Tirano, de manera que el evangelio llegó a toda la provincia de Asia (Hechos 19:8–10).}
 
-El crecimiento del evangelio produjo un profundo impacto en la ciudad. Muchos abandonaron la magia y la idolatría, mientras que la disminución del comercio relacionado con Artemisa provocó el gran alboroto narrado en Hechos 19:23–41.
+\headingfive{El crecimiento del evangelio produjo un profundo impacto en la ciudad. Muchos abandonaron la magia y la idolatría, mientras que la disminución del comercio relacionado con Artemisa provocó el gran alboroto narrado en Hechos 19:23–41.}
 
-Antes de dirigirse a Jerusalén, Pablo convocó en Mileto a los ancianos de la iglesia de Éfeso para exhortarlos a cuidar fielmente el rebaño que Dios les había encomendado (Hechos 20:17–38).
+\headingfive{Antes de dirigirse a Jerusalén, Pablo convocó en Mileto a los ancianos de la iglesia de Éfeso para exhortarlos a cuidar fielmente el rebaño que Dios les había encomendado (Hechos 20:17–38).}
 
-Años más tarde dejó a Timoteo en Éfeso para enfrentar las falsas enseñanzas y ordenar la vida de la iglesia (1 Timoteo 1:3).
+\headingfive{Años más tarde dejó a Timoteo en Éfeso para enfrentar las falsas enseñanzas y ordenar la vida de la iglesia (1 Timoteo 1:3).}
 
 ## Panorama del libro de Efesios
 
@@ -64,47 +64,11 @@ Años más tarde dejó a Timoteo en Éfeso para enfrentar las falsas enseñanzas
 
 ## Propósito del libro de Efesios
 
-Efesios fue escrito por Pablo para dar a conocer el misterio de Cristo que Dios reveló en Su debido tiempo y que le encomendó anunciar entre los gentiles (1:9; 3:3–10). Al mismo tiempo, exhorta a los creyentes a vivir de manera coherente con la obra que Dios ya ha realizado en Cristo (4:1).
+\headingfive{Efesios fue escrito por Pablo para dar a conocer el misterio de Cristo que Dios reveló en Su debido tiempo y que le encomendó anunciar entre los gentiles (1:9; 3:3–10). Al mismo tiempo, exhorta a los creyentes a vivir de manera coherente con la obra que Dios ya ha realizado en Cristo (4:1).}
 
-La carta presenta primero la obra de Dios y luego llama a los creyentes a responder a esa obra mediante una vida digna de su llamamiento.
+\headingfive{La carta presenta primero la obra de Dios y luego llama a los creyentes a responder a esa obra mediante una vida digna de su llamamiento.}
 
-\headingfive{Capítulo 1}
-
-Pablo comienza bendiciendo a Dios por todas las bendiciones espirituales concedidas en Cristo. Describe la obra de Dios conforme a Su voluntad y propósito, culminando con la alabanza de Su gloria (1:3–14).
-
-Después ora para que los creyentes comprendan la esperanza de su llamamiento, las riquezas de la herencia de Dios y la extraordinaria grandeza de Su poder para con los que creen (1:15–23).
-
-\headingfive{Capítulo 2}
-
-Pablo recuerda la condición pasada de los creyentes y muestra que Dios les dio vida juntamente con Cristo únicamente por gracia (2:1–10).
-
-Luego dirige la atención a la reconciliación de judíos y gentiles. Cristo derribó la enemistad, hizo de ambos un solo pueblo y los está edificando juntamente como morada de Dios en el Espíritu (2:11–22).
-
-\headingfive{Capítulo 3}
-
-Pablo explica el ministerio que le fue encomendado para dar a conocer el misterio de Cristo, anteriormente oculto y ahora revelado, conforme al propósito eterno de Dios (3:1–13).
-
-Después ora nuevamente para que los creyentes sean fortalecidos por el Espíritu, comprendan el amor de Cristo y sean llenos hasta toda la plenitud de Dios (3:14–21).
-
-\headingfive{Capítulo 4}
-
-Sobre la base de todo lo anterior, Pablo exhorta a los creyentes a vivir de una manera digna del llamamiento recibido, conservando la unidad del Espíritu (4:1–6).
-
-Explica que Cristo dio dones para la edificación de Su cuerpo hasta que todos lleguen a la madurez en Él (4:7–16).
-
-Finalmente, exhorta a abandonar la antigua manera de vivir, renovarse y revestirse del nuevo hombre creado según Dios (4:17–32).
-
-\headingfive{Capítulo 5}
-
-Pablo continúa mostrando cómo debe caminar el creyente: como imitador de Dios, en amor, como hijo de luz y con sabiduría, siendo lleno del Espíritu (5:1–21).
-
-Luego aplica estas instrucciones a las relaciones entre esposos y esposas, utilizando la relación entre Cristo y la iglesia para ilustrar el propósito del matrimonio (5:22–33).
-
-\headingfive{Capítulo 6}
-
-Las exhortaciones continúan con las relaciones entre hijos y padres, y entre siervos y amos, mostrando cómo debe vivirse el llamamiento recibido en todos los ámbitos de la vida (6:1–9).
-
-Finalmente, Pablo exhorta a los creyentes a fortalecerse en el Señor, revestirse de toda la armadura de Dios y permanecer firmes frente a las asechanzas del diablo, perseverando en oración por todos los santos (6:10–24).
+\headingfive{}
 
 ## Autor y Fecha de la escritura del libro de Efesios
 
@@ -130,7 +94,7 @@ Pablo, apóstol de Cristo Jesús por la voluntad de Dios
 
 \headingsix{Se identifica como apóstol de Cristo \fillin{Jesús}.}
 
-\headingsix{Además, afirma que su apostolado es "por la voluntad de \fillin{Dios}".}
+\headingsix{Además, \fillin{afirma} que su apostolado es \scripture{por la voluntad de Dios}.}
 
 \headingsix{Desde la primera línea, el origen de su ministerio es atribuido a \fillin{Dios}.}
 
@@ -171,9 +135,9 @@ Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo.
 \headingfive{Conexiones bíblicas}
 - Pablo abre la mayoría de sus cartas con el mismo saludo de "gracia y paz" (Romanos 1:7; 1 Corintios 1:3; 2 Corintios 1:2; Gálatas 1:3; Filipenses 1:2; Colosenses 1:2).
 - Más adelante en Efesios, Pablo volverá a hablar de la paz lograda por medio de Cristo (Efesios 2:14–18).
-- La gracia ocupa un lugar importante a lo largo de la carta (Efesios 2:5–9; 3:2, 7–8; 4:7).
+- La gracia ocupa un lugar importante a lo largo de la carta (Efesios 2:5–9, 3:2, 7–8, 4:7).
 
-# Efesios 1:3–14 – Dios los bendijo en Cristo
+# Efesios 1:3–14 – DIOS LOS BENDIJO EN CRISTO
 
 ## Efesios 1:3–6 – Bendecidos en Cristo con toda bendición espiritual
 
@@ -199,7 +163,7 @@ Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido c
 
 \headingfive{Pablo presenta la razón por la cual bendice a Dios.}
 
-\headingfive{El participio habiendo bendecido* explica el motivo de la alabanza. Pablo no bendice a Dios sin fundamento; lo bendice porque Dios ya actuó en \fillin{favor} de nosotros.}
+\headingfive{El participio habiendo \scripture{bendecido} explica el motivo de la alabanza. Pablo no bendice a Dios sin fundamento; lo bendice porque Dios ya actuó en \fillin{favor} de nosotros.}
 
 \headingfive{El sujeto de la \fillin{acción} es Dios; los creyentes son quienes reciben esa bendición.}
 
@@ -241,7 +205,7 @@ Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido c
 
 \headingfive{Las bendiciones no existen separadas de \fillin{Cristo}; existen \textbf{en Cristo}.}
 
-\headingfive{Esta es la primera aparición de una de las expresiones más importantes de toda la carta. Pablo volverá constantemente a las expresiones en Cristo\scripture{, en Él} y por \fillin{medio} de \scripture{Él}.}
+\headingfive{Esta es la primera aparición de una de las expresiones más importantes de toda la carta. Pablo volverá constantemente a las expresiones en Cristo, \scripture{en Él} y por \fillin{medio} de \scripture{Él}.}
 
 \headingfive{La unión con Cristo gobierna todo el desarrollo de Efesios. Lo que Dios hizo por los creyentes siempre \fillin{está} relacionado con lo que hizo primero en Su Hijo.}
 
@@ -283,7 +247,7 @@ Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fu
 
 \headingfive{El objeto de la \fillin{acción} es \scripture{nos}.}
 
-\headingfive{\fillin{Pablo} se incluye junto con todos los creyentes al decir nos*.}
+\headingfive{\fillin{Pablo} se incluye junto con todos los creyentes al decir \scripture{nos}.}
 
 \headingfive{El énfasis todavía no está en explicar \fillin{todos} los detalles de la elección, sino en mostrar que la iniciativa pertenece completamente a Dios.}
 
@@ -2114,7 +2078,7 @@ la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo.
 - Ese poder no queda definido solamente con palabras. Pablo lo demuestra mostrando la obra de Dios en Cristo: lo resucitó, lo exaltó sobre toda autoridad, sometió todas las cosas bajo Sus pies y lo dio por Cabeza sobre todas las cosas a la iglesia.
 - La sección termina presentando a la iglesia como el cuerpo de Cristo. Toda la carta continuará desarrollando cómo quienes ya han recibido estas bendiciones espirituales deben vivir conforme a esa nueva realidad.
 
-# Efesios 2:1–10 – Dios dio vida a los que estaban muertos
+# Efesios 2:1–10 – DIOS VIDA A LOS QUE ESTABAN
 
 ## Efesios 2:1–3 – La condición pasada de toda la humanidad
 
@@ -2827,7 +2791,7 @@ Porque somos hechura Suya, creados en Cristo Jesús para hacer buenas obras, las
 - La idea de "andar" continuará desarrollándose en Efesios 4:1, 4:17, 5:2, 5:8 y 5:15.
 - La expresión "en Cristo Jesús" continúa el énfasis desarrollado desde el capítulo 1.
 
-# Efesios 2:11–12 – Recuerden cómo era su condición anterior
+# Efesios 2:11–12 – RECUERDEN CÓMO ERA SU CONDICIÓN
 
 ### Efesios 2:11
 \begin{verseblock}
@@ -2841,7 +2805,7 @@ Por tanto, recuerden que en otro tiempo, ustedes los gentiles en la carne, que s
 
 - Después de mostrar lo que Dios hizo por ellos, ahora Pablo les pide que recuerden.
 - El mandato no mira al presente, sino al pasado.
-- Recordar su condición anterior preparará el contraste que comenzará en el versículo 13: Pero ahora en Cristo Jesús...*.
+- Recordar su condición anterior preparará el contraste que comenzará en el versículo 13: Pero ahora en Cristo Jesús...
 - El propósito no es producir culpa, sino aumentar la comprensión de la obra que Dios realizó.
 
 
@@ -2874,10 +2838,10 @@ Por tanto, recuerden que en otro tiempo, ustedes los gentiles en la carne, que s
 
 \headingfive{Pablo identifica al \fillin{otro} grupo presente en el contraste.}
 
-\headingsix{Frente a los gentiles aparece el grupo conocido \fillin{como} la Circuncisión*.}
+\headingsix{Frente a los gentiles aparece el grupo conocido \fillin{como} la Circuncisión.}
 
 - Pablo reconoce que esa era la manera habitual de distinguir ambos grupos.
-- Sin embargo, introduce una observación importante al llamarla la llamada Circuncisión*.
+- Sin embargo, introduce una observación importante al llamarla la llamada Circuncisión.
 - La atención comienza a desplazarse desde una diferencia externa hacia la obra que Dios realizará en Cristo.
 
 
@@ -2945,7 +2909,7 @@ recuerden que en ese tiempo ustedes estaban separados de Cristo, excluidos de la
 
 \headingsix{Los pactos y las promesas de Dios no habían \fillin{sido} establecidos con las naciones gentiles.}
 
-- La palabra extraños* enfatiza que estaban fuera de esa relación de pacto.
+- La palabra extraños enfatiza que estaban fuera de esa relación de pacto.
 - Pablo continúa acumulando expresiones para mostrar la profundidad de esa separación.
 - Ahora resume el resultado de esa condición.
 
@@ -2972,7 +2936,7 @@ recuerden que en ese tiempo ustedes estaban separados de Cristo, excluidos de la
 - Los gentiles vivían en el mundo sin conocer al verdadero Dios.
 - Esta frase resume toda la condición descrita anteriormente.
 - La lista ha ido aumentando progresivamente la intensidad de la separación.
-- Precisamente por eso, las palabras del versículo siguiente producen un contraste extraordinario: Pero ahora en Cristo Jesús...*.
+- Precisamente por eso, las palabras del versículo siguiente producen un contraste extraordinario: Pero ahora en Cristo Jesús...
 
 
 
@@ -7250,11 +7214,11 @@ la esposa a su propio marido.
 
 \headingfive{\fillin{Las} esposas recibieron un mandato:}
 
-> \textbf{Estén sujetas.}
+\headingsix{\textbf{Estén sujetas.}}
 
 \headingfive{Los maridos también reciben un \fillin{solo} mandato:}
 
-> \textbf{Amen a sus mujeres.}
+\headingsix{\textbf{Amen a sus mujeres.}}
 
 \headingfive{\fillin{Todo} lo que sigue (5:25–31) explica cómo debe entenderse ese amor.}
 
@@ -7266,7 +7230,7 @@ la esposa a su propio marido.
 \begin{verseblock}
 Maridos, amen a sus mujeres, así como Cristo amó a la Iglesia y se entregó Él mismo por ella.
 \end{verseblock}
-#### Maridos, amen a sus mujeres.*
+#### Maridos, amen a sus mujeres.
 
 \headingfive{El verbo \textbf{ἀγαπᾶτε} \fillin{está} en \textbf{presente, activo, imperativo}.}
 
@@ -7286,13 +7250,9 @@ Maridos, amen a sus mujeres, así como Cristo amó a la Iglesia y se entregó É
 
 ```text
 Esposas
-
 Estén sujetas.
-
 ↓
-
 Maridos
-
 Amen.
 ```
 
@@ -7304,9 +7264,9 @@ Amen.
 
 \headingfive{Ahora explica \fillin{cómo} esa posición debe expresarse:}
 
-> amando.
+\headingsix{amando.}
 
-#### Así como Cristo amó a la Iglesia.*
+#### Así como Cristo amó a la Iglesia.
 
 \headingfive{La comparación \fillin{está} introducida nuevamente por \textbf{καθὼς} ("así como").}
 
@@ -7322,7 +7282,7 @@ Amen.
 
 \headingfive{La referencia \fillin{apunta} a la entrega de Cristo en la cruz.}
 
-#### Y se entregó Él mismo por ella.*
+#### Y se entregó Él mismo por ella.
 
 \headingfive{El verbo \textbf{παρέδωκεν} ("se entregó") también está en \textbf{aoristo, \fillin{activo}, indicativo}.}
 
@@ -7336,31 +7296,21 @@ Amen.
 
 \headingfive{Él \fillin{mismo} se entregó.}
 
-\headingfive{La expresión por \fillin{ella}* muestra el carácter sustitutorio y sacrificial de esa entrega.}
+\headingfive{La expresión por \fillin{ella} muestra el carácter sustitutorio y sacrificial de esa entrega.}
 
 #### Observe el desarrollo del argumento.
 
 ```text
 Maridos
-
 ↓
-
 Amen.
-
 ↓
-
 ¿Cómo?
-
 ↓
-
 Como Cristo.
-
 ↓
-
 ¿Cómo amó Cristo?
-
 ↓
-
 Se entregó
 a Sí mismo
 por la Iglesia.
@@ -7372,11 +7322,11 @@ por la Iglesia.
 
 \headingfive{El mandato para los maridos permanece unido al modelo supremo del amor de \fillin{Cristo}.}
 
-### Efesios 5:26 – 
+### Efesios 5:26
 \begin{verseblock}
 Para santificarla, habiéndola purificado por el lavamiento del agua con la palabra.
 \end{verseblock}
-#### El versículo 26 explica el propósito de la entrega de Cristo.
+\headingfive{El versículo 26 explica el propósito de la entrega de Cristo.}
 
 \headingfive{\fillin{Pablo} continúa la oración del versículo anterior.}
 
@@ -7385,15 +7335,15 @@ Para santificarla, habiéndola purificado por el lavamiento del agua con la pala
 - amó a la Iglesia;
 - se entregó por ella;
 
-\headingfive{\textbf{con \fillin{el} propósito de} santificarla.}
+\headingfive{con \fillin{el} propósito de santificarla.}
 
 \headingfive{La conjunción \textbf{ἵνα} ("\fillin{para} que", "a fin de que") introduce una cláusula de propósito.}
 
 \headingsix{Todo lo que \fillin{sigue} responde a la pregunta:}
 
-> ¿Para qué se entregó Cristo por la Iglesia?
+\headingsix{¿Para qué se entregó Cristo por la Iglesia?}
 
-#### Para santificarla.*
+#### Para santificarla.
 
 \headingfive{El verbo \textbf{ἁγιάσῃ} \fillin{está} en \textbf{aoristo, activo, subjuntivo}.}
 
@@ -7415,13 +7365,9 @@ Para santificarla, habiéndola purificado por el lavamiento del agua con la pala
 
 ```text
 Cristo amó
-
 ↓
-
 se entregó
-
 ↓
-
 para santificar
 ```
 
@@ -7431,7 +7377,7 @@ para santificar
 
 
 
-#### Efesios 5:26 – Habiéndola purificado.*
+#### Habiéndola purificado.
 
 \headingfive{El verbo \textbf{καθαρίσας} está en \textbf{aoristo, \fillin{activo}, participio}.}
 
@@ -7439,15 +7385,13 @@ para santificar
 
 \headingfive{\fillin{Literalmente}:}
 
-> \textbf{habiendo purificado.}
+\headingsix{\textbf{habiendo purificado.}}
 
 \headingfive{\fillin{Pablo} distingue cuidadosamente las dos acciones.}
 
 ```text
 Habiendo purificado
-
 ↓
-
 para santificar
 ```
 
@@ -7459,25 +7403,25 @@ para santificar
 
 
 
-#### Efesios 5:26 – Por el lavamiento del agua.*
+#### Por el lavamiento del agua.
 
 \headingfive{\fillin{La} expresión \textbf{τῷ λουτρῷ τοῦ ὕδατος} significa literalmente:}
 
-> por el lavamiento del agua.*
+\headingsix{por el lavamiento del agua.}
 
 \headingfive{El sustantivo \textbf{λουτρόν} significa \fillin{lavado} o lavamiento.}
 
 \headingfive{Pablo no explica aquí el simbolismo del \fillin{agua}.}
 
-\headingfive{El énfasis \fillin{recae} sobre la obra purificadora realizada por Cristo.}
+\headingsix{El énfasis \fillin{recae} sobre la obra purificadora realizada por Cristo.}
 
-\headingfive{\fillin{Tito} 3:5 utiliza una expresión muy semejante al hablar del \textbf{lavamiento de la regeneración}.}
+\headingsix{\fillin{Tito} 3:5 utiliza una expresión muy semejante al hablar del \textbf{lavamiento de la regeneración}.}
 
-\headingfive{\fillin{Ambos} pasajes presentan la iniciativa salvadora de Dios y no una obra realizada por el hombre.}
+\headingsix{\fillin{Ambos} pasajes presentan la iniciativa salvadora de Dios y no una obra realizada por el hombre.}
 
 
 
-#### Efesios 5:26 – Con la palabra.*
+#### Con la palabra.
 
 \headingfive{La expresión griega \textbf{ἐν ῥήματι} \fillin{puede} traducirse:}
 
@@ -7549,13 +7493,13 @@ para presentar
 
 #### A fin de presentársela a Sí mismo.
 
-\headingfive{El verbo \textbf{παραστήσῃ} está en \textbf{aoristo, \fillin{activo}, subjuntivo}.}
+\headingfive{El verbo \textbf{παραστήσῃ} está en aoristo, \fillin{activo}, subjuntivo.}
 
 \headingfive{\fillin{Igual} que en el versículo anterior, el subjuntivo depende de \textbf{ἵνα}, expresando propósito.}
 
 \headingfive{\fillin{Cristo} no solamente murió para santificar a la Iglesia.}
 
-\headingfive{También se entregó \textbf{para presentársela a Sí \fillin{mismo}}.}
+\headingfive{También se entregó para presentársela a Sí \fillin{mismo}.}
 
 \headingfive{El \fillin{verbo} \textbf{παρίστημι} significa presentar, poner delante o comparecer ante alguien.}
 
@@ -7565,19 +7509,19 @@ para presentar
 
 
 
-#### Efesios 5:27 – A Sí mismo.*
+#### A Sí mismo.
 
 \headingfive{El pronombre reflexivo \textbf{ἑαυτῷ} muestra que el \fillin{sujeto} y el destinatario son la misma persona.}
 
 \headingfive{Cristo no presenta la Iglesia a \fillin{otro}.}
 
-\headingfive{Cristo la presenta \textbf{\fillin{para} Sí mismo}.}
+\headingfive{Cristo la presenta \fillin{para} Sí mismo.}
 
 \headingfive{Toda la obra iniciada por \fillin{Cristo} culmina en Su propia posesión de la Iglesia.}
 
 
 
-#### Efesios 5:27 – Una iglesia en toda su gloria.*
+#### Una iglesia en toda su gloria.
 
 \headingfive{\fillin{Pablo} ahora describe cómo será la Iglesia presentada por Cristo.}
 
@@ -7587,7 +7531,7 @@ para presentar
 
 \headingfive{No presenta \fillin{varias} iglesias.}
 
-\headingfive{Presenta \textbf{una \fillin{Iglesia}}.}
+\headingfive{Presenta una \fillin{Iglesia}.}
 
 \headingfive{El adjetivo \textbf{ἔνδοξον} ("gloriosa") describe una Iglesia revestida de \fillin{honor}, esplendor y dignidad.}
 
@@ -7595,7 +7539,7 @@ para presentar
 
 
 
-#### Efesios 5:27 – Sin que tenga mancha ni arruga ni cosa semejante.*
+#### Sin que tenga mancha ni arruga ni cosa semejante.
 
 \headingfive{La descripción continúa desarrollando la \fillin{condición} de la Iglesia.}
 
@@ -7605,11 +7549,11 @@ para presentar
 - sin arruga;
 - sin cosa semejante.
 
-\headingfive{El participio \textbf{ἔχουσα} ("teniendo") está en \textbf{presente, \fillin{activo}, participio}.}
+\headingfive{El participio \textbf{ἔχουσα} ("teniendo") está en presente, \fillin{activo}, participio.}
 
 \headingfive{\fillin{Literalmente}:}
 
-> \textbf{no teniendo mancha ni arruga.}
+\headingsix{\textbf{no teniendo mancha ni arruga.}}
 
 \headingfive{El presente describe la condición que caracteriza a la Iglesia presentada por \fillin{Cristo}.}
 
@@ -7619,7 +7563,7 @@ para presentar
 
 
 
-#### Efesios 5:27 – Sino que fuera santa e inmaculada.*
+#### Sino que fuera santa e inmaculada.
 
 \headingfive{La conjunción \textbf{ἀλλά} introduce \fillin{el} contraste.}
 
@@ -7650,41 +7594,23 @@ para presentar
 
 ```text
 Cristo amó
-
 ↓
-
 Se entregó
-
 ↓
-
 para santificar
-
 ↓
-
 habiendo purificado
-
 ↓
-
 para presentar
-
 ↓
-
 una Iglesia gloriosa
-
 ↓
-
 sin mancha
-
 ↓
-
 sin arruga
-
 ↓
-
 santa
-
 ↓
-
 inmaculada
 ```
 
@@ -7698,7 +7624,7 @@ inmaculada
 \begin{verseblock}
 Así deben también los maridos amar a sus mujeres como a sus propios cuerpos. El que ama a su mujer, a sí mismo se ama.
 \end{verseblock}
-#### Efesios 5:28 vuelve al mandamiento dado en el versículo 25.
+\headingfive{Efesios 5:28 vuelve al mandamiento dado en el versículo 25.}
 
 \headingfive{Después de explicar la obra de Cristo por la Iglesia (vv. 25–27), Pablo \fillin{retoma} ahora la aplicación para los maridos.}
 
@@ -7706,29 +7632,19 @@ Así deben también los maridos amar a sus mujeres como a sus propios cuerpos. E
 
 ```text
 Cristo amó a la Iglesia.
-
 ↓
-
 Cristo se entregó por ella.
-
 ↓
-
 Cristo la santifica.
-
 ↓
-
 Cristo la presenta gloriosa.
-
 ↓
-
 Así también...
-
 ↓
-
 los maridos deben amar a sus mujeres.
 ```
 
-#### Así deben también los maridos amar a sus mujeres.*
+#### Así deben también los maridos amar a sus mujeres.
 
 \headingfive{El verbo \textbf{ὀφείλουσιν} ("deben") \fillin{está} en \textbf{presente, activo, indicativo}.}
 
@@ -7748,7 +7664,7 @@ los maridos deben amar a sus mujeres.
 
 \headingfive{El \fillin{texto} tampoco habla de las mujeres en general.}
 
-\headingfive{\fillin{Cada} marido debe amar \textbf{a su propia mujer}.}
+\headingsix{\fillin{Cada} marido debe amar \textbf{a su propia mujer}.}
 
 #### Como a sus propios cuerpos.
 
@@ -7760,21 +7676,21 @@ los maridos deben amar a sus mujeres.
 
 \headingfive{El \fillin{amor} al propio cuerpo.}
 
-\headingfive{No \fillin{está} ordenando que primero aprendamos a amarnos.}
+\headingsix{No \fillin{está} ordenando que primero aprendamos a amarnos.}
 
-\headingfive{Da por sentado un \fillin{hecho} evidente.}
+\headingsix{Da por sentado un \fillin{hecho} evidente.}
 
-\headingfive{Normalmente cada persona cuida su propio \fillin{cuerpo}.}
+\headingsix{Normalmente cada persona cuida su propio \fillin{cuerpo}.}
 
-\headingfive{\fillin{Lo} alimenta.}
+-   \fillin{Lo} alimenta.
 
-\headingfive{Lo \fillin{protege}.}
+-   Lo \fillin{protege}.
 
-\headingfive{Lo \fillin{abriga}.}
+-   Lo \fillin{abriga}.
 
-\headingfive{\fillin{Lo} descansa.}
+-   \fillin{Lo} descansa.
 
-\headingfive{Lo atiende \fillin{cuando} enferma.}
+-   Lo atiende \fillin{cuando} enferma.
 
 \headingfive{Esa atención constante sirve \fillin{como} ilustración del amor que el marido debe expresar hacia su esposa.}
 
@@ -7788,7 +7704,7 @@ los maridos deben amar a sus mujeres.
 
 \headingfive{Describe al marido caracterizado por amar continuamente a su \fillin{esposa}.}
 
-\headingfive{El verbo principal \textbf{ἀγαπᾷ} ("ama") está en \textbf{presente, \fillin{activo}, indicativo}.}
+\headingfive{El verbo principal \textbf{ἀγαπᾷ} ("ama") está en presente, \fillin{activo}, indicativo.}
 
 \headingfive{\fillin{Pablo} hace una declaración.}
 
@@ -7820,7 +7736,7 @@ los maridos deben amar a sus mujeres.
 \begin{verseblock}
 Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida, así como también Cristo a la iglesia;
 \end{verseblock}
-\headingfive{comienza con Porque» (γάρ).}
+\headingfive{comienza con \scripture{Porque} (γάρ).}
 
 \headingfive{Pablo presenta ahora la \fillin{razón} de la afirmación del versículo anterior.}
 
@@ -7832,7 +7748,7 @@ Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida
 
 \headingfive{\fillin{Pablo} hace una declaración basada en una realidad evidente.}
 
-\headingfive{El verbo \textbf{ἐμίσησεν} ("aborreció") está en aoristo, \fillin{activo}, indicativo**.}
+\headingfive{El verbo \textbf{ἐμίσησεν} ("aborreció") está en aoristo, \fillin{activo}, indicativo.}
 
 \headingfive{Presenta el hecho \fillin{como} algo reconocido.}
 
@@ -7896,19 +7812,19 @@ Porque nadie aborreció jamás su propio cuerpo, sino que lo sustenta y lo cuida
 \begin{verseblock}
 porque somos miembros de Su cuerpo.
 \end{verseblock}
-\headingfive{comienza con Porque» (γάρ)**.}
+\headingfive{Otra vez, vemos \scripture{Porque} (γάρ).}
 
-\headingfive{Pablo da ahora la \fillin{razón} de la afirmación del versículo anterior.}
+\headingsix{Pablo da ahora la \fillin{razón} de la afirmación del versículo anterior.}
 
-\headingfive{¿Por qué Cristo sustenta y \fillin{cuida} continuamente a la Iglesia?}
+\headingsix{¿Por qué Cristo sustenta y \fillin{cuida} continuamente a la Iglesia?}
 
-\headingfive{\fillin{Porque} somos miembros de Su cuerpo.}
+\headingsix{\fillin{Porque} somos miembros de Su cuerpo.}
 
 \headingfive{\fillin{Este} versículo prepara directamente la cita de Génesis 2:24 que sigue en el versículo 31.}
 
 #### Porque somos miembros de Su cuerpo.
 
-\headingfive{El verbo \textbf{ἐσμέν} ("somos") está en \textbf{presente, indicativo, primera persona \fillin{plural}}.}
+\headingfive{El verbo \textbf{ἐσμέν} ("somos") está en presente, indicativo, primera persona \fillin{plural}.}
 
 \headingfive{\fillin{Pablo} se incluye dentro de esta realidad.}
 
@@ -7916,7 +7832,7 @@ porque somos miembros de Su cuerpo.
 
 \headingfive{Declara un \fillin{hecho} permanente.}
 
-\headingfive{Los creyentes \textbf{\fillin{somos}} miembros del cuerpo de Cristo.}
+\headingfive{Los creyentes \fillin{somos} miembros del cuerpo de Cristo.}
 
 \headingfive{El énfasis no \fillin{recae} solamente sobre la Iglesia considerada como un cuerpo en sentido colectivo.}
 
@@ -7960,7 +7876,7 @@ Los dos serán una sola carne.
 
 ### Efesios 5:31 
 \begin{verseblock}
-POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE. (Génesis 2:24)
+POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LOS DOS SERÁN UNA SOLA CARNE.
 \end{verseblock}
 \headingfive{Efesios 5:31 cita directamente Génesis 2:24.}
 
@@ -7972,7 +7888,7 @@ POR ESTO EL HOMBRE DEJARÁ A SU PADRE Y A SU MADRE, Y SE UNIRÁ A SU MUJER, Y LO
 
 #### Por esto el hombre dejará a su padre y a su madre.
 
-\headingfive{El verbo \textbf{καταλείψει} ("dejará") está en \textbf{futuro, \fillin{activo}, indicativo}.}
+\headingfive{El verbo \textbf{καταλείψει} ("dejará") está en futuro, \fillin{activo}, indicativo.}
 
 \headingfive{El futuro no expresa \fillin{aquí} una simple predicción.}
 
@@ -8204,12 +8120,43 @@ En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y qu
 
 ## Observación
 
-### La estructura completa de Efesios 5:22–33 muestra un movimiento cuidadosamente desarrollado.
+\headingfive{La estructura completa de Efesios 5:22–33 muestra un movimiento cuidadosamente desarrollado.}
 
-\begin{verseblock}
-```text Esposas ↓ Sujétense a sus maridos. ↓ Porque el marido es cabeza. ↓ Así como Cristo es cabeza de la iglesia. ↓ Maridos ↓ Amen a sus mujeres. ↓ Así como Cristo amó a la iglesia. ↓ Se entregó por ella. ↓ La santifica. ↓ La purifica. ↓ La presentará gloriosa. ↓ Por esto...(Génesis 2:24) ↓ Grande es este misterio. ↓ Cristo y la iglesia. ↓ En todo caso... Cada marido ame a su mujer. Cada mujer respete a su marido. ```
-\end{verseblock}
-### El flujo del argumento
+```text
+Esposas
+↓
+Sujétense a sus maridos.
+↓
+Porque el marido es cabeza.
+↓
+Así como Cristo es cabeza de la iglesia.
+↓
+Maridos
+↓
+Amen a sus mujeres.
+↓
+Así como Cristo amó a la iglesia.
+↓
+Se entregó por ella.
+↓
+La santifica.
+↓
+La purifica.
+↓
+La presentará gloriosa.
+↓
+Por esto...(Génesis 2:24)
+↓
+Grande es este misterio.
+↓
+Cristo y la iglesia.
+↓
+En todo caso...
+Cada marido ame a su mujer.
+Cada mujer respete a su marido.
+```
+
+\headingfive{\textbf{El flujo del argumento}}
 
 \headingfive{\fillin{Pablo} comienza con el matrimonio humano.}
 
@@ -8225,9 +8172,8 @@ En todo caso, cada uno de ustedes ame también a su mujer como a sí mismo, y qu
 
 \headingfive{Más \fillin{bien}, el evangelio da significado al matrimonio.}
 
-\begin{verseblock}
 ![flow-cap5](images/flow-cap5.png)
-\end{verseblock}
+
 ## Efesios 6:1–3 – Instrucciones para los hijos en el Señor
 
 \headingfive{Pablo continúa desarrollando cómo se expresa la sumisión mutua producida por la llenura del Espíritu.}
@@ -8269,7 +8215,7 @@ Hijos, obedezcan a sus padres en el Señor, porque esto es justo.
 - ὑπό = debajo.
 - ἀκούω = oír.
 
-\headingfive{La idea es \textbf{escuchar \fillin{desde} una posición de sujeción}, con la disposición de obedecer.}
+\headingfive{La idea es escuchar \fillin{desde} una posición de sujeción, con la disposición de obedecer.}
 
 \headingfive{\fillin{Pablo} no simplemente manda a escuchar.}
 
@@ -8307,7 +8253,7 @@ Hijos, obedezcan a sus padres en el Señor, porque esto es justo.
 
 \headingfive{Pablo termina dando la \fillin{razón} del mandato.}
 
-\headingfive{El adjetivo δίκαιον (dikaion) significa \textbf{justo}, \textbf{correcto}, \textbf{conforme al \fillin{orden} establecido por Dios}.}
+\headingfive{El adjetivo δίκαιον (dikaion) significa \textbf{justo}, \textbf{correcto}, conforme al \fillin{orden} establecido por Dios.}
 
 \headingfive{La obediencia no se presenta como una \fillin{simple} tradición familiar.}
 
@@ -8458,9 +8404,9 @@ Críenlos...
 
 \headingfive{El contraste es \fillin{claro}.}
 
-\headingfive{Los padres no \fillin{deben} destruir mediante la provocación.}
+\headingsix{Los padres no \fillin{deben} destruir mediante la provocación.}
 
-\headingfive{\fillin{Deben} edificar mediante la crianza.}
+\headingsix{\fillin{Deben} edificar mediante la crianza.}
 
 #### en disciplina e instrucción del Señor.
 
@@ -8470,11 +8416,11 @@ Críenlos...
 
 \headingfive{Ambos \fillin{quedan} modificados por la expresión del Señor.}
 
-\headingfive{Pablo no \fillin{dice} simplemente:}
+\headingsix{Pablo no \fillin{dice} simplemente:}
 - disciplina;
 - instrucción.
 
-\headingfive{\fillin{Dice}:}
+\headingsix{\fillin{Dice}:}
 - disciplina del Señor;
 - instrucción del Señor.
 
@@ -8530,7 +8476,7 @@ Y en instrucción del Señor.
 \begin{verseblock}
 Siervos, obedezcan a sus amos según la carne, con temor y temblor, con sinceridad de su corazón, como a Cristo.
 \end{verseblock}
-#### Pablo continúa desarrollando la sumisión dentro de las relaciones humanas.
+\headingfive{Pablo continúa desarrollando la sumisión dentro de las relaciones humanas.}
 
 \headingfive{Después de los hijos y los padres, \fillin{ahora} habla a los siervos.}
 
@@ -8639,7 +8585,7 @@ no para ser vistos, como los que quieren agradar a los hombres, sino como siervo
 
 \headingfive{Su motivación cambia según \fillin{quién} lo observa.}
 
-\headingfive{Pablo ya estableció en el versículo 5 que el verdadero \fillin{modelo} del servicio es como a Cristo*.}
+\headingfive{Pablo ya estableció en el versículo 5 que el verdadero \fillin{modelo} del servicio es como a Cristo.}
 
 #### sino como siervos de Cristo...
 
@@ -8647,7 +8593,7 @@ no para ser vistos, como los que quieren agradar a los hombres, sino como siervo
 
 \headingfive{Aunque el creyente tiene un amo terrenal, su identidad más profunda es ser \textbf{siervo de \fillin{Cristo}}.}
 
-\headingfive{Pablo no \fillin{dice} simplemente: «sirvan mejor».}
+\headingfive{Pablo no \fillin{dice} simplemente: "sirvan mejor".}
 
 \headingfive{\fillin{Cambia} completamente la perspectiva del servicio.}
 
@@ -8757,7 +8703,7 @@ sabiendo que cualquier cosa buena que cada uno haga, esto recibirá del Señor, 
 \end{verseblock}
 #### sabiendo que...
 
-\headingfive{El participio εἰδότες (eidotes) proviene del verbo οἶδα (\fillin{oida}), «saber» o «conocer».}
+\headingfive{El participio εἰδότες (eidotes) proviene del verbo οἶδα (\fillin{oida}), "saber" o "conocer".}
 
 \headingfive{Está en participio perfecto, \fillin{activo}.}
 
@@ -8951,7 +8897,7 @@ No hay acepción de personas
 
 \headingfive{Tanto el siervo como el amo \fillin{quedan} finalmente bajo la autoridad del mismo Señor.}
 
-# Efesios 6:10–18 – Toda la armadura de Dios y la oración perseverante.
+# Efesios 6:10–18 – TODA LA ARMADURA DE DIOS Y LA ORACIÓN PERSEVERANTE
 
 \headingfive{Efesios 6:10–18 – Pablo concluye la parte exhortativa de la carta mostrando cómo el creyente puede permanecer firme en medio del conflicto espiritual. La fuerza no proviene del creyente mismo, sino del Señor.}
 
@@ -8983,7 +8929,7 @@ Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
 
 #### fortalézcanse...
 
-\headingfive{El verbo \textbf{ἐνδυναμοῦσθε (endynamousthe)} está en \textbf{presente, \fillin{pasivo}, imperativo}.}
+\headingfive{El verbo \textbf{ἐνδυναμοῦσθε (endynamousthe)} está en presente, \fillin{pasivo}, imperativo.}
 
 \headingfive{El tiempo presente comunica una \fillin{acción} continua.}
 
@@ -8991,7 +8937,7 @@ Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
 
 \headingfive{Literalmente \fillin{podría} traducirse:}
 
-\headingsix{«continúen \fillin{siendo} fortalecidos.»}
+\headingsix{"continúen \fillin{siendo} fortalecidos."}
 
 \headingfive{\fillin{Pablo} no manda al creyente a producir su propia fortaleza.}
 
@@ -8999,7 +8945,7 @@ Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza.
 
 \headingfive{El creyente \fillin{debe} recibir continuamente la fortaleza que proviene de Dios.}
 
-\headingfive{Este verbo aparece nuevamente en otros pasajes paulinos con el mismo énfasis: \fillin{Dios} es quien fortalece al creyente (2 Timoteo 2:1; 4:17).}
+\headingfive{Este verbo aparece nuevamente en otros pasajes paulinos con el mismo énfasis: \fillin{Dios} es quien fortalece al creyente (2 Timoteo 2:1, 4:17).}
 
 #### en el Señor...
 
@@ -9063,7 +9009,7 @@ Revístanse con toda la armadura de Dios, para que puedan estar firmes contra la
 
 \headingfive{Pablo da \fillin{ahora} el segundo mandamiento de esta sección.}
 
-\headingfive{El verbo \textbf{ἐνδύσασθε (endysasthe)} está en \textbf{aoristo, \fillin{medio}, imperativo}.}
+\headingfive{El verbo \textbf{ἐνδύσασθε (endysasthe)} está en aoristo, \fillin{medio}, imperativo.}
 
 \headingfive{El aoristo presenta la \fillin{acción} como un acto decisivo.}
 
@@ -9189,7 +9135,7 @@ Porque nuestra lucha no es contra sangre y carne, sino contra principados, contr
 
 \headingfive{Describe un conflicto \fillin{real} en el que participa cada creyente.}
 
-\headingfive{Al \fillin{decir} nuestra*, Pablo se incluye con sus lectores.}
+\headingfive{Al \fillin{decir} \scripture{nuestra}, Pablo se incluye con sus lectores.}
 
 \headingfive{\fillin{Esta} lucha pertenece a toda la iglesia.}
 
@@ -9209,7 +9155,7 @@ Porque nuestra lucha no es contra sangre y carne, sino contra principados, contr
 
 \headingfive{\fillin{Pablo} presenta ahora el verdadero carácter del conflicto.}
 
-\headingfive{Repite cuatro veces la preposición \fillin{contra}» (πρός)**.}
+\headingfive{Repite cuatro veces la preposición \fillin{contra} (πρός).}
 
 \headingfive{La repetición enfatiza la realidad del enfrentamiento \fillin{espiritual}.}
 
@@ -9301,7 +9247,7 @@ Por tanto, tomen toda la armadura de Dios, para que puedan resistir en el día m
 
 \headingfive{La voz activa muestra que el creyente debe responder personalmente a \fillin{este} mandato.}
 
-\headingfive{Pablo ya había dicho: revístanse de toda la armadura de \fillin{Dios}* (v.11).}
+\headingfive{Pablo ya había dicho: revístanse de toda la armadura de \fillin{Dios} (v.11).}
 
 \headingfive{Ahora añade un \fillin{nuevo} mandato.}
 
@@ -9387,13 +9333,13 @@ Permanezcan firmes
 
 \headingfive{Efesios 6:14-17 – Después de ordenar a los creyentes que sean fortalecidos, se revistan y tomen toda la armadura de Dios, Pablo describe ahora las piezas de esa armadura.}
 
-### El objetivo continúa siendo el mismo: \textbf{permanecer firmes}.
+\headingfive{El objetivo continúa siendo el mismo: \textbf{permanecer firmes}.}
 
 ### Efesios 6:14 
 \begin{verseblock}
 Estén, pues, firmes, CEÑIDA SU CINTURA CON LA VERDAD, REVESTIDOS CON LA CORAZA DE LA JUSTICIA,
 \end{verseblock}
-#### El imperativo \textbf{στῆτε (stēte)} está en \textbf{aoristo, activo, imperativo}.
+\headingfive{El imperativo \textbf{στῆτε (stēte)} está en \textbf{aoristo, activo, imperativo}.}
 
 \headingfive{Pablo vuelve al \fillin{mismo} mandato de los versículos 11 y 13.}
 
@@ -9401,7 +9347,7 @@ Estén, pues, firmes, CEÑIDA SU CINTURA CON LA VERDAD, REVESTIDOS CON LA CORAZA
 
 \headingfive{Permanecer firmes \fillin{frente} a las insidias del diablo.}
 
-#### Gramaticalmente ocurre algo muy importante.
+\headingfive{Gramaticalmente ocurre algo muy importante.}
 
 \headingfive{Después del imperativo estén firmes*, Pablo \fillin{añade} una serie de participios aoristos.}
 
@@ -9512,13 +9458,13 @@ Habiéndose ceñido la cintura con la verdad.*
 
 \headingfive{Precisamente porque la armadura pertenece a Dios, ninguna de sus piezas procede del esfuerzo \fillin{humano}.}
 
-## Pieza #3
+\headingfive{Pieza \#3}
 
 ### Efesios 6:15
 \begin{verseblock}
 Y habiéndose calzado los pies con el apresto del evangelio de la paz.
 \end{verseblock}
-#### El participio \textbf{ὑποδησάμενοι (hypodēsamenoi)} está en \textbf{aoristo, voz media, participio}.
+\headingfive{El participio \textbf{ὑποδησάμενοι (hypodēsamenoi)} está en \textbf{aoristo, voz media, participio}.}
 
 \headingfive{\fillin{Literalmente}:}
 
@@ -9526,7 +9472,7 @@ Y habiéndose calzado los pies con el apresto del evangelio de la paz.
 
 \headingfive{\fillin{Igual} que los dos participios anteriores, esta acción acompaña al mandato principal:}
 
-#### Estén firmes.*
+\headingsix{"Estén firmes."}
 
 \headingfive{\fillin{Pablo} continúa describiendo al creyente completamente preparado para permanecer firme.}
 
@@ -9538,7 +9484,7 @@ Y habiéndose calzado los pies con el apresto del evangelio de la paz.
 
 \headingfive{Es importante observar que el \fillin{texto} griego \textbf{no contiene} las palabras:}
 
-\headingsix{para anunciar».}
+\headingsix{"para anunciar".}
 
 \headingfive{Esa expresión fue añadida por algunos traductores \fillin{para} facilitar la comprensión.}
 
@@ -9597,11 +9543,11 @@ Y habiéndose calzado los pies con el apresto del evangelio de la paz.
 \begin{verseblock}
 En todo, habiendo tomado el escudo de la fe, con el cual podrán apagar todos los dardos encendidos del maligno.
 \end{verseblock}
-#### El participio ἀναλαβόντες (analabontes) está en \textbf{aoristo, activo, participio}.
+\headingfive{El participio ἀναλαβόντες (analabontes) está en \textbf{aoristo, activo, participio}.}
 
 \headingfive{\fillin{Literalmente}:}
 
-#### Habiendo tomado el escudo de la fe...
+\headingsix{"Habiendo tomado el escudo de la fe..."}
 
 \headingfive{Pablo continúa la \fillin{misma} construcción iniciada en el versículo 14.}
 
@@ -9682,7 +9628,7 @@ Fe
 
 \headingfive{Por eso el creyente \fillin{puede} permanecer firme aun cuando llegan los ataques del maligno.}
 
-\headingfive{\textbf{Pieza \#5}}
+\headingfive{Pieza \#5}
 
 ### Efesios 6:17
 \begin{verseblock}
@@ -10251,7 +10197,7 @@ enfatiza que el viaje de Tíquico tiene un propósito específico.
 
 #### ...para que sepan de nosotros.
 
-\headingfive{\fillin{Pablo} vuelve a utilizar una cláusula de propósito (\textbf{ἵνα}).}
+\headingfive{\fillin{Pablo} vuelve a utilizar una cláusula de propósito (ἵνα).}
 
 \headingfive{El objetivo era que la iglesia conociera la situación de \fillin{Pablo} y de quienes servían junto con él.}
 
@@ -10261,7 +10207,7 @@ enfatiza que el viaje de Tíquico tiene un propósito específico.
 
 \headingfive{Conocer esa realidad fortalecería la fe \fillin{de} los creyentes.}
 
-#### Efesios 6:22 – ...y para que consuele sus corazones.
+#### ...y para que consuele sus corazones.
 
 \headingfive{\fillin{Este} es el segundo propósito del envío de Tíquico.}
 
@@ -10303,7 +10249,7 @@ Sus corazones son fortalecidos
 
 ## Efesios 6:23–24 – Despedida llena de bendiciones.
 
-\headingfive{Efesios 6:23–24 – Pablo concluye la carta pronunciando una bendición sobre los creyentes.}
+\headingfive{Pablo concluye la carta pronunciando una bendición sobre los creyentes.}
 
 ### Efesios 6:23
 \begin{verseblock}
@@ -10333,7 +10279,7 @@ Paz sea a los hermanos, y amor con fe, de parte de Dios el Padre y del Señor Je
 
 \headingfive{\fillin{Dice}:}
 
-\headingsix{amor con fe».}
+\headingsix{\scripture{amor con fe}.}
 
 \headingfive{\fillin{Ambos} aparecen unidos.}
 
@@ -10404,11 +10350,11 @@ La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorr
 - De esta manera el cierre de la carta alcanza a todo creyente.
 - Pablo describe a los creyentes por una característica que los identifica.
 
-\headingfive{El participio \textbf{ἀγαπώντων (agapōntōn)} \fillin{está} en tiempo presente.}
+\headingfive{El participio ἀγαπώντων (agapōntōn) \fillin{está} en tiempo presente.}
 
 \headingsix{Literalmente \fillin{describe}:}
 
-\headingsix{los que están amando a nuestro Señor Jesucristo».**}
+\headingsix{los que están amando a nuestro Señor Jesucristo}
 
 - El presente enfatiza una realidad continua.
 - Pablo no describe un acto aislado de amor.
@@ -10421,7 +10367,7 @@ La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorr
 \headingsix{La expresión \fillin{griega} es simplemente:}
 
 \headingsix{ἐν ἀφθαρσίᾳ}
-\headingsix{en incorruptibilidad».**}
+\headingsix{en incorruptibilidad».}
 
 - La palabra describe aquello que no se corrompe ni perece.
 - Pablo termina la carta mirando hacia aquello que permanece.
@@ -10434,11 +10380,22 @@ La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorr
 > - El creyente es descrito como alguien que ama continuamente a Cristo.
 >- La carta concluye mirando hacia un amor incorruptible, propio de la nueva vida recibida en Cristo.
 
-### Observe el cierre de la carta.
+\headingfive{Observe el cierre de la carta.}
 
-\begin{verseblock}
-```text 1:2 Gracia ↓ Paz ══════════════════════ 6:23–24 Paz ↓ Amor con fe ↓ Gracia ```
-\end{verseblock}
+```text
+1:2
+Gracia
+↓
+Paz
+══════════════════════
+6:23–24
+Paz
+↓
+Amor con fe
+↓
+Gracia
+```
+
 \headingfive{Pablo termina la \fillin{carta} retomando las mismas bendiciones con las que comenzó.}
 
 \headingsix{El saludo inicial y la despedida forman un \fillin{marco} que envuelve toda la epístola.}
