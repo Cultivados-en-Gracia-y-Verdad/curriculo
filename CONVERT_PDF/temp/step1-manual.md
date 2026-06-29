@@ -68,8 +68,6 @@ El misterio de Cristo revelado por medio del evangelio
 
 ##### La carta presenta primero la obra de Dios y luego llama a los creyentes a responder a esa obra mediante una vida digna de su llamamiento.
 
-##### 
-
 ## Autor y Fecha de la escritura del libro de Efesios
 
 ##### El <u>autor</u> de la carta es Pablo, el Apóstol así se presenta en Efesios 1:1. Efesios, Filipenses, Colosenses y Filemón. Son llamadas con frecuencia, Cartas de la Cautividad (o cartas desde la prisión), ya que todas ellas fueron escritas durante el encarcelamiento de Pablo en Roma (Efesios 1:1; Filipenses 1:7; Colosenses 4:10; Filemón 1:9).

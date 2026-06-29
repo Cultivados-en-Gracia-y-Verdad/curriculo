@@ -22,11 +22,11 @@
 \newfontfamily\GreekFont{Gentium Plus}
 \setTransitionsForGreek{\GreekFont}{}
 
-\newcommand{\AnchorColor}{black!55}
+\newcommand{\AnchorColor}{black!98}
 \newcommand{\ScriptureColor}{black!98}
-\newcommand{\CommentColor}{black!70}
-\newcommand{\ListColor}{black!70}
-\newcommand{\BodyColor}{black!70}
+\newcommand{\CommentColor}{black!98}
+\newcommand{\ListColor}{black!90}
+\newcommand{\BodyColor}{black!90}
 \newcommand{\AnchorIndent}{1.5em}
 \newcommand{\NestedIndent}{2.5em} 
 
@@ -93,7 +93,7 @@
     boxrule=0pt,
     boxsep=0pt
   },
-  before upper={\color{black!55}}, % 👈 set lighter text color
+  before upper={\color{black!65}}, % 👈 set lighter text color
   before skip=14pt,
   after skip=10pt
 }
@@ -234,12 +234,12 @@
    \setlength{\parindent}{0pt}%
    \vspace{-0.5em}
    \setlist[itemize]{label={}, leftmargin=2.5pt, labelsep=-0.5em, labelwidth=1em, itemsep=2pt, topsep=2pt}} % subtle list breathing
-  {\vspace{5pt}\end{adjustwidth}}
+  {\vspace{3pt}\end{adjustwidth}}
 
 
 \newenvironment{paraHtwo}
 {%
-  \vspace{5pt} % 👈 add space ABOVE
+  \vspace{3pt} % 👈 add space ABOVE
   \begin{adjustwidth}{2em}{0pt}
   \color{\BodyColor}%
   \fontsize{11pt}{14pt}\selectfont
