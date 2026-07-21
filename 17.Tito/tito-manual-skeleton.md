@@ -1,39 +1,34 @@
 ---
+book: Tito
 title: "Por esta causa te deje"
-subtitle: "Un encargo conforme a la Fe, Verdad, Piedad y Esperanza"
-author: "CGV"
-version: "0.1"
-date: "2026-02-20"
-cover: ""
+subtitle: "subtítulo"
+author: CGV
+cover: images/portada.png
+date: 2026-07-17
+version: 0.2
 ---
-
-:::title Por esta causa te deje:::
-
-:::subtitle Un encargo conforme a la Fe, Verdad, Piedad y Esperanza :::
 
 # Introducción
 
 La isla de creta muy famosa en la historia se forjo un estereotipo dentro del mundo antiguo (greco-romano), lo cual definio su cultura.
 
-Creta se  caracterizo por la piratería, al ser un punto dentro de la ruta marítima de comercio, los cretenses constantemente asaltaban los cargamentos de los barcos.
+Creta se caracterizo por la piratería, al ser un punto dentro de la ruta marítima de comercio, los cretenses constantemente asaltaban los cargamentos de los barcos.
 
 Los cretenses habían afirmado que la tumba de zeus (júpiter) se encontraba en su isla, esto hizo estallar al mundo conocido debido a la adoración del panteón de los dioses, para ellos zeus era el dios eterno e inmortal.
 
 Los antiguos eruditos se referían a creta de una manera despectiva, Estrabón, dice: "Los cretenses están envueltos en constantes disputas civiles y prácticas de piratería."[^1]
 
 - Epimenes, dice: "Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί" "Los cretenses siempre mentirosos, malas bestias, barrigas ociosas.”[^2]
-
 - Polibio, dice: “Creta ha adoptado un sistema de vida que es el único sin excepción en el mundo que carece de moral y lo considera una virtud.”[^3]
-
 - Platón, aunque este mismo no se refiere de manera despectiva de creta si enfatiza aspectos de su cultura, organización y educación, que después seria utilizado para referirse a los cretenses como glotones ociosos.
 
-En creta existía el "andreida" un comedor publico, para ellos fomentaba la igualdad social y  reforzaba la disciplina. Los demás griegos considerarían esta costumbre como exceso de festividad, ocio o glotonería.
+En creta existía el "andreida" un comedor publico, para ellos fomentaba la igualdad social y reforzaba la disciplina. Los demás griegos considerarían esta costumbre como exceso de festividad, ocio o glotonería.
 
 - Los cretenses eran considerados desordenados, son como bestias salvajes.... dice Epimanes.
 
 Aunque los cretenses eran conocidos por esto según la cultura romano, Pablo no trata nada relacionado a la cultura en su carta, simplemente lo usa para referenciar a un grupo.
 
-## Contexto histórico 
+## Contexto histórico
 
 Lo primero que podemos notar alrededor de la carta a Tito es el lugar, Creta, si revisamos bíblicamente la propagación del evangelio esto nos llevara al 60-61 d.C.
 
@@ -46,9 +41,7 @@ Aunque no se nos dice el tiempo, Pablo pudo haber estado aununciando y enseñand
 Después de esto Pablo llegaría a Roma como prisionero, donde permanecería por dos años en una casa. Hechos 28:16, 30-31
 
 - Pablo habría permanecido en prisión domiciliaria hasta el 63 d.C. Lucas no nos relata de lo que sucedió después, según la tradición Pablo habría sido liberado o habría tenido libertad de viajar.
-
 - Pablo habría escrito la carta a los Efesios, Filipenses, Colosenses y Filemón durante este encarcelamiento, todas fechadas entre el 61-62 d.C. o inicios del 63 d.C
-
 - En estas cartas Pablo menciona su encarcelamiento o espera a ser liberado. Efesios 6:19-20; Filipenses 1:12-14, 19-20; Colosenses 4:3-4, 10, 18; Filemón 1:1, 22, 23
 
 Tras su liberación Pablo habría emprendido otro viaje a macedonia, Asia menor (Éfeso, donde dejo a Timoteo), Creta (donde dejo a Tito). 1 Timoteo 1:3, 3:14-15; Tito 1:5, 12
@@ -56,7 +49,6 @@ Tras su liberación Pablo habría emprendido otro viaje a macedonia, Asia menor 
 Después veríamos en 2 Timoteo 4:10 que Tito fue a Dalmacia, esto después de Creta y Nicopolis.
 
 Según la tradición después de esto, Pablo volvería a ser llevado a prisión desde el 64-67 d.C. donde moriría a manos de Nerón en Roma.
-
 
 ## Autor y destinatarios
 
@@ -78,34 +70,38 @@ Aunque Tito es el encargado de enseñar a la iglesia, la enseñanza de la carta 
 
 Pablo escribe la carta como un encargo para Tito, el debía poner en orden todo lo que estaba pasando en las iglesias de creta. La carta no responde directamente a que debía ordenar sino mas bien lo va desarrollando a lo largo de la carta.
 
-## Importancia 
-
-Tito resulto se una carta difícil de observar debido a la simplicidad de lo que comunica, sin embargo la carta a Tito contiene una tensión que se desenvuelve en la carta, la conducta alineada a la realidad
+## Importancia
 
 # Por esta causa te deje
+
 ## Un encargo conforme a la Fe, Verdad, Piedad y Esperanza
 
 ## Tito 1:1 - 4 Un Encargo conforme a la fe, verdad, piedad y esperanza
 
-### Tito 1:1    Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y al pleno conocimiento de la verdad que es según la piedad,
+Tito resulto se una carta difícil de observar debido a la simplicidad de lo que comunica, sin embargo la carta a Tito contiene una tensión que se desenvuelve en la carta, la conducta alineada a la realidad
 
-#### Pablo, siervo de Dios y apóstol de Jesucristo, 
+### Tito 1:1–3 — “y a su propio tiempo manifestó su palabra por la predicación”
+“Pablo, siervo de Dios, apóstol de Cristo Jesús, según la fe de los elegidos de Dios y el conocimiento de la verdad de acuerdo con la piedad”
+“para la esperanza de la vida eterna, la cual prometió el Dios que es sin mentira, antes de los tiempos eternos,”
+“y a su propio tiempo manifestó su palabra por la predicación, la cual me fue confiada según el mandato de Dios nuestro Salvador.”
 
-##### La carta abre con Pablo presentándolo como el autor de la misma 
++ “Pablo, siervo de Dios, apóstol de Cristo Jesús, 
 
-##### Pablo es introducido como "siervo de Dios" 
+La carta abre con Pablo presentándolo como el autor de la misma 
+
+Pablo es introducido como "siervo de Dios" 
 
 "siervo" en griego "doulos" se puede traducir como un siervo o esclavo en base al contexto de la carta servidor seria lo mas correcto.
 
-##### En la frase encontramos la dirección de relación, es "sirvo de Dios" Pablo es servidor de Dios.
+En la frase encontramos la dirección de relación, es "sirvo de Dios" Pablo es servidor de Dios.
 
-##### La frase continua agregando "apóstol de Jesucristo"
+La frase continua agregando "apóstol de Jesucristo"
 
 "apóstol" en griego "apostoulos" se refiere aun embajador o mensajero, en el contexto  este seria un emisario del evangelio de Jesús.
 
-##### Pablo no solo es siervo de Dios sino también apóstol de Jesucristo.
+Pablo no solo es siervo de Dios sino también apóstol de Jesucristo.
 
-#### conforme a la fe de los escogidos de Dios
++ conforme a la fe de los escogidos de Dios
 
 Esta fase esta acompañada, Pablo sigue siendo el sujeto como siervo y apóstol, sin embargo aquí se adiciona la dirección hacia un objeto "la fe".
 
@@ -113,57 +109,53 @@ Pablo siervo y apóstol (de Dios y de Jesucristo) conforme a "la fe", asimismo l
 
 Aquí "la fe" es un sustantivo acusativo y no verbo por lo cual no hace referencia a la acción de creer, sino mas bien esta señalando a un algo de este grupo "los escogidos", asimismo este grupo esta relacionado a Dios "de Dios"
 
-#### y al pleno conocimiento de la verdad que es según la piedad,
++ y al pleno conocimiento de la verdad que es según la piedad,
 
 Esta frase continua la progresión de "conforme" a la fe y "al conocimiento de la verdad"
 
 Pablo 
-
 Siervo de Dios y apóstol de Jesucristo
-
 Conforme a la fe
-
 y al conocimiento de la verdad
 
 Esto no es simple conocimiento sino que esta relacionado a la "la verdad"
 
 De la misma manera la verdad esta relaciona a la piedad, esta frase no agrupa verdad y piedad como dos cosas sino mas bien la verdad según la piedad, una esta conformada o alineada a la otra
 
-### Tito 1:2    con la esperanza de vida eterna, la cual Dios, que no miente, prometió desde los tiempos eternos,
++ con la esperanza de vida eterna, 
 
-#### con la esperanza de vida eterna, 
+- “vida eterna, la cual prometió el Dios que es sin mentira, antes de los tiempos eternos”
+“vida eterna”
 
 Las frases continúan acumulándose, comenzamos con Pablo
 
 siervo y apóstol
-
 conforme a la fe
-
 y el pleno conocimiento de la verdad
-
 según la piedad
-
-​	con la esperanza de vida eterna
+con la esperanza de vida eterna
 
 Hasta este momento Pablo no esta detallando ninguna de ellas, esta acumulando detalles.
 
 Esta frase relaciona las anteriores  "con la esperanza"  y a la esperanza "de la vida eterna"
 
-#### la cual Dios, que no miente, 
++ la cual Dios, que no miente, 
+
+* "cual" introduce una cláusula que describe a “vida eterna”.
 
 La vida eterna es lo que se relaciona con Dios, Dios es introducido nuevamente pero ahora como sujeto.
 
 Antes de mencionar la acción se describe a Dios como "que no miente", esto no es una posibilidad sino una descripción real del sujeto.
 
-#### prometió desde los tiempos eternos,
++ prometió desde los tiempos eternos,
 
 Dios prometió la vida eterna, ahora la progresión continua.
 
 Esta acción "prometió" tiene una ubicación señalada por el mismo texto "desde los tiempos eternos", en la eternidad.
 
-### Tito 1:3    y a su debido tiempo, manifestó Su palabra por la predicación que me fue confiada, conforme al mandamiento de Dios nuestro Salvador,
+#### “y a su propio tiempo manifestó su palabra por la predicación”
 
-#### y a su debido tiempo, manifestó Su palabra 
+* "y" es un conector relacional que conecta esta declaración con la anterior.
 
 Esto continua añadiendo a lo que Dios hizo, el texto añade una frase para acción "a su debido tiempo"
 
@@ -175,7 +167,11 @@ Dios prometió la vida eterna
 
 y Dios manifestó su palabra
 
-#### por la predicación que me fue confiada, 
++ por la predicación que me fue confiada, 
+
+- “la cual me fue confiada según el mandato de Dios nuestro Salvador”
+
+* "cual" introduce el contenido de lo que se afirma en la cláusula anterior.
 
 El texto nos muestra de que manera Dios decidió manifestar su palabra "por la predicación"
 
@@ -183,7 +179,7 @@ Asimismo la predicación le fue confiada a Pablo
 
 Pablo no se atribuyo la predicación de manera arbitraria, el verbo esta en pasivo, siendo Dios el que se lo confío 
 
-#### conforme al mandamiento de Dios nuestro Salvador,
++ conforme al mandamiento de Dios nuestro Salvador,
 
 Esta frase amplia conforme a que le fue confiado
 
@@ -193,9 +189,17 @@ Fue conforme al mandamiento de Dios que le fue confiado
 
 Esta parte finaliza enfatizando a Dios nuestro salvador, esto no solo incluye a Pablo.
 
-### Tito 1:4    a Tito, verdadero hijo en la común fe: Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.
+### Tito 1:4–11 — “Por esta razón te dejé en Creta”
+“A Tito, hijo genuino según la fe común: gracia y paz de Dios Padre y de Cristo Jesús nuestro Salvador.”
+“Por esta razón te dejé en Creta, para que corrigieras lo que falta y pusieras ancianos en cada ciudad, como yo te ordené:”
+“si alguien es irreprochable, marido de una sola mujer, con hijos fieles, que no estén bajo acusación de disolución o de ser insubordinados.”
+“Porque es necesario que el obispo sea irreprochable como mayordomo de Dios, no soberbio, no iracundo, no bebedor, no violento, no codicioso de ganancia deshonesta,”
+“sino hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí;”
+“reteniendo la palabra fiel conforme a la enseñanza, para que sea poderoso tanto para exhortar con la sana doctrina como para reprender a los que contradicen.”
+“Porque hay muchos e insubordinados, vanos habladores y engañadores, sobre todo los de la circuncisión,”
+“a quienes es necesario tapar la boca, que trastornan casas enteras enseñando lo que no conviene por causa de ganancia vergonzosa.”
 
-#### a Tito, verdadero hijo en la común fe: 
++ a Tito, verdadero hijo en la común fe: 
 
 Tito es el receptor de la carta.
 
@@ -205,7 +209,7 @@ sin embargo si muestra la ubicación por la cual es llamado así "en la común f
 
 Esto es la fe que comparten "en común".
 
-#### Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.
++ Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.
 
 Pablo extiende saludos de Gracia y paz.
 
@@ -217,9 +221,9 @@ En Cristo se enfatiza "nuestro salvador"
 
 ## Tito 1:5 - 16 Ordena, designa y reprende
 
-### Tito 1:5    Por esta causa te dejé en Creta, para que pusieras en orden lo que queda, y designaras ancianos en cada ciudad como te mandé.
+#### “Por esta razón te dejé en Creta”
 
-#### Por esta causa te dejé en Creta, 
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 La carta comienza de manera directa
 
@@ -229,7 +233,11 @@ Aun que aun no desarrolla la razón de dejarlo si la establece
 
 Tito debía hacer algo en creta para eso fue dejado allí.
 
-#### para que pusieras en orden lo que queda, 
+- "para que pusieras en orden lo que queda," 
+
+* "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "dejé."
+
+* "falta" es un participio circunstancial que acompaña la acción de "corrigieras."
 
 En seguida la carta aclara el propósito por el cual tito es dejado en creta.
 
@@ -241,7 +249,9 @@ Evidentemente hay algo faltante todavía "lo que queda"
 
 Entonces Tito es dejado para poner en orden.
 
-#### y designaras ancianos en cada ciudad como te mandé
+- “y designaras ancianos en cada ciudad”
+
+* Esta cláusula comparte el mismo "ἵνα" que la cláusula anterior, unida por "y" — no introduce un propósito nuevo, continúa el ya declarado.
 
 El texto señala una segunda parte del propósito de dejar a tito en creta.
 
@@ -250,14 +260,15 @@ El debía designar ancianos en cada ciudad de creta.
 La progrsion del proposito es:
 
 Por esta causa te deje 
+Para que pusieras en orden lo que queda
+y  designaras ancianos 
+como te mande
 
-​	Para que pusieras en orden lo que queda
+- “como te mande”
 
-​	y  designaras ancianos 
+* "como" es un marcador subordinante de tiempo — conecta esta cláusula con un momento relacionado en la cláusula anterior.
 
-​		como te mande
-
-"como te mande" la manera en que designaría ancianos seria según lo mandado por Pablo.
+la manera en que designaría ancianos seria según lo mandado por Pablo.
 
 Esta parte del texto no desarrolla "lo que queda" o de que manera debía "poner en orden" 
 
@@ -265,9 +276,9 @@ Así como no desarrolla de que manera debía designar a un anciano.
 
 Esto es algo que se desarrollara a lo largo de la carta.
 
-### Tito 1:6    Lo designarás, si el anciano es irreprensible, marido de una sola mujer, que tenga hijos creyentes, no acusados de disolución ni de rebeldía.
+  - “Lo designarás, si el anciano es irreprensible, marido de una sola mujer, ”
 
-#### Lo designarás, si el anciano es irreprensible, marido de una sola mujer, 
+  * "si" es un marcador subordinante de condición — introduce una condición para la cláusula anterior.
 
 Tito debía designar ancianos, el verso comienza con una declaración "Lo designaras"
 
@@ -281,9 +292,12 @@ SI es irreprensible
 
 marido de una sola mujer
 
-#### que tenga hijos creyentes, no acusados de disolución ni de rebeldía.
+- que tenga hijos creyentes, no acusados de disolución ni de rebeldía.
 
-El texto añade "que tenga hijos creyentes" 
+  * “que tenga” es un participio atributivo que describe a “fieles, que”.
+    “fieles, que”
+    
+    El texto añade "que tenga hijos creyentes" 
 
 Interesantemente el texto literal "Si teniendo hijos creyentes" 
 
@@ -299,9 +313,9 @@ Ni de rebeldía
 
 Hasta este punto el carácter descrito es de entorno familiar.
 
-### Tito 1:7    Porque el obispo debe ser irreprensible como administrador de Dios, no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas.
+    - “Porque el obispo debe ser irreprensible como administrador de Dios,”
 
-#### Porque el obispo debe ser irreprensible como administrador de Dios, 
+    * "porque" es un marcador subordinante de razón — introduce el motivo o fundamento de la cláusula anterior.
 
 Aquí se presenta la razón de la condicionante
 
@@ -319,7 +333,7 @@ Obispo se relaciona con "administrador de Dios"
 
 Como alguien que administra lo de Dios el debe ser irreprensible.
 
-#### no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas.
+- no obstinado, no iracundo, no dado a la bebida, no pendenciero, no amante de ganancias deshonestas.
 
 El texto enlista una conducta no acorde al administrador
 
@@ -335,27 +349,25 @@ No pendenciero
 
 No amante de ganancias deshonestas
 
-### Tito 1:8    Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo, dueño de sí mismo.
++ "Antes bien" 
 
-"Antes bien" marca un giro de como debe ser el administrador de Dios.
+marca un giro de como debe ser el administrador de Dios.
 
-Hospitalario
++ "Hospitalario"
 
-Amante de lo bueno
++ "Amante de lo bueno"
 
-prudente 
++ "prudente 
 
-Justo
++ Justo
 
-Santo
++ Santo
 
-Dueño de si mismo
++ Dueño de si mismo
 
 El énfasis continua en el obispo como administrador de Dios.
 
-### Tito 1:9    Debe retener la palabra fiel que es conforme a la enseñanza, para que sea capaz también de exhortar con sana doctrina y refutar a los que contradicen.
-
-#### Debe retener la palabra fiel que es conforme a la enseñanza, 
++ Debe retener la palabra fiel que es conforme a la enseñanza, 
 
 La lista terminara con una ultima característica-
 
@@ -369,7 +381,9 @@ No se explica o responde a la pregunta "cual es la palabra fiel?"
 
 El texto acomoda a "la palabra fiel" conforme a la enseñanza.
 
-#### para que sea capaz también de exhortar con sana doctrina 
+    - “para que sea capaz también de exhortar con sana doctrina”
+
+    * "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "es."
 
 Habiendo terminado al progresión ahora resalta el propósito.
 
@@ -383,15 +397,22 @@ El propósito es beneficio para con los otros  y no para si mismo.
 
 El verso no desarrolla "que es la sana doctrina?", sin embargo menciona "sana doctrina" siendo esto con lo que exhorta
 
-#### y refutar a los que contradicen.
++ y refutar a los que contradicen.
 
-Para que "sea capaz" tambien de refutar a los que contradicen
+    * "contradicen" es un participio circunstancial que acompaña la acción de "sea."
+
+    * "reteniendo" es un participio sustantivado — funciona como el nombre de una persona o cosa, no describe algo más.
+
+    * “sana” es un participio atributivo que describe a “doctrina”.
+      “doctrina”
+      
+      Para que "sea capaz" tambien de refutar a los que contradicen
 
 El propososito con tiene una segunda parte 
 
-### Tito 1:10    Porque hay muchos rebeldes, habladores vanos y engañadores, especialmente los de la circuncisión,
+      - “Porque hay muchos rebeldes, vanos habladores y engañadores habladores vanos y engañadores,”
 
-#### Porque hay muchos rebeldes, 
+      * "porque" es un marcador subordinante de razón — introduce el motivo o fundamento de la cláusula anterior.
 
 El texto continúa la progresión con una segunda razón 
 
@@ -405,17 +426,18 @@ El texto continúa "porque" hay muchos rebeldes
 
 Pablo no dice "habrá" o "podría haber" dice "hay" 
 
-#### habladores vanos y engañadores, especialmente los de la circuncisión
-
 El texto describe varias características "rebeldes, habladores vamos y engañadores" 
 
 Sin embargo el énfasis cae sobre un grupo (hombres)
 
+- "especialmente los de la circuncisión"
+
 Aunque no engloba a todos, Pablo hace un énfasis a los de la circuncisión.
 
-### Tito 1:11    a quienes es preciso tapar la boca, porque están trastornando familias enteras, enseñando por ganancias deshonestas, cosas que no deben.
+        - “a quienes es necesario tapar la boca”
+        “e insubordinados, vanos habladores y engañadores, sobre”
 
-#### a quienes es preciso tapar la boca,
+        * "cual" introduce una cláusula que describe a “e insubordinados, vanos habladores y engañadores, sobre”.
 
 El texto continúa la progresión "a quienes" está conectado con los que "hay" (estos hombres).
 
@@ -425,7 +447,10 @@ Se describe lo que es necesario hacer "tapar la boca" de estos hombres.
 
 La siguiente parte del verso desarrollará la razón de "es preciso tapar la boca"
 
-#### porque están trastornando familias enteras, 
+        - “que trastornan casas enteras”
+        “e insubordinados, vanos habladores y engañadores, sobre todo los de”
+
+        * "el cual" introduce una cláusula que describe a “e insubordinados, vanos habladores y engañadores, sobre todo los de”.
 
 Es necesario taparles la boca porque están trastornando 
 
@@ -433,7 +458,12 @@ Pablo marca esto como un hecho "ellos están" ahora haciendo esto.
 
 El grupo afectado no son solo unos cuantos, el texto lo señala como "familias enteras"
 
-#### enseñando por ganancias deshonestas, cosas que no deben.
+        - “enseñando por ganancias deshonestas, cosas que no deben.”
+        “e insubordinados, vanos habladores y”
+
+        * "cual" introduce una cláusula que describe a “e insubordinados, vanos habladores y”.
+
+        * "enseñando" es un participio circunstancial que acompaña la acción de "conviene."
 
 El texto complementa la razón anterior.
 
@@ -443,9 +473,12 @@ Pablo marca como es esta enseñanza "por ganancias deshonestas"
 
 Estos hombres enseñan cosas que no deben.
 
-### Tito 1:12    Uno de ellos, su propio profeta, dijo: «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».
+### Tito 1:12 — “Dijo uno de ellos, su propio profeta”
+“Uno de ellos, su propio profeta, dijo: «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».”
 
 #### Uno de ellos, su propio profeta, dijo:
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 El texto continua una progresión interesante, cambia de ellos "estos hombres" a los cuales es preciso tapar la boca.
 
@@ -459,7 +492,7 @@ Este "uno" es su propio profeta de los "ellos"
 
 Pablo citara lo que el profeta de ellos dice.
 
-#### «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».
++ «Los cretenses son siempre mentirosos, malas bestias, glotones ociosos».
 
 Pablo cita a Epiménides.
 
@@ -477,15 +510,25 @@ En esta frase vemos quienes son los "ellos", los cretenses.
 
 El texto cambio a hablar de los cretenses
 
-### Tito 1:13    Este testimonio es verdadero. Por eso, repréndelos severamente para que sean sanos en la fe,
 
-#### Este testimonio es verdadero. 
+### Tito 1:13 — “Este testimonio es verdadero”
+“Este testimonio es verdadero. Por eso, repréndelos severamente para que sean sanos en la fe,”
+
+#### “Este testimonio es verdadero”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 Pablo valida el testimonio declarado por el profeta acerca de los cretenses.
 
 El texto no discute acerca de la procedencia del testimonio sino simplemente lo declara como verdadero.
 
-#### Por eso, repréndelos severamente 
+### Tito 1:13–15 — “Por esta razón repréndelos severamente”
+“Por eso, repréndelos severamente para que sean sanos en la fe, y no presten atención a mitos judaicos y a mandamientos de hombres que se apartan de la verdad.”
+“Todas las cosas son puras para los puros, pero para los corrompidos e incrédulos nada es puro, sino que tanto su mente como su conciencia están corrompidas.”
+
+#### “Por esta razón repréndelos severamente”
+
+* "cual" es un conector relacional que conecta esta declaración con la anterior.
 
 "Por eso" introduce la razón de la acción que sigue.
 
@@ -499,7 +542,7 @@ Por eso reprende
 
 El texto añade "severamente", la reprensión a los cretenses debía ser severa a causa de la veracidad del testimonio.
 
-#### para que sean sanos en la fe,
+- para que sean sanos en la fe,
 
 La reprensión tiene un propósito.
 
@@ -507,9 +550,9 @@ El propósito "sean sanos" depende del mandato dirigido hacia Tito "repréndelos
 
 Para que los cretenses sean sanos y el texto especifica "en la fe"
 
-### Tito 1:14    y no presten atención a mitos judaicos y a mandamientos de hombres que se apartan de la verdad.
+* "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "repréndelos."
 
-#### y no presten atención a mitos judaicos 
++ y no presten atención a mitos judaicos 
 
 El propósito de reprenderlos continua desarrollándose.
 
@@ -521,7 +564,7 @@ y no presten atención a mitos judaicos
 
 Para que Los cretenses sean sanos no prestando atención a los mitos judíos, esta frase non esta separada
 
-#### y a mandamientos de hombres que se apartan de la verdad.
++ y a mandamientos de hombres que se apartan de la verdad.
 
 La negativa del propósito se amplia.
 
@@ -535,9 +578,7 @@ y a mandamientos de hombres
 
 El texto identifica a estos hombres como "que se apartan de la verdad"
 
-### Tito 1:15    Todas las cosas son puras para los puros, pero para los corrompidos e incrédulos nada es puro, sino que tanto su mente como su conciencia están corrompidas.
-
-#### Todas las cosas son puras para los puros, 
++ Todas las cosas son puras para los puros, 
 
 La progresión continua 
 
@@ -555,7 +596,9 @@ Esta consideración la relaciona con "para los puros"
 
 Para ellos "los puros" todo es puro, el texto no explica ¿como uno se hace puro? o ¿quien es un puro?
 
-#### pero para los corrompidos e incrédulos nada es puro, 
+- “sino que tanto su mente como su conciencia están contaminadas”
+
++ pero para los corrompidos e incrédulos nada es puro, 
 
 El texto marca un contraste "pero" y señala a los corrompidos e incrédulos
 
@@ -565,15 +608,22 @@ El contraste se marca en la consideración de todas las cosas.
 
 Para ellos "corrompidos e incrédulos" nada es puro.
 
-#### sino que tanto su mente como su conciencia están corrompidas.
+* Esta cláusula comparte el mismo "ἵνα" que la cláusula anterior, unida por "y" — no introduce un propósito nuevo, continúa el ya declarado.
+
++ sino que tanto su mente como su conciencia están corrompidas.
 
 Se marca un segundo contraste en cuanto a que nada es puro para ellos
 
 La mente y su conciencia de ellos están corrompidas.
 
-### Tito 1:16    Profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y desobedientes e inútiles para cualquier obra buena.
+* “corrompidas” es un participio atributivo que describe a “que tanto su mente”.
 
-#### Profesan conocer a Dios, 
+### Tito 1:16 — “Profesan conocer a Dios”
+“Profesan conocer a Dios, pero con sus hechos lo niegan, siendo abominables y desobedientes e inútiles para cualquier obra buena.”
+
+#### “Profesan conocer a Dios”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 La progresión continua con "los corrompidos e incrédulos"
 
@@ -581,7 +631,12 @@ Ellos profesan conocer a Dios.
 
 Pablo lo presenta como un hecho ellos están profesando esto.
 
-#### pero con sus hechos lo niegan, 
+### Tito 1:16 — “pero con sus hechos lo niegan, siendo abominables y desobedientes”
+#### “pero con sus hechos lo niegan, siendo abominables y desobedientes”
+
+* "y" es un conector relacional que conecta esta declaración con la anterior.
+
+* "siendo" es un participio circunstancial que acompaña la acción de "niegan."
 
 El texto inmediatamente marca un contraste con el "pero".
 
@@ -591,13 +646,11 @@ El contraste aparece entre lo que profesan y "sus hechos"
 
 Con sus hechos están negando a Dios a quien profesan conocer.
 
-#### siendo abominables y desobedientes e inútiles 
-
 Esto resulta en algo, "ellos" siendo abominables y desobedientes e inútiles.
 
 Esta contradicción de su profesión y sus hechos arroja un hecho de ellos, terminan en esta condición.
 
-#### para cualquier obra buena.
++ para cualquier obra buena.
 
 El texto relaciona esta condición a un objeto 
 
@@ -605,9 +658,15 @@ Ellos siendo abominable y desobedientes e inútiles para cualquier buena obra.
 
 ## Tito 2:1 - 15 En cuanto a ti Enseña, Exhorta y Muéstrate
 
-### Tito 2:1    Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina:
+### Tito 2:1 — “Pero tú habla lo que conviene a la sana doctrina”
+“Pero en cuanto a ti, enseña lo que está de acuerdo con la sana doctrina:”
 
-#### Pero en cuanto a ti,
+#### “Pero en cuanto a ti”
+
+* "cual" es un conector relacional que conecta esta declaración con la anterior.
+
+* “sana” es un participio atributivo que describe a “doctrina”.
+“doctrina”
 
 El "pero" marca un contraste.
 
@@ -615,7 +674,10 @@ El contraste se observa entre los sujetos, ellos "los corrompidos  e incrédulos
 
 Pablo habla directamente a Tito
 
-#### enseña lo que está de acuerdo con la sana doctrina:
+- “enseña lo que está de acuerdo con la sana doctrina:”
+“lo que conviene”
+
+* "cual" introduce una cláusula que describe a “lo que está de acuerdo”.
 
 El contraste sigue presente en esta parte.
 
@@ -635,9 +697,16 @@ Enseña
 
 Lo que esta de acuerdo
 
-### Tito 2:2    Los ancianos deben ser sobrios, dignos, prudentes, sanos en la fe, en el amor, en la perseverancia.
+### Tito 2:2–5 — “para que instruyan a las jóvenes”
+“Los ancianos deben ser sobrios, dignos, prudentes, sanos en la fe, en el amor, en la perseverancia.”
+“Asimismo, las ancianas deben ser reverentes en su conducta, no calumniadoras ni esclavas de mucho vino. Que enseñen lo bueno,”
+“para que puedan instruir a las jóvenes a que amen a sus maridos, a que amen a sus hijos,”
+“a que sean prudentes, puras, hacendosas en el hogar, amables, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada.”
 
-#### Los ancianos deben ser sobrios, dignos, prudentes, sanos en la fe, en el amor, en la perseverancia.
++ “Los ancianos deben ser sobrios, dignos, prudentes, sanos en la fe, en el amor, en la perseverancia.”
+
+* “sanos” es un participio atributivo que describe a “en la fe”.
+“en la fe”
 
 Estos versos desarrollan una conducta o carácter que esta de acuerdo a la sana doctrina de lo cual Tito debía enseñar.
 
@@ -661,9 +730,10 @@ En el amor
 
 Y en la perseverancia.
 
-### Tito 2:3    Asimismo, las ancianas deben ser reverentes en su conducta, no calumniadoras ni esclavas de mucho vino. Que enseñen lo bueno,
++ “Asimismo, las ancianas deben ser reverentes en su conducta,”
 
-#### Asimismo, las ancianas deben ser reverentes en su conducta, 
+* “esclavizadas” es un participio atributivo que describe a “bien”.
+“bien”
 
 Asimismo esta conectando la acción de "ser" pero ahora incluyendo a las ancianas.
 
@@ -673,7 +743,7 @@ Las ancianas "ser"
 
 Reverentes en su conducta
 
-#### no calumniadoras ni esclavas de mucho vino.
++ no calumniadoras ni esclavas de mucho vino.
 
 En cuanto a las ancianas añade dos negaciones.
 
@@ -695,7 +765,7 @@ Ancianos ser
 
 Asimismo las ancianas
 
-#### Que enseñen lo bueno,
++ Que enseñen lo bueno,
 
 Esta declaración para con las ancianas marca un énfasis.
 
@@ -703,9 +773,9 @@ Ancianas "enseñen lo bueno"
 
 Esta declaración engloba lo anterior descrito
 
-### Tito 2:4    para que puedan instruir a las jóvenes a que amen a sus maridos, a que amen a sus hijos,
+#### “para que instruyan a las jóvenes”
 
-#### para que puedan instruir a las jóvenes 
+* "para que" es un conector relacional que conecta esta declaración con la anterior.
 
 Este verso se conecta con la declaración anterior.
 
@@ -715,7 +785,7 @@ Ancianas "enseñen lo bueno"
 
 para que "puedan instruir" a las mas jovenes
 
-#### a que amen a sus maridos, a que amen a sus hijos,
++ a que amen a sus maridos, a que amen a sus hijos,
 
 Las ancianas estarían instruyendo a las jovenes  "ser"
 
@@ -725,29 +795,34 @@ A que amen a sus hijos
 
 La lista continuara en el siguiente versículo.
 
-### Tito 2:5    a que sean prudentes, puras, hacendosas en el hogar, amables, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada.
-
-#### a que sean prudentes, puras,hacendosas en el hogar, amables, sujetas a sus maridos, 
++ a que sean prudentes, puras,hacendosas en el hogar, amables, sujetas a sus maridos, 
 
 A que sean prudentes
-
 A que sean puras
-
 A que sean hacendosas en el hogar
-
 A que sean amables
-
 Siendo sujetas a sus maridos
 
-#### para que la palabra de Dios no sea blasfemada.
+* "sujetas" es un participio sustantivado — funciona como el nombre de una persona o cosa, no describe algo más.
+
+- “para que la palabra de Dios no sea blasfemada.”
+
+* "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "instruyan."
 
 Que las ancianas instruyan a las mas jovenes a "ser" contiene un propósito.
 
  A causa de esto la palabra de Dios no sea blasfemada
 
-### Tito 2:6    Asimismo, exhorta a los jóvenes a que sean prudentes.
+### Tito 2:6–10 — “Exhorta igualmente a los jóvenes”
+“Asimismo, exhorta a los jóvenes a que sean prudentes.”
+“mostrándote en todo como ejemplo de buenas obras; en la enseñanza, integridad, dignidad,”
+“palabra sana, irreprensible, para que el de la parte contraria se avergüence, no teniendo nada malo que decir de nosotros.”
+“A los siervos, someterse a sus propios amos en todo, ser agradables, no contradiciendo,”
+“no apropiándose, sino demostrando toda buena fidelidad, para que en todo adornen la doctrina de Dios nuestro Salvador.”
 
-#### Asimismo, exhorta a los jóvenes a que sean prudentes.
+#### “Asimismo, exhorta a los jóvenes a que sean prudentes.”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 El "asimismo" vuelve a conectar con las ancianas y las jovenes en una comparación "Tito y los jovenes"
 
@@ -761,9 +836,7 @@ Así como las ancianas (enseñando lo bueno)  para que instruyan a las jovenes a
 
 El siguiente verso mostrara de que manera será esta exhortación.
 
-### Tito 2:7    Muéstrate en todo como ejemplo de buenas obras, con pureza de doctrina, con dignidad,
-
-#### Muéstrate en todo como ejemplo de buenas obras, 
++ Muéstrate en todo como ejemplo de buenas obras, 
 
 El hecho de exhortar a los jovenes a "ser" pedantes esta unido a Tito mostrándose a ellos 
 
@@ -771,7 +844,7 @@ En todo como ejemplo de buenas obras.
 
 Así como las ancianas enseñando lo bueno para instruir a las mas jovenes.
 
-#### con pureza de doctrina, con dignidad,
++ con pureza de doctrina, con dignidad,
 
 Tito mostrándose en todo 
 
@@ -781,13 +854,13 @@ Con dignidad
 
 El siguiente verso continuara con la progresión.
 
-### Tito 2:8    con palabra sana e irreprochable, a fin de que el adversario se avergüence al no tener nada malo que decir de nosotros.
-
-#### con palabra sana e irreprochable, 
++ con palabra sana e irreprochable, 
 
 Con palabra sana e irreprochable
 
-#### a fin de que el adversario se avergüence 
+- “a fin de que el adversario se avergüence”
+
+* "a fin de que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "Exhorta."
 
 La carta añade un propósito 
 
@@ -799,19 +872,19 @@ A fin de que el adversario se avergüence
 
 EL que esta en contra se avergüence depende de "muéstrate como ejemplo"
 
-#### al no tener nada malo que decir de nosotros.
++ al no tener nada malo que decir de nosotros.
 
 El texto relaciona la vergüenza del adversario  con "no tener nada malo que decir"
 
-### Tito 2:9    Exhorta a los siervos a que se sujeten a sus amos en todo, que sean complacientes, no contradiciendo,
+* "al no tener" es un participio circunstancial que acompaña la acción de "avergüence."
 
-#### Exhorta a los siervos a que se sujeten a sus amos en todo, 
++ Exhorta a los siervos a que se sujeten a sus amos en todo, 
 
 Ahora se incluyen a los Siervos a "ser sujetos" a sus amos en todo
 
 El texto no clasifica en que se puede sujetar un siervo sino que es enfático "en todo".
 
-#### que sean complacientes, no contradiciendo,
++ que sean complacientes, no contradiciendo,
 
 Para los siervos el listado continua, aquí se incluyen dos negativas .
 
@@ -819,9 +892,7 @@ A "ser" complacientes .
 
 no contradiciendo.
 
-### Tito 2:10    no defraudando, sino mostrando toda buena fe, para que adornen la doctrina de Dios nuestro Salvador en todo respecto.
-
-#### no defraudando, sino mostrando toda buena fe,
++ no defraudando, sino mostrando toda buena fe,
 
 Y no defraudando.
 
@@ -831,7 +902,15 @@ En contraste opuesto a las negativas a no ser.
 
 "sino" mostrando toda confianza.
 
-#### para que adornen la doctrina de Dios nuestro Salvador en todo respecto.
+  - “para que adornen la doctrina de Dios nuestro Salvador en todo respecto.”
+
+  * "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "avergüence."
+
+  * "apropiándose" es un participio sustantivado — funciona como el nombre de una persona o cosa, no describe algo más.
+
+  * "demostrando" es un participio sustantivado — funciona como el nombre de una persona o cosa, no describe algo más.
+
++ para que adornen la doctrina de Dios nuestro Salvador en todo respecto.
 
 Este "ser" del siervo concluye con un propósito.
 
@@ -841,9 +920,35 @@ El propósito de adornar va mas allá, se relaciona con "en todo respecto".
 
 Para adornar la doctrina de Dios en todas las cosas.
 
-### Tito 2:11    Porque la gracia de Dios se ha manifestado, trayendo salvación a todos los hombres,
+La proquesion del texto continua hasta el final
 
-#### Porque la gracia de Dios se ha manifestado, 
+Tito
+
+Enseña
+
+Lo que esta de acuerdo
+
+Los ancianos "ser"
+
+Las ancianas "ser"
+
+Las jovenes  "ser"
+
+Exhorta
+
+Los jovenes "ser"
+
+Los siervos  "ser" 
+
+### Tito 2:11–12 — “Porque se ha manifestado la gracia de Dios, salvadora para todos los hombres”
+“Porque la gracia de Dios se ha manifestado, trayendo salvación a todos los hombres,”
+“enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,”
+
+#### “Porque la gracia de Dios se ha manifestado,”
+
+* "porque" es un conector relacional que presenta esta declaración como razón o fundamento de la anterior.
+
+El mismo texto introduce la razón de los mandatos "en
 
 El "porque" introduce una razón en el texto. 
 
@@ -859,7 +964,7 @@ El texto mismo determina la razón "porque la gracia de Dios se ha manifestado"
 
 Dios no mantuvo oculta su gracia.
 
-#### trayendo salvación a todos los hombres,
++ trayendo salvación a todos los hombres,
 
 La gracia de Dios se ha manifestado "trayendo salvación"
 
@@ -867,9 +972,11 @@ La salvación es por la gracia de Dios .
 
 Esta salvación se extiende hacia todos los hombres
 
-### Tito 2:12    enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,
+- “enseñándonos, que negando la impiedad y los deseos mundanos,  vivamos en este mundo sobria, justa y piadosamente,”
 
-#### enseñándonos, que negando la impiedad y los deseos mundanos, 
+* "que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "manifestado."
+
+* "enseñándonos," es un participio circunstancial que acompaña la acción de "vivamos."
 
 La gracia de Dios se ha manifestado "enseñándonos"
 
@@ -881,7 +988,7 @@ La impiedad
 
 Y los deseos mundanos
 
-#### vivamos en este mundo sobria, justa y piadosamente,
+* "negando" es un participio circunstancial que acompaña la acción de "vivamos."
 
 "Vivamos" en este mundo
 
@@ -893,15 +1000,21 @@ Justa
 
 y piadosamente
 
-### Tito 2:13    aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
+### Tito 2:13–15 — “Estas cosas habla”
+“aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.”
+“Él se dio por nosotros, para REDIMIRNOS DE TODA INIQUIDAD y PURIFICAR PARA SÍ UN PUEBLO PARA POSESIÓN SUYA, celoso de buenas obras.”
+“Esto habla, exhorta y reprende con toda autoridad. Que nadie te menosprecie.”
 
-#### aguardando la esperanza bienaventurada 
++ aguardando la esperanza bienaventurada 
+
+* “aguardando” es un participio atributivo que describe a “esperanza bienaventurada”.
+“esperanza bienaventurada”
 
 Vivamos en este mundo "aguardando"
 
 ¿Que aguardamos?La esperanza bienaventurada.
 
-#### y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
++ y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 
 Además de la esperanza
 
@@ -909,21 +1022,26 @@ Aguardamos "la manifestación" de la gloria de nuestro gran Dios y Salvado Crist
 
 La manifestación de la gloria está conectando a una persona nuestro Dios y salvador Cristo Jesús.
 
-### Tito 2:14    Él se dio por nosotros, para REDIMIRNOS DE TODA INIQUIDAD y PURIFICAR PARA SÍ UN PUEBLO PARA POSESIÓN SUYA, celoso de buenas obras.
-
-#### Él se dio por nosotros, 
+- “Él se dio por nosotros,”
+“Salvador”
 
 Jesús se dio, nuestro salvador Cristo Jesús se entrego por nosotros
 
-#### para REDIMIRNOS DE TODA INIQUIDAD y PURIFICAR PARA SÍ UN PUEBLO
++ para REDIMIRNOS DE TODA INIQUIDAD
+
+* "cual" introduce una cláusula que describe a “Salvador”.
 
 Cristo se entrego por nosotros con un propósito
 
 Para "redimirnos" de toda iniquidad
 
+  - “y purificar para sí un pueblo propio”
+
+  * Esta cláusula comparte el mismo "ὃς" que la cláusula anterior, unida por "y" — no introduce una descripción nueva, continúa la ya declarada.
+
 Y "purificar" para si un pueblo
 
-#### PARA POSESIÓN SUYA, celoso de buenas obras.
++ PARA POSESIÓN SUYA, celoso de buenas obras.
 
 Este pueblo es posesión de Cristo
 
@@ -931,9 +1049,9 @@ Nosotros por los cuales Cristo se dio somos posesión de El
 
 Ese pueblo  celoso de buenas obras
 
-### Tito 2:15    Esto habla, exhorta y reprende con toda autoridad. Que nadie te menosprecie.
+#### “Estas cosas habla”
 
-#### Esto habla,exhorta y reprende con toda autoridad. 
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 El mandato vuelve a direccionarse a Tito
 
@@ -947,7 +1065,20 @@ Estos 3 imperativos se unen a "con toda autoridad"
 
 Estos imperativos enfatizan la labor de Tito en creta.
 
-#### Que nadie te menosprecie.
+### Tito 2:15 — “y exhorta”
+#### “y exhorta”
+
+* "y" es un conector relacional de adición — une esta declaración a la anterior sin introducir contraste ni motivo.
+
+### Tito 2:15 — “y reprende con toda autoridad”
+#### “y reprende con toda autoridad”
+
+* "y" es un conector relacional de adición — une esta declaración a la anterior sin introducir contraste ni motivo.
+
+### Tito 2:15 — “nadie te menosprecie”
+#### “nadie te menosprecie”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 Este es el único imperativo en toda la carta que no es dirigido a Tito de manera directa.
 
@@ -957,9 +1088,15 @@ Nadie debía menospreciar a Tito
 
 ## Tito 3:1 - 11 Recuérdales, Habla y Evita
 
-### Tito 3:1    Recuérdales que estén sujetos a los gobernantes, a las autoridades; que sean obedientes, que estén preparados para toda buena obra.
+### Tito 3:1–4 — “Recuérdales que se sometan a los gobernantes y a las autoridades”
+“Recuérdales que estén sujetos a los gobernantes, a las autoridades; que sean obedientes, que estén preparados para toda buena obra.”
+“Que no injurien a nadie, que no sean contenciosos, sino amables, mostrando toda consideración para con todos los hombres.”
+“Porque nosotros también en otro tiempo éramos necios, desobedientes, extraviados, esclavos de deleites y placeres diversos, viviendo en malicia y envidia, aborrecibles y odiándonos unos a otros.”
+“Pero cuando se manifestó la bondad de Dios nuestro Salvador, y Su amor hacia la humanidad,”
 
-#### Recuérdales que estén sujetos a los gobernantes, a las autoridades;
+#### “Recuérdales que se sometan a los gobernantes y a las autoridades”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 El mandato vuelve a recaer sobre Tito.
 
@@ -969,7 +1106,7 @@ Esto se retoma del verso 1:13, en todo el el capitulo 2 la dirección es de Pabl
 
 El énfasis aquí es "recuérdales  a ellos" a ser sujetos a los gobernantes, alas autoridades.
 
-#### que sean obedientes, que estén preparados para toda buena obra.
+  + que sean obedientes, que estén preparados para toda buena obra.
 
 Recuérdales  a "ser" 
 
@@ -977,9 +1114,7 @@ obedientes
 
 preparados para toda buena obra
 
-### Tito 3:2    Que no injurien a nadie, que no sean contenciosos, sino amables, mostrando toda consideración para con todos los hombres.
-
-#### Que no injurien a nadie, que no sean contenciosos, 
+  + Que no injurien a nadie, que no sean contenciosos, 
 
 La progresión continua  con base en "recuérdales"
 
@@ -989,7 +1124,7 @@ Que no injurien a nadie
 
 que no sean contenciosos
 
-#### sino amables, mostrando toda consideración para con todos los hombres.
+  + sino amables, mostrando toda consideración para con todos los hombres.
 
 En contraste a "no ser" de una manera  sino "a ser"
 
@@ -999,9 +1134,9 @@ mostrando toda consideración
 
 La dirección de esta consideración es hacia todos los hombres
 
-### Tito 3:3    Porque nosotros también en otro tiempo éramos necios, desobedientes, extraviados, esclavos de deleites y placeres diversos, viviendo en malicia y envidia, aborrecibles y odiándonos unos a otros.
+- “Porque también nosotros éramos en otro tiempo necios”
 
-#### Porque nosotros también en otro tiempo éramos necios, desobedientes, extraviados, esclavos de deleites y placeres diversos, 
+* "porque" es un marcador subordinante de razón — introduce el motivo o fundamento de la cláusula anterior.
 
 El texto marca una razón
 
@@ -1015,35 +1150,45 @@ Pablo ahora no señala algo se les deba recordar a "ellos" sino que utilizara "n
 
 En otro tiempo nosotros "éramos" 
 
-Necios
+  + Necios
 
-Desobedientes
+  + Desobedientes
 
-Extraviados
+  + Extraviados
 
-Esclavos de deleites
+  + Esclavos de deleites
 
-y placeres
+* "esclavizados" es un participio circunstancial que acompaña la acción de "éramos."
 
-#### viviendo en malicia y envidia,
+  + y placeres
+
++ viviendo en malicia y envidia,
 
 Nosotros en otro tiempo estábamos viviendo
 
-En malicia 
+En malicia
 
 Y envidia
 
-#### aborrecibles y odiándonos unos a otros.
+* "viviendo" es un participio circunstancial que acompaña la acción de "éramos."
 
-Nosotros éramos 
++ aborrecibles y odiándonos unos a otros.
+
+* “odiándonos” es un participio atributivo que describe a “a otros”.
+“a otros”
+
+* “extraviados” es un participio atributivo que describe a “desobedientes”.
+  “desobedientes”
+  
+  Nosotros éramos 
 
 Aborrecibles
 
 y odiándonos unos a otros
 
-### Tito 3:4    Pero cuando se manifestó la bondad de Dios nuestro Salvador, y Su amor hacia la humanidad,
+  - “Pero cuando se manifestó la bondad y el amor a los hombres de Dios nuestro Salvador”
 
-#### Pero cuando se manifestó la bondad de Dios nuestro Salvador, 
+  * "cuando" es un marcador subordinante de tiempo — conecta esta cláusula con un momento relacionado en la cláusula anterior.
 
 Este "pero" marca el contraste de "nosotros éramos"
 
@@ -1055,7 +1200,7 @@ Pablo marca un tiempo "nosotros éramos" per "cuando"
 
 Se marca un énfasis por quien es que se marca el contraste, nosotros no hicimos nada que pueda cambiar esa realidad pero Dios manifestó su bondad.
 
-#### y Su amor hacia la humanidad,
++ y Su amor hacia la humanidad,
 
 El contraste de tiempo "cuando" aun sigue presente
 
@@ -1069,9 +1214,14 @@ y Su amor
 
 Cuando el manifestó esto a la humanidad es que se marca el contraste de tiempo.
 
-### Tito 3:5    Él nos salvó, no por las obras de justicia que nosotros hubiéramos hecho, sino conforme a Su misericordia, por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,
+### Tito 3:5–7 — “Él nos salvó por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,”
+“Él nos salvó, no por las obras de justicia que nosotros hubiéramos hecho, sino conforme a Su misericordia, por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,”
+“que Él derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador,”
+“para que justificados por Su gracia fuéramos hechos herederos según la esperanza de la vida eterna.”
 
-#### Él nos salvó, 
+#### “Él nos salvó, no por las obras de justicia que nosotros hubiéramos hecho, sino conforme a Su misericordia, por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 Dios nos salvo
 
@@ -1081,7 +1231,7 @@ Nosotros en otro tiempo éramos así pero "nos salvo"  cuando se manifestó su b
 
 Dios es el accionario aquí "el nos salvo"
 
-#### no por las obras de justicia que nosotros hubiéramos hecho, 
++ no por las obras de justicia que nosotros hubiéramos hecho, 
 
 El texto presenta una negativa a la accion de Dios.
 
@@ -1092,8 +1242,6 @@ No por las obras de justicia
 El accionar de Dios de salvarnos no tuvo nada que ver con obras de justicia de nuestra parte 
 
 EL texto es enfatico " El nos salvo" no por obras de justicia "que nosotros hubiéramos hecho"
-
-#### sino conforme a Su misericordia, 
 
 Pablo mismo aclara con un contraste según que "El nos salvo"
 
@@ -1107,7 +1255,11 @@ Conforme a Su misericordia
 
 El nos salvo en Su misericordia 
 
-#### por medio del lavamiento de la regeneración y la renovación por el Espíritu Santo,
+- “el cual derramó sobre nosotros abundantemente por medio de Jesús Cristo nuestro Salvador”
+“Espíritu Santo”
+
+
+* "cual" introduce una cláusula que describe a “Espíritu Santo”.
 
 El texto describe por medio de que "El nos salvo"
 
@@ -1115,9 +1267,7 @@ El lavamiento de la regeneración
 
 Y la renovación por el Espíritu Santo
 
-### Tito 3:6    que Él derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador,
-
-#### que Él derramó sobre nosotros abundantemente 
++ que Él derramó sobre nosotros abundantemente 
 
 Dios mismo derramo el Espíritu Santo sobre nosotros
 
@@ -1125,7 +1275,7 @@ Nosotros no hicimos algo para ganar al Espíritu Santo es Dios quien derramo
 
 Dios derramo  y lo hizo de manera abundante
 
-#### por medio de Jesucristo nuestro Salvador,
++ por medio de Jesucristo nuestro Salvador,
 
 El texto si nos señala por medio de quien Dios hizo todo esto
 
@@ -1155,9 +1305,11 @@ Por medio de Jesucristo
 
 Nuestro salvador
 
-### Tito 3:7    para que justificados por Su gracia fuéramos hechos herederos según la esperanza de la vida eterna.
+  - “para que, justificados por la gracia de aquel, llegáramos a ser herederos”
 
-#### para que justificados por Su gracia 
+  * "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "derramó."
+
+  * "justificados" es un participio circunstancial que acompaña la acción de "llegáramos."
 
 A continuación  el texto marca un propósito
 
@@ -1165,17 +1317,17 @@ A continuación  el texto marca un propósito
 
 Esta primera parte presenta un antecedente 
 
-#### fuéramos hechos herederos según la esperanza de la vida eterna.
-
 EL propósito se desenvuelve en "fuéramos hechos"
 
 Ya justificados por su gracia  "lleguemos a ser" 
 
 Para que fuéramos hechos herederos "según la esperanza de la vida eterna"
 
-### Tito 3:8    Palabra fiel es esta; y en cuanto a estas cosas quiero que hables con firmeza, para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles para los hombres.
+### Tito 3:8–9 — “estas cosas quiero que te afirmes firmemente”
+“Palabra fiel es esta; y en cuanto a estas cosas quiero que hables con firmeza, para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles para los hombres.”
+“Pero evita controversias necias, genealogías, contiendas y discusiones acerca de la ley, porque son sin provecho y sin valor.”
 
-#### Palabra fiel es esta; 
++ Palabra fiel es esta; 
 
 Pablo cierra declarando que lo que acaba de hablar es "palabra fiel"
 
@@ -1185,13 +1337,20 @@ para que Justificados
 
 llegaremos a ser herederos según la esperanza de la vida eterna
 
-#### y en cuanto a estas cosas quiero que hables con firmeza, 
+#### “y en cuanto a estas cosas quiero que hables con firmeza”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 Pablo quiere que Tito hable  con firmeza "estas cosas"
 
 Lo que Dios ha hecho por medio de Jesucristo para con nosotros y del propósito por el cual El nos salvo
 
-#### para que los que han creído en Dios 
+- “para que los que han creído en Dios se dediquen a buenas obras”
+
+* "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "quiero."
+
+* “creído” es un participio atributivo que describe a “firmemente, para”.
+“firmemente, para”
 
 El querer de Pablo para con Tito result6a en un propósito
 
@@ -1199,15 +1358,15 @@ que Tito hable con firmeza "estas cosas" para que
 
 Los que han creído (los creyentes)  serian el sujeto en el propósito
 
-#### procuren ocuparse en buenas obras. 
-
 Para que los creyentes procuren ocuparse en bunas obras
 
 Este propósito esta en función de que "hable estas cosas con firmeza "
 
 El texto señala en que procurarían ocuparse "buenas obras"
 
-#### Estas cosas son buenas y útiles para los hombres.
+- “Estas cosas son buenas y provechosas para los hombres”
+
+* Esta cláusula comparte el mismo "ἵνα" que la cláusula anterior, unida por "y" — no introduce un propósito nuevo, continúa el ya declarado.
 
 "Estas cosas" vuelve a la palabra fiel que hablo.
 
@@ -1219,9 +1378,9 @@ y Útiles
 
 Es bueno y útil para "el hombre"
 
-### Tito 3:9    Pero evita controversias necias, genealogías, contiendas y discusiones acerca de la ley, porque son sin provecho y sin valor.
+- “Pero evita las necias controversias, genealogías, contiendas y peleas acerca de la ley”
 
-#### Pero evita controversias necias, genealogías, contiendas y discusiones acerca de la ley, 
+* Esta cláusula comparte el mismo "ἵνα" que la cláusula anterior, unida por "y" — no introduce un propósito nuevo, continúa el ya declarado.
 
 Pablo marca un contraste.
 
@@ -1243,7 +1402,9 @@ Genealogías
 
 Y discusiones acerca de la ley
 
-#### porque son sin provecho y sin valor.
+  - “porque son sin provecho y sin valor”
+
+  * "porque" es un marcador subordinante de razón — introduce el motivo o fundamento de la cláusula anterior.
 
 ¿Por que razón Tito debía evitar estas cosas? Simplemente por su resultado
 
@@ -1253,15 +1414,17 @@ Y sin valor
 
 Detenerse en estas cosa resultaría en un desperdicio ya que no tienen ningún valor o provecho.
 
-### Tito 3:10    Al hombre que cause divisiones, después de la primera y segunda amonestación, recházalo,
+### Tito 3:10–11 — “hombre sectario, después de una y segunda amonestación, recházalo”
+“Al hombre que cause divisiones, después de la primera y segunda amonestación, recházalo,”
+“sabiendo que el tal es perverso y está pecando, habiéndose condenado a sí mismo.”
 
-#### Al hombre que cause divisiones, 
+#### “Al hombre que cause divisiones, después de la primera y segunda amonestación, recházalo”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 Pablo muestra "Al hombre" que cause divisiones.
 
 Es indiferente quien es el hombre, el énfasis esta en lo que causa "divisiones"
-
-#### después de la primera y segunda amonestación, recházalo,
 
 El texto muestra una accion no de una sola vez.
 
@@ -1279,9 +1442,13 @@ Después de la segunda amonestación el mandamiento es "recházalo"
 
 Tito debía rechazarlo después de la segunda amonestación, vemos que este rechazo no es en un impulso sino después de dos amonestaciones.
 
-### Tito 3:11    sabiendo que el tal es perverso y está pecando, habiéndose condenado a sí mismo.
+- “sabiendo que tal está pervertido”
+“Al hombre sectario, después de”
 
-#### sabiendo que el tal es perverso y está pecando, 
+* "que" introduce una cláusula que describe a “Al hombre sectario, después de”.
+
+* “sabiendo” es un participio atributivo que describe a “que”.
+“que”
 
 El rechazo no es arbitrario "sabiendo"
 
@@ -1293,107 +1460,68 @@ Y esta pecando
 
 Esto después de la segunda amonestación.
 
-#### habiéndose condenado a sí mismo.
+- “y peca, siendo autocondenado”
+
+* Esta cláusula comparte el mismo "ὅτι" que la cláusula anterior, unida por "y" — no introduce una descripción nueva, continúa la ya declarada.
+
+* “siendo” es un participio atributivo que describe a un sustantivo cercano.
 
 El rechazo de este hombre no debería ser una sorpresa para el mismo.
 
 "El tal" se ha condenado así mismo
 
-## Tito 3:12 - 15 Procura venir, Encamina y Saluda
+## Tito 3:12 Procura venir, Encamina y Saluda
 
-### Tito 3:12    Cuando te envíe a Artemas o a Tíquico, procura venir a verme en Nicópolis, porque he decidido pasar allí el invierno.
+### Tito 3:12 — “Cuando envíe a Artemas a ti, o a Tíquico”
+“Cuando te envíe a Artemas o a Tíquico, procura venir a verme en Nicópolis, porque he decidido pasar allí el invierno.”
 
-#### Cuando te envíe a Artemas o a Tíquico, 
+#### “Cuando envíe a Artemas a ti, o a Tíquico”
+
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
 EL ultimo encargo de Pablo a Tito comienza.
 
 Cuando Pablo envie a Artemas o Titico a Tito El deberia de hacer algo.
 
-#### procura venir a verme en Nicópolis, 
+### Tito 3:12–14 — “apresúrate a venir a mí a Nicópolis”
+“Encamina con diligencia a Zenas, intérprete de la ley, y a Apolos, para que nada les falte.”
+“Y que los nuestros aprendan a ocuparse en buenas obras, atendiendo a las necesidades apremiantes, para que no estén sin fruto.”
 
-EL mandamiento es directo a Tito.
+#### “apresúrate a venir a mí a Nicópolis”
 
-Cuando Artemas o Títico sean enviados a donde se encuentra Tito (creta) 
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
-El deberá "procurar" ir a a ver a Pablo en Nicópolis.
+- “porque allí he decidido pasar”
+“Nicópolis”
 
-#### porque he decidido pasar allí el invierno.
+* "porque" introduce una cláusula que describe a “Nicópolis”.
 
-Pablo explica porque Tito deberá ir a Nicópolis
+- “Zenas el jurista y a Apolos, envíalos diligentemente”
 
-Pablo pasaría el invierno en esa ciudad
+* Esta cláusula comparte el mismo "γὰρ" que la cláusula anterior, unida por "y" — no introduce una descripción nueva, continúa la ya declarada.
 
-### Tito 3:13    Encamina con diligencia a Zenas, intérprete de la ley, y a Apolos, para que nada les falte.
+  - “para que nada les falte”
 
-#### Encamina con diligencia a Zenas, intérprete de la ley, y a Apolos, 
+  * "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "envíalos."
 
-Se da otro mandato a Tito
+  - “Y aprendan también los nuestros a dedicarse a buenas obras para”
 
-El deberá "encaminar" a Zenas
+  * Esta cláusula comparte el mismo "ἵνα" que la cláusula anterior, unida por "y" — no introduce un propósito nuevo, continúa el ya declarado.
 
-Zenas es interprete de la ley
+    - “para que no sean infructuosos”
 
-Asimismo debería de "encaminar" a Apolos
+    * "para que" es un marcador subordinante de propósito — introduce la meta hacia la cual se dirige la acción de "aprendan."
 
-El mandato de "encaminar" esta acompañado de "con diligencia" siendo la forma en que debía de encaminarlos.
+### Tito 3:15 — “Te saludan todos los que están conmigo”
+“Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes.”
 
-#### para que nada les falte.
+#### “Te saludan todos los que están conmigo”
 
-El proposito de este mandato.
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
-Para que a Zenas y Apoles no les falte nada 
+### Tito 3:15 — “Saluda a los que nos aman en la fe”
+#### “Saluda a los que nos aman en la fe”
 
-Esto es que pueden tener todo lo necesario para continuar
+* Esta cláusula no lleva conector — inicia sin partícula de enlace.
 
-Este propósito esta sujeto a que Tito cumpla el mandato.
-
-### Tito 3:14    Y que los nuestros aprendan a ocuparse en buenas obras, atendiendo a las necesidades apremiantes, para que no estén sin fruto.
-
-#### Y que los nuestros aprendan a ocuparse en buenas obras, atendiendo a las necesidades apremiantes,
-
-Este verso esta ligado al mandato de Tito a "encaminar" a Zenas y Apolos
-
-"Y" conecta estos versos
-
-Tito 
-
-encamina
-
-y 
-
-Los nuestros aprendan
-
-Pablo utiliza el mandato dado Tito de "encaminar" como ejemplo 
-
-Con eso dará un mandato esta vez no a Tito sino a "los nuestros" aprendan.
-
-Los nuestros "aprendan" a ocuparse en buenas obras
-
-En buenas obras "atendiendo las necesidades" apremiantes
-
-#### para que no estén sin fruto.
-
-Esto tiene un propósito "para que" no estén sin fruto
-
-Continua refiriéndose a "los nuestros" 
-
-El propósito esta en función del mandato "aprendan" 
-
-### Tito 3:15    Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes.
-
-#### Todos los que están conmigo te saludan
-
-Pablo hace conocer a Tito que todos los que acompañaban a Pablo en ese momento le envian saludos, esto es una realidad.
-
-#### Saluda a los que nos aman en la fe
-
-El ultimo mandato de Pablo a Tito era dar sus saludos los que aman a Pablo y a los que están con el.
-
-Pablo ubica a los que los aman "en la fe"
-
-Esto no es un amor de afecto simplemente sino ubicado en "la fe"
-
-#### La gracia sea con todos ustedes
-
-Pablo se despide marcando no un deseo sino un punto "LA GRACIA " este con ustedes.
-
+* "aman" es un participio circunstancial que acompaña la acción de "Saluda."
