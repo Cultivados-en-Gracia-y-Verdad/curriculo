@@ -136,49 +136,40 @@ Ahora que conocemos el escenario, es tiempo de <u>escuchar</u> las primeras pala
 
 # CAPÍTULO 1 — EL ENCARGO DE TITO
 
-## Tito 1:1 - 4 Un Encargo conforme a la fe, verdad, piedad y esperanza
+## Tito 1:1-4 Un Encargo conforme a la fe, verdad, piedad y esperanza
 
 ### Tito 1:1–4 — *y a su propio tiempo manifestó su palabra por la predicación*
 
-*Pablo, siervo de <u>Dios</u> y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y al pleno conocimiento de la verdad que es según la piedad*
-*con la esperanza de vida eterna, la cual Dios, que no miente, prometió desde los tiempos <u>eternos</u>,*
-*y a su debido <u>tiempo</u>, manifestó Su palabra por la predicación que me fue confiada, conforme al mandamiento de Dios nuestro Salvador.*
-*a <u>Tito</u>, verdadero hijo en la común fe: Gracia y paz de parte de Dios el Padre y de Cristo Jesús nuestro Salvador.*
-
 + *Pablo, siervo de Dios, apóstol de Cristo Jesús,*
-
 > La carta comienza identificando al autor. <u>Antes</u> de hablar del propósito de la carta o de Tito, Pablo se presenta a sí mismo.
 
-> Lo primero que dice acerca de sí mismo es que es "siervo de <u>Dios</u>".
+> Lo primero que dice acerca de sí mismo es que es *siervo de <u>Dios</u>*.
 
-> *"Siervo" traduce la palabra griega *doulos*. Se usaba para una <u>persona</u> que pertenecía a un señor y vivía para cumplir su voluntad. Antes de mencionar cualquier tarea o responsabilidad, Pablo deja claro a quién pertenece.
+> *Siervo* traduce la palabra griega *doulos*. Se usaba para una <u>persona</u> que pertenecía a un señor y vivía para cumplir su voluntad. Antes de mencionar cualquier tarea o responsabilidad, Pablo deja claro a quién pertenece.
 
-> Después <u>añade</u> que también es "apóstol de Cristo Jesús".
+> Después <u>añade</u> que también es *apóstol de Cristo Jesús*.
 
-> *"Apóstol" traduce la palabra griega *apostolos*. Era alguien enviado con la autoridad de otra persona. No iba representándose a sí mismo, sino a quien lo enviaba. Pablo no solo pertenece a <u>Dios</u>; también ha sido enviado por Jesucristo.
+* *Apóstol* traduce la palabra griega *apostolos*. Era alguien enviado con la autoridad de otra persona. No iba representándose a sí mismo, sino a quien lo enviaba. Pablo no solo pertenece a <u>Dios</u>; también ha sido enviado por Jesucristo.
 
 + *conforme a la fe de los escogidos de Dios*
-
 > A partir de este punto la presentación de Pablo comienza a crecer. La <u>oración</u> todavía no explica estas ideas; simplemente las va añadiendo una tras otra.
 
 > <u>Pablo</u> sigue siendo el sujeto de la oración.
 
 > <u>Primero</u> se presenta como siervo y apóstol. Ahora añade que su ministerio es "conforme a la fe de los escogidos de Dios".
 
-> Aquí *"la fe" no describe la acción de creer, sino aquello que caracteriza a este grupo llamado *"los <u>escogidos</u> de Dios".
+* Aquí *la fe* no describe la acción de creer, sino aquello que caracteriza a este grupo llamado *los <u>escogidos</u> de Dios*.
 
 > En este momento Pablo no explica qué entiende por *"la fe" ni quiénes son *"los escogidos". Solamente introduce <u>estas</u> expresiones. La carta irá desarrollando su significado.
 
 + *y al pleno conocimiento de la verdad que es según la piedad,*
-
 > Pablo continúa <u>ampliando</u> su presentación.
 
 > Ahora añade <u>otra</u> expresión: "el pleno conocimiento de la verdad".
 
-> *"Conocimiento" traduce una palabra griega que <u>habla</u> de conocer plenamente o reconocer algo con claridad. No se trata solamente de tener información, sino de conocer la verdad.
+* "Conocimiento" traduce una palabra griega que <u>habla</u> de conocer plenamente o reconocer algo con claridad. No se trata solamente de tener información, sino de conocer la verdad.
 
 > Hasta aquí <u>Pablo</u> ha mencionado:
-
 > - la fe
 > - el pleno conocimiento de la <u>verdad</u>
 
@@ -193,13 +184,11 @@ Ahora que conocemos el escenario, es tiempo de <u>escuchar</u> las primeras pala
 > *"Piedad" traduce una palabra que describe una manera de vivir que honra a Dios. Pablo aún no desarrolla esta idea; solamente la <u>introduce</u>.
 
 + *con la esperanza de vida eterna*
-
 > La oración <u>continúa</u> creciendo.
 
 > Pablo todavía no se <u>detiene</u> a explicar ninguna de las expresiones que ha mencionado. Simplemente sigue acumulándolas.
 
 > Hasta <u>este</u> momento hemos visto:
-
 > - Pablo, siervo de Dios y <u>apóstol</u> de Jesucristo.
 > - Conforme a la fe de los escogidos de <u>Dios</u>.
 > - Al <u>pleno</u> conocimiento de la verdad.
