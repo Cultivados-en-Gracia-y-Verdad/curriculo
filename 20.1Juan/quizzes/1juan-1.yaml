@@ -1,0 +1,115 @@
+id: 1juan-1
+
+title: 1 Juan 1
+
+questions:
+
+  - question: ¿Con qué palabras abre la carta?
+    answers:
+      - text: “Lo que era desde el principio”
+        correct: true
+      - text: “Gracia y paz a ustedes”
+        correct: false
+      - text: “Juan, apóstol de Jesús Cristo”
+        correct: false
+      - text: “Bendito sea el Dios y Padre”
+        correct: false
+
+  - question: ¿Qué falta al comienzo de esta carta?
+    answers:
+      - text: Un saludo con el nombre de quien escribe y de quiénes reciben
+        correct: true
+      - text: Una cita del Antiguo Testamento
+        correct: false
+      - text: Una lista de ciudades
+        correct: false
+      - text: Una oración por los enfermos
+        correct: false
+
+  - question: ¿Qué hizo el nosotros con la Palabra de vida?
+    answers:
+      - text: La oyó, la vio, la contempló y la palpó
+        correct: true
+      - text: Solo la leyó en los profetas
+        correct: false
+      - text: La recibió en un sueño
+        correct: false
+      - text: La escribió en tablas de piedra
+        correct: false
+
+  - question: ¿Para qué anuncian lo que han visto y oído?
+    answers:
+      - text: Para que ustedes también tengan comunión con nosotros
+        correct: true
+      - text: Para recoger una ofrenda
+        correct: false
+      - text: Para nombrar ancianos
+        correct: false
+      - text: Para anunciar el juicio de las naciones
+        correct: false
+
+  - question: ¿Para qué escriben estas cosas?
+    answers:
+      - text: Para que su gozo sea completo
+        correct: true
+      - text: Para que teman el castigo
+        correct: false
+      - text: Para que guarden silencio
+        correct: false
+      - text: Para que viajen a Jerusalén
+        correct: false
+
+  - question: ¿Cuál es el mensaje que han oído de él?
+    answers:
+      - text: Que Dios es luz y no hay ningunas tinieblas en él
+        correct: true
+      - text: Que Dios es juez de vivos y muertos
+        correct: false
+      - text: Que Dios habita en templos
+        correct: false
+      - text: Que Dios es fuego consumidor
+        correct: false
+
+  - question: Si decimos que tenemos comunión con él y andamos en las tinieblas, ¿cuál es el veredicto?
+    answers:
+      - text: Mentimos y no practicamos la verdad
+        correct: true
+      - text: Quedamos fuera de la comunión
+        correct: false
+      - text: Necesitamos nacer otra vez
+        correct: false
+      - text: Nada cambia
+        correct: false
+
+  - question: En 1:6, la frase “andamos en las tinieblas” forma parte de…
+    answers:
+      - text: El caso, junto con lo que decimos
+        correct: true
+      - text: El veredicto
+        correct: false
+      - text: El propósito
+        correct: false
+      - text: La promesa
+        correct: false
+
+  - question: Según 1:7, ¿cuál es la medida del andar en la luz?
+    answers:
+      - text: Como él está en la luz
+        correct: true
+      - text: Como andaban los profetas
+        correct: false
+      - text: Como enseña la ley de Moisés
+        correct: false
+      - text: Como acuerdan los ancianos
+        correct: false
+
+  - question: Cuando confesamos nuestros pecados, ¿en qué se apoya el perdón?
+    answers:
+      - text: En que él es fiel y justo
+        correct: true
+      - text: En cuántas veces confesamos
+        correct: false
+      - text: En nuestras buenas obras
+        correct: false
+      - text: En el consejo de los hermanos
+        correct: false
