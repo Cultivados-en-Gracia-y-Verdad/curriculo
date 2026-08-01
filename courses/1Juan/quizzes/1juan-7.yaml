@@ -1,0 +1,115 @@
+id: 1juan-7
+
+title: 1 Juan 4
+
+questions:
+
+  - question: ¿Qué deben hacer con los espíritus, según 4:1?
+    answers:
+      - text: Probarlos para ver si son de Dios
+        correct: true
+      - text: Creerles a todos
+        correct: false
+      - text: Callarlos en la reunión
+        correct: false
+      - text: Entregarlos a los ancianos
+        correct: false
+
+  - question: ¿Cuál es el criterio que Juan da en 4:2?
+    answers:
+      - text: Todo espíritu que confiesa que Jesús Cristo ha venido en carne es de Dios
+        correct: true
+      - text: Todo espíritu que hace señales es de Dios
+        correct: false
+      - text: Todo espíritu que cita la ley es de Dios
+        correct: false
+      - text: Todo espíritu que habla con mansedumbre es de Dios
+        correct: false
+
+  - question: En 4:1–3, la prueba se dirige a…
+    answers:
+      - text: Lo que un espíritu confiesa
+        correct: true
+      - text: Lo que alguien guarda
+        correct: false
+      - text: Lo que alguien practica
+        correct: false
+      - text: Lo que alguien ama
+        correct: false
+
+  - question: ¿Por qué los han vencido, según 4:4?
+    answers:
+      - text: Porque mayor es el que está en ustedes que el que está en el mundo
+        correct: true
+      - text: Porque son muchos
+        correct: false
+      - text: Porque guardaron la ley
+        correct: false
+      - text: Porque oraron sin cesar
+        correct: false
+
+  - question: ¿Quién escucha a los que son del mundo?
+    answers:
+      - text: El mundo
+        correct: true
+      - text: Los hermanos
+        correct: false
+      - text: Los que conocen a Dios
+        correct: false
+      - text: Nadie
+        correct: false
+
+  - question: ¿En qué consiste el amor, según 4:10?
+    answers:
+      - text: No en que nosotros hayamos amado a Dios, sino en que él nos amó
+        correct: true
+      - text: En que nosotros amamos primero
+        correct: false
+      - text: En que guardamos sus mandamientos
+        correct: false
+      - text: En que amamos a los hermanos
+        correct: false
+
+  - question: ¿Quién ha visto a Dios, según 4:12?
+    answers:
+      - text: Nadie lo ha visto jamás
+        correct: true
+      - text: Los apóstoles
+        correct: false
+      - text: Los que permanecen en el amor
+        correct: false
+      - text: Los profetas antiguos
+        correct: false
+
+  - question: ¿Qué echa fuera el temor?
+    answers:
+      - text: El amor perfecto
+        correct: true
+      - text: La fe
+        correct: false
+      - text: El conocimiento
+        correct: false
+      - text: La obediencia
+        correct: false
+
+  - question: ¿Por qué amamos nosotros?
+    answers:
+      - text: Porque él nos amó primero
+        correct: true
+      - text: Porque es el mandamiento
+        correct: false
+      - text: Porque el mundo nos odia
+        correct: false
+      - text: Porque tenemos su Espíritu
+        correct: false
+
+  - question: Si alguien dice “Amo a Dios” y odia a su hermano, ¿qué es lo que Juan llama mentira?
+    answers:
+      - text: Lo que dijo
+        correct: true
+      - text: El odio
+        correct: false
+      - text: Su hermano
+        correct: false
+      - text: Su confesión de Jesús
+        correct: false

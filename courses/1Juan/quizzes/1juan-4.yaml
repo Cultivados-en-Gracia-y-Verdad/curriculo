@@ -1,0 +1,115 @@
+id: 1juan-4
+
+title: 1 Juan 2:18–27
+
+questions:
+
+  - question: ¿Qué hora es, según 2:18?
+    answers:
+      - text: La última hora
+        correct: true
+      - text: La hora del juicio
+        correct: false
+      - text: La hora de la oración
+        correct: false
+      - text: La tercera hora
+        correct: false
+
+  - question: ¿Por qué saben que es la última hora?
+    answers:
+      - text: Porque han surgido muchos anticristos
+        correct: true
+      - text: Porque el templo fue destruido
+        correct: false
+      - text: Porque cesaron las señales
+        correct: false
+      - text: Porque los apóstoles murieron
+        correct: false
+
+  - question: ¿Qué dice Juan de los que salieron?
+    answers:
+      - text: Salieron de nosotros, pero no eran de nosotros
+        correct: true
+      - text: Nunca estuvieron entre nosotros
+        correct: false
+      - text: Volverán a nosotros
+        correct: false
+      - text: Fueron enviados por nosotros
+        correct: false
+
+  - question: En contraste con los que salieron, ¿qué tienen ustedes?
+    answers:
+      - text: La unción del Santo
+        correct: true
+      - text: La ley y los profetas
+        correct: false
+      - text: Cartas de recomendación
+        correct: false
+      - text: El testimonio de los hombres
+        correct: false
+
+  - question: Según 2:21, ¿por qué les ha escrito?
+    answers:
+      - text: Porque conocen la verdad
+        correct: true
+      - text: Porque ignoran la verdad
+        correct: false
+      - text: Porque dudan de la verdad
+        correct: false
+      - text: Porque olvidaron la verdad
+        correct: false
+
+  - question: ¿Quién es el mentiroso, según 2:22?
+    answers:
+      - text: El que niega que Jesús es el Cristo
+        correct: true
+      - text: El que peca sin saberlo
+        correct: false
+      - text: El que abandona la reunión
+        correct: false
+      - text: El que enseña sin autoridad
+        correct: false
+
+  - question: ¿Quién tiene también al Padre?
+    answers:
+      - text: El que confiesa al Hijo
+        correct: true
+      - text: El que guarda la ley
+        correct: false
+      - text: El que recibió la unción de un hombre
+        correct: false
+      - text: El que niega al Hijo
+        correct: false
+
+  - question: ¿Cuál es la promesa que él mismo nos hizo?
+    answers:
+      - text: La vida eterna
+        correct: true
+      - text: La tierra prometida
+        correct: false
+      - text: El don de profecía
+        correct: false
+      - text: La paz con las naciones
+        correct: false
+
+  - question: ¿Qué hace la unción que recibieron de él?
+    answers:
+      - text: Permanece en ustedes y les enseña acerca de todas las cosas
+        correct: true
+      - text: Los reemplaza en la reunión
+        correct: false
+      - text: Se recibe de nuevo cada año
+        correct: false
+      - text: Los envía a otras ciudades
+        correct: false
+
+  - question: Acerca de la unción, ¿qué es lo único que Juan NO dice?
+    answers:
+      - text: Qué es
+        correct: true
+      - text: Que permanece en ustedes
+        correct: false
+      - text: Que les enseña
+        correct: false
+      - text: Que es verdadera y no es mentira
+        correct: false

@@ -1,0 +1,115 @@
+id: 1juan-8
+
+title: 1 Juan 5
+
+questions:
+
+  - question: ¿Quién ha nacido de Dios, según 5:1?
+    answers:
+      - text: Todo el que cree que Jesús es el Cristo
+        correct: true
+      - text: Todo el que guarda la ley
+        correct: false
+      - text: Todo el que ha sido bautizado
+        correct: false
+      - text: Todo el que vence al mundo
+        correct: false
+
+  - question: ¿Cómo son sus mandamientos, según 5:3?
+    answers:
+      - text: No son gravosos
+        correct: true
+      - text: Son difíciles de guardar
+        correct: false
+      - text: Son nuevos cada día
+        correct: false
+      - text: Son solo para los fuertes
+        correct: false
+
+  - question: ¿Cuál es la victoria que ha vencido al mundo?
+    answers:
+      - text: Nuestra fe
+        correct: true
+      - text: Nuestro amor
+        correct: false
+      - text: La unción
+        correct: false
+      - text: El testimonio de Dios
+        correct: false
+
+  - question: ¿Mediante qué vino Jesús Cristo, según 5:6?
+    answers:
+      - text: Mediante el agua y la sangre
+        correct: true
+      - text: Mediante el agua solamente
+        correct: false
+      - text: Mediante el Espíritu solamente
+        correct: false
+      - text: Mediante la ley y los profetas
+        correct: false
+
+  - question: ¿Quiénes son los tres que dan testimonio, según 5:8?
+    answers:
+      - text: El Espíritu, el agua y la sangre
+        correct: true
+      - text: El Padre, el Hijo y el Espíritu
+        correct: false
+      - text: Los apóstoles, los profetas y los ancianos
+        correct: false
+      - text: La ley, la palabra y la unción
+        correct: false
+
+  - question: ¿Dónde está la vida eterna que Dios nos dio?
+    answers:
+      - text: En su Hijo
+        correct: true
+      - text: En la ley
+        correct: false
+      - text: En el testimonio de los hombres
+        correct: false
+      - text: En nuestras obras
+        correct: false
+
+  - question: ¿Para qué les ha escrito, según 5:13?
+    answers:
+      - text: Para que sepan que tienen vida eterna
+        correct: true
+      - text: Para que reciban la vida eterna
+        correct: false
+      - text: Para que teman perderla
+        correct: false
+      - text: Para que la anuncien al mundo
+        correct: false
+
+  - question: ¿Qué ocurre si pedimos algo conforme a su voluntad?
+    answers:
+      - text: Él nos escucha
+        correct: true
+      - text: Debemos pedir otra vez
+        correct: false
+      - text: Recibimos solo lo necesario
+        correct: false
+      - text: Esperamos su tiempo en silencio
+        correct: false
+
+  - question: Acerca del pecado que lleva a muerte, ¿qué hace Juan?
+    answers:
+      - text: Afirma que existe, sin decir cuál es
+        correct: true
+      - text: Dice cuál es y cómo evitarlo
+        correct: false
+      - text: Manda no orar por nadie
+        correct: false
+      - text: Lo identifica con la idolatría
+        correct: false
+
+  - question: ¿Con qué termina la carta?
+    answers:
+      - text: Con un mandato, “guárdense de los ídolos”
+        correct: true
+      - text: Con una bendición final
+        correct: false
+      - text: Con saludos a los hermanos
+        correct: false
+      - text: Con una oración por los lectores
+        correct: false

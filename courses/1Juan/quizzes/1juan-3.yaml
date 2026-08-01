@@ -1,0 +1,115 @@
+id: 1juan-3
+
+title: 1 Juan 2:12–17
+
+questions:
+
+  - question: ¿Por qué les escribe a los hijitos?
+    answers:
+      - text: Porque sus pecados les han sido perdonados por causa de su nombre
+        correct: true
+      - text: Porque han vencido al maligno
+        correct: false
+      - text: Porque son fuertes
+        correct: false
+      - text: Porque han conocido al Padre
+        correct: false
+
+  - question: ¿Por qué les escribe a los padres?
+    answers:
+      - text: Porque han conocido al que es desde el principio
+        correct: true
+      - text: Porque enseñan a los jóvenes
+        correct: false
+      - text: Porque guardan la palabra
+        correct: false
+      - text: Porque han sido perdonados
+        correct: false
+
+  - question: ¿Por qué les escribe a los jóvenes?
+    answers:
+      - text: Porque han vencido al maligno
+        correct: true
+      - text: Porque conocen la ley
+        correct: false
+      - text: Porque han visto al Señor
+        correct: false
+      - text: Porque no han pecado
+        correct: false
+
+  - question: ¿Por qué les escribe a los niñitos?
+    answers:
+      - text: Porque han conocido al Padre
+        correct: true
+      - text: Porque son pequeños
+        correct: false
+      - text: Porque necesitan enseñanza
+        correct: false
+      - text: Porque han sido bautizados
+        correct: false
+
+  - question: En la segunda ronda, ¿qué añade acerca de los jóvenes?
+    answers:
+      - text: Que son fuertes y la palabra de Dios permanece en ellos
+        correct: true
+      - text: Que han sido perdonados
+        correct: false
+      - text: Que conocen al Padre
+        correct: false
+      - text: Que recibieron la unción
+        correct: false
+
+  - question: ¿Qué cambia entre la primera y la segunda ronda?
+    answers:
+      - text: “Les escribo” pasa a “Les he escrito”
+        correct: true
+      - text: Cambian los grupos nombrados
+        correct: false
+      - text: Desaparecen las razones
+        correct: false
+      - text: El autor pasa al plural
+        correct: false
+
+  - question: ¿Cuál es el mandato de 2:15?
+    answers:
+      - text: No amen al mundo ni las cosas que están en el mundo
+        correct: true
+      - text: No hablen con los del mundo
+        correct: false
+      - text: Salgan de las ciudades
+        correct: false
+      - text: No trabajen por dinero
+        correct: false
+
+  - question: Si alguien ama al mundo, ¿qué se dice de él?
+    answers:
+      - text: El amor del Padre no está en él
+        correct: true
+      - text: El Padre le quita su amor
+        correct: false
+      - text: Perderá la vida eterna
+        correct: false
+      - text: Será entregado al maligno
+        correct: false
+
+  - question: ¿Cuáles son las tres cosas que hay en el mundo?
+    answers:
+      - text: El deseo de la carne, el deseo de los ojos y la arrogancia de la vida
+        correct: true
+      - text: El dinero, el poder y la fama
+        correct: false
+      - text: La idolatría, la mentira y el odio
+        correct: false
+      - text: El temor, la duda y la muerte
+        correct: false
+
+  - question: ¿Quién permanece para siempre?
+    answers:
+      - text: El que hace la voluntad de Dios
+        correct: true
+      - text: El que aborrece el mundo
+        correct: false
+      - text: El que guarda silencio
+        correct: false
+      - text: El que enseña a otros
+        correct: false
