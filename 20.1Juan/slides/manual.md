@@ -400,6 +400,30 @@ Después del anuncio y la escritura, la mirada pasa a *el mensaje*.
 
 > **Lo que NO está diciendo:** Confiesa para ser perdonado. Tampoco: confesar hace que Dios llegue a ser <u>fiel</u> y justo. Juan presenta características del caso y resultado.
 
+<!-- @clean -->
+```mermaid
+flowchart TD
+    A["1 Juan 1:5–10<br/>Cinco casos de estudio sobre la comunión"] --> B["Mensaje: Dios es luz"]
+    B --> C{"¿Cómo se ve la comunión<br/>con Él?"}
+
+    C --> D["1:6<br/>Si decimos que tenemos comunión con Él<br/>y andamos en tinieblas"]
+    D --> D1["Comunión falsa<br/>Mentimos<br/>y no practicamos la verdad"]
+
+    C --> E["1:7<br/>Si andamos en la luz<br/>como Él está en la luz"]
+    E --> E1["Comunión auténtica<br/>Tenemos comunión unos con otros<br/>y la sangre de Jesús, su Hijo,<br/>nos limpia de todo pecado"]
+
+    E1 --> F{"Cuando el pecado queda expuesto,<br/>¿cómo respondemos?"}
+
+    F --> G["1:8<br/>Si decimos que no tenemos pecado"]
+    G --> G1["Respuesta falsa<br/>Nos engañamos a nosotros mismos<br/>y la verdad no está en nosotros"]
+
+    F --> H["1:9<br/>Si confesamos nuestros pecados"]
+    H --> H1["Respuesta auténtica<br/>Él es fiel y justo<br/>para perdonar nuestros pecados<br/>y limpiarnos de toda injusticia"]
+
+    F --> I["1:10<br/>Si decimos que no hemos pecado"]
+    I --> I1["Respuesta falsa<br/>Lo hacemos mentiroso<br/>y su palabra no está en nosotros"]
+```
+
 ### 1 Juan 1:10:7 — Si decimos que no hemos pecado
 
 > Después de *si confesamos*, Juan retoma la fórmula <u>si decimos</u>.
