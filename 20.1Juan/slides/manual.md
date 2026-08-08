@@ -364,7 +364,7 @@ Después del anuncio y la escritura, la mirada pasa a *el mensaje*.
   * *verdad* → *está* → *nosotros*
   > La verdad es el sujeto; *nosotros*, el punto de llegada. Aunque <u>no</u> quedó en la unidad anterior, todavía niega esta frase.
 
-> **Características del caso**<br>↓<br>*Si decimos que no tenemos pecado*<br>↓<br>**Resultado**<br>↓<br>*nos engañamos… y la verdad no está en nosotros*
+> **Características del caso**↓*Si decimos que no tenemos pecado*↓**Resultado**↓*nos engañamos… y la verdad no está en nosotros*
 
 > Juan presenta <u>características del caso</u> y resultado. Lo que *decimos* pertenece al caso; lo que sigue es el resultado.
 
@@ -394,7 +394,7 @@ Después del anuncio y la escritura, la mirada pasa a *el mensaje*.
   * *(él)* → *limpiarnos*
   > El mismo *para* une *perdonarnos* y <u>limpiarnos</u>; Juan mantiene juntas las dos acciones.
 
-> **Características del caso**<br>↓<br>*Si confesamos nuestros pecados*<br>↓<br>**Resultado**<br>↓<br>*él es fiel y justo para perdonarnos los pecados y limpiarnos de toda injusticia*
+> **Características del caso**↓*Si confesamos nuestros pecados*↓**Resultado**↓*él es fiel y justo para perdonarnos los pecados y limpiarnos de toda injusticia*
 
 > Como en 1:8: lo que *confesamos* pertenece al caso; lo que sigue es el <u>resultado</u>.
 
