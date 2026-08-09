@@ -2173,7 +2173,7 @@ El *mas* que salva la cepa deja abierta la posibilidad de que algo vuelva a crec
 #### *respondió, y dijo: Beltsasar, el sueño ni su interpretación no te espante. Respondió Beltsasar, y dijo: Señor mío, el sueño sea para tus enemigos, y su interpretación para los que mal te quieren*
 
 * *Beltsasar* → *respondió*
-> *Señor mío, el sueño sea para tus <u>enemigos</u>*. Daniel desea que la sentencia fuera para otro. Llama al rey *señor mío* — al mismo hombre que deportó a su pueblo. La actores.md lo registra así: Daniel se duele por el rey que lo deportó. No hay rencor en la respuesta — hay lamento.
+> *Señor mío, el sueño sea para tus <u>enemigos</u>*. Daniel desea que la sentencia fuera para otro. Llama al rey *señor mío* — al mismo hombre que deportó a su pueblo. Daniel se duele por el rey que lo deportó: no hay rencor en la respuesta — hay lamento.
 
 + *Beltsasar*
 + *Beltsasar*
@@ -2297,7 +2297,7 @@ El *mas* que salva la cepa deja abierta la posibilidad de que algo vuelva a crec
 #### *lo dará*
 
 * *el Altísimo* → *dará*
-> *Lo <u>dará</u>* — el Altísimo da el reino a quien quiere. Esta línea es el telos del libro entero, repetida aquí como sentencia personal al rey: lo que tienes te fue dado, y puede ser dado a otro.
+> *Lo <u>dará</u>* — el Altísimo da el reino a quien quiere. Esta línea es la meta del libro entero, repetida aquí como sentencia personal al rey: lo que tienes te fue dado, y puede ser dado a otro.
 
   - *bañado; y siete tiempos pasarán sobre ti, hasta que entiendas que el Altísimo se enseñorea en el reino de los hombres*
 
@@ -2546,7 +2546,7 @@ En la misma hora se cumple todo lo que el vigilante dijo, punto por punto. El qu
 
 #### *Ahora yo Nabucodonosor alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdad, y sus caminos juicio; y humillar puede a los que andan con soberbia*
 
-* Cláusula nominal: en hereo esta cláusula no tiene verbo; el español lo suple para poder leerse.
+* Cláusula nominal: en hebreo esta cláusula no tiene verbo; el español lo suple para poder leerse.
 
 * *yo* → *Ahora*
 > *Ahora <u>yo</u> Nabucodonosor*. Tres veces en el capítulo el rey dice *yo Nabucodonosor*: estaba quieto (4:4), alcé mis ojos (4:34), y ahora alabo. El mismo *yo* que construyó Babel ahora alaba al Rey del cielo. Y la última línea del arco es la que lo cierra: *humillar puede a los que andan con soberbia*. Nabucodonosor nombra su propio pecado — soberbia — y reconoce que Dios puede humillarlo. No dice que Dios lo humilló a otro. Se incluye. Es la única confesión completa del libro.
@@ -4503,7 +4503,7 @@ Pero el cuerno grande es quebrado en el momento de mayor fuerza. El poder máxim
 
 - *y las holló*
 
-### Daniel 8:11:4 — El cuerno de Grecia se engrandez contra el príncipe del ejército
+### Daniel 8:11:4 — El cuerno de Grecia se engrandece contra el príncipe del ejército
 
 * Actores principales: *Aun* (1)
 
@@ -6870,7 +6870,7 @@ Daniel oye, pero no entiende. Se le dice que se vaya — las palabras no son par
 
 # APÉNDICES
 
-Daniel es bilingüe. Los capítulos 1, 8–12 están en **hebreo**; los capítulos 2–7 están en **arameo**. Ambas son lenguas semíticas que se leen de derecha a izquierda. En este manual las formas originales aparecen entre paréntesis junto a su traducción española — por ejemplo, *dijo* (וַ/יֹּ֣אמֶר). La barra `/` separa los morfemas: **וַ** / **וּ** = *y*; **לְ** = *para, a*; **בְּ** = *en*; **מִ** = *de, desde*; **הַ** = *el, la*. Los signos debajo y encima de las letras son vocales y acentos de cantilación. Sufijos pronominales al final: **/ם** = *los, ellos*; **/י** = *mi, yo*.
+Daniel es bilingüe. Los capítulos 1, 8–12 están en **hebreo**; los capítulos 2–7 están en **arameo**. Ambas son lenguas semíticas que se leen de derecha a izquierda. En este manual las formas originales aparecen entre paréntesis junto a su traducción española — por ejemplo, *dijo* (וַ/יֹּ֣אמֶר). La barra `/` separa los morfemas: **וַ** / **וּ** = *y*; **לְ** = *para, a*; **בְּ** = *en*; **מִ** = *de, desde*; **הַ** = *el, la*. Los signos debajo y encima de las letras son vocales y acentos de cantilación — los acentos que guían cómo se canta o entona la lectura del texto sagrado. Sufijos pronominales al final: **/ם** = *los, ellos*; **/י** = *mi, yo*.
 
 ## Apéndice A — Conectores
 
