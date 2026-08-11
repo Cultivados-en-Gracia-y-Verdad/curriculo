@@ -2699,6 +2699,21 @@ El patrón del libro se repite: el rey clama por sabios y no pueden. Pero esta v
 
 * *la reina* → *dijo*
 
+### Daniel 5:10:12 — La reina continúa
+
+#### *dijo*
+> El texto repite el verbo porque la reina no dice una sola cosa — dice varias, y cada una sube la <u>urgencia</u>.
+
+### Daniel 5:10:15 — La reina recuerda al rey
+
+#### *dijo*
+> Sigue hablando. Lo que la reina <u>recuerda</u> es lo que la corte entera olvidó: que hay alguien capaz.
+
+### Daniel 5:10:17 — La reina recomienda
+
+#### *dijo*
+> La última parte de lo que dice es la que más pesa: lo <u>nombra</u>. No dice *uno de los deportados* — dice Daniel, por nombre.
+
 ### Daniel 5:10:21 — La reina: Rey, no te asombres
 
 #### *dijo: Rey, para siempre vive, no te asombren tus pensamientos, ni tus colores se demuden*
@@ -4162,7 +4177,7 @@ La guerra tiene un límite: *hasta tanto que* vino el Anciano de días. El juici
 
 ### Daniel 7:23:13 — Devorará a toda la tierra
 
-#### *y a toda la tierra devorará*
+#### *devorará*
 > <u>Devorará</u> toda la tierra. Un solo verbo como cláusula independiente: la violencia del cuarto reino no necesita más explicación.
 
 ### Daniel 7:23:15 — La hollará y la desmenuzará
@@ -4171,6 +4186,8 @@ La guerra tiene un límite: *hasta tanto que* vino el Anciano de días. El juici
 > <u>Hollará</u> y despedazará. Los tres verbos juntos — devorar, hollar, despedazar — describen una destrucción que no deja nada en pie.
 
 - *y la despedazará*
+
+- *despedazará*
 
 ### Daniel 7:24:7 — Los diez reyes y el undécimo: el cuerno del cuarto imperio
 

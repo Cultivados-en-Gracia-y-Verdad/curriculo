@@ -1,14 +1,8 @@
 ---
-author: CGV 
-book: Daniel 
-cover: images/portada.png 
-date: 2026-08-10 
-subtitle: Una piedra cortada no con manos, y un reino que los santos poseerán 
-title: El reino de los hombres, dado y quitado 
-version: 2.0
+author: CGV book: Daniel cover: images/portada.png date: 2026-08-10 subtitle: Una piedra cortada no con manos, y un reino que los santos poseerán title: El reino de los hombres, dado y quitado version: 1.9-scripture-only-expansion
 ---
 
-# Introducción
+## Introducción
 
 Daniel comienza con Jerusalén sitiada, Joacim entregado y parte de los utensilios de la casa de Dios llevados a la tierra de Sinar. El libro sigue a Daniel y a sus compañeros mientras sirven bajo reyes extranjeros, enfrentan decretos, sueños, visiones, amenazas y cambios de reino.
 
@@ -872,12 +866,6 @@ El rey Nabucodonosor cae sobre su rostro, se postra ante Daniel y manda ofrecerl
 
 **Desarrollo de la tensión:** El punto de partida es este: El rey Nabucodonosor cae sobre su rostro, se postra ante Daniel y manda ofrecerle ofrenda e incienso. En el desarrollo, el rey engrandece a Daniel, le da muchos dones, lo pone por gobernador de toda la provincia de Babel y príncipe sobre todos los sabios de Babel. La unidad termina con este resultado o nueva situación: # Daniel 3:1--4:37 --- De la imagen de oro a la confesión del rey La tensión debe seguirse como una secuencia de problema, respuesta y consecuencia, sin imponer una resolución que el propio pasaje no dé. **Referencias cruzadas: Daniel 3:28-30; Daniel 6:25-28; Génesis 41:39-44.**
 
-### Desarrollo mayor
-
-Este tramo comienza con nabucodonosor llega a Jerusalén y la sitia. y llega hasta daniel 3:1--4:37 --- De la imagen de oro a la confesión del rey En las unidades reaparecen «rey», «reino», «Dios», «Daniel», «sueño»; siga cómo esos términos cambian de actor, objeto o situación a medida que avanza el texto. El propósito de este desarrollo es reunir las observaciones de las unidades sin añadir información externa al texto bíblico.
-
-# Daniel 3:1--4:37 --- De la imagen de oro a la confesión del rey
-
 ## Daniel 3:1--7 --- La imagen de oro y el decreto que todos obedecen
 
 ### 3:1 --- *El rey Nabucodonosor <u>hizo</u> una imagen de oro, la altura de la cual era de sesenta codos, su anchura de seis codos:*
@@ -1710,12 +1698,6 @@ Al cabo del tiempo, Nabucodonosor alza los ojos al cielo, su sentido le vuelve, 
 
 **Desarrollo de la tensión:** El punto de partida es este: Al cabo del tiempo, Nabucodonosor alza los ojos al cielo, su sentido le vuelve, y bendice al Altísimo, alaba y glorifica al que vive para siempre, cuyo señorío es sempiterno y cuyo reino es por todas las edades --- a quien nadie puede estorbar ni preguntarle qué hace. En el desarrollo, alaba, engrandece y glorifica al Rey del cielo, cuyas obras son verdad y cuyos caminos son juicio. La unidad termina con este resultado o nueva situación: # Daniel 5:1--6:28 --- Dos coronas nuevas y la misma mano que pesa y libra La tensión debe seguirse como una secuencia de problema, respuesta y consecuencia, sin imponer una resolución que el propio pasaje no dé. **Referencias cruzadas: Daniel 2:21; Daniel 5:18-21; Salmos 115:3; Salmos 135:6.**
 
-### Desarrollo mayor
-
-Este tramo comienza con nabucodonosor hace una imagen de oro de sesenta codos de altura y seis de anchura, y la levanta en el llano de Dura. y llega hasta daniel 5:1--6:28 --- Dos coronas nuevas y la misma mano que pesa y libra En las unidades reaparecen «rey», «reino», «Dios», «Daniel», «sueño»; siga cómo esos términos cambian de actor, objeto o situación a medida que avanza el texto. El propósito de este desarrollo es reunir las observaciones de las unidades sin añadir información externa al texto bíblico.
-
-# Daniel 5:1--6:28 --- Dos coronas nuevas y la misma mano que pesa y libra
-
 ## Daniel 5:1--4 --- Belsasar bebe en los vasos de la casa de Dios
 
 ### 5:1 --- *El rey Belsasar <u>hizo</u> un gran banquete a mil de sus príncipes, y en presencia de los mil <u>bebía</u> vino.*
@@ -2493,12 +2475,6 @@ El rey Darío escribe a todos los pueblos, naciones y lenguas mandando que todos
 **Desarrollo de actores:** La unidad permite seguir la iniciativa de Dios, Daniel, Darío, Ciro, el rey. Conviene observar en cada cambio de sujeto quién inicia la acción, quién responde y quién pasa a recibirla. Ese desplazamiento de agencia ayuda a distinguir las acciones principales de las respuestas y consecuencias que dependen de ellas.
 
 **Desarrollo de la tensión:** El punto de partida es este: El rey Darío escribe a todos los pueblos, naciones y lenguas mandando que todos teman y tiemblen delante del Dios de Daniel, el Dios viviente y permanente, cuyo reino no será deshecho y cuyo señorío no tendrá fin, que salva y libra y hace señales y maravillas, y que libró a Daniel del poder de los leones. En el desarrollo, daniel prospera durante el reino de Darío y durante el reino de Ciro persa. La unidad termina con este resultado o nueva situación: # Daniel 7:1--9:27 --- El reino dado a los santos y el plazo que se cuenta La tensión debe seguirse como una secuencia de problema, respuesta y consecuencia, sin imponer una resolución que el propio pasaje no dé. **Referencias cruzadas: Daniel 3:28-30; Daniel 4:1-3; Salmos 66:16.**
-
-### Desarrollo mayor
-
-Este tramo comienza con el rey Belsasar hace un gran banquete para mil de sus príncipes y bebe vino delante de ellos. y llega hasta daniel 7:1--9:27 --- El reino dado a los santos y el plazo que se cuenta En las unidades reaparecen «rey», «reino», «Dios», «Daniel», «sueño»; siga cómo esos términos cambian de actor, objeto o situación a medida que avanza el texto. El propósito de este desarrollo es reunir las observaciones de las unidades sin añadir información externa al texto bíblico.
-
-# Daniel 7:1--9:27 --- El reino dado a los santos y el plazo que se cuenta
 
 ## Daniel 7:1--8 --- Las cuatro bestias que suben de la gran mar
 
@@ -3636,12 +3612,6 @@ Setenta semanas están determinadas sobre el pueblo y la santa ciudad, para acab
 
 **Desarrollo de la tensión:** El punto de partida es este: Setenta semanas están determinadas sobre el pueblo y la santa ciudad, para acabar la prevaricación, concluir el pecado, expiar la iniquidad, traer la justicia de los siglos, sellar la visión y la profecía, y ungir al Santo de los santos. En el desarrollo, después de las sesenta y dos semanas se quitará la vida al Mesías y se quedará sin nada; el pueblo de un príncipe que ha de venir destruirá la ciudad y el santuario, y el fin vendrá con inundación, con guerra y asolamientos hasta el fin. La unidad termina con este resultado o nueva situación: # Daniel 10:1--12:13 --- El conflicto detrás de los reinos y el fin sellado La tensión debe seguirse como una secuencia de problema, respuesta y consecuencia, sin imponer una resolución que el propio pasaje no dé. **Referencias cruzadas: Daniel 7:13-14; Daniel 8:23-25; Daniel 12:11; Mateo 24:15.**
 
-### Desarrollo mayor
-
-Este tramo comienza con en el primer año de Belsasar, Daniel ve un sueño y visiones de su cabeza, y lo escribe. y llega hasta daniel 10:1--12:13 --- El conflicto detrás de los reinos y el fin sellado En las unidades reaparecen «rey», «reino», «Dios», «Daniel», «sueño»; siga cómo esos términos cambian de actor, objeto o situación a medida que avanza el texto. El propósito de este desarrollo es reunir las observaciones de las unidades sin añadir información externa al texto bíblico.
-
-# Daniel 10:1--12:13 --- El conflicto detrás de los reinos y el fin sellado
-
 ## Daniel 10:1--9 --- El varón vestido de lienzos aparece junto al gran río
 
 ### 10:1 --- *En el tercer año de Ciro rey de Persia,*
@@ -4718,4 +4688,4 @@ Daniel ve a otros dos, uno a cada lado del río, y uno de ellos pregunta al var�
 
 ### Desarrollo mayor
 
-Este tramo comienza con en el año tercero de Ciro rey de Persia, es revelada una palabra a Daniel, llamado Beltsasar; la palabra es verdadera y el conflicto es grande, y Daniel comprende la palabra y la visión. y llega hasta se le dice a Daniel que irá al fin, reposará, y se levantará en su suerte al fin de los días. En las unidades reaparecen «rey», «reino», «Dios», «Daniel», «visión»; siga cómo esos términos cambian de actor, objeto o situación a medida que avanza el texto. El propósito de este desarrollo es reunir las observaciones de las unidades sin añadir información externa al texto bíblico.
+Este tramo comienza con nabucodonosor llega a Jerusalén y la sitia. y termina con se le dice a Daniel que irá al fin, reposará, y se levantará en su suerte al fin de los días. A lo largo de las unidades vuelven «reino», «dios», «daniel», «sabiduría», «misterio». Observe cómo los cambios de actor, los decretos, las respuestas, las revelaciones y sus resultados acumulan el movimiento del tramo. Este desarrollo mayor resume únicamente relaciones visibles dentro del texto de Daniel y prepara la transición al tramo siguiente.
