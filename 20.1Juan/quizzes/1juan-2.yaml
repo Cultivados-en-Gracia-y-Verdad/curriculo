@@ -1,0 +1,115 @@
+id: 1juan-2
+
+title: 1 Juan 2:1–11
+
+questions:
+
+  - question: ¿Con qué propósito les escribe a sus hijitos en 2:1?
+    answers:
+      - text: Para que no pequen
+        correct: true
+      - text: Para que se reúnan cada día
+        correct: false
+      - text: Para que guarden la ley
+        correct: false
+      - text: Para que elijan un maestro
+        correct: false
+
+  - question: Y si alguien peca, ¿qué tenemos ante el Padre?
+    answers:
+      - text: Un abogado, Jesús Cristo, el Justo
+        correct: true
+      - text: Un sacrificio que debemos repetir
+        correct: false
+      - text: Un sacerdote entre los ancianos
+        correct: false
+      - text: Un plazo para arrepentirnos
+        correct: false
+
+  - question: ¿Hasta dónde alcanza la propiciación, según 2:2?
+    answers:
+      - text: También por los pecados de todo el mundo
+        correct: true
+      - text: Solo por los pecados de los apóstoles
+        correct: false
+      - text: Solo por los pecados de Israel
+        correct: false
+      - text: Solo por los pecados cometidos por ignorancia
+        correct: false
+
+  - question: ¿En qué sabemos que lo hemos conocido?
+    answers:
+      - text: Si guardamos sus mandamientos
+        correct: true
+      - text: Si hablamos en su nombre
+        correct: false
+      - text: Si ayunamos con frecuencia
+        correct: false
+      - text: Si vemos señales
+        correct: false
+
+  - question: ¿Qué dice Juan del que dice “Lo he conocido” y no guarda sus mandamientos?
+    answers:
+      - text: Es mentiroso, y la verdad no está en él
+        correct: true
+      - text: Es débil pero sincero
+        correct: false
+      - text: Todavía no ha aprendido
+        correct: false
+      - text: Será juzgado más tarde
+        correct: false
+
+  - question: ¿Qué se dice del que guarda su palabra?
+    answers:
+      - text: En él el amor de Dios ha sido perfeccionado
+        correct: true
+      - text: Que es veraz
+        correct: false
+      - text: Que no volverá a pecar
+        correct: false
+      - text: Que enseñará a otros
+        correct: false
+
+  - question: El que dice que permanece en él, ¿qué debe hacer?
+    answers:
+      - text: Andar como él anduvo
+        correct: true
+      - text: Guardar silencio
+        correct: false
+      - text: Separarse de los hermanos
+        correct: false
+      - text: Repetir su confesión
+        correct: false
+
+  - question: ¿Qué es el mandamiento antiguo, según 2:7?
+    answers:
+      - text: La palabra que oyeron
+        correct: true
+      - text: Los diez mandamientos
+        correct: false
+      - text: La circuncisión
+        correct: false
+      - text: El ayuno semanal
+        correct: false
+
+  - question: Del que dice que está en la luz y aborrece a su hermano, ¿qué dice Juan?
+    answers:
+      - text: Que todavía está en las tinieblas
+        correct: true
+      - text: Que acaba de entrar en las tinieblas
+        correct: false
+      - text: Que perdió la luz que tenía
+        correct: false
+      - text: Que está entre la luz y las tinieblas
+        correct: false
+
+  - question: La palabra “todavía” en 2:9 muestra que…
+    answers:
+      - text: Ya estaba en las tinieblas antes de esta línea
+        correct: true
+      - text: Aborrecer lo metió en las tinieblas
+        correct: false
+      - text: Saldrá pronto de las tinieblas
+        correct: false
+      - text: Nunca estuvo en las tinieblas
+        correct: false

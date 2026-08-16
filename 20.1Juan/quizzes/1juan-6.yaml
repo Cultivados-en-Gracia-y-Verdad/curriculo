@@ -1,0 +1,115 @@
+id: 1juan-6
+
+title: 1 Juan 3:11–24
+
+questions:
+
+  - question: ¿Cuál es el mensaje que oyeron desde el principio?
+    answers:
+      - text: Que nos amemos unos a otros
+        correct: true
+      - text: Que Dios es luz
+        correct: false
+      - text: Que Jesús es el Cristo
+        correct: false
+      - text: Que guardemos sus mandamientos
+        correct: false
+
+  - question: ¿Por qué Caín asesinó a su hermano?
+    answers:
+      - text: Porque sus obras eran malas y las de su hermano eran justas
+        correct: true
+      - text: Porque el mundo lo odiaba
+        correct: false
+      - text: Porque no conocía a Dios
+        correct: false
+      - text: Porque fue engañado
+        correct: false
+
+  - question: ¿De qué no deben asombrarse?
+    answers:
+      - text: De que el mundo los odie
+        correct: true
+      - text: De que haya falsos profetas
+        correct: false
+      - text: De que algunos salgan de entre ellos
+        correct: false
+      - text: De que venga el anticristo
+        correct: false
+
+  - question: ¿Cómo sabemos que hemos pasado de muerte a vida?
+    answers:
+      - text: Porque amamos a los hermanos
+        correct: true
+      - text: Porque guardamos la ley
+        correct: false
+      - text: Porque vencimos al mundo
+        correct: false
+      - text: Porque recibimos la unción
+        correct: false
+
+  - question: ¿Qué dice Juan de todo el que odia a su hermano?
+    answers:
+      - text: Es homicida
+        correct: true
+      - text: Está en peligro
+        correct: false
+      - text: No ama a Dios todavía
+        correct: false
+      - text: Necesita corrección
+        correct: false
+
+  - question: ¿En qué hemos conocido el amor?
+    answers:
+      - text: En que él puso su vida por nosotros
+        correct: true
+      - text: En que nos dio mandamientos
+        correct: false
+      - text: En que nos llamó hermanos
+        correct: false
+      - text: En que nos dio entendimiento
+        correct: false
+
+  - question: Según 3:18, ¿cómo no debemos amar?
+    answers:
+      - text: De palabra ni de lengua
+        correct: true
+      - text: Con hechos
+        correct: false
+      - text: Con verdad
+        correct: false
+      - text: Unos a otros
+        correct: false
+
+  - question: ¿Cuál es su mandamiento, según 3:23?
+    answers:
+      - text: Que creamos en el nombre de su Hijo y nos amemos unos a otros
+        correct: true
+      - text: Que guardemos el día de reposo
+        correct: false
+      - text: Que probemos los espíritus
+        correct: false
+      - text: Que nos guardemos de los ídolos
+        correct: false
+
+  - question: ¿Cómo sabemos que él permanece en nosotros?
+    answers:
+      - text: Por el Espíritu que nos dio
+        correct: true
+      - text: Por las señales que hacemos
+        correct: false
+      - text: Por el testimonio de los hombres
+        correct: false
+      - text: Por la unción de los ancianos
+        correct: false
+
+  - question: ¿Cuál es la pregunta que Juan deja sin responder en este tramo?
+    answers:
+      - text: ¿Cómo permanece el amor de Dios en él?
+        correct: true
+      - text: ¿Por qué lo asesinó?
+        correct: false
+      - text: ¿Quién es el mentiroso?
+        correct: false
+      - text: ¿Quién es el que vence al mundo?
+        correct: false

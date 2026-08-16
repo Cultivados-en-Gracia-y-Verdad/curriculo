@@ -1,0 +1,115 @@
+id: 1juan-5
+
+title: 1 Juan 2:28–3:10
+
+questions:
+
+  - question: ¿Para qué deben permanecer en él, según 2:28?
+    answers:
+      - text: Para tener confianza y no ser avergonzados cuando él se manifieste
+        correct: true
+      - text: Para recibir la vida eterna
+        correct: false
+      - text: Para vencer al mundo
+        correct: false
+      - text: Para no ser engañados
+        correct: false
+
+  - question: Si saben que él es justo, ¿qué deben saber?
+    answers:
+      - text: Que todo el que practica la justicia ha nacido de él
+        correct: true
+      - text: Que todo el que practica la justicia será juzgado
+        correct: false
+      - text: Que nadie practica la justicia
+        correct: false
+      - text: Que la justicia se aprende con el tiempo
+        correct: false
+
+  - question: En 2:29, ¿qué relación establece Juan entre practicar la justicia y el nacimiento?
+    answers:
+      - text: La práctica es por donde se reconoce un nacimiento que ya ocurrió
+        correct: true
+      - text: La práctica produce el nacimiento
+        correct: false
+      - text: El nacimiento depende de cuánto se practique
+        correct: false
+      - text: La práctica reemplaza al nacimiento
+        correct: false
+
+  - question: ¿Qué clase de amor nos ha dado el Padre?
+    answers:
+      - text: Que seamos llamados hijos de Dios
+        correct: true
+      - text: Que veamos su gloria
+        correct: false
+      - text: Que hablemos con autoridad
+        correct: false
+      - text: Que juzguemos al mundo
+        correct: false
+
+  - question: ¿Por qué el mundo no nos conoce?
+    answers:
+      - text: Porque no lo conoció a él
+        correct: true
+      - text: Porque nos escondemos
+        correct: false
+      - text: Porque hablamos otra lengua
+        correct: false
+      - text: Porque somos pocos
+        correct: false
+
+  - question: ¿Qué es lo que todavía no se ha manifestado?
+    answers:
+      - text: Lo que seremos
+        correct: true
+      - text: El amor del Padre
+        correct: false
+      - text: El anticristo
+        correct: false
+      - text: La vida eterna
+        correct: false
+
+  - question: Según 3:4, ¿qué es el pecado?
+    answers:
+      - text: La iniquidad
+        correct: true
+      - text: La ignorancia
+        correct: false
+      - text: La debilidad
+        correct: false
+      - text: La incredulidad
+        correct: false
+
+  - question: ¿Para qué se manifestó el Hijo de Dios, según 3:8?
+    answers:
+      - text: Para deshacer las obras del diablo
+        correct: true
+      - text: Para juzgar al mundo
+        correct: false
+      - text: Para enseñar la ley
+        correct: false
+      - text: Para reunir a Israel
+        correct: false
+
+  - question: ¿Por qué el que ha nacido de Dios no practica el pecado?
+    answers:
+      - text: Porque su semilla permanece en él
+        correct: true
+      - text: Porque se esfuerza cada día
+        correct: false
+      - text: Porque guarda la ley
+        correct: false
+      - text: Porque teme el castigo
+        correct: false
+
+  - question: Acerca de “su semilla”, ¿qué dice Juan?
+    answers:
+      - text: Que permanece en él, sin decir qué es
+        correct: true
+      - text: Que es la palabra de Dios
+        correct: false
+      - text: Que es el Espíritu
+        correct: false
+      - text: Que es el nuevo nacimiento
+        correct: false
