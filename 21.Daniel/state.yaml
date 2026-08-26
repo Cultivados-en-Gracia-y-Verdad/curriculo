@@ -1,0 +1,91 @@
+project:
+  id: daniel
+  title: Daniel
+  workflow_version: '0.1'
+  manual_spec: ''
+  status: ACTIVE
+source:
+  name: LBF
+  path: ''
+  revision: ''
+  checksum: ''
+  validated: false
+alignment:
+  path: ''
+  revision: ''
+  checksum: ''
+  status: NOT_STARTED
+  validated_at: null
+  validated_by: []
+compiler:
+  name: CGV Reader Compiler
+  version: ''
+  last_run_at: null
+artifact:
+  path: ''
+  revision: ''
+  checksum: ''
+  generated_from_source_revision: ''
+  generated_from_alignment_revision: ''
+  generated_at: null
+  current: false
+workflow:
+  current_gate: G0_ALIGNMENT
+  release_status: NOT_RELEASED
+  regeneration_required: false
+gates:
+  G0_ALIGNMENT:
+    status: RUNNING
+    findings: []
+  G1_COMPILE:
+    status: BLOCKED
+    findings: []
+  G2_MECHANICAL:
+    status: BLOCKED
+    findings: []
+  G3_TEXTUAL:
+    status: BLOCKED
+    findings: []
+  G4_SPECIALISTS:
+    status: BLOCKED
+    findings: []
+  G5_ARCHITECTURE:
+    status: BLOCKED
+    findings: []
+  G6_WRITING:
+    status: BLOCKED
+    findings: []
+  G7_EDITORIAL:
+    status: BLOCKED
+    findings: []
+  G8_FINAL_VERIFY:
+    status: BLOCKED
+    findings: []
+  G9_HUMAN_REVIEW:
+    status: BLOCKED
+    findings: []
+  G10_RELEASE:
+    status: BLOCKED
+    findings: []
+findings: []
+blockers: []
+provenance:
+- id: EVT-000001
+  timestamp: '2026-08-09T09:43:07.543855+00:00'
+  actor: human
+  runtime: cgv-manager
+  model: null
+  action: gate transition READY -> RUNNING
+  gate: G0_ALIGNMENT
+  input_revision: ''
+  output_revision: ''
+  findings_created: []
+  findings_resolved: []
+  notes: Beginning LBF source and alignment validation before first compilation.
+human_approval:
+  approved: false
+  approved_by: null
+  approved_at: null
+  artifact_revision: null
+  artifact_checksum: null
+  notes: null
