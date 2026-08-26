@@ -1,0 +1,70 @@
+---
+task: DANIEL_READER_JSON_REBUILD_FINAL_ALIGNED_LBF
+progress_file: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/daniel-progress-filled.json"
+backup: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/backups/daniel-progress-filled.pre-json-rebuild-20260810T042739Z.json"
+alignment_backup: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/backups/daniel.alignment.pre-json-rebuild-20260810T042739Z.json"
+authoritative_inputs:
+  lbf: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-data/bibles/LBF/daniel.lbf.md"
+  reverse_links: "/Users/johnwry/Nextcloud/Documents/GitHub/herramientas/cgv-translator/translations/oshb-spine/daniel/daniel-reverse-links.json"
+  source_spine: "/Users/johnwry/Nextcloud/Documents/GitHub/herramientas/cgv-translator/translations/oshb-spine/daniel/daniel-oshb-spine.json"
+not_used_as_authoritative:
+- any Daniel alignment copy inside cgv-data
+- old Reader Daniel progress JSON alignment-derived values
+expected_progress_json_path: data/lbf/ot/daniel-progress-filled.json
+schema:
+  schema: 1
+  book: daniel
+  source: cgv-reader
+  data_keys:
+  - o-prototype:daniel:finite-verb-marks
+  - roots:daniel:brick1b:nominalClauseHeads
+  - roots:daniel:brick2:mood:imperativeCandidates
+  - roots:daniel:brick2b:commandRecipients
+  - roots:daniel:brick2c:mood:statementCandidates
+  - roots:daniel:brick3:dependentThoughtIntroducers
+  - roots:daniel:brick3:mood:subjunctiveCandidates
+  - roots:daniel:brick3c:mood:optativeCandidates
+  - roots:daniel:brick4:participleCandidates
+  - the-reader:daniel:notes
+  - the-reader:spanish-clause-builder:daniel:book-definitions:v1
+  - the-reader:spanish-clause-builder:daniel:book-thread:v1
+  - the-reader:spanish-clause-builder:daniel:clause-actors:v1
+  - the-reader:spanish-clause-builder:daniel:contrasts:v1
+  - the-reader:spanish-clause-builder:daniel:h3-flow:v1
+  - the-reader:spanish-clause-builder:daniel:participle-subjects:v1
+  - the-reader:spanish-clause-builder:daniel:participles:v1
+  - the-reader:spanish-clause-builder:daniel:statement-command-review:v1
+  - the-reader:spanish-clause-builder:daniel:v3
+mechanical_fields_rebuilt:
+- finite-verb-marks
+- nominalClauseHeads
+- imperativeCandidates
+- statementCandidates
+- subjunctiveCandidates
+- optativeCandidates
+- participleCandidates
+- spanish-clause-builder:v3
+- statement-command-review:v1
+- clause-actors:v1
+human_fields_preserved: []
+human_fields_reset:
+- roots:daniel:brick2b:commandRecipients
+- roots:daniel:brick3:dependentThoughtIntroducers
+- the-reader:spanish-clause-builder:daniel:participles:v1
+- the-reader:spanish-clause-builder:daniel:participle-subjects:v1
+- the-reader:spanish-clause-builder:daniel:h3-flow:v1
+- the-reader:spanish-clause-builder:daniel:contrasts:v1
+- the-reader:spanish-clause-builder:daniel:book-definitions:v1
+- the-reader:spanish-clause-builder:daniel:book-thread:v1
+stale_alignment_references: 0
+verse_count: 357
+alignment_records: 6035
+source_token_validation: PASS
+same_verse_token_validation: PASS
+span_offset_validation: PASS
+old_local_daniel_text_overrides_cgv_data: false
+reader_load: PASS
+validation: PASS
+build_preflight: PASS
+remaining_blockers:
+- human observation fields reset before manual observation/export quality work

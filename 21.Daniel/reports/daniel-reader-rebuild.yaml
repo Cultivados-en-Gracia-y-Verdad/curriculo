@@ -1,0 +1,64 @@
+---
+task: DANIEL_READER_RECOVERY_REBUILD_FROM_FINAL_LBF_FINAL_ALIGNMENT
+book: daniel
+actual_lbf_path_reader_uses: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-data/bibles/LBF/daniel.lbf.md"
+old_daniel_source_path: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/daniel.md"
+progress_json_path: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/daniel-progress-filled.json"
+backup_path: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/backups/daniel-progress-filled.pre-reader-rebuild-20260810T042108Z.json"
+config_backup_path: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/backups/daniel-manifest.pre-reader-rebuild-20260810T042108Z.json"
+alignment_backup_path: "/Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/backups/daniel.alignment.pre-reader-rebuild-20260810T042108Z.json"
+reader_config_changed:
+- manifests/daniel.json source.lbf now points to ../cgv-data/bibles/LBF/daniel.lbf.md
+- Reader LBF asset loading now uses @cgv-data/bibles/LBF/*.lbf.md
+- LBF parsers accept cgv-data one-line verse format and legacy local heading format
+mechanically_regenerated_field_groups:
+- finite-verb-marks
+- nominalClauseHeads
+- imperativeCandidates
+- statementCandidates
+- subjunctiveCandidates
+- optativeCandidates
+- participleCandidates
+- spanish-clause-builder:v3
+- statement-command-review:v1
+- clause-actors:v1
+human_fields_preserved: []
+human_fields_cleared_reset:
+- roots:daniel:brick2b:commandRecipients
+- roots:daniel:brick3:dependentThoughtIntroducers
+- the-reader:spanish-clause-builder:daniel:participles:v1
+- the-reader:spanish-clause-builder:daniel:participle-subjects:v1
+- the-reader:spanish-clause-builder:daniel:h3-flow:v1
+- the-reader:spanish-clause-builder:daniel:contrasts:v1
+- the-reader:spanish-clause-builder:daniel:book-definitions:v1
+- the-reader:spanish-clause-builder:daniel:book-thread:v1
+stale_data_removed:
+- old daniel-progress-filled.json was not used as authority
+- local Reader Daniel alignment was rebuilt from final cgv-translator reverse-links
+- human/workshop stores with stale span risk were reset to empty/default
+verse_count: 357
+daniel_1_1: En el año tercero del reino de Joacim, rey de Judá, vino Nabucodonosor, rey de Babel, a Jerusalén y la sitió.
+daniel_12_13: Y tú irás al fin, y reposarás, y te levantarás en tu suerte al fin de los días.
+alignment_records: 6035
+token_span_validation_results:
+  reader_alignment_records: 6035/6035
+  alignment_warnings: 0
+  progress_token_span_refs: PASS
+  stale_alignment_refs_remaining: 0
+  stale_spanish_offsets_remaining: 0
+  old_reader_local_text_overrides_cgv_data: false
+reader_load_result: PASS
+compile_export_validation_result: PASS
+validation_commands:
+- 'programmatic JSON/LBF/alignment/progress validation: PASS'
+- 'npm run build: PASS'
+blockers_remaining_before_observation:
+- participle hosts/subjects require human observation
+- H3 flow requires human observation
+- contrasts require human observation
+- book definitions require human observation
+- book thread requires human observation
+- command recipients and dependent introducers require human observation
+blockers_remaining_before_compiled_export:
+- no mechanical compiler-consumption blocker found
+- full manual-quality export still depends on the reset human observation fields being completed

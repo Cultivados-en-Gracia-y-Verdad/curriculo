@@ -1,0 +1,14 @@
+schema_version: '0.1'
+task: DANIEL_CLAUSE_SPAN_ALIGNMENT_REPAIR
+progress: /Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/daniel-progress-filled.json
+backup: /Users/johnwry/Nextcloud/Documents/GitHub/cgv-reader/data/lbf/ot/daniel-progress-filled.pre-clause-span-alignment-repair-20260810T012119.json
+changed_clause_rows: 995
+unmapped_clause_rows: 0
+before_empty_spans: 0
+after_empty_spans: 0
+before_double_claimed_word_ids: 3455
+after_double_claimed_word_ids: 20
+final_clause_rows: 981
+final_empty_spans: 0
+final_overlap_words: 0
+final_overlap_excess: 0

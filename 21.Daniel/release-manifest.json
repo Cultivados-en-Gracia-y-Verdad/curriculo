@@ -1,0 +1,81 @@
+{
+  "project": "Daniel Manual",
+  "book": "daniel",
+  "status": "DRAFT",
+
+  "source": {
+    "manual": "data/lbf/ot/daniel-manual.md",
+    "lbf": "../cgv-data/bibles/LBF/daniel.lbf.md",
+    "alignment": "data/lbf/ot/daniel.alignment.json",
+    "progress": "data/lbf/ot/daniel-progress-filled.json"
+  },
+
+  "language": {
+    "spine": "OSHB",
+    "note": "Daniel switches language mid-book. Hebrew 1:1-2:4a and 8:1-12:13. Aramaic 2:4b-7:28.",
+    "greek_pipeline_artifacts_expected": false,
+    "purpose_frame_detection_runs": false,
+    "telos_candidate_from_observer": null
+  },
+
+  "required": {
+    "_comment": "Observed on 2026-08-08 from the current manual. NOT yet human-confirmed against a fresh Compiler Generate. Confirm before using as a release threshold.",
+    "_confirmed_by_human": false,
+    "h4_clauses": 505,
+    "h3_units": 559,
+    "hierarchy": ["#", "##", "###", "####"],
+    "markers": ["####", "-", "+", "*", ">"],
+    "scripture_coverage": "every verse of the LBF source appears in at least one #### / - / + line"
+  },
+
+  "protected": {
+    "_comment": "Changing any of these requires the authority token named. See scripts/check-authority.py.",
+    "scripture": ["####", "-"],
+    "technical": ["*"],
+    "clause_ids": true,
+    "source_language_text": true,
+    "footnote_definitions": true
+  },
+
+  "conventions": {
+    "underline": "exactly one short <u>word</u> per > paragraph; never in a heading or in Scripture",
+    "slides": "blank line = new slide; ~4 lines per slide; never a mid-slide outdent",
+    "scripture_typography": "markdown italics only",
+    "language": "Latin American Spanish, ~8th grade",
+    "footnote_tags": {
+      "canonical_pair_unresolved": true,
+      "note": "Compiler emits [^part]/[^inf]; finished manuals carry [^P]/[^I]. Pick one and apply in a single place -- regeneration currently undoes hand patches."
+    }
+  },
+
+  "forbidden": {
+    "interpretation": "no explanation of significance, motive, or meaning",
+    "application": "none",
+    "theology": "no doctrinal teaching",
+    "imported_conclusions": "nothing from later in the book used in an earlier passage",
+    "invented_questions": "only questions the text itself opens",
+    "fabricated_telos": "no telos without a quoted, referenced purpose clause",
+    "workshop_labels_as_headings": "Hilo de taller / Inicios H2 / Costuras de presión / Convergencia are hypotheses, never titles",
+    "non_scripture_on_scripture_markers": "#### / - / + carry Scripture only"
+  },
+
+  "required_reviews": {
+    "python_deterministic": { "report": "reports/daniel/PYTHON_REPORT.md", "complete": false },
+    "editor": { "report": "reports/daniel/EDITOR_REPORT.md", "complete": false },
+    "textual": { "report": "reports/daniel/TEXTO_REPORT.md", "complete": false },
+    "structural": { "report": "reports/daniel/ESTRUCTURA_REPORT.md", "complete": false },
+    "verifier": { "report": "reports/daniel/VERIFIER_REPORT.md", "complete": false },
+    "hebrew_aramaic": { "report": "reports/daniel/HEBREW_REPORT.md", "complete": false },
+    "historical": { "report": "reports/daniel/HISTORY_REPORT.md", "complete": false },
+    "observation": { "report": "reports/daniel/OBSERVATION_REPORT.md", "complete": false },
+    "architecture": { "report": "reports/daniel/ARQUITECTO_REPORT.md", "complete": false }
+  },
+
+  "known_open_debt": [
+    "Generate has NOT been re-run since the 2026-08-06 span repairs in daniel-progress-filled.json. The current manual still carries the pre-fix surface.",
+    "95 degenerate clause rows in the book; 69 remain in `-` lines.",
+    "20 verses have no clause row at all; they reach the manual as `+` phrases.",
+    "roots:daniel:brick3:dependentThoughtIntroducers is empty -- no clause marked dependent by hand.",
+    "Workshop appendices use 117 #### for non-Scripture headings; must be stripped before student export."
+  ]
+}
