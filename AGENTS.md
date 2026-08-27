@@ -24,6 +24,10 @@ Then, for the book in hand:
 
 If a rule you need is not in one of those, it is not a rule yet. Ask; do not invent it.
 
+For the order of work and the command at each gate, see **`RUNBOOK.md`** in the method repo.
+`cgv status {libro}` always tells you the current gate and the next action — the Manager is
+authoritative, and no agent may infer state from a conversation.
+
 ## Where things live
 
 ```
@@ -57,11 +61,27 @@ Edit the files there, never through the symlink path, and never make a second co
 
 ## Never
 
-- Write a stage output into `cgv-reader`. That repo owns the Reader, Observer and Compiler
-  applications and is a read-only consumer of published data — see its `DATA_CONTRACT.md`.
+- Write a **book artifact** into `cgv-reader`. Progress JSON, skeletons, manuals, and reports belong
+  in `curriculo/{NN.Curso}/`.
 - Take a skeleton or a manuscript from `~/Downloads`. Compiler exports land in
   `{NN.Curso}/skeleton/`; manuscripts live in `{NN.Curso}/manual/`.
-- Repair an upstream defect downstream. Flag it to the stage that owns it.
+- Hide an upstream defect by hand-editing generated Scripture or Compiler evidence in the manuscript.
+
+## Product defects cross repository boundaries
+
+Repository ownership says **where the fix goes**, not that the current coding agent must stop.
+
+- Observer data or a human clause judgment is repaired in Observer and exported once.
+- Reader, Observer, or Compiler application defects are repaired in the `cgv-reader` source,
+  with a regression test when practical.
+- Method defects are repaired in `herramientas/CGV-curriculo`.
+- Generated book artifacts remain in `curriculo/{NN.Curso}/`.
+
+When a check isolates a deterministic Compiler defect, patch `cgv-reader` in the same task if the
+workspace permits it. Never tell the user to find “whoever owns Compiler,” and never send them
+through Observer → Generate repeatedly when the same emitter code will reproduce the defect. If an
+actual filesystem permission blocks the edit, name the exact file and request permission; do not
+invent an organizational barrier.
 
 ## The four things that matter most
 

@@ -1,0 +1,299 @@
+project:
+  id: apocalipsis
+  title: Apocalipsis
+  workflow_version: '0.2'
+  manual_spec: spec.md
+  status: ACTIVE
+source:
+  name: LBF
+  path: cgv-data/bibles/LBF/apocalipsis.lbf.md
+  revision: sha256-06e583e3a448
+  checksum: 06e583e3a4488182763fa3f06d6fa5287c9df91c0ed92f8d904e5c82d5064aac
+  validated: false
+alignment:
+  path: cgv-data/bibles/LBF/alignments/apocalipsis.alignment.json
+  revision: sha256-ffffac914002
+  checksum: ffffac9140022dffe22ec92f4fcafcea6cc243a0066d002efa58b8348be80b51
+  status: SKIPPED
+  validated_at: null
+  validated_by: []
+compiler:
+  name: CGV Reader Compiler
+  version: cgv-reader
+  last_run_at: '2026-08-26T22:36:26.054407+00:00'
+artifact:
+  path: curriculo/23.Apocalipsis/skeleton/apocalipsis-manual-skeleton.md
+  revision: a39d56aaef08
+  checksum: a39d56aaef0852c84ca65a9d77d47b63abfbafee86db375f1bc7e57440e3f02e
+  generated_from_source_revision: sha256-06e583e3a448
+  generated_from_alignment_revision: sha256-ffffac914002
+  generated_at: '2026-08-26T22:36:26.054407+00:00'
+  current: true
+workflow:
+  current_gate: G2_MECHANICAL
+  release_status: NOT_RELEASED
+  regeneration_required: false
+gates:
+  G0_ALIGNMENT:
+    status: SKIPPED
+    findings: []
+    waived: true
+    source_checksum: 06e583e3a4488182763fa3f06d6fa5287c9df91c0ed92f8d904e5c82d5064aac
+    alignment_checksum: ffffac9140022dffe22ec92f4fcafcea6cc243a0066d002efa58b8348be80b51
+    skip_reason: Manual production inherited the existing source files; alignment
+      work is upstream of this stage.
+  G1_COMPILE:
+    status: PASS
+    findings: []
+    compiler_version: cgv-reader
+    input_source_revision: sha256-06e583e3a448
+    input_alignment_revision: sha256-ffffac914002
+    input_source_checksum: 06e583e3a4488182763fa3f06d6fa5287c9df91c0ed92f8d904e5c82d5064aac
+    input_alignment_checksum: ffffac9140022dffe22ec92f4fcafcea6cc243a0066d002efa58b8348be80b51
+    output_artifact_revision: a39d56aaef08
+    output_checksum: a39d56aaef0852c84ca65a9d77d47b63abfbafee86db375f1bc7e57440e3f02e
+    generated_at: '2026-08-26T22:36:26.054407+00:00'
+    input_progress_path: curriculo/23.Apocalipsis/observation/apocalipsis-progress-filled.json
+    input_progress_checksum: d2ed70682989e72e8fc47706be7a1270a991b7d35f89887364b0388faa1d1cf1
+  G2_MECHANICAL:
+    status: READY
+    findings: []
+  G3_TEXTUAL:
+    status: BLOCKED
+    findings: []
+  G4_SPECIALISTS:
+    status: BLOCKED
+    findings: []
+  G5_ARCHITECTURE:
+    status: BLOCKED
+    findings: []
+  G6_WRITING:
+    status: BLOCKED
+    findings: []
+  G7_EDITORIAL:
+    status: BLOCKED
+    findings: []
+  G8_FINAL_VERIFY:
+    status: BLOCKED
+    findings: []
+  G9_HUMAN_REVIEW:
+    status: BLOCKED
+    findings: []
+  G10_RELEASE:
+    status: BLOCKED
+    findings: []
+findings: []
+blockers: []
+provenance:
+- id: EVT-000001
+  timestamp: '2026-08-26T20:26:39.805445+00:00'
+  actor: human
+  action: Cursor agent discovery confirmed
+  gate: ''
+  notes: '@arquitecto appeared in Cursor'
+- id: EVT-000002
+  timestamp: '2026-08-26T21:35:02.195766+00:00'
+  actor: manager
+  action: READY -> SKIPPED
+  gate: G0_ALIGNMENT
+  notes: Manual production inherited the existing source files; alignment work is
+    upstream of this stage.
+- id: EVT-000003
+  timestamp: '2026-08-26T21:35:02.198295+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G1_COMPILE
+  notes: Compiler Generate recorded.
+- id: EVT-000004
+  timestamp: '2026-08-26T21:35:02.198302+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G1_COMPILE
+  notes: artifact c603b926eb05 from source sha256-06e583e3a448
+- id: EVT-000005
+  timestamp: '2026-08-26T21:35:02.198304+00:00'
+  actor: human
+  action: compile recorded
+  gate: G1_COMPILE
+  notes: artifact=c603b926eb05 compiler=cgv-reader
+- id: EVT-000006
+  timestamp: '2026-08-26T21:36:46.783414+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000007
+  timestamp: '2026-08-26T21:52:14.990732+00:00'
+  actor: human
+  action: compile recorded
+  gate: G1_COMPILE
+  notes: artifact=0f0c0293a188 compiler=cgv-reader
+- id: EVT-000008
+  timestamp: '2026-08-26T22:34:05.875543+00:00'
+  actor: human
+  action: compile recorded
+  gate: G1_COMPILE
+  notes: artifact=0f0c0293a188 compiler=cgv-reader
+- id: EVT-000009
+  timestamp: '2026-08-26T22:34:10.172665+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000010
+  timestamp: '2026-08-26T22:34:27.776469+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000011
+  timestamp: '2026-08-26T22:36:26.055330+00:00'
+  actor: human
+  action: compile recorded
+  gate: G1_COMPILE
+  notes: artifact=a39d56aaef08 compiler=cgv-reader
+- id: EVT-000012
+  timestamp: '2026-08-26T22:36:29.130215+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000013
+  timestamp: '2026-08-27T02:50:00.620909+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000014
+  timestamp: '2026-08-27T02:50:17.605473+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000015
+  timestamp: '2026-08-27T04:08:17.093025+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000016
+  timestamp: '2026-08-27T04:08:33.507881+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000017
+  timestamp: '2026-08-27T04:12:11.484282+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000018
+  timestamp: '2026-08-27T04:12:50.263447+00:00'
+  actor: python-checker
+  action: skeleton checks recorded
+  gate: G2_MECHANICAL
+  notes: Blocking packaging check passed; manual checks emitted evidence. Human surface
+    reading remains required.
+- id: EVT-000019
+  timestamp: '2026-08-27T08:34:42.552385+00:00'
+  actor: manager
+  action: blocks.md verified
+  gate: G5_ARCHITECTURE
+  notes: 'loud/Documents/GitHub/cgv-data/bibles/LBF/apocalipsis.lbf.md
+
+    units  : 31   verses: 404
+
+
+    PASS  every unit declares a marker that occurs in its range, a form, a contenido
+    and clause IDs; the units tile the book.
+
+    The reading is still required: whether the boundaries are real and the contenido
+    faithful.'
+- id: EVT-000020
+  timestamp: '2026-08-27T08:42:23.455772+00:00'
+  actor: human
+  action: structure approved
+  gate: G5_ARCHITECTURE
+  notes: 'Approved curriculo/23.Apocalipsis/architecture/apocalipsis-outline.md. Next:
+    build context quotes.'
+- id: EVT-000021
+  timestamp: '2026-08-27T08:42:38.542509+00:00'
+  actor: manager
+  action: context quotes built
+  gate: G5_ARCHITECTURE
+  notes: "apocalipsis-manual.md\n  no span, skipped: Actores\n  no span, skipped:\
+    \ Actores\n  no span, skipped: Movimiento\n  no span, skipped: Convergencia\n\
+    \  no span, skipped: Apéndice A — Conectores griegos\n  no span, skipped: Apéndice\
+    \ B — Formas verbales\n  no span, skipped: Apéndice C — Observando la estructura"
+- id: EVT-000022
+  timestamp: '2026-08-27T08:42:56.111385+00:00'
+  actor: manager
+  action: context quotes built
+  gate: G5_ARCHITECTURE
+  notes: "apocalipsis-manual.md\n  no span, skipped: Actores\n  no span, skipped:\
+    \ Actores\n  no span, skipped: Movimiento\n  no span, skipped: Convergencia\n\
+    \  no span, skipped: Apéndice A — Conectores griegos\n  no span, skipped: Apéndice\
+    \ B — Formas verbales\n  no span, skipped: Apéndice C — Observando la estructura"
+human_approval:
+  approved: false
+  approved_by: null
+  approved_at: null
+  artifact_revision: null
+  artifact_checksum: null
+  notes: null
+manager:
+  preflight:
+    cursor_agents_verified: true
+    verified_at: '2026-08-26T20:26:39.804882+00:00'
+  evidence:
+    skeleton_checks_checksum: 21fa1b769a109ca266866e5efccd2d3bfaf001a20edcf6324fb3c4baaefee492
+    skeleton_checks_at: '2026-08-27T04:12:50.263408+00:00'
+    skeleton_packaging_output: 'manual: /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/skeleton/apocalipsis-manual-skeleton.md
+
+      lbf:    /Users/johnwry/Nextcloud/Documents/GitHub/cgv-data/bibles/LBF/apocalipsis.lbf.md
+
+      H4s: 809
+
+      dangling endings: 0 (0%)
+
+      mid-phrase H4 starts: 81 (informational)
+
+      adjacent overlaps: 0
+
+      LBF verses missing 3-gram: 0
+
+
+      PASS — H4 packaging gate clear.'
+    skeleton_manual_checks_output: "→ reports/apocalipsis/PYTHON_REPORT.md\n  H4 809\
+      \ · H3 814 · hallazgos determinísticos: 5\n  - empaquetado: 16 H4 de una palabra\n\
+      \  - empaquetado: 15 colas átonas\n  - empaquetado: 1 solapamientos de costura\
+      \ ≥6 palabras\n  - marcado: 1 notas al pie sin definición\n  - duplicación:\
+      \ 17 H4 y 0 comentarios repetidos"
+    blocks_checksum: 5a431f88fc1ef328cd3c880e5e7d21c60c0ebb37965a7bedcea27f409f000b94
+    blocks_verified_at: '2026-08-27T08:34:42.552347+00:00'
+    blocks_verifier_output: 'blocks : /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/blocks.md
+
+      lbf    : /Users/johnwry/Nextcloud/Documents/GitHub/cgv-data/bibles/LBF/apocalipsis.lbf.md
+
+      units  : 31   verses: 404
+
+
+      PASS  every unit declares a marker that occurs in its range, a form, a contenido
+      and clause IDs; the units tile the book.
+
+      The reading is still required: whether the boundaries are real and the contenido
+      faithful.'
+    structure_approved_checksum: d6d9c78bcd1f2be383174e7ed3267a14a48b90011c9444ef1dbc8bca0c424202
+    structure_approved_at: '2026-08-27T08:42:23.455692+00:00'
+    context_quotes_checksum: 596186bb50f97733e6ef8d697fcaf296b2e53f0838dcf9057ef0521fd6600a5e
+    context_quotes_built_at: '2026-08-27T08:42:56.111330+00:00'
