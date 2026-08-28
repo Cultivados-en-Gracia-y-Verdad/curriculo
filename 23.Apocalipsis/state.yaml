@@ -30,7 +30,7 @@ artifact:
   generated_at: '2026-08-26T22:36:26.054407+00:00'
   current: true
 workflow:
-  current_gate: G2_MECHANICAL
+  current_gate: G4_SPECIALISTS
   release_status: NOT_RELEASED
   regeneration_required: false
 gates:
@@ -56,13 +56,13 @@ gates:
     input_progress_path: curriculo/23.Apocalipsis/observation/apocalipsis-progress-filled.json
     input_progress_checksum: d2ed70682989e72e8fc47706be7a1270a991b7d35f89887364b0388faa1d1cf1
   G2_MECHANICAL:
-    status: READY
+    status: PASS
     findings: []
   G3_TEXTUAL:
-    status: BLOCKED
+    status: PASS
     findings: []
   G4_SPECIALISTS:
-    status: BLOCKED
+    status: READY
     findings: []
   G5_ARCHITECTURE:
     status: BLOCKED
@@ -244,6 +244,41 @@ provenance:
     \ Actores\n  no span, skipped: Movimiento\n  no span, skipped: Convergencia\n\
     \  no span, skipped: Apéndice A — Conectores griegos\n  no span, skipped: Apéndice\
     \ B — Formas verbales\n  no span, skipped: Apéndice C — Observando la estructura"
+- id: EVT-000023
+  timestamp: '2026-08-28T04:01:33.116765+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G2_MECHANICAL
+  notes: Packaging script PASS; surface reading started.
+- id: EVT-000024
+  timestamp: '2026-08-28T04:01:33.231456+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G2_MECHANICAL
+  notes: Script + reading agree the skeleton is fit to build on. Packaging PASS (810
+    H4s, no dangling endings, no adjacent overlaps, no LBF verse missing a 3-gram).
+    The reported ≥6-word seam is Apocalipsis 20:13 authorial repetition (mar / muerte
+    y Hades), not a lost span. One-word H4s checked are short independents or the
+    18:2 Cayó split already named in Step 0. [^hoste] on εἰ at 14:11 is a Compiler
+    tag miss on the skeleton only; not treated as a packaging blocker. Not a reread
+    of all 810 H4s.
+- id: EVT-000025
+  timestamp: '2026-08-28T04:02:10.538946+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G3_TEXTUAL
+  notes: Textual reading of Observer spans vs skeleton started.
+- id: EVT-000026
+  timestamp: '2026-08-28T07:14:50.274033+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G3_TEXTUAL
+  notes: 'Hand reading (no Verificador agent). verify-clause-spans: 1165 clauses,
+    0 empty renders, 0 words lost; exit 1 from 2 empty selectedSpans (14:8:8 second
+    cayó absorbed into 14:8:7; 14:9:21 inside 14:9:13) and 6 leaner endings (4 complete
+    pues/no; 3:19:5 truncated at «Yo reprendo a todos los»). Sampled 22:6–18 expressed/purpose/condition
+    match Observer. Compiler host/particle defects remain on the skeleton; named in
+    reports/TEXTO_REPORT.md. Not a book-wide independent pass.'
 human_approval:
   approved: false
   approved_by: null
