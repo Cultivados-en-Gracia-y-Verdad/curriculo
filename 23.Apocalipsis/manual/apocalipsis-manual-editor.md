@@ -3382,17 +3382,17 @@ Cierra con el oído: *al que vence* *daré sentarse conmigo en mi trono*, *así 
 
 ### En síntesis
 
-El tramo abre con una puerta abierta en el cielo: Sube, y te mostraré lo que debe suceder después de esto.
+El tramo abre *Después de esto vi*: *una puerta abierta en el cielo*. La primera voz dice *Sube aquí* y *te mostraré lo que debe suceder después de esto*.
 
-Juan ve un trono, uno sentado, veinticuatro ancianos y cuatro seres vivientes; ellos cantan: Digno eres, Señor, porque tú creaste todas las cosas.
+Juan ve *un trono* y *uno sentado*; *veinticuatro ancianos* y *cuatro seres vivientes*. Cantan: *Digno eres, Señor*, *porque tú creaste todas las cosas*.
 
-En la mano derecha, un libro sellado con siete sellos. Nadie podía abrirlo; Juan llora.
+En la mano derecha, *un libro* *sellado con siete sellos*. *Nadie* podía abrirlo; Juan *lloraba mucho*.
 
-Un anciano dice: No llores; ha vencido el león de Judá. Juan ve un cordero de pie como sacrificado, y el cordero toma el libro.
+*Uno de los ancianos* dice: *No llores*. *Ha vencido el león que es de la tribu de Judá*, *la raíz de David*. Juan ve *un cordero de pie como sacrificado*; el cordero *tomó el libro*.
 
-Cantan un cántico nuevo: Digno eres de tomar el libro, porque fuiste sacrificado y nos compraste. Toda criatura asigna bendición al que está sentado y al cordero.
+Cantan *un cántico nuevo*: *Digno eres de tomar el libro*, *porque fuiste sacrificado* y *nos compraste*. *Toda criatura*: *Al que está sentado en el trono y al cordero* *sean la bendición, la honra, la gloria y el dominio*.
 
-Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro está tomado; los sellos, todavía no.
+Los cuatro seres dicen *Amén*; los veinticuatro ancianos *cayeron* y *adoraron* *al que vive por los siglos de los siglos*.
 
 ## Apocalipsis 6:1–8:1 Los siete sellos
 
@@ -3459,27 +3459,25 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 6:1:2 — El cordero abre los sellos
 
-* Actores principales: *el cordero* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u> y a Yo, Juan. Juan ve; el cordero abre.
+> Se mueven el <u>cordero</u> y Yo, Juan. Juan ve; el cordero abre.
 
 #### *Y vi*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y adoraron al que vive por los siglos de los siglos*).
   > Ese <u>Y</u> no suma otro adorar. Tras adorar, Juan ve.
 
 * *Yo, Juan* → *vi*
-  > Quien ve es <u>Yo</u>, Juan. La flecha se detiene en vi. Qué, cuando el cordero abre.
+  > Quien ve es <u>Yo</u>, Juan.
 
 - *cuando el cordero abrió uno de los sellos*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otra visión. Fija el momento del ver: cuando el cordero abrió uno de los sellos.
+  > Ese <u>cuando</u> no abre otra visión. Fija el momento del ver: *cuando el cordero abrió uno de los sellos*.
 
   * *el cordero* → *abrió* → *uno*
-  > Quien abrió es <u>el</u> cordero. Lo alcanzado: uno. Uno de los sellos del libro de Apocalipsis 5:1. Qué oye, todavía no.
+  > Quien abrió es <u>el</u> cordero. Lo alcanzado: *uno*. Uno de los sellos del libro de Apocalipsis 5:1.
 
 ### Apocalipsis 6:1:13 — *y oí a uno de los cuatro seres vivientes decir como con voz de trueno*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo ve. Ahora oye.
+> Se mueve <u>Yo</u>, Juan. Ya no solo ve. Ahora oye.
 
 #### *y oí a uno de los cuatro seres vivientes decir como con voz de trueno*
 * *oí* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi*).
@@ -3487,216 +3485,202 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 * *Yo, Juan* → *oí* → *a uno de los cuatro seres vivientes*
   * ↳ *decir* (λέγοντος)[^P]
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: a uno de los cuatro seres vivientes. Está diciendo, como con voz de trueno. Qué, todavía no.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *a uno de los cuatro seres vivientes*. Está *diciendo*, *como con voz de trueno*.
 
 ### Apocalipsis 6:1:23 — *Ven y mira*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. No es el ser viviente. Es a quien se le habla.
+> Se mueve <u>Yo</u>, Juan. No es el ser viviente. Es a quien se le habla.
 
 #### *Ven y mira*
-  > Eso es lo que dice. Como con voz de trueno: <u>Ven</u> y mira. El caballo, todavía no.
+  > Eso es lo que dice. *Como con voz de trueno*: <u>Ven</u> y mira.
 
 * *Yo, Juan* → *Ven*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Ven. Y mira queda en la misma línea, fuera de la flecha.
+  > A quien se manda es <u>Yo</u>, Juan.
 
 ### Apocalipsis 6:2:2 — *y vi, y he aquí, un caballo blanco, y el que estaba sentado sobre él tenía un arco*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Le dijeron Ven y mira. Ahora ve.
+> Se mueve <u>Yo</u>, Juan. Le dijeron *Ven y mira*. Ahora ve.
 
 #### *y vi, y he aquí, un caballo blanco, y el que estaba sentado sobre él tenía un arco*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Ven y mira*).
-  > Ese <u>y</u> no suma otro mandato. Tras Ven y mira, Juan ve.
+  > Ese <u>y</u> no suma otro mandato. Tras *Ven y mira*, Juan ve.
 
 * *Yo, Juan* → *vi* → *un caballo blanco, y el que estaba sentado sobre él tenía un arco*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: un caballo blanco, y el que estaba sentado sobre él tenía un arco.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *un caballo blanco*, y *el que estaba sentado sobre él tenía un arco*.
 
 + *que*
   * ↳ *sentado* (καθήμενος)[^P]
   * ↳ *tenía* (ἔχων)[^P]
-  > El que no queda suelto: está <u>sentado</u> sobre el caballo, y tenía un arco. La corona, todavía no.
+  > El que está <u>sentado</u> sobre el caballo, y *tenía un arco*.
 
 ### Apocalipsis 6:2:15 — *y le fue dada una corona*
 
-* Actores principales: *una corona* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>una</u> corona, uno.
+> Se mueve <u>una</u> corona. Ya no es Juan.
 
 #### *y le fue dada una corona*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vi… un caballo blanco…*).
-  > Ese <u>y</u> no suma otro arco. Al que estaba sentado: le fue dada una corona.
+  > Ese <u>y</u> no suma otro arco. Al que estaba sentado: *le fue dada una corona*.
 
 * *una corona* → *fue dada*
-  > Quien fue dada es <u>una</u> corona. La flecha se detiene en fue dada. Le —al que estaba sentado— queda en la misma línea, fuera de la flecha. Salir, todavía no.
+  > Quien fue dada es <u>una</u> corona. *Le*: al que estaba sentado.
 
 ### Apocalipsis 6:2:19 — *y salió venciendo*
 
-* Actores principales: *el que estaba sentado sobre él* (2)
-  > El recuento ya no es la corona. Quien ocupa la línea es <u>el</u> que estaba sentado sobre él, dos. Sale, y vence.
+> Se mueve <u>el</u> que estaba sentado sobre él. Ya no es la corona.
 
 #### *y salió venciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y le fue dada una corona*).
-  > Ese <u>y</u> no suma otra corona. Tras la corona: salió.
+  > Ese <u>y</u> no suma otra corona. Tras la corona: *salió*.
 
 * *el que estaba sentado sobre él* → *salió*
-  > Quien sale es <u>el</u> que estaba sentado sobre él. La flecha se detiene en salió.
+  > Quien sale es <u>el</u> que estaba sentado sobre él.
 
 + *que*
   * ↳ *venciendo* (νικῶν)[^P]
-  > No sale quieto: va <u>venciendo</u>. Para qué, anidado.
+  > No sale quieto: va <u>venciendo</u>.
 
 - *y para vencer*
-  * *para vencer.* (ἵνα)[^hina]
-  > Ese <u>para vencer</u> no abre otra salida. Trae el para qué de salió: vencer.
+  * *para vencer.* (ἵνα)[^hina] introduce el propósito de *salió*.
+  > Ese <u>para vencer</u> no abre otra salida. Trae el propósito de *salió*: *vencer*.
 
   * *el que estaba sentado sobre él* → *vencer*
-  > Quien vence es el mismo <u>el</u> que estaba sentado sobre él. La flecha se detiene en vencer. El segundo sello, todavía no.
+  > Quien vence es el mismo <u>el</u> que estaba sentado sobre él.
 
 ### Apocalipsis 6:3:8 — *oí al segundo ser viviente decir*
 
-* Actores principales: *el cordero* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u> y a Yo, Juan. El cordero abre el segundo; Juan oye.
+> Se mueven el <u>cordero</u> y Yo, Juan. El cordero abre el segundo; Juan oye.
 
 - *Y cuando abrió el segundo sello*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otro caballo blanco. Fija el momento del oír: cuando abrió el segundo sello.
+  > Ese <u>cuando</u> no abre otro caballo blanco. Fija el momento del oír: *cuando abrió el segundo sello*.
 
   * *el cordero* → *abrió* → *el segundo sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el segundo sello. Ya no es el primero.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: *el segundo sello*. Ya no es el primero.
 
 #### *oí al segundo ser viviente decir*
-  > Cuando abrió, <u>oí</u> al segundo ser viviente decir. Qué, todavía no.
+  > Cuando abrió, <u>oí</u> al segundo ser viviente decir.
 
 * *Yo, Juan* → *oí* → *al segundo ser viviente*
   * ↳ *decir* (λέγοντος)[^P]
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: al segundo ser viviente. Está diciendo. El primero ya habló; este es el segundo.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *al segundo ser viviente*. Está *diciendo*. El primero ya habló; este es el segundo.
 
 ### Apocalipsis 6:3:13 — *Ven y mira*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. No es el segundo ser. Es a quien se le habla.
+> Se mueve <u>Yo</u>, Juan. No es el segundo ser. Es a quien se le habla.
 
 #### *Ven y mira*
-  > Eso es lo que dice. Otra vez: <u>Ven</u> y mira. El caballo rojo, todavía no.
+  > Eso es lo que dice. Otra vez: <u>Ven</u> y mira.
 
 * *Yo, Juan* → *Ven*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Ven. Y mira queda en la misma línea, fuera de la flecha.
+  > A quien se manda es <u>Yo</u>, Juan.
 
 ### Apocalipsis 6:4:2 — *y salió otro caballo, rojo*
 
-* Actores principales: *otro caballo, rojo* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>otro</u> caballo, rojo, uno.
+> Se mueve <u>otro</u> caballo, rojo. Ya no es Juan.
 
 #### *y salió otro caballo, rojo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Ven y mira*).
-  > Ese <u>y</u> no suma otro Ven y mira. Tras Ven y mira: salió otro caballo, rojo.
+  > Ese <u>y</u> no suma otro *Ven y mira*. Tras *Ven y mira*: *salió otro caballo, rojo*.
 
 * *otro caballo, rojo* → *salió*
-  > Quien sale es <u>otro</u> caballo, rojo. Ya no es el blanco. La flecha se detiene en salió. El que se sienta, todavía no.
+  > Quien sale es <u>otro</u> caballo, rojo. Ya no es el blanco.
 
 ### Apocalipsis 6:4:11 — *fue dado quitar la paz de la tierra*
 
-* Actores principales: *quitar la paz* (1) · *unos a otros* (1)
-  > El recuento pone a <u>quitar</u> la paz y a unos a otros. Se da quitar; ellos se matan.
+> Se mueven <u>quitar</u> la paz y *unos a otros*. Se da quitar.
 
 + *y al que estaba sentado sobre él le*
   * ↳ *sentado* (καθημένῳ)[^P]
-  > No queda el caballo solo. Hay <u>al</u> que estaba sentado sobre él. A ese le.
+  > No queda el caballo solo. Hay <u>al</u> que estaba sentado sobre él. A ese *le*.
 
 #### *fue dado quitar la paz de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y salió otro caballo, rojo*).
-  > Ese <u>y</u> no suma otro caballo. Al que estaba sentado: le fue dado.
+  > Ese <u>y</u> no suma otro caballo. Al que estaba sentado: *le fue dado*.
 
 * *quitar la paz* → *fue dado*
   * ↳ *quitar* (λαβεῖν)[^I]
-  > Lo que fue dado es <u>quitar</u> la paz. La flecha se detiene en fue dado. De la tierra queda en la misma línea, fuera de la flecha.
+  > Lo que fue dado es <u>quitar</u> la paz.
 
 - *para que se mataran unos a otros*
-  * *para que* (ἵνα)[^hina]
-  > Ese <u>para que</u> no abre otro fue dado. Trae el para qué de fue dado: se mataran unos a otros.
+  * *para que* (ἵνα)[^hina] introduce el propósito de *fue dado*.
+  > Ese <u>para que</u> no abre otro *fue dado*. Trae el propósito de *fue dado*: *se mataran unos a otros*.
 
   * *unos a otros* → *mataran* → *unos a otros*
-  > Quienes matan son <u>unos</u> a otros. Lo alcanzado: unos a otros. La espada, todavía no.
+  > Quienes matan son <u>unos</u> a otros. Lo alcanzado: *unos a otros*.
 
 ### Apocalipsis 6:4:24 — *y le fue dada una gran espada*
 
-* Actores principales: *una gran espada* (1)
-  > El recuento ya no es unos a otros. Quien ocupa la línea es <u>una</u> gran espada, uno.
+> Se mueve <u>una</u> gran espada. Ya no es *unos a otros*.
 
 #### *y le fue dada una gran espada*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*fue dado quitar la paz de la tierra*).
-  > Ese <u>y</u> no suma otro quitar. Al mismo le: una gran espada.
+  > Ese <u>y</u> no suma otro *quitar*. Al mismo *le*: *una gran espada*.
 
 * *una gran espada* → *fue dada*
-  > Quien fue dada es <u>una</u> gran espada. La flecha se detiene en fue dada. Le —al que estaba sentado— queda en la misma línea, fuera de la flecha. El tercer sello, todavía no.
+  > Quien fue dada es <u>una</u> gran espada. *Le*: al que estaba sentado.
 
 ### Apocalipsis 6:5:8 — *oí al tercer ser viviente decir*
 
-* Actores principales: *el cordero* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u> y a Yo, Juan. El cordero abre el tercero; Juan oye.
+> Se mueven el <u>cordero</u> y Yo, Juan. El cordero abre el tercero; Juan oye.
 
 - *Y cuando abrió el tercer sello*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otro caballo rojo. Fija el momento del oír: cuando abrió el tercer sello.
+  > Ese <u>cuando</u> no abre otro caballo rojo. Fija el momento del oír: *cuando abrió el tercer sello*.
 
   * *el cordero* → *abrió* → *el tercer sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el tercer sello. Ya no es el segundo.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: *el tercer sello*. Ya no es el segundo.
 
 #### *oí al tercer ser viviente decir*
-  > Cuando abrió, <u>oí</u> al tercer ser viviente decir. Qué, todavía no.
+  > Cuando abrió, <u>oí</u> al tercer ser viviente decir.
 
 * *Yo, Juan* → *oí* → *al tercer ser viviente*
   * ↳ *decir* (λέγοντος)[^P]
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: al tercer ser viviente. Está diciendo. El segundo ya habló; este es el tercero.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *al tercer ser viviente*. Está *diciendo*. El segundo ya habló; este es el tercero.
 
 ### Apocalipsis 6:5:13 — *Ven y mira*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. No es el tercer ser. Es a quien se le habla.
+> Se mueve <u>Yo</u>, Juan. No es el tercer ser. Es a quien se le habla.
 
 #### *Ven y mira*
-  > Eso es lo que dice. Por tercera vez: <u>Ven</u> y mira. El caballo negro, todavía no.
+  > Eso es lo que dice. Por tercera vez: <u>Ven</u> y mira.
 
 * *Yo, Juan* → *Ven*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Ven. Y mira queda en la misma línea, fuera de la flecha.
+  > A quien se manda es <u>Yo</u>, Juan.
 
 ### Apocalipsis 6:5:15 — *y vi, y he aquí, un caballo negro, y el que estaba sentado sobre él tenía una balanza en su mano*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Le dijeron Ven y mira. Ahora ve.
+> Se mueve <u>Yo</u>, Juan. Le dijeron *Ven y mira*. Ahora ve.
 
 #### *y vi, y he aquí, un caballo negro, y el que estaba sentado sobre él tenía una balanza en su mano*
 * *mira;* (καὶ)[^kai] une esta cláusula con la anterior (*Ven y mira*).
-  > Ese <u>mira</u> no suma otro mandato. Tras Ven y mira, Juan ve.
+  > Ese <u>mira</u> no suma otro mandato. Tras *Ven y mira*, Juan ve.
 
 * *Yo, Juan* → *vi* → *un caballo negro, y el que estaba sentado sobre él tenía una balanza*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: un caballo negro, y el que estaba sentado sobre él tenía una balanza. Ya no es rojo.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *un caballo negro*, y *el que estaba sentado sobre él tenía una balanza*. Ya no es *rojo*.
 
 + *que*
   * ↳ *sentado* (καθήμενος)[^P]
   * ↳ *tenía* (ἔχων)[^P]
-  > El que no queda suelto: está <u>sentado</u> sobre el caballo, y tenía una balanza en su mano. La voz, todavía no.
+  > El que está <u>sentado</u> sobre el caballo, y *tenía una balanza* en su mano.
 
 ### Apocalipsis 6:6:2 — *y oí una voz en medio de los cuatro seres vivientes que decía*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo ve el caballo negro. Ahora oye.
+> Se mueve <u>Yo</u>, Juan. Ya no solo ve el caballo negro. Ahora oye.
 
 #### *y oí una voz en medio de los cuatro seres vivientes que decía*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vi… un caballo negro…*).
   > Ese <u>y</u> no suma otro caballo. Del ver pasa al oír.
 
 * *Yo, Juan* → *oí* → *una voz*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz. En medio de los cuatro seres vivientes queda en la misma línea, fuera de la flecha.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *una voz*. *En medio de los cuatro seres vivientes* queda en la misma línea.
 
 + *voz*
   * ↳ *decía* (λέγουσαν)[^P]
-  > La voz no queda muda: <u>decía</u>. Qué, todavía no.
+  > La voz <u>decía</u>.
 
 ### Apocalipsis 6:6:11 — *Una medida de trigo por un denario*
 
-* Actores principales: *Una medida de trigo* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>Una</u> medida de trigo, uno.
+> Se mueve <u>Una</u> medida de trigo. Ya no es Juan.
 
 #### *Una medida de trigo por un denario*
   > Eso es lo que decía. No nombra al caballo. <u>Una</u> medida de trigo por un denario.
@@ -3705,139 +3689,131 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
   > El griego no trae verbo. La afirmación es <u>Una</u> medida de trigo por un denario.
 
 * *Una medida de trigo* → *trigo* → *por un denario*
-  > El primer slot es <u>Una</u> medida de trigo. Lo alcanzado: por un denario. La cebada, todavía no.
+  > Lo que se afirma es <u>Una</u> medida de trigo. Lo alcanzado: *por un denario*.
 
 ### Apocalipsis 6:6:16 — *y tres medidas de cebada por un denario*
 
-* Actores principales: *tres medidas de cebada* (1)
-  > El recuento ya no es el trigo. Quien ocupa la línea es <u>tres</u> medidas de cebada, uno.
+> Se mueven <u>tres</u> medidas de cebada. Ya no es el trigo.
 
 #### *y tres medidas de cebada por un denario*
 * *tres medidas* (καὶ)[^kai] une esta cláusula con la anterior (*Una medida de trigo por un denario*).
-  > Ese <u>tres medidas</u> no abre otro trigo. Suma cebada: tres medidas por un denario.
+  > Ese <u>tres medidas</u> no abre otro trigo. Suma cebada: *tres medidas por un denario*.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > Otra vez el griego no trae verbo. La afirmación es <u>tres</u> medidas de cebada por un denario.
 
 * *tres medidas de cebada* → *cebada* → *por un denario*
-  > El primer slot es <u>tres</u> medidas de cebada. Lo alcanzado: por un denario.
+  > Lo que se afirma es <u>tres</u> medidas de cebada. Lo alcanzado: *por un denario*.
 
 + *y no dañes el aceite ni el vino*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y tres medidas de cebada por un denario*).
-  > Ese <u>y</u> no suma otra medida. De los precios pasa a no dañes.
+  > Ese <u>y</u> no suma otra medida. De los precios pasa a *no dañes*.
 
   * *el que estaba sentado sobre él* → *no dañes* → *el aceite ni el vino*
-  > A quien se manda es <u>el</u> que estaba sentado sobre él. Lo alcanzado: el aceite ni el vino. El cuarto sello, todavía no.
+  > A quien se manda es <u>el</u> que estaba sentado sobre él. Lo alcanzado: *el aceite ni el vino*.
 
 ### Apocalipsis 6:7:8 — *oí la voz del cuarto ser viviente que decía*
 
-* Actores principales: *el cordero* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u> y a Yo, Juan. El cordero abre el cuarto; Juan oye.
+> Se mueven el <u>cordero</u> y Yo, Juan. El cordero abre el cuarto; Juan oye.
 
 - *Y cuando abrió el cuarto sello*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otro caballo negro. Fija el momento del oír: cuando abrió el cuarto sello.
+  > Ese <u>cuando</u> no abre otro caballo negro. Fija el momento del oír: *cuando abrió el cuarto sello*.
 
   * *el cordero* → *abrió* → *el cuarto sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el cuarto sello. Ya no es el tercero.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: *el cuarto sello*. Ya no es el tercero.
 
 #### *oí la voz del cuarto ser viviente que decía*
-  > Cuando abrió, <u>oí</u> la voz del cuarto ser viviente que decía. Qué, todavía no.
+  > Cuando abrió, <u>oí</u> la voz del cuarto ser viviente que decía.
 
 * *Yo, Juan* → *oí* → *la voz del cuarto ser viviente*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: la voz del cuarto ser viviente. El tercero ya habló; este es el cuarto.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *la voz del cuarto ser viviente*. El tercero ya habló; este es el cuarto.
 
 + *viviente*
   * ↳ *decía* (λέγοντος)[^P]
 
 ### Apocalipsis 6:7:14 — *Ven y mira*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. No es el cuarto ser. Es a quien se le habla.
+> Se mueve <u>Yo</u>, Juan. No es el cuarto ser. Es a quien se le habla.
 
 #### *Ven y mira*
-  > Eso es lo que dice. Por cuarta vez: <u>Ven</u> y mira. El caballo pálido, todavía no.
+  > Eso es lo que dice. Por cuarta vez: <u>Ven</u> y mira.
 
 * *Yo, Juan* → *Ven*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Ven. Y mira queda en la misma línea, fuera de la flecha.
+  > A quien se manda es <u>Yo</u>, Juan.
 
 ### Apocalipsis 6:8:2 — *y vi, y he aquí, un caballo pálido, y el que estaba sentado sobre él*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Le dijeron Ven y mira. Ahora ve.
+> Se mueve <u>Yo</u>, Juan. Le dijeron *Ven y mira*. Ahora ve.
 
 #### *y vi, y he aquí, un caballo pálido, y el que estaba sentado sobre él*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Ven y mira*).
-  > Ese <u>y</u> no suma otro mandato. Tras Ven y mira, Juan ve.
+  > Ese <u>y</u> no suma otro mandato. Tras *Ven y mira*, Juan ve.
 
 * *Yo, Juan* → *vi* → *un caballo pálido, y el que estaba sentado sobre él*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: un caballo pálido, y el que estaba sentado sobre él. Ya no es negro.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *un caballo pálido*, y *el que estaba sentado sobre él*. Ya no es *negro*.
 
 + *que*
   * ↳ *sentado* (καθήμενος)[^P]
-  > El que no queda suelto: está <u>sentado</u> sobre el caballo. El nombre, todavía no.
+  > El que está <u>sentado</u> sobre el caballo.
 
 ### Apocalipsis 6:8:12 — *tenía por nombre Muerte*
 
-* Actores principales: *el que estaba sentado sobre él* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> que estaba sentado sobre él, uno.
+> Se mueve <u>el</u> que estaba sentado sobre él. Ya no es Juan.
 
 #### *tenía por nombre Muerte*
-  > El que se veía ahora se nombra. <u>Tenía</u> por nombre Muerte.
+  > El que se veía ahora se nombra. <u>Tenía</u> por nombre *Muerte*.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone tenía. El nombre es <u>Muerte</u>.
+  > El griego no trae verbo. El español pone *tenía*. El nombre es <u>Muerte</u>.
 
 * *el que estaba sentado sobre él* → *tenía* → *por nombre Muerte*
-  > Quien tenía nombre es <u>el</u> que estaba sentado sobre él. Lo alcanzado: por nombre Muerte. El Hades, todavía no.
+  > Quien tenía nombre es <u>el</u> que estaba sentado sobre él. Lo alcanzado: *por nombre Muerte*.
 
 ### Apocalipsis 6:8:19 — *y el Hades lo seguía*
 
-* Actores principales: *el Hades* (1)
-  > El recuento ya no es el que estaba sentado. Quien ocupa la línea es <u>el</u> Hades, uno.
+> Se mueve <u>el</u> Hades. Ya no es el que estaba sentado.
 
 #### *y el Hades lo seguía*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*tenía por nombre Muerte*).
-  > Ese <u>y</u> no suma otro nombre. Tras Muerte: el Hades lo seguía.
+  > Ese <u>y</u> no suma otro nombre. Tras *Muerte*: *el Hades lo seguía*.
 
 * *el Hades* → *seguía*
-  > Quien sigue es <u>el</u> Hades. La flecha se detiene en seguía. Lo —Muerte— queda en la misma línea, fuera de la flecha. La autoridad, todavía no.
+  > Quien sigue es <u>el</u> Hades. *Lo*: *Muerte*.
 
 ### Apocalipsis 6:8:23 — *y les fue dada autoridad para matar sobre la cuarta parte de la tierra con espada, con hambre, con muerte y por las bestias de la tierra*
 
-* Actores principales: *autoridad* (1)
-  > El recuento ya no es el Hades. Quien ocupa la línea es <u>autoridad</u>, uno.
+> Se mueve <u>autoridad</u>. Ya no es el Hades.
 
 #### *y les fue dada autoridad para matar sobre la cuarta parte de la tierra con espada, con hambre, con muerte y por las bestias de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el Hades lo seguía*).
-  > Ese <u>y</u> no suma otro seguir. A ellos —Muerte y el Hades— les fue dada autoridad.
+  > Ese <u>y</u> no suma otro seguir. A ellos —*Muerte* y *el Hades*— *les fue dada autoridad*.
 
 * *autoridad* → *fue dada* → *para matar*
   * ↳ *matar* (ἀποκτεῖναι)[^I]
-  > Lo que fue dado es <u>autoridad</u>. Lo alcanzado: para matar. Sobre la cuarta parte de la tierra: con espada, con hambre, con muerte y por las bestias. El quinto sello, todavía no.
+  > Lo que fue dado es <u>autoridad</u>. Lo alcanzado: *para matar*. Sobre la cuarta parte de la tierra: *con espada*, *con hambre*, *con muerte* y *por las bestias*.
 
 ### Apocalipsis 6:9:7 — *vi debajo del altar las almas de los que habían sido sacrificados por la palabra de Dios y por el testimonio*
 
-* Actores principales: *el cordero* (1) · *las almas* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u>, a las almas y a Yo, Juan. El cordero abre el quinto; Juan ve almas.
+> Se mueven el <u>cordero</u>, *las almas* y Yo, Juan. El cordero abre el quinto; Juan ve almas.
 
 - *Y cuando abrió el quinto sello*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otro caballo pálido. Fija el momento del ver: cuando abrió el quinto sello.
+  > Ese <u>cuando</u> no abre otro caballo pálido. Fija el momento del ver: *cuando abrió el quinto sello*.
 
   * *el cordero* → *abrió* → *el quinto sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el quinto sello. Ya no es el cuarto. No dice Ven y mira.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: *el quinto sello*. Ya no es el cuarto. No dice *Ven y mira*.
 
 #### *vi debajo del altar las almas de los que habían sido sacrificados por la palabra de Dios y por el testimonio*
   > Cuando abrió, <u>vi</u> debajo del altar las almas. No un caballo.
 
 * *Yo, Juan* → *vi* → *las almas de los que habían sido sacrificados*
   * ↳ *sacrificados* (ἐσφαγμένων)[^P]
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: las almas de los que habían sido sacrificados. Por la palabra de Dios y por el testimonio queda en la misma línea, fuera de la flecha.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *las almas de los que habían sido sacrificados*. *Por la palabra de Dios* y *por el testimonio* quedan en la misma línea.
 
 - *que tenían*
   * *las almas* → *tenían* → *que*
-  > Quienes tenían son <u>las</u> almas. Lo alcanzado: que —el testimonio.
+  > Quienes tenían son <u>las</u> almas. Lo alcanzado: *que* —el testimonio.
 
 + *testimonio*
   * *que* (ἣν)[^rel]: describe a *testimonio*.
@@ -3845,8 +3821,7 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 6:10:2 — *y clamaban con gran voz, diciendo*
 
-* Actores principales: *las almas* (1)
-  > Siguen <u>las</u> almas, uno. Ya no solo se ven. Ahora claman.
+> Se mueven <u>las</u> almas. Ya no solo se ven. Ahora claman.
 
 #### *y clamaban con gran voz, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*vi debajo del altar las almas…*).
@@ -3854,312 +3829,294 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 * *las almas* → *clamaban*
   * ↳ *diciendo* (λέγοντες)[^P]
-  > Quienes claman son <u>las</u> almas. La flecha se detiene en clamaban. Con gran voz queda en la misma línea, fuera de la flecha. Qué dicen, todavía no.
+  > Quienes claman son <u>las</u> almas.
 
 ### Apocalipsis 6:10:15 — *Hasta cuándo, Soberano, el santo y el verdadero, no juzgas*
 
-* Actores principales: *Soberano, el santo y el verdadero* (1)
-  > El recuento ya no es las almas. Quien ocupa la línea es <u>Soberano</u>, el santo y el verdadero, uno. Es a quien claman.
+> Se mueve <u>Soberano</u>, el santo y el verdadero. Ya no son las almas. Es a quien claman.
 
 #### *Hasta cuándo, Soberano, el santo y el verdadero, no juzgas*
   > Eso es lo que dicen. No abren con quiénes son. <u>Hasta</u> cuándo no juzgas.
 
 * *Soberano, el santo y el verdadero* → *no juzgas*
-  > A quien se pregunta es <u>Soberano</u>, el santo y el verdadero. La flecha se detiene en no juzgas. Hasta cuándo queda en la misma línea, fuera de la flecha. Santo y verdadero ya se oyeron en Apocalipsis 3:7. Vengar, todavía no.
+  > A quien se pregunta es <u>Soberano</u>, el santo y el verdadero. *Santo* y *verdadero* ya se oyeron en Apocalipsis 3:7.
 
 ### Apocalipsis 6:10:17 — *y vengas nuestra sangre de los que habitan en la tierra*
 
-* Actores principales: *Soberano, el santo y el verdadero* (1)
-  > Sigue <u>Soberano</u>, el santo y el verdadero, uno. Ya no solo no juzgas. Ahora: vengas.
+> Se mueve <u>Soberano</u>, el santo y el verdadero. Ya no solo *no juzgas*. Ahora: *vengas*.
 
 #### *y vengas nuestra sangre de los que habitan en la tierra*
 * *juzgas* (καὶ)[^kai] une esta cláusula con la anterior (*Hasta cuándo… no juzgas*).
-  > Ese <u>juzgas</u> no suma otro Hasta cuándo. De no juzgas pasa a vengas.
+  > Ese <u>juzgas</u> no suma otro *Hasta cuándo*. De *no juzgas* pasa a *vengas*.
 
 * *Soberano, el santo y el verdadero* → *vengas* → *nuestra sangre*
   * ↳ *habitan* (κατοικούντων)[^P]
-  > A quien se pide es el mismo <u>Soberano</u>. Lo alcanzado: nuestra sangre. De los que habitan en la tierra queda en la misma línea, fuera de la flecha. Las túnicas, todavía no.
+  > A quien se pide es el mismo <u>Soberano</u>. Lo alcanzado: *nuestra sangre*. *De los que habitan en la tierra* queda en la misma línea.
 
 ### Apocalipsis 6:11:2 — *Y se les dieron a cada uno túnicas blancas*
 
-* Actores principales: *túnicas blancas* (1)
-  > El recuento ya no es Soberano. Quien ocupa la línea es <u>túnicas</u> blancas, uno.
+> Se mueven <u>túnicas</u> blancas. Ya no es Soberano.
 
 #### *Y se les dieron a cada uno túnicas blancas*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y vengas nuestra sangre…*).
-  > Ese <u>Y</u> no suma otro vengas. A las almas: se les dieron túnicas blancas.
+  > Ese <u>Y</u> no suma otro *vengas*. A las almas: *se les dieron túnicas blancas*.
 
 * *túnicas blancas* → *se dieron*
-  > Quienes se dieron son <u>túnicas</u> blancas. La flecha se detiene en se dieron. A cada uno —las almas— queda en la misma línea, fuera de la flecha. Blanco ya se oyó en Apocalipsis 3:4 y Apocalipsis 3:5. Qué se les dice, todavía no.
+  > Quienes se dieron son <u>túnicas</u> blancas. *A cada uno*: las almas. Blanco ya se oyó en Apocalipsis 3:4 y Apocalipsis 3:5.
 
 ### Apocalipsis 6:11:8 — *y se les dijo*
 
-* Actores principales: *las almas* (1) · *que descansaran* (1) · *sus compañeros siervos y sus hermanos* (1)
-  > El recuento pone a <u>las</u> almas, a que descansaran y a sus compañeros siervos y sus hermanos. A las almas se les habla; lo dicho es descansar; los compañeros todavía se completan.
+> Se mueven <u>las</u> almas, *que descansaran*, y *sus compañeros siervos y sus hermanos*. A las almas se les habla; lo dicho es descansar; los compañeros todavía se completan.
 
 #### *y se les dijo*
 * *se* (καὶ)[^kai] une esta cláusula con la anterior (*Y se les dieron a cada uno túnicas blancas*).
-  > Ese <u>se</u> no suma otras túnicas. Ya se les dieron. Ahora se les dijo.
+  > Ese <u>se</u> no suma otras túnicas. Ya se les dieron. Ahora *se les dijo*.
 
 * *que descansaran* → *se dijo*
-  > Lo que se dijo es <u>que</u> descansaran. La flecha se detiene en se dijo. Pedían Hasta cuándo no juzgas y vengas. La palabra que oyen no es esa, todavía.
+  > Lo que se dijo es <u>que</u> descansaran. Pedían *Hasta cuándo… no juzgas* y *vengas*. La palabra que oyen no es esa.
 
 - *que descansaran todavía un poco de tiempo*
   * *que descansaran* (ἵνα)[^hina]
-  > Ese <u>que descansaran</u> no abre otro se les dijo. No es un para qué de se dijo. Es lo que se les dijo: descansaran todavía un poco de tiempo.
+  > Ese <u>que descansaran</u> no abre otro *se les dijo*. No es un propósito de *se dijo*. Es lo que se les dijo: *descansaran todavía un poco de tiempo*.
 
   * *las almas* → *descansaran*
-  > Quienes descansan son <u>las</u> almas, las que clamaban. La flecha se detiene en descansaran. Todavía un poco de tiempo queda en la misma línea. Hasta cuándo dura ese poco, anidado.
+  > Quienes descansan son <u>las</u> almas, las que clamaban.
 
   - *hasta que se completen también sus compañeros siervos y sus hermanos que iban a ser matados como ellos*
     * *hasta que* (ἕως)[^conn]
-    > Ese <u>hasta que</u> no afirma que ya se completaron. Marca hasta cuándo el descanso: hasta que se completen también ellos.
+    > Ese <u>hasta que</u> no afirma que ya se completaron. Marca hasta cuándo el descanso: *hasta que se completen también ellos*.
 
     * *sus compañeros siervos y sus hermanos* → *se completen*
-    > Quienes se completen son <u>sus</u> compañeros siervos y sus hermanos. La flecha se detiene en se completen. También: no solo las almas de ahora. El sexto sello, todavía no.
+    > Quienes se completen son <u>sus</u> compañeros siervos y sus hermanos. *También*: no solo las almas de ahora.
 
     + *hermanos*
       * ↳ *iban* (μέλλοντες)[^P]
       * ↳ *ser* (ἀποκτέννεσθαι)[^I]
-      > No quedan hermanos quietos. Iban a <u>ser</u> matados como ellos —como las que ya están bajo el altar.
+      > Iban a <u>ser</u> matados como ellos —como las que ya están bajo el altar.
 
 ### Apocalipsis 6:12:2 — *Y vi*
 
-* Actores principales: *el cordero* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>cordero</u> y a Yo, Juan. El cordero abre el sexto; Juan ve.
+> Se mueven el <u>cordero</u> y Yo, Juan. El cordero abre el sexto; Juan ve.
 
 #### *Y vi*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y se les dijo*).
-  > Ese <u>Y</u> no suma otro descansen. Tras el poco de tiempo: Juan ve.
+  > Ese <u>Y</u> no suma otro *descansaran*. Tras el poco de tiempo: Juan ve.
 
 * *Yo, Juan* → *vi*
-  > Quien ve es <u>Yo</u>, Juan. La flecha se detiene en vi. Qué, cuando abre el sexto.
+  > Quien ve es <u>Yo</u>, Juan.
 
 - *cuando abrió el sexto sello*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no abre otro altar. Fija el ver en otro sello: el sexto.
+  > Ese <u>cuando</u> no abre otro altar. Fija el ver en otro sello: *el sexto*.
 
   * *el cordero* → *abrió* → *el sexto sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el sexto sello. Ya no es el quinto. Otra vez no dice Ven y mira. Qué hubo, todavía no.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: *el sexto sello*. Ya no es el quinto. Otra vez no dice *Ven y mira*.
 
 ### Apocalipsis 6:12:12 — *y he aquí, hubo un gran terremoto*
 
-* Actores principales: *un gran terremoto* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>un</u> gran terremoto, uno.
+> Se mueve <u>un</u> gran terremoto. Ya no es Juan.
 
 #### *y he aquí, hubo un gran terremoto*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi*).
-  > Ese <u>y</u> no suma otro ver. Tras el sexto sello, he aquí.
+  > Ese <u>y</u> no suma otro ver. Tras el sexto sello, *he aquí*.
 
 * *un gran terremoto* → *hubo*
-  > Quien hubo es <u>un</u> gran terremoto. La flecha se detiene en hubo. No es un caballo. El sol, todavía no.
+  > Quien hubo es <u>un</u> gran terremoto. No es un caballo.
 
 ### Apocalipsis 6:12:16 — *y el sol se volvió negro como tela de saco de pelo*
 
-* Actores principales: *el sol* (1)
-  > El recuento ya no es el terremoto. Quien ocupa la línea es <u>el</u> sol, uno.
+> Se mueve <u>el</u> sol. Ya no es el terremoto.
 
 #### *y el sol se volvió negro como tela de saco de pelo*
 * *hubo* (καὶ)[^kai] une esta cláusula con la anterior (*y he aquí, hubo un gran terremoto*).
-  > Ese <u>hubo</u> no suma otro terremoto. Tras el terremoto: el sol.
+  > Ese <u>hubo</u> no suma otro terremoto. Tras el terremoto: *el sol*.
 
 * *el sol* → *se volvió*
-  > Quien se volvió es <u>el</u> sol. La flecha se detiene en se volvió. Negro como tela de saco de pelo queda en la misma línea, fuera de la flecha. La luna, todavía no.
+  > Quien se volvió es <u>el</u> sol. *Negro como tela de saco de pelo* queda en la misma línea.
 
 ### Apocalipsis 6:12:25 — *y la luna se volvió como sangre*
 
-* Actores principales: *la luna* (1)
-  > El recuento ya no es el sol. Quien ocupa la línea es <u>la</u> luna, uno.
+> Se mueve <u>la</u> luna. Ya no es el sol.
 
 #### *y la luna se volvió como sangre*
 * *de pelo* (καὶ)[^kai] une esta cláusula con la anterior (*y el sol se volvió negro como tela de saco de pelo*).
-  > Ese <u>de pelo</u> no suma otro sol. Tras el sol: la luna.
+  > Ese <u>de pelo</u> no suma otro sol. Tras el sol: *la luna*.
 
 * *la luna* → *se volvió*
-  > Quien se volvió es <u>la</u> luna. La flecha se detiene en se volvió —el mismo se volvió del sol. Como sangre queda en la misma línea, fuera de la flecha. Las estrellas, todavía no.
+  > Quien se volvió es <u>la</u> luna —el mismo *se volvió* del sol. *Como sangre* queda en la misma línea.
 
 ### Apocalipsis 6:13:6 — *y las estrellas del cielo cayeron a la tierra*
 
-* Actores principales: *las estrellas del cielo* (1) · *una higuera* (1)
-  > El recuento pone a <u>las</u> estrellas del cielo y a una higuera. Las estrellas caen; la higuera compara.
+> Se mueven <u>las</u> estrellas del cielo y *una higuera*. Las estrellas caen; la higuera compara.
 
 #### *y las estrellas del cielo cayeron a la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y la luna se volvió como sangre*).
-  > Ese <u>y</u> no suma otra luna. Tras la luna: las estrellas.
+  > Ese <u>y</u> no suma otra luna. Tras la luna: *las estrellas*.
 
 * *las estrellas del cielo* → *cayeron*
-  > Quienes caen son <u>las</u> estrellas del cielo. La flecha se detiene en cayeron. A la tierra queda en la misma línea, fuera de la flecha. Cómo, anidado.
+  > Quienes caen son <u>las</u> estrellas del cielo.
 
 - *como una higuera arroja sus higos verdes, sacudida por un gran viento*
   * *como* (ὡς)[^hos]
-  > Ese <u>como</u> no abre otras estrellas. Trae el cómo del caer: como una higuera arroja.
+  > Ese <u>como</u> no abre otras estrellas. Trae el cómo del caer: *como una higuera arroja*.
 
   * *una higuera* → *arroja* → *sus higos verdes*
-  > Quien arroja es <u>una</u> higuera. Lo alcanzado: sus higos verdes. El cielo mismo, todavía no.
+  > Quien arroja es <u>una</u> higuera. Lo alcanzado: *sus higos verdes*.
 
   + *higuera*
     * ↳ *sacudida* (σειομένη)[^P]
-    > No queda una higuera quieta. Está <u>sacudida</u> por un gran viento.
+    > La higuera está <u>sacudida</u> por un gran viento.
 
 ### Apocalipsis 6:14:4 — *y el cielo se apartó como un libro que se enrolla*
 
-* Actores principales: *el cielo* (1)
-  > El recuento ya no es la higuera. Quien ocupa la línea es <u>el</u> cielo, uno.
+> Se mueve <u>el</u> cielo. Ya no es la higuera.
 
 #### *y el cielo se apartó como un libro que se enrolla*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y las estrellas del cielo cayeron a la tierra*).
-  > Ese <u>y</u> no suma otras estrellas. Tras las estrellas: el cielo mismo.
+  > Ese <u>y</u> no suma otras estrellas. Tras las estrellas: *el cielo* mismo.
 
 * *el cielo* → *se apartó*
-  > Quien se apartó es <u>el</u> cielo. La flecha se detiene en se apartó. Como un libro que se enrolla queda en la misma línea.
+  > Quien se apartó es <u>el</u> cielo. *Como un libro que se enrolla* queda en la misma línea.
 
 + *libro*
   * ↳ *enrolla* (ἑλισσόμενον)[^P]
-  > El libro no queda quieto. Se <u>enrolla</u>. Así el cielo se apartó.
+  > El libro se <u>enrolla</u>. Así el cielo *se apartó*.
 
 + *y toda montaña e isla fueron removidas de sus lugares*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el cielo se apartó como un libro que se enrolla*).
-  > Ese <u>y</u> no suma otro cielo. Tras el cielo: montaña e isla.
+  > Ese <u>y</u> no suma otro cielo. Tras el cielo: *montaña e isla*.
 
   * *toda montaña e isla* → *fueron removidas*
-  > Quienes fueron removidas son <u>toda</u> montaña e isla. La flecha se detiene en fueron removidas. De sus lugares queda en la misma línea, fuera de la flecha. Los reyes, todavía no.
+  > Quienes fueron removidas son <u>toda</u> montaña e isla.
 
 ### Apocalipsis 6:15:23 — *y los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre se escondieron en las cuevas y entre las rocas de las montañas*
 
-* Actores principales: *los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre* (1)
-  > El recuento ya no es el cielo. Quien ocupa la línea es <u>los</u> reyes de la tierra —y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre—, uno. Gente, no astros.
+> Se mueven <u>los</u> reyes de la tierra —y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre—. Ya no es el cielo. Gente, no astros.
 
 #### *y los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre se escondieron en las cuevas y entre las rocas de las montañas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y toda montaña e isla fueron removidas de sus lugares*).
-  > Ese <u>y</u> no suma otra montaña removida. Tras montaña e isla: se escondieron.
+  > Ese <u>y</u> no suma otra montaña removida. Tras montaña e isla: *se escondieron*.
 
 * *los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre* → *se escondieron*
-  > Quienes se esconden son <u>los</u> reyes de la tierra, y con ellos la lista hasta todo siervo y todo libre. La flecha se detiene en se escondieron. Dónde: en las cuevas y entre las rocas de las montañas —las que acababan de ser removidas. Qué dicen, todavía no.
+  > Quienes se esconden son <u>los</u> reyes de la tierra, y con ellos la lista hasta *todo siervo y todo libre*. Dónde: *en las cuevas y entre las rocas de las montañas* —las que acababan de ser removidas.
 
 ### Apocalipsis 6:16:2 — *y dicen a las montañas y a las rocas*
 
-* Actores principales: *los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre* (1)
-  > Siguen <u>los</u> reyes de la tierra —y la misma lista—, uno. Ya no solo se esconden. Ahora dicen.
+> Se mueven <u>los</u> reyes de la tierra —y la misma lista—. Ya no solo se esconden. Ahora dicen.
 
 #### *y dicen a las montañas y a las rocas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y los reyes de la tierra… se escondieron…*).
   > Ese <u>y</u> no suma otro esconderse. Del esconderse pasa al decir.
 
 * *los reyes de la tierra, y los magnates, y los ricos, y los comandantes, y los poderosos, y todo siervo y todo libre* → *dicen*
-  > Quienes dicen son <u>los</u> reyes de la tierra, y con ellos la misma lista. La flecha se detiene en dicen. A las montañas y a las rocas —donde se escondieron— queda en la misma línea. Qué, todavía no.
+  > Quienes dicen son <u>los</u> reyes de la tierra, y con ellos la misma lista. *A las montañas y a las rocas* —donde se escondieron— queda en la misma línea.
 
 ### Apocalipsis 6:16:8 — *Caigan sobre nosotros*
 
-* Actores principales: *las montañas y a las rocas* (1)
-  > El recuento ya no es la lista. Quien ocupa la línea es <u>las</u> montañas y a las rocas, uno. Es a quienes se les habla.
+> Se mueven <u>las</u> montañas y a las rocas. Ya no es la lista. Es a quienes se les habla.
 
 #### *Caigan sobre nosotros*
   > Eso es lo que dicen. No piden que se quiten. <u>Caigan</u> sobre nosotros.
 
 * *las montañas y a las rocas* → *Caigan*
-  > A quienes se manda son <u>las</u> montañas y a las rocas —las mismas donde se escondieron. La flecha se detiene en Caigan. Sobre nosotros queda en la misma línea, fuera de la flecha. Escóndannos, todavía no.
+  > A quienes se manda son <u>las</u> montañas y a las rocas —las mismas donde se escondieron.
 
 ### Apocalipsis 6:16:12 — *y escóndannos del rostro del que está sentado en el trono y de la ira del cordero*
 
-* Actores principales: *el gran día de su ira* (1) · *las montañas y a las rocas* (1) · *quién* (1)
-  > El recuento pone al <u>gran</u> día de su ira, a las montañas y a las rocas, y a quién. Se les pide otra vez a las montañas; el día se nombra; quién queda abierto.
+> Se mueven el <u>gran</u> día de su ira, *las montañas y a las rocas*, y *quién*. Se les pide otra vez a las montañas; el día se nombra; *quién* queda abierto.
 
 #### *y escóndannos del rostro del que está sentado en el trono y de la ira del cordero*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Caigan sobre nosotros*).
-  > Ese <u>y</u> no suma otro Caigan. De Caigan pasa a escóndannos.
+  > Ese <u>y</u> no suma otro *Caigan*. De *Caigan* pasa a *escóndannos*.
 
 * *las montañas y a las rocas* → *escóndannos*
-  > A quienes se manda son las mismas <u>las</u> montañas y a las rocas. La flecha se detiene en escóndannos. De qué: del rostro del que está sentado en el trono y de la ira del cordero.
+  > A quienes se manda son las mismas <u>las</u> montañas y a las rocas. De qué: *del rostro del que está sentado en el trono* y *de la ira del cordero*.
 
 + *trono*
   * ↳ *sentado* (καθημένου)[^P]
-  > No afirma que el trono se sienta. <u>Sentado</u> va con el que —el de Apocalipsis 4:2—. Y de la ira del cordero queda en la misma línea.
+  > No afirma que el trono se sienta. <u>Sentado</u> va con *el que* —el de Apocalipsis 4:2—. Y *de la ira del cordero* queda en la misma línea.
 
 - *porque ha llegado el gran día de su ira*
-  * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro escóndannos. Da la razón: ha llegado el gran día de su ira.
+  * *porque* (ὅτι)[^hoti] introduce la razón de *escóndannos*.
+  > Ese <u>porque</u> no abre otro *escóndannos*. Da la razón: *ha llegado el gran día de su ira*.
 
   * *el gran día de su ira* → *ha llegado*
-  > Quien ha llegado es <u>el</u> gran día de su ira. La flecha se detiene en ha llegado.
+  > Quien ha llegado es <u>el</u> gran día de su ira.
 
 - *y quién puede mantenerse en pie*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*porque ha llegado el gran día de su ira*).
-  > Ese <u>y</u> no abre otro porque. Sigue la misma razón: quién puede mantenerse en pie.
+  > Ese <u>y</u> no abre otro *porque*. Sigue la misma razón: *quién puede mantenerse en pie*.
 
   * *quién* → *puede* → *mantenerse en pie*
     * ↳ *pie* (σταθῆναι)[^I]
 
-  > Quien puede es <u>quién</u> —no se nombra. Lo alcanzado: mantenerse en pie. La pregunta no se responde aquí. Después de esto, todavía no.
+  > Quien puede es <u>quién</u> —no se nombra. Lo alcanzado: *mantenerse en pie*. La pregunta no se responde aquí.
 
 ### Apocalipsis 7:1:3 — *Y después de esto vi a cuatro ángeles de pie en las cuatro esquinas de la tierra reteniendo los cuatro vientos de la tierra*
 
-* Actores principales: *viento* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>viento</u> y a Yo, Juan. Juan ve otra vez; el viento es el que no debe soplar.
+> Se mueven <u>viento</u> y Yo, Juan. Juan ve otra vez; el viento es el que no debe soplar.
 
 #### *Y después de esto vi a cuatro ángeles de pie en las cuatro esquinas de la tierra reteniendo los cuatro vientos de la tierra*
-  > Tras quién puede mantenerse en pie: <u>Después</u> de esto vi. No responde la pregunta. Qué ve, en la línea.
+  > Tras *quién puede mantenerse en pie*: <u>Después</u> de esto vi. No responde la pregunta.
 
 * *Yo, Juan* → *vi* → *a cuatro ángeles*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a cuatro ángeles. De pie en las cuatro esquinas, reteniendo los cuatro vientos de la tierra.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *a cuatro ángeles*. *De pie* en las cuatro esquinas, *reteniendo* los cuatro vientos de la tierra.
 
 + *ángeles*
   * ↳ *pie* (ἑστῶτας)[^P]
   * ↳ *reteniendo* (κρατοῦντας)[^P]
-  > No quedan sueltos. Están de pie, y están <u>reteniendo</u> los cuatro vientos de la tierra.
+  > Están de pie, y están <u>reteniendo</u> los cuatro vientos de la tierra.
 
 - *para que no soplara viento sobre la tierra*
-  * *de* (ἵνα)[^hina]
-  > Ese <u>de</u> no abre otro ver. Trae el para qué de reteniendo: que no soplara viento sobre la tierra.
+  * *de* (ἵνα)[^hina] introduce el propósito de *reteniendo*.
+  > Ese <u>de</u> no abre otro ver. Trae el propósito de *reteniendo*: *que no soplara viento sobre la tierra*.
 
   * *viento* → *no soplara*
-  > Quien no sopla es <u>viento</u>. La flecha se detiene en no soplara. Sobre la tierra queda en la misma línea, fuera de la flecha. Otro ángel, todavía no.
+  > Quien no sopla es <u>viento</u>.
 
 ### Apocalipsis 7:2:2 — *y vi a otro ángel que subía desde el oriente del sol que tenía el sello del Dios vivo*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no es el viento. Otra vez ve.
+> Se mueve <u>Yo</u>, Juan. Ya no es el viento. Otra vez ve.
 
 #### *y vi a otro ángel que subía desde el oriente del sol que tenía el sello del Dios vivo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y después de esto vi a cuatro ángeles…*).
-  > Ese <u>y</u> no suma otros cuatro. Tras los cuatro: otro ángel.
+  > Ese <u>y</u> no suma otros cuatro. Tras los cuatro: *otro ángel*.
 
 * *Yo, Juan* → *vi* → *a otro ángel*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a otro ángel. Ya no es uno de los cuatro.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *a otro ángel*. Ya no es uno de los cuatro.
 
 + *ángel*
   * ↳ *subía* (ἀναβαίνοντα)[^P]
   * ↳ *tenía* (ἔχοντα)[^P]
-  > No queda suelto. Subía desde el oriente del sol, y <u>tenía</u> el sello del Dios vivo.
+  > *Subía* desde el oriente del sol, y <u>tenía</u> el sello del Dios vivo.
 
 + *Dios*
   * ↳ *vivo* (ζῶντος)[^P]
-  > *Vivo* no cuelga del sol. Describe a <u>Dios</u>: el Dios vivo. Qué clama, todavía no.
+  > *Vivo* no cuelga del sol. Describe a <u>Dios</u>: *el Dios vivo*.
 
 ### Apocalipsis 7:2:14 — *y clamó con gran voz a los cuatro ángeles*
 
-* Actores principales: *dañar la tierra y el mar* (1) · *otro ángel* (1)
-  > El recuento pone a <u>dañar</u> la tierra y el mar y a otro ángel. El otro clama; dañar es lo que les fue dado.
+> Se mueve <u>otro</u> ángel. Ya no solo tiene el sello: clama a los cuatro.
 
 #### *y clamó con gran voz a los cuatro ángeles*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vi a otro ángel…*).
-  > Ese <u>y</u> no suma otro ver. El otro ángel ahora clama.
+  > Ese <u>y</u> no suma otro ver. Tras *tenía el sello*: *clamó*.
 
 * *otro ángel* → *clamó*
-  > Quien clama es <u>otro</u> ángel. La flecha se detiene en clamó. Con gran voz, a los cuatro ángeles, queda en la misma línea. Qué, todavía no.
+  > Quien clama es <u>otro</u> ángel. Con gran voz, a los cuatro. Qué dice, todavía no.
 
 - *a quienes les fue dado dañar la tierra y el mar*
-  * *quienes* (οἷς)[^rel]: describe a *ángeles*.
+  * *quienes* (οἷς)[^rel]: describe a *los cuatro ángeles*.
   > Ese <u>quienes</u> no abre otros cuatro. Describe a los cuatro: a quienes les fue dado.
 
   * *dañar la tierra y el mar* → *fue dado*
     * ↳ *dañar* (ἀδικῆσαι)[^I]
 
-  > Lo que fue dado es <u>dañar</u> la tierra y el mar. La flecha se detiene en fue dado. No dañen, todavía no.
+  > Lo que fue dado es <u>dañar</u> la tierra y el mar. Quién daña ahora, la línea no lo dice.
 
 ### Apocalipsis 7:3:3 — *dañen la tierra, ni el mar, ni los árboles*
 
-* Actores principales: *los cuatro ángeles* (1) · *otro ángel* (1)
-  > El recuento pone a <u>los</u> cuatro ángeles y a otro ángel. A los cuatro se les manda; el otro sella.
+> A <u>los</u> cuatro se les manda. El otro —quien clama— es quien sella.
 
 + *diciendo: No*
   > Eso es lo que clama. Abre con <u>No</u>. Qué no, la línea.
@@ -4168,7 +4125,7 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
   > <u>No</u> dañen. Ya no solo tierra y mar: también los árboles.
 
 * *los cuatro ángeles* → *No dañen* → *la tierra, ni el mar, ni los árboles*
-  > A quienes se manda son <u>los</u> cuatro ángeles, a quienes les fue dado dañar. Lo alcanzado: la tierra, ni el mar, ni los árboles. Hasta cuándo, anidado.
+  > A quienes se manda son <u>los</u> cuatro, a quienes les fue dado dañar. Lo alcanzado: la tierra, ni el mar, ni los árboles.
 
 + *ángel*
   * ↳ *diciendo* (λέγων)[^P]
@@ -4179,20 +4136,19 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
   > Ese <u>hasta que</u> no afirma que ya sellaron. Marca hasta cuándo no dañar: hasta que hayamos sellado.
 
   * *otro ángel* → *hayamos sellado* → *a los siervos de nuestro Dios*
-  > Quien sella es <u>otro</u> ángel. Lo alcanzado: a los siervos de nuestro Dios. En sus frentes queda en la misma línea, fuera de la flecha. El número, todavía no.
+  > Quien sella es <u>otro</u> ángel. Lo alcanzado: a los siervos de nuestro Dios. En sus frentes queda en la misma línea. Cuántos, todavía no.
 
 ### Apocalipsis 7:4:2 — *Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de toda tribu de los hijos de Israel*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Ya no es el otro ángel. Ahora oye.
+> Se mueve <u>Yo</u>, Juan. Ya no es el otro ángel. Ahora oye.
 
 #### *Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de toda tribu de los hijos de Israel*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*hasta que hayamos sellado…*).
-  > Ese <u>Y</u> no suma otro sellen. Tras sellar a los siervos: Juan oye el número.
+  > Ese <u>Y</u> no suma otro sellen. Tras *hasta que hayamos sellado*: Juan oye el número.
 
 * *Yo, Juan* → *oí* → *el número de los sellados*
   * ↳ *sellados* (ἐσφραγισμένων)[^P]
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: el número de los sellados. No cuelga de oí como un adorno. Son los sellados —los siervos de Apocalipsis 7:3.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: el número de los sellados —los siervos a quienes se había de sellar.
 
 + *mil*
   * ↳ *sellados* (ἐσφραγισμένοι)[^P]
@@ -4200,17 +4156,16 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:5:5 — *de la tribu de Judá, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>doce</u> mil sellados, uno.
+> Ya no oye el total. La lista abre con <u>doce</u> mil sellados —de Judá.
 
 #### *de la tribu de Judá, doce mil sellados*
-  > El número se abre. Primera tribu: <u>Judá</u>. Doce mil sellados.
+  > Primera tribu: <u>Judá</u>. Doce mil sellados.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. La afirmación es de la tribu de Judá: <u>doce</u> mil sellados.
 
 * *doce mil sellados* → *mil* → *de la tribu de Judá*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Judá. Judá ya se oyó en Apocalipsis 5:5. Rubén, todavía no.
+  > Quien ocupa la línea son <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Judá. Judá ya se oyó en Apocalipsis 5:5. Rubén, todavía no.
 
 + *mil*
   * ↳ *sellados* (ἐσφραγισμένοι)[^P]
@@ -4218,157 +4173,146 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:5:11 — *de la tribu de Rubén, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. Ya no es Judá. Ahora Rubén.
+> Ya no es Judá. Entra <u>Rubén</u>. Misma cifra: doce mil sellados.
 
 #### *de la tribu de Rubén, doce mil sellados*
   > Segunda tribu: <u>Rubén</u>. Otra vez doce mil sellados.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Otra vez el griego no trae verbo. Ahora el nombre es <u>Rubén</u>.
+  > Misma forma nominal. Lo nuevo es el nombre: <u>Rubén</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Rubén*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Rubén. Gad, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Rubén. Gad, todavía no.
 
 ### Apocalipsis 7:5:16 — *de la tribu de Gad, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. No cambia la cifra. Cambia el nombre.
+> No cambia la cifra. Cambia el nombre: <u>Gad</u>.
 
 #### *de la tribu de Gad, doce mil sellados*
-  > Tercera: <u>Gad</u>. El mismo doce mil.
+  > Tercera tribu: <u>Gad</u>. El mismo doce mil sellados.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Sin verbo otra vez. Lo que cambia es <u>Gad</u>.
+  > Misma forma nominal. Lo nuevo es <u>Gad</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Gad*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Gad. Aser, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Gad. Aser, todavía no.
 
 ### Apocalipsis 7:6:5 — *de la tribu de Aser, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento no suelta a <u>doce</u> mil sellados, uno. Aser ocupa el nombre.
+> Entra <u>Aser</u>. Mismo sello, mismo número.
 
 #### *de la tribu de Aser, doce mil sellados*
-  > Entra <u>Aser</u>. Mismo sello, mismo número.
+  > Cuarta tribu: <u>Aser</u>. Doce mil sellados otra vez.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego sigue sin verbo. El nombre ahora es <u>Aser</u>.
+  > Misma forma nominal. Lo nuevo es <u>Aser</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Aser*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Aser. Neftalí, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Aser. Neftalí, todavía no.
 
 ### Apocalipsis 7:6:10 — *de la tribu de Neftalí, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento es otra vez <u>doce</u> mil sellados, uno. El nombre es Neftalí.
+> Entra <u>Neftalí</u>. Doce mil sellados otra vez.
 
 #### *de la tribu de Neftalí, doce mil sellados*
-  > <u>Neftalí</u> entra en la lista. Doce mil, otra vez.
+  > Quinta tribu: <u>Neftalí</u>. Misma cifra.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Nominal otra vez. El peso cae en <u>Neftalí</u>.
+  > Misma forma nominal. Lo nuevo es <u>Neftalí</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Neftalí*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Neftalí. Manasés, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Neftalí. Manasés, todavía no.
 
 ### Apocalipsis 7:6:15 — *de la tribu de Manasés, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. Manasés toma la línea.
+> Entra <u>Manasés</u>. El número no cambia.
 
 #### *de la tribu de Manasés, doce mil sellados*
-  > Ahora <u>Manasés</u>. El número no cambia.
+  > Sexta tribu: <u>Manasés</u>. Doce mil sellados otra vez.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Sin verbo. En la flecha el medio es <u>Manasés</u>, no mil.
+  > Misma forma nominal. Lo nuevo no es solo el nombre: el medio de la línea es <u>Manasés</u>, no *mil*.
 
 * *doce mil sellados* → *Manasés* → *de la tribu de Manasés*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Manasés. Simeón, todavía no.
+  > Quien ocupa la línea son <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Manasés. Simeón, todavía no.
 
 ### Apocalipsis 7:7:5 — *de la tribu de Simeón, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento vuelve a <u>doce</u> mil sellados, uno. Simeón ocupa el nombre.
+> Entra <u>Simeón</u>. Doce mil sellados otra vez.
 
 #### *de la tribu de Simeón, doce mil sellados*
-  > Sigue la lista. <u>Simeón</u>: doce mil sellados.
+  > Séptima tribu: <u>Simeón</u>. Misma cifra.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. Lo que se afirma es <u>Simeón</u>.
+  > Misma forma nominal. Lo nuevo es <u>Simeón</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Simeón*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Simeón. Leví, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Simeón. Leví, todavía no.
 
 ### Apocalipsis 7:7:10 — *de la tribu de Leví, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. El nombre ahora es Leví.
+> Entra <u>Leví</u>. No se le da otra cifra.
 
 #### *de la tribu de Leví, doce mil sellados*
-  > <u>Leví</u> entra. No se le da otra cifra.
+  > Octava tribu: <u>Leví</u>. Doce mil sellados otra vez.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Sigue sin verbo. El nombre es <u>Leví</u>.
+  > Misma forma nominal. Lo nuevo es <u>Leví</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Leví*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Leví. Isacar, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Leví. Isacar, todavía no.
 
 ### Apocalipsis 7:7:15 — *de la tribu de Isacar, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento sigue en <u>doce</u> mil sellados, uno. Isacar toma el nombre.
+> Entra <u>Isacar</u>. Doce mil sellados otra vez.
 
 #### *de la tribu de Isacar, doce mil sellados*
-  > Entra <u>Isacar</u>. Doce mil, otra vez.
+  > Novena tribu: <u>Isacar</u>. Misma cifra.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Nominal. En la flecha el medio nombra a <u>Isacar</u>.
+  > Misma forma nominal. El medio de la línea es <u>Isacar</u>, no *mil*.
 
 * *doce mil sellados* → *Isacar* → *de la tribu de Isacar*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Isacar. Zabulón, todavía no.
+  > Quien ocupa la línea son <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Isacar. Zabulón, todavía no.
 
 ### Apocalipsis 7:8:5 — *de la tribu de Zabulón, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. Zabulón ocupa la línea.
+> Entra <u>Zabulón</u>. No se corta el sello.
 
 #### *de la tribu de Zabulón, doce mil sellados*
-  > Ahora <u>Zabulón</u>. No se corta el sello.
+  > Décima tribu: <u>Zabulón</u>. Doce mil sellados otra vez.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego sigue sin verbo. El nombre es <u>Zabulón</u>.
+  > Misma forma nominal. Lo nuevo es <u>Zabulón</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de Zabulón*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Zabulón. José, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Zabulón. José, todavía no.
 
 ### Apocalipsis 7:8:10 — *de la tribu de José, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > El recuento sigue en <u>doce</u> mil sellados, uno. El nombre es José.
+> Entra <u>José</u>. Manasés ya se oyó; ahora se nombra José.
 
 #### *de la tribu de José, doce mil sellados*
-  > Entra <u>José</u>. Manasés ya se oyó; ahora se nombra José.
+  > Undécima tribu: <u>José</u>. Doce mil sellados otra vez.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Sin verbo. Lo que se afirma es <u>José</u>.
+  > Misma forma nominal. Lo nuevo es <u>José</u>.
 
 * *doce mil sellados* → *mil* → *de la tribu de José*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de José. Benjamín, todavía no.
+  > Otra vez <u>doce</u> mil sellados. Lo alcanzado: de la tribu de José. Benjamín, todavía no.
 
 ### Apocalipsis 7:8:15 — *de la tribu de Benjamín, doce mil sellados*
 
-* Actores principales: *doce mil sellados* (1)
-  > Siguen <u>doce</u> mil sellados, uno. Benjamín toma la línea.
+> Entra <u>Benjamín</u>. La lista que empezó en Judá llega aquí.
 
 #### *de la tribu de Benjamín, doce mil sellados*
-  > Entra <u>Benjamín</u>. La lista que empezó en Judá llega aquí.
+  > Duodécima tribu: <u>Benjamín</u>. Doce mil sellados.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > Sin verbo. El medio de la flecha nombra a <u>Benjamín</u>.
+  > Misma forma nominal. El medio de la línea es <u>Benjamín</u>, no *mil*.
 
 * *doce mil sellados* → *Benjamín* → *de la tribu de Benjamín*
-  > El primer slot es <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Benjamín. La lista se detiene. Gran multitud, todavía no.
+  > Quien ocupa la línea son <u>doce</u> mil sellados. Lo alcanzado: de la tribu de Benjamín. La lista se detiene.
 
 + *mil*
   * ↳ *sellados* (ἐσφραγισμένοι)[^P]
@@ -4376,8 +4320,7 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:9:3 — *Después de esto vi, y he aquí, una gran multitud*
 
-* Actores principales: *nadie* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>nadie</u> y a Yo, Juan. Juan ve; nadie puede contar.
+> Se mueve <u>Yo</u>, Juan. Ve; *nadie* puede contar.
 
 #### *Después de esto vi, y he aquí, una gran multitud*
   > Tras Benjamín: <u>Después</u> de esto vi. No oye un número. He aquí: una gran multitud.
@@ -4392,7 +4335,7 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
   * *nadie* → *podía* → *contar*
     * ↳ *contar* (ἀριθμῆσαι)[^I]
 
-  > Quien podía es <u>nadie</u>. Lo alcanzado: contar. El número de Apocalipsis 7:4 se oía. Esta no se cuenta.
+  > Quien podía es <u>nadie</u>. Lo alcanzado: contar. Aquel número se oía. Esta no se cuenta.
 
 + *de toda nación, tribus, pueblos y lenguas de pie delante del trono y delante del cordero vestidos con túnicas blancas*
   > No es de una sola tribu. De <u>toda</u> nación, tribus, pueblos y lenguas —delante del trono y delante del cordero.
@@ -4400,33 +4343,31 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 + *multitud*
   * ↳ *pie* (ἑστῶτες)[^P]
   * ↳ *vestidos* (περιβεβλημένους)[^P]
-  > No quedan sueltos. Están de pie, <u>vestidos</u> con túnicas blancas —como en Apocalipsis 6:11. Palmas, todavía no.
+  > Están de pie, <u>vestidos</u> con túnicas blancas —como las que se dieron bajo el altar.
 
 ### Apocalipsis 7:9:34 — *y con palmas en sus manos*
 
-* Actores principales: *palmas* (1)
-  > El recuento ya no es nadie. Quien ocupa la línea es <u>palmas</u>, uno.
+> La visión no se detiene en las túnicas. Suma <u>palmas</u> en sus manos.
 
 #### *y con palmas en sus manos*
-  > La visión no se detiene en las túnicas. Suma <u>palmas</u> en sus manos.
+  > No solo vestidos. También <u>palmas</u> en sus manos.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. La afirmación es <u>palmas</u> en sus manos.
 
 * *palmas* → *palmas* → *en sus manos*
-  > El primer slot es <u>palmas</u>. Lo alcanzado: en sus manos. Qué claman, todavía no.
+  > Quien ocupa la línea son <u>palmas</u>. Lo alcanzado: en sus manos. Qué dicen, todavía no.
 
 ### Apocalipsis 7:10:2 — *y clamando con gran voz, diciendo*
 
-* Actores principales: *una gran multitud* (1)
-  > El recuento vuelve a <u>una</u> gran multitud, uno. Ya no son las palmas. Ahora claman.
+> Ya no son las palmas. <u>Una</u> gran multitud clama.
 
 #### *y clamando con gran voz, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y con palmas en sus manos*).
   > Ese <u>y</u> no suma otras palmas. De las palmas pasa al clamar.
 
 * *una gran multitud* → *clamando*
-  > Quienes claman son <u>una</u> gran multitud. La flecha se detiene en clamando. Con gran voz queda en la misma línea, fuera de la flecha. Qué, todavía no.
+  > Quienes claman son <u>una</u> gran multitud. Con gran voz. Qué dicen, todavía no.
 
 + *multitud*
   * ↳ *diciendo* (λέγοντες)[^P]
@@ -4434,17 +4375,16 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:10:7 — *La salvación a nuestro Dios, al que está sentado en el trono, y al cordero*
 
-* Actores principales: *La salvación* (1)
-  > El recuento ya no es la multitud. Quien ocupa la línea es <u>La</u> salvación, uno.
+> Eso es lo que dicen. No preguntan quién.
 
 #### *La salvación a nuestro Dios, al que está sentado en el trono, y al cordero*
-  > Eso es lo que dicen. No preguntan quién. <u>La</u> salvación a nuestro Dios, al que está sentado en el trono, y al cordero.
+  > <u>La</u> salvación a nuestro Dios, al que está sentado en el trono, y al cordero.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. Se asigna <u>salvación</u> a nuestro Dios, al que está sentado en el trono, y al cordero.
 
 * *La salvación* → *salvación* → *a nuestro Dios, al que está sentado en el trono, y al cordero*
-  > El primer slot es <u>La</u> salvación. Lo alcanzado: a nuestro Dios, al que está sentado en el trono, y al cordero. El par de Apocalipsis 5:13. Los ángeles, todavía no.
+  > Quien ocupa la línea es <u>La</u> salvación. Lo alcanzado: a nuestro Dios, al que está sentado en el trono, y al cordero —el par que ya se oyó junto.
 
 + *Dios*
   * ↳ *sentado* (καθημένῳ)[^P]
@@ -4452,32 +4392,29 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:11:5 — *Y todos los ángeles estaban de pie alrededor del trono, de los ancianos y de los cuatro seres vivientes*
 
-* Actores principales: *todos los ángeles* (1)
-  > El recuento ya no es la salvación. Quienes ocupan la línea son <u>todos</u> los ángeles, uno.
+> Tras el clamor de la multitud: <u>todos</u> los ángeles.
 
 #### *Y todos los ángeles estaban de pie alrededor del trono, de los ancianos y de los cuatro seres vivientes*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*La salvación a nuestro Dios…*).
-  > Ese <u>Y</u> no suma otra salvación. Tras el clamor de la multitud: todos los ángeles.
+  > Ese <u>Y</u> no suma otra salvación. Tras el clamor: todos los ángeles.
 
 * *todos los ángeles* → *estaban de pie*
-  > Quienes estaban de pie son <u>todos</u> los ángeles. La flecha se detiene en estaban de pie. Alrededor del trono, de los ancianos y de los cuatro seres vivientes queda en la misma línea, fuera de la flecha. Caer, todavía no.
+  > Quienes estaban de pie son <u>todos</u> los ángeles. Alrededor del trono, de los ancianos y de los cuatro seres vivientes.
 
 ### Apocalipsis 7:11:17 — *y cayeron delante del trono sobre el rostro*
 
-* Actores principales: *todos los ángeles* (1)
-  > Siguen <u>todos</u> los ángeles, uno. Ya no solo están de pie. Ahora caen.
+> Ya no solo están de pie. <u>Todos</u> los ángeles caen.
 
 #### *y cayeron delante del trono sobre el rostro*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y todos los ángeles estaban de pie…*).
   > Ese <u>y</u> no suma otro estar de pie. Del pie pasa al caer.
 
 * *todos los ángeles* → *cayeron*
-  > Quienes caen son <u>todos</u> los ángeles. La flecha se detiene en cayeron. Delante del trono, sobre el rostro, queda en la misma línea, fuera de la flecha. Como los ancianos en Apocalipsis 4:10 y Apocalipsis 5:8. Adorar, todavía no.
+  > Quienes caen son <u>todos</u> los ángeles. Delante del trono, sobre el rostro —como ya cayeron los ancianos.
 
 ### Apocalipsis 7:11:26 — *y adoraron a Dios diciendo*
 
-* Actores principales: *todos los ángeles* (1)
-  > Siguen <u>todos</u> los ángeles, uno. Ya no solo caen. Ahora adoran.
+> Ya no solo caen. <u>Todos</u> los ángeles adoran.
 
 #### *y adoraron a Dios diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y cayeron delante del trono sobre el rostro*).
@@ -4485,39 +4422,37 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 * *todos los ángeles* → *adoraron*
   * ↳ *diciendo* (λέγοντες)[^P]
-  > Quienes adoran son <u>todos</u> los ángeles. La flecha se detiene en adoraron. A Dios queda en la misma línea, fuera de la flecha. Están diciendo. Qué, anidado.
+  > Quienes adoran son <u>todos</u> los ángeles. A Dios. Están *diciendo*.
 
 + *Amén*
-  > Abren con <u>Amén</u>. La bendición, todavía no.
+  > Abren con <u>Amén</u>. Qué sigue, la línea.
 
 ### Apocalipsis 7:12:4 — *La bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza sean a nuestro Dios por los siglos de los siglos*
 
-* Actores principales: *La bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza* (1)
-  > El recuento ya no es los ángeles. Quien ocupa la línea es <u>La</u> bendición —y la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza—, uno.
+> Tras el Amén: <u>La</u> bendición —y con ella toda la lista— a nuestro Dios.
 
 #### *La bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza sean a nuestro Dios por los siglos de los siglos*
-  > Eso es lo que dicen. Tras el Amén: <u>La</u> bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza.
+  > Eso es lo que dicen. <u>La</u> bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone sean. Se <u>asigna</u> esa lista a nuestro Dios por los siglos de los siglos.
+  > El griego no trae verbo. El español pone *sean*. Se <u>asigna</u> esa lista a nuestro Dios por los siglos de los siglos.
 
 * *La bendición, la gloria, la sabiduría, el agradecimiento, la honra, el poder y la fuerza* → *bendición* → *a nuestro Dios por los siglos de los siglos*
-  > El primer slot es <u>La</u> bendición, y con ella la lista. Lo alcanzado: a nuestro Dios por los siglos de los siglos. Siete, como en Apocalipsis 5:12. El anciano, todavía no.
+  > Quien ocupa la línea es <u>La</u> bendición, y con ella la lista. Lo alcanzado: a nuestro Dios por los siglos de los siglos. Siete, como ya se oyó al cordero.
 
 + *Amén*
   > Cierran con <u>Amén</u> —el mismo con que abrieron.
 
 ### Apocalipsis 7:13:2 — *Y uno de los ancianos respondió, diciéndome*
 
-* Actores principales: *uno de los ancianos* (1)
-  > El recuento ya no es la bendición. Quien ocupa la línea es <u>uno</u> de los ancianos, uno.
+> Tras el Amén: <u>uno</u> de los ancianos.
 
 #### *Y uno de los ancianos respondió, diciéndome*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*La bendición… Amén*).
   > Ese <u>Y</u> no suma otro Amén. Tras el Amén: uno de los ancianos.
 
 * *uno de los ancianos* → *respondió*
-  > Quien respondió es <u>uno</u> de los ancianos. La flecha se detiene en respondió. Juan no ha preguntado en la línea. Qué le dice, todavía no.
+  > Quien respondió es <u>uno</u> de los ancianos. Juan no ha preguntado en la línea. Qué le dice, todavía no.
 
 + *uno*
   * ↳ *diciéndome* (λέγων)[^P]
@@ -4525,143 +4460,132 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:13:17 — *Estos que están vestidos con las túnicas blancas, ¿quiénes son*
 
-* Actores principales: *Estos que están vestidos con las túnicas blancas* (1)
-  > El recuento ya no es el anciano. Quien ocupa la línea es <u>Estos</u> que están vestidos con las túnicas blancas, uno.
+> Eso es lo que dice. No nombra. Pregunta: estos de las túnicas blancas, <u>quiénes</u> son.
 
 #### *Estos que están vestidos con las túnicas blancas, ¿quiénes son*
-  > Eso es lo que dice. No nombra. Pregunta: estos de las túnicas blancas, <u>quiénes</u> son.
+  > De quienes se pregunta es <u>Estos</u> —vestidos con las túnicas blancas.
 
 * *Estos que están vestidos con las túnicas blancas* → *son*
-  > De quienes se pregunta es <u>Estos</u> que están vestidos con las túnicas blancas. La flecha se detiene en son. Quiénes queda abierto. Las túnicas de Apocalipsis 7:9. De dónde, todavía no.
+  > La pregunta cae en <u>quiénes</u> son. Las túnicas ya se vieron en la multitud.
 
 + *Estos*
   * ↳ *vestidos* (περιβεβλημένοι)[^P]
-  > No quedan sueltos. Están <u>vestidos</u> con las túnicas blancas.
+  > Están <u>vestidos</u> con las túnicas blancas.
 
 ### Apocalipsis 7:13:20 — *y de dónde vinieron*
 
-* Actores principales: *Estos que están vestidos con las túnicas blancas* (1)
-  > Siguen <u>Estos</u> que están vestidos con las túnicas blancas, uno. Ya no solo quiénes son. Ahora: de dónde.
+> Ya no solo *quiénes*. Suma: <u>de</u> dónde vinieron.
 
 #### *y de dónde vinieron*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Estos… ¿quiénes son*).
-  > Ese <u>y</u> no cierra quiénes son. Suma otra pregunta: de dónde vinieron.
+  > Ese <u>y</u> no cierra *quiénes son*. Suma otra pregunta: de dónde vinieron.
 
 * *Estos que están vestidos con las túnicas blancas* → *vinieron*
-  > De quienes se pregunta es los mismos <u>Estos</u>. La flecha se detiene en vinieron. De dónde queda abierto. Juan, todavía no.
+  > De quienes se pregunta son los mismos <u>Estos</u>. *De dónde* queda abierto.
 
 ### Apocalipsis 7:14:2 — *Y le dije*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Ya no son Estos. Ahora dice.
+> Se mueve <u>Yo</u>, Juan. Ya no son Estos. Ahora dice.
 
 #### *Y le dije*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y de dónde vinieron*).
-  > Ese <u>Y</u> no cierra de dónde. Juan responde.
+  > Ese <u>Y</u> no cierra *de dónde*. Juan responde.
 
 * *Yo, Juan* → *dije* → *le*
-  > Quien dice es <u>Yo</u>, Juan. Lo alcanzado: le —al anciano. Qué, todavía no.
+  > Quien dice es <u>Yo</u>, Juan. Lo alcanzado: *le* —al anciano. Qué, todavía no.
 
 ### Apocalipsis 7:14:7 — *Señor, tú lo sabes*
 
-* Actores principales: *tú* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>tú</u>, uno. Es a quien Juan habla.
+> Eso es lo que dice. No nombra a Estos. <u>Señor</u>, tú lo sabes.
 
 #### *Señor, tú lo sabes*
-  > Eso es lo que dice. No nombra a Estos. <u>Señor</u>, tú lo sabes.
+  > Quien sabe es <u>tú</u> —el anciano, llamado Señor.
 
 * *tú* → *sabes*
-  > Quien sabe es <u>tú</u> —el anciano, llamado Señor. La flecha se detiene en sabes. Quiénes son y de dónde vinieron quedan abiertos. El anciano todavía no dice.
+  > Juan no cierra *quiénes* ni *de dónde*. Deja el saber en el anciano.
 
 ### Apocalipsis 7:14:9 — *Y me dijo*
 
-* Actores principales: *uno de los ancianos* (1)
-  > El recuento vuelve a <u>uno</u> de los ancianos, uno. Juan le dejó el saber. Ahora dice.
+> Juan le dejó el saber. Ahora <u>uno</u> de los ancianos dice.
 
 #### *Y me dijo*
 * *dijo:* (καὶ)[^kai] une esta cláusula con la anterior (*Señor, tú lo sabes*).
-  > Ese <u>dijo:</u> no suma otro sabes. Tras tú lo sabes: me dijo.
+  > Ese <u>dijo:</u> no suma otro *sabes*. Tras *tú lo sabes*: *me dijo*.
 
 * *uno de los ancianos* → *dijo* → *me*
-  > Quien dice es <u>uno</u> de los ancianos. Lo alcanzado: me —Juan. Qué, todavía no.
+  > Quien dice es <u>uno</u> de los ancianos. Lo alcanzado: *me* —Juan. Qué, todavía no.
 
 ### Apocalipsis 7:14:12 — *Estos son los que vienen de la gran tribulación*
 
-* Actores principales: *Estos* (1)
-  > El recuento ya no es el anciano. Quien ocupa la línea es <u>Estos</u>, uno. Los de las túnicas.
+> Eso es lo que dice. Ahí está la respuesta. <u>Estos</u> son los que vienen de la gran tribulación.
 
 #### *Estos son los que vienen de la gran tribulación*
-  > Eso es lo que dice. Ahí está la respuesta. <u>Estos</u> son los que vienen de la gran tribulación.
+  > Quienes son es <u>Estos</u> —los de las túnicas blancas. *Quiénes* ya no queda abierto.
 
 * *Estos* → *son*
-  > Quienes son es <u>Estos</u> —los de las túnicas blancas. La flecha se detiene en son. Quiénes son ya no queda abierto.
+  > Y *de dónde*: de la <u>gran</u> tribulación.
 
 + *los*
   * ↳ *vienen* (ἐρχόμενοι)[^P]
-  > No quedan sueltos. <u>Vienen</u> de la gran tribulación. El anciano no dice vinieron. Dice vienen. Lavar, todavía no.
+  > El anciano no dice *vinieron*. Dice <u>vienen</u>.
 
 ### Apocalipsis 7:14:21 — *y lavaron sus túnicas*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Ya no solo vienen. Ahora lavaron.
+> Ya no solo *vienen*. Los mismos <u>Estos</u> lavaron.
 
 #### *y lavaron sus túnicas*
 * *lavaron* (καὶ)[^kai] une esta cláusula con la anterior (*Estos son los que vienen de la gran tribulación*).
-  > Ese <u>lavaron</u> no abre otros Estos. Tras vienen: lavaron.
+  > Ese <u>lavaron</u> no abre otros *Estos*. Tras *vienen*: *lavaron*.
 
 * *Estos* → *lavaron* → *sus túnicas*
-  > Quienes lavaron son los mismos <u>Estos</u>. Lo alcanzado: sus túnicas. Las blancas de Apocalipsis 7:9. En qué las blanquearon, todavía no.
+  > Quienes lavaron son los mismos <u>Estos</u>. Lo alcanzado: sus túnicas —las blancas que ya se vieron.
 
 ### Apocalipsis 7:14:26 — *y las blanquearon en la sangre del cordero*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Ya no solo lavaron. Ahora blanquearon.
+> Ya no solo lavaron. Los mismos <u>Estos</u> blanquearon.
 
 #### *y las blanquearon en la sangre del cordero*
 * *blanquearon* (καὶ)[^kai] une esta cláusula con la anterior (*y lavaron sus túnicas*).
-  > Ese <u>blanquearon</u> no abre otro lavar. Tras lavaron: blanquearon.
+  > Ese <u>blanquearon</u> no abre otro lavar. Tras *lavaron*: *blanquearon*.
 
 * *Estos* → *blanquearon* → *las*
-  > Quienes blanquearon son los mismos <u>Estos</u>. Lo alcanzado: las —las túnicas. En la sangre del cordero queda en la misma línea, fuera de la flecha. El cordero de Apocalipsis 5:6. Por esto, todavía no.
+  > Quienes blanquearon son los mismos <u>Estos</u>. Lo alcanzado: *las* —las túnicas. En la sangre del cordero —el cordero que ya se vio.
 
 ### Apocalipsis 7:15:3 — *Por esto están delante del trono de Dios*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Ya no solo blanquearon. Ahora están.
+> Ya no solo blanquearon. Los mismos <u>Estos</u> están.
 
 #### *Por esto están delante del trono de Dios*
 * *Por esto* (διὰ τοῦτο)[^conn]
-  > Ese <u>Por esto</u> no abre otros Estos. Apunta a lo que acaba de decir: lavaron y blanquearon. Por eso están.
+  > Ese <u>Por esto</u> no abre otros *Estos*. Apunta a lo que acaba de decir: lavaron y blanquearon. Por eso están.
 
 * *Estos* → *están*
-  > Quienes están son los mismos <u>Estos</u>. La flecha se detiene en están. Delante del trono de Dios queda en la misma línea, fuera de la flecha. Donde Juan los vio en Apocalipsis 7:9. Servir, todavía no.
+  > Quienes están son los mismos <u>Estos</u>. Delante del trono de Dios —donde Juan los vio.
 
 ### Apocalipsis 7:15:10 — *y le sirven día y noche en su templo*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Ya no solo están. Ahora sirven.
+> Ya no solo están. Los mismos <u>Estos</u> sirven.
 
 #### *y le sirven día y noche en su templo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Por esto están delante del trono de Dios*).
-  > Ese <u>y</u> no suma otro están. Del estar pasa al servir.
+  > Ese <u>y</u> no suma otro *están*. Del estar pasa al servir.
 
 * *Estos* → *sirven*
-  > Quienes sirven son los mismos <u>Estos</u>. La flecha se detiene en sirven. Le —el de Apocalipsis 7:15, Dios del trono—, día y noche, en su templo, queda en la misma línea, fuera de la flecha. La tienda, todavía no.
+  > Quienes sirven son los mismos <u>Estos</u>. *Le* —Dios del trono—, día y noche, en su templo.
 
 ### Apocalipsis 7:15:25 — *extenderá su tienda sobre ellos*
 
-* Actores principales: *el que está sentado en el trono* (1)
-  > El recuento ya no es Estos. Quien ocupa la línea es <u>el</u> que está sentado en el trono, uno.
+> Ya no solo sirven. Se mueve <u>el</u> que está sentado en el trono.
 
 + *y el que está sentado en el trono*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y le sirven día y noche en su templo*).
-  > Ese <u>y</u> no suma otro sirven. Tras servir: el que está sentado.
+  > Ese <u>y</u> no suma otro *sirven*. Tras servir: el que está sentado.
 
 #### *extenderá su tienda sobre ellos*
   > El que está sentado no queda quieto. <u>Extenderá</u> su tienda sobre ellos.
 
 * *el que está sentado en el trono* → *extenderá su tienda*
-  > Quien extenderá es <u>el</u> que está sentado en el trono. Lo alcanzado: su tienda. Sobre ellos —Estos— queda en la misma línea, fuera de la flecha. Hambre, todavía no.
+  > Quien extenderá es <u>el</u> que está sentado en el trono. Lo alcanzado: su tienda. Sobre ellos —*Estos*.
 
 + *el*
   * ↳ *sentado* (καθήμενος)[^P]
@@ -4669,89 +4593,85 @@ Los cuatro seres dicen Amén; los veinticuatro ancianos caen y adoran. El libro 
 
 ### Apocalipsis 7:16:2 — *No tendrán hambre nunca más*
 
-* Actores principales: *Estos* (1)
-  > El recuento vuelve a <u>Estos</u>, uno. Ya no es el que está sentado. Ellos no tendrán.
+> Tras la tienda: vuelven <u>Estos</u>. Ellos no tendrán.
 
 #### *No tendrán hambre nunca más*
-  > Tras la tienda: <u>No</u> tendrán hambre nunca más.
+  > <u>No</u> tendrán hambre nunca más.
 
 * *Estos* → *No tendrán hambre*
-  > Quienes no tendrán hambre son <u>Estos</u>. La flecha se detiene en No tendrán hambre. Nunca más queda en la misma línea, fuera de la flecha. Sed, todavía no.
+  > Quienes no tendrán hambre son <u>Estos</u>. *Nunca más*.
 
 ### Apocalipsis 7:16:5 — *ni tendrán sed nunca más*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Ya no solo hambre. Ahora sed.
+> Ya no solo hambre. Los mismos <u>Estos</u> no tendrán sed.
 
 #### *ni tendrán sed nunca más*
-  > El <u>ni</u> no abre otros Estos. Suma: ni tendrán sed nunca más.
+  > El <u>ni</u> no abre otros *Estos*. Suma: ni tendrán sed nunca más.
 
 * *Estos* → *ni tendrán sed*
-  > Quienes no tendrán sed son los mismos <u>Estos</u>. La flecha se detiene en ni tendrán sed. Nunca más otra vez. El sol, todavía no.
+  > Quienes no tendrán sed son los mismos <u>Estos</u>. *Nunca más* otra vez.
 
 ### Apocalipsis 7:16:9 — *ni caerá sobre ellos el sol ni ningún calor abrasador*
 
-* Actores principales: *el cordero que está en medio del trono* (2) · *Dios* (1) · *el sol ni ningún calor abrasador* (1)
-  > El recuento pone al <u>cordero</u> que está en medio del trono, a Dios, y al sol ni ningún calor abrasador. El sol no cae; el cordero pastorea y guía; Dios enjuga.
+> El <u>sol</u> no cae. El cordero pastoreará y guiará; Dios enjugará.
 
 #### *ni caerá sobre ellos el sol ni ningún calor abrasador*
   > El <u>ni</u> no abre otra sed. Suma: ni caerá sobre ellos el sol ni ningún calor abrasador.
 
 * *el sol ni ningún calor abrasador* → *ni caerá*
-  > Quien no cae es <u>el</u> sol ni ningún calor abrasador. La flecha se detiene en ni caerá. Sobre ellos queda en la misma línea, fuera de la flecha. Por qué, anidado.
+  > Quien no cae es <u>el</u> sol ni ningún calor abrasador. Sobre ellos —Estos.
 
 - *porque el cordero que está en medio del trono los pastoreará*
-  * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro ni caerá. Da la razón: el cordero los pastoreará.
+  * *porque* (ὅτι)[^hoti] introduce la razón de *ni caerá*.
+  > Ese <u>porque</u> no abre otro *ni caerá*. Da la razón: el cordero los pastoreará.
 
   * *el cordero que está en medio del trono* → *pastoreará* → *los*
-  > Quien pastoreará es <u>el</u> cordero que está en medio del trono. Lo alcanzado: los —Estos. El de Apocalipsis 5:6, ahora en medio del trono.
+  > Quien pastoreará es <u>el</u> cordero que está en medio del trono. Lo alcanzado: *los* —Estos. El mismo cordero, ahora en medio del trono.
 
 - *y los guiará a fuentes de aguas vivas*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*porque el cordero… los pastoreará*).
-  > Ese <u>y</u> no abre otro porque. Sigue la misma razón: los guiará.
+  > Ese <u>y</u> no abre otro *porque*. Sigue la misma razón: los guiará.
 
   * *el cordero que está en medio del trono* → *guiará* → *los*
-  > Quien guiará es el mismo <u>el</u> cordero. Lo alcanzado: los. A fuentes de aguas vivas queda en la misma línea, fuera de la flecha. No tendrán sed —y él guía a aguas.
+  > Quien guiará es el mismo <u>el</u> cordero. Lo alcanzado: *los*. A fuentes de aguas vivas. No tendrán sed —y él guía a aguas.
 
 - *y Dios enjugará toda lágrima de sus ojos*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y los guiará a fuentes de aguas vivas*).
-  > Ese <u>y</u> no abre otro porque. Sigue la misma razón: Dios enjugará.
+  > Ese <u>y</u> no abre otro *porque*. Sigue la misma razón: Dios enjugará.
 
   * *Dios* → *enjugará* → *toda lágrima*
-  > Quien enjugará es <u>Dios</u>. Lo alcanzado: toda lágrima. De sus ojos queda en la misma línea, fuera de la flecha. El séptimo sello, todavía no.
+  > Quien enjugará es <u>Dios</u>. Lo alcanzado: toda lágrima. De sus ojos.
 
 ### Apocalipsis 8:1:8 — *hubo silencio en el cielo como por media hora*
 
-* Actores principales: *el cordero* (1) · *silencio* (1)
-  > El recuento pone al <u>cordero</u> y a silencio. El cordero abre el séptimo; hay silencio.
+> Se mueve el <u>cordero</u>. Abre el séptimo; hay silencio.
 
 - *Y cuando abrió el séptimo sello*
   * *cuando* (ὅταν)
   > Ese <u>cuando</u> no abre otra lágrima. Fija el silencio en otro sello: el séptimo.
 
   * *el cordero* → *abrió* → *el séptimo sello*
-  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el séptimo sello. Ya no es el sexto. Otra vez no dice Ven y mira.
+  > Quien abrió es <u>el</u> cordero, no escrito de nuevo. Lo alcanzado: el séptimo sello. Ya no es el sexto. Otra vez no dice *Ven y mira*.
 
 #### *hubo silencio en el cielo como por media hora*
   > Cuando abrió, <u>hubo</u> silencio en el cielo. No un caballo. No una multitud.
 
 * *silencio* → *hubo*
-  > Quien hubo es <u>silencio</u>. La flecha se detiene en hubo. En el cielo, como por media hora, queda en la misma línea, fuera de la flecha. Las trompetas, todavía no.
+  > Quien hubo es <u>silencio</u>. En el cielo, como por media hora.
 
 ### En síntesis
 
-El cordero abre los sellos. Los cuatro primeros traen Ven y mira, y cuatro caballos: blanco, rojo, negro y pálido.
+El cordero abre los sellos. Los cuatro primeros traen *Ven y mira*, y cuatro caballos: blanco, rojo, negro y pálido.
 
-Al quinto no hay Ven y mira. Bajo el altar, almas claman: Hasta cuándo no juzgas y vengas. Se les dan túnicas blancas y se les dice que descansen todavía un poco.
+Al quinto no hay *Ven y mira*. Bajo el altar, almas claman: *Hasta cuándo no juzgas y vengas*. Se les dan túnicas blancas y se les dice que *descansen todavía un poco*.
 
-Al sexto, terremoto, sol, luna, estrellas, cielo y montañas. Los de la tierra se esconden y dicen: Caigan sobre nosotros. Quién puede mantenerse en pie queda abierto.
+Al sexto se mueven cielo y tierra. Los de la tierra se esconden y dicen: *Caigan sobre nosotros*. *¿Quién puede mantenerse en pie?* queda abierto.
 
-Después de esto, cuatro ángeles retienen los vientos. Juan oye ciento cuarenta y cuatro mil sellados de toda tribu de los hijos de Israel. Luego ve una gran multitud que nadie podía contar.
+*Después de esto*, cuatro ángeles retienen los vientos. Juan oye *ciento cuarenta y cuatro mil* sellados de toda tribu de los hijos de Israel. Luego ve *una gran multitud* que *nadie podía contar*.
 
-Un anciano dice: Estos vienen de la gran tribulación; lavaron y blanquearon las túnicas en la sangre del cordero. El cordero los pastoreará; Dios enjugará toda lágrima.
+Un anciano dice: *Estos* *vienen de la gran tribulación*; *lavaron* y *blanquearon* las túnicas *en la sangre del cordero*. El cordero *los pastoreará*; Dios *enjugará toda lágrima*.
 
-Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, todavía no.
+Al séptimo sello *hubo silencio en el cielo como por media hora*.
 
 ## Apocalipsis 8:2–11:19 Las siete trompetas
 
@@ -4873,188 +4793,175 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 8:2:2 — Siete trompetas
 
-* Actores principales: *que* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>que</u> y a Yo, Juan. Tras el silencio, Juan ve; el que describe a los ángeles.
+> Tras el silencio, se mueve <u>Yo</u>, Juan. Ve; el *que* describe a los ángeles.
 
 #### *Y vi a los siete ángeles*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*hubo silencio en el cielo como por media hora*).
   > Ese <u>Y</u> no suma otro silencio. Tras la media hora: Juan ve.
 
 * *Yo, Juan* → *vi* → *a los siete ángeles*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a los siete ángeles. No es uno. Son siete.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *a los siete ángeles*. No es uno. Son siete.
 
 - *que están delante de Dios*
   * *que* (οἳ)[^rel]: describe a *ángeles*.
   > Ese <u>que</u> no abre otros siete. Describe a los ángeles: los que están delante de Dios.
 
   * *que* → *están*
-  > Quienes están son <u>que</u> —los siete ángeles. La flecha se detiene en están. Delante de Dios queda en la misma línea, fuera de la flecha. Las trompetas, todavía no.
+  > Quienes están son <u>que</u> —los siete ángeles. Delante de Dios.
 
 ### Apocalipsis 8:2:12 — *y se les dieron siete trompetas*
 
-* Actores principales: *siete trompetas* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>siete</u> trompetas, uno.
+> Ya no es el ver. Quien ocupa la línea son <u>siete</u> trompetas.
 
 #### *y se les dieron siete trompetas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi a los siete ángeles*).
-  > Ese <u>y</u> no suma otros ángeles. A los siete: se les dieron siete trompetas.
+  > Ese <u>y</u> no suma otros ángeles. A los siete: *se les dieron* siete trompetas.
 
 * *siete trompetas* → *se les dieron*
-  > Quienes se les dieron son <u>siete</u> trompetas. La flecha se detiene en se les dieron. Siete ángeles, siete trompetas. Otro ángel, todavía no.
+  > Quienes se les dieron son <u>siete</u> trompetas. Siete ángeles, siete trompetas.
 
 ### Apocalipsis 8:3:4 — *Y vino otro ángel*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento ya no es las trompetas. Quien ocupa la línea es <u>otro</u> ángel, uno.
+> Ya no son las trompetas. Quien ocupa la línea es <u>otro</u> ángel.
 
 #### *Y vino otro ángel*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y se les dieron siete trompetas*).
-  > Ese <u>Y</u> no suma otra trompeta. Tras las siete: vino otro ángel.
+  > Ese <u>Y</u> no suma otra trompeta. Tras las siete: *vino otro ángel*.
 
 * *otro ángel* → *vino*
-  > Quien vino es <u>otro</u> ángel. Ya no es uno de los siete. La flecha se detiene en vino. El altar, todavía no.
+  > Quien vino es <u>otro</u> ángel. Ya no es uno de los siete.
 
 ### Apocalipsis 8:3:6 — *y se puso sobre el altar, con un incensario de oro*
 
-* Actores principales: *otro ángel* (1)
-  > Sigue <u>otro</u> ángel, uno. Ya no solo vino. Ahora se pone.
+> Ya no solo vino. El mismo <u>otro</u> ángel se pone.
 
 #### *y se puso sobre el altar, con un incensario de oro*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vino otro ángel*).
-  > Ese <u>y</u> no suma otro venir. Tras vino: se puso.
+  > Ese <u>y</u> no suma otro venir. Tras *vino*: *se puso*.
 
 * *otro ángel* → *se puso*
-  > Quien se puso es el mismo <u>otro</u> ángel. La flecha se detiene en se puso. Sobre el altar queda en la misma línea, fuera de la flecha. El altar ya se oyó en Apocalipsis 6:9.
+  > Quien se puso es el mismo <u>otro</u> ángel. Sobre el altar —el que ya se oyó bajo las almas.
 
 + *ángel*
   * ↳ *con* (ἔχων)[^P]
-  > No se pone vacío. Está <u>con</u> un incensario de oro. Los inciensos, todavía no.
+  > No se pone vacío. Está <u>con</u> un incensario de oro.
 
 ### Apocalipsis 8:3:14 — *Y se le dieron muchos inciensos*
 
-* Actores principales: *muchos inciensos* (1) · *otro ángel* (1)
-  > El recuento pone a <u>muchos</u> inciensos y a otro ángel. Se le dan inciensos; él ofrece.
+> Se le dan <u>muchos</u> inciensos. El mismo otro ángel es quien ofrece.
 
 #### *Y se le dieron muchos inciensos*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y se puso sobre el altar, con un incensario de oro*).
-  > Ese <u>Y</u> no suma otro incensario. Al que se puso: se le dieron muchos inciensos.
+  > Ese <u>Y</u> no suma otro incensario. Al que se puso: *se le dieron* muchos inciensos.
 
 * *muchos inciensos* → *se le dieron*
-  > Quienes se le dieron son <u>muchos</u> inciensos. La flecha se detiene en se le dieron. Para qué, anidado.
+  > Quienes se le dieron son <u>muchos</u> inciensos.
 
 - *para que los ofreciera con las oraciones de todos los santos sobre el altar de oro que está delante del trono*
-  * *para que* (ἵνα)[^hina]
-  > Ese <u>para que</u> no abre otro se le dieron. Trae el para qué de se le dieron: los ofreciera.
+  * *para que* (ἵνα)[^hina] introduce el propósito de *se le dieron*.
+  > Ese <u>para que</u> no abre otro *se le dieron*. Trae el propósito: *los ofreciera*.
 
   * *otro ángel* → *ofreciera*
-  > Quien ofreciera es el mismo <u>otro</u> ángel. La flecha se detiene en ofreciera. Con las oraciones de todos los santos, sobre el altar de oro que está delante del trono. Incienso y oraciones ya se oyeron juntos en Apocalipsis 5:8. El humo, todavía no.
+  > Quien ofreciera es el mismo <u>otro</u> ángel. Con las oraciones de todos los santos, sobre el altar de oro que está delante del trono. Incienso y oraciones ya se oyeron juntos.
 
 ### Apocalipsis 8:4:2 — *Y el humo de los inciensos, con las oraciones de los santos, subió de la mano del ángel delante de Dios*
 
-* Actores principales: *el humo de los inciensos* (1)
-  > El recuento ya no es el ángel. Quien ocupa la línea es <u>el</u> humo de los inciensos, uno.
+> Ya no es el dar. Quien ocupa la línea es <u>el</u> humo de los inciensos.
 
 #### *Y el humo de los inciensos, con las oraciones de los santos, subió de la mano del ángel delante de Dios*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y se le dieron muchos inciensos*).
-  > Ese <u>Y</u> no suma otros inciensos dados. Tras se le dieron: el humo subió.
+  > Ese <u>Y</u> no suma otros inciensos dados. Tras *se le dieron*: el humo *subió*.
 
 * *el humo de los inciensos* → *subió*
-  > Quien subió es <u>el</u> humo de los inciensos. La flecha se detiene en subió. Con las oraciones de los santos, de la mano del ángel, delante de Dios. Lo que se iba a ofrecer, ahora sube. El incensario, todavía no.
+  > Quien subió es <u>el</u> humo de los inciensos. Con las oraciones de los santos, de la mano del ángel, delante de Dios. Lo que se iba a ofrecer, ahora sube.
 
 ### Apocalipsis 8:5:2 — *Y el ángel tomó el incensario*
 
-* Actores principales: *el ángel* (1)
-  > El recuento vuelve al <u>ángel</u>, uno. Ya no es el humo. Ahora toma.
+> Ya no es el humo. Se mueve <u>el</u> ángel. Ahora toma.
 
 #### *Y el ángel tomó el incensario*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el humo de los inciensos… subió…*).
-  > Ese <u>Y</u> no suma otro humo. Tras subir: el ángel tomó.
+  > Ese <u>Y</u> no suma otro humo. Tras subir: el ángel *tomó*.
 
 * *el ángel* → *tomó* → *el incensario*
-  > Quien tomó es <u>el</u> ángel —el otro, el del incensario de oro. Lo alcanzado: el incensario. Llenarlo, todavía no.
+  > Quien tomó es <u>el</u> ángel —el otro, el del incensario de oro. Lo alcanzado: el incensario.
 
 ### Apocalipsis 8:5:8 — *y lo llenó con fuego del altar*
 
-* Actores principales: *el ángel* (1)
-  > Sigue <u>el</u> ángel, uno. Ya no solo tomó. Ahora llena.
+> Ya no solo tomó. El mismo <u>el</u> ángel llena.
 
 #### *y lo llenó con fuego del altar*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el ángel tomó el incensario*).
-  > Ese <u>y</u> no suma otro tomar. Tras tomó: lo llenó.
+  > Ese <u>y</u> no suma otro tomar. Tras *tomó*: *lo llenó*.
 
 * *el ángel* → *llenó* → *lo*
-  > Quien llenó es el mismo <u>el</u> ángel. Lo alcanzado: lo —el incensario. Con fuego del altar queda en la misma línea, fuera de la flecha. Arrojar, todavía no.
+  > Quien llenó es el mismo <u>el</u> ángel. Lo alcanzado: *lo* —el incensario. Con fuego del altar.
 
 ### Apocalipsis 8:5:16 — *y lo arrojó a la tierra*
 
-* Actores principales: *el ángel* (1)
-  > Sigue <u>el</u> ángel, uno. Ya no solo llenó. Ahora arroja.
+> Ya no solo llenó. El mismo <u>el</u> ángel arroja.
 
 #### *y lo arrojó a la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y lo llenó con fuego del altar*).
-  > Ese <u>y</u> no suma otro llenar. Tras llenó: lo arrojó.
+  > Ese <u>y</u> no suma otro llenar. Tras *llenó*: *lo arrojó*.
 
 * *el ángel* → *arrojó*
-  > Quien arrojó es el mismo <u>el</u> ángel. La flecha no nombra lo alcanzado; el H4 sí: lo —el incensario lleno de fuego— a la tierra. Voces, truenos, relámpagos, terremoto: todavía no.
+  > Quien arrojó es el mismo <u>el</u> ángel. *Lo* —el incensario lleno de fuego— a la tierra.
 
 ### Apocalipsis 8:5:21 — *Y hubo voces, truenos, relámpagos y un terremoto*
 
-* Actores principales: *voces, truenos, relámpagos y un terremoto* (1)
-  > El recuento ya no es el ángel. Quienes ocupan la línea son <u>voces</u>, truenos, relámpagos y un terremoto —un solo bloque.
+> Ya no es el ángel. Quienes ocupan la línea son <u>voces</u>, truenos, relámpagos y un terremoto —un solo bloque.
 
 #### *Y hubo voces, truenos, relámpagos y un terremoto*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y lo arrojó a la tierra*).
-  > Ese <u>Y</u> no suma otro arrojar. Tras lo arrojó a la tierra: hubo.
+  > Ese <u>Y</u> no suma otro arrojar. Tras *lo arrojó a la tierra*: *hubo*.
 
 * *voces, truenos, relámpagos y un terremoto* → *hubo*
-  > Quienes hubo son <u>voces</u>, truenos, relámpagos y un terremoto. Del trono ya salieron relámpagos y truenos y voces (Apocalipsis 4:5). Al sexto sello ya hubo un gran terremoto (Apocalipsis 6:12). Ahora, cuando el incensario lleno de fuego cae a la tierra, los mismos signos se juntan. Los siete ángeles, todavía no.
+  > Quienes hubo son <u>voces</u>, truenos, relámpagos y un terremoto. Del trono ya salieron relámpagos, truenos y voces; al sexto sello, un gran terremoto. Ahora se juntan.
 
 ### Apocalipsis 8:6:10 — *Y los siete ángeles que tenían las siete trompetas se prepararon*
 
-* Actores principales: *los siete ángeles que tenían las siete trompetas* (2)
-  > El recuento ya no es voces y truenos. Quienes ocupan la línea son <u>los</u> siete ángeles que tenían las siete trompetas, dos. Ya no el otro. Vuelven los siete.
+> Ya no es el otro. Vuelven <u>los</u> siete ángeles que tenían las siete trompetas.
 
 #### *Y los siete ángeles que tenían las siete trompetas se prepararon*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y hubo voces, truenos, relámpagos y un terremoto*).
-  > Ese <u>Y</u> no suma otro terremoto. Tras hubo: los siete se prepararon.
+  > Ese <u>Y</u> no suma otro terremoto. Tras *hubo*: los siete *se prepararon*.
 
 * *los siete ángeles que tenían las siete trompetas* → *se prepararon*
-  > Quienes se prepararon son <u>los</u> siete ángeles que tenían las siete trompetas. Las trompetas ya se les dieron (Apocalipsis 8:2). Ahora se preparan. Tocar, anidado.
+  > Quienes se prepararon son <u>los</u> siete ángeles que tenían las siete trompetas. Las trompetas ya se les dieron. Ahora se preparan.
 
 + *ángeles*
   * ↳ *tenían* (ἔχοντες)[^P]
   > No se preparan vacíos. <u>Tenían</u> las siete trompetas —las que se les dieron.
 
 - *para tocarlas*
-  * *para tocarlas.* (ἵνα)[^hina]
-  > Ese <u>para</u> no abre otros siete. Trae el para qué de se prepararon: tocarlas.
+  * *para tocarlas.* (ἵνα)[^hina] introduce el propósito de *se prepararon*.
+  > Ese <u>para</u> no abre otros siete. Trae el propósito: *tocarlas*.
 
   * *los siete ángeles que tenían las siete trompetas* → *tocarlas*
-  > Quienes tocarlas son los mismos <u>los</u> siete ángeles. Lo alcanzado: las —las trompetas. El primer ángel, todavía no.
+  > Quienes tocarlas son los mismos <u>los</u> siete ángeles. Lo alcanzado: *las* —las trompetas.
 
 ### Apocalipsis 8:7:4 — *Y el primer ángel tocó la trompeta*
 
-* Actores principales: *el primer ángel* (1)
-  > El recuento ya no es los siete juntos. Quien ocupa la línea es <u>el</u> primer ángel, uno.
+> Ya no son los siete juntos. Quien ocupa la línea es <u>el</u> primer ángel.
 
 #### *Y el primer ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y los siete ángeles que tenían las siete trompetas se prepararon*).
-  > Ese <u>Y</u> no suma otra preparación. Tras se prepararon: el primero tocó.
+  > Ese <u>Y</u> no suma otra preparación. Tras *se prepararon*: el primero *tocó*.
 
 * *el primer ángel* → *tocó*
-  > Quien tocó es <u>el</u> primer ángel. La flecha se detiene en tocó. No es el cordero abriendo un sello. No hay *Ven y mira*. Uno de los siete toca. Granizo y fuego, todavía no.
+  > Quien tocó es <u>el</u> primer ángel. No es el cordero abriendo un sello. No hay *Ven y mira*. Uno de los siete toca.
 
 ### Apocalipsis 8:7:6 — *y hubo granizo y fuego mezclados con sangre*
 
-* Actores principales: *granizo y fuego* (1)
-  > El recuento ya no es el primer ángel. Quienes ocupan la línea son <u>granizo</u> y fuego, uno.
+> Ya no es el primer ángel. Quienes ocupan la línea son <u>granizo</u> y fuego.
 
 #### *y hubo granizo y fuego mezclados con sangre*
 * *tocó* (καὶ)[^kai] une esta cláusula con la anterior (*Y el primer ángel tocó la trompeta*).
-  > Ese <u>tocó</u> no suma otro tocar. Tras tocó: hubo.
+  > Ese <u>tocó</u> no suma otro tocar. Tras *tocó*: *hubo*.
 
 * *granizo y fuego* → *hubo*
-  > Quienes hubo son <u>granizo</u> y fuego. La flecha se detiene en hubo. No es un caballo. Arrojar, todavía no.
+  > Quienes hubo son <u>granizo</u> y fuego. No es un caballo.
 
 + *fuego*
   * ↳ *mezclados* (μεμιγμένα)[^P]
@@ -5062,50 +4969,47 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 8:7:14 — *y fueron arrojados a la tierra*
 
-* Actores principales: *granizo y fuego* (1)
-  > Siguen <u>granizo</u> y fuego, uno. Ya no solo hubo. Ahora son arrojados.
+> Ya no solo hubo. Los mismos <u>granizo</u> y fuego son arrojados.
 
 #### *y fueron arrojados a la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y hubo granizo y fuego mezclados con sangre*).
-  > Ese <u>y</u> no suma otro hubo. Tras hubo: fueron arrojados.
+  > Ese <u>y</u> no suma otro *hubo*. Tras *hubo*: *fueron arrojados*.
 
 * *granizo y fuego* → *fueron arrojados*
-  > Quienes fueron arrojados son los mismos <u>granizo</u> y fuego —mezclados con sangre. A la tierra: el mismo destino del incensario (Apocalipsis 8:5). Los árboles, todavía no.
+  > Quienes fueron arrojados son los mismos <u>granizo</u> y fuego —mezclados con sangre. A la tierra: el mismo destino del incensario.
 
 ### Apocalipsis 8:7:23 — *Y se quemó la tercera parte de los árboles*
 
-* Actores principales: *la tercera parte de los árboles* (1) · *toda la hierba verde* (1)
-  > El recuento ya no es granizo y fuego. Quienes ocupan la línea son <u>la</u> tercera parte de los árboles y toda la hierba verde. Una parte; y toda.
+> Ya no es granizo y fuego. Quienes ocupan la línea son <u>la</u> tercera parte de los árboles y toda la hierba verde. Una parte; y toda.
 
 #### *quemó*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y fueron arrojados a la tierra*).
-  > Ese <u>Y</u> no suma otro arrojar. Tras fueron arrojados a la tierra: se quemó. Quién, en la línea que sigue.
+  > Ese <u>Y</u> no suma otro arrojar. Tras *fueron arrojados a la tierra*: *se quemó*. Quién, la línea que sigue.
 
 + *la tercera parte de los árboles, y se quemó toda la hierba verde*
   * *la tercera parte de los árboles* → *se quemó*
-  > Quien se quemó es <u>la</u> tercera parte de los árboles. No todos. En Apocalipsis 7:3 se mandó no dañarlos. Ahora se quema una parte.
+  > Quien se quemó es <u>la</u> tercera parte de los árboles. No todos. Se mandó no dañarlos. Ahora se quema una parte.
 
   * *toda la hierba verde* → *se quemó*
-  > Quien se quemó, otra vez, es <u>toda</u> la hierba verde. No una tercera: toda. El segundo ángel, todavía no.
+  > Quien se quemó, otra vez, es <u>toda</u> la hierba verde. No una tercera: toda.
 
 ### Apocalipsis 8:8:5 — *Y el segundo ángel tocó la trompeta*
 
-* Actores principales: *algo como una gran montaña* (1) · *el segundo ángel* (1)
-  > El recuento pone a <u>algo</u> como una gran montaña y al segundo ángel. El segundo toca; lo semejante a montaña es arrojado.
+> Se mueve <u>el</u> segundo ángel. Toca; *algo como una gran montaña* es arrojado.
 
 #### *Y el segundo ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y se quemó la tercera parte de los árboles*).
-  > Ese <u>Y</u> no suma otra hierba. Tras se quemó: el segundo tocó.
+  > Ese <u>Y</u> no suma otra hierba. Tras *se quemó*: el segundo *tocó*.
 
 * *el segundo ángel* → *tocó*
-  > Quien tocó es <u>el</u> segundo ángel. La flecha se detiene en tocó. Otra vez: no hay *Ven y mira*. Qué cae, anidado.
+  > Quien tocó es <u>el</u> segundo ángel. Otra vez: no hay *Ven y mira*.
 
 - *y algo como una gran montaña ardiendo en fuego fue arrojado al mar*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el segundo ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocar. Tras tocó: fue arrojado.
+  > Ese <u>y</u> no suma otro tocar. Tras *tocó*: *fue arrojado*.
 
   * *algo como una gran montaña* → *fue arrojado*
-  > Quien fue arrojado es <u>algo</u> como una gran montaña. No dice que es una montaña. Al mar —no a la tierra, como el granizo. La tercera parte del mar, todavía no.
+  > Quien fue arrojado es <u>algo</u> como una gran montaña. No dice que es una montaña. Al mar —no a la tierra, como el granizo.
 
   + *montaña*
     * ↳ *ardiendo* (καιόμενον)[^P]
@@ -5113,27 +5017,25 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 8:8:17 — *Y la tercera parte del mar se convirtió en sangre*
 
-* Actores principales: *la tercera parte del mar* (1)
-  > El recuento ya no es la montaña. Quien ocupa la línea es <u>la</u> tercera parte del mar, uno.
+> Ya no es la montaña. Quien ocupa la línea es <u>la</u> tercera parte del mar.
 
 #### *Y la tercera parte del mar se convirtió en sangre*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y algo como una gran montaña ardiendo en fuego fue arrojado al mar*).
-  > Ese <u>Y</u> no suma otro arrojar. Tras fue arrojado al mar: se convirtió.
+  > Ese <u>Y</u> no suma otro arrojar. Tras *fue arrojado al mar*: *se convirtió*.
 
 * *la tercera parte del mar* → *se convirtió*
-  > Quien se convirtió es <u>la</u> tercera parte del mar. No todo el mar. En sangre —el granizo y el fuego ya venían mezclados con sangre (Apocalipsis 8:7). Las criaturas, todavía no.
+  > Quien se convirtió es <u>la</u> tercera parte del mar. No todo el mar. En sangre —el granizo y el fuego ya venían mezclados con sangre.
 
 ### Apocalipsis 8:9:2 — *y murió la tercera parte de las criaturas que estaban en el mar, las que tenían vida*
 
-* Actores principales: *la tercera parte de las criaturas que estaban en el mar, las que tenían vida* (1)
-  > El recuento ya no es el mar. Quien ocupa la línea es <u>la</u> tercera parte de las criaturas que estaban en el mar, las que tenían vida, uno.
+> Ya no es el mar. Quien ocupa la línea es <u>la</u> tercera parte de las criaturas —las que tenían vida.
 
 #### *y murió la tercera parte de las criaturas que estaban en el mar, las que tenían vida*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y la tercera parte del mar se convirtió en sangre*).
-  > Ese <u>y</u> no suma otra sangre. Tras el mar se convirtió: murió.
+  > Ese <u>y</u> no suma otra sangre. Tras el mar *se convirtió*: *murió*.
 
 * *la tercera parte de las criaturas que estaban en el mar, las que tenían vida* → *murió*
-  > Quien murió es <u>la</u> tercera parte de las criaturas que estaban en el mar. La flecha se detiene en murió. Los barcos, todavía no.
+  > Quien murió es <u>la</u> tercera parte de las criaturas que estaban en el mar.
 
 + *criaturas*
   * ↳ *tenían* (ἔχοντα)[^P]
@@ -5141,164 +5043,153 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 8:9:19 — *y la tercera parte de los barcos fue destruida*
 
-* Actores principales: *la tercera parte de los barcos* (1)
-  > El recuento ya no es las criaturas. Quien ocupa la línea es <u>la</u> tercera parte de los barcos, uno.
+> Ya no son las criaturas. Quien ocupa la línea es <u>la</u> tercera parte de los barcos.
 
 #### *y la tercera parte de los barcos fue destruida*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y murió la tercera parte de las criaturas que estaban en el mar, las que tenían vida*).
-  > Ese <u>y</u> no suma otra muerte. Tras murió: fue destruida.
+  > Ese <u>y</u> no suma otra muerte. Tras *murió*: *fue destruida*.
 
 * *la tercera parte de los barcos* → *fue destruida*
-  > Quien fue destruida es <u>la</u> tercera parte de los barcos. No todos. El mar ya era sangre; las criaturas que tenían vida ya murieron. Ahora los barcos. El tercer ángel, todavía no.
+  > Quien fue destruida es <u>la</u> tercera parte de los barcos. No todos. El mar ya era sangre; las criaturas que tenían vida ya murieron. Ahora los barcos.
 
 ### Apocalipsis 8:10:5 — *Y el tercer ángel tocó la trompeta*
 
-* Actores principales: *el tercer ángel* (1)
-  > El recuento ya no es los barcos. Quien ocupa la línea es <u>el</u> tercer ángel, uno.
+> Ya no son los barcos. Quien ocupa la línea es <u>el</u> tercer ángel.
 
 #### *Y el tercer ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y la tercera parte de los barcos fue destruida*).
-  > Ese <u>Y</u> no suma otros barcos. Tras fue destruida: el tercero tocó.
+  > Ese <u>Y</u> no suma otros barcos. Tras *fue destruida*: el tercero *tocó*.
 
 * *el tercer ángel* → *tocó*
-  > Quien tocó es <u>el</u> tercer ángel. La flecha se detiene en tocó. Otra vez: no hay *Ven y mira*. La estrella, todavía no.
+  > Quien tocó es <u>el</u> tercer ángel. Otra vez: no hay *Ven y mira*.
 
 ### Apocalipsis 8:10:7 — *y cayó del cielo una gran estrella, ardiendo como una antorcha*
 
-* Actores principales: *una gran estrella* (1)
-  > El recuento ya no es el tercer ángel. Quien ocupa la línea es <u>una</u> gran estrella, uno.
+> Ya no es el tercer ángel. Quien ocupa la línea es <u>una</u> gran estrella.
 
 #### *y cayó del cielo una gran estrella, ardiendo como una antorcha*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el tercer ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocar. Tras tocó: cayó.
+  > Ese <u>y</u> no suma otro tocar. Tras *tocó*: *cayó*.
 
 * *una gran estrella* → *cayó*
-  > Quien cayó es <u>una</u> gran estrella. La flecha se detiene en cayó. Del cielo queda en la misma línea, fuera de la flecha. Al sexto sello ya cayeron las estrellas a la tierra (Apocalipsis 6:13). Ahora cae una, grande. Sobre los ríos, todavía no.
+  > Quien cayó es <u>una</u> gran estrella. Del cielo. Al sexto sello ya cayeron las estrellas a la tierra. Ahora cae una, grande.
 
 + *estrella*
   * ↳ *ardiendo* (καιόμενος)[^P]
-  > No cae apagada. Está <u>ardiendo</u> como una antorcha —como la montaña del segundo toque (Apocalipsis 8:8).
+  > No cae apagada. Está <u>ardiendo</u> como una antorcha —como la montaña del segundo toque.
 
 ### Apocalipsis 8:10:17 — *y cayó sobre la tercera parte de los ríos y sobre los manantiales de aguas*
 
-* Actores principales: *una gran estrella* (1)
-  > Sigue <u>una</u> gran estrella, uno. Ya no solo cayó del cielo. Ahora cae sobre aguas.
+> Ya no solo cayó del cielo. La misma <u>una</u> gran estrella cae otra vez.
 
 #### *y cayó sobre la tercera parte de los ríos y sobre los manantiales de aguas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y cayó del cielo una gran estrella, ardiendo como una antorcha*).
-  > Ese <u>y</u> no suma otra estrella. Tras cayó del cielo: cayó otra vez.
+  > Ese <u>y</u> no suma otra estrella. Tras *cayó del cielo*: *cayó* otra vez.
 
 * *una gran estrella* → *cayó*
-  > Quien cayó es la misma <u>una</u> gran estrella. El mismo cayó. Ahora el dónde: sobre la tercera parte de los ríos —y sobre los manantiales de aguas, sin tercera. El nombre, todavía no.
+  > Quien cayó es la misma <u>una</u> gran estrella. Ahora el dónde: sobre la tercera parte de los ríos —y sobre los manantiales de aguas, sin tercera.
 
 ### Apocalipsis 8:11:6 — *Y el nombre de la estrella se llama Ajenjo*
 
-* Actores principales: *el nombre de la estrella* (1)
-  > El recuento ya no es la estrella cayendo. Quien ocupa la línea es <u>el</u> nombre de la estrella, uno.
+> Ya no es la caída. Quien ocupa la línea es <u>el</u> nombre de la estrella.
 
 #### *Y el nombre de la estrella se llama Ajenjo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y cayó sobre la tercera parte de los ríos y sobre los manantiales de aguas*).
-  > Ese <u>Y</u> no suma otra caída. Tras cayó sobre las aguas: el nombre.
+  > Ese <u>Y</u> no suma otra caída. Tras *cayó* sobre las aguas: el nombre.
 
 * *el nombre de la estrella* → *se llama*
-  > Quien se llama es <u>el</u> nombre de la estrella. La flecha se detiene en se llama. Ajenjo queda en la misma línea, fuera de la flecha. Las aguas, todavía no.
+  > Quien se llama es <u>el</u> nombre de la estrella. *Ajenjo*.
 
 ### Apocalipsis 8:11:10 — *Y la tercera parte de las aguas se convierte en ajenjo*
 
-* Actores principales: *la tercera parte de las aguas* (1)
-  > El recuento ya no es el nombre. Quien ocupa la línea es <u>la</u> tercera parte de las aguas, uno.
+> Ya no es el nombre. Quien ocupa la línea es <u>la</u> tercera parte de las aguas.
 
 #### *Y la tercera parte de las aguas se convierte en ajenjo*
 * *se convierte* (καὶ)[^kai] une esta cláusula con la anterior (*Y el nombre de la estrella se llama Ajenjo*).
-  > Ese <u>se convierte</u> no suma otro nombre. Tras se llama Ajenjo: se convierte.
+  > Ese <u>se convierte</u> no suma otro nombre. Tras *se llama Ajenjo*: *se convierte*.
 
 * *la tercera parte de las aguas* → *se convierte*
-  > Quien se convierte es <u>la</u> tercera parte de las aguas. No todas. En ajenjo —el nombre de la estrella. El mar ya se convirtió en sangre (Apocalipsis 8:8). Ahora las aguas toman el nombre. Los hombres, todavía no.
+  > Quien se convierte es <u>la</u> tercera parte de las aguas. No todas. En ajenjo —el nombre de la estrella. El mar ya se convirtió en sangre. Ahora las aguas toman el nombre.
 
 ### Apocalipsis 8:11:21 — *y muchos de los hombres murieron por las aguas*
 
-* Actores principales: *muchos de los hombres* (1)
-  > El recuento ya no es las aguas. Quienes ocupan la línea son <u>muchos</u> de los hombres, uno. Primera vez que mueren hombres en las trompetas.
+> Ya no son las aguas. Quienes ocupan la línea son <u>muchos</u> de los hombres. Primera vez que mueren hombres en las trompetas.
 
 #### *y muchos de los hombres murieron por las aguas*
 * *muchos* (καὶ)[^kai] une esta cláusula con la anterior (*Y la tercera parte de las aguas se convierte en ajenjo*).
-  > Ese <u>muchos</u> no suma otra conversión. Tras se convierte: murieron.
+  > Ese <u>muchos</u> no suma otra conversión. Tras *se convierte*: *murieron*.
 
 * *muchos de los hombres* → *murieron*
-  > Quienes murieron son <u>muchos</u> de los hombres. No una tercera parte: muchos. Por las aguas queda en la misma línea, fuera de la flecha. Por qué, anidado.
+  > Quienes murieron son <u>muchos</u> de los hombres. No una tercera parte: muchos. Por las aguas.
 
 - *porque se hicieron amargas*
-  * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otros muchos. Da la razón de murieron: se hicieron amargas.
+  * *porque* (ὅτι)[^hoti] introduce la razón de *murieron*.
+  > Ese <u>porque</u> no abre otros muchos. Da la razón: *se hicieron amargas*.
 
   * *(las aguas)* → *se hicieron*
-  > Quienes se hicieron amargas son <u>las</u> aguas —las que se convirtieron en ajenjo. El cuarto ángel, todavía no.
+  > Quienes se hicieron amargas son <u>las</u> aguas —las que se convirtieron en ajenjo.
 
 ### Apocalipsis 8:12:5 — *Y el cuarto ángel tocó la trompeta*
 
-* Actores principales: *el cuarto ángel* (1)
-  > El recuento ya no es los hombres. Quien ocupa la línea es <u>el</u> cuarto ángel, uno.
+> Ya no son los hombres. Quien ocupa la línea es <u>el</u> cuarto ángel.
 
 #### *Y el cuarto ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y muchos de los hombres murieron por las aguas*).
-  > Ese <u>Y</u> no suma otra muerte. Tras murieron: el cuarto tocó.
+  > Ese <u>Y</u> no suma otra muerte. Tras *murieron*: el cuarto *tocó*.
 
 * *el cuarto ángel* → *tocó*
-  > Quien tocó es <u>el</u> cuarto ángel. La flecha se detiene en tocó. Otra vez: no hay *Ven y mira*. El sol, todavía no.
+  > Quien tocó es <u>el</u> cuarto ángel. Otra vez: no hay *Ven y mira*.
 
 ### Apocalipsis 8:12:7 — *y fue herida la tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas*
 
-* Actores principales: *el día* (1) · *la tercera parte de ellos* (1) · *la tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas* (1)
-  > El recuento pone al <u>día</u>, a la tercera parte de ellos, y a la tercera parte del sol, de la luna y de las estrellas. Son heridos; ellos se oscurecen; el día no brilla.
+> Se hiere <u>la</u> tercera parte del sol, de la luna y de las estrellas. Ellos se oscurecen; el día no brilla.
 
 #### *y fue herida la tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el cuarto ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocar. Tras tocó: fue herida.
+  > Ese <u>y</u> no suma otro tocar. Tras *tocó*: *fue herida*.
 
 * *la tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas* → *fue herida*
-  > Quien fue herida es <u>la</u> tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas. No todos. Al sexto sello el sol se volvió negro, la luna como sangre, las estrellas cayeron (Apocalipsis 6:12–13). Ahora se hiere una tercera. Para qué, anidado.
+  > Quien fue herida es <u>la</u> tercera parte del sol, la tercera parte de la luna y la tercera parte de las estrellas. No todos. Al sexto sello el sol se volvió negro, la luna como sangre, las estrellas cayeron. Ahora se hiere una tercera.
 
 - *para que se oscureciera la tercera parte de ellos*
-  * *para que* (ἵνα)[^hina]
-  > Ese <u>para que</u> no abre otra herida. Trae el para qué de fue herida: se oscureciera.
+  * *para que* (ἵνα)[^hina] introduce el propósito de *fue herida*.
+  > Ese <u>para que</u> no abre otra herida. Trae el propósito: *se oscureciera*.
 
   * *la tercera parte de ellos* → *se oscureciera*
   > Quien se oscureciera es <u>la</u> tercera parte de ellos —sol, luna y estrellas. El mismo tercio.
 
 - *y el día no brillara durante la tercera parte de él*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*para que se oscureciera la tercera parte de ellos*).
-  > Ese <u>y</u> no abre otro para que. Sigue el mismo para qué: el día no brillara.
+  > Ese <u>y</u> no abre otro *para que*. Sigue el mismo propósito: el día no brillara.
 
   * *el día* → *no brillara*
   > Quien no brillara es <u>el</u> día. Durante la tercera parte de él.
 
 - *y la noche igualmente*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el día no brillara durante la tercera parte de él*).
-  > Ese <u>y</u> no abre otro día. La noche, igual. Juan, todavía no.
+  > Ese <u>y</u> no abre otro día. La noche, igual.
 
 ### Apocalipsis 8:13:2 — *Y vi*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento ya no es el día. Quien ocupa la línea es <u>Yo</u>, Juan, uno.
+> Ya no es el día. Se mueve <u>Yo</u>, Juan. Ahora ve.
 
 #### *Y vi*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y la noche igualmente*).
   > Ese <u>Y</u> no suma otra noche. Tras la noche: Juan ve.
 
 * *Yo, Juan* → *vi*
-  > Quien ve es <u>Yo</u>, Juan. La flecha se detiene en vi. Qué oye, todavía no.
+  > Quien ve es <u>Yo</u>, Juan.
 
 ### Apocalipsis 8:13:4 — *y oí a un ángel que volaba en medio del cielo, diciendo con gran voz: ¡Ay, ay, ay de los que habitan en la tierra, por las demás voces de la trompeta de los tres ángeles que están por tocar*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo ve. Ahora oye.
+> Ya no solo ve. <u>Yo</u>, Juan, oye.
 
 #### *y oí a un ángel que volaba en medio del cielo, diciendo con gran voz: ¡Ay, ay, ay de los que habitan en la tierra, por las demás voces de la trompeta de los tres ángeles que están por tocar*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi*).
-  > Ese <u>y</u> no suma otro ver. Tras vi: oí.
+  > Ese <u>y</u> no suma otro ver. Tras *vi*: *oí*.
 
 * *Yo, Juan* → *oí* → *a un ángel*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: a un ángel. No es uno de los siete que tocan.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *a un ángel*. No es uno de los siete que tocan.
 
 + *ángel*
   * ↳ *volaba* (πετομένου)[^P]
@@ -5311,255 +5202,239 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 + *ángeles*
   * ↳ *están* (μελλόντων)[^P]
   * ↳ *tocar* (σαλπίζειν)[^I]
-  > Tres veces <u>Ay</u> —de los que habitan en la tierra. Por las demás voces: los tres que están por tocar. Cuatro ya tocaron. Quedan tres. El quinto, todavía no.
+  > Tres veces <u>Ay</u> —de los que habitan en la tierra. Por las demás voces: los tres que están por tocar. Cuatro ya tocaron. Quedan tres.
 
 ### Apocalipsis 9:1:5 — *Y el quinto ángel tocó la trompeta*
 
-* Actores principales: *el quinto ángel* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> quinto ángel, uno.
+> Ya no es Juan. Quien ocupa la línea es <u>el</u> quinto ángel.
 
 #### *Y el quinto ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y oí a un ángel que volaba…*).
-  > Ese <u>Y</u> no suma otro ay. Tras los tres ayes: el quinto tocó.
+  > Ese <u>Y</u> no suma otro *ay*. Tras los tres ayes: el quinto *tocó*.
 
 * *el quinto ángel* → *tocó*
-  > Quien tocó es <u>el</u> quinto ángel. La flecha se detiene en tocó. El primero de los tres que estaban por tocar. Otra vez: no hay *Ven y mira*. La estrella, todavía no.
+  > Quien tocó es <u>el</u> quinto ángel. El primero de los tres que estaban por tocar. Otra vez: no hay *Ven y mira*.
 
 ### Apocalipsis 9:1:7 — *y vi una estrella que había caído del cielo a la tierra*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El quinto tocó; Juan ve.
+> El quinto tocó. Se mueve <u>Yo</u>, Juan. Ahora ve.
 
 #### *y vi una estrella que había caído del cielo a la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el quinto ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocar. Tras tocó: Juan ve.
+  > Ese <u>y</u> no suma otro tocar. Tras *tocó*: Juan ve.
 
 * *Yo, Juan* → *vi* → *una estrella*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: una estrella. En Apocalipsis 8:10 cayó una gran estrella y Juan la vio caer. Aquí no dice que cae ahora.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *una estrella*. Al tercer toque cayó una gran estrella y Juan la vio caer. Aquí no dice que cae ahora.
 
 + *estrella*
   * ↳ *caído* (πεπτωκότα)[^P]
-  > Ya había <u>caído</u> del cielo a la tierra. La llave, todavía no.
+  > Ya había <u>caído</u> del cielo a la tierra.
 
 ### Apocalipsis 9:1:17 — *y se le dio la llave del pozo del abismo*
 
-* Actores principales: *la llave del pozo del abismo* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>la</u> llave del pozo del abismo, uno.
+> Ya no es Juan. Quien ocupa la línea es <u>la</u> llave del pozo del abismo.
 
 #### *y se le dio la llave del pozo del abismo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vi una estrella que había caído del cielo a la tierra*).
-  > Ese <u>y</u> no suma otra estrella. A la que había caído: se le dio.
+  > Ese <u>y</u> no suma otra estrella. A la que había caído: *se le dio*.
 
 * *la llave del pozo del abismo* → *se le dio*
-  > Quien se le dio es <u>la</u> llave del pozo del abismo. La flecha se detiene en se le dio. Abrir, todavía no.
+  > Quien se le dio es <u>la</u> llave del pozo del abismo.
 
 ### Apocalipsis 9:2:2 — *Y abrió el pozo del abismo*
 
-* Actores principales: *una estrella* (1)
-  > El recuento ya no es la llave. Quien ocupa la línea es <u>una</u> estrella, uno. La que había caído.
+> Ya no es la llave. Quien ocupa la línea es <u>una</u> estrella —la que había caído.
 
 #### *Y abrió el pozo del abismo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y se le dio la llave del pozo del abismo*).
-  > Ese <u>Y</u> no suma otra llave. Tras se le dio: abrió.
+  > Ese <u>Y</u> no suma otra llave. Tras *se le dio*: *abrió*.
 
 * *una estrella* → *abrió* → *el pozo del abismo*
-  > Quien abrió es <u>una</u> estrella —la que había caído, a quien se le dio la llave. Lo alcanzado: el pozo del abismo. El humo, todavía no.
+  > Quien abrió es <u>una</u> estrella —la que había caído, a quien se le dio la llave. Lo alcanzado: el pozo del abismo.
 
 ### Apocalipsis 9:2:8 — *y subió humo del pozo como humo de un gran horno*
 
-* Actores principales: *humo* (1)
-  > El recuento ya no es la estrella. Quien ocupa la línea es <u>humo</u>, uno.
+> Ya no es la estrella. Quien ocupa la línea es <u>humo</u>.
 
 #### *y subió humo del pozo como humo de un gran horno*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y abrió el pozo del abismo*).
-  > Ese <u>y</u> no suma otro abrir. Tras abrió: subió.
+  > Ese <u>y</u> no suma otro abrir. Tras *abrió*: *subió*.
 
 * *humo* → *subió*
-  > Quien subió es <u>humo</u>. Del pozo. Como humo de un gran horno queda en la misma línea. En Apocalipsis 8:4 el humo de los inciensos subió delante de Dios. Este sale del pozo. El sol, todavía no.
+  > Quien subió es <u>humo</u>. Del pozo. Como humo de un gran horno. El humo de los inciensos subió delante de Dios. Este sale del pozo.
 
 ### Apocalipsis 9:2:18 — *y el sol y el aire se oscurecieron por el humo del pozo*
 
-* Actores principales: *el sol y el aire* (1)
-  > El recuento ya no es el humo subiendo. Quienes ocupan la línea son <u>el</u> sol y el aire, uno.
+> Ya no es el humo subiendo. Quienes ocupan la línea son <u>el</u> sol y el aire.
 
 #### *y el sol y el aire se oscurecieron por el humo del pozo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y subió humo del pozo como humo de un gran horno*).
-  > Ese <u>y</u> no suma otro horno. Tras subió: se oscurecieron.
+  > Ese <u>y</u> no suma otro horno. Tras *subió*: *se oscurecieron*.
 
 * *el sol y el aire* → *se oscurecieron*
-  > Quienes se oscurecieron son <u>el</u> sol y el aire. Por el humo del pozo. Al sexto sello el sol se volvió negro (Apocalipsis 6:12). Al cuarto toque se hirió una tercera (Apocalipsis 8:12). Ahora el humo oscurece sol y aire. Las langostas, todavía no.
+  > Quienes se oscurecieron son <u>el</u> sol y el aire. Por el humo del pozo. Al sexto sello el sol se volvió negro. Al cuarto toque se hirió una tercera. Ahora el humo oscurece sol y aire.
 
 ### Apocalipsis 9:3:5 — *Y del humo salieron langostas hacia la tierra*
 
-* Actores principales: *langostas* (1)
-  > El recuento ya no es el sol y el aire. Quienes ocupan la línea son <u>langostas</u>, uno.
+> Ya no son el sol y el aire. Quienes ocupan la línea son <u>langostas</u>.
 
 #### *Y del humo salieron langostas hacia la tierra*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y el sol y el aire se oscurecieron por el humo del pozo*).
-  > Ese <u>Y</u> no suma otro oscurecer. Tras se oscurecieron: salieron.
+  > Ese <u>Y</u> no suma otro oscurecer. Tras *se oscurecieron*: *salieron*.
 
 * *langostas* → *salieron*
-  > Quienes salieron son <u>langostas</u>. Del humo —el mismo del pozo. Hacia la tierra. Autoridad, todavía no.
+  > Quienes salieron son <u>langostas</u>. Del humo —el mismo del pozo. Hacia la tierra.
 
 ### Apocalipsis 9:3:11 — *y se les dio autoridad*
 
-* Actores principales: *autoridad* (1) · *los escorpiones de la tierra* (1)
-  > El recuento pone a <u>autoridad</u> y a los escorpiones de la tierra. Se les da; los escorpiones comparan.
+> Se les da <u>autoridad</u>. Los escorpiones de la tierra comparan.
 
 #### *y se les dio autoridad*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y del humo salieron langostas hacia la tierra*).
-  > Ese <u>y</u> no suma otras langostas. A las que salieron: se les dio.
+  > Ese <u>y</u> no suma otras langostas. A las que salieron: *se les dio*.
 
 * *autoridad* → *se les dio*
-  > Quien se les dio es <u>autoridad</u>. A las langostas. Cómo, anidado.
+  > Quien se les dio es <u>autoridad</u>. A las langostas.
 
 - *como la autoridad que tienen los escorpiones de la tierra*
   * *como* (ὡς)[^hos]
   > Ese <u>como</u> no abre otra autoridad dada. Trae el cómo: como la que tienen los escorpiones de la tierra.
 
   * *los escorpiones de la tierra* → *tienen*
-  > Quienes tienen son <u>los</u> escorpiones de la tierra. Lo que tienen: autoridad. Se les dijo, todavía no.
+  > Quienes tienen son <u>los</u> escorpiones de la tierra. Lo que tienen: autoridad.
 
 ### Apocalipsis 9:4:2 — *Y se les dijo*
 
-* Actores principales: *langostas* (1) · *que* (1) · *que no dañaran* (1)
-  > El recuento pone a <u>langostas</u>, a que, y a que no dañaran. Se les dice; no dañan hierba; hay quienes no tienen sello.
+> Se les dice a las <u>langostas</u>. No dañan hierba; hay quienes no tienen sello.
 
 #### *Y se les dijo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y se les dio autoridad*).
-  > Ese <u>Y</u> no suma otra autoridad. Ya se les dio. Ahora se les dijo.
+  > Ese <u>Y</u> no suma otra autoridad. Ya se les dio. Ahora *se les dijo*.
 
 * *que no dañaran* → *se les dijo*
-  > Lo que se les dijo es <u>que</u> no dañaran. La flecha se detiene en se les dijo. Qué no dañar, anidado.
+  > Lo que se les dijo es <u>que</u> no dañaran.
 
 - *que no dañaran la hierba de la tierra ni nada verde ni ningún árbol, sino solamente a las personas*
-  * *que* (ἵνα)[^hina]
-  > Ese <u>que</u> no abre otro se les dijo. No es un para qué de se les dijo. Es lo que se les dijo: no dañaran.
+  * *que* (ἵνα)[^hina] introduce el contenido de *se les dijo*.
+  > Ese <u>que</u> no abre otro *se les dijo*. No es un propósito de *se les dijo*. Es lo que se les dijo: *no dañaran*.
 
   * *langostas* → *no dañaran* → *la hierba de la tierra ni nada verde ni ningún árbol a las personas*
-  > Quienes no dañaran son <u>langostas</u>. Lo alcanzado: la hierba, nada verde, ningún árbol —sino solamente a las personas. En Apocalipsis 8:7 ya se quemó hierba y árboles. A estas no se les permite eso.
+  > Quienes no dañaran son <u>langostas</u>. Lo alcanzado: la hierba, nada verde, ningún árbol —sino solamente a las personas. Ya se quemó hierba y árboles. A estas no se les permite eso.
 
   - *que no tienen el sello de Dios en las frentes de ellas*
     * *que* (οἵτινες)[^rel]: describe a *personas*.
     > Ese <u>que</u> no abre otras langostas. Describe a las personas: las que no tienen el sello.
 
     * *que* → *no tienen* → *el sello de Dios*
-    > Quienes no tienen son <u>que</u> —las personas. Lo alcanzado: el sello de Dios. En las frentes, como los siervos de Apocalipsis 7:3. Permitir, todavía no.
+    > Quienes no tienen son <u>que</u> —las personas. Lo alcanzado: el sello de Dios. En las frentes, como los siervos sellados.
 
   + *personas*
     * *solamente* (οἵτινες)[^rel]: describe a *personas*.
 
 ### Apocalipsis 9:5:2 — *Y se les permitió*
 
-* Actores principales: *langostas* (2) · *no matarlas, sino atormentarlas* (1)
-  > El recuento pone a <u>langostas</u>, dos, y a no matarlas, sino atormentarlas. Se les permite; no matan; atormentan.
+> Se les permite a las <u>langostas</u>. No matan; atormentan.
 
 #### *Y se les permitió*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y se les dijo*).
-  > Ese <u>Y</u> no suma otro se les dijo. Ya se les dijo a quién. Ahora se les permitió hasta dónde.
+  > Ese <u>Y</u> no suma otro *se les dijo*. Ya se les dijo a quién. Ahora *se les permitió* hasta dónde.
 
 * *no matarlas, sino atormentarlas* → *se les permitió*
-  > Lo que se les permitió es <u>no</u> matarlas, sino atormentarlas. La flecha se detiene en se les permitió. Los dos lados, anidados.
+  > Lo que se les permitió es <u>no</u> matarlas, sino atormentarlas.
 
 - *no matarlas*
-  * *se* (ἵνα)[^hina]
-  > Ese <u>se</u> no abre otro se les permitió. Trae lo permitido: no matarlas.
+  * *se* (ἵνα)[^hina] introduce el contenido de *se les permitió*.
+  > Ese <u>se</u> no abre otro *se les permitió*. Trae lo permitido: *no matarlas*.
 
   * *langostas* → *no matarlas*
   > Quienes no matarlas son <u>langostas</u>. A las personas que no tienen el sello. No se les da matar.
 
 - *sino atormentarlas durante cinco meses*
-  * *atormentarlas* (ἵνα)[^hina]
-  > Ese <u>atormentarlas</u> no abre otro permitir. El mismo permiso, el otro lado: sino atormentarlas.
+  * *atormentarlas* (ἵνα)[^hina] introduce el contenido de *se les permitió*.
+  > Ese <u>atormentarlas</u> no abre otro permitir. El mismo permiso, el otro lado: *sino atormentarlas*.
 
   * *langostas* → *atormentarlas*
-  > Quienes atormentarlas son las mismas <u>langostas</u>. Durante cinco meses. El tormento, todavía no.
+  > Quienes atormentarlas son las mismas <u>langostas</u>. Durante cinco meses.
 
 ### Apocalipsis 9:5:15 — *y el tormento de ellas era como el tormento de un escorpión*
 
-* Actores principales: *el tormento de ellas* (1) · *un escorpión* (1)
-  > El recuento pone al <u>tormento</u> de ellas y a un escorpión. El tormento se compara; el escorpión pica.
+> El <u>tormento</u> de ellas se compara. El escorpión pica.
 
 #### *y el tormento de ellas era como el tormento de un escorpión*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*sino atormentarlas durante cinco meses*).
   > Ese <u>y</u> no suma otros cinco meses. Ya se permitió atormentar. Ahora se nombra cómo es.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone era. La afirmación es el <u>tormento</u>.
+  > El griego no trae verbo. El español pone *era*. La afirmación es el <u>tormento</u>.
 
 * *el tormento de ellas* → *era* → *como el tormento de un escorpión*
-  > Quien era es <u>el</u> tormento de ellas —de las langostas. Lo alcanzado: como el tormento de un escorpión. La autoridad ya era como la de los escorpiones (Apocalipsis 9:3). Ahora el tormento mismo. Cuándo, anidado.
+  > Quien era es <u>el</u> tormento de ellas —de las langostas. Lo alcanzado: como el tormento de un escorpión. La autoridad ya era como la de los escorpiones. Ahora el tormento mismo.
 
 - *cuando pica a una persona*
   * *cuando* (ὅταν)
   > Ese <u>cuando</u> no abre otro tormento. Fija el cómo del escorpión: cuando pica.
 
   * *un escorpión* → *pica* → *a una persona*
-  > Quien pica es <u>un</u> escorpión. Lo alcanzado: a una persona. Las personas, todavía no.
+  > Quien pica es <u>un</u> escorpión. Lo alcanzado: a una persona.
 
 ### Apocalipsis 9:6:6 — *Y en aquellos días las personas buscarán la muerte*
 
-* Actores principales: *las personas* (1)
-  > El recuento ya no es el escorpión. Quienes ocupan la línea son <u>las</u> personas, uno.
+> Ya no es el escorpión. Quienes ocupan la línea son <u>las</u> personas.
 
 #### *Y en aquellos días las personas buscarán la muerte*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*cuando pica a una persona*).
-  > Ese <u>Y</u> no suma otra picadura. Tras pica: las personas.
+  > Ese <u>Y</u> no suma otra picadura. Tras *pica*: las personas.
 
 * *las personas* → *buscarán* → *la muerte*
-  > Quienes buscarán son <u>las</u> personas —las que no tienen el sello, las que reciben el tormento. Lo alcanzado: la muerte. En aquellos días —los cinco meses. Encontrar, todavía no.
+  > Quienes buscarán son <u>las</u> personas —las que no tienen el sello, las que reciben el tormento. Lo alcanzado: la muerte. En aquellos días —los cinco meses.
 
 ### Apocalipsis 9:6:14 — *y no la encontrarán*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Ya no solo buscan. Ahora no encuentran.
+> Ya no solo buscan. Las mismas <u>las</u> personas no encuentran.
 
 #### *y no la encontrarán*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y en aquellos días las personas buscarán la muerte*).
-  > Ese <u>y</u> no suma otra búsqueda. Tras buscarán: no encontrarán.
+  > Ese <u>y</u> no suma otra búsqueda. Tras *buscarán*: *no encontrarán*.
 
 * *las personas* → *no encontrarán* → *la*
-  > Quienes no encontrarán son las mismas <u>las</u> personas. Lo alcanzado: la —la muerte que buscan. Desear, todavía no.
+  > Quienes no encontrarán son las mismas <u>las</u> personas. Lo alcanzado: *la* —la muerte que buscan.
 
 ### Apocalipsis 9:6:17 — *y desearán morir*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Ya no solo no encuentran. Ahora desean.
+> Ya no solo no encuentran. Las mismas <u>las</u> personas desean.
 
 #### *y desearán morir*
 * *desearán* (καὶ)[^kai] une esta cláusula con la anterior (*y no la encontrarán*).
-  > Ese <u>desearán</u> no suma otro no encontrar. Tras no encontrarán: desearán.
+  > Ese <u>desearán</u> no suma otro no encontrar. Tras *no encontrarán*: *desearán*.
 
 * *las personas* → *desearán* → *morir*
   * ↳ *morir* (ἀποθανεῖν)[^I]
-  > Quienes desearán son las mismas <u>las</u> personas. Lo alcanzado: morir. Buscan la muerte y no la hallan; ahora la desean. La muerte, todavía no.
+  > Quienes desearán son las mismas <u>las</u> personas. Lo alcanzado: *morir*. Buscan la muerte y no la hallan; ahora la desean.
 
 ### Apocalipsis 9:6:20 — *y la muerte huirá de ellas*
 
-* Actores principales: *la muerte* (1)
-  > El recuento ya no es las personas. Quien ocupa la línea es <u>la</u> muerte, uno.
+> Ya no son las personas. Quien ocupa la línea es <u>la</u> muerte.
 
 #### *y la muerte huirá de ellas*
 * *huirá* (καὶ)[^kai] une esta cláusula con la anterior (*y desearán morir*).
-  > Ese <u>huirá</u> no suma otro desear. Tras desearán morir: huirá.
+  > Ese <u>huirá</u> no suma otro desear. Tras *desearán morir*: *huirá*.
 
 * *la muerte* → *huirá*
-  > Quien huirá es <u>la</u> muerte. De ellas —las que la buscan, no la hallan y la desean. Las figuras, todavía no.
+  > Quien huirá es <u>la</u> muerte. De ellas —las que la buscan, no la hallan y la desean.
 
 ### Apocalipsis 9:7:6 — *Y las figuras de las langostas eran semejantes a caballos preparados para la guerra*
 
-* Actores principales: *las figuras de las langostas* (1)
-  > El recuento ya no es la muerte. Quienes ocupan la línea son <u>las</u> figuras de las langostas, uno.
+> Ya no es la muerte. Quienes ocupan la línea son <u>las</u> figuras de las langostas.
 
 #### *Y las figuras de las langostas eran semejantes a caballos preparados para la guerra*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y la muerte huirá de ellas*).
-  > Ese <u>Y</u> no suma otra huida. Tras huirá: las figuras.
+  > Ese <u>Y</u> no suma otra huida. Tras *huirá*: las figuras.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone eran. La afirmación es <u>semejantes</u>.
+  > El griego no trae verbo. El español pone *eran*. La afirmación es <u>semejantes</u>.
 
 * *las figuras de las langostas* → *semejantes* → *a caballos preparados para la guerra*
-  > Quienes son semejantes son <u>las</u> figuras de las langostas. Lo alcanzado: a caballos preparados para la guerra. No son los caballos de los sellos. Las coronas, todavía no.
+  > Quienes son semejantes son <u>las</u> figuras de las langostas. Lo alcanzado: a caballos preparados para la guerra. No son los caballos de los sellos.
 
 + *caballos*
   * ↳ *preparados* (ἡτοιμασμένοις)[^P]
@@ -5567,187 +5442,173 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 9:7:18 — *y sobre las cabezas de ellas había como coronas semejantes al oro*
 
-* Actores principales: *coronas* (1)
-  > El recuento ya no es las figuras. Quienes ocupan la línea son <u>coronas</u>, uno.
+> Ya no son las figuras. Quienes ocupan la línea son <u>coronas</u>.
 
 #### *y sobre las cabezas de ellas había como coronas semejantes al oro*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y las figuras de las langostas eran semejantes a caballos preparados para la guerra*).
   > Ese <u>y</u> no suma otros caballos. Tras las figuras: sobre las cabezas.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone había. La afirmación es <u>coronas</u>.
+  > El griego no trae verbo. El español pone *había*. La afirmación es <u>coronas</u>.
 
 * *coronas* → *semejantes* → *al oro*
-  > Quienes son semejantes son <u>coronas</u>. Lo alcanzado: al oro. Como coronas —no dice que son de oro. Sobre las cabezas de ellas. Los ancianos tenían coronas de oro (Apocalipsis 4:4). Los rostros, en la línea que sigue.
+  > Quienes son semejantes son <u>coronas</u>. Lo alcanzado: al oro. *Como* coronas —no dice que son de oro. Sobre las cabezas de ellas. Los ancianos tenían coronas de oro.
 
 + *y los rostros de ellas eran como rostros de personas*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y sobre las cabezas de ellas había como coronas semejantes al oro*).
   > Ese <u>y</u> no suma otras coronas. Tras las cabezas: los rostros.
 
   * *los rostros de ellas* → *eran*
-  > Quienes eran son <u>los</u> rostros de ellas. Como rostros de personas. Los cabellos, todavía no.
+  > Quienes eran son <u>los</u> rostros de ellas. Como rostros de personas.
 
 ### Apocalipsis 9:8:2 — *Y tenían cabellos como cabellos de mujeres*
 
-* Actores principales: *langostas* (1)
-  > El recuento vuelve a <u>langostas</u>, uno. Ya no son las coronas ni los rostros. Ellas tienen.
+> Ya no son las coronas ni los rostros. Se mueven las <u>langostas</u>. Ellas tienen.
 
 #### *Y tenían cabellos como cabellos de mujeres*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y los rostros de ellas eran como rostros de personas*).
-  > Ese <u>Y</u> no suma otros rostros. Tras los rostros: tenían.
+  > Ese <u>Y</u> no suma otros rostros. Tras los rostros: *tenían*.
 
 * *langostas* → *tenían* → *cabellos*
-  > Quienes tenían son <u>langostas</u>. Lo alcanzado: cabellos. Como cabellos de mujeres. Los rostros eran como de personas; los cabellos, como de mujeres. Los dientes, todavía no.
+  > Quienes tenían son <u>langostas</u>. Lo alcanzado: cabellos. Como cabellos de mujeres. Los rostros eran como de personas; los cabellos, como de mujeres.
 
 ### Apocalipsis 9:8:13 — *y los dientes de ellas eran como de leones*
 
-* Actores principales: *los dientes de ellas* (1)
-  > El recuento ya no es las langostas teniendo. Quienes ocupan la línea son <u>los</u> dientes de ellas, uno.
+> Ya no es el tener cabellos. Quienes ocupan la línea son <u>los</u> dientes de ellas.
 
 #### *y los dientes de ellas eran como de leones*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y tenían cabellos como cabellos de mujeres*).
   > Ese <u>y</u> no suma otros cabellos. Tras los cabellos: los dientes.
 
 * *los dientes de ellas* → *eran*
-  > Quienes eran son <u>los</u> dientes de ellas. Como de leones. Las corazas, todavía no.
+  > Quienes eran son <u>los</u> dientes de ellas. Como de leones.
 
 ### Apocalipsis 9:9:2 — *Y tenían corazas como corazas de hierro*
 
-* Actores principales: *langostas* (1)
-  > El recuento vuelve a <u>langostas</u>, uno. Ya no son los dientes. Ellas tienen otra vez.
+> Ya no son los dientes. Se mueven las <u>langostas</u>. Ellas tienen otra vez.
 
 #### *Y tenían corazas como corazas de hierro*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y los dientes de ellas eran como de leones*).
-  > Ese <u>Y</u> no suma otros dientes. Tras los dientes: tenían.
+  > Ese <u>Y</u> no suma otros dientes. Tras los dientes: *tenían*.
 
 * *langostas* → *tenían* → *corazas*
-  > Quienes tenían son <u>langostas</u>. Lo alcanzado: corazas. Como corazas de hierro. El sonido, en la línea que sigue.
+  > Quienes tenían son <u>langostas</u>. Lo alcanzado: corazas. Como corazas de hierro.
 
 + *y el sonido de las alas de ellas era como el sonido de carros de muchos caballos que corren a la guerra*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y tenían corazas como corazas de hierro*).
-  > Ese <u>y</u> no suma otras corazas. Tras tenían: el sonido.
+  > Ese <u>y</u> no suma otras corazas. Tras *tenían*: el sonido.
 
   * *el sonido de las alas de ellas* → *era*
-  > Quien era es <u>el</u> sonido de las alas de ellas. Como carros de muchos caballos que corren a la guerra. Las figuras ya eran semejantes a caballos preparados para la guerra (Apocalipsis 9:7). Ahora las alas suenan así. Las colas, todavía no.
+  > Quien era es <u>el</u> sonido de las alas de ellas. Como carros de muchos caballos que corren a la guerra. Las figuras ya eran semejantes a caballos preparados para la guerra. Ahora las alas suenan así.
 
 ### Apocalipsis 9:10:2 — *Y tienen colas semejantes a escorpiones, y había aguijones*
 
-* Actores principales: *langostas* (1)
-  > Siguen <u>langostas</u>, uno. Ya no tienen corazas. Ahora tienen colas.
+> Ya no son las corazas. Se mueven las <u>langostas</u>. Ahora tienen colas.
 
 #### *Y tienen colas semejantes a escorpiones, y había aguijones*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y el sonido de las alas de ellas era como el sonido de carros de muchos caballos que corren a la guerra*).
-  > Ese <u>Y</u> no suma otro sonido. Tras las alas: tienen.
+  > Ese <u>Y</u> no suma otro sonido. Tras las alas: *tienen*.
 
 * *langostas* → *tienen* → *colas semejantes a escorpiones aguijones*
-  > Quienes tienen son <u>langostas</u>. Lo alcanzado: colas semejantes a escorpiones, y había aguijones. La autoridad ya era como la de los escorpiones (Apocalipsis 9:3). El tormento, como cuando un escorpión pica (Apocalipsis 9:5). Ahora se ven las colas. La autoridad en las colas, todavía no.
+  > Quienes tienen son <u>langostas</u>. Lo alcanzado: colas semejantes a escorpiones, y había aguijones. La autoridad ya era como la de los escorpiones. El tormento, como cuando un escorpión pica. Ahora se ven las colas.
 
 ### Apocalipsis 9:10:14 — *en las colas de ellas; y su autoridad para dañar a las personas durante cinco meses*
 
-* Actores principales: *su autoridad* (1)
-  > El recuento ya no es las langostas teniendo. Quien ocupa la línea es <u>su</u> autoridad, uno.
+> Ya no es el tener. Quien ocupa la línea es <u>su</u> autoridad.
 
 #### *en las colas de ellas; y su autoridad para dañar a las personas durante cinco meses*
 * *había* (καὶ)[^kai] une esta cláusula con la anterior (*Y tienen colas semejantes a escorpiones, y había aguijones*).
-  > Ese <u>había</u> no suma otros aguijones. Tras había aguijones: la autoridad.
+  > Ese <u>había</u> no suma otros aguijones. Tras *había aguijones*: la autoridad.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. La afirmación es <u>su</u> autoridad.
 
 * *su autoridad* → *autoridad* → *en las colas de ellas para dañar a las personas durante cinco meses*
   * ↳ *dañar* (ἀδικῆσαι)[^I]
-  > Quien es <u>su</u> autoridad. El medio de la flecha repite autoridad. Lo alcanzado: en las colas de ellas, para dañar a las personas durante cinco meses —los de Apocalipsis 9:5. El rey, todavía no.
+  > Quien es <u>su</u> autoridad. Lo alcanzado: en las colas de ellas, para dañar a las personas durante cinco meses —los que ya se permitieron.
 
 ### Apocalipsis 9:11:1 — *Y tienen sobre ellas como rey al ángel del abismo*
 
-* Actores principales: *langostas* (1)
-  > El recuento vuelve a <u>langostas</u>, uno. Ya no es la autoridad. Ellas tienen un rey.
+> Ya no es la autoridad. Se mueven las <u>langostas</u>. Ellas tienen un rey.
 
 #### *Y tienen sobre ellas como rey al ángel del abismo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*en las colas de ellas; y su autoridad para dañar a las personas durante cinco meses*).
   > Ese <u>Y</u> no suma otra autoridad. Tras la autoridad: tienen rey.
 
 * *langostas* → *tienen* → *como rey al ángel del abismo*
-  > Quienes tienen son <u>langostas</u>. Lo alcanzado: como rey al ángel del abismo. Sobre ellas. El pozo del abismo ya se abrió (Apocalipsis 9:2). Ahora el ángel del abismo es rey. El nombre, todavía no.
+  > Quienes tienen son <u>langostas</u>. Lo alcanzado: *como rey* al ángel del abismo. Sobre ellas. El pozo del abismo ya se abrió. Ahora el ángel del abismo es rey.
 
 ### Apocalipsis 9:11:9 — *el nombre de él en hebreo es Abadón*
 
-* Actores principales: *el nombre de él* (1)
-  > El recuento ya no es las langostas. Quien ocupa la línea es <u>el</u> nombre de él, uno.
+> Ya no son las langostas. Quien ocupa la línea es <u>el</u> nombre de él.
 
 #### *el nombre de él en hebreo es Abadón*
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone es. La afirmación es <u>Abadón</u>.
+  > El griego no trae verbo. El español pone *es*. La afirmación es <u>Abadón</u>.
 
 * *el nombre de él* → *abismo* → *en hebreo Abadón*
-  > Quien se nombra es <u>el</u> nombre de él —del ángel del abismo. El medio de la flecha trae abismo. Lo alcanzado: en hebreo Abadón. El griego, todavía no.
+  > Quien se nombra es <u>el</u> nombre de él —del ángel del abismo. Lo alcanzado: en hebreo *Abadón*.
 
 ### Apocalipsis 9:11:18 — *y en griego tiene el nombre Apolión*
 
-* Actores principales: *ángel del abismo* (1)
-  > El recuento ya no es el nombre. Quien ocupa la línea es <u>ángel</u> del abismo, uno.
+> Ya no es el hebreo. Quien ocupa la línea es el <u>ángel</u> del abismo.
 
 #### *y en griego tiene el nombre Apolión*
 * *es Abadón,* (καὶ)[^kai] une esta cláusula con la anterior (*el nombre de él en hebreo es Abadón*).
-  > Ese <u>es Abadón,</u> no suma otro hebreo. Tras Abadón: en griego.
+  > Ese <u>es Abadón,</u> no suma otro hebreo. Tras *Abadón*: en griego.
 
 * *ángel del abismo* → *tiene* → *el nombre Apolión*
-  > Quien tiene es <u>ángel</u> del abismo. Lo alcanzado: el nombre Apolión. En hebreo, Abadón; en griego, Apolión. El primer ay, todavía no.
+  > Quien tiene es <u>ángel</u> del abismo. Lo alcanzado: el nombre *Apolión*. En hebreo, *Abadón*; en griego, *Apolión*.
 
 ### Apocalipsis 9:12:5 — *El primer ay pasó*
 
-* Actores principales: *El primer ay* (1)
-  > El recuento ya no es el ángel del abismo. Quien ocupa la línea es <u>El</u> primer ay, uno.
+> Ya no es el ángel del abismo. Quien ocupa la línea es <u>El</u> primer ay.
 
 #### *El primer ay pasó*
 * *El primer ay* → *pasó*
-  > Quien pasó es <u>El</u> primer ay. En Apocalipsis 8:13 se oyeron tres. El quinto toque era el primero. Ya pasó. Los otros, todavía no.
+  > Quien pasó es <u>El</u> primer ay. Se oyeron tres. El quinto toque era el primero. Ya pasó.
 
 ### Apocalipsis 9:12:7 — *He aquí, vienen todavía dos ayes después de estas cosas*
 
-* Actores principales: *dos ayes* (1)
-  > El recuento ya no es el primer ay. Quienes ocupan la línea son <u>dos</u> ayes, uno.
+> Ya no es el primer ay. Quienes ocupan la línea son <u>dos</u> ayes.
 
 #### *He aquí, vienen todavía dos ayes después de estas cosas*
   > <u>He aquí</u>. No se cierra el libro. Todavía vienen.
 
 * *dos ayes* → *vienen*
-  > Quienes vienen son <u>dos</u> ayes. Todavía. Después de estas cosas —después de que el primero pasó. El sexto ángel, todavía no.
+  > Quienes vienen son <u>dos</u> ayes. Todavía. Después de estas cosas —después de que el primero pasó.
 
 ### Apocalipsis 9:13:5 — *Y el sexto ángel tocó la trompeta*
 
-* Actores principales: *el sexto ángel* (1)
-  > El recuento ya no es los dos ayes. Quien ocupa la línea es <u>el</u> sexto ángel, uno.
+> Ya no son los dos ayes. Quien ocupa la línea es <u>el</u> sexto ángel.
 
 #### *Y el sexto ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*He aquí, vienen todavía dos ayes después de estas cosas*).
-  > Ese <u>Y</u> no suma otros ayes. Tras he aquí: el sexto tocó.
+  > Ese <u>Y</u> no suma otros ayes. Tras *he aquí*: el sexto *tocó*.
 
 * *el sexto ángel* → *tocó*
-  > Quien tocó es <u>el</u> sexto ángel. La flecha se detiene en tocó. El segundo de los tres que estaban por tocar. Otra vez: no hay *Ven y mira*. La voz, todavía no.
+  > Quien tocó es <u>el</u> sexto ángel. El segundo de los tres que estaban por tocar. Otra vez: no hay *Ven y mira*.
 
 ### Apocalipsis 9:13:7 — *y oí una voz de entre los cuatro cuernos del altar de oro que está delante de Dios que decía al sexto ángel que tenía la trompeta*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El sexto tocó; Juan oye.
+> El sexto tocó. Se mueve <u>Yo</u>, Juan. Ahora oye.
 
 #### *y oí una voz de entre los cuatro cuernos del altar de oro que está delante de Dios que decía al sexto ángel que tenía la trompeta*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el sexto ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocar. Tras tocó: Juan oye.
+  > Ese <u>y</u> no suma otro tocar. Tras *tocó*: Juan oye.
 
 * *Yo, Juan* → *oí* → *una voz*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz. De entre los cuatro cuernos del altar de oro que está delante de Dios. El altar de oro ya se oyó en Apocalipsis 8:3, delante del trono. La voz dice al que tenía la trompeta —el que acaba de tocar. Qué dice, todavía no.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: *una voz*. De entre los cuatro cuernos del altar de oro que está delante de Dios —el altar de oro ya se oyó delante del trono. La voz dice al que tenía la trompeta —el que acaba de tocar. Qué dice, todavía no.
 
 ### Apocalipsis 9:14:9 — *Suelta a los cuatro ángeles que están atados junto al gran río Éufrates*
 
-* Actores principales: *el sexto ángel* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> sexto ángel, uno. Ahora se le manda.
+> Eso es lo que decía la voz. Al que tenía la trompeta: <u>Suelta</u>.
 
 #### *Suelta a los cuatro ángeles que están atados junto al gran río Éufrates*
-  > <u>Suelta</u>. Eso es lo que decía la voz. Al que tenía la trompeta.
+  > A quien se manda es <u>el</u> sexto ángel. Lo alcanzado: a los cuatro ángeles.
 
 * *el sexto ángel* → *Suelta* → *a los cuatro ángeles*
-  > A quien se manda es <u>el</u> sexto ángel. Lo alcanzado: a los cuatro ángeles. No son los cuatro que retenían los vientos (Apocalipsis 7:1). Estos están junto al gran río Éufrates. Fueron soltados, todavía no.
+  > No son los cuatro que retenían los vientos. Estos están junto al gran río Éufrates.
 
 + *ángeles*
   * ↳ *atados* (δεδεμένους)[^P]
@@ -5755,57 +5616,54 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 9:15:2 — *Y fueron soltados los cuatro ángeles que estaban preparados para la hora, día, mes y año*
 
-* Actores principales: *los cuatro ángeles* (2)
-  > El recuento ya no es el sexto ángel. Quienes ocupan la línea son <u>los</u> cuatro ángeles, dos. Ya no atados. Soltados; y matar.
+> Ya no es el sexto. Quienes ocupan la línea son <u>los</u> cuatro ángeles. Ya no atados: soltados.
 
 #### *Y fueron soltados los cuatro ángeles que estaban preparados para la hora, día, mes y año*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Suelta a los cuatro ángeles que están atados junto al gran río Éufrates*).
-  > Ese <u>Y</u> no suma otro suelta. Se mandó suelta. Ahora fueron soltados.
+  > Ese <u>Y</u> no suma otro *suelta*. Se mandó *Suelta*. Ahora *fueron soltados*.
 
 * *los cuatro ángeles* → *fueron soltados*
-  > Quienes fueron soltados son <u>los</u> cuatro ángeles. Los que estaban atados junto al Éufrates. Para la hora, día, mes y año. Matar, anidado.
+  > Quienes fueron soltados son <u>los</u> cuatro ángeles. Los que estaban atados junto al Éufrates. Para la hora, día, mes y año.
 
 + *ángeles*
   * ↳ *preparados* (ἡτοιμασμένοι)[^P]
   > No salen de sorpresa. Estaban <u>preparados</u> para la hora, día, mes y año.
 
 - *para matar a la tercera parte de las personas*
-  * *para matar* (ἵνα)[^hina]
-  > Ese <u>para</u> no abre otro fueron soltados. Trae el para qué de fueron soltados: matar.
+  * *para matar* (ἵνα)[^hina] introduce el propósito de *fueron soltados*.
+  > Ese <u>para</u> no abre otro *fueron soltados*. Trae el propósito: *matar*.
 
   * *los cuatro ángeles* → *matar* → *a la tercera parte de las personas*
-  > Quienes matar son los mismos <u>los</u> cuatro ángeles. Lo alcanzado: a la tercera parte de las personas. A las langostas no se les permitió matar (Apocalipsis 9:5). A estos sí. El número, todavía no.
+  > Quienes matar son los mismos <u>los</u> cuatro ángeles. Lo alcanzado: a la tercera parte de las personas. A las langostas no se les permitió matar. A estos sí.
 
 ### Apocalipsis 9:16:10 — *y oí el número de ellos*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Los cuatro fueron soltados; Juan oye un número.
+> Los cuatro fueron soltados. Se mueve <u>Yo</u>, Juan. Oye un número.
 
 + *Y el número de los ejércitos de la caballería era doscientos millones*
   * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*para matar a la tercera parte de las personas*).
-  > Ese <u>Y</u> no suma otra muerte. Tras para matar: el número.
+  > Ese <u>Y</u> no suma otra muerte. Tras *para matar*: el número.
 
   * *el número de los ejércitos de la caballería* → *era*
   > Quien era es <u>el</u> número de los ejércitos de la caballería. Doscientos millones.
 
 #### *y oí el número de ellos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el número de los ejércitos de la caballería era doscientos millones*).
-  > Ese <u>y</u> no suma otro número. Tras era: Juan oye.
+  > Ese <u>y</u> no suma otro número. Tras *era*: Juan oye.
 
 * *Yo, Juan* → *oí* → *el número de ellos*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: el número de ellos. En Apocalipsis 7:4 oyó ciento cuarenta y cuatro mil sellados. Ahora oye doscientos millones. Ver, todavía no.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: el número de ellos. Ya oyó ciento cuarenta y cuatro mil sellados. Ahora oye doscientos millones.
 
 ### Apocalipsis 9:17:3 — *Y así vi en la visión a los caballos y a quienes los montaban: tenían corazas de fuego, de jacinto y de azufre*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo oye el número. Ahora ve.
+> Ya no solo oye el número. <u>Yo</u>, Juan, ve.
 
 #### *Y así vi en la visión a los caballos y a quienes los montaban: tenían corazas de fuego, de jacinto y de azufre*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y oí el número de ellos*).
-  > Ese <u>Y</u> no suma otro oír. Tras oí: así vi.
+  > Ese <u>Y</u> no suma otro oír. Tras *oí*: *así vi*.
 
 * *Yo, Juan* → *vi* → *a los caballos y a quienes los montaban*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a los caballos y a quienes los montaban. En la visión. Corazas de fuego, de jacinto y de azufre. Las cabezas, en la línea que sigue.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a los caballos y a quienes los montaban. En la visión. Corazas de fuego, de jacinto y de azufre.
 
 + *caballos*
   * ↳ *montaban* (καθημένους)[^P]
@@ -5817,56 +5675,53 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
   > Ese <u>y</u> no suma otras corazas. Tras las corazas: las cabezas.
 
   * *las cabezas de los caballos* → *eran*
-  > Quienes eran son <u>las</u> cabezas de los caballos. Como cabezas de leones. Los dientes de las langostas ya eran como de leones (Apocalipsis 9:8). Ahora las cabezas. Las bocas, todavía no.
+  > Quienes eran son <u>las</u> cabezas de los caballos. Como cabezas de leones. Los dientes de las langostas ya eran como de leones. Ahora las cabezas.
 
 ### Apocalipsis 9:17:34 — *y de las bocas de ellos salían fuego, humo y azufre*
 
-* Actores principales: *fuego, humo y azufre* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>fuego</u>, humo y azufre, uno.
+> Ya no es Juan viendo. Quienes ocupan la línea son <u>fuego</u>, humo y azufre.
 
 #### *y de las bocas de ellos salían fuego, humo y azufre*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y las cabezas de los caballos eran como cabezas de leones*).
-  > Ese <u>y</u> no suma otras cabezas. Tras las cabezas: salían.
+  > Ese <u>y</u> no suma otras cabezas. Tras las cabezas: *salían*.
 
 * *fuego, humo y azufre* → *salían*
-  > Quienes salían son <u>fuego</u>, humo y azufre. De las bocas de ellos —los caballos. Las corazas ya eran de fuego, de jacinto y de azufre. Ahora salen de la boca fuego, humo y azufre. Las personas, todavía no.
+  > Quienes salían son <u>fuego</u>, humo y azufre. De las bocas de ellos —los caballos. Las corazas ya eran de fuego, de jacinto y de azufre. Ahora salen de la boca fuego, humo y azufre.
 
 ### Apocalipsis 9:18:6 — *Por estas tres murió la tercera parte de las personas, por el fuego, y por el humo, y por el azufre que salía de las bocas de ellos*
 
-* Actores principales: *la autoridad de ellos* (1) · *la tercera parte de las personas* (1)
-  > El recuento pone a <u>la</u> autoridad de ellos y a la tercera parte de las personas. Un tercio muere; la autoridad está en boca y colas.
+> Un tercio muere. <u>La</u> autoridad de ellos está en boca y colas.
 
 #### *Por estas tres murió la tercera parte de las personas, por el fuego, y por el humo, y por el azufre que salía de las bocas de ellos*
   > <u>Por</u> estas tres. Las que acababan de salir de las bocas.
 
 * *la tercera parte de las personas* → *murió*
-  > Quien murió es <u>la</u> tercera parte de las personas. Por el fuego, y por el humo, y por el azufre. Los cuatro ángeles fueron soltados para matar a la tercera parte (Apocalipsis 9:15). Ahora ocurre. Por qué, anidado.
+  > Quien murió es <u>la</u> tercera parte de las personas. Por el fuego, y por el humo, y por el azufre. Los cuatro ángeles fueron soltados para matar a la tercera parte. Ahora ocurre.
 
 + *azufre*
   * ↳ *salía* (ἐκπορευομένου)[^P]
   > El que <u>salía</u> de las bocas de ellos.
 
 - *Porque la autoridad de ellos está en la boca de ellos y en las colas de ellos*
-  * *Porque* (γὰρ)[^gar]
-  > Ese <u>Porque</u> no abre otra muerte. Da la razón de murió: la autoridad está en la boca y en las colas.
+  * *Porque* (γὰρ)[^gar] introduce la razón de *murió*.
+  > Ese <u>Porque</u> no abre otra muerte. Da la razón: la autoridad está en la boca y en las colas.
 
   * *la autoridad de ellos* → *está*
-  > Quien está es <u>la</u> autoridad de ellos. En la boca de ellos y en las colas de ellos. Las langostas tenían autoridad en las colas (Apocalipsis 9:10). Estos, boca y colas.
+  > Quien está es <u>la</u> autoridad de ellos. En la boca de ellos y en las colas de ellos. Las langostas tenían autoridad en las colas. Estos, boca y colas.
 
   + *pues las colas de ellos, semejantes a serpientes, tienen cabezas, y con ellas dañan*
-    * *pues* (γὰρ)[^gar]
+    * *pues* (γὰρ)[^gar] introduce la razón de *está*.
     > Ese <u>pues</u> no abre otra autoridad. Sigue la razón: las colas.
 
     * *las colas de ellos* → *tienen* → *cabezas*
-    > Quienes tienen son <u>las</u> colas de ellos. Lo alcanzado: cabezas. Semejantes a serpientes. Y con ellas dañan. El resto, todavía no.
+    > Quienes tienen son <u>las</u> colas de ellos. Lo alcanzado: cabezas. Semejantes a serpientes. Y con ellas dañan.
 
     + *colas*
       * ↳ *tienen* (ἔχουσαι)[^P]
 
 ### Apocalipsis 9:20:14 — *Y el resto de las personas no se arrepintieron de las obras de las manos de ellos*
 
-* Actores principales: *el resto de las personas* (2) · *que* (2)
-  > El recuento pone al <u>resto</u> de las personas y a que. Un tercio murió; el resto no se arrepiente. Hay quienes no murieron; hay ídolos que no pueden.
+> Un tercio murió. El <u>resto</u> no se arrepiente. Hay ídolos que no pueden.
 
 - *que no murieron por estas plagas*
   * *que* (οἳ)[^rel]: describe a *resto*.
@@ -5880,17 +5735,17 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 #### *Y el resto de las personas no se arrepintieron de las obras de las manos de ellos*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Por estas tres murió la tercera parte de las personas*).
-  > Ese <u>Y</u> no suma otra muerte. Tras murió un tercio: el resto.
+  > Ese <u>Y</u> no suma otra muerte. Tras *murió* un tercio: el resto.
 
 * *el resto de las personas* → *no se arrepintieron*
-  > Quienes no se arrepintieron son <u>el</u> resto de las personas. De las obras de las manos de ellos. A las iglesias ya se les dijo arrepiéntete. Aquí el resto no lo hace. De qué no se apartan, anidado.
+  > Quienes no se arrepintieron son <u>el</u> resto de las personas. De las obras de las manos de ellos. A las iglesias ya se les dijo *arrepiéntete*. Aquí el resto no lo hace.
 
 - *para no adorar a los demonios ni a ídolos de oro*
-  * *para* (ἵνα)[^hina]
-  > Ese <u>para</u> no abre otro no se arrepintieron. No es un para qué de arrepentirse. Trae de qué no se apartaron: no adorar a los demonios ni a ídolos.
+  * *para* (ἵνα)[^hina] introduce el contenido de *no se arrepintieron*.
+  > Ese <u>para</u> no abre otro *no se arrepintieron*. No es un propósito de arrepentirse. Trae de qué no se apartaron: no adorar a los demonios ni a ídolos.
 
   * *el resto de las personas* → *no adorar* → *a los demonios ni a ídolos de oro, plata, bronce, piedra y madera*
-  > Quienes no adorar son el mismo <u>el</u> resto. Lo alcanzado: a los demonios ni a ídolos de oro, plata, bronce, piedra y madera. Qué no pueden los ídolos, anidado.
+  > Quienes no adorar son el mismo <u>el</u> resto. Lo alcanzado: a los demonios ni a ídolos de oro, plata, bronce, piedra y madera.
 
   - *que no puede ver, ni oír, ni caminar*
     * *que* (ἃ)[^rel]: describe a *ídolos*.
@@ -5900,34 +5755,32 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
       * ↳ *ver* (βλέπειν)[^I]
       * ↳ *oír* (ἀκούειν)[^I]
 
-    > Quienes no pueden son <u>que</u> —los ídolos. Lo alcanzado: ver, ni oír, ni caminar. Otra vez no se arrepintieron, todavía no.
+    > Quienes no pueden son <u>que</u> —los ídolos. Lo alcanzado: ver, ni oír, ni caminar.
 
   + *ídolos*
     * *no* (ἃ)[^rel]: describe a *ídolos*.
 
 ### Apocalipsis 9:21:3 — *Y no se arrepintieron de los asesinatos de ellos, ni de las hechicerías de ellos, ni de la inmoralidad sexual de ellos, ni de los robos de ellos*
 
-* Actores principales: *el resto de las personas* (1)
-  > Sigue <u>el</u> resto de las personas, uno. Otra vez no se arrepienten.
+> Sigue <u>el</u> resto de las personas. Otra vez no se arrepienten.
 
 #### *Y no se arrepintieron de los asesinatos de ellos, ni de las hechicerías de ellos, ni de la inmoralidad sexual de ellos, ni de los robos de ellos*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el resto de las personas no se arrepintieron de las obras de las manos de ellos*).
-  > Ese <u>Y</u> no suma otro ídolo. Tras no se arrepintieron de las obras: otra vez no se arrepintieron.
+  > Ese <u>Y</u> no suma otro ídolo. Tras *no se arrepintieron* de las obras: otra vez *no se arrepintieron*.
 
 * *el resto de las personas* → *no se arrepintieron*
-  > Quienes no se arrepintieron son el mismo <u>el</u> resto. Ahora de los asesinatos de ellos, ni de las hechicerías de ellos, ni de la inmoralidad sexual de ellos, ni de los robos de ellos. El ángel fuerte, todavía no.
+  > Quienes no se arrepintieron son el mismo <u>el</u> resto. Ahora de los asesinatos de ellos, ni de las hechicerías de ellos, ni de la inmoralidad sexual de ellos, ni de los robos de ellos.
 
 ### Apocalipsis 10:1:2 — *Y vi a otro ángel fuerte que descendía del cielo, envuelto en una nube*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El resto no se arrepintió; Juan ve.
+> El resto no se arrepintió. Se mueve <u>Yo</u>, Juan. Ahora ve.
 
 #### *Y vi a otro ángel fuerte que descendía del cielo, envuelto en una nube*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y no se arrepintieron de los asesinatos de ellos, ni de las hechicerías de ellos, ni de la inmoralidad sexual de ellos, ni de los robos de ellos*).
-  > Ese <u>Y</u> no suma otro no se arrepintieron. Tras el resto: Juan ve.
+  > Ese <u>Y</u> no suma otro *no se arrepintieron*. Tras el resto: Juan ve.
 
 * *Yo, Juan* → *vi* → *a otro ángel fuerte*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a otro ángel fuerte. No es uno de los siete que tocan. No es el que volaba en medio del cielo. El arco iris, en la línea que sigue.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: *a otro ángel fuerte*. No es uno de los siete que tocan. No es el que volaba en medio del cielo.
 
 + *ángel*
   * ↳ *descendía* (καταβαίνοντα)[^P]
@@ -5938,25 +5791,24 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi a otro ángel fuerte que descendía del cielo, envuelto en una nube*).
   > Ese <u>y</u> no suma otro descender. Tras el ángel: arco iris, rostro, pies.
 
-  > Sobre la cabeza, un <u>arco iris</u> —alrededor del trono ya había uno (Apocalipsis 4:3). El rostro como el sol —como el de Apocalipsis 1:16. Los pies como columnas de fuego. El pie sobre el mar, todavía no.
+  > Sobre la cabeza, un <u>arco iris</u> —alrededor del trono ya había uno. El rostro como el sol —como el que ya se vio. Los pies como columnas de fuego.
 
 ### Apocalipsis 10:2:10 — *puso el pie derecho de él sobre el mar, y el izquierdo sobre la tierra*
 
-* Actores principales: *otro ángel fuerte* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>otro</u> ángel fuerte, uno.
+> Ya no es Juan. Quien ocupa la línea es <u>otro</u> ángel fuerte.
 
 + *Y tenía en la mano de él un pequeño rollo abierto, y*
   * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y un arco iris sobre la cabeza; el rostro de él era como el sol y los pies de él como columnas de fuego*).
   > Ese <u>Y</u> no suma otros pies de fuego. En la mano: un pequeño rollo.
 
-  > El libro de Apocalipsis 5:1 estaba sellado. Este es un <u>pequeño</u> rollo, y ya está abierto.
+  > El libro del trono estaba sellado. Este es un <u>pequeño</u> rollo, y ya está abierto.
 
 #### *puso el pie derecho de él sobre el mar, y el izquierdo sobre la tierra*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y tenía en la mano de él un pequeño rollo abierto*).
-  > Ese <u>Y</u> no suma otro rollo. Tras tenía: puso.
+  > Ese <u>Y</u> no suma otro rollo. Tras *tenía*: *puso*.
 
 * *otro ángel fuerte* → *puso* → *el pie derecho de él y el izquierdo*
-  > Quien puso es <u>otro</u> ángel fuerte. Lo alcanzado: el pie derecho y el izquierdo. Sobre el mar, y sobre la tierra. Los pies ya eran como columnas de fuego. Ahora se plantan. Gritar, todavía no.
+  > Quien puso es <u>otro</u> ángel fuerte. Lo alcanzado: el pie derecho y el izquierdo. Sobre el mar, y sobre la tierra. Los pies ya eran como columnas de fuego. Ahora se plantan.
 
 + *ángel*
   * ↳ *tenía* (ἔχων)[^P]
@@ -5968,80 +5820,77 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 10:3:2 — *Y gritó con gran voz*
 
-* Actores principales: *los siete truenos* (1) · *otro ángel fuerte* (1) · *un león* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>los</u> siete truenos, a otro ángel fuerte, a un león y a Yo, Juan. El ángel grita; el león compara; los truenos hablan; Juan está por escribir.
+> Con pies plantados, <u>otro</u> ángel fuerte grita. Los siete truenos hablan; Juan está por escribir.
 
 #### *Y gritó con gran voz*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*puso el pie derecho de él sobre el mar, y el izquierdo sobre la tierra*).
-  > Ese <u>Y</u> no suma otro pie. Tras puso: gritó.
+  > Ese <u>Y</u> no suma otro pie. Tras *puso*: *gritó*.
 
 * *otro ángel fuerte* → *gritó*
-  > Quien gritó es <u>otro</u> ángel fuerte. Con gran voz. Cómo, anidado.
+  > Quien gritó es <u>otro</u> ángel fuerte. Con gran voz.
 
 - *como ruge un león*
   * *como* (ὡς)[^hos]
-  > Ese <u>como</u> no abre otro gritó. Trae el cómo: como ruge un león.
+  > Ese <u>como</u> no abre otro *gritó*. Trae el cómo: como ruge un león.
 
   * *un león* → *ruge*
   > Quien ruge es <u>un</u> león.
 
 - *y los siete truenos hablaron con las voces de ellos mismos*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y gritó con gran voz*).
-  > Ese <u>y</u> no suma otro rugido. Tras gritó: los siete truenos hablaron.
+  > Ese <u>y</u> no suma otro rugido. Tras *gritó*: los siete truenos hablaron.
 
   - *cuando gritó*
     * *cuando* (ὅτε)[^hote]
-    > Ese <u>cuando</u> no abre otro gritó nuevo. Fija el momento de hablaron: cuando gritó.
+    > Ese <u>cuando</u> no abre otro *gritó*. Fija el momento de *hablaron*: cuando gritó.
 
     * *otro ángel fuerte* → *gritó*
     > Quien gritó es el mismo <u>otro</u> ángel fuerte.
 
   * *los siete truenos* → *hablaron*
-  > Quienes hablaron son <u>los</u> siete truenos. Con las voces de ellos mismos. Del trono ya salieron truenos (Apocalipsis 4:5). Ahora siete hablan.
+  > Quienes hablaron son <u>los</u> siete truenos. Con las voces de ellos mismos. Del trono ya salieron truenos. Ahora siete hablan.
 
 - *Y yo estaba por escribir*
   * *Yo, Juan* → *estaba por escribir*
     * ↳ *escribir* (γράφειν)[^I]
 
-  > Quien estaba por escribir es <u>Yo</u>, Juan. Lo que hablaron los truenos. No cuelga de hablaron.
+  > Quien estaba por escribir es <u>Yo</u>, Juan. Lo que hablaron los truenos.
 
   - *cuando hablaron los siete truenos las voces de ellos*
     * *cuando* (ὅτε)[^hote]
-    > Ese <u>cuando</u> no abre otro hablaron nuevo. Fija el momento de estaba por escribir: cuando hablaron.
+    > Ese <u>cuando</u> no abre otro *hablaron*. Fija el momento de *estaba por escribir*: cuando hablaron.
 
     * *los siete truenos* → *hablaron*
-    > Quienes hablaron son los mismos <u>los</u> siete truenos. La voz del cielo, todavía no.
+    > Quienes hablaron son los mismos <u>siete</u> truenos. La voz del cielo, todavía no.
 
 ### Apocalipsis 10:4:10 — *y oí una voz del cielo que me decía*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo estaba por escribir. Ahora oye.
+> Estaba por escribir. Ahora <u>Yo</u>, Juan, oye.
 
 #### *y oí una voz del cielo que me decía*
 * *de ellos,* (καὶ)[^kai] une esta cláusula con la anterior (*cuando hablaron los siete truenos las voces de ellos*).
-  > Ese <u>de ellos,</u> no suma otro hablaron. Tras las voces de ellos: Juan oye.
+  > Ese <u>de ellos,</u> no suma otro *hablaron*. Tras las voces de ellos: Juan oye.
 
 * *Yo, Juan* → *oí* → *una voz*
   > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz. Del cielo. Estaba por escribir; ahora oye. Qué dice, todavía no.
 
 + *voz*
   * ↳ *decía* (λέγουσαν)[^P]
-  > La voz no queda muda. Me <u>decía</u>.
+  > La voz me <u>decía</u>.
 
 ### Apocalipsis 10:4:16 — *Sella las cosas*
 
-* Actores principales: *Yo, Juan* (2) · *los siete truenos* (1)
-  > El recuento pone a <u>Yo</u>, Juan, dos, y a los siete truenos, uno. La voz decía; Juan es mandado. Los truenos ya hablaron.
+> La voz decía. Ahora manda a <u>Yo</u>, Juan. Los truenos ya hablaron.
 
 #### *Sella las cosas*
-  > La voz decía. Ahora el dicho: <u>Sella</u> las cosas. No escribas, anidado.
+  > La voz decía. Ahora el dicho: <u>Sella</u> las cosas.
 
 * *Yo, Juan* → *Sella* → *las cosas*
-  > A quien se manda es <u>Yo</u>, Juan. Lo alcanzado: las cosas. Estaba por escribir. Ahora: sella. Qué cosas, anidado.
+  > A quien se manda es <u>Yo</u>, Juan. Lo alcanzado: las cosas. Estaba por escribir. Ahora: sella.
 
 - *que hablaron los siete truenos*
   * *que* (ἃ)[^rel]: describe a *cosas*.
-  > Ese <u>que</u> no abre otro sella. Describe las cosas: las que hablaron los siete truenos.
+  > Ese <u>que</u> no abre otro *sella*. Describe las cosas: las que hablaron los siete truenos.
 
   * *los siete truenos* → *hablaron*
   > Quienes hablaron son <u>los</u> siete truenos. Juan oyó las voces de ellos. Qué dijeron, el texto no lo escribe.
@@ -6051,19 +5900,18 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 - *y no escribas estas cosas*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Sella las cosas*).
-  > Ese <u>y</u> no suma otro sella. Tras sella: no escribas.
+  > Ese <u>y</u> no suma otro *sella*. Tras *sella*: *no escribas*.
 
   * *Yo, Juan* → *no escribas* → *estas cosas*
-  > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: estas cosas —las que hablaron los truenos. Se le había dicho escribe (Apocalipsis 1:19). Estas, no. El ángel y la mano, todavía no.
+  > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: estas cosas —las que hablaron los truenos. Ya se le había dicho *escribe*. Estas, no. El ángel y la mano, todavía no.
 
 ### Apocalipsis 10:6:2 — *y juró por el que vive por los siglos de los siglos*
 
-* Actores principales: *Yo, Juan* (1) · *el ángel* (2) · *quien* (1) · *tiempo* (1)
-  > El recuento pone a <u>Yo</u>, Juan, uno, al ángel, dos, a quien y a tiempo. Juan ve; el ángel levanta y jura; quien creó; tiempo ya no habrá.
+> Tras *no escribas*, <u>el</u> ángel. Levanta la mano y jura.
 
 - *Y el ángel levantó la mano de él al cielo*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y no escribas estas cosas*).
-  > Ese <u>Y</u> no suma otro no escribas. Tras sella y no escribas: el ángel levantó.
+  > Ese <u>Y</u> no suma otro *no escribas*. Tras sella y no escribas: el ángel levantó.
 
   * *el ángel* → *levantó* → *la mano de él*
   > Quien levantó es <u>el</u> ángel. Lo alcanzado: la mano de él. Al cielo. El que tenía el rollo y plantó los pies. Juró, todavía no.
@@ -6073,7 +5921,7 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
     > Ese <u>que</u> no abre otra mano. Describe al ángel: el que Juan vio de pie sobre el mar y sobre la tierra.
 
     * *Yo, Juan* → *vi* → *que*
-    > Quien vio es <u>Yo</u>, Juan. Lo alcanzado: que —el ángel. De pie sobre el mar y sobre la tierra —los pies ya se plantaron (Apocalipsis 10:2).
+    > Quien vio es <u>Yo</u>, Juan. Lo alcanzado: que —el ángel. De pie sobre el mar y sobre la tierra —los pies ya se plantaron.
 
   + *ángel*
     * *que* (ὃν)[^rel]: describe a *ángel*.
@@ -6082,10 +5930,10 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 #### *y juró por el que vive por los siglos de los siglos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el ángel levantó la mano de él al cielo*).
-  > Ese <u>y</u> no suma otra mano. Tras levantó: juró.
+  > Ese <u>y</u> no suma otra mano. Tras *levantó*: *juró*.
 
 * *el ángel* → *juró*
-  > Quien juró es el mismo <u>el</u> ángel. La flecha se detiene en juró. Por el que vive por los siglos de los siglos —el de Apocalipsis 4:10. Qué jura, anidado.
+  > Quien juró es el mismo <u>el</u> ángel. Por el que vive por los siglos de los siglos —ya se oía al que vive así.
 
 + *él*
   * ↳ *vive* (ζῶντι)[^P]
@@ -6093,7 +5941,7 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 - *quien creó el cielo y lo que hay en él, la tierra y lo que hay en ella, y el mar y lo que hay en ella*
   * *quien* (ὃς)[^rel]: describe a *el que vive*.
-  > Ese <u>quien</u> no abre otro juró. Describe al que vive: quien creó el cielo, la tierra y el mar, y lo que hay en ellos.
+  > Ese <u>quien</u> no abre otro *juró*. Describe al que vive: quien creó el cielo, la tierra y el mar, y lo que hay en ellos.
 
   * *quien* → *creó* → *el cielo y lo que hay en él, la tierra y lo que hay en ella, y el mar y lo que hay en ella*
   > Quien creó es <u>quien</u> —el que vive. Lo alcanzado: el cielo, la tierra y el mar, y lo que hay en cada uno.
@@ -6110,19 +5958,18 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 10:7:14 — *sino que en los días de la voz del séptimo ángel y se complete el misterio de Dios*
 
-* Actores principales: *Dios* (1) · *el misterio de Dios* (1) · *séptimo ángel* (1)
-  > El recuento pone a <u>Dios</u>, al misterio de Dios y al séptimo ángel. Tiempo ya no habrá; ahora el misterio se completa. El séptimo está por tocar.
+> Tiempo ya no habrá. Sigue lo jurado: el <u>misterio</u> de Dios se complete. El séptimo aún no toca.
 
 #### *sino que en los días de la voz del séptimo ángel y se complete el misterio de Dios*
 * *sino que* (ἀλλά)[^alla]
-  > Ese <u>sino que</u> no abre otro juró nuevo. Se aparta de ya no habrá más tiempo. Sigue lo jurado: en los días de la voz del séptimo.
+  > Ese <u>sino que</u> no abre otro *juró*. Se aparta de ya no habrá más tiempo. Sigue lo jurado: en los días de la voz del séptimo.
 
 * *el misterio de Dios* → *se complete*
-  > Quien se complete es <u>el</u> misterio de Dios. En los días de la voz del séptimo ángel. Qué es el misterio, el texto no lo abre aquí. Cuando esté por tocar, anidado.
+  > Quien se complete es <u>el</u> misterio de Dios. En los días de la voz del séptimo ángel. Qué es el misterio, el texto no lo abre aquí.
 
 - *cuando esté por tocar la trompeta*
   * *cuando* (ὅταν)
-  > Ese <u>cuando</u> no es el de «cuando pica». Fija el momento de se complete: cuando el séptimo esté por tocar.
+  > Ese <u>cuando</u> no abre otro *se complete*. Fija el momento: cuando el séptimo esté por tocar.
 
   * *séptimo ángel* → *esté por* → *tocar*
     * ↳ *tocar* (σαλπίζειν)[^I]
@@ -6131,42 +5978,41 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 - *como anunció las buenas noticias a los siervos de él, los profetas*
   * *como* (ὡς)[^hos]
-  > Ese <u>como</u> no abre otro se complete. No es el como de un león. Trae esto: como anunció.
+  > Ese <u>como</u> no abre otro *se complete*. No es el *como* de un león. Trae esto: como anunció.
 
   * *Dios* → *anunció* → *las buenas noticias a los siervos de él, los profetas*
   > Quien anunció es <u>Dios</u> —el de los siervos de él. Lo alcanzado: las buenas noticias a los siervos de él, los profetas. La voz del cielo, todavía no.
 
 ### Apocalipsis 10:9:2 — *Y fui al ángel, diciéndole: Dame el pequeño rollo*
 
-* Actores principales: *Yo, Juan* (4)
-  > El recuento vuelve a <u>Yo</u>, Juan, cuatro. La voz habla otra vez; Juan oye, es mandado dos veces y va.
+> Tras el juramento, la <u>voz</u> otra vez. Juan oye, es mandado y va.
 
 + *Y la voz*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*como anunció las buenas noticias a los siervos de él, los profetas*).
-  > Ese <u>Y</u> no suma otro anunció. Tras el juramento: la voz.
+  > Ese <u>Y</u> no suma otro *anunció*. Tras el juramento: la voz.
 
 - *que había oído del cielo volvió a hablar conmigo y dijo*
   * *que* (ἣν)[^rel]: describe a *voz*.
-  > Ese <u>que</u> no abre otra voz nueva. Describe la voz: la que Juan había oído del cielo.
+  > Ese <u>que</u> no abre otra voz. Describe la voz: la que Juan había oído del cielo.
 
   * *Yo, Juan* → *había oído* → *que*
-  > Quien había oído es <u>Yo</u>, Juan. Lo alcanzado: que —la voz. Del cielo. La de Apocalipsis 10:4. Ahora vuelve a hablar.
+  > Quien había oído es <u>Yo</u>, Juan. Lo alcanzado: que —la voz. Del cielo. La que dijo *Sella*. Ahora vuelve a hablar.
 
 + *voz*
   * *que* (ἣν)[^rel]: describe a *voz*.
   * ↳ *hablar* (λαλοῦσαν)[^P]
   * ↳ *dijo* (λέγουσαν)[^P]
-  > No queda muda. Volvió a <u>hablar</u> conmigo y dijo.
+  > Volvió a <u>hablar</u> conmigo y dijo.
 
   - *Ve*
-    > Lo que dijo: <u>Ve</u>. Toma, anidado.
+    > Lo que dijo: <u>Ve</u>.
 
     * *Yo, Juan* → *Ve*
-    > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Ve.
+    > A quien se manda es <u>Yo</u>, Juan.
 
   - *toma el pequeño rollo abierto que está en la mano del ángel que está de pie sobre el mar y sobre la tierra*
     * *Yo, Juan* → *toma* → *el pequeño rollo*
-    > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: el pequeño rollo. El de Apocalipsis 10:2, abierto, en la mano del que está de pie.
+    > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: el pequeño rollo. El que ya vio abierto, en la mano del que está de pie.
 
   + *rollo*
     * ↳ *abierto* (ἠνεῳγμένον)[^P]
@@ -6178,7 +6024,7 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 #### *Y fui al ángel, diciéndole: Dame el pequeño rollo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*toma el pequeño rollo abierto que está en la mano del ángel que está de pie sobre el mar y sobre la tierra*).
-  > Ese <u>Y</u> no suma otro toma. Se le dijo Ve, toma. Ahora fue.
+  > Ese <u>Y</u> no suma otro *toma*. Se le dijo *Ve*, *toma*. Ahora fue.
 
 * *Yo, Juan* → *fui*
   > Quien fue es <u>Yo</u>, Juan. Al ángel. Se le mandó ir; va.
@@ -6188,247 +6034,230 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
   > No va en silencio. Va <u>diciéndole</u>.
 
   * ↳ *Dame* (δοῦναί)[^I]
-  > Lo que dice: <u>Dame</u> el pequeño rollo. No completa a fui. El ángel responde, todavía no.
+  > Lo que dice: <u>Dame</u> el pequeño rollo. El ángel responde, todavía no.
 
 ### Apocalipsis 10:9:13 — *Y me dice*
 
-* Actores principales: *el ángel* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> ángel, uno. Juan pidió; ahora el ángel dice.
+> Ya no es Juan. Quien ocupa la línea es <u>el</u> ángel. Juan pidió; ahora el ángel dice.
 
 #### *Y me dice*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y fui al ángel, diciéndole: Dame el pequeño rollo*).
-  > Ese <u>Y</u> no suma otro fui. Juan fue y pidió Dame. Ahora el ángel dice.
+  > Ese <u>Y</u> no suma otro *fui*. Juan fue y pidió *Dame*. Ahora el ángel dice.
 
 * *el ángel* → *dice*
   > Quien dice es <u>el</u> ángel. A Juan. Qué dice, todavía no.
 
 ### Apocalipsis 10:9:15 — *Tómalo*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel dice; Juan es mandado.
+> El ángel dice; <u>Yo</u>, Juan, es mandado.
 
 #### *Tómalo*
-  > Eso es lo que dice el ángel: <u>Tómalo</u>. Cómelo, todavía no.
+  > Eso es lo que dice el ángel: <u>Tómalo</u>. *Cómelo*, todavía no.
 
 * *Yo, Juan* → *Tómalo*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Tómalo. Juan pidió Dame. El ángel no da: le dice tómalo. La voz del cielo ya había dicho toma (Apocalipsis 10:8). Ahora lo dice el ángel.
+  > A quien se manda es <u>Yo</u>, Juan. Juan pidió *Dame*. El ángel no da: le dice *tómalo*. La voz del cielo ya había dicho *toma*. Ahora lo dice el ángel.
 
 ### Apocalipsis 10:9:17 — *y cómelo por completo*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo tómalo. Ahora cómelo.
+> Ya no solo *tómalo*. Ahora <u>Yo</u>, Juan, es mandado: *cómelo*.
 
 #### *y cómelo por completo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Tómalo*).
-  > Ese <u>y</u> no suma otro Tómalo. Tras tómalo: cómelo.
+  > Ese <u>y</u> no suma otro *Tómalo*. Tras *tómalo*: *cómelo*.
 
 * *Yo, Juan* → *cómelo*
-  > A quien se manda es el mismo <u>Yo</u>, Juan. La flecha se detiene en cómelo. Por completo queda en la misma línea, fuera de la flecha. La voz del cielo dijo Ve, toma. Comer, lo dice el ángel. El vientre, todavía no.
+  > A quien se manda es el mismo <u>Yo</u>, Juan. Por completo. La voz del cielo dijo *Ve*, *toma*. Comer, lo dice el ángel. El vientre, todavía no.
 
 ### Apocalipsis 10:9:20 — *te amargará el vientre*
 
-* Actores principales: *el pequeño rollo* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> pequeño rollo, uno. Todavía el ángel dice. El rollo hará.
+> Ya no es Juan. Quien ocupa la línea es <u>el</u> pequeño rollo. Todavía el ángel dice.
 
 #### *te amargará el vientre*
 * *amargará* (καὶ)[^kai] une esta cláusula con la anterior (*y cómelo por completo*).
-  > Ese <u>amargará</u> no suma otro cómelo. Tras cómelo: qué le hará.
+  > Ese <u>amargará</u> no suma otro *cómelo*. Tras *cómelo*: qué le hará.
 
 * *el pequeño rollo* → *amargará* → *el vientre*
-  > Quien amargará es <u>el</u> pequeño rollo. Lo alcanzado: el vientre. A Juan —te. Aún no lo ha comido. La boca, todavía no.
+  > Quien amargará es <u>el</u> pequeño rollo. Lo alcanzado: el vientre. A Juan —*te*. Aún no lo ha comido. La boca, todavía no.
 
 ### Apocalipsis 10:9:29 — *pero en tu boca será dulce como miel*
 
-* Actores principales: *el pequeño rollo* (1)
-  > Sigue <u>el</u> pequeño rollo, uno. Todavía el ángel dice. El vientre amargará; la boca, otra cosa.
+> Sigue <u>el</u> pequeño rollo. Todavía el ángel dice. El vientre amargará; la boca, otra cosa.
 
 #### *pero en tu boca será dulce como miel*
 * *pero* (ἀλλά)[^alla]
-  > Ese <u>pero</u> no abre otro amargará. Se aparta del vientre. En la boca: será dulce.
+  > Ese <u>pero</u> no abre otro *amargará*. Se aparta del vientre. En la boca: será dulce.
 
 * *el pequeño rollo* → *será*
-  > Quien será es el mismo <u>el</u> pequeño rollo. La flecha se detiene en será. Dulce como miel queda en la misma línea, fuera de la flecha. En tu boca —la de Juan. Aún no lo ha comido. Juan toma, todavía no.
+  > Quien será es el mismo <u>el</u> pequeño rollo. Dulce como miel. En tu boca —la de Juan. Aún no lo ha comido. Juan toma, todavía no.
 
 ### Apocalipsis 10:10:2 — *Y tomé el pequeño rollo de la mano del ángel*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel ya dijo. Ahora Juan hace.
+> El ángel ya dijo. Ahora <u>Yo</u>, Juan, hace.
 
 #### *Y tomé el pequeño rollo de la mano del ángel*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*pero en tu boca será dulce como miel*).
   > Ese <u>Y</u> no suma otro será dulce. El ángel terminó de decir. Ahora Juan tomó.
 
 * *Yo, Juan* → *tomé* → *el pequeño rollo*
-  > Quien tomó es <u>Yo</u>, Juan. Lo alcanzado: el pequeño rollo. De la mano del ángel —donde estaba (Apocalipsis 10:2). Se le dijo Tómalo. Ahora lo toma. Comer, todavía no.
+  > Quien tomó es <u>Yo</u>, Juan. Lo alcanzado: el pequeño rollo. De la mano del ángel —donde estaba. Se le dijo *Tómalo*. Ahora lo toma. Comer, todavía no.
 
 ### Apocalipsis 10:10:11 — *y lo comí por completo*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo tomó. Ahora come.
+> Ya no solo tomó. Ahora <u>Yo</u>, Juan, come.
 
 #### *y lo comí por completo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y tomé el pequeño rollo de la mano del ángel*).
-  > Ese <u>y</u> no suma otro tomé. Tras tomó: comió.
+  > Ese <u>y</u> no suma otro *tomé*. Tras *tomó*: *comió*.
 
 * *Yo, Juan* → *comí* → *lo*
-  > Quien comió es el mismo <u>Yo</u>, Juan. Lo alcanzado: lo —el pequeño rollo. Por completo queda en la misma línea, fuera de la flecha. Se le dijo cómelo por completo. Ahora lo come. La boca, todavía no.
+  > Quien comió es el mismo <u>Yo</u>, Juan. Lo alcanzado: lo —el pequeño rollo. Por completo. Se le dijo *cómelo por completo*. Ahora lo come. La boca, todavía no.
 
 ### Apocalipsis 10:10:14 — *y en mi boca era dulce como miel*
 
-* Actores principales: *Yo, Juan* (1) · *el pequeño rollo* (1) · *mi vientre* (1)
-  > El recuento pone a <u>Yo</u>, Juan, al pequeño rollo y a mi vientre. El rollo era dulce; el vientre se amarga; Juan comió.
+> <u>Yo</u>, Juan, comió. El rollo era dulce; el vientre se amarga.
 
 #### *y en mi boca era dulce como miel*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y lo comí por completo*).
-  > Ese <u>y</u> no suma otro comí. Tras comió: en la boca era dulce.
+  > Ese <u>y</u> no suma otro *comí*. Tras *comió*: en la boca era dulce.
 
 * *el pequeño rollo* → *era*
-  > Quien era es <u>el</u> pequeño rollo. La flecha se detiene en era. Dulce como miel queda en la misma línea, fuera de la flecha. En mi boca —la de Juan. El ángel lo había dicho (Apocalipsis 10:9). El vientre, anidado.
+  > Quien era es <u>el</u> pequeño rollo. Dulce como miel. En mi boca —la de Juan. El ángel lo había dicho. El vientre, todavía no.
 
 - *pero mi vientre se amargó*
   * *pero* (ἀλλά)[^alla]
   > Ese <u>pero</u> no abre otro era dulce. Se aparta de la boca. El vientre se amargó.
 
   * *mi vientre* → *se amargó*
-  > Quien se amargó es <u>mi</u> vientre. El ángel dijo primero el vientre, luego la boca (Apocalipsis 10:9). Juan come: la boca era dulce; el vientre se amarga. Cuándo, anidado.
+  > Quien se amargó es <u>mi</u> vientre. El ángel dijo primero el vientre, luego la boca. Juan come: la boca era dulce; el vientre se amarga.
 
   - *cuando lo comí*
     * *cuando* (ὅτε)[^hote]
-    > Ese <u>cuando</u> no es el de «cuando esté por tocar». Fija el momento de se amargó: cuando lo comió.
+    > Ese <u>cuando</u> no abre otro *se amargó*. Fija el momento: cuando lo comió.
 
     * *Yo, Juan* → *comí* → *lo*
     > Quien comió es <u>Yo</u>, Juan. Lo alcanzado: lo —el mismo rollo. El ángel otra vez, todavía no.
 
 ### Apocalipsis 10:11:2 — *Y me dice*
 
-* Actores principales: *el ángel* (1)
-  > El recuento ya no es el vientre. Quien ocupa la línea es <u>el</u> ángel, uno. Juan comió; el ángel dice otra vez.
+> Ya no es el vientre. Quien ocupa la línea es <u>el</u> ángel. Juan comió; el ángel dice otra vez.
 
 #### *Y me dice*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*pero mi vientre se amargó*).
-  > Ese <u>Y</u> no suma otro se amargó. Tras el vientre: el ángel dice otra vez.
+  > Ese <u>Y</u> no suma otro *se amargó*. Tras el vientre: el ángel dice otra vez.
 
 * *el ángel* → *dice*
-  > Quien dice es <u>el</u> ángel. A Juan. Ya le había dicho Tómalo y cómelo (Apocalipsis 10:9). Ahora dice de nuevo. Qué dice, todavía no.
+  > Quien dice es <u>el</u> ángel. A Juan. Ya le había dicho *Tómalo* y *cómelo*. Ahora dice de nuevo. Qué dice, todavía no.
 
 ### Apocalipsis 10:11:4 — *Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes*
 
-* Actores principales: *que profetices* (1)
-  > El recuento pone a <u>que</u> profetices, uno. No es otro ángel. Lo necesario es que Juan profetice.
+> Lo necesario es que <u>Juan</u> profetice. No es otro ángel.
 
 #### *Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes*
   > Eso es lo que dice el ángel: <u>Es</u> necesario que profetices otra vez. La caña, todavía no.
 
 * *que profetices* → *Es necesario*
   * ↳ *profetices* (προφητεῦσαι)[^I]
-  > Lo que es necesario es <u>que</u> profetices —Juan. Completa a Es necesario. Otra vez: no es la primera. Sobre muchos pueblos, naciones, lenguas y reyes.
+  > Lo que es necesario es <u>que</u> profetices —Juan. Otra vez: no es la primera. Sobre muchos pueblos, naciones, lenguas y reyes.
 
-  > En Apocalipsis 5:9 y Apocalipsis 7:9 ya se oyeron tribu, lengua, pueblo y nación. Aquí se suman <u>reyes</u>. La caña, todavía no.
+  > Ya se oyeron tribu, lengua, pueblo y nación. Aquí se suman <u>reyes</u>. La caña, todavía no.
 
 ### Apocalipsis 11:1:2 — *Y se me dio una caña semejante a una vara, y el ángel estaba de pie, diciendo*
 
-* Actores principales: *una caña semejante a una vara* (1)
-  > El recuento ya no es que profetices. Quien ocupa la línea es <u>una</u> caña semejante a una vara, uno. Se le da a Juan.
+> Ya no es *profetices*. Quien ocupa la línea es <u>una</u> caña semejante a una vara. Se le da a Juan.
 
 #### *Y se me dio una caña semejante a una vara, y el ángel estaba de pie, diciendo*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes*).
-  > Ese <u>Y</u> no suma otro es necesario. Tras profetices otra vez: se le da una caña.
+  > Ese <u>Y</u> no suma otro *es necesario*. Tras *profetices* otra vez: se le da una caña.
 
 * *una caña semejante a una vara* → *se me dio*
-  > Quien se me dio es <u>una</u> caña semejante a una vara. A Juan —me. El ángel estaba de pie, diciendo, queda en la misma línea, fuera de la flecha. El de Apocalipsis 10:11. Qué dice, todavía no.
+  > Quien se me dio es <u>una</u> caña semejante a una vara. A Juan —*me*. El ángel estaba de pie, diciendo. El mismo que acaba de hablar. Qué dice, todavía no.
 
 + *caña*
   * ↳ *diciendo* (λέγων)[^P]
-  > No se da en silencio. Va <u>diciendo</u>. Levántate, todavía no.
+  > No se da en silencio. Va <u>diciendo</u>. *Levántate*, todavía no.
 
 ### Apocalipsis 11:1:8 — *Levántate*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. La caña se dio; Juan es mandado.
+> La caña se dio; <u>Yo</u>, Juan, es mandado.
 
 #### *Levántate*
-  > Eso es lo que decía: <u>Levántate</u>. Mide, todavía no.
+  > Eso es lo que decía: <u>Levántate</u>. *Mide*, todavía no.
 
 * *Yo, Juan* → *Levántate*
-  > A quien se manda es <u>Yo</u>, Juan. La flecha se detiene en Levántate. La voz del cielo ya había dicho Ve (Apocalipsis 10:8). Ahora: Levántate. El santuario, todavía no.
+  > A quien se manda es <u>Yo</u>, Juan. La voz del cielo ya había dicho *Ve*. Ahora: *Levántate*. El santuario, todavía no.
 
 ### Apocalipsis 11:1:10 — *y mide el santuario de Dios, el altar y a los que adoran en él*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo Levántate. Ahora mide.
+> Ya no solo *Levántate*. Ahora <u>Yo</u>, Juan, es mandado: *mide*.
 
 #### *y mide el santuario de Dios, el altar y a los que adoran en él*
 * *el ángel* (καὶ)[^kai] une esta cláusula con la anterior (*Levántate*).
-  > Ese <u>el ángel</u> no suma otro Levántate. Tras Levántate: mide.
+  > Ese <u>el ángel</u> no suma otro *Levántate*. Tras *Levántate*: *mide*.
 
 * *Yo, Juan* → *mide* → *el santuario de Dios, el altar y a los que adoran*
   > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: el santuario de Dios, el altar y a los que adoran. Tres cosas. En él —en el santuario. Se le dio la caña. Ahora se le dice para qué. El atrio, todavía no.
 
 + *los que adoran*
   * ↳ *adoran* (προσκυνοῦντας)[^P]
-  > No cuelga del altar ni de estaba. Son <u>los que adoran</u> en él. También se miden.
+  > Son <u>los que adoran</u> en él. También se miden.
 
 ### Apocalipsis 11:2:8 — *Y echa fuera el atrio exterior del santuario*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Mide el santuario; el atrio, otra cosa.
+> Mide el santuario; el <u>atrio</u>, otra cosa.
 
 #### *Y echa fuera el atrio exterior del santuario*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y mide el santuario de Dios, el altar y a los que adoran en él*).
-  > Ese <u>Y</u> no suma otro mide. Tras mide: echa fuera.
+  > Ese <u>Y</u> no suma otro *mide*. Tras *mide*: *echa fuera*.
 
 * *Yo, Juan* → *echa fuera* → *el atrio exterior del santuario*
-  > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: el atrio exterior del santuario. No el santuario. No el altar. No a los que adoran. Este, fuera. No lo midas, todavía no.
+  > A quien se manda es el mismo <u>Yo</u>, Juan. Lo alcanzado: el atrio exterior del santuario. No el santuario. No el altar. No a los que adoran. Este, fuera. *No lo midas*, todavía no.
 
 ### Apocalipsis 11:2:13 — *y no lo midas*
 
-* Actores principales: *el atrio exterior del santuario* (1) · *las naciones* (1) · *Yo, Juan* (1)
-  > El recuento pone al <u>atrio</u> exterior, a las naciones y a Yo, Juan. Juan no mide; el atrio ha sido dado; las naciones pisotean.
+> <u>Juan</u> no mide; el atrio ha sido dado; las naciones pisotean.
 
 #### *y no lo midas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y echa fuera el atrio exterior del santuario*).
-  > Ese <u>y</u> no suma otro echa fuera. Tras echa fuera: no lo midas.
+  > Ese <u>y</u> no suma otro *echa fuera*. Tras *echa fuera*: *no lo midas*.
 
 * *Yo, Juan* → *no midas* → *lo*
-  > A quien se manda es <u>Yo</u>, Juan. Lo alcanzado: lo —el atrio exterior. El santuario, el altar y a los que adoran: mide. Este: no. Por qué, anidado.
+  > A quien se manda es <u>Yo</u>, Juan. Lo alcanzado: lo —el atrio exterior. El santuario, el altar y a los que adoran: mide. Este: no.
 
 - *porque ha sido dado a las naciones*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro no midas. Da la razón de no midas: ha sido dado a las naciones.
+  > Ese <u>porque</u> no abre otro *no midas*. Da la razón: ha sido dado a las naciones.
 
   * *el atrio exterior del santuario* → *ha sido dado*
   > Quien ha sido dado es <u>el</u> atrio exterior del santuario. A las naciones. El texto no dice aquí quién lo dio.
 
 - *y ellas pisotearán la ciudad santa durante cuarenta y dos meses*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*porque ha sido dado a las naciones*).
-  > Ese <u>y</u> no abre otro porque. Sigue la razón de no midas: ellas pisotearán.
+  > Ese <u>y</u> no abre otro *porque*. Sigue la razón de *no midas*: ellas pisotearán.
 
   * *las naciones* → *pisotearán* → *la ciudad santa*
   > Quienes pisotearán son <u>las</u> naciones —ellas. Lo alcanzado: la ciudad santa. Durante cuarenta y dos meses. El texto no dice aquí qué ciudad es. Los dos testigos, todavía no.
 
 ### Apocalipsis 11:3:2 — *Y daré a mis dos testigos*
 
-* Actores principales: *el ángel* (1)
-  > El recuento ya no es las naciones. Quien ocupa la línea es <u>el</u> ángel, uno. Las naciones pisotean; él da.
+> Ya no son las naciones. Quien ocupa la línea es <u>el</u> ángel. Las naciones pisotean; él da.
 
 #### *Y daré a mis dos testigos*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y ellas pisotearán la ciudad santa durante cuarenta y dos meses*).
-  > Ese <u>Y</u> no suma otro pisotearán. Tras las naciones: daré.
+  > Ese <u>Y</u> no suma otro *pisotearán*. Tras las naciones: *daré*.
 
 * *el ángel* → *daré*
-  > Quien dará es <u>el</u> ángel. La flecha se detiene en daré. A mis dos testigos queda en la misma línea, fuera de la flecha. Dos. De él —mis. El texto no dice aquí quiénes son. Qué les da, todavía no.
+  > Quien dará es <u>el</u> ángel. A mis dos testigos. Dos. De él —*mis*. El texto no dice aquí quiénes son. Qué les da, todavía no.
 
 ### Apocalipsis 11:3:8 — *y profetizarán mil doscientos sesenta días, vestidos de tela áspera*
 
-* Actores principales: *mis dos testigos* (1)
-  > El recuento ya no es el ángel. Quienes ocupan la línea son <u>mis</u> dos testigos, uno. Él da; ellos profetizan.
+> Ya no es el ángel. Quienes ocupan la línea son <u>mis</u> dos testigos. Él da; ellos profetizan.
 
 #### *y profetizarán mil doscientos sesenta días, vestidos de tela áspera*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y daré a mis dos testigos*).
-  > Ese <u>y</u> no suma otro daré. Tras daré: profetizarán.
+  > Ese <u>y</u> no suma otro *daré*. Tras *daré*: *profetizarán*.
 
 * *mis dos testigos* → *profetizarán*
-  > Quienes profetizarán son <u>mis</u> dos testigos. A Juan se le dijo profetices otra vez (Apocalipsis 10:11). Ahora estos dos. Mil doscientos sesenta días queda en la misma línea, fuera de la flecha. Las naciones pisotean cuarenta y dos meses. El texto no los iguala aquí.
+  > Quienes profetizarán son <u>mis</u> dos testigos. A Juan se le dijo *profetices* otra vez. Ahora estos dos. Mil doscientos sesenta días. Las naciones pisotean cuarenta y dos meses. El texto no los iguala aquí.
 
 + *testigos*
   * ↳ *vestidos* (περιβεβλημένοι)[^P]
@@ -6436,14 +6265,13 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:4:2 — *Estos son los dos olivos y los dos candelabros que están de pie delante del Dios de la tierra*
 
-* Actores principales: *Estos* (1)
-  > El recuento pone a <u>Estos</u>, uno. Los dos testigos: ahora se dice qué son.
+> <u>Estos</u> —los dos testigos—: ahora se dice qué son.
 
 #### *Estos son los dos olivos y los dos candelabros que están de pie delante del Dios de la tierra*
   > El texto no espera. <u>Estos</u> —los dos testigos— son los dos olivos y los dos candelabros.
 
 * *Estos* → *son* → *los dos olivos y los dos candelabros*
-  > Quienes son son <u>Estos</u> —los dos testigos. Lo alcanzado: los dos olivos y los dos candelabros. Juan ya vio siete candelabros (Apocalipsis 1:12). Aquí son dos. Delante del Dios de la tierra queda en la misma línea, fuera de la flecha. El fuego, todavía no.
+  > Quienes son son <u>Estos</u> —los dos testigos. Lo alcanzado: los dos olivos y los dos candelabros. Juan ya vio siete candelabros. Aquí son dos. Delante del Dios de la tierra. El fuego, todavía no.
 
 + *Estos*
   * ↳ *están de pie* (ἑστῶτες)[^P]
@@ -6451,8 +6279,7 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:5:14 — *y devora a los enemigos de ellos*
 
-* Actores principales: *alguien* (2) · *fuego* (2) · *ser matado* (1)
-  > El recuento pone a <u>alguien</u>, dos, a fuego, dos, y a ser matado. Si alguien quiere dañar; sale fuego y devora; así debe ser matado.
+> Si <u>alguien</u> quiere dañar: sale fuego y devora; así debe ser matado.
 
 - *si alguien quiere dañarlos*
   * *si* (εἴ)[^ei]
@@ -6461,94 +6288,89 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
   * *alguien* → *quiere* → *dañarlos*
     * ↳ *dañarlos* (ἀδικῆσαι)[^I]
 
-  > Quien quiere es <u>alguien</u>. Lo alcanzado: dañarlos —a los dos testigos. Completa a quiere. Sale fuego, anidado.
+  > Quien quiere es <u>alguien</u>. Lo alcanzado: dañarlos —a los dos testigos.
 
 - *Y sale fuego de la boca de ellos*
   * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*si alguien quiere dañarlos*).
-  > Ese <u>Y</u> no suma otro si. Si alguien quiere dañarlos: sale fuego.
+  > Ese <u>Y</u> no suma otro *si*. Si alguien quiere dañarlos: sale fuego.
 
   * *fuego* → *sale*
   > Quien sale es <u>fuego</u>. De la boca de ellos —de los dos testigos. Devora, todavía no.
 
 #### *y devora a los enemigos de ellos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y sale fuego de la boca de ellos*).
-  > Ese <u>y</u> no suma otro sale. Tras sale: devora.
+  > Ese <u>y</u> no suma otro *sale*. Tras *sale*: *devora*.
 
 * *fuego* → *devora* → *a los enemigos de ellos*
   > Quien devora es el mismo <u>fuego</u>. Lo alcanzado: a los enemigos de ellos. El que sale de la boca. Así debe, todavía no.
 
 - *si alguien quiere dañarlos*
   * *si* (εἴ)[^ei]
-  > De nuevo <u>si</u> —el mismo caso: si alguien quiere dañarlos. El así debe, anidado.
+  > De nuevo <u>si</u> —el mismo caso: si alguien quiere dañarlos.
 
   * *alguien* → *quiere* → *dañarlos*
     * ↳ *dañarlos* (ἀδικῆσαι)[^I]
 
-  > Quien quiere es otra vez <u>alguien</u>. Lo alcanzado: dañarlos. Completa a quiere.
+  > Quien quiere es otra vez <u>alguien</u>. Lo alcanzado: dañarlos.
 
 - *y así debe ser matado*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*si alguien quiere dañarlos*).
-  > Ese <u>y</u> no suma otro quiere. Si alguien quiere dañarlos: así debe ser matado.
+  > Ese <u>y</u> no suma otro *quiere*. Si alguien quiere dañarlos: así debe ser matado.
 
   * *ser matado* → *debe*
     * ↳ *ser matado* (ἀποκτανθῆναι)[^I]
 
-  > Lo que debe es <u>ser</u> matado. Completa a debe. Así —como el fuego devora. El cielo, todavía no.
+  > Lo que debe es <u>ser</u> matado. Así —como el fuego devora. El cielo, todavía no.
 
 ### Apocalipsis 11:6:2 — *Estos tienen autoridad para cerrar el cielo*
 
-* Actores principales: *Estos* (1) · *lluvia* (1)
-  > El recuento pone a <u>Estos</u> y a lluvia. Los dos testigos tienen autoridad; la lluvia no cae.
+> Ya no es el fuego. <u>Estos</u> —los dos testigos— tienen autoridad. La lluvia no cae.
 
 #### *Estos tienen autoridad para cerrar el cielo*
-  > Ya no es el fuego. <u>Estos</u> —los dos testigos— tienen autoridad para cerrar el cielo.
-
 * *Estos* → *tienen* → *autoridad para cerrar el cielo*
   * ↳ *cerrar* (κλεῖσαι)[^I]
-  > Quienes tienen son <u>Estos</u> —los dos testigos. Lo alcanzado: autoridad para cerrar el cielo. Completa a tienen. No cuelga de cielo. Para qué, anidado.
+  > Quienes tienen son <u>Estos</u> —los dos testigos. Lo alcanzado: autoridad para cerrar el cielo.
 
 - *para que no caiga lluvia en los días de la profecía de ellos*
   * *no* (ἵνα)[^hina]
-  > Ese <u>para que</u> no abre otro tienen. Trae el para qué de tienen: no caiga lluvia.
+  > Ese <u>para que</u> no abre otro *tienen*. Trae el para qué: no caiga lluvia.
 
   * *lluvia* → *no caiga*
-  > Quien no caiga es <u>lluvia</u>. En los días de la profecía de ellos —los mil doscientos sesenta días (Apocalipsis 11:3). Las aguas, todavía no.
+  > Quien no caiga es <u>lluvia</u>. En los días de la profecía de ellos —los mil doscientos sesenta días. Las aguas, todavía no.
 
 ### Apocalipsis 11:6:19 — *y tienen autoridad sobre las aguas para convertirlas en sangre y para herir la tierra con toda plaga*
 
-* Actores principales: *Estos* (2)
-  > Siguen <u>Estos</u>, dos. Ya cerraban el cielo. Ahora las aguas y la tierra.
+> Siguen <u>Estos</u>. Ya cerraban el cielo. Ahora las aguas y la tierra.
 
 #### *y tienen autoridad sobre las aguas para convertirlas en sangre y para herir la tierra con toda plaga*
 * *autoridad* (καὶ)[^kai] une esta cláusula con la anterior (*Estos tienen autoridad para cerrar el cielo*).
-  > Ese <u>autoridad</u> no suma otro cerrar. Tras el cielo: las aguas y la tierra.
+  > Ese <u>autoridad</u> no suma otro *cerrar*. Tras el cielo: las aguas y la tierra.
 
 * *Estos* → *tienen* → *autoridad para convertirlas en sangre y para herir la tierra*
   * ↳ *convertirlas* (στρέφειν)[^I]
   * ↳ *herir* (πατάξαι)[^I]
-  > Quienes tienen son los mismos <u>Estos</u>. Lo alcanzado: autoridad para convertirlas en sangre y para herir la tierra. Completan a tienen. No cuelgan de aguas. El mar ya se convirtió en sangre (Apocalipsis 8:8). Ahora ellos tienen autoridad sobre las aguas. Con toda plaga. Cuantas veces, anidado.
+  > Quienes tienen son los mismos <u>Estos</u>. Lo alcanzado: autoridad para convertirlas en sangre y para herir la tierra. El mar ya se convirtió en sangre. Ahora ellos tienen autoridad sobre las aguas. Con toda plaga.
 
 + *cuantas veces quieran*
   * *Estos* → *quieran*
-  > Quienes quieran son los mismos <u>Estos</u>. Cuantas veces —el tiempo de tienen. La bestia, todavía no.
+  > Quienes quieran son los mismos <u>Estos</u>. Cuantas veces —el alcance de *tienen*. La bestia, todavía no.
 
 ### Apocalipsis 11:7:14 — *hará guerra contra ellos*
 
-* Actores principales: *Estos* (1) · *la bestia* (1)
-  > El recuento pone a <u>Estos</u> y a la bestia. Los testigos terminan; la bestia hace guerra.
+> Los testigos terminan; <u>la</u> bestia hace guerra.
 
 - *cuando terminen el testimonio de ellos*
   * *cuando* (ὅταν)
-  > Ese <u>cuando</u> no es el de «cuando esté por tocar». Fija el momento de hará guerra: cuando terminen el testimonio.
+  > Ese <u>cuando</u> no abre otro *hará guerra*. Fija el momento: cuando terminen el testimonio.
 
   * *Estos* → *terminen* → *el testimonio de ellos*
   > Quienes terminen son <u>Estos</u> —los dos testigos. Lo alcanzado: el testimonio de ellos. Profetizan mil doscientos sesenta días. Cuando eso termina, la bestia.
 
 + *Y la bestia que sube del abismo*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*cuando terminen el testimonio de ellos*).
-  > Ese <u>Y</u> no suma otro terminen. Tras terminen: la bestia.
+  > Ese <u>Y</u> no suma otro *terminen*. Tras *terminen*: la bestia.
 
-  > Primera vez que se nombra <u>la</u> bestia. Que sube del abismo —del pozo ya salió humo y langostas (Apocalipsis 9:2). Quién es, el texto no lo abre aquí.
+  > Primera vez que se nombra <u>la</u> bestia. Que sube del abismo —del pozo ya salió humo y langostas. Quién es, el texto no lo abre aquí.
 
 #### *hará guerra contra ellos*
   > Cuando terminen, <u>hará</u> guerra contra ellos.
@@ -6562,34 +6384,32 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:7:19 — *los vencerá*
 
-* Actores principales: *la bestia* (1)
-  > Sigue <u>la</u> bestia, uno. Ya no solo hace guerra. Ahora vence.
+> Sigue <u>la</u> bestia. Ya no solo hace guerra. Ahora vence.
 
 #### *los vencerá*
 * *los vencerá* (καὶ)[^kai] une esta cláusula con la anterior (*hará guerra contra ellos*).
-  > Ese <u>los vencerá</u> no suma otra guerra. Tras hará guerra: los vencerá.
+  > Ese <u>los vencerá</u> no suma otra guerra. Tras *hará guerra*: *los vencerá*.
 
 * *la bestia* → *vencerá* → *los*
   > Quien vencerá es <u>la</u> bestia. Lo alcanzado: los —los dos testigos. Si alguien quería dañarlos, salía fuego. Cuando termina el testimonio, la bestia los vence. Matará, todavía no.
 
 ### Apocalipsis 11:7:22 — *y los matará*
 
-* Actores principales: *la bestia* (1) · *que* (1) · *los cadáveres de ellos* (1) · *nuestro Señor* (1)
-  > El recuento pone a <u>la</u> bestia, a que, a los cadáveres de ellos y a nuestro Señor. La bestia mata; los cadáveres quedan; la ciudad se llama; el Señor fue crucificado.
+> <u>La</u> bestia mata; los cadáveres quedan; la ciudad se nombra; el Señor fue crucificado.
 
 #### *y los matará*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*los vencerá*).
-  > Ese <u>y</u> no suma otro vencerá. Tras los vencerá: los matará.
+  > Ese <u>y</u> no suma otro *vencerá*. Tras *los vencerá*: *los matará*.
 
 * *la bestia* → *matará* → *los*
-  > Quien matará es <u>la</u> bestia. Lo alcanzado: los —los dos testigos. Hizo guerra, los venció, los mata. Los cadáveres, anidado.
+  > Quien matará es <u>la</u> bestia. Lo alcanzado: los —los dos testigos. Hizo guerra, los venció, los mata.
 
 + *Y los cadáveres de ellos estarán en la plaza de la gran ciudad*
   * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y los matará*).
-  > Ese <u>Y</u> no suma otro matará. Tras los mata: los cadáveres.
+  > Ese <u>Y</u> no suma otro *matará*. Tras los mata: los cadáveres.
 
   * *los cadáveres de ellos* → *estarán*
-  > Quienes estarán son <u>los</u> cadáveres de ellos —de los dos testigos. En la plaza de la gran ciudad. La ciudad santa fue pisoteada (Apocalipsis 11:2). Aquí: una gran ciudad. El texto no dice aquí si es la misma.
+  > Quienes estarán son <u>los</u> cadáveres de ellos —de los dos testigos. En la plaza de la gran ciudad. La ciudad santa fue pisoteada. Aquí: una gran ciudad. El texto no dice aquí si es la misma.
 
 - *que espiritualmente se llama Sodoma y Egipto*
   * *que* (ἥτις)[^rel]: describe a *ciudad*.
@@ -6610,43 +6430,40 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:9:2 — *Y de los pueblos, tribus, lenguas y naciones verán los cadáveres de ellos durante tres días y medio*
 
-* Actores principales: *los pueblos, tribus, lenguas y naciones* (1)
-  > El recuento ya no es la bestia. Quienes ocupan la línea son <u>los</u> pueblos, tribus, lenguas y naciones, uno. Los cadáveres están; estos ven.
+> Ya no es la bestia. Quienes ocupan la línea son <u>los</u> pueblos, tribus, lenguas y naciones. Los cadáveres están; estos ven.
 
 #### *Y de los pueblos, tribus, lenguas y naciones verán los cadáveres de ellos durante tres días y medio*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*donde también fue crucificado nuestro Señor*).
   > Ese <u>Y</u> no suma otra cruz. Tras la ciudad: ven los cadáveres.
 
 * *los pueblos, tribus, lenguas y naciones* → *verán* → *los cadáveres de ellos*
-  > Quienes verán son <u>los</u> pueblos, tribus, lenguas y naciones. Lo alcanzado: los cadáveres de ellos —de los dos testigos. En Apocalipsis 10:11: pueblos, naciones, lenguas y reyes. Aquí: pueblos, tribus, lenguas y naciones. Durante tres días y medio. Las tumbas, todavía no.
+  > Quienes verán son <u>los</u> pueblos, tribus, lenguas y naciones. Lo alcanzado: los cadáveres de ellos —de los dos testigos. Ya se oyeron pueblos, naciones, lenguas y reyes. Aquí: pueblos, tribus, lenguas y naciones. Durante tres días y medio. Las tumbas, todavía no.
 
 ### Apocalipsis 11:9:24 — *y no permitirán que los cadáveres de ellos sean puestos en tumbas*
 
-* Actores principales: *los pueblos, tribus, lenguas y naciones* (1)
-  > Siguen <u>los</u> pueblos, tribus, lenguas y naciones, uno. Ya no solo ven. Ahora no permiten.
+> Siguen <u>los</u> pueblos, tribus, lenguas y naciones. Ya no solo ven. Ahora no permiten.
 
 #### *y no permitirán que los cadáveres de ellos sean puestos en tumbas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y de los pueblos, tribus, lenguas y naciones verán los cadáveres de ellos durante tres días y medio*).
-  > Ese <u>y</u> no suma otro verán. Tras ven: no permiten.
+  > Ese <u>y</u> no suma otro *verán*. Tras ven: no permiten.
 
 * *los pueblos, tribus, lenguas y naciones* → *no permitirán* → *que los cadáveres de ellos sean puestos*
   * ↳ *puestos* (τεθῆναι)[^I]
-  > Quienes no permitirán son los mismos <u>los</u> pueblos, tribus, lenguas y naciones. Lo alcanzado: que los cadáveres de ellos sean puestos. Completa a no permitirán. En tumbas. Tres días y medio los ven; no los entierran. Se alegrarán, todavía no.
+  > Quienes no permitirán son los mismos <u>los</u> pueblos, tribus, lenguas y naciones. Lo alcanzado: que los cadáveres de ellos sean puestos. En tumbas. Tres días y medio los ven; no los entierran. Se alegrarán, todavía no.
 
 ### Apocalipsis 11:10:7 — *alegrarán por ellos*
 
-* Actores principales: *los que habitan en la tierra* (1)
-  > El recuento ya no nombra pueblos, tribus, lenguas y naciones. Quienes ocupan la línea son <u>los</u> que habitan en la tierra, uno.
+> Ya no nombra pueblos, tribus, lenguas y naciones. Quienes ocupan la línea son <u>los</u> que habitan en la tierra.
 
 + *Y los que habitan en la tierra se*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y no permitirán que los cadáveres de ellos sean puestos en tumbas*).
-  > Ese <u>Y</u> no suma otro no permitirán. Tras no entierran: los que habitan en la tierra.
+  > Ese <u>Y</u> no suma otro *no permitirán*. Tras no entierran: los que habitan en la tierra.
 
 #### *alegrarán por ellos*
   > No lloran. Se <u>alegrarán</u> por ellos.
 
 * *los que habitan en la tierra* → *se alegrarán*
-  > Quienes se alegrarán son <u>los</u> que habitan en la tierra. Por ellos —los dos testigos muertos. A estos ya se les dijo Ay (Apocalipsis 8:13). Se regocijarán, todavía no.
+  > Quienes se alegrarán son <u>los</u> que habitan en la tierra. Por ellos —los dos testigos muertos. A estos ya se les dijo *Ay*. Se regocijarán, todavía no.
 
 + *habitan*
   * ↳ *habitan* (κατοικοῦντες)[^P]
@@ -6654,31 +6471,29 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:10:11 — *y se regocijarán*
 
-* Actores principales: *los que habitan en la tierra* (1)
-  > Siguen <u>los</u> que habitan en la tierra, uno. Ya no solo se alegrarán. Ahora se regocijarán.
+> Siguen <u>los</u> que habitan en la tierra. Ya no solo se alegrarán. Ahora se regocijarán.
 
 #### *y se regocijarán*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*alegrarán por ellos*).
-  > Ese <u>y</u> no suma otro se alegrarán. Tras se alegrarán: se regocijarán.
+  > Ese <u>y</u> no suma otro *se alegrarán*. Tras *se alegrarán*: *se regocijarán*.
 
 * *los que habitan en la tierra* → *se regocijarán*
   > Quienes se regocijarán son los mismos <u>los</u> que habitan en la tierra. El texto dice las dos cosas. Los regalos, todavía no.
 
 ### Apocalipsis 11:10:14 — *y se enviarán regalos unos a otros*
 
-* Actores principales: *estos dos profetas* (1) · *los que habitan en la tierra* (1)
-  > El recuento pone a <u>estos</u> dos profetas y a los que habitan en la tierra. Estos atormentaron; aquellos se envían regalos.
+> <u>Estos</u> dos profetas atormentaron; los que habitan en la tierra se envían regalos.
 
 #### *y se enviarán regalos unos a otros*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y se regocijarán*).
-  > Ese <u>y</u> no suma otro se regocijarán. Tras se alegrarán y se regocijarán: se enviarán regalos.
+  > Ese <u>y</u> no suma otro *se regocijarán*. Tras *se alegrarán* y *se regocijarán*: se enviarán regalos.
 
 * *los que habitan en la tierra* → *se enviarán* → *regalos*
-  > Quienes se enviarán son los mismos <u>los</u> que habitan en la tierra. Lo alcanzado: regalos. Unos a otros. Por qué, anidado.
+  > Quienes se enviarán son los mismos <u>los</u> que habitan en la tierra. Lo alcanzado: regalos. Unos a otros.
 
 - *porque estos dos profetas atormentaron a los que habitan en la tierra*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro se enviarán. Da la razón de se enviarán: estos dos profetas atormentaron.
+  > Ese <u>porque</u> no abre otro *se enviarán*. Da la razón: estos dos profetas atormentaron.
 
   * *estos dos profetas* → *atormentaron* → *a los que habitan*
   > Quienes atormentaron son <u>estos</u> dos profetas. Lo alcanzado: a los que habitan en la tierra. El texto los llamaba testigos. Ahora: profetas. El espíritu de vida, todavía no.
@@ -6689,276 +6504,255 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:11:13 — *Y después de los tres días y medio un espíritu de vida procedente de Dios entró sobre ellos*
 
-* Actores principales: *un espíritu de vida* (1)
-  > El recuento ya no es los que habitan. Quien ocupa la línea es <u>un</u> espíritu de vida, uno. Los cadáveres estaban; ahora entra.
+> Ya no son los que habitan. Quien ocupa la línea es <u>un</u> espíritu de vida. Los cadáveres estaban; ahora entra.
 
 #### *Y después de los tres días y medio un espíritu de vida procedente de Dios entró sobre ellos*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*porque estos dos profetas atormentaron a los que habitan en la tierra*).
-  > Ese <u>Y</u> no suma otro atormentaron. Tras los regalos: después de los tres días y medio.
+  > Ese <u>Y</u> no suma otro *atormentaron*. Tras los regalos: después de los tres días y medio.
 
 * *un espíritu de vida* → *entró*
-  > Quien entró es <u>un</u> espíritu de vida. Sobre ellos —los dos testigos. Procedente de Dios queda en la misma línea, fuera de la flecha. Los tres días y medio son los de Apocalipsis 11:9: los veían y no los enterraban. Se pusieron de pie, todavía no.
+  > Quien entró es <u>un</u> espíritu de vida. Sobre ellos —los dos testigos. Procedente de Dios. Los tres días y medio son los de verlos sin enterrar. Se pusieron de pie, todavía no.
 
 ### Apocalipsis 11:11:17 — *y se pusieron de pie*
 
-* Actores principales: *estos dos profetas* (1)
-  > El recuento vuelve a <u>estos</u> dos profetas, uno. El espíritu entró; ahora ellos se ponen.
+> Vuelven <u>estos</u> dos profetas. El espíritu entró; ahora ellos se ponen.
 
 #### *y se pusieron de pie*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y después de los tres días y medio un espíritu de vida procedente de Dios entró sobre ellos*).
-  > Ese <u>y</u> no suma otro entró. Tras entró el espíritu: se pusieron.
+  > Ese <u>y</u> no suma otro *entró*. Tras entró el espíritu: se pusieron.
 
 * *estos dos profetas* → *se pusieron*
-  > Quienes se pusieron son <u>estos</u> dos profetas. De pie queda en la misma línea, fuera de la flecha. Estaban cadáveres en la plaza. Ya estaban de pie delante del Dios de la tierra (Apocalipsis 11:4). Ahora se ponen de pie otra vez. El temor, todavía no.
+  > Quienes se pusieron son <u>estos</u> dos profetas. De pie. Estaban cadáveres en la plaza. Ya estaban de pie delante del Dios de la tierra. Ahora se ponen de pie otra vez. El temor, todavía no.
 
 ### Apocalipsis 11:11:25 — *y un gran temor cayó sobre quienes los contemplaban*
 
-* Actores principales: *un gran temor* (1)
-  > El recuento ya no es los dos profetas. Quien ocupa la línea es <u>un</u> gran temor, uno. Ellos se pusieron de pie; el temor cae.
+> Ya no son los dos profetas. Quien ocupa la línea es <u>un</u> gran temor. Ellos se pusieron de pie; el temor cae.
 
 #### *y un gran temor cayó sobre quienes los contemplaban*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y se pusieron de pie*).
-  > Ese <u>y</u> no suma otro se pusieron. Tras se pusieron de pie: cayó temor.
+  > Ese <u>y</u> no suma otro *se pusieron*. Tras se pusieron de pie: cayó temor.
 
 * *un gran temor* → *cayó*
-  > Quien cayó es <u>un</u> gran temor. Sobre quienes los contemplaban. Los pueblos los veían muertos (Apocalipsis 11:9). Ahora los contemplan de pie. La voz, todavía no.
+  > Quien cayó es <u>un</u> gran temor. Sobre quienes los contemplaban. Los pueblos los veían muertos. Ahora los contemplan de pie. La voz, todavía no.
 
 + *quienes los contemplaban*
   * ↳ *contemplaban* (θεωροῦντας)[^P]
-  > No cuelga de pie. Son <u>quienes</u> los contemplaban.
+  > Son <u>quienes</u> los contemplaban.
 
 ### Apocalipsis 11:12:2 — *Y oyeron una gran voz del cielo que les decía*
 
-* Actores principales: *estos dos profetas* (1)
-  > El recuento vuelve a <u>estos</u> dos profetas, uno. El temor cayó sobre quienes los miraban; ellos oyen.
+> Vuelven <u>estos</u> dos profetas. El temor cayó sobre quienes los miraban; ellos oyen.
 
 #### *Y oyeron una gran voz del cielo que les decía*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y un gran temor cayó sobre quienes los contemplaban*).
   > Ese <u>Y</u> no suma otro temor. Tras cayó temor: oyeron.
 
 * *estos dos profetas* → *oyeron* → *una gran voz*
-  > Quienes oyeron son <u>estos</u> dos profetas. Lo alcanzado: una gran voz. Del cielo. Juan ya oyó una voz del cielo (Apocalipsis 10:4). Ahora ellos. Qué dice, todavía no.
+  > Quienes oyeron son <u>estos</u> dos profetas. Lo alcanzado: una gran voz. Del cielo. Juan ya oyó una voz del cielo. Ahora ellos. Qué dice, todavía no.
 
 + *voz*
   * ↳ *decía* (λεγούσης)[^P]
-  > La voz no queda muda. Les <u>decía</u>.
+  > La voz les <u>decía</u>.
 
 ### Apocalipsis 11:12:10 — *Suban aquí*
 
-* Actores principales: *estos dos profetas* (1)
-  > Siguen <u>estos</u> dos profetas, uno. La voz decía; ahora se les manda.
+> Siguen <u>estos</u> dos profetas. La voz decía; ahora se les manda.
 
 #### *Suban aquí*
   > Eso es lo que decía: <u>Suban</u> aquí.
 
 * *estos dos profetas* → *Suban*
-  > A quienes se manda son <u>estos</u> dos profetas. La flecha se detiene en Suban. Aquí —hacia la voz, el cielo. Se les dijo Levántate a Juan (Apocalipsis 11:1). A estos: Suban. Subieron, todavía no.
+  > A quienes se manda son <u>estos</u> dos profetas. Aquí —hacia la voz, el cielo. A Juan se le dijo *Levántate*. A estos: *Suban*. Subieron, todavía no.
 
 ### Apocalipsis 11:12:13 — *Y subieron al cielo en la nube*
 
-* Actores principales: *estos dos profetas* (1)
-  > Siguen <u>estos</u> dos profetas, uno. Se les dijo Suban; ahora suben.
+> Siguen <u>estos</u> dos profetas. Se les dijo *Suban*; ahora suben.
 
 #### *Y subieron al cielo en la nube*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Suban aquí*).
-  > Ese <u>Y</u> no suma otro Suban. Se mandó Suban. Ahora subieron.
+  > Ese <u>Y</u> no suma otro *Suban*. Se mandó *Suban*. Ahora subieron.
 
 * *estos dos profetas* → *subieron*
-  > Quienes subieron son <u>estos</u> dos profetas. Al cielo. En la nube queda en la misma línea, fuera de la flecha. El ángel fuerte descendía envuelto en una nube (Apocalipsis 10:1). Estos suben en la nube. Los enemigos, todavía no.
+  > Quienes subieron son <u>estos</u> dos profetas. Al cielo. En la nube. El ángel fuerte descendía envuelto en una nube. Estos suben en la nube. Los enemigos, todavía no.
 
 ### Apocalipsis 11:12:21 — *y los enemigos de ellos los contemplaron*
 
-* Actores principales: *los enemigos de ellos* (1)
-  > El recuento ya no es los dos profetas. Quienes ocupan la línea son <u>los</u> enemigos de ellos, uno. Estos suben; aquellos miran.
+> Ya no son los dos profetas. Quienes ocupan la línea son <u>los</u> enemigos de ellos. Estos suben; aquellos miran.
 
 #### *y los enemigos de ellos los contemplaron*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y subieron al cielo en la nube*).
-  > Ese <u>y</u> no suma otro subieron. Tras subieron: los enemigos los contemplaron.
+  > Ese <u>y</u> no suma otro *subieron*. Tras *subieron*: los enemigos los contemplaron.
 
 * *los enemigos de ellos* → *contemplaron* → *los*
-  > Quienes contemplaron son <u>los</u> enemigos de ellos. Lo alcanzado: los —los que subieron. El fuego devoraba a los enemigos (Apocalipsis 11:5). Quienes los contemplaban ya tuvieron temor (Apocalipsis 11:11). Ahora los enemigos los ven subir. El terremoto, todavía no.
+  > Quienes contemplaron son <u>los</u> enemigos de ellos. Lo alcanzado: los —los que subieron. El fuego devoraba a los enemigos. Quienes los contemplaban ya tuvieron temor. Ahora los enemigos los ven subir. El terremoto, todavía no.
 
 ### Apocalipsis 11:13:6 — *Y en aquella hora hubo un gran terremoto*
 
-* Actores principales: *un gran terremoto* (1)
-  > El recuento ya no es los enemigos. Quien ocupa la línea es <u>un</u> gran terremoto, uno. Ellos subieron; ahora hay terremoto.
+> Ya no son los enemigos. Quien ocupa la línea es <u>un</u> gran terremoto. Ellos subieron; ahora hay terremoto.
 
 #### *Y en aquella hora hubo un gran terremoto*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y los enemigos de ellos los contemplaron*).
-  > Ese <u>Y</u> no suma otro contemplaron. Tras los enemigos los vieron subir: hubo terremoto.
+  > Ese <u>Y</u> no suma otro *contemplaron*. Tras los enemigos los vieron subir: hubo terremoto.
 
 * *un gran terremoto* → *hubo*
-  > Quien hubo es <u>un</u> gran terremoto. En aquella hora —la de subir y contemplar. Al sexto sello hubo un gran terremoto (Apocalipsis 6:12). Del altar también (Apocalipsis 8:5). La décima, todavía no.
+  > Quien hubo es <u>un</u> gran terremoto. En aquella hora —la de subir y contemplar. Al sexto sello hubo un gran terremoto. Del altar también. La décima, todavía no.
 
 ### Apocalipsis 11:13:14 — *y cayó la décima parte de la ciudad*
 
-* Actores principales: *la décima parte de la ciudad* (1)
-  > El recuento ya no es el terremoto. Quien ocupa la línea es <u>la</u> décima parte de la ciudad, uno. Hubo terremoto; ahora cae.
+> Ya no es el terremoto. Quien ocupa la línea es <u>la</u> décima parte de la ciudad. Hubo terremoto; ahora cae.
 
 #### *y cayó la décima parte de la ciudad*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y en aquella hora hubo un gran terremoto*).
-  > Ese <u>y</u> no suma otro hubo. Tras el terremoto: cayó.
+  > Ese <u>y</u> no suma otro *hubo*. Tras el terremoto: *cayó*.
 
 * *la décima parte de la ciudad* → *cayó*
-  > Quien cayó es <u>la</u> décima parte de la ciudad. No toda. Las trompetas herían terceras. Aquí: una décima. La gran ciudad de los cadáveres (Apocalipsis 11:8). Siete mil, todavía no.
+  > Quien cayó es <u>la</u> décima parte de la ciudad. No toda. Las trompetas herían terceras. Aquí: una décima. La gran ciudad de los cadáveres. Siete mil, todavía no.
 
 ### Apocalipsis 11:13:16 — *siete mil personas murieron en el terremoto*
 
-* Actores principales: *siete mil personas* (1)
-  > El recuento ya no es la décima. Quienes ocupan la línea son <u>siete</u> mil personas, uno. Cayó la ciudad; ahora mueren.
+> Ya no es la décima. Quienes ocupan la línea son <u>siete</u> mil personas. Cayó la ciudad; ahora mueren.
 
 #### *siete mil personas murieron en el terremoto*
 * *murieron* (καὶ)[^kai] une esta cláusula con la anterior (*y cayó la décima parte de la ciudad*).
-  > Ese <u>murieron</u> no suma otra caída. Tras cayó: murieron.
+  > Ese <u>murieron</u> no suma otra caída. Tras *cayó*: *murieron*.
 
 * *siete mil personas* → *murieron*
   > Quienes murieron son <u>siete</u> mil personas. En el terremoto —el de aquella hora. El texto da el número. Los demás, todavía no.
 
 ### Apocalipsis 11:13:28 — *y los demás se llenaron de temor*
 
-* Actores principales: *los demás* (1)
-  > El recuento ya no es los siete mil. Quienes ocupan la línea son <u>los</u> demás, uno. Unos murieron; los demás se llenan.
+> Ya no son los siete mil. Quienes ocupan la línea son <u>los</u> demás. Unos murieron; los demás se llenan.
 
 #### *y los demás se llenaron de temor*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*siete mil personas murieron en el terremoto*).
   > Ese <u>y</u> no suma otra muerte. Tras murieron siete mil: los demás.
 
 * *los demás* → *se llenaron* → *de temor*
-  > Quienes se llenaron son <u>los</u> demás —los que no murieron. Lo alcanzado: de temor. Un gran temor ya cayó sobre quienes contemplaban a los testigos (Apocalipsis 11:11). Ahora los demás de la ciudad. Gloria, todavía no.
+  > Quienes se llenaron son <u>los</u> demás —los que no murieron. Lo alcanzado: de temor. Un gran temor ya cayó sobre quienes contemplaban a los testigos. Ahora los demás de la ciudad. Gloria, todavía no.
 
 ### Apocalipsis 11:13:30 — *y dieron gloria al Dios del cielo*
 
-* Actores principales: *los demás* (1)
-  > Siguen <u>los</u> demás, uno. Ya no solo se llenaron de temor. Ahora dan gloria.
+> Siguen <u>los</u> demás. Ya no solo se llenaron de temor. Ahora dan gloria.
 
 #### *y dieron gloria al Dios del cielo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y los demás se llenaron de temor*).
   > Ese <u>y</u> no suma otro temor. Tras se llenaron de temor: dieron gloria.
 
 * *los demás* → *dieron* → *gloria*
-  > Quienes dieron son los mismos <u>los</u> demás. Lo alcanzado: gloria. Al Dios del cielo. Los testigos estaban de pie delante del Dios de la tierra (Apocalipsis 11:4). El resto de las trompetas no se arrepintió (Apocalipsis 9:20–21). Aquí el texto dice: dieron gloria. El segundo ay, todavía no.
+  > Quienes dieron son los mismos <u>los</u> demás. Lo alcanzado: gloria. Al Dios del cielo. Los testigos estaban de pie delante del Dios de la tierra. El resto de las trompetas no se arrepintió. Aquí el texto dice: dieron gloria. El segundo ay, todavía no.
 
 ### Apocalipsis 11:14:5 — *El segundo ay pasó*
 
-* Actores principales: *El segundo ay* (1)
-  > El recuento ya no es los demás. Quien ocupa la línea es <u>El</u> segundo ay, uno.
+> Ya no son los demás. Quien ocupa la línea es <u>El</u> segundo ay.
 
 #### *El segundo ay pasó*
   > Tras la gloria: <u>El</u> segundo ay pasó.
 
 * *El segundo ay* → *pasó*
-  > Quien pasó es <u>El</u> segundo ay. En Apocalipsis 8:13 se oyeron tres. El primero pasó en Apocalipsis 9:12, tras el quinto toque. Quedaban dos. El sexto toque y lo que sigue: este es el segundo. Ya pasó. El tercero, todavía no.
+  > Quien pasó es <u>El</u> segundo ay. Se oyeron tres. El primero pasó tras el quinto toque. Quedaban dos. El sexto toque y lo que sigue: este es el segundo. Ya pasó. El tercero, todavía no.
 
 ### Apocalipsis 11:14:11 — *Y he aquí, el tercer ay viene pronto*
 
-* Actores principales: *el tercer ay* (1)
-  > El recuento ya no es el segundo ay. Quien ocupa la línea es <u>el</u> tercer ay, uno.
+> Ya no es el segundo ay. Quien ocupa la línea es <u>el</u> tercer ay.
 
 #### *Y he aquí, el tercer ay viene pronto*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*El segundo ay pasó*).
-  > Ese <u>Y</u> no suma otro pasó. Tras pasó el segundo: he aquí el tercero.
+  > Ese <u>Y</u> no suma otro *pasó*. Tras pasó el segundo: he aquí el tercero.
 
   > <u>He aquí</u>. No se cierra. El tercero viene.
 
 * *el tercer ay* → *viene*
-  > Quien viene es <u>el</u> tercer ay. Pronto. De los tres de Apocalipsis 8:13, este es el que queda. El séptimo ángel, todavía no.
+  > Quien viene es <u>el</u> tercer ay. Pronto. De los tres, este es el que queda. El séptimo ángel, todavía no.
 
 ### Apocalipsis 11:15:5 — *Y el séptimo ángel tocó la trompeta*
 
-* Actores principales: *el séptimo ángel* (1)
-  > El recuento ya no es el tercer ay. Quien ocupa la línea es <u>el</u> séptimo ángel, uno.
+> Ya no es el tercer ay. Quien ocupa la línea es <u>el</u> séptimo ángel.
 
 #### *Y el séptimo ángel tocó la trompeta*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y he aquí, el tercer ay viene pronto*).
-  > Ese <u>Y</u> no suma otro ay. Tras viene pronto: el séptimo tocó.
+  > Ese <u>Y</u> no suma otro ay. Tras *viene pronto*: el séptimo tocó.
 
 * *el séptimo ángel* → *tocó*
-  > Quien tocó es <u>el</u> séptimo ángel. La flecha se detiene en tocó. El último de los siete. El de Apocalipsis 10:7: cuando esté por tocar. Ahora tocó. Otra vez: no hay *Ven y mira*. Las voces, todavía no.
+  > Quien tocó es <u>el</u> séptimo ángel. El último de los siete. Cuando estuviera por tocar, el misterio se completaría. Ahora tocó. Otra vez: no hay *Ven y mira*. Las voces, todavía no.
 
 ### Apocalipsis 11:15:7 — *y hubo grandes voces en el cielo que decían*
 
-* Actores principales: *grandes voces* (1)
-  > El recuento ya no es el séptimo ángel. Quienes ocupan la línea son <u>grandes</u> voces, uno. Él tocó; hay voces.
+> Ya no es el séptimo ángel. Quienes ocupan la línea son <u>grandes</u> voces. Él tocó; hay voces.
 
 #### *y hubo grandes voces en el cielo que decían*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el séptimo ángel tocó la trompeta*).
-  > Ese <u>y</u> no suma otro tocó. Tras tocó: hubo voces.
+  > Ese <u>y</u> no suma otro *tocó*. Tras *tocó*: hubo voces.
 
 * *grandes voces* → *hubo*
-  > Quien hubo es <u>grandes</u> voces. En el cielo. No dice Juan oí. Del trono ya salieron voces (Apocalipsis 4:5). Qué dicen, todavía no.
+  > Quien hubo es <u>grandes</u> voces. En el cielo. No dice Juan *oí*. Del trono ya salieron voces. Qué dicen, todavía no.
 
 + *voces*
   * ↳ *decían* (λέγοντες)[^P]
-  > No quedan mudas. Están <u>diciendo</u>.
+  > Están <u>diciendo</u>.
 
 ### Apocalipsis 11:15:14 — *Los reinos del mundo han llegado a ser de nuestro Señor y del Cristo de él*
 
-* Actores principales: *Los reinos del mundo* (1)
-  > El recuento ya no es las voces. Quienes ocupan la línea son <u>Los</u> reinos del mundo, uno. Las voces dicen; los reinos llegan a ser.
+> Ya no son las voces. Quienes ocupan la línea son <u>Los</u> reinos del mundo. Las voces dicen; los reinos llegan a ser.
 
 #### *Los reinos del mundo han llegado a ser de nuestro Señor y del Cristo de él*
   > Eso es lo que decían: <u>Los</u> reinos del mundo han llegado a ser de nuestro Señor y del Cristo de él.
 
 * *Los reinos del mundo* → *han llegado a ser* → *de nuestro Señor y del Cristo de él*
-  > Quienes han llegado a ser son <u>Los</u> reinos del mundo. Lo alcanzado: de nuestro Señor y del Cristo de él. Dos: el Señor y el Cristo de él. Nuestro Señor ya se nombró donde fue crucificado (Apocalipsis 11:8). Reinará, todavía no.
+  > Quienes han llegado a ser son <u>Los</u> reinos del mundo. Lo alcanzado: de nuestro Señor y del Cristo de él. Dos: el Señor y el Cristo de él. Nuestro Señor ya se nombró donde fue crucificado. Reinará, todavía no.
 
 ### Apocalipsis 11:15:27 — *y él reinará por los siglos de los siglos*
 
-* Actores principales: *nuestro Señor* (1)
-  > El recuento ya no es los reinos. Quien ocupa la línea es <u>nuestro</u> Señor, uno. Todavía las voces. Los reinos llegaron a ser; él reinará.
+> Ya no son los reinos. Quien ocupa la línea es <u>nuestro</u> Señor. Todavía las voces. Los reinos llegaron a ser; él reinará.
 
 #### *y él reinará por los siglos de los siglos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Los reinos del mundo han llegado a ser de nuestro Señor y del Cristo de él*).
-  > Ese <u>y</u> no suma otro han llegado a ser. Tras llegaron a ser: él reinará.
+  > Ese <u>y</u> no suma otro *han llegado a ser*. Tras llegaron a ser: él reinará.
 
 * *nuestro Señor* → *reinará*
-  > Quien reinará es <u>nuestro</u> Señor. Por los siglos de los siglos —como el que vive por los siglos de los siglos (Apocalipsis 4:10; Apocalipsis 10:6). Los ancianos, todavía no.
+  > Quien reinará es <u>nuestro</u> Señor. Por los siglos de los siglos —como el que vive por los siglos de los siglos. Los ancianos, todavía no.
 
 ### Apocalipsis 11:16:15 — *ellos, cayeron sobre los rostros de ellos*
 
-* Actores principales: *los veinticuatro ancianos* (1)
-  > El recuento ya no es nuestro Señor. Quienes ocupan la línea son los <u>veinticuatro</u> ancianos, uno. En Apocalipsis 5:8 caían con los cuatro seres. Aquí el texto no nombra a los seres.
+> Ya no es nuestro Señor. Quienes ocupan la línea son los <u>veinticuatro</u> ancianos. Antes caían con los cuatro seres. Aquí el texto no nombra a los seres.
 
 + *Y los veinticuatro ancianos, que estaban sentados delante de Dios en los tronos de*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y él reinará por los siglos de los siglos*).
-  > Ese <u>Y</u> no suma otro reinará. Tras él reinará: los veinticuatro ancianos.
+  > Ese <u>Y</u> no suma otro *reinará*. Tras él reinará: los veinticuatro ancianos.
 
   + *ancianos*
     * ↳ *sentados* (καθήμενοι)[^P]
 
-  > Estaban <u>sentados</u> delante de Dios en los tronos —los de Apocalipsis 4:4. El texto no dice que se hayan levantado.
+  > Estaban <u>sentados</u> delante de Dios en los tronos —los que ya se vieron. El texto no dice que se hayan levantado.
 
 #### *ellos, cayeron sobre los rostros de ellos*
-  > Estaban sentados. Ahora <u>cayeron</u> sobre los rostros de ellos. En Apocalipsis 5:14 ya cayeron; en Apocalipsis 7:11 los ángeles cayeron sobre el rostro. Adorar, todavía no.
+  > Estaban sentados. Ahora <u>cayeron</u> sobre los rostros de ellos. Ya cayeron antes; los ángeles también cayeron sobre el rostro. Adorar, todavía no.
 
 * *los veinticuatro ancianos* → *cayeron*
-  > Quienes cayeron son <u>los</u> veinticuatro ancianos. En Apocalipsis 5:8 cayeron delante del cordero; aquí el texto no nombra delante de quién.
+  > Quienes cayeron son <u>los</u> veinticuatro ancianos. Antes cayeron delante del cordero; aquí el texto no nombra delante de quién.
 
 ### Apocalipsis 11:16:21 — *y adoraron a Dios*
 
-* Actores principales: *los veinticuatro ancianos* (1)
-  > Siguen los <u>veinticuatro</u> ancianos, uno. Ya no solo caen. Ahora adoran.
+> Siguen los <u>veinticuatro</u> ancianos. Ya no solo caen. Ahora adoran.
 
 #### *y adoraron a Dios*
 * *de ellos* (καὶ)[^kai] une esta cláusula con la anterior (*ellos, cayeron sobre los rostros de ellos*).
   > Ese <u>de ellos</u> no suma otra caída. De caer pasa a adorar.
 
 * *los veinticuatro ancianos* → *adoraron*
-  > Quienes adoran son <u>los</u> veinticuatro ancianos. A Dios —como los ángeles en Apocalipsis 7:11. En Apocalipsis 5:14 era al que vive por los siglos de los siglos.
+  > Quienes adoran son <u>los</u> veinticuatro ancianos. A Dios —como los ángeles. Antes era al que vive por los siglos de los siglos.
 
 ### Apocalipsis 11:17:2 — *damos gracias, Señor Dios, el Todopoderoso, el que es*
 
-* Actores principales: *Señor Dios* (2) · *Dios* (1) · *los veinticuatro ancianos* (1)
-  > El recuento pone a <u>Señor</u> Dios, dos, a Dios, y a los veinticuatro ancianos. Los ancianos dan gracias; el Señor Dios ha tomado y ha comenzado. El texto no nombra aquí a los cuatro seres.
+> Los ancianos dan gracias; el Señor Dios ha tomado y ha comenzado. El texto no nombra aquí a los cuatro seres.
 
 + *diciendo: Te*
-  > No quedan mudos al adorar. Están <u>diciendo</u>. Qué, la línea siguiente.
+  > Están <u>diciendo</u>. Qué, la línea siguiente.
 
 #### *damos gracias, Señor Dios, el Todopoderoso, el que es*
-  > Eso es lo que dicen: <u>damos</u> gracias, Señor Dios, el Todopoderoso, el que es. En Apocalipsis 4:8 esos nombres los decían los cuatro seres. Ahora los ancianos.
+  > Eso es lo que dicen: <u>damos</u> gracias, Señor Dios, el Todopoderoso, el que es. Esos nombres los decían los cuatro seres. Ahora los ancianos.
 
 * *los veinticuatro ancianos* → *damos* → *gracias*
-  > Quienes damos son <u>los</u> veinticuatro ancianos. Lo alcanzado: gracias. A quién: Señor Dios, el Todopoderoso, el que es. El que era, anidado.
+  > Quienes damos son <u>los</u> veinticuatro ancianos. Lo alcanzado: gracias. A quién: Señor Dios, el Todopoderoso, el que es.
 
 + *ancianos*
   * ↳ *diciendo* (λέγοντες)[^P]
@@ -6967,48 +6761,46 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 - *y el que era y el que viene*
   * *Dios* → *era*
-  > Quien era es <u>Dios</u> —el mismo Señor Dios. Completa el nombre: el que es, el que era y el que viene. En Apocalipsis 4:8 el orden era el que era, el que es y el que viene.
+  > Quien era es <u>Dios</u> —el mismo Señor Dios. Completa el nombre: el que es, el que era y el que viene. Antes el orden era el que era, el que es y el que viene.
 
 - *porque has tomado tu gran poder*
   * *y* (ὅτι)[^hoti]
-  > Ese <u>y</u> no abre otro damos. Da por qué dan gracias: has tomado tu gran poder.
+  > Ese <u>y</u> no abre otro *damos*. Da por qué dan gracias: has tomado tu gran poder.
 
   * *Señor Dios* → *has tomado* → *tu gran poder*
-  > Quien ha tomado es <u>Señor</u> Dios. Lo alcanzado: tu gran poder. Las voces dijeron que los reinos han llegado a ser (Apocalipsis 11:15). Aquí: has tomado.
+  > Quien ha tomado es <u>Señor</u> Dios. Lo alcanzado: tu gran poder. Las voces dijeron que los reinos han llegado a ser. Aquí: has tomado.
 
 - *y has comenzado a reinar*
-  > Sigue el mismo porque. No abre otra razón. Tras has tomado: <u>has</u> comenzado a reinar.
+  > Sigue el mismo porque. Tras has tomado: <u>has</u> comenzado a reinar.
 
   * *Señor Dios* → *has comenzado a reinar*
-  > Quien ha comenzado a reinar es el mismo <u>Señor</u> Dios. Las voces dijeron: él reinará (Apocalipsis 11:15). Aquí: has comenzado a reinar. Las naciones, todavía no.
+  > Quien ha comenzado a reinar es el mismo <u>Señor</u> Dios. Las voces dijeron: él reinará. Aquí: has comenzado a reinar. Las naciones, todavía no.
 
 ### Apocalipsis 11:18:4 — *Y las naciones se enfurecieron*
 
-* Actores principales: *las naciones* (1)
-  > El recuento ya no es Señor Dios. Quienes ocupan la línea son <u>las</u> naciones, uno. Todavía lo que dicen los ancianos. Él ha comenzado a reinar; las naciones se enfurecen.
+> Ya no es Señor Dios. Quienes ocupan la línea son <u>las</u> naciones. Todavía lo que dicen los ancianos. Él ha comenzado a reinar; las naciones se enfurecen.
 
 #### *Y las naciones se enfurecieron*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y has comenzado a reinar*).
-  > Ese <u>Y</u> no suma otro has comenzado. Tras has comenzado a reinar: las naciones se enfurecieron.
+  > Ese <u>Y</u> no suma otro *has comenzado*. Tras has comenzado a reinar: las naciones se enfurecieron.
 
 * *las naciones* → *se enfurecieron*
-  > Quienes se enfurecieron son <u>las</u> naciones. Las mismas a quienes se dio el atrio y que pisotearán la ciudad santa (Apocalipsis 11:2). El texto no dice aquí contra quién. Tu ira, todavía no.
+  > Quienes se enfurecieron son <u>las</u> naciones. Las mismas a quienes se dio el atrio y que pisotearán la ciudad santa. El texto no dice aquí contra quién. Tu ira, todavía no.
 
 ### Apocalipsis 11:18:6 — *y vino tu ira y el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra*
 
-* Actores principales: *tu ira y el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra* (1)
-  > El recuento ya no es las naciones. Quien ocupa la línea es <u>tu</u> ira y el tiempo, uno. Todavía lo que dicen los ancianos. Las naciones se enfurecieron; esto vino.
+> Ya no son las naciones. Quien ocupa la línea es <u>tu</u> ira y el tiempo. Todavía lo que dicen los ancianos. Las naciones se enfurecieron; esto vino.
 
 #### *y vino tu ira y el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y las naciones se enfurecieron*).
-  > Ese <u>y</u> no suma otro se enfurecieron. Tras las naciones se enfurecieron: vino tu ira.
+  > Ese <u>y</u> no suma otro *se enfurecieron*. Tras las naciones se enfurecieron: vino tu ira.
 
 * *tu ira y el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra* → *vino*
   * ↳ *juzgar* (κριθῆναι)[^I]
   * ↳ *dar* (δοῦναι)[^I]
   * ↳ *destruir* (διαφθεῖραι)[^I]
 
-  > Quien vino es <u>tu</u> ira y el tiempo. Un vino. Tres: juzgar a los muertos, dar la recompensa, destruir. Completan a vino. En Apocalipsis 6:17 ya había llegado el gran día de su ira.
+  > Quien vino es <u>tu</u> ira y el tiempo. Un *vino*. Tres: juzgar a los muertos, dar la recompensa, destruir. Ya había llegado el gran día de su ira.
 
   > La recompensa es a tus siervos los <u>profetas</u>, a los santos y a los que temen tu nombre, a los pequeños y a los grandes. El texto no dice aquí quiénes son cada uno.
 
@@ -7021,53 +6813,50 @@ Al séptimo sello hubo silencio en el cielo como por media hora. Las trompetas, 
 
 ### Apocalipsis 11:19:2 — *Y se abrió el santuario de Dios en el cielo*
 
-* Actores principales: *el santuario de Dios* (1)
-  > El recuento ya no es tu ira y el tiempo. Quien ocupa la línea es <u>el</u> santuario de Dios, uno. Ya no es lo que dicen los ancianos.
+> Ya no es tu ira y el tiempo. Quien ocupa la línea es <u>el</u> santuario de Dios. Ya no es lo que dicen los ancianos.
 
 #### *Y se abrió el santuario de Dios en el cielo*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y vino tu ira y el tiempo…*).
-  > Ese <u>Y</u> no sigue el damos gracias. Tras vino tu ira: se abrió el santuario.
+  > Ese <u>Y</u> no sigue el *damos gracias*. Tras vino tu ira: se abrió el santuario.
 
 * *el santuario de Dios* → *se abrió*
-  > Quien se abrió es <u>el</u> santuario de Dios. El que Juan debía medir (Apocalipsis 11:1). Ahora: en el cielo. Allí era puerta abierta (Apocalipsis 4:1). Aquí: el santuario. El arca, todavía no.
+  > Quien se abrió es <u>el</u> santuario de Dios. El que Juan debía medir. Ahora: en el cielo. Allí era puerta abierta. Aquí: el santuario. El arca, todavía no.
 
 ### Apocalipsis 11:19:12 — *y se vio el arca del pacto de él en el santuario de él*
 
-* Actores principales: *el arca del pacto de él* (1)
-  > El recuento ya no es el santuario. Quien ocupa la línea es <u>el</u> arca del pacto de él, uno. Primera vez que se nombra.
+> Ya no es el santuario. Quien ocupa la línea es <u>el</u> arca del pacto de él. Primera vez que se nombra.
 
 #### *y se vio el arca del pacto de él en el santuario de él*
 * *se vio* (καὶ)[^kai] une esta cláusula con la anterior (*Y se abrió el santuario de Dios en el cielo*).
-  > Ese <u>se vio</u> no suma otro se abrió. Tras se abrió: se vio el arca.
+  > Ese <u>se vio</u> no suma otro *se abrió*. Tras *se abrió*: se vio el arca.
 
 * *el arca del pacto de él* → *se vio*
   > Quien se vio es <u>el</u> arca del pacto de él. En el santuario de él —el que se abrió. El texto no abre aquí qué es el pacto. Relámpagos, todavía no.
 
 ### Apocalipsis 11:19:23 — *Y hubo relámpagos, voces, truenos, un terremoto y granizo grande*
 
-* Actores principales: *relámpagos, voces, truenos, un terremoto y granizo grande* (1)
-  > El recuento ya no es el arca. Quienes ocupan la línea son <u>relámpagos</u>, voces, truenos, un terremoto y granizo grande —un solo bloque.
+> Ya no es el arca. Quienes ocupan la línea son <u>relámpagos</u>, voces, truenos, un terremoto y granizo grande —un solo bloque.
 
 #### *Y hubo relámpagos, voces, truenos, un terremoto y granizo grande*
 * *hubo* (καὶ)[^kai] une esta cláusula con la anterior (*y se vio el arca del pacto de él en el santuario de él*).
-  > Ese <u>hubo</u> no suma otra arca. Tras se vio el arca: hubo.
+  > Ese <u>hubo</u> no suma otra arca. Tras se vio el arca: *hubo*.
 
 * *relámpagos, voces, truenos, un terremoto y granizo grande* → *hubo*
-  > Quienes hubo son <u>relámpagos</u>, voces, truenos, un terremoto y granizo grande. Del trono ya salieron relámpagos y truenos y voces (Apocalipsis 4:5). Tras el incensario: voces, truenos, relámpagos y un terremoto (Apocalipsis 8:5). Aquí se suma granizo grande. El texto no dice de dónde salen.
+  > Quienes hubo son <u>relámpagos</u>, voces, truenos, un terremoto y granizo grande. Del trono ya salieron relámpagos y truenos y voces. Tras el incensario: voces, truenos, relámpagos y un terremoto. Aquí se suma granizo grande. El texto no dice de dónde salen.
 
 ### En síntesis
 
-El tramo abre cuando se les dan siete trompetas a los siete ángeles; otro ángel arroja el incensario a la tierra, y ellos se preparan para tocar.
+Se les dan siete trompetas a los siete ángeles; otro ángel arroja el incensario a la tierra, y ellos se preparan para tocar.
 
-Las cuatro primeras hieren terceras partes, y un águila anuncia tres Ay sobre los que habitan en la tierra.
+Las cuatro primeras hieren terceras partes. Un águila anuncia tres *Ay* sobre los que habitan en la tierra.
 
-La quinta y la sexta son el primer Ay y el segundo; los que quedaron no se arrepintieron de sus obras.
+La quinta y la sexta son el primer *Ay* y el segundo; *el resto de las personas no se arrepintieron* de sus obras.
 
-Juan come un rollo y dos testigos profetizan; la bestia los mata, ellos suben, y los demás dieron gloria al Dios del cielo.
+Juan come un pequeño rollo; dos testigos profetizan; la bestia los mata; ellos suben; *los demás dieron gloria al Dios del cielo*.
 
-El segundo Ay pasó y el tercero viene pronto; la séptima trompeta suena, y las voces dicen que los reinos han llegado a ser y él reinará.
+*El segundo ay pasó*; *el tercer ay viene pronto*. La séptima trompeta suena; las voces dicen que *los reinos del mundo han llegado a ser* y *él reinará*.
 
-Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se ve el arca, y hubo relámpagos, voces, truenos, un terremoto y granizo grande.
+Los ancianos dan gracias porque *has comenzado a reinar*; se abre el santuario; se ve el arca; hubo relámpagos, voces, truenos, un terremoto y *granizo grande*.
 
 ## Apocalipsis 12:1–17 Una gran señal y otra señal
 
@@ -7103,38 +6892,36 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
 
 ### Apocalipsis 12:1:4 — Una gran señal en el cielo
 
-* Actores principales: *una gran señal* (1)
-  > El recuento ya no es relámpagos. Quien ocupa la línea es <u>una</u> gran señal, uno. Primera vez que se nombra una señal.
+> Ya no son relámpagos. Quien ocupa la línea es <u>una</u> gran señal. Primera vez que se nombra una señal.
 
 #### *Y apareció en el cielo una gran señal*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y hubo relámpagos, voces, truenos, un terremoto y granizo grande*).
-  > Ese <u>Y</u> no suma otro granizo. Tras hubo: apareció una gran señal.
+  > Ese <u>Y</u> no suma otro granizo. Tras *hubo*: apareció una gran señal.
 
 * *una gran señal* → *apareció*
-  > Quien apareció es <u>una</u> gran señal. En el cielo —donde se abrió el santuario (Apocalipsis 11:19). No dice Juan vi. Qué es, la línea siguiente.
+  > Quien apareció es <u>una</u> gran señal. En el cielo —donde se abrió el santuario. No dice Juan *vi*. Qué es, la línea siguiente.
 
 + *una mujer vestida del sol y la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas*
-  > La señal no queda vacía. Es <u>una</u> mujer vestida del sol, la luna debajo de los pies, corona de doce estrellas. El texto no dice aquí quién es. Grita, todavía no.
+  > La señal es <u>una</u> mujer vestida del sol, la luna debajo de los pies, corona de doce estrellas. El texto no dice aquí quién es. Grita, todavía no.
 
 ### Apocalipsis 12:2:6 — *parto y atormentada para dar a luz*
 
-* Actores principales: *una mujer* (1)
-  > El recuento ya no es la señal. Quien ocupa la línea es <u>una</u> mujer, uno. La de la señal. El texto todavía no dice quién es.
+> Ya no es la señal. Quien ocupa la línea es <u>una</u> mujer —la de la señal. El texto todavía no dice quién es.
 
 + *y estando embarazada, grita con dolores de*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y apareció en el cielo una gran señal*).
-  > Ese <u>y</u> no suma otra señal. Tras apareció: la mujer grita.
+  > Ese <u>y</u> no suma otra señal. Tras *apareció*: la mujer grita.
 
   + *embarazada*
     * ↳ *embarazada* (ἔχουσα)[^P]
 
-  > No es después. <u>Estando</u> embarazada —el cuando de grita.
+  > No es después. <u>Estando</u> embarazada —el cuando de *grita*.
 
 #### *parto y atormentada para dar a luz*
   > Grita con dolores de <u>parto</u>, atormentada para dar a luz. El hijo no ha nacido.
 
 * *una mujer* → *grita*
-  > Quien grita es <u>una</u> mujer —la de la señal. La flecha se detiene en grita. Con dolores de parto, atormentada para dar a luz, quedan en la misma línea. El texto no dice aquí a quién grita.
+  > Quien grita es <u>una</u> mujer —la de la señal. Con dolores de parto, atormentada para dar a luz. El texto no dice aquí a quién grita.
 
 + *dolores*
   * ↳ *dolores* (ὠδίνουσα)[^P]
@@ -7144,82 +6931,77 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
 
 ### Apocalipsis 12:3:2 — *Y apareció otra señal en el cielo*
 
-* Actores principales: *otra señal* (1)
-  > El recuento ya no es la mujer. Quien ocupa la línea es <u>otra</u> señal, uno. Ya hubo una gran señal. Ahora: otra. El hijo todavía no ha nacido.
+> Ya no es la mujer. Quien ocupa la línea es <u>otra</u> señal. Ya hubo una gran señal. Ahora: otra. El hijo todavía no ha nacido.
 
 #### *Y apareció otra señal en el cielo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*parto y atormentada para dar a luz*).
   > Ese <u>Y</u> no suma otro grito. Ella grita para dar a luz; ahora aparece otra señal.
 
 * *otra señal* → *apareció*
-  > Quien apareció es <u>otra</u> señal. Otra vez en el cielo. No dice Juan vi. Qué es, he aquí.
+  > Quien apareció es <u>otra</u> señal. Otra vez en el cielo. No dice Juan *vi*. Qué es, *he aquí*.
 
 + *y he aquí, un gran dragón rojo que tenía siete cabezas y diez cuernos, y sobre sus cabezas siete diademas*
-  > He aquí no argumenta: <u>señala</u>. La otra señal es un gran dragón rojo. Siete cabezas, diez cuernos, siete diademas sobre las cabezas. El texto no dice aquí quién es. La cola, todavía no.
+  > *He aquí* no argumenta: <u>señala</u>. La otra señal es un gran dragón rojo. Siete cabezas, diez cuernos, siete diademas sobre las cabezas. El texto no dice aquí quién es. La cola, todavía no.
 
 ### Apocalipsis 12:4:5 — *y su cola arrastra la tercera parte de las estrellas del cielo*
 
-* Actores principales: *su cola* (1)
-  > El recuento ya no es la señal. Quien ocupa la línea es <u>su</u> cola, uno. El dragón estaba en he aquí; ahora actúa la cola.
+> Ya no es la señal. Quien ocupa la línea es <u>su</u> cola. El dragón estaba en *he aquí*; ahora actúa la cola.
 
 #### *y su cola arrastra la tercera parte de las estrellas del cielo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y he aquí, un gran dragón rojo…*).
-  > Ese <u>y</u> no suma otro he aquí. Tras el dragón: su cola.
+  > Ese <u>y</u> no suma otro *he aquí*. Tras el dragón: su cola.
 
 * *su cola* → *arrastra* → *la tercera parte de las estrellas del cielo*
-  > Quien arrastra es <u>su</u> cola —la del dragón. Lo alcanzado: la tercera parte de las estrellas del cielo. No todas. Las trompetas ya hirieron terceras (Apocalipsis 8:7–12). Al sexto sello las estrellas del cielo cayeron (Apocalipsis 6:13). El texto no dice aquí qué son estas.
+  > Quien arrastra es <u>su</u> cola —la del dragón. Lo alcanzado: la tercera parte de las estrellas del cielo. No todas. Las trompetas ya hirieron terceras. Al sexto sello las estrellas del cielo cayeron. El texto no dice aquí qué son estas.
 
 ### Apocalipsis 12:4:13 — *y las arrojó a la tierra*
 
-* Actores principales: *su cola* (1)
-  > Sigue <u>su</u> cola, uno. Ya no solo arrastra. Ahora arroja.
+> Sigue <u>su</u> cola. Ya no solo arrastra. Ahora arroja.
 
 #### *y las arrojó a la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y su cola arrastra la tercera parte de las estrellas del cielo*).
-  > Ese <u>y</u> no suma otro arrastra. Tras arrastra: las arrojó.
+  > Ese <u>y</u> no suma otro *arrastra*. Tras *arrastra*: *las arrojó*.
 
 * *su cola* → *arrojó* → *las*
-  > Quien arrojó es la misma <u>su</u> cola. Lo alcanzado: las —la tercera parte de las estrellas. A la tierra. Al sexto sello las estrellas del cielo cayeron a la tierra (Apocalipsis 6:13). Aquí las arroja la cola. El texto no dice aquí qué son.
+  > Quien arrojó es la misma <u>su</u> cola. Lo alcanzado: las —la tercera parte de las estrellas. A la tierra. Al sexto sello las estrellas del cielo cayeron a la tierra. Aquí las arroja la cola. El texto no dice aquí qué son.
 
 ### Apocalipsis 12:4:21 — *y el dragón estaba delante de la mujer que iba a dar a luz*
 
-* Actores principales: *el dragón* (2) · *la mujer* (1)
-  > El recuento pone al <u>dragón</u>, dos, y a la mujer. La cola ya no encabeza. Él está delante; ella iba a dar a luz; él devoraría.
+> La cola ya no encabeza. <u>El</u> dragón está delante; ella iba a dar a luz; él devoraría.
 
 #### *y el dragón estaba delante de la mujer que iba a dar a luz*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y las arrojó a la tierra*).
-  > Ese <u>y</u> no suma otro arrojó. Tras las estrellas: el dragón estaba delante.
+  > Ese <u>y</u> no suma otro *arrojó*. Tras las estrellas: el dragón estaba delante.
 
 * *el dragón* → *estaba*
-  > Quien estaba es <u>el</u> dragón. Delante de la mujer —la que grita, atormentada para dar a luz. La flecha se detiene en estaba. Para qué, anidado.
+  > Quien estaba es <u>el</u> dragón. Delante de la mujer —la que grita, atormentada para dar a luz.
 
 + *mujer*
   * ↳ *iba* (μελλούσης)[^P]
   * ↳ *dar a luz* (τεκεῖν)[^I]
-  > No cuelga de estaba. Completa a <u>iba</u>: dar a luz. Todavía no ha dado.
+  > <u>Iba</u> a dar a luz. Todavía no ha dado.
 
 - *para que devorara a su hijo*
   * *para que,* (ἵνα)[^hina]
-  > Ese <u>para que</u> no abre otro estaba. Trae el para qué de estaba: devorara a su hijo.
+  > Ese <u>para que</u> no abre otro *estaba*. Trae el para qué: devorara a su hijo.
 
   - *cuando diera a luz*
     * *cuando* (ὅταν)
-    > Ese <u>cuando</u> no es el de «cuando terminen». Fija el momento de devorara: cuando diera a luz.
+    > Ese <u>cuando</u> no abre otro *devorara*. Fija el momento: cuando diera a luz.
 
     * *la mujer* → *diera*
-    > Quien diera es <u>la</u> mujer. La flecha se detiene en diera. Todavía no ha dado.
+    > Quien diera es <u>la</u> mujer. Todavía no ha dado.
 
   * *el dragón* → *devorara* → *a su hijo*
   > Quien devorara es <u>el</u> dragón. Lo alcanzado: a su hijo —el de ella. El texto no dice aquí quién es el hijo.
 
 ### Apocalipsis 12:5:2 — *Y dio a luz un hijo varón*
 
-* Actores principales: *la mujer* (1) · *que* (1)
-  > El recuento pone a <u>la</u> mujer y a que. El dragón ya no encabeza. Ella da a luz; el que pastoreará.
+> El dragón ya no encabeza. <u>La</u> mujer da a luz; el que pastoreará.
 
 #### *Y dio a luz un hijo varón*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*para que devorara a su hijo*).
-  > Ese <u>Y</u> no suma otro devorara. El cuando llegó: dio a luz.
+  > Ese <u>Y</u> no suma otro *devorara*. El *cuando* llegó: dio a luz.
 
 * *la mujer* → *dio* → *un hijo varón*
   > Quien dio es <u>la</u> mujer —la de la señal. Lo alcanzado: un hijo varón. El dragón iba a devorar cuando diera a luz. Aquí da. El texto no dice aquí que lo devoró.
@@ -7231,37 +7013,35 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
   * *que* → *está* → *por pastorear a todas las naciones con vara de hierro*
     * ↳ *pastorear* (ποιμαίνειν)[^I]
 
-  > Quien está por pastorear es <u>que</u> —el hijo varón. Lo alcanzado: por pastorear a todas las naciones. Completa a está. En Apocalipsis 2:27: el que vence pastoreará con vara de hierro. Aquí: está por. Todavía no pastorea.
+  > Quien está por pastorear es <u>que</u> —el hijo varón. Lo alcanzado: por pastorear a todas las naciones. Al que vence: pastoreará con vara de hierro. Aquí: *está por*. Todavía no pastorea.
 
 + *un hijo varón*
   * *que* (ὃς)[^rel]: describe a *un hijo varón*.
 
 ### Apocalipsis 12:5:15 — *su hijo fue arrebatado hacia Dios y su trono*
 
-* Actores principales: *hijo fue* (1)
-  > El recuento ya no es la mujer. Quien ocupa la línea es <u>su</u> hijo, uno. El varón que acaba de nacer. El que está por pastorear.
+> Ya no es la mujer. Quien ocupa la línea es <u>su</u> hijo —el varón que acaba de nacer. El que está por pastorear.
 
 + *y*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*que está por pastorear a todas las naciones con vara de hierro*).
-  > Ese <u>y</u> no suma otro está por. Tras nació: fue arrebatado.
+  > Ese <u>y</u> no suma otro *está por*. Tras nació: fue arrebatado.
 
 #### *su hijo fue arrebatado hacia Dios y su trono*
   > Tras nacer: <u>fue</u> arrebatado hacia Dios y su trono.
 
 * *hijo fue* → *arrebatado hacia*
-  > Quien fue arrebatado es <u>su</u> hijo —el hijo varón. Hacia Dios y su trono —el de Apocalipsis 4:2. El dragón iba a devorarlo cuando diera a luz. El texto no dice que lo devoró.
+  > Quien fue arrebatado es <u>su</u> hijo —el hijo varón. Hacia Dios y su trono —el que ya se vio. El dragón iba a devorarlo cuando diera a luz. El texto no dice que lo devoró.
 
 ### Apocalipsis 12:6:4 — *Y la mujer huyó al desierto*
 
-* Actores principales: *la mujer* (2)
-  > El recuento vuelve a <u>la</u> mujer, dos. El hijo fue arrebatado; ella huye. Tiene un lugar.
+> El hijo fue arrebatado; <u>la</u> mujer huye. Tiene un lugar.
 
 #### *Y la mujer huyó al desierto*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*su hijo fue arrebatado hacia Dios y su trono*).
-  > Ese <u>Y</u> no suma otro arrebatado. El hijo hacia Dios y su trono; ella, al desierto.
+  > Ese <u>Y</u> no suma otro *arrebatado*. El hijo hacia Dios y su trono; ella, al desierto.
 
 * *la mujer* → *huyó*
-  > Quien huyó es <u>la</u> mujer —la de la señal. Al desierto. El hijo no huye con ella. Dónde, anidado.
+  > Quien huyó es <u>la</u> mujer —la de la señal. Al desierto. El hijo no huye con ella.
 
 - *donde tiene un lugar preparado por Dios*
   * *donde* (ὅπου)[^rel]: describe a *desierto*.
@@ -7275,17 +7055,16 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
 
   - *para que allí la alimenten mil doscientos sesenta días*
     * *allí* (ἵνα)[^hina]
-    > Ese <u>allí</u> no abre otro tiene. Trae el para qué de tiene: allí la alimenten mil doscientos sesenta días.
+    > Ese <u>allí</u> no abre otro *tiene*. Trae el para qué: allí la alimenten mil doscientos sesenta días.
 
-    > El texto no nombra quiénes <u>alimentan</u>. Los dos testigos profetizaron mil doscientos sesenta días (Apocalipsis 11:3). El texto no los iguala aquí.
+    > El texto no nombra quiénes <u>alimentan</u>. Los dos testigos profetizaron mil doscientos sesenta días. El texto no los iguala aquí.
 
 + *desierto*
   * *donde* (ὅπου)[^rel]: describe a *desierto*.
 
 ### Apocalipsis 12:7:2 — *Y hubo guerra en el cielo*
 
-* Actores principales: *guerra* (1)
-  > El recuento ya no es la mujer. Quien ocupa la línea es <u>guerra</u>, uno. Ella huyó al desierto; ahora hay guerra en el cielo.
+> Ya no es la mujer. Quien ocupa la línea es <u>guerra</u>. Ella huyó al desierto; ahora hay guerra en el cielo.
 
 #### *Y hubo guerra en el cielo*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y la mujer huyó al desierto*).
@@ -7296,183 +7075,171 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
 
 + *Miguel y sus ángeles combatieron contra el dragón*
   * ↳ *combatir* (πολεμῆσαι)[^I]
-  > Primera vez que se nombra <u>Miguel</u>. Él y sus ángeles. Contra el dragón. Completa a combatieron. No cuelga del dragón combatió. El texto no dice aquí quién es Miguel.
+  > Primera vez que se nombra <u>Miguel</u>. Él y sus ángeles. Contra el dragón. El texto no dice aquí quién es Miguel.
 
 ### Apocalipsis 12:7:21 — *y el dragón combatió*
 
-* Actores principales: *el dragón* (1)
-  > El recuento ya no es la guerra. Quien ocupa la línea es <u>el</u> dragón, uno. Miguel combatió contra él; ahora él combate.
+> Ya no es la guerra. Quien ocupa la línea es <u>el</u> dragón. Miguel combatió contra él; ahora él combate.
 
 #### *y el dragón combatió*
 * *el dragón* (καὶ)[^kai] une esta cláusula con la anterior (*Miguel y sus ángeles combatieron contra el dragón*).
   > Ese <u>el dragón</u> no suma otro Miguel. Tras combatieron contra él: el dragón combatió.
 
 * *el dragón* → *combatió*
-  > Quien combatió es <u>el</u> dragón. La flecha se detiene en combatió. No nombra contra quién. Miguel y sus ángeles ya se nombraron. El texto no dice aquí quién venció.
+  > Quien combatió es <u>el</u> dragón. No nombra contra quién. Miguel y sus ángeles ya se nombraron. El texto no dice aquí quién venció.
 
 ### Apocalipsis 12:8:3 — *y sus ángeles y no pudieron*
 
-* Actores principales: *sus ángeles* (1)
-  > El recuento ya no es el dragón. Quienes ocupan la línea son <u>sus</u> ángeles, uno. No los de Miguel. Los del dragón.
+> Ya no es el dragón. Quienes ocupan la línea son <u>sus</u> ángeles. No los de Miguel. Los del dragón.
 
 #### *y sus ángeles y no pudieron*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el dragón combatió*).
-  > Ese <u>y</u> no suma otro combatió del dragón. Tras él combatió: sus ángeles, y no pudieron.
+  > Ese <u>y</u> no suma otro *combatió* del dragón. Tras él combatió: sus ángeles, y no pudieron.
 
 * *sus ángeles* → *no pudieron*
-  > Quienes no pudieron son <u>sus</u> ángeles —los del dragón. La flecha se detiene en no pudieron. El texto no dice aquí qué no pudieron. Miguel y los suyos combatieron; estos no pudieron.
+  > Quienes no pudieron son <u>sus</u> ángeles —los del dragón. El texto no dice aquí qué no pudieron. Miguel y los suyos combatieron; estos no pudieron.
 
 ### Apocalipsis 12:8:6 — *ni se halló ya lugar para ellos en el cielo*
 
-* Actores principales: *lugar* (1)
-  > El recuento ya no es sus ángeles. Quien ocupa la línea es <u>lugar</u>, uno. Ellos no pudieron; ahora no se halla lugar.
+> Ya no son sus ángeles. Quien ocupa la línea es <u>lugar</u>. Ellos no pudieron; ahora no se halla lugar.
 
 #### *ni se halló ya lugar para ellos en el cielo*
 * *ni* (οὐδὲ) une esta cláusula con la anterior (*y sus ángeles y no pudieron*).
-  > Ese <u>ni</u> no suma otro no pudieron. Tras no pudieron: ni se halló lugar.
+  > Ese <u>ni</u> no suma otro *no pudieron*. Tras *no pudieron*: ni se halló lugar.
 
 * *lugar* → *se halló* → *ya para ellos en el cielo*
-  > Quien no se halló es <u>lugar</u>. Lo alcanzado: ya para ellos en el cielo. Ya —no más. En el cielo hubo guerra. Ahora: ni lugar para ellos allí. El texto no nombra aquí a quiénes cubre ellos.
+  > Quien no se halló es <u>lugar</u>. Lo alcanzado: ya para ellos en el cielo. Ya —no más. En el cielo hubo guerra. Ahora: ni lugar para ellos allí. El texto no nombra aquí a quiénes cubre *ellos*.
 
 ### Apocalipsis 12:9:2 — *Y fue arrojado el gran dragón, la serpiente antigua, la llamada Diablo y Satanás, que engaña a todo el mundo*
 
-* Actores principales: *el gran dragón, la serpiente antigua, la llamada Diablo y Satanás* (1)
-  > El recuento ya no es lugar. Quien ocupa la línea es <u>el</u> gran dragón —y los nombres que siguen—, uno. No se halló lugar; ahora es arrojado.
+> Ya no es *lugar*. Quien ocupa la línea es <u>el</u> gran dragón —y los nombres que siguen. No se halló lugar; ahora es arrojado.
 
 #### *Y fue arrojado el gran dragón, la serpiente antigua, la llamada Diablo y Satanás, que engaña a todo el mundo*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*ni se halló ya lugar para ellos en el cielo*).
-  > Ese <u>Y</u> no suma otro no se halló. Tras ni lugar: fue arrojado.
+  > Ese <u>Y</u> no suma otro *no se halló*. Tras ni lugar: fue arrojado.
 
 * *el gran dragón, la serpiente antigua, la llamada Diablo y Satanás* → *fue arrojado*
-  > Quien fue arrojado es <u>el</u> gran dragón. El texto no lo deja en un solo nombre: la serpiente antigua, la llamada Diablo y Satanás. Primera vez que se le llaman así. La flecha se detiene en fue arrojado.
+  > Quien fue arrojado es <u>el</u> gran dragón. El texto no lo deja en un solo nombre: la serpiente antigua, la llamada Diablo y Satanás. Primera vez que se le llaman así.
 
 + *llamada*
   * ↳ *llamada* (καλούμενος)[^P]
 
 + *dragón*
   * ↳ *engaña* (πλανῶν)[^P]
-  > No queda sin hacer. <u>Engaña</u> a todo el mundo. El texto no abre aquí cómo.
+  > <u>Engaña</u> a todo el mundo. El texto no abre aquí cómo.
 
 ### Apocalipsis 12:9:22 — *fue arrojado a la tierra*
 
-* Actores principales: *el gran dragón* (1)
-  > El recuento deja los otros nombres. Quien ocupa la línea es <u>el</u> gran dragón, uno. Ya fue arrojado; ahora se dice adónde.
+> Deja los otros nombres. Quien ocupa la línea es <u>el</u> gran dragón. Ya fue arrojado; ahora se dice adónde.
 
 #### *fue arrojado a la tierra*
   > No queda en el cielo. <u>Fue</u> arrojado a la tierra.
 
 * *el gran dragón* → *fue arrojado* → *a la tierra*
-  > Quien fue arrojado es <u>el</u> gran dragón. Lo alcanzado: a la tierra. En el cielo ya no había lugar. Su cola ya arrojó estrellas a la tierra (Apocalipsis 12:4). Ahora él mismo.
+  > Quien fue arrojado es <u>el</u> gran dragón. Lo alcanzado: a la tierra. En el cielo ya no había lugar. Su cola ya arrojó estrellas a la tierra. Ahora él mismo.
 
 ### Apocalipsis 12:9:32 — *y sus ángeles fueron arrojados con él*
 
-* Actores principales: *sus ángeles* (1)
-  > El recuento vuelve a <u>sus</u> ángeles, uno. No los de Miguel. Los que no pudieron.
+> Vuelven <u>sus</u> ángeles. No los de Miguel. Los que no pudieron.
 
 #### *y sus ángeles fueron arrojados con él*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*fue arrojado a la tierra*).
-  > Ese <u>y</u> no suma otro a la tierra. Tras él: sus ángeles.
+  > Ese <u>y</u> no suma otro *a la tierra*. Tras él: sus ángeles.
 
 * *sus ángeles* → *fueron arrojados* → *con él*
   > Quienes fueron arrojados son <u>sus</u> ángeles —los del dragón. Lo alcanzado: con él. No se halló lugar para ellos en el cielo. Ahora van con él. El texto no dice aquí a otra tierra aparte.
 
 ### Apocalipsis 12:10:2 — *Y oí una gran voz que decía en el cielo*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El dragón y sus ángeles fueron arrojados; Juan oye.
+> Vuelve <u>Yo</u>, Juan. El dragón y sus ángeles fueron arrojados; Juan oye.
 
 #### *Y oí una gran voz que decía en el cielo*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y sus ángeles fueron arrojados con él*).
-  > Ese <u>Y</u> no suma otro con él. Tras fueron arrojados: Juan oye.
+  > Ese <u>Y</u> no suma otro *con él*. Tras fueron arrojados: Juan oye.
 
 * *Yo, Juan* → *oí* → *una gran voz en el cielo*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una gran voz en el cielo. En el cielo ya no había lugar para el dragón. Ahora una voz dice allí. Los dos testigos oyeron una gran voz del cielo (Apocalipsis 11:12). Ahora Juan.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una gran voz en el cielo. En el cielo ya no había lugar para el dragón. Ahora una voz dice allí. Los dos testigos oyeron una gran voz del cielo. Ahora Juan.
 
 + *voz*
   * ↳ *decía* (λέγουσαν)[^P]
-  > No cuelga de cielo. La voz no queda muda. Está <u>diciendo</u>.
+  > La voz está <u>diciendo</u>.
 
 ### Apocalipsis 12:10:10 — *Ahora han llegado la salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo*
 
-* Actores principales: *hermanos, el que los acusa* (1) · *la salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo* (1)
-  > El recuento pone a <u>hermanos</u>, el que los acusa, y a la salvación —con el poder, el reino y la autoridad—. La voz dice; esto ha llegado; el acusador fue derribado.
+> La voz dice; <u>esto</u> ha llegado; el acusador fue derribado.
 
 #### *Ahora han llegado la salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo*
   > Eso es lo que decía: <u>Ahora</u> han llegado la salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo.
 
 * *la salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo* → *han llegado*
-  > Quienes han llegado son <u>la</u> salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo. Cuatro. Ahora. Las voces dijeron que los reinos han llegado a ser y él reinará (Apocalipsis 11:15). Aquí: han llegado. Por qué, anidado.
+  > Quienes han llegado son <u>la</u> salvación, el poder, el reino de nuestro Dios y la autoridad de su Cristo. Cuatro. *Ahora*. Las voces dijeron que los reinos han llegado a ser y él reinará. Aquí: *han llegado*.
 
 + *porque fue derribado el*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro ahora. Da por qué han llegado: fue derribado el.
+  > Ese <u>porque</u> no abre otro *ahora*. Da por qué han llegado: fue derribado el.
 
 - *acusador de nuestros hermanos*
   * *hermanos, el que los acusa* → *de nuestros*
-  > Quien fue derribado es el <u>acusador</u> de nuestros hermanos. Nuestros —lo dice la voz en el cielo. El gran dragón fue arrojado (Apocalipsis 12:9). Aquí: el acusador.
+  > Quien fue derribado es el <u>acusador</u> de nuestros hermanos. *Nuestros* —lo dice la voz en el cielo. El gran dragón fue arrojado. Aquí: el acusador.
 
   + *el*
     * ↳ *acusa* (κατηγορῶν)[^P]
 
-  > No queda en el nombre. <u>Acusa</u> a los hermanos.
+  > <u>Acusa</u> a los hermanos.
 
 ### Apocalipsis 12:11:3 — *Y ellos lo vencieron por medio de la sangre del cordero y por medio de la palabra de su testimonio*
 
-* Actores principales: *ellos* (1)
-  > El recuento ya no es la salvación. Quienes ocupan la línea son <u>ellos</u>, uno. Los hermanos. El acusador fue derribado; ellos vencieron.
+> Ya no es la salvación. Quienes ocupan la línea son <u>ellos</u> —los hermanos. El acusador fue derribado; ellos vencieron.
 
 #### *Y ellos lo vencieron por medio de la sangre del cordero y por medio de la palabra de su testimonio*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*acusador de nuestros hermanos*).
-  > Ese <u>Y</u> no suma otro derribado. Tras el acusador: ellos lo vencieron.
+  > Ese <u>Y</u> no suma otro *derribado*. Tras el acusador: ellos lo vencieron.
 
 * *ellos* → *vencieron* → *lo por medio de la sangre del cordero y por medio de la palabra de su testimonio*
-  > Quienes vencieron son <u>ellos</u> —nuestros hermanos. Lo alcanzado: lo —el acusador. Por medio de dos: la sangre del cordero y la palabra de su testimonio. En Apocalipsis 7:14 blanquearon en la sangre del cordero. En Apocalipsis 6:9 las almas habían sido sacrificadas por el testimonio. El texto no abre aquí un tercero.
+  > Quienes vencieron son <u>ellos</u> —nuestros hermanos. Lo alcanzado: lo —el acusador. Por medio de dos: la sangre del cordero y la palabra de su testimonio. Ya blanquearon en la sangre del cordero. Las almas bajo el altar habían sido sacrificadas por el testimonio. El texto no abre aquí un tercero.
 
 ### Apocalipsis 12:11:19 — *y no amaron su vida hasta la muerte*
 
-* Actores principales: *ellos* (1)
-  > Siguen <u>ellos</u>, uno. Los hermanos. Ya no solo vencieron. Ahora: no amaron.
+> Siguen <u>ellos</u> —los hermanos. Ya no solo vencieron. Ahora: no amaron.
 
 #### *y no amaron su vida hasta la muerte*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y ellos lo vencieron por medio de la sangre del cordero y por medio de la palabra de su testimonio*).
-  > Ese <u>y</u> no suma otro vencieron. Tras lo vencieron: no amaron su vida.
+  > Ese <u>y</u> no suma otro *vencieron*. Tras lo vencieron: no amaron su vida.
 
 * *ellos* → *no amaron* → *su vida hasta la muerte*
-  > Quienes no amaron son los mismos <u>ellos</u>. Lo alcanzado: su vida hasta la muerte. No es un tercer por medio. En Apocalipsis 2:10: Sé fiel hasta la muerte. Aquí: no amaron su vida hasta la muerte. El texto no dice aquí cuántos murieron.
+  > Quienes no amaron son los mismos <u>ellos</u>. Lo alcanzado: su vida hasta la muerte. No es un tercer *por medio*. Ya se oyó: *Sé fiel hasta la muerte*. Aquí: no amaron su vida hasta la muerte. El texto no dice aquí cuántos murieron.
 
 ### Apocalipsis 12:12:3 — *Por esto, alégrense, cielos y quienes habitan en ellos*
 
-* Actores principales: *cielos y quienes habitan en ellos* (1)
-  > El recuento ya no es ellos, los hermanos. Quienes ocupan la línea son <u>cielos</u> y quienes habitan en ellos, uno. Ya no se narra. Se manda.
+> Ya no son ellos, los hermanos. Quienes ocupan la línea son <u>cielos</u> y quienes habitan en ellos. Ya no se narra. Se manda.
 
 #### *Por esto, alégrense, cielos y quienes habitan en ellos*
 * *Por esto* (διὰ τοῦτο)[^conn]
-  > Ese <u>Por esto</u> no abre otro no amaron. Apunta a lo que acaba de oírse: el acusador derribado, ellos vencieron. Por eso: alégrense.
+  > Ese <u>Por esto</u> no abre otro *no amaron*. Apunta a lo que acaba de oírse: el acusador derribado, ellos vencieron. Por eso: *alégrense*.
 
 * *cielos y quienes habitan en ellos* → *alégrense*
-  > A quienes se manda son <u>cielos</u> y quienes habitan en ellos. La flecha se detiene en alégrense. No son los que habitan en la tierra (Apocalipsis 8:13). En el cielo ya no había lugar para el dragón.
+  > A quienes se manda son <u>cielos</u> y quienes habitan en ellos. No son los que habitan en la tierra. En el cielo ya no había lugar para el dragón.
 
 + *quienes*
   * ↳ *habitan* (σκηνοῦντες)[^P]
-  > No cuelga de alégrense. Son quienes <u>habitan</u> en ellos —en los cielos.
+  > Son quienes <u>habitan</u> en ellos —en los cielos.
 
 ### Apocalipsis 12:12:11 — *Ay de los que habitan la tierra y el mar*
 
-* Actores principales: *el Diablo* (2)
-  > El recuento pone al <u>Diablo</u>, dos. Los cielos se alegran; él ha bajado y tiene poco tiempo.
+> <u>El</u> Diablo ha bajado y tiene poco tiempo. Los cielos se alegran; él, no.
 
 #### *Ay de los que habitan la tierra y el mar*
-  > No es alégrense. <u>Ay</u> de los que habitan la tierra y el mar. En Apocalipsis 8:13: tres Ay de los que habitan en la tierra. Aquí: uno, y se suma el mar.
+  > No es *alégrense*. <u>Ay</u> de los que habitan la tierra y el mar. Ya se oyeron tres *Ay* de los que habitan en la tierra. Aquí: uno, y se suma el mar.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone Ay. Se <u>asigna</u> el Ay a los que habitan la tierra y el mar.
+  > El griego no trae verbo. El español pone *Ay*. Se <u>asigna</u> el *Ay* a los que habitan la tierra y el mar.
 
 - *porque el Diablo ha bajado a ustedes teniendo gran furia*
   * *el mar,* (ὅτι)[^hoti]
-  > Ese <u>el mar</u> no abre otro Ay. Da por qué el Ay: el Diablo ha bajado.
+  > Ese <u>el mar,</u> no abre otro *Ay*. Da por qué el *Ay*: el Diablo ha bajado.
 
   * *el Diablo* → *ha bajado* → *a ustedes teniendo gran furia*
-  > Quien ha bajado es <u>el</u> Diablo —el gran dragón, arrojado a la tierra (Apocalipsis 12:9). Lo alcanzado: a ustedes —los de la tierra y el mar. Teniendo gran furia queda en la misma línea.
+  > Quien ha bajado es <u>el</u> Diablo —el gran dragón, arrojado a la tierra. Lo alcanzado: a ustedes —los de la tierra y el mar. Teniendo gran furia.
 
   + *Diablo*
     * ↳ *teniendo* (ἔχων)[^P]
@@ -7489,136 +7256,130 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
 
 ### Apocalipsis 12:13:11 — *persiguió a la mujer*
 
-* Actores principales: *el dragón* (3) · *la mujer* (1)
-  > El recuento pone al <u>dragón</u>, tres, y a la mujer. El Diablo ya no encabeza con ese nombre. Él ve, fue arrojado, persigue; ella había dado a luz.
+> Ya no encabeza el nombre *Diablo*. <u>El</u> dragón ve, fue arrojado, persigue; ella había dado a luz.
 
 - *Y cuando el dragón vio*
   * *cuando* (ὅτε)[^hote]
-  > Ese <u>cuando</u> no es el de «cuando diera a luz». Fija el momento de persiguió: cuando vio.
+  > Ese <u>cuando</u> no abre otro *persiguió*. Fija el momento: cuando vio.
 
   * *el dragón* → *vio*
-  > Quien vio es <u>el</u> dragón. Qué vio, anidado.
+  > Quien vio es <u>el</u> dragón.
 
   - *que había sido arrojado a la tierra*
     * *que* (ὅτι)[^hoti]
-    > Ese <u>que</u> no abre otro cuando. Trae lo que vio: había sido arrojado a la tierra.
+    > Ese <u>que</u> no abre otro *cuando*. Trae lo que vio: había sido arrojado a la tierra.
 
     * *el dragón* → *había sido arrojado* → *a la tierra*
-    > Quien había sido arrojado es el mismo <u>el</u> dragón. Lo alcanzado: a la tierra. Ya se narró (Apocalipsis 12:9). Ahora él lo ve.
+    > Quien había sido arrojado es el mismo <u>el</u> dragón. Lo alcanzado: a la tierra. Ya se narró. Ahora él lo ve.
 
 #### *persiguió a la mujer*
   > Cuando lo vio, <u>persiguió</u> a la mujer. Estaba delante de ella para devorar al hijo. El hijo fue arrebatado. Ahora persigue a ella.
 
 * *el dragón* → *persiguió* → *a la mujer*
-  > Quien persiguió es <u>el</u> dragón. Lo alcanzado: a la mujer —la de la señal. Ella ya había huido al desierto (Apocalipsis 12:6).
+  > Quien persiguió es <u>el</u> dragón. Lo alcanzado: a la mujer —la de la señal. Ella ya había huido al desierto.
 
 - *que había dado a luz al varón*
   * *que* (ἥτις)[^rel]: describe a *la mujer*.
   > Ese <u>que</u> no abre otra perseguida. Describe a la mujer: había dado a luz al varón.
 
   * *la mujer* → *había dado a luz* → *al varón*
-  > Quien había dado a luz es <u>la</u> mujer. Lo alcanzado: al varón —el de Apocalipsis 12:5. El texto no dice aquí que persiga al hijo.
+  > Quien había dado a luz es <u>la</u> mujer. Lo alcanzado: al varón. El texto no dice aquí que persiga al hijo.
 
 + *la mujer*
   * *que* (ἥτις)[^rel]: describe a *la mujer*.
 
 ### Apocalipsis 12:14:2 — *a la mujer le fueron dadas dos alas del gran águila*
 
-* Actores principales: *la mujer* (2) · *a la mujer* (1)
-  > El recuento vuelve a <u>la</u> mujer, dos, y a la mujer como a quién se da. El dragón persigue; a ella se le dan alas.
+> El dragón persigue; a <u>la</u> mujer se le dan alas.
 
 + *y*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*persiguió a la mujer*).
-  > Ese <u>y</u> no suma otro persiguió. Tras la persecución: se le dan alas.
+  > Ese <u>y</u> no suma otro *persiguió*. Tras la persecución: se le dan alas.
 
 #### *a la mujer le fueron dadas dos alas del gran águila*
   > No huye a pie otra vez. Le <u>fueron</u> dadas dos alas del gran águila. El texto no dice quién las dio.
 
 * *a la mujer* → *le fueron dadas* → *dos alas del gran águila*
-  > A quién se le dan es <u>a</u> la mujer. Lo alcanzado: dos alas del gran águila. En Apocalipsis 8:13 un águila volaba en medio del cielo. Aquí: el gran águila. El texto no dice que es la misma.
+  > A quién se le dan es <u>a</u> la mujer. Lo alcanzado: dos alas del gran águila. Un águila ya volaba en medio del cielo. Aquí: el gran águila. El texto no dice que es la misma.
 
 - *para que vuele al desierto*
   * *vuele* (ἵνα)[^hina]
-  > Ese <u>vuele</u> no abre otro fueron dadas. Trae el para qué de fueron dadas: vuele al desierto.
+  > Ese <u>vuele</u> no abre otro *fueron dadas*. Trae el para qué: vuele al desierto.
 
   * *la mujer* → *vuele* → *para que al desierto a su lugar*
-  > Quien vuele es <u>la</u> mujer. Al desierto, a su lugar —el de Apocalipsis 12:6. Ya había huido allí. Ahora vuela.
+  > Quien vuele es <u>la</u> mujer. Al desierto, a su lugar —el que ya tenía. Ya había huido allí. Ahora vuela.
 
   - *donde es alimentada allí*
     * *donde* (ὅπου)[^rel]: describe a *lugar*.
     > Ese <u>donde</u> no abre otro desierto. Describe a su lugar: allí es alimentada.
 
     * *la mujer* → *es alimentada* → *donde allí*
-    > Quien es alimentada es la misma <u>la</u> mujer. En Apocalipsis 12:6: para que allí la alimenten mil doscientos sesenta días. Aquí: es alimentada.
+    > Quien es alimentada es la misma <u>la</u> mujer. Antes: para que allí la alimenten mil doscientos sesenta días. Aquí: *es alimentada*.
 
   + *su lugar*
     * *donde* (ὅπου)[^rel]: describe a *lugar*.
 
   + *por un tiempo, tiempos y medio tiempo, lejos de la serpiente*
-    > El tiempo de ser alimentada: un <u>tiempo</u>, tiempos y medio tiempo. Lejos de la serpiente —la serpiente antigua (Apocalipsis 12:9). El texto no iguala aquí ese tiempo con los mil doscientos sesenta días.
+    > El tiempo de ser alimentada: un <u>tiempo</u>, tiempos y medio tiempo. Lejos de la serpiente —la serpiente antigua. El texto no iguala aquí ese tiempo con los mil doscientos sesenta días.
 
 ### Apocalipsis 12:15:2 — *la serpiente lanzó detrás de la mujer, de su boca, agua como un río*
 
-* Actores principales: *ella* (1) · *la serpiente* (1)
-  > El recuento pone a <u>ella</u> y a la serpiente. La mujer vuela lejos; la serpiente lanza detrás.
+> La mujer vuela lejos; <u>la</u> serpiente lanza detrás.
 
 + *Y*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*por un tiempo, tiempos y medio tiempo, lejos de la serpiente*).
-  > Ese <u>Y</u> no suma otro lejos. Lejos de la serpiente; ahora la serpiente lanza detrás.
+  > Ese <u>Y</u> no suma otro *lejos*. Lejos de la serpiente; ahora la serpiente lanza detrás.
 
 #### *la serpiente lanzó detrás de la mujer, de su boca, agua como un río*
   > No queda quieta. <u>Lanzó</u> detrás de la mujer, de su boca, agua como un río.
 
 * *la serpiente* → *lanzó* → *detrás de la mujer, de su boca, agua como un río*
-  > Quien lanzó es <u>la</u> serpiente —la serpiente antigua, el dragón. Lo alcanzado: detrás de la mujer, de su boca, agua como un río. El texto no dice aquí qué es el agua. Para qué, anidado.
+  > Quien lanzó es <u>la</u> serpiente —la serpiente antigua, el dragón. Lo alcanzado: detrás de la mujer, de su boca, agua como un río. El texto no dice aquí qué es el agua.
 
 - *para hacer que ella fuera arrastrada por el río*
   * *para* (ἵνα)[^hina]
-  > Ese <u>para</u> no abre otro lanzó. Trae el para qué de lanzó: que ella fuera arrastrada por el río.
+  > Ese <u>para</u> no abre otro *lanzó*. Trae el para qué: que ella fuera arrastrada por el río.
 
   * *ella* → *fuera arrastrada* → *para hacer que por el río*
   > Quien fuera arrastrada es <u>ella</u> —la mujer. Por el río. El texto no dice aquí que lo fue.
 
 ### Apocalipsis 12:16:2 — *la tierra ayudó a la mujer*
 
-* Actores principales: *la tierra* (1)
-  > El recuento ya no es la serpiente. Quien ocupa la línea es <u>la</u> tierra, uno. El Ay era de la tierra y el mar. Ahora la tierra ayuda.
+> Ya no es la serpiente. Quien ocupa la línea es <u>la</u> tierra. El *Ay* era de la tierra y el mar. Ahora la tierra ayuda.
 
 + *Y*
   * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*para hacer que ella fuera arrastrada por el río*).
-  > Ese <u>Y</u> no suma otro fuera arrastrada. Tras el para qué de la serpiente: la tierra ayudó.
+  > Ese <u>Y</u> no suma otro *fuera arrastrada*. Tras el para qué de la serpiente: la tierra ayudó.
 
 #### *la tierra ayudó a la mujer*
   > No queda sola. <u>La</u> tierra ayudó a la mujer.
 
 * *la tierra* → *ayudó* → *a la mujer*
-  > Quien ayudó es <u>la</u> tierra. Lo alcanzado: a la mujer. La serpiente quería arrastrarla. La tierra no queda en el Ay.
+  > Quien ayudó es <u>la</u> tierra. Lo alcanzado: a la mujer. La serpiente quería arrastrarla. La tierra no queda en el *Ay*.
 
 ### Apocalipsis 12:16:8 — *tierra abrió su boca*
 
-* Actores principales: *tierra abrió* (1)
-  > El recuento no cambia de sujeto. Quien ocupa la línea es <u>tierra</u> abrió, uno: la misma tierra que ayudó.
+> No cambia de sujeto. Quien ocupa la línea es <u>tierra</u> —la misma que ayudó.
 
 + *la*
   * *la tierra* (καὶ)[^kai] une esta cláusula con la anterior (*la tierra ayudó a la mujer*).
-  > Ese <u>la</u> no abre otra tierra. Completa *la tierra*: ayudó; y abrió su boca.
+  > Ese <u>la</u> no abre otra tierra. La misma: ayudó; y abrió su boca.
 
 #### *tierra abrió su boca*
   > Así ayuda. <u>Tierra</u> abrió su boca. La serpiente había lanzado de la suya.
 
 * *tierra abrió* → *su* → *boca y*
-  > Quien abrió es <u>tierra</u> abrió —la misma tierra. Lo alcanzado: su boca. No otra boca: la de la tierra.
+  > Quien abrió es <u>tierra</u> —la misma tierra. Lo alcanzado: su boca. No otra boca: la de la tierra.
 
 ### Apocalipsis 12:16:15 — *y tragó el río*
 
-* Actores principales: *el dragón* (1) · *la tierra* (1)
-  > El recuento no deja sola a la tierra. Vuelve <u>el</u> dragón, uno, junto a la tierra: el río era de él.
+> No deja sola a la tierra. Vuelve <u>el</u> dragón junto a la tierra: el río era de él.
 
 #### *y tragó el río*
   > Abrió la boca. <u>Y</u> tragó el río. El para qué de la serpiente era arrastrar a la mujer. El río no queda.
 
 * *la tierra* → *y tragó* → *el río*
-  > Quien tragó es <u>la</u> tierra. Lo alcanzado: el río. Qué río, anidado.
+  > Quien tragó es <u>la</u> tierra. Lo alcanzado: el río.
 
 - *que el dragón había lanzado de su boca*
 
@@ -7627,54 +7388,52 @@ Los ancianos dan gracias porque has comenzado a reinar; se abre el santuario, se
     > Ese <u>que</u> no abre otro río. Nombra cuál: el que el dragón había lanzado de su boca.
 
   * *el dragón* → *había lanzado* → *que de su boca*
-  > Quien había lanzado es <u>el</u> dragón. De su boca —Apocalipsis 12:15. El texto no dice que la mujer fuera arrastrada.
+  > Quien había lanzado es <u>el</u> dragón. De su boca. El texto no dice que la mujer fuera arrastrada.
 
 ### Apocalipsis 12:17:2 — *el dragón se enfureció contra la mujer*
 
-* Actores principales: *el dragón* (1)
-  > El recuento ya no es la tierra. Quien ocupa la línea es <u>el</u> dragón, uno. El río fue tragado. El dragón se enfurece.
+> Ya no es la tierra. Quien ocupa la línea es <u>el</u> dragón. El río fue tragado. El dragón se enfurece.
 
 + *Y*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y tragó el río*).
-  > Ese <u>Y</u> no suma otro tragó. Tras el río tragado: el dragón se enfureció.
+  > Ese <u>Y</u> no suma otro *tragó*. Tras el río tragado: el dragón se enfureció.
 
 #### *el dragón se enfureció contra la mujer*
-  > Las naciones se enfurecieron (Apocalipsis 11:18). El texto no decía contra quién. Aquí sí: <u>el</u> dragón se enfureció contra la mujer.
+  > Las naciones se enfurecieron. El texto no decía contra quién. Aquí sí: <u>el</u> dragón se enfureció contra la mujer.
 
 * *el dragón* → *se enfureció* → *contra la mujer*
   > Quien se enfureció es <u>el</u> dragón. Lo alcanzado: contra la mujer. No contra el hijo arrebatado. Contra ella.
 
 ### Apocalipsis 12:17:9 — *y se fue a hacer guerra contra los restantes de su descendencia*
 
-* Actores principales: *el dragón* (1)
-  > Sigue <u>el</u> dragón, uno. Ya no solo se enfurece contra la mujer. Ahora se va.
+> Sigue <u>el</u> dragón. Ya no solo se enfurece contra la mujer. Ahora se va.
 
 #### *y se fue a hacer guerra contra los restantes de su descendencia*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*el dragón se enfureció contra la mujer*).
-  > Ese <u>y</u> no suma otro se enfureció. Tras la furia contra ella: se fue.
+  > Ese <u>y</u> no suma otro *se enfureció*. Tras la furia contra ella: se fue.
 
 * *el dragón* → *y se fue* → *a hacer guerra contra los restantes de su descendencia*
   > Quien se fue es <u>el</u> dragón. Lo alcanzado: a hacer guerra contra los restantes de su descendencia. No contra el hijo arrebatado. Contra los que quedan de ella.
 
   * ↳ *hacer* (ποιῆσαι)[^I]
-  > Completa a se <u>fue</u>: se fue a hacer guerra.
+  > Se <u>fue</u> a hacer guerra.
 
 + *los que guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo*
-  > Esos restantes no quedan sin nombre. Son <u>los</u> que guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo. En Apocalipsis 12:11: la palabra de su testimonio. El texto no dice aquí que la guerra ya empezó.
+  > Esos restantes no quedan sin nombre. Son <u>los</u> que guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo. Ya se oyó: la palabra de su testimonio. El texto no dice aquí que la guerra ya empezó.
 
 ### En síntesis
 
-El tramo abre con una gran señal en el cielo: una mujer que grita de parto. Otra señal: un gran dragón rojo se para delante para devorar al hijo.
+Una gran señal en el cielo: una mujer que grita de parto. *Otra señal*: un gran dragón rojo delante de ella para *devorar a su hijo*.
 
-Ella da a luz un varón que está por pastorear las naciones con vara de hierro; el hijo es arrebatado hacia Dios y su trono, y ella huye al desierto para ser alimentada mil doscientos sesenta días.
+Ella *dio a luz un hijo varón* que *está por pastorear* las naciones con vara de hierro; el hijo *fue arrebatado hacia Dios y su trono*; ella huye al desierto para ser alimentada *mil doscientos sesenta días*.
 
-Hay guerra en el cielo: Miguel y sus ángeles contra el dragón; el dragón —serpiente antigua, Diablo y Satanás— es arrojado a la tierra con sus ángeles.
+*Hubo guerra en el cielo*: Miguel y sus ángeles contra el dragón; el dragón —*la serpiente antigua*, *Diablo* y *Satanás*— *fue arrojado a la tierra* con sus ángeles.
 
-Una voz dice que ahora han llegado la salvación, el poder, el reino y la autoridad, porque el acusador de los hermanos fue derribado; ellos lo vencieron por la sangre del cordero y la palabra de su testimonio, y no amaron su vida hasta la muerte.
+Una voz dice: *Ahora han llegado* la salvación, el poder, el reino y la autoridad, porque el *acusador* de los hermanos fue derribado; *ellos lo vencieron* por la sangre del cordero y la palabra de su testimonio, y *no amaron su vida hasta la muerte*.
 
-Los cielos se alegran; Ay de la tierra y el mar, porque el Diablo bajó con gran furia y poco tiempo. Persigue a la mujer; le dan alas del águila, y es alimentada un tiempo, tiempos y medio tiempo, lejos de la serpiente.
+Los cielos se alegran; *Ay* de la tierra y el mar, porque el Diablo bajó con gran furia y *poco tiempo*. Persigue a la mujer; le dan alas; es alimentada *un tiempo, tiempos y medio tiempo*, lejos de la serpiente.
 
-La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la mujer y se va a hacer guerra contra los restantes de su descendencia, los que guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo.
+La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la mujer y *se fue a hacer guerra* contra los restantes de su descendencia, *los que guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo*.
 
 ## Apocalipsis 13:1–18 La bestia y la otra bestia
 
@@ -7714,33 +7473,31 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 ### Apocalipsis 13:1:2 — Una bestia del mar
 
-* Actores principales: *Yo, Juan* (2)
-  > El recuento vuelve a <u>Yo</u>, Juan —dos en esta línea. El dragón se fue a hacer guerra; Juan se para y ve.
+> Vuelve <u>Yo</u>, Juan. El dragón se fue a hacer guerra; Juan se para y ve.
 
 + *Y me paré sobre la arena del mar*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y se fue a hacer guerra contra los restantes de su descendencia*).
-  > Ese <u>Y</u> no suma otra guerra. Tras se fue: Juan se paró sobre la arena del mar. El Ay era de la tierra y el mar (Apocalipsis 12:12).
+  > Ese <u>Y</u> no suma otra guerra. Tras *se fue*: Juan se paró sobre la arena del mar. El *Ay* era de la tierra y el mar.
 
 #### *Y vi que del mar subía una bestia que tenía siete cabezas y diez cuernos*
-  > No se queda en la arena. <u>Vi</u> que del mar subía una bestia. En Apocalipsis 11:7 la bestia sube del abismo. Aquí: del mar. El texto no dice aquí que sea la misma.
+  > No se queda en la arena. <u>Vi</u> que del mar subía una bestia. La bestia sube del abismo. Aquí: del mar. El texto no dice aquí que sea la misma.
 
 * *Yo, Juan* → *vi* → *que del mar subía una bestia que tenía siete cabezas y diez cuernos*
   > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: que del mar subía una bestia que tenía siete cabezas y diez cuernos.
 
   * ↳ *subía* (ἀναβαῖνον)[^P]
-  > No cuelga de mar. Completa a <u>vi</u>: vio que subía.
+  > Vio que <u>subía</u>.
 
 + *bestia*
   * ↳ *tenía* (ἔχον)[^P]
-  > No cuelga de paré. La <u>bestia</u> tenía siete cabezas y diez cuernos. El dragón también: siete cabezas, diez cuernos (Apocalipsis 12:3).
+  > La <u>bestia</u> tenía siete cabezas y diez cuernos. El dragón también: siete cabezas, diez cuernos.
 
 + *y sobre sus cuernos diez diademas, y sobre sus cabezas nombre de blasfemia*
   > El dragón llevaba siete diademas sobre las cabezas. Esta: diez diademas sobre los <u>cuernos</u>, y sobre las cabezas nombre de blasfemia. El texto no dice aquí qué nombre.
 
 ### Apocalipsis 13:2:6 — *era semejante a un leopardo*
 
-* Actores principales: *la bestia* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>la</u> bestia, uno. Juan la vio; ahora el texto dice a qué era semejante.
+> Ya no es Juan. Quien ocupa la línea es <u>la</u> bestia. Juan la vio; ahora el texto dice a qué era semejante.
 
 + *Y la bestia*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y vi que del mar subía una bestia…*).
@@ -7756,35 +7513,33 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   > No queda solo en cabezas y cuernos. <u>Era</u> semejante a un leopardo.
 
 * *la bestia* → *era* → *semejante a un leopardo*
-  > Quien era es <u>la</u> bestia. Lo alcanzado: semejante a un leopardo. No el todo: los pies y la boca, anidados.
+  > Quien era es <u>la</u> bestia. Lo alcanzado: semejante a un leopardo.
 
 + *y sus pies como de oso, y su boca como boca de león*
   > Los pies: como de <u>oso</u>. La boca: como boca de león. Tres comparaciones. El texto no abre aquí de dónde vienen.
 
 ### Apocalipsis 13:2:23 — *y el dragón le dio su poder, su trono y gran autoridad*
 
-* Actores principales: *el dragón* (1)
-  > El recuento ya no es la bestia sola. Quien ocupa la línea es <u>el</u> dragón, uno. La bestia era semejante; ahora el dragón da.
+> Ya no es la bestia sola. Quien ocupa la línea es <u>el</u> dragón. La bestia era semejante; ahora el dragón da.
 
 #### *y el dragón le dio su poder, su trono y gran autoridad*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*era semejante a un leopardo*).
   > Ese <u>y</u> no suma otro semejante. Tras las tres comparaciones: el dragón le dio.
 
 * *el dragón* → *le dio* → *su poder, su trono y gran autoridad*
-  > Quien dio es <u>el</u> dragón —el arrojado a la tierra (Apocalipsis 12:9). Lo alcanzado: le —a la bestia— su poder, su trono y gran autoridad. Tres cosas, y son suyas. El hijo fue arrebatado hacia el trono de Dios (Apocalipsis 12:5). Aquí el dragón da el suyo.
+  > Quien dio es <u>el</u> dragón —el arrojado a la tierra. Lo alcanzado: le —a la bestia— su poder, su trono y gran autoridad. Tres cosas, y son suyas. El hijo fue arrebatado hacia el trono de Dios. Aquí el dragón da el suyo.
 
 ### Apocalipsis 13:3:17 — *y su herida mortal fue sanada*
 
-* Actores principales: *su herida mortal* (1)
-  > El recuento ya no es el dragón. Quien ocupa la línea es <u>su</u> herida mortal, uno. El dragón dio; Juan ve una cabeza; la herida es sanada.
+> Ya no es el dragón. Quien ocupa la línea es <u>su</u> herida mortal. El dragón dio; Juan ve una cabeza; la herida es sanada.
 
 + *Y vi una de sus cabezas como degollada hasta la muerte*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y el dragón le dio su poder, su trono y gran autoridad*).
-  > Ese <u>Y</u> no suma otro dio. Tras el don: Juan vio una de sus cabezas.
+  > Ese <u>Y</u> no suma otro *dio*. Tras el don: Juan vio una de sus cabezas.
 
 + *cabezas*
   * ↳ *degollada* (ἐσφαγμένην)[^P]
-  > No cuelga de vi. Describe a una de sus <u>cabezas</u>: como degollada hasta la muerte. El cordero estaba de pie como sacrificado (Apocalipsis 5:6). Aquí: una cabeza, hasta la muerte.
+  > Una de sus <u>cabezas</u>: como degollada hasta la muerte. El cordero estaba de pie como sacrificado. Aquí: una cabeza, hasta la muerte.
 
 #### *y su herida mortal fue sanada*
   > No queda degollada. <u>Su</u> herida mortal fue sanada.
@@ -7794,137 +7549,128 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 ### Apocalipsis 13:3:19 — *y toda la tierra se maravilló siguiendo a la bestia*
 
-* Actores principales: *toda la tierra* (1)
-  > El recuento ya no es la herida. Quien ocupa la línea es <u>toda</u> la tierra, uno. El Ay era de los que habitan la tierra (Apocalipsis 12:12). Ahora toda la tierra se maravilla.
+> Ya no es la herida. Quien ocupa la línea es <u>toda</u> la tierra. El *Ay* era de los que habitan la tierra. Ahora toda la tierra se maravilla.
 
 #### *y toda la tierra se maravilló siguiendo a la bestia*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y su herida mortal fue sanada*).
-  > Ese <u>y</u> no suma otra herida. Tras fue sanada: toda la tierra se maravilló.
+  > Ese <u>y</u> no suma otra herida. Tras *fue sanada*: toda la tierra se maravilló.
 
 * *toda la tierra* → *se maravilló* → *siguiendo a la bestia*
   > Quien se maravilló es <u>toda</u> la tierra. Lo alcanzado: siguiendo a la bestia. No al dragón en esta línea. A la bestia cuya herida fue sanada.
 
 ### Apocalipsis 13:4:2 — *Y adoraron al dragón*
 
-* Actores principales: *al dragón* (1) · *toda la tierra* (1)
-  > El recuento pone <u>al</u> dragón y a toda la tierra. Se maravillaron siguiendo a la bestia. Ahora adoran —y el recuento nombra primero a quién.
+> <u>Al</u> dragón y a toda la tierra. Se maravillaron siguiendo a la bestia. Ahora adoran —y se nombra primero a quién.
 
 #### *Y adoraron al dragón*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y toda la tierra se maravilló siguiendo a la bestia*).
-  > Ese <u>Y</u> no suma otro se maravilló. Tras seguir a la bestia: adoraron al dragón.
+  > Ese <u>Y</u> no suma otro *se maravilló*. Tras seguir a la bestia: adoraron al dragón.
 
 * *toda la tierra* → *adoraron* → *al dragón*
-  > Quienes adoraron son <u>toda</u> la tierra. Lo alcanzado: al dragón. No a la bestia en esta línea. Por qué, anidado.
+  > Quienes adoraron son <u>toda</u> la tierra. Lo alcanzado: al dragón. No a la bestia en esta línea.
 
 - *que dio autoridad a la bestia*
   * *que* (ὅτι)[^hoti]
-  > Ese <u>que</u> no abre otro adoraron. Da por qué adoraron: porque dio autoridad a la bestia.
+  > Ese <u>que</u> no abre otro *adoraron*. Da por qué: porque dio autoridad a la bestia.
 
   * *al dragón* → *dio* → *autoridad a la bestia*
-  > Quien dio es <u>al</u> dragón —el mismo de Apocalipsis 13:2: su poder, su trono y gran autoridad. Aquí: autoridad. A la bestia.
+  > Quien dio es <u>al</u> dragón —el mismo: su poder, su trono y gran autoridad. Aquí: autoridad. A la bestia.
 
 ### Apocalipsis 13:4:12 — *y adoraron a la bestia*
 
-* Actores principales: *toda la tierra* (1)
-  > Sigue <u>toda</u> la tierra, uno. Ya adoraron al dragón. Ahora: a la bestia.
+> Sigue <u>toda</u> la tierra. Ya adoraron al dragón. Ahora: a la bestia.
 
 #### *y adoraron a la bestia*
 * *adoraron* (καὶ)[^kai] une esta cláusula con la anterior (*Y adoraron al dragón*).
-  > Ese <u>adoraron</u> no abre otros adoradores. Completa el kai: adoraron al dragón; y adoraron a la bestia.
+  > Ese <u>adoraron</u> no abre otros adoradores. Adoraron al dragón; y adoraron a la bestia.
 
 * *toda la tierra* → *adoraron* → *a la bestia*
   > Quienes adoraron son los mismos: <u>toda</u> la tierra. Lo alcanzado: a la bestia. Dos adoraciones. Al que dio, y a la que recibió.
 
   * ↳ *diciendo* (λέγοντες)[^P]
-  > No queda muda la adoración. Están <u>diciendo</u>. Qué, las dos preguntas que siguen.
+  > Están <u>diciendo</u>. Qué, las dos preguntas que siguen.
 
 ### Apocalipsis 13:4:17 — *Quién es semejante a la bestia*
 
-* Actores principales: *Quién* (1)
-  > El recuento ya no es toda la tierra. Quien ocupa la línea es <u>Quién</u>, uno. Eso es lo que decían. La pregunta no nombra a nadie.
+> Ya no es toda la tierra. Quien ocupa la línea es <u>Quién</u>. Eso es lo que decían. La pregunta no nombra a nadie.
 
 #### *Quién es semejante a la bestia*
   > No preguntan quién es semejante al dragón. Preguntan quién es <u>semejante</u> a la bestia.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
-  > El griego no trae verbo. El español pone es. La afirmación es <u>semejante</u>.
+  > El griego no trae verbo. El español pone *es*. La afirmación es <u>semejante</u>.
 
 * *Quién* → *es* → *semejante a la bestia*
-  > Quien sería semejante es <u>Quién</u>. Lo alcanzado: a la bestia. Ella era semejante a un leopardo (Apocalipsis 13:2). Ahora: quién es semejante a ella. El texto no responde aquí.
+  > Quien sería semejante es <u>Quién</u>. Lo alcanzado: a la bestia. Ella era semejante a un leopardo. Ahora: quién es semejante a ella. El texto no responde aquí.
 
 ### Apocalipsis 13:4:22 — *Quién puede combatir contra ella*
 
-* Actores principales: *Quién* (1)
-  > Sigue <u>Quién</u>, uno. Segunda pregunta de lo que decían. Otra vez no nombra a nadie.
+> Sigue <u>Quién</u>. Segunda pregunta de lo que decían. Otra vez no nombra a nadie.
 
 #### *Quién puede combatir contra ella*
-  > No se quedan en semejante. Preguntan quién <u>puede</u> combatir contra ella.
+  > No se quedan en *semejante*. Preguntan quién <u>puede</u> combatir contra ella.
 
 * *Quién* → *puede* → *combatir contra ella*
-  > Quien podría es <u>Quién</u>. Lo alcanzado: combatir contra ella —la bestia. En el cielo Miguel combatió contra el dragón (Apocalipsis 12:7). Aquí: contra ella. El texto no responde aquí.
+  > Quien podría es <u>Quién</u>. Lo alcanzado: combatir contra ella —la bestia. En el cielo Miguel combatió contra el dragón. Aquí: contra ella. El texto no responde aquí.
 
   * ↳ *combatir* (πολεμῆσαι)[^I]
-  > No completa a ella. Completa a <u>puede</u>: puede combatir.
+  > <u>Puede</u> combatir.
 
 ### Apocalipsis 13:5:2 — *Y le fue dada una boca*
 
-* Actores principales: *le* (1)
-  > El recuento ya no es Quién. Quien ocupa la línea es <u>le</u>, uno: la bestia. Preguntaron quién puede combatir; ahora se le da.
+> Ya no es Quién. Quien ocupa la línea es <u>le</u>: la bestia. Preguntaron quién puede combatir; ahora se le da.
 
 #### *Y le fue dada una boca*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Quién puede combatir contra ella*).
   > Ese <u>Y</u> no suma otra pregunta. Tras quién puede: le fue dada una boca.
 
 * *le* → *fue dada* → *una boca*
-  > A quien fue dada es <u>le</u> —la bestia. Lo alcanzado: una boca. El texto no dice aquí quién la dio. Sobre las cabezas ya había nombre de blasfemia (Apocalipsis 13:1).
+  > A quien fue dada es <u>le</u> —la bestia. Lo alcanzado: una boca. El texto no dice aquí quién la dio. Sobre las cabezas ya había nombre de blasfemia.
 
 + *que hablaba cosas grandes y blasfemias*
   + *boca*
     * ↳ *hablaba* (λαλοῦν)[^P]
-    > No cuelga de una. Describe a la <u>boca</u>: hablaba cosas grandes y blasfemias.
+    > Describe a la <u>boca</u>: hablaba cosas grandes y blasfemias.
 
 ### Apocalipsis 13:5:10 — *fue dada autoridad para actuar cuarenta y dos meses*
 
-* Actores principales: *le* (1)
-  > Sigue <u>le</u>, uno: la bestia. Ya se le dio una boca. Ahora: autoridad.
+> Sigue <u>le</u>: la bestia. Ya se le dio una boca. Ahora: autoridad.
 
 + *y le*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y le fue dada una boca*).
   > Ese <u>y</u> no suma otra boca. Tras la boca: le fue dada autoridad.
 
 #### *fue dada autoridad para actuar cuarenta y dos meses*
-  > Otra vez <u>fue</u> dada. El dragón ya le dio autoridad (Apocalipsis 13:2). Aquí el texto no nombra quién da.
+  > Otra vez <u>fue</u> dada. El dragón ya le dio autoridad. Aquí el texto no nombra quién da.
 
 * *le* → *fue dada actuar* → *autoridad para cuarenta y dos meses*
-  > A quien fue dada es el mismo <u>le</u>. Lo alcanzado: autoridad para cuarenta y dos meses. Las naciones pisotean la ciudad santa durante cuarenta y dos meses (Apocalipsis 11:2). El texto no iguala aquí ese tiempo con los mil doscientos sesenta días.
+  > A quien fue dada es el mismo <u>le</u>. Lo alcanzado: autoridad para cuarenta y dos meses. Las naciones pisotean la ciudad santa durante cuarenta y dos meses. El texto no iguala aquí ese tiempo con los mil doscientos sesenta días.
 
   * ↳ *actuar* (ποιῆσαι)[^I]
-  > Completa a fue <u>dada</u>: autoridad para actuar.
+  > Autoridad para <u>actuar</u>.
 
 ### Apocalipsis 13:6:2 — *y abrió su boca*
 
-* Actores principales: *la bestia* (1)
-  > El recuento ya no es le. Quien ocupa la línea es <u>la</u> bestia, uno. Se le dio una boca; ahora la abre.
+> Ya no es le. Quien ocupa la línea es <u>la</u> bestia. Se le dio una boca; ahora la abre.
 
 #### *y abrió su boca*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*fue dada autoridad para actuar cuarenta y dos meses*).
   > Ese <u>y</u> no suma otra autoridad. Tras le fue dada: abrió su boca.
 
 * *la bestia* → *abrió* → *su boca*
-  > Quien abrió es <u>la</u> bestia. Lo alcanzado: su boca —la que hablaba cosas grandes y blasfemias. La tierra había abierto la suya (Apocalipsis 12:16). Contra quién, anidado.
+  > Quien abrió es <u>la</u> bestia. Lo alcanzado: su boca —la que hablaba cosas grandes y blasfemias. La tierra había abierto la suya. Contra quién, anidado.
 
 + *para blasfemia contra Dios, para blasfemar su nombre y su morada, y a los que habitan en el cielo*
   * ↳ *blasfemar* (βλασφημῆσαι)[^I]
-  > Completa a <u>abrió</u>: abrió para blasfemar. Contra Dios: su nombre, su morada, y a los que habitan en el cielo.
+  > Abrió para <u>blasfemar</u>. Contra Dios: su nombre, su morada, y a los que habitan en el cielo.
 
 + *los que*
   * ↳ *habitan* (σκηνοῦντας)[^P]
-  > No cuelga de cielo. Son los que <u>habitan</u> en el cielo. A ellos se les mandó: alégrense (Apocalipsis 12:12). Ahora la bestia los incluye en la blasfemia.
+  > Son los que <u>habitan</u> en el cielo. A ellos se les mandó: *alégrense*. Ahora la bestia los incluye en la blasfemia.
 
 ### Apocalipsis 13:7:2 — *Y le fue dado hacer guerra contra los santos y vencerlos*
 
-* Actores principales: *le* (1)
-  > El recuento vuelve a <u>le</u>, uno: la bestia. Abrió la boca; ahora se le da guerra.
+> Vuelve <u>le</u>: la bestia. Abrió la boca; ahora se le da guerra.
 
 + *y*
   * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y abrió su boca*).
@@ -7934,39 +7680,37 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   > Preguntaron quién puede combatir contra ella. El texto no respondió. Aquí: <u>le</u> fue dado hacer guerra contra los santos y vencerlos.
 
 * *le* → *fue dado hacer vencerlos* → *guerra contra los santos y*
-  > A quien fue dado es <u>le</u> —la bestia. Lo alcanzado: guerra contra los santos. En Apocalipsis 11:7 la bestia hará guerra contra los dos testigos y los vencerá. Aquí: contra los santos, y vencerlos. El texto no dice aquí quién lo dio.
+  > A quien fue dado es <u>le</u> —la bestia. Lo alcanzado: guerra contra los santos. La bestia del abismo hará guerra contra los dos testigos y los vencerá. Aquí: contra los santos, y vencerlos. El texto no dice aquí quién lo dio.
 
   * ↳ *hacer* (ποιῆσαι)[^I]
   * ↳ *vencerlos* (νικῆσαι)[^I]
-  > Los dos completan a fue <u>dado</u>: hacer guerra y vencerlos. No solo pelear. También vencer.
+  > No solo pelear. También <u>vencer</u>.
 
 ### Apocalipsis 13:7:13 — *y le fue dada autoridad sobre toda tribu, lengua y nación*
 
-* Actores principales: *le* (1)
-  > Sigue <u>le</u>, uno: la bestia. Ya se le dio hacer guerra y vencer. Ahora: autoridad sobre todos.
+> Sigue <u>le</u>: la bestia. Ya se le dio hacer guerra y vencer. Ahora: autoridad sobre todos.
 
 #### *y le fue dada autoridad sobre toda tribu, lengua y nación*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y le fue dado hacer guerra contra los santos y vencerlos*).
   > Ese <u>y</u> no suma otra guerra. Tras vencerlos: le fue dada autoridad.
 
 * *le* → *fue dada* → *autoridad sobre toda tribu, lengua y nación*
-  > A quien fue dada es el mismo <u>le</u>. Lo alcanzado: autoridad sobre toda tribu, lengua y nación. En Apocalipsis 13:5: autoridad para actuar cuarenta y dos meses. Aquí: sobre toda tribu, lengua y nación. El cordero compró de toda tribu, lengua, pueblo y nación (Apocalipsis 5:9). El texto no dice aquí quién dio esta.
+  > A quien fue dada es el mismo <u>le</u>. Lo alcanzado: autoridad sobre toda tribu, lengua y nación. Antes: autoridad para actuar cuarenta y dos meses. Aquí: sobre toda tribu, lengua y nación. El cordero compró de toda tribu, lengua, pueblo y nación. El texto no dice aquí quién dio esta.
 
 ### Apocalipsis 13:8:2 — *y todos los que habitan sobre la tierra la adorarán*
 
-* Actores principales: *alguien* (1) · *cuyos nombres* (1) · *Si alguien* (1) · *todos los que habitan sobre la tierra* (1)
-  > El recuento ya no es le. Pone a <u>todos</u> los que habitan sobre la tierra, a cuyos nombres, y a alguien / Si alguien. Adorarán; los nombres no están; si alguien tiene oído; si alguien lleva.
+> Ya no es le. Pone a <u>todos</u> los que habitan sobre la tierra, a cuyos nombres, y a alguien / Si alguien. Adorarán; los nombres no están; si alguien tiene oído; si alguien lleva.
 
 #### *y todos los que habitan sobre la tierra la adorarán*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y le fue dada autoridad sobre toda tribu, lengua y nación*).
   > Ese <u>y</u> no suma otra autoridad. Tras autoridad sobre todos: la adorarán.
 
 * *todos los que habitan sobre la tierra* → *la adorarán*
-  > Quienes adorarán son <u>todos</u> los que habitan sobre la tierra. Lo alcanzado: la —la bestia. En Apocalipsis 13:4 ya adoraron. Aquí: adorarán. No toda la tierra suelta. Cuáles, anidado.
+  > Quienes adorarán son <u>todos</u> los que habitan sobre la tierra. Lo alcanzado: la —la bestia. Antes ya adoraron. Aquí: adorarán. No toda la tierra suelta. Cuáles, anidado.
 
 + *los que*
   * ↳ *habitan* (κατοικοῦντες)[^P]
-  > No cuelga suelto. Son los que <u>habitan</u> sobre la tierra. El Ay era de ellos (Apocalipsis 8:13; Apocalipsis 12:12).
+  > Son los que <u>habitan</u> sobre la tierra. El *Ay* era de ellos.
 
 - *cuyos nombres no están escritos en el libro de la vida del cordero degollado desde la fundación del mundo*
 
@@ -7975,11 +7719,11 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
     > Ese <u>cuyos</u> no abre otros habitantes. Nombra cuáles adorarán: cuyos nombres no están escritos.
 
   * *cuyos nombres* → *no están escritos* → *en el libro de la vida del cordero degollado desde la fundación del mundo*
-  > Quienes no están escritos son <u>cuyos</u> nombres. En el libro de la vida del cordero. En Apocalipsis 3:5: de ninguna manera borraré su nombre del libro de la vida. Aquí: no están escritos.
+  > Quienes no están escritos son <u>cuyos</u> nombres. En el libro de la vida del cordero. A las iglesias: de ninguna manera borraré su nombre del libro de la vida. Aquí: no están escritos.
 
   + *cordero*
     * ↳ *degollado* (ἐσφαγμένου)[^P]
-    > No cuelga de fundación. Describe al <u>cordero</u>: degollado desde la fundación del mundo. El cordero estaba de pie como sacrificado (Apocalipsis 5:6).
+    > Describe al <u>cordero</u>: degollado desde la fundación del mundo. El cordero estaba de pie como sacrificado.
 
 - *Si alguien tiene oído*
   * *Si* (εἴ)[^ei]
@@ -7988,7 +7732,7 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   - *que escuche*
 
   * *alguien* → *que escuche*
-  > Quien debe escuchar es <u>alguien</u> —si tiene oído. La flecha se detiene en que escuche. El texto no añade aquí «lo que el Espíritu dice a las iglesias».
+  > Quien debe escuchar es <u>alguien</u> —si tiene oído. El texto no añade aquí «lo que el Espíritu dice a las iglesias».
 
 - *Si alguien lleva al cautiverio, al cautiverio va*
   * *Si* (εἴ)[^ei]
@@ -7999,71 +7743,66 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   > Otro <u>si</u>. Si mata con espada, es necesario que él sea matado con espada.
 
   * ↳ *ser matado* (ἀποκτανθῆναι)[^I]
-  > No completa a va ni a Aquí. Completa a es <u>necesario</u>: que sea matado.
+  > Es <u>necesario</u>: que sea matado.
 
 ### Apocalipsis 13:10:18 — *Aquí está la perseverancia y la fe de los santos*
 
-* Actores principales: *la perseverancia y la fe de los santos* (1)
-  > El recuento ya no es alguien. Quien ocupa la línea es <u>la</u> perseverancia y la fe de los santos, uno. Le fue dado vencerlos (Apocalipsis 13:7). Aquí: su perseverancia y su fe.
+> Ya no es alguien. Quien ocupa la línea es <u>la</u> perseverancia y la fe de los santos. Le fue dado vencerlos. Aquí: su perseverancia y su fe.
 
 #### *Aquí está la perseverancia y la fe de los santos*
   > No abre otra guerra. <u>Aquí</u> está: tras el oído, el cautiverio y la espada.
 
 * *la perseverancia y la fe de los santos* → *Aquí está*
-  > Quien está es <u>la</u> perseverancia y la fe de los santos. Juan era copartícipe en la perseverancia de Jesús Cristo (Apocalipsis 1:9). Aquí: la de los santos. El texto no dice aquí en qué consiste.
+  > Quien está es <u>la</u> perseverancia y la fe de los santos. Juan era copartícipe en la perseverancia de Jesús Cristo. Aquí: la de los santos. El texto no dice aquí en qué consiste.
 
 ### Apocalipsis 13:11:2 — *Y vi otra bestia*
 
-* Actores principales: *otra bestia* (1) · *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, y pone otra bestia. Aquí estaba la perseverancia. Ahora Juan ve otra.
+> Vuelve <u>Yo</u>, Juan, y pone otra bestia. Aquí estaba la perseverancia. Ahora Juan ve otra.
 
 #### *Y vi otra bestia*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Aquí está la perseverancia y la fe de los santos*).
   > Ese <u>Y</u> no suma otra perseverancia. Tras Aquí está: Juan vio otra bestia.
 
 * *Yo, Juan* → *vi* → *otra bestia*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otra bestia. Ya hubo una, del mar (Apocalipsis 13:1). Esta: otra.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otra bestia. Ya hubo una, del mar. Esta: otra.
 
 + *que subía de la tierra*
   + *bestia*
     * ↳ *subía* (ἀναβαῖνον)[^P]
-    > No cuelga de otra. La <u>bestia</u> subía de la tierra. La primera: del mar. El Ay era de la tierra y el mar (Apocalipsis 12:12).
+    > La <u>bestia</u> subía de la tierra. La primera: del mar. El *Ay* era de la tierra y el mar.
 
 - *y tenía dos cuernos semejantes a los de un cordero*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi otra bestia*).
   > Ese <u>y</u> no abre otra visión. Describe a la otra bestia: tenía.
 
   * *otra bestia* → *tenía* → *dos cuernos semejantes a los de un cordero*
-  > Quien tenía es <u>otra</u> bestia. Lo alcanzado: dos cuernos semejantes a los de un cordero. El cordero tenía siete (Apocalipsis 5:6). Esta: dos, semejantes a los de un cordero.
+  > Quien tenía es <u>otra</u> bestia. Lo alcanzado: dos cuernos semejantes a los de un cordero. El cordero tenía siete. Esta: dos, semejantes a los de un cordero.
 
 ### Apocalipsis 13:11:16 — *y hablaba como dragón*
 
-* Actores principales: *otra bestia* (1)
-  > Sigue <u>otra</u> bestia, uno. Ya no solo tenía cuernos de cordero. Ahora habla.
+> Sigue <u>otra</u> bestia. Ya no solo tenía cuernos de cordero. Ahora habla.
 
 #### *y hablaba como dragón*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y tenía dos cuernos semejantes a los de un cordero*).
   > Ese <u>y</u> no suma otros cuernos. Tras semejante a un cordero: hablaba como dragón.
 
 * *otra bestia* → *hablaba* → *como dragón*
-  > Quien hablaba es <u>otra</u> bestia. Lo alcanzado: como dragón —el que dio a la primera su poder, su trono y gran autoridad (Apocalipsis 13:2). Cuernos como de cordero; voz como de dragón.
+  > Quien hablaba es <u>otra</u> bestia. Lo alcanzado: como dragón —el que dio a la primera su poder, su trono y gran autoridad. Cuernos como de cordero; voz como de dragón.
 
 ### Apocalipsis 13:12:8 — *y ejerce toda la autoridad de la primera bestia delante de ella*
 
-* Actores principales: *otra bestia* (1)
-  > Sigue <u>otra</u> bestia, uno. Ya no solo habla como dragón. Ahora ejerce. Primera vez que el texto llama a la del mar: la primera bestia.
+> Sigue <u>otra</u> bestia. Ya no solo habla como dragón. Ahora ejerce. Primera vez que el texto llama a la del mar: la primera bestia.
 
 #### *y ejerce toda la autoridad de la primera bestia delante de ella*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y hablaba como dragón*).
   > Ese <u>y</u> no suma otra voz. Tras hablaba: ejerce.
 
 * *otra bestia* → *ejerce* → *toda la autoridad de la primera bestia delante de ella*
-  > Quien ejerce es <u>otra</u> bestia. Lo alcanzado: toda la autoridad de la primera bestia. Delante de ella —de la primera. El dragón se la dio; también le fue dada (Apocalipsis 13:2; Apocalipsis 13:5). Aquí la otra la ejerce, toda.
+  > Quien ejerce es <u>otra</u> bestia. Lo alcanzado: toda la autoridad de la primera bestia. Delante de ella —de la primera. El dragón se la dio; también le fue dada. Aquí la otra la ejerce, toda.
 
 ### Apocalipsis 13:12:12 — *y hace que la tierra y los que habitan en ella*
 
-* Actores principales: *cuya herida mortal* (1) · *la tierra y los que habitan en ella* (1) · *otra bestia* (1)
-  > El recuento pone a <u>otra</u> bestia, a la tierra y los que habitan, y a cuya herida mortal. Ella hace; ellos adoren; la herida ya fue sanada.
+> Pone a <u>otra</u> bestia, a la tierra y los que habitan, y a cuya herida mortal. Ella hace; ellos adoren; la herida ya fue sanada.
 
 #### *y hace que la tierra y los que habitan en ella*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y ejerce toda la autoridad de la primera bestia delante de ella*).
@@ -8074,61 +7813,59 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 + *los que*
   * ↳ *habitan* (κατοικοῦντας)[^P]
-  > No cuelga de ella. Son los que <u>habitan</u> en ella —en la tierra. Los mismos de Apocalipsis 13:8.
+  > Son los que <u>habitan</u> en ella —en la tierra. Los mismos que adorarán a la bestia: cuyos nombres no están escritos.
 
 - *adoren a la primera bestia*
   * *que* (ἵνα)[^hina]
   > Ese <u>que</u> no abre otro hace. Trae el para qué de hace: que adoren a la primera bestia.
 
   * *la tierra y los que habitan en ella* → *adoren* → *a la primera bestia*
-  > Quienes adoren son <u>la</u> tierra y los que habitan en ella. Lo alcanzado: a la primera bestia. En Apocalipsis 13:4 ya la adoraron. Aquí la otra hace que adoren.
+  > Quienes adoren son <u>la</u> tierra y los que habitan en ella. Lo alcanzado: a la primera bestia. Antes ya la adoraron. Aquí la otra hace que adoren.
 
   - *cuya herida mortal fue sanada*
 
     + *la primera bestia*
       * *cuya* (οὗ)[^rel]: describe a *la primera bestia*.
-      > Ese <u>cuya</u> no abre otra. Nombra cuál: la de la herida sanada (Apocalipsis 13:3).
+      > Ese <u>cuya</u> no abre otra. Nombra cuál: la de la herida sanada.
 
     * *cuya herida mortal* → *fue sanada*
     > Quien fue sanada es <u>cuya</u> herida mortal. La misma. El texto no dice aquí otra vez quién la sanó.
 
 ### Apocalipsis 13:13:2 — *Y hace grandes señales*
 
-* Actores principales: *fuego* (1) · *otra bestia* (1)
-  > El recuento pone a <u>otra</u> bestia y a fuego. Ya hace que adoren. Ahora hace señales; el fuego baja.
+> Pone a <u>otra</u> bestia y a fuego. Ya hace que adoren. Ahora hace señales; el fuego baja.
 
 #### *Y hace grandes señales*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*adoren a la primera bestia*).
   > Ese <u>Y</u> no suma otro adoren. Tras hace que adoren: hace grandes señales.
 
 * *otra bestia* → *hace* → *grandes señales*
-  > Quien hace es <u>otra</u> bestia. Lo alcanzado: grandes señales. En el cielo hubo una gran señal y otra (Apocalipsis 12:1; Apocalipsis 12:3). Aquí ella las hace. Hasta dónde, anidado.
+  > Quien hace es <u>otra</u> bestia. Lo alcanzado: grandes señales. En el cielo hubo una gran señal y otra. Aquí ella las hace. Hasta dónde, anidado.
 
 - *hasta hacer que fuego baje del cielo a la tierra delante de la gente*
   * *hasta* (ἵνα)[^hina]
   > Ese <u>hasta</u> no abre otro hace. Trae hasta dónde llegan las señales: que fuego baje del cielo a la tierra, delante de la gente.
 
   * *fuego* → *hacer que baje* → *del cielo a la tierra delante de la gente*
-  > Quien baje es <u>fuego</u>. Del cielo a la tierra. Delante de la gente. De la boca de los dos testigos salió fuego (Apocalipsis 11:5). Aquí: del cielo.
+  > Quien baje es <u>fuego</u>. Del cielo a la tierra. Delante de la gente. De la boca de los dos testigos salió fuego. Aquí: del cielo.
 
   * ↳ *bajar* (καταβαίνειν)[^I]
-  > No cuelga de cielo. Completa a hacer que: que el fuego <u>baje</u>.
+  > Que el fuego <u>baje</u>.
 
 ### Apocalipsis 13:14:2 — *y engaña a los que habitan sobre la tierra*
 
-* Actores principales: *la bestia* (1) · *le* (1) · *otra bestia* (1) · *que la herida* (1)
-  > El recuento pone a <u>otra</u> bestia, a le, a la bestia y a que la herida. Ella engaña; se le dio hacer; la primera tiene la herida y vivió.
+> Pone a <u>otra</u> bestia, a le, a la bestia y a que la herida. Ella engaña; se le dio hacer; la primera tiene la herida y vivió.
 
 #### *y engaña a los que habitan sobre la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*hasta hacer que fuego baje del cielo a la tierra delante de la gente*).
   > Ese <u>y</u> no suma otro fuego. Tras las grandes señales: engaña.
 
 * *otra bestia* → *engaña* → *a los que habitan sobre la tierra*
-  > Quien engaña es <u>otra</u> bestia. Lo alcanzado: a los que habitan sobre la tierra. El dragón engaña a todo el mundo (Apocalipsis 12:9). Aquí: ella, a los de la tierra. Por medio de qué, anidado.
+  > Quien engaña es <u>otra</u> bestia. Lo alcanzado: a los que habitan sobre la tierra. El dragón engaña a todo el mundo. Aquí: ella, a los de la tierra. Por medio de qué, anidado.
 
 + *los que*
   * ↳ *habitan* (κατοικοῦντας)[^P]
-  > No cuelga de engaña. Son los que <u>habitan</u> sobre la tierra.
+  > Son los que <u>habitan</u> sobre la tierra.
 
 - *por medio de las señales que le fue dado hacer delante de la bestia*
 
@@ -8137,33 +7874,32 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
     > Ese <u>que</u> no abre otras. Nombra cuáles: las que le fue dado hacer delante de la bestia.
 
   * ↳ *hacer* (ποιῆσαι)[^I]
-  > Completa a fue <u>dado</u>: le fue dado hacer. Delante de la bestia —de la primera. El texto no dice aquí quién lo dio.
+  > Le fue <u>dado</u> hacer. Delante de la bestia —de la primera. El texto no dice aquí quién lo dio.
 
 + *diciendo a los que habitan sobre la tierra que hagan una imagen para la bestia*
   * ↳ *diciendo* (λέγων)[^P]
-  > No queda muda. Está <u>diciendo</u> a los que habitan sobre la tierra que hagan una imagen para la bestia. Primera imagen.
+  > Está <u>diciendo</u> a los que habitan sobre la tierra que hagan una imagen para la bestia. Primera imagen.
 
   + *los que*
     * ↳ *habitan* (κατοικοῦσιν)[^P]
     > Otra vez: los que <u>habitan</u> sobre la tierra. Los mismos a quienes engaña.
 
   * ↳ *hacer* (ποιῆσαι)[^I]
-  > No completa a tiene. Completa a diciendo: que <u>hagan</u> una imagen.
+  > Que <u>hagan</u> una imagen.
 
 - *que tiene la herida de la espada*
 
   + *la bestia*
     * *que* (ὃς)[^rel]: describe a *la bestia*.
-    > Ese <u>que</u> no abre otra bestia. Nombra para quién es la imagen: la que tiene la herida de la espada. En Apocalipsis 13:3: como degollada hasta la muerte. Aquí: herida de la espada.
+    > Ese <u>que</u> no abre otra bestia. Nombra para quién es la imagen: la que tiene la herida de la espada. Antes: como degollada hasta la muerte. Aquí: herida de la espada.
 
 - *y vivió*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*que tiene la herida de la espada*).
-  > Ese <u>y</u> no abre otro que. Sigue el mismo: tiene la herida, y vivió. La herida mortal fue sanada (Apocalipsis 13:3). Aquí: vivió.
+  > Ese <u>y</u> no abre otro que. Sigue el mismo: tiene la herida, y vivió. La herida mortal fue sanada. Aquí: vivió.
 
 ### Apocalipsis 13:15:2 — *Y le fue dado dar aliento a la imagen de la bestia*
 
-* Actores principales: *la imagen de la bestia* (2) · *todos los que* (2) · *le* (1)
-  > El recuento pone a <u>le</u>, a la imagen —dos— y a todos los que —dos—. Se le da; la imagen hable y haga; los que no adoren sean matados.
+> Pone a <u>le</u>, a la imagen —dos— y a todos los que —dos—. Se le da; la imagen hable y haga; los que no adoren sean matados.
 
 #### *Y le fue dado dar aliento a la imagen de la bestia*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y vivió*).
@@ -8173,7 +7909,7 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   > A quien fue dado es <u>le</u> —otra bestia. Lo alcanzado: dar aliento a la imagen de la bestia. El texto no dice aquí quién lo dio. Para qué, dos, anidados.
 
   * ↳ *dar* (δοῦναι)[^I]
-  > Completa a fue <u>dado</u>: dar aliento.
+  > <u>Dar</u> aliento.
 
 - *para que también hable la imagen de la bestia*
   * *para que* (ἵνα)[^hina]
@@ -8192,7 +7928,7 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   - *la imagen de la bestia*
 
   * *todos los que* → *adoren* → *la imagen de la bestia*
-  > Quienes no adoren son <u>todos</u> los que. Lo alcanzado: la imagen de la bestia. En Apocalipsis 13:12 la otra hace que adoren a la primera. Aquí: a la imagen. El no es la condición.
+  > Quienes no adoren son <u>todos</u> los que. Lo alcanzado: la imagen de la bestia. Antes la otra hace que adoren a la primera. Aquí: a la imagen. El no es la condición.
 
   - *sean matados*
 
@@ -8201,22 +7937,21 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 ### Apocalipsis 13:16:2 — *Y hace que todos, los pequeños y los grandes y los ricos y los pobres, y los libres y los siervos*
 
-* Actores principales: *nadie* (1) · *otra bestia* (1) · *todos, los pequeños y los grandes y los ricos y los pobres, y los libres y los siervos* (1)
-  > El recuento pone a <u>otra</u> bestia, a todos —tres pares— y a nadie. Ella hace; todos reciban; nadie pueda, sino el que tiene.
+> Pone a <u>otra</u> bestia, a todos —tres pares— y a nadie. Ella hace; todos reciban; nadie pueda, sino el que tiene.
 
 #### *Y hace que todos, los pequeños y los grandes y los ricos y los pobres, y los libres y los siervos*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*sean matados*).
   > Ese <u>Y</u> no suma otro sean matados. Tras la imagen: hace que todos.
 
 * *otra bestia* → *hace* → *que todos, los pequeños y los grandes y los ricos y los pobres, y los libres y los siervos*
-  > Quien hace es <u>otra</u> bestia. Lo alcanzado: que todos. Tres pares: pequeños y grandes, ricos y pobres, libres y siervos. En Apocalipsis 11:18 la recompensa era a pequeños y grandes. Aquí: todos esos. Qué reciban, y qué nadie pueda, anidados.
+  > Quien hace es <u>otra</u> bestia. Lo alcanzado: que todos. Tres pares: pequeños y grandes, ricos y pobres, libres y siervos. La recompensa era a pequeños y grandes. Aquí: todos esos. Qué reciban, y qué nadie pueda, anidados.
 
 - *reciban una marca en su mano derecha o en sus frentes*
   * *reciban* (ἵνα)[^hina]
   > Ese <u>reciban</u> no abre otro hace. Primer para qué: que reciban una marca en su mano derecha o en sus frentes.
 
   * *todos, los pequeños y los grandes y los ricos y los pobres, y los libres y los siervos* → *reciban* → *una marca en su mano derecha o en sus frentes*
-  > Quienes reciban son <u>todos</u> esos. Lo alcanzado: una marca. En la mano derecha o en las frentes. En Apocalipsis 7:3 se sella a los siervos en las frentes. Aquí: una marca, y también la mano. El texto no iguala las dos.
+  > Quienes reciban son <u>todos</u> esos. Lo alcanzado: una marca. En la mano derecha o en las frentes. Se sella a los siervos en las frentes. Aquí: una marca, y también la mano. El texto no iguala las dos.
 
 - *y que nadie pueda comprar ni vender*
   * *que* (ἵνα)[^hina]
@@ -8227,30 +7962,28 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
   * ↳ *comprar* (ἀγοράσαι)[^I]
   * ↳ *vender* (πωλῆσαι)[^I]
-  > Los dos completan a <u>pueda</u>: comprar ni vender.
+  > <u>Comprar</u> ni vender.
 
 + *sino el que tiene la marca, o el nombre de la bestia o el número de su nombre*
   > No todos quedan fuera. <u>Sino</u> el que tiene: la marca, o el nombre de la bestia, o el número de su nombre. Tres. El número, todavía no se dice cuál.
 
 + *el que*
   * ↳ *tiene* (ἔχων)[^P]
-  > No cuelga de el. Es el que <u>tiene</u>.
+  > Es el que <u>tiene</u>.
 
 ### Apocalipsis 13:18:4 — *Aquí está la sabiduría*
 
-* Actores principales: *la sabiduría* (1)
-  > El recuento ya no es nadie ni todos. Quien ocupa la línea es <u>la</u> sabiduría, uno. Tras la marca, el nombre y el número: Aquí está.
+> Ya no es nadie ni todos. Quien ocupa la línea es <u>la</u> sabiduría. Tras la marca, el nombre y el número: Aquí está.
 
 #### *Aquí está la sabiduría*
-  > En Apocalipsis 13:10: Aquí está la perseverancia y la fe de los santos. Aquí: <u>la</u> sabiduría.
+  > Antes: Aquí está la perseverancia y la fe de los santos. Aquí: <u>la</u> sabiduría.
 
 * *la sabiduría* → *está* → *Aquí*
   > Quien está es <u>la</u> sabiduría. Aquí —tras el sino del que tiene la marca, o el nombre, o el número. El texto no dice aquí en qué consiste.
 
 ### Apocalipsis 13:18:8 — *entendimiento, calcule el número de la bestia*
 
-* Actores principales: *El que tiene entendimiento* (1) · *número* (1)
-  > El recuento ya no es la sabiduría suelta. Pone a <u>El</u> que tiene entendimiento y a número. Aquí está la sabiduría; ahora se manda calcular.
+> Ya no es la sabiduría suelta. Pone a <u>El</u> que tiene entendimiento y a número. Aquí está la sabiduría; ahora se manda calcular.
 
 + *El que tiene*
 
@@ -8258,11 +7991,11 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
   > No se queda en Aquí está. Manda: el que tiene entendimiento, <u>calcule</u> el número de la bestia.
 
 * *El que tiene entendimiento* → *calcule* → *el número de la bestia*
-  > A quien se manda es <u>El</u> que tiene entendimiento. Lo alcanzado: el número de la bestia. El que tiene la marca, o el nombre, o el número (Apocalipsis 13:17). Aquí: calcule ese número.
+  > A quien se manda es <u>El</u> que tiene entendimiento. Lo alcanzado: el número de la bestia. El que tiene la marca, o el nombre, o el número. Aquí: calcule ese número.
 
 + *El que*
   * ↳ *tiene* (ἔχων)[^P]
-  > No cuelga suelto. Es el que <u>tiene</u> entendimiento.
+  > Es el que <u>tiene</u> entendimiento.
 
 - *pues es número de un hombre*
   * *número* (γὰρ)[^gar]
@@ -8273,8 +8006,7 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 ### Apocalipsis 13:18:21 — *y su número es seiscientos sesenta y seis*
 
-* Actores principales: *su número* (1)
-  > El recuento ya no es El que tiene entendimiento. Quien ocupa la línea es <u>su</u> número, uno. Mandó calcular; ahora se nombra.
+> Ya no es El que tiene entendimiento. Quien ocupa la línea es <u>su</u> número. Mandó calcular; ahora se nombra.
 
 #### *y su número es seiscientos sesenta y seis*
 * *es* (καὶ)[^kai] une esta cláusula con la anterior (*pues es número de un hombre*).
@@ -8288,17 +8020,15 @@ La serpiente lanza un río; la tierra lo traga. El dragón se enfurece contra la
 
 ### En síntesis
 
-El tramo abre con Juan en la arena del mar: del mar sube una bestia de siete cabezas y diez cuernos; el dragón le da su poder, su trono y gran autoridad.
+Juan en la arena del mar: sube una bestia; el dragón le da *su poder, su trono y gran autoridad*.
 
-Una cabeza como degollada; la herida mortal es sanada; toda la tierra se maravilla, adora al dragón y a la bestia, y pregunta quién es semejante y quién puede combatir.
+Una cabeza *como degollada*; la herida mortal *fue sanada*; toda la tierra se maravilla, adora al dragón y a la bestia, y pregunta *quién es semejante* y *quién puede combatir*.
 
-Se le da boca y autoridad cuarenta y dos meses; blasfema; se le da hacer guerra contra los santos y vencerlos, y autoridad sobre toda tribu, lengua y nación. Los que habitan sobre la tierra, cuyos nombres no están en el libro de la vida del cordero, la adorarán. Si alguien tiene oído, que escuche; cautiverio y espada. Aquí está la perseverancia y la fe de los santos.
+Se le da boca y autoridad *cuarenta y dos meses*; blasfema; se le da *hacer guerra contra los santos y vencerlos*. *Aquí está la perseverancia y la fe de los santos*.
 
-Otra bestia sube de la tierra: cuernos como de cordero, habla como dragón. Ejerce toda la autoridad de la primera; hace que adoren a la de la herida sanada; hace grandes señales, engaña, y que hagan una imagen. Se le da aliento a la imagen; los que no la adoren sean matados.
+*Otra bestia* sube de la tierra: cuernos *semejantes a los de un cordero*, *hablaba como dragón*. Hace que adoren a la primera; *grandes señales*; engaña; imagen con aliento; marca —*nadie* compra ni vende sino el que tiene.
 
-Hace que todos —pequeños y grandes, ricos y pobres, libres y siervos— reciban una marca en la mano derecha o en las frentes; nadie compra ni vende sino el que tiene la marca, o el nombre, o el número.
-
-Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la bestia; es número de un hombre, y su número es seiscientos sesenta y seis.
+*Aquí está la sabiduría*: calcule el número; *es número de un hombre*, y *su número es seiscientos sesenta y seis*.
 
 ## Apocalipsis 14:1–20 El cordero en Sion
 
@@ -8341,8 +8071,7 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:1:2 — El cordero en el monte Sion
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El número de la bestia quedó nombrado. Ahora Juan ve otra vez.
+> Vuelve <u>Yo</u>, Juan. El número de la bestia quedó nombrado. Ahora Juan ve otra vez.
 
 #### *Y vi, y he aquí: un cordero de pie sobre el monte Sion, y con él ciento cuarenta y cuatro mil, que tenían escrito sobre sus frentes el nombre de su Padre*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y su número es seiscientos sesenta y seis*).
@@ -8353,23 +8082,22 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 + *cordero*
   * ↳ *de pie* (ἑστὸς)[^P]
-  > No cuelga de sobre. El <u>cordero</u> está de pie. En Apocalipsis 5:6: de pie como sacrificado, en medio del trono. Aquí: de pie sobre el monte Sion.
+  > El <u>cordero</u> está de pie. Antes: de pie como sacrificado, en medio del trono. Aquí: de pie sobre el monte Sion.
 
 + *cuatro mil*
   * ↳ *tenían* (ἔχουσαι)[^P]
-  > No cuelga de nombre. Los ciento cuarenta y cuatro <u>mil</u> tenían escrito sobre sus frentes el nombre de su Padre. En Apocalipsis 7:4 Juan oyó ese número, sellados de toda tribu de los hijos de Israel. En Apocalipsis 13:16 la marca iba en la mano derecha o en las frentes. Aquí: el nombre de su Padre. El texto no iguala aquí los dos grupos.
+  > Los ciento cuarenta y cuatro <u>mil</u> tenían escrito sobre sus frentes el nombre de su Padre. Juan oyó ese número, sellados de toda tribu de los hijos de Israel. La marca iba en la mano derecha o en las frentes. Aquí: el nombre de su Padre. El texto no iguala aquí los dos grupos.
 
 ### Apocalipsis 14:2:2 — *Y oí una voz del cielo como sonido de muchas aguas y como sonido de un gran trueno*
 
-* Actores principales: *Yo, Juan* (2)
-  > Sigue <u>Yo</u>, Juan —dos en esta línea. Ya no solo ve. Ahora oye, dos veces.
+> Sigue <u>Yo</u>, Juan —dos en esta línea. Ya no solo ve. Ahora oye, dos veces.
 
 #### *Y oí una voz del cielo como sonido de muchas aguas y como sonido de un gran trueno*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vi, y he aquí: un cordero de pie sobre el monte Sion…*).
   > Ese <u>Y</u> no suma otro vi. Tras el cordero y los mil: Juan oye.
 
 * *Yo, Juan* → *oí* → *una voz del cielo como sonido de muchas aguas y como sonido de un gran trueno*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz del cielo. Como sonido de muchas aguas —la voz de aquel alguien (Apocalipsis 1:15)— y como sonido de un gran trueno. Qué voz, anidado.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz del cielo. Como sonido de muchas aguas —la voz de aquel alguien— y como sonido de un gran trueno. Qué voz, anidado.
 
 - *y oí una voz de arpistas que tocaban sus arpas*
 
@@ -8379,24 +8107,22 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 + *arpistas*
   * ↳ *tocaban* (κιθαριζόντων)[^P]
-  > No cuelga de arpas. Los <u>arpistas</u> están tocando. En Apocalipsis 5:8 los ancianos tenían arpas. Aquí: arpistas.
+  > Los <u>arpistas</u> están tocando. Los ancianos tenían arpas. Aquí: arpistas.
 
 ### Apocalipsis 14:3:2 — *y cantan como un cántico nuevo delante del trono y delante de los cuatro seres vivientes y de los ancianos*
 
-* Actores principales: *ciento cuarenta y cuatro mil* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>ciento</u> cuarenta y cuatro mil, uno. Juan oía arpistas; el recuento pone a estos cantando.
+> Ya no es Juan. Quienes ocupan la línea son <u>ciento</u> cuarenta y cuatro mil. Juan oía arpistas; el texto pone a estos cantando.
 
 #### *y cantan como un cántico nuevo delante del trono y delante de los cuatro seres vivientes y de los ancianos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y oí una voz de arpistas que tocaban sus arpas*).
   > Ese <u>y</u> no suma otra voz suelta. Tras los arpistas: cantan.
 
 * *ciento cuarenta y cuatro mil* → *cantan* → *un cántico nuevo*
-  > Quienes cantan son <u>ciento</u> cuarenta y cuatro mil. Lo alcanzado: un cántico nuevo. Como un cántico nuevo —no dice aquí las palabras. Delante del trono, y delante de los cuatro seres vivientes y de los ancianos. En Apocalipsis 5:9 aquellos cantaban un cántico nuevo. Aquí están delante; estos cantan.
+  > Quienes cantan son <u>ciento</u> cuarenta y cuatro mil. Lo alcanzado: un cántico nuevo. Como un cántico nuevo —no dice aquí las palabras. Delante del trono, y delante de los cuatro seres vivientes y de los ancianos. Antes aquellos cantaban un cántico nuevo. Aquí están delante; estos cantan.
 
 ### Apocalipsis 14:3:19 — *y nadie podía aprender el cántico sino los ciento cuarenta y cuatro mil, los comprados de la tierra*
 
-* Actores principales: *podía* (1)
-  > El recuento ya no es los mil cantando. Quien ocupa la línea es <u>podía</u>, uno. Cantan; nadie más puede aprender.
+> Ya no son los mil cantando. Quien ocupa la línea es <u>podía</u>. Cantan; nadie más puede aprender.
 
 #### *y nadie podía aprender el cántico sino los ciento cuarenta y cuatro mil, los comprados de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y cantan como un cántico nuevo…*).
@@ -8406,16 +8132,15 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
   > Quien no podía es nadie. Lo alcanzado: aprender el cántico. Sino los ciento cuarenta y cuatro mil. Ellos cantan; solo ellos pueden aprenderlo.
 
   * ↳ *aprender* (μαθεῖν)[^I]
-  > Completa a <u>podía</u>: podía aprender.
+  > <u>Podía</u> aprender.
 
 + *cuatro mil*
   * ↳ *comprados* (ἠγορασμένοι)[^P]
-  > No cuelga de los. Describe a los mil: los <u>comprados</u> de la tierra. En Apocalipsis 5:9 el cordero compró con su sangre de toda tribu, lengua, pueblo y nación. Aquí: comprados de la tierra.
+  > Describe a los mil: los <u>comprados</u> de la tierra. El cordero compró con su sangre de toda tribu, lengua, pueblo y nación. Aquí: comprados de la tierra.
 
 ### Apocalipsis 14:4:2 — *Estos son*
 
-* Actores principales: *Estos* (2) · *cordero adondequiera* (1) · *los que* (1)
-  > El recuento pone a <u>Estos</u>, dos, a los que, y a cordero adondequiera. Estos son los mil. El texto los nombra otra vez: quiénes son.
+> Pone a <u>Estos</u>, dos, a los que, y a cordero adondequiera. Estos son los mil. El texto los nombra otra vez: quiénes son.
 
 #### *Estos son*
   > No deja el cántico suelto. <u>Estos</u> son —los ciento cuarenta y cuatro mil, los comprados.
@@ -8437,144 +8162,136 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
   > Ese <u>pues</u> no abre otro son. Da la razón de Estos son: pues son vírgenes.
 
   * *Estos* → *vírgenes* → *estos*
-  > Quienes son vírgenes son los mismos <u>Estos</u>. El recuento lo repite: estos.
+  > Quienes son vírgenes son los mismos <u>Estos</u>. El texto lo repite: estos.
 
 + *son los que siguen al cordero adondequiera que*
   > Otra vez: son. No solo no se contaminaron. <u>Siguen</u> al cordero adondequiera que va.
 
 - *va*
-  > Adondequiera que <u>va</u> el cordero, estos siguen. El recuento pone al cordero en esa línea.
+  > Adondequiera que <u>va</u> el cordero, estos siguen.
 
 ### Apocalipsis 14:4:20 — *de entre los hombres como primicias para Dios y para el cordero*
 
-* Actores principales: *de* (1)
-  > El recuento ya no es Estos suelto. Quien ocupa la línea es <u>de</u>, uno: de entre los hombres. Siguen al cordero; fueron comprados.
+> Ya no es Estos suelto. Quien ocupa la línea es <u>de</u>: de entre los hombres. Siguen al cordero; fueron comprados.
 
 + *estos fueron*
   > Siguen siendo <u>estos</u>. Fueron —comprados.
 
 #### *de entre los hombres como primicias para Dios y para el cordero*
-  > No solo de la tierra (Apocalipsis 14:3). <u>De</u> entre los hombres, como primicias para Dios y para el cordero. Primera vez que se nombran primicias.
+  > No solo de la tierra. <u>De</u> entre los hombres, como primicias para Dios y para el cordero. Primera vez que se nombran primicias.
 
 * *de* → *entre los*
   > De dónde: <u>de</u> entre los hombres. Como primicias. Para Dios y para el cordero —los dos.
 
 + *comprados*
-  > En Apocalipsis 5:9: nos compraste. En Apocalipsis 14:3: los comprados de la tierra. Aquí: <u>comprados</u> de entre los hombres.
+  > Antes: *nos compraste*. Los comprados de la tierra. Aquí: <u>comprados</u> de entre los hombres.
 
 ### Apocalipsis 14:5:7 — *y en su boca no fue hallado engaño*
 
-* Actores principales: *engaño* (1) · *Estos* (1)
-  > El recuento pone a <u>engaño</u> y a Estos. Fueron comprados como primicias; ahora: la boca.
+> Pone a <u>engaño</u> y a Estos. Fueron comprados como primicias; ahora: la boca.
 
 #### *y en su boca no fue hallado engaño*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*de entre los hombres como primicias para Dios y para el cordero*).
   > Ese <u>y</u> no suma otras primicias. Tras fueron comprados: no fue hallado engaño.
 
 * *engaño* → *no fue hallado*
-  > Quien no fue hallado es <u>engaño</u>. En su boca —la de Estos. La bestia abrió la boca para blasfemia (Apocalipsis 13:6). Aquí: en la de ellos no se halló engaño.
+  > Quien no fue hallado es <u>engaño</u>. En su boca —la de Estos. La bestia abrió la boca para blasfemia. Aquí: en la de ellos no se halló engaño.
 
 - *pues son intachables delante del trono de Dios*
   * *pues* (γάρ)[^gar]
   > Ese <u>pues</u> no abre otro no fue hallado. Da la razón: pues son intachables delante del trono de Dios.
 
   * *Estos* → *intachables*
-  > Quienes son intachables son <u>Estos</u>. Delante del trono de Dios —donde cantaron (Apocalipsis 14:3).
+  > Quienes son intachables son <u>Estos</u>. Delante del trono de Dios —donde cantaron.
 
 ### Apocalipsis 14:6:2 — *Y vi otro ángel que volaba en medio del cielo, teniendo evangelio eterno para anunciar a los que habitan sobre la tierra, y a toda nación, tribu, lengua y pueblo diciendo con gran voz*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Estos eran intachables. Ahora Juan ve otro ángel.
+> Vuelve <u>Yo</u>, Juan. Estos eran intachables. Ahora Juan ve otro ángel.
 
 #### *Y vi otro ángel que volaba en medio del cielo, teniendo evangelio eterno para anunciar a los que habitan sobre la tierra, y a toda nación, tribu, lengua y pueblo diciendo con gran voz*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*pues son intachables delante del trono de Dios*).
   > Ese <u>Y</u> no suma otros intachables. Tras la boca de Estos: Juan vio otro ángel.
 
 * *Yo, Juan* → *vi* → *otro ángel*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otro ángel. En Apocalipsis 8:13 uno volaba en medio del cielo diciendo Ay. Aquí: otro, también en medio del cielo.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otro ángel. Antes uno volaba en medio del cielo diciendo *Ay*. Aquí: otro, también en medio del cielo.
 
 + *ángel*
   * ↳ *volaba* (πετόμενον)[^P]
   * ↳ *teniendo* (ἔχοντα)[^P]
-  > No cuelga de otro. El <u>ángel</u> volaba, teniendo evangelio eterno. Primera vez que se nombra evangelio.
+  > El <u>ángel</u> volaba, teniendo evangelio eterno. Primera vez que se nombra evangelio.
 
   * ↳ *anunciar* (εὐαγγελίσαι)[^I]
-  > No completa a vi. Completa a teniendo: para <u>anunciar</u> a los que habitan sobre la tierra, y a toda nación, tribu, lengua y pueblo. En Apocalipsis 13:7 se le dio autoridad sobre toda tribu, lengua y nación. Aquí se anuncia a esos.
+  > Para <u>anunciar</u> a los que habitan sobre la tierra, y a toda nación, tribu, lengua y pueblo. Se le dio autoridad sobre toda tribu, lengua y nación. Aquí se anuncia a esos.
 
   * ↳ *habitan* (καθημένους)[^P]
-  > No cuelga de tierra ni de vi. Está <u>con</u> el anunciar: a los que habitan sobre la tierra.
+  > A los que <u>habitan</u> sobre la tierra.
 
 ### Apocalipsis 14:7:5 — *Teman a Dios*
 
-* Actores principales: *los que habitan sobre la tierra* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>los</u> que habitan sobre la tierra, uno. El ángel anuncia; esto se manda.
+> Ya no es Juan. Quienes ocupan la línea son <u>los</u> que habitan sobre la tierra. El ángel anuncia; esto se manda.
 
 #### *Teman a Dios*
   > Eso es la gran voz. No se narra. Se manda: <u>Teman</u> a Dios.
 
 * *los que habitan sobre la tierra* → *Teman* → *a Dios*
-  > A quienes se manda son <u>los</u> que habitan sobre la tierra —a quienes se anuncia el evangelio eterno. Lo alcanzado: a Dios. En Apocalipsis 13:4 adoraron al dragón y a la bestia. Aquí: teman a Dios.
+  > A quienes se manda son <u>los</u> que habitan sobre la tierra —a quienes se anuncia el evangelio eterno. Lo alcanzado: a Dios. Antes adoraron al dragón y a la bestia. Aquí: teman a Dios.
 
 ### Apocalipsis 14:7:9 — *y denle gloria*
 
-* Actores principales: *de su juicio, y adoren* (1) · *los que habitan sobre la tierra* (1)
-  > El recuento pone a <u>los</u> que habitan y a de su juicio, y adoren. Sigue la gran voz. Teman; ahora denle gloria. El recuento ya trae la hora y el adoren.
+> Pone a <u>los</u> que habitan y a de su juicio, y adoren. Sigue la gran voz. Teman; ahora denle gloria. Ya trae la hora y el adoren.
 
 #### *y denle gloria*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Teman a Dios*).
   > Ese <u>y</u> no suma otro teman. Tras teman: denle gloria.
 
 * *los que habitan sobre la tierra* → *gloria* → *porque*
-  > A quienes se manda son los mismos. Lo alcanzado: <u>gloria</u>. En Apocalipsis 11:13 los demás dieron gloria al Dios del cielo. Aquí se manda. Por qué, anidado.
+  > A quienes se manda son los mismos. Lo alcanzado: <u>gloria</u>. Antes los demás dieron gloria al Dios del cielo. Aquí se manda. Por qué, anidado.
 
 - *porque ha llegado la hora de su juicio*
   * *porque* (ὅτι)[^hoti]
   > Ese <u>porque</u> no abre otro denle. Da por qué denle gloria: ha llegado la hora de su juicio.
 
   * *de su juicio, y adoren* → *la hora*
-  > Quien ha llegado es <u>la</u> hora —de su juicio. El recuento pega adoren a esa línea. En Apocalipsis 11:18 vino el tiempo de juzgar. Aquí: la hora.
+  > Quien ha llegado es <u>la</u> hora —de su juicio. El texto pega adoren a esa línea. Antes vino el tiempo de juzgar. Aquí: la hora.
 
 ### Apocalipsis 14:7:20 — *y adoren al que hizo el cielo, la tierra, el mar y las fuentes de aguas*
 
-* Actores principales: *los que habitan sobre la tierra* (1)
-  > Siguen <u>los</u> que habitan sobre la tierra, uno. Teman; denle gloria. Ahora: adoren.
+> Siguen <u>los</u> que habitan sobre la tierra. Teman; denle gloria. Ahora: adoren.
 
 #### *y adoren al que hizo el cielo, la tierra, el mar y las fuentes de aguas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*porque ha llegado la hora de su juicio*).
   > Ese <u>y</u> no suma otra hora. Tras ha llegado: adoren.
 
 * *los que habitan sobre la tierra* → *hizo* → *el cielo, la tierra, el mar y las fuentes de aguas*
-  > A quienes se manda son los mismos. La flecha pone <u>hizo</u>: adoren al que hizo el cielo, la tierra, el mar y las fuentes de aguas. En Apocalipsis 10:6: el que creó el cielo y lo que hay en él, la tierra y el mar. Aquí se suman las fuentes. En Apocalipsis 13:4 adoraron al dragón y a la bestia. Aquí: al que hizo.
+  > A quienes se manda son los mismos. Adoren al que <u>hizo</u> el cielo, la tierra, el mar y las fuentes de aguas. Antes: el que creó el cielo y lo que hay en él, la tierra y el mar. Aquí se suman las fuentes. Antes adoraron al dragón y a la bestia. Aquí: al que hizo.
 
   * ↳ *hizo* (ποιήσαντι)[^P]
-  > No cuelga de adoren como dueño. Acompaña: el que hay que adorar es el que <u>hizo</u>.
+  > El que hay que adorar es el que <u>hizo</u>.
 
 ### Apocalipsis 14:8:5 — *Y otro ángel siguió, diciendo*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento ya no es los que habitan. Quien ocupa la línea es <u>otro</u> ángel, uno. Ya hubo uno con evangelio eterno. Este: otro, y sigue.
+> Ya no son los que habitan. Quien ocupa la línea es <u>otro</u> ángel. Ya hubo uno con evangelio eterno. Este: otro, y sigue.
 
 #### *Y otro ángel siguió, diciendo*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y adoren al que hizo el cielo, la tierra, el mar y las fuentes de aguas*).
   > Ese <u>Y</u> no suma otro adoren. Tras la gran voz del primero: otro ángel siguió.
 
 * *otro ángel* → *siguió*
-  > Quien siguió es <u>otro</u> ángel. La flecha se detiene en siguió. Sigue al que volaba en medio del cielo.
+  > Quien siguió es <u>otro</u> ángel. Sigue al que volaba en medio del cielo.
 
 + *ángel*
   * ↳ *diciendo* (λέγων)[^P]
-  > No queda mudo. Está <u>diciendo</u>. Qué, la línea que sigue.
+  > Está <u>diciendo</u>. Qué, la línea que sigue.
 
 ### Apocalipsis 14:8:7 — *Cayó, cayó Babilonia, la ciudad grande*
 
-* Actores principales: *Babilonia* (1) · *porque del vino de la* (1)
-  > El recuento pone a <u>Babilonia</u> y a porque del vino de la. Eso es lo que decía el otro ángel. Primera vez que se nombra Babilonia.
+> Pone a <u>Babilonia</u> y a porque del vino de la. Eso es lo que decía el otro ángel. Primera vez que se nombra Babilonia.
 
 #### *Cayó, cayó Babilonia, la ciudad grande*
   > No se manda teman. Se anuncia: <u>Cayó</u>, cayó. Dos veces. Babilonia, la ciudad grande. El texto no dice aquí qué ciudad es.
 
 * *Babilonia* → *Cayó, cayó*
-  > Quien cayó es <u>Babilonia</u>. La flecha pone el verbo dos veces. La ciudad grande. Por qué, anidado.
+  > Quien cayó es <u>Babilonia</u>. Cayó, cayó —dos veces. La ciudad grande. Por qué, anidado.
 
 - *porque del vino de la furia de su prostitución ha dado de beber a todas las naciones*
   * *grande,* (ἣ)[^rel]
@@ -8585,8 +8302,7 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:9:5 — *Y un tercer ángel los siguió, diciendo con gran voz*
 
-* Actores principales: *alguien* (1) · *un tercer ángel* (1)
-  > El recuento pone a <u>un</u> tercer ángel y a alguien. Ya siguieron dos. Este: tercero, y dice con gran voz.
+> Pone a <u>un</u> tercer ángel y a alguien. Ya siguieron dos. Este: tercero, y dice con gran voz.
 
 #### *Y un tercer ángel los siguió, diciendo con gran voz*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Cayó, cayó Babilonia, la ciudad grande*).
@@ -8597,50 +8313,47 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 + *ángel*
   * ↳ *diciendo* (λέγων)[^P]
-  > No cuelga de con. El ángel está <u>diciendo</u>. Qué, el Si.
+  > El ángel está <u>diciendo</u>. Qué, el Si.
 
 - *Si alguien adora a la bestia y a su imagen, y recibe una marca en su frente o en su mano*
   * *Si* (Εἴ)[^ei]
   > Ese <u>Si</u> no afirma que alguien adore. Pone el caso. No es un que de contenido.
 
   * *alguien* → *adora* → *a la bestia y a su imagen*
-  > Quien adore es <u>alguien</u>. Lo alcanzado: a la bestia y a su imagen. En Apocalipsis 13:4 y Apocalipsis 13:15: adoraron a la bestia y a la imagen. Y recibe una marca en su frente o en su mano —Apocalipsis 13:16. El caso junta las dos.
+  > Quien adore es <u>alguien</u>. Lo alcanzado: a la bestia y a su imagen. Antes adoraron a la bestia y a la imagen. Y recibe una marca en su frente o en su mano. El caso junta las dos.
 
 ### Apocalipsis 14:10:3 — *también él beberá del vino de la furia de Dios, preparado sin mezcla en la copa de su ira, y será*
 
-* Actores principales: *él* (2)
-  > El recuento ya no es el tercer ángel. Quien ocupa la línea es <u>él</u>, dos: beberá y será. El Si quedó abierto; esto sigue si alguien adora y recibe.
+> Ya no es el tercer ángel. Quien ocupa la línea es <u>él</u>, dos: beberá y será. El Si quedó abierto; esto sigue si alguien adora y recibe.
 
 #### *también él beberá del vino de la furia de Dios, preparado sin mezcla en la copa de su ira, y será*
 * *también* (καὶ)[^kai] une esta cláusula con la anterior (*Si alguien adora a la bestia y a su imagen…*).
   > Ese <u>también</u> no suma otro Si. Tras el caso: también él beberá.
 
 * *él* → *beberá*
-  > Quien beberá es <u>él</u> —ese alguien. Del vino de la furia de Dios, sin mezcla, en la copa de su ira. Babilonia dio de beber el vino de la furia de su prostitución (Apocalipsis 14:8). Aquí: el vino de la furia de Dios.
+  > Quien beberá es <u>él</u> —ese alguien. Del vino de la furia de Dios, sin mezcla, en la copa de su ira. Babilonia dio de beber el vino de la furia de su prostitución. Aquí: el vino de la furia de Dios.
 
 + *vino*
   * ↳ *preparado* (κεκερασμένου)[^P]
-  > No queda suelto. El <u>vino</u> está preparado sin mezcla.
+  > El <u>vino</u> está preparado sin mezcla.
 
 - *atormentado con fuego y azufre delante de los santos ángeles y delante del cordero*
-  > No solo beberá. <u>Será</u> atormentado con fuego y azufre. Delante de los santos ángeles y delante del cordero —el mismo de pie en Sion (Apocalipsis 14:1).
+  > No solo beberá. <u>Será</u> atormentado con fuego y azufre. Delante de los santos ángeles y delante del cordero —el mismo de pie en Sion.
 
 ### Apocalipsis 14:11:10 — *y el humo de su tormento sube por siglos de siglos*
 
-* Actores principales: *el humo de su tormento* (1)
-  > El recuento ya no es él. Quien ocupa la línea es <u>el</u> humo de su tormento, uno. Será atormentado; el humo sube.
+> Ya no es él. Quien ocupa la línea es <u>el</u> humo de su tormento. Será atormentado; el humo sube.
 
 #### *y el humo de su tormento sube por siglos de siglos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*atormentado con fuego y azufre…*).
   > Ese <u>y</u> no suma otro atormentado. Tras el fuego y el azufre: el humo sube.
 
 * *el humo de su tormento* → *sube*
-  > Quien sube es <u>el</u> humo de su tormento. Por siglos de siglos. En Apocalipsis 8:4 el humo de los inciensos subió delante de Dios. Aquí: el de su tormento, y no se detiene.
+  > Quien sube es <u>el</u> humo de su tormento. Por siglos de siglos. El humo de los inciensos subió delante de Dios. Aquí: el de su tormento, y no se detiene.
 
 ### Apocalipsis 14:11:13 — *no tienen descanso día ni noche los que adoran a la bestia y a su imagen*
 
-* Actores principales: *la* (1) · *que adoran a la bestia y a su imagen, y* (1)
-  > El recuento pone a <u>que</u> adoran a la bestia y a su imagen, y a la. El humo sube; estos no tienen descanso.
+> Pone a <u>que</u> adoran a la bestia y a su imagen, y a la. El humo sube; estos no tienen descanso.
 
 + *y*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el humo de su tormento sube por siglos de siglos*).
@@ -8650,74 +8363,70 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
   > Sigue el Si. <u>No</u> tienen descanso día ni noche los que adoran a la bestia y a su imagen.
 
 * *que adoran a la bestia y a su imagen, y* → *tienen descanso* → *día*
-  > Quienes no tienen son <u>que</u> adoran a la bestia y a su imagen. Lo alcanzado: descanso, día ni noche. En Apocalipsis 4:8 los cuatro seres no tienen descanso día ni noche, diciendo Santo. Aquí: los que adoran a la bestia, y no es Santo.
+  > Quienes no tienen son <u>que</u> adoran a la bestia y a su imagen. Lo alcanzado: descanso, día ni noche. Los cuatro seres no tienen descanso día ni noche, diciendo *Santo*. Aquí: los que adoran a la bestia, y no es *Santo*.
 
   * ↳ *adoran* (προσκυνοῦντες)[^P]
-  > No cuelga suelto. Acompaña: los que <u>adoran</u>.
+  > Los que <u>adoran</u>.
 
 + *y si*
 - *alguien recibe la marca de su nombre*
   * *si* (εἴ)[^ei]
-  > Ese <u>si</u> no abre otro no tienen. Suma al caso: si alguien recibe la marca de su nombre. En Apocalipsis 14:9: adora y recibe. Aquí: los que adoran, y si alguien recibe.
+  > Ese <u>si</u> no abre otro no tienen. Suma al caso: si alguien recibe la marca de su nombre. Antes: adora y recibe. Aquí: los que adoran, y si alguien recibe.
 
 ### Apocalipsis 14:12:6 — *Aquí está la perseverancia de los santos; aquí los que guardan los mandamientos de Dios y la fe de Jesús*
 
-* Actores principales: *la perseverancia de los santos* (1)
-  > El recuento ya no es los que adoran a la bestia. Quien ocupa la línea es <u>la</u> perseverancia de los santos, uno. Tras el humo y el no descanso: Aquí está.
+> Ya no son los que adoran a la bestia. Quien ocupa la línea es <u>la</u> perseverancia de los santos. Tras el humo y el no descanso: Aquí está.
 
 #### *Aquí está la perseverancia de los santos; aquí los que guardan los mandamientos de Dios y la fe de Jesús*
-  > En Apocalipsis 13:10: Aquí está la perseverancia y la fe de los santos. En Apocalipsis 13:18: Aquí está la sabiduría. Aquí: <u>la</u> perseverancia de los santos —y otra vez aquí: los que guardan.
+  > Antes: Aquí está la perseverancia y la fe de los santos. También: Aquí está la sabiduría. Aquí: <u>la</u> perseverancia de los santos —y otra vez aquí: los que guardan.
 
 * *la perseverancia de los santos* → *está*
-  > Quien está es <u>la</u> perseverancia de los santos. Los que guardan los mandamientos de Dios y la fe de Jesús. En Apocalipsis 12:17 los restantes de la descendencia guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo. El texto no dice aquí en qué consiste la perseverancia.
+  > Quien está es <u>la</u> perseverancia de los santos. Los que guardan los mandamientos de Dios y la fe de Jesús. Los restantes de la descendencia guardan los mandamientos de Dios y tienen el testimonio de Jesús Cristo. El texto no dice aquí en qué consiste la perseverancia.
 
   * ↳ *guardan* (τηροῦντες)[^P]
-  > No cuelga suelto. Acompaña: los que <u>guardan</u> los mandamientos de Dios y la fe de Jesús.
+  > Los que <u>guardan</u> los mandamientos de Dios y la fe de Jesús.
 
 ### Apocalipsis 14:13:2 — *Y oí una voz del cielo que me decía: Escribe*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Aquí estaba la perseverancia. Ahora Juan oye otra vez.
+> Vuelve <u>Yo</u>, Juan. Aquí estaba la perseverancia. Ahora Juan oye otra vez.
 
 #### *Y oí una voz del cielo que me decía: Escribe*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Aquí está la perseverancia de los santos…*).
   > Ese <u>Y</u> no suma otra perseverancia. Tras Aquí está: Juan oye.
 
 * *Yo, Juan* → *oí* → *una voz del cielo*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz del cielo. En Apocalipsis 14:2 ya oyó una voz del cielo. Ahora: que me decía Escribe. En Apocalipsis 1:11: escríbelo en un libro.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: una voz del cielo. Antes ya oyó una voz del cielo. Ahora: que me decía *Escribe*. Al principio: escríbelo en un libro.
 
 + *voz*
   * ↳ *decía* (λεγούσης)[^P]
-  > No queda muda. La voz está <u>diciendo</u>: Escribe. Qué, la línea que sigue.
+  > La voz está <u>diciendo</u>: *Escribe*. Qué, la línea que sigue.
 
 ### Apocalipsis 14:13:8 — *Dichosos los muertos que desde ahora mueren en el Señor*
 
-* Actores principales: *los muertos* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>los</u> muertos, uno. Eso es lo que hay que escribir.
+> Ya no es Juan. Quienes ocupan la línea son <u>los</u> muertos. Eso es lo que hay que escribir.
 
 #### *Dichosos los muertos que desde ahora mueren en el Señor*
-  > En Apocalipsis 1:3: Dichoso el que lee y los que oyen y guardan. Aquí: <u>Dichosos</u> los muertos que desde ahora mueren en el Señor.
+  > Al principio: *Dichoso* el que lee y los que oyen y guardan. Aquí: <u>Dichosos</u> los muertos que desde ahora mueren en el Señor.
 
 * *los muertos* → *Dichosos*
   > Quienes son dichosos son <u>los</u> muertos —los que desde ahora mueren en el Señor. No todos los muertos sueltos. El texto no abre aquí qué es morir en el Señor.
 
 ### Apocalipsis 14:13:19 — *Sí, dice el Espíritu*
 
-* Actores principales: *el Espíritu* (1) · *los muertos* (1) · *sus obras* (1)
-  > El recuento pone al <u>Espíritu</u>, a los muertos y a sus obras. La voz dijo Dichosos; el Espíritu dice Sí.
+> Pone al <u>Espíritu</u>, a los muertos y a sus obras. La voz dijo Dichosos; el Espíritu dice Sí.
 
 #### *Sí, dice el Espíritu*
   > No deja el Dichosos solo. <u>Sí</u>, dice el Espíritu. En las iglesias el Espíritu decía a las iglesias. Aquí: Sí.
 
 * *el Espíritu* → *dice*
-  > Quien dice es el <u>Espíritu</u>. La flecha se detiene en dice. Para qué, anidado.
+  > Quien dice es el <u>Espíritu</u>. Para qué, anidado.
 
 - *para que descansen de sus trabajos*
   * *para que* (ἵνα)[^hina]
   > Ese <u>para que</u> no abre otro dice. Trae el para qué de Sí: que descansen de sus trabajos.
 
   * *los muertos* → *descansen* → *sus trabajos*
-  > Quienes descansen son <u>los</u> muertos —los que mueren en el Señor. De sus trabajos. En Apocalipsis 14:11 los que adoran a la bestia no tienen descanso día ni noche. Aquí: descansen.
+  > Quienes descansen son <u>los</u> muertos —los que mueren en el Señor. De sus trabajos. Los que adoran a la bestia no tienen descanso día ni noche. Aquí: descansen.
 
   - *y sus obras los siguen*
     * *y* (γὰρ)[^gar]
@@ -8728,71 +8437,67 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:14:2 — *Y vi, y he aquí: una nube blanca, y sobre la nube uno sentado semejante a un hijo de hombre, que tenía sobre su cabeza*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El Espíritu dijo Sí. Ahora Juan ve, y he aquí.
+> Vuelve <u>Yo</u>, Juan. El Espíritu dijo Sí. Ahora Juan ve, y he aquí.
 
 #### *Y vi, y he aquí: una nube blanca, y sobre la nube uno sentado semejante a un hijo de hombre, que tenía sobre su cabeza*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y sus obras los siguen*).
   > Ese <u>Y</u> no suma otras obras. Tras Sí: Juan vio, y he aquí.
 
 * *Yo, Juan* → *vi*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: he aquí, una nube blanca, y sobre la nube uno sentado semejante a un hijo de hombre. En Apocalipsis 1:7 viene con las nubes. En Apocalipsis 1:13: alguien semejante a un hijo de hombre, en medio de los candelabros. Aquí: sobre una nube blanca.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: he aquí, una nube blanca, y sobre la nube uno sentado semejante a un hijo de hombre. Antes: viene con las nubes. También: alguien semejante a un hijo de hombre, en medio de los candelabros. Aquí: sobre una nube blanca.
 
 + *uno*
   * ↳ *sentado* (καθήμενον)[^P]
-  > No cuelga de semejante. El <u>uno</u> está sentado sobre la nube.
+  > El <u>uno</u> está sentado sobre la nube.
 
 + *una corona dorada y en su mano una hoz afilada*
   > Sobre su cabeza: una corona <u>dorada</u>. En su mano: una hoz afilada. Primera hoz. El texto no dice aquí para qué.
 
 ### Apocalipsis 14:15:4 — *Y otro ángel salió del santuario, gritando con gran voz al que estaba sentado sobre la nube*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento pone a <u>otro</u> ángel, uno. En Apocalipsis 14:6 otro volaba por el medio del cielo. En Apocalipsis 14:8 otro siguió. En Apocalipsis 14:9 el tercero los siguió. Este: salió.
+> Pone a <u>otro</u> ángel. Antes otro volaba por el medio del cielo. Otro siguió. El tercero los siguió. Este: salió.
 
 #### *Y otro ángel salió del santuario, gritando con gran voz al que estaba sentado sobre la nube*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*una corona dorada y en su mano una hoz afilada*).
   > Ese <u>Y</u> no suma otra hoz. Tras el uno sentado: otro ángel salió.
 
 * *otro ángel* → *salió*
-  > Quien salió es <u>otro</u> ángel. De dónde: del santuario. En Apocalipsis 11:19 se abrió el santuario de Dios en el cielo. El texto no dice aquí de cuál santuario.
+  > Quien salió es <u>otro</u> ángel. De dónde: del santuario. Se abrió el santuario de Dios en el cielo. El texto no dice aquí de cuál santuario.
 
 + *otro ángel*
   * ↳ *gritando* (κράζων)[^P]
   > El <u>otro</u> ángel sale gritando. Con gran voz. A quién: al que estaba sentado sobre la nube.
 
 * ↳ *sentado* (καθημένῳ)[^P]
-  > No cuelga de salió ni del ángel. Marca a quién grita: al que estaba <u>sentado</u> sobre la nube. El texto no da aquí las palabras.
+  > Marca a quién grita: al que estaba <u>sentado</u> sobre la nube. El texto no da aquí las palabras.
 
 ### Apocalipsis 14:15:17 — *Envía tu hoz*
 
-* Actores principales: *estaba sentado sobre la nube: Envía tu* (1)
-  > El recuento ya no es el ángel que salió. Quien ocupa la línea es <u>estaba</u> sentado sobre la nube: Envía tu, uno. El ángel gritaba. Ahora: las palabras.
+> Ya no es el ángel que salió. Quien ocupa la línea es <u>estaba</u> sentado sobre la nube: Envía tu. El ángel gritaba. Ahora: las palabras.
 
 #### *Envía tu hoz*
   > Eso gritaba. No deja la hoz en la mano. <u>Envía</u> tu hoz.
 
 * *estaba sentado sobre la nube: Envía tu* → *hoz* → *y siega*
-  > Quien envía es el que estaba <u>sentado</u> sobre la nube. Lo alcanzado: tu hoz. En Apocalipsis 14:14 la tenía en su mano, afilada. El tercer hueco ya nombra y siega.
+  > Quien envía es el que estaba <u>sentado</u> sobre la nube. Lo alcanzado: tu hoz. La tenía en su mano, afilada. El tercer hueco ya nombra y siega.
 
 ### Apocalipsis 14:15:22 — *y siega*
 
-* Actores principales: *estaba sentado sobre la nube* (1) · *la hora de segar* (1)
-  > Sigue el que estaba <u>sentado</u> sobre la nube. El recuento suma la hora de segar. Envía tu hoz; ahora: y siega.
+> Sigue el que estaba <u>sentado</u> sobre la nube. Suma la hora de segar. Envía tu hoz; ahora: y siega.
 
 #### *y siega*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Envía tu hoz*).
   > Ese <u>y</u> no suma otra hoz. Sigue el mismo grito: Envía — y siega.
 
 * *estaba sentado sobre la nube* → *siega*
-  > Quien siega es el mismo que envía. La flecha se detiene en <u>siega</u>. Por qué, anidado.
+  > Quien siega es el mismo que envía. Por qué, anidado.
 
 - *porque te ha llegado la hora de segar*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro siega. Da por qué Envía: te ha llegado la hora de segar. En Apocalipsis 14:7 llegó la hora de su juicio. Aquí: la hora de segar.
+  > Ese <u>porque</u> no abre otro siega. Da por qué Envía: te ha llegado la hora de segar. Antes llegó la hora de su juicio. Aquí: la hora de segar.
 
   * ↳ *segar* (θερίσαι)[^I]
-  > No cuelga de hora como dueño. Completa <u>llegado</u>: la hora de segar.
+  > La hora de <u>segar</u>.
 
   - *porque la cosecha de la tierra se ha secado*
     * *porque* (ὅτι)[^hoti]
@@ -8803,8 +8508,7 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:16:2 — *lanzó su hoz sobre la tierra*
 
-* Actores principales: *el que estaba sentado sobre la nube* (1)
-  > El recuento ya no es la cosecha. Quien ocupa la línea es <u>el</u> que estaba sentado sobre la nube, uno. Le gritaron Envía y siega. Ahora él.
+> Ya no es la cosecha. Quien ocupa la línea es <u>el</u> que estaba sentado sobre la nube. Le gritaron Envía y siega. Ahora él.
 
 + *Y el que estaba sentado sobre la nube*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*porque la cosecha de la tierra se ha secado*).
@@ -8814,60 +8518,57 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
   > No deja la hoz en la mano. <u>Lanzó</u> su hoz sobre la tierra.
 
 * *el que estaba sentado sobre la nube* → *lanzó* → *su hoz*
-  > Quien lanzó es <u>el</u> que estaba sentado sobre la nube. Lo alcanzado: su hoz. Sobre la tierra. En Apocalipsis 14:14 la tenía en su mano. En Apocalipsis 14:15: Envía tu hoz y siega.
+  > Quien lanzó es <u>el</u> que estaba sentado sobre la nube. Lo alcanzado: su hoz. Sobre la tierra. La tenía en su mano. Le gritaron: *Envía tu hoz* y *siega*.
 
 * ↳ *sentado* (καθήμενος)[^P]
-  > No cuelga de un nombre. Acompaña: el que estaba <u>sentado</u> sobre la nube.
+  > El que estaba <u>sentado</u> sobre la nube.
 
 ### Apocalipsis 14:16:15 — *y la tierra fue segada*
 
-* Actores principales: *la tierra* (1)
-  > El recuento ya no es el que estaba sentado. Quien ocupa la línea es <u>la</u> tierra, uno. Lanzó la hoz sobre la tierra. Ahora: la tierra.
+> Ya no es el que estaba sentado. Quien ocupa la línea es <u>la</u> tierra. Lanzó la hoz sobre la tierra. Ahora: la tierra.
 
 #### *y la tierra fue segada*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*lanzó su hoz sobre la tierra*).
   > Ese <u>y</u> no suma otra hoz. Tras lanzó: la tierra fue segada.
 
 * *la tierra* → *fue segada*
-  > Quien fue segada es <u>la</u> tierra. En Apocalipsis 14:15 la cosecha de la tierra se había secado. Le gritaron siega. El texto no dice aquí qué se cosechó.
+  > Quien fue segada es <u>la</u> tierra. La cosecha de la tierra se había secado. Le gritaron *siega*. El texto no dice aquí qué se cosechó.
 
 ### Apocalipsis 14:17:4 — *Y otro ángel salió del santuario que está en el cielo, teniendo también él una hoz afilada*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento ya no es la tierra. Quien ocupa la línea es <u>otro</u> ángel, uno. La tierra fue segada. Ahora: otro.
+> Ya no es la tierra. Quien ocupa la línea es <u>otro</u> ángel. La tierra fue segada. Ahora: otro.
 
 #### *Y otro ángel salió del santuario que está en el cielo, teniendo también él una hoz afilada*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y la tierra fue segada*).
   > Ese <u>Y</u> no suma otra siega. Tras la tierra fue segada: otro ángel salió.
 
 * *otro ángel* → *salió*
-  > Quien salió es <u>otro</u> ángel. De dónde: del santuario que está en el cielo. En Apocalipsis 14:15 otro salió del santuario. Aquí el texto nombra el cielo.
+  > Quien salió es <u>otro</u> ángel. De dónde: del santuario que está en el cielo. Antes otro salió del santuario. Aquí el texto nombra el cielo.
 
 + *otro ángel*
   * ↳ *teniendo* (ἔχων)[^P]
-  > El <u>otro</u> ángel sale teniendo también él una hoz afilada. En Apocalipsis 14:14 la tenía el uno sentado. También él.
+  > El <u>otro</u> ángel sale teniendo también él una hoz afilada. La tenía el uno sentado. También él.
 
 ### Apocalipsis 14:18:14 — *gritó con gran voz al que tenía la hoz afilada, diciendo*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento pone otra vez a <u>otro</u> ángel, uno. Uno salió del santuario en el cielo. Ahora: otro.
+> Pone otra vez a <u>otro</u> ángel. Uno salió del santuario en el cielo. Ahora: otro.
 
 + *y otro ángel salió del altar, teniendo autoridad sobre el fuego, y*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*teniendo también él una hoz afilada*).
-  > Ese <u>y</u> no suma otra hoz. Tras también él: otro ángel salió del altar. En Apocalipsis 8:3 otro se puso sobre el altar. En Apocalipsis 8:5 fuego del altar. Aquí: autoridad sobre el fuego.
+  > Ese <u>y</u> no suma otra hoz. Tras también él: otro ángel salió del altar. Antes otro se puso sobre el altar. Fuego del altar. Aquí: autoridad sobre el fuego.
 
 #### *gritó con gran voz al que tenía la hoz afilada, diciendo*
-  > En Apocalipsis 14:15 el del santuario gritó al que estaba sentado. Este: <u>gritó</u> al que tenía la hoz afilada.
+  > Antes el del santuario gritó al que estaba sentado. Este: <u>gritó</u> al que tenía la hoz afilada.
 
 * *otro ángel* → *gritó*
-  > Quien gritó es <u>otro</u> ángel. A quién: al que tenía la hoz afilada —el de Apocalipsis 14:17. El texto no da aquí las palabras.
+  > Quien gritó es <u>otro</u> ángel. A quién: al que tenía la hoz afilada —el que salió del santuario en el cielo. El texto no da aquí las palabras.
 
 + *otro ángel*
   * ↳ *teniendo* (ἔχων)[^P]
   > El <u>otro</u> ángel sale teniendo autoridad sobre el fuego.
 
 * ↳ *tenía* (ἔχοντι)[^P]
-  > No cuelga de gritó. Marca a quién grita: al que <u>tenía</u> la hoz afilada.
+  > Marca a quién grita: al que <u>tenía</u> la hoz afilada.
 
 + *otro ángel*
   * ↳ *diciendo* (λέγων)[^P]
@@ -8875,74 +8576,68 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:18:24 — *Envía tu hoz afilada*
 
-* Actores principales: *al que tenía la hoz afilada* (1)
-  > El recuento ya no es el ángel del altar. Quien ocupa la línea es <u>al</u> que tenía la hoz afilada, uno. El del altar gritaba diciendo. Ahora: las palabras.
+> Ya no es el ángel del altar. Quien ocupa la línea es <u>al</u> que tenía la hoz afilada. El del altar gritaba diciendo. Ahora: las palabras.
 
 #### *Envía tu hoz afilada*
-  > Eso decía. En Apocalipsis 14:15: Envía tu hoz. Aquí: <u>Envía</u> tu hoz afilada.
+  > Eso decía. Antes: *Envía tu hoz*. Aquí: <u>Envía</u> tu hoz afilada.
 
 * *al que tenía la hoz afilada* → *Envía* → *tu hoz afilada*
-  > Quien envía es <u>al</u> que tenía la hoz afilada —el de Apocalipsis 14:17. Lo alcanzado: tu hoz afilada. Ya la tenía. No la deje en la mano.
+  > Quien envía es <u>al</u> que tenía la hoz afilada —el que salió del santuario en el cielo. Lo alcanzado: tu hoz afilada. Ya la tenía. No la deje en la mano.
 
 ### Apocalipsis 14:18:31 — *y vendimia los racimos de la vid de la tierra*
 
-* Actores principales: *al que tenía la hoz afilada* (1) · *sus uvas* (1)
-  > Sigue <u>al</u> que tenía la hoz afilada. El recuento suma sus uvas. Envía tu hoz afilada; ahora: y vendimia.
+> Sigue <u>al</u> que tenía la hoz afilada. Suma sus uvas. Envía tu hoz afilada; ahora: y vendimia.
 
 #### *y vendimia los racimos de la vid de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Envía tu hoz afilada*).
   > Ese <u>y</u> no suma otra hoz. Sigue el mismo decir: Envía — y vendimia.
 
 * *al que tenía la hoz afilada* → *vendimia* → *los racimos de la vid de la tierra*
-  > Quien vendimia es el mismo que envía. Lo alcanzado: <u>los</u> racimos de la vid de la tierra. En Apocalipsis 14:15: y siega —la cosecha. Aquí no siega: vendimia. Por qué, anidado.
+  > Quien vendimia es el mismo que envía. Lo alcanzado: <u>los</u> racimos de la vid de la tierra. Antes: *y siega* —la cosecha. Aquí no siega: vendimia. Por qué, anidado.
 
 - *porque sus uvas han madurado*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro vendimia. Da por qué: sus uvas han madurado. En Apocalipsis 14:15 la cosecha se había secado. Aquí: madurado.
+  > Ese <u>porque</u> no abre otro vendimia. Da por qué: sus uvas han madurado. La cosecha se había secado. Aquí: madurado.
 
   * *sus uvas* → *han madurado*
   > Quienes han madurado son <u>sus</u> uvas —las de la vid de la tierra.
 
 ### Apocalipsis 14:19:2 — *Y el ángel lanzó su hoz a la tierra*
 
-* Actores principales: *el ángel* (1)
-  > El recuento ya no es las uvas. Quien ocupa la línea es <u>el</u> ángel, uno. Le dijeron Envía y vendimia. Ahora él.
+> Ya no son las uvas. Quien ocupa la línea es <u>el</u> ángel. Le dijeron Envía y vendimia. Ahora él.
 
 #### *Y el ángel lanzó su hoz a la tierra*
 * *Y* (καὶ)[^kai] une esta cláusula con la anterior (*porque sus uvas han madurado*).
   > Ese <u>Y</u> no suma otras uvas. Tras han madurado: el ángel lanzó.
 
 * *el ángel* → *lanzó* → *su hoz*
-  > Quien lanzó es <u>el</u> ángel —el que tenía la hoz afilada. Lo alcanzado: su hoz. A la tierra. En Apocalipsis 14:16 el que estaba sentado lanzó su hoz sobre la tierra.
+  > Quien lanzó es <u>el</u> ángel —el que tenía la hoz afilada. Lo alcanzado: su hoz. A la tierra. El que estaba sentado lanzó su hoz sobre la tierra.
 
 ### Apocalipsis 14:19:12 — *y vendimió la vid de la tierra*
 
-* Actores principales: *el ángel* (1)
-  > Sigue <u>el</u> ángel, uno. Lanzó la hoz. Ahora: vendimió.
+> Sigue <u>el</u> ángel. Lanzó la hoz. Ahora: vendimió.
 
 #### *y vendimió la vid de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el ángel lanzó su hoz a la tierra*).
   > Ese <u>y</u> no suma otra hoz. Tras lanzó: vendimió.
 
 * *el ángel* → *vendimió* → *la vid de la tierra*
-  > Quien vendimió es el mismo. Lo alcanzado: <u>la</u> vid de la tierra. En Apocalipsis 14:18 le dijeron vendimia los racimos. En Apocalipsis 14:16 la tierra fue segada. Aquí no siega: vendimió la vid.
+  > Quien vendimió es el mismo. Lo alcanzado: <u>la</u> vid de la tierra. Le dijeron *vendimia* los racimos. La tierra fue segada. Aquí no siega: vendimió la vid.
 
 ### Apocalipsis 14:19:18 — *y la echó en el gran lagar de la furia de Dios*
 
-* Actores principales: *el ángel* (1)
-  > Sigue <u>el</u> ángel, uno. Vendimió la vid. Ahora: la echó.
+> Sigue <u>el</u> ángel. Vendimió la vid. Ahora: la echó.
 
 #### *y la echó en el gran lagar de la furia de Dios*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vendimió la vid de la tierra*).
   > Ese <u>y</u> no suma otra vid. Tras vendimió: la echó.
 
 * *el ángel* → *echó* → *la*
-  > Quien echó es el mismo. Lo alcanzado: <u>la</u> —la vid de la tierra. Adónde: en el gran lagar de la furia de Dios. Primera vez lagar. En Apocalipsis 14:10: el vino de la furia de Dios. Aquí: el lagar de esa furia.
+  > Quien echó es el mismo. Lo alcanzado: <u>la</u> —la vid de la tierra. Adónde: en el gran lagar de la furia de Dios. Primera vez lagar. Antes: el vino de la furia de Dios. Aquí: el lagar de esa furia.
 
 ### Apocalipsis 14:20:2 — *y el lagar fue pisado fuera de la ciudad*
 
-* Actores principales: *el lagar* (1)
-  > El recuento ya no es el ángel. Quien ocupa la línea es <u>el</u> lagar, uno. La echó en el gran lagar. Ahora: el lagar.
+> Ya no es el ángel. Quien ocupa la línea es <u>el</u> lagar. La echó en el gran lagar. Ahora: el lagar.
 
 #### *y el lagar fue pisado fuera de la ciudad*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y la echó en el gran lagar de la furia de Dios*).
@@ -8953,8 +8648,7 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### Apocalipsis 14:20:9 — *y salió sangre del lagar hasta los frenos de los caballos, por mil seiscientos estadios*
 
-* Actores principales: *sangre* (1)
-  > El recuento ya no es el lagar. Quien ocupa la línea es <u>sangre</u>, uno. El lagar fue pisado. Ahora: sale.
+> Ya no es el lagar. Quien ocupa la línea es <u>sangre</u>. El lagar fue pisado. Ahora: sale.
 
 #### *y salió sangre del lagar hasta los frenos de los caballos, por mil seiscientos estadios*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el lagar fue pisado fuera de la ciudad*).
@@ -8965,17 +8659,17 @@ Aquí está la sabiduría: el que tiene entendimiento, calcule el número de la 
 
 ### En síntesis
 
-El tramo abre después del número: Juan ve un cordero de pie sobre el monte Sion, y con él ciento cuarenta y cuatro mil, con el nombre de su Padre en las frentes.
+Después del número: un cordero de pie sobre el *monte Sion*, y con él *ciento cuarenta y cuatro mil*, con el nombre de su Padre en las frentes.
 
-Cantan como un cántico nuevo que nadie más podía aprender; siguen al cordero adondequiera que va; fueron comprados como primicias; en su boca no fue hallado engaño.
+Cantan como un *cántico nuevo* que *nadie* más podía aprender; *siguen al cordero* adondequiera que va; fueron comprados como *primicias*; en su boca *no fue hallado engaño*.
 
-Luego tres ángeles: evangelio eterno —teman, den gloria, ha llegado la hora del juicio, adoren al que hizo—; cayó Babilonia; si alguien adora a la bestia, beberá del vino de la furia de Dios y no tiene descanso.
+Tres ángeles: *evangelio eterno* —*teman*, den gloria, ha llegado la hora del juicio, *adoren* al que hizo—; *cayó, cayó Babilonia*; si alguien adora a la bestia, beberá del vino de la furia de Dios y *no tienen descanso*.
 
-Aquí está la perseverancia de los santos. Una voz dice Escribe: Dichosos los muertos que mueren en el Señor. El Espíritu dice Sí, para que descansen; sus obras los siguen.
+*Aquí está la perseverancia de los santos*. Una voz dice *Escribe*: *Dichosos* los muertos que mueren en el Señor. El Espíritu dice *Sí*, para que *descansen*; sus obras los siguen.
 
-Después, dos hoces. El que está sentado sobre la nube lanza la suya y la tierra es segada. Otro, del santuario, tiene también una hoz; el del altar grita Envía y vendimia; la vid va al gran lagar de la furia de Dios.
+Dos hoces. El que está sentado sobre la nube *lanzó* la suya y *la tierra fue segada*. Otro, del santuario, tiene también una hoz; el del altar grita *Envía* y *vendimia*; la vid va al *gran lagar* de la furia de Dios.
 
-El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los caballos, por mil seiscientos estadios. Lo que sigue es otra señal: siete últimas plagas.
+El lagar *fue pisado* fuera de la ciudad, y salió *sangre* hasta los frenos de los caballos, por mil seiscientos estadios.
 
 ## Apocalipsis 15:1–16:21 Las siete últimas plagas
 
@@ -9032,15 +8726,14 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 15:1:2 — Siete últimas plagas
 
-* Actores principales: *la ira de Dios* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>la</u> ira de Dios y a Yo, Juan. Salió sangre del lagar. Ahora Juan ve otra vez; la ira entra en la razón.
+> Pone a <u>la</u> ira de Dios y a Yo, Juan. Salió sangre del lagar. Ahora Juan ve otra vez; la ira entra en la razón.
 
 #### *Y vi otra señal en el cielo, grande y maravillosa: siete ángeles que tenían siete últimas plagas*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y salió sangre del lagar hasta los frenos de los caballos, por mil seiscientos estadios*).
   > Ese <u>Y</u> no suma otra sangre. Tras el lagar: Juan vio otra señal.
 
 * *Yo, Juan* → *vi* → *otra señal en el cielo, grande y maravillosa: siete ángeles*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otra señal en el cielo, grande y maravillosa —siete ángeles. En Apocalipsis 12:1 apareció una gran señal. En Apocalipsis 12:3 otra señal. Aquí: otra, grande y maravillosa. Primera vez últimas plagas.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: otra señal en el cielo, grande y maravillosa —siete ángeles. Antes apareció una gran señal. Otra señal. Aquí: otra, grande y maravillosa. Primera vez últimas plagas.
 
 + *siete*
   * ↳ *tenían* (ἔχοντας)[^P]
@@ -9051,45 +8744,43 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > Ese <u>porque</u> no abre otra señal suelta. Da por qué últimas: en ellas se completó la ira de Dios.
 
   * *la ira de Dios* → *se completó*
-  > Quien se completó es <u>la</u> ira de Dios. En ellas —las siete plagas. En Apocalipsis 14:10: el vino de la furia de Dios. En Apocalipsis 14:19: el lagar de esa furia. Aquí: se completó.
+  > Quien se completó es <u>la</u> ira de Dios. En ellas —las siete plagas. Antes: el vino de la furia de Dios. El lagar de esa furia. Aquí: se completó.
 
 ### Apocalipsis 15:2:2 — *Y vi como un mar de vidrio mezclado con fuego, y a los que vencían de la bestia y de su imagen y de su marca, del número de su nombre, de pie sobre el mar de vidrio, teniendo arpas de Dios*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Vio otra señal: siete ángeles. Ahora ve otra vez.
+> Vuelve <u>Yo</u>, Juan. Vio otra señal: siete ángeles. Ahora ve otra vez.
 
 #### *Y vi como un mar de vidrio mezclado con fuego, y a los que vencían de la bestia y de su imagen y de su marca, del número de su nombre, de pie sobre el mar de vidrio, teniendo arpas de Dios*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*porque en ellas se completó la ira de Dios*).
   > Ese <u>Y</u> no suma otra ira. Tras se completó: Juan vio.
 
 * *Yo, Juan* → *vi* → *como un mar de vidrio mezclado con fuego, y a los que vencían*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: como un mar de vidrio, y a los que vencían. En Apocalipsis 4:6: un mar de vidrio semejante al cristal. Aquí: como un mar, mezclado con fuego.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: como un mar de vidrio, y a los que vencían. Antes: un mar de vidrio semejante al cristal. Aquí: como un mar, mezclado con fuego.
 
 + *mar*
   * ↳ *mezclado* (μεμιγμένην)[^P]
   > El <u>mar</u> está mezclado con fuego.
 
 * ↳ *vencían* (νικῶντας)[^P]
-  > No cuelga de vi. Marca a quienes ve: los que <u>vencían</u> de la bestia y de su imagen y de su marca, del número de su nombre. En Apocalipsis 13:15–16 la imagen y la marca. En Apocalipsis 13:18 el número.
+  > Marca a quienes ve: los que <u>vencían</u> de la bestia y de su imagen y de su marca, del número de su nombre. Antes: la imagen y la marca. El número.
 
 + *los que vencían*
   * ↳ *de pie* (ἑστῶτας)[^P]
-  > No cuelga de número. <u>Los</u> que vencían están de pie sobre el mar de vidrio.
+  > <u>Los</u> que vencían están de pie sobre el mar de vidrio.
 
   * ↳ *teniendo* (ἔχοντας)[^P]
-  > No cuelga del mar. Los mismos tienen arpas de Dios. En Apocalipsis 14:2: arpistas. En Apocalipsis 5:8 los ancianos tenían arpas.
+  > Los mismos tienen arpas de Dios. Antes: arpistas. Los ancianos tenían arpas.
 
 ### Apocalipsis 15:3:2 — *y cantan el cántico de Moisés, el siervo de Dios, y el cántico del cordero, diciendo*
 
-* Actores principales: *los que vencían* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>los</u> que vencían, uno. Estaban de pie con arpas. Ahora: cantan.
+> Ya no es Juan. Quienes ocupan la línea son <u>los</u> que vencían. Estaban de pie con arpas. Ahora: cantan.
 
 #### *y cantan el cántico de Moisés, el siervo de Dios, y el cántico del cordero, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*teniendo arpas de Dios*).
   > Ese <u>y</u> no suma otras arpas. Tras teniendo: cantan.
 
 * *los que vencían* → *cantan* → *el cántico de Moisés, el siervo de Dios, y el cántico del cordero*
-  > Quienes cantan son <u>los</u> que vencían. Lo alcanzado: el cántico de Moisés, el siervo de Dios, y el cántico del cordero. En Apocalipsis 5:9 cantan un cántico nuevo. En Apocalipsis 14:3 como un cántico nuevo. Aquí se nombran dos. Primera vez Moisés. El texto no da aquí las palabras.
+  > Quienes cantan son <u>los</u> que vencían. Lo alcanzado: el cántico de Moisés, el siervo de Dios, y el cántico del cordero. Antes cantan un cántico nuevo. Como un cántico nuevo. Aquí se nombran dos. Primera vez Moisés. El texto no da aquí las palabras.
 
 + *los que vencían*
   * ↳ *diciendo* (λέγοντες)[^P]
@@ -9097,22 +8788,20 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 15:3:16 — *Grandes y maravillosas son tus obras, Señor Dios, el Todopoderoso*
 
-* Actores principales: *tus obras* (1)
-  > El recuento ya no es los que vencían. Quien ocupa la línea es <u>tus</u> obras, uno. Cantaban diciendo. Ahora: las palabras.
+> Ya no son los que vencían. Quien ocupa la línea es <u>tus</u> obras. Cantaban diciendo. Ahora: las palabras.
 
 #### *Grandes y maravillosas son tus obras, Señor Dios, el Todopoderoso*
-  > Eso dicen. En Apocalipsis 15:1 la señal era grande y maravillosa. Aquí: <u>tus</u> obras —grandes y maravillosas. A quién: Señor Dios, el Todopoderoso. En Apocalipsis 1:8 y Apocalipsis 4:8 ya se nombró.
+  > Eso dicen. La señal era grande y maravillosa. Aquí: <u>tus</u> obras —grandes y maravillosas. A quién: Señor Dios, el Todopoderoso. Ya se nombró.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español pone son. La afirmación es <u>Grandes</u> y maravillosas.
 
 * *tus obras* → *Grandes y maravillosas*
-  > Quienes son grandes y maravillosas son <u>tus</u> obras. La flecha se detiene ahí.
+  > Quienes son grandes y maravillosas son <u>tus</u> obras.
 
 ### Apocalipsis 15:3:27 — *justos y verdaderos son tus caminos, Rey de los santos*
 
-* Actores principales: *tus caminos* (1)
-  > El recuento ya no es tus obras. Quien ocupa la línea es <u>tus</u> caminos, uno. Sigue el mismo decir.
+> Ya no son tus obras. Quien ocupa la línea es <u>tus</u> caminos. Sigue el mismo decir.
 
 #### *justos y verdaderos son tus caminos, Rey de los santos*
   > No se detiene en las obras. Ahora: <u>tus</u> caminos —justos y verdaderos. A quién: Rey de los santos. Primera vez ese nombre.
@@ -9121,30 +8810,28 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > Otra vez el griego no trae verbo. El español pone son. La afirmación es <u>justos</u> y verdaderos.
 
 * *tus caminos* → *justos y verdaderos*
-  > Quienes son justos y verdaderos son <u>tus</u> caminos. La flecha se detiene ahí.
+  > Quienes son justos y verdaderos son <u>tus</u> caminos.
 
 ### Apocalipsis 15:4:4 — *Quién no te temerá, Señor*
 
-* Actores principales: *Quién* (1)
-  > El recuento ya no es tus caminos. Quien ocupa la línea es <u>Quién</u>, uno. Sigue el mismo decir. La pregunta no nombra a nadie.
+> Ya no son tus caminos. Quien ocupa la línea es <u>Quién</u>. Sigue el mismo decir. La pregunta no nombra a nadie.
 
 #### *Quién no te temerá, Señor*
-  > Ya no afirma obras ni caminos. Pregunta: <u>Quién</u> no te temerá, Señor. En Apocalipsis 14:7 se mandó: Teman a Dios. Aquí: quién no te temerá.
+  > Ya no afirma obras ni caminos. Pregunta: <u>Quién</u> no te temerá, Señor. Antes se mandó: *Teman a Dios*. Aquí: quién no te temerá.
 
 * *Quién* → *temerá* → *te*
   > Quien temerá —o no— es <u>Quién</u>. Lo alcanzado: te —el Señor. El texto no responde aquí.
 
 ### Apocalipsis 15:4:7 — *y glorificará tu nombre*
 
-* Actores principales: *todas las naciones* (2) · *Quién* (1) · *solo tú* (1) · *tus actos justos* (1)
-  > El recuento pone a <u>Quién</u>, a solo tú, a tus actos justos y a todas las naciones, dos veces. Sigue el decir. Quién no temerá; ahora: y glorificará.
+> Pone a <u>Quién</u>, a solo tú, a tus actos justos y a todas las naciones, dos veces. Sigue el decir. Quién no temerá; ahora: y glorificará.
 
 #### *y glorificará tu nombre*
 * *Señor,* (καὶ)[^kai] une esta cláusula con la anterior (*Quién no te temerá, Señor*).
   > Ese <u>Señor</u> no abre otro temerá. Sigue la pregunta: quién no te temerá — y glorificará tu nombre.
 
 * *Quién* → *glorificará* → *tu nombre*
-  > Quien glorificará es el mismo <u>Quién</u>. Lo alcanzado: tu nombre. En Apocalipsis 14:7: denle gloria. Por qué, más de uno, anidado.
+  > Quien glorificará es el mismo <u>Quién</u>. Lo alcanzado: tu nombre. Antes: *denle gloria*. Por qué, más de uno, anidado.
 
 - *Porque solo tú eres santo*
   * *Porque* (ὅτι)[^hoti]
@@ -9154,20 +8841,20 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > El griego no trae verbo. El español pone eres. La afirmación es <u>santo</u>.
 
   * *solo tú* → *santo*
-  > Quien es santo es <u>solo</u> tú. La flecha se detiene en santo.
+  > Quien es santo es <u>solo</u> tú.
 
 - *porque todas las naciones vendrán*
   * *porque* (ὅτι)[^hoti]
   > Ese <u>porque</u> no abre otro santo. Otro por qué de glorificará: todas las naciones vendrán.
 
   * *todas las naciones* → *vendrán*
-  > Quienes vendrán son <u>todas</u> las naciones. En Apocalipsis 14:6 el evangelio eterno se anunció a toda nación.
+  > Quienes vendrán son <u>todas</u> las naciones. El evangelio eterno se anunció a toda nación.
 
 - *y se postrarán delante de ti*
   > No solo vendrán. <u>Se</u> postrarán delante de ti.
 
   * *todas las naciones* → *se postrarán*
-  > Quienes se postrarán son las mismas. En Apocalipsis 13:4 adoraron al dragón y a la bestia. En Apocalipsis 14:7: adoren al que hizo.
+  > Quienes se postrarán son las mismas. Antes adoraron al dragón y a la bestia. También: *adoren* al que hizo.
 
   - *porque tus actos justos se hicieron manifiestos*
     * *porque* (ὅτι)[^hoti]
@@ -9178,86 +8865,80 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 15:5:4 — *Y después de esto vi*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El cántico preguntó y dio porqués. Ahora Juan ve otra vez.
+> Vuelve <u>Yo</u>, Juan. El cántico preguntó y dio porqués. Ahora Juan ve otra vez.
 
 #### *Y después de esto vi*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*porque tus actos justos se hicieron manifiestos*).
   > Ese <u>Y</u> no suma otros actos. Tras el cántico: después de esto vi.
 
 * *Yo, Juan* → *vi*
-  > Quien ve es <u>Yo</u>, Juan. La flecha se detiene en vi. En Apocalipsis 7:1: Y después de esto vi. Aquí otra vez. Qué ve, la línea siguiente.
+  > Quien ve es <u>Yo</u>, Juan. Antes: *Y después de esto vi*. Aquí otra vez. Qué ve, la línea siguiente.
 
 ### Apocalipsis 15:5:6 — *y he aquí: se abrió el templo de la tienda del testimonio en el cielo*
 
-* Actores principales: *el templo de la tienda del testimonio* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> templo de la tienda del testimonio, uno. Juan vio; ahora: he aquí.
+> Ya no es Juan. Quien ocupa la línea es <u>el</u> templo de la tienda del testimonio. Juan vio; ahora: he aquí.
 
 #### *y he aquí: se abrió el templo de la tienda del testimonio en el cielo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y después de esto vi*).
   > Ese <u>y</u> no suma otro vi. Tras después de esto vi: he aquí, se abrió.
 
 * *el templo de la tienda del testimonio* → *se abrió*
-  > Quien se abrió es <u>el</u> templo de la tienda del testimonio. En el cielo. En Apocalipsis 11:19 se abrió el santuario de Dios en el cielo. Aquí: el templo de la tienda del testimonio. Primera vez ese nombre. El texto no dice aquí quién lo abrió.
+  > Quien se abrió es <u>el</u> templo de la tienda del testimonio. En el cielo. Antes se abrió el santuario de Dios en el cielo. Aquí: el templo de la tienda del testimonio. Primera vez ese nombre. El texto no dice aquí quién lo abrió.
 
 ### Apocalipsis 15:6:2 — *y salieron del templo los siete ángeles que tenían las siete plagas, vestidos de lino limpio y brillante, y ceñidos alrededor del pecho con cinturones de oro*
 
-* Actores principales: *los siete ángeles* (1)
-  > El recuento ya no es el templo. Quienes ocupan la línea son <u>los</u> siete ángeles, uno. El templo se abrió. Ahora: salen.
+> Ya no es el templo. Quienes ocupan la línea son <u>los</u> siete ángeles. El templo se abrió. Ahora: salen.
 
 #### *y salieron del templo los siete ángeles que tenían las siete plagas, vestidos de lino limpio y brillante, y ceñidos alrededor del pecho con cinturones de oro*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y he aquí: se abrió el templo de la tienda del testimonio en el cielo*).
   > Ese <u>y</u> no suma otro se abrió. Tras se abrió: salieron.
 
 * *los siete ángeles* → *salieron*
-  > Quienes salieron son <u>los</u> siete ángeles. Del templo —el que se abrió. En Apocalipsis 15:1 tenían siete últimas plagas.
+  > Quienes salieron son <u>los</u> siete ángeles. Del templo —el que se abrió. Antes tenían siete últimas plagas.
 
 + *los siete ángeles*
   * ↳ *tenían* (ἔχοντες)[^P]
-  > No cuelga de siete suelto. <u>Los</u> siete ángeles tienen las siete plagas.
+  > <u>Los</u> siete ángeles tienen las siete plagas.
 
 * ↳ *vestidos* (ἐνδεδυμένοι)[^P]
-  > No cuelga de lino. Acompaña a salieron: salen <u>vestidos</u> de lino limpio y brillante. En Apocalipsis 1:13 alguien semejante a un hijo de hombre iba vestido.
+  > Salen <u>vestidos</u> de lino limpio y brillante. Alguien semejante a un hijo de hombre iba vestido.
 
 * ↳ *ceñidos* (περιεζωσμένοι)[^P]
-  > No cuelga de ceñidos como dueño. Acompaña a salieron: <u>ceñidos</u> alrededor del pecho con cinturones de oro. En Apocalipsis 1:13: ceñido alrededor del pecho con un cinturón de oro.
+  > Salen <u>ceñidos</u> alrededor del pecho con cinturones de oro. Antes: ceñido alrededor del pecho con un cinturón de oro.
 
 ### Apocalipsis 15:7:7 — *y uno de los cuatro seres vivientes dio a los siete ángeles siete copas de oro llenas de la ira de Dios, que vive por los siglos de los siglos*
 
-* Actores principales: *uno de los cuatro seres vivientes* (1)
-  > El recuento ya no es los siete ángeles. Quien ocupa la línea es <u>uno</u> de los cuatro seres vivientes, uno. Los ángeles salieron. Ahora: uno da.
+> Ya no son los siete ángeles. Quien ocupa la línea es <u>uno</u> de los cuatro seres vivientes. Los ángeles salieron. Ahora: uno da.
 
 #### *y uno de los cuatro seres vivientes dio a los siete ángeles siete copas de oro llenas de la ira de Dios, que vive por los siglos de los siglos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y salieron del templo los siete ángeles…*).
   > Ese <u>y</u> no suma otra salida. Tras salieron: uno dio.
 
 * *uno de los cuatro seres vivientes* → *dio* → *siete copas de oro*
-  > Quien dio es <u>uno</u> de los cuatro seres vivientes. Lo alcanzado: siete copas de oro. A quién: a los siete ángeles. En Apocalipsis 5:8 los seres y los ancianos tenían copas de oro llenas de incienso. Aquí: llenas de la ira de Dios. Primera vez copas de la ira.
+  > Quien dio es <u>uno</u> de los cuatro seres vivientes. Lo alcanzado: siete copas de oro. A quién: a los siete ángeles. Antes los seres y los ancianos tenían copas de oro llenas de incienso. Aquí: llenas de la ira de Dios. Primera vez copas de la ira.
 
 + *copas*
   * ↳ *llenas* (γεμούσας)[^P]
-  > No cuelga de siete. Las <u>copas</u> están llenas de la ira de Dios. En Apocalipsis 15:1: en las plagas se completó la ira.
+  > Las <u>copas</u> están llenas de la ira de Dios. En las plagas se completó la ira.
 
 + *Dios*
   * ↳ *vive* (ζῶντος)[^P]
-  > No cuelga de ira. <u>Dios</u> es el que vive por los siglos de los siglos. En Apocalipsis 4:9 y Apocalipsis 5:14 ya se nombró.
+  > <u>Dios</u> es el que vive por los siglos de los siglos. Ya se nombró.
 
 ### Apocalipsis 15:8:2 — *y el templo se llenó de humo por la gloria de Dios y por su poder*
 
-* Actores principales: *el templo* (1)
-  > El recuento ya no es uno de los cuatro. Quien ocupa la línea es <u>el</u> templo, uno. Se abrió; salieron; se dieron las copas. Ahora: el templo.
+> Ya no es uno de los cuatro. Quien ocupa la línea es <u>el</u> templo. Se abrió; salieron; se dieron las copas. Ahora: el templo.
 
 #### *y el templo se llenó de humo por la gloria de Dios y por su poder*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y uno de los cuatro seres vivientes dio…*).
   > Ese <u>y</u> no suma otras copas. Tras dio: el templo se llenó.
 
 * *el templo* → *se llenó* → *de humo*
-  > Quien se llenó es <u>el</u> templo —el de la tienda del testimonio. Lo alcanzado: de humo. Por la gloria de Dios y por su poder. En Apocalipsis 8:4 el humo de los inciensos subió delante de Dios. En Apocalipsis 14:11 el humo del tormento sube. Aquí: el templo se llenó.
+  > Quien se llenó es <u>el</u> templo —el de la tienda del testimonio. Lo alcanzado: de humo. Por la gloria de Dios y por su poder. El humo de los inciensos subió delante de Dios. El humo del tormento sube. Aquí: el templo se llenó.
 
 ### Apocalipsis 15:8:18 — *y nadie podía entrar en el templo*
 
-* Actores principales: *las siete plagas de los siete ángeles* (1) · *nadie* (1)
-  > El recuento pone a <u>nadie</u> y a las siete plagas de los siete ángeles. El templo se llenó de humo. Ahora: nadie.
+> Pone a <u>nadie</u> y a las siete plagas de los siete ángeles. El templo se llenó de humo. Ahora: nadie.
 
 #### *y nadie podía entrar en el templo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el templo se llenó de humo por la gloria de Dios y por su poder*).
@@ -9267,19 +8948,18 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > Quien podía es <u>nadie</u>. Lo alcanzado: entrar. En el templo —el que se llenó. Hasta cuándo, anidado.
 
   * ↳ *entrar* (εἰσελθεῖν)[^I]
-  > Completa a <u>podía</u>: nadie podía entrar.
+  > <u>Podía</u> entrar.
 
 - *hasta que se completaran las siete plagas de los siete ángeles*
   * *hasta que* (ἄχρι)[^conn]
   > Ese <u>hasta que</u> no abre otro podía. Fija hasta cuándo nadie entra: hasta que se completaran las siete plagas.
 
   * *las siete plagas de los siete ángeles* → *se completaran*
-  > Quienes se completaran son <u>las</u> siete plagas de los siete ángeles. En Apocalipsis 15:1: en ellas se completó la ira de Dios. El texto no dice aquí que ya se completaron.
+  > Quienes se completaran son <u>las</u> siete plagas de los siete ángeles. En ellas se completó la ira de Dios. El texto no dice aquí que ya se completaron.
 
 ### Apocalipsis 16:1:2 — *Y oí una gran voz desde el templo que decía a los siete ángeles*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Nadie podía entrar en el templo. Ahora Juan oye.
+> Vuelve <u>Yo</u>, Juan. Nadie podía entrar en el templo. Ahora Juan oye.
 
 #### *Y oí una gran voz desde el templo que decía a los siete ángeles*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*hasta que se completaran las siete plagas de los siete ángeles*).
@@ -9290,147 +8970,134 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 + *voz*
   * ↳ *decía* (λεγούσης)[^P]
-  > No cuelga de gran. La <u>voz</u> está diciendo a los siete ángeles.
+  > La <u>voz</u> está diciendo a los siete ángeles.
 
 ### Apocalipsis 16:1:12 — *Vayan*
 
-* Actores principales: *los siete ángeles* (1)
-  > El recuento ya no es Juan. Quienes ocupan la línea son <u>los</u> siete ángeles, uno. La voz decía. Ahora: las palabras.
+> Ya no es Juan. Quienes ocupan la línea son <u>los</u> siete ángeles. La voz decía. Ahora: las palabras.
 
 #### *Vayan*
-  > Eso decía. No se narra. Se manda: <u>Vayan</u>. En Apocalipsis 15:6 salieron del templo. En Apocalipsis 15:7 se les dieron las copas. Ahora: vayan.
+  > Eso decía. No se narra. Se manda: <u>Vayan</u>. Antes salieron del templo. Se les dieron las copas. Ahora: vayan.
 
 * *los siete ángeles* → *Vayan*
-  > A quienes se manda son <u>los</u> siete ángeles. La flecha se detiene en Vayan.
+  > A quienes se manda son <u>los</u> siete ángeles.
 
 ### Apocalipsis 16:1:14 — *y derramen las copas de la ira de Dios sobre la tierra*
 
-* Actores principales: *los siete ángeles* (1)
-  > Siguen <u>los</u> siete ángeles, uno. Vayan; ahora: y derramen.
+> Siguen <u>los</u> siete ángeles. Vayan; ahora: y derramen.
 
 #### *y derramen las copas de la ira de Dios sobre la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Vayan*).
   > Ese <u>y</u> no suma otro vayan. Sigue el mismo mandato: Vayan — y derramen.
 
 * *los siete ángeles* → *derramen* → *las copas de la ira de Dios*
-  > Quienes derramen son los mismos. Lo alcanzado: <u>las</u> copas de la ira de Dios. Sobre la tierra. En Apocalipsis 15:7 se les dieron siete copas de oro llenas de esa ira. Ahora se manda derramarlas.
+  > Quienes derramen son los mismos. Lo alcanzado: <u>las</u> copas de la ira de Dios. Sobre la tierra. Se les dieron siete copas de oro llenas de esa ira. Ahora se manda derramarlas.
 
 ### Apocalipsis 16:2:2 — *Y el primero fue*
 
-* Actores principales: *el primero* (1)
-  > El recuento ya no es los siete. Quien ocupa la línea es <u>el</u> primero, uno. Les dijeron Vayan. Ahora: el primero.
+> Ya no son los siete. Quien ocupa la línea es <u>el</u> primero. Les dijeron Vayan. Ahora: el primero.
 
 #### *Y el primero fue*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y derramen las copas de la ira de Dios sobre la tierra*).
   > Ese <u>Y</u> no suma otro derramen. Tras el mandato: el primero fue.
 
 * *el primero* → *fue*
-  > Quien fue es <u>el</u> primero. Les dijeron Vayan. Él fue. El texto no dice aquí a dónde.
+  > Quien fue es <u>el</u> primero. Les dijeron *Vayan*. Él fue. El texto no dice aquí a dónde.
 
 ### Apocalipsis 16:2:6 — *y derramó su copa sobre la tierra*
 
-* Actores principales: *el primero* (1)
-  > Sigue <u>el</u> primero, uno. Fue. Ahora: derramó.
+> Sigue <u>el</u> primero. Fue. Ahora: derramó.
 
 #### *y derramó su copa sobre la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y el primero fue*).
   > Ese <u>y</u> no suma otro fue. Tras fue: derramó.
 
 * *el primero* → *derramó* → *su copa*
-  > Quien derramó es el mismo. Lo alcanzado: <u>su</u> copa. Sobre la tierra. Les dijeron derramen las copas de la ira de Dios sobre la tierra (Apocalipsis 16:1). El primero lo hace.
+  > Quien derramó es el mismo. Lo alcanzado: <u>su</u> copa. Sobre la tierra. Les dijeron *derramen* las copas de la ira de Dios sobre la tierra. El primero lo hace.
 
 ### Apocalipsis 16:2:14 — *y apareció una llaga mala y dolorosa sobre las personas que tenían la marca de la bestia y que adoraban su imagen*
 
-* Actores principales: *una llaga mala y dolorosa* (1)
-  > El recuento ya no es el primero. Quien ocupa la línea es <u>una</u> llaga mala y dolorosa, uno. Derramó sobre la tierra. Ahora: aparece.
+> Ya no es el primero. Quien ocupa la línea es <u>una</u> llaga mala y dolorosa. Derramó sobre la tierra. Ahora: aparece.
 
 #### *y apareció una llaga mala y dolorosa sobre las personas que tenían la marca de la bestia y que adoraban su imagen*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y derramó su copa sobre la tierra*).
   > Ese <u>y</u> no suma otra copa. Tras derramó: apareció una llaga.
 
 * *una llaga mala y dolorosa* → *apareció*
-  > Quien apareció es <u>una</u> llaga mala y dolorosa. Primera llaga. Sobre quiénes: las personas que tenían la marca de la bestia y que adoraban su imagen. En Apocalipsis 13:15–16 la imagen y la marca. En Apocalipsis 14:9–11: si alguien adora y recibe la marca, beberá del vino de la furia de Dios.
+  > Quien apareció es <u>una</u> llaga mala y dolorosa. Primera llaga. Sobre quiénes: las personas que tenían la marca de la bestia y que adoraban su imagen. Antes: la imagen y la marca. Si alguien adora y recibe la marca, beberá del vino de la furia de Dios.
 
 + *personas*
   * ↳ *tenían* (ἔχοντας)[^P]
   > Las <u>personas</u> son las que tenían la marca de la bestia.
 
   * ↳ *adoraban* (προσκυνοῦντας)[^P]
-  > No cuelga de imagen. Las mismas <u>adoraban</u> su imagen.
+  > Las mismas <u>adoraban</u> su imagen.
 
 ### Apocalipsis 16:3:4 — *Y el segundo ángel derramó su copa en el mar*
 
-* Actores principales: *el segundo ángel* (1)
-  > El recuento ya no es la llaga. Quien ocupa la línea es <u>el</u> segundo ángel, uno. El primero derramó sobre la tierra. Ahora: el segundo.
+> Ya no es la llaga. Quien ocupa la línea es <u>el</u> segundo ángel. El primero derramó sobre la tierra. Ahora: el segundo.
 
 #### *Y el segundo ángel derramó su copa en el mar*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y apareció una llaga mala y dolorosa…*).
   > Ese <u>Y</u> no suma otra llaga. Tras apareció: el segundo ángel derramó.
 
 * *el segundo ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> segundo ángel. Lo alcanzado: su copa. Dónde: en el mar. El primero: sobre la tierra. Este: en el mar. En Apocalipsis 16:2 el primero no se llamó ángel. Aquí: el segundo ángel.
+  > Quien derramó es <u>el</u> segundo ángel. Lo alcanzado: su copa. Dónde: en el mar. El primero: sobre la tierra. Este: en el mar. El primero no se llamó ángel. Aquí: el segundo ángel.
 
 ### Apocalipsis 16:3:12 — *y se convirtió en sangre como de muerto*
 
-* Actores principales: *el mar* (1)
-  > El recuento ya no es el segundo ángel. Quien ocupa la línea es <u>el</u> mar, uno. Derramó en el mar. Ahora: el mar.
+> Ya no es el segundo ángel. Quien ocupa la línea es <u>el</u> mar. Derramó en el mar. Ahora: el mar.
 
 #### *y se convirtió en sangre como de muerto*
 * *el mar* (καὶ)[^kai] une esta cláusula con la anterior (*Y el segundo ángel derramó su copa en el mar*).
   > Ese <u>el mar</u> no suma otra copa. Tras derramó: se convirtió.
 
 * *el mar* → *se convirtió* → *en sangre*
-  > Quien se convirtió es <u>el</u> mar. Lo alcanzado: en sangre. Como de muerto. En Apocalipsis 8:8 la tercera parte del mar se convirtió en sangre. Aquí no se dice una tercera. Como de muerto, primera vez.
+  > Quien se convirtió es <u>el</u> mar. Lo alcanzado: en sangre. Como de muerto. Antes la tercera parte del mar se convirtió en sangre. Aquí no se dice una tercera. Como de muerto, primera vez.
 
 ### Apocalipsis 16:3:20 — *y toda alma viviente murió en el mar*
 
-* Actores principales: *toda alma viviente* (1)
-  > El recuento ya no es el mar. Quien ocupa la línea es <u>toda</u> alma viviente, uno. El mar se convirtió en sangre como de muerto. Ahora: mueren.
+> Ya no es el mar. Quien ocupa la línea es <u>toda</u> alma viviente. El mar se convirtió en sangre como de muerto. Ahora: mueren.
 
 #### *y toda alma viviente murió en el mar*
 * *de muerto,* (καὶ)[^kai] une esta cláusula con la anterior (*y se convirtió en sangre como de muerto*).
   > Ese <u>de muerto</u> no suma otra sangre. Tras como de muerto: toda alma viviente murió.
 
 * *toda alma viviente* → *murió*
-  > Quien murió es <u>toda</u> alma viviente. En el mar. En Apocalipsis 8:9 murió la tercera parte de las criaturas que tenían vida. Aquí: toda. El texto no dice aquí qué alma es.
+  > Quien murió es <u>toda</u> alma viviente. En el mar. Antes murió la tercera parte de las criaturas que tenían vida. Aquí: toda. El texto no dice aquí qué alma es.
 
 ### Apocalipsis 16:4:4 — *Y el tercer ángel derramó su copa en los ríos y en las fuentes de las aguas*
 
-* Actores principales: *el tercer ángel* (1)
-  > El recuento ya no es toda alma viviente. Quien ocupa la línea es <u>el</u> tercer ángel, uno. El segundo derramó en el mar. Ahora: el tercero.
+> Ya no es toda alma viviente. Quien ocupa la línea es <u>el</u> tercer ángel. El segundo derramó en el mar. Ahora: el tercero.
 
 #### *Y el tercer ángel derramó su copa en los ríos y en las fuentes de las aguas*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y toda alma viviente murió en el mar*).
   > Ese <u>Y</u> no suma otra muerte. Tras murió: el tercer ángel derramó.
 
 * *el tercer ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> tercer ángel. Lo alcanzado: su copa. Dónde: en los ríos y en las fuentes de las aguas. El primero: la tierra. El segundo: el mar. Este: ríos y fuentes.
-
-> En Apocalipsis 14:7: adoren al que hizo el cielo, la tierra, el mar y las <u>fuentes</u>. En Apocalipsis 8:10 la tercera trompeta cayó sobre ríos y manantiales.
+  > Quien derramó es <u>el</u> tercer ángel. Lo alcanzado: su copa. En los ríos y en las fuentes. Tierra; mar; ahora ríos y fuentes. Antes: *adoren* al que hizo también las fuentes. La tercera trompeta cayó sobre ríos y manantiales.
 
 ### Apocalipsis 16:4:17 — *y se convirtió en sangre*
 
-* Actores principales: *los ríos y las fuentes de las aguas* (1)
-  > El recuento ya no es el tercer ángel. Quienes ocupan la línea son <u>los</u> ríos y las fuentes de las aguas, uno. Derramó en ellos. Ahora: ellos.
+> Ya no es el tercer ángel. Quienes ocupan la línea son <u>los</u> ríos y las fuentes de las aguas. Derramó en ellos. Ahora: ellos.
 
 #### *y se convirtió en sangre*
 * *de* (καὶ)[^kai] une esta cláusula con la anterior (*Y el tercer ángel derramó su copa en los ríos y en las fuentes de las aguas*).
   > Ese <u>de</u> no suma otra copa. Tras derramó: se convirtió.
 
 * *los ríos y las fuentes de las aguas* → *se convirtió* → *en sangre*
-  > Quienes se convirtieron son <u>los</u> ríos y las fuentes. Lo alcanzado: en sangre. En Apocalipsis 16:3 el mar se convirtió en sangre como de muerto. Aquí: en sangre. No dice como de muerto.
+  > Quienes se convirtieron son <u>los</u> ríos y las fuentes. Lo alcanzado: en sangre. El mar se convirtió en sangre como de muerto. Aquí: en sangre. No dice como de muerto.
 
 ### Apocalipsis 16:5:2 — *y oí al ángel de las aguas, diciendo*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. Los ríos y las fuentes se convirtieron en sangre. Ahora Juan oye.
+> Vuelve <u>Yo</u>, Juan. Los ríos y las fuentes se convirtieron en sangre. Ahora Juan oye.
 
 #### *y oí al ángel de las aguas, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y se convirtió en sangre*).
   > Ese <u>y</u> no suma otra sangre. Tras se convirtió: Juan oye al ángel de las aguas.
 
 * *Yo, Juan* → *oí* → *al ángel de las aguas*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: al ángel de las aguas. Primera vez ese nombre. En Apocalipsis 16:1 oyó una gran voz desde el templo. Aquí: al ángel de las aguas. El texto no dice aquí si es el tercero. Las palabras, todavía no.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: al ángel de las aguas. Primera vez ese nombre. Antes oyó una gran voz desde el templo. Aquí: al ángel de las aguas. El texto no dice aquí si es el tercero. Las palabras, todavía no.
 
 + *ángel*
   * ↳ *diciendo* (λέγοντος)[^P]
@@ -9438,34 +9105,31 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:5:9 — *Justo eres, Señor, el que es*
 
-* Actores principales: *Señor* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>Señor</u>, uno. El ángel de las aguas decía. Ahora: las palabras.
+> Ya no es Juan. Quien ocupa la línea es <u>Señor</u>. El ángel de las aguas decía. Ahora: las palabras.
 
 #### *Justo eres, Señor, el que es*
-  > Eso decía. En Apocalipsis 15:3: justos y verdaderos son tus caminos. Aquí: <u>Justo</u> eres, Señor, el que es.
+  > Eso decía. Antes: *justos y verdaderos son tus caminos*. Aquí: <u>Justo</u> eres, Señor, el que es.
 
 * *Señor* → *eres*
-  > Quien eres es <u>Señor</u>. La flecha se detiene en eres. Justo. En Apocalipsis 1:4: el que es y que era y que viene. El que era, todavía no.
+  > Quien eres es <u>Señor</u>. Justo. Antes: el que es y que era y que viene. El que era, todavía no.
 
 * ↳ *es* (ὢν)[^P]
-  > No cuelga de un nombre. Acompaña: el que <u>es</u>.
+  > El que <u>es</u>.
 
 ### Apocalipsis 16:5:14 — *y el que era*
 
-* Actores principales: *el que* (1)
-  > El recuento ya no es Señor suelto. Quien ocupa la línea es <u>el</u> que, uno. Justo eres, el que es. Ahora: y el que era.
+> Ya no es Señor suelto. Quien ocupa la línea es <u>el</u> que. Justo eres, el que es. Ahora: y el que era.
 
 #### *y el que era*
 * *el* (καὶ)[^kai] une esta cláusula con la anterior (*Justo eres, Señor, el que es*).
   > Ese <u>el</u> no abre otro Justo. Sigue el mismo nombre: el que es — y el que era.
 
 * *el que* → *era*
-  > Quien era es <u>el</u> que —el mismo Señor. En Apocalipsis 1:4: el que es y que era y que viene. En Apocalipsis 4:8 el orden era el que era, el que es y el que viene. El que viene, todavía no.
+  > Quien era es <u>el</u> que —el mismo Señor. Antes: el que es y que era y que viene. También: el que era, el que es y el que viene. El que viene, todavía no.
 
 ### Apocalipsis 16:5:16 — *y el que ha de ser*
 
-* Actores principales: *el que* (1) · *Señor* (1)
-  > El recuento pone a <u>el</u> que y a Señor. Sigue el nombre; el Señor es quien ha juzgado y quien dio.
+> Pone a <u>el</u> que y a Señor. Sigue el nombre; el Señor es quien ha juzgado y quien dio.
 
 #### *y el que ha de ser*
   > No dice el que viene. Aquí: el que <u>ha</u> de ser.
@@ -9474,15 +9138,15 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > El griego no trae verbo. El español pone ha de ser. La afirmación es <u>el</u> que.
 
 * *el que* → *ha de ser*
-  > Quien ha de ser es <u>el</u> que —el mismo Señor. En Apocalipsis 1:4: el que es y que era y que viene. Aquí: el que es, el que era y el que ha de ser. Por qué Justo eres, anidado.
+  > Quien ha de ser es <u>el</u> que —el mismo Señor. Antes: el que es y que era y que viene. Aquí: el que es, el que era y el que ha de ser. Por qué Justo eres, anidado.
 
 - *porque has juzgado estas cosas*
   * *porque* (ὅτι)[^hoti]
-  > Ese <u>porque</u> no abre otro ha de ser. Da por qué Justo eres: has juzgado estas cosas. En Apocalipsis 14:7 llegó la hora de su juicio. En Apocalipsis 6:10: hasta cuándo no juzgas.
+  > Ese <u>porque</u> no abre otro ha de ser. Da por qué Justo eres: has juzgado estas cosas. Antes llegó la hora de su juicio. También: *hasta cuándo* no juzgas.
 
   - *porque derramaron sangre de santos y profetas*
     * *porque* (ὅτι)[^hoti]
-    > Ese <u>porque</u> no abre otro has juzgado suelto. Da por qué has juzgado: derramaron sangre de santos y profetas. En Apocalipsis 6:10 las almas pedían que se vengara su sangre. El texto no nombra aquí quiénes derramaron.
+    > Ese <u>porque</u> no abre otro has juzgado suelto. Da por qué has juzgado: derramaron sangre de santos y profetas. Las almas pedían que se vengara su sangre. El texto no nombra aquí quiénes derramaron.
 
   - *y les diste sangre para beber*
     > No solo derramaron. <u>Les</u> diste sangre para beber. El mar y las fuentes se convirtieron en sangre.
@@ -9491,211 +9155,194 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
     > Quien dio es <u>Señor</u>. Lo alcanzado: sangre. A quiénes: les —los que derramaron.
 
     * ↳ *beber* (πιεῖν)[^I]
-    > Completa a <u>diste</u>: les diste sangre para beber.
+    > Les diste sangre para <u>beber</u>.
 
     - *porque son dignos*
       > Ese <u>porque</u> no abre otro diste suelto. Da por qué les diste: son dignos. El texto no abre aquí de qué.
 
 ### Apocalipsis 16:7:2 — *y oí a otro desde el altar, que decía*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel de las aguas dijo son dignos. Ahora Juan oye a otro.
+> Vuelve <u>Yo</u>, Juan. El ángel de las aguas dijo son dignos. Ahora Juan oye a otro.
 
 #### *y oí a otro desde el altar, que decía*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*porque son dignos*).
   > Ese <u>y</u> no suma otros dignos. Tras son dignos: Juan oye a otro desde el altar.
 
 * *Yo, Juan* → *oí* → *a otro*
-  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: a otro. Desde el altar. En Apocalipsis 16:5 oyó al ángel de las aguas. En Apocalipsis 14:18 otro salió del altar. El texto no dice aquí quién es. Las palabras, todavía no.
+  > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: a otro. Desde el altar. Antes oyó al ángel de las aguas. Otro salió del altar. El texto no dice aquí quién es. Las palabras, todavía no.
 
 + *otro*
   * ↳ *decía* (λέγοντος)[^P]
-  > No cuelga de altar. <u>Otro</u> está diciendo.
+  > <u>Otro</u> está diciendo.
 
 ### Apocalipsis 16:7:12 — *Sí, Señor Dios, el Todopoderoso, verdaderos y justos son tus juicios*
 
-* Actores principales: *tus juicios* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>tus</u> juicios, uno. Otro desde el altar decía. Ahora: las palabras.
+> Ya no es Juan. Quien ocupa la línea es <u>tus</u> juicios. Otro desde el altar decía. Ahora: las palabras.
 
 #### *Sí, Señor Dios, el Todopoderoso, verdaderos y justos son tus juicios*
-  > Eso decía. En Apocalipsis 14:13 el Espíritu dijo Sí. Aquí: <u>Sí</u>, Señor Dios, el Todopoderoso. En Apocalipsis 15:3: justos y verdaderos son tus caminos. Aquí: verdaderos y justos son tus juicios.
+  > Eso decía. El Espíritu dijo *Sí*. Aquí: <u>Sí</u>, Señor Dios, el Todopoderoso. Antes: *justos y verdaderos son tus caminos*. Aquí: verdaderos y justos son tus juicios.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español pone son. La afirmación es <u>verdaderos</u> y justos.
 
 * *tus juicios* → *verdaderos y justos*
-  > Quienes son verdaderos y justos son <u>tus</u> juicios. El ángel de las aguas dijo Justo eres, has juzgado. Este: tus juicios.
+  > Quienes son verdaderos y justos son <u>tus</u> juicios. El ángel de las aguas dijo *Justo eres*, has juzgado. Este: tus juicios.
 
 ### Apocalipsis 16:8:4 — *Y el cuarto ángel derramó su copa sobre el sol*
 
-* Actores principales: *el cuarto ángel* (1)
-  > El recuento ya no es tus juicios. Quien ocupa la línea es <u>el</u> cuarto ángel, uno. El altar dijo Sí. Ahora: el cuarto.
+> Ya no son tus juicios. Quien ocupa la línea es <u>el</u> cuarto ángel. El altar dijo Sí. Ahora: el cuarto.
 
 #### *Y el cuarto ángel derramó su copa sobre el sol*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Sí, Señor Dios, el Todopoderoso, verdaderos y justos son tus juicios*).
   > Ese <u>Y</u> no suma otro Sí. Tras tus juicios: el cuarto ángel derramó.
 
 * *el cuarto ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> cuarto ángel. Lo alcanzado: su copa. Dónde: sobre el sol. El primero: la tierra. El segundo: el mar. El tercero: ríos y fuentes. Este: el sol. En Apocalipsis 8:12 la cuarta trompeta hirió la tercera parte del sol.
+  > Quien derramó es <u>el</u> cuarto ángel. Lo alcanzado: su copa. Sobre el sol. Tierra; mar; ríos y fuentes; ahora el sol. La cuarta trompeta hirió la tercera parte del sol.
 
 ### Apocalipsis 16:8:12 — *y se le dio quemar a las personas con fuego*
 
-* Actores principales: *quemar a las personas con fuego* (1)
-  > El recuento ya no es el cuarto ángel. Quien ocupa la línea es <u>quemar</u> a las personas con fuego, uno. Derramó sobre el sol. Ahora: se le dio.
+> Ya no es el cuarto ángel. Quien ocupa la línea es <u>quemar</u> a las personas con fuego. Derramó sobre el sol. Ahora: se le dio.
 
 #### *y se le dio quemar a las personas con fuego*
 * *el sol,* (καὶ)[^kai] une esta cláusula con la anterior (*Y el cuarto ángel derramó su copa sobre el sol*).
   > Ese <u>el sol</u> no suma otra copa. Tras derramó sobre el sol: se le dio.
 
 * *quemar a las personas con fuego* → *se le dio*
-  > Quien se le dio es <u>quemar</u> a las personas con fuego. A quién: le. El texto no nombra aquí a quién es le. El dador tampoco. En Apocalipsis 8:12 la cuarta trompeta hirió el sol para oscurecer. Aquí: quemar.
+  > Quien se le dio es <u>quemar</u> a las personas con fuego. A quién: le. El texto no nombra aquí a quién es le. El dador tampoco. La cuarta trompeta hirió el sol para oscurecer. Aquí: quemar.
 
   * ↳ *quemar* (καυματίσαι)[^I]
-  > Completa a se le <u>dio</u>: se le dio quemar.
+  > Se le dio <u>quemar</u>.
 
 ### Apocalipsis 16:9:2 — *y las personas fueron quemadas con gran ardor*
 
-* Actores principales: *las personas* (1)
-  > El recuento ya no es quemar. Quienes ocupan la línea son <u>las</u> personas, uno. Se le dio quemar. Ahora: fueron quemadas.
+> Ya no es quemar. Quienes ocupan la línea son <u>las</u> personas. Se le dio quemar. Ahora: fueron quemadas.
 
 #### *y las personas fueron quemadas con gran ardor*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y se le dio quemar a las personas con fuego*).
   > Ese <u>y</u> no suma otro se le dio. Tras se le dio quemar: las personas fueron quemadas.
 
 * *las personas* → *fueron quemadas*
-  > Quienes fueron quemadas son <u>las</u> personas. Con gran ardor. Se le dio quemarlas con fuego. Aquí: fueron quemadas. En Apocalipsis 16:2 la llaga fue sobre las personas que tenían la marca. Aquí: las personas.
+  > Quienes fueron quemadas son <u>las</u> personas. Con gran ardor. Se le dio quemarlas con fuego. Aquí: fueron quemadas. La llaga fue sobre las personas que tenían la marca. Aquí: las personas.
 
 ### Apocalipsis 16:9:8 — *y blasfemaron el nombre de Dios, que tiene autoridad sobre estas plagas*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Fueron quemadas. Ahora: blasfemaron.
+> Siguen <u>las</u> personas. Fueron quemadas. Ahora: blasfemaron.
 
 #### *y blasfemaron el nombre de Dios, que tiene autoridad sobre estas plagas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y las personas fueron quemadas con gran ardor*).
   > Ese <u>y</u> no suma otro ardor. Tras fueron quemadas: blasfemaron.
 
 * *las personas* → *blasfemaron* → *el nombre de Dios*
-  > Quienes blasfemaron son las mismas. Lo alcanzado: <u>el</u> nombre de Dios. En Apocalipsis 13:6 la bestia abrió la boca para blasfemar el nombre de Dios. Aquí: las personas.
+  > Quienes blasfemaron son las mismas. Lo alcanzado: <u>el</u> nombre de Dios. La bestia abrió la boca para blasfemar el nombre de Dios. Aquí: las personas.
 
 + *Dios*
   * ↳ *tiene* (ἔχοντος)[^P]
-  > <u>Dios</u> es el que tiene autoridad sobre estas plagas. En Apocalipsis 15:1: siete últimas plagas. El texto no dice aquí que ellos lo niegan.
+  > <u>Dios</u> es el que tiene autoridad sobre estas plagas. Antes: siete últimas plagas. El texto no dice aquí que ellos lo niegan.
 
 ### Apocalipsis 16:9:23 — *y no se arrepintieron para darle gloria*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Blasfemaron. Ahora: no se arrepintieron.
+> Siguen <u>las</u> personas. Blasfemaron. Ahora: no se arrepintieron.
 
 #### *y no se arrepintieron para darle gloria*
 * *no* (καὶ)[^kai] une esta cláusula con la anterior (*y blasfemaron el nombre de Dios…*).
   > Ese <u>no</u> no suma otra blasfemia. Tras blasfemaron: no se arrepintieron.
 
 * *las personas* → *se arrepintieron*
-  > Quienes no se arrepintieron son las mismas. La flecha pone se arrepintieron; el no lo niega. En Apocalipsis 9:20 el resto no se arrepintió. En Apocalipsis 14:7: denle gloria. En Apocalipsis 11:13 los demás dieron gloria al Dios del cielo. Aquí: no, para darle gloria.
+  > Quienes no se arrepintieron son las mismas. El no lo niega. Antes el resto no se arrepintió. Se mandó: *denle gloria*. Los demás dieron gloria al Dios del cielo. Aquí: no, para darle gloria.
 
   * ↳ *darle* (δοῦναι)[^I]
-  > No completa a darle como dueño. Completa a se <u>arrepintieron</u>: no se arrepintieron para darle gloria.
+  > No se arrepintieron para <u>darle</u> gloria.
 
 ### Apocalipsis 16:10:4 — *Y el quinto ángel derramó su copa sobre el trono de la bestia*
 
-* Actores principales: *el quinto ángel* (1)
-  > El recuento ya no es las personas. Quien ocupa la línea es <u>el</u> quinto ángel, uno. No se arrepintieron. Ahora: el quinto.
+> Ya no son las personas. Quien ocupa la línea es <u>el</u> quinto ángel. No se arrepintieron. Ahora: el quinto.
 
 #### *Y el quinto ángel derramó su copa sobre el trono de la bestia*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y no se arrepintieron para darle gloria*).
   > Ese <u>Y</u> no suma otro no se arrepintieron. Tras no se arrepintieron: el quinto ángel derramó.
 
 * *el quinto ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> quinto ángel. Lo alcanzado: su copa. Dónde: sobre el trono de la bestia. Primera vez ese trono así nombrado. En Apocalipsis 13:2 el dragón le dio su trono. Los cuatro primeros: tierra, mar, ríos, sol. Este: el trono.
+  > Quien derramó es <u>el</u> quinto ángel. Lo alcanzado: su copa. Sobre el trono de la bestia. Primera vez ese trono así nombrado. El dragón le dio su trono. Tierra, mar, ríos, sol; ahora el trono.
 
 ### Apocalipsis 16:10:14 — *y su reino se volvió oscuro*
 
-* Actores principales: *su reino* (1)
-  > El recuento ya no es el quinto ángel. Quien ocupa la línea es <u>su</u> reino, uno. Derramó sobre el trono de la bestia. Ahora: su reino.
+> Ya no es el quinto ángel. Quien ocupa la línea es <u>su</u> reino. Derramó sobre el trono de la bestia. Ahora: su reino.
 
 #### *y su reino se volvió oscuro*
 * *de* (καὶ)[^kai] une esta cláusula con la anterior (*Y el quinto ángel derramó su copa sobre el trono de la bestia*).
   > Ese <u>de</u> no suma otra copa. Tras derramó sobre el trono: su reino se volvió oscuro.
 
 * *su reino* → *se volvió*
-  > Quien se volvió es <u>su</u> reino —el de la bestia. Oscuro. Primera vez que se nombra su reino. En Apocalipsis 11:15 los reinos del mundo han llegado a ser de nuestro Señor. En Apocalipsis 9:2 el sol y el aire se oscurecieron.
+  > Quien se volvió es <u>su</u> reino —el de la bestia. Oscuro. Primera vez que se nombra su reino. Los reinos del mundo han llegado a ser de nuestro Señor. El sol y el aire se oscurecieron.
 
 * ↳ *oscuro* (ἐσκοτωμένη)[^P]
-  > No cuelga de su. Acompaña a se <u>volvió</u>: se volvió oscuro.
+  > Se <u>volvió</u> oscuro.
 
 ### Apocalipsis 16:10:20 — *y se mordían las lenguas por el dolor*
 
-* Actores principales: *las personas* (1)
-  > El recuento ya no es su reino. Quienes ocupan la línea son <u>las</u> personas, uno. El reino se volvió oscuro. Ahora: ellas.
+> Ya no es su reino. Quienes ocupan la línea son <u>las</u> personas. El reino se volvió oscuro. Ahora: ellas.
 
 #### *y se mordían las lenguas por el dolor*
 * *oscuro,* (καὶ)[^kai] une esta cláusula con la anterior (*y su reino se volvió oscuro*).
   > Ese <u>oscuro</u> no suma otro reino. Tras se volvió oscuro: se mordían las lenguas.
 
 * *las personas* → *se mordían* → *las lenguas*
-  > Quienes se mordían son <u>las</u> personas. Lo alcanzado: las lenguas. Por el dolor. En Apocalipsis 16:9 fueron quemadas y blasfemaron. Aquí: se muerden. El texto no dice aquí de quién es el dolor.
+  > Quienes se mordían son <u>las</u> personas. Lo alcanzado: las lenguas. Por el dolor. Antes fueron quemadas y blasfemaron. Aquí: se muerden. El texto no dice aquí de quién es el dolor.
 
 ### Apocalipsis 16:11:2 — *y blasfemaron al Dios del cielo por sus dolores y por sus llagas*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Se mordían las lenguas. Ahora: blasfemaron otra vez.
+> Siguen <u>las</u> personas. Se mordían las lenguas. Ahora: blasfemaron otra vez.
 
 #### *y blasfemaron al Dios del cielo por sus dolores y por sus llagas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y se mordían las lenguas por el dolor*).
   > Ese <u>y</u> no suma otro morder. Tras se mordían: blasfemaron.
 
 * *las personas* → *blasfemaron* → *al Dios del cielo*
-  > Quienes blasfemaron son las mismas. Lo alcanzado: <u>al</u> Dios del cielo. Por sus dolores y por sus llagas. En Apocalipsis 16:9 blasfemaron el nombre de Dios. Aquí: al Dios del cielo.
-
-> En Apocalipsis 11:13 los demás dieron gloria al Dios del <u>cielo</u>. En Apocalipsis 16:2 apareció una llaga. Aquí: llagas.
+  > Quienes blasfemaron son las mismas. Lo alcanzado: <u>al</u> Dios del cielo. Por sus dolores y por sus llagas. Antes blasfemaron el nombre de Dios. Aquí: al Dios del cielo. Los demás dieron gloria al Dios del cielo. Antes apareció una llaga. Aquí: llagas.
 
 ### Apocalipsis 16:11:18 — *y no se arrepintieron de sus obras*
 
-* Actores principales: *las personas* (1)
-  > Siguen <u>las</u> personas, uno. Blasfemaron al Dios del cielo. Ahora: otra vez no se arrepintieron.
+> Siguen <u>las</u> personas. Blasfemaron al Dios del cielo. Ahora: otra vez no se arrepintieron.
 
 #### *y no se arrepintieron de sus obras*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y blasfemaron al Dios del cielo por sus dolores y por sus llagas*).
   > Ese <u>y</u> no suma otra blasfemia. Tras blasfemaron: no se arrepintieron.
 
 * *las personas* → *se arrepintieron*
-  > Quienes no se arrepintieron son las mismas. La flecha pone se arrepintieron; el no lo niega. De sus obras. En Apocalipsis 16:9 no se arrepintieron para darle gloria. En Apocalipsis 9:20 el resto no se arrepintió de las obras de las manos de ellos. Aquí: de sus obras.
+  > Quienes no se arrepintieron son las mismas. El no lo niega. De sus obras. Antes: no se arrepintieron para darle gloria. El resto no se arrepintió de las obras de las manos de ellos. Aquí: de sus obras.
 
 ### Apocalipsis 16:12:4 — *Y el sexto ángel derramó su copa sobre el gran río Éufrates*
 
-* Actores principales: *el sexto ángel* (1)
-  > El recuento ya no es las personas. Quien ocupa la línea es <u>el</u> sexto ángel, uno. No se arrepintieron de sus obras. Ahora: el sexto.
+> Ya no son las personas. Quien ocupa la línea es <u>el</u> sexto ángel. No se arrepintieron de sus obras. Ahora: el sexto.
 
 #### *Y el sexto ángel derramó su copa sobre el gran río Éufrates*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y no se arrepintieron de sus obras*).
   > Ese <u>Y</u> no suma otro no se arrepintieron. Tras de sus obras: el sexto ángel derramó.
 
 * *el sexto ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> sexto ángel. Lo alcanzado: su copa. Dónde: sobre el gran río Éufrates. Primera vez Éufrates en las copas. En Apocalipsis 9:14 la sexta trompeta: suelten a los cuatro ángeles atados junto al gran río Éufrates.
+  > Quien derramó es <u>el</u> sexto ángel. Lo alcanzado: su copa. Sobre el gran río Éufrates. Primera vez Éufrates en las copas. La sexta trompeta: suelten a los cuatro ángeles atados junto al gran río Éufrates.
 
 ### Apocalipsis 16:12:16 — *y su agua se secó*
 
-* Actores principales: *el camino de los reyes que vienen de donde sale el sol* (1) · *su agua* (1)
-  > El recuento pone a <u>su</u> agua y al camino de los reyes que vienen de donde sale el sol. Derramó sobre el Éufrates. Ahora: el agua; el camino entra en el para qué.
+> Pone a <u>su</u> agua y al camino de los reyes que vienen de donde sale el sol. Derramó sobre el Éufrates. Ahora: el agua; el camino entra en el para qué.
 
 #### *y su agua se secó*
 * *Éufrates* (καὶ)[^kai] une esta cláusula con la anterior (*Y el sexto ángel derramó su copa sobre el gran río Éufrates*).
   > Ese <u>Éufrates</u> no suma otra copa. Tras derramó: su agua se secó.
 
 * *su agua* → *se secó*
-  > Quien se secó es <u>su</u> agua —la del Éufrates. En Apocalipsis 14:15 la cosecha de la tierra se había secado. Aquí: el agua. Para qué, anidado.
+  > Quien se secó es <u>su</u> agua —la del Éufrates. La cosecha de la tierra se había secado. Aquí: el agua. Para qué, anidado.
 
 - *para que se preparara el camino de los reyes que vienen de donde sale el sol*
   * *para que* (ἵνα)[^hina]
   > Ese <u>para que</u> no abre otro se secó. Trae el para qué de se secó: que se preparara el camino.
 
   * *el camino de los reyes que vienen de donde sale el sol* → *se preparara*
-  > Quien se preparara es <u>el</u> camino de los reyes que vienen de donde sale el sol. En Apocalipsis 7:2 otro ángel subía desde el oriente del sol. El texto no dice aquí quiénes son los reyes ni que ya llegaron.
+  > Quien se preparara es <u>el</u> camino de los reyes que vienen de donde sale el sol. Otro ángel subía desde el oriente del sol. El texto no dice aquí quiénes son los reyes ni que ya llegaron.
 
 ### Apocalipsis 16:13:2 — *y vi salir de la boca del dragón y de la boca de la bestia y de la boca del falso profeta, tres espíritus impuros como ranas*
 
-* Actores principales: *que* (1) · *tres espíritus impuros* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>Yo</u>, Juan, a tres espíritus impuros y a que. El agua se secó. Ahora Juan ve; los espíritus salen.
+> Pone a <u>Yo</u>, Juan, a tres espíritus impuros y a que. El agua se secó. Ahora Juan ve; los espíritus salen.
 
 #### *y vi salir de la boca del dragón y de la boca de la bestia y de la boca del falso profeta, tres espíritus impuros como ranas*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*para que se preparara el camino de los reyes…*).
@@ -9709,7 +9356,7 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
   > Ese <u>son</u> no abre otro vi. Da por qué: son espíritus de demonios que hacen señales.
 
   * *tres espíritus impuros* → *son*
-  > Quienes son son los mismos <u>tres</u>. Espíritus de demonios. En Apocalipsis 13:13 la otra bestia hacía grandes señales.
+  > Quienes son son los mismos <u>tres</u>. Espíritus de demonios. La otra bestia hacía grandes señales.
 
   + *espíritus*
     * ↳ *hacen* (ποιοῦντα)[^P]
@@ -9720,41 +9367,39 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
     > Ese <u>que</u> no abre otros espíritus. Describe a los mismos: salen hacia los reyes.
 
     * *que* → *salen*
-    > Quienes salen son <u>que</u> —los espíritus. Hacia los reyes de la tierra y de toda la tierra habitada. En Apocalipsis 16:12 se preparaba el camino de los reyes que vienen de donde sale el sol. El texto no dice aquí que son los mismos.
+    > Quienes salen son <u>que</u> —los espíritus. Hacia los reyes de la tierra y de toda la tierra habitada. Se preparaba el camino de los reyes que vienen de donde sale el sol. El texto no dice aquí que son los mismos.
 
     * ↳ *reunirlos* (συναγαγεῖν)[^I]
-    > No cuelga de habitada. Completa a <u>salen</u>: salen para reunirlos para la guerra de aquel gran día de Dios, el Todopoderoso. Primera vez ese día así nombrado.
+    > Salen para <u>reunirlos</u> para la guerra de aquel gran día de Dios, el Todopoderoso. Primera vez ese día así nombrado.
 
 ### Apocalipsis 16:15:2 — *He aquí, vengo como ladrón*
 
-* Actores principales: *Señor* (1)
-  > El recuento ya no es Juan ni los espíritus. Quien ocupa la línea es <u>Señor</u>, uno. Salían a reunir para la guerra. Ahora: He aquí.
+> Ya no es Juan ni los espíritus. Quien ocupa la línea es <u>Señor</u>. Salían a reunir para la guerra. Ahora: He aquí.
 
 #### *He aquí, vengo como ladrón*
-  > No sigue el reunir. <u>He</u> aquí: vengo como ladrón. En Apocalipsis 3:3: si no te mantienes vigilante, vendré sobre ti como ladrón.
+  > No sigue el reunir. <u>He</u> aquí: vengo como ladrón. Antes: si no te mantienes vigilante, vendré sobre ti como ladrón.
 
 * *Señor* → *vengo*
-  > Quien viene es <u>Señor</u>. La flecha se detiene en vengo. Como ladrón. El texto no dice aquí a quién.
+  > Quien viene es <u>Señor</u>. Como ladrón. El texto no dice aquí a quién.
 
 ### Apocalipsis 16:15:5 — *Dichoso el que se mantiene despierto y guarda sus vestidos*
 
-* Actores principales: *el que se mantiene despierto y guarda sus vestidos* (2)
-  > El recuento ya no es Señor. Quien ocupa la línea es <u>el</u> que se mantiene despierto y guarda sus vestidos, dos. Vengo como ladrón. Ahora: Dichoso.
+> Ya no es Señor. Quien ocupa la línea es <u>el</u> que se mantiene despierto y guarda sus vestidos. Vengo como ladrón. Ahora: Dichoso.
 
 #### *Dichoso el que se mantiene despierto y guarda sus vestidos*
-  > En Apocalipsis 1:3: Dichoso el que lee. En Apocalipsis 14:13: Dichosos los muertos. Aquí: <u>Dichoso</u> el que se mantiene despierto y guarda sus vestidos. En Apocalipsis 3:3: si no te mantienes vigilante, vendré como ladrón.
+  > Al principio: *Dichoso* el que lee. También: *Dichosos* los muertos. Aquí: <u>Dichoso</u> el que se mantiene despierto y guarda sus vestidos. Antes: si no te mantienes vigilante, vendré como ladrón.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español pone es. La afirmación es <u>Dichoso</u>.
 
 * *el que se mantiene despierto y guarda sus vestidos* → *Dichoso*
-  > Quien es dichoso es <u>el</u> que se mantiene despierto y guarda sus vestidos. En Apocalipsis 3:4 unos pocos no mancharon sus vestiduras.
+  > Quien es dichoso es <u>el</u> que se mantiene despierto y guarda sus vestidos. Unos pocos no mancharon sus vestiduras.
 
 * ↳ *despierto* (γρηγορῶν)[^P]
-  > No cuelga de un nombre. Acompaña: el que se mantiene <u>despierto</u>.
+  > El que se mantiene <u>despierto</u>.
 
 * ↳ *guarda* (τηρῶν)[^P]
-  > No cuelga de un nombre. Acompaña: y <u>guarda</u> sus vestidos.
+  > Y <u>guarda</u> sus vestidos.
 
 - *para que no ande desnudo*
   * *para que* (ἵνα)[^hina]
@@ -9768,15 +9413,14 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:16:2 — *y los reunió en el lugar que en hebreo se llama Armagedón*
 
-* Actores principales: *tres espíritus impuros* (1)
-  > El recuento ya no es el que se mantiene despierto. Quienes ocupan la línea son <u>tres</u> espíritus impuros, uno. Salían para reunir. Ahora: reunió.
+> Ya no es el que se mantiene despierto. Quienes ocupan la línea son <u>tres</u> espíritus impuros. Salían para reunir. Ahora: reunió.
 
 #### *y los reunió en el lugar que en hebreo se llama Armagedón*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vean su vergüenza*).
   > Ese <u>y</u> no suma otra vergüenza. Tras Dichoso: los reunió. Vuelve al hilo de los espíritus.
 
 * *tres espíritus impuros* → *reunió* → *los*
-  > Quienes reunieron son <u>tres</u> espíritus impuros. Lo alcanzado: los —los reyes a quienes salían. Dónde: en el lugar que en hebreo se llama Armagedón. Primera vez. En Apocalipsis 9:11 un nombre en hebreo: Abadón. El texto no abre aquí qué es Armagedón.
+  > Quienes reunieron son <u>tres</u> espíritus impuros. Lo alcanzado: los —los reyes a quienes salían. En el lugar que en hebreo se llama Armagedón. Primera vez. Antes un nombre en hebreo: Abadón. El texto no abre aquí qué es Armagedón.
 
 + *lugar*
   * ↳ *llama* (καλούμενον)[^P]
@@ -9784,20 +9428,18 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:17:4 — *Y el séptimo ángel derramó su copa en el aire*
 
-* Actores principales: *el séptimo ángel* (1)
-  > El recuento ya no es los tres espíritus. Quien ocupa la línea es <u>el</u> séptimo ángel, uno. Los reunió en Armagedón. Ahora: el séptimo.
+> Ya no son los tres espíritus. Quien ocupa la línea es <u>el</u> séptimo ángel. Los reunió en Armagedón. Ahora: el séptimo.
 
 #### *Y el séptimo ángel derramó su copa en el aire*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y los reunió en el lugar que en hebreo se llama Armagedón*).
   > Ese <u>Y</u> no suma otro lugar. Tras Armagedón: el séptimo ángel derramó.
 
 * *el séptimo ángel* → *derramó* → *su copa*
-  > Quien derramó es <u>el</u> séptimo ángel. Lo alcanzado: su copa. Dónde: en el aire. Primera vez el aire. Tierra, mar, ríos, sol, trono, Éufrates; este: el aire. El último de los siete.
+  > Quien derramó es <u>el</u> séptimo ángel. Lo alcanzado: su copa. En el aire. Primera vez el aire. Tierra, mar, ríos, sol, trono, Éufrates; este: el aire. El último de los siete.
 
 ### Apocalipsis 16:17:12 — *y salió una gran voz desde el templo del cielo, desde el trono, que decía*
 
-* Actores principales: *una gran voz* (1)
-  > El recuento ya no es el séptimo ángel. Quien ocupa la línea es <u>una</u> gran voz, uno. El séptimo derramó en el aire. Ahora: la voz.
+> Ya no es el séptimo ángel. Quien ocupa la línea es <u>una</u> gran voz. El séptimo derramó en el aire. Ahora: la voz.
 
 #### *y salió una gran voz desde el templo del cielo, desde el trono, que decía*
 * *el aire,* (καὶ)[^kai] une esta cláusula con la anterior (*Y el séptimo ángel derramó su copa en el aire*).
@@ -9808,20 +9450,18 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 + *voz*
   * ↳ *decía* (λέγουσα)[^P]
-  > No cuelga de desde. La <u>voz</u> está diciendo.
+  > La <u>voz</u> está diciendo — no solo salió.
 
 ### Apocalipsis 16:17:22 — *Está hecho*
 
-* Actores principales: *una gran voz* (1)
-  > El recuento sigue siendo <u>una</u> gran voz, uno. Salió desde el templo y el trono. Ahora: las palabras.
+> Sigue siendo <u>una</u> gran voz. Salió desde el templo y el trono. Ahora: las palabras.
 
 #### *Está hecho*
   > Eso decía. No se narra. Se afirma: <u>Está</u> hecho. En Apocalipsis 15:1: en las plagas se completó la ira de Dios. En Apocalipsis 15:8: nadie podía entrar hasta que se completaran las siete plagas. El séptimo derramó. El texto no abre aquí qué entra ahora.
 
 ### Apocalipsis 16:18:2 — *y hubo voces, truenos y relámpagos*
 
-* Actores principales: *voces, truenos y relámpagos* (1)
-  > El recuento ya no es la gran voz. Quienes ocupan la línea son <u>voces</u>, truenos y relámpagos —un solo bloque. Está hecho. Ahora: hubo.
+> Ya no es la gran voz. Quienes ocupan la línea son <u>voces</u>, truenos y relámpagos —un solo bloque. Está hecho. Ahora: hubo.
 
 #### *y hubo voces, truenos y relámpagos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Está hecho*).
@@ -9832,20 +9472,19 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:18:10 — *y un gran terremoto*
 
-* Actores principales: *como* (1) · *los hombres* (1) · *un gran terremoto* (1)
-  > El recuento ya no es voces, truenos y relámpagos. Quien ocupa la línea es <u>un</u> gran terremoto, uno. Como y los hombres entran: miden cuán gran.
+> Ya no son voces, truenos y relámpagos. Quien ocupa la línea es <u>un</u> gran terremoto. *Como* y *los hombres* entran: miden cuán gran.
 
 #### *y un gran terremoto*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y hubo voces, truenos y relámpagos*).
   > Ese <u>y</u> no suma otras voces. Tras los tres: un gran terremoto.
 
 * *un gran terremoto* → *gran*
-  > Quien está en la línea es <u>un</u> gran terremoto. El medio trae gran —el tamaño en la flecha. En Apocalipsis 6:12, Apocalipsis 8:5, Apocalipsis 11:13 y Apocalipsis 11:19 ya hubo terremoto. Aquí: gran. Cuán gran, anidado.
+  > Quien está en la línea es <u>un</u> gran terremoto. En Apocalipsis 6:12, Apocalipsis 8:5, Apocalipsis 11:13 y Apocalipsis 11:19 ya hubo terremoto. Aquí: gran. Cuán gran, abajo.
 
 - *como no había habido*
 
 * *como* → *había habido*
-  > Quien no había habido es <u>como</u> —tal terremoto. La flecha se detiene en había habido.
+  > <u>Como</u> mide el terremoto: tal no había habido.
 
 + *un gran terremoto*
   * *como* (οἷος)[^rel]: describe a *un gran terremoto*.
@@ -9864,8 +9503,7 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:19:2 — *y la gran ciudad se dividió en tres partes*
 
-* Actores principales: *la gran ciudad* (1)
-  > El recuento ya no es el terremoto. Quien ocupa la línea es <u>la</u> gran ciudad, uno. Tan grande, tan fuerte. Ahora: se dividió.
+> Ya no es el terremoto. Quien ocupa la línea es <u>la</u> gran ciudad. Tan grande, tan fuerte. Ahora: se dividió.
 
 #### *y la gran ciudad se dividió en tres partes*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y un gran terremoto*).
@@ -9876,8 +9514,7 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:19:15 — *y las ciudades de las naciones cayeron*
 
-* Actores principales: *las ciudades de las naciones* (1)
-  > El recuento ya no es la gran ciudad. Quienes ocupan la línea son <u>las</u> ciudades de las naciones, uno. Una se dividió. Ahora: estas cayeron.
+> Ya no es la gran ciudad. Quienes ocupan la línea son <u>las</u> ciudades de las naciones. Una se dividió. Ahora: estas cayeron.
 
 #### *y las ciudades de las naciones cayeron*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y la gran ciudad se dividió en tres partes*).
@@ -9888,23 +9525,21 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:19:20 — *y Babilonia la grande fue recordada delante de Dios, para darle la copa del vino de la furia de su ira*
 
-* Actores principales: *Babilonia la grande* (1)
-  > El recuento ya no es las ciudades de las naciones. Quien ocupa la línea es <u>Babilonia</u> la grande, uno. Esas cayeron. Ahora: esta es recordada.
+> Ya no son las ciudades de las naciones. Quien ocupa la línea es <u>Babilonia</u> la grande. Esas cayeron. Ahora: esta es recordada.
 
 #### *y Babilonia la grande fue recordada delante de Dios, para darle la copa del vino de la furia de su ira*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y las ciudades de las naciones cayeron*).
   > Ese <u>y</u> no suma otra ciudad caída. Tras cayeron: Babilonia fue recordada.
 
 * *Babilonia la grande* → *fue recordada*
-  > Quien fue recordada es <u>Babilonia</u> la grande. Delante de Dios. En Apocalipsis 14:8 se anunció: Cayó, cayó. Aquí: fue recordada. Para qué, el infinitivo.
+  > Quien fue recordada es <u>Babilonia</u> la grande. Delante de Dios. En Apocalipsis 14:8 se anunció: *Cayó, cayó*. Aquí: fue recordada. Para qué, abajo.
 
   * ↳ *darle* (δοῦναι)[^I]
-  > No completa a darle como dueño. Completa a fue <u>recordada</u>: para darle la copa del vino de la furia de su ira. En Apocalipsis 14:8 ella dio de beber a las naciones. En Apocalipsis 14:10: la copa de su ira. Aquí: se le da a ella.
+  > Fue <u>recordada</u> para darle la copa del vino de la furia de su ira. En Apocalipsis 14:8 ella dio de beber a las naciones. En Apocalipsis 14:10: la copa de su ira. Aquí: se le da a ella.
 
 ### Apocalipsis 16:20:4 — *y toda isla huyó*
 
-* Actores principales: *toda isla* (1)
-  > El recuento ya no es Babilonia. Quien ocupa la línea es <u>toda</u> isla, uno. Fue recordada. Ahora: huyó.
+> Ya no es Babilonia. Quien ocupa la línea es <u>toda</u> isla. Fue recordada. Ahora: huyó.
 
 #### *y toda isla huyó*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y Babilonia la grande fue recordada delante de Dios…*).
@@ -9915,15 +9550,14 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:20:8 — *y no se encontraron montes*
 
-* Actores principales: *granizo grande* (1) · *montes* (1)
-  > El recuento pone a <u>montes</u> y a granizo grande. Toda isla huyó. Ahora: los montes no se encuentran; el granizo cae.
+> Quienes ocupan la línea son <u>montes</u> y granizo grande. Toda isla huyó. Ahora: los montes no se encuentran; el granizo cae.
 
 #### *y no se encontraron montes*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y toda isla huyó*).
   > Ese <u>y</u> no suma otra isla. Tras huyó: no se encontraron montes.
 
 * *montes* → *se encontraron*
-  > Quienes no se encontraron son <u>montes</u>. La flecha pone se encontraron; el no lo niega. En Apocalipsis 6:14 montaña e isla fueron removidas. Aquí: no se encontraron.
+  > Quienes no se encontraron son <u>montes</u>. En Apocalipsis 6:14 montaña e isla fueron removidas. Aquí: no se encontraron.
 
 - *y granizo grande, como de un talento, cae del cielo sobre las personas*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y no se encontraron montes*).
@@ -9933,8 +9567,7 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### Apocalipsis 16:21:14 — *y las personas blasfemaron a Dios por la plaga del granizo*
 
-* Actores principales: *las personas* (1) · *su plaga* (1)
-  > El recuento pone a <u>las</u> personas y a su plaga. Cayó el granizo. Ahora: blasfemaron; la plaga da el porqué.
+> Quienes ocupan la línea son <u>las</u> personas y su plaga. Cayó el granizo. Ahora: blasfemaron; la plaga da el porqué.
 
 #### *y las personas blasfemaron a Dios por la plaga del granizo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y granizo grande, como de un talento, cae del cielo sobre las personas*).
@@ -9952,17 +9585,17 @@ El lagar es pisado fuera de la ciudad, y sale sangre hasta los frenos de los cab
 
 ### En síntesis
 
-El tramo abre después del lagar: otra señal, grande y maravillosa —siete ángeles, siete últimas plagas, porque en ellas se completó la ira de Dios.
+Después del lagar: otra señal, *grande y maravillosa* —siete ángeles, siete *últimas* plagas, *porque en ellas se completó la ira de Dios*.
 
-Los que vencían están de pie y cantan el cántico de Moisés y el del cordero. Se abre el templo de la tienda del testimonio; se les dan las copas; nadie puede entrar hasta que se completen las plagas.
+Los que vencían están de pie y cantan el cántico de Moisés y el del cordero. Se abre el templo de la tienda del testimonio; se les dan las copas; *nadie* puede entrar hasta que se completen las plagas.
 
-Una voz desde el templo manda: vayan y derramen. Copa tras copa responde la tierra; las personas blasfeman y no se arrepienten.
+Una voz desde el templo manda: *vayan* y *derramen*. Copa tras copa responde la tierra; las personas blasfeman y no se arrepienten.
 
-La sexta seca el Éufrates; tres espíritus impuros reúnen reyes. Una voz corta: He aquí, vengo como ladrón. Luego los reunió en Armagedón.
+La sexta seca el Éufrates; tres espíritus impuros reúnen reyes. Una voz corta: *He aquí, vengo como ladrón*. Luego *los reunió* en *Armagedón*.
 
-La séptima se derrama en el aire. Una voz desde el templo del cielo, desde el trono: Está hecho. Terremoto como no había habido; la gran ciudad se divide; Babilonia es recordada para la copa.
+La séptima se derrama en el aire. Una voz desde el templo del cielo, desde el trono: *Está hecho*. Terremoto como no había habido; la gran ciudad se divide; *Babilonia la grande* es recordada para la copa.
 
-Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blasfeman a Dios por la plaga, porque era sumamente grande. Lo que sigue: Ven, te mostraré el juicio de la gran prostituta.
+Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blasfeman a Dios por la plaga, *porque* era sumamente grande.
 
 ## Apocalipsis 17:1–19:10 El juicio de la gran prostituta
 
@@ -10064,8 +9697,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:1:2 — El juicio de la gran prostituta
 
-* Actores principales: *uno de los siete ángeles que tenían las siete copas* (1)
-  > El recuento ya no es las personas. Quien ocupa la línea es <u>uno</u> de los siete ángeles que tenían las siete copas, uno. Blasfemaron por el granizo. Ahora: uno de esos siete viene.
+> Ya no son las personas. Quien ocupa la línea es <u>uno</u> de los siete ángeles que tenían las siete copas. Blasfemaron por el granizo. Ahora: uno de esos siete viene.
 
 #### *Y vino uno de los siete ángeles que tenían las siete copas*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y las personas blasfemaron a Dios por la plaga del granizo*).
@@ -10076,12 +9708,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 + *ángeles*
   * ↳ *tenían* (ἐχόντων)[^P]
-  > No cuelga de siete. Los <u>ángeles</u> son los que tenían las siete copas.
+  > Los <u>ángeles</u> son los que tenían las siete copas.
 
 ### Apocalipsis 17:1:14 — *y habló conmigo, diciéndome*
 
-* Actores principales: *uno de los siete ángeles que tenían las siete copas* (1)
-  > Sigue <u>uno</u> de los siete ángeles que tenían las siete copas, uno. Vino. Ahora: habla.
+> Sigue <u>uno</u> de los siete ángeles que tenían las siete copas. Vino. Ahora: habla.
 
 #### *y habló conmigo, diciéndome*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y vino uno de los siete ángeles que tenían las siete copas*).
@@ -10091,12 +9722,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien habló es el mismo. Conmigo —Juan. En Apocalipsis 7:13 uno de los ancianos respondió, diciéndome. Aquí: uno de los siete. Qué dice, todavía no.
 
   * ↳ *diciéndome* (λέγων)[^P]
-  > No cuelga de uno como dueño. Acompaña a <u>habló</u>: habló, diciéndome.
+  > Acompaña a <u>habló</u>: habló, diciéndome.
 
 ### Apocalipsis 17:1:19 — *Ven, te mostraré el juicio de la gran prostituta que está sentada sobre las muchas aguas*
 
-* Actores principales: *los que habitan la tierra* (1) · *los reyes de la tierra* (1) · *uno de los siete ángeles que tenían las siete copas* (1)
-  > El recuento pone a <u>uno</u> de los siete ángeles, a los reyes de la tierra y a los que habitan la tierra. Él habla. Reyes y habitantes entran: describen a ella.
+> Habla <u>uno</u> de los siete ángeles. Entran también *los reyes de la tierra* y *los que habitan la tierra*: describen a ella.
 
 #### *Ven, te mostraré el juicio de la gran prostituta que está sentada sobre las muchas aguas*
   > Eso decía. Se manda: <u>Ven</u>. Luego: te mostraré. Primera vez gran prostituta. Primera vez su juicio. Sobre las muchas aguas. El texto no abre aquí qué aguas son.
@@ -10106,7 +9736,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 + *prostituta*
   * ↳ *sentada* (καθημένης)[^P]
-  > No cuelga de gran. La <u>prostituta</u> está sentada sobre las muchas aguas.
+  > La <u>prostituta</u> está sentada sobre las muchas aguas.
 
 - *con la cual los reyes de la tierra se prostituyeron*
 
@@ -10125,12 +9755,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quienes se embriagaron son <u>los</u> que habitan la tierra. Del vino de su prostitución. En Apocalipsis 14:8 las naciones bebieron. Aquí: estos se embriagaron.
 
 * ↳ *habitan* (κατοικοῦντες)[^P]
-  > No cuelga de vino. Marca a quienes se embriagaron: los que <u>habitan</u> la tierra.
+  > Marca a quienes se embriagaron: los que <u>habitan</u> la tierra.
 
 ### Apocalipsis 17:3:2 — *y me llevó al desierto en espíritu*
 
-* Actores principales: *uno de los siete ángeles que tenían las siete copas* (1)
-  > Sigue <u>uno</u> de los siete ángeles que tenían las siete copas, uno. Dijo Ven, te mostraré. Ahora: lleva.
+> Sigue <u>uno</u> de los siete ángeles que tenían las siete copas. Dijo *Ven, te mostraré*. Ahora: lleva.
 
 #### *y me llevó al desierto en espíritu*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Ven, te mostraré el juicio de la gran prostituta…*).
@@ -10141,8 +9770,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:3:9 — *y vi a una mujer sentada sobre una bestia escarlata, llena de nombres de blasfemia, que tenía siete cabezas y diez cuernos*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel lo llevó al desierto. Ahora Juan ve.
+> Vuelve <u>Yo</u>, Juan. El ángel lo llevó al desierto. Ahora Juan ve.
 
 #### *y vi a una mujer sentada sobre una bestia escarlata, llena de nombres de blasfemia, que tenía siete cabezas y diez cuernos*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y me llevó al desierto en espíritu*).
@@ -10152,44 +9780,42 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a una mujer. En Apocalipsis 12:1 una mujer: la de la señal. En Apocalipsis 17:1: la gran prostituta. El texto no dice aquí que sea la misma.
 
   * ↳ *sentada* (καθημένην)[^P]
-  > No cuelga de mujer como dueño. Acompaña a <u>vi</u>: vio a una mujer sentada sobre una bestia escarlata. Primera vez esa bestia.
+  > Acompaña a <u>vi</u>: vio a una mujer sentada sobre una bestia escarlata. Primera vez esa bestia.
 
 + *bestia*
   * ↳ *llena* (γέμοντα)[^P]
-  > No cuelga de nombres. La <u>bestia</u> está llena de nombres de blasfemia. En Apocalipsis 13:1: nombre de blasfemia sobre las cabezas.
+  > La <u>bestia</u> está llena de nombres de blasfemia. En Apocalipsis 13:1: nombre de blasfemia sobre las cabezas.
 
   * ↳ *tenía* (ἔχων)[^P]
   > La misma <u>bestia</u> tenía siete cabezas y diez cuernos. El dragón (Apocalipsis 12:3) y la del mar (Apocalipsis 13:1) también. El texto no dice aquí que sea la misma.
 
 ### Apocalipsis 17:4:4 — *y la mujer estaba vestida de púrpura y escarlata, y adornada con oro, piedra preciosa y perlas, teniendo una copa de oro en su mano llena de abominaciones y de la impureza de su prostitución*
 
-* Actores principales: *la mujer* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>la</u> mujer, uno. Juan la vio sentada. Ahora: cómo estaba.
+> Ya no es Juan. Quien ocupa la línea es <u>la</u> mujer. Juan la vio sentada. Ahora: cómo estaba.
 
 #### *y la mujer estaba vestida de púrpura y escarlata, y adornada con oro, piedra preciosa y perlas, teniendo una copa de oro en su mano llena de abominaciones y de la impureza de su prostitución*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y vi a una mujer sentada sobre una bestia escarlata…*).
   > Ese <u>y</u> no suma otra bestia. Tras la vio: la mujer estaba.
 
 * *la mujer* → *estaba*
-  > Quien estaba es <u>la</u> mujer. La flecha se detiene en estaba. Cómo, los tres que acompañan.
+  > Quien estaba es <u>la</u> mujer. Cómo: vestida, adornada, teniendo.
 
   * ↳ *vestida* (περιβεβλημένη)[^P]
-  > No cuelga de mujer como dueño. Acompaña a estaba: estaba <u>vestida</u> de púrpura y escarlata. La bestia era escarlata. Ella también lleva escarlata, y púrpura.
+  > Estaba <u>vestida</u> de púrpura y escarlata. La bestia era escarlata. Ella también lleva escarlata, y púrpura.
 
   * ↳ *adornada* (κεχρυσωμένη)[^P]
-  > Acompaña a estaba: estaba <u>adornada</u> con oro, piedra preciosa y perlas.
+  > Estaba <u>adornada</u> con oro, piedra preciosa y perlas.
 
   * ↳ *teniendo* (ἔχουσα)[^P]
-  > Acompaña a estaba: estaba <u>teniendo</u> una copa de oro en su mano. En Apocalipsis 15:7 las copas de oro eran de la ira. Aquí: la de ella.
+  > Estaba <u>teniendo</u> una copa de oro en su mano. En Apocalipsis 15:7 las copas de oro eran de la ira. Aquí: la de ella.
 
 + *copa*
   * ↳ *llena* (γέμον)[^P]
-  > No cuelga de púrpura. La <u>copa</u> está llena de abominaciones y de la impureza de su prostitución. En Apocalipsis 14:8 y Apocalipsis 17:2: el vino de su prostitución.
+  > La <u>copa</u> está llena de abominaciones y de la impureza de su prostitución. En Apocalipsis 14:8 y Apocalipsis 17:2: el vino de su prostitución.
 
 ### Apocalipsis 17:5:6 — *y en su frente un nombre escrito: Misterio, Babilonia la grande, madre de las prostitutas y de las abominaciones de la tierra*
 
-* Actores principales: *un nombre* (1)
-  > El recuento ya no es la mujer. Quien ocupa la línea es <u>un</u> nombre, uno. Tenía la copa. Ahora: qué hay escrito en la frente.
+> Ya no es la mujer. Quien ocupa la línea es <u>un</u> nombre. Tenía la copa. Ahora: qué hay escrito en la frente.
 
 #### *y en su frente un nombre escrito: Misterio, Babilonia la grande, madre de las prostitutas y de las abominaciones de la tierra*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y la mujer estaba vestida… teniendo una copa de oro…*).
@@ -10199,31 +9825,29 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > El griego no trae verbo. El español lo pone para leer. La afirmación es <u>un</u> nombre escrito.
 
 * *un nombre* → *nombre*
-  > Quien está en la línea es <u>un</u> nombre. En su frente —la de la mujer. El medio vuelve a nombre. Qué dice: Misterio, Babilonia la grande, madre de las prostitutas y de las abominaciones de la tierra.
+  > Quien está en la línea es <u>un</u> nombre. En su frente —la de la mujer. Qué dice: *Misterio, Babilonia la grande, madre de las prostitutas y de las abominaciones de la tierra*.
 
 + *nombre*
   * ↳ *escrito* (γεγραμμένον)[^P]
-  > El <u>nombre</u> está escrito. Primera vez Misterio como nombre. En Apocalipsis 14:1 el nombre del Padre en las frentes. En Apocalipsis 13:16 la marca. En Apocalipsis 14:8 y Apocalipsis 16:19: Babilonia la grande. Aquí: en la frente, y madre.
+  > El <u>nombre</u> está escrito. Primera vez *Misterio* como nombre. En Apocalipsis 14:1 el nombre del Padre en las frentes. En Apocalipsis 13:16 la marca. En Apocalipsis 14:8 y Apocalipsis 16:19: *Babilonia la grande*. Aquí: en la frente, y madre.
 
 ### Apocalipsis 17:6:2 — *y vi a la mujer embriagada con la sangre de los santos y con la sangre de los mártires de Jesús*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El nombre quedó escrito. Ahora Juan ve otra vez.
+> Vuelve <u>Yo</u>, Juan. El nombre quedó escrito. Ahora Juan ve otra vez.
 
 #### *y vi a la mujer embriagada con la sangre de los santos y con la sangre de los mártires de Jesús*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y en su frente un nombre escrito…*).
-  > Ese <u>y</u> no suma otro nombre. Tras Misterio: Juan vio a la mujer.
+  > Ese <u>y</u> no suma otro nombre. Tras *Misterio*: Juan vio a la mujer.
 
 * *Yo, Juan* → *vi* → *a la mujer*
   > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a la mujer —la del nombre. En Apocalipsis 17:3 ya la vio sentada. Aquí: embriagada. De qué, en la línea.
 
   * ↳ *embriagada* (μεθύουσαν)[^P]
-  > No cuelga de mujer como dueño. Acompaña a <u>vi</u>: vio a la mujer embriagada con la sangre de los santos y con la sangre de los mártires de Jesús. Primera vez mártires de Jesús. En Apocalipsis 17:2 los que habitan se embriagaron del vino. Aquí: ella, de sangre. En Apocalipsis 16:6 derramaron sangre de santos y profetas.
+  > Acompaña a <u>vi</u>: vio a la mujer embriagada con la sangre de los santos y con la sangre de los mártires de Jesús. Primera vez *mártires de Jesús*. En Apocalipsis 17:2 los que habitan se embriagaron del vino. Aquí: ella, de sangre. En Apocalipsis 16:6 derramaron sangre de santos y profetas.
 
 ### Apocalipsis 17:6:19 — *Y me asombré al verla, asombro grande*
 
-* Actores principales: *Yo, Juan* (1)
-  > Sigue <u>Yo</u>, Juan, uno. Ya no solo ve. Ahora: se asombra.
+> Sigue <u>Yo</u>, Juan. Ya no solo ve. Ahora: se asombra.
 
 #### *Y me asombré al verla, asombro grande*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y vi a la mujer embriagada…*).
@@ -10233,12 +9857,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien se asombró es <u>Yo</u>, Juan. Lo alcanzado: asombro grande. Primera vez asombro. En Apocalipsis 13:3 toda la tierra se maravilló siguiendo a la bestia. Aquí: Juan, al verla.
 
   * ↳ *verla* (ἰδὼν)[^P]
-  > No queda suelto. Acompaña a me <u>asombré</u>: al verla. El cuándo del asombro.
+  > Acompaña a me <u>asombré</u>: al verla. El cuándo del asombro.
 
 ### Apocalipsis 17:7:2 — *y el ángel me dijo*
 
-* Actores principales: *el ángel* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>el</u> ángel, uno. Juan se asombró. Ahora: el ángel dice. Primera vez solo el ángel —el de las copas.
+> Ya no es Juan. Quien ocupa la línea es <u>el</u> ángel. Juan se asombró. Ahora: el ángel dice. Primera vez solo *el ángel* —el de las copas.
 
 #### *y el ángel me dijo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y me asombré al verla, asombro grande*).
@@ -10249,25 +9872,23 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:7:8 — *Por qué te asombraste*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel dijo. Ahora: la pregunta. A quien se pregunta es Juan.
+> Vuelve <u>Yo</u>, Juan. El ángel dijo. Ahora: la pregunta. A quien se pregunta es Juan.
 
 #### *Por qué te asombraste*
   > Eso decía. No afirma. Pregunta: <u>Por</u> qué te asombraste. En Apocalipsis 17:6 Juan se asombró, asombro grande. El texto no responde aquí.
 
 * *Yo, Juan* → *te asombraste*
-  > Quien se asombró es <u>Yo</u>, Juan —el te del ángel. La flecha se detiene en te asombraste. El por qué queda abierto.
+  > Quien se asombró es <u>Yo</u>, Juan —el te del ángel. El por qué queda abierto.
 
 ### Apocalipsis 17:7:10 — *Yo te diré el misterio de la mujer y de la bestia que la lleva, que tiene las siete cabezas y los diez cuernos*
 
-* Actores principales: *Yo* (1)
-  > El recuento ya no es Juan preguntado. Quien ocupa la línea es <u>Yo</u>, uno —el ángel. Preguntó por qué. Ahora: promete decir.
+> Ya no es Juan preguntado. Quien ocupa la línea es <u>Yo</u> —el ángel. Preguntó por qué. Ahora: promete decir.
 
 #### *Yo te diré el misterio de la mujer y de la bestia que la lleva, que tiene las siete cabezas y los diez cuernos*
   > Sigue el decir. No responde el por qué. Promete: <u>Yo</u> te diré. El misterio de dos: la mujer y la bestia.
 
 * *Yo* → *diré* → *el misterio de la mujer y de la bestia*
-  > Quien dirá es <u>Yo</u> —el ángel. Lo alcanzado: el misterio de la mujer y de la bestia. En Apocalipsis 17:5 Misterio era el nombre en la frente. En Apocalipsis 1:20 y Apocalipsis 10:7 ya hubo misterio. Aquí: de ella y de la que la lleva. Qué es, todavía no.
+  > Quien dirá es <u>Yo</u> —el ángel. Lo alcanzado: el misterio de la mujer y de la bestia. En Apocalipsis 17:5 *Misterio* era el nombre en la frente. En Apocalipsis 1:20 y Apocalipsis 10:7 ya hubo misterio. Aquí: de ella y de la que la lleva. Qué es, todavía no.
 
 + *bestia*
   * ↳ *lleva* (βαστάζοντος)[^P]
@@ -10278,40 +9899,37 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:8:5 — *La bestia era*
 
-* Actores principales: *La bestia* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>La</u> bestia y a Yo, Juan. El ángel prometió decir. Ahora dice. Juan es el que viste.
+> Habla el ángel. Quienes ocupan la línea son <u>La</u> bestia y Yo, Juan. El ángel prometió decir. Ahora dice. Juan es el que viste.
 
 - *que viste*
 
 * *Yo, Juan* → *viste*
-  > Quien viste es <u>Yo</u>, Juan —el te. Lo alcanzado queda en viste. Qué, la bestia.
+  > Quien viste es <u>Yo</u>, Juan —el te. Qué: la bestia.
 
 + *La bestia*
   * *que* (ὃ)[^rel]: describe a *La bestia*.
   > Ese <u>que</u> no abre otra bestia. Nombra cuál: la que viste. En Apocalipsis 17:3 Juan la vio.
 
 #### *La bestia era*
-  > Eso decía. Empieza el misterio: <u>La</u> bestia era. En Apocalipsis 1:4 el que era nombra al Señor. Aquí: la bestia. No es, todavía no.
+  > Eso decía. Empieza el misterio: <u>La</u> bestia era. En Apocalipsis 1:4 *el que era* nombra al Señor. Aquí: la bestia. *No es*, todavía no.
 
 * *La bestia* → *era*
-  > Quien era es <u>La</u> bestia —la que viste. La flecha se detiene en era.
+  > Quien era es <u>La</u> bestia —la que viste.
 
 ### Apocalipsis 17:8:8 — *y no es*
 
-* Actores principales: *La bestia* (1)
-  > Sigue <u>La</u> bestia, uno. Era. Ahora: no es.
+> Sigue <u>La</u> bestia. Era. Ahora: no es.
 
 #### *y no es*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*La bestia era*).
   > Ese <u>y</u> no suma otro era. Tras era: no es.
 
 * *La bestia* → *es*
-  > Quien no es es la misma. La flecha pone es; el no lo niega. En Apocalipsis 1:4 el que es nombra al Señor. Aquí: la bestia no es. Subir, todavía no.
+  > Quien no es es la misma. En Apocalipsis 1:4 *el que es* nombra al Señor. Aquí: la bestia *no es*. Subir, todavía no.
 
 ### Apocalipsis 17:8:10 — *y está por subir del abismo*
 
-* Actores principales: *La bestia* (1)
-  > Sigue <u>La</u> bestia, uno. Era y no es. Ahora: está por subir.
+> Sigue <u>La</u> bestia. Era y no es. Ahora: está por subir.
 
 #### *y está por subir del abismo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y no es*).
@@ -10321,29 +9939,27 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien está por subir es la misma. Del abismo. En Apocalipsis 11:7 la bestia que sube del abismo. En Apocalipsis 13:1 del mar. Aquí: está por subir. El texto no dice aquí que sea la misma.
 
   * ↳ *subir* (ἀναβαίνειν)[^I]
-  > No completa a subir como dueño. Completa a <u>está</u>: está por subir.
+  > Completa a <u>está</u>: está por subir.
 
 ### Apocalipsis 17:8:18 — *y va a destrucción*
 
-* Actores principales: *La bestia* (1)
-  > Sigue <u>La</u> bestia, uno. Está por subir. Ahora: va.
+> Sigue <u>La</u> bestia. Está por subir. Ahora: va.
 
 #### *y va a destrucción*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y está por subir del abismo*).
   > Ese <u>y</u> no suma otro abismo. Tras está por subir: va a destrucción.
 
 * *La bestia* → *va*
-  > Quien va es la misma. Adónde: a destrucción. Primera vez. Era, no es, está por subir —y va a destrucción. El texto no abre aquí qué es esa destrucción.
+  > Quien va es la misma. Adónde: a destrucción. Primera vez. *Era*, *no es*, *está por subir* —y va a destrucción. El texto no abre aquí qué es esa destrucción.
 
 ### Apocalipsis 17:8:20 — *asombrarán al ver a la bestia*
 
-* Actores principales: *La bestia* (3) · *cuyos nombres* (1) · *los que habitan sobre la tierra* (1)
-  > El recuento pone a <u>los</u> que habitan sobre la tierra, a cuyos nombres y a La bestia, tres. El ángel sigue diciendo. Estos se asombrarán; los nombres miden cuáles; ella se ve.
+> Quienes ocupan la línea son <u>los</u> que habitan sobre la tierra, *cuyos nombres*, y *La bestia*. El ángel sigue diciendo. Estos se asombrarán; los nombres miden cuáles; ella se ve.
 
 - *cuyos nombres no están escritos sobre el libro de la vida desde la fundación del mundo*
 
 * *cuyos nombres* → *están escritos*
-  > Quienes no están escritos son <u>cuyos</u> nombres. La flecha pone están escritos; el no lo niega. Sobre el libro de la vida, desde la fundación del mundo.
+  > Quienes no están escritos son <u>cuyos</u> nombres. Sobre el libro de la vida, desde la fundación del mundo.
 
 + *los que*
   * *cuyos* (ὧν)[^rel]: describe a *los que*.
@@ -10356,47 +9972,46 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 #### *asombrarán al ver a la bestia*
 
 * *los que habitan sobre la tierra* → *se asombrarán*
-  > Quienes se asombrarán son <u>los</u> que habitan sobre la tierra. En Apocalipsis 13:3 toda la tierra se maravilló. En Apocalipsis 17:6 Juan se asombró al verla —a la mujer. Aquí: estos, al ver a la bestia. Por qué, tres, anidados.
+  > Quienes se asombrarán son <u>los</u> que habitan sobre la tierra. En Apocalipsis 13:3 toda la tierra se maravilló. En Apocalipsis 17:6 Juan se asombró al verla —a la mujer. Aquí: estos, al ver a la bestia. Por qué, abajo.
 
   * ↳ *ver* (βλεπόντων)[^P]
-  > No cuelga de cuyos. Acompaña a se <u>asombrarán</u>: al ver a la bestia.
+  > Acompaña a se <u>asombrarán</u>: al ver a la bestia.
 
 * ↳ *habitan* (κατοικοῦντες)[^P]
-  > No cuelga de los que como dueño suelto. Marca a quienes se asombrarán: los que <u>habitan</u> sobre la tierra.
+  > Marca a quienes se asombrarán: los que <u>habitan</u> sobre la tierra.
 
 - *que era*
   * *que* (ὅτι)[^hoti]
   > Ese <u>que</u> no abre otro asombro suelto. Primer porqué: se asombrarán porque era.
 
 * *La bestia* → *era*
-  > Quien era es <u>La</u> bestia. Ya se dijo: La bestia era.
+  > Quien era es <u>La</u> bestia. Ya se dijo: *La bestia era*.
 
 - *y no es*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*que era*).
   > Ese <u>y</u> no abre otro que. Segundo porqué del asombro: y no es.
 
 * *La bestia* → *es*
-  > Quien no es es la misma. La flecha pone es; el no lo niega. Ya se dijo: y no es.
+  > Quien no es es la misma. Ya se dijo: *y no es*.
 
 - *aunque es*
-  > Tercer porqué: <u>aunque</u> es. Era, no es —y aunque es. El texto no abre aquí cómo las tres caben.
+  > Tercer porqué: <u>aunque</u> es. *Era*, *no es* —y *aunque es*. El texto no abre aquí cómo las tres caben.
 
 * *La bestia* → *es*
-  > Quien es es la misma <u>La</u> bestia. La flecha se detiene en es.
+  > Quien es es la misma <u>La</u> bestia.
 
 ### Apocalipsis 17:9:3 — *Aquí está la mente que tiene sabiduría*
 
-* Actores principales: *la mente* (1)
-  > El recuento ya no es los que habitan. Quien ocupa la línea es <u>la</u> mente, uno. Se asombrarán. Ahora: Aquí está.
+> Ya no son los que habitan. Quien ocupa la línea es <u>la</u> mente. Se asombrarán. Ahora: *Aquí está*.
 
 #### *Aquí está la mente que tiene sabiduría*
-  > En Apocalipsis 13:10: Aquí está la perseverancia y la fe de los santos. En Apocalipsis 13:18: Aquí está la sabiduría. Aquí: <u>la</u> mente que tiene sabiduría. Primera vez mente.
+  > En Apocalipsis 13:10: *Aquí está la perseverancia y la fe de los santos*. En Apocalipsis 13:18: *Aquí está la sabiduría*. Aquí: <u>la</u> mente que tiene sabiduría. Primera vez mente.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español pone está. La afirmación es <u>Aquí</u> está.
 
 * *la mente* → *está*
-  > Quien está es <u>la</u> mente. Aquí —tras era, no es, aunque es. El texto no dice aquí en qué consiste.
+  > Quien está es <u>la</u> mente. Aquí —tras *era*, *no es*, *aunque es*. El texto no dice aquí en qué consiste.
 
 + *mente*
   * ↳ *tiene* (ἔχων)[^P]
@@ -10404,8 +10019,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:9:12 — *Las siete cabezas son siete montes*
 
-* Actores principales: *la mujer* (1) · *Las siete cabezas* (1)
-  > El recuento pone a <u>Las</u> siete cabezas y a la mujer. Aquí está la mente. Ahora el ángel dice qué son las cabezas; ella se sienta.
+> Quienes ocupan la línea son <u>Las</u> siete cabezas y *la mujer*. *Aquí está* la mente. Ahora el ángel dice qué son las cabezas; ella se sienta.
 
 #### *Las siete cabezas son siete montes*
   > Sigue el decir. <u>Las</u> siete cabezas son siete montes. Primera vez montes así. El texto no abre aquí cuáles.
@@ -10428,75 +10042,69 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:10:3 — *los cinco cayeron*
 
-* Actores principales: *los cinco* (1)
-  > El recuento ya no es las cabezas sueltas. Quienes ocupan la línea son <u>los</u> cinco, uno. Son siete reyes. Ahora: cinco.
+> Ya no son las cabezas sueltas. Quienes ocupan la línea son <u>los</u> cinco. Son siete reyes. Ahora: cinco.
 
 #### *los cinco cayeron*
   > Sigue el decir. De los siete: <u>los</u> cinco cayeron. El texto no nombra cuáles. Uno, todavía no.
 
 * *los cinco* → *cayeron*
-  > Quienes cayeron son <u>los</u> cinco —de los siete reyes. La flecha se detiene en cayeron.
+  > Quienes cayeron son <u>los</u> cinco —de los siete reyes.
 
 ### Apocalipsis 17:10:6 — *uno es*
 
-* Actores principales: *uno* (1)
-  > El recuento ya no es los cinco. Quien ocupa la línea es <u>uno</u>, uno. Cinco cayeron. Ahora: uno.
+> Ya no son los cinco. Quien ocupa la línea es <u>uno</u>. Cinco cayeron. Ahora: uno.
 
 #### *uno es*
-  > Sigue el decir. De los siete: <u>uno</u> es. En Apocalipsis 17:8 la bestia no es. Aquí: uno de los reyes es. El texto no nombra cuál. El otro, todavía no.
+  > Sigue el decir. De los siete: <u>uno</u> es. En Apocalipsis 17:8 la bestia *no es*. Aquí: uno de los reyes *es*. El texto no nombra cuál. El otro, todavía no.
 
 * *uno* → *es*
-  > Quien es es <u>uno</u> —de los siete reyes. La flecha se detiene en es.
+  > Quien es es <u>uno</u> —de los siete reyes.
 
 ### Apocalipsis 17:10:10 — *el otro todavía no ha venido*
 
-* Actores principales: *el otro* (1)
-  > El recuento ya no es uno. Quien ocupa la línea es <u>el</u> otro, uno. Cinco cayeron; uno es. Ahora: el otro.
+> Ya no es uno. Quien ocupa la línea es <u>el</u> otro. Cinco cayeron; uno es. Ahora: el otro.
 
 #### *el otro todavía no ha venido*
-  > Sigue el decir. De los siete: <u>el</u> otro todavía no ha venido. Cinco, uno, el otro: tres. Cuando venga, todavía no.
+  > Sigue el decir. De los siete: <u>el</u> otro todavía no ha venido. Cinco, uno, el otro. Cuando venga, todavía no.
 
 * *el otro* → *ha venido*
-  > Quien no ha venido es <u>el</u> otro —el que falta de los siete. La flecha pone ha venido; el todavía no lo niega.
+  > Quien no ha venido es <u>el</u> otro —el que falta de los siete.
 
 ### Apocalipsis 17:10:13 — *y cuando venga*
 
-* Actores principales: *el otro* (1)
-  > Sigue <u>el</u> otro, uno. Todavía no ha venido. Ahora: cuando venga.
+> Sigue <u>el</u> otro. Todavía no ha venido. Ahora: cuando venga.
 
 #### *y cuando venga*
 * *es,* (καὶ)[^kai] une esta cláusula con la anterior (*uno es*).
-  > Ese <u>es</u> no suma otro uno es. Tras el otro todavía no ha venido: cuando venga.
+  > Ese <u>y</u> no suma otro *uno es*. Tras *el otro todavía no ha venido*: cuando venga.
 
   * *cuando* (ὅταν)
   > Ese <u>cuando</u> no afirma que ya vino. Fija el momento: cuando venga. Qué debe, todavía no.
 
 * *el otro* → *venga*
-  > Quien venga es el mismo <u>el</u> otro. La flecha se detiene en venga.
+  > Quien venga es el mismo <u>el</u> otro.
 
 ### Apocalipsis 17:10:16 — *debe permanecer poco tiempo*
 
-* Actores principales: *permanecer poco tiempo* (1)
-  > El recuento ya no es el otro suelto. Quien ocupa la línea es <u>permanecer</u> poco tiempo, uno. Cuando venga. Ahora: debe.
+> Ya no es el otro suelto. Quien ocupa la línea es <u>permanecer</u> poco tiempo. Cuando venga. Ahora: debe.
 
 #### *debe permanecer poco tiempo*
   > Sigue el decir. Cuando venga: <u>debe</u> permanecer poco tiempo. En Apocalipsis 12:12 el Diablo tiene poco tiempo. Aquí: el otro, poco tiempo. El texto no dice aquí cuánto es.
 
 * *permanecer poco tiempo* → *debe*
-  > Quien debe es <u>permanecer</u> poco tiempo —el medio trae debe. A quién: el otro, cuando venga.
+  > Quien debe es <u>permanecer</u> poco tiempo. A quién: el otro, cuando venga.
 
   * ↳ *permanecer* (μεῖναι)[^I]
-  > No completa a permanecer como dueño. Completa a <u>debe</u>: debe permanecer.
+  > Completa a <u>debe</u>: debe permanecer.
 
 ### Apocalipsis 17:11:12 — *Y la bestia también él es un octavo*
 
-* Actores principales: *la bestia* (2) · *él* (1)
-  > El recuento pone a <u>la</u> bestia, dos, y a él. El otro debe permanecer poco. Ahora vuelve la bestia: era y no es; él es un octavo.
+> Quienes ocupan la línea son <u>la</u> bestia y *él*. El otro debe permanecer poco. Ahora vuelve la bestia: *era* y *no es*; él es un octavo.
 
 - *que era*
 
 * *la bestia* → *era*
-  > Quien era es <u>la</u> bestia. En Apocalipsis 17:8: La bestia era.
+  > Quien era es <u>la</u> bestia. En Apocalipsis 17:8: *La bestia era*.
 
 + *la bestia*
   * *que* (ὃ)[^rel]: describe a *la bestia*.
@@ -10507,7 +10115,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Ese <u>y</u> no abre otro que. Sigue la misma: y no es. En Apocalipsis 17:8 también.
 
 * *la bestia* → *es*
-  > Quien no es es la misma. La flecha pone es; el no lo niega.
+  > Quien no es es la misma.
 
 #### *Y la bestia también él es un octavo*
 * *también* (καὶ)[^kai] une esta cláusula con la anterior (*debe permanecer poco tiempo*).
@@ -10518,8 +10126,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:11:17 — *y es de los siete*
 
-* Actores principales: *la bestia* (1)
-  > El recuento vuelve a <u>la</u> bestia, uno. También él es un octavo. Ahora: es de los siete.
+> Vuelve <u>la</u> bestia. También él es un octavo. Ahora: es de los siete.
 
 #### *y es de los siete*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y la bestia también él es un octavo*).
@@ -10530,8 +10137,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:11:21 — *y va a destrucción*
 
-* Actores principales: *la bestia* (1)
-  > Sigue <u>la</u> bestia, uno. Es un octavo y de los siete. Ahora: va.
+> Sigue <u>la</u> bestia. Es un octavo y de los siete. Ahora: va.
 
 #### *y va a destrucción*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y es de los siete*).
@@ -10542,13 +10148,12 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:12:9 — *Y los diez cuernos son diez reyes*
 
-* Actores principales: *diez reyes* (2) · *los diez cuernos* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>los</u> diez cuernos, a Yo, Juan y a diez reyes, dos. La bestia va a destrucción. Ahora: los cuernos. Juan es el que viste; los reyes entran dos veces.
+> Quienes ocupan la línea son <u>los</u> diez cuernos, *Yo, Juan*, y *diez reyes*. La bestia va a destrucción. Ahora: los cuernos. Juan es el que viste; los reyes entran otra vez abajo.
 
 - *que viste*
 
 * *Yo, Juan* → *viste*
-  > Quien viste es <u>Yo</u>, Juan. Lo alcanzado queda en viste. Qué, los diez cuernos.
+  > Quien viste es <u>Yo</u>, Juan. Qué: los diez cuernos.
 
 + *los diez cuernos*
   * *que* (ἃ)[^rel]: describe a *los diez cuernos*.
@@ -10570,7 +10175,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Ese <u>que</u> no abre otros reyes. Nombra cuáles: todavía no han recibido reino.
 
 * *diez reyes* → *han recibido* → *reino*
-  > Quienes no han recibido son <u>diez</u> reyes. Lo alcanzado: reino. La flecha pone han recibido; el todavía no lo niega.
+  > Quienes no han recibido son <u>diez</u> reyes. Lo alcanzado: reino.
 
 - *pero reciben autoridad como reyes por una hora junto con la bestia*
 
@@ -10583,8 +10188,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:13:4 — *Estos tienen un mismo propósito*
 
-* Actores principales: *Estos* (1)
-  > El recuento ya no nombra diez reyes. Quienes ocupan la línea son <u>Estos</u>, uno —los diez. Reciben autoridad por una hora. Ahora: tienen.
+> Ya no nombra diez reyes. Quienes ocupan la línea son <u>Estos</u> —los diez. Reciben autoridad por una hora. Ahora: tienen.
 
 #### *Estos tienen un mismo propósito*
   > Sigue el decir. <u>Estos</u> tienen un mismo propósito. Primera vez propósito. No diez propósitos. Qué hacen con él, todavía no.
@@ -10594,8 +10198,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:13:13 — *y dan su poder y su autoridad a la bestia*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Tienen un mismo propósito. Ahora: dan.
+> Siguen <u>Estos</u>. Tienen un mismo propósito. Ahora: dan.
 
 #### *y dan su poder y su autoridad a la bestia*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Estos tienen un mismo propósito*).
@@ -10606,26 +10209,24 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:14:5 — *Estos pelearán contra el cordero*
 
-* Actores principales: *Estos* (1)
-  > Siguen <u>Estos</u>, uno. Dan su poder y su autoridad a la bestia. Ahora: pelearán.
+> Siguen <u>Estos</u>. Dan su poder y su autoridad a la bestia. Ahora: pelearán.
 
 #### *Estos pelearán contra el cordero*
   > Sigue el decir. <u>Estos</u> pelearán contra el cordero. En Apocalipsis 13:7 le fue dada guerra contra los santos. En Apocalipsis 16:14 reunir para la guerra de aquel gran día. Aquí: contra el cordero. El texto no dice aquí que sea la misma.
 
 * *Estos* → *pelearán*
-  > Quienes pelearán son los mismos. Contra el cordero queda en la misma línea, fuera de la flecha. El que está de pie en Sion (Apocalipsis 14:1). Vencerá, todavía no.
+  > Quienes pelearán son los mismos. Contra el cordero. El que está de pie en Sion (Apocalipsis 14:1). Vencerá, todavía no.
 
 ### Apocalipsis 17:14:9 — *y el cordero los vencerá*
 
-* Actores principales: *él* (1) · *el cordero* (1) · *los que están con él* (1)
-  > El recuento pone al <u>cordero</u>, a él y a los que están con él. Estos pelearán. Ahora: el cordero vence; él da el porqué; los que están con él entran.
+> Quienes ocupan la línea son <u>el</u> cordero, *él*, y *los que están con él*. Estos pelearán. Ahora: el cordero vence; él da el porqué; los que están con él entran.
 
 #### *y el cordero los vencerá*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Estos pelearán contra el cordero*).
   > Ese <u>y</u> no suma otra pelea suelta. Tras pelearán: el cordero los vencerá.
 
 * *el cordero* → *vencerá* → *los*
-  > Quien vencerá es <u>el</u> cordero. Lo alcanzado: los —Estos. En Apocalipsis 5:5 el león ha vencido. En Apocalipsis 13:7 le fue dado vencer a los santos. Aquí: el cordero vence a estos. Por qué, dos, anidados.
+  > Quien vencerá es <u>el</u> cordero. Lo alcanzado: los —Estos. En Apocalipsis 5:5 el león ha vencido. En Apocalipsis 13:7 le fue dado vencer a los santos. Aquí: el cordero vence a estos. Por qué, abajo.
 
 - *porque él es Señor de señores y Rey de reyes*
   * *porque* (ὅτι)[^hoti]
@@ -10646,8 +10247,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:15:2 — *Y me dice*
 
-* Actores principales: *el ángel* (1)
-  > El recuento vuelve al <u>ángel</u>, uno. El cordero los vencerá. Ahora: me dice otra vez.
+> Vuelve <u>el</u> ángel. El cordero los vencerá. Ahora: me dice otra vez.
 
 #### *Y me dice*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y el cordero los vencerá*).
@@ -10658,13 +10258,12 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:15:15 — *Las aguas son pueblos multitudes naciones y lenguas*
 
-* Actores principales: *la prostituta* (1) · *Las aguas* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>Las</u> aguas, a Yo, Juan y a la prostituta. El ángel me dice. Ahora: qué son las aguas. Juan es el que viste; ella se sienta.
+> Quienes ocupan la línea son <u>Las</u> aguas, *Yo, Juan*, y *la prostituta*. El ángel me dice. Ahora: qué son las aguas. Juan es el que viste; ella se sienta.
 
 - *que viste*
 
 * *Yo, Juan* → *viste*
-  > Quien viste es <u>Yo</u>, Juan. Lo alcanzado queda en viste. Qué, las aguas.
+  > Quien viste es <u>Yo</u>, Juan. Qué: las aguas.
 
 + *Las aguas*
   * *que* (ἃ)[^rel]: describe a *Las aguas*.
@@ -10687,13 +10286,12 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:16:11 — *Y los diez cuernos sobre la bestia estos odiarán a la prostituta*
 
-* Actores principales: *estos* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>estos</u> y a Yo, Juan. Las aguas son pueblos. Ahora: los cuernos. Juan es el que viste.
+> Quienes ocupan la línea son <u>estos</u> y *Yo, Juan*. Las aguas son pueblos. Ahora: los cuernos. Juan es el que viste.
 
 - *que viste*
 
 * *Yo, Juan* → *viste*
-  > Quien viste es <u>Yo</u>, Juan. Lo alcanzado queda en viste. Qué, los diez cuernos.
+  > Quien viste es <u>Yo</u>, Juan. Qué: los diez cuernos.
 
 + *los diez cuernos*
   * *que* (ἃ)[^rel]: describe a *los diez cuernos*.
@@ -10701,15 +10299,14 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 #### *Y los diez cuernos sobre la bestia estos odiarán a la prostituta*
 * *sobre* (καὶ)[^kai] une esta cláusula con la anterior (*Las aguas son pueblos multitudes naciones y lenguas*).
-  > Ese <u>sobre</u> no suma otras aguas. Tras las aguas son: estos odiarán.
+  > Ese <u>y</u> no suma otras aguas. Tras las aguas son: estos odiarán.
 
 * *estos* → *odiarán* → *a la prostituta*
   > Quienes odiarán son <u>estos</u> —los diez cuernos. Lo alcanzado: a la prostituta. En Apocalipsis 17:13 dan su poder y su autoridad a la bestia. En Apocalipsis 17:2 los reyes se prostituyeron con ella. Aquí: odiarán. El texto no abre aquí por qué.
 
 ### Apocalipsis 17:16:16 — *dejarán desolada y desnuda*
 
-* Actores principales: *estos* (1)
-  > Siguen <u>estos</u>, uno. Odiarán. Ahora: dejarán.
+> Siguen <u>estos</u>. Odiarán. Ahora: dejarán.
 
 + *y la*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y los diez cuernos… odiarán a la prostituta*).
@@ -10721,12 +10318,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quienes dejarán son los mismos. Lo alcanzado: <u>la</u> —la prostituta. Desolada y desnuda. En Apocalipsis 17:4 estaba vestida y adornada. Aquí: la dejan así.
 
   * ↳ *desolada* (ἠρημωμένην)[^P]
-  > No cuelga de prostituta como dueño. Acompaña a <u>dejarán</u>: la dejarán desolada y desnuda.
+  > Acompaña a <u>dejarán</u>: la dejarán desolada y desnuda.
 
 ### Apocalipsis 17:16:24 — *y comerán sus carnes*
 
-* Actores principales: *estos* (1)
-  > Siguen <u>estos</u>, uno. La dejan desolada y desnuda. Ahora: comerán.
+> Siguen <u>estos</u>. La dejan desolada y desnuda. Ahora: comerán.
 
 #### *y comerán sus carnes*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*dejarán desolada y desnuda*).
@@ -10737,15 +10333,14 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 17:16:27 — *y la quemarán por completo con fuego*
 
-* Actores principales: *Dios* (1) · *estos* (1)
-  > El recuento pone a <u>Dios</u> y a estos. Estos comen sus carnes. Ahora: la queman; Dios da el porqué.
+> Quienes ocupan la línea son <u>Dios</u> y *estos*. Estos comen sus carnes. Ahora: la queman; Dios da el porqué.
 
 #### *y la quemarán por completo con fuego*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y comerán sus carnes*).
   > Ese <u>y</u> no suma otra carne. Tras comerán: la quemarán.
 
 * *estos* → *quemarán* → *la*
-  > Quienes quemarán son <u>estos</u> —los diez cuernos. Lo alcanzado: la —la prostituta. Por completo, con fuego. Por qué odiarán —y esto—, anidado.
+  > Quienes quemarán son <u>estos</u> —los diez cuernos. Lo alcanzado: la —la prostituta. Por completo, con fuego. Por qué odiarán —y esto—, abajo.
 
 - *pues Dios puso en sus corazones hacer su propósito*
   * *pues* (γὰρ)[^gar]
@@ -10755,27 +10350,26 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien puso es <u>Dios</u>. En sus corazones. Qué puso: hacer su propósito. El verso sigue: y hacer un mismo propósito y dar su reino a la bestia.
 
   * ↳ *hacer* (ποιῆσαι)[^I]
-  > No cuelga de propósito como dueño. Completa a <u>puso</u>: puso hacer su propósito.
+  > Completa a <u>puso</u>: puso hacer su propósito.
 
   * ↳ *dar* (δοῦναι)[^I]
-  > Tampoco cuelga de propósito. Completa a <u>puso</u>: puso dar su reino a la bestia. En Apocalipsis 17:13 estos tienen un mismo propósito y dan su poder y su autoridad a la bestia. Aquí: Dios lo puso.
+  > Completa a <u>puso</u>: puso dar su reino a la bestia. En Apocalipsis 17:13 estos tienen un mismo propósito y dan su poder y su autoridad a la bestia. Aquí: Dios lo puso.
 
   - *hasta que se cumplan las palabras de Dios*
     * *hasta que* (ἄχρι)[^conn]
     > Ese <u>hasta que</u> no afirma que ya se cumplieron. Marca hasta cuándo puso: hasta que se cumplan las palabras de Dios.
 
     * *las palabras de Dios* → *se cumplan*
-    > Quienes se cumplan son <u>las</u> palabras de Dios. La flecha se detiene en se cumplan. El texto no abre aquí cuáles.
+    > Quienes se cumplan son <u>las</u> palabras de Dios. El texto no abre aquí cuáles.
 
 ### Apocalipsis 17:18:6 — *y la mujer es la gran ciudad que tiene reino sobre los reyes de la tierra*
 
-* Actores principales: *la mujer* (1) · *Yo, Juan* (1)
-  > El recuento pone a <u>la</u> mujer y a Yo, Juan. Dios puso en sus corazones. Ahora: qué es ella. Juan es el que viste.
+> Quienes ocupan la línea son <u>la</u> mujer y *Yo, Juan*. Dios puso en sus corazones. Ahora: qué es ella. Juan es el que viste.
 
 - *que viste*
 
 * *Yo, Juan* → *viste*
-  > Quien viste es <u>Yo</u>, Juan. Lo alcanzado queda en viste. Qué, la mujer.
+  > Quien viste es <u>Yo</u>, Juan. Qué: la mujer.
 
 + *la mujer*
   * *que* (ἣν)[^rel]: describe a *la mujer*.
@@ -10788,46 +10382,43 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Eso decía. <u>La</u> mujer es la gran ciudad. En Apocalipsis 16:19 una gran ciudad se dividió. El texto no dice aquí que sea aquella.
 
 * *la mujer* → *es*
-  > Quien es es <u>la</u> mujer —la que viste. La gran ciudad. En Apocalipsis 17:5: Babilonia la grande, en la frente. Aquí: tiene reino sobre los reyes de la tierra.
+  > Quien es es <u>la</u> mujer —la que viste. La gran ciudad. En Apocalipsis 17:5: *Babilonia la grande*, en la frente. Aquí: tiene reino sobre los reyes de la tierra.
 
 + *ciudad*
   * ↳ *tiene* (ἔχουσα)[^P]
-  > No cuelga de reyes. La <u>ciudad</u> tiene reino sobre los reyes de la tierra. En Apocalipsis 17:2 esos reyes se prostituyeron con ella. En Apocalipsis 1:5: el gobernante de los reyes de la tierra es Jesús Cristo.
+  > La <u>ciudad</u> tiene reino sobre los reyes de la tierra. En Apocalipsis 17:2 esos reyes se prostituyeron con ella. En Apocalipsis 1:5: el gobernante de los reyes de la tierra es Jesús Cristo.
 
 ### Apocalipsis 18:1:3 — *Y después de esto vi a otro ángel que bajaba del cielo, que tenía gran autoridad*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. La mujer es la gran ciudad. Ahora Juan ve otra vez.
+> Vuelve <u>Yo</u>, Juan. La mujer es la gran ciudad. Ahora Juan ve otra vez.
 
 #### *Y después de esto vi a otro ángel que bajaba del cielo, que tenía gran autoridad*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y la mujer es la gran ciudad que tiene reino sobre los reyes de la tierra*).
   > Ese <u>Y</u> no suma otra ciudad. Tras la mujer es: después de esto, Juan ve.
 
 * *Yo, Juan* → *vi* → *a otro ángel*
-  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a otro ángel. En Apocalipsis 7:1 y Apocalipsis 15:5: después de esto vi. En Apocalipsis 10:1 otro ángel fuerte descendía del cielo. El texto no dice aquí que sea el mismo.
+  > Quien ve es <u>Yo</u>, Juan. Lo alcanzado: a otro ángel. En Apocalipsis 7:1 y Apocalipsis 15:5: *después de esto vi*. En Apocalipsis 10:1 otro ángel fuerte descendía del cielo. El texto no dice aquí que sea el mismo.
 
   * ↳ *bajaba* (καταβαίνοντα)[^P]
-  > No cuelga de ángel como dueño. Acompaña a <u>vi</u>: vio a otro ángel que bajaba del cielo.
+  > Acompaña a <u>vi</u>: vio a otro ángel que bajaba del cielo.
 
   * ↳ *tenía* (ἔχοντα)[^P]
-  > Tampoco cuelga de cielo. Acompaña a <u>vi</u>: vio a otro que tenía gran autoridad. Primera vez un ángel así. En Apocalipsis 13:2 el dragón le dio gran autoridad a la bestia.
+  > Acompaña a <u>vi</u>: vio a otro que tenía gran autoridad. Primera vez un ángel así. En Apocalipsis 13:2 el dragón le dio gran autoridad a la bestia.
 
 ### Apocalipsis 18:1:16 — *y la tierra fue iluminada por su gloria*
 
-* Actores principales: *la tierra* (1)
-  > El recuento ya no es Juan. Quien ocupa la línea es <u>la</u> tierra, uno. Juan vio a otro ángel. Ahora: qué le pasa a la tierra.
+> Ya no es Juan. Quien ocupa la línea es <u>la</u> tierra. Juan vio a otro ángel. Ahora: qué le pasa a la tierra.
 
 #### *y la tierra fue iluminada por su gloria*
 * *gran* (καὶ)[^kai] une esta cláusula con la anterior (*Y después de esto vi a otro ángel… que tenía gran autoridad*).
-  > Ese <u>gran</u> no suma otra autoridad. Tras vio a otro: la tierra fue iluminada.
+  > Ese <u>y</u> no suma otra autoridad. Tras vio a otro: la tierra fue iluminada.
 
 * *la tierra* → *fue iluminada*
-  > Quien fue iluminada es <u>la</u> tierra. La flecha se detiene en fue iluminada. Por su gloria —la del ángel que bajaba. Primera vez la tierra así. En Apocalipsis 15:8 el templo se llenó de humo por la gloria de Dios. El texto no dice aquí que sea la misma gloria.
+  > Quien fue iluminada es <u>la</u> tierra. Por su gloria —la del ángel que bajaba. Primera vez la tierra así. En Apocalipsis 15:8 el templo se llenó de humo por la gloria de Dios. El texto no dice aquí que sea la misma gloria.
 
 ### Apocalipsis 18:2:2 — *y gritó con fuerza, con gran voz, diciendo*
 
-* Actores principales: *otro ángel* (1)
-  > El recuento vuelve a <u>otro</u> ángel, uno. La tierra fue iluminada. Ahora: grita.
+> Vuelve <u>otro</u> ángel. La tierra fue iluminada. Ahora: grita.
 
 #### *y gritó con fuerza, con gran voz, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y la tierra fue iluminada por su gloria*).
@@ -10837,47 +10428,44 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien gritó es <u>otro</u> ángel —el que bajaba. Con fuerza, con gran voz. En Apocalipsis 10:3 el fuerte gritó con gran voz. En Apocalipsis 14:8 otro siguió diciendo. Aquí: este grita con fuerza. Qué, todavía no.
 
   * ↳ *diciendo* (λέγων)[^P]
-  > No cuelga de voz como dueño. Acompaña a <u>gritó</u>: gritó diciendo.
+  > Acompaña a <u>gritó</u>: gritó diciendo.
 
 ### Apocalipsis 18:2:7 — *Cayó*
 
-* Actores principales: *Babilonia la grande* (1)
-  > El recuento ya no es el ángel. Quien ocupa la línea es <u>Babilonia</u> la grande, uno. Él grita. Esto es lo que dice.
+> Ya no es el ángel. Quien ocupa la línea es <u>Babilonia</u> la grande. Él grita. Esto es lo que dice.
 
 #### *Cayó*
-  > Eso decía. Primera palabra: <u>Cayó</u>. En Apocalipsis 14:8: Cayó, cayó, juntas. Aquí: la primera. La segunda, todavía no.
+  > Eso decía. Primera palabra: <u>Cayó</u>. En Apocalipsis 14:8: *Cayó, cayó*, juntas. Aquí: la primera. La segunda, todavía no.
 
 * *Babilonia la grande* → *Cayó*
-  > Quien cayó es <u>Babilonia</u> la grande. En Apocalipsis 14:8: Babilonia, la ciudad grande. En Apocalipsis 17:5: en la frente. En Apocalipsis 16:19: fue recordada. Aquí: Cayó. Otra vez, todavía no.
+  > Quien cayó es <u>Babilonia</u> la grande. En Apocalipsis 14:8: Babilonia, la ciudad grande. En Apocalipsis 17:5: en la frente. En Apocalipsis 16:19: fue recordada. Aquí: *Cayó*. Otra vez, todavía no.
 
 ### Apocalipsis 18:2:8 — *cayó Babilonia la grande*
 
-* Actores principales: *Babilonia la grande* (1)
-  > Sigue <u>Babilonia</u> la grande, uno. Cayó. Ahora: cayó otra vez.
+> Sigue <u>Babilonia</u> la grande. *Cayó*. Ahora: cayó otra vez.
 
 #### *cayó Babilonia la grande*
   > Sigue el grito. <u>Cayó</u> otra vez. En Apocalipsis 14:8 las dos iban juntas. Aquí: la segunda nombra a quién.
 
 * *Babilonia la grande* → *cayó*
-  > Quien cayó es la misma. La flecha ahora pone el verbo otra vez, y el nombre. Ya no es solo Cayó. <u>Babilonia</u> la grande cayó.
+  > Quien cayó es la misma. Ya no es solo *Cayó*. <u>Babilonia</u> la grande cayó.
 
 ### Apocalipsis 18:2:13 — *Y se ha convertido en morada de demonios, y prisión de todo espíritu impuro, y prisión de toda ave impura y odiada*
 
-* Actores principales: *Babilonia la grande* (1) · *los comerciantes de la tierra* (1) · *los reyes de la tierra* (1) · *todas las naciones* (1)
-  > El recuento pone a <u>Babilonia</u>, a las naciones, a los reyes y a los comerciantes. Ella cayó. Ahora: en qué se ha convertido; los tres dan por qué.
+> Quienes ocupan la línea son <u>Babilonia</u>, *todas las naciones*, *los reyes de la tierra* y *los comerciantes de la tierra*. Ella cayó. Ahora: en qué se ha convertido; los tres dan por qué.
 
 #### *Y se ha convertido en morada de demonios, y prisión de todo espíritu impuro, y prisión de toda ave impura y odiada*
 * *la grande!* (καὶ)[^kai] une esta cláusula con la anterior (*cayó Babilonia la grande*).
-  > Ese <u>la grande</u> no suma otra caída. Tras cayó: se ha convertido.
+  > Ese <u>y</u> no suma otra caída. Tras cayó: se ha convertido.
 
   > Sigue el grito. <u>Se</u> ha convertido. No solo cayó. En qué: morada y prisión.
 
 * *Babilonia la grande* → *se ha convertido*
-  > Quien se ha convertido es <u>Babilonia</u> la grande. Morada de demonios; prisión de todo espíritu impuro y de toda ave impura y odiada. En Apocalipsis 9:20 y Apocalipsis 16:13: demonios y espíritus impuros. Primera vez morada y prisión así. Por qué cayó, tres, anidados.
+  > Quien se ha convertido es <u>Babilonia</u> la grande. Morada de demonios; prisión de todo espíritu impuro y de toda ave impura y odiada. En Apocalipsis 9:20 y Apocalipsis 16:13: demonios y espíritus impuros. Primera vez morada y prisión así. Por qué cayó, abajo.
 
 + *ave*
   * ↳ *odiada* (μεμισημένου)[^P]
-  > No cuelga de prisión. El <u>ave</u> es impura y odiada.
+  > El <u>ave</u> es impura y odiada.
 
 - *porque del vino de la furia de su prostitución han bebido todas las naciones*
   * *porque* (ὅτι)[^hoti]
@@ -10902,8 +10490,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:4:2 — *Y oí otra voz del cielo, que decía*
 
-* Actores principales: *Yo, Juan* (1)
-  > El recuento vuelve a <u>Yo</u>, Juan, uno. El ángel gritó. Ahora Juan oye otra vez.
+> Vuelve <u>Yo</u>, Juan. El ángel gritó. Ahora Juan oye otra vez.
 
 #### *Y oí otra voz del cielo, que decía*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Y se ha convertido en morada de demonios…*).
@@ -10913,32 +10500,31 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quien oye es <u>Yo</u>, Juan. Lo alcanzado: otra voz. Del cielo. En Apocalipsis 10:4 y Apocalipsis 14:13: una voz del cielo. Aquí: otra. El texto no dice aquí de quién. Qué, todavía no.
 
   * ↳ *decía* (λέγουσαν)[^P]
-  > No cuelga de otra como dueño. Acompaña a <u>oí</u>: oyó otra voz que decía.
+  > Acompaña a <u>oí</u>: oyó otra voz que decía.
 
 ### Apocalipsis 18:4:9 — *Salgan de ella, pueblo mío*
 
-* Actores principales: *pueblo mío* (3) · *Dios* (1) · *sus pecados* (1)
-  > El recuento pone a <u>pueblo</u> mío, tres, a Dios y a sus pecados. Juan oyó otra voz. Ahora: se manda; pecados y Dios dan el porqué.
+> Quienes ocupan la línea son <u>pueblo</u> mío, *Dios* y *sus pecados*. Juan oyó otra voz. Ahora: se manda; pecados y Dios dan el porqué.
 
 #### *Salgan de ella, pueblo mío*
-  > Eso decía. Se manda: <u>Salgan</u> de ella. Primera vez pueblo mío. De ella —Babilonia. Para qué, dos; por qué, dos.
+  > Eso decía. Se manda: <u>Salgan</u> de ella. Primera vez *pueblo mío*. De ella —Babilonia. Para qué, abajo; por qué, abajo.
 
 * *pueblo mío* → *Salgan*
-  > A quienes se manda es <u>pueblo</u> mío. La flecha se detiene en Salgan. De ella. El texto no abre aquí quiénes son.
+  > A quienes se manda es <u>pueblo</u> mío. De ella. El texto no abre aquí quiénes son.
 
 - *para que no participen de sus pecados*
   * *para que* (ἵνα)[^hina]
   > Ese <u>para que</u> no abre otro Salgan suelto. Primer para qué: no participen de sus pecados.
 
 * *pueblo mío* → *participen*
-  > Quienes no participen son los mismos. La flecha no trae el no. De sus pecados —los de ella.
+  > Quienes no participen son los mismos. De sus pecados —los de ella.
 
 - *y para que no reciban de sus plagas*
   * *y* (καὶ)[^hina]
   > Ese <u>y</u> no abre otro ἵνα nuevo. Segundo para qué de Salgan: no reciban de sus plagas.
 
 * *pueblo mío* → *reciban*
-  > Quienes no reciban son los mismos. Otra vez el no queda fuera de la flecha. De sus plagas. Primera vez plagas de ella.
+  > Quienes no reciban son los mismos. De sus plagas. Primera vez plagas de ella.
 
 - *porque sus pecados se han amontonado hasta el cielo*
   * *porque* (ὅτι)[^hoti]
@@ -10956,14 +10542,13 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:6:1 — *Devuélvanle*
 
-* Actores principales: *ella* (1) · *pueblo mío* (1)
-  > El recuento pone a <u>pueblo</u> mío y a ella. Ya se mandó Salgan. Ahora: otro mandato; ella entra: también devolvió.
+> Quienes ocupan la línea son <u>pueblo</u> mío y *ella*. Ya se mandó *Salgan*. Ahora: otro mandato; ella entra: también devolvió.
 
 #### *Devuélvanle*
-  > Sigue la voz. Otro mandato: <u>Devuélvanle</u>. Ya no es salgan. A ella. Cómo, anidado.
+  > Sigue la voz. Otro mandato: <u>Devuélvanle</u>. Ya no es *salgan*. A ella. Cómo, abajo.
 
 * *pueblo mío* → *Devuélvanle*
-  > A quienes se manda son los mismos. La flecha se detiene en Devuélvanle. A ella. El texto no abre aquí qué le devuelven.
+  > A quienes se manda son los mismos. A ella. El texto no abre aquí qué le devuelven.
 
 - *como ella también les devolvió*
   * *como* (ὡς)[^hos]
@@ -10974,25 +10559,23 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:6:8 — *y denle el doble según sus obras*
 
-* Actores principales: *pueblo mío* (1)
-  > Sigue <u>pueblo</u> mío, uno. Devuélvanle. Ahora: denle.
+> Sigue <u>pueblo</u> mío. *Devuélvanle*. Ahora: denle.
 
 #### *y denle el doble según sus obras*
 * *les* (καὶ)[^kai] une esta cláusula con la anterior (*Devuélvanle*).
-  > Ese <u>les</u> no suma otro Devuélvanle suelto. Tras Devuélvanle: denle.
+  > Ese <u>y</u> no suma otro *Devuélvanle* suelto. Tras *Devuélvanle*: denle.
 
 * *pueblo mío* → *denle* → *el doble*
   > Quienes den son los mismos. Lo alcanzado: el doble. Según sus obras. Primera vez el doble. En Apocalipsis 2:23: les daré a cada uno según sus obras. Aquí: denle el doble según las de ella.
 
 ### Apocalipsis 18:6:20 — *en la copa mézclenle el doble*
 
-* Actores principales: *ella* (1) · *pueblo mío* (1)
-  > El recuento pone a <u>pueblo</u> mío y a ella. Denle el doble. Ahora: mézclenle; ella ya mezcló.
+> Quienes ocupan la línea son <u>pueblo</u> mío y *ella*. Denle el doble. Ahora: mézclenle; ella ya mezcló.
 
 - *en que mezcló*
 
 * *ella* → *mezcló*
-  > Quien mezcló es <u>ella</u>. La flecha se detiene en mezcló. En qué copa, el que.
+  > Quien mezcló es <u>ella</u>. En qué copa, abajo.
 
 + *copa*
   * *en que* (ᾧ)[^rel]: describe a *copa*.
@@ -11006,8 +10589,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:7:7 — *tanto denle tormento y duelo*
 
-* Actores principales: *ella* (4) · *pueblo mío* (1)
-  > El recuento pone a <u>ella</u>, cuatro, y a pueblo mío. Mézclenle el doble. Ahora: cuanto ella hizo; tanto denle; ella dice.
+> Quienes ocupan la línea son <u>ella</u> y *pueblo mío*. Mézclenle el doble. Ahora: cuanto ella hizo; tanto denle; ella dice.
 
 - *Cuanto se glorificó a sí misma*
   * *Cuanto* (ὅσα)[^conn]
@@ -11027,35 +10609,34 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Sigue la voz. <u>Tanto</u> denle —a la medida de cuanto. Tormento y duelo. Primera vez así.
 
 * *pueblo mío* → *denle* → *tormento y duelo*
-  > Quienes den son los mismos. Lo alcanzado: tormento y duelo. A ella. En Apocalipsis 18:6: denle el doble. Aquí: tormento y duelo. Por qué, anidado.
+  > Quienes den son los mismos. Lo alcanzado: tormento y duelo. A ella. En Apocalipsis 18:6: denle el doble. Aquí: tormento y duelo. Por qué, abajo.
 
 - *porque dice en su corazón*
   * *porque* (ὅτι)[^hoti]
   > Ese <u>porque</u> no abre otro denle suelto. Da por qué: dice en su corazón.
 
 * *ella* → *dice*
-  > Quien dice es <u>ella</u>. En su corazón. Qué, anidado.
+  > Quien dice es <u>ella</u>. En su corazón. Qué, abajo.
 
   - *Estoy sentada como reina*
     * *Estoy sentada* (ὅτι)[^hoti]
-    > Ese <u>Estoy sentada</u> no abre otro porque. Trae lo que dice: Estoy sentada como reina.
+    > Eso <u>dice</u>: *Estoy sentada como reina*.
 
     * *ella* → *Estoy sentada*
     > Quien está sentada es la misma. Como reina. En Apocalipsis 17:18 la mujer es la gran ciudad que tiene reino. Aquí: ella lo dice. Viuda, todavía no.
 
 ### Apocalipsis 18:7:24 — *y no soy viuda*
 
-* Actores principales: *ella* (1)
-  > Sigue <u>ella</u>, uno. Dijo Estoy sentada como reina. Ahora: no soy viuda.
+> Sigue <u>ella</u>. Dijo *Estoy sentada como reina*. Ahora: no soy viuda.
 
 #### *y no soy viuda*
 * *viuda,* (καὶ)[^kai] une esta cláusula con la anterior (*Estoy sentada como reina*).
-  > Ese <u>viuda</u> no suma otra reina. Tras Estoy sentada: no soy viuda.
+  > Ese <u>y</u> no suma otra reina. Tras *Estoy sentada*: no soy viuda.
 
   > Sigue lo que dice. <u>No</u> soy viuda. Primera vez viuda.
 
 * *ella* → *soy*
-  > Quien no es viuda —dice— es <u>ella</u>. La flecha no trae el no. Viuda queda en la misma línea.
+  > Quien no es viuda —dice— es <u>ella</u>. Viuda queda en la misma línea.
 
 + *y jamás veré duelo*
   * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y no soy viuda*).
@@ -11066,27 +10647,25 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:8:6 — *Por eso en un solo día vendrán sus plagas: muerte, duelo y hambre*
 
-* Actores principales: *sus plagas* (1)
-  > El recuento ya no es ella hablando. Quienes ocupan la línea son <u>sus</u> plagas, uno. Dijo jamás veré duelo. Ahora: vendrán.
+> Ya no es ella hablando. Quienes ocupan la línea son <u>sus</u> plagas. Dijo *jamás veré duelo*. Ahora: vendrán.
 
 #### *Por eso en un solo día vendrán sus plagas: muerte, duelo y hambre*
 * *Por eso* (διὰ τοῦτο)[^conn]
-  > Ese <u>Por eso</u> no abre otro jamás. Apunta a lo que acaba de decir: Estoy sentada, no soy viuda, jamás veré duelo. Por eso vendrán.
+  > Ese <u>Por eso</u> no abre otro jamás. Apunta a lo que acaba de decir: *Estoy sentada*, *no soy viuda*, *jamás veré duelo*. Por eso vendrán.
 
 * *sus plagas* → *vendrán*
-  > Quienes vendrán son <u>sus</u> plagas. Muerte, duelo y hambre. En un solo día. En Apocalipsis 18:4: para que no reciban de sus plagas. Ella dijo jamás veré duelo. Aquí: duelo vendrá, y muerte y hambre.
+  > Quienes vendrán son <u>sus</u> plagas. Muerte, duelo y hambre. En un solo día. En Apocalipsis 18:4: para que no reciban de sus plagas. Ella dijo *jamás veré duelo*. Aquí: duelo vendrá, y muerte y hambre.
 
 ### Apocalipsis 18:8:18 — *y será quemada completamente con fuego*
 
-* Actores principales: *el Señor Dios* (1) · *ella* (1)
-  > El recuento pone a <u>ella</u> y al Señor Dios. Vendrán sus plagas. Ahora: será quemada; él es fuerte.
+> Quienes ocupan la línea son <u>ella</u> y *el Señor Dios*. Vendrán sus plagas. Ahora: será quemada; él es fuerte.
 
 #### *y será quemada completamente con fuego*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Por eso en un solo día vendrán sus plagas…*).
   > Ese <u>y</u> no suma otras plagas sueltas. Tras vendrán: será quemada.
 
 * *ella* → *será quemada*
-  > Quien será quemada es <u>ella</u>. Completamente, con fuego. En Apocalipsis 17:16 estos la quemarán por completo con fuego. Aquí: será quemada. Por qué, anidado.
+  > Quien será quemada es <u>ella</u>. Completamente, con fuego. En Apocalipsis 17:16 estos la quemarán por completo con fuego. Aquí: será quemada. Por qué, abajo.
 
 - *porque fuerte es el Señor Dios que la juzga*
   * *porque* (ὅτι)[^hoti]
@@ -11100,12 +10679,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 + *Dios*
   * ↳ *juzga* (κρίνας)[^P]
-  > No cuelga de fuerte. El <u>Dios</u> es el que la juzga.
+  > El <u>Dios</u> es el que la juzga.
 
 ### Apocalipsis 18:9:2 — *Y llorarán por ella*
 
-* Actores principales: *los reyes de la tierra* (1)
-  > El recuento ya no es ella ni el Señor Dios. Quienes ocupan la línea son <u>los</u> reyes de la tierra, uno. Será quemada. Ahora: llorarán.
+> Ya no es ella ni el Señor Dios. Quienes ocupan la línea son <u>los</u> reyes de la tierra. Será quemada. Ahora: llorarán.
 
 #### *Y llorarán por ella*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*y será quemada completamente con fuego*).
@@ -11116,19 +10694,18 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:9:4 — *y se golpearán el pecho sobre ella los reyes de la tierra que se prostituyeron con ella y vivieron en lujo*
 
-* Actores principales: *los reyes de la tierra* (2)
-  > Siguen <u>los</u> reyes de la tierra, dos. Llorarán. Ahora: se golpearán; cuando vean.
+> Siguen <u>los</u> reyes de la tierra. Llorarán. Ahora: se golpearán; cuando vean.
 
 #### *y se golpearán el pecho sobre ella los reyes de la tierra que se prostituyeron con ella y vivieron en lujo*
 * *por ella* (καὶ)[^kai] une esta cláusula con la anterior (*Y llorarán por ella*).
-  > Ese <u>por ella</u> no suma otro lloro suelto. Tras llorarán: se golpearán.
+  > Ese <u>y</u> no suma otro lloro suelto. Tras llorarán: se golpearán.
 
 * *los reyes de la tierra* → *se golpearán* → *el pecho*
-  > Quienes se golpearán son los mismos. Lo alcanzado: el pecho. Sobre ella. Primera vez se golpearán. Cuándo, anidado.
+  > Quienes se golpearán son los mismos. Lo alcanzado: el pecho. Sobre ella. Primera vez se golpearán. Cuándo, abajo.
 
 + *reyes*
   * ↳ *se prostituyeron* (πορνεύσαντες)[^P]
-  > No cuelga de ella como dueño. Los <u>reyes</u> se prostituyeron con ella. En Apocalipsis 17:2 y Apocalipsis 18:3 ya.
+  > Los <u>reyes</u> se prostituyeron con ella. En Apocalipsis 17:2 y Apocalipsis 18:3 ya.
 
   * ↳ *vivieron* (στρηνιάσαντες)[^P]
   > Los mismos <u>reyes</u> vivieron en lujo. En Apocalipsis 18:3 y Apocalipsis 18:7: lujo. Aquí: ellos.
@@ -11145,11 +10722,10 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:10:11 — *Ay, ay, gran ciudad, Babilonia, ciudad fuerte*
 
-* Actores principales: *gran ciudad, Babilonia, ciudad fuerte* (1) · *tu juicio* (1)
-  > El recuento ya no es los reyes. Quienes ocupan la línea son <u>gran</u> ciudad, Babilonia, ciudad fuerte, y tu juicio. Ellos dicen; el juicio llega.
+> Ya no son los reyes. Quienes ocupan la línea son <u>gran</u> ciudad, Babilonia, ciudad fuerte, y *tu juicio*. Ellos dicen; el juicio llega.
 
 #### *Ay, ay, gran ciudad, Babilonia, ciudad fuerte*
-  > Eso decían, de pie a distancia. <u>Ay</u>, ay. Primera vez Ay, ay. A la gran ciudad: Babilonia, ciudad fuerte.
+  > Eso decían, de pie a distancia. <u>Ay</u>, ay. Primera vez *Ay, ay*. A la gran ciudad: Babilonia, ciudad fuerte.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español no lo necesita. La afirmación es <u>Ay</u>, ay.
@@ -11166,27 +10742,25 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:11:6 — *Y los comerciantes de la tierra lloran*
 
-* Actores principales: *los comerciantes de la tierra* (1)
-  > El recuento ya no es la gran ciudad. Quienes ocupan la línea son <u>los</u> comerciantes de la tierra, uno. Los reyes dijeron Ay. Ahora: estos lloran.
+> Ya no es la gran ciudad. Quienes ocupan la línea son <u>los</u> comerciantes de la tierra. Los reyes dijeron *Ay*. Ahora: estos lloran.
 
 #### *Y los comerciantes de la tierra lloran*
 * *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*Ay, ay, gran ciudad, Babilonia, ciudad fuerte*).
   > Ese <u>Y</u> no suma otro Ay. Tras el Ay de los reyes: los comerciantes lloran.
 
 * *los comerciantes de la tierra* → *lloran*
-  > Quienes lloran son <u>los</u> comerciantes de la tierra. No llorarán: lloran. En Apocalipsis 18:3 se enriquecieron por el poder de su lujo. En Apocalipsis 18:9 los reyes llorarán. Aquí: estos lloran. Duelo, todavía no.
+  > Quienes lloran son <u>los</u> comerciantes de la tierra. No *llorarán*: *lloran*. En Apocalipsis 18:3 se enriquecieron por el poder de su lujo. En Apocalipsis 18:9 los reyes *llorarán*. Aquí: estos lloran. Duelo, todavía no.
 
 ### Apocalipsis 18:11:8 — *y hacen duelo por ella*
 
-* Actores principales: *los comerciantes de la tierra* (1) · *nadie* (1)
-  > El recuento pone a <u>los</u> comerciantes y a nadie. Estos lloran. Ahora: hacen duelo; nadie compra.
+> Quienes ocupan la línea son <u>los</u> comerciantes y *nadie*. Estos lloran. Ahora: hacen duelo; nadie compra.
 
 #### *y hacen duelo por ella*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y los comerciantes de la tierra lloran*).
   > Ese <u>y</u> no suma otro lloro suelto. Tras lloran: hacen duelo.
 
 * *los comerciantes de la tierra* → *hacen duelo*
-  > Quienes hacen duelo son los mismos. Por ella. En Apocalipsis 18:7: denle tormento y duelo. En Apocalipsis 18:9 los reyes se golpearán. Aquí: los comerciantes. Por qué lloran, anidado.
+  > Quienes hacen duelo son los mismos. Por ella. En Apocalipsis 18:7: denle tormento y duelo. En Apocalipsis 18:9 los reyes se golpearán. Aquí: los comerciantes. Por qué lloran, abajo.
 
 - *porque nadie compra ya su carga*
   * *porque* (ὅτι)[^hoti]
@@ -11203,8 +10777,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:14:9 — *y el fruto del deseo de tu alma se fue de ti*
 
-* Actores principales: *el fruto del deseo de tu alma* (1)
-  > El recuento ya no es los comerciantes. Quien ocupa la línea es <u>el</u> fruto del deseo de tu alma, uno. La carga se listó. Ahora: se fue. El tú es ella.
+> Ya no son los comerciantes. Quien ocupa la línea es <u>el</u> fruto del deseo de tu alma. La carga se listó. Ahora: se fue. El tú es ella.
 
 #### *y el fruto del deseo de tu alma se fue de ti*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y hacen duelo por ella*).
@@ -11215,8 +10788,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:14:19 — *y todas las cosas exquisitas y espléndidas se perdieron de ti*
 
-* Actores principales: *todas las cosas exquisitas y espléndidas* (1)
-  > El recuento ya no es el fruto. Quienes ocupan la línea son <u>todas</u> las cosas exquisitas y espléndidas, uno. El fruto se fue. Ahora: estas se perdieron.
+> Ya no es el fruto. Quienes ocupan la línea son <u>todas</u> las cosas exquisitas y espléndidas. El fruto se fue. Ahora: estas se perdieron.
 
 #### *y todas las cosas exquisitas y espléndidas se perdieron de ti*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y el fruto del deseo de tu alma se fue de ti*).
@@ -11227,23 +10799,21 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:14:27 — *y nunca más las hallarás*
 
-* Actores principales: *ella* (1)
-  > El recuento vuelve a <u>ella</u>, uno —el tú. Las cosas se perdieron. Ahora: no las hallarás.
+> Vuelve <u>ella</u> —el tú. Las cosas se perdieron. Ahora: no las hallarás.
 
 #### *y nunca más las hallarás*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*y todas las cosas exquisitas y espléndidas se perdieron de ti*).
   > Ese <u>y</u> no suma otra pérdida suelta. Tras se perdieron: nunca más las hallarás.
 
 * *ella* → *hallarás* → *las*
-  > Quien no hallará es <u>ella</u> —el tú. Lo alcanzado: las —todas las cosas exquisitas y espléndidas. Nunca más queda en la misma línea, fuera de la flecha. Se perdieron. Ahora: no las halla.
+  > Quien no hallará es <u>ella</u> —el tú. Lo alcanzado: las —todas las cosas exquisitas y espléndidas. *Nunca más*. Se perdieron. Ahora: no las halla.
 
 ### Apocalipsis 18:15:10 — *quedarán de pie a distancia por temor a su tormento, llorando y haciendo duelo*
 
-* Actores principales: *Los comerciantes de estas cosas* (1)
-  > El recuento ya no es ella hallando. Quienes ocupan la línea son <u>Los</u> comerciantes de estas cosas, uno. Nunca más las hallará. Ahora: estos quedan de pie.
+> Ya no es ella hallando. Quienes ocupan la línea son <u>Los</u> comerciantes de estas cosas. Nunca más las hallará. Ahora: estos quedan de pie.
 
 + *Los comerciantes de estas cosas, que se enriquecieron por ella, se*
-  > No es otro recuento. <u>Estos</u> son los de la carga —estas cosas. Se enriquecieron por ella.
+  > <u>Estos</u> son los de la carga —estas cosas. Se enriquecieron por ella.
 
 #### *quedarán de pie a distancia por temor a su tormento, llorando y haciendo duelo*
   > Sigue la voz. <u>Quedarán</u> de pie a distancia. En Apocalipsis 18:9–10 los reyes, de pie a distancia por temor a su tormento. Aquí: los comerciantes.
@@ -11256,21 +10826,20 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Los <u>comerciantes</u> son los que se enriquecieron por ella. En Apocalipsis 18:3 ya.
 
   * ↳ *llorando* (κλαίοντες)[^P]
-  > No cuelga de comerciantes como dueño. Acompaña a <u>quedarán</u>: quedarán llorando.
+  > Acompaña a <u>quedarán</u>: quedarán llorando.
 
   * ↳ *haciendo* (πενθοῦντες)[^P]
-  > Tampoco cuelga de comerciantes. Acompaña a <u>quedarán</u>: quedarán haciendo duelo. En Apocalipsis 18:11 lloran y hacen duelo. Aquí: de pie, así.
+  > Acompaña a <u>quedarán</u>: quedarán haciendo duelo. En Apocalipsis 18:11 lloran y hacen duelo. Aquí: de pie, así.
 
 + *y diciendo*
   > No quedan mudos. Van <u>diciendo</u>. Qué, todavía no.
 
 ### Apocalipsis 18:16:2 — *Ay, ay, gran ciudad, vestida de lino fino, púrpura y escarlata, y adornada con oro, piedra preciosa y perlas*
 
-* Actores principales: *gran ciudad, vestida de lino fino, púrpura y escarlata, y adornada con oro, piedra preciosa y perlas* (1) · *tanta riqueza* (1)
-  > El recuento ya no es los comerciantes de pie. Quienes ocupan la línea son <u>gran</u> ciudad —vestida y adornada— y tanta riqueza. Ellos dicen; la riqueza entra.
+> Ya no son los comerciantes de pie. Quienes ocupan la línea son <u>gran</u> ciudad —vestida y adornada— y *tanta riqueza*. Ellos dicen; la riqueza entra.
 
 #### *Ay, ay, gran ciudad, vestida de lino fino, púrpura y escarlata, y adornada con oro, piedra preciosa y perlas*
-  > Eso decían. <u>Ay</u>, ay otra vez. En Apocalipsis 18:10: Ay, ay, gran ciudad, Babilonia, ciudad fuerte. Aquí: vestida y adornada.
+  > Eso decían. <u>Ay</u>, ay otra vez. En Apocalipsis 18:10: *Ay, ay, gran ciudad, Babilonia, ciudad fuerte*. Aquí: vestida y adornada.
 
 * Cláusula nominal: en griego esta cláusula no tiene verbo; el español lo suple para poder leerse.
   > El griego no trae verbo. El español no lo necesita. La afirmación es <u>Ay</u>, ay.
@@ -11294,8 +10863,7 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 ### Apocalipsis 18:17:26 — *Y todo piloto y toda la compañía sobre los barcos y los marineros y todos los se quedaron de pie a distancia*
 
-* Actores principales: *todo piloto, y toda la compañía sobre los barcos, y los marineros y todos los* (1) · *todos los* (1)
-  > El recuento ya no es la ciudad vestida. Quienes ocupan la línea son <u>todo</u> piloto —y la compañía, los marineros y todos los—, uno. Tanta riqueza fue devastada. Ahora: el mar. Todos los trabajan.
+> Ya no es la ciudad vestida. Quienes ocupan la línea son <u>todo</u> piloto —y la compañía, los marineros y todos los—. Tanta riqueza fue devastada. Ahora: el mar. *Todos los* trabajan.
 
 - *que trabajan en el mar*
 
@@ -11315,12 +10883,11 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
 
 + *compañía*
   * ↳ *navega* (πλέων)[^P]
-  > No cuelga de barcos. La <u>compañía</u> es la que navega sobre los barcos.
+  > La <u>compañía</u> es la que navega sobre los barcos.
 
 ### Apocalipsis 18:18:2 — *y gritaron al ver el humo de su quema, diciendo*
 
-* Actores principales: *todo piloto, y toda la compañía sobre los barcos, y los marineros y todos los* (1)
-  > Siguen <u>todo</u> piloto —y la compañía, los marineros y todos los—, uno. Se quedaron de pie. Ahora: gritan.
+> Siguen <u>todo</u> piloto —y la compañía, los marineros y todos los—. Se quedaron de pie. Ahora: gritan.
 
 #### *y gritaron al ver el humo de su quema, diciendo*
 * *y* (καὶ)[^kai] une esta cláusula con la anterior (*Y todo piloto… se quedaron de pie a distancia*).
@@ -11330,10 +10897,10 @@ Toda isla huyó; no se encontraron montes; cae granizo grande. Las personas blas
   > Quienes gritaron son los mismos. En Apocalipsis 18:9 los reyes se golpean cuando vean el humo de su quema. Aquí: estos gritan al verlo. Qué, todavía no.
 
   * ↳ *ver* (βλέποντες)[^P]
-  > No cuelga de humo como dueño. Acompaña a <u>gritaron</u>: gritaron al ver el humo de su quema.
+  > Acompaña a <u>gritaron</u>: gritaron al ver el humo de su quema.
 
   * ↳ *diciendo* (λέγοντες)[^P]
-  > Tampoco cuelga de humo. Acompaña a <u>gritaron</u>: gritaron diciendo.
+  > Acompaña a <u>gritaron</u>: gritaron diciendo.
 
 ### Apocalipsis 18:18:11 — *Quién es como la gran ciudad*
 

@@ -34,7 +34,7 @@ Al cierre: estas palabras fieles y verdaderas (Apocalipsis 22:6–21). La profec
 
 No hay que adelantar el final. El libro mismo dirá qué se muestra, a quién, y cuándo el tiempo está cerca.
 
-# APOCALIPSIS 1:1–3:22 LA REVELACIÓN DADA A LAS SIETE IGLESIAS
+# APOCALIPSIS 1:1–3:22 LA VISIÓN INICIAL Y LOS MENSAJES A LAS SIETE IGLESIAS
 
 ## Apocalipsis 1:1–8 Revelación, profecía y gracia
 
