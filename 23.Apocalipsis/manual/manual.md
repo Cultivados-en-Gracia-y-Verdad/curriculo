@@ -221,217 +221,182 @@ Juan, a las siete iglesias: gracia y paz — de aquel que es y que era y que vie
 
 = **20** *el misterio de las siete estrellas que viste en mi mano derecha, y los siete candelabros de oro: las siete estrellas son ángeles de las siete iglesias, y los siete candelabros que viste son siete iglesias.*
 
-### Apocalipsis 1:9:17 — Juan en Patmos
+### Apocalipsis 1:9–11 — Juan en Patmos; en el Espíritu oye la voz que manda
 
 #### *Yo, Juan, también hermano de ustedes y copartícipe en la tribulación y en el reino y la perseverancia de Jesús Cristo, estuve en la isla llamada Patmos por causa de la palabra de Dios y por el testimonio de Jesús Cristo*
 
-  > Ya no habla el Alfa y la Omega. Habla el siervo: <u>hermano</u> y copartícipe, y nombra el lugar — Patmos — por la palabra de Dios y el testimonio de Jesús Cristo.
+> Habla <u>Yo, Juan</u> (Ἐγὼ Ἰωάννης)[^ap-1-9-ego-ioannes]. Se sitúa como hermano y copartícipe, y dice dónde <u>estuvo</u> (ἐγενόμην)[^ap-1-9-egenomen]: en la isla llamada Patmos, por la palabra de Dios y por el testimonio de Jesús Cristo.
 
-* *Yo, Juan* → *estuve*
-
-+ *tribulación*
-
-+ *isla*
-  * ↳ *llamada* (καλουμένῃ)[^P]
-
-### Apocalipsis 1:10:1 — *Estuve en el Espíritu en el día del Señor*
+- *también hermano de ustedes y copartícipe*
+  > No es otro actor: es cómo Juan se nombra respecto de ustedes (ὁ καὶ ἀδελφὸς… καὶ συγκοινωνός)[^ap-1-9-adelphos].
+  - *en la tribulación y en el reino y la perseverancia de Jesús Cristo*
+    > Tres esferas bajo la misma coparticipación: tribulación, reino y perseverancia de Jesús Cristo.
+- *llamada Patmos*
+  > La isla se nombra: *Patmos* (Πάτμῳ)[^ap-1-9-patmo].
+- *por causa de la palabra de Dios*
+- *y por el testimonio de Jesús Cristo*
+  > Dos causas del estar allí, unidas: la palabra de Dios y el testimonio de Jesús Cristo (διὰ… καὶ διὰ…)[^ap-1-9-dia].
 
 #### *Estuve en el Espíritu en el día del Señor*
-  > Otro <u>estuve</u>: no otra isla, sino en el Espíritu, en el día del Señor.
 
-* *Yo, Juan* → *Estuve*
+> Otro <u>estuve</u> (ἐγενόμην)[^ap-1-10-egenomen]: el mismo verbo, esta vez *en el Espíritu*. El texto no corta el hilo de Juan; declara en qué estado estuvo.
 
-### Apocalipsis 1:10:9 — *y oí detrás de mí una voz fuerte como de trompeta*
+- *en el día del Señor*
+  > Marco del estado: *en el día del Señor* (ἐν τῇ Κυριακῇ ἡμέρᾳ)[^ap-1-10-kyriake].
 
 #### *y oí detrás de mí una voz fuerte como de trompeta*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*Estuve en el Espíritu*).
 
-* *Yo, Juan* → *oí* → *una voz fuerte*
+> Juan <u>oyó</u> (ἤκουσα)[^ap-1-10-ekousa]. La voz está detrás de él; es fuerte, *como de trompeta*.
 
-+ *que decía: Yo soy el Alfa y la Omega, el primero y el último, y*
-  > La voz se nombra como en 1:8 — y manda lo que sigue.
+- *como de trompeta*
+  - *que decía*
+    > *Que decía* traduce (λεγούσης)[^ap-1-11-legouses]. La forma es genitivo y concuerda con *trompeta*; el sentido apunta a la voz. El texto deja esa tensión a la vista; no la resolvemos por él.
 
-- *lo que ves*
-* *Yo* (Ὃ)[^rel]: describe a alguien o algo mencionado antes.
+#### *Yo soy el Alfa y la Omega, el primero y el último*
 
-### Apocalipsis 1:11:4 — *escríbelo en un libro*
+> Habla <u>una voz</u>: *Yo soy* (Ἐγώ εἰμι)[^ap-1-11-ego-eimi]. El texto **no** nombra aquí a quién pertenece esa voz.
+
+- *el Alfa y la Omega*
+  > Primer par: *Alfa* y *Omega* (τὸ Α καὶ τὸ Ω)[^ap-1-11-alpha-omega].
+- *el primero y el último*
+  > Segundo par: *el primero y el último* (ὁ πρῶτος καὶ ὁ ἔσχατος)[^ap-1-11-protos-eschatos].
 
 #### *escríbelo en un libro*
 
-* *Yo, Juan* → *escríbelo*
+> Primer mandato: <u>escribe</u> (γράψον)[^ap-1-11-grapson] en un libro.
 
-### Apocalipsis 1:11:8 — *y envíalo a las siete iglesias que están en Asia: a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardis, a Filadelfia y a Laodicea*
+- *lo que ves*
+  > Objeto adelantado: *lo que ves* (Ὃ βλέπεις)[^ap-1-11-ho-blepeis] — lo que hay que escribir.
 
 #### *y envíalo a las siete iglesias que están en Asia: a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardis, a Filadelfia y a Laodicea*
-* *la Omega,* (καὶ)[^kai] une esta cláusula con la anterior (*escríbelo en un libro*).
 
-* *Yo, Juan* → *envíalo* → *a las siete iglesias*
-  > El libro no se queda en Juan: debe llegar a las <u>siete</u> iglesias, ciudad por ciudad. Esa presión se entrega al cerrar las siete *oiga*.
+> Segundo mandato, coordinado: <u>envía</u> (πέμψον)[^ap-1-11-pempson]. El libro no se queda en Juan; debe llegar a las siete iglesias.
 
-### Apocalipsis 1:12:2 — *Y me volví para ver la voz*
+- *que están en Asia*
+- *a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardis, a Filadelfia y a Laodicea*
+  > Siete destinos, uno tras otro (εἰς…)[^ap-1-11-eis].
+
+### Apocalipsis 1:12–13 — Se vuelve y ve
 
 #### *Y me volví para ver la voz*
-* *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*envíalo a las siete iglesias*).
 
-* *Yo, Juan* → *me volví*
+> Juan <u>se volvió</u> (ἐπέστρεψα)[^ap-1-12-epestrepsa]. El propósito es ver la voz — la misma que oyó.
 
-* ↳ *ver* (βλέπειν)[^I]
+- *para ver la voz*
+  > Infinitivo de propósito: *ver* (βλέπειν)[^ap-1-12-blepein] la voz.
+  - *que hablaba conmigo*
+    > Relativo: la voz *que hablaba* (ἥτις ἐλάλησε)[^ap-1-12-hetis] conmigo.
 
-+ *voz*
-  * *que* (ἥτις)[^rel]: describe a *voz*.
+#### *y al volverme, vi siete candelabros de oro, y en medio de los siete candelabros a alguien semejante a un hijo de hombre, vestido con una túnica hasta los pies y ceñido alrededor del pecho con un cinturón de oro*
 
-- *que hablaba conmigo*
-  * *que* → *hablaba*
+> Al volverse, <u>vio</u> (εἶδον)[^ap-1-12-eidon]. No ve la voz suelta: ve siete candelabros de oro, y en medio a alguien semejante a un hijo de hombre.
 
-### Apocalipsis 1:12:12 — *vi siete candelabros de oro y en medio de los siete candelabros a alguien semejante a un hijo de hombre, vestido con una túnica hasta los pies y ceñido alrededor del pecho con un cinturón de oro*
+- *y al volverme*
+  > Participio: *al volverme* (ἐπιστρέψας)[^ap-1-12-epistrepsas] acompaña el ver.
+- *y en medio de los siete candelabros a alguien semejante a un hijo de hombre*
+  > Segundo objeto del mismo *vi*: *semejante a un hijo de hombre* (ὅμοιον υἱῷ ἀνθρώπου)[^ap-1-13-homoion]. El corte de versículo no abre otra cláusula.
+  - *vestido con una túnica hasta los pies*
+  - *y ceñido alrededor del pecho con un cinturón de oro*
+    > Dos notas de atuendo sobre el mismo visto (ἐνδεδυμένον… περιεζωσμένον)[^ap-1-13-endedymenon].
 
-+ *y al volverme*
-  * ↳ *volverme* (ἐπιστρέψας)[^P]
-
-#### *vi siete candelabros de oro y en medio de los siete candelabros a alguien semejante a un hijo de hombre, vestido con una túnica hasta los pies y ceñido alrededor del pecho con un cinturón de oro*
-  > No ve la voz suelta: ve siete candelabros de oro, y en medio a alguien semejante a un hijo de hombre.
-
-* *Yo, Juan* → *vi* → *siete candelabros de oro a alguien semejante a un hijo de hombre*
-
-### Apocalipsis 1:14:8 — *Pero su cabeza y sus cabellos eran blancos como lana blanca, como nieve*
+### Apocalipsis 1:14–16 — Cómo es el que está en medio
 
 #### *Pero su cabeza y sus cabellos eran blancos como lana blanca, como nieve*
 
-* Cláusula nominal[^nom].
+> Abre la descripción del que está en medio. Sujeto propio: *su cabeza y sus cabellos* — <u>blancos</u> (λευκαί)[^ap-1-14-leukai]. Sin cópula en el griego; el español añade *eran*.
 
-* *su cabeza y sus cabellos* → *blancos*
+- *como lana blanca, como nieve*
+  > Doble comparación del blanco.
+- *y sus ojos como llama de fuego*
+  > Siguiente predicación sobre el mismo: *sus ojos* como llama de fuego.
+- *y sus pies semejantes al bronce bruñido, como refinado en un horno*
+  > *Sus pies* semejantes al bronce bruñido.
+  - *como refinado en un horno*
+    > Cómo es ese bronce (πεπυρωμένοι)[^ap-1-15-pepyromenoi].
+- *y su voz como el sonido de muchas aguas*
+  > Reaparece *voz* (φωνή)[^ap-1-15-phone]: *su* voz, como el sonido de muchas aguas.
+- *y tenía en su mano derecha siete estrellas*
+  > *Tenía* traduce (ἔχων)[^ap-1-16-echon]: participio nominativo. El español aporta un finito; el griego no nombra un verbo anfitrión claro. Queda abierto cómo se engrana la forma; el contenido sigue en la serie: siete estrellas en la mano derecha.
+- *y de su boca salía una espada afilada de dos filos*
+  > De su boca: una espada afilada de dos filos (ῥομφαία… ἐκπορευομένη)[^ap-1-16-rhomphaia].
+- *y su rostro era como el sol que resplandece con toda su fuerza*
+  > Cierra la serie: *su rostro* como el sol.
+  - *que resplandece con toda su fuerza*
+    > El sol <u>resplandece</u> (φαίνει)[^ap-1-16-phainei] con toda su fuerza.
 
-+ *y sus ojos como llama de fuego*
-
-### Apocalipsis 1:15:5 — *y sus pies semejantes al bronce bruñido, como refinado en un horno*
-
-#### *y sus pies semejantes al bronce bruñido, como refinado en un horno*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*Pero su cabeza y sus cabellos eran blancos*).
-
-* Cláusula nominal[^nom].
-
-* *sus pies* → *semejantes* → *al bronce bruñido*
-
-+ *horno*
-  * ↳ *refinado* (πεπυρωμένης)[^P]
-
-+ *y su voz como el sonido de muchas aguas*
-
-+ *y tenía en su mano derecha siete estrellas, y de su boca salía una espada afilada de dos filos, y su rostro era*
-
-- *como el sol que resplandece con toda su fuerza*
-
-### Apocalipsis 1:17:5 — *caí a sus pies como muerto*
-
-- *Y cuando lo vi*
-  * *cuando* (ὅτε)[^hote] marca el momento de *caí*.
-  * *Yo, Juan* → *vi* → *lo*
+### Apocalipsis 1:17–18 — Juan cae; la figura pone la mano y habla
 
 #### *caí a sus pies como muerto*
-  > Visto aquello, cae a sus pies como muerto.
 
-* *Yo, Juan* → *caí*
+> <u>Cuando</u> (ὅτε)[^ap-1-17-hote] lo vio, <u>cayó</u> (ἔπεσα)[^ap-1-17-epesa] a sus pies. Este *cuando* es el único enlace temporal explícito entre cláusulas del tramo.
 
-### Apocalipsis 1:17:13 — *Y puso su mano derecha sobre mí, diciéndome*
+- *Y cuando lo vi*
+- *como muerto*
+  > Cómo cayó: *como muerto* (ὡς νεκρός)[^ap-1-17-nekros].
 
 #### *Y puso su mano derecha sobre mí, diciéndome*
-* *Y* (καὶ)[^kai] une esta cláusula con la anterior (*caí a sus pies como muerto*).
 
-* → *puso* → *su mano derecha*
+> Cambia quién actúa: <u>puso</u> (ἐπέθηκε)[^ap-1-17-epetheke] la mano derecha sobre Juan. El verbo es tercera persona; el sujeto **no** se nombra en la cláusula. Por el contexto es la figura vista; el texto no lo escribe de nuevo aquí.
 
-+ *diciéndome*
-  * ↳ *diciéndome* (λέγων)[^P]
-
-### Apocalipsis 1:17:21 — *No tengas miedo*
+- *diciéndome*
+  > Participio: *diciéndome* (λέγων)[^ap-1-17-legon] abre el discurso.
 
 #### *No tengas miedo*
 
-* *Yo, Juan* → *tengas* → *miedo*
+> Primera palabra a Juan: <u>No tengas miedo</u> (Μὴ φοβοῦ)[^ap-1-17-me-phobou].
 
-### Apocalipsis 1:17:23 — *Yo soy el primero y el último y el que vive*
+#### *Yo soy el primero y el último, y el que vive*
 
-#### *Yo soy el primero y el último y el que vive*
-  > El que habla se nombra: el primero y el último, y el que vive.
+> Habla quien Juan ve: *Yo soy* el primero y el último, y el que vive (ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος… ὁ ζῶν)[^ap-1-17-ego-eimi]. No es una identificación silenciosa de la voz de 1:11; es la declaración de la figura presente.
 
-* *Yo* → *soy* → *el primero y el último y el que vive*
+- *y el que vive*
+- *Estuve muerto*
+  > Mismo verbo *estuve* (ἐγενόμην)[^ap-1-18-egenomen] que Juan usó de sí: la figura dice *estuve muerto*.
+- *y he aquí, vivo por los siglos de los siglos*
+  > *He aquí* (ἰδού)[^ap-1-18-idou]: <u>vivo</u> (ζῶν εἰμι)[^ap-1-18-zon-eimi] por los siglos de los siglos.
+- *Amén*
+  > Confirma la declaración.
+- *Y tengo las llaves del Hades y de la muerte*
+  > Última declaración antes de reanudar el mandato: <u>tengo</u> (ἔχω)[^ap-1-18-echo] las llaves del Hades y de la muerte.
 
-### Apocalipsis 1:18:5 — *Estuve muerto*
+### Apocalipsis 1:19–20 — Escribe; el misterio se abre hacia las iglesias
 
-#### *Estuve muerto*
-* *Estuve* (καὶ)[^kai] une esta cláusula con la anterior (*Yo soy el primero y el último y el que vive*).
+#### *Escribe las cosas que has visto, las que son y las que están por suceder después de estas cosas*
 
-* *Yo* → *Estuve* → *muerto*
-
-### Apocalipsis 1:18:10 — *y he aquí, vivo por los siglos de los siglos*
-
-#### *y he aquí, vivo por los siglos de los siglos*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*Estuve muerto*).
-
-* *Yo* → *vivo*
-
-* ↳ *vivo* (ζῶν)[^P]
-
-+ *Amén*
-
-### Apocalipsis 1:18:17 — *Y tengo las llaves del Hades y de la muerte*
-
-#### *Y tengo las llaves del Hades y de la muerte*
-* *Amén.* (καὶ)[^kai] une esta cláusula con la anterior (*y he aquí, vivo por los siglos de los siglos*).
-
-* *Yo* → *tengo* → *las llaves del Hades y de la muerte*
-  > Estuvo muerto; vive; tiene las llaves del Hades y de la muerte.
-
-### Apocalipsis 1:19:1 — *Escribe*
-
-#### *Escribe*
-
-* *Yo, Juan* → *Escribe*
+> Se reanuda el mandato: <u>Escribe</u> (γράψον)[^ap-1-19-grapson]. Tres alcances: lo visto, lo que es, y lo que está por suceder después de estas cosas. *Después de estas cosas* (μετὰ ταῦτα)[^ap-1-19-meta-tauta] es contenido de lo que se manda escribir — no un enlace temporal entre las cláusulas del mapa.
 
 - *las cosas que has visto*
-  * *has visto,* (ἃ)[^rel]: describe a *cosas*.
-
 - *las que son*
-  * *son* (ἃ)[^rel]
-
 - *y las que están por suceder después de estas cosas*
-  * *están* (ἃ)[^rel]
-  * ↳ *suceder* (γίνεσθαι)[^I]
-  > Tres cosas: lo visto, lo que es, lo que está por suceder. El libro no las convierte aquí en mapa de tres partes; la clave queda abierta.
-
-+ *el misterio de las siete estrellas*
-
-+ *estrellas*
-  * *que* (οὓς)[^rel]: describe a *estrellas*.
-
-- *que viste en mi mano derecha*
-
-+ *y los siete candelabros de oro*
-
-### Apocalipsis 1:20:25 — *las siete estrellas son ángeles de las siete iglesias*
+- *el misterio de las siete estrellas que viste en mi mano derecha*
+  > Objeto del mismo *Escribe*: el misterio (τὸ μυστήριον)[^ap-1-20-mysterion] de las siete estrellas.
+  - *que viste en mi mano derecha*
+    > Relativo: las estrellas *que viste* (ὧν εἶδες)[^ap-1-20-hon-eides] en la mano derecha.
+- *y los siete candelabros de oro*
+  > También bajo el mandato: los siete candelabros de oro.
 
 #### *las siete estrellas son ángeles de las siete iglesias*
 
-* *las siete estrellas* → *son* → *ángeles de las siete iglesias*
-
-### Apocalipsis 1:20:33 — *y los siete candelabros que viste son siete iglesias*
+> Declaración explicativa: las siete estrellas <u>son</u> (εἰσιν)[^ap-1-20-eisin] ángeles de las siete iglesias.
 
 #### *y los siete candelabros que viste son siete iglesias*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*las siete estrellas son ángeles de las siete iglesias*).
 
-* *los siete candelabros que viste* → *son* → *siete iglesias*
-  > Estrellas y candelabros se abren hacia las mismas iglesias a las que había que enviar el libro. Sigue: escribir a cada una.
+> Coordinada: los siete candelabros <u>son</u> siete iglesias. Estrellas y candelabros se abren hacia las mismas iglesias a las que había que enviar el libro.
+
+- *que viste*
 
 ### En síntesis
 
-Juan, hermano y copartícipe, nombra Patmos y dice: estuvo en el Espíritu.
+Juan, hermano y copartícipe, nombra Patmos: estuvo allí por la palabra y el testimonio. Estuvo en el Espíritu; oyó una voz que manda escribir y enviar a las siete iglesias.
 
-La voz manda escribir y enviar a las siete iglesias. Al volverse, ve siete candelabros y, en medio, a alguien semejante a un hijo de hombre.
+Se vuelve para ver la voz: ve siete candelabros y, en medio, a alguien semejante a un hijo de hombre.
 
-La descripción aprieta hasta el rostro como el sol; Juan cae como muerto.
+La descripción aprieta — cabeza, ojos, pies, voz, estrellas, espada, rostro como el sol — hasta que Juan cae como muerto.
 
-El que vive pone la mano: no tengas miedo; estuvo muerto; vive; tiene las llaves.
+La figura pone la mano: no tengas miedo; Yo soy el primero y el último, el que vive; estuve muerto; vivo; tengo las llaves.
 
-Otra vez *Escribe* — lo visto, lo que es, lo que está por suceder — y el misterio se abre hacia las iglesias. La presión de enviar el libro a las siete queda puesta; lo que sigue es cada *Escribe al ángel*.
+Otra vez *Escribe* — lo visto, lo que es, lo que está por suceder — y el misterio se abre: las estrellas son ángeles; los candelabros, iglesias.
+
 
 ## Apocalipsis 2:1–7 Escribe al ángel de la iglesia efesia
 
@@ -445,227 +410,134 @@ Otra vez *Escribe* — lo visto, lo que es, lo que está por suceder — y el mi
 
 = **7** *El que tiene oído, que oiga lo que el Espíritu dice a las iglesias. Al que vence le daré a comer del árbol de la vida, que está en medio del paraíso de Dios.*
 
-### Apocalipsis 2:1:7 — Al ángel de Éfeso
-
+### Apocalipsis 2:1 — Manda escribir a Éfeso; el que habla se describe por lo que sostiene y por dónde camina
 
 #### *Escribe al ángel de la iglesia efesia*
 
-* *Yo, Juan* → *Escribe* → *al ángel de la iglesia efesia*
-
-### Apocalipsis 2:1:9 — *Esto dice el que sostiene las siete estrellas en su mano derecha, el que camina en medio de los siete candelabros de oro*
-
+> Mandato: ***Escribe*** (γράψον)[^ap-2-1-grapson] al ángel de la iglesia efesia. Sin sujeto expreso. Esta carta abre sin *y* — la única de las siete que arranca así.
 
 #### *Esto dice el que sostiene las siete estrellas en su mano derecha, el que camina en medio de los siete candelabros de oro*
 
-* *el que sostiene las siete estrellas en su mano derecha, el que camina en medio de los siete candelabros de oro* → *dice* → *Esto*
+> *Esto dice* (Τάδε λέγει)[^ap-2-1-tade-legei]. Quién habla no se nombra: se ***describe*** por dos participios.
 
-+ *el*
-  * ↳ *sostiene* (κρατῶν)[^P]
+- *el que sostiene las siete estrellas en su mano derecha*
+  > Primera descripción: el que ***sostiene*** (κρατῶν)[^ap-2-1-kraton] las siete estrellas en su mano derecha.
+- *el que camina en medio de los siete candelabros de oro*
+  > Segunda descripción, sin *y* entre ellas: el que ***camina*** (περιπατῶν)[^ap-2-1-peripaton] en medio de los siete candelabros de oro. No está fuera: anda entre ellos.
 
-+ *el*
-  * ↳ *camina* (περιπατῶν)[^P]
-  > El segundo <u>el</u> camina en medio de los siete candelabros de oro. No está fuera: anda entre ellos.
+### Apocalipsis 2:2–3 — Enumera lo que conoce: las obras, la prueba a los que se dicen apóstoles, y lo soportado sin cansancio
 
-### Apocalipsis 2:2:1 — *Conozco tus obras, y tu trabajo, y tu perseverancia*
+#### *Conozco tus obras, y tu trabajo, y tu perseverancia, y que no puedes soportar a los malos*
 
-
-#### *Conozco tus obras, y tu trabajo, y tu perseverancia*
-  > <u>Esto</u> llega: Conozco. No pregunta. Tres cosas juntas: obras, trabajo y perseverancia.
-
-* *Yo* → *Conozco* → *tus obras, y tu trabajo, y tu perseverancia*
+> Primera palabra del discurso: ***Conozco*** (Οἶδα)[^ap-2-2-oida]. Tres objetos juntos — obras, trabajo, perseverancia — y un cuarto en cláusula: que no puedes soportar a los malos.
 
 - *y que no puedes soportar a los malos*
-  * *y* (ὅτι)[^hoti] introduce el contenido de *Conozco*.
-  * *ángel de la iglesia efesia* → *puedes* → *a los malos*
-  * ↳ *soportar* (βαστάσαι)[^I]
+  > *Que* (ὅτι)[^ap-2-2-hoti] introduce el contenido conocido. No puedes ***soportar*** (βαστάσαι)[^ap-2-2-bastasai] a los malos.
 
-### Apocalipsis 2:2:19 — *y has puesto a prueba a los que afirman ser apóstoles*
+#### *y has puesto a prueba a los que afirman ser apóstoles y no lo son, y los hallaste falsos*
 
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Ya no es el Yo que conoce. El tú ahora pone a prueba.
+> La cadena sigue con *y*: has ***puesto a prueba*** (ἐπειράσω)[^ap-2-2-epeiraso]. La acción pasa del *Yo* que conoce al *tú* que puso a prueba. El pronombre no aparece, pero la forma verbal marca la segunda persona. Forma media en Scrivener.
 
-#### *y has puesto a prueba a los que afirman ser apóstoles*
-* *a* (καὶ)[^kai] une esta cláusula con la anterior (*y que no puedes soportar a los malos*).
+- *a los que afirman ser apóstoles*
+  > A quiénes: los que ***afirman*** (φάσκοντας)[^ap-2-2-phaskontas] ser apóstoles.
+- *y no lo son*
+  > La afirmación no se sostiene: ***no lo son*** (οὐκ εἰσίν)[^ap-2-2-ouk-eisin].
+- *y los hallaste falsos*
+  > Resultado de la misma prueba: los ***hallaste*** (εὗρες)[^ap-2-2-eures] falsos.
 
-* *ángel de la iglesia efesia* → *puesto* → *a los que afirman ser apóstoles*
+#### *Y has soportado, y tienes perseverancia, y por causa de mi nombre has trabajado y no te has cansado*
 
-+ *los*
-  * ↳ *afirman* (λέγοντας)[^P]
-  > <u>Afirman</u> ser apóstoles. El no lo son llega en la unidad siguiente.
+> La misma cadena `καί` no se corta en el número de versículo. Has ***soportado*** (ἐβάστασας)[^ap-2-3-ebastasas] — el mismo verbo que bajo *no puedes* era infinitivo.
 
-### Apocalipsis 2:2:26 — *y no lo son*
+- *y tienes perseverancia*
+  > ***Tienes*** perseverancia (ὑπομονὴν ἔχεις)[^ap-2-3-hypomonen]: la misma perseverancia que ya se conoció como objeto.
+- *y por causa de mi nombre has trabajado*
+  > Has ***trabajado*** (κεκοπίακας)[^ap-2-3-kekopiakas] por causa de mi nombre — primer *mi* del que habla en la carta.
+  - *por causa de mi nombre*
+- *y no te has cansado*
+  > Cierra la acumulación: ***no te has cansado*** (οὐ κέκμηκας)[^ap-2-3-kekmekas].
 
+### Apocalipsis 2:4–5 — Pone lo que tiene contra él y convierte el cargo en tres mandatos, con el candelabro en juego
 
-#### *y no lo son*
-* *apóstoles* (καὶ)[^kai] une esta cláusula con la anterior (*has puesto a prueba a los que afirman ser apóstoles*).
+#### *Pero tengo contra ti que has dejado tu primer amor*
 
-* *los que afirman ser apóstoles* → *son* → *lo*
-
-### Apocalipsis 2:2:28 — *y los hallaste falsos*
-
-
-#### *y los hallaste falsos*
-* *lo son,* (καὶ)[^kai] une esta cláusula con la anterior (*y no lo son*).
-
-* *ángel de la iglesia efesia* → *hallaste* → *los falsos*
-
-### Apocalipsis 2:3:3 — *y tienes perseverancia*
-
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Tras hallar falsos, el tú tiene.
-
-#### *y tienes perseverancia*
-* *Y* (καὶ)[^kai] une esta cláusula con la anterior (*y los hallaste falsos*).
-
-* *ángel de la iglesia efesia* → *tienes* → *perseverancia*
-
-### Apocalipsis 2:3:5 — *Y has soportado y por causa de mi nombre*
-
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Ahora no tiene: ha soportado.
-
-#### *Y has soportado y por causa de mi nombre*
-* *perseverancia,* (καὶ)[^kai] une esta cláusula con la anterior (*y tienes perseverancia*).
-
-* *ángel de la iglesia efesia* → *soportado*
-
-### Apocalipsis 2:3:12 — *has trabajado y no te has cansado*
-
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Tras soportar, el tú trabaja y no se cansa.
-
-#### *has trabajado y no te has cansado*
-* *mi nombre* (καὶ)[^kai] une esta cláusula con la anterior (*Y has soportado y por causa de mi nombre*).
-
-* *ángel de la iglesia efesia* → *cansado* → *te*
-
-### Apocalipsis 2:4:2 — *Pero tengo contra ti*
-
-
-#### *Pero tengo contra ti*
-
-* *Yo* → *tengo*
+> Primer ***pero*** (ἀλλά)[^ap-2-4-alla]: el contraste que el propio discurso marca. ***Tengo contra ti*** (ἔχω κατὰ σοῦ)[^ap-2-4-echo].
 
 - *que has dejado tu primer amor*
-  * *que* (ὅτι)[^hoti]
-  > Este <u>que</u> trae lo que tiene contra ti: has dejado tu primer amor.
-  * *ángel de la iglesia efesia* → *dejado* → *tu primer amor*
+  > El contenido del cargo: has ***dejado*** (ἀφῆκας)[^ap-2-4-aphekas] tu primer amor.
 
-### Apocalipsis 2:5:1 — *Recuerda, pues*
+#### *Recuerda, pues, de dónde has caído*
 
+> *Pues* (οὖν)[^ap-2-5-oun] ata el mandato al cargo — enlace lógico, no temporal. ***Recuerda*** (μνημόνευε)[^ap-2-5-mnemoneue].
 
-#### *Recuerda, pues*
-
-* *ángel de la iglesia efesia* → *Recuerda*
-
-### Apocalipsis 2:5:4 — *de dónde has caído*
-
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Sigue el tú: ahora el que ha caído.
-
-#### *de dónde has caído*
-
-* *ángel de la iglesia efesia* → *caído*
-
-### Apocalipsis 2:5:6 — *arrepiéntete*
-
-  > Sigue el <u>ángel</u> de la iglesia efesia, uno. Sigue mandado: ya no solo Recuerda.
+- *de dónde has caído*
+  > Qué recordar: de dónde has ***caído*** (ἐκπέπτωκας)[^ap-2-5-ekpeptokas].
 
 #### *arrepiéntete*
-* *arrepiéntete* (καὶ)[^kai] une esta cláusula con la anterior (*de dónde has caído*).
 
-* *ángel de la iglesia efesia* → *arrepiéntete*
-
-### Apocalipsis 2:5:11 — *y haz las primeras obras*
-
+> Segundo mandato: ***arrepiéntete*** (μετανόησον)[^ap-2-5-metanoeson].
 
 #### *y haz las primeras obras*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*arrepiéntete*).
 
-* *ángel de la iglesia efesia* → *haz* → *las primeras obras*
+> Tercer mandato: ***haz*** (ποίησον)[^ap-2-5-poieson] las primeras obras — junta *obras* y *primer* del cargo.
 
-- *Pero si no, voy a ti pronto*
-  * *si* (εἰ) introduce una condición de *voy*.
+#### *Pero si no, voy a ti pronto*
 
-### Apocalipsis 2:5:18 — *y quitaré tu candelabro de su lugar*
+> Condición elíptica: *si no*. Consecuencia: ***voy*** (ἔρχομαι)[^ap-2-5-erchomai] a ti ***pronto*** (ταχύ)[^ap-2-5-tachy]. Presente, no futuro.
 
+- *Pero si no*
 
-#### *y quitaré tu candelabro de su lugar*
-* *pronto* (καὶ)[^kai] une esta cláusula con la anterior (*Pero si no, voy a ti pronto*).
+#### *y quitaré tu candelabro de su lugar, si no te arrepientes*
 
-* *Yo* → *quitaré* → *tu candelabro*
+> Segunda consecuencia, en futuro: ***quitaré*** (κινήσω)[^ap-2-5-kineso] ***tu candelabro*** de su lugar. La advertencia retoma la imagen de los candelabros con la que comenzó la carta: en la lectura habla de *tu* candelabro.
 
 - *si no te arrepientes*
-  * *si* (ἐὰν)[^conn] introduce una condición de *quitaré*.
-  > Este <u>si</u> no es el de voy. Si no se arrepiente, quita el candelabro.
-  * *ángel de la iglesia efesia* → *arrepientes* → *te*
+  > Condición pospuesta en el texto: *si no te arrepientes* (ἐὰν μὴ μετανοήσῃς)[^ap-2-5-ean-me]. Mismo verbo del segundo mandato. El orden es el del discurso; no convierte la condición en una cronología inventada.
 
-### Apocalipsis 2:6:3 — *Pero tienes esto*
+### Apocalipsis 2:6 — Reconoce lo que sí tiene: odia lo que el que habla también odia
 
+#### *Pero tienes esto: que odias las obras de los nicolaítas, las cuales yo también odio*
 
-#### *Pero tienes esto*
-
-* *ángel de la iglesia efesia* → *tienes* → *esto*
+> Segundo ***pero*** (ἀλλά)[^ap-2-6-alla]: giro propio. El verbo se invierte — *yo tengo contra ti*; ***tú tienes esto*** (τοῦτο ἔχεις)[^ap-2-6-touto-echeis].
 
 - *que odias las obras de los nicolaítas*
-  * *que* (ὅτι)[^hoti]
-  > Este <u>que</u> trae el esto: odias las obras de los nicolaítas.
-  * *ángel de la iglesia efesia* → *odias* → *las obras de los nicolaítas*
-
+  > Qué es ese *esto*: ***odias*** (μισεῖς)[^ap-2-6-miseis] las obras de los nicolaítas.
   - *las cuales yo también odio*
-    * *yo también* → *odio* → *las cuales*
-    > El mismo odio: <u>yo</u> también. Las obras, no otras.
-    + *las obras*
-      * *las cuales* (ἃ)[^rel]: describe a *las obras*.
+    > Relativo: las cuales ***yo también odio*** (ἃ κἀγὼ μισῶ)[^ap-2-6-kago-miso]. Aquí aparece el único *yo* expreso del que habla en toda la carta — y se suma al mismo verbo.
 
-### Apocalipsis 2:7:4 — *El que tiene oído, que oiga*
+### Apocalipsis 2:7 — Abre el oído a las iglesias y promete al que vence el árbol del paraíso
 
+#### *El que tiene oído, que oiga lo que el Espíritu dice a las iglesias*
 
-#### *El que tiene oído, que oiga*
+> El destinatario se abre: no solo el *tú* de Éfeso. El que tiene oído, ***que oiga*** (ἀκουσάτω)[^ap-2-7-akousato].
 
-* *El que tiene oído* → *que oiga*
+- *El que tiene oído*
+  > Sujeto: el que ***tiene*** oído (ὁ ἔχων οὖς)[^ap-2-7-echon].
+- *lo que el Espíritu dice a las iglesias*
+  > Qué oír: lo que el ***Espíritu*** dice (τὸ Πνεῦμα λέγει)[^ap-2-7-pneuma] a las iglesias — plural. Aquí se nombra un hablante: el Espíritu.
 
-+ *El*
-  * ↳ *tiene* (ἔχων)[^P]
-  > <u>Tiene</u> oído: no cualquiera. Ese es quien debe oír.
+#### *Al que vence le daré a comer del árbol de la vida, que está en medio del paraíso de Dios*
 
-### Apocalipsis 2:7:8 — *lo que el Espíritu dice a las iglesias*
+> La promesa vuelve a la primera persona: ***le daré*** (δώσω)[^ap-2-7-doso]. El sujeto no se expresa mediante un pronombre, pero queda contenido en la forma verbal. La promesa se dirige al que vence.
 
-
-#### *lo que el Espíritu dice a las iglesias*
-  > Lo que hay que oír llega: lo que el Espíritu dice a las <u>iglesias</u>. No solo a Éfeso.
-
-* *el Espíritu* → *dice* → *lo que*
-
-### Apocalipsis 2:7:13 — *daré a comer del árbol de la vida*
-
-
-+ *Al que vence le*
-  * ↳ *vence* (νικῶντι)[^P]
-  > El don no es al ángel por serlo. Es al que <u>vence</u>.
-
-#### *daré a comer del árbol de la vida*
-  > El Espíritu dijo a las iglesias. Ahora: <u>daré</u> a comer del árbol de la vida.
-
-* *Yo* → *daré* → *Al que vence le a comer del árbol de la vida*
-
-* ↳ *comer* (φαγεῖν)[^I]
-
-+ *árbol de la vida*
-  * *que* (ὅ)[^rel]: describe a *árbol de la vida*.
-
-- *que está en medio del paraíso de Dios*
-  * *que* → *está* → *en medio del paraíso de Dios*
-  > El árbol <u>está</u> en medio del paraíso de Dios. No otro lugar.
+- *Al que vence*
+  > A quién: ***al que vence*** (Τῷ νικῶντι)[^ap-2-7-nikonti].
+- *del árbol de la vida*
+  - *que está en medio del paraíso de Dios*
+    > Relativo neutro: describe el ***árbol*** (ὅ ἐστιν)[^ap-2-7-ho-estin], no la vida. *En medio* (ἐν μέσῳ)[^ap-2-7-en-meso] repite la frase de los candelabros al abrir la carta.
 
 ### En síntesis
 
-El tramo abre escribiendo a un ángel, el de Éfeso: habla el que sostiene las estrellas y camina entre los candelabros.
+Escribe al ángel de Éfeso. Habla el que sostiene las estrellas y camina entre los candelabros — descrito, no nombrado.
 
-Primero conoce y alaba: obras, prueba, perseverancia, trabajo sin cansancio.
+Conoce: obras, trabajo, perseverancia; no soportar a los malos; prueba a los que se dicen apóstoles y no lo son; soportado, perseverancia, trabajo por su nombre sin cansancio.
 
-Pero no se queda ahí: tiene contra ti el primer amor dejado.
+Pero tiene contra ti: el primer amor dejado. Por eso: recuerda, arrepiéntete, haz las primeras obras — o voy pronto y quitaré el candelabro, si no te arrepientes.
 
-De la caída manda recordar, arrepentirse y hacer las primeras obras, o quitará el candelabro.
+Pero tienes esto: odias las obras de los nicolaítas, y yo también las odio.
 
-Aún le queda un esto: odia lo que el que habla también odia.
+El que tiene oído, que oiga lo que el Espíritu dice a las iglesias. Al que vence, le daré a comer del árbol de la vida, que está en medio del paraíso de Dios.
 
-Cierra con el oído y el árbol de la vida; lo que sigue es escribir a otro ángel.
 
 ## Apocalipsis 2:8–11 Escribe al ángel de la iglesia de los esmirneos
 
@@ -677,156 +549,105 @@ Cierra con el oído y el árbol de la vida; lo que sigue es escribir a otro áng
 
 = **11** *El que tiene oído, que oiga lo que el Espíritu dice a las iglesias. El que vence de ninguna manera será dañado por la segunda muerte.*
 
-### Apocalipsis 2:8:8 — Al ángel de Esmirna
-
+### Apocalipsis 2:8 — Escribe; el primero y el último, que estuvo muerto y vivió
 
 #### *Y escribe al ángel de la iglesia de los esmirneos*
-* *Y* (Καὶ)[^kai] une esta cláusula con la anterior (*daré a comer del árbol de la vida*).
 
-* *Yo, Juan* → *escribe* → *al ángel de la iglesia de los esmirneos*
+> Mandato: ***Escribe*** (γράψον)[^ap-2-8-grapson] al ángel de la iglesia de los esmirneos. Con ***y*** (Καὶ)[^ap-2-8-kai] — a diferencia de Éfeso, esta carta se engancha a la anterior. Cuarto *Escribe* del libro. Sin sujeto expreso.
 
-### Apocalipsis 2:8:10 — *Esto dice el primero y el último*
+#### *Esto dice el primero y el último, que estuvo muerto y vivió*
 
+> *Esto dice* (Τάδε λέγει)[^ap-2-8-tade-legei]. Quién habla no se nombra: se ***designa*** — no por participios como en Éfeso, sino por dos adjetivos sustantivados.
 
-#### *Esto dice el primero y el último*
-
-* *el primero y el último* → *dice* → *Esto*
-
-+ *el último*
-  * *estuvo* (ὃς)[^rel]: describe a *el último*.
-
+- *el primero y el último*
+  > ***El primero y el último*** (ὁ πρῶτος καὶ ὁ ἔσχατος)[^ap-2-8-protos-eschatos]: mismo material que la figura dijo en 1:17 — palabra por palabra.
 - *que estuvo muerto*
-  * *que* → *estuvo* → *muerto*
-  > El mismo <u>que</u> estuvo muerto. El Estuve muerto de Apocalipsis 1:18 ahora describe a quien habla.
+  > Relativo ***que estuvo muerto*** (ὃς ἐγένετο νεκρός)[^ap-2-8-egeneto]: mismo verbo que *Estuve muerto* en 1:18. El relativo describe la designación completa — *el primero y el último* — no solo *el último*.
+- *y vivió*
+  > ***Y vivió*** (καὶ ἔζησεν)[^ap-2-8-ezesen]: aoristo; en 1:18 la figura dijo *vivo por los siglos*. Otra forma, mismo verbo.
 
-+ *y vivió*
-  > Y <u>vivió</u>. No solo estuvo muerto: vivió.
+### Apocalipsis 2:9 — Conoce las obras, la tribulación, la pobreza y la blasfemia
 
-### Apocalipsis 2:9:1 — *Conozco tus obras y tu tribulación y tu pobreza y la blasfemia de los que se dicen ser judíos*
+#### *Conozco tus obras, y tu tribulación y tu pobreza*
 
-
-#### *Conozco tus obras y tu tribulación y tu pobreza y la blasfemia de los que se dicen ser judíos*
-
-* *Yo* → *Conozco* → *tus obras y tu tribulación y tu pobreza y la blasfemia de los que se dicen ser judíos*
-
-+ *los*
-  * ↳ *dicen* (λεγόντων)[^P]
-  * ↳ *ser* (εἶναι)[^I]
-
-### Apocalipsis 2:9:10 — *pero eres rico*
-
+> Primera palabra del discurso: ***Conozco*** (Οἶδα)[^ap-2-9-oida]. Tres objetos nominales; el texto abrirá un cuarto después de una interrupción.
 
 #### *pero eres rico*
 
-* *ángel de la iglesia de los esmirneos* → *eres* → *rico*
+> ***Pero eres rico*** (πλούσιος δὲ εἶ)[^ap-2-9-plousios-de]: ***δέ*** introduce la interrupción — no hay ***ἀλλά*** que abra un nuevo movimiento discursivo en esta carta. Predicado con verbo finito; la lista de *Conozco* se retoma en el orden del texto.
 
-### Apocalipsis 2:9:22 — *y no lo son, sino sinagoga de Satanás*
+#### *y la blasfemia de los que se dicen ser judíos y no lo son, sino sinagoga de Satanás*
 
+> El cuarto objeto de *Conozco* llega **después** de la interrupción: la lista se reanuda sin conector que marque el salto.
 
-#### *y no lo son, sino sinagoga de Satanás*
-* *ser* (καὶ)[^kai] une esta cláusula con la anterior (*la blasfemia de los que se dicen ser judíos*).
+- *de los que se dicen ser judíos*
+  > A quiénes pertenece la blasfemia: los que ***se dicen*** (λεγόντων)[^ap-2-9-legonton] ser judíos.
+- *y no lo son*
+  > La afirmación no se sostiene: ***no lo son*** (οὐκ εἰσίν)[^ap-2-9-ouk-eisin].
+- *sino sinagoga de Satanás*
+  > Aquí sí aparece ***ἀλλά*** (ἀλλὰ συναγωγὴ τοῦ Σατανᾶ)[^ap-2-9-alla-synagoge]: no abre movimiento; corrige dentro de una sola aserción — no lo son, ***sino*** sinagoga de Satanás. Sin cópula repetida en griego ni en LBF.
 
-* *los que se dicen ser judíos* → *son* → *lo sino sinagoga de Satanás*
+### Apocalipsis 2:10a — No temas lo que vas a padecer: prisión, prueba y tribulación
 
-### Apocalipsis 2:10:2 — *No temas nada*
+> Las letras **a**, **b** y **c** señalan movimientos dentro de un mismo versículo; no forman parte de la numeración bíblica.
 
+#### *No temas nada de lo que vas a sufrir*
 
-#### *No temas nada*
-  > El primero y el último ya dijo a Juan: No tengas miedo. Ahora al ángel: <u>No</u> temas. Nada espera su contenido.
-
-* *ángel de la iglesia de los esmirneos* → *No temas* → *nada*
+> Primer mandato de la carta: ***No temas nada*** (μηδὲν φοβοῦ)[^ap-2-10-phobou]. Con objeto acusativo — a diferencia del *No tengas miedo* de 1:17.
 
 - *de lo que vas a sufrir*
+  > ***De lo que vas a sufrir*** (ἃ μέλλεις πάσχειν)[^ap-2-10-melleis]: relativo que define *nada*. ***Μέλλω*** marca inminencia — no una fecha en la secuencia de acontecimientos.
 
-* *ángel de la iglesia de los esmirneos* → *vas a* → *de lo que sufrir*
-  * ↳ *sufrir* (πάσχειν)[^I]
+#### *He aquí, el diablo está por echar a algunos de ustedes en prisión, para que sean probados*
 
-+ *nada*
-  * *lo que* (ἃ)[^rel]: describe a *nada*.
-
-### Apocalipsis 2:10:7 — *He aquí, el diablo está por echar a algunos de ustedes en prisión*
-
-
-#### *He aquí, el diablo está por echar a algunos de ustedes en prisión*
-
-* *el diablo* → *está por* → *echar a algunos de ustedes en prisión*
-  * ↳ *echar* (βάλλειν)[^I]
+> ***He aquí*** (ἰδού)[^ap-2-10-idou] llena el contenido del mandato anterior — mismo ***μέλλω***, en tercera persona. ***El diablo*** (ὁ διάβολος)[^ap-2-10-diabolos]: único actor nombrado en toda la carta. El destinatario pasa de singular a plural; el texto no marca el cambio con conector.
 
 - *para que sean probados*
-  * *para que* (ἵνα)[^hina] introduce el propósito de *está*.
-
-  * *algunos de ustedes* → *sean probados*
-
-### Apocalipsis 2:10:18 — *y tendrán tribulación durante diez días*
-
+  > ***Para que sean probados*** (ἵνα πειρασθῆτε)[^ap-2-10-peirasthete]: voz pasiva — en Éfeso el ángel probaba; aquí los de Esmirna son probados.
 
 #### *y tendrán tribulación durante diez días*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*el diablo está por echar a algunos de ustedes en prisión*).
 
-* *algunos de ustedes* → *tendrán* → *tribulación durante diez días*
+> ***Tendrán tribulación*** (ἕξετε θλῖψιν)[^ap-2-10-exete]: ***θλῖψις*** vuelve de *Conozco*. El futuro es segunda plural; el texto no fija si alcanza solo al subconjunto de la prisión o a todo el plural. ***Diez días*** (ἡμερῶν δέκα)[^ap-2-10-hemeron]: duración dentro de la cláusula, no enlace entre movimientos.
 
-### Apocalipsis 2:10:22 — *Sé fiel hasta la muerte*
-
+### Apocalipsis 2:10b — Sé fiel hasta la muerte; te daré la corona de la vida
 
 #### *Sé fiel hasta la muerte*
 
-* *ángel de la iglesia de los esmirneos* → *Sé* → *fiel hasta la muerte*
-
-### Apocalipsis 2:10:27 — *y te daré la corona de la vida*
-
+> Arranque sin conector; vuelve el singular tras el plural de la prisión. ***Sé fiel*** (γίνου πιστὸς ἄχρι θανάτου)[^ap-2-10-ginou]: mismo ***γίνομαι*** que *estuvo muerto* del que habla en 2:8.
 
 #### *y te daré la corona de la vida*
-* *y* (καὶ)[^kai] une esta cláusula con la anterior (*Sé fiel hasta la muerte*).
 
-* *Yo* → *daré* → *te la corona de la vida*
+> La promesa vuelve a la primera persona: ***te daré*** (δώσω σοι)[^ap-2-10-doso]. El sujeto no se expresa mediante un pronombre, pero queda contenido en la forma verbal. ***Corona de la vida*** — no el árbol de 2:7, pero el mismo genitivo *de la vida*.
 
-### Apocalipsis 2:11:4 — *El que tiene oído, que oiga*
+### Apocalipsis 2:11 — Oiga; el que vence no sufrirá daño de la segunda muerte
 
+#### *El que tiene oído, que oiga lo que el Espíritu dice a las iglesias*
 
-#### *El que tiene oído, que oiga*
-  > La misma línea de Apocalipsis 2:7. Tras la corona, otra vez: que <u>oiga</u>. Qué, la unidad siguiente.
+> Misma línea que 2:7. El destinatario se abre a las iglesias — no solo Esmirna. El que tiene oído, ***que oiga*** (ἀκουσάτω)[^ap-2-11-akousato].
 
-* *El que tiene oído* → *que oiga*
+- *El que tiene oído*
+  > Sujeto: el que ***tiene*** oído (ὁ ἔχων οὖς)[^ap-2-11-echon].
+- *lo que el Espíritu dice a las iglesias*
+  > Qué oír: lo que el ***Espíritu*** dice (τὸ Πνεῦμα λέγει)[^ap-2-11-pneuma] a las iglesias — único hablante nombrado en toda la carta.
 
-+ *El*
-  * ↳ *tiene* (ἔχων)[^P]
+#### *El que vence de ninguna manera será dañado por la segunda muerte*
 
-### Apocalipsis 2:11:8 — *lo que el Espíritu dice a las iglesias*
+> La promesa cambia de forma respecto de 2:7: allí el que habla ***dará***; aquí ***el que vence*** es sujeto de un verbo pasivo negado — ***no sufrirá daño*** (οὐ μὴ ἀδικηθῇ)[^ap-2-11-ou-me]. ***Segunda muerte*** (τοῦ θανάτου τοῦ δευτέρου)[^ap-2-11-deuteros]: *muerte* vuelve de *hasta la muerte* en 2:10.
 
-
-#### *lo que el Espíritu dice a las iglesias*
-  > Otra vez el qué del oír: el Espíritu habla a las <u>iglesias</u>. Esmirna no es la única destinaria.
-
-* *el Espíritu* → *dice* → *lo que*
-
-### Apocalipsis 2:11:15 — *será dañado por la segunda muerte*
-
-
-+ *El que vence de ninguna manera*
-  > El don no afirma el daño. <u>De</u> ninguna manera. El vencer llega antes del será dañado.
-
-#### *será dañado por la segunda muerte*
-  > La línea suelta parece que será dañado. Con lo de arriba: de ninguna manera será <u>dañado</u> por la segunda muerte.
-
-* *El que vence* → *será dañado* → *por la segunda muerte*
-
-+ *El*
-  * ↳ *vence* (νικῶν)[^P]
-  > <u>Vence</u>: no cualquiera. Ese es quien de ninguna manera será dañado.
+- *El que vence*
+  > Sujeto en nominativo: ***el que vence*** (ὁ νικῶν)[^ap-2-11-nikon] — en 2:7 fue dativo antepuesto.
 
 ### En síntesis
 
-El tramo abre escribiendo a otro ángel, el de Esmirna: habla el primero y el último, el que estuvo muerto y vivió.
+*Y* escribe al ángel de la iglesia de los esmirneos. Habla el primero y el último, que estuvo muerto y vivió — la misma designación de 1:17–18.
 
-Conoce obras, tribulación y pobreza —y dice eres rico— y la blasfemia de quienes se dicen judíos y no lo son.
+Conoce obras, tribulación y pobreza; se interrumpe: eres rico; retoma la lista con la blasfemia de quienes se dicen judíos — no lo son, sino sinagoga de Satanás.
 
-No temas: el diablo echará a algunos en prisión para que sean probados, y tendrán tribulación diez días.
+No temas lo que vas a padecer: el diablo echará a algunos en prisión, para que sean probados; tribulación de diez días.
 
-Manda: sé fiel hasta la muerte, y te daré la corona de la vida.
+Sé fiel hasta la muerte: te daré la corona de la vida.
 
-Cierra con el oído y el que vence: de ninguna manera será dañado por la segunda muerte.
-
-Lo que sigue es escribir a otro ángel.
+El que tiene oído, que oiga lo que el Espíritu dice a las iglesias. El que vence de ninguna manera será dañado por la segunda muerte.
 
 ## Apocalipsis 2:12–17 Escribe al ángel de la iglesia en Pérgamo
 
@@ -10906,3 +10727,227 @@ Texto griego de referencia: Scrivener 1894 (Textus Receptus). Variantes solo cua
 [^ap-1-8-on-en-erchomenos]: **ὢν** — participio presente de **εἰμί**; **ἦν** — imperfecto finito de **εἰμί** (no participio); **ἐρχόμενος** — participio de **ἔρχομαι**. Scrivener 1:8: **ὢν καὶ ἦν καὶ ἐρχόμενος** (sin artículo ante cada miembro).
 
 [^ap-1-8-pantokrator]: **παντοκράτωρ** — nominativo masculino singular, título: «Todopoderoso» — el que tiene todo poder / soberano sobre todo. Cierra la serie.
+
+### Apocalipsis 1:9–20
+
+[^ap-1-9-ego-ioannes]: **Ἐγὼ Ἰωάννης** — nominativo; Juan se nombra en primera persona.
+
+[^ap-1-9-egenomen]: **ἐγενόμην** — lema: **γίνομαι**; aoristo medio indicativo, 1ª singular: «estuve / llegué a estar».
+
+[^ap-1-9-adelphos]: **ὁ καὶ ἀδελφὸς ὑμῶν καὶ συγκοινωνός** — aposición articular al sujeto de **ἐγενόμην**: hermano y copartícipe.
+
+[^ap-1-9-patmo]: **Πάτμῳ** — dativo; isla nombrada por el participio **καλουμένῃ**.
+
+[^ap-1-9-dia]: **διὰ τὸν λόγον τοῦ Θεοῦ… καὶ διὰ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ** — dos causas coordinadas con **διά**.
+
+[^ap-1-10-egenomen]: **ἐγενόμην** — mismo verbo que en 1:9; ahora **ἐν Πνεύματι**.
+
+[^ap-1-10-kyriake]: **ἐν τῇ Κυριακῇ ἡμέρᾳ** — marco temporal del estado en el Espíritu.
+
+[^ap-1-10-ekousa]: **ἤκουσα** — lema: **ἀκούω**; aoristo activo indicativo, 1ª singular: «oí».
+
+[^ap-1-11-legouses]: **λεγούσης** — lema: **λέγω**; participio presente, genitivo femenino singular. Concuerda formalmente con **σάλπιγγος** (gen.); el sentido apunta a **φωνήν** (acusativo). Discordancia registrada; no se fuerza la arista.
+
+[^ap-1-11-ego-eimi]: **Ἐγώ εἰμι** — «Yo soy». Hablante: la voz; no se nombra aquí a quién pertenece.
+
+[^ap-1-11-alpha-omega]: **τὸ Α καὶ τὸ Ω** — Alfa y Omega, con artículo neutro (Scrivener).
+
+[^ap-1-11-protos-eschatos]: **ὁ πρῶτος καὶ ὁ ἔσχατος** — «el primero y el último».
+
+[^ap-1-11-grapson]: **γράψον** — lema: **γράφω**; aoristo activo imperativo, 2ª singular: «escribe».
+
+[^ap-1-11-ho-blepeis]: **Ὃ βλέπεις** — relativo + presente: objeto adelantado de **γράψον**.
+
+[^ap-1-11-pempson]: **πέμψον** — lema: **πέμπω**; aoristo activo imperativo, 2ª singular: «envía».
+
+[^ap-1-11-eis]: **εἰς** ×7 — siete destinos coordinados hacia las iglesias nombradas.
+
+[^ap-1-12-epestrepsa]: **ἐπέστρεψα** — lema: **ἐπιστρέφω**; aoristo activo indicativo, 1ª singular: «me volví».
+
+[^ap-1-12-blepein]: **βλέπειν** — infinitivo de propósito: «para ver».
+
+[^ap-1-12-hetis]: **ἥτις ἐλάλησε** — relativo + aoristo (Scrivener); LBF traduce imperfecto *hablaba*.
+
+[^ap-1-12-eidon]: **εἶδον** — lema: **ὁράω**; aoristo activo indicativo, 1ª singular: «vi».
+
+[^ap-1-12-epistrepsas]: **ἐπιστρέψας** — participio aoristo: «habiendo vuelto / al volverme».
+
+[^ap-1-13-homoion]: **ὅμοιον υἱῷ ἀνθρώπου** — segundo objeto acusativo de **εἶδον**; sin verbo propio (no hay corte de cláusula en 1:12→1:13).
+
+[^ap-1-13-endedymenon]: **ἐνδεδυμένον… περιεζωσμένον** — participios atributivos sobre el visto.
+
+[^ap-1-14-leukai]: **λευκαί** — predicado nominal; sin cópula expresa. Sujeto: **ἡ κεφαλὴ… καὶ αἱ τρίχες**.
+
+[^ap-1-15-pepyromenoi]: **πεπυρωμένοι** — participio perfecto; plural (concuerda con **πόδες**); LBF singular *refinado*.
+
+[^ap-1-15-phone]: **ἡ φωνὴ αὐτοῦ** — «su voz»; reaparece el término **φωνή** de 1:10–12.
+
+[^ap-1-16-echon]: **ἔχων** — participio presente nominativo. Sin anfitrión finito claro (el candidato cercano **ὅμοιον** es acusativo). LBF aporta *tenía*; la forma griega queda abierta.
+
+[^ap-1-16-rhomphaia]: **ῥομφαία δίστομος ὀξεῖα ἐκπορευομένη** — espada de dos filos que sale; predicación nominal con participio.
+
+[^ap-1-16-phainei]: **φαίνει** — presente activo indicativo, 3ª singular: «resplandece». Finito sin relativo en griego; LBF aporta *que*.
+
+[^ap-1-17-hote]: **ὅτε** — «cuando». Único enlace temporal explícito entre cláusulas del tramo 1:9–20.
+
+[^ap-1-17-epesa]: **ἔπεσα** — lema: **πίπτω**; aoristo activo indicativo, 1ª singular: «caí».
+
+[^ap-1-17-nekros]: **ὡς νεκρός** — comparación: «como muerto».
+
+[^ap-1-17-epetheke]: **ἐπέθηκε** — lema: **ἐπιτίθημι**; aoristo activo indicativo, 3ª singular: «puso». Sujeto no expreso.
+
+[^ap-1-17-legon]: **λέγων** — participio presente nominativo: «diciendo»; hospeda el discurso.
+
+[^ap-1-17-me-phobou]: **Μὴ φοβοῦ** — prohibición: «no tengas miedo».
+
+[^ap-1-17-ego-eimi]: **ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος… καὶ ὁ ζῶν** — autodesignación de la figura que habla a Juan.
+
+[^ap-1-18-egenomen]: **ἐγενόμην νεκρός** — «estuve muerto»; mismo **ἐγενόμην** que 1:9 y 1:10, ahora en boca de la figura.
+
+[^ap-1-18-idou]: **ἰδού** — partícula de atención: «he aquí».
+
+[^ap-1-18-zon-eimi]: **ζῶν εἰμι** — perífrasis: participio + **εἰμι**: «vivo».
+
+[^ap-1-18-echo]: **ἔχω** — presente activo indicativo, 1ª singular: «tengo». Objeto: las llaves del Hades y de la muerte (Scrivener: **ᾅδου** antes de **θανάτου**).
+
+[^ap-1-19-grapson]: **γράψον** — se reanuda el mandato de 1:11. Scrivener sin **οὖν**.
+
+[^ap-1-19-meta-tauta]: **μετὰ ταῦτα** — «después de estas cosas». Contenido del discurso (qué escribir); no es enlace temporal entre filas del mapa de cláusulas.
+
+[^ap-1-20-mysterion]: **τὸ μυστήριον** — leído como objeto de **γράψον** (con la puntuación de LBF); forma ambigua nom./ac.
+
+[^ap-1-20-hon-eides]: **ὧν εἶδες** — relativo genitivo plural + aoristo: «que viste».
+
+[^ap-1-20-eisin]: **εἰσιν / εἰσίν** — presente de **εἰμί**, 3ª plural: «son».
+
+### Apocalipsis 2:1–7
+
+[^ap-2-1-grapson]: **γράψον** — lema: **γράφω**; aoristo activo imperativo, 2ª singular: «escribe». Sin sujeto expreso. Única de las siete cartas que abre sin **καί**.
+
+[^ap-2-1-tade-legei]: **Τάδε λέγει** — «esto dice»; **Τάδε** objeto antepuesto de **λέγει**.
+
+[^ap-2-1-kraton]: **ὁ κρατῶν** — participio presente sustantivado, nominativo: sujeto de **λέγει** (primera descripción). Scrivener incluye el artículo.
+
+[^ap-2-1-peripaton]: **ὁ περιπατῶν** — participio presente sustantivado, nominativo: segunda descripción del mismo sujeto; sin **καί** entre las dos.
+
+[^ap-2-2-oida]: **Οἶδα** — perfecto con valor de presente: «conozco». Tres objetos nominales coordinados.
+
+[^ap-2-2-hoti]: **ὅτι** — introduce el contenido conocido (cuarto objeto de **Οἶδα**).
+
+[^ap-2-2-bastasai]: **βαστάσαι** — infinitivo aoristo; complemento de **δύνῃ**: «soportar».
+
+[^ap-2-2-epeiraso]: **ἐπειράσω** — aoristo medio indicativo, 2ª singular (Scrivener). Otras eds.: activo **ἐπείρασας**.
+
+[^ap-2-2-phaskontas]: **τοὺς φάσκοντας** — participio sustantivado, acusativo: «los que afirman». Otras eds.: **τοὺς λέγοντας**.
+
+[^ap-2-2-ouk-eisin]: **οὐκ εἰσίν** — «no son»; niega la afirmación de ser apóstoles.
+
+[^ap-2-2-eures]: **εὗρες** — aoristo activo indicativo, 2ª singular: «hallaste»; predicado del objeto: **ψευδεῖς**.
+
+[^ap-2-3-ebastasas]: **ἐβάστασας** — aoristo activo indicativo, 2ª singular: «has soportado»; mismo lema que **βαστάσαι**.
+
+[^ap-2-3-hypomonen]: **ὑπομονὴν ἔχεις** — «tienes perseverancia»; repite **ὑπομονή** de 2:2 como verbo.
+
+[^ap-2-3-kekopiakas]: **κεκοπίακας** — perfecto activo indicativo, 2ª singular: «has trabajado»; cognado de **κόπον**.
+
+[^ap-2-3-kekmekas]: **οὐ κέκμηκας** — perfecto: «no te has cansado». Cierra la cadena **καί** de 2:2–3.
+
+[^ap-2-4-alla]: **ἀλλά** — primer corte de conector del tramo: «pero».
+
+[^ap-2-4-echo]: **ἔχω κατὰ σοῦ** — «tengo contra ti»; sin objeto nominal aparte del **ὅτι** siguiente.
+
+[^ap-2-4-aphekas]: **ἀφῆκας** — perfecto activo indicativo, 2ª singular: «has dejado». Objeto: **τὴν ἀγάπην σου τὴν πρώτην**.
+
+[^ap-2-5-oun]: **οὖν** — inferencial: ata el mandato al cargo; no es enlace temporal entre cláusulas.
+
+[^ap-2-5-mnemoneue]: **μνημόνευε** — imperativo presente, 2ª singular: «recuerda».
+
+[^ap-2-5-ekpeptokas]: **ἐκπέπτωκας** — perfecto: «has caído»; objeto indirecto de **μνημόνευε** vía **πόθεν**.
+
+[^ap-2-5-metanoeson]: **μετανόησον** — aoristo imperativo, 2ª singular: «arrepiéntete».
+
+[^ap-2-5-poieson]: **ποίησον** — aoristo imperativo, 2ª singular: «haz». Objeto: **τὰ πρῶτα ἔργα**.
+
+[^ap-2-5-erchomai]: **ἔρχομαι** — presente medio/pasivo deponente, 1ª singular: «voy». No futuro.
+
+[^ap-2-5-tachy]: **ταχύ** — adverbio: «pronto»; interno a la cláusula. Scrivener: adverbio (variante dativo en algunas notas).
+
+[^ap-2-5-kineso]: **κινήσω** — futuro activo indicativo, 1ª singular: «moveré / quitaré» (con **ἐκ τοῦ τόπου**).
+
+[^ap-2-5-ean-me]: **ἐὰν μὴ μετανοήσῃς** — condicional pospuesta; mismo verbo que el imperativo **μετανόησον**.
+
+[^ap-2-6-alla]: **ἀλλά** — segundo «pero»; giro retórico propio (par con 2:4).
+
+[^ap-2-6-touto-echeis]: **τοῦτο ἔχεις** — «tienes esto»; **τοῦτο** anticipa el **ὅτι**.
+
+[^ap-2-6-miseis]: **μισεῖς** — presente activo indicativo, 2ª singular: «odias».
+
+[^ap-2-6-kago-miso]: **ἃ κἀγὼ μισῶ** — relativo + crasis **καὶ ἐγώ**: «las cuales yo también odio». Único **ἐγώ** expreso del hablante en la carta.
+
+[^ap-2-7-akousato]: **ἀκουσάτω** — aoristo imperativo, 3ª singular: «que oiga».
+
+[^ap-2-7-echon]: **ὁ ἔχων οὖς** — participio sustantivado: sujeto de **ἀκουσάτω**.
+
+[^ap-2-7-pneuma]: **τὸ Πνεῦμα λέγει** — «el Espíritu dice»; hablante nombrado; mismo **λέγει** del marco de 2:1.
+
+[^ap-2-7-doso]: **δώσω** — futuro activo indicativo, 1ª singular: «daré».
+
+[^ap-2-7-nikonti]: **Τῷ νικῶντι** — dativo participial antepuesto; resumido por **αὐτῷ**.
+
+[^ap-2-7-ho-estin]: **ὅ ἐστιν** — relativo neutro: antecedente **ξύλου** (árbol), no **ζωῆς** (vida).
+
+[^ap-2-7-en-meso]: **ἐν μέσῳ** — «en medio»; misma frase que describe los candelabros en 2:1.
+
+### Apocalipsis 2:8–11
+
+[^ap-2-8-grapson]: **γράψον** — lema: **γράφω**; aoristo activo imperativo, 2ª singular: «escribe». Sin sujeto expreso. Cuarto **γράψον** del libro.
+
+[^ap-2-8-kai]: **Καὶ** — conector de apertura; a diferencia de 2:1 (asíndeton), esta carta se engancha a la anterior.
+
+[^ap-2-8-tade-legei]: **Τάδε λέγει** — «esto dice»; **Τάδε** objeto antepuesto de **λέγει**.
+
+[^ap-2-8-protos-eschatos]: **ὁ πρῶτος καὶ ὁ ἔσχατος** — dos adjetivos sustantivados, nominativo: sujeto de **λέγει**. Idéntico a 1:17 (no participios como en 2:1).
+
+[^ap-2-8-egeneto]: **ὃς ἐγένετο νεκρός** — relativo **ὅς** + aoristo de **γίνομαι**: «que estuvo muerto». Mismo verbo que 1:18. El relativo concuerda con la designación completa.
+
+[^ap-2-8-ezesen]: **καὶ ἔζησεν** — aoristo de **ζάω**: «y vivió». En 1:18 la figura dijo **ζῶν εἰμι** (presente).
+
+[^ap-2-9-oida]: **Οἶδα** — perfecto con valor de presente: «conozco». Tres objetos nominales; el cuarto llega tras la interrupción de **πλούσιος δὲ εἶ**.
+
+[^ap-2-9-plousios-de]: **πλούσιος δὲ εἶ** — predicado adjetivo + **εἶ** (2ª sg). **δέ** introduce la interrupción; no hay **ἀλλά** de nivel discursivo aquí.
+
+[^ap-2-9-legonton]: **τῶν λεγόντων** — participio sustantivado, genitivo: «de los que se dicen». Dentro del cuarto objeto de **Οἶδα**.
+
+[^ap-2-9-ouk-eisin]: **οὐκ εἰσίν** — «no lo son»; niega **Ἰουδαίους εἶναι ἑαυτούς**.
+
+[^ap-2-9-alla-synagoge]: **ἀλλὰ συναγωγὴ τοῦ Σατανᾶ** — **ἀλλά** intra-clausal: segundo predicado bajo **εἰσίν**; no abre movimiento discursivo. Sin cópula repetida.
+
+[^ap-2-10-phobou]: **2:10:2** — **μηδὲν φοβοῦ** — imperativo presente medio, 2ª sg. **μηδέν** acusativo (objeto). A diferencia de 1:17 **Μὴ φοβοῦ**, sin objeto.
+
+[^ap-2-10-melleis]: **2:10:3** — **ἃ μέλλεις πάσχειν** — relativo neutro plural **ἃ** + **μέλλεις** + infinitivo **πάσχειν**: «de lo que vas a sufrir». **Μέλλω** = inminencia, no fecha.
+
+[^ap-2-10-idou]: **2:10:6** — **ἰδού** — partícula de atención; llena el contenido de **ἃ μέλλεις πάσχειν**. Sin **καί** (cf. 1:18).
+
+[^ap-2-10-diabolos]: **2:10:12** — **ὁ διάβολος** — «el diablo»; único actor nombrado en la carta. Sujeto de **μέλλει βαλεῖν**.
+
+[^ap-2-10-peirasthete]: **2:10:16** — **ἵνα πειρασθῆτε** — final **ἵνα** + aoristo pasivo subjuntivo, 2ª pl.: «para que sean probados». Mismo verbo que **ἐπειράσω** en 2:2, voz invertida.
+
+[^ap-2-10-exete]: **2:10:18** — **ἕξετε θλῖψιν** — futuro **ἔχω**, 2ª pl.: «tendrán tribulación». **θλῖψιν** repite 2:9. Alcance del sujeto no fijado por el texto.
+
+[^ap-2-10-hemeron]: **2:10:20** — **ἡμερῶν δέκα** — genitivo de tiempo: «durante diez días». Duración interna a la cláusula.
+
+[^ap-2-10-ginou]: **2:10:22** — **γίνου πιστὸς ἄχρι θανάτου** — imperativo presente medio de **γίνομαι**: «sé fiel hasta la muerte». Mismo lema que **ἐγένετο** en 2:8.
+
+[^ap-2-10-doso]: **2:10:27** — **δώσω σοι** — futuro de **δίδωμι**, 1ª sg.: «te daré». Mismo verbo que 2:7; objeto **τὸν στέφανον τῆς ζωῆς**.
+
+[^ap-2-11-akousato]: **ἀκουσάτω** — aoristo imperativo, 3ª sg.: «que oiga». Idéntico a 2:7.
+
+[^ap-2-11-echon]: **ὁ ἔχων οὖς** — participio sustantivado: sujeto de **ἀκουσάτω**.
+
+[^ap-2-11-pneuma]: **τὸ Πνεῦμα λέγει** — «el Espíritu dice»; único hablante nombrado en toda la carta.
+
+[^ap-2-11-ou-me]: **οὐ μὴ ἀδικηθῇ** — doble negación + aoristo pasivo subjuntivo, 3ª sg.: «de ninguna manera será dañado». Promesa en negativo; sujeto = **ὁ νικῶν**.
+
+[^ap-2-11-deuteros]: **τοῦ θανάτου τοῦ δευτέρου** — «de la segunda muerte». **θανάτου** repite **ἄχρι θανάτου** de 2:10.
+
+[^ap-2-11-nikon]: **ὁ νικῶν** — participio sustantivado, nominativo: sujeto de **ἀδικηθῇ**. En 2:7 fue dativo **Τῷ νικῶντι**.
