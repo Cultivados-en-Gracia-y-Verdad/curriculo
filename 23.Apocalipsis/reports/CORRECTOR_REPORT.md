@@ -2,33 +2,36 @@
 
 **Role:** Corrector (prose). Editor copy only.
 **Working file:** `manual/apocalipsis-manual-editor.md`
-**Unit this pass:** `### Apocalipsis 18:18:2 — *y gritaron al ver el humo…*`
+**Unit this pass:** `### En síntesis` (22:6–21 — final)
 **Gate:** `G7_EDITORIAL` remains BLOCKED. This pass does not record a gate.
-**Next unit:** `### Apocalipsis 18:18:11` (untouched; *Quién es como la gran ciudad*).
+**Next unit:** none in student body (Apéndices follow; not Corrector prose units).
 
 ## Cut
 
-- `* Actores principales: …`
-- tally *uno*
-- *No cuelga…*; *Tampoco cuelga…*
+- None major; no next-section handoff present
 
 ## Rewrote
 
-- Sea workers cry at the smoke — vs kings beating breast at the smoke; words still ahead. Words / Greek / tags unchanged (including truncated *todos los*).
+- Six path paragraphs with LBF italics: faithful words → fall/seal/four still/I am → blessed/outside/Jesús sent → Ven/thirst/water → add/remove/vengo/ven → grace Amen.
+- *No sella* → *No selles* (matches command already read).
 
 ## Left alone
 
-- `####` / triple / participles / connector.
-- `### Apocalipsis 18:18:11` and the rest of the book.
+- `# Apéndices` and everything after.
+- Open tensions not collapsed.
 
 ## Reader Reward
 
-Kings beat the breast at the smoke — the sea *grita*.
+Grace — book ends where it began.
 
 ## Actores line
 
-Gone from this H3.
+N/A (síntesis).
 
 ## Escalation
 
-- Truncated *todos los* in actor triple — same Compiler surface as prior unit. Left as-is.
+None this pass.
+
+## Status note
+
+Corrector H3 + En síntesis passes through Apocalipsis 22:21 appear complete on the editor copy. `G7_EDITORIAL` still BLOCKED until Manager/user records the gate.

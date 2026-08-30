@@ -71,7 +71,7 @@ gates:
     status: BLOCKED
     findings: []
   G7_EDITORIAL:
-    status: BLOCKED
+    status: STALE
     findings: []
   G8_FINAL_VERIFY:
     status: BLOCKED
@@ -279,6 +279,14 @@ provenance:
     pues/no; 3:19:5 truncated at «Yo reprendo a todos los»). Sampled 22:6–18 expressed/purpose/condition
     match Observer. Compiler host/particle defects remain on the skeleton; named in
     reports/TEXTO_REPORT.md. Not a book-wide independent pass.'
+- id: EVT-000027
+  timestamp: '2026-08-29T20:02:58.575198+00:00'
+  actor: manager
+  action: context quotes built
+  gate: G5_ARCHITECTURE
+  notes: "wrote 22 context quotes (404 verses) into /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/manual/manual.md\n\
+    \  no span, skipped: Apéndice A — Conectores griegos\n  no span, skipped: Apéndice\
+    \ B — Formas verbales\n  no span, skipped: Apéndice C — Observando la estructura"
 human_approval:
   approved: false
   approved_by: null
@@ -330,5 +338,5 @@ manager:
       faithful.'
     structure_approved_checksum: d6d9c78bcd1f2be383174e7ed3267a14a48b90011c9444ef1dbc8bca0c424202
     structure_approved_at: '2026-08-27T08:42:23.455692+00:00'
-    context_quotes_checksum: 596186bb50f97733e6ef8d697fcaf296b2e53f0838dcf9057ef0521fd6600a5e
-    context_quotes_built_at: '2026-08-27T08:42:56.111330+00:00'
+    context_quotes_checksum: 7703abb24e3b93bf28e28164d4bb3f7eed67d9fdcc0cd7f3fd4321ff0ead0936
+    context_quotes_built_at: '2026-08-29T20:02:58.574238+00:00'

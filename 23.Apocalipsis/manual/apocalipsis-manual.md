@@ -14724,14 +14724,8 @@ Lo que sigue: estas palabras fieles y verdaderas.
 
 ### Apocalipsis 22:17:8 — *Ven*
 
-* Actores principales: *Yo, Jesús* (1)
-  > El recuento vuelve a <u>Yo</u>, Jesús, uno. El Espíritu y la novia dicen. Esto es lo que hay que oír.
-
 #### *Ven*
-  > Eso decían. Se manda: <u>Ven</u>.
-
-* *Yo, Jesús* → *Ven*
-  > Quien Ven es <u>Yo</u>, Jesús. No el Espíritu ni la novia. En Apocalipsis 22:7 y Apocalipsis 22:12: vengo pronto. En Apocalipsis 21:9: Ven, te mostraré. El texto no dice aquí que sea aquello. El que oye, todavía no.
+  > Lo que el Espíritu y la novia dicen: <u>Ven</u>. El imperativo no trae otro sujeto; no se le atribuye a *Yo, Jesús*.
 
 ### Apocalipsis 22:17:12 — *Y el que oye diga*
 
@@ -14751,14 +14745,8 @@ Lo que sigue: estas palabras fieles y verdaderas.
 
 ### Apocalipsis 22:17:13 — *Ven*
 
-* Actores principales: *Yo, Jesús* (1)
-  > El recuento vuelve a <u>Yo</u>, Jesús, uno. El que oye diga. Esto es lo que hay que oír.
-
 #### *Ven*
-  > Eso ha de decir. Se manda otra vez: <u>Ven</u>.
-
-* *Yo, Jesús* → *Ven*
-  > Quien Ven es otra vez <u>Yo</u>, Jesús. No el que oye. En Apocalipsis 22:17:8: el Espíritu y la novia dijeron Ven. Aquí: el que oye ha de decirlo. El texto no abre más. Sed, todavía no.
+  > Otra vez <u>Ven</u> — dicha por el que oye, no por Jesús.
 
 ### Apocalipsis 22:17:17 — *Y el que tiene sed, venga*
 
@@ -14793,15 +14781,15 @@ Lo que sigue: estas palabras fieles y verdaderas.
 
 ### Apocalipsis 22:18:1 — *Porque doy testimonio juntamente a todo el que oye las palabras de la profecía de este libro*
 
-* Actores principales: *Yo, Jesús* (1)
-  > El recuento vuelve a <u>Yo</u>, Jesús, uno. El que quiere tome. Ahora: él da testimonio.
-
 #### *Porque doy testimonio juntamente a todo el que oye las palabras de la profecía de este libro*
 * *Porque* (γὰρ)[^gar]
-  > Ese <u>Porque</u> no suma otro tome. Da el porqué: doy testimonio.
 
-* *Yo, Jesús* → *doy testimonio*
-  > Quien da testimonio es <u>Yo</u>, Jesús. La flecha se detiene en doy testimonio. Juntamente a todo el que oye las palabras de la profecía de este libro queda en la línea. En Apocalipsis 22:16: envié para darles testimonio. En Apocalipsis 1:3: los que oyen las palabras de la profecía. El texto no abre aquí más. Añade, todavía no.
+* *doy testimonio*
+  > Alguien da <u>testimonio</u> a todo el que oye las palabras de la profecía de este libro. La línea no reescribe el hablante; no se identifica aquí con *Yo, Jesús* de 22:16.
+
++ *todo*
+  * ↳ *oye* (ἀκούοντι)[^P]
+  > No cuelga de palabras sueltas. Va solo: marca a quién —todo el que <u>oye</u>.
 
 + *todo*
   * ↳ *oye* (ἀκούοντι)[^P]
@@ -14862,7 +14850,7 @@ Lo que sigue: estas palabras fieles y verdaderas.
   > Tras quitará: <u>dice</u>. Quién, la misma línea.
 
 * *El que da testimonio de estas cosas* → *dice*
-  > Quien dice es <u>El</u> que da testimonio de estas cosas. En Apocalipsis 22:18: Yo, Jesús, doy testimonio. El texto no dice aquí que sea el mismo. Qué, todavía no.
+  > Habla <u>el que da testimonio de estas cosas</u>. No se identifica aquí con el hablante de 22:18.
 
 + *El que*
   * ↳ *testimonio* (μαρτυρῶν)[^P]
@@ -14884,14 +14872,8 @@ Lo que sigue: estas palabras fieles y verdaderas.
 
 ### Apocalipsis 22:20:9 — *Sí, ven, Señor Jesús*
 
-* Actores principales: *Señor Jesús* (1)
-  > El recuento ya no es El que dice. Quien ocupa la línea es <u>Señor</u> Jesús, uno. Vengo; Amén. Ahora: ven.
-
 #### *Sí, ven, Señor Jesús*
-  > Tras el Amén: <u>Sí</u>, ven, Señor Jesús.
-
-* *Señor Jesús* → *ven*
-  > Quien ven es <u>Señor</u> Jesús. En Apocalipsis 22:17: Ven —el Espíritu y la novia; el que oye. En Apocalipsis 22:20:6: vengo pronto. Aquí: ven. El texto no dice que sea el mismo. Gracia, todavía no.
+  > Respuesta: <u>Sí, ven, Señor Jesús</u>. *Señor Jesús* es el vocativo — a quien se le pide que venga, no el sujeto que dice *ven*.
 
 ### Apocalipsis 22:21:2 — *La gracia de nuestro Señor Jesús Cristo con todos ustedes. Amén*
 

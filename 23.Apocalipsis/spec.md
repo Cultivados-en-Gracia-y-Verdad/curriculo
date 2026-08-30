@@ -19,8 +19,12 @@ repeated here. Literary units live in [`blocks.md`](blocks.md).
 | Compiler skeleton | `skeleton/apocalipsis-manual-skeleton.md` |
 | Editorial notes (not student content) | `reports/apocalipsis-editorial-notes.md` |
 
-Spine: **SBLGNT**. Alignment: done 2026-08-21 (see the LBF file header).
-404 verses, 22 chapters.
+Alignment spine: **SBLGNT** (done 2026-08-21; see the LBF file header). 404 verses, 22 chapters.
+
+**Technical footnotes (Greek form / morphology / TR variants):** **Scrivener 1894**
+(`cgv-data/bibles/TR1894/tr1894.txt`). Name that edition in the student note block; do not say
+generic “Texto Recibido” alone. Where Scrivener and another TR print differ, Scrivener is cited;
+critical-text alternatives are noted only when they affect the observation.
 
 **Verify verbs against the alignment, never against the LBF prose.** LBF renders one root several
 different ways; the alignment is what maps a source token to its Spanish surface.
