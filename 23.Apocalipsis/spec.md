@@ -3,7 +3,8 @@
 Book-specific. Universal rules live in [`WORKFLOW.md`](../CGV-curriculo/WORKFLOW.md) and are not
 repeated here. Literary units live in [`blocks.md`](blocks.md).
 
-**Status: DRAFT.** Not released.
+**Status: APPROVED** (G10). Gate surface enriched post-approval; **G7/G8 STALE** — rerun
+`cgv verify-g7 apocalipsis` and `cgv verify-g8 apocalipsis` before RELEASE.
 
 ---
 
@@ -11,8 +12,9 @@ repeated here. Literary units live in [`blocks.md`](blocks.md).
 
 | What | Path |
 |---|---|
-| Manual (working) | `manual/apocalipsis-manual.md` |
-| Manual (assembled) | `slides/manual.md` |
+| **Gate surface (student manual)** | `manual/manual.md` — G6–G10, verify-g7/g8, PDF export |
+| Legacy workshop (inventory only) | `manual/apocalipsis-manual.md`, `manual/apocalipsis-manual-editor.md` |
+| Manual (assembled / Presenter) | `slides/manual.md` |
 | LBF Spanish text | `cgv-data/bibles/LBF/apocalipsis.lbf.md` |
 | Alignment | `cgv-data/bibles/LBF/alignments/apocalipsis.alignment.json` |
 | Observer progress | `observation/apocalipsis-progress-filled.json` |

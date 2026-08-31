@@ -30,7 +30,7 @@ artifact:
   generated_at: '2026-08-31T22:33:13.789863+00:00'
   current: true
 workflow:
-  current_gate: G10_RELEASE
+  current_gate: G7_EDITORIAL
   release_status: APPROVED
   regeneration_required: false
 gates:
@@ -75,10 +75,10 @@ gates:
     status: PASS
     findings: []
   G7_EDITORIAL:
-    status: PASS
+    status: STALE
     findings: []
   G8_FINAL_VERIFY:
-    status: PASS
+    status: STALE
     findings: []
   G9_HUMAN_REVIEW:
     status: PASS
@@ -519,6 +519,18 @@ provenance:
   action: release_status -> APPROVED
   gate: G10_RELEASE
   notes: approved_by=John artifact=810ce6d02b96 manual=230403e633399d1a…
+- id: EVT-000055
+  timestamp: '2026-08-31T23:16:16.082564+00:00'
+  actor: manager
+  action: PASS -> STALE
+  gate: G7_EDITORIAL
+  notes: Manual checksum no longer matches mechanical PASS evidence.
+- id: EVT-000056
+  timestamp: '2026-08-31T23:16:16.082704+00:00'
+  actor: manager
+  action: PASS -> STALE
+  gate: G8_FINAL_VERIFY
+  notes: Manual checksum no longer matches mechanical PASS evidence.
 human_approval:
   approved: true
   approved_by: John
