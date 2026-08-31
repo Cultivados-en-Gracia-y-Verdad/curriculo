@@ -20,18 +20,18 @@ alignment:
 compiler:
   name: CGV Reader Compiler
   version: cgv-reader
-  last_run_at: '2026-08-26T22:36:26.054407+00:00'
+  last_run_at: '2026-08-31T22:33:13.789863+00:00'
 artifact:
   path: curriculo/23.Apocalipsis/skeleton/apocalipsis-manual-skeleton.md
-  revision: a39d56aaef08
-  checksum: a39d56aaef0852c84ca65a9d77d47b63abfbafee86db375f1bc7e57440e3f02e
+  revision: 810ce6d02b96
+  checksum: 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299
   generated_from_source_revision: sha256-06e583e3a448
   generated_from_alignment_revision: sha256-ffffac914002
-  generated_at: '2026-08-26T22:36:26.054407+00:00'
+  generated_at: '2026-08-31T22:33:13.789863+00:00'
   current: true
 workflow:
-  current_gate: G4_SPECIALISTS
-  release_status: NOT_RELEASED
+  current_gate: G10_RELEASE
+  release_status: APPROVED
   regeneration_required: false
 gates:
   G0_ALIGNMENT:
@@ -50,11 +50,11 @@ gates:
     input_alignment_revision: sha256-ffffac914002
     input_source_checksum: 06e583e3a4488182763fa3f06d6fa5287c9df91c0ed92f8d904e5c82d5064aac
     input_alignment_checksum: ffffac9140022dffe22ec92f4fcafcea6cc243a0066d002efa58b8348be80b51
-    output_artifact_revision: a39d56aaef08
-    output_checksum: a39d56aaef0852c84ca65a9d77d47b63abfbafee86db375f1bc7e57440e3f02e
-    generated_at: '2026-08-26T22:36:26.054407+00:00'
+    output_artifact_revision: 810ce6d02b96
+    output_checksum: 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299
+    generated_at: '2026-08-31T22:33:13.789863+00:00'
     input_progress_path: curriculo/23.Apocalipsis/observation/apocalipsis-progress-filled.json
-    input_progress_checksum: d2ed70682989e72e8fc47706be7a1270a991b7d35f89887364b0388faa1d1cf1
+    input_progress_checksum: 94bbe97585c8d416aef040bd440e0acf1f4aa9f46c9685febe979f96151f10fb
   G2_MECHANICAL:
     status: PASS
     findings: []
@@ -62,25 +62,29 @@ gates:
     status: PASS
     findings: []
   G4_SPECIALISTS:
-    status: READY
+    status: SKIPPED
     findings: []
+    skip_reason: 'No specialist question arose for Apocalipsis after G3_TEXTUAL PASS.
+      Verificador/Specialist agents are not yet present; no specialist escalation
+      was opened. Operator decision: skip G4 and proceed to architecture/writing already
+      in progress on the record.'
   G5_ARCHITECTURE:
-    status: BLOCKED
+    status: PASS
     findings: []
   G6_WRITING:
-    status: BLOCKED
+    status: PASS
     findings: []
   G7_EDITORIAL:
-    status: STALE
+    status: PASS
     findings: []
   G8_FINAL_VERIFY:
-    status: BLOCKED
+    status: PASS
     findings: []
   G9_HUMAN_REVIEW:
-    status: BLOCKED
+    status: PASS
     findings: []
   G10_RELEASE:
-    status: BLOCKED
+    status: PASS
     findings: []
 findings: []
 blockers: []
@@ -287,13 +291,245 @@ provenance:
   notes: "wrote 22 context quotes (404 verses) into /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/manual/manual.md\n\
     \  no span, skipped: Apéndice A — Conectores griegos\n  no span, skipped: Apéndice\
     \ B — Formas verbales\n  no span, skipped: Apéndice C — Observando la estructura"
+- id: EVT-000028
+  timestamp: '2026-08-31T22:22:19.495696+00:00'
+  actor: human
+  action: READY -> SKIPPED
+  gate: G4_SPECIALISTS
+  notes: 'No specialist question arose for Apocalipsis after G3_TEXTUAL PASS. Verificador/Specialist
+    agents are not yet present; no specialist escalation was opened. Operator decision:
+    skip G4 and proceed to architecture/writing already in progress on the record.'
+- id: EVT-000029
+  timestamp: '2026-08-31T22:22:19.603617+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G5_ARCHITECTURE
+  notes: Gate work began.
+- id: EVT-000030
+  timestamp: '2026-08-31T22:22:19.603835+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G5_ARCHITECTURE
+  notes: blocks.md verified (31 units / 404 verses; EVT-000019). Human approved architecture/apocalipsis-outline.md
+    (checksum d6d9c78bcd1f… matches manager.evidence.structure_approved_checksum;
+    EVT-000020). Context quotes built into manual/manual.md (22 H2 sections with =
+    lines; EVT-000027). H2 hierarchy plans and remaps rest on that approved outline.
+    Architecture gate closed; writing may be recorded.
+- id: EVT-000031
+  timestamp: '2026-08-31T22:22:19.709920+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G6_WRITING
+  notes: Gate work began.
+- id: EVT-000032
+  timestamp: '2026-08-31T22:22:19.710100+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G6_WRITING
+  notes: 'Authorized writing complete on gate surface manual/manual.md: H2 hearing
+    remaps with En síntesis (22), frozen = Scripture, Apéndice D morphological notes
+    wired (633 defs ↔ 633 body refs; 0 stubs). Does not include Editor/Corrector or
+    G7/G8 mechanical PASS — those remain next. Prior Editor/Corrector reports on apocalipsis-manual-editor.md
+    are not this gate’s surface.'
+- id: EVT-000033
+  timestamp: '2026-08-31T22:23:39.408680+00:00'
+  actor: verify-g7-editorial
+  action: STALE -> READY
+  gate: G7_EDITORIAL
+  notes: Re-open after STALE.
+- id: EVT-000034
+  timestamp: '2026-08-31T22:23:39.408695+00:00'
+  actor: verify-g7-editorial
+  action: READY -> RUNNING
+  gate: G7_EDITORIAL
+  notes: Gate work began.
+- id: EVT-000035
+  timestamp: '2026-08-31T22:23:39.408703+00:00'
+  actor: verify-g7-editorial
+  action: RUNNING -> PASS
+  gate: G7_EDITORIAL
+  notes: "→ /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/reports/SPEAKER_HEARING_REPORT.md\n\
+    \  gate=g7  H3=160  actores=0  blockers=0  → PASS\nG7_EDITORIAL mechanical: PASS\
+    \ (speaker/hearing)\n"
+- id: EVT-000036
+  timestamp: '2026-08-31T22:28:31.932302+00:00'
+  actor: manager
+  action: PASS -> STALE
+  gate: G7_EDITORIAL
+  notes: Manual checksum no longer matches mechanical PASS evidence.
+- id: EVT-000037
+  timestamp: '2026-08-31T22:28:42.558423+00:00'
+  actor: verify-g7-editorial
+  action: STALE -> READY
+  gate: G7_EDITORIAL
+  notes: Re-open after STALE.
+- id: EVT-000038
+  timestamp: '2026-08-31T22:28:42.558438+00:00'
+  actor: verify-g7-editorial
+  action: READY -> RUNNING
+  gate: G7_EDITORIAL
+  notes: Gate work began.
+- id: EVT-000039
+  timestamp: '2026-08-31T22:28:42.558445+00:00'
+  actor: verify-g7-editorial
+  action: RUNNING -> PASS
+  gate: G7_EDITORIAL
+  notes: "→ /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/reports/SPEAKER_HEARING_REPORT.md\n\
+    \  gate=g7  H3=160  actores=0  blockers=0  → PASS\nG7_EDITORIAL mechanical: PASS\
+    \ (speaker/hearing)\n"
+- id: EVT-000040
+  timestamp: '2026-08-31T22:28:43.085415+00:00'
+  actor: verify-g8-final
+  action: READY -> RUNNING
+  gate: G8_FINAL_VERIFY
+  notes: Gate work began.
+- id: EVT-000041
+  timestamp: '2026-08-31T22:28:43.085427+00:00'
+  actor: verify-g8-final
+  action: RUNNING -> FAIL
+  gate: G8_FINAL_VERIFY
+  notes: 't declares a marker that occurs in its range, a form, a contenido and clause
+    IDs; the units tile the book.
+
+    The reading is still required: whether the boundaries are real and the contenido
+    faithful.
+
+    PASS  Speaker/hearing (g8)
+
+    PASS  Manual checks (evidence)
+
+    FAIL  Context quotes
+
+    PASS  Blocks
+
+    PASS  H4 length (no H4 >180 chars on student surface)
+
+
+    G8_FINAL_VERIFY mechanical: FAIL — context-quotes
+
+    See /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/reports/SPEAKER_HEARING_REPORT.md
+
+    '
+- id: EVT-000042
+  timestamp: '2026-08-31T22:32:10.350771+00:00'
+  actor: manager
+  action: PASS -> STALE
+  gate: G7_EDITORIAL
+  notes: Manual checksum no longer matches mechanical PASS evidence.
+- id: EVT-000043
+  timestamp: '2026-08-31T22:32:10.506134+00:00'
+  actor: verify-g7-editorial
+  action: STALE -> READY
+  gate: G7_EDITORIAL
+  notes: Re-open after STALE.
+- id: EVT-000044
+  timestamp: '2026-08-31T22:32:10.506144+00:00'
+  actor: verify-g7-editorial
+  action: READY -> RUNNING
+  gate: G7_EDITORIAL
+  notes: Gate work began.
+- id: EVT-000045
+  timestamp: '2026-08-31T22:32:10.506152+00:00'
+  actor: verify-g7-editorial
+  action: RUNNING -> PASS
+  gate: G7_EDITORIAL
+  notes: "→ /Users/johnwry/Nextcloud/Documents/GitHub/curriculo/23.Apocalipsis/reports/SPEAKER_HEARING_REPORT.md\n\
+    \  gate=g7  H3=160  actores=0  blockers=0  → PASS\nG7_EDITORIAL mechanical: PASS\
+    \ (speaker/hearing)\n"
+- id: EVT-000046
+  timestamp: '2026-08-31T22:33:13.791762+00:00'
+  actor: human
+  action: compile recorded
+  gate: G1_COMPILE
+  notes: artifact=810ce6d02b96 compiler=cgv-reader
+- id: EVT-000047
+  timestamp: '2026-08-31T22:33:14.419428+00:00'
+  actor: verify-g8-final
+  action: FAIL -> READY
+  gate: G8_FINAL_VERIFY
+  notes: Re-open after prior FAIL.
+- id: EVT-000048
+  timestamp: '2026-08-31T22:33:14.419447+00:00'
+  actor: verify-g8-final
+  action: READY -> RUNNING
+  gate: G8_FINAL_VERIFY
+  notes: Gate work began.
+- id: EVT-000049
+  timestamp: '2026-08-31T22:33:14.419455+00:00'
+  actor: verify-g8-final
+  action: RUNNING -> PASS
+  gate: G8_FINAL_VERIFY
+  notes: 'ibles/LBF/apocalipsis.lbf.md
+
+    units  : 31   verses: 404
+
+
+    PASS  every unit declares a marker that occurs in its range, a form, a contenido
+    and clause IDs; the units tile the book.
+
+    The reading is still required: whether the boundaries are real and the contenido
+    faithful.
+
+    PASS  Speaker/hearing (g8)
+
+    PASS  Manual checks (evidence)
+
+    PASS  Context quotes
+
+    PASS  Blocks
+
+    PASS  H4 length (no H4 >180 chars on student surface)
+
+
+    G8_FINAL_VERIFY mechanical: PASS
+
+    Human sufficiency reading is G9 — not this script.
+
+    '
+- id: EVT-000050
+  timestamp: '2026-08-31T22:35:39.682251+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G9_HUMAN_REVIEW
+  notes: Gate work began.
+- id: EVT-000051
+  timestamp: '2026-08-31T22:35:39.682466+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G9_HUMAN_REVIEW
+  notes: 'reviewed by John — sufficiency reading of manual/manual.md: a student who
+    reads only this manual can say what happens in each block and what shape the book
+    has.'
+- id: EVT-000052
+  timestamp: '2026-08-31T22:37:21.805030+00:00'
+  actor: human
+  action: READY -> RUNNING
+  gate: G10_RELEASE
+  notes: Gate work began.
+- id: EVT-000053
+  timestamp: '2026-08-31T22:37:21.805041+00:00'
+  actor: human
+  action: RUNNING -> PASS
+  gate: G10_RELEASE
+  notes: Approved by John. human_approval bound to artifact 810ce6d02b96 / 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299.
+    Manual surface 230403e633399d1a…
+- id: EVT-000054
+  timestamp: '2026-08-31T22:37:21.805045+00:00'
+  actor: human
+  action: release_status -> APPROVED
+  gate: G10_RELEASE
+  notes: approved_by=John artifact=810ce6d02b96 manual=230403e633399d1a…
 human_approval:
-  approved: false
-  approved_by: null
-  approved_at: null
-  artifact_revision: null
-  artifact_checksum: null
-  notes: null
+  approved: true
+  approved_by: John
+  approved_at: '2026-08-31T22:37:21.804787+00:00'
+  artifact_revision: 810ce6d02b96
+  artifact_checksum: 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299
+  notes: G10 approval after G9 sufficiency reading of manual/manual.md. Bound to skeleton
+    artifact 810ce6d02b96 / 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299.
+    Gate-surface manual.md sha256=230403e633399d1a7422ee69d72937034a76ee36f9d31b0ca2c5f40168e4a9e6.
+    G0_ALIGNMENT remains SKIPPED (recorded waiver). release_status set to APPROVED
+    (not yet published as RELEASED).
 manager:
   preflight:
     cursor_agents_verified: true
@@ -340,3 +576,9 @@ manager:
     structure_approved_at: '2026-08-27T08:42:23.455692+00:00'
     context_quotes_checksum: 7703abb24e3b93bf28e28164d4bb3f7eed67d9fdcc0cd7f3fd4321ff0ead0936
     context_quotes_built_at: '2026-08-29T20:02:58.574238+00:00'
+    g7_speaker_hearing_pass: true
+    g7_manual_checksum: 230403e633399d1a7422ee69d72937034a76ee36f9d31b0ca2c5f40168e4a9e6
+    g7_verified_at: '2026-08-31T22:32:10.506080+00:00'
+    g8_final_mechanical_pass: true
+    g8_manual_checksum: 230403e633399d1a7422ee69d72937034a76ee36f9d31b0ca2c5f40168e4a9e6
+    g8_verified_at: '2026-08-31T22:33:14.419136+00:00'
