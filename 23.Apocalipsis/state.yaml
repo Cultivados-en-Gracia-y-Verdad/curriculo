@@ -531,6 +531,15 @@ provenance:
   action: PASS -> STALE
   gate: G8_FINAL_VERIFY
   notes: Manual checksum no longer matches mechanical PASS evidence.
+- id: EVT-000057
+  timestamp: '2026-08-31T23:18:00.000000+00:00'
+  actor: human
+  action: post-G10 enrichment
+  gate: G6_WRITING
+  notes: 'Recovered commentary on gate surface manual/manual.md: merge-editor-comments.py
+    (+1691 `>` from apocalipsis-manual-editor.md), cleanup-stock-comments.py (757
+    trimmed), gap fix 3:17 chreian. Current gate surface sha256=ade89f0a8474d7c0b7b29761d0ea80012df77700eb336be9b94b4ec28cb8f846.
+    G7/G8 STALE — rerun verify-g7 and verify-g8 before RELEASE.'
 human_approval:
   approved: true
   approved_by: John
@@ -539,9 +548,9 @@ human_approval:
   artifact_checksum: 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299
   notes: G10 approval after G9 sufficiency reading of manual/manual.md. Bound to skeleton
     artifact 810ce6d02b96 / 810ce6d02b96d1a34af6a3c2a2fb29e772e9f9f5fe6ce044bdc345547a03c299.
-    Gate-surface manual.md sha256=230403e633399d1a7422ee69d72937034a76ee36f9d31b0ca2c5f40168e4a9e6.
-    G0_ALIGNMENT remains SKIPPED (recorded waiver). release_status set to APPROVED
-    (not yet published as RELEASED).
+    Gate-surface manual.md sha256=230403e633399d1a7422ee69d72937034a76ee36f9d31b0ca2c5f40168e4a9e6
+    (superseded by post-G10 enrichment — see EVT-000057). G0_ALIGNMENT remains SKIPPED
+    (recorded waiver). release_status set to APPROVED (not yet published as RELEASED).
 manager:
   preflight:
     cursor_agents_verified: true
