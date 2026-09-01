@@ -6,6 +6,8 @@ TARGET_BRANCH="${TARGET_BRANCH:-main}"
 WEB_BRANCH="${WEB_BRANCH:-main}"
 WEB_CONTENT_ROOT="${WEB_CONTENT_ROOT:-content/courses}"
 COURSES_ROOT="${COURSES_ROOT:-courses}"
+DATA_BRANCH="${DATA_BRANCH:-main}"
+DATA_COURSES_ROOT="${DATA_COURSES_ROOT:-courses}"
 PUSH="${PUSH:-1}"
 DRY_RUN="${DRY_RUN:-0}"
 PUBLISH_WEB="${PUBLISH_WEB:-1}"
@@ -13,6 +15,7 @@ BUILD_WEB="${BUILD_WEB:-1}"
 
 CURRICULO_ROOT=""
 WEB_REPO=""
+DATA_REPO=""
 
 usage() {
   cat <<'EOF'
@@ -32,6 +35,8 @@ Environment:
   TARGET_BRANCH=main
   WEB_REPO=../cgv-web          Path to Cultivados-en-Gracia-y-Verdad/cgv-web checkout
   WEB_BRANCH=main
+  DATA_REPO=../cgv-data        Path to Cultivados-en-Gracia-y-Verdad/cgv-data checkout
+  DATA_BRANCH=main
   PUBLISH_WEB=1                Also publish PDFs and course page to cgv-web
   BUILD_WEB=1                  Run hugo in cgv-web after content changes
   PUSH=0                       Commit locally, do not push
@@ -51,20 +56,37 @@ require_repo() {
   git rev-parse --is-inside-work-tree >/dev/null
   CURRICULO_ROOT="$(git rev-parse --show-toplevel)"
   WEB_REPO="${WEB_REPO:-$CURRICULO_ROOT/../cgv-web}"
+  DATA_REPO="${DATA_REPO:-$CURRICULO_ROOT/../cgv-data}"
 }
 
 web_git() {
   git -C "$WEB_REPO" "$@"
 }
 
+data_git() {
+  git -C "$DATA_REPO" "$@"
+}
+
 web_repo_abs_path() {
   (cd "$WEB_REPO" && pwd)
+}
+
+data_repo_abs_path() {
+  (cd "$DATA_REPO" && pwd)
 }
 
 require_web_repo() {
   if [[ ! -d "$WEB_REPO/.git" ]]; then
     echo "Web repo not found: $WEB_REPO" >&2
     echo "Clone https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-web.git or set WEB_REPO." >&2
+    exit 1
+  fi
+}
+
+require_data_repo() {
+  if [[ ! -d "$DATA_REPO/.git" ]]; then
+    echo "Data repo not found: $DATA_REPO" >&2
+    echo "Clone https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-data.git or set DATA_REPO." >&2
     exit 1
   fi
 }
@@ -164,12 +186,12 @@ resolve_target_dir() {
     [[ -z "$candidate" ]] && continue
     candidate_key="$(normalize_key "$candidate")"
     if [[ "$candidate_key" == "$target_key" ]]; then
-      printf '%s/%s' "$COURSES_ROOT" "$candidate"
+      printf '%s/%s' "$DATA_COURSES_ROOT" "$candidate"
       return 0
     fi
-  done < <(git ls-tree -d --name-only "$TARGET_BRANCH:$COURSES_ROOT" 2>/dev/null || true)
+  done < <(data_git ls-tree -d --name-only "$DATA_BRANCH:$DATA_COURSES_ROOT" 2>/dev/null || true)
 
-  printf '%s/%s' "$COURSES_ROOT" "$derived"
+  printf '%s/%s' "$DATA_COURSES_ROOT" "$derived"
 }
 
 resolve_web_slug() {
@@ -212,7 +234,7 @@ list_mappings() {
     web_git fetch origin >/dev/null 2>&1 || true
   fi
 
-  printf "%-28s -> %-22s" "DRAFT (en-borrador)" "MAIN"
+  printf "%-28s -> %-30s" "DRAFT (en-borrador)" "cgv-data"
   if [[ "$PUBLISH_WEB" == "1" ]]; then
     printf " -> cgv-web/%s\n" "$WEB_CONTENT_ROOT"
   else
@@ -222,7 +244,7 @@ list_mappings() {
   while IFS= read -r draft_dir; do
     [[ -z "$draft_dir" ]] && continue
     is_publishable_draft_dir "$draft_dir" || continue
-    printf "%-28s -> %-22s" "$draft_dir" "$(resolve_target_dir "$draft_dir")"
+    printf "%-28s -> %-30s" "$draft_dir" "$(resolve_target_dir "$draft_dir")"
     if [[ "$PUBLISH_WEB" == "1" ]]; then
       printf " -> %s/%s\n" "$WEB_CONTENT_ROOT" "$(resolve_web_slug "$draft_dir" "$(resolve_target_dir "$draft_dir")")"
     else
@@ -289,6 +311,26 @@ sync_file_web() {
   web_git add "$target_rel"
 }
 
+sync_file_data() {
+  local source_path="$1"
+  local target_rel="$2"
+  local data_root abs_target
+
+  if ! git cat-file -e "$SOURCE_BRANCH:$source_path" 2>/dev/null; then
+    echo "  skip file (missing): $source_path"
+    return 0
+  fi
+
+  echo "  file: $source_path -> $DATA_REPO/$target_rel"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  data_root="$(data_repo_abs_path)"
+  abs_target="$data_root/$target_rel"
+  mkdir -p "$(dirname "$abs_target")"
+  git show "$SOURCE_BRANCH:$source_path" > "$abs_target"
+  data_git add "$target_rel"
+}
+
 sync_tree() {
   local source_dir="$1"
   local target_dir="$2"
@@ -336,6 +378,31 @@ sync_tree_web() {
   web_git add "$target_rel"
 }
 
+sync_tree_data() {
+  local source_dir="$1"
+  local target_rel="$2"
+  local data_root abs_target
+
+  if ! git ls-tree -d "$SOURCE_BRANCH:$source_dir" >/dev/null 2>&1; then
+    echo "  skip dir (missing): $source_dir/"
+    return 0
+  fi
+
+  echo "  dir:  $source_dir/ -> $DATA_REPO/$target_rel/"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  data_root="$(data_repo_abs_path)"
+  abs_target="$data_root/$target_rel"
+  local tmp
+  tmp="$(mktemp -d)"
+  git archive "$SOURCE_BRANCH" "$source_dir" | tar -x -C "$tmp"
+  mkdir -p "$(dirname "$abs_target")"
+  rm -rf "$abs_target"
+  mv "$tmp/$source_dir" "$abs_target"
+  rm -rf "$tmp"
+  data_git add "$target_rel"
+}
+
 sync_pdfs() {
   local source_dir="$1"
   local target_dir="$2"
@@ -356,6 +423,69 @@ sync_pdfs() {
 
   if [[ "$copied" == "0" ]]; then
     echo "  skip pdfs (none found): $source_dir/"
+  fi
+}
+
+sync_pdfs_data() {
+  local source_dir="$1"
+  local target_rel="$2"
+  local copied=0 file_name
+
+  if ! git ls-tree "$SOURCE_BRANCH:$source_dir" >/dev/null 2>&1; then
+    echo "  skip pdfs (missing source dir): $source_dir/"
+    return 0
+  fi
+
+  while IFS= read -r file_name; do
+    [[ -z "$file_name" ]] && continue
+    if is_course_pdf "$file_name"; then
+      sync_file_data "$source_dir/$file_name" "$target_rel/$file_name"
+      copied=1
+    fi
+  done < <(git ls-tree --name-only "$SOURCE_BRANCH:$source_dir")
+
+  if [[ "$copied" == "0" ]]; then
+    echo "  skip pdfs (none found): $source_dir/"
+  fi
+}
+
+sync_manifest_data() {
+  local source_path="$1"
+  local target_rel="$2"
+  local data_root abs_target
+
+  if ! git cat-file -e "$SOURCE_BRANCH:$source_path" 2>/dev/null; then
+    echo "  skip file (missing): $source_path"
+    return 0
+  fi
+
+  echo "  file: $source_path -> $DATA_REPO/$target_rel"
+  [[ "$DRY_RUN" == "1" ]] && return 0
+
+  data_root="$(data_repo_abs_path)"
+  abs_target="$data_root/$target_rel"
+  mkdir -p "$(dirname "$abs_target")"
+  git show "$SOURCE_BRANCH:$source_path" \
+    | python3 -c 'import json, sys
+data = json.load(sys.stdin)
+data["entry"] = "slides/markdown.md"
+print(json.dumps(data, ensure_ascii=False, indent=2))' > "$abs_target"
+  printf '\n' >> "$abs_target"
+  data_git add "$target_rel"
+}
+
+sync_slides_data() {
+  local source_dir="$1"
+  local target_rel="$2"
+
+  sync_tree_data "$source_dir/slides" "$target_rel/slides"
+
+  if git cat-file -e "$SOURCE_BRANCH:$source_dir/slides/markdown.md" 2>/dev/null; then
+    return 0
+  fi
+
+  if git cat-file -e "$SOURCE_BRANCH:$source_dir/slides/manual.md" 2>/dev/null; then
+    sync_file_data "$source_dir/slides/manual.md" "$target_rel/slides/markdown.md"
   fi
 }
 
@@ -481,6 +611,13 @@ prepare_web_repo() {
   web_git pull origin "$WEB_BRANCH"
 }
 
+prepare_data_repo() {
+  require_data_repo
+  data_git fetch origin
+  data_git checkout "$DATA_BRANCH"
+  data_git pull origin "$DATA_BRANCH"
+}
+
 publish_draft_dir() {
   local draft_dir="$1"
   local target_dir
@@ -489,13 +626,13 @@ publish_draft_dir() {
 
   echo "Publishing $draft_dir"
   echo "  from: $SOURCE_BRANCH:$draft_dir"
-  echo "  to:   $target_dir"
+  echo "  to:   $DATA_REPO/$target_dir"
 
-  sync_tree "$draft_dir/slides" "$target_dir/slides"
-  sync_tree "$draft_dir/images" "$target_dir/images"
-  sync_tree "$draft_dir/quizzes" "$target_dir/quizzes"
-  sync_file "$draft_dir/manifest.json" "$target_dir/manifest.json"
-  sync_pdfs "$draft_dir" "$target_dir"
+  sync_slides_data "$draft_dir" "$target_dir"
+  sync_tree_data "$draft_dir/images" "$target_dir/images"
+  sync_tree_data "$draft_dir/quizzes" "$target_dir/quizzes"
+  sync_manifest_data "$draft_dir/manifest.json" "$target_dir/manifest.json"
+  sync_pdfs_data "$draft_dir" "$target_dir"
 }
 
 publish_web_draft_dir() {
@@ -548,6 +685,22 @@ commit_web_repo() {
   fi
 }
 
+commit_data_repo() {
+  local message="$1"
+
+  if data_git diff --cached --quiet; then
+    echo "No changes to publish on cgv-data ($DATA_BRANCH)."
+    return 0
+  fi
+
+  data_git commit -m "$message"
+  if [[ "$PUSH" == "1" ]]; then
+    data_git push origin "$DATA_BRANCH"
+  else
+    echo "Committed locally on cgv-data. PUSH=0, so not pushing."
+  fi
+}
+
 publish_web_changes() {
   local draft_dir
 
@@ -592,11 +745,13 @@ main() {
   fi
 
   if [[ "${1:-}" == "--list" ]]; then
+    require_data_repo
     list_mappings
     exit 0
   fi
 
   git fetch origin
+  require_data_repo
 
   local current_branch draft_dirs web_only=0
   current_branch="$(git branch --show-current)"
@@ -633,8 +788,7 @@ main() {
     exit 0
   fi
 
-  git checkout "$TARGET_BRANCH"
-  git pull origin "$TARGET_BRANCH"
+  prepare_data_repo
 
   while IFS= read -r draft_dir; do
     [[ -z "$draft_dir" ]] && continue
@@ -642,7 +796,7 @@ main() {
     echo
   done <<< "$draft_dirs"
 
-  commit_branch "$TARGET_BRANCH" "Publish course content from en-borrador"
+  commit_data_repo "Publish course content from curriculo"
 
   if [[ "$PUBLISH_WEB" == "1" ]]; then
     publish_web_changes "$draft_dirs"

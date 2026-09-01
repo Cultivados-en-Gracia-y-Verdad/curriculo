@@ -86,44 +86,6 @@ Este libro se lee sobre una página con marcas fijas. Conviene conocerlas antes 
 
 **Referencias.** Los bloques `=` usan `capítulo:versículo` (p. ej. `**4:1**`) en todo el libro.
 
-# Índice
-
-- Introducción
-- Cómo usar este manual
-- APOCALIPSIS 1:1–3:22 LA VISIÓN INICIAL Y LOS MENSAJES A LAS SIETE IGLESIAS
-- APOCALIPSIS 4:1–8:1 EL TRONO, EL LIBRO Y LOS SELLOS
-- APOCALIPSIS 8:2–11:19 LAS SIETE TROMPETAS
-- APOCALIPSIS 12:1–14:20 SEÑALES, BESTIAS Y COSECHAS
-- APOCALIPSIS 15:1–16:21 LAS SIETE COPAS
-- APOCALIPSIS 17:1–19:10 BABILONIA Y LA BODA
-- APOCALIPSIS 19:11–22:5 EL JINETE, LOS MIL AÑOS Y LA CIUDAD
-- APOCALIPSIS 22:6–21 ESTAS PALABRAS FIELES Y VERDADERAS
-- Apéndices
-
-## Tramos
-
-- Apocalipsis 1:1–8 Revelación, profecía y gracia
-- Apocalipsis 1:9–20 En el Espíritu
-- Apocalipsis 2:1–7 Escribe al ángel de la iglesia efesia
-- Apocalipsis 2:8–11 Escribe al ángel de la iglesia de los esmirneos
-- Apocalipsis 2:12–17 Escribe al ángel de la iglesia en Pérgamo
-- Apocalipsis 2:18–29 Escribe al ángel de la iglesia en Tiatira
-- Apocalipsis 3:1–6 Escribe al ángel de la iglesia en Sardis
-- Apocalipsis 3:7–13 Escribe al ángel de la iglesia en Filadelfia
-- Apocalipsis 3:14–22 Escribe al ángel de la iglesia de los laodicenses
-- Apocalipsis 4:1–5:14 El trono y el libro
-- Apocalipsis 6:1–8:1 Los siete sellos
-- Apocalipsis 8:2–11:19 Las siete trompetas
-- Apocalipsis 12:1–17 Una gran señal y otra señal
-- Apocalipsis 13:1–18 La bestia y la otra bestia
-- Apocalipsis 14:1–20 El cordero en Sion
-- Apocalipsis 15:1–16:21 Las siete últimas plagas
-- Apocalipsis 17:1–19:10 El juicio de la gran prostituta
-- Apocalipsis 19:11–21 El cielo abierto
-- Apocalipsis 20:1–10 El abismo y los mil años
-- Apocalipsis 20:11–15 El trono blanco grande
-- Apocalipsis 21:1–22:5 Cielo nuevo y la novia
-- Apocalipsis 22:6–21 La profecía de este libro
 # APOCALIPSIS 1:1–3:22 LA VISIÓN INICIAL Y LOS MENSAJES A LAS SIETE IGLESIAS
 
 ## Apocalipsis 1:1–8 Revelación, profecía y gracia
