@@ -95,7 +95,7 @@ cumplimiento:
 **a quien lo dice: **Noé
 **de quien se trata: **toda carne
 **evento:** el fin de toda carne, Dios destruyéndolos con toda la tierra
-**cumplimiento: **Génesis 7:21
+**cumplimiento: **Génesis 7:21-23
 
 12
 
@@ -104,7 +104,7 @@ cumplimiento:
 **a quien lo dice: **Noé
 **de quien se trata: **la tierra y Noé
 **evento:** Dios traerá un diluvio sobre la tierra, todo lo que hay en la tierra perecerá, Dios establecerá su pacto con Noé, el entrará en el arca con sus hijos, su mujer y las mujeres de sus hijos.
-**cumplimiento: **Génesis 7:6-7
+**cumplimiento: **Génesis 7:6-7,13
 
 13
 
@@ -117,14 +117,39 @@ cumplimiento:
 
 14
 
-**pasaje: **
+**pasaje: **Génesis 8:21
+**quien lo dice: **Jehová
+**a quien lo dice: **a su corazón
+**de quien se trata: **la tierra y todo ser viviente
+**evento:** nunca más volverá a maldecir la tierra como lo hizo
+**cumplimiento: **
+
+15
+
+**pasaje: **Génesis 9:1-7
+**quien lo dice: **Dios
+**a quien lo dice: **Noé y sus hijos
+**de quien se trata: **animales y la sangre de ellos
+**evento:** el temor de ustedes y el pavor de ustedes será sobre todo animal de la tierra y sobre toda ave de los cielos, en todo lo que se arrastre el suelo y en todos los peces del mar; en la mano de ustedes fueron dados. Todo reptil que él viviente, para ustedes será para comida; como verdura de hierba di a ustedes el todo. De cada hombre pediré cuenta de la vida de un ser humano
+**cumplimiento: **
+
+16
+
+**pasaje:** Génesis 9:8-16
+**quien lo dice: **Dios
+**a quien lo dice: **Noé y sus hijos
+**de quien se trata: **Dios
+**evento:** 
+**cumplimiento:**
+
+17
+
+**pasaje:** 
 **quien lo dice: **
 **a quien lo dice: **
 **de quien se trata: **
 **evento:** 
-**cumplimiento: **
-
-
+**cumplimiento:** 
 
 
 
